@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
- - ⏩ [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 💣 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - ⏩ [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
  - 👉 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)<!-- MEMES:END -->
 
 ---
