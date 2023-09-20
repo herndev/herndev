@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - ⏩ [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 👉 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)<!-- MEMES:END -->
+ - 💣 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
+ - ⏩ [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
+ - 👉 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)<!-- MEMES:END -->
 
 ---
 
