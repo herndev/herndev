@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stacked 3D cache is coming to Intel CPUs, and gamers should be excited](https://www.pcgamer.com/stacked-3d-cache-is-coming-to-intel-cpus-and-gamers-should-be-excited)
  - [A new survey finds the public are growing increasingly wary of AI](https://www.pcgamer.com/a-new-survey-finds-the-public-are-growing-increasingly-wary-of-ai)
- - [NYT Connections hint and answers today: September 20 &lpar;#101&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-20-101)
- - [Ahsoka is promising the return of one of Star Wars’ best villains](https://www.polygon.com/star-wars/2020/11/27/21722488/the-mandalorian-admiral-thrawn-explained-star-wars-ezra-bridger)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 20 &lpar;#101&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-20-101)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
