@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A new survey finds the public are growing increasingly wary of AI](https://www.pcgamer.com/a-new-survey-finds-the-public-are-growing-increasingly-wary-of-ai)
  - [NYT Connections hint and answers today: September 20 &lpar;#101&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-20-101)
- - [Ahsoka is promising the return of one of Star Wars’ best villains](https://www.polygon.com/star-wars/2020/11/27/21722488/the-mandalorian-admiral-thrawn-explained-star-wars-ezra-bridger)
- - [Who are Star Wars’ Witches of Dathomir?](https://www.polygon.com/star-wars/23840577/star-wars-ahsoka-witches-of-dathomir-clone-wars)<!-- GAME:END -->
+ - [Ahsoka is promising the return of one of Star Wars’ best villains](https://www.polygon.com/star-wars/2020/11/27/21722488/the-mandalorian-admiral-thrawn-explained-star-wars-ezra-bridger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
