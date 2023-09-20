@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Mirage has very reasonable system requirements, thank god](https://www.pcgamer.com/assassins-creed-mirage-has-very-reasonable-system-requirements-thank-god)
- - [The Silly Story Behind The Weirdest Xbox Exclusive](https://kotaku.com/yakuza-like-a-dragon-ps5-xbox-series-x-s-exclusive-why-1850854888)
- - [Lofi girl has a new form: Lego hip hop girl](https://www.polygon.com/23881211/lofi-hip-hop-girl-lego-stream-youtube)<!-- GAME:END -->
+ - [How to Watch: Xbox Digital Broadcast at Tokyo Game Show 2023](https://news.xbox.com/en-us/2023/09/19/xbox-digital-broadcast-tokyo-game-show-how-to-watch/)
+ - [FTC says Microsoft leaked its own stuff, Phil Spencer downplays relevance of confidential docs](https://www.pcgamer.com/ftc-says-microsoft-leaked-its-own-stuff-phil-spencer-downplays-relevance-of-confidential-docs)
+ - [Assassin&#39;s Creed Mirage has very reasonable system requirements, thank god](https://www.pcgamer.com/assassins-creed-mirage-has-very-reasonable-system-requirements-thank-god)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
