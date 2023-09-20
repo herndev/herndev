@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Eats will start accepting food stamps for grocery delivery in 2024](https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant)
- - [Google’s smart home strategy is as disastrous as Google’s messaging strategy](https://www.androidauthority.com/googles-smart-home-strategy-disastrous-3329320/)
- - [Amazon announces updated Echo Frames, its Alexa-powered glasses, offering enhanced speech processing, better noise isolation, and six hours of battery for $270 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p27#a230920p27)<!-- TECH:END -->
+ - [Amazon makes Alexa more conversational with generative AI](https://www.androidauthority.com/amazon-alexa-ai-improvements-3366260/)
+ - [Commute in style with this tempting Razor C45 electric scooter deal](https://www.androidauthority.com/razor-c45-electric-scooter-deal-3366256/)
+ - [Amazon unveils the $180 Echo Hub, a wall-mountable smart home controller with an 8&quot; touchscreen, and Map View, a new interface that shows a home&#39;s floor plan &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230920/p29#a230920p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
