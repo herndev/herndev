@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Galaxy Buds FE leak give us our best look yet at Samsung’s earbuds](https://www.androidauthority.com/galaxy-buds-fe-new-images-3366278/)
- - [The new FineWoven iPhone cases are very bad](https://www.theverge.com/2023/9/20/23882255/apple-iphone-15-finewoven-case-wallet-bad)
- - [EA taps Burnout studio Criterion to work on ‘new era’ of Battlefield](https://www.theverge.com/2023/9/20/23882537/ea-criterion-battlefield)<!-- TECH:END -->
+ - [Galaxy Tab S9 FE and S9 FE Plus leak reveals prices, colors, and versions](https://www.androidauthority.com/galaxy-tab-s9-fe-price-leak-3366300/)
+ - [What an AI-Generated Medieval Village Means for the Future of Art](https://www.wired.com/story/artificial-intelligence-medieval-village/)
+ - [Darrow, which uses AI to parse public documents for class action lawsuit potential, raised a $35M Series B led by Georgian and says ~50 companies use its tool &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230920/p31#a230920p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
