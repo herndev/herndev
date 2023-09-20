@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news from Amazon’s September 2023 product launch event](https://www.theverge.com/2023/9/20/23881164/amazon-event-hardware-devices-alexa-echo-ring)
- - [Another one? We’ve lost count of T-Mobile’s data breaches](https://www.androidauthority.com/t-mobile-app-leaking-user-information-3366182/)
- - [How to add Markdown support to Google Docs](https://www.theverge.com/23881050/google-docs-markdown-support-how-to)<!-- TECH:END -->
+ - [Bluesky Stats: by the end of September 19, after Elon Musk floated an X paywall, Bluesky added 53,585 new signups, or 5% of its ~1,125,499 total userbase &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230920/p23#a230920p23)
+ - [Unity&#39;s self-sabotage with pricing will be a long-term problem for Apple](https://appleinsider.com/articles/23/09/20/unitys-self-sabotage-with-pricing-will-be-a-long-term-problem-for-apple?utm_medium=rss)
+ - [1Password rolls out public passkey support to its iOS and Android apps and web extensions; replacing a master password with a passkey is coming later in 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230920/p22#a230920p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
