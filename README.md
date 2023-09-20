@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is finally &lpar;finally!&rpar; available on the iPad](https://www.androidauthority.com/whatsapp-beta-ipad-3366113/)
- - [Q&amp;A with Matthew Panzarino, who recently stepped down as TechCrunch EIC after 10 years, on the site&#39;s Silicon Valley relationship, the future of media, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230920/p9#a230920p9)
- - [iPhone 15 gets Android 14-like battery health info before Android gets it](https://www.androidauthority.com/apple-iphone-15-battery-health-info-3366103/)<!-- TECH:END -->
+ - [Samsung brings One UI 6 beta to the Galaxy S22 series](https://www.androidauthority.com/samsung-galaxy-s22-series-one-ui-6-beta-korea-3366130/)
+ - [In a WeChat post, China&#39;s Ministry of State Security accuses the US of hacking Huawei&#39;s servers, stealing critical data, and installing backdoors since 2009 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230920/p10#a230920p10)
+ - [T-Mobile users say other people’s account information is appearing in their app](https://www.theverge.com/2023/9/20/23881825/t-mobile-account-security-breach-customer-information-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
