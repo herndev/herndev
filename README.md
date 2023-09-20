@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
+ - 💣 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
  - ⏩ [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)
- - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
+ - 👉 [Does she like you?](http://9gag.com/gag/az2v8Bb)<!-- MEMES:END -->
 
 ---
 
