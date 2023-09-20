@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That moment when the heebie-jeebies consumes you](http://9gag.com/gag/a8qvo63)
- - ⏩ [Justice Served..](http://9gag.com/gag/ay2m8YY)
- - 👉 [I&#39;m tired boss](http://9gag.com/gag/a7qmMxm)<!-- MEMES:END -->
+ - 💣 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
+ - ⏩ [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - 👉 [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)<!-- MEMES:END -->
 
 ---
 
