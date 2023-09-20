@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Who are Star Wars’ Witches of Dathomir?](https://www.polygon.com/star-wars/23840577/star-wars-ahsoka-witches-of-dathomir-clone-wars)
  - [How to Watch: Xbox Digital Broadcast at Tokyo Game Show 2023](https://news.xbox.com/en-us/2023/09/19/xbox-digital-broadcast-tokyo-game-show-how-to-watch/)
- - [FTC says Microsoft leaked its own stuff, Phil Spencer downplays relevance of confidential docs](https://www.pcgamer.com/ftc-says-microsoft-leaked-its-own-stuff-phil-spencer-downplays-relevance-of-confidential-docs)
- - [Assassin&#39;s Creed Mirage has very reasonable system requirements, thank god](https://www.pcgamer.com/assassins-creed-mirage-has-very-reasonable-system-requirements-thank-god)<!-- GAME:END -->
+ - [FTC says Microsoft leaked its own stuff, Phil Spencer downplays relevance of confidential docs](https://www.pcgamer.com/ftc-says-microsoft-leaked-its-own-stuff-phil-spencer-downplays-relevance-of-confidential-docs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
