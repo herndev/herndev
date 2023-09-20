@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Playing Cyberpunk 2077 on a Radeon GPU? Don&#39;t use FSR, try XeSS instead](https://www.pcgamer.com/cyberpunk-2077-fsr-vs-xess)
- - [Hideo Kojima visits the Criterion closet, experiences the happiest day of his life](https://www.polygon.com/23882187/hideo-kojima-criterion-collection-closet-picks)
- - [Save Cyberpunk’s Phantom Liberty DLC Until After The Main Game](https://kotaku.com/cyberpunk-2077-phantom-liberty-when-to-play-story-dlc-1850853730)<!-- GAME:END -->
+ - [Here&#39;s one of the best deals on a 4070 Ti-powered gaming PC we&#39;ve seen in a while](https://www.pcgamer.com/heres-one-of-the-best-deals-on-a-4070-ti-powered-gaming-desktop-weve-seen-in-a-while)
+ - [Pokémon Go ‘Psychic Spectacular’ 2023 event, Timed Research guide](https://www.polygon.com/pokemon-go-guide/2023/9/20/23882070/psychic-spectacular-event-timed-research-collection-challenge-shiny-solosis)
+ - [This Adventure Game Wants You To Leave Society Behind](https://kotaku.com/a-highland-song-inkle-pc-switch-80-days-heavens-vault-1850857064)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
