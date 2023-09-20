@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky Stats: by the end of September 19, after Elon Musk floated an X paywall, Bluesky added 53,585 new signups, or 5% of its ~1,125,499 total userbase &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230920/p23#a230920p23)
- - [Unity&#39;s self-sabotage with pricing will be a long-term problem for Apple](https://appleinsider.com/articles/23/09/20/unitys-self-sabotage-with-pricing-will-be-a-long-term-problem-for-apple?utm_medium=rss)
- - [1Password rolls out public passkey support to its iOS and Android apps and web extensions; replacing a master password with a passkey is coming later in 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230920/p22#a230920p22)<!-- TECH:END -->
+ - [Uber Eats will start accepting food stamps for grocery delivery in 2024](https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant)
+ - [Google’s smart home strategy is as disastrous as Google’s messaging strategy](https://www.androidauthority.com/googles-smart-home-strategy-disastrous-3329320/)
+ - [Amazon announces updated Echo Frames, its Alexa-powered glasses, offering enhanced speech processing, better noise isolation, and six hours of battery for $270 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p27#a230920p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
