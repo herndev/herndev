@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - ⏩ [Anyone know what this thing is?](http://9gag.com/gag/a7qm7Qx)
- - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
+ - 💣 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - ⏩ [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - 👉 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)<!-- MEMES:END -->
 
 ---
 
