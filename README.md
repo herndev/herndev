@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OxygenOS 14 beta roadmap released: Here’s when it’ll arrive on your device](https://www.androidauthority.com/oxygenos-14-beta-roadmap-3366100/)
- - [Watch: Someone connected an iPhone 15 to an Android phone via USB-C](https://www.androidauthority.com/connect-iphone-15-to-android-phone-usb-c-3366099/)
- - [Galaxy S24 Ultra might not be the zoom king in 2024 thanks to this downgrade](https://www.androidauthority.com/samsung-galaxy-s24-ultra-drop-10x-camera-5x-camera-3365193/)<!-- TECH:END -->
+ - [WhatsApp is finally &lpar;finally!&rpar; available on the iPad](https://www.androidauthority.com/whatsapp-beta-ipad-3366113/)
+ - [Q&amp;A with Matthew Panzarino, who recently stepped down as TechCrunch EIC after 10 years, on the site&#39;s Silicon Valley relationship, the future of media, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230920/p9#a230920p9)
+ - [iPhone 15 gets Android 14-like battery health info before Android gets it](https://www.androidauthority.com/apple-iphone-15-battery-health-info-3366103/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
