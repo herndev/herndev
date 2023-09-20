@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
- - ⏩ [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 👉 [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)<!-- MEMES:END -->
+ - 💣 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
+ - ⏩ [Perfect match....](http://9gag.com/gag/a3ZzMb5)
+ - 👉 [Be careful !!!](http://9gag.com/gag/aVb937n)<!-- MEMES:END -->
 
 ---
 
