@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US is going to restart its free at-home covid test kit program](https://www.theverge.com/2023/9/20/23882834/covid-home-test-free-us-government)
- - [How to install Android 14 on your phone right now](https://www.androidauthority.com/install-android-14-3280834/)
- - [Apple&#39;s FineWoven accessories and iPhone cases are really bad: they&#39;re expensive, quickly show wear, and scratch very easily, leaving seemingly permanent marks &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230920/p37#a230920p37)<!-- TECH:END -->
+ - [Facebook changed its logo — see if you can tell the difference](https://www.theverge.com/2023/9/20/23883126/meta-facebook-changed-logo-design-wordmark-reactions)
+ - [Here are the details on the grisly deaths of Elon Musk’s Neuralink monkeys](https://www.theverge.com/2023/9/20/23882888/elon-musk-brain-implant-startup-neuralink-monkeys-euthanized)
+ - [Android 14 QPR1 will let you keep apps open when you close the Pixel Fold](https://www.androidauthority.com/android-14-qpr1-stay-unlocked-on-fold-3365897/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
