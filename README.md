@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lies of P: How to find and open 221b Elysion Boulevard](https://www.pcgamer.com/lies-of-p-221b-refuges-address)
- - [Microsoft&#39;s next all-new Xbox console could have Arm not x86 CPU cores](https://www.pcgamer.com/microsofts-next-all-new-xbox-console-could-have-arm-not-x86-cpu-cores)
- - [Microsoft dreamed up a next-gen Xbox, powered by Zen 6 and Navi 5, and &#39;performance beyond the capabilities of the client hardware alone&#39;](https://www.pcgamer.com/microsoft-dreamed-up-a-next-gen-xbox-powered-by-zen-6-and-navi-5-and-performance-beyond-the-capabilities-of-the-client-hardware-alone)<!-- GAME:END -->
+ - [The best thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
+ - [Lies Of P’s Weapon Customization Sure Is Something Special](https://kotaku.com/lies-of-p-weapon-customization-blade-handle-crank-1850854588)
+ - [Lies of P: How to find and open 221b Elysion Boulevard](https://www.pcgamer.com/lies-of-p-221b-refuges-address)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
