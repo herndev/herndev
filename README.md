@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Apple iPhone 15 features we want on Android](https://www.androidauthority.com/apple-iphone-15-features-android-3363897/)
- - [This $459 Bambu A1 Mini is almost the ‘easy button’ of 3D printers](https://www.theverge.com/2023/9/20/23881523/bambu-a1-mini-ams-lite-3d-printer-price-release-hands-on)
- - [Substack’s redesign makes it feel like a more traditional social media app](https://www.theverge.com/2023/9/20/23881455/substack-app-redesign-home-tab-posts-notes)<!-- TECH:END -->
+ - [All the news from Amazon’s September 2023 product launch event](https://www.theverge.com/2023/9/20/23881164/amazon-event-hardware-devices-alexa-echo-ring)
+ - [Another one? We’ve lost count of T-Mobile’s data breaches](https://www.androidauthority.com/t-mobile-app-leaking-user-information-3366182/)
+ - [How to add Markdown support to Google Docs](https://www.theverge.com/23881050/google-docs-markdown-support-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
