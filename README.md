@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone know what this thing is?](http://9gag.com/gag/a7qm7Qx)
- - ⏩ [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - 👉 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)<!-- MEMES:END -->
+ - 💣 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - ⏩ [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 👉 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)<!-- MEMES:END -->
 
 ---
 
