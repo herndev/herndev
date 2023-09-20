@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Justice Served..](http://9gag.com/gag/ay2m8YY)
- - ⏩ [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
- - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
+ - 💣 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - ⏩ [Anyone know what this thing is?](http://9gag.com/gag/a7qm7Qx)
+ - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
 
 ---
 
