@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
- - ⏩ [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)
- - 👉 [Does she like you?](http://9gag.com/gag/az2v8Bb)<!-- MEMES:END -->
+ - 💣 [Justice Served..](http://9gag.com/gag/ay2m8YY)
+ - ⏩ [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
+ - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
 
 ---
 
