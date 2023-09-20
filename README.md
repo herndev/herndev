@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn that was amazing](http://9gag.com/gag/ay2mo4V)
- - ⏩ [When Lidl in Poland tried to make their advertising more diverse](http://9gag.com/gag/aPgVR4B)
- - 👉 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)<!-- MEMES:END -->
+ - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - ⏩ [Germany](http://9gag.com/gag/aqeVg17)
+ - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
 
 ---
 
