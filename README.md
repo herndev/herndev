@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - ⏩ [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
- - 👉 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)<!-- MEMES:END -->
+ - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
+ - ⏩ [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - 👉 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)<!-- MEMES:END -->
 
 ---
 
