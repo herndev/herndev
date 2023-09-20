@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Linux Foundation launches the Unified Acceleration Foundation to create an open standard for accelerator programming, an evolution of the oneAPI initiative &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230919/p50#a230919p50)
- - [Neuralink opens enrollment for the first human trial of its brain implant for paralysis patients, which is expected to take about six years to complete &lpar;Mariam Sunny/Reuters&rpar;](http://www.techmeme.com/230919/p49#a230919p49)
- - [Bard&#39;s &quot;Google it&quot; feature adds the ability to &quot;double check&quot; answers by highlighting phrases with supporting or contradicting information found by Search &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230919/p48#a230919p48)<!-- TECH:END -->
+ - [The best Apple Watch Series 9 cases](https://www.androidauthority.com/best-apple-watch-series-9-cases-3365986/)
+ - [Calgary-based ZayZoon, which provides SMB employees access to their earned wages whenever they need them, raised a $34.5M Series B co-led by Framework and EDC &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230919/p52#a230919p52)
+ - [Apple on iPhone 15 Pro: &#39;The best game console is the one you have with you&#39;](https://appleinsider.com/articles/23/09/20/apple-on-iphone-15-pro-the-best-game-console-is-the-one-you-have-with-you?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
