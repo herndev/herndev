@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stacked 3D cache is coming to Intel CPUs, and gamers should be excited](https://www.pcgamer.com/stacked-3d-cache-is-coming-to-intel-cpus-and-gamers-should-be-excited)
- - [A new survey finds the public are growing increasingly wary of AI](https://www.pcgamer.com/a-new-survey-finds-the-public-are-growing-increasingly-wary-of-ai)
- - [NYT Connections hint and answers today: September 20 &lpar;#101&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-20-101)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for September: NieR Replicant ver.1.22474487139…, 13 Sentinels: Aegis Rim, Sid Meier’s Civilization VI](https://blog.playstation.com/2023/09/20/20230920-psplus/)
+ - [PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/playstation-5-console-ea-sports-fc-24-bundle-coming-september-29/)
+ - [PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/playstation-5-console-ea-sports-fc-24-bundle-coming-september-29/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
