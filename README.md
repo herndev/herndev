@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung brings One UI 6 beta to the Galaxy S22 series](https://www.androidauthority.com/samsung-galaxy-s22-series-one-ui-6-beta-korea-3366130/)
- - [In a WeChat post, China&#39;s Ministry of State Security accuses the US of hacking Huawei&#39;s servers, stealing critical data, and installing backdoors since 2009 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230920/p10#a230920p10)
- - [T-Mobile users say other people’s account information is appearing in their app](https://www.theverge.com/2023/9/20/23881825/t-mobile-account-security-breach-customer-information-leak)<!-- TECH:END -->
+ - [The new Garmin vivoactive 5 makes fitness tracking accessible to all](https://www.androidauthority.com/garmin-vivoactive-5-3360623/)
+ - [Code leak says WhatsApp is finally coming to iPad](https://appleinsider.com/articles/23/09/20/code-leak-says-whatsapp-is-finally-coming-to-ipad?utm_medium=rss)
+ - [After Meta criticizes potential UK encryption rules, the UK says Meta &quot;failed to provide assurances&quot; over keeping its platforms &quot;safe from sickening abusers&quot; &lpar;BBC&rpar;](http://www.techmeme.com/230920/p12#a230920p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
