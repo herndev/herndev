@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [QVC Deal Will Let You Buy Mortal Kombat 1, Diablo IV, And Other New Games For $40](https://kotaku.com/qvc-deal-40-30-20-games-mortal-kombat-diablo-zelda-1850858483)
- - [How to solve the ‘Destroy the World’ Klue in Mortal Kombat 1](https://www.polygon.com/mortal-kombat-1-guides/23882613/destroy-the-world-klue-solution-invasion-fengjian-village)
- - [How to solve the ‘Flipping Out’ Klue in Mortal Kombat 1](https://www.polygon.com/mortal-kombat-1-guides/23882257/flipping-out-klue-solution-invasion-tarkatan-colony)<!-- GAME:END -->
+ - [Counter-Strike 2 probably releases next week](https://www.pcgamer.com/counter-strike-2-probably-releases-next-week)
+ - [Everything about Sega’s new Yakuza game looks bonkers](https://www.polygon.com/23882006/like-a-dragon-infinite-wealth-release-date-sega-yakuza)
+ - [Mortal Kombat 1 does the funniest thing possible with its timeline shenanigans](https://www.polygon.com/23879205/mortal-kombat-1-timeline-ending-armageddon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
