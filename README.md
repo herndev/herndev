@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt recommends starting a new game when Cyberpunk 2077 Update 2.0 drops: &#39;starting fresh will enhance your overall gameplay experience&#39;](https://www.pcgamer.com/cd-projekt-recommends-starting-a-new-game-when-cyberpunk-2077-update-20-drops-starting-fresh-will-enhance-your-overall-gameplay-experience)
- - [Fortnite Players Can Now Get A Refund From Historic FTC Settlement](https://kotaku.com/fortnite-settlement-ftc-epic-games-apply-refund-1850856499)
- - [A friendly reminder: you have until Thursday to get a Steam Deck for 20% off](https://www.polygon.com/deals/2023/9/20/23882013/steam-deck-deal-20-percent-off-anniversary)<!-- GAME:END -->
+ - [Playing Cyberpunk 2077 on a Radeon GPU? Don&#39;t use FSR, try XeSS instead](https://www.pcgamer.com/cyberpunk-2077-fsr-vs-xess)
+ - [Hideo Kojima visits the Criterion closet, experiences the happiest day of his life](https://www.polygon.com/23882187/hideo-kojima-criterion-collection-closet-picks)
+ - [Save Cyberpunk’s Phantom Liberty DLC Until After The Main Game](https://kotaku.com/cyberpunk-2077-phantom-liberty-when-to-play-story-dlc-1850853730)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
