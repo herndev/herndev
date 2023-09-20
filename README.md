@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft dreamed up a next-gen Xbox, powered by Zen 6 and Navi 5, and &#39;performance beyond the capabilities of the client hardware alone&#39;](https://www.pcgamer.com/microsoft-dreamed-up-a-next-gen-xbox-powered-by-zen-6-and-navi-5-and-performance-beyond-the-capabilities-of-the-client-hardware-alone)
- - [Elon Musk demanded a cameo in Cyberpunk 2077 while wielding a 200 year old gun: &quot;I was armed but not dangerous&quot;](https://www.pcgamer.com/elon-musk-demanded-a-cameo-in-cyberpunk-2077-while-wielding-a-200-year-old-gun-i-was-armed-but-not-dangerous)
- - [Creator of radical Starfield stealth kill montage talks virtual choreography and Cyberpunk 2077—&#39;regarding combat and stealth … Cyberpunk takes the cake&#39;](https://www.pcgamer.com/creator-of-radical-starfield-stealth-kill-montage-talks-virtual-choreography-and-cyberpunk-2077regarding-combat-and-stealth-cyberpunk-takes-the-cake)<!-- GAME:END -->
+ - [Lies of P: How to find and open 221b Elysion Boulevard](https://www.pcgamer.com/lies-of-p-221b-refuges-address)
+ - [Microsoft&#39;s next all-new Xbox console could have Arm not x86 CPU cores](https://www.pcgamer.com/microsofts-next-all-new-xbox-console-could-have-arm-not-x86-cpu-cores)
+ - [Microsoft dreamed up a next-gen Xbox, powered by Zen 6 and Navi 5, and &#39;performance beyond the capabilities of the client hardware alone&#39;](https://www.pcgamer.com/microsoft-dreamed-up-a-next-gen-xbox-powered-by-zen-6-and-navi-5-and-performance-beyond-the-capabilities-of-the-client-hardware-alone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
