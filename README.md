@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s one of the best deals on a 4070 Ti-powered gaming PC we&#39;ve seen in a while](https://www.pcgamer.com/heres-one-of-the-best-deals-on-a-4070-ti-powered-gaming-desktop-weve-seen-in-a-while)
- - [Pokémon Go ‘Psychic Spectacular’ 2023 event, Timed Research guide](https://www.polygon.com/pokemon-go-guide/2023/9/20/23882070/psychic-spectacular-event-timed-research-collection-challenge-shiny-solosis)
- - [This Adventure Game Wants You To Leave Society Behind](https://kotaku.com/a-highland-song-inkle-pc-switch-80-days-heavens-vault-1850857064)<!-- GAME:END -->
+ - [Yeah, It’s Probably Worth Starting Cyberpunk 2077 Over For The Expansion](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-0-update-start-over-1850857578)
+ - [Fans Upset After Spotting Steam Pop-Up In Mortal Kombat 1&#39;s Switch Trailer](https://kotaku.com/mk1-mortal-kombat-1-switch-trailer-steam-pop-up-pc-port-1850857513)
+ - [Bethesda finally put proper ladders in a game, so of course players have dedicated themselves to designing Starfield ships without any](https://www.pcgamer.com/bethesda-finally-put-proper-ladders-in-a-game-so-of-course-players-have-dedicated-themselves-to-designing-starfield-ships-without-any)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
