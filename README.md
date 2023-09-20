@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
- - ⏩ [Women](http://9gag.com/gag/aYVv7bV)
- - 👉 [Be careful !!!](http://9gag.com/gag/aVb937n)<!-- MEMES:END -->
+ - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
+ - ⏩ [Germany](http://9gag.com/gag/aqeVg17)
+ - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
 
 ---
 
