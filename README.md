@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its Prime lawsuit, the FTC alleges three Amazon executives played key roles in enrolling customers unwittingly and making it hard to cancel subscriptions &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230920/p33#a230920p33)
- - [4 Best Early Prime Day TV Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)
- - [The Gruesome Story of How Neuralink’s Monkeys Actually Died](https://www.wired.com/story/elon-musk-pcrm-neuralink-monkey-deaths/)<!-- TECH:END -->
+ - [The new Echo Show 8 is smarter, speedier, and knows when you get close](https://www.theverge.com/23882844/amazon-echo-show-8-smart-display-hands-on)
+ - [Documents: Amazon is scrapping a planned 2% fee on merchants that don&#39;t use its shipping services; the fee was set to take effect on October 1 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230920/p35#a230920p35)
+ - [New study finds Mac most secure &amp; cost competitive in enterprise workplaces](https://appleinsider.com/articles/23/09/20/new-study-finds-mac-most-secure-cost-competitive-in-enterprise-workplaces?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
