@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - ⏩ [Germany](http://9gag.com/gag/aqeVg17)
- - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
+ - 💣 [Damn that was amazing](http://9gag.com/gag/ay2mo4V)
+ - ⏩ [When Lidl in Poland tried to make their advertising more diverse](http://9gag.com/gag/aPgVR4B)
+ - 👉 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)<!-- MEMES:END -->
 
 ---
 
