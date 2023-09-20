@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
- - ⏩ [Perfect match....](http://9gag.com/gag/a3ZzMb5)
- - 👉 [Be careful !!!](http://9gag.com/gag/aVb937n)<!-- MEMES:END -->
+ - 💣 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - ⏩ [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
 
 ---
 
