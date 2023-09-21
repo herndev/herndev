@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - ⏩ [The last seconds drama](http://9gag.com/gag/aqeVgRj)
- - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
+ - 💣 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - ⏩ [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 👉 [Little trick](http://9gag.com/gag/ap9n2dB)<!-- MEMES:END -->
 
 ---
 
