@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch PC Gaming Show: Most Wanted on November 30](https://www.pcgamer.com/pc-gaming-show-most-wanted-announcement-november-2023)
- - [The RX 7800 XT is an undervolting champ: matches the RTX 4070 in games for much lower power demands than normal](https://www.pcgamer.com/the-rx-7800-xt-is-an-undervolting-champ-matches-the-rtx-4070-in-games-for-much-lower-power-demands-than-normal)
- - [Cooler Master&#39;s flat-packed PC cases are here and not a day too soon](https://www.pcgamer.com/cooler-masters-flat-packed-pc-cases-are-here-and-not-a-day-too-soon)<!-- GAME:END -->
+ - [Free Play Days – Farming Simulator 22, State of Decay 2: Juggernaut Edition, and Tekken 7](https://news.xbox.com/en-us/2023/09/21/free-play-days-farming-simulator-22-state-of-decay-2-juggernaut-edition-and-tekken-7/)
+ - [Starfield Is So Chill I Keep Falling Asleep](https://kotaku.com/starfield-game-outposts-ships-quests-planets-1850859058)
+ - [Baldur&#39;s Gate 3&#39;s next &#39;big&#39; patch has been slightly delayed](https://www.pcgamer.com/baldurs-gate-3s-next-big-patch-has-been-slightly-delayed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
