@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Headway Premium drops to only $59.97, making it affordable to engage in self-growth](https://appleinsider.com/articles/23/09/21/headway-premium-drops-to-only-5997-making-it-affordable-to-engage-in-self-growth?utm_medium=rss)
- - [Lawsuit claims Google Maps caused man to drive off a collapsed bridge](https://www.androidauthority.com/google-maps-bridge-lawsuit-3366730/)
- - [Mesh, which helps customers transfer and manage digital assets like crypto, raised a $22M Series A led by Money Forward, bringing its total raised to $32M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230921/p37#a230921p37)<!-- TECH:END -->
+ - [Environmental conservation in Brazil: more investments, fewer ‘stupid decisions’](https://www.theverge.com/2023/9/21/23884192/environmental-brazil-climate-summit)
+ - [TikTok is testing a Google integration in different markets; researcher: TikTok&#39;s search feature includes an in-app option to search the same query on Google &lpar;Lara O&#39;Reilly/Insider&rpar;](http://www.techmeme.com/230921/p38#a230921p38)
+ - [Bose Unveils Smart Ultra Soundbar with Dolby Atmos Onboard     - CNET](https://www.cnet.com/tech/home-entertainment/bose-unveils-smart-ultra-soundbar-with-dolby-atmos-onboard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
