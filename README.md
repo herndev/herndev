@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - ⏩ [Little trick](http://9gag.com/gag/ap9n2dB)
- - 👉 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)<!-- MEMES:END -->
+ - 💣 [Relax song](http://9gag.com/gag/az2v1ex)
+ - ⏩ [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
 
 ---
 
