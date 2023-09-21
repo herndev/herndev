@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to perform a Brutality in Mortal Kombat 1](https://www.polygon.com/mortal-kombat-1-guides/23882136/brutality-how-to-do-perform-unlock-not-working)
- - [Dune: Spice Wars review](https://www.pcgamer.com/dune-spice-wars-review)
- - [Hotel Barcelona Interview: Swery and Suda’s Collaboration Is a Horror Action Game with a Time Looping Twist](https://news.xbox.com/en-us/2023/09/21/hotel-barcelona-interview-swery-and-suda/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 has some utterly heartbreaking voice lines for throwing a ball when there&#39;s no-one there to catch it](https://www.pcgamer.com/baldurs-gate-3-has-some-utterly-heartbreaking-voice-lines-for-throwing-a-ball-when-theres-no-one-there-to-catch-it)
+ - [Starfield walkthrough and guides](https://www.polygon.com/starfield-guide/23841889/walkthrough-guides)
+ - [Starfield ‘Burden of Proof’ all evidence locations, quest steps](https://www.polygon.com/starfield-guide/23875338/burden-of-proof-evidence-locations-all-quest-steps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
