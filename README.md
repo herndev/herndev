@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s when to expect the Cyberpunk 2077 2.0 patch to release in your time zone](https://www.pcgamer.com/cyberpunk-2077-20-patch-release-time-sept-21-unlock)
  - [Trailer for disastrous Mortal Kombat 1 Switch release contains a Steam achievement popup](https://www.pcgamer.com/trailer-for-disastrous-mortal-kombat-1-switch-release-contains-a-steam-achievement-popup)
- - [Your iPad can now serve as a gaming monitor](https://www.polygon.com/23882885/ipad-orion-gaming-monitor-app-usb-c-hdmi)
- - [Jujutsu Kaisen fans are in an uproar over its latest plot twist](https://www.polygon.com/23882712/jujutsu-kaisen-chapter-236-leak-gojo-satoru)<!-- GAME:END -->
+ - [Your iPad can now serve as a gaming monitor](https://www.polygon.com/23882885/ipad-orion-gaming-monitor-app-usb-c-hdmi)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
