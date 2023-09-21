@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox Mastercard is available today! A new way to earn more value for gaming.](https://news.xbox.com/en-us/2023/09/21/the-xbox-mastercard-is-available-today-a-new-way-to-earn-more-value-for-gaming/)
- - [There’s Apparently A Two-Hour Section Of Baldur’s Gate 3 No One’s Found Yet](https://kotaku.com/baldurs-gate-3-astarion-voice-actor-hidden-area-section-1850860934)
- - [My Hero Ultra Rumble launches September 28, new characters revealed](https://blog.playstation.com/2023/09/21/my-hero-ultra-rumble-launches-september-28-new-characters-revealed/)<!-- GAME:END -->
+ - [Todd McFarlane’s Spawn is coming to Call of Duty](https://www.polygon.com/23882911/call-of-duty-warzone-mw2-season-6-battle-pass-spawn)
+ - [Death is the hot new mechanic in Dungeons &amp; Dragons’ fancy Planescape campaign](https://www.polygon.com/23880614/dnd-dungeons-dragons-new-planescape-campaign-preview-release-date-price)
+ - [Mondo’s new Batman: Mask of the Phantasm figurine rules](https://www.polygon.com/deals/23883908/mondo-batman-figurine-mask-of-the-phantasm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
