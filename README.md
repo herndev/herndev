@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
- - ⏩ [The Nasa is looking for him](http://9gag.com/gag/ap9nGy5)
- - 👉 [Damn that was amazing](http://9gag.com/gag/ay2mo4V)<!-- MEMES:END -->
+ - 💣 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)
+ - ⏩ [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
+ - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
 
 ---
 
