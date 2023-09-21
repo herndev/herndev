@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I met both!](http://9gag.com/gag/aVb978P)
- - ⏩ [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 👉 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)<!-- MEMES:END -->
+ - 💣 [Germany](http://9gag.com/gag/aqeVg17)
+ - ⏩ [Little trick](http://9gag.com/gag/ap9n2dB)
+ - 👉 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)<!-- MEMES:END -->
 
 ---
 
