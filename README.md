@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of Microsoft&#39;s Surface and AI event, where the company is expected to detail its vision for Surface, Windows, Bing, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230921/p19#a230921p19)
- - [Conservative media mogul Rupert Murdoch is stepping down from News Corp, Fox](https://www.theverge.com/2023/9/21/23883699/rupert-murdoch-fox-news-corp-steps-down-lachlan)
- - [Here are the documents the Google antitrust trial judge didn’t want you to see](https://www.theverge.com/2023/9/21/23883680/us-google-antitrust-trial-amit-mehta-doj-exhibit-documents)<!-- TECH:END -->
+ - [Microsoft announces the new Surface Laptop Go 3](https://www.theverge.com/2023/9/21/23881978/microsoft-surface-laptop-go-3-price-release-date)
+ - [Microsoft announces the Surface Laptop Studio 2 with upgraded chips and ports](https://www.theverge.com/2023/9/21/23878658/microsoft-surface-laptop-studio-2-price-release-date)
+ - [Microsoft to add DALL-E 3 to Bing Chat](https://www.theverge.com/2023/9/21/23873690/microsoft-new-ai-features-bing-search-shopping-dall-e-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
