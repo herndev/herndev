@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
- - ⏩ [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 💣 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - ⏩ [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
  - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
 
 ---
