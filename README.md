@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 has some utterly heartbreaking voice lines for throwing a ball when there&#39;s no-one there to catch it](https://www.pcgamer.com/baldurs-gate-3-has-some-utterly-heartbreaking-voice-lines-for-throwing-a-ball-when-theres-no-one-there-to-catch-it)
- - [Starfield walkthrough and guides](https://www.polygon.com/starfield-guide/23841889/walkthrough-guides)
- - [Starfield ‘Burden of Proof’ all evidence locations, quest steps](https://www.polygon.com/starfield-guide/23875338/burden-of-proof-evidence-locations-all-quest-steps)<!-- GAME:END -->
+ - [Watch PC Gaming Show: Most Wanted on November 30](https://www.pcgamer.com/pc-gaming-show-most-wanted-announcement-november-2023)
+ - [The RX 7800 XT is an undervolting champ: matches the RTX 4070 in games for much lower power demands than normal](https://www.pcgamer.com/the-rx-7800-xt-is-an-undervolting-champ-matches-the-rtx-4070-in-games-for-much-lower-power-demands-than-normal)
+ - [Cooler Master&#39;s flat-packed PC cases are here and not a day too soon](https://www.pcgamer.com/cooler-masters-flat-packed-pc-cases-are-here-and-not-a-day-too-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
