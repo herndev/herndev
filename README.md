@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces the new Surface Laptop Go 3](https://www.theverge.com/2023/9/21/23881978/microsoft-surface-laptop-go-3-price-release-date)
- - [Microsoft announces the Surface Laptop Studio 2 with upgraded chips and ports](https://www.theverge.com/2023/9/21/23878658/microsoft-surface-laptop-studio-2-price-release-date)
- - [Microsoft to add DALL-E 3 to Bing Chat](https://www.theverge.com/2023/9/21/23873690/microsoft-new-ai-features-bing-search-shopping-dall-e-3)<!-- TECH:END -->
+ - [Microsoft’s unified Copilot is coming to Windows, Edge, and everywhere else](https://www.theverge.com/2023/9/21/23883798/microsoft-copilot-unified-windows-11-apps-launch-date)
+ - [MGM Resorts are operating ‘normally’ after hacks, sort of](https://www.theverge.com/2023/9/21/23883920/mgm-resorts-hack-recovery-hotels)
+ - [Hands-on with the Surface Laptop Go 3](https://www.theverge.com/2023/9/21/23883904/surface-laptop-go-3-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
