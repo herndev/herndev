@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Rebirth is all middle, so it gets to cut loose](https://www.polygon.com/23882020/final-fantasy-7-rebirth-hands-on-preview)
  - [Star Ocean The Second Story R Hands-on report: A classic RPG reborn](https://blog.playstation.com/2023/09/20/star-ocean-the-second-story-r-hands-on-report-a-classic-rpg-reborn/)
- - [Here&#39;s when to expect the Cyberpunk 2077 2.0 patch to release in your time zone](https://www.pcgamer.com/cyberpunk-2077-20-patch-release-time-sept-21-unlock)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth is all middle, so it gets to cut loose](https://www.polygon.com/23882020/final-fantasy-7-rebirth-hands-on-preview)
+ - [Star Ocean The Second Story R Hands-on report: A classic RPG reborn](https://blog.playstation.com/2023/09/20/star-ocean-the-second-story-r-hands-on-report-a-classic-rpg-reborn/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
