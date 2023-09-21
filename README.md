@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This can&#39;t be overstated](http://9gag.com/gag/aZD47j9)
- - ⏩ [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)
- - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
+ - 💣 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
+ - ⏩ [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 👉 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)<!-- MEMES:END -->
 
 ---
 
