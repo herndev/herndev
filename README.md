@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NYT Connections hint and answers today: September 21 &lpar;#102&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-21-102)
- - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)
- - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)<!-- GAME:END -->
+ - [Hotel Barcelona Interview: Swery and Suda’s Collaboration Is a Horror Action Game with a Time Looping Twist](https://news.xbox.com/en-us/2023/09/21/hotel-barcelona-interview-swery-and-suda/)
+ - [Xbox Digital Broadcast at Tokyo Game Show 2023: Every Announcement and Game Reveal](https://news.xbox.com/en-us/2023/09/21/xbox-tokyo-game-show-tgs-recap-all-games/)
+ - [Asus&#39; 135-inch Micro-LED display is utterly ridiculous yet utterly lustworthy](https://www.pcgamer.com/asus-135-inch-micro-led-display-is-utterly-ridiculous-yet-utterly-lustworthy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
