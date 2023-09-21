@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon gets better search, onboarding, and cross-server interactions](https://www.theverge.com/2023/9/21/23884312/mastodon-search-onboarding-cross-server-interactions-4-2)
- - [Threads might be getting an edit button soon](https://www.theverge.com/2023/9/21/23884466/threads-edit-button-development-instagram-meta)
- - [Nintendo now supports passwordless sign-ins](https://www.theverge.com/2023/9/21/23884464/nintendo-passwordless-sign-in-passkeys)<!-- TECH:END -->
+ - [NVIDIA GeForce RTX 5090: Release date, price, specs, rumors, and more](https://www.androidauthority.com/nvidia-geforce-rtx-5090-3361677/)
+ - [Spotify code suggests HiFi tier is coming with lossless audio for $20 / month](https://www.theverge.com/2023/9/21/23884577/spotify-supremium-lossless-audio-tier-code)
+ - [How to turn off NameDrop in iOS 17](https://www.theverge.com/23884415/ios-17-namedrop-how-to-iphone-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
