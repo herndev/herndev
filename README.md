@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Fold replacement parts and iFixit repair guides now available](https://www.theverge.com/2023/9/21/23883578/pixel-fold-ifixit-replacement-parts-repair-guides-price)
- - [Data-labeling firms like Scale AI and Appen are hiring writers and poets with humanities backgrounds to improve the literary quality and creativity of AI tools &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230921/p7#a230921p7)
- - [Just 48 hours left to score 20% off a Lifetime Plex Pass](https://www.androidauthority.com/lifetime-plex-pass-deal-3366392/)<!-- TECH:END -->
+ - [The Biden administration awards $238M via the Defense Department to set up eight chip research hubs, one of the earliest releases of the nearly $53B CHIPS Act &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/230921/p9#a230921p9)
+ - [How to use Personal Voice in iOS 17 and how it compares to an actual voice](https://appleinsider.com/inside/ios-17/tips/how-to-use-personal-voice-in-ios-17-and-how-it-compares-to-an-actual-voice?utm_medium=rss)
+ - [Google is being sued after bad map directions led a man to his death](https://appleinsider.com/articles/23/09/21/google-is-being-sued-after-bad-map-directions-led-a-man-to-his-death?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
