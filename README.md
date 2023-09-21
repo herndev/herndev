@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Those NFTs Are Officially Worthless](https://kotaku.com/nft-meaning-scam-crypto-marketplace-price-bored-ape-1850860661)
- - [Skyrim’s cheese-house architect and clutter curator brought their powers to Starfield](https://www.polygon.com/23881376/skyrim-modder-starfield-developer)
- - [Playing Starfield made me appreciate Cyberpunk 2077 so much more](https://www.pcgamer.com/playing-starfield-made-me-appreciate-cyberpunk-2077-so-much-more)<!-- GAME:END -->
+ - [The Xbox Mastercard is available today! A new way to earn more value for gaming.](https://news.xbox.com/en-us/2023/09/21/the-xbox-mastercard-is-available-today-a-new-way-to-earn-more-value-for-gaming/)
+ - [There’s Apparently A Two-Hour Section Of Baldur’s Gate 3 No One’s Found Yet](https://kotaku.com/baldurs-gate-3-astarion-voice-actor-hidden-area-section-1850860934)
+ - [My Hero Ultra Rumble launches September 28, new characters revealed](https://blog.playstation.com/2023/09/21/my-hero-ultra-rumble-launches-september-28-new-characters-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
