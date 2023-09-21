@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fujifilm’s new Instax Pal is a $200 palm-sized digital camera bundled with a smartphone printer](https://www.theverge.com/2023/9/20/23879594/fujifilm-instax-pal-mini-link-2-camera-bundle-price)
  - [A consortium led by Japan Industrial Partners gains 78.65% of Toshiba via a tender offer, setting the company up to be taken private as early as December &lpar;Makiko Yamazaki/Reuters&rpar;](http://www.techmeme.com/230920/p41#a230920p41)
- - [Iconic League of Legends team TSM replaced by Shopify in pro league](https://www.theverge.com/2023/9/20/23883238/league-of-legends-lcs-tsm-replaced-shopify-rebellion)
- - [iPhone 15 users can see battery cycle count &amp; more in Settings](https://appleinsider.com/articles/23/09/21/iphone-15-users-can-see-battery-cycle-count-more-in-settings?utm_medium=rss)<!-- TECH:END -->
+ - [Intel Expects Its Quantum Computing Approach to Leapfrog Rivals     - CNET](https://www.cnet.com/tech/computing/intel-expects-its-quantum-computing-approach-to-leapfrog-rivals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
