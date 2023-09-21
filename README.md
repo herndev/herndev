@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - ⏩ [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
- - 👉 [Little trick](http://9gag.com/gag/ap9n2dB)<!-- MEMES:END -->
+ - ⏩ [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - 👉 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)<!-- MEMES:END -->
 
 ---
 
