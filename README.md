@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Terraria devs donate $200K to open-source engines in wake of Unity changes](https://www.polygon.com/23884422/terraria-open-source-game-engine-unity-controversy)
- - [Sea of Thieves’ next season adds a safer game mode with no PvP enabled](https://www.polygon.com/23884469/sea-of-thieves-safer-seas-pve-only-server-season-10)
- - [The Lego Piranha Plant blooms this fall](https://www.polygon.com/23884277/lego-piranha-plant-super-mario)<!-- GAME:END -->
+ - [One of Lance Reddick’s last movies is a fantastic-looking courtroom thriller](https://www.polygon.com/23884452/caine-mutiny-court-martial-trailer-lance-reddick-william-friedkin-release-date)
+ - [Oops, the Steam Deck is my only DVD player](https://www.polygon.com/23882080/steam-deck-dvd-player-external-vlc)
+ - [The next big Windows 11 update comes with a new AI-powered assistant but I&#39;m more excited about the update to Notepad](https://www.pcgamer.com/the-next-big-windows-11-update-comes-with-a-new-ai-powered-assistant-but-im-more-excited-about-the-update-to-notepad)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
