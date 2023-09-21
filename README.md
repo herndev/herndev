@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
- - ⏩ [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
- - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
+ - 💣 [We are a totally peaceful group](http://9gag.com/gag/aoKG5Ze)
+ - ⏩ [Water is wet](http://9gag.com/gag/a7qmWX2)
+ - 👉 [Damn thyroids](http://9gag.com/gag/a9q4RRW)<!-- MEMES:END -->
 
 ---
 
