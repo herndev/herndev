@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NVIDIA GeForce RTX 5090: Release date, price, specs, rumors, and more](https://www.androidauthority.com/nvidia-geforce-rtx-5090-3361677/)
- - [Spotify code suggests HiFi tier is coming with lossless audio for $20 / month](https://www.theverge.com/2023/9/21/23884577/spotify-supremium-lossless-audio-tier-code)
- - [How to turn off NameDrop in iOS 17](https://www.theverge.com/23884415/ios-17-namedrop-how-to-iphone-apple)<!-- TECH:END -->
+ - [USB-C on iPhone 15: Everything you need to know](https://appleinsider.com/articles/23/09/21/usb-c-on-iphone-15-everything-you-need-to-know?utm_medium=rss)
+ - [Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern Data Center](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
+ - [Eight things we learned from Intel’s Innovation keynote](https://www.theverge.com/2023/9/21/23882988/intel-innovation-2023-announcements-meteor-lake-lunar-panther-xeon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
