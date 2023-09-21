@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise Titanfall 2 Update Sparks Sequel Speculation](https://kotaku.com/titanfall-2-update-3-apex-legends-sequel-respawn-1850861446)
- - [Baldur’s Gate 3 fans are hyped to finally change their character’s appearance](https://www.polygon.com/23884107/baldurs-gate-3-patch-3-release-date-change-character-appearance-mac)
- - [No One Will Save You unleashes a terrifying alien twist on the home invasion thriller](https://www.polygon.com/reviews/23884006/no-one-will-save-you-movie-review)<!-- GAME:END -->
+ - [I can&#39;t believe my eyes! Razer Synapse is getting a much-needed quality-of-life update](https://www.pcgamer.com/i-cant-believe-my-eyes-razer-synapse-is-getting-a-much-needed-quality-of-life-update)
+ - [Razer is teaming up with Lamborghini to make an absurdly expensive and slightly orange gaming laptop](https://www.pcgamer.com/razer-is-teaming-up-with-lamborghini-to-make-an-absurdly-expensive-and-slightly-orange-gaming-laptop)
+ - [There’s Apparently A Section Of Baldur’s Gate 3 No One’s Found Yet [Update: Yes They Have]](https://kotaku.com/baldurs-gate-3-astarion-voice-actor-hidden-area-section-1850860934)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
