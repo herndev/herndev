@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; Like a Dragon: Infinite Wealth is Releasing on January 26, 2024!](https://blog.playstation.com/2023/09/20/20230920-likeadragon/)
  - [Star Ocean The Second Story R Hands-on report: A classic RPG reborn](https://blog.playstation.com/2023/09/20/star-ocean-the-second-story-r-hands-on-report-a-classic-rpg-reborn/)
- - [Final Fantasy 7 Rebirth is all middle, so it gets to cut loose](https://www.polygon.com/23882020/final-fantasy-7-rebirth-hands-on-preview)
- - [Star Ocean The Second Story R Hands-on report: A classic RPG reborn](https://blog.playstation.com/2023/09/20/star-ocean-the-second-story-r-hands-on-report-a-classic-rpg-reborn/)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth is all middle, so it gets to cut loose](https://www.polygon.com/23882020/final-fantasy-7-rebirth-hands-on-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
