@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - ⏩ [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 👉 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)<!-- MEMES:END -->
+ - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - ⏩ [The last seconds drama](http://9gag.com/gag/aqeVgRj)
+ - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
 
 ---
 
