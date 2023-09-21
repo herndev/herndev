@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai is offering free home chargers and install discounts for new EV buyers](https://www.theverge.com/2023/9/21/23883677/hyundai-free-home-charger-offer-install-discount-ioniq-5-6-kona-ev)
- - [The next Baldur’s Gate 3 patch will finally let you change your appearance](https://www.theverge.com/2023/9/21/23883903/baldurs-gate-3s-patch-3-change-character-appearance)
- - [Apple updates iWork with iOS 17, macOS Sonoma features](https://appleinsider.com/articles/23/09/21/apple-updates-iwork-with-ios-17-macos-sonoma-features?utm_medium=rss)<!-- TECH:END -->
+ - [Best Apple Watch bands you can buy right now](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-you-can-buy-right-now?utm_medium=rss)
+ - [Microsoft hopes people won’t become ‘over-reliant’ on its AI assistant](https://www.theverge.com/2023/9/21/23884030/microsoft-copilot-365-assistant-responsible-ai-panel)
+ - [Razer wants to make over your living room with its own smart gamer lights](https://www.theverge.com/2023/9/21/23882968/razer-aether-smart-light-bulb-lamp-led-strip)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
