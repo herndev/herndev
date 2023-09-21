@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Environmental conservation in Brazil: more investments, fewer ‘stupid decisions’](https://www.theverge.com/2023/9/21/23884192/environmental-brazil-climate-summit)
- - [TikTok is testing a Google integration in different markets; researcher: TikTok&#39;s search feature includes an in-app option to search the same query on Google &lpar;Lara O&#39;Reilly/Insider&rpar;](http://www.techmeme.com/230921/p38#a230921p38)
- - [Bose Unveils Smart Ultra Soundbar with Dolby Atmos Onboard     - CNET](https://www.cnet.com/tech/home-entertainment/bose-unveils-smart-ultra-soundbar-with-dolby-atmos-onboard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mastodon gets better search, onboarding, and cross-server interactions](https://www.theverge.com/2023/9/21/23884312/mastodon-search-onboarding-cross-server-interactions-4-2)
+ - [Threads might be getting an edit button soon](https://www.theverge.com/2023/9/21/23884466/threads-edit-button-development-instagram-meta)
+ - [Nintendo now supports passwordless sign-ins](https://www.theverge.com/2023/9/21/23884464/nintendo-passwordless-sign-in-passkeys)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
