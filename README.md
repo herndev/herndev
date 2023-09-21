@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I met both!](http://9gag.com/gag/aVb978P)
- - ⏩ [Little trick](http://9gag.com/gag/ap9n2dB)
- - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
+ - 💣 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
+ - ⏩ [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
 
 ---
 
