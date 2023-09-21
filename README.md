@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Lance Reddick’s last movies is a fantastic-looking courtroom thriller](https://www.polygon.com/23884452/caine-mutiny-court-martial-trailer-lance-reddick-william-friedkin-release-date)
- - [Oops, the Steam Deck is my only DVD player](https://www.polygon.com/23882080/steam-deck-dvd-player-external-vlc)
- - [The next big Windows 11 update comes with a new AI-powered assistant but I&#39;m more excited about the update to Notepad](https://www.pcgamer.com/the-next-big-windows-11-update-comes-with-a-new-ai-powered-assistant-but-im-more-excited-about-the-update-to-notepad)<!-- GAME:END -->
+ - [Modder Dav0r, creator of the iconic Garry&#39;s Mod toolgun, has died](https://www.pcgamer.com/modder-dav0r-creator-of-the-iconic-garrys-mod-toolgun-has-died)
+ - [Cyberpunk 2077 2.0 vs Phantom Liberty: What changes to expect from each update](https://www.pcgamer.com/cyberpunk-2077-20-vs-phantom-liberty-what-changes-to-expect-from-each-update)
+ - [Expend4bles has no more wishes to fulfill](https://www.polygon.com/reviews/23884080/expendables-4-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
