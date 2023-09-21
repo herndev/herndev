@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
- - ⏩ [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [The last seconds drama](http://9gag.com/gag/aqeVgRj)<!-- MEMES:END -->
+ - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - ⏩ [Little trick](http://9gag.com/gag/ap9n2dB)
+ - 👉 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)<!-- MEMES:END -->
 
 ---
 
