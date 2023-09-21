@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I can&#39;t believe my eyes! Razer Synapse is getting a much-needed quality-of-life update](https://www.pcgamer.com/i-cant-believe-my-eyes-razer-synapse-is-getting-a-much-needed-quality-of-life-update)
- - [Razer is teaming up with Lamborghini to make an absurdly expensive and slightly orange gaming laptop](https://www.pcgamer.com/razer-is-teaming-up-with-lamborghini-to-make-an-absurdly-expensive-and-slightly-orange-gaming-laptop)
- - [There’s Apparently A Section Of Baldur’s Gate 3 No One’s Found Yet [Update: Yes They Have]](https://kotaku.com/baldurs-gate-3-astarion-voice-actor-hidden-area-section-1850860934)<!-- GAME:END -->
+ - [God Help Us, Call Of Duty Is Getting Diablo IV Operators](https://kotaku.com/call-duty-warzone-diablo-4-season-6-spawn-halloween-1850862438)
+ - [$245 PS5 Controller Promises To Get Rid Of Stick Drift](https://kotaku.com/ps5-controller-stick-drift-nacon-revolution-5-pro-ps4-1850862213)
+ - [Studio Ghibli is getting bought by a Japanese TV station, but it isn’t losing independence](https://www.polygon.com/23884201/studio-ghibli-sold-japanese-tv-studio-nippon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
