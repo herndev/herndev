@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [W.T.F](http://9gag.com/gag/aKEX71b)
- - ⏩ [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - ⏩ [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
  - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
 
 ---
