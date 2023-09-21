@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - ⏩ [The last seconds drama](http://9gag.com/gag/aqeVgRj)
- - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
+ - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - ⏩ [The Nasa is looking for him](http://9gag.com/gag/ap9nGy5)
+ - 👉 [Damn that was amazing](http://9gag.com/gag/ay2mo4V)<!-- MEMES:END -->
 
 ---
 
