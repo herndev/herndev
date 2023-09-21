@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [NYT Connections hint and answers today: September 21 &lpar;#102&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-21-102)
  - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)
- - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)
- - [Today&#39;s Wordle hint and answer #824: Thursday, September 21](https://www.pcgamer.com/wordle-answer-today-hint-824-september-21)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
