@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Failed Two Captcha Tests This Week. Am I Still Human?](https://www.wired.com/story/failed-captcha-test-am-i-still-human/)
- - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
- - [Four very different horror movies from TIFF 2023](https://www.theverge.com/23880948/tiff-2023-horror-movies-sleep-when-evil-lurks-dream-scenario)<!-- TECH:END -->
+ - [A live blog of Microsoft&#39;s Surface and AI event, where the company is expected to detail its vision for Surface, Windows, Bing, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230921/p19#a230921p19)
+ - [Conservative media mogul Rupert Murdoch is stepping down from News Corp, Fox](https://www.theverge.com/2023/9/21/23883699/rupert-murdoch-fox-news-corp-steps-down-lachlan)
+ - [Here are the documents the Google antitrust trial judge didn’t want you to see](https://www.theverge.com/2023/9/21/23883680/us-google-antitrust-trial-amit-mehta-doj-exhibit-documents)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
