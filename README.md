@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple Watch bands you can buy right now](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-you-can-buy-right-now?utm_medium=rss)
- - [Microsoft hopes people won’t become ‘over-reliant’ on its AI assistant](https://www.theverge.com/2023/9/21/23884030/microsoft-copilot-365-assistant-responsible-ai-panel)
- - [Razer wants to make over your living room with its own smart gamer lights](https://www.theverge.com/2023/9/21/23882968/razer-aether-smart-light-bulb-lamp-led-strip)<!-- TECH:END -->
+ - [Headway Premium drops to only $59.97, making it affordable to engage in self-growth](https://appleinsider.com/articles/23/09/21/headway-premium-drops-to-only-5997-making-it-affordable-to-engage-in-self-growth?utm_medium=rss)
+ - [Lawsuit claims Google Maps caused man to drive off a collapsed bridge](https://www.androidauthority.com/google-maps-bridge-lawsuit-3366730/)
+ - [Mesh, which helps customers transfer and manage digital assets like crypto, raised a $22M Series A led by Money Forward, bringing its total raised to $32M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230921/p37#a230921p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
