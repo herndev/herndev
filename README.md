@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Like a Dragon: Infinite Wealth is Releasing on January 26, 2024!](https://blog.playstation.com/2023/09/20/20230920-likeadragon/)
- - [Star Ocean The Second Story R Hands-on report: A classic RPG reborn](https://blog.playstation.com/2023/09/20/star-ocean-the-second-story-r-hands-on-report-a-classic-rpg-reborn/)
- - [Final Fantasy 7 Rebirth is all middle, so it gets to cut loose](https://www.polygon.com/23882020/final-fantasy-7-rebirth-hands-on-preview)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)
+ - [Today&#39;s Wordle hint and answer #824: Thursday, September 21](https://www.pcgamer.com/wordle-answer-today-hint-824-september-21)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
