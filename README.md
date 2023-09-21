@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Farming Simulator 22, State of Decay 2: Juggernaut Edition, and Tekken 7](https://news.xbox.com/en-us/2023/09/21/free-play-days-farming-simulator-22-state-of-decay-2-juggernaut-edition-and-tekken-7/)
- - [Starfield Is So Chill I Keep Falling Asleep](https://kotaku.com/starfield-game-outposts-ships-quests-planets-1850859058)
- - [Baldur&#39;s Gate 3&#39;s next &#39;big&#39; patch has been slightly delayed](https://www.pcgamer.com/baldurs-gate-3s-next-big-patch-has-been-slightly-delayed)<!-- GAME:END -->
+ - [All Those NFTs Are Officially Worthless](https://kotaku.com/nft-meaning-scam-crypto-marketplace-price-bored-ape-1850860661)
+ - [Skyrim’s cheese-house architect and clutter curator brought their powers to Starfield](https://www.polygon.com/23881376/skyrim-modder-starfield-developer)
+ - [Playing Starfield made me appreciate Cyberpunk 2077 so much more](https://www.pcgamer.com/playing-starfield-made-me-appreciate-cyberpunk-2077-so-much-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
