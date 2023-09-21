@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hotel Barcelona Interview: Swery and Suda’s Collaboration Is a Horror Action Game with a Time Looping Twist](https://news.xbox.com/en-us/2023/09/21/hotel-barcelona-interview-swery-and-suda/)
- - [Xbox Digital Broadcast at Tokyo Game Show 2023: Every Announcement and Game Reveal](https://news.xbox.com/en-us/2023/09/21/xbox-tokyo-game-show-tgs-recap-all-games/)
- - [Asus&#39; 135-inch Micro-LED display is utterly ridiculous yet utterly lustworthy](https://www.pcgamer.com/asus-135-inch-micro-led-display-is-utterly-ridiculous-yet-utterly-lustworthy)<!-- GAME:END -->
+ - [How to perform a Brutality in Mortal Kombat 1](https://www.polygon.com/mortal-kombat-1-guides/23882136/brutality-how-to-do-perform-unlock-not-working)
+ - [Dune: Spice Wars review](https://www.pcgamer.com/dune-spice-wars-review)
+ - [Hotel Barcelona Interview: Swery and Suda’s Collaboration Is a Horror Action Game with a Time Looping Twist](https://news.xbox.com/en-us/2023/09/21/hotel-barcelona-interview-swery-and-suda/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
