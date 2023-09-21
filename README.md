@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are a totally peaceful group](http://9gag.com/gag/aoKG5Ze)
- - ⏩ [Water is wet](http://9gag.com/gag/a7qmWX2)
- - 👉 [Damn thyroids](http://9gag.com/gag/a9q4RRW)<!-- MEMES:END -->
+ - 💣 [W.T.F](http://9gag.com/gag/aKEX71b)
+ - ⏩ [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
 
 ---
 
