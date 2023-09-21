@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s unified Copilot is coming to Windows, Edge, and everywhere else](https://www.theverge.com/2023/9/21/23883798/microsoft-copilot-unified-windows-11-apps-launch-date)
- - [MGM Resorts are operating ‘normally’ after hacks, sort of](https://www.theverge.com/2023/9/21/23883920/mgm-resorts-hack-recovery-hotels)
- - [Hands-on with the Surface Laptop Go 3](https://www.theverge.com/2023/9/21/23883904/surface-laptop-go-3-hands-on)<!-- TECH:END -->
+ - [Hyundai is offering free home chargers and install discounts for new EV buyers](https://www.theverge.com/2023/9/21/23883677/hyundai-free-home-charger-offer-install-discount-ioniq-5-6-kona-ev)
+ - [The next Baldur’s Gate 3 patch will finally let you change your appearance](https://www.theverge.com/2023/9/21/23883903/baldurs-gate-3s-patch-3-change-character-appearance)
+ - [Apple updates iWork with iOS 17, macOS Sonoma features](https://appleinsider.com/articles/23/09/21/apple-updates-iwork-with-ios-17-macos-sonoma-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
