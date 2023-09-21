@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [God Help Us, Call Of Duty Is Getting Diablo IV Operators](https://kotaku.com/call-duty-warzone-diablo-4-season-6-spawn-halloween-1850862438)
- - [$245 PS5 Controller Promises To Get Rid Of Stick Drift](https://kotaku.com/ps5-controller-stick-drift-nacon-revolution-5-pro-ps4-1850862213)
- - [Studio Ghibli is getting bought by a Japanese TV station, but it isn’t losing independence](https://www.polygon.com/23884201/studio-ghibli-sold-japanese-tv-studio-nippon)<!-- GAME:END -->
+ - [Terraria devs donate $200K to open-source engines in wake of Unity changes](https://www.polygon.com/23884422/terraria-open-source-game-engine-unity-controversy)
+ - [Sea of Thieves’ next season adds a safer game mode with no PvP enabled](https://www.polygon.com/23884469/sea-of-thieves-safer-seas-pve-only-server-season-10)
+ - [The Lego Piranha Plant blooms this fall](https://www.polygon.com/23884277/lego-piranha-plant-super-mario)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
