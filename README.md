@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Todd McFarlane’s Spawn is coming to Call of Duty](https://www.polygon.com/23882911/call-of-duty-warzone-mw2-season-6-battle-pass-spawn)
- - [Death is the hot new mechanic in Dungeons &amp; Dragons’ fancy Planescape campaign](https://www.polygon.com/23880614/dnd-dungeons-dragons-new-planescape-campaign-preview-release-date-price)
- - [Mondo’s new Batman: Mask of the Phantasm figurine rules](https://www.polygon.com/deals/23883908/mondo-batman-figurine-mask-of-the-phantasm)<!-- GAME:END -->
+ - [Surprise Titanfall 2 Update Sparks Sequel Speculation](https://kotaku.com/titanfall-2-update-3-apex-legends-sequel-respawn-1850861446)
+ - [Baldur’s Gate 3 fans are hyped to finally change their character’s appearance](https://www.polygon.com/23884107/baldurs-gate-3-patch-3-release-date-change-character-appearance-mac)
+ - [No One Will Save You unleashes a terrifying alien twist on the home invasion thriller](https://www.polygon.com/reviews/23884006/no-one-will-save-you-movie-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
