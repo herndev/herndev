@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is sticking ads on Prime Video shows and movies unless you pay more](https://www.theverge.com/2023/9/22/23885242/amazon-prime-tv-movies-streaming-ads-subscription-date)
- - [Sources: Alibaba&#39;s logistics arm Cainiao Network Technology plans to file for its Hong Kong IPO as soon as next week, aiming to raise at least $1B &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/230922/p8#a230922p8)
- - [Apple Stores worldwide -- including China -- are packed for iPhone 15](https://appleinsider.com/articles/23/09/22/apple-stores-worldwide----including-china----are-packed-for-iphone-15?utm_medium=rss)<!-- TECH:END -->
+ - [You asked, and we answered your burning iPhone 15 questions](https://www.theverge.com/23884468/apple-iphone-15-battery-usb-c-questions-vergecast-hotline)
+ - [Ads are coming to Prime Video because Amazon clearly needs the cash](https://www.androidauthority.com/amazon-prime-video-ads-3367068/)
+ - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
