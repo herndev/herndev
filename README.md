@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You asked, and we answered your burning iPhone 15 questions](https://www.theverge.com/23884468/apple-iphone-15-battery-usb-c-questions-vergecast-hotline)
- - [Ads are coming to Prime Video because Amazon clearly needs the cash](https://www.androidauthority.com/amazon-prime-video-ads-3367068/)
- - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube drop tests are a terrible indication of iPhone durability](https://appleinsider.com/articles/23/09/22/youtube-drop-tests-are-a-terrible-indication-of-iphone-durability?utm_medium=rss)
+ - [How to assess ‘sustainable’ products and your own impact as a consumer](https://www.theverge.com/2023/9/22/23884475/climate-change-sustainability-consumer-behavior)
+ - [Echo Hub hands-on: It’s all about the widgets](https://www.theverge.com/23882652/amazon-echo-hub-smart-home-controller-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
