@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
- - ⏩ [I met both!](http://9gag.com/gag/aVb978P)
+ - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - ⏩ [His name was Stew](http://9gag.com/gag/a3ZzG53)
  - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
 
 ---
