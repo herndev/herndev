@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
- - ⏩ [A short and witty title](http://9gag.com/gag/agopg2n)
- - 👉 [Thanks for your service](http://9gag.com/gag/a4oBEB1)<!-- MEMES:END -->
+ - 💣 [No need to see a doctor. this movie will cure your depression, guaranteed!](http://9gag.com/gag/aA0L0q2)
+ - ⏩ [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)
+ - 👉 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)<!-- MEMES:END -->
 
 ---
 
