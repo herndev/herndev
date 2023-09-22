@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2&#39;s Peter Parker Was &#39;All In&#39; On Face Change, Says Fans Need To &#39;Get Over It’](https://kotaku.com/spider-man-2-new-face-peter-parker-change-ps5-ps4-1850866704)
- - [Jurassic World is roaring into Magic: The Gathering](https://www.polygon.com/23885952/mtg-jurassic-world-card-previews)
- - [Leaked Xbox Boss Email Perfectly Explains Why Game Publishers Are Eating Themselves Alive](https://kotaku.com/microsoft-xbox-leak-avatar-star-wars-game-pass-1850866549)<!-- GAME:END -->
+ - [Bottoms, new TMNT movie, The Machine on Netflix, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/22/23878537/new-movies-watch-bottoms-tmnt-mutant-mayhem-paramount-plus-the-machine-netflix)
+ - [Cyberpunk 2077 cheats don&#39;t exist yet for the 2.0 update or Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-cheats-pc)
+ - [Spider-Man 2&#39;s Peter Parker Was &#39;All In&#39; On Face Change, Says Fans Need To &#39;Get Over It’](https://kotaku.com/spider-man-2-new-face-peter-parker-change-ps5-ps4-1850866704)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
