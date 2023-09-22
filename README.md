@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
- - ⏩ [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 👉 [I met both!](http://9gag.com/gag/aVb978P)<!-- MEMES:END -->
+ - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - ⏩ [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 👉 [He&#39;s smooth](http://9gag.com/gag/aZD4DXW)<!-- MEMES:END -->
 
 ---
 
