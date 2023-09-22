@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hold Onto Your Butts, Microsoft&#39;s Massive Activision Blizzard Deal Is Finally Happening](https://kotaku.com/microsoft-activision-blizzard-acquisition-cma-uk-xbox-1850864469)
- - [Starfield beards just got a whole lot more detailed with this mod](https://www.pcgamer.com/starfield-beards-just-got-a-whole-lot-more-detailed-with-this-mod)
- - [Mortal Kombat 1: The Kotaku Review](https://kotaku.com/mortal-kombat-1-mk1-review-is-it-good-ps5-xbox-pc-1850863299)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons comes to Minecraft in new DLC](https://www.polygon.com/23884589/minecraft-dungeons-and-dragons-dnd-dlc-release-date)
+ - [You can do sick motorcycle rocket jumps in Cyberpunk 2077 with a gun that takes 5 minutes to find, and it&#39;s nearly impossible to control](https://www.pcgamer.com/you-can-do-sick-motorcycle-rocket-jumps-in-cyberpunk-2077-with-a-gun-that-takes-5-minutes-to-find-and-its-nearly-impossible-to-control)
+ - [Ayaneo Air 1S review](https://www.pcgamer.com/ayaneo-air-1s-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
