@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This might be the cheapest Flip foldable on the market](https://www.androidauthority.com/tecno-phantom-v-flip-3366964/)
  - [Almost 500 brands &lpar;!&rpar; have exited the smartphone market since 2017](https://www.androidauthority.com/500-brands-exit-smartphone-market-3366975/)
- - [Microsoft’s Activision Blizzard deal gets preliminary approval from UK regulator](https://www.theverge.com/2023/9/22/23885176/microsofts-activision-blizzard-uk-cma-preliminary-approval)
- - [A look at Sullivan &amp; Cromwell&#39;s tangled FTX relationship, as SBF argues that the law firm set him up; the firm has made $100M+ in fees from FTX&#39;s bankruptcy &lpar;New York Times&rpar;](http://www.techmeme.com/230922/p5#a230922p5)<!-- TECH:END -->
+ - [Microsoft’s Activision Blizzard deal gets preliminary approval from UK regulator](https://www.theverge.com/2023/9/22/23885176/microsofts-activision-blizzard-uk-cma-preliminary-approval)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
