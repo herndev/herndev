@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
- - [Daily deals Sept. 22: $20 off Apple Watch Ultra 2, Apple Watch Series 9 $389, $90 off iPad 9th Generation, more](https://appleinsider.com/articles/23/09/22/daily-deals-sept-22-20-off-apple-watch-ultra-2-apple-watch-series-9-389-90-off-ipad-9th-generation-more?utm_medium=rss)
- - [Samsung Galaxy Buds FE leak once again, this time with their launch date](https://www.androidauthority.com/samsung-galaxy-buds-fe-leak-launch-date-3367101/)<!-- TECH:END -->
+ - [The Lamborghini-inspired Dry Studio Black Diamond 75 gaming keyboard is more cool than cringe](https://www.theverge.com/23885308/dry-studio-black-diamond-75-mechanical-keyboard-specs-price-impressions)
+ - [The Teal Mask is a short, sweet reminder of Pokémon Scarlet and Violet’s real potential](https://www.theverge.com/23880643/pokemon-scarlet-violet-teal-mask-dlc-review)
+ - [Microsoft’s Activision Blizzard deal gets preliminary approval from UK regulator](https://www.theverge.com/2023/9/22/23885176/microsofts-activision-blizzard-uk-cma-preliminary-approval)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
