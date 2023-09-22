@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports FC 24’s New PlayStyles+ Are Your Players’ Personal Superpowers](https://news.xbox.com/en-us/2023/09/22/ea-sports-fc-24-playstyles/)
- - [The John Wick movies have always lived by video game rules](https://www.polygon.com/entertainment/23870227/john-wick-movies-video-game-logic)
- - [EVE: Vanguard is CCP&#39;s latest attempt at a shooter, but don&#39;t call it Dust 2](https://www.pcgamer.com/eve-vanguard-is-ccps-latest-attempt-at-a-shooter-but-dont-call-it-dust-2)<!-- GAME:END -->
+ - [Zenless Zone Zero is on track to be the game that finally pulls me into the Hoyoverse](https://www.polygon.com/23882190/zenless-zone-zero-beta-mihoyo-games-hoyoverse-preview)
+ - [Health items and grenades are so much better in Cyberpunk 2077&#39;s 2.0 update](https://www.pcgamer.com/health-items-and-grenades-are-so-much-better-in-cyberpunk-2077s-20-update)
+ - [Xbox Insider Release Notes – Alpha &lpar;2310.230920-2200&rpar;](https://news.xbox.com/en-us/2023/09/22/xbox-insider-release-notes-alpha-2310-230920-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
