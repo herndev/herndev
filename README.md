@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #825: Friday, September 22](https://www.pcgamer.com/wordle-answer-today-hint-825-september-22)
  - [Keanu Reeves looks more like Keanu Reeves now thanks to Cyberpunk 2077&#39;s latest update](https://www.pcgamer.com/keanu-reeves-looks-more-like-keanu-reeves-now-thanks-to-cyberpunk-2077s-latest-update)
- - [I know someone told you it was time to play Cyberpunk 2077 every time it got a patch, but for real, it&#39;s time now](https://www.pcgamer.com/i-know-someone-told-you-it-was-time-to-play-cyberpunk-2077-every-time-it-got-a-patch-but-for-real-its-time-now)
- - [Modder Dav0r, creator of the iconic Garry&#39;s Mod toolgun, has died](https://www.pcgamer.com/modder-dav0r-creator-of-the-iconic-garrys-mod-toolgun-has-died)<!-- GAME:END -->
+ - [I know someone told you it was time to play Cyberpunk 2077 every time it got a patch, but for real, it&#39;s time now](https://www.pcgamer.com/i-know-someone-told-you-it-was-time-to-play-cyberpunk-2077-every-time-it-got-a-patch-but-for-real-its-time-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
