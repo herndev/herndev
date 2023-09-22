@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is this? A Crossover Episode?](http://9gag.com/gag/a3ZzZLr)
- - ⏩ [I met both!](http://9gag.com/gag/aVb978P)
- - 👉 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)<!-- MEMES:END -->
+ - 💣 [I met both!](http://9gag.com/gag/aVb978P)
+ - ⏩ [Dark Briiish Empire\u2026 oh come on!](http://9gag.com/gag/abvLg0O)
+ - 👉 [What is this? A Crossover Episode?](http://9gag.com/gag/a3ZzZLr)<!-- MEMES:END -->
 
 ---
 
