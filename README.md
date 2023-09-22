@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best order to watch all the Conjuring movies](https://www.polygon.com/entertainment/23882330/conjuring-watch-order-movie-franchise-chronological-nun-annabelle)
- - [Netflix’s Spy Kids: Armageddon levels up the franchise](https://www.polygon.com/23882495/spy-kids-armageddon-review-netflix)
- - [Monster Hunter Now tips and tricks for beginners](https://www.polygon.com/monster-hunter-now-guides/2023/9/22/23884378/tips-and-tricks-beginners)<!-- GAME:END -->
+ - [Unity walks back some of its widely criticized pricing updates](https://www.polygon.com/23885373/unity-technologies-install-fee-pricing-change)
+ - [Cyberpunk 2077 tips: 12 things to know for Cyberpunk 2.0 and Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-tips-guide)
+ - [The Making Of Baldur&#39;s Gate 3&#39;s Magical Sex Scenes](https://kotaku.com/baldurs-gate-3-sex-scene-romance-intimacy-halsin-gale-1850865892)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
