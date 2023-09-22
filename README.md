@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [W.T.F](http://9gag.com/gag/aKEX71b)
- - ⏩ [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
- - 👉 [I met both!](http://9gag.com/gag/aVb978P)<!-- MEMES:END -->
+ - 💣 [I met both!](http://9gag.com/gag/aVb978P)
+ - ⏩ [Dark Briiish Empire\u2026 oh come on!](http://9gag.com/gag/abvLg0O)
+ - 👉 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)<!-- MEMES:END -->
 
 ---
 
