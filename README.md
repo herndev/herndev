@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity announces its revamped pricing model](https://www.theverge.com/2023/9/22/23882768/unity-new-pricing-model-update)
- - [Grab everything you need for your iPhone 15 - cases, cables, chargers, and more](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-accessories?utm_medium=rss)
- - [Amazon Prime Video won&#39;t be ad-free in 2024 without an additional charge](https://appleinsider.com/articles/23/09/22/amazon-prime-video-wont-be-ad-free-in-2024-without-an-additional-charge?utm_medium=rss)<!-- TECH:END -->
+ - [Make sure to update your iPhone 15 before transferring over data from your old phone](https://www.theverge.com/2023/9/22/23885885/apple-iphone-15-pro-ios-17-0-2-data-transfer)
+ - [In this official Star Wars game, anyone can die](https://www.theverge.com/2023/9/22/23885843/star-wars-eclipse-quantic-dream-tgs-2023-update)
+ - [Is Google Wallet not working? You can blame the Android 14 QPR1 beta](https://www.androidauthority.com/google-wallet-android-14-qpr1-3367245/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
