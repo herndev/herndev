@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Age gracefully](http://9gag.com/gag/aA0LyQp)
- - ⏩ [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
- - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
+ - 💣 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
+ - ⏩ [I met both!](http://9gag.com/gag/aVb978P)
+ - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
 
 ---
 
