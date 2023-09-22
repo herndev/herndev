@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple uses hidden watermarks on iPhone 15 boxes to verify authenticity](https://appleinsider.com/articles/23/09/21/apple-uses-hidden-watermarks-on-iphone-15-boxes-to-verify-authenticity?utm_medium=rss)
- - [X is shutting down Circles](https://www.theverge.com/2023/9/21/23884851/x-shutting-down-circles-twitter)
- - [how to mess with Snapchat AI &lpar;It’s a lot of fun!&rpar;](https://www.androidauthority.com/how-to-mess-with-snapchat-ai-3366788/)<!-- TECH:END -->
+ - [Binance, Binance.US, and Changpeng Zhao file to dismiss an SEC lawsuit, claiming the regulator hadn&#39;t &quot;plausibly alleged&quot; various securities-related violations &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230921/p44#a230921p44)
+ - [6 Best Early Prime Day Apple Deals &lpar;2023&rpar;: MacBooks and Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
+ - [Prime Day Deals Return in October 2023. Here’s What to Know](https://www.wired.com/story/best-october-prime-day-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
