@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whats the best posture to take in this case, to take minimal damage?](http://9gag.com/gag/a3ZzZZ7)
- - ⏩ [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 💣 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
+ - ⏩ [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 👉 [I met both!](http://9gag.com/gag/aVb978P)<!-- MEMES:END -->
 
 ---
 
