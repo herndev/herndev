@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - ⏩ [Germany](http://9gag.com/gag/aqeVg17)
- - 👉 [Police chase](http://9gag.com/gag/a9q4146)<!-- MEMES:END -->
+ - ⏩ [Thanks for your service](http://9gag.com/gag/a4oBEB1)
+ - 👉 [Most people have shitty bosses but mine is an absolute gem. He&#39;s a kind old man who has helped out many of his employees when they were in a difficult situation. It&#39;s just unfair that the police can drag you out of your place of work without any evidence.just a false statement.](http://9gag.com/gag/a9q41XD)<!-- MEMES:END -->
 
 ---
 
