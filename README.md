@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Lies or Truth choices in Lies of P](https://www.polygon.com/guides/23885202/lies-of-p-all-lies-or-truth-choices-endings)
- - [The official Lord of the Rings special effects studio is making a cozy hobbit game](https://www.pcgamer.com/the-official-lord-of-the-rings-special-effects-studio-is-making-a-cozy-hobbit-game)
- - [How to unlock all Kameo fighters in Mortal Kombat 1, and how Kameos work](https://www.polygon.com/mortal-kombat-1-guides/23884043/kameo-fighters-unlock-all-list)<!-- GAME:END -->
+ - [Hold Onto Your Butts, Microsoft&#39;s Massive Activision Blizzard Deal Is Finally Happening](https://kotaku.com/microsoft-activision-blizzard-acquisition-cma-uk-xbox-1850864469)
+ - [Starfield beards just got a whole lot more detailed with this mod](https://www.pcgamer.com/starfield-beards-just-got-a-whole-lot-more-detailed-with-this-mod)
+ - [Mortal Kombat 1: The Kotaku Review](https://kotaku.com/mortal-kombat-1-mk1-review-is-it-good-ps5-xbox-pc-1850863299)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
