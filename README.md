@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - ⏩ [Most people have shitty bosses but mine is an absolute gem. He&#39;s a kind old man who has helped out many of his employees when they were in a difficult situation. It&#39;s just unfair that the police can drag you out of your place of work without any evidence.just a false statement.](http://9gag.com/gag/a9q41XD)
- - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
+ - 💣 [What is this? A Crossover Episode?](http://9gag.com/gag/a3ZzZLr)
+ - ⏩ [I met both!](http://9gag.com/gag/aVb978P)
+ - 👉 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)<!-- MEMES:END -->
 
 ---
 
