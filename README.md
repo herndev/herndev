@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero is on track to be the game that finally pulls me into the Hoyoverse](https://www.polygon.com/23882190/zenless-zone-zero-beta-mihoyo-games-hoyoverse-preview)
- - [Health items and grenades are so much better in Cyberpunk 2077&#39;s 2.0 update](https://www.pcgamer.com/health-items-and-grenades-are-so-much-better-in-cyberpunk-2077s-20-update)
- - [Xbox Insider Release Notes – Alpha &lpar;2310.230920-2200&rpar;](https://news.xbox.com/en-us/2023/09/22/xbox-insider-release-notes-alpha-2310-230920-2200/)<!-- GAME:END -->
+ - [The best order to watch all the Conjuring movies](https://www.polygon.com/entertainment/23882330/conjuring-watch-order-movie-franchise-chronological-nun-annabelle)
+ - [Netflix’s Spy Kids: Armageddon levels up the franchise](https://www.polygon.com/23882495/spy-kids-armageddon-review-netflix)
+ - [Monster Hunter Now tips and tricks for beginners](https://www.polygon.com/monster-hunter-now-guides/2023/9/22/23884378/tips-and-tricks-beginners)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
