@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cities: Skylines 2&#39;s newest road tool has me way too excited](https://www.pcgamer.com/cities-skylines-2s-newest-road-tool-has-me-way-too-excited)
  - [The EU says &#39;prove it&#39; to companies that are dubiously claiming their products are environmentally friendly](https://www.pcgamer.com/the-eu-says-prove-it-to-companies-that-are-dubiously-claiming-their-products-are-environmentally-friendly)
- - [Assassin&#39;s Creed Mirage will support DLSS and FSR after all](https://www.pcgamer.com/assassins-creed-mirage-will-support-dlss-and-fsr-after-all)
- - [NYT Connections hint and answers today: September 22 &lpar;#103&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-22-103)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Mirage will support DLSS and FSR after all](https://www.pcgamer.com/assassins-creed-mirage-will-support-dlss-and-fsr-after-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
