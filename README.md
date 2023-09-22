@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube drop tests are a terrible indication of iPhone durability](https://appleinsider.com/articles/23/09/22/youtube-drop-tests-are-a-terrible-indication-of-iphone-durability?utm_medium=rss)
- - [How to assess ‘sustainable’ products and your own impact as a consumer](https://www.theverge.com/2023/9/22/23884475/climate-change-sustainability-consumer-behavior)
- - [Echo Hub hands-on: It’s all about the widgets](https://www.theverge.com/23882652/amazon-echo-hub-smart-home-controller-hands-on)<!-- TECH:END -->
+ - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
+ - [Daily deals Sept. 22: $20 off Apple Watch Ultra 2, Apple Watch Series 9 $389, $90 off iPad 9th Generation, more](https://appleinsider.com/articles/23/09/22/daily-deals-sept-22-20-off-apple-watch-ultra-2-apple-watch-series-9-389-90-off-ipad-9th-generation-more?utm_medium=rss)
+ - [Samsung Galaxy Buds FE leak once again, this time with their launch date](https://www.androidauthority.com/samsung-galaxy-buds-fe-leak-launch-date-3367101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
