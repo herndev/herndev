@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I met both!](http://9gag.com/gag/aVb978P)
- - ⏩ [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [Most people have shitty bosses but mine is an absolute gem. He&#39;s a kind old man who has helped out many of his employees when they were in a difficult situation. It&#39;s just unfair that the police can drag you out of your place of work without any evidence.just a false statement.](http://9gag.com/gag/a9q41XD)<!-- MEMES:END -->
+ - ⏩ [Most people have shitty bosses but mine is an absolute gem. He&#39;s a kind old man who has helped out many of his employees when they were in a difficult situation. It&#39;s just unfair that the police can drag you out of your place of work without any evidence.just a false statement.](http://9gag.com/gag/a9q41XD)
+ - 👉 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)<!-- MEMES:END -->
 
 ---
 
