@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: White House considers requiring cloud companies to disclose when a customer purchases computing resources beyond a threshold, as part of an EO on AI &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230922/p17#a230922p17)
- - [This retractable cable can help make the iPhone USB-C transition easier](https://www.theverge.com/2023/9/22/23885971/iphone-usb-c-lightning-retractable-carplay-cable)
- - [What Microsoft&#39;s AI Push Means for Your Windows Laptop     - CNET](https://www.cnet.com/tech/services-and-software/what-microsofts-ai-push-means-for-your-windows-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best MagSafe Duo alternatives with USB-C to charge an iPhone 15](https://appleinsider.com/inside/magsafe/best/best-magsafe-duo-alternatives-with-usb-c-to-charge-an-iphone-15?utm_medium=rss)
+ - [iFixit tears down… Apple’s FineWoven cases](https://www.theverge.com/2023/9/22/23886030/apple-finewoven-cases-ifixit-teardown)
+ - [Apple iPhone 15 Pro and Pro Max review: by the numbers](https://www.theverge.com/23879619/apple-iphone-15-pro-max-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
