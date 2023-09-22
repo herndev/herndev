@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked Xbox Boss Email Perfectly Explains Why Game Publishers Are Eating Themselves Alive](https://kotaku.com/microsoft-xbox-leak-avatar-star-wars-game-pass-1850866549)
- - [Metal Gear Solid Locked At 30FPS In Master Collection, Konami Confirms](https://kotaku.com/metal-gear-solid-master-collection-framerate-switch-pc-1850866496)
- - [How to solve all of Mortal Kombat 1’s Invasion Klues](https://www.polygon.com/mortal-kombat-1-guides/23878867/klue-riddle-solution-invasion)<!-- GAME:END -->
+ - [Spider-Man 2&#39;s Peter Parker Was &#39;All In&#39; On Face Change, Says Fans Need To &#39;Get Over It’](https://kotaku.com/spider-man-2-new-face-peter-parker-change-ps5-ps4-1850866704)
+ - [Jurassic World is roaring into Magic: The Gathering](https://www.polygon.com/23885952/mtg-jurassic-world-card-previews)
+ - [Leaked Xbox Boss Email Perfectly Explains Why Game Publishers Are Eating Themselves Alive](https://kotaku.com/microsoft-xbox-leak-avatar-star-wars-game-pass-1850866549)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
