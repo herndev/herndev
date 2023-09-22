@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lamborghini-inspired Dry Studio Black Diamond 75 gaming keyboard is more cool than cringe](https://www.theverge.com/23885308/dry-studio-black-diamond-75-mechanical-keyboard-specs-price-impressions)
- - [The Teal Mask is a short, sweet reminder of Pokémon Scarlet and Violet’s real potential](https://www.theverge.com/23880643/pokemon-scarlet-violet-teal-mask-dlc-review)
- - [Microsoft’s Activision Blizzard deal gets preliminary approval from UK regulator](https://www.theverge.com/2023/9/22/23885176/microsofts-activision-blizzard-uk-cma-preliminary-approval)<!-- TECH:END -->
+ - [Why the new AirPods Pro 2 are needed for Apple Vision Pro lossless audio](https://appleinsider.com/articles/23/09/22/why-the-new-airpods-pro-2-are-needed-for-apple-vision-pro-lossless-audio?utm_medium=rss)
+ - [Austin-based Diligent, which makes &quot;socially intelligent&quot; service robots for hospitals, raised $25M and plans to have 100+ robots in 22 US hospitals by year end &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230922/p14#a230922p14)
+ - [Inside the Race to Stop a Deadly Viral Outbreak in India](https://www.wired.com/story/kerala-nipah-outbreak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
