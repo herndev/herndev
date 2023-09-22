@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember her?](http://9gag.com/gag/aRE8r37)
- - ⏩ [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)
- - 👉 [His name was Stew](http://9gag.com/gag/a3ZzG53)<!-- MEMES:END -->
+ - 💣 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
+ - ⏩ [I met both!](http://9gag.com/gag/aVb978P)
+ - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
 
 ---
 
