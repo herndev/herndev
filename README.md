@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons comes to Minecraft in new DLC](https://www.polygon.com/23884589/minecraft-dungeons-and-dragons-dnd-dlc-release-date)
- - [You can do sick motorcycle rocket jumps in Cyberpunk 2077 with a gun that takes 5 minutes to find, and it&#39;s nearly impossible to control](https://www.pcgamer.com/you-can-do-sick-motorcycle-rocket-jumps-in-cyberpunk-2077-with-a-gun-that-takes-5-minutes-to-find-and-its-nearly-impossible-to-control)
- - [Ayaneo Air 1S review](https://www.pcgamer.com/ayaneo-air-1s-review)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 5 Games To Usher Autumn In With](https://kotaku.com/lies-of-p-starfield-nour-metal-gear-star-ocean-games-pl-1850864911)
+ - [PowerA Advantage with Lumectra](https://www.pcgamer.com/powera-advantage-with-lumectra)
+ - [Tears Of The Kingdom&#39;s Newspaper Questline And The State Of Hyrulean Journalism](https://kotaku.com/zelda-tears-of-the-kingdom-lucky-clover-gazette-traysi-1850864865)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
