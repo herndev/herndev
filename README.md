@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Windows 11 update will help you ditch passwords for good](https://www.theverge.com/2023/9/22/23885212/microsoft-windows-11-update-passkey-support-availability-date)
- - [Xiaomi’s latest affordable phone pinches some flagship features](https://www.androidauthority.com/xiaomi-redmi-note-13-series-china-launch-3366984/)
- - [TECNO Phantom V Flip review: Should you buy it?](https://www.androidauthority.com/tecno-phantom-v-flip-review-3362962/)<!-- TECH:END -->
+ - [Amazon is sticking ads on Prime Video shows and movies unless you pay more](https://www.theverge.com/2023/9/22/23885242/amazon-prime-tv-movies-streaming-ads-subscription-date)
+ - [Sources: Alibaba&#39;s logistics arm Cainiao Network Technology plans to file for its Hong Kong IPO as soon as next week, aiming to raise at least $1B &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/230922/p8#a230922p8)
+ - [Apple Stores worldwide -- including China -- are packed for iPhone 15](https://appleinsider.com/articles/23/09/22/apple-stores-worldwide----including-china----are-packed-for-iphone-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
