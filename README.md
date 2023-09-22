@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unity walks back some of its widely criticized pricing updates](https://www.polygon.com/23885373/unity-technologies-install-fee-pricing-change)
- - [Cyberpunk 2077 tips: 12 things to know for Cyberpunk 2.0 and Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-tips-guide)
- - [The Making Of Baldur&#39;s Gate 3&#39;s Magical Sex Scenes](https://kotaku.com/baldurs-gate-3-sex-scene-romance-intimacy-halsin-gale-1850865892)<!-- GAME:END -->
+ - [Leaked Xbox Boss Email Perfectly Explains Why Game Publishers Are Eating Themselves Alive](https://kotaku.com/microsoft-xbox-leak-avatar-star-wars-game-pass-1850866549)
+ - [Metal Gear Solid Locked At 30FPS In Master Collection, Konami Confirms](https://kotaku.com/metal-gear-solid-master-collection-framerate-switch-pc-1850866496)
+ - [How to solve all of Mortal Kombat 1’s Invasion Klues](https://www.polygon.com/mortal-kombat-1-guides/23878867/klue-riddle-solution-invasion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
