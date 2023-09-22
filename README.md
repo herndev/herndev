@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police chase](http://9gag.com/gag/a9q4146)
- - ⏩ [I met both!](http://9gag.com/gag/aVb978P)
+ - 💣 [Age gracefully](http://9gag.com/gag/aA0LyQp)
+ - ⏩ [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
  - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
 
 ---
