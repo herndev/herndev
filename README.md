@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - ⏩ [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [He&#39;s smooth](http://9gag.com/gag/aZD4DXW)<!-- MEMES:END -->
+ - 💣 [Police chase](http://9gag.com/gag/a9q4146)
+ - ⏩ [I met both!](http://9gag.com/gag/aVb978P)
+ - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
 
 ---
 
