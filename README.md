@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 review: A bigger step up than the iPhone 14 was](https://appleinsider.com/articles/23/09/22/iphone-15-review-a-bigger-step-up-than-the-iphone-14-was?utm_medium=rss)
- - [How to use interactive widgets in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-interactive-widgets-in-ios-17?utm_medium=rss)
- - [This magnetic case for your new iPhone 15 is just $9 today](https://www.androidauthority.com/lamicall-magnetic-case-iphone-15-deal-3367188/)<!-- TECH:END -->
+ - [Unity announces its revamped pricing model](https://www.theverge.com/2023/9/22/23882768/unity-new-pricing-model-update)
+ - [Grab everything you need for your iPhone 15 - cases, cables, chargers, and more](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-accessories?utm_medium=rss)
+ - [Amazon Prime Video won&#39;t be ad-free in 2024 without an additional charge](https://appleinsider.com/articles/23/09/22/amazon-prime-video-wont-be-ad-free-in-2024-without-an-additional-charge?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
