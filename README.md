@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Weekend Guide: 5 Games To Usher Autumn In With](https://kotaku.com/lies-of-p-starfield-nour-metal-gear-star-ocean-games-pl-1850864911)
- - [PowerA Advantage with Lumectra](https://www.pcgamer.com/powera-advantage-with-lumectra)
- - [Tears Of The Kingdom&#39;s Newspaper Questline And The State Of Hyrulean Journalism](https://kotaku.com/zelda-tears-of-the-kingdom-lucky-clover-gazette-traysi-1850864865)<!-- GAME:END -->
+ - [EA Sports FC 24’s New PlayStyles+ Are Your Players’ Personal Superpowers](https://news.xbox.com/en-us/2023/09/22/ea-sports-fc-24-playstyles/)
+ - [The John Wick movies have always lived by video game rules](https://www.polygon.com/entertainment/23870227/john-wick-movies-video-game-logic)
+ - [EVE: Vanguard is CCP&#39;s latest attempt at a shooter, but don&#39;t call it Dust 2](https://www.pcgamer.com/eve-vanguard-is-ccps-latest-attempt-at-a-shooter-but-dont-call-it-dust-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
