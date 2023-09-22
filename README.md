@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to throw in Party Animals](https://www.polygon.com/guides/23883893/party-animals-throw-players-controls-xbox)
- - [Final obstacle to Microsoft-Activision merger removed](https://www.polygon.com/23885210/microsoft-activision-blizzard-cma-ubisoft-cloud-concerns)
- - [Steam Deck 2 is at least two years away](https://www.pcgamer.com/steam-deck-2-is-at-least-two-years-away)<!-- GAME:END -->
+ - [How to unlock all Kameo fighters in Mortal Kombat 1, and how Kameos work](https://www.polygon.com/mortal-kombat-1-guides/23884043/kameo-fighters-unlock-all-list)
+ - [Samsung Odyssey Neo G9 G95NC review](https://www.pcgamer.com/samsung-odyssey-neo-g9-g95nc-dual-uhd)
+ - [Microsoft finally lays UK regulators&#39; cloud gaming fears to rest—new consultation suggests an end to the drawn-out Activision Blizzard acquisition saga](https://www.pcgamer.com/microsoft-finally-lays-uk-regulators-cloud-gaming-fears-to-restnew-consultation-suggests-an-end-to-the-drawn-out-activision-blizzard-acquisition-saga)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
