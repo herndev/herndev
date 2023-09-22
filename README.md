@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modder Dav0r, creator of the iconic Garry&#39;s Mod toolgun, has died](https://www.pcgamer.com/modder-dav0r-creator-of-the-iconic-garrys-mod-toolgun-has-died)
- - [Cyberpunk 2077 2.0 vs Phantom Liberty: What changes to expect from each update](https://www.pcgamer.com/cyberpunk-2077-20-vs-phantom-liberty-what-changes-to-expect-from-each-update)
- - [Expend4bles has no more wishes to fulfill](https://www.polygon.com/reviews/23884080/expendables-4-review)<!-- GAME:END -->
+ - [Keanu Reeves looks more like Keanu Reeves now thanks to Cyberpunk 2077&#39;s latest update](https://www.pcgamer.com/keanu-reeves-looks-more-like-keanu-reeves-now-thanks-to-cyberpunk-2077s-latest-update)
+ - [I know someone told you it was time to play Cyberpunk 2077 every time it got a patch, but for real, it&#39;s time now](https://www.pcgamer.com/i-know-someone-told-you-it-was-time-to-play-cyberpunk-2077-every-time-it-got-a-patch-but-for-real-its-time-now)
+ - [Modder Dav0r, creator of the iconic Garry&#39;s Mod toolgun, has died](https://www.pcgamer.com/modder-dav0r-creator-of-the-iconic-garrys-mod-toolgun-has-died)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
