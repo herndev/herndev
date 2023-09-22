@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police chase](http://9gag.com/gag/a9q4146)
- - ⏩ [A short and witty title](http://9gag.com/gag/agopg2n)
+ - 💣 [Relax song](http://9gag.com/gag/az2v1ex)
+ - ⏩ [Bonk!!](http://9gag.com/gag/ap9nR8W)
  - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
 
 ---
