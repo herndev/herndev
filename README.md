@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve: don’t expect a faster Steam Deck ‘in the next couple of years’](https://www.theverge.com/2023/9/21/23884863/valve-steam-deck-2-refresh-upgrade-cpu-2025)
  - [Binance, Binance.US, and Changpeng Zhao file to dismiss an SEC lawsuit, claiming the regulator hadn&#39;t &quot;plausibly alleged&quot; various securities-related violations &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230921/p44#a230921p44)
- - [6 Best Early Prime Day Apple Deals &lpar;2023&rpar;: MacBooks and Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
- - [Prime Day Deals Return in October 2023. Here’s What to Know](https://www.wired.com/story/best-october-prime-day-deals-2023/)<!-- TECH:END -->
+ - [6 Best Early Prime Day Apple Deals &lpar;2023&rpar;: MacBooks and Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
