@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock all Kameo fighters in Mortal Kombat 1, and how Kameos work](https://www.polygon.com/mortal-kombat-1-guides/23884043/kameo-fighters-unlock-all-list)
- - [Samsung Odyssey Neo G9 G95NC review](https://www.pcgamer.com/samsung-odyssey-neo-g9-g95nc-dual-uhd)
- - [Microsoft finally lays UK regulators&#39; cloud gaming fears to rest—new consultation suggests an end to the drawn-out Activision Blizzard acquisition saga](https://www.pcgamer.com/microsoft-finally-lays-uk-regulators-cloud-gaming-fears-to-restnew-consultation-suggests-an-end-to-the-drawn-out-activision-blizzard-acquisition-saga)<!-- GAME:END -->
+ - [All Lies or Truth choices in Lies of P](https://www.polygon.com/guides/23885202/lies-of-p-all-lies-or-truth-choices-endings)
+ - [The official Lord of the Rings special effects studio is making a cozy hobbit game](https://www.pcgamer.com/the-official-lord-of-the-rings-special-effects-studio-is-making-a-cozy-hobbit-game)
+ - [How to unlock all Kameo fighters in Mortal Kombat 1, and how Kameos work](https://www.polygon.com/mortal-kombat-1-guides/23884043/kameo-fighters-unlock-all-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
