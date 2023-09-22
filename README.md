@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The EU says &#39;prove it&#39; to companies that are dubiously claiming their products are environmentally friendly](https://www.pcgamer.com/the-eu-says-prove-it-to-companies-that-are-dubiously-claiming-their-products-are-environmentally-friendly)
  - [Assassin&#39;s Creed Mirage will support DLSS and FSR after all](https://www.pcgamer.com/assassins-creed-mirage-will-support-dlss-and-fsr-after-all)
- - [NYT Connections hint and answers today: September 22 &lpar;#103&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-22-103)
- - [Today&#39;s Wordle hint and answer #825: Friday, September 22](https://www.pcgamer.com/wordle-answer-today-hint-825-september-22)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 22 &lpar;#103&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-22-103)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
