@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines 2&#39;s newest road tool has me way too excited](https://www.pcgamer.com/cities-skylines-2s-newest-road-tool-has-me-way-too-excited)
- - [The EU says &#39;prove it&#39; to companies that are dubiously claiming their products are environmentally friendly](https://www.pcgamer.com/the-eu-says-prove-it-to-companies-that-are-dubiously-claiming-their-products-are-environmentally-friendly)
- - [Assassin&#39;s Creed Mirage will support DLSS and FSR after all](https://www.pcgamer.com/assassins-creed-mirage-will-support-dlss-and-fsr-after-all)<!-- GAME:END -->
+ - [How to throw in Party Animals](https://www.polygon.com/guides/23883893/party-animals-throw-players-controls-xbox)
+ - [Final obstacle to Microsoft-Activision merger removed](https://www.polygon.com/23885210/microsoft-activision-blizzard-cma-ubisoft-cloud-concerns)
+ - [Steam Deck 2 is at least two years away](https://www.pcgamer.com/steam-deck-2-is-at-least-two-years-away)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
