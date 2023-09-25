@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Boys spinoff Gen V, Netflix’s Castlevania sequel, and more new TV to watch this week](https://www.polygon.com/2023/9/25/23864648/new-tv-boys-gen-v-netflix-castlevania-kardashians)
- - [Starfield Gets Another Tiny Update As Players Wait For The Big One](https://kotaku.com/starfield-patch-update-bug-bethesda-rpg-game-pass-1850870975)
- - [What time does Cyberpunk 2077: Phantom Liberty release?](https://www.polygon.com/guides/2023/9/25/23889336/cyberpunk-2077-phantom-liberty-release-time-date)<!-- GAME:END -->
+ - [SAG-AFTRA video game performers are voting to authorize a strike, too](https://www.polygon.com/23885558/sag-aftra-strike-authorization-negotiation-video-game-voice-actors)
+ - [Xbox Insider Release Notes – Alpha &lpar;2310.230921-2200&rpar;](https://news.xbox.com/en-us/2023/09/25/xbox-insider-release-notes-alpha-2310-230921-2200/)
+ - [Resident Evil 4&#39;s Separate Ways DLC is another stunning survival horror remake](https://www.pcgamer.com/resident-evil-4s-separate-ways-dlc-is-another-stunning-survival-horror-remake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
