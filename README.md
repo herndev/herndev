@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Amazon hardware boss Dave Limp will take over as CEO of Blue Origin](https://www.theverge.com/2023/9/25/23889986/amazon-blue-origin-dave-limp-ceo)
- - [Garmin Venu 2 vs Venu 3: What’s the difference and should you upgrade?](https://www.androidauthority.com/garmin-venu-2-vs-venu-3-3366722/)
- - [Apple is working on adding yet another new button to the iPhone 16 series](https://www.androidauthority.com/apple-iphone-16-capture-button-3367907/)<!-- TECH:END -->
+ - [Getty Images Plunges Into the Generative AI Pool](https://www.wired.com/story/getty-images-generative-ai-photo-tool/)
+ - [The DJI Mini 4 Pro is the first mini with binocular vision in every direction](https://www.theverge.com/2023/9/25/23890019/dji-mini-4-pro-price-release-date)
+ - [Several users report that their iPhone 15 series devices, including the 15 Pro and 15 Pro Max, are overheating, especially during charging or prolonged use &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/230925/p17#a230925p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
