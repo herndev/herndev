@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [NYT Connections hint and answers today: September 25 &lpar;#106&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-25-106)
  - [A lost first-person Pokémon browser game has been found and restored](https://www.pcgamer.com/a-lost-first-person-pokemon-browser-game-has-been-found-and-restored)
- - [Today&#39;s Wordle hint and answer #828: Monday, September 25](https://www.pcgamer.com/wordle-answer-today-hint-828-september-25)
- - [After spending 30 hours in a Phantom Liberty hole, I think it works better if you start early and don&#39;t binge it](https://www.pcgamer.com/the-best-time-to-start-phantom-liberty)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #828: Monday, September 25](https://www.pcgamer.com/wordle-answer-today-hint-828-september-25)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
