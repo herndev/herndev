@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how much the Pixel 8 and Pixel 8 Pro could cost](https://www.androidauthority.com/google-pixel-8-pixel-8-pro-prices-3367577/)
  - [Hollywood writers reach tentative deal to end the strike](https://www.theverge.com/2023/9/24/23883641/hollywood-writers-strike-tentative-deal-wga-amptp)
- - [The WGA and AMPTP reach a tentative deal to end the strike; sources: the proposed three-year contract adds new AI rules, increases streaming residuals, and more &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/230924/p8#a230924p8)
- - [Q&amp;A with Kevin Systrom about Artifact&#39;s Links discovery feature, moderation, the bear case and bull case for Threads, the current state of Instagram, and more &lpar;Jody Serrano/The Messenger&rpar;](http://www.techmeme.com/230924/p7#a230924p7)<!-- TECH:END -->
+ - [The WGA and AMPTP reach a tentative deal to end the strike; sources: the proposed three-year contract adds new AI rules, increases streaming residuals, and more &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/230924/p8#a230924p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
