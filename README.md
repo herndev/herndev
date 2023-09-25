@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tinder Select is a $499 per month plan for Tinder’s 1 percent](https://www.theverge.com/2023/9/25/23889285/tinder-select-match-group-dating-apps)
- - [Grab the best deal of 2023 on the Amazon Eero 6 Plus router](https://www.androidauthority.com/amazon-eero-6-plus-router-deal-3367857/)
- - [Gripped by worker shortages, some security companies are using robots developed by 1X, Knightscope, Ava Robotics, Ascento, and others to augment human labor &lpar;Leke Oso Alabi/Financial Times&rpar;](http://www.techmeme.com/230925/p14#a230925p14)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9 review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-tab-s9-review-3362141/)
+ - [iPhone 16 rumored to gain new capacitive &#39;Capture Button,&#39; updated Action button](https://appleinsider.com/articles/23/09/25/iphone-16-rumored-to-gain-new-capacitive-capture-button-updated-action-button?utm_medium=rss)
+ - [How to Make a Pig Heart Transplant Last in a Person](https://www.wired.com/story/how-to-make-a-pig-heart-transplant-last-in-a-person/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
