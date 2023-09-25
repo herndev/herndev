@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US to introduce &#39;guardrails&#39; to ensure that companies benefitting from CHIPS Act funding spend it where they should be](https://www.pcgamer.com/us-to-introduce-guardrails-to-ensure-that-companies-benefitting-from-chips-act-funding-spend-it-where-they-should-be)
- - [NYT Connections hint and answers today: September 25 &lpar;#106&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-25-106)
- - [A lost first-person Pokémon browser game has been found and restored](https://www.pcgamer.com/a-lost-first-person-pokemon-browser-game-has-been-found-and-restored)<!-- GAME:END -->
+ - [Hollywood writers’ strike nears end as union and studios reach agreement](https://www.polygon.com/23883791/writers-strike-wga-end-amptp-agreement-sag)
+ - [Pokémon Go ‘A Paldean Adventure’ choose a path quest steps: Who should you adventure with?](https://www.polygon.com/pokemon-go-guide/23859369/a-paldean-adventure-quest-choose-a-path-which-fuecoco-sprigatito-quaxly-special-research)
+ - [Cyberpunk 2077 Phantom Liberty airdrops: Best rewards and unique guns](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-airdrops-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
