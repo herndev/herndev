@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - ⏩ [Everything is fake in China](http://9gag.com/gag/ap9nP35)
- - 👉 [Wild wild west](http://9gag.com/gag/aQEDABz)<!-- MEMES:END -->
+ - 💣 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - ⏩ [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 👉 [University dorm room in china](http://9gag.com/gag/aBdbEnz)<!-- MEMES:END -->
 
 ---
 
