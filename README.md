@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield glitch sees players followed by rocks, forests, and the entire city of New Atlantis](https://www.pcgamer.com/starfield-glitch-sees-players-followed-by-rocks-forests-and-the-entire-city-of-new-atlantis)
- - [Monster Hunter Now ‘Diablos Invasion’ event guide](https://www.polygon.com/monster-hunter-now-guides/2023/9/22/23885388/diablos-event-time-date-invasion)
- - [How to get Paintballs in Monster Hunter Now, and how Paintballs work](https://www.polygon.com/monster-hunter-now-guides/23868371/paintballs-get-palico-blue-pink)<!-- GAME:END -->
+ - [Jigsaw From Saw X Invites Xbox Fans To Solve Traps In A Game With Consequences](https://news.xbox.com/en-us/2023/09/25/saw-x-invites-xbox-fans-to-solve-traps-in-a-game-with-consequences/)
+ - [Cyberpunk 2077: Phantom Liberty Iconic weapon locations](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-weapons-iconic-legendary)
+ - [Bayonetta creator Hideki Kamiya is leaving PlatinumGames](https://www.polygon.com/23888882/hideki-kamiya-bayonetta-leaves-platinum)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
