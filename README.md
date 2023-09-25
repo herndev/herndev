@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Kevin Systrom about Artifact&#39;s Links discovery feature, moderation, the bear case and bull case for Threads, the current state of Instagram, and more &lpar;Jody Serrano/The Messenger&rpar;](http://www.techmeme.com/230924/p7#a230924p7)
  - [Resident Evil Village’s iPhone port might launch a day before Halloween](https://www.theverge.com/2023/9/24/23888326/resident-evil-village-iphone-15-pro-ipad-pro-air-m1-m2-release-date)
- - [A profile of Hank Asher, the &quot;father of data fusion&quot; who died in 2013 after initiating a vast shift in privacy norms through his data mining software companies &lpar;McKenzie Funk/New York Times&rpar;](http://www.techmeme.com/230924/p6#a230924p6)
- - [Meta’s AI chatbot plan includes a ‘sassy robot’ for younger users](https://www.theverge.com/2023/9/24/23887773/meta-ai-chatbots-gen-ai-personas-young)<!-- TECH:END -->
+ - [A profile of Hank Asher, the &quot;father of data fusion&quot; who died in 2013 after initiating a vast shift in privacy norms through his data mining software companies &lpar;McKenzie Funk/New York Times&rpar;](http://www.techmeme.com/230924/p6#a230924p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
