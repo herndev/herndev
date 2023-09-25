@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - ⏩ [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
+ - 💣 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - ⏩ [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
 
 ---
 
