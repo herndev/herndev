@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s Meteor Lake chips are coming to desktops after all](https://www.pcgamer.com/intels-meteor-lake-chips-are-coming-to-desktops-after-all)
  - [Third Star Wars: Jedi game confirmed by Cal Kestis actor Cameron Monaghan](https://www.pcgamer.com/third-star-wars-jedi-game-confirmed-by-cal-kestis-actor-cameron-monaghan)
- - [Here&#39;s when Cyberpunk 2077: Phantom Liberty unlocks in your time zone](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-release-time-steam-unlock)
- - [The three-year quest to solve a cryptic puzzle spanning Cyberpunk 2077 and The Witcher 3 has been turned on its head by new clues and controversial datamining](https://www.pcgamer.com/the-three-year-quest-to-solve-a-cryptic-puzzle-spanning-cyberpunk-2077-and-the-witcher-3-has-been-turned-on-its-head-by-new-clues-and-controversial-datamining)<!-- GAME:END -->
+ - [Here&#39;s when Cyberpunk 2077: Phantom Liberty unlocks in your time zone](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-release-time-steam-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
