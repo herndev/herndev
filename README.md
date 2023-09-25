@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Kevin Systrom about Artifact&#39;s Links discovery feature, moderation, the bear case and bull case for Threads, the current state of Instagram, and more &lpar;Jody Serrano/The Messenger&rpar;](http://www.techmeme.com/230924/p7#a230924p7)
- - [Resident Evil Village’s iPhone port might launch a day before Halloween](https://www.theverge.com/2023/9/24/23888326/resident-evil-village-iphone-15-pro-ipad-pro-air-m1-m2-release-date)
- - [A profile of Hank Asher, the &quot;father of data fusion&quot; who died in 2013 after initiating a vast shift in privacy norms through his data mining software companies &lpar;McKenzie Funk/New York Times&rpar;](http://www.techmeme.com/230924/p6#a230924p6)<!-- TECH:END -->
+ - [Hollywood writers reach tentative deal to end the strike](https://www.theverge.com/2023/9/24/23883641/hollywood-writers-strike-tentative-deal-wga-amptp)
+ - [The WGA and AMPTP reach a tentative deal to end the strike; sources: the proposed three-year contract adds new AI rules, increases streaming residuals, and more &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/230924/p8#a230924p8)
+ - [Q&amp;A with Kevin Systrom about Artifact&#39;s Links discovery feature, moderation, the bear case and bull case for Threads, the current state of Instagram, and more &lpar;Jody Serrano/The Messenger&rpar;](http://www.techmeme.com/230924/p7#a230924p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
