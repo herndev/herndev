@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - ⏩ [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
- - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
+ - 💣 [Harder](http://9gag.com/gag/anz0x0E)
+ - ⏩ [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - 👉 [My lower back is killing me](http://9gag.com/gag/a7qm2VL)<!-- MEMES:END -->
 
 ---
 
