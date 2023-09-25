@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not just a Pixel thing: iPhone 15 series users are also reporting heating issues](https://www.androidauthority.com/iphone-15-series-heating-issue-3367654/)
- - [Capcom&#39;s &#39;Resident Evil Village&#39; arriving on iPhone 15 Pro on October 30](https://appleinsider.com/articles/23/09/25/capcoms-resident-evil-village-arriving-on-iphone-15-pro-on-october-30?utm_medium=rss)
- - [iPhone 15 Pro Max lead time at historical highs](https://appleinsider.com/articles/23/09/25/iphone-15-pro-max-lead-time-at-historical-highs?utm_medium=rss)<!-- TECH:END -->
+ - [Oxygen OS 14 beta hands-on: Half-baked but still fast and smooth](https://www.androidauthority.com/oxygen-os-14-hands-on-3367182/)
+ - [Meta’s Horizon Worlds is surprisingly decent on the web and mobile](https://www.theverge.com/2023/9/25/23887494/meta-horizon-worlds-web-mobile-vr-super-rumble)
+ - [Getty made an AI generator that only trained on its licensed images](https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
