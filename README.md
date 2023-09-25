@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - ⏩ [University dorm room in china](http://9gag.com/gag/aBdbEnz)
- - 👉 [Wild wild west](http://9gag.com/gag/aQEDABz)<!-- MEMES:END -->
+ - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - ⏩ [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
 
 ---
 
