@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rick and Morty sound pretty much just like they used to in new season 7 trailer](https://www.theverge.com/23889455/rick-and-morty-season-7-trailer-new-voice-actors)
- - [Eddy Cue is set to take the stand as a key witness at Google&#39;s antitrust bench trial](https://appleinsider.com/articles/23/09/25/eddy-cue-is-set-to-take-the-stand-as-a-key-witnesses-at-googles-antitrust-bench-trial?utm_medium=rss)
- - [Save 20% on a Lifetime Plex Pass &lpar;Updated: Less than 24 hours left!&rpar;](https://www.androidauthority.com/lifetime-plex-pass-deal-3366392/)<!-- TECH:END -->
+ - [iPhone 15 Pro is getting two Resident Evil games with one out next month](https://www.androidauthority.com/iphone-15-pro-resident-evil-3367819/)
+ - [Initial display orders for iPhone 15 Pro far exceeded iPhone 14 Pro mix](https://appleinsider.com/articles/23/09/25/initial-display-orders-for-iphone-15-pro-far-exceeded-iphone-14-pro-mix?utm_medium=rss)
+ - [Google Pixel 8: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
