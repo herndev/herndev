@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
- - ⏩ [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
+ - 💣 [Top tip for office workers](http://9gag.com/gag/aPgV1yG)
+ - ⏩ [Time flies](http://9gag.com/gag/armD2GX)
+ - 👉 [Single moms from the past](http://9gag.com/gag/a6qej6N)<!-- MEMES:END -->
 
 ---
 
