@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crack Open New Details on Wo Long: Fallen Dynasty’s Newest Demon – the Shrimp Soldier](https://news.xbox.com/en-us/2023/09/25/crack-open-new-details-on-wo-long-fallen-dynasty-newest-demon-the-shrimp-soldier/)
- - [Ticket to Ride Legacy tosses American history in the trash, and it’s better for it](https://www.polygon.com/tabletop-games/23885707/ticket-to-ride-legacy-legends-of-the-west-review-spoiler-free)
- - [Why Mineko’s Night Market took 8 years to make](https://www.polygon.com/23884276/minekos-night-market-release-date-interview)<!-- GAME:END -->
+ - [Forza Horizon 5 Collaboration with Rivian](https://news.xbox.com/en-us/2023/09/25/forza-horizon-5-collaboration-with-rivian/)
+ - [This has been the best summer for RPGs and I want to live in it forever](https://www.pcgamer.com/this-has-been-the-best-summer-for-rpgs-and-i-want-to-live-in-it-forever)
+ - [Taking the Risks Further: Double-Edged Sword of Venatrix](https://news.xbox.com/en-us/2023/09/25/the-double-edged-sword-of-venatrix/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
