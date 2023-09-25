@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
- - ⏩ [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
+ - 💣 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - ⏩ [London looks vibrant](http://9gag.com/gag/aDYqb8x)
+ - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
 
 ---
 
