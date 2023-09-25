@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harder](http://9gag.com/gag/anz0x0E)
- - ⏩ [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
- - 👉 [My lower back is killing me](http://9gag.com/gag/a7qm2VL)<!-- MEMES:END -->
+ - 💣 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - ⏩ [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
 
 ---
 
