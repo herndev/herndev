@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxygen OS 14 beta hands-on: Half-baked but still fast and smooth](https://www.androidauthority.com/oxygen-os-14-hands-on-3367182/)
- - [Meta’s Horizon Worlds is surprisingly decent on the web and mobile](https://www.theverge.com/2023/9/25/23887494/meta-horizon-worlds-web-mobile-vr-super-rumble)
- - [Getty made an AI generator that only trained on its licensed images](https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch)<!-- TECH:END -->
+ - [How to use the iPhone 15 Pro Action button -- and fix Apple&#39;s bizarre decision](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-use-the-iphone-15-pro-action-button----and-fix-apples-bizarre-decision?utm_medium=rss)
+ - [Samsung’s latest foldables are off to a good start](https://www.androidauthority.com/samsung-galaxy-z-flip-fold-5-shipments-3367667/)
+ - [Amazon moves some free features, like smoke and CO alarm detection, from its security system Alexa Guard to its $5.99/month Emergency Assist service &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230925/p10#a230925p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
