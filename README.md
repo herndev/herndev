@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - ⏩ [University dorm room in china](http://9gag.com/gag/aBdbEnz)
- - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
+ - 💣 [My lower back is killing me](http://9gag.com/gag/a7qm2VL)
+ - ⏩ [How to tame a cat](http://9gag.com/gag/a8qvw2p)
+ - 👉 [When he realized Red&#39;s the good part](http://9gag.com/gag/a2KAD0Y)<!-- MEMES:END -->
 
 ---
 
