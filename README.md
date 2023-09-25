@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Now Giving Away Free Games To Sell PS5s](https://kotaku.com/sony-playstation-ps5-spider-man-2-free-deal-discount-1850870042)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Hallmark made an irresistible Sega Dreamcast tree ornament](https://www.polygon.com/deals/23889007/dreamcast-ornament-sega-hallmark-pre-order-buy)<!-- GAME:END -->
+ - [Bayonetta, Devil May Cry Director Says Goodbye To PlatinumGames](https://kotaku.com/bayonetta-dmc-devil-may-cry-hideki-kamiya-platinum-1850870129)
+ - [How to help Adelina in Lies of P](https://www.pcgamer.com/lies-of-p-adelina-bright-red-apple)
+ - [Detroit: Become Human dev&#39;s take on Star Wars is still cooking, and it&#39;ll have the studio&#39;s usual storytelling quirks: &#39;There&#39;s no game over. Anyone can die&#39;](https://www.pcgamer.com/detroit-become-human-devs-take-on-star-wars-is-still-cooking-and-itll-still-have-the-studios-usual-storytelling-quirks-theres-no-game-over-anyone-can-die)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
