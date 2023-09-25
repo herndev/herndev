@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pay almost $0 upfront for the iPhone 15 Pro with a $60 Boost Infinite plan](https://www.androidauthority.com/free-iphone-15-pro-boost-infinite-plan-3367749/)
- - [Boston-based Openly, which uses AI to generate home insurance quotes in 20+ US states, raised a $100M Series D led by Eden, bringing its total funding to $240M &lpar;Lucia Maffei/Boston Business Journal&rpar;](http://www.techmeme.com/230925/p12#a230925p12)
- - [Apple’s discontinued MagSafe Duo charger is on sale for $35 off](https://www.theverge.com/2023/9/25/23888976/apple-magsafe-duo-beats-studio-buds-plus-macbook-air-m2-deal-sale)<!-- TECH:END -->
+ - [Reddit is going to let you turn gold into money](https://www.theverge.com/2023/9/25/23887226/reddit-gold-system-contributor-program)
+ - [Galaxy S23 FE may launch at same time as the Pixel 8 for much less](https://www.androidauthority.com/galaxy-s23-fe-price-launch-date-3367764/)
+ - [Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,349, plus $40 off AppleCare](https://appleinsider.com/articles/23/09/25/apples-m2-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1349-plus-40-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
