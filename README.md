@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9 review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-tab-s9-review-3362141/)
- - [iPhone 16 rumored to gain new capacitive &#39;Capture Button,&#39; updated Action button](https://appleinsider.com/articles/23/09/25/iphone-16-rumored-to-gain-new-capacitive-capture-button-updated-action-button?utm_medium=rss)
- - [How to Make a Pig Heart Transplant Last in a Person](https://www.wired.com/story/how-to-make-a-pig-heart-transplant-last-in-a-person/)<!-- TECH:END -->
+ - [Former Amazon hardware boss Dave Limp will take over as CEO of Blue Origin](https://www.theverge.com/2023/9/25/23889986/amazon-blue-origin-dave-limp-ceo)
+ - [Garmin Venu 2 vs Venu 3: What’s the difference and should you upgrade?](https://www.androidauthority.com/garmin-venu-2-vs-venu-3-3366722/)
+ - [Apple is working on adding yet another new button to the iPhone 16 series](https://www.androidauthority.com/apple-iphone-16-capture-button-3367907/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
