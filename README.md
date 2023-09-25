@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - ⏩ [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
+ - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - ⏩ [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
+ - 👉 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)<!-- MEMES:END -->
 
 ---
 
