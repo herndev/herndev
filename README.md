@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
- - ⏩ [London looks vibrant](http://9gag.com/gag/aDYqb8x)
- - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
+ - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - ⏩ [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
+ - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
 
 ---
 
