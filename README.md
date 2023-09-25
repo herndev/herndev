@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s got a point](http://9gag.com/gag/ap9nAXn)
- - ⏩ [I initially thought this scene was cgi.](http://9gag.com/gag/anz0D1L)
- - 👉 [That&#39;s it, I&#39;m done with NETFLIX!!!](http://9gag.com/gag/aBdbGmN)<!-- MEMES:END -->
+ - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - ⏩ [University dorm room in china](http://9gag.com/gag/aBdbEnz)
+ - 👉 [Wild wild west](http://9gag.com/gag/aQEDABz)<!-- MEMES:END -->
 
 ---
 
