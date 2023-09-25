@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China told Tencent and Huya to stream only some esports semifinals and finals at the Hangzhou Asian Games, in part due to internet addiction concerns &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230925/p3#a230925p3)
- - [DeFi project Mixin Network suspends deposits and withdrawals after suffering a hack involving about $200M; SlowMist: Mixin&#39;s cloud provider was compromised &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230925/p2#a230925p2)
- - [Pixel 8 series rumored to include seven years of software support](https://www.theverge.com/2023/9/25/23888831/pixel-8-pro-seven-years-software-support-price-rumors-leak)<!-- TECH:END -->
+ - [Sketchy rumor claims iPad mini might still arrive in 2023](https://appleinsider.com/articles/23/09/25/sketchy-rumor-claims-ipad-mini-might-still-arrive-in-2023?utm_medium=rss)
+ - [Kuo: Both iPhone 16 Pro models will use tetraprism camera in 2024](https://appleinsider.com/articles/23/09/25/kuo-both-iphone-16-pro-models-will-use-tetraprism-camera-in-2024?utm_medium=rss)
+ - [Bayonetta director and Platinum Games co-founder Hideki Kamiya is leaving the studio](https://www.theverge.com/2023/9/25/23888860/hideki-kamiya-leaving-platinumgames-bayonetta-viewtiful-joe-director-wonderful-101)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
