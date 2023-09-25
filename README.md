@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollywood writers’ strike nears end as union and studios reach agreement](https://www.polygon.com/23883791/writers-strike-wga-end-amptp-agreement-sag)
- - [Pokémon Go ‘A Paldean Adventure’ choose a path quest steps: Who should you adventure with?](https://www.polygon.com/pokemon-go-guide/23859369/a-paldean-adventure-quest-choose-a-path-which-fuecoco-sprigatito-quaxly-special-research)
- - [Cyberpunk 2077 Phantom Liberty airdrops: Best rewards and unique guns](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-airdrops-rewards)<!-- GAME:END -->
+ - [Starfield glitch sees players followed by rocks, forests, and the entire city of New Atlantis](https://www.pcgamer.com/starfield-glitch-sees-players-followed-by-rocks-forests-and-the-entire-city-of-new-atlantis)
+ - [Monster Hunter Now ‘Diablos Invasion’ event guide](https://www.polygon.com/monster-hunter-now-guides/2023/9/22/23885388/diablos-event-time-date-invasion)
+ - [How to get Paintballs in Monster Hunter Now, and how Paintballs work](https://www.polygon.com/monster-hunter-now-guides/23868371/paintballs-get-palico-blue-pink)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
