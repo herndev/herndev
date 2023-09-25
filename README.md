@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - ⏩ [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
+ - ⏩ [Bro thought he was a bad ass with the bat](http://9gag.com/gag/aME0OZx)
+ - 👉 [Time flies](http://9gag.com/gag/armD2GX)<!-- MEMES:END -->
 
 ---
 
