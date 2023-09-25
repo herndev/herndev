@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SAG-AFTRA video game performers are voting to authorize a strike, too](https://www.polygon.com/23885558/sag-aftra-strike-authorization-negotiation-video-game-voice-actors)
- - [Xbox Insider Release Notes – Alpha &lpar;2310.230921-2200&rpar;](https://news.xbox.com/en-us/2023/09/25/xbox-insider-release-notes-alpha-2310-230921-2200/)
- - [Resident Evil 4&#39;s Separate Ways DLC is another stunning survival horror remake](https://www.pcgamer.com/resident-evil-4s-separate-ways-dlc-is-another-stunning-survival-horror-remake)<!-- GAME:END -->
+ - [A nasty Johnny Silverhand bug nearly derailed my Cyberpunk 2077 playthrough, but this mod came to the rescue](https://www.pcgamer.com/cyberpunk-johnny-blue-glitch-how-to-fix)
+ - [Starfield: Explore And Survey Planets Like A Pro](https://kotaku.com/starfield-surveying-planet-traits-flora-fauna-skill-1850871147)
+ - [Starfield update patches out loot exploits, &#39;larger update&#39; with DLSS support, FOV slider still in the works](https://www.pcgamer.com/starfield-update-patches-out-loot-exploits-larger-update-with-dlss-support-fov-slider-still-in-the-works)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
