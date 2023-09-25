@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Top tip for office workers](http://9gag.com/gag/aPgV1yG)
- - ⏩ [Time flies](http://9gag.com/gag/armD2GX)
- - 👉 [Single moms from the past](http://9gag.com/gag/a6qej6N)<!-- MEMES:END -->
+ - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - ⏩ [Is that the freeway?](http://9gag.com/gag/a04D6GL)
+ - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
 
 ---
 
