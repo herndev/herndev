@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which iPhone 15 Model Should You Buy?](https://www.wired.com/story/apple-iphone-15-deals/)
- - [Where to preorder the new Surface Laptop Studio 2 and Laptop Go 3](https://www.theverge.com/2023/9/21/23882865/microsoft-surface-laptop-studio-2-go-3-preorder-buy-price-release-date)
- - [A look at the UK NHS&#39; plans for a federated data platform and the doctors, privacy campaigners, and others concerned that Palantir could win the &amp;pound;480M contract &lpar;Wired&rpar;](http://www.techmeme.com/230922/p19#a230922p19)<!-- TECH:END -->
+ - [Resident Evil Village’s iPhone port might launch a day before Halloween](https://www.theverge.com/2023/9/24/23888326/resident-evil-village-iphone-15-pro-ipad-pro-air-m1-m2-release-date)
+ - [A profile of Hank Asher, the &quot;father of data fusion&quot; who died in 2013 after initiating a vast shift in privacy norms through his data mining software companies &lpar;McKenzie Funk/New York Times&rpar;](http://www.techmeme.com/230924/p6#a230924p6)
+ - [Meta’s AI chatbot plan includes a ‘sassy robot’ for younger users](https://www.theverge.com/2023/9/24/23887773/meta-ai-chatbots-gen-ai-personas-young)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
