@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bottoms, new TMNT movie, The Machine on Netflix, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/22/23878537/new-movies-watch-bottoms-tmnt-mutant-mayhem-paramount-plus-the-machine-netflix)
- - [Cyberpunk 2077 cheats don&#39;t exist yet for the 2.0 update or Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-cheats-pc)
- - [Spider-Man 2&#39;s Peter Parker Was &#39;All In&#39; On Face Change, Says Fans Need To &#39;Get Over It’](https://kotaku.com/spider-man-2-new-face-peter-parker-change-ps5-ps4-1850866704)<!-- GAME:END -->
+ - [Third Star Wars: Jedi game confirmed by Cal Kestis actor Cameron Monaghan](https://www.pcgamer.com/third-star-wars-jedi-game-confirmed-by-cal-kestis-actor-cameron-monaghan)
+ - [Here&#39;s when Cyberpunk 2077: Phantom Liberty unlocks in your time zone](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-release-time-steam-unlock)
+ - [The three-year quest to solve a cryptic puzzle spanning Cyberpunk 2077 and The Witcher 3 has been turned on its head by new clues and controversial datamining](https://www.pcgamer.com/the-three-year-quest-to-solve-a-cryptic-puzzle-spanning-cyberpunk-2077-and-the-witcher-3-has-been-turned-on-its-head-by-new-clues-and-controversial-datamining)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
