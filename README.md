@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - ⏩ [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - ⏩ [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
 
 ---
 
