@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
- - ⏩ [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
+ - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - ⏩ [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
 
 ---
 
