@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This shooter&#39;s CoD Zombies revival is a blast in co-op, but its funky Frankenmodes are what I&#39;m really craving to play](https://www.pcgamer.com/this-shooters-cod-zombies-revival-is-a-blast-in-co-op-but-its-funky-frankenmodes-are-what-im-really-craving-to-play)
- - [Five new Steam games you probably missed &lpar;September 25, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-25-2023)
- - [Intel&#39;s Meteor Lake chips are coming to desktops after all](https://www.pcgamer.com/intels-meteor-lake-chips-are-coming-to-desktops-after-all)<!-- GAME:END -->
+ - [A lost first-person Pokémon browser game has been found and restored](https://www.pcgamer.com/a-lost-first-person-pokemon-browser-game-has-been-found-and-restored)
+ - [Today&#39;s Wordle hint and answer #828: Monday, September 25](https://www.pcgamer.com/wordle-answer-today-hint-828-september-25)
+ - [After spending 30 hours in a Phantom Liberty hole, I think it works better if you start early and don&#39;t binge it](https://www.pcgamer.com/the-best-time-to-start-phantom-liberty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
