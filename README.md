@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 Collaboration with Rivian](https://news.xbox.com/en-us/2023/09/25/forza-horizon-5-collaboration-with-rivian/)
- - [This has been the best summer for RPGs and I want to live in it forever](https://www.pcgamer.com/this-has-been-the-best-summer-for-rpgs-and-i-want-to-live-in-it-forever)
- - [Taking the Risks Further: Double-Edged Sword of Venatrix](https://news.xbox.com/en-us/2023/09/25/the-double-edged-sword-of-venatrix/)<!-- GAME:END -->
+ - [The Boys spinoff Gen V, Netflix’s Castlevania sequel, and more new TV to watch this week](https://www.polygon.com/2023/9/25/23864648/new-tv-boys-gen-v-netflix-castlevania-kardashians)
+ - [Starfield Gets Another Tiny Update As Players Wait For The Big One](https://kotaku.com/starfield-patch-update-bug-bethesda-rpg-game-pass-1850870975)
+ - [What time does Cyberpunk 2077: Phantom Liberty release?](https://www.polygon.com/guides/2023/9/25/23889336/cyberpunk-2077-phantom-liberty-release-time-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
