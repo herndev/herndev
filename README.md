@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield mod lets you zip between planets seamlessly](https://www.pcgamer.com/starfield-mod-lets-you-zip-between-planets-seamlessly)
- - [Baldur’s Gate 3 and Friends mashup must be brought to life](https://www.polygon.com/23889893/baldurs-gate-3-friends-parody-sho)
- - [Your Fall 2023 Anime Guide: What To Watch And Where It&#39;s Streaming](https://kotaku.com/fall-anime-guide-2023-crunchyroll-netflix-hidive-hulu-1850871611)<!-- GAME:END -->
+ - [CD Projekt apologizes for anti-Russian dialogue and images in Ukrainian version of Cyberpunk 2077, says it was added without permission](https://www.pcgamer.com/cd-projekt-apologizes-for-anti-russian-dialogue-and-images-in-ukrainian-version-of-cyberpunk-2077-says-it-was-added-without-permission)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.230924-2000&rpar;](https://news.xbox.com/en-us/2023/09/25/xbox-insider-release-notes-alpha-skip-ahead-2408-230924-2000/)
+ - [RIP Starfield Magic Mud Puddle &lpar;2023-2023&rpar;](https://kotaku.com/starfield-mud-puddle-money-cash-credits-patch-fixed-rip-1850872043)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
