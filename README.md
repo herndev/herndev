@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the iPhone 15 Pro Action button -- and fix Apple&#39;s bizarre decision](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-use-the-iphone-15-pro-action-button----and-fix-apples-bizarre-decision?utm_medium=rss)
- - [Samsung’s latest foldables are off to a good start](https://www.androidauthority.com/samsung-galaxy-z-flip-fold-5-shipments-3367667/)
- - [Amazon moves some free features, like smoke and CO alarm detection, from its security system Alexa Guard to its $5.99/month Emergency Assist service &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230925/p10#a230925p10)<!-- TECH:END -->
+ - [Apple’s Eddy Cue will take the stand Tuesday in the Google antitrust case](https://www.theverge.com/2023/9/25/23888904/apple-eddy-cue-us-google-antitrust-trial-testimony-scheduled)
+ - [Tinder rolls out $500/month Tinder Select, with perks like the ability to DM others up to twice a week without matching and displaying a SELECT badge &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230925/p11#a230925p11)
+ - [Leaked Pixel 8 Pro deal shows Google will throw in a Pixel Watch 2 for free](https://www.theverge.com/2023/9/25/23888942/google-pixel-8-pro-watch-2-free-preorder-bonus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
