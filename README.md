@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bayonetta, Devil May Cry Director Says Goodbye To PlatinumGames](https://kotaku.com/bayonetta-dmc-devil-may-cry-hideki-kamiya-platinum-1850870129)
- - [How to help Adelina in Lies of P](https://www.pcgamer.com/lies-of-p-adelina-bright-red-apple)
- - [Detroit: Become Human dev&#39;s take on Star Wars is still cooking, and it&#39;ll have the studio&#39;s usual storytelling quirks: &#39;There&#39;s no game over. Anyone can die&#39;](https://www.pcgamer.com/detroit-become-human-devs-take-on-star-wars-is-still-cooking-and-itll-still-have-the-studios-usual-storytelling-quirks-theres-no-game-over-anyone-can-die)<!-- GAME:END -->
+ - [Crack Open New Details on Wo Long: Fallen Dynasty’s Newest Demon – the Shrimp Soldier](https://news.xbox.com/en-us/2023/09/25/crack-open-new-details-on-wo-long-fallen-dynasty-newest-demon-the-shrimp-soldier/)
+ - [Ticket to Ride Legacy tosses American history in the trash, and it’s better for it](https://www.polygon.com/tabletop-games/23885707/ticket-to-ride-legacy-legends-of-the-west-review-spoiler-free)
+ - [Why Mineko’s Night Market took 8 years to make](https://www.polygon.com/23884276/minekos-night-market-release-date-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
