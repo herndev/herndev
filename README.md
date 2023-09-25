@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit is going to let you turn gold into money](https://www.theverge.com/2023/9/25/23887226/reddit-gold-system-contributor-program)
- - [Galaxy S23 FE may launch at same time as the Pixel 8 for much less](https://www.androidauthority.com/galaxy-s23-fe-price-launch-date-3367764/)
- - [Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,349, plus $40 off AppleCare](https://appleinsider.com/articles/23/09/25/apples-m2-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1349-plus-40-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Rick and Morty sound pretty much just like they used to in new season 7 trailer](https://www.theverge.com/23889455/rick-and-morty-season-7-trailer-new-voice-actors)
+ - [Eddy Cue is set to take the stand as a key witness at Google&#39;s antitrust bench trial](https://appleinsider.com/articles/23/09/25/eddy-cue-is-set-to-take-the-stand-as-a-key-witnesses-at-googles-antitrust-bench-trial?utm_medium=rss)
+ - [Save 20% on a Lifetime Plex Pass &lpar;Updated: Less than 24 hours left!&rpar;](https://www.androidauthority.com/lifetime-plex-pass-deal-3366392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
