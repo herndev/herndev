@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)
- - ⏩ [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
+ - 💣 [She&#39;s got a point](http://9gag.com/gag/ap9nAXn)
+ - ⏩ [I initially thought this scene was cgi.](http://9gag.com/gag/anz0D1L)
+ - 👉 [That&#39;s it, I&#39;m done with NETFLIX!!!](http://9gag.com/gag/aBdbGmN)<!-- MEMES:END -->
 
 ---
 
