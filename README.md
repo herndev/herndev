@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jigsaw From Saw X Invites Xbox Fans To Solve Traps In A Game With Consequences](https://news.xbox.com/en-us/2023/09/25/saw-x-invites-xbox-fans-to-solve-traps-in-a-game-with-consequences/)
- - [Cyberpunk 2077: Phantom Liberty Iconic weapon locations](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-weapons-iconic-legendary)
- - [Bayonetta creator Hideki Kamiya is leaving PlatinumGames](https://www.polygon.com/23888882/hideki-kamiya-bayonetta-leaves-platinum)<!-- GAME:END -->
+ - [Sony Now Giving Away Free Games To Sell PS5s](https://kotaku.com/sony-playstation-ps5-spider-man-2-free-deal-discount-1850870042)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [Hallmark made an irresistible Sega Dreamcast tree ornament](https://www.polygon.com/deals/23889007/dreamcast-ornament-sega-hallmark-pre-order-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
