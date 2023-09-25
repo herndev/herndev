@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A nasty Johnny Silverhand bug nearly derailed my Cyberpunk 2077 playthrough, but this mod came to the rescue](https://www.pcgamer.com/cyberpunk-johnny-blue-glitch-how-to-fix)
- - [Starfield: Explore And Survey Planets Like A Pro](https://kotaku.com/starfield-surveying-planet-traits-flora-fauna-skill-1850871147)
- - [Starfield update patches out loot exploits, &#39;larger update&#39; with DLSS support, FOV slider still in the works](https://www.pcgamer.com/starfield-update-patches-out-loot-exploits-larger-update-with-dlss-support-fov-slider-still-in-the-works)<!-- GAME:END -->
+ - [Leaked email reveals Phil Spencer&#39;s damning verdict on AAA games: &#39;Most publishers are riding the success of franchises created 10+ years ago&#39;](https://www.pcgamer.com/leaked-email-reveals-phil-spencers-damning-verdict-on-aaa-games-most-publishers-are-riding-the-success-of-franchises-created-10-years-ago)
+ - [Exclusive Persona 3 Portable Physical Edition Comes With Your Very Own Evoker](https://kotaku.com/evoker-persona-3-portable-ps4-xbox-switch-persona-4-1850871692)
+ - [How to start Cyberpunk 2077: Phantom Liberty](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23889684/phantom-liberty-how-to-start)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
