@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
- - ⏩ [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - ⏩ [University dorm room in china](http://9gag.com/gag/aBdbEnz)
  - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
 
 ---
