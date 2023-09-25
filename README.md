@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Eddy Cue will take the stand Tuesday in the Google antitrust case](https://www.theverge.com/2023/9/25/23888904/apple-eddy-cue-us-google-antitrust-trial-testimony-scheduled)
- - [Tinder rolls out $500/month Tinder Select, with perks like the ability to DM others up to twice a week without matching and displaying a SELECT badge &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230925/p11#a230925p11)
- - [Leaked Pixel 8 Pro deal shows Google will throw in a Pixel Watch 2 for free](https://www.theverge.com/2023/9/25/23888942/google-pixel-8-pro-watch-2-free-preorder-bonus)<!-- TECH:END -->
+ - [Pay almost $0 upfront for the iPhone 15 Pro with a $60 Boost Infinite plan](https://www.androidauthority.com/free-iphone-15-pro-boost-infinite-plan-3367749/)
+ - [Boston-based Openly, which uses AI to generate home insurance quotes in 20+ US states, raised a $100M Series D led by Eden, bringing its total funding to $240M &lpar;Lucia Maffei/Boston Business Journal&rpar;](http://www.techmeme.com/230925/p12#a230925p12)
+ - [Apple’s discontinued MagSafe Duo charger is on sale for $35 off](https://www.theverge.com/2023/9/25/23888976/apple-magsafe-duo-beats-studio-buds-plus-macbook-air-m2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
