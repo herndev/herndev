@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked email reveals Phil Spencer&#39;s damning verdict on AAA games: &#39;Most publishers are riding the success of franchises created 10+ years ago&#39;](https://www.pcgamer.com/leaked-email-reveals-phil-spencers-damning-verdict-on-aaa-games-most-publishers-are-riding-the-success-of-franchises-created-10-years-ago)
- - [Exclusive Persona 3 Portable Physical Edition Comes With Your Very Own Evoker](https://kotaku.com/evoker-persona-3-portable-ps4-xbox-switch-persona-4-1850871692)
- - [How to start Cyberpunk 2077: Phantom Liberty](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23889684/phantom-liberty-how-to-start)<!-- GAME:END -->
+ - [Starfield mod lets you zip between planets seamlessly](https://www.pcgamer.com/starfield-mod-lets-you-zip-between-planets-seamlessly)
+ - [Baldur’s Gate 3 and Friends mashup must be brought to life](https://www.polygon.com/23889893/baldurs-gate-3-friends-parody-sho)
+ - [Your Fall 2023 Anime Guide: What To Watch And Where It&#39;s Streaming](https://kotaku.com/fall-anime-guide-2023-crunchyroll-netflix-hidive-hulu-1850871611)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
