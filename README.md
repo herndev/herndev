@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lucky](http://9gag.com/gag/aA0LvM2)
- - ⏩ [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 👉 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)<!-- MEMES:END -->
+ - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - ⏩ [What a twist!](http://9gag.com/gag/aYVvMpv)
+ - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
 
 ---
 
