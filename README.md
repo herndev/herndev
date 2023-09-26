@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t make a Google search rival, says Cue](https://appleinsider.com/articles/23/09/26/apple-wont-make-a-google-search-rival-says-cue?utm_medium=rss)
- - [CMF by Nothing launches first three products: earbuds, smartwatch, GaN charger](https://www.androidauthority.com/cmf-by-nothing-first-products-3367867/)
- - [LG dives into the foldable laptop fray](https://www.theverge.com/2023/9/26/23890518/lg-gram-fold-foldable-laptop-oled-display-17-inch-price-release-dates-specs-features)<!-- TECH:END -->
+ - [Sony announces Olivia Rodrigo edition of its LinkBuds S earbuds](https://www.theverge.com/2023/9/26/23889814/sony-olivia-rodrigo-linkbuds-s-announced-guts-sour)
+ - [EVgo is trying to turn around complaints about slow, broken EV chargers](https://www.theverge.com/2023/9/26/23889795/evgo-renew-ev-electric-car-chaging-reliability-update)
+ - [Samsung Good Lock 6 is coming: Here’s what to expect](https://www.androidauthority.com/samsung-good-lock-6-coming-3368211/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
