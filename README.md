@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro overheating investigated: Is it really too hot to handle?](https://www.androidauthority.com/iphone-15-pro-overheating-3367682/)
- - [What Makes a Video Game Remake Actually Worth Playing?](https://www.wired.com/story/what-makes-video-game-remake-worth-playing/)
- - [Why Aren&#39;t Disabled Astronauts Exploring Space?](https://www.wired.com/story/ashley-shew-disability-space-exploration/)<!-- TECH:END -->
+ - [Whoop is adding a ChatGPT-powered ‘coach’](https://www.theverge.com/2023/9/26/23888984/whoop-coach-chatgpt-ai-fitness)
+ - [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals?utm_medium=rss)
+ - [Samsung and Apple should watch out for this brand-new flagship](https://www.androidauthority.com/xiaomi-13t-series-3366949/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
