@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - ⏩ [That&#39;s it, I&#39;m done with NETFLIX!!!](http://9gag.com/gag/aBdbGmN)
- - 👉 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)<!-- MEMES:END -->
+ - 💣 [Me 5 second into cuddling](http://9gag.com/gag/armD8j5)
+ - ⏩ [Lucky](http://9gag.com/gag/aA0LvM2)
+ - 👉 [Yeah](http://9gag.com/gag/ajV3Rvg)<!-- MEMES:END -->
 
 ---
 
