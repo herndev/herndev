@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Transforming Mars, One Turn at a Time – Terraformers Lands on Xbox Series X|S and Xbox One Today](https://news.xbox.com/en-us/2023/09/26/terraformers-lands-on-xbox-series-xs-and-xbox-one-today/)
- - [Just buy a PS5? You can get a free game for a limited time](https://www.polygon.com/deals/23891114/ps5-free-game-playstation-deal-sale-promo)
- - [Can you romance Songbird in Cyberpunk 2077: Phantom Liberty?](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23890747/phantom-liberty-romance-songbird)<!-- GAME:END -->
+ - [Lenny Kravitz wore his ridiculously huge scarf in debut TikTok](https://www.polygon.com/23890977/lenny-kravitz-huge-scarf-meme-tiktok-fall)
+ - [Todd Howard says Starfield&#39;s planetary survival systems were originally &#39;very punitive&#39; but &#39;we just nerfed the hell out of it&#39;](https://www.pcgamer.com/todd-howard-says-starfields-planetary-survival-systems-were-originally-very-punitive-but-we-just-nerfed-the-hell-out-of-it)
+ - [These Pokémon-Themed Skateboards Are Selling for $20K](https://kotaku.com/pokemon-santa-cruz-skateboards-deck-blind-bag-gold-1850874741)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
