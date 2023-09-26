@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bayonetta creator and co-founder Hideki Kamiya to leave Platinum: &#39;Keep your eyes peeled&#39;](https://www.pcgamer.com/bayonetta-creator-and-co-founder-hideki-kamiya-to-leave-platinum-keep-your-eyes-peeled)
- - [Phantom Liberty&#39;s wildest gun quickhacks enemies with bullets, but it&#39;s hard to find](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-gris-gris-location)
- - [Valve launches SteamVR 2.0 beta with &#39;goal of bringing all of what&#39;s new on the Steam platform into VR&#39;](https://www.pcgamer.com/valve-launches-steamvr-20-beta-with-goal-of-bringing-all-of-whats-new-on-the-steam-platform-into-vr)<!-- GAME:END -->
+ - [Samsung&#39;s new low power, high performance memory range could be a serious boon for compact gaming laptops](https://www.pcgamer.com/samsungs-new-low-power-high-performance-memory-range-could-be-a-serious-boon-for-compact-gaming-laptops)
+ - [Mario 64 speedrunners have cracked a 10-year-old problem, turning it from a Twitch chat meme into a must-use strat using algorithms and raw determination](https://www.pcgamer.com/mario-64-speedrunners-have-cracked-a-10-year-old-problem-turning-it-from-a-twitch-chat-meme-into-a-must-use-strat-using-algorithms-and-raw-determination)
+ - [CD Projekt is putting your Cyberpunk 2077 mods on ice to make sure they don&#39;t wreak havoc with Phantom Liberty](https://www.pcgamer.com/cd-projekt-is-putting-your-cyberpunk-2077-mods-on-ice-to-make-sure-they-dont-wreak-havoc-with-phantom-liberty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
