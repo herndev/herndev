@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CCP knows Dust 514 should never have been a console exclusive: &#39;If we had been on PC the whole time the game would literally be alive&#39;](https://www.pcgamer.com/ccp-knows-dust-514-should-never-have-been-a-console-exclusive-if-we-had-been-on-pc-the-whole-time-the-game-would-literally-be-alive)
- - [Should you kill Jacob and Taylor in Cyberpunk 2077?](https://www.pcgamer.com/cyberpunk-2077-jacob-taylor-choice-kill)
- - [How To Unlock Cyberpunk 2077’s New Ending In Phantom Liberty](https://kotaku.com/cyberpunk-2077-phantom-liberty-how-to-unlock-new-ending-1850871301)<!-- GAME:END -->
+ - [Microsoft&#39;s data centers of the future could be nuclear powered](https://www.pcgamer.com/microsofts-data-centers-of-the-future-could-be-nuclear-powered)
+ - [Today&#39;s Wordle hint and answer #829: Tuesday, September 26](https://www.pcgamer.com/wordle-answer-today-hint-829-september-26)
+ - [CCP knows Dust 514 should never have been a console exclusive: &#39;If we had been on PC the whole time the game would literally be alive&#39;](https://www.pcgamer.com/ccp-knows-dust-514-should-never-have-been-a-console-exclusive-if-we-had-been-on-pc-the-whole-time-the-game-would-literally-be-alive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
