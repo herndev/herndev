@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3 voice actors playing D&amp;D as their characters is as fun to watch as you&#39;d hope](https://www.pcgamer.com/baldurs-gate-3-voice-actor-dnd-livestream)
  - [17 Essential Cyberpunk 2077 Side-Quests To Find In Night City](https://kotaku.com/cyberpunk-2077-side-quests-panam-dream-on-sinnerman-1850875179)
- - [We asked a professional miniatures painter to try his hand at Moonbreaker](https://www.pcgamer.com/we-asked-a-professional-miniatures-painter-to-try-his-hand-at-moonbreaker)
- - [Cyberpunk 2077 Now Contains A Hidden Doom Clone Starring Keanu Reeves](https://kotaku.com/cyberpunk-2077-2-0-phantom-liberty-dlc-release-steam-1850875204)<!-- GAME:END -->
+ - [We asked a professional miniatures painter to try his hand at Moonbreaker](https://www.pcgamer.com/we-asked-a-professional-miniatures-painter-to-try-his-hand-at-moonbreaker)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
