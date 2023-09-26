@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s latest patch has introduced a &#39;very frustrating, borderline unplayable&#39; glitch that makes companions dump their inventories on you](https://www.pcgamer.com/baldurs-gate-3s-latest-patch-has-introduced-a-very-frustrating-borderline-unplayable-glitch-that-makes-companions-dump-their-inventories-on-you)
- - [Fan Who Waited For Star Wars DLC Sues Over Broken Promises](https://kotaku.com/star-wars-kotor-2-switch-dlc-restored-content-lawsuit-1850871846)
- - [Introducing Your Mum To Video Games – 5 Tips From The Paleo Pines Team](https://news.xbox.com/en-us/2023/09/26/paleo-pines-introducing-mum-to-video-games/)<!-- GAME:END -->
+ - [This Week’s Xbox Sales and Specials, Including the Season Pass Sale and Warner Bros. 100th Anniversary Sale](https://news.xbox.com/en-us/2023/09/26/this-weeks-xbox-sales-and-specials/)
+ - [Capcom stirs the pot, saying &#39;game prices are too low&#39;](https://www.pcgamer.com/capcom-president-stirs-the-pot-saying-game-prices-are-too-low)
+ - [2023&#39;s been such a ridiculous year for PC gaming that the major releases don&#39;t fit on a 1TB SSD](https://www.pcgamer.com/2023-games-storage-space)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
