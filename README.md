@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - ⏩ [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
+ - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
+ - ⏩ [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
+ - 👉 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)<!-- MEMES:END -->
 
 ---
 
