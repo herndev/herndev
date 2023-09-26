@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet Your Maker’s Sector 2: Shattered Peak Takes Players to the Frigid Arctic Wasteland](https://news.xbox.com/en-us/2023/09/26/meet-your-maker-sector-2-shattered-peak/)
- - [Xbox Insider Release Notes – Beta &lpar;2310.230921-2200&rpar;](https://news.xbox.com/en-us/2023/09/26/xbox-insider-release-notes-beta-2310-230921-2200/)
- - [Capcom President Says ‘Game Prices Are Too Low’](https://kotaku.com/capcom-president-game-prices-too-low-resident-evil-4-1850874279)<!-- GAME:END -->
+ - [Transforming Mars, One Turn at a Time – Terraformers Lands on Xbox Series X|S and Xbox One Today](https://news.xbox.com/en-us/2023/09/26/terraformers-lands-on-xbox-series-xs-and-xbox-one-today/)
+ - [Just buy a PS5? You can get a free game for a limited time](https://www.polygon.com/deals/23891114/ps5-free-game-playstation-deal-sale-promo)
+ - [Can you romance Songbird in Cyberpunk 2077: Phantom Liberty?](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23890747/phantom-liberty-romance-songbird)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
