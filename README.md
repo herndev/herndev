@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s data centers of the future could be nuclear powered](https://www.pcgamer.com/microsofts-data-centers-of-the-future-could-be-nuclear-powered)
- - [Today&#39;s Wordle hint and answer #829: Tuesday, September 26](https://www.pcgamer.com/wordle-answer-today-hint-829-september-26)
- - [CCP knows Dust 514 should never have been a console exclusive: &#39;If we had been on PC the whole time the game would literally be alive&#39;](https://www.pcgamer.com/ccp-knows-dust-514-should-never-have-been-a-console-exclusive-if-we-had-been-on-pc-the-whole-time-the-game-would-literally-be-alive)<!-- GAME:END -->
+ - [Radeon boss Scott Herkelman will leave AMD at the end of the year](https://www.pcgamer.com/radeon-boss-scott-herkelman-will-leave-amd-at-the-end-of-the-year)
+ - [NYT Connections hint and answers today: September 26 &lpar;#107&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-26-107)
+ - [Microsoft&#39;s data centers of the future could be nuclear powered](https://www.pcgamer.com/microsofts-data-centers-of-the-future-could-be-nuclear-powered)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
