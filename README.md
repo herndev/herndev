@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
- - ⏩ [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)
- - 👉 [I love democracy.](http://9gag.com/gag/a2KAGOY)<!-- MEMES:END -->
+ - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
+ - ⏩ [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
+ - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
 
 ---
 
