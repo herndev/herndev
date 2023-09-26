@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
- - ⏩ [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)<!-- MEMES:END -->
+ - 💣 [Thanks to the civil Polizei](http://9gag.com/gag/anz0VGn)
+ - ⏩ [This is spark joy](http://9gag.com/gag/aRE8y7G)
+ - 👉 [Margaret Thatcher on illegal immigrants](http://9gag.com/gag/aZD4vvX)<!-- MEMES:END -->
 
 ---
 
