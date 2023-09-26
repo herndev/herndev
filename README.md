@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Podcasts is heading to the Google graveyard](https://www.androidauthority.com/google-podcasts-youtube-music-3368403/)
- - [The FTC and 17 US states sue Amazon for allegedly using monopoly power to keep its prices artificially high, push sellers to pay fees, and harm its rivals &lpar;CNBC&rpar;](http://www.techmeme.com/230926/p16#a230926p16)
- - [iPhone 15 overheat complaints are inconsistent, and it&#39;s unclear what&#39;s going on](https://appleinsider.com/articles/23/09/26/iphone-15-overheat-complaints-are-inconsistent-and-its-unclear-whats-going-on?utm_medium=rss)<!-- TECH:END -->
+ - [These smart bulbs transform your home at a record deal price of $26](https://www.androidauthority.com/kasa-smart-light-bulbs-deal-3368488/)
+ - [Logitech now sells a $299 folding chair](https://www.theverge.com/2023/9/26/23890671/logitech-g-playseat-challenge-x-folding-sim-racing-cockpit-chair)
+ - [Risk of a US Government Shutdown Is Fueled by Very Online Republicans](https://www.wired.com/story/us-government-shutdown-right-wing-bubble/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
