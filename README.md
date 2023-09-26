@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me 5 second into cuddling](http://9gag.com/gag/armD8j5)
- - ⏩ [Lucky](http://9gag.com/gag/aA0LvM2)
- - 👉 [Yeah](http://9gag.com/gag/ajV3Rvg)<!-- MEMES:END -->
+ - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - ⏩ [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
 
 ---
 
