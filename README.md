@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lamborghini-inspired Dry Studio Black Diamond 75 gaming keyboard is more cool than cringe](https://www.theverge.com/23885308/dry-studio-black-diamond-75-mechanical-keyboard-specs-price-impressions)
- - [The Creator retreads familiar AI panic territory to stunningly inert effect](https://www.theverge.com/23889089/the-creator-movie-review-gareth-edwards)
- - [Spotify now lets your friends help you build the perfect party playlist](https://www.androidauthority.com/spotify-jam-feature-3368364/)<!-- TECH:END -->
+ - [Google Podcasts is heading to the Google graveyard](https://www.androidauthority.com/google-podcasts-youtube-music-3368403/)
+ - [The FTC and 17 US states sue Amazon for allegedly using monopoly power to keep its prices artificially high, push sellers to pay fees, and harm its rivals &lpar;CNBC&rpar;](http://www.techmeme.com/230926/p16#a230926p16)
+ - [iPhone 15 overheat complaints are inconsistent, and it&#39;s unclear what&#39;s going on](https://appleinsider.com/articles/23/09/26/iphone-15-overheat-complaints-are-inconsistent-and-its-unclear-whats-going-on?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
