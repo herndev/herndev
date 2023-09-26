@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
- - ⏩ [Lucky](http://9gag.com/gag/aA0LvM2)
- - 👉 [He\u2019s on one.](http://9gag.com/gag/awZ94yx)<!-- MEMES:END -->
+ - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - ⏩ [That&#39;s it, I&#39;m done with NETFLIX!!!](http://9gag.com/gag/aBdbGmN)
+ - 👉 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)<!-- MEMES:END -->
 
 ---
 
