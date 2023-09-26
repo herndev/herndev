@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop is adding a ChatGPT-powered ‘coach’](https://www.theverge.com/2023/9/26/23888984/whoop-coach-chatgpt-ai-fitness)
- - [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals?utm_medium=rss)
- - [Samsung and Apple should watch out for this brand-new flagship](https://www.androidauthority.com/xiaomi-13t-series-3366949/)<!-- TECH:END -->
+ - [Threads is struggling to retain users — but it could still catch up to X](https://www.theverge.com/2023/9/26/23890592/threads-meta-monthly-users-data-x-twitter)
+ - [Bowers &amp; Wilkins’ PX7 S2 noise-canceling headphones have dropped to a new low](https://www.theverge.com/2023/9/26/23889103/bowers-wilkins-px7-s2-headphones-apple-airtag-loop-yeedi-vac-2-pro-deal-sale)
+ - [Microsoft is going nuclear to power its AI ambitions](https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
