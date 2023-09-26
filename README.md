@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple defends Google Search deal in court: ‘There wasn’t a valid alternative’](https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google)
- - [FCC announces plans to resurrect net neutrality rules](https://www.theverge.com/2023/9/26/23890527/fcc-net-neutrality-rules-law-usa-internet-access)
- - [Sources: OpenAI is pitching investors on a possible share sale that would value the startup at between $80B and $90B, almost triple its level earlier this year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p23#a230926p23)<!-- TECH:END -->
+ - [Apple&#39;s Eddy Cue says Google is default search engine because it is the &#39;best&#39;](https://appleinsider.com/articles/23/09/26/apples-eddy-cue-says-google-is-default-search-engine-because-it-is-the-best?utm_medium=rss)
+ - [Nothing launches a smartwatch and earbuds that cost less than $120 combined](https://www.theverge.com/2023/9/26/23891328/nothing-cmf-buds-pro-watch-charger)
+ - [MoneyGram unveils a non-custodial wallet to help its users move funds between fiat currency and USDC, limited to ~40 countries supporting a digital KYC process &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230926/p26#a230926p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
