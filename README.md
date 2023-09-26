@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - ⏩ [What a twist!](http://9gag.com/gag/aYVvMpv)
- - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
+ - 💣 [Stay weird japan. Stay weird.](http://9gag.com/gag/az2vZKN)
+ - ⏩ [We use 10% of brain](http://9gag.com/gag/a5X9q0g)
+ - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/aKEXO8j)<!-- MEMES:END -->
 
 ---
 
