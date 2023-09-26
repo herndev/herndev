@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 series launch date possibly leaked](https://www.androidauthority.com/samsung-galaxy-s24-series-launch-date-3368161/)
- - [DJI Mini 4 Pro review: lightweight, improved obstacle avoidance, great ActiveTrack 360 subject tracking, 4K at 60fps, but not crashproof and expensive at $760 &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230926/p2#a230926p2)
- - [YouTube is killing a cheaper ad-free plan you didn’t know about](https://www.androidauthority.com/youtube-premium-lite-dead-3368129/)<!-- TECH:END -->
+ - [You told us: You’re big fans of multiple Nest speaker groups](https://www.androidauthority.com/use-nest-speaker-groups-poll-results-3368151/)
+ - [Giant leak reveals everything about the Galaxy Tab S9 FE series](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-spec-leak-3368157/)
+ - [Spotify launches Jam, a new feature that lets up to 32 people curate a single playlist; only Premium subscribers can create Jams, but all users can contribute &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230926/p3#a230926p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
