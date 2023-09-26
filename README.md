@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay weird japan. Stay weird.](http://9gag.com/gag/az2vZKN)
- - ⏩ [We use 10% of brain](http://9gag.com/gag/a5X9q0g)
- - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/aKEXO8j)<!-- MEMES:END -->
+ - 💣 [What a twist!](http://9gag.com/gag/aYVvMpv)
+ - ⏩ [Take that](http://9gag.com/gag/aXnmK3g)
+ - 👉 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)<!-- MEMES:END -->
 
 ---
 
