@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
- - ⏩ [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [He\u2019s on one.](http://9gag.com/gag/awZ94yx)<!-- MEMES:END -->
+ - 💣 [Lucky](http://9gag.com/gag/aA0LvM2)
+ - ⏩ [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
 
 ---
 
