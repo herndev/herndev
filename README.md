@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - ⏩ [How it started and how its going](http://9gag.com/gag/aWGebdK)
- - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
+ - 💣 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
+ - ⏩ [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 👉 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)<!-- MEMES:END -->
 
 ---
 
