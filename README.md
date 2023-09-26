@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
- - ⏩ [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
+ - 💣 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
+ - ⏩ [Only way to go](http://9gag.com/gag/aL1Or5V)
+ - 👉 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
 
 ---
 
