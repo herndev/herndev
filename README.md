@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Taylor Swift Easter eggs are more than a puzzle — they’re a lifestyle](https://www.polygon.com/23887372/taylor-swift-easter-eggs-broke-google-eras-1989-taylors-version)
- - [The Iron Throne is Baldur&#39;s Gate 3&#39;s best dungeon, and also its most stressful](https://www.pcgamer.com/the-iron-throne-is-baldurs-gate-3s-best-dungeon-and-also-its-most-stressful)
- - [Cyberpunk 2077 2.0&#39;s new Edgerunners easter eggs just hit me with an existential crisis all over again](https://www.pcgamer.com/cyberpunk-2077-20s-new-edgerunners-easter-eggs-just-hit-me-with-an-existential-crisis-all-over-again)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s latest patch has introduced a &#39;very frustrating, borderline unplayable&#39; glitch that makes companions dump their inventories on you](https://www.pcgamer.com/baldurs-gate-3s-latest-patch-has-introduced-a-very-frustrating-borderline-unplayable-glitch-that-makes-companions-dump-their-inventories-on-you)
+ - [Fan Who Waited For Star Wars DLC Sues Over Broken Promises](https://kotaku.com/star-wars-kotor-2-switch-dlc-restored-content-lawsuit-1850871846)
+ - [Introducing Your Mum To Video Games – 5 Tips From The Paleo Pines Team](https://news.xbox.com/en-us/2023/09/26/paleo-pines-introducing-mum-to-video-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
