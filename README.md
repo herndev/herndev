@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Behind the Scenes of Cyberpunk 2077: Phantom Liberty’s Launch Trailer](https://news.xbox.com/en-us/2023/09/26/behind-the-scenes-of-cyberpunk-2077-phantom-libertys-launch-trailer/)
- - [Elon Musk doesn’t know his Mercy fetish is boring](https://www.polygon.com/23884737/elon-musk-amber-heard-mercy-cosplay-sexism-overwatch)
- - [Todd Howard says that Starfield&#39;s ship AI sucks on purpose so players can actually hit stuff: &#39;You have to make the AI really stupid&#39;](https://www.pcgamer.com/todd-howard-says-that-starfields-ship-ai-sucks-on-purpose-so-players-can-actually-hit-stuff-you-have-to-make-the-ai-really-stupid)<!-- GAME:END -->
+ - [Red Dead Redemption 2 Somehow Coming To Switch, According To Ratings Board Leak](https://kotaku.com/read-dead-redemption-2-nintendo-switch-port-rating-1850873886)
+ - [Squealing pigs, disgruntled bison, and the most beautiful frying meat I&#39;ve ever seen: Dragon&#39;s Dogma 2 is just as wonderfully weird as the first game](https://www.pcgamer.com/squealing-pigs-disgruntled-bison-and-the-most-beautiful-frying-meat-ive-ever-seen-dragons-dogma-2-is-just-as-wonderfully-weird-as-the-first-game)
+ - [Behind the Scenes of Cyberpunk 2077: Phantom Liberty’s Launch Trailer](https://news.xbox.com/en-us/2023/09/26/cyberpunk-2077-phantom-liberty-launch-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
