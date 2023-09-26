@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton co-founder Tom Cortese is stepping down](https://www.theverge.com/2023/9/26/23891565/peloton-co-founder-tom-cortese-nick-caldwell-stepping-down)
- - [Microsoft starts rolling out a Windows 11 update that adds access to Windows Copilot and, over the coming months, AI updates to Paint, Snipping Tool, and Photos &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230926/p28#a230926p28)
- - [CDC Makes Another RSV Shot Approval: Here&#39;s Who Needs a COVID, Flu and RSV Shot     - CNET](https://www.cnet.com/health/medical/cdc-makes-another-rsv-shot-approval-heres-who-needs-a-covid-flu-and-rsv-shot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s All-Powerful ‘Buy Box’ Is at the Heart of Its New Antitrust Troubles](https://www.wired.com/story/amazons-all-powerful-buy-box-is-at-the-heart-of-its-new-antitrust-troubles/)
+ - [Apple and Google want to shift how you listen to podcasts](https://www.theverge.com/2023/9/26/23891493/apple-podcasts-overhaul-ios-17-google-ends-podcasts-spotify-translation-open-ai)
+ - [The Code Conference 2023](https://www.theverge.com/2023/9/26/23890396/code-conference-2023-interviews-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
