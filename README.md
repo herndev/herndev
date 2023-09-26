@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung&#39;s new low power, high performance memory range could be a serious boon for compact gaming laptops](https://www.pcgamer.com/samsungs-new-low-power-high-performance-memory-range-could-be-a-serious-boon-for-compact-gaming-laptops)
- - [Mario 64 speedrunners have cracked a 10-year-old problem, turning it from a Twitch chat meme into a must-use strat using algorithms and raw determination](https://www.pcgamer.com/mario-64-speedrunners-have-cracked-a-10-year-old-problem-turning-it-from-a-twitch-chat-meme-into-a-must-use-strat-using-algorithms-and-raw-determination)
- - [CD Projekt is putting your Cyberpunk 2077 mods on ice to make sure they don&#39;t wreak havoc with Phantom Liberty](https://www.pcgamer.com/cd-projekt-is-putting-your-cyberpunk-2077-mods-on-ice-to-make-sure-they-dont-wreak-havoc-with-phantom-liberty)<!-- GAME:END -->
+ - [Taylor Swift Easter eggs are more than a puzzle — they’re a lifestyle](https://www.polygon.com/23887372/taylor-swift-easter-eggs-broke-google-eras-1989-taylors-version)
+ - [The Iron Throne is Baldur&#39;s Gate 3&#39;s best dungeon, and also its most stressful](https://www.pcgamer.com/the-iron-throne-is-baldurs-gate-3s-best-dungeon-and-also-its-most-stressful)
+ - [Cyberpunk 2077 2.0&#39;s new Edgerunners easter eggs just hit me with an existential crisis all over again](https://www.pcgamer.com/cyberpunk-2077-20s-new-edgerunners-easter-eggs-just-hit-me-with-an-existential-crisis-all-over-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
