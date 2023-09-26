@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a twist!](http://9gag.com/gag/aYVvMpv)
+ - 💣 [Okeeeeeeeeeeeeeeeeey, let&#39;s goooooooo!](http://9gag.com/gag/aOxn9ED)
  - ⏩ [Take that](http://9gag.com/gag/aXnmK3g)
- - 👉 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)<!-- MEMES:END -->
+ - 👉 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)<!-- MEMES:END -->
 
 ---
 
