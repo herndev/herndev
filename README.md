@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks to the civil Polizei](http://9gag.com/gag/anz0VGn)
- - ⏩ [This is spark joy](http://9gag.com/gag/aRE8y7G)
- - 👉 [Margaret Thatcher on illegal immigrants](http://9gag.com/gag/aZD4vvX)<!-- MEMES:END -->
+ - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
+ - ⏩ [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 👉 [He\u2019s on one.](http://9gag.com/gag/awZ94yx)<!-- MEMES:END -->
 
 ---
 
