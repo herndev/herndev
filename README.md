@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Video game actors vote yes to authorize strike, if needed](https://www.polygon.com/gaming/23890204/sag-aftra-video-game-strike-authorization-vote-approved)
- - [VR still makes 40-70% of players want to throw up, and that&#39;s a huge problem for the companies behind it](https://www.pcgamer.com/vr-still-makes-40-70-of-players-want-to-throw-up-and-thats-a-huge-problem-for-the-companies-behind-it)
- - [Should you help Songbird or Reed in Cyberpunk 2077: Phantom Liberty?](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-songbird-reed-choice)<!-- GAME:END -->
+ - [Bayonetta creator and co-founder Hideki Kamiya to leave Platinum: &#39;Keep your eyes peeled&#39;](https://www.pcgamer.com/bayonetta-creator-and-co-founder-hideki-kamiya-to-leave-platinum-keep-your-eyes-peeled)
+ - [Phantom Liberty&#39;s wildest gun quickhacks enemies with bullets, but it&#39;s hard to find](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-gris-gris-location)
+ - [Valve launches SteamVR 2.0 beta with &#39;goal of bringing all of what&#39;s new on the Steam platform into VR&#39;](https://www.pcgamer.com/valve-launches-steamvr-20-beta-with-goal-of-bringing-all-of-whats-new-on-the-steam-platform-into-vr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
