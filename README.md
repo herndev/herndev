@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mattel’s Pictionary Vs. AI leaves the guesswork to the bots](https://www.theverge.com/2023/9/26/23889925/mattel-pictionary-vs-ai-board-game-google-quick-draw)
- - [Why the First Amendment protects liars](https://www.theverge.com/23883027/alvarez-stolen-valor-first-amendment-kosseff-liar-crowded-theater)
- - [These iPhone 15 models have significantly higher delivery wait times this year](https://www.androidauthority.com/iphone-15-pre-order-wait-times-3368250/)<!-- TECH:END -->
+ - [iPhone 15 Pro overheating investigated: Is it really too hot to handle?](https://www.androidauthority.com/iphone-15-pro-overheating-3367682/)
+ - [What Makes a Video Game Remake Actually Worth Playing?](https://www.wired.com/story/what-makes-video-game-remake-worth-playing/)
+ - [Why Aren&#39;t Disabled Astronauts Exploring Space?](https://www.wired.com/story/ashley-shew-disability-space-exploration/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
