@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Growlithe be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889276/can-growlithe-be-shiny-arcanine)
- - [ChatGPT update gives it eyes and ears](https://www.pcgamer.com/chatgpt-update-gives-it-eyes-and-ears)
- - [Radeon boss Scott Herkelman will leave AMD at the end of the year](https://www.pcgamer.com/radeon-boss-scott-herkelman-will-leave-amd-at-the-end-of-the-year)<!-- GAME:END -->
+ - [Video game actors vote yes to authorize strike, if needed](https://www.polygon.com/gaming/23890204/sag-aftra-video-game-strike-authorization-vote-approved)
+ - [VR still makes 40-70% of players want to throw up, and that&#39;s a huge problem for the companies behind it](https://www.pcgamer.com/vr-still-makes-40-70-of-players-want-to-throw-up-and-thats-a-huge-problem-for-the-companies-behind-it)
+ - [Should you help Songbird or Reed in Cyberpunk 2077: Phantom Liberty?](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-songbird-reed-choice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
