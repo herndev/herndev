@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - ⏩ [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
- - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
+ - 💣 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
+ - ⏩ [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)
+ - 👉 [I love democracy.](http://9gag.com/gag/a2KAGOY)<!-- MEMES:END -->
 
 ---
 
