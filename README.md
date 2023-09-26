@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads is struggling to retain users — but it could still catch up to X](https://www.theverge.com/2023/9/26/23890592/threads-meta-monthly-users-data-x-twitter)
- - [Bowers &amp; Wilkins’ PX7 S2 noise-canceling headphones have dropped to a new low](https://www.theverge.com/2023/9/26/23889103/bowers-wilkins-px7-s2-headphones-apple-airtag-loop-yeedi-vac-2-pro-deal-sale)
- - [Microsoft is going nuclear to power its AI ambitions](https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring)<!-- TECH:END -->
+ - [The Lamborghini-inspired Dry Studio Black Diamond 75 gaming keyboard is more cool than cringe](https://www.theverge.com/23885308/dry-studio-black-diamond-75-mechanical-keyboard-specs-price-impressions)
+ - [The Creator retreads familiar AI panic territory to stunningly inert effect](https://www.theverge.com/23889089/the-creator-movie-review-gareth-edwards)
+ - [Spotify now lets your friends help you build the perfect party playlist](https://www.androidauthority.com/spotify-jam-feature-3368364/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
