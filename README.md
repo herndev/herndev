@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases Studio Display firmware 17 with camera feature updates](https://appleinsider.com/articles/23/09/26/apple-releases-studio-display-firmware-17-with-camera-updates?utm_medium=rss)
- - [Review of macOS 14 Sonoma: a better stab at usable widgets, improved password manager, promising gaming enhancements, but more features are skipping Intel Macs &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230926/p20#a230926p20)
- - [Eddie Cue&#39;s US v. Google testimony: Cue said Google was the only &quot;valid&quot; search choice for a deal; the DOJ noted Apple railed against Google&#39;s privacy policies &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230926/p19#a230926p19)<!-- TECH:END -->
+ - [Apple defends Google Search deal in court: ‘There wasn’t a valid alternative’](https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google)
+ - [FCC announces plans to resurrect net neutrality rules](https://www.theverge.com/2023/9/26/23890527/fcc-net-neutrality-rules-law-usa-internet-access)
+ - [Sources: OpenAI is pitching investors on a possible share sale that would value the startup at between $80B and $90B, almost triple its level earlier this year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p23#a230926p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
