@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt apologizes for anti-Russian dialogue and images in Ukrainian version of Cyberpunk 2077, says it was added without permission](https://www.pcgamer.com/cd-projekt-apologizes-for-anti-russian-dialogue-and-images-in-ukrainian-version-of-cyberpunk-2077-says-it-was-added-without-permission)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.230924-2000&rpar;](https://news.xbox.com/en-us/2023/09/25/xbox-insider-release-notes-alpha-skip-ahead-2408-230924-2000/)
- - [RIP Starfield Magic Mud Puddle &lpar;2023-2023&rpar;](https://kotaku.com/starfield-mud-puddle-money-cash-credits-patch-fixed-rip-1850872043)<!-- GAME:END -->
+ - [CCP knows Dust 514 should never have been a console exclusive: &#39;If we had been on PC the whole time the game would literally be alive&#39;](https://www.pcgamer.com/ccp-knows-dust-514-should-never-have-been-a-console-exclusive-if-we-had-been-on-pc-the-whole-time-the-game-would-literally-be-alive)
+ - [Should you kill Jacob and Taylor in Cyberpunk 2077?](https://www.pcgamer.com/cyberpunk-2077-jacob-taylor-choice-kill)
+ - [How To Unlock Cyberpunk 2077’s New Ending In Phantom Liberty](https://kotaku.com/cyberpunk-2077-phantom-liberty-how-to-unlock-new-ending-1850871301)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
