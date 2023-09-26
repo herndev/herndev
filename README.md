@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - ⏩ [Is that the freeway?](http://9gag.com/gag/a04D6GL)
- - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
+ - 💣 [Time flies](http://9gag.com/gag/armD2GX)
+ - ⏩ [Single moms from the past](http://9gag.com/gag/a6qej6N)
+ - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/aKEXO8j)<!-- MEMES:END -->
 
 ---
 
