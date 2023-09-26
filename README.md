@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenny Kravitz wore his ridiculously huge scarf in debut TikTok](https://www.polygon.com/23890977/lenny-kravitz-huge-scarf-meme-tiktok-fall)
- - [Todd Howard says Starfield&#39;s planetary survival systems were originally &#39;very punitive&#39; but &#39;we just nerfed the hell out of it&#39;](https://www.pcgamer.com/todd-howard-says-starfields-planetary-survival-systems-were-originally-very-punitive-but-we-just-nerfed-the-hell-out-of-it)
- - [These Pokémon-Themed Skateboards Are Selling for $20K](https://kotaku.com/pokemon-santa-cruz-skateboards-deck-blind-bag-gold-1850874741)<!-- GAME:END -->
+ - [17 Essential Cyberpunk 2077 Side-Quests To Find In Night City](https://kotaku.com/cyberpunk-2077-side-quests-panam-dream-on-sinnerman-1850875179)
+ - [We asked a professional miniatures painter to try his hand at Moonbreaker](https://www.pcgamer.com/we-asked-a-professional-miniatures-painter-to-try-his-hand-at-moonbreaker)
+ - [Cyberpunk 2077 Now Contains A Hidden Doom Clone Starring Keanu Reeves](https://kotaku.com/cyberpunk-2077-2-0-phantom-liberty-dlc-release-steam-1850875204)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
