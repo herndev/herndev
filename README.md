@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
- - ⏩ [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 💣 [Lucky](http://9gag.com/gag/aA0LvM2)
+ - ⏩ [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
  - 👉 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)<!-- MEMES:END -->
 
 ---
