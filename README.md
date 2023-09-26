@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These smart bulbs transform your home at a record deal price of $26](https://www.androidauthority.com/kasa-smart-light-bulbs-deal-3368488/)
- - [Logitech now sells a $299 folding chair](https://www.theverge.com/2023/9/26/23890671/logitech-g-playseat-challenge-x-folding-sim-racing-cockpit-chair)
- - [Risk of a US Government Shutdown Is Fueled by Very Online Republicans](https://www.wired.com/story/us-government-shutdown-right-wing-bubble/)<!-- TECH:END -->
+ - [Apple releases Studio Display firmware 17 with camera feature updates](https://appleinsider.com/articles/23/09/26/apple-releases-studio-display-firmware-17-with-camera-updates?utm_medium=rss)
+ - [Review of macOS 14 Sonoma: a better stab at usable widgets, improved password manager, promising gaming enhancements, but more features are skipping Intel Macs &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230926/p20#a230926p20)
+ - [Eddie Cue&#39;s US v. Google testimony: Cue said Google was the only &quot;valid&quot; search choice for a deal; the DOJ noted Apple railed against Google&#39;s privacy policies &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230926/p19#a230926p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
