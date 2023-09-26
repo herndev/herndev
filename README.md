@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony announces Olivia Rodrigo edition of its LinkBuds S earbuds](https://www.theverge.com/2023/9/26/23889814/sony-olivia-rodrigo-linkbuds-s-announced-guts-sour)
- - [EVgo is trying to turn around complaints about slow, broken EV chargers](https://www.theverge.com/2023/9/26/23889795/evgo-renew-ev-electric-car-chaging-reliability-update)
- - [Samsung Good Lock 6 is coming: Here’s what to expect](https://www.androidauthority.com/samsung-good-lock-6-coming-3368211/)<!-- TECH:END -->
+ - [Mattel’s Pictionary Vs. AI leaves the guesswork to the bots](https://www.theverge.com/2023/9/26/23889925/mattel-pictionary-vs-ai-board-game-google-quick-draw)
+ - [Why the First Amendment protects liars](https://www.theverge.com/23883027/alvarez-stolen-valor-first-amendment-kosseff-liar-crowded-theater)
+ - [These iPhone 15 models have significantly higher delivery wait times this year](https://www.androidauthority.com/iphone-15-pre-order-wait-times-3368250/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
