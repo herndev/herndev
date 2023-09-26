@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time flies](http://9gag.com/gag/armD2GX)
- - ⏩ [Single moms from the past](http://9gag.com/gag/a6qej6N)
- - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/aKEXO8j)<!-- MEMES:END -->
+ - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
+ - ⏩ [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
 
 ---
 
