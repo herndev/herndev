@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Eddy Cue says Google is default search engine because it is the &#39;best&#39;](https://appleinsider.com/articles/23/09/26/apples-eddy-cue-says-google-is-default-search-engine-because-it-is-the-best?utm_medium=rss)
- - [Nothing launches a smartwatch and earbuds that cost less than $120 combined](https://www.theverge.com/2023/9/26/23891328/nothing-cmf-buds-pro-watch-charger)
- - [MoneyGram unveils a non-custodial wallet to help its users move funds between fiat currency and USDC, limited to ~40 countries supporting a digital KYC process &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230926/p26#a230926p26)<!-- TECH:END -->
+ - [Peloton co-founder Tom Cortese is stepping down](https://www.theverge.com/2023/9/26/23891565/peloton-co-founder-tom-cortese-nick-caldwell-stepping-down)
+ - [Microsoft starts rolling out a Windows 11 update that adds access to Windows Copilot and, over the coming months, AI updates to Paint, Snipping Tool, and Photos &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230926/p28#a230926p28)
+ - [CDC Makes Another RSV Shot Approval: Here&#39;s Who Needs a COVID, Flu and RSV Shot     - CNET](https://www.cnet.com/health/medical/cdc-makes-another-rsv-shot-approval-heres-who-needs-a-covid-flu-and-rsv-shot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
