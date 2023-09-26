@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption 2 Somehow Coming To Switch, According To Ratings Board Leak](https://kotaku.com/read-dead-redemption-2-nintendo-switch-port-rating-1850873886)
- - [Squealing pigs, disgruntled bison, and the most beautiful frying meat I&#39;ve ever seen: Dragon&#39;s Dogma 2 is just as wonderfully weird as the first game](https://www.pcgamer.com/squealing-pigs-disgruntled-bison-and-the-most-beautiful-frying-meat-ive-ever-seen-dragons-dogma-2-is-just-as-wonderfully-weird-as-the-first-game)
- - [Behind the Scenes of Cyberpunk 2077: Phantom Liberty’s Launch Trailer](https://news.xbox.com/en-us/2023/09/26/cyberpunk-2077-phantom-liberty-launch-trailer/)<!-- GAME:END -->
+ - [Meet Your Maker’s Sector 2: Shattered Peak Takes Players to the Frigid Arctic Wasteland](https://news.xbox.com/en-us/2023/09/26/meet-your-maker-sector-2-shattered-peak/)
+ - [Xbox Insider Release Notes – Beta &lpar;2310.230921-2200&rpar;](https://news.xbox.com/en-us/2023/09/26/xbox-insider-release-notes-beta-2310-230921-2200/)
+ - [Capcom President Says ‘Game Prices Are Too Low’](https://kotaku.com/capcom-president-game-prices-too-low-resident-evil-4-1850874279)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
