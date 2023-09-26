@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Radeon boss Scott Herkelman will leave AMD at the end of the year](https://www.pcgamer.com/radeon-boss-scott-herkelman-will-leave-amd-at-the-end-of-the-year)
- - [NYT Connections hint and answers today: September 26 &lpar;#107&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-26-107)
- - [Microsoft&#39;s data centers of the future could be nuclear powered](https://www.pcgamer.com/microsofts-data-centers-of-the-future-could-be-nuclear-powered)<!-- GAME:END -->
+ - [Can Growlithe be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889276/can-growlithe-be-shiny-arcanine)
+ - [ChatGPT update gives it eyes and ears](https://www.pcgamer.com/chatgpt-update-gives-it-eyes-and-ears)
+ - [Radeon boss Scott Herkelman will leave AMD at the end of the year](https://www.pcgamer.com/radeon-boss-scott-herkelman-will-leave-amd-at-the-end-of-the-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
