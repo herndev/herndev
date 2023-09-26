@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Xbox Sales and Specials, Including the Season Pass Sale and Warner Bros. 100th Anniversary Sale](https://news.xbox.com/en-us/2023/09/26/this-weeks-xbox-sales-and-specials/)
- - [Capcom stirs the pot, saying &#39;game prices are too low&#39;](https://www.pcgamer.com/capcom-president-stirs-the-pot-saying-game-prices-are-too-low)
- - [2023&#39;s been such a ridiculous year for PC gaming that the major releases don&#39;t fit on a 1TB SSD](https://www.pcgamer.com/2023-games-storage-space)<!-- GAME:END -->
+ - [Behind the Scenes of Cyberpunk 2077: Phantom Liberty’s Launch Trailer](https://news.xbox.com/en-us/2023/09/26/behind-the-scenes-of-cyberpunk-2077-phantom-libertys-launch-trailer/)
+ - [Elon Musk doesn’t know his Mercy fetish is boring](https://www.polygon.com/23884737/elon-musk-amber-heard-mercy-cosplay-sexism-overwatch)
+ - [Todd Howard says that Starfield&#39;s ship AI sucks on purpose so players can actually hit stuff: &#39;You have to make the AI really stupid&#39;](https://www.pcgamer.com/todd-howard-says-that-starfields-ship-ai-sucks-on-purpose-so-players-can-actually-hit-stuff-you-have-to-make-the-ai-really-stupid)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
