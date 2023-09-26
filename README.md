@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Okeeeeeeeeeeeeeeeeey, let&#39;s goooooooo!](http://9gag.com/gag/aOxn9ED)
- - ⏩ [Take that](http://9gag.com/gag/aXnmK3g)
- - 👉 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)<!-- MEMES:END -->
+ - 💣 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
+ - ⏩ [Lucky](http://9gag.com/gag/aA0LvM2)
+ - 👉 [He\u2019s on one.](http://9gag.com/gag/awZ94yx)<!-- MEMES:END -->
 
 ---
 
