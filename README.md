@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lucky](http://9gag.com/gag/aA0LvM2)
- - ⏩ [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 👉 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)<!-- MEMES:END -->
+ - 💣 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - ⏩ [How it started and how its going](http://9gag.com/gag/aWGebdK)
+ - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
 
 ---
 
