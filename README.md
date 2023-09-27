@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic asks the US Supreme Court to review a judge&#39;s 2021 ruling that Apple&#39;s App Store policies don&#39;t violate federal antitrust laws &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230927/p45#a230927p45)
- - [Microsoft is testing a DALL-E-powered text-to-image creator in Paint for Windows 11](https://www.theverge.com/2023/9/27/23892900/microsoft-dall-e-windows-11-paint-cocreator)
- - [Google rolls out big OS update for Chromebooks, adds Material You redesign](https://www.androidauthority.com/chromebook-chrome-os-update-3369033/)<!-- TECH:END -->
+ - [Disney’s password-sharing crackdown has begun](https://www.theverge.com/2023/9/27/23893231/disney-plus-password-sharing-ban-canada)
+ - [In a message to Canadian users, Disney+ says it updated its subscriber agreement to limit the usage of the service to a single household, effective November 1 &lpar;Matt Tamanini/The Streamable&rpar;](http://www.techmeme.com/230927/p47#a230927p47)
+ - [iPhone SE 4 detailed in new anonymous leak](https://appleinsider.com/articles/23/09/27/iphone-se-4-detailed-in-new-anonymous-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
