@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Happy Tree Friends Is Back With A New Episode, And A Roguelite Shooter](https://news.xbox.com/en-us/2023/09/27/happy-tree-friends-is-back-roguelite-shooter/)
- - [A simple Windows 11 shortcut has changed my view of PC HDR gaming: Win+Alt+B](https://www.pcgamer.com/windows-11-shortcut-hdr)
- - [Horizon Forbidden West Is The Next Big PS5 Exclusive To Get Ported To PC](https://kotaku.com/horizon-forbidden-west-sony-ps5-pc-steam-release-date-1850877220)<!-- GAME:END -->
+ - [Cuphead’s Xbox Anniversary Update Brings a Bevy of Behind-the-Scenes Content Exclusively to Xbox Fans](https://news.xbox.com/en-us/2023/09/27/cuphead-xbox-anniversary-update-exclusive-to-xbox-fans/)
+ - [Team Fortress 2 voice actors go for the Oscars with recreation of its most iconic fan skit](https://www.pcgamer.com/team-fortress-2-voice-actors-go-for-the-oscars-with-recreation-of-its-most-iconic-fan-skit)
+ - [Dune will hit Netflix to fill the Dune 2 void in your heart](https://www.polygon.com/23892387/dune-2021-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
