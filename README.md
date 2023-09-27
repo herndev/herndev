@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Counter-Strike 2 is now available, replacing CS:GO](https://www.polygon.com/23889113/counter-strike-2-release-date-steam-cs2-launch)
- - [How to take the Chimera’s core Cyberpunk 2077: Phantom Liberty](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23892363/chimera-core-take-lucretia-phantom-liberty)
- - [&#39;Coups, schisms, near-death experiences&#39;: The scarcely believable 22-year development of a Morrowind mod older than the game itself](https://www.pcgamer.com/tamriel-rebuilt-morrowind-mod-history)<!-- GAME:END -->
+ - [You Really Don’t Want To Fail Cyberpunk 2077: Phantom Liberty‘s First Mission](https://kotaku.com/cyberpunk-2077-phantom-liberty-fail-hole-sky-ending-1850880040)
+ - [A new age dawns: Counter-Strike 2 is live on Steam, replaces CS:GO](https://www.pcgamer.com/counter-strike-2-released)
+ - [More game studios are changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
