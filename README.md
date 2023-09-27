@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lucky](http://9gag.com/gag/aA0LvM2)
- - ⏩ [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 💣 [Korean street burger](http://9gag.com/gag/aBdbvLD)
+ - ⏩ [Father Figure](http://9gag.com/gag/a1P8xWG)
  - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
 
 ---
