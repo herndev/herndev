@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [NYT Connections hint and answers today: September 27 &lpar;#108&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-27-108)
  - [Newegg announces a hassle-free GPU trade-in program](https://www.pcgamer.com/newegg-announces-a-hassle-free-gpu-trade-in-program)
- - [Today&#39;s Wordle hint and answer #830: Wednesday, September 27](https://www.pcgamer.com/wordle-answer-today-hint-830-september-27)
- - [Ahsoka’s place in the Star Wars timeline is immediately confusing](https://www.polygon.com/star-wars/23841485/when-does-ahsoka-take-place-star-wars-rebels)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #830: Wednesday, September 27](https://www.pcgamer.com/wordle-answer-today-hint-830-september-27)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
