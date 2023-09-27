@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - ⏩ [The factory must grow!](http://9gag.com/gag/aBdbvqZ)
- - 👉 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)<!-- MEMES:END -->
+ - 💣 [For a while now.. distrust every post](http://9gag.com/gag/anz0dKL)
+ - ⏩ [Korean street burger](http://9gag.com/gag/aBdbvLD)
+ - 👉 [Toot toot don&#39;t](http://9gag.com/gag/aDYqPMN)<!-- MEMES:END -->
 
 ---
 
