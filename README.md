@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonoma puts the last nail in the coffin for PostScript on macOS](https://appleinsider.com/articles/23/09/27/sonoma-puts-the-last-nail-in-the-coffin-for-postscript-on-macos?utm_medium=rss)
- - [Jabra’s rugged Elite 8 Active earbuds are on sale for the first time](https://www.theverge.com/2023/9/27/23891031/jabra-elite-8-active-earbuds-apple-watch-ultra-2-tcl-q7-tv-deal-sale)
- - [Snap closes AR Enterprise Services, launched in March 2023 to let retailers adapt Snap&#39;s AR technology for their own websites, citing high costs and complexity &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230927/p16#a230927p16)<!-- TECH:END -->
+ - [Yale introduces Yale Assure Lock 2 Touch and Assure Lock 2 Plus with Apple Home Keys support](https://appleinsider.com/articles/23/09/27/yale-introduces-yale-assure-lock-2-touch-and-assure-lock-2-plus-with-apple-home-keys-support?utm_medium=rss)
+ - [Samsung delays One UI 6 beta for the Galaxy Z Fold 5 and Flip 5](https://www.androidauthority.com/one-ui-6-beta-delay-fold-5-flip-5-3368898/)
+ - [Immersive Tech Obscures Reality. AI Will Threaten It](https://www.wired.com/story/immersive-technology-artificial-intelligence-disinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
