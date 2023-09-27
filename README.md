@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ahsoka’s place in the Star Wars timeline is immediately confusing](https://www.polygon.com/star-wars/23841485/when-does-ahsoka-take-place-star-wars-rebels)
  - [Ahead of update, Vampire Survivors creator insists &#39;graphically ugly third person devoid-of-narrative single player games will continue to be the foundation of our business&#39;](https://www.pcgamer.com/ahead-of-update-vampire-survivors-creator-insists-graphically-ugly-third-person-devoid-of-narrative-single-player-games-will-continue-to-be-the-foundation-of-our-business)
- - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/26/extended-play-promotion-comes-to-playstation-store-4/)
- - [George R.R. Martin and other authors say OpenAI stole their books to train ChatGPT: &#39;We are here to fight&#39;](https://www.pcgamer.com/george-rr-martin-and-other-authors-say-openai-stole-their-books-to-train-chatgpt-we-are-here-to-fight)<!-- GAME:END -->
+ - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/26/extended-play-promotion-comes-to-playstation-store-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
