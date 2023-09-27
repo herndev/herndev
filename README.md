@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Korean street burger](http://9gag.com/gag/aBdbvLD)
- - ⏩ [Father Figure](http://9gag.com/gag/a1P8xWG)
- - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
+ - 💣 [Don&#39;t let any man to drag you.](http://9gag.com/gag/aA0Lvxd)
+ - ⏩ [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
+ - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
 
 ---
 
