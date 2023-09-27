@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 – Devs share most popular, powerful, and unconventional multiclass builds](https://blog.playstation.com/2023/09/27/baldurs-gate-3-devs-share-most-popular-powerful-and-unconventional-multiclass-builds/)
- - [Resident Evil 4 remake’s DLC is just as lavish](https://www.polygon.com/reviews/23891490/resident-evil-4-remake-dlc-review-separate-ways)
- - [Sarah Bond Interview: The Importance of Japan and Asia to Xbox](https://news.xbox.com/en-us/2023/09/27/sarah-bond-interview-japan-tokyo-game-show/)<!-- GAME:END -->
+ - [Happy Tree Friends Is Back With A New Episode, And A Roguelite Shooter](https://news.xbox.com/en-us/2023/09/27/happy-tree-friends-is-back-roguelite-shooter/)
+ - [A simple Windows 11 shortcut has changed my view of PC HDR gaming: Win+Alt+B](https://www.pcgamer.com/windows-11-shortcut-hdr)
+ - [Horizon Forbidden West Is The Next Big PS5 Exclusive To Get Ported To PC](https://kotaku.com/horizon-forbidden-west-sony-ps5-pc-steam-release-date-1850877220)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
