@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yale introduces Yale Assure Lock 2 Touch and Assure Lock 2 Plus with Apple Home Keys support](https://appleinsider.com/articles/23/09/27/yale-introduces-yale-assure-lock-2-touch-and-assure-lock-2-plus-with-apple-home-keys-support?utm_medium=rss)
- - [Samsung delays One UI 6 beta for the Galaxy Z Fold 5 and Flip 5](https://www.androidauthority.com/one-ui-6-beta-delay-fold-5-flip-5-3368898/)
- - [Immersive Tech Obscures Reality. AI Will Threaten It](https://www.wired.com/story/immersive-technology-artificial-intelligence-disinformation/)<!-- TECH:END -->
+ - [Apple&#39;s long-term demand for 3nm chips may be lower than expected](https://appleinsider.com/articles/23/09/27/apples-long-term-demand-for-3nm-chips-may-be-lower-than-expected?utm_medium=rss)
+ - [Filing: the US FTC revives its challenge against Microsoft&#39;s $69B acquisition of Activision Blizzard, a move which may seek to unwind the deal after it closes &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230927/p21#a230927p21)
+ - [Netflix Drop 01: all the news and trailers from Netflix’s animation event](https://www.theverge.com/2023/9/27/23889776/netflix-drop-01-news-trailers-castlevania-scott-pilgrim)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
