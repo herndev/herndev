@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bonus Xbox Update for September: A Simplified Experience to Back Up Your Game Captures to Onedrive and More](https://news.xbox.com/en-us/2023/09/27/bonus-xbox-update-for-september/)
- - [In Gen V, superpowers are nothing if your posts aren’t good](https://www.polygon.com/23891544/gen-v-the-boys-prime-video-early-impression-review)
- - [Starfield ‘Nerfed The Hell’ Out Of Environmental Damage During Development](https://kotaku.com/starfield-game-ships-xbox-series-pc-planets-affliction-1850877767)<!-- GAME:END -->
+ - [$400 Set Of Retro Pokémon Cards Sells Out Immediately [Update]](https://kotaku.com/400-set-of-retro-pokemon-cards-sells-out-immediately-1850870258)
+ - [Ahsoka Episode 7 Review: Very Much A Star Wars Show](https://kotaku.com/ahsoka-tano-series-show-episode-7-review-recap-reaction-1850878087)
+ - [The next game from Dave the Diver studio Mintrocket is… a 16-player PvP zombie survival game?](https://www.pcgamer.com/the-next-game-from-dave-the-diver-studio-mintrocket-is-a-16-player-pvp-zombie-survival-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
