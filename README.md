@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - ⏩ [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 💣 [Only way to go](http://9gag.com/gag/aL1Or5V)
+ - ⏩ [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 👉 [Russian Black Sea commander shown on video](http://9gag.com/gag/anz0WWB)<!-- MEMES:END -->
 
 ---
 
