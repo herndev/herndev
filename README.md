@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ahead of update, Vampire Survivors creator insists &#39;graphically ugly third person devoid-of-narrative single player games will continue to be the foundation of our business&#39;](https://www.pcgamer.com/ahead-of-update-vampire-survivors-creator-insists-graphically-ugly-third-person-devoid-of-narrative-single-player-games-will-continue-to-be-the-foundation-of-our-business)
  - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/26/extended-play-promotion-comes-to-playstation-store-4/)
- - [George R.R. Martin and other authors say OpenAI stole their books to train ChatGPT: &#39;We are here to fight&#39;](https://www.pcgamer.com/george-rr-martin-and-other-authors-say-openai-stole-their-books-to-train-chatgpt-we-are-here-to-fight)
- - [This pitch perfect Baldur&#39;s Gate 3 fan edit of the Friends opening has me trying to match up each companion](https://www.pcgamer.com/this-pitch-perfect-baldurs-gate-3-fan-edit-of-the-friends-opening-has-me-trying-to-match-up-each-origin-character)<!-- GAME:END -->
+ - [George R.R. Martin and other authors say OpenAI stole their books to train ChatGPT: &#39;We are here to fight&#39;](https://www.pcgamer.com/george-rr-martin-and-other-authors-say-openai-stole-their-books-to-train-chatgpt-we-are-here-to-fight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
