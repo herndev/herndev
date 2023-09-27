@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, Phantom Liberty and patch 2.0 really are Cyberpunk 2077&#39;s &#39;last big updates&#39; and it&#39;s finally time to start the sequel, director confirms](https://www.pcgamer.com/yes-phantom-liberty-and-patch-20-really-are-cyberpunk-2077s-last-big-updates-and-its-finally-time-to-start-the-sequel-director-confirms)
- - [Starfield Superspeed Mod Lets You Fly Between Planets In Minutes](https://kotaku.com/starfield-pc-best-mods-ships-game-nexus-slower-light-1850878963)
- - [Scavengers Reign looks like a beautiful, bizarre adventure beyond the stars](https://www.polygon.com/23798021/scavengers-reigns-announcement-trailer-animated-premiere-date)<!-- GAME:END -->
+ - [Some Starfield players are trying to solve a mysterious puzzle that might not actually be a mysterious puzzle](https://www.pcgamer.com/some-starfield-players-are-trying-to-solve-a-mysterious-puzzle-that-might-not-actually-be-a-mysterious-puzzle)
+ - [Baldur&#39;s Gate 3&#39;s Karlach Actor On Playing The Beloved Barbarian](https://kotaku.com/samantha-beart-karlach-ending-baldurs-gate-3-rpg-pc-ps5-1850879004)
+ - [Netflix’s Tomb Raider Anime Picks Up After The Reboot Trilogy](https://kotaku.com/netflix-s-tomb-raider-anime-picks-up-after-the-reboot-t-1850879401)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
