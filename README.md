@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Really Don’t Want To Fail Cyberpunk 2077: Phantom Liberty‘s First Mission](https://kotaku.com/cyberpunk-2077-phantom-liberty-fail-hole-sky-ending-1850880040)
- - [A new age dawns: Counter-Strike 2 is live on Steam, replaces CS:GO](https://www.pcgamer.com/counter-strike-2-released)
- - [More game studios are changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)<!-- GAME:END -->
+ - [Starfield&#39;s infinite weapon glitch is your path to farming epic guns](https://www.pcgamer.com/starfields-infinite-weapon-glitch-is-your-path-to-farming-epic-guns)
+ - [Jujutsu Kaisen fans love Gojo so much they built him a shrine](https://www.polygon.com/23893045/jujutsu-kaisen-gojo-shrine-manga-chapter-236)
+ - [PlayStation CEO Jim Ryan stepping down in March](https://www.polygon.com/23893391/playstation-ceo-jim-ryan-retirement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
