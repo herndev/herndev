@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s long-term demand for 3nm chips may be lower than expected](https://appleinsider.com/articles/23/09/27/apples-long-term-demand-for-3nm-chips-may-be-lower-than-expected?utm_medium=rss)
- - [Filing: the US FTC revives its challenge against Microsoft&#39;s $69B acquisition of Activision Blizzard, a move which may seek to unwind the deal after it closes &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230927/p21#a230927p21)
- - [Netflix Drop 01: all the news and trailers from Netflix’s animation event](https://www.theverge.com/2023/9/27/23889776/netflix-drop-01-news-trailers-castlevania-scott-pilgrim)<!-- TECH:END -->
+ - [NYC- and Tel Aviv-based Gem Security, which offers a cloud threat detection, investigation, and response service, raised a $23M Series A led by GGV Capital &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230927/p22#a230927p22)
+ - [Netflix is making a Devil May Cry anime](https://www.theverge.com/23889805/devil-may-cry-anime-netflix-trailer)
+ - [All the news from Meta Connect 2023](https://www.theverge.com/2023/9/27/23889627/meta-connect-quest-3-developer-conference-announcements-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
