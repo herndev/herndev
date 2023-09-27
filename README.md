@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the Physics of Time Actually Changing?](https://www.wired.com/story/physics-of-time-actually-changing/)
- - [China releases a list of 26 app stores, including from Samsung, Huawei, and Xiaomi, that comply with its new rules; Apple&#39;s App Store is not on the list &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230927/p10#a230927p10)
- - [Resident Evil 4 for the iPhone 15 Pro will cost $60, would you buy it?](https://www.androidauthority.com/resident-evil-4-iphone-15-pro-price-3368777/)<!-- TECH:END -->
+ - [You might get free Pixel Buds Pro if you pre-order the Pixel 8](https://www.androidauthority.com/you-might-get-free-pixel-buds-pro-if-you-pre-order-the-pixel-8-3368814/)
+ - [Researchers say X removed the ability for users to report election misinformation, a feature launched in the US, Australia, and some other countries in 2021 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/230927/p13#a230927p13)
+ - [Apple&#39;s Eddy Cue says Google is default search engine because it is the best option](https://appleinsider.com/articles/23/09/26/apples-eddy-cue-says-google-is-default-search-engine-because-it-is-the-best?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
