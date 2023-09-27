@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15 Pro case market is a minefield right now](https://www.theverge.com/23892671/iphone-15-pro-action-button-case-maker-problems)
- - [Epic Games asks the Supreme Court to hear its case against Apple’s App Store rules](https://www.theverge.com/2023/9/27/23892853/epic-games-apple-app-store-supreme-court-antitrust-trial)
- - [Bard conversations turn up in Google search results; Google says Bard lets users share chats, but they shouldn&#39;t be indexed, and the company is working on a fix &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/230927/p35#a230927p35)<!-- TECH:END -->
+ - [LG Gram 17 Pro review: a discrete GPU, lightweight at 3.2 lbs, a 144Hz screen, and ample ports, but a flimsy chassis and not the best Nvidia GPU for the price &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230927/p42#a230927p42)
+ - [The Meta AI Chatbot Is Mark Zuckerberg&#39;s Answer to ChatGPT](https://www.wired.com/story/meta-ai-chatbot-is-mark-zuckerbergs-answer-to-chatgpt/)
+ - [Epic takes its &#39;Fortnite&#39; fight with Apple to the Supreme Court](https://appleinsider.com/articles/23/09/27/epic-takes-its-fortnite-fight-with-apple-to-the-supreme-court?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
