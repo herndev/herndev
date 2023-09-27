@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only way to go](http://9gag.com/gag/aL1Or5V)
- - ⏩ [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
+ - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - ⏩ [This is spark joy](http://9gag.com/gag/aRE8y7G)
+ - 👉 [Korean street burger](http://9gag.com/gag/aBdbvLD)<!-- MEMES:END -->
 
 ---
 
