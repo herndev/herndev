@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For a while now.. distrust every post](http://9gag.com/gag/anz0dKL)
- - ⏩ [Korean street burger](http://9gag.com/gag/aBdbvLD)
- - 👉 [Toot toot don&#39;t](http://9gag.com/gag/aDYqPMN)<!-- MEMES:END -->
+ - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
+ - ⏩ [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 👉 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)<!-- MEMES:END -->
 
 ---
 
