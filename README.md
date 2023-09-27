@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some Starfield players are trying to solve a mysterious puzzle that might not actually be a mysterious puzzle](https://www.pcgamer.com/some-starfield-players-are-trying-to-solve-a-mysterious-puzzle-that-might-not-actually-be-a-mysterious-puzzle)
- - [Baldur&#39;s Gate 3&#39;s Karlach Actor On Playing The Beloved Barbarian](https://kotaku.com/samantha-beart-karlach-ending-baldurs-gate-3-rpg-pc-ps5-1850879004)
- - [Netflix’s Tomb Raider Anime Picks Up After The Reboot Trilogy](https://kotaku.com/netflix-s-tomb-raider-anime-picks-up-after-the-reboot-t-1850879401)<!-- GAME:END -->
+ - [Counter-Strike 2 is now available, replacing CS:GO](https://www.polygon.com/23889113/counter-strike-2-release-date-steam-cs2-launch)
+ - [How to take the Chimera’s core Cyberpunk 2077: Phantom Liberty](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23892363/chimera-core-take-lucretia-phantom-liberty)
+ - [&#39;Coups, schisms, near-death experiences&#39;: The scarcely believable 22-year development of a Morrowind mod older than the game itself](https://www.pcgamer.com/tamriel-rebuilt-morrowind-mod-history)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
