@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney’s password-sharing crackdown has begun](https://www.theverge.com/2023/9/27/23893231/disney-plus-password-sharing-ban-canada)
- - [In a message to Canadian users, Disney+ says it updated its subscriber agreement to limit the usage of the service to a single household, effective November 1 &lpar;Matt Tamanini/The Streamable&rpar;](http://www.techmeme.com/230927/p47#a230927p47)
- - [iPhone SE 4 detailed in new anonymous leak](https://appleinsider.com/articles/23/09/27/iphone-se-4-detailed-in-new-anonymous-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Pick up a Mac mini with 16GB RAM, 1TB SSD for $999](https://appleinsider.com/articles/23/09/27/pick-up-a-mac-mini-with-16gb-ram-1tb-ssd-for-999?utm_medium=rss)
+ - [Mac Studio with M2 Max and M2 Ultra now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/23/09/27/mac-studio-with-m2-max-and-m2-ultra-now-available-on-apples-refurbished-store?utm_medium=rss)
+ - [Pokémon are coming to the Van Gogh Museum to teach the world about art](https://www.theverge.com/23893271/pokemon-x-van-gogh-museum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
