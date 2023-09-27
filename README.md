@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
- - ⏩ [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
- - 👉 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)<!-- MEMES:END -->
+ - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - ⏩ [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 
