@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Jony Ive and Sam Altman have been discussing building a new AI hardware device, and Masayoshi Son has been involved in some aspects of the conversation &lpar;The Information&rpar;](http://www.techmeme.com/230926/p32#a230926p32)
  - [The new WGA contract will change how Hollywood works](https://www.theverge.com/2023/9/26/23891835/wga-contract-summary-ai-streaming-data)
- - [The Writers Guild of America’s strike is over](https://www.theverge.com/2023/9/26/23889334/wga-strike-end-hollywood-writers)
- - [Hollywood’s actors are still on strike](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)<!-- TECH:END -->
+ - [The Writers Guild of America’s strike is over](https://www.theverge.com/2023/9/26/23889334/wga-strike-end-hollywood-writers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
