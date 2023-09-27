@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West: Complete Edition is coming to PS5 and PC](https://blog.playstation.com/2023/09/27/horizon-forbidden-west-complete-edition-is-coming-to-ps5-and-pc/)
- - [Use schemes, intrigue, and even civil war to master Total War: Pharaoh&#39;s Royal Court](https://www.pcgamer.com/use-schemes-intrigue-and-even-civil-war-to-master-total-war-pharaohs-royal-court)
- - [Huzzah, the new anti-melting 12V-2x6 GPU power connector duly doesn&#39;t melt in initial testing](https://www.pcgamer.com/huzzah-the-new-anti-melting-12v-2x6-gpu-power-connector-duly-doesnt-melt-in-initial-testing)<!-- GAME:END -->
+ - [Baldur’s Gate 3 – Devs share most popular, powerful, and unconventional multiclass builds](https://blog.playstation.com/2023/09/27/baldurs-gate-3-devs-share-most-popular-powerful-and-unconventional-multiclass-builds/)
+ - [Resident Evil 4 remake’s DLC is just as lavish](https://www.polygon.com/reviews/23891490/resident-evil-4-remake-dlc-review-separate-ways)
+ - [Sarah Bond Interview: The Importance of Japan and Asia to Xbox](https://news.xbox.com/en-us/2023/09/27/sarah-bond-interview-japan-tokyo-game-show/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
