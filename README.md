@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - ⏩ [Fascinating behaviour](http://9gag.com/gag/aQEDyr2)
- - 👉 [Huehuehue](http://9gag.com/gag/a04Dzbn)<!-- MEMES:END -->
+ - 💣 [Don&#39;t let any man to drag you.](http://9gag.com/gag/aA0Lvxd)
+ - ⏩ [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 👉 [Choose wisely, or else regret it later.](http://9gag.com/gag/a9q4DQ0)<!-- MEMES:END -->
 
 ---
 
