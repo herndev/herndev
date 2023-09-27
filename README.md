@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG Gram 17 Pro review: a discrete GPU, lightweight at 3.2 lbs, a 144Hz screen, and ample ports, but a flimsy chassis and not the best Nvidia GPU for the price &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230927/p42#a230927p42)
- - [The Meta AI Chatbot Is Mark Zuckerberg&#39;s Answer to ChatGPT](https://www.wired.com/story/meta-ai-chatbot-is-mark-zuckerbergs-answer-to-chatgpt/)
- - [Epic takes its &#39;Fortnite&#39; fight with Apple to the Supreme Court](https://appleinsider.com/articles/23/09/27/epic-takes-its-fortnite-fight-with-apple-to-the-supreme-court?utm_medium=rss)<!-- TECH:END -->
+ - [Epic asks the US Supreme Court to review a judge&#39;s 2021 ruling that Apple&#39;s App Store policies don&#39;t violate federal antitrust laws &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230927/p45#a230927p45)
+ - [Microsoft is testing a DALL-E-powered text-to-image creator in Paint for Windows 11](https://www.theverge.com/2023/9/27/23892900/microsoft-dall-e-windows-11-paint-cocreator)
+ - [Google rolls out big OS update for Chromebooks, adds Material You redesign](https://www.androidauthority.com/chromebook-chrome-os-update-3369033/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
