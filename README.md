@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [$400 Set Of Retro Pokémon Cards Sells Out Immediately [Update]](https://kotaku.com/400-set-of-retro-pokemon-cards-sells-out-immediately-1850870258)
- - [Ahsoka Episode 7 Review: Very Much A Star Wars Show](https://kotaku.com/ahsoka-tano-series-show-episode-7-review-recap-reaction-1850878087)
- - [The next game from Dave the Diver studio Mintrocket is… a 16-player PvP zombie survival game?](https://www.pcgamer.com/the-next-game-from-dave-the-diver-studio-mintrocket-is-a-16-player-pvp-zombie-survival-game)<!-- GAME:END -->
+ - [Nathan Fielder’s new show is almost certainly lying to us](https://www.polygon.com/23892742/nathan-fielder-the-curse-trailer-showtime)
+ - [Like a telecommunications policy-focused Justin Timberlake, the FCC is bringing net neutrality back](https://www.pcgamer.com/like-a-telecommunications-policy-focused-justin-timberlake-the-fcc-is-bringing-net-neutrality-back)
+ - [How long is Cyberpunk 2077: Phantom Liberty?](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23892554/phantom-liberty-length-how-long-missions-jobs-gigs-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
