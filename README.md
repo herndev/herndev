@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - ⏩ [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
+ - 💣 [Only way to go](http://9gag.com/gag/aL1Or5V)
+ - ⏩ [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
 
 ---
 
