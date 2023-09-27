@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
- - ⏩ [A 14-year-old girl hanged her rapist in the forest. Sweden, September 27, 2023. A 26-year-old taxi driver &lpar;immigrant&rpar; reported for rape against a 14-year-old girl, then he was found hanged in a nature reserve. Now the girl, her boyfriend, and three brothers are suspects.](http://9gag.com/gag/ap9nzEb)
+ - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - ⏩ [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
  - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
 
 ---
