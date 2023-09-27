@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You might get free Pixel Buds Pro if you pre-order the Pixel 8](https://www.androidauthority.com/you-might-get-free-pixel-buds-pro-if-you-pre-order-the-pixel-8-3368814/)
- - [Researchers say X removed the ability for users to report election misinformation, a feature launched in the US, Australia, and some other countries in 2021 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/230927/p13#a230927p13)
- - [Apple&#39;s Eddy Cue says Google is default search engine because it is the best option](https://appleinsider.com/articles/23/09/26/apples-eddy-cue-says-google-is-default-search-engine-because-it-is-the-best?utm_medium=rss)<!-- TECH:END -->
+ - [EU criticizes X over levels of disinformation found on platform](https://www.theverge.com/2023/9/27/23892145/twitter-x-elon-musk-disinformation-european-union-commission-digital-services-act)
+ - [Don&#39;t buy a looted iPhone, it will never work](https://appleinsider.com/articles/20/06/03/dont-buy-a-looted-iphone-it-will-never-work?utm_medium=rss)
+ - [Will OpenAI build its own AI smartphone?](https://www.androidauthority.com/openai-ai-smartphone-3368822/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
