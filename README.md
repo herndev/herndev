@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - ⏩ [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
- - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
+ - ⏩ [Fascinating behaviour](http://9gag.com/gag/aQEDyr2)
+ - 👉 [Huehuehue](http://9gag.com/gag/a04Dzbn)<!-- MEMES:END -->
 
 ---
 
