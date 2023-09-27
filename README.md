@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chris Metzen returns to Blizzard full-time to create &#39;the next generation of adventures&#39; in World of Warcraft](https://www.pcgamer.com/chris-metzen-returns-to-blizzard-full-time-to-create-the-next-generation-of-adventures-in-world-of-warcraft)
- - [Baldur&#39;s Gate 3 voice actors playing D&amp;D as their characters is as fun to watch as you&#39;d hope](https://www.pcgamer.com/baldurs-gate-3-voice-actor-dnd-livestream)
- - [17 Essential Cyberpunk 2077 Side-Quests To Find In Night City](https://kotaku.com/cyberpunk-2077-side-quests-panam-dream-on-sinnerman-1850875179)<!-- GAME:END -->
+ - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/26/extended-play-promotion-comes-to-playstation-store-4/)
+ - [George R.R. Martin and other authors say OpenAI stole their books to train ChatGPT: &#39;We are here to fight&#39;](https://www.pcgamer.com/george-rr-martin-and-other-authors-say-openai-stole-their-books-to-train-chatgpt-we-are-here-to-fight)
+ - [This pitch perfect Baldur&#39;s Gate 3 fan edit of the Friends opening has me trying to match up each companion](https://www.pcgamer.com/this-pitch-perfect-baldurs-gate-3-fan-edit-of-the-friends-opening-has-me-trying-to-match-up-each-origin-character)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
