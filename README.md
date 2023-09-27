@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg on Threads, the future of AI, and Quest 3](https://www.theverge.com/23889057/mark-zuckerberg-meta-ai-elon-musk-threads-quest-interview-decoder)
- - [The Oculus Quest 3 lets you play with virtual Legos in your real living room](https://www.theverge.com/2023/9/27/23892690/meta-quest-3-lego-bricktales-oculus)
- - [eBay accused of selling hundreds of thousands of harmful polluting products](https://www.theverge.com/2023/9/27/23892755/ebay-harmful-polluting-products-violation-doj-epa)<!-- TECH:END -->
+ - [The iPhone 15 Pro case market is a minefield right now](https://www.theverge.com/23892671/iphone-15-pro-action-button-case-maker-problems)
+ - [Epic Games asks the Supreme Court to hear its case against Apple’s App Store rules](https://www.theverge.com/2023/9/27/23892853/epic-games-apple-app-store-supreme-court-antitrust-trial)
+ - [Bard conversations turn up in Google search results; Google says Bard lets users share chats, but they shouldn&#39;t be indexed, and the company is working on a fix &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/230927/p35#a230927p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
