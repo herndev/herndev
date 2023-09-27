@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bad news for Sony fans: The Xperia 5 V won’t be coming to the US](https://www.androidauthority.com/sony-xperia-5-v-us-launch-3368752/)
- - [FTC Chair Lina Khan, who rose to prominence with a 2017 academic paper that called for a break-up of Amazon, now has a chance to test her approach in the courts &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/230927/p9#a230927p9)
- - [Linda Yaccarino reflects on her first 100 days as X CEO, says intense public scrutiny is &quot;hard on me&quot;, as sources describe her relationship with Elon Musk &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230927/p8#a230927p8)<!-- TECH:END -->
+ - [Is the Physics of Time Actually Changing?](https://www.wired.com/story/physics-of-time-actually-changing/)
+ - [China releases a list of 26 app stores, including from Samsung, Huawei, and Xiaomi, that comply with its new rules; Apple&#39;s App Store is not on the list &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230927/p10#a230927p10)
+ - [Resident Evil 4 for the iPhone 15 Pro will cost $60, would you buy it?](https://www.androidauthority.com/resident-evil-4-iphone-15-pro-price-3368777/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
