@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - ⏩ [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
- - 👉 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)<!-- MEMES:END -->
+ - 💣 [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
+ - ⏩ [... true](http://9gag.com/gag/adPWRzN)
+ - 👉 [Same software different hardware](http://9gag.com/gag/aA0LNK0)<!-- MEMES:END -->
 
 ---
 
