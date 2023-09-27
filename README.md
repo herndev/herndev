@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC- and Tel Aviv-based Gem Security, which offers a cloud threat detection, investigation, and response service, raised a $23M Series A led by GGV Capital &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230927/p22#a230927p22)
- - [Netflix is making a Devil May Cry anime](https://www.theverge.com/23889805/devil-may-cry-anime-netflix-trailer)
- - [All the news from Meta Connect 2023](https://www.theverge.com/2023/9/27/23889627/meta-connect-quest-3-developer-conference-announcements-news)<!-- TECH:END -->
+ - [Mark Zuckerberg on Threads, the future of AI, and Quest 3](https://www.theverge.com/23889057/mark-zuckerberg-meta-ai-elon-musk-threads-quest-interview-decoder)
+ - [The Oculus Quest 3 lets you play with virtual Legos in your real living room](https://www.theverge.com/2023/9/27/23892690/meta-quest-3-lego-bricktales-oculus)
+ - [eBay accused of selling hundreds of thousands of harmful polluting products](https://www.theverge.com/2023/9/27/23892755/ebay-harmful-polluting-products-violation-doj-epa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
