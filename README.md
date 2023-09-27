@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ming-Chi Kuo: iPhone 15 Pro overheating issues likely due to thermal system design compromises to achieve a lighter weight, and are unrelated to TSMC&#39;s 3nm node &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/230927/p6#a230927p6)
- - [US-based TikTok staff say recent executive transfers from ByteDance to TikTok show ByteDance plays a greater role in TikTok&#39;s operations than publicly disclosed &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/230927/p5#a230927p5)
- - [Best Earplugs for Sleeping in 2023     - CNET](https://www.cnet.com/health/sleep/best-earplugs-and-earbuds-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Linda Yaccarino reflects on her first 100 days as X CEO, says intense public scrutiny is &quot;hard on me&quot;, as sources describe her relationship with Elon Musk &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230927/p8#a230927p8)
+ - [Study: 88% of S&amp;P 500 company boards don&#39;t have a director with direct cybersecurity experience; only seven companies have a current or former CISO on the board &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/230927/p7#a230927p7)
+ - [Idris Elba Is Ready to Talk About Crypto](https://www.wired.com/story/idris-elba-crypto-stellar-development-foundation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
