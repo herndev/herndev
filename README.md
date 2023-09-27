@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Antarctica Logs &#39;Record-Smashing&#39; Low for Sea Ice, Says NASA     - CNET](https://www.cnet.com/science/climate/antarctica-logs-record-smashing-low-for-sea-ice-says-nasa/#ftag=CAD590a51e)
- - [Eufy’s new X8 Pro robot vacuum can detangle hair automatically](https://www.theverge.com/2023/9/26/23891423/eufy-clean-x8-pro-robot-vacuum-anker)
- - [Eufy’s latest security package can track one person across multiple cameras](https://www.theverge.com/2023/9/26/23890980/eufy-security-cross-camera-tracking-ai-solocam-floodlight-doorbell)<!-- TECH:END -->
+ - [The Writers Guild of America’s strike is over](https://www.theverge.com/2023/9/26/23889334/wga-strike-end-hollywood-writers)
+ - [Hollywood’s actors are still on strike](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
+ - [Sources: Palo Alto Networks is in negotiations to acquire Dig Security for between $300M and $400M and Talon Cyber Security for between $600M and $700M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230926/p31#a230926p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
