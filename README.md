@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remnant 2 devs did no-hit runs to test their bosses &#39;if you could beat it the first time, it was too easy&#39;](https://www.pcgamer.com/remnant-2-devs-did-no-hit-runs-to-test-their-bosses-if-you-could-beat-it-the-first-time-it-was-too-easy)
- - [Once, finally and for all Intel&#39;s Meteor Lake is not coming to the desktop CPU sockets](https://www.pcgamer.com/once-finally-and-for-all-intels-meteor-lake-is-not-coming-to-the-desktop-cpu-sockets)
- - [NYT Connections hint and answers today: September 27 &lpar;#108&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-27-108)<!-- GAME:END -->
+ - [Horizon Forbidden West: Complete Edition is coming to PS5 and PC](https://blog.playstation.com/2023/09/27/horizon-forbidden-west-complete-edition-is-coming-to-ps5-and-pc/)
+ - [Use schemes, intrigue, and even civil war to master Total War: Pharaoh&#39;s Royal Court](https://www.pcgamer.com/use-schemes-intrigue-and-even-civil-war-to-master-total-war-pharaohs-royal-court)
+ - [Huzzah, the new anti-melting 12V-2x6 GPU power connector duly doesn&#39;t melt in initial testing](https://www.pcgamer.com/huzzah-the-new-anti-melting-12v-2x6-gpu-power-connector-duly-doesnt-melt-in-initial-testing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
