@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU criticizes X over levels of disinformation found on platform](https://www.theverge.com/2023/9/27/23892145/twitter-x-elon-musk-disinformation-european-union-commission-digital-services-act)
- - [Don&#39;t buy a looted iPhone, it will never work](https://appleinsider.com/articles/20/06/03/dont-buy-a-looted-iphone-it-will-never-work?utm_medium=rss)
- - [Will OpenAI build its own AI smartphone?](https://www.androidauthority.com/openai-ai-smartphone-3368822/)<!-- TECH:END -->
+ - [Bridgerton season 3 release date: Here’s what we know so far](https://www.androidauthority.com/bridgerton-season-3-release-date-3368818/)
+ - [Anker Soundcore Liberty 4 NC Review: Masterful Budget Noise-Canceling Buds](https://www.wired.com/review/anker-soundcore-liberty-4-nc/)
+ - [Yale’s new smart locks work with your fingerprint or HomeKey, but not both](https://www.theverge.com/2023/9/27/23891513/yale-assure-lock-2-touch-fingerprint-plus-homekey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
