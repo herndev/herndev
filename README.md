@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bridgerton season 3 release date: Here’s what we know so far](https://www.androidauthority.com/bridgerton-season-3-release-date-3368818/)
- - [Anker Soundcore Liberty 4 NC Review: Masterful Budget Noise-Canceling Buds](https://www.wired.com/review/anker-soundcore-liberty-4-nc/)
- - [Yale’s new smart locks work with your fingerprint or HomeKey, but not both](https://www.theverge.com/2023/9/27/23891513/yale-assure-lock-2-touch-fingerprint-plus-homekey)<!-- TECH:END -->
+ - [Sonoma puts the last nail in the coffin for PostScript on macOS](https://appleinsider.com/articles/23/09/27/sonoma-puts-the-last-nail-in-the-coffin-for-postscript-on-macos?utm_medium=rss)
+ - [Jabra’s rugged Elite 8 Active earbuds are on sale for the first time](https://www.theverge.com/2023/9/27/23891031/jabra-elite-8-active-earbuds-apple-watch-ultra-2-tcl-q7-tv-deal-sale)
+ - [Snap closes AR Enterprise Services, launched in March 2023 to let retailers adapt Snap&#39;s AR technology for their own websites, citing high costs and complexity &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230927/p16#a230927p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
