@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NYT Connections hint and answers today: September 27 &lpar;#108&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-27-108)
- - [Newegg announces a hassle-free GPU trade-in program](https://www.pcgamer.com/newegg-announces-a-hassle-free-gpu-trade-in-program)
- - [Today&#39;s Wordle hint and answer #830: Wednesday, September 27](https://www.pcgamer.com/wordle-answer-today-hint-830-september-27)<!-- GAME:END -->
+ - [Remnant 2 devs did no-hit runs to test their bosses &#39;if you could beat it the first time, it was too easy&#39;](https://www.pcgamer.com/remnant-2-devs-did-no-hit-runs-to-test-their-bosses-if-you-could-beat-it-the-first-time-it-was-too-easy)
+ - [Once, finally and for all Intel&#39;s Meteor Lake is not coming to the desktop CPU sockets](https://www.pcgamer.com/once-finally-and-for-all-intels-meteor-lake-is-not-coming-to-the-desktop-cpu-sockets)
+ - [NYT Connections hint and answers today: September 27 &lpar;#108&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-27-108)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
