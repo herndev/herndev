@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s All-Powerful ‘Buy Box’ Is at the Heart of Its New Antitrust Troubles](https://www.wired.com/story/amazons-all-powerful-buy-box-is-at-the-heart-of-its-new-antitrust-troubles/)
- - [Apple and Google want to shift how you listen to podcasts](https://www.theverge.com/2023/9/26/23891493/apple-podcasts-overhaul-ios-17-google-ends-podcasts-spotify-translation-open-ai)
- - [The Code Conference 2023](https://www.theverge.com/2023/9/26/23890396/code-conference-2023-interviews-news)<!-- TECH:END -->
+ - [Antarctica Logs &#39;Record-Smashing&#39; Low for Sea Ice, Says NASA     - CNET](https://www.cnet.com/science/climate/antarctica-logs-record-smashing-low-for-sea-ice-says-nasa/#ftag=CAD590a51e)
+ - [Eufy’s new X8 Pro robot vacuum can detangle hair automatically](https://www.theverge.com/2023/9/26/23891423/eufy-clean-x8-pro-robot-vacuum-anker)
+ - [Eufy’s latest security package can track one person across multiple cameras](https://www.theverge.com/2023/9/26/23890980/eufy-security-cross-camera-tracking-ai-solocam-floodlight-doorbell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
