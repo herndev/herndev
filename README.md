@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nathan Fielder’s new show is almost certainly lying to us](https://www.polygon.com/23892742/nathan-fielder-the-curse-trailer-showtime)
- - [Like a telecommunications policy-focused Justin Timberlake, the FCC is bringing net neutrality back](https://www.pcgamer.com/like-a-telecommunications-policy-focused-justin-timberlake-the-fcc-is-bringing-net-neutrality-back)
- - [How long is Cyberpunk 2077: Phantom Liberty?](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23892554/phantom-liberty-length-how-long-missions-jobs-gigs-list)<!-- GAME:END -->
+ - [Yes, Phantom Liberty and patch 2.0 really are Cyberpunk 2077&#39;s &#39;last big updates&#39; and it&#39;s finally time to start the sequel, director confirms](https://www.pcgamer.com/yes-phantom-liberty-and-patch-20-really-are-cyberpunk-2077s-last-big-updates-and-its-finally-time-to-start-the-sequel-director-confirms)
+ - [Starfield Superspeed Mod Lets You Fly Between Planets In Minutes](https://kotaku.com/starfield-pc-best-mods-ships-game-nexus-slower-light-1850878963)
+ - [Scavengers Reign looks like a beautiful, bizarre adventure beyond the stars](https://www.polygon.com/23798021/scavengers-reigns-announcement-trailer-animated-premiere-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
