@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cuphead’s Xbox Anniversary Update Brings a Bevy of Behind-the-Scenes Content Exclusively to Xbox Fans](https://news.xbox.com/en-us/2023/09/27/cuphead-xbox-anniversary-update-exclusive-to-xbox-fans/)
- - [Team Fortress 2 voice actors go for the Oscars with recreation of its most iconic fan skit](https://www.pcgamer.com/team-fortress-2-voice-actors-go-for-the-oscars-with-recreation-of-its-most-iconic-fan-skit)
- - [Dune will hit Netflix to fill the Dune 2 void in your heart](https://www.polygon.com/23892387/dune-2021-netflix)<!-- GAME:END -->
+ - [Bonus Xbox Update for September: A Simplified Experience to Back Up Your Game Captures to Onedrive and More](https://news.xbox.com/en-us/2023/09/27/bonus-xbox-update-for-september/)
+ - [In Gen V, superpowers are nothing if your posts aren’t good](https://www.polygon.com/23891544/gen-v-the-boys-prime-video-early-impression-review)
+ - [Starfield ‘Nerfed The Hell’ Out Of Environmental Damage During Development](https://kotaku.com/starfield-game-ships-xbox-series-pc-planets-affliction-1850877767)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
