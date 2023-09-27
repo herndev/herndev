@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t let any man to drag you.](http://9gag.com/gag/aA0Lvxd)
- - ⏩ [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 👉 [Choose wisely, or else regret it later.](http://9gag.com/gag/a9q4DQ0)<!-- MEMES:END -->
+ - 💣 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
+ - ⏩ [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
+ - 👉 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)<!-- MEMES:END -->
 
 ---
 
