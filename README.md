@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A review of 115 warrants for Google&#39;s location and search data in five US states shows investigators are increasingly using the data to solve nonviolent cases &lpar;Bloomberg&rpar;](http://www.techmeme.com/230928/p19#a230928p19)
- - [Coinbase says it has gained approval from the Bermuda Monetary Authority to offer non-US retail users perpetual futures trading &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230928/p18#a230928p18)
- - [16 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)<!-- TECH:END -->
+ - [Fitbit Charge 6: Release date, price, features, and everything you need to know](https://www.androidauthority.com/fitbit-charge-6-3220162/)
+ - [Microsoft is testing low-carbon concrete for its data centers](https://www.theverge.com/2023/9/28/23891241/microsoft-data-centers-cement-carbon-emissions-climate-change)
+ - [Glowforge Aura review: a beginner-friendly laser cutter for hobbyists](https://www.theverge.com/23864679/glowforge-aura-laser-cutter-review-entry-level-crafting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
