@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Record them!!!](http://9gag.com/gag/aBdbjyQ)
- - ⏩ [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
- - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
+ - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - ⏩ [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 
