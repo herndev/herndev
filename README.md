@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Animated TV Show You Never See](https://www.wired.com/story/young-love-hbo-precedent/)
- - [Spotify is adding auto-generated transcripts to millions of podcasts](https://www.theverge.com/2023/9/28/23894674/spotify-auto-generated-podcast-transcripts)
- - [Google adds a switch for publishers to opt out of becoming AI training data](https://www.theverge.com/2023/9/28/23894779/google-ai-extended-training-data-toggle-bard-vertex)<!-- TECH:END -->
+ - [Tesla sued for ‘severe’ racial harassment at its California factory, again](https://www.theverge.com/2023/9/28/23894848/tesla-lawsuit-severe-discrimination-harassment-eeoc)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [Save $800 on this 27-inch iMac 5K, now $1,199](https://appleinsider.com/articles/23/09/28/save-800-on-this-27-inch-imac-5k-now-1199?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
