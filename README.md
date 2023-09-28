@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - ⏩ [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
+ - 💣 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - ⏩ [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 
