@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)
- - [DJI Osmo Action 4 Review: Finally, a Worthy GoPro Competitor](https://www.wired.com/review/dji-osmo-action-4-camera/)
- - [7 Best Deals: Outdoor Apparel, Camping, and Climbing Gear](https://www.wired.com/story/midweek-deals-september-28-2023/)<!-- TECH:END -->
+ - [A review of 115 warrants for Google&#39;s location and search data in five US states shows investigators are increasingly using the data to solve nonviolent cases &lpar;Bloomberg&rpar;](http://www.techmeme.com/230928/p19#a230928p19)
+ - [Coinbase says it has gained approval from the Bermuda Monetary Authority to offer non-US retail users perpetual futures trading &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230928/p18#a230928p18)
+ - [16 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
