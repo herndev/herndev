@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone’s getting meat suits for Diablo Immortal’s new Butcher-themed battle pass](https://www.polygon.com/23894479/diablo-immortal-season-18-battle-pass-butcher)
- - [Someone Turned Starfield’s Lockpicking Into Its Own Game](https://kotaku.com/starfield-lockpicking-digipick-minigame-play-online-1850884146)
- - [Beloved Battle Royale Fall Guys Among Those Hit By Epic Games Layoffs](https://kotaku.com/fall-guys-season-5-layoffs-epic-games-fortnite-closed-1850884406)<!-- GAME:END -->
+ - [How to get all endings in Cyberpunk 2077: Phantom Liberty](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23894982/all-endings-how-to-get)
+ - [Restricted military info is being posted on the War Thunder forums so much these days, nobody really cares anymore &lpar;except War Thunder moderators&rpar;](https://www.pcgamer.com/restricted-military-info-is-being-posted-on-the-war-thunder-forums-so-much-these-days-nobody-really-cares-anymore-except-war-thunder-moderators)
+ - [Technically, a new Elder Scrolls game just launched](https://www.polygon.com/23894939/elder-scrolls-castles-bethesda-android-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
