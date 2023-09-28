@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega cancels loot shooter Hyenas, layoffs expected at Creative Assembly](https://www.polygon.com/23894019/sega-cancels-hyenas)
- - [The 10 most outrageous traps from the Saw franchise](https://www.polygon.com/23884045/saw-movies-best-traps-list)
- - [The Lamplighters League review](https://www.pcgamer.com/the-lamplighters-league-review)<!-- GAME:END -->
+ - [Welcome to Forza Motorsport: From Forza Horizon to Falling in Love With Cars](https://news.xbox.com/en-us/2023/09/28/forza-motorsport-horizon-launch/)
+ - [How to get the free Type-66 &#39;Hoon&#39; car in Cyberpunk 2077](https://www.pcgamer.com/cyberpunk-2077-ken-block-car-hoon)
+ - [6 major takeaways from Hollywood writers’ new WGA contract](https://www.polygon.com/23893273/wga-hollywood-writers-strike-tv-movie-contract-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
