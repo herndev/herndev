@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Horizon Forbidden West: Complete Edition is coming to PlayStation 5 console and PC](https://blog.playstation.com/2023/09/27/20230927-hfw/)
- - [Cyberpunk 2077&#39;s core mods have been updated to support 2.0](https://www.pcgamer.com/cyberpunk-2077s-core-mods-have-been-updated-to-support-20)
- - [MSI&#39;s green themed RTX 4060 NV Edition graphics card is perfect for showing the world just how much you love Nvidia](https://www.pcgamer.com/msis-green-themed-rtx-4060-nv-edition-graphics-card-is-perfect-for-showing-the-world-just-how-much-you-love-nvidia)<!-- GAME:END -->
+ - [Stardew Valley&#39;s 1.6 update was supposed to be for modders, but it&#39;s adding 8-player support, three festivals, over 100 lines of dialogue, and more](https://www.pcgamer.com/stardew-valleys-16-update-was-supposed-to-be-for-modders-but-its-adding-8-player-support-three-festivals-over-100-lines-of-dialogue-and-more)
+ - [Today&#39;s Wordle hint and answer #831: Thursday, September 28](https://www.pcgamer.com/wordle-answer-today-hint-831-september-28)
+ - [&lpar;For Southeast Asia&rpar; Horizon Forbidden West: Complete Edition is coming to PlayStation 5 console and PC](https://blog.playstation.com/2023/09/27/20230927-hfw/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
