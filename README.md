@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nord Security, the Lithuania-based startup behind NordVPN, raised $100M led by Warburg Pincus at a $3B valuation, up from $1.6B valuation in April 2022 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/230928/p3#a230928p3)
- - [A US Senate staffer says officials told lawmakers that Chinese hackers who breached Microsoft&#39;s email system stole 60K emails from ten State Department accounts &lpar;Reuters&rpar;](http://www.techmeme.com/230928/p2#a230928p2)
- - [Canalys: Q2 smartphone sales in North America fell 22% YoY, with Apple down 20% and Samsung down 27%; Google&#39;s sales rose 59% YoY and market share doubled to 4% &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230928/p1#a230928p1)<!-- TECH:END -->
+ - [Disney Plus password sharing restrictions are here!](https://www.androidauthority.com/disney-plus-password-sharing-restrictions-canada-3369214/)
+ - [SoundThinking, which makes the sensor-based gunshot-detection system ShotSpotter, acquires parts of Geolitica, which built the predictive policing tool PredPol &lpar;Wired&rpar;](http://www.techmeme.com/230928/p6#a230928p6)
+ - [Indian fantasy sports and online gaming startups including Dream11 receive notices from tax authorities demanding hundreds of millions of dollars in back taxes &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/230928/p5#a230928p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
