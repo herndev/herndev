@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Time to Eat, Pizza Possum Is Out Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/09/28/pizza-possum-is-out-now-on-xbox-series-xs/)
- - [Sega Cancels Hyenas And Other Unannounced Games, Creative Assembly Facing Layoffs](https://kotaku.com/sega-cancels-games-hyenas-creative-assembly-ca-uk-1850882870)
- - [The Foglands launches October 31 on PS VR2 and PS5](https://blog.playstation.com/2023/09/28/the-foglands-launches-october-31-on-ps-vr2-and-ps5/)<!-- GAME:END -->
+ - [Genshin Impact Fontaine hidden reputation world quest list](https://www.polygon.com/genshin-impact-guides/23834750/fontaine-reputation-quest-locations-hidden)
+ - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)
+ - [Xbox Insider Release Notes – Beta &lpar;2310.230924-2200&rpar;](https://news.xbox.com/en-us/2023/09/28/xbox-insider-release-notes-beta-2310-230924-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
