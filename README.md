@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [NYT Connections hint and answers today: September 28 &lpar;#109&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-28-109)
  - [Stardew Valley&#39;s 1.6 update was supposed to be for modders, but it&#39;s adding 8-player support, three festivals, over 100 lines of dialogue, and more](https://www.pcgamer.com/stardew-valleys-16-update-was-supposed-to-be-for-modders-but-its-adding-8-player-support-three-festivals-over-100-lines-of-dialogue-and-more)
- - [Today&#39;s Wordle hint and answer #831: Thursday, September 28](https://www.pcgamer.com/wordle-answer-today-hint-831-september-28)
- - [&lpar;For Southeast Asia&rpar; Horizon Forbidden West: Complete Edition is coming to PlayStation 5 console and PC](https://blog.playstation.com/2023/09/27/20230927-hfw/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #831: Thursday, September 28](https://www.pcgamer.com/wordle-answer-today-hint-831-september-28)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
