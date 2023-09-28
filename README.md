@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe makes its Photoshop on the web, including Firefly-powered features, generally available for paid plans, with no &quot;immediate plans&quot; for a freemium offering &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230927/p52#a230927p52)
  - [SpaceX receives its first contract from the US Space Force, valued up to $70M, to provide customized satellite communications for the military under Starshield &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230927/p51#a230927p51)
- - [Apple will have to face an antitrust lawsuit alleging iOS Apple Pay dominance](https://www.theverge.com/2023/9/27/23893434/apple-pay-antitrust-lawsuit-tap-to-pay-digital-wallet)
- - [Kia’s three-row EV9 electric SUV will start at $54,900](https://www.theverge.com/2023/9/27/23893352/kia-ev9-2024-starting-price-cost-announcement)<!-- TECH:END -->
+ - [Apple will have to face an antitrust lawsuit alleging iOS Apple Pay dominance](https://www.theverge.com/2023/9/27/23893434/apple-pay-antitrust-lawsuit-tap-to-pay-digital-wallet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
