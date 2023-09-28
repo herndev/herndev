@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is getting Meta’s new AI Assistant to answer your questions and more](https://www.androidauthority.com/whatsapp-meta-new-ai-assistant-3369228/)
- - [Sources: OpenAI and Jony Ive&#39;s LoveFrom are in advanced talks with Masayoshi Son to raise $1B+ from SoftBank to build the &quot;iPhone of artificial intelligence&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230928/p10#a230928p10)
- - [Google has doubled its market share for Pixel phones in the US since last year](https://www.androidauthority.com/google-pixel-us-market-share-q2-2023-3369219/)<!-- TECH:END -->
+ - [A look at the rise of online feminism in China, driven by content on apps like Weibo, Douyin, WeChat, and Douban, despite increased scrutiny from the platforms &lpar;Wanqing Zhang/Rest of World&rpar;](http://www.techmeme.com/230928/p11#a230928p11)
+ - [Videos show Galaxy S23 FE in the wild, could be a fingerprint magnet](https://www.androidauthority.com/samsung-galaxy-s23-real-world-videos-3364228/)
+ - [Details emerge on Jony Ive and OpenAI’s plan to build the ‘iPhone of artificial intelligence’](https://www.theverge.com/2023/9/28/23893939/jony-ive-openai-sam-altman-iphone-of-artificial-intelligence-device)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
