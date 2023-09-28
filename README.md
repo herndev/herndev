@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s infinite weapon glitch is your path to farming epic guns](https://www.pcgamer.com/starfields-infinite-weapon-glitch-is-your-path-to-farming-epic-guns)
- - [Jujutsu Kaisen fans love Gojo so much they built him a shrine](https://www.polygon.com/23893045/jujutsu-kaisen-gojo-shrine-manga-chapter-236)
- - [PlayStation CEO Jim Ryan stepping down in March](https://www.polygon.com/23893391/playstation-ceo-jim-ryan-retirement)<!-- GAME:END -->
+ - [Cyberpunk 2077&#39;s core mods have been updated to support 2.0](https://www.pcgamer.com/cyberpunk-2077s-core-mods-have-been-updated-to-support-20)
+ - [MSI&#39;s green themed RTX 4060 NV Edition graphics card is perfect for showing the world just how much you love Nvidia](https://www.pcgamer.com/msis-green-themed-rtx-4060-nv-edition-graphics-card-is-perfect-for-showing-the-world-just-how-much-you-love-nvidia)
+ - [Starfield&#39;s infinite weapon glitch is your path to farming epic guns](https://www.pcgamer.com/starfields-infinite-weapon-glitch-is-your-path-to-farming-epic-guns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
