@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - ⏩ [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 💣 [Someone wants to deliver a not so laughable answer?](http://9gag.com/gag/aNwGGj0)
+ - ⏩ [Just Stop Oil!](http://9gag.com/gag/aKEXy7b)
+ - 👉 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)<!-- MEMES:END -->
 
 ---
 
