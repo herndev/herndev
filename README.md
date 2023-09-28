@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dispel Magic who? A Baldur&#39;s Gate 3 player depowered a climactic necromancer boss by smuggling an anti-magic flower for dozens of hours across two whole acts](https://www.pcgamer.com/dispel-magic-who-a-baldurs-gate-3-player-depowered-a-climactic-necromancer-boss-by-smuggling-an-anti-magic-flower-for-dozens-of-hours-across-two-whole-acts)
- - [Get a treasure trove of Zelda manga for 35% off](https://www.polygon.com/deals/2023/9/28/23894544/the-legend-of-zelda-manga-deal-treasure-chest)
- - [Cyberpunk 2077 director says CD Projekt never considered walking away at any point over the last 3 years: &#39;it was all culminating in 2.0&#39;](https://www.pcgamer.com/cyberpunk-2077-director-says-cd-projekt-never-considered-walking-away-at-any-point-over-the-last-3-years-it-was-all-culminating-in-20)<!-- GAME:END -->
+ - [Everyone’s getting meat suits for Diablo Immortal’s new Butcher-themed battle pass](https://www.polygon.com/23894479/diablo-immortal-season-18-battle-pass-butcher)
+ - [Someone Turned Starfield’s Lockpicking Into Its Own Game](https://kotaku.com/starfield-lockpicking-digipick-minigame-play-online-1850884146)
+ - [Beloved Battle Royale Fall Guys Among Those Hit By Epic Games Layoffs](https://kotaku.com/fall-guys-season-5-layoffs-epic-games-fortnite-closed-1850884406)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
