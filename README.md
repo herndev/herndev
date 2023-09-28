@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re fired](http://9gag.com/gag/anz089B)
- - ⏩ [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)<!-- MEMES:END -->
+ - 💣 [Someone wants to deliver a not so laughable answer?](http://9gag.com/gag/aNwGGj0)
+ - ⏩ [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 👉 [Southern front at Zaporozhye. About twenty Russians are `playing airplane`. Wise decision. Dying for a fascist Russian regime and a psychotic midget in a bunker is the opposite of common sense.](http://9gag.com/gag/aOxnnwD)<!-- MEMES:END -->
 
 ---
 
