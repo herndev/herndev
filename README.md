@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hackers could steal your data via an unpatched GPU pixel-stealing attack. Though that &#39;could&#39; is doing some real heavy lifting](https://www.pcgamer.com/hackers-could-steal-your-data-via-an-unpatched-gpu-pixel-stealing-attack-though-that-could-is-doing-some-real-heavy-lifting)
- - [Castlevania: Nocturne Raises The Bar For Video Game Adaptations To New Heights](https://kotaku.com/castlevania-nocturne-richter-belmont-netflix-anime-1850878250)
- - [NYT Connections hint and answers today: September 28 &lpar;#109&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-28-109)<!-- GAME:END -->
+ - [Mortal Kombat 1 planning to fix bug that was unintentionally making Player 1 way stronger](https://www.pcgamer.com/mortal-kombat-1-planning-to-fix-bug-that-was-unintentionally-making-player-1-way-stronger)
+ - [Another console dad hangs up his spurs as PlayStation boss Jim Ryan announces he&#39;s retiring from Sony next year](https://www.pcgamer.com/another-console-dad-hangs-up-his-spurs-as-playstation-boss-jim-ryan-announces-hes-departing-sony-next-year)
+ - [Starfield players are finding a use for all their junk and plundered sandwiches: Rube Goldberg machines](https://www.pcgamer.com/starfield-players-are-finding-a-use-for-all-their-junk-and-plundered-sandwiches-rube-goldberg-machines)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
