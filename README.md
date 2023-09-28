@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - ⏩ [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - ⏩ [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 👉 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)<!-- MEMES:END -->
 
 ---
 
