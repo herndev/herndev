@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley’s 1.6 update will bring a surprising amount of new content](https://www.polygon.com/23894695/stardew-valleys-1-6-update-new-festival-concernedape)
- - [As PC gaming&#39;s war on cheating rages, EA explains why it&#39;s making its own anticheat: &#39;Cheat developers have increasingly moved into the kernel, so we need to have kernel-mode protections&#39;](https://www.pcgamer.com/as-pc-gamings-war-on-cheating-rages-ea-explains-why-its-making-its-own-anticheat-cheat-developers-have-increasingly-moved-into-the-kernel-so-we-need-to-have-kernel-mode-protections)
- - [Valve issues day-one warning to Counter-Strike 2 cheaters: we&#39;re coming for your accomplices, too](https://www.pcgamer.com/valve-issues-day-one-warning-to-counter-strike-2-cheaters-were-coming-for-your-accomplices-too)<!-- GAME:END -->
+ - [Dispel Magic who? A Baldur&#39;s Gate 3 player depowered a climactic necromancer boss by smuggling an anti-magic flower for dozens of hours across two whole acts](https://www.pcgamer.com/dispel-magic-who-a-baldurs-gate-3-player-depowered-a-climactic-necromancer-boss-by-smuggling-an-anti-magic-flower-for-dozens-of-hours-across-two-whole-acts)
+ - [Get a treasure trove of Zelda manga for 35% off](https://www.polygon.com/deals/2023/9/28/23894544/the-legend-of-zelda-manga-deal-treasure-chest)
+ - [Cyberpunk 2077 director says CD Projekt never considered walking away at any point over the last 3 years: &#39;it was all culminating in 2.0&#39;](https://www.pcgamer.com/cyberpunk-2077-director-says-cd-projekt-never-considered-walking-away-at-any-point-over-the-last-3-years-it-was-all-culminating-in-20)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
