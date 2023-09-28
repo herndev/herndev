@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pick up a Mac mini with 16GB RAM, 1TB SSD for $999](https://appleinsider.com/articles/23/09/27/pick-up-a-mac-mini-with-16gb-ram-1tb-ssd-for-999?utm_medium=rss)
- - [Mac Studio with M2 Max and M2 Ultra now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/23/09/27/mac-studio-with-m2-max-and-m2-ultra-now-available-on-apples-refurbished-store?utm_medium=rss)
- - [Pokémon are coming to the Van Gogh Museum to teach the world about art](https://www.theverge.com/23893271/pokemon-x-van-gogh-museum)<!-- TECH:END -->
+ - [The US DoD awards Palantir a three-year $250M R&amp;D contract for AI services, building on the work the company does since at least 2018 for the Army Research Lab &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230927/p49#a230927p49)
+ - [Adobe’s full Photoshop on the web launch includes its popular desktop AI tools](https://www.theverge.com/2023/9/27/23892889/adobe-photoshop-for-the-web-firefly-ai-generative-fill-full-release-price-date)
+ - [Pick up a Mac mini with 16GB RAM, 1TB SSD for $999](https://appleinsider.com/articles/23/09/27/pick-up-a-mac-mini-with-16gb-ram-1tb-ssd-for-999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
