@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves: The Legend of Monkey Island Concludes in ‘The Lair of LeChuck’](https://news.xbox.com/en-us/2023/09/28/sea-of-thieves-monkey-island-3-the-lair-of-lechuck/)
- - [Epic Games Cutting 870 Jobs, 16 Percent Of Its Workforce](https://kotaku.com/epic-games-store-fortnite-unreal-engine-layoffs-1850882501)
- - [Spy x Family season 2 finally has a Crunchyroll release date](https://www.polygon.com/23894238/spy-x-family-season-2-release-date-crunchyroll)<!-- GAME:END -->
+ - [It’s Time to Eat, Pizza Possum Is Out Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/09/28/pizza-possum-is-out-now-on-xbox-series-xs/)
+ - [Sega Cancels Hyenas And Other Unannounced Games, Creative Assembly Facing Layoffs](https://kotaku.com/sega-cancels-games-hyenas-creative-assembly-ca-uk-1850882870)
+ - [The Foglands launches October 31 on PS VR2 and PS5](https://blog.playstation.com/2023/09/28/the-foglands-launches-october-31-on-ps-vr2-and-ps5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
