@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - ⏩ [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
- - 👉 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)<!-- MEMES:END -->
+ - 💣 [Dude fell for the oldest trick in poker and called security](http://9gag.com/gag/amAOyp4)
+ - ⏩ [Get him](http://9gag.com/gag/ap9nj4n)
+ - 👉 [Misses of the world](http://9gag.com/gag/ap9nn1W)<!-- MEMES:END -->
 
 ---
 
