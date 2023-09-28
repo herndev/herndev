@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barnes and Noble Nook Glowlight 4 Plus Review: Waterproof E-Reader With Buttons](https://www.wired.com/review/nook-glowlight-4-plus/)
- - [ChatGPT restrictions: How to bypass them for an uncensored chatbot](https://www.androidauthority.com/bypass-chatgpt-restrictions-3368272/)
- - [How to use spring-loaded folders in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-spring-loaded-folders-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [16 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)
+ - [DJI Osmo Action 4 Review: Finally, a Worthy GoPro Competitor](https://www.wired.com/review/dji-osmo-action-4-camera/)
+ - [7 Best Deals: Outdoor Apparel, Camping, and Climbing Gear](https://www.wired.com/story/midweek-deals-september-28-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
