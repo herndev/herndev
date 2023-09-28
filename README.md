@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat 1 planning to fix bug that was unintentionally making Player 1 way stronger](https://www.pcgamer.com/mortal-kombat-1-planning-to-fix-bug-that-was-unintentionally-making-player-1-way-stronger)
- - [Another console dad hangs up his spurs as PlayStation boss Jim Ryan announces he&#39;s retiring from Sony next year](https://www.pcgamer.com/another-console-dad-hangs-up-his-spurs-as-playstation-boss-jim-ryan-announces-hes-departing-sony-next-year)
- - [Starfield players are finding a use for all their junk and plundered sandwiches: Rube Goldberg machines](https://www.pcgamer.com/starfield-players-are-finding-a-use-for-all-their-junk-and-plundered-sandwiches-rube-goldberg-machines)<!-- GAME:END -->
+ - [A Snoop Dogg AI named &#39;The Dungeon Master&#39; joins Meta&#39;s new fleet of bots, which you can &#39;invoke&#39; in your group chats at-will](https://www.pcgamer.com/a-snoop-dogg-ai-named-the-dungeon-master-joins-metas-new-fleet-of-bots-which-you-can-invoke-in-your-group-chats-at-will)
+ - [How to use the Chimera Core in Cyberpunk 2077: Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-chimera-core-choice)
+ - [Mortal Kombat 1 planning to fix bug that was unintentionally making Player 1 way stronger](https://www.pcgamer.com/mortal-kombat-1-planning-to-fix-bug-that-was-unintentionally-making-player-1-way-stronger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
