@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameStop names Ryan Cohen as CEO effective immediately and says he won&#39;t receive compensation for his work as CEO, president, and executive chairman &lpar;Mike Calia/CNBC&rpar;](http://www.techmeme.com/230928/p13#a230928p13)
- - [iPhone 15 durability tested: Does Aluminum fare better than Titanium?](https://www.androidauthority.com/iphone-15-durability-tests-3369277/)
- - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)<!-- TECH:END -->
+ - [Barnes and Noble Nook Glowlight 4 Plus Review: Waterproof E-Reader With Buttons](https://www.wired.com/review/nook-glowlight-4-plus/)
+ - [ChatGPT restrictions: How to bypass them for an uncensored chatbot](https://www.androidauthority.com/bypass-chatgpt-restrictions-3368272/)
+ - [How to use spring-loaded folders in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-spring-loaded-folders-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
