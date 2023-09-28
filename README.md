@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Fontaine hidden reputation world quest list](https://www.polygon.com/genshin-impact-guides/23834750/fontaine-reputation-quest-locations-hidden)
- - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)
- - [Xbox Insider Release Notes – Beta &lpar;2310.230924-2200&rpar;](https://news.xbox.com/en-us/2023/09/28/xbox-insider-release-notes-beta-2310-230924-2200/)<!-- GAME:END -->
+ - [Stardew Valley’s 1.6 update will bring a surprising amount of new content](https://www.polygon.com/23894695/stardew-valleys-1-6-update-new-festival-concernedape)
+ - [As PC gaming&#39;s war on cheating rages, EA explains why it&#39;s making its own anticheat: &#39;Cheat developers have increasingly moved into the kernel, so we need to have kernel-mode protections&#39;](https://www.pcgamer.com/as-pc-gamings-war-on-cheating-rages-ea-explains-why-its-making-its-own-anticheat-cheat-developers-have-increasingly-moved-into-the-kernel-so-we-need-to-have-kernel-mode-protections)
+ - [Valve issues day-one warning to Counter-Strike 2 cheaters: we&#39;re coming for your accomplices, too](https://www.pcgamer.com/valve-issues-day-one-warning-to-counter-strike-2-cheaters-were-coming-for-your-accomplices-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
