@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone wants to deliver a not so laughable answer?](http://9gag.com/gag/aNwGGj0)
- - ⏩ [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 👉 [Southern front at Zaporozhye. About twenty Russians are `playing airplane`. Wise decision. Dying for a fascist Russian regime and a psychotic midget in a bunker is the opposite of common sense.](http://9gag.com/gag/aOxnnwD)<!-- MEMES:END -->
+ - 💣 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
+ - ⏩ [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
+ - 👉 [Misses of the world](http://9gag.com/gag/ap9nn1W)<!-- MEMES:END -->
 
 ---
 
