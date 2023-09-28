@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
- - ⏩ [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 👉 [Huehuehue](http://9gag.com/gag/a04Dzbn)<!-- MEMES:END -->
+ - 💣 [Record them!!!](http://9gag.com/gag/aBdbjyQ)
+ - ⏩ [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
 
 ---
 
