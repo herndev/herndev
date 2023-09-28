@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get him](http://9gag.com/gag/ap9nj4n)
- - ⏩ [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 👉 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)<!-- MEMES:END -->
+ - 💣 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - ⏩ [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
 
 ---
 
