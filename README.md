@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - ⏩ [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - ⏩ [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
 
 ---
 
