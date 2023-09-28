@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IYK, which lets brands, musicians, and creators build &quot;digi-physical experiences&quot;, including through NFTs, raised a $16.8M seed led by A16z Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230928/p30#a230928p30)
- - [Nerf Launches Its Own Sport Using Hit-Detection Gear and Lots of Blasters     - CNET](https://www.cnet.com/tech/computing/nerf-launches-its-own-sport-using-hit-detection-gear-and-lots-of-blasters/#ftag=CAD590a51e)
- - [Music licensing marketplace Songtradr acquires Bandcamp and says it will keep running Bandcamp as a marketplace and community with an artist-first revenue share &lpar;Songtradr&rpar;](http://www.techmeme.com/230928/p29#a230928p29)<!-- TECH:END -->
+ - [Google rolls out ChromeOS 117 with a Material You redesign, adaptive charging, new camera and microphone privacy controls, enhanced clipboard, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230928/p32#a230928p32)
+ - [Sega cancels live-service shooter Hyenas](https://www.theverge.com/2023/9/28/23894156/sega-cancels-hyenas-creative-assembly-layoffs)
+ - [Lowest price ever: Apple&#39;s 16-inch MacBook Pro with 32GB RAM plunges to $1,775](https://appleinsider.com/articles/23/09/28/lowest-price-ever-apples-16-inch-macbook-pro-with-32gb-ram-plunges-to-1775?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
