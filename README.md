@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The more you know...](http://9gag.com/gag/abvLdGO)
- - ⏩ [I wonder why?](http://9gag.com/gag/aeQqPym)
- - 👉 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)<!-- MEMES:END -->
+ - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
+ - ⏩ [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 
