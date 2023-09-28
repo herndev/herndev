@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of online feminism in China, driven by content on apps like Weibo, Douyin, WeChat, and Douban, despite increased scrutiny from the platforms &lpar;Wanqing Zhang/Rest of World&rpar;](http://www.techmeme.com/230928/p11#a230928p11)
- - [Videos show Galaxy S23 FE in the wild, could be a fingerprint magnet](https://www.androidauthority.com/samsung-galaxy-s23-real-world-videos-3364228/)
- - [Details emerge on Jony Ive and OpenAI’s plan to build the ‘iPhone of artificial intelligence’](https://www.theverge.com/2023/9/28/23893939/jony-ive-openai-sam-altman-iphone-of-artificial-intelligence-device)<!-- TECH:END -->
+ - [GameStop names Ryan Cohen as CEO effective immediately and says he won&#39;t receive compensation for his work as CEO, president, and executive chairman &lpar;Mike Calia/CNBC&rpar;](http://www.techmeme.com/230928/p13#a230928p13)
+ - [iPhone 15 durability tested: Does Aluminum fare better than Titanium?](https://www.androidauthority.com/iphone-15-durability-tests-3369277/)
+ - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
