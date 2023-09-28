@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - ⏩ [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 👉 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)<!-- MEMES:END -->
+ - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - ⏩ [Record them!!!](http://9gag.com/gag/aBdbjyQ)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 
