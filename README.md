@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hackers could steal your data via an unpatched GPU pixel-stealing attack. Though that &#39;could&#39; is doing some real heavy lifting](https://www.pcgamer.com/hackers-could-steal-your-data-via-an-unpatched-gpu-pixel-stealing-attack-though-that-could-is-doing-some-real-heavy-lifting)
  - [Castlevania: Nocturne Raises The Bar For Video Game Adaptations To New Heights](https://kotaku.com/castlevania-nocturne-richter-belmont-netflix-anime-1850878250)
- - [NYT Connections hint and answers today: September 28 &lpar;#109&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-28-109)
- - [Stardew Valley&#39;s 1.6 update was supposed to be for modders, but it&#39;s adding 8-player support, three festivals, over 100 lines of dialogue, and more](https://www.pcgamer.com/stardew-valleys-16-update-was-supposed-to-be-for-modders-but-its-adding-8-player-support-three-festivals-over-100-lines-of-dialogue-and-more)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 28 &lpar;#109&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-28-109)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
