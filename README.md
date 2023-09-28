@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - ⏩ [Get him](http://9gag.com/gag/ap9nj4n)
- - 👉 [I hit that](http://9gag.com/gag/awZ9Pd4)<!-- MEMES:END -->
+ - 💣 [You&#39;re fired](http://9gag.com/gag/anz089B)
+ - ⏩ [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 👉 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)<!-- MEMES:END -->
 
 ---
 
