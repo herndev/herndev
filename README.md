@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Snoop Dogg AI named &#39;The Dungeon Master&#39; joins Meta&#39;s new fleet of bots, which you can &#39;invoke&#39; in your group chats at-will](https://www.pcgamer.com/a-snoop-dogg-ai-named-the-dungeon-master-joins-metas-new-fleet-of-bots-which-you-can-invoke-in-your-group-chats-at-will)
- - [How to use the Chimera Core in Cyberpunk 2077: Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-chimera-core-choice)
- - [Mortal Kombat 1 planning to fix bug that was unintentionally making Player 1 way stronger](https://www.pcgamer.com/mortal-kombat-1-planning-to-fix-bug-that-was-unintentionally-making-player-1-way-stronger)<!-- GAME:END -->
+ - [Sega cancels loot shooter Hyenas, layoffs expected at Creative Assembly](https://www.polygon.com/23894019/sega-cancels-hyenas)
+ - [The 10 most outrageous traps from the Saw franchise](https://www.polygon.com/23884045/saw-movies-best-traps-list)
+ - [The Lamplighters League review](https://www.pcgamer.com/the-lamplighters-league-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
