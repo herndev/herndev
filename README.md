@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
- - ⏩ [Desert Santa.](http://9gag.com/gag/a04DW6v)
- - 👉 [Greatest manager ever](http://9gag.com/gag/abvLKDB)<!-- MEMES:END -->
+ - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
+ - ⏩ [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
+ - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
 
 ---
 
