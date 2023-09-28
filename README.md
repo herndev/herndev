@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude fell for the oldest trick in poker and called security](http://9gag.com/gag/amAOyp4)
- - ⏩ [Get him](http://9gag.com/gag/ap9nj4n)
- - 👉 [Misses of the world](http://9gag.com/gag/ap9nn1W)<!-- MEMES:END -->
+ - 💣 [Make cash now](http://9gag.com/gag/aVb98DM)
+ - ⏩ [Typical Liberal](http://9gag.com/gag/aNwGGx6)
+ - 👉 [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)<!-- MEMES:END -->
 
 ---
 
