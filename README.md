@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - ⏩ [Record them!!!](http://9gag.com/gag/aBdbjyQ)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 💣 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
+ - ⏩ [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
+ - 👉 [DO NOT REDEEM THE CARD](http://9gag.com/gag/aRE8DpQ)<!-- MEMES:END -->
 
 ---
 
