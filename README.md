@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - ⏩ [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
- - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
+ - 💣 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
+ - ⏩ [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 👉 [Misses of the world](http://9gag.com/gag/ap9nn1W)<!-- MEMES:END -->
 
 ---
 
