@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Nerfball’ introduces Nerf’s smartest foam yet — it detects dart impacts](https://www.theverge.com/2023/9/28/23893892/nerf-nerfball-foam-hit-detection-xo-nano-sport)
- - [Epic Games cuts around 830 jobs](https://www.theverge.com/2023/9/28/23894266/epic-games-layoffs-fortnite-unreal-engine)
- - [Google patches a zero-day in Chrome that was exploited by a commercial spyware vendor, just two days after it was reported by Google&#39;s Threat Analysis Group &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230928/p25#a230928p25)<!-- TECH:END -->
+ - [IYK, which lets brands, musicians, and creators build &quot;digi-physical experiences&quot;, including through NFTs, raised a $16.8M seed led by A16z Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230928/p30#a230928p30)
+ - [Nerf Launches Its Own Sport Using Hit-Detection Gear and Lots of Blasters     - CNET](https://www.cnet.com/tech/computing/nerf-launches-its-own-sport-using-hit-detection-gear-and-lots-of-blasters/#ftag=CAD590a51e)
+ - [Music licensing marketplace Songtradr acquires Bandcamp and says it will keep running Bandcamp as a marketplace and community with an artist-first revenue share &lpar;Songtradr&rpar;](http://www.techmeme.com/230928/p29#a230928p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
