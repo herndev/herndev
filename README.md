@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Forza Motorsport: From Forza Horizon to Falling in Love With Cars](https://news.xbox.com/en-us/2023/09/28/forza-motorsport-horizon-launch/)
- - [How to get the free Type-66 &#39;Hoon&#39; car in Cyberpunk 2077](https://www.pcgamer.com/cyberpunk-2077-ken-block-car-hoon)
- - [6 major takeaways from Hollywood writers’ new WGA contract](https://www.polygon.com/23893273/wga-hollywood-writers-strike-tv-movie-contract-explained)<!-- GAME:END -->
+ - [Free Play Days – Riders Republic, Shredders, and Ed-0: Zombie Uprising](https://news.xbox.com/en-us/2023/09/28/free-play-days-riders-republic-shredders-and-ed-0-zombie-uprising/)
+ - [Nickelodeon All-Star Brawl 2 has an Angry Beavers problem](https://www.polygon.com/23894189/nickelodeon-all-star-brawl-2-angry-beavers-reveal)
+ - [Scalpers Are Ruining A Pokémon Art Exhibit](https://kotaku.com/pokemon-van-gogh-museum-scalpers-pikachu-card-1850882131)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
