@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get all endings in Cyberpunk 2077: Phantom Liberty](https://www.polygon.com/cyberpunk-2077-guide-walkthrough/23894982/all-endings-how-to-get)
- - [Restricted military info is being posted on the War Thunder forums so much these days, nobody really cares anymore &lpar;except War Thunder moderators&rpar;](https://www.pcgamer.com/restricted-military-info-is-being-posted-on-the-war-thunder-forums-so-much-these-days-nobody-really-cares-anymore-except-war-thunder-moderators)
- - [Technically, a new Elder Scrolls game just launched](https://www.polygon.com/23894939/elder-scrolls-castles-bethesda-android-release-date)<!-- GAME:END -->
+ - [Want to try a new playstyle in Cyberpunk 2077: Phantom Liberty? Here&#39;s the director&#39;s &#39;warlock netrunner&#39; build](https://www.pcgamer.com/want-to-try-a-new-playstyle-in-cyberpunk-2077-phantom-liberty-heres-the-directors-warlock-netrunner-build)
+ - [Bethesda just released a new Elder Scrolls mobile game that&#39;s basically Fallout Shelter meets Skyrim](https://www.pcgamer.com/bethesda-just-released-a-new-elder-scrolls-mobile-game-inspired-by-fallout-shelter-called-the-elder-scrolls-castles)
+ - [Cyberpunk 2077 player finds a Witcher 3 easter egg by calling a phone number scrawled on a dingy sticky note](https://www.pcgamer.com/cyberpunk-2077-player-finds-a-witcher-3-easter-egg-by-calling-a-phone-number-scrawled-on-a-dingy-sticky-note)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
