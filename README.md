@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
- - ⏩ [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
- - 👉 [Misses of the world](http://9gag.com/gag/ap9nn1W)<!-- MEMES:END -->
+ - 💣 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
+ - ⏩ [Desert Santa.](http://9gag.com/gag/a04DW6v)
+ - 👉 [Greatest manager ever](http://9gag.com/gag/abvLKDB)<!-- MEMES:END -->
 
 ---
 
