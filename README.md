@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shanghai-based AI chipmaker Enflame raised a ~$273.7M Series D from state capital operator Shanghai International Group&#39;s funds, Tencent, Meitu, and others &lpar;DealStreetAsia&rpar;](http://www.techmeme.com/230928/p37#a230928p37)
- - [Nvidia offices raided by French competition authority](https://www.theverge.com/2023/9/28/23894863/nvidia-offices-raided-french-competition-authority)
- - [The best new streaming shows this week on Netflix, Paramount, Hulu, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)<!-- TECH:END -->
+ - [The 2024 Honda Prologue EV will have 300 miles of range](https://www.theverge.com/2023/9/28/23894748/2024-honda-prologue-ev-range-battery-evgo-charging-credit)
+ - [Microsoft reportedly pitched Apple on buying Bing to no avail](https://www.theverge.com/2023/9/28/23895055/microsoft-apple-bing-sale-rumor-google-default)
+ - [Microsoft entered negotiations to sell Bing to Apple in 2020](https://appleinsider.com/articles/23/09/28/microsoft-entered-negotiations-to-sell-bing-to-apple-in-2020?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
