@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Riders Republic, Shredders, and Ed-0: Zombie Uprising](https://news.xbox.com/en-us/2023/09/28/free-play-days-riders-republic-shredders-and-ed-0-zombie-uprising/)
- - [Nickelodeon All-Star Brawl 2 has an Angry Beavers problem](https://www.polygon.com/23894189/nickelodeon-all-star-brawl-2-angry-beavers-reveal)
- - [Scalpers Are Ruining A Pokémon Art Exhibit](https://kotaku.com/pokemon-van-gogh-museum-scalpers-pikachu-card-1850882131)<!-- GAME:END -->
+ - [Sea of Thieves: The Legend of Monkey Island Concludes in ‘The Lair of LeChuck’](https://news.xbox.com/en-us/2023/09/28/sea-of-thieves-monkey-island-3-the-lair-of-lechuck/)
+ - [Epic Games Cutting 870 Jobs, 16 Percent Of Its Workforce](https://kotaku.com/epic-games-store-fortnite-unreal-engine-layoffs-1850882501)
+ - [Spy x Family season 2 finally has a Crunchyroll release date](https://www.polygon.com/23894238/spy-x-family-season-2-release-date-crunchyroll)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
