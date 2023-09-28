@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out ChromeOS 117 with a Material You redesign, adaptive charging, new camera and microphone privacy controls, enhanced clipboard, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230928/p32#a230928p32)
- - [Sega cancels live-service shooter Hyenas](https://www.theverge.com/2023/9/28/23894156/sega-cancels-hyenas-creative-assembly-layoffs)
- - [Lowest price ever: Apple&#39;s 16-inch MacBook Pro with 32GB RAM plunges to $1,775](https://appleinsider.com/articles/23/09/28/lowest-price-ever-apples-16-inch-macbook-pro-with-32gb-ram-plunges-to-1775?utm_medium=rss)<!-- TECH:END -->
+ - [Google plans to wind down its collaborative Jamboard app starting October 2024 and end support for its $5K, 55&quot; Jamboard meeting room display on September 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230928/p34#a230928p34)
+ - [Five ways the Meta Quest 3 will &lpar;let developers&rpar; change the game](https://www.theverge.com/23893454/meta-quest-3-game-graphics-features-hands-avatar)
+ - [A New York state judge rejects a bid by Uber, DoorDash, and Grubhub to block NYC&#39;s law setting a minimum pay of $17.96/hour for app-based delivery workers &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/230928/p33#a230928p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
