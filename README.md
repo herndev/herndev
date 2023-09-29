@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max review, iOS 17.1 beta, macOS Sonoma details on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/29/iphone-15-pro-max-review-ios-171-beta-macos-sonoma-details-on-the-appleinsider-podcast?utm_medium=rss)
- - [Discord is down, and affected users are seeing a “blocked” message](https://www.androidauthority.com/discord-is-down-3369789/)
- - [5 Reasons to Use a VPN     - CNET](https://www.cnet.com/tech/services-and-software/5-reasons-to-use-a-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Best Bike Locks &lpar;2023&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)
+ - [Hey Zuck, Get Those Robots out of My Social Feed](https://www.wired.com/story/plaintext-zuckerberg-robots-social-feed/)
+ - [Netflix Just Shipped Its Last DVD. The Algorithms Won](https://www.wired.com/story/netflix-last-dvd-algorithms-won/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
