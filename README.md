@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
- - ⏩ [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
- - 👉 [Gym assistant](http://9gag.com/gag/axoeejb)<!-- MEMES:END -->
+ - 💣 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
+ - ⏩ [Gym assistant](http://9gag.com/gag/axoeejb)
+ - 👉 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)<!-- MEMES:END -->
 
 ---
 
