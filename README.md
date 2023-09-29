@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD FSR 3 and frame generation support is debuting in two games this week](https://www.pcgamer.com/amd-fsr-3-and-frame-generation-support-is-debuting-in-two-games-this-week)
  - [NYT Connections hint and answers today: September 29 &lpar;#110&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-29-110)
- - [Today&#39;s Wordle hint and answer #832: Friday, September 29](https://www.pcgamer.com/wordle-answer-today-hint-832-september-29)
- - [Sony Deletes Mentions Of Troubled Star Wars: KotOR PS5 Remake, Hides Trailer](https://kotaku.com/star-wars-knights-republic-kotor-remake-ps5-canceled-1850885369)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #832: Friday, September 29](https://www.pcgamer.com/wordle-answer-today-hint-832-september-29)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
