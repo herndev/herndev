@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Famous movie star seen using a OnePlus Open](https://www.androidauthority.com/oneplus-open-anushka-sharma-3369988/)
- - [Letterboxd has been acquired — and promises ‘very little’ will change](https://www.theverge.com/2023/9/29/23896052/letterboxd-movie-app-acquired-tiny-holding-company-deal)
- - [MakerDAO has passed a proposal that will allow it to invest up to $6B in short-term US Treasuries, double the current limit; MKR token is up almost 3x in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230929/p14#a230929p14)<!-- TECH:END -->
+ - [October’s video game release calendar is a little too stacked](https://www.theverge.com/2023/9/29/23896119/october-2023-video-games-release-date)
+ - [Sources: Jasper, which offers AI writing tools for marketers, has cut its $140M 2023 ARR projections by 30%+ and slashed internal valuation by 20% from $1.5B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230929/p15#a230929p15)
+ - [‘There’s no tracing Xbox 360 chat,’ claimed guy now charged with insider trading](https://www.theverge.com/2023/9/29/23896150/xbox-360-chat-insider-trading-anthony-viggiano-christopher-salamone-stephen-forlano)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
