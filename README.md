@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the UK is pushing Google, OpenAI, and Anthropic for unprecedented access to examine the internal workings of their LLMs, ahead of its global AI summit &lpar;Financial Times&rpar;](http://www.techmeme.com/230929/p1#a230929p1)
- - [The Ryder Cup 2023: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-ryder-cup-2023-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)
- - [Meta&#39;s Quest 3 is scheduled to get upper body tracking and AI estimated legs, called Generative Legs, in a software update in December &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230928/p42#a230928p42)<!-- TECH:END -->
+ - [Progress Software, the company behind the widely exploited MOVEit file transfer tool, patches critical vulnerabilities in its WS_FTP Server file transfer tool &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230929/p2#a230929p2)
+ - [It’s only September but we’ve already got our first look at the Galaxy S24](https://www.androidauthority.com/samsung-galaxy-s24-leaked-renders-3368259/)
+ - [An abandoned Apple-Microsoft deal is now making trouble for Google](https://www.androidauthority.com/microsoft-bing-apple-google-search-deal-3369622/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
