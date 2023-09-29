@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gag community living in horny mode](http://9gag.com/gag/aA0L71g)
- - ⏩ [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 👉 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)<!-- MEMES:END -->
+ - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
+ - ⏩ [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
+ - 👉 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)<!-- MEMES:END -->
 
 ---
 
