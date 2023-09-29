@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - ⏩ [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
+ - 💣 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
+ - ⏩ [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
  - 👉 [Gym assistant](http://9gag.com/gag/axoeejb)<!-- MEMES:END -->
 
 ---
