@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - ⏩ [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
+ - ⏩ [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
+ - 👉 [Gym assistant](http://9gag.com/gag/axoeejb)<!-- MEMES:END -->
 
 ---
 
