@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Bike Locks &lpar;2023&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)
- - [Hey Zuck, Get Those Robots out of My Social Feed](https://www.wired.com/story/plaintext-zuckerberg-robots-social-feed/)
- - [Netflix Just Shipped Its Last DVD. The Algorithms Won](https://www.wired.com/story/netflix-last-dvd-algorithms-won/)<!-- TECH:END -->
+ - [Uber, DoorDash, and Grubhub lose bid to block NYC’s new wage rules for delivery workers](https://www.theverge.com/2023/9/29/23895637/uber-doordash-grubhub-nyc-delivery-worker-minimum-wage-ruling)
+ - [The synthetic social network is coming](https://www.theverge.com/2023/9/29/23895675/ai-bot-social-network-openai-meta-chatbots)
+ - [Samsung Galaxy S24 Ultra renders leak: Are flat displays back in fashion?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-render-leak-3369812/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
