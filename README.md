@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 2 to 6](https://news.xbox.com/en-us/2023/09/29/next-week-on-xbox-new-games-for-october-2-to-6/)
- - [Crunchyroll’s Latest Fantasy Anime Will Make You Call A Friend Just To Catch Up](https://kotaku.com/crunchyroll-fantasy-anime-frieren-review-madhouse-1850884841)
- - [Disney Plus is starting its own password-sharing crackdown](https://www.polygon.com/23895687/disney-plus-price-fees-increase-password-sharing-crackdown)<!-- GAME:END -->
+ - [Work Together With Fellow Adventurers in The Elder Scrolls Online to Unlock Rewards During New Event](https://www.elderscrollsonline.com/en-us/secretsofthetelvanni#new_tab)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
+ - [Baldur&#39;s Gate 3 dataminer discovers the most gut-punching ways to upset your companions, if you&#39;re into that sort of thing](https://www.pcgamer.com/baldurs-gate-3-dataminer-discovers-the-most-gut-punching-ways-to-upset-your-companions-if-youre-into-that-sort-of-thing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
