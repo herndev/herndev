@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 💣 [Her social media was found by law enforcement and they know who she is. He is pressing charges. Shit\u2019s about to get real\u2026](http://9gag.com/gag/avQBqjn)
  - ⏩ [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 👉 [Shooting in Dutch prestigious university hospital and home. Special police forces were able to catch him right outside the hospital. 3 dead. Husband, wife and daughter.](http://9gag.com/gag/adPWMZ9)<!-- MEMES:END -->
+ - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
 
 ---
 
