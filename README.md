@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an interview using Meta&#39;s photorealistic Codec Avatars, Mark Zuckerberg talks about the metaverse, Quest 3, the nature of reality, AI, and humanity&#39;s future &lpar;Lex Fridman/Lex Fridman Podcast&rpar;](http://www.techmeme.com/230928/p39#a230928p39)
- - [I Guess We’re All Talking to Our Glasses Now](https://www.wired.com/story/gadget-lab-podcast-614/)
- - [The 2024 Honda Prologue EV will have 300 miles of range](https://www.theverge.com/2023/9/28/23894748/2024-honda-prologue-ev-range-battery-evgo-charging-credit)<!-- TECH:END -->
+ - [The Cyberspace Administration of China unveils rules to relax some cross-border data controls, in a bid to reassure businesses worried about US-China relations &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230928/p40#a230928p40)
+ - [Watch Linda Yaccarino’s wild interview at the Code Conference](https://www.theverge.com/2023/9/28/23895150/linda-yaccarino-code-conference-2023-x-twitter)
+ - [In an interview using Meta&#39;s photorealistic Codec Avatars, Mark Zuckerberg talks about the metaverse, Quest 3, the nature of reality, AI, and humanity&#39;s future &lpar;Lex Fridman/Lex Fridman Podcast&rpar;](http://www.techmeme.com/230928/p39#a230928p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
