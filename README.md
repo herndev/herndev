@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 💣 [&#39;Mildly&#39; drunk, busy on phone. Throws bag on the throttle.](http://9gag.com/gag/aVb9rxK)
  - ⏩ [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
+ - 👉 [Shooting in Dutch prestigious university hospital and home. Special police forces were able to catch him right outside the hospital. 3 dead. Husband, wife and daughter.](http://9gag.com/gag/adPWMZ9)<!-- MEMES:END -->
 
 ---
 
