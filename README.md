@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 director says studio&#39;s switch from REDengine to Unreal Engine 5 &#39;isn&#39;t starting from scratch&#39;](https://www.pcgamer.com/cyberpunk-2077-director-says-studios-switch-from-redengine-to-unreal-engine-5-isnt-starting-from-scratch)
- - [Fortnite Brings Back &#39;Share The Wealth&#39; Emote On Same Day As Mass Layoffs](https://kotaku.com/fortnite-epic-layoffs-share-wealth-emote-tim-sweeney-1850887934)
- - [The best thing about the Saw movies is still their sprawling continuity](https://www.polygon.com/movies/22434679/saw-movies-franchise-explainer-jigsaw-backstory)<!-- GAME:END -->
+ - [Doom&#39;s Iconic Super Shotty Looks Right At Home In Call Of Duty](https://kotaku.com/call-of-duty-doom-tracer-pack-shotgun-chainsaw-warzone-1850888137)
+ - [Citizen Journalist Elon Musk Livestreams Mexican Border In Dead Space T-shirt](https://kotaku.com/elon-musk-border-diablo-iv-texas-ben-shapiro-1850888253)
+ - [You’ll never play every part of Baldur’s Gate 3 — that’s where TikTok comes in](https://www.polygon.com/23894715/baldurs-gate-3-tiktok-youtube-shorts-memes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
