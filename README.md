@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Apple uses microscopic QR codes on iPhone screens to track defects, which helped reduce faulty screen report rates from its suppliers from 30% to 10% &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/230929/p10#a230929p10)
- - [This Pixel Watch 2 leak shows features adopted from Fitbit](https://www.theverge.com/2023/9/29/23895764/google-pixel-watch-2-leak-fitbit-body-responses)
- - [Omnicase 2 Pro USB-C Hub review: Compact and competent data and charging](https://appleinsider.com/articles/23/09/29/omnicase-2-pro-usb-c-hub-review-compact-and-competent-data-and-charging?utm_medium=rss)<!-- TECH:END -->
+ - [The founders of Letterboxd sell a majority stake to Canadian company Tiny; source: the deal values the film-focused social network with 10M users at $50M+ &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/230929/p12#a230929p12)
+ - [End of an Era: Netflix announces it shipped its last DVD today](https://www.androidauthority.com/netflix-ships-final-dvd-3369933/)
+ - [Flash deal: get Apple&#39;s M2 MacBook Air 13-inch with 16GB RAM for just $1,099](https://appleinsider.com/articles/23/09/29/flash-deal-get-apples-m2-macbook-air-13-inch-with-16gb-ram-for-just-1099?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
