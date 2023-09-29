@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - ⏩ [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
- - 👉 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)<!-- MEMES:END -->
+ - 💣 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
+ - ⏩ [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - 👉 [Gym assistant](http://9gag.com/gag/axoeejb)<!-- MEMES:END -->
 
 ---
 
