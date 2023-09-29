@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - ⏩ [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
+ - 💣 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - ⏩ [Lmao](http://9gag.com/gag/a3ZzgW5)
  - 👉 [Gym assistant](http://9gag.com/gag/axoeejb)<!-- MEMES:END -->
 
 ---
