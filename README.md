@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony Deletes Mentions Of Troubled Star Wars: KotOR PS5 Remake, Hides Trailer](https://kotaku.com/star-wars-knights-republic-kotor-remake-ps5-canceled-1850885369)
  - [Thanks to a bug, players have found a &#39;realm of naked men&#39; in Baldur&#39;s Gate 3](https://www.pcgamer.com/thanks-to-a-bug-players-have-found-a-realm-of-naked-men-in-baldurs-gate-3)
- - [12 years since release, The Binding of Isaac is getting proper online co-op soon](https://www.pcgamer.com/12-years-since-release-the-binding-of-isaac-is-getting-proper-online-co-op-soon)
- - [Intel begins high-volume production of Intel 4 node chips this week](https://www.pcgamer.com/intel-begins-high-volume-production-of-intel-4-node-chips-this-week)<!-- GAME:END -->
+ - [12 years since release, The Binding of Isaac is getting proper online co-op soon](https://www.pcgamer.com/12-years-since-release-the-binding-of-isaac-is-getting-proper-online-co-op-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
