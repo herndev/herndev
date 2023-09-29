@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2310.230927-2200&rpar;](https://news.xbox.com/en-us/2023/09/29/xbox-insider-release-notes-alpha-2310-230927-2200/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.230927-2000&rpar;](https://news.xbox.com/en-us/2023/09/29/xbox-insider-release-notes-alpha-skip-ahead-2408-230927-2000/)
- - [The 3 Best And 3 Worst Korok Challenges In Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-korok-challenges-best-worst-1850879962)<!-- GAME:END -->
+ - [New Doom Mod Is Basically A Badass Indiana Jones Game](https://kotaku.com/doom-mod-ventrous-indy-indiana-jones-download-pc-1850887493)
+ - [Scalpers Ruin Online Sales Of Pokémon Van Gogh Merch, Too](https://kotaku.com/pokemon-van-gogh-museum-card-plush-collaboration-merch-1850887569)
+ - [Sonic Frontiers’ Final Free Update Is Kicking Players&#39; Asses](https://kotaku.com/sonic-frontiers-final-horizon-dlc-tank-boss-difficult-1850887476)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
