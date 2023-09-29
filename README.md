@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mineko’s Night Market builds on 2023’s cozy game obsession](https://www.polygon.com/reviews/23894346/minekos-night-market-review-best-cozy-games-recipes)
- - [AMD Zen 5 and 6 CPU details and performance &#39;leak&#39; and slightly disappoint](https://www.pcgamer.com/amd-zen-5-and-6-cpu-details-and-performance-leak-and-slightly-disappoint)
- - [Starfield&#39;s cursed rain orb lifts the veil on an old game design trick: &#39;pack it up boys, it&#39;s over&#39;](https://www.pcgamer.com/starfields-cursed-rain-orb-lifts-the-veil-on-an-old-game-design-trick-pack-it-up-boys-its-over)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 2 to 6](https://news.xbox.com/en-us/2023/09/29/next-week-on-xbox-new-games-for-october-2-to-6/)
+ - [Crunchyroll’s Latest Fantasy Anime Will Make You Call A Friend Just To Catch Up](https://kotaku.com/crunchyroll-fantasy-anime-frieren-review-madhouse-1850884841)
+ - [Disney Plus is starting its own password-sharing crackdown](https://www.polygon.com/23895687/disney-plus-price-fees-increase-password-sharing-crackdown)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
