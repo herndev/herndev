@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [12 years since release, The Binding of Isaac is getting proper online co-op soon](https://www.pcgamer.com/12-years-since-release-the-binding-of-isaac-is-getting-proper-online-co-op-soon)
  - [Intel begins high-volume production of Intel 4 node chips this week](https://www.pcgamer.com/intel-begins-high-volume-production-of-intel-4-node-chips-this-week)
- - [Want to try a new playstyle in Cyberpunk 2077: Phantom Liberty? Here&#39;s the director&#39;s &#39;warlock netrunner&#39; build](https://www.pcgamer.com/want-to-try-a-new-playstyle-in-cyberpunk-2077-phantom-liberty-heres-the-directors-warlock-netrunner-build)
- - [Bethesda just released a new Elder Scrolls mobile game that&#39;s basically Fallout Shelter meets Skyrim](https://www.pcgamer.com/bethesda-just-released-a-new-elder-scrolls-mobile-game-inspired-by-fallout-shelter-called-the-elder-scrolls-castles)<!-- GAME:END -->
+ - [Want to try a new playstyle in Cyberpunk 2077: Phantom Liberty? Here&#39;s the director&#39;s &#39;warlock netrunner&#39; build](https://www.pcgamer.com/want-to-try-a-new-playstyle-in-cyberpunk-2077-phantom-liberty-heres-the-directors-warlock-netrunner-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
