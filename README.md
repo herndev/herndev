@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Japan allocates up to $1.2B in subsidies for US chipmaker Micron&#39;s plant in Hiroshima prefecture to build DRAM chips by around 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230929/p4#a230929p4)
- - [Apple met with China to push back over app rules](https://appleinsider.com/articles/23/09/29/apple-met-with-china-to-push-back-over-app-rules?utm_medium=rss)
- - [Sources: Apple execs met with Chinese officials recently to discuss new rules forcing Apple to ban foreign apps whose operators are not registered with China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230929/p3#a230929p3)<!-- TECH:END -->
+ - [France won&#39;t recall iPhone 12, as modem-limiting iOS update has been approved](https://appleinsider.com/articles/23/09/29/france-wont-recall-iphone-12-now-ios-update-has-been-approved?utm_medium=rss)
+ - [Apple says it supports over half a million jobs in the UK](https://appleinsider.com/articles/23/09/29/apple-says-it-supports-over-half-a-million-jobs-in-the-uk?utm_medium=rss)
+ - [The UK CMA says it is examining whether Qualcomm&#39;s purchase of Israeli auto-chip maker Autotalks would lessen competition in the UK market &lpar;Reuters&rpar;](http://www.techmeme.com/230929/p6#a230929p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
