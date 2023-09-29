@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - ⏩ [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - 👉 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)<!-- MEMES:END -->
+ - ⏩ [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
+ - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
 
 ---
 
