@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)
- - ⏩ [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
- - 👉 [RiP Sir, Dumbledoor. GBNF](http://9gag.com/gag/a1P8nY6)<!-- MEMES:END -->
+ - 💣 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - ⏩ [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 👉 [Shooting in Dutch prestigious university hospital and home. Special police forces were able to catch him right outside the hospital. 3 dead. Husband, wife and daughter.](http://9gag.com/gag/adPWMZ9)<!-- MEMES:END -->
 
 ---
 
