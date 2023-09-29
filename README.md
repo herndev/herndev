@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Thanks to a bug, players have found a &#39;realm of naked men&#39; in Baldur&#39;s Gate 3](https://www.pcgamer.com/thanks-to-a-bug-players-have-found-a-realm-of-naked-men-in-baldurs-gate-3)
  - [12 years since release, The Binding of Isaac is getting proper online co-op soon](https://www.pcgamer.com/12-years-since-release-the-binding-of-isaac-is-getting-proper-online-co-op-soon)
- - [Intel begins high-volume production of Intel 4 node chips this week](https://www.pcgamer.com/intel-begins-high-volume-production-of-intel-4-node-chips-this-week)
- - [Want to try a new playstyle in Cyberpunk 2077: Phantom Liberty? Here&#39;s the director&#39;s &#39;warlock netrunner&#39; build](https://www.pcgamer.com/want-to-try-a-new-playstyle-in-cyberpunk-2077-phantom-liberty-heres-the-directors-warlock-netrunner-build)<!-- GAME:END -->
+ - [Intel begins high-volume production of Intel 4 node chips this week](https://www.pcgamer.com/intel-begins-high-volume-production-of-intel-4-node-chips-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
