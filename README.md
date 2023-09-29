@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [October’s video game release calendar is a little too stacked](https://www.theverge.com/2023/9/29/23896119/october-2023-video-games-release-date)
- - [Sources: Jasper, which offers AI writing tools for marketers, has cut its $140M 2023 ARR projections by 30%+ and slashed internal valuation by 20% from $1.5B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230929/p15#a230929p15)
- - [‘There’s no tracing Xbox 360 chat,’ claimed guy now charged with insider trading](https://www.theverge.com/2023/9/29/23896150/xbox-360-chat-insider-trading-anthony-viggiano-christopher-salamone-stephen-forlano)<!-- TECH:END -->
+ - [Here’s where you can preorder Sony’s upcoming PlayStation Portal](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)
+ - [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
+ - [Letter: the US SEC told Bolt the startup likely won&#39;t face enforcement action after a 15-month probe into whether Bolt violated securities laws when fundraising &lpar;Forbes&rpar;](http://www.techmeme.com/230929/p16#a230929p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
