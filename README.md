@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gen V is the cure to what ails superhero media](https://www.polygon.com/23886025/boys-gen-v-review-spinoff-mcu-superheroes)
- - [EU court rejects Valve appeal against €1.6 million fine for &#39;geo-blocking&#39; Steam games, says policy existed to protect publisher royalties and &#39;the margins earned by Valve&#39;](https://www.pcgamer.com/eu-court-rejects-valve-appeal-against-euro16-million-fine-for-geo-blocking-steam-games-says-policy-existed-to-protect-publisher-royalties-and-the-margins-earned-by-valve)
- - [Sony Deletes Mentions Of Troubled Star Wars: KotOR PS5 Remake, Hides Trailer [Update]](https://kotaku.com/star-wars-knights-republic-kotor-remake-ps5-canceled-1850885369)<!-- GAME:END -->
+ - [The First Pokémon X Hatsune Miku Song Is Intense](https://kotaku.com/pokemon-scarlet-hatsune-miku-collab-voltage-vocaloid-1850887140)
+ - [FBI Indicts Wall Street Banker For Doing Crimes On Xbox 360](https://kotaku.com/xbox-360-chat-wall-street-fbi-insider-trading-goldman-1850887053)
+ - [Kotaku’s Weekend Guide: 7 Games To Say Goodbye To September With](https://kotaku.com/kotaku-games-to-play-cocoon-starfield-bg3-fzero-1850886879)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
