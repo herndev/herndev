@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
- - ⏩ [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 👉 [Gym assistant](http://9gag.com/gag/axoeejb)<!-- MEMES:END -->
+ - 💣 [Make Middle Earth Great Again](http://9gag.com/gag/aVb96W8)
+ - ⏩ [Monkey: Don&#39;t mess with Monkey. Human: I am monkey](http://9gag.com/gag/aPgVq4w)
+ - 👉 [That escalated quickly](http://9gag.com/gag/aOxn5y6)<!-- MEMES:END -->
 
 ---
 
