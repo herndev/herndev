@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Doom Mod Is Basically A Badass Indiana Jones Game](https://kotaku.com/doom-mod-ventrous-indy-indiana-jones-download-pc-1850887493)
- - [Scalpers Ruin Online Sales Of Pokémon Van Gogh Merch, Too](https://kotaku.com/pokemon-van-gogh-museum-card-plush-collaboration-merch-1850887569)
- - [Sonic Frontiers’ Final Free Update Is Kicking Players&#39; Asses](https://kotaku.com/sonic-frontiers-final-horizon-dlc-tank-boss-difficult-1850887476)<!-- GAME:END -->
+ - [Cyberpunk 2077 director says studio&#39;s switch from REDengine to Unreal Engine 5 &#39;isn&#39;t starting from scratch&#39;](https://www.pcgamer.com/cyberpunk-2077-director-says-studios-switch-from-redengine-to-unreal-engine-5-isnt-starting-from-scratch)
+ - [Fortnite Brings Back &#39;Share The Wealth&#39; Emote On Same Day As Mass Layoffs](https://kotaku.com/fortnite-epic-layoffs-share-wealth-emote-tim-sweeney-1850887934)
+ - [The best thing about the Saw movies is still their sprawling continuity](https://www.polygon.com/movies/22434679/saw-movies-franchise-explainer-jigsaw-backstory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
