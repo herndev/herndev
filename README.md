@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Quest 3 is scheduled to get upper body tracking and AI estimated legs, called Generative Legs, in a software update in December &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230928/p42#a230928p42)
  - [Sources: on October 5, Linda Yaccarino plans to meet with the seven banks that helped fund Elon Musk&#39;s takeover of X to lay out her plans to revive the company &lpar;Financial Times&rpar;](http://www.techmeme.com/230928/p41#a230928p41)
- - [The Cyberspace Administration of China unveils rules to relax some cross-border data controls, in a bid to reassure businesses worried about US-China relations &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230928/p40#a230928p40)
- - [Best Sports Streaming Service for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Cyberspace Administration of China unveils rules to relax some cross-border data controls, in a bid to reassure businesses worried about US-China relations &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230928/p40#a230928p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
