@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - ⏩ [Gym assistant](http://9gag.com/gag/axoeejb)
- - 👉 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)<!-- MEMES:END -->
+ - ⏩ [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
+ - 👉 [Gym assistant](http://9gag.com/gag/axoeejb)<!-- MEMES:END -->
 
 ---
 
