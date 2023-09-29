@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Players Are Having Trouble Activating The Cyberpunk 2077 Expansion’s Final Mission](https://kotaku.com/cyberpunk-2077-phantom-liberty-the-killing-moon-wait-1850888385)
  - [Doom&#39;s Iconic Super Shotty Looks Right At Home In Call Of Duty](https://kotaku.com/call-of-duty-doom-tracer-pack-shotgun-chainsaw-warzone-1850888137)
- - [Citizen Journalist Elon Musk Livestreams Mexican Border In Dead Space T-shirt](https://kotaku.com/elon-musk-border-diablo-iv-texas-ben-shapiro-1850888253)
- - [You’ll never play every part of Baldur’s Gate 3 — that’s where TikTok comes in](https://www.polygon.com/23894715/baldurs-gate-3-tiktok-youtube-shorts-memes)<!-- GAME:END -->
+ - [Citizen Journalist Elon Musk Livestreams Mexican Border In Dead Space T-shirt](https://kotaku.com/elon-musk-border-diablo-iv-texas-ben-shapiro-1850888253)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
