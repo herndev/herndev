@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Pokémon X Hatsune Miku Song Is Intense](https://kotaku.com/pokemon-scarlet-hatsune-miku-collab-voltage-vocaloid-1850887140)
- - [FBI Indicts Wall Street Banker For Doing Crimes On Xbox 360](https://kotaku.com/xbox-360-chat-wall-street-fbi-insider-trading-goldman-1850887053)
- - [Kotaku’s Weekend Guide: 7 Games To Say Goodbye To September With](https://kotaku.com/kotaku-games-to-play-cocoon-starfield-bg3-fzero-1850886879)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2310.230927-2200&rpar;](https://news.xbox.com/en-us/2023/09/29/xbox-insider-release-notes-alpha-2310-230927-2200/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.230927-2000&rpar;](https://news.xbox.com/en-us/2023/09/29/xbox-insider-release-notes-alpha-skip-ahead-2408-230927-2000/)
+ - [The 3 Best And 3 Worst Korok Challenges In Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-korok-challenges-best-worst-1850879962)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
