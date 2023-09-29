@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - ⏩ [Shooting in Dutch prestigious university hospital and home. Special police forces were able to catch him right outside the hospital. 3 dead. Husband, wife and daughter.](http://9gag.com/gag/adPWMZ9)
- - 👉 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)<!-- MEMES:END -->
+ - 💣 [Clock alarm](http://9gag.com/gag/axoewjM)
+ - ⏩ [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 👉 [Greatest manager ever](http://9gag.com/gag/abvLKDB)<!-- MEMES:END -->
 
 ---
 
