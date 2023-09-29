@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Typical Liberal](http://9gag.com/gag/aNwGGx6)
- - ⏩ [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)
- - 👉 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)<!-- MEMES:END -->
+ - 💣 [9gag community living in horny mode](http://9gag.com/gag/aA0L71g)
+ - ⏩ [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 👉 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)<!-- MEMES:END -->
 
 ---
 
