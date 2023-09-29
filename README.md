@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What are silicon anode batteries?](https://www.androidauthority.com/silicon-anode-batteries-3369698/)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Progress Software, the company behind the widely exploited MOVEit file transfer tool, patches critical vulnerabilities in its WS_FTP Server file transfer tool &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230929/p2#a230929p2)
- - [It’s only September but we’ve already got our first look at the Galaxy S24](https://www.androidauthority.com/samsung-galaxy-s24-leaked-renders-3368259/)<!-- TECH:END -->
+ - [Progress Software, the company behind the widely exploited MOVEit file transfer tool, patches critical vulnerabilities in its WS_FTP Server file transfer tool &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230929/p2#a230929p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
