@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her social media was found by law enforcement and they know who she is. He is pressing charges. Shit\u2019s about to get real\u2026](http://9gag.com/gag/avQBqjn)
+ - 💣 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
  - ⏩ [Greatest manager ever](http://9gag.com/gag/abvLKDB)
  - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
 
