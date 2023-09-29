@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The founders of Letterboxd sell a majority stake to Canadian company Tiny; source: the deal values the film-focused social network with 10M users at $50M+ &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/230929/p12#a230929p12)
- - [End of an Era: Netflix announces it shipped its last DVD today](https://www.androidauthority.com/netflix-ships-final-dvd-3369933/)
- - [Flash deal: get Apple&#39;s M2 MacBook Air 13-inch with 16GB RAM for just $1,099](https://appleinsider.com/articles/23/09/29/flash-deal-get-apples-m2-macbook-air-13-inch-with-16gb-ram-for-just-1099?utm_medium=rss)<!-- TECH:END -->
+ - [Ford accuses UAW of holding contract negotiations ‘hostage’ over EV battery plants](https://www.theverge.com/2023/9/29/23896139/ford-uaw-strike-contract-hostage-ev-battery-factory)
+ - [Now you can water-cool your PS5, too](https://www.theverge.com/2023/9/29/23895967/water-cooled-ps5-ek-water-blocks-quantum-x)
+ - [BeReal says its app has 25M+ DAUs, up from 20M in October 2022, disputing a Similarweb report estimating that BeReal&#39;s MAUs declined to 16.06M in August 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230929/p13#a230929p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
