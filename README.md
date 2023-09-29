@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can preorder Sony’s upcoming PlayStation Portal](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)
- - [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
- - [Letter: the US SEC told Bolt the startup likely won&#39;t face enforcement action after a 15-month probe into whether Bolt violated securities laws when fundraising &lpar;Forbes&rpar;](http://www.techmeme.com/230929/p16#a230929p16)<!-- TECH:END -->
+ - [Meta quietly unveils Llama 2 Long, which has been trained with long sequences, outperforming GPT-3.5 Turbo and Claude 2 in responding to long user prompts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230929/p17#a230929p17)
+ - [Why New York and other cities still aren’t prepared for floods](https://www.theverge.com/2023/9/29/23896228/new-york-city-flooding-brooklyn-urban-climate)
+ - [The co-founder of a collapsed crypto hedge fund was arrested in Singapore](https://www.theverge.com/2023/9/29/23896188/crypto-hedge-fund-three-arrows-captial-su-zhu-arrest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
