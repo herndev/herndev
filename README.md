@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s French offices raided by antitrust authorities following suspicion of &#39;anticompetitive practices&#39;](https://www.pcgamer.com/nvidias-french-offices-raided-by-antitrust-authorities-following-suspicion-of-anticompetitive-practices)
- - [You probably don&#39;t want a high-level DLC for Baldur&#39;s Gate 3, anyway](https://www.pcgamer.com/you-probably-dont-want-a-high-level-dlc-for-baldurs-gate-3-anyway)
- - [Cyberpunk 2077 No Easy Way Out: Should you side with Aaron or Angie?](https://www.pcgamer.com/cyberpunk-2077-no-easy-way-out-angie-aaron)<!-- GAME:END -->
+ - [PlayStation Stars campaigns and digital collectibles for October 2023](https://blog.playstation.com/2023/09/29/playstation-stars-campaigns-and-digital-collectibles-for-october-2023/)
+ - [The Knights of the Old Republic Remake is either dead or about to become more powerful than you can possibly imagine](https://www.pcgamer.com/the-knights-of-the-old-republic-remake-is-either-dead-or-about-to-become-more-powerful-than-you-can-possibly-imagine)
+ - [Nvidia&#39;s French offices raided by antitrust authorities following suspicion of &#39;anticompetitive practices&#39;](https://www.pcgamer.com/nvidias-french-offices-raided-by-antitrust-authorities-following-suspicion-of-anticompetitive-practices)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
