@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clock alarm](http://9gag.com/gag/axoewjM)
- - ⏩ [What are the odds?](http://9gag.com/gag/a8qvQeO)
+ - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
+ - ⏩ [Shooting in Dutch prestigious university hospital and home. Special police forces were able to catch him right outside the hospital. 3 dead. Husband, wife and daughter.](http://9gag.com/gag/adPWMZ9)
  - 👉 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)<!-- MEMES:END -->
 
 ---
