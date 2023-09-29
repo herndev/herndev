@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will charge you to use its new Echo Show 8 as a digital photo frame](https://www.theverge.com/2023/9/22/23885332/amazon-echo-show-8-photos-edition-digital-frame-price-fee)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Daily deals Sept. 29: Apple Pencil 2 $89, $1,500 off M1 Max MacBook Pro, M2 MacBook Air 16GB RAM $1,099, more](https://appleinsider.com/articles/23/09/29/daily-deals-sept-29-apple-pencil-2-89-1500-off-m1-max-macbook-pro-m2-macbook-air-16gb-ram-1099-more?utm_medium=rss)<!-- TECH:END -->
+ - [Report: Apple uses microscopic QR codes on iPhone screens to track defects, which helped reduce faulty screen report rates from its suppliers from 30% to 10% &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/230929/p10#a230929p10)
+ - [This Pixel Watch 2 leak shows features adopted from Fitbit](https://www.theverge.com/2023/9/29/23895764/google-pixel-watch-2-leak-fitbit-body-responses)
+ - [Omnicase 2 Pro USB-C Hub review: Compact and competent data and charging](https://appleinsider.com/articles/23/09/29/omnicase-2-pro-usb-c-hub-review-compact-and-competent-data-and-charging?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
