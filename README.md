@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber, DoorDash, and Grubhub lose bid to block NYC’s new wage rules for delivery workers](https://www.theverge.com/2023/9/29/23895637/uber-doordash-grubhub-nyc-delivery-worker-minimum-wage-ruling)
- - [The synthetic social network is coming](https://www.theverge.com/2023/9/29/23895675/ai-bot-social-network-openai-meta-chatbots)
- - [Samsung Galaxy S24 Ultra renders leak: Are flat displays back in fashion?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-render-leak-3369812/)<!-- TECH:END -->
+ - [Amazon will charge you to use its new Echo Show 8 as a digital photo frame](https://www.theverge.com/2023/9/22/23885332/amazon-echo-show-8-photos-edition-digital-frame-price-fee)
+ - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Daily deals Sept. 29: Apple Pencil 2 $89, $1,500 off M1 Max MacBook Pro, M2 MacBook Air 16GB RAM $1,099, more](https://appleinsider.com/articles/23/09/29/daily-deals-sept-29-apple-pencil-2-89-1500-off-m1-max-macbook-pro-m2-macbook-air-16gb-ram-1099-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
