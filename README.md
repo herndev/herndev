@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [NYT Connections hint and answers today: September 29 &lpar;#110&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-29-110)
  - [Today&#39;s Wordle hint and answer #832: Friday, September 29](https://www.pcgamer.com/wordle-answer-today-hint-832-september-29)
- - [Sony Deletes Mentions Of Troubled Star Wars: KotOR PS5 Remake, Hides Trailer](https://kotaku.com/star-wars-knights-republic-kotor-remake-ps5-canceled-1850885369)
- - [Thanks to a bug, players have found a &#39;realm of naked men&#39; in Baldur&#39;s Gate 3](https://www.pcgamer.com/thanks-to-a-bug-players-have-found-a-realm-of-naked-men-in-baldurs-gate-3)<!-- GAME:END -->
+ - [Sony Deletes Mentions Of Troubled Star Wars: KotOR PS5 Remake, Hides Trailer](https://kotaku.com/star-wars-knights-republic-kotor-remake-ps5-canceled-1850885369)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
