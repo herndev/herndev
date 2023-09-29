@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
  - ⏩ [Greatest manager ever](http://9gag.com/gag/abvLKDB)
  - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
 
