@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make cash now](http://9gag.com/gag/aVb98DM)
- - ⏩ [Typical Liberal](http://9gag.com/gag/aNwGGx6)
- - 👉 [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)<!-- MEMES:END -->
+ - 💣 [Typical Liberal](http://9gag.com/gag/aNwGGx6)
+ - ⏩ [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)
+ - 👉 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)<!-- MEMES:END -->
 
 ---
 
