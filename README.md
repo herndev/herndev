@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Stars campaigns and digital collectibles for October 2023](https://blog.playstation.com/2023/09/29/playstation-stars-campaigns-and-digital-collectibles-for-october-2023/)
- - [The Knights of the Old Republic Remake is either dead or about to become more powerful than you can possibly imagine](https://www.pcgamer.com/the-knights-of-the-old-republic-remake-is-either-dead-or-about-to-become-more-powerful-than-you-can-possibly-imagine)
- - [Nvidia&#39;s French offices raided by antitrust authorities following suspicion of &#39;anticompetitive practices&#39;](https://www.pcgamer.com/nvidias-french-offices-raided-by-antitrust-authorities-following-suspicion-of-anticompetitive-practices)<!-- GAME:END -->
+ - [Mineko’s Night Market builds on 2023’s cozy game obsession](https://www.polygon.com/reviews/23894346/minekos-night-market-review-best-cozy-games-recipes)
+ - [AMD Zen 5 and 6 CPU details and performance &#39;leak&#39; and slightly disappoint](https://www.pcgamer.com/amd-zen-5-and-6-cpu-details-and-performance-leak-and-slightly-disappoint)
+ - [Starfield&#39;s cursed rain orb lifts the veil on an old game design trick: &#39;pack it up boys, it&#39;s over&#39;](https://www.pcgamer.com/starfields-cursed-rain-orb-lifts-the-veil-on-an-old-game-design-trick-pack-it-up-boys-its-over)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
