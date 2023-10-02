@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - ⏩ [Sorry for that.](http://9gag.com/gag/a6qePom)
+ - 💣 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
+ - ⏩ [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
  - 👉 [Historically accurate costumes](http://9gag.com/gag/agopWg6)<!-- MEMES:END -->
 
 ---
