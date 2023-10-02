@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - ⏩ [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 👉 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)<!-- MEMES:END -->
+ - ⏩ [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 👉 [Historically accurate costumes](http://9gag.com/gag/agopWg6)<!-- MEMES:END -->
 
 ---
 
