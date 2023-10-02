@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make Middle Earth Great Again](http://9gag.com/gag/aVb96W8)
- - ⏩ [Monkey: Don&#39;t mess with Monkey. Human: I am monkey](http://9gag.com/gag/aPgVq4w)
- - 👉 [That escalated quickly](http://9gag.com/gag/aOxn5y6)<!-- MEMES:END -->
+ - 💣 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
+ - ⏩ [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
+ - 👉 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)<!-- MEMES:END -->
 
 ---
 
