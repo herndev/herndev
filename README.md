@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Drifter is a point-and-click adventure that&#39;s also a fast-paced thriller](https://www.pcgamer.com/the-drifter-is-a-point-and-click-adventure-thats-also-a-fast-paced-thriller)
- - [Wordle today: Hint and answer for #835 Monday, October 2](https://www.pcgamer.com/wordle-today-answer-835-october-2)
- - [Cyborg immersive sim Core Decay still has those System Shock, Deus Ex vibes in a brand new trailer](https://www.pcgamer.com/cyborg-immersive-sim-core-decay-still-has-those-system-shock-deus-ex-vibes-in-a-brand-new-trailer)<!-- GAME:END -->
+ - [Undaunted abandons WWII, heads in a ‘different direction’ with spacefaring sequel](https://www.polygon.com/23896492/undaunted-2200-callisto-announcement-release-date-price)
+ - [10 years after launch, one player has nabbed every one of Final Fantasy 14&#39;s 2,751 achievements](https://www.pcgamer.com/10-years-after-launch-one-player-has-nabbed-every-one-of-final-fantasy-14s-2751-achievements)
+ - [The Drifter is a point-and-click adventure that&#39;s also a fast-paced thriller](https://www.pcgamer.com/the-drifter-is-a-point-and-click-adventure-thats-also-a-fast-paced-thriller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
