@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked promo video shows how easy it is to switch to Pixel 8](https://www.androidauthority.com/google-pixel-8-video-leak-switch-3370254/)
  - [Galaxy S24 Plus renders leak: iPhone-style flat edges, but what else?](https://www.androidauthority.com/samsung-galaxy-s24-plus-renders-3370236/)
- - [Singapore grants Coinbase a Major Payment Institution license, allowing it to offer a wider range of Digital Payment Token services to institutions, customers &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/231002/p1#a231002p1)
- - [The Pixel 8 launches later this week, but we’ve already got an unboxing clip](https://www.androidauthority.com/google-pixel-8-unboxing-3370227/)<!-- TECH:END -->
+ - [Singapore grants Coinbase a Major Payment Institution license, allowing it to offer a wider range of Digital Payment Token services to institutions, customers &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/231002/p1#a231002p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
