@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 2 review: Still the best smartwatch around, despite lack of new features](https://appleinsider.com/articles/23/10/02/apple-watch-ultra-2-review-still-the-best-smartwatch-around-despite-lack-of-new-features?utm_medium=rss)
- - [Nobel Prize awarded to duo who made rapid covid vaccines possible](https://www.theverge.com/2023/10/2/23899420/nobel-prize-physiology-medicine-covid-vaccines-katalin-kariko-drew-weissman)
- - [Apple&#39;s India iPhone factory still has growing pains post-protests](https://appleinsider.com/articles/23/10/02/apples-india-iphone-factory-still-has-growing-pains-post-protests?utm_medium=rss)<!-- TECH:END -->
+ - [Chromebook Plus: Huge and exciting changes with a boring name](https://www.androidauthority.com/google-chromebook-plus-3369405/)
+ - [Chromebook Plus is Google’s new certification for premium Chromebooks](https://www.theverge.com/2023/10/2/23897416/google-chromebook-plus-certification-announcement)
+ - [New &#39;Messi Meets America&#39; series hits Apple TV+ soon](https://appleinsider.com/articles/23/10/02/apple-reveals-teaser-for-new-messi-meets-america-series?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
