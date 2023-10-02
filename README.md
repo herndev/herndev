@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How I Use Sleep Deprivation as a Productivity Tool, and Why That&#39;s a Horrible Idea     - CNET](https://www.cnet.com/health/sleep/how-i-use-sleep-deprivation-as-a-productivity-tool-and-why-thats-a-horrible-idea/#ftag=CAD590a51e)
- - [Who wins when telehealth companies push weight loss drugs?](https://www.theverge.com/23878992/ro-ozempic-subway-ads-telehealth-weight-loss-drugs)
- - [Garmin Vivoactive 5 review: Should you buy it?](https://www.androidauthority.com/garmin-vivoactive-5-review-3369028/)<!-- TECH:END -->
+ - [FEMA’s national emergency alert test rings phones, TVs, and radios on Wednesday](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
+ - [The Beats Studio Pro are once again $100 off &lpar;in all color options&rpar;](https://www.theverge.com/2023/10/2/23899443/apple-beats-studio-pro-xbox-elite-controller-echo-dot-deal-sale)
+ - [What to expect from the &quot;Made by Google&quot; event on October 4: Pixel 8 and Pixel 8 Pro, Pixel Watch 2, Android 14 release, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231002/p7#a231002p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
