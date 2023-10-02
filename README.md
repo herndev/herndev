@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - ⏩ [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
- - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
+ - 💣 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
+ - ⏩ [Lost the staring contest](http://9gag.com/gag/abvL9eb)
+ - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
 
 ---
 
