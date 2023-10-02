@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case anyone wondered and/or needs instruction, here ya go.](http://9gag.com/gag/armDYMX)
- - ⏩ [Winter is coming](http://9gag.com/gag/a5X9LdL)
- - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
+ - 💣 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
+ - ⏩ [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 👉 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)<!-- MEMES:END -->
 
 ---
 
