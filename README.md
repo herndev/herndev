@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76’s Atlantic City update: Factions, locations detailed–out December 5 on PS5 and PS4](https://blog.playstation.com/2023/10/02/fallout-76s-atlantic-city-update-factions-locations-detailed-out-december-5-on-ps5-and-ps4/)
- - [Payday 3 Devs Swear Matchmaking Is Fixed Ahead Of Big Update](https://kotaku.com/payday-3-matchmaking-game-pass-always-online-steam-fix-1850891497)
- - [The same modder who fixed Starfield&#39;s inventory has now sorted out the rest of the UI](https://www.pcgamer.com/the-same-modder-who-fixed-starfields-inventory-has-now-sorted-out-the-rest-of-the-ui)<!-- GAME:END -->
+ - [I&#39;m glad Cyberpunk 2077 is getting a sequel, but it really deserves more expansions](https://www.pcgamer.com/im-glad-cyberpunk-2077-is-getting-a-sequel-but-it-really-deserves-more-expansions)
+ - [Grand Theft Auto 6 fans have become so desperate for information they&#39;ve convinced themselves that the moon is teasing an upcoming reveal](https://www.pcgamer.com/grand-theft-auto-6-fans-have-become-so-desperate-for-information-theyve-convinced-themselves-that-the-moon-is-teasing-an-upcoming-reveal)
+ - [Should you frame Yuri during Balls to the Wall in Cyberpunk 2077: Phantom Liberty?](https://www.pcgamer.com/cyberpunk-2077-balls-to-the-wall-choice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
