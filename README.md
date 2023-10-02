@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - ⏩ [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 💣 [Interesting destination , would you be interested??](http://9gag.com/gag/aEqjLnN)
+ - ⏩ [Wait a minute...](http://9gag.com/gag/aeQqn6B)
  - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
 
 ---
