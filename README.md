@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Epic vs Apple trial - all you need to know about the trial, verdict, and aftermath](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
- - [Q&amp;A with researcher Tamara Kneese on her book Death Glitch and why tech companies need to improve how they handle posthumous digital remains on their platforms &lpar;Zo&amp;euml; Corbyn/The Guardian&rpar;](http://www.techmeme.com/231001/p9#a231001p9)
- - [Shipping times for iPhone 15 Pro models are gradually improving](https://appleinsider.com/articles/23/10/01/shipping-times-for-iphone-15-pro-models-are-gradually-improving?utm_medium=rss)<!-- TECH:END -->
+ - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
+ - [Q&amp;A with researcher Tamara Kneese on her book Death Glitch and why tech companies need to improve how they handle posthumous digital remains on their platforms &lpar;Zo&amp;euml; Corbyn/The Guardian&rpar;](http://www.techmeme.com/231001/p9#a231001p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
