@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hayao Miyazaki Trashing AI &#39;Art&#39; In 2016 Feels Really Prophetic Now](https://kotaku.com/hayao-miyazaki-ai-animation-voice-actors-strike-writers-1850893125)
  - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)
- - [3 of the 5 top wishlisted Steam games are city builders, and I want to play them all](https://www.pcgamer.com/3-of-the-5-top-wishlisted-steam-games-are-city-builders-and-i-want-to-play-them-all)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Diablo IV Crossover Finally Gives Moira A Good Skin](https://kotaku.com/overwatch-2-season-7-release-date-skins-diablo-4-1850893221)
+ - [Hayao Miyazaki Trashing AI &#39;Art&#39; In 2016 Feels Really Prophetic Now](https://kotaku.com/hayao-miyazaki-ai-animation-voice-actors-strike-writers-1850893125)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
