@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nerf World Brings Blasters into Minecraft](https://www.minecraft.net/article/nerf-world-brings-blasters-minecraft%20#new_tab)
- - [You should watch Fright Krewe, because we need more shows like Fright Krewe](https://www.polygon.com/23893055/fright-krewe-dreamworks-hulu-review)
- - [You can already hack Ray Reconstruction into Cyberpunk 2077 without the path tracing limitation, but Nvidia promises to open it up officially soon](https://www.pcgamer.com/you-can-already-hack-ray-reconstruction-into-cyberpunk-2077-without-the-path-tracing-limitation-but-nvidia-promises-to-open-it-up-officially-soon)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2310.230928-1038&rpar;](https://news.xbox.com/en-us/2023/10/02/xbox-insider-release-notes-alpha-2310-230928-1038/)
+ - [A canceled Netflix horror-thriller is the perfect way to usher in spooky season](https://www.polygon.com/23886034/netflix-marianne-spooky-best-watches-tv-show)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.230928-2000&rpar;](https://news.xbox.com/en-us/2023/10/02/xbox-insider-release-notes-alpha-skip-ahead-2408-230928-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
