@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)
- - [Overwatch 2&#39;s Diablo IV Crossover Finally Gives Moira A Good Skin](https://kotaku.com/overwatch-2-season-7-release-date-skins-diablo-4-1850893221)
- - [Hayao Miyazaki Trashing AI &#39;Art&#39; In 2016 Feels Really Prophetic Now](https://kotaku.com/hayao-miyazaki-ai-animation-voice-actors-strike-writers-1850893125)<!-- GAME:END -->
+ - [This modder made such a great change to Starfield&#39;s food it&#39;s actually making me hungry](https://www.pcgamer.com/this-modder-made-such-a-great-change-to-starfields-food-its-actually-making-me-hungry)
+ - [Epic Games head of publishing strategy Sergiy Galyonkin has left the company: &#39;I am not a good fit for this new version of Epic&#39;](https://www.pcgamer.com/epic-games-head-of-publishing-strategy-sergiy-galyonkin-has-left-the-company-i-am-not-a-good-fit-for-this-new-version-of-epic)
+ - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
