@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch regulator rejects Apple&#39;s appeal over App Store fines](https://appleinsider.com/articles/23/10/02/dutch-regulator-rejects-apples-appeal-over-app-store-fines?utm_medium=rss)
- - [Microsoft Lists is now available for everyone on iOS, Android, and the web](https://www.theverge.com/2023/10/2/23899361/microsoft-lists-preview-ios-android-web-consumers)
- - [Monday Night Football: How to Watch Seahawks vs. Giants, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-seahawks-vs-giants-manningcast-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Humane shows off its wearable AI pin at Paris Fashion Week](https://appleinsider.com/articles/23/10/02/humane-shows-off-its-wearable-ai-pin-at-paris-fashion-week?utm_medium=rss)
+ - [BMW’s in-car wireless charging will break your new iPhone 15](https://www.androidauthority.com/bmw-wireless-charging-iphone-15-apple-pay-3370296/)
+ - [Vertex, a SPAC backed by Singapore&#39;s Temasek, plans to buy live streaming service 17LIVE for ~$676M; 17LIVE had revenue of $363.7M in 2022 and is profitable &lpar;Reuters&rpar;](http://www.techmeme.com/231002/p4#a231002p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
