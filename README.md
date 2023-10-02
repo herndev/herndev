@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - ⏩ [Historically accurate costumes](http://9gag.com/gag/agopWg6)
+ - 💣 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
+ - ⏩ [Sad but admirable](http://9gag.com/gag/aME0R1x)
  - 👉 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)<!-- MEMES:END -->
 
 ---
