@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nerf Launches Its Own Sport Using Hit-Detection Gear and Lots of Blasters     - CNET](https://www.cnet.com/tech/computing/nerf-launches-its-own-sport-using-hit-detection-gear-and-lots-of-blasters/#ftag=CAD590a51e)
- - [Meta quietly unveils Llama 2 Long, which has been trained with longer sequences, outperforming GPT-3.5 Turbo and Claude 2 when responding to long user prompts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230929/p17#a230929p17)
- - [Why New York and other cities still aren’t prepared for floods](https://www.theverge.com/2023/9/29/23896228/new-york-city-flooding-brooklyn-urban-climate)<!-- TECH:END -->
+ - [Epic vs Apple trial - all you need to know about the trial, verdict, and aftermath](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
+ - [Q&amp;A with researcher Tamara Kneese on her book Death Glitch and why tech companies need to improve how they handle posthumous digital remains on their platforms &lpar;Zo&amp;euml; Corbyn/The Guardian&rpar;](http://www.techmeme.com/231001/p9#a231001p9)
+ - [Shipping times for iPhone 15 Pro models are gradually improving](https://appleinsider.com/articles/23/10/01/shipping-times-for-iphone-15-pro-models-are-gradually-improving?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
