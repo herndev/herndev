@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Undaunted abandons WWII, heads in a ‘different direction’ with spacefaring sequel](https://www.polygon.com/23896492/undaunted-2200-callisto-announcement-release-date-price)
- - [10 years after launch, one player has nabbed every one of Final Fantasy 14&#39;s 2,751 achievements](https://www.pcgamer.com/10-years-after-launch-one-player-has-nabbed-every-one-of-final-fantasy-14s-2751-achievements)
- - [The Drifter is a point-and-click adventure that&#39;s also a fast-paced thriller](https://www.pcgamer.com/the-drifter-is-a-point-and-click-adventure-thats-also-a-fast-paced-thriller)<!-- GAME:END -->
+ - [Fallout 76’s Atlantic City update: Factions, locations detailed–out December 5 on PS5 and PS4](https://blog.playstation.com/2023/10/02/fallout-76s-atlantic-city-update-factions-locations-detailed-out-december-5-on-ps5-and-ps4/)
+ - [Payday 3 Devs Swear Matchmaking Is Fixed Ahead Of Big Update](https://kotaku.com/payday-3-matchmaking-game-pass-always-online-steam-fix-1850891497)
+ - [The same modder who fixed Starfield&#39;s inventory has now sorted out the rest of the UI](https://www.pcgamer.com/the-same-modder-who-fixed-starfields-inventory-has-now-sorted-out-the-rest-of-the-ui)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
