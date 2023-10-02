@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Overwatch League Grand Finals Were Both Beautiful And Depressing](https://kotaku.com/overwatch-league-grand-finals-2023-owl-ending-mvp-1850892928)
- - [Cocoon review](https://www.pcgamer.com/cocoon-review)
- - [Unique Rogue-lite, Deflector, is Out Now on Xbox Consoles](https://news.xbox.com/en-us/2023/10/02/unique-rogue-lite-deflector-is-out-now-on-xbox-consoles/)<!-- GAME:END -->
+ - [Hayao Miyazaki Trashing AI &#39;Art&#39; In 2016 Feels Really Prophetic Now](https://kotaku.com/hayao-miyazaki-ai-animation-voice-actors-strike-writers-1850893125)
+ - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)
+ - [3 of the 5 top wishlisted Steam games are city builders, and I want to play them all](https://www.pcgamer.com/3-of-the-5-top-wishlisted-steam-games-are-city-builders-and-i-want-to-play-them-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
