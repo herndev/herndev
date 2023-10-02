@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FEMA’s national emergency alert test rings phones, TVs, and radios on Wednesday](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
- - [The Beats Studio Pro are once again $100 off &lpar;in all color options&rpar;](https://www.theverge.com/2023/10/2/23899443/apple-beats-studio-pro-xbox-elite-controller-echo-dot-deal-sale)
- - [What to expect from the &quot;Made by Google&quot; event on October 4: Pixel 8 and Pixel 8 Pro, Pixel Watch 2, Android 14 release, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231002/p7#a231002p7)<!-- TECH:END -->
+ - [Apple Watch Ultra with microLED display expected in 2025](https://appleinsider.com/articles/23/10/02/apple-watch-ultra-with-microled-display-expected-in-2025?utm_medium=rss)
+ - [The OnePlus Open and OPPO Find N3 are confirmed to be the same phone](https://www.androidauthority.com/oneplus-open-oppo-find-n3-2-3370405/)
+ - [Apple drops all human support on X](https://appleinsider.com/articles/23/10/02/apple-drops-all-human-support-on-x?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
