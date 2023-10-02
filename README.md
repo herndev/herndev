@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humane shows off its wearable AI pin at Paris Fashion Week](https://appleinsider.com/articles/23/10/02/humane-shows-off-its-wearable-ai-pin-at-paris-fashion-week?utm_medium=rss)
- - [BMW’s in-car wireless charging will break your new iPhone 15](https://www.androidauthority.com/bmw-wireless-charging-iphone-15-apple-pay-3370296/)
- - [Vertex, a SPAC backed by Singapore&#39;s Temasek, plans to buy live streaming service 17LIVE for ~$676M; 17LIVE had revenue of $363.7M in 2022 and is profitable &lpar;Reuters&rpar;](http://www.techmeme.com/231002/p4#a231002p4)<!-- TECH:END -->
+ - [Apple Watch Ultra 2 review: Still the best smartwatch around, despite lack of new features](https://appleinsider.com/articles/23/10/02/apple-watch-ultra-2-review-still-the-best-smartwatch-around-despite-lack-of-new-features?utm_medium=rss)
+ - [Nobel Prize awarded to duo who made rapid covid vaccines possible](https://www.theverge.com/2023/10/2/23899420/nobel-prize-physiology-medicine-covid-vaccines-katalin-kariko-drew-weissman)
+ - [Apple&#39;s India iPhone factory still has growing pains post-protests](https://appleinsider.com/articles/23/10/02/apples-india-iphone-factory-still-has-growing-pains-post-protests?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
