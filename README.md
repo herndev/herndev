@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2310.230928-1038&rpar;](https://news.xbox.com/en-us/2023/10/02/xbox-insider-release-notes-alpha-2310-230928-1038/)
- - [A canceled Netflix horror-thriller is the perfect way to usher in spooky season](https://www.polygon.com/23886034/netflix-marianne-spooky-best-watches-tv-show)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.230928-2000&rpar;](https://news.xbox.com/en-us/2023/10/02/xbox-insider-release-notes-alpha-skip-ahead-2408-230928-2000/)<!-- GAME:END -->
+ - [Unique Rogue-lite, Deflector, is Out Now on Xbox Consoles](https://news.xbox.com/en-us/2023/10/02/unique-rogue-lite-deflector-is-out-now-on-xbox-consoles/)
+ - [Loki season 2, Our Flag Means Death season 2, a Netflix heist thriller, and more new TV this week](https://www.polygon.com/2023/10/2/23894090/loki-season-2-netflix-thriller-tv-new-ofmd-omitb-finale)
+ - [The Pokémon Anime’s Spookiest Episode Aired 25 Years Ago Today](https://kotaku.com/pokemon-gastly-anime-episode-ghost-of-maidens-peak-1850892373)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
