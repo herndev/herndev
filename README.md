@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting destination , would you be interested??](http://9gag.com/gag/aEqjLnN)
- - ⏩ [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
+ - 💣 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
+ - ⏩ [Historically accurate costumes](http://9gag.com/gag/agopWg6)
+ - 👉 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)<!-- MEMES:END -->
 
 ---
 
