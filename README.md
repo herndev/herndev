@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m glad Cyberpunk 2077 is getting a sequel, but it really deserves more expansions](https://www.pcgamer.com/im-glad-cyberpunk-2077-is-getting-a-sequel-but-it-really-deserves-more-expansions)
- - [Grand Theft Auto 6 fans have become so desperate for information they&#39;ve convinced themselves that the moon is teasing an upcoming reveal](https://www.pcgamer.com/grand-theft-auto-6-fans-have-become-so-desperate-for-information-theyve-convinced-themselves-that-the-moon-is-teasing-an-upcoming-reveal)
- - [Should you frame Yuri during Balls to the Wall in Cyberpunk 2077: Phantom Liberty?](https://www.pcgamer.com/cyberpunk-2077-balls-to-the-wall-choice)<!-- GAME:END -->
+ - [Xbox’s Celebration of the Gaming &amp; Disability Community Continues to Flourish with Special Olympics Partnership](https://news.xbox.com/en-us/2023/10/02/xbox-gaming-disability-special-olympics/)
+ - [Where to pre-order Princess Peach: Showtime before it launches in March 2024](https://www.polygon.com/deals/23896136/princess-peach-showtime-pre-order-buy-guide-nintendo-switch)
+ - [Even Fans Are Shocked By EA Sports FC 24’s ‘Awful’ $30 Loot Box](https://kotaku.com/ea-fifa-24-fc-loot-box-ultimate-team-pack-odds-scam-1850891916)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
