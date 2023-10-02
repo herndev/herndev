@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris Hilton and her company 11:11 Media sign a partnership with X to create four original video content programs per year to promote X&#39;s Live Shopping product &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231002/p10#a231002p10)
- - [OnePlus says yes, its debut foldable phone is a rebadged Oppo](https://www.theverge.com/2023/10/2/23899784/oneplus-open-oppo-find-n3-foldables-same-phone-android)
- - [The new Echo Show devices start from $40 as prices plunge to record lows](https://www.androidauthority.com/echo-show-deals-3370445/)<!-- TECH:END -->
+ - [Amazon&#39;s October Prime Day starts in 1 week, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)
+ - [The new Samsung microSD took just a month to get a 30% price drop](https://www.androidauthority.com/samsung-pro-ultimate-microsd-deal-3370498/)
+ - [US v. Google: Satya Nadella says Google cemented search dominance via mobile default search deals with Apple and he may have been overenthusiastic about ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p11#a231002p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
