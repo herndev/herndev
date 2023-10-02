@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebook Plus: Huge and exciting changes with a boring name](https://www.androidauthority.com/google-chromebook-plus-3369405/)
- - [Chromebook Plus is Google’s new certification for premium Chromebooks](https://www.theverge.com/2023/10/2/23897416/google-chromebook-plus-certification-announcement)
- - [New &#39;Messi Meets America&#39; series hits Apple TV+ soon](https://appleinsider.com/articles/23/10/02/apple-reveals-teaser-for-new-messi-meets-america-series?utm_medium=rss)<!-- TECH:END -->
+ - [How I Use Sleep Deprivation as a Productivity Tool, and Why That&#39;s a Horrible Idea     - CNET](https://www.cnet.com/health/sleep/how-i-use-sleep-deprivation-as-a-productivity-tool-and-why-thats-a-horrible-idea/#ftag=CAD590a51e)
+ - [Who wins when telehealth companies push weight loss drugs?](https://www.theverge.com/23878992/ro-ozempic-subway-ads-telehealth-weight-loss-drugs)
+ - [Garmin Vivoactive 5 review: Should you buy it?](https://www.androidauthority.com/garmin-vivoactive-5-review-3369028/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
