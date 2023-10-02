@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hasn&#39;t leaked a MacBook Pro with Dynamic Island](https://appleinsider.com/articles/23/10/02/apple-hasnt-leaked-a-macbook-pro-with-dynamic-island?utm_medium=rss)
- - [Without irony, Microsoft CEO says Google unfairly dominates search](https://appleinsider.com/articles/23/10/02/without-irony-microsoft-ceo-says-google-unfairly-dominates-search?utm_medium=rss)
- - [TikTok is considering offering an ad-free subscription to keep up with rival platforms](https://appleinsider.com/articles/23/10/02/tiktok-is-considering-offering-an-ad-free-subscription-to-keep-up-with-rival-platforms?utm_medium=rss)<!-- TECH:END -->
+ - [Best Gaming Gifts for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-gifts-for-holiday-season-2023/#ftag=CAD590a51e)
+ - [Google Pixel Buds Pro rumor says conversation detection is coming in an update](https://www.theverge.com/2023/10/2/23900272/google-pixel-buds-pro-rumor-leak-software-update-conversation-detection)
+ - [MLB Playoffs: How to Watch the Wild Card Games Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/mlb-playoffs-how-to-watch-the-wild-card-games-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
