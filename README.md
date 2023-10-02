@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox’s Celebration of the Gaming &amp; Disability Community Continues to Flourish with Special Olympics Partnership](https://news.xbox.com/en-us/2023/10/02/xbox-gaming-disability-special-olympics/)
- - [Where to pre-order Princess Peach: Showtime before it launches in March 2024](https://www.polygon.com/deals/23896136/princess-peach-showtime-pre-order-buy-guide-nintendo-switch)
- - [Even Fans Are Shocked By EA Sports FC 24’s ‘Awful’ $30 Loot Box](https://kotaku.com/ea-fifa-24-fc-loot-box-ultimate-team-pack-odds-scam-1850891916)<!-- GAME:END -->
+ - [Nerf World Brings Blasters into Minecraft](https://www.minecraft.net/article/nerf-world-brings-blasters-minecraft%20#new_tab)
+ - [You should watch Fright Krewe, because we need more shows like Fright Krewe](https://www.polygon.com/23893055/fright-krewe-dreamworks-hulu-review)
+ - [You can already hack Ray Reconstruction into Cyberpunk 2077 without the path tracing limitation, but Nvidia promises to open it up officially soon](https://www.pcgamer.com/you-can-already-hack-ray-reconstruction-into-cyberpunk-2077-without-the-path-tracing-limitation-but-nvidia-promises-to-open-it-up-officially-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
