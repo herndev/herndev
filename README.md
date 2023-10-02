@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyborg immersive sim Core Decay still has those System Shock, Deus Ex vibes in a brand new trailer](https://www.pcgamer.com/cyborg-immersive-sim-core-decay-still-has-those-system-shock-deus-ex-vibes-in-a-brand-new-trailer)
  - [Colony sim Ascent of Ashes, by a former RimWorld mod team, will hit in November](https://www.pcgamer.com/colony-sim-ascent-of-ashes-by-a-former-rimworld-mod-team-will-hit-in-november)
- - [Check out free retro-RPG Moonring, made by an industry vet and Fable designer in classic Ultima style](https://www.pcgamer.com/check-out-free-retro-rpg-moonring-made-by-an-industry-vet-and-fable-designer-classic-in-ultima-style)
- - [Try to remain calm but Factorio is adding elevated trains](https://www.pcgamer.com/try-to-remain-calm-but-factorio-is-adding-elevated-trains)<!-- GAME:END -->
+ - [Check out free retro-RPG Moonring, made by an industry vet and Fable designer in classic Ultima style](https://www.pcgamer.com/check-out-free-retro-rpg-moonring-made-by-an-industry-vet-and-fable-designer-classic-in-ultima-style)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
