@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next foldable Pixel might not be the Pixel Fold 2](https://www.androidauthority.com/pixel-fold-2-potential-codename-3370587/)
- - [Sources: ByteDance plans a buyback from employees at a $223.5B valuation, down 26% YoY; it made $20B+ in operating profit in 2022, but revenue growth slowed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p15#a231002p15)
- - [Best Xbox Game Pass Deals: Discounted Subscriptions Starting at $3 a Month     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Instagram seeks to revive interest in Threads by meeting with creators, working to make Threads a place for real-time updates on big events, and more &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/231002/p17#a231002p17)
+ - [October Deal Days extends to popular software, from Office for Mac for $32.97 to Windows 11 Pro for $29.97](https://appleinsider.com/articles/23/10/02/october-deal-days-extends-to-popular-software-from-office-for-mac-for-3297-to-windows-11-pro-for-2997?utm_medium=rss)
+ - [X Social Media is suing X, a social media company](https://www.theverge.com/2023/10/2/23900434/x-lawsuit-trademark-unfair-competition-elon-musk-twitter-florida)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
