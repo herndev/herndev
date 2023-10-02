@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra with microLED display expected in 2025](https://appleinsider.com/articles/23/10/02/apple-watch-ultra-with-microled-display-expected-in-2025?utm_medium=rss)
- - [The OnePlus Open and OPPO Find N3 are confirmed to be the same phone](https://www.androidauthority.com/oneplus-open-oppo-find-n3-2-3370405/)
- - [Apple drops all human support on X](https://appleinsider.com/articles/23/10/02/apple-drops-all-human-support-on-x?utm_medium=rss)<!-- TECH:END -->
+ - [Paris Hilton and her company 11:11 Media sign a partnership with X to create four original video content programs per year to promote X&#39;s Live Shopping product &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231002/p10#a231002p10)
+ - [OnePlus says yes, its debut foldable phone is a rebadged Oppo](https://www.theverge.com/2023/10/2/23899784/oneplus-open-oppo-find-n3-foldables-same-phone-android)
+ - [The new Echo Show devices start from $40 as prices plunge to record lows](https://www.androidauthority.com/echo-show-deals-3370445/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
