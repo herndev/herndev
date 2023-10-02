@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella tells a court that Bing is worse than Google — and Apple could fix it](https://www.theverge.com/2023/10/2/23900233/microsoft-ceo-satya-nadella-us-google-antitrust-trial-testimony)
- - [Elon Musk sued for defamation for falsely identifying man as neo-Nazi protestor](https://www.theverge.com/2023/10/2/23900223/elon-musk-neo-nazi-defamation-lawsuit-fed-agent)
- - [OnePlus Open’s first official look shows off new gapless hinge](https://www.androidauthority.com/oneplus-open-official-look-3370501/)<!-- TECH:END -->
+ - [Apple hasn&#39;t leaked a MacBook Pro with Dynamic Island](https://appleinsider.com/articles/23/10/02/apple-hasnt-leaked-a-macbook-pro-with-dynamic-island?utm_medium=rss)
+ - [Without irony, Microsoft CEO says Google unfairly dominates search](https://appleinsider.com/articles/23/10/02/without-irony-microsoft-ceo-says-google-unfairly-dominates-search?utm_medium=rss)
+ - [TikTok is considering offering an ad-free subscription to keep up with rival platforms](https://appleinsider.com/articles/23/10/02/tiktok-is-considering-offering-an-ad-free-subscription-to-keep-up-with-rival-platforms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
