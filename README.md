@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unique Rogue-lite, Deflector, is Out Now on Xbox Consoles](https://news.xbox.com/en-us/2023/10/02/unique-rogue-lite-deflector-is-out-now-on-xbox-consoles/)
- - [Loki season 2, Our Flag Means Death season 2, a Netflix heist thriller, and more new TV this week](https://www.polygon.com/2023/10/2/23894090/loki-season-2-netflix-thriller-tv-new-ofmd-omitb-finale)
- - [The Pokémon Anime’s Spookiest Episode Aired 25 Years Ago Today](https://kotaku.com/pokemon-gastly-anime-episode-ghost-of-maidens-peak-1850892373)<!-- GAME:END -->
+ - [The Overwatch League Grand Finals Were Both Beautiful And Depressing](https://kotaku.com/overwatch-league-grand-finals-2023-owl-ending-mvp-1850892928)
+ - [Cocoon review](https://www.pcgamer.com/cocoon-review)
+ - [Unique Rogue-lite, Deflector, is Out Now on Xbox Consoles](https://news.xbox.com/en-us/2023/10/02/unique-rogue-lite-deflector-is-out-now-on-xbox-consoles/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
