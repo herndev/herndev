@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stretch so well that it turns into cramp](http://9gag.com/gag/aeQqX9b)
- - ⏩ [It&#39;s funny because it&#39;s true but also very sad because it&#39;s true. Mostly sad.](http://9gag.com/gag/avQBbzX)
- - 👉 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)<!-- MEMES:END -->
+ - 💣 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
+ - ⏩ [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)<!-- MEMES:END -->
 
 ---
 
