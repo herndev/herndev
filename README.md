@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Gaming Gifts for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-gifts-for-holiday-season-2023/#ftag=CAD590a51e)
- - [Google Pixel Buds Pro rumor says conversation detection is coming in an update](https://www.theverge.com/2023/10/2/23900272/google-pixel-buds-pro-rumor-leak-software-update-conversation-detection)
- - [MLB Playoffs: How to Watch the Wild Card Games Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/mlb-playoffs-how-to-watch-the-wild-card-games-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The next foldable Pixel might not be the Pixel Fold 2](https://www.androidauthority.com/pixel-fold-2-potential-codename-3370587/)
+ - [Sources: ByteDance plans a buyback from employees at a $223.5B valuation, down 26% YoY; it made $20B+ in operating profit in 2022, but revenue growth slowed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p15#a231002p15)
+ - [Best Xbox Game Pass Deals: Discounted Subscriptions Starting at $3 a Month     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
