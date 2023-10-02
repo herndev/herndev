@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - ⏩ [Historically accurate costumes](http://9gag.com/gag/agopWg6)
- - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
+ - ⏩ [Sorry for that.](http://9gag.com/gag/a6qePom)
+ - 👉 [Historically accurate costumes](http://9gag.com/gag/agopWg6)<!-- MEMES:END -->
 
 ---
 
