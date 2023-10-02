@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - ⏩ [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 👉 [Historically accurate costumes](http://9gag.com/gag/agopWg6)<!-- MEMES:END -->
+ - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - ⏩ [Historically accurate costumes](http://9gag.com/gag/agopWg6)
+ - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
 
 ---
 
