@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s October Prime Day starts in 1 week, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)
- - [The new Samsung microSD took just a month to get a 30% price drop](https://www.androidauthority.com/samsung-pro-ultimate-microsd-deal-3370498/)
- - [US v. Google: Satya Nadella says Google cemented search dominance via mobile default search deals with Apple and he may have been overenthusiastic about ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p11#a231002p11)<!-- TECH:END -->
+ - [Satya Nadella tells a court that Bing is worse than Google — and Apple could fix it](https://www.theverge.com/2023/10/2/23900233/microsoft-ceo-satya-nadella-us-google-antitrust-trial-testimony)
+ - [Elon Musk sued for defamation for falsely identifying man as neo-Nazi protestor](https://www.theverge.com/2023/10/2/23900223/elon-musk-neo-nazi-defamation-lawsuit-fed-agent)
+ - [OnePlus Open’s first official look shows off new gapless hinge](https://www.androidauthority.com/oneplus-open-official-look-3370501/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
