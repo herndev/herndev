@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyborg immersive sim Core Decay still has those System Shock, Deus Ex vibes in a brand new trailer](https://www.pcgamer.com/cyborg-immersive-sim-core-decay-still-has-those-system-shock-deus-ex-vibes-in-a-brand-new-trailer)
- - [Colony sim Ascent of Ashes, by a former RimWorld mod team, will hit in November](https://www.pcgamer.com/colony-sim-ascent-of-ashes-by-a-former-rimworld-mod-team-will-hit-in-november)
- - [Check out free retro-RPG Moonring, made by an industry vet and Fable designer in classic Ultima style](https://www.pcgamer.com/check-out-free-retro-rpg-moonring-made-by-an-industry-vet-and-fable-designer-classic-in-ultima-style)<!-- GAME:END -->
+ - [The Drifter is a point-and-click adventure that&#39;s also a fast-paced thriller](https://www.pcgamer.com/the-drifter-is-a-point-and-click-adventure-thats-also-a-fast-paced-thriller)
+ - [Wordle today: Hint and answer for #835 Monday, October 2](https://www.pcgamer.com/wordle-today-answer-835-october-2)
+ - [Cyborg immersive sim Core Decay still has those System Shock, Deus Ex vibes in a brand new trailer](https://www.pcgamer.com/cyborg-immersive-sim-core-decay-still-has-those-system-shock-deus-ex-vibes-in-a-brand-new-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
