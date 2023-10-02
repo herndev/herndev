@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Justice for melee weapons: a Cyberpunk 2077 modder has rectified the game&#39;s biggest oversight for stealth play](https://www.pcgamer.com/justice-for-melee-weapons-a-cyberpunk-2077-modder-has-rectified-the-games-biggest-oversight-for-stealth-play)
- - [CCP&#39;s CEO on life, the universe, and EVE Online: &#39;It&#39;s worthwhile to spend our lives taking care of it&#39;](https://www.pcgamer.com/ccps-ceo-on-life-the-universe-and-eve-online-its-worthwhile-to-spend-our-lives-taking-care-of-it)
- - [Warzone 2&#39;s coolest gun ever is a low-framerate recreation of a super classic we all know and love](https://www.pcgamer.com/warzone-2s-coolest-gun-ever-is-a-low-framerate-recreation-of-a-super-classic-we-all-know-and-love)<!-- GAME:END -->
+ - [Colony sim Ascent of Ashes, by a former RimWorld mod team, will hit in November](https://www.pcgamer.com/colony-sim-ascent-of-ashes-by-a-former-rimworld-mod-team-will-hit-in-november)
+ - [Check out free retro-RPG Moonring, made by an industry vet and Fable designer in classic Ultima style](https://www.pcgamer.com/check-out-free-retro-rpg-moonring-made-by-an-industry-vet-and-fable-designer-classic-in-ultima-style)
+ - [Try to remain calm but Factorio is adding elevated trains](https://www.pcgamer.com/try-to-remain-calm-but-factorio-is-adding-elevated-trains)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
