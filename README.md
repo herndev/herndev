@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shine From the Shadows With the Gold Shadow Special Edition Controller](https://news.xbox.com/en-us/2023/10/03/xbox-gold-shadow-controller-special-edition/)
- - [Cast your votes now for the 2023 Golden Joystick Awards](https://www.pcgamer.com/cast-your-votes-now-for-the-2023-golden-joystick-awards)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Barbie makes her Roblox debut with Barbie Dreamhouse Tycoon](https://www.polygon.com/23893368/barbie-dreamhouse-tycoon-game-roblox-release-date)
+ - [How to complete Talent Academy in Cyberpunk 2077: Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-talent-academy-choice)
+ - [Celebrate October 3 by watching Mean Girls for free in 23 separate parts](https://www.polygon.com/23901274/mean-girls-watch-free-tiktok-oct-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
