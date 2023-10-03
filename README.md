@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)
- - [Oops, Microsoft&#39;s AI chatbot is offering up malvertisements in responses](https://www.pcgamer.com/oops-microsofts-ai-chatbot-is-offering-up-malvertisements-in-responses)
- - [Sony Now Giving Away Free Games To Sell PS5s [Update: Only To Some Players]](https://kotaku.com/sony-playstation-ps5-spider-man-2-free-deal-discount-1850870042)<!-- GAME:END -->
+ - [Fans Split After Final Fantasy VII Rebirth Reveals ‘Cait Sith’ Pronunciation](https://kotaku.com/final-fantasy-7-rebirth-remake-cait-sith-pronounce-vii-1850896803)
+ - [Watch the deleted Prey scene director Dan Trachtenberg was bummed to cut](https://www.polygon.com/23900188/prey-deleted-scene-4k-release-director-dan-trachtenberg-commentary)
+ - [Where to unlock all the new content in FFXIV patch 6.5](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23901452/patch-6-5-content-unlock-trial-dungeon-msq-raid)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
