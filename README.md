@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google, Amazon face Australian big tech influence probe](https://appleinsider.com/articles/23/10/03/apple-google-amazon-face-australian-big-tech-influence-probe?utm_medium=rss)
- - [Apple starts requiring a Chinese government license to publish new apps on the China App Store, after China tightened its oversight over mobile apps in August &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231003/p7#a231003p7)
- - [Patrick Stewart Boldly Explores His Own Final Frontier](https://www.wired.com/story/patrick-stewart-memoir/)<!-- TECH:END -->
+ - [Instacart will accept Medicare Advantage for grocery orders](https://www.theverge.com/2023/10/3/23900758/instacart-medicare-advantage-medicaid-grocery-delivery)
+ - [Filings: Niklas Zennstr&amp;ouml;m&#39;s VC firm Atomico raised $1.1B across two funds, among the largest such raises this year in Europe, as it nears its goal of $1.35B &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/231003/p9#a231003p9)
+ - [India Is Using Terrorism Laws to Target Journalists](https://www.wired.com/story/india-is-using-terrorism-laws-to-target-journalists/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
