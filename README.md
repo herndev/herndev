@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Physics.](http://9gag.com/gag/anz0Ajb)
- - ⏩ [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)
- - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
+ - 💣 [A proud padre](http://9gag.com/gag/avQBbEq)
+ - ⏩ [Coins stonks](http://9gag.com/gag/adPM0pZ)
+ - 👉 [So cool!](http://9gag.com/gag/a8q9ddY)<!-- MEMES:END -->
 
 ---
 
