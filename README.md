@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A preview of the Sam Bankman-Fried trial, which begins Tuesday with jury selection, the seven charges, key witnesses, the legal strategies, and more &lpar;Molly White&rpar;](http://www.techmeme.com/231003/p3#a231003p3)
- - [TikTok is testing an ad-free monthly subscription plan &lpar;Update: Confirmation&rpar;](https://www.androidauthority.com/tiktok-testing-ad-free-monthly-subscription-plan-3370353/)
- - [The Tensor G3 could be a surprisingly big upgrade for the Pixel 8](https://www.androidauthority.com/google-tensor-g3-specs-leak-3369648/)<!-- TECH:END -->
+ - [Apple bows to China, starts enforcing App Store rules](https://appleinsider.com/articles/23/10/03/apple-bows-to-china-starts-enforcing-app-store-rules?utm_medium=rss)
+ - [V&amp;#283;ra Jourov&amp;aacute;, one of two commissioners overseeing the enactment of EU&#39;s AI law, warns against being &quot;paranoid&quot; or too restrictive when regulating generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/231003/p6#a231003p6)
+ - [Japan&#39;s government approves ~$1.3B in subsidies for US chipmaker Micron&#39;s plant in Hiroshima Prefecture, set to mass produce next-generation memory chips &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/231003/p5#a231003p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
