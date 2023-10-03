@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - ⏩ [Physics.](http://9gag.com/gag/anz0Ajb)
- - 👉 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)<!-- MEMES:END -->
+ - 💣 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
+ - ⏩ [You breast watch your step ma\u2019am\u2026](http://9gag.com/gag/aREGw0q)
+ - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
 
 ---
 
