@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Being the Best of the Worst: Tips and Strategies for The Lamplighters League](https://news.xbox.com/en-us/2023/10/03/best-of-the-worst-tips-and-strategies-the-lamplighters-league/)
- - [John Woo will reinvent action movies &lpar;and Christmas&rpar; once again with Silent Night](https://www.polygon.com/23900521/silent-night-john-woo-trailer-hell-yeah)
- - [These Cheaper, Tinier Lego-Like Blocks Are Every Bit As Fun To Build](https://kotaku.com/lego-titanic-nanoblock-bricks-cheap-temu-aliexpress-1850895153)<!-- GAME:END -->
+ - [High On Life’s DLC Is Out Today – Let’s Talk About Horror!](https://news.xbox.com/en-us/2023/10/03/high-on-life-knife-dlc-horror/)
+ - [Elon Musk&#39;s Diablo IV Play Isn&#39;t Bad But His Twitter Livestream Sure Was](https://kotaku.com/twitter-elon-musk-diablo-4-stream-twitch-youtube-1850895618)
+ - [Starfield truly beaten as player constructs faithful and ludicrously huge Star Destroyer after taking build limiters off: &#39;It&#39;s not practical at all but it was worth it&#39;](https://www.pcgamer.com/starfield-truly-beaten-as-player-constructs-faithful-and-ludicrously-huge-star-destroyer-after-taking-build-limiters-off-its-not-practical-at-all-but-it-was-worth-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
