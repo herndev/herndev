@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Delta &lpar;2310.230928-1038&rpar;](https://news.xbox.com/en-us/2023/10/03/xbox-insider-release-notes-delta-2310-230928-1038/)
- - [Xbox Insider Release Notes – Beta &lpar;2310.230928-1038&rpar;](https://news.xbox.com/en-us/2023/10/03/xbox-insider-release-notes-beta-2310-230928-1038/)
- - [Naughty Dog reportedly lays off contract workers as troubled The Last of Us spinoff shooter faces an uncertain future](https://www.pcgamer.com/naughty-dog-reportedly-lays-off-contract-workers-as-troubled-the-last-of-us-spinoff-shooter-faces-an-uncertain-future)<!-- GAME:END -->
+ - [This party game is like Jackbox, except you&#39;re causing or preventing humanity&#39;s extinction—you can probably guess which side I picked](https://www.pcgamer.com/this-party-game-is-like-jackbox-except-youre-causing-or-preventing-humanitys-extinctionyou-can-probably-guess-which-side-i-picked)
+ - [Minecraft&#39;s first mob vote candidate for this year is a tiny, handy crab](https://www.pcgamer.com/minecrafts-first-mob-vote-candidate-for-this-year-is-a-tiny-handy-crab)
+ - [Where to unlock the Thaleia alliance raid in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23901295/thaleia-unlock-myths-of-the-realm-loot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
