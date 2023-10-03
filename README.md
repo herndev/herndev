@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - ⏩ [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 👉 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)<!-- MEMES:END -->
+ - 💣 [3.OCT.11 never forget](http://9gag.com/gag/aVb9GQP)
+ - ⏩ [We dont control the media](http://9gag.com/gag/aGEqKDw)
+ - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
 
 ---
 
