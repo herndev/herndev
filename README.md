@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 💣 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
  - ⏩ [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 👉 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)<!-- MEMES:END -->
+ - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
 
 ---
 
