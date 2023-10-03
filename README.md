@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This party game is like Jackbox, except you&#39;re causing or preventing humanity&#39;s extinction—you can probably guess which side I picked](https://www.pcgamer.com/this-party-game-is-like-jackbox-except-youre-causing-or-preventing-humanitys-extinctionyou-can-probably-guess-which-side-i-picked)
- - [Minecraft&#39;s first mob vote candidate for this year is a tiny, handy crab](https://www.pcgamer.com/minecrafts-first-mob-vote-candidate-for-this-year-is-a-tiny-handy-crab)
- - [Where to unlock the Thaleia alliance raid in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23901295/thaleia-unlock-myths-of-the-realm-loot)<!-- GAME:END -->
+ - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)
+ - [Oops, Microsoft&#39;s AI chatbot is offering up malvertisements in responses](https://www.pcgamer.com/oops-microsofts-ai-chatbot-is-offering-up-malvertisements-in-responses)
+ - [Sony Now Giving Away Free Games To Sell PS5s [Update: Only To Some Players]](https://kotaku.com/sony-playstation-ps5-spider-man-2-free-deal-discount-1850870042)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
