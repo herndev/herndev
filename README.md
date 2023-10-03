@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two guys attempt to rob a grocery store in England and promptly apprehended by locals](http://9gag.com/gag/aPg0wpR)
- - ⏩ [You breast watch your step ma\u2019am\u2026](http://9gag.com/gag/aREGw0q)
- - 👉 [Take care of yourself.](http://9gag.com/gag/aoK6mgx)<!-- MEMES:END -->
+ - 💣 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
+ - ⏩ [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
+ - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
 
 ---
 
