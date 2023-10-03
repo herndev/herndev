@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried Is a Terrible Client](https://www.wired.com/story/sam-bankman-fried-trial-terrible-client/)
- - [Meta’s head of news relations, Campbell Brown, has stepped down](https://www.theverge.com/2023/10/3/23901489/meta-campbell-brown-leaving-meta-facebook-news)
- - [Researchers say it is easy to &quot;wash out&quot; watermarks on AI images, which makes it less likely that online services could reliably flag AI-generated content &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231003/p19#a231003p19)<!-- TECH:END -->
+ - [How to find the best deals during Amazon’s October Prime Day event](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
+ - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)
+ - [Apple issues second iOS 17.1, iPadOS 17.1 developer betas](https://appleinsider.com/articles/23/10/03/apple-issues-second-ios-171-ipados-171-developer-betas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
