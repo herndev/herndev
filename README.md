@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Unitary, an AI-based visual content moderation tool which is currently classifying 6M videos per day, raised a $15M Series A led by Creandum &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/231003/p1#a231003p1)
  - [Sources: Meta pitched a plan to EU regulators to charge European users a subscription fee to use Facebook and Instagram without ads starting at &amp;euro;10 per month &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/231002/p21#a231002p21)
- - [How to use the new spirit level in the iOS 17 Camera app](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-spirit-level-in-the-ios-17-camera-app?utm_medium=rss)
- - [Investigation: several Taiwanese tech companies are secretly helping Huawei build chip plants in southern China, an unusual collaboration with political risks &lpar;Bloomberg&rpar;](http://www.techmeme.com/231002/p20#a231002p20)<!-- TECH:END -->
+ - [How to use the new spirit level in the iOS 17 Camera app](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-spirit-level-in-the-ios-17-camera-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
