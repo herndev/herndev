@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3.OCT.11 never forget](http://9gag.com/gag/aVb9GQP)
- - ⏩ [We dont control the media](http://9gag.com/gag/aGEqKDw)
- - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
+ - 💣 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - ⏩ [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
+ - 👉 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)<!-- MEMES:END -->
 
 ---
 
