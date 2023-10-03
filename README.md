@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom unveils collaborative document editing, featuring the ability to include information and AI-generated summaries from Zoom meetings, set to arrive in 2024 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231003/p24#a231003p24)
- - [FTC&#39;s suit against Amazon describes an algorithm where Amazon would raise product prices and hold them there if rivals followed, allegedly showing consumer harm &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/231003/p23#a231003p23)
- - [The Cruz BlenderCap lets you make smoothies and shakes on the go](https://www.theverge.com/23901697/cruz-blendercap-review)<!-- TECH:END -->
+ - [Report: Apple should explain how it defines product &quot;carbon neutrality&quot; after it stopped requiring suppliers to disclose greenhouse gas emissions data this year &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231003/p26#a231003p26)
+ - [Zoom Docs launches in 2024 with built-in AI collaboration features](https://www.theverge.com/2023/10/3/23901656/zoom-docs-ai-companion-meeting-summaries-project-management)
+ - [Helium, the decentralized cellular network working with T-Mobile, debuts $250 home hotspots for Miamians, as the company looks for a sustainable business model &lpar;Jack Kubinec/Blockworks&rpar;](http://www.techmeme.com/231003/p25#a231003p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
