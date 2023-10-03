@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - ⏩ [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
+ - ⏩ [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
  - 👉 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)<!-- MEMES:END -->
 
 ---
