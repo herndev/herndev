@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel plans to turn its Programmable Solutions Group into a standalone business and either sell shares to the public or seek an investor for it &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231003/p29#a231003p29)
- - [Code sleuth discovers reference to Apple Pencil charging via USB-C](https://appleinsider.com/articles/23/10/03/code-sleuth-discovers-reference-to-apple-pencil-charging-via-usb-c?utm_medium=rss)
- - [Meta’s text chat for Horizon Worlds is rolling out to all users](https://www.theverge.com/2023/10/3/23902021/meta-horizon-worlds-text-chat-vr)<!-- TECH:END -->
+ - [Developers take note: Apple Silicon is required to develop apps for visionOS](https://appleinsider.com/articles/23/10/03/developers-take-note-apple-silicon-is-required-to-develop-apps-for-visionos?utm_medium=rss)
+ - [A US judge rules X violated its duties to cover employee legal expenses and must pay $1.1M in fees to Parag Agrawal, Vijaya Gadde, and other former executives &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231003/p33#a231003p33)
+ - [Microsoft rolls out DALL-E 3 to all Bing Chat and Bing Image Creator users; OpenAI plans to roll out DALL-E 3 to paying ChatGPT subscribers later in October &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231003/p32#a231003p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
