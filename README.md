@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [As longtime hosts say thanks for the memories, the Overwatch League as we know it is dead—but Activision promises a &#39;revitalized esports program&#39; is in the works](https://www.pcgamer.com/as-longtime-hosts-say-thanks-for-the-memories-the-overwatch-league-as-we-know-it-is-deadbut-activision-promises-a-revitalized-esports-program-is-in-the-works)
  - [This modder made such a great change to Starfield&#39;s food it&#39;s actually making me hungry](https://www.pcgamer.com/this-modder-made-such-a-great-change-to-starfields-food-its-actually-making-me-hungry)
- - [Epic Games head of publishing strategy Sergiy Galyonkin has left the company: &#39;I am not a good fit for this new version of Epic&#39;](https://www.pcgamer.com/epic-games-head-of-publishing-strategy-sergiy-galyonkin-has-left-the-company-i-am-not-a-good-fit-for-this-new-version-of-epic)
- - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)<!-- GAME:END -->
+ - [Epic Games head of publishing strategy Sergiy Galyonkin has left the company: &#39;I am not a good fit for this new version of Epic&#39;](https://www.pcgamer.com/epic-games-head-of-publishing-strategy-sergiy-galyonkin-has-left-the-company-i-am-not-a-good-fit-for-this-new-version-of-epic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
