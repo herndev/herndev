@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
+ - 💣 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
  - ⏩ [You breast watch your step ma\u2019am\u2026](http://9gag.com/gag/aREGw0q)
- - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
+ - 👉 [Take care of yourself.](http://9gag.com/gag/aoK6mgx)<!-- MEMES:END -->
 
 ---
 
