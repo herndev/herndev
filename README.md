@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A preview of the Sam Bankman-Fried trial, which begins Tuesday with jury selection, the seven charges, key witnesses, the legal strategies, and more &lpar;Molly White&rpar;](http://www.techmeme.com/231003/p3#a231003p3)
  - [TikTok is testing an ad-free monthly subscription plan &lpar;Update: Confirmation&rpar;](https://www.androidauthority.com/tiktok-testing-ad-free-monthly-subscription-plan-3370353/)
- - [The Tensor G3 could be a surprisingly big upgrade for the Pixel 8](https://www.androidauthority.com/google-tensor-g3-specs-leak-3369648/)
- - [Cape Town-based Stitch, which enables businesses to build, optimize, and scale financial products using its APIs, raised a $25M Series A extension led by Ribbit &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231003/p2#a231003p2)<!-- TECH:END -->
+ - [The Tensor G3 could be a surprisingly big upgrade for the Pixel 8](https://www.androidauthority.com/google-tensor-g3-specs-leak-3369648/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
