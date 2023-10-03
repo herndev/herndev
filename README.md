@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade adds four new games, 30 updates coming in October](https://appleinsider.com/articles/23/10/03/apple-arcade-adds-four-new-games-30-updates-coming-in-october?utm_medium=rss)
- - [Epic Games plans to add IARC age ratings to &quot;all first- and third-party playable content&quot; in Fortnite, starting November 14 &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/231003/p15#a231003p15)
- - [Frec, which uses AI to let customers create their own investment strategies, comes out of stealth with $26.4M in Series A and seed funding led by Greylock &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231003/p14#a231003p14)<!-- TECH:END -->
+ - [Netflix is planning to raise prices... again](https://www.theverge.com/2023/10/3/23901315/netflix-subscription-price-raise-wga-strike)
+ - [Plugable Thunderbolt 4 and USB4 Docking Station offers 100W and dual 4K support](https://appleinsider.com/articles/23/10/03/plugable-thunderbolt-4-and-usb4-docking-station-offers-100w-and-dual-4k-support?utm_medium=rss)
+ - [Loki season 2 is a quirky timeline cleanse before the next big Marvel event](https://www.theverge.com/23901027/loki-season-2-review-marvel-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
