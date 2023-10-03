@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A proud padre](http://9gag.com/gag/avQBbEq)
- - ⏩ [Coins stonks](http://9gag.com/gag/adPM0pZ)
- - 👉 [So cool!](http://9gag.com/gag/a8q9ddY)<!-- MEMES:END -->
+ - 💣 [So cool!](http://9gag.com/gag/a8q9ddY)
+ - ⏩ [We dont control the media](http://9gag.com/gag/aGEqKDw)
+ - 👉 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)<!-- MEMES:END -->
 
 ---
 
