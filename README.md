@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Last Of Us Studio Naughty Dog Is Cutting Developers](https://kotaku.com/naughty-dog-ps5-playstation-sony-last-us-part-3-layoffs-1850893794)
  - [Baldur&#39;s Gate 3&#39;s new hotfix reverses history&#39;s most controversial feline glow-up and stops your companions acting &#39;like a toddler in a grocery store&#39;](https://www.pcgamer.com/baldurs-gate-3s-new-hotfix-reverses-historys-most-controversial-feline-glow-up-and-stops-your-companions-acting-like-a-toddler-in-a-grocery-store)
- - [The new Minecraft DLC is a fully voiced D&amp;D adventure](https://www.pcgamer.com/the-new-minecraft-dlc-is-a-fully-voiced-dandd-adventure)
- - [Can Slowpoke be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889390/can-slowpoke-be-shiny-slowbro-slowking-mega-galarian)<!-- GAME:END -->
+ - [The new Minecraft DLC is a fully voiced D&amp;D adventure](https://www.pcgamer.com/the-new-minecraft-dlc-is-a-fully-voiced-dandd-adventure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
