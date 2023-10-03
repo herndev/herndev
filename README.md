@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find the best deals during Amazon’s October Prime Day event](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)
- - [Apple issues second iOS 17.1, iPadOS 17.1 developer betas](https://appleinsider.com/articles/23/10/03/apple-issues-second-ios-171-ipados-171-developer-betas?utm_medium=rss)<!-- TECH:END -->
+ - [Zoom unveils collaborative document editing, featuring the ability to include information and AI-generated summaries from Zoom meetings, set to arrive in 2024 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231003/p24#a231003p24)
+ - [FTC&#39;s suit against Amazon describes an algorithm where Amazon would raise product prices and hold them there if rivals followed, allegedly showing consumer harm &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/231003/p23#a231003p23)
+ - [The Cruz BlenderCap lets you make smoothies and shakes on the go](https://www.theverge.com/23901697/cruz-blendercap-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
