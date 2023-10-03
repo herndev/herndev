@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - ⏩ [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
- - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
+ - 💣 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
+ - ⏩ [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
+ - 👉 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)<!-- MEMES:END -->
 
 ---
 
