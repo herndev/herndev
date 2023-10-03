@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: Forza Motorsport, Like A Dragon: Ishin!, Warhammer 40,000: Darktide, and From Space](https://news.xbox.com/en-us/2023/10/03/game-pass-october-2023-wave-1-announce/)
- - [WarioWare: Move It! gets back to basics with some really good butt stuff](https://www.polygon.com/23900277/warioware-move-it-nintendo-switch-impressions)
- - [Elon Musk streams Diablo 4 as part of his latest doomed quest to turn X into a Twitch killer](https://www.pcgamer.com/elon-musk-streams-diablo-4-as-part-of-his-latest-doomed-quest-to-turn-x-into-a-twitch-killer)<!-- GAME:END -->
+ - [Shine From the Shadows With the Gold Shadow Special Edition Controller](https://news.xbox.com/en-us/2023/10/03/xbox-gold-shadow-controller-special-edition/)
+ - [Cast your votes now for the 2023 Golden Joystick Awards](https://www.pcgamer.com/cast-your-votes-now-for-the-2023-golden-joystick-awards)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
