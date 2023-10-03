@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [High On Life’s DLC Is Out Today – Let’s Talk About Horror!](https://news.xbox.com/en-us/2023/10/03/high-on-life-knife-dlc-horror/)
- - [Elon Musk&#39;s Diablo IV Play Isn&#39;t Bad But His Twitter Livestream Sure Was](https://kotaku.com/twitter-elon-musk-diablo-4-stream-twitch-youtube-1850895618)
- - [Starfield truly beaten as player constructs faithful and ludicrously huge Star Destroyer after taking build limiters off: &#39;It&#39;s not practical at all but it was worth it&#39;](https://www.pcgamer.com/starfield-truly-beaten-as-player-constructs-faithful-and-ludicrously-huge-star-destroyer-after-taking-build-limiters-off-its-not-practical-at-all-but-it-was-worth-it)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Delta &lpar;2310.230928-1038&rpar;](https://news.xbox.com/en-us/2023/10/03/xbox-insider-release-notes-delta-2310-230928-1038/)
+ - [Xbox Insider Release Notes – Beta &lpar;2310.230928-1038&rpar;](https://news.xbox.com/en-us/2023/10/03/xbox-insider-release-notes-beta-2310-230928-1038/)
+ - [Naughty Dog reportedly lays off contract workers as troubled The Last of Us spinoff shooter faces an uncertain future](https://www.pcgamer.com/naughty-dog-reportedly-lays-off-contract-workers-as-troubled-the-last-of-us-spinoff-shooter-faces-an-uncertain-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
