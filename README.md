@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - ⏩ [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
- - 👉 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)<!-- MEMES:END -->
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
+ - ⏩ [We dont control the media](http://9gag.com/gag/aGEqKDw)
+ - 👉 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)<!-- MEMES:END -->
 
 ---
 
