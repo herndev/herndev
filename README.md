@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is planning to raise prices... again](https://www.theverge.com/2023/10/3/23901315/netflix-subscription-price-raise-wga-strike)
- - [Plugable Thunderbolt 4 and USB4 Docking Station offers 100W and dual 4K support](https://appleinsider.com/articles/23/10/03/plugable-thunderbolt-4-and-usb4-docking-station-offers-100w-and-dual-4k-support?utm_medium=rss)
- - [Loki season 2 is a quirky timeline cleanse before the next big Marvel event](https://www.theverge.com/23901027/loki-season-2-review-marvel-disney-plus)<!-- TECH:END -->
+ - [Raspberry Pi 5 vs Raspberry Pi 4: Which single-board computer should you buy?](https://www.androidauthority.com/raspberry-pi-5-vs-raspberry-pi-4-3370847/)
+ - [HMD is building Nokia phones in Europe as customers demand more security](https://www.theverge.com/2023/10/3/23901265/hmd-nokia-xr21-made-in-europe-smartphone)
+ - [New report casts doubt on Apple’s first ‘carbon neutral’ products](https://www.theverge.com/2023/10/3/23901236/apple-carbon-neutral-watch-report-supply-chain-emissions-transparency)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
