@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Split After Final Fantasy VII Rebirth Reveals ‘Cait Sith’ Pronunciation](https://kotaku.com/final-fantasy-7-rebirth-remake-cait-sith-pronounce-vii-1850896803)
- - [Watch the deleted Prey scene director Dan Trachtenberg was bummed to cut](https://www.polygon.com/23900188/prey-deleted-scene-4k-release-director-dan-trachtenberg-commentary)
- - [Where to unlock all the new content in FFXIV patch 6.5](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23901452/patch-6-5-content-unlock-trial-dungeon-msq-raid)<!-- GAME:END -->
+ - [Attack On Titan Is Getting A ‘Bonus’ Manga Chapter 2.5 Years After Its Divisive Ending](https://kotaku.com/attack-on-titan-volume-35-eren-jaeger-hajime-isayama-1850897216)
+ - [Old School Runescape player goes on an emotional roller coaster after hackers strip his account of items worth 4.8 billion in gold](https://www.pcgamer.com/old-school-runescape-player-goes-on-an-emotional-roller-coaster-after-hackers-strip-his-account-of-items-worth-48-billion-in-gold)
+ - [Starfield, One Month Later](https://kotaku.com/starfield-reviews-quests-expansion-shattered-space-1850897013)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
