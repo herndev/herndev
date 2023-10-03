@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Barbie makes her Roblox debut with Barbie Dreamhouse Tycoon](https://www.polygon.com/23893368/barbie-dreamhouse-tycoon-game-roblox-release-date)
- - [How to complete Talent Academy in Cyberpunk 2077: Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-talent-academy-choice)
- - [Celebrate October 3 by watching Mean Girls for free in 23 separate parts](https://www.polygon.com/23901274/mean-girls-watch-free-tiktok-oct-3)<!-- GAME:END -->
+ - [Being the Best of the Worst: Tips and Strategies for The Lamplighters League](https://news.xbox.com/en-us/2023/10/03/best-of-the-worst-tips-and-strategies-the-lamplighters-league/)
+ - [John Woo will reinvent action movies &lpar;and Christmas&rpar; once again with Silent Night](https://www.polygon.com/23900521/silent-night-john-woo-trailer-hell-yeah)
+ - [These Cheaper, Tinier Lego-Like Blocks Are Every Bit As Fun To Build](https://kotaku.com/lego-titanic-nanoblock-bricks-cheap-temu-aliexpress-1850895153)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
