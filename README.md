@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
- - ⏩ [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 👉 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)<!-- MEMES:END -->
+ - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - ⏩ [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
+ - 👉 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)<!-- MEMES:END -->
 
 ---
 
