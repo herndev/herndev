@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart will accept Medicare Advantage for grocery orders](https://www.theverge.com/2023/10/3/23900758/instacart-medicare-advantage-medicaid-grocery-delivery)
- - [Filings: Niklas Zennstr&amp;ouml;m&#39;s VC firm Atomico raised $1.1B across two funds, among the largest such raises this year in Europe, as it nears its goal of $1.35B &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/231003/p9#a231003p9)
- - [India Is Using Terrorism Laws to Target Journalists](https://www.wired.com/story/india-is-using-terrorism-laws-to-target-journalists/)<!-- TECH:END -->
+ - [The FCC fines Dish Network $150,000 for failing to move its old EchoStar-7 satellite far enough away from others in use, the FCC&#39;s first space junk fine &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/231003/p11#a231003p11)
+ - [Goal Zero’s modular Yeti Pro 4000 can scale from vanlife power to home backup](https://www.theverge.com/2023/10/3/23901108/goal-zero-solar-generator-home-backup-van-alternator-price)
+ - [Surface Laptop Studio 2 review: this could be so much more](https://www.theverge.com/23900932/microsoft-surface-laptop-studio-2-2023-intel-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
