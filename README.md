@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s a new king of the GPUs in Steam&#39;s September hardware survey](https://www.pcgamer.com/theres-a-new-king-of-the-gpus-in-steams-september-hardware-survey)
  - [Wordle today: Hint and answer #836 for Tuesday, October 3](https://www.pcgamer.com/wordle-today-answer-836-october-3)
- - [Five new Steam games you probably missed &lpar;October 2, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-2-2023)
- - [Give your old PC the boot with Cooler Master&#39;s Sneaker X gaming PC](https://www.pcgamer.com/give-your-old-pc-the-boot-with-cooler-masters-sneaker-x-gaming-pc)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 2, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-2-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
