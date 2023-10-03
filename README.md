@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple bows to China, starts enforcing App Store rules](https://appleinsider.com/articles/23/10/03/apple-bows-to-china-starts-enforcing-app-store-rules?utm_medium=rss)
- - [V&amp;#283;ra Jourov&amp;aacute;, one of two commissioners overseeing the enactment of EU&#39;s AI law, warns against being &quot;paranoid&quot; or too restrictive when regulating generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/231003/p6#a231003p6)
- - [Japan&#39;s government approves ~$1.3B in subsidies for US chipmaker Micron&#39;s plant in Hiroshima Prefecture, set to mass produce next-generation memory chips &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/231003/p5#a231003p5)<!-- TECH:END -->
+ - [Apple, Google, Amazon face Australian big tech influence probe](https://appleinsider.com/articles/23/10/03/apple-google-amazon-face-australian-big-tech-influence-probe?utm_medium=rss)
+ - [Apple starts requiring a Chinese government license to publish new apps on the China App Store, after China tightened its oversight over mobile apps in August &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231003/p7#a231003p7)
+ - [Patrick Stewart Boldly Explores His Own Final Frontier](https://www.wired.com/story/patrick-stewart-memoir/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
