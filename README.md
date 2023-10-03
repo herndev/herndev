@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Last Of Us Studio Naughty Dog Is Cutting Developers](https://kotaku.com/naughty-dog-ps5-playstation-sony-last-us-part-3-layoffs-1850893794)
- - [Baldur&#39;s Gate 3&#39;s new hotfix reverses history&#39;s most controversial feline glow-up and stops your companions acting &#39;like a toddler in a grocery store&#39;](https://www.pcgamer.com/baldurs-gate-3s-new-hotfix-reverses-historys-most-controversial-feline-glow-up-and-stops-your-companions-acting-like-a-toddler-in-a-grocery-store)
- - [The new Minecraft DLC is a fully voiced D&amp;D adventure](https://www.pcgamer.com/the-new-minecraft-dlc-is-a-fully-voiced-dandd-adventure)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: Forza Motorsport, Like A Dragon: Ishin!, Warhammer 40,000: Darktide, and From Space](https://news.xbox.com/en-us/2023/10/03/game-pass-october-2023-wave-1-announce/)
+ - [WarioWare: Move It! gets back to basics with some really good butt stuff](https://www.polygon.com/23900277/warioware-move-it-nintendo-switch-impressions)
+ - [Elon Musk streams Diablo 4 as part of his latest doomed quest to turn X into a Twitch killer](https://www.pcgamer.com/elon-musk-streams-diablo-4-as-part-of-his-latest-doomed-quest-to-turn-x-into-a-twitch-killer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
