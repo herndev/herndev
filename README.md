@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers take note: Apple Silicon is required to develop apps for visionOS](https://appleinsider.com/articles/23/10/03/developers-take-note-apple-silicon-is-required-to-develop-apps-for-visionos?utm_medium=rss)
- - [A US judge rules X violated its duties to cover employee legal expenses and must pay $1.1M in fees to Parag Agrawal, Vijaya Gadde, and other former executives &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231003/p33#a231003p33)
- - [Microsoft rolls out DALL-E 3 to all Bing Chat and Bing Image Creator users; OpenAI plans to roll out DALL-E 3 to paying ChatGPT subscribers later in October &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231003/p32#a231003p32)<!-- TECH:END -->
+ - [Samsung Galaxy S23 FE is here: Specs, pricing, availability, colors, and more](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
+ - [Samsung’s new ‘fan editions’ of the Galaxy S23, Tab S9, and Buds bring flagship features to lower prices](https://www.theverge.com/2023/10/3/23901275/samsung-galaxy-s23-fe-tab-s9-buds-price-features)
+ - [Sources: Anthropic is in talks to raise at least $2B from Google and others, seeking a $20B-$30B valuation, and projects a revenue of $200M by the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/231003/p36#a231003p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
