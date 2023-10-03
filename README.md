@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 💣 [Two guys attempt to rob a grocery store in England and promptly apprehended by locals](http://9gag.com/gag/aPg0wpR)
  - ⏩ [You breast watch your step ma\u2019am\u2026](http://9gag.com/gag/aREGw0q)
  - 👉 [Take care of yourself.](http://9gag.com/gag/aoK6mgx)<!-- MEMES:END -->
 
