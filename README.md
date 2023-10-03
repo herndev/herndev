@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
- - ⏩ [We dont control the media](http://9gag.com/gag/aGEqKDw)
- - 👉 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)<!-- MEMES:END -->
+ - 💣 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
+ - ⏩ [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 👉 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)<!-- MEMES:END -->
 
 ---
 
