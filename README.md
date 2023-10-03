@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Slowpoke be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889390/can-slowpoke-be-shiny-slowbro-slowking-mega-galarian)
  - [There&#39;s a new king of the GPUs in Steam&#39;s September hardware survey](https://www.pcgamer.com/theres-a-new-king-of-the-gpus-in-steams-september-hardware-survey)
- - [Wordle today: Hint and answer #836 for Tuesday, October 3](https://www.pcgamer.com/wordle-today-answer-836-october-3)
- - [Five new Steam games you probably missed &lpar;October 2, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-2-2023)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #836 for Tuesday, October 3](https://www.pcgamer.com/wordle-today-answer-836-october-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
