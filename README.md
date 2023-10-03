@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raspberry Pi 5 vs Raspberry Pi 4: Which single-board computer should you buy?](https://www.androidauthority.com/raspberry-pi-5-vs-raspberry-pi-4-3370847/)
- - [HMD is building Nokia phones in Europe as customers demand more security](https://www.theverge.com/2023/10/3/23901265/hmd-nokia-xr21-made-in-europe-smartphone)
- - [New report casts doubt on Apple’s first ‘carbon neutral’ products](https://www.theverge.com/2023/10/3/23901236/apple-carbon-neutral-watch-report-supply-chain-emissions-transparency)<!-- TECH:END -->
+ - [Sam Bankman-Fried Is a Terrible Client](https://www.wired.com/story/sam-bankman-fried-trial-terrible-client/)
+ - [Meta’s head of news relations, Campbell Brown, has stepped down](https://www.theverge.com/2023/10/3/23901489/meta-campbell-brown-leaving-meta-facebook-news)
+ - [Researchers say it is easy to &quot;wash out&quot; watermarks on AI images, which makes it less likely that online services could reliably flag AI-generated content &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231003/p19#a231003p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
