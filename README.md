@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Sega Just Canceled Its Most Expensive Game Ever](https://kotaku.com/sega-hyenas-canceled-shooter-expensive-game-ever-1850900810)
- - [Laid-off BioWare employees sue over severance pay: &#39;We are struggling to understand why BioWare is shortchanging us&#39;](https://www.pcgamer.com/laid-off-bioware-employees-sue-over-severance-pay-we-are-struggling-to-understand-why-bioware-is-shortchanging-us)
- - [Ahsoka’s finale goes all in on the weirdest 90 minutes of Star Wars I’ve ever watched](https://www.polygon.com/star-wars/23902869/ahsoka-mortis-gods-meaning-finale-bird-owl-morai)<!-- GAME:END -->
+ - [Dragon Age And Mass Effect Studio Lays Off 50 Devs, Claims Games Are Unaffected [Update]](https://kotaku.com/dragon-age-dreadwolf-mass-effect-4-bioware-layoffs-1850766754)
+ - [All unionized Dragon Age: Dreadwolf QA workers have been laid off](https://www.polygon.com/23903782/dragon-age-dreadwolf-qa-workers-laid-off-keywords-studios)
+ - [Magic: The Gathering&#39;s Doctor Who set understands what the show is about](https://www.pcgamer.com/magic-the-gatherings-doctor-who-set-understands-what-the-show-is-about)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
