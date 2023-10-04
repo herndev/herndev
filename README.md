@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [96 core AMD Threadripper Pro 7000-series chips reportedly ready for launch on October 19](https://www.pcgamer.com/96-core-amd-threadripper-pro-7000-series-chips-reportedly-ready-for-launch-on-october-19)
- - [&lpar;For Southeast Asia&rpar; Extended Play Sale comes to PlayStation Store](https://blog.playstation.com/2023/10/04/20231004-psstore/)
- - [&lpar;For Southeast Asia&rpar; Extended Play Sale comes to PlayStation Store](https://blog.playstation.com/2023/10/04/20231004-psstore/)<!-- GAME:END -->
+ - [Assassin’s Creed Mirage’s focus makes it one of the best games in the series](https://www.polygon.com/reviews/23901831/assassins-creed-mirage-review-baghdad-steam-release)
+ - [Two years after launch Windows 11 adoption is still waaaay behind Windows 10](https://www.pcgamer.com/two-years-after-launch-windows-11-adoption-is-still-waaaay-behind-windows-10)
+ - [96 core AMD Threadripper Pro 7000-series chips reportedly ready for launch on October 19](https://www.pcgamer.com/96-core-amd-threadripper-pro-7000-series-chips-reportedly-ready-for-launch-on-october-19)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
