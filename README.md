@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Motorsport: How and When to Get Early Access](https://forza.net/news/forza-motorsport-early-access)
- - [Payday 3 dev says it&#39;s making &#39;a bunch of changes&#39; to the game&#39;s detested progression system 9 days after saying it had no plans to do so](https://www.pcgamer.com/payday-3-dev-says-its-making-a-bunch-of-changes-to-the-games-detested-progression-system-9-days-after-saying-it-had-no-plans-to-do-so)
- - [Assassin&#39;s Creed Mirage review](https://www.pcgamer.com/assassins-creed-mirage-review)<!-- GAME:END -->
+ - [Hi-Fi Rush: From a Little Idea to a Very Big Surprise – The Exclusive Oral History](https://news.xbox.com/en-us/2023/10/04/hi-fi-rush-exclusive-oral-history/)
+ - [Nintendo will turn off all online play for 3DS and Wii U next year](https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff)
+ - [Horizon Forbidden West Complete Edition arrives Oct 6 on PS5 — bringing the characters to life](https://blog.playstation.com/2023/10/04/horizon-forbidden-west-complete-edition-arrives-oct-6-on-ps5-bringing-the-characters-to-life/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
