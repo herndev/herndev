@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age And Mass Effect Studio Lays Off 50 Devs, Claims Games Are Unaffected [Update]](https://kotaku.com/dragon-age-dreadwolf-mass-effect-4-bioware-layoffs-1850766754)
- - [All unionized Dragon Age: Dreadwolf QA workers have been laid off](https://www.polygon.com/23903782/dragon-age-dreadwolf-qa-workers-laid-off-keywords-studios)
- - [Magic: The Gathering&#39;s Doctor Who set understands what the show is about](https://www.pcgamer.com/magic-the-gatherings-doctor-who-set-understands-what-the-show-is-about)<!-- GAME:END -->
+ - [Nothing will go wrong with all these new vampire powers in Diablo 4 season 2](https://www.pcgamer.com/nothing-will-go-wrong-with-all-these-vampire-powers-in-diablo-4-season-2)
+ - [Forza Motorsport review](https://www.pcgamer.com/forza-motorsport-pc-2023-review)
+ - [Cyberpunk 2077 developer defends Bethesda&#39;s work on Starfield: &#39;They are just doing something different with their time and that&#39;s cool&#39;](https://www.pcgamer.com/cyberpunk-2077-developer-defends-bethesdas-work-on-starfield-they-are-just-doing-something-different-with-their-time-and-thats-cool)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
