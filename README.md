@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Artifact will let you generate images with AI for your posts](https://www.theverge.com/2023/10/4/23903578/artifact-generative-ai-meta-instagram)
- - [The cheapest countries to buy a Pixel 8](https://www.androidauthority.com/cheapest-place-to-buy-pixel-8-3371323/)<!-- TECH:END -->
+ - [Amazon’s first Project Kuiper test satellites are headed to space on October 6th](https://www.theverge.com/2023/10/4/23903758/amazon-project-kuiper-test-satellites-space-launch)
+ - [Sam Bankman-Fried Made Reasonable Business Decisions, Lawyers Claim](https://www.wired.com/story/ftx-trial-sam-bankman-fried-opening-arguments/)
+ - [X stops showing headlines because Elon Musk thinks it will make posts look better](https://www.theverge.com/2023/10/4/23903859/x-elon-musk-headlines-links-image-twitter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
