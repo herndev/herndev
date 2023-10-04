@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Livestream of the Made by Google 2023 event &lpar;Made by Google/Made by Google on YouTube&rpar;](http://www.techmeme.com/231004/p15#a231004p15)
- - [A live blog of the Made by Google 2023 event, where the Pixel 8, the Pixel 8 Pro, and the Pixel Watch 2 are expected &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/231004/p14#a231004p14)
- - [Apple&#39;s educational outreach fostering Hispanic leadership in Houston](https://appleinsider.com/articles/23/10/04/apples-educational-outreach-fostering-hispanic-leadership-in-houston?utm_medium=rss)<!-- TECH:END -->
+ - [Patreon has a new look for its next era](https://www.theverge.com/2023/10/4/23899694/patreon-app-redesign-creator-pages-community-chats)
+ - [Google Pixel 7 Pro vs Pixel 8 Pro: What’s new and should you upgrade?](https://www.androidauthority.com/google-pixel-7-pro-vs-pixel-8-pro-3370959/)
+ - [Google Pixel Watch vs Pixel Watch 2: What’s new and should you upgrade?](https://www.androidauthority.com/google-pixel-watch-vs-pixel-watch-2-3370704/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
