@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva’s new AI tools automate boring, labor-intensive design tasks](https://www.theverge.com/2023/10/4/23902794/canva-magic-studio-ai-design-new-tools)
- - [Roku’s next update focuses on sports, live TV, and easier content discovery](https://www.theverge.com/2023/10/4/23902750/roku-os-12-5-update-sports-live-tv-google-photos)
- - [Uber expands Uber Connect with a &quot;return a package&quot; feature, allowing customers to send up to five packages for a $5 fee to UPS, FedEx, or USPS locations &lpar;Melina Khan/CNBC&rpar;](http://www.techmeme.com/231004/p10#a231004p10)<!-- TECH:END -->
+ - [Livestream of the Made by Google 2023 event &lpar;Made by Google/Made by Google on YouTube&rpar;](http://www.techmeme.com/231004/p15#a231004p15)
+ - [A live blog of the Made by Google 2023 event, where the Pixel 8, the Pixel 8 Pro, and the Pixel Watch 2 are expected &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/231004/p14#a231004p14)
+ - [Apple&#39;s educational outreach fostering Hispanic leadership in Houston](https://appleinsider.com/articles/23/10/04/apples-educational-outreach-fostering-hispanic-leadership-in-houston?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
