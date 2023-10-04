@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Windows 11&#39;s RGB control features are finally available to the public](https://www.pcgamer.com/windows-11s-rgb-control-features-are-finally-available-to-the-public)
  - [Warhammer 40,000: Darktide class overhaul patch is live, and it sure seems like the massive update everyone was waiting for](https://www.pcgamer.com/warhammer-40000-darktide-class-overhaul-patch-is-live-and-it-sure-seems-like-the-massive-update-everyone-was-waiting-for)
- - [5 years after it closed for good, Gearbox confirms that the hero shooter Gigantic is coming back for a &#39;limited time throwback event&#39;](https://www.pcgamer.com/5-years-after-it-closed-for-good-gearbox-confirms-that-the-hero-shooter-gigantic-is-coming-back-for-a-limited-time-throwback-event)
- - [Attack On Titan Is Getting A ‘Bonus’ Manga Chapter 2.5 Years After Its Divisive Ending](https://kotaku.com/attack-on-titan-volume-35-eren-jaeger-hajime-isayama-1850897216)<!-- GAME:END -->
+ - [5 years after it closed for good, Gearbox confirms that the hero shooter Gigantic is coming back for a &#39;limited time throwback event&#39;](https://www.pcgamer.com/5-years-after-it-closed-for-good-gearbox-confirms-that-the-hero-shooter-gigantic-is-coming-back-for-a-limited-time-throwback-event)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
