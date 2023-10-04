@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hi-Fi Rush: From a Little Idea to a Very Big Surprise – The Exclusive Oral History](https://news.xbox.com/en-us/2023/10/04/hi-fi-rush-exclusive-oral-history/)
- - [Nintendo will turn off all online play for 3DS and Wii U next year](https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff)
- - [Horizon Forbidden West Complete Edition arrives Oct 6 on PS5 — bringing the characters to life](https://blog.playstation.com/2023/10/04/horizon-forbidden-west-complete-edition-arrives-oct-6-on-ps5-bringing-the-characters-to-life/)<!-- GAME:END -->
+ - [Former Ubisoft executives detained by police in French sexual assault investigation](https://www.polygon.com/23902842/ubisoft-executives-serge-hascoet-tommy-francois-arrested)
+ - [Titanfall community predicts the future, reckons Titanfall 3 is a dead cert based on patch note hints and a Red Hot Chili Peppers song from 1999](https://www.pcgamer.com/titanfall-community-predicts-the-future-reckons-titanfall-3-is-a-dead-cert-based-on-patch-note-hints-and-a-red-hot-chili-peppers-song-from-1999)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
