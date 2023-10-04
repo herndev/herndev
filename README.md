@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What did she mean by this?](http://9gag.com/gag/arm0pX6)
- - ⏩ [Good finds a way](http://9gag.com/gag/a1Pnp62)
- - 👉 [He held on for dear life](http://9gag.com/gag/aA07Yp2)<!-- MEMES:END -->
+ - 💣 [Its back!](http://9gag.com/gag/aYVBbQq)
+ - ⏩ [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 👉 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)<!-- MEMES:END -->
 
 ---
 
