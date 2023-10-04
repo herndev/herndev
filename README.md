@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ripple&#39;s Singapore arm secures a license as a major payment institution from the Monetary Authority of Singapore, after an in-principle approval in June 2023 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/231003/p39#a231003p39)
- - [A US judge rejects the SEC&#39;s motion to file an interlocutory appeal against July 2023&#39;s Ripple ruling and sets an April 2024 trial date to resolve other issues &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231003/p38#a231003p38)
- - [Samsung announces the 6.4&quot; Galaxy S23 FE for $600, the 10.9&quot; Galaxy Tab S9 FE for $450, the 12.4&quot; Galaxy Tab S9 FE+ for $700, and the Galaxy Buds FE for $100 &lpar;Timi Cantisano/XDA Developers&rpar;](http://www.techmeme.com/231003/p37#a231003p37)<!-- TECH:END -->
+ - [Don’t panic: All phones in the US will get an emergency alert today](https://www.androidauthority.com/fema-fcc-emergency-test-3360012/)
+ - [The Browser Company updates Arc with GPT 3.5 and Anthropic features: Ask ChatGPT, Tidy Tab Titles, Tidy Downloads, Five-Second Previews, and Ask on Page &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231004/p2#a231004p2)
+ - [The European Commission starts collective risk assessments on advanced chips, AI, quantum, and biotech, the most sensitive areas for security and tech leakage &lpar;J&amp;aacute;nos Allenbach-Ammann/Euractiv&rpar;](http://www.techmeme.com/231004/p1#a231004p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
