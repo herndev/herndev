@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)
- - ⏩ [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
+ - 💣 [What did she mean by this?](http://9gag.com/gag/arm0pX6)
+ - ⏩ [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
+ - 👉 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)<!-- MEMES:END -->
 
 ---
 
