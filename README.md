@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Forza Motorsport is OK with being the boring Forza](https://www.polygon.com/reviews/23901462/forza-motorsport-2023-review)
  - [Wordle today: Hint and answer #837 for Wednesday, October 4](https://www.pcgamer.com/wordle-today-answer-837-october-4)
- - [Ahsoka got spooky just in time for October](https://www.polygon.com/star-wars/23882002/ahsoka-enoch-night-troopers-star-wars-zombies-dathomir-witches)
- - [Windows Copilot is not playing well with AMD&#39;s Adrenalin software](https://www.pcgamer.com/windows-copilot-is-not-playing-well-with-amds-adrenalin-software)<!-- GAME:END -->
+ - [Ahsoka got spooky just in time for October](https://www.polygon.com/star-wars/23882002/ahsoka-enoch-night-troopers-star-wars-zombies-dathomir-witches)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
