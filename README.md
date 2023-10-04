@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest update claims to fix the iPhone 15 Pro’s overheating issue](https://www.androidauthority.com/apple-iphone-15-pro-overheating-fix-3371940/)
- - [FEMA’s emergency alert test rang phones two minutes early](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
- - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)<!-- TECH:END -->
+ - [Google rolls out emoji reactions in Gmail for Android, coming to iOS and the web &quot;over the next few months&quot;; non-Gmail users may get emoji reactions as an email &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231004/p36#a231004p36)
+ - [Counterfeit iPhone traffickers behind $6.1 million con at Apple Stores are going to prison](https://www.theverge.com/2023/10/4/23903202/counterfeit-iphone-ipad-traffickers-san-diego-sentenced-prison)
+ - [Here’s how Google’s new Pixel 8 phones stack up to the Pixel 7 lineup](https://www.theverge.com/23891201/google-pixel-8-vs-7-comparison-specs-price-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
