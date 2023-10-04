@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Mirage’s focus makes it one of the best games in the series](https://www.polygon.com/reviews/23901831/assassins-creed-mirage-review-baghdad-steam-release)
- - [Two years after launch Windows 11 adoption is still waaaay behind Windows 10](https://www.pcgamer.com/two-years-after-launch-windows-11-adoption-is-still-waaaay-behind-windows-10)
- - [96 core AMD Threadripper Pro 7000-series chips reportedly ready for launch on October 19](https://www.pcgamer.com/96-core-amd-threadripper-pro-7000-series-chips-reportedly-ready-for-launch-on-october-19)<!-- GAME:END -->
+ - [Forza Motorsport: How and When to Get Early Access](https://forza.net/news/forza-motorsport-early-access)
+ - [Payday 3 dev says it&#39;s making &#39;a bunch of changes&#39; to the game&#39;s detested progression system 9 days after saying it had no plans to do so](https://www.pcgamer.com/payday-3-dev-says-its-making-a-bunch-of-changes-to-the-games-detested-progression-system-9-days-after-saying-it-had-no-plans-to-do-so)
+ - [Assassin&#39;s Creed Mirage review](https://www.pcgamer.com/assassins-creed-mirage-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
