@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahsoka’s finale gets by on magic and mythology](https://www.theverge.com/23902876/ahsoka-finale-review-star-wars-disney-plus)
- - [Former Ubisoft executives arrested after sexual harassment investigation](https://www.theverge.com/2023/10/4/23901575/ubisoft-executives-arrest-sexual-harassment-investigation)
- - [The Pixel 8 Pro runs Google’s generative AI models: Here’s what that means](https://www.androidauthority.com/pixel-8-pro-foundation-generative-ai-models-3371837/)<!-- TECH:END -->
+ - [Where to preorder the Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/preorder-pixel-8-pro-3371844/)
+ - [Apple addresses iPhone 15 overheating with a new iOS 17 update](https://www.theverge.com/2023/10/4/23903409/iphone-15-pro-overheating-ios-17-0-3-update)
+ - [Here’s how Google’s new Pixel 8 phones compare to their top competitors](https://www.theverge.com/23901988/google-pixel-8-vs-apple-iphone-samsung-galaxy-comparison-specs-price-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
