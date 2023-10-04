@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - ⏩ [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
+ - 💣 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - ⏩ [Polite man](http://9gag.com/gag/az2zb2N)
+ - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
 
 ---
 
