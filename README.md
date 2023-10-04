@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
  - ⏩ [Its back!](http://9gag.com/gag/aYVBbQq)
- - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
+ - 👉 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)<!-- MEMES:END -->
 
 ---
 
