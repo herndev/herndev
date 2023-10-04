@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Treachery in Beatdown City: Ultra Remix is Out Now on Xbox](https://news.xbox.com/en-us/2023/10/04/treachery-in-beatdown-city-out-now-on-xbox/)
- - [Diablo 4 is coming to Steam](https://www.polygon.com/23900444/diablo-4-steam-release-date-blizzard-season-blood)
- - [I will not rest until I score 3,000 points in Suika Game](https://www.polygon.com/gaming/23903427/suika-watermelon-game-online-nintendo-switch)<!-- GAME:END -->
+ - [Report: Sega Just Canceled Its Most Expensive Game Ever](https://kotaku.com/sega-hyenas-canceled-shooter-expensive-game-ever-1850900810)
+ - [Laid-off BioWare employees sue over severance pay: &#39;We are struggling to understand why BioWare is shortchanging us&#39;](https://www.pcgamer.com/laid-off-bioware-employees-sue-over-severance-pay-we-are-struggling-to-understand-why-bioware-is-shortchanging-us)
+ - [Ahsoka’s finale goes all in on the weirdest 90 minutes of Star Wars I’ve ever watched](https://www.polygon.com/star-wars/23902869/ahsoka-mortis-gods-meaning-finale-bird-owl-morai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
