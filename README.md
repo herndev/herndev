@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield’s new game plus is one of the best parts of its narrative](https://www.polygon.com/23903445/starfield-new-game-plus-narrative-starborn-plot)
- - [Gearbox Is Reviving A Dead Hero Shooter For 3 Days &lpar;No, Not Battleborn&rpar;](https://kotaku.com/gigantic-gearbox-battleborn-hero-shooter-pc-free-to-pla-1850900044)
- - [Five former Ubisoft employees arrested following investigation into sexual misconduct complaints at the company](https://www.pcgamer.com/five-former-ubisoft-employees-arrested-following-investigation-into-sexual-misconduct-complaints-at-the-company)<!-- GAME:END -->
+ - [Treachery in Beatdown City: Ultra Remix is Out Now on Xbox](https://news.xbox.com/en-us/2023/10/04/treachery-in-beatdown-city-out-now-on-xbox/)
+ - [Diablo 4 is coming to Steam](https://www.polygon.com/23900444/diablo-4-steam-release-date-blizzard-season-blood)
+ - [I will not rest until I score 3,000 points in Suika Game](https://www.polygon.com/gaming/23903427/suika-watermelon-game-online-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
