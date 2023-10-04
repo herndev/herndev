@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI bias tests gloss over a crucial aspect of skin color, Sony research claims](https://www.theverge.com/2023/10/4/23902728/ai-bias-skin-tone-hue-sony-research-artificial-intelligence-ethics)
- - [You can now add your PayPal credit card to Apple Wallet](https://appleinsider.com/articles/23/10/04/you-can-now-add-your-paypal-credit-card-to-apple-wallet?utm_medium=rss)
- - [What&#39;s new in iOS 17.1 beta 2: StandBy mode options, ringtones, &amp; more](https://appleinsider.com/articles/23/10/04/whats-new-in-ios-171-beta-2-standby-mode-options-ringtones-more?utm_medium=rss)<!-- TECH:END -->
+ - [Canva’s new AI tools automate boring, labor-intensive design tasks](https://www.theverge.com/2023/10/4/23902794/canva-magic-studio-ai-design-new-tools)
+ - [Roku’s next update focuses on sports, live TV, and easier content discovery](https://www.theverge.com/2023/10/4/23902750/roku-os-12-5-update-sports-live-tv-google-photos)
+ - [Uber expands Uber Connect with a &quot;return a package&quot; feature, allowing customers to send up to five packages for a $5 fee to UPS, FedEx, or USPS locations &lpar;Melina Khan/CNBC&rpar;](http://www.techmeme.com/231004/p10#a231004p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
