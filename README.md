@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Ubisoft executives detained by police in French sexual assault investigation](https://www.polygon.com/23902842/ubisoft-executives-serge-hascoet-tommy-francois-arrested)
- - [Titanfall community predicts the future, reckons Titanfall 3 is a dead cert based on patch note hints and a Red Hot Chili Peppers song from 1999](https://www.pcgamer.com/titanfall-community-predicts-the-future-reckons-titanfall-3-is-a-dead-cert-based-on-patch-note-hints-and-a-red-hot-chili-peppers-song-from-1999)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Warhammer 40,000: Darktide Blasts Onto Xbox Today, With Some Major Improvements](https://news.xbox.com/en-us/2023/10/04/warhammer-40000-darktide-xbox/)
+ - [Cocoon shows the best puzzles aren’t always hard](https://www.polygon.com/gaming/23901866/cocoon-puzzle-game-design-limbo-inside-playdead)
+ - [How to obtain Credit Coupons for ‘Unfinished Comedy’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23894248/obtain-credit-coupons-unfinished-comedy-quest-locations-map)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
