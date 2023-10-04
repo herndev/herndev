@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
+ - 💣 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)
  - ⏩ [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 👉 [Let the fight begin](http://9gag.com/gag/amAODgj)<!-- MEMES:END -->
+ - 👉 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)<!-- MEMES:END -->
 
 ---
 
