@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 FE is here: Specs, pricing, availability, colors, and more](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
- - [Samsung’s new ‘fan editions’ of the Galaxy S23, Tab S9, and Buds bring flagship features to lower prices](https://www.theverge.com/2023/10/3/23901275/samsung-galaxy-s23-fe-tab-s9-buds-price-features)
- - [Sources: Anthropic is in talks to raise at least $2B from Google and others, seeking a $20B-$30B valuation, and projects a revenue of $200M by the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/231003/p36#a231003p36)<!-- TECH:END -->
+ - [Samsung announces the 6.4&quot; Galaxy S23 FE for $599, the 10.9&quot; Galaxy Tab S9 FE for $449, the 12.4&quot; Galaxy Tab S9 FE+, and the Galaxy Buds FE for $99 &lpar;Timi Cantisano/XDA Developers&rpar;](http://www.techmeme.com/231003/p37#a231003p37)
+ - [Poll: Is the Samsung Galaxy S23FE hot or not?](https://www.androidauthority.com/samsung-galaxy-s23fe-hot-or-not-3371394/)
+ - [AI Deepfake Ads: Tom Hanks, Gayle King Sound Warning     - CNET](https://www.cnet.com/tech/ai-deepfake-ads-tom-hanks-gayle-king-sound-warning/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
