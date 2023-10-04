@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out emoji reactions in Gmail for Android, coming to iOS and the web &quot;over the next few months&quot;; non-Gmail users may get emoji reactions as an email &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231004/p36#a231004p36)
- - [Counterfeit iPhone traffickers behind $6.1 million con at Apple Stores are going to prison](https://www.theverge.com/2023/10/4/23903202/counterfeit-iphone-ipad-traffickers-san-diego-sentenced-prison)
- - [Here’s how Google’s new Pixel 8 phones stack up to the Pixel 7 lineup](https://www.theverge.com/23891201/google-pixel-8-vs-7-comparison-specs-price-features)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Artifact will let you generate images with AI for your posts](https://www.theverge.com/2023/10/4/23903578/artifact-generative-ai-meta-instagram)
+ - [The cheapest countries to buy a Pixel 8](https://www.androidauthority.com/cheapest-place-to-buy-pixel-8-3371323/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
