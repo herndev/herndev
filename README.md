@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - ⏩ [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
+ - 💣 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - ⏩ [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
 
 ---
 
