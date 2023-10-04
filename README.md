@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Motorsport is OK with being the boring Forza](https://www.polygon.com/reviews/23901462/forza-motorsport-2023-review)
- - [Wordle today: Hint and answer #837 for Wednesday, October 4](https://www.pcgamer.com/wordle-today-answer-837-october-4)
- - [Ahsoka got spooky just in time for October](https://www.polygon.com/star-wars/23882002/ahsoka-enoch-night-troopers-star-wars-zombies-dathomir-witches)<!-- GAME:END -->
+ - [96 core AMD Threadripper Pro 7000-series chips reportedly ready for launch on October 19](https://www.pcgamer.com/96-core-amd-threadripper-pro-7000-series-chips-reportedly-ready-for-launch-on-october-19)
+ - [&lpar;For Southeast Asia&rpar; Extended Play Sale comes to PlayStation Store](https://blog.playstation.com/2023/10/04/20231004-psstore/)
+ - [Forza Motorsport is OK with being the boring Forza](https://www.polygon.com/reviews/23901462/forza-motorsport-2023-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
