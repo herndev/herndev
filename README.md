@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - ⏩ [Polite man](http://9gag.com/gag/az2zb2N)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 💣 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)
+ - ⏩ [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
 
 ---
 
