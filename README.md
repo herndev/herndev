@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its back!](http://9gag.com/gag/aYVBbQq)
- - ⏩ [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 👉 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)<!-- MEMES:END -->
+ - 💣 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - ⏩ [Well well well](http://9gag.com/gag/aKEygqO)
+ - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
 
 ---
 
