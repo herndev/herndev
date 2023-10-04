@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hey, dont run from the lord](http://9gag.com/gag/aREG6N2)
- - ⏩ [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - ⏩ [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
 
 ---
 
