@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 💣 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
  - ⏩ [Its back!](http://9gag.com/gag/aYVBbQq)
- - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
+ - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
 
 ---
 
