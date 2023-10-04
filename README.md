@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grandpa’s Tale of Adventure Comes to Xbox](https://news.xbox.com/en-us/2023/10/04/blossom-tales-2-comes-to-xbox/)
- - [Xbox Insider Release Notes – Alpha &lpar;2310.231001-2200&rpar;](https://news.xbox.com/en-us/2023/10/04/xbox-insider-release-notes-alpha-2310-231001-2200/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231001-2000&rpar;](https://news.xbox.com/en-us/2023/10/04/xbox-insider-release-notes-alpha-skip-ahead-2408-231001-2000/)<!-- GAME:END -->
+ - [Starfield’s new game plus is one of the best parts of its narrative](https://www.polygon.com/23903445/starfield-new-game-plus-narrative-starborn-plot)
+ - [Gearbox Is Reviving A Dead Hero Shooter For 3 Days &lpar;No, Not Battleborn&rpar;](https://kotaku.com/gigantic-gearbox-battleborn-hero-shooter-pc-free-to-pla-1850900044)
+ - [Five former Ubisoft employees arrested following investigation into sexual misconduct complaints at the company](https://www.pcgamer.com/five-former-ubisoft-employees-arrested-following-investigation-into-sexual-misconduct-complaints-at-the-company)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
