@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - ⏩ [Well well well](http://9gag.com/gag/aKEygqO)
- - 👉 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)<!-- MEMES:END -->
+ - 💣 [Emanual?](http://9gag.com/gag/aOxOy72)
+ - ⏩ [Wait so actions can have consequences?](http://9gag.com/gag/a1PneLb)
+ - 👉 [Maga shaman is free from prison](http://9gag.com/gag/anz3KOn)<!-- MEMES:END -->
 
 ---
 
