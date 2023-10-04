@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #837 for Wednesday, October 4](https://www.pcgamer.com/wordle-today-answer-837-october-4)
  - [Ahsoka got spooky just in time for October](https://www.polygon.com/star-wars/23882002/ahsoka-enoch-night-troopers-star-wars-zombies-dathomir-witches)
- - [Windows Copilot is not playing well with AMD&#39;s Adrenalin software](https://www.pcgamer.com/windows-copilot-is-not-playing-well-with-amds-adrenalin-software)
- - [Get ready to meet your next favorite videogame crab in The Dungeon Experience](https://www.pcgamer.com/get-ready-to-meet-your-next-favorite-videogame-crab-in-the-dungeon-experience)<!-- GAME:END -->
+ - [Windows Copilot is not playing well with AMD&#39;s Adrenalin software](https://www.pcgamer.com/windows-copilot-is-not-playing-well-with-amds-adrenalin-software)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
