@@ -34,7 +34,7 @@
 <!-- GAME:START -->
  - [96 core AMD Threadripper Pro 7000-series chips reportedly ready for launch on October 19](https://www.pcgamer.com/96-core-amd-threadripper-pro-7000-series-chips-reportedly-ready-for-launch-on-october-19)
  - [&lpar;For Southeast Asia&rpar; Extended Play Sale comes to PlayStation Store](https://blog.playstation.com/2023/10/04/20231004-psstore/)
- - [Forza Motorsport is OK with being the boring Forza](https://www.polygon.com/reviews/23901462/forza-motorsport-2023-review)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Extended Play Sale comes to PlayStation Store](https://blog.playstation.com/2023/10/04/20231004-psstore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
