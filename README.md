@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Darktide Blasts Onto Xbox Today, With Some Major Improvements](https://news.xbox.com/en-us/2023/10/04/warhammer-40000-darktide-xbox/)
- - [Cocoon shows the best puzzles aren’t always hard](https://www.polygon.com/gaming/23901866/cocoon-puzzle-game-design-limbo-inside-playdead)
- - [How to obtain Credit Coupons for ‘Unfinished Comedy’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23894248/obtain-credit-coupons-unfinished-comedy-quest-locations-map)<!-- GAME:END -->
+ - [What’s new in Overwatch 2 season 7](https://www.polygon.com/23903099/overwatch-2-season-7-date-mythic-hanzo-skin-onryo)
+ - [Overwatch 2’s Sombra is getting a big rework](https://www.polygon.com/23902196/overwatch-2-sombra-rework-balance-patch-virus-ability)
+ - [Are Star Wars lightsabers on TV deadly enough? Here’s what doctors say](https://www.polygon.com/star-wars/23886265/star-wars-lightsaber-ahsoka-sabine-stab-wound-dead-season-1-episode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
