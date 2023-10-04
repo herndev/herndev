@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where to preorder the Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/preorder-pixel-8-pro-3371844/)
- - [Apple addresses iPhone 15 overheating with a new iOS 17 update](https://www.theverge.com/2023/10/4/23903409/iphone-15-pro-overheating-ios-17-0-3-update)
- - [Here’s how Google’s new Pixel 8 phones compare to their top competitors](https://www.theverge.com/23901988/google-pixel-8-vs-apple-iphone-samsung-galaxy-comparison-specs-price-features)<!-- TECH:END -->
+ - [Apple’s latest update claims to fix the iPhone 15 Pro’s overheating issue](https://www.androidauthority.com/apple-iphone-15-pro-overheating-fix-3371940/)
+ - [FEMA’s emergency alert test rang phones two minutes early](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
+ - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
