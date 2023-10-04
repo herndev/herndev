@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patreon has a new look for its next era](https://www.theverge.com/2023/10/4/23899694/patreon-app-redesign-creator-pages-community-chats)
- - [Google Pixel 7 Pro vs Pixel 8 Pro: What’s new and should you upgrade?](https://www.androidauthority.com/google-pixel-7-pro-vs-pixel-8-pro-3370959/)
- - [Google Pixel Watch vs Pixel Watch 2: What’s new and should you upgrade?](https://www.androidauthority.com/google-pixel-watch-vs-pixel-watch-2-3370704/)<!-- TECH:END -->
+ - [Reminder: FEMA is blowing up your phone with an emergency alert test today](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
+ - [After closing its 3DS and Wii U eShops this year, Nintendo says it will shut down online services like multiplayer for those consoles in &quot;early April 2024&quot; &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/231004/p32#a231004p32)
+ - [Google claims its latest smartphone makes the ‘enhance!’ meme a reality](https://www.theverge.com/2023/10/4/23903123/google-pixel-8-pro-zoom-enhance-artificial-intelligence-photography)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
