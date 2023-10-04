@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - ⏩ [Well well well](http://9gag.com/gag/aKEygqO)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 💣 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
+ - ⏩ [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 👉 [Let the fight begin](http://9gag.com/gag/amAODgj)<!-- MEMES:END -->
 
 ---
 
