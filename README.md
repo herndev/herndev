@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s new in Overwatch 2 season 7](https://www.polygon.com/23903099/overwatch-2-season-7-date-mythic-hanzo-skin-onryo)
- - [Overwatch 2’s Sombra is getting a big rework](https://www.polygon.com/23902196/overwatch-2-sombra-rework-balance-patch-virus-ability)
- - [Are Star Wars lightsabers on TV deadly enough? Here’s what doctors say](https://www.polygon.com/star-wars/23886265/star-wars-lightsaber-ahsoka-sabine-stab-wound-dead-season-1-episode)<!-- GAME:END -->
+ - [Dinobreak Stampedes onto Xbox Series X|S and Xbox One Today](https://news.xbox.com/en-us/2023/10/04/dinobreak-on-xbox-series-xs-and-xbox-one/)
+ - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
+ - [Chess grandmaster denies using anal beads to cheat against world champion: &#39;categorically no, of course not&#39;](https://www.pcgamer.com/chess-grandmaster-denies-using-anal-beads-to-cheat-against-world-champion-categorically-no-of-course-not)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
