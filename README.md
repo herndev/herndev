@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stockholm-based digital bank Brite Payments raised a $60M Series A led by Dawn Capital with Headline and Incore participating &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231004/p8#a231004p8)
- - [You told us: You’re not sure about buying a watch that can’t be repaired](https://www.androidauthority.com/buy-smartwatch-repaired-poll-results-3371522/)
- - [TikTok plans to stop facilitating e-commerce transactions on TikTok Shop in Indonesia on October 4 to comply with the country&#39;s curbs on social commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/231004/p7#a231004p7)<!-- TECH:END -->
+ - [How to easily and quickly crop images in iOS 17](https://appleinsider.com/articles/23/10/04/how-to-easily-and-quickly-crop-images-in-ios-17?utm_medium=rss)
+ - [Q&amp;A with Microsoft CTO Kevin Scott on Bing&#39;s rivalry with Google, the race to acquire and develop high-end GPUs, open-source AI models, AI and art, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231004/p9#a231004p9)
+ - [Meta’s new AI-generated stickers are lewd, rude, and occasionally nude](https://www.theverge.com/2023/10/4/23902721/meta-ai-generated-stickers-tool-facebook-instagram-inappropriate-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
