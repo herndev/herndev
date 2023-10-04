@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t panic: All phones in the US will get an emergency alert today](https://www.androidauthority.com/fema-fcc-emergency-test-3360012/)
- - [The Browser Company updates Arc with GPT 3.5 and Anthropic features: Ask ChatGPT, Tidy Tab Titles, Tidy Downloads, Five-Second Previews, and Ask on Page &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231004/p2#a231004p2)
- - [The European Commission starts collective risk assessments on advanced chips, AI, quantum, and biotech, the most sensitive areas for security and tech leakage &lpar;J&amp;aacute;nos Allenbach-Ammann/Euractiv&rpar;](http://www.techmeme.com/231004/p1#a231004p1)<!-- TECH:END -->
+ - [Apple’s upcoming iOS 17 update could fix iPhone 15 Pro overheating issue](https://www.androidauthority.com/apples-ios-17-0-3-update-iphone-15-pro-overheating-3371482/)
+ - [PE firm Vista, with another backer, acquires a majority stake in TRG Screen, which makes subscription spend management software; sources say for about $250M &lpar;Kamaron Leach/Bloomberg&rpar;](http://www.techmeme.com/231004/p4#a231004p4)
+ - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
