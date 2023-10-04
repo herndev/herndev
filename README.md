@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - ⏩ [Its back!](http://9gag.com/gag/aYVBbQq)
- - 👉 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)<!-- MEMES:END -->
+ - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - ⏩ [Well well well](http://9gag.com/gag/aKEygqO)
+ - 👉 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)<!-- MEMES:END -->
 
 ---
 
