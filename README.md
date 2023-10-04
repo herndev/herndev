@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reminder: FEMA is blowing up your phone with an emergency alert test today](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
- - [After closing its 3DS and Wii U eShops this year, Nintendo says it will shut down online services like multiplayer for those consoles in &quot;early April 2024&quot; &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/231004/p32#a231004p32)
- - [Google claims its latest smartphone makes the ‘enhance!’ meme a reality](https://www.theverge.com/2023/10/4/23903123/google-pixel-8-pro-zoom-enhance-artificial-intelligence-photography)<!-- TECH:END -->
+ - [Ahsoka’s finale gets by on magic and mythology](https://www.theverge.com/23902876/ahsoka-finale-review-star-wars-disney-plus)
+ - [Former Ubisoft executives arrested after sexual harassment investigation](https://www.theverge.com/2023/10/4/23901575/ubisoft-executives-arrest-sexual-harassment-investigation)
+ - [The Pixel 8 Pro runs Google’s generative AI models: Here’s what that means](https://www.androidauthority.com/pixel-8-pro-foundation-generative-ai-models-3371837/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
