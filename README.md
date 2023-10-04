@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - ⏩ [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
+ - 💣 [Imagine having pride parade instead of this, imagine your whole city destroyed in a riot instead of, imagine women could not walk safely at night, your kids are minority at school and your street is filled with goat breeder worshipper, IMAGINE HATING YOUR OWN SKIN AND TRADITION](http://9gag.com/gag/a3ZDYV7)
+ - ⏩ [Polite man](http://9gag.com/gag/az2zb2N)
+ - 👉 [What did she mean by this?](http://9gag.com/gag/arm0pX6)<!-- MEMES:END -->
 
 ---
 
