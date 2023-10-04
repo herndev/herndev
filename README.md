@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get ready to meet your next favorite videogame crab in The Dungeon Experience](https://www.pcgamer.com/get-ready-to-meet-your-next-favorite-videogame-crab-in-the-dungeon-experience)
- - [Windows 11&#39;s RGB control features are finally available to the public](https://www.pcgamer.com/windows-11s-rgb-control-features-are-finally-available-to-the-public)
- - [Warhammer 40,000: Darktide class overhaul patch is live, and it sure seems like the massive update everyone was waiting for](https://www.pcgamer.com/warhammer-40000-darktide-class-overhaul-patch-is-live-and-it-sure-seems-like-the-massive-update-everyone-was-waiting-for)<!-- GAME:END -->
+ - [Ahsoka got spooky just in time for October](https://www.polygon.com/star-wars/23882002/ahsoka-enoch-night-troopers-star-wars-zombies-dathomir-witches)
+ - [Windows Copilot is not playing well with AMD&#39;s Adrenalin software](https://www.pcgamer.com/windows-copilot-is-not-playing-well-with-amds-adrenalin-software)
+ - [Get ready to meet your next favorite videogame crab in The Dungeon Experience](https://www.pcgamer.com/get-ready-to-meet-your-next-favorite-videogame-crab-in-the-dungeon-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
