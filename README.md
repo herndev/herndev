@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A road without a turn for 200 Km .](http://9gag.com/gag/az2zLWp)
- - ⏩ [His mum is a master crusher!](http://9gag.com/gag/aOxObZN)
- - 👉 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)<!-- MEMES:END -->
+ - 💣 [His mum is a master crusher!](http://9gag.com/gag/aOxObZN)
+ - ⏩ [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 👉 [It&#39;s simple - We seriously need to close the borders into Europe...and I mean like now ...](http://9gag.com/gag/anz3YQE)<!-- MEMES:END -->
 
 ---
 
