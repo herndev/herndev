@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u25ab\ufe0f](http://9gag.com/gag/ay2A5qV)
- - ⏩ [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 💣 [Doing childhood right](http://9gag.com/gag/a5XAKeq)
+ - ⏩ [Always believe that you can do better](http://9gag.com/gag/a1PneBv)
  - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
 
 ---
