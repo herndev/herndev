@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Change In Cyberpunk 2077&#39;s New 2.01 Patch](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-01-patch-notes-ps5-1850902336)
- - [Pistol Whip’s 13th collection brings spooky new Scenes to PS VR2 starting today](https://blog.playstation.com/2023/10/05/pistol-whips-13th-collection-brings-spooky-new-scenes-to-ps-vr2-starting-today/)
- - [Pistol Whip’s 13th collection brings spooky new Scenes to PS VR2 starting today](https://blog.playstation.com/2023/10/05/pistol-whips-13th-collection-brings-spooky-new-scenes-to-ps-vr2-starting-today/)<!-- GAME:END -->
+ - [Free Play Days – Tales of Arise, For the King, and Trine 5: A Clockwork Conspiracy](https://news.xbox.com/en-us/2023/10/05/free-play-days-tales-of-arise-for-the-king-and-trine-5-a-clockwork-conspiracy/)
+ - [Where to find the pickaxe in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-pickaxe-location)
+ - [Phantom Liberty has three original Idris Elba tracks as well as a full DJ set](https://www.pcgamer.com/phantom-liberty-has-three-original-idris-elba-tracks-as-well-as-a-full-dj-set)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
