@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Three Ways We Made Our Indie Game into the AAA-Sized Sandbox Adventure Bang-On Balls: Chronicles, out Now](https://news.xbox.com/en-us/2023/10/05/bang-on-balls-chronicles-out-now/)
- - [Why Tears of the Kingdom’s physics are so mind-blowing](https://www.polygon.com/videos/23904975/tears-of-the-kingdom-physics-video)
- - [A Cyberpunk 2077 &#39;live-action project&#39; is on the way](https://www.pcgamer.com/a-cyberpunk-2077-live-action-project-is-on-the-way)<!-- GAME:END -->
+ - [Armored Core 6 players hit with intense emotional whiplash as new patch buffs nearly ever weapon but nerfs beloved shotgun and grenade cannon](https://www.pcgamer.com/armored-core-6-players-hit-with-intense-emotional-whiplash-as-new-patch-buffs-nearly-ever-weapon-but-nerfs-beloved-shotgun-and-grenade-cannon)
+ - [Surrender Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23904748/surrender-enigma-solution-treasure-location)
+ - [17 Things I Wish I Knew Before Playing Assassin’s Creed Mirage](https://kotaku.com/assassin-s-creed-mirage-tips-tricks-guide-ubisoft-ps5-1850903755)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
