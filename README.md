@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8 Pro vs Apple iPhone 15 Pro and 15 Pro Max: Which should you buy?](https://www.androidauthority.com/google-pixel-8-pro-vs-iphone-15-pro-max-3372375/)
- - [Forza Motorsport looks and feels like Forza but with an RPG hiding under the hood](https://www.theverge.com/23905255/forza-motorsport-launch-date-first-impressions)
- - [The best T-Mobile deals of October 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
+ - [Source: Meta is paying several creators millions of dollars over multiple years for nonexclusive use of their likeness in its AI chatbots &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/231005/p25#a231005p25)
+ - [Sony confirms server security breaches that exposed employee data](https://www.theverge.com/2023/10/5/23905370/sony-interactive-entertainment-security-breach-confirmation)
+ - [Q&amp;A with OpenAI CTO Mira Murati about joining OpenAI, copyright challenges, AI regulation, competition, safety challenges, DALL-E 3, the future of AI, and more &lpar;Fortune&rpar;](http://www.techmeme.com/231005/p24#a231005p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
