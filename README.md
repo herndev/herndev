@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change the focus point of portrait photos in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-change-the-focus-point-of-portrait-photos-in-ios-17?utm_medium=rss)
- - [Cyberpunk 2077 is getting a live-action adaptation](https://www.theverge.com/2023/10/5/23904722/cyberpunk-2077-live-action-adaptation-anonymous-content)
- - [Pokémon’s new live-action drama series heaps on the nostalgia in new trailer](https://www.theverge.com/2023/10/5/23904650/pokemon-poketsume-trailer)<!-- TECH:END -->
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
+ - [Filing: UK chip startup Graphcore says it needs funds to continue as a &quot;going concern&quot; after 2022 revenue fell 46% and pretax losses grew 11% YoY to $204.6M &lpar;Jamie Nimmo/Bloomberg&rpar;](http://www.techmeme.com/231005/p17#a231005p17)
+ - [Woman named Siri had to change her name because of iOS 17](https://appleinsider.com/articles/23/10/05/woman-named-siri-has-had-to-change-her-name-since-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
