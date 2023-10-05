@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
- - ⏩ [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
+ - 💣 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
+ - ⏩ [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 👉 [What did she mean by this?](http://9gag.com/gag/arm0pX6)<!-- MEMES:END -->
 
 ---
 
