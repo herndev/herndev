@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everybody&#39;s Talking About the Wrong Sam Bankman-Fried Book](https://www.wired.com/story/sam-bankman-fried-ftx-trial-going-infinite-number-go-up/)
- - [Here’s the first proof a refreshed Steam Deck is nigh](https://www.theverge.com/2023/10/5/23904795/steam-deck-1030-fcc-certification-6ghz-wifi)
- - [12 Best Target Circle Week Deals &lpar;2023&rpar;: iPads, Apple Watches, and Legos](https://www.wired.com/story/target-circle-week-deals-october-2023-1/)<!-- TECH:END -->
+ - [Google Pixel 8 trade-in deals: Here’s how much you can save](https://www.androidauthority.com/google-pixel-8-trade-in-3372081/)
+ - [Sources: AT&amp;T is exploring options for its 70% DirecTV stake, such as adding a new investor or selling the stake and exiting the venture as early as August 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231005/p20#a231005p20)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
