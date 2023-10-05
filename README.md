@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when Forza Motorsport unlocks in your time zone](https://www.pcgamer.com/forza-motorsport-launch-unlock-time-early-access-premium)
- - [Nothing will go wrong with all these new vampire powers in Diablo 4 season 2](https://www.pcgamer.com/nothing-will-go-wrong-with-all-these-vampire-powers-in-diablo-4-season-2)
- - [Forza Motorsport review](https://www.pcgamer.com/forza-motorsport-pc-2023-review)<!-- GAME:END -->
+ - [Wordle today: Hint and answer for #838 Thursday, October 5](https://www.pcgamer.com/wordle-today-answer-838-october-5)
+ - [The Intel Arc A580 graphics card has finally broken cover](https://www.pcgamer.com/the-intel-arc-a580-graphics-card-has-finally-broken-cover)
+ - [Here&#39;s when Forza Motorsport unlocks in your time zone](https://www.pcgamer.com/forza-motorsport-launch-unlock-time-early-access-premium)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
