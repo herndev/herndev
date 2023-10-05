@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
- - ⏩ [Well well well](http://9gag.com/gag/aKEygqO)
- - 👉 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)<!-- MEMES:END -->
+ - 💣 [Money doesn&#39;t matter](http://9gag.com/gag/aBdMQxO)
+ - ⏩ [Normality is settling back again.](http://9gag.com/gag/aQEKnn2)
+ - 👉 [I think he&#39;s gonna kill himself with 3 shots on his back](http://9gag.com/gag/aqeO297)<!-- MEMES:END -->
 
 ---
 
