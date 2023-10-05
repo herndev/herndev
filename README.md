@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
- - ⏩ [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
- - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
+ - 💣 [Oh no he didn&#39;t](http://9gag.com/gag/aA07V5g)
+ - ⏩ [I think he&#39;s gonna kill himself with 3 shots on his back](http://9gag.com/gag/aqeO297)
+ - 👉 [Money doesn&#39;t matter](http://9gag.com/gag/aBdMQxO)<!-- MEMES:END -->
 
 ---
 
