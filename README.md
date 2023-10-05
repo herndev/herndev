@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find Kecleon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23613917/find-kecleon-shiny-pokestops-rates-spawns-get-locations)
- - [Your First Look At Multiplayer In Call of Duty: Modern Warfare III](https://kotaku.com/call-of-duty-modern-warfare-iii-multiplayer-maps-guns-1850903286)
- - [The best free games for Amazon Prime members](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)<!-- GAME:END -->
+ - [Three Ways We Made Our Indie Game into the AAA-Sized Sandbox Adventure Bang-On Balls: Chronicles, out Now](https://news.xbox.com/en-us/2023/10/05/bang-on-balls-chronicles-out-now/)
+ - [Why Tears of the Kingdom’s physics are so mind-blowing](https://www.polygon.com/videos/23904975/tears-of-the-kingdom-physics-video)
+ - [A Cyberpunk 2077 &#39;live-action project&#39; is on the way](https://www.pcgamer.com/a-cyberpunk-2077-live-action-project-is-on-the-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
