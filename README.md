@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - ⏩ [First and last day of work](http://9gag.com/gag/awZDK1W)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 💣 [\u25ab\ufe0f](http://9gag.com/gag/ay2A5qV)
+ - ⏩ [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 👉 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)<!-- MEMES:END -->
 
 ---
 
