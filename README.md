@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 rendered unplayable as Blizzard struggles with Battle.net login woes](https://www.pcgamer.com/diablo-4-rendered-unplayable-as-blizzard-struggles-with-battlenet-login-woes)
- - [New Intel Arc GPU driver boosts frame rates in 20 DX11 and DX12 games by up to 119%](https://www.pcgamer.com/new-intel-arc-gpu-driver-boosts-frame-rates-in-20-dx11-and-dx12-games-by-up-to-119)
- - [Cabal of &#39;gay furry hackers&#39; claims NATO website breach](https://www.pcgamer.com/gay-furry-hackers-claim-nato-website-breach)<!-- GAME:END -->
+ - [Ahsoka never bothered telling anyone it was just the middle of a story](https://www.polygon.com/star-wars/23903596/ahsoka-season-1-review)
+ - [How to reduce your Notoriety in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-reduce-notoriety)
+ - [Nvidia&#39;s reportedly prepping an even more rubbish RTX 3050 GPU](https://www.pcgamer.com/nvidias-reportedly-prepping-an-even-more-rubbish-rtx-3050-gpu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
