@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does the Google Pixel 8 support eSIM and dual-SIM?](https://www.androidauthority.com/google-pixel-8-esim-dual-sim-3371469/)
- - [The UK&#39;s Ofcom finds that Amazon and Microsoft make it difficult for UK businesses to switch cloud providers or use multiple and refers the case to the CMA &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231005/p5#a231005p5)
- - [Google confirms the Pixel 8 series will get 7 years of spare parts](https://www.androidauthority.com/google-pixel-8-series-spare-parts-7-years-3372278/)<!-- TECH:END -->
+ - [Some Pixel 8 trade-in offers are insultingly bad](https://www.androidauthority.com/google-pixel-8-trade-in-offers-3372276/)
+ - [The CMA announces an investigation into public cloud providers in the UK, following a referral from Ofcom, and says the probe will conclude by April 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p6#a231005p6)
+ - [Microsoft and Amazon face UK regulator investigation over cloud services](https://www.theverge.com/2023/10/5/23904375/uk-cma-microsoft-amazon-cloud-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
