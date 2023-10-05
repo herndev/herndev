@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Tales of Arise, For the King, and Trine 5: A Clockwork Conspiracy](https://news.xbox.com/en-us/2023/10/05/free-play-days-tales-of-arise-for-the-king-and-trine-5-a-clockwork-conspiracy/)
- - [Where to find the pickaxe in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-pickaxe-location)
- - [Phantom Liberty has three original Idris Elba tracks as well as a full DJ set](https://www.pcgamer.com/phantom-liberty-has-three-original-idris-elba-tracks-as-well-as-a-full-dj-set)<!-- GAME:END -->
+ - [Snack with DORITOS, MTN DEW, and ROCKSTAR to Experience Xbox Game Pass Ultimate and More Gaming Rewards](https://news.xbox.com/en-us/2023/10/05/snack-with-doritos-mtn-dew-and-rockstar-gaming-rewards/)
+ - [Trump Lawyer Sports Gamer Laptop At $250 Million Fraud Trial [Update: She Says It Belonged To The Court]](https://kotaku.com/donald-trump-new-york-fraud-trial-asus-rog-stix-habba-1850892471)
+ - [Sony Adding Free Movies To Most Expensive Versions Of PlayStation Plus](https://kotaku.com/playstation-5-sony-pictures-core-ps-plus-spider-verse-1850902951)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
