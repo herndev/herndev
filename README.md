@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some of the best horror movies ever are streaming for free](https://www.polygon.com/23904554/best-horror-movies-watch-free-tubi-freevee)
- - [9 useful tips to get the most out of Assassin&#39;s Creed Mirage](https://www.pcgamer.com/assassins-creed-mirage-best-tips)
- - [In 12 days, your Diablo 4 season 1 characters will be retired and sent back to the Eternal Realm](https://www.pcgamer.com/in-12-days-your-diablo-4-season-1-characters-will-be-retired-and-sent-back-to-the-eternal-realm)<!-- GAME:END -->
+ - [Warhammer 40,000: Darktide’s latest patch feels like the game’s 2.0](https://www.polygon.com/2023/10/5/23905352/warhammer-40k-darktide-skill-tree-class-build-patch-13)
+ - [Cyberpunk 2077 sequel is officially in early development, CD Projekt says](https://www.pcgamer.com/cyberpunk-2077-sequel-is-officially-in-early-development-cd-projekt-says)
+ - [Todd Howard says Starfield was &#39;made to be played for a long time,&#39; but a month after launch I&#39;m already drifting away](https://www.pcgamer.com/todd-howard-says-starfield-was-made-to-be-played-for-a-long-time-but-a-month-after-launch-im-already-drifting-away)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
