@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ahsoka never bothered telling anyone it was just the middle of a story](https://www.polygon.com/star-wars/23903596/ahsoka-season-1-review)
- - [How to reduce your Notoriety in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-reduce-notoriety)
- - [Nvidia&#39;s reportedly prepping an even more rubbish RTX 3050 GPU](https://www.pcgamer.com/nvidias-reportedly-prepping-an-even-more-rubbish-rtx-3050-gpu)<!-- GAME:END -->
+ - [Every Change In Cyberpunk 2077&#39;s New 2.01 Patch](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-01-patch-notes-ps5-1850902336)
+ - [Pistol Whip’s 13th collection brings spooky new Scenes to PS VR2 starting today](https://blog.playstation.com/2023/10/05/pistol-whips-13th-collection-brings-spooky-new-scenes-to-ps-vr2-starting-today/)
+ - [Pistol Whip’s 13th collection brings spooky new Scenes to PS VR2 starting today](https://blog.playstation.com/2023/10/05/pistol-whips-13th-collection-brings-spooky-new-scenes-to-ps-vr2-starting-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
