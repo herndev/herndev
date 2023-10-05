@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iRacing team is making a NASCAR racing sim for consoles](https://www.theverge.com/2023/10/5/23905123/iracing-nascar-racing-sim-consoles-playstation-xbox-nintendo-switch)
- - [How Nvidia, Intel, and Qualcomm are pushing back against White House plans to extend its crackdown on the sale of semiconductor technology to China &lpar;New York Times&rpar;](http://www.techmeme.com/231005/p21#a231005p21)
- - [Epic is changing Unreal Engine’s pricing for non-game developers](https://www.theverge.com/2023/10/5/23905082/epic-unreal-engine-pricing-change-film-automotive)<!-- TECH:END -->
+ - [The best Google Pixel 8 alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/best-google-pixel-8-alternatives-3371156/)
+ - [Some 4chan users are running a coordinated campaign to flood the internet with racist images created using Bing&#39;s text-to-image AI tool powered by DALL-E 3 &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231005/p23#a231005p23)
+ - [Elon Musk is stonewalling the SEC, and now he’s getting sued](https://www.theverge.com/2023/10/5/23905307/elon-musk-sec-testify-lawsuit-subpoena)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
