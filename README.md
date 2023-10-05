@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The time PC Gamer gave a Star Trek game 8%: ‘If this were any worse, it would be offensive’](https://www.pcgamer.com/the-time-pc-gamer-gave-a-star-trek-game-8-if-this-were-any-worse-it-would-be-offensive)
  - [A Gift for You Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903626/a-gift-for-you-enigma-solution-treasure-location)
- - [Just Rewards Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903604/just-rewards-enigma-solution-treasure-location)
- - [Find What I Stole! Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903586/find-what-i-stole-enigma-solution-treasure-location)<!-- GAME:END -->
+ - [Just Rewards Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903604/just-rewards-enigma-solution-treasure-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
