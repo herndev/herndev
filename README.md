@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8 trade-in deals: Here’s how much you can save](https://www.androidauthority.com/google-pixel-8-trade-in-3372081/)
- - [Sources: AT&amp;T is exploring options for its 70% DirecTV stake, such as adding a new investor or selling the stake and exiting the venture as early as August 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231005/p20#a231005p20)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [The iRacing team is making a NASCAR racing sim for consoles](https://www.theverge.com/2023/10/5/23905123/iracing-nascar-racing-sim-consoles-playstation-xbox-nintendo-switch)
+ - [How Nvidia, Intel, and Qualcomm are pushing back against White House plans to extend its crackdown on the sale of semiconductor technology to China &lpar;New York Times&rpar;](http://www.techmeme.com/231005/p21#a231005p21)
+ - [Epic is changing Unreal Engine’s pricing for non-game developers](https://www.theverge.com/2023/10/5/23905082/epic-unreal-engine-pricing-change-film-automotive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
