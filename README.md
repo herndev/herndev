@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3D sculpting tool ZBrush will get native iPad app in 2024](https://appleinsider.com/articles/23/10/05/3d-sculpting-tool-zbrush-will-get-native-ipad-app-in-2024?utm_medium=rss)
- - [Samsung’s SmartTag2 is smaller and lasts longer](https://www.theverge.com/2023/10/5/23902100/samsung-smarttag2-item-tracker-announce)
- - [In-depth iPhone 15 Pro Max camera review: native 24MP capture and 5x lens represent one of the biggest camera upgrades in iPhone&#39;s history for everyday users &lpar;Sebastiaan de With/Lux&rpar;](http://www.techmeme.com/231005/p12#a231005p12)<!-- TECH:END -->
+ - [How to change the focus point of portrait photos in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-change-the-focus-point-of-portrait-photos-in-ios-17?utm_medium=rss)
+ - [Cyberpunk 2077 is getting a live-action adaptation](https://www.theverge.com/2023/10/5/23904722/cyberpunk-2077-live-action-adaptation-anonymous-content)
+ - [Pokémon’s new live-action drama series heaps on the nostalgia in new trailer](https://www.theverge.com/2023/10/5/23904650/pokemon-poketsume-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
