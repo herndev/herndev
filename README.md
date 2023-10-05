@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Totally Killer is, like, such a fun slasher movie](https://www.theverge.com/23900347/totally-killer-review-amazon-prime-video)
- - [&#39;Masters of the Air&#39; WWII miniseries set to debut on Apple TV+ in January](https://appleinsider.com/articles/23/10/05/masters-of-the-air-wwii-miniseries-set-to-debut-on-apple-tv-in-january?utm_medium=rss)
- - [US v. Google: in 2018 and 2019, DuckDuckGo discussed becoming Safari&#39;s default search engine for private mode, but Apple&#39;s John Giannandrea rejected the idea &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231005/p11#a231005p11)<!-- TECH:END -->
+ - [3D sculpting tool ZBrush will get native iPad app in 2024](https://appleinsider.com/articles/23/10/05/3d-sculpting-tool-zbrush-will-get-native-ipad-app-in-2024?utm_medium=rss)
+ - [Samsung’s SmartTag2 is smaller and lasts longer](https://www.theverge.com/2023/10/5/23902100/samsung-smarttag2-item-tracker-announce)
+ - [In-depth iPhone 15 Pro Max camera review: native 24MP capture and 5x lens represent one of the biggest camera upgrades in iPhone&#39;s history for everyday users &lpar;Sebastiaan de With/Lux&rpar;](http://www.techmeme.com/231005/p12#a231005p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
