@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lexar NM790 4TB SSD review](https://www.pcgamer.com/lexar-nm790-4tb-ssd-review)
- - [An Intel Lunar Lake prototype pops up in the SiSoft Sandra database, throws down an early gauntlet, and leaves in a cloud of mystery](https://www.pcgamer.com/an-intel-lunar-lake-prototype-pops-up-in-the-sisoft-sandra-database-throws-down-an-early-gauntlet-and-leaves-in-a-cloud-of-mystery)
- - [The voice of Baldur&#39;s Gate 3&#39;s Astarion was asked to tone down the horny for his final romance scene: &#39;ONLY SLIGHTLY, NEIL&#39;](https://www.pcgamer.com/the-voice-of-baldurs-gate-3s-astarion-was-asked-to-tone-down-the-horny-for-his-final-romance-scene-only-slightly-neil)<!-- GAME:END -->
+ - [Diablo 4 rendered unplayable as Blizzard struggles with Battle.net login woes](https://www.pcgamer.com/diablo-4-rendered-unplayable-as-blizzard-struggles-with-battlenet-login-woes)
+ - [New Intel Arc GPU driver boosts frame rates in 20 DX11 and DX12 games by up to 119%](https://www.pcgamer.com/new-intel-arc-gpu-driver-boosts-frame-rates-in-20-dx11-and-dx12-games-by-up-to-119)
+ - [Cabal of &#39;gay furry hackers&#39; claims NATO website breach](https://www.pcgamer.com/gay-furry-hackers-claim-nato-website-breach)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
