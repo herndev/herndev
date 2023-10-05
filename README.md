@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Snack with DORITOS, MTN DEW, and ROCKSTAR to Experience Xbox Game Pass Ultimate and More Gaming Rewards](https://news.xbox.com/en-us/2023/10/05/snack-with-doritos-mtn-dew-and-rockstar-gaming-rewards/)
- - [Trump Lawyer Sports Gamer Laptop At $250 Million Fraud Trial [Update: She Says It Belonged To The Court]](https://kotaku.com/donald-trump-new-york-fraud-trial-asus-rog-stix-habba-1850892471)
- - [Sony Adding Free Movies To Most Expensive Versions Of PlayStation Plus](https://kotaku.com/playstation-5-sony-pictures-core-ps-plus-spider-verse-1850902951)<!-- GAME:END -->
+ - [Assassin’s Creed Mirage is Out Now and the Creative Director Discusses Honoring the Iconic Franchise with a Return to Its Roots](https://news.xbox.com/en-us/2023/10/05/assassins-creed-mirage-is-out-now/)
+ - [I hope the new Transformers comic does awaken something in me, actually](https://www.polygon.com/23904594/transformers-daniel-warren-johnson-comics)
+ - [Forza Motorsport car list, from all base game vehicles to October’s Car Pass](https://www.polygon.com/guides/23904428/forza-motorsport-8-car-list-car-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
