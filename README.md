@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: FTX employees in the US found and reported the backdoor Alameda used to allegedly withdraw billions in customer funds, months before FTX&#39;s collapse &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231005/p10#a231005p10)
- - [Comcast and Charter have begun rolling out the first Xumo streaming box](https://www.theverge.com/2023/10/5/23904453/comcast-charter-xumo-stream-box-now-available)
- - [Apple researching how to make a &#39;Star Trek&#39; communicator badge](https://appleinsider.com/articles/22/03/24/apple-researching-how-to-make-a-star-trek-communicator-badge?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s Totally Killer is, like, such a fun slasher movie](https://www.theverge.com/23900347/totally-killer-review-amazon-prime-video)
+ - [&#39;Masters of the Air&#39; WWII miniseries set to debut on Apple TV+ in January](https://appleinsider.com/articles/23/10/05/masters-of-the-air-wwii-miniseries-set-to-debut-on-apple-tv-in-january?utm_medium=rss)
+ - [US v. Google: in 2018 and 2019, DuckDuckGo discussed becoming Safari&#39;s default search engine for private mode, but Apple&#39;s John Giannandrea rejected the idea &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231005/p11#a231005p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
