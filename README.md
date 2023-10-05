@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
- - [Filing: UK chip startup Graphcore says it needs funds to continue as a &quot;going concern&quot; after 2022 revenue fell 46% and pretax losses grew 11% YoY to $204.6M &lpar;Jamie Nimmo/Bloomberg&rpar;](http://www.techmeme.com/231005/p17#a231005p17)
- - [Woman named Siri had to change her name because of iOS 17](https://appleinsider.com/articles/23/10/05/woman-named-siri-has-had-to-change-her-name-since-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Everybody&#39;s Talking About the Wrong Sam Bankman-Fried Book](https://www.wired.com/story/sam-bankman-fried-ftx-trial-going-infinite-number-go-up/)
+ - [Here’s the first proof a refreshed Steam Deck is nigh](https://www.theverge.com/2023/10/5/23904795/steam-deck-1030-fcc-certification-6ghz-wifi)
+ - [12 Best Target Circle Week Deals &lpar;2023&rpar;: iPads, Apple Watches, and Legos](https://www.wired.com/story/target-circle-week-deals-october-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
