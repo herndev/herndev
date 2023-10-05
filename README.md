@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Normality is settling back again.](http://9gag.com/gag/aQEKnn2)
- - ⏩ [Nike \ud83d\udfe0](http://9gag.com/gag/a7qBbqL)
- - 👉 [I think he&#39;s gonna kill himself with 3 shots on his back](http://9gag.com/gag/aqeO297)<!-- MEMES:END -->
+ - 💣 [Well well well](http://9gag.com/gag/aKEygqO)
+ - ⏩ [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
+ - 👉 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)<!-- MEMES:END -->
 
 ---
 
