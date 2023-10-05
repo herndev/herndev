@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer for #838 Thursday, October 5](https://www.pcgamer.com/wordle-today-answer-838-october-5)
- - [The Intel Arc A580 graphics card has finally broken cover](https://www.pcgamer.com/the-intel-arc-a580-graphics-card-has-finally-broken-cover)
- - [Here&#39;s when Forza Motorsport unlocks in your time zone](https://www.pcgamer.com/forza-motorsport-launch-unlock-time-early-access-premium)<!-- GAME:END -->
+ - [A Gift for You Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903626/a-gift-for-you-enigma-solution-treasure-location)
+ - [Just Rewards Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903604/just-rewards-enigma-solution-treasure-location)
+ - [Find What I Stole! Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903586/find-what-i-stole-enigma-solution-treasure-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
