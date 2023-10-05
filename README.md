@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The time PC Gamer gave a Star Trek game 8%: ‘If this were any worse, it would be offensive’](https://www.pcgamer.com/the-time-pc-gamer-gave-a-star-trek-game-8-if-this-were-any-worse-it-would-be-offensive)
- - [A Gift for You Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903626/a-gift-for-you-enigma-solution-treasure-location)
- - [Just Rewards Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903604/just-rewards-enigma-solution-treasure-location)<!-- GAME:END -->
+ - [Lexar NM790 4TB SSD review](https://www.pcgamer.com/lexar-nm790-4tb-ssd-review)
+ - [An Intel Lunar Lake prototype pops up in the SiSoft Sandra database, throws down an early gauntlet, and leaves in a cloud of mystery](https://www.pcgamer.com/an-intel-lunar-lake-prototype-pops-up-in-the-sisoft-sandra-database-throws-down-an-early-gauntlet-and-leaves-in-a-cloud-of-mystery)
+ - [The voice of Baldur&#39;s Gate 3&#39;s Astarion was asked to tone down the horny for his final romance scene: &#39;ONLY SLIGHTLY, NEIL&#39;](https://www.pcgamer.com/the-voice-of-baldurs-gate-3s-astarion-was-asked-to-tone-down-the-horny-for-his-final-romance-scene-only-slightly-neil)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
