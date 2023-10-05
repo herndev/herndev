@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - ⏩ [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 👉 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)<!-- MEMES:END -->
+ - ⏩ [First and last day of work](http://9gag.com/gag/awZDK1W)
+ - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
 
 ---
 
