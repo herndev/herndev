@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New MacBook Pro to arrive before end of 2023, claims questionable rumor](https://appleinsider.com/articles/23/10/05/new-macbook-pro-to-arrive-before-end-of-2023-claims-questionable-rumor?utm_medium=rss)
- - [Samsung unveils Galaxy SmartTag 2, with an updated design, both BT low energy and UWB, and exclusive to Samsung devices, available on October 10 for $30 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231005/p8#a231005p8)
- - [The best Google Pixel Watch 2 alternatives](https://www.androidauthority.com/best-google-pixel-watch-2-alternatives-3370419/)<!-- TECH:END -->
+ - [Google Pixel 8 vs Samsung Galaxy S23 FE: Which one should you buy?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-fe-3371810/)
+ - [Amazon&#39;s Project Kuiper plans to launch its first two demo internet satellites, KuiperSat-1 and KuiperSat-2, on October 6 &lpar;George Dvorsky/Gizmodo&rpar;](http://www.techmeme.com/231005/p9#a231005p9)
+ - [Adobe teases new AI photo editing tool that will ‘revolutionize’ its products](https://www.theverge.com/2023/10/5/23904416/adobe-max-sneak-project-stardust-ai-photo-editing-tool)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
