@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Money doesn&#39;t matter](http://9gag.com/gag/aBdMQxO)
- - ⏩ [Normality is settling back again.](http://9gag.com/gag/aQEKnn2)
+ - 💣 [Normality is settling back again.](http://9gag.com/gag/aQEKnn2)
+ - ⏩ [Nike \ud83d\udfe0](http://9gag.com/gag/a7qBbqL)
  - 👉 [I think he&#39;s gonna kill himself with 3 shots on his back](http://9gag.com/gag/aqeO297)<!-- MEMES:END -->
 
 ---
