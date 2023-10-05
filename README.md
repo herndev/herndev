@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
- - ⏩ [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
- - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
+ - 💣 [Doing childhood right](http://9gag.com/gag/a5XAKeq)
+ - ⏩ [Always believe that you can do better](http://9gag.com/gag/a1PneBv)
+ - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
 
 ---
 
