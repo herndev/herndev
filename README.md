@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core 6 players hit with intense emotional whiplash as new patch buffs nearly ever weapon but nerfs beloved shotgun and grenade cannon](https://www.pcgamer.com/armored-core-6-players-hit-with-intense-emotional-whiplash-as-new-patch-buffs-nearly-ever-weapon-but-nerfs-beloved-shotgun-and-grenade-cannon)
- - [Surrender Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23904748/surrender-enigma-solution-treasure-location)
- - [17 Things I Wish I Knew Before Playing Assassin’s Creed Mirage](https://kotaku.com/assassin-s-creed-mirage-tips-tricks-guide-ubisoft-ps5-1850903755)<!-- GAME:END -->
+ - [Some of the best horror movies ever are streaming for free](https://www.polygon.com/23904554/best-horror-movies-watch-free-tubi-freevee)
+ - [9 useful tips to get the most out of Assassin&#39;s Creed Mirage](https://www.pcgamer.com/assassins-creed-mirage-best-tips)
+ - [In 12 days, your Diablo 4 season 1 characters will be retired and sent back to the Eternal Realm](https://www.pcgamer.com/in-12-days-your-diablo-4-season-1-characters-will-be-retired-and-sent-back-to-the-eternal-realm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
