@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Mirage is Out Now and the Creative Director Discusses Honoring the Iconic Franchise with a Return to Its Roots](https://news.xbox.com/en-us/2023/10/05/assassins-creed-mirage-is-out-now/)
- - [I hope the new Transformers comic does awaken something in me, actually](https://www.polygon.com/23904594/transformers-daniel-warren-johnson-comics)
- - [Forza Motorsport car list, from all base game vehicles to October’s Car Pass](https://www.polygon.com/guides/23904428/forza-motorsport-8-car-list-car-pass)<!-- GAME:END -->
+ - [How to find Kecleon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23613917/find-kecleon-shiny-pokestops-rates-spawns-get-locations)
+ - [Your First Look At Multiplayer In Call of Duty: Modern Warfare III](https://kotaku.com/call-of-duty-modern-warfare-iii-multiplayer-maps-guns-1850903286)
+ - [The best free games for Amazon Prime members](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
