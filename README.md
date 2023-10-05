@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doing childhood right](http://9gag.com/gag/a5XAKeq)
- - ⏩ [Always believe that you can do better](http://9gag.com/gag/a1PneBv)
+ - 💣 [Its back!](http://9gag.com/gag/aYVBbQq)
+ - ⏩ [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
  - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
 
 ---
