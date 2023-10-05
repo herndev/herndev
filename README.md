@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
- - ⏩ [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 💣 [A road without a turn for 200 Km .](http://9gag.com/gag/az2zLWp)
+ - ⏩ [His mum is a master crusher!](http://9gag.com/gag/aOxObZN)
+ - 👉 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)<!-- MEMES:END -->
 
 ---
 
