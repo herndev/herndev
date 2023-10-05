@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Darktide’s latest patch feels like the game’s 2.0](https://www.polygon.com/2023/10/5/23905352/warhammer-40k-darktide-skill-tree-class-build-patch-13)
- - [Cyberpunk 2077 sequel is officially in early development, CD Projekt says](https://www.pcgamer.com/cyberpunk-2077-sequel-is-officially-in-early-development-cd-projekt-says)
- - [Todd Howard says Starfield was &#39;made to be played for a long time,&#39; but a month after launch I&#39;m already drifting away](https://www.pcgamer.com/todd-howard-says-starfield-was-made-to-be-played-for-a-long-time-but-a-month-after-launch-im-already-drifting-away)<!-- GAME:END -->
+ - [Final Fantasy 14 players study a pair of legs for clues about a new playable race in its next expansion](https://www.pcgamer.com/final-fantasy-14-players-study-a-pair-of-legs-for-clues-about-a-new-playable-race-in-its-next-expansion)
+ - [Payday 3&#39;s first update is delayed to mid-October &#39;to ensure its stability,&#39; more server maintenance is coming this weekend](https://www.pcgamer.com/payday-3s-first-update-is-delayed-to-mid-october-to-ensure-its-stability-more-server-maintenance-is-coming-this-weekend)
+ - [CD Projekt Red Spent Over $120 Million Saving Cyberpunk 2077’s Reputation](https://kotaku.com/cdpr-cyberpunk-2077-dlc-phantom-liberty-budget-2-0-cost-1850904809)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
