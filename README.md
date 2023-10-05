@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Pixel 8 trade-in offers are insultingly bad](https://www.androidauthority.com/google-pixel-8-trade-in-offers-3372276/)
- - [The CMA announces an investigation into public cloud providers in the UK, following a referral from Ofcom, and says the probe will conclude by April 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p6#a231005p6)
- - [Microsoft and Amazon face UK regulator investigation over cloud services](https://www.theverge.com/2023/10/5/23904375/uk-cma-microsoft-amazon-cloud-investigation)<!-- TECH:END -->
+ - [New MacBook Pro to arrive before end of 2023, claims questionable rumor](https://appleinsider.com/articles/23/10/05/new-macbook-pro-to-arrive-before-end-of-2023-claims-questionable-rumor?utm_medium=rss)
+ - [Samsung unveils Galaxy SmartTag 2, with an updated design, both BT low energy and UWB, and exclusive to Samsung devices, available on October 10 for $30 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231005/p8#a231005p8)
+ - [The best Google Pixel Watch 2 alternatives](https://www.androidauthority.com/best-google-pixel-watch-2-alternatives-3370419/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
