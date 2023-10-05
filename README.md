@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u25ab\ufe0f](http://9gag.com/gag/ay2A5qV)
- - ⏩ [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 👉 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)<!-- MEMES:END -->
+ - 💣 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - ⏩ [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
+ - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
 
 ---
 
