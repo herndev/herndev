@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She got fired](http://9gag.com/gag/a6qzQZA)
+ - 💣 [Orange](http://9gag.com/gag/a5XAPgo)
  - ⏩ [WTF Dude](http://9gag.com/gag/aBdM1wQ)
- - 👉 [Due to the rapid change of frames, the brain doesn&#39;t have time to process the changing faces and fills in the details by itself leading to distortion. You&#39;re literally hallucinating.](http://9gag.com/gag/aBdM182)<!-- MEMES:END -->
+ - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
 
 ---
 
