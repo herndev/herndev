@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher season 4: Expected release date and the latest rumors](https://www.androidauthority.com/the-witcher-season-4-release-date-3372337/)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [How to set a browser for private searching in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-set-a-browser-for-private-searching-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Castlevania: Nocturne is coming back for a second season](https://www.theverge.com/23906342/castlevania-nocturne-season-2)
+ - [UK&#39;s Information Commissioner&#39;s Office issues a preliminary enforcement notice to Snap about concerns that My AI chatbot may be a risk to children&#39;s privacy &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231006/p9#a231006p9)
+ - [The 23 Best Advent Calendars You Can Buy in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
