@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
- - ⏩ [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
- - 👉 [Hehe](http://9gag.com/gag/a9qeYGo)<!-- MEMES:END -->
+ - 💣 [Orange](http://9gag.com/gag/a5XAPgo)
+ - ⏩ [She got fired](http://9gag.com/gag/a6qzQZA)
+ - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
 
 ---
 
