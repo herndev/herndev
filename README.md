@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orange](http://9gag.com/gag/a5XAPgo)
- - ⏩ [Coochie Monster](http://9gag.com/gag/amAy99d)
- - 👉 [Found the long version](http://9gag.com/gag/aKEyPgW)<!-- MEMES:END -->
+ - 💣 [Coochie Monster](http://9gag.com/gag/amAy99d)
+ - ⏩ [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
+ - 👉 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)<!-- MEMES:END -->
 
 ---
 
