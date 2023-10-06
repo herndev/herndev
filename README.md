@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orange](http://9gag.com/gag/a5XAPgo)
- - ⏩ [WTF Dude](http://9gag.com/gag/aBdM1wQ)
- - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
+ - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - ⏩ [What are best friends for](http://9gag.com/gag/a6qzLg9)
+ - 👉 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)<!-- MEMES:END -->
 
 ---
 
