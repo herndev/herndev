@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehe](http://9gag.com/gag/a9qeYGo)
- - ⏩ [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 👉 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)<!-- MEMES:END -->
+ - 💣 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - ⏩ [Emotional damage!](http://9gag.com/gag/ajVjqBw)
+ - 👉 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)<!-- MEMES:END -->
 
 ---
 
