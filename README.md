@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel 8 launch was a parade of AI](https://www.theverge.com/2023/10/6/23905985/google-pixel-8-launch-artificial-intelligence-ai-hype-parade)
- - [Analysis: Binance transferred just ~10.78M BNB tokens in its 2017 ICO vs. the 100M earmarked, and quietly gave angel investors 40M BNBs, double their allocation &lpar;Javier Paz/Forbes&rpar;](http://www.techmeme.com/231006/p7#a231006p7)
- - [Best Kindle &lpar;2023&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
+ - [&#39;A Galactic Embarrassment&#39;: The Crypto World Is Already Sick of SBF&#39;s Trial](https://www.wired.com/story/galactic-embarrassment-crypto-world-is-already-sick-of-sbf-trial/)
+ - [25 Best Early October Prime Day Deals &lpar;2023&rpar; on Headphones, Vacuums, and More](https://www.wired.com/story/best-october-prime-day-deals-2023-3/)
+ - [Meet the Next Generation of Doctors—and Their Surgical Robots](https://www.wired.com/story/next-generation-doctors-surgical-robots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
