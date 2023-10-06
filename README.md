@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
- - ⏩ [South Africa is not a real country](http://9gag.com/gag/anz31o0)
- - 👉 [She got fired](http://9gag.com/gag/a6qzQZA)<!-- MEMES:END -->
+ - ⏩ [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
+ - 👉 [Hehe](http://9gag.com/gag/a9qeYGo)<!-- MEMES:END -->
 
 ---
 
