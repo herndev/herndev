@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 9 to 13](https://news.xbox.com/en-us/2023/10/06/next-week-on-xbox-new-games-for-october-9-to-13/)
- - [Wa-hoo! Nintendo’s Mario-themed Switch is now available](https://www.polygon.com/deals/23853828/nintendo-red-mario-oled-switch-pre-order)
- - [Nintendo’s new Animal Crossing Switch Lite bundle is now available](https://www.polygon.com/deals/23859631/animal-crossing-switch-lite-bundle-black-friday-holidays-buy)<!-- GAME:END -->
+ - [Battlefield 2042: How Season 6 – Dark Creations is Bringing More Variety and Versatility](https://news.xbox.com/en-us/2023/10/06/battlefield-2042-season-6-dark-creations-preview/)
+ - [‘The Calling’ hidden place location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23897197/oasis-location-hidden-place-nehals-calling)
+ - [More people are playing Arkane&#39;s Prey than Redfall on Steam right now](https://www.pcgamer.com/more-people-are-playing-arkanes-prey-than-redfall-on-steam-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
