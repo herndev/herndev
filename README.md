@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: The Pixel Watch 2 can’t use cases meant for the first-gen Pixel Watch](https://www.androidauthority.com/pixel-watch-2-incompatible-cases-3372876/)
  - [Google’s handy Magnifier app is now available for Pixels](https://www.androidauthority.com/google-magnifier-app-launched-3372858/)
- - [Forget the new Pixels, Google’s made a wearable Gboard hat that actually types](https://www.androidauthority.com/google-gboard-hat-3372855/)
- - [Going Infinite excerpt: how effective altruism pushed Caroline Ellison to Alameda, which would lose its management team and half its employees in 2018, and more &lpar;Michael Lewis/Wall Street Journal&rpar;](http://www.techmeme.com/231006/p1#a231006p1)<!-- TECH:END -->
+ - [Forget the new Pixels, Google’s made a wearable Gboard hat that actually types](https://www.androidauthority.com/google-gboard-hat-3372855/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
