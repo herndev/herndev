@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best policy](http://9gag.com/gag/amAy9Q2)
- - ⏩ [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 👉 [Hol up](http://9gag.com/gag/aNwXnK0)<!-- MEMES:END -->
+ - 💣 [She got fired](http://9gag.com/gag/a6qzQZA)
+ - ⏩ [WTF Dude](http://9gag.com/gag/aBdM1wQ)
+ - 👉 [Due to the rapid change of frames, the brain doesn&#39;t have time to process the changing faces and fills in the details by itself leading to distortion. You&#39;re literally hallucinating.](http://9gag.com/gag/aBdM182)<!-- MEMES:END -->
 
 ---
 
