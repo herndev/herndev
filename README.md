@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo exec promises 80 percent of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
- - [Galaxy Z Fold 5 gets the One UI 6 beta, no word on the Flip 5](https://www.androidauthority.com/galaxy-z-fold-5-one-ui-6-beta-3373150/)
- - [Play Jeopardy Whenever, Wherever With This Apple Arcade Title     - CNET](https://www.cnet.com/tech/mobile/play-jeopardy-whenever-wherever-with-this-apple-arcade-title/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Luna cloud gaming service adds the ability for users to purchase games, starting with select Ubisoft titles &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231006/p15#a231006p15)
+ - [New iPhone 15 teardown gets into microscopic detail](https://appleinsider.com/articles/23/10/06/new-iphone-15-teardown-gets-into-microscopic-detail?utm_medium=rss)
+ - [THORSwap moves to &quot;maintenance mode&quot; after criminals linked to the FTX hack in 2022 used the decentralized exchange to convert $38M worth of ether to bitcoin &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/231006/p14#a231006p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
