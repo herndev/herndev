@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [History unfortunately repeats itself as Telltale Games lays off &#39;most&#39; of its staff](https://www.pcgamer.com/history-unfortunately-repeats-itself-as-telltale-games-lays-off-most-of-its-staff)
- - [How to upgrade your weapons and outfit in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-upgrade-weapons-outfits)
- - [CD Projekt pops the cork on Cyberpunk&#39;s big numbers as it revels in the post-expansion victory lap](https://www.pcgamer.com/cd-projekt-pops-the-cork-on-cyberpunks-big-numbers-as-it-revels-in-the-post-expansion-victory-lap)<!-- GAME:END -->
+ - [Ke Huy Quan’s character is the key to making Loki season 2 work](https://www.polygon.com/23901822/loki-season-2-ke-huy-quan-ob-cast-marvel-mcu)
+ - [Intel&#39;s betting on a big &#39;Windows refresh&#39; in 2024 to boost revenue client CPU revenue, seemingly confirming Windows 12 release date rumours](https://www.pcgamer.com/intels-betting-on-a-big-windows-refresh-in-2024-to-boost-revenue-client-cpu-revenue-seemingly-confirming-windows-12-release-date-rumours)
+ - [Epic only realized it had ‘financial problem’ that led to layoffs 10 weeks ago](https://www.polygon.com/23905950/epic-layoffs-tim-sweeney-fortnite)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
