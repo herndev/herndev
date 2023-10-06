@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Luna cloud gaming service adds the ability for users to purchase games, starting with select Ubisoft titles &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231006/p15#a231006p15)
- - [New iPhone 15 teardown gets into microscopic detail](https://appleinsider.com/articles/23/10/06/new-iphone-15-teardown-gets-into-microscopic-detail?utm_medium=rss)
- - [THORSwap moves to &quot;maintenance mode&quot; after criminals linked to the FTX hack in 2022 used the decentralized exchange to convert $38M worth of ether to bitcoin &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/231006/p14#a231006p14)<!-- TECH:END -->
+ - [The best price ever on Sharge’s transparent batteries and retro Mac chargers](https://www.theverge.com/2023/10/6/23906552/sharge-sharegeek-storm-retro-mac-sale-best-price)
+ - [Celebrate Spooky Season With These Upcoming Titles on Netflix Games     - CNET](https://www.cnet.com/tech/gaming/celebrate-spooky-season-with-these-upcoming-titles-on-netflix-games/#ftag=CAD590a51e)
+ - [X appears to be rolling out a new mobile ad format that can&#39;t be reported or blocked, lacks an ad label and user profile, and doesn&#39;t disclose the advertiser &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231006/p16#a231006p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
