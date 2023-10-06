@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Modern Warfare 3 multiplayer reveal was a glimpse into the sweatiest possible future for Call of Duty](https://www.pcgamer.com/the-modern-warfare-3-multiplayer-reveal-was-a-glimpse-into-the-sweatiest-possible-future-for-call-of-duty)
- - [Final Fantasy 14 players study a pair of legs for clues about a new playable race in its next expansion](https://www.pcgamer.com/final-fantasy-14-players-study-a-pair-of-legs-for-clues-about-a-new-playable-race-in-its-next-expansion)
- - [Payday 3&#39;s first update is delayed to mid-October &#39;to ensure its stability,&#39; more server maintenance is coming this weekend](https://www.pcgamer.com/payday-3s-first-update-is-delayed-to-mid-october-to-ensure-its-stability-more-server-maintenance-is-coming-this-weekend)<!-- GAME:END -->
+ - [Second Wave is now available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2023/10/05/second-wave-is-now-available-in-preview-for-xbox-insiders/)
+ - [AMD APUs are set to make their AM5 debut after support was added to AMD&#39;s latest BIOS microcode](https://www.pcgamer.com/amd-apus-are-set-to-make-their-am5-debut-after-support-was-added-to-amds-latest-bios-microcode)
+ - [The Modern Warfare 3 multiplayer reveal was a glimpse into the sweatiest possible future for Call of Duty](https://www.pcgamer.com/the-modern-warfare-3-multiplayer-reveal-was-a-glimpse-into-the-sweatiest-possible-future-for-call-of-duty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
