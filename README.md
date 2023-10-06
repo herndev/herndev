@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will there be a season 4 of Ted Lasso?](https://www.androidauthority.com/will-there-be-a-season-4-of-ted-lasso-3372862/)
- - [Source: Microsoft plans to close its $68.7B Activision acquisition on October 13, with a final decision from UK&#39;s CMA allowing the deal expected next week &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231006/p4#a231006p4)
- - [South Korea threatens to fine Apple over App Store dominance](https://appleinsider.com/articles/23/10/06/south-korea-threatens-to-fine-apple-over-app-store-dominance?utm_medium=rss)<!-- TECH:END -->
+ - [Former Facebook policy staff detail their experience with &quot;jawboning&quot;, or informal government efforts to persuade platforms to change their moderation policies &lpar;Knight First Amendment Institute&rpar;](http://www.techmeme.com/231006/p5#a231006p5)
+ - [I Took 600+ Photos With the iPhone 15 Pro and Pro Max. Take a Look     - CNET](https://www.cnet.com/pictures/i-took-600-photos-with-the-iphone-15-pro-and-pro-max-take-a-look/#ftag=CAD590a51e)
+ - [Tested: Does iOS 17.0.3 stop the iPhone 15 Pro overheating?](https://www.androidauthority.com/iphone-15-overheating-hotfix-tested-3372421/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
