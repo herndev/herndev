@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better in this way](http://9gag.com/gag/aNwXWqv)
- - ⏩ [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
- - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
+ - 💣 [They never had a chance](http://9gag.com/gag/aBdMwKD)
+ - ⏩ [The girl&#39;s happiness is priceless, faith in humanity restored.](http://9gag.com/gag/agobGLr)
+ - 👉 [South Africa is not a real country](http://9gag.com/gag/anz31o0)<!-- MEMES:END -->
 
 ---
 
