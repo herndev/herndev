@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta is paying several creators millions of dollars over multiple years for nonexclusive use of their likeness in its AI chatbots &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/231005/p25#a231005p25)
- - [Sony confirms server security breaches that exposed employee data](https://www.theverge.com/2023/10/5/23905370/sony-interactive-entertainment-security-breach-confirmation)
- - [Q&amp;A with OpenAI CTO Mira Murati about joining OpenAI, copyright challenges, AI regulation, competition, safety challenges, DALL-E 3, the future of AI, and more &lpar;Fortune&rpar;](http://www.techmeme.com/231005/p24#a231005p24)<!-- TECH:END -->
+ - [Samsung Galaxy Tab A8 vs Samsung Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-a8-vs-samsung-galaxy-tab-s9-fe-should-you-upgrade-3372562/)
+ - [Canada isn’t trying to silence podcasters](https://www.theverge.com/2023/10/5/23905644/canada-podcast-platform-registration-requirement)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
