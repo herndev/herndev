@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orange](http://9gag.com/gag/a5XAPgo)
- - ⏩ [Hehe](http://9gag.com/gag/a9qeYGo)
- - 👉 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)<!-- MEMES:END -->
+ - 💣 [South Africa is not a real country](http://9gag.com/gag/anz31o0)
+ - ⏩ [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
+ - 👉 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)<!-- MEMES:END -->
 
 ---
 
