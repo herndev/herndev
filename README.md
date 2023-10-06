@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2310.231004-2200&rpar;](https://news.xbox.com/en-us/2023/10/06/xbox-insider-release-notes-alpha-2310-231004-2200/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231003-2000&rpar;](https://news.xbox.com/en-us/2023/10/06/xbox-insider-release-notes-alpha-skip-ahead-2408-231003-2000/)
- - [You&#39;re doomed from the start in &#39;merciless&#39; survival city builder Dotage, but trying to survive the apocalypse is all part of the fun](https://www.pcgamer.com/youre-doomed-from-the-start-in-merciless-survival-city-builder-dotage-but-trying-to-survive-the-apocalypse-is-all-part-of-the-fun)<!-- GAME:END -->
+ - [Redfall gets its long-awaited performance mode on Xbox](https://www.polygon.com/23906655/redfall-performance-mode-xbox-steam)
+ - [Ghostwire: Tokyo is free for Amazon Prime subscribers](https://www.pcgamer.com/ghostwire-tokyo-is-free-for-amazon-prime-subscribers)
+ - [Detective Pikachu Returns Has A Fun Joke About The 2019 Movie](https://kotaku.com/pokemon-detective-pikachu-returns-live-action-movie-1850907630)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
