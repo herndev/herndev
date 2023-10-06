@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer for #839 Friday, October 6](https://www.pcgamer.com/wordle-today-answer-839-october-6)
- - [Stay tuned after Loki’s season 2 premiere, because it has a post-credits scene](https://www.polygon.com/23901561/loki-post-credits-scene-season-2-episode-1-sylvie-broxton-oklahoma)
- - [Second Wave is now available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2023/10/05/second-wave-is-now-available-in-preview-for-xbox-insiders/)<!-- GAME:END -->
+ - [History unfortunately repeats itself as Telltale Games lays off &#39;most&#39; of its staff](https://www.pcgamer.com/history-unfortunately-repeats-itself-as-telltale-games-lays-off-most-of-its-staff)
+ - [How to upgrade your weapons and outfit in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-upgrade-weapons-outfits)
+ - [CD Projekt pops the cork on Cyberpunk&#39;s big numbers as it revels in the post-expansion victory lap](https://www.pcgamer.com/cd-projekt-pops-the-cork-on-cyberpunks-big-numbers-as-it-revels-in-the-post-expansion-victory-lap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
