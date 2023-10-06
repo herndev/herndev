@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
- - ⏩ [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
+ - 💣 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
+ - ⏩ [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
  - 👉 [Hehe](http://9gag.com/gag/a9qeYGo)<!-- MEMES:END -->
 
 ---
