@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall gets its long-awaited performance mode on Xbox](https://www.polygon.com/23906655/redfall-performance-mode-xbox-steam)
- - [Ghostwire: Tokyo is free for Amazon Prime subscribers](https://www.pcgamer.com/ghostwire-tokyo-is-free-for-amazon-prime-subscribers)
- - [Detective Pikachu Returns Has A Fun Joke About The 2019 Movie](https://kotaku.com/pokemon-detective-pikachu-returns-live-action-movie-1850907630)<!-- GAME:END -->
+ - [Where to find Gear Chest locations in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23903430/gear-chests-locations-solutions-where-to-find)
+ - [It sure looks like edgy Pinocchio retelling Lies of P is getting some kind of DLC](https://www.pcgamer.com/it-sure-looks-like-edgy-pinocchio-retelling-lies-of-p-is-getting-some-kind-of-dlc)
+ - [Where to find all Enigma locations in Assassin’s Creed Mirage](https://www.polygon.com/23901366/enigma-locations-assassins-creed-ac-mirage-guides)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
