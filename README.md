@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
- - ⏩ [Hehe](http://9gag.com/gag/a9qeYGo)
- - 👉 [Emotional damage!](http://9gag.com/gag/ajVjqBw)<!-- MEMES:END -->
+ - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - ⏩ [Read the Titles](http://9gag.com/gag/a1PnMrD)
+ - 👉 [WTF Dude](http://9gag.com/gag/aBdM1wQ)<!-- MEMES:END -->
 
 ---
 
