@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042: How Season 6 – Dark Creations is Bringing More Variety and Versatility](https://news.xbox.com/en-us/2023/10/06/battlefield-2042-season-6-dark-creations-preview/)
- - [‘The Calling’ hidden place location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23897197/oasis-location-hidden-place-nehals-calling)
- - [More people are playing Arkane&#39;s Prey than Redfall on Steam right now](https://www.pcgamer.com/more-people-are-playing-arkanes-prey-than-redfall-on-steam-right-now)<!-- GAME:END -->
+ - [Pre-order the 11-season Blu-ray collector’s box of The Walking Dead](https://www.polygon.com/deals/23905090/the-walking-dead-complete-collection-dvd-blu-ray-pre-order-buy)
+ - [Upcoming indie RPG says forget about looting treasure chests—now you are one](https://www.pcgamer.com/upcoming-indie-rpg-says-forget-about-looting-treasure-chestsnow-you-are-one)
+ - [CD Projekt Red Spent Over $80 Million On A Single Cyberpunk 2077 Expansion](https://kotaku.com/cdpr-cyberpunk-2077-dlc-phantom-liberty-budget-2-0-cost-1850904809)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
