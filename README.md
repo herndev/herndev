@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Modern Warfare 3 multiplayer reveal was a glimpse into the sweatiest possible future for Call of Duty](https://www.pcgamer.com/the-modern-warfare-3-multiplayer-reveal-was-a-glimpse-into-the-sweatiest-possible-future-for-call-of-duty)
  - [Final Fantasy 14 players study a pair of legs for clues about a new playable race in its next expansion](https://www.pcgamer.com/final-fantasy-14-players-study-a-pair-of-legs-for-clues-about-a-new-playable-race-in-its-next-expansion)
- - [Payday 3&#39;s first update is delayed to mid-October &#39;to ensure its stability,&#39; more server maintenance is coming this weekend](https://www.pcgamer.com/payday-3s-first-update-is-delayed-to-mid-october-to-ensure-its-stability-more-server-maintenance-is-coming-this-weekend)
- - [CD Projekt Red Spent Over $120 Million Saving Cyberpunk 2077’s Reputation](https://kotaku.com/cdpr-cyberpunk-2077-dlc-phantom-liberty-budget-2-0-cost-1850904809)<!-- GAME:END -->
+ - [Payday 3&#39;s first update is delayed to mid-October &#39;to ensure its stability,&#39; more server maintenance is coming this weekend](https://www.pcgamer.com/payday-3s-first-update-is-delayed-to-mid-october-to-ensure-its-stability-more-server-maintenance-is-coming-this-weekend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
