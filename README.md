@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South Africa is not a real country](http://9gag.com/gag/anz31o0)
- - ⏩ [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
- - 👉 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)<!-- MEMES:END -->
+ - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - ⏩ [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
+ - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
 
 ---
 
