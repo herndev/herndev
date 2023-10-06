@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [23andMe User Data Stolen in Targeted Attack on Ashkenazi Jews](https://www.wired.com/story/23andme-credential-stuffing-data-stolen/)
  - [Cloud software company Blackbaud reaches a $49.5M agreement with AGs from 49 US states to settle a probe into a May 2020 ransomware attack and data breach &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231006/p18#a231006p18)
- - [Second time’s the charm? OnePlus may launch new smartwatch next year](https://www.androidauthority.com/oneplus-watch-launch-window-3373197/)
- - [Source: Microsoft plans to unveil its first chip for data centers that train and run LLMs at its developers&#39; conference in November &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231006/p17#a231006p17)<!-- TECH:END -->
+ - [Second time’s the charm? OnePlus may launch new smartwatch next year](https://www.androidauthority.com/oneplus-watch-launch-window-3373197/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
