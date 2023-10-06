@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: a US DHS oversight body finds that ICE, CBP, and the Secret Service illegally accessed smartphone location data; CBP tracked coworkers without purpose &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231005/p31#a231005p31)
- - [Best Bar and Booze Gifts for a Home Mixologist     - CNET](https://www.cnet.com/news/best-bar-gifts/#ftag=CAD590a51e)
- - [In his testimony, FTX co-founder Gary Wang says Alameda Research had &quot;special privileges&quot; that gave the firm a $65B line of credit, of which it withdrew $8B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231005/p30#a231005p30)<!-- TECH:END -->
+ - [Going Infinite excerpt: how effective altruism pushed Caroline Ellison to Alameda, which would lose its management team and half its employees in 2018, and more &lpar;Michael Lewis/Wall Street Journal&rpar;](http://www.techmeme.com/231006/p1#a231006p1)
+ - [Report: the US DHS finds that ICE, CBP, and the Secret Service illegally used phone location data; a CBP official tracked coworkers for no investigative purpose &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231005/p31#a231005p31)
+ - [Best Bar and Booze Gifts for a Home Mixologist     - CNET](https://www.cnet.com/news/best-bar-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
