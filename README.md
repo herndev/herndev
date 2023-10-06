@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab A8 vs Samsung Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-a8-vs-samsung-galaxy-tab-s9-fe-should-you-upgrade-3372562/)
- - [Canada isn’t trying to silence podcasters](https://www.theverge.com/2023/10/5/23905644/canada-podcast-platform-registration-requirement)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Source: Linda Yaccarino told the banks that helped fund Elon Musk&#39;s X takeover that X is testing three tiers of premium service that vary how many ads are shown &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231005/p28#a231005p28)
+ - [Was Sam Bankman-Fried’s bean bag chair a lie too?](https://www.theverge.com/2023/10/5/23905665/sam-bankman-fried-fraud-trial-wang-yedidia-testimony)
+ - [Samsung Galaxy Tab A8 vs Samsung Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-a8-vs-samsung-galaxy-tab-s9-fe-should-you-upgrade-3372562/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
