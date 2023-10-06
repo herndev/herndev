@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stay tuned after Loki’s season 2 premiere, because it has a post-credits scene](https://www.polygon.com/23901561/loki-post-credits-scene-season-2-episode-1-sylvie-broxton-oklahoma)
  - [Second Wave is now available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2023/10/05/second-wave-is-now-available-in-preview-for-xbox-insiders/)
- - [AMD APUs are set to make their AM5 debut after support was added to AMD&#39;s latest BIOS microcode](https://www.pcgamer.com/amd-apus-are-set-to-make-their-am5-debut-after-support-was-added-to-amds-latest-bios-microcode)
- - [The Modern Warfare 3 multiplayer reveal was a glimpse into the sweatiest possible future for Call of Duty](https://www.pcgamer.com/the-modern-warfare-3-multiplayer-reveal-was-a-glimpse-into-the-sweatiest-possible-future-for-call-of-duty)<!-- GAME:END -->
+ - [AMD APUs are set to make their AM5 debut after support was added to AMD&#39;s latest BIOS microcode](https://www.pcgamer.com/amd-apus-are-set-to-make-their-am5-debut-after-support-was-added-to-amds-latest-bios-microcode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
