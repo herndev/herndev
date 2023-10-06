@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was todays years old when I found out](http://9gag.com/gag/aVb8PXK)
- - ⏩ [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 👉 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)<!-- MEMES:END -->
+ - 💣 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - ⏩ [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
+ - 👉 [Hol up](http://9gag.com/gag/aNwXnK0)<!-- MEMES:END -->
 
 ---
 
