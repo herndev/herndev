@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coochie Monster](http://9gag.com/gag/amAy99d)
- - ⏩ [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 👉 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)<!-- MEMES:END -->
+ - 💣 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
+ - ⏩ [South Africa is not a real country](http://9gag.com/gag/anz31o0)
+ - 👉 [She got fired](http://9gag.com/gag/a6qzQZA)<!-- MEMES:END -->
 
 ---
 
