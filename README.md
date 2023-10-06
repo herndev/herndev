@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - ⏩ [One of the most important character traits a man can possess is moral integrity. Integrity is what you do when no one is watching](http://9gag.com/gag/aeQEG95)
- - 👉 [Attempt to not be impressed](http://9gag.com/gag/aPg0DKG)<!-- MEMES:END -->
+ - 💣 [Orange](http://9gag.com/gag/a5XAPgo)
+ - ⏩ [Coochie Monster](http://9gag.com/gag/amAy99d)
+ - 👉 [Found the long version](http://9gag.com/gag/aKEyPgW)<!-- MEMES:END -->
 
 ---
 
