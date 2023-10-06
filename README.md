@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - ⏩ [Emotional damage!](http://9gag.com/gag/ajVjqBw)
- - 👉 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)<!-- MEMES:END -->
+ - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
+ - ⏩ [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 👉 [Emotional damage!](http://9gag.com/gag/ajVjqBw)<!-- MEMES:END -->
 
 ---
 
