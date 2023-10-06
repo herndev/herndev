@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;A Galactic Embarrassment&#39;: The Crypto World Is Already Sick of SBF&#39;s Trial](https://www.wired.com/story/galactic-embarrassment-crypto-world-is-already-sick-of-sbf-trial/)
- - [25 Best Early October Prime Day Deals &lpar;2023&rpar; on Headphones, Vacuums, and More](https://www.wired.com/story/best-october-prime-day-deals-2023-3/)
- - [Meet the Next Generation of Doctors—and Their Surgical Robots](https://www.wired.com/story/next-generation-doctors-surgical-robots/)<!-- TECH:END -->
+ - [The Witcher season 4: Expected release date and the latest rumors](https://www.androidauthority.com/the-witcher-season-4-release-date-3372337/)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [How to set a browser for private searching in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-set-a-browser-for-private-searching-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
