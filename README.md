@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Dervis’ Artifacts locations in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23905221/dervis-artifacts-locations-where-to-find-rewards)
- - [This Last of Us Clicker Bread Sculpture Is Scary As Hell](https://kotaku.com/last-of-us-clicker-bread-sculpture-joel-ellie-1850908509)
- - [One of Baldur&#39;s Gate 3&#39;s sound designers studied blacksmithing and made a pair of metal shoes just to record armor clanking noises for the game](https://www.pcgamer.com/one-of-baldurs-gate-3s-sound-designers-studied-blacksmithing-and-made-a-pair-of-metal-shoes-just-to-record-armor-clanking-noises-for-the-game)<!-- GAME:END -->
+ - [Netflix’s Fair Play, The Nun II, and every new movie to watch at home this weekend](https://www.polygon.com/23899610/new-movies-watch-nun-2-fair-play-netflix-haunted-mansion-disney-plus)
+ - [A heroic Starfield modder just straight-up deleted those repetitive temple &#39;puzzles&#39; from the game](https://www.pcgamer.com/a-heroic-starfield-modder-just-straight-up-deleted-those-repetitive-temple-puzzles-from-the-game)
+ - [Where to find Dervis’ Artifacts locations in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23905221/dervis-artifacts-locations-where-to-find-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
