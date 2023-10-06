@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer for #839 Friday, October 6](https://www.pcgamer.com/wordle-today-answer-839-october-6)
  - [Stay tuned after Loki’s season 2 premiere, because it has a post-credits scene](https://www.polygon.com/23901561/loki-post-credits-scene-season-2-episode-1-sylvie-broxton-oklahoma)
- - [Second Wave is now available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2023/10/05/second-wave-is-now-available-in-preview-for-xbox-insiders/)
- - [AMD APUs are set to make their AM5 debut after support was added to AMD&#39;s latest BIOS microcode](https://www.pcgamer.com/amd-apus-are-set-to-make-their-am5-debut-after-support-was-added-to-amds-latest-bios-microcode)<!-- GAME:END -->
+ - [Second Wave is now available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2023/10/05/second-wave-is-now-available-in-preview-for-xbox-insiders/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
