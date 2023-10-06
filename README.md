@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reveals the chip that could power the Galaxy S24](https://www.androidauthority.com/samsung-exynos-2400-announced-3372890/)
- - [OnePlus Pad Go launched: A budget Android tablet with a lot to offer](https://www.androidauthority.com/oneplus-pad-go-price-specs-features-availability-3372896/)
- - [Q&amp;A with Getty Images&#39; Craig Peters on the company&#39;s generative AI tool, copyright issues, attribution for rights holders, deepfakes, disinformation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231006/p2#a231006p2)<!-- TECH:END -->
+ - [Will there be a season 4 of Ted Lasso?](https://www.androidauthority.com/will-there-be-a-season-4-of-ted-lasso-3372862/)
+ - [Source: Microsoft plans to close its $68.7B Activision acquisition on October 13, with a final decision from UK&#39;s CMA allowing the deal expected next week &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231006/p4#a231006p4)
+ - [South Korea threatens to fine Apple over App Store dominance](https://appleinsider.com/articles/23/10/06/south-korea-threatens-to-fine-apple-over-app-store-dominance?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
