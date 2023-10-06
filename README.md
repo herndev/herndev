@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall Finally Gets 60fps Mode On Console In Its Biggest Update Yet](https://kotaku.com/redfall-xbox-game-pass-60fps-patch-notes-bethesda-1850907241)
- - [Castlevania: Nocturne Renewed For Second Season](https://kotaku.com/castlevania-nocturne-second-season-richter-alucard-1850907256)
- - [You can finally change your name in Baldur’s Gate 3](https://www.polygon.com/23906432/baldurs-gate-3-name-change-patch)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2310.231004-2200&rpar;](https://news.xbox.com/en-us/2023/10/06/xbox-insider-release-notes-alpha-2310-231004-2200/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231003-2000&rpar;](https://news.xbox.com/en-us/2023/10/06/xbox-insider-release-notes-alpha-skip-ahead-2408-231003-2000/)
+ - [You&#39;re doomed from the start in &#39;merciless&#39; survival city builder Dotage, but trying to survive the apocalypse is all part of the fun](https://www.pcgamer.com/youre-doomed-from-the-start-in-merciless-survival-city-builder-dotage-but-trying-to-survive-the-apocalypse-is-all-part-of-the-fun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
