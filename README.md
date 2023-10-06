@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - ⏩ [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
- - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - ⏩ [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 👉 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)<!-- MEMES:END -->
 
 ---
 
