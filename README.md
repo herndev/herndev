@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They never had a chance](http://9gag.com/gag/aBdMwKD)
- - ⏩ [The girl&#39;s happiness is priceless, faith in humanity restored.](http://9gag.com/gag/agobGLr)
+ - 💣 [The girl&#39;s happiness is priceless, faith in humanity restored.](http://9gag.com/gag/agobGLr)
+ - ⏩ [Meanwhile, in France](http://9gag.com/gag/amAyrm6)
  - 👉 [South Africa is not a real country](http://9gag.com/gag/anz31o0)<!-- MEMES:END -->
 
 ---
