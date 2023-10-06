@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Castlevania: Nocturne is coming back for a second season](https://www.theverge.com/23906342/castlevania-nocturne-season-2)
- - [UK&#39;s Information Commissioner&#39;s Office issues a preliminary enforcement notice to Snap about concerns that My AI chatbot may be a risk to children&#39;s privacy &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231006/p9#a231006p9)
- - [The 23 Best Advent Calendars You Can Buy in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo exec promises 80 percent of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
+ - [Galaxy Z Fold 5 gets the One UI 6 beta, no word on the Flip 5](https://www.androidauthority.com/galaxy-z-fold-5-one-ui-6-beta-3373150/)
+ - [Play Jeopardy Whenever, Wherever With This Apple Arcade Title     - CNET](https://www.cnet.com/tech/mobile/play-jeopardy-whenever-wherever-with-this-apple-arcade-title/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
