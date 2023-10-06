@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pre-order the 11-season Blu-ray collector’s box of The Walking Dead](https://www.polygon.com/deals/23905090/the-walking-dead-complete-collection-dvd-blu-ray-pre-order-buy)
- - [Upcoming indie RPG says forget about looting treasure chests—now you are one](https://www.pcgamer.com/upcoming-indie-rpg-says-forget-about-looting-treasure-chestsnow-you-are-one)
- - [CD Projekt Red Spent Over $80 Million On A Single Cyberpunk 2077 Expansion](https://kotaku.com/cdpr-cyberpunk-2077-dlc-phantom-liberty-budget-2-0-cost-1850904809)<!-- GAME:END -->
+ - [Mark Zuckerberg&#39;s first interview entirely in the Metaverse is slightly robotic but that&#39;s not all down to the tech](https://www.pcgamer.com/mark-zuckerbergs-first-interview-entirely-in-the-metaverse-is-slightly-robotic-but-thats-not-all-down-to-the-tech)
+ - [Telltale cuts jobs at US studio and newly acquired Flavourworks](https://www.polygon.com/23906110/telltale-games-layoffs-flavourworks-acquisition)
+ - [SilverStone has taken the &#39;all&#39; in all-in-one cooling way too literally with its stackable system](https://www.pcgamer.com/silverstone-has-taken-the-all-in-all-in-one-cooling-way-too-literally-with-its-stackable-system)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
