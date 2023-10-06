@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Facebook policy staff detail their experience with &quot;jawboning&quot;, or informal government efforts to persuade platforms to change their moderation policies &lpar;Knight First Amendment Institute&rpar;](http://www.techmeme.com/231006/p5#a231006p5)
- - [I Took 600+ Photos With the iPhone 15 Pro and Pro Max. Take a Look     - CNET](https://www.cnet.com/pictures/i-took-600-photos-with-the-iphone-15-pro-and-pro-max-take-a-look/#ftag=CAD590a51e)
- - [Tested: Does iOS 17.0.3 stop the iPhone 15 Pro overheating?](https://www.androidauthority.com/iphone-15-overheating-hotfix-tested-3372421/)<!-- TECH:END -->
+ - [Best Kindle &lpar;2023&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
+ - [12 Best Amazon Echo and Alexa Speakers &lpar;2023&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [The Truth About the Taylor Swift, Jets Game, Google Search Conspiracy Theory](https://www.wired.com/story/taylor-swift-jets-travis-kelce-theory-google-seo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
