@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Zuckerberg&#39;s first interview entirely in the Metaverse is slightly robotic but that&#39;s not all down to the tech](https://www.pcgamer.com/mark-zuckerbergs-first-interview-entirely-in-the-metaverse-is-slightly-robotic-but-thats-not-all-down-to-the-tech)
- - [Telltale cuts jobs at US studio and newly acquired Flavourworks](https://www.polygon.com/23906110/telltale-games-layoffs-flavourworks-acquisition)
- - [SilverStone has taken the &#39;all&#39; in all-in-one cooling way too literally with its stackable system](https://www.pcgamer.com/silverstone-has-taken-the-all-in-all-in-one-cooling-way-too-literally-with-its-stackable-system)<!-- GAME:END -->
+ - [Redfall Finally Gets 60fps Mode On Console In Its Biggest Update Yet](https://kotaku.com/redfall-xbox-game-pass-60fps-patch-notes-bethesda-1850907241)
+ - [Castlevania: Nocturne Renewed For Second Season](https://kotaku.com/castlevania-nocturne-second-season-richter-alucard-1850907256)
+ - [You can finally change your name in Baldur’s Gate 3](https://www.polygon.com/23906432/baldurs-gate-3-name-change-patch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
