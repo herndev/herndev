@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23andMe User Data Stolen in Targeted Attack on Ashkenazi Jews](https://www.wired.com/story/23andme-credential-stuffing-data-stolen/)
- - [Cloud software company Blackbaud reaches a $49.5M agreement with AGs from 49 US states to settle a probe into a May 2020 ransomware attack and data breach &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231006/p18#a231006p18)
- - [Second time’s the charm? OnePlus may launch new smartwatch next year](https://www.androidauthority.com/oneplus-watch-launch-window-3373197/)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Sales teams at Google, Twilio, and others say they have seen productivity spike after using ChatGPT-like tools to respond to prospective customers&#39; proposals &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231006/p19#a231006p19)
+ - [Today the FTX jury suffered through a code review](https://www.theverge.com/2023/10/6/23906899/ftx-alameda-sam-bankman-fried-trial-gary-wang-testimony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
