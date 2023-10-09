@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investors and analysts: Intel, Nvidia, and others in Israel are set to fortify security and face disruptions after Hamas attacks; Nvidia cancels an AI summit &lpar;Reuters&rpar;](http://www.techmeme.com/231009/p8#a231009p8)
- - [Investigation: earlier in 2023, Vietnam tried to plant Predator spyware on the phones of US Congress members, CNN journalists, and policy experts via posts on X &lpar;Washington Post&rpar;](http://www.techmeme.com/231009/p7#a231009p7)
- - [iPhone 15 teardown reveals updated Qualcomm 5G modem](https://appleinsider.com/articles/23/10/09/iphone-15-teardown-reveals-updated-qualcomm-5g-modem?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel Watch 2 vs Samsung Galaxy Watch 5 and 5 Pro: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-samsung-galaxy-watch-5-pro-3373048/)
+ - [Start Making Physical Photo Albums &lpar;2023&rpar;](https://www.wired.com/story/photo-album-rave/)
+ - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
