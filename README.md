@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer for #842 Monday, October 9](https://www.pcgamer.com/wordle-today-answer-842-october-9)
  - [Interactive series Silent Hill: Ascension begins Oct 31, &#39;if people are afraid of weird F2P monetization, it&#39;s not a game&#39;](https://www.pcgamer.com/interactive-series-silent-hill-ascension-begins-oct-31-if-people-are-afraid-of-weird-f2p-monetization-its-not-a-game)
- - [Promising indie games we saw at PAX Australia 2023](https://www.pcgamer.com/promising-indie-games-we-saw-at-pax-australia-2023)
- - [Russia seeks to stop access to unfiltered information by attempting to ban VPNs](https://www.pcgamer.com/russia-seeks-to-stop-access-to-unfiltered-information-by-attempting-to-ban-vpns)<!-- GAME:END -->
+ - [Promising indie games we saw at PAX Australia 2023](https://www.pcgamer.com/promising-indie-games-we-saw-at-pax-australia-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
