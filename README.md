@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
- - ⏩ [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 👉 [Queen](http://9gag.com/gag/aoK6PAg)<!-- MEMES:END -->
+ - 💣 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - ⏩ [The Lion the Witch and the Audacity of this B*tch.](http://9gag.com/gag/ajVj940)
+ - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
 
 ---
 
