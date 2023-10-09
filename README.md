@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie dev behind beloved boomerang shooter shuts down because &#39;we are out of money&#39;](https://www.pcgamer.com/indie-dev-behind-beloved-boomerang-shooter-shuts-down-because-we-are-out-of-money)
- - [Portal player achieves fastest-ever test subject death thanks to a speed-boosting cup](https://www.pcgamer.com/portal-player-achieves-fastest-ever-test-subject-death-thanks-to-a-speed-boosting-cup)
- - [Get Your First Look at Halo Infinite Season 5: Reckoning, Arriving on October 17](https://www.youtube.com/watch?v=QORZtiws6Sk#new_tab)<!-- GAME:END -->
+ - [Netflix’s House of Usher, John Carpenter true crime, and more new TV this week](https://www.polygon.com/2023/10/9/23903001/new-tv-netflix-fall-house-usher-true-crime-frasier-anime-crunchyroll)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231005-2000&rpar;](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-alpha-skip-ahead-2408-231005-2000/)
+ - [No one has ever been prettier than Austin Butler in The Bikeriders](https://www.polygon.com/23906339/austin-butler-the-bikeriders-so-pretty-so-cool)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
