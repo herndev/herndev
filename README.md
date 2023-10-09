@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China outlines a plan to target 300+ exaflops of computing capacity, up from 220 in 2023, bigger optical networks, advanced data storage, and more by 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231009/p3#a231009p3)
- - [111 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
- - [50 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung could offer more than five years of security updates](https://www.androidauthority.com/samsung-more-than-five-years-security-updates-3373510/)
+ - [Ridley Scott prepares extended &#39;Napoleon&#39; for Apple TV+](https://appleinsider.com/articles/23/10/09/ridley-scott-prepares-extended-napoleon-for-apple-tv?utm_medium=rss)
+ - [Hoping for a really cheap Pixel phone? Google says you’re out of luck](https://www.androidauthority.com/google-budget-pixel-3373529/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
