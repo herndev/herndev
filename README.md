@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
- - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 👉 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)<!-- MEMES:END -->
+ - 💣 [Voda](http://9gag.com/gag/a6qzE08)
+ - ⏩ [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
 
 ---
 
