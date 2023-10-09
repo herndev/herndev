@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Interactive series Silent Hill: Ascension begins Oct 31, &#39;if people are afraid of weird F2P monetization, it&#39;s not a game&#39;](https://www.pcgamer.com/interactive-series-silent-hill-ascension-begins-oct-31-if-people-are-afraid-of-weird-f2p-monetization-its-not-a-game)
  - [Promising indie games we saw at PAX Australia 2023](https://www.pcgamer.com/promising-indie-games-we-saw-at-pax-australia-2023)
- - [Russia seeks to stop access to unfiltered information by attempting to ban VPNs](https://www.pcgamer.com/russia-seeks-to-stop-access-to-unfiltered-information-by-attempting-to-ban-vpns)
- - [This Pathfinder RPG&#39;s weakest class is a poisoner in a game where nearly everyone is immune to poison, but after two years it&#39;s about get a lifesaving overhaul](https://www.pcgamer.com/this-pathfinder-rpgs-weakest-class-is-a-poisoner-in-a-game-where-nearly-everyone-is-immune-to-poison-but-after-two-years-its-about-get-a-lifesaving-overhaul)<!-- GAME:END -->
+ - [Russia seeks to stop access to unfiltered information by attempting to ban VPNs](https://www.pcgamer.com/russia-seeks-to-stop-access-to-unfiltered-information-by-attempting-to-ban-vpns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
