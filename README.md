@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vegans=animal abusers](http://9gag.com/gag/aA07ev2)
- - ⏩ [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 👉 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)<!-- MEMES:END -->
+ - 💣 [Queen](http://9gag.com/gag/aoK6PAg)
+ - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
 
 ---
 
