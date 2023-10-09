@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Daedelic&#39;s bizarre Gollum apology was apparently written by ChatGPT and the studio didn&#39;t even get approval on it](https://www.pcgamer.com/daedelics-bizarre-gollum-apology-was-apparently-written-by-chatgpt-and-the-studio-didnt-even-get-approval-on-it)
- - [Check out mindbending puzzles in The Talos Principle 2&#39;s specially made demo](https://www.pcgamer.com/check-out-mindbending-puzzles-in-the-talos-principle-2s-specially-made-demo)
- - [Xbox Insider Release Notes – Alpha &lpar;2310.231005-2200&rpar;](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-alpha-2310-231005-2200/)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Xbox App [2310.1001.69.0] &amp; Game Bar for Windows [6.123.10031.0]](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-xbox-app-2310-1001-69-0-game-bar-for-windows-6-123-10031-0/)
+ - [RoboCop: Rogue City Demo Big](https://kotaku.com/robocop-rogue-city-demo-teyon-nacon-pc-steam-fps-1850912963)
+ - [Daedelic&#39;s bizarre Gollum apology was apparently written by ChatGPT and the studio didn&#39;t even get approval on it](https://www.pcgamer.com/daedelics-bizarre-gollum-apology-was-apparently-written-by-chatgpt-and-the-studio-didnt-even-get-approval-on-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
