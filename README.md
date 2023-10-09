@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
- - [Samsung SmartThings, Nanoleaf holiday lights, and smart smoke detector on HomeKit Insider](https://appleinsider.com/articles/23/10/09/samsung-smartthings-nanoleaf-holiday-lights-and-smart-smoke-detector-on-homekit-insider?utm_medium=rss)
- - [As the UK FCA widens its crypto marketing rules, Coinbase, OKX, Binance, and others partner with UK companies, expecting to continue serving UK customers &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/231009/p10#a231009p10)<!-- TECH:END -->
+ - [Meta Quest 3 review: almost the one we’ve been waiting for](https://www.theverge.com/23906313/meta-quest-3-review-vr-mixed-reality-headset)
+ - [Mastodon fixes an issue that undercounted its MAUs by 407,814 between October 2 and October 8, meaning the social network has 1.8M MAUs in total and 10K servers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231009/p12#a231009p12)
+ - [Tim Cook defends Apple against greenwashing accusation](https://appleinsider.com/articles/23/10/09/tim-cook-defends-apple-against-greenwashing-accusation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
