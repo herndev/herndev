@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Build some sick castles in the demo for fantasy survival game Enshrouded](https://www.pcgamer.com/build-some-sick-castles-in-the-demo-for-fantasy-survival-game-enshrouded)
  - [Unity CEO Riccitiello steps down, effective immediately](https://www.pcgamer.com/unity-ceo-steps-down-effective-immediately)
- - [Activision Blizzard Games Should Hit Game Pass In 2024](https://kotaku.com/game-pass-xbox-activision-blizzard-microsoft-cod-1850913118)
- - [Xbox Insider Release Notes – Xbox App [2310.1001.69.0] &amp; Game Bar for Windows [6.123.10031.0]](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-xbox-app-2310-1001-69-0-game-bar-for-windows-6-123-10031-0/)<!-- GAME:END -->
+ - [Activision Blizzard Games Should Hit Game Pass In 2024](https://kotaku.com/game-pass-xbox-activision-blizzard-microsoft-cod-1850913118)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
