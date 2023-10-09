@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Queen](http://9gag.com/gag/aoK6PAg)
- - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
+ - 💣 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
+ - ⏩ [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
+ - 👉 [Queen](http://9gag.com/gag/aoK6PAg)<!-- MEMES:END -->
 
 ---
 
