@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she German enough?](http://9gag.com/gag/arm0nzd)
- - ⏩ [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)<!-- MEMES:END -->
+ - 💣 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
+ - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 👉 [When you get called out on your bullshit](http://9gag.com/gag/ap9XN7E)<!-- MEMES:END -->
 
 ---
 
