@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - ⏩ [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [How to piss off 100% of people with one picture.](http://9gag.com/gag/ajVj5M0)<!-- MEMES:END -->
+ - 💣 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
+ - ⏩ [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
+ - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
 
 ---
 
