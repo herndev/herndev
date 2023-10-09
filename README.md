@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
- - ⏩ [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
- - 👉 [Ironic](http://9gag.com/gag/adPMLqV)<!-- MEMES:END -->
+ - ⏩ [Queen](http://9gag.com/gag/aoK6PAg)
+ - 👉 [Just imagine , GTA in mafia style done by rockstar, full mafia gangs war , controlling districts, managing stores .](http://9gag.com/gag/aWGA1Eq)<!-- MEMES:END -->
 
 ---
 
