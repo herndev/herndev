@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Voda](http://9gag.com/gag/a6qzE08)
- - ⏩ [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
+ - 💣 [The Lion the Witch and the Audacity of this B*tch.](http://9gag.com/gag/ajVj940)
+ - ⏩ [Queen](http://9gag.com/gag/aoK6PAg)
+ - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
 
 ---
 
