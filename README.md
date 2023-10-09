@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Lion the Witch and the Audacity of this B*tch.](http://9gag.com/gag/ajVj940)
- - ⏩ [Queen](http://9gag.com/gag/aoK6PAg)
- - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
+ - 💣 [Is she German enough?](http://9gag.com/gag/arm0nzd)
+ - ⏩ [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 👉 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)<!-- MEMES:END -->
 
 ---
 
