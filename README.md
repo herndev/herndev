@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [Indigenous TTRPG Coyote &amp; Crow is free for today only](https://www.polygon.com/deals/2023/10/9/23906737/ttrpg-tabletop-game-coyote-crow-free-indigenous-peoples-day)
- - [Leak suggests Nvidia is aiming to release a faster RTX 4080 in early 2024, but that&#39;s not going to fix the mess that is the Ada GPU line-up](https://www.pcgamer.com/leak-suggests-nvidia-is-aiming-to-release-a-faster-rtx-4080-in-early-2024-but-thats-not-going-to-fix-the-mess-that-is-the-ada-gpu-line-up)<!-- GAME:END -->
+ - [The Quest 3 is Meta’s best VR headset, but it’s not a must-have yet](https://www.polygon.com/reviews/23905091/meta-quest-3-review)
+ - [How to locate the Excavation Site in Assassin’s Creed Mirage’s ‘Find the Missing Brother’ quest](https://www.polygon.com/assassins-creed-mirage-guides/23909785/excavation-site-find-the-missing-brother)
+ - [Deep Rock Galactic&#39;s new Vampire Survivors-inspired spin-off proves everything&#39;s better with dwarves—and you can try it for yourself right now](https://www.pcgamer.com/deep-rock-galactics-new-vampire-survivors-inspired-spin-off-proves-everythings-better-with-dwarvesand-you-can-try-it-for-yourself-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
