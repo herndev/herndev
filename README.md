@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Quest 3 review: almost the one we’ve been waiting for](https://www.theverge.com/23906313/meta-quest-3-review-vr-mixed-reality-headset)
- - [Mastodon fixes an issue that undercounted its MAUs by 407,814 between October 2 and October 8, meaning the social network has 1.8M MAUs in total and 10K servers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231009/p12#a231009p12)
- - [Tim Cook defends Apple against greenwashing accusation](https://appleinsider.com/articles/23/10/09/tim-cook-defends-apple-against-greenwashing-accusation?utm_medium=rss)<!-- TECH:END -->
+ - [The Israel-Hamas War Is Drowning X in Disinformation](https://www.wired.com/story/x-israel-hamas-war-disinformation/)
+ - [An Alleged Deepfake of UK Opposition Leader Keir Starmer Shows the Dangers of Fake Audio](https://www.wired.com/story/deepfake-audio-keir-starmer/)
+ - [Genshin Impact maker tried to dodge App Store fees -- twice](https://appleinsider.com/articles/23/10/09/genshin-impact-maker-tried-to-dodge-app-store-fees----twice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
