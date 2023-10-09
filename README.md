@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They do exist. You are just looking in the wrong places.](http://9gag.com/gag/aoK6MZm)
- - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 👉 [Difference between men and women](http://9gag.com/gag/aeQE5Yj)<!-- MEMES:END -->
+ - 💣 [No words needed](http://9gag.com/gag/a9qeAxZ)
+ - ⏩ [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 👉 [To become more professional](http://9gag.com/gag/a1PnQBR)<!-- MEMES:END -->
 
 ---
 
