@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now is your last chance to claim D&amp;D&#39;s intro adventure Lost Mine of Phandelver for free](https://www.pcgamer.com/now-is-your-last-chance-to-claim-dandds-intro-adventure-lost-mine-of-phandelver-for-free)
- - [Wordle today: Hint and answer for #842 Monday, October 9](https://www.pcgamer.com/wordle-today-answer-842-october-9)
- - [Interactive series Silent Hill: Ascension begins Oct 31, &#39;if people are afraid of weird F2P monetization, it&#39;s not a game&#39;](https://www.pcgamer.com/interactive-series-silent-hill-ascension-begins-oct-31-if-people-are-afraid-of-weird-f2p-monetization-its-not-a-game)<!-- GAME:END -->
+ - [This crab soulslike allows you to whip out a pistol and one shot the boss once you&#39;ve had enough](https://www.pcgamer.com/this-crab-soulslike-allows-you-to-whip-out-a-pistol-and-one-shot-the-boss-once-youve-had-enough)
+ - [WoW Classic hardcore duel goes horribly wrong when player is ganked by a Horde guard in the ultimate act of betrayal](https://www.pcgamer.com/wow-classic-hardcore-duel-goes-horribly-wrong-when-player-is-ganked-by-a-horde-guard-in-the-ultimate-act-of-betrayal)
+ - [Now is your last chance to claim D&amp;D&#39;s intro adventure Lost Mine of Phandelver for free](https://www.pcgamer.com/now-is-your-last-chance-to-claim-dandds-intro-adventure-lost-mine-of-phandelver-for-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
