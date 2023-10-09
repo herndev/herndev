@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Quest 3 is Meta’s best VR headset, but it’s not a must-have yet](https://www.polygon.com/reviews/23905091/meta-quest-3-review)
- - [How to locate the Excavation Site in Assassin’s Creed Mirage’s ‘Find the Missing Brother’ quest](https://www.polygon.com/assassins-creed-mirage-guides/23909785/excavation-site-find-the-missing-brother)
- - [Deep Rock Galactic&#39;s new Vampire Survivors-inspired spin-off proves everything&#39;s better with dwarves—and you can try it for yourself right now](https://www.pcgamer.com/deep-rock-galactics-new-vampire-survivors-inspired-spin-off-proves-everythings-better-with-dwarvesand-you-can-try-it-for-yourself-right-now)<!-- GAME:END -->
+ - [CD Projekt Red workers form union after layoffs](https://www.polygon.com/23909710/cd-projekt-red-union-layoffs)
+ - [Where to find all Dervis’ Artifacts locations in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23905221/dervis-artifacts-locations-where-to-find-rewards)
+ - [AMD responds to public demand: Radeon RX 6000 owners can now enjoy Fluid Motion Frames too](https://www.pcgamer.com/amd-responds-to-public-demand-radeon-rx-6000-owners-can-now-enjoy-fluid-motion-frames-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
