@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
- - ⏩ [Queen](http://9gag.com/gag/aoK6PAg)
- - 👉 [Just imagine , GTA in mafia style done by rockstar, full mafia gangs war , controlling districts, managing stores .](http://9gag.com/gag/aWGA1Eq)<!-- MEMES:END -->
+ - ⏩ [`war refugees`](http://9gag.com/gag/anz35Dq)
+ - 👉 [She played it along pretty well](http://9gag.com/gag/a8q980Q)<!-- MEMES:END -->
 
 ---
 
