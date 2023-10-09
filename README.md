@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No words needed](http://9gag.com/gag/a9qeAxZ)
- - ⏩ [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [To become more professional](http://9gag.com/gag/a1PnQBR)<!-- MEMES:END -->
+ - 💣 [Vegans=animal abusers](http://9gag.com/gag/aA07ev2)
+ - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 👉 [The Future of South africa](http://9gag.com/gag/aDYLx3B)<!-- MEMES:END -->
 
 ---
 
