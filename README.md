@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
- - ⏩ [The Lion the Witch and the Audacity of this B*tch.](http://9gag.com/gag/ajVj940)
- - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
+ - 💣 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
+ - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 👉 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)<!-- MEMES:END -->
 
 ---
 
