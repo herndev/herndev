@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Fair Play, The Nun II, and every new movie to watch at home this weekend](https://www.polygon.com/23899610/new-movies-watch-nun-2-fair-play-netflix-haunted-mansion-disney-plus)
- - [A heroic Starfield modder just straight-up deleted those repetitive temple &#39;puzzles&#39; from the game](https://www.pcgamer.com/a-heroic-starfield-modder-just-straight-up-deleted-those-repetitive-temple-puzzles-from-the-game)
- - [Where to find Dervis’ Artifacts locations in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23905221/dervis-artifacts-locations-where-to-find-rewards)<!-- GAME:END -->
+ - [Promising indie games we saw at PAX Australia 2023](https://www.pcgamer.com/promising-indie-games-we-saw-at-pax-australia-2023)
+ - [Russia seeks to stop access to unfiltered information by attempting to ban VPNs](https://www.pcgamer.com/russia-seeks-to-stop-access-to-unfiltered-information-by-attempting-to-ban-vpns)
+ - [This Pathfinder RPG&#39;s weakest class is a poisoner in a game where nearly everyone is immune to poison, but after two years it&#39;s about get a lifesaving overhaul](https://www.pcgamer.com/this-pathfinder-rpgs-weakest-class-is-a-poisoner-in-a-game-where-nearly-everyone-is-immune-to-poison-but-after-two-years-its-about-get-a-lifesaving-overhaul)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
