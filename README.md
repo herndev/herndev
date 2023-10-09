@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt Red workers form union after layoffs](https://www.polygon.com/23909710/cd-projekt-red-union-layoffs)
- - [Where to find all Dervis’ Artifacts locations in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23905221/dervis-artifacts-locations-where-to-find-rewards)
- - [AMD responds to public demand: Radeon RX 6000 owners can now enjoy Fluid Motion Frames too](https://www.pcgamer.com/amd-responds-to-public-demand-radeon-rx-6000-owners-can-now-enjoy-fluid-motion-frames-too)<!-- GAME:END -->
+ - [Indie dev behind beloved boomerang shooter shuts down because &#39;we are out of money&#39;](https://www.pcgamer.com/indie-dev-behind-beloved-boomerang-shooter-shuts-down-because-we-are-out-of-money)
+ - [Portal player achieves fastest-ever test subject death thanks to a speed-boosting cup](https://www.pcgamer.com/portal-player-achieves-fastest-ever-test-subject-death-thanks-to-a-speed-boosting-cup)
+ - [Get Your First Look at Halo Infinite Season 5: Reckoning, Arriving on October 17](https://www.youtube.com/watch?v=QORZtiws6Sk#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
