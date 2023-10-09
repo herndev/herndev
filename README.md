@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
- - ⏩ [`war refugees`](http://9gag.com/gag/anz35Dq)
- - 👉 [She played it along pretty well](http://9gag.com/gag/a8q980Q)<!-- MEMES:END -->
+ - 💣 [They do exist. You are just looking in the wrong places.](http://9gag.com/gag/aoK6MZm)
+ - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 👉 [Difference between men and women](http://9gag.com/gag/aeQE5Yj)<!-- MEMES:END -->
 
 ---
 
