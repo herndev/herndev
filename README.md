@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)
- - [Appfigures: ChatGPT&#39;s iOS and Android apps hit $4.58M total revenue in September from the $20/month ChatGPT+ plan, up from $3.81M in August and $2.74M in July &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231009/p16#a231009p16)
- - [Save Big on New and Refurbished M1 and M2 Macs From Just $280     - CNET](https://www.cnet.com/deals/save-big-on-new-and-refurbished-m1-and-m2-macs-from-just-280/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unity says John Riccitiello is retiring as president, CEO, and board chairman, and appoints former Red Hat President and CEO James Whitehurst as its interim CEO &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231009/p18#a231009p18)
+ - [Duelling analysts offer differing takes on Mac in the PC market](https://appleinsider.com/articles/23/10/09/duelling-analysts-offer-differing-takes-on-mac-in-the-pc-market?utm_medium=rss)
+ - [Google Cloud expands Vertex AI Search with features to help health care workers pull info from clinical notes, scanned documents, and electronic health records &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231009/p17#a231009p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
