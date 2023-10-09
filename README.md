@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - ⏩ [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 👉 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)<!-- MEMES:END -->
+ - 💣 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
+ - ⏩ [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
+ - 👉 [Ironic](http://9gag.com/gag/adPMLqV)<!-- MEMES:END -->
 
 ---
 
