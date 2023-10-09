@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Xbox App [2310.1001.69.0] &amp; Game Bar for Windows [6.123.10031.0]](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-xbox-app-2310-1001-69-0-game-bar-for-windows-6-123-10031-0/)
- - [RoboCop: Rogue City Demo Big](https://kotaku.com/robocop-rogue-city-demo-teyon-nacon-pc-steam-fps-1850912963)
- - [Daedelic&#39;s bizarre Gollum apology was apparently written by ChatGPT and the studio didn&#39;t even get approval on it](https://www.pcgamer.com/daedelics-bizarre-gollum-apology-was-apparently-written-by-chatgpt-and-the-studio-didnt-even-get-approval-on-it)<!-- GAME:END -->
+ - [Unity CEO Riccitiello steps down, effective immediately](https://www.pcgamer.com/unity-ceo-steps-down-effective-immediately)
+ - [Activision Blizzard Games Should Hit Game Pass In 2024](https://kotaku.com/game-pass-xbox-activision-blizzard-microsoft-cod-1850913118)
+ - [Xbox Insider Release Notes – Xbox App [2310.1001.69.0] &amp; Game Bar for Windows [6.123.10031.0]](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-xbox-app-2310-1001-69-0-game-bar-for-windows-6-123-10031-0/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
