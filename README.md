@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
- - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 👉 [When you get called out on your bullshit](http://9gag.com/gag/ap9XN7E)<!-- MEMES:END -->
+ - 💣 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - ⏩ [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
 
 ---
 
