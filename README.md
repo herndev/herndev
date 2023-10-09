@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Israel-Hamas War Is Drowning X in Disinformation](https://www.wired.com/story/x-israel-hamas-war-disinformation/)
- - [An Alleged Deepfake of UK Opposition Leader Keir Starmer Shows the Dangers of Fake Audio](https://www.wired.com/story/deepfake-audio-keir-starmer/)
- - [Genshin Impact maker tried to dodge App Store fees -- twice](https://appleinsider.com/articles/23/10/09/genshin-impact-maker-tried-to-dodge-app-store-fees----twice?utm_medium=rss)<!-- TECH:END -->
+ - [California governor signs ban on social media ‘aiding or abetting’ child abuse](https://www.theverge.com/2023/10/9/23909903/california-ab1394-child-abuse-social-media-regulation-signed-governor)
+ - [Early Pixel 8a leak gives best look yet at Google’s mid-ranger](https://www.androidauthority.com/pixel-8a-leaked-renders-3373733/)
+ - [Rumored OLED iPad Pro expected to arrive in early 2024](https://appleinsider.com/articles/23/10/09/rumored-oled-ipad-pro-expected-to-arrive-in-early-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
