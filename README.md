@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could offer more than five years of security updates](https://www.androidauthority.com/samsung-more-than-five-years-security-updates-3373510/)
- - [Ridley Scott prepares extended &#39;Napoleon&#39; for Apple TV+](https://appleinsider.com/articles/23/10/09/ridley-scott-prepares-extended-napoleon-for-apple-tv?utm_medium=rss)
- - [Hoping for a really cheap Pixel phone? Google says you’re out of luck](https://www.androidauthority.com/google-budget-pixel-3373529/)<!-- TECH:END -->
+ - [Investors and analysts: Intel, Nvidia, and others in Israel are set to fortify security and face disruptions after Hamas attacks; Nvidia cancels an AI summit &lpar;Reuters&rpar;](http://www.techmeme.com/231009/p8#a231009p8)
+ - [Investigation: earlier in 2023, Vietnam tried to plant Predator spyware on the phones of US Congress members, CNN journalists, and policy experts via posts on X &lpar;Washington Post&rpar;](http://www.techmeme.com/231009/p7#a231009p7)
+ - [iPhone 15 teardown reveals updated Qualcomm 5G modem](https://appleinsider.com/articles/23/10/09/iphone-15-teardown-reveals-updated-qualcomm-5g-modem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
