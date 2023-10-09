@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Sales teams at Google, Twilio, and others say they have seen productivity spike after using ChatGPT-like tools to respond to prospective customers&#39; proposals &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231006/p19#a231006p19)
- - [Today the FTX jury suffered through a code review](https://www.theverge.com/2023/10/6/23906899/ftx-alameda-sam-bankman-fried-trial-gary-wang-testimony)<!-- TECH:END -->
+ - [How to get started using Metal Developer Tools for Windows](https://appleinsider.com/articles/23/10/08/how-to-get-started-using-metal-developer-tools-for-windows?utm_medium=rss)
+ - [Save $100 off Bose&#39;s Noise Cancelling Headphones 700     - CNET](https://www.cnet.com/deals/save-100-off-boses-noise-cancelling-headphones-700/#ftag=CAD590a51e)
+ - [Crime blotter: Latest on Philadelphia Apple Store looting](https://appleinsider.com/articles/23/10/08/crime-blotter-latest-on-philadelphia-apple-store-looting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
