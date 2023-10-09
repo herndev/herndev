@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - ⏩ [Queen](http://9gag.com/gag/aoK6PAg)
- - 👉 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)<!-- MEMES:END -->
+ - 💣 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
+ - ⏩ [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
+ - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
 
 ---
 
