@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - ⏩ [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
- - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
+ - 💣 [T-90M found out](http://9gag.com/gag/anz34eb)
+ - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
 
 ---
 
