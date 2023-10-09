@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity says John Riccitiello is retiring as president, CEO, and board chairman, and appoints former Red Hat President and CEO James Whitehurst as its interim CEO &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231009/p18#a231009p18)
- - [Duelling analysts offer differing takes on Mac in the PC market](https://appleinsider.com/articles/23/10/09/duelling-analysts-offer-differing-takes-on-mac-in-the-pc-market?utm_medium=rss)
- - [Google Cloud expands Vertex AI Search with features to help health care workers pull info from clinical notes, scanned documents, and electronic health records &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231009/p17#a231009p17)<!-- TECH:END -->
+ - [California Gov. Gavin Newsom signs AB 1394, a bill to hold social media platforms and other web services liable for &quot;knowingly facilitating&quot; commercial CSAM &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231009/p19#a231009p19)
+ - [X CEO Linda Yaccarino drops out of the WSJ Tech Live conference](https://www.theverge.com/2023/10/9/23910453/linda-yaccarino-wsj-tech-live-twitter-x)
+ - [How to Score $24 Free During Amazon&#39;s October Prime Day Event     - CNET](https://www.cnet.com/tech/how-to-score-24-free-during-amazons-october-prime-day-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
