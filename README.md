@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This crab soulslike allows you to whip out a pistol and one shot the boss once you&#39;ve had enough](https://www.pcgamer.com/this-crab-soulslike-allows-you-to-whip-out-a-pistol-and-one-shot-the-boss-once-youve-had-enough)
- - [WoW Classic hardcore duel goes horribly wrong when player is ganked by a Horde guard in the ultimate act of betrayal](https://www.pcgamer.com/wow-classic-hardcore-duel-goes-horribly-wrong-when-player-is-ganked-by-a-horde-guard-in-the-ultimate-act-of-betrayal)
- - [Now is your last chance to claim D&amp;D&#39;s intro adventure Lost Mine of Phandelver for free](https://www.pcgamer.com/now-is-your-last-chance-to-claim-dandds-intro-adventure-lost-mine-of-phandelver-for-free)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [Indigenous TTRPG Coyote &amp; Crow is free for today only](https://www.polygon.com/deals/2023/10/9/23906737/ttrpg-tabletop-game-coyote-crow-free-indigenous-peoples-day)
+ - [Leak suggests Nvidia is aiming to release a faster RTX 4080 in early 2024, but that&#39;s not going to fix the mess that is the Ada GPU line-up](https://www.pcgamer.com/leak-suggests-nvidia-is-aiming-to-release-a-faster-rtx-4080-in-early-2024-but-thats-not-going-to-fix-the-mess-that-is-the-ada-gpu-line-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
