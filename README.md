@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Now is your last chance to claim D&amp;D&#39;s intro adventure Lost Mine of Phandelver for free](https://www.pcgamer.com/now-is-your-last-chance-to-claim-dandds-intro-adventure-lost-mine-of-phandelver-for-free)
  - [Wordle today: Hint and answer for #842 Monday, October 9](https://www.pcgamer.com/wordle-today-answer-842-october-9)
- - [Interactive series Silent Hill: Ascension begins Oct 31, &#39;if people are afraid of weird F2P monetization, it&#39;s not a game&#39;](https://www.pcgamer.com/interactive-series-silent-hill-ascension-begins-oct-31-if-people-are-afraid-of-weird-f2p-monetization-its-not-a-game)
- - [Promising indie games we saw at PAX Australia 2023](https://www.pcgamer.com/promising-indie-games-we-saw-at-pax-australia-2023)<!-- GAME:END -->
+ - [Interactive series Silent Hill: Ascension begins Oct 31, &#39;if people are afraid of weird F2P monetization, it&#39;s not a game&#39;](https://www.pcgamer.com/interactive-series-silent-hill-ascension-begins-oct-31-if-people-are-afraid-of-weird-f2p-monetization-its-not-a-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
