@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LLMs trained on voice, text, and video chats can now detect and mimic emotions like empathy, which could impact fields like customer service, HR, mental health &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/231008/p6#a231008p6)
  - [How to get started using Metal Developer Tools for Windows](https://appleinsider.com/articles/23/10/08/how-to-get-started-using-metal-developer-tools-for-windows?utm_medium=rss)
- - [Save $100 off Bose&#39;s Noise Cancelling Headphones 700     - CNET](https://www.cnet.com/deals/save-100-off-boses-noise-cancelling-headphones-700/#ftag=CAD590a51e)
- - [Crime blotter: Latest on Philadelphia Apple Store looting](https://appleinsider.com/articles/23/10/08/crime-blotter-latest-on-philadelphia-apple-store-looting?utm_medium=rss)<!-- TECH:END -->
+ - [Save $100 off Bose&#39;s Noise Cancelling Headphones 700     - CNET](https://www.cnet.com/deals/save-100-off-boses-noise-cancelling-headphones-700/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
