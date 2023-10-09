@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - ⏩ [Read the Titles](http://9gag.com/gag/a1PnMrD)
- - 👉 [WTF Dude](http://9gag.com/gag/aBdM1wQ)<!-- MEMES:END -->
+ - 💣 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - ⏩ [RIP Gaza](http://9gag.com/gag/az2zXWj)
+ - 👉 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)<!-- MEMES:END -->
 
 ---
 
