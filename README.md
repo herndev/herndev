@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vegans=animal abusers](http://9gag.com/gag/aA07ev2)
- - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 👉 [The Future of South africa](http://9gag.com/gag/aDYLx3B)<!-- MEMES:END -->
+ - 💣 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - ⏩ [Queen](http://9gag.com/gag/aoK6PAg)
+ - 👉 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)<!-- MEMES:END -->
 
 ---
 
