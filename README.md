@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [T-90M found out](http://9gag.com/gag/anz34eb)
- - ⏩ [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
+ - 💣 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - ⏩ [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 👉 [How to piss off 100% of people with one picture.](http://9gag.com/gag/ajVj5M0)<!-- MEMES:END -->
 
 ---
 
