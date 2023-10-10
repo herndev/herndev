@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - ⏩ [HODL](http://9gag.com/gag/anz3zAb)
+ - ⏩ [I give guitar lessons to some of the kids in his high school. I messaged them saying I would have to cancel today&#39;s class because my dog was hurt.when they asked me what happened,I sent them the video. Now he&#39;s being bullied at school.](http://9gag.com/gag/aME6xbM)
  - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
 
 ---
