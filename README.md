@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard’s latest games will start arriving on Xbox Game Pass in 2024 if Microsoft deal closes](https://www.theverge.com/2023/10/10/23910961/microsoft-activision-blizzard-xbox-game-pass-2024-titles)
- - [X now lets users block unverified accounts from replying to their posts, potentially limiting how the community can push back on misinformation &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231010/p5#a231010p5)
- - [Anker’s 10,000mAh and 20,000mAh power banks get a hefty price cut](https://www.androidauthority.com/anker-power-bank-prime-day-2-2023-3374071/)<!-- TECH:END -->
+ - [OnePlus Open US price leaked, could undercut Samsung Galaxy Z Fold 5](https://www.androidauthority.com/oneplus-open-us-price-leak-3374105/)
+ - [This Amazon deal knocks over 20% off Galaxy Buds 2 Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-amazon-big-deal-days-3374098/)
+ - [The 16 Best Prime Day Laptop Deals &lpar;2023&rpar; to Upgrade Your Work Station](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
