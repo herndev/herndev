@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open US price leaked, could undercut Samsung Galaxy Z Fold 5](https://www.androidauthority.com/oneplus-open-us-price-leak-3374105/)
- - [This Amazon deal knocks over 20% off Galaxy Buds 2 Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-amazon-big-deal-days-3374098/)
- - [The 16 Best Prime Day Laptop Deals &lpar;2023&rpar; to Upgrade Your Work Station](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-1/)<!-- TECH:END -->
+ - [Apple wants an iPhone to charge other devices through the screen glass](https://appleinsider.com/articles/21/12/30/apple-wants-an-iphone-to-charge-other-devices-through-the-screen-glass?utm_medium=rss)
+ - [Valve kills CS:GO on macOS, won&#39;t launch Mac Counter-Strike 2 either](https://appleinsider.com/articles/23/10/10/valve-kills-csgo-on-macos-wont-launch-mac-counter-strike-2-either?utm_medium=rss)
+ - [Some academics in Saudi Arabia worry over Saudi-Chinese AI collaboration, which may jeopardize their access to US chips, as the Gulf states rush to build LLMs &lpar;Financial Times&rpar;](http://www.techmeme.com/231010/p10#a231010p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
