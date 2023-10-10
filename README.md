@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Omega &lpar;2310.231005-2200&rpar;](https://news.xbox.com/en-us/2023/10/10/xbox-insider-release-notes-omega-2310-231005-2200/)
- - [Sony Raising Price Of All-Digital PS5 By $50](https://kotaku.com/sony-playstation-ps5-slim-all-digital-disc-drive-price-1850914803)
- - [The best video game deals under $40 during October Prime Day](https://www.polygon.com/amazon-prime-day/23891075/best-gaming-deals-under-40)<!-- GAME:END -->
+ - [Rocket League Will Ban Item Trading, Nuking Market For Secondhand Skins](https://kotaku.com/rocket-league-item-trading-alpha-boost-epic-season-13-1850915360)
+ - [The best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)
+ - [Ex-Dragon Age Devs Sue BioWare Over Denying Full Severance](https://kotaku.com/dragon-age-dreadwolf-bioware-layoffs-lawsuit-ea-1850900755)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
