@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rocket League Will Ban Item Trading, Nuking Market For Secondhand Skins](https://kotaku.com/rocket-league-item-trading-alpha-boost-epic-season-13-1850915360)
- - [The best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)
- - [Ex-Dragon Age Devs Sue BioWare Over Denying Full Severance](https://kotaku.com/dragon-age-dreadwolf-bioware-layoffs-lawsuit-ea-1850900755)<!-- GAME:END -->
+ - [Nice! Xbox Actually Has Games This Year](https://kotaku.com/xbox-game-pass-2023-games-starfield-forza-bethesda-1850915952)
+ - [Diablo 4’s Season 2 patch rebalances each class and nearly every Unique item](https://www.polygon.com/23911599/diablo-4-season-of-blood-2-patch-notes)
+ - [Geralt voice actor Doug Cockle throws down for Dungeons &amp; Dragons actual play series](https://www.polygon.com/23911711/dnd-dungeons-dragons-actual-play-geralt-voice-actor-doug-cockle-natural-six)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
