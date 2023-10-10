@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fall-ing for Lil Gator Game](https://news.xbox.com/en-us/2023/10/10/fall-ing-for-lil-gator-game/)
- - [Mission: Impossible 7 used a jet engine as a secret weapon for its sandstorm shootout](https://www.polygon.com/23911358/mission-impossible-dead-reckoning-part-1-behind-the-scenes-4k-release)
- - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Omega &lpar;2310.231005-2200&rpar;](https://news.xbox.com/en-us/2023/10/10/xbox-insider-release-notes-omega-2310-231005-2200/)
+ - [Sony Raising Price Of All-Digital PS5 By $50](https://kotaku.com/sony-playstation-ps5-slim-all-digital-disc-drive-price-1850914803)
+ - [The best video game deals under $40 during October Prime Day](https://www.polygon.com/amazon-prime-day/23891075/best-gaming-deals-under-40)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
