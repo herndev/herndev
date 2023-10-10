@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 161 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Caroline Ellison testifies SBF &quot;directed&quot; her to commit crimes like using FTX customer funds for Alameda Research&#39;s venture investments and loan repayments &lpar;New York Times&rpar;](http://www.techmeme.com/231010/p21#a231010p21)
- - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)<!-- TECH:END -->
+ - [In a letter, Thierry Breton warns Elon Musk that X could face penalties under the DSA for hosting disinformation and illegal content about the Israel-Hamas war &lpar;CNN&rpar;](http://www.techmeme.com/231010/p24#a231010p24)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [113 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
