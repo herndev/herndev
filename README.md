@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s next round of PC chips will fight Apple under the name Snapdragon X](https://www.theverge.com/2023/10/10/23911431/qualcomm-snapdragon-x-platform-oryon-cpu-windows-pc-apple-silicon)
- - [Here’s the first peek at the new Google Assistant powered by Bard](https://www.androidauthority.com/google-assistant-bard-3374245/)
- - [Apple releases iOS 16.7.1 for older devices with big security fixes](https://appleinsider.com/articles/23/10/10/apple-releases-ios-1671-for-older-devices-with-big-security-fixes?utm_medium=rss)<!-- TECH:END -->
+ - [Apple releases new firmware for AirPods Pro 2](https://appleinsider.com/articles/23/10/10/apple-releases-new-firmware-for-airpods-pro-2?utm_medium=rss)
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
+ - [Sources: the SEC is probing a 2018 security lapse at Twitter exposing users&#39; email addresses and if executives adequately disclosed the issue to investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/231010/p20#a231010p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
