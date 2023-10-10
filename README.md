@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - ⏩ [Those who know](http://9gag.com/gag/aVb8gKP)
- - 👉 [But why tho?](http://9gag.com/gag/a2KVv9e)<!-- MEMES:END -->
+ - 💣 [What is the most underrated tourist spot in the world?](http://9gag.com/gag/aBdMydP)
+ - ⏩ [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
 
 ---
 
