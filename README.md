@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation 5 gets new design, new price, new storage, and cool new trick](https://www.androidauthority.com/playstation-5-refresh-2023-3374234/)
- - [Live Updates: The Trial of FTX Founder Sam Bankman-Fried](https://www.wired.com/live/sam-bankman-fried-sbf-ftx-trial-live-blog-week-2/)
- - [Hollywood’s actors are still on strike](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)<!-- TECH:END -->
+ - [Qualcomm’s next round of PC chips will fight Apple under the name Snapdragon X](https://www.theverge.com/2023/10/10/23911431/qualcomm-snapdragon-x-platform-oryon-cpu-windows-pc-apple-silicon)
+ - [Here’s the first peek at the new Google Assistant powered by Bard](https://www.androidauthority.com/google-assistant-bard-3374245/)
+ - [Apple releases iOS 16.7.1 for older devices with big security fixes](https://appleinsider.com/articles/23/10/10/apple-releases-ios-1671-for-older-devices-with-big-security-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
