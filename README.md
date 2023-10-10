@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants an iPhone to charge other devices through the screen glass](https://appleinsider.com/articles/21/12/30/apple-wants-an-iphone-to-charge-other-devices-through-the-screen-glass?utm_medium=rss)
- - [Valve kills CS:GO on macOS, won&#39;t launch Mac Counter-Strike 2 either](https://appleinsider.com/articles/23/10/10/valve-kills-csgo-on-macos-wont-launch-mac-counter-strike-2-either?utm_medium=rss)
- - [Some academics in Saudi Arabia worry over Saudi-Chinese AI collaboration, which may jeopardize their access to US chips, as the Gulf states rush to build LLMs &lpar;Financial Times&rpar;](http://www.techmeme.com/231010/p10#a231010p10)<!-- TECH:END -->
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [Google Pixel 5 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-5-vs-pixel-8-3372554/)
+ - [The Motorola Razr 2023 is finally available in the US, and it’s a steal](https://www.androidauthority.com/motorola-razr-2023-us-availability-3373646/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
