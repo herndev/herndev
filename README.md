@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 11 has received its biggest discount yet as part of Prime Day 2](https://www.androidauthority.com/oneplus-11-deal-prime-day-2-3374013/)
- - [Google Pixel Tablet just dropped to lowest price ever for Prime members](https://www.androidauthority.com/google-pixel-tablet-amazon-prime-big-deal-days-sale-3373990/)
- - [Apple Watch Ultra 2, SE drop to as low as $199 during Amazon Prime Day](https://appleinsider.com/articles/23/10/10/apple-watch-ultra-2-se-drop-to-as-low-as-199-during-amazon-prime-day?utm_medium=rss)<!-- TECH:END -->
+ - [Activision Blizzard’s latest games will start arriving on Xbox Game Pass in 2024 if Microsoft deal closes](https://www.theverge.com/2023/10/10/23910961/microsoft-activision-blizzard-xbox-game-pass-2024-titles)
+ - [X now lets users block unverified accounts from replying to their posts, potentially limiting how the community can push back on misinformation &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231010/p5#a231010p5)
+ - [Anker’s 10,000mAh and 20,000mAh power banks get a hefty price cut](https://www.androidauthority.com/anker-power-bank-prime-day-2-2023-3374071/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
