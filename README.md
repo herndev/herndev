@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Skull Island: Rise of Kong Is Inspired by Its Rich Lore](https://news.xbox.com/en-us/2023/10/10/skull-island-rise-of-kong-is-inspired-by-its-rich-lore/)
- - [Legend Of Zelda: Tears Of The Kingdom Director Spills On MIA Sheikah Technology](https://kotaku.com/legend-zelda-tears-kingdom-breath-wild-link-sheikah-tec-1850914708)
- - [Sony unveils smaller, redesigned PS5 models — and a price hike](https://www.polygon.com/23911390/ps5-slim-release-date-price-increase-digital-edition)<!-- GAME:END -->
+ - [Fall-ing for Lil Gator Game](https://news.xbox.com/en-us/2023/10/10/fall-ing-for-lil-gator-game/)
+ - [Mission: Impossible 7 used a jet engine as a secret weapon for its sandstorm shootout](https://www.polygon.com/23911358/mission-impossible-dead-reckoning-part-1-behind-the-scenes-4k-release)
+ - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
