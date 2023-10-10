@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter, Thierry Breton warns Elon Musk that X could face penalties under the DSA for hosting disinformation and illegal content about the Israel-Hamas war &lpar;CNN&rpar;](http://www.techmeme.com/231010/p24#a231010p24)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [113 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)<!-- TECH:END -->
+ - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)
+ - [California Governor Gavin Newsom signs into law the Delete Act, which requires data brokers to delete a resident&#39;s personal information after a single request &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231010/p27#a231010p27)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
