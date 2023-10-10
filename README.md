@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Martes](http://9gag.com/gag/a7qB8WA)
- - ⏩ [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
+ - 💣 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - ⏩ [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - 👉 [Road rager shatters window](http://9gag.com/gag/aGEqEOZ)<!-- MEMES:END -->
 
 ---
 
