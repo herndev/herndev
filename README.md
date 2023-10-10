@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases new firmware for AirPods Pro 2](https://appleinsider.com/articles/23/10/10/apple-releases-new-firmware-for-airpods-pro-2?utm_medium=rss)
- - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
- - [Sources: the SEC is probing a 2018 security lapse at Twitter exposing users&#39; email addresses and if executives adequately disclosed the issue to investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/231010/p20#a231010p20)<!-- TECH:END -->
+ - [The 161 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [Caroline Ellison testifies SBF &quot;directed&quot; her to commit crimes like using FTX customer funds for Alameda Research&#39;s venture investments and loan repayments &lpar;New York Times&rpar;](http://www.techmeme.com/231010/p21#a231010p21)
+ - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
