@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 7a vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-should-you-upgrade-3373717/)
- - [A US judge throws out a $32.5M jury verdict for Sonos in a smart speaker patent case against Google after finding that the Sonos patents were unenforceable &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231009/p20#a231009p20)
- - [The Israel-Hamas War Erupts in Digital Chaos](https://www.wired.com/story/israel-hamas-war-hacktivism/)<!-- TECH:END -->
+ - [Best Fitness Deals for October Prime Day Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)
+ - [Best Prime Day Laptop Deals Available Right Now     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-available-right-now/#ftag=CAD590a51e)
+ - [Google Pixel 7a vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-should-you-upgrade-3373717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
