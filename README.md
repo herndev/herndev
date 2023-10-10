@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
- - ⏩ [Imagine taking a nice sh*t and then this happens..](http://9gag.com/gag/aQEKoMK)
- - 👉 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)<!-- MEMES:END -->
+ - 💣 [Name your favourite underrated movie](http://9gag.com/gag/aA076g2)
+ - ⏩ [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 👉 [What is the most underrated tourist spot in the world?](http://9gag.com/gag/aBdMydP)<!-- MEMES:END -->
 
 ---
 
