@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Fitness Deals for October Prime Day Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)
- - [Best Prime Day Laptop Deals Available Right Now     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-available-right-now/#ftag=CAD590a51e)
- - [Google Pixel 7a vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-should-you-upgrade-3373717/)<!-- TECH:END -->
+ - [Sources: X shut down a tool used to identify coordinated disinformation campaigns in recent months, as it moved services away from Google Cloud to cut costs &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231009/p21#a231009p21)
+ - [8 Best All-Clad Cookware Deals Right Now &lpar;October 2023&rpar;](https://www.wired.com/story/all-clad-deals/)
+ - [Best Prime Day TV Deals You Can Get Early     - CNET](https://www.cnet.com/deals/the-best-prime-day-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
