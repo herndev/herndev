@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austin-based Saronic, a startup working on autonomous ships for US-aligned defense customers, has raised a $55M Series A led by Caffeinated Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231010/p1#a231010p1)
- - [Many US school districts spent millions in US pandemic relief money on edtech, such as apps, games, and tutoring sites, but the results for students are unclear &lpar;Collin Binkley/Associated Press&rpar;](http://www.techmeme.com/231009/p23#a231009p23)
- - [As X struggles to moderate misinformation about the Israel-Hamas war, Meta has an opportunity to make Threads a real-time news app many users are clamoring for &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231009/p22#a231009p22)<!-- TECH:END -->
+ - [Global PC shipments fell 7.6% YoY to 68.2M in Q3 2023; among the top five vendors, Apple experienced the largest decline, down 23.1%, and only HP grew, up 6.4% &lpar;IDC&rpar;](http://www.techmeme.com/231010/p2#a231010p2)
+ - [Austin-based Saronic, a startup developing autonomous ships for the US Navy and US-aligned defense customers, raised a $55M Series A led by Caffeinated Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231010/p1#a231010p1)
+ - [Many US school districts spent millions in US pandemic relief money on edtech, such as apps, games, and tutoring sites, but the results for students are unclear &lpar;Collin Binkley/Associated Press&rpar;](http://www.techmeme.com/231009/p23#a231009p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
