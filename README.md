@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
- - ⏩ [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
- - 👉 [Road rager shatters window](http://9gag.com/gag/aGEqEOZ)<!-- MEMES:END -->
+ - 💣 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
+ - ⏩ [Those who know](http://9gag.com/gag/aVb8gKP)
+ - 👉 [But why tho?](http://9gag.com/gag/a2KVv9e)<!-- MEMES:END -->
 
 ---
 
