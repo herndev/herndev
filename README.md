@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is the most underrated tourist spot in the world?](http://9gag.com/gag/aBdMydP)
- - ⏩ [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
+ - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - ⏩ [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
 
 ---
 
