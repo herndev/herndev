@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [El Rimal neighborhood, the Gaza Beverly Hills, this morning. No survivors in any of the Israeli strikes](http://9gag.com/gag/az2zxnq)
- - ⏩ [Voda](http://9gag.com/gag/a6qzE08)
- - 👉 [Friends](http://9gag.com/gag/amAyAR6)<!-- MEMES:END -->
+ - 💣 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - ⏩ [Imagine witnessing your boyfriend being killed right in front of you and still defending your BLM cause. How damaged is your brain.](http://9gag.com/gag/aDYL2QZ)
+ - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
 
 ---
 
