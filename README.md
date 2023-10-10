@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - ⏩ [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
- - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
+ - 💣 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - ⏩ [Imagine taking a nice sh*t and then this happens..](http://9gag.com/gag/aQEKoMK)
+ - 👉 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)<!-- MEMES:END -->
 
 ---
 
