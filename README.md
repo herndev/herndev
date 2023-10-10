@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Google Pixel 5 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-5-vs-pixel-8-3372554/)
- - [The Motorola Razr 2023 is finally available in the US, and it’s a steal](https://www.androidauthority.com/motorola-razr-2023-us-availability-3373646/)<!-- TECH:END -->
+ - [Oura Ring gets new colorway and stress management features](https://www.androidauthority.com/oura-ring-colorway-and-features-3373173/)
+ - [Rivian CEO RJ Scaringe on ramping up R1T production and competing with the Cybertruck](https://www.theverge.com/23908667/rivian-rj-scaringe-r1t-electric-truck-interview-decoder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
