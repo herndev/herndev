@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Prime Day Espresso Machine Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-deals-october-2023/)
- - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
- - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)<!-- TECH:END -->
+ - [Google takes a victory lap after Sonos decision, calls for patent reform](https://www.theverge.com/2023/10/10/23911256/google-statement-sonos-patent-victory)
+ - [Sony announces new gaming earbuds — not to be confused with the PlayStation earbuds](https://www.theverge.com/2023/10/10/23911238/sony-inzone-buds-gaming-earbuds-h5-price)
+ - [Space OS is trying to bring back the personal computer — this time in the cloud](https://www.theverge.com/2023/10/10/23911145/space-os-deta-personal-cloud-computer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
