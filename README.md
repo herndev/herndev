@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Name your favourite underrated movie](http://9gag.com/gag/aA076g2)
- - ⏩ [Got your worm](http://9gag.com/gag/a4o8njm)
- - 👉 [What is the most underrated tourist spot in the world?](http://9gag.com/gag/aBdMydP)<!-- MEMES:END -->
+ - 💣 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - ⏩ [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 👉 [Go playboy!](http://9gag.com/gag/amAyoDV)<!-- MEMES:END -->
 
 ---
 
