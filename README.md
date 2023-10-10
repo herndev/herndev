@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HODL](http://9gag.com/gag/anz3zAb)
- - ⏩ [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
- - 👉 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)<!-- MEMES:END -->
+ - 💣 [Queen](http://9gag.com/gag/aoK6PAg)
+ - ⏩ [Challenge Accepted](http://9gag.com/gag/aXnzrPP)
+ - 👉 [I am posting it for the 3rd time after they block it.](http://9gag.com/gag/a3ZDEx8)<!-- MEMES:END -->
 
 ---
 
