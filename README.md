@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now Pink Rathian event times, armor and weapon list](https://www.polygon.com/monster-hunter-now-guides/23910975/pink-rathian-armor-weapons-weakness-event)
- - [Total War: Pharaoh is more of a pretender than a true heir](https://www.polygon.com/reviews/23899816/total-war-pharaoh-review-creative-assembly)
- - [Ubisoft&#39;s XDefiant was supposed to launch this month, but is delayed &lpar;again&rpar;](https://www.pcgamer.com/ubisofts-xdefiant-was-supposed-to-launch-this-month-but-is-delayed-again)<!-- GAME:END -->
+ - [Colin Kaepernick Talks Wild Card Football – Launching Today](https://news.xbox.com/en-us/2023/10/10/wild-card-football-colin-kaepernick/)
+ - [Counter-Strike 2 fixes hitbox issues with crouchers, and more importantly makes knife spinning feel a bit faster](https://www.pcgamer.com/counter-strike-2-fixes-hitbox-issues-with-crouchers-and-more-importantly-makes-knife-spinning-feel-a-bit-faster)
+ - [Activision reminds fans they&#39;ll need to get their wallets out for Modern Warfare 3, says its games won&#39;t hit Game Pass until next year at the earliest](https://www.pcgamer.com/activision-reminds-fans-theyll-need-to-get-their-wallets-out-for-modern-warfare-3-says-its-games-wont-hit-game-pass-until-next-year-at-the-earliest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
