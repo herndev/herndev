@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Russia they go around marking the houses and shops of Jews, this reminds me of something](http://9gag.com/gag/az2zexp)
- - ⏩ [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
+ - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - ⏩ [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 👉 [So it begins](http://9gag.com/gag/a1PnPKv)<!-- MEMES:END -->
 
 ---
 
