@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nice! Xbox Actually Has Games This Year](https://kotaku.com/xbox-game-pass-2023-games-starfield-forza-bethesda-1850915952)
- - [Diablo 4’s Season 2 patch rebalances each class and nearly every Unique item](https://www.polygon.com/23911599/diablo-4-season-of-blood-2-patch-notes)
- - [Geralt voice actor Doug Cockle throws down for Dungeons &amp; Dragons actual play series](https://www.polygon.com/23911711/dnd-dungeons-dragons-actual-play-geralt-voice-actor-doug-cockle-natural-six)<!-- GAME:END -->
+ - [Sorry, but the 8-hour demo of co-op survival RPG Enshrouded isn&#39;t long enough for me](https://www.pcgamer.com/sorry-but-the-8-hour-demo-of-co-op-survival-rpg-enshrouded-isnt-long-enough-for-me)
+ - [Stardew Valley&#39;s beloved soundtrack is going on an international concert tour in the &#39;Festival of Seasons&#39;](https://www.pcgamer.com/stardew-valleys-beloved-soundtrack-is-going-on-an-international-concert-tour-in-the-festival-of-seasons)
+ - [Call of Duty&#39;s best new item is a drone that can kill enemies around corners](https://www.pcgamer.com/call-of-dutys-best-new-item-is-a-drone-that-can-kill-enemies-around-corners)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
