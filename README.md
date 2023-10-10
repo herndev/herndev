@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you buy one thing for Prime Day, make it the Mörk Borg TTRPG](https://www.polygon.com/amazon-prime-day/23901291/mork-borg-ttrpg-tabletop-game)
- - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)
- - [Here are Prime Day’s Magic: The Gathering deals](https://www.polygon.com/amazon-prime-day/23891081/magic-the-gathering-deals-cards-booster-set)<!-- GAME:END -->
+ - [Forza Motorsport: The Ultimate Racing Game for Car Lovers – Out Now and Included with Game Pass](https://news.xbox.com/en-us/2023/10/10/forza-motorsport-out-now-and-included-with-game-pass/)
+ - [This Week’s Xbox Sales and Specials, Including the Wish List Sale](https://news.xbox.com/en-us/2023/10/10/this-weeks-xbox-sales-and-specials-including-the-wish-list-sale/)
+ - [If you buy one thing for Prime Day, make it the Mörk Borg TTRPG](https://www.polygon.com/amazon-prime-day/23901291/mork-borg-ttrpg-tabletop-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
