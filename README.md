@@ -39,8 +39,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)
- - [California Governor Gavin Newsom signs into law the Delete Act, which requires data brokers to delete a resident&#39;s personal information after a single request &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231010/p27#a231010p27)
+ - [The $180 Intel Arc A580 is Team Blue’s new budget GPU](https://www.theverge.com/2023/10/10/23911902/intel-arc-a580-announcement-performance-price-nvidia-amd)
+ - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/23905479/amazon-october-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
