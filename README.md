@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Queen](http://9gag.com/gag/aoK6PAg)
- - ⏩ [Challenge Accepted](http://9gag.com/gag/aXnzrPP)
- - 👉 [I am posting it for the 3rd time after they block it.](http://9gag.com/gag/a3ZDEx8)<!-- MEMES:END -->
+ - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - ⏩ [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 ---
 
