@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sorry, but the 8-hour demo of co-op survival RPG Enshrouded isn&#39;t long enough for me](https://www.pcgamer.com/sorry-but-the-8-hour-demo-of-co-op-survival-rpg-enshrouded-isnt-long-enough-for-me)
- - [Stardew Valley&#39;s beloved soundtrack is going on an international concert tour in the &#39;Festival of Seasons&#39;](https://www.pcgamer.com/stardew-valleys-beloved-soundtrack-is-going-on-an-international-concert-tour-in-the-festival-of-seasons)
- - [Call of Duty&#39;s best new item is a drone that can kill enemies around corners](https://www.pcgamer.com/call-of-dutys-best-new-item-is-a-drone-that-can-kill-enemies-around-corners)<!-- GAME:END -->
+ - [Diablo 4&#39;s strongest builds are being nerfed in the name of increasing build variety: &#39;Our goal is not to make you weaker&#39;](https://www.pcgamer.com/diablo-4s-strongest-builds-are-being-nerfed-in-the-name-of-increasing-build-variety-our-goal-is-not-to-make-you-weaker)
+ - [Dashcam Footage Shows Cops Ignoring Robbery To Play Pokémon Go](https://kotaku.com/pokemon-go-police-cops-lapd-dashcam-video-footage-fired-1850916322)
+ - [RIP Rocket League economy: player-to-player item trading is being removed in December](https://www.pcgamer.com/rocket-league-player-trading)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
