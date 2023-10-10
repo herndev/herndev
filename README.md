@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google takes a victory lap after Sonos decision, calls for patent reform](https://www.theverge.com/2023/10/10/23911256/google-statement-sonos-patent-victory)
- - [Sony announces new gaming earbuds — not to be confused with the PlayStation earbuds](https://www.theverge.com/2023/10/10/23911238/sony-inzone-buds-gaming-earbuds-h5-price)
- - [Space OS is trying to bring back the personal computer — this time in the cloud](https://www.theverge.com/2023/10/10/23911145/space-os-deta-personal-cloud-computer)<!-- TECH:END -->
+ - [PlayStation 5 gets new design, new price, new storage, and cool new trick](https://www.androidauthority.com/playstation-5-refresh-2023-3374234/)
+ - [Live Updates: The Trial of FTX Founder Sam Bankman-Fried](https://www.wired.com/live/sam-bankman-fried-sbf-ftx-trial-live-blog-week-2/)
+ - [Hollywood’s actors are still on strike](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
