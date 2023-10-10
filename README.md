@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
- - ⏩ [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
+ - 💣 [HODL](http://9gag.com/gag/anz3zAb)
+ - ⏩ [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 👉 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)<!-- MEMES:END -->
 
 ---
 
