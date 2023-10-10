@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - ⏩ [Imagine witnessing your boyfriend being killed right in front of you and still defending your BLM cause. How damaged is your brain.](http://9gag.com/gag/aDYL2QZ)
- - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
+ - 💣 [Martes](http://9gag.com/gag/a7qB8WA)
+ - ⏩ [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
+ - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
 
 ---
 
