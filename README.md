@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Google Nest device could be a step closer to regaining lost features](https://www.androidauthority.com/google-nest-chromecast-lost-features-sonos-lose-3373983/)
- - [Global PC shipments fell 7.6% YoY to 68.2M in Q3 2023; among the top five vendors, Apple experienced the largest decline, down 23.1%, and only HP grew, up 6.4% &lpar;IDC&rpar;](http://www.techmeme.com/231010/p2#a231010p2)
- - [Animal Crossing: New Horizons Is The Cozy Game I Needed This Year     - CNET](https://www.cnet.com/tech/gaming/animal-crossing-new-horizons-is-the-cozy-game-i-needed-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy S23 Ultra’s 512GB model has never had this low of a price](https://www.androidauthority.com/samsung-galaxy-s23-ultra-deal-oct-2023-3373712/)
+ - [The Soundcore Liberty 4 are just $89.99 in this rare Prime Day deal](https://www.androidauthority.com/soundcore-liberty-4-deal-3373857/)
+ - [The best deals of the Prime Big Deal Days Sale](https://www.androidauthority.com/prime-big-deal-days-3373431/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
