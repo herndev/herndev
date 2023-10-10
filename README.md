@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many US school districts spent millions in US pandemic relief money on edtech, such as apps, games, and tutoring sites, but the results for students are unclear &lpar;Collin Binkley/Associated Press&rpar;](http://www.techmeme.com/231009/p23#a231009p23)
  - [As X struggles to moderate misinformation about the Israel-Hamas war, Meta has an opportunity to make Threads a real-time news app many users are clamoring for &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231009/p22#a231009p22)
- - [Now X posts can lock replies to only allow comment from verified accounts](https://www.theverge.com/2023/10/9/23910716/x-twitter-reply-verified-only-paywall)
- - [Apple&#39;s iPad 9th Generation drops to $249 for Amazon Prime Day, lowest price ever](https://appleinsider.com/articles/23/10/10/apples-ipad-9th-generation-drops-to-249-for-amazon-prime-day-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Best Mobile VPN of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
