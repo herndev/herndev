@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [So it begins](http://9gag.com/gag/a1PnPKv)
- - ⏩ [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
+ - ⏩ [Hamas spoksman Abu Ubida: ` If Israel does not stop with the bombing, we will execute a hostage every hour and film it, so his family could watch`. Woman and children... Hamas=ISIS](http://9gag.com/gag/a1PnPYD)
  - 👉 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)<!-- MEMES:END -->
 
 ---
