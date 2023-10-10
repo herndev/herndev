@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Colin Kaepernick Talks Wild Card Football – Launching Today](https://news.xbox.com/en-us/2023/10/10/wild-card-football-colin-kaepernick/)
- - [Counter-Strike 2 fixes hitbox issues with crouchers, and more importantly makes knife spinning feel a bit faster](https://www.pcgamer.com/counter-strike-2-fixes-hitbox-issues-with-crouchers-and-more-importantly-makes-knife-spinning-feel-a-bit-faster)
- - [Activision reminds fans they&#39;ll need to get their wallets out for Modern Warfare 3, says its games won&#39;t hit Game Pass until next year at the earliest](https://www.pcgamer.com/activision-reminds-fans-theyll-need-to-get-their-wallets-out-for-modern-warfare-3-says-its-games-wont-hit-game-pass-until-next-year-at-the-earliest)<!-- GAME:END -->
+ - [How Endless Dungeon And Artist Lera Lynn Created The Perfect Space Western Refuge](https://news.xbox.com/en-us/2023/10/10/endless-dungeon-lera-lynn-soundtrack/)
+ - [Valve draws a stark line in the sand with Counter-Strike 2, says bye-bye to Mac players and 32-bit systems](https://www.pcgamer.com/valve-draws-a-stark-line-in-the-sand-with-counter-strike-2-says-bye-bye-to-mac-players-and-32-bit-systems)
+ - [Jack Skellington And Michael Myers Coming To Fortnite This Halloween](https://kotaku.com/fortnite-halloween-fortnitemare-all-skins-michael-myers-1850914501)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
