@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HODL](http://9gag.com/gag/anz3zAb)
- - ⏩ [So it begins](http://9gag.com/gag/a1PnPKv)
- - 👉 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)<!-- MEMES:END -->
+ - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - ⏩ [HODL](http://9gag.com/gag/anz3zAb)
+ - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
 
 ---
 
