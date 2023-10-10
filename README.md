@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - ⏩ [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 👉 [So it begins](http://9gag.com/gag/a1PnPKv)<!-- MEMES:END -->
+ - 💣 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
+ - ⏩ [CCP law in Australia](http://9gag.com/gag/agobmwg)
+ - 👉 [Go playboy!](http://9gag.com/gag/amAyoDV)<!-- MEMES:END -->
 
 ---
 
