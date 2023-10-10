@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield becomes literally more expansive than ever with the introduction of its promised FOV slider](https://www.pcgamer.com/starfield-becomes-literally-more-expansive-than-ever-with-the-introduction-of-its-promised-fov-slider)
- - [Can Shroomish be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889426/can-shroomish-be-shiny-breloom)
- - [The Best October Prime Day Deals On Storage Upgrades For PS5, Xbox, Switch, And PC](https://kotaku.com/amazon-prime-day-october-big-deal-storage-ps5-switch-pc-1850907400)<!-- GAME:END -->
+ - [If you buy one thing for Prime Day, make it the Mörk Borg TTRPG](https://www.polygon.com/amazon-prime-day/23901291/mork-borg-ttrpg-tabletop-game)
+ - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)
+ - [Here are Prime Day’s Magic: The Gathering deals](https://www.polygon.com/amazon-prime-day/23891081/magic-the-gathering-deals-cards-booster-set)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
