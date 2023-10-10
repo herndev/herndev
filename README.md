@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Endless Dungeon And Artist Lera Lynn Created The Perfect Space Western Refuge](https://news.xbox.com/en-us/2023/10/10/endless-dungeon-lera-lynn-soundtrack/)
- - [Valve draws a stark line in the sand with Counter-Strike 2, says bye-bye to Mac players and 32-bit systems](https://www.pcgamer.com/valve-draws-a-stark-line-in-the-sand-with-counter-strike-2-says-bye-bye-to-mac-players-and-32-bit-systems)
- - [Jack Skellington And Michael Myers Coming To Fortnite This Halloween](https://kotaku.com/fortnite-halloween-fortnitemare-all-skins-michael-myers-1850914501)<!-- GAME:END -->
+ - [How Skull Island: Rise of Kong Is Inspired by Its Rich Lore](https://news.xbox.com/en-us/2023/10/10/skull-island-rise-of-kong-is-inspired-by-its-rich-lore/)
+ - [Legend Of Zelda: Tears Of The Kingdom Director Spills On MIA Sheikah Technology](https://kotaku.com/legend-zelda-tears-kingdom-breath-wild-link-sheikah-tec-1850914708)
+ - [Sony unveils smaller, redesigned PS5 models — and a price hike](https://www.polygon.com/23911390/ps5-slim-release-date-price-increase-digital-edition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
