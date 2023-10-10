@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Starfield becomes literally more expansive than ever with the introduction of its promised FOV slider](https://www.pcgamer.com/starfield-becomes-literally-more-expansive-than-ever-with-the-introduction-of-its-promised-fov-slider)
  - [Can Shroomish be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889426/can-shroomish-be-shiny-breloom)
- - [The Best October Prime Day Deals On Storage Upgrades For PS5, Xbox, Switch, And PC](https://kotaku.com/amazon-prime-day-october-big-deal-storage-ps5-switch-pc-1850907400)
- - [All The Best Game Deals From Amazon’s October Prime Day](https://kotaku.com/amazon-prime-big-deals-games-xbox-ps5-switch-october-1850906842)<!-- GAME:END -->
+ - [The Best October Prime Day Deals On Storage Upgrades For PS5, Xbox, Switch, And PC](https://kotaku.com/amazon-prime-day-october-big-deal-storage-ps5-switch-pc-1850907400)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
