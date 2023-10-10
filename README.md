@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Oura Ring gets new colorway and stress management features](https://www.androidauthority.com/oura-ring-colorway-and-features-3373173/)
- - [Rivian CEO RJ Scaringe on ramping up R1T production and competing with the Cybertruck](https://www.theverge.com/23908667/rivian-rj-scaringe-r1t-electric-truck-interview-decoder)<!-- TECH:END -->
+ - [12 Best Prime Day Espresso Machine Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-deals-october-2023/)
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
+ - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
