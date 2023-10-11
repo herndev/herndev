@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RIAA wants AI voice cloning sites on government piracy watchlist](https://www.theverge.com/2023/10/11/23913405/riaa-ai-voice-cloning-threat-copyright-ustr)
- - [165 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
- - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)<!-- TECH:END -->
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
+ - [T-Mobile is pushing some unlimited customers onto pricier plans](https://www.theverge.com/2023/10/11/23913290/t-mobile-automatic-plan-upgrade-customer-service-unlimited)
+ - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
