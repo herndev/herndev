@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried was a terrible boyfriend](https://www.theverge.com/2023/10/10/23912036/sam-bankman-fried-ftx-caroline-ellison-alameda-research)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [The 75 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Utah sues TikTok, accusing it of getting kids hooked through &quot;algorithms and manipulative design features&quot;, following similar lawsuits by Indiana and Arkansas &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231010/p32#a231010p32)
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
