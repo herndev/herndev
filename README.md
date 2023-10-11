@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
- - [T-Mobile is pushing some unlimited customers onto pricier plans](https://www.theverge.com/2023/10/11/23913290/t-mobile-automatic-plan-upgrade-customer-service-unlimited)
- - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)<!-- TECH:END -->
+ - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
+ - [Death, Sex, and the future of WNYC podcasts](https://www.theverge.com/2023/10/11/23913556/death-sex-money-wnyc-npr-podcast-radiolab)
+ - [Last call for these Amazon Prime Day tech deals](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
