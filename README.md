@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In the new PUBG update, chicken is for losers too](https://www.polygon.com/23912908/pubg-kfc-meal-erangel-update)
- - [Star Trek’s Lower Decks and new Dune RPG are cheaper during Prime Day](https://www.polygon.com/amazon-prime-day/23912893/star-trek-adventures-lower-decks-dune-rpgs-prime-day-sale)
- - [Baldur’s Gate 2’s Characters Were ‘Cardboard Cutouts’ Until Devs Played Final Fantasy VII](https://kotaku.com/baldurs-gate-2-3-final-fantasy-7-bioware-cloud-tifa-1850918340)<!-- GAME:END -->
+ - [PS Plus October Lineup Includes Disco Elysium And Gotham Knights](https://kotaku.com/ps-plus-october-2023-disco-elysium-gotham-knights-1850919154)
+ - [Space Wreck is an old-school RPG where every choice matters](https://www.polygon.com/23913227/space-wreck-steam-rpg-pahris-entertainment-impressions)
+ - [6 big changes to Starfield I&#39;d like to see in the next year](https://www.pcgamer.com/6-big-changes-to-starfield-id-like-to-see-in-the-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
