@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS Plus October Lineup Includes Disco Elysium And Gotham Knights](https://kotaku.com/ps-plus-october-2023-disco-elysium-gotham-knights-1850919154)
- - [Space Wreck is an old-school RPG where every choice matters](https://www.polygon.com/23913227/space-wreck-steam-rpg-pahris-entertainment-impressions)
- - [6 big changes to Starfield I&#39;d like to see in the next year](https://www.pcgamer.com/6-big-changes-to-starfield-id-like-to-see-in-the-next-year)<!-- GAME:END -->
+ - [You can watch the biggest panels from New York Comic Con 2023 from home](https://www.polygon.com/nycc/23912747/new-york-comic-con-2023-nycc-streaming-schedule-panels)
+ - [PS5 Finally Gets Cloud Gaming Later This Month](https://kotaku.com/sony-playstation-ps5-ps-plus-cloud-gaming-spider-man-1850919228)
+ - [Apple’s iPad, a great companion for comics, gaming, and more, is $80 off](https://www.polygon.com/amazon-prime-day/23913309/apple-ipad-deal-october)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
