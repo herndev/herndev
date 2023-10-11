@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
  - ⏩ [Future is bright](http://9gag.com/gag/aGEqEp7)
- - 👉 [Got your worm](http://9gag.com/gag/a4o8njm)<!-- MEMES:END -->
+ - 👉 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)<!-- MEMES:END -->
 
 ---
 
