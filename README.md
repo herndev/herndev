@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can watch the biggest panels from New York Comic Con 2023 from home](https://www.polygon.com/nycc/23912747/new-york-comic-con-2023-nycc-streaming-schedule-panels)
- - [PS5 Finally Gets Cloud Gaming Later This Month](https://kotaku.com/sony-playstation-ps5-ps-plus-cloud-gaming-spider-man-1850919228)
- - [Apple’s iPad, a great companion for comics, gaming, and more, is $80 off](https://www.polygon.com/amazon-prime-day/23913309/apple-ipad-deal-october)<!-- GAME:END -->
+ - [One Of Gaming&#39;s Most Hated CEOs Says Goodbye, Again](https://kotaku.com/unity-john-riccitiello-ea-intall-fee-resign-fifa-madden-1850914295)
+ - [Nintendo Reveals Bowser Likes &#39;Em Thicc](https://kotaku.com/super-mario-bros-wonder-bowser-peach-thick-elephant-ad-1850919647)
+ - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
