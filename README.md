@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah sues TikTok, accusing it of getting kids hooked through &quot;algorithms and manipulative design features&quot;, following similar lawsuits by Indiana and Arkansas &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231010/p32#a231010p32)
- - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
+ - [Apple-backed right to repair bill now law in California](https://appleinsider.com/articles/23/10/11/apple-backed-right-to-repair-bill-now-law-in-california?utm_medium=rss)
+ - [Online used car marketplace Shift files for Chapter 11 bankruptcy and begins the process to shut down its business, after going public via a SPAC merger in 2020 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/231010/p33#a231010p33)
+ - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
