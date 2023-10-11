@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midnight 15-inch MacBook Air with 16GB RAM drops to $1,299 on Amazon Prime Day](https://appleinsider.com/articles/23/10/11/midnight-15-inch-macbook-air-with-16gb-ram-drops-to-1299-on-amazon-prime-day?utm_medium=rss)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
- - [Our 51 Favorite Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-4/)<!-- TECH:END -->
+ - [The latest Apple Watch SE is matching its best price to date for Prime Day](https://www.theverge.com/good-deals/2023/10/11/23913116/apple-watch-se-smartwatch-october-prime-day-2023-deal-sale)
+ - [The EU’s Threats to Elon Musk Are Empty, Sources Say](https://www.wired.com/story/the-eu-is-playing-by-elon-musks-rules/)
+ - [161 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
