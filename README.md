@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got your worm](http://9gag.com/gag/a4o8njm)
- - ⏩ [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
+ - 💣 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
+ - ⏩ [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
 
 ---
 
