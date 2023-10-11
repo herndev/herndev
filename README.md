@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s strongest builds are being nerfed in the name of increasing build variety: &#39;Our goal is not to make you weaker&#39;](https://www.pcgamer.com/diablo-4s-strongest-builds-are-being-nerfed-in-the-name-of-increasing-build-variety-our-goal-is-not-to-make-you-weaker)
- - [Dashcam Footage Shows Cops Ignoring Robbery To Play Pokémon Go](https://kotaku.com/pokemon-go-police-cops-lapd-dashcam-video-footage-fired-1850916322)
- - [RIP Rocket League economy: player-to-player item trading is being removed in December](https://www.pcgamer.com/rocket-league-player-trading)<!-- GAME:END -->
+ - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)
+ - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)
+ - [Diablo 4&#39;s strongest builds are being nerfed in the name of increasing build variety: &#39;Our goal is not to make you weaker&#39;](https://www.pcgamer.com/diablo-4s-strongest-builds-are-being-nerfed-in-the-name-of-increasing-build-variety-our-goal-is-not-to-make-you-weaker)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
