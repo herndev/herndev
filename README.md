@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A draft of ASEAN&#39;s &quot;guide to AI ethics and governance&quot; shows the bloc is taking a business-friendly approach to AI, contrary to the EU&#39;s stringent framework &lpar;Reuters&rpar;](http://www.techmeme.com/231010/p34#a231010p34)
- - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)
- - [Apple-backed right to repair bill now law in California](https://appleinsider.com/articles/23/10/11/apple-backed-right-to-repair-bill-now-law-in-california?utm_medium=rss)<!-- TECH:END -->
+ - [Research: Palestinian Islamic Jihad-linked crypto wallets received ~$93M between August 2021-June 2023; Hamas-linked ones received ~$41M over a similar period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231010/p35#a231010p35)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [A draft of ASEAN&#39;s &quot;guide to AI ethics and governance&quot; shows the bloc is taking a business-friendly approach to AI, contrary to the EU&#39;s stringent framework &lpar;Reuters&rpar;](http://www.techmeme.com/231010/p34#a231010p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
