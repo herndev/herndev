@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Used A Modded Game Boy To Play A Church Organ, And It’s Awesome](https://kotaku.com/video-game-music-mods-game-boy-synth-electronic-1850917827)
- - [Stratospherically popular rhythm game Ensemble Stars!! Music arrives on PC October 12th—play at launch to get bonus content](https://www.pcgamer.com/stratospherically-popular-rhythm-game-ensemble-stars-music-arrives-on-pc-october-12thplay-at-launch-to-get-bonus-content)
- - [Destiny 2 Offers Players $45 Credit After Banning Them By Mistake](https://kotaku.com/destiny-2-bungie-ban-cheating-trials-osiris-appeal-ps5-1850917629)<!-- GAME:END -->
+ - [Dragon Ball Xenoverse 2 Celebrates Its 7th Birthday With a Huge Update](https://news.xbox.com/en-us/2023/10/11/dragon-ball-xenoverse-2-7th-birthday-update/)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [Cleaning up grisly murders is weirdly satisfying in this free demo](https://www.pcgamer.com/cleaning-up-grisly-murders-is-weirdly-satisfying-in-this-free-demo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
