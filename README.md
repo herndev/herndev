@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - ⏩ [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
+ - ⏩ [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 👉 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)<!-- MEMES:END -->
 
 ---
 
