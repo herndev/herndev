@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
- - ⏩ [Future is bright](http://9gag.com/gag/aGEqEp7)
- - 👉 [I need a horse](http://9gag.com/gag/aPg0m0B)<!-- MEMES:END -->
+ - 💣 [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - ⏩ [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
+ - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
 
 ---
 
