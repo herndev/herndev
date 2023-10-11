@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Eats will now let you order from two stores at once](https://www.theverge.com/2023/10/11/23912567/uber-eats-multi-store-order-delivery-fee)
- - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
- - [Nothing’s Android 14 open beta is coming soon, and you can sign up now](https://www.androidauthority.com/nothing-android-14-beta-3374773/)<!-- TECH:END -->
+ - [Midjourney Stylize Parameter: What is it and how to use it](https://www.androidauthority.com/midjourney-stylize-parameter-3374681/)
+ - [Adobe details Project Res-Up, an experimental AI upscaling tool to improve the quality of low-res GIFs and video; a 1947 movie went from 480x360 to 1280x960 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231011/p22#a231011p22)
+ - [JPMorgan says BlackRock used its TCN blockchain to move collateral almost instantaneously, compared with over the course of a day, and plans to add other users &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231011/p21#a231011p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
