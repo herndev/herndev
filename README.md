@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got your worm](http://9gag.com/gag/a4o8njm)
- - ⏩ [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
+ - 💣 [More than 700 000 people die due to suicide every year. 77%&lpar;539,000&rpar; are men](http://9gag.com/gag/abvoOyX)
+ - ⏩ [He&#39;s the chosen one](http://9gag.com/gag/anz32AV)
+ - 👉 [Its wednesday my dudes](http://9gag.com/gag/aA07EZZ)<!-- MEMES:END -->
 
 ---
 
