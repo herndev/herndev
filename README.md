@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Zoo Tycoon Became a Fully-Licensed Xbox Board Game](https://news.xbox.com/en-us/2023/10/11/zoo-tycoon-xbox-board-game/)
- - [Your favourite Baldur&#39;s Gate 2 companions were &#39;a bunch of cardboard cutouts&#39; until the game&#39;s director played Final Fantasy 7 and felt the heat of competition](https://www.pcgamer.com/your-favourite-baldurs-gate-2-companions-were-a-bunch-of-cardboard-cut-outs-until-the-games-director-played-final-fantasy-7-and-felt-the-heat-of-competition)
- - [All Assassin&#39;s Creed Mirage Enigma locations and their solutions](https://www.pcgamer.com/ac-mirage-enigma-locations)<!-- GAME:END -->
+ - [Experience postseason baseball in MLB The Show 23](https://blog.playstation.com/2023/10/11/experience-postseason-baseball-in-mlb-the-show-23/)
+ - [For Dimension 20’s next campaign, Burrow’s End, Aabria Iyengar needs you to trust her](https://www.polygon.com/23906183/dimension-20-burrows-end-aabria-iyengar-interview)
+ - [Blade Runner, Alien, and Lord of the Rings’ 5th edition D&amp;D books on sale for Prime Day](https://www.polygon.com/amazon-prime-day/23911912/blade-runner-alien-lord-of-the-rings-5e-dnd-sale-free-league)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
