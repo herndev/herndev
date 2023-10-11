@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - ⏩ [What would we do without](http://9gag.com/gag/aVb8gpO)
- - 👉 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)<!-- MEMES:END -->
+ - 💣 [Martes](http://9gag.com/gag/a7qB8WA)
+ - ⏩ [More than 700 000 people die due to suicide every year. 77%&lpar;539,000&rpar; are men](http://9gag.com/gag/abvoOyX)
+ - 👉 [Classic Jacky Chan flick](http://9gag.com/gag/a9qeywZ)<!-- MEMES:END -->
 
 ---
 
