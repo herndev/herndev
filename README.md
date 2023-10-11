@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Future is bright](http://9gag.com/gag/aGEqEp7)
- - ⏩ [Name your favourite underrated movie](http://9gag.com/gag/aA076g2)
- - 👉 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)<!-- MEMES:END -->
+ - 💣 [Sacrifice](http://9gag.com/gag/anz3RvE)
+ - ⏩ [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
+ - 👉 [Go playboy!](http://9gag.com/gag/amAyoDV)<!-- MEMES:END -->
 
 ---
 
