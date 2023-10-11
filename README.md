@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More than 700 000 people die due to suicide every year. 77%&lpar;539,000&rpar; are men](http://9gag.com/gag/abvoOyX)
- - ⏩ [He&#39;s the chosen one](http://9gag.com/gag/anz32AV)
- - 👉 [Its wednesday my dudes](http://9gag.com/gag/aA07EZZ)<!-- MEMES:END -->
+ - 💣 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)
+ - ⏩ [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
+ - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
 
 ---
 
