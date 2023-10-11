@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Martes](http://9gag.com/gag/a7qB8WA)
- - ⏩ [More than 700 000 people die due to suicide every year. 77%&lpar;539,000&rpar; are men](http://9gag.com/gag/abvoOyX)
- - 👉 [Classic Jacky Chan flick](http://9gag.com/gag/a9qeywZ)<!-- MEMES:END -->
+ - 💣 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - ⏩ [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - 👉 [Got your worm](http://9gag.com/gag/a4o8njm)<!-- MEMES:END -->
 
 ---
 
