@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
  - ⏩ [Future is bright](http://9gag.com/gag/aGEqEp7)
- - 👉 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)<!-- MEMES:END -->
+ - 👉 [Got your worm](http://9gag.com/gag/a4o8njm)<!-- MEMES:END -->
 
 ---
 
