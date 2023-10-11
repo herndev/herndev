@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Follow the Fiery Trail quest walkthrough in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23911373/follow-the-fiery-trail-walkthrough-book-burner-caretaker-scriptorium-zahra)
- - [Calvin and Hobbes creator speaks! &lpar;On his first published work in 28 years&rpar;](https://www.polygon.com/23912526/calvin-and-hobbes-bill-watterson-the-mysteries-video)
- - [The best video game deals under $40 during October Prime Day](https://www.polygon.com/amazon-prime-day/23891075/best-gaming-deals-under-40)<!-- GAME:END -->
+ - [Someone Used A Modded Game Boy To Play A Church Organ, And It’s Awesome](https://kotaku.com/video-game-music-mods-game-boy-synth-electronic-1850917827)
+ - [Stratospherically popular rhythm game Ensemble Stars!! Music arrives on PC October 12th—play at launch to get bonus content](https://www.pcgamer.com/stratospherically-popular-rhythm-game-ensemble-stars-music-arrives-on-pc-october-12thplay-at-launch-to-get-bonus-content)
+ - [Destiny 2 Offers Players $45 Credit After Banning Them By Mistake](https://kotaku.com/destiny-2-bungie-ban-cheating-trials-osiris-appeal-ps5-1850917629)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
