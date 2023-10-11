@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perfect Days is a tidy look at Tokyo’s toilets](https://www.theverge.com/23911866/perfect-days-review-wim-wenders-nyff)
- - [The 10 best Garmin smartwatch deals of the Prime sale](https://www.androidauthority.com/garmin-smartwatch-deals-prime-day-3374884/)
- - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/23905479/amazon-october-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)<!-- TECH:END -->
+ - [I shot 180+ photos with the Google Pixel 8 Pro in Paris](https://www.androidauthority.com/google-pixel-8-pro-camera-photos-3374169/)
+ - [Samsung 32-inch M8 monitor plunges to $369.99 with Amazon Prime Day deal](https://appleinsider.com/articles/23/10/11/samsung-32-inch-m8-monitor-plunges-to-36999-with-amazon-prime-day-deal?utm_medium=rss)
+ - [Sony will let you stream PS5 games to the PS5 very soon](https://www.theverge.com/2023/10/11/23912931/sony-playstation-ps5-cloud-streaming-games-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
