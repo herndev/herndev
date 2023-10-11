@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
- - ⏩ [Got your worm](http://9gag.com/gag/a4o8njm)
- - 👉 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)<!-- MEMES:END -->
+ - 💣 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - ⏩ [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
+ - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
 
 ---
 
