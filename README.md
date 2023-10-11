@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LabView design &amp; test app abandons the Mac after four decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades?utm_medium=rss)
- - [The best Samsung Galaxy S23 FE cases you can buy](https://www.androidauthority.com/best-samsung-galaxy-s23-fe-cases-3371516/)
- - [The UK CMA invites comments on Vodafone&#39;s $19B Three UK merge, which would reduce major networks from four to three; the EU blocked a similar deal in 2016 &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p13#a231011p13)<!-- TECH:END -->
+ - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
+ - [Investors and analysts expect the Israel-Hamas war to derail the fragile recovery of Israel&#39;s tech sector, which accounts for 14% of the country&#39;s workforce &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231011/p16#a231011p16)
+ - [As social networks become cluttered with ads, misinformation, and irrelevant posts, the web just feels less fun, suggesting the old era of social media is over &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/231011/p15#a231011p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
