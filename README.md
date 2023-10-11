@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)
- - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)
- - [Diablo 4&#39;s strongest builds are being nerfed in the name of increasing build variety: &#39;Our goal is not to make you weaker&#39;](https://www.pcgamer.com/diablo-4s-strongest-builds-are-being-nerfed-in-the-name-of-increasing-build-variety-our-goal-is-not-to-make-you-weaker)<!-- GAME:END -->
+ - [Games Workshop is reprinting the original version of Warhammer 40,000](https://www.pcgamer.com/games-workshop-is-reprinting-the-original-version-of-warhammer-40000)
+ - [Wordle today: Hint and answer #844 for Wednesday, October 11](https://www.pcgamer.com/wordle-today-answer-844-october-11)
+ - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
