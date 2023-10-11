@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First $200 price drop on the Motorola Razr Plus 2023 &lpar;ends tonight&rpar;](https://www.androidauthority.com/motorola-razr-plus-2023-deal-3374844/)
- - [TikTok is overhauling how it pays creators of viral filters and effects](https://www.theverge.com/2023/10/11/23912639/tiktok-effect-house-creator-fund-update-monetization)
- - [A US judge awards $181M+ in legal fees to plaintiffs&#39; lawyers at two firms as part of Meta&#39;s $725M Cambridge Analytica settlement; Meta is &quot;pleased&quot; to move on &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/231011/p25#a231011p25)<!-- TECH:END -->
+ - [Perfect Days is a tidy look at Tokyo’s toilets](https://www.theverge.com/23911866/perfect-days-review-wim-wenders-nyff)
+ - [The 10 best Garmin smartwatch deals of the Prime sale](https://www.androidauthority.com/garmin-smartwatch-deals-prime-day-3374884/)
+ - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/23905479/amazon-october-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
