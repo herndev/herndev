@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details the Intellexa Alliance, a shady group of European companies that marketed and sold spyware like Predator to authoritarian regimes &lpar;Spiegel Online&rpar;](http://www.techmeme.com/231011/p6#a231011p6)
- - [Best Amazon Prime Day tech deals to shop on Day 2](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
- - [Adobe developed a new symbol, called &quot;an icon of transparency&quot;, as part of the C2PA, hoping to encourage the tagging of AI-generated data in media content &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231011/p5#a231011p5)<!-- TECH:END -->
+ - [An interview with Dropbox CEO Drew Houston on new AI features, the challenge of not annoying loyal users, embracing a virtual-first workplace culture, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231011/p9#a231011p9)
+ - [October Prime Day 2023: 65 of the Best Deals Under $25 to Buy Today     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e)
+ - [Assistant with Bard might only come to Tensor-toting Pixels, S24 at first](https://www.androidauthority.com/google-assistant-with-bard-supported-devices-3374553/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
