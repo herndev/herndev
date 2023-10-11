@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midjourney Stylize Parameter: What is it and how to use it](https://www.androidauthority.com/midjourney-stylize-parameter-3374681/)
- - [Adobe details Project Res-Up, an experimental AI upscaling tool to improve the quality of low-res GIFs and video; a 1947 movie went from 480x360 to 1280x960 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231011/p22#a231011p22)
- - [JPMorgan says BlackRock used its TCN blockchain to move collateral almost instantaneously, compared with over the course of a day, and plans to add other users &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231011/p21#a231011p21)<!-- TECH:END -->
+ - [First $200 price drop on the Motorola Razr Plus 2023 &lpar;ends tonight&rpar;](https://www.androidauthority.com/motorola-razr-plus-2023-deal-3374844/)
+ - [TikTok is overhauling how it pays creators of viral filters and effects](https://www.theverge.com/2023/10/11/23912639/tiktok-effect-house-creator-fund-update-monetization)
+ - [A US judge awards $181M+ in legal fees to plaintiffs&#39; lawyers at two firms as part of Meta&#39;s $725M Cambridge Analytica settlement; Meta is &quot;pleased&quot; to move on &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/231011/p25#a231011p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
