@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lost Isle is your next open-world survival obsession](https://www.pcgamer.com/lost-isle-is-your-next-open-world-survival-obsession)
  - [Games Workshop is reprinting the original version of Warhammer 40,000](https://www.pcgamer.com/games-workshop-is-reprinting-the-original-version-of-warhammer-40000)
- - [Wordle today: Hint and answer #844 for Wednesday, October 11](https://www.pcgamer.com/wordle-today-answer-844-october-11)
- - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #844 for Wednesday, October 11](https://www.pcgamer.com/wordle-today-answer-844-october-11)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
