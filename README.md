@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro will get OLED in 2026 from new Samsung factory](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)
- - [Big Deal Days slashes 40% off of Google’s new Pixel Buds Pro](https://www.androidauthority.com/pixel-buds-pro-amazon-deal-3374909/)
- - [T-Mobile giving the gift of forcing more expensive plans on its subscribers](https://www.androidauthority.com/t-mobile-forced-upgrades-2023-3374950/)<!-- TECH:END -->
+ - [Midnight 15-inch MacBook Air with 16GB RAM drops to $1,299 on Amazon Prime Day](https://appleinsider.com/articles/23/10/11/midnight-15-inch-macbook-air-with-16gb-ram-drops-to-1299-on-amazon-prime-day?utm_medium=rss)
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
+ - [Our 51 Favorite Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
