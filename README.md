@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - ⏩ [Go playboy!](http://9gag.com/gag/amAyoDV)
- - 👉 [Very impressive.](http://9gag.com/gag/aA07Q4E)<!-- MEMES:END -->
+ - 💣 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - ⏩ [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - 👉 [I need a horse](http://9gag.com/gag/aPg0m0B)<!-- MEMES:END -->
 
 ---
 
