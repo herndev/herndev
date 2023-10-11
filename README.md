@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [October Prime Day: Live Blogging the Must-Grab Amazon Deals of 2023     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-tuesday/#ftag=CAD590a51e)
  - [Research: Palestinian Islamic Jihad-linked crypto wallets received ~$93M between August 2021-June 2023; Hamas-linked ones received ~$41M over a similar period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231010/p35#a231010p35)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [A draft of ASEAN&#39;s &quot;guide to AI ethics and governance&quot; shows the bloc is taking a business-friendly approach to AI, contrary to the EU&#39;s stringent framework &lpar;Reuters&rpar;](http://www.techmeme.com/231010/p34#a231010p34)<!-- TECH:END -->
+ - [Skipping Prime Day? Shop the Best Deals at Target, Best Buy and Other Retailers     - CNET](https://www.cnet.com/deals/skipping-prime-day-shop-best-deals-target-best-buy-and-other-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
