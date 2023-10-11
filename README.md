@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 💣 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
  - ⏩ [Got your worm](http://9gag.com/gag/a4o8njm)
- - 👉 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)<!-- MEMES:END -->
+ - 👉 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)<!-- MEMES:END -->
 
 ---
 
