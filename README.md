@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Invasion’s big season 2 alien needed to be both blobby and emotionally grounded](https://www.polygon.com/23911185/invasion-season-2-apple-alien-design-entity-reveal-interview)
- - [Overwatch 2 Players Raise Hell Over Moira&#39;s Pricey Lilith Skin](https://kotaku.com/overwatch-2-lilith-moira-skin-price-battle-pass-1850918308)
- - [Hugely acclaimed RPG coming to PlayStation Plus Extra and Premium &lpar;no, not that one&rpar;](https://www.polygon.com/23911007/playstation-ps-plus-extra-premium-games-october-2023)<!-- GAME:END -->
+ - [In the new PUBG update, chicken is for losers too](https://www.polygon.com/23912908/pubg-kfc-meal-erangel-update)
+ - [Star Trek’s Lower Decks and new Dune RPG are cheaper during Prime Day](https://www.polygon.com/amazon-prime-day/23912893/star-trek-adventures-lower-decks-dune-rpgs-prime-day-sale)
+ - [Baldur’s Gate 2’s Characters Were ‘Cardboard Cutouts’ Until Devs Played Final Fantasy VII](https://kotaku.com/baldurs-gate-2-3-final-fantasy-7-bioware-cloud-tifa-1850918340)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
