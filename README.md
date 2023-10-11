@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some chemicals suppliers to TSMC plan to enter Europe, claiming EU chipmakers&#39; manufacturing processes had become inefficient and their supply chains atrophied &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p2#a231011p2)
- - [California adopts Right-to-Repair law: Here’s what’s changing for you](https://www.androidauthority.com/california-right-to-repair-law-3374535/)
- - [How Google&#39;s Project Green Light is using AI to analyze Maps data to suggest how cities can adjust traffic light timing to cut wait times and vehicle emissions &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231011/p1#a231011p1)<!-- TECH:END -->
+ - [OnePlus 12 camera specs leak: A major zoom upgrade for OnePlus?](https://www.androidauthority.com/oneplus-12-camera-specs-leak-3374538/)
+ - [Some chemicals suppliers to TSMC plan to enter Europe, claiming EU chipmakers&#39; manufacturing processes have become inefficient and their supply chains atrophied &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p2#a231011p2)
+ - [California adopts Right-to-Repair law: Here’s what’s changing for you](https://www.androidauthority.com/california-right-to-repair-law-3374535/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
