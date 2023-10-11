@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Future is bright](http://9gag.com/gag/aGEqEp7)
- - ⏩ [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
- - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
+ - 💣 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
+ - ⏩ [What would we do without](http://9gag.com/gag/aVb8gpO)
+ - 👉 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)<!-- MEMES:END -->
 
 ---
 
