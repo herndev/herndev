@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Isle is your next open-world survival obsession](https://www.pcgamer.com/lost-isle-is-your-next-open-world-survival-obsession)
- - [Games Workshop is reprinting the original version of Warhammer 40,000](https://www.pcgamer.com/games-workshop-is-reprinting-the-original-version-of-warhammer-40000)
- - [Wordle today: Hint and answer #844 for Wednesday, October 11](https://www.pcgamer.com/wordle-today-answer-844-october-11)<!-- GAME:END -->
+ - [When is Call of Duty coming to Game Pass?](https://www.polygon.com/gaming/23911151/call-of-duty-game-pass-release)
+ - [Under the Hood with Turn 10 Studios: Forza Motorsport](https://news.microsoft.com/source/?post_type=shortform&p=5570#new_tab)
+ - [Honkai: Star Rail codes for October 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
