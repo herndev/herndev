@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
- - [Investors and analysts expect the Israel-Hamas war to derail the fragile recovery of Israel&#39;s tech sector, which accounts for 14% of the country&#39;s workforce &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231011/p16#a231011p16)
- - [As social networks become cluttered with ads, misinformation, and irrelevant posts, the web just feels less fun, suggesting the old era of social media is over &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/231011/p15#a231011p15)<!-- TECH:END -->
+ - [Uber Eats will now let you order from two stores at once](https://www.theverge.com/2023/10/11/23912567/uber-eats-multi-store-order-delivery-fee)
+ - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
+ - [Nothing’s Android 14 open beta is coming soon, and you can sign up now](https://www.androidauthority.com/nothing-android-14-beta-3374773/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
