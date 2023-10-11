@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sacrifice](http://9gag.com/gag/anz3RvE)
- - ⏩ [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
- - 👉 [Go playboy!](http://9gag.com/gag/amAyoDV)<!-- MEMES:END -->
+ - 💣 [One of us](http://9gag.com/gag/a2KVMOp)
+ - ⏩ [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 👉 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)<!-- MEMES:END -->
 
 ---
 
