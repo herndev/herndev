@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of Gaming&#39;s Most Hated CEOs Says Goodbye, Again](https://kotaku.com/unity-john-riccitiello-ea-intall-fee-resign-fifa-madden-1850914295)
- - [Nintendo Reveals Bowser Likes &#39;Em Thicc](https://kotaku.com/super-mario-bros-wonder-bowser-peach-thick-elephant-ad-1850919647)
- - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
+ - [Valve adds new security check after attackers compromise Steam accounts of multiple game devs and update their games with malware](https://www.pcgamer.com/steam-malware-attack-new-security)
+ - [Bungie is giving Destiny 2 players $45 of in-game currency to say sorry for accidentally banning them from the game](https://www.pcgamer.com/bungie-is-giving-destiny-2-players-dollar45-of-in-game-currency-to-say-sorry-for-accidentally-banning-them-from-the-game)
+ - [One Of Gaming&#39;s Most Hated CEOs Says Goodbye, Again](https://kotaku.com/unity-john-riccitiello-ea-intall-fee-resign-fifa-madden-1850914295)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
