@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - ⏩ [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 👉 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)<!-- MEMES:END -->
+ - 💣 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - ⏩ [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 
