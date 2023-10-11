@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I shot 180+ photos with the Google Pixel 8 Pro in Paris](https://www.androidauthority.com/google-pixel-8-pro-camera-photos-3374169/)
- - [Samsung 32-inch M8 monitor plunges to $369.99 with Amazon Prime Day deal](https://appleinsider.com/articles/23/10/11/samsung-32-inch-m8-monitor-plunges-to-36999-with-amazon-prime-day-deal?utm_medium=rss)
- - [Sony will let you stream PS5 games to the PS5 very soon](https://www.theverge.com/2023/10/11/23912931/sony-playstation-ps5-cloud-streaming-games-launch)<!-- TECH:END -->
+ - [MacBook Pro will get OLED in 2026 from new Samsung factory](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)
+ - [Big Deal Days slashes 40% off of Google’s new Pixel Buds Pro](https://www.androidauthority.com/pixel-buds-pro-amazon-deal-3374909/)
+ - [T-Mobile giving the gift of forcing more expensive plans on its subscribers](https://www.androidauthority.com/t-mobile-forced-upgrades-2023-3374950/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
