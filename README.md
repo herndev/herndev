@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball Xenoverse 2 Celebrates Its 7th Birthday With a Huge Update](https://news.xbox.com/en-us/2023/10/11/dragon-ball-xenoverse-2-7th-birthday-update/)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [Cleaning up grisly murders is weirdly satisfying in this free demo](https://www.pcgamer.com/cleaning-up-grisly-murders-is-weirdly-satisfying-in-this-free-demo)<!-- GAME:END -->
+ - [Invasion’s big season 2 alien needed to be both blobby and emotionally grounded](https://www.polygon.com/23911185/invasion-season-2-apple-alien-design-entity-reveal-interview)
+ - [Overwatch 2 Players Raise Hell Over Moira&#39;s Pricey Lilith Skin](https://kotaku.com/overwatch-2-lilith-moira-skin-price-battle-pass-1850918308)
+ - [Hugely acclaimed RPG coming to PlayStation Plus Extra and Premium &lpar;no, not that one&rpar;](https://www.polygon.com/23911007/playstation-ps-plus-extra-premium-games-october-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
