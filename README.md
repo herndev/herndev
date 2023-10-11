@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Experience postseason baseball in MLB The Show 23](https://blog.playstation.com/2023/10/11/experience-postseason-baseball-in-mlb-the-show-23/)
- - [For Dimension 20’s next campaign, Burrow’s End, Aabria Iyengar needs you to trust her](https://www.polygon.com/23906183/dimension-20-burrows-end-aabria-iyengar-interview)
- - [Blade Runner, Alien, and Lord of the Rings’ 5th edition D&amp;D books on sale for Prime Day](https://www.polygon.com/amazon-prime-day/23911912/blade-runner-alien-lord-of-the-rings-5e-dnd-sale-free-league)<!-- GAME:END -->
+ - [Follow the Fiery Trail quest walkthrough in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23911373/follow-the-fiery-trail-walkthrough-book-burner-caretaker-scriptorium-zahra)
+ - [Calvin and Hobbes creator speaks! &lpar;On his first published work in 28 years&rpar;](https://www.polygon.com/23912526/calvin-and-hobbes-bill-watterson-the-mysteries-video)
+ - [The best video game deals under $40 during October Prime Day](https://www.polygon.com/amazon-prime-day/23891075/best-gaming-deals-under-40)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
