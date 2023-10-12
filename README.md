@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mia Khalifa let go from Playboy after voicing support for Hamas.](http://9gag.com/gag/agob1Qw)
- - ⏩ [Humanity vs muslims](http://9gag.com/gag/awZD391)
- - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
+ - 💣 [Another angle of the professor](http://9gag.com/gag/aXnz77V)
+ - ⏩ [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 ---
 
