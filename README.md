@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox Starter Bundle Has Everything You Need To Play](https://news.xbox.com/en-us/2023/10/12/xbox-starter-bundle-announce/)
- - [Free Play Days – Battlefield 2042, Autonauts, Akka Arrh, and Minecraft](https://news.xbox.com/en-us/2023/10/12/free-play-days-battlefield-2042-autonauts-akka-arrh-and-minecraft/)
- - [Polygon’s favorite October Prime Day deals still available](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
+ - [From Space: Battling an Extraterrestrial Menace With Xbox Game Pass](https://news.xbox.com/en-us/2023/10/12/from-space-xbox-game-pass/)
+ - [New Buffy audio series wants to correct one of the show’s biggest injustices](https://www.polygon.com/23912803/audible-buffy-slayers-new-series-review-cordelia-spike)
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
