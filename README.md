@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A loving movie for the entire family to watch.](http://9gag.com/gag/aoK6VPm)
- - ⏩ [Why?](http://9gag.com/gag/a1Pn0LP)
- - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
+ - 💣 [Another angle of the professor](http://9gag.com/gag/aXnz77V)
+ - ⏩ [Tehran? No, Vienna.](http://9gag.com/gag/aEqbDGe)
+ - 👉 [Repost i think. just an kind reminder.](http://9gag.com/gag/ay2A6VY)<!-- MEMES:END -->
 
 ---
 
