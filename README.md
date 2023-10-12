@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s Starlink set to launch satellite phone service in 2024](https://www.androidauthority.com/starlink-satellite-phone-service-3375427/)
- - [Filing: Caltech settles a patent lawsuit against Apple and Broadcom, after suing them in 2016 for allegedly infringing its Wi-Fi patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231012/p31#a231012p31)
- - [Judge questions Montana’s ban on TikTok](https://www.theverge.com/2023/10/12/23914697/montana-tiktok-ban-free-speech-first-amendment-national-security)<!-- TECH:END -->
+ - [Netflix is planning to launch retail destinations in 2025](https://www.theverge.com/2023/10/12/23914796/netflix-house-retail-stores-2025)
+ - [T-Mobile forcing customers to more expensive plans instead of hiking prices](https://appleinsider.com/articles/23/10/12/t-mobile-forcing-customers-to-more-expensive-plans-instead-of-hiking-prices?utm_medium=rss)
+ - [1,000 photos with the Pixel 8 Pro: AI, UI, and Pro stuff](https://www.theverge.com/23913367/pixel-8-pro-camera-google-ai-full-frame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
