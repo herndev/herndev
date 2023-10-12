@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Piper Sandler survey of 9,000+ US teens: 29.1% of their daily video consumption time is on YouTube, beating Netflix for the first time at 28.7%, and ~7% on Hulu &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231012/p1#a231012p1)
- - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [a16z-backed Character.AI launches Character Group Chat, which allows paying subscribers to create group chats with AI chatbots or with humans and AI characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p40#a231011p40)<!-- TECH:END -->
+ - [US v. SBF: Caroline Ellison says Alameda paid $100M to $150M in crypto transfers to Chinese officials to unfreeze its OKX and Huobi trading accounts, worth ~$1B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231012/p3#a231012p3)
+ - [Sources: the US Department of Commerce is considering new export controls for general-purpose AI programs, a move that experts say could weaken US AI innovation &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/231012/p2#a231012p2)
+ - [We connected a Pixel 8 Pro to an iPhone 15 Pro via USB-C: Here’s what happened](https://www.androidauthority.com/connect-pixel-8-pro-iphone-15-pro-usb-c-3374792/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
