@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Access controller for PS5 interview: how the highly customizable kit was created](https://blog.playstation.com/2023/10/12/access-controller-for-ps5-interview-how-the-highly-customizable-kit-was-created/)
- - [Inside the development journey of the Access controller and a first look at its accessible packaging](https://blog.playstation.com/2023/10/12/inside-the-development-journey-of-the-access-controller-and-a-first-look-at-its-accessible-packaging/)
- - [Players’ Choice: Baldur’s Gate 3 voted September’s best new game](https://blog.playstation.com/2023/10/12/players-choice-vote-for-septembers-best-new-game-3/)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [This ‘Playable Documentary’ About A 1984 Classic Is One Of The Year’s Best Games](https://kotaku.com/making-karateka-prince-persia-jordan-mechner-1850918059)
+ - [Access controller for PS5 interview: how the highly customizable kit was created](https://blog.playstation.com/2023/10/12/access-controller-for-ps5-interview-how-the-highly-customizable-kit-was-created/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
