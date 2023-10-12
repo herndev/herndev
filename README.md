@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - ⏩ [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
+ - 💣 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
+ - ⏩ [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
 
 ---
 
