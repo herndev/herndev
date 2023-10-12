@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
  - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
- - [The Fitbit app has been having some issues for hours](https://www.theverge.com/2023/10/11/23913740/fitbit-issues-app-down-problems-outage)<!-- TECH:END -->
+ - [Sources: OpenAI plans to introduce major updates for developers on November 6, including memory storage to its tools and vision capabilities to analyze images &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p37#a231011p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
