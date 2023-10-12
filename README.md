@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
- - ⏩ [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - ⏩ [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
  - 👉 [Hamas leader calls for global day of jihad for tomorrow How many governments have raised their alert levels or are warning the people?](http://9gag.com/gag/arm0qE6)<!-- MEMES:END -->
 
 ---
