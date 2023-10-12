@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 MacBook coming in 2024, predicts supply chain monitor](https://appleinsider.com/articles/23/10/12/m3-macbook-coming-in-2024-predicts-supply-chain-monitor?utm_medium=rss)
- - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [How Google Chrome&#39;s Discover feed on Android serves up misleading propaganda to Russian audiences; a source says Russian-languages services are a lower priority &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p13#a231012p13)<!-- TECH:END -->
+ - [Caroline Ellison&#39;s well-prepared testimony painted Sam Bankman-Fried as the ultimate decision-maker at FTX and a corrupting influence on his subordinates &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231012/p16#a231012p16)
+ - [Filing: India accuses 30+ staff of Chinese smartphone maker Vivo of visa violations and says Vivo siphoned off ~$13B to its Chinese parent via a &quot;masking layer&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p15#a231012p15)
+ - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
