@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Saltsea Chronicles, community is a salve for the post-post-apocalypse](https://www.polygon.com/reviews/23913649/saltsea-chronicles-review-pc-narrative-adventure)
- - [The NUC is in good hands with Asus as it outlines its future plans](https://www.pcgamer.com/the-nuc-is-is-good-hands-with-asus-as-it-outlines-its-future-plans)
- - [Wordle today: Hint and answer for #845 Thursday, October 12](https://www.pcgamer.com/wordle-today-answer-845-october-12)<!-- GAME:END -->
+ - [Where to find every outfit in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-outfit-locations)
+ - [Team Fortress 2 community loses it, decides to &#39;meme a character into existence through the power of mass gaslighting&#39; while Valve focuses on Counter-Strike](https://www.pcgamer.com/team-fortress-2-community-loses-it-decides-to-meme-a-character-into-existence-through-the-power-of-mass-gaslighting-while-valve-focuses-on-counter-strike)
+ - [In Saltsea Chronicles, community is a salve for the post-post-apocalypse](https://www.polygon.com/reviews/23913649/saltsea-chronicles-review-pc-narrative-adventure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
