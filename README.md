@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley fans ask its creator to add more pronoun options](https://www.polygon.com/gaming/23911648/stardew-valley-fans-pronouns-1-6-update)
- - [House Flipper 2&#39;s sandbox mode basically looks like The Sims build mode in first person](https://www.pcgamer.com/house-flipper-2s-sandbox-mode-basically-looks-like-the-sims-build-mode-in-first-person)
- - [At long last Intel gives Arc owners some Starfield loving, delivering up to 149% higher frame rates and fixing texture corruption](https://www.pcgamer.com/at-long-last-intel-gives-arc-owners-some-starfield-loving-delivering-up-to-149-higher-frame-rates-and-fixing-texture-corruption)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Delta &lpar;2310.231009-2200&rpar;](https://news.xbox.com/en-us/2023/10/12/xbox-insider-release-notes-delta-2310-231009-2200/)
+ - [Xbox Insider Release Notes – Beta &lpar;2310.231009-2200&rpar;](https://news.xbox.com/en-us/2023/10/12/xbox-insider-release-notes-beta-2310-231009-2200/)
+ - [Xbox Series S Starter Bundle Might Be Best Gaming Deal Of 2023](https://kotaku.com/xbox-series-s-starter-bundle-price-game-pass-deal-1850922249)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
