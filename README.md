@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automattic adds the ActivityPub feature to WordPress.com hosted sites, allowing site owners to tie into fediverse platforms including Mastodon &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p38#a231011p38)
- - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
- - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)<!-- TECH:END -->
+ - [a16z-backed Character.AI launches Character Group Chat, which allows paying subscribers to create group chats with AI chatbots or with humans and AI characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p40#a231011p40)
+ - [Sources: Sequoia&#39;s China spin off HongShan is seeking global business opportunities and investments for its portfolio companies, as China&#39;s economy slows down &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p39#a231011p39)
+ - [Best Fitness Deals for October Prime Day: Check Them Out Before They End     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
