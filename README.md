@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer for #845 Thursday, October 12](https://www.pcgamer.com/wordle-today-answer-845-october-12)
  - [California&#39;s right to repair bill is now law, so don&#39;t toss that &#39;old&#39; device just yet](https://www.pcgamer.com/californias-right-to-repair-bill-is-now-law-so-dont-toss-that-old-device-just-yet)
- - [The wealthiest player in Old School Runescape, with more than 1 trillion &lpar;yes, trillion&rpar; gold, has been banned](https://www.pcgamer.com/the-wealthiest-player-in-old-school-runescape-with-more-than-1-trillion-yes-trillion-gold-has-been-banned)
- - [Overwatch fans unite to hate on $40 Diablo skins in its latest season](https://www.pcgamer.com/overwatch-season-7-is-off-to-a-rough-start-as-fans-unite-to-hate-on-dollar40-diablo-skins)<!-- GAME:END -->
+ - [The wealthiest player in Old School Runescape, with more than 1 trillion &lpar;yes, trillion&rpar; gold, has been banned](https://www.pcgamer.com/the-wealthiest-player-in-old-school-runescape-with-more-than-1-trillion-yes-trillion-gold-has-been-banned)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
