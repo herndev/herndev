@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU launched a probe into X over hosting misinformation in the wake of Hamas&#39; attack on Israel; X could be fined up to 5% of its daily global turnover &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231012/p29#a231012p29)
- - [The best October Prime Day deals you can still grab for under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
- - [Need AI to generate an image? Just ask for what you want in Google Search.](https://www.androidauthority.com/generate-image-google-search-3375408/)<!-- TECH:END -->
+ - [SpaceX’s Starlink set to launch satellite phone service in 2024](https://www.androidauthority.com/starlink-satellite-phone-service-3375427/)
+ - [Filing: Caltech settles a patent lawsuit against Apple and Broadcom, after suing them in 2016 for allegedly infringing its Wi-Fi patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231012/p31#a231012p31)
+ - [Judge questions Montana’s ban on TikTok](https://www.theverge.com/2023/10/12/23914697/montana-tiktok-ban-free-speech-first-amendment-national-security)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
