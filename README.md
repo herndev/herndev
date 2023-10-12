@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
- - ⏩ [Ouch](http://9gag.com/gag/amAy13j)
+ - 💣 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
+ - ⏩ [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
  - 👉 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)<!-- MEMES:END -->
 
 ---
