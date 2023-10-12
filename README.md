@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2 trades zombie fiction for the everyday reality of Silicon Valley by adding a &#39;billionaire&#39;s secret techno-death cult&#39; in its first expansion](https://www.pcgamer.com/dead-island-2-trades-zombie-fiction-for-the-everyday-reality-of-silicon-valley-by-adding-a-billionaires-secret-techno-death-cult-in-its-first-expansion)
- - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
- - [Bayonetta Creator &#39;Over&#39; PlatinumGames, Starts YouTube Channel Instead](https://kotaku.com/re2-hideki-kamiya-youtube-platinumgames-bayonetta-1850922520)<!-- GAME:END -->
+ - [Take A Tour Through Halo Infinite&#39;s Newest Arena Maps](https://kotaku.com/halo-infinite-season-5-reckoning-forbidden-prism-xbox-1850922823)
+ - [NYCC gives us a look at a few clones in Orphan Black: Echoes](https://www.polygon.com/nycc/23800433/orphan-black-echoes-release-date-trailer)
+ - [Diablo IV’s Season 2 Patch Notes Are Over 10,000 Words Long](https://kotaku.com/diablo-4-patch-notes-1-2-0-season-of-blood-highlights-1850922871)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
