@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - ⏩ [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
+ - 💣 [When the Propaganda video gets interrupted by air raid sirens in Palestine. The dead rise\u2026](http://9gag.com/gag/amAym52)
+ - ⏩ [Repost i think. just an kind reminder.](http://9gag.com/gag/ay2A6VY)
+ - 👉 [Tehran? No, Vienna.](http://9gag.com/gag/aEqbDGe)<!-- MEMES:END -->
 
 ---
 
