@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus Open foldable will officially launch next week](https://www.androidauthority.com/oneplus-open-launch-date-official-3375285/)
- - [Elliptic: the unidentified FTX hackers who stole $415M to $432M in crypto in November 2022 started moving the haul for the first time in 2023 in October &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231012/p19#a231012p19)
- - [New Starlink page launched to promote cellular service coming in 2024](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)<!-- TECH:END -->
+ - [Emirates airline equips staff of 20,000 with iPhones, iPads to streamline flying process](https://appleinsider.com/articles/23/10/12/emirates-airline-equips-staff-of-20000-with-iphones-ipads-to-streamline-flying-process?utm_medium=rss)
+ - [The best deals you can still get from Amazon’s October Prime Day](https://www.theverge.com/23910120/amazon-october-prime-day-best-deals-sales-still-happening-tech-gadgets-2023)
+ - [Atlassian plans to acquire video messaging platform Loom for around $975M, made up of $880M in cash and the rest in stock, closing in Q1 2024 &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231012/p20#a231012p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
