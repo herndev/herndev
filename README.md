@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
- - [Prime Day deal extended: Samsung 32-inch M8 monitor plunges to $369.99](https://appleinsider.com/articles/23/10/11/samsung-32-inch-m8-monitor-plunges-to-36999-with-amazon-prime-day-deal?utm_medium=rss)
- - [CCData: Coinbase&#39;s quarterly spot trading volume fell 52% YoY to $76B in Q3, likely the lowest volume since Coinbase&#39;s direct listing on Nasdaq in April 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231012/p24#a231012p24)<!-- TECH:END -->
+ - [Save $1,100 on Apple&#39;s 16-inch MacBook Pro with 32GB RAM, now just $1,799](https://appleinsider.com/articles/23/10/12/save-1100-on-apples-16-inch-macbook-pro-with-32gb-ram-now-just-1799?utm_medium=rss)
+ - [Bayonetta director Hideki Kamiya isn’t retiring](https://www.theverge.com/2023/10/12/23914228/hideki-kamiya-bayonetta-platinum-games-retiring-youtube)
+ - [Over 220 VC firms, including Bessemer and GGV, sign a statement in support of Israel and call for the investor community to support Israel&#39;s tech ecosystem &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231012/p26#a231012p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
