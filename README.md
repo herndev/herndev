@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - ⏩ [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
+ - ⏩ [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 
