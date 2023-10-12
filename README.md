@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the Propaganda video gets interrupted by air raid sirens in Palestine. The dead rise\u2026](http://9gag.com/gag/amAym52)
- - ⏩ [Repost i think. just an kind reminder.](http://9gag.com/gag/ay2A6VY)
- - 👉 [Tehran? No, Vienna.](http://9gag.com/gag/aEqbDGe)<!-- MEMES:END -->
+ - 💣 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
+ - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 👉 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)<!-- MEMES:END -->
 
 ---
 
