@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find every outfit in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-outfit-locations)
- - [Team Fortress 2 community loses it, decides to &#39;meme a character into existence through the power of mass gaslighting&#39; while Valve focuses on Counter-Strike](https://www.pcgamer.com/team-fortress-2-community-loses-it-decides-to-meme-a-character-into-existence-through-the-power-of-mass-gaslighting-while-valve-focuses-on-counter-strike)
- - [In Saltsea Chronicles, community is a salve for the post-post-apocalypse](https://www.polygon.com/reviews/23913649/saltsea-chronicles-review-pc-narrative-adventure)<!-- GAME:END -->
+ - [Access controller for PS5 interview: how the highly customizable kit was created](https://blog.playstation.com/2023/10/12/access-controller-for-ps5-interview-how-the-highly-customizable-kit-was-created/)
+ - [Inside the development journey of the Access controller and a first look at its accessible packaging](https://blog.playstation.com/2023/10/12/inside-the-development-journey-of-the-access-controller-and-a-first-look-at-its-accessible-packaging/)
+ - [Players’ Choice: Baldur’s Gate 3 voted September’s best new game](https://blog.playstation.com/2023/10/12/players-choice-vote-for-septembers-best-new-game-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
