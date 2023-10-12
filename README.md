@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - ⏩ [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
- - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
+ - 💣 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - ⏩ [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
+ - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
 
 ---
 
