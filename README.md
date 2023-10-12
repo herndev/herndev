@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft actually won’t roll out an unpopular OneDrive change to photo storage](https://www.theverge.com/2023/10/12/23914676/microsoft-onedrive-outlook-storage-limit-change)
- - [Netflix plans to open permanent stores for fans, initially in the US; the stores, named Netflix House, will offer a mix of retail, dining, and live experiences &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231012/p33#a231012p33)
- - [Netflix is planning to launch retail destinations in 2025](https://www.theverge.com/2023/10/12/23914796/netflix-house-retail-stores-2025)<!-- TECH:END -->
+ - [Google promises to take the legal heat in users’ AI copyright lawsuits](https://www.theverge.com/2023/10/12/23914998/google-copyright-indemnification-generative-ai)
+ - [Akira Toriyama’s coming back for a new Dragon Ball series](https://www.theverge.com/2023/10/12/23914967/dragon-ball-daima-trailer-anime-series)
+ - [The best Google Pixel 8 Pro alternatives: 5 phones worth consider before you buy](https://www.androidauthority.com/google-pixel-8-pro-alternatives-3372851/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
