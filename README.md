@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch fans unite to hate on $40 Diablo skins in its latest season](https://www.pcgamer.com/overwatch-season-7-is-off-to-a-rough-start-as-fans-unite-to-hate-on-dollar40-diablo-skins)
  - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)
- - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)
- - [Xbox Insider Release Notes – Omega &lpar;2309.231010-1055&rpar;](https://news.xbox.com/en-us/2023/10/11/xbox-insider-release-notes-omega-2309-231010-1055/)<!-- GAME:END -->
+ - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
