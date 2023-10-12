@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - ⏩ [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - 👉 [Hamas leader calls for global day of jihad for tomorrow How many governments have raised their alert levels or are warning the people?](http://9gag.com/gag/arm0qE6)<!-- MEMES:END -->
+ - 💣 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
+ - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
 
 ---
 
