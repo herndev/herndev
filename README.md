@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: several key ex-Arm staff in China depart for Borui Jingxin, a local government-backed chip design firm, worrying Arm investors over future China sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p10#a231012p10)
- - [Prime Day Under $50: Here Are 60 Bargains That Are Still Available     - CNET](https://www.cnet.com/deals/prime-day-under-50-here-are-60-bargains-still-available/#ftag=CAD590a51e)
- - [TikTok updates its $6M Effect Creator Rewards fund to add lower eligibility rules, a revamped payout model, and a lower threshold to start collecting rewards &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231012/p9#a231012p9)<!-- TECH:END -->
+ - [M3 MacBook coming in 2024, predicts supply chain monitor](https://appleinsider.com/articles/23/10/12/m3-macbook-coming-in-2024-predicts-supply-chain-monitor?utm_medium=rss)
+ - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)
+ - [How Google Chrome&#39;s Discover feed on Android serves up misleading propaganda to Russian audiences; a source says Russian-languages services are a lower priority &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p13#a231012p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
