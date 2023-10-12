@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
- - ⏩ [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - 👉 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)<!-- MEMES:END -->
+ - 💣 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
+ - ⏩ [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 
