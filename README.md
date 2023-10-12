@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Delta &lpar;2310.231009-2200&rpar;](https://news.xbox.com/en-us/2023/10/12/xbox-insider-release-notes-delta-2310-231009-2200/)
- - [Xbox Insider Release Notes – Beta &lpar;2310.231009-2200&rpar;](https://news.xbox.com/en-us/2023/10/12/xbox-insider-release-notes-beta-2310-231009-2200/)
- - [Xbox Series S Starter Bundle Might Be Best Gaming Deal Of 2023](https://kotaku.com/xbox-series-s-starter-bundle-price-game-pass-deal-1850922249)<!-- GAME:END -->
+ - [Dead Island 2 trades zombie fiction for the everyday reality of Silicon Valley by adding a &#39;billionaire&#39;s secret techno-death cult&#39; in its first expansion](https://www.pcgamer.com/dead-island-2-trades-zombie-fiction-for-the-everyday-reality-of-silicon-valley-by-adding-a-billionaires-secret-techno-death-cult-in-its-first-expansion)
+ - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
+ - [Bayonetta Creator &#39;Over&#39; PlatinumGames, Starts YouTube Channel Instead](https://kotaku.com/re2-hideki-kamiya-youtube-platinumgames-bayonetta-1850922520)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
