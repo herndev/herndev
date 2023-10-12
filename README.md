@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Space: Battling an Extraterrestrial Menace With Xbox Game Pass](https://news.xbox.com/en-us/2023/10/12/from-space-xbox-game-pass/)
- - [New Buffy audio series wants to correct one of the show’s biggest injustices](https://www.polygon.com/23912803/audible-buffy-slayers-new-series-review-cordelia-spike)
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)<!-- GAME:END -->
+ - [Stardew Valley fans ask its creator to add more pronoun options](https://www.polygon.com/gaming/23911648/stardew-valley-fans-pronouns-1-6-update)
+ - [House Flipper 2&#39;s sandbox mode basically looks like The Sims build mode in first person](https://www.pcgamer.com/house-flipper-2s-sandbox-mode-basically-looks-like-the-sims-build-mode-in-first-person)
+ - [At long last Intel gives Arc owners some Starfield loving, delivering up to 149% higher frame rates and fixing texture corruption](https://www.pcgamer.com/at-long-last-intel-gives-arc-owners-some-starfield-loving-delivering-up-to-149-higher-frame-rates-and-fixing-texture-corruption)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
