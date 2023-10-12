@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
- - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
+ - 💣 [A wild Golbat appears. The wild Golbat used Attract.](http://9gag.com/gag/amAyMN6)
+ - ⏩ [It&#39;s on. Hamas supporters in France f**k around and find out.](http://9gag.com/gag/a6qzpdq)
+ - 👉 [Da Caat](http://9gag.com/gag/aBdMGoN)<!-- MEMES:END -->
 
 ---
 
