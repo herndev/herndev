@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caroline Ellison&#39;s well-prepared testimony painted Sam Bankman-Fried as the ultimate decision-maker at FTX and a corrupting influence on his subordinates &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231012/p16#a231012p16)
- - [Filing: India accuses 30+ staff of Chinese smartphone maker Vivo of visa violations and says Vivo siphoned off ~$13B to its Chinese parent via a &quot;masking layer&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p15#a231012p15)
- - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [The OnePlus Open foldable will officially launch next week](https://www.androidauthority.com/oneplus-open-launch-date-official-3375285/)
+ - [Elliptic: the unidentified FTX hackers who stole $415M to $432M in crypto in November 2022 started moving the haul for the first time in 2023 in October &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231012/p19#a231012p19)
+ - [New Starlink page launched to promote cellular service coming in 2024](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
