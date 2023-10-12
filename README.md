@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The wealthiest player in Old School Runescape, with more than 1 trillion &lpar;yes, trillion&rpar; gold, has been banned](https://www.pcgamer.com/the-wealthiest-player-in-old-school-runescape-with-more-than-1-trillion-yes-trillion-gold-has-been-banned)
  - [Overwatch fans unite to hate on $40 Diablo skins in its latest season](https://www.pcgamer.com/overwatch-season-7-is-off-to-a-rough-start-as-fans-unite-to-hate-on-dollar40-diablo-skins)
- - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)
- - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
+ - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
