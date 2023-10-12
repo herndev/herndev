@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
- - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 👉 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)<!-- MEMES:END -->
+ - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - ⏩ [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 👉 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
 
 ---
 
