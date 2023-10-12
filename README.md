@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAG-AFTRA’s strike continues after last round of contract talks breaks down](https://www.theverge.com/2023/10/12/23914129/sag-strike-october-streaming-residuals-artificial-intelligence)
- - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)
- - [The best October Prime Day deals under $25 you can still get](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
+ - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
+ - [Prime Day deal extended: Samsung 32-inch M8 monitor plunges to $369.99](https://appleinsider.com/articles/23/10/11/samsung-32-inch-m8-monitor-plunges-to-36999-with-amazon-prime-day-deal?utm_medium=rss)
+ - [CCData: Coinbase&#39;s quarterly spot trading volume fell 52% YoY to $76B in Q3, likely the lowest volume since Coinbase&#39;s direct listing on Nasdaq in April 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231012/p24#a231012p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
