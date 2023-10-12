@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emirates airline equips staff of 20,000 with iPhones, iPads to streamline flying process](https://appleinsider.com/articles/23/10/12/emirates-airline-equips-staff-of-20000-with-iphones-ipads-to-streamline-flying-process?utm_medium=rss)
- - [The best deals you can still get from Amazon’s October Prime Day](https://www.theverge.com/23910120/amazon-october-prime-day-best-deals-sales-still-happening-tech-gadgets-2023)
- - [Atlassian plans to acquire video messaging platform Loom for around $975M, made up of $880M in cash and the rest in stock, closing in Q1 2024 &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231012/p20#a231012p20)<!-- TECH:END -->
+ - [SAG-AFTRA’s strike continues after last round of contract talks breaks down](https://www.theverge.com/2023/10/12/23914129/sag-strike-october-streaming-residuals-artificial-intelligence)
+ - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)
+ - [The best October Prime Day deals under $25 you can still get](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
