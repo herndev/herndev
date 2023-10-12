@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take A Tour Through Halo Infinite&#39;s Newest Arena Maps](https://kotaku.com/halo-infinite-season-5-reckoning-forbidden-prism-xbox-1850922823)
- - [NYCC gives us a look at a few clones in Orphan Black: Echoes](https://www.polygon.com/nycc/23800433/orphan-black-echoes-release-date-trailer)
- - [Diablo IV’s Season 2 Patch Notes Are Over 10,000 Words Long](https://kotaku.com/diablo-4-patch-notes-1-2-0-season-of-blood-highlights-1850922871)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Hanzo temporarily removed for turning his bow into a machine gun](https://www.pcgamer.com/overwatch-2s-hanzo-temporarily-removed-for-turning-his-bow-into-a-machine-gun)
+ - [CS2 ranks and premier ratings: the new system explained](https://www.pcgamer.com/counter-strike-2-ranks-premier)
+ - [Take A Tour Through Halo Infinite&#39;s Newest Arena Maps](https://kotaku.com/halo-infinite-season-5-reckoning-forbidden-prism-xbox-1850922823)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
