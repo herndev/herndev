@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $1,100 on Apple&#39;s 16-inch MacBook Pro with 32GB RAM, now just $1,799](https://appleinsider.com/articles/23/10/12/save-1100-on-apples-16-inch-macbook-pro-with-32gb-ram-now-just-1799?utm_medium=rss)
- - [Bayonetta director Hideki Kamiya isn’t retiring](https://www.theverge.com/2023/10/12/23914228/hideki-kamiya-bayonetta-platinum-games-retiring-youtube)
- - [Over 220 VC firms, including Bessemer and GGV, sign a statement in support of Israel and call for the investor community to support Israel&#39;s tech ecosystem &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231012/p26#a231012p26)<!-- TECH:END -->
+ - [Sources: EU launched a probe into X over hosting misinformation in the wake of Hamas&#39; attack on Israel; X could be fined up to 5% of its daily global turnover &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231012/p29#a231012p29)
+ - [The best October Prime Day deals you can still grab for under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
+ - [Need AI to generate an image? Just ask for what you want in Google Search.](https://www.androidauthority.com/generate-image-google-search-3375408/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
