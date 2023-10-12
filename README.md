@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z-backed Character.AI launches Character Group Chat, which allows paying subscribers to create group chats with AI chatbots or with humans and AI characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p40#a231011p40)
- - [Sources: Sequoia&#39;s China spin off HongShan is seeking global business opportunities and investments for its portfolio companies, as China&#39;s economy slows down &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p39#a231011p39)
- - [Best Fitness Deals for October Prime Day: Check Them Out Before They End     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Piper Sandler survey of 9,000+ US teens: 29.1% of their daily video consumption time is on YouTube, beating Netflix for the first time at 28.7%, and ~7% on Hulu &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231012/p1#a231012p1)
+ - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
+ - [a16z-backed Character.AI launches Character Group Chat, which allows paying subscribers to create group chats with AI chatbots or with humans and AI characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p40#a231011p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
