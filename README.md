@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [This ‘Playable Documentary’ About A 1984 Classic Is One Of The Year’s Best Games](https://kotaku.com/making-karateka-prince-persia-jordan-mechner-1850918059)
- - [Access controller for PS5 interview: how the highly customizable kit was created](https://blog.playstation.com/2023/10/12/access-controller-for-ps5-interview-how-the-highly-customizable-kit-was-created/)<!-- GAME:END -->
+ - [The Xbox Starter Bundle Has Everything You Need To Play](https://news.xbox.com/en-us/2023/10/12/xbox-starter-bundle-announce/)
+ - [Free Play Days – Battlefield 2042, Autonauts, Akka Arrh, and Minecraft](https://news.xbox.com/en-us/2023/10/12/free-play-days-battlefield-2042-autonauts-akka-arrh-and-minecraft/)
+ - [Polygon’s favorite October Prime Day deals still available](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
