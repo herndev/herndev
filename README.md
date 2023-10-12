@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another angle of the professor](http://9gag.com/gag/aXnz77V)
- - ⏩ [Tehran? No, Vienna.](http://9gag.com/gag/aEqbDGe)
- - 👉 [Repost i think. just an kind reminder.](http://9gag.com/gag/ay2A6VY)<!-- MEMES:END -->
+ - 💣 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - ⏩ [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
 
 ---
 
