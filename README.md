@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - ⏩ [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
- - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
+ - 💣 [Mia Khalifa let go from Playboy after voicing support for Hamas.](http://9gag.com/gag/agob1Qw)
+ - ⏩ [Humanity vs muslims](http://9gag.com/gag/awZD391)
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 
