@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another angle of the professor](http://9gag.com/gag/aXnz77V)
- - ⏩ [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
+ - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - ⏩ [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
+ - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
 
 ---
 
