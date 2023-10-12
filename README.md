@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - ⏩ [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 👉 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)<!-- MEMES:END -->
+ - 💣 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
+ - ⏩ [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 
