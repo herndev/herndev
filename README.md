@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Death, Sex, and the future of WNYC podcasts](https://www.theverge.com/2023/10/11/23913556/death-sex-money-wnyc-npr-podcast-radiolab)
- - [Last call for these Amazon Prime Day tech deals](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)<!-- TECH:END -->
+ - [Best October Prime Day Deals You Can Still Buy for $10 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10-day-2/#ftag=CAD590a51e)
+ - [21 Best October Prime Day Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
