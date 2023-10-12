@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - ⏩ [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 💣 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
+ - ⏩ [Ouch](http://9gag.com/gag/amAy13j)
  - 👉 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)<!-- MEMES:END -->
 
 ---
