@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - ⏩ [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
- - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
+ - 💣 [A loving movie for the entire family to watch.](http://9gag.com/gag/aoK6VPm)
+ - ⏩ [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
 
 ---
 
