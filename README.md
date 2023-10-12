@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Best October Prime Day Deals You Can Still Buy for $10 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10-day-2/#ftag=CAD590a51e)
- - [21 Best October Prime Day Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-2/)<!-- TECH:END -->
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
+ - [The Fitbit app has been having some issues for hours](https://www.theverge.com/2023/10/11/23913740/fitbit-issues-app-down-problems-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
