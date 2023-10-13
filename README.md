@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [360-degree view of Mars captured by the Mars Curiosity Rover, with real sound](http://9gag.com/gag/abvoRR8)
- - ⏩ [He found the TURBO Button](http://9gag.com/gag/az2zY6N)
- - 👉 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)<!-- MEMES:END -->
+ - 💣 [He found the TURBO Button](http://9gag.com/gag/az2zY6N)
+ - ⏩ [This ever happened to you?](http://9gag.com/gag/ap9XYxp)
+ - 👉 [Point at someone and blow them up](http://9gag.com/gag/aeQE7Lq)<!-- MEMES:END -->
 
 ---
 
