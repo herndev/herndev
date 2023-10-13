@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - ⏩ [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 👉 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)<!-- MEMES:END -->
+ - 💣 [360-degree view of Mars captured by the Mars Curiosity Rover, with real sound](http://9gag.com/gag/abvoRR8)
+ - ⏩ [He found the TURBO Button](http://9gag.com/gag/az2zY6N)
+ - 👉 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)<!-- MEMES:END -->
 
 ---
 
