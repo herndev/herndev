@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google tests adding a Discover Feed to its valuable desktop homepage](https://www.theverge.com/2023/10/13/23915480/google-discover-feed-desktop-homepage-experiment)
- - [Sources: Didi plans a 2024 Hong Kong listing, following its 2022 NYSE delisting, and is valued at ~$16B, down from $80B when Chinese regulators opened a probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/231013/p6#a231013p6)
- - [Pixel 8 Pro Face Unlock fooled by user’s brother with distinctly different face](https://www.androidauthority.com/pixel-8-pro-face-unlock-fooled-3375672/)<!-- TECH:END -->
+ - [In five hours of cross-examination, SBF&#39;s lawyers did not elicit any revelations or inconsistencies from Caroline Ellison, who said SBF made &quot;terrible mistakes&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p8#a231013p8)
+ - [Canon begins selling nanoimprint chip machines, which skip photolithography to impress circuit patterns on the wafer, likely avoiding trade curbs, to rival ASML &lpar;Bloomberg&rpar;](http://www.techmeme.com/231013/p7#a231013p7)
+ - [Google tests adding a Discover Feed to its valuable desktop homepage](https://www.theverge.com/2023/10/13/23915480/google-discover-feed-desktop-homepage-experiment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
