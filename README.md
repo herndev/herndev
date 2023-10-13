@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why were these weird accounts following a bunch of people on Spotify?](https://www.theverge.com/2023/10/12/23914995/spotify-weird-accounts-follow-lucas-lucasrpx-vitornovaes)
- - [Popular porn sites now display unproven health warnings thanks to Texas law](https://www.theverge.com/2023/10/12/23914832/texas-hb-1181-porn-age-verification-vixen-media-group)
- - [Memo: Flexport plans to cut approximately 20% of its global workforce as part of a new round of layoffs that&#39;s expected to begin on October 13 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231012/p35#a231012p35)<!-- TECH:END -->
+ - [Starlink plans to offer its satellite-based Direct to Cell service to LTE phones first for texting in 2024, and voice and data and IoT support in 2025 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231012/p37#a231012p37)
+ - [Best October Prime Day Deals on Earbuds and Headphones: These Prices Won&#39;t Stick Around     - CNET](https://www.cnet.com/deals/best-october-prime-day-deals-on-earbuds-and-headphones-airpods-pro-2-hit-189-but-the-clock-is-ticking/#ftag=CAD590a51e)
+ - [The Rick and Morty season 7 premiere gets right to moving on to bigger, better things](https://www.theverge.com/23906715/rick-and-morty-season-7-premiere-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
