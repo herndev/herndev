@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In five hours of cross-examination, SBF&#39;s lawyers did not elicit any revelations or inconsistencies from Caroline Ellison, who said SBF made &quot;terrible mistakes&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p8#a231013p8)
- - [Canon begins selling nanoimprint chip machines, which skip photolithography to impress circuit patterns on the wafer, likely avoiding trade curbs, to rival ASML &lpar;Bloomberg&rpar;](http://www.techmeme.com/231013/p7#a231013p7)
- - [Google tests adding a Discover Feed to its valuable desktop homepage](https://www.theverge.com/2023/10/13/23915480/google-discover-feed-desktop-homepage-experiment)<!-- TECH:END -->
+ - [CD Projekt used AI to recreate the voice of Mi&amp;#322;ogost Reczek, a Polish voice actor who died in 2021, for Cyberpunk 2077&#39;s new Polish DLC, after asking his family &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231013/p10#a231013p10)
+ - [Apple TV+ takes us back to Mars with &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/10/13/apple-tv-takes-us-back-to-mars-with-for-all-mankind?utm_medium=rss)
+ - [The Pixel 8 Pro does better than the iPhone 15 Pro Max in durability tests](https://www.androidauthority.com/google-pixel-8-pro-durability-test-3375707/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
