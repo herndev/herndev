@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just in case...](http://9gag.com/gag/aYVBP1V)
- - ⏩ [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
- - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
+ - 💣 [Hunters killers](http://9gag.com/gag/aA07Oq2)
+ - ⏩ [She didn&#39;t see it comings](http://9gag.com/gag/a8q9wKO)
+ - 👉 [Aight, imma head out](http://9gag.com/gag/az2z4bK)<!-- MEMES:END -->
 
 ---
 
