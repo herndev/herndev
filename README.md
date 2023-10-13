@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Itty-bitty Goku and Akira Toriyama and are back for new series Dragon Ball: Daima](https://www.polygon.com/nycc/23914239/dragon-ball-daima-trailer-announcement-toriyama)
- - [Electronic Arts celebrates the Modern Warfare 3 beta by making Battlefield 2042 free to play this weekend](https://www.pcgamer.com/electronic-arts-celebrates-the-modern-warfare-3-beta-by-making-battlefield-2042-free-to-play-this-weekend)
- - [Where to find the Skyrest Bridge Key in Lords of the Fallen](https://www.pcgamer.com/lords-of-the-fallen-skyrest-bridge-key-location)<!-- GAME:END -->
+ - [You can still play CS:GO, at least if you consider bizarre custom servers where you fight Final Fantasy summons &#39;playing CS:GO&#39;](https://www.pcgamer.com/you-can-still-play-csgo-at-least-if-you-consider-custom-servers-where-you-fight-final-fantasy-summons-playing-csgo)
+ - [The Modern Warfare 3 beta shows just how important it is who makes Call of Duty](https://www.pcgamer.com/the-modern-warfare-3-beta-shows-just-how-important-it-is-who-makes-call-of-duty)
+ - [Itty-bitty Goku and Akira Toriyama and are back for new series Dragon Ball: Daima](https://www.polygon.com/nycc/23914239/dragon-ball-daima-trailer-announcement-toriyama)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
