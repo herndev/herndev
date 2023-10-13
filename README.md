@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hunters killers](http://9gag.com/gag/aA07Oq2)
- - ⏩ [She didn&#39;t see it comings](http://9gag.com/gag/a8q9wKO)
- - 👉 [Aight, imma head out](http://9gag.com/gag/az2z4bK)<!-- MEMES:END -->
+ - 💣 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - ⏩ [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 👉 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)<!-- MEMES:END -->
 
 ---
 
