@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 👉 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
+ - ⏩ [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 👉 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)<!-- MEMES:END -->
 
 ---
 
