@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and Activision Blizzard: the latest news on the acquisition](https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports)
- - [iPhone 15 Pro video gear, cases, and rumored OLED iPads on the AppleInsider Podcast](https://appleinsider.com/articles/23/10/13/iphone-15-pro-video-gear-cases-and-rumored-oled-ipads-on-the-appleinsider-podcast?utm_medium=rss)
- - [NASA’s Psyche Mission Is Off to Test a Space Laser &lpar;for Communications&rpar;](https://www.wired.com/story/nasas-psyche-mission-is-off-to-test-a-space-laser-for-communications/)<!-- TECH:END -->
+ - [How to customize the lock screen in Android 14](https://www.theverge.com/23915662/android-14-lock-screen-customize-how-to)
+ - [How Microsoft placated EU and UK regulators via private deals with its rivals, got a US labor union support, and beat FTC in court to close the Activision deal &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p16#a231013p16)
+ - [ADT’s next security system could be a worthy Nest Secure successor](https://www.theverge.com/2023/10/13/23915644/adt-google-security-system-nest-secure-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
