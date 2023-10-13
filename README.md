@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF? This is UN funded education? UNRWA?](http://9gag.com/gag/aREGowQ)
+ - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
  - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 👉 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)<!-- MEMES:END -->
+ - 👉 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
 
 ---
 
