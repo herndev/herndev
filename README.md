@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now Pink Rathian event times, armor and weapon list](https://www.polygon.com/monster-hunter-now-guides/23910975/pink-rathian-armor-weapons-weakness-event)
- - [What&#39;s the best starting class in Lords of the Fallen?](https://www.pcgamer.com/lords-of-the-fallen-best-class)
- - [One of the most drawn-out tales in videogames is nearly at an end as UK approval clears the way for Microsoft/Activision deal to close](https://www.pcgamer.com/one-of-the-most-drawn-out-tales-in-videogames-is-nearly-at-an-end-as-uk-approval-clears-the-way-for-microsoftactivision-deal-to-close)<!-- GAME:END -->
+ - [We already know the best answer to Mobius’ hidden identity](https://www.polygon.com/23913597/loki-mobius-was-really-owen-wilson-the-whole-time-wow)
+ - [Welcoming the Legendary Teams at Activision Blizzard King to Team Xbox](https://news.xbox.com/en-us/2023/10/13/xbox-activision-blizzard/)
+ - [Best weapons in the Modern Warfare 3 beta](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
