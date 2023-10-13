@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos Magic Editor: What is it and how does it work?](https://www.androidauthority.com/what-is-google-photos-magic-editor-3329779/)
- - [After Adobe announced its $20B Figma acquisition in September 2022, the deal has stalled due to regulatory challenges and Adobe has shifted its attention to AI &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231013/p22#a231013p22)
- - [Vintage Apple gear auction includes 8GB original iPhone still in shipping box](https://appleinsider.com/articles/23/10/13/vintage-apple-gear-auction-includes-8gb-original-iphone-still-in-shipping-box?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s new video reactions are making therapy incredibly awkward](https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice)
+ - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)
+ - [OnePlus Open rumors: Expected release date, price, specs, what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
