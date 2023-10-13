@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mint gives you a Pixel 8 and 12-month plan for less than the phone price](https://www.androidauthority.com/mint-pixel-8-deals-3375910/)
- - [The best emulators for Steam Deck](https://www.androidauthority.com/best-emulators-for-steam-deck-3375838/)
- - [Netflix’s Squid Game reality show has an official release date](https://www.theverge.com/2023/10/13/23916079/netflix-squid-game-the-challenge-reality-show-release-date)<!-- TECH:END -->
+ - [Nvidia is raising the price of GeForce Now, but not in the US](https://www.theverge.com/2023/10/13/23916159/nvidia-geforce-now-price-increase)
+ - [A student&#39;s AI tool wins a global contest to read the text inside a carbonized Herculaneum scroll, which had been unreadable since a volcanic eruption in AD 79 &lpar;Jo Marchant/Nature&rpar;](http://www.techmeme.com/231013/p21#a231013p21)
+ - [Here’s Mario’s new voice actor](https://www.theverge.com/2023/10/13/23916232/super-mario-bros-wonder-new-voice-kevin-afghani)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
