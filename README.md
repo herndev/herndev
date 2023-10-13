@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Ghost Duet` - Louie Zong](http://9gag.com/gag/a8q901p)
- - ⏩ [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 👉 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)<!-- MEMES:END -->
+ - 💣 [WTF? This is UN funded education? UNRWA?](http://9gag.com/gag/aREGowQ)
+ - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 👉 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)<!-- MEMES:END -->
 
 ---
 
