@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just in case...](http://9gag.com/gag/aYVBP1V)
- - ⏩ [Wow, just wow](http://9gag.com/gag/agob4Ox)
+ - 💣 [Wow, just wow](http://9gag.com/gag/agob4Ox)
+ - ⏩ [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
  - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
 
 ---
