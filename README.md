@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft mashes up Modern Warfare, Halo, Diablo, Starfield, and more in a genuinely weird trailer celebrating its Activision Blizzard takeover: &#39;This is home now&#39;](https://www.pcgamer.com/microsoft-mashes-up-modern-warfare-halo-diablo-starfield-and-more-in-a-genuinely-weird-trailer-celebrating-its-activision-blizzard-takeover-this-is-home-now)
- - [Every Franchise Xbox Now Owns After Buying Activision](https://kotaku.com/xbox-activision-blizzard-bethesda-deal-every-franchise-1850925890)
- - [AVerMedia Live Gamer Ultra 2.1 review](https://www.pcgamer.com/avermedia-live-gamer-ultra-2-1-review)<!-- GAME:END -->
+ - [It’s hard to get controls right in sports games](https://www.polygon.com/gaming/23916070/nhl-24-new-controls-ps5-xbox-series-x)
+ - [I stayed at all 17 of Baldur&#39;s Gate 3&#39;s unique campsites and painstakingly rated the accommodations like some kind of Forgotten Realms bon vivant](https://www.pcgamer.com/i-stayed-at-all-17-of-baldurs-gate-3s-unique-campsites-and-painstakingly-rated-the-accommodations-like-some-kind-of-forgotten-realms-bon-vivant)
+ - [Valve warns Counter-Strike 2 players: use AMD&#39;s Anti-Lag feature, get banned](https://www.pcgamer.com/valve-warns-counter-strike-2-players-use-amds-anti-lag-feature-get-banned)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
