@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 16 to 20](https://news.xbox.com/en-us/2023/10/13/next-week-on-xbox-new-games-for-october-16-to-20/)
- - [30 years on, The Nightmare Before Christmas still slaps](https://www.polygon.com/23913258/nightmare-before-christmas-30th-anniversary)
- - [Hot Topic and The Nightmare Before Christmas needed each other](https://www.polygon.com/23911787/hot-topic-nightmare-before-christmas-emo-kid-legacy)<!-- GAME:END -->
+ - [How Lords of the Fallen’s Realm of the Dead Entered The Land of the Living](https://news.xbox.com/en-us/2023/10/13/how-lords-of-the-fallen-umbral/)
+ - [Fallout 76’s Atlantic City update offers crime drama and cryptids](https://www.polygon.com/23913087/fallout-76-atlantic-city-fallout-lore-expedition-bethesda)
+ - [Bobby Kotick will remain Activision Blizzard CEO through 2023](https://www.polygon.com/23915636/bobby-kotick-ceo-activision-blizzard-microsoft-deal-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
