@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nightmare Before Christmas’ Devil May Cry clone was a gift to rabid Japanese fans](https://www.polygon.com/gaming/23913274/nightmare-before-christmas-sequel-video-game-capcom)
- - [Xbox Insider Release Notes – Beta &lpar;2310.231011-2200&rpar;](https://news.xbox.com/en-us/2023/10/13/xbox-insider-release-notes-beta-2310-231011-2200/)
- - [Spider-Man 2 pre-order guide](https://www.polygon.com/deals/23762295/spider-man-2-pre-order-digital-collectors-deluxe-edition-ps5)<!-- GAME:END -->
+ - [Microsoft mashes up Modern Warfare, Halo, Diablo, Starfield, and more in a genuinely weird trailer celebrating its Activision Blizzard takeover: &#39;This is home now&#39;](https://www.pcgamer.com/microsoft-mashes-up-modern-warfare-halo-diablo-starfield-and-more-in-a-genuinely-weird-trailer-celebrating-its-activision-blizzard-takeover-this-is-home-now)
+ - [Every Franchise Xbox Now Owns After Buying Activision](https://kotaku.com/xbox-activision-blizzard-bethesda-deal-every-franchise-1850925890)
+ - [AVerMedia Live Gamer Ultra 2.1 review](https://www.pcgamer.com/avermedia-live-gamer-ultra-2-1-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
