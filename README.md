@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Microsoft&#39;s deal with Ubisoft, which has the cloud gaming rights for Call of Duty and other Activision games outside of the EU for the next 15 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p19#a231013p19)
- - [French government leaks late October release date for iOS 17.1](https://appleinsider.com/articles/23/10/13/french-government-leaks-late-october-release-date-for-ios-171?utm_medium=rss)
- - [The Pixel Watch now takes longer to charge after firmware update](https://www.androidauthority.com/pixel-watch-charging-speed-3375878/)<!-- TECH:END -->
+ - [Mint gives you a Pixel 8 and 12-month plan for less than the phone price](https://www.androidauthority.com/mint-pixel-8-deals-3375910/)
+ - [The best emulators for Steam Deck](https://www.androidauthority.com/best-emulators-for-steam-deck-3375838/)
+ - [Netflix’s Squid Game reality show has an official release date](https://www.theverge.com/2023/10/13/23916079/netflix-squid-game-the-challenge-reality-show-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
