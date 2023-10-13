@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UN&#39;s top internet governance body plans to hold its 2024 conference in Riyadh, despite Saudi Arabia engaging in digital surveillance and censorship &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/231012/p38#a231012p38)
- - [PC streaming service Shadow discloses security breach](https://www.theverge.com/2023/10/12/23915206/shadow-pc-streaming-service-security-breach)
- - [EU is formally investigating X over content about the Israel-Hamas war](https://www.theverge.com/2023/10/12/23914862/eu-x-elon-musk-european-commission-probe-dsa-digital-services-act-hamas-israel)<!-- TECH:END -->
+ - [Sources: the Biden administration is considering closing a loophole that gives Chinese companies access to US AI chips through overseas subsidiaries &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p39#a231012p39)
+ - [How to turn off your active status on Facebook](https://www.androidauthority.com/turn-off-active-status-facebook-3143035/)
+ - [The UN&#39;s top internet governance body plans to hold its 2024 conference in Riyadh, despite Saudi Arabia engaging in digital surveillance and censorship &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/231012/p38#a231012p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
