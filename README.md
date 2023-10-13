@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft will pay you up to $15,000 to bait AI-powered Bing](https://www.pcgamer.com/microsoft-will-pay-you-up-to-dollar15000-to-bait-ai-powered-bing)
- - [Unusable Starfield mod morphs every ship&#39;s reactor into Thomas the Tank Engine, trapping them inside a horrific cocoon—creator says &#39;Life isn&#39;t always fair&#39;](https://www.pcgamer.com/unusable-starfield-mod-morphs-every-ships-reactor-into-thomas-the-tank-engine-trapping-every-ship-inside-a-horrific-cocooncreator-says-life-isnt-always-fair)
- - [PC Gamer UK December issue on sale now: Cities Skylines II](https://www.pcgamer.com/pc-gamer-uk-december-issue-on-sale-now-cities-skylines-ii)<!-- GAME:END -->
+ - [Monster Hunter Now Pink Rathian event times, armor and weapon list](https://www.polygon.com/monster-hunter-now-guides/23910975/pink-rathian-armor-weapons-weakness-event)
+ - [What&#39;s the best starting class in Lords of the Fallen?](https://www.pcgamer.com/lords-of-the-fallen-best-class)
+ - [One of the most drawn-out tales in videogames is nearly at an end as UK approval clears the way for Microsoft/Activision deal to close](https://www.pcgamer.com/one-of-the-most-drawn-out-tales-in-videogames-is-nearly-at-an-end-as-uk-approval-clears-the-way-for-microsoftactivision-deal-to-close)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
