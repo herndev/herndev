@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Forge AI Toolkit is Going to Change Halo Infinite Forever](https://news.xbox.com/en-us/2023/10/13/the-forge-ai-toolkit-is-going-to-change-halo-infinite-forever/)
- - [When is Call of Duty coming to Game Pass?](https://www.polygon.com/gaming/23911151/call-of-duty-game-pass-release)
- - [Monster Hunter Now Hunter Rank rewards and unlocks list](https://www.polygon.com/monster-hunter-now-guides/23871598/hunter-rank-rewards-unlocks-list-hrp)<!-- GAME:END -->
+ - [Redfall Game Update 2 Available Now with Performance Mode](https://bethesda.net/en/article/2ruysKHwtR65wk1VSFa9XO/redfall-game-update-2-release-notes)
+ - [Jack Skellington turned legendary composer Danny Elfman into a weirdo rock star](https://www.polygon.com/23912646/danny-elfman-concerts-nightmare-before-christmas)
+ - [Arcane is officially League of Legends canon now, according to Riot](https://www.polygon.com/23915816/arcane-riot-league-of-legends-developer-update-lore-canon-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
