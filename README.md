@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - ⏩ [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)<!-- MEMES:END -->
+ - ⏩ [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 👉 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)<!-- MEMES:END -->
 
 ---
 
