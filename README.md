@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink plans to offer its satellite-based Direct to Cell service to LTE phones first for texting in 2024, and voice and data and IoT support in 2025 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231012/p37#a231012p37)
- - [Best October Prime Day Deals on Earbuds and Headphones: These Prices Won&#39;t Stick Around     - CNET](https://www.cnet.com/deals/best-october-prime-day-deals-on-earbuds-and-headphones-airpods-pro-2-hit-189-but-the-clock-is-ticking/#ftag=CAD590a51e)
- - [The Rick and Morty season 7 premiere gets right to moving on to bigger, better things](https://www.theverge.com/23906715/rick-and-morty-season-7-premiere-review)<!-- TECH:END -->
+ - [The UN&#39;s top internet governance body plans to hold its 2024 conference in Riyadh, despite Saudi Arabia engaging in digital surveillance and censorship &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/231012/p38#a231012p38)
+ - [PC streaming service Shadow discloses security breach](https://www.theverge.com/2023/10/12/23915206/shadow-pc-streaming-service-security-breach)
+ - [EU is formally investigating X over content about the Israel-Hamas war](https://www.theverge.com/2023/10/12/23914862/eu-x-elon-musk-european-commission-probe-dsa-digital-services-act-hamas-israel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
