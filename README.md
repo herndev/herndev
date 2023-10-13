@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lords of the Fallen: How to beat Pieta, She of Blessed Renewal](https://www.pcgamer.com/lords-of-the-fallen-pieta-boss-tips)
- - [How to get boss weapons in Lords of the Fallen](https://www.pcgamer.com/lords-of-the-fallen-boss-weapons-umbral-scourings)
- - [How to free the Tortured Prisoner in Lords of the Fallen](https://www.pcgamer.com/lords-of-the-fallen-tortured-prisoner-how-to-free)<!-- GAME:END -->
+ - [Itty-bitty Goku and Akira Toriyama and are back for new series Dragon Ball: Daima](https://www.polygon.com/nycc/23914239/dragon-ball-daima-trailer-announcement-toriyama)
+ - [Electronic Arts celebrates the Modern Warfare 3 beta by making Battlefield 2042 free to play this weekend](https://www.pcgamer.com/electronic-arts-celebrates-the-modern-warfare-3-beta-by-making-battlefield-2042-free-to-play-this-weekend)
+ - [Where to find the Skyrest Bridge Key in Lords of the Fallen](https://www.pcgamer.com/lords-of-the-fallen-skyrest-bridge-key-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
