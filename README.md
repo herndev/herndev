@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [U,K. regulator formally clears Microsoft-Activision deal to go ahead](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [Cities: Skylines 2 devs say they &#39;learned a lot from the feedback from the community&#39;](https://www.pcgamer.com/cities-skylines-2-devs-say-they-learned-a-lot-from-the-feedback-from-the-community)
- - [Heroes of Might and Magic 3 is having a crossover with World of Warships for some reason](https://www.pcgamer.com/heroes-of-might-and-magic-3-is-having-a-crossover-with-world-of-warships-for-some-reason)<!-- GAME:END -->
+ - [Microsoft will pay you up to $15,000 to bait AI-powered Bing](https://www.pcgamer.com/microsoft-will-pay-you-up-to-dollar15000-to-bait-ai-powered-bing)
+ - [Unusable Starfield mod morphs every ship&#39;s reactor into Thomas the Tank Engine, trapping them inside a horrific cocoon—creator says &#39;Life isn&#39;t always fair&#39;](https://www.pcgamer.com/unusable-starfield-mod-morphs-every-ships-reactor-into-thomas-the-tank-engine-trapping-every-ship-inside-a-horrific-cocooncreator-says-life-isnt-always-fair)
+ - [PC Gamer UK December issue on sale now: Cities Skylines II](https://www.pcgamer.com/pc-gamer-uk-december-issue-on-sale-now-cities-skylines-ii)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
