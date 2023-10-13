@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft and Activision Blizzard’s deal for cloud gaming rights, explained](https://www.theverge.com/2023/10/13/23915780/ubisoft-activision-blizzard-microsoft-cloud-gaming-rights-deal-explained)
- - [Godzilla’s got some new friends in Monarch: Legacy of Monsters’ latest trailer](https://www.theverge.com/2023/10/13/23915831/apple-monarch-legacy-of-monsters-godzilla-eggs)
- - [Microsoft finally closes Activision Blizzard deal, welcomes PS5 players](https://www.androidauthority.com/microsoft-activision-blizzard-deal-close-3375836/)<!-- TECH:END -->
+ - [A look at Microsoft&#39;s deal with Ubisoft, which has the cloud gaming rights for Call of Duty and other Activision games outside of the EU for the next 15 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p19#a231013p19)
+ - [French government leaks late October release date for iOS 17.1](https://appleinsider.com/articles/23/10/13/french-government-leaks-late-october-release-date-for-ios-171?utm_medium=rss)
+ - [The Pixel Watch now takes longer to charge after firmware update](https://www.androidauthority.com/pixel-watch-charging-speed-3375878/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
