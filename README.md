@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I knew america would have war withdraws.](http://9gag.com/gag/aPg0Q5B)
- - ⏩ [Wtf defense move.](http://9gag.com/gag/az2zOVK)
- - 👉 [This aged like a fine wine](http://9gag.com/gag/a5XAjMy)<!-- MEMES:END -->
+ - 💣 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
+ - ⏩ [The impossible goal by Roberto Carlos](http://9gag.com/gag/a7qBNPA)
+ - 👉 [Da Caat](http://9gag.com/gag/aBdMGoN)<!-- MEMES:END -->
 
 ---
 
