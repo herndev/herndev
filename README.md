@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
- - ⏩ [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
+ - 💣 [Just in case...](http://9gag.com/gag/aYVBP1V)
+ - ⏩ [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
+ - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
 
 ---
 
