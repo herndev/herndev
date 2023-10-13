@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - ⏩ [Tehran? No, Vienna.](http://9gag.com/gag/aEqbDGe)
- - 👉 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)<!-- MEMES:END -->
+ - ⏩ [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 👉 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)<!-- MEMES:END -->
 
 ---
 
