@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - ⏩ [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 👉 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)<!-- MEMES:END -->
+ - 💣 [Share your forbidden photos, Friday the 13th is almost here.](http://9gag.com/gag/ay2AR2r)
+ - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
 
 ---
 
