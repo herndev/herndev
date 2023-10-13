@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to customize the lock screen in Android 14](https://www.theverge.com/23915662/android-14-lock-screen-customize-how-to)
- - [How Microsoft placated EU and UK regulators via private deals with its rivals, got a US labor union support, and beat FTC in court to close the Activision deal &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p16#a231013p16)
- - [ADT’s next security system could be a worthy Nest Secure successor](https://www.theverge.com/2023/10/13/23915644/adt-google-security-system-nest-secure-leak)<!-- TECH:END -->
+ - [Ubisoft and Activision Blizzard’s deal for cloud gaming rights, explained](https://www.theverge.com/2023/10/13/23915780/ubisoft-activision-blizzard-microsoft-cloud-gaming-rights-deal-explained)
+ - [Godzilla’s got some new friends in Monarch: Legacy of Monsters’ latest trailer](https://www.theverge.com/2023/10/13/23915831/apple-monarch-legacy-of-monsters-godzilla-eggs)
+ - [Microsoft finally closes Activision Blizzard deal, welcomes PS5 players](https://www.androidauthority.com/microsoft-activision-blizzard-deal-close-3375836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
