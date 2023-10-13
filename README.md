@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow, just wow](http://9gag.com/gag/agob4Ox)
- - ⏩ [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
+ - 💣 [I knew america would have war withdraws.](http://9gag.com/gag/aPg0Q5B)
+ - ⏩ [Wtf defense move.](http://9gag.com/gag/az2zOVK)
+ - 👉 [This aged like a fine wine](http://9gag.com/gag/a5XAjMy)<!-- MEMES:END -->
 
 ---
 
