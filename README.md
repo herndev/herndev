@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He found the TURBO Button](http://9gag.com/gag/az2zY6N)
- - ⏩ [This ever happened to you?](http://9gag.com/gag/ap9XYxp)
- - 👉 [Point at someone and blow them up](http://9gag.com/gag/aeQE7Lq)<!-- MEMES:END -->
+ - 💣 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - ⏩ [Tehran? No, Vienna.](http://9gag.com/gag/aEqbDGe)
+ - 👉 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)<!-- MEMES:END -->
 
 ---
 
