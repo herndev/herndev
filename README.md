@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your forbidden photos, Friday the 13th is almost here.](http://9gag.com/gag/ay2AR2r)
- - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
+ - 💣 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
+ - ⏩ [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 👉 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
 
 ---
 
