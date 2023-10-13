@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow, just wow](http://9gag.com/gag/agob4Ox)
- - ⏩ [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)<!-- MEMES:END -->
+ - 💣 [Just in case...](http://9gag.com/gag/aYVBP1V)
+ - ⏩ [Wow, just wow](http://9gag.com/gag/agob4Ox)
+ - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
 
 ---
 
