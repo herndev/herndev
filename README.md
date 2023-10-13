@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kaiju No. 8’s anime already looks as rad as the manga](https://www.polygon.com/nycc/23914930/kaiju-no-8-crunchyroll-exclusive-streaming-announcement)
- - [In The Year 2023, One New Wii U Was Sold](https://kotaku.com/one-1-wii-u-new-sold-switch-nintendo-2023-stats-1850926481)
- - [Lords of the Fallen gets an early Steam reviews thrashing over performance, but don&#39;t write it off yet](https://www.pcgamer.com/lords-of-the-fallen-launch-performance-issues)<!-- GAME:END -->
+ - [How GTA Online’s Halloween Update Made A GTA V Urban Legend Real](https://kotaku.com/gta-online-halloween-update-ghosts-johnny-klebitz-1850926802)
+ - [Bad Omens: David Tennant cast a Shakespearean curse at New York Comic Con](https://www.polygon.com/nycc/23915921/david-tennant-nycc-2023-macbeth-ncuti-gatwa-doctor-who)
+ - [The Lollipop Chainsaw remake is now just a Lollipop Chainsaw remaster, but that&#39;s apparently what the fans demanded](https://www.pcgamer.com/the-lollipop-chainsaw-remake-is-now-just-a-lollipop-chainsaw-remaster-but-thats-apparently-what-the-fans-demanded)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
