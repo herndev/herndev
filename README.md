@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s hard to get controls right in sports games](https://www.polygon.com/gaming/23916070/nhl-24-new-controls-ps5-xbox-series-x)
- - [I stayed at all 17 of Baldur&#39;s Gate 3&#39;s unique campsites and painstakingly rated the accommodations like some kind of Forgotten Realms bon vivant](https://www.pcgamer.com/i-stayed-at-all-17-of-baldurs-gate-3s-unique-campsites-and-painstakingly-rated-the-accommodations-like-some-kind-of-forgotten-realms-bon-vivant)
- - [Valve warns Counter-Strike 2 players: use AMD&#39;s Anti-Lag feature, get banned](https://www.pcgamer.com/valve-warns-counter-strike-2-players-use-amds-anti-lag-feature-get-banned)<!-- GAME:END -->
+ - [Kaiju No. 8’s anime already looks as rad as the manga](https://www.polygon.com/nycc/23914930/kaiju-no-8-crunchyroll-exclusive-streaming-announcement)
+ - [In The Year 2023, One New Wii U Was Sold](https://kotaku.com/one-1-wii-u-new-sold-switch-nintendo-2023-stats-1850926481)
+ - [Lords of the Fallen gets an early Steam reviews thrashing over performance, but don&#39;t write it off yet](https://www.pcgamer.com/lords-of-the-fallen-launch-performance-issues)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
