@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We already know the best answer to Mobius’ hidden identity](https://www.polygon.com/23913597/loki-mobius-was-really-owen-wilson-the-whole-time-wow)
- - [Welcoming the Legendary Teams at Activision Blizzard King to Team Xbox](https://news.xbox.com/en-us/2023/10/13/xbox-activision-blizzard/)
- - [Best weapons in the Modern Warfare 3 beta](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 16 to 20](https://news.xbox.com/en-us/2023/10/13/next-week-on-xbox-new-games-for-october-16-to-20/)
+ - [30 years on, The Nightmare Before Christmas still slaps](https://www.polygon.com/23913258/nightmare-before-christmas-30th-anniversary)
+ - [Hot Topic and The Nightmare Before Christmas needed each other](https://www.polygon.com/23911787/hot-topic-nightmare-before-christmas-emo-kid-legacy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
