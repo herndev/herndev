@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall Game Update 2 Available Now with Performance Mode](https://bethesda.net/en/article/2ruysKHwtR65wk1VSFa9XO/redfall-game-update-2-release-notes)
- - [Jack Skellington turned legendary composer Danny Elfman into a weirdo rock star](https://www.polygon.com/23912646/danny-elfman-concerts-nightmare-before-christmas)
- - [Arcane is officially League of Legends canon now, according to Riot](https://www.polygon.com/23915816/arcane-riot-league-of-legends-developer-update-lore-canon-netflix)<!-- GAME:END -->
+ - [The Nightmare Before Christmas’ Devil May Cry clone was a gift to rabid Japanese fans](https://www.polygon.com/gaming/23913274/nightmare-before-christmas-sequel-video-game-capcom)
+ - [Xbox Insider Release Notes – Beta &lpar;2310.231011-2200&rpar;](https://news.xbox.com/en-us/2023/10/13/xbox-insider-release-notes-beta-2310-231011-2200/)
+ - [Spider-Man 2 pre-order guide](https://www.polygon.com/deals/23762295/spider-man-2-pre-order-digital-collectors-deluxe-edition-ps5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
