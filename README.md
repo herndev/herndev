@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How GTA Online’s Halloween Update Made A GTA V Urban Legend Real](https://kotaku.com/gta-online-halloween-update-ghosts-johnny-klebitz-1850926802)
- - [Bad Omens: David Tennant cast a Shakespearean curse at New York Comic Con](https://www.polygon.com/nycc/23915921/david-tennant-nycc-2023-macbeth-ncuti-gatwa-doctor-who)
- - [The Lollipop Chainsaw remake is now just a Lollipop Chainsaw remaster, but that&#39;s apparently what the fans demanded](https://www.pcgamer.com/the-lollipop-chainsaw-remake-is-now-just-a-lollipop-chainsaw-remaster-but-thats-apparently-what-the-fans-demanded)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth Fan Theory Hints At A Major Story Change](https://kotaku.com/final-fantasy-7-vii-remake-rebirth-cid-playable-theory-1850926877)
+ - [Mission Impossible: Dead Reckoning, Netflix’s The Conference, and every new movie to watch at home this weekend](https://www.polygon.com/2023/10/13/23911259/new-movies-watch-mission-impossible-dead-reckoning-netflix-the-conference-expendables-4)
+ - [A group of Elden Ring&#39;s most devoted players have slain the same Souls bosses nearly 800 times while waiting for the DLC to release](https://www.pcgamer.com/a-group-of-elden-rings-most-devoted-players-have-slain-the-same-souls-bosses-nearly-800-times-while-waiting-for-the-dlc-to-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
