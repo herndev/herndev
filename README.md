@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI brings back the voice of a deceased Cyberpunk 2077 actor for Phantom Liberty](https://www.theverge.com/2023/10/13/23915535/cyberpunk-2077-phantom-liberty-polish-voice-actor-ai-ripperdock-viktor-vektor)
- - [21 Phone Deals You Can Still Get After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)
- - [iPhone 16 Pro rumored to get faster 5G, Wi-Fi 7, camera improvements](https://appleinsider.com/articles/23/10/13/iphone-16-pro-rumored-to-get-faster-5g-wi-fi-7-camera-improvements?utm_medium=rss)<!-- TECH:END -->
+ - [The Curse of the Creator Economy](https://www.wired.com/story/plaintext-the-curse-of-the-creator-economy/)
+ - [How to Watch Saturday’s Solar Eclipse](https://www.wired.com/story/how-to-watch-saturdays-solar-eclipse/)
+ - [Asus Chromebook Plus CX34 review: a simple, smart purchase](https://www.theverge.com/23914934/asus-chromebook-plus-cx34-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
