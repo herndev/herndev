@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Loki’s Mobius already got his Jet Ski &lpar;in Marvel Snap&rpar;](https://www.polygon.com/23914863/loki-mobius-jet-ski-marvel-snap)
- - [You can still play CS:GO, at least if you consider bizarre custom servers where you fight Final Fantasy summons &#39;playing CS:GO&#39;](https://www.pcgamer.com/you-can-still-play-csgo-at-least-if-you-consider-custom-servers-where-you-fight-final-fantasy-summons-playing-csgo)
- - [The Modern Warfare 3 beta shows just how important it is who makes Call of Duty](https://www.pcgamer.com/the-modern-warfare-3-beta-shows-just-how-important-it-is-who-makes-call-of-duty)<!-- GAME:END -->
+ - [Wordle today: Hint and answer for #846 Friday, October 13](https://www.pcgamer.com/wordle-today-answer-846-october-13)
+ - [Magic: The Gathering turns Doctor Who&#39;s heroes and villains into cardboard while remaining impressively accurate to their core](https://www.pcgamer.com/magic-the-gathering-turns-doctor-whos-heroes-and-villains-into-cardboard-while-remaining-impressively-accurate-to-their-core)
+ - [Loki’s Mobius already got his Jet Ski &lpar;in Marvel Snap&rpar;](https://www.polygon.com/23914863/loki-mobius-jet-ski-marvel-snap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
