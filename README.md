@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A wild Golbat appears. The wild Golbat used Attract.](http://9gag.com/gag/amAyMN6)
- - ⏩ [It&#39;s on. Hamas supporters in France f**k around and find out.](http://9gag.com/gag/a6qzpdq)
- - 👉 [Da Caat](http://9gag.com/gag/aBdMGoN)<!-- MEMES:END -->
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - ⏩ [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
 
 ---
 
