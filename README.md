@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - ⏩ [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
+ - 💣 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
+ - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 
