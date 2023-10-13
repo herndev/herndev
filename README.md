@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bobby Kotick will stay at Activision Blizzard until the end of this year](https://www.theverge.com/2023/10/13/23915559/activision-blizzard-ceo-steps-down-kotick-microsoft)
- - [Read Xbox chief Phil Spencer’s memo welcoming Activision Blizzard employees to Microsoft](https://www.theverge.com/2023/10/13/23915634/microsoft-xbox-internal-memo-chief-spencer-activision-blizzard-completion)
- - [Rumor: iPad mini 7 &#39;Jelly Scrolling&#39; in portrait will be improved](https://appleinsider.com/articles/23/10/13/rumor-ipad-mini-7-jelly-scrolling-in-portrait-will-be-improved?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft and Activision Blizzard: the latest news on the acquisition](https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports)
+ - [iPhone 15 Pro video gear, cases, and rumored OLED iPads on the AppleInsider Podcast](https://appleinsider.com/articles/23/10/13/iphone-15-pro-video-gear-cases-and-rumored-oled-ipads-on-the-appleinsider-podcast?utm_medium=rss)
+ - [NASA’s Psyche Mission Is Off to Test a Space Laser &lpar;for Communications&rpar;](https://www.wired.com/story/nasas-psyche-mission-is-off-to-test-a-space-laser-for-communications/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
