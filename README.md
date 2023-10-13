@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hunters killers](http://9gag.com/gag/aA07Oq2)
- - ⏩ [Man being man](http://9gag.com/gag/aA07XbE)
- - 👉 [He went too far into the dream](http://9gag.com/gag/a3ZD2yN)<!-- MEMES:END -->
+ - 💣 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - ⏩ [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 👉 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)<!-- MEMES:END -->
 
 ---
 
