@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Curse of the Creator Economy](https://www.wired.com/story/plaintext-the-curse-of-the-creator-economy/)
- - [How to Watch Saturday’s Solar Eclipse](https://www.wired.com/story/how-to-watch-saturdays-solar-eclipse/)
- - [Asus Chromebook Plus CX34 review: a simple, smart purchase](https://www.theverge.com/23914934/asus-chromebook-plus-cx34-review)<!-- TECH:END -->
+ - [Bobby Kotick will stay at Activision Blizzard until the end of this year](https://www.theverge.com/2023/10/13/23915559/activision-blizzard-ceo-steps-down-kotick-microsoft)
+ - [Read Xbox chief Phil Spencer’s memo welcoming Activision Blizzard employees to Microsoft](https://www.theverge.com/2023/10/13/23915634/microsoft-xbox-internal-memo-chief-spencer-activision-blizzard-completion)
+ - [Rumor: iPad mini 7 &#39;Jelly Scrolling&#39; in portrait will be improved](https://appleinsider.com/articles/23/10/13/rumor-ipad-mini-7-jelly-scrolling-in-portrait-will-be-improved?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
