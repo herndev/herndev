@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
- - ⏩ [The impossible goal by Roberto Carlos](http://9gag.com/gag/a7qBNPA)
- - 👉 [Da Caat](http://9gag.com/gag/aBdMGoN)<!-- MEMES:END -->
+ - 💣 [`Ghost Duet` - Louie Zong](http://9gag.com/gag/a8q901p)
+ - ⏩ [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 👉 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)<!-- MEMES:END -->
 
 ---
 
