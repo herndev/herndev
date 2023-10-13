@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Heroes of Might and Magic 3 is having a crossover with World of Warships for some reason](https://www.pcgamer.com/heroes-of-might-and-magic-3-is-having-a-crossover-with-world-of-warships-for-some-reason)
- - [Starfield&#39;s unofficial radio stations have made me want to keep playing](https://www.pcgamer.com/starfields-unofficial-radio-stations-have-made-me-want-to-keep-playing)
- - [Wordle today: Hint and answer for #846 Friday, October 13](https://www.pcgamer.com/wordle-today-answer-846-october-13)<!-- GAME:END -->
+ - [U,K. regulator formally clears Microsoft-Activision deal to go ahead](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
+ - [Cities: Skylines 2 devs say they &#39;learned a lot from the feedback from the community&#39;](https://www.pcgamer.com/cities-skylines-2-devs-say-they-learned-a-lot-from-the-feedback-from-the-community)
+ - [Heroes of Might and Magic 3 is having a crossover with World of Warships for some reason](https://www.pcgamer.com/heroes-of-might-and-magic-3-is-having-a-crossover-with-world-of-warships-for-some-reason)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
