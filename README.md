@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google dropped UWB support for the Pixel Watch 2, and that’s a shame](https://www.androidauthority.com/google-pixel-watch-2-uwb-support-3373449/)
- - [UK CMA approves Microsoft&#39;s ~$69B acquisition of Activision Blizzard, after Microsoft restructured the deal to sell Activision&#39;s cloud gaming rights to Ubisoft &lpar;Samuel Tolbert/Windows Central&rpar;](http://www.techmeme.com/231013/p4#a231013p4)
- - [Xiaomi’s next flagship will ditch the curves for an all-flat look: Leak](https://www.androidauthority.com/xiaomi-14-pro-design-leak-3375638/)<!-- TECH:END -->
+ - [Google tests adding a Discover Feed to its valuable desktop homepage](https://www.theverge.com/2023/10/13/23915480/google-discover-feed-desktop-homepage-experiment)
+ - [Sources: Didi plans a 2024 Hong Kong listing, following its 2022 NYSE delisting, and is valued at ~$16B, down from $80B when Chinese regulators opened a probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/231013/p6#a231013p6)
+ - [Pixel 8 Pro Face Unlock fooled by user’s brother with distinctly different face](https://www.androidauthority.com/pixel-8-pro-face-unlock-fooled-3375672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
