@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
- - ⏩ [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
+ - 💣 [A wild Golbat appears. The wild Golbat used Attract.](http://9gag.com/gag/amAyMN6)
+ - ⏩ [I knew america would have war withdraws.](http://9gag.com/gag/aPg0Q5B)
+ - 👉 [Wtf defense move.](http://9gag.com/gag/az2zOVK)<!-- MEMES:END -->
 
 ---
 
