@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CD Projekt used AI to recreate the voice of Mi&amp;#322;ogost Reczek, a Polish voice actor who died in 2021, for Cyberpunk 2077&#39;s new Polish DLC, after asking his family &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231013/p10#a231013p10)
- - [Apple TV+ takes us back to Mars with &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/10/13/apple-tv-takes-us-back-to-mars-with-for-all-mankind?utm_medium=rss)
- - [The Pixel 8 Pro does better than the iPhone 15 Pro Max in durability tests](https://www.androidauthority.com/google-pixel-8-pro-durability-test-3375707/)<!-- TECH:END -->
+ - [AI brings back the voice of a deceased Cyberpunk 2077 actor for Phantom Liberty](https://www.theverge.com/2023/10/13/23915535/cyberpunk-2077-phantom-liberty-polish-voice-actor-ai-ripperdock-viktor-vektor)
+ - [21 Phone Deals You Can Still Get After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)
+ - [iPhone 16 Pro rumored to get faster 5G, Wi-Fi 7, camera improvements](https://appleinsider.com/articles/23/10/13/iphone-16-pro-rumored-to-get-faster-5g-wi-fi-7-camera-improvements?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
