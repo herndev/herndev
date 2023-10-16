@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - ⏩ [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - 👉 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)<!-- MEMES:END -->
+ - 💣 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
+ - ⏩ [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - 👉 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)<!-- MEMES:END -->
 
 ---
 
