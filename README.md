@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new video reactions are making therapy incredibly awkward](https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice)
- - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [OnePlus Open rumors: Expected release date, price, specs, what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)<!-- TECH:END -->
+ - [Australia says it fined X ~$384K and warned Google after they failed to give adequate info on their efforts to fight CSAM despite a law requiring the disclosure &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/231015/p8#a231015p8)
+ - [How Moscow-based crypto exchange Garantex has become a major money laundering channel for cybercriminals and terror groups like the Palestinian Islamic Jihad &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/231015/p7#a231015p7)
+ - [Solar Panels vs. Tesla Solar Roof: Here&#39;s the Difference     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-versus-tesla-solar-roof/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
