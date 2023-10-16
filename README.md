@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - ⏩ [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)<!-- MEMES:END -->
+ - ⏩ [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
 
 ---
 
