@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
- - ⏩ [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 👉 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)<!-- MEMES:END -->
+ - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - ⏩ [Should have been the original story](http://9gag.com/gag/a8q9QOe)
+ - 👉 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)<!-- MEMES:END -->
 
 ---
 
