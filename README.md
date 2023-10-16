@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
- - ⏩ [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - 👉 [Diversity is our strength](http://9gag.com/gag/a3ZDzW7)<!-- MEMES:END -->
+ - 💣 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
+ - ⏩ [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
 
 ---
 
