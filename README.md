@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goldman Sachs regrets Apple Card, and is trying to escape the deal](https://appleinsider.com/articles/23/10/16/goldman-sachs-regrets-apple-card-and-is-trying-to-escape-the-deal?utm_medium=rss)
- - [Sources: the US plans new China chip rules to block some AI chips that fall just under the current technical parameters, expand company reporting, and more &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/231016/p10#a231016p10)
- - [X &lpar;Twitter&rpar; is working on a new “Enhanced Discovery” perk for X Premium users](https://www.androidauthority.com/x-twitter-new-enhanced-discovery-perk-x-premium-users-3376226/)<!-- TECH:END -->
+ - [Nearly 50% of Mac developers are including AI in their apps](https://appleinsider.com/articles/23/10/16/nearly-50-of-mac-developers-are-including-ai-in-their-apps?utm_medium=rss)
+ - [10 Best Wireless Earbuds for Working Out &lpar;2023&rpar;](https://www.wired.com/gallery/best-wireless-workout-headphones/)
+ - [None of Your Photos Are Real](https://www.wired.com/story/google-pixel-8-artificial-intelligence-photos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
