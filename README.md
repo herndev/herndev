@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ferrari begins accepting crypto payments for its cars in the US and plans to add the option for European customers in Q1 2024; Ferrari sold 13,200 cars in 2022 &lpar;Giulio Piovaccari/Reuters&rpar;](http://www.techmeme.com/231016/p6#a231016p6)
- - [Beams Easy-to-Install Indoor and Outdoor Lights Start at Just $7     - CNET](https://www.cnet.com/deals/beams-easy-to-install-indoor-and-outdoor-lights-start-7/#ftag=CAD590a51e)
- - [21.co: the US now holds 200K+ bitcoin, worth $5B+, seized from criminals and darknet markets; an IRS executive says sales are &quot;set by the timing in our process&quot; &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/231016/p5#a231016p5)<!-- TECH:END -->
+ - [Goldman Sachs regrets Apple Card, and is trying to escape the deal](https://appleinsider.com/articles/23/10/16/goldman-sachs-regrets-apple-card-and-is-trying-to-escape-the-deal?utm_medium=rss)
+ - [Sources: the US plans new China chip rules to block some AI chips that fall just under the current technical parameters, expand company reporting, and more &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/231016/p10#a231016p10)
+ - [X &lpar;Twitter&rpar; is working on a new “Enhanced Discovery” perk for X Premium users](https://www.androidauthority.com/x-twitter-new-enhanced-discovery-perk-x-premium-users-3376226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
