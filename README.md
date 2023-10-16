@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Analogue’s next console plays Nintendo 64 games in 4K](https://www.polygon.com/23919250/nintendo-64-4k-analogue-3d)
- - [Minecraft is the first videogame ever to sell more than 300 million copies](https://www.pcgamer.com/minecraft-is-the-first-videogame-ever-to-sell-more-than-300-million-copies)
- - [The Best Retro Console Creators Are Making A Nintendo 64](https://kotaku.com/nintendo-64-n64-mini-classic-analogue-3d-price-retro-1850929634)<!-- GAME:END -->
+ - [The best comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)
+ - [The Rick and Morty soundalikes weren’t the only voice swaps in the season 7 premiere](https://www.polygon.com/23919308/rick-morty-new-actors-season-7-premiere)
+ - [Warhammer’s original setting officially returns to the tabletop in 2024](https://www.polygon.com/tabletop-games/23919185/warhammer-old-world-tabletop-game-release-2024-relaunch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
