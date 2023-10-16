@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some influencers and CEOs are taking their brands to LinkedIn, enticed by less competition among creators, a committed user base, and a safer feel than X &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231016/p14#a231016p14)
- - [MyQ garage door, Meross Christmas lights, &amp; MagSafe chargers on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/16/myq-garage-door-meross-christmas-lights-magsafe-chargers-on-the-homekit-insider-podcast?utm_medium=rss)
- - [A survey of 1,500 US adolescents: 51% spend at least four hours on social media apps daily; 13-year-olds spent 4.1 hours, rising to 5.8 hours for 17-year-olds &lpar;Jonathan Rothwell/Gallup&rpar;](http://www.techmeme.com/231016/p13#a231016p13)<!-- TECH:END -->
+ - [Daily deals Oct. 16: $89 AirPods, $899 24-inch iMac, 14-inch MacBook Pro for $1,278, more](https://appleinsider.com/articles/23/10/16/daily-deals-oct-16-89-airpods-899-24-inch-imac-14-inch-macbook-pro-for-1278-more?utm_medium=rss)
+ - [Bethesda Head of Publishing Pete Hines plans to leave after 24 years, just weeks after the release of Starfield, to begin an &quot;exciting new chapter&quot; &lpar;Victoria Kennedy/Eurogamer.net&rpar;](http://www.techmeme.com/231016/p17#a231016p17)
+ - [Disney courts TikTokers with a card game and quizzes](https://www.theverge.com/2023/10/16/23919098/tiktok-disney-hub-partnership-disney100)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
