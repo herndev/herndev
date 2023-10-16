@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rick and Morty soundalikes, a Netflix mystery thriller, and more new TV this week](https://www.polygon.com/2023/10/16/23903002/netflix-new-tv-mystery-thriller-rick-morty-soundalikes-kristen-stewart-gay-ghost-show)
- - [New Microsoft Flight Simulator DLC Adds Dune Buggies🤔](https://kotaku.com/microsoft-flight-sim-simulator-new-dlc-dune-buggy-utv-1850930215)
- - [Xbox Insider Release Notes – Alpha &lpar;2311.231011-2000&rpar;](https://news.xbox.com/en-us/2023/10/16/xbox-insider-release-notes-alpha-2311-231011-2000/)<!-- GAME:END -->
+ - [Cities: Skylines 2 devs warn players of performance problems: &#39;we have not achieved the benchmark we targeted&#39;](https://www.pcgamer.com/cities-skylines-2-devs-warn-players-of-performance-problems-we-have-not-achieved-the-benchmark-we-targeted)
+ - [Titanic’s 4K Blu-ray set is launching Dec. 5](https://www.polygon.com/deals/23919518/titanic-4k-blu-ray-pre-order-buy)
+ - [Xbox Insider Release Notes – Beta &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/16/xbox-insider-release-notes-beta-2310-231012-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
