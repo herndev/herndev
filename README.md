@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Rebirth Fan Theory Hints At A Major Story Change](https://kotaku.com/final-fantasy-7-vii-remake-rebirth-cid-playable-theory-1850926877)
- - [Mission Impossible: Dead Reckoning, Netflix’s The Conference, and every new movie to watch at home this weekend](https://www.polygon.com/2023/10/13/23911259/new-movies-watch-mission-impossible-dead-reckoning-netflix-the-conference-expendables-4)
- - [A group of Elden Ring&#39;s most devoted players have slain the same Souls bosses nearly 800 times while waiting for the DLC to release](https://www.pcgamer.com/a-group-of-elden-rings-most-devoted-players-have-slain-the-same-souls-bosses-nearly-800-times-while-waiting-for-the-dlc-to-release)<!-- GAME:END -->
+ - [With the necromancer, Vermintide 2 is getting a pet class at last](https://www.pcgamer.com/with-the-necromancer-vermintide-2-is-getting-a-pet-class-at-last)
+ - [Battlefield 2042 rode a free weekend and recent improvements to have a near-launch day player population on Steam](https://www.pcgamer.com/battlefield-2042-rode-a-free-weekend-and-recent-improvements-to-have-a-near-launch-day-player-population-on-steam)
+ - [Baldur&#39;s Gate 3&#39;s voice actors can&#39;t get enough of their characters either, and have started making them playlists for our enjoyment](https://www.pcgamer.com/baldurs-gate-3s-voice-actors-cant-get-enough-of-their-characters-either-and-have-started-making-them-playlists-for-our-enjoyment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
