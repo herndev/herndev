@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Climate activists land devastating blow against big oil by disrupting minor Tekken tournament](https://www.pcgamer.com/climate-activists-land-devastating-blow-against-big-oil-by-disrupting-minor-tekken-tournament)
- - [Blizzard pulls Diablo Season 2 trailer that got almost everything wrong, its fumbled sums stunlocking this streamer with laughter](https://www.pcgamer.com/blizzard-pulls-diablo-season-2-trailer-that-got-almost-everything-wrong-its-fumbled-sums-stunlocking-this-streamer-with-laughter)
- - [How to free Gerlinde and upgrade weapons in Lords of the Fallen](https://www.pcgamer.com/lords-of-the-fallen-gerlinde-upgrade-weapons)<!-- GAME:END -->
+ - [Graphics card modder shows AIB vendors you really can have a dual slot RTX 4080](https://www.pcgamer.com/graphics-card-modder-shows-aib-vendors-you-really-can-have-a-dual-slot-rtx-4080)
+ - [Van Gogh Museum forced to stop distributing special Pikachu cards after scalpers storm the gates: &#39;[we] take the safety and security of visitors and staff very seriously&#39;](https://www.pcgamer.com/van-gogh-museum-forced-to-stop-distributing-special-pikachu-cards-after-scalpers-storm-the-gates-we-take-the-safety-and-security-of-visitors-and-staff-very-seriously)
+ - [Climate activists land devastating blow against big oil by disrupting minor Tekken tournament](https://www.pcgamer.com/climate-activists-land-devastating-blow-against-big-oil-by-disrupting-minor-tekken-tournament)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
