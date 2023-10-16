@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wonder how many times you have experienced this, women with crocodile arms acting as if they are going to pay at least for their own half but then use and abuse the man on a financial basis... In my 20s and 30s I&#39;ve seen this every time I was on a date, now I only pay for myself](http://9gag.com/gag/aqeOBP7)
- - ⏩ [Beach creatures](http://9gag.com/gag/aqeOVVP)
- - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
+ - 💣 [Autumn fun](http://9gag.com/gag/agobpe6)
+ - ⏩ [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 👉 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
 
 ---
 
