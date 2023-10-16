@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - ⏩ [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 👉 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)<!-- MEMES:END -->
+ - 💣 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
+ - ⏩ [Wait... I have seen this movie before](http://9gag.com/gag/anz3W7B)
+ - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
 
 ---
 
