@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for October: Gotham Knights, Disco Elysium: The Final Cut, The Dark Pictures Anthology: House of Ashes](https://blog.playstation.com/2023/10/16/202301016-psplus/)
- - [Nvidia&#39;s hiking its GeForce Now membership fees by up to 40%](https://www.pcgamer.com/nvidias-hiking-its-geforce-now-membership-fees-by-up-to-40)
- - [AMD&#39;s Fluid Motion Frames tech now works in any DX11 and DX12 game with any RX 7000 and RX 6000-series graphics card](https://www.pcgamer.com/amds-fluid-motion-frames-tech-now-works-in-any-dx11-and-dx12-game-with-any-rx-7000-and-rx-6000-series-graphics-card)<!-- GAME:END -->
+ - [Climate activists land devastating blow against big oil by disrupting minor Tekken tournament](https://www.pcgamer.com/climate-activists-land-devastating-blow-against-big-oil-by-disrupting-minor-tekken-tournament)
+ - [Blizzard pulls Diablo Season 2 trailer that got almost everything wrong, its fumbled sums stunlocking this streamer with laughter](https://www.pcgamer.com/blizzard-pulls-diablo-season-2-trailer-that-got-almost-everything-wrong-its-fumbled-sums-stunlocking-this-streamer-with-laughter)
+ - [How to free Gerlinde and upgrade weapons in Lords of the Fallen](https://www.pcgamer.com/lords-of-the-fallen-gerlinde-upgrade-weapons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
