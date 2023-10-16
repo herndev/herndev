@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google confirms Pixel 8 series will support lossless USB audio in the future](https://www.androidauthority.com/pixel-8-lossless-audio-update-3376171/)
  - [Apple will soon be able to update unopened iPhones](https://www.androidauthority.com/apple-update-unopened-iphones-sealed-boxes-3375640/)
- - [Google Camera now has a new name to give you next level Pixel envy](https://www.androidauthority.com/google-camera-pixel-camera-3376160/)
- - [Millions of Workers Are Training AI Models for Pennies](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/)<!-- TECH:END -->
+ - [Google Camera now has a new name to give you next level Pixel envy](https://www.androidauthority.com/google-camera-pixel-camera-3376160/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
