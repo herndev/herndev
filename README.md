@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 16: $89 AirPods, $899 24-inch iMac, 14-inch MacBook Pro for $1,278, more](https://appleinsider.com/articles/23/10/16/daily-deals-oct-16-89-airpods-899-24-inch-imac-14-inch-macbook-pro-for-1278-more?utm_medium=rss)
- - [Bethesda Head of Publishing Pete Hines plans to leave after 24 years, just weeks after the release of Starfield, to begin an &quot;exciting new chapter&quot; &lpar;Victoria Kennedy/Eurogamer.net&rpar;](http://www.techmeme.com/231016/p17#a231016p17)
- - [Disney courts TikTokers with a card game and quizzes](https://www.theverge.com/2023/10/16/23919098/tiktok-disney-hub-partnership-disney100)<!-- TECH:END -->
+ - [LinkedIn lays off hundreds of employees for the second time this year](https://www.theverge.com/2023/10/16/23919241/linkedin-layoff-hundreds-employees-revenue)
+ - [LinkedIn plans to lay off nearly 700 staffers, mostly from its engineering teams, after cutting 716 jobs in May; source: LinkedIn is ramping up hiring in India &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231016/p19#a231016p19)
+ - [Following reports from Patreon users, analysis shows X slowing down traffic on links to Patreon, WhatsApp, and, at times Meta&#39;s Messenger, by ~2.5 seconds &lpar;The Markup&rpar;](http://www.techmeme.com/231016/p18#a231016p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
