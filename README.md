@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Still The Best-Selling Video Game Of All Time &lpar;It&#39;s Not Even Close&rpar;](https://kotaku.com/minecraft-live-2023-300-million-number-copies-sold-1850931010)
- - [League of Legends has a boy band now, &#39;a group of dynamic daredevils dedicated to unapologetic individuality and creative expression&#39;](https://www.pcgamer.com/league-of-legends-has-a-boy-band-now-a-group-of-dynamic-daredevils-dedicated-to-unapologetic-individuality-and-creative-expression)
- - [Cities: Skylines 2 devs warn players of performance problems: &#39;we have not achieved the benchmark we targeted&#39;](https://www.pcgamer.com/cities-skylines-2-devs-warn-players-of-performance-problems-we-have-not-achieved-the-benchmark-we-targeted)<!-- GAME:END -->
+ - [The Week In Games: What’s Coming Out Beyond Marvel&#39;s Spider-Man 2](https://kotaku.com/october-games-this-week-spider-man-2-mario-bros-wonder-1850930187)
+ - [World of Warcraft: Dragonflight’s next update adds an ancient realm players have wanted to explore for years](https://www.pcgamer.com/world-of-warcraft-dragonflights-next-update-adds-an-ancient-realm-players-have-wanted-to-explore-for-years)
+ - [Anime Fans Are Laughing At MJ&#39;s Botched &#39;Akira&#39; Slide In Spider-Man 2](https://kotaku.com/spiderman-2-mary-jane-watson-mj-akira-slide-ps5-1850931359)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
