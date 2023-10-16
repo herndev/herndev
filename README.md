@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - ⏩ [Are you ok?](http://9gag.com/gag/aQEKrmK)
- - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
+ - 💣 [Are you ok?](http://9gag.com/gag/aQEKrmK)
+ - ⏩ [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - 👉 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)<!-- MEMES:END -->
 
 ---
 
