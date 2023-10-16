@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)
- - [The Rick and Morty soundalikes weren’t the only voice swaps in the season 7 premiere](https://www.polygon.com/23919308/rick-morty-new-actors-season-7-premiere)
- - [Warhammer’s original setting officially returns to the tabletop in 2024](https://www.polygon.com/tabletop-games/23919185/warhammer-old-world-tabletop-game-release-2024-relaunch)<!-- GAME:END -->
+ - [Rick and Morty soundalikes, a Netflix mystery thriller, and more new TV this week](https://www.polygon.com/2023/10/16/23903002/netflix-new-tv-mystery-thriller-rick-morty-soundalikes-kristen-stewart-gay-ghost-show)
+ - [New Microsoft Flight Simulator DLC Adds Dune Buggies🤔](https://kotaku.com/microsoft-flight-sim-simulator-new-dlc-dune-buggy-utv-1850930215)
+ - [Xbox Insider Release Notes – Alpha &lpar;2311.231011-2000&rpar;](https://news.xbox.com/en-us/2023/10/16/xbox-insider-release-notes-alpha-2311-231011-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
