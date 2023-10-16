@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonks](http://9gag.com/gag/aA0751R)
- - ⏩ [The face of happiness](http://9gag.com/gag/aWGA506)
- - 👉 [Consultant at a pet store](http://9gag.com/gag/aDYL5oB)<!-- MEMES:END -->
+ - 💣 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
+ - ⏩ [Top notch safety video](http://9gag.com/gag/aBdMMBx)
+ - 👉 [Diversity is our strength](http://9gag.com/gag/a3ZDzW7)<!-- MEMES:END -->
 
 ---
 
