@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
- - ⏩ [Wait... I have seen this movie before](http://9gag.com/gag/anz3W7B)
- - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
+ - 💣 [Wonder how many times you have experienced this, women with crocodile arms acting as if they are going to pay at least for their own half but then use and abuse the man on a financial basis... In my 20s and 30s I&#39;ve seen this every time I was on a date, now I only pay for myself](http://9gag.com/gag/aqeOBP7)
+ - ⏩ [Beach creatures](http://9gag.com/gag/aqeOVVP)
+ - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
 
 ---
 
