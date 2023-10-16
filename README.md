@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The best](http://9gag.com/gag/aKEynvZ)
- - ⏩ [Hide yo grannies](http://9gag.com/gag/aoK6oB3)
- - 👉 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
+ - 💣 [Stonks](http://9gag.com/gag/aA0751R)
+ - ⏩ [The face of happiness](http://9gag.com/gag/aWGA506)
+ - 👉 [Consultant at a pet store](http://9gag.com/gag/aDYL5oB)<!-- MEMES:END -->
 
 ---
 
