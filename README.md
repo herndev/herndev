@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD&#39;s Fluid Motion Frames tech now works in any DX11 and DX12 game with any RX 7000 and RX 6000-series graphics card](https://www.pcgamer.com/amds-fluid-motion-frames-tech-now-works-in-any-dx11-and-dx12-game-with-any-rx-7000-and-rx-6000-series-graphics-card)
  - [Problem with Nvidia GeForce RTX 4090 Founders Edition turns out to be a literal bug trapped inside](https://www.pcgamer.com/problem-with-nvidia-geforce-rtx-4090-founders-edition-gpu-turns-out-to-be-a-literal-bug-trapped-inside)
- - [Here&#39;s a remarkably open-ended sci-fi RPG inspired by the classics](https://www.pcgamer.com/heres-a-remarkably-open-ended-rpg-inspired-by-the-classics)
- - [Wordle today: Hint and answer for #849 Monday, October 16](https://www.pcgamer.com/wordle-today-answer-849-october-16)<!-- GAME:END -->
+ - [Here&#39;s a remarkably open-ended sci-fi RPG inspired by the classics](https://www.pcgamer.com/heres-a-remarkably-open-ended-rpg-inspired-by-the-classics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
