@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another \u201cguy fights kangaroo to help free his dog\u201d video\u2026](http://9gag.com/gag/arm005y)
- - ⏩ [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 👉 [Top notch safety video](http://9gag.com/gag/aBdMMBx)<!-- MEMES:END -->
+ - 💣 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - ⏩ [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
+ - 👉 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)<!-- MEMES:END -->
 
 ---
 
