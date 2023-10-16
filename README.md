@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines 2 devs warn players of performance problems: &#39;we have not achieved the benchmark we targeted&#39;](https://www.pcgamer.com/cities-skylines-2-devs-warn-players-of-performance-problems-we-have-not-achieved-the-benchmark-we-targeted)
- - [Titanic’s 4K Blu-ray set is launching Dec. 5](https://www.polygon.com/deals/23919518/titanic-4k-blu-ray-pre-order-buy)
- - [Xbox Insider Release Notes – Beta &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/16/xbox-insider-release-notes-beta-2310-231012-2200/)<!-- GAME:END -->
+ - [Minecraft Still The Best-Selling Video Game Of All Time &lpar;It&#39;s Not Even Close&rpar;](https://kotaku.com/minecraft-live-2023-300-million-number-copies-sold-1850931010)
+ - [League of Legends has a boy band now, &#39;a group of dynamic daredevils dedicated to unapologetic individuality and creative expression&#39;](https://www.pcgamer.com/league-of-legends-has-a-boy-band-now-a-group-of-dynamic-daredevils-dedicated-to-unapologetic-individuality-and-creative-expression)
+ - [Cities: Skylines 2 devs warn players of performance problems: &#39;we have not achieved the benchmark we targeted&#39;](https://www.pcgamer.com/cities-skylines-2-devs-warn-players-of-performance-problems-we-have-not-achieved-the-benchmark-we-targeted)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
