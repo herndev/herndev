@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But noone was hurt. hes a good boy](http://9gag.com/gag/aWGAAX2)
- - ⏩ [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
- - 👉 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)<!-- MEMES:END -->
+ - 💣 [Another \u201cguy fights kangaroo to help free his dog\u201d video\u2026](http://9gag.com/gag/arm005y)
+ - ⏩ [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 👉 [Top notch safety video](http://9gag.com/gag/aBdMMBx)<!-- MEMES:END -->
 
 ---
 
