@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly 50% of Mac developers are including AI in their apps](https://appleinsider.com/articles/23/10/16/nearly-50-of-mac-developers-are-including-ai-in-their-apps?utm_medium=rss)
- - [10 Best Wireless Earbuds for Working Out &lpar;2023&rpar;](https://www.wired.com/gallery/best-wireless-workout-headphones/)
- - [None of Your Photos Are Real](https://www.wired.com/story/google-pixel-8-artificial-intelligence-photos/)<!-- TECH:END -->
+ - [Some influencers and CEOs are taking their brands to LinkedIn, enticed by less competition among creators, a committed user base, and a safer feel than X &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231016/p14#a231016p14)
+ - [MyQ garage door, Meross Christmas lights, &amp; MagSafe chargers on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/16/myq-garage-door-meross-christmas-lights-magsafe-chargers-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [A survey of 1,500 US adolescents: 51% spend at least four hours on social media apps daily; 13-year-olds spent 4.1 hours, rising to 5.8 hours for 17-year-olds &lpar;Jonathan Rothwell/Gallup&rpar;](http://www.techmeme.com/231016/p13#a231016p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
