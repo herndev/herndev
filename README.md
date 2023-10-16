@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail Netflix&#39;s deepening gaming push, as it expands to games for TVs and PCs, deals for 3rd-party games like GTA, and more mobile games for its shows &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231016/p20#a231016p20)
- - [The Galaxy Watch 5 Pro plunges to a record-low price of just $329](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-smartwatch-deal-3376321/)
- - [Wellbots Knocks Over $1,500 Off Select BirdBike E-Bikes     - CNET](https://www.cnet.com/roadshow/news/wellbots-knocks-over-1500-off-select-birdbike-e-bikes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yuzu guide: The best Nintendo Switch emulator for Android](https://www.androidauthority.com/yuzu-emulator-android-3330620/)
+ - [Binance halts user signups in the UK, after the FCA restricted a local partner&#39;s ability to approve communications for crypto companies with customers &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231016/p21#a231016p21)
+ - [Here’s when the Snapdragon 8 Gen 3 will launch](https://www.androidauthority.com/snapdragon-8-gen-3-launch-window-3376343/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
