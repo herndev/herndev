@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With the necromancer, Vermintide 2 is getting a pet class at last](https://www.pcgamer.com/with-the-necromancer-vermintide-2-is-getting-a-pet-class-at-last)
- - [Battlefield 2042 rode a free weekend and recent improvements to have a near-launch day player population on Steam](https://www.pcgamer.com/battlefield-2042-rode-a-free-weekend-and-recent-improvements-to-have-a-near-launch-day-player-population-on-steam)
- - [Baldur&#39;s Gate 3&#39;s voice actors can&#39;t get enough of their characters either, and have started making them playlists for our enjoyment](https://www.pcgamer.com/baldurs-gate-3s-voice-actors-cant-get-enough-of-their-characters-either-and-have-started-making-them-playlists-for-our-enjoyment)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 16, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-16-2023)
+ - [Manage your inventory to PvP glory in the demo of autobattler Backpack Battles](https://www.pcgamer.com/manage-your-inventory-to-pvp-glory-in-the-demo-of-autobattler-backpack-battles)
+ - [Minecraft 1.21: everything we know about the next major Minecraft update](https://www.pcgamer.com/minecraft-121-update-features-blocks-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
