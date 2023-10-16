@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Graphics card modder shows AIB vendors you really can have a dual slot RTX 4080](https://www.pcgamer.com/graphics-card-modder-shows-aib-vendors-you-really-can-have-a-dual-slot-rtx-4080)
- - [Van Gogh Museum forced to stop distributing special Pikachu cards after scalpers storm the gates: &#39;[we] take the safety and security of visitors and staff very seriously&#39;](https://www.pcgamer.com/van-gogh-museum-forced-to-stop-distributing-special-pikachu-cards-after-scalpers-storm-the-gates-we-take-the-safety-and-security-of-visitors-and-staff-very-seriously)
- - [Climate activists land devastating blow against big oil by disrupting minor Tekken tournament](https://www.pcgamer.com/climate-activists-land-devastating-blow-against-big-oil-by-disrupting-minor-tekken-tournament)<!-- GAME:END -->
+ - [AGGRO DR1FT is what would happen if 2009 Xbox Live voice chat made a movie](https://www.polygon.com/reviews/23916193/aggro-dr1ft-review-travis-scott-harmony-korine)
+ - [Pokémon Has A Reseller Problem, And It’s Only Getting Worse](https://kotaku.com/pokemon-scalper-reseller-trading-card-van-gogh-pikachu-1850925900)
+ - [Graphics card modder shows AIB vendors you really can have a dual slot RTX 4080](https://www.pcgamer.com/graphics-card-modder-shows-aib-vendors-you-really-can-have-a-dual-slot-rtx-4080)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
