@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn lays off hundreds of employees for the second time this year](https://www.theverge.com/2023/10/16/23919241/linkedin-layoff-hundreds-employees-revenue)
- - [LinkedIn plans to lay off nearly 700 staffers, mostly from its engineering teams, after cutting 716 jobs in May; source: LinkedIn is ramping up hiring in India &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231016/p19#a231016p19)
- - [Following reports from Patreon users, analysis shows X slowing down traffic on links to Patreon, WhatsApp, and, at times Meta&#39;s Messenger, by ~2.5 seconds &lpar;The Markup&rpar;](http://www.techmeme.com/231016/p18#a231016p18)<!-- TECH:END -->
+ - [Sources detail Netflix&#39;s deepening gaming push, as it expands to games for TVs and PCs, deals for 3rd-party games like GTA, and more mobile games for its shows &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231016/p20#a231016p20)
+ - [The Galaxy Watch 5 Pro plunges to a record-low price of just $329](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-smartwatch-deal-3376321/)
+ - [Wellbots Knocks Over $1,500 Off Select BirdBike E-Bikes     - CNET](https://www.cnet.com/roadshow/news/wellbots-knocks-over-1500-off-select-birdbike-e-bikes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
