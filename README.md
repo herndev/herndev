@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AGGRO DR1FT is what would happen if 2009 Xbox Live voice chat made a movie](https://www.polygon.com/reviews/23916193/aggro-dr1ft-review-travis-scott-harmony-korine)
- - [Pokémon Has A Reseller Problem, And It’s Only Getting Worse](https://kotaku.com/pokemon-scalper-reseller-trading-card-van-gogh-pikachu-1850925900)
- - [Graphics card modder shows AIB vendors you really can have a dual slot RTX 4080](https://www.pcgamer.com/graphics-card-modder-shows-aib-vendors-you-really-can-have-a-dual-slot-rtx-4080)<!-- GAME:END -->
+ - [Bethesda Exec Pete Hines Leaving Company After 24 Years](https://kotaku.com/pete-hines-bethesda-starfield-xbox-microsoft-activision-1850929539)
+ - [All Lords of the Fallen Rune Tablet locations](https://www.pcgamer.com/lords-of-the-fallen-rune-tablet-locations)
+ - [Intel&#39;s new 14th Gen chips are almost a carbon copy of its 13th Gen, fortunately including the price](https://www.pcgamer.com/intels-new-14th-gen-chips-are-almost-a-carbon-copy-of-its-13th-gen-fortunately-including-the-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
