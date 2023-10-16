@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - ⏩ [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
+ - 💣 [The face of happiness](http://9gag.com/gag/aWGA506)
+ - ⏩ [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
+ - 👉 [A man in Austria was out for a walk, doggo disappeared, found to be getting drowned by a kangaroo. Man punched kangaroo, which then attempted to drown him.](http://9gag.com/gag/aQEKbxq)<!-- MEMES:END -->
 
 ---
 
