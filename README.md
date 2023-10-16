@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York Times now offers daily hints for its Connections word game](https://www.theverge.com/2023/10/16/23919679/new-york-times-connections-companion-hints-help-difficulty)
- - [Biden campaign joins Donald Trump’s Truth Social platform](https://www.theverge.com/2023/10/16/23919770/trump-biden-truth-social-media-platform-gop-primary)
- - [Google Wallet’s new ‘Photo’ pass feature spotted on the Pixel 8 Pro](https://www.androidauthority.com/google-wallet-photo-feature-3376414/)<!-- TECH:END -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
