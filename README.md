@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Problem with Nvidia GeForce RTX 4090 Founders Edition turns out to be a literal bug trapped inside](https://www.pcgamer.com/problem-with-nvidia-geforce-rtx-4090-founders-edition-gpu-turns-out-to-be-a-literal-bug-trapped-inside)
  - [Here&#39;s a remarkably open-ended sci-fi RPG inspired by the classics](https://www.pcgamer.com/heres-a-remarkably-open-ended-rpg-inspired-by-the-classics)
- - [Wordle today: Hint and answer for #849 Monday, October 16](https://www.pcgamer.com/wordle-today-answer-849-october-16)
- - [Five new Steam games you probably missed &lpar;October 16, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-16-2023)<!-- GAME:END -->
+ - [Wordle today: Hint and answer for #849 Monday, October 16](https://www.pcgamer.com/wordle-today-answer-849-october-16)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
