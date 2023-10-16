@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel 8 series supports display output over USB-C despite what Google says](https://www.androidauthority.com/google-pixel-8-display-port-3376141/)
  - [Gary Gensler says it&#39;s &quot;nearly unavoidable&quot; that AI will cause a financial crisis if many institutions rely on the same underlying base model or data aggregator &lpar;Financial Times&rpar;](http://www.techmeme.com/231016/p1#a231016p1)
- - [Lakers legend Rick Fox built a house that can suck CO2 out of the atmosphere](https://www.theverge.com/2023/10/16/23916106/nba-lakers-rick-fox-concrete-alternative-house-partanna-climate-change)
- - [Australia fined X ~$384K and warned Google after the companies didn&#39;t give enough info about their efforts to fight CSAM despite a law requiring the disclosure &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/231015/p8#a231015p8)<!-- TECH:END -->
+ - [Lakers legend Rick Fox built a house that can suck CO2 out of the atmosphere](https://www.theverge.com/2023/10/16/23916106/nba-lakers-rick-fox-concrete-alternative-house-partanna-climate-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
