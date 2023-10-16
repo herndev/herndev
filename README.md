@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - ⏩ [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 👉 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)<!-- MEMES:END -->
+ - 💣 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
+ - ⏩ [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
+ - 👉 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
 
 ---
 
