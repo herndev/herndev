@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda Exec Pete Hines Leaving Company After 24 Years](https://kotaku.com/pete-hines-bethesda-starfield-xbox-microsoft-activision-1850929539)
- - [All Lords of the Fallen Rune Tablet locations](https://www.pcgamer.com/lords-of-the-fallen-rune-tablet-locations)
- - [Intel&#39;s new 14th Gen chips are almost a carbon copy of its 13th Gen, fortunately including the price](https://www.pcgamer.com/intels-new-14th-gen-chips-are-almost-a-carbon-copy-of-its-13th-gen-fortunately-including-the-price)<!-- GAME:END -->
+ - [Analogue’s next console plays Nintendo 64 games in 4K](https://www.polygon.com/23919250/nintendo-64-4k-analogue-3d)
+ - [Minecraft is the first videogame ever to sell more than 300 million copies](https://www.pcgamer.com/minecraft-is-the-first-videogame-ever-to-sell-more-than-300-million-copies)
+ - [The Best Retro Console Creators Are Making A Nintendo 64](https://kotaku.com/nintendo-64-n64-mini-classic-analogue-3d-price-retro-1850929634)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
