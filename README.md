@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - ⏩ [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
- - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
+ - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - ⏩ [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
+ - 👉 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)<!-- MEMES:END -->
 
 ---
 
