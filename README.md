@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;October 16, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-16-2023)
- - [Manage your inventory to PvP glory in the demo of autobattler Backpack Battles](https://www.pcgamer.com/manage-your-inventory-to-pvp-glory-in-the-demo-of-autobattler-backpack-battles)
- - [Minecraft 1.21: everything we know about the next major Minecraft update](https://www.pcgamer.com/minecraft-121-update-features-blocks-release-date)<!-- GAME:END -->
+ - [Here&#39;s a remarkably open-ended sci-fi RPG inspired by the classics](https://www.pcgamer.com/heres-a-remarkably-open-ended-rpg-inspired-by-the-classics)
+ - [Wordle today: Hint and answer for #849 Monday, October 16](https://www.pcgamer.com/wordle-today-answer-849-october-16)
+ - [Five new Steam games you probably missed &lpar;October 16, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-16-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
