@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Starfield lead quest designer leaves Bethesda to work on the open-world RPG Wyrdsong](https://www.pcgamer.com/starfield-lead-quest-designer-leaves-bethesda-to-work-on-the-open-world-rpg-wyrdsong)
  - [The Week In Games: What’s Coming Out Beyond Marvel&#39;s Spider-Man 2](https://kotaku.com/october-games-this-week-spider-man-2-mario-bros-wonder-1850930187)
- - [World of Warcraft: Dragonflight’s next update adds an ancient realm players have wanted to explore for years](https://www.pcgamer.com/world-of-warcraft-dragonflights-next-update-adds-an-ancient-realm-players-have-wanted-to-explore-for-years)
- - [Anime Fans Are Laughing At MJ&#39;s Botched &#39;Akira&#39; Slide In Spider-Man 2](https://kotaku.com/spiderman-2-mary-jane-watson-mj-akira-slide-ps5-1850931359)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight’s next update adds an ancient realm players have wanted to explore for years](https://www.pcgamer.com/world-of-warcraft-dragonflights-next-update-adds-an-ancient-realm-players-have-wanted-to-explore-for-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
