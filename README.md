@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
- - ⏩ [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 👉 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)<!-- MEMES:END -->
+ - 💣 [The best](http://9gag.com/gag/aKEynvZ)
+ - ⏩ [Hide yo grannies](http://9gag.com/gag/aoK6oB3)
+ - 👉 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
 
 ---
 
