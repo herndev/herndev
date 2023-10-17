@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imho](http://9gag.com/gag/aYVBXyw)
- - ⏩ [That was literally the most perfect way to explain the makeup on women](http://9gag.com/gag/aoK6QjX)
- - 👉 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)<!-- MEMES:END -->
+ - 💣 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - ⏩ [When that 11 year old gamer really does end up f**king your mom...](http://9gag.com/gag/aZDKO7V)
+ - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
 
 ---
 
