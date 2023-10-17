@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s H800 AI chip for China is blocked by new export rules](https://www.theverge.com/2023/10/17/23921131/us-china-restrictions-ai-chip-sales-nvidia)
- - [Nvidia banking on TensorRT to expand generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
- - [Updated 24-inch iMac expected in 2024, 32-inch iMac in 2025](https://appleinsider.com/articles/23/10/17/updated-24-inch-imac-expected-in-2024-32-inch-imac-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Google is rolling out Wear OS 4 to the original Pixel Watch](https://www.theverge.com/2023/10/17/23921354/google-wearos-4-pixel-watch-original)
+ - [Apple Vision Pro labs coming to New York City and Sydney in November](https://appleinsider.com/articles/23/10/17/apple-vision-pro-labs-coming-to-new-york-city-and-sydney-in-november?utm_medium=rss)
+ - [Xbox chief says Activision Blizzard games aren’t coming to Xbox Game Pass until 2024](https://www.theverge.com/2023/10/17/23921422/xbox-game-pass-activision-blizzard-games-2024-phil-spencer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
