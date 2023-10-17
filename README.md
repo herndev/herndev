@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the Race to Crush Paris’ Bedbug Crisis](https://www.wired.com/story/paris-bed-bugs/)
  - [Stand.earth: Apple is ahead of Microsoft, Google, Nvidia, Dell, and HP in climate initiatives and is the only one that has renewable targets for its suppliers &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231017/p2#a231017p2)
- - [Xiaomi unveils HyperOS, an Android-based operating system set to debut with Xiaomi 14 series smartphones and gradually replace the company&#39;s 13-year-old MIUI OS &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/231017/p1#a231017p1)
- - [WhatsApp for Android enables passwordless logins with Passkeys support](https://www.androidauthority.com/whatsapp-passkeys-support-3376637/)<!-- TECH:END -->
+ - [Xiaomi unveils HyperOS, an Android-based operating system set to debut with Xiaomi 14 series smartphones and gradually replace the company&#39;s 13-year-old MIUI OS &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/231017/p1#a231017p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
