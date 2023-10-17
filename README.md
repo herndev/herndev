@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 💣 [Good for him](http://9gag.com/gag/awZDpg4)
  - ⏩ [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
+ - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
 
 ---
 
