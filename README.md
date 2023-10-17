@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [These were the 10 most-played demos on Steam this month](https://www.pcgamer.com/popular-steam-demos-october-2023)
  - [Super Mario Bros. Wonder’s Goombas Actually Bite, Just Like Miyamoto Always Wanted](https://kotaku.com/super-mario-bros-wonder-s-goombas-actually-bite-just-1850935650)
- - [Epic Games&#39; Messy Bandcamp Sale Ends With Mass Layoffs [Update]](https://kotaku.com/epic-games-bandcamp-layoffs-songtradr-fortnite-music-1850931222)
- - [Xbox Boss Says There&#39;s No &#39;Secret&#39; Call Of Duty Drop Coming To Game Pass In 2023](https://kotaku.com/call-duty-modern-warfare-3-diablo-4-xbox-game-pass-mwii-1850935619)<!-- GAME:END -->
+ - [Epic Games&#39; Messy Bandcamp Sale Ends With Mass Layoffs [Update]](https://kotaku.com/epic-games-bandcamp-layoffs-songtradr-fortnite-music-1850931222)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
