@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&#39; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)
- - [Release candidates for iOS 16.7.2 and iPadOS 16.7.2 updates out now](https://appleinsider.com/articles/23/10/17/release-candidates-for-ios-1672-and-ipados-1672-updates-out-now?utm_medium=rss)
- - [Reddit is killing blockchain-based Community Points, launched in 2020 as a way to reward creators and devs, citing the regulatory environment and scaling issues &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/231017/p34#a231017p34)<!-- TECH:END -->
+ - [Daily deals Oct. 17: $170 off M2 MacBook Air, $69 off AirPods Max, Samsung 43&quot; M7 monitor $349, more](https://appleinsider.com/articles/23/10/17/daily-deals-oct-17-170-off-m2-macbook-air-69-off-airpods-max-samsung-43-m7-monitor-349-more?utm_medium=rss)
+ - [Prime Members Can Save Up to 62% on Funko Pop Figures, Games and Accessories     - CNET](https://www.cnet.com/deals/prime-members-can-save-up-to-62-on-funko-pop-figures-games-and-accessories/#ftag=CAD590a51e)
+ - [Similarweb: X&#39;s global monthly website traffic declined 14% YoY in September, US traffic dropped 19% YoY, while traffic to Musk&#39;s profile page was up 96% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p36#a231017p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
