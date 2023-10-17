@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Diablo 4 season 2 start?](https://www.polygon.com/diablo-4-guides/23919067/season-2-release-time-date)
- - [Fortnite put a whole other dang game in Fortnite](https://www.polygon.com/23921047/fortnite-alan-wake-flashback-recap)
- - [Elite Dangerous studio Frontier Developments announces layoffs &#39;following a period of disappointing financial performance&#39;](https://www.pcgamer.com/elite-dangerous-studio-frontier-developments-announces-layoffs-following-a-period-of-disappointing-financial-performance)<!-- GAME:END -->
+ - [Post Malone is coming to Apex Legends for &#39;two weeks of mayhem,&#39; may God help us all](https://www.pcgamer.com/post-malone-is-coming-to-apex-legends-for-two-weeks-of-mayhem-may-god-help-us-all)
+ - [Before Alan Wake 2, Check Out This Creepy Fortnite Recap](https://kotaku.com/fortnite-alan-wake-2-flashback-recap-epic-remedy-1850935306)
+ - [The new RoboCop game might just get what makes RoboCop great](https://www.polygon.com/23921290/robocop-rogue-city-release-date-demo-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
