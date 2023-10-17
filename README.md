@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Streaming for PlayStation Plus Premium members launches starting today in Japan; Europe and North America to follow](https://blog.playstation.com/2023/10/16/ps5-streaming-for-playstation-plus-premium-members-launches-starting-today-in-japan-europe-and-north-america-to-follow/)
- - [PS5 Streaming for PlayStation Plus Premium members launches starting today in Japan; Europe and North America to follow](https://blog.playstation.com/2023/10/16/ps5-streaming-for-playstation-plus-premium-members-launches-starting-today-in-japan-europe-and-north-america-to-follow/)
- - [Disney Plus is making a live-action Gargoyles series, skeptical question mark?](https://www.polygon.com/23920015/live-action-gargoyles-tv-show-disney-plus-annabelle-conjuring)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; New look for PS5 console later this year](https://blog.playstation.com/2023/10/16/20231016-ps5/)
+ - [Wordle today: Hint and answer #850 for Tuesday, October 17](https://www.pcgamer.com/wordle-today-answer-850-october-17)
+ - [PS5 Streaming for PlayStation Plus Premium members launches starting today in Japan; Europe and North America to follow](https://blog.playstation.com/2023/10/16/ps5-streaming-for-playstation-plus-premium-members-launches-starting-today-in-japan-europe-and-north-america-to-follow/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
