@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Omega &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/17/xbox-insider-release-notes-omega-2310-231012-2200/)
- - [Xbox Insider Release Notes – Delta &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/17/xbox-insider-release-notes-delta-2310-231012-2200/)
- - [GTA VI Superfans Hopeful The Big Reveal Is Imminent &lpar;Again&rpar;](https://kotaku.com/rockstar-games-gta-6-release-date-trailer-leaks-reddit-1850934364)<!-- GAME:END -->
+ - [Blizzard Deletes Error-Filled Diablo IV Trailer [Update]](https://kotaku.com/diablo-4-season-2-trailer-xp-blood-calculated-patch-1850933282)
+ - [T-Mobile member? Get a $5 ticket to Killers of the Flower Moon](https://www.polygon.com/deals/23921167/killers-of-the-flower-moon-t-mobile-tuesdays-ticket-deal)
+ - [What time does Diablo 4 season 2 start?](https://www.polygon.com/diablo-4-guides/23919067/season-2-release-time-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
