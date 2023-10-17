@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp plans to roll out passkeys to all Android users in the coming months to replace passwords; support for passkeys on WhatsApp for iOS is unclear &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/231017/p5#a231017p5)
- - [Ray-Ban Meta Smart Glasses review: sleek charging case and better audio and camera, but feels like a novelty, Meta AI isn&#39;t useful yet, and limited ecosystem &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p4#a231017p4)
- - [A look at sexism in the video games industry; State of the Game Industry 2023 report: ~23% are women, up from 20% in 2022, 5% are non-binary, and 70% are men &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231017/p3#a231017p3)<!-- TECH:END -->
+ - [Speed test results reveal fastest internet carrier and smartphone in the US](https://www.androidauthority.com/fastest-mobile-carrier-internet-smartphone-us-3376634/)
+ - [The FTX estate floats an amended proposal to return up to 90% of creditor holdings, divided into three pools, and plans to formally file the plan by December 16 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231017/p8#a231017p8)
+ - [US v. SBF: Nishad Singh says SBF used customer funds for spending sprees that &quot;reeked of excess&quot; and he learned of an $8B hole two months before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p7#a231017p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
