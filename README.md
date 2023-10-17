@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is funny af](http://9gag.com/gag/adPMw2V)
- - ⏩ [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
+ - 💣 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
+ - ⏩ [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - 👉 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)<!-- MEMES:END -->
 
 ---
 
