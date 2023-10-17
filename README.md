@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is rolling out Wear OS 4 to the original Pixel Watch](https://www.theverge.com/2023/10/17/23921354/google-wearos-4-pixel-watch-original)
- - [Apple Vision Pro labs coming to New York City and Sydney in November](https://appleinsider.com/articles/23/10/17/apple-vision-pro-labs-coming-to-new-york-city-and-sydney-in-november?utm_medium=rss)
- - [Xbox chief says Activision Blizzard games aren’t coming to Xbox Game Pass until 2024](https://www.theverge.com/2023/10/17/23921422/xbox-game-pass-activision-blizzard-games-2024-phil-spencer)<!-- TECH:END -->
+ - [Chrome on iOS and Android will now detect URL typos](https://www.theverge.com/2023/10/17/23921281/chrome-ios-android-url-typos-accessibility-google-maps)
+ - [Dead Space is coming to Xbox Game Pass just in time for Halloween](https://www.theverge.com/2023/10/17/23921535/dead-space-remake-xbox-game-pass-halloween)
+ - [Reddit’s blockchain-based Community Points are going away](https://www.theverge.com/2023/10/17/23921437/reddit-crypto-rugpull-community-points)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
