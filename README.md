@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bandcamp lays off about 50% of its workforce, or 58 employees, just weeks after the company was acquired by Songtradr from Epic Games &lpar;Stephen Council/SFGATE&rpar;](http://www.techmeme.com/231016/p28#a231016p28)
- - [Sam Bankman-Fried was a bad friend, too](https://www.theverge.com/2023/10/16/23920125/sam-bankman-fried-nishad-singh-testimony-ftx-trial)
- - [Pixel 6 owners who use multiple profiles run into problems with Android 14](https://www.theverge.com/2023/10/16/23919957/pixel-6-android-14-upgrade-bugs-multiple-user-profiles)<!-- TECH:END -->
+ - [Apple Store online officially launches in Chile](https://appleinsider.com/articles/23/10/17/apple-store-online-officially-launches-in-chile?utm_medium=rss)
+ - [Marc Andreessen&#39;s &quot;Techno-Optimist Manifesto&quot; lists &quot;enemies&quot; such as trust and safety and tech ethics, says AI is &quot;our Philosopher&#39;s Stone&quot;, and more &lpar;Rachyl Jones/Fortune&rpar;](http://www.techmeme.com/231016/p30#a231016p30)
+ - [As Telegram allows Hamas to use its service, CEO Pavel Durov says Telegram channels are a &quot;source of first-hand information&quot; for researchers and journalists &lpar;CNN&rpar;](http://www.techmeme.com/231016/p29#a231016p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
