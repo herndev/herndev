@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - ⏩ [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 👉 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)<!-- MEMES:END -->
+ - 💣 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
+ - ⏩ [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)
+ - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
 
 ---
 
