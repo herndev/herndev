@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Plus is making a live-action Gargoyles series, skeptical question mark?](https://www.polygon.com/23920015/live-action-gargoyles-tv-show-disney-plus-annabelle-conjuring)
- - [Whoops: Blizzard leaked the name of the next Hearthstone expansion through its own online store](https://www.pcgamer.com/whoops-blizzard-leaked-the-name-of-the-next-hearthstone-expansion-through-its-own-online-store)
- - [Cities: Skylines 2 won&#39;t use Steam Workshop for mod sharing](https://www.pcgamer.com/cities-skylines-2-wont-use-steam-workshop-for-mod-sharing)<!-- GAME:END -->
+ - [PS5 Streaming for PlayStation Plus Premium members launches starting today in Japan; Europe and North America to follow](https://blog.playstation.com/2023/10/16/ps5-streaming-for-playstation-plus-premium-members-launches-starting-today-in-japan-europe-and-north-america-to-follow/)
+ - [PS5 Streaming for PlayStation Plus Premium members launches starting today in Japan; Europe and North America to follow](https://blog.playstation.com/2023/10/16/ps5-streaming-for-playstation-plus-premium-members-launches-starting-today-in-japan-europe-and-north-america-to-follow/)
+ - [Disney Plus is making a live-action Gargoyles series, skeptical question mark?](https://www.polygon.com/23920015/live-action-gargoyles-tv-show-disney-plus-annabelle-conjuring)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
