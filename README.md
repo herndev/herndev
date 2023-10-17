@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is what Game Mode does to your Mac](https://appleinsider.com/articles/23/10/17/this-is-what-game-mode-does-to-your-mac?utm_medium=rss)
- - [How the Israeli military uses mobile phone data from the ~1.1M residents of Gaza to track their movements and assess how many heeded Israel&#39;s demand to leave &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p15#a231017p15)
- - [ScyllaDB, a NoSQL database startup working on high-throughput, low-latency workloads, raised $43M led by Eight Roads Ventures, taking its total funding to $103M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231017/p14#a231017p14)<!-- TECH:END -->
+ - [Elgato’s new $279.99 Prompter is an all-in-one teleprompter and extra monitor](https://www.theverge.com/2023/10/17/23920498/elgato-prompter-teleprompter-monitor-release-date-price)
+ - [There’s no way you’ll miss YouTube’s like and subscribe buttons now](https://www.theverge.com/2023/10/17/23920088/youtube-like-subscribe-button-animations)
+ - [Ecobee Smart Doorbell Camera review: even better with the thermostat](https://www.theverge.com/23919864/ecobee-smart-doorbell-camera-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
