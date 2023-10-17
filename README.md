@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
- - ⏩ [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 💣 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
+ - ⏩ [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
  - 👉 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)<!-- MEMES:END -->
 
 ---
