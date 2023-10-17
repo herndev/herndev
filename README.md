@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good for him](http://9gag.com/gag/awZDpg4)
- - ⏩ [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
+ - 💣 [Step 1: Get a duck](http://9gag.com/gag/arm0L2y)
+ - ⏩ [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
+ - 👉 [From the archives 03](http://9gag.com/gag/aeQEnxp)<!-- MEMES:END -->
 
 ---
 
