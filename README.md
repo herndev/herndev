@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Step 1: Get a duck](http://9gag.com/gag/arm0L2y)
- - ⏩ [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - 👉 [From the archives 03](http://9gag.com/gag/aeQEnxp)<!-- MEMES:END -->
+ - 💣 [Legend lives on](http://9gag.com/gag/aA078r2)
+ - ⏩ [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
+ - 👉 [I am so proud if this community!](http://9gag.com/gag/aME6obM)<!-- MEMES:END -->
 
 ---
 
