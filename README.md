@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How one gun company partnered with Call of Duty to attract &#39;young potential shooters&#39;](https://www.pcgamer.com/how-one-gun-company-partnered-with-call-of-duty-to-attract-young-potential-shooters)
- - [Blizzard Deletes Error-Filled Diablo IV Trailer](https://kotaku.com/diablo-4-season-2-trailer-xp-blood-calculated-patch-1850933282)
- - [What is Party Play in Pokémon Go? How to start, Party Power explained](https://www.polygon.com/pokemon-go-guide/23918919/party-play-party-power-damage-co-op-multiplayer-bonus)<!-- GAME:END -->
+ - [SpiderHeck Just Got Cross-Platform Support: Learn How to Become a Particle Blade-Wielding Master](https://news.xbox.com/en-us/2023/10/17/spiderheck-cross-platform-support/)
+ - [Valve doesn&#39;t sell ad space on Steam so it can make room for surprise hits: &#39;We don&#39;t think Steam should be pay-to-win&#39;](https://www.pcgamer.com/valve-doesnt-sell-ad-space-on-steam-so-it-can-make-room-for-surprise-hits-we-dont-think-steam-should-be-pay-to-win)
+ - [Final Fantasy 14 players interviewed over 80 of their fellow adventurers to craft a heartwarming first-timer&#39;s guide to roleplaying with anxiety](https://www.pcgamer.com/final-fantasy-14-players-interviewed-over-80-of-their-fellow-adventurers-to-craft-a-heartwarming-first-timers-guide-to-roleplaying-with-anxiety)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
