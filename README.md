@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dev says CD Projekt morale &#39;took a significant hit&#39; after Cyberpunk&#39;s launch, but it won&#39;t repeat mistakes with the next Witcher](https://www.pcgamer.com/dev-says-cd-projekt-morale-took-a-significant-hit-after-cyberpunks-launch-but-it-wont-repeat-mistakes-with-the-next-witcher)
- - [The Dead Space remake heads up a great two weeks for Game Pass](https://www.polygon.com/23920869/game-pass-new-games-october-2023)
- - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Omega &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/17/xbox-insider-release-notes-omega-2310-231012-2200/)
+ - [Xbox Insider Release Notes – Delta &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/17/xbox-insider-release-notes-delta-2310-231012-2200/)
+ - [GTA VI Superfans Hopeful The Big Reveal Is Imminent &lpar;Again&rpar;](https://kotaku.com/rockstar-games-gta-6-release-date-trailer-leaks-reddit-1850934364)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
