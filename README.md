@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Pumpkaboo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889444/can-pumpkaboo-be-shiny-gourgeist)
- - [&lpar;For Southeast Asia&rpar; New look for PS5 console later this year](https://blog.playstation.com/2023/10/16/20231016-ps5/)
- - [&lpar;For Southeast Asia&rpar; New look for PS5 console later this year](https://blog.playstation.com/2023/10/16/20231016-ps5/)<!-- GAME:END -->
+ - [My V in Cyberpunk 2077 has absolutely no game at all, and I kind of love him for it](https://www.pcgamer.com/my-v-in-cyberpunk-2077-has-absolutely-no-game-at-all-and-i-kind-of-love-him-for-it)
+ - [Asus adds new DDR5 overclocking option to Z790 ROG motherboards for hunting down more fps and better stability](https://www.pcgamer.com/asus-adds-new-ddr5-overclocking-option-to-z790-rog-motherboards-for-hunting-down-more-fps-and-better-stability)
+ - [Can Pumpkaboo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889444/can-pumpkaboo-be-shiny-gourgeist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
