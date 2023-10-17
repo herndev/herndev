@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML says new updates to US export curbs designed to block China&#39;s access to highly advanced chip tech will lower its Chinese sales in the medium to long term &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231017/p29#a231017p29)
- - [Shop Big Savings on New and Refurb Amazon Devices Right Now at Woot     - CNET](https://www.cnet.com/deals/shop-big-savings-new-refurb-amazon-devices-woot/#ftag=CAD590a51e)
- - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&quot; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube audio will no longer be a rollercoaster of volumes](https://www.androidauthority.com/youtube-features-rollout-3376867/)
+ - [Across the Spider-Verse hits Netflix this October](https://www.theverge.com/23920975/across-the-spider-verse-netflix-october-release-date)
+ - [Remember the Galaxy Buds Live? You can now get a pair for $60](https://www.androidauthority.com/samsung-galaxy-buds-live-deal-3376890/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
