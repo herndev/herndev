@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
- - ⏩ [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)
- - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
+ - ⏩ [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
+ - 👉 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)<!-- MEMES:END -->
 
 ---
 
