@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Post Malone is coming to Apex Legends for &#39;two weeks of mayhem,&#39; may God help us all](https://www.pcgamer.com/post-malone-is-coming-to-apex-legends-for-two-weeks-of-mayhem-may-god-help-us-all)
- - [Before Alan Wake 2, Check Out This Creepy Fortnite Recap](https://kotaku.com/fortnite-alan-wake-2-flashback-recap-epic-remedy-1850935306)
- - [The new RoboCop game might just get what makes RoboCop great](https://www.polygon.com/23921290/robocop-rogue-city-release-date-demo-impressions)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder’s Goombas Actually Bite, Just Like Miyamoto Always Wanted](https://kotaku.com/super-mario-bros-wonder-s-goombas-actually-bite-just-1850935650)
+ - [Epic Games&#39; Messy Bandcamp Sale Ends With Mass Layoffs [Update]](https://kotaku.com/epic-games-bandcamp-layoffs-songtradr-fortnite-music-1850931222)
+ - [Xbox Boss Says There&#39;s No &#39;Secret&#39; Call Of Duty Drop Coming To Game Pass In 2023](https://kotaku.com/call-duty-modern-warfare-3-diablo-4-xbox-game-pass-mwii-1850935619)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
