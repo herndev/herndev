@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube audio will no longer be a rollercoaster of volumes](https://www.androidauthority.com/youtube-features-rollout-3376867/)
- - [Across the Spider-Verse hits Netflix this October](https://www.theverge.com/23920975/across-the-spider-verse-netflix-october-release-date)
- - [Remember the Galaxy Buds Live? You can now get a pair for $60](https://www.androidauthority.com/samsung-galaxy-buds-live-deal-3376890/)<!-- TECH:END -->
+ - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&#39; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)
+ - [Release candidates for iOS 16.7.2 and iPadOS 16.7.2 updates out now](https://appleinsider.com/articles/23/10/17/release-candidates-for-ios-1672-and-ipados-1672-updates-out-now?utm_medium=rss)
+ - [Reddit is killing blockchain-based Community Points, launched in 2020 as a way to reward creators and devs, citing the regulatory environment and scaling issues &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/231017/p34#a231017p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
