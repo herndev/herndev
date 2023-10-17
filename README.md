@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 17: $170 off M2 MacBook Air, $69 off AirPods Max, Samsung 43&quot; M7 monitor $349, more](https://appleinsider.com/articles/23/10/17/daily-deals-oct-17-170-off-m2-macbook-air-69-off-airpods-max-samsung-43-m7-monitor-349-more?utm_medium=rss)
- - [Prime Members Can Save Up to 62% on Funko Pop Figures, Games and Accessories     - CNET](https://www.cnet.com/deals/prime-members-can-save-up-to-62-on-funko-pop-figures-games-and-accessories/#ftag=CAD590a51e)
- - [Similarweb: X&#39;s global monthly website traffic declined 14% YoY in September, US traffic dropped 19% YoY, while traffic to Musk&#39;s profile page was up 96% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p36#a231017p36)<!-- TECH:END -->
+ - [Nvidia’s H800 AI chip for China is blocked by new export rules](https://www.theverge.com/2023/10/17/23921131/us-china-restrictions-ai-chip-sales-nvidia)
+ - [Nvidia banking on TensorRT to expand generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
+ - [Updated 24-inch iMac expected in 2024, 32-inch iMac in 2025](https://appleinsider.com/articles/23/10/17/updated-24-inch-imac-expected-in-2024-32-inch-imac-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
