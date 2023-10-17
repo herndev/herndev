@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elgato’s new $279.99 Prompter is an all-in-one teleprompter and extra monitor](https://www.theverge.com/2023/10/17/23920498/elgato-prompter-teleprompter-monitor-release-date-price)
- - [There’s no way you’ll miss YouTube’s like and subscribe buttons now](https://www.theverge.com/2023/10/17/23920088/youtube-like-subscribe-button-animations)
- - [Ecobee Smart Doorbell Camera review: even better with the thermostat](https://www.theverge.com/23919864/ecobee-smart-doorbell-camera-review)<!-- TECH:END -->
+ - [Binance.US updates its terms of use to stop dollar withdrawals, saying users must convert &quot;US dollar funds to stablecoin or other digital assets&quot; &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/231017/p23#a231017p23)
+ - [The world’s power grids, 50 million miles’ worth, need a major overhaul](https://www.theverge.com/23920599/electricity-power-grid-report-climate-international-energy-agency)
+ - [A brighter, longer-lasting display could come to Galaxy watches](https://www.androidauthority.com/samsung-micro-led-screens-smartwatches-3376783/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
