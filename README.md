@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
- - ⏩ [Me too](http://9gag.com/gag/a04Gg0Z)
- - 👉 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)<!-- MEMES:END -->
+ - 💣 [Imho](http://9gag.com/gag/aYVBXyw)
+ - ⏩ [That was literally the most perfect way to explain the makeup on women](http://9gag.com/gag/aoK6QjX)
+ - 👉 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)<!-- MEMES:END -->
 
 ---
 
