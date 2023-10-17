@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Deletes Error-Filled Diablo IV Trailer [Update]](https://kotaku.com/diablo-4-season-2-trailer-xp-blood-calculated-patch-1850933282)
- - [T-Mobile member? Get a $5 ticket to Killers of the Flower Moon](https://www.polygon.com/deals/23921167/killers-of-the-flower-moon-t-mobile-tuesdays-ticket-deal)
- - [What time does Diablo 4 season 2 start?](https://www.polygon.com/diablo-4-guides/23919067/season-2-release-time-date)<!-- GAME:END -->
+ - [What time does Diablo 4 season 2 start?](https://www.polygon.com/diablo-4-guides/23919067/season-2-release-time-date)
+ - [Fortnite put a whole other dang game in Fortnite](https://www.polygon.com/23921047/fortnite-alan-wake-flashback-recap)
+ - [Elite Dangerous studio Frontier Developments announces layoffs &#39;following a period of disappointing financial performance&#39;](https://www.pcgamer.com/elite-dangerous-studio-frontier-developments-announces-layoffs-following-a-period-of-disappointing-financial-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
