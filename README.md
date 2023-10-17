@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
- - ⏩ [Good for him](http://9gag.com/gag/awZDpg4)
- - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
+ - 💣 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
+ - ⏩ [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
+ - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
 
 ---
 
