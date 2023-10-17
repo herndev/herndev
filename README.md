@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My V in Cyberpunk 2077 has absolutely no game at all, and I kind of love him for it](https://www.pcgamer.com/my-v-in-cyberpunk-2077-has-absolutely-no-game-at-all-and-i-kind-of-love-him-for-it)
- - [Asus adds new DDR5 overclocking option to Z790 ROG motherboards for hunting down more fps and better stability](https://www.pcgamer.com/asus-adds-new-ddr5-overclocking-option-to-z790-rog-motherboards-for-hunting-down-more-fps-and-better-stability)
- - [Can Pumpkaboo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889444/can-pumpkaboo-be-shiny-gourgeist)<!-- GAME:END -->
+ - [This Week’s Xbox Sales and Specials, Including the Shocktober Sale](https://news.xbox.com/en-us/2023/10/17/this-weeks-xbox-sales-and-specials-including-the-shocktober-sale/)
+ - [AMD yeets its latest GPU driver in response to Anti-Lag+ causing bans in Counter-Strike 2](https://www.pcgamer.com/amd-yeets-its-latest-gpu-driver-in-response-to-anti-lag-causing-bans-in-counter-strike-2)
+ - [Arcane is officially canon, and from now on League of Legends lore is going to stop contradicting itself all over the place, say Riot](https://www.pcgamer.com/arcane-is-officially-canon-and-from-now-on-league-of-legends-lore-is-going-to-stop-contradicting-itself-all-over-the-place-say-riot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
