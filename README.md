@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance.US updates its terms of use to stop dollar withdrawals, saying users must convert &quot;US dollar funds to stablecoin or other digital assets&quot; &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/231017/p23#a231017p23)
- - [The world’s power grids, 50 million miles’ worth, need a major overhaul](https://www.theverge.com/23920599/electricity-power-grid-report-climate-international-energy-agency)
- - [A brighter, longer-lasting display could come to Galaxy watches](https://www.androidauthority.com/samsung-micro-led-screens-smartwatches-3376783/)<!-- TECH:END -->
+ - [Elgato will disrupt the teleprompter market with its $280 Prompter](https://appleinsider.com/articles/23/10/17/elgato-will-disrupt-the-teleprompter-market-with-its-280-prompter?utm_medium=rss)
+ - [Netflix plans to air a &quot;Netflix Cup&quot; golf tournament on Nov. 14, its first live sports event, with &quot;Drive to Survive&quot; Formula 1 drivers and &quot;Full Swing&quot; golfers &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231017/p26#a231017p26)
+ - [The iPhone isn’t the most popular phone in China anymore thanks to HUAWEI](https://www.androidauthority.com/iphone-china-market-huawei-2023-3376834/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
