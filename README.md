@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SpiderHeck Just Got Cross-Platform Support: Learn How to Become a Particle Blade-Wielding Master](https://news.xbox.com/en-us/2023/10/17/spiderheck-cross-platform-support/)
- - [Valve doesn&#39;t sell ad space on Steam so it can make room for surprise hits: &#39;We don&#39;t think Steam should be pay-to-win&#39;](https://www.pcgamer.com/valve-doesnt-sell-ad-space-on-steam-so-it-can-make-room-for-surprise-hits-we-dont-think-steam-should-be-pay-to-win)
- - [Final Fantasy 14 players interviewed over 80 of their fellow adventurers to craft a heartwarming first-timer&#39;s guide to roleplaying with anxiety](https://www.pcgamer.com/final-fantasy-14-players-interviewed-over-80-of-their-fellow-adventurers-to-craft-a-heartwarming-first-timers-guide-to-roleplaying-with-anxiety)<!-- GAME:END -->
+ - [10 horror directors reveal the scariest movies they ever saw](https://www.polygon.com/23919490/scariest-movies-of-all-time-according-to-horror-directors)
+ - [The Best Samurai Game Of 2023 Is On Game Pass](https://kotaku.com/ishin-like-a-dragon-game-pass-october-2023-persona-xbox-1850933564)
+ - [Xbox Continues to Champion the Gaming &amp; Disability Community with New Accessibility Updates](https://news.xbox.com/en-us/2023/10/17/xbox-new-accessibility-updates/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
