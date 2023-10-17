@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Xbox Sales and Specials, Including the Shocktober Sale](https://news.xbox.com/en-us/2023/10/17/this-weeks-xbox-sales-and-specials-including-the-shocktober-sale/)
- - [AMD yeets its latest GPU driver in response to Anti-Lag+ causing bans in Counter-Strike 2](https://www.pcgamer.com/amd-yeets-its-latest-gpu-driver-in-response-to-anti-lag-causing-bans-in-counter-strike-2)
- - [Arcane is officially canon, and from now on League of Legends lore is going to stop contradicting itself all over the place, say Riot](https://www.pcgamer.com/arcane-is-officially-canon-and-from-now-on-league-of-legends-lore-is-going-to-stop-contradicting-itself-all-over-the-place-say-riot)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: Cities: Skylines II, Dead Space, Jusant, Mineko’s Night Market, and More](https://news.xbox.com/en-us/2023/10/17/game-pass-october-2023-wave-2-announce/)
+ - [Silent Hill: Ascension will be both interactive streaming series and a laid-back watch](https://www.polygon.com/23919887/silent-hill-ascension-release-date-where-to-watch)
+ - [How to get an environmental kill in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-environmental-kill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
