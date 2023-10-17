@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Chatbots Can Guess Your Personal Information From What You Type](https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/)
- - [We asked, you told us: You’ll miss the Pixel’s Photo Sphere Mode](https://www.androidauthority.com/google-pixel-photo-sphere-mode-poll-results-3376714/)
- - [Apple&#39;s iPhone still a highpoint despite global smartphone market declines](https://appleinsider.com/articles/23/10/17/apples-iphone-still-a-highpoint-despite-global-smartphone-market-declines?utm_medium=rss)<!-- TECH:END -->
+ - [This is what Game Mode does to your Mac](https://appleinsider.com/articles/23/10/17/this-is-what-game-mode-does-to-your-mac?utm_medium=rss)
+ - [How the Israeli military uses mobile phone data from the ~1.1M residents of Gaza to track their movements and assess how many heeded Israel&#39;s demand to leave &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p15#a231017p15)
+ - [ScyllaDB, a NoSQL database startup working on high-throughput, low-latency workloads, raised $43M led by Eight Roads Ventures, taking its total funding to $103M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231017/p14#a231017p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
