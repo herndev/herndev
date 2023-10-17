@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Pumpkaboo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889444/can-pumpkaboo-be-shiny-gourgeist)
  - [&lpar;For Southeast Asia&rpar; New look for PS5 console later this year](https://blog.playstation.com/2023/10/16/20231016-ps5/)
- - [&lpar;For Southeast Asia&rpar; New look for PS5 console later this year](https://blog.playstation.com/2023/10/16/20231016-ps5/)
- - [Wordle today: Hint and answer #850 for Tuesday, October 17](https://www.pcgamer.com/wordle-today-answer-850-october-17)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; New look for PS5 console later this year](https://blog.playstation.com/2023/10/16/20231016-ps5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
