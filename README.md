@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Plus is finally making a live-action Gargoyles series, skeptical question mark?](https://www.polygon.com/23920015/live-action-gargoyles-tv-show-disney-plus-annabelle-conjuring)
+ - [Disney Plus is making a live-action Gargoyles series, skeptical question mark?](https://www.polygon.com/23920015/live-action-gargoyles-tv-show-disney-plus-annabelle-conjuring)
  - [Whoops: Blizzard leaked the name of the next Hearthstone expansion through its own online store](https://www.pcgamer.com/whoops-blizzard-leaked-the-name-of-the-next-hearthstone-expansion-through-its-own-online-store)
  - [Cities: Skylines 2 won&#39;t use Steam Workshop for mod sharing](https://www.pcgamer.com/cities-skylines-2-wont-use-steam-workshop-for-mod-sharing)<!-- GAME:END -->
 
