@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - ⏩ [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
- - 👉 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)<!-- MEMES:END -->
+ - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
+ - ⏩ [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 👉 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)<!-- MEMES:END -->
 
 ---
 
