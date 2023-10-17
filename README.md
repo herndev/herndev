@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)
- - ⏩ [Not Another Teen Movie &lpar;2001&rpar;. Best scene](http://9gag.com/gag/aWGA5Xq)
- - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
+ - 💣 [The face of happiness](http://9gag.com/gag/aWGA506)
+ - ⏩ [Get it?](http://9gag.com/gag/amAyQvy)
+ - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
 
 ---
 
