@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me too](http://9gag.com/gag/a04Gg0Z)
- - ⏩ [When that 11 year old gamer really does end up f**king your mom...](http://9gag.com/gag/aZDKO7V)
- - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
+ - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
+ - ⏩ [Good for him](http://9gag.com/gag/awZDpg4)
+ - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
 
 ---
 
