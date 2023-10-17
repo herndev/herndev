@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Speed test results reveal fastest internet carrier and smartphone in the US](https://www.androidauthority.com/fastest-mobile-carrier-internet-smartphone-us-3376634/)
- - [The FTX estate floats an amended proposal to return up to 90% of creditor holdings, divided into three pools, and plans to formally file the plan by December 16 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231017/p8#a231017p8)
- - [US v. SBF: Nishad Singh says SBF used customer funds for spending sprees that &quot;reeked of excess&quot; and he learned of an $8B hole two months before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p7#a231017p7)<!-- TECH:END -->
+ - [AI Chatbots Can Guess Your Personal Information From What You Type](https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/)
+ - [We asked, you told us: You’ll miss the Pixel’s Photo Sphere Mode](https://www.androidauthority.com/google-pixel-photo-sphere-mode-poll-results-3376714/)
+ - [Apple&#39;s iPhone still a highpoint despite global smartphone market declines](https://appleinsider.com/articles/23/10/17/apples-iphone-still-a-highpoint-despite-global-smartphone-market-declines?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
