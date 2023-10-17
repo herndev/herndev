@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: Cities: Skylines II, Dead Space, Jusant, Mineko’s Night Market, and More](https://news.xbox.com/en-us/2023/10/17/game-pass-october-2023-wave-2-announce/)
- - [Silent Hill: Ascension will be both interactive streaming series and a laid-back watch](https://www.polygon.com/23919887/silent-hill-ascension-release-date-where-to-watch)
- - [How to get an environmental kill in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-environmental-kill)<!-- GAME:END -->
+ - [How one gun company partnered with Call of Duty to attract &#39;young potential shooters&#39;](https://www.pcgamer.com/how-one-gun-company-partnered-with-call-of-duty-to-attract-young-potential-shooters)
+ - [Blizzard Deletes Error-Filled Diablo IV Trailer](https://kotaku.com/diablo-4-season-2-trailer-xp-blood-calculated-patch-1850933282)
+ - [What is Party Play in Pokémon Go? How to start, Party Power explained](https://www.polygon.com/pokemon-go-guide/23918919/party-play-party-power-damage-co-op-multiplayer-bonus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
