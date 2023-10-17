@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 horror directors reveal the scariest movies they ever saw](https://www.polygon.com/23919490/scariest-movies-of-all-time-according-to-horror-directors)
- - [The Best Samurai Game Of 2023 Is On Game Pass](https://kotaku.com/ishin-like-a-dragon-game-pass-october-2023-persona-xbox-1850933564)
- - [Xbox Continues to Champion the Gaming &amp; Disability Community with New Accessibility Updates](https://news.xbox.com/en-us/2023/10/17/xbox-new-accessibility-updates/)<!-- GAME:END -->
+ - [Dev says CD Projekt morale &#39;took a significant hit&#39; after Cyberpunk&#39;s launch, but it won&#39;t repeat mistakes with the next Witcher](https://www.pcgamer.com/dev-says-cd-projekt-morale-took-a-significant-hit-after-cyberpunks-launch-but-it-wont-repeat-mistakes-with-the-next-witcher)
+ - [The Dead Space remake heads up a great two weeks for Game Pass](https://www.polygon.com/23920869/game-pass-new-games-october-2023)
+ - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
