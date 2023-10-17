@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome on iOS and Android will now detect URL typos](https://www.theverge.com/2023/10/17/23921281/chrome-ios-android-url-typos-accessibility-google-maps)
- - [Dead Space is coming to Xbox Game Pass just in time for Halloween](https://www.theverge.com/2023/10/17/23921535/dead-space-remake-xbox-game-pass-halloween)
- - [Reddit’s blockchain-based Community Points are going away](https://www.theverge.com/2023/10/17/23921437/reddit-crypto-rugpull-community-points)<!-- TECH:END -->
+ - [Google Pixel Watch 2 review: A solid second draft, but still a work in progress](https://www.androidauthority.com/google-pixel-watch-2-review-3374403/)
+ - [Apple’s latest iOS update could have a big impact on podcast downloads](https://www.theverge.com/2023/10/17/23921466/apple-ios-update-podcast-downloads-spotify-rogan-youtube)
+ - [Insiders Say X’s Crowdsourced Anti-Disinformation Tool Is Making the Problem Worse](https://www.wired.com/story/x-community-notes-disinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
