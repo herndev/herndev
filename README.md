@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How IRS officials tracked down James Zhong, a hacker who stole 50K+ bitcoin from Silk Road in 2012 and was involved in the development of bitcoin itself in 2009 &lpar;CNBC&rpar;](http://www.techmeme.com/231018/p9#a231018p9)
- - [Android’s upcoming “repair mode” will keep your data safe from snoopy techs](https://www.androidauthority.com/android-repair-mode-2-3377125/)
- - [Ruling paves way for teens to sue companies for social media addiction](https://www.androidauthority.com/social-media-addiction-teens-3377100/)<!-- TECH:END -->
+ - [Sources: SK Hynix refused to approve the merger of Kioxia and Western Digital, a blow to Bain Capital&#39;s ambitions of creating a US-Japan chip company &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p11#a231018p11)
+ - [15-inch MacBook Air demand drops &#39;significantly,&#39; says Kuo](https://appleinsider.com/articles/23/10/18/15-inch-macbook-air-demand-drops-significantly-says-kuo?utm_medium=rss)
+ - [In a rare joint statement, Five Eyes chiefs from the US, the UK, Canada, Australia, and New Zealand warn on China&#39;s IP &quot;theft&quot; and using AI to hack and spy &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/231018/p10#a231018p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
