@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: X will begin charging new users $1 a year to access key features including the ability to tweet, reply, quote, repost, like, bookmark, and create lists &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/231017/p47#a231017p47)
- - [Israel says it&#39;s in talks with SpaceX on setting up Starlink internet services as a backup in case other systems are disrupted &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/231017/p46#a231017p46)
- - [Google Pixel Watch 2 review: A solid second draft, but still a work in progress](https://www.androidauthority.com/google-pixel-watch-2-review-3374403/)<!-- TECH:END -->
+ - [Latest Apple Watch models may flicker in always-on mode -- fix incoming](https://appleinsider.com/articles/23/10/18/latest-apple-watch-models-may-flicker-in-always-on-mode----fix-incoming?utm_medium=rss)
+ - [X now requires a linked source for proposed community notes, saying that notes with sources have a much higher likelihood of earning a &quot;Helpful&quot; status &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p48#a231017p48)
+ - [X will start charging new users in two countries $1 per year](https://www.theverge.com/2023/10/17/23921752/x-not-a-bot-charge-new-users-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
