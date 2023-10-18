@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #851 for Wednesday, October 18](https://www.pcgamer.com/wordle-today-answer-851-october-18)
- - [AMD&#39;s newly announced RX 6750 GRE cards are strong RTX 4060 competitors, though you won&#39;t find them on shelves in the west](https://www.pcgamer.com/amds-newly-announced-rx-6750-gre-cards-are-strong-rtx-4060-competitors-though-you-wont-find-them-on-shelves-in-the-west)
- - [Gwent&#39;s official development ends, leaving future balance patches in the hands of the community](https://www.pcgamer.com/gwents-official-development-ends-leaving-future-balance-patches-in-the-hands-of-the-community)<!-- GAME:END -->
+ - [Xbox Podcast: Phil Spencer on Activision Blizzard King + Xbox](https://news.xbox.com/en-us/podcast/phil-spencer-on-activision-blizzard-king-xbox/#new_tab)
+ - [ThunderX3 Core gaming chair review](https://www.pcgamer.com/thunderx3-core-gaming-chair-review)
+ - [Enjoy Superior Comfort with the new ThunderX3 premium ergonomic gaming chair](https://www.pcgamer.com/hi.switchy.io/pcgamercore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
