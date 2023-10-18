@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How IRS officials tracked down James Zhong, a hacker who stole 50K+ bitcoin from Silk Road in 2012 and was involved in the development of bitcoin itself in 2009 &lpar;CNBC&rpar;](http://www.techmeme.com/231018/p9#a231018p9)
  - [Android’s upcoming “repair mode” will keep your data safe from snoopy techs](https://www.androidauthority.com/android-repair-mode-2-3377125/)
- - [Ruling paves way for teens to sue companies for social media addiction](https://www.androidauthority.com/social-media-addiction-teens-3377100/)
- - [Nothing Phone 1 update alert! New features and security patch incoming](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-0-4-update-3377116/)<!-- TECH:END -->
+ - [Ruling paves way for teens to sue companies for social media addiction](https://www.androidauthority.com/social-media-addiction-teens-3377100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
