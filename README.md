@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 player thinks they&#39;ve fooled a god with a first level spell, right until they realise they&#39;ve stumbled into Act 2&#39;s new worst ending](https://www.pcgamer.com/baldurs-gate-3-player-thinks-theyve-fooled-a-god-with-a-first-level-spell-right-until-they-realise-theyve-stumbled-into-act-2s-new-worst-ending)
- - [How to equip Vampiric Powers in Diablo 4 and use them](https://www.pcgamer.com/diablo-4-vampiric-powers-equip)
- - [Watching her girlfriend bed Lae&#39;zel on a Baldur&#39;s Gate 3 stream completely stuns Shadowheart&#39;s voice actor: &#39;I don&#39;t know what to say&#39;](https://www.pcgamer.com/watching-her-girlfriend-bed-laezel-on-a-baldurs-gate-3-stream-completely-stuns-shadowhearts-voice-actor-i-dont-know-what-to-say)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder is a perfect end for the Switch](https://www.polygon.com/reviews/23920680/super-mario-bros-wonder-review-nintendo-switch)
+ - [AMD kicks its new Anti-Lag+ feature out of its latest drivers, stripping support and the potential for player bans from games](https://www.pcgamer.com/amd-kicks-its-new-anti-lag-feature-out-of-its-latest-drivers-stripping-support-and-the-potential-for-player-bans-from-games)
+ - [Asus breaks the overclocking world record with 9.044GHz Intel 14900KF CPU](https://www.pcgamer.com/asus-breaks-the-overclocking-world-record-with-9044ghz-intel-14900kf-cpu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
