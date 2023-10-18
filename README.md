@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Good for him](http://9gag.com/gag/awZDpg4)
- - ⏩ [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
- - 👉 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)<!-- MEMES:END -->
+ - ⏩ [Lily Smith](http://9gag.com/gag/avQVqwE)
+ - 👉 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)<!-- MEMES:END -->
 
 ---
 
