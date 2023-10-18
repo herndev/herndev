@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare deal slashes $100 off the Sonos Move](https://www.androidauthority.com/sonos-move-deal-3377439/)
- - [The European Central Bank plans to start the digital euro &quot;preparation phase&quot; on November 1, with two years to finalize its rulebook and select providers &lpar;Francesco Canepa/Reuters&rpar;](http://www.techmeme.com/231018/p29#a231018p29)
- - [New AirPods Pro 2 firmware has been released](https://appleinsider.com/articles/23/10/18/new-airpods-pro-2-firmware-has-been-released?utm_medium=rss)<!-- TECH:END -->
+ - [Skydance Animation parts ways with Apple TV+, taking &#39;Spellbound&#39; with it](https://appleinsider.com/articles/23/10/18/skydance-animation-parts-ways-with-apple-tv-taking-spellbound-with-it?utm_medium=rss)
+ - [The creator of Apollo for Reddit has moved onto smaller and weirder things](https://www.theverge.com/2023/10/18/23922707/pixel-pals-language-widget-christian-selig-apollo)
+ - [The last-gen Sonos Move is on sale for $150 less than the new model](https://www.theverge.com/2023/10/18/23921387/sonos-move-speaker-board-tabletop-games-apple-watch-ultra-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
