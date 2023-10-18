@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [While X charging users $1/year to combat bots and spam is an appealing idea, the value in manipulating X is so high that bad actors will still find a way &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/231018/p18#a231018p18)
- - [UK and Chinese officials say China plans to attend the AI summit at Bletchley Park in December, despite controversy over alleged spying by Beijing in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p17#a231018p17)
- - [Poll: Does a phone’s color count as a feature?](https://www.androidauthority.com/phone-color-a-feature-poll-3377243/)<!-- TECH:END -->
+ - [Plaid hires former Expedia Chief Financial Officer Eric Hart as its first CFO, a milestone in its IPO plans after a failed $5.3B sale to Visa in 2021 &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/231018/p21#a231018p21)
+ - [Android 14’s new AI wallpapers are great, but Backdrops still has my heart](https://www.androidauthority.com/wallpaper-backdrops-vs-android-14-ai-3376733/)
+ - [YouTube wants to get you watching more news from ‘authoritative sources’](https://www.theverge.com/2023/10/18/23922070/youtube-news-immersive-watch-page-experience-shortform)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
