@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s first Cybertruck deliveries will happen on November 30th](https://www.theverge.com/2023/10/18/23923048/tesla-cybertruck-ev-pickup-delivery-date-november-30)
- - [Tesla profits dip as it invests in factory upgrades and AI development](https://www.theverge.com/2023/10/18/23919336/tesla-q3-2023-earnings-revenue-profit-margin)
- - [Meta plans to roll out Telegram-like broadcast channels on Facebook and Messenger in the coming weeks, after launching them on Instagram and WhatsApp &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231018/p33#a231018p33)<!-- TECH:END -->
+ - [Here we go: all the news about Super Mario Bros. Wonder](https://www.theverge.com/23923151/super-mario-bros-wonder-nintendo-switch-news-review-trailer)
+ - [The Hydro Flask Tracker puts your fancy water bottle on Apple’s Find My network](https://www.theverge.com/2023/10/18/23922622/hydro-flask-tracker-airtag-find-my-water-bottle)
+ - [81 Black Friday Sales on Beauty, Fashion and Home     - CNET](https://www.cnet.com/deals/best-black-friday-sales-on-beauty-fashion-and-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
