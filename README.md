@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: it’s time to update WinRAR due to a big security vulnerability](https://www.theverge.com/2023/10/18/23922075/winrar-security-vulnerability-exploit-patch-update)
- - [Amazon says its robots will speed up delivery and definitely not replace humans](https://www.theverge.com/2023/10/18/23922202/amazon-robots-sorting-machines-sequoia-warehouse)
- - [Daily deals Oct. 18: $150 off Apple Watch Series 8, $200 off 2023 M2 MacBook Pro, up to 40% off Samsung monitors, more](https://appleinsider.com/articles/23/10/18/daily-deals-oct-18-150-off-apple-watch-series-8-200-off-2023-m2-macbook-pro-up-to-40-off-samsung-monitors-more?utm_medium=rss)<!-- TECH:END -->
+ - [Google is tweaking Chrome’s search bar to make it easier to navigate the web](https://www.theverge.com/2023/10/18/23922396/google-chrome-search-typos-bookmarks-autocomplete)
+ - [Google bulks up Android’s malware defenses to combat new tricks, including AI](https://www.theverge.com/2023/10/18/23922111/google-play-protect-malware-detection-apps-malicious-software-ai-polymorphic)
+ - [Apple accused of avoiding paying UK $700 million in taxes](https://appleinsider.com/articles/23/10/18/apple-accused-of-avoiding-paying-uk-700-million-in-taxes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
