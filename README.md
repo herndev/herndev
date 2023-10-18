@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Can Now Play Tony Hawk&#39;s Pro Skater 1+2 Offline, But There&#39;s A Catch](https://kotaku.com/thps-tony-hawk-s-pro-skater-offline-pc-steam-deck-1-1-1850939331)
- - [Phil Spencer confirms that Activision Blizzard games won&#39;t come to Game Pass this year: &#39;Now that the deal is closed, we&#39;re starting that work, but there is work&#39;](https://www.pcgamer.com/phil-spencer-confirms-that-activision-blizzard-games-wont-come-to-game-pass-this-year-now-that-the-deal-is-closed-were-starting-that-work-but-there-is-work)
- - [Stay frosty: Call of Duty Warzone&#39;s Halloween event has jump scares that will take you back to 2006 YouTube](https://www.pcgamer.com/stay-frosty-call-of-duty-warzones-halloween-event-has-jump-scares-that-will-take-you-back-to-2006-youtube)<!-- GAME:END -->
+ - [Breaking: Do NOT try to eat the Wonka float at the 97th Macy’s Thanksgiving Day Parade](https://www.polygon.com/23923110/wonka-float-macys-thanksgiving-day-parade-not-real-candy)
+ - [The best Sorcerer builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)
+ - [The best Necromancer builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
