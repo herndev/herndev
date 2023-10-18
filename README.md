@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Good for him](http://9gag.com/gag/awZDpg4)
- - ⏩ [Lily Smith](http://9gag.com/gag/avQVqwE)
- - 👉 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)<!-- MEMES:END -->
+ - ⏩ [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - 👉 [Hellohohoo](http://9gag.com/gag/aPg0Exn)<!-- MEMES:END -->
 
 ---
 
