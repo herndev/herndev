@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No more Nvidia RTX 4090 GPUs for China after new US export ban](https://www.pcgamer.com/no-more-nvidia-rtx-4090-gpus-for-china-after-new-us-export-ban)
- - [Xbox Podcast: Phil Spencer on Activision Blizzard King + Xbox](https://news.xbox.com/en-us/podcast/phil-spencer-on-activision-blizzard-king-xbox/#new_tab)
- - [ThunderX3 Core gaming chair review](https://www.pcgamer.com/thunderx3-core-gaming-chair-review)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 player thinks they&#39;ve fooled a god with a first level spell, right until they realise they&#39;ve stumbled into Act 2&#39;s new worst ending](https://www.pcgamer.com/baldurs-gate-3-player-thinks-theyve-fooled-a-god-with-a-first-level-spell-right-until-they-realise-theyve-stumbled-into-act-2s-new-worst-ending)
+ - [How to equip Vampiric Powers in Diablo 4 and use them](https://www.pcgamer.com/diablo-4-vampiric-powers-equip)
+ - [Watching her girlfriend bed Lae&#39;zel on a Baldur&#39;s Gate 3 stream completely stuns Shadowheart&#39;s voice actor: &#39;I don&#39;t know what to say&#39;](https://www.pcgamer.com/watching-her-girlfriend-bed-laezel-on-a-baldurs-gate-3-stream-completely-stuns-shadowhearts-voice-actor-i-dont-know-what-to-say)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
