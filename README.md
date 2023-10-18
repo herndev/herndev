@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Chrome&#39;s address bar with improved autocomplete, suggestions for misspelled URL names, search within bookmark folders, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231018/p27#a231018p27)
- - [Fortnite creators will get paid for encouraging players to spend](https://www.theverge.com/2023/10/18/23922465/fortnite-creator-economy-payouts-v-bucks-epic-games)
- - [Goldman Sachs dodges questions about its relationship with Apple](https://appleinsider.com/articles/23/10/18/goldman-sachs-dodges-questions-about-its-relationship-with-apple?utm_medium=rss)<!-- TECH:END -->
+ - [China App Store employees fired over relationships with developers](https://appleinsider.com/articles/23/10/18/china-app-store-employees-fired-over-relationships-with-developers?utm_medium=rss)
+ - [Experts say misinformation from &quot;verified&quot; pseudo-OSINT accounts on X, driven by profit and engagement, is destroying the Israel-Palestine information ecosystem &lpar;404 Media&rpar;](http://www.techmeme.com/231018/p28#a231018p28)
+ - [Biden administration announces ‘largest ever’ investment in US electric grid](https://www.theverge.com/2023/10/18/23922336/biden-doe-power-grid-investment-electricity-renewable-energy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
