@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new worst gaming trend: killing our favorite games to replace them with sequels](https://www.pcgamer.com/the-new-worst-gaming-trend-killing-our-favorite-games-to-replace-them-with-sequels)
  - [These were the 10 most-played demos on Steam this month](https://www.pcgamer.com/popular-steam-demos-october-2023)
- - [Super Mario Bros. Wonder’s Goombas Actually Bite, Just Like Miyamoto Always Wanted](https://kotaku.com/super-mario-bros-wonder-s-goombas-actually-bite-just-1850935650)
- - [Epic Games&#39; Messy Bandcamp Sale Ends With Mass Layoffs [Update]](https://kotaku.com/epic-games-bandcamp-layoffs-songtradr-fortnite-music-1850931222)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder’s Goombas Actually Bite, Just Like Miyamoto Always Wanted](https://kotaku.com/super-mario-bros-wonder-s-goombas-actually-bite-just-1850935650)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
