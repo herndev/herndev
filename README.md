@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizarding Together is Better in Wizard with a Gun – Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2023/10/18/wizard-with-a-gun-now-available/)
- - [Lords of the Fallen&#39;s latest patch promises &#39;substantial performance improvements&#39; for struggling GPUs](https://www.pcgamer.com/lords-of-the-fallens-latest-patch-promises-substantial-performance-improvements-for-struggling-gpus)
- - [How to complete the Twilight Triumph in Destiny 2 Festival of the Lost 2023](https://www.polygon.com/destiny-2-guide-walkthrough/23922513/twilight-triumph-lost-memento-unlock-objectives)<!-- GAME:END -->
+ - [You Can Now Play Tony Hawk&#39;s Pro Skater 1+2 Offline, But There&#39;s A Catch](https://kotaku.com/thps-tony-hawk-s-pro-skater-offline-pc-steam-deck-1-1-1850939331)
+ - [Phil Spencer confirms that Activision Blizzard games won&#39;t come to Game Pass this year: &#39;Now that the deal is closed, we&#39;re starting that work, but there is work&#39;](https://www.pcgamer.com/phil-spencer-confirms-that-activision-blizzard-games-wont-come-to-game-pass-this-year-now-that-the-deal-is-closed-were-starting-that-work-but-there-is-work)
+ - [Stay frosty: Call of Duty Warzone&#39;s Halloween event has jump scares that will take you back to 2006 YouTube](https://www.pcgamer.com/stay-frosty-call-of-duty-warzones-halloween-event-has-jump-scares-that-will-take-you-back-to-2006-youtube)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
