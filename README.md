@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anime Tennis Match](http://9gag.com/gag/aBdMAMZ)
- - ⏩ [Fatzooo](http://9gag.com/gag/a9qe9DK)
- - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
+ - 💣 [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - ⏩ [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 👉 [Berlin has fallen](http://9gag.com/gag/ay2AgxV)<!-- MEMES:END -->
 
 ---
 
