@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. Wonder is Nintendo’s Mickey moment](https://www.polygon.com/23920809/super-mario-wonder-reboot-remake-nintendo-switch)
- - [All GTA Online Ghosts Exposed locations](https://www.pcgamer.com/gta-online-ghosts-exposed-locations)
- - [How to farm and get Spectral Pages in Destiny 2 Festival of the Lost 2023](https://www.polygon.com/destiny-2-guide-walkthrough/23922384/spectral-pages-how-to-farm-get-manifested-page)<!-- GAME:END -->
+ - [Kingdom Eighties is Out Now on Xbox](https://news.xbox.com/en-us/2023/10/18/kingdom-eighties-is-out-now-on-xbox/)
+ - [This forgotten Lynchian nightmare should be a cult classic, and you can watch it for free](https://www.polygon.com/23915669/reflecting-skin-movie-watch-stream-cult-classic-weird-like-david-lynch)
+ - [Super Mario Bros. Wonder is Nintendo’s Mickey moment](https://www.polygon.com/23920809/super-mario-wonder-reboot-remake-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
