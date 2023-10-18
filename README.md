@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plaid hires former Expedia Chief Financial Officer Eric Hart as its first CFO, a milestone in its IPO plans after a failed $5.3B sale to Visa in 2021 &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/231018/p21#a231018p21)
- - [Android 14’s new AI wallpapers are great, but Backdrops still has my heart](https://www.androidauthority.com/wallpaper-backdrops-vs-android-14-ai-3376733/)
- - [YouTube wants to get you watching more news from ‘authoritative sources’](https://www.theverge.com/2023/10/18/23922070/youtube-news-immersive-watch-page-experience-shortform)<!-- TECH:END -->
+ - [YouTube adds a news page on its mobile apps to suggest content from &quot;authoritative sources&quot;, and plans to spend $1.6M to promote the creation of news on Shorts &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231018/p23#a231018p23)
+ - [Pickleball sport helps improve health, say Apple researchers](https://appleinsider.com/articles/23/10/18/pickelball-sport-helps-improve-health-say-apple-researchers?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-18-2023-3376417/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
