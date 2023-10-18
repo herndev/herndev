@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC Mayor Eric Adams uses AI to make robocalls in languages he doesn&#39;t speak, raising ethical issues over making voters think he can speak their native language &lpar;Katie Honan/The City&rpar;](http://www.techmeme.com/231017/p49#a231017p49)
  - [Latest Apple Watch models may flicker in always-on mode -- fix incoming](https://appleinsider.com/articles/23/10/18/latest-apple-watch-models-may-flicker-in-always-on-mode----fix-incoming?utm_medium=rss)
- - [X now requires a linked source for proposed community notes, saying that notes with sources have a much higher likelihood of earning a &quot;Helpful&quot; status &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p48#a231017p48)
- - [X will start charging new users in two countries $1 per year](https://www.theverge.com/2023/10/17/23921752/x-not-a-bot-charge-new-users-elon-musk)<!-- TECH:END -->
+ - [X now requires a linked source for proposed community notes, as researchers say misinformation on the platform has reached new heights amid the Israel-Hamas war &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p48#a231017p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
