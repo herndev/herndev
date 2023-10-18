@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China App Store employees fired over relationships with developers](https://appleinsider.com/articles/23/10/18/china-app-store-employees-fired-over-relationships-with-developers?utm_medium=rss)
- - [Experts say misinformation from &quot;verified&quot; pseudo-OSINT accounts on X, driven by profit and engagement, is destroying the Israel-Palestine information ecosystem &lpar;404 Media&rpar;](http://www.techmeme.com/231018/p28#a231018p28)
- - [Biden administration announces ‘largest ever’ investment in US electric grid](https://www.theverge.com/2023/10/18/23922336/biden-doe-power-grid-investment-electricity-renewable-energy)<!-- TECH:END -->
+ - [Rare deal slashes $100 off the Sonos Move](https://www.androidauthority.com/sonos-move-deal-3377439/)
+ - [The European Central Bank plans to start the digital euro &quot;preparation phase&quot; on November 1, with two years to finalize its rulebook and select providers &lpar;Francesco Canepa/Reuters&rpar;](http://www.techmeme.com/231018/p29#a231018p29)
+ - [New AirPods Pro 2 firmware has been released](https://appleinsider.com/articles/23/10/18/new-airpods-pro-2-firmware-has-been-released?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
