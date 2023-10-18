@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skydance Animation parts ways with Apple TV+, taking &#39;Spellbound&#39; with it](https://appleinsider.com/articles/23/10/18/skydance-animation-parts-ways-with-apple-tv-taking-spellbound-with-it?utm_medium=rss)
- - [The creator of Apollo for Reddit has moved onto smaller and weirder things](https://www.theverge.com/2023/10/18/23922707/pixel-pals-language-widget-christian-selig-apollo)
- - [The last-gen Sonos Move is on sale for $150 less than the new model](https://www.theverge.com/2023/10/18/23921387/sonos-move-speaker-board-tabletop-games-apple-watch-ultra-deal-sale)<!-- TECH:END -->
+ - [Tesla’s first Cybertruck deliveries will happen on November 30th](https://www.theverge.com/2023/10/18/23923048/tesla-cybertruck-ev-pickup-delivery-date-november-30)
+ - [Tesla profits dip as it invests in factory upgrades and AI development](https://www.theverge.com/2023/10/18/23919336/tesla-q3-2023-earnings-revenue-profit-margin)
+ - [Meta plans to roll out Telegram-like broadcast channels on Facebook and Messenger in the coming weeks, after launching them on Instagram and WhatsApp &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231018/p33#a231018p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
