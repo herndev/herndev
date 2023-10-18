@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
- - ⏩ [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 👉 [Black Jesus has returned and he is on a mission to bless women&#39;s bathrooms](http://9gag.com/gag/ay2AKxX)<!-- MEMES:END -->
+ - 💣 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - ⏩ [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
 
 ---
 
