@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
- - ⏩ [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 👉 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)<!-- MEMES:END -->
+ - 💣 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
+ - ⏩ [I am so proud if this community!](http://9gag.com/gag/aME6obM)
+ - 👉 [Legend lives on](http://9gag.com/gag/aA078r2)<!-- MEMES:END -->
 
 ---
 
