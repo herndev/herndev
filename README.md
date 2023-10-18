@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Privacy experts say that US state laws requiring data brokers to register are not adequately enforced, letting large numbers of brokers operate under the radar &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231018/p14#a231018p14)
- - [Amazon details Sequoia, its new AI and robotics tools for its warehouses to help reduce delivery times by up to 25% and identify inventory up to 75% faster &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231018/p13#a231018p13)
- - [The US&#39; new 400-page chip export rules show officials are open to chip sector input on ways to keep sending AI chips to China for small and medium-sized uses &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p12#a231018p12)<!-- TECH:END -->
+ - [While X charging users $1/year to combat bots and spam is an appealing idea, the value in manipulating X is so high that bad actors will still find a way &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/231018/p18#a231018p18)
+ - [UK and Chinese officials say China plans to attend the AI summit at Bletchley Park in December, despite controversy over alleged spying by Beijing in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p17#a231018p17)
+ - [Poll: Does a phone’s color count as a feature?](https://www.androidauthority.com/phone-color-a-feature-poll-3377243/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
