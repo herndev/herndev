@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anime Tennis Match](http://9gag.com/gag/aBdMAMZ)
- - ⏩ [No more propaganda, only bunny now](http://9gag.com/gag/abvo96b)
- - 👉 [Youtube&#39;s putting out warnings](http://9gag.com/gag/aZDKGp9)<!-- MEMES:END -->
+ - 💣 [Youtube&#39;s putting out warnings](http://9gag.com/gag/aZDKGp9)
+ - ⏩ [Anime Tennis Match](http://9gag.com/gag/aBdMAMZ)
+ - 👉 [Fatzooo](http://9gag.com/gag/a9qe9DK)<!-- MEMES:END -->
 
 ---
 
