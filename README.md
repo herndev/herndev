@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231015-2000&rpar;](https://news.xbox.com/en-us/2023/10/18/xbox-insider-release-notes-alpha-skip-ahead-2408-231015-2000/)
- - [Elon Musk unveils his latest galaxy brain plan to save Twitter: Charging new users $1 per year to tweet](https://www.pcgamer.com/elon-musk-unveils-his-latest-galaxy-brain-plan-to-save-twitter-charging-new-users-dollar1-per-year-to-tweet)
- - [Former Call Of Duty Champion Apologizes For Homophobic Slur](https://kotaku.com/call-duty-modern-warfare-2-mwiii-twitch-censor-slur-1850938442)<!-- GAME:END -->
+ - [Wizarding Together is Better in Wizard with a Gun – Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2023/10/18/wizard-with-a-gun-now-available/)
+ - [Lords of the Fallen&#39;s latest patch promises &#39;substantial performance improvements&#39; for struggling GPUs](https://www.pcgamer.com/lords-of-the-fallens-latest-patch-promises-substantial-performance-improvements-for-struggling-gpus)
+ - [How to complete the Twilight Triumph in Destiny 2 Festival of the Lost 2023](https://www.polygon.com/destiny-2-guide-walkthrough/23922513/twilight-triumph-lost-memento-unlock-objectives)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
