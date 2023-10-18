@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
- - ⏩ [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 👉 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)<!-- MEMES:END -->
+ - 💣 [Good for him](http://9gag.com/gag/awZDpg4)
+ - ⏩ [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 👉 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)<!-- MEMES:END -->
 
 ---
 
