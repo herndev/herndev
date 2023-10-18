@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Festival of the Lost Memento in Destiny 2](https://www.pcgamer.com/destiny-2-lost-memento-twilight)
- - [GeForce RTX 20-series owners can now enjoy a spot of deep learning enhanced video playback](https://www.pcgamer.com/geforce-rtx-20-series-owners-can-now-enjoy-a-spot-of-deep-learning-enhanced-video-playback)
- - [Everything That Happened In Spider-Man, Its DLC, And Miles Morales](https://kotaku.com/spider-man-2-ps4-ps5-miles-morales-dlc-story-recap-1850935735)<!-- GAME:END -->
+ - [Overwatch 2’s next crossover is with K-pop group Le Sserafim](https://www.polygon.com/23922209/overwatch-2-le-sserafim-crossover-kpop-blizzcon-2023)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [Super Mario Bros. Wonder Review Roundup: Wondrous Acclaim](https://kotaku.com/super-mario-bros-wonder-reviews-switch-1850937230)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
