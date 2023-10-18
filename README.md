@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cannot unsee now](http://9gag.com/gag/a4o8vRQ)
- - ⏩ [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
- - 👉 [The western world as you once knew, is gone. You may harvest what&#39;s left but you simply can&#39;t get it back. This is your future.](http://9gag.com/gag/aYVB3q2)<!-- MEMES:END -->
+ - 💣 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - ⏩ [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
+ - 👉 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)<!-- MEMES:END -->
 
 ---
 
