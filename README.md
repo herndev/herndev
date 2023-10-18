@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imposter](http://9gag.com/gag/aVb8AZv)
- - ⏩ [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 👉 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)<!-- MEMES:END -->
+ - 💣 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
+ - ⏩ [No more propaganda, only bunny now](http://9gag.com/gag/abvo96b)
+ - 👉 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)<!-- MEMES:END -->
 
 ---
 
