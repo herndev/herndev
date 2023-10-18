@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - ⏩ [Berlin has fallen](http://9gag.com/gag/ay2AgxV)
- - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
+ - ⏩ [Baby strong Baby bonk](http://9gag.com/gag/aBdMBAP)
+ - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 ---
 
