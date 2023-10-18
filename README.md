@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
- - ⏩ [I am so proud if this community!](http://9gag.com/gag/aME6obM)
- - 👉 [Legend lives on](http://9gag.com/gag/aA078r2)<!-- MEMES:END -->
+ - ⏩ [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 👉 [Black Jesus has returned and he is on a mission to bless women&#39;s bathrooms](http://9gag.com/gag/ay2AKxX)<!-- MEMES:END -->
 
 ---
 
