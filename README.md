@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome](http://9gag.com/gag/adPMwpD)
- - ⏩ [This is funny af](http://9gag.com/gag/adPMw2V)
- - 👉 [Lily Smith](http://9gag.com/gag/avQVqwE)<!-- MEMES:END -->
+ - 💣 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - ⏩ [Hellohohoo](http://9gag.com/gag/aPg0Exn)
+ - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
 
 ---
 
