@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollywood is going to come for D&amp;D actual plays sooner or later — will they survive?](https://www.polygon.com/23919779/dnd-dungeons-dragons-actual-play-tv-show-encounter-party)
- - [&#39;Ruin his life&#39;—Old School Runescape player gets such unhinged advice from community that showing their cousin the responses is all it takes to get a 96 million gold wand back](https://www.pcgamer.com/ruin-his-lifeold-school-runescape-player-gets-such-unhinged-advice-from-community-that-showing-their-cousin-the-responses-is-all-it-takes-to-get-a-96-million-gold-wand-back)
- - [Overwatch 2 Is In Its K-Pop Era With New Collab Event](https://kotaku.com/overwatch-2-collab-kpop-le-sserafim-blizzcon-event-1850937462)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder is Nintendo’s Mickey moment](https://www.polygon.com/23920809/super-mario-wonder-reboot-remake-nintendo-switch)
+ - [All GTA Online Ghosts Exposed locations](https://www.pcgamer.com/gta-online-ghosts-exposed-locations)
+ - [How to farm and get Spectral Pages in Destiny 2 Festival of the Lost 2023](https://www.polygon.com/destiny-2-guide-walkthrough/23922384/spectral-pages-how-to-farm-get-manifested-page)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
