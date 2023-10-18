@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. Wonder is a perfect end for the Switch](https://www.polygon.com/reviews/23920680/super-mario-bros-wonder-review-nintendo-switch)
- - [AMD kicks its new Anti-Lag+ feature out of its latest drivers, stripping support and the potential for player bans from games](https://www.pcgamer.com/amd-kicks-its-new-anti-lag-feature-out-of-its-latest-drivers-stripping-support-and-the-potential-for-player-bans-from-games)
- - [Asus breaks the overclocking world record with 9.044GHz Intel 14900KF CPU](https://www.pcgamer.com/asus-breaks-the-overclocking-world-record-with-9044ghz-intel-14900kf-cpu)<!-- GAME:END -->
+ - [How to get the Festival of the Lost Memento in Destiny 2](https://www.pcgamer.com/destiny-2-lost-memento-twilight)
+ - [GeForce RTX 20-series owners can now enjoy a spot of deep learning enhanced video playback](https://www.pcgamer.com/geforce-rtx-20-series-owners-can-now-enjoy-a-spot-of-deep-learning-enhanced-video-playback)
+ - [Everything That Happened In Spider-Man, Its DLC, And Miles Morales](https://kotaku.com/spider-man-2-ps4-ps5-miles-morales-dlc-story-recap-1850935735)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
