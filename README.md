@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #851 for Wednesday, October 18](https://www.pcgamer.com/wordle-today-answer-851-october-18)
  - [AMD&#39;s newly announced RX 6750 GRE cards are strong RTX 4060 competitors, though you won&#39;t find them on shelves in the west](https://www.pcgamer.com/amds-newly-announced-rx-6750-gre-cards-are-strong-rtx-4060-competitors-though-you-wont-find-them-on-shelves-in-the-west)
- - [Gwent&#39;s official development ends, leaving future balance patches in the hands of the community](https://www.pcgamer.com/gwents-official-development-ends-leaving-future-balance-patches-in-the-hands-of-the-community)
- - [The new worst gaming trend: killing our favorite games to replace them with sequels](https://www.pcgamer.com/the-new-worst-gaming-trend-killing-our-favorite-games-to-replace-them-with-sequels)<!-- GAME:END -->
+ - [Gwent&#39;s official development ends, leaving future balance patches in the hands of the community](https://www.pcgamer.com/gwents-official-development-ends-leaving-future-balance-patches-in-the-hands-of-the-community)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
