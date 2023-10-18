@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [No more Nvidia RTX 4090 GPUs for China after new US export ban](https://www.pcgamer.com/no-more-nvidia-rtx-4090-gpus-for-china-after-new-us-export-ban)
  - [Xbox Podcast: Phil Spencer on Activision Blizzard King + Xbox](https://news.xbox.com/en-us/podcast/phil-spencer-on-activision-blizzard-king-xbox/#new_tab)
- - [ThunderX3 Core gaming chair review](https://www.pcgamer.com/thunderx3-core-gaming-chair-review)
- - [Enjoy Superior Comfort with the new ThunderX3 premium ergonomic gaming chair](https://www.pcgamer.com/hi.switchy.io/pcgamercore)<!-- GAME:END -->
+ - [ThunderX3 Core gaming chair review](https://www.pcgamer.com/thunderx3-core-gaming-chair-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
