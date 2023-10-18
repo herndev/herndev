@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good for him](http://9gag.com/gag/awZDpg4)
- - ⏩ [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
- - 👉 [Hellohohoo](http://9gag.com/gag/aPg0Exn)<!-- MEMES:END -->
+ - 💣 [Wholesome](http://9gag.com/gag/adPMwpD)
+ - ⏩ [This is funny af](http://9gag.com/gag/adPMw2V)
+ - 👉 [Lily Smith](http://9gag.com/gag/avQVqwE)<!-- MEMES:END -->
 
 ---
 
