@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - ⏩ [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 👉 [Imposter](http://9gag.com/gag/aVb8AZv)<!-- MEMES:END -->
+ - 💣 [Cannot unsee now](http://9gag.com/gag/a4o8vRQ)
+ - ⏩ [No Youtube On November 5](http://9gag.com/gag/aEqb3dK)
+ - 👉 [Gained 30 pounds &amp; living off of government assistance in a shitty neighbourhood with a 1yr old kid. While I&#39;m visiting Europe next month.karma is a b*tch.](http://9gag.com/gag/aeQEnKQ)<!-- MEMES:END -->
 
 ---
 
