@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - ⏩ [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
- - 👉 [Berlin has fallen](http://9gag.com/gag/ay2AgxV)<!-- MEMES:END -->
+ - 💣 [Putin was filmed in China, accompanied by officers carrying his nuclear briefcases. He must be really worried to play this card in front of the whole world.](http://9gag.com/gag/axo8XRM)
+ - ⏩ [Berlin has fallen](http://9gag.com/gag/ay2AgxV)
+ - 👉 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)<!-- MEMES:END -->
 
 ---
 
