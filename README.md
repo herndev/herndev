@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - ⏩ [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
+ - 💣 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
+ - ⏩ [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 👉 [Imposter](http://9gag.com/gag/aVb8AZv)<!-- MEMES:END -->
 
 ---
 
