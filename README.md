@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - ⏩ [No more propaganda, only bunny now](http://9gag.com/gag/abvo96b)
- - 👉 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)<!-- MEMES:END -->
+ - 💣 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
+ - ⏩ [This is funny af](http://9gag.com/gag/adPMw2V)
+ - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
 
 ---
 
