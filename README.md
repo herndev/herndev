@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is tweaking Chrome’s search bar to make it easier to navigate the web](https://www.theverge.com/2023/10/18/23922396/google-chrome-search-typos-bookmarks-autocomplete)
- - [Google bulks up Android’s malware defenses to combat new tricks, including AI](https://www.theverge.com/2023/10/18/23922111/google-play-protect-malware-detection-apps-malicious-software-ai-polymorphic)
- - [Apple accused of avoiding paying UK $700 million in taxes](https://appleinsider.com/articles/23/10/18/apple-accused-of-avoiding-paying-uk-700-million-in-taxes?utm_medium=rss)<!-- TECH:END -->
+ - [Google updates Chrome&#39;s address bar with improved autocomplete, suggestions for misspelled URL names, search within bookmark folders, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231018/p27#a231018p27)
+ - [Fortnite creators will get paid for encouraging players to spend](https://www.theverge.com/2023/10/18/23922465/fortnite-creator-economy-payouts-v-bucks-epic-games)
+ - [Goldman Sachs dodges questions about its relationship with Apple](https://appleinsider.com/articles/23/10/18/goldman-sachs-dodges-questions-about-its-relationship-with-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
