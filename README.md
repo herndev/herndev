@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Eighties is Out Now on Xbox](https://news.xbox.com/en-us/2023/10/18/kingdom-eighties-is-out-now-on-xbox/)
- - [This forgotten Lynchian nightmare should be a cult classic, and you can watch it for free](https://www.polygon.com/23915669/reflecting-skin-movie-watch-stream-cult-classic-weird-like-david-lynch)
- - [Super Mario Bros. Wonder is Nintendo’s Mickey moment](https://www.polygon.com/23920809/super-mario-wonder-reboot-remake-nintendo-switch)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231015-2000&rpar;](https://news.xbox.com/en-us/2023/10/18/xbox-insider-release-notes-alpha-skip-ahead-2408-231015-2000/)
+ - [Elon Musk unveils his latest galaxy brain plan to save Twitter: Charging new users $1 per year to tweet](https://www.pcgamer.com/elon-musk-unveils-his-latest-galaxy-brain-plan-to-save-twitter-charging-new-users-dollar1-per-year-to-tweet)
+ - [Former Call Of Duty Champion Apologizes For Homophobic Slur](https://kotaku.com/call-duty-modern-warfare-2-mwiii-twitch-censor-slur-1850938442)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
