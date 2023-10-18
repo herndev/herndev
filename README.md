@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s next crossover is with K-pop group Le Sserafim](https://www.polygon.com/23922209/overwatch-2-le-sserafim-crossover-kpop-blizzcon-2023)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [Super Mario Bros. Wonder Review Roundup: Wondrous Acclaim](https://kotaku.com/super-mario-bros-wonder-reviews-switch-1850937230)<!-- GAME:END -->
+ - [Hollywood is going to come for D&amp;D actual plays sooner or later — will they survive?](https://www.polygon.com/23919779/dnd-dungeons-dragons-actual-play-tv-show-encounter-party)
+ - [&#39;Ruin his life&#39;—Old School Runescape player gets such unhinged advice from community that showing their cousin the responses is all it takes to get a 96 million gold wand back](https://www.pcgamer.com/ruin-his-lifeold-school-runescape-player-gets-such-unhinged-advice-from-community-that-showing-their-cousin-the-responses-is-all-it-takes-to-get-a-96-million-gold-wand-back)
+ - [Overwatch 2 Is In Its K-Pop Era With New Collab Event](https://kotaku.com/overwatch-2-collab-kpop-le-sserafim-blizzcon-event-1850937462)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
