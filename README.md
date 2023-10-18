@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube adds a news page on its mobile apps to suggest content from &quot;authoritative sources&quot;, and plans to spend $1.6M to promote the creation of news on Shorts &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231018/p23#a231018p23)
- - [Pickleball sport helps improve health, say Apple researchers](https://appleinsider.com/articles/23/10/18/pickelball-sport-helps-improve-health-say-apple-researchers?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-18-2023-3376417/)<!-- TECH:END -->
+ - [PSA: it’s time to update WinRAR due to a big security vulnerability](https://www.theverge.com/2023/10/18/23922075/winrar-security-vulnerability-exploit-patch-update)
+ - [Amazon says its robots will speed up delivery and definitely not replace humans](https://www.theverge.com/2023/10/18/23922202/amazon-robots-sorting-machines-sequoia-warehouse)
+ - [Daily deals Oct. 18: $150 off Apple Watch Series 8, $200 off 2023 M2 MacBook Pro, up to 40% off Samsung monitors, more](https://appleinsider.com/articles/23/10/18/daily-deals-oct-18-150-off-apple-watch-series-8-200-off-2023-m2-macbook-pro-up-to-40-off-samsung-monitors-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
