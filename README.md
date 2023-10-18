@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new worst gaming trend: killing our favorite games to replace them with sequels](https://www.pcgamer.com/the-new-worst-gaming-trend-killing-our-favorite-games-to-replace-them-with-sequels)
- - [These were the 10 most-played demos on Steam this month](https://www.pcgamer.com/popular-steam-demos-october-2023)
- - [Super Mario Bros. Wonder’s Goombas Actually Bite, Just Like Miyamoto Always Wanted](https://kotaku.com/super-mario-bros-wonder-s-goombas-actually-bite-just-1850935650)<!-- GAME:END -->
+ - [AMD&#39;s newly announced RX 6750 GRE cards are strong RTX 4060 competitors, though you won&#39;t find them on shelves in the west](https://www.pcgamer.com/amds-newly-announced-rx-6750-gre-cards-are-strong-rtx-4060-competitors-though-you-wont-find-them-on-shelves-in-the-west)
+ - [Gwent&#39;s official development ends, leaving future balance patches in the hands of the community](https://www.pcgamer.com/gwents-official-development-ends-leaving-future-balance-patches-in-the-hands-of-the-community)
+ - [The new worst gaming trend: killing our favorite games to replace them with sequels](https://www.pcgamer.com/the-new-worst-gaming-trend-killing-our-favorite-games-to-replace-them-with-sequels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
