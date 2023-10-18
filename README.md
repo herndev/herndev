@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here we go: all the news about Super Mario Bros. Wonder](https://www.theverge.com/23923151/super-mario-bros-wonder-nintendo-switch-news-review-trailer)
- - [The Hydro Flask Tracker puts your fancy water bottle on Apple’s Find My network](https://www.theverge.com/2023/10/18/23922622/hydro-flask-tracker-airtag-find-my-water-bottle)
- - [81 Black Friday Sales on Beauty, Fashion and Home     - CNET](https://www.cnet.com/deals/best-black-friday-sales-on-beauty-fashion-and-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix’s Password-Sharing Crackdown Is Working—for Now](https://www.wired.com/story/netflix-password-sharing-crackdown-working-for-now/)
+ - [Internal message: Discord shuts down Gas nine months after acquiring the app, which let people share anonymous compliments and had ~1M DAUs in October 2022 &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231018/p36#a231018p36)
+ - [Only Nintendo DS lovers will fully appreciate this dual-screen handheld PC](https://www.theverge.com/2023/10/18/23923136/ayaneo-flip-ds-kb-handheld-gaming-pc-nintendo-emulation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
