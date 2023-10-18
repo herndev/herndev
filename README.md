@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Breaking: Do NOT try to eat the Wonka float at the 97th Macy’s Thanksgiving Day Parade](https://www.polygon.com/23923110/wonka-float-macys-thanksgiving-day-parade-not-real-candy)
- - [The best Sorcerer builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)
- - [The best Necromancer builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)<!-- GAME:END -->
+ - [Why is the internet ripping a new King Kong game to shreds?](https://www.pcgamer.com/why-is-the-internet-ripping-a-new-king-kong-game-to-shreds)
+ - [A dog named Peanut Butter is going to speedrun a Nintendo platformer at AGDQ 2024](https://www.pcgamer.com/a-dog-named-peanut-butter-is-going-to-speedrun-a-nintendo-platformer-at-agdq-2024)
+ - [Breaking: Do NOT try to eat the Wonka float at the 97th Macy’s Thanksgiving Day Parade](https://www.polygon.com/23923110/wonka-float-macys-thanksgiving-day-parade-not-real-candy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
