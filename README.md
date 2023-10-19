@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Intel Meteor Lake handheld gaming PC breaks cover as does the most Nintendo DS PC you will ever see](https://www.pcgamer.com/the-first-intel-meteor-lake-handheld-gaming-pc-breaks-cover-as-does-the-most-nintendo-ds-pc-you-will-ever-see)
- - [World&#39;s Coolest Dog Set To Speedrun Unbeloved Nintendo Game](https://kotaku.com/awesome-games-done-quick-2024-agdq-shiba-inu-1850939684)
- - [You can get $400 of Vampire: The Masquerade books for ridiculously cheap on Humble Bundle right now](https://www.pcgamer.com/you-can-get-dollar400-of-vampire-the-masquerade-books-for-ridiculously-cheap-on-humble-bundle-right-now)<!-- GAME:END -->
+ - [Free Play Days – NBA 2K24, Lawn Mowing Simulator, Diablo IV, and Hokko Life](https://news.xbox.com/en-us/2023/10/19/free-play-days-nba-2k24-lawn-mowing-simulator-diablo-iv-and-hokko-life/)
+ - [Spider-Man 2 Getting New Game Plus And More By The End Of 2023](https://kotaku.com/spider-man-2-ps5-new-game-plus-replay-missions-patch-1850941017)
+ - [The upcoming Assassin&#39;s Creed VR game looks genuinely cool if you can keep yourself from throwing up](https://www.pcgamer.com/the-upcoming-assassins-creed-vr-game-looks-genuinely-cool-if-you-can-keep-yourself-from-throwing-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
