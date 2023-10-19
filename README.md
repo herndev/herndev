@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - ⏩ [Old but memorable](http://9gag.com/gag/aGEqWAG)
+ - 💣 [Putin was filmed in China, accompanied by officers carrying his nuclear briefcases. He must be really worried to play this card in front of the whole world.](http://9gag.com/gag/axo8XRM)
+ - ⏩ [Still no clue](http://9gag.com/gag/a7qBYZq)
  - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 ---
