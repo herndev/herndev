@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC approves a petition by Apple, Meta, Google, Microsoft and others for access to the 6GHz band for Wi-Fi tethering of AR and VR headsets &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231019/p36#a231019p36)
- - [Crypto Groups Gemini, Genesis, and DCG Sued for $1.1 Billion ‘Fraud’](https://www.wired.com/story/crypto-gemini-genesis-dcg-sued-billion-dollar-fraud/)
- - [The US Has Failed to Pass AI Regulation. New York City Is Stepping Up](https://www.wired.com/story/us-failed-to-pass-ai-regulation-new-york-city-stepping-up/)<!-- TECH:END -->
+ - [FCC permits consumer products to utilize more of the 6GHz band, benefiting Apple](https://appleinsider.com/articles/23/10/19/fcc-permits-consumer-products-to-utilize-more-of-the-6ghz-band-benefiting-apple?utm_medium=rss)
+ - [Amazon, Microsoft, and India crack down on tech support scams](https://www.theverge.com/2023/10/19/23924294/amazon-microsoft-india-cbi-crackdown-technology-support-fraud)
+ - [Amazon eliminated plastic packaging at one of its warehouses](https://www.theverge.com/2023/10/19/23923863/amazon-plastic-free-mail-packages-euclid-ohio-warehouse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
