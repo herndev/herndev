@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: Pandu Nayak, Google&#39;s VP of Search and first witness, testifies that smart employees explain its success and lead to innovations, such as on LLMs &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231019/p20#a231019p20)
- - [iPhone 15 fails to save TSMC from lowest profits in five years](https://appleinsider.com/articles/23/10/19/iphone-15-fails-to-save-tsmc-from-lowest-profits-in-five-years?utm_medium=rss)
- - [Google Chrome’s address bar is gaining a set of new skills](https://www.androidauthority.com/google-chrome-address-bar-updates-3377720/)<!-- TECH:END -->
+ - [Adobe announces Elements 2023 for Photoshop &amp; Premiere](https://appleinsider.com/articles/23/10/19/adobe-announces-elements-2023-for-photoshop-premiere?utm_medium=rss)
+ - [The Pixel Watch 2 and Fitbit Charge 6 are death knells for the Sense series](https://www.androidauthority.com/pixel-watch-2-fitbit-charge-6-death-knells-sense-series-3376617/)
+ - [Google Pixel 8 tips: Take you Pixel experience to the next level](https://www.androidauthority.com/google-pixel-8-tips-3375809/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
