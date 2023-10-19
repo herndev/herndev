@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Be an early Motorola Razr 2023 adopter with this $100 launch discount](https://www.androidauthority.com/motorola-razr-2023-deal-3377901/)
- - [Swedish luxury firm adds 7,586 diamonds to Apple devices for some reason](https://appleinsider.com/articles/23/10/19/swiss-luxury-firm-adds-7586-diamonds-to-apple-devices-for-some-reason?utm_medium=rss)
- - [The FBI and DOJ say thousands of IT workers sent by North Korea to work remotely with US companies with false IDs have sent millions in wages to the country &lpar;Jim Salter/Associated Press&rpar;](http://www.techmeme.com/231019/p33#a231019p33)<!-- TECH:END -->
+ - [The HyperX Cloud III Wireless gaming headset gets its first price drop](https://www.androidauthority.com/hyperx-cloud-iii-wireless-deal-3377952/)
+ - [Amazon has renewed Gen V for a sophomore season](https://www.theverge.com/23924179/gen-v-the-boys-season-2-renewal)
+ - [Best Chromebook Deals: Save Big on 17-Inch, Touch-Enabled and Cloud-Gaming Devices     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
