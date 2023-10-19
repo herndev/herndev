@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Password-Sharing Crackdown Is Working—for Now](https://www.wired.com/story/netflix-password-sharing-crackdown-working-for-now/)
- - [Internal message: Discord shuts down Gas nine months after acquiring the app, which let people share anonymous compliments and had ~1M DAUs in October 2022 &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231018/p36#a231018p36)
- - [Only Nintendo DS lovers will fully appreciate this dual-screen handheld PC](https://www.theverge.com/2023/10/18/23923136/ayaneo-flip-ds-kb-handheld-gaming-pc-nintendo-emulation)<!-- TECH:END -->
+ - [Universal Music Publishing Group, Concord Music Group, and ABKCO sue Anthropic, saying it violated copyrights by using existing song lyrics to train AI models &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/231018/p37#a231018p37)
+ - [How Owning a Passive Home Could Wipe Out Your Energy Bill     - CNET](https://www.cnet.com/home/energy-and-utilities/how-owning-a-passive-home-could-wipe-out-your-energy-bill/#ftag=CAD590a51e)
+ - [Will there be a Kindle Paperwhite 6? All the rumors and what we want to see](https://www.androidauthority.com/kindle-paperwhite-6-3368893/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
