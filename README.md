@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumors of all iPhone 16 models having an A18 processor make no sense](https://appleinsider.com/articles/23/10/19/rumors-of-all-iphone-16-models-having-an-a18-processor-make-no-sense?utm_medium=rss)
- - [The FCC votes 3-2 to begin to re-establish net neutrality rules, starting by inviting public comments; the effort still faces a long legal and political battle &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231019/p31#a231019p31)
- - [23andMe says it’s looking into another possible data leak](https://www.theverge.com/2023/10/19/23923861/23andme-possible-data-leak-hack)<!-- TECH:END -->
+ - [Be an early Motorola Razr 2023 adopter with this $100 launch discount](https://www.androidauthority.com/motorola-razr-2023-deal-3377901/)
+ - [Swedish luxury firm adds 7,586 diamonds to Apple devices for some reason](https://appleinsider.com/articles/23/10/19/swiss-luxury-firm-adds-7586-diamonds-to-apple-devices-for-some-reason?utm_medium=rss)
+ - [The FBI and DOJ say thousands of IT workers sent by North Korea to work remotely with US companies with false IDs have sent millions in wages to the country &lpar;Jim Salter/Associated Press&rpar;](http://www.techmeme.com/231019/p33#a231019p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
