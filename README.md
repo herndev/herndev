@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Live Your Best Cozy &amp; Chaotic Life in Witchy Life Story](https://news.xbox.com/en-us/2023/10/19/live-your-best-cozy-chaotic-life-in-witchy-life-story/)
- - [‘You’re so Skibidi, so Fanum tax,’ and other fun nonsense, explained](https://www.polygon.com/23921363/skibidi-fanum-tax-rizz-gyatt-gyat-meaning-meme-explained)
- - [Oppenheimer 4K Blu-ray drops on Nov. 21, and you can pre-order now](https://www.polygon.com/23923945/oppenheimer-blu-ray-4k-uhd-pre-order-guide-where-to-buy)<!-- GAME:END -->
+ - [Learn More About FixyText, Coming to Xbox in The Jackbox Party Pack 10](https://news.xbox.com/en-us/2023/10/19/learn-more-about-the-jackbox-party-pack-10/)
+ - [How queerness became calamity in Tears of the Kingdom](https://www.polygon.com/23922313/legend-of-zelda-tears-kingdom-totk-queer-gender-link)
+ - [Spider-Man 2’s adorable Easter egg reminds us to play indie games](https://www.polygon.com/23924245/spider-man-2-easter-egg-indie-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
