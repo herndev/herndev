@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Victoria Beckham tried to claim she came from a `working class`](http://9gag.com/gag/aYV6jGq)
+ - 💣 [*sigh unzips](http://9gag.com/gag/aDY9R2K)
  - ⏩ [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 👉 [Nice farewell card](http://9gag.com/gag/axo85pM)<!-- MEMES:END -->
+ - 👉 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)<!-- MEMES:END -->
 
 ---
 
