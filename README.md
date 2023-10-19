@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to start assembling the Pixel 8 and Pixel 8 Pro in India and begin India-made shipments in 2024, but didn&#39;t reveal its local manufacturing partners &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231019/p10#a231019p10)
- - [Gen V: Here’s what you need to know about The Boys spin-off](https://www.androidauthority.com/gen-v-season-1-release-date-3377364/)
- - [Chainalysis says recent media reports about the supposed use of crypto by terrorist organizations might be overstating metrics and using &quot;flawed analyses&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231019/p9#a231019p9)<!-- TECH:END -->
+ - [Wear OS gains a Google Assistant tile: Here’s what it can do](https://www.androidauthority.com/google-assistant-tile-wear-os-3377683/)
+ - [Lam Research reports Q1 revenue down 31% YoY to $3.48B, vs. $3.42B est., the third straight quarter of decline, as the chipmaking tools market remains &quot;soft&quot; &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/231019/p13#a231019p13)
+ - [Yeah, sure: T-Mobile says those forced plan ‘upgrades’ were just a test](https://www.androidauthority.com/t-mobile-forced-plan-changes-test-3377671/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
