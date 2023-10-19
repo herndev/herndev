@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe announces Elements 2023 for Photoshop &amp; Premiere](https://appleinsider.com/articles/23/10/19/adobe-announces-elements-2023-for-photoshop-premiere?utm_medium=rss)
- - [The Pixel Watch 2 and Fitbit Charge 6 are death knells for the Sense series](https://www.androidauthority.com/pixel-watch-2-fitbit-charge-6-death-knells-sense-series-3376617/)
- - [Google Pixel 8 tips: Take you Pixel experience to the next level](https://www.androidauthority.com/google-pixel-8-tips-3375809/)<!-- TECH:END -->
+ - [AMD’s Threadripper CPUs return with a 96-core monster chip](https://www.theverge.com/2023/10/19/23923758/amd-threadripper-zen-4-release-date-price)
+ - [Swiss luxury firm adds 7,586 diamonds to Apple devices for some reason](https://appleinsider.com/articles/23/10/19/swiss-luxury-firm-adds-7586-diamonds-to-apple-devices-for-some-reason?utm_medium=rss)
+ - [SynFutures, a decentralized derivatives exchange for trading crypto perpetual futures, raised a $22M Series B led by Pantera, after a $14M Series A in June 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231019/p25#a231019p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
