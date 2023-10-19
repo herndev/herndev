@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - ⏩ [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
- - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
+ - 💣 [Influencer in real life](http://9gag.com/gag/amAyDy6)
+ - ⏩ [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 👉 [Old but memorable](http://9gag.com/gag/aGEqWAG)<!-- MEMES:END -->
 
 ---
 
