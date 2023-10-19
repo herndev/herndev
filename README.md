@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda plans to set up a joint venture with GM and Cruise in H1 2024 to begin a driverless ride service in Japan in early 2026, starting with central Tokyo &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p42#a231018p42)
- - [The US House China committee asks Sequoia about its investments since 2010 in AI, quantum, and chip companies based in or having significant operations in China &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p41#a231018p41)
- - [How to access Apple News+ crossword puzzles in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-access-apple-news-crossword-puzzles-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [SecureW2, which offers a passwordless authentication service to companies, raised $80M from Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231018/p44#a231018p44)
+ - [Sydney-based Employment Hero, which provides a recruitment and HR platform, raised a A$263M Series F at a A$2.13B valuation, taking its total funding to A$650M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231018/p43#a231018p43)
+ - [Get lifetime access to MS Office Home &amp; Business 2021 for Mac at 86% off](https://appleinsider.com/articles/23/10/19/get-lifetime-access-to-ms-office-home-business-2021-for-mac-at-88-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
