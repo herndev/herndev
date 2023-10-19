@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Embracer reportedly guts another studio in the wake of its dead-in-the-water $2 billion deal](https://www.pcgamer.com/embracer-reportedly-guts-another-studio-in-the-wake-of-its-dead-in-the-water-dollar2-billion-deal)
- - [How to get Greavard and evolution Houndstone in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23923657/greavard-evolution-houndstone-shiny)
- - [The best skills in Spider-Man 2 for PS5](https://www.polygon.com/spider-man-2-guides/23919342/best-skills-shared-peter-miles)<!-- GAME:END -->
+ - [Power the Gaming Dreams in All of Us](https://news.xbox.com/en-us/2023/10/19/power-your-dreams/)
+ - [For years I believed Windows to be making up problems with my removable drives. Turns out I&#39;m the problem](https://www.pcgamer.com/for-years-i-believed-windows-to-be-making-up-problems-with-my-removable-drives-turns-out-im-the-problem)
+ - [Before you judge me for drooling over these gorgeous 3D CT scans of USB cables I implore you to check them out yourself](https://www.pcgamer.com/before-you-judge-me-for-drooling-over-these-gorgeous-3d-ct-scans-of-usb-cables-i-implore-you-to-check-them-out-yourself)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
