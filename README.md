@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s clever At A Glance widget is getting a little smarter](https://www.androidauthority.com/google-at-a-glance-widget-store-3376155/)
- - [DALL-E 3: Release date, features, pricing, and more](https://www.androidauthority.com/dall-e-3-3377629/)
- - [Facing “screen burn-in” on your iPhone 15 Pro? Apple has a fix for you](https://www.androidauthority.com/apple-iphone-15-pro-screen-burn-in-ios171-fix-3377611/)<!-- TECH:END -->
+ - [Google plans to start assembling the Pixel 8 and Pixel 8 Pro in India and begin India-made shipments in 2024, but didn&#39;t reveal its local manufacturing partners &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231019/p10#a231019p10)
+ - [Gen V: Here’s what you need to know about The Boys spin-off](https://www.androidauthority.com/gen-v-season-1-release-date-3377364/)
+ - [Chainalysis says recent media reports about the supposed use of crypto by terrorist organizations might be overstating metrics and using &quot;flawed analyses&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231019/p9#a231019p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
