@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: YouTube is building an AI tool to let creators record audio using famous musicians&#39; voices and is seeking rights from companies for training the tool &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231018/p40#a231018p40)
- - [WhatsApp is rolling out a view once mode for voice notes to some beta users on iOS and Android, after launching the feature for photos and videos in August 2021 &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231018/p39#a231018p39)
- - [Elon Musk answers Tesla pricing question with anti work-from-home rant](https://www.theverge.com/2023/10/18/23923218/elon-musk-q3-tesla-earnings-work-from-home)<!-- TECH:END -->
+ - [Honda plans to set up a joint venture with GM and Cruise in H1 2024 to begin a driverless ride service in Japan in early 2026, starting with central Tokyo &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p42#a231018p42)
+ - [The US House China committee asks Sequoia about its investments since 2010 in AI, quantum, and chip companies based in or having significant operations in China &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p41#a231018p41)
+ - [How to access Apple News+ crossword puzzles in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-access-apple-news-crossword-puzzles-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
