@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess we&#39;ll never know...](http://9gag.com/gag/aME6pWG)
- - ⏩ [Safety lesson...](http://9gag.com/gag/aQEKYbW)
- - 👉 [Influencer in real life](http://9gag.com/gag/amAyDy6)<!-- MEMES:END -->
+ - 💣 [Victoria Beckham tried to claim she came from a `working class`](http://9gag.com/gag/aYV6jGq)
+ - ⏩ [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 👉 [Nice farewell card](http://9gag.com/gag/axo85pM)<!-- MEMES:END -->
 
 ---
 
