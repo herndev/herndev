@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - ⏩ [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
+ - 💣 [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - ⏩ [Hellohohoo](http://9gag.com/gag/aPg0Exn)
  - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 ---
