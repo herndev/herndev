@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*sigh unzips](http://9gag.com/gag/aDY9R2K)
- - ⏩ [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 👉 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)<!-- MEMES:END -->
+ - 💣 [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - ⏩ [Influencer in real life](http://9gag.com/gag/amAyDy6)
+ - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 ---
 
