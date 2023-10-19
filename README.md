@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - ⏩ [Influencer in real life](http://9gag.com/gag/amAyDy6)
- - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
+ - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - ⏩ [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
+ - 👉 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)<!-- MEMES:END -->
 
 ---
 
