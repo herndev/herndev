@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An international group of law enforcement agencies, including the US, the EU, and Japan, seizes the dark web portal used by the RagnarLocker ransomware group &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231019/p27#a231019p27)
- - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
- - [The EU is looking into Meta and TikTok’s handling of the Israel-Hamas war](https://www.theverge.com/2023/10/19/23923768/eu-digital-services-act-meta-tiktok-violations-israel-hamas-war)<!-- TECH:END -->
+ - [Rumors of all iPhone 16 models having an A18 processor make no sense](https://appleinsider.com/articles/23/10/19/rumors-of-all-iphone-16-models-having-an-a18-processor-make-no-sense?utm_medium=rss)
+ - [The FCC votes 3-2 to begin to re-establish net neutrality rules, starting by inviting public comments; the effort still faces a long legal and political battle &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231019/p31#a231019p31)
+ - [23andMe says it’s looking into another possible data leak](https://www.theverge.com/2023/10/19/23923861/23andme-possible-data-leak-hack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
