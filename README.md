@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [My favorite Titanic adventure game is remarkably faithful to the historic disaster, except for how it floats above Tokyo circa 2026 stuffed with demons](https://www.pcgamer.com/my-favorite-titanic-adventure-game-is-remarkably-faithful-to-the-historic-disaster-except-for-how-it-floats-above-tokyo-circa-2026-stuffed-with-demons)
  - [Learn More About FixyText, Coming to Xbox in The Jackbox Party Pack 10](https://news.xbox.com/en-us/2023/10/19/learn-more-about-the-jackbox-party-pack-10/)
- - [How queerness became calamity in Tears of the Kingdom](https://www.polygon.com/23922313/legend-of-zelda-tears-kingdom-totk-queer-gender-link)
- - [Spider-Man 2’s adorable Easter egg reminds us to play indie games](https://www.polygon.com/23924245/spider-man-2-easter-egg-indie-game)<!-- GAME:END -->
+ - [How queerness became calamity in Tears of the Kingdom](https://www.polygon.com/23922313/legend-of-zelda-tears-kingdom-totk-queer-gender-link)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
