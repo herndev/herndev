@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
- - ⏩ [Greedy f*cks](http://9gag.com/gag/aVb8GYy)
- - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
+ - 💣 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
+ - ⏩ [Old but memorable](http://9gag.com/gag/aGEqWAG)
+ - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 ---
 
