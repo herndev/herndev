@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - ⏩ [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
+ - 💣 [Blair White is a Transgender who gets it](http://9gag.com/gag/aWGAK53)
+ - ⏩ [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)
+ - 👉 [Real slave](http://9gag.com/gag/aqeO37P)<!-- MEMES:END -->
 
 ---
 
