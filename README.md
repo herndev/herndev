@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
- - ⏩ [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 👉 [Still no clue](http://9gag.com/gag/a7qBYZq)<!-- MEMES:END -->
+ - 💣 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - ⏩ [Greedy f*cks](http://9gag.com/gag/aVb8GYy)
+ - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
 
 ---
 
