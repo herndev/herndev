@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Limited Edition Spider-Man 2 Wheaties Selling For $70](https://kotaku.com/spiderman-2-ps5-wheaties-cereal-price-1850941680)
- - [Elden Ring has launched an official luxury streetwear collab, and for the low price of $1,700 you can own your own faux fur coat lined with The Lands Between](https://www.pcgamer.com/elden-ring-has-launched-an-official-luxury-streetwear-collab-and-for-the-low-price-of-dollar1700-you-can-own-your-own-faux-fur-coat-lined-with-the-lands-between)
- - [Pokémon Go ‘Spiritomb Limited Research’ 2023 quest steps, rewards](https://www.polygon.com/pokemon-go-guide/23923980/spiritomb-limited-research-2023-quest-steps-shiny)<!-- GAME:END -->
+ - [Live Your Best Cozy &amp; Chaotic Life in Witchy Life Story](https://news.xbox.com/en-us/2023/10/19/live-your-best-cozy-chaotic-life-in-witchy-life-story/)
+ - [‘You’re so Skibidi, so Fanum tax,’ and other fun nonsense, explained](https://www.polygon.com/23921363/skibidi-fanum-tax-rizz-gyatt-gyat-meaning-meme-explained)
+ - [Oppenheimer 4K Blu-ray drops on Nov. 21, and you can pre-order now](https://www.polygon.com/23923945/oppenheimer-blu-ray-4k-uhd-pre-order-guide-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
