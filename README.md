@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is rolling out a view once mode for voice notes to some iOS and Android users in beta, after launching the feature for photos and videos in August 2021 &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231018/p39#a231018p39)
- - [Elon Musk answers Tesla pricing question with anti work-from-home rant](https://www.theverge.com/2023/10/18/23923218/elon-musk-q3-tesla-earnings-work-from-home)
- - [Amazon plans to expand its Prime Air drone delivery system to the UK, Italy, and a third US city beginning in late 2024 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231018/p38#a231018p38)<!-- TECH:END -->
+ - [Sources: YouTube is building an AI tool to let creators record audio using famous musicians&#39; voices and is seeking rights from companies for training the tool &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231018/p40#a231018p40)
+ - [WhatsApp is rolling out a view once mode for voice notes to some beta users on iOS and Android, after launching the feature for photos and videos in August 2021 &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231018/p39#a231018p39)
+ - [Elon Musk answers Tesla pricing question with anti work-from-home rant](https://www.theverge.com/2023/10/18/23923218/elon-musk-q3-tesla-earnings-work-from-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
