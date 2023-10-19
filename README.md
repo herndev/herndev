@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - ⏩ [Influencer in real life](http://9gag.com/gag/amAyDy6)
- - 👉 [Still no clue](http://9gag.com/gag/a7qBYZq)<!-- MEMES:END -->
+ - 💣 [I guess we&#39;ll never know...](http://9gag.com/gag/aME6pWG)
+ - ⏩ [Safety lesson...](http://9gag.com/gag/aQEKYbW)
+ - 👉 [Influencer in real life](http://9gag.com/gag/amAyDy6)<!-- MEMES:END -->
 
 ---
 
