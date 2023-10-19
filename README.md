@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the UK plans to announce an international advisory group on AI, loosely modeled on the UN&#39;s IPCC, at the November 2023 AI summit in Bletchley Park &lpar;Financial Times&rpar;](http://www.techmeme.com/231019/p3#a231019p3)
  - [Google rolls out Play Protect with real-time scanning at the code level, which will prompt users to scan unknown apps before sideloading, starting with India &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231019/p2#a231019p2)
- - [The US GSA plans to add facial recognition tech to Login.gov in 2024 and a digital identity verification option for those who don&#39;t want to use facial matching &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/231019/p1#a231019p1)
- - [SecureW2, which offers a passwordless authentication service to companies, raised $80M from Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231018/p44#a231018p44)<!-- TECH:END -->
+ - [The US GSA plans to add facial recognition tech to Login.gov in 2024 and a digital identity verification option for those who don&#39;t want to use facial matching &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/231019/p1#a231019p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
