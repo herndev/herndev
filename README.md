@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blair White is a Transgender who gets it](http://9gag.com/gag/aWGAK53)
- - ⏩ [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)
- - 👉 [Real slave](http://9gag.com/gag/aqeO37P)<!-- MEMES:END -->
+ - 💣 [How to get rid of termite swarmers](http://9gag.com/gag/avQVbWM)
+ - ⏩ [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - 👉 [It&#39;s kinda boring, I better stay with my Pixel6](http://9gag.com/gag/aME6oxA)<!-- MEMES:END -->
 
 ---
 
