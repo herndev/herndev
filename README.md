@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Influencer in real life](http://9gag.com/gag/amAyDy6)
- - ⏩ [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 👉 [Old but memorable](http://9gag.com/gag/aGEqWAG)<!-- MEMES:END -->
+ - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - ⏩ [Influencer in real life](http://9gag.com/gag/amAyDy6)
+ - 👉 [Still no clue](http://9gag.com/gag/a7qBYZq)<!-- MEMES:END -->
 
 ---
 
