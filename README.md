@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS gains a Google Assistant tile: Here’s what it can do](https://www.androidauthority.com/google-assistant-tile-wear-os-3377683/)
- - [Lam Research reports Q1 revenue down 31% YoY to $3.48B, vs. $3.42B est., the third straight quarter of decline, as the chipmaking tools market remains &quot;soft&quot; &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/231019/p13#a231019p13)
- - [Yeah, sure: T-Mobile says those forced plan ‘upgrades’ were just a test](https://www.androidauthority.com/t-mobile-forced-plan-changes-test-3377671/)<!-- TECH:END -->
+ - [Google Meet adds skin smoothing and teeth whitening effects for video calls](https://www.theverge.com/2023/10/19/23923650/google-meet-portrait-touch-up-skin-smoothing-teeth-whitening-filter-effects)
+ - [US v. SBF: accounting professor Peter Easton testifies that FTX used &quot;over a billion dollars&quot; of customer funds to buy back Binance&#39;s FTX stake, bought in 2019 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231019/p16#a231019p16)
+ - [Beyerdynamic MMX 200 Wireless Gaming Headset Sounds Great, Less Filling     - CNET](https://www.cnet.com/tech/computing/beyerdynamic-mmx-200-wireless-gaming-headset-sounds-great-less-filling/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
