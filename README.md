@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – NBA 2K24, Lawn Mowing Simulator, Diablo IV, and Hokko Life](https://news.xbox.com/en-us/2023/10/19/free-play-days-nba-2k24-lawn-mowing-simulator-diablo-iv-and-hokko-life/)
- - [Spider-Man 2 Getting New Game Plus And More By The End Of 2023](https://kotaku.com/spider-man-2-ps5-new-game-plus-replay-missions-patch-1850941017)
- - [The upcoming Assassin&#39;s Creed VR game looks genuinely cool if you can keep yourself from throwing up](https://www.pcgamer.com/the-upcoming-assassins-creed-vr-game-looks-genuinely-cool-if-you-can-keep-yourself-from-throwing-up)<!-- GAME:END -->
+ - [Take Your F1 Team to the Top of the Podium with These Tips for F1 Manager 23 – Available Now on Game Pass](https://news.xbox.com/en-us/2023/10/19/f1-manager-23-now-available-on-game-pass/)
+ - [Cities: Skylines 2 does the brain good](https://www.polygon.com/reviews/23923164/cities-skylines-2-review-pc-steam)
+ - [How to get Living Steel and summon Grigoire in Diablo 4](https://www.pcgamer.com/diablo-4-living-steel-grigoire-summon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
