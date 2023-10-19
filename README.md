@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [$10,000 up for grabs in the Talking Angela Fashion Contest](https://www.pcgamer.com/dollar10000-up-for-grabs-in-the-talking-angela-fashion-contest)
- - [Enjoy Superior Comfort with the new ThunderX3 premium ergonomic gaming chair](https://www.pcgamer.com/new-ThunderX3-premium-ergonomic-gaming-chair)
- - [Intel Core i5 14600K review](https://www.pcgamer.com/intel-core-i5-14600k-review-performance-benchmarks)<!-- GAME:END -->
+ - [Spider-Man 2 takes Naughty Dog’s house style and makes it its own](https://www.polygon.com/gaming/23915893/spider-man-2-ps5-insomniac-games-naughty-dog-sony-cinematic)
+ - [This Baldur&#39;s Gate 3 NPC has brutal, tailor-made taunts to wreck the psyche of every companion character](https://www.pcgamer.com/this-baldurs-gate-3-npc-has-brutal-tailor-made-taunts-to-wreck-the-psyche-of-every-companion-character)
+ - [Habbo abandons Web3 &#39;jargon&#39; but remains all-in on the blockchain](https://www.pcgamer.com/habbo-abandons-web3-jargon-but-remains-all-in-on-the-blockchain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
