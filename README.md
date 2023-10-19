@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2 takes Naughty Dog’s house style and makes it its own](https://www.polygon.com/gaming/23915893/spider-man-2-ps5-insomniac-games-naughty-dog-sony-cinematic)
- - [This Baldur&#39;s Gate 3 NPC has brutal, tailor-made taunts to wreck the psyche of every companion character](https://www.pcgamer.com/this-baldurs-gate-3-npc-has-brutal-tailor-made-taunts-to-wreck-the-psyche-of-every-companion-character)
- - [Habbo abandons Web3 &#39;jargon&#39; but remains all-in on the blockchain](https://www.pcgamer.com/habbo-abandons-web3-jargon-but-remains-all-in-on-the-blockchain)<!-- GAME:END -->
+ - [Embracer reportedly guts another studio in the wake of its dead-in-the-water $2 billion deal](https://www.pcgamer.com/embracer-reportedly-guts-another-studio-in-the-wake-of-its-dead-in-the-water-dollar2-billion-deal)
+ - [How to get Greavard and evolution Houndstone in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23923657/greavard-evolution-houndstone-shiny)
+ - [The best skills in Spider-Man 2 for PS5](https://www.polygon.com/spider-man-2-guides/23919342/best-skills-shared-peter-miles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
