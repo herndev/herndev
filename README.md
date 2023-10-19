@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get rid of termite swarmers](http://9gag.com/gag/avQVbWM)
- - ⏩ [Nice farewell card](http://9gag.com/gag/axo85pM)
- - 👉 [It&#39;s kinda boring, I better stay with my Pixel6](http://9gag.com/gag/aME6oxA)<!-- MEMES:END -->
+ - 💣 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - ⏩ [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 👉 [Still no clue](http://9gag.com/gag/a7qBYZq)<!-- MEMES:END -->
 
 ---
 
