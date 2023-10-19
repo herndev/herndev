@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the UK plans to announce an international advisory group on AI, loosely modeled on the UN&#39;s IPCC, at the November 2023 AI summit in Bletchley Park &lpar;Financial Times&rpar;](http://www.techmeme.com/231019/p3#a231019p3)
- - [Google rolls out Play Protect with real-time scanning at the code level, which will prompt users to scan unknown apps before sideloading, starting with India &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231019/p2#a231019p2)
- - [The US GSA plans to add facial recognition tech to Login.gov in 2024 and a digital identity verification option for those who don&#39;t want to use facial matching &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/231019/p1#a231019p1)<!-- TECH:END -->
+ - [Get ready to pay even more for Netflix’s popular plans](https://www.androidauthority.com/netflix-price-increase-october-2023-3377605/)
+ - [Nokia plans to cut up to 14,000 jobs, or ~16% of its 86,000 workforce, and reports Q3 2023 net sales down 20% YoY to &amp;euro;4.98B and profit down 69% YoY to &amp;euro;133M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231019/p6#a231019p6)
+ - [Mustafa Suleyman, Eric Schmidt, and others propose an IPCC-like International Panel on AI Safety, an objective advisory body to help shape protocols and norms &lpar;Financial Times&rpar;](http://www.techmeme.com/231019/p5#a231019p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
