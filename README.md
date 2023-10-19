@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take Your F1 Team to the Top of the Podium with These Tips for F1 Manager 23 – Available Now on Game Pass](https://news.xbox.com/en-us/2023/10/19/f1-manager-23-now-available-on-game-pass/)
- - [Cities: Skylines 2 does the brain good](https://www.polygon.com/reviews/23923164/cities-skylines-2-review-pc-steam)
- - [How to get Living Steel and summon Grigoire in Diablo 4](https://www.pcgamer.com/diablo-4-living-steel-grigoire-summon)<!-- GAME:END -->
+ - [Limited Edition Spider-Man 2 Wheaties Selling For $70](https://kotaku.com/spiderman-2-ps5-wheaties-cereal-price-1850941680)
+ - [Elden Ring has launched an official luxury streetwear collab, and for the low price of $1,700 you can own your own faux fur coat lined with The Lands Between](https://www.pcgamer.com/elden-ring-has-launched-an-official-luxury-streetwear-collab-and-for-the-low-price-of-dollar1700-you-can-own-your-own-faux-fur-coat-lined-with-the-lands-between)
+ - [Pokémon Go ‘Spiritomb Limited Research’ 2023 quest steps, rewards](https://www.polygon.com/pokemon-go-guide/23923980/spiritomb-limited-research-2023-quest-steps-shiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
