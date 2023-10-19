@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet adds skin smoothing and teeth whitening effects for video calls](https://www.theverge.com/2023/10/19/23923650/google-meet-portrait-touch-up-skin-smoothing-teeth-whitening-filter-effects)
- - [US v. SBF: accounting professor Peter Easton testifies that FTX used &quot;over a billion dollars&quot; of customer funds to buy back Binance&#39;s FTX stake, bought in 2019 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231019/p16#a231019p16)
- - [Beyerdynamic MMX 200 Wireless Gaming Headset Sounds Great, Less Filling     - CNET](https://www.cnet.com/tech/computing/beyerdynamic-mmx-200-wireless-gaming-headset-sounds-great-less-filling/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US v. Google: Pandu Nayak, Google&#39;s VP of Search and first witness, testifies that smart employees explain its success and lead to innovations, such as on LLMs &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231019/p20#a231019p20)
+ - [iPhone 15 fails to save TSMC from lowest profits in five years](https://appleinsider.com/articles/23/10/19/iphone-15-fails-to-save-tsmc-from-lowest-profits-in-five-years?utm_medium=rss)
+ - [Google Chrome’s address bar is gaining a set of new skills](https://www.androidauthority.com/google-chrome-address-bar-updates-3377720/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
