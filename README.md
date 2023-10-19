@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Power the Gaming Dreams in All of Us](https://news.xbox.com/en-us/2023/10/19/power-your-dreams/)
- - [For years I believed Windows to be making up problems with my removable drives. Turns out I&#39;m the problem](https://www.pcgamer.com/for-years-i-believed-windows-to-be-making-up-problems-with-my-removable-drives-turns-out-im-the-problem)
- - [Before you judge me for drooling over these gorgeous 3D CT scans of USB cables I implore you to check them out yourself](https://www.pcgamer.com/before-you-judge-me-for-drooling-over-these-gorgeous-3d-ct-scans-of-usb-cables-i-implore-you-to-check-them-out-yourself)<!-- GAME:END -->
+ - [The first Intel Meteor Lake handheld gaming PC breaks cover as does the most Nintendo DS PC you will ever see](https://www.pcgamer.com/the-first-intel-meteor-lake-handheld-gaming-pc-breaks-cover-as-does-the-most-nintendo-ds-pc-you-will-ever-see)
+ - [World&#39;s Coolest Dog Set To Speedrun Unbeloved Nintendo Game](https://kotaku.com/awesome-games-done-quick-2024-agdq-shiba-inu-1850939684)
+ - [You can get $400 of Vampire: The Masquerade books for ridiculously cheap on Humble Bundle right now](https://www.pcgamer.com/you-can-get-dollar400-of-vampire-the-masquerade-books-for-ridiculously-cheap-on-humble-bundle-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
