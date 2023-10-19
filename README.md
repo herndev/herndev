@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC permits consumer products to utilize more of the 6GHz band, benefiting Apple](https://appleinsider.com/articles/23/10/19/fcc-permits-consumer-products-to-utilize-more-of-the-6ghz-band-benefiting-apple?utm_medium=rss)
- - [Amazon, Microsoft, and India crack down on tech support scams](https://www.theverge.com/2023/10/19/23924294/amazon-microsoft-india-cbi-crackdown-technology-support-fraud)
- - [Amazon eliminated plastic packaging at one of its warehouses](https://www.theverge.com/2023/10/19/23923863/amazon-plastic-free-mail-packages-euclid-ohio-warehouse)<!-- TECH:END -->
+ - [Toyota and Lexus join the Tesla charging connector bandwagon](https://www.theverge.com/2023/10/19/23924413/toyota-lexus-tesla-nacs-supercharger-electric-vehicle-charging-2025)
+ - [Product Hunt CEO says layoffs announced on October 10 were for strategic reasons, not &quot;financial or company performance reasons&quot;, and impacted ~60% of its team &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231019/p38#a231019p38)
+ - [India&#39;s Central Bureau of Investigation works with Microsoft and Amazon to raid 76 locations in a nationwide crackdown on tech support scams and crypto fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231019/p37#a231019p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
