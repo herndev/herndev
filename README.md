@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer for #852 Thursday, October 19](https://www.pcgamer.com/wordle-today-answer-852-october-19)
- - [Every Bethesda RPG, ranked from worst to best](https://www.pcgamer.com/every-bethesda-rpg-ranked-from-worst-to-best)
- - [Zotac’s new Mini PC will hopefully usher in a new era of device cooling](https://www.pcgamer.com/zotacs-new-mini-pc-will-hopefully-usher-in-a-new-era-of-device-cooling)<!-- GAME:END -->
+ - [$10,000 up for grabs in the Talking Angela Fashion Contest](https://www.pcgamer.com/dollar10000-up-for-grabs-in-the-talking-angela-fashion-contest)
+ - [Enjoy Superior Comfort with the new ThunderX3 premium ergonomic gaming chair](https://www.pcgamer.com/new-ThunderX3-premium-ergonomic-gaming-chair)
+ - [Intel Core i5 14600K review](https://www.pcgamer.com/intel-core-i5-14600k-review-performance-benchmarks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
