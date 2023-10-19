@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer for #852 Thursday, October 19](https://www.pcgamer.com/wordle-today-answer-852-october-19)
  - [Every Bethesda RPG, ranked from worst to best](https://www.pcgamer.com/every-bethesda-rpg-ranked-from-worst-to-best)
- - [Zotac’s new Mini PC will hopefully usher in a new era of device cooling](https://www.pcgamer.com/zotacs-new-mini-pc-will-hopefully-usher-in-a-new-era-of-device-cooling)
- - [Diablo 4 has ditched the lifeless grind and entered a new loot-filled era in season 2](https://www.pcgamer.com/diablo-4-has-ditched-the-lifeless-grind-and-entered-a-new-loot-filled-era-in-season-2)<!-- GAME:END -->
+ - [Zotac’s new Mini PC will hopefully usher in a new era of device cooling](https://www.pcgamer.com/zotacs-new-mini-pc-will-hopefully-usher-in-a-new-era-of-device-cooling)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
