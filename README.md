@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - ⏩ [Baby strong Baby bonk](http://9gag.com/gag/aBdMBAP)
- - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
+ - 💣 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - ⏩ [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
 
 ---
 
