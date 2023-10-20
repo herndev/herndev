@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My six-month dive into podcasting’s very chaotic year](https://www.theverge.com/2023/10/20/23925917/youtube-hot-pod-goodbye-podcasting-bust)
  - [Friday news dumps: all the news companies hoped you wouldn’t notice](https://www.theverge.com/2023/10/20/23925862/friday-bad-news-dumps-companies)
- - [SCOTUS pauses a ruling that banned Biden administration officials from engaging in many kinds of contact with social media platforms as it hears a DOJ appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)
- - [&#39;Super Mario Bros. Wonder&#39; Is the Face of Nintendo&#39;s Transformation](https://www.wired.com/story/mario-wonder-gameplay-doug-bowser-interview/)<!-- TECH:END -->
+ - [SCOTUS pauses a ruling banning Biden administration officials from contacting social media platforms about misinformation and agrees to hear the DOJ&#39;s appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
