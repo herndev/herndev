@@ -39,7 +39,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk confirms two new X Premium tiers, a lower than the current $8 per month with all the features but no reduction in ads and an expensive one with no ads &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231020/p3#a231020p3)
+ - [Musk: X to launch two new Premium tiers, one for less than the current $8/mo one with all features and no reduction in ads, the other more expensive with no ads &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231020/p3#a231020p3)
  - [Beijing-based generative AI startup Beijing Zhipu Huazhang has raised ~$342M from Alibaba, Tencent, Ant Group, Xiaomi, HongShan, Meituan, and others in 2023 &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231020/p2#a231020p2)
  - [News publishers scramble to adjust to declining referral traffic, as Meta, X, and even Google become less dependable at amplifying and supporting journalism &lpar;New York Times&rpar;](http://www.techmeme.com/231020/p1#a231020p1)<!-- TECH:END -->
 
