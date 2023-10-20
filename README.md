@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Reddit is considering putting its content behind a log-in page if it fails to make a deal with generative AI companies about paying for its data &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231020/p11#a231020p11)
- - [Brave browser installs a VPN service on Windows whether you want it or not](https://www.theverge.com/2023/10/20/23925192/brave-browser-vpn-windows-11)
- - [Inside Discord’s reform movement for banned users](https://www.theverge.com/2023/10/20/23925119/discord-moderation-reform-rehabilitation-users-servers)<!-- TECH:END -->
+ - [Apple&#39;s Killers of the Flower Moon hits cinemas globally, after Tim Cook personally attended the Cannes premiere, ahead of Ridley Scott&#39;s Napoleon in November &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p12#a231020p12)
+ - [Daily deals Oct. 20: 14&quot; MacBook Pro 32GB RAM $1,499, iPad 9th Gen $249, Samsung M8 2023 monitor $499, more](https://appleinsider.com/articles/23/10/20/daily-deals-oct-20-14-macbook-pro-32gb-ram-1499-ipad-9th-gen-249-samsung-m8-2023-monitor-499-more?utm_medium=rss)
+ - [Tip: How to turn off macOS Sonoma&#39;s click to reveal desktop](https://appleinsider.com/inside/macos-sonoma/tips/tip-how-to-turn-off-macos-sonomas-click-to-reveal-desktop?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
