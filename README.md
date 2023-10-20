@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Killers of the Flower Moon hits cinemas globally, after Tim Cook personally attended the Cannes premiere, ahead of Ridley Scott&#39;s Napoleon in November &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p12#a231020p12)
- - [Daily deals Oct. 20: 14&quot; MacBook Pro 32GB RAM $1,499, iPad 9th Gen $249, Samsung M8 2023 monitor $499, more](https://appleinsider.com/articles/23/10/20/daily-deals-oct-20-14-macbook-pro-32gb-ram-1499-ipad-9th-gen-249-samsung-m8-2023-monitor-499-more?utm_medium=rss)
- - [Tip: How to turn off macOS Sonoma&#39;s click to reveal desktop](https://appleinsider.com/inside/macos-sonoma/tips/tip-how-to-turn-off-macos-sonomas-click-to-reveal-desktop?utm_medium=rss)<!-- TECH:END -->
+ - [Faze Clan acquired for $17 million, one year after its $725 million SPAC](https://www.theverge.com/2023/10/20/23925149/faze-clan-gamesquare-acquisition)
+ - [Marvel’s Spider-Man 2 is already on sale with a $10 PlayStation Store gift card](https://www.theverge.com/2023/10/20/23923933/marvels-spider-man-2-apple-m2-macbook-air-oneplus-open-deal-sale)
+ - [A look at Cameo&#39;s peak during the pandemic and subsequent fall due to trouble recruiting big stars, the CEO&#39;s haphazard leadership, and more &lpar;New York Times&rpar;](http://www.techmeme.com/231020/p13#a231020p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
