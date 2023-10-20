@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Faze Clan acquired for $17 million, one year after its $725 million SPAC](https://www.theverge.com/2023/10/20/23925149/faze-clan-gamesquare-acquisition)
- - [Marvel’s Spider-Man 2 is already on sale with a $10 PlayStation Store gift card](https://www.theverge.com/2023/10/20/23923933/marvels-spider-man-2-apple-m2-macbook-air-oneplus-open-deal-sale)
- - [A look at Cameo&#39;s peak during the pandemic and subsequent fall due to trouble recruiting big stars, the CEO&#39;s haphazard leadership, and more &lpar;New York Times&rpar;](http://www.techmeme.com/231020/p13#a231020p13)<!-- TECH:END -->
+ - [Frying pan company sued for claiming temperatures that rival the Sun](https://www.theverge.com/2023/10/20/23925424/sharkninja-lawsuit-frying-pan-temperatures-hotter-than-sun)
+ - [‘Nothing is changing’: Reddit flatly denies report that it might wall off its content](https://www.theverge.com/2023/10/20/23925504/reddit-deny-force-log-in-see-posts-ai-companies-deals)
+ - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
