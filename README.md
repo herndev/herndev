@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 Pro teardown exposes its temperature sensor and a sticky battery setup](https://www.theverge.com/2023/10/20/23925722/ifixit-pixel-8-pro-teardown-temperature-reader)
- - [The Cybertruck’s VINs reveal clues about the long-delayed truck](https://www.theverge.com/2023/10/20/23925647/tesla-cybertruck-vin-number-decoder-powertrain-dual-triple-motor-gvwr)
- - [Cybersecurity company Okta closes down 11.5% after saying a hacker had accessed its support system using a stolen credential and viewed some client files &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231020/p19#a231020p19)<!-- TECH:END -->
+ - [Friday news dumps: all the news companies hoped you wouldn’t notice](https://www.theverge.com/2023/10/20/23925862/friday-bad-news-dumps-companies)
+ - [SCOTUS pauses a ruling that banned Biden administration officials from engaging in many kinds of contact with social media platforms as it hears a DOJ appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)
+ - [&#39;Super Mario Bros. Wonder&#39; Is the Face of Nintendo&#39;s Transformation](https://www.wired.com/story/mario-wonder-gameplay-doug-bowser-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
