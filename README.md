@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skylum gears up to add generative AI powered photo features to Luminar Neo](https://appleinsider.com/articles/23/10/20/skylum-gears-up-to-add-generative-ai-powered-photo-features-to-luminar-neo?utm_medium=rss)
- - [The US&#39; tighter chip rules may leave Alibaba and Baidu relying on outdated and stockpiled chips, like the Nvidia V100 from 2017, to pursue their AI ambitions &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p7#a231020p7)
- - [Best Bird Watching Gear &lpar;2023&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)<!-- TECH:END -->
+ - [What Techno-Billionaire Marc Andreessen Missed In His Techno-Optimism Manifesto](https://www.wired.com/story/plaintext-marc-andreessen-techno-billionaire-wrong-techno-optimism/)
+ - [TikTok-Hyped Halloween Decor Is Out of Control](https://www.wired.com/story/halloween-decorations-tiktok-lewis/)
+ - [Pokémon Sleep helped me catch ’em all — all the z’s, that is](https://www.theverge.com/23893260/pokemon-sleep-insomnia-app-nintendo-aid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
