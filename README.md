@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next 12.9-inch iPad Pro will be downgrade, says extremely unlikely report](https://appleinsider.com/articles/23/10/20/next-129-inch-ipad-pro-will-be-downgrade-says-extremely-unlikely-report?utm_medium=rss)
- - [Tim Cook&#39;s China trip, unannounced ahead of time, shows Apple&#39;s complex relationship; Cook told an official Apple was committed to growing with local partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231020/p6#a231020p6)
- - [Amazon Is Knocking Almost $800 Off This Stunning 65-Inch Mini-LED TV     - CNET](https://www.cnet.com/deals/amazon-is-knocking-almost-800-off-this-stunning-65-inch-mini-led-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Skylum gears up to add generative AI powered photo features to Luminar Neo](https://appleinsider.com/articles/23/10/20/skylum-gears-up-to-add-generative-ai-powered-photo-features-to-luminar-neo?utm_medium=rss)
+ - [The US&#39; tighter chip rules may leave Alibaba and Baidu relying on outdated and stockpiled chips, like the Nvidia V100 from 2017, to pursue their AI ambitions &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p7#a231020p7)
+ - [Best Bird Watching Gear &lpar;2023&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
