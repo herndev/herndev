@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jon Stewart&#39;s Apple TV+ show ends after two seasons, sources say over creative differences; source: Stewart said China and AI topics concerned Apple executives &lpar;New York Times&rpar;](http://www.techmeme.com/231019/p41#a231019p41)
- - [23andMe is investigating a possible new data leak of 4M users&#39; records on BreachForums; the hacker claims the dataset includes info on people from Great Britain &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231019/p40#a231019p40)
- - [Jon Stewart’s Apple TV Plus show ends, reportedly over coverage of AI and China](https://www.theverge.com/2023/10/19/23924549/jon-stewart-apple-ai-china-cancel)<!-- TECH:END -->
+ - [Slack is retiring its status account on X](https://www.theverge.com/2023/10/19/23924662/slack-status-account-retiring-x-twitter)
+ - [Citing Hamas, the US Wants to Treat Crypto &quot;Mixers&quot; as Suspected Money Launderers](https://www.wired.com/story/us-treasury-crypto-mixer-hamas/)
+ - [Jon Stewart&#39;s Apple TV+ show ends after two seasons, sources say over creative differences; source: Stewart said China and AI topics concerned Apple executives &lpar;New York Times&rpar;](http://www.techmeme.com/231019/p41#a231019p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
