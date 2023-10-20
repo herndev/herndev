@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [News publishers wrestle with declines in web traffic as companies like Google, Meta, and X back away from dependably amplifying and supporting journalism &lpar;New York Times&rpar;](http://www.techmeme.com/231020/p1#a231020p1)
- - [AMD unveils the Radeon RX 7900M, the first laptop GPU to use a chiplet design and a rival to Nvidia&#39;s RTX 4080, available with Dell&#39;s Alienware m18 &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/231019/p44#a231019p44)
- - [Source: X removed the main New York Times account&#39;s &quot;verified&quot; badge on October 17 without notice; source: X traffic to the NYT is down ~50% since August 2023 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231019/p43#a231019p43)<!-- TECH:END -->
+ - [Beijing-based generative AI startup Beijing Zhipu Huazhang has raised ~$342M from Alibaba, Tencent, Ant Group, Xiaomi, HongShan, Meituan, and others in 2023 &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231020/p2#a231020p2)
+ - [News publishers scramble to adjust to declining referral traffic, as Meta, X, and even Google become less dependable at amplifying and supporting journalism &lpar;New York Times&rpar;](http://www.techmeme.com/231020/p1#a231020p1)
+ - [AMD unveils the Radeon RX 7900M, a rival to Nvidia&#39;s RTX 4080 and the first laptop GPU to use a chiplet design, available in Dell&#39;s new Alienware m18 laptop &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/231019/p44#a231019p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
