@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From July 2022 to June 2023, the US led the world with $1T+ in &quot;value received on chain&quot;, but most stablecoin inflows to top services went via non-US exchanges &lpar;Chainalysis&rpar;](http://www.techmeme.com/231023/p27#a231023p27)
- - [Nvidia might have an RTX 4080 Super with 20GB of VRAM soon](https://www.theverge.com/2023/10/23/23928788/nvidia-rtx-4080-super-20gb-vram-rumor)
- - [Save $300 on Apple&#39;s M2 Max MacBook Pro 16-inch with 64GB RAM, 1TB SSD](https://appleinsider.com/articles/23/10/23/save-300-on-apples-m2-max-macbook-pro-16-inch-with-64gb-ram-1tb-ssd?utm_medium=rss)<!-- TECH:END -->
+ - [Apple prepares to open 46th Chinese Apple Store on November 4](https://appleinsider.com/articles/23/10/23/apple-prepares-to-open-46th-chinese-apple-store-on-november-4?utm_medium=rss)
+ - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
+ - [Adyen, an Amsterdam-based PayPal rival, has had its stock fall ~25% since August 17, when it dropped 35%+ following its report of lower-than-expected sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p29#a231023p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
