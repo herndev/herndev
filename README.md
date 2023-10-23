@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My six-month dive into podcasting’s very chaotic year](https://www.theverge.com/2023/10/20/23925917/youtube-hot-pod-goodbye-podcasting-bust)
- - [Friday news dumps: all the news companies hoped you wouldn’t notice](https://www.theverge.com/2023/10/20/23925862/friday-bad-news-dumps-companies)
- - [SCOTUS pauses a ruling banning Biden administration officials from contacting social media platforms about misinformation and agrees to hear the DOJ&#39;s appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)<!-- TECH:END -->
+ - [Analysis: the iPhone 15 lineup features ~10% costlier components than the iPhone 14 models; iPhone 15 Pro Max costs rose to $558, up 12% from iPhone 14 Pro Max &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231022/p8#a231022p8)
+ - [Xencelabs Pen Display 24 review: Finally, a worthy Wacom competitor](https://appleinsider.com/articles/23/10/22/xencelabs-pen-display-24-review-finally-a-worthy-wacom-competitor?utm_medium=rss)
+ - [Best Phone Deals: $1,000 Off Samsung Foldables, Free iPhone SE and More     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
