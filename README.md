@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No Reception Club Getaway Bag Review &lpar;2023&rpar;: Perfect Bag for Family Day Trips](https://www.wired.com/review/no-reception-club-getaway-bag/)
- - [Dutch media reports that a former ASML employee accused of stealing data went to work for Huawei in China in 2022; it&#39;s unclear if they still work for Huawei &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231023/p15#a231023p15)
- - [Members of Gen Z say they use family location sharing apps to bolster a sense of security, such as during dates or at concerts; Life360 now has 33M+ US MAUs &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/231023/p14#a231023p14)<!-- TECH:END -->
+ - [Marvel’s Spider-Man 2 is now the fastest-selling PlayStation Studios game](https://www.theverge.com/2023/10/23/23928511/marvel-spider-man-2-sales-playstation-game)
+ - [Matter 1.2 finally adds robot vacuums &amp; fridges to HomeKit](https://appleinsider.com/articles/23/10/23/matter-12-finally-adds-robot-vacuums-fridges-to-homekit?utm_medium=rss)
+ - [Microsoft plans to spend $3.2B to expand its AI and cloud in Australia over two years, aiming to boost computing capacity by 250% and train 300K Australians &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231023/p19#a231023p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
