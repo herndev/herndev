@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Worldcoin Foundation plans to pay orb operators, who scan people into the Worldcoin network, in WLD rather than USDC in December and has issued ~134M WLD &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231023/p4#a231023p4)
- - [A profile of China-based Luxshare, which started as Foxconn&#39;s electronics supplier and is now, according to analysts, eating into Foxconn&#39;s Apple business &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/231023/p3#a231023p3)
- - [The Metal Gear Solid: Master Collection is an exhaustive bundle of stealth classics](https://www.theverge.com/23925406/metal-gear-solid-master-collection-volume-1-review-sons-of-liberty-snake-eater)<!-- TECH:END -->
+ - [Dallas-based enterprise browser startup Island raised a $100M Series C led by Prysm at a $1.5B valuation, up from $1.3B in 2022, for $350M+ raised in total &lpar;Emma Sanchez/Bloomberg&rpar;](http://www.techmeme.com/231023/p7#a231023p7)
+ - [Tinder rolls out Tinder Matchmaker, which lets loved ones view and recommend potential matches, in the US, the UK, and 13 others ahead of a global launch soon &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231023/p6#a231023p6)
+ - [China investigating Foxconn over land use and tax issues](https://appleinsider.com/articles/23/10/23/china-investigating-foxconn-over-land-use-and-tax-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
