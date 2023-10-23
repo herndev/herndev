@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Oct. 23: 45% off Apple MagSafe Battery Pack, 34% off Apple Watch SE, Philips Wireless Headphones for $29, more](https://appleinsider.com/articles/23/10/23/daily-deals-oct-23-45-off-apple-magsafe-battery-pack-34-off-apple-watch-se-philips-wireless-headphones-for-29-more?utm_medium=rss)
- - [How Qualcomm is tech&#39;s &quot;problem child&quot;: a tense relationship with Apple, sued by Arm, investigated by regulators, disagreements with Google over Pixel, and more &lpar;Jay Goldberg/Digits to Dollars&rpar;](http://www.techmeme.com/231023/p25#a231023p25)
- - [Nio EL6 Review: Price, Specs, Release Date, Battery](https://www.wired.com/review/review-nio-el6/)<!-- TECH:END -->
+ - [More than 130 companies including Ikea, Volvo ask world leaders to ‘phase out’ fossil fuels](https://www.theverge.com/2023/10/23/23928548/ikea-volvo-130-companies-letter-world-leaders-phase-out-fossil-fuels)
+ - [Final day: get a Babbel Language Learning Lifetime Subscription for $149.97](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
+ - [AirTag 2 delayed, Ecobee doorbell review and more on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/23/airtag-2-delayed-ecobee-doorbell-review-and-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
