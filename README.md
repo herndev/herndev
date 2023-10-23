@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel’s Spider-Man 2 is now the fastest-selling PlayStation Studios game](https://www.theverge.com/2023/10/23/23928511/marvel-spider-man-2-sales-playstation-game)
- - [Matter 1.2 finally adds robot vacuums &amp; fridges to HomeKit](https://appleinsider.com/articles/23/10/23/matter-12-finally-adds-robot-vacuums-fridges-to-homekit?utm_medium=rss)
- - [Microsoft plans to spend $3.2B to expand its AI and cloud in Australia over two years, aiming to boost computing capacity by 250% and train 300K Australians &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231023/p19#a231023p19)<!-- TECH:END -->
+ - [Daily Deals Oct. 23: 45% off Apple MagSafe Battery Pack, 34% off Apple Watch SE, Philips Wireless Headphones for $29, more](https://appleinsider.com/articles/23/10/23/daily-deals-oct-23-45-off-apple-magsafe-battery-pack-34-off-apple-watch-se-philips-wireless-headphones-for-29-more?utm_medium=rss)
+ - [How Qualcomm is tech&#39;s &quot;problem child&quot;: a tense relationship with Apple, sued by Arm, investigated by regulators, disagreements with Google over Pixel, and more &lpar;Jay Goldberg/Digits to Dollars&rpar;](http://www.techmeme.com/231023/p25#a231023p25)
+ - [Nio EL6 Review: Price, Specs, Release Date, Battery](https://www.wired.com/review/review-nio-el6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
