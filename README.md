@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 5 V Review: Small and Mighty but Too Pricey](https://www.wired.com/review/sony-xperia-5-v/)
- - [The Surprising Way Clean Energy Will Help Save the Snowpack](https://www.wired.com/story/the-surprising-way-clean-energy-will-help-save-the-snowpack/)
- - [Blockaid, which offers Web3 security tools for fraud, phishing, and hacks and claims to have prevented 1.3M+ attacks, raised a $6M seed and $27M Series A &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231023/p11#a231023p11)<!-- TECH:END -->
+ - [No Reception Club Getaway Bag Review &lpar;2023&rpar;: Perfect Bag for Family Day Trips](https://www.wired.com/review/no-reception-club-getaway-bag/)
+ - [Dutch media reports that a former ASML employee accused of stealing data went to work for Huawei in China in 2022; it&#39;s unclear if they still work for Huawei &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231023/p15#a231023p15)
+ - [Members of Gen Z say they use family location sharing apps to bolster a sense of security, such as during dates or at concerts; Life360 now has 33M+ US MAUs &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/231023/p14#a231023p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
