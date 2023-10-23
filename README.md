@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)
- - [Meta says it is &quot;listening to feedback&quot; after some users find that it is cross-posting Threads posts to users&#39; Facebook feeds without an opt-out &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231023/p36#a231023p36)
- - [Toyota made a Land Cruiser EV concept that probably won’t see the light of day](https://www.theverge.com/2023/10/23/23928817/toyota-land-cruiser-se-ev-epu-electric-suv-truck-concept)<!-- TECH:END -->
+ - [PimEyes, a paid facial recognition service, says it has blocked searches of children as part of a &quot;no harm policy&quot;, using AI to identify photos of minors &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231023/p38#a231023p38)
+ - [Massive facial recognition search engine now blocks searches for children’s faces](https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy)
+ - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
