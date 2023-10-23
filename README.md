@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU may fail to pass its AI Act in 2023](https://www.theverge.com/2023/10/23/23929273/eu-ai-act-generative-regulation-models)
- - [Instagram is testing a toggle in its app that lets users only see posts from Meta Verified subscribers, as &quot;a way for businesses and creators to get discovered&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231023/p34#a231023p34)
- - [Murena Kickstarter pulls in more than $150K for new phone with a built-in privacy switch](https://www.theverge.com/2023/10/23/23929090/murena-2-kickstarter-built-in-privacy-switch)<!-- TECH:END -->
+ - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)
+ - [Meta says it is &quot;listening to feedback&quot; after some users find that it is cross-posting Threads posts to users&#39; Facebook feeds without an opt-out &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231023/p36#a231023p36)
+ - [Toyota made a Land Cruiser EV concept that probably won’t see the light of day](https://www.theverge.com/2023/10/23/23928817/toyota-land-cruiser-se-ev-epu-electric-suv-truck-concept)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
