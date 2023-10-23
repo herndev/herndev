@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple prepares to open 46th Chinese Apple Store on November 4](https://appleinsider.com/articles/23/10/23/apple-prepares-to-open-46th-chinese-apple-store-on-november-4?utm_medium=rss)
- - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
- - [Adyen, an Amsterdam-based PayPal rival, has had its stock fall ~25% since August 17, when it dropped 35%+ following its report of lower-than-expected sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p29#a231023p29)<!-- TECH:END -->
+ - [Instagram tests a verified-only feed](https://www.theverge.com/2023/10/23/23929100/instagram-meta-verified-feed-test)
+ - [Apple could spend $5B on servers to catch up in AI race](https://appleinsider.com/articles/23/10/23/apple-could-spend-5b-on-servers-to-catch-up-in-ai-race?utm_medium=rss)
+ - [TikTok tests the ability to upload 15-minute videos, after adding 10-minute videos in February 2022, as it looks to attract longer-form video creators &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231023/p30#a231023p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
