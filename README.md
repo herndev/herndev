@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan&#39;s FTC probes into Google over alleged antitrust violations; report: the agency plans to examine if Google asked smartphone OEMs to prioritize its search &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p1#a231023p1)
- - [Q&amp;A with Satya Nadella: AI as Microsoft&#39;s biggest opportunity, regrets on missing the mobile phone category, and doubling down as a game publisher and producer &lpar;Mathias D&amp;ouml;pfner/Insider&rpar;](http://www.techmeme.com/231022/p9#a231022p9)
- - [Why Your Home Heating Costs Might Be Lower This Winter     - CNET](https://www.cnet.com/how-to/why-your-home-heating-costs-might-be-lower-this-winter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Scale AI, which has a $249M contract to provide AI tech to the US DoD, and was the first AI company to have an LLM deployed on a classified network &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/231023/p2#a231023p2)
+ - [Britain’s Big AI Summit Is a Doom-Obsessed Mess](https://www.wired.com/story/britains-big-ai-summit-doom-obsessed-mess/)
+ - [Japan&#39;s FTC probes into Google over alleged antitrust violations; report: the agency plans to examine if Google asked smartphone OEMs to prioritize its search &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p1#a231023p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
