@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More than 130 companies including Ikea, Volvo ask world leaders to ‘phase out’ fossil fuels](https://www.theverge.com/2023/10/23/23928548/ikea-volvo-130-companies-letter-world-leaders-phase-out-fossil-fuels)
- - [Final day: get a Babbel Language Learning Lifetime Subscription for $149.97](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
- - [AirTag 2 delayed, Ecobee doorbell review and more on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/23/airtag-2-delayed-ecobee-doorbell-review-and-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [From July 2022 to June 2023, the US led the world with $1T+ in &quot;value received on chain&quot;, but most stablecoin inflows to top services went via non-US exchanges &lpar;Chainalysis&rpar;](http://www.techmeme.com/231023/p27#a231023p27)
+ - [Nvidia might have an RTX 4080 Super with 20GB of VRAM soon](https://www.theverge.com/2023/10/23/23928788/nvidia-rtx-4080-super-20gb-vram-rumor)
+ - [Save $300 on Apple&#39;s M2 Max MacBook Pro 16-inch with 64GB RAM, 1TB SSD](https://appleinsider.com/articles/23/10/23/save-300-on-apples-m2-max-macbook-pro-16-inch-with-64gb-ram-1tb-ssd?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
