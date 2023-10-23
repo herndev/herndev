@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dallas-based enterprise browser startup Island raised a $100M Series C led by Prysm at a $1.5B valuation, up from $1.3B in 2022, for $350M+ raised in total &lpar;Emma Sanchez/Bloomberg&rpar;](http://www.techmeme.com/231023/p7#a231023p7)
- - [Tinder rolls out Tinder Matchmaker, which lets loved ones view and recommend potential matches, in the US, the UK, and 13 others ahead of a global launch soon &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231023/p6#a231023p6)
- - [China investigating Foxconn over land use and tax issues](https://appleinsider.com/articles/23/10/23/china-investigating-foxconn-over-land-use-and-tax-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Sony Xperia 5 V Review: Small and Mighty but Too Pricey](https://www.wired.com/review/sony-xperia-5-v/)
+ - [The Surprising Way Clean Energy Will Help Save the Snowpack](https://www.wired.com/story/the-surprising-way-clean-energy-will-help-save-the-snowpack/)
+ - [Blockaid, which offers Web3 security tools for fraud, phishing, and hacks and claims to have prevented 1.3M+ attacks, raised a $6M seed and $27M Series A &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231023/p11#a231023p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
