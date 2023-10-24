@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NameDrop: Here&#39;s Everything to Know About Apple&#39;s Speedy Way to Share Contact Info     - CNET](https://www.cnet.com/tech/mobile/namedrop-heres-everything-to-know-about-apples-speedy-way-to-share-contact-info/#ftag=CAD590a51e)
- - [A look at POSSE, a decade-old idea that a user should Publish &lpar;on your&rpar; Own Site and Syndicate Elsewhere, and the challenges of building a system based on that &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231024/p4#a231024p4)
- - [Samsung Galaxy Z Fold 5 Deals: $1,000 of Trade-In Credit and Up to $300 on Unlocked Models     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Workers training AI demand protections from Congress](https://www.theverge.com/2023/10/24/23929411/schumer-ai-insight-forum-marc-andreesen-mturk)
+ - [Automattic is acquiring Texts and betting big on the future of messaging](https://www.theverge.com/2023/10/24/23928685/automattic-texts-acquisition-universal-messaging)
+ - [Tyler Cowen announces econgoat.ai, the first &quot;generative book&quot; that lets readers query the material and create more content, derived from a 100K-word manuscript &lpar;Tyler Cowen/Marginal REVOLUTION&rpar;](http://www.techmeme.com/231024/p6#a231024p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
