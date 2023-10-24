@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will now let you access Crunchyroll’s anime library right from Prime Video](https://www.theverge.com/2023/10/24/23929990/amazon-prime-video-crunchyroll-channel-now-available)
- - [How to create custom ringtones in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-create-custom-ringtones-in-ios-17?utm_medium=rss)
- - [Xreal, formerly Nreal, announces the $399 Xreal Air 2 and $449 Air 2 Pro glasses with brighter Micro OLED displays, shipping in November in the US and the UK &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231024/p17#a231024p17)<!-- TECH:END -->
+ - [Harvard professor Lawrence Lessig on why AI and social media are causing a free speech crisis for the internet](https://www.theverge.com/23929233/lawrence-lessig-free-speech-first-amendment-ai-content-moderation-decoder-interview)
+ - [Q&amp;A with FTC Commissioner and digital privacy expert Alvaro Bedoya on the agency hiring child psychologists to understand social media&#39;s impact on children &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231024/p19#a231024p19)
+ - [After Unciphered created a hack for an old IronKey USB drive to recover 7,002 bitcoin, the owner refuses their help because he agreed to work with other experts &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231024/p18#a231024p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
