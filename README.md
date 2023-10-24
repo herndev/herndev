@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: many people inside Apple do not believe its own AI/ML team can deliver on generative AI, and worry that the company will only use its own team&#39;s output &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/231024/p14#a231024p14)
- - [Apple&#39;s &#39;carbon neutral&#39; claims are misleading, say EU groups](https://appleinsider.com/articles/23/10/24/apples-carbon-neutral-claims-are-misleading-say-eu-groups?utm_medium=rss)
- - [EU environmental groups criticize Apple branding new Apple Watches as &quot;carbon neutral&quot; and using credits to cancel out the 7kg to 12kg of emissions per unit &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/231024/p13#a231024p13)<!-- TECH:END -->
+ - [Amazon will now let you access Crunchyroll’s anime library right from Prime Video](https://www.theverge.com/2023/10/24/23929990/amazon-prime-video-crunchyroll-channel-now-available)
+ - [How to create custom ringtones in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-create-custom-ringtones-in-ios-17?utm_medium=rss)
+ - [Xreal, formerly Nreal, announces the $399 Xreal Air 2 and $449 Air 2 Pro glasses with brighter Micro OLED displays, shipping in November in the US and the UK &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231024/p17#a231024p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
