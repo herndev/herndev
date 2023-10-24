@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 5 Instagram Features That US States Say Ruin Teens’ Mental Health](https://www.wired.com/story/the-5-instagram-features-that-us-states-say-ruin-teens-mental-health/)
- - [Microsoft reports Q1 devices revenue down 22% YoY, Windows revenue up 5%, Xbox content and services revenue up 13% YoY, search and news ad revenue up 10% YoY &lpar;Zachary Boddy/Windows Central&rpar;](http://www.techmeme.com/231024/p41#a231024p41)
- - [Apple Pay Later launches for all eligible users in the US, following its invite-only early access prerelease version for &quot;randomly selected users&quot; in March 2023 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231024/p40#a231024p40)<!-- TECH:END -->
+ - [The bendy phone is back, baby](https://www.theverge.com/2023/10/24/23930668/lenovo-moto-flexible-wrist-phone-concept)
+ - [Apple is reportedly planning to turn the TV app into the streaming hub it always wanted](https://www.theverge.com/2023/10/24/23930639/apple-tv-app-streaming-hub-movie-tv-rentals-sports)
+ - [Apple will open its repair programs up more, very soon](https://appleinsider.com/articles/23/10/24/white-house-apple-will-open-its-repair-programs-up-more-very-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
