@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM delays production of Chevy Equinox, Silverado, and GMC Sierra Denali EVs](https://www.theverge.com/2023/10/24/23930143/gm-delay-ev-chevy-equinox-silverado-sierra-q3-earnings)
- - [4 Best Deals on Chromebook Plus Laptops at Best Buy](https://www.wired.com/story/chromebook-plus-deals-best-buy-october-2023/)
- - [Daily deals Oct. 24: 35% off Apple Watch Series 8, $200 off M2 MacBook Air, Nintendo Switch OLED $289, more](https://appleinsider.com/articles/23/10/24/daily-deals-oct-24-35-off-apple-watch-series-8-200-off-m2-macbook-air-nintendo-switch-oled-289-more?utm_medium=rss)<!-- TECH:END -->
+ - [Chevy Bolt owners could receive $1,400 compensation from GM for nerfed batteries](https://www.theverge.com/2023/10/24/23930067/chevy-bolt-gm-compensation-class-action-batteries)
+ - [YouTube Music now lets you make your own playlist art with AI](https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art)
+ - [California and dozens of other US states sue Meta in federal court over claims Facebook and Instagram exploit youths for profit and feed them harmful content &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/231024/p22#a231024p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
