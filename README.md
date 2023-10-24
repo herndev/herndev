@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PimEyes, a paid facial recognition service, says it has blocked searches of children as part of a &quot;no harm policy&quot;, using AI to identify photos of minors &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231023/p38#a231023p38)
- - [Massive facial recognition search engine now blocks searches for children’s faces](https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy)
- - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)<!-- TECH:END -->
+ - [Twitch CEO Dan Clancy says big-money deals with top livestreaming gamers is not a &quot;sustainable business&quot;; sources: YouTube is also backing away from such deals &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231023/p39#a231023p39)
+ - [PimEyes, a paid facial recognition service, blocks searches of children&#39;s faces via age detection AI to identify photos of minors, as part of a &quot;no harm policy&quot; &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231023/p38#a231023p38)
+ - [Monday Night Football: How to Watch 49ers vs. Vikings, ManningCast Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-49ers-vs-vikings-manningcast-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
