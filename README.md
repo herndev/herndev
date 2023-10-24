@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch CEO Dan Clancy says big-money deals with top livestreaming gamers is not a &quot;sustainable business&quot;; sources: YouTube is also backing away from such deals &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231023/p39#a231023p39)
- - [PimEyes, a paid facial recognition service, blocks searches of children&#39;s faces via age detection AI to identify photos of minors, as part of a &quot;no harm policy&quot; &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231023/p38#a231023p38)
- - [Monday Night Football: How to Watch 49ers vs. Vikings, ManningCast Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-49ers-vs-vikings-manningcast-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [1Password says it detected &quot;suspicious activity&quot; on its Okta tenant that it uses to manage employee-facing apps, and found that no user data was accessed &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231023/p42#a231023p42)
+ - [MangoBoost, which develops data processing units for data centers, raised a $55M Series A, sources say at a ~$300M valuation, bringing its total funding to $65M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/231023/p41#a231023p41)
+ - [Streaming services, including Hulu, Peacock, and Max, are increasingly showing &quot;pause ads&quot;, which appear a few seconds after a viewer pauses the programming &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231023/p40#a231023p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
