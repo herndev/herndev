@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju&#39;s CFO Ajay Goel resigns after six months as the edtech delays its FY 2022 earnings; Byju&#39;s President of Finance Nitin Golani takes over on October 30 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p3#a231024p3)
- - [Best Fast 3D Printers of 2023     - CNET](https://www.cnet.com/tech/computing/best-fast-3d-printers-bambu-lab-prusa-and-more/#ftag=CAD590a51e)
- - [Hands-on with DALL-E 3: suggests more detailed prompts, restrictive, denies art requests in the style of living artists, and shows how quickly AI is improving &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231024/p2#a231024p2)<!-- TECH:END -->
+ - [NameDrop: Here&#39;s Everything to Know About Apple&#39;s Speedy Way to Share Contact Info     - CNET](https://www.cnet.com/tech/mobile/namedrop-heres-everything-to-know-about-apples-speedy-way-to-share-contact-info/#ftag=CAD590a51e)
+ - [A look at POSSE, a decade-old idea that a user should Publish &lpar;on your&rpar; Own Site and Syndicate Elsewhere, and the challenges of building a system based on that &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231024/p4#a231024p4)
+ - [Samsung Galaxy Z Fold 5 Deals: $1,000 of Trade-In Credit and Up to $300 on Unlocked Models     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
