@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan VP Lai Ching-te criticizes China&#39;s Foxconn investigation; sources say China disclosed the move for political reasons tied to Taiwan&#39;s January elections &lpar;Reuters&rpar;](http://www.techmeme.com/231024/p11#a231024p11)
- - [Apple &amp; Google turn off live traffic updates in Israel, Gaza ahead of ground war](https://appleinsider.com/articles/23/10/24/apple-google-turn-off-live-traffic-updates-in-israel-gaza-ahead-of-ground-war?utm_medium=rss)
- - [Automattic plans to acquire Texts, a $15 per month messaging app that works with WhatsApp, Instagram, LinkedIn, Signal, iMessage, and more, for $50M &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231024/p10#a231024p10)<!-- TECH:END -->
+ - [Sources: many people inside Apple do not believe its own AI/ML team can deliver on generative AI, and worry that the company will only use its own team&#39;s output &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/231024/p14#a231024p14)
+ - [Apple&#39;s &#39;carbon neutral&#39; claims are misleading, say EU groups](https://appleinsider.com/articles/23/10/24/apples-carbon-neutral-claims-are-misleading-say-eu-groups?utm_medium=rss)
+ - [EU environmental groups criticize Apple branding new Apple Watches as &quot;carbon neutral&quot; and using credits to cancel out the 7kg to 12kg of emissions per unit &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/231024/p13#a231024p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
