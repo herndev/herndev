@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workers training AI demand protections from Congress](https://www.theverge.com/2023/10/24/23929411/schumer-ai-insight-forum-marc-andreesen-mturk)
- - [Automattic is acquiring Texts and betting big on the future of messaging](https://www.theverge.com/2023/10/24/23928685/automattic-texts-acquisition-universal-messaging)
- - [Tyler Cowen announces econgoat.ai, the first &quot;generative book&quot; that lets readers query the material and create more content, derived from a 100K-word manuscript &lpar;Tyler Cowen/Marginal REVOLUTION&rpar;](http://www.techmeme.com/231024/p6#a231024p6)<!-- TECH:END -->
+ - [Taiwan VP Lai Ching-te criticizes China&#39;s Foxconn investigation; sources say China disclosed the move for political reasons tied to Taiwan&#39;s January elections &lpar;Reuters&rpar;](http://www.techmeme.com/231024/p11#a231024p11)
+ - [Apple &amp; Google turn off live traffic updates in Israel, Gaza ahead of ground war](https://appleinsider.com/articles/23/10/24/apple-google-turn-off-live-traffic-updates-in-israel-gaza-ahead-of-ground-war?utm_medium=rss)
+ - [Automattic plans to acquire Texts, a $15 per month messaging app that works with WhatsApp, Instagram, LinkedIn, Signal, iMessage, and more, for $50M &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231024/p10#a231024p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
