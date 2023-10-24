@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos will soon give you more say in those AI-created video highlights](https://www.theverge.com/2023/10/24/23930259/google-photos-update-video-highlights-ai-generated-android-ios)
- - [Apple promises &#39;scary fast&#39; Mac announcement the night of October 30](https://appleinsider.com/articles/23/10/24/apple-promises-scary-fast-mac-announcement-the-night-of-october-30?utm_medium=rss)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Ming-Chi Kuo flip-flops, now expects new M3 MacBook Pro in October](https://appleinsider.com/articles/23/10/24/ming-chi-kuo-changes-tune-on-new-m3-macbook-pros?utm_medium=rss)
+ - [Wyze’s new video doorbell records 24/7 locally, but you can’t escape the cloud](https://www.theverge.com/2023/10/24/23930246/wyze-video-doorbell-v2-local-recording-price-release-date)
+ - [Microsoft CEO Satya Nadella admits giving up on Windows Phone and mobile was a mistake](https://www.theverge.com/2023/10/24/23930478/microsoft-ceo-satya-nadella-mobile-windows-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
