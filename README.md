@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s Naver announces a deal with Saudi Arabia to create digital replicas of Riyadh and four other cities starting in 2024; sources: deal worth $100M+ &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/231024/p1#a231024p1)
- - [Best Solar-Powered Home Security Cameras for 2023     - CNET](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)
- - [Best Mattress for Side Sleepers in 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hands-on with DALL-E 3: suggests more detailed prompts, restrictive, denies art requests in the style of living artists, and shows how quickly AI is improving &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231024/p2#a231024p2)
+ - [Glacial Lakes Threaten Millions in a Warming World](https://www.wired.com/story/glacial-lake-outburst-flood-glof-india-sikkim/)
+ - [South Korea-based Naver signs a 2024 to 2029 deal, sources say for $100M+, with Saudi Arabia to build digital twins of Riyadh, Medina, Jeddah, Dammam, and Mecca &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/231024/p1#a231024p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
