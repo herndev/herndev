@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ming-Chi Kuo flip-flops, now expects new M3 MacBook Pro in October](https://appleinsider.com/articles/23/10/24/ming-chi-kuo-changes-tune-on-new-m3-macbook-pros?utm_medium=rss)
- - [Wyze’s new video doorbell records 24/7 locally, but you can’t escape the cloud](https://www.theverge.com/2023/10/24/23930246/wyze-video-doorbell-v2-local-recording-price-release-date)
- - [Microsoft CEO Satya Nadella admits giving up on Windows Phone and mobile was a mistake](https://www.theverge.com/2023/10/24/23930478/microsoft-ceo-satya-nadella-mobile-windows-phone)<!-- TECH:END -->
+ - [Cisco&#39;s Webex brings meetings to Apple TV, Apple Watch](https://appleinsider.com/articles/23/10/24/ciscos-webex-brings-meetings-to-apple-tv-apple-watch?utm_medium=rss)
+ - [Apple TV renovation could kill iTunes Movies app in December](https://appleinsider.com/articles/23/10/24/apple-tv-change-could-eliminate-itunes-movies-app-in-december?utm_medium=rss)
+ - [White House: Apple will open its repair programs up more, very soon](https://appleinsider.com/articles/23/10/24/white-house-apple-will-open-its-repair-programs-up-more-very-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
