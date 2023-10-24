@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ulku Rowe Is the First Google Employee to Beat the Company in Court Over Sexist Discrimination](https://www.wired.com/story/this-woman-exec-beat-google-in-court-and-hopes-others-follow/)
- - [Qualcomm unveils the Snapdragon 8 Gen 3 mobile 4nm chip, with a 25% more performant GPU, AI Engine that can produce Stable Diffusion images in &lt;1 second, more &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231024/p32#a231024p32)
- - [MacBook Pro may get full redesign in 2025, says Ming-Chi Kuo](https://appleinsider.com/articles/23/10/24/macbook-pro-may-get-full-redesign-in-2025-says-ming-chi-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Alphabet reports Google Cloud Q3 revenue up 22.5% YoY to $8.41B, vs. $8.62B est., and Google Cloud operating income of $266M, vs. an operating loss of $440M YoY &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231024/p39#a231024p39)
+ - [GM&#39;s Cruise Loses Its Self-Driving License in San Francisco After a Robotaxi Dragged a Person](https://www.wired.com/story/cruise-robotaxi-self-driving-permit-revoked-california/)
+ - [Snap reports Q3 revenue up 5% YoY to $1.19B, vs. $1.11B est., net loss up 2% YoY to $368M, DAUs up 12% YoY to 406M, vs. 405.7M est., and won&#39;t give Q4 guidance &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231024/p38#a231024p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
