@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harvard professor Lawrence Lessig on why AI and social media are causing a free speech crisis for the internet](https://www.theverge.com/23929233/lawrence-lessig-free-speech-first-amendment-ai-content-moderation-decoder-interview)
- - [Q&amp;A with FTC Commissioner and digital privacy expert Alvaro Bedoya on the agency hiring child psychologists to understand social media&#39;s impact on children &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231024/p19#a231024p19)
- - [After Unciphered created a hack for an old IronKey USB drive to recover 7,002 bitcoin, the owner refuses their help because he agreed to work with other experts &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231024/p18#a231024p18)<!-- TECH:END -->
+ - [GM delays production of Chevy Equinox, Silverado, and GMC Sierra Denali EVs](https://www.theverge.com/2023/10/24/23930143/gm-delay-ev-chevy-equinox-silverado-sierra-q3-earnings)
+ - [4 Best Deals on Chromebook Plus Laptops at Best Buy](https://www.wired.com/story/chromebook-plus-deals-best-buy-october-2023/)
+ - [Daily deals Oct. 24: 35% off Apple Watch Series 8, $200 off M2 MacBook Air, Nintendo Switch OLED $289, more](https://appleinsider.com/articles/23/10/24/daily-deals-oct-24-35-off-apple-watch-series-8-200-off-m2-macbook-air-nintendo-switch-oled-289-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
