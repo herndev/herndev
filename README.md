@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chevy Bolt owners could receive $1,400 compensation from GM for nerfed batteries](https://www.theverge.com/2023/10/24/23930067/chevy-bolt-gm-compensation-class-action-batteries)
- - [YouTube Music now lets you make your own playlist art with AI](https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art)
- - [California and dozens of other US states sue Meta in federal court over claims Facebook and Instagram exploit youths for profit and feed them harmful content &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/231024/p22#a231024p22)<!-- TECH:END -->
+ - [Google Photos will soon give you more say in those AI-created video highlights](https://www.theverge.com/2023/10/24/23930259/google-photos-update-video-highlights-ai-generated-android-ios)
+ - [Apple promises &#39;scary fast&#39; Mac announcement the night of October 30](https://appleinsider.com/articles/23/10/24/apple-promises-scary-fast-mac-announcement-the-night-of-october-30?utm_medium=rss)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
