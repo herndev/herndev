@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its first transparency EU DSA report, Amazon discloses 181M users in the EU, directly employs 150K+ people, and more; Germany has 60M MAUs and France has 35M &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231025/p14#a231025p14)
- - [Source: Indian tax authorities serve notices to online gaming companies demanding ~$12.03B in allegedly evaded taxes, after imposing a 28% gaming tax in August &lpar;Reuters&rpar;](http://www.techmeme.com/231025/p13#a231025p13)
- - [New M3 MacBook Pro box may have been leaked](https://appleinsider.com/articles/23/10/25/new-m3-macbook-pro-box-may-have-been-leaked?utm_medium=rss)<!-- TECH:END -->
+ - [Keep Time The Smart Way With 33% Off Your New Apple Watch Series 8     - CNET](https://www.cnet.com/deals/keep-time-the-smart-way-with-33-percent-off-your-new-apple-watch-series-8/#ftag=CAD590a51e)
+ - [Mortgage Refinance Rates on Oct. 25, 2023: Rates Advance     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-oct-25-2023-rates-advance/#ftag=CAD590a51e)
+ - [Mortgage Interest Rates Today for Oct. 25, 2023: Rates Increase     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-oct-25-2023-rates-increase/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
