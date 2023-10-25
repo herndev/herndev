@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keep Time The Smart Way With 33% Off Your New Apple Watch Series 8     - CNET](https://www.cnet.com/deals/keep-time-the-smart-way-with-33-percent-off-your-new-apple-watch-series-8/#ftag=CAD590a51e)
- - [Mortgage Refinance Rates on Oct. 25, 2023: Rates Advance     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-oct-25-2023-rates-advance/#ftag=CAD590a51e)
- - [Mortgage Interest Rates Today for Oct. 25, 2023: Rates Increase     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-oct-25-2023-rates-increase/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DJI announces new Osmo Pocket 3 gimbal camera with rotating screen](https://appleinsider.com/articles/23/10/25/dji-announces-new-osmo-pocket-3-gimbal-camera-with-rotating-screen?utm_medium=rss)
+ - [DJI’s baby steadicam Osmo Pocket 3 has so many upgrades, I don’t know where to begin](https://www.theverge.com/23931074/dji-osmo-pocket-3-price-release-date-hands-on)
+ - [The obsessive tormenter who made professors’ lives miserable](https://www.theverge.com/c/features/23903125/lurker-online-harassment-stalking-asian-academics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
