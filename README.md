@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salt Security researchers detail how now-patched critical API flaws in the social and the OAuth login implementations affected Vidio, Grammarly, and Bukalapak &lpar;Deeba Ahmed/Hackread&rpar;](http://www.techmeme.com/231025/p1#a231025p1)
- - [FOIA documents: ICE used a tool called GOST to decide if US visa applicants&#39; social media posts are &quot;derogatory&quot; to the US, as part of immigration enforcement &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231024/p49#a231024p49)
- - [Best Internet Providers in Lansing, Michigan     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lansing-mi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Internet Watch Foundation warns that generative AI is being used to create child sexual abuse imagery, and finds ~3K AI-made abuse images breaking UK law &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/231025/p3#a231025p3)
+ - [Texas Instruments reports Q3 revenue down 14% YoY to $4.53B v. $4.58B est., and forecasts Q4 revenue and profit below estimates as its industrial demand worsens &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231025/p2#a231025p2)
+ - [Salt Security researchers detail how now-patched critical API flaws in the social and the OAuth login implementations affected Vidio, Grammarly, and Bukalapak &lpar;Deeba Ahmed/Hackread&rpar;](http://www.techmeme.com/231025/p1#a231025p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
