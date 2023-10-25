@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send it to ex and hope it works](http://9gag.com/gag/a4og35A)
+ - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
  - ⏩ [Full of degenerates](http://9gag.com/gag/armEM30)
- - 👉 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)<!-- MEMES:END -->
+ - 👉 [What is this? lol](http://9gag.com/gag/aBdznRQ)<!-- MEMES:END -->
 
 ---
 
