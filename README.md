@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game developers keep &lpar;virtually&rpar; killing my favorite neighborhoods](https://www.polygon.com/gaming/23931711/spider-man-2-new-york-city-red-hook-erasure)
- - [PDP put dioramas in its new Switch and Xbox controllers](https://www.polygon.com/deals/23844575/pdp-realmz-xbox-nintendo-switch-controller-sonic-pikmin-pre-order-buy)
- - [14 console games that should&#39;ve been on PC instead](https://www.pcgamer.com/14-console-games-that-shouldve-been-on-pc-instead)<!-- GAME:END -->
+ - [Still Wakes the Deep&#39;s debut gameplay trailer asks, &#39;What if Dear Esther was set on an oil rig, and also something was trying to eat you?&#39;](https://www.pcgamer.com/still-wakes-the-deeps-debut-gameplay-trailer-asks-what-if-dear-esther-was-set-on-an-oil-rig-and-also-something-was-trying-to-eat-you)
+ - [Metal Gear Solid 3 Gets Unreal Glow-Up In New Remake Trailer](https://kotaku.com/metal-gear-solid-3-snake-eater-remake-gameplay-trailer-1850959355)
+ - [Like a Dragon: Infinite Wealth goes full Animal Crossing, will let you manage an island paradise &#39;with a cozy DIY lifestyle&#39;](https://www.pcgamer.com/like-a-dragon-infinite-wealth-goes-full-animal-crossing-will-let-you-manage-an-island-paradise-with-a-cozy-diy-lifestyle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
