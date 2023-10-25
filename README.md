@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When will New Game+ be added to Spider-Man 2 for PS5?](https://www.polygon.com/spider-man-2-guides/23931803/new-game-plus)
- - [Starfield&#39;s inevitable community patch has arrived on the scene](https://www.pcgamer.com/starfields-inevitable-community-patch-has-arrived-on-the-scene)
- - [Super Mario Bros. Wonder’s end-of-level screenshots are absolutely unhinged](https://www.polygon.com/23929459/super-mario-bros-wonder-end-of-level-screenshots)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231023-2000&rpar;](https://news.xbox.com/en-us/2023/10/25/xbox-insider-release-notes-alpha-skip-ahead-2408-231023-2000/)
+ - [Strategy city builder Manor Lords announces 2024 early access launch date](https://www.pcgamer.com/strategy-city-builder-manor-lords-announces-2024-early-access-launch-date)
+ - [Amazon’s Fallout show has a cast, a creative team, and a soon-ish release date](https://www.polygon.com/23004979/amazon-fallout-tv-series-everything-we-know)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
