@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
- - ⏩ [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
- - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
+ - 💣 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - ⏩ [Feels](http://9gag.com/gag/aA0AeAL)
+ - 👉 [Full of degenerates](http://9gag.com/gag/armEM30)<!-- MEMES:END -->
 
 ---
 
