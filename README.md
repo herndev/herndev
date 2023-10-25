@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
- - ⏩ [Full of degenerates](http://9gag.com/gag/armEM30)
- - 👉 [What is this? lol](http://9gag.com/gag/aBdznRQ)<!-- MEMES:END -->
+ - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - ⏩ [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)
+ - 👉 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)<!-- MEMES:END -->
 
 ---
 
