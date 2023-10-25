@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola&#39;s Bendable Phone Display Concept Can Wrap Around Your Wrist     - CNET](https://www.cnet.com/tech/mobile/motorolas-bendable-phone-display-concept-can-wrap-around-your-wrist/#ftag=CAD590a51e)
- - [AWS plans to launch a sovereign cloud in Europe for governments and customers in regulated industries, storing data on EU servers and first available in Germany &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231025/p10#a231025p10)
- - [Is Your iPhone&#39;s Auto-Brightness Driving You Crazy? Here&#39;s How to Fix It     - CNET](https://www.cnet.com/tech/mobile/is-your-iphones-auto-brightness-driving-you-crazy-heres-how-to-fix-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In its first transparency EU DSA report, Amazon discloses 181M users in the EU, directly employs 150K+ people, and more; Germany has 60M MAUs and France has 35M &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231025/p14#a231025p14)
+ - [Source: Indian tax authorities serve notices to online gaming companies demanding ~$12.03B in allegedly evaded taxes, after imposing a 28% gaming tax in August &lpar;Reuters&rpar;](http://www.techmeme.com/231025/p13#a231025p13)
+ - [New M3 MacBook Pro box may have been leaked](https://appleinsider.com/articles/23/10/25/new-m3-macbook-pro-box-may-have-been-leaked?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
