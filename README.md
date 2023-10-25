@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231023-2000&rpar;](https://news.xbox.com/en-us/2023/10/25/xbox-insider-release-notes-alpha-skip-ahead-2408-231023-2000/)
- - [Strategy city builder Manor Lords announces 2024 early access launch date](https://www.pcgamer.com/strategy-city-builder-manor-lords-announces-2024-early-access-launch-date)
- - [Amazon’s Fallout show has a cast, a creative team, and a soon-ish release date](https://www.polygon.com/23004979/amazon-fallout-tv-series-everything-we-know)<!-- GAME:END -->
+ - [Game developers keep &lpar;virtually&rpar; killing my favorite neighborhoods](https://www.polygon.com/gaming/23931711/spider-man-2-new-york-city-red-hook-erasure)
+ - [PDP put dioramas in its new Switch and Xbox controllers](https://www.polygon.com/deals/23844575/pdp-realmz-xbox-nintendo-switch-controller-sonic-pikmin-pre-order-buy)
+ - [14 console games that should&#39;ve been on PC instead](https://www.pcgamer.com/14-console-games-that-shouldve-been-on-pc-instead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
