@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The bendy phone is back, baby](https://www.theverge.com/2023/10/24/23930668/lenovo-moto-flexible-wrist-phone-concept)
- - [Apple is reportedly planning to turn the TV app into the streaming hub it always wanted](https://www.theverge.com/2023/10/24/23930639/apple-tv-app-streaming-hub-movie-tv-rentals-sports)
- - [Apple will open its repair programs up more, very soon](https://appleinsider.com/articles/23/10/24/white-house-apple-will-open-its-repair-programs-up-more-very-soon?utm_medium=rss)<!-- TECH:END -->
+ - [BlockFi says it has emerged from bankruptcy and has begun the process of repaying its creditors according to the terms of its bankruptcy plan &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/231024/p45#a231024p45)
+ - [Signs point to Apple Silicon M3 reveal at &#39;Scary Fast&#39; event](https://appleinsider.com/articles/23/10/24/signs-point-to-apple-silicon-m3-reveal-at-scary-fast-event?utm_medium=rss)
+ - [The AI-Generated Child Abuse Nightmare Is Here](https://www.wired.com/story/generative-ai-images-child-sexual-abuse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
