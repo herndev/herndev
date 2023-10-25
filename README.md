@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg says Threads has almost 100 million monthly users](https://www.theverge.com/2023/10/25/23932473/mark-zuckerberg-threads-100-million-monthly-users-earnings)
- - [X is officially rolling out audio and video calls](https://www.theverge.com/2023/10/25/23932371/x-audio-video-calls-elon-musk)
- - [Apple patched several security vulnerabilities in iOS 17.1 and the rest](https://appleinsider.com/articles/23/10/25/apple-patched-several-security-vulnerabilities-in-ios-171-and-the-rest?utm_medium=rss)<!-- TECH:END -->
+ - [22 Harry Potter Gifts Perfect for Any Aspiring Wizard     - CNET](https://www.cnet.com/culture/entertainment/22-harry-potter-gifts-perfect-for-any-aspiring-wizard/#ftag=CAD590a51e)
+ - [X rolls out audio and video calling to some users, with options to &quot;select who you&#39;re comfortable using it with&quot;, or disable the feature altogether &lpar;Stephanie Barnes/Engadget&rpar;](http://www.techmeme.com/231025/p45#a231025p45)
+ - [The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit](https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
