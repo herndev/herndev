@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone owners keep their smartphones longer than Android users](https://appleinsider.com/articles/23/10/25/iphone-owners-keep-their-smartphones-longer-than-android-users?utm_medium=rss)
- - [Apple Pay Later now lets all iPhone users break up their payments](https://www.androidauthority.com/apple-pay-later-launch-3379341/)
- - [Sam Bankman Fried&#39;s lawyer says SBF plans to testify in his own trial when they start their case later this week, after damaging testimony from a US witness &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p30#a231025p30)<!-- TECH:END -->
+ - [Google Search can now help verify an image’s origins](https://www.theverge.com/2023/10/25/23931384/google-about-this-image-context-sources-fact-checking)
+ - [The messy story of the Bleach voice acting controversy, explained](https://www.theverge.com/23930365/bleach-thousand-year-blood-war-yoruichi-voice-cast-controversy)
+ - [Lexus shows off LF-ZC electric vehicle concept that will launch in 2026](https://www.theverge.com/2023/10/25/23931491/lexus-lf-zc-lf-zl-ev-concept-japan-mobility-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
