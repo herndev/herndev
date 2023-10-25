@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - ⏩ [Feels](http://9gag.com/gag/aA0AeAL)
- - 👉 [Full of degenerates](http://9gag.com/gag/armEM30)<!-- MEMES:END -->
+ - 💣 [Dont forget to be grateful folks](http://9gag.com/gag/aoKoMrm)
+ - ⏩ [Not smart](http://9gag.com/gag/aVbrxov)
+ - 👉 [Could you f**king stop](http://9gag.com/gag/aqeMj3L)<!-- MEMES:END -->
 
 ---
 
