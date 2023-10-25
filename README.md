@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out &quot;About this image&quot;, which provides background information and context about images in Search, to English-language users globally &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231025/p32#a231025p32)
- - [Google will require Android apps to better moderate AI-generated content](https://www.theverge.com/2023/10/25/23931732/android-generative-ai-rules-app-developer-policy-google)
- - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)<!-- TECH:END -->
+ - [Android apps will need to moderate AI content to stay in Google Play Store](https://www.androidauthority.com/android-app-generative-ai-3379388/)
+ - [Okta&#39;s Latest Security Breach Is Haunted by the Ghost of Incidents Past](https://www.wired.com/story/okta-support-system-breach-disclosure/)
+ - [Here’s your first look at Metal Gear Solid Delta: Snake Eater gameplay](https://www.theverge.com/23931986/metal-gear-solid-delta-snake-eater-gameplay-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
