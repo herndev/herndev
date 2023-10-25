@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android apps will need to moderate AI content to stay in Google Play Store](https://www.androidauthority.com/android-app-generative-ai-3379388/)
- - [Okta&#39;s Latest Security Breach Is Haunted by the Ghost of Incidents Past](https://www.wired.com/story/okta-support-system-breach-disclosure/)
- - [Here’s your first look at Metal Gear Solid Delta: Snake Eater gameplay](https://www.theverge.com/23931986/metal-gear-solid-delta-snake-eater-gameplay-trailer)<!-- TECH:END -->
+ - [Telegram has blocked Hamas channels on Android because Google forced it to](https://www.theverge.com/2023/10/25/23931710/telegram-android-block-hamas-channels-google-play-guidelines-war-israel)
+ - [Researchers reveal an attack forcing iOS and macOS WebKit browsers to divulge secrets, like passwords and private web data, of users who visit a malicious site &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231025/p35#a231025p35)
+ - [Apple plans major overhaul for AirPods line in 2024 and 2025](https://appleinsider.com/articles/23/10/25/apple-plans-major-overhaul-for-airpods-line-in-2024-and-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
