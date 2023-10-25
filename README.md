@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday arrives early with up to $1,900 in deals from B&amp;H Photo this week](https://appleinsider.com/articles/23/10/25/black-friday-arrives-early-with-up-to-1900-in-deals-from-bh-photo-this-week?utm_medium=rss)
- - [IBM reports Q3 revenue up 4.6% YoY to $14.75B, vs. $14.73B est., net income of $1.7B, vs. a $3.20B net loss YoY, and software revenue up 7.8% YoY to $6.27B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231025/p41#a231025p41)
- - [Meta&#39;s Reality Labs reports Q3 revenue down 26% YoY to $210M, vs. $299.3M est., and operating loss of $3.74B, vs. $3.9B est. &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231025/p40#a231025p40)<!-- TECH:END -->
+ - [Zuckerberg says Threads has almost 100 million monthly users](https://www.theverge.com/2023/10/25/23932473/mark-zuckerberg-threads-100-million-monthly-users-earnings)
+ - [X is officially rolling out audio and video calls](https://www.theverge.com/2023/10/25/23932371/x-audio-video-calls-elon-musk)
+ - [Apple patched several security vulnerabilities in iOS 17.1 and the rest](https://appleinsider.com/articles/23/10/25/apple-patched-several-security-vulnerabilities-in-ios-171-and-the-rest?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
