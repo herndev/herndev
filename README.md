@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram has blocked Hamas channels on Android because Google forced it to](https://www.theverge.com/2023/10/25/23931710/telegram-android-block-hamas-channels-google-play-guidelines-war-israel)
- - [Researchers reveal an attack forcing iOS and macOS WebKit browsers to divulge secrets, like passwords and private web data, of users who visit a malicious site &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231025/p35#a231025p35)
- - [Apple plans major overhaul for AirPods line in 2024 and 2025](https://appleinsider.com/articles/23/10/25/apple-plans-major-overhaul-for-airpods-line-in-2024-and-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Google expands its AR shopping tool that allows users to virtually wear beauty products, bringing the feature to mobile browsers and Google Shopping ads &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231025/p37#a231025p37)
+ - [Spotify is reportedly making major changes to its royalty model](https://www.theverge.com/2023/10/25/23932312/spotify-royalties-swift-deezer-universal-white-noise)
+ - [Apple TV+ has a big holiday lineup featuring &#39;Frog and Toad,&#39; &#39;Charlie Brown Classics,&#39; and more](https://appleinsider.com/articles/23/10/25/apple-tv-has-a-big-holiday-lineup-featuring-frog-and-toad-charlie-brown-classics-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
