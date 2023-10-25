@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s updated AR beauty tools make it easier to buy cosmetics and hair dye](https://www.theverge.com/2023/10/25/23929987/google-shopping-ads-ar-beauty-virtual-makeup-tools)
- - [Sources: SMIC used ASML&#39;s DUV machines to create its 7nm chip used by Huawei; ASML has never shipped its EUV tools to China but older DUV models can be retooled &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p26#a231025p26)
- - [Proton’s password manager now lets you securely share logins](https://www.theverge.com/2023/10/25/23931477/proton-pass-password-manager-secure-sharing)<!-- TECH:END -->
+ - [iPhone owners keep their smartphones longer than Android users](https://appleinsider.com/articles/23/10/25/iphone-owners-keep-their-smartphones-longer-than-android-users?utm_medium=rss)
+ - [Apple Pay Later now lets all iPhone users break up their payments](https://www.androidauthority.com/apple-pay-later-launch-3379341/)
+ - [Sam Bankman Fried&#39;s lawyer says SBF plans to testify in his own trial when they start their case later this week, after damaging testimony from a US witness &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p30#a231025p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
