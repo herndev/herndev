@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Green Lantern writer to donate royalties in response to anti-gay backlash](https://www.polygon.com/23930473/green-lantern-dc-comics-alan-scott-tim-sheridan)
- - [Todd Howard Revealed Elder Scrolls 6 Early Due To Grumpy Gamers](https://kotaku.com/elder-scrolls-6-reveal-todd-howard-1850957802)
- - [If RDNA 5 can&#39;t turn things around I have a tough time believing AMD will stick around in PC graphics for much longer](https://www.pcgamer.com/if-rdna-5-cant-turn-things-around-i-have-a-tough-time-believing-amd-will-stick-around-in-pc-graphics-for-much-longer)<!-- GAME:END -->
+ - [When will New Game+ be added to Spider-Man 2 for PS5?](https://www.polygon.com/spider-man-2-guides/23931803/new-game-plus)
+ - [Starfield&#39;s inevitable community patch has arrived on the scene](https://www.pcgamer.com/starfields-inevitable-community-patch-has-arrived-on-the-scene)
+ - [Super Mario Bros. Wonder’s end-of-level screenshots are absolutely unhinged](https://www.polygon.com/23929459/super-mario-bros-wonder-end-of-level-screenshots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
