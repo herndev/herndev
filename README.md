@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Live and Flipkart&#39;s Vibes are trying to revive livestream commerce in India, as most startups that tried to popularize live e-commerce are struggling &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/231025/p8#a231025p8)
- - [Q&amp;A with Harvard professor and Creative Commons co-founder Lawrence Lessig on AI&#39;s impact on social media and free speech, copyright issues, TikTok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231025/p7#a231025p7)
- - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Motorola&#39;s Bendable Phone Display Concept Can Wrap Around Your Wrist     - CNET](https://www.cnet.com/tech/mobile/motorolas-bendable-phone-display-concept-can-wrap-around-your-wrist/#ftag=CAD590a51e)
+ - [AWS plans to launch a sovereign cloud in Europe for governments and customers in regulated industries, storing data on EU servers and first available in Germany &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231025/p10#a231025p10)
+ - [Is Your iPhone&#39;s Auto-Brightness Driving You Crazy? Here&#39;s How to Fix It     - CNET](https://www.cnet.com/tech/mobile/is-your-iphones-auto-brightness-driving-you-crazy-heres-how-to-fix-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
