@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like A Dragon: Infinite Wealth Has An Animal Crossing Game Mode](https://kotaku.com/like-a-dragon-yakuza-infinite-wealth-animal-crossing-1850959672)
- - [Sega put a whole Animal Crossing into the new Yakuza game](https://www.polygon.com/23932084/yakuza-like-a-dragon-infinite-wealth-animal-crossing)
- - [Still Wakes the Deep&#39;s debut gameplay trailer asks, &#39;What if Dear Esther was set on an oil rig, and also something was trying to eat you?&#39;](https://www.pcgamer.com/still-wakes-the-deeps-debut-gameplay-trailer-asks-what-if-dear-esther-was-set-on-an-oil-rig-and-also-something-was-trying-to-eat-you)<!-- GAME:END -->
+ - [Starbreeze explains ongoing Payday 3 patch delay: &#39;There was a significant risk to player progression being wiped&#39; by update errors](https://www.pcgamer.com/starbreeze-explains-ongoing-payday-3-patch-delay-there-was-a-significant-risk-to-player-progression-being-wiped-by-update-errors)
+ - [The Five Nights at Freddy&#39;s movie is being mauled by critics as &#39;not scary,&#39; &#39;bloodless,&#39; and &#39;puzzling&#39;](https://www.pcgamer.com/after-almost-a-decade-in-the-making-the-five-nights-at-freddys-movie-is-being-mauled-by-early-reviews-not-scary-bloodless-puzzling)
+ - [Like A Dragon: Infinite Wealth Has An Animal Crossing Game Mode](https://kotaku.com/like-a-dragon-yakuza-infinite-wealth-animal-crossing-1850959672)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
