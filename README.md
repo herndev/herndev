@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search can now help verify an image’s origins](https://www.theverge.com/2023/10/25/23931384/google-about-this-image-context-sources-fact-checking)
- - [The messy story of the Bleach voice acting controversy, explained](https://www.theverge.com/23930365/bleach-thousand-year-blood-war-yoruichi-voice-cast-controversy)
- - [Lexus shows off LF-ZC electric vehicle concept that will launch in 2026](https://www.theverge.com/2023/10/25/23931491/lexus-lf-zc-lf-zl-ev-concept-japan-mobility-show)<!-- TECH:END -->
+ - [Google rolls out &quot;About this image&quot;, which provides background information and context about images in Search, to English-language users globally &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231025/p32#a231025p32)
+ - [Google will require Android apps to better moderate AI-generated content](https://www.theverge.com/2023/10/25/23931732/android-generative-ai-rules-app-developer-policy-google)
+ - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
