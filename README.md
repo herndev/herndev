@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My favorite Titanic adventure game is remarkably faithful to the historic disaster, except for how it floats above Tokyo circa 2026 stuffed with demons](https://www.pcgamer.com/my-favorite-titanic-adventure-game-is-remarkably-faithful-to-the-historic-disaster-except-for-how-it-floats-above-tokyo-circa-2026-stuffed-with-demons)
- - [Learn More About FixyText, Coming to Xbox in The Jackbox Party Pack 10](https://news.xbox.com/en-us/2023/10/19/learn-more-about-the-jackbox-party-pack-10/)
- - [How queerness became calamity in Tears of the Kingdom](https://www.polygon.com/23922313/legend-of-zelda-tears-kingdom-totk-queer-gender-link)<!-- GAME:END -->
+ - [Skyrim&#39;s retired lead designer says anything other than the &#39;Bethesda usual&#39; has to be approved by Todd Howard: &#39;He doesn&#39;t believe it&#39;s true, but unfortunately it&#39;s true&#39;](https://www.pcgamer.com/skyrims-retired-lead-designer-says-anything-other-than-the-bethesda-usual-has-to-be-approved-by-todd-howard-he-doesnt-believe-its-true-but-unfortunately-its-true)
+ - [I made a one-way bathtub Geralt city in Cities: Skylines 2 and want to move there](https://www.pcgamer.com/i-made-a-one-way-bathtub-geralt-city-in-cities-skylines-2-and-want-to-move-there)
+ - [Watch Xbox’s new Partner Preview showcase for a peek at what’s next](https://www.polygon.com/23931584/xbox-partner-preview-showcase-livestream-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
