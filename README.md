@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont forget to be grateful folks](http://9gag.com/gag/aoKoMrm)
- - ⏩ [Not smart](http://9gag.com/gag/aVbrxov)
- - 👉 [Could you f**king stop](http://9gag.com/gag/aqeMj3L)<!-- MEMES:END -->
+ - 💣 [Send it to ex and hope it works](http://9gag.com/gag/a4og35A)
+ - ⏩ [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 👉 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)<!-- MEMES:END -->
 
 ---
 
