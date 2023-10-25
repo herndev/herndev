@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI announces new Osmo Pocket 3 gimbal camera with rotating screen](https://appleinsider.com/articles/23/10/25/dji-announces-new-osmo-pocket-3-gimbal-camera-with-rotating-screen?utm_medium=rss)
- - [DJI’s baby steadicam Osmo Pocket 3 has so many upgrades, I don’t know where to begin](https://www.theverge.com/23931074/dji-osmo-pocket-3-price-release-date-hands-on)
- - [The obsessive tormenter who made professors’ lives miserable](https://www.theverge.com/c/features/23903125/lurker-online-harassment-stalking-asian-academics)<!-- TECH:END -->
+ - [Google’s updated AR beauty tools make it easier to buy cosmetics and hair dye](https://www.theverge.com/2023/10/25/23929987/google-shopping-ads-ar-beauty-virtual-makeup-tools)
+ - [Sources: SMIC used ASML&#39;s DUV machines to create its 7nm chip used by Huawei; ASML has never shipped its EUV tools to China but older DUV models can be retooled &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p26#a231025p26)
+ - [Proton’s password manager now lets you securely share logins](https://www.theverge.com/2023/10/25/23931477/proton-pass-password-manager-secure-sharing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
