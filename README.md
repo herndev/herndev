@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m just curious..are they really doing this or is it a joke?](http://9gag.com/gag/aNwM1LG)
- - ⏩ [Who?](http://9gag.com/gag/aEqK2BM)
- - 👉 [Full of degenerates](http://9gag.com/gag/armEM30)<!-- MEMES:END -->
+ - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - ⏩ [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
+ - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
 
 ---
 
