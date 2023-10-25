@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - ⏩ [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
- - 👉 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)<!-- MEMES:END -->
+ - 💣 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
+ - ⏩ [Nice](http://9gag.com/gag/aVbrwVy)
+ - 👉 [Full of degenerates](http://9gag.com/gag/armEM30)<!-- MEMES:END -->
 
 ---
 
