@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim&#39;s retired lead designer says anything other than the &#39;Bethesda usual&#39; has to be approved by Todd Howard: &#39;He doesn&#39;t believe it&#39;s true, but unfortunately it&#39;s true&#39;](https://www.pcgamer.com/skyrims-retired-lead-designer-says-anything-other-than-the-bethesda-usual-has-to-be-approved-by-todd-howard-he-doesnt-believe-its-true-but-unfortunately-its-true)
- - [I made a one-way bathtub Geralt city in Cities: Skylines 2 and want to move there](https://www.pcgamer.com/i-made-a-one-way-bathtub-geralt-city-in-cities-skylines-2-and-want-to-move-there)
- - [Watch Xbox’s new Partner Preview showcase for a peek at what’s next](https://www.polygon.com/23931584/xbox-partner-preview-showcase-livestream-watch)<!-- GAME:END -->
+ - [Green Lantern writer to donate royalties in response to anti-gay backlash](https://www.polygon.com/23930473/green-lantern-dc-comics-alan-scott-tim-sheridan)
+ - [Todd Howard Revealed Elder Scrolls 6 Early Due To Grumpy Gamers](https://kotaku.com/elder-scrolls-6-reveal-todd-howard-1850957802)
+ - [If RDNA 5 can&#39;t turn things around I have a tough time believing AMD will stick around in PC graphics for much longer](https://www.pcgamer.com/if-rdna-5-cant-turn-things-around-i-have-a-tough-time-believing-amd-will-stick-around-in-pc-graphics-for-much-longer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
