@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
- - ⏩ [?????](http://9gag.com/gag/aZDXy26)
- - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
+ - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - ⏩ [I&#39;m part of 9gag community](http://9gag.com/gag/az2y5Vx)
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 ---
 
