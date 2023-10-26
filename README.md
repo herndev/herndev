@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Frog Detective: The Entire Mystery Finally Scoots onto Xbox with Game Pass for Console](https://news.xbox.com/en-us/2023/10/26/frog-detective-the-entire-mystery-on-xbox-with-game/)
- - [Steam’s Scream sale has discounts on the best scary PC games out there](https://www.polygon.com/deals/23933734/pc-gaming-deals-steam-halloween-sale)
- - [The new demo for this cozy vampire farm sim gives you one week to decorate your spooky property](https://www.pcgamer.com/the-new-demo-for-this-cozy-vampire-farm-sim-gives-you-one-week-to-decorate-your-spooky-property)<!-- GAME:END -->
+ - [CD Projekt never considered a Cyberpunk expansion set after the main game&#39;s endings: &#39;No need to water them down. Sometimes less is more&#39;](https://www.pcgamer.com/cd-projekt-never-considered-a-cyberpunk-expansion-set-after-the-main-games-endings-no-need-to-water-them-down-sometimes-less-is-more)
+ - [Total Recall: Is Alan Wake Worth Playing Before Its Sequel?](https://kotaku.com/total-recall-alan-wake-twin-peaks-remedy-entertainment-1850964420)
+ - [After 3 years of &#39;hands-off&#39; management, Microsoft is making Bethesda and ZeniMax report directly to an Xbox bigwig](https://www.pcgamer.com/after-3-years-of-hands-off-management-microsoft-is-making-bethesda-and-zenimax-report-directly-to-an-xbox-bigwig)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
