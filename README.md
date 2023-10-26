@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Work of Wyrd – Bringing Hellboy Web of Wyrd to Life](https://news.xbox.com/en-us/2023/10/26/bringing-hellboy-web-of-wyrd-to-life/)
- - [Beyond Dharma Tower: Ghostrunner 2’s Evolution in Story and Combat](https://news.xbox.com/en-us/2023/10/26/beyond-dharma-tower-ghostrunner-2s-evolution-in-story-and-combat/)
- - [How to save $20 on Super Mario Bros. Wonder](https://www.polygon.com/deals/23933635/super-mario-bros-wonder-deal-sale-discount-switch-online-membership)<!-- GAME:END -->
+ - [A Heartwarming Game with a Rich Story – A Perfect Dayis Now Available on Xbox](https://news.xbox.com/en-us/2023/10/26/a-perfect-dayis-now-available-on-xbox/)
+ - [Remedy reassures PC gamers worried about Alan Wake 2 system requirements: &#39;We played real safe on those PC settings&#39;](https://www.pcgamer.com/remedy-reassures-pc-gamers-worried-about-alan-wake-2-system-requirements-we-played-real-safe-on-those-pc-settings)
+ - [Work of Wyrd – Bringing Hellboy Web of Wyrd to Life](https://news.xbox.com/en-us/2023/10/26/bringing-hellboy-web-of-wyrd-to-life/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
