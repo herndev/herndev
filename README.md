@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - ⏩ [I&#39;m part of 9gag community](http://9gag.com/gag/az2y5Vx)
- - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
+ - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - ⏩ [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
 
 ---
 
