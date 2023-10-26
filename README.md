@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Read Books When You Can Use Chatbots to Talk to Them Instead?](https://www.wired.com/story/why-read-books-when-you-can-use-chatbots-to-talk-to-them-instead/)
- - [Google Maps gets healthy dose of AI upgrades and Immersive View for routes](https://www.androidauthority.com/google-maps-updates-3379645/)
- - [Boston Dynamics turned its robot dog into a talking tour guide with ChatGPT](https://www.theverge.com/2023/10/26/23933213/boston-dynamics-robot-dog-spot-top-hat)<!-- TECH:END -->
+ - [The best smart plugs](https://www.theverge.com/23899810/best-smart-plugs)
+ - [Is my co-worker AI? Bizarre product reviews leave Gannett staff wondering](https://www.theverge.com/2023/10/26/23931530/gannett-ai-product-reviews-site-reviewed-union-newsguild)
+ - [Lisa Frankenstein’s new trailer makes it look like a totally rad monster romance](https://www.theverge.com/2023/10/26/23933164/lisa-frankenstein-movie-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
