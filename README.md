@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2: The Dark Place Is An Entirely New Experiment for Remedy](https://news.xbox.com/en-us/2023/10/26/alan-wake-2-dark-place-preview/)
- - [Unionisation still necessary despite improvements, say CDPR devs, after the &#39;tremendous amount of stress and insecurity&#39; caused by recent layoffs](https://www.pcgamer.com/unionisation-still-necessary-despite-improvements-say-cdpr-devs-after-the-tremendous-amount-of-stress-and-insecurity-caused-by-recent-layoffs)
- - [Cyberpunk&#39;s new patch means the game will no longer strike you down like a fickle god right before the ending](https://www.pcgamer.com/cyberpunks-new-patch-means-the-game-will-no-longer-strike-you-down-like-a-fickle-god-right-before-the-ending)<!-- GAME:END -->
+ - [Big Xbox Shakeup Might Avoid Another Redfall Debacle](https://kotaku.com/microsoft-xbox-bethesda-redfall-arkane-executives-1850962825)
+ - [Cities: Skylines 2&#39;s first performance patch is live on Steam](https://www.pcgamer.com/cities-skylines-2s-first-performance-patch-is-live-on-steam)
+ - [Our Hearthstone Showdown in the Badlands card reveal is snakes all the way down](https://www.pcgamer.com/our-hearthstone-showdown-in-the-badlands-card-reveal-is-snakes-all-the-way-down)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
