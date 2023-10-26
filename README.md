@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - ⏩ [I like happy endings...](http://9gag.com/gag/aA0AGv2)
- - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
+ - 💣 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
+ - ⏩ [What ?](http://9gag.com/gag/axoK7qb)
+ - 👉 [Full of degenerates](http://9gag.com/gag/armEM30)<!-- MEMES:END -->
 
 ---
 
