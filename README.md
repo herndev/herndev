@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos will soon let you better organize similar photos](https://www.androidauthority.com/google-photos-photo-stack-3379517/)
- - [You can now make audio and video calls on X &lpar;formerly Twitter&rpar;](https://www.androidauthority.com/x-audio-video-calling-rollout-3379512/)
- - [Apple reportedly planning major AirPods overhaul starting next year](https://www.androidauthority.com/apple-airpods-4th-generation-airpods-pro-3rd-generation-airpods-max-redesign-3379507/)<!-- TECH:END -->
+ - [Kioxia investor SK Hynix says the company didn&#39;t agree to the Kioxia-Western Digital merger due to &quot;the overall impact on the value of the company&#39;s investment&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231026/p4#a231026p4)
+ - [Bluesky Social vs Threads by Meta: Which one offers more?](https://www.androidauthority.com/bluesky-social-vs-threads-3367718/)
+ - [Analysis of 1,800 AI datasets: ~70% didn&#39;t state what license should be used or had been mislabeled with more permissive guidelines than their creators intended &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231026/p3#a231026p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
