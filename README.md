@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford is testing drone deliveries at the derelict train station in Detroit it’s rehabbing](https://www.theverge.com/2023/10/26/23931854/ford-michigan-central-drone-delivery-airspace-train-station)
- - [Franco-Italian chipmaker STMicro reports Q3 revenue up 2.5% to $4.43B, beating $4.38B est., net income down 0.8% YoY to ~$1B, and predicts demand rising in Q1 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/231026/p5#a231026p5)
- - [Kioxia investor SK Hynix says the company didn&#39;t agree to the Kioxia-Western Digital merger due to &quot;the overall impact on the value of the company&#39;s investment&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231026/p4#a231026p4)<!-- TECH:END -->
+ - [Magic Leap names Bain Capital tech executive Ross Rosenberg as CEO, starting November 1, replacing Peggy Johnson, who joined from Microsoft in 2020 &lpar;Jessica Nix/Bloomberg&rpar;](http://www.techmeme.com/231026/p7#a231026p7)
+ - [This Snapdragon 8 Gen 3 phone will let you open apps with your eyes](https://www.androidauthority.com/honor-magic-6-eye-tracking-3379536/)
+ - [US Trade Representative Katherine Tai dropped longstanding US digital trade demands in WTO talks, aiming to give Congress room to regulate Big Tech companies &lpar;David Lawder/Reuters&rpar;](http://www.techmeme.com/231026/p6#a231026p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
