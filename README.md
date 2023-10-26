@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Magic Leap names Bain Capital tech executive Ross Rosenberg as CEO, starting November 1, replacing Peggy Johnson, who joined from Microsoft in 2020 &lpar;Jessica Nix/Bloomberg&rpar;](http://www.techmeme.com/231026/p7#a231026p7)
- - [This Snapdragon 8 Gen 3 phone will let you open apps with your eyes](https://www.androidauthority.com/honor-magic-6-eye-tracking-3379536/)
- - [US Trade Representative Katherine Tai dropped longstanding US digital trade demands in WTO talks, aiming to give Congress room to regulate Big Tech companies &lpar;David Lawder/Reuters&rpar;](http://www.techmeme.com/231026/p6#a231026p6)<!-- TECH:END -->
+ - [JPMorgan&#39;s Global Head of Payments says its blockchain-based JMP Coin now handles $1B in transactions per day and the bank plans to continue to widen its usage &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231026/p11#a231026p11)
+ - [Internal Google documents detail plans to contain Apple&#39;s search ambitions after Spotlight&#39;s 2021 update; sources say Google paid Apple $18B for search in 2021 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231026/p10#a231026p10)
+ - [Hyundai plans to run five US &quot;clinics&quot; for anti-theft software upgrades for vehicles now regularly targeted by thieves using techniques popularized on TikTok &lpar;Associated Press&rpar;](http://www.techmeme.com/231026/p9#a231026p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
