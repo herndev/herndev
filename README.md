@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Member this gem? We still dont know if the girl is safe now.](http://9gag.com/gag/ago9od6)
- - ⏩ [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
- - 👉 [Friendly fire](http://9gag.com/gag/aWGyjvK)<!-- MEMES:END -->
+ - ⏩ [Friendly fire](http://9gag.com/gag/aWGyjvK)
+ - 👉 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)<!-- MEMES:END -->
 
 ---
 
