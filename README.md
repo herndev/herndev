@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 is worth every minute of the 13-year wait](https://www.polygon.com/reviews/23932094/alan-wake-2-review-ps5-xbox-series-x-pc)
- - [Timb-err: Old School Runescape&#39;s new forestry update gets panned for being &#39;too convoluted for its own good&#39;](https://www.pcgamer.com/timb-err-old-school-runescapes-new-forestry-update-gets-panned-for-being-too-convoluted-for-its-own-good)
- - [A GPU datacentre company agreed to buy a cannabis business last month in what could be described as a new joint venture](https://www.pcgamer.com/a-gpu-datacentre-company-agreed-to-buy-a-cannabis-business-last-month-in-what-could-be-described-as-a-new-joint-venture)<!-- GAME:END -->
+ - [Free Play Days – Fallout 76, Meet Your Maker, Deep Rock Galactic, and MLB The Show 23](https://news.xbox.com/en-us/2023/10/26/free-play-days-fallout-76-meet-your-maker-deep-rock-galactic-and-mlb-the-show-23/)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [Cyberpunk 2077&#39;s New Patch Buffs Keanu Reeves&#39; Gun And Screws Over Homeless People](https://kotaku.com/cyberpunk-2077-phantom-liberty-patch-notes-2-02-1850961849)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
