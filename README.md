@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
- - ⏩ [What ?](http://9gag.com/gag/axoK7qb)
- - 👉 [Full of degenerates](http://9gag.com/gag/armEM30)<!-- MEMES:END -->
+ - ⏩ [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 
