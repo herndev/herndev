@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
- - ⏩ [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)
- - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
+ - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - ⏩ [I like happy endings...](http://9gag.com/gag/aA0AGv2)
+ - 👉 [What ?](http://9gag.com/gag/axoK7qb)<!-- MEMES:END -->
 
 ---
 
