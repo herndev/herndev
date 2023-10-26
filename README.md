@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - ⏩ [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
+ - 💣 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - ⏩ [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
+ - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
 
 ---
 
