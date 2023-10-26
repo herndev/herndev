@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
- - ⏩ [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
- - 👉 [Serious question though](http://9gag.com/gag/abvDvLE)<!-- MEMES:END -->
+ - ⏩ [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
 
 ---
 
