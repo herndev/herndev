@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - ⏩ [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
- - 👉 [Serious question though](http://9gag.com/gag/abvDvLE)<!-- MEMES:END -->
+ - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - ⏩ [Nice](http://9gag.com/gag/aVbrwVy)
+ - 👉 [?????](http://9gag.com/gag/aZDXy26)<!-- MEMES:END -->
 
 ---
 
