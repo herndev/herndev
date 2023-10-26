@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
- - ⏩ [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
+ - 💣 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
+ - ⏩ [What should I do next time?](http://9gag.com/gag/aME7x96)
+ - 👉 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)<!-- MEMES:END -->
 
 ---
 
