@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps is becoming more like Search — thanks to AI](https://www.theverge.com/2023/10/26/23932315/google-maps-ai-immersive-view-ev-charging-search)
- - [Shutterstock will now let you transform real photos using AI](https://www.theverge.com/2023/10/26/23933120/shutterstock-transform-real-photos-ai)
- - [Leica’s latest camera encrypts verification info into every photo](https://www.theverge.com/2023/10/26/23932288/leica-m11p-camera-rangefinder-adobe-content-authenticity-cai-ai-verification-price-specs)<!-- TECH:END -->
+ - [Samsung now offers Galaxy users running One UI 6 a Temporary Cloud Backup feature with unlimited storage for up to 30 days for free, on par with Apple &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231026/p17#a231026p17)
+ - [Apple store in California hit with $100,000 grand theft, suspects still at large](https://appleinsider.com/articles/23/10/26/apple-store-in-california-hit-with-100000-grand-theft-suspects-still-at-large?utm_medium=rss)
+ - [No Apple Watch Ultra 3 in development, says Kuo](https://appleinsider.com/articles/23/10/26/no-apple-watch-ultra-3-in-development-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
