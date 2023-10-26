@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All of the Our Flag Means Death season 3 news we’ve heard so far](https://www.polygon.com/23930556/our-flag-means-death-season-3-max-release-cast-news)
- - [Pool but Not as you Know it – Three Ways we Brought our Vision for Mutiplayer Pool to Life](https://news.xbox.com/en-us/2023/10/26/we-brought-our-vision-for-mutiplayer-pool-to-life/)
- - [Thermaltake steps into the monitor market with a pair of gaming focused monitors](https://www.pcgamer.com/thermaltake-steps-into-the-monitor-market-with-a-pair-of-gaming-focused-monitors)<!-- GAME:END -->
+ - [How to catch Zorua and shiny Zorua in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23932072/find-zorua-shiny-zoroark)
+ - [Pokémon Go Giovanni counters, team line-up in October 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
+ - [Former &#39;king of crypto&#39; FTX boss to take stand in fraud trial that, so far, seems to be going very badly for him](https://www.pcgamer.com/former-king-of-crypto-ftx-boss-to-take-stand-in-fraud-trial-that-so-far-seems-to-be-going-very-badly-for-him)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
