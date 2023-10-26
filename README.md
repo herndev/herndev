@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Heartwarming Game with a Rich Story – A Perfect Dayis Now Available on Xbox](https://news.xbox.com/en-us/2023/10/26/a-perfect-dayis-now-available-on-xbox/)
- - [Remedy reassures PC gamers worried about Alan Wake 2 system requirements: &#39;We played real safe on those PC settings&#39;](https://www.pcgamer.com/remedy-reassures-pc-gamers-worried-about-alan-wake-2-system-requirements-we-played-real-safe-on-those-pc-settings)
- - [Work of Wyrd – Bringing Hellboy Web of Wyrd to Life](https://news.xbox.com/en-us/2023/10/26/bringing-hellboy-web-of-wyrd-to-life/)<!-- GAME:END -->
+ - [Frog Detective: The Entire Mystery Finally Scoots onto Xbox with Game Pass for Console](https://news.xbox.com/en-us/2023/10/26/frog-detective-the-entire-mystery-on-xbox-with-game/)
+ - [Steam’s Scream sale has discounts on the best scary PC games out there](https://www.polygon.com/deals/23933734/pc-gaming-deals-steam-halloween-sale)
+ - [The new demo for this cozy vampire farm sim gives you one week to decorate your spooky property](https://www.pcgamer.com/the-new-demo-for-this-cozy-vampire-farm-sim-gives-you-one-week-to-decorate-your-spooky-property)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
