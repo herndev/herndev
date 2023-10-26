@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to catch Zorua and shiny Zorua in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23932072/find-zorua-shiny-zoroark)
- - [Pokémon Go Giovanni counters, team line-up in October 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
- - [Former &#39;king of crypto&#39; FTX boss to take stand in fraud trial that, so far, seems to be going very badly for him](https://www.pcgamer.com/former-king-of-crypto-ftx-boss-to-take-stand-in-fraud-trial-that-so-far-seems-to-be-going-very-badly-for-him)<!-- GAME:END -->
+ - [Victoria 3 conjures up yet another DLC type as it braces for its &#39;grandest update to military, economy, and diplomacy&#39; yet](https://www.pcgamer.com/victoria-3-conjures-up-yet-another-dlc-type-as-it-braces-for-its-grandest-update-to-military-economy-and-diplomacy-yet)
+ - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in October 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
+ - [How to catch Zorua and shiny Zorua in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23932072/find-zorua-shiny-zoroark)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
