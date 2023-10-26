@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart plugs](https://www.theverge.com/23899810/best-smart-plugs)
- - [Is my co-worker AI? Bizarre product reviews leave Gannett staff wondering](https://www.theverge.com/2023/10/26/23931530/gannett-ai-product-reviews-site-reviewed-union-newsguild)
- - [Lisa Frankenstein’s new trailer makes it look like a totally rad monster romance](https://www.theverge.com/2023/10/26/23933164/lisa-frankenstein-movie-trailer)<!-- TECH:END -->
+ - [France&#39;s iPhone 12 ban remains in place for some territories](https://appleinsider.com/articles/23/10/26/frances-iphone-12-ban-remains-in-place-for-some-territories?utm_medium=rss)
+ - [Declining MacBook sales has Apple considering a budget option, says Kuo](https://www.androidauthority.com/apple-affordable-macbook-3379769/)
+ - [Apple Store union workers claim foul over labor audit](https://appleinsider.com/articles/23/10/26/apple-store-union-workers-claim-foul-over-labor-audit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
