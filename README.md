@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung now offers Galaxy users running One UI 6 a Temporary Cloud Backup feature with unlimited storage for up to 30 days for free, on par with Apple &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231026/p17#a231026p17)
- - [Apple store in California hit with $100,000 grand theft, suspects still at large](https://appleinsider.com/articles/23/10/26/apple-store-in-california-hit-with-100000-grand-theft-suspects-still-at-large?utm_medium=rss)
- - [No Apple Watch Ultra 3 in development, says Kuo](https://appleinsider.com/articles/23/10/26/no-apple-watch-ultra-3-in-development-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+ sheds light on John Lennon&#39;s murder in upcoming docuseries](https://appleinsider.com/articles/23/10/26/apple-tv-sheds-light-on-john-lennons-murder-in-upcoming-docuseries?utm_medium=rss)
+ - [The Beatles’ final song is coming together through the power of artificial intelligence](https://www.theverge.com/23933209/the-beatles-now-and-then-release-date-ai)
+ - [Google reportedly pays $18 billion a year to be Apple’s default search engine](https://www.theverge.com/2023/10/26/23933206/google-apple-search-deal-safari-18-billion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
