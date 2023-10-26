@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reportedly planning major AirPods overhaul starting next year](https://www.androidauthority.com/apple-airpods-4th-generation-airpods-pro-3rd-generation-airpods-max-redesign-3379507/)
  - [Leaked UK&#39;s final AI Safety Summit communiqu&amp;eacute; does not mention a new scientific body to study AI risks, and says it should be done using existing collaborations &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/231026/p2#a231026p2)
- - [T-Mobile comes to its senses, won’t force more expensive plans on customers](https://www.androidauthority.com/t-mobile-forced-upgrades-canceled-3379505/)
- - [Sources, docs, and government tenders: China has increased spending to replace Western tech with local options since late 2022, starting with computer equipment &lpar;Reuters&rpar;](http://www.techmeme.com/231026/p1#a231026p1)<!-- TECH:END -->
+ - [T-Mobile comes to its senses, won’t force more expensive plans on customers](https://www.androidauthority.com/t-mobile-forced-upgrades-canceled-3379505/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
