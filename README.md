@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All of the Our Flag Means Death season 3 news we’ve heard so far](https://www.polygon.com/23930556/our-flag-means-death-season-3-max-release-cast-news)
  - [Pool but Not as you Know it – Three Ways we Brought our Vision for Mutiplayer Pool to Life](https://news.xbox.com/en-us/2023/10/26/we-brought-our-vision-for-mutiplayer-pool-to-life/)
- - [Thermaltake steps into the monitor market with a pair of gaming focused monitors](https://www.pcgamer.com/thermaltake-steps-into-the-monitor-market-with-a-pair-of-gaming-focused-monitors)
- - [Wordle today: Hint and answer for #859 Thursday, October 26](https://www.pcgamer.com/wordle-today-answer-859-october-26)<!-- GAME:END -->
+ - [Thermaltake steps into the monitor market with a pair of gaming focused monitors](https://www.pcgamer.com/thermaltake-steps-into-the-monitor-market-with-a-pair-of-gaming-focused-monitors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
