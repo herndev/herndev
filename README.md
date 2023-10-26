@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)
- - [The Scott Pilgrim hardcover box sets are available to pre-order](https://www.polygon.com/23932375/scott-pilgrim-hardcover-box-set-pre-order)
- - [Apex Legends’ cheery new legend Conduit leads a big new season, ‘Ignite’](https://www.polygon.com/23933471/apex-legends-ignite-conduit-frankie-kevich-season-19)<!-- GAME:END -->
+ - [Work of Wyrd – Bringing Hellboy Web of Wyrd to Life](https://news.xbox.com/en-us/2023/10/26/bringing-hellboy-web-of-wyrd-to-life/)
+ - [Beyond Dharma Tower: Ghostrunner 2’s Evolution in Story and Combat](https://news.xbox.com/en-us/2023/10/26/beyond-dharma-tower-ghostrunner-2s-evolution-in-story-and-combat/)
+ - [How to save $20 on Super Mario Bros. Wonder](https://www.polygon.com/deals/23933635/super-mario-bros-wonder-deal-sale-discount-switch-online-membership)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
