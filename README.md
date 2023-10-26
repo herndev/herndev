@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Victoria 3 conjures up yet another DLC type as it braces for its &#39;grandest update to military, economy, and diplomacy&#39; yet](https://www.pcgamer.com/victoria-3-conjures-up-yet-another-dlc-type-as-it-braces-for-its-grandest-update-to-military-economy-and-diplomacy-yet)
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in October 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
- - [How to catch Zorua and shiny Zorua in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23932072/find-zorua-shiny-zoroark)<!-- GAME:END -->
+ - [Alan Wake 2 is worth every minute of the 13-year wait](https://www.polygon.com/reviews/23932094/alan-wake-2-review-ps5-xbox-series-x-pc)
+ - [Timb-err: Old School Runescape&#39;s new forestry update gets panned for being &#39;too convoluted for its own good&#39;](https://www.pcgamer.com/timb-err-old-school-runescapes-new-forestry-update-gets-panned-for-being-too-convoluted-for-its-own-good)
+ - [A GPU datacentre company agreed to buy a cannabis business last month in what could be described as a new joint venture](https://www.pcgamer.com/a-gpu-datacentre-company-agreed-to-buy-a-cannabis-business-last-month-in-what-could-be-described-as-a-new-joint-venture)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
