@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now make audio and video calls on X &lpar;formerly Twitter&rpar;](https://www.androidauthority.com/x-audio-video-calling-rollout-3379512/)
  - [Apple reportedly planning major AirPods overhaul starting next year](https://www.androidauthority.com/apple-airpods-4th-generation-airpods-pro-3rd-generation-airpods-max-redesign-3379507/)
- - [Leaked UK&#39;s final AI Safety Summit communiqu&amp;eacute; does not mention a new scientific body to study AI risks, and says it should be done using existing collaborations &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/231026/p2#a231026p2)
- - [T-Mobile comes to its senses, won’t force more expensive plans on customers](https://www.androidauthority.com/t-mobile-forced-upgrades-canceled-3379505/)<!-- TECH:END -->
+ - [Leaked UK&#39;s final AI Safety Summit communiqu&amp;eacute; does not mention a new scientific body to study AI risks, and says it should be done using existing collaborations &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/231026/p2#a231026p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
