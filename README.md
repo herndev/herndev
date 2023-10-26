@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s iPhone 12 ban remains in place for some territories](https://appleinsider.com/articles/23/10/26/frances-iphone-12-ban-remains-in-place-for-some-territories?utm_medium=rss)
- - [Declining MacBook sales has Apple considering a budget option, says Kuo](https://www.androidauthority.com/apple-affordable-macbook-3379769/)
- - [Apple Store union workers claim foul over labor audit](https://appleinsider.com/articles/23/10/26/apple-store-union-workers-claim-foul-over-labor-audit?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI forms Preparedness, a new team to assess, evaluate, and probe AI models to protect against &quot;catastrophic risks&quot;, including biological and nuclear threats &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231026/p28#a231026p28)
+ - [The best image downloader Chrome extensions](https://www.androidauthority.com/best-image-downloader-chrome-extensions-3379670/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
