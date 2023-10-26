@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Member this gem? We still dont know if the girl is safe now.](http://9gag.com/gag/ago9od6)
- - ⏩ [Friendly fire](http://9gag.com/gag/aWGyjvK)
- - 👉 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)<!-- MEMES:END -->
+ - 💣 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - ⏩ [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
+ - 👉 [Serious question though](http://9gag.com/gag/abvDvLE)<!-- MEMES:END -->
 
 ---
 
