@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Xbox Shakeup Might Avoid Another Redfall Debacle](https://kotaku.com/microsoft-xbox-bethesda-redfall-arkane-executives-1850962825)
- - [Cities: Skylines 2&#39;s first performance patch is live on Steam](https://www.pcgamer.com/cities-skylines-2s-first-performance-patch-is-live-on-steam)
- - [Our Hearthstone Showdown in the Badlands card reveal is snakes all the way down](https://www.pcgamer.com/our-hearthstone-showdown-in-the-badlands-card-reveal-is-snakes-all-the-way-down)<!-- GAME:END -->
+ - [The best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)
+ - [The Scott Pilgrim hardcover box sets are available to pre-order](https://www.polygon.com/23932375/scott-pilgrim-hardcover-box-set-pre-order)
+ - [Apex Legends’ cheery new legend Conduit leads a big new season, ‘Ignite’](https://www.polygon.com/23933471/apex-legends-ignite-conduit-frankie-kevich-season-19)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
