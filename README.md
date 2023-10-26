@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best screen recorder Chrome extensions](https://www.androidauthority.com/best-screen-recorder-chrome-extensions-3379829/)
  - [Best Cocktail Gear: Shakers, Strainers, Juicers, and More &lpar;2023&rpar;](https://www.wired.com/gallery/best-cocktail-gear/)
- - [Shazam can tell you what concerts to go to now](https://www.theverge.com/2023/10/26/23932074/shazam-concert-recommendations-ios-iphone)
- - [Intel reports Q3 revenue down 8% YoY to $14.2B, Data Center and AI revenue down 10% YoY to $3.8B, and forecasts Q4 revenue above estimates; INTC jumps 6%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231026/p31#a231026p31)<!-- TECH:END -->
+ - [Poll: What do you think of generative AI?](https://www.androidauthority.com/what-think-generative-ai-poll-3379467/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
