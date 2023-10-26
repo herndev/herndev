@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ sheds light on John Lennon&#39;s murder in upcoming docuseries](https://appleinsider.com/articles/23/10/26/apple-tv-sheds-light-on-john-lennons-murder-in-upcoming-docuseries?utm_medium=rss)
- - [The Beatles’ final song is coming together through the power of artificial intelligence](https://www.theverge.com/23933209/the-beatles-now-and-then-release-date-ai)
- - [Google reportedly pays $18 billion a year to be Apple’s default search engine](https://www.theverge.com/2023/10/26/23933206/google-apple-search-deal-safari-18-billion)<!-- TECH:END -->
+ - [Why Read Books When You Can Use Chatbots to Talk to Them Instead?](https://www.wired.com/story/why-read-books-when-you-can-use-chatbots-to-talk-to-them-instead/)
+ - [Google Maps gets healthy dose of AI upgrades and Immersive View for routes](https://www.androidauthority.com/google-maps-updates-3379645/)
+ - [Boston Dynamics turned its robot dog into a talking tour guide with ChatGPT](https://www.theverge.com/2023/10/26/23933213/boston-dynamics-robot-dog-spot-top-hat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
