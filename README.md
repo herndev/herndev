@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
- - ⏩ [Nice](http://9gag.com/gag/aVbrwVy)
- - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
+ - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - ⏩ [Oden](http://9gag.com/gag/ay2re2p)
+ - 👉 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)<!-- MEMES:END -->
 
 ---
 
