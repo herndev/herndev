@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 Rogue uses a pair of pants to one-shot its hardest bosses: &#39;Uber Lilith was absolutely child&#39;s play&#39;](https://www.pcgamer.com/diablo-4-rogue-uses-a-pair-of-pants-to-one-shot-its-hardest-bosses-uber-lilith-was-absolutely-childs-play)
- - [Asus TUF Gaming Z790-Pro WiFi review](https://www.pcgamer.com/asus-tuf-gaming-z790-pro-wifi-review)
- - [Baldur&#39;s Gate 3 player stacks so much movement, their character can walk 800 feet in under 10 seconds](https://www.pcgamer.com/baldurs-gate-3-player-stacks-so-much-movement-their-character-can-walk-800-feet-in-under-10-seconds)<!-- GAME:END -->
+ - [Thermaltake steps into the monitor market with a pair of gaming focused monitors](https://www.pcgamer.com/thermaltake-steps-into-the-monitor-market-with-a-pair-of-gaming-focused-monitors)
+ - [Wordle today: Hint and answer for #859 Thursday, October 26](https://www.pcgamer.com/wordle-today-answer-859-october-26)
+ - [Diablo 4 Rogue uses a pair of pants to one-shot its hardest bosses: &#39;Uber Lilith was absolutely child&#39;s play&#39;](https://www.pcgamer.com/diablo-4-rogue-uses-a-pair-of-pants-to-one-shot-its-hardest-bosses-uber-lilith-was-absolutely-childs-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
