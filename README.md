@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kioxia investor SK Hynix says the company didn&#39;t agree to the Kioxia-Western Digital merger due to &quot;the overall impact on the value of the company&#39;s investment&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231026/p4#a231026p4)
- - [Bluesky Social vs Threads by Meta: Which one offers more?](https://www.androidauthority.com/bluesky-social-vs-threads-3367718/)
- - [Analysis of 1,800 AI datasets: ~70% didn&#39;t state what license should be used or had been mislabeled with more permissive guidelines than their creators intended &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231026/p3#a231026p3)<!-- TECH:END -->
+ - [Ford is testing drone deliveries at the derelict train station in Detroit it’s rehabbing](https://www.theverge.com/2023/10/26/23931854/ford-michigan-central-drone-delivery-airspace-train-station)
+ - [Franco-Italian chipmaker STMicro reports Q3 revenue up 2.5% to $4.43B, beating $4.38B est., net income down 0.8% YoY to ~$1B, and predicts demand rising in Q1 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/231026/p5#a231026p5)
+ - [Kioxia investor SK Hynix says the company didn&#39;t agree to the Kioxia-Western Digital merger due to &quot;the overall impact on the value of the company&#39;s investment&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231026/p4#a231026p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
