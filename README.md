@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - ⏩ [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)
- - 👉 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)<!-- MEMES:END -->
+ - ⏩ [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
 
 ---
 
