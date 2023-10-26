@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Story of my life](http://9gag.com/gag/a1Pg16b)
- - ⏩ [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
- - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
+ - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - ⏩ [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
+ - 👉 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)<!-- MEMES:END -->
 
 ---
 
