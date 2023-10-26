@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
- - ⏩ [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
- - 👉 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)<!-- MEMES:END -->
+ - 💣 [Member this gem? We still dont know if the girl is safe now.](http://9gag.com/gag/ago9od6)
+ - ⏩ [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
+ - 👉 [Friendly fire](http://9gag.com/gag/aWGyjvK)<!-- MEMES:END -->
 
 ---
 
