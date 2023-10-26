@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 💣 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
  - ⏩ [I like happy endings...](http://9gag.com/gag/aA0AGv2)
- - 👉 [What ?](http://9gag.com/gag/axoK7qb)<!-- MEMES:END -->
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 
