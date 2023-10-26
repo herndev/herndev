@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - ⏩ [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
+ - 💣 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
+ - ⏩ [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)
+ - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
 
 ---
 
