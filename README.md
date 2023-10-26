@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox October Update is Rolling Out: Keyboard Mapping for Controllers and More](https://news.xbox.com/en-us/2023/10/26/xbox-october-update-2023/)
- - [Final Fantasy 14&#39;s bizarre Fall Guys event drops later this month, and I&#39;m scared my trips into the bean dimension will be a good way to make gil](https://www.pcgamer.com/final-fantasy-14s-bizarre-fall-guys-event-drops-later-this-month-and-im-scared-my-trips-into-the-bean-dimension-will-be-a-good-way-to-make-gil)
- - [Martin Scorsese’s late-stage career has proved Quentin Tarantino wrong](https://www.polygon.com/23929489/martin-scorsese-best-movies-killers-flower-moon-career)<!-- GAME:END -->
+ - [Alan Wake 2: The Dark Place Is An Entirely New Experiment for Remedy](https://news.xbox.com/en-us/2023/10/26/alan-wake-2-dark-place-preview/)
+ - [Unionisation still necessary despite improvements, say CDPR devs, after the &#39;tremendous amount of stress and insecurity&#39; caused by recent layoffs](https://www.pcgamer.com/unionisation-still-necessary-despite-improvements-say-cdpr-devs-after-the-tremendous-amount-of-stress-and-insecurity-caused-by-recent-layoffs)
+ - [Cyberpunk&#39;s new patch means the game will no longer strike you down like a fickle god right before the ending](https://www.pcgamer.com/cyberpunks-new-patch-means-the-game-will-no-longer-strike-you-down-like-a-fickle-god-right-before-the-ending)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
