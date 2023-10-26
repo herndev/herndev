@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve is dropping local currency support for Turkey and Argentina amid &#39;exchange rate volatility,&#39; moving to &#39;regionalized USD pricing&#39; for 25 countries](https://www.pcgamer.com/valve-is-dropping-local-currency-support-for-turkey-and-argentina-amid-exchange-rate-volatility-moving-to-regionalized-usd-pricing-for-25-countries)
- - [How to get the Hang Ten trophy in Spider-Man 2](https://www.polygon.com/spider-man-2-guides/23931708/hang-ten-trophy-how-to-get)
- - [How to get the Soar trophy in Spider-Man 2](https://www.polygon.com/spider-man-2-guides/23931705/soar-trophy-how-to-get)<!-- GAME:END -->
+ - [Asus TUF Gaming Z790-Pro WiFi review](https://www.pcgamer.com/asus-tuf-gaming-z790-pro-wifi-review)
+ - [Baldur&#39;s Gate 3 player stacks so much movement, their character can walk 800 feet in under 10 seconds](https://www.pcgamer.com/baldurs-gate-3-player-stacks-so-much-movement-their-character-can-walk-800-feet-in-under-10-seconds)
+ - [Valve is dropping local currency support for Turkey and Argentina amid &#39;exchange rate volatility,&#39; moving to &#39;regionalized USD pricing&#39; for 25 countries](https://www.pcgamer.com/valve-is-dropping-local-currency-support-for-turkey-and-argentina-amid-exchange-rate-volatility-moving-to-regionalized-usd-pricing-for-25-countries)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
