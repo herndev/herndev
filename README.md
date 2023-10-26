@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt never considered a Cyberpunk expansion set after the main game&#39;s endings: &#39;No need to water them down. Sometimes less is more&#39;](https://www.pcgamer.com/cd-projekt-never-considered-a-cyberpunk-expansion-set-after-the-main-games-endings-no-need-to-water-them-down-sometimes-less-is-more)
- - [Total Recall: Is Alan Wake Worth Playing Before Its Sequel?](https://kotaku.com/total-recall-alan-wake-twin-peaks-remedy-entertainment-1850964420)
- - [After 3 years of &#39;hands-off&#39; management, Microsoft is making Bethesda and ZeniMax report directly to an Xbox bigwig](https://www.pcgamer.com/after-3-years-of-hands-off-management-microsoft-is-making-bethesda-and-zenimax-report-directly-to-an-xbox-bigwig)<!-- GAME:END -->
+ - [Spooky new Battlefield mode lets you 3D print a bunch of terrifying naked dudes](https://www.polygon.com/23934025/battlefield-2042-season-6-dark-creations-zombies)
+ - [Heroes of the Storm fans are excited: More than a year after Blizzard ended development, a new patch has appeared on the PTR](https://www.pcgamer.com/heroes-of-the-storm-fans-are-excited-more-than-a-year-after-blizzard-ended-development-a-new-patch-has-appeared-on-the-ptr)
+ - [I&#39;ve found my new favorite puzzle game and it&#39;s this chill but challenging $6 city builder](https://www.pcgamer.com/ive-found-my-new-favorite-puzzle-game-and-its-this-chill-but-challenging-dollar6-city-builder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
