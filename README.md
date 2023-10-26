@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JPMorgan&#39;s Global Head of Payments says its blockchain-based JMP Coin now handles $1B in transactions per day and the bank plans to continue to widen its usage &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231026/p11#a231026p11)
- - [Internal Google documents detail plans to contain Apple&#39;s search ambitions after Spotlight&#39;s 2021 update; sources say Google paid Apple $18B for search in 2021 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231026/p10#a231026p10)
- - [Hyundai plans to run five US &quot;clinics&quot; for anti-theft software upgrades for vehicles now regularly targeted by thieves using techniques popularized on TikTok &lpar;Associated Press&rpar;](http://www.techmeme.com/231026/p9#a231026p9)<!-- TECH:END -->
+ - [Google Maps is becoming more like Search — thanks to AI](https://www.theverge.com/2023/10/26/23932315/google-maps-ai-immersive-view-ev-charging-search)
+ - [Shutterstock will now let you transform real photos using AI](https://www.theverge.com/2023/10/26/23933120/shutterstock-transform-real-photos-ai)
+ - [Leica’s latest camera encrypts verification info into every photo](https://www.theverge.com/2023/10/26/23932288/leica-m11p-camera-rangefinder-adobe-content-authenticity-cai-ai-verification-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
