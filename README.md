@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI forms new team to assess ‘catastrophic risks’ of AI](https://www.theverge.com/2023/10/26/23933783/openai-preparedness-team-catastrophic-risks-ai)
- - [Forbes now has its own AI search engine](https://www.theverge.com/2023/10/26/23933799/forbes-generative-ai-search-adelaide)
- - [Everything new in iOS 17.2 beta 1: Journal, iMessage sticker reactions, more](https://appleinsider.com/articles/23/10/26/everything-new-in-ios-172-beta-1-journal-imessage-sticker-reactions-more?utm_medium=rss)<!-- TECH:END -->
+ - [Best Cocktail Gear: Shakers, Strainers, Juicers, and More &lpar;2023&rpar;](https://www.wired.com/gallery/best-cocktail-gear/)
+ - [Shazam can tell you what concerts to go to now](https://www.theverge.com/2023/10/26/23932074/shazam-concert-recommendations-ios-iphone)
+ - [Intel reports Q3 revenue down 8% YoY to $14.2B, Data Center and AI revenue down 10% YoY to $3.8B, and forecasts Q4 revenue above estimates; INTC jumps 6%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231026/p31#a231026p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
