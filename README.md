@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
- - ⏩ [What ?](http://9gag.com/gag/axoK7qb)
- - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
+ - 💣 [Story of my life](http://9gag.com/gag/a1Pg16b)
+ - ⏩ [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
+ - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
 
 ---
 
