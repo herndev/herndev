@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Fallout 76, Meet Your Maker, Deep Rock Galactic, and MLB The Show 23](https://news.xbox.com/en-us/2023/10/26/free-play-days-fallout-76-meet-your-maker-deep-rock-galactic-and-mlb-the-show-23/)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [Cyberpunk 2077&#39;s New Patch Buffs Keanu Reeves&#39; Gun And Screws Over Homeless People](https://kotaku.com/cyberpunk-2077-phantom-liberty-patch-notes-2-02-1850961849)<!-- GAME:END -->
+ - [The Xbox October Update is Rolling Out: Keyboard Mapping for Controllers and More](https://news.xbox.com/en-us/2023/10/26/xbox-october-update-2023/)
+ - [Final Fantasy 14&#39;s bizarre Fall Guys event drops later this month, and I&#39;m scared my trips into the bean dimension will be a good way to make gil](https://www.pcgamer.com/final-fantasy-14s-bizarre-fall-guys-event-drops-later-this-month-and-im-scared-my-trips-into-the-bean-dimension-will-be-a-good-way-to-make-gil)
+ - [Martin Scorsese’s late-stage career has proved Quentin Tarantino wrong](https://www.polygon.com/23929489/martin-scorsese-best-movies-killers-flower-moon-career)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
