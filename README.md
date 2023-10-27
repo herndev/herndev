@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of 2022’s Best Horror Movies Will Soon Be A Video Game](https://kotaku.com/barbarian-movie-video-game-1850968524)
- - [Our favorite horror game of 2022 is on sale for Steam&#39;s horror sale and just fixed our biggest issue](https://www.pcgamer.com/our-favorite-horror-game-of-2022-is-on-sale-for-steams-horror-sale-and-just-fixed-our-biggest-issue-with-it)
- - [Don&#39;t Sleep On These Great Steam Halloween Sale Deals](https://kotaku.com/steam-halloween-sale-best-creepy-horror-cheap-games-1850968437)<!-- GAME:END -->
+ - [One of Alan Wake 2&#39;s expansions sounds like it&#39;s going to take us back to Control](https://www.pcgamer.com/one-of-alan-wake-2s-expansions-sounds-like-its-going-to-take-us-back-to-control)
+ - [How scary is Alan Wake 2? Let’s talk jump scares](https://www.polygon.com/23935545/how-scary-is-alan-wake-2-jump-scares-control-horror)
+ - [Five Nights at Freddy’s, new Exorcist movie, The Nun II, and every new movie to watch at home this weekend](https://www.polygon.com/2023/10/27/23928604/new-movies-watch-five-nights-freddys-netflix-pain-hustlersexorcist-believer-nun-2-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
