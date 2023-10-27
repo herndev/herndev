@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Mississippi     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-mississippi/#ftag=CAD590a51e)
- - [In a testimony without the jury present, SBF says he followed the counsel of lawyers to make critical decisions around passing FTX customer money to Alameda &lpar;Financial Times&rpar;](http://www.techmeme.com/231026/p33#a231026p33)
- - [Piper Sandler reduces Apple&#39;s Q1 2024 earnings estimates, citing weak demand in China](https://appleinsider.com/articles/23/10/26/piper-sandler-reduces-apples-q1-2024-earnings-estimates-citing-weak-demand-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch import ban up to Biden administration after ITC order](https://appleinsider.com/articles/23/10/27/apple-watch-import-ban-up-to-biden-administration-after-itc-order?utm_medium=rss)
+ - [Cranium, which provides enterprise AI security and trust software and spun out of KPMG in April 2023, raised a $25M Series A led by Telstra Ventures &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231026/p34#a231026p34)
+ - [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
