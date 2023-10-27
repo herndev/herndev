@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After two seasons, Apple’s sci-fi drama Invasion is finally coming together](https://www.theverge.com/23932047/invasion-season-2-review-apple-tv-plus)
- - [How OpenAI is using ChatGPT prompt engineering to get around fundamental biases in DALL-E 3, discourage it from recreating the work of living artists, and more &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231027/p9#a231027p9)
- - [Samsung confirms the unlocked Galaxy S23 FE is more expensive from its store](https://www.androidauthority.com/galaxy-s23-fe-more-expensive-3380139/)<!-- TECH:END -->
+ - [Google paid a whopping $26.3 billion in 2021 to be the default search engine everywhere](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
+ - [Standout early Black Friday deals offer up to $900 off Mac, iPad, Apple Watch at Adorama](https://appleinsider.com/articles/23/10/27/standout-early-black-friday-deals-offer-up-to-900-off-mac-ipad-apple-watch-at-adorama?utm_medium=rss)
+ - [1Password is offering Verge readers $20 off an annual membership](https://www.theverge.com/2023/10/27/23933160/1password-password-manager-apple-watch-ultra-elden-ring-vinyl-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
