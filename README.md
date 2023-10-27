@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Tata Group acquires the India unit of Apple manufacturer Wistron for $125M; an Indian IT minister says Tata will make iPhones for the global market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231027/p6#a231027p6)
- - [What is the difference between Mini LED and MicroLED?](https://www.androidauthority.com/mini-led-vs-microled-3380036/)
- - [Cruise halts robotaxi services nationwide in bid to ‘earn public trust’](https://www.theverge.com/2023/10/27/23934595/cruise-robotaxi-autonomous-vehicle-pause-operations-us-nationwide)<!-- TECH:END -->
+ - [Chinese smartphones sales fell 3% YoY in Q3; Honor leads with 18.3%, Huawei grew the most, up 37% YoY, after the Mate 60&#39;s launch, and Apple dropped 10% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231027/p7#a231027p7)
+ - [Apple gets over 50 applicants for every job, every day, says survey](https://appleinsider.com/articles/23/10/27/apple-gets-over-50-applicants-for-every-job-every-day-says-survey?utm_medium=rss)
+ - [No M3 13-inch MacBook Pro at &#39;Scary Fast&#39; event, says Gurman](https://appleinsider.com/articles/23/10/27/no-m3-13-inch-macbook-pro-at-scary-fast-event-says-gurman?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
