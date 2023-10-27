@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is still the world’s #1 smartphone vendor, but it’s losing ground](https://www.androidauthority.com/smartphone-units-shipped-q3-2023-3380250/)
- - [Disney’s cozy life sim won’t be free to play after all](https://www.theverge.com/2023/10/27/23934916/disney-dreamlight-valley-free-to-play-update-release-date)
- - [Google Maps is rolling out AI-powered features for planning trips on iPhone](https://appleinsider.com/articles/23/10/27/google-maps-is-rolling-out-ai-powered-features-for-planning-trips-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [The Destruction of Gaza’s Internet Is Complete](https://www.wired.com/story/gaza-internet-blackout-israel/)
+ - [Android 14 users with multiple profiles say their devices are becoming &quot;unusable&quot; due to a bug that is locking them out of device storage &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231027/p19#a231027p19)
+ - [Apple reinforces iMessage security with contact key verification](https://appleinsider.com/articles/23/10/27/apple-reinforces-imessage-security-with-contact-key-verification?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
