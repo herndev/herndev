@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor Daddy](http://9gag.com/gag/aREWBGB)
- - ⏩ [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - 👉 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)<!-- MEMES:END -->
+ - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - ⏩ [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
+ - 👉 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)<!-- MEMES:END -->
 
 ---
 
