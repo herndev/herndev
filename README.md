@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad got roasted by daughter](http://9gag.com/gag/aYV6OOq)
- - ⏩ [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
+ - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - ⏩ [When you don&#39;t take care of the crazies, the crazies will take care of you.](http://9gag.com/gag/aME7VzR)
+ - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
 
 ---
 
