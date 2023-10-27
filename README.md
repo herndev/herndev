@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google paid a whopping $26.3 billion in 2021 to be the default search engine everywhere](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
- - [Standout early Black Friday deals offer up to $900 off Mac, iPad, Apple Watch at Adorama](https://appleinsider.com/articles/23/10/27/standout-early-black-friday-deals-offer-up-to-900-off-mac-ipad-apple-watch-at-adorama?utm_medium=rss)
- - [1Password is offering Verge readers $20 off an annual membership](https://www.theverge.com/2023/10/27/23933160/1password-password-manager-apple-watch-ultra-elden-ring-vinyl-deal-sale)<!-- TECH:END -->
+ - [Galaxy S24 series rumored brighter screen might have a new trick](https://www.androidauthority.com/galaxy-s24-series-ultra-hdr-3380215/)
+ - [US appeals court upholds a jury&#39;s ruling that Craig Wright wasn&#39;t in partnership with David Kleiman and doesn&#39;t have to transfer half of the bitcoin they mined &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/231027/p15#a231027p15)
+ - [How to use the new Journal in iOS 17.2 and where it needs work](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-journal-in-ios-172-and-where-it-needs-work?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
