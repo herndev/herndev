@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How did I not know this sh*t](http://9gag.com/gag/aoKoML0)
- - ⏩ [Finding Sanity](http://9gag.com/gag/a3ZgGp7)
- - 👉 [Sonic the hedgehog](http://9gag.com/gag/a9qwy40)<!-- MEMES:END -->
+ - 💣 [Stomp for Survival](http://9gag.com/gag/amAQA32)
+ - ⏩ [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 ---
 
