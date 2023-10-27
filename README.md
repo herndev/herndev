@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Thank god they didn&#39;t overwrite Payday 2 with Payday 3](https://www.pcgamer.com/thank-god-they-didnt-overwrite-payday-2-with-payday-3)
  - [Spooky new Battlefield mode lets you 3D print a bunch of terrifying naked dudes](https://www.polygon.com/23934025/battlefield-2042-season-6-dark-creations-zombies)
- - [Heroes of the Storm fans are excited: More than a year after Blizzard ended development, a new patch has appeared on the PTR](https://www.pcgamer.com/heroes-of-the-storm-fans-are-excited-more-than-a-year-after-blizzard-ended-development-a-new-patch-has-appeared-on-the-ptr)
- - [I&#39;ve found my new favorite puzzle game and it&#39;s this chill but challenging $6 city builder](https://www.pcgamer.com/ive-found-my-new-favorite-puzzle-game-and-its-this-chill-but-challenging-dollar6-city-builder)<!-- GAME:END -->
+ - [Heroes of the Storm fans are excited: More than a year after Blizzard ended development, a new patch has appeared on the PTR](https://www.pcgamer.com/heroes-of-the-storm-fans-are-excited-more-than-a-year-after-blizzard-ended-development-a-new-patch-has-appeared-on-the-ptr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
