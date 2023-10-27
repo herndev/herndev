@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stomp for Survival](http://9gag.com/gag/amAQA32)
- - ⏩ [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
+ - 💣 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - ⏩ [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
+ - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
 
 ---
 
