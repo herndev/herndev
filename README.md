@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Star Trek Crossover Event](https://news.xbox.com/en-us/2023/10/27/a-star-trek-crossover-event/)
- - [What is the shotgun code in Alan Wake 2?](https://www.polygon.com/guides/23933819/alan-wake-2-shotgun-code-solution)
- - [Xbox Insider Release Notes – Alpha &lpar;2311.231025-2200&rpar;](https://news.xbox.com/en-us/2023/10/27/xbox-insider-release-notes-alpha-2311-231025-2200/)<!-- GAME:END -->
+ - [Rediscovering the MSX: Celebrating 40 Years of Microsoft’s Journey into Gaming](https://news.xbox.com/en-us/2023/10/27/celebrating-40-years-of-microsofts-journey-into-gaming/)
+ - [Counter-Strike 2 doesn&#39;t have Arms Race and others yet, but Valve says relax: &#39;those modes haven&#39;t been forgotten!&#39;](https://www.pcgamer.com/counter-strike-2-doesnt-have-arms-race-and-others-yet-but-valve-says-relax-those-modes-havent-been-forgotten)
+ - [Counter-Strike has delivered on the promise of transferring valuable items from one game to another, but don&#39;t mention NFTs: Valve&#39;s only interested in &#39;things our players care about&#39;](https://www.pcgamer.com/counter-strike-has-delivered-on-the-promise-of-transferring-valuable-items-from-one-game-to-another-but-dont-mention-nfts-valves-only-interested-in-things-our-players-care-about)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
