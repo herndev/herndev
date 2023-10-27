@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - ⏩ [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
+ - 💣 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
+ - ⏩ [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 👉 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)<!-- MEMES:END -->
 
 ---
 
