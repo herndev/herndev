@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer for #860 Friday, October 27](https://www.pcgamer.com/wordle-today-answer-860-october-27)
- - [What happens to Victor Timely now?](https://www.polygon.com/23930514/marvel-loki-season-2-timely-kang-variants-mcu-jonathan-majors)
- - [Thank god they didn&#39;t overwrite Payday 2 with Payday 3](https://www.pcgamer.com/thank-god-they-didnt-overwrite-payday-2-with-payday-3)<!-- GAME:END -->
+ - [How to find and solve Cult Stashes in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-cult-stash-locations)
+ - [Where to find Manuscript Fragments in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-manuscript-fragment-locations)
+ - [How to enter Caldera St. Station in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-caldera-st-station-how-to-enter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
