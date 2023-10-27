@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UN creates a 39-member body, including tech executives, government officials, and academics, to examine issues in the international governance of AI &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231027/p5#a231027p5)
- - [Huawei reports Q3 revenue up 1% YoY to ~$19.9B, revenue for Q1 to Q3 2023 up 2.4% YoY to ~$62.3B, and a 16% profit margin in Q1 to Q3, up from 15% in H1 2023 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/231027/p4#a231027p4)
- - [Inside Elon Musk’s First Election Crisis—a Day After He ‘Freed’ the Bird](https://www.wired.com/story/twitter-brazil-elections-musk/)<!-- TECH:END -->
+ - [Filing: Tata Group acquires the India unit of Apple manufacturer Wistron for $125M; an Indian IT minister says Tata will make iPhones for the global market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231027/p6#a231027p6)
+ - [What is the difference between Mini LED and MicroLED?](https://www.androidauthority.com/mini-led-vs-microled-3380036/)
+ - [Cruise halts robotaxi services nationwide in bid to ‘earn public trust’](https://www.theverge.com/2023/10/27/23934595/cruise-robotaxi-autonomous-vehicle-pause-operations-us-nationwide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
