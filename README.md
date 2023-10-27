@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S24 series rumored brighter screen might have a new trick](https://www.androidauthority.com/galaxy-s24-series-ultra-hdr-3380215/)
- - [US appeals court upholds a jury&#39;s ruling that Craig Wright wasn&#39;t in partnership with David Kleiman and doesn&#39;t have to transfer half of the bitcoin they mined &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/231027/p15#a231027p15)
- - [How to use the new Journal in iOS 17.2 and where it needs work](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-journal-in-ios-172-and-where-it-needs-work?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung is still the world’s #1 smartphone vendor, but it’s losing ground](https://www.androidauthority.com/smartphone-units-shipped-q3-2023-3380250/)
+ - [Disney’s cozy life sim won’t be free to play after all](https://www.theverge.com/2023/10/27/23934916/disney-dreamlight-valley-free-to-play-update-release-date)
+ - [Google Maps is rolling out AI-powered features for planning trips on iPhone](https://appleinsider.com/articles/23/10/27/google-maps-is-rolling-out-ai-powered-features-for-planning-trips-on-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
