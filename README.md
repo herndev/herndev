@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese smartphones sales fell 3% YoY in Q3; Honor leads with 18.3%, Huawei grew the most, up 37% YoY, after the Mate 60&#39;s launch, and Apple dropped 10% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231027/p7#a231027p7)
- - [Apple gets over 50 applicants for every job, every day, says survey](https://appleinsider.com/articles/23/10/27/apple-gets-over-50-applicants-for-every-job-every-day-says-survey?utm_medium=rss)
- - [No M3 13-inch MacBook Pro at &#39;Scary Fast&#39; event, says Gurman](https://appleinsider.com/articles/23/10/27/no-m3-13-inch-macbook-pro-at-scary-fast-event-says-gurman?utm_medium=rss)<!-- TECH:END -->
+ - [Google Audio Magic Eraser: What is it and how to use it on your Pixel phone?](https://www.androidauthority.com/google-photos-audio-magic-eraser-3379348/)
+ - [Scary Fast M3 Mac event, iOS 17.1, Apple One price change on the AppleInsider Podcast](https://appleinsider.com/articles/23/10/27/scary-fast-m3-mac-event-ios-171-apple-one-price-change-on-the-appleinsider-podcast?utm_medium=rss)
+ - [In Alan Wake 2, you will never feel safe](https://www.theverge.com/23934662/alan-wake-2-review-ps5-xbox-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
