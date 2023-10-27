@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Google Maps Immersive View Update Is Coming Soon. Here&#39;s the Latest     - CNET](https://www.cnet.com/tech/mobile/new-google-maps-immersive-view-update-is-coming-soon-the-latest/#ftag=CAD590a51e)
- - [Want to Give Away or Sell Your iPad? You&#39;ll Want to Factory Reset it First     - CNET](https://www.cnet.com/tech/computing/dont-sell-your-ipad-until-you-clear-all-your-data-from-it/#ftag=CAD590a51e)
- - [iPhone 15 Pro Action Button is getting a new function](https://www.androidauthority.com/iphone-15-pro-action-button-translate-ios-17-2-beta-3379991/)<!-- TECH:END -->
+ - [Your Asus ROG Ally could be transparent with Jsaux’s RGB backplate](https://www.theverge.com/2023/10/27/23934475/asus-rog-ally-jsaux-transparent-rgb-back)
+ - [Businesses are using SEO-driven names like Thai Food Near Me and Dentist Near Me to optimize for Google Search, but the scheme is likely technically ineffective &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231027/p2#a231027p2)
+ - [Google Photos Best Take: What is it, and how to use it](https://www.androidauthority.com/google-photos-best-take-3380022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
