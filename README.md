@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Destruction of Gaza’s Internet Is Complete](https://www.wired.com/story/gaza-internet-blackout-israel/)
- - [Android 14 users with multiple profiles say their devices are becoming &quot;unusable&quot; due to a bug that is locking them out of device storage &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231027/p19#a231027p19)
- - [Apple reinforces iMessage security with contact key verification](https://appleinsider.com/articles/23/10/27/apple-reinforces-imessage-security-with-contact-key-verification?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s private Wi-Fi MAC addresses were security theater until iOS 17.1](https://appleinsider.com/articles/23/10/27/apples-private-wi-fi-mac-addresses-were-security-theater-until-ios-171?utm_medium=rss)
+ - [Apple fixed an old iOS bug that let nearby wireless routers gather real MAC addresses even when Private Wi-Fi Address is enabled, including in Lockdown Mode &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231027/p22#a231027p22)
+ - [People keep iPhones longer than Android phones. Here are theories as to why.](https://www.androidauthority.com/iphone-android-users-keep-phones-3380273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
