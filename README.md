@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - ⏩ [When you don&#39;t take care of the crazies, the crazies will take care of you.](http://9gag.com/gag/aME7VzR)
- - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
+ - ⏩ [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
+ - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
 
 ---
 
