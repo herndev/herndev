@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley won’t be free-to-play at launch](https://www.polygon.com/23934775/disney-dreamlight-valley-global-launch-no-free-to-play)
- - [How long is Alan Wake 2?](https://www.polygon.com/guides/23934767/alan-wake-2-how-long-story-game-length)
- - [The 25 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)<!-- GAME:END -->
+ - [Spider-Man 2 Players Discover Its Most Absurd Glitch](https://kotaku.com/spider-man-2-block-glitch-ps5-fix-1850951541)
+ - [This Impossible-Sounding Fallout 4 Speedrun Took Over 2,000 Hours](https://kotaku.com/twitch-youtuber-streamer-vrexia-fallout-4-no-hit-run-1850966651)
+ - [The best gifts for Mario fans](https://www.polygon.com/23912675/mario-gifts-games-movies-music-toys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
