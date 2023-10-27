@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
- - ⏩ [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
- - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
+ - 💣 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)
+ - ⏩ [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
+ - 👉 [Pepsi](http://9gag.com/gag/aBdzyGN)<!-- MEMES:END -->
 
 ---
 
