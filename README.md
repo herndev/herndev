@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in the UK, London](http://9gag.com/gag/a1PgmZ8)
- - ⏩ [Serious question though](http://9gag.com/gag/abvDvLE)
- - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
+ - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - ⏩ [I can hear the desktop is crying.](http://9gag.com/gag/adPA1EM)
+ - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
 
 ---
 
