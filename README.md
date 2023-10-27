@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - ⏩ [I can hear the desktop is crying.](http://9gag.com/gag/adPA1EM)
- - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
+ - 💣 [Totally not sus](http://9gag.com/gag/aQEbXxq)
+ - ⏩ [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 👉 [When you don&#39;t take care of the crazies, the crazies will take care of you.](http://9gag.com/gag/aME7VzR)<!-- MEMES:END -->
 
 ---
 
