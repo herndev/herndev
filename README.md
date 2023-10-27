@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Audio Magic Eraser: What is it and how to use it on your Pixel phone?](https://www.androidauthority.com/google-photos-audio-magic-eraser-3379348/)
- - [Scary Fast M3 Mac event, iOS 17.1, Apple One price change on the AppleInsider Podcast](https://appleinsider.com/articles/23/10/27/scary-fast-m3-mac-event-ios-171-apple-one-price-change-on-the-appleinsider-podcast?utm_medium=rss)
- - [In Alan Wake 2, you will never feel safe](https://www.theverge.com/23934662/alan-wake-2-review-ps5-xbox-pc)<!-- TECH:END -->
+ - [Samsung confirms the unlocked Galaxy S23 FE is more expensive from its store](https://www.androidauthority.com/galaxy-s23-fe-more-expensive-3380139/)
+ - [How to get a free $100 Amazon gift card when you buy a Galaxy S23 FE](https://www.androidauthority.com/free-amazon-gift-card-galaxy-s23-fe-3380142/)
+ - [Daily deals Oct. 27: $1,500 off M1 Max MacBook Pro, iPhone &amp; Apple Watch from $139, 20% off Parallels, more](https://appleinsider.com/articles/23/10/27/daily-deals-oct-27-1500-off-m1-max-macbook-pro-iphone-apple-watch-from-139-20-off-parallels-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
