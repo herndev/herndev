@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pretty accurate](http://9gag.com/gag/aOxE28R)
+ - 💣 [Finding Sanity](http://9gag.com/gag/a3ZgGp7)
  - ⏩ [F you and I&#39;ll see you tomorrow my dudes](http://9gag.com/gag/aREWrX2)
- - 👉 [The importance of being there for your children](http://9gag.com/gag/aoKoy1m)<!-- MEMES:END -->
+ - 👉 [Chinesium Security](http://9gag.com/gag/armEWKK)<!-- MEMES:END -->
 
 ---
 
