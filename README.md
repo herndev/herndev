@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)
- - ⏩ [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
- - 👉 [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)<!-- MEMES:END -->
+ - 💣 [Dad got roasted by daughter](http://9gag.com/gag/aYV6OOq)
+ - ⏩ [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 ---
 
