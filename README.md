@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - ⏩ [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
- - 👉 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)<!-- MEMES:END -->
+ - 💣 [How did I not know this sh*t](http://9gag.com/gag/aoKoML0)
+ - ⏩ [Chinesium Security](http://9gag.com/gag/armEWKK)
+ - 👉 [Finding Sanity](http://9gag.com/gag/a3ZgGp7)<!-- MEMES:END -->
 
 ---
 
