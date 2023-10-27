@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch import ban up to Biden administration after ITC order](https://appleinsider.com/articles/23/10/27/apple-watch-import-ban-up-to-biden-administration-after-itc-order?utm_medium=rss)
- - [Cranium, which provides enterprise AI security and trust software and spun out of KPMG in April 2023, raised a $25M Series A led by Telstra Ventures &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231026/p34#a231026p34)
- - [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)<!-- TECH:END -->
+ - [Cruise pauses all driverless operations two days after the California DMV suspended its permits, but will continue operating supervised autonomous vehicles &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/231026/p35#a231026p35)
+ - [Elon Musk gives X employees one year to replace your bank](https://www.theverge.com/2023/10/26/23934216/x-twitter-bank-elon-musk-2024)
+ - [Apple Watch import ban up to Biden administration after ITC order](https://appleinsider.com/articles/23/10/27/apple-watch-import-ban-up-to-biden-administration-after-itc-order?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
