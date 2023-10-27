@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find and solve Cult Stashes in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-cult-stash-locations)
- - [Where to find Manuscript Fragments in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-manuscript-fragment-locations)
- - [How to enter Caldera St. Station in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-caldera-st-station-how-to-enter)<!-- GAME:END -->
+ - [Iron Lung&#39;s new &#39;Markiplier mode&#39; surrounds you with the YouTuber&#39;s meme faces while you explore the depths of the blood ocean](https://www.pcgamer.com/iron-lungs-new-markiplier-mode-surrounds-you-with-the-youtubers-meme-faces-while-you-explore-the-depths-of-the-blood-ocean)
+ - [Alan Wake 2 is a stunning example of what the future of PC gaming looks like—but only on Nvidia](https://www.pcgamer.com/alan-wake-2-is-a-stunning-example-of-what-the-future-of-pc-gaming-looks-likebut-only-on-nvidia)
+ - [How to find and solve Cult Stashes in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-cult-stash-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
