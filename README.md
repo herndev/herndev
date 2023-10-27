@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finding Sanity](http://9gag.com/gag/a3ZgGp7)
- - ⏩ [F you and I&#39;ll see you tomorrow my dudes](http://9gag.com/gag/aREWrX2)
- - 👉 [Chinesium Security](http://9gag.com/gag/armEWKK)<!-- MEMES:END -->
+ - 💣 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
+ - ⏩ [I do not understand this meme](http://9gag.com/gag/a2KgMr9)
+ - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
 
 ---
 
