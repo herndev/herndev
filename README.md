@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2 Players Discover Its Most Absurd Glitch](https://kotaku.com/spider-man-2-block-glitch-ps5-fix-1850951541)
- - [This Impossible-Sounding Fallout 4 Speedrun Took Over 2,000 Hours](https://kotaku.com/twitch-youtuber-streamer-vrexia-fallout-4-no-hit-run-1850966651)
- - [The best gifts for Mario fans](https://www.polygon.com/23912675/mario-gifts-games-movies-music-toys)<!-- GAME:END -->
+ - [You need to watch Pluto on Netflix, a small miracle of a show](https://www.polygon.com/23933966/pluto-best-anime-netflix-watch-it)
+ - [Cities Skyline 2 developer: &#39;Yes, our characters have teeth. No, the characters&#39; teeth are not affecting performance&#39;](https://www.pcgamer.com/cities-skyline-2-dev-says-yes-our-characters-have-teeth-no-the-characters-teeth-are-not-affecting-performance)
+ - [Disney Dreamlight Valley Community Divided After Latest Announcement](https://kotaku.com/disney-dreamlight-valley-update-launch-f2p-early-access-1850966682)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
