@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
- - ⏩ [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
- - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
+ - 💣 [Meanwhile in the UK, London](http://9gag.com/gag/a1PgmZ8)
+ - ⏩ [Serious question though](http://9gag.com/gag/abvDvLE)
+ - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
 
 ---
 
