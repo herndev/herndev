@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: Shein and PDD&#39;s Temu file joint declarations in the US to end their legal fights, asking judges to dismiss the cases &quot;without prejudice&quot; &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/231027/p3#a231027p3)
- - [Samsung shows off Zoom Anyplace camera likely coming to Galaxy S24 Ultra](https://www.theverge.com/2023/10/27/23934566/samsung-isocell-zoom-anywhere-200-megapixel-camera-galaxy-s24-ultra)
- - [Want Better Cellphone Reception? Here Are 10 Ways You Can Boost Your Cellphone Signal     - CNET](https://www.cnet.com/tech/mobile/want-better-cellphone-reception-here-are-10-ways-you-can-boost-your-cellphone-signal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UN creates a 39-member body, including tech executives, government officials, and academics, to examine issues in the international governance of AI &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231027/p5#a231027p5)
+ - [Huawei reports Q3 revenue up 1% YoY to ~$19.9B, revenue for Q1 to Q3 2023 up 2.4% YoY to ~$62.3B, and a 16% profit margin in Q1 to Q3, up from 15% in H1 2023 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/231027/p4#a231027p4)
+ - [Inside Elon Musk’s First Election Crisis—a Day After He ‘Freed’ the Bird](https://www.wired.com/story/twitter-brazil-elections-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
