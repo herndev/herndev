@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft publishes a profile of Octo Tempest, a &quot;dangerous&quot; hacking group targeting organizations across tech, gaming, financial services, and other sectors &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/231026/p36#a231026p36)
- - [Cruise pauses all driverless operations two days after the California DMV suspended its permits, but will continue operating supervised autonomous vehicles &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/231026/p35#a231026p35)
- - [Elon Musk gives X employees one year to replace your bank](https://www.theverge.com/2023/10/26/23934216/x-twitter-bank-elon-musk-2024)<!-- TECH:END -->
+ - [Some TikTok creators are running &quot;Israel vs. Palestine live matches&quot;, where the side with the most gifts from followers wins; TikTok takes a 50% cut of earnings &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231026/p37#a231026p37)
+ - [GM’s Cruise Halts Self-Driving Operations Across the US After Regulator Safety Fears](https://www.wired.com/story/gms-cruise-halts-self-driving-operations-regulator-safety-fears/)
+ - [X &lpar;Twitter&rpar; vs Bluesky Social: How different are they?](https://www.androidauthority.com/bluesky-social-vs-x-3367044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
