@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Solve a Spooky String of Crimes and Unravel the Mysteries of a Haunted Town](https://youtu.be/sa9UcyBRAD8#new_tab)
- - [Itch.io&#39;s new Games for Gaza bundle is raising funds for medical care for Palestinians](https://www.pcgamer.com/itchios-new-games-for-gaza-bundle-is-raising-funds-for-medical-care-for-palestinians)
- - [Tri6: Infinite Coming for Xbox One, Xbox Series X|S, and Windows PC](https://news.xbox.com/en-us/2023/10/27/tri6-infinite-coming-for-xbox/)<!-- GAME:END -->
+ - [The Steam Halloween Sale is live](https://www.pcgamer.com/steam-halloween-sale-2023)
+ - [One of the most-played games on Steam right now is a highly-destructible FPS in open beta](https://www.pcgamer.com/one-of-the-most-played-games-on-steam-right-now-is-a-highly-destructible-fps-in-open-beta)
+ - [Starfield Dev Suggests Smaller May Have Been Better](https://kotaku.com/starfield-bethesda-procedural-1000-generated-planets-1850968178)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
