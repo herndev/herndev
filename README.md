@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Halloween Sale is live](https://www.pcgamer.com/steam-halloween-sale-2023)
- - [One of the most-played games on Steam right now is a highly-destructible FPS in open beta](https://www.pcgamer.com/one-of-the-most-played-games-on-steam-right-now-is-a-highly-destructible-fps-in-open-beta)
- - [Starfield Dev Suggests Smaller May Have Been Better](https://kotaku.com/starfield-bethesda-procedural-1000-generated-planets-1850968178)<!-- GAME:END -->
+ - [One Of 2022’s Best Horror Movies Will Soon Be A Video Game](https://kotaku.com/barbarian-movie-video-game-1850968524)
+ - [Our favorite horror game of 2022 is on sale for Steam&#39;s horror sale and just fixed our biggest issue](https://www.pcgamer.com/our-favorite-horror-game-of-2022-is-on-sale-for-steams-horror-sale-and-just-fixed-our-biggest-issue-with-it)
+ - [Don&#39;t Sleep On These Great Steam Halloween Sale Deals](https://kotaku.com/steam-halloween-sale-best-creepy-horror-cheap-games-1850968437)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
