@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s private Wi-Fi MAC addresses were security theater until iOS 17.1](https://appleinsider.com/articles/23/10/27/apples-private-wi-fi-mac-addresses-were-security-theater-until-ios-171?utm_medium=rss)
- - [Apple fixed an old iOS bug that let nearby wireless routers gather real MAC addresses even when Private Wi-Fi Address is enabled, including in Lockdown Mode &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231027/p22#a231027p22)
- - [People keep iPhones longer than Android phones. Here are theories as to why.](https://www.androidauthority.com/iphone-android-users-keep-phones-3380273/)<!-- TECH:END -->
+ - [Google’s Bard chatbot now responds in real time — and you can shut it up mid-sentence](https://www.theverge.com/2023/10/27/23935437/google-bard-chatbot-real-time-responses)
+ - [Adam Mosseri says he wants Threads to be the &quot;de facto platform for public conversations online&quot; and web app is not a &quot;primary focus&quot; as mobile usage is higher &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231027/p24#a231027p24)
+ - [Meta wants Threads to be the ‘de facto platform’ for online public conversations](https://www.theverge.com/2023/10/27/23935436/meta-threads-platform-online-public-conversations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
