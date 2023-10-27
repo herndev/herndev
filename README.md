@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - ⏩ [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 👉 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)<!-- MEMES:END -->
+ - 💣 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
+ - ⏩ [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
+ - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
 
 ---
 
