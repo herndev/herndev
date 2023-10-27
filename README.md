@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
- - ⏩ [I do not understand this meme](http://9gag.com/gag/a2KgMr9)
- - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
+ - 💣 [Poor Daddy](http://9gag.com/gag/aREWBGB)
+ - ⏩ [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 👉 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)<!-- MEMES:END -->
 
 ---
 
