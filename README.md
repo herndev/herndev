@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True innit](http://9gag.com/gag/aA0AQgE)
- - ⏩ [Pepsi](http://9gag.com/gag/aBdzyGN)
- - 👉 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)<!-- MEMES:END -->
+ - 💣 [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
+ - ⏩ [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
 
 ---
 
