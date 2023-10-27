@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - ⏩ [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 👉 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)<!-- MEMES:END -->
+ - 💣 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)
+ - ⏩ [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 👉 [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)<!-- MEMES:END -->
 
 ---
 
