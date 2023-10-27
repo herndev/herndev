@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rediscovering the MSX: Celebrating 40 Years of Microsoft’s Journey into Gaming](https://news.xbox.com/en-us/2023/10/27/celebrating-40-years-of-microsofts-journey-into-gaming/)
- - [Counter-Strike 2 doesn&#39;t have Arms Race and others yet, but Valve says relax: &#39;those modes haven&#39;t been forgotten!&#39;](https://www.pcgamer.com/counter-strike-2-doesnt-have-arms-race-and-others-yet-but-valve-says-relax-those-modes-havent-been-forgotten)
- - [Counter-Strike has delivered on the promise of transferring valuable items from one game to another, but don&#39;t mention NFTs: Valve&#39;s only interested in &#39;things our players care about&#39;](https://www.pcgamer.com/counter-strike-has-delivered-on-the-promise-of-transferring-valuable-items-from-one-game-to-another-but-dont-mention-nfts-valves-only-interested-in-things-our-players-care-about)<!-- GAME:END -->
+ - [This Week on Xbox: Solve a Spooky String of Crimes and Unravel the Mysteries of a Haunted Town](https://youtu.be/sa9UcyBRAD8#new_tab)
+ - [Itch.io&#39;s new Games for Gaza bundle is raising funds for medical care for Palestinians](https://www.pcgamer.com/itchios-new-games-for-gaza-bundle-is-raising-funds-for-medical-care-for-palestinians)
+ - [Tri6: Infinite Coming for Xbox One, Xbox Series X|S, and Windows PC](https://news.xbox.com/en-us/2023/10/27/tri6-infinite-coming-for-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
