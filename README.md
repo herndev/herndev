@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer for #860 Friday, October 27](https://www.pcgamer.com/wordle-today-answer-860-october-27)
  - [What happens to Victor Timely now?](https://www.polygon.com/23930514/marvel-loki-season-2-timely-kang-variants-mcu-jonathan-majors)
- - [Thank god they didn&#39;t overwrite Payday 2 with Payday 3](https://www.pcgamer.com/thank-god-they-didnt-overwrite-payday-2-with-payday-3)
- - [Spooky new Battlefield mode lets you 3D print a bunch of terrifying naked dudes](https://www.polygon.com/23934025/battlefield-2042-season-6-dark-creations-zombies)<!-- GAME:END -->
+ - [Thank god they didn&#39;t overwrite Payday 2 with Payday 3](https://www.pcgamer.com/thank-god-they-didnt-overwrite-payday-2-with-payday-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
