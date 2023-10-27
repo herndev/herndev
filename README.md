@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Serious question though](http://9gag.com/gag/abvDvLE)
- - ⏩ [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
+ - 💣 [Pepsi](http://9gag.com/gag/aBdzyGN)
+ - ⏩ [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 👉 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)<!-- MEMES:END -->
 
 ---
 
