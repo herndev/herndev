@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 30 to November 3](https://news.xbox.com/en-us/2023/10/27/next-week-on-xbox-new-games-for-october-30-to-november-3/)
- - [Alan Wake 2 charms list and how they work](https://www.pcgamer.com/alan-wake-2-charms-list)
- - [Slay the Princess is a weird horror game that gets better the more questions you ask](https://www.polygon.com/23933321/slay-the-princess-horror-visual-novel-narrator)<!-- GAME:END -->
+ - [Disney Dreamlight Valley won’t be free-to-play at launch](https://www.polygon.com/23934775/disney-dreamlight-valley-global-launch-no-free-to-play)
+ - [How long is Alan Wake 2?](https://www.polygon.com/guides/23934767/alan-wake-2-how-long-story-game-length)
+ - [The 25 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
