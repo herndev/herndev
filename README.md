@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How did I not know this sh*t](http://9gag.com/gag/aoKoML0)
- - ⏩ [Chinesium Security](http://9gag.com/gag/armEWKK)
- - 👉 [Finding Sanity](http://9gag.com/gag/a3ZgGp7)<!-- MEMES:END -->
+ - ⏩ [Finding Sanity](http://9gag.com/gag/a3ZgGp7)
+ - 👉 [Sonic the hedgehog](http://9gag.com/gag/a9qwy40)<!-- MEMES:END -->
 
 ---
 
