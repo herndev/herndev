@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some TikTok creators are running &quot;Israel vs. Palestine live matches&quot;, where the side with the most gifts from followers wins; TikTok takes a 50% cut of earnings &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231026/p37#a231026p37)
- - [GM’s Cruise Halts Self-Driving Operations Across the US After Regulator Safety Fears](https://www.wired.com/story/gms-cruise-halts-self-driving-operations-regulator-safety-fears/)
- - [X &lpar;Twitter&rpar; vs Bluesky Social: How different are they?](https://www.androidauthority.com/bluesky-social-vs-x-3367044/)<!-- TECH:END -->
+ - [Sources detail the rushed timeline for the UK&#39;s AI Summit, its expanded scope, which now covers everything from healthcare to deepfakes, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p1#a231027p1)
+ - [The OnePlus Open supports a stylus even better than the Galaxy Z Fold 5](https://www.androidauthority.com/oneplus-open-stylus-support-3379978/)
+ - [Samsung video all but confirms cool camera tricks coming to Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-ai-camera-features-zoom-anyplace-3379977/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
