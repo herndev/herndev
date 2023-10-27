@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms the unlocked Galaxy S23 FE is more expensive from its store](https://www.androidauthority.com/galaxy-s23-fe-more-expensive-3380139/)
- - [How to get a free $100 Amazon gift card when you buy a Galaxy S23 FE](https://www.androidauthority.com/free-amazon-gift-card-galaxy-s23-fe-3380142/)
- - [Daily deals Oct. 27: $1,500 off M1 Max MacBook Pro, iPhone &amp; Apple Watch from $139, 20% off Parallels, more](https://appleinsider.com/articles/23/10/27/daily-deals-oct-27-1500-off-m1-max-macbook-pro-iphone-apple-watch-from-139-20-off-parallels-more?utm_medium=rss)<!-- TECH:END -->
+ - [After two seasons, Apple’s sci-fi drama Invasion is finally coming together](https://www.theverge.com/23932047/invasion-season-2-review-apple-tv-plus)
+ - [How OpenAI is using ChatGPT prompt engineering to get around fundamental biases in DALL-E 3, discourage it from recreating the work of living artists, and more &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231027/p9#a231027p9)
+ - [Samsung confirms the unlocked Galaxy S23 FE is more expensive from its store](https://www.androidauthority.com/galaxy-s23-fe-more-expensive-3380139/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
