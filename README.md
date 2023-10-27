@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You need to watch Pluto on Netflix, a small miracle of a show](https://www.polygon.com/23933966/pluto-best-anime-netflix-watch-it)
- - [Cities Skyline 2 developer: &#39;Yes, our characters have teeth. No, the characters&#39; teeth are not affecting performance&#39;](https://www.pcgamer.com/cities-skyline-2-dev-says-yes-our-characters-have-teeth-no-the-characters-teeth-are-not-affecting-performance)
- - [Disney Dreamlight Valley Community Divided After Latest Announcement](https://kotaku.com/disney-dreamlight-valley-update-launch-f2p-early-access-1850966682)<!-- GAME:END -->
+ - [A Star Trek Crossover Event](https://news.xbox.com/en-us/2023/10/27/a-star-trek-crossover-event/)
+ - [What is the shotgun code in Alan Wake 2?](https://www.polygon.com/guides/23933819/alan-wake-2-shotgun-code-solution)
+ - [Xbox Insider Release Notes – Alpha &lpar;2311.231025-2200&rpar;](https://news.xbox.com/en-us/2023/10/27/xbox-insider-release-notes-alpha-2311-231025-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
