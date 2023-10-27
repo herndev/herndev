@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
- - ⏩ [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
- - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
+ - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - ⏩ [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 👉 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)<!-- MEMES:END -->
 
 ---
 
