@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail the rushed timeline for the UK&#39;s AI Summit, its expanded scope, which now covers everything from healthcare to deepfakes, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p1#a231027p1)
- - [The OnePlus Open supports a stylus even better than the Galaxy Z Fold 5](https://www.androidauthority.com/oneplus-open-stylus-support-3379978/)
- - [Samsung video all but confirms cool camera tricks coming to Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-ai-camera-features-zoom-anyplace-3379977/)<!-- TECH:END -->
+ - [New Google Maps Immersive View Update Is Coming Soon. Here&#39;s the Latest     - CNET](https://www.cnet.com/tech/mobile/new-google-maps-immersive-view-update-is-coming-soon-the-latest/#ftag=CAD590a51e)
+ - [Want to Give Away or Sell Your iPad? You&#39;ll Want to Factory Reset it First     - CNET](https://www.cnet.com/tech/computing/dont-sell-your-ipad-until-you-clear-all-your-data-from-it/#ftag=CAD590a51e)
+ - [iPhone 15 Pro Action Button is getting a new function](https://www.androidauthority.com/iphone-15-pro-action-button-translate-ios-17-2-beta-3379991/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
