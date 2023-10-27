@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)
- - ⏩ [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
- - 👉 [Pepsi](http://9gag.com/gag/aBdzyGN)<!-- MEMES:END -->
+ - 💣 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - ⏩ [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
 
 ---
 
