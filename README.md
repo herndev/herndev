@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This mf with adamantium skin](http://9gag.com/gag/anzZG7z)
- - ⏩ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 👉 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)<!-- MEMES:END -->
+ - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - ⏩ [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
+ - 👉 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)<!-- MEMES:END -->
 
 ---
 
