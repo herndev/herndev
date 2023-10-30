@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
- - ⏩ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
+ - 💣 [Tmnt](http://9gag.com/gag/aoKoDqw)
+ - ⏩ [Birbs are retards](http://9gag.com/gag/ay2rz7V)
+ - 👉 [Its worth it](http://9gag.com/gag/aME7OwP)<!-- MEMES:END -->
 
 ---
 
