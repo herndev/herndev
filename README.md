@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aragorn:\u00a0`You&#39;ve already had a final boss.` Pippin: `We&#39;ve had one, yes.\u00a0But what about second final boss?` Merry: `I don&#39;t think he knows about second final boss, Pip.`](http://9gag.com/gag/aME7qR6)
- - ⏩ [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
+ - 💣 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
+ - ⏩ [All of you are awesome](http://9gag.com/gag/abvDEMO)
+ - 👉 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)<!-- MEMES:END -->
 
 ---
 
