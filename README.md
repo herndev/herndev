@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Popped](http://9gag.com/gag/a9qwO5o)
- - ⏩ [Must be nice to get this look](http://9gag.com/gag/az2yY3z)
- - 👉 [The mighty programmer](http://9gag.com/gag/az2yZnp)<!-- MEMES:END -->
+ - 💣 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
+ - ⏩ [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
+ - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
 
 ---
 
