@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pick Your Halloween Pleasure With Xbox Game Pass](https://news.xbox.com/en-us/2023/10/30/halloween-xbox-game-pass/)
- - [This grimdark tactical RPG let me become a satanic Wolverine who barks like a dog](https://www.pcgamer.com/this-grimdark-tactical-rpg-let-me-become-a-satanic-wolverine-who-barks-like-a-dog)
- - [GTA VI Patent Hints At Rockstar&#39;s Most Immersive Game Yet](https://kotaku.com/gta-6-patent-grand-theft-auto-1850972511)<!-- GAME:END -->
+ - [Five Nights at Freddy’s had a record-breaking opening weekend at the box office](https://www.polygon.com/23938455/five-nights-freddys-open-weekend-fnaf-box-office)
+ - [Microsoft is killing compatibility for unauthorized Xbox accessories](https://www.polygon.com/23938582/microsoft-xbox-unauthorized-accessories-0x82d60002)
+ - [Xbox Is Banning &#39;Unauthorized&#39; Controllers And Accessories](https://kotaku.com/microsoft-xbox-series-one-x-s-controller-error-ps5-1850972075)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
