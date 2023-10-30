@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
- - ⏩ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 👉 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)<!-- MEMES:END -->
+ - 💣 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - ⏩ [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
 
 ---
 
