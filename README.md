@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At just $199.99, the Pixel Watch has never been cheaper](https://www.androidauthority.com/pixel-watch-deal-3380499/)
- - [Mastodon’s latest update makes it easier to follow the news](https://www.theverge.com/2023/10/30/23938639/mastodon-lists-android-update-news)
- - [Qualcomm invited press to a private event to showcase the Snapdragon X Elite, slated for mid-2024, competing favorably in benchmarks against other select chips &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231030/p17#a231030p17)<!-- TECH:END -->
+ - [Baidu&#39;s Chinese-language maps and Alibaba&#39;s Amap are not showing Israel&#39;s name, confusing users and matching Beijing&#39;s vague diplomacy toward the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p18#a231030p18)
+ - [Apple deal makes Google &quot;seamless and easy&quot; to use -- CEO](https://appleinsider.com/articles/23/10/30/apple-deal-makes-google-seamless-and-easy-to-use----ceo?utm_medium=rss)
+ - [&#39;Scary Fast&#39; adds watch parties and gift bags to an already unusual event](https://appleinsider.com/articles/23/10/30/scary-fast-adds-watch-parties-and-gift-bags-to-an-already-unusual-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
