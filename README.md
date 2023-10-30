@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
- - ⏩ [All of you are awesome](http://9gag.com/gag/abvDEMO)
- - 👉 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)<!-- MEMES:END -->
+ - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
+ - ⏩ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
 
 ---
 
