@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu&#39;s Chinese-language maps and Alibaba&#39;s Amap are not showing Israel&#39;s name, confusing users and matching Beijing&#39;s vague diplomacy toward the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p18#a231030p18)
- - [Apple deal makes Google &quot;seamless and easy&quot; to use -- CEO](https://appleinsider.com/articles/23/10/30/apple-deal-makes-google-seamless-and-easy-to-use----ceo?utm_medium=rss)
- - [&#39;Scary Fast&#39; adds watch parties and gift bags to an already unusual event](https://appleinsider.com/articles/23/10/30/scary-fast-adds-watch-parties-and-gift-bags-to-an-already-unusual-event?utm_medium=rss)<!-- TECH:END -->
+ - [US v. Google: Sundar Pichai floated preloading a Google app on iOS to Tim Cook in 2018, amid Apple&#39;s concerns of lower revenue growth from their rev-share deal &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231030/p20#a231030p20)
+ - [The Google Pixel Tablet plunges by $100 in latest deal](https://www.androidauthority.com/pixel-tablet-deal-3380528/)
+ - [X is officially worth less than half of what Elon Musk paid for it](https://www.theverge.com/2023/10/30/23938969/x-twitter-valuation-19-billion-employee-shares)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
