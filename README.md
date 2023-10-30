@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)
- - [Porsche is adding Google to its cars as VW’s software problems worsen](https://www.theverge.com/2023/10/30/23938741/porsche-google-built-in-vw-cariad-layoffs)
- - [Bungie delaying Destiny 2 expansion and Marathon release amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s Q4 2023 earnings report](https://appleinsider.com/articles/23/10/30/what-to-expect-from-apples-q4-2023-earnings-report?utm_medium=rss)
+ - [Gambling streams are ‘part of the contract’ for Kick’s newest streamer](https://www.theverge.com/2023/10/30/23938853/kick-nickmercs-gambling-contract-stake)
+ - [Sundar Pichai argues in court that Google isn’t evil, it’s just a business](https://www.theverge.com/2023/10/30/23939043/us-v-google-sundar-pichai-testimony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
