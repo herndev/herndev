@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Games for Gaza bundle has raised over $200,000 for Palestinian medical aid](https://www.polygon.com/23938520/games-for-gaza-bundle-itchio-palestinian-medical-aid)
- - [Xbox Insider Release Notes – Alpha &lpar;2311.231026-2200&rpar;](https://news.xbox.com/en-us/2023/10/30/xbox-insider-release-notes-alpha-2311-231026-2200/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231026-2000&rpar;](https://news.xbox.com/en-us/2023/10/30/xbox-insider-release-notes-alpha-skip-ahead-2408-231026-2000/)<!-- GAME:END -->
+ - [Nabbit cheated me out of the Super Mario Bros. Wonder experience](https://www.polygon.com/gaming/23935372/nabbit-invincible-super-mario-bros-wonder-playable-characters)
+ - [Report: Destiny 2&#39;s Climactic The Final Shape Expansion And Marathon Shooter Delayed](https://kotaku.com/destiny-2-final-shape-marathon-release-date-delayed-1850973377)
+ - [Resident Evil Village On iPhone Is Impressive, But Not A Great Way To Play](https://kotaku.com/resident-evil-village-iphone-15-pro-review-performance-1850973260)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
