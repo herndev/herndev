@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - ⏩ [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
- - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
+ - 💣 [Aragorn:\u00a0`You&#39;ve already had a final boss.` Pippin: `We&#39;ve had one, yes.\u00a0But what about second final boss?` Merry: `I don&#39;t think he knows about second final boss, Pip.`](http://9gag.com/gag/aME7qR6)
+ - ⏩ [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
+ - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
 
 ---
 
