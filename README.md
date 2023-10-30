@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Alan Wake 2&#39;s expansions sounds like it&#39;s going to take us back to Control](https://www.pcgamer.com/one-of-alan-wake-2s-expansions-sounds-like-its-going-to-take-us-back-to-control)
- - [How scary is Alan Wake 2? Let’s talk jump scares](https://www.polygon.com/23935545/how-scary-is-alan-wake-2-jump-scares-control-horror)
- - [Five Nights at Freddy’s, new Exorcist movie, The Nun II, and every new movie to watch at home this weekend](https://www.polygon.com/2023/10/27/23928604/new-movies-watch-five-nights-freddys-netflix-pain-hustlersexorcist-believer-nun-2-streaming)<!-- GAME:END -->
+ - [Your new co-op survival horror obsession is about being underpaid and overworked space scavengers](https://www.pcgamer.com/your-new-co-op-survival-horror-obsession-is-about-being-underpaid-and-overworked-space-scavengers)
+ - [Here&#39;s a cute, free economic real-time strategy about colonizing and defending a solar system](https://www.pcgamer.com/heres-a-cute-free-economic-real-time-strategy-about-colonizing-and-defending-a-solar-system)
+ - [Enter an abandoned amusement park to solve a horror mystery in this upcoming bit of indie psychological horror](https://www.pcgamer.com/enter-an-abandoned-amusement-park-to-solve-a-horror-mystery-in-this-upcoming-bit-of-indie-psychological-horror)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
