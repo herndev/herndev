@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 crossbow location: Where to find it](https://www.pcgamer.com/alan-wake-2-crossbow-location)
- - [Mesh shaders explained: What are they, what&#39;s the big fuss, and why are they only in Alan Wake 2?](https://www.pcgamer.com/mesh-shaders-explained)
- - [What We Loved And Hated In Spider-Man 2 On PS5](https://kotaku.com/spider-man-2-ps5-review-villain-kraven-venom-1850968711)<!-- GAME:END -->
+ - [Pick Your Halloween Pleasure With Xbox Game Pass](https://news.xbox.com/en-us/2023/10/30/halloween-xbox-game-pass/)
+ - [This grimdark tactical RPG let me become a satanic Wolverine who barks like a dog](https://www.pcgamer.com/this-grimdark-tactical-rpg-let-me-become-a-satanic-wolverine-who-barks-like-a-dog)
+ - [GTA VI Patent Hints At Rockstar&#39;s Most Immersive Game Yet](https://kotaku.com/gta-6-patent-grand-theft-auto-1850972511)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
