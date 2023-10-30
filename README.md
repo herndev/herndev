@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stable One UI 6 update based on Android 14 is finally here!](https://www.androidauthority.com/samsung-one-ui-6-android-14-rolling-out-3379316/)
- - [Watch out! One UI 6 stable release could happen today &lpar;Updated: Out now!&rpar;](https://www.androidauthority.com/one-ui-6-stable-rollout-3380365/)
- - [Best Samsung Galaxy S23, S23 Plus and S23 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s23-s23-plus-and-s23-ultra-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s new tech can turn any existing ANC earbuds into heart rate monitors](https://www.androidauthority.com/google-anc-earbuds-heart-rate-apg-3380383/)
+ - [This new Galaxy Z Flip 5 Retro edition lets you flip your phone old school style](https://www.androidauthority.com/samsung-galaxy-z-flip-5-retro-edition-3380378/)
+ - [Stable One UI 6 update based on Android 14 is finally here!](https://www.androidauthority.com/samsung-one-ui-6-android-14-rolling-out-3379316/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
