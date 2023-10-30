@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards)
- - [One UI 6: Release date, confirmed features, and device compatibility](https://www.androidauthority.com/one-ui-6-3366216/)
- - [A look at blue-collar influencers, including a trucker, a shepherd, and a fisherman, who have amassed large audiences by posting short videos of their workday &lpar;Steven Kurutz/New York Times&rpar;](http://www.techmeme.com/231030/p1#a231030p1)<!-- TECH:END -->
+ - [Microsoft really doesn’t want you using that third-party knockoff controller](https://www.androidauthority.com/microsoft-blocking-third-party-xbox-controller-3380400/)
+ - [Google details its research into audioplethysmography &lpar;APG&rpar;, which can add heart rate sensing capabilities to ANC headphones &quot;with a simple software upgrade&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231030/p4#a231030p4)
+ - [Ahead of the UK&#39;s AI Safety Summit, over 100 individuals and labor groups accuse the government of &quot;squeezing out&quot; workers from the event in favor of Big Tech &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231030/p3#a231030p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
