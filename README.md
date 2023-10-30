@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SBF testifies that he only understood &quot;pieces&quot; of the full financial state of his companies and was &quot;surprised&quot; by FTX&#39;s $8B balance-sheet hole in October 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p25#a231027p25)
- - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
- - [The best ad blocker Chrome extensions](https://www.androidauthority.com/best-ad-blocker-chrome-extensions-3380268/)<!-- TECH:END -->
+ - [ChatGPT Plus users report an &quot;All Tools&quot; feature and capabilities for analyzing docs like PDFs have been added, potentially sidelining 3rd-party ChatGPT plugins &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231029/p10#a231029p10)
+ - [Apple gifts influencers AirPods Max before Monday&#39;s &#39;Spatial&#39; event](https://appleinsider.com/articles/23/10/29/apple-gifts-influencers-airpods-max-before-mondays-spatial-event?utm_medium=rss)
+ - [ChatGPT Plus members can upload and analyze files in the latest beta](https://www.theverge.com/2023/10/29/23937497/chatgpt-plus-new-beta-all-tools-update-pdf-data-analysis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
