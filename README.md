@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s Q4 2023 earnings report](https://appleinsider.com/articles/23/10/30/what-to-expect-from-apples-q4-2023-earnings-report?utm_medium=rss)
- - [Gambling streams are ‘part of the contract’ for Kick’s newest streamer](https://www.theverge.com/2023/10/30/23938853/kick-nickmercs-gambling-contract-stake)
- - [Sundar Pichai argues in court that Google isn’t evil, it’s just a business](https://www.theverge.com/2023/10/30/23939043/us-v-google-sundar-pichai-testimony)<!-- TECH:END -->
+ - [The US SEC charges SolarWinds for failing to disclose alleged cybersecurity failures ahead of a breach by suspected Russian hackers that began as early as 2019 &lpar;Tim Starks/Washington Post&rpar;](http://www.techmeme.com/231030/p24#a231030p24)
+ - [iPhone 16 Pro could get thinner, lighter camera lenses that improve optical zoom](https://appleinsider.com/articles/23/10/30/iphone-16-pro-could-get-thinner-lighter-camera-lenses-that-improve-optical-zoom?utm_medium=rss)
+ - [Best Apple Watch Series 9 Deals: Up to $380 Off With Trade-In Credit     - CNET](https://www.cnet.com/deals/best-apple-watch-series-9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
