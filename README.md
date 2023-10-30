@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 review: an unexciting release for consumers, featuring a lightly customizable lock screen and improved back button functionality &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231029/p13#a231029p13)
- - [Q&amp;A with Amazon Robotics Chief Technologist Tye Brady on testing Agility&#39;s bipedal robot Digit at Amazon, coding robotic systems with CodeWhisperer, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231029/p12#a231029p12)
- - [An interview with Vinod Khosla on the investor frenzy around AI, why the US should use all the tools at its disposal to win the AI race with China, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231029/p11#a231029p11)<!-- TECH:END -->
+ - [Google issues advisory for Pixels impacted by Android 14 storage bug](https://www.androidauthority.com/google-pixel-android-14-storage-bug-fix-3380362/)
+ - [Best VPNs for Xbox in 2023: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)
+ - [Android 14 review: an unexciting release for consumers, featuring a lightly customizable lock screen and improved back button functionality &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231029/p13#a231029p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
