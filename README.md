@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tmnt](http://9gag.com/gag/aoKoDqw)
- - ⏩ [Birbs are retards](http://9gag.com/gag/ay2rz7V)
- - 👉 [Its worth it](http://9gag.com/gag/aME7OwP)<!-- MEMES:END -->
+ - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - ⏩ [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
+ - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
 
 ---
 
