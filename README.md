@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s latest physical book has been delayed due to bad luck of the draw: &#39;The defect rate is too high. I cannot in good conscience ship this stock&#39;](https://www.pcgamer.com/dandds-latest-physical-book-has-been-delayed-due-to-bad-luck-of-the-draw-the-defect-rate-is-too-high-i-cannot-in-good-conscience-ship-this-stock)
- - [Confirmed RTX 4080 Super GPU means at best you&#39;re getting just 5.3% more Ada for the money](https://www.pcgamer.com/confirmed-rtx-4080-super-gpu-means-at-best-youre-getting-just-53-more-ada-for-the-money)
- - [Asus&#39; Dual RTX 4060 Ti with an integrated M.2 SSD slot answers a question few thought to ask](https://www.pcgamer.com/asus-dual-rtx-4060-ti-with-an-integrated-m2-ssd-slot-answers-a-question-few-thought-to-ask)<!-- GAME:END -->
+ - [It’s Halloween, Let’s Rank The Best Ghost-Type Pokémon](https://kotaku.com/pokemon-ghost-type-gengar-mimikyu-giratina-yamask-1850968054)
+ - [When does Apex Legends Season 19: Ignite start?](https://www.polygon.com/guides/2023/10/30/23938218/apex-legends-season-19-release-time-ignite)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
