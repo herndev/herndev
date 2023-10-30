@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Thailand&#39;s Kasikorn Bank buys 97% of the Satang crypto exchange, operating in Thailand since 2017, for ~$102.8M and plans to rebrand Satang to Orbix &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231030/p6#a231030p6)
- - [Microsoft starts blocking ‘unauthorized’ Xbox controllers and accessories](https://www.theverge.com/2023/10/30/23938206/microsoft-xbox-controller-block-unauthorized-accessory-error-0x82d60002)
- - [Ad holding company Omnicom agrees to acquire Flywheel, the digital commerce arm of UK-based B2B media company Ascential, for a net cash purchase price of ~$835M &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p5#a231030p5)<!-- TECH:END -->
+ - [Analysis: 126 companies have cancelled or suspended IPO applications on Shanghai&#39;s tech-focused Star Market in 2023, more than the previous four years combined &lpar;Financial Times&rpar;](http://www.techmeme.com/231030/p9#a231030p9)
+ - [Regulatory filings show new MacBook Pro, iPad mini are on the way](https://appleinsider.com/articles/23/10/30/regulatory-filings-show-new-macbook-pro-ipad-mini-are-on-the-way?utm_medium=rss)
+ - [Samsung’s Galaxy S23 starts receiving Android 14 update](https://www.theverge.com/2023/10/30/23938247/samsungs-galaxy-s23-android-14-one-ui-6-update-official-europe-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
