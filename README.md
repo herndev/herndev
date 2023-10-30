@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - ⏩ [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
- - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
+ - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - ⏩ [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 👉 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)<!-- MEMES:END -->
 
 ---
 
