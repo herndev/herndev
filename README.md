@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Nights at Freddy’s had a record-breaking opening weekend at the box office](https://www.polygon.com/23938455/five-nights-freddys-open-weekend-fnaf-box-office)
- - [Microsoft is killing compatibility for unauthorized Xbox accessories](https://www.polygon.com/23938582/microsoft-xbox-unauthorized-accessories-0x82d60002)
- - [Xbox Is Banning &#39;Unauthorized&#39; Controllers And Accessories](https://kotaku.com/microsoft-xbox-series-one-x-s-controller-error-ps5-1850972075)<!-- GAME:END -->
+ - [Games for Gaza bundle has raised over $200,000 for Palestinian medical aid](https://www.polygon.com/23938520/games-for-gaza-bundle-itchio-palestinian-medical-aid)
+ - [Xbox Insider Release Notes – Alpha &lpar;2311.231026-2200&rpar;](https://news.xbox.com/en-us/2023/10/30/xbox-insider-release-notes-alpha-2311-231026-2200/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231026-2000&rpar;](https://news.xbox.com/en-us/2023/10/30/xbox-insider-release-notes-alpha-skip-ahead-2408-231026-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
