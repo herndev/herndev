@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
- - ⏩ [What city is this?](http://9gag.com/gag/a2KgLnp)
- - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
+ - ⏩ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
 
 ---
 
