@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We benchmarked the new Qualcomm Snapdragon X Elite laptop chip](https://www.androidauthority.com/snapdragon-x-elite-benchmarks-3380426/)
- - [The autoworker strike is nearly over, as GM makes tentative deal with UAW](https://www.theverge.com/2023/10/30/23938368/gm-uaw-tentative-deal-strike-autoworker-ev)
- - [Samsung Galaxy Watch 6 problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-watch-6-problems-and-how-to-fix-them-3380358/)<!-- TECH:END -->
+ - [Ta-ta, Wistron: Indian iPhone operations go local](https://appleinsider.com/articles/23/10/30/ta-ta-wistron-indian-iphone-operations-go-local?utm_medium=rss)
+ - [Sam Bankman-Fried Built a Crypto Paradise in the Bahamas—Now He&#39;s a Bad Memory](https://www.wired.com/story/sam-bankman-fried-crypto-paradise-bahamas/)
+ - [The Halloween 2023 StoryScream: things to play and watch this spooky season](https://www.theverge.com/23911556/halloween-2023-games-movies-tv-streaming-recommendations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
