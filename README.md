@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - ⏩ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 💣 [This mf with adamantium skin](http://9gag.com/gag/anzZG7z)
+ - ⏩ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
  - 👉 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)<!-- MEMES:END -->
 
 ---
