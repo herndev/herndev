@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ta-ta, Wistron: Indian iPhone operations go local](https://appleinsider.com/articles/23/10/30/ta-ta-wistron-indian-iphone-operations-go-local?utm_medium=rss)
- - [Sam Bankman-Fried Built a Crypto Paradise in the Bahamas—Now He&#39;s a Bad Memory](https://www.wired.com/story/sam-bankman-fried-crypto-paradise-bahamas/)
- - [The Halloween 2023 StoryScream: things to play and watch this spooky season](https://www.theverge.com/23911556/halloween-2023-games-movies-tv-streaming-recommendations)<!-- TECH:END -->
+ - [Three M3 chips could land in Monday&#39;s Mac line refresh](https://appleinsider.com/articles/23/10/29/three-m3-chips-could-land-in-mondays-mac-line-refresh?utm_medium=rss)
+ - [From the cloud to your computer: a new theory of how software works](https://www.theverge.com/23938533/self-hosting-local-first-software-vergecast)
+ - [The Google Pixel 7A at $125 off is all treat, no trick](https://www.theverge.com/2023/10/30/23938305/google-pixel-7a-phone-tablet-sony-wf1000xm5-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
