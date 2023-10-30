@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
- - ⏩ [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
- - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
+ - 💣 [Popped](http://9gag.com/gag/a9qwO5o)
+ - ⏩ [The mighty programmer](http://9gag.com/gag/az2yZnp)
+ - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
 
 ---
 
