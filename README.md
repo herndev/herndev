@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
- - ⏩ [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
+ - 💣 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
+ - ⏩ [Tmnt](http://9gag.com/gag/aoKoDqw)
+ - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
 
 ---
 
