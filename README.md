@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unprecedented good boi levels](http://9gag.com/gag/anzZGEn)
- - ⏩ [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
+ - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - ⏩ [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
+ - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
 
 ---
 
