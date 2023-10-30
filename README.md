@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three M3 chips could land in Monday&#39;s Mac line refresh](https://appleinsider.com/articles/23/10/29/three-m3-chips-could-land-in-mondays-mac-line-refresh?utm_medium=rss)
- - [From the cloud to your computer: a new theory of how software works](https://www.theverge.com/23938533/self-hosting-local-first-software-vergecast)
- - [The Google Pixel 7A at $125 off is all treat, no trick](https://www.theverge.com/2023/10/30/23938305/google-pixel-7a-phone-tablet-sony-wf1000xm5-earbuds)<!-- TECH:END -->
+ - [At just $199.99, the Pixel Watch has never been cheaper](https://www.androidauthority.com/pixel-watch-deal-3380499/)
+ - [Mastodon’s latest update makes it easier to follow the news](https://www.theverge.com/2023/10/30/23938639/mastodon-lists-android-update-news)
+ - [Qualcomm invited press to a private event to showcase the Snapdragon X Elite, slated for mid-2024, competing favorably in benchmarks against other select chips &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231030/p17#a231030p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
