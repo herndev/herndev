@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - ⏩ [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
- - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
+ - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
+ - ⏩ [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
+ - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
 
 ---
 
