@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: Sundar Pichai floated preloading a Google app on iOS to Tim Cook in 2018, amid Apple&#39;s concerns of lower revenue growth from their rev-share deal &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231030/p20#a231030p20)
- - [The Google Pixel Tablet plunges by $100 in latest deal](https://www.androidauthority.com/pixel-tablet-deal-3380528/)
- - [X is officially worth less than half of what Elon Musk paid for it](https://www.theverge.com/2023/10/30/23938969/x-twitter-valuation-19-billion-employee-shares)<!-- TECH:END -->
+ - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)
+ - [Porsche is adding Google to its cars as VW’s software problems worsen](https://www.theverge.com/2023/10/30/23938741/porsche-google-built-in-vw-cariad-layoffs)
+ - [Bungie delaying Destiny 2 expansion and Marathon release amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
