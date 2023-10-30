@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Popped](http://9gag.com/gag/a9qwO5o)
- - ⏩ [The mighty programmer](http://9gag.com/gag/az2yZnp)
- - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
+ - 💣 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
+ - ⏩ [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 ---
 
