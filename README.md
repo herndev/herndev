@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Halloween, Let’s Rank The Best Ghost-Type Pokémon](https://kotaku.com/pokemon-ghost-type-gengar-mimikyu-giratina-yamask-1850968054)
- - [When does Apex Legends Season 19: Ignite start?](https://www.polygon.com/guides/2023/10/30/23938218/apex-legends-season-19-release-time-ignite)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Alan Wake 2 crossbow location: Where to find it](https://www.pcgamer.com/alan-wake-2-crossbow-location)
+ - [Mesh shaders explained: What are they, what&#39;s the big fuss, and why are they only in Alan Wake 2?](https://www.pcgamer.com/mesh-shaders-explained)
+ - [What We Loved And Hated In Spider-Man 2 On PS5](https://kotaku.com/spider-man-2-ps5-review-villain-kraven-venom-1850968711)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
