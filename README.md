@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - ⏩ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
+ - 💣 [Unprecedented good boi levels](http://9gag.com/gag/anzZGEn)
+ - ⏩ [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
 
 ---
 
