@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie lays off employees as Destiny 2: The Final Shape is reportedly delayed to June](https://www.pcgamer.com/bungie-lays-off-employees-as-destiny-2-the-final-shape-is-reportedly-delayed-to-june)
- - [Nickmercs Will Stream Gambling On Kick, But Not ‘A Sh*t Ton’](https://kotaku.com/nickmercs-kick-twitch-faze-clan-gambling-1850973704)
- - [Dead Space 3 producer says he&#39;d &#39;throw away and rewrite&#39; the entire main story if he could](https://www.pcgamer.com/dead-space-3-producer-says-hed-throw-away-and-rewrite-the-entire-main-story-if-he-could)<!-- GAME:END -->
+ - [Despite Negative Reviews, Five Nights At Freddy’s Film Killing At The Box Office](https://kotaku.com/five-nights-at-freddys-fnaf-movie-review-box-office-1850974086)
+ - [Put Super Mario Bros. Wonder’s talking flowers in Alan Wake 2](https://www.polygon.com/gaming/23939150/alan-wake-2-super-mario-bros-wonder-talking-flower)
+ - [Alan Wake 2’s New Patch Promises Technical Fixes And ‘Friendlier’ Error Messages](https://kotaku.com/alan-wake-2-new-patch-notes-error-message-bug-fixes-1850974089)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
