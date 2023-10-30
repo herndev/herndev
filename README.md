@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
- - ⏩ [Tmnt](http://9gag.com/gag/aoKoDqw)
- - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
+ - 💣 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
+ - ⏩ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 👉 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)<!-- MEMES:END -->
 
 ---
 
