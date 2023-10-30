@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new tech can turn any existing ANC earbuds into heart rate monitors](https://www.androidauthority.com/google-anc-earbuds-heart-rate-apg-3380383/)
- - [This new Galaxy Z Flip 5 Retro edition lets you flip your phone old school style](https://www.androidauthority.com/samsung-galaxy-z-flip-5-retro-edition-3380378/)
- - [Stable One UI 6 update based on Android 14 is finally here!](https://www.androidauthority.com/samsung-one-ui-6-android-14-rolling-out-3379316/)<!-- TECH:END -->
+ - [Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards)
+ - [One UI 6: Release date, confirmed features, and device compatibility](https://www.androidauthority.com/one-ui-6-3366216/)
+ - [A look at blue-collar influencers, including a trucker, a shepherd, and a fisherman, who have amassed large audiences by posting short videos of their workday &lpar;Steven Kurutz/New York Times&rpar;](http://www.techmeme.com/231030/p1#a231030p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
