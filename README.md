@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nabbit cheated me out of the Super Mario Bros. Wonder experience](https://www.polygon.com/gaming/23935372/nabbit-invincible-super-mario-bros-wonder-playable-characters)
- - [Report: Destiny 2&#39;s Climactic The Final Shape Expansion And Marathon Shooter Delayed](https://kotaku.com/destiny-2-final-shape-marathon-release-date-delayed-1850973377)
- - [Resident Evil Village On iPhone Is Impressive, But Not A Great Way To Play](https://kotaku.com/resident-evil-village-iphone-15-pro-review-performance-1850973260)<!-- GAME:END -->
+ - [Bungie lays off employees as Destiny 2: The Final Shape is reportedly delayed to June](https://www.pcgamer.com/bungie-lays-off-employees-as-destiny-2-the-final-shape-is-reportedly-delayed-to-june)
+ - [Nickmercs Will Stream Gambling On Kick, But Not ‘A Sh*t Ton’](https://kotaku.com/nickmercs-kick-twitch-faze-clan-gambling-1850973704)
+ - [Dead Space 3 producer says he&#39;d &#39;throw away and rewrite&#39; the entire main story if he could](https://www.pcgamer.com/dead-space-3-producer-says-hed-throw-away-and-rewrite-the-entire-main-story-if-he-could)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
