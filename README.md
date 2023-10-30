@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Confirmed RTX 4080 Super GPU means at best you&#39;re getting just 5.3% more Ada for the money](https://www.pcgamer.com/confirmed-rtx-4080-super-gpu-means-at-best-youre-getting-just-53-more-ada-for-the-money)
  - [Asus&#39; Dual RTX 4060 Ti with an integrated M.2 SSD slot answers a question few thought to ask](https://www.pcgamer.com/asus-dual-rtx-4060-ti-with-an-integrated-m2-ssd-slot-answers-a-question-few-thought-to-ask)
- - [Wordle today: Hint and answer #863 for Monday, October 30](https://www.pcgamer.com/wordle-today-answer-863-october-30)
- - [Five new Steam games you probably missed &lpar;October 30, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-30-2023)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #863 for Monday, October 30](https://www.pcgamer.com/wordle-today-answer-863-october-30)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
