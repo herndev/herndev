@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nacon Revolution 5 Pro review](https://www.pcgamer.com/nacon-r5p-controller-review)
  - [Can Yamask be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889476/can-yamask-be-shiny-cofagrigus)
- - [Wordle today: Hint and answer #864 for Tuesday, October 31](https://www.pcgamer.com/wordle-today-answer-864-october-31)
- - [Cities: Skylines 2: How to fix the &#39;Not Enough Customers&#39; problem](https://www.pcgamer.com/cities-skylines-2-not-enough-customers)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #864 for Tuesday, October 31](https://www.pcgamer.com/wordle-today-answer-864-october-31)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
