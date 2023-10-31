@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only appropriate response to \u201cAllah o akbar\u201d](http://9gag.com/gag/aoKoAGX)
- - ⏩ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
+ - 💣 [What is it?](http://9gag.com/gag/aeQzPyj)
+ - ⏩ [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
 
 ---
 
