@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Yamask be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889476/can-yamask-be-shiny-cofagrigus)
  - [Wordle today: Hint and answer #864 for Tuesday, October 31](https://www.pcgamer.com/wordle-today-answer-864-october-31)
- - [Cities: Skylines 2: How to fix the &#39;Not Enough Customers&#39; problem](https://www.pcgamer.com/cities-skylines-2-not-enough-customers)
- - [US President Joe Biden signs executive order &#39;to protect Americans from the potential risks of AI systems&#39;](https://www.pcgamer.com/us-president-joe-biden-signs-executive-order-to-protect-americans-from-the-potential-risks-of-ai-systems)<!-- GAME:END -->
+ - [Cities: Skylines 2: How to fix the &#39;Not Enough Customers&#39; problem](https://www.pcgamer.com/cities-skylines-2-not-enough-customers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
