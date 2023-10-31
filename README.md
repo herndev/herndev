@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wait, What! Did Samsung just confirm One UI 6 update for Galaxy S20 and Note 20?](https://www.androidauthority.com/samsung-galaxy-s20-note-20-one-ui-6-3380708/)
- - [Alibaba unveils Tongyi Qianwen 2 LLM with &quot;hundreds of billions of&quot; parameters and 8 industry-specific models for entertainment, finance, healthcare, and legal &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231031/p3#a231031p3)
- - [TECNO Unveils ‘Universal Tone’ – A Multi-Skin Tone Imaging Technology Reflecting Everyone in One Picture](https://www.androidauthority.com/tecno-unveils-universal-tone-a-multi-skin-tone-imaging-technology-reflecting-everyone-in-one-picture-3380676/)<!-- TECH:END -->
+ - [A look at Woven Planet, Toyota&#39;s ambitious software unit that was renamed Woven by Toyota as it struggled to connect with the changing goals of its parent &lpar;River Davis/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p4#a231031p4)
+ - [Owala HallOwalaween Sale &lpar;2023&rpar;: 25 Percent off FreeSip Water Bottle, Pet Water Bowl, and More](https://www.wired.com/story/owala-deals-october-31-2023/)
+ - [Wait, What! Did Samsung just confirm One UI 6 update for Galaxy S20 and Note 20?](https://www.androidauthority.com/samsung-galaxy-s20-note-20-one-ui-6-3380708/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
