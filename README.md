@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft debuts a Windows 11 2023 Update that replaces Chat with Microsoft Teams &lpar;Free&rpar;; big features like Copilot and AI-powered Paint rolled out last month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231031/p32#a231031p32)
- - [Sam Bankman-Fried didn’t ask where the $8 billion went](https://www.theverge.com/2023/10/31/23940814/sam-bankman-fried-ftx-alameda-customer-funds-fraud-trial)
- - [Chinese lidar maker Hesai, which had a $192M US IPO in February 2023 and has seen its stock drop 50%+, pushes back against US national security concerns &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p31#a231031p31)<!-- TECH:END -->
+ - [Bungie delaying Destiny 2 expansion and Marathon release amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)
+ - [AMD Q3: revenue up 4% YoY to $5.8B, vs. $5.7B est., net income up 353% YoY to $299M, Data Center revenue flat at $1.6B, and Q4 revenue forecast below estimates &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231031/p34#a231031p34)
+ - [Say goodbye to clunky QR code scanning for Messages for Web and say hi to Emoji](https://www.androidauthority.com/messages-for-web-authentication-3380985/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
