@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of Apple&#39;s &quot;Scary Fast&quot; event &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/231030/p27#a231030p27)
- - [A live blog of Apple&#39;s &quot;Scary Fast&quot; event, where high-end MacBook Pros with M3 Pro and M3 Max, a new 24-inch iMac with an M3, and more are expected &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231030/p26#a231030p26)
- - [Apple&#39;s online store is down ahead of Scary Fast Mac event](https://appleinsider.com/articles/23/10/30/apples-online-store-is-down-ahead-of-scary-fast-mac-event?utm_medium=rss)<!-- TECH:END -->
+ - [Apple announces three new M3 processors and really wants you to game with them](https://www.androidauthority.com/apple-m3-processors-3380626/)
+ - [Magic Mouse, Magic Keyboard, Magic Trackpad didn&#39;t get USB-C -- but it&#39;s still coming](https://appleinsider.com/articles/23/10/31/magic-mouse-magic-keyboard-magic-trackpad-didnt-get-usb-c----but-its-still-coming?utm_medium=rss)
+ - [RIP Touch Bar -- Apple sends the 13-inch MacBook Pro to the grave](https://appleinsider.com/articles/23/10/31/rip-touch-bar----apple-sends-the-13-inch-macbook-pro-to-the-grave?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
