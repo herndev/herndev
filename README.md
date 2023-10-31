@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - ⏩ [This mf with adamantium skin](http://9gag.com/gag/anzZG7z)
- - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
+ - 💣 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
+ - ⏩ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
 
 ---
 
