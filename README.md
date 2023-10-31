@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome on iOS now lets you move the address bar to the bottom](https://www.theverge.com/2023/10/31/23940005/chrome-ios-address-bar-bottom-of-the-screen)
- - [A lament for the Touch Bar](https://appleinsider.com/articles/23/10/31/a-lament-for-the-touch-bar?utm_medium=rss)
- - [The best robot vacuum for me is the one I hacked](https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking)<!-- TECH:END -->
+ - [How Apple&#39;s iPhone 15 Pro Max captured the &#39;Scary Fast&#39; Apple Event](https://appleinsider.com/articles/23/10/31/how-apples-iphone-15-pro-max-captured-the-scary-fast-apple-event?utm_medium=rss)
+ - [The Guardian says its reputation was hurt after news aggregator Microsoft Start placed an AI-generated poll about a woman&#39;s death next to an article about her &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/231031/p25#a231031p25)
+ - [Sundar Pichai finally explains why some Android phones get lots of updates and some don’t](https://www.androidauthority.com/sundar-pichai-android-oem-updates-3380870/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
