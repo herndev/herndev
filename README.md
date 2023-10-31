@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)
- - [Apple kills the Touch Bar for good as 13-inch MacBook Pro goes out to pasture](https://www.androidauthority.com/apple-touch-bar-macbook-pro-end-of-life-3380730/)
- - [A look at Woven Planet, Toyota&#39;s ambitious software unit that was renamed Woven by Toyota as it struggled to connect with the changing goals of its parent &lpar;River Davis/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p4#a231031p4)<!-- TECH:END -->
+ - [Xiaomi 14 series can run 32-bit ARM apps like Flappy Bird with this cool trick](https://www.androidauthority.com/xiaomi-14-series-32-bit-app-support-3380733/)
+ - [Permission Slip Can Help You Regain Control Over Your Data. Here&#39;s How to Use It     - CNET](https://www.cnet.com/tech/services-and-software/permission-slip-can-help-you-regain-control-over-your-data-heres-how-to-use-it/#ftag=CAD590a51e)
+ - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
