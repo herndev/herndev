@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Fortnite Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)
- - [PS5 Slim Bundles May Include Call Of Duty Modern Warfare 3 For Free](https://kotaku.com/ps5-slim-bundle-call-duty-modern-warfare-3-mwiii-1850977570)
- - [Twitch’s AI Seinfeld Show Has Devolved Into Existential Horror](https://kotaku.com/ai-seinfeld-twitch-nothing-forever-247-1850977472)<!-- GAME:END -->
+ - [Alt-history multiplayer FPS &#39;83 is back from the dead under a new studio, and they&#39;re looking for testers](https://www.pcgamer.com/alt-history-multiplayer-fps-83-is-back-from-the-dead-under-a-new-studio-and-theyre-looking-for-testers)
+ - [Watch A Haunting in Venice, 2023’s best murder mystery, this Halloween](https://www.polygon.com/23940719/haunting-in-venice-streaming-hulu-halloween-kenneth-branagh-best-poirot-movie)
+ - [When does Fortnite Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
