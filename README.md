@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
- - ⏩ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
+ - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - ⏩ [Spell Attic](http://9gag.com/gag/aEqKEex)
+ - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 ---
 
