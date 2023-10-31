@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - ⏩ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 👉 [You guys are screwed!](http://9gag.com/gag/amAQpAo)<!-- MEMES:END -->
+ - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - ⏩ [Her reaction](http://9gag.com/gag/abvDQrb)
+ - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
 
 ---
 
