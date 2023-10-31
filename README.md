@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is it?](http://9gag.com/gag/aeQzPyj)
- - ⏩ [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
+ - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - ⏩ [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 👉 [Proud dad](http://9gag.com/gag/awZjvmR)<!-- MEMES:END -->
 
 ---
 
