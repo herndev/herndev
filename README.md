@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 Fans Need To Watch This Free Movie ASAP](https://kotaku.com/alan-wake-2-best-horror-movies-streaming-1850976130)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [I can&#39;t believe I had to come back to Final Fantasy 14 to pay rent, but it was a blessing in disguise](https://www.pcgamer.com/i-cant-believe-i-had-to-come-back-to-final-fantasy-14-to-pay-rent-but-it-was-a-blessing-in-disguise)<!-- GAME:END -->
+ - [Pardon Our Dust](https://news.xbox.com/en-us/2023/10/31/pardon-our-dust/)
+ - [Where to use the Flower Key in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-flower-key-use)
+ - [Qualcomm&#39;s new PC chip delivers gaming performance on par with AMD&#39;s best integrated graphics](https://www.pcgamer.com/qualcomms-new-pc-chip-delivers-gaming-performance-on-par-with-amds-best-integrated-graphics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
