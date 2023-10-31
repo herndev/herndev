@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - ⏩ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 👉 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)<!-- MEMES:END -->
+ - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - ⏩ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
 
 ---
 
