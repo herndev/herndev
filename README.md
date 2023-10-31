@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alt-history multiplayer FPS &#39;83 is back from the dead under a new studio, and they&#39;re looking for testers](https://www.pcgamer.com/alt-history-multiplayer-fps-83-is-back-from-the-dead-under-a-new-studio-and-theyre-looking-for-testers)
- - [Watch A Haunting in Venice, 2023’s best murder mystery, this Halloween](https://www.polygon.com/23940719/haunting-in-venice-streaming-hulu-halloween-kenneth-branagh-best-poirot-movie)
- - [When does Fortnite Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)<!-- GAME:END -->
+ - [This Baldur’s Gate 3 Race Prefers To Date Women, Use Men For ‘Propagation’](https://kotaku.com/baldurs-gate-3-drow-race-minthara-bg3-romance-1850978154)
+ - [A wildly popular beta has skyrocketed The Finals into the top-wishlisted game on Steam, priming it to be the FPS to watch in 2024](https://www.pcgamer.com/a-wildly-popular-beta-has-skyrocketed-the-finals-into-the-top-wishlisted-game-on-steam-priming-it-to-be-the-fps-to-watch-in-2024)
+ - [How to fast travel in Return to Moria](https://www.polygon.com/guides/23940809/return-to-moria-fast-travel-how-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
