@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - ⏩ [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 👉 [Proud dad](http://9gag.com/gag/awZjvmR)<!-- MEMES:END -->
+ - 💣 [Quick!](http://9gag.com/gag/a04gWVX)
+ - ⏩ [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
+ - 👉 [There has to be more?????](http://9gag.com/gag/adPArnj)<!-- MEMES:END -->
 
 ---
 
