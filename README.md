@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple just launched gaming computers &lpar;at least, that’s what it wants you to think&rpar;](https://www.androidauthority.com/apple-m3-macs-scary-fast-3380628/)
  - [Apple announces three new M3 processors and really wants you to game with them](https://www.androidauthority.com/apple-m3-processors-3380626/)
- - [Magic Mouse, Magic Keyboard, Magic Trackpad didn&#39;t get USB-C -- but it&#39;s still coming](https://appleinsider.com/articles/23/10/31/magic-mouse-magic-keyboard-magic-trackpad-didnt-get-usb-c----but-its-still-coming?utm_medium=rss)
- - [RIP Touch Bar -- Apple sends the 13-inch MacBook Pro to the grave](https://appleinsider.com/articles/23/10/31/rip-touch-bar----apple-sends-the-13-inch-macbook-pro-to-the-grave?utm_medium=rss)<!-- TECH:END -->
+ - [Magic Mouse, Magic Keyboard, Magic Trackpad didn&#39;t get USB-C -- but it&#39;s still coming](https://appleinsider.com/articles/23/10/31/magic-mouse-magic-keyboard-magic-trackpad-didnt-get-usb-c----but-its-still-coming?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
