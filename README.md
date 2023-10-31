@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick!](http://9gag.com/gag/a04gWVX)
- - ⏩ [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
- - 👉 [There has to be more?????](http://9gag.com/gag/adPArnj)<!-- MEMES:END -->
+ - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - ⏩ [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 👉 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)<!-- MEMES:END -->
 
 ---
 
