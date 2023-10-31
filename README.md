@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - ⏩ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
+ - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - ⏩ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 👉 [You guys are screwed!](http://9gag.com/gag/amAQpAo)<!-- MEMES:END -->
 
 ---
 
