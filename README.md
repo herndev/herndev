@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jusant: Get a Grip on Its Fantastic Climbing Mechanic](https://news.xbox.com/en-us/2023/10/31/jusant-climbing-tips/)
- - [Alan Wake 2 Streamside stash key: Where to find it](https://www.pcgamer.com/alan-wake-2-streamside-stash-key-location)
- - [Your Dinosaur Computer Can Handle Modern Warfare III](https://kotaku.com/mw3-pc-specs-modern-warfare-3-cod-1850976632)<!-- GAME:END -->
+ - [Streaming is killing the Halloween episode and I won’t stand for it](https://www.polygon.com/23925355/halloween-specials-streaming-bobs-burgers-angry-beavers)
+ - [Jusant review](https://www.pcgamer.com/jusant-review)
+ - [Ubisoft is shuttering online services for 10 games](https://www.polygon.com/23940446/ubisoft-online-service-shut-down-january-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
