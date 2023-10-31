@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palo Alto Networks acquires Tel Aviv-based Dig Security, which helps organizations track cloud assets, sources say for $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231031/p20#a231031p20)
- - [Skyview 2 Wellness Lamp Review: An Artificial Sun for Your Room](https://www.wired.com/review/skyview-2-wellness-lamp/)
- - [Everyone Was Wrong About Why Cats Purr](https://www.wired.com/story/everyone-was-wrong-why-cats-purr/)<!-- TECH:END -->
+ - [Silent Hill: Ascension is a streaming show with the frills of a multiplayer game](https://www.theverge.com/2023/10/31/23938524/silent-hill-ascension-iphone-android-release-date)
+ - [AI is on a collision course with music — Reservoir’s Golnar Khosrowshahi thinks there’s a way through](https://www.theverge.com/23938498/golnar-khosrowshahi-reservoir-media-ai-music-copyright-publishing-decoder-interview)
+ - [A look at the creators who report and aggregate news on TikTok, YouTube, Instagram, and others, as people under 35 move away from traditional news sources &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231031/p21#a231031p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
