@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sends iPhone threat alerts to India opposition politicians](https://appleinsider.com/articles/23/10/31/apple-sends-iphone-threat-alerts-to-india-opposition-politicians?utm_medium=rss)
- - [Tencent&#39;s WeChat, ByteDance&#39;s Douyin, Kuaishou, and others make similar posts asking users with 500K+ followers to reveal their real names, following Weibo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231031/p16#a231031p16)
- - [Apple&#39;s new M3 Pro has lower memory bandwidth than the M1 Pro and M2 Pro and fewer performance cores; Apple repeatedly compared the M3 to the M1, not the M2 &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231031/p15#a231031p15)<!-- TECH:END -->
+ - [Palo Alto Networks acquires Tel Aviv-based Dig Security, which helps organizations track cloud assets, sources say for $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231031/p20#a231031p20)
+ - [Skyview 2 Wellness Lamp Review: An Artificial Sun for Your Room](https://www.wired.com/review/skyview-2-wellness-lamp/)
+ - [Everyone Was Wrong About Why Cats Purr](https://www.wired.com/story/everyone-was-wrong-why-cats-purr/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
