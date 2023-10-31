@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
- - ⏩ [Thank me later](http://9gag.com/gag/ay2rvjq)
- - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
+ - 💣 [Thank me later](http://9gag.com/gag/ay2rvjq)
+ - ⏩ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
 
 ---
 
