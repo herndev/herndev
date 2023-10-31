@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Problems with your Pixel phone? Open a Reddit account.](https://www.androidauthority.com/pixel-problems-reddit-3380919/)
- - [New Apple Silicon has arrived with M3, M3 Pro, and M3 Max chips](https://appleinsider.com/articles/23/10/31/new-apple-silicon-has-arrived-with-m3-m3-pro-and-m3-max-chips?utm_medium=rss)
- - [Joe Biden’s Big AI Plan Sounds Scary—but Lacks Bite](https://www.wired.com/story/joe-bidens-big-ai-plan-sounds-scary-lacks-bite/)<!-- TECH:END -->
+ - [Deltarune’s next chapter is nearly finished](https://www.theverge.com/2023/10/31/23940643/deltarune-chapter-3-release-schedule-toby-fox)
+ - [Twitch ditches Switch](https://www.theverge.com/2023/10/31/23940753/twitch-nintendo-switch-app-end-support)
+ - [The Fitbit Sense 2 hits its best deal of 2023](https://www.androidauthority.com/fitbit-sense-2-deal-2023-3380933/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
