@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlackBerry CEO John Chen plans to retire on November 4 after serving in the role for a decade; board member Richard Lynch will be the interim CEO &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p25#a231030p25)
- - [The US SEC charges SolarWinds for failing to disclose alleged cybersecurity failures ahead of a breach by suspected Russian hackers that began as early as 2019 &lpar;Tim Starks/Washington Post&rpar;](http://www.techmeme.com/231030/p24#a231030p24)
- - [iPhone 16 Pro could get thinner, lighter camera lenses that improve optical zoom](https://appleinsider.com/articles/23/10/30/iphone-16-pro-could-get-thinner-lighter-camera-lenses-that-improve-optical-zoom?utm_medium=rss)<!-- TECH:END -->
+ - [A livestream of Apple&#39;s &quot;Scary Fast&quot; event &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/231030/p27#a231030p27)
+ - [A live blog of Apple&#39;s &quot;Scary Fast&quot; event, where high-end MacBook Pros with M3 Pro and M3 Max, a new 24-inch iMac with an M3, and more are expected &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231030/p26#a231030p26)
+ - [Apple&#39;s online store is down ahead of Scary Fast Mac event](https://appleinsider.com/articles/23/10/30/apples-online-store-is-down-ahead-of-scary-fast-mac-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
