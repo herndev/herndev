@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Canadian govt sure doesnt help it&#39;s people produce value. They make it harder to keep businesses open](http://9gag.com/gag/aDY9P49)
- - ⏩ [Quick!](http://9gag.com/gag/a04gWVX)
- - 👉 [A wild \u26ab\ufe0f hockey player deliberately lifts his leg and draws a razor-sharp blade across Adam Johnson\u2019s throat \u2014 Adam Johnson would later succumb to his wounds at the hospital.](http://9gag.com/gag/aREWDY7)<!-- MEMES:END -->
+ - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - ⏩ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 
 ---
 
