@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - ⏩ [Spell Attic](http://9gag.com/gag/aEqKEex)
- - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
+ - 💣 [Birbs are retards](http://9gag.com/gag/ay2rz7V)
+ - ⏩ [A new fountain has been unveiled in Vienna, celebrating 150 years of the city&#39;s spring water supply. This cost \u20ac1.8 million.](http://9gag.com/gag/a8qNn8d)
+ - 👉 [It&#39;s the law](http://9gag.com/gag/az2yB3Z)<!-- MEMES:END -->
 
 ---
 
