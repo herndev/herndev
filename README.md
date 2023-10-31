@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - ⏩ [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)
- - 👉 [Spell Attic](http://9gag.com/gag/aEqKEex)<!-- MEMES:END -->
+ - 💣 [The only appropriate response to \u201cAllah o akbar\u201d](http://9gag.com/gag/aoKoAGX)
+ - ⏩ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 
 ---
 
