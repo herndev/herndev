@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: new US rules may compel Nvidia to cancel $5B+ in 2024 orders for its chips in China; Nvidia had already fulfilled its 2023 orders before the controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p12#a231031p12)
- - [Samsung and Google could team up again for a more efficient Tensor G4](https://www.androidauthority.com/google-pixel-9-tensor-g4-process-leak-3380790/)
- - [Biden&#39;s EO on AI tries to chart a middle path by letting AI development continue with modest new rules and signaling the government plans to monitor AI progress &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231031/p11#a231031p11)<!-- TECH:END -->
+ - [Apple sends iPhone threat alerts to India opposition politicians](https://appleinsider.com/articles/23/10/31/apple-sends-iphone-threat-alerts-to-india-opposition-politicians?utm_medium=rss)
+ - [Tencent&#39;s WeChat, ByteDance&#39;s Douyin, Kuaishou, and others make similar posts asking users with 500K+ followers to reveal their real names, following Weibo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231031/p16#a231031p16)
+ - [Apple&#39;s new M3 Pro has lower memory bandwidth than the M1 Pro and M2 Pro and fewer performance cores; Apple repeatedly compared the M3 to the M1, not the M2 &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231031/p15#a231031p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
