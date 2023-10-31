@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deltarune’s next chapter is nearly finished](https://www.theverge.com/2023/10/31/23940643/deltarune-chapter-3-release-schedule-toby-fox)
- - [Twitch ditches Switch](https://www.theverge.com/2023/10/31/23940753/twitch-nintendo-switch-app-end-support)
- - [The Fitbit Sense 2 hits its best deal of 2023](https://www.androidauthority.com/fitbit-sense-2-deal-2023-3380933/)<!-- TECH:END -->
+ - [Microsoft debuts a Windows 11 2023 Update that replaces Chat with Microsoft Teams &lpar;Free&rpar;; big features like Copilot and AI-powered Paint rolled out last month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231031/p32#a231031p32)
+ - [Sam Bankman-Fried didn’t ask where the $8 billion went](https://www.theverge.com/2023/10/31/23940814/sam-bankman-fried-ftx-alameda-customer-funds-fraud-trial)
+ - [Chinese lidar maker Hesai, which had a $192M US IPO in February 2023 and has seen its stock drop 50%+, pushes back against US national security concerns &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p31#a231031p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
