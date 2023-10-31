@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - ⏩ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
+ - 💣 [Its worth it](http://9gag.com/gag/aME7OwP)
+ - ⏩ [A dream](http://9gag.com/gag/a7qgn4m)
+ - 👉 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)<!-- MEMES:END -->
 
 ---
 
