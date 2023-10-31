@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Streaming is killing the Halloween episode and I won’t stand for it](https://www.polygon.com/23925355/halloween-specials-streaming-bobs-burgers-angry-beavers)
- - [Jusant review](https://www.pcgamer.com/jusant-review)
- - [Ubisoft is shuttering online services for 10 games](https://www.polygon.com/23940446/ubisoft-online-service-shut-down-january-2024)<!-- GAME:END -->
+ - [Gears of War Creator Thinks Series Needs ‘A Bit Of A Reboot’](https://kotaku.com/gears-of-war-sequel-6-reboot-cliffy-b-bleszinski-xbox-1850977099)
+ - [When does early access to the Modern Warfare 3 campaign start?](https://www.polygon.com/modern-warfare-3-guides/23940423/mw3-early-access-campaign-release-date-time)
+ - [Should you take Raphael&#39;s deal in Baldur&#39;s Gate 3?](https://www.pcgamer.com/baldurs-gate-3-raphael-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
