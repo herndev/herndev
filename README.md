@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gears of War Creator Thinks Series Needs ‘A Bit Of A Reboot’](https://kotaku.com/gears-of-war-sequel-6-reboot-cliffy-b-bleszinski-xbox-1850977099)
- - [When does early access to the Modern Warfare 3 campaign start?](https://www.polygon.com/modern-warfare-3-guides/23940423/mw3-early-access-campaign-release-date-time)
- - [Should you take Raphael&#39;s deal in Baldur&#39;s Gate 3?](https://www.pcgamer.com/baldurs-gate-3-raphael-deal)<!-- GAME:END -->
+ - [When does Fortnite Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)
+ - [PS5 Slim Bundles May Include Call Of Duty Modern Warfare 3 For Free](https://kotaku.com/ps5-slim-bundle-call-duty-modern-warfare-3-mwiii-1850977570)
+ - [Twitch’s AI Seinfeld Show Has Devolved Into Existential Horror](https://kotaku.com/ai-seinfeld-twitch-nothing-forever-247-1850977472)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
