@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Birbs are retards](http://9gag.com/gag/ay2rz7V)
- - ⏩ [A new fountain has been unveiled in Vienna, celebrating 150 years of the city&#39;s spring water supply. This cost \u20ac1.8 million.](http://9gag.com/gag/a8qNn8d)
- - 👉 [It&#39;s the law](http://9gag.com/gag/az2yB3Z)<!-- MEMES:END -->
+ - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
+ - ⏩ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
 
 ---
 
