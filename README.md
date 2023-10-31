@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Woven Planet, Toyota&#39;s ambitious software unit that was renamed Woven by Toyota as it struggled to connect with the changing goals of its parent &lpar;River Davis/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p4#a231031p4)
- - [Owala HallOwalaween Sale &lpar;2023&rpar;: 25 Percent off FreeSip Water Bottle, Pet Water Bowl, and More](https://www.wired.com/story/owala-deals-october-31-2023/)
- - [Wait, What! Did Samsung just confirm One UI 6 update for Galaxy S20 and Note 20?](https://www.androidauthority.com/samsung-galaxy-s20-note-20-one-ui-6-3380708/)<!-- TECH:END -->
+ - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)
+ - [Apple kills the Touch Bar for good as 13-inch MacBook Pro goes out to pasture](https://www.androidauthority.com/apple-touch-bar-macbook-pro-end-of-life-3380730/)
+ - [A look at Woven Planet, Toyota&#39;s ambitious software unit that was renamed Woven by Toyota as it struggled to connect with the changing goals of its parent &lpar;River Davis/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p4#a231031p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
