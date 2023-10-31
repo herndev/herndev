@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s second-gen AirPods Pro with USB-C are matching their all-time low](https://www.theverge.com/2023/10/31/23938628/apple-airpods-pro-usb-c-lg-a2-oled-tv-google-chromecast-hd-deal-sale)
- - [Goodbye, Touch Bar, you held incredible promise](https://www.theverge.com/2023/10/31/23938841/apple-macbook-pro-touch-bar-discontinued-proof-of-concept)
- - [Daily deals Oct. 31: LG OLED TV $549, Beats Studio Buds $99, Amazon Fire TV Stick $19, more](https://appleinsider.com/articles/23/10/31/daily-deals-oct-31-lg-oled-tv-549-beats-studio-buds-99-amazon-fire-tv-stick-19-more?utm_medium=rss)<!-- TECH:END -->
+ - [Chrome on iOS now lets you move the address bar to the bottom](https://www.theverge.com/2023/10/31/23940005/chrome-ios-address-bar-bottom-of-the-screen)
+ - [A lament for the Touch Bar](https://appleinsider.com/articles/23/10/31/a-lament-for-the-touch-bar?utm_medium=rss)
+ - [The best robot vacuum for me is the one I hacked](https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
