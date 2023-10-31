@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
- - ⏩ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
+ - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
+ - ⏩ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 👉 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)<!-- MEMES:END -->
 
 ---
 
