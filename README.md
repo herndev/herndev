@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nacon Revolution 5 Pro review](https://www.pcgamer.com/nacon-r5p-controller-review)
- - [Can Yamask be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889476/can-yamask-be-shiny-cofagrigus)
- - [Wordle today: Hint and answer #864 for Tuesday, October 31](https://www.pcgamer.com/wordle-today-answer-864-october-31)<!-- GAME:END -->
+ - [The Foglands delivers immersive, atmospheric roguelite action today on PS VR2 and PS5](https://blog.playstation.com/2023/10/31/the-foglands-delivers-immersive-atmospheric-roguelite-action-today-on-ps-vr2-and-ps5/)
+ - [Introducing Little Goody Two Shoes: A Fairy Tale RPG packed with Thrills, Sapphic Romance, and Witchy Rituals](https://news.xbox.com/en-us/2023/10/31/little-goody-two-shoes-fairytale-rpg/)
+ - [This FF14 animation mod turns the ninja into a high-tech John Wick, and it&#39;s the coolest thing I can&#39;t recommend](https://www.pcgamer.com/this-ff14-animation-mod-turns-the-ninja-into-a-high-tech-john-wick-and-its-the-coolest-thing-i-cant-recommend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
