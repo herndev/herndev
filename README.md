@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - ⏩ [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 👉 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)<!-- MEMES:END -->
+ - ⏩ [This mf with adamantium skin](http://9gag.com/gag/anzZG7z)
+ - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
 
 ---
 
