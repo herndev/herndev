@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Home Depot made hundreds of skeletons before perfecting its 12-foot star, Skelly](https://www.polygon.com/23933590/12-foot-skeleton-tiktok-home-depot-skelly)
- - [Coming Soon to Game Pass: Like A Dragon Gaiden, Wild Hearts, Football Manager 2024, and More](https://news.xbox.com/en-us/2023/10/31/game-pass-november-2023-wave-1-announce/)
- - [Deltarune Chapter 3 is &#39;pretty much content complete&#39; and will be releasing alongside Chapter 4, says creator Toby Fox](https://www.pcgamer.com/deltarune-chapter-3-is-pretty-much-content-complete-and-will-be-releasing-alongside-chapter-4-says-creator-toby-fox)<!-- GAME:END -->
+ - [Alan Wake 2 Fans Need To Watch This Free Movie ASAP](https://kotaku.com/alan-wake-2-best-horror-movies-streaming-1850976130)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [I can&#39;t believe I had to come back to Final Fantasy 14 to pay rent, but it was a blessing in disguise](https://www.pcgamer.com/i-cant-believe-i-had-to-come-back-to-final-fantasy-14-to-pay-rent-but-it-was-a-blessing-in-disguise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
