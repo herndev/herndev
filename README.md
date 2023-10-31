@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll be surprised how this Android version is still so popular](https://www.androidauthority.com/android-distribution-numbers-october-2023-3380698/)
- - [A US judge dismissed AI copyright infringement claims against Midjourney and DeviantArt by three artists, but allowed a claim against Stability AI to proceed &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/231031/p1#a231031p1)
- - [Researchers say hackers stole $4.4M in crypto from 25+ victims on October 25 using private keys and passphrases from a 2022 LastPass breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231030/p36#a231030p36)<!-- TECH:END -->
+ - [Wait, What! Did Samsung just confirm One UI 6 update for Galaxy S20 and Note 20?](https://www.androidauthority.com/samsung-galaxy-s20-note-20-one-ui-6-3380708/)
+ - [Alibaba unveils Tongyi Qianwen 2 LLM with &quot;hundreds of billions of&quot; parameters and 8 industry-specific models for entertainment, finance, healthcare, and legal &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231031/p3#a231031p3)
+ - [TECNO Unveils ‘Universal Tone’ – A Multi-Skin Tone Imaging Technology Reflecting Everyone in One Picture](https://www.androidauthority.com/tecno-unveils-universal-tone-a-multi-skin-tone-imaging-technology-reflecting-everyone-in-one-picture-3380676/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
