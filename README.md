@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 14 series can run 32-bit ARM apps like Flappy Bird with this cool trick](https://www.androidauthority.com/xiaomi-14-series-32-bit-app-support-3380733/)
- - [Permission Slip Can Help You Regain Control Over Your Data. Here&#39;s How to Use It     - CNET](https://www.cnet.com/tech/services-and-software/permission-slip-can-help-you-regain-control-over-your-data-heres-how-to-use-it/#ftag=CAD590a51e)
- - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)<!-- TECH:END -->
+ - [8BitDo’s NES buttons are a big, red, Nintendo-themed invitation to experiment](https://www.theverge.com/23934698/8bitdo-nes-keyboard-experiment-button-of-the-month)
+ - [Andrew Ng, who taught Sam Altman at Stanford and co-founded Google Brain, says Big Tech is lying about AI extinction to trigger heavier regulation of rivals &lpar;John Davidson/Australian Financial Review&rpar;](http://www.techmeme.com/231031/p9#a231031p9)
+ - [Indian opposition leaders say Apple warned more than six of them of state-backed iPhone attacks; Apple confirms the notification but did not attribute the hacks &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231031/p8#a231031p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
