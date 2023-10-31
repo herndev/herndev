@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a reminder](http://9gag.com/gag/aDY9P37)
- - ⏩ [Speaking from experience](http://9gag.com/gag/adPAbXB)
- - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
+ - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - ⏩ [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
+ - 👉 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)<!-- MEMES:END -->
 
 ---
 
