@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Foglands delivers immersive, atmospheric roguelite action today on PS VR2 and PS5](https://blog.playstation.com/2023/10/31/the-foglands-delivers-immersive-atmospheric-roguelite-action-today-on-ps-vr2-and-ps5/)
- - [Introducing Little Goody Two Shoes: A Fairy Tale RPG packed with Thrills, Sapphic Romance, and Witchy Rituals](https://news.xbox.com/en-us/2023/10/31/little-goody-two-shoes-fairytale-rpg/)
- - [This FF14 animation mod turns the ninja into a high-tech John Wick, and it&#39;s the coolest thing I can&#39;t recommend](https://www.pcgamer.com/this-ff14-animation-mod-turns-the-ninja-into-a-high-tech-john-wick-and-its-the-coolest-thing-i-cant-recommend)<!-- GAME:END -->
+ - [Home Depot made hundreds of skeletons before perfecting its 12-foot star, Skelly](https://www.polygon.com/23933590/12-foot-skeleton-tiktok-home-depot-skelly)
+ - [Coming Soon to Game Pass: Like A Dragon Gaiden, Wild Hearts, Football Manager 2024, and More](https://news.xbox.com/en-us/2023/10/31/game-pass-november-2023-wave-1-announce/)
+ - [Deltarune Chapter 3 is &#39;pretty much content complete&#39; and will be releasing alongside Chapter 4, says creator Toby Fox](https://www.pcgamer.com/deltarune-chapter-3-is-pretty-much-content-complete-and-will-be-releasing-alongside-chapter-4-says-creator-toby-fox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
