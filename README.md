@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - ⏩ [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 👉 [A skydiver&#39;s last jump](http://9gag.com/gag/aqeMY3p)<!-- MEMES:END -->
+ - 💣 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
+ - ⏩ [Thank me later](http://9gag.com/gag/ay2rvjq)
+ - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 
 ---
 
