@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its worth it](http://9gag.com/gag/aME7OwP)
- - ⏩ [A dream](http://9gag.com/gag/a7qgn4m)
- - 👉 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)<!-- MEMES:END -->
+ - 💣 [Just a reminder](http://9gag.com/gag/aDY9P37)
+ - ⏩ [Speaking from experience](http://9gag.com/gag/adPAbXB)
+ - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
 
 ---
 
