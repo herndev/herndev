@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pardon Our Dust](https://news.xbox.com/en-us/2023/10/31/pardon-our-dust/)
- - [Where to use the Flower Key in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-flower-key-use)
- - [Qualcomm&#39;s new PC chip delivers gaming performance on par with AMD&#39;s best integrated graphics](https://www.pcgamer.com/qualcomms-new-pc-chip-delivers-gaming-performance-on-par-with-amds-best-integrated-graphics)<!-- GAME:END -->
+ - [Jusant: Get a Grip on Its Fantastic Climbing Mechanic](https://news.xbox.com/en-us/2023/10/31/jusant-climbing-tips/)
+ - [Alan Wake 2 Streamside stash key: Where to find it](https://www.pcgamer.com/alan-wake-2-streamside-stash-key-location)
+ - [Your Dinosaur Computer Can Handle Modern Warfare III](https://kotaku.com/mw3-pc-specs-modern-warfare-3-cod-1850976632)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
