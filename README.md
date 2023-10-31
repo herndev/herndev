@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bungie delaying Destiny 2 expansion and Marathon release amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)
- - [AMD Q3: revenue up 4% YoY to $5.8B, vs. $5.7B est., net income up 353% YoY to $299M, Data Center revenue flat at $1.6B, and Q4 revenue forecast below estimates &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231031/p34#a231031p34)
- - [Say goodbye to clunky QR code scanning for Messages for Web and say hi to Emoji](https://www.androidauthority.com/messages-for-web-authentication-3380985/)<!-- TECH:END -->
+ - [These might be the first photos of the slimmer new PS5 and original side-by-side](https://www.theverge.com/2023/10/31/23941001/ps5-slim-original-sony-playstation-images)
+ - [Match drops out of Google Play antitrust showdown](https://www.theverge.com/2023/10/31/23941071/google-play-match-group-antitrust-settlement-epic-games)
+ - [M2 MacBook Pro vs M3 MacBook Pro -- specs, features compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-vs-m3-macbook-pro----specs-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
