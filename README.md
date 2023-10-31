@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8BitDo’s NES buttons are a big, red, Nintendo-themed invitation to experiment](https://www.theverge.com/23934698/8bitdo-nes-keyboard-experiment-button-of-the-month)
- - [Andrew Ng, who taught Sam Altman at Stanford and co-founded Google Brain, says Big Tech is lying about AI extinction to trigger heavier regulation of rivals &lpar;John Davidson/Australian Financial Review&rpar;](http://www.techmeme.com/231031/p9#a231031p9)
- - [Indian opposition leaders say Apple warned more than six of them of state-backed iPhone attacks; Apple confirms the notification but did not attribute the hacks &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231031/p8#a231031p8)<!-- TECH:END -->
+ - [Sources: new US rules may compel Nvidia to cancel $5B+ in 2024 orders for its chips in China; Nvidia had already fulfilled its 2023 orders before the controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p12#a231031p12)
+ - [Samsung and Google could team up again for a more efficient Tensor G4](https://www.androidauthority.com/google-pixel-9-tensor-g4-process-leak-3380790/)
+ - [Biden&#39;s EO on AI tries to chart a middle path by letting AI development continue with modest new rules and signaling the government plans to monitor AI progress &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231031/p11#a231031p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
