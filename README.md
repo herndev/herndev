@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s our first look at what the OnePlus 12’s cameras can do](https://www.androidauthority.com/oneplus-12-photos-3381485/)
- - [Apple quietly kills off Siri-only Apple Music Voice Plan](https://appleinsider.com/articles/23/11/01/apple-quietly-kills-off-siri-only-apple-music-voice-plan?utm_medium=rss)
- - [PayPal reports Q3 revenue up 9% YoY to $7.4B, vs. $7.38B est., total payment volume up 13% YoY to $387.7B, vs. $377.9B, and forecasts FY 2023 profit above est. &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/231101/p37#a231101p37)<!-- TECH:END -->
+ - [Joe Biden Wants US Government Algorithms Tested for Potential Harm Against Citizens](https://www.wired.com/story/joe-biden-wants-us-government-algorithms-tested-for-potential-harm-against-citizens/)
+ - [The EDPB instructs the Irish DPC to ban Meta&#39;s use of personal data for behavioral ads on the legal base of contract and legitimate interest in the EU and EEA &lpar;Joe Duball/IAPP&rpar;](http://www.techmeme.com/231101/p38#a231101p38)
+ - [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
