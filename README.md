@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Fortnite OG Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)
- - [Everything Announced During Disney Dreamlight Valley&#39;s Showcase Event](https://kotaku.com/disney-dreamlight-valley-showcase-multiplayer-update-1850982970)
- - [Of the 12 biggest survival games I was looking forward to this year, 6 have been delayed to 2024](https://www.pcgamer.com/of-the-12-biggest-survival-games-i-was-looking-forward-to-this-year-6-have-been-delayed-to-2024)<!-- GAME:END -->
+ - [When does early access to the Modern Warfare 3 campaign start?](https://www.polygon.com/modern-warfare-3-guides/23940423/mw3-early-access-campaign-release-date-time)
+ - [Adidas Is Selling Miles Morales&#39; &#39;Worst&#39; Spider-Man 2 Suit](https://kotaku.com/adidas-miles-morales-collab-evolved-suit-collection-1850983029)
+ - [When does Fortnite OG Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
