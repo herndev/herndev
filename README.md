@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spooky Halloween deals from B&amp;H Photo bring $1,900 in sweet savings to your trick or treat bucket](https://appleinsider.com/articles/23/11/01/spooky-halloween-deals-from-bh-photo-bring-1900-in-sweet-savings-to-your-trick-or-treat-bucket?utm_medium=rss)
- - [Google completes its switch to mobile-first indexing of Search, a process that began in November 2016, and plans to reduce use of its legacy desktop crawler &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/231031/p42#a231031p42)
- - [Best Android Tablet for 2023     - CNET](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hands on with the Apple TV app redesign in tvOS 17.2](https://appleinsider.com/articles/23/11/01/hands-on-with-the-apple-tv-app-redesign-in-tvos-172?utm_medium=rss)
+ - [What Biden&#39;s EO means for AI openness, and why a compute threshold is unlikely to effectively anticipate individual models&#39; riskiness, but may work in aggregate &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/231031/p43#a231031p43)
+ - [Spooky Halloween deals from B&amp;H Photo bring $1,900 in sweet savings to your trick or treat bucket](https://appleinsider.com/articles/23/11/01/spooky-halloween-deals-from-bh-photo-bring-1900-in-sweet-savings-to-your-trick-or-treat-bucket?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
