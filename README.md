@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: India authorizes 110 companies, including Apple, HP, Samsung, Xiaomi, and Lenovo, to import laptops, tablets, and PCs under its new tech import rules &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/231101/p18#a231101p18)
- - [Apple Arcade adds eight new games, including &#39;Sonic Dream Team&#39;](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)
- - [UE Epicboom review: an epic price for an ordinary speaker](https://www.theverge.com/23941028/ultimate-ears-epicboom-bluetooth-speaker-review)<!-- TECH:END -->
+ - [US v. Google offers a rare look at Google&#39;s 20 highest revenue queries for a week in September 2018: iPhone, insurance, cheap flights, online colleges, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231101/p20#a231101p20)
+ - [OneNote on Windows now has improved pen and ink gestures for drawing and writing](https://www.theverge.com/2023/11/1/23941806/onenote-windows-app-pen-ink-gestures-drawing-writing)
+ - [A few hidden gems to play after Super Mario and Spider-Man](https://www.theverge.com/23939189/october-2023-games-hidden-gem-cocoon-subpar-pool-jusant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
