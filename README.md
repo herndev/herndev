@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Nearly Pivoted To Dr. Doom After Kang Actor Legal Case](https://kotaku.com/marvel-doctor-doom-kang-jonathan-majors-1850981679)
- - [Gran Turismo 7 Update Adds Four-Player Splitscreen Mode](https://kotaku.com/gran-turismo-7-gt7-1-4-update-split-screen-new-cars-ps5-1850981590)
- - [My kingdom for Pottery Barn’s big Mushroom bean bag chair](https://www.polygon.com/deals/23942233/mario-nintendo-pillow-lights-pottery-barn-pb-teen)<!-- GAME:END -->
+ - [Disney Dreamlight Valley finally announces &#39;ValleyVerse&#39; multiplayer coming in December](https://www.pcgamer.com/disney-dreamlight-valley-finally-announces-valleyverse-multiplayer-coming-in-december)
+ - [A RoboCop lesson to remember for Rogue City: Shoot ’em in the dick](https://www.polygon.com/gaming/23941986/robocop-rogue-city-dickshots)
+ - [Diablo 4 guide and tips](https://www.polygon.com/diablo-4-guides/23933512/guide-tips-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
