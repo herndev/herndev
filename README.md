@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proud dad](http://9gag.com/gag/awZjvmR)
- - ⏩ [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - 💣 [Speaking from experience](http://9gag.com/gag/adPAbXB)
+ - ⏩ [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
  - 👉 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)<!-- MEMES:END -->
 
 ---
