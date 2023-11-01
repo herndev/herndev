@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [KarmaZoo: How a Unique Scoring System Unites Players](https://news.xbox.com/en-us/2023/11/01/karmazoo-how-a-unique-scoring-system-unites-players/)
- - [Yakuza-like Thirsty Suitors’ most radical act? Joy](https://www.polygon.com/reviews/23941250/thirsty-suitors-annapurna-impressions)
- - [PlayStation Plus subscribers get Aliens and Dragon Ball multiplayer games in November](https://www.polygon.com/23941949/playstation-plus-november-2023-free-games-ps4-ps5-essential)<!-- GAME:END -->
+ - [Build the Rally Car of Your Dreams in EA Sports WRC with EA Play](https://news.xbox.com/en-us/2023/11/01/play-wrc-with-ea-play/)
+ - [My search for the best wireless gaming earbuds is over — for now](https://www.polygon.com/reviews/23938336/sony-inzone-buds-ps5-pc-wireless-earbuds-gaming-review)
+ - [Everything we know about ‘Switch 2,’ Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
