@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - ⏩ [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 👉 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)<!-- MEMES:END -->
+ - 💣 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - ⏩ [There has to be more?????](http://9gag.com/gag/adPArnj)
+ - 👉 [Sophie Turner as Morticia Addams](http://9gag.com/gag/aBdzbWA)<!-- MEMES:END -->
 
 ---
 
