@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
- - ⏩ [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
- - 👉 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)<!-- MEMES:END -->
+ - 💣 [Sophie Turner as Morticia Addams](http://9gag.com/gag/aBdzbWA)
+ - ⏩ [This is a diamond Pepe, only appears when you really need him. Up vote and you will get a peaceful day.](http://9gag.com/gag/aeQzPZv)
+ - 👉 [Imagine climate soy boys knowing anything about anything](http://9gag.com/gag/aVbr4LK)<!-- MEMES:END -->
 
 ---
 
