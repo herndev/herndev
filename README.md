@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Grounded Make It and Break It Update Lets You Build a Whole New Game Yourself](https://news.xbox.com/en-us/2023/11/01/grounded-update-playgrounds-make-it-break-it/)
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in November 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
- - [Pokémon Go Giovanni counters, team line-up in November 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
+ - [KarmaZoo: How a Unique Scoring System Unites Players](https://news.xbox.com/en-us/2023/11/01/karmazoo-how-a-unique-scoring-system-unites-players/)
+ - [Yakuza-like Thirsty Suitors’ most radical act? Joy](https://www.polygon.com/reviews/23941250/thirsty-suitors-annapurna-impressions)
+ - [PlayStation Plus subscribers get Aliens and Dragon Ball multiplayer games in November](https://www.polygon.com/23941949/playstation-plus-november-2023-free-games-ps4-ps5-essential)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
