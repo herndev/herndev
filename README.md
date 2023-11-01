@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepMind says its latest AlphaFold model can generate predictions for nearly all molecules in the Protein Data Bank and for ligands, nucleic acids, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231031/p40#a231031p40)
- - [Leaker corroborates iPhone 16 capacitive capture button rumor](https://appleinsider.com/articles/23/10/31/leaker-corroborates-iphone-16-capacitive-capture-button-rumor?utm_medium=rss)
- - [Elon Musk’s ‘everything app’ plan for X, in his own words](https://www.theverge.com/23940924/elon-musk-x-twitter-all-hands-linda-yaccarino-super-app)<!-- TECH:END -->
+ - [Sources: Bungie cut ~100 jobs after executives said the company&#39;s revenue was 45% below projections for the year, citing a drop in Destiny 2&#39;s popularity &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231031/p41#a231031p41)
+ - [Pixel Tablet Deals: Save $100 On Google&#39;s Latest Tablet     - CNET](https://www.cnet.com/deals/best-pixel-tablet-deals/#ftag=CAD590a51e)
+ - [DeepMind says its latest AlphaFold model can generate predictions for nearly all molecules in the Protein Data Bank and for ligands, nucleic acids, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231031/p40#a231031p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
