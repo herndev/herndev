@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Día de Muertos 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/11/1/23941125/dia-de-muertos-2023-event-candy-cubone-duskull-crown)
  - [AMD&#39;s third quarter financial results show growth, but it&#39;ll be AI that determines its future trajectory](https://www.pcgamer.com/amds-third-quarter-financial-results-show-growth-but-itll-be-ai-that-determines-its-future-trajectory)
- - [Wordle today: Hint and answer #865 for Wednesday, November 1](https://www.pcgamer.com/wordle-today-answer-865-november-1)
- - [Bungie fans outraged as beloved Destiny composers and other veteran employees are put out of work](https://www.pcgamer.com/bungie-fans-outraged-as-beloved-destiny-composers-and-other-veteran-employees-are-put-out-of-work)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #865 for Wednesday, November 1](https://www.pcgamer.com/wordle-today-answer-865-november-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
