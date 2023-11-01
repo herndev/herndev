@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Build the Rally Car of Your Dreams in EA Sports WRC with EA Play](https://news.xbox.com/en-us/2023/11/01/play-wrc-with-ea-play/)
- - [My search for the best wireless gaming earbuds is over — for now](https://www.polygon.com/reviews/23938336/sony-inzone-buds-ps5-pc-wireless-earbuds-gaming-review)
- - [Everything we know about ‘Switch 2,’ Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)<!-- GAME:END -->
+ - [Remedy’s Return To Max Payne Is An Opportunity To Reinvent The Series](https://kotaku.com/max-payne-remake-remedy-alan-wake-control-1850981091)
+ - [Cities: Skylines 2 devs are investigating faster patches and a fix for the &#39;huge&#39; packs of abandoned feral dogs](https://www.pcgamer.com/cities-skylines-2-devs-are-investigating-faster-patches-and-a-fix-for-the-huge-packs-of-abandoned-feral-dogs)
+ - [Marvel Studios may bring back Iron Man, Black Widow for new Avengers flick](https://www.polygon.com/entertainment/23942085/marvel-studios-new-avengers-movie-resurrect-iron-man-black-widow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
