@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley finally announces &#39;ValleyVerse&#39; multiplayer coming in December](https://www.pcgamer.com/disney-dreamlight-valley-finally-announces-valleyverse-multiplayer-coming-in-december)
- - [A RoboCop lesson to remember for Rogue City: Shoot ’em in the dick](https://www.polygon.com/gaming/23941986/robocop-rogue-city-dickshots)
- - [Diablo 4 guide and tips](https://www.polygon.com/diablo-4-guides/23933512/guide-tips-locations)<!-- GAME:END -->
+ - [Some banned Twitch streamers can now apply for reinstatement](https://www.polygon.com/23942275/banned-twitch-streamers-reinstatement-appeal)
+ - [How to find and solve Nursery Rhymes in Alan Wake 2](https://www.polygon.com/guides/23935291/alan-wake-2-nursery-rhyme-locations-solutions)
+ - [Cult Stash locations and puzzle solutions in Alan Wake 2](https://www.polygon.com/guides/23933673/alan-wake-2-cult-stash-locations-puzzle-solutions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
