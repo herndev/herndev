@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with the Apple TV app redesign in tvOS 17.2](https://appleinsider.com/articles/23/11/01/hands-on-with-the-apple-tv-app-redesign-in-tvos-172?utm_medium=rss)
- - [What Biden&#39;s EO means for AI openness, and why a compute threshold is unlikely to effectively anticipate individual models&#39; riskiness, but may work in aggregate &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/231031/p43#a231031p43)
- - [Spooky Halloween deals from B&amp;H Photo bring $1,900 in sweet savings to your trick or treat bucket](https://appleinsider.com/articles/23/11/01/spooky-halloween-deals-from-bh-photo-bring-1900-in-sweet-savings-to-your-trick-or-treat-bucket?utm_medium=rss)<!-- TECH:END -->
+ - [Executives at Intel, TSMC, and Samsung say the global chip industry is bottoming out; IBS: the chip market is expected to grow in 2024 after shrinking in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p44#a231031p44)
+ - [YouTube confirms ad blocking crackdown is going global &lpar;Updated&rpar;](https://www.androidauthority.com/youtube-ad-blocker-crackdown-growing-3380809/)
+ - [Hands on with the Apple TV app redesign in tvOS 17.2](https://appleinsider.com/articles/23/11/01/hands-on-with-the-apple-tv-app-redesign-in-tvos-172?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
