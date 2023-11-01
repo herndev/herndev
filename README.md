@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After three hours of oral arguments, SCOTUS found no consensus on whether public officials can block social media critics, part of two First Amendment cases &lpar;Ann E. Marimow/Washington Post&rpar;](http://www.techmeme.com/231101/p9#a231101p9)
- - [A look back at testimony from Caroline Ellison, Gary Wang, and Nishad Singh and SBF&#39;s counterclaims, as the jury prepares to deliberate over who told the truth &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/231101/p8#a231101p8)
- - [X &lpar;Twitter&rpar; will soon let you pin hashtags to organize posts within Communities](https://www.androidauthority.com/x-twitter-pin-hashtags-within-communities-3381267/)<!-- TECH:END -->
+ - [Verizon’s Visible now supports eSIM on Android phones, including Pixels and Galaxies](https://www.androidauthority.com/visible-esim-android-3380583/)
+ - [Despite broad support by the US public and lawmakers for child internet laws, Congress has done nothing, even after holding 39 hearings on the topic since 2017 &lpar;Tim Wu/The Atlantic&rpar;](http://www.techmeme.com/231101/p12#a231101p12)
+ - [A new top 5 smartphone manufacturer is challenging Apple and Samsung](https://www.theverge.com/2023/11/1/23941587/transsion-tecno-itel-infinix-fifth-largest-smartphone-manufacturer-canalys-idc-omdia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
