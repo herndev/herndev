@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You’ll soon be able to make an Alternate Profile on WhatsApp](https://www.androidauthority.com/whatsapp-alternate-profile-feature-beta-3381170/)
  - [Ahead of the UK&#39;s AI summit, Chinese scientists warn of AI&#39;s &quot;existential risk to humanity&quot;; sources: the UK plans to announce South Korea as Summit&#39;s 2024 host &lpar;Financial Times&rpar;](http://www.techmeme.com/231101/p6#a231101p6)
- - [Riyadh-based BNPL startup Tabby raised a $200M Series D at a $1.5B valuation, bringing its total funding to over $950M; CEO Hosam Arab says Tabby is profitable &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231101/p5#a231101p5)
- - [OnePlus and Sony reveal ‘world-first’ camera sensor partnership for OnePlus 12](https://www.androidauthority.com/oneplus-12-sony-lytia-sensor-3381145/)<!-- TECH:END -->
+ - [Riyadh-based BNPL startup Tabby raised a $200M Series D at a $1.5B valuation, bringing its total funding to over $950M; CEO Hosam Arab says Tabby is profitable &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231101/p5#a231101p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
