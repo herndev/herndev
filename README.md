@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Día de Muertos 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/11/1/23941125/dia-de-muertos-2023-event-candy-cubone-duskull-crown)
- - [AMD&#39;s third quarter financial results show growth, but it&#39;ll be AI that determines its future trajectory](https://www.pcgamer.com/amds-third-quarter-financial-results-show-growth-but-itll-be-ai-that-determines-its-future-trajectory)
- - [Wordle today: Hint and answer #865 for Wednesday, November 1](https://www.pcgamer.com/wordle-today-answer-865-november-1)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare III hogs up to 213GB of storage space and doesn&#39;t care if you want to play other games](https://www.pcgamer.com/call-of-duty-modern-warfare-iii-hogs-up-to-213gb-of-storage-space-and-doesnt-care-if-you-want-to-play-other-games)
+ - [Lenovo launches the Legion Go and aims straight for the handheld PC crown](https://www.pcgamer.com/lenovo-launches-the-legion-go-and-aims-straight-for-the-handheld-pc-crown)
+ - [Pokémon Go Día de Muertos 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/11/1/23941125/dia-de-muertos-2023-event-candy-cubone-duskull-crown)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
