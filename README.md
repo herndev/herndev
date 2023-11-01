@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Bungie cut ~100 jobs after executives said the company&#39;s revenue was 45% below projections for the year, citing a drop in Destiny 2&#39;s popularity &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231031/p41#a231031p41)
- - [Pixel Tablet Deals: Save $100 On Google&#39;s Latest Tablet     - CNET](https://www.cnet.com/deals/best-pixel-tablet-deals/#ftag=CAD590a51e)
- - [DeepMind says its latest AlphaFold model can generate predictions for nearly all molecules in the Protein Data Bank and for ligands, nucleic acids, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231031/p40#a231031p40)<!-- TECH:END -->
+ - [Best Android Tablet for 2023     - CNET](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)
+ - [Save $200 on AppleCare for Apple&#39;s new M3 MacBook Pro 16-inch](https://appleinsider.com/articles/23/11/01/save-200-on-applecare-for-apples-new-m3-macbook-pro-16-inch?utm_medium=rss)
+ - [Best USB-C Monitor Deals: Save Up to $111 on Monitors From LG, Pixio and More     - CNET](https://www.cnet.com/deals/best-usb-c-monitor-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
