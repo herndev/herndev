@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - ⏩ [Save it and forget about it](http://9gag.com/gag/armErWp)
- - 👉 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)<!-- MEMES:END -->
+ - 💣 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
+ - ⏩ [Mariah Carey actually posted this herself just now](http://9gag.com/gag/axoK8ZD)
+ - 👉 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)<!-- MEMES:END -->
 
 ---
 
