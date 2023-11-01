@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music has quietly discontinued its $4.99/month Voice Plan, which was introduced in 2021 and let users access the Apple Music catalog exclusively via Siri &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/231101/p30#a231101p30)
- - [Apple quietly kills off Siri-only Apple Music Voice Plan](https://appleinsider.com/articles/23/11/01/apple-quietly-kills-off-siri-only-apple-music-voice-plan?utm_medium=rss)
- - [CRM platform HubSpot announces it&#39;s acquiring the B2B data provider Clearbit, which has 400K+ users and was valued at $250M as of January 2019, per PitchBook &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231101/p29#a231101p29)<!-- TECH:END -->
+ - [Honda Motocompacto First Look &lpar;2023&rpar;: Specs, Price, Release Date](https://www.wired.com/story/honda-motocompacto/)
+ - [Disney is about to own all of Hulu](https://www.theverge.com/2023/11/1/23875523/disney-comcast-hulu-stake-sale)
+ - [Disney plans to acquire the 33% stake in Hulu held by Comcast&#39;s NBCUniversal, giving Disney full ownership; Disney expects to pay NBCU ~$8.61B by December 1 &lpar;The Walt Disney Company&rpar;](http://www.techmeme.com/231101/p35#a231101p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
