@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mmmhhh 🤔](https://www.reddit.com/r/funny/comments/17lh03k/mmmhhh/)
- - ⏩ [Shout out to all the Dad&#39;s out there](https://www.reddit.com/r/funny/comments/17lgk2v/shout_out_to_all_the_dads_out_there/)
- - 👉 [I changed my mind!](https://www.reddit.com/r/funny/comments/17lga89/i_changed_my_mind/)<!-- MEMES:END -->
+ - 💣 [Talking to my younger self at a hotel at the edge of time.](https://www.reddit.com/r/funny/comments/17li5c4/talking_to_my_younger_self_at_a_hotel_at_the_edge/)
+ - ⏩ [Who else sees it? LoL](https://www.reddit.com/r/memes/comments/17lhbgw/who_else_sees_it_lol/)
+ - 👉 [Shout out to all the Dad&#39;s out there](https://www.reddit.com/r/funny/comments/17lgk2v/shout_out_to_all_the_dads_out_there/)<!-- MEMES:END -->
 
 ---
 
