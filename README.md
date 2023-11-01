@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
- - ⏩ [Mariah Carey actually posted this herself just now](http://9gag.com/gag/axoK8ZD)
- - 👉 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)<!-- MEMES:END -->
+ - 💣 [Rules are rules buddy.](https://www.reddit.com/r/memes/comments/17l9b97/rules_are_rules_buddy/)
+ - ⏩ [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
+ - 👉 [Mariah Carey actually posted this herself just now](http://9gag.com/gag/axoK8ZD)<!-- MEMES:END -->
 
 ---
 
