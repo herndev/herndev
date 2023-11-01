@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
- - ⏩ [There has to be more?????](http://9gag.com/gag/adPArnj)
- - 👉 [Sophie Turner as Morticia Addams](http://9gag.com/gag/aBdzbWA)<!-- MEMES:END -->
+ - 💣 [There has to be more?????](http://9gag.com/gag/adPArnj)
+ - ⏩ [This is a diamond Pepe, only appears when you really need him. Up vote and you will get a peaceful day.](http://9gag.com/gag/aeQzPZv)
+ - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 
 ---
 
