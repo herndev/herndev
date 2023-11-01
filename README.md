@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WarioWare: Move It! is a twist on one of the best WarioWare games ever made](https://www.polygon.com/reviews/23940843/warioware-move-it-review-nintendo-switch)
- - [Cities: Skylines 2&#39;s editor tools look better than the original&#39;s, but they still don&#39;t have a release date](https://www.pcgamer.com/cities-skylines-2s-editor-tools-look-better-than-the-originals-but-they-still-dont-have-a-release-date)
- - [It&#39;s time for Creative Assembly to make a sequel to Total War: Empire, its messiest and most ambitious game](https://www.pcgamer.com/its-time-for-creative-assembly-to-make-a-sequel-to-total-war-empire-its-messiest-and-most-ambitious-game)<!-- GAME:END -->
+ - [The New Grounded Make It and Break It Update Lets You Build a Whole New Game Yourself](https://news.xbox.com/en-us/2023/11/01/grounded-update-playgrounds-make-it-break-it/)
+ - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in November 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
+ - [Pokémon Go Giovanni counters, team line-up in November 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
