@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I changed my mind!](https://www.reddit.com/r/funny/comments/17lga89/i_changed_my_mind/)
- - ⏩ [Keeps getting funnier with each fall.](https://www.reddit.com/r/funny/comments/17lf81x/keeps_getting_funnier_with_each_fall/)
- - 👉 [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)<!-- MEMES:END -->
+ - 💣 [Mmmhhh 🤔](https://www.reddit.com/r/funny/comments/17lh03k/mmmhhh/)
+ - ⏩ [Shout out to all the Dad&#39;s out there](https://www.reddit.com/r/funny/comments/17lgk2v/shout_out_to_all_the_dads_out_there/)
+ - 👉 [I changed my mind!](https://www.reddit.com/r/funny/comments/17lga89/i_changed_my_mind/)<!-- MEMES:END -->
 
 ---
 
