@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remedy’s Return To Max Payne Is An Opportunity To Reinvent The Series](https://kotaku.com/max-payne-remake-remedy-alan-wake-control-1850981091)
- - [Cities: Skylines 2 devs are investigating faster patches and a fix for the &#39;huge&#39; packs of abandoned feral dogs](https://www.pcgamer.com/cities-skylines-2-devs-are-investigating-faster-patches-and-a-fix-for-the-huge-packs-of-abandoned-feral-dogs)
- - [Marvel Studios may bring back Iron Man, Black Widow for new Avengers flick](https://www.polygon.com/entertainment/23942085/marvel-studios-new-avengers-movie-resurrect-iron-man-black-widow)<!-- GAME:END -->
+ - [Marvel Nearly Pivoted To Dr. Doom After Kang Actor Legal Case](https://kotaku.com/marvel-doctor-doom-kang-jonathan-majors-1850981679)
+ - [Gran Turismo 7 Update Adds Four-Player Splitscreen Mode](https://kotaku.com/gran-turismo-7-gt7-1-4-update-split-screen-new-cars-ps5-1850981590)
+ - [My kingdom for Pottery Barn’s big Mushroom bean bag chair](https://www.polygon.com/deals/23942233/mario-nintendo-pillow-lights-pottery-barn-pb-teen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
