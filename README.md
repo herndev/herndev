@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie fans outraged as beloved Destiny composers and other veteran employees are put out of work](https://www.pcgamer.com/bungie-fans-outraged-as-beloved-destiny-composers-and-other-veteran-employees-are-put-out-of-work)
- - [Megan Thee Stallion’s Halloween cosplay shows off peak anime taste](https://www.polygon.com/23940797/megan-thee-stallion-halloween-cosplay-anime-taste-death-the-kid)
- - [Xbox Insider Release Notes – Alpha &lpar;2311.231030-2200&rpar;](https://news.xbox.com/en-us/2023/10/31/xbox-insider-release-notes-alpha-2311-231030-2200/)<!-- GAME:END -->
+ - [AMD&#39;s third quarter financial results show growth, but it&#39;ll be AI that determines its future trajectory](https://www.pcgamer.com/amds-third-quarter-financial-results-show-growth-but-itll-be-ai-that-determines-its-future-trajectory)
+ - [Wordle today: Hint and answer #865 for Wednesday, November 1](https://www.pcgamer.com/wordle-today-answer-865-november-1)
+ - [Bungie fans outraged as beloved Destiny composers and other veteran employees are put out of work](https://www.pcgamer.com/bungie-fans-outraged-as-beloved-destiny-composers-and-other-veteran-employees-are-put-out-of-work)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
