@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worldcoin&#39;s Tools for Humanity says its World App wallet has crossed 4M+ downloads, 100K+ DAUs, 1M+ MAUs, and 22M transactions since its launch in May 2023 &lpar;Worldcoin&rpar;](http://www.techmeme.com/231101/p27#a231101p27)
- - [This Windows 11 Pro deal is the best yet at just $24.97](https://www.androidauthority.com/windows-11-pro-deals-3381435/)
- - [Sources: Binance plans to end its partnership with payments firm Advcash that let customers move funds held at sanctioned Russian banks to the crypto exchange &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231101/p26#a231101p26)<!-- TECH:END -->
+ - [Apple Music has quietly discontinued its $4.99/month Voice Plan, which was introduced in 2021 and let users access the Apple Music catalog exclusively via Siri &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/231101/p30#a231101p30)
+ - [Apple quietly kills off Siri-only Apple Music Voice Plan](https://appleinsider.com/articles/23/11/01/apple-quietly-kills-off-siri-only-apple-music-voice-plan?utm_medium=rss)
+ - [CRM platform HubSpot announces it&#39;s acquiring the B2B data provider Clearbit, which has 400K+ users and was valued at $250M as of January 2019, per PitchBook &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231101/p29#a231101p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
