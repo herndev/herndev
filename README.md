@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - ⏩ [Amateur.](http://9gag.com/gag/a4ogr9y)
- - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
+ - 💣 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
+ - ⏩ [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
+ - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
 
 ---
 
