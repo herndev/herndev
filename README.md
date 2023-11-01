@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s Visible now supports eSIM on Android phones, including Pixels and Galaxies](https://www.androidauthority.com/visible-esim-android-3380583/)
- - [Despite broad support by the US public and lawmakers for child internet laws, Congress has done nothing, even after holding 39 hearings on the topic since 2017 &lpar;Tim Wu/The Atlantic&rpar;](http://www.techmeme.com/231101/p12#a231101p12)
- - [A new top 5 smartphone manufacturer is challenging Apple and Samsung](https://www.theverge.com/2023/11/1/23941587/transsion-tecno-itel-infinix-fifth-largest-smartphone-manufacturer-canalys-idc-omdia)<!-- TECH:END -->
+ - [This giant Duracell battery is an absolutely packed portable charging station](https://www.theverge.com/2023/11/1/23941447/duracell-m150-portable-power-station)
+ - [Sources: Apple plans several new health features for 2024&#39;s Apple Watch, like an elevated blood pressure sensor, and a paid health service, possibly using AI &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231101/p14#a231101p14)
+ - [Wedbush says Apple&#39;s earnings won&#39;t be dented by falling China demand](https://appleinsider.com/articles/23/11/01/wedbush-says-apples-earnings-wont-be-dented-by-falling-china-demand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
