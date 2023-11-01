@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Executives at Intel, TSMC, and Samsung say the global chip industry is bottoming out; IBS: the chip market is expected to grow in 2024 after shrinking in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p44#a231031p44)
- - [YouTube confirms ad blocking crackdown is going global &lpar;Updated&rpar;](https://www.androidauthority.com/youtube-ad-blocker-crackdown-growing-3380809/)
- - [Hands on with the Apple TV app redesign in tvOS 17.2](https://appleinsider.com/articles/23/11/01/hands-on-with-the-apple-tv-app-redesign-in-tvos-172?utm_medium=rss)<!-- TECH:END -->
+ - [Best Buy cuts M3 MacBook prices by $100, includes AppleCare for Total members](https://appleinsider.com/articles/23/11/01/best-buy-cuts-m3-macbook-prices-by-100-includes-applecare-for-total-members?utm_medium=rss)
+ - [Check Point details a monthslong espionage campaign by Iranian hackers targeting countries, including Israel, underscoring Iran&#39;s improved hacking capabilities &lpar;New York Times&rpar;](http://www.techmeme.com/231101/p2#a231101p2)
+ - [Google, Temasek, and Bain report: Southeast Asia online spending will rise ~11% in 2023 to $218B, down from 20% in 2022, slowing to its lowest rate since 2017 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231101/p1#a231101p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
