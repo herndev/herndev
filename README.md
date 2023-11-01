@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Double everything](https://www.reddit.com/r/memes/comments/17ldrgv/double_everything/)
- - ⏩ [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)
- - 👉 [Ouroboros](https://www.reddit.com/r/funny/comments/17ld7th/ouroboros/)<!-- MEMES:END -->
+ - 💣 [I changed my mind!](https://www.reddit.com/r/funny/comments/17lga89/i_changed_my_mind/)
+ - ⏩ [Keeps getting funnier with each fall.](https://www.reddit.com/r/funny/comments/17lf81x/keeps_getting_funnier_with_each_fall/)
+ - 👉 [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)<!-- MEMES:END -->
 
 ---
 
