@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire: The Masquerade – Bloodlines 2 seeks to take inspiration from Baldur&#39;s Gate 3&#39;s narrative design, as well as its tabletop roots](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-seeks-to-take-inspiration-from-baldurs-gate-3s-narrative-design-as-well-as-its-tabletop-roots)
- - [Where to find the Training Dummy in Diablo 4](https://www.pcgamer.com/diablo-4-training-dummy-location)
- - [Forget the musical numbers and tense battles against evil—the coolest thing in Alan Wake 2 is pinning bits of paper to a wall](https://www.pcgamer.com/forget-the-musical-numbers-and-tense-battles-against-evilthe-coolest-thing-in-alan-wake-2-is-pinning-bits-of-paper-to-a-wall)<!-- GAME:END -->
+ - [WarioWare: Move It! is a twist on one of the best WarioWare games ever made](https://www.polygon.com/reviews/23940843/warioware-move-it-review-nintendo-switch)
+ - [Cities: Skylines 2&#39;s editor tools look better than the original&#39;s, but they still don&#39;t have a release date](https://www.pcgamer.com/cities-skylines-2s-editor-tools-look-better-than-the-originals-but-they-still-dont-have-a-release-date)
+ - [It&#39;s time for Creative Assembly to make a sequel to Total War: Empire, its messiest and most ambitious game](https://www.pcgamer.com/its-time-for-creative-assembly-to-make-a-sequel-to-total-war-empire-its-messiest-and-most-ambitious-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
