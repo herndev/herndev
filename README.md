@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This giant Duracell battery is an absolutely packed portable charging station](https://www.theverge.com/2023/11/1/23941447/duracell-m150-portable-power-station)
- - [Sources: Apple plans several new health features for 2024&#39;s Apple Watch, like an elevated blood pressure sensor, and a paid health service, possibly using AI &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231101/p14#a231101p14)
- - [Wedbush says Apple&#39;s earnings won&#39;t be dented by falling China demand](https://appleinsider.com/articles/23/11/01/wedbush-says-apples-earnings-wont-be-dented-by-falling-china-demand?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: India authorizes 110 companies, including Apple, HP, Samsung, Xiaomi, and Lenovo, to import laptops, tablets, and PCs under its new tech import rules &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/231101/p18#a231101p18)
+ - [Apple Arcade adds eight new games, including &#39;Sonic Dream Team&#39;](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)
+ - [UE Epicboom review: an epic price for an ordinary speaker](https://www.theverge.com/23941028/ultimate-ears-epicboom-bluetooth-speaker-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
