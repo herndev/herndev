@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goodbye bird](http://9gag.com/gag/aME70rX)
- - ⏩ [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)
- - 👉 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)<!-- MEMES:END -->
+ - 💣 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
+ - ⏩ [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - 👉 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)<!-- MEMES:END -->
 
 ---
 
