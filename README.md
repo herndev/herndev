@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bungie fans outraged as beloved Destiny composers and other veteran employees are put out of work](https://www.pcgamer.com/bungie-fans-outraged-as-beloved-destiny-composers-and-other-veteran-employees-are-put-out-of-work)
  - [Megan Thee Stallion’s Halloween cosplay shows off peak anime taste](https://www.polygon.com/23940797/megan-thee-stallion-halloween-cosplay-anime-taste-death-the-kid)
- - [Xbox Insider Release Notes – Alpha &lpar;2311.231030-2200&rpar;](https://news.xbox.com/en-us/2023/10/31/xbox-insider-release-notes-alpha-2311-231030-2200/)
- - [Overwatch 2’s Latest Patch Is Nerfing The Support Heroes](https://kotaku.com/overwatch-2-season-7-k-pop-le-sserafim-new-patch-notes-1850978195)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2311.231030-2200&rpar;](https://news.xbox.com/en-us/2023/10/31/xbox-insider-release-notes-alpha-2311-231030-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
