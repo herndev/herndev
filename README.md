@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sofia Coppola says Apple canned her Edith Wharton series  over &#39;unlikable&#39; lead](https://appleinsider.com/articles/23/11/01/sofia-coppola-says-apple-canned-her-edith-wharton-series-over-unlikable-lead?utm_medium=rss)
- - [Apple was this close to releasing an Apple Watch for Android](https://www.androidauthority.com/apple-watch-for-android-3381365/)
- - [Catch the first $100 price drop on the Samsung Galaxy S23 FE](https://www.androidauthority.com/samsung-galaxy-s23-fe-deal-3381368/)<!-- TECH:END -->
+ - [Apple just can’t stop the costly ‘batterygate’ from coming back to haunt it](https://www.androidauthority.com/apple-batterygate-uk-lawsuit-3381390/)
+ - [Benchmarks confirm Apple&#39;s performance claims for the new series of M3 chips](https://appleinsider.com/articles/23/11/01/benchmarks-confirm-apples-performance-claims-for-the-new-series-of-m3-chips?utm_medium=rss)
+ - [Apple Watch Series 10 could come with BP and sleep apnea monitoring](https://www.androidauthority.com/apple-watch-series-10-sensors-3381355/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
