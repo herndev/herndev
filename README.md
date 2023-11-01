@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple just can’t stop the costly ‘batterygate’ from coming back to haunt it](https://www.androidauthority.com/apple-batterygate-uk-lawsuit-3381390/)
- - [Benchmarks confirm Apple&#39;s performance claims for the new series of M3 chips](https://appleinsider.com/articles/23/11/01/benchmarks-confirm-apples-performance-claims-for-the-new-series-of-m3-chips?utm_medium=rss)
- - [Apple Watch Series 10 could come with BP and sleep apnea monitoring](https://www.androidauthority.com/apple-watch-series-10-sensors-3381355/)<!-- TECH:END -->
+ - [Microsoft’s new AI-powered Office assistant is here — if you’ve got $9,000 and 300 friends](https://www.theverge.com/2023/11/1/23942155/microsoft-365-copilot-ai-office-documents-launch-business-enterprise-pricing-release-date)
+ - [Netflix will become the first streamer to offer downloads to ad-tier subscribers](https://www.androidauthority.com/netflix-ad-tier-downloads-3381394/)
+ - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
