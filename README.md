@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data: African startups raised only $1.3B in the first nine months of 2023, below the $3.3B and $2.9B raised over the same period in 2022 and 2021, respectively &lpar;Sultan Quadri/Rest of World&rpar;](http://www.techmeme.com/231101/p7#a231101p7)
- - [November SSI Payments Are Coming. Here&#39;s When to Expect Them     - CNET](https://www.cnet.com/personal-finance/october-ssi-payments-are-coming-heres-when-to-expect-it/#ftag=CAD590a51e)
- - [You’ll soon be able to make an Alternate Profile on WhatsApp](https://www.androidauthority.com/whatsapp-alternate-profile-feature-beta-3381170/)<!-- TECH:END -->
+ - [After three hours of oral arguments, SCOTUS found no consensus on whether public officials can block social media critics, part of two First Amendment cases &lpar;Ann E. Marimow/Washington Post&rpar;](http://www.techmeme.com/231101/p9#a231101p9)
+ - [A look back at testimony from Caroline Ellison, Gary Wang, and Nishad Singh and SBF&#39;s counterclaims, as the jury prepares to deliberate over who told the truth &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/231101/p8#a231101p8)
+ - [X &lpar;Twitter&rpar; will soon let you pin hashtags to organize posts within Communities](https://www.androidauthority.com/x-twitter-pin-hashtags-within-communities-3381267/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
