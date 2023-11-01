@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new AI-powered Office assistant is here — if you’ve got $9,000 and 300 friends](https://www.theverge.com/2023/11/1/23942155/microsoft-365-copilot-ai-office-documents-launch-business-enterprise-pricing-release-date)
- - [Netflix will become the first streamer to offer downloads to ad-tier subscribers](https://www.androidauthority.com/netflix-ad-tier-downloads-3381394/)
- - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)<!-- TECH:END -->
+ - [Worldcoin&#39;s Tools for Humanity says its World App wallet has crossed 4M+ downloads, 100K+ DAUs, 1M+ MAUs, and 22M transactions since its launch in May 2023 &lpar;Worldcoin&rpar;](http://www.techmeme.com/231101/p27#a231101p27)
+ - [This Windows 11 Pro deal is the best yet at just $24.97](https://www.androidauthority.com/windows-11-pro-deals-3381435/)
+ - [Sources: Binance plans to end its partnership with payments firm Advcash that let customers move funds held at sanctioned Russian banks to the crypto exchange &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231101/p26#a231101p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
