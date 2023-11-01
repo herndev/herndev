@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google offers a rare look at Google&#39;s 20 highest revenue queries for a week in September 2018: iPhone, insurance, cheap flights, online colleges, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231101/p20#a231101p20)
- - [OneNote on Windows now has improved pen and ink gestures for drawing and writing](https://www.theverge.com/2023/11/1/23941806/onenote-windows-app-pen-ink-gestures-drawing-writing)
- - [A few hidden gems to play after Super Mario and Spider-Man](https://www.theverge.com/23939189/october-2023-games-hidden-gem-cocoon-subpar-pool-jusant)<!-- TECH:END -->
+ - [Sofia Coppola says Apple canned her Edith Wharton series  over &#39;unlikable&#39; lead](https://appleinsider.com/articles/23/11/01/sofia-coppola-says-apple-canned-her-edith-wharton-series-over-unlikable-lead?utm_medium=rss)
+ - [Apple was this close to releasing an Apple Watch for Android](https://www.androidauthority.com/apple-watch-for-android-3381365/)
+ - [Catch the first $100 price drop on the Samsung Galaxy S23 FE](https://www.androidauthority.com/samsung-galaxy-s23-fe-deal-3381368/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
