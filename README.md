@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rules are rules buddy.](https://www.reddit.com/r/memes/comments/17l9b97/rules_are_rules_buddy/)
- - ⏩ [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
- - 👉 [Mariah Carey actually posted this herself just now](http://9gag.com/gag/axoK8ZD)<!-- MEMES:END -->
+ - 💣 [Welcome to America](https://www.reddit.com/r/memes/comments/17lat3k/welcome_to_america/)
+ - ⏩ [Can&#39;t even have a decent meal in peace!](https://www.reddit.com/r/memes/comments/17lanmg/cant_even_have_a_decent_meal_in_peace/)
+ - 👉 [🦸‍♂️ Iron-Deficiency Man](https://www.reddit.com/r/funny/comments/17la018/irondeficiency_man/)<!-- MEMES:END -->
 
 ---
 
