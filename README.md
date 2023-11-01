@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)
- - ⏩ [R_I_P THE economy](https://www.reddit.com/r/memes/comments/17lc1jd/r_i_p_the_economy/)
- - 👉 [Man has talent](https://www.reddit.com/r/funny/comments/17lbwno/man_has_talent/)<!-- MEMES:END -->
+ - 💣 [Double everything](https://www.reddit.com/r/memes/comments/17ldrgv/double_everything/)
+ - ⏩ [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)
+ - 👉 [Ouroboros](https://www.reddit.com/r/funny/comments/17ld7th/ouroboros/)<!-- MEMES:END -->
 
 ---
 
