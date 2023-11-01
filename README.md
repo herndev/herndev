@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda Motocompacto First Look &lpar;2023&rpar;: Specs, Price, Release Date](https://www.wired.com/story/honda-motocompacto/)
- - [Disney is about to own all of Hulu](https://www.theverge.com/2023/11/1/23875523/disney-comcast-hulu-stake-sale)
- - [Disney plans to acquire the 33% stake in Hulu held by Comcast&#39;s NBCUniversal, giving Disney full ownership; Disney expects to pay NBCU ~$8.61B by December 1 &lpar;The Walt Disney Company&rpar;](http://www.techmeme.com/231101/p35#a231101p35)<!-- TECH:END -->
+ - [Here’s our first look at what the OnePlus 12’s cameras can do](https://www.androidauthority.com/oneplus-12-photos-3381485/)
+ - [Apple quietly kills off Siri-only Apple Music Voice Plan](https://appleinsider.com/articles/23/11/01/apple-quietly-kills-off-siri-only-apple-music-voice-plan?utm_medium=rss)
+ - [PayPal reports Q3 revenue up 9% YoY to $7.4B, vs. $7.38B est., total payment volume up 13% YoY to $387.7B, vs. $377.9B, and forecasts FY 2023 profit above est. &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/231101/p37#a231101p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
