@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
- - ⏩ [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
- - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
+ - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - ⏩ [Save it and forget about it](http://9gag.com/gag/armErWp)
+ - 👉 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)<!-- MEMES:END -->
 
 ---
 
