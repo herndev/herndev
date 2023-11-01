@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some banned Twitch streamers can now apply for reinstatement](https://www.polygon.com/23942275/banned-twitch-streamers-reinstatement-appeal)
- - [How to find and solve Nursery Rhymes in Alan Wake 2](https://www.polygon.com/guides/23935291/alan-wake-2-nursery-rhyme-locations-solutions)
- - [Cult Stash locations and puzzle solutions in Alan Wake 2](https://www.polygon.com/guides/23933673/alan-wake-2-cult-stash-locations-puzzle-solutions)<!-- GAME:END -->
+ - [When does Fortnite OG Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)
+ - [Everything Announced During Disney Dreamlight Valley&#39;s Showcase Event](https://kotaku.com/disney-dreamlight-valley-showcase-multiplayer-update-1850982970)
+ - [Of the 12 biggest survival games I was looking forward to this year, 6 have been delayed to 2024](https://www.pcgamer.com/of-the-12-biggest-survival-games-i-was-looking-forward-to-this-year-6-have-been-delayed-to-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
