@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare III hogs up to 213GB of storage space and doesn&#39;t care if you want to play other games](https://www.pcgamer.com/call-of-duty-modern-warfare-iii-hogs-up-to-213gb-of-storage-space-and-doesnt-care-if-you-want-to-play-other-games)
- - [Lenovo launches the Legion Go and aims straight for the handheld PC crown](https://www.pcgamer.com/lenovo-launches-the-legion-go-and-aims-straight-for-the-handheld-pc-crown)
- - [Pokémon Go Día de Muertos 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/11/1/23941125/dia-de-muertos-2023-event-candy-cubone-duskull-crown)<!-- GAME:END -->
+ - [Vampire: The Masquerade – Bloodlines 2 seeks to take inspiration from Baldur&#39;s Gate 3&#39;s narrative design, as well as its tabletop roots](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-seeks-to-take-inspiration-from-baldurs-gate-3s-narrative-design-as-well-as-its-tabletop-roots)
+ - [Where to find the Training Dummy in Diablo 4](https://www.pcgamer.com/diablo-4-training-dummy-location)
+ - [Forget the musical numbers and tense battles against evil—the coolest thing in Alan Wake 2 is pinning bits of paper to a wall](https://www.pcgamer.com/forget-the-musical-numbers-and-tense-battles-against-evilthe-coolest-thing-in-alan-wake-2-is-pinning-bits-of-paper-to-a-wall)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
