@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Speaking from experience](http://9gag.com/gag/adPAbXB)
- - ⏩ [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
- - 👉 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)<!-- MEMES:END -->
+ - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - ⏩ [Amateur.](http://9gag.com/gag/a4ogr9y)
+ - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
 
 ---
 
