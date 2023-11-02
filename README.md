@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)
- - ⏩ [Wuttt?](http://9gag.com/gag/aoKow9n)
- - 👉 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)<!-- MEMES:END -->
+ - 💣 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
+ - ⏩ [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
+ - 👉 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)<!-- MEMES:END -->
 
 ---
 
