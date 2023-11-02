@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-generated nudes of female students at a high school in New Jersey, shared by male students in a group chat, cause major concern among parents and teachers &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/231102/p14#a231102p14)
- - [Shopify reports Q3 revenue up 25% YoY to $1.71B, beating $1.68B est., a $56.2B GMV, beating $54.42B est., and expects ~25% 2023 revenue growth; SHOP jumps 18%+ &lpar;Ilya Banares/Bloomberg&rpar;](http://www.techmeme.com/231102/p13#a231102p13)
- - [Renewable Energy Certificates: How You Can Prove How Green You Are     - CNET](https://www.cnet.com/home/energy-and-utilities/renewable-energy-certificates-how-anyone-can-enter-the-green-energy-market/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon plans to roll out a BNPL checkout option for Amazon Business users by November 24 via its Affirm partnership, with loans ranging from $100 to $20,000 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/231102/p17#a231102p17)
+ - [Apple&#39;s M3 series shows a return to simple, consumer-friendly marketing; producing three distinct M3 chips likely has to be close to $1B in tape-out costs &lpar;Jay Goldberg/Digits to Dollars&rpar;](http://www.techmeme.com/231102/p16#a231102p16)
+ - [The Xbox Elite Series 2 is on sale for a new low price](https://www.theverge.com/2023/11/2/23942676/microsoft-elite-controller-series-2-grid-studio-iphone-ipod-gameboy-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
