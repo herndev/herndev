@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a security incident at Okta&#39;s healthcare coverage provider Rightway, Okta warns around 5,000 employees that hackers may have accessed their personal info &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231102/p18#a231102p18)
- - [Verizon is offering a free iPhone 15 Pro when you trade-in any iPhone](https://www.androidauthority.com/verizon-iphone-15-pro-deal-3381504/)
- - [Pokémon Scarlet and Violet’s second DLC arrives this December](https://www.theverge.com/2023/11/2/23943344/pokemon-scarlet-violet-indigo-disk-release-date-december)<!-- TECH:END -->
+ - [Brave responds to Bing and ChatGPT with a new ‘anonymous and secure’ AI chatbot](https://www.theverge.com/2023/11/2/23943193/brave-leo-ai-assistant-chatbot-release-date-price)
+ - [Nomad’s new iPad folios bring back the leather touch](https://www.theverge.com/2023/11/2/23942410/nomad-leather-folio-plus-ipad-case-price-specs-features)
+ - [US v. Google: Apple said &quot;Android is a massive tracking device&quot; and detailed its privacy stance in a 2013 internal presentation sent from Eddy Cue to Tim Cook &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/231102/p22#a231102p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
