@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
- - ⏩ [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
- - 👉 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)<!-- MEMES:END -->
+ - 💣 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
+ - ⏩ [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
+ - 👉 [They are among us and they are taking our women.](http://9gag.com/gag/ajVvv3p)<!-- MEMES:END -->
 
 ---
 
