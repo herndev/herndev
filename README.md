@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is increasing Premium prices in multiple countries, right after an ad-blocker crackdown](https://www.androidauthority.com/youtube-premium-global-price-increase-3381637/)
- - [Boeing investigates a cyber incident that impacted its parts and distribution business, days after LockBit announced stealing &quot;a tremendous amount&quot; of data &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p5#a231102p5)
- - [All the games coming to Nintendo Switch Online in November](https://www.androidauthority.com/upcoming-nintendo-switch-online-games-3381072/)<!-- TECH:END -->
+ - [Apple Watch may get noninvasive diabetes monitoring, but not for diabetic people](https://www.androidauthority.com/apple-watch-diabetes-monitoring-3381662/)
+ - [Will Trent season 2: Plot, release window, and more](https://www.androidauthority.com/will-trent-season-2-release-date-3378181/)
+ - [US v. SBF: in closing statements, the US relied heavily on evidence to argue SBF is guilty and said he was &quot;greedy&quot; while SBF&#39;s defense only made things worse &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231102/p7#a231102p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
