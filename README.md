@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Headbangers Rhythm Royale is Available Day One with Game Pass](https://news.xbox.com/en-us/2023/11/02/headbangers-rhythm-royale-is-available-day-one-with-game-pass/)
- - [Taylor Lautner simply can’t stop backflipping at Taylor Swift’s events](https://www.polygon.com/23943739/taylor-lautner-taylor-swift-music-video-eras-backflip)
- - [How to get Bronze in Return to Moria](https://www.polygon.com/guides/23943653/return-to-moria-bronze-copper-tin-ore)<!-- GAME:END -->
+ - [Cult Stash locations and puzzle solutions in Alan Wake 2](https://www.polygon.com/guides/23933673/alan-wake-2-cult-stash-locations-puzzle-solutions)
+ - [How to find and solve Nursery Rhymes in Alan Wake 2](https://www.polygon.com/guides/23935291/alan-wake-2-nursery-rhyme-locations-solutions)
+ - [Payday 3&#39;s long-overdue first patch is live: &#39;We’re finally up and running as things should be&#39;](https://www.pcgamer.com/payday-3s-long-overdue-first-patch-is-live-were-finally-up-and-running-as-things-should-be)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
