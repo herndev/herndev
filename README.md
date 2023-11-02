@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore the Fearless Art of the Le Sserafim x Overwatch 2 Collaboration](https://news.xbox.com/en-us/2023/11/02/art-of-the-le-sserafim-overwatch-2-collaboration/)
- - [In Molly House, players compete for queer joy against a backdrop of hate in 18th-century England](https://www.polygon.com/tabletop-games/23935237/molly-house-cole-wehrle-zenobia-award-crowdfunding-campaign)
- - [Hey, you can be a landlord in the new Sims 4 expansion pack](https://www.polygon.com/23943514/the-sims-4-for-rent-trailer-release-date)<!-- GAME:END -->
+ - [GameStop Keeps Finding New Ways To Rip People Off](https://kotaku.com/gamestop-gme-warranty-pre-order-rewards-1850985477)
+ - [The Invincible review](https://www.pcgamer.com/the-invincible-review)
+ - [Kingdom of the Planet of the Apes finally lets the apes take over the world](https://www.polygon.com/23943547/kingdom-of-the-planet-of-the-apes-trailer-release-date-cast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
