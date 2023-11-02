@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Keeps Finding New Ways To Rip People Off](https://kotaku.com/gamestop-gme-warranty-pre-order-rewards-1850985477)
- - [The Invincible review](https://www.pcgamer.com/the-invincible-review)
- - [Kingdom of the Planet of the Apes finally lets the apes take over the world](https://www.polygon.com/23943547/kingdom-of-the-planet-of-the-apes-trailer-release-date-cast)<!-- GAME:END -->
+ - [Modern Warfare III’s Ambitious New Campaign Mode Lets You Play How You Want](https://news.xbox.com/en-us/2023/11/02/modern-warfare-3-ambitious-new-campaign-mode/)
+ - [Xbox Insider Release Notes – Beta &lpar;2311.231030-2200&rpar;](https://news.xbox.com/en-us/2023/11/02/xbox-insider-release-notes-beta-2311-231030-2200/)
+ - [Robert Pattinson is an angry bird in the English trailer for Hayao Miyazaki’s new film](https://www.polygon.com/23943662/boy-and-the-heron-english-language-trailer-hayao-miyazaki-robert-pattinson)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
