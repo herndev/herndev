@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
- - ⏩ [Still would...buy It of course](http://9gag.com/gag/amAQQXy)
+ - 💣 [Still would...buy It of course](http://9gag.com/gag/amAQQXy)
+ - ⏩ [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
  - 👉 [Probably going to trigger a few folk here.](http://9gag.com/gag/awZjjX1)<!-- MEMES:END -->
 
 ---
