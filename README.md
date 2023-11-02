@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)
- - ⏩ [A grieving woman in Gaza lost her loved ones and says: `All of this is because of the dogs of Hamas.\u201d She was forcefully silened, and her face were blurred.](http://9gag.com/gag/az2y3rp)
- - 👉 [Banana Peel](http://9gag.com/gag/aNwMMzA)<!-- MEMES:END -->
+ - 💣 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
+ - ⏩ [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
+ - 👉 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)<!-- MEMES:END -->
 
 ---
 
