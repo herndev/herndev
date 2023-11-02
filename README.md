@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In the club...](https://www.reddit.com/r/funny/comments/17lqs4j/in_the_club/)
- - ⏩ [My neighborhood is the neighborhood your parents warned you about](https://www.reddit.com/r/funny/comments/17lqcw7/my_neighborhood_is_the_neighborhood_your_parents/)
- - 👉 [Still would...buy It of course](http://9gag.com/gag/amAQQXy)<!-- MEMES:END -->
+ - 💣 [Probably going to trigger a few folk here.](http://9gag.com/gag/awZjjX1)
+ - ⏩ [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
+ - 👉 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)<!-- MEMES:END -->
 
 ---
 
