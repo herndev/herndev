@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s upcoming Galaxy phones could feature ChatGPT-like generative AI](https://www.androidauthority.com/samsung-galaxy-phones-generative-ai-3381621/)
- - [US v. Google: Google&#39;s VP of Search Elizabeth Reid disputes the government&#39;s contention that Google &quot;rushed&quot; Bard&#39;s launch after Microsoft announced Bing Chat &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231102/p4#a231102p4)
- - [Apple’s called Android a “massive tracking device” in an internal presentation](https://www.androidauthority.com/apple-android-massive-tracking-device-3381617/)<!-- TECH:END -->
+ - [YouTube is increasing Premium prices in multiple countries, right after an ad-blocker crackdown](https://www.androidauthority.com/youtube-premium-global-price-increase-3381637/)
+ - [Boeing investigates a cyber incident that impacted its parts and distribution business, days after LockBit announced stealing &quot;a tremendous amount&quot; of data &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p5#a231102p5)
+ - [All the games coming to Nintendo Switch Online in November](https://www.androidauthority.com/upcoming-nintendo-switch-online-games-3381072/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
