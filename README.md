@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to roll out a BNPL checkout option for Amazon Business users by November 24 via its Affirm partnership, with loans ranging from $100 to $20,000 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/231102/p17#a231102p17)
- - [Apple&#39;s M3 series shows a return to simple, consumer-friendly marketing; producing three distinct M3 chips likely has to be close to $1B in tape-out costs &lpar;Jay Goldberg/Digits to Dollars&rpar;](http://www.techmeme.com/231102/p16#a231102p16)
- - [The Xbox Elite Series 2 is on sale for a new low price](https://www.theverge.com/2023/11/2/23942676/microsoft-elite-controller-series-2-grid-studio-iphone-ipod-gameboy-deal-sale)<!-- TECH:END -->
+ - [After a security incident at Okta&#39;s healthcare coverage provider Rightway, Okta warns around 5,000 employees that hackers may have accessed their personal info &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231102/p18#a231102p18)
+ - [Verizon is offering a free iPhone 15 Pro when you trade-in any iPhone](https://www.androidauthority.com/verizon-iphone-15-pro-deal-3381504/)
+ - [Pokémon Scarlet and Violet’s second DLC arrives this December](https://www.theverge.com/2023/11/2/23943344/pokemon-scarlet-violet-indigo-disk-release-date-december)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
