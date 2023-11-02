@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch may get noninvasive diabetes monitoring, but not for diabetic people](https://www.androidauthority.com/apple-watch-diabetes-monitoring-3381662/)
- - [Will Trent season 2: Plot, release window, and more](https://www.androidauthority.com/will-trent-season-2-release-date-3378181/)
- - [US v. SBF: in closing statements, the US relied heavily on evidence to argue SBF is guilty and said he was &quot;greedy&quot; while SBF&#39;s defense only made things worse &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231102/p7#a231102p7)<!-- TECH:END -->
+ - [M3 Max benchmarks show Mac Pro performance in a MacBook](https://appleinsider.com/articles/23/11/02/m3-max-benchmarks-show-m2-ultra-performance-in-a-macbook?utm_medium=rss)
+ - [PayPal says the company received an SEC subpoena tied to its US dollar stablecoin, launched in August 2023 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/231102/p12#a231102p12)
+ - [New York AG Letitia James says Uber and Lyft agree to pay a combined $328M to settle allegations of withholding wages from drivers and not providing sick pay &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/231102/p11#a231102p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
