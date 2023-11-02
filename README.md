@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainguard, which helps companies secure their open-source software supply chain, raised a $61M Series B led by Spark Capital, taking its total funding to $116M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231101/p40#a231101p40)
- - [Apple&#39;s M1 Pro 14-inch MacBook Pro with 32GB RAM falls to record low $1,499](https://appleinsider.com/articles/23/11/01/apples-m1-pro-14-inch-macbook-pro-with-32gb-ram-falls-to-record-low-1499?utm_medium=rss)
- - [DoorDash tests a prompt warning customers that orders with no tip ahead of time may take longer to get delivered, since drivers choose which orders to accept &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231101/p39#a231101p39)<!-- TECH:END -->
+ - [A critical look at the SEO industry, as users complain that Google isn&#39;t as useful anymore and some SEO experts say it&#39;s now harder to game Google&#39;s algorithm &lpar;Amanda Chicago Lewis/The Verge&rpar;](http://www.techmeme.com/231101/p41#a231101p41)
+ - [Closing time for Sam Bankman-Fried](https://www.theverge.com/2023/11/1/23942828/sam-bankman-fried-trial-closing-arguments)
+ - [Chainguard, which helps companies secure their open-source software supply chain, raised a $61M Series B led by Spark Capital, taking its total funding to $116M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231101/p40#a231101p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
