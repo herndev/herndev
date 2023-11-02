@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA is launching a streaming service on November 8](https://www.androidauthority.com/nasa-plus-streaming-service-3381565/)
- - [Get a loaded 2TB MacBook Pro 14-inch M1 Max for $2,199 today only](https://appleinsider.com/articles/23/11/02/get-a-loaded-2tb-macbook-pro-14-inch-m1-max-for-2199-today-only?utm_medium=rss)
- - [The OMB releases draft rules that require federal agencies to monitor AI use in health care, law enforcement, and housing for potential harms against citizens &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/231101/p45#a231101p45)<!-- TECH:END -->
+ - [On the UK&#39;s AI Safety Summit first day, there were closed-door discussions about whether to pause the development of next-generation &quot;frontier&quot; AI models &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/231102/p1#a231102p1)
+ - [Déjà vu: Pixel 8 owners report ‘terrible’ battery and connectivity issues](https://www.androidauthority.com/pixel-8-battery-drain-connectivity-issues-3381576/)
+ - [NASA is launching a streaming service on November 8](https://www.androidauthority.com/nasa-plus-streaming-service-3381565/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
