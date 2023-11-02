@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 Max benchmarks show Mac Pro performance in a MacBook](https://appleinsider.com/articles/23/11/02/m3-max-benchmarks-show-m2-ultra-performance-in-a-macbook?utm_medium=rss)
- - [PayPal says the company received an SEC subpoena tied to its US dollar stablecoin, launched in August 2023 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/231102/p12#a231102p12)
- - [New York AG Letitia James says Uber and Lyft agree to pay a combined $328M to settle allegations of withholding wages from drivers and not providing sick pay &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/231102/p11#a231102p11)<!-- TECH:END -->
+ - [AI-generated nudes of female students at a high school in New Jersey, shared by male students in a group chat, cause major concern among parents and teachers &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/231102/p14#a231102p14)
+ - [Shopify reports Q3 revenue up 25% YoY to $1.71B, beating $1.68B est., a $56.2B GMV, beating $54.42B est., and expects ~25% 2023 revenue growth; SHOP jumps 18%+ &lpar;Ilya Banares/Bloomberg&rpar;](http://www.techmeme.com/231102/p13#a231102p13)
+ - [Renewable Energy Certificates: How You Can Prove How Green You Are     - CNET](https://www.cnet.com/home/energy-and-utilities/renewable-energy-certificates-how-anyone-can-enter-the-green-energy-market/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
