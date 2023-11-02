@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joe Biden Wants US Government Algorithms Tested for Potential Harm Against Citizens](https://www.wired.com/story/joe-biden-wants-us-government-algorithms-tested-for-potential-harm-against-citizens/)
- - [The EDPB instructs the Irish DPC to ban Meta&#39;s use of personal data for behavioral ads on the legal base of contract and legitimate interest in the EU and EEA &lpar;Joe Duball/IAPP&rpar;](http://www.techmeme.com/231101/p38#a231101p38)
- - [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)<!-- TECH:END -->
+ - [Chainguard, which helps companies secure their open-source software supply chain, raised a $61M Series B led by Spark Capital, taking its total funding to $116M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231101/p40#a231101p40)
+ - [Apple&#39;s M1 Pro 14-inch MacBook Pro with 32GB RAM falls to record low $1,499](https://appleinsider.com/articles/23/11/01/apples-m1-pro-14-inch-macbook-pro-with-32gb-ram-falls-to-record-low-1499?utm_medium=rss)
+ - [DoorDash tests a prompt warning customers that orders with no tip ahead of time may take longer to get delivered, since drivers choose which orders to accept &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231101/p39#a231101p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
