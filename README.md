@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grey’s Anatomy season 20: Plot, release window, and more](https://www.androidauthority.com/greys-anatomy-season-20-release-date-3378885/)
- - [Google AdSense will soon move from paying per click to paying per impression and split the revenue share into separate rates for the buy-side and sell-side &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p33#a231102p33)
- - [Brave rolls out privacy-focused AI chatbot to lure you away from ChatGPT](https://www.androidauthority.com/brave-browser-leo-chatbot-3381878/)<!-- TECH:END -->
+ - [Apple paying out $0.24 per share Q4 dividend on November 16](https://appleinsider.com/articles/23/11/02/apple-paying-out-024-per-share-q4-dividend-on-november-16?utm_medium=rss)
+ - [Apple &#39;briefly pauses&#39; internal Muslim, Jewish Slack channels](https://appleinsider.com/articles/23/11/02/apple-briefly-pauses-internal-muslim-jewish-slack-channels?utm_medium=rss)
+ - [Tim Cook highlights all-time record for Apple Services &amp; quarterly best iPhone sales](https://appleinsider.com/articles/23/11/02/tim-cook-highlights-all-time-record-for-apple-services-quarterly-best-iphone-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
