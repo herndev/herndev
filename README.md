@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wuttt?](http://9gag.com/gag/aoKow9n)
- - ⏩ [They are very civilized people...](http://9gag.com/gag/aEqKbQG)
- - 👉 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)<!-- MEMES:END -->
+ - 💣 [How the kid on the right only got third place?](http://9gag.com/gag/aNwM27G)
+ - ⏩ [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
+ - 👉 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)<!-- MEMES:END -->
 
 ---
 
