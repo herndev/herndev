@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Robocop: Rogue City review](https://www.pcgamer.com/robocop-rogue-city-review)
- - [Silent Hill Game Disables Chat After Too Many Posts About Ejaculation](https://kotaku.com/silent-hill-ascension-chat-battle-pass-hideo-kojima-1850987020)
- - [Call of Duty: MW3 Error Keeps Asking Players For Modern Warfare 2 Disc](https://kotaku.com/call-of-duty-mw3-mw2-modern-warfare-ps5-ps4-disc-error-1850986955)<!-- GAME:END -->
+ - [Headbangers Rhythm Royale is Available Day One with Game Pass](https://news.xbox.com/en-us/2023/11/02/headbangers-rhythm-royale-is-available-day-one-with-game-pass/)
+ - [Taylor Lautner simply can’t stop backflipping at Taylor Swift’s events](https://www.polygon.com/23943739/taylor-lautner-taylor-swift-music-video-eras-backflip)
+ - [How to get Bronze in Return to Moria](https://www.polygon.com/guides/23943653/return-to-moria-bronze-copper-tin-ore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
