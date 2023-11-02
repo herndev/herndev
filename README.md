@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome America&#39;s new alien overlords](https://www.reddit.com/r/memes/comments/17lwk9t/welcome_americas_new_alien_overlords/)
- - ⏩ [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
- - 👉 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)<!-- MEMES:END -->
+ - 💣 [Wuttt?](http://9gag.com/gag/aoKow9n)
+ - ⏩ [They are very civilized people...](http://9gag.com/gag/aEqKbQG)
+ - 👉 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)<!-- MEMES:END -->
 
 ---
 
