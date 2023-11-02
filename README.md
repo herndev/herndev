@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
- - ⏩ [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
- - 👉 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)<!-- MEMES:END -->
+ - 💣 [Welcome America&#39;s new alien overlords](https://www.reddit.com/r/memes/comments/17lwk9t/welcome_americas_new_alien_overlords/)
+ - ⏩ [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
+ - 👉 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)<!-- MEMES:END -->
 
 ---
 
