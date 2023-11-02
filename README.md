@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9 FE Plus review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-review-3380954/)
- - [Amazon closes its two physical clothing stores, 17 months after opening the first one; Amazon closed most of its physical stores, including bookstores, in 2022 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231102/p31#a231102p31)
- - [Save $80 on AppleCare for Apple&#39;s new M3 iMac 24-inch](https://appleinsider.com/articles/23/11/02/save-80-on-applecare-for-apples-new-m3-imac-24-inch?utm_medium=rss)<!-- TECH:END -->
+ - [Grey’s Anatomy season 20: Plot, release window, and more](https://www.androidauthority.com/greys-anatomy-season-20-release-date-3378885/)
+ - [Google AdSense will soon move from paying per click to paying per impression and split the revenue share into separate rates for the buy-side and sell-side &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p33#a231102p33)
+ - [Brave rolls out privacy-focused AI chatbot to lure you away from ChatGPT](https://www.androidauthority.com/brave-browser-leo-chatbot-3381878/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
