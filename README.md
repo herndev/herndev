@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple paying out $0.24 per share Q4 dividend on November 16](https://appleinsider.com/articles/23/11/02/apple-paying-out-024-per-share-q4-dividend-on-november-16?utm_medium=rss)
- - [Apple &#39;briefly pauses&#39; internal Muslim, Jewish Slack channels](https://appleinsider.com/articles/23/11/02/apple-briefly-pauses-internal-muslim-jewish-slack-channels?utm_medium=rss)
- - [Tim Cook highlights all-time record for Apple Services &amp; quarterly best iPhone sales](https://appleinsider.com/articles/23/11/02/tim-cook-highlights-all-time-record-for-apple-services-quarterly-best-iphone-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Apple expects strong Mac growth but wearable deceleration in the holiday quarter](https://appleinsider.com/articles/23/11/02/apple-expects-strong-mac-growth-but-wearable-deceleration-in-the-holiday-quarter?utm_medium=rss)
+ - [Apple suffers fourth consecutive quarter of declining sales, beat Wall Street anyway](https://appleinsider.com/articles/23/11/02/apple-suffers-fourth-consecutive-quarter-of-declining-sales?utm_medium=rss)
+ - [Apple&#39;s full-year results drop for the first time since 2019](https://appleinsider.com/articles/23/11/02/apples-full-year-results-drop-for-the-first-time-since-2019?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
