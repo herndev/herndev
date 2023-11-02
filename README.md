@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paul McCartney and Ringo Starr release Now and Then, the first &quot;new&quot; Beatles song since 1995, created using AI and an old lo-fi John Lennon recording &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231102/p25#a231102p25)
- - [Facebook will let creators test different versions of Reels](https://www.theverge.com/2023/11/2/23943278/meta-facebook-reels-ab-testing-creator-insights)
- - [The FTC says Jeff Bezos personally ordered Amazon execs to accept more junk ads to boost profits; Amazon used disappearing Signal chats from June 2019 to 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231102/p24#a231102p24)<!-- TECH:END -->
+ - [Nomad aims for the elegance of leather with new iPad folio cases](https://appleinsider.com/articles/23/11/02/nomad-aims-for-the-elegance-of-leather-with-new-ipad-folio-cases?utm_medium=rss)
+ - [Newly unsealed details of an FTC complaint from September: Amazon monitored its sellers and punished them if they offered lower prices on other platforms &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p29#a231102p29)
+ - [Score $300 off the 16-inch Galaxy Book 3 Pro in this record deal](https://www.androidauthority.com/sasmung-galaxy-book-3-pro-deal-3381832/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
