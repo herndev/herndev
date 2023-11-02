@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Achilles: Legends Untold – Unveiling the Epic Journey](https://news.xbox.com/en-us/2023/11/02/achilles-legends-untold-the-epic-journey/)
- - [How to watch BlizzCon 2023’s opening ceremony and streams](https://www.polygon.com/23943673/blizzcon-2023-stream-schedule-opening-ceremony)
- - [Where to find the Ghost House safe code in RoboCop: Rogue City](https://www.pcgamer.com/robocop-rogue-city-ghost-house-safe-code)<!-- GAME:END -->
+ - [Robocop: Rogue City review](https://www.pcgamer.com/robocop-rogue-city-review)
+ - [Silent Hill Game Disables Chat After Too Many Posts About Ejaculation](https://kotaku.com/silent-hill-ascension-chat-battle-pass-hideo-kojima-1850987020)
+ - [Call of Duty: MW3 Error Keeps Asking Players For Modern Warfare 2 Disc](https://kotaku.com/call-of-duty-mw3-mw2-modern-warfare-ps5-ps4-disc-error-1850986955)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
