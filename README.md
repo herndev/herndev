@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - ⏩ [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
- - 👉 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)<!-- MEMES:END -->
+ - 💣 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - ⏩ [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 👉 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)<!-- MEMES:END -->
 
 ---
 
