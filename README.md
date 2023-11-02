@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - ⏩ [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
- - 👉 [They are among us and they are taking our women.](http://9gag.com/gag/ajVvv3p)<!-- MEMES:END -->
+ - 💣 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
+ - ⏩ [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
+ - 👉 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)<!-- MEMES:END -->
 
 ---
 
