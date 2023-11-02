@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Dragon Ball Xenoverse 2, Dragon Ball the Breakers, and Dragon Ball FighterZ](https://news.xbox.com/en-us/2023/11/02/free-play-days-dragon-ball-xenoverse-2-dragon-ball-the-breakers-and-dragon-ball-fighterz/)
- - [The 16 best games on PC](https://www.polygon.com/what-to-play/23941731/best-pc-games-windows-mac-steam-epic)
- - [Here’s When You Can Start Playing Modern Warfare III’s Campaign](https://kotaku.com/call-of-duty-modern-warfare-3-early-access-campaign-1850984854)<!-- GAME:END -->
+ - [Explore the Fearless Art of the Le Sserafim x Overwatch 2 Collaboration](https://news.xbox.com/en-us/2023/11/02/art-of-the-le-sserafim-overwatch-2-collaboration/)
+ - [In Molly House, players compete for queer joy against a backdrop of hate in 18th-century England](https://www.polygon.com/tabletop-games/23935237/molly-house-cole-wehrle-zenobia-award-crowdfunding-campaign)
+ - [Hey, you can be a landlord in the new Sims 4 expansion pack](https://www.polygon.com/23943514/the-sims-4-for-rent-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
