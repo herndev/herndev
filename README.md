@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s still wild that Nintendo signed off on Super Mario RPG](https://www.polygon.com/23941820/super-mario-rpg-switch-remake-impressions)
- - [Mortal Kombat 1’s Tremor bowls a guy to death in new Omni-Man trailer](https://www.polygon.com/23943300/mortal-kombat-1-omni-man-release-date-tremor-dlc)
- - [Now Is The Time For Universal Video Game Accessibility Guidelines](https://kotaku.com/universal-accessibility-guidelines-video-games-1850977482)<!-- GAME:END -->
+ - [Free Play Days – Dragon Ball Xenoverse 2, Dragon Ball the Breakers, and Dragon Ball FighterZ](https://news.xbox.com/en-us/2023/11/02/free-play-days-dragon-ball-xenoverse-2-dragon-ball-the-breakers-and-dragon-ball-fighterz/)
+ - [The 16 best games on PC](https://www.polygon.com/what-to-play/23941731/best-pc-games-windows-mac-steam-epic)
+ - [Here’s When You Can Start Playing Modern Warfare III’s Campaign](https://kotaku.com/call-of-duty-modern-warfare-3-early-access-campaign-1850984854)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
