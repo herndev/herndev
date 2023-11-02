@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On the UK&#39;s AI Safety Summit first day, there were closed-door discussions about whether to pause the development of next-generation &quot;frontier&quot; AI models &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/231102/p1#a231102p1)
- - [Déjà vu: Pixel 8 owners report ‘terrible’ battery and connectivity issues](https://www.androidauthority.com/pixel-8-battery-drain-connectivity-issues-3381576/)
- - [NASA is launching a streaming service on November 8](https://www.androidauthority.com/nasa-plus-streaming-service-3381565/)<!-- TECH:END -->
+ - [Even the latest flagships can’t bring cheer to Samsung and Google in the US](https://www.androidauthority.com/smartphone-shipments-us-q3-2023-3381599/)
+ - [Sources: YMTC has had to raise billions of dollars in capital, after burning through $7B over the past year, as the Chinese chipmaker tries to adapt to US curbs &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p2#a231102p2)
+ - [On the UK&#39;s AI Safety Summit first day, there were closed-door discussions about whether to pause the development of next-generation &quot;frontier&quot; AI models &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/231102/p1#a231102p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
