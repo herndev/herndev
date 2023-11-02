@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad aims for the elegance of leather with new iPad folio cases](https://appleinsider.com/articles/23/11/02/nomad-aims-for-the-elegance-of-leather-with-new-ipad-folio-cases?utm_medium=rss)
- - [Newly unsealed details of an FTC complaint from September: Amazon monitored its sellers and punished them if they offered lower prices on other platforms &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p29#a231102p29)
- - [Score $300 off the 16-inch Galaxy Book 3 Pro in this record deal](https://www.androidauthority.com/sasmung-galaxy-book-3-pro-deal-3381832/)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9 FE Plus review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-review-3380954/)
+ - [Amazon closes its two physical clothing stores, 17 months after opening the first one; Amazon closed most of its physical stores, including bookstores, in 2022 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231102/p31#a231102p31)
+ - [Save $80 on AppleCare for Apple&#39;s new M3 iMac 24-inch](https://appleinsider.com/articles/23/11/02/save-80-on-applecare-for-apples-new-m3-imac-24-inch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
