@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [63 corpses lie at the feet of WoW Classic Hardcore permadeath tournament winner as he claims $50,000 prize](https://www.pcgamer.com/63-corpses-lie-at-the-feet-of-wow-classic-hardcore-permadeath-tournament-winner-as-he-claims-dollar50000-prize)
  - [When does early access to the Modern Warfare 3 campaign start?](https://www.polygon.com/modern-warfare-3-guides/23940423/mw3-early-access-campaign-release-date-time)
- - [Adidas Is Selling Miles Morales&#39; &#39;Worst&#39; Spider-Man 2 Suit](https://kotaku.com/adidas-miles-morales-collab-evolved-suit-collection-1850983029)
- - [When does Fortnite OG Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)<!-- GAME:END -->
+ - [Adidas Is Selling Miles Morales&#39; &#39;Worst&#39; Spider-Man 2 Suit](https://kotaku.com/adidas-miles-morales-collab-evolved-suit-collection-1850983029)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
