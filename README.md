@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
- - ⏩ [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - 👉 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)<!-- MEMES:END -->
+ - 💣 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)
+ - ⏩ [A grieving woman in Gaza lost her loved ones and says: `All of this is because of the dogs of Hamas.\u201d She was forcefully silened, and her face were blurred.](http://9gag.com/gag/az2y3rp)
+ - 👉 [Banana Peel](http://9gag.com/gag/aNwMMzA)<!-- MEMES:END -->
 
 ---
 
