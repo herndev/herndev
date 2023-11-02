@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare III’s Ambitious New Campaign Mode Lets You Play How You Want](https://news.xbox.com/en-us/2023/11/02/modern-warfare-3-ambitious-new-campaign-mode/)
- - [Xbox Insider Release Notes – Beta &lpar;2311.231030-2200&rpar;](https://news.xbox.com/en-us/2023/11/02/xbox-insider-release-notes-beta-2311-231030-2200/)
- - [Robert Pattinson is an angry bird in the English trailer for Hayao Miyazaki’s new film](https://www.polygon.com/23943662/boy-and-the-heron-english-language-trailer-hayao-miyazaki-robert-pattinson)<!-- GAME:END -->
+ - [Achilles: Legends Untold – Unveiling the Epic Journey](https://news.xbox.com/en-us/2023/11/02/achilles-legends-untold-the-epic-journey/)
+ - [How to watch BlizzCon 2023’s opening ceremony and streams](https://www.polygon.com/23943673/blizzcon-2023-stream-schedule-opening-ceremony)
+ - [Where to find the Ghost House safe code in RoboCop: Rogue City](https://www.pcgamer.com/robocop-rogue-city-ghost-house-safe-code)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
