@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #866 for Thursday, November 2](https://www.pcgamer.com/wordle-today-answer-866-november-2)
  - [&#39;No expense spared and not a single corner cut&#39;: After 11 months of work, one of Japan&#39;s most beloved PS2 games is finally playable in English](https://www.pcgamer.com/no-expense-spared-and-not-a-single-corner-cut-after-11-months-of-work-one-of-japans-most-beloved-ps2-games-is-finally-playable-in-english)
- - [63 corpses lie at the feet of WoW Classic Hardcore permadeath tournament winner as he claims $50,000 prize](https://www.pcgamer.com/63-corpses-lie-at-the-feet-of-wow-classic-hardcore-permadeath-tournament-winner-as-he-claims-dollar50000-prize)
- - [When does early access to the Modern Warfare 3 campaign start?](https://www.polygon.com/modern-warfare-3-guides/23940423/mw3-early-access-campaign-release-date-time)<!-- GAME:END -->
+ - [63 corpses lie at the feet of WoW Classic Hardcore permadeath tournament winner as he claims $50,000 prize](https://www.pcgamer.com/63-corpses-lie-at-the-feet-of-wow-classic-hardcore-permadeath-tournament-winner-as-he-claims-dollar50000-prize)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
