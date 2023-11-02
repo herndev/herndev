@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Radiant Silvergun is finally on Steam, and I&#39;m thrilled that its PC port does justice to one of the best shumps of all time](https://www.pcgamer.com/radiant-silvergun-is-finally-on-steam-and-im-thrilled-that-its-pc-port-does-justice-to-one-of-the-best-shumps-of-all-time)
  - [Cult Stash locations and puzzle solutions in Alan Wake 2](https://www.polygon.com/guides/23933673/alan-wake-2-cult-stash-locations-puzzle-solutions)
- - [How to find and solve Nursery Rhymes in Alan Wake 2](https://www.polygon.com/guides/23935291/alan-wake-2-nursery-rhyme-locations-solutions)
- - [Payday 3&#39;s long-overdue first patch is live: &#39;We’re finally up and running as things should be&#39;](https://www.pcgamer.com/payday-3s-long-overdue-first-patch-is-live-were-finally-up-and-running-as-things-should-be)<!-- GAME:END -->
+ - [How to find and solve Nursery Rhymes in Alan Wake 2](https://www.polygon.com/guides/23935291/alan-wake-2-nursery-rhyme-locations-solutions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
