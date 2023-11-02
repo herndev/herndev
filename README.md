@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s latest patch has over 1,000 fixes—but most importantly, it lets you buy a butt-naked statue of yourself](https://www.pcgamer.com/baldurs-gate-3s-latest-patch-has-over-1000-fixesbut-most-importantly-it-lets-you-buy-a-butt-naked-statue-of-yourself)
- - [Greg Street, who quit working on the League of Legends MMO to do &#39;something new,&#39; has revealed that the new thing is another MMO](https://www.pcgamer.com/greg-street-who-quit-working-on-the-league-of-legends-mmo-to-do-something-new-has-revealed-that-the-new-thing-is-another-mmo)
- - [Legendary World of Warcraft designer Greg Street is building a new fantasy MMO](https://www.polygon.com/23940126/world-of-warcraft-league-of-legends-greg-street-ghostcrawler-new-mmo)<!-- GAME:END -->
+ - [It’s still wild that Nintendo signed off on Super Mario RPG](https://www.polygon.com/23941820/super-mario-rpg-switch-remake-impressions)
+ - [Mortal Kombat 1’s Tremor bowls a guy to death in new Omni-Man trailer](https://www.polygon.com/23943300/mortal-kombat-1-omni-man-release-date-tremor-dlc)
+ - [Now Is The Time For Universal Video Game Accessibility Guidelines](https://kotaku.com/universal-accessibility-guidelines-video-games-1850977482)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
