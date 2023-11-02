@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 23 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Even the latest flagships can’t bring cheer to Samsung and Google in the US](https://www.androidauthority.com/smartphone-shipments-us-q3-2023-3381599/)
- - [Sources: YMTC has had to raise billions of dollars in capital, after burning through $7B over the past year, as the Chinese chipmaker tries to adapt to US curbs &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p2#a231102p2)<!-- TECH:END -->
+ - [Samsung’s upcoming Galaxy phones could feature ChatGPT-like generative AI](https://www.androidauthority.com/samsung-galaxy-phones-generative-ai-3381621/)
+ - [US v. Google: Google&#39;s VP of Search Elizabeth Reid disputes the government&#39;s contention that Google &quot;rushed&quot; Bard&#39;s launch after Microsoft announced Bing Chat &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231102/p4#a231102p4)
+ - [Apple’s called Android a “massive tracking device” in an internal presentation](https://www.androidauthority.com/apple-android-massive-tracking-device-3381617/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
