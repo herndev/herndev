@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anyone can crash your iPhone with this cute little $200 tool](https://www.androidauthority.com/flipper-zero-bluetooth-spoofing-ios-17-crash-3382001/)
- - [Student Loan Repayments Restarted in October. What Happens if You Don&#39;t Pay?     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-repayments-restarted-in-october-what-happens-if-you-dont-pay/#ftag=CAD590a51e)
- - [Abbott Elementary season 3: Plot, release window, and more](https://www.androidauthority.com/abbott-elementary-season-3-release-date-3379188/)<!-- TECH:END -->
+ - [Surface Pro 10 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)
+ - [China warms to Micron, saying the company deepening its footprint would be welcome, after banning its equipment in key infrastructure in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p2#a231103p2)
+ - [Need to Take a Screenshot With Windows 11? Here&#39;s How     - CNET](https://www.cnet.com/tech/computing/need-to-take-a-screenshot-with-windows-11-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
