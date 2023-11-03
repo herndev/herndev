@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 💣 [FFS youtube.](http://9gag.com/gag/aOxEL72)
  - ⏩ [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
  - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
 
