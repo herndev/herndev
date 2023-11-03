@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - ⏩ [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
+ - 💣 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
+ - ⏩ [It aint much...](http://9gag.com/gag/anzZoEL)
+ - 👉 [Bye.](http://9gag.com/gag/awZjWeQ)<!-- MEMES:END -->
 
 ---
 
