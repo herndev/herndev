@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - ⏩ [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
- - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
+ - 💣 [Return of the King](http://9gag.com/gag/a04g3PB)
+ - ⏩ [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
+ - 👉 [It aint much...](http://9gag.com/gag/anzZoEL)<!-- MEMES:END -->
 
 ---
 
