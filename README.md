@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surface Pro 10 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)
- - [China warms to Micron, saying the company deepening its footprint would be welcome, after banning its equipment in key infrastructure in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p2#a231103p2)
- - [Need to Take a Screenshot With Windows 11? Here&#39;s How     - CNET](https://www.cnet.com/tech/computing/need-to-take-a-screenshot-with-windows-11-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the Russia-based SWAT USA Drop, whose 1,200+ US employees knowingly or unwittingly reship consumer goods purchased online with stolen credit cards &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/231103/p3#a231103p3)
+ - [Dell put fast 120Hz panels in its latest UltraSharp monitors](https://www.theverge.com/2023/11/3/23944722/dell-ultrasharp-u2424h-u2424he-u2724d-u2724de-120hz-price-release-date-specs-features)
+ - [Details leak for Qualcomm’s special “Snapdragon 8 Gen 3 for Galaxy” SoC for Samsung phones](https://www.androidauthority.com/snapdragon-8-gen-3-for-galaxy-leak-3382103/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
