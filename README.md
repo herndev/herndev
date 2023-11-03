@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
- - ⏩ [What is happening here?](http://9gag.com/gag/aQEbbm2)
- - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
+ - 💣 [What is happening here?](http://9gag.com/gag/aQEbbm2)
+ - ⏩ [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
 
 ---
 
