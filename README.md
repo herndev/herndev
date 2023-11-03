@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abbott Elementary season 3: Plot, release window, and more](https://www.androidauthority.com/abbott-elementary-season-3-release-date-3379188/)
- - [Samsung Galaxy S24 series US launch date leaked](https://www.androidauthority.com/samsung-galaxy-s24-series-us-launch-date-leaked-3381976/)
- - [Apple expects its revenue in the holiday quarter, normally the company&#39;s biggest sales period, to stay the same as last year; Wall Street projected ~5% growth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231103/p1#a231103p1)<!-- TECH:END -->
+ - [Anyone can crash your iPhone with this cute little $200 tool](https://www.androidauthority.com/flipper-zero-bluetooth-spoofing-ios-17-crash-3382001/)
+ - [Student Loan Repayments Restarted in October. What Happens if You Don&#39;t Pay?     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-repayments-restarted-in-october-what-happens-if-you-dont-pay/#ftag=CAD590a51e)
+ - [Abbott Elementary season 3: Plot, release window, and more](https://www.androidauthority.com/abbott-elementary-season-3-release-date-3379188/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
