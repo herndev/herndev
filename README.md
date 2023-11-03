@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For all the Ladies out there](http://9gag.com/gag/a9qww91)
- - ⏩ [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
+ - 💣 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - ⏩ [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
+ - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
 
 ---
 
