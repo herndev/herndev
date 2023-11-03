@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Ebenezer and the Invisible World Adapts “A Christmas Carol” into a Metroidvania](https://news.xbox.com/en-us/2023/11/03/how-ebenezer-and-the-invisible-world-adapts-a-christmas-carol-into-a-metroidvania/)
- - [Unravel a real-life conspiracy in this interactive crime thriller](https://www.polygon.com/gaming/23943598/a-hand-with-many-fingers-game-like-alan-wake-2-mind-place-case-board-mystery)
- - [Blizzard&#39;s first new RTS in ages stealth launched, but don&#39;t get too excited](https://www.pcgamer.com/blizzards-first-new-rts-in-ages-stealth-launched-but-dont-get-too-excited)<!-- GAME:END -->
+ - [This Week on Xbox: Race Rally Cars, Defend the Streets of Detroit, and Save London!](https://youtu.be/ODJlogiWRvY#new_tab)
+ - [Hearthstone is adding new &#39;Catch Up&#39; packs containing up to 50 cards, Battlegrounds to get a &#39;Duos&#39; mode early next year](https://www.pcgamer.com/hearthstone-is-adding-new-catch-up-packs-containing-up-to-50-cards-battlegrounds-to-get-a-duos-mode-early-next-year)
+ - [Modern Warfare III’s Campaign Mostly Sucks](https://kotaku.com/modern-warfare-3-call-of-duty-single-player-campaign-1850991005)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
