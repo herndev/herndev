@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new voice of Mario is also the new voice of Wario](https://www.polygon.com/23945633/nitnendo-wario-voice-actor-charles-martinet-kevin-afghani)
- - [Report: Microsoft Staff Losing Free Xbox Game Pass, Complain To Phil Spencer](https://kotaku.com/microsoft-staff-free-xbox-game-pass-1850991586)
- - [BlizzCon 2023: All the Xbox News and Reveals from This Year’s Community Event](https://news.xbox.com/en-us/2023/11/03/blizzcon-2023-xbox-news/)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Xbox App [2311.1000.50.0] and Game Bar [6.123.11012.0]](https://news.xbox.com/en-us/2023/11/03/xbox-insider-release-notes-xbox-app-2311-1000-47-0-and-game-bar-6-123-11012-0/)
+ - [Report: Microsoft Staff Losing Free Xbox Game Pass, Complain To Phil Spencer [Update: He Reversed It]](https://kotaku.com/microsoft-staff-free-xbox-game-pass-1850991586)
+ - [Starfield mod lets you pilot your ship by remote control, even when you&#39;re not on board](https://www.pcgamer.com/starfield-mod-lets-you-pilot-your-ship-by-remote-control-even-when-youre-not-on-board)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
