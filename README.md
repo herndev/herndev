@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Race Rally Cars, Defend the Streets of Detroit, and Save London!](https://youtu.be/ODJlogiWRvY#new_tab)
- - [Hearthstone is adding new &#39;Catch Up&#39; packs containing up to 50 cards, Battlegrounds to get a &#39;Duos&#39; mode early next year](https://www.pcgamer.com/hearthstone-is-adding-new-catch-up-packs-containing-up-to-50-cards-battlegrounds-to-get-a-duos-mode-early-next-year)
- - [Modern Warfare III’s Campaign Mostly Sucks](https://kotaku.com/modern-warfare-3-call-of-duty-single-player-campaign-1850991005)<!-- GAME:END -->
+ - [BlizzCon 2023: All the Xbox News and Reveals from This Year’s Community Event](https://news.xbox.com/en-us/2023/11/03/blizzcon-2023-xbox-news/)
+ - [How to get Ubasam Wood in Return to Moria](https://www.polygon.com/guides/23945563/return-to-moria-ubasam-wood-how-to-get)
+ - [How to get to the Lower Deeps and Crystal Descent in Return to Moria](https://www.polygon.com/guides/23945556/return-to-moria-lower-deeps-crystal-descent)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
