@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blizzard launches Warcraft Rumble with new release trailer](https://www.androidauthority.com/warcraft-rumble-trailer-3382390/)
- - [OpenSea lays off 50% of staff and says it is moving to &quot;OpenSea 2.0&quot;; the NFT marketplace said it had 230 staff after laying off 20% of workforce in July 2022 &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/231103/p18#a231103p18)
- - [Black Friday Ads: Shop Early Deals at Best Buy, Walmart, B&amp;H, Target and More     - CNET](https://www.cnet.com/tech/black-friday-ad-scans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a 1-year Sam&#39;s Club membership for $20 &amp; take the pain out of holiday shopping](https://appleinsider.com/articles/23/11/03/get-a-1-year-sams-club-membership-for-20-take-the-pain-out-of-holiday-shopping?utm_medium=rss)
+ - [TP-Link’s teeny-tiny security camera offers a lot for very little](https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date)
+ - [Best iPhone 14 and iPhone 14 Pro Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
