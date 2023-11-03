@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - ⏩ [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
+ - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - ⏩ [What is happening here?](http://9gag.com/gag/aQEbbm2)
+ - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
 
 ---
 
