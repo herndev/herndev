@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
- - ⏩ [99% men will agree](http://9gag.com/gag/a5XgY0r)
- - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
+ - 💣 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - ⏩ [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 👉 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)<!-- MEMES:END -->
 
 ---
 
