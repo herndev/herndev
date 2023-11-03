@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jusant on Game Pass is a great palate cleanser amid Big Game season](https://www.polygon.com/sub-gems/23943624/jusant-game-pass-impressions)
- - [&#39;The king of crypto&#39; found guilty of fraud, now faces decades in prison](https://www.pcgamer.com/the-king-of-crypto-found-guilty-of-fraud-now-faces-decades-in-prison)
- - [We’re giving away 40 tickets to the Godzilla Minus One premiere](https://www.polygon.com/23942281/godzilla-minus-one-premiere-tickets-giveaway)<!-- GAME:END -->
+ - [How Ebenezer and the Invisible World Adapts “A Christmas Carol” into a Metroidvania](https://news.xbox.com/en-us/2023/11/03/how-ebenezer-and-the-invisible-world-adapts-a-christmas-carol-into-a-metroidvania/)
+ - [Unravel a real-life conspiracy in this interactive crime thriller](https://www.polygon.com/gaming/23943598/a-hand-with-many-fingers-game-like-alan-wake-2-mind-place-case-board-mystery)
+ - [Blizzard&#39;s first new RTS in ages stealth launched, but don&#39;t get too excited](https://www.pcgamer.com/blizzards-first-new-rts-in-ages-stealth-launched-but-dont-get-too-excited)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
