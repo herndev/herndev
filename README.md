@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 6 to 10](https://news.xbox.com/en-us/2023/11/03/next-week-on-xbox-new-games-for-november-6-to-10/)
- - [Kotaku’s Weekend Guide: 6 Games To Welcome In November](https://kotaku.com/kotaku-games-alan-wake-mario-wonder-fnaf-1850987148)
- - [Call of Duty: Modern Warfare 3&#39;s 213GB storage hogging is because of &#39;open world Zombies&#39; but don&#39;t panic it can be reduced](https://www.pcgamer.com/call-of-duty-modern-warfare-3s-213gb-storage-hogging-is-because-of-open-world-zombies-but-dont-worry-it-can-be-reduced)<!-- GAME:END -->
+ - [Jusant on Game Pass is a great palate cleanser amid Big Game season](https://www.polygon.com/sub-gems/23943624/jusant-game-pass-impressions)
+ - [&#39;The king of crypto&#39; found guilty of fraud, now faces decades in prison](https://www.pcgamer.com/the-king-of-crypto-found-guilty-of-fraud-now-faces-decades-in-prison)
+ - [We’re giving away 40 tickets to the Godzilla Minus One premiere](https://www.polygon.com/23942281/godzilla-minus-one-premiere-tickets-giveaway)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
