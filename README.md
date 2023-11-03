@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As EU was preparing to designate Apple as a gatekeeper under the DMA, Apple has argued that it has three separate browsers: Safari for iOS, iPadOS, and macOS &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/231103/p13#a231103p13)
- - [A US school district banned smartphones completely, and students are &lpar;mostly&rpar; OK with it](https://www.androidauthority.com/school-banned-smartphones-3382264/)
- - [iPhone remains supreme despite flat global smartphone sales](https://appleinsider.com/articles/23/11/03/iphone-remains-supreme-despite-flat-global-smartphone-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Oracle, SUSE, and CIQ release the source code for OpenELA, their challenge to Red Hat Enterprise Linux &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/231103/p14#a231103p14)
+ - [Apple TV+ releases fictional news clips to connect S3 and S4 of &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/11/03/apple-tv-releases-fictional-news-clips-to-connect-s3-and-s4-of-for-all-mankind?utm_medium=rss)
+ - [S.W.A.T. season 7: Plot, release window, and more](https://www.androidauthority.com/swat-season-7-release-date-3379203/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
