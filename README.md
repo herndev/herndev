@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - ⏩ [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 💣 [Lovely council](http://9gag.com/gag/aBdzeQ2)
+ - ⏩ [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
 
 ---
 
