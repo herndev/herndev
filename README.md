@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
- - ⏩ [It aint much...](http://9gag.com/gag/anzZoEL)
- - 👉 [Bye.](http://9gag.com/gag/awZjWeQ)<!-- MEMES:END -->
+ - 💣 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
+ - ⏩ [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
+ - 👉 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)<!-- MEMES:END -->
 
 ---
 
