@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - ⏩ [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 💣 [They are very civilized people...](http://9gag.com/gag/aEqKbQG)
+ - ⏩ [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)
  - 👉 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)<!-- MEMES:END -->
 
 ---
