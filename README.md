@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
- - ⏩ [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
- - 👉 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)<!-- MEMES:END -->
+ - 💣 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - ⏩ [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
 
 ---
 
