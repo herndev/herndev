@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple told EU regulators it has three browsers, all called Safari](https://appleinsider.com/articles/23/11/03/apple-told-eu-regulators-it-has-three-browsers-all-called-safari?utm_medium=rss)
- - [Court records show FTX advisers gave trading data and customer details to the FBI in recent months in response to subpoenas from at least five FBI field offices &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/231103/p7#a231103p7)
- - [Best Fitting T-Shirts for Men &lpar;According to a Savile Row Tailor&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)<!-- TECH:END -->
+ - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
+ - [This little tool can crash an iPhone running iOS 17](https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth)
+ - [Apple lands 27 Children&#39;s &amp; Family Emmy Award nominations](https://appleinsider.com/articles/23/11/03/apple-lands-27-childrens-family-emmy-award-nominations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
