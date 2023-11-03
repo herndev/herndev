@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Washington D.C. rolling out Apple AirTag program to help curb car theft](https://appleinsider.com/articles/23/11/03/washington-dc-rolling-out-apple-airtag-program-to-help-curb-car-theft?utm_medium=rss)
- - [Google Play rolls out an &quot;Independent security review&quot; badge for apps that conduct a Mobile Application Security Assessment audit, starting with VPN apps &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231103/p17#a231103p17)
- - [Microsoft gives new and older Surface devices two more years of support](https://www.androidauthority.com/surface-laptop-extended-support-3382366/)<!-- TECH:END -->
+ - [Blizzard launches Warcraft Rumble with new release trailer](https://www.androidauthority.com/warcraft-rumble-trailer-3382390/)
+ - [OpenSea lays off 50% of staff and says it is moving to &quot;OpenSea 2.0&quot;; the NFT marketplace said it had 230 staff after laying off 20% of workforce in July 2022 &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/231103/p18#a231103p18)
+ - [Black Friday Ads: Shop Early Deals at Best Buy, Walmart, B&amp;H, Target and More     - CNET](https://www.cnet.com/tech/black-friday-ad-scans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
