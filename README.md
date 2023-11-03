@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft plans to remove the free Xbox Game Pass Ultimate benefit for most employees in Jan. 2024; Phil Spencer says he is looking into the situation &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231102/p44#a231102p44)
- - [Apple reports Q4 revenue down 2.5% YoY to $15.1B in Greater China, down 3.4% YoY to $5.5B in Japan, and down 0.7% YoY to $6.3B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231102/p43#a231102p43)
- - [You Have 4 Weeks Left to Earn This $200 Checking Account Bonus     - CNET](https://www.cnet.com/personal-finance/banking/this-200-bank-account-bonus-is-easy-to-earn-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: save $150 on AppleCare for Apple&#39;s M3 MacBook Pro 14-inch](https://appleinsider.com/articles/23/11/03/deals-save-150-on-applecare-for-apples-m3-macbook-pro-14-inch?utm_medium=rss)
+ - [Apple CEO Tim Cook calls AI a fundamental technology](https://appleinsider.com/articles/23/11/03/apple-ceo-tim-cook-calls-ai-a-fundamental-technology?utm_medium=rss)
+ - [Sam Bankman-Fried gambled on a trial and his parents lost](https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
