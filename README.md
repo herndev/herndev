@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky just keeps getting better](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review)
- - [Baldur&#39;s Gate 3 latest patch gives a lovely facelift to Karlach and Halsin&#39;s smooch scenes—but it&#39;s seriously soured kisses with Astarion](https://www.pcgamer.com/baldurs-gate-3-latest-patch-gives-a-lovely-facelift-to-karlach-and-halsins-smooch-scenesbut-its-seriously-soured-kisses-with-astarion)
- - [Honkai: Star Rail Version 1.5 unveils ghost-hunting adventures on the Xianzhou Luofu – live Nov 15](https://blog.playstation.com/2023/11/03/honkai-star-rail-version-1-5-unveils-ghost-hunting-adventures-on-the-xianzhou-luofu-live-nov-15/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 6 to 10](https://news.xbox.com/en-us/2023/11/03/next-week-on-xbox-new-games-for-november-6-to-10/)
+ - [Kotaku’s Weekend Guide: 6 Games To Welcome In November](https://kotaku.com/kotaku-games-alan-wake-mario-wonder-fnaf-1850987148)
+ - [Call of Duty: Modern Warfare 3&#39;s 213GB storage hogging is because of &#39;open world Zombies&#39; but don&#39;t panic it can be reduced](https://www.pcgamer.com/call-of-duty-modern-warfare-3s-213gb-storage-hogging-is-because-of-open-world-zombies-but-dont-worry-it-can-be-reduced)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
