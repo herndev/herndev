@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft employees aren’t happy that they’re losing free Xbox Game Pass Ultimate](https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed)
- - [Elon Musk says Starlink is cash-flow breakeven; in 2021, Musk said SpaceX would spin off and take Starlink public once its cash flow was reasonably predictable &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p40#a231102p40)
- - [Best Solar Panel Installation Companies in Virginia     - CNET](https://www.cnet.com/home/energy-and-utilities/virginia-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A jury finds Sam Bankman-Fried guilty on all seven federal counts of fraud and conspiracy for defrauding FTX customers &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231102/p42#a231102p42)
+ - [Sam Bankman-Fried found guilty of fraud](https://www.theverge.com/policy/2023/11/2/23943236/sam-bankman-fried-trial-sbf-fraud-guilty)
+ - [The best Google Pixel deals of November 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
