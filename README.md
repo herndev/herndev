@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - ⏩ [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)<!-- MEMES:END -->
+ - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - ⏩ [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
 
 ---
 
