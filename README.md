@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle, SUSE, and CIQ release the source code for OpenELA, their challenge to Red Hat Enterprise Linux &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/231103/p14#a231103p14)
- - [Apple TV+ releases fictional news clips to connect S3 and S4 of &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/11/03/apple-tv-releases-fictional-news-clips-to-connect-s3-and-s4-of-for-all-mankind?utm_medium=rss)
- - [S.W.A.T. season 7: Plot, release window, and more](https://www.androidauthority.com/swat-season-7-release-date-3379203/)<!-- TECH:END -->
+ - [Free OWC Drive Speed app tests video transfers for iPhone videographers](https://appleinsider.com/articles/23/11/03/free-owc-drive-speed-app-tests-video-transfers-for-iphone-videographers?utm_medium=rss)
+ - [&quot;Now and Then,&quot; The Beatles’ Last Song, Is Here Thanks to Peter Jackson’s AI](https://www.wired.com/story/the-beatles-now-and-then-last-song-artificial-intelligence-peter-jackson/)
+ - [Google scraps $15 billion deal with lead developer of Silicon Valley campus projects](https://www.theverge.com/2023/11/3/23945098/google-lendlease-silicon-valley-campus-development-deal-end-housing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
