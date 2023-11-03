@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Russia-based SWAT USA Drop, whose 1,200+ US employees knowingly or unwittingly reship consumer goods purchased online with stolen credit cards &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/231103/p3#a231103p3)
- - [Dell put fast 120Hz panels in its latest UltraSharp monitors](https://www.theverge.com/2023/11/3/23944722/dell-ultrasharp-u2424h-u2424he-u2724d-u2724de-120hz-price-release-date-specs-features)
- - [Details leak for Qualcomm’s special “Snapdragon 8 Gen 3 for Galaxy” SoC for Samsung phones](https://www.androidauthority.com/snapdragon-8-gen-3-for-galaxy-leak-3382103/)<!-- TECH:END -->
+ - [13-inch MacBook Pro vs 14-inch MacBook Pro with M3: performance &amp; price - compared](https://appleinsider.com/articles/23/11/03/13-inch-macbook-pro-vs-14-inch-macbook-pro-with-m3-performance-price---compared?utm_medium=rss)
+ - [Call of Duty can now take up over 200GB of space, but it’s complicated](https://www.theverge.com/2023/11/3/23944733/call-of-duty-modern-warfare-3-storage)
+ - [Sam Bankman-Fried, who is unkempt, pedigreed, and awkward, replicated what VCs believe a founder should look like, and the door remains open for others like him &lpar;Lora Kelley/The Atlantic&rpar;](http://www.techmeme.com/231103/p4#a231103p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
