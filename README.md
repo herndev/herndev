@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A jury finds Sam Bankman-Fried guilty on all seven federal counts of fraud and conspiracy for defrauding FTX customers &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231102/p42#a231102p42)
- - [Sam Bankman-Fried found guilty of fraud](https://www.theverge.com/policy/2023/11/2/23943236/sam-bankman-fried-trial-sbf-fraud-guilty)
- - [The best Google Pixel deals of November 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
+ - [Sources: Microsoft plans to remove the free Xbox Game Pass Ultimate benefit for most employees in Jan. 2024; Phil Spencer says he is looking into the situation &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231102/p44#a231102p44)
+ - [Apple reports Q4 revenue down 2.5% YoY to $15.1B in Greater China, down 3.4% YoY to $5.5B in Japan, and down 0.7% YoY to $6.3B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231102/p43#a231102p43)
+ - [Live Updates: FTX Founder Sam Bankman-Fried Found Guilty of Fraud](https://www.wired.com/live/sam-bankman-fried-sbf-ftx-trial-live-blog-verdict/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
