@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BlizzCon 2023: All the Xbox News and Reveals from This Year’s Community Event](https://news.xbox.com/en-us/2023/11/03/blizzcon-2023-xbox-news/)
- - [How to get Ubasam Wood in Return to Moria](https://www.polygon.com/guides/23945563/return-to-moria-ubasam-wood-how-to-get)
- - [How to get to the Lower Deeps and Crystal Descent in Return to Moria](https://www.polygon.com/guides/23945556/return-to-moria-lower-deeps-crystal-descent)<!-- GAME:END -->
+ - [The new voice of Mario is also the new voice of Wario](https://www.polygon.com/23945633/nitnendo-wario-voice-actor-charles-martinet-kevin-afghani)
+ - [Report: Microsoft Staff Losing Free Xbox Game Pass, Complain To Phil Spencer](https://kotaku.com/microsoft-staff-free-xbox-game-pass-1850991586)
+ - [BlizzCon 2023: All the Xbox News and Reveals from This Year’s Community Event](https://news.xbox.com/en-us/2023/11/03/blizzcon-2023-xbox-news/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
