@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is happening here?](http://9gag.com/gag/aQEbbm2)
- - ⏩ [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - ⏩ [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
  - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
 
 ---
