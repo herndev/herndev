@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When to watch the BlizzCon 2023 opening ceremony](https://www.pcgamer.com/blizzcon-how-to-watch-2023)
- - [Wordle today: Hint and answer #867 for Friday, November 3](https://www.pcgamer.com/wordle-today-answer-867-november-3)
- - [A new 25 minute Skyblivion video shows the spooky side of a reimagined Cyrodiil](https://www.pcgamer.com/a-new-25-minute-skyblivion-video-shows-the-spooky-side-of-a-reimagined-cyrodiil)<!-- GAME:END -->
+ - [No Man’s Sky just keeps getting better](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review)
+ - [Baldur&#39;s Gate 3 latest patch gives a lovely facelift to Karlach and Halsin&#39;s smooch scenes—but it&#39;s seriously soured kisses with Astarion](https://www.pcgamer.com/baldurs-gate-3-latest-patch-gives-a-lovely-facelift-to-karlach-and-halsins-smooch-scenesbut-its-seriously-soured-kisses-with-astarion)
+ - [Honkai: Star Rail Version 1.5 unveils ghost-hunting adventures on the Xianzhou Luofu – live Nov 15](https://blog.playstation.com/2023/11/03/honkai-star-rail-version-1-5-unveils-ghost-hunting-adventures-on-the-xianzhou-luofu-live-nov-15/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
