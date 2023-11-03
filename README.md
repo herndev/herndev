@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
- - [This little tool can crash an iPhone running iOS 17](https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth)
- - [Apple lands 27 Children&#39;s &amp; Family Emmy Award nominations](https://appleinsider.com/articles/23/11/03/apple-lands-27-childrens-family-emmy-award-nominations?utm_medium=rss)<!-- TECH:END -->
+ - [As EU was preparing to designate Apple as a gatekeeper under the DMA, Apple has argued that it has three separate browsers: Safari for iOS, iPadOS, and macOS &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/231103/p13#a231103p13)
+ - [A US school district banned smartphones completely, and students are &lpar;mostly&rpar; OK with it](https://www.androidauthority.com/school-banned-smartphones-3382264/)
+ - [iPhone remains supreme despite flat global smartphone sales](https://appleinsider.com/articles/23/11/03/iphone-remains-supreme-despite-flat-global-smartphone-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
