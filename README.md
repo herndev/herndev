@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Radiant Silvergun is finally on Steam, and I&#39;m thrilled that its PC port does justice to one of the best shumps of all time](https://www.pcgamer.com/radiant-silvergun-is-finally-on-steam-and-im-thrilled-that-its-pc-port-does-justice-to-one-of-the-best-shumps-of-all-time)
- - [Cult Stash locations and puzzle solutions in Alan Wake 2](https://www.polygon.com/guides/23933673/alan-wake-2-cult-stash-locations-puzzle-solutions)
- - [How to find and solve Nursery Rhymes in Alan Wake 2](https://www.polygon.com/guides/23935291/alan-wake-2-nursery-rhyme-locations-solutions)<!-- GAME:END -->
+ - [A new 25 minute Skyblivion video shows the spooky side of a reimagined Cyrodiil](https://www.pcgamer.com/a-new-25-minute-skyblivion-video-shows-the-spooky-side-of-a-reimagined-cyrodiil)
+ - [The PC game releases we&#39;re most excited about in November](https://www.pcgamer.com/november-2023-pc-game-releases)
+ - [Radiant Silvergun is finally on Steam, and I&#39;m thrilled that its PC port does justice to one of the best shumps of all time](https://www.pcgamer.com/radiant-silvergun-is-finally-on-steam-and-im-thrilled-that-its-pc-port-does-justice-to-one-of-the-best-shumps-of-all-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
