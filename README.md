@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does Rick die in The Walking Dead?](https://www.androidauthority.com/does-rick-die-in-the-walking-dead-3379626/)
- - [Bluetti introduces AC2A and AC70 Portable Generators perfect for your autumn excursions](https://appleinsider.com/articles/23/11/03/bluetti-introduces-ac2a-and-ac70-portable-generators-perfect-for-your-autumn-excursions?utm_medium=rss)
- - [Elon Musk says xAI will release its first AI model to a select group on November 4 and &quot;in some important respects, it is the best that currently exists&quot; &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231103/p5#a231103p5)<!-- TECH:END -->
+ - [Apple told EU regulators it has three browsers, all called Safari](https://appleinsider.com/articles/23/11/03/apple-told-eu-regulators-it-has-three-browsers-all-called-safari?utm_medium=rss)
+ - [Court records show FTX advisers gave trading data and customer details to the FBI in recent months in response to subpoenas from at least five FBI field offices &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/231103/p7#a231103p7)
+ - [Best Fitting T-Shirts for Men &lpar;According to a Savile Row Tailor&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
