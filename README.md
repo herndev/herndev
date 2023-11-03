@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
- - ⏩ [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - 👉 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)<!-- MEMES:END -->
+ - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - ⏩ [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
+ - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
 
 ---
 
