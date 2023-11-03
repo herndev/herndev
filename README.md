@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free OWC Drive Speed app tests video transfers for iPhone videographers](https://appleinsider.com/articles/23/11/03/free-owc-drive-speed-app-tests-video-transfers-for-iphone-videographers?utm_medium=rss)
- - [&quot;Now and Then,&quot; The Beatles’ Last Song, Is Here Thanks to Peter Jackson’s AI](https://www.wired.com/story/the-beatles-now-and-then-last-song-artificial-intelligence-peter-jackson/)
- - [Google scraps $15 billion deal with lead developer of Silicon Valley campus projects](https://www.theverge.com/2023/11/3/23945098/google-lendlease-silicon-valley-campus-development-deal-end-housing)<!-- TECH:END -->
+ - [Washington D.C. rolling out Apple AirTag program to help curb car theft](https://appleinsider.com/articles/23/11/03/washington-dc-rolling-out-apple-airtag-program-to-help-curb-car-theft?utm_medium=rss)
+ - [Google Play rolls out an &quot;Independent security review&quot; badge for apps that conduct a Mobile Application Security Assessment audit, starting with VPN apps &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231103/p17#a231103p17)
+ - [Microsoft gives new and older Surface devices two more years of support](https://www.androidauthority.com/surface-laptop-extended-support-3382366/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
