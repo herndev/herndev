@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S24 series US launch date leaked](https://www.androidauthority.com/samsung-galaxy-s24-series-us-launch-date-leaked-3381976/)
  - [Apple expects its revenue in the holiday quarter, normally the company&#39;s biggest sales period, to stay the same as last year; Wall Street projected ~5% growth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231103/p1#a231103p1)
- - [Samsung Galaxy phones could soon get PC-grade gaming boost](https://www.androidauthority.com/samsung-qualcomm-amd-fidelityfx-super-resolution-3381964/)
- - [6 Handy Black-Owned Apps You Should Download Now     - CNET](https://www.cnet.com/tech/services-and-software/6-handy-black-owned-apps-you-should-download-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy phones could soon get PC-grade gaming boost](https://www.androidauthority.com/samsung-qualcomm-amd-fidelityfx-super-resolution-3381964/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
