@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When to watch the BlizzCon 2023 opening ceremony](https://www.pcgamer.com/blizzcon-how-to-watch-2023)
  - [Wordle today: Hint and answer #867 for Friday, November 3](https://www.pcgamer.com/wordle-today-answer-867-november-3)
- - [A new 25 minute Skyblivion video shows the spooky side of a reimagined Cyrodiil](https://www.pcgamer.com/a-new-25-minute-skyblivion-video-shows-the-spooky-side-of-a-reimagined-cyrodiil)
- - [The PC game releases we&#39;re most excited about in November](https://www.pcgamer.com/november-2023-pc-game-releases)<!-- GAME:END -->
+ - [A new 25 minute Skyblivion video shows the spooky side of a reimagined Cyrodiil](https://www.pcgamer.com/a-new-25-minute-skyblivion-video-shows-the-spooky-side-of-a-reimagined-cyrodiil)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
