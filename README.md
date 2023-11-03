@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
- - ⏩ [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
- - 👉 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)<!-- MEMES:END -->
+ - 💣 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
+ - ⏩ [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 👉 [FFS youtube.](http://9gag.com/gag/aOxEL72)<!-- MEMES:END -->
 
 ---
 
