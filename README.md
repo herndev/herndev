@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare says it has restored most services after power outages at multiple data centers impacted many, including Cloudflare API and Stream API &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231102/p46#a231102p46)
- - [Deals: save $150 on AppleCare for Apple&#39;s M3 MacBook Pro 14-inch](https://appleinsider.com/articles/23/11/03/deals-save-150-on-applecare-for-apples-m3-macbook-pro-14-inch?utm_medium=rss)
- - [Apple CEO Tim Cook calls AI a fundamental technology](https://appleinsider.com/articles/23/11/03/apple-ceo-tim-cook-calls-ai-a-fundamental-technology?utm_medium=rss)<!-- TECH:END -->
+ - [Apple expects its revenue in the holiday quarter, normally the company&#39;s biggest sales period, to stay the same as last year; Wall Street projected ~5% growth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231103/p1#a231103p1)
+ - [Samsung Galaxy phones could soon get PC-grade gaming boost](https://www.androidauthority.com/samsung-qualcomm-amd-fidelityfx-super-resolution-3381964/)
+ - [6 Handy Black-Owned Apps You Should Download Now     - CNET](https://www.cnet.com/tech/services-and-software/6-handy-black-owned-apps-you-should-download-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
