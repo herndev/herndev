@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - ⏩ [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
+ - 💣 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
+ - ⏩ [99% men will agree](http://9gag.com/gag/a5XgY0r)
+ - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
 
 ---
 
