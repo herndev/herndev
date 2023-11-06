@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite OG season schedule dates, and when does the season end?](https://www.polygon.com/fortnite-guide/23948718/og-season-schedule-dates-when-does-it-end)
- - [The Legend of Zelda: The Minish Cap is one of the most underrated Zelda games](https://www.polygon.com/zelda/23945144/zelda-minish-cap-underrated-zelda-games)
- - [Attack On Titan Anime Finale Rewrites The Ending For The Better](https://kotaku.com/attack-on-titan-eren-jaeger-finale-ending-anime-manga-1850995603)<!-- GAME:END -->
+ - [Bored Ape owners suffer eye and skin injuries from UV lighting at a weekend NFT festival: &#39;Had so much pain and my whole skin is burned&#39;](https://www.pcgamer.com/bored-ape-owners-suffer-eye-and-skin-injuries-from-uv-lighting-at-a-weekend-nft-festival-had-so-much-pain-and-my-whole-skin-is-burned)
+ - [Latest Baldur’s Gate 3 Patch Nerfs Sex Speedruns](https://kotaku.com/bg3-patch-4-sex-speedrun-baldurs-gate-3-laezel-romance-1850989939)
+ - [Xbox Insider Release Notes – Alpha &lpar;2311.231102-1830&rpar;](https://news.xbox.com/en-us/2023/11/06/xbox-insider-release-notes-alpha-2311-231102-1830/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
