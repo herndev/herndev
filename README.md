@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - ⏩ [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
+ - 💣 [This was actually aired on Israeli TV](http://9gag.com/gag/aDY5wRO)
+ - ⏩ [Why is this gif so long?](http://9gag.com/gag/aQE5p17)
+ - 👉 [Anti-dad spell against him](http://9gag.com/gag/a2KpYPd)<!-- MEMES:END -->
 
 ---
 
