@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
- - ⏩ [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
+ - ⏩ [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
  - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---
