@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What does the star mean on Apple Music?](https://www.androidauthority.com/star-apple-music-3182627/)
  - [The best Google Pixel Watch 2 bands](https://www.androidauthority.com/best-google-pixel-watch-2-band-3382484/)
- - [WhatsApp’s sticker AI is adding guns to prompts for Palestinian children](https://www.theverge.com/2023/11/5/23946732/whatsapp-ai-sticker-guns-palestine-israel)
- - [Chinese startup 01.AI, launched in March 2023 by computer scientist Kai-Fu Lee, reaches a $1B+ valuation and releases its AI model Yi-34B in Chinese and English &lpar;Bloomberg&rpar;](http://www.techmeme.com/231105/p10#a231105p10)<!-- TECH:END -->
+ - [WhatsApp’s sticker AI is adding guns to prompts for Palestinian children](https://www.theverge.com/2023/11/5/23946732/whatsapp-ai-sticker-guns-palestine-israel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
