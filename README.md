@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - 💣 [Americlap](http://9gag.com/gag/aBd5KWO)
  - ⏩ [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 👉 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)<!-- MEMES:END -->
+ - 👉 [Culture enrichment](http://9gag.com/gag/aDY5RGO)<!-- MEMES:END -->
 
 ---
 
