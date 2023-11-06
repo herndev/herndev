@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could make the Pixel Watch 3 buttonless](https://www.androidauthority.com/pixel-watch-3-google-patent-3382929/)
- - [Big Tech Ditched Trust and Safety. Now Startups Are Selling It Back As a Service](https://www.wired.com/story/trust-and-safety-startups-big-tech/)
- - [OpenAI Now Lets You Build Your Own Custom GPT Chatbots     - CNET](https://www.cnet.com/tech/computing/openai-now-lets-you-build-your-own-custom-gpt-chatbots/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snoopy and Charlie Brown embark on a big city adventure in new Peanuts film for Apple TV+](https://appleinsider.com/articles/23/11/06/snoopy-and-charlie-brown-embark-on-a-big-city-adventure-in-new-peanuts-film-for-apple-tv?utm_medium=rss)
+ - [Meta says there are now 1M active subscriptions to Instagram creators, just over a year after launching the feature, and unveils new creator tools &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231106/p32#a231106p32)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
