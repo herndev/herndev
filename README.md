@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft employees will keep free access to Xbox Game Pass Ultimate after Phil Spencer stepped in to reverse the company&#39;s plans to remove the benefit &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231103/p20#a231103p20)
- - [Microsoft is now giving many Surface PCs at least six years of firmware updates](https://www.theverge.com/2023/11/3/23945728/microsoft-surface-pc-six-years-firmware-updates-support)
- - [China says it attended the UK AI Safety Summit&#39;s ministerial meeting on its second day, despite not being listed by the UK among the &quot;like-minded&quot; participants &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p19#a231103p19)<!-- TECH:END -->
+ - [Chinese startup 01.AI, launched in March 2023 by computer scientist Kai-Fu Lee, reaches a $1B+ valuation and releases its AI model Yi-34B in Chinese and English &lpar;Bloomberg&rpar;](http://www.techmeme.com/231105/p10#a231105p10)
+ - [ChatGPT subscribers may get a ‘GPT builder’ option soon](https://www.theverge.com/2023/11/5/23947720/openai-chatgpt-gpt-builder-chatbot-creator-gizmo-tool-rumor-ai)
+ - [The best cases for AirPods Pro 2](https://appleinsider.com/inside/airpods-pro-2/best/best-airpods-pro-2-case?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
