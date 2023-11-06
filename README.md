@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep horror alive](http://9gag.com/gag/aME523P)
+ - 💣 [A kinetic LEGO shark](http://9gag.com/gag/armwvVy)
  - ⏩ [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
- - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
+ - 👉 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)<!-- MEMES:END -->
 
 ---
 
