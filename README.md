@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple aims to reinvent the battery with high-performance cathode technology](https://appleinsider.com/articles/23/11/06/apple-aims-to-reinvent-the-battery-with-high-performance-cathode-technology?utm_medium=rss)
- - [Logitech’s custom-fitting G Fit earbuds and G303 Shroud mouse are on sale](https://www.theverge.com/2023/11/6/23948648/logitech-g-fit-g303-shroud-mouse-hisense-u8h-mini-led-tv-deal-sale)
- - [Shop for the holidays ahead of Black Friday with these fresh Apple deals from Amazon](https://appleinsider.com/articles/23/11/06/shop-for-the-holidays-ahead-of-black-friday-with-these-fresh-apple-deals-from-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [First-Gen Social Media Users Have Nowhere to Go](https://www.wired.com/story/first-gen-social-media-users-have-nowhere-to-go/)
+ - [OpenAI launches a DALL-E 3 API, with moderation to help protect against misuse, and a text-to-speech API that offers six preset voices and two model variants &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p31#a231106p31)
+ - [Marvel’s new Spotlight branding will help you cut through the MCU’s noise](https://www.theverge.com/23949013/marvel-spotlight-echo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
