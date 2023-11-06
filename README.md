@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - ⏩ [Keep horror alive](http://9gag.com/gag/aME523P)
+ - 💣 [Keep horror alive](http://9gag.com/gag/aME523P)
+ - ⏩ [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
  - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
 
 ---
