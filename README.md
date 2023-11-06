@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Watch 5 Pro LTE is under $300 for the first time](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-lte-deal-3382866/)
- - [Future Xbox games may feature AI-generated quests, NPCs, and dialogue](https://www.androidauthority.com/microsoft-xbox-ai-3382834/)
- - [Epic v. Google: a battle over Fortnite fees goes to court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)<!-- TECH:END -->
+ - [Apple aims to reinvent the battery with high-performance cathode technology](https://appleinsider.com/articles/23/11/06/apple-aims-to-reinvent-the-battery-with-high-performance-cathode-technology?utm_medium=rss)
+ - [Logitech’s custom-fitting G Fit earbuds and G303 Shroud mouse are on sale](https://www.theverge.com/2023/11/6/23948648/logitech-g-fit-g303-shroud-mouse-hisense-u8h-mini-led-tv-deal-sale)
+ - [Shop for the holidays ahead of Black Friday with these fresh Apple deals from Amazon](https://appleinsider.com/articles/23/11/06/shop-for-the-holidays-ahead-of-black-friday-with-these-fresh-apple-deals-from-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
