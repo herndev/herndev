@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo&#39;s New Super Smash Bros. Ultimate OLED Switch Bundle Is A Great Holiday Deal](https://kotaku.com/nintendo-switch-super-smash-bros-ultimate-black-friday-1850994728)
- - [AutoFull&#39;s combo of gaming chairs and standing desks should have your attention](https://www.pcgamer.com/autofulls-combo-of-gaming-chairs-and-standing-desks-should-have-your-attention)
- - [Criterion Collection box sets and 4K Blu-rays are 50% off through early December](https://www.polygon.com/deals/23948624/criterion-collection-sale-movies-4k-barnes-noble-amazon)<!-- GAME:END -->
+ - [When it comes to OLED burn-in what you do with your monitor matters more than whether it&#39;s an LG or Samsung panel](https://www.pcgamer.com/when-it-comes-to-oled-burn-in-what-you-do-with-your-monitor-matters-more-than-whether-its-an-lg-or-samsung-panel)
+ - [AMD prioritising multi-thread over single-thread performance for next-gen Zen 5 CPUs according to new rumours](https://www.pcgamer.com/amd-prioritising-multi-thread-over-single-thread-performance-for-next-gen-zen-5-cpus-according-to-new-rumours)
+ - [Currently unobtainable Baldur&#39;s Gate 3 achievement teases a hardcore permadeath mode that I will never be brave enough to play](https://www.pcgamer.com/currently-unobtainable-baldurs-gate-3-achievement-teases-a-hardcore-permadeath-mode-that-i-will-never-be-brave-enough-to-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
