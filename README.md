@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon CEO Fujio Mitarai says the new nanoimprint chip machines will cost &quot;one digit less than ASML&#39;s EUVs&quot;, although Canon has not yet set the final pricing &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p6#a231106p6)
- - [Apple Watch battery drain to be fixed in update shortly](https://appleinsider.com/articles/23/11/06/apple-watch-battery-drain-to-be-fixed-in-update-shortly?utm_medium=rss)
- - [MediaTek Dimensity 9300 deep dive: A true Snapdragon rival?](https://www.androidauthority.com/mediatek-dimensity-9300-explained-3381678/)<!-- TECH:END -->
+ - [Oxo 12-Cup Coffee Maker With Podless Single-Serve Function Review: An Excellent Brewer for Any Size Batch](https://www.wired.com/review/oxo-12-cup-coffee-maker-with-podless-single-serve-function/)
+ - [Wacom One 13 Touch &lpar;2023&rpar; Review: A Simple Yet Effective Drawing Tablet](https://www.wired.com/review/wacom-one-13-touch-2023/)
+ - [Some visitors to Yuga Labs&#39; ApeFest event in Hong Kong report experiencing eye burn and blame the lighting; the Bored Ape creator acknowledges the situation &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p9#a231106p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
