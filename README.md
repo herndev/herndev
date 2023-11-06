@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lifetime access to Windows 11 Pro is on sale for $24.97 &lpar;85% off&rpar;](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
- - [Apple unveils trailer for heartwarming &#39;Velveteen Rabbit&#39; film coming November 22](https://appleinsider.com/articles/23/11/06/apple-unveils-trailer-for-heartwarming-velveteen-rabbit-film-coming-november-22?utm_medium=rss)
- - [How the Time Change Affects Your Driving and 9 Tips for Seeing Better at Night     - CNET](https://www.cnet.com/health/personal-care/how-the-time-change-affects-your-driving-and-9-tips-for-seeing-better-at-night/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirTag proves yet again it may be time to hide a tracker in your car](https://appleinsider.com/articles/23/11/06/airtag-proves-yet-again-it-may-be-time-to-hide-a-tracker-in-your-car?utm_medium=rss)
+ - [A survey of 167 researchers shows 104 studies about X have been canceled, suspended, or changed after X ended free academic access to its API and sued the CCDH &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/231106/p34#a231106p34)
+ - [Feeling Stuffy? What to Know Before You Reach for Your Go-To Decongestant     - CNET](https://www.cnet.com/health/medical/feeling-stuffy-what-to-know-before-you-reach-for-your-go-to-decongestant/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
