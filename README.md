@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;November 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-6-2023)
  - [One determined modder managed to cram Elden Ring&#39;s hardest boss into Sekiro, and she hardly seems to stand a chance](https://www.pcgamer.com/one-determined-modder-managed-to-cram-elden-rings-hardest-boss-into-sekiro-and-she-hardly-seems-to-stand-a-chance)
- - [Check out this open world martial arts tactical RPG with dozens of story paths](https://www.pcgamer.com/check-out-this-open-world-martial-arts-tactical-rpg-with-dozens-of-story-paths)
- - [Overwatch 2’s Mauga always had two guns — but it took time to get them ‘just right’](https://www.polygon.com/blizzcon/23947446/overwatch-2-mauga-abilities-ult-how-to-play-blizzcon-ow2)<!-- GAME:END -->
+ - [Check out this open world martial arts tactical RPG with dozens of story paths](https://www.pcgamer.com/check-out-this-open-world-martial-arts-tactical-rpg-with-dozens-of-story-paths)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
