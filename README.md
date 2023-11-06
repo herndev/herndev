@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was actually aired on Israeli TV](http://9gag.com/gag/aDY5wRO)
- - ⏩ [Why is this gif so long?](http://9gag.com/gag/aQE5p17)
- - 👉 [Anti-dad spell against him](http://9gag.com/gag/a2KpYPd)<!-- MEMES:END -->
+ - 💣 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - ⏩ [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 👉 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)<!-- MEMES:END -->
 
 ---
 
