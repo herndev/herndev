@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - 💣 [I have question is it race, culture or the religion itself the problem?](http://9gag.com/gag/aGE59Az)
  - ⏩ [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 👉 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)<!-- MEMES:END -->
+ - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---
 
