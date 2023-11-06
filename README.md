@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s incubus love fiend has a very revealing message printed on their bondage gear](https://www.pcgamer.com/baldurs-gate-3s-incubus-love-fiend-has-a-very-revealing-message-printed-on-their-bondage-gear)
- - [Deus Ex: Human Revolution&#39;s flawless gameplay has aged better than its goofy vision of a future obsessed with robot arms](https://www.pcgamer.com/deus-ex-human-revolutions-flawless-gameplay-has-aged-better-than-its-goofy-vision-of-a-future-obsessed-with-robot-arms)
- - [Football Manager 2024 best wonderkids and free transfers](https://www.pcgamer.com/football-manager-2024-best-wonderkids)<!-- GAME:END -->
+ - [Creed: Rise to Glory – Championship Edition launches the free Sweet Science update Nov 7 on PS VR2](https://blog.playstation.com/2023/11/06/creed-rise-to-glory-championship-edition-launches-the-free-sweet-science-update-nov-7-on-ps-vr2/)
+ - [Fortnite just had its biggest day ever, 6 years in](https://www.polygon.com/23948437/fortnite-og-chapter-1-player-record)
+ - [Overwatch 2&#39;s latest hero doesn’t just look like the Moana guy, he directly references him too](https://www.pcgamer.com/overwatch-2s-latest-hero-doesnt-just-look-like-the-moana-guy-he-directly-references-him-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
