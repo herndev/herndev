@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are here](http://9gag.com/gag/aBd5RoO)
- - ⏩ [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
- - 👉 [Mental Abuse](http://9gag.com/gag/anzZpdL)<!-- MEMES:END -->
+ - 💣 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - ⏩ [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 👉 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
 
 ---
 
