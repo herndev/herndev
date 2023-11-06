@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3&#39;s incubus love fiend has a very revealing message printed on their bondage gear](https://www.pcgamer.com/baldurs-gate-3s-incubus-love-fiend-has-a-very-revealing-message-printed-on-their-bondage-gear)
  - [Deus Ex: Human Revolution&#39;s flawless gameplay has aged better than its goofy vision of a future obsessed with robot arms](https://www.pcgamer.com/deus-ex-human-revolutions-flawless-gameplay-has-aged-better-than-its-goofy-vision-of-a-future-obsessed-with-robot-arms)
- - [Football Manager 2024 best wonderkids and free transfers](https://www.pcgamer.com/football-manager-2024-best-wonderkids)
- - [Football Manager 2024 best free agents](https://www.pcgamer.com/football-manager-2024-best-free-agents)<!-- GAME:END -->
+ - [Football Manager 2024 best wonderkids and free transfers](https://www.pcgamer.com/football-manager-2024-best-wonderkids)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
