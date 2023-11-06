@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare III and Starfield Highlight An Obnoxious Trend](https://kotaku.com/install-size-modern-warfare-3-starfield-1850995344)
- - [Bored Ape NFT Partygoers Blame UV Lights For Burned Eyes And Skin](https://kotaku.com/bored-apes-nft-blind-eye-pain-uv-light-party-apefest-1850995251)
- - [Xbox Getting AI-Generated Content And It Sounds Like Hell](https://kotaku.com/microsoft-xbox-ai-generated-npcs-inworld-1850995270)<!-- GAME:END -->
+ - [Fortnite OG season schedule dates, and when does the season end?](https://www.polygon.com/fortnite-guide/23948718/og-season-schedule-dates-when-does-it-end)
+ - [The Legend of Zelda: The Minish Cap is one of the most underrated Zelda games](https://www.polygon.com/zelda/23945144/zelda-minish-cap-underrated-zelda-games)
+ - [Attack On Titan Anime Finale Rewrites The Ending For The Better](https://kotaku.com/attack-on-titan-eren-jaeger-finale-ending-anime-manga-1850995603)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
