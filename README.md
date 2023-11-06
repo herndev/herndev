@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
- - ⏩ [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 👉 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)<!-- MEMES:END -->
+ - 💣 [Man of the year.](http://9gag.com/gag/a8qOWoO)
+ - ⏩ [Same same but](http://9gag.com/gag/aGE5Y7n)
+ - 👉 [Yeah I know that person](http://9gag.com/gag/anzwXOq)<!-- MEMES:END -->
 
 ---
 
