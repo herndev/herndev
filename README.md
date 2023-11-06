@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Laid-Off Dragon Age Testers Will Picket BioWare](https://kotaku.com/laid-off-dragon-age-testers-will-picket-bioware-1850996639)
- - [Kachow! Lightning McQueen is racing into Rocket League](https://www.polygon.com/23949484/lightning-mcqueen-rocket-league-bundle)
- - [A Year Ago, Pokémon Scarlet And Violet’s Ending Proved The Series&#39; Potential](https://kotaku.com/pokemon-scarlet-violet-ending-professor-sada-turo-ai-1850996396)<!-- GAME:END -->
+ - [Cult Stash locations and puzzle solutions in Alan Wake 2](https://www.polygon.com/guides/23933673/alan-wake-2-cult-stash-locations-puzzle-solutions)
+ - [There&#39;s a cursed way to get a free Game Pass subscription or grind Diablo 4 battle pass tiers: Bing searches](https://www.pcgamer.com/microsoft-rewards-pc-gaming-points)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
