@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Google DeepMind Head of Robotics Vincent Vanhoucke on the robotics team&#39;s history, general purpose robots, generative AI&#39;s role in robotics, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231106/p1#a231106p1)
  - [WatchOS 10.1 killing your Apple Watch battery? A fix is coming soon!](https://www.androidauthority.com/apple-watch-watchos-10-1-battery-drain-fix-3382638/)
- - [Samsung to take on Apple with ambitious targets for AI-powered Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-ai-targets-3382608/)
- - [Musk’s ChatGPT rival ‘Grok’ can humor your requests for drug recipes](https://www.androidauthority.com/grok-xai-elon-musk-3382597/)<!-- TECH:END -->
+ - [Samsung to take on Apple with ambitious targets for AI-powered Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-ai-targets-3382608/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
