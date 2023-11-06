@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 MacBook Pro review roundup: The same but better](https://appleinsider.com/articles/23/11/06/m3-macbook-pro-review-roundup-the-same-but-better?utm_medium=rss)
- - [Apple confirms that there is no Apple Silicon 27-inch iMac in the works](https://appleinsider.com/articles/23/11/06/apple-confirms-that-there-is-no-apple-silicon-27-inch-imac-in-the-works?utm_medium=rss)
- - [Revel bails on electric mopeds in favor of more cars](https://www.theverge.com/2023/11/6/23948516/revel-ev-moped-share-end-rideshare-charging-cities)<!-- TECH:END -->
+ - [Apple&#39;s latest Chinese store adopts Apple Tysons redesign](https://appleinsider.com/articles/23/11/06/apples-latest-chinese-store-adopts-apple-tysons-redesign?utm_medium=rss)
+ - [An Apple Watch sales ban may be coming -- Everything you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
+ - [The Bank of England and UK FCA seek feedback on proposals for regulating stablecoins, aiming to evaluate the potential benefits for consumers and retailers &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/231106/p22#a231106p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
