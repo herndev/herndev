@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Google DeepMind Head of Robotics Vincent Vanhoucke on the robotics team&#39;s history, general purpose robots, generative AI&#39;s role in robotics, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231106/p1#a231106p1)
- - [WatchOS 10.1 killing your Apple Watch battery? A fix is coming soon!](https://www.androidauthority.com/apple-watch-watchos-10-1-battery-drain-fix-3382638/)
- - [Samsung to take on Apple with ambitious targets for AI-powered Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-ai-targets-3382608/)<!-- TECH:END -->
+ - [Updating to iOS 17? You&#39;ll Want to Check Out These Steps First     - CNET](https://www.cnet.com/tech/mobile/updating-to-ios-17-youll-want-to-check-out-these-steps-first/#ftag=CAD590a51e)
+ - [The World’s Broken Food System Costs $12.7 Trillion a Year](https://www.wired.com/story/hidden-cost-world-food-system/)
+ - [Q&amp;A with Google DeepMind Head of Robotics Vincent Vanhoucke on the robotics team&#39;s history, general purpose robots, generative AI&#39;s role in robotics, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231106/p1#a231106p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
