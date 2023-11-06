@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact lore secretly inspired a new viral TikTok trend](https://www.polygon.com/23948828/tiktok-sound-oratrice-mecanique-meaning-trend-genshin-impact-french)
- - [PlayStation Is Losing The Reason Its Share Button Exists](https://kotaku.com/sony-playstation-twitter-elon-musk-ps5-1850996292)
- - [Roblox Players Say Pro-Palestinian Games Are Being Taken Down](https://kotaku.com/roblox-pro-free-palestine-flag-israel-1850995445)<!-- GAME:END -->
+ - [Laid-Off Dragon Age Testers Will Picket BioWare](https://kotaku.com/laid-off-dragon-age-testers-will-picket-bioware-1850996639)
+ - [Kachow! Lightning McQueen is racing into Rocket League](https://www.polygon.com/23949484/lightning-mcqueen-rocket-league-bundle)
+ - [A Year Ago, Pokémon Scarlet And Violet’s Ending Proved The Series&#39; Potential](https://kotaku.com/pokemon-scarlet-violet-ending-professor-sada-turo-ai-1850996396)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
