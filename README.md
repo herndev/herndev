@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Xbox App [2311.1000.50.0] and Game Bar [6.123.11012.0]](https://news.xbox.com/en-us/2023/11/03/xbox-insider-release-notes-xbox-app-2311-1000-47-0-and-game-bar-6-123-11012-0/)
- - [Report: Microsoft Staff Losing Free Xbox Game Pass, Complain To Phil Spencer [Update: He Reversed It]](https://kotaku.com/microsoft-staff-free-xbox-game-pass-1850991586)
- - [Starfield mod lets you pilot your ship by remote control, even when you&#39;re not on board](https://www.pcgamer.com/starfield-mod-lets-you-pilot-your-ship-by-remote-control-even-when-youre-not-on-board)<!-- GAME:END -->
+ - [One determined modder managed to cram Elden Ring&#39;s hardest boss into Sekiro, and she hardly seems to stand a chance](https://www.pcgamer.com/one-determined-modder-managed-to-cram-elden-rings-hardest-boss-into-sekiro-and-she-hardly-seems-to-stand-a-chance)
+ - [Check out this open world martial arts tactical RPG with dozens of story paths](https://www.pcgamer.com/check-out-this-open-world-martial-arts-tactical-rpg-with-dozens-of-story-paths)
+ - [Overwatch 2’s Mauga always had two guns — but it took time to get them ‘just right’](https://www.polygon.com/blizzcon/23947446/overwatch-2-mauga-abilities-ult-how-to-play-blizzcon-ow2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
