@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
- - ⏩ [Culture enrichment](http://9gag.com/gag/aDY5RGO)
- - 👉 [Is this accurate?](http://9gag.com/gag/aOx5oLy)<!-- MEMES:END -->
+ - 💣 [We are here](http://9gag.com/gag/aBd5RoO)
+ - ⏩ [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 👉 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
 
 ---
 
