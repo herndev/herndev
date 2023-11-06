@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel CEO Pat Gelsinger candidly reveals where Intel dropped the ball in recent years](https://www.pcgamer.com/intel-ceo-pat-gelsinger-candidly-reveals-where-intel-dropped-the-ball-in-recent-years)
- - [Wordle today: Hint and answer #870 for Monday, November 6](https://www.pcgamer.com/wordle-today-answer-870-november-6)
- - [Five new Steam games you probably missed &lpar;November 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-6-2023)<!-- GAME:END -->
+ - [Deus Ex: Human Revolution&#39;s flawless gameplay has aged better than its goofy vision of a future obsessed with robot arms](https://www.pcgamer.com/deus-ex-human-revolutions-flawless-gameplay-has-aged-better-than-its-goofy-vision-of-a-future-obsessed-with-robot-arms)
+ - [Football Manager 2024 best wonderkids and free transfers](https://www.pcgamer.com/football-manager-2024-best-wonderkids)
+ - [Football Manager 2024 best free agents](https://www.pcgamer.com/football-manager-2024-best-free-agents)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
