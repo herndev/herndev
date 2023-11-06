@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung to take on Apple with ambitious targets for AI-powered Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-ai-targets-3382608/)
  - [Musk’s ChatGPT rival ‘Grok’ can humor your requests for drug recipes](https://www.androidauthority.com/grok-xai-elon-musk-3382597/)
- - [A profile of, and interview with, White House Deputy Chief of Staff Bruce Reed, who is in charge of developing the Biden administration&#39;s AI strategy &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/231105/p11#a231105p11)
- - [What does the star mean on Apple Music?](https://www.androidauthority.com/star-apple-music-3182627/)<!-- TECH:END -->
+ - [A profile of, and interview with, White House Deputy Chief of Staff Bruce Reed, who is in charge of developing the Biden administration&#39;s AI strategy &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/231105/p11#a231105p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
