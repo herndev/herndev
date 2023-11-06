@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blue Eye Samurai is ‘revenge’ for one of Hollywood’s most underappreciated action directors](https://www.polygon.com/23945186/blue-eye-samurai-action-jane-wu-animation)
- - [Disney Lorcana’s second Cheshire Cat card hits hard](https://www.polygon.com/23944957/disney-lorcana-cheshire-cat-from-the-shadows-card-reveal-floodborn)
- - [Turns out you can speedrun Duolingo, and someone did an entire course in 24 hours](https://www.pcgamer.com/turns-out-you-can-speedrun-duolingo-and-someone-did-an-entire-course-in-24-hours)<!-- GAME:END -->
+ - [Daybreak, from the designer of Pandemic, is perhaps a bit too optimistic](https://www.polygon.com/23944065/daybreak-board-game-review)
+ - [The Call Of Duty: Modern Warfare Franchise, Explained](https://kotaku.com/call-of-duty-modern-warfare-3-2023-franchise-1850967066)
+ - [Fortnite Blows Up Again After Original Map Returns, Has Biggest Day Ever In Six Year History](https://kotaku.com/fornite-og-map-season-chapter-4-update-1850990645)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
