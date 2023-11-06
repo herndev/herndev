@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese memory chip startup Changxin Xinqiao raised ~$5.4B, including ~$2B from Big Fund; founded in 2021, the firm shares a GM with China&#39;s leading DRAM maker &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p3#a231106p3)
- - [WhatsApp&#39;s AI generates stickers of kids with guns when prompted with &quot;Palestine&quot;, but prompts for &quot;Israeli&quot; generate stickers of people who are mostly smiling &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/231106/p2#a231106p2)
- - [Updating to iOS 17? You&#39;ll Want to Check Out These Steps First     - CNET](https://www.cnet.com/tech/mobile/updating-to-ios-17-youll-want-to-check-out-these-steps-first/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Canon CEO Fujio Mitarai says the new nanoimprint chip machines will cost &quot;one digit less than ASML&#39;s EUVs&quot;, although Canon has not yet set the final pricing &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p6#a231106p6)
+ - [Apple Watch battery drain to be fixed in update shortly](https://appleinsider.com/articles/23/11/06/apple-watch-battery-drain-to-be-fixed-in-update-shortly?utm_medium=rss)
+ - [MediaTek Dimensity 9300 deep dive: A true Snapdragon rival?](https://www.androidauthority.com/mediatek-dimensity-9300-explained-3381678/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
