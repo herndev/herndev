@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s latest Chinese store adopts Apple Tysons redesign](https://appleinsider.com/articles/23/11/06/apples-latest-chinese-store-adopts-apple-tysons-redesign?utm_medium=rss)
- - [An Apple Watch sales ban may be coming -- Everything you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
- - [The Bank of England and UK FCA seek feedback on proposals for regulating stablecoins, aiming to evaluate the potential benefits for consumers and retailers &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/231106/p22#a231106p22)<!-- TECH:END -->
+ - [The Galaxy Watch 5 Pro LTE is under $300 for the first time](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-lte-deal-3382866/)
+ - [Future Xbox games may feature AI-generated quests, NPCs, and dialogue](https://www.androidauthority.com/microsoft-xbox-ai-3382834/)
+ - [Epic v. Google: a battle over Fortnite fees goes to court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
