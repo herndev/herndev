@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lovely council](http://9gag.com/gag/aBdzeQ2)
- - ⏩ [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
+ - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - ⏩ [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 👉 [Can someone explain why some elephants are against bathing?](http://9gag.com/gag/a9qw9XL)<!-- MEMES:END -->
 
 ---
 
