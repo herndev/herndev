@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First-Gen Social Media Users Have Nowhere to Go](https://www.wired.com/story/first-gen-social-media-users-have-nowhere-to-go/)
- - [OpenAI launches a DALL-E 3 API, with moderation to help protect against misuse, and a text-to-speech API that offers six preset voices and two model variants &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p31#a231106p31)
- - [Marvel’s new Spotlight branding will help you cut through the MCU’s noise](https://www.theverge.com/23949013/marvel-spotlight-echo)<!-- TECH:END -->
+ - [Google could make the Pixel Watch 3 buttonless](https://www.androidauthority.com/pixel-watch-3-google-patent-3382929/)
+ - [Big Tech Ditched Trust and Safety. Now Startups Are Selling It Back As a Service](https://www.wired.com/story/trust-and-safety-startups-big-tech/)
+ - [OpenAI Now Lets You Build Your Own Custom GPT Chatbots     - CNET](https://www.cnet.com/tech/computing/openai-now-lets-you-build-your-own-custom-gpt-chatbots/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
