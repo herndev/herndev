@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel CEO Pat Gelsinger candidly reveals where Intel dropped the ball in recent years](https://www.pcgamer.com/intel-ceo-pat-gelsinger-candidly-reveals-where-intel-dropped-the-ball-in-recent-years)
  - [Wordle today: Hint and answer #870 for Monday, November 6](https://www.pcgamer.com/wordle-today-answer-870-november-6)
- - [Five new Steam games you probably missed &lpar;November 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-6-2023)
- - [One determined modder managed to cram Elden Ring&#39;s hardest boss into Sekiro, and she hardly seems to stand a chance](https://www.pcgamer.com/one-determined-modder-managed-to-cram-elden-rings-hardest-boss-into-sekiro-and-she-hardly-seems-to-stand-a-chance)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;November 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-6-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
