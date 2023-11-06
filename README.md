@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - ⏩ [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - 💣 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - ⏩ [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
  - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---
