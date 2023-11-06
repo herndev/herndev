@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - ⏩ [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
- - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
+ - 💣 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
+ - ⏩ [Culture enrichment](http://9gag.com/gag/aDY5RGO)
+ - 👉 [Is this accurate?](http://9gag.com/gag/aOx5oLy)<!-- MEMES:END -->
 
 ---
 
