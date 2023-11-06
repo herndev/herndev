@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - ⏩ [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 👉 [Mental Abuse](http://9gag.com/gag/anzZpdL)<!-- MEMES:END -->
+ - 💣 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - ⏩ [Culture enrichment](http://9gag.com/gag/aDY5RGO)
+ - 👉 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
 
 ---
 
