@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creed: Rise to Glory – Championship Edition launches the free Sweet Science update Nov 7 on PS VR2](https://blog.playstation.com/2023/11/06/creed-rise-to-glory-championship-edition-launches-the-free-sweet-science-update-nov-7-on-ps-vr2/)
- - [Fortnite just had its biggest day ever, 6 years in](https://www.polygon.com/23948437/fortnite-og-chapter-1-player-record)
- - [Overwatch 2&#39;s latest hero doesn’t just look like the Moana guy, he directly references him too](https://www.pcgamer.com/overwatch-2s-latest-hero-doesnt-just-look-like-the-moana-guy-he-directly-references-him-too)<!-- GAME:END -->
+ - [Blue Eye Samurai is ‘revenge’ for one of Hollywood’s most underappreciated action directors](https://www.polygon.com/23945186/blue-eye-samurai-action-jane-wu-animation)
+ - [Disney Lorcana’s second Cheshire Cat card hits hard](https://www.polygon.com/23944957/disney-lorcana-cheshire-cat-from-the-shadows-card-reveal-floodborn)
+ - [Turns out you can speedrun Duolingo, and someone did an entire course in 24 hours](https://www.pcgamer.com/turns-out-you-can-speedrun-duolingo-and-someone-did-an-entire-course-in-24-hours)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
