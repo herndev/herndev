@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has no plans to make a 27-inch iMac with Apple Silicon](https://www.theverge.com/2023/11/6/23947196/apple-no-27-inch-apple-silicon-imac)
- - [Apple MacBook Pro 14 &lpar;2023&rpar; review: entry-level enigma](https://www.theverge.com/23944344/apple-macbook-pro-14-2023-review-m3-specs-battery-ports)
- - [Amazon, Microsoft, and Alphabet reported $42B in combined capital spending in Q3, up 10% from Q2 and almost 20% from Q3 2021, to expand generative AI services &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/231106/p14#a231106p14)<!-- TECH:END -->
+ - [M3 MacBook Pro review roundup: The same but better](https://appleinsider.com/articles/23/11/06/m3-macbook-pro-review-roundup-the-same-but-better?utm_medium=rss)
+ - [Apple confirms that there is no Apple Silicon 27-inch iMac in the works](https://appleinsider.com/articles/23/11/06/apple-confirms-that-there-is-no-apple-silicon-27-inch-imac-in-the-works?utm_medium=rss)
+ - [Revel bails on electric mopeds in favor of more cars](https://www.theverge.com/2023/11/6/23948516/revel-ev-moped-share-end-rideshare-charging-cities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
