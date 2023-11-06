@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - ⏩ [Culture enrichment](http://9gag.com/gag/aDY5RGO)
- - 👉 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
+ - 💣 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - ⏩ [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
+ - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
 
 ---
 
