@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bored Ape owners suffer eye and skin injuries from UV lighting at a weekend NFT festival: &#39;Had so much pain and my whole skin is burned&#39;](https://www.pcgamer.com/bored-ape-owners-suffer-eye-and-skin-injuries-from-uv-lighting-at-a-weekend-nft-festival-had-so-much-pain-and-my-whole-skin-is-burned)
- - [Latest Baldur’s Gate 3 Patch Nerfs Sex Speedruns](https://kotaku.com/bg3-patch-4-sex-speedrun-baldurs-gate-3-laezel-romance-1850989939)
- - [Xbox Insider Release Notes – Alpha &lpar;2311.231102-1830&rpar;](https://news.xbox.com/en-us/2023/11/06/xbox-insider-release-notes-alpha-2311-231102-1830/)<!-- GAME:END -->
+ - [Genshin Impact lore secretly inspired a new viral TikTok trend](https://www.polygon.com/23948828/tiktok-sound-oratrice-mecanique-meaning-trend-genshin-impact-french)
+ - [PlayStation Is Losing The Reason Its Share Button Exists](https://kotaku.com/sony-playstation-twitter-elon-musk-ps5-1850996292)
+ - [Roblox Players Say Pro-Palestinian Games Are Being Taken Down](https://kotaku.com/roblox-pro-free-palestine-flag-israel-1850995445)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
