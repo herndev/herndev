@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp’s sticker AI is adding guns to prompts for Palestinian children](https://www.theverge.com/2023/11/5/23946732/whatsapp-ai-sticker-guns-palestine-israel)
  - [Chinese startup 01.AI, launched in March 2023 by computer scientist Kai-Fu Lee, reaches a $1B+ valuation and releases its AI model Yi-34B in Chinese and English &lpar;Bloomberg&rpar;](http://www.techmeme.com/231105/p10#a231105p10)
- - [ChatGPT subscribers may get a ‘GPT builder’ option soon](https://www.theverge.com/2023/11/5/23947720/openai-chatgpt-gpt-builder-chatbot-creator-gizmo-tool-rumor-ai)
- - [The best cases for AirPods Pro 2](https://appleinsider.com/inside/airpods-pro-2/best/best-airpods-pro-2-case?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT subscribers may get a ‘GPT builder’ option soon](https://www.theverge.com/2023/11/5/23947720/openai-chatgpt-gpt-builder-chatbot-creator-gizmo-tool-rumor-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
