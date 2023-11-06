@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updating to iOS 17? You&#39;ll Want to Check Out These Steps First     - CNET](https://www.cnet.com/tech/mobile/updating-to-ios-17-youll-want-to-check-out-these-steps-first/#ftag=CAD590a51e)
- - [The World’s Broken Food System Costs $12.7 Trillion a Year](https://www.wired.com/story/hidden-cost-world-food-system/)
- - [Q&amp;A with Google DeepMind Head of Robotics Vincent Vanhoucke on the robotics team&#39;s history, general purpose robots, generative AI&#39;s role in robotics, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231106/p1#a231106p1)<!-- TECH:END -->
+ - [Chinese memory chip startup Changxin Xinqiao raised ~$5.4B, including ~$2B from Big Fund; founded in 2021, the firm shares a GM with China&#39;s leading DRAM maker &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p3#a231106p3)
+ - [WhatsApp&#39;s AI generates stickers of kids with guns when prompted with &quot;Palestine&quot;, but prompts for &quot;Israeli&quot; generate stickers of people who are mostly smiling &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/231106/p2#a231106p2)
+ - [Updating to iOS 17? You&#39;ll Want to Check Out These Steps First     - CNET](https://www.cnet.com/tech/mobile/updating-to-ios-17-youll-want-to-check-out-these-steps-first/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
