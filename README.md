@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When it comes to OLED burn-in what you do with your monitor matters more than whether it&#39;s an LG or Samsung panel](https://www.pcgamer.com/when-it-comes-to-oled-burn-in-what-you-do-with-your-monitor-matters-more-than-whether-its-an-lg-or-samsung-panel)
- - [AMD prioritising multi-thread over single-thread performance for next-gen Zen 5 CPUs according to new rumours](https://www.pcgamer.com/amd-prioritising-multi-thread-over-single-thread-performance-for-next-gen-zen-5-cpus-according-to-new-rumours)
- - [Currently unobtainable Baldur&#39;s Gate 3 achievement teases a hardcore permadeath mode that I will never be brave enough to play](https://www.pcgamer.com/currently-unobtainable-baldurs-gate-3-achievement-teases-a-hardcore-permadeath-mode-that-i-will-never-be-brave-enough-to-play)<!-- GAME:END -->
+ - [Modern Warfare III and Starfield Highlight An Obnoxious Trend](https://kotaku.com/install-size-modern-warfare-3-starfield-1850995344)
+ - [Bored Ape NFT Partygoers Blame UV Lights For Burned Eyes And Skin](https://kotaku.com/bored-apes-nft-blind-eye-pain-uv-light-party-apefest-1850995251)
+ - [Xbox Getting AI-Generated Content And It Sounds Like Hell](https://kotaku.com/microsoft-xbox-ai-generated-npcs-inworld-1850995270)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
