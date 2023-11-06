@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - ⏩ [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
- - 👉 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)<!-- MEMES:END -->
+ - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - ⏩ [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 👉 [Mental Abuse](http://9gag.com/gag/anzZpdL)<!-- MEMES:END -->
 
 ---
 
