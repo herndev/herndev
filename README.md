@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are here](http://9gag.com/gag/aBd5RoO)
- - ⏩ [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 👉 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
+ - 💣 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - ⏩ [Keep horror alive](http://9gag.com/gag/aME523P)
+ - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
 
 ---
 
