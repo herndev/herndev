@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxo 12-Cup Coffee Maker With Podless Single-Serve Function Review: An Excellent Brewer for Any Size Batch](https://www.wired.com/review/oxo-12-cup-coffee-maker-with-podless-single-serve-function/)
- - [Wacom One 13 Touch &lpar;2023&rpar; Review: A Simple Yet Effective Drawing Tablet](https://www.wired.com/review/wacom-one-13-touch-2023/)
- - [Some visitors to Yuga Labs&#39; ApeFest event in Hong Kong report experiencing eye burn and blame the lighting; the Bored Ape creator acknowledges the situation &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p9#a231106p9)<!-- TECH:END -->
+ - [Apple has no plans to make a 27-inch iMac with Apple Silicon](https://www.theverge.com/2023/11/6/23947196/apple-no-27-inch-apple-silicon-imac)
+ - [Apple MacBook Pro 14 &lpar;2023&rpar; review: entry-level enigma](https://www.theverge.com/23944344/apple-macbook-pro-14-2023-review-m3-specs-battery-ports)
+ - [Amazon, Microsoft, and Alphabet reported $42B in combined capital spending in Q3, up 10% from Q2 and almost 20% from Q3 2021, to expand generative AI services &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/231106/p14#a231106p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
