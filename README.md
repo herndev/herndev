@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - ⏩ [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - 👉 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)<!-- MEMES:END -->
+ - 💣 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - ⏩ [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---
 
