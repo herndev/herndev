@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Daybreak, from the designer of Pandemic, is perhaps a bit too optimistic](https://www.polygon.com/23944065/daybreak-board-game-review)
- - [The Call Of Duty: Modern Warfare Franchise, Explained](https://kotaku.com/call-of-duty-modern-warfare-3-2023-franchise-1850967066)
- - [Fortnite Blows Up Again After Original Map Returns, Has Biggest Day Ever In Six Year History](https://kotaku.com/fornite-og-map-season-chapter-4-update-1850990645)<!-- GAME:END -->
+ - [Nintendo&#39;s New Super Smash Bros. Ultimate OLED Switch Bundle Is A Great Holiday Deal](https://kotaku.com/nintendo-switch-super-smash-bros-ultimate-black-friday-1850994728)
+ - [AutoFull&#39;s combo of gaming chairs and standing desks should have your attention](https://www.pcgamer.com/autofulls-combo-of-gaming-chairs-and-standing-desks-should-have-your-attention)
+ - [Criterion Collection box sets and 4K Blu-rays are 50% off through early December](https://www.polygon.com/deals/23948624/criterion-collection-sale-movies-4k-barnes-noble-amazon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
