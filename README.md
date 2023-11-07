@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - ⏩ [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 💣 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
+ - ⏩ [Americlap](http://9gag.com/gag/aBd5KWO)
+ - 👉 [Think Ron might have liked it](http://9gag.com/gag/a5X3KYV)<!-- MEMES:END -->
 
 ---
 
