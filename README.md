@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jensen Huang thinks Jackie Chan would play him best in a biopic but he would &#39;do his own stunts&#39;](https://www.pcgamer.com/jensen-huang-thinks-jackie-chan-would-play-him-best-in-a-biopic-but-he-would-do-his-own-stunts)
- - [Scarlett Johansson launches legal action in a case of AI imitating life imitating art](https://www.pcgamer.com/scarlett-johansson-launches-legal-action-in-a-case-of-ai-imitating-life-imitating-art)
- - [Pokémon Go ‘Festival of Lights’ event guide, Timed Research steps and rewards](https://www.polygon.com/pokemon-go-guide/23950304/festival-of-lights-event-guide-timed-field-research-rewards)<!-- GAME:END -->
+ - [This Week’s Xbox Sales and Specials, Including the ID@Xbox Simulator Sale](https://news.xbox.com/en-us/2023/11/07/this-weeks-xbox-sales-and-specials-including-the-idxbox-simulator-sale/)
+ - [I love that new Star Wars games are embracing the franchise&#39;s humblest villains](https://www.pcgamer.com/i-love-that-new-star-wars-games-are-embracing-the-franchises-humblest-villains)
+ - [Jensen Huang thinks Jackie Chan would play him best in a biopic but he would &#39;do his own stunts&#39;](https://www.pcgamer.com/jensen-huang-thinks-jackie-chan-would-play-him-best-in-a-biopic-but-he-would-do-his-own-stunts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
