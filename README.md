@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil &lpar;USB-C&rpar; review: A new budget option in a temporarily confusing lineup](https://appleinsider.com/articles/23/11/07/apple-pencil-usb-c-review-a-new-budget-option-in-a-temporarily-confusing-lineup?utm_medium=rss)
- - [Volante, which offers low-code payments tools used by 150 major banks and other institutions, raised $66M in equity and debt, taking its total funding to $116M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231107/p23#a231107p23)
- - [The Tech Coalition, including Discord, Google, Meta, Roblox, Snap, and Twitch, announce Lantern to help share &quot;signals&quot; on child sexual exploitation and abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231107/p22#a231107p22)<!-- TECH:END -->
+ - [Google contractors objected to reading obscene Bard prompts — now they’re unionizing](https://www.theverge.com/2023/11/7/23950392/google-contractors-accenture-obscene-bard-prompts-unionizing)
+ - [Some new MacBook Pros are stuck on macOS Ventura -- but there&#39;s a fix](https://appleinsider.com/articles/23/11/07/some-new-macbook-pros-are-stuck-on-macos-ventura----but-theres-a-fix?utm_medium=rss)
+ - [Bag Two Blink Outdoor Security Cameras With Half Off in This Pre-Black Friday Deal     - CNET](https://www.cnet.com/deals/bag-two-blink-outdoor-security-cameras-with-half-off-in-this-pre-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
