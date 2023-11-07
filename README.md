@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 💣 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
  - ⏩ [Cursed Title](http://9gag.com/gag/aGE5VO5)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---
 
