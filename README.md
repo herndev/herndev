@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scans reveal how counterfeiters fake AirPods with cheap components](https://appleinsider.com/articles/23/11/07/scans-reveal-how-counterfeiters-fake-airpods-with-cheap-components?utm_medium=rss)
- - [The CFPB proposes new powers to oversee companies offering digital wallets and payment apps that facilitate 5M+ transactions per year, currently ~17 companies &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/231107/p29#a231107p29)
- - [OLED iPad Pro could kill off mini LED models in 2024](https://appleinsider.com/articles/23/11/07/oled-ipad-pro-could-kill-off-mini-led-models-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp head confirms in-app ads are still in the works](https://www.theverge.com/2023/11/7/23950795/meta-whatsapp-status-ads-sales-advertising-plans)
+ - [Internet Blackouts in Gaza Are a New Weapon in the Israel-Hamas War](https://www.wired.com/story/israel-gaza-internet-blackouts-weapon/)
+ - [5 Key Updates in GPT-4 Turbo, OpenAI’s Newest Model](https://www.wired.com/story/5-updates-gpt-4-turbo-openai-chatgpt-sam-altman/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
