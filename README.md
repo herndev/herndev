@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Dragon Age testers picket BioWare office as others fight for severance](https://www.polygon.com/23950412/keywords-studios-bioware-picket-edmonton-office-qa)
- - [A faster 8,000Hz polling rate is only a software update away for five more Razer gaming mice](https://www.pcgamer.com/a-faster-8000hz-polling-rate-is-only-a-software-update-away-for-five-more-razer-gaming-mice)
- - [The co-op survival RPG that took Steam Next Fest by storm has a release date, and it&#39;s soon-ish](https://www.pcgamer.com/the-co-op-survival-rpg-that-took-steam-next-fest-by-storm-has-a-release-date-and-its-soon-ish)<!-- GAME:END -->
+ - [How We Made Football Manager 2024 Console Into the Perfect Xbox Experience](https://news.xbox.com/en-us/2023/11/07/football-manager-2024-console-edition/)
+ - [Third Xbox Transparency Report Shows Our Evolving Approach to Creating Safer Gaming Experiences](https://news.xbox.com/en-us/2023/11/07/xbox-third-transparency-report/)
+ - [World of Warcraft’s new patch concludes Dragonflight’s biggest conflict](https://www.polygon.com/23949582/world-of-warcraft-dragonflight-guardians-of-the-dream-patch-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
