@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Canon challenges ASML dominance with new chipmaking tech that could lead to cheaper chips](https://www.pcgamer.com/canon-challenges-asml-dominance-with-new-chipmaking-tech-that-could-lead-to-cheaper-chips)
- - [Can Chinchou be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23948692/can-chinchou-be-shiny-lanturn)
- - [Wordle today: Hint and answer #871 for Tuesday, November 7](https://www.pcgamer.com/wordle-today-answer-871-november-7)<!-- GAME:END -->
+ - [Pokémon Go ‘Festival of Lights’ event guide, Timed Research steps and rewards](https://www.polygon.com/pokemon-go-guide/23950304/festival-of-lights-event-guide-timed-field-research-rewards)
+ - [A tech analysis of Cities: Skylines 2 proves it&#39;s rendering WAY too many polygons, making Cyberpunk 2077 look like Minecraft in comparison](https://www.pcgamer.com/a-tech-analysis-of-cities-skylines-2-proves-its-rendering-way-too-many-polygons-making-cyberpunk-2077-look-like-minecraft-in-comparison)
+ - [Canon challenges ASML dominance with new chipmaking tech that could lead to cheaper chips](https://www.pcgamer.com/canon-challenges-asml-dominance-with-new-chipmaking-tech-that-could-lead-to-cheaper-chips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
