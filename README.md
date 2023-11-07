@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare 3’s campaign has finally unmoored Call of Duty](https://www.polygon.com/reviews/23949450/call-of-duty-modern-warfare-3-campaign-review)
- - [5 years after trying for a &#39;Valve-Counterstrike moment&#39; with Fortnite, the Epic Games Store still isn&#39;t turning a profit](https://www.pcgamer.com/5-years-after-trying-for-a-valve-counterstrike-moment-with-fortnite-the-epic-games-store-still-isnt-turning-a-profit)
- - [StarCraft could return, according to Blizzard president, but not necessarily as an RTS](https://www.pcgamer.com/starcraft-could-return-according-to-blizzard-president-but-not-necessarily-as-an-rts)<!-- GAME:END -->
+ - [Five Beginner Tips for a Successful Run in Roboquest](https://news.xbox.com/en-us/2023/11/07/five-beginner-tips-for-a-successful-run-in-roboquest/)
+ - [The new Yakuza is a perfect entry point, for better and worse](https://www.polygon.com/reviews/23949305/like-a-dragon-gaiden-review-new-yakuza)
+ - [This hyper-detailed recreation of Disco Elysium&#39;s opening scene makes a terrible hangover look like a terrific idea](https://www.pcgamer.com/this-hyper-detailed-recreation-of-disco-elysiums-opening-scene-is-all-killer-no-filler)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
