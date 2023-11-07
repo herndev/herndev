@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Mass Effect Teasers Finally Confirm What We’ve All Been Guessing](https://kotaku.com/mass-effect-teaser-n7-day-andromeda-1850999958)
- - [Night In The Woods Devs Cancel Highly Anticipated Follow-Up](https://kotaku.com/night-woods-revenant-hill-canceled-2017-indie-goty-1850999850)
- - [BioWare is teasing the new Mass Effect for N7 Day, and I really wish they&#39;d just tell us what&#39;s going on](https://www.pcgamer.com/bioware-is-teasing-the-new-mass-effect-for-n7-day-and-i-really-wish-theyd-just-tell-us-whats-going-on)<!-- GAME:END -->
+ - [The Angler Spain Reserve](https://news.xbox.com/en-us/2023/11/07/the-angler-spain-reserve/)
+ - [The layoffs continue: Ubisoft cuts 124 jobs worldwide, including nearly 100 in Canada](https://www.pcgamer.com/the-layoffs-continue-ubisoft-cuts-124-jobs-worldwide-including-nearly-100-in-canada)
+ - [DayZ just added a new rifle, a new air base, and what the heck, a whole new damn sky](https://www.pcgamer.com/dayz-just-added-a-new-rifle-a-new-air-base-and-what-the-heck-a-whole-new-damn-sky)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
