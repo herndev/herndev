@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Xbox Sales and Specials, Including the ID@Xbox Simulator Sale](https://news.xbox.com/en-us/2023/11/07/this-weeks-xbox-sales-and-specials-including-the-idxbox-simulator-sale/)
- - [I love that new Star Wars games are embracing the franchise&#39;s humblest villains](https://www.pcgamer.com/i-love-that-new-star-wars-games-are-embracing-the-franchises-humblest-villains)
- - [Jensen Huang thinks Jackie Chan would play him best in a biopic but he would &#39;do his own stunts&#39;](https://www.pcgamer.com/jensen-huang-thinks-jackie-chan-would-play-him-best-in-a-biopic-but-he-would-do-his-own-stunts)<!-- GAME:END -->
+ - [Modern Warfare 3’s campaign has finally unmoored Call of Duty](https://www.polygon.com/reviews/23949450/call-of-duty-modern-warfare-3-campaign-review)
+ - [5 years after trying for a &#39;Valve-Counterstrike moment&#39; with Fortnite, the Epic Games Store still isn&#39;t turning a profit](https://www.pcgamer.com/5-years-after-trying-for-a-valve-counterstrike-moment-with-fortnite-the-epic-games-store-still-isnt-turning-a-profit)
+ - [StarCraft could return, according to Blizzard president, but not necessarily as an RTS](https://www.pcgamer.com/starcraft-could-return-according-to-blizzard-president-but-not-necessarily-as-an-rts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
