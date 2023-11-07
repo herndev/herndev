@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
- - ⏩ [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 💣 [Grannies are the best](http://9gag.com/gag/aKE5Byj)
+ - ⏩ [If you know, you know what\u2019s going on.](http://9gag.com/gag/aeQwpA5)
+ - 👉 [Interesting](http://9gag.com/gag/a7qXyqw)<!-- MEMES:END -->
 
 ---
 
