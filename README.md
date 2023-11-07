@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google contractors objected to reading obscene Bard prompts — now they’re unionizing](https://www.theverge.com/2023/11/7/23950392/google-contractors-accenture-obscene-bard-prompts-unionizing)
- - [Some new MacBook Pros are stuck on macOS Ventura -- but there&#39;s a fix](https://appleinsider.com/articles/23/11/07/some-new-macbook-pros-are-stuck-on-macos-ventura----but-theres-a-fix?utm_medium=rss)
- - [Bag Two Blink Outdoor Security Cameras With Half Off in This Pre-Black Friday Deal     - CNET](https://www.cnet.com/deals/bag-two-blink-outdoor-security-cameras-with-half-off-in-this-pre-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Figma introduces FigJam AI to spare designers from boring planning prep](https://www.theverge.com/2023/11/7/23950667/figma-figjam-generative-ai-design-tools-beta-announcement)
+ - [Crunchyroll is adding mobile games to its subscription](https://www.theverge.com/2023/11/7/23949187/crunchyroll-mobile-game-subscription-anime)
+ - [YouTube&#39;s Ad Blocker Detection Believed to Break EU Privacy Law](https://www.wired.com/story/youtube-ad-blocker-detection-eu-privacy-law/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
