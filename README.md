@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - ⏩ [Cursed Title](http://9gag.com/gag/aGE5VO5)
- - 👉 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)<!-- MEMES:END -->
+ - 💣 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
+ - ⏩ [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
 
