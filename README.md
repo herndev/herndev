@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 Best Call Of Duty Maps Of All Time](https://kotaku.com/call-of-duty-best-maps-ranked-games-modern-warfare-3-1850788381)
- - [Xbox Insider Release Notes – Delta &lpar;2311.231102-1830&rpar;](https://news.xbox.com/en-us/2023/11/07/xbox-insider-release-notes-delta-2311-231102-1830/)
- - [Xbox Insider Release Notes – Beta &lpar;2311.231102-1830&rpar;](https://news.xbox.com/en-us/2023/11/07/xbox-insider-release-notes-beta-2311-231102-1830/)<!-- GAME:END -->
+ - [New Mass Effect Teasers Finally Confirm What We’ve All Been Guessing](https://kotaku.com/mass-effect-teaser-n7-day-andromeda-1850999958)
+ - [Night In The Woods Devs Cancel Highly Anticipated Follow-Up](https://kotaku.com/night-woods-revenant-hill-canceled-2017-indie-goty-1850999850)
+ - [BioWare is teasing the new Mass Effect for N7 Day, and I really wish they&#39;d just tell us what&#39;s going on](https://www.pcgamer.com/bioware-is-teasing-the-new-mass-effect-for-n7-day-and-i-really-wish-theyd-just-tell-us-whats-going-on)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
