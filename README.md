@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep horror alive](http://9gag.com/gag/aME523P)
- - ⏩ [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
- - 👉 [Its all lies!](http://9gag.com/gag/a9q0bxj)<!-- MEMES:END -->
+ - 💣 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
+ - ⏩ [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 👉 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)<!-- MEMES:END -->
 
 ---
 
