@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Shein aims for an $80B to $90B valuation in its US IPO, far exceeding its $50B to $60B valuation in private trades; Shein was valued at $100B in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231107/p7#a231107p7)
- - [NXP Semiconductors reports Q3 revenue down 0.3% YoY to $3.43B, beating $3.4B est., and forecasts strong Q4 profit due to strong automotive and industrial demand &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231107/p6#a231107p6)
- - [Sources: Intel scrapped a planned Vietnam investment in July 2023 that could have nearly doubled its operations, citing power supply and bureaucracy concerns &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/231107/p5#a231107p5)<!-- TECH:END -->
+ - [Tech and Games Can Help Curb Youth Suicide](https://www.wired.com/story/tech-video-games-youth-suicide/)
+ - [How the Apple TV 4K Quickly Became My Favorite Streaming Device](https://www.wired.com/story/apple-tv-4k-rave/)
+ - [Barbra Streisand corrected Siri by calling Tim Cook](https://appleinsider.com/articles/23/11/07/barbra-streisand-corrected-siri-by-calling-tim-cook?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
