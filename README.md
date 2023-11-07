@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Roblox Players Say Pro-Palestinian Games Are Being Taken Down [Update]](https://kotaku.com/roblox-pro-free-palestine-flag-israel-1850995445)
  - [Diablo 4 still has 4 crucial issues to fix before the expansion launches next year](https://www.pcgamer.com/diablo-4-still-has-4-crucial-issues-to-fix-before-the-expansion-launches-next-year)
- - [One of Embracer&#39;s top executives resigns and announces his own gaming company at the same time](https://www.pcgamer.com/one-of-embracers-top-executives-resigns-and-announces-his-own-gaming-company-at-the-same-time)
- - [Epic Games Admits In Court That Its PC Store Still Isn&#39;t Profitable](https://kotaku.com/epic-games-store-pc-profitable-google-court-case-apple-1850996972)<!-- GAME:END -->
+ - [One of Embracer&#39;s top executives resigns and announces his own gaming company at the same time](https://www.pcgamer.com/one-of-embracers-top-executives-resigns-and-announces-his-own-gaming-company-at-the-same-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
