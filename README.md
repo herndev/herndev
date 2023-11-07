@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
- - ⏩ [Americlap](http://9gag.com/gag/aBd5KWO)
- - 👉 [Think Ron might have liked it](http://9gag.com/gag/a5X3KYV)<!-- MEMES:END -->
+ - 💣 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - ⏩ [Cursed Title](http://9gag.com/gag/aGE5VO5)
+ - 👉 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)<!-- MEMES:END -->
 
 ---
 
