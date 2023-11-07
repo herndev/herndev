@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [A look at the hurdles tech startups like Shield AI, which makes autonomous drones, face in competing for Pentagon funding against more entrenched weapons makers &lpar;New York Times&rpar;](http://www.techmeme.com/231107/p2#a231107p2)
- - [Google is pushing out a fix for the troublesome Android 14 storage bug on Pixels](https://www.androidauthority.com/google-pixel-android-14-storage-bug-fix-rollout-3383177/)
- - [Intensified Israeli Surveillance Has Put the West Bank on Lockdown](https://www.wired.com/story/israel-surveillance-state-out-of-control-west-bank/)<!-- TECH:END -->
+ - [Intensified Israeli Surveillance Has Put the West Bank on Lockdown](https://www.wired.com/story/israel-surveillance-state-out-of-control-west-bank/)
+ - [Sources: Chinese authorities took away game-streaming site DouYu&#39;s founder Chen Shaojie in October 2023; a source says to probe porn and gambling on DouYu &lpar;Financial Times&rpar;](http://www.techmeme.com/231107/p1#a231107p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
