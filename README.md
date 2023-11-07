@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Marvels’ final trailer may have given away its biggest surprise](https://www.polygon.com/23950632/the-marvels-final-trailer-binary-tessa-thompson)
- - [Jack Reacher, king of righteous beatdowns, finally returns in December](https://www.polygon.com/23950652/reacher-season-2-trailer-release-date-hell-yeah)
- - [The Official Minecraft Server List is Live](https://minecraft.net/article/the-official-minecraft-server-list-live#new_tab)<!-- GAME:END -->
+ - [The 10 Best Call Of Duty Maps Of All Time](https://kotaku.com/call-of-duty-best-maps-ranked-games-modern-warfare-3-1850788381)
+ - [Xbox Insider Release Notes – Delta &lpar;2311.231102-1830&rpar;](https://news.xbox.com/en-us/2023/11/07/xbox-insider-release-notes-delta-2311-231102-1830/)
+ - [Xbox Insider Release Notes – Beta &lpar;2311.231102-1830&rpar;](https://news.xbox.com/en-us/2023/11/07/xbox-insider-release-notes-beta-2311-231102-1830/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
