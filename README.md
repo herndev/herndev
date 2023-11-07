@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp head confirms in-app ads are still in the works](https://www.theverge.com/2023/11/7/23950795/meta-whatsapp-status-ads-sales-advertising-plans)
- - [Internet Blackouts in Gaza Are a New Weapon in the Israel-Hamas War](https://www.wired.com/story/israel-gaza-internet-blackouts-weapon/)
- - [5 Key Updates in GPT-4 Turbo, OpenAI’s Newest Model](https://www.wired.com/story/5-updates-gpt-4-turbo-openai-chatgpt-sam-altman/)<!-- TECH:END -->
+ - [Reddit is starting to test its own add-ons for the platform](https://www.theverge.com/2023/11/7/23950696/reddit-developer-platform-add-ons-test)
+ - [Google pushes an update for Pixel phones fixing security bugs and an Android 14 storage bug locking some owners, who use multiple profiles, out of their devices &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231107/p36#a231107p36)
+ - [WhatsApp rolls out the ability to search for messages by date in its web client, to those enrolled in its beta program &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231107/p35#a231107p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
