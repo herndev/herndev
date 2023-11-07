@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech and Games Can Help Curb Youth Suicide](https://www.wired.com/story/tech-video-games-youth-suicide/)
- - [How the Apple TV 4K Quickly Became My Favorite Streaming Device](https://www.wired.com/story/apple-tv-4k-rave/)
- - [Barbra Streisand corrected Siri by calling Tim Cook](https://appleinsider.com/articles/23/11/07/barbra-streisand-corrected-siri-by-calling-tim-cook?utm_medium=rss)<!-- TECH:END -->
+ - [How to give yourself a break from your Android phone](https://www.theverge.com/23948646/android-phone-digital-wellbeing-focus-sleep-how-to)
+ - [LG&#39;s AI unit partners with Qraft to launch the LG Qraft AI-Powered US Large-Cap Core ETF on the NYSE, using LG&#39;s forecasting tools to rebalance its portfolio &lpar;Will Schmitt/Financial Times&rpar;](http://www.techmeme.com/231107/p16#a231107p16)
+ - [Nvidia’s RTX 4070 / 4080 Super cards rumored for CES 2024 launch](https://www.theverge.com/2023/11/7/23950348/nvidia-rtx-4080-4070-super-ces-2024-launch-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
