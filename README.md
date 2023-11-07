@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - ⏩ [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 💣 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - ⏩ [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
  - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
