@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - ⏩ [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
- - 👉 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
+ - 💣 [Keep horror alive](http://9gag.com/gag/aME523P)
+ - ⏩ [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - 👉 [Its all lies!](http://9gag.com/gag/a9q0bxj)<!-- MEMES:END -->
 
 ---
 
