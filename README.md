@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - ⏩ [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 👉 [Its all lies!](http://9gag.com/gag/a9q0bxj)<!-- MEMES:END -->
+ - 💣 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
+ - ⏩ [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 👉 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
 
 ---
 
