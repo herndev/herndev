@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Invincible: a Mind-Boggling, Hard Sci-Fi Adventure Set in a Retrofuture Timeline](https://news.xbox.com/en-us/2023/11/07/the-invincible-a-mind-boggling-hard-sci-fi-adventure/)
- - [How to summon the Echo of Varshan and farm Malignant Rings in Diablo 4](https://www.polygon.com/diablo-4-guides/23950977/echo-varshan-malignant-rings-summon-rewards-location)
- - [Blizzard&#39;s job is to satisfy impatient players who want &#39;new stuff every day, every hour,&#39; says studio head](https://www.pcgamer.com/blizzards-job-is-to-provide-impatient-players-new-stuff-every-day-every-hour-says-studio-head)<!-- GAME:END -->
+ - [How to beat Raene Wolfrunner in Warcraft Rumble](https://www.polygon.com/guides/23951172/warcraft-rumble-raene-wolfrunner-how-to-beat)
+ - [The best survival games on PC](https://www.pcgamer.com/the-best-survival-games-on-pc)
+ - [Nintendo Says A Live-Action Zelda Movie Is Coming](https://kotaku.com/nintendo-zelda-movie-mario-switch-marvel-1851000791)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
