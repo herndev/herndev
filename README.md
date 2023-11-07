@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out HomePod software version 17.1.1](https://appleinsider.com/articles/23/11/07/apple-rolls-out-homepod-software-version-1711?utm_medium=rss)
- - [eBay reports Q3 revenue up 5% YoY to $2.5B, gross merchandise volume up 2% YoY to $18B, and forecasts Q4 revenue below estimates; EBAY falls 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231107/p38#a231107p38)
- - [Ubisoft lays off dozens of workers as gaming industry struggles drag on](https://www.theverge.com/2023/11/7/23951138/ubisoft-montreal-layoffs-hybride-assassins-creed)<!-- TECH:END -->
+ - [Apple updates iOS so BMW’s wireless charging won’t break your iPhone 15](https://www.theverge.com/2023/11/7/23951279/apple-ios-17-1-1-update-bmw-wireless-charging-iphone-15)
+ - [Toast reports Q3 revenue up 37% YoY to $1.03B, matching estimates, and lowers the upper range of its FY 2023 revenue forecast; TOST drops 18%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231107/p41#a231107p41)
+ - [Bumble reports Q3 revenue up 18.4% YoY to $275.5M, vs. $277M est., net earnings down 13% YoY to $23.1M, and forecasts Q4 revenue below estimates; BMBL drops 6%+ &lpar;Reuters&rpar;](http://www.techmeme.com/231107/p40#a231107p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
