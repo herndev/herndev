@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many layers here....](http://9gag.com/gag/ap9woMn)
- - ⏩ [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 👉 [Useless High effort](http://9gag.com/gag/a8qOW8e)<!-- MEMES:END -->
+ - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
+ - ⏩ [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
 
