@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #871 for Tuesday, November 7](https://www.pcgamer.com/wordle-today-answer-871-november-7)
- - [Roblox Players Say Pro-Palestinian Games Are Being Taken Down [Update]](https://kotaku.com/roblox-pro-free-palestine-flag-israel-1850995445)
- - [Diablo 4 still has 4 crucial issues to fix before the expansion launches next year](https://www.pcgamer.com/diablo-4-still-has-4-crucial-issues-to-fix-before-the-expansion-launches-next-year)<!-- GAME:END -->
+ - [Canon challenges ASML dominance with new chipmaking tech that could lead to cheaper chips](https://www.pcgamer.com/canon-challenges-asml-dominance-with-new-chipmaking-tech-that-could-lead-to-cheaper-chips)
+ - [Can Chinchou be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23948692/can-chinchou-be-shiny-lanturn)
+ - [Wordle today: Hint and answer #871 for Tuesday, November 7](https://www.pcgamer.com/wordle-today-answer-871-november-7)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
