@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dinosaurs.](http://9gag.com/gag/aEq5GOx)
- - ⏩ [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 👉 [Interesting](http://9gag.com/gag/a7qXyqw)<!-- MEMES:END -->
+ - 💣 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - ⏩ [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 👉 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)<!-- MEMES:END -->
 
 ---
 
