@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag proves yet again it may be time to hide a tracker in your car](https://appleinsider.com/articles/23/11/06/airtag-proves-yet-again-it-may-be-time-to-hide-a-tracker-in-your-car?utm_medium=rss)
- - [A survey of 167 researchers shows 104 studies about X have been canceled, suspended, or changed after X ended free academic access to its API and sued the CCDH &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/231106/p34#a231106p34)
- - [Feeling Stuffy? What to Know Before You Reach for Your Go-To Decongestant     - CNET](https://www.cnet.com/health/medical/feeling-stuffy-what-to-know-before-you-reach-for-your-go-to-decongestant/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Final Cut Pro November update incoming with improved navigation, ML Object Tracker](https://appleinsider.com/articles/23/11/06/final-cut-pro-november-update-incoming-with-improved-navigation-ml-object-tracker?utm_medium=rss)
+ - [PS5 ‘slim’ teardown shows the clever engineering of its detachable disc drive](https://www.theverge.com/2023/11/6/23949505/ps5-slim-teardown-detachable-disc-drive-engineering)
+ - [Sources: Intel is the leading candidate to potentially receive billions under the US Chips Act to build secure facilities producing chips for the US military &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231106/p35#a231106p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
