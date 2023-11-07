@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
- - ⏩ [Useless High effort](http://9gag.com/gag/a8qOW8e)
- - 👉 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)<!-- MEMES:END -->
+ - 💣 [Dinosaurs.](http://9gag.com/gag/aEq5GOx)
+ - ⏩ [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 👉 [Interesting](http://9gag.com/gag/a7qXyqw)<!-- MEMES:END -->
 
 ---
 
