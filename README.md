@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When reality becomes absurd](http://9gag.com/gag/aME5bN6)
- - ⏩ [Baked Beans, yay or nay?](http://9gag.com/gag/aWG56n2)
- - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
+ - 💣 [Too smart for Harvard Business School](http://9gag.com/gag/aQE58XW)
+ - ⏩ [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 👉 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)<!-- MEMES:END -->
 
 ---
 
