@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How We Made Football Manager 2024 Console Into the Perfect Xbox Experience](https://news.xbox.com/en-us/2023/11/07/football-manager-2024-console-edition/)
- - [Third Xbox Transparency Report Shows Our Evolving Approach to Creating Safer Gaming Experiences](https://news.xbox.com/en-us/2023/11/07/xbox-third-transparency-report/)
- - [World of Warcraft’s new patch concludes Dragonflight’s biggest conflict](https://www.polygon.com/23949582/world-of-warcraft-dragonflight-guardians-of-the-dream-patch-explained)<!-- GAME:END -->
+ - [The Marvels’ final trailer may have given away its biggest surprise](https://www.polygon.com/23950632/the-marvels-final-trailer-binary-tessa-thompson)
+ - [Jack Reacher, king of righteous beatdowns, finally returns in December](https://www.polygon.com/23950652/reacher-season-2-trailer-release-date-hell-yeah)
+ - [The Official Minecraft Server List is Live](https://minecraft.net/article/the-official-minecraft-server-list-live#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
