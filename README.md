@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma introduces FigJam AI to spare designers from boring planning prep](https://www.theverge.com/2023/11/7/23950667/figma-figjam-generative-ai-design-tools-beta-announcement)
- - [Crunchyroll is adding mobile games to its subscription](https://www.theverge.com/2023/11/7/23949187/crunchyroll-mobile-game-subscription-anime)
- - [YouTube&#39;s Ad Blocker Detection Believed to Break EU Privacy Law](https://www.wired.com/story/youtube-ad-blocker-detection-eu-privacy-law/)<!-- TECH:END -->
+ - [Scans reveal how counterfeiters fake AirPods with cheap components](https://appleinsider.com/articles/23/11/07/scans-reveal-how-counterfeiters-fake-airpods-with-cheap-components?utm_medium=rss)
+ - [The CFPB proposes new powers to oversee companies offering digital wallets and payment apps that facilitate 5M+ transactions per year, currently ~17 companies &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/231107/p29#a231107p29)
+ - [OLED iPad Pro could kill off mini LED models in 2024](https://appleinsider.com/articles/23/11/07/oled-ipad-pro-could-kill-off-mini-led-models-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
