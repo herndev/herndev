@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
- - ⏩ [Americlap](http://9gag.com/gag/aBd5KWO)
- - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
+ - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - ⏩ [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 👉 [Its all lies!](http://9gag.com/gag/a9q0bxj)<!-- MEMES:END -->
 
 ---
 
