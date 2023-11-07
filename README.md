@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - ⏩ [Useless High effort](http://9gag.com/gag/a8qOW8e)
- - 👉 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)<!-- MEMES:END -->
+ - 💣 [So many layers here....](http://9gag.com/gag/ap9woMn)
+ - ⏩ [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 👉 [Useless High effort](http://9gag.com/gag/a8qOW8e)<!-- MEMES:END -->
 
 ---
 
