@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Laid-Off Dragon Age Testers Will Picket BioWare](https://kotaku.com/laid-off-dragon-age-testers-will-picket-bioware-1850996639)
- - [Cult Stash locations and puzzle solutions in Alan Wake 2](https://www.polygon.com/guides/23933673/alan-wake-2-cult-stash-locations-puzzle-solutions)
- - [There&#39;s a cursed way to get a free Game Pass subscription or grind Diablo 4 battle pass tiers: Bing searches](https://www.pcgamer.com/microsoft-rewards-pc-gaming-points)<!-- GAME:END -->
+ - [Diablo 4 still has 4 crucial issues to fix before the expansion launches next year](https://www.pcgamer.com/diablo-4-still-has-4-crucial-issues-to-fix-before-the-expansion-launches-next-year)
+ - [One of Embracer&#39;s top executives resigns and announces his own gaming company at the same time](https://www.pcgamer.com/one-of-embracers-top-executives-resigns-and-announces-his-own-gaming-company-at-the-same-time)
+ - [Epic Games Admits In Court That Its PC Store Still Isn&#39;t Profitable](https://kotaku.com/epic-games-store-pc-profitable-google-court-case-apple-1850996972)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
