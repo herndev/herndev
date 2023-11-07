@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Americlap](http://9gag.com/gag/aBd5KWO)
- - ⏩ [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 👉 [Culture enrichment](http://9gag.com/gag/aDY5RGO)<!-- MEMES:END -->
+ - 💣 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - ⏩ [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 👉 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)<!-- MEMES:END -->
 
 ---
 
