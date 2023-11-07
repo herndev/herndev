@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to give yourself a break from your Android phone](https://www.theverge.com/23948646/android-phone-digital-wellbeing-focus-sleep-how-to)
- - [LG&#39;s AI unit partners with Qraft to launch the LG Qraft AI-Powered US Large-Cap Core ETF on the NYSE, using LG&#39;s forecasting tools to rebalance its portfolio &lpar;Will Schmitt/Financial Times&rpar;](http://www.techmeme.com/231107/p16#a231107p16)
- - [Nvidia’s RTX 4070 / 4080 Super cards rumored for CES 2024 launch](https://www.theverge.com/2023/11/7/23950348/nvidia-rtx-4080-4070-super-ces-2024-launch-rumor)<!-- TECH:END -->
+ - [Former Kotaku writers are launching a new video game site — and they own it this time](https://www.theverge.com/2023/11/7/23949269/aftermath-video-games-kotaku-defector)
+ - [Redwood Materials will recycle stationary storage batteries as it expands its scope](https://www.theverge.com/2023/11/7/23949188/redwood-materials-stationary-storage-battery-recycle-kauai)
+ - [European Parliament lawmakers approve new political ad rules that require Meta, Google, and others to clearly label such ads, who paid and how much, and more &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231107/p19#a231107p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
