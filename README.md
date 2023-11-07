@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WeWork, valued at $47B in 2019, files for Chapter 11 bankruptcy protection for its locations in the US and Canada, and reports liabilities between $10B and $50B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231106/p39#a231106p39)
- - [Ohio Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/ohio-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)
- - [AI startup Vectara&#39;s Hallucination Evaluation Model: OpenAI&#39;s LLMs had the lowest hallucination rates, followed by Meta&#39;s; Google&#39;s PaLM-Chat had the highest &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/231106/p38#a231106p38)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s custom GPT builder, which Sam Altman says the company wants to keep simple for now, and the risks in allowing anyone to create GPT agents &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231106/p41#a231106p41)
+ - [Understanding &#39;Hey Siri&#39; -- how to use it, commands, and more](https://appleinsider.com/inside/siri/tips/understanding-hey-siri----how-to-use-it-commands-and-more?utm_medium=rss)
+ - [WeWork Just Filed For Bankruptcy](https://www.wired.com/story/wework-bankruptcy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
