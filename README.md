@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Night in the Woods follow-up Revenant Hill has been canceled](https://www.theverge.com/2023/11/7/23951123/revenant-hill-canceled-night-in-the-woods)
- - [Government Surveillance Reform Act of 2023 Seeks to End Warrantless Police and FBI Spying](https://www.wired.com/story/government-surveillance-reform-act-2023/)
- - [Echelon Row Machine Is Just $922 With This Early Black Friday Deal     - CNET](https://www.cnet.com/deals/echelon-row-machine-is-just-922-with-this-early-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple rolls out HomePod software version 17.1.1](https://appleinsider.com/articles/23/11/07/apple-rolls-out-homepod-software-version-1711?utm_medium=rss)
+ - [eBay reports Q3 revenue up 5% YoY to $2.5B, gross merchandise volume up 2% YoY to $18B, and forecasts Q4 revenue below estimates; EBAY falls 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231107/p38#a231107p38)
+ - [Ubisoft lays off dozens of workers as gaming industry struggles drag on](https://www.theverge.com/2023/11/7/23951138/ubisoft-montreal-layoffs-hybride-assassins-creed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
