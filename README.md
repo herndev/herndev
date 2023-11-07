@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Beginner Tips for a Successful Run in Roboquest](https://news.xbox.com/en-us/2023/11/07/five-beginner-tips-for-a-successful-run-in-roboquest/)
- - [The new Yakuza is a perfect entry point, for better and worse](https://www.polygon.com/reviews/23949305/like-a-dragon-gaiden-review-new-yakuza)
- - [This hyper-detailed recreation of Disco Elysium&#39;s opening scene makes a terrible hangover look like a terrific idea](https://www.pcgamer.com/this-hyper-detailed-recreation-of-disco-elysiums-opening-scene-is-all-killer-no-filler)<!-- GAME:END -->
+ - [Ex-Dragon Age testers picket BioWare office as others fight for severance](https://www.polygon.com/23950412/keywords-studios-bioware-picket-edmonton-office-qa)
+ - [A faster 8,000Hz polling rate is only a software update away for five more Razer gaming mice](https://www.pcgamer.com/a-faster-8000hz-polling-rate-is-only-a-software-update-away-for-five-more-razer-gaming-mice)
+ - [The co-op survival RPG that took Steam Next Fest by storm has a release date, and it&#39;s soon-ish](https://www.pcgamer.com/the-co-op-survival-rpg-that-took-steam-next-fest-by-storm-has-a-release-date-and-its-soon-ish)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
