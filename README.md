@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too smart for Harvard Business School](http://9gag.com/gag/aQE58XW)
- - ⏩ [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 👉 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)<!-- MEMES:END -->
+ - 💣 [This one goes out for the boys. You guys have a chance now.](http://9gag.com/gag/aQE5xP8)
+ - ⏩ [Thousands of German patriots in Dresden for a free and Christian Europe. Rise of the Fourth Reich?](http://9gag.com/gag/aOx5Vzv)
+ - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
 
 ---
 
