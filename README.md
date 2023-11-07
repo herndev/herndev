@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Kotaku writers are launching a new video game site — and they own it this time](https://www.theverge.com/2023/11/7/23949269/aftermath-video-games-kotaku-defector)
- - [Redwood Materials will recycle stationary storage batteries as it expands its scope](https://www.theverge.com/2023/11/7/23949188/redwood-materials-stationary-storage-battery-recycle-kauai)
- - [European Parliament lawmakers approve new political ad rules that require Meta, Google, and others to clearly label such ads, who paid and how much, and more &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231107/p19#a231107p19)<!-- TECH:END -->
+ - [Apple Pencil &lpar;USB-C&rpar; review: A new budget option in a temporarily confusing lineup](https://appleinsider.com/articles/23/11/07/apple-pencil-usb-c-review-a-new-budget-option-in-a-temporarily-confusing-lineup?utm_medium=rss)
+ - [Volante, which offers low-code payments tools used by 150 major banks and other institutions, raised $66M in equity and debt, taking its total funding to $116M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231107/p23#a231107p23)
+ - [The Tech Coalition, including Discord, Google, Meta, Roblox, Snap, and Twitch, announce Lantern to help share &quot;signals&quot; on child sexual exploitation and abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231107/p22#a231107p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
