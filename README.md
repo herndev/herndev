@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
- - ⏩ [Cursed Title](http://9gag.com/gag/aGE5VO5)
- - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
+ - 💣 [When reality becomes absurd](http://9gag.com/gag/aME5bN6)
+ - ⏩ [Baked Beans, yay or nay?](http://9gag.com/gag/aWG56n2)
+ - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
 
 ---
 
