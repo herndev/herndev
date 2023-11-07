@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Angler Spain Reserve](https://news.xbox.com/en-us/2023/11/07/the-angler-spain-reserve/)
- - [The layoffs continue: Ubisoft cuts 124 jobs worldwide, including nearly 100 in Canada](https://www.pcgamer.com/the-layoffs-continue-ubisoft-cuts-124-jobs-worldwide-including-nearly-100-in-canada)
- - [DayZ just added a new rifle, a new air base, and what the heck, a whole new damn sky](https://www.pcgamer.com/dayz-just-added-a-new-rifle-a-new-air-base-and-what-the-heck-a-whole-new-damn-sky)<!-- GAME:END -->
+ - [The Invincible: a Mind-Boggling, Hard Sci-Fi Adventure Set in a Retrofuture Timeline](https://news.xbox.com/en-us/2023/11/07/the-invincible-a-mind-boggling-hard-sci-fi-adventure/)
+ - [How to summon the Echo of Varshan and farm Malignant Rings in Diablo 4](https://www.polygon.com/diablo-4-guides/23950977/echo-varshan-malignant-rings-summon-rewards-location)
+ - [Blizzard&#39;s job is to satisfy impatient players who want &#39;new stuff every day, every hour,&#39; says studio head](https://www.pcgamer.com/blizzards-job-is-to-provide-impatient-players-new-stuff-every-day-every-hour-says-studio-head)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
