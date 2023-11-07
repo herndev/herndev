@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit is starting to test its own add-ons for the platform](https://www.theverge.com/2023/11/7/23950696/reddit-developer-platform-add-ons-test)
- - [Google pushes an update for Pixel phones fixing security bugs and an Android 14 storage bug locking some owners, who use multiple profiles, out of their devices &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231107/p36#a231107p36)
- - [WhatsApp rolls out the ability to search for messages by date in its web client, to those enrolled in its beta program &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231107/p35#a231107p35)<!-- TECH:END -->
+ - [Night in the Woods follow-up Revenant Hill has been canceled](https://www.theverge.com/2023/11/7/23951123/revenant-hill-canceled-night-in-the-woods)
+ - [Government Surveillance Reform Act of 2023 Seeks to End Warrantless Police and FBI Spying](https://www.wired.com/story/government-surveillance-reform-act-2023/)
+ - [Echelon Row Machine Is Just $922 With This Early Black Friday Deal     - CNET](https://www.cnet.com/deals/echelon-row-machine-is-just-922-with-this-early-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
