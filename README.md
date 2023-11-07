@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grannies are the best](http://9gag.com/gag/aKE5Byj)
- - ⏩ [If you know, you know what\u2019s going on.](http://9gag.com/gag/aeQwpA5)
- - 👉 [Interesting](http://9gag.com/gag/a7qXyqw)<!-- MEMES:END -->
+ - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - ⏩ [Cursed Title](http://9gag.com/gag/aGE5VO5)
+ - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
 
 ---
 
