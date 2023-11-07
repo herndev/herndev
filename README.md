@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
+ - 💣 [Its all lies!](http://9gag.com/gag/a9q0bxj)
  - ⏩ [Useless High effort](http://9gag.com/gag/a8qOW8e)
- - 👉 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
+ - 👉 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)<!-- MEMES:END -->
 
 ---
 
