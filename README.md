@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple 2024 Swift Student Challenge opens in February](https://appleinsider.com/articles/23/11/08/apple-2024-swift-student-challenge-opens-in-february?utm_medium=rss)
- - [Samsung Galaxy S23 FE review: big display, fun colors, and four years of updates, but lackluster telephoto lens, sluggish portrait mode, and unlocked costs more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231108/p23#a231108p23)
- - [La Brea season 3: Plot, cast, release window, and more](https://www.androidauthority.com/la-brea-season-3-release-date-3380788/)<!-- TECH:END -->
+ - [Apple iMac M3 review: searching for a purpose](https://www.theverge.com/23951082/apple-imac-m3-review-24-inch)
+ - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
+ - [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
