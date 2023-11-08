@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic v. Google: internal documents show Activision Blizzard accepted $360M in incentives from Google in 2020 to ensure its games launched on the Play Store &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231108/p2#a231108p2)
- - [In an interview, Mark Zuckerberg positioned WhatsApp as a &quot;next chapter&quot; for Meta; WhatsApp now has more than 225 Channels that each have 1M+ followers &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/231108/p1#a231108p1)
- - [Milan-based Qomodo, which offers multiple payment services to consumers and retailers, including BNPL options, raised a &amp;euro;34.5M pre-seed led by Fasanara Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/231107/p52#a231107p52)<!-- TECH:END -->
+ - [In a comment submitted to the US Copyright Office, the FTC warned that generative AI has enabled potential copyright infringement and consumer deception &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/231108/p5#a231108p5)
+ - [Cast AI, whose automation tools help companies monitor, manage, and optimize Kubernetes spend, raised a $35M Series B, bringing its total funding to $73M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231108/p4#a231108p4)
+ - [Pixel Watch 2 gets disappointing first ever update](https://www.androidauthority.com/pixel-watch-2-november-update-3383574/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
