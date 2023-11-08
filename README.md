@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates iOS so BMW’s wireless charging won’t break your iPhone 15](https://www.theverge.com/2023/11/7/23951279/apple-ios-17-1-1-update-bmw-wireless-charging-iphone-15)
- - [Toast reports Q3 revenue up 37% YoY to $1.03B, matching estimates, and lowers the upper range of its FY 2023 revenue forecast; TOST drops 18%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231107/p41#a231107p41)
- - [Bumble reports Q3 revenue up 18.4% YoY to $275.5M, vs. $277M est., net earnings down 13% YoY to $23.1M, and forecasts Q4 revenue below estimates; BMBL drops 6%+ &lpar;Reuters&rpar;](http://www.techmeme.com/231107/p40#a231107p40)<!-- TECH:END -->
+ - [Grab a Windows 11 Pro Lifetime License for just $24.97](https://appleinsider.com/articles/23/11/07/grab-a-windows-11-pro-lifetime-license-for-just-2497?utm_medium=rss)
+ - [Google adds generative AI features to its Performance Max ad platform, rolling out first as a beta to all US advertisers by the end of the year &lpar;Matt G. Southern/Search Engine Journal&rpar;](http://www.techmeme.com/231107/p45#a231107p45)
+ - [LG’s new ultrawide monitors are a little smaller and a little cheaper](https://www.theverge.com/2023/11/7/23951349/lg-ultragear-45-inch-curved-gaming-monitors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
