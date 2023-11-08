@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remedy&#39;s plant bone tech is just one of the reasons Alan Wake 2 is the best-looking videogame of 2023](https://www.pcgamer.com/remedys-plant-bone-tech-is-just-one-of-the-reasons-alan-wake-2-is-the-best-looking-videogame-of-2023)
- - [Everything we know about World of Warcraft: The War Within](https://www.pcgamer.com/world-of-warcraft-wow-war-within-release-date)
- - [Tactical squad shooter Zero Hour has just got a chaotic new game mode](https://www.pcgamer.com/tactical-squad-shooter-zero-hour-has-just-got-a-chaotic-new-game-mode)<!-- GAME:END -->
+ - [Grand Theft Auto VI Trailer Reveal Everyone&#39;s Waiting For Officially Happening In December](https://kotaku.com/grand-theft-auto-6-gta-trailer-release-date-1851002299)
+ - [The first trailer for Grand Theft Auto 6 is coming in early December](https://www.polygon.com/23952009/gta6-trailer-release-date)
+ - [Rockstar officially announces GTA 6 reveal in December](https://www.pcgamer.com/rockstar-officially-announces-gta-6-reveal-in-december)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
