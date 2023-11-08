@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will start deleting millions of abandoned Gmail accounts next month](https://www.androidauthority.com/google-account-deletion-next-month-3383737/)
- - [Rockstar plans to begin promoting Grand Theft Auto VI, expected to be one of the decade&#39;s biggest video games, in December, coinciding with its 25th anniversary &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231108/p31#a231108p31)
- - [Captain Laserhawk’s Adi Shankar on multiverses, AI, and Rayman propaganda](https://www.theverge.com/23945342/captain-laserhawk-adi-shankar-netflix-rayman)<!-- TECH:END -->
+ - [Lego’s three-foot-tall Avengers Tower comes packed with Marvel minifigs](https://www.theverge.com/2023/11/8/23952172/lego-avengers-tower-minifigs-release-date-price)
+ - [Apple best-placed to benefit as AI goes mainstream, says Morgan Stanley](https://appleinsider.com/articles/23/11/08/apple-best-placed-to-benefit-as-ai-goes-mainstream-says-morgan-stanley?utm_medium=rss)
+ - [Maybe &lpar;HBO&rpar; Max Just Isn’t Worth It](https://www.wired.com/story/warner-bros-discovery-max-loses-subscribers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
