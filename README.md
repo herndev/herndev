@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
  - ⏩ [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
- - 👉 [To denounce Islamophobia, the Italian leftist artist Pippa Bacca decided to hitchhike across the Middle East, in order to prove that its inhabitants were peaceful. Once she arrived in Turkey, she was raped and murdered. She was 33 years old.](http://9gag.com/gag/ajVw0Ww)<!-- MEMES:END -->
+ - 👉 [What&#39;s wrong babe? You haven&#39;t even touched your venti double milkaccino](http://9gag.com/gag/a1PjYQD)<!-- MEMES:END -->
 
 ---
 
