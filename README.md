@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Raene Wolfrunner in Warcraft Rumble](https://www.polygon.com/guides/23951172/warcraft-rumble-raene-wolfrunner-how-to-beat)
- - [The best survival games on PC](https://www.pcgamer.com/the-best-survival-games-on-pc)
- - [Nintendo Says A Live-Action Zelda Movie Is Coming](https://kotaku.com/nintendo-zelda-movie-mario-switch-marvel-1851000791)<!-- GAME:END -->
+ - [New Halo 1 cosmetic armor in Halo Infinite costs twice as much as Halo 1 itself, straining recent fan goodwill](https://www.pcgamer.com/new-halo-1-cosmetic-armor-in-halo-infinite-costs-twice-as-much-as-halo-1-itself-straining-recent-fan-goodwill)
+ - [Ex-BioWare employees and contractors use N7 Day to air disputes with the studio](https://www.pcgamer.com/ex-bioware-employees-and-contractors-use-n7-day-to-air-disputes-with-the-studio)
+ - [Community Update November 2023](https://news.xbox.com/en-us/2023/11/07/community-update-november-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
