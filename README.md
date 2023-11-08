@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
- - ⏩ [Secret handshake](http://9gag.com/gag/axowV2b)
- - 👉 [Jewish man killed by hamas supporter in LA.. no coverage in media.](http://9gag.com/gag/a9q0Pnj)<!-- MEMES:END -->
+ - 💣 [What&#39;s wrong babe? You haven&#39;t even touched your venti double milkaccino](http://9gag.com/gag/a1PjYQD)
+ - ⏩ [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 👉 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)<!-- MEMES:END -->
 
 ---
 
