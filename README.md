@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When does Modern Warfare 3 multiplayer and Zombies release?](https://www.polygon.com/modern-warfare-3-guides/23950643/mw3-multiplayer-zombies-release-time-date)
  - [Nintendo is making a live-action Zelda movie](https://www.pcgamer.com/nintendo-is-making-a-live-action-zelda-movie)
- - [New Mass Effect teaser gives fans something to chew on for N7 Day](https://www.polygon.com/23951402/mass-effect-5-teaser-trailer-bioware-n7-day)
- - [New Halo 1 cosmetic armor in Halo Infinite costs twice as much as Halo 1 itself, straining recent fan goodwill](https://www.pcgamer.com/new-halo-1-cosmetic-armor-in-halo-infinite-costs-twice-as-much-as-halo-1-itself-straining-recent-fan-goodwill)<!-- GAME:END -->
+ - [New Mass Effect teaser gives fans something to chew on for N7 Day](https://www.polygon.com/23951402/mass-effect-5-teaser-trailer-bioware-n7-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
