@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Keep Link short in the Zelda movie](https://www.polygon.com/23952620/link-zelda-movie-casting-short-kings-only)
- - [PlayStation Is Losing The Reason Its Share Button Exists](https://kotaku.com/sony-playstation-twitter-elon-musk-ps5-1850996292)
- - [Xbox Insider Release Notes – Alpha &lpar;2311.231106-1030&rpar;](https://news.xbox.com/en-us/2023/11/08/xbox-insider-release-notes-alpha-2311-231106-1030/)<!-- GAME:END -->
+ - [Fortnite OG is super weird as a Zero Build player](https://www.polygon.com/23952544/fortnite-og-map-zero-build-impressions)
+ - [A Decade Of GTA VI Speculation, Rumors, And Hijinks Will Soon Come To An End](https://kotaku.com/gta-6-theories-rumors-leaks-news-trailer-rockstar-games-1851004096)
+ - [Adele made her kid a Rust costume for Halloween, though &#39;can&#39;t say he really loved it&#39;](https://www.pcgamer.com/adele-made-her-kid-a-rust-costume-for-halloween-though-cant-say-he-really-loved-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
