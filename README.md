@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite OG is super weird as a Zero Build player](https://www.polygon.com/23952544/fortnite-og-map-zero-build-impressions)
- - [A Decade Of GTA VI Speculation, Rumors, And Hijinks Will Soon Come To An End](https://kotaku.com/gta-6-theories-rumors-leaks-news-trailer-rockstar-games-1851004096)
- - [Adele made her kid a Rust costume for Halloween, though &#39;can&#39;t say he really loved it&#39;](https://www.pcgamer.com/adele-made-her-kid-a-rust-costume-for-halloween-though-cant-say-he-really-loved-it)<!-- GAME:END -->
+ - [Starfield&#39;s Controversial Missing PC Feature Arrives In New Update](https://kotaku.com/starfield-pc-steam-update-dlss-beta-1851004451)
+ - [Mass Effect’s N7 Day Teasers Say A Lot With Very Little](https://kotaku.com/mass-effect-n7-teaser-andromeda-angara-geth-1851004287)
+ - [Valve is working on a new Steam feature that will let you hide all those weird sex games from your friends](https://www.pcgamer.com/valve-is-working-on-a-new-steam-feature-that-will-let-you-hide-all-those-weird-sex-games-from-your-friends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
