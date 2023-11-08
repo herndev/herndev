@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Postscript is gone, long live TrueType and OpenType](https://appleinsider.com/articles/23/11/08/postscript-is-gone-long-live-truetype-and-opentype?utm_medium=rss)
- - [Ann Arbor-based autonomous vehicle startup May Mobility, backed by Toyota and BMW, raised a $105M Series D led by NTT Group, taking its total funding to $300M+ &lpar;Harri Weber/TechCrunch&rpar;](http://www.techmeme.com/231107/p50#a231107p50)
- - [This Pixel-exclusive Google Home feature will soon come to more Android devices](https://www.androidauthority.com/google-pixel-home-panel-android-14-3383545/)<!-- TECH:END -->
+ - [Milan-based Qomodo, which offers multiple payment services to consumers and retailers, including BNPL options, raised a &amp;euro;34.5M pre-seed led by Fasanara Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/231107/p52#a231107p52)
+ - [AirPods discounted up to 50% in India with eligible iPhone 14 purchase](https://appleinsider.com/articles/23/11/08/airpods-discounted-up-to-50-in-india-with-eligible-iphone-14-purchase?utm_medium=rss)
+ - [Nintendo and Sony are making a live-action Legend of Zelda film](https://www.androidauthority.com/nintendo-legend-of-zelda-film-3383552/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
