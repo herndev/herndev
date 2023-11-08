@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
- - ⏩ [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 💣 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
+ - ⏩ [He slapped the 1st Amendment right out her mouth](http://9gag.com/gag/amAw9Qj)
  - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
