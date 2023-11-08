@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
- - ⏩ [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 👉 [Oh dear](http://9gag.com/gag/ajVwqvp)<!-- MEMES:END -->
+ - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - ⏩ [Secret handshake](http://9gag.com/gag/axowV2b)
+ - 👉 [Jewish man killed by hamas supporter in LA.. no coverage in media.](http://9gag.com/gag/a9q0Pnj)<!-- MEMES:END -->
 
 ---
 
