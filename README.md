@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch AFib alert leads to diabetes diagnosis, saving a woman&#39;s life](https://appleinsider.com/articles/23/11/08/apple-watch-afib-alert-leads-to-diabetes-diagnosis-saving-a-womans-life?utm_medium=rss)
- - [Coupang reports Q3 net revenue up 21% YoY to $6.2B, vs. $5.9B est., net income of $91.3M, vs. $119M est., and active customers up 14% YoY to a record 20.4M+ &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231107/p49#a231107p49)
- - [Source: Amazon is developing a new LLM, codenamed Olympus, which could be announced by December and may power new features for the online store, Alexa, and AWS &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231107/p48#a231107p48)<!-- TECH:END -->
+ - [Postscript is gone, long live TrueType and OpenType](https://appleinsider.com/articles/23/11/08/postscript-is-gone-long-live-truetype-and-opentype?utm_medium=rss)
+ - [Ann Arbor-based autonomous vehicle startup May Mobility, backed by Toyota and BMW, raised a $105M Series D led by NTT Group, taking its total funding to $300M+ &lpar;Harri Weber/TechCrunch&rpar;](http://www.techmeme.com/231107/p50#a231107p50)
+ - [This Pixel-exclusive Google Home feature will soon come to more Android devices](https://www.androidauthority.com/google-pixel-home-panel-android-14-3383545/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
