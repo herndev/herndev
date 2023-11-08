@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is now rallying troops in Europe to break iMessage exclusivity](https://www.androidauthority.com/google-imessage-digital-markets-act-3383584/)
- - [Samsung Gauss AI launched: Will you pay extra to use this on Galaxy S24?](https://www.androidauthority.com/samsung-gauss-ai-galaxy-s24-3383588/)
- - [How .tk, the ccTLD for New Zealand&#39;s Tokelau territory that until recently had more users than any other ccTLD, became a domain of choice for cybercriminals &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/231108/p8#a231108p8)<!-- TECH:END -->
+ - [Samsung’s Galaxy S24 will likely include on-device generative AI called Samsung Gauss](https://www.theverge.com/2023/11/8/23951930/samsung-galaxy-s24-generative-ai-model-samsung-gauss)
+ - [Ahead of the 2024 US election, Microsoft plans to offer a new free tool to help US politicians fight deepfakes by authenticating their videos and photos &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231108/p11#a231108p11)
+ - [Adobe&#39;s site for stock images lists AI-generated images of the Israel-Palestine conflict, and some small outlets have used them without labeling them as AI &lpar;Matt Growcoot/PetaPixel&rpar;](http://www.techmeme.com/231108/p10#a231108p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
