@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMac 24-inch M3 review: A clear sign that Intel Mac support is ending soon](https://appleinsider.com/articles/23/11/08/imac-24-inch-m3-review-a-clear-sign-that-intel-mac-support-is-ending-soon?utm_medium=rss)
- - [How San Francisco&#39;s citizen surveillance culture, with incidents often posted to X, helped unravel the story of a bloody street attack, causing viral outrage &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/231108/p20#a231108p20)
- - [Apple insists 8GB unified memory equals 16GB regular RAM](https://appleinsider.com/articles/23/11/08/apple-insists-8gb-unified-memory-equals-16gb-regular-ram?utm_medium=rss)<!-- TECH:END -->
+ - [Apple 2024 Swift Student Challenge opens in February](https://appleinsider.com/articles/23/11/08/apple-2024-swift-student-challenge-opens-in-february?utm_medium=rss)
+ - [Samsung Galaxy S23 FE review: big display, fun colors, and four years of updates, but lackluster telephoto lens, sluggish portrait mode, and unlocked costs more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231108/p23#a231108p23)
+ - [La Brea season 3: Plot, cast, release window, and more](https://www.androidauthority.com/la-brea-season-3-release-date-3380788/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
