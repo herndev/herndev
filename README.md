@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
- - ⏩ [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
- - 👉 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)<!-- MEMES:END -->
+ - 💣 [The snake was like \u201cActually no wait, you\u2019re saving me\u201d xD](http://9gag.com/gag/aDY5oRN)
+ - ⏩ [Interesting](http://9gag.com/gag/a7qXyqw)
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
 
