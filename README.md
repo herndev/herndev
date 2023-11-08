@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube pages are getting a TikTok-like For You feed](https://www.theverge.com/2023/11/8/23952539/youtube-for-you-channel-personalized-mix)
- - [Apple shares trailer ahead of Hannah Waddingham holiday special on November 22](https://appleinsider.com/articles/23/11/08/apple-shares-trailer-ahead-of-hannah-waddingham-holiday-special-on-november-22?utm_medium=rss)
- - [Where to preorder the PlayStation Portal ahead of its launch next week](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)<!-- TECH:END -->
+ - [Canada-based Photonic, which is building a fault-tolerant quantum computing platform, raised $100M from Microsoft and others, taking its total funding to $140M &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/231108/p41#a231108p41)
+ - [Google expands its Search Generative Experience to 120+ new countries and territories and adds Spanish, Portuguese, Korean, and Indonesian language support &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231108/p40#a231108p40)
+ - [SSI Recipients Are Getting a COLA Increase This December. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-are-getting-a-cola-increase-this-december-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
