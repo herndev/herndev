@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s Controversial Missing PC Feature Arrives In New Update](https://kotaku.com/starfield-pc-steam-update-dlss-beta-1851004451)
- - [Mass Effect’s N7 Day Teasers Say A Lot With Very Little](https://kotaku.com/mass-effect-n7-teaser-andromeda-angara-geth-1851004287)
- - [Valve is working on a new Steam feature that will let you hide all those weird sex games from your friends](https://www.pcgamer.com/valve-is-working-on-a-new-steam-feature-that-will-let-you-hide-all-those-weird-sex-games-from-your-friends)<!-- GAME:END -->
+ - [How to complete the Imbaru Engine final puzzle in Destiny 2: Season of the Witch](https://www.polygon.com/destiny-2-guide-walkthrough/23952611/imbaru-engine-test-truth-lies-puzzle-solution-15th-wish)
+ - [Steam Will Soon Let You Hide The Porn Games You Play](https://kotaku.com/steam-new-private-feature-nsfw-games-1851004974)
+ - [Xbox Insider Release Notes – Xbox App [2311.1000.54.0]](https://news.xbox.com/en-us/2023/11/08/xbox-insider-release-notes-xbox-app-2311-1000-54-0/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
