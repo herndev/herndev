@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to the Fangsgiving feast](https://www.polygon.com/23929378/fangsgiving-vampire-thanksgiving)
- - [A binder of vampire fanfic cast my mother’s struggle with AIDS in a new light](https://www.polygon.com/23934975/vampire-fanfic-mothers-roleplaying-aids-hiv-1980s)
- - [The underrated vampire movies from around the world](https://www.polygon.com/23945284/best-vampire-movies-international)<!-- GAME:END -->
+ - [Keep Link short in the Zelda movie](https://www.polygon.com/23952620/link-zelda-movie-casting-short-kings-only)
+ - [PlayStation Is Losing The Reason Its Share Button Exists](https://kotaku.com/sony-playstation-twitter-elon-musk-ps5-1850996292)
+ - [Xbox Insider Release Notes – Alpha &lpar;2311.231106-1030&rpar;](https://news.xbox.com/en-us/2023/11/08/xbox-insider-release-notes-alpha-2311-231106-1030/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
