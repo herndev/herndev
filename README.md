@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
- - ⏩ [He slapped the 1st Amendment right out her mouth](http://9gag.com/gag/amAw9Qj)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 💣 [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
+ - ⏩ [This one goes out for the boys. You guys have a chance now.](http://9gag.com/gag/aQE5xP8)
+ - 👉 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)<!-- MEMES:END -->
 
 ---
 
