@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
- - ⏩ [This one goes out for the boys. You guys have a chance now.](http://9gag.com/gag/aQE5xP8)
- - 👉 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)<!-- MEMES:END -->
+ - 💣 [I was born and raised in a cold weather. This is solid advice.](http://9gag.com/gag/aREdAgy)
+ - ⏩ [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
+ - 👉 [Magical Nephew](http://9gag.com/gag/az2wjWx)<!-- MEMES:END -->
 
 ---
 
