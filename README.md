@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada-based Photonic, which is building a fault-tolerant quantum computing platform, raised $100M from Microsoft and others, taking its total funding to $140M &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/231108/p41#a231108p41)
- - [Google expands its Search Generative Experience to 120+ new countries and territories and adds Spanish, Portuguese, Korean, and Indonesian language support &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231108/p40#a231108p40)
- - [SSI Recipients Are Getting a COLA Increase This December. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-are-getting-a-cola-increase-this-december-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney will start testing a combined Disney Plus and Hulu app next month](https://www.theverge.com/2023/11/8/23952835/disney-plus-hulu-combined-app-q4-2023-earnings)
+ - [Instacart reports Q3 revenue up 14% YoY to $764M, adjusted EBITDA up 120% to $163M vs. $119.5M est., and gross transaction value up 6% to $7.49B vs. $7.42B est. &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/231108/p45#a231108p45)
+ - [Take-Two reports Q2 net bookings down 4% YoY to $1.44B, net revenue down 7% YoY to $1.3B, and forecasts Q3 net bookings below expectations &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/231108/p44#a231108p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
