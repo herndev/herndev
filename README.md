@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
- - ⏩ [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
- - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
+ - 💣 [What ??](http://9gag.com/gag/aKE5PZg)
+ - ⏩ [Burn the witch!](http://9gag.com/gag/aZD5po9)
+ - 👉 [Who the heck is running SVT?](http://9gag.com/gag/az2wjPq)<!-- MEMES:END -->
 
 ---
 
