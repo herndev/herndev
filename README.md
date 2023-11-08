@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s second-gen AirPods are nearly half off](https://www.theverge.com/2023/11/8/23952511/apple-airpods-pro-earbuds-deal-sale)
- - [US chip company Vishay agrees to buy Newport Wafer Fab, the UK&#39;s largest chip plant, for $177M from Chinese-owned Nexperia, after the UK forced its sale in 2022 &lpar;Matthew Gooding/Tech Monitor&rpar;](http://www.techmeme.com/231108/p37#a231108p37)
- - [Reports of The Marvels being good have not been greatly exaggerated](https://www.theverge.com/23952096/the-marvels-review)<!-- TECH:END -->
+ - [YouTube pages are getting a TikTok-like For You feed](https://www.theverge.com/2023/11/8/23952539/youtube-for-you-channel-personalized-mix)
+ - [Apple shares trailer ahead of Hannah Waddingham holiday special on November 22](https://appleinsider.com/articles/23/11/08/apple-shares-trailer-ahead-of-hannah-waddingham-holiday-special-on-november-22?utm_medium=rss)
+ - [Where to preorder the PlayStation Portal ahead of its launch next week](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
