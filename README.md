@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield’s Player Character Was Almost Voiced By These Companions](https://kotaku.com/starfield-voice-actor-sam-andreja-deus-ex-1851002744)
- - [Buy Modern Warfare 3 and Armored Core 6, get a third game for free](https://www.polygon.com/deals/23949331/gaming-deals-amazon-target-buy-two-get-one-free)
- - [Alienware&#39;s new all-Intel Arc A770-powered gaming rig is a feeble punchline for $1,949](https://www.pcgamer.com/alienwares-new-all-intel-arc-a770-powered-gaming-rig-is-a-feeble-punchline-for-dollar1949)<!-- GAME:END -->
+ - [Welcome to the Fangsgiving feast](https://www.polygon.com/23929378/fangsgiving-vampire-thanksgiving)
+ - [A binder of vampire fanfic cast my mother’s struggle with AIDS in a new light](https://www.polygon.com/23934975/vampire-fanfic-mothers-roleplaying-aids-hiv-1980s)
+ - [The underrated vampire movies from around the world](https://www.polygon.com/23945284/best-vampire-movies-international)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
