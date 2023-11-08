@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Milan-based Qomodo, which offers multiple payment services to consumers and retailers, including BNPL options, raised a &amp;euro;34.5M pre-seed led by Fasanara Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/231107/p52#a231107p52)
- - [AirPods discounted up to 50% in India with eligible iPhone 14 purchase](https://appleinsider.com/articles/23/11/08/airpods-discounted-up-to-50-in-india-with-eligible-iphone-14-purchase?utm_medium=rss)
- - [Nintendo and Sony are making a live-action Legend of Zelda film](https://www.androidauthority.com/nintendo-legend-of-zelda-film-3383552/)<!-- TECH:END -->
+ - [Epic v. Google: internal documents show Activision Blizzard accepted $360M in incentives from Google in 2020 to ensure its games launched on the Play Store &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231108/p2#a231108p2)
+ - [In an interview, Mark Zuckerberg positioned WhatsApp as a &quot;next chapter&quot; for Meta; WhatsApp now has more than 225 Channels that each have 1M+ followers &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/231108/p1#a231108p1)
+ - [Milan-based Qomodo, which offers multiple payment services to consumers and retailers, including BNPL options, raised a &amp;euro;34.5M pre-seed led by Fasanara Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/231107/p52#a231107p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
