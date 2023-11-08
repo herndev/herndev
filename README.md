@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
- - ⏩ [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
- - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
+ - 💣 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)
+ - ⏩ [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
 
 ---
 
