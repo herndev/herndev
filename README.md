@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)
- - ⏩ [Why do women do this?](http://9gag.com/gag/amAwrZV)
- - 👉 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)<!-- MEMES:END -->
+ - 💣 [We both going down.](http://9gag.com/gag/aREdK7B)
+ - ⏩ [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
+ - 👉 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)<!-- MEMES:END -->
 
 ---
 
