@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was born and raised in a cold weather. This is solid advice.](http://9gag.com/gag/aREdAgy)
- - ⏩ [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
- - 👉 [Magical Nephew](http://9gag.com/gag/az2wjWx)<!-- MEMES:END -->
+ - 💣 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
+ - ⏩ [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - 👉 [To denounce Islamophobia, the Italian leftist artist Pippa Bacca decided to hitchhike across the Middle East, in order to prove that its inhabitants were peaceful. Once she arrived in Turkey, she was raped and murdered. She was 33 years old.](http://9gag.com/gag/ajVw0Ww)<!-- MEMES:END -->
 
 ---
 
