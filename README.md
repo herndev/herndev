@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto VI Trailer Reveal Everyone&#39;s Waiting For Officially Happening In December](https://kotaku.com/grand-theft-auto-6-gta-trailer-release-date-1851002299)
- - [The first trailer for Grand Theft Auto 6 is coming in early December](https://www.polygon.com/23952009/gta6-trailer-release-date)
- - [Rockstar officially announces GTA 6 reveal in December](https://www.pcgamer.com/rockstar-officially-announces-gta-6-reveal-in-december)<!-- GAME:END -->
+ - [Starfield’s Player Character Was Almost Voiced By These Companions](https://kotaku.com/starfield-voice-actor-sam-andreja-deus-ex-1851002744)
+ - [Buy Modern Warfare 3 and Armored Core 6, get a third game for free](https://www.polygon.com/deals/23949331/gaming-deals-amazon-target-buy-two-get-one-free)
+ - [Alienware&#39;s new all-Intel Arc A770-powered gaming rig is a feeble punchline for $1,949](https://www.pcgamer.com/alienwares-new-all-intel-arc-a770-powered-gaming-rig-is-a-feeble-punchline-for-dollar1949)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
