@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
+ - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
  - ⏩ [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 👉 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)<!-- MEMES:END -->
 
 ---
 
