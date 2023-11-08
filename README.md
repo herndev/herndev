@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Sources: employees at X are increasingly being asked to spend time working on xAI initiatives, as xAI is using GPUs that once belonged to Twitter &lpar;Platformer&rpar;](http://www.techmeme.com/231107/p47#a231107p47)
- - [Document: Coatue cut the value of its $120M stake in OpenSea to $13M as of Q2 2023, implying a valuation of $1.4B or less, down from $13.3B in January 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231107/p46#a231107p46)
- - [Best Pixel 7 and Pixel 7 Pro Deals: $100 Off Pixel 7, Trade-In Savings and More     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Watch Bands for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-bands/#ftag=CAD590a51e)
+ - [Document: Coatue cut the value of its $120M stake in OpenSea to $13M as of Q2 2023, implying a valuation of $1.4B or less, down from $13.3B in January 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231107/p46#a231107p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
