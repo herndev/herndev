@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GTA 6 will reportedly be announced this week ahead of December trailer](https://www.pcgamer.com/gta-6-will-reportedly-be-announced-this-week-ahead-of-december-trailer)
  - [Wordle today: Hint and answer #872 for Wednesday, November 8](https://www.pcgamer.com/wordle-today-answer-872-november-8)
- - [When does Modern Warfare 3 multiplayer and Zombies release?](https://www.polygon.com/modern-warfare-3-guides/23950643/mw3-multiplayer-zombies-release-time-date)
- - [Nintendo is making a live-action Zelda movie](https://www.pcgamer.com/nintendo-is-making-a-live-action-zelda-movie)<!-- GAME:END -->
+ - [When does Modern Warfare 3 multiplayer and Zombies release?](https://www.polygon.com/modern-warfare-3-guides/23950643/mw3-multiplayer-zombies-release-time-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
