@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s wrong babe? You haven&#39;t even touched your venti double milkaccino](http://9gag.com/gag/a1PjYQD)
- - ⏩ [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 👉 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)<!-- MEMES:END -->
+ - 💣 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
+ - ⏩ [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
+ - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
 
 ---
 
