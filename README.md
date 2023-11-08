@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iMac M3 review: searching for a purpose](https://www.theverge.com/23951082/apple-imac-m3-review-24-inch)
- - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
- - [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable?utm_medium=rss)<!-- TECH:END -->
+ - [Google will start deleting millions of abandoned Gmail accounts next month](https://www.androidauthority.com/google-account-deletion-next-month-3383737/)
+ - [Rockstar plans to begin promoting Grand Theft Auto VI, expected to be one of the decade&#39;s biggest video games, in December, coinciding with its 25th anniversary &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231108/p31#a231108p31)
+ - [Captain Laserhawk’s Adi Shankar on multiverses, AI, and Rayman propaganda](https://www.theverge.com/23945342/captain-laserhawk-adi-shankar-netflix-rayman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
