@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego’s three-foot-tall Avengers Tower comes packed with Marvel minifigs](https://www.theverge.com/2023/11/8/23952172/lego-avengers-tower-minifigs-release-date-price)
- - [Apple best-placed to benefit as AI goes mainstream, says Morgan Stanley](https://appleinsider.com/articles/23/11/08/apple-best-placed-to-benefit-as-ai-goes-mainstream-says-morgan-stanley?utm_medium=rss)
- - [Maybe &lpar;HBO&rpar; Max Just Isn’t Worth It](https://www.wired.com/story/warner-bros-discovery-max-loses-subscribers/)<!-- TECH:END -->
+ - [Google is bringing its AI-powered search to more than 120 new countries and territories](https://www.theverge.com/2023/11/8/23951134/google-search-generative-experience-sge-expansion-120-countries-territories)
+ - [After silent update, the Kindle’s built-in web browser is no longer shit](https://www.androidauthority.com/amazon-kindle-web-browser-update-3383765/)
+ - [Best deal of 2023 on the Acer Chromebook Spin 314 &lpar;35% off&rpar;](https://www.androidauthority.com/acer-chromebook-spin-314-deal-3383782/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
