@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Burn the witch!](http://9gag.com/gag/aZD5po9)
- - ⏩ [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 💣 [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - ⏩ [Burn the witch!](http://9gag.com/gag/aZD5po9)
+ - 👉 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)<!-- MEMES:END -->
 
 ---
 
