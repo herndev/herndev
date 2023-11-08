@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - ⏩ [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
- - 👉 [Thousands of German patriots in Dresden for a free and Christian Europe. Rise of the Fourth Reich?](http://9gag.com/gag/aOx5Vzv)<!-- MEMES:END -->
+ - 💣 [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
+ - ⏩ [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
 
