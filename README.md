@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh dear](http://9gag.com/gag/ajVwqvp)
- - ⏩ [Burn the witch!](http://9gag.com/gag/aZD5po9)
- - 👉 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)<!-- MEMES:END -->
+ - 💣 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
+ - ⏩ [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [Oh dear](http://9gag.com/gag/ajVwqvp)<!-- MEMES:END -->
 
 ---
 
