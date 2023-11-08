@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stars Wars Returns for a New Mission in Minecraft!](https://minecraft.net/article/star-wars-returns-new-mission#new_tab)
- - [GTA 6 will reportedly be announced this week ahead of December trailer](https://www.pcgamer.com/gta-6-will-reportedly-be-announced-this-week-ahead-of-december-trailer)
- - [Wordle today: Hint and answer #872 for Wednesday, November 8](https://www.pcgamer.com/wordle-today-answer-872-november-8)<!-- GAME:END -->
+ - [Remedy&#39;s plant bone tech is just one of the reasons Alan Wake 2 is the best-looking videogame of 2023](https://www.pcgamer.com/remedys-plant-bone-tech-is-just-one-of-the-reasons-alan-wake-2-is-the-best-looking-videogame-of-2023)
+ - [Everything we know about World of Warcraft: The War Within](https://www.pcgamer.com/world-of-warcraft-wow-war-within-release-date)
+ - [Tactical squad shooter Zero Hour has just got a chaotic new game mode](https://www.pcgamer.com/tactical-squad-shooter-zero-hour-has-just-got-a-chaotic-new-game-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
