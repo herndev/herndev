@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a comment submitted to the US Copyright Office, the FTC warned that generative AI has enabled potential copyright infringement and consumer deception &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/231108/p5#a231108p5)
- - [Cast AI, whose automation tools help companies monitor, manage, and optimize Kubernetes spend, raised a $35M Series B, bringing its total funding to $73M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231108/p4#a231108p4)
- - [Pixel Watch 2 gets disappointing first ever update](https://www.androidauthority.com/pixel-watch-2-november-update-3383574/)<!-- TECH:END -->
+ - [How .tk, the ccTLD for New Zealand&#39;s Tokelau territory that until recently had more users than any other ccTLD, became a domain of choice for cybercriminals &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/231108/p8#a231108p8)
+ - [Apple hits rare pause on iOS 18 development to kill bugs](https://www.androidauthority.com/apple-pauses-ios-18-development-3383597/)
+ - [Leica helped Xiaomi create a flagship phone that takes better photos than iPhone, and their partnership makes sense despite Xiaomi copying some elements of iOS &lpar;Sam Byford/Multicore&rpar;](http://www.techmeme.com/231108/p7#a231108p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
