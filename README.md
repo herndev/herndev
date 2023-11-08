@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Halo 1 cosmetic armor in Halo Infinite costs twice as much as Halo 1 itself, straining recent fan goodwill](https://www.pcgamer.com/new-halo-1-cosmetic-armor-in-halo-infinite-costs-twice-as-much-as-halo-1-itself-straining-recent-fan-goodwill)
- - [Ex-BioWare employees and contractors use N7 Day to air disputes with the studio](https://www.pcgamer.com/ex-bioware-employees-and-contractors-use-n7-day-to-air-disputes-with-the-studio)
- - [Community Update November 2023](https://news.xbox.com/en-us/2023/11/07/community-update-november-2023/)<!-- GAME:END -->
+ - [Nintendo is making a live-action Zelda movie](https://www.pcgamer.com/nintendo-is-making-a-live-action-zelda-movie)
+ - [New Mass Effect teaser gives fans something to chew on for N7 Day](https://www.polygon.com/23951402/mass-effect-5-teaser-trailer-bioware-n7-day)
+ - [New Halo 1 cosmetic armor in Halo Infinite costs twice as much as Halo 1 itself, straining recent fan goodwill](https://www.pcgamer.com/new-halo-1-cosmetic-armor-in-halo-infinite-costs-twice-as-much-as-halo-1-itself-straining-recent-fan-goodwill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
