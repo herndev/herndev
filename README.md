@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta to require political advertisers disclose AI-generated content](https://www.theverge.com/2023/11/8/23951346/meta-political-ads-ai-artificial-intelligence-advertising)
- - [Google turns to regulators to make Apple open up iMessage](https://www.theverge.com/2023/11/8/23951935/google-european-telcos-apple-imessage-digital-markets-act-core-platform-service-gatekeeper-lobbying)
- - [A look at Nintendo&#39;s movie push, as the company partners with Sony to work on a live-action Zelda movie, after the huge success of The Super Mario Bros. Movie &lpar;Gearoid Reidy/Bloomberg&rpar;](http://www.techmeme.com/231108/p13#a231108p13)<!-- TECH:END -->
+ - [Source: in a letter to staff, ByteDance offers to buy back stock at $160 per share, up from $155 in April 2023; ByteDance says the goal is to provide liquidity &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231108/p17#a231108p17)
+ - [US watchdog wants Apple Pay regulated like a bank](https://appleinsider.com/articles/23/11/08/us-watchdog-wants-apple-pay-regulated-like-a-bank?utm_medium=rss)
+ - [Google could be working on a chatbot within Google Maps](https://www.androidauthority.com/google-maps-chatbot-apk-teardown-3383684/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
