@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: in a letter to staff, ByteDance offers to buy back stock at $160 per share, up from $155 in April 2023; ByteDance says the goal is to provide liquidity &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231108/p17#a231108p17)
- - [US watchdog wants Apple Pay regulated like a bank](https://appleinsider.com/articles/23/11/08/us-watchdog-wants-apple-pay-regulated-like-a-bank?utm_medium=rss)
- - [Google could be working on a chatbot within Google Maps](https://www.androidauthority.com/google-maps-chatbot-apk-teardown-3383684/)<!-- TECH:END -->
+ - [iMac 24-inch M3 review: A clear sign that Intel Mac support is ending soon](https://appleinsider.com/articles/23/11/08/imac-24-inch-m3-review-a-clear-sign-that-intel-mac-support-is-ending-soon?utm_medium=rss)
+ - [How San Francisco&#39;s citizen surveillance culture, with incidents often posted to X, helped unravel the story of a bloody street attack, causing viral outrage &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/231108/p20#a231108p20)
+ - [Apple insists 8GB unified memory equals 16GB regular RAM](https://appleinsider.com/articles/23/11/08/apple-insists-8gb-unified-memory-equals-16gb-regular-ram?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
