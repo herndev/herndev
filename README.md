@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing its AI-powered search to more than 120 new countries and territories](https://www.theverge.com/2023/11/8/23951134/google-search-generative-experience-sge-expansion-120-countries-territories)
- - [After silent update, the Kindle’s built-in web browser is no longer shit](https://www.androidauthority.com/amazon-kindle-web-browser-update-3383765/)
- - [Best deal of 2023 on the Acer Chromebook Spin 314 &lpar;35% off&rpar;](https://www.androidauthority.com/acer-chromebook-spin-314-deal-3383782/)<!-- TECH:END -->
+ - [Apple’s second-gen AirPods are nearly half off](https://www.theverge.com/2023/11/8/23952511/apple-airpods-pro-earbuds-deal-sale)
+ - [US chip company Vishay agrees to buy Newport Wafer Fab, the UK&#39;s largest chip plant, for $177M from Chinese-owned Nexperia, after the UK forced its sale in 2022 &lpar;Matthew Gooding/Tech Monitor&rpar;](http://www.techmeme.com/231108/p37#a231108p37)
+ - [Reports of The Marvels being good have not been greatly exaggerated](https://www.theverge.com/23952096/the-marvels-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
