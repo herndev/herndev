@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How .tk, the ccTLD for New Zealand&#39;s Tokelau territory that until recently had more users than any other ccTLD, became a domain of choice for cybercriminals &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/231108/p8#a231108p8)
- - [Apple hits rare pause on iOS 18 development to kill bugs](https://www.androidauthority.com/apple-pauses-ios-18-development-3383597/)
- - [Leica helped Xiaomi create a flagship phone that takes better photos than iPhone, and their partnership makes sense despite Xiaomi copying some elements of iOS &lpar;Sam Byford/Multicore&rpar;](http://www.techmeme.com/231108/p7#a231108p7)<!-- TECH:END -->
+ - [Google is now rallying troops in Europe to break iMessage exclusivity](https://www.androidauthority.com/google-imessage-digital-markets-act-3383584/)
+ - [Samsung Gauss AI launched: Will you pay extra to use this on Galaxy S24?](https://www.androidauthority.com/samsung-gauss-ai-galaxy-s24-3383588/)
+ - [How .tk, the ccTLD for New Zealand&#39;s Tokelau territory that until recently had more users than any other ccTLD, became a domain of choice for cybercriminals &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/231108/p8#a231108p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
