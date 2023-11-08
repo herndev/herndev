@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Imbaru Engine final puzzle in Destiny 2: Season of the Witch](https://www.polygon.com/destiny-2-guide-walkthrough/23952611/imbaru-engine-test-truth-lies-puzzle-solution-15th-wish)
- - [Steam Will Soon Let You Hide The Porn Games You Play](https://kotaku.com/steam-new-private-feature-nsfw-games-1851004974)
- - [Xbox Insider Release Notes – Xbox App [2311.1000.54.0]](https://news.xbox.com/en-us/2023/11/08/xbox-insider-release-notes-xbox-app-2311-1000-54-0/)<!-- GAME:END -->
+ - [How to get the A Shot Blocked achievement and trophy in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23953011/mw3-a-shot-blocked-achievement-trophy)
+ - [How to get the Back in the Field achievement and trophy in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23952246/mw3-back-in-the-field-achievement-trophy)
+ - [‘Deep Cover’ mission walkthrough in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23952116/mw3-deep-cover-mission-walkthrough-stealth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
