@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The snake was like \u201cActually no wait, you\u2019re saving me\u201d xD](http://9gag.com/gag/aDY5oRN)
- - ⏩ [Interesting](http://9gag.com/gag/a7qXyqw)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 💣 [When you are tire of the BS and just wanna go home\u2026](http://9gag.com/gag/a04qYjz)
+ - ⏩ [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
 
 ---
 
