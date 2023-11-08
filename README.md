@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy S24 will likely include on-device generative AI called Samsung Gauss](https://www.theverge.com/2023/11/8/23951930/samsung-galaxy-s24-generative-ai-model-samsung-gauss)
- - [Ahead of the 2024 US election, Microsoft plans to offer a new free tool to help US politicians fight deepfakes by authenticating their videos and photos &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231108/p11#a231108p11)
- - [Adobe&#39;s site for stock images lists AI-generated images of the Israel-Palestine conflict, and some small outlets have used them without labeling them as AI &lpar;Matt Growcoot/PetaPixel&rpar;](http://www.techmeme.com/231108/p10#a231108p10)<!-- TECH:END -->
+ - [Meta to require political advertisers disclose AI-generated content](https://www.theverge.com/2023/11/8/23951346/meta-political-ads-ai-artificial-intelligence-advertising)
+ - [Google turns to regulators to make Apple open up iMessage](https://www.theverge.com/2023/11/8/23951935/google-european-telcos-apple-imessage-digital-markets-act-core-platform-service-gatekeeper-lobbying)
+ - [A look at Nintendo&#39;s movie push, as the company partners with Sony to work on a live-action Zelda movie, after the huge success of The Super Mario Bros. Movie &lpar;Gearoid Reidy/Bloomberg&rpar;](http://www.techmeme.com/231108/p13#a231108p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
