@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)
- - ⏩ [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
+ - ⏩ [Why do women do this?](http://9gag.com/gag/amAwrZV)
+ - 👉 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)<!-- MEMES:END -->
 
 ---
 
