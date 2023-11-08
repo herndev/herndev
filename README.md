@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you are tire of the BS and just wanna go home\u2026](http://9gag.com/gag/a04qYjz)
- - ⏩ [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 💣 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - ⏩ [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
+ - 👉 [What&#39;s wrong babe? You haven&#39;t even touched your venti double milkaccino](http://9gag.com/gag/a1PjYQD)<!-- MEMES:END -->
 
 ---
 
