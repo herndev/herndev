@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [World of Warcraft: Classic was supposed to recreate the past, but now it feels like WoW&#39;s creative future](https://www.pcgamer.com/world-of-warcraft-classic-blizzcon-2023)
  - [Chucky is the next Dead By Daylight killer, and I can&#39;t stop laughing at a 2-foot-tall doll chasing teens](https://www.pcgamer.com/chucky-is-the-next-dead-by-daylight-killer-and-i-cant-stop-laughing-at-a-2-foot-tall-doll-chasing-teens)
- - [Why Diablo 4&#39;s loot filter isn&#39;t ready yet: &#39;Every perceivably simple decision has some kind of crazy cause and effect&#39;](https://www.pcgamer.com/why-diablo-4s-loot-filter-isnt-ready-yet-every-perceivably-simple-decision-has-some-kind-of-crazy-cause-and-effect)
- - [Revenant Hill, the spiritual successor to Night in the Woods, is cancelled as developers struggle with serious health issues](https://www.pcgamer.com/revenant-hill-the-spiritual-successor-to-night-in-the-woods-is-cancelled-as-developers-struggle-with-serious-health-issues)<!-- GAME:END -->
+ - [Why Diablo 4&#39;s loot filter isn&#39;t ready yet: &#39;Every perceivably simple decision has some kind of crazy cause and effect&#39;](https://www.pcgamer.com/why-diablo-4s-loot-filter-isnt-ready-yet-every-perceivably-simple-decision-has-some-kind-of-crazy-cause-and-effect)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
