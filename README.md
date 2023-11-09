@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uh uh...](http://9gag.com/gag/aBd5091)
- - ⏩ [Poland just deported a 20y old Ukrainian man for notoriously breaking the law. How things should be done.](http://9gag.com/gag/avQwOGn)
- - 👉 [Who&#39;s the colonizer now?](http://9gag.com/gag/a7qXMM2)<!-- MEMES:END -->
+ - 💣 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
+ - ⏩ [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
+ - 👉 [Laughs in german?](http://9gag.com/gag/a2Kp43d)<!-- MEMES:END -->
 
 ---
 
