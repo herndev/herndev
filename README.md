@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max is $100 more than predecessor, but only costs $38 more to make](https://www.androidauthority.com/apple-iphone-15-pro-max-bill-of-materials-3383937/)
- - [Android 14 will let your foldable achieve its full dual-screen potential](https://www.androidauthority.com/android-14-dual-screen-changes-foldables-3383936/)
- - [Epic v. Google: Google exec Purnima Kochikar says Google offered to pay Epic $147M over a three years period ending in 2021 to launch Fortnite on Play Store &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231109/p4#a231109p4)<!-- TECH:END -->
+ - [Sony reports Q2 revenue of ~$18.5B, up 8% YoY, operating profit down 29% YoY to ~$1.74B, chips division profit down 38%, PS5 sales of 4.9M vs. 3.3M in Q2 2022 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/231109/p5#a231109p5)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [ChatGPT is still down, OpenAI fears DDoS attack](https://www.androidauthority.com/chatgpt-down-open-ai-ddos-attack-3383954/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
