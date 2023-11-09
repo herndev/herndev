@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Better HDR screen capture is finally coming to Windows thanks to an updated Snipping Tool](https://www.pcgamer.com/better-hdr-screen-capture-is-finally-coming-to-windows-thanks-to-an-updated-snipping-tool)
- - [A solo indie developer&#39;s journey from YouTube tutorials to Steam&#39;s front page: &quot;At one point I just physically collapsed&quot;](https://www.pcgamer.com/a-solo-indie-developers-journey-from-youtube-tutorials-to-steams-front-page-at-one-point-i-just-physically-collapsed)
- - [Suicide Squad Publisher Promises Even More Live-Service Games](https://kotaku.com/suicide-squad-more-live-service-online-wb-games-dc-1851005080)<!-- GAME:END -->
+ - [Starfield&#39;s DLSS patch shows that even in an AMD-sponsored game Nvidia is still king of upscaling](https://www.pcgamer.com/starfields-dlss-patch-shows-that-even-in-an-amd-sponsored-game-nvidia-is-still-king-of-upscaling)
+ - [PlayStation Stumbles With Half Its Live-Service Games Delayed](https://kotaku.com/playstation-live-service-delayed-tlou-factions-1851007495)
+ - [The 22 best Xbox games](https://www.polygon.com/xbox-series-x/21734145/best-xbox-one-series-x-s-games-microsoft-game-pass-halo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
