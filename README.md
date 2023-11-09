@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - ⏩ [Carnival practice in Brasil. The band and the dancers have to be always synchronized. They train themselves to perfection.](http://9gag.com/gag/a9q0A1Z)
- - 👉 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)<!-- MEMES:END -->
+ - 💣 [Uh uh...](http://9gag.com/gag/aBd5091)
+ - ⏩ [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
 
 ---
 
