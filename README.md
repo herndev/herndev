@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Competitive Overwatch won’t end with the League](https://www.theverge.com/23954005/overwatch-league-shuts-down-activision-blizzard)
- - [Controversial Humane Ai Pin is here, costs $700, and requires a subscription](https://appleinsider.com/articles/23/11/09/controversial-humane-ai-pin-is-here-costs-700-and-requires-a-subscription?utm_medium=rss)
- - [The First Small-Scale Nuclear Plant in the US Died Before It Could Live](https://www.wired.com/story/first-small-scale-nuclear-plant-us-nuscale-canceled/)<!-- TECH:END -->
+ - [Omegle Was Forced to Shut Down by a Lawsuit From a Sexual Abuse Survivor](https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/)
+ - [SpaceX found a legal workaround to block the DOJ’s discrimination lawsuit](https://www.theverge.com/2023/11/9/23954357/spacex-doj-hiring-discrimination-lawsuit-blocked-unconstitutional)
+ - [Obamacare Call Center Staff Strike Over Steep Health Care Costs and Scarce Bathroom Breaks](https://www.wired.com/story/obamacare-call-center-strike-maximus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
