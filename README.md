@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like a Dragon Gaiden: The Man Who Erased His Name – Developing Club Sega](https://news.xbox.com/en-us/2023/11/09/like-a-dragon-gaiden-developing-club-sega/)
- - [For Valve, the Steam Deck OLED is just the beginning](https://www.polygon.com/23951070/steam-deck-2-valve-interview)
- - [The Steam Deck OLED’s cutest gimmick is its case](https://www.polygon.com/gaming/23950949/steam-deck-oled-new-case-review-valve)<!-- GAME:END -->
+ - [How Heads Up! Phones Down Edition Transforms the Classic Party Game for Xbox](https://news.xbox.com/en-us/2023/11/09/heads-up-phones-down-edition-xbox/)
+ - [Modern Warfare 3 campaign mission list and game length](https://www.polygon.com/modern-warfare-3-guides/23954264/mw3-campaign-mission-list-length-how-long)
+ - [Valve knows people will jam the shiny new OLED panel into old Steam Decks &#39;but it&#39;s probably not going to go well&#39;](https://www.pcgamer.com/steam-deck-oled-upgrade-old-deck)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
