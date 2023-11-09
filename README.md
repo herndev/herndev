@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus details new camera sensor coming to the OnePlus 12](https://www.androidauthority.com/oneplus-12-camera-sensor-details-3383961/)
- - [Sandworm Hackers Caused Another Blackout in Ukraine—During a Missile Strike](https://www.wired.com/story/sandworm-ukraine-third-blackout-cyberattack/)
- - [Sony reports Q2 revenue of ~$18.5B, up 8% YoY, operating profit down 29% YoY to ~$1.74B, chips division profit down 38%, PS5 sales of 4.9M vs. 3.3M in Q2 2022 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/231109/p5#a231109p5)<!-- TECH:END -->
+ - [Signal tests usernames so you can avoid sharing your phone number](https://www.theverge.com/2023/11/9/23953603/signal-username-feature-test-phone-numbers-privacy-security-pre-beta-2024-launch)
+ - [A key advisor to the CJEU recommends setting aside a 2020 EU ruling that said Apple did not owe Ireland &amp;euro;13B+ in back taxes, a major blow to Apple and Ireland &lpar;Joe Brennan/The Irish Times&rpar;](http://www.techmeme.com/231109/p8#a231109p8)
+ - [SoftBank reports an adjusted ~$300M investment gain for its Vision Funds in Q2, as Vision Fund 1 gained $2.5B thanks Arm&#39;s IPO while Vision Fund 2 lost $2.1B &lpar;Financial Times&rpar;](http://www.techmeme.com/231109/p7#a231109p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
