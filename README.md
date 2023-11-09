@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adyen&#39;s stock jumps 30%+, adding &amp;euro;6.6B to its market cap, after executives met investors to ease concerns over the Amsterdam-based payment giant&#39;s trajectory &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231109/p11#a231109p11)
- - [Apple co-founder Steve Wozniak hospitalized over possible stroke](https://appleinsider.com/articles/23/11/09/apple-co-founder-steve-wozniak-hospitalized-over-possible-stroke?utm_medium=rss)
- - [Omegle is shutting down notorious video chat service as scrutiny grows](https://www.theverge.com/2023/11/9/23953620/omegle-anonymous-video-chat-shut-down-online-safety)<!-- TECH:END -->
+ - [No Apple Tax for environmental efforts applied to users, says Lisa Jackson](https://appleinsider.com/articles/23/11/09/no-apple-tax-for-environmental-efforts-applied-to-users-says-lisa-jackson?utm_medium=rss)
+ - [Chinese state-affiliated outlet Chinastarmarket says Nvidia plans to release three new H100-based AI chips in the country in the coming days, after US sanctions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231109/p15#a231109p15)
+ - [Mandiant: Russia-tied Sandworm carried out a third successful attack on Ukraine&#39;s electric utility in October 2022, coinciding with a series of missile strikes &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231109/p14#a231109p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
