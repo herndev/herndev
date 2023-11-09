@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We both going down.](http://9gag.com/gag/aREdK7B)
- - ⏩ [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
- - 👉 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)<!-- MEMES:END -->
+ - 💣 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
+ - ⏩ [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
+ - 👉 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)<!-- MEMES:END -->
 
 ---
 
