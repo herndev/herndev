@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
- - ⏩ [University of excuses](http://9gag.com/gag/aXn1qXd)
- - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
+ - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - ⏩ [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
 
 ---
 
