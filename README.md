@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bob Iger says Disney &quot;would like to stay&quot; in India as Hotstar struggles to avoid churn; Hotstar lost ~23M subscribers in the past year including 2.8M in Q4 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231109/p2#a231109p2)
- - [WhatsApp confirms ads could be coming to the platform](https://www.androidauthority.com/whatsapp-ads-status-channels-3383928/)
- - [OpenAI says it&#39;s grappling with &quot;abnormal traffic&quot; and has spotted signs of a DDoS attack resulting in periodic outages of its services &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p1#a231109p1)<!-- TECH:END -->
+ - [iPhone 15 Pro Max is $100 more than predecessor, but only costs $38 more to make](https://www.androidauthority.com/apple-iphone-15-pro-max-bill-of-materials-3383937/)
+ - [Android 14 will let your foldable achieve its full dual-screen potential](https://www.androidauthority.com/android-14-dual-screen-changes-foldables-3383936/)
+ - [Epic v. Google: Google exec Purnima Kochikar says Google offered to pay Epic $147M over a three years period ending in 2021 to launch Fortnite on Play Store &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231109/p4#a231109p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
