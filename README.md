@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
- - ⏩ [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
+ - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - ⏩ [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 👉 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)<!-- MEMES:END -->
 
 ---
 
