@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who is it for?..](http://9gag.com/gag/a5X3n6L)
- - ⏩ [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 👉 [No title](http://9gag.com/gag/aqew5DR)<!-- MEMES:END -->
+ - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - ⏩ [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
+ - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 ---
 
