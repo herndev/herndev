@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q2 revenue of ~$18.5B, up 8% YoY, operating profit down 29% YoY to ~$1.74B, chips division profit down 38%, PS5 sales of 4.9M vs. 3.3M in Q2 2022 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/231109/p5#a231109p5)
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [ChatGPT is still down, OpenAI fears DDoS attack](https://www.androidauthority.com/chatgpt-down-open-ai-ddos-attack-3383954/)<!-- TECH:END -->
+ - [OnePlus details new camera sensor coming to the OnePlus 12](https://www.androidauthority.com/oneplus-12-camera-sensor-details-3383961/)
+ - [Sandworm Hackers Caused Another Blackout in Ukraine—During a Missile Strike](https://www.wired.com/story/sandworm-ukraine-third-blackout-cyberattack/)
+ - [Sony reports Q2 revenue of ~$18.5B, up 8% YoY, operating profit down 29% YoY to ~$1.74B, chips division profit down 38%, PS5 sales of 4.9M vs. 3.3M in Q2 2022 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/231109/p5#a231109p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
