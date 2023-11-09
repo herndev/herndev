@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)
- - [Amazon and Meta are testing a feature that shows shoppers real-time prices and lets them buy from Amazon directly via ads on Instagram and Facebook in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p37#a231109p37)
- - [Apple rolls out new AirPods Pro 2 firmware 6.1 update](https://appleinsider.com/articles/23/11/09/apple-rolls-out-new-airpods-pro-2-firmware-61-update?utm_medium=rss)<!-- TECH:END -->
+ - [Competitive Overwatch won’t end with the League](https://www.theverge.com/23954005/overwatch-league-shuts-down-activision-blizzard)
+ - [Controversial Humane Ai Pin is here, costs $700, and requires a subscription](https://appleinsider.com/articles/23/11/09/controversial-humane-ai-pin-is-here-costs-700-and-requires-a-subscription?utm_medium=rss)
+ - [The First Small-Scale Nuclear Plant in the US Died Before It Could Live](https://www.wired.com/story/first-small-scale-nuclear-plant-us-nuscale-canceled/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
