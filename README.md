@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
- - ⏩ [Classic](http://9gag.com/gag/aA05dKR)
- - 👉 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)<!-- MEMES:END -->
+ - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - ⏩ [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - 👉 [No title](http://9gag.com/gag/aqew5DR)<!-- MEMES:END -->
 
 ---
 
