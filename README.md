@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages could let you reclaim your identity on texts](https://www.androidauthority.com/google-messages-user-profiles-leak-3384082/)
- - [Brokers, hedge funds, and advisers push back hard on proposed SEC rules on using AI for financial advice, with comments coming well past the October 10 deadline &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/231109/p19#a231109p19)
- - [Inside Bryce Adams and Brian Adam&#39;s OnlyFans empire, run from a $2.5M Florida compound: $10M in annual revenue and a $1M+ payroll; Adams&#39; OF has $16.5M in sales &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231109/p18#a231109p18)<!-- TECH:END -->
+ - [Microsoft now asks users to provide a reason for closing the OneDrive app on Windows from a list, including &quot;I don&#39;t know what OneDrive is&quot; &lpar;Taras Buria/Neowin&rpar;](http://www.techmeme.com/231109/p21#a231109p21)
+ - [Aliro could unlock a new future for smart locks and digital keys](https://www.theverge.com/2023/11/9/23952637/csa-aliro-new-standard-smart-locks-digital-access)
+ - [Apple TV app adds 3D movies ahead of Vision Pro release](https://appleinsider.com/articles/23/11/09/apple-tv-app-adds-3d-movies-ahead-of-vision-pro-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
