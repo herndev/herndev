@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
- - ⏩ [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - 👉 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)<!-- MEMES:END -->
+ - 💣 [When reality hits.](http://9gag.com/gag/aYV5xXq)
+ - ⏩ [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)
+ - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
 
 ---
 
