@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s DLSS patch shows that even in an AMD-sponsored game Nvidia is still king of upscaling](https://www.pcgamer.com/starfields-dlss-patch-shows-that-even-in-an-amd-sponsored-game-nvidia-is-still-king-of-upscaling)
- - [PlayStation Stumbles With Half Its Live-Service Games Delayed](https://kotaku.com/playstation-live-service-delayed-tlou-factions-1851007495)
- - [The 22 best Xbox games](https://www.polygon.com/xbox-series-x/21734145/best-xbox-one-series-x-s-games-microsoft-game-pass-halo)<!-- GAME:END -->
+ - [Like a Dragon Gaiden: The Man Who Erased His Name – Developing Club Sega](https://news.xbox.com/en-us/2023/11/09/like-a-dragon-gaiden-developing-club-sega/)
+ - [For Valve, the Steam Deck OLED is just the beginning](https://www.polygon.com/23951070/steam-deck-2-valve-interview)
+ - [The Steam Deck OLED’s cutest gimmick is its case](https://www.polygon.com/gaming/23950949/steam-deck-oled-new-case-review-valve)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
