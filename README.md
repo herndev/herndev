@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 dev shows off the level of optimization achieved for the Xbox Series S port, which bodes well for future PC updates](https://www.pcgamer.com/baldurs-gate-3-dev-shows-off-the-level-of-optimization-achieved-for-the-xbox-series-s-port-which-bodes-well-for-future-pc-updates)
- - [Nightdive thought it was &#39;going to get grilled&#39; about the lack of hand-holding in System Shock remake, but players loved it](https://www.pcgamer.com/nightdive-thought-it-was-going-to-get-grilled-about-the-lack-of-hand-holding-in-system-shock-but-players-loved-it)
- - [Apple VP says 8GB RAM on a MacBook Pro analogous to 16GB RAM on a PC: &#39;We just happen to be able to use it much more efficiently&#39;](https://www.pcgamer.com/apple-vp-says-8gb-ram-on-a-macbook-pro-analogous-to-16gb-ram-on-a-pc-we-just-happen-to-be-able-to-use-it-much-more-efficiently)<!-- GAME:END -->
+ - [Better HDR screen capture is finally coming to Windows thanks to an updated Snipping Tool](https://www.pcgamer.com/better-hdr-screen-capture-is-finally-coming-to-windows-thanks-to-an-updated-snipping-tool)
+ - [A solo indie developer&#39;s journey from YouTube tutorials to Steam&#39;s front page: &quot;At one point I just physically collapsed&quot;](https://www.pcgamer.com/a-solo-indie-developers-journey-from-youtube-tutorials-to-steams-front-page-at-one-point-i-just-physically-collapsed)
+ - [Suicide Squad Publisher Promises Even More Live-Service Games](https://kotaku.com/suicide-squad-more-live-service-online-wb-games-dc-1851005080)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
