@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - ⏩ [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - 👉 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)<!-- MEMES:END -->
+ - 💣 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
+ - ⏩ [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
 
 ---
 
