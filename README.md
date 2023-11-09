@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - ⏩ [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
- - 👉 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)<!-- MEMES:END -->
+ - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - ⏩ [Why do women do this?](http://9gag.com/gag/amAwrZV)
+ - 👉 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)<!-- MEMES:END -->
 
 ---
 
