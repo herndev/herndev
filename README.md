@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OK, but really, which Zelda game would make a good Zelda movie?](https://www.polygon.com/23952339/zelda-movie-based-on-games)
- - [World of Warcraft: Classic was supposed to recreate the past, but now it feels like WoW&#39;s creative future](https://www.pcgamer.com/world-of-warcraft-classic-blizzcon-2023)
- - [Chucky is the next Dead By Daylight killer, and I can&#39;t stop laughing at a 2-foot-tall doll chasing teens](https://www.pcgamer.com/chucky-is-the-next-dead-by-daylight-killer-and-i-cant-stop-laughing-at-a-2-foot-tall-doll-chasing-teens)<!-- GAME:END -->
+ - [AMD&#39;s pre-RDNA graphics products are ready to be put out to pasture as active driver support winds down](https://www.pcgamer.com/amds-pre-rdna-graphics-products-are-ready-to-be-put-out-to-pasture-as-active-driver-support-winds-down)
+ - [Wordle today: Hint and answer #873 for Thursday, November 9](https://www.pcgamer.com/wordle-today-answer-873-november-9)
+ - [OK, but really, which Zelda game would make a good Zelda movie?](https://www.polygon.com/23952339/zelda-movie-based-on-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
