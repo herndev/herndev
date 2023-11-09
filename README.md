@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No Apple Tax for environmental efforts applied to users, says Lisa Jackson](https://appleinsider.com/articles/23/11/09/no-apple-tax-for-environmental-efforts-applied-to-users-says-lisa-jackson?utm_medium=rss)
- - [Chinese state-affiliated outlet Chinastarmarket says Nvidia plans to release three new H100-based AI chips in the country in the coming days, after US sanctions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231109/p15#a231109p15)
- - [Mandiant: Russia-tied Sandworm carried out a third successful attack on Ukraine&#39;s electric utility in October 2022, coinciding with a series of missile strikes &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231109/p14#a231109p14)<!-- TECH:END -->
+ - [Google Messages could let you reclaim your identity on texts](https://www.androidauthority.com/google-messages-user-profiles-leak-3384082/)
+ - [Brokers, hedge funds, and advisers push back hard on proposed SEC rules on using AI for financial advice, with comments coming well past the October 10 deadline &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/231109/p19#a231109p19)
+ - [Inside Bryce Adams and Brian Adam&#39;s OnlyFans empire, run from a $2.5M Florida compound: $10M in annual revenue and a $1M+ payroll; Adams&#39; OF has $16.5M in sales &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231109/p18#a231109p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
