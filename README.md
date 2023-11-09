@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Free Map Set in the Icy Marmolada Glacier Tunnels in WW1 Isonzo: White War](https://news.xbox.com/en-us/2023/11/09/new-free-map-set-in-the-icy-marmolada-glacier-tunnels-in-ww1-isonzo-white-war/)
- - [Take-Two boss says Grand Theft Auto games rake in so much money, making a GTA movie isn&#39;t even worth the hassle](https://www.pcgamer.com/take-two-boss-says-grand-theft-auto-games-rake-in-so-much-money-making-a-gta-movie-isnt-even-worth-the-hassle)
- - [Xbox Insider Release Notes – Omega &lpar;2311.231106-1030&rpar;](https://news.xbox.com/en-us/2023/11/09/xbox-insider-release-notes-omega-2311-231106-1030/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 Patch Fixes Blueberry Shoes And Party Members On Fire](https://kotaku.com/baldurs-gate-bg3-hotfix-10-patch-notes-astarion-1851009004)
+ - [Warframe developer axes publishing division, will &#39;transition full control&#39; of online action RPG Wayfinder to its developer](https://www.pcgamer.com/warframe-developer-axes-publishing-division-will-transition-full-control-of-online-action-rpg-wayfinder-to-its-developer)
+ - [Say Goodbye To Your Favorite Mario Kart 8 Trick](https://kotaku.com/mario-kart-8-bagging-patch-booster-wave-6-dlc-1851008922)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
