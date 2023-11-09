@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopping for Internet Is a Pain. Here&#39;s How to Make It Easier     - CNET](https://www.cnet.com/home/internet/shopping-for-internet-is-a-pain-heres-how-to-make-it-easier/#ftag=CAD590a51e)
- - [Supply chain: OLED iPad Pro display production begins in February](https://appleinsider.com/articles/23/11/08/supply-chain-oled-ipad-pro-display-production-begins-in-february?utm_medium=rss)
- - [Fitbit Charge 6 review: Should you buy it?](https://www.androidauthority.com/fitbit-charge-6-review-3370037/)<!-- TECH:END -->
+ - [Hollywood actors reach tentative deal to end their strike](https://www.theverge.com/2023/11/8/23945647/hollywood-actors-sag-aftra-strike-contract-deal)
+ - [Best iPhone Deals &lpar;2023&rpar;: Carrier Deals, Unlocked iPhones](https://www.wired.com/story/apple-iphone-deals-november-2023/)
+ - [Activision Blizzard is transitioning away from the Overwatch League to evolve the esports competition in a &quot;new direction&quot;; exiting teams may get a $6M payout &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/231108/p50#a231108p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
