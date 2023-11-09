@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spatial Video recording for iPhone 15 Pro introduced in iOS 17.2 beta 2](https://appleinsider.com/articles/23/11/09/spatial-video-recording-for-iphone-15-pro-introduced-in-ios-172-beta-2?utm_medium=rss)
- - [Snap releases Lens Studio 5.0 Beta, a new version of its AR development tool with a ChatGPT Remote API that lets developers leverage ChatGPT in their Lenses &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231109/p34#a231109p34)
- - [Second macOS Sonoma 14.2 developer beta seeded for testing](https://appleinsider.com/articles/23/11/09/second-macos-sonoma-142-developer-beta-seeded-for-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)
+ - [Amazon and Meta are testing a feature that shows shoppers real-time prices and lets them buy from Amazon directly via ads on Instagram and Facebook in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p37#a231109p37)
+ - [Apple rolls out new AirPods Pro 2 firmware 6.1 update](https://appleinsider.com/articles/23/11/09/apple-rolls-out-new-airpods-pro-2-firmware-61-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
