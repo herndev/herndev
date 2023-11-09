@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s pre-RDNA graphics products are ready to be put out to pasture as active driver support winds down](https://www.pcgamer.com/amds-pre-rdna-graphics-products-are-ready-to-be-put-out-to-pasture-as-active-driver-support-winds-down)
- - [Wordle today: Hint and answer #873 for Thursday, November 9](https://www.pcgamer.com/wordle-today-answer-873-november-9)
- - [OK, but really, which Zelda game would make a good Zelda movie?](https://www.polygon.com/23952339/zelda-movie-based-on-games)<!-- GAME:END -->
+ - [Comics lore, timeline questions, and more things to know before seeing The Marvels](https://www.polygon.com/23949032/the-marvels-post-credits-scene)
+ - [PC Gamer Magazine&#39;s 30th Anniversary Collector&#39;s Special Issue Is On Sale Now](https://www.pcgamer.com/pc-gamer-magazines-30th-anniversary-collectors-special-issue-is-on-sale-now)
+ - [AMD&#39;s pre-RDNA graphics products are ready to be put out to pasture as active driver support winds down](https://www.pcgamer.com/amds-pre-rdna-graphics-products-are-ready-to-be-put-out-to-pasture-as-active-driver-support-winds-down)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
