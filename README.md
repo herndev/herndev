@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive leak: all the details about Humane’s AI Pin, which costs $699 and has OpenAI integration](https://www.theverge.com/2023/11/8/23953022/humane-ai-pin-price-specs-leak)
- - [Disney CEO Bob Iger says a beta test of an app combining Disney+ and Hulu will launch in December 2023 and an official launch will follow in spring 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231108/p47#a231108p47)
- - [Unsealed court documents allegedly show how Mark Zuckerberg repeatedly thwarted initiatives meant to improve the well-being of teens on Facebook and Instagram &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/231108/p46#a231108p46)<!-- TECH:END -->
+ - [Shopping for Internet Is a Pain. Here&#39;s How to Make It Easier     - CNET](https://www.cnet.com/home/internet/shopping-for-internet-is-a-pain-heres-how-to-make-it-easier/#ftag=CAD590a51e)
+ - [Supply chain: OLED iPad Pro display production begins in February](https://appleinsider.com/articles/23/11/08/supply-chain-oled-ipad-pro-display-production-begins-in-february?utm_medium=rss)
+ - [Fitbit Charge 6 review: Should you buy it?](https://www.androidauthority.com/fitbit-charge-6-review-3370037/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
