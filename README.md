@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - ⏩ [Oh dear](http://9gag.com/gag/ajVwqvp)
- - 👉 [No title](http://9gag.com/gag/aqew5DR)<!-- MEMES:END -->
+ - 💣 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
+ - ⏩ [No title](http://9gag.com/gag/aqew5DR)
+ - 👉 [Oh dear](http://9gag.com/gag/ajVwqvp)<!-- MEMES:END -->
 
 ---
 
