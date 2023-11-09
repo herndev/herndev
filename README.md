@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - ⏩ [Well bummer](http://9gag.com/gag/a04qbdv)
- - 👉 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)<!-- MEMES:END -->
+ - 💣 [Who is it for?..](http://9gag.com/gag/a5X3n6L)
+ - ⏩ [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 👉 [No title](http://9gag.com/gag/aqew5DR)<!-- MEMES:END -->
 
 ---
 
