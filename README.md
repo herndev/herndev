@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - ⏩ [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
+ - 💣 [Uh uh...](http://9gag.com/gag/aBd5091)
+ - ⏩ [Poland just deported a 20y old Ukrainian man for notoriously breaking the law. How things should be done.](http://9gag.com/gag/avQwOGn)
+ - 👉 [Who&#39;s the colonizer now?](http://9gag.com/gag/a7qXMM2)<!-- MEMES:END -->
 
 ---
 
