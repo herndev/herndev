@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)
- - ⏩ [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
- - 👉 [University of excuses](http://9gag.com/gag/aXn1qXd)<!-- MEMES:END -->
+ - 💣 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
+ - ⏩ [University of excuses](http://9gag.com/gag/aXn1qXd)
+ - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
 
 ---
 
