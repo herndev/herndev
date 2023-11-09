@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve Steam Deck OLED Review: A Brighter, Sharper Upgrade](https://www.wired.com/review/valve-steam-deck-oled/)
- - [Valve reveals the Steam Deck OLED: $549 buys better screen, battery, and more](https://www.theverge.com/23951674/valve-steam-deck-oled-price-release-date)
- - [Steam Deck OLED review: better, not faster](https://www.theverge.com/23951655/steam-deck-oled-review)<!-- TECH:END -->
+ - [Spatial Video recording for iPhone 15 Pro introduced in iOS 17.2 beta 2](https://appleinsider.com/articles/23/11/09/spatial-video-recording-for-iphone-15-pro-introduced-in-ios-172-beta-2?utm_medium=rss)
+ - [Snap releases Lens Studio 5.0 Beta, a new version of its AR development tool with a ChatGPT Remote API that lets developers leverage ChatGPT in their Lenses &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231109/p34#a231109p34)
+ - [Second macOS Sonoma 14.2 developer beta seeded for testing](https://appleinsider.com/articles/23/11/09/second-macos-sonoma-142-developer-beta-seeded-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
