@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - ⏩ [Why do women do this?](http://9gag.com/gag/amAwrZV)
- - 👉 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)<!-- MEMES:END -->
+ - 💣 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - ⏩ [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
 
 ---
 
