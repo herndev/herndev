@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ritual, which is building a network for decentralized AI models, emerges from stealth with a $25M seed led by Archetype, and plans to launch in early 2024 &lpar;Bessie Liu/Blockworks&rpar;](http://www.techmeme.com/231108/p55#a231108p55)
- - [A US judge rules that automakers&#39; use of on-board infotainment systems to record and intercept owners&#39; texts and call logs doesn&#39;t violate Washington state law &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231108/p54#a231108p54)
- - [NuPhy Air75 V2 review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)<!-- TECH:END -->
+ - [Bob Iger says Disney &quot;would like to stay&quot; in India as Hotstar struggles to avoid churn; Hotstar lost ~23M subscribers in the past year including 2.8M in Q4 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231109/p2#a231109p2)
+ - [WhatsApp confirms ads could be coming to the platform](https://www.androidauthority.com/whatsapp-ads-status-channels-3383928/)
+ - [OpenAI says it&#39;s grappling with &quot;abnormal traffic&quot; and has spotted signs of a DDoS attack resulting in periodic outages of its services &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p1#a231109p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
