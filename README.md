@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the A Shot Blocked achievement and trophy in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23953011/mw3-a-shot-blocked-achievement-trophy)
- - [How to get the Back in the Field achievement and trophy in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23952246/mw3-back-in-the-field-achievement-trophy)
- - [‘Deep Cover’ mission walkthrough in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23952116/mw3-deep-cover-mission-walkthrough-stealth)<!-- GAME:END -->
+ - [Chucky is the next Dead By Daylight killer, and I can&#39;t stop laughing at a 2-foot-tall doll chasing teens](https://www.pcgamer.com/chucky-is-the-next-dead-by-daylight-killer-and-i-cant-stop-laughing-at-a-2-foot-tall-doll-chasing-teens)
+ - [Why Diablo 4&#39;s loot filter isn&#39;t ready yet: &#39;Every perceivably simple decision has some kind of crazy cause and effect&#39;](https://www.pcgamer.com/why-diablo-4s-loot-filter-isnt-ready-yet-every-perceivably-simple-decision-has-some-kind-of-crazy-cause-and-effect)
+ - [Revenant Hill, the spiritual successor to Night in the Woods, is cancelled as developers struggle with serious health issues](https://www.pcgamer.com/revenant-hill-the-spiritual-successor-to-night-in-the-woods-is-cancelled-as-developers-struggle-with-serious-health-issues)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
