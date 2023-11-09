@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - ⏩ [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
+ - 💣 [We both going down.](http://9gag.com/gag/aREdK7B)
+ - ⏩ [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 ---
 
