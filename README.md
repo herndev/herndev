@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Heads Up! Phones Down Edition Transforms the Classic Party Game for Xbox](https://news.xbox.com/en-us/2023/11/09/heads-up-phones-down-edition-xbox/)
- - [Modern Warfare 3 campaign mission list and game length](https://www.polygon.com/modern-warfare-3-guides/23954264/mw3-campaign-mission-list-length-how-long)
- - [Valve knows people will jam the shiny new OLED panel into old Steam Decks &#39;but it&#39;s probably not going to go well&#39;](https://www.pcgamer.com/steam-deck-oled-upgrade-old-deck)<!-- GAME:END -->
+ - [New Free Map Set in the Icy Marmolada Glacier Tunnels in WW1 Isonzo: White War](https://news.xbox.com/en-us/2023/11/09/new-free-map-set-in-the-icy-marmolada-glacier-tunnels-in-ww1-isonzo-white-war/)
+ - [Take-Two boss says Grand Theft Auto games rake in so much money, making a GTA movie isn&#39;t even worth the hassle](https://www.pcgamer.com/take-two-boss-says-grand-theft-auto-games-rake-in-so-much-money-making-a-gta-movie-isnt-even-worth-the-hassle)
+ - [Xbox Insider Release Notes – Omega &lpar;2311.231106-1030&rpar;](https://news.xbox.com/en-us/2023/11/09/xbox-insider-release-notes-omega-2311-231106-1030/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
