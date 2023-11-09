@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omegle Was Forced to Shut Down by a Lawsuit From a Sexual Abuse Survivor](https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/)
- - [SpaceX found a legal workaround to block the DOJ’s discrimination lawsuit](https://www.theverge.com/2023/11/9/23954357/spacex-doj-hiring-discrimination-lawsuit-blocked-unconstitutional)
- - [Obamacare Call Center Staff Strike Over Steep Health Care Costs and Scarce Bathroom Breaks](https://www.wired.com/story/obamacare-call-center-strike-maximus/)<!-- TECH:END -->
+ - [Call of Duty anti-cheat update will make cheaters go splat](https://www.theverge.com/2023/11/9/23954565/call-of-duty-anti-cheat-splat-modern-warfare-3-warzone)
+ - [GM’s Cruise Rethinks Its Robotaxi Strategy After Admitting a Software Fault in Gruesome Crash](https://www.wired.com/story/gm-cruise-robotaxi-strategy-admitting-software-fault-in-gruesome-crash/)
+ - [Apple to pay up to $25 million over hiring discrimination](https://www.theverge.com/2023/11/9/23954640/apple-hiring-discrimination-doj-perm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
