@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - ⏩ [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
- - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 💣 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - ⏩ [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
+ - 👉 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)<!-- MEMES:END -->
 
 ---
 
