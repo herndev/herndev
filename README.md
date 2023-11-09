@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 Patch Fixes Blueberry Shoes And Party Members On Fire](https://kotaku.com/baldurs-gate-bg3-hotfix-10-patch-notes-astarion-1851009004)
- - [Warframe developer axes publishing division, will &#39;transition full control&#39; of online action RPG Wayfinder to its developer](https://www.pcgamer.com/warframe-developer-axes-publishing-division-will-transition-full-control-of-online-action-rpg-wayfinder-to-its-developer)
- - [Say Goodbye To Your Favorite Mario Kart 8 Trick](https://kotaku.com/mario-kart-8-bagging-patch-booster-wave-6-dlc-1851008922)<!-- GAME:END -->
+ - [Warcraft Rumble dungeon guide - how to unlock and beat dungeons](https://www.polygon.com/guides/23952945/warcraft-rumble-dungeon-unlock)
+ - [How to beat the Dire Maul dungeon in Warcraft Rumble](https://www.polygon.com/guides/23954437/warcraft-rumble-dire-maul-dungeon)
+ - [The Marvels teases a future the MCU is barely prepared for](https://www.polygon.com/23952407/marvels-mid-credits-scene-beast-x-men-binary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
