@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit quietly pulled its products from over a dozen countries](https://www.theverge.com/2023/11/9/23953848/fitbit-pixel-global-availability-wearables-smartwatches)
- - [Samsung Galaxy Fit 3 leaks: First pure fitness tracker from the brand in 3 years](https://www.androidauthority.com/samsung-galaxy-fit-3-3384166/)
- - [The EU Parliament approves a Data Act with a kill switch clause for automated data-sharing agreements; the legislation now needs EU Council approval &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/231109/p29#a231109p29)<!-- TECH:END -->
+ - [Valve Steam Deck OLED Review: A Brighter, Sharper Upgrade](https://www.wired.com/review/valve-steam-deck-oled/)
+ - [Valve reveals the Steam Deck OLED: $549 buys better screen, battery, and more](https://www.theverge.com/23951674/valve-steam-deck-oled-price-release-date)
+ - [Steam Deck OLED review: better, not faster](https://www.theverge.com/23951655/steam-deck-oled-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
