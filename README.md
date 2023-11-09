@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - ⏩ [No title](http://9gag.com/gag/aqew5DR)
- - 👉 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)<!-- MEMES:END -->
+ - 💣 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)
+ - ⏩ [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
+ - 👉 [University of excuses](http://9gag.com/gag/aXn1qXd)<!-- MEMES:END -->
 
 ---
 
