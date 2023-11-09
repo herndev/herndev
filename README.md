@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polygon Labs launches a grant program, with 110 million of its MATIC native token, worth around $85M, to entice developers to build apps in its ecosystem &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/231109/p27#a231109p27)
- - [Nothing OS 2.5 beta 2 &lpar;based on Android 14&rpar; is here and has some really cool features](https://www.androidauthority.com/nothing-os-2-5-beta-2-3384129/)
- - [Google has removed Fitbit products from 29 countries, including those where it doesn&#39;t offer Pixel alternatives, to &quot;align&quot; its hardware portfolio &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231109/p26#a231109p26)<!-- TECH:END -->
+ - [Fitbit quietly pulled its products from over a dozen countries](https://www.theverge.com/2023/11/9/23953848/fitbit-pixel-global-availability-wearables-smartwatches)
+ - [Samsung Galaxy Fit 3 leaks: First pure fitness tracker from the brand in 3 years](https://www.androidauthority.com/samsung-galaxy-fit-3-3384166/)
+ - [The EU Parliament approves a Data Act with a kill switch clause for automated data-sharing agreements; the legislation now needs EU Council approval &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/231109/p29#a231109p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
