@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ritual, which is building a network for decentralized AI models, emerges from stealth with a $25M seed led by Archetype, and plans to launch in early 2024 &lpar;Bessie Liu/Blockworks&rpar;](http://www.techmeme.com/231108/p55#a231108p55)
  - [A US judge rules that automakers&#39; use of on-board infotainment systems to record and intercept owners&#39; texts and call logs doesn&#39;t violate Washington state law &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231108/p54#a231108p54)
- - [NuPhy Air75 V2 review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)
- - [Forget Bixby, Samsung announces ‘Galaxy AI’ for Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-ai-3383914/)<!-- TECH:END -->
+ - [NuPhy Air75 V2 review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
