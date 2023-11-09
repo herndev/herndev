@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal tests usernames so you can avoid sharing your phone number](https://www.theverge.com/2023/11/9/23953603/signal-username-feature-test-phone-numbers-privacy-security-pre-beta-2024-launch)
- - [A key advisor to the CJEU recommends setting aside a 2020 EU ruling that said Apple did not owe Ireland &amp;euro;13B+ in back taxes, a major blow to Apple and Ireland &lpar;Joe Brennan/The Irish Times&rpar;](http://www.techmeme.com/231109/p8#a231109p8)
- - [SoftBank reports an adjusted ~$300M investment gain for its Vision Funds in Q2, as Vision Fund 1 gained $2.5B thanks Arm&#39;s IPO while Vision Fund 2 lost $2.1B &lpar;Financial Times&rpar;](http://www.techmeme.com/231109/p7#a231109p7)<!-- TECH:END -->
+ - [Adyen&#39;s stock jumps 30%+, adding &amp;euro;6.6B to its market cap, after executives met investors to ease concerns over the Amsterdam-based payment giant&#39;s trajectory &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231109/p11#a231109p11)
+ - [Apple co-founder Steve Wozniak hospitalized over possible stroke](https://appleinsider.com/articles/23/11/09/apple-co-founder-steve-wozniak-hospitalized-over-possible-stroke?utm_medium=rss)
+ - [Omegle is shutting down notorious video chat service as scrutiny grows](https://www.theverge.com/2023/11/9/23953620/omegle-anonymous-video-chat-shut-down-online-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
