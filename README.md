@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
+ - 💣 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
  - ⏩ [No title](http://9gag.com/gag/aqew5DR)
- - 👉 [Oh dear](http://9gag.com/gag/ajVwqvp)<!-- MEMES:END -->
+ - 👉 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)<!-- MEMES:END -->
 
 ---
 
