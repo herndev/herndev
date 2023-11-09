@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony COO Hiroki Totoki says the company now plans to release six live service games by FY 2025, down from the originally planned 12 titles &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/231109/p24#a231109p24)
- - [Spotify rolls out a redesigned TV app, offering a new homepage similar to the desktop and mobile apps, a new playback queue, a dark mode, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231109/p23#a231109p23)
- - [Apple TV+ takes us into aerial battle with &#39;Masters of the Air&#39;](https://appleinsider.com/articles/23/11/09/apple-tv-takes-us-into-aerial-battle-with-masters-of-the-air?utm_medium=rss)<!-- TECH:END -->
+ - [Polygon Labs launches a grant program, with 110 million of its MATIC native token, worth around $85M, to entice developers to build apps in its ecosystem &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/231109/p27#a231109p27)
+ - [Nothing OS 2.5 beta 2 &lpar;based on Android 14&rpar; is here and has some really cool features](https://www.androidauthority.com/nothing-os-2-5-beta-2-3384129/)
+ - [Google has removed Fitbit products from 29 countries, including those where it doesn&#39;t offer Pixel alternatives, to &quot;align&quot; its hardware portfolio &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231109/p26#a231109p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
