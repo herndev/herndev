@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When will it stop?](http://9gag.com/gag/aOx5YmD)
- - ⏩ [Perfection!](http://9gag.com/gag/az2wqQm)
- - 👉 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)<!-- MEMES:END -->
+ - 💣 [Oh no ...](http://9gag.com/gag/aOx5YND)
+ - ⏩ [So much for immortality, eh?](http://9gag.com/gag/agowGMx)
+ - 👉 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)<!-- MEMES:END -->
 
 ---
 
