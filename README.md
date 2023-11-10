@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India proposes new broadcast and streaming rules that would set up content evaluation committees and allow regulation of any online creator or news platform &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/231110/p19#a231110p19)
- - [The Verge’s staff tries to survive the holiday season](https://www.theverge.com/23954555/holidays-stress-cooking-family)
- - [Spatial Video shot on iPhone for Apple Vision Pro previewed for a select few](https://appleinsider.com/articles/23/11/10/spatial-video-shot-on-iphone-for-apple-vision-pro-previewed-for-a-select-few?utm_medium=rss)<!-- TECH:END -->
+ - [Report: Apple search results and product pages on Amazon have few, if any, rival ads, after Apple asked Amazon for special treatment before their 2018 deal &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231110/p20#a231110p20)
+ - [Apple&#39;s ad-free presence on Amazon raises questions about digital advertising practices](https://appleinsider.com/articles/23/11/10/apples-ad-free-presence-on-amazon-raises-questions-about-digital-advertising-practices?utm_medium=rss)
+ - [The strikes are over — cue the rewatch podcasts](https://www.theverge.com/2023/11/10/23955828/sag-strike-podcast-iheart-obama-grammys-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
