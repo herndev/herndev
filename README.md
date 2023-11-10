@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black Friday is Coming](http://9gag.com/gag/a1PjWdw)
- - ⏩ [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
- - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
+ - 💣 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - ⏩ [Irish football fans cheering women buying lingerie.](http://9gag.com/gag/amAw5Lj)
+ - 👉 [` in spite of everything you&#39;ve done for them they will eventually hate you ` -Green Goblin](http://9gag.com/gag/aXn1j1V)<!-- MEMES:END -->
 
 ---
 
