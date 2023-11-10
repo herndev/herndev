@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal website: Microsoft restricts employee access to ChatGPT and other external AI services like Midjourney or Replika &quot;due to security and data concerns&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231109/p43#a231109p43)
- - [Unity is probably going to do layoffs](https://www.theverge.com/2023/11/9/23954709/unity-layoffs-q3-earnings-runtime-program)
- - [Google won’t say if companies beyond Spotify got secret special app store deals](https://www.theverge.com/2023/11/9/23954376/google-spotify-user-choice-billing-deal-bumble-epic)<!-- TECH:END -->
+ - [Helsinki-based Noice, a game livestreaming service that lets viewers participate in the gameplay experience, raised a $21M Series A &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231109/p45#a231109p45)
+ - [Sundar Pichai will take the stand in Epic v. Google](https://www.theverge.com/2023/11/9/23954812/sundar-pichai-testify-epic-v-google)
+ - [Valve Index 2 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/valve-index-2-3378735/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
