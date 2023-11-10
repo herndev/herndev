@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
- - ⏩ [How many times!?](http://9gag.com/gag/axowgpp)
- - 👉 [Shocker](http://9gag.com/gag/aDY5z87)<!-- MEMES:END -->
+ - 💣 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
+ - ⏩ [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
+ - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
 
 ---
 
