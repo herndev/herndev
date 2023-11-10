@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple supplier Luxshare plans to increase its investment in Vietnam by $330M to $504M total, as the AirPods manufacturer further diversifies away from China &lpar;Mai Ngoc Chau/Bloomberg&rpar;](http://www.techmeme.com/231109/p50#a231109p50)
- - [Sources: Meta strikes a preliminary deal with Tencent to sell a new, lower-priced VR headset in China, beginning in late 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231109/p49#a231109p49)
- - [Adonit Note+ 2 review: A cost-effective alternative stylus](https://appleinsider.com/articles/23/11/10/adonit-note-2-review-a-cost-effective-alternative-stylus?utm_medium=rss)<!-- TECH:END -->
+ - [Update alert! One UI 6 finally rolling out in the US](https://www.androidauthority.com/update-alert-one-ui-6-finally-rolling-out-in-the-us-3384394/)
+ - [Kai-Fu Lee, CEO of Chinese startup 01.AI, says the company stockpiled enough Nvidia chips to last for next 18 months before the US&#39;s China chip ban kicked in &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p3#a231110p3)
+ - [You’ll soon be able to record Spatial videos with the iPhone 15 Pro](https://www.androidauthority.com/apple-iphone-15-pro-spatial-video-3384392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
