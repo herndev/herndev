@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - ⏩ [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
+ - 💣 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)
+ - ⏩ [Lara Croft - As a Pixars Character](http://9gag.com/gag/aqewnqZ)
+ - 👉 [Double standard](http://9gag.com/gag/aVb5wYO)<!-- MEMES:END -->
 
 ---
 
