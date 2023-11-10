@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Fight Zombie Hordes and Explore a New Planet](https://youtu.be/1XdSvgKZVVI#new_tab)
- - [Why the Overwatch League is over](https://www.polygon.com/2023/11/10/23955679/overwatch-league-shut-down-activision-blizzard-esports)
- - [Finally, A Halo Infinite Mod For People Who Can&#39;t Aim](https://kotaku.com/halo-infinite-forge-turn-based-tactical-rpg-mod-1851012541)<!-- GAME:END -->
+ - [Chaos At Domino’s After Free Pizza Glitch Goes Viral](https://kotaku.com/free-pizza-glitch-code-promo-dominos-canceled-orders-1851012935)
+ - [How to play solo in Modern Warfare 3 Zombies](https://www.polygon.com/modern-warfare-3-guides/23955743/mw3-zombies-solo-duo-disable-squads)
+ - [PS5 Slim Disc Drive Comes With Bizarre Online Requirements [Update]](https://kotaku.com/sony-playstation-ps5-detachable-disc-drive-1850957408)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
