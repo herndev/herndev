@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 to challenge Galaxy S24 with AI smarts next year: Leak](https://www.androidauthority.com/apple-iphone-16-ai-siri-3384406/)
- - [Apple now gives higher trade-ins for your Android, but Samsung still does it better](https://www.androidauthority.com/apple-increase-trade-in-values-products-android-3384407/)
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OPPO teases satellite connectivity in Find X7 Pro, but global launch remains uncertain](https://www.androidauthority.com/oppo-find-x7-pro-satellite-connectivity-3384431/)
+ - [Samsung’s first mid-range foldable could be cheaper than the Galaxy A54](https://www.androidauthority.com/samsung-mid-range-foldable-galaxy-z-flip-3384438/)
+ - [iPhone 16 to challenge Galaxy S24 with AI smarts next year: Leak](https://www.androidauthority.com/apple-iphone-16-ai-siri-3384406/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
