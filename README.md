@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After critics pan Activision&#39;s Call of Duty: Modern Warfare III, sources blame the game&#39;s rushed 16-month development, compared to three years for other titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231110/p13#a231110p13)
- - [Best Generator Deals: Save Big on Generators Up to 13,000 Watts     - CNET](https://www.cnet.com/deals/best-generators-deals/#ftag=CAD590a51e)
- - [Apple readying for legal battle against European Union&#39;s App Store regulations](https://appleinsider.com/articles/23/11/10/apple-readying-for-legal-battle-against-european-unions-app-store-regulations?utm_medium=rss)<!-- TECH:END -->
+ - [Daily Deals Nov. 10: iPad mini 6 $399, MacBook Air from $600, $100 off iPad Air 5, more](https://appleinsider.com/articles/23/11/10/daily-deals-nov-10-ipad-mini-6-399-macbook-air-from-600-100-off-ipad-air-5-more?utm_medium=rss)
+ - [Early Black Friday deal slashes $300 off the Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-s23-ultra-deal-black-friday-3384603/)
+ - [Apple MacBook Pro 16 M3 Max review: the most power for the most money](https://www.theverge.com/23949207/apple-macbook-pro-16-m3-max-review-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
