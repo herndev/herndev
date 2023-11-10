@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover the Enchanting Adventure of Hamster on Rails on Xbox](https://news.xbox.com/en-us/2023/11/10/discover-the-enchanting-adventure-of-hamster-on-rails-on-xbox/)
- - [No one liked Twitch&#39;s Hype Chat feature, so it&#39;s being killed off just 5 months in](https://www.pcgamer.com/no-one-liked-twitchs-hype-chat-feature-so-its-being-killed-off-just-5-months-in)
- - [World of Warcraft Classic is becoming its own game — is Fortnite OG next?](https://www.polygon.com/23954103/world-of-warcraft-classic-fortnite-og-nostalgia)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare III – How to Get Started in the New Zombies Mode](https://news.xbox.com/en-us/2023/11/10/call-of-duty-how-to-get-started-in-zombies/)
+ - [Scavengers Reign fans should check out this sci-fi eco-horror adventure game](https://www.polygon.com/23952818/the-invincible-impressions-pc-scavengers-reign)
+ - [Finally, a game that combines tower defence, factory automation, and the systematic slaughter of a thousand worms](https://www.pcgamer.com/finally-a-game-that-combines-tower-defence-factory-automation-and-the-systematic-slaughter-of-a-thousand-worms)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
