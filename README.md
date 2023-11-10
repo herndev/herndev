@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This New Tool Aims to Keep Terrorism Content Off the Internet](https://www.wired.com/story/altitude-terrorism-content-removal-tool/)
- - [Microsoft: MOVEit hackers are exploiting a zero-day flaw in IT support tool SysAid in &quot;limited&quot; attacks to access corporate servers and deploy Clop ransomware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p5#a231110p5)
- - [Apple supplier Luxshare invests $330 million in Vietnam plant](https://appleinsider.com/articles/23/11/10/apple-supplier-luxshare-invests-330-million-in-vietnam-plant?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 to challenge Galaxy S24 with AI smarts next year: Leak](https://www.androidauthority.com/apple-iphone-16-ai-siri-3384406/)
+ - [Apple now gives higher trade-ins for your Android, but Samsung still does it better](https://www.androidauthority.com/apple-increase-trade-in-values-products-android-3384407/)
+ - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
