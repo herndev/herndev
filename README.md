@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - ⏩ [Irish football fans cheering women buying lingerie.](http://9gag.com/gag/amAw5Lj)
- - 👉 [` in spite of everything you&#39;ve done for them they will eventually hate you ` -Green Goblin](http://9gag.com/gag/aXn1j1V)<!-- MEMES:END -->
+ - 💣 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
+ - ⏩ [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
 
 ---
 
