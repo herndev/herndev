@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I can&#39;t believe this worked: There&#39;s a Task Manager trick to get into Modern Warfare 3 multiplayer hours before launch on Steam](https://www.pcgamer.com/modern-warfare-3-early-release-trick)
- - [9 bizarre things I learned about Cities: Skylines 2 by following this one citizen around for his entire life](https://www.pcgamer.com/9-bizarre-things-i-learned-about-cities-skylines-2-by-following-this-one-citizen-around-for-his-whole-life)
- - [Report: Devs Worked Nights And Weekends To Rush Modern Warfare III Out](https://kotaku.com/call-duty-modern-warfare-3-mwiii-dlc-rush-crunch-1851009723)<!-- GAME:END -->
+ - [WoW director says its most controversial new class specialization is OP because it had to be: &#39;The community is naturally skeptical of things they don&#39;t understand&#39;](https://www.pcgamer.com/wow-augmentation-evoker-overpowered-explanation)
+ - [World of Warcraft director says players who pay for early access to the next expansion won&#39;t have a &#39;long-term advantage&#39;](https://www.pcgamer.com/world-of-warcraft-director-says-players-who-pay-for-early-access-to-the-next-expansion-wont-have-a-long-term-advantage)
+ - [I can&#39;t believe this worked: There&#39;s a Task Manager trick to get into Modern Warfare 3 multiplayer hours before launch on Steam](https://www.pcgamer.com/modern-warfare-3-early-release-trick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
