@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
- - ⏩ [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
+ - 💣 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
+ - ⏩ [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 👉 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)<!-- MEMES:END -->
 
 ---
 
