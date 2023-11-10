@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - ⏩ [Well bummer](http://9gag.com/gag/a04qbdv)
- - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 💣 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
+ - ⏩ [How many times!?](http://9gag.com/gag/axowgpp)
+ - 👉 [Shocker](http://9gag.com/gag/aDY5z87)<!-- MEMES:END -->
 
 ---
 
