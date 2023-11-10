@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
- - ⏩ [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 💣 [Black Friday is Coming](http://9gag.com/gag/a1PjWdw)
+ - ⏩ [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
  - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
 
 ---
