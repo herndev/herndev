@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
- - ⏩ [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 💣 [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - ⏩ [We both going down.](http://9gag.com/gag/aREdK7B)
  - 👉 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)<!-- MEMES:END -->
 
 ---
