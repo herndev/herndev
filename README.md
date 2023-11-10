@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [UL announces the 3DMark Steel Nomad benchmark for you to punish your rig with](https://www.pcgamer.com/ul-announces-the-3dmark-steel-nomad-benchmark-for-you-to-punish-your-rig-with)
  - [WoW director says its most controversial new class specialization is OP because it had to be: &#39;The community is naturally skeptical of things they don&#39;t understand&#39;](https://www.pcgamer.com/wow-augmentation-evoker-overpowered-explanation)
- - [World of Warcraft director says players who pay for early access to the next expansion won&#39;t have a &#39;long-term advantage&#39;](https://www.pcgamer.com/world-of-warcraft-director-says-players-who-pay-for-early-access-to-the-next-expansion-wont-have-a-long-term-advantage)
- - [I can&#39;t believe this worked: There&#39;s a Task Manager trick to get into Modern Warfare 3 multiplayer hours before launch on Steam](https://www.pcgamer.com/modern-warfare-3-early-release-trick)<!-- GAME:END -->
+ - [World of Warcraft director says players who pay for early access to the next expansion won&#39;t have a &#39;long-term advantage&#39;](https://www.pcgamer.com/world-of-warcraft-director-says-players-who-pay-for-early-access-to-the-next-expansion-wont-have-a-long-term-advantage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
