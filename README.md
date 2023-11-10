@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to unlock all Mastery Camo in Call of Duty: Modern Warfare 3](https://www.pcgamer.com/call-of-duty-modern-warfare-2-mastery-camo-challenges)
  - [AutoFull&#39;s combo of gaming chairs and standing desks should have your attention](https://www.pcgamer.com/autofulls-combo-of-gaming-chairs-and-standing-desks-should-have-your-attention)
- - [Wordle today: Hint and answer #874 for Friday, November 10](https://www.pcgamer.com/wordle-today-answer-874-november-10)
- - [UL announces the 3DMark Steel Nomad benchmark for you to punish your rig with](https://www.pcgamer.com/ul-announces-the-3dmark-steel-nomad-benchmark-for-you-to-punish-your-rig-with)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #874 for Friday, November 10](https://www.pcgamer.com/wordle-today-answer-874-november-10)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
