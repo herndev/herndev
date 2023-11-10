@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare III – How to Get Started in the New Zombies Mode](https://news.xbox.com/en-us/2023/11/10/call-of-duty-how-to-get-started-in-zombies/)
- - [Scavengers Reign fans should check out this sci-fi eco-horror adventure game](https://www.polygon.com/23952818/the-invincible-impressions-pc-scavengers-reign)
- - [Finally, a game that combines tower defence, factory automation, and the systematic slaughter of a thousand worms](https://www.pcgamer.com/finally-a-game-that-combines-tower-defence-factory-automation-and-the-systematic-slaughter-of-a-thousand-worms)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231107-2000&rpar;](https://news.xbox.com/en-us/2023/11/10/xbox-insider-release-notes-alpha-skip-ahead-2408-231107-2000/)
+ - [PlayStation Portal Feels Better Than It Looks](https://kotaku.com/playstation-portal-handheld-ps5-impressions-1851012196)
+ - [Zelda fans have spent years animating their own vision for a movie](https://www.polygon.com/23952921/legend-zelda-movie-fan-short-animation-live-action)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
