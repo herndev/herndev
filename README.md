@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best MMOs in 2023](https://www.pcgamer.com/the-best-mmos)
- - [AMD claws back 5% market share from Intel as CPU sales continue to recover](https://www.pcgamer.com/amd-claws-back-5-market-share-from-intel-as-cpu-sales-continue-to-recover)
- - [LG UltraGear 27GR93U review](https://www.pcgamer.com/lg-ultragear-27gr93u-review)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 13 to 17](https://news.xbox.com/en-us/2023/11/10/next-week-on-xbox-new-games-for-november-13-to-17/)
+ - [The Best Gaming Gifts Under $50](https://kotaku.com/best-gaming-gifts-under-50-keyboard-headset-1850998581)
+ - [The best strategy games in 2023](https://www.pcgamer.com/the-best-strategy-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
