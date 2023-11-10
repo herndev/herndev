@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Bros. Discovery just canned another nearly finished film](https://www.theverge.com/2023/11/10/23955432/warner-bros-discovery-coyote-acme-shelved-john-cena)
- - [Maine&#39;s government says that MOVEit hackers may have accessed the personal information of ~1.3M individuals, which is close to the state&#39;s entire population &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p17#a231110p17)
- - [The Garmin Black Friday sale launches with $250 off the Fenix 7S](https://www.androidauthority.com/garmin-black-friday-3384631/)<!-- TECH:END -->
+ - [India proposes new broadcast and streaming rules that would set up content evaluation committees and allow regulation of any online creator or news platform &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/231110/p19#a231110p19)
+ - [The Verge’s staff tries to survive the holiday season](https://www.theverge.com/23954555/holidays-stress-cooking-family)
+ - [Spatial Video shot on iPhone for Apple Vision Pro previewed for a select few](https://appleinsider.com/articles/23/11/10/spatial-video-shot-on-iphone-for-apple-vision-pro-previewed-for-a-select-few?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
