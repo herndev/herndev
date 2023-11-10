@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s David Fincher thriller The Killer never pays off its brilliant setup](https://www.polygon.com/reviews/23860173/the-killer-review-david-fincher-netflix-thriller-michael-fassbender)
- - [Modern Warfare III Maps Removed Due To Deadly Spawn Points](https://kotaku.com/cod-modern-warfare-3-maps-rundown-scrapyard-quarry-1851012260)
- - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)<!-- GAME:END -->
+ - [This Week on Xbox: Fight Zombie Hordes and Explore a New Planet](https://youtu.be/1XdSvgKZVVI#new_tab)
+ - [Why the Overwatch League is over](https://www.polygon.com/2023/11/10/23955679/overwatch-league-shut-down-activision-blizzard-esports)
+ - [Finally, A Halo Infinite Mod For People Who Can&#39;t Aim](https://kotaku.com/halo-infinite-forge-turn-based-tactical-rpg-mod-1851012541)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
