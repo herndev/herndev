@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chaos At Domino’s After Free Pizza Glitch Goes Viral](https://kotaku.com/free-pizza-glitch-code-promo-dominos-canceled-orders-1851012935)
- - [How to play solo in Modern Warfare 3 Zombies](https://www.polygon.com/modern-warfare-3-guides/23955743/mw3-zombies-solo-duo-disable-squads)
- - [PS5 Slim Disc Drive Comes With Bizarre Online Requirements [Update]](https://kotaku.com/sony-playstation-ps5-detachable-disc-drive-1850957408)<!-- GAME:END -->
+ - [The WoW Classic team is expanding so they can experiment more: &#39;We are slowly crafting things that are effectively Classic Plus&#39;](https://www.pcgamer.com/the-wow-classic-team-is-expanding-so-they-can-experiment-more-we-are-slowly-crafting-things-that-are-effectively-classic-plus)
+ - [Doug Cockle will voice Geralt in a new The Witcher animated film on Netflix](https://www.pcgamer.com/doug-cockle-will-voice-geralt-in-a-new-the-witcher-animated-film-on-netflix)
+ - [Call of Duty goes Final Destination on cheaters by pancaking them straight into the map](https://www.pcgamer.com/call-of-duty-goes-final-destination-on-cheaters-by-pancaking-them-straight-into-the-map)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
