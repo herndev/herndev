@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh dear](http://9gag.com/gag/ajVwqvp)
- - ⏩ [We both going down.](http://9gag.com/gag/aREdK7B)
- - 👉 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)<!-- MEMES:END -->
+ - 💣 [When will it stop?](http://9gag.com/gag/aOx5YmD)
+ - ⏩ [Perfection!](http://9gag.com/gag/az2wqQm)
+ - 👉 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)<!-- MEMES:END -->
 
 ---
 
