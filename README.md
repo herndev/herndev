@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher continues on Netflix with the Sirens of the Deep animated movie](https://www.theverge.com/23955404/the-witcher-sirens-of-the-deep-trailer-netflix)
- - [Senate Leaders Are Trying to Extend a Controversial NSA Surveillance Program](https://www.wired.com/story/section-702-nsa-surveillance-senate/)
- - [The NSA Seems Pretty Stressed About the Threat of Chinese Hackers in US Critical Infrastructure](https://www.wired.com/story/nsa-china-hacking-criticial-us-infrastructure/)<!-- TECH:END -->
+ - [Apple reportedly cut a deal to get cleaner Amazon pages](https://www.theverge.com/2023/11/10/23955934/apple-amazon-deal-search-product-pages-ads)
+ - [Ad-free Instagram and Facebook is here — and it’s expensive](https://www.theverge.com/2023/11/10/23955987/instagram-facebook-without-ads-eu-subscription)
+ - [New teaser for Netflix’s 3 Body Problem series will make you want to play the game](https://www.theverge.com/23955973/netflix-3-body-problem-teaser-trailer-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
