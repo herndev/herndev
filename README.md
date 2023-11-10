@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Nov. 10: iPad mini 6 $399, MacBook Air from $600, $100 off iPad Air 5, more](https://appleinsider.com/articles/23/11/10/daily-deals-nov-10-ipad-mini-6-399-macbook-air-from-600-100-off-ipad-air-5-more?utm_medium=rss)
- - [Early Black Friday deal slashes $300 off the Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-s23-ultra-deal-black-friday-3384603/)
- - [Apple MacBook Pro 16 M3 Max review: the most power for the most money](https://www.theverge.com/23949207/apple-macbook-pro-16-m3-max-review-price-specs)<!-- TECH:END -->
+ - [The Garmin Black Friday sale launches with $250 off the Fenix 7S](https://www.androidauthority.com/garmin-black-friday-3384631/)
+ - [Future ANC headphones may let you pick which real world sounds to filter](https://www.androidauthority.com/headphone-selective-noise-cancelation-3384616/)
+ - [Sources: Apple plans to file an EU DMA challenge, disputing the inclusion of all of the App Store on DMA&#39;s list, and arguing that DMA doesn&#39;t cover iMessage &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p16#a231110p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
