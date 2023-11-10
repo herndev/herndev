@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 13 to 17](https://news.xbox.com/en-us/2023/11/10/next-week-on-xbox-new-games-for-november-13-to-17/)
- - [The Best Gaming Gifts Under $50](https://kotaku.com/best-gaming-gifts-under-50-keyboard-headset-1850998581)
- - [The best strategy games in 2023](https://www.pcgamer.com/the-best-strategy-games)<!-- GAME:END -->
+ - [Microsoft wants AI to solve problems devs say they don’t actually have](https://www.polygon.com/23954172/microsoft-inworld-ai-announcement)
+ - [Unfortunate: You can now completely ruin every single cutscene in Baldur&#39;s Gate 3 with a Thomas the Tank Engine headcrab](https://www.pcgamer.com/unfortunate-you-can-now-completely-ruin-every-single-cutscene-in-baldurs-gate-3-with-a-thomas-the-tank-engine-headcrab)
+ - [CoD: Warzone Players Warned They’ll Go ‘Splat’ If They Cheat](https://kotaku.com/call-of-duty-cod-warzone-anti-cheat-splat-mw3-1851011194)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
