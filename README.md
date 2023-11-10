@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
- - ⏩ [Oh dear](http://9gag.com/gag/ajVwqvp)
- - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
+ - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - ⏩ [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
+ - 👉 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)<!-- MEMES:END -->
 
 ---
 
