@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231107-2000&rpar;](https://news.xbox.com/en-us/2023/11/10/xbox-insider-release-notes-alpha-skip-ahead-2408-231107-2000/)
- - [PlayStation Portal Feels Better Than It Looks](https://kotaku.com/playstation-portal-handheld-ps5-impressions-1851012196)
- - [Zelda fans have spent years animating their own vision for a movie](https://www.polygon.com/23952921/legend-zelda-movie-fan-short-animation-live-action)<!-- GAME:END -->
+ - [Netflix’s David Fincher thriller The Killer never pays off its brilliant setup](https://www.polygon.com/reviews/23860173/the-killer-review-david-fincher-netflix-thriller-michael-fassbender)
+ - [Modern Warfare III Maps Removed Due To Deadly Spawn Points](https://kotaku.com/cod-modern-warfare-3-maps-rundown-scrapyard-quarry-1851012260)
+ - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
