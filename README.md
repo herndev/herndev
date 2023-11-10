@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock all Mastery Camo in Call of Duty: Modern Warfare 3](https://www.pcgamer.com/call-of-duty-modern-warfare-2-mastery-camo-challenges)
- - [AutoFull&#39;s combo of gaming chairs and standing desks should have your attention](https://www.pcgamer.com/autofulls-combo-of-gaming-chairs-and-standing-desks-should-have-your-attention)
- - [Wordle today: Hint and answer #874 for Friday, November 10](https://www.pcgamer.com/wordle-today-answer-874-november-10)<!-- GAME:END -->
+ - [What is Tactical Stance in Modern Warfare 3, and how do you use it?](https://www.polygon.com/modern-warfare-3-guides/23955189/mw3-tactical-stance-tac-stance-get-use-controls)
+ - [Amid fan backlash, Modern Warfare 3 studio bluntly denies reports the campaign was scraped together in 16 months as &#39;simply not true&#39;](https://www.pcgamer.com/amid-fan-backlash-modern-warfare-3-studio-bluntly-denies-reports-the-campaign-was-scraped-together-in-16-months-as-simply-not-true)
+ - [Baldur&#39;s Gate 3 hotfix means dwarves don&#39;t have to walk around in &#39;big blueberries&#39; anymore](https://www.pcgamer.com/baldurs-gate-3-hotfix-means-dwarves-dont-have-to-walk-around-in-big-blueberries-anymore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
