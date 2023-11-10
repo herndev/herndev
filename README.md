@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
- - ⏩ [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
- - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 💣 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
+ - ⏩ [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
 
 ---
 
