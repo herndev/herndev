@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is Tactical Stance in Modern Warfare 3, and how do you use it?](https://www.polygon.com/modern-warfare-3-guides/23955189/mw3-tactical-stance-tac-stance-get-use-controls)
- - [Amid fan backlash, Modern Warfare 3 studio bluntly denies reports the campaign was scraped together in 16 months as &#39;simply not true&#39;](https://www.pcgamer.com/amid-fan-backlash-modern-warfare-3-studio-bluntly-denies-reports-the-campaign-was-scraped-together-in-16-months-as-simply-not-true)
- - [Baldur&#39;s Gate 3 hotfix means dwarves don&#39;t have to walk around in &#39;big blueberries&#39; anymore](https://www.pcgamer.com/baldurs-gate-3-hotfix-means-dwarves-dont-have-to-walk-around-in-big-blueberries-anymore)<!-- GAME:END -->
+ - [The best MMOs in 2023](https://www.pcgamer.com/the-best-mmos)
+ - [AMD claws back 5% market share from Intel as CPU sales continue to recover](https://www.pcgamer.com/amd-claws-back-5-market-share-from-intel-as-cpu-sales-continue-to-recover)
+ - [LG UltraGear 27GR93U review](https://www.pcgamer.com/lg-ultragear-27gr93u-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
