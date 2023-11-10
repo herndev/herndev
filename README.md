@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - ⏩ [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
- - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
+ - 💣 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - ⏩ [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
+ - 👉 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)<!-- MEMES:END -->
 
 ---
 
