@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warcraft Rumble dungeon guide - how to unlock and beat dungeons](https://www.polygon.com/guides/23952945/warcraft-rumble-dungeon-unlock)
- - [How to beat the Dire Maul dungeon in Warcraft Rumble](https://www.polygon.com/guides/23954437/warcraft-rumble-dire-maul-dungeon)
- - [The Marvels teases a future the MCU is barely prepared for](https://www.polygon.com/23952407/marvels-mid-credits-scene-beast-x-men-binary)<!-- GAME:END -->
+ - [I can&#39;t believe this worked: There&#39;s a Task Manager trick to get into Modern Warfare 3 multiplayer hours before launch on Steam](https://www.pcgamer.com/modern-warfare-3-early-release-trick)
+ - [9 bizarre things I learned about Cities: Skylines 2 by following this one citizen around for his entire life](https://www.pcgamer.com/9-bizarre-things-i-learned-about-cities-skylines-2-by-following-this-one-citizen-around-for-his-whole-life)
+ - [Report: Devs Worked Nights And Weekends To Rush Modern Warfare III Out](https://kotaku.com/call-duty-modern-warfare-3-mwiii-dlc-rush-crunch-1851009723)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
