@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Humane President Imran Chaudhri on lessons from Apple, having a positive tech outlook, privacy concerns with the Ai Pin, platform transitions, and more &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/231109/p47#a231109p47)
- - [Save 73% on a Luminar Neo Lifetime Bundle &amp; take your photos to the next level](https://appleinsider.com/articles/23/11/10/save-73-on-a-luminar-neo-lifetime-bundle-take-your-photos-to-the-next-level?utm_medium=rss)
- - [Tumblr is downscaling its ambitions after failing to reach its goals for a new audience and plans to focus on the site&#39;s &quot;core functionality&quot; in 2024 &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231109/p46#a231109p46)<!-- TECH:END -->
+ - [Adonit Note+ 2 review: A cost-effective alternative stylus](https://appleinsider.com/articles/23/11/10/adonit-note-2-review-a-cost-effective-alternative-stylus?utm_medium=rss)
+ - [Qualcomm ends its partnership with Iridium to bring satellite connectivity to Android phones, after launching the Snapdragon Satellite platform in January 2023 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231109/p48#a231109p48)
+ - [Q&amp;A with Humane President Imran Chaudhri on lessons from Apple, having a positive tech outlook, privacy concerns with the Ai Pin, platform transitions, and more &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/231109/p47#a231109p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
