@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update alert! One UI 6 finally rolling out in the US](https://www.androidauthority.com/update-alert-one-ui-6-finally-rolling-out-in-the-us-3384394/)
- - [Kai-Fu Lee, CEO of Chinese startup 01.AI, says the company stockpiled enough Nvidia chips to last for next 18 months before the US&#39;s China chip ban kicked in &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p3#a231110p3)
- - [You’ll soon be able to record Spatial videos with the iPhone 15 Pro](https://www.androidauthority.com/apple-iphone-15-pro-spatial-video-3384392/)<!-- TECH:END -->
+ - [Japan plans to allocate extra ~$13B in subsidies to drive investment in its chip industry, on top of previously allocated subsidies which are yet to be spent &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/231110/p4#a231110p4)
+ - [Samsung might launch mid-range foldable phones next year](https://www.androidauthority.com/samsung-mid-range-foldable-phones-2024-3383935/)
+ - [Update alert! One UI 6 finally rolling out in the US](https://www.androidauthority.com/one-ui-6-us-release-3384394/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
