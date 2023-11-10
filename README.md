@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft wants AI to solve problems devs say they don’t actually have](https://www.polygon.com/23954172/microsoft-inworld-ai-announcement)
- - [Unfortunate: You can now completely ruin every single cutscene in Baldur&#39;s Gate 3 with a Thomas the Tank Engine headcrab](https://www.pcgamer.com/unfortunate-you-can-now-completely-ruin-every-single-cutscene-in-baldurs-gate-3-with-a-thomas-the-tank-engine-headcrab)
- - [CoD: Warzone Players Warned They’ll Go ‘Splat’ If They Cheat](https://kotaku.com/call-of-duty-cod-warzone-anti-cheat-splat-mw3-1851011194)<!-- GAME:END -->
+ - [Discover the Enchanting Adventure of Hamster on Rails on Xbox](https://news.xbox.com/en-us/2023/11/10/discover-the-enchanting-adventure-of-hamster-on-rails-on-xbox/)
+ - [No one liked Twitch&#39;s Hype Chat feature, so it&#39;s being killed off just 5 months in](https://www.pcgamer.com/no-one-liked-twitchs-hype-chat-feature-so-its-being-killed-off-just-5-months-in)
+ - [World of Warcraft Classic is becoming its own game — is Fortnite OG next?](https://www.polygon.com/23954103/world-of-warcraft-classic-fortnite-og-nostalgia)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
