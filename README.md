@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: Verizon is down, and users are reporting “No service” and “SOS only” across USA](https://www.androidauthority.com/verizon-is-down-3384515/)
- - [Netflix and Max could be offered together in a $10 Verizon streaming bundle](https://www.theverge.com/2023/11/10/23955191/verizon-netflix-warner-discovery-max-streaming-bundle-ads)
- - [EU launches European Crowdfunding Service Provider Regulation, a uniform set of rules all crowdfunding platforms wishing to operate in the bloc must adhere to &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231110/p9#a231110p9)<!-- TECH:END -->
+ - [Justin Sun&#39;s crypto exchange Poloniex says hackers stole more than $126M worth of crypto assets and it&#39;s working with other exchanges to recover funds &lpar;Decrypt&rpar;](http://www.techmeme.com/231110/p11#a231110p11)
+ - [Where to order the new PlayStation 5 slim](https://www.theverge.com/23932581/playstation-5-ps5-slim-console-sony-redesign-detachable-preorder-price)
+ - [Is Verizon not working? Here’s what could be happening](https://www.androidauthority.com/verizon-outage-1014222/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
