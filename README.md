@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Justin Sun&#39;s crypto exchange Poloniex says hackers stole more than $126M worth of crypto assets and it&#39;s working with other exchanges to recover funds &lpar;Decrypt&rpar;](http://www.techmeme.com/231110/p11#a231110p11)
- - [Where to order the new PlayStation 5 slim](https://www.theverge.com/23932581/playstation-5-ps5-slim-console-sony-redesign-detachable-preorder-price)
- - [Is Verizon not working? Here’s what could be happening](https://www.androidauthority.com/verizon-outage-1014222/)<!-- TECH:END -->
+ - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)
+ - [Samsung Galaxy Buds FE review: good sound and impressive noise cancellation for the $100 price tag but no wireless charging nor multipoint Bluetooth &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231110/p12#a231110p12)
+ - [A24 is making an Elon Musk biopic directed by Darren Aronofsky](https://www.theverge.com/23955295/a24-elon-musk-biopic-darren-aronofsky-biography)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
