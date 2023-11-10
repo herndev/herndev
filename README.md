@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - ⏩ [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
- - 👉 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)<!-- MEMES:END -->
+ - 💣 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
+ - ⏩ [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
 
 ---
 
