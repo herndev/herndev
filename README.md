@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call of Duty anti-cheat update will make cheaters go splat](https://www.theverge.com/2023/11/9/23954565/call-of-duty-anti-cheat-splat-modern-warfare-3-warzone)
- - [GM’s Cruise Rethinks Its Robotaxi Strategy After Admitting a Software Fault in Gruesome Crash](https://www.wired.com/story/gm-cruise-robotaxi-strategy-admitting-software-fault-in-gruesome-crash/)
- - [Apple to pay up to $25 million over hiring discrimination](https://www.theverge.com/2023/11/9/23954640/apple-hiring-discrimination-doj-perm)<!-- TECH:END -->
+ - [Internal website: Microsoft restricts employee access to ChatGPT and other external AI services like Midjourney or Replika &quot;due to security and data concerns&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231109/p43#a231109p43)
+ - [Unity is probably going to do layoffs](https://www.theverge.com/2023/11/9/23954709/unity-layoffs-q3-earnings-runtime-program)
+ - [Google won’t say if companies beyond Spotify got secret special app store deals](https://www.theverge.com/2023/11/9/23954376/google-spotify-user-choice-billing-deal-bumble-epic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
