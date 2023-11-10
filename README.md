@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO teases satellite connectivity in Find X7 Pro, but global launch remains uncertain](https://www.androidauthority.com/oppo-find-x7-pro-satellite-connectivity-3384431/)
- - [Samsung’s first mid-range foldable could be cheaper than the Galaxy A54](https://www.androidauthority.com/samsung-mid-range-foldable-galaxy-z-flip-3384438/)
- - [iPhone 16 to challenge Galaxy S24 with AI smarts next year: Leak](https://www.androidauthority.com/apple-iphone-16-ai-siri-3384406/)<!-- TECH:END -->
+ - [Microsoft wants answers on why you dare close OneDrive](https://www.androidauthority.com/microsoft-onedrive-windows-forced-feedback-3384467/)
+ - [47 countries including all 38 OECD member states issue a joint pledge to &quot;swiftly transpose&quot; OECD&#39;s Crypto-Asset Reporting Framework into their domestic laws &lpar;David Attlee/Cointelegraph&rpar;](http://www.techmeme.com/231110/p7#a231110p7)
+ - [Chinese foreign ministry says ICBC is trying to minimize losses after the ransomware attack; a source says the attack is &quot;limited in impact and almost resolved&quot; &lpar;Cheng Leng/Financial Times&rpar;](http://www.techmeme.com/231110/p6#a231110p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
