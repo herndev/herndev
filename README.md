@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
- - ⏩ [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - 💣 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - ⏩ [Well bummer](http://9gag.com/gag/a04qbdv)
  - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 ---
