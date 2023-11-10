@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The video is called Bicycle Race](http://9gag.com/gag/a8qO3eY)
- - ⏩ [Carnival practice in Brasil. The band and the dancers have to be always synchronized. They train themselves to perfection.](http://9gag.com/gag/a9q0A1Z)
- - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 💣 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
+ - ⏩ [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
 
 ---
 
