@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Garmin Black Friday sale launches with $250 off the Fenix 7S](https://www.androidauthority.com/garmin-black-friday-3384631/)
- - [Future ANC headphones may let you pick which real world sounds to filter](https://www.androidauthority.com/headphone-selective-noise-cancelation-3384616/)
- - [Sources: Apple plans to file an EU DMA challenge, disputing the inclusion of all of the App Store on DMA&#39;s list, and arguing that DMA doesn&#39;t cover iMessage &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p16#a231110p16)<!-- TECH:END -->
+ - [Warner Bros. Discovery just canned another nearly finished film](https://www.theverge.com/2023/11/10/23955432/warner-bros-discovery-coyote-acme-shelved-john-cena)
+ - [Maine&#39;s government says that MOVEit hackers may have accessed the personal information of ~1.3M individuals, which is close to the state&#39;s entire population &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p17#a231110p17)
+ - [The Garmin Black Friday sale launches with $250 off the Fenix 7S](https://www.androidauthority.com/garmin-black-friday-3384631/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
