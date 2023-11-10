@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan plans to allocate extra ~$13B in subsidies to drive investment in its chip industry, on top of previously allocated subsidies which are yet to be spent &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/231110/p4#a231110p4)
- - [Samsung might launch mid-range foldable phones next year](https://www.androidauthority.com/samsung-mid-range-foldable-phones-2024-3383935/)
- - [Update alert! One UI 6 finally rolling out in the US](https://www.androidauthority.com/one-ui-6-us-release-3384394/)<!-- TECH:END -->
+ - [This New Tool Aims to Keep Terrorism Content Off the Internet](https://www.wired.com/story/altitude-terrorism-content-removal-tool/)
+ - [Microsoft: MOVEit hackers are exploiting a zero-day flaw in IT support tool SysAid in &quot;limited&quot; attacks to access corporate servers and deploy Clop ransomware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p5#a231110p5)
+ - [Apple supplier Luxshare invests $330 million in Vietnam plant](https://appleinsider.com/articles/23/11/10/apple-supplier-luxshare-invests-330-million-in-vietnam-plant?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
