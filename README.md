@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance plans to stop accepting deposits in Russian rubles starting November 15, 2023 and withdrawals on January 31, 2024, advises users to withdraw rubles &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/231110/p8#a231110p8)
- - [Two years later, Apple hasn&#39;t broken ground on its massive North Carolina campus](https://appleinsider.com/articles/23/11/10/two-years-later-apple-hasnt-broken-ground-on-its-massive-north-carolina-campus?utm_medium=rss)
- - [Shopping Early Black Friday Deals? Here&#39;s the Return Policy     - CNET](https://www.cnet.com/tech/shopping-early-black-friday-deals-heres-the-return-policy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s not just you: Verizon is down, and users are reporting “No service” and “SOS only” across USA](https://www.androidauthority.com/verizon-is-down-3384515/)
+ - [Netflix and Max could be offered together in a $10 Verizon streaming bundle](https://www.theverge.com/2023/11/10/23955191/verizon-netflix-warner-discovery-max-streaming-bundle-ads)
+ - [EU launches European Crowdfunding Service Provider Regulation, a uniform set of rules all crowdfunding platforms wishing to operate in the bloc must adhere to &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231110/p9#a231110p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
