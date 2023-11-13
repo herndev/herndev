@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Choose your side.](http://9gag.com/gag/aGE5yqK)
- - ⏩ [You spin me right round](http://9gag.com/gag/a3ZrG7r)
- - 👉 [Save it and never use it...](http://9gag.com/gag/agowm46)<!-- MEMES:END -->
+ - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - ⏩ [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 👉 [F**k around and find out...](http://9gag.com/gag/a9q06VK)<!-- MEMES:END -->
 
 ---
 
