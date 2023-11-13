@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)
- - ⏩ [Lara Croft - As a Pixars Character](http://9gag.com/gag/aqewnqZ)
- - 👉 [Double standard](http://9gag.com/gag/aVb5wYO)<!-- MEMES:END -->
+ - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
+ - ⏩ [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 👉 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)<!-- MEMES:END -->
 
 ---
 
