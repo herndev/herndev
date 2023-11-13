@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the new Christmas and holiday movies and specials coming out this winter](https://www.polygon.com/entertainment/23954532/new-christmas-holiday-movies-specials-2023)
- - [Ken Levine hails cancelled Irrational project as &#39;the best game we never got to make&#39;](https://www.pcgamer.com/ken-levine-hails-cancelled-irrational-project-as-the-best-game-we-never-got-to-make)
- - [How to find and destroy a Mercenary Convoy in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-mercenary-convoy-location)<!-- GAME:END -->
+ - [First Ever Official Edible Chocolate Xbox Controller and Wonka-Inspired Console](https://news.xbox.com/en-us/2023/11/13/xbox-wonka-chocolate-controller/)
+ - [Mortal Kombat 1&#39;s Homelander is missing something crucial: the actor&#39;s voice](https://www.pcgamer.com/mortal-kombat-1s-homelander-is-missing-something-crucial-the-actors-voice)
+ - [All the new Christmas and holiday movies and specials coming out this winter](https://www.polygon.com/entertainment/23954532/new-christmas-holiday-movies-specials-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
