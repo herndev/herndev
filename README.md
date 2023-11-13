@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal data: Brex had Q3 annualized net revenue of $283M, up 1% QoQ, and the company is far from profitable, as the growth spurt after SVB&#39;s collapse fizzles &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231113/p22#a231113p22)
- - [Holiday savings slash up to 50% off Amazon Fire TV Sticks](https://www.androidauthority.com/amazon-fire-tv-stick-black-friday-3385122/)
- - [Rick and Morty’s Dan Harmon and Scott Marder are trusting the process for season 7](https://www.theverge.com/2023/11/13/23951296/rick-and-morty-dan-harmon-scott-marder-interview-season-7)<!-- TECH:END -->
+ - [Too many organizations have chosen to obfuscate, mislead, or be too tight-lipped in data breach disclosures, and new regulations should force more transparency &lpar;DataBreaches.net&rpar;](http://www.techmeme.com/231113/p23#a231113p23)
+ - [Apple’s next WWDC could introduce us to its AI-enhanced Siri](https://www.androidauthority.com/apple-siri-ai-3385125/)
+ - [Apple’s privacy stance crumbles as we learn how much it makes from Google Search](https://www.androidauthority.com/apple-search-revenue-safari-3385132/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
