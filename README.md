@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon axes 180 workers in games divisions](https://www.polygon.com/23959433/amazon-layoffs-crown-channel-game-growth)
- - [No matter how many times they&#39;ve declared PC gaming dead over the last 30 years, it&#39;s kept on kicking](https://www.pcgamer.com/no-matter-how-many-times-theyve-declared-pc-gaming-dead-over-the-last-30-years-its-kept-on-kicking)
- - [The most important games and moments in 30 years of PC gaming, part 3: 2014 - 2023](https://www.pcgamer.com/the-most-important-games-and-moments-in-30-years-of-pc-gaming-part-3-2014-2023)<!-- GAME:END -->
+ - [Xbox creates Wonka-themed controller you can... eat](https://www.polygon.com/23959406/xbox-wonka-chocolate-controller-sure)
+ - [Baldur&#39;s Gate 3 and Alan Wake 2 lead The Game Awards with 8 nominations each](https://www.pcgamer.com/baldurs-gate-3-and-alan-wake-2-lead-the-game-awards-with-8-nominations-each)
+ - [It looks like modding tools for Cities: Skylines 2 are still several months away](https://www.pcgamer.com/it-looks-like-modding-tools-for-cities-skylines-2-are-still-several-months-away)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
