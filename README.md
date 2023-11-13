@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google fights scammers using Bard hype to spread malware](https://www.theverge.com/2023/11/13/23958629/google-scammers-bard-ai-malware-spread-lawsuit)
- - [Didi reports Q3 revenue up 25% YoY to ~$7B, a ~$14.7M net income, up from a ~$274M loss in Q3 2022, and plans to buy back $1B in shares over the next 24 months &lpar;Reuters&rpar;](http://www.techmeme.com/231113/p5#a231113p5)
- - [Q&amp;A with Microsoft EVP of Business Development Chris Young on the AI hype, Microsoft making a business out of AI, the non-tech early adopters of AI, and more &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p4#a231113p4)<!-- TECH:END -->
+ - [Apple&#39;s Michael J. Fox film tops Critics Choice Documentary Awards](https://appleinsider.com/articles/23/11/13/apples-michael-j-fox-film-tops-critics-choice-documentary-awards?utm_medium=rss)
+ - [Australian telecom Optus says the recent massive outage that impacted 10M+ was caused by &quot;changes to routing information&quot; after a &quot;routine software upgrade&quot; &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231113/p6#a231113p6)
+ - [The best new Android games: November 2023 edition](https://www.androidauthority.com/new-android-games-658872/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
