@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Block sells an 80% stake to Singaporean VC Foresight Ventures, valuing the crypto outlet at $70M and freeing the business from financial ties to FTX &lpar;Axios&rpar;](http://www.techmeme.com/231113/p9#a231113p9)
- - [Combustion Predictive Thermometer and Display Review: Stress-Free Grilling](https://www.wired.com/review/combustion-predictive-thermometer-and-display/)
- - [Pebble V3 Desktop Speakers Review: Elegant, Cheap, and Powerful](https://www.wired.com/story/creative-pebble-v3-desktop-speakers-rave/)<!-- TECH:END -->
+ - [Sony’s PlayStation Portal gives a confusing first impression](https://www.theverge.com/23958572/sony-playstation-portal-ps5-streaming-remote-play-handheld-specs-impressions)
+ - [Get this M2 Mac mini for just $499.99 today](https://appleinsider.com/articles/23/11/13/get-this-m2-mac-mini-for-just-49999-today?utm_medium=rss)
+ - [The right-to-repair movement is just getting started](https://www.theverge.com/23951200/right-to-repair-law-apple-ifixit-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
