@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Critical Dewpoint, The Custom Halo Infinite Map Built To Celebrate Mtn Dew Game Fuel](https://news.xbox.com/en-us/2023/11/13/halo-game-fuel-critical-dewpoint/)
- - [Remedy&#39;s free-to-play multiplayer game is going back to the drawing board for a &#39;reboot&#39; as a premium game](https://www.pcgamer.com/remedys-free-to-play-multiplayer-game-is-going-back-to-the-drawing-board-for-a-reboot-as-a-premium-game)
- - [PlayStation’s Black Friday Deals 2023](https://blog.playstation.com/2023/11/13/playstations-black-friday-deals-2023/)<!-- GAME:END -->
+ - [Starfield Ghosted At The 2023 Game Awards](https://kotaku.com/starfield-ghosted-at-the-2023-game-awards-1851017191)
+ - [New Lego Set Is Filled With Awesome Secrets](https://kotaku.com/new-lego-2024-january-monkie-kid-city-set-easter-eggs-1851017169)
+ - [Hundreds of Norwegian World of Warcraft players are furious after a bizarre new bug causes their game to freeze repeatedly](https://www.pcgamer.com/hundreds-of-norwegian-world-of-warcraft-players-are-furious-after-a-bizarre-new-bug-causes-their-game-to-freeze-repeatedly)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
