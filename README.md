@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
- - ⏩ [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
+ - 💣 [Problem solved](http://9gag.com/gag/aREdBQ5)
+ - ⏩ [How we want it](http://9gag.com/gag/aEq5qOn)
+ - 👉 [How it began...](http://9gag.com/gag/a3ZrGnQ)<!-- MEMES:END -->
 
 ---
 
