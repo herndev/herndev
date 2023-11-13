@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards 2023: Every Nominated Game Available on Xbox](https://news.xbox.com/en-us/2023/11/13/the-game-awards-2023-xbox-nominations/)
- - [Tekken’s cool new fighter is another illegitimate kid of fighting games’ worst dad](https://www.polygon.com/23959185/tekken-8-reina-character-roster-final)
- - [Roadhog’s Overwatch 2 Rework Has Me Skeptical](https://kotaku.com/overwatch-2-roadhog-rework-pig-pen-season-7-1851017854)<!-- GAME:END -->
+ - [Amazon axes 180 workers in games divisions](https://www.polygon.com/23959433/amazon-layoffs-crown-channel-game-growth)
+ - [No matter how many times they&#39;ve declared PC gaming dead over the last 30 years, it&#39;s kept on kicking](https://www.pcgamer.com/no-matter-how-many-times-theyve-declared-pc-gaming-dead-over-the-last-30-years-its-kept-on-kicking)
+ - [The most important games and moments in 30 years of PC gaming, part 3: 2014 - 2023](https://www.pcgamer.com/the-most-important-games-and-moments-in-30-years-of-pc-gaming-part-3-2014-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
