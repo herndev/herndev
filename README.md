@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - ⏩ [Insane.](http://9gag.com/gag/aWG57q6)
- - 👉 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)<!-- MEMES:END -->
+ - 💣 [Advice?](http://9gag.com/gag/a5X3VBV)
+ - ⏩ [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 👉 [Today in art class Part 3. We learned how to draw balloons. Then different hand grips. Now we put them together...](http://9gag.com/gag/aGE5nAZ)<!-- MEMES:END -->
 
 ---
 
