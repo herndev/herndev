@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - ⏩ [Gaza before and after Israel air strikes](http://9gag.com/gag/aeQw9X5)
- - 👉 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)<!-- MEMES:END -->
+ - 💣 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
+ - ⏩ [Lol what&#39;s Power Rangers](http://9gag.com/gag/aVb5oz2)
+ - 👉 [Problem solved](http://9gag.com/gag/aREdBQ5)<!-- MEMES:END -->
 
 ---
 
