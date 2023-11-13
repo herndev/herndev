@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First Ever Official Edible Chocolate Xbox Controller and Wonka-Inspired Console](https://news.xbox.com/en-us/2023/11/13/xbox-wonka-chocolate-controller/)
- - [Mortal Kombat 1&#39;s Homelander is missing something crucial: the actor&#39;s voice](https://www.pcgamer.com/mortal-kombat-1s-homelander-is-missing-something-crucial-the-actors-voice)
- - [All the new Christmas and holiday movies and specials coming out this winter](https://www.polygon.com/entertainment/23954532/new-christmas-holiday-movies-specials-2023)<!-- GAME:END -->
+ - [Black Friday is approaching and by Grabthar&#39;s hammer, do I need a proper gaming chair](https://www.pcgamer.com/black-friday-is-approaching-and-by-grabthars-hammer-do-i-need-a-proper-gaming-chair)
+ - [How to choose the best Black Friday SSD deal for you](https://www.pcgamer.com/how-to-pick-the-best-black-friday-ssd-deal)
+ - [Nightdive says Dark Forces has been &#39;difficult to change&#39; because LucasArts created its own version of multi-threading years before it became popular](https://www.pcgamer.com/nightdive-says-dark-forces-has-been-difficult-to-change-because-lucasarts-created-its-own-version-of-multi-threading-years-before-it-became-popular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
