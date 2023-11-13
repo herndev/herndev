@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s Curvy Enough for YOU Young man](http://9gag.com/gag/aME54WA)
- - ⏩ [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
- - 👉 [Insane.](http://9gag.com/gag/aWG57q6)<!-- MEMES:END -->
+ - 💣 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
+ - ⏩ [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
 
 ---
 
