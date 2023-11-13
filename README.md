@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration directs agencies to work on giving up airwaves to make room for commercial 5G networks, part of the National Spectrum Strategy &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/231113/p15#a231113p15)
- - [Will Apple save us from surveillance advertising?](https://appleinsider.com/articles/23/11/13/will-apple-save-us-from-surveillance-advertising?utm_medium=rss)
- - [Ring joins the Black Friday fun with up to 50% off doorbells and cams](https://www.androidauthority.com/ring-black-friday-sale-3384680/)<!-- TECH:END -->
+ - [The Garfield Movie’s new trailer will put you in a real Monday kind of mood](https://www.theverge.com/23958789/garfield-the-movie-trailer-chris-pratt)
+ - [WhatsApp is adding a new way to voice chat with large groups](https://www.theverge.com/2023/11/13/23958889/whatsapp-voice-chat-feature-ios-android-32-users)
+ - [The US Wants China to Start Talking About AI Weapons](https://www.wired.com/story/us-china-killer-ai-weapons-apec-talks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
