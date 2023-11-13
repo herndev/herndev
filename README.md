@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane.](http://9gag.com/gag/aWG57q6)
- - ⏩ [Dancing Arab](http://9gag.com/gag/a9q0z8j)
- - 👉 [Problem solved](http://9gag.com/gag/aREdBQ5)<!-- MEMES:END -->
+ - 💣 [That&#39;s Curvy Enough for YOU Young man](http://9gag.com/gag/aME54WA)
+ - ⏩ [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
+ - 👉 [Insane.](http://9gag.com/gag/aWG57q6)<!-- MEMES:END -->
 
 ---
 
