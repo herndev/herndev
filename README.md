@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reportedly cut a deal to get cleaner Amazon pages](https://www.theverge.com/2023/11/10/23955934/apple-amazon-deal-search-product-pages-ads)
- - [Ad-free Instagram and Facebook is here — and it’s expensive](https://www.theverge.com/2023/11/10/23955987/instagram-facebook-without-ads-eu-subscription)
- - [New teaser for Netflix’s 3 Body Problem series will make you want to play the game](https://www.theverge.com/23955973/netflix-3-body-problem-teaser-trailer-release-date)<!-- TECH:END -->
+ - [Best Internet Providers in Anchorage, Alaska     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-anchorage-ak/#ftag=CAD590a51e)
+ - [Upgrade Your Gaming Setup on a Budget With This $145 27-Inch Acer Nitro Monitor     - CNET](https://www.cnet.com/deals/upgrade-your-gaming-setup-on-a-budget-with-this-145-27-inch-acer-nitro-monitor/#ftag=CAD590a51e)
+ - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
