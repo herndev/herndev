@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - ⏩ [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
- - 👉 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)<!-- MEMES:END -->
+ - 💣 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
+ - ⏩ [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
+ - 👉 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)<!-- MEMES:END -->
 
 ---
 
