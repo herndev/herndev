@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - ⏩ [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
- - 👉 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)<!-- MEMES:END -->
+ - ⏩ [Gaza before and after Israel air strikes](http://9gag.com/gag/aeQw9X5)
+ - 👉 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)<!-- MEMES:END -->
 
 ---
 
