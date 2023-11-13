@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Advice?](http://9gag.com/gag/a5X3VBV)
- - ⏩ [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 👉 [Today in art class Part 3. We learned how to draw balloons. Then different hand grips. Now we put them together...](http://9gag.com/gag/aGE5nAZ)<!-- MEMES:END -->
+ - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - ⏩ [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - 👉 [Kat Dennings](http://9gag.com/gag/agow14v)<!-- MEMES:END -->
 
 ---
 
