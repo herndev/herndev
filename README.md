@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
- - ⏩ [Advice?](http://9gag.com/gag/a5X3VBV)
- - 👉 [My eyes are up here](http://9gag.com/gag/aL15nyg)<!-- MEMES:END -->
+ - 💣 [Istanbul Trans Pride parade goes about as well as one would think. And this is one of the mildest Muslim countries. Meanwhile we are having &#39;Queers for Hamas&#39; protesters in the West.](http://9gag.com/gag/amAwGR2)
+ - ⏩ [F**k around and find out...](http://9gag.com/gag/a9q06VK)
+ - 👉 [Exactly!!!](http://9gag.com/gag/a6q6Dre)<!-- MEMES:END -->
 
 ---
 
