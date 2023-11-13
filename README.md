@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
- - [After Apple voiced support for California&#39;s Right to Repair Act, a look at what&#39;s next for the movement, like tackling unsustainable designs and software locks &lpar;Maddie Stone/The Verge&rpar;](http://www.techmeme.com/231113/p12#a231113p12)
- - [Daily deals Nov. 13: $100 off M2 Mac mini, $299 Apple Watch Series 8, $89 Apple Pencil 2, more](https://appleinsider.com/articles/23/11/13/daily-deals-nov-13-100-off-m2-mac-mini-299-apple-watch-series-8-89-apple-pencil-2-more?utm_medium=rss)<!-- TECH:END -->
+ - [The Biden administration directs agencies to work on giving up airwaves to make room for commercial 5G networks, part of the National Spectrum Strategy &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/231113/p15#a231113p15)
+ - [Will Apple save us from surveillance advertising?](https://appleinsider.com/articles/23/11/13/will-apple-save-us-from-surveillance-advertising?utm_medium=rss)
+ - [Ring joins the Black Friday fun with up to 50% off doorbells and cams](https://www.androidauthority.com/ring-black-friday-sale-3384680/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
