@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
- - ⏩ [Lol what&#39;s Power Rangers](http://9gag.com/gag/aVb5oz2)
+ - 💣 [Insane.](http://9gag.com/gag/aWG57q6)
+ - ⏩ [Dancing Arab](http://9gag.com/gag/a9q0z8j)
  - 👉 [Problem solved](http://9gag.com/gag/aREdBQ5)<!-- MEMES:END -->
 
 ---
