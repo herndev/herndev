@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Debut DLC The Awakened King Makes Remnant II Even Better for All Players](https://news.xbox.com/en-us/2023/11/13/remnant-2-dlc-the-awakened-king/)
- - [Unannounced 6.2GHz Intel monster CPU spotted in pre-built rigs](https://www.pcgamer.com/unannounced-62ghz-intel-monster-cpu-spotted-in-pre-built-rigs)
- - [If the hundreds of hours of Fallout: New Vegas just aren&#39;t enough for you, here&#39;s a mod that adds infinite quests](https://www.pcgamer.com/if-the-hundreds-of-hours-of-fallout-new-vegas-just-arent-enough-for-you-heres-a-mod-that-adds-infinite-quests)<!-- GAME:END -->
+ - [Inside Critical Dewpoint, The Custom Halo Infinite Map Built To Celebrate Mtn Dew Game Fuel](https://news.xbox.com/en-us/2023/11/13/halo-game-fuel-critical-dewpoint/)
+ - [Remedy&#39;s free-to-play multiplayer game is going back to the drawing board for a &#39;reboot&#39; as a premium game](https://www.pcgamer.com/remedys-free-to-play-multiplayer-game-is-going-back-to-the-drawing-board-for-a-reboot-as-a-premium-game)
+ - [PlayStation’s Black Friday Deals 2023](https://blog.playstation.com/2023/11/13/playstations-black-friday-deals-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
