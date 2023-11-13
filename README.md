@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube facing criminal ‘spying’ charges for ad blocker detection](https://www.androidauthority.com/youtube-criminal-spying-charges-ad-blocker-detection-3384885/)
- - [Xiaomi is up 60%+, gaining about $20B in market value since June 2023 on the back of strong Xiaomi 14 series sales and its foray into EV and other businesses &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/231113/p1#a231113p1)
- - [Chinese chipmaker YMTC filed a lawsuit against Micron on November 9, 2023 in California, alleging that the US chipmaker infringed eight of its patents &lpar;Reuters&rpar;](http://www.techmeme.com/231112/p8#a231112p8)<!-- TECH:END -->
+ - [Google Photos is now getting the handy Photo Stack feature](https://www.androidauthority.com/google-photos-photo-stack-release-3384900/)
+ - [US court rules your cars can legally store and share your texts and call logs](https://www.androidauthority.com/car-infotainment-systems-text-messages-call-logs-lawsuit-3384895/)
+ - [In a major policy change, banks on the payment app Zelle have started refunding scam victims as of June 30, 2023 after pressure from US lawmakers and the CFPB &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/231113/p2#a231113p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
