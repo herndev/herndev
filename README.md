@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Choose your side.](http://9gag.com/gag/aGE5yqK)
+ - 💣 [God is the greatest](http://9gag.com/gag/aKE5ApZ)
  - ⏩ [You spin me right round](http://9gag.com/gag/a3ZrG7r)
- - 👉 [Save it and never use it...](http://9gag.com/gag/agowm46)<!-- MEMES:END -->
+ - 👉 [Where&#39;s the teacher](http://9gag.com/gag/amAwWD6)<!-- MEMES:END -->
 
 ---
 
