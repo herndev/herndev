@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Garfield Movie’s new trailer will put you in a real Monday kind of mood](https://www.theverge.com/23958789/garfield-the-movie-trailer-chris-pratt)
- - [WhatsApp is adding a new way to voice chat with large groups](https://www.theverge.com/2023/11/13/23958889/whatsapp-voice-chat-feature-ios-android-32-users)
- - [The US Wants China to Start Talking About AI Weapons](https://www.wired.com/story/us-china-killer-ai-weapons-apec-talks/)<!-- TECH:END -->
+ - [Google pays Apple 36% of the revenue it earns from search ads made through Safari, according to the testimony of an Alphabet economics expert at US v. Google &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231113/p17#a231113p17)
+ - [The Sony WH-1000XM5 price plunges in latest Black Friday deal](https://www.androidauthority.com/sony-wh-1000xm5-black-friday-deal-3385075/)
+ - [We only get one planet](https://www.theverge.com/23943463/sustainability-tech-climate-change-ai-housing-ev)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
