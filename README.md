@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God is the greatest](http://9gag.com/gag/aKE5ApZ)
- - ⏩ [You spin me right round](http://9gag.com/gag/a3ZrG7r)
- - 👉 [Where&#39;s the teacher](http://9gag.com/gag/amAwWD6)<!-- MEMES:END -->
+ - 💣 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - ⏩ [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
+ - 👉 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)<!-- MEMES:END -->
 
 ---
 
