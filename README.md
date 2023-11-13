@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield Ghosted At The 2023 Game Awards](https://kotaku.com/starfield-ghosted-at-the-2023-game-awards-1851017191)
- - [New Lego Set Is Filled With Awesome Secrets](https://kotaku.com/new-lego-2024-january-monkie-kid-city-set-easter-eggs-1851017169)
- - [Hundreds of Norwegian World of Warcraft players are furious after a bizarre new bug causes their game to freeze repeatedly](https://www.pcgamer.com/hundreds-of-norwegian-world-of-warcraft-players-are-furious-after-a-bizarre-new-bug-causes-their-game-to-freeze-repeatedly)<!-- GAME:END -->
+ - [DayZ&#39;s just hit its highest-ever player count a decade after its standalone release](https://www.pcgamer.com/dayzs-just-hit-its-highest-ever-player-count-a-decade-after-its-standalone-release)
+ - [Baldur&#39;s Gate 3 Speedrunner Races To Bear Sex](https://kotaku.com/baldurs-gate-3-halsin-bear-sex-speedrun-bg3-1851017528)
+ - [Tears of the Kingdom, Baldur’s Gate 3 among Game of the Year nominees](https://www.polygon.com/game-awards-tga/23959124/game-awards-tga-2023-goty-game-of-the-year-nominees-list-totk-bg3-mario-spider-man)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
