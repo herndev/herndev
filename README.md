@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is now getting the handy Photo Stack feature](https://www.androidauthority.com/google-photos-photo-stack-release-3384900/)
- - [US court rules your cars can legally store and share your texts and call logs](https://www.androidauthority.com/car-infotainment-systems-text-messages-call-logs-lawsuit-3384895/)
- - [In a major policy change, banks on the payment app Zelle have started refunding scam victims as of June 30, 2023 after pressure from US lawmakers and the CFPB &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/231113/p2#a231113p2)<!-- TECH:END -->
+ - [We asked, you told us: Most of you prefer monochrome themes over color](https://www.androidauthority.com/monochrome-color-themes-poll-results-3384888/)
+ - [Sam Altman says he expected &quot;to raise a lot more&quot; from Microsoft and other investors to keep up with the punishing costs of building more sophisticated LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231113/p3#a231113p3)
+ - [This is how reminders will work in Google Photos](https://www.androidauthority.com/google-photos-reminders-feature-3384904/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
