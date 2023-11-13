@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Michael J. Fox film tops Critics Choice Documentary Awards](https://appleinsider.com/articles/23/11/13/apples-michael-j-fox-film-tops-critics-choice-documentary-awards?utm_medium=rss)
- - [Australian telecom Optus says the recent massive outage that impacted 10M+ was caused by &quot;changes to routing information&quot; after a &quot;routine software upgrade&quot; &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231113/p6#a231113p6)
- - [The best new Android games: November 2023 edition](https://www.androidauthority.com/new-android-games-658872/)<!-- TECH:END -->
+ - [The Block sells an 80% stake to Singaporean VC Foresight Ventures, valuing the crypto outlet at $70M and freeing the business from financial ties to FTX &lpar;Axios&rpar;](http://www.techmeme.com/231113/p9#a231113p9)
+ - [Combustion Predictive Thermometer and Display Review: Stress-Free Grilling](https://www.wired.com/review/combustion-predictive-thermometer-and-display/)
+ - [Pebble V3 Desktop Speakers Review: Elegant, Cheap, and Powerful](https://www.wired.com/story/creative-pebble-v3-desktop-speakers-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
