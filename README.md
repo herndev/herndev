@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox creates Wonka-themed controller you can... eat](https://www.polygon.com/23959406/xbox-wonka-chocolate-controller-sure)
- - [Baldur&#39;s Gate 3 and Alan Wake 2 lead The Game Awards with 8 nominations each](https://www.pcgamer.com/baldurs-gate-3-and-alan-wake-2-lead-the-game-awards-with-8-nominations-each)
- - [It looks like modding tools for Cities: Skylines 2 are still several months away](https://www.pcgamer.com/it-looks-like-modding-tools-for-cities-skylines-2-are-still-several-months-away)<!-- GAME:END -->
+ - [This strategy city builder clicker may be small, but it&#39;s eating up massive chunks of my time](https://www.pcgamer.com/this-strategy-city-builder-clicker-may-be-small-but-its-eating-up-massive-chunks-of-my-time)
+ - [Final Fantasy VII Rebirth Will Feature Bodacious Beach Bod, But Who?](https://kotaku.com/ff7-final-fantasy-7-rebirth-remake-esrb-beach-bod-1851018619)
+ - [After earning $544 million in its most recent quarter, Unity says even more layoffs are &#39;likely&#39;](https://www.pcgamer.com/after-earning-dollar544-million-in-its-most-recent-quarter-unity-says-even-more-layoffs-are-likely)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
