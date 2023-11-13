@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - ⏩ [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
- - 👉 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)<!-- MEMES:END -->
+ - 💣 [Choose your side.](http://9gag.com/gag/aGE5yqK)
+ - ⏩ [You spin me right round](http://9gag.com/gag/a3ZrG7r)
+ - 👉 [Save it and never use it...](http://9gag.com/gag/agowm46)<!-- MEMES:END -->
 
 ---
 
