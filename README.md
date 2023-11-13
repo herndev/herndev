@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - ⏩ [How we want it](http://9gag.com/gag/aEq5qOn)
- - 👉 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)<!-- MEMES:END -->
+ - 💣 [Delivery](http://9gag.com/gag/az2wPMz)
+ - ⏩ [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 👉 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)<!-- MEMES:END -->
 
 ---
 
