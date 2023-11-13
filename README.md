@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Microsoft EVP of Business Development Chris Young on the AI hype, Microsoft making a business out of AI, the non-tech early adopters of AI, and more &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p4#a231113p4)
- - [You still cannot bootloader unlock and root the ASUS Zenfone 10](https://www.androidauthority.com/asus-zenfone-10-bootloader-unlock-root-impossible-3384936/)
- - [Poll: Would you buy a phone with an LCD screen again?](https://www.androidauthority.com/buy-phone-lcd-screen-poll-3384932/)<!-- TECH:END -->
+ - [Google fights scammers using Bard hype to spread malware](https://www.theverge.com/2023/11/13/23958629/google-scammers-bard-ai-malware-spread-lawsuit)
+ - [Didi reports Q3 revenue up 25% YoY to ~$7B, a ~$14.7M net income, up from a ~$274M loss in Q3 2022, and plans to buy back $1B in shares over the next 24 months &lpar;Reuters&rpar;](http://www.techmeme.com/231113/p5#a231113p5)
+ - [Q&amp;A with Microsoft EVP of Business Development Chris Young on the AI hype, Microsoft making a business out of AI, the non-tech early adopters of AI, and more &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p4#a231113p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
