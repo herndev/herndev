@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Most of you prefer monochrome themes over color](https://www.androidauthority.com/monochrome-color-themes-poll-results-3384888/)
- - [Sam Altman says he expected &quot;to raise a lot more&quot; from Microsoft and other investors to keep up with the punishing costs of building more sophisticated LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231113/p3#a231113p3)
- - [This is how reminders will work in Google Photos](https://www.androidauthority.com/google-photos-reminders-feature-3384904/)<!-- TECH:END -->
+ - [Poll: Would you buy a phone with an LCD screen again?](https://www.androidauthority.com/buy-phone-lcd-screen-poll-3384932/)
+ - [Gboard is finally fixing its annoying landscape typing problem](https://www.androidauthority.com/gboard-landscape-floating-window-rollout-3384909/)
+ - [We asked, you told us: Most of you prefer monochrome themes over color](https://www.androidauthority.com/monochrome-color-themes-poll-results-3384888/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
