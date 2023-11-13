@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Problem solved](http://9gag.com/gag/aREdBQ5)
- - ⏩ [How we want it](http://9gag.com/gag/aEq5qOn)
- - 👉 [How it began...](http://9gag.com/gag/a3ZrGnQ)<!-- MEMES:END -->
+ - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
+ - ⏩ [Insane.](http://9gag.com/gag/aWG57q6)
+ - 👉 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)<!-- MEMES:END -->
 
 ---
 
