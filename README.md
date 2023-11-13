@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #877 for Monday, November 13](https://www.pcgamer.com/wordle-today-answer-877-november-13)
- - [Details on AMD&#39;s Ryzen 8000 APUs have leaked, with the eight core 8700G topping the list with 12 CUs](https://www.pcgamer.com/details-on-amds-ryzen-8000-apus-have-leaked-with-the-eight-core-8700g-topping-the-list-with-12-cus)
- - [Five new Steam games you probably missed &lpar;November 13, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-13-2023)<!-- GAME:END -->
+ - [Disney Lorcana Rise of the Floodborn’s two new starter sets are excellent](https://www.polygon.com/23955587/rise-of-the-floodborn-starter-decks)
+ - [Tekken 8 game director reveals details on new characters Reina and Victor](https://blog.playstation.com/2023/11/12/tekken-8-game-director-reveals-details-on-new-characters-reina-and-victor/)
+ - [Tekken 8 game director reveals details on new characters Reina and Victor](https://blog.playstation.com/2023/11/12/tekken-8-game-director-reveals-details-on-new-characters-reina-and-victor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
