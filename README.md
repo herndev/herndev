@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - ⏩ [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - 👉 [Kat Dennings](http://9gag.com/gag/agow14v)<!-- MEMES:END -->
+ - 💣 [Choose your side.](http://9gag.com/gag/aGE5yqK)
+ - ⏩ [You spin me right round](http://9gag.com/gag/a3ZrG7r)
+ - 👉 [Save it and never use it...](http://9gag.com/gag/agowm46)<!-- MEMES:END -->
 
 ---
 
