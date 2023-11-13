@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DayZ&#39;s just hit its highest-ever player count a decade after its standalone release](https://www.pcgamer.com/dayzs-just-hit-its-highest-ever-player-count-a-decade-after-its-standalone-release)
- - [Baldur&#39;s Gate 3 Speedrunner Races To Bear Sex](https://kotaku.com/baldurs-gate-3-halsin-bear-sex-speedrun-bg3-1851017528)
- - [Tears of the Kingdom, Baldur’s Gate 3 among Game of the Year nominees](https://www.polygon.com/game-awards-tga/23959124/game-awards-tga-2023-goty-game-of-the-year-nominees-list-totk-bg3-mario-spider-man)<!-- GAME:END -->
+ - [The Game Awards 2023: Every Nominated Game Available on Xbox](https://news.xbox.com/en-us/2023/11/13/the-game-awards-2023-xbox-nominations/)
+ - [Tekken’s cool new fighter is another illegitimate kid of fighting games’ worst dad](https://www.polygon.com/23959185/tekken-8-reina-character-roster-final)
+ - [Roadhog’s Overwatch 2 Rework Has Me Skeptical](https://kotaku.com/overwatch-2-roadhog-rework-pig-pen-season-7-1851017854)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
