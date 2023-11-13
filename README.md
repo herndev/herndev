@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
- - ⏩ [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
- - 👉 [My eyes are up here](http://9gag.com/gag/aL15nyg)<!-- MEMES:END -->
+ - 💣 [They/was](http://9gag.com/gag/aL15Lxz)
+ - ⏩ [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 👉 [Advice?](http://9gag.com/gag/a5X3VBV)<!-- MEMES:END -->
 
 ---
 
