@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Would you buy a phone with an LCD screen again?](https://www.androidauthority.com/buy-phone-lcd-screen-poll-3384932/)
- - [Gboard is finally fixing its annoying landscape typing problem](https://www.androidauthority.com/gboard-landscape-floating-window-rollout-3384909/)
- - [We asked, you told us: Most of you prefer monochrome themes over color](https://www.androidauthority.com/monochrome-color-themes-poll-results-3384888/)<!-- TECH:END -->
+ - [Q&amp;A with Microsoft EVP of Business Development Chris Young on the AI hype, Microsoft making a business out of AI, the non-tech early adopters of AI, and more &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p4#a231113p4)
+ - [You still cannot bootloader unlock and root the ASUS Zenfone 10](https://www.androidauthority.com/asus-zenfone-10-bootloader-unlock-root-impossible-3384936/)
+ - [Poll: Would you buy a phone with an LCD screen again?](https://www.androidauthority.com/buy-phone-lcd-screen-poll-3384932/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
