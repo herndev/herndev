@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Too many organizations have chosen to obfuscate, mislead, or be too tight-lipped in data breach disclosures, and new regulations should force more transparency &lpar;DataBreaches.net&rpar;](http://www.techmeme.com/231113/p23#a231113p23)
- - [Apple’s next WWDC could introduce us to its AI-enhanced Siri](https://www.androidauthority.com/apple-siri-ai-3385125/)
- - [Apple’s privacy stance crumbles as we learn how much it makes from Google Search](https://www.androidauthority.com/apple-search-revenue-safari-3385132/)<!-- TECH:END -->
+ - [Meta rolls out the ability for users to delete their Threads profile without having to delete their Instagram account &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231113/p24#a231113p24)
+ - [Apple Arcade&#39;s &#39;Hello Kitty Island Adventure&#39; nominated for best mobile game at The Game Awards](https://appleinsider.com/articles/23/11/13/apple-arcades-hello-kitty-island-adventure-nominated-for-best-mobile-game-at-the-game-awards?utm_medium=rss)
+ - [The Incredible Women Making Strides in Science](https://www.wired.com/story/women-in-science-introduction-editor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
