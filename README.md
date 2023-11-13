@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday is approaching and by Grabthar&#39;s hammer, do I need a proper gaming chair](https://www.pcgamer.com/black-friday-is-approaching-and-by-grabthars-hammer-do-i-need-a-proper-gaming-chair)
- - [How to choose the best Black Friday SSD deal for you](https://www.pcgamer.com/how-to-pick-the-best-black-friday-ssd-deal)
- - [Nightdive says Dark Forces has been &#39;difficult to change&#39; because LucasArts created its own version of multi-threading years before it became popular](https://www.pcgamer.com/nightdive-says-dark-forces-has-been-difficult-to-change-because-lucasarts-created-its-own-version-of-multi-threading-years-before-it-became-popular)<!-- GAME:END -->
+ - [Why Debut DLC The Awakened King Makes Remnant II Even Better for All Players](https://news.xbox.com/en-us/2023/11/13/remnant-2-dlc-the-awakened-king/)
+ - [Unannounced 6.2GHz Intel monster CPU spotted in pre-built rigs](https://www.pcgamer.com/unannounced-62ghz-intel-monster-cpu-spotted-in-pre-built-rigs)
+ - [If the hundreds of hours of Fallout: New Vegas just aren&#39;t enough for you, here&#39;s a mod that adds infinite quests](https://www.pcgamer.com/if-the-hundreds-of-hours-of-fallout-new-vegas-just-arent-enough-for-you-heres-a-mod-that-adds-infinite-quests)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
