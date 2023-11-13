@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Details on AMD&#39;s Ryzen 8000 APUs have leaked, with the eight core 8700G topping the list with 12 CUs](https://www.pcgamer.com/details-on-amds-ryzen-8000-apus-have-leaked-with-the-eight-core-8700g-topping-the-list-with-12-cus)
  - [Five new Steam games you probably missed &lpar;November 13, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-13-2023)
- - [After her videos inspired by surreal &#39;90s pre-rendered horror games blew up, this TikTok star is making an actual surreal pre-rendered horror game](https://www.pcgamer.com/after-her-videos-inspired-by-surreal-90s-pre-rendered-horror-games-blew-up-this-tiktok-star-is-making-an-actual-surreal-pre-rendered-horror-game)
- - [Rebel Moon’s trailer gives us more time to appreciate those sick laser butcher swords](https://www.polygon.com/23955948/rebel-moons-full-trailer-release-date-netflix-geeked-week-2023)<!-- GAME:END -->
+ - [After her videos inspired by surreal &#39;90s pre-rendered horror games blew up, this TikTok star is making an actual surreal pre-rendered horror game](https://www.pcgamer.com/after-her-videos-inspired-by-surreal-90s-pre-rendered-horror-games-blew-up-this-tiktok-star-is-making-an-actual-surreal-pre-rendered-horror-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
