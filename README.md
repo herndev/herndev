@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rebel Moon’s trailer gives us more time to appreciate those sick laser butcher swords](https://www.polygon.com/23955948/rebel-moons-full-trailer-release-date-netflix-geeked-week-2023)
- - [Cliff Bleszinski recalls his &#39;90s FPS beef with John Romero was so intense he wanted to &#39;take that guy down&#39;](https://www.pcgamer.com/cliff-bleszinski-recalls-his-90s-fps-beef-with-john-romero-was-so-intense-he-wanted-to-take-that-guy-down)
- - [The PC Gamer 2023 Holiday Gift Guide](https://www.pcgamer.com/gifts-for-gamers-2023)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;November 13, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-13-2023)
+ - [After her videos inspired by surreal &#39;90s pre-rendered horror games blew up, this TikTok star is making an actual surreal pre-rendered horror game](https://www.pcgamer.com/after-her-videos-inspired-by-surreal-90s-pre-rendered-horror-games-blew-up-this-tiktok-star-is-making-an-actual-surreal-pre-rendered-horror-game)
+ - [Rebel Moon’s trailer gives us more time to appreciate those sick laser butcher swords](https://www.polygon.com/23955948/rebel-moons-full-trailer-release-date-netflix-geeked-week-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
