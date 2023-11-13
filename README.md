@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pays Apple 36% of the revenue it earns from search ads made through Safari, according to the testimony of an Alphabet economics expert at US v. Google &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231113/p17#a231113p17)
- - [The Sony WH-1000XM5 price plunges in latest Black Friday deal](https://www.androidauthority.com/sony-wh-1000xm5-black-friday-deal-3385075/)
- - [We only get one planet](https://www.theverge.com/23943463/sustainability-tech-climate-change-ai-housing-ev)<!-- TECH:END -->
+ - [Google paid 36% of Safari search revenue to Apple](https://appleinsider.com/articles/23/11/13/google-paid-36-of-safari-search-revenue-to-apple-in-deal?utm_medium=rss)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
+ - [A look at OpenAI&#39;s structure where a six-member non-profit board can decide if AGI has been achieved, at which point Microsoft is excluded from some IP licenses &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/231113/p20#a231113p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
