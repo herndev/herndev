@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Einride’s drone truck has its first full-time job moving GE appliances around](https://www.theverge.com/2023/11/13/23959030/einride-driverless-trucks-ge-appliances-autonomous-delivery)
- - [A Google witness let slip just how much it pays Apple for Safari search](https://www.theverge.com/2023/11/13/23959353/google-apple-safari-search-revenue-antitrust-trial)
- - [10 Best Early Black Friday Mattress Deals &lpar;2023&rpar;: Hybrid, Organic, Innerspring](https://www.wired.com/story/best-black-friday-mattress-deals-2023/)<!-- TECH:END -->
+ - [Internal data: Brex had Q3 annualized net revenue of $283M, up 1% QoQ, and the company is far from profitable, as the growth spurt after SVB&#39;s collapse fizzles &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231113/p22#a231113p22)
+ - [Holiday savings slash up to 50% off Amazon Fire TV Sticks](https://www.androidauthority.com/amazon-fire-tv-stick-black-friday-3385122/)
+ - [Rick and Morty’s Dan Harmon and Scott Marder are trusting the process for season 7](https://www.theverge.com/2023/11/13/23951296/rick-and-morty-dan-harmon-scott-marder-interview-season-7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
