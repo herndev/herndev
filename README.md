@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s PlayStation Portal gives a confusing first impression](https://www.theverge.com/23958572/sony-playstation-portal-ps5-streaming-remote-play-handheld-specs-impressions)
- - [Get this M2 Mac mini for just $499.99 today](https://appleinsider.com/articles/23/11/13/get-this-m2-mac-mini-for-just-49999-today?utm_medium=rss)
- - [The right-to-repair movement is just getting started](https://www.theverge.com/23951200/right-to-repair-law-apple-ifixit-iphone)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
+ - [After Apple voiced support for California&#39;s Right to Repair Act, a look at what&#39;s next for the movement, like tackling unsustainable designs and software locks &lpar;Maddie Stone/The Verge&rpar;](http://www.techmeme.com/231113/p12#a231113p12)
+ - [Daily deals Nov. 13: $100 off M2 Mac mini, $299 Apple Watch Series 8, $89 Apple Pencil 2, more](https://appleinsider.com/articles/23/11/13/daily-deals-nov-13-100-off-m2-mac-mini-299-apple-watch-series-8-89-apple-pencil-2-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
