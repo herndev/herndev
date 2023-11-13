@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google paid 36% of Safari search revenue to Apple](https://appleinsider.com/articles/23/11/13/google-paid-36-of-safari-search-revenue-to-apple-in-deal?utm_medium=rss)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
- - [A look at OpenAI&#39;s structure where a six-member non-profit board can decide if AGI has been achieved, at which point Microsoft is excluded from some IP licenses &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/231113/p20#a231113p20)<!-- TECH:END -->
+ - [Einride’s drone truck has its first full-time job moving GE appliances around](https://www.theverge.com/2023/11/13/23959030/einride-driverless-trucks-ge-appliances-autonomous-delivery)
+ - [A Google witness let slip just how much it pays Apple for Safari search](https://www.theverge.com/2023/11/13/23959353/google-apple-safari-search-revenue-antitrust-trial)
+ - [10 Best Early Black Friday Mattress Deals &lpar;2023&rpar;: Hybrid, Organic, Innerspring](https://www.wired.com/story/best-black-friday-mattress-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
