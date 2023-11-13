@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;ve got an inactive Google account you don&#39;t want to lose, log into it by December 1 or it&#39;s at risk of being deleted](https://www.pcgamer.com/if-youve-got-an-inactive-google-account-you-dont-want-to-lose-log-into-it-by-december-1-or-its-at-risk-of-being-deleted)
- - [Disney Lorcana Rise of the Floodborn’s two new starter sets are excellent](https://www.polygon.com/23955587/rise-of-the-floodborn-starter-decks)
- - [Tekken 8 game director reveals details on new characters Reina and Victor](https://blog.playstation.com/2023/11/12/tekken-8-game-director-reveals-details-on-new-characters-reina-and-victor/)<!-- GAME:END -->
+ - [Best MCW loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23912839/best-mcw-loadout-class-build-mw3)
+ - [Best AMR9 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23915543/best-amr9-loadout-class-build-mw3)
+ - [The best Modern Warfare 3 guns to use at launch](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
