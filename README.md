@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CISA Has a New Road Map for Handling Weaponized AI](https://www.wired.com/story/cisa-ai-roadmap/)
- - [iMessage blue bubbles come to Nothing phone -- assuming you provide iCloud login info](https://appleinsider.com/articles/23/11/14/imessage-blue-bubbles-come-to-nothing-phone----assuming-you-provide-icloud-login-info?utm_medium=rss)
- - [Sources: Yandex plans to sell its entire Russian business, including its search engine, not just a 51% stake, amid pressures relating to the war in Ukraine &lpar;Sylvia Westall/Bloomberg&rpar;](http://www.techmeme.com/231114/p21#a231114p21)<!-- TECH:END -->
+ - [Amazon’s Map View arrives to create a digital map of your smart home](https://www.theverge.com/2023/11/14/23960355/amazon-alexa-map-view-launch-public-preview)
+ - [Sources: Airbnb acquires Gameplanner.AI, in a deal valued at ~$200M, to accelerate some of its AI projects, marking its first acquisition as a public company &lpar;CNBC&rpar;](http://www.techmeme.com/231114/p22#a231114p22)
+ - [Asian Americans Raise Alarm Over ‘Chilling Effects’ of Section 702 Surveillance Program](https://www.wired.com/story/aapi-section-702-letter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
