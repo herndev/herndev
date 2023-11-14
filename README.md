@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - ⏩ [My eyes are up here](http://9gag.com/gag/aL15nyg)
- - 👉 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)<!-- MEMES:END -->
+ - 💣 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
+ - ⏩ [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 👉 [X-Men](http://9gag.com/gag/ay2w30q)<!-- MEMES:END -->
 
 ---
 
