@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest US climate assessment shows the extreme toll taken by climate change](https://www.theverge.com/2023/11/14/23958824/us-national-climate-assessment-unequal-costs-climate-change)
- - [A profile of Geoffrey Hinton, who argues that LLMs like GPT can comprehend the meanings of words and learn how the world works by analyzing human writing &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/231114/p4#a231114p4)
- - [Snapdragon 7 Gen 3 leak indicates Qualcomm’s naming confusion could continue](https://www.androidauthority.com/qualcomm-snapdragon-7-gen-3-leak-3385278/)<!-- TECH:END -->
+ - [This smart lock is the first with Matter-over-Thread baked in](https://www.theverge.com/2023/11/14/23959948/nuki-smart-lock-matter-over-thread-price-specs)
+ - [Irish Council for Civil Liberties: data brokers are collecting browsing data in much more detail than previously known, including for those in sensitive jobs &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231114/p7#a231114p7)
+ - [Top500: the AMD-powered Frontier remains the fastest supercomputer at 1.194 Exaflop/s, fending off the Argonne National Laboratory&#39;s Intel-powered Aurora &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231114/p6#a231114p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
