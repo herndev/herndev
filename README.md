@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar’s electric future looks high-performing — and promising](https://www.theverge.com/2023/11/14/23959512/polestar3-ev-polestar4-polestar5-polestar6-pics-specs)
- - [Unciphered, a company that helps recover cryptocurrency, finds a flaw affecting some wallets made before 2016 and says up to $1B of crypto is at risk of theft &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231114/p28#a231114p28)
- - [The best smart holiday string lights](https://www.theverge.com/23958973/best-smart-holiday-string-lights-led)<!-- TECH:END -->
+ - [Older macOS versions got release candidate betas on Tuesday too](https://appleinsider.com/articles/23/11/14/apple-seeds-third-release-candidates-for-macos-monterey-1272-macos-ventura-1363?utm_medium=rss)
+ - [Amazon has begun replacing Android with its own software on some products](https://www.theverge.com/2023/11/14/23954333/amazon-ditching-android-fire-tv-echo-show)
+ - [Khosla Ventures says it is raising a $500M seed fund, $1.6B venture fund, and $900M growth fund, larger than predecessors of $300M, $1B, and $550M, respectively &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/231114/p29#a231114p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
