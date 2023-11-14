@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Map View arrives to create a digital map of your smart home](https://www.theverge.com/2023/11/14/23960355/amazon-alexa-map-view-launch-public-preview)
- - [Sources: Airbnb acquires Gameplanner.AI, in a deal valued at ~$200M, to accelerate some of its AI projects, marking its first acquisition as a public company &lpar;CNBC&rpar;](http://www.techmeme.com/231114/p22#a231114p22)
- - [Asian Americans Raise Alarm Over ‘Chilling Effects’ of Section 702 Surveillance Program](https://www.wired.com/story/aapi-section-702-letter/)<!-- TECH:END -->
+ - [Polestar’s electric future looks high-performing — and promising](https://www.theverge.com/2023/11/14/23959512/polestar3-ev-polestar4-polestar5-polestar6-pics-specs)
+ - [Unciphered, a company that helps recover cryptocurrency, finds a flaw affecting some wallets made before 2016 and says up to $1B of crypto is at risk of theft &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231114/p28#a231114p28)
+ - [The best smart holiday string lights](https://www.theverge.com/23958973/best-smart-holiday-string-lights-led)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
