@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google paid Samsung billions for Play Store and Search monopoly: Epic trial](https://www.androidauthority.com/google-samsung-play-store-monopoly-payment-3385238/)
- - [South Korea&#39;s memory chip exports increased for the first time in 16 months, recording a 1% YoY increase in October after declining 18% YoY in September &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/231114/p2#a231114p2)
- - [Black Friday deals slash prices on every Apple M3 MacBook Pro &amp; iMac to as low as $1,199](https://appleinsider.com/articles/23/11/14/black-friday-deals-slash-prices-on-every-apple-m3-macbook-pro-imac-to-as-low-as-1199?utm_medium=rss)<!-- TECH:END -->
+ - [Hochatown, a tiny town in Oklahoma that gets ~50K visitors to its 2,400+ cabins on weekends, highlights the &quot;Airbnb effect&quot; of rentals exploding in rural areas &lpar;Julie Satow/New York Times&rpar;](http://www.techmeme.com/231114/p3#a231114p3)
+ - [It’s Time to Get Serious About Carbon Removal](https://www.wired.com/story/wired-impact-michelle-you-supercritical-carbon-offsetting/)
+ - [Google paid Samsung billions for Play Store and Search monopoly: Epic trial](https://www.androidauthority.com/google-samsung-play-store-monopoly-payment-3385238/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
