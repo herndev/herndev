@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I played Baldur&#39;s Gate 3 by flipping a coin whenever violence was an option, and it&#39;s my new favourite way to play The Dark Urge](https://www.pcgamer.com/i-played-baldurs-gate-3-by-flipping-a-coin-whenever-violence-was-an-option-and-its-my-new-favourite-way-to-play-the-dark-urge)
- - [‘Crash Site’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23959469/crash-site-item-weapon-locations-mw3)
- - [Go From Game Pass to Game Day With Xbox, Football Manager &amp; Bromley FC](https://news.xbox.com/en-us/2023/11/14/football-manager-2024-everyday-tactician-competition/)<!-- GAME:END -->
+ - [This Week’s Xbox Sales and Specials, Including the Publisher Spotlight Series Sale](https://news.xbox.com/en-us/2023/11/14/this-weeks-xbox-sales-and-specials-including-the-publisher-spotlight-series-sale/)
+ - [Best BAS-B loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23958874/best-bas-b-loadout-class-build-mw3)
+ - [‘Crash Site’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23959469/crash-site-item-weapon-locations-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
