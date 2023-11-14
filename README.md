@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We checked: The OnePlus Open does not open completely flat](https://www.androidauthority.com/oneplus-open-does-not-open-flat-3385245/)
  - [Hochatown, a tiny town in Oklahoma that gets ~50K visitors to its 2,400+ cabins on weekends, highlights the &quot;Airbnb effect&quot; of rentals exploding in rural areas &lpar;Julie Satow/New York Times&rpar;](http://www.techmeme.com/231114/p3#a231114p3)
- - [It’s Time to Get Serious About Carbon Removal](https://www.wired.com/story/wired-impact-michelle-you-supercritical-carbon-offsetting/)
- - [Google paid Samsung billions for Play Store and Search monopoly: Epic trial](https://www.androidauthority.com/google-samsung-play-store-monopoly-payment-3385238/)<!-- TECH:END -->
+ - [It’s Time to Get Serious About Carbon Removal](https://www.wired.com/story/wired-impact-michelle-you-supercritical-carbon-offsetting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
