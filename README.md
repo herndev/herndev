@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
- - ⏩ [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
- - 👉 [My choice Dark Queen from Battletoads](http://9gag.com/gag/avQw6Q5)<!-- MEMES:END -->
+ - 💣 [A new level of cheat on gambling.](http://9gag.com/gag/aZD58pW)
+ - ⏩ [Any sex offenders here?](http://9gag.com/gag/a1PjNVb)
+ - 👉 [A photo of Gaza babies has appeared all over social media saying they were taken out of their incubators because the hospital doesn\u2019t have electricity. The thing is there\u2019s also an uncropped photo that clearly shows a functional electrical monitor in the background.](http://9gag.com/gag/aoKw3AA)<!-- MEMES:END -->
 
 ---
 
