@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SAG Deal Sends a Clear Message About AI and Workers](https://www.wired.com/story/hollywood-actors-sag-artificial-intelligence-contract/)
- - [Truth Social lost $73M and took $3.7M in net sales since launching in early 2022, shows a filling from Trump Media &amp; Technology Group&#39;s SPAC merger partner DWAC &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/231113/p25#a231113p25)
- - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon restructures its games division to focus on free streaming games offered with Prime and cuts ~180 jobs, the unit&#39;s second round of layoffs in 2023 &lpar;Nathan Grayson/Aftermath&rpar;](http://www.techmeme.com/231113/p27#a231113p27)
+ - [Uber plans to test Uber Tasks, a TaskRabbit-like service that lets users hire people to complete household tasks, in Fort Myers and Edmonton in the coming weeks &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/231113/p26#a231113p26)
+ - [Amazon Black Friday Deals: Shop Early Savings on Tech, Kitchen Appliances and More     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
