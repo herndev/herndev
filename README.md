@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Go From Game Pass to Game Day With Xbox, Football Manager &amp; Bromley FC](https://news.xbox.com/en-us/2023/11/14/football-manager-2024-everyday-tactician-competition/)
- - [Can Buneary be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23958955/can-buneary-be-shiny-lopunny-mega)
- - [Wordle today: Hint and answer #878 for Tuesday, November 14](https://www.pcgamer.com/wordle-today-answer-878-november-14)<!-- GAME:END -->
+ - [I played Baldur&#39;s Gate 3 by flipping a coin whenever violence was an option, and it&#39;s my new favourite way to play The Dark Urge](https://www.pcgamer.com/i-played-baldurs-gate-3-by-flipping-a-coin-whenever-violence-was-an-option-and-its-my-new-favourite-way-to-play-the-dark-urge)
+ - [‘Crash Site’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23959469/crash-site-item-weapon-locations-mw3)
+ - [Go From Game Pass to Game Day With Xbox, Football Manager &amp; Bromley FC](https://news.xbox.com/en-us/2023/11/14/football-manager-2024-everyday-tactician-competition/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
