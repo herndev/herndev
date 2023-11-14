@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Exclusive Rollerdrome Hits Xbox Game Pass This Month](https://kotaku.com/november-2023-xbox-game-pass-persona-eastward-1851020349)
- - [How to solve Arithmancy door puzzles in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23588600/arithmancy-door-puzzle-math-beasts-addition-triangle-unlock)
- - [Warhammer Records: Brian May, bungled tours, and 40,000 hard rock anthems](https://www.polygon.com/23954679/warhammer-records-oral-history-brian-may-john-blanche-metal-af)<!-- GAME:END -->
+ - [How to repair a tire in Modern Warfare 3’s Zombies](https://www.polygon.com/modern-warfare-3-guides/23959826/repair-tire-road-rage-mission-zombies)
+ - [How to destroy a Mercenary Convoy in Modern Warfare 3’s Zombies](https://www.polygon.com/modern-warfare-3-guides/23959488/mercenary-convoy-interceptor-stronghold-keycard-location-zombies-mw3)
+ - [The Super Mario Bros. Movie, Barbie, and other Blu-rays are under $10](https://www.polygon.com/deals/23960674/blu-ray-4k-deals-best-buy-amazon-november)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
