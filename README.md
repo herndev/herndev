@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Epic Vs. Google Courtroom Battle Sounds Bonkers](https://kotaku.com/epic-google-legal-fight-destroying-evidence-fortnite-1851021637)
- - [Dear Video Game Industry, Please Name A Woman](https://kotaku.com/pc-gamer-30th-anniversary-women-games-1851021562)
- - [Always Sunny’s Frank Is Perfect In The Last Of Us](https://kotaku.com/always-sunny-frank-danny-devito-last-of-us-mash-up-fx-1851021540)<!-- GAME:END -->
+ - [Every Game We Saw At Nintendo’s Latest Indie World Showcase](https://kotaku.com/nintendo-switch-indie-showcase-hollow-knight-silksong-1851021753)
+ - [Why it’s OK that so many top Pokémon players ‘cheat’](https://www.polygon.com/pokemon/23955708/pokemon-scarlet-violet-cheating-scandal-competitive-explained)
+ - [The Epic Vs. Google Courtroom Battle Sounds Bonkers](https://kotaku.com/epic-google-legal-fight-destroying-evidence-fortnite-1851021637)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
