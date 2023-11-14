@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A new level of cheat on gambling.](http://9gag.com/gag/aZD58pW)
- - ⏩ [Any sex offenders here?](http://9gag.com/gag/a1PjNVb)
- - 👉 [A photo of Gaza babies has appeared all over social media saying they were taken out of their incubators because the hospital doesn\u2019t have electricity. The thing is there\u2019s also an uncropped photo that clearly shows a functional electrical monitor in the background.](http://9gag.com/gag/aoKw3AA)<!-- MEMES:END -->
+ - 💣 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - ⏩ [My eyes are up here](http://9gag.com/gag/aL15nyg)
+ - 👉 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)<!-- MEMES:END -->
 
 ---
 
