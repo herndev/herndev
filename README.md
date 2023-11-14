@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [X-Men](http://9gag.com/gag/ay2w30q)
- - ⏩ [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - 👉 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)<!-- MEMES:END -->
+ - 💣 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - ⏩ [Vegas baby](http://9gag.com/gag/a5X3B3L)
+ - 👉 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)<!-- MEMES:END -->
 
 ---
 
