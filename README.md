@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Someone ordered an iPhone 15 Pro Max from Apple and got an Android phone instead](https://www.androidauthority.com/fake-iphone-15-pro-max-apple-delivery-3385185/)
  - [Epic v. Google: Google agreed to pay Samsung $8B over four years in 2020 to make Google Search, Play Store, and Assistant the default on Samsung mobile devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/231113/p31#a231113p31)
- - [Amazon reaches a deal with Snap that lets users buy Amazon products directly from ads on Snapchat, resembling Amazon&#39;s deal with Meta announced on November 9 &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/231113/p30#a231113p30)
- - [Best Solar Panel Installation Companies in Houston     - CNET](https://www.cnet.com/home/energy-and-utilities/houston-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon reaches a deal with Snap that lets users buy Amazon products directly from ads on Snapchat, resembling Amazon&#39;s deal with Meta announced on November 9 &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/231113/p30#a231113p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
