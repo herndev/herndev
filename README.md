@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - ⏩ [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - 👉 [Always a dinner option](http://9gag.com/gag/aVb5opM)<!-- MEMES:END -->
+ - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - ⏩ [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
+ - 👉 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)<!-- MEMES:END -->
 
 ---
 
