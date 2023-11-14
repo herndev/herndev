@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo to focus on value adds outside the infotainment system, will leave CarPlay alone](https://appleinsider.com/articles/23/11/14/volvo-to-focus-on-value-adds-outside-the-infotainment-system-will-leave-carplay-alone?utm_medium=rss)
- - [EU lawmakers struggle to reach a compromise on the final shape of the AI Act, as France and Germany push for a regulatory carve-out for foundational models &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231114/p33#a231114p33)
- - [How to share large files over the web](https://www.theverge.com/23958722/files-transfer-share-large-how-to)<!-- TECH:END -->
+ - [Here’s how Nothing will keep its iMessage app secure, straight from the source](https://www.androidauthority.com/nothing-chats-app-security-3385480/)
+ - [Pokémon Concierge’s first trailer has perfect stats](https://www.theverge.com/23961287/pokemon-concierge-netflix-trailer-stop-motion)
+ - [Crypto exchange and wallet service Blockchain.com raised a $110M Series E led by Kingsway, a source says at less than half of its spring 2022 $14B valuation &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231114/p35#a231114p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
