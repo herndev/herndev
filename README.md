@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Venmo Groups aims to make it easier to split up and track expenses](https://www.theverge.com/2023/11/14/23959776/venmo-groups-shared-expenses-feature-update)
- - [Opal’s second camera is the Tadpole, a tiny webcam for laptops](https://www.theverge.com/23959171/opal-tadpole-webcam-laptops)
- - [Notion’s new Q&amp;A feature lets you ask an AI about your notes](https://www.theverge.com/2023/11/14/23952292/notion-qa-ai-search)<!-- TECH:END -->
+ - [X continues to suck at moderating hate speech, according to a new report](https://www.theverge.com/2023/11/14/23960430/x-twitter-ccdh-hate-speech-moderation-israel-hamas-war)
+ - [A look at Aurora, the Intel- and HPE-made, Argonne National Laboratory-based supercomputer, set to be the first to hit two quintillion operations per second &lpar;Scott Patterson/Wall Street Journal&rpar;](http://www.techmeme.com/231114/p20#a231114p20)
+ - [YouTube wants you to disclose your AI content or get demonetized](https://www.androidauthority.com/youtube-ai-content-labels-3385336/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
