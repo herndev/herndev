@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - ⏩ [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
- - 👉 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)<!-- MEMES:END -->
+ - 💣 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - ⏩ [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 👉 [Always a dinner option](http://9gag.com/gag/aVb5opM)<!-- MEMES:END -->
 
 ---
 
