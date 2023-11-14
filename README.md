@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, &#39;Monarch: Legacy of Monsters&#39; was not shot in 3D for Vision Pro](https://appleinsider.com/articles/23/11/14/no-monarch-legacy-of-monsters-was-not-shot-in-3d-for-vision-pro?utm_medium=rss)
- - [Apple Watch heart rate notifications saves Atlanta artist](https://appleinsider.com/articles/23/11/14/apple-watch-heart-rate-notifications-saves-atlanta-artist?utm_medium=rss)
- - [Uber is testing a service that lets you hire drivers for chores](https://www.theverge.com/2023/11/14/23960367/uber-tasks-pilot-chores-driver-courier-laborer)<!-- TECH:END -->
+ - [Apple Watch converts heart attack survivor to marathon runner](https://appleinsider.com/articles/23/11/14/apple-watch-converts-heart-attack-survivor-to-marathon-runner?utm_medium=rss)
+ - [Sources: EU regulators plan to file anti-competitive charges against Adobe&#39;s $20B Figma deal as early as this week; Adobe announced the deal in September 2022 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231114/p15#a231114p15)
+ - [Apple&#39;s AR ambitions could expand into Personal Shopping and tech support sessions](https://appleinsider.com/articles/21/01/07/apple-ar-ambitions-could-expand-personal-shopping-and-tech-support-sessions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
