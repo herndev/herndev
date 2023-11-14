@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
- - ⏩ [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
- - 👉 [X-Men](http://9gag.com/gag/ay2w30q)<!-- MEMES:END -->
+ - 💣 [They/was](http://9gag.com/gag/aL15Lxz)
+ - ⏩ [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)
+ - 👉 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)<!-- MEMES:END -->
 
 ---
 
