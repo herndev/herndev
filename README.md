@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - ⏩ [Vegas baby](http://9gag.com/gag/a5X3B3L)
- - 👉 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)<!-- MEMES:END -->
+ - 💣 [Little backroom box](http://9gag.com/gag/aREdzM2)
+ - ⏩ [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 👉 [Mama cat introduces her kitten to her favorite human](http://9gag.com/gag/aXn1NOz)<!-- MEMES:END -->
 
 ---
 
