@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Advice?](http://9gag.com/gag/a5X3VBV)
- - ⏩ [They/was](http://9gag.com/gag/aL15Lxz)
+ - 💣 [Kat Dennings](http://9gag.com/gag/agow14v)
+ - ⏩ [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
  - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
 
 ---
