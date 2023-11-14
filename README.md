@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They/was](http://9gag.com/gag/aL15Lxz)
- - ⏩ [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 👉 [Advice?](http://9gag.com/gag/a5X3VBV)<!-- MEMES:END -->
+ - 💣 [Welcome to the low bandwidth and high latency corner of the Internet. Dude with water bottle sets the benchmark.](http://9gag.com/gag/aKE5GmZ)
+ - ⏩ [Advice?](http://9gag.com/gag/a5X3VBV)
+ - 👉 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)<!-- MEMES:END -->
 
 ---
 
