@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to the low bandwidth and high latency corner of the Internet. Dude with water bottle sets the benchmark.](http://9gag.com/gag/aKE5GmZ)
- - ⏩ [Advice?](http://9gag.com/gag/a5X3VBV)
- - 👉 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)<!-- MEMES:END -->
+ - 💣 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
+ - ⏩ [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
+ - 👉 [My choice Dark Queen from Battletoads](http://9gag.com/gag/avQw6Q5)<!-- MEMES:END -->
 
 ---
 
