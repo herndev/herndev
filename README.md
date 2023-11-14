@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X continues to suck at moderating hate speech, according to a new report](https://www.theverge.com/2023/11/14/23960430/x-twitter-ccdh-hate-speech-moderation-israel-hamas-war)
- - [A look at Aurora, the Intel- and HPE-made, Argonne National Laboratory-based supercomputer, set to be the first to hit two quintillion operations per second &lpar;Scott Patterson/Wall Street Journal&rpar;](http://www.techmeme.com/231114/p20#a231114p20)
- - [YouTube wants you to disclose your AI content or get demonetized](https://www.androidauthority.com/youtube-ai-content-labels-3385336/)<!-- TECH:END -->
+ - [CISA Has a New Road Map for Handling Weaponized AI](https://www.wired.com/story/cisa-ai-roadmap/)
+ - [iMessage blue bubbles come to Nothing phone -- assuming you provide iCloud login info](https://appleinsider.com/articles/23/11/14/imessage-blue-bubbles-come-to-nothing-phone----assuming-you-provide-icloud-login-info?utm_medium=rss)
+ - [Sources: Yandex plans to sell its entire Russian business, including its search engine, not just a 51% stake, amid pressures relating to the war in Ukraine &lpar;Sylvia Westall/Bloomberg&rpar;](http://www.techmeme.com/231114/p21#a231114p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
