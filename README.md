@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to repair a tire in Modern Warfare 3’s Zombies](https://www.polygon.com/modern-warfare-3-guides/23959826/repair-tire-road-rage-mission-zombies)
- - [How to destroy a Mercenary Convoy in Modern Warfare 3’s Zombies](https://www.polygon.com/modern-warfare-3-guides/23959488/mercenary-convoy-interceptor-stronghold-keycard-location-zombies-mw3)
- - [The Super Mario Bros. Movie, Barbie, and other Blu-rays are under $10](https://www.polygon.com/deals/23960674/blu-ray-4k-deals-best-buy-amazon-november)<!-- GAME:END -->
+ - [The Elder Scrolls Online: Endless Archive &amp; Update 40 Now Live on Xbox Series X|S &amp; Xbox One](https://www.elderscrollsonline.com/en-us/news/post/64849)
+ - [The best early Black Friday deals](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
+ - [YouTube Now Requires Creators To Label AI Content](https://kotaku.com/youtube-ai-disclosure-1851020956)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
