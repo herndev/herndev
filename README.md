@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads might get DMs after all — but it’ll probably be through Instagram](https://www.theverge.com/2023/11/14/23961125/threads-dms-instagram-inbox-adam-mosseri)
- - [Valve says it has a “road map” for the Steam Deck 2](https://www.androidauthority.com/steam-deck-2-commitment-3385448/)
- - [Social media giants must face child safety lawsuits, judge rules](https://www.theverge.com/2023/11/14/23960956/meta-google-tiktok-snap-social-media-addiction-lawsuits)<!-- TECH:END -->
+ - [Volvo to focus on value adds outside the infotainment system, will leave CarPlay alone](https://appleinsider.com/articles/23/11/14/volvo-to-focus-on-value-adds-outside-the-infotainment-system-will-leave-carplay-alone?utm_medium=rss)
+ - [EU lawmakers struggle to reach a compromise on the final shape of the AI Act, as France and Germany push for a regulatory carve-out for foundational models &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231114/p33#a231114p33)
+ - [How to share large files over the web](https://www.theverge.com/23958722/files-transfer-share-large-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
