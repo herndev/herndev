@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
- - ⏩ [I wonder why](http://9gag.com/gag/a5X3wyq)
- - 👉 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)<!-- MEMES:END -->
+ - 💣 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - ⏩ [Kat Dennings](http://9gag.com/gag/agow14v)
+ - 👉 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)<!-- MEMES:END -->
 
 ---
 
