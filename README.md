@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Buneary be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23958955/can-buneary-be-shiny-lopunny-mega)
  - [Wordle today: Hint and answer #878 for Tuesday, November 14](https://www.pcgamer.com/wordle-today-answer-878-november-14)
- - [The YA dystopia craze died because it didn’t evolve](https://www.polygon.com/22449675/ya-dystopia-fad-ended)
- - [Timothée Chalamet captured Troye Sivan’s full essence on SNL](https://www.polygon.com/23959028/timothee-chalamet-snl-skit-troye-sivan-captured-the-internets-love-for-the-pop-star)<!-- GAME:END -->
+ - [The YA dystopia craze died because it didn’t evolve](https://www.polygon.com/22449675/ya-dystopia-fad-ended)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
