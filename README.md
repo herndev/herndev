@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little backroom box](http://9gag.com/gag/aREdzM2)
- - ⏩ [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 👉 [Mama cat introduces her kitten to her favorite human](http://9gag.com/gag/aXn1NOz)<!-- MEMES:END -->
+ - 💣 [They/was](http://9gag.com/gag/aL15Lxz)
+ - ⏩ [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - 👉 [Alien abduction](http://9gag.com/gag/ajVwxrg)<!-- MEMES:END -->
 
 ---
 
