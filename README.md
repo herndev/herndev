@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - ⏩ [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 👉 [Always a dinner option](http://9gag.com/gag/aVb5opM)<!-- MEMES:END -->
+ - 💣 [As simple as that](http://9gag.com/gag/abvwWYp)
+ - ⏩ [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)
+ - 👉 [Spitting facts](http://9gag.com/gag/a8qODbQ)<!-- MEMES:END -->
 
 ---
 
