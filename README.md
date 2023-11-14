@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Go From Game Pass to Game Day With Xbox, Football Manager &amp; Bromley FC](https://news.xbox.com/en-us/2023/11/14/football-manager-2024-everyday-tactician-competition/)
  - [Can Buneary be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23958955/can-buneary-be-shiny-lopunny-mega)
- - [Wordle today: Hint and answer #878 for Tuesday, November 14](https://www.pcgamer.com/wordle-today-answer-878-november-14)
- - [The YA dystopia craze died because it didn’t evolve](https://www.polygon.com/22449675/ya-dystopia-fad-ended)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #878 for Tuesday, November 14](https://www.pcgamer.com/wordle-today-answer-878-november-14)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
