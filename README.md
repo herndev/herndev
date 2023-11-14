@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Xbox Sales and Specials, Including the Publisher Spotlight Series Sale](https://news.xbox.com/en-us/2023/11/14/this-weeks-xbox-sales-and-specials-including-the-publisher-spotlight-series-sale/)
- - [Best BAS-B loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23958874/best-bas-b-loadout-class-build-mw3)
- - [‘Crash Site’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23959469/crash-site-item-weapon-locations-mw3)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: Persona 5 Tactica, Rollerdrome, and Dune: Spice Wars](https://news.xbox.com/en-us/2023/11/14/game-pass-november-2023-wave-2-announce/)
+ - [The Hunger Games is too good for a normal fandom revival](https://www.polygon.com/23959046/hunger-games-new-movie-fandom-songbirds-snakes)
+ - [How to get Alohomora and pick locks in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23593986/alohomora-how-to-get-pick-locks-locked-doors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
