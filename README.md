@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare III Players Beg For OP ‘Groot’ Skin To Get Removed](https://kotaku.com/call-duty-modern-warfare-3-mw2-groot-skin-multiplayer-1851020637)
- - [The Elder Scrolls Online: Endless Archive &amp; Update 40 Now Live on Xbox Series X|S &amp; Xbox One](https://www.elderscrollsonline.com/en-us/news/post/64849)
- - [Scott Pilgrim was never the guy the movie made him out to be](https://www.polygon.com/23952977/scott-pilgrim-vs-world-movie-comic-changes)<!-- GAME:END -->
+ - [The Epic Vs. Google Courtroom Battle Sounds Bonkers](https://kotaku.com/epic-google-legal-fight-destroying-evidence-fortnite-1851021637)
+ - [Dear Video Game Industry, Please Name A Woman](https://kotaku.com/pc-gamer-30th-anniversary-women-games-1851021562)
+ - [Always Sunny’s Frank Is Perfect In The Last Of Us](https://kotaku.com/always-sunny-frank-danny-devito-last-of-us-mash-up-fx-1851021540)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
