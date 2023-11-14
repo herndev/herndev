@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Timothée Chalamet captured Troye Sivan’s full essence on SNL](https://www.polygon.com/23959028/timothee-chalamet-snl-skit-troye-sivan-captured-the-internets-love-for-the-pop-star)
  - [This strategy city builder clicker may be small, but it&#39;s eating up massive chunks of my time](https://www.pcgamer.com/this-strategy-city-builder-clicker-may-be-small-but-its-eating-up-massive-chunks-of-my-time)
- - [Final Fantasy VII Rebirth Will Feature Bodacious Beach Bod, But Who?](https://kotaku.com/ff7-final-fantasy-7-rebirth-remake-esrb-beach-bod-1851018619)
- - [After earning $544 million in its most recent quarter, Unity says even more layoffs are &#39;likely&#39;](https://www.pcgamer.com/after-earning-dollar544-million-in-its-most-recent-quarter-unity-says-even-more-layoffs-are-likely)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth Will Feature Bodacious Beach Bod, But Who?](https://kotaku.com/ff7-final-fantasy-7-rebirth-remake-esrb-beach-bod-1851018619)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
