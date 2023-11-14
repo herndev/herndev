@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch converts heart attack survivor to marathon runner](https://appleinsider.com/articles/23/11/14/apple-watch-converts-heart-attack-survivor-to-marathon-runner?utm_medium=rss)
- - [Sources: EU regulators plan to file anti-competitive charges against Adobe&#39;s $20B Figma deal as early as this week; Adobe announced the deal in September 2022 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231114/p15#a231114p15)
- - [Apple&#39;s AR ambitions could expand into Personal Shopping and tech support sessions](https://appleinsider.com/articles/21/01/07/apple-ar-ambitions-could-expand-personal-shopping-and-tech-support-sessions?utm_medium=rss)<!-- TECH:END -->
+ - [Venmo Groups aims to make it easier to split up and track expenses](https://www.theverge.com/2023/11/14/23959776/venmo-groups-shared-expenses-feature-update)
+ - [Opal’s second camera is the Tadpole, a tiny webcam for laptops](https://www.theverge.com/23959171/opal-tadpole-webcam-laptops)
+ - [Notion’s new Q&amp;A feature lets you ask an AI about your notes](https://www.theverge.com/2023/11/14/23952292/notion-qa-ai-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
