@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out the ability for users to delete their Threads profile without having to delete their Instagram account &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231113/p24#a231113p24)
- - [Apple Arcade&#39;s &#39;Hello Kitty Island Adventure&#39; nominated for best mobile game at The Game Awards](https://appleinsider.com/articles/23/11/13/apple-arcades-hello-kitty-island-adventure-nominated-for-best-mobile-game-at-the-game-awards?utm_medium=rss)
- - [The Incredible Women Making Strides in Science](https://www.wired.com/story/women-in-science-introduction-editor/)<!-- TECH:END -->
+ - [The SAG Deal Sends a Clear Message About AI and Workers](https://www.wired.com/story/hollywood-actors-sag-artificial-intelligence-contract/)
+ - [Truth Social lost $73M and took $3.7M in net sales since launching in early 2022, shows a filling from Trump Media &amp; Technology Group&#39;s SPAC merger partner DWAC &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/231113/p25#a231113p25)
+ - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
