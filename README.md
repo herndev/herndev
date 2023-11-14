@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: Persona 5 Tactica, Rollerdrome, and Dune: Spice Wars](https://news.xbox.com/en-us/2023/11/14/game-pass-november-2023-wave-2-announce/)
- - [The Hunger Games is too good for a normal fandom revival](https://www.polygon.com/23959046/hunger-games-new-movie-fandom-songbirds-snakes)
- - [How to get Alohomora and pick locks in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23593986/alohomora-how-to-get-pick-locks-locked-doors)<!-- GAME:END -->
+ - [How to solve Arithmancy door puzzles in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23588600/arithmancy-door-puzzle-math-beasts-addition-triangle-unlock)
+ - [Warhammer Records: Brian May, bungled tours, and 40,000 hard rock anthems](https://www.polygon.com/23954679/warhammer-records-oral-history-brian-may-john-blanche-metal-af)
+ - [Watch Nintendo’s new indie game showcase, Indie World](https://www.polygon.com/23960458/nintendo-indie-world-november-2023-time-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
