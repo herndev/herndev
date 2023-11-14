@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Game We Saw At Nintendo’s Latest Indie World Showcase](https://kotaku.com/nintendo-switch-indie-showcase-hollow-knight-silksong-1851021753)
- - [Why it’s OK that so many top Pokémon players ‘cheat’](https://www.polygon.com/pokemon/23955708/pokemon-scarlet-violet-cheating-scandal-competitive-explained)
- - [The Epic Vs. Google Courtroom Battle Sounds Bonkers](https://kotaku.com/epic-google-legal-fight-destroying-evidence-fortnite-1851021637)<!-- GAME:END -->
+ - [Persona 5 Tactica Tries To Make Up For The Series’ Homophobia](https://kotaku.com/persona-5-tactica-gay-wedding-ryuji-yusuke-akechi-1851022216)
+ - [Everyone shut up and watch the trailer for the adorable stop-motion Pokémon series](https://www.polygon.com/23961247/pokemon-concierge-trailer-release-date-cute-so-cute)
+ - [Every Game We Saw At Nintendo’s Latest Indie World Showcase](https://kotaku.com/nintendo-switch-indie-showcase-hollow-knight-silksong-1851021753)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
