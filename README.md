@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #878 for Tuesday, November 14](https://www.pcgamer.com/wordle-today-answer-878-november-14)
  - [The YA dystopia craze died because it didn’t evolve](https://www.polygon.com/22449675/ya-dystopia-fad-ended)
- - [Timothée Chalamet captured Troye Sivan’s full essence on SNL](https://www.polygon.com/23959028/timothee-chalamet-snl-skit-troye-sivan-captured-the-internets-love-for-the-pop-star)
- - [This strategy city builder clicker may be small, but it&#39;s eating up massive chunks of my time](https://www.pcgamer.com/this-strategy-city-builder-clicker-may-be-small-but-its-eating-up-massive-chunks-of-my-time)<!-- GAME:END -->
+ - [Timothée Chalamet captured Troye Sivan’s full essence on SNL](https://www.polygon.com/23959028/timothee-chalamet-snl-skit-troye-sivan-captured-the-internets-love-for-the-pop-star)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
