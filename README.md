@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We checked: The OnePlus Open does not open completely flat](https://www.androidauthority.com/oneplus-open-does-not-open-flat-3385245/)
- - [Hochatown, a tiny town in Oklahoma that gets ~50K visitors to its 2,400+ cabins on weekends, highlights the &quot;Airbnb effect&quot; of rentals exploding in rural areas &lpar;Julie Satow/New York Times&rpar;](http://www.techmeme.com/231114/p3#a231114p3)
- - [It’s Time to Get Serious About Carbon Removal](https://www.wired.com/story/wired-impact-michelle-you-supercritical-carbon-offsetting/)<!-- TECH:END -->
+ - [Latest US climate assessment shows the extreme toll taken by climate change](https://www.theverge.com/2023/11/14/23958824/us-national-climate-assessment-unequal-costs-climate-change)
+ - [A profile of Geoffrey Hinton, who argues that LLMs like GPT can comprehend the meanings of words and learn how the world works by analyzing human writing &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/231114/p4#a231114p4)
+ - [Snapdragon 7 Gen 3 leak indicates Qualcomm’s naming confusion could continue](https://www.androidauthority.com/qualcomm-snapdragon-7-gen-3-leak-3385278/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
