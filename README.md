@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smart lock is the first with Matter-over-Thread baked in](https://www.theverge.com/2023/11/14/23959948/nuki-smart-lock-matter-over-thread-price-specs)
- - [Irish Council for Civil Liberties: data brokers are collecting browsing data in much more detail than previously known, including for those in sensitive jobs &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231114/p7#a231114p7)
- - [Top500: the AMD-powered Frontier remains the fastest supercomputer at 1.194 Exaflop/s, fending off the Argonne National Laboratory&#39;s Intel-powered Aurora &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231114/p6#a231114p6)<!-- TECH:END -->
+ - [No, &#39;Monarch: Legacy of Monsters&#39; was not shot in 3D for Vision Pro](https://appleinsider.com/articles/23/11/14/no-monarch-legacy-of-monsters-was-not-shot-in-3d-for-vision-pro?utm_medium=rss)
+ - [Apple Watch heart rate notifications saves Atlanta artist](https://appleinsider.com/articles/23/11/14/apple-watch-heart-rate-notifications-saves-atlanta-artist?utm_medium=rss)
+ - [Uber is testing a service that lets you hire drivers for chores](https://www.theverge.com/2023/11/14/23960367/uber-tasks-pilot-chores-driver-courier-laborer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
