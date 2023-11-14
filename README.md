@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google paid Samsung billions for Play Store and Search monopoly: Epic trial](https://www.androidauthority.com/google-samsung-play-store-monopoly-payment-3385238/)
  - [South Korea&#39;s memory chip exports increased for the first time in 16 months, recording a 1% YoY increase in October after declining 18% YoY in September &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/231114/p2#a231114p2)
- - [Black Friday deals slash prices on every Apple M3 MacBook Pro &amp; iMac to as low as $1,199](https://appleinsider.com/articles/23/11/14/black-friday-deals-slash-prices-on-every-apple-m3-macbook-pro-imac-to-as-low-as-1199?utm_medium=rss)
- - [In a letter to Chuck Schumer, over 30 civil liberties and privacy groups urge the Senate to not renew FISA&#39;s Section 702, set to expire on December 31, 2023 &lpar;Tonya Riley/Bloomberg Law&rpar;](http://www.techmeme.com/231114/p1#a231114p1)<!-- TECH:END -->
+ - [Black Friday deals slash prices on every Apple M3 MacBook Pro &amp; iMac to as low as $1,199](https://appleinsider.com/articles/23/11/14/black-friday-deals-slash-prices-on-every-apple-m3-macbook-pro-imac-to-as-low-as-1199?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
