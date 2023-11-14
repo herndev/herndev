@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung denies rumors of cheap foldables, says ‘nothing decided’ about Galaxy Z FE phones](https://www.androidauthority.com/cheap-foldables-samsung-denial-3385446/)
- - [Best Firm Mattress of 2023     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
- - [Users&#39; WhatsApp backups on Android will count towards their Google Account storage limit starting in December 2023 for beta users, and all users in 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231114/p30#a231114p30)<!-- TECH:END -->
+ - [Threads might get DMs after all — but it’ll probably be through Instagram](https://www.theverge.com/2023/11/14/23961125/threads-dms-instagram-inbox-adam-mosseri)
+ - [Valve says it has a “road map” for the Steam Deck 2](https://www.androidauthority.com/steam-deck-2-commitment-3385448/)
+ - [Social media giants must face child safety lawsuits, judge rules](https://www.theverge.com/2023/11/14/23960956/meta-google-tiktok-snap-social-media-addiction-lawsuits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
