@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - ⏩ [Kat Dennings](http://9gag.com/gag/agow14v)
- - 👉 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)<!-- MEMES:END -->
+ - 💣 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - ⏩ [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 👉 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)<!-- MEMES:END -->
 
 ---
 
