@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Oligarch’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23960488/oligarch-item-weapon-locations-mw3)
- - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)
- - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)<!-- GAME:END -->
+ - [Where to find Dogweed and Deathcap’s location in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23956081/dogweed-deathcap-location-where-to-find)
+ - [How to get Venomous Tentacula in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23956087/venomous-tentacula-location-how-to-get)
+ - [Hogwarts Legacy ‘Cursed Tomb Treasure’ side quest walkthrough](https://www.polygon.com/hogwarts-legacy-guide/23961977/cursed-tomb-treasure-quest-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
