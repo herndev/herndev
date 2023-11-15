@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad&#39;s Seasonal Content And Characters Will Be Free](https://kotaku.com/suicide-squad-battle-pass-free-characters-early-access-1851025270)
- - [Rocksteady’s Suicide Squad game looks a lot more fun now](https://www.polygon.com/23960892/suicide-squad-kill-justice-league-new-gameplay-story)
- - [Honkai: Star Rail ‘Pathfinder’ Chess Ghost puzzle solutions](https://www.polygon.com/honkai-star-rail-guides/23962480/pathfinder-chess-ghost-puzzle-maze-solution)<!-- GAME:END -->
+ - [Best Holger 556 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23962811/best-holger-556-loadout-class-build-mw3)
+ - [Armory unlocks and challenges in Modern Warfare 3 explained](https://www.polygon.com/modern-warfare-3-guides/23962836/armory-unlocks-work-armory-challenges-mw3)
+ - [How to get schematics in Modern Warfare 3’s Zombies](https://www.polygon.com/modern-warfare-3-guides/23961188/schematic-get-unlock-list-farm-mw3-zombies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
