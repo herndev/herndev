@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - ⏩ [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)<!-- MEMES:END -->
+ - 💣 [Killary Hellintone](http://9gag.com/gag/aQE5AM7)
+ - ⏩ [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
+ - 👉 [True, true](http://9gag.com/gag/aREdzOA)<!-- MEMES:END -->
 
 ---
 
