@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s early Black Friday deal drops Apple&#39;s 15-inch MacBook Air to $1,049](https://appleinsider.com/articles/23/11/15/amazons-early-black-friday-deal-drops-apples-15-inch-macbook-air-to-1049?utm_medium=rss)
- - [The FCC adopts rules to prevent digital discrimination of access to broadband services; ISPs and their GOP allies in Congress oppose the measure &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/231115/p40#a231115p40)
- - [The new What If...? season 2 trailer loves a Marvel callback](https://www.theverge.com/2023/11/15/23962549/what-if-season-2-trailer)<!-- TECH:END -->
+ - [Adobe is using AI to break apart messy audio](https://www.theverge.com/2023/11/15/23962452/adobe-project-sound-lift-ai-audio-tool)
+ - [Black Friday deal: get 50% off the Lomi Classic tabletop composting machine](https://appleinsider.com/articles/23/11/15/black-friday-deal-get-50-off-the-lomi-classic-tabletop-composting-machine?utm_medium=rss)
+ - [VP of audio at Stability AI Ed Newton-Rex quits, saying he disagrees with the company&#39;s view that training generative AI models on copyrighted works is fair use &lpar;Music Business Worldwide&rpar;](http://www.techmeme.com/231115/p43#a231115p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
