@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [‘Oligarch’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23960488/oligarch-item-weapon-locations-mw3)
  - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)
- - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)
- - [More vampires need to have as much fun as Tom Hiddleston eating a blood popsicle](https://www.polygon.com/23946067/vampire-blood-food-options)<!-- GAME:END -->
+ - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
