@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Total Recall: How Does KotOR Hold Up In 2023?](https://kotaku.com/star-wars-knights-of-the-old-republic-kotor-bioware-1851025763)
  - [Best Holger 556 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23962811/best-holger-556-loadout-class-build-mw3)
- - [Armory unlocks and challenges in Modern Warfare 3 explained](https://www.polygon.com/modern-warfare-3-guides/23962836/armory-unlocks-work-armory-challenges-mw3)
- - [How to get schematics in Modern Warfare 3’s Zombies](https://www.polygon.com/modern-warfare-3-guides/23961188/schematic-get-unlock-list-farm-mw3-zombies)<!-- GAME:END -->
+ - [Armory unlocks and challenges in Modern Warfare 3 explained](https://www.polygon.com/modern-warfare-3-guides/23962836/armory-unlocks-work-armory-challenges-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
