@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Part Of Alan Wake II Is Now On YouTube](https://kotaku.com/alan-wake-ii-2-herald-of-darkness-music-video-musical-1851024833)
- - [The Remedy Connected Universe is my MCU](https://www.polygon.com/23961028/remedy-connected-universe-mcu-alan-wake-2-control)
- - [Accused Pelosi Hammer Attacker Confirms In Court He Was A Gamergater](https://kotaku.com/nancy-pelosi-hammer-attacker-court-gamergate-right-wing-1851024466)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.231113-2200&rpar;](https://news.xbox.com/en-us/2023/11/15/xbox-insider-release-notes-alpha-2402-231113-2200/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231111-2000&rpar;](https://news.xbox.com/en-us/2023/11/15/xbox-insider-release-notes-alpha-skip-ahead-2408-231111-2000/)
+ - [Mortal Kombat 1 Gives Away Free Fatalities After Halloween DLC Backlash [Update]](https://kotaku.com/mortal-kombat-1-free-fatality-halloween-dlc-1851011784)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
