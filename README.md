@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
+ - 💣 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
  - ⏩ [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - 👉 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)<!-- MEMES:END -->
+ - 👉 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)<!-- MEMES:END -->
 
 ---
 
