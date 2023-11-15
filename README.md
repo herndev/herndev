@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - ⏩ [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - 👉 [Arrest for manslaughter in connection with the death of a hockey player. The hockey career of the Petgrave perpetrator pictured is apparently over. Finally.](http://9gag.com/gag/ajVwxMp)<!-- MEMES:END -->
+ - 💣 [Muslim Immigrants patrolling street in France with AK-47s.](http://9gag.com/gag/aME5zyP)
+ - ⏩ [As simple as that](http://9gag.com/gag/abvwWYp)
+ - 👉 [Another not hate crime](http://9gag.com/gag/az2wOYN)<!-- MEMES:END -->
 
 ---
 
