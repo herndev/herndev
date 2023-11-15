@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - ⏩ [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [Another one bites the dust](http://9gag.com/gag/a9q05jL)<!-- MEMES:END -->
+ - 💣 [8.5](http://9gag.com/gag/amAwmqv)
+ - ⏩ [Always a dinner option](http://9gag.com/gag/aVb5opM)
+ - 👉 [Cristy Ren](http://9gag.com/gag/amAwxNy)<!-- MEMES:END -->
 
 ---
 
