@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Hunger Games reality show could be great, actually](https://www.polygon.com/23962117/hunger-games-reality-show-capture-squid-game-challenge)
- - [PlayStation Plus Game Catalog for November: Teardown,  Dragon’s Dogma: Dark Arisen, Superliminal and more](https://blog.playstation.com/2023/11/15/playstation-plus-game-catalog-for-november-teardown-dragons-dogma-dark-arisen-superliminal-and-more/)
- - [PlayStation Plus Game Catalog for November: Teardown,  Dragon’s Dogma: Dark Arisen, Superliminal and more](https://blog.playstation.com/2023/11/15/playstation-plus-game-catalog-for-november-teardown-dragons-dogma-dark-arisen-superliminal-and-more/)<!-- GAME:END -->
+ - [The Best Part Of Alan Wake II Is Now On YouTube](https://kotaku.com/alan-wake-ii-2-herald-of-darkness-music-video-musical-1851024833)
+ - [The Remedy Connected Universe is my MCU](https://www.polygon.com/23961028/remedy-connected-universe-mcu-alan-wake-2-control)
+ - [Accused Pelosi Hammer Attacker Confirms In Court He Was A Gamergater](https://kotaku.com/nancy-pelosi-hammer-attacker-court-gamergate-right-wing-1851024466)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
