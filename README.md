@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
- - ⏩ [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - 👉 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)<!-- MEMES:END -->
+ - 💣 [As simple as that](http://9gag.com/gag/abvwWYp)
+ - ⏩ [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)
+ - 👉 [Spitting facts](http://9gag.com/gag/a8qODbQ)<!-- MEMES:END -->
 
 ---
 
