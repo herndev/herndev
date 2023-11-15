@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - ⏩ [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 👉 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)<!-- MEMES:END -->
+ - 💣 [Cristy Ren](http://9gag.com/gag/amAwxNy)
+ - ⏩ [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 👉 [Another one bites the dust](http://9gag.com/gag/a9q05jL)<!-- MEMES:END -->
 
 ---
 
