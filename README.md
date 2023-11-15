@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone given to Drew Carey&#39;s &#39;Price is Right&#39; staff hits the jackpot at auction](https://appleinsider.com/articles/23/11/15/iphone-given-to-drew-careys-price-is-right-staff-hits-the-jackpot-at-auction?utm_medium=rss)
- - [Early Black Friday deal: get 25% off Parallels Desktop 19 for Mac](https://appleinsider.com/articles/23/11/15/early-black-friday-deal-get-25-off-parallels-desktop-19-for-mac?utm_medium=rss)
- - [The new Qi2 wireless standard will launch before the holidays](https://appleinsider.com/articles/23/11/15/the-new-qi2-wireless-standard-will-launch-before-the-holidays?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram gets new filters for the first time in forever](https://www.theverge.com/2023/11/15/23962500/instagram-new-photo-filters-announced-easier-reels)
+ - [Photo Stack is here: A much cleaner Google Photos feed](https://www.androidauthority.com/photo-stack-for-google-photos-explained-3385831/)
+ - [How to watch &#39;A Charlie Brown Thanksgiving&#39; for free on Apple TV+](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-thanksgiving-for-free-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
