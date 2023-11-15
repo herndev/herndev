@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home, Toys, and Games](https://www.wired.com/story/best-target-black-friday-deals-2023-1/)
- - [Google inches closer to passwordless future with new Titan Security Keys](https://www.androidauthority.com/titan-security-key-passkey-storage-3385916/)
- - [Cisco reports Q1 revenue up 8% YoY to $14.7B, vs. $14.6B est., net income up 36% YoY to $3.6B, and forecasts Q2 revenue far short of estimates; CSCO drops 10%+ &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231115/p45#a231115p45)<!-- TECH:END -->
+ - [Be My Eyes AI offers GPT-4-powered support for blind Microsoft customers](https://www.theverge.com/2023/11/15/23962709/microsoft-blind-users-open-ai-chatgpt-4-be-my-eyes)
+ - [The FTC warns influencers to disclose when they’re paid to be sweet on aspartame](https://www.theverge.com/2023/11/15/23962547/ftc-warning-letters-influencers-aspartame-sugar-undisclosed-sponsored-videos)
+ - [Comixology officially shelved in December as inferior Kindle service takes over](https://appleinsider.com/articles/23/11/15/comixology-officially-shelved-in-december-as-inferior-kindle-service-takes-over?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
