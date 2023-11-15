@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [8.5](http://9gag.com/gag/amAwmqv)
- - ⏩ [Always a dinner option](http://9gag.com/gag/aVb5opM)
- - 👉 [Cristy Ren](http://9gag.com/gag/amAwxNy)<!-- MEMES:END -->
+ - 💣 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
+ - ⏩ [Feminist we love you](http://9gag.com/gag/az2wPZp)
+ - 👉 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)<!-- MEMES:END -->
 
 ---
 
