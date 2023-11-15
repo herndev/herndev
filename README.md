@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)
- - [More vampires need to have as much fun as Tom Hiddleston eating a blood popsicle](https://www.polygon.com/23946067/vampire-blood-food-options)
- - [Xbox Insider Release Notes – Beta &lpar;2311.231113-2200&rpar;](https://news.xbox.com/en-us/2023/11/14/xbox-insider-release-notes-beta-2311-231113-2200/)<!-- GAME:END -->
+ - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)
+ - [More vampires need to have as much fun as Tom Hiddleston eating a blood popsicle](https://www.polygon.com/23946067/vampire-blood-food-options)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
