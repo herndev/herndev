@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
- - ⏩ [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
- - 👉 [Guess I die](http://9gag.com/gag/az2wRYj)<!-- MEMES:END -->
+ - 💣 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - ⏩ [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 👉 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)<!-- MEMES:END -->
 
 ---
 
