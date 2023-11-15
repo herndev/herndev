@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals its Black Friday deals, and the Pixel 8 is unbeatable at this price](https://www.androidauthority.com/google-black-friday-deals-pixel-8-pro-3385635/)
- - [Three young hackers behind Mirai talk about building the DDoS botnet, losing control of their monster, their work for the FBI as part of a plea deal, and more &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231115/p5#a231115p5)
- - [Why I’m &lpar;Cautiously&rpar; Optimistic About COP28](https://www.wired.com/story/wired-impact-hannah-ritchie-cop28-optimism-pessimism/)<!-- TECH:END -->
+ - [A profile of Holly Herndon, an artist and musician who uses AI in her work and has co-founded Spawning, a company to build a &quot;consent layer for AI&quot; for artists &lpar;Anna Wiener/New Yorker&rpar;](http://www.techmeme.com/231115/p6#a231115p6)
+ - [This Turntable Is the Perfect Pick for a Beginner Collector     - CNET](https://www.cnet.com/deals/this-turntable-is-the-perfect-pick-for-a-beginner-collector/#ftag=CAD590a51e)
+ - [Google reveals its Black Friday deals, and the Pixel 8 is unbeatable at this price](https://www.androidauthority.com/google-black-friday-deals-pixel-8-pro-3385635/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
