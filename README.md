@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waverly Labs Forum Review: Impressive One-to-Many Voice Translation](https://www.wired.com/review/waverly-labs-forum/)
- - [Asus apologizes for accidentally printing &quot;Evangenlion&quot;, not &quot;Evangelion&quot;, on new $700 ROG Maximus Z790 Hero EVA-02 Edition motherboards and offers replacements &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/231115/p13#a231115p13)
- - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Google Maps tweaks transit directions, adds emoji reactions and collaborative lists](https://www.theverge.com/2023/11/15/23962007/google-maps-transit-collaborative-list-emoji-reactions)
+ - [The first OLED Roku TV is here after a long, long wait](https://www.theverge.com/2023/11/15/23961754/sharp-aquos-oled-roku-tv-size-price)
+ - [Mario’s big year continues with an excellent Super Mario RPG remake](https://www.theverge.com/23960646/super-mario-rpg-review-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
