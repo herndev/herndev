@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Analogue’s back with another limited edition Pocket lineup](https://www.polygon.com/2023/11/15/23962223/analogue-pocket-limited-editions-gaming-console-2023)
- - [Watch great noir this Noirvember](https://www.polygon.com/what-to-watch/23959772/best-noir-movies-watch-streaming-neo-noir)
- - [The wackiest Spider-Man story is now the Madame Web movie](https://www.polygon.com/23962097/madame-web-movie-trailer-spider-man)<!-- GAME:END -->
+ - [A Hunger Games reality show could be great, actually](https://www.polygon.com/23962117/hunger-games-reality-show-capture-squid-game-challenge)
+ - [PlayStation Plus Game Catalog for November: Teardown,  Dragon’s Dogma: Dark Arisen, Superliminal and more](https://blog.playstation.com/2023/11/15/playstation-plus-game-catalog-for-november-teardown-dragons-dogma-dark-arisen-superliminal-and-more/)
+ - [PlayStation Plus Game Catalog for November: Teardown,  Dragon’s Dogma: Dark Arisen, Superliminal and more](https://blog.playstation.com/2023/11/15/playstation-plus-game-catalog-for-november-teardown-dragons-dogma-dark-arisen-superliminal-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
