@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps tweaks transit directions, adds emoji reactions and collaborative lists](https://www.theverge.com/2023/11/15/23962007/google-maps-transit-collaborative-list-emoji-reactions)
- - [The first OLED Roku TV is here after a long, long wait](https://www.theverge.com/2023/11/15/23961754/sharp-aquos-oled-roku-tv-size-price)
- - [Mario’s big year continues with an excellent Super Mario RPG remake](https://www.theverge.com/23960646/super-mario-rpg-review-nintendo-switch)<!-- TECH:END -->
+ - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
+ - [Google is going to let you annotate search results](https://www.theverge.com/2023/11/15/23961289/google-search-labs-notes-following-perspectives)
+ - [Amazon announces Astro for Business, letting SMBs buy its Alexa-powered Astro security robot for $2,350 per unit for sites no larger than 5,000 square feet &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/231115/p19#a231115p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
