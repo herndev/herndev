@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-Benz opens its first 400kW EV charging station in the US](https://www.theverge.com/2023/11/15/23960991/mercedes-benz-ev-charging-station-atlanta-chargepoint)
- - [Q&amp;A with Satya Nadella on Microsoft&#39;s OpenAI relationship, the ongoing developer platform shift, AI fuelling a creative revolution, and generative AI IP issues &lpar;Mat Honan/MIT Technology Review&rpar;](http://www.techmeme.com/231115/p36#a231115p36)
- - [YouTube expands support for enhanced bitrate 1080p HD video to Android, web, and smart TVs, from just iOS, and rolls out achievement badges for users over 18 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231115/p35#a231115p35)<!-- TECH:END -->
+ - [iPhone given to Drew Carey&#39;s &#39;Price is Right&#39; staff hits the jackpot at auction](https://appleinsider.com/articles/23/11/15/iphone-given-to-drew-careys-price-is-right-staff-hits-the-jackpot-at-auction?utm_medium=rss)
+ - [Early Black Friday deal: get 25% off Parallels Desktop 19 for Mac](https://appleinsider.com/articles/23/11/15/early-black-friday-deal-get-25-off-parallels-desktop-19-for-mac?utm_medium=rss)
+ - [The new Qi2 wireless standard will launch before the holidays](https://appleinsider.com/articles/23/11/15/the-new-qi2-wireless-standard-will-launch-before-the-holidays?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
