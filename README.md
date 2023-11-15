@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - ⏩ [Bring back shame](http://9gag.com/gag/ap9wbw8)
- - 👉 [Feminist we love you](http://9gag.com/gag/az2wPZp)<!-- MEMES:END -->
+ - 💣 [Feminist we love you](http://9gag.com/gag/az2wPZp)
+ - ⏩ [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 👉 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)<!-- MEMES:END -->
 
 ---
 
