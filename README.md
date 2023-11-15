@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is Xiaomi’s first car, and it could be the first to run on HyperOS](https://www.androidauthority.com/xiaomi-su7-car-hyperos-3385723/)
- - [JD.com reports Q3 revenue up 1.7% YoY to ~$33.98B, beating ~$33.81B est., and net profit up 33% YoY to ~$1.09B, beating ~$952M est., aided by cost controls &lpar;Ben Otto/Wall Street Journal&rpar;](http://www.techmeme.com/231115/p10#a231115p10)
- - [Tencent reports Q3 revenue up 10% YoY to ~$21.4B, in line with ~$21.37B est., and net profit down 9% YoY to ~$5B, beating ~$4.7B est., as game sales recover &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231115/p9#a231115p9)<!-- TECH:END -->
+ - [Driver of flipped Jeep saved by iPhone 14 Emergency SOS via Satellite](https://appleinsider.com/articles/23/11/15/driver-of-flipped-jeep-saved-by-iphone-14-emergency-sos-via-satellite?utm_medium=rss)
+ - [In 2022, Meta quietly began letting ads say past US elections were &quot;rigged&quot; or &quot;stolen&quot;; sources say execs made the decision based on free speech considerations &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/231115/p12#a231115p12)
+ - [iPhone 14 users will get another year of Emergency SOS via Satellite for free](https://appleinsider.com/articles/23/11/15/iphone-14-users-will-get-another-year-of-emergency-sos-via-satellite-for-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
