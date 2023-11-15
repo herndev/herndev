@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The man who made Sesame Street’s Count Von Count count](https://www.polygon.com/23947037/sesame-street-count-von-count-origin-story)
- - [Kotaku Asks: Who Got Snubbed At The Game Awards Nominations?](https://kotaku.com/game-awards-starfield-snubs-octopath-traveler-2-2023-1851022173)
- - [Black Friday: Save $50 on Select Xbox Series X|S Consoles, 1,000+ Games on Sale, and More!](https://news.xbox.com/en-us/2023/11/15/xbox-black-friday-cyber-monday-2023/)<!-- GAME:END -->
+ - [Analogue’s back with another limited edition Pocket lineup](https://www.polygon.com/2023/11/15/23962223/analogue-pocket-limited-editions-gaming-console-2023)
+ - [Watch great noir this Noirvember](https://www.polygon.com/what-to-watch/23959772/best-noir-movies-watch-streaming-neo-noir)
+ - [The wackiest Spider-Man story is now the Madame Web movie](https://www.polygon.com/23962097/madame-web-movie-trailer-spider-man)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
