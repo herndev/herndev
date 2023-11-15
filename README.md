@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
+ - 💣 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
  - ⏩ [Always a dinner option](http://9gag.com/gag/aVb5opM)
- - 👉 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)<!-- MEMES:END -->
+ - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
 
 ---
 
