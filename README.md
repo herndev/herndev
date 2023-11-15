@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Beta &lpar;2311.231113-2200&rpar;](https://news.xbox.com/en-us/2023/11/14/xbox-insider-release-notes-beta-2311-231113-2200/)
- - [Persona 5 Tactica Tries To Make Up For The Series’ Homophobia](https://kotaku.com/persona-5-tactica-gay-wedding-ryuji-yusuke-akechi-1851022216)
- - [Everyone shut up and watch the trailer for the adorable stop-motion Pokémon series](https://www.polygon.com/23961247/pokemon-concierge-trailer-release-date-cute-so-cute)<!-- GAME:END -->
+ - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)
+ - [More vampires need to have as much fun as Tom Hiddleston eating a blood popsicle](https://www.polygon.com/23946067/vampire-blood-food-options)
+ - [Xbox Insider Release Notes – Beta &lpar;2311.231113-2200&rpar;](https://news.xbox.com/en-us/2023/11/14/xbox-insider-release-notes-beta-2311-231113-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
