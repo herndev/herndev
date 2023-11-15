@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Driver of flipped Jeep saved by iPhone 14 Emergency SOS via Satellite](https://appleinsider.com/articles/23/11/15/driver-of-flipped-jeep-saved-by-iphone-14-emergency-sos-via-satellite?utm_medium=rss)
- - [In 2022, Meta quietly began letting ads say past US elections were &quot;rigged&quot; or &quot;stolen&quot;; sources say execs made the decision based on free speech considerations &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/231115/p12#a231115p12)
- - [iPhone 14 users will get another year of Emergency SOS via Satellite for free](https://appleinsider.com/articles/23/11/15/iphone-14-users-will-get-another-year-of-emergency-sos-via-satellite-for-free?utm_medium=rss)<!-- TECH:END -->
+ - [Waverly Labs Forum Review: Impressive One-to-Many Voice Translation](https://www.wired.com/review/waverly-labs-forum/)
+ - [Asus apologizes for accidentally printing &quot;Evangenlion&quot;, not &quot;Evangelion&quot;, on new $700 ROG Maximus Z790 Hero EVA-02 Edition motherboards and offers replacements &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/231115/p13#a231115p13)
+ - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
