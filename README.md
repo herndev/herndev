@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - ⏩ [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
- - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
+ - 💣 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
+ - ⏩ [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
+ - 👉 [Guess I die](http://9gag.com/gag/az2wRYj)<!-- MEMES:END -->
 
 ---
 
