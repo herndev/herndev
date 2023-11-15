@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Cristy Ren](http://9gag.com/gag/amAwxNy)
  - ⏩ [8.5](http://9gag.com/gag/amAwmqv)
- - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
+ - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
 
 ---
 
