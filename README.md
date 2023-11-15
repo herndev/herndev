@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
- - [Google is going to let you annotate search results](https://www.theverge.com/2023/11/15/23961289/google-search-labs-notes-following-perspectives)
- - [Amazon announces Astro for Business, letting SMBs buy its Alexa-powered Astro security robot for $2,350 per unit for sites no larger than 5,000 square feet &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/231115/p19#a231115p19)<!-- TECH:END -->
+ - [Pixel 8a dummy units show up in new leak](https://www.androidauthority.com/pixel-8a-dummy-units-3385771/)
+ - [Microsoft’s planning tools will soon be less confusing](https://www.theverge.com/2023/11/15/23962052/microsoft-planner-task-management-announcement-date-ignite)
+ - [Google’s new Photos features try to declutter your library](https://www.theverge.com/2023/11/15/23961948/google-photos-stacks-shortcut-calendar-entry-documents-categorization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
