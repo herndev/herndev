@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - ⏩ [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 👉 [Cristy Ren](http://9gag.com/gag/amAwxNy)<!-- MEMES:END -->
+ - 💣 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - ⏩ [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
+ - 👉 [8.5](http://9gag.com/gag/amAwmqv)<!-- MEMES:END -->
 
 ---
 
