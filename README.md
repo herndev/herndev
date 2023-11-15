@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe is using AI to break apart messy audio](https://www.theverge.com/2023/11/15/23962452/adobe-project-sound-lift-ai-audio-tool)
- - [Black Friday deal: get 50% off the Lomi Classic tabletop composting machine](https://appleinsider.com/articles/23/11/15/black-friday-deal-get-50-off-the-lomi-classic-tabletop-composting-machine?utm_medium=rss)
- - [VP of audio at Stability AI Ed Newton-Rex quits, saying he disagrees with the company&#39;s view that training generative AI models on copyrighted works is fair use &lpar;Music Business Worldwide&rpar;](http://www.techmeme.com/231115/p43#a231115p43)<!-- TECH:END -->
+ - [13 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home, Toys, and Games](https://www.wired.com/story/best-target-black-friday-deals-2023-1/)
+ - [Google inches closer to passwordless future with new Titan Security Keys](https://www.androidauthority.com/titan-security-key-passkey-storage-3385916/)
+ - [Cisco reports Q1 revenue up 8% YoY to $14.7B, vs. $14.6B est., net income up 36% YoY to $3.6B, and forecasts Q2 revenue far short of estimates; CSCO drops 10%+ &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231115/p45#a231115p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
