@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday: Save $50 on Select Xbox Series X|S Consoles, 1 ,000+ Games on Sale, and More!](https://news.xbox.com/en-us/2023/11/15/xbox-black-friday-cyber-monday-2023/)
- - [Where to find Dogweed and Deathcap’s location in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23956081/dogweed-deathcap-location-where-to-find)
- - [How to get Venomous Tentacula in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23956087/venomous-tentacula-location-how-to-get)<!-- GAME:END -->
+ - [The man who made Sesame Street’s Count Von Count count](https://www.polygon.com/23947037/sesame-street-count-von-count-origin-story)
+ - [Kotaku Asks: Who Got Snubbed At The Game Awards Nominations?](https://kotaku.com/game-awards-starfield-snubs-octopath-traveler-2-2023-1851022173)
+ - [Black Friday: Save $50 on Select Xbox Series X|S Consoles, 1,000+ Games on Sale, and More!](https://news.xbox.com/en-us/2023/11/15/xbox-black-friday-cyber-monday-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
