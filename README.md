@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan proposes making Apple, Google, and other app store operators responsible for paying consumption taxes on content sold by foreign developers &lpar;Ko Fujioka/Nikkei Asia&rpar;](http://www.techmeme.com/231114/p39#a231114p39)
- - [Intel patches a bug affecting virtually all modern Intel CPUs that allows code running inside a VM to crash hypervisors, a risk to cloud providers in particular &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231114/p38#a231114p38)
- - [Best early Black Friday MacBook deals you can shop right now](https://appleinsider.com/articles/23/11/15/best-early-black-friday-macbook-deals-you-can-shop-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [Epic v. Google: Sundar Pichai confirms Google paid Apple 36% of the search revenue generated on iPhones, saying the total payment &quot;was well over $10B&quot; in 2022 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231114/p40#a231114p40)
+ - [Japan to require companies like Apple to pay taxes in place of developers](https://appleinsider.com/articles/23/11/15/japan-to-require-companies-like-apple-to-pay-taxes-in-place-of-developers?utm_medium=rss)
+ - [Japan proposes making Apple, Google, and other app store operators responsible for paying consumption taxes on content sold by foreign developers &lpar;Ko Fujioka/Nikkei Asia&rpar;](http://www.techmeme.com/231114/p39#a231114p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
