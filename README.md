@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Total Recall: How Does KotOR Hold Up In 2023?](https://kotaku.com/star-wars-knights-of-the-old-republic-kotor-bioware-1851025763)
- - [Best Holger 556 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23962811/best-holger-556-loadout-class-build-mw3)
- - [Armory unlocks and challenges in Modern Warfare 3 explained](https://www.polygon.com/modern-warfare-3-guides/23962836/armory-unlocks-work-armory-challenges-mw3)<!-- GAME:END -->
+ - [Kongregate, Digital Bros. cut jobs in a growing wave of video game industry layoffs](https://www.polygon.com/23962772/kongregate-505-games-digital-bros-layoffs-2023)
+ - [Persona 5 Publisher Raises Salaries Amid Industry-Wide Layoffs](https://kotaku.com/atlus-annual-salary-increase-15-percent-persona-1851025919)
+ - [Xbox Insider Release Notes – Omega &lpar;2311.231114-2200&rpar;](https://news.xbox.com/en-us/2023/11/15/xbox-insider-release-notes-omega-2311-231114-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
