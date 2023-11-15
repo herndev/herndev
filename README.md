@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8a dummy units show up in new leak](https://www.androidauthority.com/pixel-8a-dummy-units-3385771/)
- - [Microsoft’s planning tools will soon be less confusing](https://www.theverge.com/2023/11/15/23962052/microsoft-planner-task-management-announcement-date-ignite)
- - [Google’s new Photos features try to declutter your library](https://www.theverge.com/2023/11/15/23961948/google-photos-stacks-shortcut-calendar-entry-documents-categorization)<!-- TECH:END -->
+ - [Mercedes-Benz opens its first 400kW EV charging station in the US](https://www.theverge.com/2023/11/15/23960991/mercedes-benz-ev-charging-station-atlanta-chargepoint)
+ - [Q&amp;A with Satya Nadella on Microsoft&#39;s OpenAI relationship, the ongoing developer platform shift, AI fuelling a creative revolution, and generative AI IP issues &lpar;Mat Honan/MIT Technology Review&rpar;](http://www.techmeme.com/231115/p36#a231115p36)
+ - [YouTube expands support for enhanced bitrate 1080p HD video to Android, web, and smart TVs, from just iOS, and rolls out achievement badges for users over 18 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231115/p35#a231115p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
