@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2402.231113-2200&rpar;](https://news.xbox.com/en-us/2023/11/15/xbox-insider-release-notes-alpha-2402-231113-2200/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231111-2000&rpar;](https://news.xbox.com/en-us/2023/11/15/xbox-insider-release-notes-alpha-skip-ahead-2408-231111-2000/)
- - [Mortal Kombat 1 Gives Away Free Fatalities After Halloween DLC Backlash [Update]](https://kotaku.com/mortal-kombat-1-free-fatality-halloween-dlc-1851011784)<!-- GAME:END -->
+ - [Suicide Squad&#39;s Seasonal Content And Characters Will Be Free](https://kotaku.com/suicide-squad-battle-pass-free-characters-early-access-1851025270)
+ - [Rocksteady’s Suicide Squad game looks a lot more fun now](https://www.polygon.com/23960892/suicide-squad-kill-justice-league-new-gameplay-story)
+ - [Honkai: Star Rail ‘Pathfinder’ Chess Ghost puzzle solutions](https://www.polygon.com/honkai-star-rail-guides/23962480/pathfinder-chess-ghost-puzzle-maze-solution)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
