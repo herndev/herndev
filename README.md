@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Nothing will keep its iMessage app secure, straight from the source](https://www.androidauthority.com/nothing-chats-app-security-3385480/)
- - [Pokémon Concierge’s first trailer has perfect stats](https://www.theverge.com/23961287/pokemon-concierge-netflix-trailer-stop-motion)
- - [Crypto exchange and wallet service Blockchain.com raised a $110M Series E led by Kingsway, a source says at less than half of its spring 2022 $14B valuation &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231114/p35#a231114p35)<!-- TECH:END -->
+ - [YouTube’s non-solution for AI podcasts](https://www.theverge.com/2023/11/14/23961391/youtube-ai-podcast-israel-gaza-tosh-iheart)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Best Black Friday iPad Deals: Save Up to $80 on Your New iPad Air, Pro and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
