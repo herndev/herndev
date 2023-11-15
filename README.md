@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
- - ⏩ [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - 👉 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)<!-- MEMES:END -->
+ - 💣 [Good](http://9gag.com/gag/aNw5BYG)
+ - ⏩ [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
 
 ---
 
