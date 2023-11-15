@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - ⏩ [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 👉 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)<!-- MEMES:END -->
+ - 💣 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - ⏩ [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
+ - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
 
 ---
 
