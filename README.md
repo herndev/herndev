@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
- - ⏩ [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
- - 👉 [Free junk food](http://9gag.com/gag/aREd225)<!-- MEMES:END -->
+ - 💣 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
+ - ⏩ [That f***ing word again.](http://9gag.com/gag/aL15d5M)
+ - 👉 [Guess I die](http://9gag.com/gag/az2wRYj)<!-- MEMES:END -->
 
 ---
 
