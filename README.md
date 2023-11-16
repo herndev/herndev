@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro 14-inch M3 Pro review: More for Intel Mac migration than annual upgraders](https://appleinsider.com/articles/23/11/16/macbook-pro-14-inch-m3-pro-review-more-for-intel-mac-migration-than-annual-upgraders?utm_medium=rss)
- - [Amazon announces online car sales for the first time, starting with Hyundai](https://www.theverge.com/2023/11/16/23964233/amazon-car-online-sale-hyundai-dealer-alexa)
- - [TikTok says it is removing videos promoting Osama Bin Laden&#39;s justification for the 9/11 attack but calls reports of the videos going viral &quot;inaccurate&quot; &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/231116/p39#a231116p39)<!-- TECH:END -->
+ - [SpaceX cleared for second Starship and Super Heavy launch test](https://www.theverge.com/2023/11/15/23873201/spacex-starship-faa-approval-super-heavy-launch-test-date)
+ - [Some Jewish celebrities and creators confronted TikTok executives in a private call, urging them to do more to address antisemitism and harassment on the app &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/231116/p41#a231116p41)
+ - [Amazon may just take on ChatGPT with Olympus AI: What is it, and how is it any different?](https://www.androidauthority.com/amazon-olympus-ai-3386298/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
