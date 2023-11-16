@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Threat Analysis Group discovers and helps patch a Zimbra email server flaw used to steal data from governments in Greece, Moldova, and elsewhere &lpar;Katie Malone/Engadget&rpar;](http://www.techmeme.com/231116/p30#a231116p30)
- - [Taylor Swift fans used record amounts of data during the Eras Tour in North America](https://www.theverge.com/2023/11/16/23949041/taylor-swift-eras-tour-mobile-data-usage-att)
- - [iPhone 15 owners are having wireless charging issues in GM vehicles, too](https://www.theverge.com/2023/11/16/23963780/iphone-15-wireless-charging-gm-chevy-buick-cadillac)<!-- TECH:END -->
+ - [Digital bank Revolut plans to offer its &quot;secret sauce&quot; HRtech, used to manage 7,500 employees, as a B2B proposition to select companies on an invite-only basis &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/231116/p34#a231116p34)
+ - [JBL Black Friday sale lands with up to 63% off headsets, speakers, and more](https://www.androidauthority.com/jbl-black-friday-sale-3385475/)
+ - [Fitbit, once again, was struck by a server outage](https://www.theverge.com/2023/11/16/23964002/fitbit-google-server-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
