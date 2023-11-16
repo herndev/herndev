@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Highrise’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23962256/highrise-item-weapon-locations-mw3)
- - [Workers Accuse Sega Of Threatening Mass Layoffs Over Unionizing](https://kotaku.com/sega-sonic-union-layoffs-persona-yakuza-1851026309)
- - [Kongregate, Digital Bros. cut jobs in a growing wave of video game industry layoffs](https://www.polygon.com/23962772/kongregate-505-games-digital-bros-layoffs-2023)<!-- GAME:END -->
+ - [How to level up fast in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963586/level-up-guns-fast-xp-mw3)
+ - [How to get all mastery camos, including Interstellar and Borealis, in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963602/mastery-camos-interstellar-borealis-mw3)
+ - [‘Highrise’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23962256/highrise-item-weapon-locations-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
