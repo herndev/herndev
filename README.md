@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ice factory](http://9gag.com/gag/aoKwLRw)
- - ⏩ [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
+ - 💣 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
+ - ⏩ [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
+ - 👉 [Free junk food](http://9gag.com/gag/aREd225)<!-- MEMES:END -->
 
 ---
 
