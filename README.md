@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Compete for the Skull of Siren Song as Sea of Thieves Season Ten Continues](https://news.xbox.com/en-us/2023/11/16/sea-of-thieves-season-10-skull-of-siren-song-voyage/)
- - [How to level up fast in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963586/level-up-guns-fast-xp-mw3)
- - [How to get all mastery camos, including Interstellar and Borealis, in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963602/mastery-camos-interstellar-borealis-mw3)<!-- GAME:END -->
+ - [SteamWorld Build Is the Series’ Most Impressively Wild Experiment Yet](https://news.xbox.com/en-us/2023/11/16/steamworld-build-xbox-game-pass/)
+ - [Vampire: The Masquerade courts controversy once again, this time over ‘bleed’](https://www.polygon.com/tabletop-games/23962341/vampire-the-masquerade-bleed-controversy-explained)
+ - [The Percy Jackson trailer is full of gods, monsters, and Lin-Manuel Miranda](https://www.polygon.com/23914935/percy-jackson-trailer-disney-plus-lin-manuel-miranda)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
