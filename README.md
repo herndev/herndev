@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3’s getting a gorgeous deluxe physical edition with actual discs in it](https://www.polygon.com/23964100/baldurs-gate-3-deluxe-physical-edition-release-date-price)
- - [Tourist Trap: a Surrealist Dark Comedy Adventure](https://news.xbox.com/en-us/2023/11/16/tourist-trap-a-surrealist-dark-comedy-adventure/)
- - [Sega ‘Honored’ Xbox And Others Want To Acquire It, But It’s Not For Sale](https://kotaku.com/sega-xbox-spencer-merger-buyout-microsoft-sonic-persona-1851028452)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder’s new bad guys make the Mario bestiary feel fresh](https://www.polygon.com/gaming/23962972/super-mario-bros-wonder-best-new-enemies)
+ - [Where to find planes in Fortnite OG’s Season 7 update](https://www.polygon.com/fortnite-guide/23963995/planes-locations-x4-stormwing-fortnite-og-season-7)
+ - [Baldur’s Gate 3 getting gorgeous deluxe physical edition with actual discs in it](https://www.polygon.com/23964100/baldurs-gate-3-deluxe-physical-edition-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
