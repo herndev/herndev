@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton Mail CEO Andy Yen announces Key Transparency, a blockchain-based tool build on Proton&#39;s private chain to verify email addresses, in beta &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231116/p21#a231116p21)
- - [Google&#39;s Search Generative Experience adds shopping tools to help find niche or unique items and expands virtual try-ons to men&#39;s tops from hundreds of brands &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231116/p20#a231116p20)
- - [Google could be working on ways to help you discover new apps and content on the Play Store](https://www.androidauthority.com/google-play-store-discover-new-apps-content-3386101/)<!-- TECH:END -->
+ - [UPS announces a new $79M, 20-acre facility near Louisville, set to be staffed by over 3,000 robots handling manual tasks and around 200 human workers in 2024 &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/231116/p23#a231116p23)
+ - [The house that climate change built](https://www.theverge.com/23951223/housing-climate-change-zoning-nimby-sustainable-design)
+ - [Source: ByteDance&#39;s Douyin tests letting creators with 100K+ followers add paywalls to their videos; local Chinese media reports Douyin takes a 30% cut &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231116/p22#a231116p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
