@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. Wonder’s new bad guys make the Mario bestiary feel fresh](https://www.polygon.com/gaming/23962972/super-mario-bros-wonder-best-new-enemies)
- - [Where to find planes in Fortnite OG’s Season 7 update](https://www.polygon.com/fortnite-guide/23963995/planes-locations-x4-stormwing-fortnite-og-season-7)
- - [Baldur’s Gate 3 getting gorgeous deluxe physical edition with actual discs in it](https://www.polygon.com/23964100/baldurs-gate-3-deluxe-physical-edition-release-date-price)<!-- GAME:END -->
+ - [Do you need to play Persona 5 before Persona 5 Tactica?](https://www.polygon.com/guides/23962653/persona-5-tactica-game-order-timeline)
+ - [Diablo IV Will Take Over Your Thanksgiving With Some Nice Bonuses](https://kotaku.com/diablo-4-mother-lillith-blessing-event-start-end-dates-1851029151)
+ - [Travis Kelce Tweets Reveal He Loved GoldenEye, Hated &#39;Call Of Dookie&#39;](https://kotaku.com/travis-kelce-tweets-gamer-goldeneye-taylor-swift-1851028994)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
