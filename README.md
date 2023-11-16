@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good](http://9gag.com/gag/aNw5BYG)
- - ⏩ [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 💣 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
+ - ⏩ [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
  - 👉 [That f***ing word again.](http://9gag.com/gag/aL15d5M)<!-- MEMES:END -->
 
 ---
