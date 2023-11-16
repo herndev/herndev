@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Compete for the Skull of Siren Song as Sea of Thieves Season Ten Continues](https://news.xbox.com/en-us/2023/11/16/sea-of-thieves-season-10-skull-of-siren-song-voyage/)
  - [How to level up fast in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963586/level-up-guns-fast-xp-mw3)
- - [How to get all mastery camos, including Interstellar and Borealis, in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963602/mastery-camos-interstellar-borealis-mw3)
- - [‘Highrise’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23962256/highrise-item-weapon-locations-mw3)<!-- GAME:END -->
+ - [How to get all mastery camos, including Interstellar and Borealis, in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963602/mastery-camos-interstellar-borealis-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
