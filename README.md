@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Free junk food](http://9gag.com/gag/aREd225)
- - ⏩ [All wearing gloves, no bare feet or hands, no one putting ladders into the pot and climbing down...this is how you mass cook food india](http://9gag.com/gag/a7qXp4z)
- - 👉 [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)<!-- MEMES:END -->
+ - ⏩ [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)
+ - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
 ---
 
