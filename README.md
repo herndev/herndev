@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - ⏩ [Free junk food](http://9gag.com/gag/aREd225)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)<!-- MEMES:END -->
+ - 💣 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - ⏩ [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
+ - 👉 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)<!-- MEMES:END -->
 
 ---
 
