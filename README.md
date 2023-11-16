@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Classical finally comes to the iPad](https://appleinsider.com/articles/23/11/16/apple-music-classical-finally-comes-to-the-ipad?utm_medium=rss)
- - [Embracer reports Q2 net sales up 13% YoY to ~$1B, layoffs impacted 900 employees, or 5% of its workforce, and 36 fewer games are in development than Q2 2022 &lpar;K.J. Yossman/Variety&rpar;](http://www.techmeme.com/231116/p13#a231116p13)
- - [Windows is now an app for iPhones, iPads, Macs, and PCs](https://www.theverge.com/2023/11/16/23963568/microsoft-windows-app-ios-ipados-macos-web)<!-- TECH:END -->
+ - [Google will make fake AI products to help you find real gifts](https://www.theverge.com/2023/11/16/23963583/google-search-generative-experience-shopping-ai-images)
+ - [Google is embedding inaudible watermarks right into its AI generated music](https://www.theverge.com/2023/11/16/23963607/google-deepmind-synthid-audio-watermarks)
+ - [AI chip startup Sapeon, backed by South Korean conglomerate SK Group, announces the Sapeon X330, claiming 4x the performance of the X220, rolling out in H1 2024 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231116/p16#a231116p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
