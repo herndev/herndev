@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Workers Accuses Sega Of Threatening Mass Layoffs Over Unionizing](https://kotaku.com/sega-sonic-union-layoffs-persona-yakuza-1851026309)
+ - [Workers Accuse Sega Of Threatening Mass Layoffs Over Unionizing](https://kotaku.com/sega-sonic-union-layoffs-persona-yakuza-1851026309)
  - [Kongregate, Digital Bros. cut jobs in a growing wave of video game industry layoffs](https://www.polygon.com/23962772/kongregate-505-games-digital-bros-layoffs-2023)
  - [Persona 5 Publisher Raises Salaries Amid Industry-Wide Layoffs](https://kotaku.com/atlus-annual-salary-increase-15-percent-persona-1851025919)<!-- GAME:END -->
 
