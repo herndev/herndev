@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gaming conglomerate Embracer laid off 900 people as net sales rise, more cuts to come](https://www.polygon.com/23963744/embracer-group-layoffs-tomb-raider-lotr-restructure)
- - [PlayStation Plus Extra and Premium get Teardown on day one — plus a timely, big RPG](https://www.polygon.com/23963702/playstation-ps-plus-extra-premium-games-november-2023)
- - [SteamWorld Build Is the Series’ Most Impressively Wild Experiment Yet](https://news.xbox.com/en-us/2023/11/16/steamworld-build-xbox-game-pass/)<!-- GAME:END -->
+ - [A Sneak Peek at the Cool Animations of the Back to the Future Special Pack for PowerWash Simulator](https://news.xbox.com/en-us/2023/11/16/the-cool-animations-back-to-the-future-special-pack-for-powerwash-simulator/)
+ - [Omni-Man is coming to Fortnite with the rest of the Invincible cast](https://www.polygon.com/23963762/fortnite-invincible-omni-man-atom-eve-skins-epic-games)
+ - [Assassin’s Creed Mirage is getting permadeath &lpar;and new game plus&rpar;](https://www.polygon.com/23963850/assassins-creed-mirage-permadeath-new-game-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
