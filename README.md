@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads tests tags, a way of categorizing posts similar to hashtags without the # symbol being visible, initially in Australia and other countries &quot;soon&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231115/p47#a231115p47)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [How to save up to $330 on your new M3 MacBook Pro with AppleCare](https://appleinsider.com/articles/23/11/15/how-to-save-up-to-330-on-your-new-m3-macbook-pro-with-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Google rolls out Bard access for teens that &quot;meet the minimum age requirement to manage their own Google Account&quot; and have English set, with safeguards in place &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231115/p48#a231115p48)
+ - [T20 Wireless Earbuds     - CNET](https://www.cnet.com/tech/mobile/t20-wireless-earbuds-dpnl/#ftag=CAD590a51e)
+ - [Threads is testing hashtags with a side of trending topics](https://www.theverge.com/2023/11/15/23963101/meta-threads-instagram-hashtags-trending-topics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
