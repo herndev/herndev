@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Sneak Peek at the Cool Animations of the Back to the Future Special Pack for PowerWash Simulator](https://news.xbox.com/en-us/2023/11/16/the-cool-animations-back-to-the-future-special-pack-for-powerwash-simulator/)
- - [Omni-Man is coming to Fortnite with the rest of the Invincible cast](https://www.polygon.com/23963762/fortnite-invincible-omni-man-atom-eve-skins-epic-games)
- - [Assassin’s Creed Mirage is getting permadeath &lpar;and new game plus&rpar;](https://www.polygon.com/23963850/assassins-creed-mirage-permadeath-new-game-plus)<!-- GAME:END -->
+ - [This pop-up D&amp;D terrain is a game changer for DMs on a budget](https://www.polygon.com/tabletop-games/23961266/stonefold-kingdoms-pop-up-dnd-terrain-kickstarter-release-date-price)
+ - [Assassin’s Creed Mirage’s December Update Will Totally Kick Your Ass](https://kotaku.com/assassins-creed-mirage-update-new-game-plus-permadeath-1851028121)
+ - [Honkai: Star Rail ‘Pathfinder’ Chess Ghost, Fu Xuan puzzle solutions](https://www.polygon.com/honkai-star-rail-guides/23962480/pathfinder-chess-ghost-puzzle-maze-solution)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
