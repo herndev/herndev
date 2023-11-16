@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - ⏩ [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
- - 👉 [That f***ing word again.](http://9gag.com/gag/aL15d5M)<!-- MEMES:END -->
+ - 💣 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
+ - ⏩ [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 ---
 
