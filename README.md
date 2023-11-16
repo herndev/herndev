@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US DOJ is investigating semiconductor equipment maker Applied Materials for potentially evading export restrictions on China&#39;s top chipmaker SMIC &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/231116/p45#a231116p45)
- - [36 Best Black Friday Deals on Outdoor Gear &lpar;2023&rpar;: REI, Garmin, and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-2/)
- - [Apple teases Black Friday promotions, but there are much better deals](https://appleinsider.com/articles/23/11/16/apple-teases-black-friday-promotions-but-there-are-much-better-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Google welcomes Apple&#39;s move to adopt RCS](https://appleinsider.com/articles/23/11/16/google-welcomes-apples-move-to-adopt-rcs?utm_medium=rss)
+ - [Twitter’s decentralized offshoot Bluesky now has 2 million users](https://www.theverge.com/2023/11/16/23964400/bluesky-public-web-access-federated-2-million-users)
+ - [IBM suspends its advertising on X globally after Media Matters said X has been placing ads for IBM, Apple, Oracle, and others alongside pro-Nazi material &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231116/p47#a231116p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
