@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Protect this man, Douglas Murray.](http://9gag.com/gag/armw225)
- - ⏩ [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)
- - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
+ - 💣 [Good](http://9gag.com/gag/aNw5BYG)
+ - ⏩ [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 👉 [That f***ing word again.](http://9gag.com/gag/aL15d5M)<!-- MEMES:END -->
 
 ---
 
