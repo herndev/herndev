@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paxos gets in-principle approval from the Monetary Authority of Singapore to issue a USD-backed stablecoin; Paxos claims it is the only company to get approval &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231115/p54#a231115p54)
- - [Color OS 14 goes global: Fast, but with some rough edges](https://www.androidauthority.com/color-os-14-release-date-eligible-devices-features-hands-on-3385593/)
- - [Security researchers detail the largest cyberattack against Danish critical infrastructure, which involved Zyxel zero-days and affected 22 companies in May 2023 &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/231115/p53#a231115p53)<!-- TECH:END -->
+ - [An extremely pornographic ad is making the rounds on YouTube &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/youtube-porn-ad-3385786/)
+ - [Lenovo reports Q2 revenue down 16% YoY to $14.4B, meeting estimates but marking the fifth straight quarterly sales decline, net income down 60% YoY to $249M &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231116/p2#a231116p2)
+ - [Google News is ending support for paid magazines starting December 18 and says users will be able to export copies of paid magazines before the shutdown &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231116/p1#a231116p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
