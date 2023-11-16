@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IDC: China-based Transsion, the largest smartphone manufacturer by sales in Africa, shipped 26M smartphones in Q3 2023, up 35% YoY, for a 8.6% global share &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/231116/p5#a231116p5)
- - [YouTube will let some Shorts creators test Dream Track, a new AI tool that can generate and remix music in the styles of seven different artists, including Sia &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/231116/p4#a231116p4)
- - [Analysis: Chinese imports of chip manufacturing equipment rose 93% YoY to $8.7B in Q3 2023 and imports of lithography equipment from the Netherlands jumped 6x &lpar;Ryosuke Eguchi/Nikkei Asia&rpar;](http://www.techmeme.com/231116/p3#a231116p3)<!-- TECH:END -->
+ - [Spotify’s podcast and audiobook discovery will get a boost from Google Cloud’s AI](https://www.theverge.com/2023/11/16/23963112/spotify-podcast-audiobook-discovery-personalized-recommendations-google-cloud-ai)
+ - [The new Circular Ring Slim is a smart ring with haptic navigation](https://www.androidauthority.com/circular-ring-slim-launched-3386057/)
+ - [Pixel 9 could support Apple’s MagSafe-like wireless charging with Qi2 certification](https://www.androidauthority.com/pixel-9-qi2-charging-3386056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
