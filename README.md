@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Free junk food](http://9gag.com/gag/aREd225)
+ - 💣 [Protect this man, Douglas Murray.](http://9gag.com/gag/armw225)
  - ⏩ [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)
  - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
