@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s podcast and audiobook discovery will get a boost from Google Cloud’s AI](https://www.theverge.com/2023/11/16/23963112/spotify-podcast-audiobook-discovery-personalized-recommendations-google-cloud-ai)
- - [The new Circular Ring Slim is a smart ring with haptic navigation](https://www.androidauthority.com/circular-ring-slim-launched-3386057/)
- - [Pixel 9 could support Apple’s MagSafe-like wireless charging with Qi2 certification](https://www.androidauthority.com/pixel-9-qi2-charging-3386056/)<!-- TECH:END -->
+ - [Stable Oxygen OS 14 update now rolling out for OnePlus 11](https://www.androidauthority.com/oneplus-11-stable-oxygen-os-14-update-3386075/)
+ - [What is Google’s Chromebook Plus initiative?](https://www.androidauthority.com/what-is-googles-chromebook-plus-initiative-3380859/)
+ - [Google’s killer Black Friday sale includes the Pixel 8 for $549, and much more](https://www.androidauthority.com/google-black-friday-pixel-8-3385908/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
