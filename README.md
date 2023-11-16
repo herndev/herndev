@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Do you need to play Persona 5 before Persona 5 Tactica?](https://www.polygon.com/guides/23962653/persona-5-tactica-game-order-timeline)
- - [Diablo IV Will Take Over Your Thanksgiving With Some Nice Bonuses](https://kotaku.com/diablo-4-mother-lillith-blessing-event-start-end-dates-1851029151)
- - [Travis Kelce Tweets Reveal He Loved GoldenEye, Hated &#39;Call Of Dookie&#39;](https://kotaku.com/travis-kelce-tweets-gamer-goldeneye-taylor-swift-1851028994)<!-- GAME:END -->
+ - [The Joker: Year One will reveal a new secret history of Batman’s archfoe in 2024](https://www.polygon.com/23964415/batman-joker-year-one-dc-comics)
+ - [Genshin Impact ‘Through the Looking Glass’ hidden mirror locations and walkthrough](https://www.polygon.com/genshin-impact-guides/23964168/through-looking-glass-mirror-locations-walkthrough)
+ - [Genshin Impact ‘In the Wake of Narcissus’ walkthrough](https://www.polygon.com/genshin-impact-guides/23963752/in-the-wake-of-narcissus-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
