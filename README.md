@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Bard access for teens that &quot;meet the minimum age requirement to manage their own Google Account&quot; and have English set, with safeguards in place &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231115/p48#a231115p48)
- - [T20 Wireless Earbuds     - CNET](https://www.cnet.com/tech/mobile/t20-wireless-earbuds-dpnl/#ftag=CAD590a51e)
- - [Threads is testing hashtags with a side of trending topics](https://www.theverge.com/2023/11/15/23963101/meta-threads-instagram-hashtags-trending-topics)<!-- TECH:END -->
+ - [Hyundai’s Ioniq 5 N performance EV is coming March 2024](https://www.theverge.com/2023/11/15/23962310/hyundai-ioniq-5-n-perfomance-ev-specs-la-auto-show)
+ - [Google is going to let teens use Bard, though with some guardrails](https://www.theverge.com/2023/11/15/23963230/google-bard-teens-guardrails)
+ - [The Wireless Power Consortium says the first Qi v2.0 devices are arriving in time for the holidays and over 100 are in certification testing or waiting in line &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/231115/p49#a231115p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
