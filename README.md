@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s latest feature lets users make AR filters](https://www.theverge.com/2023/11/16/23963772/tiktok-effect-house-filters-mobile-app-creator)
- - [Sonos fixes its Dolby Atmos loud pop issue after years of complaints](https://www.theverge.com/2023/11/16/23963790/sonos-arc-dolby-atmos-problems-loud-audio-pop-fix-rolling-out)
- - [The I-10 Freeway Fire May Have Been Caused by Exploding Hand Sanitizer](https://www.wired.com/story/i-10-freeway-fire-cause-hand-sanitizer/)<!-- TECH:END -->
+ - [Google&#39;s Threat Analysis Group discovers and helps patch a Zimbra email server flaw used to steal data from governments in Greece, Moldova, and elsewhere &lpar;Katie Malone/Engadget&rpar;](http://www.techmeme.com/231116/p30#a231116p30)
+ - [Taylor Swift fans used record amounts of data during the Eras Tour in North America](https://www.theverge.com/2023/11/16/23949041/taylor-swift-eras-tour-mobile-data-usage-att)
+ - [iPhone 15 owners are having wireless charging issues in GM vehicles, too](https://www.theverge.com/2023/11/16/23963780/iphone-15-wireless-charging-gm-chevy-buick-cadillac)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
