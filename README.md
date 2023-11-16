@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
- - ⏩ [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
- - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
+ - 💣 [I didn&#39;t even knew his name...](http://9gag.com/gag/a04qE1B)
+ - ⏩ [8.5](http://9gag.com/gag/amAwmqv)
+ - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
 
 ---
 
