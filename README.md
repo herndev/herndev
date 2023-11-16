@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
- - ⏩ [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 💣 [We know](http://9gag.com/gag/a7qXVQq)
+ - ⏩ [Mancheri valerie](http://9gag.com/gag/ajVwZRw)
  - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
 ---
