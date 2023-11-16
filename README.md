@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security researchers detail the largest cyberattack against Danish critical infrastructure, which involved Zyxel zero-days and affected 22 companies in May 2023 &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/231115/p53#a231115p53)
- - [How to bring Screen Mirroring back to the Control Center on the iPhone 15 Pro](https://appleinsider.com/inside/ios-17/tips/how-to-bring-screen-mirroring-back-to-the-control-center-on-the-iphone-15-pro?utm_medium=rss)
- - [iPhone 16 to use graphene heat sink to solve overheating issues](https://appleinsider.com/articles/23/11/16/iphone-16-to-use-graphene-heat-sink-to-solve-overheating-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Paxos gets in-principle approval from the Monetary Authority of Singapore to issue a USD-backed stablecoin; Paxos claims it is the only company to get approval &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231115/p54#a231115p54)
+ - [Color OS 14 goes global: Fast, but with some rough edges](https://www.androidauthority.com/color-os-14-release-date-eligible-devices-features-hands-on-3385593/)
+ - [Security researchers detail the largest cyberattack against Danish critical infrastructure, which involved Zyxel zero-days and affected 22 companies in May 2023 &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/231115/p53#a231115p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
