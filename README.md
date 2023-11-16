@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
- - ⏩ [That f***ing word again.](http://9gag.com/gag/aL15d5M)
- - 👉 [Guess I die](http://9gag.com/gag/az2wRYj)<!-- MEMES:END -->
+ - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - ⏩ [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
+ - 👉 [When you love Subway](http://9gag.com/gag/a6q6Gqq)<!-- MEMES:END -->
 
 ---
 
