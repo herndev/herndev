@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Free junk food](http://9gag.com/gag/aREd225)
- - ⏩ [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 👉 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)<!-- MEMES:END -->
+ - 💣 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
+ - ⏩ [Protect this man, Douglas Murray.](http://9gag.com/gag/armw225)
+ - 👉 [Owned](http://9gag.com/gag/az2w4zz)<!-- MEMES:END -->
 
 ---
 
