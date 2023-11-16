@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - ⏩ [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
+ - 💣 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
+ - ⏩ [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
  - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
 ---
