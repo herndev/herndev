@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Common Sense Media&#39;s first ratings for ten AI chatbots and services warn parents that Snapchat&#39;s MyAI, Dall-E 2, and Stable Diffusion may not be safe for kids &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/231116/p10#a231116p10)
- - [Here’s when One UI 6 is coming to your Samsung Galaxy smartphone &lpar;Update: Not really&rpar;](https://www.androidauthority.com/samsung-one-ui-6-0-rollout-timeline-eu-3385012/)
- - [Stable Oxygen OS 14 update now rolling out for OnePlus 11](https://www.androidauthority.com/oneplus-11-stable-oxygen-os-14-update-3386075/)<!-- TECH:END -->
+ - [Apple Music Classical finally comes to the iPad](https://appleinsider.com/articles/23/11/16/apple-music-classical-finally-comes-to-the-ipad?utm_medium=rss)
+ - [Embracer reports Q2 net sales up 13% YoY to ~$1B, layoffs impacted 900 employees, or 5% of its workforce, and 36 fewer games are in development than Q2 2022 &lpar;K.J. Yossman/Variety&rpar;](http://www.techmeme.com/231116/p13#a231116p13)
+ - [Windows is now an app for iPhones, iPads, Macs, and PCs](https://www.theverge.com/2023/11/16/23963568/microsoft-windows-app-ios-ipados-macos-web)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
