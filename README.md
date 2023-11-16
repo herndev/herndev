@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Tim Cook was among Chinese President Xi&#39;s dinner guests](https://appleinsider.com/articles/23/11/16/apples-tim-cook-was-among-chinese-president-xis-dinner-guests?utm_medium=rss)
- - [Nvidia’s GeForce Now gets support for PC Game Pass with Xbox account syncing](https://www.theverge.com/2023/11/16/23963718/nvidia-geforce-now-pc-game-pass-xbox-account-sync)
- - [Save Up to $60 on Govee Smart Lighting With These Early Black Friday Deals     - CNET](https://www.cnet.com/deals/save-up-to-60-on-govee-smart-lighting-with-these-early-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok’s latest feature lets users make AR filters](https://www.theverge.com/2023/11/16/23963772/tiktok-effect-house-filters-mobile-app-creator)
+ - [Sonos fixes its Dolby Atmos loud pop issue after years of complaints](https://www.theverge.com/2023/11/16/23963790/sonos-arc-dolby-atmos-problems-loud-audio-pop-fix-rolling-out)
+ - [The I-10 Freeway Fire May Have Been Caused by Exploding Hand Sanitizer](https://www.wired.com/story/i-10-freeway-fire-cause-hand-sanitizer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
