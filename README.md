@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will make fake AI products to help you find real gifts](https://www.theverge.com/2023/11/16/23963583/google-search-generative-experience-shopping-ai-images)
- - [Google is embedding inaudible watermarks right into its AI generated music](https://www.theverge.com/2023/11/16/23963607/google-deepmind-synthid-audio-watermarks)
- - [AI chip startup Sapeon, backed by South Korean conglomerate SK Group, announces the Sapeon X330, claiming 4x the performance of the X220, rolling out in H1 2024 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231116/p16#a231116p16)<!-- TECH:END -->
+ - [Proton Mail CEO Andy Yen announces Key Transparency, a blockchain-based tool build on Proton&#39;s private chain to verify email addresses, in beta &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231116/p21#a231116p21)
+ - [Google&#39;s Search Generative Experience adds shopping tools to help find niche or unique items and expands virtual try-ons to men&#39;s tops from hundreds of brands &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231116/p20#a231116p20)
+ - [Google could be working on ways to help you discover new apps and content on the Play Store](https://www.androidauthority.com/google-play-store-discover-new-apps-content-3386101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
