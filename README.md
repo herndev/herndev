@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Be My Eyes AI offers GPT-4-powered support for blind Microsoft customers](https://www.theverge.com/2023/11/15/23962709/microsoft-blind-users-open-ai-chatgpt-4-be-my-eyes)
- - [The FTC warns influencers to disclose when they’re paid to be sweet on aspartame](https://www.theverge.com/2023/11/15/23962547/ftc-warning-letters-influencers-aspartame-sugar-undisclosed-sponsored-videos)
- - [Comixology officially shelved in December as inferior Kindle service takes over](https://appleinsider.com/articles/23/11/15/comixology-officially-shelved-in-december-as-inferior-kindle-service-takes-over?utm_medium=rss)<!-- TECH:END -->
+ - [Threads tests tags, a way of categorizing posts similar to hashtags without the # symbol being visible, initially in Australia and other countries &quot;soon&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231115/p47#a231115p47)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [How to save up to $330 on your new M3 MacBook Pro with AppleCare](https://appleinsider.com/articles/23/11/15/how-to-save-up-to-330-on-your-new-m3-macbook-pro-with-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
