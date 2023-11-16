@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The clown,](http://9gag.com/gag/aDY5ObG)
- - ⏩ [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
- - 👉 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)<!-- MEMES:END -->
+ - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - ⏩ [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 👉 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)<!-- MEMES:END -->
 
 ---
 
