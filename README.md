@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital bank Revolut plans to offer its &quot;secret sauce&quot; HRtech, used to manage 7,500 employees, as a B2B proposition to select companies on an invite-only basis &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/231116/p34#a231116p34)
- - [JBL Black Friday sale lands with up to 63% off headsets, speakers, and more](https://www.androidauthority.com/jbl-black-friday-sale-3385475/)
- - [Fitbit, once again, was struck by a server outage](https://www.theverge.com/2023/11/16/23964002/fitbit-google-server-outage)<!-- TECH:END -->
+ - [MacBook Pro 14-inch M3 Pro review: More for Intel Mac migration than annual upgraders](https://appleinsider.com/articles/23/11/16/macbook-pro-14-inch-m3-pro-review-more-for-intel-mac-migration-than-annual-upgraders?utm_medium=rss)
+ - [Amazon announces online car sales for the first time, starting with Hyundai](https://www.theverge.com/2023/11/16/23964233/amazon-car-online-sale-hyundai-dealer-alexa)
+ - [TikTok says it is removing videos promoting Osama Bin Laden&#39;s justification for the 9/11 attack but calls reports of the videos going viral &quot;inaccurate&quot; &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/231116/p39#a231116p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
