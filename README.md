@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UPS announces a new $79M, 20-acre facility near Louisville, set to be staffed by over 3,000 robots handling manual tasks and around 200 human workers in 2024 &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/231116/p23#a231116p23)
- - [The house that climate change built](https://www.theverge.com/23951223/housing-climate-change-zoning-nimby-sustainable-design)
- - [Source: ByteDance&#39;s Douyin tests letting creators with 100K+ followers add paywalls to their videos; local Chinese media reports Douyin takes a 30% cut &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231116/p22#a231116p22)<!-- TECH:END -->
+ - [Apple&#39;s Tim Cook was among Chinese President Xi&#39;s dinner guests](https://appleinsider.com/articles/23/11/16/apples-tim-cook-was-among-chinese-president-xis-dinner-guests?utm_medium=rss)
+ - [Nvidia’s GeForce Now gets support for PC Game Pass with Xbox account syncing](https://www.theverge.com/2023/11/16/23963718/nvidia-geforce-now-pc-game-pass-xbox-account-sync)
+ - [Save Up to $60 on Govee Smart Lighting With These Early Black Friday Deals     - CNET](https://www.cnet.com/deals/save-up-to-60-on-govee-smart-lighting-with-these-early-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
