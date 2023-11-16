@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This pop-up D&amp;D terrain is a game changer for DMs on a budget](https://www.polygon.com/tabletop-games/23961266/stonefold-kingdoms-pop-up-dnd-terrain-kickstarter-release-date-price)
- - [Assassin’s Creed Mirage’s December Update Will Totally Kick Your Ass](https://kotaku.com/assassins-creed-mirage-update-new-game-plus-permadeath-1851028121)
- - [Honkai: Star Rail ‘Pathfinder’ Chess Ghost, Fu Xuan puzzle solutions](https://www.polygon.com/honkai-star-rail-guides/23962480/pathfinder-chess-ghost-puzzle-maze-solution)<!-- GAME:END -->
+ - [Baldur’s Gate 3’s getting a gorgeous deluxe physical edition with actual discs in it](https://www.polygon.com/23964100/baldurs-gate-3-deluxe-physical-edition-release-date-price)
+ - [Tourist Trap: a Surrealist Dark Comedy Adventure](https://news.xbox.com/en-us/2023/11/16/tourist-trap-a-surrealist-dark-comedy-adventure/)
+ - [Sega ‘Honored’ Xbox And Others Want To Acquire It, But It’s Not For Sale](https://kotaku.com/sega-xbox-spencer-merger-buyout-microsoft-sonic-persona-1851028452)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
