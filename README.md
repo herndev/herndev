@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
- - ⏩ [Protect this man, Douglas Murray.](http://9gag.com/gag/armw225)
- - 👉 [Owned](http://9gag.com/gag/az2w4zz)<!-- MEMES:END -->
+ - 💣 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - ⏩ [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 👉 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)<!-- MEMES:END -->
 
 ---
 
