@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SteamWorld Build Is the Series’ Most Impressively Wild Experiment Yet](https://news.xbox.com/en-us/2023/11/16/steamworld-build-xbox-game-pass/)
- - [Vampire: The Masquerade courts controversy once again, this time over ‘bleed’](https://www.polygon.com/tabletop-games/23962341/vampire-the-masquerade-bleed-controversy-explained)
- - [The Percy Jackson trailer is full of gods, monsters, and Lin-Manuel Miranda](https://www.polygon.com/23914935/percy-jackson-trailer-disney-plus-lin-manuel-miranda)<!-- GAME:END -->
+ - [Gaming conglomerate Embracer laid off 900 people as net sales rise, more cuts to come](https://www.polygon.com/23963744/embracer-group-layoffs-tomb-raider-lotr-restructure)
+ - [PlayStation Plus Extra and Premium get Teardown on day one — plus a timely, big RPG](https://www.polygon.com/23963702/playstation-ps-plus-extra-premium-games-november-2023)
+ - [SteamWorld Build Is the Series’ Most Impressively Wild Experiment Yet](https://news.xbox.com/en-us/2023/11/16/steamworld-build-xbox-game-pass/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
