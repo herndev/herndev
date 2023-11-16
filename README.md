@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - ⏩ [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
- - 👉 [When you love Subway](http://9gag.com/gag/a6q6Gqq)<!-- MEMES:END -->
+ - 💣 [Free junk food](http://9gag.com/gag/aREd225)
+ - ⏩ [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 👉 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)<!-- MEMES:END -->
 
 ---
 
