@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX cleared for second Starship and Super Heavy launch test](https://www.theverge.com/2023/11/15/23873201/spacex-starship-faa-approval-super-heavy-launch-test-date)
- - [Some Jewish celebrities and creators confronted TikTok executives in a private call, urging them to do more to address antisemitism and harassment on the app &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/231116/p41#a231116p41)
- - [Amazon may just take on ChatGPT with Olympus AI: What is it, and how is it any different?](https://www.androidauthority.com/amazon-olympus-ai-3386298/)<!-- TECH:END -->
+ - [Apple&#39;s in-house modem project won&#39;t be ready until late 2025](https://appleinsider.com/articles/23/11/16/apples-in-house-modem-project-wont-be-ready-until-late-2025?utm_medium=rss)
+ - [Daily deals Nov. 16: iPad 9th Generation $249, 41% off Apple TV Siri Remote, Dyson V8 Origin Plus Cordless Vacuum for $249, more](https://appleinsider.com/articles/23/11/16/daily-deals-nov-16-ipad-9th-generation-249-41-off-apple-tv-siri-remote-dyson-v8-origin-plus-cordless-vacuum-for-249-more?utm_medium=rss)
+ - [YouTube updates its guidelines to allow monetization on videos that display nudity while breastfeeding, non-sexually graphic dancing, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231116/p44#a231116p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
