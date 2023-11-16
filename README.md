@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I didn&#39;t even knew his name...](http://9gag.com/gag/a04qE1B)
- - ⏩ [8.5](http://9gag.com/gag/amAwmqv)
- - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
+ - 💣 [Guess I die](http://9gag.com/gag/az2wRYj)
+ - ⏩ [Chaos in comments](http://9gag.com/gag/aPg2e7P)
+ - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
 ---
 
