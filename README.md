@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Joker: Year One will reveal a new secret history of Batman’s archfoe in 2024](https://www.polygon.com/23964415/batman-joker-year-one-dc-comics)
- - [Genshin Impact ‘Through the Looking Glass’ hidden mirror locations and walkthrough](https://www.polygon.com/genshin-impact-guides/23964168/through-looking-glass-mirror-locations-walkthrough)
- - [Genshin Impact ‘In the Wake of Narcissus’ walkthrough](https://www.polygon.com/genshin-impact-guides/23963752/in-the-wake-of-narcissus-walkthrough)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Omega &lpar;2311.231115-1800&rpar;](https://news.xbox.com/en-us/2023/11/16/xbox-insider-release-notes-omega-2311-231115-1800/)
+ - [Xbox Insider Release Notes – Delta &lpar;2311.231115-1800&rpar;](https://news.xbox.com/en-us/2023/11/16/xbox-insider-release-notes-delta-2311-231115-1800/)
+ - [Xbox Insider Release Notes – Beta &lpar;2311.231115-1800&rpar;](https://news.xbox.com/en-us/2023/11/16/xbox-insider-release-notes-beta-2311-231115-1800/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
