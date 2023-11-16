@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stable Oxygen OS 14 update now rolling out for OnePlus 11](https://www.androidauthority.com/oneplus-11-stable-oxygen-os-14-update-3386075/)
- - [What is Google’s Chromebook Plus initiative?](https://www.androidauthority.com/what-is-googles-chromebook-plus-initiative-3380859/)
- - [Google’s killer Black Friday sale includes the Pixel 8 for $549, and much more](https://www.androidauthority.com/google-black-friday-pixel-8-3385908/)<!-- TECH:END -->
+ - [Common Sense Media&#39;s first ratings for ten AI chatbots and services warn parents that Snapchat&#39;s MyAI, Dall-E 2, and Stable Diffusion may not be safe for kids &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/231116/p10#a231116p10)
+ - [Here’s when One UI 6 is coming to your Samsung Galaxy smartphone &lpar;Update: Not really&rpar;](https://www.androidauthority.com/samsung-one-ui-6-0-rollout-timeline-eu-3385012/)
+ - [Stable Oxygen OS 14 update now rolling out for OnePlus 11](https://www.androidauthority.com/oneplus-11-stable-oxygen-os-14-update-3386075/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
