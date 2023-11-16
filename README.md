@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Killary Hellintone](http://9gag.com/gag/aQE5AM7)
- - ⏩ [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - 👉 [True, true](http://9gag.com/gag/aREdzOA)<!-- MEMES:END -->
+ - 💣 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
+ - ⏩ [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
+ - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
 ---
 
