@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
- - ⏩ [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
- - 👉 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)<!-- MEMES:END -->
+ - 💣 [`Don&#39;t come here!` Finnish PM and Home Secretary announced today that Finland is closing its eastern border crossing from asylum seekers.](http://9gag.com/gag/aYV5md7)
+ - ⏩ [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
+ - 👉 [Owned](http://9gag.com/gag/az2w4zz)<!-- MEMES:END -->
 
 ---
 
