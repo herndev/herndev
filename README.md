@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
- - ⏩ [Not my hand](http://9gag.com/gag/abvwR8E)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)<!-- MEMES:END -->
+ - 💣 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
+ - ⏩ [This old gem...](http://9gag.com/gag/aOx5GxR)
+ - 👉 [They call it the Cave of Death](http://9gag.com/gag/a4oyVLy)<!-- MEMES:END -->
 
 ---
 
