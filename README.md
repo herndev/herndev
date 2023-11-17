@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 474: Don’t Get Gravy On That](https://blog.playstation.com/2023/11/17/official-playstation-podcast-episode-474-dont-get-gravy-on-that/)
- - [Pre-orders for Bombastic On-Rails Arcade Shooter Railbreak Begin Today](https://news.xbox.com/en-us/2023/11/17/pre-orders-for-railbreak-begin-today/)
- - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)<!-- GAME:END -->
+ - [The Best Xbox Black Friday Deals](https://kotaku.com/xbox-series-x-s-black-friday-2023-diablo-4-bundle-1851031357)
+ - [‘Gora Dam’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23965336/gora-dam-item-weapon-locations-mw3)
+ - [The Funniest Twitch Streamers You Should Watch Immediately](https://kotaku.com/funny-twitch-streamers-jynxzi-ebonix-luxie-1851032077)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
