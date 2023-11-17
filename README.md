@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Gives Fans A Chance To Win A Bluey Custom Xbox Series X](https://news.xbox.com/en-us/2023/11/17/xbox-bluey-custom-xbox-series-x/)
- - [Behold the Bluey Xbox](https://www.polygon.com/23965263/bluey-video-game-xbox-series-x)
- - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 20 – 24](https://news.xbox.com/en-us/2023/11/17/next-week-on-xbox-new-games-for-november-20-24/)
+ - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
+ - [Here Are Your Picks For The Biggest 2023 Game Awards Snubs](https://kotaku.com/game-awards-2023-nominations-snubs-final-fantasy-16-1851029673)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
