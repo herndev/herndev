@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Join Us for LiveWIRED](https://www.wired.com/story/livewired-wired30-2023-conference/)
- - [Sources: Apple is pausing advertising on X after outcry over Musk&#39;s endorsement of an antisemitic tweet and reports that Apple ads ran next to pro-Nazi content &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231117/p17#a231117p17)
- - [16 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Cookware.](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)<!-- TECH:END -->
+ - [Apple pulls its ads from X after Musk’s antisemitic posts](https://www.theverge.com/2023/11/17/23965928/apple-x-ads-elon-musk-antisemitic-posts)
+ - [Nothing Chats hands-on: iMessage support but only for the very desperate](https://www.androidauthority.com/nothing-chats-hands-on-3386749/)
+ - [NFL has nothing better to do than mistake an iPad Glove for an injury](https://appleinsider.com/articles/23/11/17/nfl-has-nothing-better-to-do-than-mistake-an-ipad-glove-for-an-injury?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
