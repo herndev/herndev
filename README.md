@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Case for Using AI to Log Your Every Living Moment](https://www.wired.com/story/the-case-for-using-ai-to-log-your-every-living-moment/)
- - [Google DeepMind’s AI Pop Star Clone Will Freak You Out](https://www.wired.com/story/google-deepminds-ai-pop-star-clone-will-freak-you-out/)
- - [&#39;Baldur’s Gate 3&#39; Is Even More Magical With a D&amp;D Player’s Handbook](https://www.wired.com/story/baldurs-gate-3-play-it-with-the-dungeons-dragons-handbook-rave/)<!-- TECH:END -->
+ - [This is the keyboard that will convert you to the low-profile life](https://www.theverge.com/23965283/lofree-flow-low-profile-keyboard-review)
+ - [Internal memo: Amazon plans to cut several hundred roles in its Alexa division as part of a broader shift in priorities and a focus on generative AI &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/231117/p11#a231117p11)
+ - [Amazon&#39;s Echo Show Black Friday Bundles Add Smarts to Your Home for Less     - CNET](https://www.cnet.com/deals/amazons-echo-show-black-friday-bundles-add-smarts-to-your-home-for-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
