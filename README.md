@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Shrek kissing TikTok filter is a blight upon society](https://www.polygon.com/23966069/shrek-kissing-tiktok-filter)
- - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
- - [Crash Team Rumble’s Latest Cameo Makes Me Want A New Spyro Game](https://kotaku.com/crash-team-rumble-spyro-dragon-4-season-3-1851032384)<!-- GAME:END -->
+ - [New Walking Dead Game Looks Uh… Not Great!](https://kotaku.com/walking-dead-destinies-new-game-bad-kong-game-mill-1851032588)
+ - [Genshin Impact ‘The Wild Fairy of Erinnyes’ walkthrough](https://www.polygon.com/genshin-impact-guides/23966130/wild-fairy-erinnyes-walkthrough-reveal-altars-secrets)
+ - [The Shrek kissing TikTok filter is a blight upon society](https://www.polygon.com/23966069/shrek-kissing-tiktok-filter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
