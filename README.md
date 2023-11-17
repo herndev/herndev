@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Nov. 17: $250 off M1 MacBook Air, Amazon Fire TV Stick 4K for $25, 50% off 2023 Ring Indoor Camera, more](https://appleinsider.com/articles/23/11/17/daily-deals-nov-17-250-off-m1-macbook-air-amazon-fire-tv-stick-4k-for-25-50-off-2023-ring-indoor-camera-more?utm_medium=rss)
- - [Italy&#39;s competition watchdog opens an investigation into whether Meta has failed to provide adequate information on how to mark branded content on Instagram &lpar;Giulia Petroni/Wall Street Journal&rpar;](http://www.techmeme.com/231117/p20#a231117p20)
- - [Bose raises the bar with first ever QuietComfort Ultra savings](https://www.androidauthority.com/bose-quietcomfort-ultra-deals-3386834/)<!-- TECH:END -->
+ - [Sources: Mira Murati told staff in a companywide meeting that Satya Nadella expressed &quot;utmost confidence&quot; in OpenAI following the firing of Sam Altman &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231117/p21#a231117p21)
+ - [How to save up to $330 on your new M3 MacBook Pro with AppleCare](https://appleinsider.com/articles/23/11/15/how-to-save-up-to-330-on-your-new-m3-macbook-pro-with-applecare?utm_medium=rss)
+ - [Elon Musk May Have Just Signed X’s Death Warrant](https://www.wired.com/story/x-elon-musk-antisemitism-advertisers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
