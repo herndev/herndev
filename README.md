@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 beginner tips to know before you start Persona 5 Tactica](https://www.polygon.com/guides/23962654/persona-5-tactica-beginner-tips)
- - [How to get through the Forest Maze in Super Mario RPG](https://www.polygon.com/guides/23959101/super-mario-rpg-forest-maze-route-secret-path)
- - [What to use Frog Coins on in Super Mario RPG](https://www.polygon.com/guides/23956006/super-mario-rpg-frog-coins-buy-use-shops)<!-- GAME:END -->
+ - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
+ - [Horizon Forbidden West: Seeds of Rebellion – new gameplay and story details on the upcoming tabletop adventure](https://blog.playstation.com/2023/11/17/horizon-forbidden-west-seeds-of-rebellion-new-gameplay-and-story-details-on-the-upcoming-tabletop-adventure/)
+ - [Why to grab a 4K Blu-ray player this Black Friday — and one to buy!](https://www.polygon.com/23962318/blu-ray-player-deals-sales-black-friday-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
