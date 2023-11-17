@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario RPG secret boss location](https://www.polygon.com/guides/23959195/super-mario-rpg-secret-boss-culex-location-unlock)
- - [Underrated cyberpunk shooter Huntdown deserves another shot at the spotlight](https://www.polygon.com/gaming/23964101/underrated-cyberpunk-shooter-huntdown-turbo-overkill-cyberpunk-2077)
- - [Monarch: Legacy of Monsters hits Apple TV+ today – Director Q&amp;A](https://blog.playstation.com/2023/11/17/monarch-legacy-of-monsters-hits-apple-tv-today-director-qa/)<!-- GAME:END -->
+ - [Everything We Know About Grand Theft Auto 6](https://kotaku.com/gta-6-grand-theft-auto-rumor-leak-release-date-rockstar-1850718620)
+ - [Final Fantasy 7 Rebirth will add a new wrinkle to its difficulty](https://www.polygon.com/23965369/final-fantasy-7-rebirth-difficulty-options-dynamic)
+ - [Wish is a pale imitation of the better Disney movies that came before it](https://www.polygon.com/reviews/23964442/wish-disney-review-musical-ariana-debose)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
