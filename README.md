@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Owned](http://9gag.com/gag/az2w4zz)
- - ⏩ [Ppssppsspt](http://9gag.com/gag/aA05Z6g)
- - 👉 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)<!-- MEMES:END -->
+ - 💣 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
+ - ⏩ [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
+ - 👉 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)<!-- MEMES:END -->
 
 ---
 
