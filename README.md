@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Sonos deals: save up to 25% on soundbars &amp; speakers](https://appleinsider.com/articles/23/11/17/black-friday-sonos-deals-save-up-to-25-on-soundbars-speakers?utm_medium=rss)
- - [Coinbase updates Coinbase Commerce with its new open source Onchain Payment Protocol, which offers instant settlement, low fees, and broad asset support &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231117/p2#a231117p2)
- - [iPhone 16 leak suggests Apple doesn’t want a repeat of the iPhone 15 overheating problem](https://www.androidauthority.com/iphone-16-heating-thermals-3386494/)<!-- TECH:END -->
+ - [Bought a Pixel just before Google’s Black Friday Sale? You can get the discounted amount back!](https://www.androidauthority.com/google-black-friday-sale-refund-3386524/)
+ - [The FBI and CISA release an advisory detailing tactics used by Scattered Spider, a hacking group that now collaborates with the BlackCat ransomware group &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231117/p3#a231117p3)
+ - [Black Friday Sonos deals: save up to 25% on soundbars &amp; speakers](https://appleinsider.com/articles/23/11/17/black-friday-sonos-deals-save-up-to-25-on-soundbars-speakers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
