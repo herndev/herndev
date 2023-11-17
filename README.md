@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Grand Theft Auto 6](https://kotaku.com/gta-6-grand-theft-auto-rumor-leak-release-date-rockstar-1850718620)
- - [Final Fantasy 7 Rebirth will add a new wrinkle to its difficulty](https://www.polygon.com/23965369/final-fantasy-7-rebirth-difficulty-options-dynamic)
- - [Wish is a pale imitation of the better Disney movies that came before it](https://www.polygon.com/reviews/23964442/wish-disney-review-musical-ariana-debose)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 474: Don’t Get Gravy On That](https://blog.playstation.com/2023/11/17/official-playstation-podcast-episode-474-dont-get-gravy-on-that/)
+ - [Pre-orders for Bombastic On-Rails Arcade Shooter Railbreak Begin Today](https://news.xbox.com/en-us/2023/11/17/pre-orders-for-railbreak-begin-today/)
+ - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
