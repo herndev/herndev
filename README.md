@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google welcomes Apple&#39;s move to adopt RCS](https://appleinsider.com/articles/23/11/16/google-welcomes-apples-move-to-adopt-rcs?utm_medium=rss)
- - [Twitter’s decentralized offshoot Bluesky now has 2 million users](https://www.theverge.com/2023/11/16/23964400/bluesky-public-web-access-federated-2-million-users)
- - [IBM suspends its advertising on X globally after Media Matters said X has been placing ads for IBM, Apple, Oracle, and others alongside pro-Nazi material &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231116/p47#a231116p47)<!-- TECH:END -->
+ - [Amazon Drive is shutting down, but user files are now in Amazon Photos](https://appleinsider.com/articles/23/11/16/amazon-drive-is-shutting-down-but-user-files-are-now-in-amazon-photos?utm_medium=rss)
+ - [Apple’s Pledge to Support RCS Messaging Could Finally Kill SMS](https://www.wired.com/story/apple-adding-support-for-rcs-could-kill-sms/)
+ - [31 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
