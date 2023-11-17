@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google told some cloud customers not to expect access to its Gemini AI model until Q1 2024, after previously saying they would get access by Nov. 2023 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231116/p54#a231116p54)
- - [Sources: Thrasio, which acquires third-party Amazon sellers, is preparing to file for bankruptcy as it deals with a post-pandemic slump in online spending &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231116/p53#a231116p53)
- - [Apple says green bubbles will be used for RCS messages, while iMessages will be blue to denote what it considers the safest way for iPhone users to communicate &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231116/p52#a231116p52)<!-- TECH:END -->
+ - [Carl Pei justifies the purpose of Nothing Chats after Apple’s RCS mic-drop moment](https://www.androidauthority.com/nothing-chats-carl-pei-apple-rcs-announcement-3386097/)
+ - [Forever Companions, which let paying users speak to an AI girlfriend modeled after influencer Caryn Marjorie, stopped working after CEO John Meyer was arrested &lpar;404 Media&rpar;](http://www.techmeme.com/231116/p55#a231116p55)
+ - [How to delete Instagram messages](https://www.androidauthority.com/delete-instagram-messages-3134521/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
