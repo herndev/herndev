@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
- - ⏩ [This old gem...](http://9gag.com/gag/aOx5GxR)
- - 👉 [They call it the Cave of Death](http://9gag.com/gag/a4oyVLy)<!-- MEMES:END -->
+ - 💣 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - ⏩ [Hulks been weakened by today&#39;s feminism yet the She-Hulk continues to twerk.](http://9gag.com/gag/a04qxMd)
+ - 👉 [Not my hand](http://9gag.com/gag/abvwR8E)<!-- MEMES:END -->
 
 ---
 
