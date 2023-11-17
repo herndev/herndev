@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pulls its ads from X after Musk’s antisemitic posts](https://www.theverge.com/2023/11/17/23965928/apple-x-ads-elon-musk-antisemitic-posts)
- - [Nothing Chats hands-on: iMessage support but only for the very desperate](https://www.androidauthority.com/nothing-chats-hands-on-3386749/)
- - [NFL has nothing better to do than mistake an iPad Glove for an injury](https://appleinsider.com/articles/23/11/17/nfl-has-nothing-better-to-do-than-mistake-an-ipad-glove-for-an-injury?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Nov. 17: $250 off M1 MacBook Air, Amazon Fire TV Stick 4K for $25, 50% off 2023 Ring Indoor Camera, more](https://appleinsider.com/articles/23/11/17/daily-deals-nov-17-250-off-m1-macbook-air-amazon-fire-tv-stick-4k-for-25-50-off-2023-ring-indoor-camera-more?utm_medium=rss)
+ - [Italy&#39;s competition watchdog opens an investigation into whether Meta has failed to provide adequate information on how to mark branded content on Instagram &lpar;Giulia Petroni/Wall Street Journal&rpar;](http://www.techmeme.com/231117/p20#a231117p20)
+ - [Bose raises the bar with first ever QuietComfort Ultra savings](https://www.androidauthority.com/bose-quietcomfort-ultra-deals-3386834/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
