@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Would you pay for iMessage on Android?](https://www.androidauthority.com/pay-imessage-android-poll-3384922/)
- - [A US judge rejects X&#39;s bid to overturn a May 2022 FTC order imposing restrictions on its data security practices and declines to stop a deposition of Elon Musk &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231116/p49#a231116p49)
- - [Best Early Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
+ - [A huge stable Steam Deck update gives the Dock a brand-new feature](https://www.theverge.com/2023/11/16/23964870/steam-deck-steamos-3-5-5-stable-update)
+ - [Fortnite is blocking some outfits in experiences made for kids](https://www.theverge.com/2023/11/16/23964778/fortnite-blocking-outfits-experiences-kids)
+ - [The web version of X&#39;s job search tool is live for all users, with iOS and Android availability expected &quot;soon&quot;; applications are completed on third-party sites &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231116/p51#a231116p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
