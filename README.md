@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Extremely close call](http://9gag.com/gag/az2wBOb)
- - ⏩ [Hulks been weakened by today&#39;s feminism yet the She-Hulk continues to twerk.](http://9gag.com/gag/a04qxMd)
- - 👉 [How the turn tables](http://9gag.com/gag/aL15b7g)<!-- MEMES:END -->
+ - 💣 [Straight from the 2014 archive](http://9gag.com/gag/a8qOnzO)
+ - ⏩ [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
+ - 👉 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)<!-- MEMES:END -->
 
 ---
 
