@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
- - ⏩ [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
- - 👉 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)<!-- MEMES:END -->
+ - 💣 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - ⏩ [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
+ - 👉 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)<!-- MEMES:END -->
 
 ---
 
