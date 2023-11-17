@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 leak suggests Apple doesn’t want a repeat of the iPhone 15 overheating problem](https://www.androidauthority.com/iphone-16-heating-thermals-3386494/)
- - [Alibaba&#39;s market value drops to $201B, about half of Tencent&#39;s $391B, as it faces sluggish demand and increased competition; Alibaba was valued at $850B in 2020 &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/231117/p1#a231117p1)
- - [Best Solar Panel Installation Companies in Delaware     - CNET](https://www.cnet.com/home/energy-and-utilities/delaware-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday Sonos deals: save up to 25% on soundbars &amp; speakers](https://appleinsider.com/articles/23/11/17/black-friday-sonos-deals-save-up-to-25-on-soundbars-speakers?utm_medium=rss)
+ - [Coinbase updates Coinbase Commerce with its new open source Onchain Payment Protocol, which offers instant settlement, low fees, and broad asset support &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231117/p2#a231117p2)
+ - [iPhone 16 leak suggests Apple doesn’t want a repeat of the iPhone 15 overheating problem](https://www.androidauthority.com/iphone-16-heating-thermals-3386494/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
