@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The clown,](http://9gag.com/gag/aDY5ObG)
- - ⏩ [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 👉 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)<!-- MEMES:END -->
+ - 💣 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - ⏩ [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
+ - 👉 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)<!-- MEMES:END -->
 
 ---
 
