@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Securities watchdog IOSCO concludes its report on crypto rules, identifying six critical domains covering market manipulation, insider trading, fraud, and more &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/231117/p4#a231117p4)
- - [Discord is shutting down its AI chatbot Clyde](https://www.theverge.com/2023/11/17/23965185/discord-is-shutting-down-its-ai-chatbot-clyde)
- - [Google’s Manifest V3 changes will soon disable uBlock Origin on Chrome](https://www.androidauthority.com/google-chrome-manifest-v3-changes-3386506/)<!-- TECH:END -->
+ - [You don&#39;t have to flip this Magic Mouse hack over to charge](https://appleinsider.com/articles/23/11/17/you-dont-have-to-flip-this-magic-mouse-hack-over-to-charge?utm_medium=rss)
+ - [At some point, the Apple Watch Ultra had a black backing](https://appleinsider.com/articles/23/11/17/at-some-point-the-apple-watch-ultra-had-a-black-backing?utm_medium=rss)
+ - [Black Friday 2023 Live Blog: Early Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
