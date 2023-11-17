@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
- - [Horizon Forbidden West: Seeds of Rebellion – new gameplay and story details on the upcoming tabletop adventure](https://blog.playstation.com/2023/11/17/horizon-forbidden-west-seeds-of-rebellion-new-gameplay-and-story-details-on-the-upcoming-tabletop-adventure/)
- - [Why to grab a 4K Blu-ray player this Black Friday — and one to buy!](https://www.polygon.com/23962318/blu-ray-player-deals-sales-black-friday-2023)<!-- GAME:END -->
+ - [Xbox Gives Fans A Chance To Win A Bluey Custom Xbox Series X](https://news.xbox.com/en-us/2023/11/17/xbox-bluey-custom-xbox-series-x/)
+ - [Behold the Bluey Xbox](https://www.polygon.com/23965263/bluey-video-game-xbox-series-x)
+ - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
