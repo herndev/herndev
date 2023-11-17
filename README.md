@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU Court of Justice says Apple has filed a legal challenge to the Digital Markets Act &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231117/p15#a231117p15)
- - [Nothing Chats First Look: iMessage on Android](https://www.wired.com/story/nothing-chats/)
- - [Joe Biden’s top climate adviser on how climate change will shape the US economy](https://www.theverge.com/23963681/biden-climate-adviser-climate-change-us-economy-ali-zaidi)<!-- TECH:END -->
+ - [Amazon slashes 30% off the Motorola Razr Plus 2023 ahead of Black Friday](https://www.androidauthority.com/motorola-razr-plus-black-friday-3386757/)
+ - [31 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo Devices](https://www.wired.com/story/best-amazon-black-friday-deals-2023/)
+ - [The Verge’s guide to Black Friday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
