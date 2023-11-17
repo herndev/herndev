@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes 30% off the Motorola Razr Plus 2023 ahead of Black Friday](https://www.androidauthority.com/motorola-razr-plus-black-friday-3386757/)
- - [31 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo Devices](https://www.wired.com/story/best-amazon-black-friday-deals-2023/)
- - [The Verge’s guide to Black Friday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)<!-- TECH:END -->
+ - [Join Us for LiveWIRED](https://www.wired.com/story/livewired-wired30-2023-conference/)
+ - [Sources: Apple is pausing advertising on X after outcry over Musk&#39;s endorsement of an antisemitic tweet and reports that Apple ads ran next to pro-Nazi content &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231117/p17#a231117p17)
+ - [16 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Cookware.](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
