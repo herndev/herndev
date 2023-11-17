@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - ⏩ [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
- - 👉 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)<!-- MEMES:END -->
+ - 💣 [Clock tf out](http://9gag.com/gag/aWG5RZx)
+ - ⏩ [Not my hand](http://9gag.com/gag/abvwR8E)
+ - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
 
 ---
 
