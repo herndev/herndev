@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - ⏩ [Hulks been weakened by today&#39;s feminism yet the She-Hulk continues to twerk.](http://9gag.com/gag/a04qxMd)
- - 👉 [Not my hand](http://9gag.com/gag/abvwR8E)<!-- MEMES:END -->
+ - 💣 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
+ - ⏩ [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - 👉 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)<!-- MEMES:END -->
 
 ---
 
