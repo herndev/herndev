@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bin Laden Letter Is Being Weaponized by the Far-Right](https://www.wired.com/story/far-right-bin-laden-letter-to-america-conspiracies/)
- - [Verizon Cloud Unlimited gets even more tempting with new individual plan for $14 a month](https://www.androidauthority.com/verizon-cloud-unlimited-3386642/)
- - [Apple files legal challenge over Europe&#39;s demand for third-party app stores](https://appleinsider.com/articles/23/11/17/apple-files-legal-challenge-over-europes-demand-for-third-party-app-stores?utm_medium=rss)<!-- TECH:END -->
+ - [Joe Biden’s top climate adviser on how climate change will shape the US economy](https://www.theverge.com/23963681/biden-climate-adviser-climate-change-us-economy-ali-zaidi)
+ - [DoggoRamps Couch Ramp Review: A Well-Built Ramp](https://www.wired.com/review/doggoramps-couch-ramp/)
+ - [The Beats Studio Pro get an unmissable $180 Black Friday price drop](https://www.androidauthority.com/beats-studio-pro-black-friday-3386667/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
