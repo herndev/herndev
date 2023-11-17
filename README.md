@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You don&#39;t have to flip this Magic Mouse hack over to charge](https://appleinsider.com/articles/23/11/17/you-dont-have-to-flip-this-magic-mouse-hack-over-to-charge?utm_medium=rss)
- - [At some point, the Apple Watch Ultra had a black backing](https://appleinsider.com/articles/23/11/17/at-some-point-the-apple-watch-ultra-had-a-black-backing?utm_medium=rss)
- - [Black Friday 2023 Live Blog: Early Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday 2023 Live Blog: Early Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
+ - [Making a 5G modem is super difficult, even for Apple](https://www.androidauthority.com/apple-5g-modem-delayed-again-3386608/)
+ - [Amazon slashes MacBook Air to $749.99 with hidden Black Friday discount](https://appleinsider.com/articles/23/11/17/amazon-slashes-macbook-air-to-74999-with-hidden-black-friday-discount?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
