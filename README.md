@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Drive is shutting down, but user files are now in Amazon Photos](https://appleinsider.com/articles/23/11/16/amazon-drive-is-shutting-down-but-user-files-are-now-in-amazon-photos?utm_medium=rss)
- - [Apple’s Pledge to Support RCS Messaging Could Finally Kill SMS](https://www.wired.com/story/apple-adding-support-for-rcs-could-kill-sms/)
- - [31 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals-1/)<!-- TECH:END -->
+ - [Poll: Would you pay for iMessage on Android?](https://www.androidauthority.com/pay-imessage-android-poll-3384922/)
+ - [A US judge rejects X&#39;s bid to overturn a May 2022 FTC order imposing restrictions on its data security practices and declines to stop a deposition of Elon Musk &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231116/p49#a231116p49)
+ - [Best Early Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
