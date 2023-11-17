@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Omega &lpar;2311.231115-1800&rpar;](https://news.xbox.com/en-us/2023/11/16/xbox-insider-release-notes-omega-2311-231115-1800/)
- - [Xbox Insider Release Notes – Delta &lpar;2311.231115-1800&rpar;](https://news.xbox.com/en-us/2023/11/16/xbox-insider-release-notes-delta-2311-231115-1800/)
- - [Xbox Insider Release Notes – Beta &lpar;2311.231115-1800&rpar;](https://news.xbox.com/en-us/2023/11/16/xbox-insider-release-notes-beta-2311-231115-1800/)<!-- GAME:END -->
+ - [10 beginner tips to know before you start Persona 5 Tactica](https://www.polygon.com/guides/23962654/persona-5-tactica-beginner-tips)
+ - [How to get through the Forest Maze in Super Mario RPG](https://www.polygon.com/guides/23959101/super-mario-rpg-forest-maze-route-secret-path)
+ - [What to use Frog Coins on in Super Mario RPG](https://www.polygon.com/guides/23956006/super-mario-rpg-frog-coins-buy-use-shops)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
