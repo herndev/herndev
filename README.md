@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clock tf out](http://9gag.com/gag/aWG5RZx)
- - ⏩ [Not my hand](http://9gag.com/gag/abvwR8E)
- - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
+ - 💣 [But high standards...](http://9gag.com/gag/aZD5vLV)
+ - ⏩ [Owned](http://9gag.com/gag/az2w4zz)
+ - 👉 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)<!-- MEMES:END -->
 
 ---
 
