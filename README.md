@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 20 – 24](https://news.xbox.com/en-us/2023/11/17/next-week-on-xbox-new-games-for-november-20-24/)
- - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
- - [Here Are Your Picks For The Biggest 2023 Game Awards Snubs](https://kotaku.com/game-awards-2023-nominations-snubs-final-fantasy-16-1851029673)<!-- GAME:END -->
+ - [Super Mario RPG secret boss location](https://www.polygon.com/guides/23959195/super-mario-rpg-secret-boss-culex-location-unlock)
+ - [Underrated cyberpunk shooter Huntdown deserves another shot at the spotlight](https://www.polygon.com/gaming/23964101/underrated-cyberpunk-shooter-huntdown-turbo-overkill-cyberpunk-2077)
+ - [Monarch: Legacy of Monsters hits Apple TV+ today – Director Q&amp;A](https://blog.playstation.com/2023/11/17/monarch-legacy-of-monsters-hits-apple-tv-today-director-qa/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
