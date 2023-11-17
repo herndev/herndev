@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bought a Pixel just before Google’s Black Friday Sale? You can get the discounted amount back!](https://www.androidauthority.com/google-black-friday-sale-refund-3386524/)
- - [The FBI and CISA release an advisory detailing tactics used by Scattered Spider, a hacking group that now collaborates with the BlackCat ransomware group &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231117/p3#a231117p3)
- - [Black Friday Sonos deals: save up to 25% on soundbars &amp; speakers](https://appleinsider.com/articles/23/11/17/black-friday-sonos-deals-save-up-to-25-on-soundbars-speakers?utm_medium=rss)<!-- TECH:END -->
+ - [The Snapdragon 7 Gen 3 is here, and it is better than the 7 Gen 1 at least](https://www.androidauthority.com/qualcomm-snapdragon-7-gen-3-3386527/)
+ - [11 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023/)
+ - [Bought a Pixel just before Google’s Black Friday Sale? You can get the discounted amount back!](https://www.androidauthority.com/google-black-friday-sale-refund-3386524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
