@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the keyboard that will convert you to the low-profile life](https://www.theverge.com/23965283/lofree-flow-low-profile-keyboard-review)
- - [Internal memo: Amazon plans to cut several hundred roles in its Alexa division as part of a broader shift in priorities and a focus on generative AI &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/231117/p11#a231117p11)
- - [Amazon&#39;s Echo Show Black Friday Bundles Add Smarts to Your Home for Less     - CNET](https://www.cnet.com/deals/amazons-echo-show-black-friday-bundles-add-smarts-to-your-home-for-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Bin Laden Letter Is Being Weaponized by the Far-Right](https://www.wired.com/story/far-right-bin-laden-letter-to-america-conspiracies/)
+ - [Verizon Cloud Unlimited gets even more tempting with new individual plan for $14 a month](https://www.androidauthority.com/verizon-cloud-unlimited-3386642/)
+ - [Apple files legal challenge over Europe&#39;s demand for third-party app stores](https://appleinsider.com/articles/23/11/17/apple-files-legal-challenge-over-europes-demand-for-third-party-app-stores?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
