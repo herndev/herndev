@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joe Biden’s top climate adviser on how climate change will shape the US economy](https://www.theverge.com/23963681/biden-climate-adviser-climate-change-us-economy-ali-zaidi)
- - [DoggoRamps Couch Ramp Review: A Well-Built Ramp](https://www.wired.com/review/doggoramps-couch-ramp/)
- - [The Beats Studio Pro get an unmissable $180 Black Friday price drop](https://www.androidauthority.com/beats-studio-pro-black-friday-3386667/)<!-- TECH:END -->
+ - [The EU Court of Justice says Apple has filed a legal challenge to the Digital Markets Act &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231117/p15#a231117p15)
+ - [Nothing Chats First Look: iMessage on Android](https://www.wired.com/story/nothing-chats/)
+ - [Joe Biden’s top climate adviser on how climate change will shape the US economy](https://www.theverge.com/23963681/biden-climate-adviser-climate-change-us-economy-ali-zaidi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
