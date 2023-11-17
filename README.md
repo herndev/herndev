@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Xbox Black Friday Deals](https://kotaku.com/xbox-series-x-s-black-friday-2023-diablo-4-bundle-1851031357)
- - [‘Gora Dam’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23965336/gora-dam-item-weapon-locations-mw3)
- - [The Funniest Twitch Streamers You Should Watch Immediately](https://kotaku.com/funny-twitch-streamers-jynxzi-ebonix-luxie-1851032077)<!-- GAME:END -->
+ - [The Shrek kissing TikTok filter is a blight upon society](https://www.polygon.com/23966069/shrek-kissing-tiktok-filter)
+ - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
+ - [Crash Team Rumble’s Latest Cameo Makes Me Want A New Spyro Game](https://kotaku.com/crash-team-rumble-spyro-dragon-4-season-3-1851032384)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
