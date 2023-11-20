@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - ⏩ [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
- - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
+ - 💣 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
+ - ⏩ [Shadow Magic](http://9gag.com/gag/awZ29wD)
+ - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
 
 ---
 
