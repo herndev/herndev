@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
- - ⏩ [Polina](http://9gag.com/gag/aL155vM)
- - 👉 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)<!-- MEMES:END -->
+ - 💣 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - ⏩ [Why bother me?](http://9gag.com/gag/a6q66q8)
+ - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
 
 ---
 
