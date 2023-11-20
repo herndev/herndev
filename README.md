@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ready for a Fight with the For Honor Crossover in Dying Light 2 Stay Human](https://news.xbox.com/en-us/2023/11/20/for-honor-crossover-dying-light-2/)
- - [Magic: The Gathering adds even more sexy Jeff Goldblum cards](https://www.polygon.com/23965803/magic-the-gathering-mtg-secret-lair-jurassic-park-tomb-raider)
- - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)<!-- GAME:END -->
+ - [New Game Chronicles 25 Years Of Half-Life History](https://kotaku.com/half-life-new-fan-game-free-history-valve-25-years-1851035933)
+ - [The Future Of ChatGPT Just Became A Circus](https://kotaku.com/microsoft-openai-sam-altman-twitch-emmett-shear-1851035956)
+ - [Get Ready for a Fight with the For Honor Crossover in Dying Light 2 Stay Human](https://news.xbox.com/en-us/2023/11/20/for-honor-crossover-dying-light-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
