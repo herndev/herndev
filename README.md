@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [THE BOYS \ud83e\udd0c\ud83c\udffb](http://9gag.com/gag/aPg2q0n)
- - ⏩ [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 👉 [It will rain...](http://9gag.com/gag/az2wpwN)<!-- MEMES:END -->
+ - 💣 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
+ - ⏩ [It will rain...](http://9gag.com/gag/az2wpwN)
+ - 👉 [He loves his bike \ud83d\udeb3](http://9gag.com/gag/amAw4wX)<!-- MEMES:END -->
 
 ---
 
