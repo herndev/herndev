@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Division Game Has A Feature Every Game Should Steal](https://kotaku.com/the-division-2-resurgence-beta-fast-forward-cutscenes-1851036426)
- - [League of Legends’ next champion is a brooding painter with 10 spells](https://www.polygon.com/23963251/league-of-legends-hwei-new-champion-pre-season-changes-2024)
- - [Doctor Who, the Squid Game reality show, and more new TV this week](https://www.polygon.com/2023/11/20/23939441/netflix-squid-game-reality-show-doctor-who-special-new-tv)<!-- GAME:END -->
+ - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)
+ - [Super Mario RPG Sunken Ship password puzzle solution](https://www.polygon.com/guides/23969298/super-mario-rpg-sunken-ship-password-puzzle-solution-letter-order)
+ - [D&amp;D’s Deck of Many Things launch delayed until January 2024](https://www.polygon.com/23969669/dnd-dungeons-dragons-deck-of-many-things-launch-delay-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
