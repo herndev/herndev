@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arma Reforger introduces immersive military simulator cross play to Xbox](https://news.xbox.com/en-us/2023/11/20/arma-reforger-xbox-launch/)
- - [PlayStation Plus Premium Has Free Trials Of 2023’s Best And Worst Games](https://kotaku.com/playstation-ps5-plus-free-trial-baldurs-gate-3-gollum-1851035587)
- - [Black Friday is bustling with great board game deals on Amazon](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)<!-- GAME:END -->
+ - [Get Ready for a Fight with the For Honor Crossover in Dying Light 2 Stay Human](https://news.xbox.com/en-us/2023/11/20/for-honor-crossover-dying-light-2/)
+ - [Magic: The Gathering adds even more sexy Jeff Goldblum cards](https://www.polygon.com/23965803/magic-the-gathering-mtg-secret-lair-jurassic-park-tomb-raider)
+ - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
