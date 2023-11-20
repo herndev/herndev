@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto zealots lead frivolous lawsuit against &#39;Apple led cartel&#39;](https://appleinsider.com/articles/23/11/20/crypto-zealots-lead-frivolous-lawsuit-against-apple-led-cartel?utm_medium=rss)
- - [95 Percent of OpenAI Employees Threaten to Follow Sam Altman Out the Door](https://www.wired.com/story/95-percent-of-openai-employees-threaten-to-follow-sam-altman-out-the-door/)
- - [Marc Benioff says Salesforce will provide matching compensation to any researcher who has quit OpenAI and joins Salesforce&#39;s Einstein Trusted AI research team &lpar;Ben Purvis/Bloomberg&rpar;](http://www.techmeme.com/231120/p27#a231120p27)<!-- TECH:END -->
+ - [Linda Yaccarino: advertisers fleeing from X are just “temporarily paused investments”](https://www.theverge.com/2023/11/20/23969970/linda-yaccarino-memo-x-twitter-elon-musk-anti-semitism)
+ - [Apple may be planning to launch the Vision Pro in March 2024](https://www.androidauthority.com/vision-pro-release-date-3387447/)
+ - [Black Friday Beats deals: save up to 51% on Beats Studio Pro &amp; Powerbeats Pro headphones](https://appleinsider.com/articles/23/11/20/black-friday-beats-deals-save-up-to-51-on-beats-studio-pro-powerbeats-pro-headphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
