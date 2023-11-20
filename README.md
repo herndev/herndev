@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best games that are fun for the whole family](https://www.polygon.com/what-to-play/23960549/best-family-games-to-play-switch-playstation-pc)
- - [Books, movies, vinyl, and more are buy two, get one free at Target](https://www.polygon.com/23965639/target-buy-2-get-1-black-friday-deals-movies-music-books)
- - [A24’s Nicolas Cage movie Dream Scenario was originally an Adam Sandler film](https://www.polygon.com/23965605/dream-scenario-adam-sandler-nicolas-cage-alternate-casting)<!-- GAME:END -->
+ - [College Prof Uses Tears Of The Kingdom To Teach An Engineering Class](https://kotaku.com/zelda-tears-of-the-kingdom-college-engineering-class-1851032742)
+ - [10 Years Ago, Sony Redefined The Modern Console War](https://kotaku.com/10-years-ago-sony-redefined-the-modern-console-war-1851031762)
+ - [The best games that are fun for the whole family](https://www.polygon.com/what-to-play/23960549/best-family-games-to-play-switch-playstation-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
