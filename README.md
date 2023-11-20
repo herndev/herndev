@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tinder redesigns profile pages to add prompt conversation starters, basic info tags, and quizzes, and updates its app with new animations, a dark mode, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231120/p12#a231120p12)
- - [A look at OpenAI&#39;s wild weekend, as an internal debate over its future became public; investors say OpenAI still has not said why Altman was fired so abruptly &lpar;Financial Times&rpar;](http://www.techmeme.com/231120/p11#a231120p11)
- - [One of Our Favorite Video Doorbells of 2023 Has Hit Its Best Price to Date for Black Friday     - CNET](https://www.cnet.com/deals/one-of-our-favorite-video-doorbells-of-2023-has-hit-its-best-price-to-date-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI staff release a letter, signed by Ilya Sutskever and 490+ others, saying they may quit and join Sam Altman unless the board resigns and reappoints Altman &lpar;Wired&rpar;](http://www.techmeme.com/231120/p16#a231120p16)
+ - [Early iPhone 16 Pro leak shows tweaked battery design](https://appleinsider.com/articles/23/11/20/early-iphone-16-pro-leak-shows-tweaked-battery-design?utm_medium=rss)
+ - [Analyzing the Sam Altman-OpenAI saga: nonprofit issues, OpenAI giving for-profit work to Microsoft, staff exits, Altman&#39;s motivations, and the new AI landscape &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231120/p15#a231120p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
