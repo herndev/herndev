@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chicago Med season 9: Plot, cast, release window, and more](https://www.androidauthority.com/chicago-med-season-9-release-date-3382108/)
- - [Black Friday 16-inch MacBook Pro deal drives price of M3 Max, 48GB RAM spec down to $3,749](https://appleinsider.com/articles/23/11/20/black-friday-16-inch-macbook-pro-deal-drives-price-of-m3-max-48gb-ram-spec-down-to-3749?utm_medium=rss)
- - [The Anker Black Friday sale brings unbeatable prices on charging essentials](https://www.androidauthority.com/anker-black-friday-sale-3387265/)<!-- TECH:END -->
+ - [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [Galaxy A25 release date, specs, and other details revealed in big leak](https://www.androidauthority.com/galaxy-a24-details-revealed-3387284/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
