@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh boy would I](http://9gag.com/gag/ajVwvBp)
+ - 💣 [THE BOYS \ud83e\udd0c\ud83c\udffb](http://9gag.com/gag/aPg2q0n)
  - ⏩ [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
+ - 👉 [It will rain...](http://9gag.com/gag/az2wpwN)<!-- MEMES:END -->
 
 ---
 
