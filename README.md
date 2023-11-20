@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources describe how ChatGPT&#39;s success widened ideological rifts at OpenAI, and Ilya Sutskever began behaving like a spiritual leader expecting AGI&#39;s arrival &lpar;The Atlantic&rpar;](http://www.techmeme.com/231119/p16#a231119p16)
- - [Cruise co-founder and CEO Kyle Vogt resigns, a month after California&#39;s DMV suspended Cruise&#39;s permits to operate self-driving cars on public roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/231119/p15#a231119p15)
- - [Source: a number of announcements at DevDay infuriated OpenAI chief scientist Ilya Sutskever, like custom GPTs that OpenAI has said may one day run autonomously &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p14#a231119p14)<!-- TECH:END -->
+ - [Source: OpenAI board members seek to hire their own CEO to succeed Sam Altman; sources: Mira Murati plans to rehire Altman and Greg Brockman in some capacity &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p17#a231119p17)
+ - [The best early deals of Black Friday 2023: Big sales underway](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [This is when you can expect to buy the new Samsung Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-pre-orders-sales-3387081/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
