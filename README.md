@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [Fortnite, Grand Theft Auto VI, and the fate of AAA games](https://www.theverge.com/23969002/fortnite-gta-vi-aaa-games-future-podcast)
- - [CoinDesk bought by crypto exchange Bullish](https://www.theverge.com/2023/11/20/23968952/coindesk-bullish-crypto-exchange-acquisition)<!-- TECH:END -->
+ - [Netflix’s Scott Pilgrim Takes Off isn’t an adaptation — it’s a remix](https://www.theverge.com/23963700/scott-pilgrim-takes-off-review-netflix)
+ - [Can Apple Vision Pro reinvent the computer, again?](https://appleinsider.com/articles/23/11/20/can-apple-vision-pro-reinvent-the-computer-again?utm_medium=rss)
+ - [Jackery Knocks Up to $1,600 Off Solar Generators and Bundles for Black Friday     - CNET](https://www.cnet.com/deals/jackery-knocks-up-to-1600-off-solar-generators-and-bundles-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
