@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
- - ⏩ [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 👉 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)<!-- MEMES:END -->
+ - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - ⏩ [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 👉 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)<!-- MEMES:END -->
 
 ---
 
