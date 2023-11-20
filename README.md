@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [See the rise of the New England Patriots in &#39;The Dynasty&#39; on Apple TV+](https://appleinsider.com/articles/23/11/20/see-the-rise-of-the-new-england-patriots-in-the-dynasty-on-apple-tv?utm_medium=rss)
- - [A look at the AI Security Summit, an invite-only event hosted by Scale AI to discuss AI&#39;s security issues, with 100+ executives, VCs, and officials attending &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231120/p9#a231120p9)
- - [How to clear the cache in Photoshop for macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-the-cache-in-photoshop-for-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Tinder redesigns profile pages to add prompt conversation starters, basic info tags, and quizzes, and updates its app with new animations, a dark mode, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231120/p12#a231120p12)
+ - [A look at OpenAI&#39;s wild weekend, as an internal debate over its future became public; investors say OpenAI still has not said why Altman was fired so abruptly &lpar;Financial Times&rpar;](http://www.techmeme.com/231120/p11#a231120p11)
+ - [One of Our Favorite Video Doorbells of 2023 Has Hit Its Best Price to Date for Black Friday     - CNET](https://www.cnet.com/deals/one-of-our-favorite-video-doorbells-of-2023-has-hit-its-best-price-to-date-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
