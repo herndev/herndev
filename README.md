@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
  - ⏩ [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)
- - 👉 [The interview](http://9gag.com/gag/az2wzeK)<!-- MEMES:END -->
+ - 👉 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)<!-- MEMES:END -->
 
 ---
 
