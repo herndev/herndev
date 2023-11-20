@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo Legion Go review: nice screen, detachable controllers, and FPS mode that simulates a mouse but using Windows is frustrating and terrible battery life &lpar;Eric Ravenscraft/Wired&rpar;](http://www.techmeme.com/231120/p5#a231120p5)
- - [OpenAI’s new CEO is Twitch co-founder Emmett Shear](https://www.theverge.com/2023/11/20/23968848/openai-new-ceo-emmett-shear-twitch-co-founder-hiring)
- - [OpenAI&#39;s board &quot;stands by its decision as the only path to advance and defend the mission of OpenAI&quot; and criticizes &quot;Sam&#39;s behavior and lack of transparency&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231120/p4#a231120p4)<!-- TECH:END -->
+ - [A profile of Beryl Tomay, a lifelong Amazon executive who made two early career mistakes that she now eagerly discusses, as she leads Amazon&#39;s &quot;last mile&quot; unit &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231120/p7#a231120p7)
+ - [Adobe’s $20 billion bid for Figma in peril after EU warning](https://www.theverge.com/2023/11/20/23961096/adobe-figma-acquisition-antitrust-eu-statement-of-objections)
+ - [Xiaomi reports Q3 revenue up 0.6% YoY to ~$9.9B, its first gain in almost two years, and a ~$684M net income, both above est., buoyed by rising smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p6#a231120p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
