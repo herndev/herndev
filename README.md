@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)
- - [Super Mario RPG Sunken Ship password puzzle solution](https://www.polygon.com/guides/23969298/super-mario-rpg-sunken-ship-password-puzzle-solution-letter-order)
- - [D&amp;D’s Deck of Many Things launch delayed until January 2024](https://www.polygon.com/23969669/dnd-dungeons-dragons-deck-of-many-things-launch-delay-release-date-price)<!-- GAME:END -->
+ - [Modern Warfare III Is Pulling The Hated ‘Groot’ Skin, For Now](https://kotaku.com/cod-modern-warfare-3-groot-skin-removed-update-1851036898)
+ - [The Future Of ChatGPT Just Became A Circus](https://kotaku.com/microsoft-openai-sam-altman-twitch-emmett-shear-1851035956)
+ - [The Best Nintendo Switch Black Friday Deals](https://kotaku.com/mario-kart-nintendo-switch-bundle-black-friday-2023-1851036743)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
