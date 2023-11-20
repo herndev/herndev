@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
- - ⏩ [Shadow Magic](http://9gag.com/gag/awZ29wD)
- - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
+ - 💣 [Honk if you worship the devil](http://9gag.com/gag/aVb56eP)
+ - ⏩ [I don&#39;t really care, but thanks to Google for remembering the International Men&#39;s Day once again](http://9gag.com/gag/aKE5MvN)
+ - 👉 [The race of the century](http://9gag.com/gag/anzwZLE)<!-- MEMES:END -->
 
 ---
 
