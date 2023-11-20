@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 12 is launching a month earlier than the OnePlus 11](https://www.androidauthority.com/oneplus-12-launch-date-3387146/)
- - [Breaking: OpenAI’s ex-CEO Sam Altman joins Microsoft](https://www.androidauthority.com/openai-ex-ceo-joins-microsoft-3387144/)
- - [Satya Nadella says Sam Altman, Greg Brockman, and OpenAI staff will join Microsoft&#39;s new &quot;advanced AI research team&quot; and Microsoft remains committed to OpenAI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231120/p3#a231120p3)<!-- TECH:END -->
+ - [Lenovo Legion Go review: nice screen, detachable controllers, and FPS mode that simulates a mouse but using Windows is frustrating and terrible battery life &lpar;Eric Ravenscraft/Wired&rpar;](http://www.techmeme.com/231120/p5#a231120p5)
+ - [OpenAI’s new CEO is Twitch co-founder Emmett Shear](https://www.theverge.com/2023/11/20/23968848/openai-new-ceo-emmett-shear-twitch-co-founder-hiring)
+ - [OpenAI&#39;s board &quot;stands by its decision as the only path to advance and defend the mission of OpenAI&quot; and criticizes &quot;Sam&#39;s behavior and lack of transparency&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231120/p4#a231120p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
