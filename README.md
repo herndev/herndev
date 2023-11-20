@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Game Chronicles 25 Years Of Half-Life History](https://kotaku.com/half-life-new-fan-game-free-history-valve-25-years-1851035933)
- - [The Future Of ChatGPT Just Became A Circus](https://kotaku.com/microsoft-openai-sam-altman-twitch-emmett-shear-1851035956)
- - [Get Ready for a Fight with the For Honor Crossover in Dying Light 2 Stay Human](https://news.xbox.com/en-us/2023/11/20/for-honor-crossover-dying-light-2/)<!-- GAME:END -->
+ - [Hunger Games’ director feels bad about his 45-minute song pitch for Olivia Rodrigo](https://www.polygon.com/23969468/hunger-games-ballad-of-songbirds-snakes-olivia-rodrigo-music-video)
+ - [Exclusive first details on Brandon Sanderson’s Stormlight tabletop RPG](https://www.polygon.com/tabletop-games/23960557/brandon-sanderson-stormlight-rpg-first-details-release-date-price-kickstarter)
+ - [The Week In Games: Celestial Journeys And Deadly Dinos](https://kotaku.com/november-games-this-week-jurassic-park-worldless-1851031342)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
