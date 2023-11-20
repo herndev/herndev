@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [College Prof Uses Tears Of The Kingdom To Teach An Engineering Class](https://kotaku.com/zelda-tears-of-the-kingdom-college-engineering-class-1851032742)
- - [10 Years Ago, Sony Redefined The Modern Console War](https://kotaku.com/10-years-ago-sony-redefined-the-modern-console-war-1851031762)
- - [The best games that are fun for the whole family](https://www.polygon.com/what-to-play/23960549/best-family-games-to-play-switch-playstation-pc)<!-- GAME:END -->
+ - [Arma Reforger introduces immersive military simulator cross play to Xbox](https://news.xbox.com/en-us/2023/11/20/arma-reforger-xbox-launch/)
+ - [PlayStation Plus Premium Has Free Trials Of 2023’s Best And Worst Games](https://kotaku.com/playstation-ps5-plus-free-trial-baldurs-gate-3-gollum-1851035587)
+ - [Black Friday is bustling with great board game deals on Amazon](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
