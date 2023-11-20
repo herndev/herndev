@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - ⏩ [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 👉 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)<!-- MEMES:END -->
+ - 💣 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
+ - ⏩ [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
 
 ---
 
