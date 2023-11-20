@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - ⏩ [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
+ - 💣 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - ⏩ [Polina](http://9gag.com/gag/aL155vM)
  - 👉 [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)<!-- MEMES:END -->
 
 ---
