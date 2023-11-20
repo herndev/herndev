@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mira Murati told staff in a companywide meeting that Satya Nadella expressed &quot;utmost confidence&quot; in OpenAI following the firing of Sam Altman &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231117/p21#a231117p21)
- - [How to save up to $330 on your new M3 MacBook Pro with AppleCare](https://appleinsider.com/articles/23/11/15/how-to-save-up-to-330-on-your-new-m3-macbook-pro-with-applecare?utm_medium=rss)
- - [Elon Musk May Have Just Signed X’s Death Warrant](https://www.wired.com/story/x-elon-musk-antisemitism-advertisers/)<!-- TECH:END -->
+ - [Valve makes Half-Life free on macOS for 25th anniversary](https://appleinsider.com/articles/23/11/19/valve-makes-half-life-free-on-macos-for-25th-anniversary?utm_medium=rss)
+ - [Daily deals Nov. 19: AirPods Pro USB-C $189, M2 MacBook Pro $1,599, AirPods Max $449, more](https://appleinsider.com/articles/23/11/19/daily-deals-nov-19-airpods-pro-usb-c-189-m2-macbook-pro-1599-airpods-max-449-more?utm_medium=rss)
+ - [A look at a Paris lab where Apple tests hardware security, and an interview with Apple&#39;s head of security engineering about Lockdown Mode, app sideloading, more &lpar;Andrew Griffin/The Independent&rpar;](http://www.techmeme.com/231119/p11#a231119p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
