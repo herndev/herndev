@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - ⏩ [It will rain...](http://9gag.com/gag/az2wpwN)
- - 👉 [He loves his bike \ud83d\udeb3](http://9gag.com/gag/amAw4wX)<!-- MEMES:END -->
+ - 💣 [Can i pls have some funny memes from your collections?](http://9gag.com/gag/a2Kp3Np)
+ - ⏩ [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
 
 ---
 
