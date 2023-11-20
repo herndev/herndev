@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)
- - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [Galaxy A25 release date, specs, and other details revealed in big leak](https://www.androidauthority.com/galaxy-a24-details-revealed-3387284/)<!-- TECH:END -->
+ - [Cruise co-founder and Chief Product Officer Daniel Kan resigns, a day after CEO Kyle Vogt quit &lpar;Reuters&rpar;](http://www.techmeme.com/231120/p24#a231120p24)
+ - [Ilya Sutskever and 700+ out of ~770 OpenAI staffers sign a letter saying say they may quit and join Sam Altman unless the board resigns and reinstates Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p23#a231120p23)
+ - [Sources: Sam Altman&#39;s move to Microsoft is not a done deal; he and Brockman are open to returning to OpenAI if the remaining board members who fired him resign &lpar;The Verge&rpar;](http://www.techmeme.com/231120/p22#a231120p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
