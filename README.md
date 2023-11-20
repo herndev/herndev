@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
- - ⏩ [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
+ - 💣 [Glorious](http://9gag.com/gag/ap9wwjp)
+ - ⏩ [Will have to change underwear](http://9gag.com/gag/az2wzXN)
+ - 👉 [When she forgot to handshake and almost died](http://9gag.com/gag/a2KppxZ)<!-- MEMES:END -->
 
 ---
 
