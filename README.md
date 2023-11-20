@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honk if you worship the devil](http://9gag.com/gag/aVb56eP)
- - ⏩ [I don&#39;t really care, but thanks to Google for remembering the International Men&#39;s Day once again](http://9gag.com/gag/aKE5MvN)
- - 👉 [The race of the century](http://9gag.com/gag/anzwZLE)<!-- MEMES:END -->
+ - 💣 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
+ - ⏩ [Outstanding move](http://9gag.com/gag/aZD5YAQ)
+ - 👉 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)<!-- MEMES:END -->
 
 ---
 
