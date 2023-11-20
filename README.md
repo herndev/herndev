@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Walking Dead Game Looks Uh… Not Great!](https://kotaku.com/walking-dead-destinies-new-game-bad-kong-game-mill-1851032588)
- - [Genshin Impact ‘The Wild Fairy of Erinnyes’ walkthrough](https://www.polygon.com/genshin-impact-guides/23966130/wild-fairy-erinnyes-walkthrough-reveal-altars-secrets)
- - [The Shrek kissing TikTok filter is a blight upon society](https://www.polygon.com/23966069/shrek-kissing-tiktok-filter)<!-- GAME:END -->
+ - [Books, movies, vinyl, and more are buy two, get one free at Target](https://www.polygon.com/23965639/target-buy-2-get-1-black-friday-deals-movies-music-books)
+ - [A24’s Nicolas Cage movie Dream Scenario was originally an Adam Sandler film](https://www.polygon.com/23965605/dream-scenario-adam-sandler-nicolas-cage-alternate-casting)
+ - [Railway builder Station to Station harnesses the joy of minimalism](https://www.polygon.com/23965690/station-to-station-impression-puzzle-train-railway-sim-choo-choooooo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
