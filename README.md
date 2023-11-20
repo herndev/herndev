@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
- - ⏩ [Outstanding move](http://9gag.com/gag/aZD5YAQ)
+ - 💣 [Outstanding move](http://9gag.com/gag/aZD5YAQ)
+ - ⏩ [He had me in the first half, not gonna lie](http://9gag.com/gag/a6q66KL)
  - 👉 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)<!-- MEMES:END -->
 
 ---
