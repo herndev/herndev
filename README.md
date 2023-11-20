@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - ⏩ [Wait what!?](http://9gag.com/gag/armwE0V)
- - 👉 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)<!-- MEMES:END -->
+ - 💣 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
+ - ⏩ [Polina](http://9gag.com/gag/aL155vM)
+ - 👉 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)<!-- MEMES:END -->
 
 ---
 
