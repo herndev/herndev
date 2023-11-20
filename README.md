@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Glorious](http://9gag.com/gag/ap9wwjp)
- - ⏩ [Will have to change underwear](http://9gag.com/gag/az2wzXN)
- - 👉 [When she forgot to handshake and almost died](http://9gag.com/gag/a2KppxZ)<!-- MEMES:END -->
+ - ⏩ [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
+ - 👉 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)<!-- MEMES:END -->
 
 ---
 
