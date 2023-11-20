@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - ⏩ [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
- - 👉 [Glorious](http://9gag.com/gag/ap9wwjp)<!-- MEMES:END -->
+ - 💣 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - ⏩ [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)
+ - 👉 [The interview](http://9gag.com/gag/az2wzeK)<!-- MEMES:END -->
 
 ---
 
