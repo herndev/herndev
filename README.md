@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glorious](http://9gag.com/gag/ap9wwjp)
- - ⏩ [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
- - 👉 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)<!-- MEMES:END -->
+ - 💣 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - ⏩ [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 👉 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)<!-- MEMES:END -->
 
 ---
 
