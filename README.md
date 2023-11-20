@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare III Is Pulling The Hated ‘Groot’ Skin, For Now](https://kotaku.com/cod-modern-warfare-3-groot-skin-removed-update-1851036898)
- - [The Future Of ChatGPT Just Became A Circus](https://kotaku.com/microsoft-openai-sam-altman-twitch-emmett-shear-1851035956)
- - [The Best Nintendo Switch Black Friday Deals](https://kotaku.com/mario-kart-nintendo-switch-bundle-black-friday-2023-1851036743)<!-- GAME:END -->
+ - [Controversial ‘pay-to-win’ Gaia skin will be temporarily removed from Modern Warfare 3](https://www.polygon.com/23970024/modern-warfare-3-gaia-skin-removed-temporarily)
+ - [Kotaku Asks: How Soon Is Too Soon For A Video Game Remaster Or Remake?](https://kotaku.com/the-last-of-us-part-ii-2-remaster-remake-ps5-tlou-1851036983)
+ - [Modern Warfare III Is Pulling The Hated ‘Groot’ Skin, For Now](https://kotaku.com/cod-modern-warfare-3-groot-skin-removed-update-1851036898)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
