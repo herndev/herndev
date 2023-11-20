@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI staff release a letter, signed by Ilya Sutskever and 490+ others, saying they may quit and join Sam Altman unless the board resigns and reappoints Altman &lpar;Wired&rpar;](http://www.techmeme.com/231120/p16#a231120p16)
- - [Early iPhone 16 Pro leak shows tweaked battery design](https://appleinsider.com/articles/23/11/20/early-iphone-16-pro-leak-shows-tweaked-battery-design?utm_medium=rss)
- - [Analyzing the Sam Altman-OpenAI saga: nonprofit issues, OpenAI giving for-profit work to Microsoft, staff exits, Altman&#39;s motivations, and the new AI landscape &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231120/p15#a231120p15)<!-- TECH:END -->
+ - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
+ - [Fortnite, Grand Theft Auto VI, and the fate of AAA games](https://www.theverge.com/23969002/fortnite-gta-vi-aaa-games-future-podcast)
+ - [CoinDesk bought by crypto exchange Bullish](https://www.theverge.com/2023/11/20/23968952/coindesk-bullish-crypto-exchange-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
