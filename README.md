@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is once again set to disappoint with iPhone 16, 16 Plus displays](https://www.androidauthority.com/apple-iphone-16-display-specs-3387127/)
- - [The EU Wants to Fix Gig Work. Uber Has Its Own Ideas](https://www.wired.com/story/eu-gig-workers-law/)
- - [OpenAI has a new CEO, and even ChatGPT couldn’t have come up with all this drama](https://www.androidauthority.com/openai-new-ceo-emmett-shear-3387117/)<!-- TECH:END -->
+ - [The OnePlus 12 is launching a month earlier than the OnePlus 11](https://www.androidauthority.com/oneplus-12-launch-date-3387146/)
+ - [Breaking: OpenAI’s ex-CEO Sam Altman joins Microsoft](https://www.androidauthority.com/openai-ex-ceo-joins-microsoft-3387144/)
+ - [Satya Nadella says Sam Altman, Greg Brockman, and OpenAI staff will join Microsoft&#39;s new &quot;advanced AI research team&quot; and Microsoft remains committed to OpenAI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231120/p3#a231120p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
