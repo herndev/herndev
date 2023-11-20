@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can i pls have some funny memes from your collections?](http://9gag.com/gag/a2Kp3Np)
- - ⏩ [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 💣 [Pigeon playing a\u2026.. prank\u2026..on mummy falcon?](http://9gag.com/gag/aPg2bzQ)
+ - ⏩ [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
  - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
 
 ---
