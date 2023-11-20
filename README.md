@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hunger Games’ director feels bad about his 45-minute song pitch for Olivia Rodrigo](https://www.polygon.com/23969468/hunger-games-ballad-of-songbirds-snakes-olivia-rodrigo-music-video)
- - [Exclusive first details on Brandon Sanderson’s Stormlight tabletop RPG](https://www.polygon.com/tabletop-games/23960557/brandon-sanderson-stormlight-rpg-first-details-release-date-price-kickstarter)
- - [The Week In Games: Celestial Journeys And Deadly Dinos](https://kotaku.com/november-games-this-week-jurassic-park-worldless-1851031342)<!-- GAME:END -->
+ - [The New Division Game Has A Feature Every Game Should Steal](https://kotaku.com/the-division-2-resurgence-beta-fast-forward-cutscenes-1851036426)
+ - [League of Legends’ next champion is a brooding painter with 10 spells](https://www.polygon.com/23963251/league-of-legends-hwei-new-champion-pre-season-changes-2024)
+ - [Doctor Who, the Squid Game reality show, and more new TV this week](https://www.polygon.com/2023/11/20/23939441/netflix-squid-game-reality-show-doctor-who-special-new-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
