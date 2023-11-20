@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI board members seek to hire their own CEO to succeed Sam Altman; sources: Mira Murati plans to rehire Altman and Greg Brockman in some capacity &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p17#a231119p17)
- - [The best early deals of Black Friday 2023: Big sales underway](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [This is when you can expect to buy the new Samsung Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-pre-orders-sales-3387081/)<!-- TECH:END -->
+ - [Google Maps has changed its colors and people are upset](https://www.androidauthority.com/google-maps-color-change-3387097/)
+ - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the creator of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+ - [The deal to bring Sam Altman back to OpenAI has fallen apart](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
