@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cruise co-founder and Chief Product Officer Daniel Kan resigns, a day after CEO Kyle Vogt quit &lpar;Reuters&rpar;](http://www.techmeme.com/231120/p24#a231120p24)
- - [Ilya Sutskever and 700+ out of ~770 OpenAI staffers sign a letter saying say they may quit and join Sam Altman unless the board resigns and reinstates Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p23#a231120p23)
- - [Sources: Sam Altman&#39;s move to Microsoft is not a done deal; he and Brockman are open to returning to OpenAI if the remaining board members who fired him resign &lpar;The Verge&rpar;](http://www.techmeme.com/231120/p22#a231120p22)<!-- TECH:END -->
+ - [Amazon&#39;s Black Friday Apple sale offers sizzling hot deals on M3 MacBook, Apple Watch, AirPods](https://appleinsider.com/articles/23/11/20/amazons-black-friday-apple-sale-offers-sizzling-hot-deals-on-m3-macbook-apple-watch-airpods?utm_medium=rss)
+ - [A secret Google deal let Spotify completely bypass Android’s app store fees](https://www.theverge.com/2023/11/20/23969690/google-spotify-android-billing-commission-secret-deal)
+ - [OpenAI&#39;s new interim CEO Emmett Shear has made some head-turning posts on X, from slowing down AI development to theories about women having rape fantasies &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/231120/p25#a231120p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
