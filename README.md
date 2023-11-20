@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Nov. 20: AirPods Max for $370, Apple Watch Series 9 $329, LG 38-inch Thunderbolt 3 monitor $897, more](https://appleinsider.com/articles/23/11/20/daily-deals-nov-20-airpods-max-for-370-apple-watch-series-9-329-lg-38-inch-thunderbolt-3-monitor-897-more?utm_medium=rss)
- - [Amazon’s offering free courses on generative AI](https://www.theverge.com/2023/11/20/23969060/amazon-aws-generative-ai-ready-free-certification-courses)
- - [Apple says there’s a ‘great misunderstanding’ about sideloading iPhones](https://www.androidauthority.com/iphone-sideloading-misunderstanding-3387235/)<!-- TECH:END -->
+ - [Chicago Med season 9: Plot, cast, release window, and more](https://www.androidauthority.com/chicago-med-season-9-release-date-3382108/)
+ - [Black Friday 16-inch MacBook Pro deal drives price of M3 Max, 48GB RAM spec down to $3,749](https://appleinsider.com/articles/23/11/20/black-friday-16-inch-macbook-pro-deal-drives-price-of-m3-max-48gb-ram-spec-down-to-3749?utm_medium=rss)
+ - [The Anker Black Friday sale brings unbeatable prices on charging essentials](https://www.androidauthority.com/anker-black-friday-sale-3387265/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
