@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve makes Half-Life free on macOS for 25th anniversary](https://appleinsider.com/articles/23/11/19/valve-makes-half-life-free-on-macos-for-25th-anniversary?utm_medium=rss)
- - [Daily deals Nov. 19: AirPods Pro USB-C $189, M2 MacBook Pro $1,599, AirPods Max $449, more](https://appleinsider.com/articles/23/11/19/daily-deals-nov-19-airpods-pro-usb-c-189-m2-macbook-pro-1599-airpods-max-449-more?utm_medium=rss)
- - [A look at a Paris lab where Apple tests hardware security, and an interview with Apple&#39;s head of security engineering about Lockdown Mode, app sideloading, more &lpar;Andrew Griffin/The Independent&rpar;](http://www.techmeme.com/231119/p11#a231119p11)<!-- TECH:END -->
+ - [SpaceX’s new Starlink satellite internet terminal has a kickstand](https://www.theverge.com/2023/11/19/23968395/spacex-starlink-satellite-internet-terminal-kickstand-improved-fov-ip67-weather-rating)
+ - [Optus CEO Kelly Bayer Rosmarin resigns, after the Australian telco&#39;s crippling nationwide outage that began on Nov. 8; CFO Michael Venter to act as interim CEO &lpar;Asha Barbaschow/Gizmodo Australia&rpar;](http://www.techmeme.com/231119/p13#a231119p13)
+ - [Amazon&#39;s MacBook Air with AppleCare bundles start at $888, a Black Friday steal](https://appleinsider.com/articles/23/11/20/amazons-macbook-air-with-applecare-bundles-start-at-888-a-black-friday-steal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
