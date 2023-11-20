@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Books, movies, vinyl, and more are buy two, get one free at Target](https://www.polygon.com/23965639/target-buy-2-get-1-black-friday-deals-movies-music-books)
- - [A24’s Nicolas Cage movie Dream Scenario was originally an Adam Sandler film](https://www.polygon.com/23965605/dream-scenario-adam-sandler-nicolas-cage-alternate-casting)
- - [Railway builder Station to Station harnesses the joy of minimalism](https://www.polygon.com/23965690/station-to-station-impression-puzzle-train-railway-sim-choo-choooooo)<!-- GAME:END -->
+ - [Kotaku’s Biggest Gaming Culture News For The Week November 18, 2023](https://kotaku.com/kotaku-s-biggest-gaming-culture-news-for-the-week-novem-1851032502)
+ - [Kotaku’s Opinions For The Week November 18, 2023](https://kotaku.com/kotaku-s-opinions-for-the-week-november-18-2023-1851032509)
+ - [The Last Of Us Part II Remastered Is Real, Out Next Year [Update: Full Details]](https://kotaku.com/last-of-us-part-2-remastered-ii-leak-trailer-2024-ps5-1851032694)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
