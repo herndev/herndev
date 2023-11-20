@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI has a new CEO, and even ChatGPT couldn’t have come up with all this drama](https://www.androidauthority.com/openai-new-ceo-emmett-shear-3387117/)
- - [Source: dozens of OpenAI employees internally announced they are quitting after Ilya Sutskever told them that Sam Altman won&#39;t return &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231120/p2#a231120p2)
- - [Kyle Vogt, CEO of Robotaxi Developer Cruise, Resigns As Questions Linger Over Grisly Crash](https://www.wired.com/story/kyle-vogt-ceo-robotaxi-cruise-resigns-grisly-crash/)<!-- TECH:END -->
+ - [Apple is once again set to disappoint with iPhone 16, 16 Plus displays](https://www.androidauthority.com/apple-iphone-16-display-specs-3387127/)
+ - [The EU Wants to Fix Gig Work. Uber Has Its Own Ideas](https://www.wired.com/story/eu-gig-workers-law/)
+ - [OpenAI has a new CEO, and even ChatGPT couldn’t have come up with all this drama](https://www.androidauthority.com/openai-new-ceo-emmett-shear-3387117/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
