@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - ⏩ [Why bother me?](http://9gag.com/gag/a6q66q8)
- - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
+ - ⏩ [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
+ - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
 
 ---
 
