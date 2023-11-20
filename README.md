@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - ⏩ [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)
- - 👉 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)<!-- MEMES:END -->
+ - 💣 [Why bother me?](http://9gag.com/gag/a6q66q8)
+ - ⏩ [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
 
 ---
 
