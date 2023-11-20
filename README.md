@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps has changed its colors and people are upset](https://www.androidauthority.com/google-maps-color-change-3387097/)
- - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the creator of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
- - [The deal to bring Sam Altman back to OpenAI has fallen apart](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)<!-- TECH:END -->
+ - [OpenAI has a new CEO, and even ChatGPT couldn’t have come up with all this drama](https://www.androidauthority.com/openai-new-ceo-emmett-shear-3387117/)
+ - [Source: dozens of OpenAI employees internally announced they are quitting after Ilya Sutskever told them that Sam Altman won&#39;t return &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231120/p2#a231120p2)
+ - [Kyle Vogt, CEO of Robotaxi Developer Cruise, Resigns As Questions Linger Over Grisly Crash](https://www.wired.com/story/kyle-vogt-ceo-robotaxi-cruise-resigns-grisly-crash/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
