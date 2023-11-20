@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Beryl Tomay, a lifelong Amazon executive who made two early career mistakes that she now eagerly discusses, as she leads Amazon&#39;s &quot;last mile&quot; unit &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231120/p7#a231120p7)
- - [Adobe’s $20 billion bid for Figma in peril after EU warning](https://www.theverge.com/2023/11/20/23961096/adobe-figma-acquisition-antitrust-eu-statement-of-objections)
- - [Xiaomi reports Q3 revenue up 0.6% YoY to ~$9.9B, its first gain in almost two years, and a ~$684M net income, both above est., buoyed by rising smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p6#a231120p6)<!-- TECH:END -->
+ - [See the rise of the New England Patriots in &#39;The Dynasty&#39; on Apple TV+](https://appleinsider.com/articles/23/11/20/see-the-rise-of-the-new-england-patriots-in-the-dynasty-on-apple-tv?utm_medium=rss)
+ - [A look at the AI Security Summit, an invite-only event hosted by Scale AI to discuss AI&#39;s security issues, with 100+ executives, VCs, and officials attending &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231120/p9#a231120p9)
+ - [How to clear the cache in Photoshop for macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-the-cache-in-photoshop-for-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
