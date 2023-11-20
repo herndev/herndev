@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Scott Pilgrim Takes Off isn’t an adaptation — it’s a remix](https://www.theverge.com/23963700/scott-pilgrim-takes-off-review-netflix)
- - [Can Apple Vision Pro reinvent the computer, again?](https://appleinsider.com/articles/23/11/20/can-apple-vision-pro-reinvent-the-computer-again?utm_medium=rss)
- - [Jackery Knocks Up to $1,600 Off Solar Generators and Bundles for Black Friday     - CNET](https://www.cnet.com/deals/jackery-knocks-up-to-1600-off-solar-generators-and-bundles-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Nov. 20: AirPods Max for $370, Apple Watch Series 9 $329, LG 38-inch Thunderbolt 3 monitor $897, more](https://appleinsider.com/articles/23/11/20/daily-deals-nov-20-airpods-max-for-370-apple-watch-series-9-329-lg-38-inch-thunderbolt-3-monitor-897-more?utm_medium=rss)
+ - [Amazon’s offering free courses on generative AI](https://www.theverge.com/2023/11/20/23969060/amazon-aws-generative-ai-ready-free-certification-courses)
+ - [Apple says there’s a ‘great misunderstanding’ about sideloading iPhones](https://www.androidauthority.com/iphone-sideloading-misunderstanding-3387235/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
