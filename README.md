@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - ⏩ [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
+ - 💣 [Oh boy would I](http://9gag.com/gag/ajVwvBp)
+ - ⏩ [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
+ - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
 
 ---
 
