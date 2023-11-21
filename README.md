@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD Ryzen Threadripper 7000 series review: vastly superior to the 3000 series, and the 7980X is better and cheaper than Intel&#39;s Sapphire Rapids Xeon W9-3495X &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231121/p7#a231121p7)
- - [Pixel 8 users are reporting ‘bumps’ and ‘ripples’ forming on the display](https://www.androidauthority.com/pixel-8-display-bumps-3387522/)
- - [Mid-range phones will get generative AI thanks to this new chipset](https://www.androidauthority.com/mediatek-dimensity-8300-3386430/)<!-- TECH:END -->
+ - [An interview with Carl Pei and lead designers at Nothing, which marked its third anniversary in October, on the design process, US&#39; smartphone market, and more &lpar;James Pero/Inverse&rpar;](http://www.techmeme.com/231121/p8#a231121p8)
+ - [Braun: Designed to Keep is a book worth holding onto](https://www.theverge.com/23966605/braun-designed-to-keep-book-review-klaus-kemp)
+ - [Here&#39;s How to Prepare for 2023&#39;s Black Friday and Cyber Monday     - CNET](https://www.cnet.com/tech/heres-how-to-prepare-for-2023s-black-friday-and-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
