@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - ⏩ [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 👉 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)<!-- MEMES:END -->
+ - 💣 [When you have some serious OCD](http://9gag.com/gag/adPwm7V)
+ - ⏩ [One of the many migrants arriving daily in Italy. `Water is not good, food is not good, hotel is not good! We haven&#39;t received any pocket money for three months!`. These people see Europe as an all-inclusive buffet. Meanwhile more and more Italians are relying on food banks.](http://9gag.com/gag/avQwNbO)
+ - 👉 [Little shower for little Ferret](http://9gag.com/gag/aQE501e)<!-- MEMES:END -->
 
 ---
 
