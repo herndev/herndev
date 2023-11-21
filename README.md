@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Linda Yaccarino: advertisers fleeing from X are just “temporarily paused investments”](https://www.theverge.com/2023/11/20/23969970/linda-yaccarino-memo-x-twitter-elon-musk-anti-semitism)
- - [Apple may be planning to launch the Vision Pro in March 2024](https://www.androidauthority.com/vision-pro-release-date-3387447/)
- - [Black Friday Beats deals: save up to 51% on Beats Studio Pro &amp; Powerbeats Pro headphones](https://appleinsider.com/articles/23/11/20/black-friday-beats-deals-save-up-to-51-on-beats-studio-pro-powerbeats-pro-headphones?utm_medium=rss)<!-- TECH:END -->
+ - [Is Sam Altman joining Microsoft? Satya Nadella doesn’t seem to know](https://www.theverge.com/2023/11/20/23970100/sam-altman-microsoft-openai-satya-nadella-interview)
+ - [Sources: OpenAI&#39;s board offered the interim CEO role to former GitHub CEO Nat Friedman and Scale AI CEO Alex Wang, before Emmett Shear accepted it &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231120/p32#a231120p32)
+ - [Kindle Scribe vs reMarkable 2: Which should you buy?](https://www.androidauthority.com/kindle-scribe-vs-remarkable-2-3387255/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
