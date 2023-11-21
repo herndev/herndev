@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - ⏩ [That door close tho](http://9gag.com/gag/ay2wjbV)
- - 👉 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)<!-- MEMES:END -->
+ - ⏩ [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
+ - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
 
 ---
 
