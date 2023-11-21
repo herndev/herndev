@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google was this close to buying out Fortnite creator](https://www.androidauthority.com/google-epic-games-3387703/)
- - [Court docs: Binance&#39;s Changpeng Zhao to plead guilty to federal charges and step down as part of a ~$4B DOJ settlement; the DOJ suggests the court fine him $50M &lpar;CNBC&rpar;](http://www.techmeme.com/231121/p37#a231121p37)
- - [Sources: Sonos to make a long-awaited push into headphones with a $400 model coming as early as April, is working on a video service and streaming device, more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231121/p36#a231121p36)<!-- TECH:END -->
+ - [Galaxy Z Fold 5 and Flip 5 get stable Android 14 update](https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-6-3387727/)
+ - [Deeply questionable rumor claims 14.1-inch iPad Pro arriving in 2024](https://appleinsider.com/articles/23/11/21/deeply-questionable-rumor-claims-141-inch-ipad-pro-arriving-in-2024?utm_medium=rss)
+ - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
