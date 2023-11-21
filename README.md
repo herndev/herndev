@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD Ryzen Threadripper 7000 series review: vastly superior to the 3000 series, and the 7980X is better and cheaper than Intel&#39;s Sapphire Rapids Xeon W9-3495X &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231121/p7#a231121p7)
  - [Pixel 8 users are reporting ‘bumps’ and ‘ripples’ forming on the display](https://www.androidauthority.com/pixel-8-display-bumps-3387522/)
- - [Mid-range phones will get generative AI thanks to this new chipset](https://www.androidauthority.com/mediatek-dimensity-8300-3386430/)
- - [CISA debuts a pilot program offering &quot;cybersecurity shared services&quot; to non-federal critical infrastructure entities in healthcare, education, and other sectors &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231121/p6#a231121p6)<!-- TECH:END -->
+ - [Mid-range phones will get generative AI thanks to this new chipset](https://www.androidauthority.com/mediatek-dimensity-8300-3386430/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
