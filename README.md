@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
- - ⏩ [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - 💣 [The most peaceful and kind conversation with McDonald&#39;s employee to ever exist](http://9gag.com/gag/aoKwb4g)
+ - ⏩ [I have a lighter if you want...](http://9gag.com/gag/aKE5RM1)
  - 👉 [Mass looting of a Nike store. This is unsustainable. It\u2019s only a matter of time before these companies just leave these areas. They will cry \u201cRaCiSm!!!\u201d when it happens.](http://9gag.com/gag/aWG5wGK)<!-- MEMES:END -->
 
 ---
