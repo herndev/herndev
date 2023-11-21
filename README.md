@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s most affordable upcoming A-series phone just leaked entirely](https://www.androidauthority.com/samsung-galaxy-a15-5g-renders-leak-3387510/)
- - [Sources: TSMC plans to build a manufacturing plant in the Japanese prefecture of Kumamoto, its third in the country, that would make advanced 3nm chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p38#a231120p38)
- - [Microsoft isn&#39;t a clear winner in OpenAI chaos, as its ~$11B investment is in danger, building AI systems has reputational risks, and talent might not stay &lpar;Matthew Prince/@eastdakota&rpar;](http://www.techmeme.com/231120/p37#a231120p37)<!-- TECH:END -->
+ - [OpenAI exec Anna Makanju told staff the company is in &quot;intense discussions&quot; to unify, is in touch with Sam Altman, and there will be &quot;no final response&quot; tonight &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231121/p2#a231121p2)
+ - [Blowout Black Friday MacBook Pro deal drops 16-inch M2 Pro laptop to $2,099](https://appleinsider.com/articles/23/11/21/blowout-black-friday-macbook-pro-deal-drops-16-inch-m2-pro-laptop-to-2099?utm_medium=rss)
+ - [No, OnePlus didn’t launch a speaker. It launched an AI Music Studio instead.](https://www.androidauthority.com/oneplus-ai-music-studio-3387516/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
