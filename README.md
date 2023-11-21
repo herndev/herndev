@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 surprisingly good prequel movies that help balance out all the bad ones](https://www.polygon.com/23969917/best-movie-prequels-indiana-jones-alien-planet-of-the-apes)
- - [Undersea survival game Subnautica is getting a sequel in 2025](https://www.pcgamer.com/undersea-survival-game-subnautica-is-getting-a-sequel-in-2025)
- - [The BookTok creators whose sci-fi recommendations will shake up your reading list](https://www.polygon.com/23318855/booktok-books-recommendations-creators-sff-science-fiction-fantasy-list-tiktok)<!-- GAME:END -->
+ - [Diablo 4 is having a free trial on Steam for the first time ever](https://www.pcgamer.com/diablo-4-is-having-a-free-trial-on-steam-for-the-first-time-ever)
+ - [Baldur’s Gate 3 Deluxe Edition Will Defy An Exasperating Trend](https://kotaku.com/baldurs-gate-3-deluxe-edition-reseller-ebay-scarcity-1851039857)
+ - [10 surprisingly good prequel movies that help balance out all the bad ones](https://www.polygon.com/23969917/best-movie-prequels-indiana-jones-alien-planet-of-the-apes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
