@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
- - ⏩ [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 👉 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)<!-- MEMES:END -->
+ - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
+ - ⏩ [That door close tho](http://9gag.com/gag/ay2wjbV)
+ - 👉 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)<!-- MEMES:END -->
 
 ---
 
