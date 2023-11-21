@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When she forgot to handshake and almost died](http://9gag.com/gag/a2KppxZ)
- - ⏩ [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 👉 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)<!-- MEMES:END -->
+ - 💣 [A polite way to deal with annoying Customer](http://9gag.com/gag/aYV5X8w)
+ - ⏩ [Privilege](http://9gag.com/gag/aDY5KRB)
+ - 👉 [One ticket for me too](http://9gag.com/gag/aL157x5)<!-- MEMES:END -->
 
 ---
 
