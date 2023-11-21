@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A polite way to deal with annoying Customer](http://9gag.com/gag/aYV5X8w)
- - ⏩ [Privilege](http://9gag.com/gag/aDY5KRB)
- - 👉 [One ticket for me too](http://9gag.com/gag/aL157x5)<!-- MEMES:END -->
+ - 💣 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - ⏩ [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
 
 ---
 
