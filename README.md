@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
- - ⏩ [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
+ - 💣 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - ⏩ [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)
+ - 👉 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)<!-- MEMES:END -->
 
 ---
 
