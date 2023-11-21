@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you have some serious OCD](http://9gag.com/gag/adPwm7V)
- - ⏩ [One of the many migrants arriving daily in Italy. `Water is not good, food is not good, hotel is not good! We haven&#39;t received any pocket money for three months!`. These people see Europe as an all-inclusive buffet. Meanwhile more and more Italians are relying on food banks.](http://9gag.com/gag/avQwNbO)
- - 👉 [Little shower for little Ferret](http://9gag.com/gag/aQE501e)<!-- MEMES:END -->
+ - 💣 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - ⏩ [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
 
 ---
 
