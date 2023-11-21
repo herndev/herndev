@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Starfield Patch Finally Adds Those Graphics Options You Wanted](https://kotaku.com/starfield-patch-1-8-86-update-notes-dlss-pc-brightness-1851037171)
- - [Kotaku Asks: How Soon Is Too Soon For A Video Game Remaster Or Remake?](https://kotaku.com/the-last-of-us-part-ii-2-remaster-remake-ps5-tlou-1851036983)
- - [Modern Warfare III Is Pulling The Hated ‘Groot’ Skin, For Now](https://kotaku.com/cod-modern-warfare-3-groot-skin-removed-update-1851036898)<!-- GAME:END -->
+ - [Can Dunsparce be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23969134/can-dunsparce-be-shiny-dudunsparce)
+ - [Controversial ‘pay-to-win’ Gaia skin will be temporarily removed from Modern Warfare 3](https://www.polygon.com/23970024/modern-warfare-3-gaia-skin-removed-temporarily)
+ - [New Starfield Patch Finally Adds Those Graphics Options You Wanted](https://kotaku.com/starfield-patch-1-8-86-update-notes-dlss-pc-brightness-1851037171)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
