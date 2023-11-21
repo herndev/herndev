@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - 💣 [That door close tho](http://9gag.com/gag/ay2wjbV)
  - ⏩ [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
  - 👉 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)<!-- MEMES:END -->
 
