@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Pigeon playing a\u2026.. prank\u2026..on mummy falcon?](http://9gag.com/gag/aPg2bzQ)
- - ⏩ [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
+ - ⏩ [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 👉 [Dead lift](http://9gag.com/gag/a9q00bK)<!-- MEMES:END -->
 
 ---
 
