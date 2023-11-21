@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare III Multiplayer – The Community’s Response So Far and Updates Since Beta](https://news.xbox.com/en-us/2023/11/21/call-of-duty-modern-warfare-3-multiplayer/)
- - [How to find and beat the Megabomb in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-megabomb-location)
- - [Modern Warfare 3&#39;s loathed &#39;Groot&#39; skin is getting yanked and nerfed following widespread player backlash](https://www.pcgamer.com/modern-warfare-3s-loathed-groot-skin-is-getting-yanked-and-nerfed-following-widespread-player-backlash)<!-- GAME:END -->
+ - [Cyberpunk 2077&#39;s Incredible Turnaround Will Now Be Preserved Forever](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-0-ultimate-edition-1851038320)
+ - [All Essence of Aether sample locations in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-essence-of-aether-locations)
+ - [Hulu, Max, and Paramount Plus subscriptions are cheaper for Black Friday](https://www.polygon.com/23969334/hulu-max-paramount-plus-streaming-black-friday-deal-sale-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
