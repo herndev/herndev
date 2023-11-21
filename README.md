@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat’s next lockscreen integration could be with Samsung](https://www.androidauthority.com/snapchat-samsung-lockscreen-shortcut-3387636/)
- - [Sources: 97%+ of OpenAI staff have signed the letter threatening to quit in board standoff; investors explore legal measures to force board to reverse course &lpar;Ars Technica&rpar;](http://www.techmeme.com/231121/p23#a231121p23)
- - [Apple’s AirTag drops to a rare low price](https://www.theverge.com/2023/11/21/23969948/apple-airtag-bluetooth-tracker-black-friday-deal-sale)<!-- TECH:END -->
+ - [Palantir and Accenture win a &amp;pound;480M NHS contract to overhaul the UK&#39;s patient data system; some worry about privacy as patients can&#39;t opt out of data sharing &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/231121/p26#a231121p26)
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [A24’s Dream Scenario is a shapeshifting parable about our obsessions with viral fame](https://www.theverge.com/23965979/dream-scenario-review-a24-nicolas-cage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
