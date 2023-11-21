@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - ⏩ [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)
- - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
+ - 💣 [When she forgot to handshake and almost died](http://9gag.com/gag/a2KppxZ)
+ - ⏩ [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
+ - 👉 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)<!-- MEMES:END -->
 
 ---
 
