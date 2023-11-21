@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That door close tho](http://9gag.com/gag/ay2wjbV)
- - ⏩ [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 👉 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)<!-- MEMES:END -->
+ - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - ⏩ [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
+ - 👉 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)<!-- MEMES:END -->
 
 ---
 
