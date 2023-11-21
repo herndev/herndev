@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: fruitful negotiations between OpenAI&#39;s board and Sam Altman&#39;s side are taking place; Microsoft is being kept apprised and is likely to get board seats &lpar;Kara Swisher/@karaswisher&rpar;](http://www.techmeme.com/231121/p45#a231121p45)
- - [HP reports Q4 revenue down 6.5% YoY to $13.8B, vs. $13.8B est., Personal Systems revenue down 8% YoY to $9.4B, and Printing revenue down 3% YoY to $4.4B &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/231121/p44#a231121p44)
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Tiger Global Management&#39;s Scott Shleifer will transition from his role leading private investments to a senior adviser role, effective January 1, 2024 &lpar;The Information&rpar;](http://www.techmeme.com/231121/p49#a231121p49)
+ - [Fitbit prices dive as much as 38% in latest Black Friday promotion](https://www.androidauthority.com/fitbit-black-friday-deals-3387773/)
+ - [Low storage space? These Black Friday SSD &amp; hard drive deals for Mac can help](https://appleinsider.com/articles/23/11/21/low-storage-space-these-black-friday-ssd-hard-drive-deals-for-mac-can-help?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
