@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 is having a free trial on Steam for the first time ever](https://www.pcgamer.com/diablo-4-is-having-a-free-trial-on-steam-for-the-first-time-ever)
- - [Baldur’s Gate 3 Deluxe Edition Will Defy An Exasperating Trend](https://kotaku.com/baldurs-gate-3-deluxe-edition-reseller-ebay-scarcity-1851039857)
- - [10 surprisingly good prequel movies that help balance out all the bad ones](https://www.polygon.com/23969917/best-movie-prequels-indiana-jones-alien-planet-of-the-apes)<!-- GAME:END -->
+ - [Mortal Kombat 1 Players Are Time Traveling To Avoid Buying Skins](https://kotaku.com/mortal-kombat-1-console-date-change-free-skins-1851040158)
+ - [I&#39;m So Tired Of Crossover &#39;Skins&#39; Cluttering Up Video Games](https://kotaku.com/crossover-skins-destiny-2-witcher-halo-rainbow-six-bad-1851039973)
+ - [Diablo 4 is having a free trial on Steam for the first time ever](https://www.pcgamer.com/diablo-4-is-having-a-free-trial-on-steam-for-the-first-time-ever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
