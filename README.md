@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real questions here](http://9gag.com/gag/aDY5KZ7)
- - ⏩ [Newly appointed Spanish minister fills up the cup holder](http://9gag.com/gag/a8qOR4e)
- - 👉 [Privilege](http://9gag.com/gag/aDY5KRB)<!-- MEMES:END -->
+ - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - ⏩ [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
+ - 👉 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)<!-- MEMES:END -->
 
 ---
 
