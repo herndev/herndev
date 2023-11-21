@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyon-based Indy, which offers freelancers an all-in-one platform for accounting, business creation, and more, raised a &amp;euro;40M Series C led by BlackFin Capital &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/231121/p5#a231121p5)
- - [TX AG, &quot;troubled&quot; by Musk&#39;s claims, opens a probe into Media Matters, which calls X&#39;s lawsuit frivolous; X avoids anti-SLAPP statutes as it filed in 5th Circuit &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231121/p4#a231121p4)
- - [Epic v. Google: a Google exec confirms that Spotify pays no commission when users buy subscriptions via Spotify&#39;s payment system and 4% when they pay via Google &lpar;The Verge&rpar;](http://www.techmeme.com/231121/p3#a231121p3)<!-- TECH:END -->
+ - [Pixel 8 users are reporting ‘bumps’ and ‘ripples’ forming on the display](https://www.androidauthority.com/pixel-8-display-bumps-3387522/)
+ - [Mid-range phones will get generative AI thanks to this new chipset](https://www.androidauthority.com/mediatek-dimensity-8300-3386430/)
+ - [CISA debuts a pilot program offering &quot;cybersecurity shared services&quot; to non-federal critical infrastructure entities in healthcare, education, and other sectors &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231121/p6#a231121p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
