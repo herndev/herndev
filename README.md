@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying to to enter your own country](http://9gag.com/gag/a8qOB21)
- - ⏩ [Relationship goals.](http://9gag.com/gag/aYV5397)
- - 👉 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)<!-- MEMES:END -->
+ - 💣 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
+ - ⏩ [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - 👉 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)<!-- MEMES:END -->
 
 ---
 
