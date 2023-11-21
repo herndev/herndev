@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance criminal settlement includes $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)
- - [DOJ Charges Binance With Vast Money Laundering Scheme and Sanctions Violations](https://www.wired.com/story/usa-binance-money-laundering-charges/)
- - [Tesla workers report explosions, concussions, and grisly robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)<!-- TECH:END -->
+ - [Sources: fruitful negotiations between OpenAI&#39;s board and Sam Altman&#39;s side are taking place; Microsoft is being kept apprised and is likely to get board seats &lpar;Kara Swisher/@karaswisher&rpar;](http://www.techmeme.com/231121/p45#a231121p45)
+ - [HP reports Q4 revenue down 6.5% YoY to $13.8B, vs. $13.8B est., Personal Systems revenue down 8% YoY to $9.4B, and Printing revenue down 3% YoY to $4.4B &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/231121/p44#a231121p44)
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
