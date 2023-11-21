@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Sam Altman joining Microsoft? Satya Nadella doesn’t seem to know](https://www.theverge.com/2023/11/20/23970100/sam-altman-microsoft-openai-satya-nadella-interview)
- - [Sources: OpenAI&#39;s board offered the interim CEO role to former GitHub CEO Nat Friedman and Scale AI CEO Alex Wang, before Emmett Shear accepted it &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231120/p32#a231120p32)
- - [Kindle Scribe vs reMarkable 2: Which should you buy?](https://www.androidauthority.com/kindle-scribe-vs-remarkable-2-3387255/)<!-- TECH:END -->
+ - [X files a defamation lawsuit against Media Matters, claiming it &quot;knowingly and maliciously&quot; misrepresented the amount of antisemitic content on the platform &lpar;Sharon Knolle/The Wrap&rpar;](http://www.techmeme.com/231120/p33#a231120p33)
+ - [The 59 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-3/)
+ - [Samsung&#39;s Decarbonization Efforts Rank Last Among Top Electronics Makers     - CNET](https://www.cnet.com/tech/mobile/samsungs-decarbonisation-efforts-rank-last-among-top-tech-brands/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
