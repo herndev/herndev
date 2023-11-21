@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam’s Massive Fall Sale Is Offering Up Some Good Deals](https://kotaku.com/steam-fall-autumn-sale-best-deals-games-starfield-when-1851040401)
  - [Mortal Kombat 1 Players Are Time Traveling To Avoid Buying Skins](https://kotaku.com/mortal-kombat-1-console-date-change-free-skins-1851040158)
- - [I&#39;m So Tired Of Crossover &#39;Skins&#39; Cluttering Up Video Games](https://kotaku.com/crossover-skins-destiny-2-witcher-halo-rainbow-six-bad-1851039973)
- - [Diablo 4 is having a free trial on Steam for the first time ever](https://www.pcgamer.com/diablo-4-is-having-a-free-trial-on-steam-for-the-first-time-ever)<!-- GAME:END -->
+ - [I&#39;m So Tired Of Crossover &#39;Skins&#39; Cluttering Up Video Games](https://kotaku.com/crossover-skins-destiny-2-witcher-halo-rainbow-six-bad-1851039973)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
