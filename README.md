@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 is 33% off during Epic Games Store’s Black Friday sale](https://www.polygon.com/23971176/alan-wake-2-deal-sale-pc-black-friday-cyber-monday-epic-games-store)
- - [Embattled Shooter Destiny 2 Gets Witcher 3 Armor](https://kotaku.com/destiny-2-final-shape-witcher-3-armor-1851039398)
- - [This Modern Warfare 3 Gameplay Feature Spices Up A Weak Campaign](https://kotaku.com/modern-warfare-3-call-of-duty-open-combat-missions-1851032015)<!-- GAME:END -->
+ - [10 surprisingly good prequel movies that help balance out all the bad ones](https://www.polygon.com/23969917/best-movie-prequels-indiana-jones-alien-planet-of-the-apes)
+ - [Undersea survival game Subnautica is getting a sequel in 2025](https://www.pcgamer.com/undersea-survival-game-subnautica-is-getting-a-sequel-in-2025)
+ - [The BookTok creators whose sci-fi recommendations will shake up your reading list](https://www.polygon.com/23318855/booktok-books-recommendations-creators-sff-science-fiction-fantasy-list-tiktok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
