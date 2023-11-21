@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases its Content Library and an API, letting select researchers more easily access non-downloadable data via a virtual &quot;clean room&quot;, after a beta &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/231121/p18#a231121p18)
- - [New Orleans Tried to Control Short-Term Rentals With a Lottery System. It Was a Mess](https://www.wired.com/story/airbnb-short-term-rentals-new-orleans-lottery/)
- - [YouTube confirms that &quot;users who have ad blockers installed may experience suboptimal viewing&quot;, after users reported five-second delays on non-Chrome browsers &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231121/p17#a231121p17)<!-- TECH:END -->
+ - [OpenAI is imploding as staff rebel over shock firing of CEO](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
+ - [Save up to 50% on these Black Friday deals on Thunderbolt docks](https://appleinsider.com/articles/23/11/21/save-up-to-50-on-these-black-friday-deals-on-thunderbolt-docks?utm_medium=rss)
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
