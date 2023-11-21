@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - ⏩ [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 👉 [Dead lift](http://9gag.com/gag/a9q00bK)<!-- MEMES:END -->
+ - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - ⏩ [Polina](http://9gag.com/gag/aL155vM)
+ - 👉 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)<!-- MEMES:END -->
 
 ---
 
