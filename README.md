@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [80 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo](https://www.wired.com/story/best-amazon-black-friday-deals-2023-1/)
- - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
- - [Daily deals Nov. 21: $400 off 2023 M2 MacBook Pro, 25% off Apple Watch SE 2, 33% off Therabody RecoveryTherm Cube, more](https://appleinsider.com/articles/23/11/21/daily-deals-nov-21-400-off-2023-m2-macbook-pro-25-off-apple-watch-se-2-33-off-therabody-recoverytherm-cube-more?utm_medium=rss)<!-- TECH:END -->
+ - [Google was this close to buying out Fortnite creator](https://www.androidauthority.com/google-epic-games-3387703/)
+ - [Court docs: Binance&#39;s Changpeng Zhao to plead guilty to federal charges and step down as part of a ~$4B DOJ settlement; the DOJ suggests the court fine him $50M &lpar;CNBC&rpar;](http://www.techmeme.com/231121/p37#a231121p37)
+ - [Sources: Sonos to make a long-awaited push into headphones with a $400 model coming as early as April, is working on a video service and streaming device, more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231121/p36#a231121p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
