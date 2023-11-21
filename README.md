@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pigeon playing a\u2026.. prank\u2026..on mummy falcon?](http://9gag.com/gag/aPg2bzQ)
- - ⏩ [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 💣 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - ⏩ [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
  - 👉 [Dead lift](http://9gag.com/gag/a9q00bK)<!-- MEMES:END -->
 
 ---
