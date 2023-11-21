@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Polina](http://9gag.com/gag/aL155vM)
- - ⏩ [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)
- - 👉 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)<!-- MEMES:END -->
+ - 💣 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - ⏩ [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
+ - 👉 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)<!-- MEMES:END -->
 
 ---
 
