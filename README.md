@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - ⏩ [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 👉 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)<!-- MEMES:END -->
+ - ⏩ [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)
+ - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
 
 ---
 
