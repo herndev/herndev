@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most peaceful and kind conversation with McDonald&#39;s employee to ever exist](http://9gag.com/gag/aoKwb4g)
- - ⏩ [I have a lighter if you want...](http://9gag.com/gag/aKE5RM1)
- - 👉 [Mass looting of a Nike store. This is unsustainable. It\u2019s only a matter of time before these companies just leave these areas. They will cry \u201cRaCiSm!!!\u201d when it happens.](http://9gag.com/gag/aWG5wGK)<!-- MEMES:END -->
+ - 💣 [Trying to to enter your own country](http://9gag.com/gag/a8qOB21)
+ - ⏩ [Relationship goals.](http://9gag.com/gag/aYV5397)
+ - 👉 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)<!-- MEMES:END -->
 
 ---
 
