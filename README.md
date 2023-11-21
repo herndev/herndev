@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 5 and Flip 5 get stable Android 14 update](https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-6-3387727/)
- - [Deeply questionable rumor claims 14.1-inch iPad Pro arriving in 2024](https://appleinsider.com/articles/23/11/21/deeply-questionable-rumor-claims-141-inch-ipad-pro-arriving-in-2024?utm_medium=rss)
- - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [Binance criminal settlement includes $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)
+ - [DOJ Charges Binance With Vast Money Laundering Scheme and Sanctions Violations](https://www.wired.com/story/usa-binance-money-laundering-charges/)
+ - [Tesla workers report explosions, concussions, and grisly robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
