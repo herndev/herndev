@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X files a defamation lawsuit against Media Matters, claiming it &quot;knowingly and maliciously&quot; misrepresented the amount of antisemitic content on the platform &lpar;Sharon Knolle/The Wrap&rpar;](http://www.techmeme.com/231120/p33#a231120p33)
- - [The 59 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-3/)
- - [Samsung&#39;s Decarbonization Efforts Rank Last Among Top Electronics Makers     - CNET](https://www.cnet.com/tech/mobile/samsungs-decarbonisation-efforts-rank-last-among-top-tech-brands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kuo reiterates 120 mm tetraprism camera coming to iPhone 16 Pro](https://appleinsider.com/articles/23/11/21/kuo-reiterates-120-mm-tetraprism-camera-coming-to-iphone-16-pro?utm_medium=rss)
+ - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
+ - [Source: OpenAI&#39;s board approached Anthropic CEO Dario Amodei about a potential merger as part of an effort to persuade Amodei to replace Sam Altman as CEO &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/231120/p35#a231120p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
