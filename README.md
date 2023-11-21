@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pathfinder stripped every last trace of D&amp;D from its new rulebooks — even owlbears](https://www.polygon.com/tabletop-games/23965926/pathfinder-2e-remaster-ogl-controversy-player-core-gm-core-orc-release-date-price)
- - [Pokimane called a viewer &#39;broke boy&#39; for complaining about her overpriced snacks, and now the internet is mad about miniature cookies](https://www.pcgamer.com/pokimane-called-a-viewer-broke-boy-for-complaining-about-her-overpriced-snacks-and-now-the-internet-is-mad-about-miniature-cookies)
- - [I’m Torturing Modern Warfare III Players With An Exploding Drone](https://kotaku.com/mw3-cod-call-of-duty-breacher-drone-1851038854)<!-- GAME:END -->
+ - [I&#39;m glad Scott Pilgrim Takes Off did its own thing, and I think you should be too](https://www.pcgamer.com/im-glad-scott-pilgrim-takes-off-did-its-own-thing-and-i-think-you-should-be-too)
+ - [Disney Lorcana’s online sales event ends in disaster after alleged DDoS attack](https://www.polygon.com/23970914/disney-lorcana-ddos-attack-sale-canceled)
+ - [Where to find ‘Basically Purple Teyvat Product’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23970961/graph-adversarial-technology-experiment-log-event-basically-purple-teyvat-product)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
