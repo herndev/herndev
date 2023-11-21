@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077&#39;s Incredible Turnaround Will Now Be Preserved Forever](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-0-ultimate-edition-1851038320)
- - [All Essence of Aether sample locations in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-essence-of-aether-locations)
- - [Hulu, Max, and Paramount Plus subscriptions are cheaper for Black Friday](https://www.polygon.com/23969334/hulu-max-paramount-plus-streaming-black-friday-deal-sale-cyber-monday)<!-- GAME:END -->
+ - [GameMaker engine goes free for non-commerical use in wake of Unity debacle](https://www.polygon.com/23970804/gamemaker-engine-free-pricing-update)
+ - [Kotaku’s Ultimate 2023 Gift Guide](https://kotaku.com/kotaku-s-ultimate-2023-gift-guide-1851018503)
+ - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
