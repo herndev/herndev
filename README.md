@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 holiday gift guide for kids](https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets)
- - [Analysis: X&#39;s Community Notes operate slowly and inconsistently during the Israel-Hamas war; across nearly 400 posts, a typical Note took seven hours to appear &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p22#a231121p22)
- - [Fortnite OG will end with a Big Bang](https://www.theverge.com/2023/11/21/23970772/fortnite-big-bang-live-event-date)<!-- TECH:END -->
+ - [Snapchat’s next lockscreen integration could be with Samsung](https://www.androidauthority.com/snapchat-samsung-lockscreen-shortcut-3387636/)
+ - [Sources: 97%+ of OpenAI staff have signed the letter threatening to quit in board standoff; investors explore legal measures to force board to reverse course &lpar;Ars Technica&rpar;](http://www.techmeme.com/231121/p23#a231121p23)
+ - [Apple’s AirTag drops to a rare low price](https://www.theverge.com/2023/11/21/23969948/apple-airtag-bluetooth-tracker-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
