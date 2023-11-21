@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Carl Pei and lead designers at Nothing, which marked its third anniversary in October, on the design process, US&#39; smartphone market, and more &lpar;James Pero/Inverse&rpar;](http://www.techmeme.com/231121/p8#a231121p8)
- - [Braun: Designed to Keep is a book worth holding onto](https://www.theverge.com/23966605/braun-designed-to-keep-book-review-klaus-kemp)
- - [Here&#39;s How to Prepare for 2023&#39;s Black Friday and Cyber Monday     - CNET](https://www.cnet.com/tech/heres-how-to-prepare-for-2023s-black-friday-and-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK Supreme Court says Deliveroo riders aren&#39;t entitled to collective bargaining, rejecting a claim by the IWGB, which has lodged multiple appeals since 2017 &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231121/p10#a231121p10)
+ - [Baidu reports Q3 revenue up 6% YoY to ~$4.8B and a ~$940M net income, both above est., as its new AI tools shield the company from China&#39;s economic downturn &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231121/p9#a231121p9)
+ - [OnePlus 12 could arrive globally in January with a surprise guest in tow](https://www.androidauthority.com/oneplus-12-series-global-launch-3387581/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
