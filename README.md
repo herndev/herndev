@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - ⏩ [Polina](http://9gag.com/gag/aL155vM)
- - 👉 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)<!-- MEMES:END -->
+ - 💣 [Asking the real questions here](http://9gag.com/gag/aDY5KZ7)
+ - ⏩ [Newly appointed Spanish minister fills up the cup holder](http://9gag.com/gag/a8qOR4e)
+ - 👉 [Privilege](http://9gag.com/gag/aDY5KRB)<!-- MEMES:END -->
 
 ---
 
