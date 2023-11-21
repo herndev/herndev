@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos sale brings rare price drops on top-tier speakers](https://www.androidauthority.com/sonos-black-friday-2023-sale-3387472/)
- - [Investigation: as Amazon and Netflix back down on daring films, self-censorship pervades the Indian streaming industry due to pressure from Modi&#39;s ruling BJP &lpar;Washington Post&rpar;](http://www.techmeme.com/231121/p14#a231121p14)
- - [This mechanical keyboard has a headphone jack you might actually want to use](https://www.theverge.com/2023/11/21/23970644/fiio-kb3-keyboard-hifi-built-in-headphone-amp-and-dac)<!-- TECH:END -->
+ - [Meta releases its Content Library and an API, letting select researchers more easily access non-downloadable data via a virtual &quot;clean room&quot;, after a beta &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/231121/p18#a231121p18)
+ - [New Orleans Tried to Control Short-Term Rentals With a Lottery System. It Was a Mess](https://www.wired.com/story/airbnb-short-term-rentals-new-orleans-lottery/)
+ - [YouTube confirms that &quot;users who have ad blockers installed may experience suboptimal viewing&quot;, after users reported five-second delays on non-Chrome browsers &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231121/p17#a231121p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
