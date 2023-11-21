@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is imploding as staff rebel over shock firing of CEO](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
- - [Save up to 50% on these Black Friday deals on Thunderbolt docks](https://appleinsider.com/articles/23/11/21/save-up-to-50-on-these-black-friday-deals-on-thunderbolt-docks?utm_medium=rss)
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [The Verge’s 2023 holiday gift guide for kids](https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets)
+ - [Analysis: X&#39;s Community Notes operate slowly and inconsistently during the Israel-Hamas war; across nearly 400 posts, a typical Note took seven hours to appear &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p22#a231121p22)
+ - [Fortnite OG will end with a Big Bang](https://www.theverge.com/2023/11/21/23970772/fortnite-big-bang-live-event-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
