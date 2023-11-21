@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - ⏩ [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
- - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
+ - 💣 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - ⏩ [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - 👉 [Mass looting of a Nike store. This is unsustainable. It\u2019s only a matter of time before these companies just leave these areas. They will cry \u201cRaCiSm!!!\u201d when it happens.](http://9gag.com/gag/aWG5wGK)<!-- MEMES:END -->
 
 ---
 
