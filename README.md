@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK Supreme Court says Deliveroo riders aren&#39;t entitled to collective bargaining, rejecting a claim by the IWGB, which has lodged multiple appeals since 2017 &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231121/p10#a231121p10)
- - [Baidu reports Q3 revenue up 6% YoY to ~$4.8B and a ~$940M net income, both above est., as its new AI tools shield the company from China&#39;s economic downturn &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231121/p9#a231121p9)
- - [OnePlus 12 could arrive globally in January with a surprise guest in tow](https://www.androidauthority.com/oneplus-12-series-global-launch-3387581/)<!-- TECH:END -->
+ - [Sonos sale brings rare price drops on top-tier speakers](https://www.androidauthority.com/sonos-black-friday-2023-sale-3387472/)
+ - [Investigation: as Amazon and Netflix back down on daring films, self-censorship pervades the Indian streaming industry due to pressure from Modi&#39;s ruling BJP &lpar;Washington Post&rpar;](http://www.techmeme.com/231121/p14#a231121p14)
+ - [This mechanical keyboard has a headphone jack you might actually want to use](https://www.theverge.com/2023/11/21/23970644/fiio-kb3-keyboard-hifi-built-in-headphone-amp-and-dac)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
