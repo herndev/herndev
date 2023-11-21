@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir and Accenture win a &amp;pound;480M NHS contract to overhaul the UK&#39;s patient data system; some worry about privacy as patients can&#39;t opt out of data sharing &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/231121/p26#a231121p26)
- - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [A24’s Dream Scenario is a shapeshifting parable about our obsessions with viral fame](https://www.theverge.com/23965979/dream-scenario-review-a24-nicolas-cage)<!-- TECH:END -->
+ - [80 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo](https://www.wired.com/story/best-amazon-black-friday-deals-2023-1/)
+ - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
+ - [Daily deals Nov. 21: $400 off 2023 M2 MacBook Pro, 25% off Apple Watch SE 2, 33% off Therabody RecoveryTherm Cube, more](https://appleinsider.com/articles/23/11/21/daily-deals-nov-21-400-off-2023-m2-macbook-pro-25-off-apple-watch-se-2-33-off-therabody-recoverytherm-cube-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
