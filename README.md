@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m glad Scott Pilgrim Takes Off did its own thing, and I think you should be too](https://www.pcgamer.com/im-glad-scott-pilgrim-takes-off-did-its-own-thing-and-i-think-you-should-be-too)
- - [Disney Lorcana’s online sales event ends in disaster after alleged DDoS attack](https://www.polygon.com/23970914/disney-lorcana-ddos-attack-sale-canceled)
- - [Where to find ‘Basically Purple Teyvat Product’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23970961/graph-adversarial-technology-experiment-log-event-basically-purple-teyvat-product)<!-- GAME:END -->
+ - [Alan Wake 2 is 33% off during Epic Games Store’s Black Friday sale](https://www.polygon.com/23971176/alan-wake-2-deal-sale-pc-black-friday-cyber-monday-epic-games-store)
+ - [Embattled Shooter Destiny 2 Gets Witcher 3 Armor](https://kotaku.com/destiny-2-final-shape-witcher-3-armor-1851039398)
+ - [This Modern Warfare 3 Gameplay Feature Spices Up A Weak Campaign](https://kotaku.com/modern-warfare-3-call-of-duty-open-combat-missions-1851032015)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
