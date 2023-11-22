@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me too](http://9gag.com/gag/ap9weR8)
- - ⏩ [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 👉 [OUCH](http://9gag.com/gag/a4oyMxm)<!-- MEMES:END -->
+ - 💣 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - ⏩ [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - 👉 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)<!-- MEMES:END -->
 
 ---
 
