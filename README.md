@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Worldless: Making a Game That Won’t Allow You To Die](https://news.xbox.com/en-us/2023/11/22/worldless-design-death/)
- - [The holiday deal you didn&#39;t know you needed](https://www.pcgamer.com/the-holiday-deal-you-didnt-know-you-needed)
- - [Left 4 Dead&#39;s first internal playtest was so disastrous, Gabe Newell asked its lead: &#39;Why don&#39;t I just play Counter-Strike instead?&#39; then &#39;made me watch him play it&#39;](https://www.pcgamer.com/left-4-deads-first-internal-playtest-was-so-disastrous-gabe-newell-asked-its-lead-why-dont-i-just-play-counter-strike-instead-then-made-me-watch-him-play-it)<!-- GAME:END -->
+ - [LG OLED Flex 42 review](https://www.pcgamer.com/lg-oled-flex-42-gaming-tv-review)
+ - [An Armored Core 6 co-op mod has a fully-functional alpha, though its creator wants to add a few key features like difficulty scaling first](https://www.pcgamer.com/an-armored-core-6-co-op-mod-has-a-fully-functional-alpha-though-its-creator-wants-to-add-a-few-key-features-like-difficulty-scaling-first)
+ - [OpenAI co-founder makes spectacular return mere days after ousting, with the board that fired him mostly swept away](https://www.pcgamer.com/openai-co-founder-makes-spectacular-return-mere-days-after-ousting-with-the-board-that-fired-him-swept-away)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
