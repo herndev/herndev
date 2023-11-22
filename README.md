@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Future Of ChatGPT Just Became A Circus [Update]](https://kotaku.com/microsoft-openai-sam-altman-twitch-emmett-shear-1851035956)
- - [The best one-season anime you can watch in a weekend](https://www.polygon.com/22762260/best-anime-one-season)
- - [Cyberpunk 2077&#39;s Incredible Turnaround Will Now Be Preserved Forever](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-0-ultimate-edition-1851038320)<!-- GAME:END -->
+ - [Pokémon Go Master Ball Special Research quest steps, and is it worth buying?](https://www.polygon.com/pokemon-go-guide/23972442/master-ball-special-research-quest-steps-worth-buying)
+ - [Another one bites the dust: Binance CEO quits as both he and the company plead guilty to money laundering charges and accept whopping $4.3 billion fine](https://www.pcgamer.com/another-one-bites-the-dust-binance-ceo-quits-as-both-he-and-the-company-plead-guilty-to-money-laundering-charges-and-accept-whopping-dollar43-billion-fine)
+ - [World of Warcraft player gets visited by benevolent twink &#39;Boostlord&#39;, a level 10 monster mage juiced up on funky dungeon scaling](https://www.pcgamer.com/world-of-warcraft-player-gets-visited-by-benevolent-twink-boostlord-a-level-10-monster-mage-juiced-up-on-funky-dungeon-scaling)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
