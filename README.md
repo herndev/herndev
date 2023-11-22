@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k you and see you tomorrow i guess](http://9gag.com/gag/armwjdy)
- - ⏩ [Great, another one that got away unpunished...](http://9gag.com/gag/aBd5DwA)
- - 👉 [Best self-defense trick](http://9gag.com/gag/ajVwz38)<!-- MEMES:END -->
+ - 💣 [Almost got it](http://9gag.com/gag/aA05WM2)
+ - ⏩ [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - 👉 [Great, another one that got away unpunished...](http://9gag.com/gag/aBd5DwA)<!-- MEMES:END -->
 
 ---
 
