@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - ⏩ [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
+ - 💣 [Relationship goals.](http://9gag.com/gag/aYV5397)
+ - ⏩ [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
+ - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
 
 ---
 
