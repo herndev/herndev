@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [45 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-1/)
- - [I Track Kitchen Deals for a Living. These Are the Black Friday Sales I&#39;m Telling Friends About     - CNET](https://www.cnet.com/deals/best-black-friday-kitchen-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [24 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-1/)
+ - [77 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023-1/)
+ - [Ekster&#39;s Grid Is the Coolest Backpack I&#39;ve Ever Owned, and It&#39;s 20% Off for Black Friday     - CNET](https://www.cnet.com/deals/ekster-black-friday-sale-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
