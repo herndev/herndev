@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI insiders and other sources describe the turmoil within OpenAI following Sam Altman&#39;s ousting and how Altman&#39;s supporters rallied behind him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p53#a231121p53)
- - [In a letter to Elon Musk, 27 US lawmakers, all Democrats, express concern that X seems to be profiting from anti-Israel propaganda via ads and subscriptions &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231121/p52#a231121p52)
- - [Paramount Plus Black Friday deal: save 67% on 3 months of service](https://appleinsider.com/articles/23/11/22/paramount-plus-black-friday-deal-save-67-on-3-months-of-service?utm_medium=rss)<!-- TECH:END -->
+ - [Paris Hilton&#39;s 11:11 Media suspends an ad campaign on X one month after announcing a partnership with X; it&#39;s unclear whether the partnership is still on &lpar;CNN&rpar;](http://www.techmeme.com/231121/p54#a231121p54)
+ - [Elon Musk Trolls His Way Into the OpenAI Drama](https://www.wired.com/story/elon-musk-troll-openai-drama/)
+ - [OpenAI insiders and other sources describe the turmoil within OpenAI following Sam Altman&#39;s ousting and how Altman&#39;s supporters rallied behind him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p53#a231121p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
