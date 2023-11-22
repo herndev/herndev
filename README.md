@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris Hilton&#39;s 11:11 Media suspends an ad campaign on X one month after announcing a partnership with X; it&#39;s unclear whether the partnership is still on &lpar;CNN&rpar;](http://www.techmeme.com/231121/p54#a231121p54)
- - [Elon Musk Trolls His Way Into the OpenAI Drama](https://www.wired.com/story/elon-musk-troll-openai-drama/)
- - [Samsung Galaxy Watch 4 Has Everything I Need in a $129 Black Friday Deal     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-has-everything-i-need-in-a-129-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get an M2 Max Mac Studio for just $1,795, plus 3 years of AppleCare for $139 with coupon](https://appleinsider.com/articles/23/11/22/get-an-m2-max-mac-studio-for-just-1795-plus-3-years-of-applecare-for-139-with-coupon?utm_medium=rss)
+ - [FlexiSpot E7 Pro desk &amp; C7 chair review: simple, spacious, comfortable](https://appleinsider.com/articles/23/11/22/flexispot-e7-pro-desk-c7-chair-review-simple-spacious-comfortable?utm_medium=rss)
+ - [Counterpoint Research: global monthly smartphone sell-through volumes grew 5% in October 2023, the first month to record YoY growth since June 2021 &lpar;Baranjot Kaur/Reuters&rpar;](http://www.techmeme.com/231121/p55#a231121p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
