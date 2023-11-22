@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - ⏩ [Oof](http://9gag.com/gag/aL15y7v)
- - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
+ - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - ⏩ [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - 👉 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)<!-- MEMES:END -->
 
 ---
 
