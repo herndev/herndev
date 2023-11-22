@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #886 for Wednesday, November 22](https://www.pcgamer.com/wordle-today-answer-886-november-22)
  - [Diablo 4 player defies death itself with sorcerer build so unkillable they went AFK for 20 minutes against the Butcher](https://www.pcgamer.com/diablo-4-player-defies-death-itself-with-sorcerer-build-so-unkillable-they-went-afk-for-20-minutes-against-the-butcher)
- - [People are trying to resell Baldur&#39;s Gate 3 Deluxe Editions for a profit even though supplies aren&#39;t limited and there&#39;s plenty of stock](https://www.pcgamer.com/people-are-trying-to-resell-baldurs-gate-3-deluxe-editions-for-a-profit-even-though-supplies-arent-limited-and-theres-plenty-of-stock)
- - [As GTA 6 trailer reveal approaches, Rockstar Games whacks the name &#39;Rockstar Social Club&#39;](https://www.pcgamer.com/as-gta-6-trailer-reveal-approaches-rockstar-games-whacks-the-name-rockstar-social-club)<!-- GAME:END -->
+ - [People are trying to resell Baldur&#39;s Gate 3 Deluxe Editions for a profit even though supplies aren&#39;t limited and there&#39;s plenty of stock](https://www.pcgamer.com/people-are-trying-to-resell-baldurs-gate-3-deluxe-editions-for-a-profit-even-though-supplies-arent-limited-and-theres-plenty-of-stock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
