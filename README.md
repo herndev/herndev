@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - ⏩ [This is why people are still playing L4D 15 years later and back 4 blood died 1 year after its launch](http://9gag.com/gag/aYV58B7)
- - 👉 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)<!-- MEMES:END -->
+ - 💣 [Consequences for your action](http://9gag.com/gag/a04q2RO)
+ - ⏩ [Almost got it](http://9gag.com/gag/aA05WM2)
+ - 👉 [F**k you and see you tomorrow i guess](http://9gag.com/gag/armwjdy)<!-- MEMES:END -->
 
 ---
 
