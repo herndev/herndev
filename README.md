@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
- - ⏩ [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
+ - 💣 [Left or right?](http://9gag.com/gag/aREdqEA)
+ - ⏩ [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 👉 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)<!-- MEMES:END -->
 
 ---
 
