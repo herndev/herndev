@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - ⏩ [Kinda chubby](http://9gag.com/gag/anzwL2q)
- - 👉 [I wonder why he cut the vid](http://9gag.com/gag/aqewPyj)<!-- MEMES:END -->
+ - 💣 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - ⏩ [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
 
 ---
 
