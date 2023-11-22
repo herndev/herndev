@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kickstart your crafting with these 3D printer Black Friday sales](https://appleinsider.com/articles/23/11/22/kickstart-your-crafting-with-these-3d-printer-black-friday-sales?utm_medium=rss)
- - [&#39;Napoleon&#39; is a hit with the box office, but not so much with critics](https://appleinsider.com/articles/23/11/22/napoleon-is-a-hit-with-the-box-office-but-not-so-much-with-critics?utm_medium=rss)
- - [The WiiM Amp is a stream-everything receiver with Mac Mini vibes](https://www.theverge.com/2023/11/22/23972352/wiim-amp-airplay-2-chromecast-wireless-receiver-vintage-hi-fi)<!-- TECH:END -->
+ - [Record low price: Alogic Clarity 27-inch 4K monitor drops to $599 with Black Friday coupon](https://appleinsider.com/articles/23/11/22/record-low-price-alogic-clarity-27-inch-4k-monitor-drops-to-599-with-black-friday-coupon?utm_medium=rss)
+ - [The best Black Friday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
+ - [Graphcore lays off most of its staff in China and discontinues sales in the country, citing US export rules; China made up 20% to 25% of Graphcore&#39;s business &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p21#a231122p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
