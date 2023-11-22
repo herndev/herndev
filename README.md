@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says North Korean group Lazarus has breached software company CyberLink and modified one of its installers to push malware in a supply-chain attack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231122/p23#a231122p23)
- - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
- - [47 Best Black Friday Outdoor Deals &lpar;2023&rpar;: REI and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-3/)<!-- TECH:END -->
+ - [The 89 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-4/)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [In the Russia-Ukraine war, using electromagnetic waves to flummox and follow drones and other smarter weapons becomes a critical part of the cat-and-mouse game &lpar;New York Times&rpar;](http://www.techmeme.com/231122/p25#a231122p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
