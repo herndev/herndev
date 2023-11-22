@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LG OLED Flex 42 review](https://www.pcgamer.com/lg-oled-flex-42-gaming-tv-review)
- - [An Armored Core 6 co-op mod has a fully-functional alpha, though its creator wants to add a few key features like difficulty scaling first](https://www.pcgamer.com/an-armored-core-6-co-op-mod-has-a-fully-functional-alpha-though-its-creator-wants-to-add-a-few-key-features-like-difficulty-scaling-first)
- - [OpenAI co-founder makes spectacular return mere days after ousting, with the board that fired him mostly swept away](https://www.pcgamer.com/openai-co-founder-makes-spectacular-return-mere-days-after-ousting-with-the-board-that-fired-him-swept-away)<!-- GAME:END -->
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [What is Party Play in Pokémon Go? How to join a Party, distance, rewards explained](https://www.polygon.com/pokemon-go-guide/23918919/party-play-party-power-damage-co-op-multiplayer-bonus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
