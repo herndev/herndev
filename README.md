@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold my beer darling! I have to punch the hell outta that thief...](http://9gag.com/gag/a4oye6Z)
- - ⏩ [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
- - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
+ - 💣 [The little one lost his gun and shirt, but cowboy never even lost his hat.](http://9gag.com/gag/aREdxjG)
+ - ⏩ [Left or right?](http://9gag.com/gag/aREdqEA)
+ - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
 
 ---
 
