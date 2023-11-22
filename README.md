@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The little one lost his gun and shirt, but cowboy never even lost his hat.](http://9gag.com/gag/aREdxjG)
- - ⏩ [Left or right?](http://9gag.com/gag/aREdqEA)
- - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
+ - 💣 [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
+ - ⏩ [Oof](http://9gag.com/gag/aL15y7v)
+ - 👉 [The most peaceful and kind conversation with McDonald&#39;s employee to ever exist](http://9gag.com/gag/aoKwb4g)<!-- MEMES:END -->
 
 ---
 
