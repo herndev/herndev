@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Grok and how it compares to ChatGPT?](https://www.androidauthority.com/what-is-grok-3385411/)
- - [This Mini Rechargeable Lantern Is My Perfect Camping Lighting Source. It&#39;s on Sale This Black Friday     - CNET](https://www.cnet.com/deals/this-mini-rechargeable-lantern-is-my-perfect-camping-lighting-source-its-on-sale-this-black-friday/#ftag=CAD590a51e)
- - [I Have a Drawerful of Expensive Knives. This Cheap Knife Is the One I Always Use     - CNET](https://www.cnet.com/deals/i-have-a-drawerful-of-expensive-knives-this-cheap-knife-is-the-one-i-always-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meet the Lawyer Leading the Human Resistance Against AI](https://www.wired.com/story/matthew-butterick-ai-copyright-lawsuits-openai-meta/)
+ - [Internal Alibaba memo: Jack Ma has not yet sold any Alibaba stock due to the price not reaching his desired level; Ma planned to sell 10M shares for ~$870M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231122/p9#a231122p9)
+ - [Altman beats OpenAI board and returns as CEO after stormy exit](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
