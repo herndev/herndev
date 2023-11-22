@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: before his ousting, Sam Altman made a move to push out board member Helen Toner because he thought a paper she had co-written was critical of OpenAI &lpar;New York Times&rpar;](http://www.techmeme.com/231121/p51#a231121p51)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Spotify’s new royalty scheme picks the winners](https://www.theverge.com/2023/11/21/23971616/spotify-royalties-labels-streaming-fraud-pushkin-malcolm-gladwell)<!-- TECH:END -->
+ - [OpenAI insiders and other sources describe the turmoil within OpenAI following Sam Altman&#39;s ousting and how Altman&#39;s supporters rallied behind him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p53#a231121p53)
+ - [In a letter to Elon Musk, 27 US lawmakers, all Democrats, express concern that X seems to be profiting from anti-Israel propaganda via ads and subscriptions &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231121/p52#a231121p52)
+ - [Paramount Plus Black Friday deal: save 67% on 3 months of service](https://appleinsider.com/articles/23/11/22/paramount-plus-black-friday-deal-save-67-on-3-months-of-service?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
