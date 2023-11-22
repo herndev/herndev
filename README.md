@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - ⏩ [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 👉 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)<!-- MEMES:END -->
+ - 💣 [Juicy Melons](http://9gag.com/gag/a9q09X6)
+ - ⏩ [Poland City of Zakopane](http://9gag.com/gag/aVb5GNy)
+ - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
 
 ---
 
