@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Master Ball Special Research quest steps, and is it worth buying?](https://www.polygon.com/pokemon-go-guide/23972442/master-ball-special-research-quest-steps-worth-buying)
- - [Another one bites the dust: Binance CEO quits as both he and the company plead guilty to money laundering charges and accept whopping $4.3 billion fine](https://www.pcgamer.com/another-one-bites-the-dust-binance-ceo-quits-as-both-he-and-the-company-plead-guilty-to-money-laundering-charges-and-accept-whopping-dollar43-billion-fine)
- - [World of Warcraft player gets visited by benevolent twink &#39;Boostlord&#39;, a level 10 monster mage juiced up on funky dungeon scaling](https://www.pcgamer.com/world-of-warcraft-player-gets-visited-by-benevolent-twink-boostlord-a-level-10-monster-mage-juiced-up-on-funky-dungeon-scaling)<!-- GAME:END -->
+ - [Pokémon Go ‘Party Up’ event, Timed Research guide](https://www.polygon.com/pokemon-go-guide/2023/11/22/23972533/party-up-event-timed-research-field-tasks)
+ - [Bluey: The Videogame review](https://www.pcgamer.com/bluey-the-videogame-review)
+ - [Stealthy goblin murder sim Styx: Shards of Darkness is free on GOG](https://www.pcgamer.com/stealthy-goblin-murder-sim-styx-shards-of-darkness-is-free-on-gog)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
