@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Party Up’ event, Timed Research guide](https://www.polygon.com/pokemon-go-guide/2023/11/22/23972533/party-up-event-timed-research-field-tasks)
- - [Bluey: The Videogame review](https://www.pcgamer.com/bluey-the-videogame-review)
- - [Stealthy goblin murder sim Styx: Shards of Darkness is free on GOG](https://www.pcgamer.com/stealthy-goblin-murder-sim-styx-shards-of-darkness-is-free-on-gog)<!-- GAME:END -->
+ - [Kotaku Readers Can’t Agree On When Games Should Be Remastered](https://kotaku.com/last-of-us-part-ii-2-remastered-ps5-ps4-remake-too-soon-1851042718)
+ - [You’ll be surprised how many great gaming gifts cost well under $100](https://www.polygon.com/23958798/black-friday-gaming-game-deals-under-100-cyber-monday-2023)
+ - [Where to find ‘Legless Wild Non-Fish Creature’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23972702/legless-wild-non-fish-creature-graph-adversarial-technology-experiment-log)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
