@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
- - ⏩ [Oof](http://9gag.com/gag/aL15y7v)
- - 👉 [The most peaceful and kind conversation with McDonald&#39;s employee to ever exist](http://9gag.com/gag/aoKwb4g)<!-- MEMES:END -->
+ - 💣 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
+ - ⏩ [Love my country!](http://9gag.com/gag/avQwNob)
+ - 👉 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)<!-- MEMES:END -->
 
 ---
 
