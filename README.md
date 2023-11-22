@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tiger Global Management&#39;s Scott Shleifer will transition from his role leading private investments to a senior adviser role, effective January 1, 2024 &lpar;The Information&rpar;](http://www.techmeme.com/231121/p49#a231121p49)
- - [Fitbit prices dive as much as 38% in latest Black Friday promotion](https://www.androidauthority.com/fitbit-black-friday-deals-3387773/)
- - [Low storage space? These Black Friday SSD &amp; hard drive deals for Mac can help](https://appleinsider.com/articles/23/11/21/low-storage-space-these-black-friday-ssd-hard-drive-deals-for-mac-can-help?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: before his ousting, Sam Altman made a move to push out board member Helen Toner because he thought a paper she had co-written was critical of OpenAI &lpar;New York Times&rpar;](http://www.techmeme.com/231121/p51#a231121p51)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Spotify’s new royalty scheme picks the winners](https://www.theverge.com/2023/11/21/23971616/spotify-royalties-labels-streaming-fraud-pushkin-malcolm-gladwell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
