@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record low price: Alogic Clarity 27-inch 4K monitor drops to $599 with Black Friday coupon](https://appleinsider.com/articles/23/11/22/record-low-price-alogic-clarity-27-inch-4k-monitor-drops-to-599-with-black-friday-coupon?utm_medium=rss)
- - [The best Black Friday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
- - [Graphcore lays off most of its staff in China and discontinues sales in the country, citing US export rules; China made up 20% to 25% of Graphcore&#39;s business &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p21#a231122p21)<!-- TECH:END -->
+ - [Microsoft says North Korean group Lazarus has breached software company CyberLink and modified one of its installers to push malware in a supply-chain attack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231122/p23#a231122p23)
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
+ - [47 Best Black Friday Outdoor Deals &lpar;2023&rpar;: REI and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
