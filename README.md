@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku Readers Can’t Agree On When Games Should Be Remastered](https://kotaku.com/last-of-us-part-ii-2-remastered-ps5-ps4-remake-too-soon-1851042718)
- - [You’ll be surprised how many great gaming gifts cost well under $100](https://www.polygon.com/23958798/black-friday-gaming-game-deals-under-100-cyber-monday-2023)
- - [Where to find ‘Legless Wild Non-Fish Creature’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23972702/legless-wild-non-fish-creature-graph-adversarial-technology-experiment-log)<!-- GAME:END -->
+ - [Warhammer 40,000: Space Marine 2 is delayed, and hoo boy it&#39;s a long one](https://www.pcgamer.com/warhammer-40000-space-marine-2-is-delayed-and-hoo-boy-its-a-long-one)
+ - [PUBG is getting an extraction shooter spinoff next year](https://www.pcgamer.com/pubg-is-getting-an-extraction-shooter-spinoff-next-year)
+ - [Hulu, Max, Peacock, and Paramount Plus subscriptions are cheaper for Black Friday](https://www.polygon.com/23969334/hulu-max-paramount-plus-streaming-black-friday-deal-sale-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
