@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oof](http://9gag.com/gag/aL15y7v)
- - ⏩ [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 👉 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)<!-- MEMES:END -->
+ - 💣 [Juicy Melons](http://9gag.com/gag/a9q09X6)
+ - ⏩ [Oof](http://9gag.com/gag/aL15y7v)
+ - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
 
 ---
 
