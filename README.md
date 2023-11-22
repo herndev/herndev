@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Space Marine 2 is delayed, and hoo boy it&#39;s a long one](https://www.pcgamer.com/warhammer-40000-space-marine-2-is-delayed-and-hoo-boy-its-a-long-one)
- - [PUBG is getting an extraction shooter spinoff next year](https://www.pcgamer.com/pubg-is-getting-an-extraction-shooter-spinoff-next-year)
- - [Hulu, Max, Peacock, and Paramount Plus subscriptions are cheaper for Black Friday](https://www.polygon.com/23969334/hulu-max-paramount-plus-streaming-black-friday-deal-sale-cyber-monday)<!-- GAME:END -->
+ - [Six months after rebooting Prince of Persia: The Sands of Time Remake, Ubisoft says it&#39;s coming along nicely: &#39;The project has passed an important internal milestone&#39;](https://www.pcgamer.com/six-months-after-rebooting-prince-of-persia-the-sands-of-time-remake-ubisoft-says-its-coming-along-nicely-the-project-has-passed-an-important-internal-milestone)
+ - [Left 4 Dead Got A Sequel So Fast Because The First Game Was Extremely ‘Broken’](https://kotaku.com/l4d2-left-4-dead-2-broken-fast-sequel-valve-anacrusis-1851043368)
+ - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
