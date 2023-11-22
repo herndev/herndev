@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto Started With Grand Dreams, Then Backroom Deals. Now It’s Mired in Lawsuits](https://www.wired.com/story/crypto-grand-dreams-backroom-deals-lawsuits/)
- - [20 Best Black Friday Deals Under $50 &lpar;2023&rpar;: Anker, Google, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2023/)
- - [Court filing: crypto lender Genesis sues the Winklevoss&#39; exchange Gemini Trust to recover $689M, alleging Gemini made preferential transfers to other creditors &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231122/p12#a231122p12)<!-- TECH:END -->
+ - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)
+ - [How to Have the Best Record Store Day](https://www.wired.com/story/how-to-record-store-day-shopping-tips/)
+ - [LG SC9S Review: Decent Sound, But Can&#39;t Compete With Sonos](https://www.wired.com/review/lg-sc9s/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
