@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kinda chubby](http://9gag.com/gag/anzwL2q)
- - ⏩ [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
- - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
+ - 💣 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - ⏩ [This is why people are still playing L4D 15 years later and back 4 blood died 1 year after its launch](http://9gag.com/gag/aYV58B7)
+ - 👉 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)<!-- MEMES:END -->
 
 ---
 
