@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Lawyer Leading the Human Resistance Against AI](https://www.wired.com/story/matthew-butterick-ai-copyright-lawsuits-openai-meta/)
- - [Internal Alibaba memo: Jack Ma has not yet sold any Alibaba stock due to the price not reaching his desired level; Ma planned to sell 10M shares for ~$870M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231122/p9#a231122p9)
- - [Altman beats OpenAI board and returns as CEO after stormy exit](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)<!-- TECH:END -->
+ - [Crypto Started With Grand Dreams, Then Backroom Deals. Now It’s Mired in Lawsuits](https://www.wired.com/story/crypto-grand-dreams-backroom-deals-lawsuits/)
+ - [20 Best Black Friday Deals Under $50 &lpar;2023&rpar;: Anker, Google, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2023/)
+ - [Court filing: crypto lender Genesis sues the Winklevoss&#39; exchange Gemini Trust to recover $689M, alleging Gemini made preferential transfers to other creditors &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231122/p12#a231122p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
