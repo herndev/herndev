@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #886 for Wednesday, November 22](https://www.pcgamer.com/wordle-today-answer-886-november-22)
- - [Diablo 4 player defies death itself with sorcerer build so unkillable they went AFK for 20 minutes against the Butcher](https://www.pcgamer.com/diablo-4-player-defies-death-itself-with-sorcerer-build-so-unkillable-they-went-afk-for-20-minutes-against-the-butcher)
- - [People are trying to resell Baldur&#39;s Gate 3 Deluxe Editions for a profit even though supplies aren&#39;t limited and there&#39;s plenty of stock](https://www.pcgamer.com/people-are-trying-to-resell-baldurs-gate-3-deluxe-editions-for-a-profit-even-though-supplies-arent-limited-and-theres-plenty-of-stock)<!-- GAME:END -->
+ - [Worldless: Making a Game That Won’t Allow You To Die](https://news.xbox.com/en-us/2023/11/22/worldless-design-death/)
+ - [The holiday deal you didn&#39;t know you needed](https://www.pcgamer.com/the-holiday-deal-you-didnt-know-you-needed)
+ - [Left 4 Dead&#39;s first internal playtest was so disastrous, Gabe Newell asked its lead: &#39;Why don&#39;t I just play Counter-Strike instead?&#39; then &#39;made me watch him play it&#39;](https://www.pcgamer.com/left-4-deads-first-internal-playtest-was-so-disastrous-gabe-newell-asked-its-lead-why-dont-i-just-play-counter-strike-instead-then-made-me-watch-him-play-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
