@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Six months after rebooting Prince of Persia: The Sands of Time Remake, Ubisoft says it&#39;s coming along nicely: &#39;The project has passed an important internal milestone&#39;](https://www.pcgamer.com/six-months-after-rebooting-prince-of-persia-the-sands-of-time-remake-ubisoft-says-its-coming-along-nicely-the-project-has-passed-an-important-internal-milestone)
- - [Left 4 Dead Got A Sequel So Fast Because The First Game Was Extremely ‘Broken’](https://kotaku.com/l4d2-left-4-dead-2-broken-fast-sequel-valve-anacrusis-1851043368)
- - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)<!-- GAME:END -->
+ - [Squid Game: The Challenge isn’t even the best branded reality show this month](https://www.polygon.com/23972965/squid-game-challenge-reality-show-netflix-review-007-road-million)
+ - [An alt-history &#39;city builder grand strategy hybrid&#39; set amidst two World Wars? Yes, you have my attention](https://www.pcgamer.com/an-alt-history-city-builder-grand-strategy-hybrid-set-amidst-two-world-wars-yes-you-have-my-attention)
+ - [Space Marine 2 is officially delayed until the second half of 2024](https://www.polygon.com/23971550/space-marine-2-delayed-focus-entertainment-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
