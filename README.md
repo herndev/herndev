@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: as part of the deal, Sam Altman and Greg Brockman will not reclaim their board seats; Altman had pushed for more control; OpenAI retains its structure &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231122/p8#a231122p8)
- - [Everyone can now speak to ChatGPT for free](https://www.androidauthority.com/chatgpt-voice-conversation-availability-3387899/)
- - [Best Black Friday gaming console deals on PS5, Nintendo Switch, Xbox](https://appleinsider.com/articles/23/11/22/best-black-friday-gaming-console-deals-on-ps5-nintendo-switch-xbox?utm_medium=rss)<!-- TECH:END -->
+ - [What is Grok and how it compares to ChatGPT?](https://www.androidauthority.com/what-is-grok-3385411/)
+ - [This Mini Rechargeable Lantern Is My Perfect Camping Lighting Source. It&#39;s on Sale This Black Friday     - CNET](https://www.cnet.com/deals/this-mini-rechargeable-lantern-is-my-perfect-camping-lighting-source-its-on-sale-this-black-friday/#ftag=CAD590a51e)
+ - [I Have a Drawerful of Expensive Knives. This Cheap Knife Is the One I Always Use     - CNET](https://www.cnet.com/deals/i-have-a-drawerful-of-expensive-knives-this-cheap-knife-is-the-one-i-always-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
