@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost got it](http://9gag.com/gag/aA05WM2)
- - ⏩ [Best self-defense trick](http://9gag.com/gag/ajVwz38)
- - 👉 [Great, another one that got away unpunished...](http://9gag.com/gag/aBd5DwA)<!-- MEMES:END -->
+ - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - ⏩ [Kinda chubby](http://9gag.com/gag/anzwL2q)
+ - 👉 [I wonder why he cut the vid](http://9gag.com/gag/aqewPyj)<!-- MEMES:END -->
 
 ---
 
