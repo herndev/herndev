@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - ⏩ [Oof](http://9gag.com/gag/aL15y7v)
- - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
+ - 💣 [Hold my beer darling! I have to punch the hell outta that thief...](http://9gag.com/gag/a4oye6Z)
+ - ⏩ [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
+ - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
 
 ---
 
