@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam’s Massive Fall Sale Is Offering Up Some Good Deals](https://kotaku.com/steam-fall-autumn-sale-best-deals-games-starfield-when-1851040401)
- - [Mortal Kombat 1 Players Are Time Traveling To Avoid Buying Skins](https://kotaku.com/mortal-kombat-1-console-date-change-free-skins-1851040158)
- - [I&#39;m So Tired Of Crossover &#39;Skins&#39; Cluttering Up Video Games](https://kotaku.com/crossover-skins-destiny-2-witcher-halo-rainbow-six-bad-1851039973)<!-- GAME:END -->
+ - [Stellar Interface: the Old Shmups Meet the New](https://news.xbox.com/en-us/2023/11/21/stellar-interface-the-old-shmups-meet-the-new/)
+ - [The best deals in the 2023 Steam Autumn Sale](https://www.pcgamer.com/steam-autumn-sale-2023-best-deals)
+ - [Ubisoft has &#39;paused&#39; advertising on Twitter](https://www.pcgamer.com/ubisoft-has-paused-advertising-on-twitter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
