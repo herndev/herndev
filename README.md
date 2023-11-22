@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 89 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-4/)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [In the Russia-Ukraine war, using electromagnetic waves to flummox and follow drones and other smarter weapons becomes a critical part of the cat-and-mouse game &lpar;New York Times&rpar;](http://www.techmeme.com/231122/p25#a231122p25)<!-- TECH:END -->
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [45 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-1/)
+ - [I Track Kitchen Deals for a Living. These Are the Black Friday Sales I&#39;m Telling Friends About     - CNET](https://www.cnet.com/deals/best-black-friday-kitchen-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
