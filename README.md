@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hayao Miyazaki is very convincing](https://www.theverge.com/23971512/boy-and-the-heron-takeshi-honda-interview-evangelion)
+ - [Kickstart your crafting with these 3D printer Black Friday sales](https://appleinsider.com/articles/23/11/22/kickstart-your-crafting-with-these-3d-printer-black-friday-sales?utm_medium=rss)
  - [&#39;Napoleon&#39; is a hit with the box office, but not so much with critics](https://appleinsider.com/articles/23/11/22/napoleon-is-a-hit-with-the-box-office-but-not-so-much-with-critics?utm_medium=rss)
- - [Kodak’s new Super 8 film camera is actually coming out](https://www.theverge.com/2023/11/22/23972513/kodak-super-8-film-camera-lcd-screen-price-release-date-specs-features)<!-- TECH:END -->
+ - [The WiiM Amp is a stream-everything receiver with Mac Mini vibes](https://www.theverge.com/2023/11/22/23972352/wiim-amp-airplay-2-chromecast-wireless-receiver-vintage-hi-fi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
