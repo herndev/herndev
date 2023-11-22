@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12 could have a wood grain-textured panel like OnePlus’s first phone](https://www.androidauthority.com/oneplus-12-wood-panel-3388004/)
- - [Eminem is coming to Fortnite’s The Big Bang event](https://www.theverge.com/2023/11/22/23972384/eminem-fortnite-og-chapter-4-finale)
- - [Inflection AI debuts Inflection-2, an LLM the company claims outperforms Llama 2 and Google&#39;s PaLM in some tests, and plans to add the model to its Pi chatbot &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231122/p19#a231122p19)<!-- TECH:END -->
+ - [Hayao Miyazaki is very convincing](https://www.theverge.com/23971512/boy-and-the-heron-takeshi-honda-interview-evangelion)
+ - [&#39;Napoleon&#39; is a hit with the box office, but not so much with critics](https://appleinsider.com/articles/23/11/22/napoleon-is-a-hit-with-the-box-office-but-not-so-much-with-critics?utm_medium=rss)
+ - [Kodak’s new Super 8 film camera is actually coming out](https://www.theverge.com/2023/11/22/23972513/kodak-super-8-film-camera-lcd-screen-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
