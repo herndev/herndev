@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Squid Game: The Challenge isn’t even the best branded reality show this month](https://www.polygon.com/23972965/squid-game-challenge-reality-show-netflix-review-007-road-million)
- - [An alt-history &#39;city builder grand strategy hybrid&#39; set amidst two World Wars? Yes, you have my attention](https://www.pcgamer.com/an-alt-history-city-builder-grand-strategy-hybrid-set-amidst-two-world-wars-yes-you-have-my-attention)
- - [Space Marine 2 is officially delayed until the second half of 2024](https://www.polygon.com/23971550/space-marine-2-delayed-focus-entertainment-2024)<!-- GAME:END -->
+ - [Those reusable Epic Games Store coupons are back for Black Friday, and the discount is even bigger this time](https://www.pcgamer.com/those-reusable-epic-games-store-coupons-are-back-for-black-friday-and-the-discount-is-even-bigger-this-time)
+ - [A Decades-Old Glitch In Half-Life Has Finally Been Fixed](https://kotaku.com/half-life-new-update-fixed-old-bug-animation-blast-pit-1851043667)
+ - [Five things to know before watching Disney’s Wish](https://www.polygon.com/23972979/wish-post-credits-scene-disney-movie-animation-style-songs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
