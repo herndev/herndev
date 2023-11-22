@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
- - ⏩ [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - 👉 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)<!-- MEMES:END -->
+ - 💣 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - ⏩ [Oof](http://9gag.com/gag/aL15y7v)
+ - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
 
 ---
 
