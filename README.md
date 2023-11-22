@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)
- - [How to Have the Best Record Store Day](https://www.wired.com/story/how-to-record-store-day-shopping-tips/)
- - [LG SC9S Review: Decent Sound, But Can&#39;t Compete With Sonos](https://www.wired.com/review/lg-sc9s/)<!-- TECH:END -->
+ - [Laptop-ready power banks are getting smaller and lighter, and this is my fav](https://www.androidauthority.com/laptop-ready-power-banks-3387390/)
+ - [Take up to 50% off of merch from The Verge for Black Friday and Cyber Monday](https://www.theverge.com/23969777/verge-merch-black-friday-cyber-monday-sale)
+ - [Microsoft’s AI-powered Copilot for Windows 10 is now available to test](https://www.theverge.com/2023/11/22/23972257/microsoft-windows-10-copilot-feature-release-preview-testing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
