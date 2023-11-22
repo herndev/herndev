@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Laptop-ready power banks are getting smaller and lighter, and this is my fav](https://www.androidauthority.com/laptop-ready-power-banks-3387390/)
- - [Take up to 50% off of merch from The Verge for Black Friday and Cyber Monday](https://www.theverge.com/23969777/verge-merch-black-friday-cyber-monday-sale)
- - [Microsoft’s AI-powered Copilot for Windows 10 is now available to test](https://www.theverge.com/2023/11/22/23972257/microsoft-windows-10-copilot-feature-release-preview-testing)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)
+ - [Teenage Engineering’s new synthesizer is powerful, portable, and gorgeous](https://www.theverge.com/2023/11/22/23965528/teenage-engineering-ep133-ko-2-synthesizer)
+ - [The best Chromebooks for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
