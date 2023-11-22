@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stellar Interface: the Old Shmups Meet the New](https://news.xbox.com/en-us/2023/11/21/stellar-interface-the-old-shmups-meet-the-new/)
- - [The best deals in the 2023 Steam Autumn Sale](https://www.pcgamer.com/steam-autumn-sale-2023-best-deals)
- - [Ubisoft has &#39;paused&#39; advertising on Twitter](https://www.pcgamer.com/ubisoft-has-paused-advertising-on-twitter)<!-- GAME:END -->
+ - [Diablo 4 player defies death itself with sorcerer build so unkillable they went AFK for 20 minutes against the Butcher](https://www.pcgamer.com/diablo-4-player-defies-death-itself-with-sorcerer-build-so-unkillable-they-went-afk-for-20-minutes-against-the-butcher)
+ - [People are trying to resell Baldur&#39;s Gate 3 Deluxe Editions for a profit even though supplies aren&#39;t limited and there&#39;s plenty of stock](https://www.pcgamer.com/people-are-trying-to-resell-baldurs-gate-3-deluxe-editions-for-a-profit-even-though-supplies-arent-limited-and-theres-plenty-of-stock)
+ - [As GTA 6 trailer reveal approaches, Rockstar Games whacks the name &#39;Rockstar Social Club&#39;](https://www.pcgamer.com/as-gta-6-trailer-reveal-approaches-rockstar-games-whacks-the-name-rockstar-social-club)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
