@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)
- - [Teenage Engineering’s new synthesizer is powerful, portable, and gorgeous](https://www.theverge.com/2023/11/22/23965528/teenage-engineering-ep133-ko-2-synthesizer)
- - [The best Chromebooks for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
+ - [OnePlus 12 could have a wood grain-textured panel like OnePlus’s first phone](https://www.androidauthority.com/oneplus-12-wood-panel-3388004/)
+ - [Eminem is coming to Fortnite’s The Big Bang event](https://www.theverge.com/2023/11/22/23972384/eminem-fortnite-og-chapter-4-finale)
+ - [Inflection AI debuts Inflection-2, an LLM the company claims outperforms Llama 2 and Google&#39;s PaLM in some tests, and plans to add the model to its Pi chatbot &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231122/p19#a231122p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
