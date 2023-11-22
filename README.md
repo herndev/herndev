@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Florida judge rules he found &quot;reasonable evidence&quot; that Tesla knew about the Autopilot defect, opening the door to a public trial over a fatal Tesla car crash &lpar;Reuters&rpar;](http://www.techmeme.com/231122/p3#a231122p3)
- - [India&#39;s Enforcement Directorate accuses edtech giant Byju&#39;s of violating rules under the country&#39;s Foreign Exchange Management Act to the tune of $1.12B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231122/p2#a231122p2)
- - [Hulu’s Black Friday deal gives you a subscription for just $0.99/month for the rest of the year](https://www.androidauthority.com/hulu-black-friday-2023-deal-3387842/)<!-- TECH:END -->
+ - [Sam Altman Reaches Agreement to Return to OpenAI](https://www.wired.com/story/sam-altman-openai-back/)
+ - [Source: OpenAI&#39;s initial board will vet and appoint a new formal board of up to 9 people; Microsoft and Sam Altman will likely have seats on the formal board &lpar;The Verge&rpar;](http://www.techmeme.com/231122/p6#a231122p6)
+ - [Breaking: OpenAI has another new CEO, and it’s the same old CEO, Sam Altman](https://www.androidauthority.com/openai-sam-altman-returns-ceo-3387851/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
