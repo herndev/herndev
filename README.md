@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
- - ⏩ [Love my country!](http://9gag.com/gag/avQwNob)
- - 👉 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)<!-- MEMES:END -->
+ - 💣 [Kinda chubby](http://9gag.com/gag/anzwL2q)
+ - ⏩ [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
 
 ---
 
