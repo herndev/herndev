@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [What is Party Play in Pokémon Go? How to join a Party, distance, rewards explained](https://www.polygon.com/pokemon-go-guide/23918919/party-play-party-power-damage-co-op-multiplayer-bonus)<!-- GAME:END -->
+ - [The Future Of ChatGPT Just Became A Circus [Update]](https://kotaku.com/microsoft-openai-sam-altman-twitch-emmett-shear-1851035956)
+ - [The best one-season anime you can watch in a weekend](https://www.polygon.com/22762260/best-anime-one-season)
+ - [Cyberpunk 2077&#39;s Incredible Turnaround Will Now Be Preserved Forever](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-0-ultimate-edition-1851038320)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
