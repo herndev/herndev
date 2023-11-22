@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relationship goals.](http://9gag.com/gag/aYV5397)
- - ⏩ [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
- - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
+ - 💣 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - ⏩ [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
+ - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
 
 ---
 
