@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 FE gets Android 14 with stable One UI 6 update](https://www.androidauthority.com/samsung-galaxy-s23-fe-one-ui-6-update-3387837/)
- - [Australia unveils a A$587M seven-year cyber resilience plan that includes cyber health checks for small businesses and mandatory reporting of ransomware attacks &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231121/p56#a231121p56)
- - [Amazon Black Friday Deals: The 75+ Best Offers to Shop Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Florida judge rules he found &quot;reasonable evidence&quot; that Tesla knew about the Autopilot defect, opening the door to a public trial over a fatal Tesla car crash &lpar;Reuters&rpar;](http://www.techmeme.com/231122/p3#a231122p3)
+ - [India&#39;s Enforcement Directorate accuses edtech giant Byju&#39;s of violating rules under the country&#39;s Foreign Exchange Management Act to the tune of $1.12B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231122/p2#a231122p2)
+ - [Hulu’s Black Friday deal gives you a subscription for just $0.99/month for the rest of the year](https://www.androidauthority.com/hulu-black-friday-2023-deal-3387842/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
