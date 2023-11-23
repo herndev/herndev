@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese Convenience Store Sandwich](http://9gag.com/gag/aDYvREw)
- - ⏩ [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)
- - 👉 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)<!-- MEMES:END -->
+ - 💣 [Oof](http://9gag.com/gag/aL15y7v)
+ - ⏩ [When you just want to take your kid to play Mini Golf and this happens.](http://9gag.com/gag/avQjpOM)
+ - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
 
 ---
 
