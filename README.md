@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never](http://9gag.com/gag/aeQBKRm)
- - ⏩ [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
+ - 💣 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - ⏩ [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
+ - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
 
 ---
 
