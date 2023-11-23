@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Pixel 8 Pro owners notice circular bumps on the screen; Google says they are &quot;impressions from components&quot; and don&#39;t impact durability or performance &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p16#a231123p16)
- - [Best Buy Black Friday: Save Hundreds on Sonos, KitchenAid, Lego and More     - CNET](https://www.cnet.com/deals/best-buy-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Black Friday 2023 Live Blog: 167 Best Deals Available Now, According to Our Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Peloton CEO apologizes after Thanksgiving ride struggles with demand](https://www.theverge.com/2023/11/23/23974096/peloton-ceo-apology-thanksgiving-crash)
+ - [South Korea plans to start a digital currency pilot in Q4 2024; 100K people will be able to use deposit tokens issued by commercial banks in the form of CBDC &lpar;Lee Yeon-Woo/The Korea Times&rpar;](http://www.techmeme.com/231123/p17#a231123p17)
+ - [The best deals of Black Friday 2023: Flagship devices on sale](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
