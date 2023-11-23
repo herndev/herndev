@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Mattress Deals: Sleep Well Knowing You Saved Hundreds on a Brand New Mattress     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
  - [Arlo vs Ring: Which offers the best smart home security?](https://www.androidauthority.com/arlo-vs-ring-3388054/)
- - [ASUS Zenfone 11 wishlist: All the features I want to see](https://www.androidauthority.com/asus-zenfone-11-2-3387354/)
- - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and Accessories Right Now     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday TV Deals: Save Up to $800 on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
