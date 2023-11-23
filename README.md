@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mujjo offers a 20% discount on everything from iPhone cases to AirTag holders](https://appleinsider.com/articles/23/11/23/mujjo-offers-a-20-discount-on-everything-from-iphone-cases-to-airtag-holders?utm_medium=rss)
- - [Source: an OpenAI employee share sale valuing the company at $86B is back on track after Sam Altman&#39;s reinstatement and is expected to close in December &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231122/p29#a231122p29)
- - [How to Find Safe Eye Drops     - CNET](https://www.cnet.com/health/personal-care/how-to-find-safe-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says X will start showing preview headlines for links again, but does not provide details on the timeline or give an example of how the card will look &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231122/p31#a231122p31)
+ - [Snap up keyboards, mice and computing essentials at Black Friday bargain prices](https://appleinsider.com/articles/23/11/23/snap-up-keyboards-mice-and-computing-essentials-at-black-friday-bargain-prices?utm_medium=rss)
+ - [The UK plans to boost spending on computing power to develop AI by &amp;pound;500M over two years, bringing its total planned investment to more than &amp;pound;1.5B &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/231122/p30#a231122p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
