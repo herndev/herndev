@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s the new map and weapon loot pool changes in Fortnite OG’s Season X update?](https://www.polygon.com/fortnite-guide/2023/11/23/23972612/new-map-loot-pool-fortnite-og-season-x)
- - [What anime food would you bring to Thanksgiving?](https://www.polygon.com/23969607/best-anime-food-delicious-yum)
- - [The Last Of Us Part II Remastered Takes Things To A Far Darker Place](https://kotaku.com/the-last-of-us-part-2-remastered-lost-levels-sewers-1851044879)<!-- GAME:END -->
+ - [Tekken 8 is going to knock another 100GB out of your PC&#39;s available storage](https://www.pcgamer.com/tekken-8-is-going-to-knock-another-100gb-out-of-your-pcs-available-storage)
+ - [Thanksgiving is Spider-Man’s holiday](https://www.polygon.com/23971196/spider-man-thanksgiving-connection-holiday)
+ - [Dave the Diver studio&#39;s zombie survival sim gets its pre-alpha playtest next week](https://www.pcgamer.com/dave-the-diver-studios-zombie-survival-sim-gets-its-pre-alpha-playtest-next-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
