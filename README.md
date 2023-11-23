@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
- - [Google updates Google Meet to recognize gestures in meetings, including raising a hand to trigger the &quot;Raise hand&quot; button; the feature is off by default &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p5#a231123p5)
- - [Google says you shouldn’t worry about those bumps on your Pixel 8 Pro screen](https://www.androidauthority.com/google-pixel-8-pro-display-bumps-comment-3388269/)<!-- TECH:END -->
+ - [What is Android System Intelligence, and why is it on your phone?](https://www.androidauthority.com/android-system-intelligence-3325187/)
+ - [Pixel 8a wallpapers are already here, grab them now](https://www.androidauthority.com/download-google-pixel-8a-wallpapers-3388283/)
+ - [Amazon Black Friday Deals: Shop Over 75 Incredible Offers Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
