@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #887 for Thursday, November 23](https://www.pcgamer.com/wordle-today-answer-887-november-23)
- - [Those reusable Epic Games Store coupons are back for Black Friday, and the discount is even bigger this time](https://www.pcgamer.com/those-reusable-epic-games-store-coupons-are-back-for-black-friday-and-the-discount-is-even-bigger-this-time)
- - [A Decades-Old Glitch In Half-Life Has Finally Been Fixed](https://kotaku.com/half-life-new-update-fixed-old-bug-animation-blast-pit-1851043667)<!-- GAME:END -->
+ - [How to get Operator Assault Kills in Call of Duty: Modern Warfare 3](https://www.pcgamer.com/call-of-duty-modern-warfare-3-operator-assault-kills)
+ - [No Starfield? No problem! Turn Mass Effect into the first-person space RPG of your dreams with this mod](https://www.pcgamer.com/no-starfield-no-problem-turn-mass-effect-into-the-first-person-space-rpg-of-your-dreams-with-this-mod)
+ - [Sources claim the Knights of the Old Republic remake isn&#39;t dead, though what&#39;s really going on is anyone&#39;s guess](https://www.pcgamer.com/sources-claim-the-knights-of-the-old-republic-remake-isnt-dead-though-whats-really-going-on-is-anyones-guess)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
