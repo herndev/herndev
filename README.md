@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Persona 5 Tactica makes the wait for Persona 6 a little easier](https://www.theverge.com/23972945/persona-5-tactica-first-impressions-atlus)
- - [UK juries find web hosting firm UKFast founder Lawrence Jones guilty of rape and sexual assault; Jones was estimated to be worth ~&amp;pound;700M until 2019 allegations &lpar;Madison Marriage/Financial Times&rpar;](http://www.techmeme.com/231123/p11#a231123p11)
- - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)<!-- TECH:END -->
+ - [Klarna wins approval to offer credit and payment products in the UK, but not BNPL loans; temporary approval for UK operations post-Brexit expires in five weeks &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231123/p12#a231123p12)
+ - [The Galaxy S23 Ultra plunges almost $400 in Thanksgiving deal](https://www.androidauthority.com/galaxy-s23-ultra-deal-3388356/)
+ - [Best Black Friday Headphone Deals: Save Up to $180 on Beats, Apple, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
