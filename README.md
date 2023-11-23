@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Those reusable Epic Games Store coupons are back for Black Friday, and the discount is even bigger this time](https://www.pcgamer.com/those-reusable-epic-games-store-coupons-are-back-for-black-friday-and-the-discount-is-even-bigger-this-time)
- - [A Decades-Old Glitch In Half-Life Has Finally Been Fixed](https://kotaku.com/half-life-new-update-fixed-old-bug-animation-blast-pit-1851043667)
- - [Five things to know before watching Disney’s Wish](https://www.polygon.com/23972979/wish-post-credits-scene-disney-movie-animation-style-songs)<!-- GAME:END -->
+ - [This year’s Macy’s Thanksgiving Day Parade balloons: Adam Sandler, Luffy, and a floating NFT](https://www.polygon.com/2023/11/22/23970838/thanksgiving-day-parade-how-watch-stream-time-2023-guide-balloons)
+ - [Oppenheimer, Good Burger 2, Netflix’s Leo, and every new movie to watch this weekend](https://www.polygon.com/entertainment/2023/11/22/23969026/new-movies-oppenheimer-netflix-leo-good-burger-2-paramount-plus-streaming)
+ - [Those reusable Epic Games Store coupons are back for Black Friday, and the discount is even bigger this time](https://www.pcgamer.com/those-reusable-epic-games-store-coupons-are-back-for-black-friday-and-the-discount-is-even-bigger-this-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
