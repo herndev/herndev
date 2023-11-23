@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says X will start showing preview headlines for links again, but does not provide details on the timeline or give an example of how the card will look &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231122/p31#a231122p31)
- - [Snap up keyboards, mice and computing essentials at Black Friday bargain prices](https://appleinsider.com/articles/23/11/23/snap-up-keyboards-mice-and-computing-essentials-at-black-friday-bargain-prices?utm_medium=rss)
- - [The UK plans to boost spending on computing power to develop AI by &amp;pound;500M over two years, bringing its total planned investment to more than &amp;pound;1.5B &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/231122/p30#a231122p30)<!-- TECH:END -->
+ - [Bose QuietComfort 45 hits all-time low price for Black Friday 2023](https://www.androidauthority.com/bose-black-friday-2023-deals-3388182/)
+ - [Get a 27-inch iMac for only $999 with this Black Friday special](https://appleinsider.com/articles/23/11/23/get-a-27-inch-imac-for-only-999-with-this-black-friday-special?utm_medium=rss)
+ - [Source: a breakthrough spearheaded by OpenAI chief scientist Ilya Sutskever enabled a model that could solve basic math problems, stoking excitement and concern &lpar;The Information&rpar;](http://www.techmeme.com/231123/p2#a231123p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
