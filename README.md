@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - ⏩ [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
+ - 💣 [Is that so?](http://9gag.com/gag/awZ2qL1)
+ - ⏩ [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 👉 [What do you call such people?](http://9gag.com/gag/aKEM4y3)<!-- MEMES:END -->
 
 ---
 
