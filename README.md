@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oof](http://9gag.com/gag/aL15y7v)
- - ⏩ [When you just want to take your kid to play Mini Golf and this happens.](http://9gag.com/gag/avQjpOM)
- - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
+ - 💣 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - ⏩ [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
 
 ---
 
