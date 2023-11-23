@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Android System Intelligence, and why is it on your phone?](https://www.androidauthority.com/android-system-intelligence-3325187/)
- - [Pixel 8a wallpapers are already here, grab them now](https://www.androidauthority.com/download-google-pixel-8a-wallpapers-3388283/)
- - [Amazon Black Friday Deals: Shop Over 75 Incredible Offers Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the European Commission plans to grant Amazon unconditional antitrust approval for its $1.4B iRobot acquisition, having set a February 14 deadline &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231123/p8#a231123p8)
+ - [My Favorite 3-in-1 Wireless Charger Is a Must-Buy for Apple Fans at $55 Off     - CNET](https://www.cnet.com/deals/my-favorite-3-in-1-wireless-charger-is-a-must-buy-for-apple-fans-at-55-off/#ftag=CAD590a51e)
+ - [The US asks a court to reverse its decision to let Changpeng Zhao return to the UAE ahead of his February 2024 sentencing, citing his &quot;substantial&quot; flight risk &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/231123/p7#a231123p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
