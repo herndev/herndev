@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What’s the new map and weapon loot pool changes in Fortnite OG’s Season X update?](https://www.polygon.com/fortnite-guide/2023/11/23/23972612/new-map-loot-pool-fortnite-og-season-x)
  - [What anime food would you bring to Thanksgiving?](https://www.polygon.com/23969607/best-anime-food-delicious-yum)
- - [Bayonetta creator Hideki Kamiya says &#39;It would be a disaster&#39; if he ever collaborated with Hideo Kojima or Yoko Taro: &#39;It doesn&#39;t work like in Dragon Ball&#39;](https://www.pcgamer.com/bayonetta-creator-hideki-kamiya-says-it-would-be-a-disaster-if-he-ever-collaborated-with-hideo-kojima-or-yoko-taro-it-doesnt-work-like-in-dragon-ball)
- - [17 years after its release, the best Star Wars strategy game gets converted to 64-bit](https://www.pcgamer.com/17-years-after-its-release-the-best-star-wars-strategy-game-gets-converted-to-64-bit)<!-- GAME:END -->
+ - [The Last Of Us Part II Remastered Takes Things To A Far Darker Place](https://kotaku.com/the-last-of-us-part-2-remastered-lost-levels-sewers-1851044879)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
