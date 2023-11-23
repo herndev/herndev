@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oof](http://9gag.com/gag/aL15y7v)
- - ⏩ [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
- - 👉 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)<!-- MEMES:END -->
+ - 💣 [Well well well](http://9gag.com/gag/aoK7zo2)
+ - ⏩ [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
+ - 👉 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)<!-- MEMES:END -->
 
 ---
 
