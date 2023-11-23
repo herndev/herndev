@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
- - ⏩ [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 👉 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)<!-- MEMES:END -->
+ - 💣 [Classic](http://9gag.com/gag/a6qRmbm)
+ - ⏩ [Anything is possible when you lies](http://9gag.com/gag/anzoqpn)
+ - 👉 [Mind Blowing Sunset](http://9gag.com/gag/anzoeGz)<!-- MEMES:END -->
 
 ---
 
