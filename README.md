@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Intel executive VP and GM of Technology Development Ann Kelleher on the company&#39;s new Fab 34 in Ireland, upcoming nodes, Intel&#39;s roadmap, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231123/p15#a231123p15)
- - [The 37 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [The best secret codes for Android phones](https://www.androidauthority.com/best-secret-codes-for-android-phones-3388361/)<!-- TECH:END -->
+ - [Some Pixel 8 Pro owners notice circular bumps on the screen; Google says they are &quot;impressions from components&quot; and don&#39;t impact durability or performance &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p16#a231123p16)
+ - [Best Buy Black Friday: Save Hundreds on Sonos, KitchenAid, Lego and More     - CNET](https://www.cnet.com/deals/best-buy-black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Black Friday 2023 Live Blog: 167 Best Deals Available Now, According to Our Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
