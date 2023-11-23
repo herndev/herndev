@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - ⏩ [It will take 10-15 years but I\u2019m sure honey n kids will forgive daddy eventually.. just to good opportunity after the dentist](http://9gag.com/gag/aVb6O9y)
- - 👉 [Japanese Convenience Store Sandwich](http://9gag.com/gag/aDYvREw)<!-- MEMES:END -->
+ - 💣 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - ⏩ [This one goes out to the Village Idiot](http://9gag.com/gag/a4o09ZQ)
+ - 👉 [Who would have known?](http://9gag.com/gag/aA05nYR)<!-- MEMES:END -->
 
 ---
 
