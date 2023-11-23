@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 is going to knock another 100GB out of your PC&#39;s available storage](https://www.pcgamer.com/tekken-8-is-going-to-knock-another-100gb-out-of-your-pcs-available-storage)
- - [Thanksgiving is Spider-Man’s holiday](https://www.polygon.com/23971196/spider-man-thanksgiving-connection-holiday)
- - [Dave the Diver studio&#39;s zombie survival sim gets its pre-alpha playtest next week](https://www.pcgamer.com/dave-the-diver-studios-zombie-survival-sim-gets-its-pre-alpha-playtest-next-week)<!-- GAME:END -->
+ - [Self-described gay furry hackers breach one of the biggest nuclear labs in the US, and demand it begin researching &#39;IRL catgirls&#39;](https://www.pcgamer.com/self-described-gay-furry-hackers-breach-one-of-the-biggest-nuclear-labs-in-the-us-and-demand-it-begin-researching-irl-catgirls)
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
+ - [Embracer exec says laying off hundreds of people was an &#39;agonising process,&#39; but that restructuring is &#39;how we win&#39;](https://www.pcgamer.com/embracer-exec-says-laying-off-hundreds-of-people-was-an-agonising-process-but-that-restructuring-is-how-we-win)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
