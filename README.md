@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Remember when Frozen helped solve the Dyaltov Pass incident?](https://www.polygon.com/entertainment/23971564/frozen-dyatlov-pass-incident-avalanche-technology-explorer-mysteries)
  - [Robocop: Rogue City&#39;s surprising success proves there&#39;s still room in the business for mid-tier games with good licenses](https://www.pcgamer.com/robocop-rogue-citys-surprising-success-proves-theres-still-room-in-the-business-for-mid-tier-games-with-good-licenses)
- - [The Intellivision Amico Console Is Somehow Still Not Dead](https://kotaku.com/intellivision-amico-android-console-1851045271)
- - [Self-described gay furry hackers breach one of the biggest nuclear labs in the US, and demand it begin researching &#39;IRL catgirls&#39;](https://www.pcgamer.com/self-described-gay-furry-hackers-breach-one-of-the-biggest-nuclear-labs-in-the-us-and-demand-it-begin-researching-irl-catgirls)<!-- GAME:END -->
+ - [The Intellivision Amico Console Is Somehow Still Not Dead](https://kotaku.com/intellivision-amico-android-console-1851045271)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
