@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
- - [54 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-2/)
- - [After 18 years of typing, I rediscovered the joys of writing with the Kindle Scribe](https://www.androidauthority.com/kindle-scribe-note-writing-3388315/)<!-- TECH:END -->
+ - [Best Black Friday streaming deals on Max, Paramount Plus, Hulu &amp; Peacock drop rates to as low as $0.99 per month](https://appleinsider.com/articles/23/11/23/best-black-friday-streaming-deals-on-max-paramount-plus-hulu-peacock-drop-rates-to-as-low-as-099-per-month?utm_medium=rss)
+ - [FIA, which runs F1, plans to use its Computer Vision tech to tackle track limits breaches at the Abu Dhabi Grand Prix, using shape analysis to count pixels &lpar;Alan Baldwin/Reuters&rpar;](http://www.techmeme.com/231123/p13#a231123p13)
+ - [These Black Friday Amazon tablet deals are 🔥](https://www.androidauthority.com/amazon-tablet-black-friday-deals-3388368/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
