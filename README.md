@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic](http://9gag.com/gag/a6qRmbm)
- - ⏩ [Anything is possible when you lies](http://9gag.com/gag/anzoqpn)
- - 👉 [Mind Blowing Sunset](http://9gag.com/gag/anzoeGz)<!-- MEMES:END -->
+ - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - ⏩ [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
+ - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
 
 ---
 
