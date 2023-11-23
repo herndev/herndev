@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna wins approval to offer credit and payment products in the UK, but not BNPL loans; temporary approval for UK operations post-Brexit expires in five weeks &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231123/p12#a231123p12)
- - [The Galaxy S23 Ultra plunges almost $400 in Thanksgiving deal](https://www.androidauthority.com/galaxy-s23-ultra-deal-3388356/)
- - [Best Black Friday Headphone Deals: Save Up to $180 on Beats, Apple, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
+ - [54 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-2/)
+ - [After 18 years of typing, I rediscovered the joys of writing with the Kindle Scribe](https://www.androidauthority.com/kindle-scribe-note-writing-3388315/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
