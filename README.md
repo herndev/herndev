@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - ⏩ [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
- - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
+ - 💣 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - ⏩ [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 👉 [What do you call such people?](http://9gag.com/gag/aKEM4y3)<!-- MEMES:END -->
 
 ---
 
