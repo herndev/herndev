@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday streaming deals on Max, Paramount Plus, Hulu &amp; Peacock drop rates to as low as $0.99 per month](https://appleinsider.com/articles/23/11/23/best-black-friday-streaming-deals-on-max-paramount-plus-hulu-peacock-drop-rates-to-as-low-as-099-per-month?utm_medium=rss)
- - [FIA, which runs F1, plans to use its Computer Vision tech to tackle track limits breaches at the Abu Dhabi Grand Prix, using shape analysis to count pixels &lpar;Alan Baldwin/Reuters&rpar;](http://www.techmeme.com/231123/p13#a231123p13)
- - [These Black Friday Amazon tablet deals are 🔥](https://www.androidauthority.com/amazon-tablet-black-friday-deals-3388368/)<!-- TECH:END -->
+ - [Unicorn Overlord aims to bring tactical RPGs back to the ‘90s](https://www.theverge.com/2023/11/23/23971097/unicorn-overlord-retro-tactical-rpg-interview-switch-xbox-playstation)
+ - [Automotive tech company Valeo sues Nvidia, after an Nvidia engineer accidentally shared data he stole from his former employer Valeo, on a video call with Valeo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231123/p14#a231123p14)
+ - [Apple&#39;s new M3 MacBook Pro 16-inch with 36GB RAM is on sale for $2,649 &lpar;$250 off&rpar;](https://appleinsider.com/articles/23/11/23/apples-new-m3-macbook-pro-16-inch-with-36gb-ram-is-on-sale-for-2649-250-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
