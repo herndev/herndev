@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese social platforms like Weibo and Douyin require popular users to reveal their real names, forcing some influencers to either cull their followers or quit &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/231123/p4#a231123p4)
- - [OpenAI reportedly made a potentially scary AI breakthrough](https://www.androidauthority.com/openai-potentially-scary-ai-breakthrough-3388217/)
- - [Samsung phones in 2025 might feature a new type of OLED panel](https://www.androidauthority.com/samsung-blue-pholed-panels-smartphones-2025-3388228/)<!-- TECH:END -->
+ - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
+ - [Google updates Google Meet to recognize gestures in meetings, including raising a hand to trigger the &quot;Raise hand&quot; button; the feature is off by default &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p5#a231123p5)
+ - [Google says you shouldn’t worry about those bumps on your Pixel 8 Pro screen](https://www.androidauthority.com/google-pixel-8-pro-display-bumps-comment-3388269/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
