@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose QuietComfort 45 hits all-time low price for Black Friday 2023](https://www.androidauthority.com/bose-black-friday-2023-deals-3388182/)
- - [Get a 27-inch iMac for only $999 with this Black Friday special](https://appleinsider.com/articles/23/11/23/get-a-27-inch-imac-for-only-999-with-this-black-friday-special?utm_medium=rss)
- - [Source: a breakthrough spearheaded by OpenAI chief scientist Ilya Sutskever enabled a model that could solve basic math problems, stoking excitement and concern &lpar;The Information&rpar;](http://www.techmeme.com/231123/p2#a231123p2)<!-- TECH:END -->
+ - [Amazon is cutting Kindle Scribe prices by over $100 for Black Friday](https://www.androidauthority.com/amazon-kindle-scribe-black-friday-3388194/)
+ - [B&amp;H Black Friday price drops offer up to $2,900 in savings on Apple](https://appleinsider.com/articles/23/11/22/bh-black-friday-price-drops-offer-up-to-2900-in-savings-on-apple?utm_medium=rss)
+ - [Samsung’s Galaxy Book 3 line hits record low for Black Friday](https://www.androidauthority.com/samsung-galaxy-book-3-series-black-friday-2023-3386885/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
