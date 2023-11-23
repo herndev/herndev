@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung phones in 2025 might feature a new type of OLED panel](https://www.androidauthority.com/samsung-blue-pholed-panels-smartphones-2025-3388228/)
- - [Sony is fighting fake photos with a digital birth certificate](https://www.androidauthority.com/sony-image-authentication-birth-certificate-camera-tech-3388206/)
- - [A profile of Matthew Butterick, a lawyer leading cases against OpenAI, Meta, Stability AI, and others, alleging they broke the law when building their AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231123/p3#a231123p3)<!-- TECH:END -->
+ - [Chinese social platforms like Weibo and Douyin require popular users to reveal their real names, forcing some influencers to either cull their followers or quit &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/231123/p4#a231123p4)
+ - [OpenAI reportedly made a potentially scary AI breakthrough](https://www.androidauthority.com/openai-potentially-scary-ai-breakthrough-3388217/)
+ - [Samsung phones in 2025 might feature a new type of OLED panel](https://www.androidauthority.com/samsung-blue-pholed-panels-smartphones-2025-3388228/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
