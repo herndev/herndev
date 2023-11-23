@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - ⏩ [Poland City of Zakopane](http://9gag.com/gag/aVb5GNy)
- - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
+ - 💣 [Japanese Convenience Store Sandwich](http://9gag.com/gag/aDYvREw)
+ - ⏩ [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)
+ - 👉 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)<!-- MEMES:END -->
 
 ---
 
