@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Operator Assault Kills in Call of Duty: Modern Warfare 3](https://www.pcgamer.com/call-of-duty-modern-warfare-3-operator-assault-kills)
- - [No Starfield? No problem! Turn Mass Effect into the first-person space RPG of your dreams with this mod](https://www.pcgamer.com/no-starfield-no-problem-turn-mass-effect-into-the-first-person-space-rpg-of-your-dreams-with-this-mod)
- - [Sources claim the Knights of the Old Republic remake isn&#39;t dead, though what&#39;s really going on is anyone&#39;s guess](https://www.pcgamer.com/sources-claim-the-knights-of-the-old-republic-remake-isnt-dead-though-whats-really-going-on-is-anyones-guess)<!-- GAME:END -->
+ - [What anime food would you bring to Thanksgiving?](https://www.polygon.com/23969607/best-anime-food-delicious-yum)
+ - [Bayonetta creator Hideki Kamiya says &#39;It would be a disaster&#39; if he ever collaborated with Hideo Kojima or Yoko Taro: &#39;It doesn&#39;t work like in Dragon Ball&#39;](https://www.pcgamer.com/bayonetta-creator-hideki-kamiya-says-it-would-be-a-disaster-if-he-ever-collaborated-with-hideo-kojima-or-yoko-taro-it-doesnt-work-like-in-dragon-ball)
+ - [17 years after its release, the best Star Wars strategy game gets converted to 64-bit](https://www.pcgamer.com/17-years-after-its-release-the-best-star-wars-strategy-game-gets-converted-to-64-bit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
