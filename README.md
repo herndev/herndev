@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Matthew Butterick, a lawyer leading cases against OpenAI, Meta, Stability AI, and others, alleging they broke the law when building their AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231123/p3#a231123p3)
- - [A US state gave out 133,000 Chromebooks to people for free](https://www.androidauthority.com/maryland-gives-out-free-chromebooks-3387995/)
- - [Hard Drives, YouTube, and Murder: India’s Dark History of Digital Hate](https://www.wired.com/story/india-election-youtube-murder-dark-history-digital-hate/)<!-- TECH:END -->
+ - [Samsung phones in 2025 might feature a new type of OLED panel](https://www.androidauthority.com/samsung-blue-pholed-panels-smartphones-2025-3388228/)
+ - [Sony is fighting fake photos with a digital birth certificate](https://www.androidauthority.com/sony-image-authentication-birth-certificate-camera-tech-3388206/)
+ - [A profile of Matthew Butterick, a lawyer leading cases against OpenAI, Meta, Stability AI, and others, alleging they broke the law when building their AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231123/p3#a231123p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
