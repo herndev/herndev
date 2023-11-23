@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is that so?](http://9gag.com/gag/awZ2qL1)
- - ⏩ [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
- - 👉 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)<!-- MEMES:END -->
+ - 💣 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
+ - ⏩ [Oof](http://9gag.com/gag/aL15y7v)
+ - 👉 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)<!-- MEMES:END -->
 
 ---
 
