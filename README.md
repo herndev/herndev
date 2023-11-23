@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best secret codes for Android phones](https://www.androidauthority.com/best-secret-codes-for-android-phones-3388361/)
- - [The new Liberty 4 NC drop to just $69.99 in the Anker Soundcore sale](https://www.androidauthority.com/anker-soundcore-black-friday-deals-3388389/)
- - [Amazon launches Black Friday Apple Watch Ultra 2 deal for $729.99, delivering new record low price](https://appleinsider.com/articles/23/11/23/amazon-launches-black-friday-apple-watch-ultra-2-deal-for-72999-delivering-new-record-low-price?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with Intel executive VP and GM of Technology Development Ann Kelleher on the company&#39;s new Fab 34 in Ireland, upcoming nodes, Intel&#39;s roadmap, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231123/p15#a231123p15)
+ - [The 37 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [The best secret codes for Android phones](https://www.androidauthority.com/best-secret-codes-for-android-phones-3388361/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
