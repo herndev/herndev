@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Self-described gay furry hackers breach one of the biggest nuclear labs in the US, and demand it begin researching &#39;IRL catgirls&#39;](https://www.pcgamer.com/self-described-gay-furry-hackers-breach-one-of-the-biggest-nuclear-labs-in-the-us-and-demand-it-begin-researching-irl-catgirls)
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
- - [Embracer exec says laying off hundreds of people was an &#39;agonising process,&#39; but that restructuring is &#39;how we win&#39;](https://www.pcgamer.com/embracer-exec-says-laying-off-hundreds-of-people-was-an-agonising-process-but-that-restructuring-is-how-we-win)<!-- GAME:END -->
+ - [Robocop: Rogue City&#39;s surprising success proves there&#39;s still room in the business for mid-tier games with good licenses](https://www.pcgamer.com/robocop-rogue-citys-surprising-success-proves-theres-still-room-in-the-business-for-mid-tier-games-with-good-licenses)
+ - [The Intellivision Amico Console Is Somehow Still Not Dead](https://kotaku.com/intellivision-amico-android-console-1851045271)
+ - [Self-described gay furry hackers breach one of the biggest nuclear labs in the US, and demand it begin researching &#39;IRL catgirls&#39;](https://www.pcgamer.com/self-described-gay-furry-hackers-breach-one-of-the-biggest-nuclear-labs-in-the-us-and-demand-it-begin-researching-irl-catgirls)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
