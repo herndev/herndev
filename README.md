@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - ⏩ [Who would have known?](http://9gag.com/gag/aA05nYR)
- - 👉 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)<!-- MEMES:END -->
+ - 💣 [Never](http://9gag.com/gag/aeQBKRm)
+ - ⏩ [Juicy Melons](http://9gag.com/gag/a9q09X6)
+ - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
 
 ---
 
