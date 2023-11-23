@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PSA: You Shouldn&#39;t Cook Your Steam Deck](https://kotaku.com/valve-steam-deck-melted-pc-gaming-1851045461)
  - [Remember when Frozen helped solve the Dyaltov Pass incident?](https://www.polygon.com/entertainment/23971564/frozen-dyatlov-pass-incident-avalanche-technology-explorer-mysteries)
- - [Robocop: Rogue City&#39;s surprising success proves there&#39;s still room in the business for mid-tier games with good licenses](https://www.pcgamer.com/robocop-rogue-citys-surprising-success-proves-theres-still-room-in-the-business-for-mid-tier-games-with-good-licenses)
- - [The Intellivision Amico Console Is Somehow Still Not Dead](https://kotaku.com/intellivision-amico-android-console-1851045271)<!-- GAME:END -->
+ - [Robocop: Rogue City&#39;s surprising success proves there&#39;s still room in the business for mid-tier games with good licenses](https://www.pcgamer.com/robocop-rogue-citys-surprising-success-proves-theres-still-room-in-the-business-for-mid-tier-games-with-good-licenses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
