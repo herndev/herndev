@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - ⏩ [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 👉 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)<!-- MEMES:END -->
+ - 💣 [Oof](http://9gag.com/gag/aL15y7v)
+ - ⏩ [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
+ - 👉 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)<!-- MEMES:END -->
 
 ---
 
