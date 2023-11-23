@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is cutting Kindle Scribe prices by over $100 for Black Friday](https://www.androidauthority.com/amazon-kindle-scribe-black-friday-3388194/)
- - [B&amp;H Black Friday price drops offer up to $2,900 in savings on Apple](https://appleinsider.com/articles/23/11/22/bh-black-friday-price-drops-offer-up-to-2900-in-savings-on-apple?utm_medium=rss)
- - [Samsung’s Galaxy Book 3 line hits record low for Black Friday](https://www.androidauthority.com/samsung-galaxy-book-3-series-black-friday-2023-3386885/)<!-- TECH:END -->
+ - [A profile of Matthew Butterick, a lawyer leading cases against OpenAI, Meta, Stability AI, and others, alleging they broke the law when building their AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231123/p3#a231123p3)
+ - [A US state gave out 133,000 Chromebooks to people for free](https://www.androidauthority.com/maryland-gives-out-free-chromebooks-3387995/)
+ - [Hard Drives, YouTube, and Murder: India’s Dark History of Digital Hate](https://www.wired.com/story/india-election-youtube-murder-dark-history-digital-hate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
