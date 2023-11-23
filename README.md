@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday special lands you a 3-month Boost Mobile plan for just $15!](https://www.androidauthority.com/black-friday-boost-mobile-3388151/)
- - [Reflecting on 18 years at Google: early Google had a vision, but its culture has eroded, morale is at an all-time low, and healing requires changes at the top &lpar;Ian Hickson/Hixie&#39;s Natural Log&rpar;](http://www.techmeme.com/231123/p9#a231123p9)
- - [JBL Authentics 200 Review: A Great Little Smart Speaker](https://www.wired.com/review/jbl-authentics-200/)<!-- TECH:END -->
+ - [Persona 5 Tactica makes the wait for Persona 6 a little easier](https://www.theverge.com/23972945/persona-5-tactica-first-impressions-atlus)
+ - [UK juries find web hosting firm UKFast founder Lawrence Jones guilty of rape and sexual assault; Jones was estimated to be worth ~&amp;pound;700M until 2019 allegations &lpar;Madison Marriage/Financial Times&rpar;](http://www.techmeme.com/231123/p11#a231123p11)
+ - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
