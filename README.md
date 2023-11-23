@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is that so?](http://9gag.com/gag/awZ2qL1)
- - ⏩ [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 👉 [What do you call such people?](http://9gag.com/gag/aKEM4y3)<!-- MEMES:END -->
+ - 💣 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - ⏩ [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
+ - 👉 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)<!-- MEMES:END -->
 
 ---
 
