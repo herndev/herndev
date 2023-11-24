@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday is bustling with great board game deals on Amazon](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)
- - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)
- - [Score 2023’s best deals yet on gaming monitors](https://www.polygon.com/23952402/black-friday-gaming-monitor-deals-sale-pc-ps5-xbox)<!-- GAME:END -->
+ - [The best D&amp;D Black Friday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
+ - [Scoop up these Magic: The Gathering deals in Amazon’s Black Friday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
+ - [You’ll be surprised how many great gaming gifts cost well under $100](https://www.polygon.com/23958798/black-friday-gaming-game-deals-under-100-cyber-monday-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
