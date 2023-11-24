@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The awesome Criterion Collection Jackie Chan box set is half-off this Black Friday](https://www.polygon.com/23974560/criterion-collection-half-off-black-friday-2023)
- - [GameStop’s buy two get one free deal is a chance to try Modern Warfare 3](https://www.polygon.com/23974519/gamestop-video-game-deals-sales-black-friday-2023)
- - [Black Friday’s best deals on toys for the young and young at heart](https://www.polygon.com/23958981/black-friday-toy-deals-cyber-monday-lego-barbie-nerf-funko)<!-- GAME:END -->
+ - [Share of the Week: Marvel’s Spider-Man 2 – Villains](https://blog.playstation.com/2023/11/24/share-of-the-week-marvels-spider-man-2-villains/)
+ - [Laser-cut board game organizers are a decadent, thoughtful gift idea](https://www.polygon.com/23974616/board-game-organizer-tabletop-deal-smonex-black-friday-2023)
+ - [Starfield player completes the main story by whacking every enemy to death with his gun, an ability some players didn&#39;t know was in the game at all](https://www.pcgamer.com/starfield-player-completes-the-main-story-by-whacking-every-enemy-to-death-with-his-gun-an-ability-some-players-didnt-know-was-in-the-game-at-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
