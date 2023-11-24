@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Amazon Fire TVs are automatically playing fullscreen ads on startup](https://www.androidauthority.com/amazon-fire-tv-auto-play-fullscreen-ads-startup-3388636/)
- - [124 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
- - [Foxconn founder Terry Gou drops out of Taiwan&#39;s presidential race, saying &quot;I choose to sacrifice myself for the greater good&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231124/p2#a231124p2)<!-- TECH:END -->
+ - [Casetify calls itself ‘a bastion of originality’](https://www.androidauthority.com/dbrand-jerryrigeverything-lawsuit-casetify-3388674/)
+ - [Every M3 MacBook Pro &amp; iMac is up to $250 off this Black Friday, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/24/every-m3-macbook-pro-imac-is-up-to-250-off-this-black-friday-plus-up-to-80-off-applecare?utm_medium=rss)
+ - [Samsung Galaxy S24 Ultra with flat display gets leaked in alleged live images](https://www.androidauthority.com/samsung-galaxy-s24-ultra-leaked-live-images-3388661/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
