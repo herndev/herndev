@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Adventure](http://9gag.com/gag/aA09Y5d)
- - ⏩ [Savage](http://9gag.com/gag/aZDYWoW)
- - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
+ - 💣 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - ⏩ [Since the mainstream media hides the news from you, I will show them to you:](http://9gag.com/gag/az23VNZ)
+ - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
 
 ---
 
