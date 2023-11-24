@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These huge Beats Black Friday deals are music to our ears](https://www.androidauthority.com/beats-black-friday-deals-3388856/)
- - [China&#39;s Sunway unveils new CPUs with a maximum FP64 throughput of 13.8 TFLOPS, which could let China build high-performance supercomputers despite US sanctions &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231124/p11#a231124p11)
- - [84 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023-1/)<!-- TECH:END -->
+ - [Best Black Friday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
+ - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
+ - [Rare deal puts this premium B&amp;O portable speaker at its lowest price ever](https://www.androidauthority.com/beosound-a1-bluetooth-speaker-3388849/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
