@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech entrepreneur Anthony Levandowski says he&#39;s rebooting his AI-focused church, Way of the Future, and that the congregation has &quot;a couple thousand people&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231123/p20#a231123p20)
- - [TK Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023/)
- - [Apple Black Friday Deals 2023](https://appleinsider.com/live/apple-black-friday-deals-2023)<!-- TECH:END -->
+ - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)
+ - [Dbrand and JerryRigEverything file a case against case-maker Casetify for ripping off their cases](https://www.androidauthority.com/dbrand-jerryrigeverything-vs-casetify-lawsuit-3388473/)
+ - [Early Black Friday 2023 Live Blog: Over 100 Best Deals Available Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
