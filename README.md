@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton CEO apologizes after Thanksgiving ride struggles with demand](https://www.theverge.com/2023/11/23/23974096/peloton-ceo-apology-thanksgiving-crash)
- - [South Korea plans to start a digital currency pilot in Q4 2024; 100K people will be able to use deposit tokens issued by commercial banks in the form of CBDC &lpar;Lee Yeon-Woo/The Korea Times&rpar;](http://www.techmeme.com/231123/p17#a231123p17)
- - [The best deals of Black Friday 2023: Flagship devices on sale](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [Best Black Friday Deals: 31 Top Picks Curated by Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Under $100: Everyday Gadgets and Go-to Tech     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)
+ - [Best Black Friday Mattress Deals: Save Hundreds on Top Brands     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
