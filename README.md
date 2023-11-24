@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well](http://9gag.com/gag/aoK7zo2)
- - ⏩ [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
- - 👉 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)<!-- MEMES:END -->
+ - 💣 [Savage](http://9gag.com/gag/aZDYWoW)
+ - ⏩ [My first PS. Saved for 8 months and now finally it&#39;s mine. I cried when I saw the console. Small wins.](http://9gag.com/gag/aOxWbqy)
+ - 👉 [Irish citizens confront journalists who called them `Far Right racists` after mass stabbing of children by immigrants.](http://9gag.com/gag/a4o090y)<!-- MEMES:END -->
 
 ---
 
