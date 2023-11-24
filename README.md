@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 5 is almost as cheap as the S23 Ultra for Black Friday](https://www.androidauthority.com/samsung-galaxy-z-fold-5-black-friday-deal-3388482/)
- - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
- - [Sony’s impressive LinkBuds S earbuds are a steal at this special Black Friday price](https://www.androidauthority.com/sony-black-friday-2023-deals-3388481/)<!-- TECH:END -->
+ - [There’s no shortage of great Black Friday Chromebook deals today](https://www.androidauthority.com/chromebooks-black-friday-deals-2023-3388486/)
+ - [Get the 2-pack Google Nest Wi-Fi Pro mesh router for the price of one!](https://www.androidauthority.com/google-nest-wi-fi-pro-black-friday-3388487/)
+ - [B&amp;H launches $1,749 M3 Pro MacBook Pro deal, plus more steep Apple discounts](https://appleinsider.com/articles/23/11/24/bh-launches-1749-m3-pro-macbook-pro-deal-plus-more-steep-apple-discounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
