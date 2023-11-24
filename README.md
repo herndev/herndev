@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;A**holes&#39; swat GTA 5 actor&#39;s house during Thanksgiving livestream](https://www.pcgamer.com/aholes-swat-gta-5-actors-house-during-thanksgiving-livestream)
- - [Gorgeous Calvin and Hobbes box set is less than half price for Black Friday](https://www.polygon.com/2023/11/24/23974661/calvin-and-hobbes-bill-watterson-the-mysteries-black-friday-cyber-monday-deals-2023)
- - [The best D&amp;D Black Friday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)<!-- GAME:END -->
+ - [Lethal Company&#39;s co-op horror comedy is like Phasmophobia, but immediately more chaotic and deadly](https://www.pcgamer.com/lethal-companys-co-op-horror-comedy-is-like-phasmophobia-but-immediately-more-chaotic-and-deadly)
+ - [Court rules Gabe Newell must appear in person to testify in Steam anti-trust lawsuit](https://www.pcgamer.com/court-rules-gabe-newell-must-appear-in-person-to-testify-in-steam-anti-trust-lawsuit)
+ - [The World&#39;s Most Expensive Pikachu &lpar;Birthday&rpar; Card](https://kotaku.com/pokemon-center-pikachu-birthday-card-price-1851046420)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
