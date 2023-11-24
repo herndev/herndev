@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
- - ⏩ [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
- - 👉 [Here we go again\u2026](http://9gag.com/gag/a8qgbm6)<!-- MEMES:END -->
+ - 💣 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
+ - ⏩ [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
+ - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
 
 ---
 
