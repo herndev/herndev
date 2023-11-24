@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
- - ⏩ [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
+ - 💣 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
+ - ⏩ [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
+ - 👉 [We like wahmen](http://9gag.com/gag/aqeEmz7)<!-- MEMES:END -->
 
 ---
 
