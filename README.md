@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The biggest Black Friday deals have officially launched](https://www.polygon.com/23954379/black-friday-best-gaming-deals-games-tabletop-ssd)
- - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)
- - [There&#39;s still time to join the Fleet Battles in World of Warships: Legends](https://www.pcgamer.com/theres-still-time-to-join-the-fleet-battles-in-world-of-warships-legends)<!-- GAME:END -->
+ - [25 years later, this Half-Life scientist finally bites it as Gabe intended](https://www.pcgamer.com/25-years-later-this-half-life-scientist-finally-bites-it-as-gabe-intended)
+ - [The best D&amp;D Black Friday deals so far](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
+ - [Modern Warfare 3&#39;s latest exploit is wriggling around on the floor as a snake going mach one](https://www.pcgamer.com/modern-warfare-3s-latest-exploit-is-wriggling-around-on-the-floor-as-a-snake-going-mach-one)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
