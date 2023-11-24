@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lethal Company&#39;s co-op horror comedy is like Phasmophobia, but immediately more chaotic and deadly](https://www.pcgamer.com/lethal-companys-co-op-horror-comedy-is-like-phasmophobia-but-immediately-more-chaotic-and-deadly)
- - [Court rules Gabe Newell must appear in person to testify in Steam anti-trust lawsuit](https://www.pcgamer.com/court-rules-gabe-newell-must-appear-in-person-to-testify-in-steam-anti-trust-lawsuit)
- - [The World&#39;s Most Expensive Pikachu &lpar;Birthday&rpar; Card](https://kotaku.com/pokemon-center-pikachu-birthday-card-price-1851046420)<!-- GAME:END -->
+ - [The best D&amp;D Black Friday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
+ - [Scoop up these Magic: The Gathering deals in Amazon’s Black Friday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
+ - [Score 2023’s best deals yet on gaming monitors](https://www.polygon.com/23952402/black-friday-gaming-monitor-deals-sale-pc-ps5-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
