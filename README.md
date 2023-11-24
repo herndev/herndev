@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ubisoft has started rolling out in-game ads that appear when selecting Pause menu or viewing game Map](http://9gag.com/gag/avQjLvq)
- - ⏩ [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 👉 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)<!-- MEMES:END -->
+ - ⏩ [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
 
 ---
 
