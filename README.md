@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab an M2 Mac mini for just $499 in a Black Friday price war](https://appleinsider.com/articles/23/11/24/grab-an-m2-mac-mini-for-just-499-in-a-black-friday-price-war?utm_medium=rss)
- - [47 Best Black Friday Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-deals-under-50-2023-2/)
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)<!-- TECH:END -->
+ - [Hallmark Channel Won the Streaming Wars](https://www.wired.com/story/hallmark-channel-countdown-to-christmas-streaming-wars/)
+ - [The Razer Viper Ultimate is the ultimate wireless gaming mouse you can buy for just $70](https://www.androidauthority.com/razer-viper-ultimate-black-friday-deal-3388699/)
+ - [After users complained about seeing a fullscreen pop-up ad in Assassin&#39;s Creed Odyssey on both Xbox and PlayStation, Ubisoft blames a &quot;technical error&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231124/p5#a231124p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
