@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Apple Black Friday Deals 2023](https://appleinsider.com/live/apple-black-friday-deals-2023)
  - [Denver-based healthcare software provider Welltok reports a July 2023 data breach exposed ~8.5M US patients&#39; data, making it the second largest MOVEit breach &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231123/p19#a231123p19)
- - [Best Early Black Friday Nintendo Switch Deals: Save on Consoles, Games and Storage     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early PS5 Black Friday Deals: Consoles, Games and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
