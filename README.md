@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [45 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-2/)
- - [16 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023/)
- - [Best Black Friday Deals Under $25: Tech, Toys, Air Fryers, Everyday Essentials and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some Amazon Fire TVs are automatically playing fullscreen ads on startup](https://www.androidauthority.com/amazon-fire-tv-auto-play-fullscreen-ads-startup-3388636/)
+ - [124 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
+ - [Foxconn founder Terry Gou drops out of Taiwan&#39;s presidential race, saying &quot;I choose to sacrifice myself for the greater good&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231124/p2#a231124p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
