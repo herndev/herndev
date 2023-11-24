@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 27 – December 1](https://news.xbox.com/en-us/2023/11/24/next-week-on-xbox-new-games-for-november-27-december-1/)
- - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)
+ - [The awesome Criterion Collection Jackie Chan box set is half-off this Black Friday](https://www.polygon.com/23974560/criterion-collection-half-off-black-friday-2023)
+ - [GameStop’s buy two get one free deal is a chance to try Modern Warfare 3](https://www.polygon.com/23974519/gamestop-video-game-deals-sales-black-friday-2023)
  - [Black Friday’s best deals on toys for the young and young at heart](https://www.polygon.com/23958981/black-friday-toy-deals-cyber-monday-lego-barbie-nerf-funko)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
