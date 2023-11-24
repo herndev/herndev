@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [[No title]](http://9gag.com/gag/a9qG7YZ)
- - ⏩ [A true legend](http://9gag.com/gag/aL1EP0M)
- - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
+ - 💣 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
+ - ⏩ [Adventure](http://9gag.com/gag/aA09Y5d)
+ - 👉 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)<!-- MEMES:END -->
 
 ---
 
