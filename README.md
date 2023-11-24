@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
- - ⏩ [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
- - 👉 [We like wahmen](http://9gag.com/gag/aqeEmz7)<!-- MEMES:END -->
+ - 💣 [Well well well](http://9gag.com/gag/aoK7zo2)
+ - ⏩ [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
+ - 👉 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)<!-- MEMES:END -->
 
 ---
 
