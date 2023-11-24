@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [Amazon&#39;s Black Friday AirTag deals drop prices to as low as $23.99](https://appleinsider.com/articles/23/11/24/amazons-black-friday-airtag-deals-drop-prices-to-as-low-as-2399?utm_medium=rss)
- - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)<!-- TECH:END -->
+ - [FOIA docs: Prashant Bhardwaj, hired in March as the US OCC&#39;s first officer to police fintech firms, lied about his work history; OCC quietly replaced Bhardwaj &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/231124/p9#a231124p9)
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+ - [150 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
