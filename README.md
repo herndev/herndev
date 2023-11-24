@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casetify calls itself ‘a bastion of originality’](https://www.androidauthority.com/dbrand-jerryrigeverything-lawsuit-casetify-3388674/)
- - [Every M3 MacBook Pro &amp; iMac is up to $250 off this Black Friday, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/24/every-m3-macbook-pro-imac-is-up-to-250-off-this-black-friday-plus-up-to-80-off-applecare?utm_medium=rss)
- - [Samsung Galaxy S24 Ultra with flat display gets leaked in alleged live images](https://www.androidauthority.com/samsung-galaxy-s24-ultra-leaked-live-images-3388661/)<!-- TECH:END -->
+ - [55 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
+ - [How to Switch to the Desktop Versions of Your Favorite Mobile Sites](https://www.wired.com/story/how-to-switch-desktop-version-mobile-site/)
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
