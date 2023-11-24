@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [25 years later, this Half-Life scientist finally bites it as Gabe intended](https://www.pcgamer.com/25-years-later-this-half-life-scientist-finally-bites-it-as-gabe-intended)
- - [The best D&amp;D Black Friday deals so far](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
- - [Modern Warfare 3&#39;s latest exploit is wriggling around on the floor as a snake going mach one](https://www.pcgamer.com/modern-warfare-3s-latest-exploit-is-wriggling-around-on-the-floor-as-a-snake-going-mach-one)<!-- GAME:END -->
+ - [Left 4 Dead could&#39;ve had player classes—but the game&#39;s co-lead put his foot down: &#39;no, that is the wrong way to go&#39;](https://www.pcgamer.com/left-4-dead-couldve-had-player-classesbut-the-games-co-lead-put-his-foot-down-no-that-is-the-wrong-way-to-go)
+ - [The biggest Black Friday deals have officially launched](https://www.polygon.com/23954379/black-friday-best-gaming-deals-games-tabletop-ssd)
+ - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
