@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)
- - [Dbrand and JerryRigEverything file a case against case-maker Casetify for ripping off their cases](https://www.androidauthority.com/dbrand-jerryrigeverything-vs-casetify-lawsuit-3388473/)
- - [Early Black Friday 2023 Live Blog: Over 100 Best Deals Available Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy Z Fold 5 is almost as cheap as the S23 Ultra for Black Friday](https://www.androidauthority.com/samsung-galaxy-z-fold-5-black-friday-deal-3388482/)
+ - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
+ - [Sony’s impressive LinkBuds S earbuds are a steal at this special Black Friday price](https://www.androidauthority.com/sony-black-friday-2023-deals-3388481/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
