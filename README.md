@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get the best Black Friday iMac deals on new M3 models &amp; Magic accessories](https://appleinsider.com/articles/23/11/24/get-the-best-black-friday-imac-deals-on-new-m3-models-magic-accessories?utm_medium=rss)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023-1/)<!-- TECH:END -->
+ - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
+ - [Amazon&#39;s Black Friday AirTag deals drop prices to as low as $23.99](https://appleinsider.com/articles/23/11/24/amazons-black-friday-airtag-deals-drop-prices-to-as-low-as-2399?utm_medium=rss)
+ - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
