@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hallmark Channel Won the Streaming Wars](https://www.wired.com/story/hallmark-channel-countdown-to-christmas-streaming-wars/)
- - [The Razer Viper Ultimate is the ultimate wireless gaming mouse you can buy for just $70](https://www.androidauthority.com/razer-viper-ultimate-black-friday-deal-3388699/)
- - [After users complained about seeing a fullscreen pop-up ad in Assassin&#39;s Creed Odyssey on both Xbox and PlayStation, Ubisoft blames a &quot;technical error&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231124/p5#a231124p5)<!-- TECH:END -->
+ - [How to save a record $105 on the Samsung Galaxy Watch 6 Classic today](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-black-friday-3388730/)
+ - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
+ - [Some of our favorite devices are on sale for Black Friday.](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
