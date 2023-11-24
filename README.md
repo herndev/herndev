@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s no shortage of great Black Friday Chromebook deals today](https://www.androidauthority.com/chromebooks-black-friday-deals-2023-3388486/)
- - [Get the 2-pack Google Nest Wi-Fi Pro mesh router for the price of one!](https://www.androidauthority.com/google-nest-wi-fi-pro-black-friday-3388487/)
- - [B&amp;H launches $1,749 M3 Pro MacBook Pro deal, plus more steep Apple discounts](https://appleinsider.com/articles/23/11/24/bh-launches-1749-m3-pro-macbook-pro-deal-plus-more-steep-apple-discounts?utm_medium=rss)<!-- TECH:END -->
+ - [Bring home an Amazon Fire TV for as low as $109 this Black Friday](https://www.androidauthority.com/amazon-fire-tv-black-friday-2023-deals-3388542/)
+ - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)
+ - [The Galaxy Tab A8 makes for a great streaming tablet, and it’s down to just $140!](https://www.androidauthority.com/samsung-galaxy-tab-a8-black-friday-deal-3388527/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
