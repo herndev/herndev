@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - ⏩ [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
- - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
+ - 💣 [Ubisoft has started rolling out in-game ads that appear when selecting Pause menu or viewing game Map](http://9gag.com/gag/avQjLvq)
+ - ⏩ [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 👉 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)<!-- MEMES:END -->
 
 ---
 
