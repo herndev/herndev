@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Marvel’s Spider-Man 2 – Villains](https://blog.playstation.com/2023/11/24/share-of-the-week-marvels-spider-man-2-villains/)
- - [Laser-cut board game organizers are a decadent, thoughtful gift idea](https://www.polygon.com/23974616/board-game-organizer-tabletop-deal-smonex-black-friday-2023)
- - [Starfield player completes the main story by whacking every enemy to death with his gun, an ability some players didn&#39;t know was in the game at all](https://www.pcgamer.com/starfield-player-completes-the-main-story-by-whacking-every-enemy-to-death-with-his-gun-an-ability-some-players-didnt-know-was-in-the-game-at-all)<!-- GAME:END -->
+ - [&#39;A**holes&#39; swat GTA 5 actor&#39;s house during Thanksgiving livestream](https://www.pcgamer.com/aholes-swat-gta-5-actors-house-during-thanksgiving-livestream)
+ - [Gorgeous Calvin and Hobbes box set is less than half price for Black Friday](https://www.polygon.com/2023/11/24/23974661/calvin-and-hobbes-bill-watterson-the-mysteries-black-friday-cyber-monday-deals-2023)
+ - [The best D&amp;D Black Friday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
