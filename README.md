@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Left 4 Dead could&#39;ve had player classes—but the game&#39;s co-lead put his foot down: &#39;no, that is the wrong way to go&#39;](https://www.pcgamer.com/left-4-dead-couldve-had-player-classesbut-the-games-co-lead-put-his-foot-down-no-that-is-the-wrong-way-to-go)
- - [The biggest Black Friday deals have officially launched](https://www.polygon.com/23954379/black-friday-best-gaming-deals-games-tabletop-ssd)
- - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)<!-- GAME:END -->
+ - [Valve &#39;accidentally&#39; leaks the earliest Left4Dead prototype, and it was a Counter-Strike mod all along](https://www.pcgamer.com/valve-accidentally-leaks-the-earliest-left4dead-prototype-and-it-was-a-counter-strike-mod-all-along)
+ - [The best D&amp;D Black Friday deals so far](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
+ - [Get a Switch OLED for just $290 during Black Friday](https://www.polygon.com/23974437/nintendo-switch-oled-black-friday-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
