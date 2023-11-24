@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy is a master at negotiation](http://9gag.com/gag/aQEj6M7)
- - ⏩ [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - 👉 [We like wahmen](http://9gag.com/gag/aqeEmz7)<!-- MEMES:END -->
+ - 💣 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
+ - ⏩ [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
+ - 👉 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)<!-- MEMES:END -->
 
 ---
 
