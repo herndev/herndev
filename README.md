@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
- - ⏩ [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
- - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
+ - 💣 [Adventure](http://9gag.com/gag/aA09Y5d)
+ - ⏩ [Savage](http://9gag.com/gag/aZDYWoW)
+ - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
 
 ---
 
