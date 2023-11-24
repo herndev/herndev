@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ubisoft has started rolling out in-game ads that appear when selecting Pause menu or viewing game Map](http://9gag.com/gag/avQjLvq)
- - ⏩ [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
- - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
+ - 💣 [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)
+ - ⏩ [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 👉 [You CAN Do Pushups](http://9gag.com/gag/axorZYD)<!-- MEMES:END -->
 
 ---
 
