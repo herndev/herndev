@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
- - ⏩ [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
- - 👉 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)<!-- MEMES:END -->
+ - 💣 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - ⏩ [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
+ - 👉 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)<!-- MEMES:END -->
 
 ---
 
