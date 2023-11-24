@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bring home an Amazon Fire TV for as low as $109 this Black Friday](https://www.androidauthority.com/amazon-fire-tv-black-friday-2023-deals-3388542/)
- - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)
- - [The Galaxy Tab A8 makes for a great streaming tablet, and it’s down to just $140!](https://www.androidauthority.com/samsung-galaxy-tab-a8-black-friday-deal-3388527/)<!-- TECH:END -->
+ - [15 Best Black Friday TV Deals &lpar;2023&rpar;: TCL, Samsung, LG, Sony](https://www.wired.com/story/best-black-friday-tv-deals-2023/)
+ - [My Favorite Baby Bassinet Is $210 During Black Friday Sales     - CNET](https://www.cnet.com/deals/my-favorite-baby-bassinet-is-210-during-black-friday-sales/#ftag=CAD590a51e)
+ - [PSA: Some of last year’s best phones are a steal for Black Friday](https://www.androidauthority.com/2022-phones-black-friday-deals-3388508/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
