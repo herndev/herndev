@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to save a record $105 on the Samsung Galaxy Watch 6 Classic today](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-black-friday-3388730/)
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [Some of our favorite devices are on sale for Black Friday.](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)<!-- TECH:END -->
+ - [Get the best iPhone Black Friday deals from AT&amp;T, Verizon &amp; T-Mobile](https://appleinsider.com/articles/23/11/24/get-the-best-iphone-black-friday-deals-from-att-verizon-t-mobile?utm_medium=rss)
+ - [The best Black Friday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
+ - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
