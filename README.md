@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FOIA docs: Prashant Bhardwaj, hired in March as the US OCC&#39;s first officer to police fintech firms, lied about his work history; OCC quietly replaced Bhardwaj &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/231124/p9#a231124p9)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [150 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)<!-- TECH:END -->
+ - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
+ - [The UK and South Korea warn that the North Korean Lazarus hacking group is using a zero-day in the authentication software MagicLine4NX for supply-chain attacks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231124/p10#a231124p10)
+ - [The best deals of Black Friday 2023: Flagship devices on sale](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
