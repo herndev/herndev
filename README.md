@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve &#39;accidentally&#39; leaks the earliest Left4Dead prototype, and it was a Counter-Strike mod all along](https://www.pcgamer.com/valve-accidentally-leaks-the-earliest-left4dead-prototype-and-it-was-a-counter-strike-mod-all-along)
- - [The best D&amp;D Black Friday deals so far](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
- - [Get a Switch OLED for just $290 during Black Friday](https://www.polygon.com/23974437/nintendo-switch-oled-black-friday-deal-sale)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 27 – December 1](https://news.xbox.com/en-us/2023/11/24/next-week-on-xbox-new-games-for-november-27-december-1/)
+ - [Expand your storage with Black Friday deals on SSDs &amp; microSD cards](https://www.polygon.com/23954620/black-friday-gaming-storage-deals-ssd-microsd-cyber-monday)
+ - [Black Friday’s best deals on toys for the young and young at heart](https://www.polygon.com/23958981/black-friday-toy-deals-cyber-monday-lego-barbie-nerf-funko)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
