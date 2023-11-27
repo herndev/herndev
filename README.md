@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - ⏩ [Sit](http://9gag.com/gag/a0435nX)
- - 👉 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)<!-- MEMES:END -->
+ - 💣 [Yess](http://9gag.com/gag/ajV4EB1)
+ - ⏩ [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
+ - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
 
 ---
 
