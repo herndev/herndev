@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LMAO](http://9gag.com/gag/aQEj8jr)
- - ⏩ [Since the mainstream media hides the news from you, I will show them to you:](http://9gag.com/gag/az23VNZ)
- - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
+ - 💣 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - ⏩ [The Dutch people have decided...](http://9gag.com/gag/a9qGpOD)
+ - 👉 [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)<!-- MEMES:END -->
 
 ---
 
