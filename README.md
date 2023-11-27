@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best shows to watch on Prime](https://www.polygon.com/what-to-watch/23883799/best-tv-shows-series-prime-watch-freevee)
- - [This $50 off Meta Quest 2 deal shouldn’t be overlooked](https://www.polygon.com/2023/11/27/23977707/meta-quest-2-cyber-monday-deals-2023-vr)
- - [Take a break from deal-hunting with the most bamboozling Cyber Monday deals of 2023](https://www.pcgamer.com/take-a-break-from-deal-hunting-with-the-most-bamboozling-cyber-monday-deals-of-2023)<!-- GAME:END -->
+ - [The Game Awards Is Beefing Up Security Following Stage Invasions](https://kotaku.com/the-game-awards-2023-geoff-keighley-security-1851048956)
+ - [Here are my four favourite Cyber Monday gaming laptop deals still available](https://www.pcgamer.com/here-are-my-four-favourite-cyber-monday-gaming-laptop-deals-still-available)
+ - [David Braben says Frontier Developments has had a &#39;turbulent and difficult year&#39; as Warhammer Age of Sigmar: Realms of Ruin flops](https://www.pcgamer.com/david-braben-says-frontier-developments-has-had-a-turbulent-and-difficult-year-as-warhammer-age-of-sigmar-realms-of-ruin-flops)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
