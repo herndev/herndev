@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Jensen Huang, the Taiwan-born, US-educated Nvidia founder, who started the company in 1993, and a look at Nvidia&#39;s rise, built on GPUs and CUDA &lpar;Stephen Witt/New Yorker&rpar;](http://www.techmeme.com/231127/p11#a231127p11)
- - [New multi-national AI security guidelines are toothless and weak](https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak?utm_medium=rss)
- - [Yikes: Some Google Drive users are losing their files](https://www.androidauthority.com/google-drive-users-lose-data-files-3389203/)<!-- TECH:END -->
+ - [Amazon’s Smart Thermostat is on sale and comes with a free Echo Pop](https://www.theverge.com/2023/11/27/23976678/amazon-smart-thermostat-echo-pop-cyber-monday-deal-sale)
+ - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
+ - [34 Cyber Monday Laptop Deals—Plus Clickety-Clack Keyboards](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
