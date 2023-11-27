@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation reveals AT&amp;T and US government have been spying on millions of Americans for years](https://www.androidauthority.com/att-us-government-surveillance-program-3389067/)
- - [Binge All the Savings with 28 Cyber Monday Streaming Service Deals     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)
- - [36 Home Depot Cyber Monday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-cyber-monday-deals-2023/)<!-- TECH:END -->
+ - [Samsung’s latest A-series phone brings an OLED display at just $139](https://www.androidauthority.com/samsung-galaxy-a15-5g-price-specs-features-availability-3389075/)
+ - [Grab an M2 Mac mini for just $499 in a Cyber Monday price war](https://appleinsider.com/articles/23/11/24/grab-an-m2-mac-mini-for-just-499-in-a-black-friday-price-war?utm_medium=rss)
+ - [24 Best Cyber Monday TV Deals &lpar;2023&rpar;: OLED, QLED, and More](https://www.wired.com/story/best-cyber-monday-tv-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
