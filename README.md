@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei announces it&#39;s moving its smart car unit&#39;s core tech and resources into a new joint venture with Changan Auto, which is taking a 40% stake in the company &lpar;Reuters&rpar;](http://www.techmeme.com/231126/p6#a231126p6)
  - [60+ Early Cyber Monday Deals Under $100: We Found the Best Deals to Shop Now     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)
- - [Shop the Best Cyber Monday Deals Under $25: Save Big on Tech, Toys and Daily Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
- - [A look at the growing usage of social media apps like Douyin among the elderly in China since the COVID-19 lockdowns, often to find companionship &lpar;Lavender Au/Wired&rpar;](http://www.techmeme.com/231126/p5#a231126p5)<!-- TECH:END -->
+ - [Shop the Best Cyber Monday Deals Under $25: Save Big on Tech, Toys and Daily Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
