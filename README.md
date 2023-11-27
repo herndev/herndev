@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sit](http://9gag.com/gag/a0435nX)
- - ⏩ [The left.](http://9gag.com/gag/aQEjep2)
- - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
+ - 💣 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
+ - ⏩ [Do you agree?](http://9gag.com/gag/amAZ7xo)
+ - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
 
 ---
 
