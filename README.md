@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your D&amp;D group deserves WizKids’ massive new Watchtower set](https://www.polygon.com/tabletop-games/23965646/dnd-dungeons-dragons-watchtower-castle-bastion-review-wizkids-release-date-price)
- - [There’s a Total Recall tabletop RPG adventure, and it’s on sale for Cyber Monday](https://www.polygon.com/23974854/evil-genius-highlander-crow-total-recall-pacific-rim-d20-modern-deals-sale-black-friday-cyber-monday)
- - [Cyber Monday deals have arrived on supplies for painting minis](https://www.polygon.com/23978054/mini-painting-cyber-monday-amazon-sale)<!-- GAME:END -->
+ - [Marvel Snap reassures players it will &#39;continue to operate&#39; despite closure of publisher Nuverse as TikTok parent ByteDance looks to exit gaming](https://www.pcgamer.com/marvel-snap-reassures-players-it-will-continue-to-operate-despite-closure-of-publisher-nuverse-as-tiktok-parent-bytedance-looks-to-exit-gaming)
+ - [6 things PC Gamer&#39;s team actually bought on Black Friday and Cyber Monday](https://www.pcgamer.com/6-things-pc-gamers-team-actually-bought-on-black-friday-and-cyber-monday)
+ - [Laser-cut board game organizers are a surprisingly thoughtful gift idea](https://www.polygon.com/23974616/board-game-organizer-tabletop-deal-smonex-black-friday-cyber-monday-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
