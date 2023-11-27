@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf](http://9gag.com/gag/aWGXqOZ)
- - ⏩ [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
+ - 💣 [Dad joke.](http://9gag.com/gag/avQjz8d)
+ - ⏩ [Free your Hair first](http://9gag.com/gag/aQEjozw)
+ - 👉 [The Krab](http://9gag.com/gag/a9qGnq1)<!-- MEMES:END -->
 
 ---
 
