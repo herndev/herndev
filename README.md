@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New OnePlus 12 teaser reveals color options and a relocated alert slider](https://www.theverge.com/2023/11/27/23977551/oneplus-12-teaser-color-relocated-alert-slider-launch-date)
- - [Here are all the Cyber Monday deals for 2023](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)<!-- TECH:END -->
+ - [Amazon data and sources: Amazon shipped 5.2B US packages in 2022, more than UPS, after passing FedEx in 2020; Amazon delivered 4.8B items ahead of Thanksgiving &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231127/p9#a231127p9)
+ - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
+ - [An interview with Binance CEO Richard Teng on helping the exchange become a conventional financial company, previous &quot;missteps&quot;, his background, and more &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/231127/p8#a231127p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
