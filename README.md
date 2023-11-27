@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m tracking all the best Cyber Monday SSD deals live right now, join me in my palace of storage dreams](https://www.pcgamer.com/live/news/cyber-monday-ssd-deals-live-now)
- - [The best thing I did this deals season was revive my old desktop with a cheap SSD](https://www.pcgamer.com/the-best-thing-i-did-this-deals-season-was-revive-my-old-desktop-with-a-cheap-ssd)
- - [Silent Hill 2 remake devs try to calm down fans, saying &lpar;for the second time&rpar; that it&#39;s on Konami to share anything: &#39;we kindly ask for a bit more patience&#39;](https://www.pcgamer.com/silent-hill-2-remake-devs-try-to-calm-down-fans-saying-for-the-second-time-that-its-on-konami-to-share-anything-we-kindly-ask-for-a-bit-more-patience)<!-- GAME:END -->
+ - [The Week In Games: Dark Knights And Dark Princes](https://kotaku.com/november-games-this-week-batman-arkham-trilogy-1851048733)
+ - [The best Cyber Monday 2023 deals](https://www.polygon.com/23974596/cyber-monday-best-gaming-deals-games-tabletop-ssd)
+ - [The Disney 100 4K Steelbooks are all $17 a pop for Cyber Monday](https://www.polygon.com/2023/11/27/23977653/disney-star-wars-marvel-4k-blu-ray-steelbooks-best-buy-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
