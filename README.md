@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Board games are buy 2, get 1 free at Target during Cyber Monday](https://www.polygon.com/2023/11/27/23978263/cyber-monday-board-game-tabletop-target-deal-sale)
- - [Regitube is the only Pokémon that matters to me now](https://www.polygon.com/pokemon/23977973/regitube-pokemon-meme-explained)
- - [New Disney Movie Wish Could Have Big Ramifications For Kingdom Hearts](https://kotaku.com/wish-kingdom-hearts-4-asha-magnifico-sora-1851050123)<!-- GAME:END -->
+ - [Your D&amp;D group deserves WizKids’ massive new Watchtower set](https://www.polygon.com/tabletop-games/23965646/dnd-dungeons-dragons-watchtower-castle-bastion-review-wizkids-release-date-price)
+ - [There’s a Total Recall tabletop RPG adventure, and it’s on sale for Cyber Monday](https://www.polygon.com/23974854/evil-genius-highlander-crow-total-recall-pacific-rim-d20-modern-deals-sale-black-friday-cyber-monday)
+ - [Cyber Monday deals have arrived on supplies for painting minis](https://www.polygon.com/23978054/mini-painting-cyber-monday-amazon-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
