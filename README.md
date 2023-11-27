@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s Visible wants you to save $10 on your phone bill forever with this deal](https://www.androidauthority.com/visible-deal-cyber-monday-2023-3388724/)
- - [33 Best Cyber Monday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-cyber-monday-camera-deals-2023/)
- - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
+ - [Google Messages added Ultra HDR image support in RCS chats and no one noticed it yet](https://www.androidauthority.com/google-messages-ultra-hdr-image-support-rcs-3389127/)
+ - [135 Absolute Best Cyber Monday Deals Right Now &lpar;2023&rpar;: Apple Watches, Routers, and More](https://www.wired.com/story/best-cyber-monday-deals-2023/)
+ - [The 5 best smartwatch deals of Cyber Monday 2023](https://www.androidauthority.com/5-best-smartwatch-deals-cyber-monday-2023-3389100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
