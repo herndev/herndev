@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [62 Best Target Cyber Monday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-black-friday-deals-2023-3/)
- - [The 30 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
- - [How to use Reactions in video calls in iOS 17 and iPadOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-reactions-in-video-calls-in-ios-17-and-ipados-17?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s $1.7 billion deal to buy iRobot is running into some objections](https://www.theverge.com/2023/11/27/23978371/eu-european-commission-amazon-irobot-acquisition-restrict-competition)
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
+ - [The FTC can proceed with changes to Meta&#39;s 2020 $5B privacy settlement, like barring monetization of kids&#39; data, after a judge denied Meta&#39;s move to go to court &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231127/p21#a231127p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
