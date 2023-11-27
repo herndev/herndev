@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corsair’s gaming accessories are on sale for you, this Cyber Monday](https://www.androidauthority.com/corsair-gaming-accessories-cyber-monday-sale-3389164/)
+ - [New OnePlus 12 teaser reveals color options and a relocated alert slider](https://www.theverge.com/2023/11/27/23977551/oneplus-12-teaser-color-relocated-alert-slider-launch-date)
  - [Here are all the Cyber Monday deals for 2023](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [Chinese smartphone maker Realme shipped 200M+ phones in total, most of them outside China, since its 2018 founding; just 14 companies have reached the milestone &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231127/p4#a231127p4)<!-- TECH:END -->
+ - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
