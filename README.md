@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad joke.](http://9gag.com/gag/avQjz8d)
- - ⏩ [Free your Hair first](http://9gag.com/gag/aQEjozw)
- - 👉 [The Krab](http://9gag.com/gag/a9qGnq1)<!-- MEMES:END -->
+ - 💣 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
+ - ⏩ [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 👉 [Wtf](http://9gag.com/gag/aWGXqOZ)<!-- MEMES:END -->
 
 ---
 
