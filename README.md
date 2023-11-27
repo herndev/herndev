@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #891 for Monday, November 27](https://www.pcgamer.com/wordle-today-answer-891-november-27)
  - [Pony-inspired fighting game Them&#39;s Fightin&#39; Herds abandons its unfinished story mode](https://www.pcgamer.com/pony-inspired-fighting-game-thems-fightin-herds-abandons-its-unfinished-story-mode)
- - [Starfield mod lets you disable the dialogue camera](https://www.pcgamer.com/starfield-mod-lets-you-disable-the-dialogue-camera)
- - [Hunger Games’ director says Tom Blyth ‘caught me off guard’ as Coriolanus Snow](https://www.polygon.com/23971450/hunger-games-the-ballad-of-songbirds-and-snakes-casting-rachel-zegler-tom-blyth)<!-- GAME:END -->
+ - [Starfield mod lets you disable the dialogue camera](https://www.pcgamer.com/starfield-mod-lets-you-disable-the-dialogue-camera)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
