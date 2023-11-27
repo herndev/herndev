@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - ⏩ [The Dutch people have decided...](http://9gag.com/gag/a9qGpOD)
- - 👉 [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)<!-- MEMES:END -->
+ - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - ⏩ [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
+ - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
 ---
 
