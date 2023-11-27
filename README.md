@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 💣 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
  - ⏩ [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
  - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
