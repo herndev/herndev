@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2402.231117-1810&rpar;](https://news.xbox.com/en-us/2023/11/27/xbox-insider-release-notes-alpha-2402-231117-1810/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231118-2000&rpar;](https://news.xbox.com/en-us/2023/11/27/xbox-insider-release-notes-alpha-skip-ahead-2408-231118-2000/)
- - [I am a very large journalist and this Cyber Monday deal on the Secretlab Titan Evo makes me kinda happy](https://www.pcgamer.com/i-am-a-very-large-journalist-and-this-cyber-monday-deal-on-the-secretlab-titan-evo-makes-me-kinda-happy)<!-- GAME:END -->
+ - [Assassin&#39;s Creed: Syndicate, the one about murderous siblings in London during the Industrial Revolution, is free to keep from Ubisoft](https://www.pcgamer.com/assassins-creed-syndicate-the-one-about-murderous-siblings-in-london-during-the-industrial-revolution-is-free-to-keep-from-ubisoft)
+ - [Scoop up these Magic: The Gathering deals in Amazon’s Cyber Monday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
+ - [The best D&amp;D Cyber Monday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
