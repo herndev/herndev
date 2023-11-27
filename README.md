@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday: The Beats Studio Buds Plus hit an all-time low of just $119.99](https://www.androidauthority.com/cyber-monday-beats-studio-buds-plus-3389254/)
- - [Digital car keys are here. Are we ready?](https://www.theverge.com/23970875/digital-car-key-iphone-unlock-start-ccc-standard)
- - [Cyber Monday deals: Apple Pencil 2 $79, $100 off iPad Air 5, up to 76% off Echelon Gear, more](https://appleinsider.com/articles/23/11/27/cyber-monday-deals-apple-pencil-2-79-100-off-ipad-air-5-up-to-76-off-echelon-gear-more?utm_medium=rss)<!-- TECH:END -->
+ - [New price drop: get a loaded M1 Max MacBook Pro 16-inch for as low as $2,099 today only](https://appleinsider.com/articles/23/11/27/get-a-loaded-m1-max-macbook-pro-16-inch-for-as-low-as-2199-this-cyber-monday?utm_medium=rss)
+ - [34 Best Cyber Monday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-cyber-monday-camera-deals-2023/)
+ - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
