@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - ⏩ [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
- - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
+ - 💣 [What do you think?](http://9gag.com/gag/aNwbd93)
+ - ⏩ [Peak civilization](http://9gag.com/gag/aXnOYPv)
+ - 👉 [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)<!-- MEMES:END -->
 
 ---
 
