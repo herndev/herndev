@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s about sending a message: YOU HAVE BEEN CONQUERED.](http://9gag.com/gag/a8qgydV)
- - ⏩ [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 👉 [Europe by 2030.](http://9gag.com/gag/a1P6dmD)<!-- MEMES:END -->
+ - 💣 [High school in the 1990s before social media](http://9gag.com/gag/a3ZOKjN)
+ - ⏩ [Is it already too late?](http://9gag.com/gag/aOxW07v)
+ - 👉 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)<!-- MEMES:END -->
 
 ---
 
