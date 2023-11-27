@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed: Syndicate, the one about murderous siblings in London during the Industrial Revolution, is free to keep from Ubisoft](https://www.pcgamer.com/assassins-creed-syndicate-the-one-about-murderous-siblings-in-london-during-the-industrial-revolution-is-free-to-keep-from-ubisoft)
- - [Scoop up these Magic: The Gathering deals in Amazon’s Cyber Monday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
- - [The best D&amp;D Cyber Monday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)<!-- GAME:END -->
+ - [Board games are buy 2, get 1 free at Target during Cyber Monday](https://www.polygon.com/2023/11/27/23978263/cyber-monday-board-game-tabletop-target-deal-sale)
+ - [Regitube is the only Pokémon that matters to me now](https://www.polygon.com/pokemon/23977973/regitube-pokemon-meme-explained)
+ - [New Disney Movie Wish Could Have Big Ramifications For Kingdom Hearts](https://kotaku.com/wish-kingdom-hearts-4-asha-magnifico-sora-1851050123)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
