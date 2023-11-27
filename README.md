@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every M3 MacBook Pro &amp; iMac is up to $250 off for Cyber Monday, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/27/every-m3-macbook-pro-imac-is-up-to-250-off-for-cyber-monday-plus-up-to-80-off-applecare?utm_medium=rss)
- - [88 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
- - [The 5 best tablet deals of Cyber Monday 2023](https://www.androidauthority.com/5-best-tablet-deals-cyber-monday-2023-3388185/)<!-- TECH:END -->
+ - [Verizon’s Visible wants you to save $10 on your phone bill forever with this deal](https://www.androidauthority.com/visible-deal-cyber-monday-2023-3388724/)
+ - [33 Best Cyber Monday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-cyber-monday-camera-deals-2023/)
+ - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
