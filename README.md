@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Smart Thermostat is on sale and comes with a free Echo Pop](https://www.theverge.com/2023/11/27/23976678/amazon-smart-thermostat-echo-pop-cyber-monday-deal-sale)
- - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
- - [34 Cyber Monday Laptop Deals—Plus Clickety-Clack Keyboards](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/)<!-- TECH:END -->
+ - [Best Cyber Monday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
+ - [A look at Newlands, a secretive tech fund backed by Jan Koum and led by former Sequoia partner Michael Abramson that holds nearly $10B in public equities &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231127/p16#a231127p16)
+ - [We Found 65 Fantastic Deals at Best Buy’s Cyber Monday Sale](https://www.wired.com/story/best-buy-cyber-monday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
