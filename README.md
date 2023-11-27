@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cops POV](http://9gag.com/gag/awZpVE8)
- - ⏩ [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)
- - 👉 [Wtf](http://9gag.com/gag/aWGXqOZ)<!-- MEMES:END -->
+ - 💣 [It&#39;s about sending a message: YOU HAVE BEEN CONQUERED.](http://9gag.com/gag/a8qgydV)
+ - ⏩ [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
+ - 👉 [Europe by 2030.](http://9gag.com/gag/a1P6dmD)<!-- MEMES:END -->
 
 ---
 
