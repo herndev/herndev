@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sit](http://9gag.com/gag/a0435nX)
+ - 💣 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
  - ⏩ [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
- - 👉 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)<!-- MEMES:END -->
+ - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
 
 ---
 
