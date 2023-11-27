@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you think?](http://9gag.com/gag/aNwbd93)
- - ⏩ [Peak civilization](http://9gag.com/gag/aXnOYPv)
- - 👉 [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)<!-- MEMES:END -->
+ - 💣 [Sit](http://9gag.com/gag/a0435nX)
+ - ⏩ [Feed the man](http://9gag.com/gag/aZDY7xV)
+ - 👉 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)<!-- MEMES:END -->
 
 ---
 
