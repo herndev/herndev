@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our 35 Favorite Sleep and Mattress Deals for Cyber Monday](https://www.wired.com/story/best-cyber-monday-mattress-deals-2023/)
- - [Sources: ByteDance plans to internally announce on Monday that it is winding down its Nuverse gaming brand and is fully retreating from mainstream video games &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231126/p8#a231126p8)
- - [71 Best Apple Cyber Monday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-cyber-monday-deals-2023/)<!-- TECH:END -->
+ - [32 Best Coffee Deals for Cyber Monday—Makers, Grinders, Mugs](https://www.wired.com/story/best-cyber-monday-coffee-deals-2023/)
+ - [32 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)
+ - [34 Best Cyber Monday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
