@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla sues Sweden’s postal agency as union fight escalates](https://www.theverge.com/2023/11/27/23977923/tesla-sweden-lawsuit-postal-workers-license-plates)
- - [100 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
- - [These Cyber Monday Ebike Deals Will Get You Zooming Down the Street](https://www.wired.com/story/best-cyber-monday-electric-bike-deals-2023/)<!-- TECH:END -->
+ - [62 Best Target Cyber Monday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-black-friday-deals-2023-3/)
+ - [The 30 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
+ - [How to use Reactions in video calls in iOS 17 and iPadOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-reactions-in-video-calls-in-ios-17-and-ipados-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
