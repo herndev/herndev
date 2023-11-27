@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even huskies love DuckTales](http://9gag.com/gag/aA093q2)
- - ⏩ [She\u2019s a Keeper!](http://9gag.com/gag/a7qxMpx)
- - 👉 [Rebecca&#39;s always complaining](http://9gag.com/gag/a8qg5Wp)<!-- MEMES:END -->
+ - 💣 [She\u2019s a Keeper!](http://9gag.com/gag/a7qxMpx)
+ - ⏩ [Belly rubs now](http://9gag.com/gag/a3ZOR7Q)
+ - 👉 [Magic trick](http://9gag.com/gag/adPzKnD)<!-- MEMES:END -->
 
 ---
 
