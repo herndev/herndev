@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best D&amp;D Black Friday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
- - [Scoop up these Magic: The Gathering deals in Amazon’s Black Friday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
- - [You’ll be surprised how many great gaming gifts cost well under $100](https://www.polygon.com/23958798/black-friday-gaming-game-deals-under-100-cyber-monday-2023)<!-- GAME:END -->
+ - [Starfield mod lets you disable the dialogue camera](https://www.pcgamer.com/starfield-mod-lets-you-disable-the-dialogue-camera)
+ - [Hunger Games’ director says Tom Blyth ‘caught me off guard’ as Coriolanus Snow](https://www.polygon.com/23971450/hunger-games-the-ballad-of-songbirds-and-snakes-casting-rachel-zegler-tom-blyth)
+ - [You’ve seen Scott Pilgrim Takes Off, now watch these other great Science Saru anime](https://www.polygon.com/23961348/scott-pilgrim-takes-off-netflix-anime-studio-science-saru-shows-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
