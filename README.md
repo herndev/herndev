@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rebecca&#39;s always complaining](http://9gag.com/gag/a8qg5Wp)
- - ⏩ [Built different](http://9gag.com/gag/a6qRKbe)
- - 👉 [Perhaps the most random thing you&#39;ll watch today](http://9gag.com/gag/aEq4YZo)<!-- MEMES:END -->
+ - 💣 [Sit](http://9gag.com/gag/a0435nX)
+ - ⏩ [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 👉 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)<!-- MEMES:END -->
 
 ---
 
