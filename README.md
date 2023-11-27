@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Dark Knights And Dark Princes](https://kotaku.com/november-games-this-week-batman-arkham-trilogy-1851048733)
- - [The best Cyber Monday 2023 deals](https://www.polygon.com/23974596/cyber-monday-best-gaming-deals-games-tabletop-ssd)
- - [The Disney 100 4K Steelbooks are all $17 a pop for Cyber Monday](https://www.polygon.com/2023/11/27/23977653/disney-star-wars-marvel-4k-blu-ray-steelbooks-best-buy-cyber-monday)<!-- GAME:END -->
+ - [The best shows to watch on Prime](https://www.polygon.com/what-to-watch/23883799/best-tv-shows-series-prime-watch-freevee)
+ - [This $50 off Meta Quest 2 deal shouldn’t be overlooked](https://www.polygon.com/2023/11/27/23977707/meta-quest-2-cyber-monday-deals-2023-vr)
+ - [Take a break from deal-hunting with the most bamboozling Cyber Monday deals of 2023](https://www.pcgamer.com/take-a-break-from-deal-hunting-with-the-most-bamboozling-cyber-monday-deals-of-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
