@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages added Ultra HDR image support in RCS chats and no one noticed it yet](https://www.androidauthority.com/google-messages-ultra-hdr-image-support-rcs-3389127/)
- - [135 Absolute Best Cyber Monday Deals Right Now &lpar;2023&rpar;: Apple Watches, Routers, and More](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [The 5 best smartwatch deals of Cyber Monday 2023](https://www.androidauthority.com/5-best-smartwatch-deals-cyber-monday-2023-3389100/)<!-- TECH:END -->
+ - [Nice: The low-end Galaxy A14 5G is now getting One UI 6](https://www.androidauthority.com/samsung-galaxy-a14-5g-stable-one-ui-6-3389145/)
+ - [An interview with AWS CEO Adam Selipsky, ahead of re:Invent, on the multifaceted impact of generative AI, the role of AI chips, the OpenAI fiasco, and more &lpar;John Furrier/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p2#a231127p2)
+ - [Best Cyber Monday Deals Under $25: 84 Amazing Offers on Tech, Toys and Daily Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
