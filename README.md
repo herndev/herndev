@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High school in the 1990s before social media](http://9gag.com/gag/a3ZOKjN)
- - ⏩ [Is it already too late?](http://9gag.com/gag/aOxW07v)
- - 👉 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)<!-- MEMES:END -->
+ - 💣 [Just selling some oil](http://9gag.com/gag/a0435Dn)
+ - ⏩ [She\u2019s a Keeper!](http://9gag.com/gag/a7qxMpx)
+ - 👉 [Rebecca&#39;s always complaining](http://9gag.com/gag/a8qg5Wp)<!-- MEMES:END -->
 
 ---
 
