@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards Is Beefing Up Security Following Stage Invasions](https://kotaku.com/the-game-awards-2023-geoff-keighley-security-1851048956)
- - [Here are my four favourite Cyber Monday gaming laptop deals still available](https://www.pcgamer.com/here-are-my-four-favourite-cyber-monday-gaming-laptop-deals-still-available)
- - [David Braben says Frontier Developments has had a &#39;turbulent and difficult year&#39; as Warhammer Age of Sigmar: Realms of Ruin flops](https://www.pcgamer.com/david-braben-says-frontier-developments-has-had-a-turbulent-and-difficult-year-as-warhammer-age-of-sigmar-realms-of-ruin-flops)<!-- GAME:END -->
+ - [Destiny 2 Promises More Content To Fill Void Left By Big Expansion Delay](https://kotaku.com/destiny-2-final-shape-delay-season-wish-into-light-1851049227)
+ - [Bungie admits Destiny 2: The Final Shape is being delayed until June: &#39;We’re taking the time we need to deliver an even bigger and bolder vision&#39;](https://www.pcgamer.com/bungie-admits-destiny-2-the-final-shape-is-being-delayed-until-june-were-taking-the-time-we-need-to-deliver-an-even-bigger-and-bolder-vision)
+ - [Taylor Swift’s Eras Tour movie adds new songs for streaming debut later this year](https://www.polygon.com/23977811/taylor-swift-eras-tour-movie-streaming-release-date-new-songs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
