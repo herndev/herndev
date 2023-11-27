@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)
- - [Sources: fast-fashion giant Shein confidentially files for a US IPO, potentially in 2024, with Goldman Sachs, JPMorgan Chase, and Morgan Stanley as underwriters &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231127/p24#a231127p24)
- - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)<!-- TECH:END -->
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
+ - [Google Drive users complain of missing files, months of data disappearing](https://appleinsider.com/articles/23/11/27/google-drive-users-complain-of-missing-files-months-of-data-disappearing?utm_medium=rss)
+ - [37 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
