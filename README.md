@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
- - ⏩ [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
- - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
+ - 💣 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - ⏩ [Savage grandma](http://9gag.com/gag/avQjzG5)
+ - 👉 [Genuine question](http://9gag.com/gag/aL1E05W)<!-- MEMES:END -->
 
 ---
 
