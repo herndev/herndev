@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There’s a Highlander tabletop RPG adventure, and it’s on sale for Cyber Monday](https://www.polygon.com/23974854/evil-genius-highlander-crow-total-recall-pacific-rim-d20-modern-deals-sale-black-friday-cyber-monday)
- - [You’ll be surprised how many great gaming gifts cost well under $100](https://www.polygon.com/23958798/black-friday-gaming-game-deals-under-100-cyber-monday-2023)
- - [Score 2023’s best deals yet on gaming monitors](https://www.polygon.com/23952402/black-friday-gaming-monitor-deals-sale-pc-ps5-xbox)<!-- GAME:END -->
+ - [I&#39;m tracking all the best Cyber Monday SSD deals live right now, join me in my palace of storage dreams](https://www.pcgamer.com/live/news/cyber-monday-ssd-deals-live-now)
+ - [The best thing I did this deals season was revive my old desktop with a cheap SSD](https://www.pcgamer.com/the-best-thing-i-did-this-deals-season-was-revive-my-old-desktop-with-a-cheap-ssd)
+ - [Silent Hill 2 remake devs try to calm down fans, saying &lpar;for the second time&rpar; that it&#39;s on Konami to share anything: &#39;we kindly ask for a bit more patience&#39;](https://www.pcgamer.com/silent-hill-2-remake-devs-try-to-calm-down-fans-saying-for-the-second-time-that-its-on-konami-to-share-anything-we-kindly-ask-for-a-bit-more-patience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
