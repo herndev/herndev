@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just selling some oil](http://9gag.com/gag/a0435Dn)
+ - 💣 [Even huskies love DuckTales](http://9gag.com/gag/aA093q2)
  - ⏩ [She\u2019s a Keeper!](http://9gag.com/gag/a7qxMpx)
  - 👉 [Rebecca&#39;s always complaining](http://9gag.com/gag/a8qg5Wp)<!-- MEMES:END -->
 
