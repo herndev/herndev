@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best D&amp;D Cyber Monday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
- - [The best Cyber Monday 2023 deals](https://www.polygon.com/23974596/cyber-monday-best-gaming-deals-games-tabletop-ssd)
- - [Cyber Monday is bustling with great board game deals on Amazon](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)<!-- GAME:END -->
+ - [There’s a Highlander tabletop RPG adventure, and it’s on sale for Cyber Monday](https://www.polygon.com/23974854/evil-genius-highlander-crow-total-recall-pacific-rim-d20-modern-deals-sale-black-friday-cyber-monday)
+ - [You’ll be surprised how many great gaming gifts cost well under $100](https://www.polygon.com/23958798/black-friday-gaming-game-deals-under-100-cyber-monday-2023)
+ - [Score 2023’s best deals yet on gaming monitors](https://www.polygon.com/23952402/black-friday-gaming-monitor-deals-sale-pc-ps5-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
