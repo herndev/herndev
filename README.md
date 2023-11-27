@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon data and sources: Amazon shipped 5.2B US packages in 2022, more than UPS, after passing FedEx in 2020; Amazon delivered 4.8B items ahead of Thanksgiving &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231127/p9#a231127p9)
- - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [An interview with Binance CEO Richard Teng on helping the exchange become a conventional financial company, previous &quot;missteps&quot;, his background, and more &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/231127/p8#a231127p8)<!-- TECH:END -->
+ - [A profile of Jensen Huang, the Taiwan-born, US-educated Nvidia founder, who started the company in 1993, and a look at Nvidia&#39;s rise, built on GPUs and CUDA &lpar;Stephen Witt/New Yorker&rpar;](http://www.techmeme.com/231127/p11#a231127p11)
+ - [New multi-national AI security guidelines are toothless and weak](https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak?utm_medium=rss)
+ - [Yikes: Some Google Drive users are losing their files](https://www.androidauthority.com/google-drive-users-lose-data-files-3389203/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
