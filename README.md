@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sit](http://9gag.com/gag/a0435nX)
- - ⏩ [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
- - 👉 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)<!-- MEMES:END -->
+ - 💣 [Rebecca&#39;s always complaining](http://9gag.com/gag/a8qg5Wp)
+ - ⏩ [Built different](http://9gag.com/gag/a6qRKbe)
+ - 👉 [Perhaps the most random thing you&#39;ll watch today](http://9gag.com/gag/aEq4YZo)<!-- MEMES:END -->
 
 ---
 
