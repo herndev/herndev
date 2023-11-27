@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s a Keeper!](http://9gag.com/gag/a7qxMpx)
- - ⏩ [Belly rubs now](http://9gag.com/gag/a3ZOR7Q)
- - 👉 [Magic trick](http://9gag.com/gag/adPzKnD)<!-- MEMES:END -->
+ - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - ⏩ [Sit](http://9gag.com/gag/a0435nX)
+ - 👉 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)<!-- MEMES:END -->
 
 ---
 
