@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cyber Monday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
- - [A look at Newlands, a secretive tech fund backed by Jan Koum and led by former Sequoia partner Michael Abramson that holds nearly $10B in public equities &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231127/p16#a231127p16)
- - [We Found 65 Fantastic Deals at Best Buy’s Cyber Monday Sale](https://www.wired.com/story/best-buy-cyber-monday-deals-2023/)<!-- TECH:END -->
+ - [Cyber Monday: The Beats Studio Buds Plus hit an all-time low of just $119.99](https://www.androidauthority.com/cyber-monday-beats-studio-buds-plus-3389254/)
+ - [Digital car keys are here. Are we ready?](https://www.theverge.com/23970875/digital-car-key-iphone-unlock-start-ccc-standard)
+ - [Cyber Monday deals: Apple Pencil 2 $79, $100 off iPad Air 5, up to 76% off Echelon Gear, more](https://appleinsider.com/articles/23/11/27/cyber-monday-deals-apple-pencil-2-79-100-off-ipad-air-5-up-to-76-off-echelon-gear-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
