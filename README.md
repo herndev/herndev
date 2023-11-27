@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New price drop: get a loaded M1 Max MacBook Pro 16-inch for as low as $2,099 today only](https://appleinsider.com/articles/23/11/27/get-a-loaded-m1-max-macbook-pro-16-inch-for-as-low-as-2199-this-cyber-monday?utm_medium=rss)
- - [34 Best Cyber Monday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-cyber-monday-camera-deals-2023/)
- - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)<!-- TECH:END -->
+ - [Tesla sues Sweden’s postal agency as union fight escalates](https://www.theverge.com/2023/11/27/23977923/tesla-sweden-lawsuit-postal-workers-license-plates)
+ - [100 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
+ - [These Cyber Monday Ebike Deals Will Get You Zooming Down the Street](https://www.wired.com/story/best-cyber-monday-electric-bike-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
