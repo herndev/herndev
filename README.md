@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sit](http://9gag.com/gag/a0435nX)
- - ⏩ [Feed the man](http://9gag.com/gag/aZDY7xV)
- - 👉 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)<!-- MEMES:END -->
+ - 💣 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - ⏩ [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)
+ - 👉 [Wtf](http://9gag.com/gag/aWGXqOZ)<!-- MEMES:END -->
 
 ---
 
