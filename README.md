@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest A-series phone brings an OLED display at just $139](https://www.androidauthority.com/samsung-galaxy-a15-5g-price-specs-features-availability-3389075/)
- - [Grab an M2 Mac mini for just $499 in a Cyber Monday price war](https://appleinsider.com/articles/23/11/24/grab-an-m2-mac-mini-for-just-499-in-a-black-friday-price-war?utm_medium=rss)
- - [24 Best Cyber Monday TV Deals &lpar;2023&rpar;: OLED, QLED, and More](https://www.wired.com/story/best-cyber-monday-tv-deals-2023/)<!-- TECH:END -->
+ - [Every M3 MacBook Pro &amp; iMac is up to $250 off for Cyber Monday, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/27/every-m3-macbook-pro-imac-is-up-to-250-off-for-cyber-monday-plus-up-to-80-off-applecare?utm_medium=rss)
+ - [88 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
+ - [The 5 best tablet deals of Cyber Monday 2023](https://www.androidauthority.com/5-best-tablet-deals-cyber-monday-2023-3388185/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
