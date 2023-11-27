@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - ⏩ [Do you agree?](http://9gag.com/gag/amAZ7xo)
- - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
+ - 💣 [Wtf](http://9gag.com/gag/aWGXqOZ)
+ - ⏩ [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
+ - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
 
 ---
 
