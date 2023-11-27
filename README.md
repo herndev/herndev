@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - ⏩ [Savage grandma](http://9gag.com/gag/avQjzG5)
- - 👉 [Genuine question](http://9gag.com/gag/aL1E05W)<!-- MEMES:END -->
+ - 💣 [Sit](http://9gag.com/gag/a0435nX)
+ - ⏩ [The left.](http://9gag.com/gag/aQEjep2)
+ - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
 
 ---
 
