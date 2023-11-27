@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s $1.7 billion deal to buy iRobot is running into some objections](https://www.theverge.com/2023/11/27/23978371/eu-european-commission-amazon-irobot-acquisition-restrict-competition)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [The FTC can proceed with changes to Meta&#39;s 2020 $5B privacy settlement, like barring monetization of kids&#39; data, after a judge denied Meta&#39;s move to go to court &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231127/p21#a231127p21)<!-- TECH:END -->
+ - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)
+ - [Sources: fast-fashion giant Shein confidentially files for a US IPO, potentially in 2024, with Goldman Sachs, JPMorgan Chase, and Morgan Stanley as underwriters &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231127/p24#a231127p24)
+ - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
