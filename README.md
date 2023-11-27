@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
- - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
- - [Rare deal puts this premium B&amp;O portable speaker at its lowest price ever](https://www.androidauthority.com/beosound-a1-bluetooth-speaker-3388849/)<!-- TECH:END -->
+ - [60+ Early Cyber Monday Deals Under $100: We Found the Best Deals to Shop Now     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)
+ - [Shop the Best Cyber Monday Deals Under $25: Save Big on Tech, Toys and Daily Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
+ - [A look at the growing usage of social media apps like Douyin among the elderly in China since the COVID-19 lockdowns, often to find companionship &lpar;Lavender Au/Wired&rpar;](http://www.techmeme.com/231126/p5#a231126p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
