@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pony-inspired fighting game Them&#39;s Fightin&#39; Herds abandons its unfinished story mode](https://www.pcgamer.com/pony-inspired-fighting-game-thems-fightin-herds-abandons-its-unfinished-story-mode)
  - [Starfield mod lets you disable the dialogue camera](https://www.pcgamer.com/starfield-mod-lets-you-disable-the-dialogue-camera)
- - [Hunger Games’ director says Tom Blyth ‘caught me off guard’ as Coriolanus Snow](https://www.polygon.com/23971450/hunger-games-the-ballad-of-songbirds-and-snakes-casting-rachel-zegler-tom-blyth)
- - [You’ve seen Scott Pilgrim Takes Off, now watch these other great Science Saru anime](https://www.polygon.com/23961348/scott-pilgrim-takes-off-netflix-anime-studio-science-saru-shows-movies)<!-- GAME:END -->
+ - [Hunger Games’ director says Tom Blyth ‘caught me off guard’ as Coriolanus Snow](https://www.polygon.com/23971450/hunger-games-the-ballad-of-songbirds-and-snakes-casting-rachel-zegler-tom-blyth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
