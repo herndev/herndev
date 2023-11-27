@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
  - ⏩ [Sit](http://9gag.com/gag/a0435nX)
- - 👉 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)<!-- MEMES:END -->
+ - 👉 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)<!-- MEMES:END -->
 
 ---
 
