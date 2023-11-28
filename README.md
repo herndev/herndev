@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your cursed](http://9gag.com/gag/aREp74j)
- - ⏩ [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
- - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
+ - 💣 [Full of special appearances](http://9gag.com/gag/amAZgoX)
+ - ⏩ [Great way to giveparents aneurysm](http://9gag.com/gag/a1P6Prw)
+ - 👉 [Bober kurwa saved the month](http://9gag.com/gag/a6qRqme)<!-- MEMES:END -->
 
 ---
 
