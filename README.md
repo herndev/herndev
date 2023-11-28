@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Invincible side by side #10](http://9gag.com/gag/aVb6wXy)
- - ⏩ [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 👉 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)<!-- MEMES:END -->
+ - 💣 [Dad joke.](http://9gag.com/gag/avQjz8d)
+ - ⏩ [The Krab](http://9gag.com/gag/a9qGnq1)
+ - 👉 [Free your Hair first](http://9gag.com/gag/aQEjozw)<!-- MEMES:END -->
 
 ---
 
