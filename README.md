@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RTX 4080 and 4070 Ti are reportedly getting a production freeze to make room for the forthcoming Super variants, while the RTX 4070 will soldier on](https://www.pcgamer.com/rtx-4080-and-4070-ti-are-reportedly-getting-a-production-freeze-to-make-room-for-the-forthcoming-super-variants-while-the-rtx-4070-will-soldier-on)
- - [Nvidia sells half a million AI chips and bags $14.5 billion in just three months](https://www.pcgamer.com/nvidia-sells-half-a-million-ai-chips-in-just-three-months-netting-dollar10-billion-plus)
- - [Starfield Isn’t Boring Actually, Bethesda Tells Steam Reviewers](https://kotaku.com/starfield-steam-reviews-bethesda-1851052929)<!-- GAME:END -->
+ - [Why Is Starfield Hemorrhaging Active Players?](https://kotaku.com/why-is-starfield-hemorrhaging-active-players-1851053340)
+ - [Wannabe supervillain pulls AI &#39;heist&#39; to steal competitor traffic, but really just shows how unchecked AI is going to ruin the internet](https://www.pcgamer.com/wannabe-supervillain-pulls-ai-heist-to-steal-competitor-traffic-but-really-just-shows-how-unchecked-ai-is-going-to-ruin-the-internet)
+ - [Zelda Devs Reveal Why They Made Ganon ‘Robust And Sexy’ In TOTK](https://kotaku.com/tears-kingdom-totk-ganon-robust-sexy-1851053241)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
