@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 31 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
- - [Ending Soon: 80+ Amazon Cyber Monday Deals on Fitness Gear, Tech, TVs and More     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [The 37 Best Cyber Monday Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2023/)<!-- TECH:END -->
+ - [86 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
+ - [38 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)
+ - [Atomico: companies in Europe are on track to raise $42B in 2023, vs. $85B in 2022; just 7 unicorns are expected in 2023, compared to 48 in 2022 and 108 in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231128/p3#a231128p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
