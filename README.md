@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate 10 Years of Killer Instinct With The New Anniversary Edition](https://news.xbox.com/en-us/2023/11/28/killer-instinct-10th-anniversary-edition/)
- - [I Want To Smooch Every Man In This Disney-Inspired Farming Sim](https://kotaku.com/coral-island-romance-options-farming-sim-stardew-1851055236)
- - [Rockstar veterans Michael Unsworth and Lazlow Jones have joined Dan Houser&#39;s new studio](https://www.pcgamer.com/rockstar-veterans-michael-unsworth-and-lazlow-jones-have-joined-dan-housers-new-studio)<!-- GAME:END -->
+ - [The new Fallout TV series looks like a bright and colorful post-apocalypse—and thank god for that](https://www.pcgamer.com/the-new-fallout-tv-series-looks-like-a-bright-and-colorful-post-apocalypseand-thank-god-for-that)
+ - [Every time a new shooter launches, I start a countdown until it becomes a clown show of brands and hideous skins](https://www.pcgamer.com/every-time-a-new-shooter-launches-i-start-a-countdown-until-it-becomes-a-clown-show-of-brands-and-hideous-skins)
+ - [Among Us gets cosmetics inspired by big indie games like Undertale and Celeste](https://www.polygon.com/23979836/among-us-undertale-sans-celeste-cosmetics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
