@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looney Tunes won’t be yanked from Max after all](https://www.theverge.com/2023/11/28/23979472/looney-tunes-max-warner-bros-discovery)
- - [AWS launches S3 Express One Zone, an S3 tier aimed at data-intensive applications with a 10x write speed improvement and 50% lower request cost than standard S3 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231128/p26#a231128p26)
- - [Google Assistant’s ‘animal of the day’ is no more](https://www.androidauthority.com/google-assistant-animal-of-the-day-3389580/)<!-- TECH:END -->
+ - [The best Cyber Monday deals under $100 you can still get](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
+ - [Amazon launches Amazon Q, a workplace-focused AI assistant starting at $20/user/month that competes with ChatGPT Enterprise, Microsoft&#39;s Copilot, and others &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/231128/p30#a231128p30)
+ - [AWS launches Guardrails in preview to help companies implement safeguards for LLMs, available for foundational models and agents on Amazon Bedrock &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231128/p29#a231128p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
