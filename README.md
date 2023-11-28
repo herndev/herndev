@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Full of special appearances](http://9gag.com/gag/amAZgoX)
- - ⏩ [Great way to giveparents aneurysm](http://9gag.com/gag/a1P6Prw)
- - 👉 [Bober kurwa saved the month](http://9gag.com/gag/a6qRqme)<!-- MEMES:END -->
+ - ⏩ [Bober kurwa saved the month](http://9gag.com/gag/a6qRqme)
+ - 👉 [Following the stabbing murder of a French teen allegedly by Algerian youths in a southern French village, protesters gathered in Lyon to protest against immigration and Islam. Here they shout: \u201cFrench wake up, this is your home here.\u201d](http://9gag.com/gag/a6qR1qb)<!-- MEMES:END -->
 
 ---
 
