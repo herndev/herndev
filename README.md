@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The usual suspects](http://9gag.com/gag/ay2KBqq)
+ - 💣 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
  - ⏩ [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 👉 [Button](http://9gag.com/gag/aVb6bQP)<!-- MEMES:END -->
+ - 👉 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)<!-- MEMES:END -->
 
 ---
 
