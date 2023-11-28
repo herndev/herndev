@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms reason for missing Google Drive files](https://www.androidauthority.com/google-drive-missing-files-3389552/)
- - [Elon Musk Is Giving QAnon Believers Hope Just in Time for the 2024 Elections](https://www.wired.com/story/elon-musk-qanon-2024-election/)
- - [Apple Vision Pro followup expected to be a more affordable, cut-down model](https://appleinsider.com/articles/23/11/28/apple-vision-pro-followup-expected-to-be-a-more-affordable-cut-down-model?utm_medium=rss)<!-- TECH:END -->
+ - [Looney Tunes won’t be yanked from Max after all](https://www.theverge.com/2023/11/28/23979472/looney-tunes-max-warner-bros-discovery)
+ - [AWS launches S3 Express One Zone, an S3 tier aimed at data-intensive applications with a 10x write speed improvement and 50% lower request cost than standard S3 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231128/p26#a231128p26)
+ - [Google Assistant’s ‘animal of the day’ is no more](https://www.androidauthority.com/google-assistant-animal-of-the-day-3389580/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
