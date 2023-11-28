@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - ⏩ [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
- - 👉 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)<!-- MEMES:END -->
+ - 💣 [Share your cursed](http://9gag.com/gag/aREp74j)
+ - ⏩ [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
 
 ---
 
