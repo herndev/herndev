@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad joke.](http://9gag.com/gag/avQjz8d)
- - ⏩ [The Krab](http://9gag.com/gag/a9qGnq1)
- - 👉 [Free your Hair first](http://9gag.com/gag/aQEjozw)<!-- MEMES:END -->
+ - 💣 [To my fellow degenerates](http://9gag.com/gag/aMELxrR)
+ - ⏩ [Perfect logic](http://9gag.com/gag/a5XYnYo)
+ - 👉 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)<!-- MEMES:END -->
 
 ---
 
