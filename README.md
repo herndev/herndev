@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is testing a bottom search bar in the Google App on Android](https://www.androidauthority.com/google-testing-bottom-search-bar-google-app-android-3389471/)
  - [OnePlus confirms wireless charging for OnePlus 12](https://www.androidauthority.com/oneplus-12-wireless-charging-confirmed-3389458/)
- - [Q&amp;A with Jeff Dean, chief scientist of Google DeepMind and Google Research, on Bard&#39;s launch, Gemini LLM, DeepMind-Brain merger, AI misinformation, and more &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/231128/p7#a231128p7)
- - [A Damning Report Claims a Major Gig Economy Union Had a Culture of Abuse and Toxicity](https://www.wired.com/story/adcu-gig-economy-union-toxic-report/)<!-- TECH:END -->
+ - [Q&amp;A with Jeff Dean, chief scientist of Google DeepMind and Google Research, on Bard&#39;s launch, Gemini LLM, DeepMind-Brain merger, AI misinformation, and more &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/231128/p7#a231128p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
