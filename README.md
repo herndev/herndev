@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Is Starfield Hemorrhaging Active Players?](https://kotaku.com/why-is-starfield-hemorrhaging-active-players-1851053340)
- - [Wannabe supervillain pulls AI &#39;heist&#39; to steal competitor traffic, but really just shows how unchecked AI is going to ruin the internet](https://www.pcgamer.com/wannabe-supervillain-pulls-ai-heist-to-steal-competitor-traffic-but-really-just-shows-how-unchecked-ai-is-going-to-ruin-the-internet)
- - [Zelda Devs Reveal Why They Made Ganon ‘Robust And Sexy’ In TOTK](https://kotaku.com/tears-kingdom-totk-ganon-robust-sexy-1851053241)<!-- GAME:END -->
+ - [Destiny 2’s Season of the Wish patch finally adds an in-game LFG](https://www.polygon.com/23972181/season-of-the-wish-patch-notes-lfg-dungeon)
+ - [Destiny 2 x The Witcher collab details revealed, available today](https://blog.playstation.com/2023/11/28/destiny-2-x-the-witcher-collab-details-revealed-available-today/)
+ - [Pathfinder’s first new rulebook after breaking with D&amp;D evokes David Attenborough](https://www.polygon.com/tabletop-games/23979417/paizo-howl-of-the-wild-preview-werewolf-swarmkeeper)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
