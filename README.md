@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS re:Invent 2023: the biggest news and announcements](https://www.theverge.com/2023/11/28/23978323/aws-re-invent-2023-news-announcements)
- - [Every M3 MacBook Pro &amp; iMac is up to $250 off for Cyber Week, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/27/every-m3-macbook-pro-imac-is-up-to-250-off-for-cyber-monday-plus-up-to-80-off-applecare?utm_medium=rss)
- - [Best Cyber Monday Headphone Deals Still Available on AirPods, Beats, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s ad-blocker crackdown may be changing how people are using YouTube](https://www.androidauthority.com/youtube-ad-block-behavior-3389657/)
+ - [How to get your 2023 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)
+ - [ChatGPT appears to be having another outage](https://www.androidauthority.com/chatgpt-outage-november-28-2023-3389679/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
