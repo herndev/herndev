@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why it’s called OnePlus 12 and not OnePlus 12 Pro](https://www.androidauthority.com/oneplus-12-pro-name-3389077/)
- - [AWS announces three new serverless offerings designed to make it easier for customers to manage their Aurora, Elastic Cache, and Redshift deployments &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231128/p6#a231128p6)
- - [Shares of SenseTime fell as much as 9.7% in Hong Kong, after a short seller accused the AI company of inflating its revenue; SenseTime refutes the allegations &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231128/p5#a231128p5)<!-- TECH:END -->
+ - [OnePlus confirms wireless charging for OnePlus 12](https://www.androidauthority.com/oneplus-12-wireless-charging-confirmed-3389458/)
+ - [Q&amp;A with Jeff Dean, chief scientist of Google DeepMind and Google Research, on Bard&#39;s launch, Gemini LLM, DeepMind-Brain merger, AI misinformation, and more &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/231128/p7#a231128p7)
+ - [A Damning Report Claims a Major Gig Economy Union Had a Culture of Abuse and Toxicity](https://www.wired.com/story/adcu-gig-economy-union-toxic-report/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
