@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real Racism](http://9gag.com/gag/agoe5xg)
- - ⏩ [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
+ - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - ⏩ [Share your cursed](http://9gag.com/gag/aREp74j)
+ - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
 
 ---
 
