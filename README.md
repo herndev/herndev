@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When the makers of Pokémon Go and Sleep No More tried to reinvent theater](https://www.polygon.com/23939497/niantic-punchdrunk-canceled-game-hamlet)
- - [With Sam Bankman-Fried in the slammer, now the fugitive crypto &#39;Lunatic&#39; behind 2022&#39;s $40B crash is being extradited from his Montenegrin getaway](https://www.pcgamer.com/with-sam-bankman-fried-in-the-slammer-now-the-fugitive-crypto-lunatic-behind-2022s-dollar40b-crash-is-being-extradited-from-his-montenegrin-getaway)
- - [Skyrim player amasses 267,000 gold lifetime bounty after killing &#39;everything that was killable,&#39; and all you can really do is tearfully salute it](https://www.pcgamer.com/skyrim-player-amasses-267000-gold-bounty-after-killing-everything-that-was-killable-and-all-you-can-really-do-is-tearfully-salute-it)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s next patch will fix the game thinking so hard about your crimes it breaks the fabric of existence](https://www.pcgamer.com/baldurs-gate-3s-next-patch-will-fix-the-game-thinking-so-hard-about-your-crimes-it-breaks-the-fabric-of-existence)
+ - [Kotaku Asks: What Is The Best Video Game Sequel?](https://kotaku.com/best-video-game-sequel-of-all-time-1851051637)
+ - [There&#39;s an entire Remnant 2 build dedicated to belly flopping your enemies so hard, they get drowned in acid and bleed to death](https://www.pcgamer.com/theres-an-entire-remnant-2-build-dedicated-to-belly-flopping-your-enemies-so-hard-they-get-drowned-in-acid-and-bleed-to-death)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
