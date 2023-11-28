@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dragon’s Dogma 2 gets a March release date and tricky new class](https://www.theverge.com/23979909/dragons-dogma-2-release-date-trailer-capcom)
- - [How a post office in the tiny town of Bemidji, Minnesota, was overwhelmed by Amazon packages, which staff were told to prioritize, causing chaos &lpar;Washington Post&rpar;](http://www.techmeme.com/231128/p35#a231128p35)
- - [HPE reports Q4 revenue down 7% YoY to $7.4B, Compute revenue down 31% YoY to $2.6B, HPC &amp; AI revenue up 37% YoY to $1.2B, Intelligent Edge revenue up 41% YoY &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/231128/p34#a231128p34)<!-- TECH:END -->
+ - [Amazon’s Q AI assistant lets users ask questions about their company’s data](https://www.theverge.com/2023/11/28/23980203/aws-amazon-query-generative-ai)
+ - [Adalytics: Google ads appear on many compromising sites that make up its Search Partners network; Google attacks Adalytics but says it&#39;ll review its findings &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231128/p38#a231128p38)
+ - [Source: OpenAI&#39;s revamped board doesn&#39;t plan to include representatives from outside investors, a sign that it will prioritize safety ahead of investor returns &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231128/p37#a231128p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
