@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea debuts a trio of affordable smart home sensors](https://www.theverge.com/2023/11/28/23977693/ikea-sensors-door-window-water-motion-price-date-specs)
- - [FTX investors sue MLB, Formula 1, and the Mercedes Formula 1 team, accusing them of aiding FTX&#39;s fraud, broadening a class-action suit against 24+ celebrities &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231128/p13#a231128p13)
- - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
+ - [A New Type of Geothermal Power Plant Just Made the Internet a Little Greener](https://www.wired.com/story/new-geothermal-power-plant-made-the-internet-a-little-greener/)
+ - [Security Bolts Finally Gave Me and My Bike Peace of Mind](https://www.wired.com/story/bike-security-bolts-finally-gave-me-peace-of-mind/)
+ - [Google’s new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
