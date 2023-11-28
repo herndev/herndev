@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I asked every PC Gamer editor to pick a product they couldn&#39;t live without. Here&#39;s what they said](https://www.pcgamer.com/i-asked-every-pc-gamer-editor-to-pick-a-product-they-couldnt-live-without-heres-what-they-said)
  - [Marvel Snap reassures players it will &#39;continue to operate&#39; despite closure of publisher Nuverse as TikTok parent ByteDance looks to exit gaming](https://www.pcgamer.com/marvel-snap-reassures-players-it-will-continue-to-operate-despite-closure-of-publisher-nuverse-as-tiktok-parent-bytedance-looks-to-exit-gaming)
- - [6 things PC Gamer&#39;s team actually bought on Black Friday and Cyber Monday](https://www.pcgamer.com/6-things-pc-gamers-team-actually-bought-on-black-friday-and-cyber-monday)
- - [Laser-cut board game organizers are a surprisingly thoughtful gift idea](https://www.polygon.com/23974616/board-game-organizer-tabletop-deal-smonex-black-friday-cyber-monday-2023)<!-- GAME:END -->
+ - [6 things PC Gamer&#39;s team actually bought on Black Friday and Cyber Monday](https://www.pcgamer.com/6-things-pc-gamers-team-actually-bought-on-black-friday-and-cyber-monday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
