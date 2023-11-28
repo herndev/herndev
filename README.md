@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We really dig&lpar;lett&rpar; Samsung’s Poke Ball cases, now available in more regions](https://www.androidauthority.com/samsung-galaxy-buds-poke-ball-cases-europe-3389474/)
- - [A look at a woman&#39;s struggle to get her Google account restored after her 7-year-old son made a YouTube video that got her locked out of all her Google accounts &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231128/p8#a231128p8)
- - [Google is testing a bottom search bar in the Google App on Android](https://www.androidauthority.com/google-testing-bottom-search-bar-google-app-android-3389471/)<!-- TECH:END -->
+ - [Reminder: Google is about to start purging inactive accounts](https://www.theverge.com/2023/11/28/23979178/google-inactive-accounts-deletion-december-2023-psa-reminder)
+ - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)
+ - [OnePlus details the OnePlus 12’s rear cameras, and they’re quite familiar](https://www.androidauthority.com/oneplus-12-rear-cameras-3389497/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
