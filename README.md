@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 163 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [AWS announces AI foundation model enhancements to its automated speech recognition service Transcribe, now supporting 100+ languages, and to Personalize and Lex &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p35#a231127p35)
- - [How to delete macOS Sonoma&#39;s live wallpapers](https://appleinsider.com/inside/macos-sonoma/tips/how-to-delete-macos-sonomas-live-wallpapers?utm_medium=rss)<!-- TECH:END -->
+ - [The 31 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
+ - [Ending Soon: 80+ Amazon Cyber Monday Deals on Fitness Gear, Tech, TVs and More     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [The 37 Best Cyber Monday Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
