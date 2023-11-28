@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reminder: Google is about to start purging inactive accounts](https://www.theverge.com/2023/11/28/23979178/google-inactive-accounts-deletion-december-2023-psa-reminder)
- - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)
- - [OnePlus details the OnePlus 12’s rear cameras, and they’re quite familiar](https://www.androidauthority.com/oneplus-12-rear-cameras-3389497/)<!-- TECH:END -->
+ - [Ikea debuts a trio of affordable smart home sensors](https://www.theverge.com/2023/11/28/23977693/ikea-sensors-door-window-water-motion-price-date-specs)
+ - [FTX investors sue MLB, Formula 1, and the Mercedes Formula 1 team, accusing them of aiding FTX&#39;s fraud, broadening a class-action suit against 24+ celebrities &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231128/p13#a231128p13)
+ - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
