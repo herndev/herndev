@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim player amasses 267,000 gold lifetime bounty after killing &#39;everything that was killable,&#39; and all you can really do is tearfully salute it](https://www.pcgamer.com/skyrim-player-amasses-267000-gold-bounty-after-killing-everything-that-was-killable-and-all-you-can-really-do-is-tearfully-salute-it)
- - [Bethesda&#39;s still responding to negative Starfield reviews with cheesy taglines, and at this point I just want the studio&#39;s reply brigade to log off](https://www.pcgamer.com/bethesdas-still-responding-to-negative-starfield-reviews-with-cheesy-taglines-and-at-this-point-i-just-want-the-studios-reply-brigade-to-log-off)
- - [Guide a steam locomotive through the Russian Civil War in brutal survival strategy Last Train Home](https://www.pcgamer.com/guide-a-steam-locomotive-through-the-russian-civil-war-in-brutal-survival-strategy-last-train-home)<!-- GAME:END -->
+ - [When the makers of Pokémon Go and Sleep No More tried to reinvent theater](https://www.polygon.com/23939497/niantic-punchdrunk-canceled-game-hamlet)
+ - [With Sam Bankman-Fried in the slammer, now the fugitive crypto &#39;Lunatic&#39; behind 2022&#39;s $40B crash is being extradited from his Montenegrin getaway](https://www.pcgamer.com/with-sam-bankman-fried-in-the-slammer-now-the-fugitive-crypto-lunatic-behind-2022s-dollar40b-crash-is-being-extradited-from-his-montenegrin-getaway)
+ - [Skyrim player amasses 267,000 gold lifetime bounty after killing &#39;everything that was killable,&#39; and all you can really do is tearfully salute it](https://www.pcgamer.com/skyrim-player-amasses-267000-gold-bounty-after-killing-everything-that-was-killable-and-all-you-can-really-do-is-tearfully-salute-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
