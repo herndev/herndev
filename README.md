@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - ⏩ [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
- - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
+ - 💣 [Share your cursed](http://9gag.com/gag/aREp74j)
+ - ⏩ [Do you agree?](http://9gag.com/gag/amAZ7xo)
+ - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
 
 ---
 
