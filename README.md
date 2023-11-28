@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases 2023 top charts for Podcasts, Apple Books](https://appleinsider.com/articles/23/11/28/apple-releases-2023-top-charts-for-podcasts-apple-books?utm_medium=rss)
- - [Q&amp;A with Car Connectivity Consortium VP Daniel Knobloch on digital car keys, getting automakers to agree on a standard in 2020, securing against theft, and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p20#a231128p20)
- - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)<!-- TECH:END -->
+ - [Wix CEO Avishai Abrahami on why the web isn’t dying after all](https://www.theverge.com/23977985/wix-ceo-avishai-abrahami-generative-ai-web-google-search-interview)
+ - [How humans are engineering the future of coral reefs](https://www.theverge.com/23972647/coral-reef-engineering-future-rescue)
+ - [UK watchdog slams the brakes on Adobe’s $20 billion bid for Figma](https://www.theverge.com/2023/11/28/23979260/adobe-figma-bid-uk-watchdog-cma-provisional-findings-merger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
