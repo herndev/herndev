@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wix CEO Avishai Abrahami on why the web isn’t dying after all](https://www.theverge.com/23977985/wix-ceo-avishai-abrahami-generative-ai-web-google-search-interview)
- - [How humans are engineering the future of coral reefs](https://www.theverge.com/23972647/coral-reef-engineering-future-rescue)
- - [UK watchdog slams the brakes on Adobe’s $20 billion bid for Figma](https://www.theverge.com/2023/11/28/23979260/adobe-figma-bid-uk-watchdog-cma-provisional-findings-merger)<!-- TECH:END -->
+ - [Google confirms reason for missing Google Drive files](https://www.androidauthority.com/google-drive-missing-files-3389552/)
+ - [Elon Musk Is Giving QAnon Believers Hope Just in Time for the 2024 Elections](https://www.wired.com/story/elon-musk-qanon-2024-election/)
+ - [Apple Vision Pro followup expected to be a more affordable, cut-down model](https://appleinsider.com/articles/23/11/28/apple-vision-pro-followup-expected-to-be-a-more-affordable-cut-down-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
