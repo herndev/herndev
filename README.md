@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
- - [The best Cyber Monday deals you can still get](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [The best Cyber Monday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)<!-- TECH:END -->
+ - [Cradle, which uses AI to help design and engineer proteins faster and more cost-effectively, raised a $24M Series A led by Index Ventures &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231127/p31#a231127p31)
+ - [23 Best Cyber Monday TV Deals &lpar;2023&rpar;: OLED, QLED, and More](https://www.wired.com/story/best-cyber-monday-tv-deals-2023/)
+ - [The best Cyber Monday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
