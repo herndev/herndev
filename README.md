@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Fallout TV series looks like a bright and colorful post-apocalypse—and thank god for that](https://www.pcgamer.com/the-new-fallout-tv-series-looks-like-a-bright-and-colorful-post-apocalypseand-thank-god-for-that)
- - [Every time a new shooter launches, I start a countdown until it becomes a clown show of brands and hideous skins](https://www.pcgamer.com/every-time-a-new-shooter-launches-i-start-a-countdown-until-it-becomes-a-clown-show-of-brands-and-hideous-skins)
- - [Among Us gets cosmetics inspired by big indie games like Undertale and Celeste](https://www.polygon.com/23979836/among-us-undertale-sans-celeste-cosmetics)<!-- GAME:END -->
+ - [Lawsuit filed by 33 US states alleges Meta knew Facebook and Instagram&#39;s &#39;addictive features harmed young people’s physical and mental health&#39;](https://www.pcgamer.com/lawsuit-filed-by-33-us-states-alleges-meta-knew-facebook-and-instagrams-addictive-features-harmed-young-peoples-physical-and-mental-health)
+ - [Dragon’s Dogma 2 arrives March 2024, looks fantastic](https://www.polygon.com/23979999/dragons-dogma-2-release-date-capcom-showcase)
+ - [Destiny 2 power level guide, all caps and Powerful and Pinnacle gear sources explained](https://www.polygon.com/destiny-2-guide-walkthrough/23611953/power-level-cap-powerful-pinnacle-gear)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
