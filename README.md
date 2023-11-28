@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Type of Geothermal Power Plant Just Made the Internet a Little Greener](https://www.wired.com/story/new-geothermal-power-plant-made-the-internet-a-little-greener/)
- - [Security Bolts Finally Gave Me and My Bike Peace of Mind](https://www.wired.com/story/bike-security-bolts-finally-gave-me-peace-of-mind/)
- - [Google’s new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)<!-- TECH:END -->
+ - [Apple releases 2023 top charts for Podcasts, Apple Books](https://appleinsider.com/articles/23/11/28/apple-releases-2023-top-charts-for-podcasts-apple-books?utm_medium=rss)
+ - [Q&amp;A with Car Connectivity Consortium VP Daniel Knobloch on digital car keys, getting automakers to agree on a standard in 2020, securing against theft, and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p20#a231128p20)
+ - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
