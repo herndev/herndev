@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [Google Drive users complain of missing files, months of data disappearing](https://appleinsider.com/articles/23/11/27/google-drive-users-complain-of-missing-files-months-of-data-disappearing?utm_medium=rss)
- - [37 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)<!-- TECH:END -->
+ - [The best Cyber Monday deals for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
+ - [The best Cyber Monday deals you can still get](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
+ - [The best Cyber Monday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
