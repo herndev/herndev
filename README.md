@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I asked every PC Gamer editor to pick a product they couldn&#39;t live without. Here&#39;s what they said](https://www.pcgamer.com/i-asked-every-pc-gamer-editor-to-pick-a-product-they-couldnt-live-without-heres-what-they-said)
- - [Marvel Snap reassures players it will &#39;continue to operate&#39; despite closure of publisher Nuverse as TikTok parent ByteDance looks to exit gaming](https://www.pcgamer.com/marvel-snap-reassures-players-it-will-continue-to-operate-despite-closure-of-publisher-nuverse-as-tiktok-parent-bytedance-looks-to-exit-gaming)
- - [6 things PC Gamer&#39;s team actually bought on Black Friday and Cyber Monday](https://www.pcgamer.com/6-things-pc-gamers-team-actually-bought-on-black-friday-and-cyber-monday)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #892 for Tuesday, November 28](https://www.pcgamer.com/wordle-today-answer-892-november-28)
+ - [You can create a RAM disk within the 3D V-Cache of an AMD X3D CPU if you really want to](https://www.pcgamer.com/you-can-create-a-ram-disk-within-the-3d-v-cache-of-an-amd-x3d-cpu-if-you-really-want-to)
+ - [I asked every PC Gamer editor to pick a product they couldn&#39;t live without. Here&#39;s what they said](https://www.pcgamer.com/i-asked-every-pc-gamer-editor-to-pick-a-product-they-couldnt-live-without-heres-what-they-said)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
