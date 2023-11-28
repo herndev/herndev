@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - ⏩ [The Krab](http://9gag.com/gag/a9qGnq1)
- - 👉 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)<!-- MEMES:END -->
+ - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - ⏩ [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - 👉 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)<!-- MEMES:END -->
 
 ---
 
