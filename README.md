@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI board mulled adding Bret Taylor after three members resigned earlier in 2023, but lacked consensus, and it never got any letter warning about Q* &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231127/p32#a231127p32)
- - [Best Apple Cyber Monday Deals 2023: Check Out Savings on AirPods, iPad, Apple Watch, MacBook and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
- - [Cradle, which uses AI to help design and engineer proteins faster and more cost-effectively, raised a $24M Series A led by Index Ventures &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231127/p31#a231127p31)<!-- TECH:END -->
+ - [Sketchy report says 400,000 Apple Vision Pro units to ship initially, 10 million by 2026](https://appleinsider.com/articles/23/11/28/sketchy-report-says-400000-apple-vision-pro-units-to-ship-initially-10-million-by-2026?utm_medium=rss)
+ - [Best Cyber Monday Deals Under $25: Save on Fire TV Sticks, Peloton Yoga Blocks and More While Deals Last     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
+ - [The best Cyber Monday deals you can still grab before midnight](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
