@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s next patch will fix the game thinking so hard about your crimes it breaks the fabric of existence](https://www.pcgamer.com/baldurs-gate-3s-next-patch-will-fix-the-game-thinking-so-hard-about-your-crimes-it-breaks-the-fabric-of-existence)
- - [Kotaku Asks: What Is The Best Video Game Sequel?](https://kotaku.com/best-video-game-sequel-of-all-time-1851051637)
- - [There&#39;s an entire Remnant 2 build dedicated to belly flopping your enemies so hard, they get drowned in acid and bleed to death](https://www.pcgamer.com/theres-an-entire-remnant-2-build-dedicated-to-belly-flopping-your-enemies-so-hard-they-get-drowned-in-acid-and-bleed-to-death)<!-- GAME:END -->
+ - [RTX 4080 and 4070 Ti are reportedly getting a production freeze to make room for the forthcoming Super variants, while the RTX 4070 will soldier on](https://www.pcgamer.com/rtx-4080-and-4070-ti-are-reportedly-getting-a-production-freeze-to-make-room-for-the-forthcoming-super-variants-while-the-rtx-4070-will-soldier-on)
+ - [Nvidia sells half a million AI chips and bags $14.5 billion in just three months](https://www.pcgamer.com/nvidia-sells-half-a-million-ai-chips-in-just-three-months-netting-dollar10-billion-plus)
+ - [Starfield Isn’t Boring Actually, Bethesda Tells Steam Reviewers](https://kotaku.com/starfield-steam-reviews-bethesda-1851052929)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
