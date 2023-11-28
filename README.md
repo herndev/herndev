@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To my fellow degenerates](http://9gag.com/gag/aMELxrR)
- - ⏩ [Perfect logic](http://9gag.com/gag/a5XYnYo)
- - 👉 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)<!-- MEMES:END -->
+ - 💣 [A Camper Wakes Up To Hundred of Spiders Crawling on Its Tent](http://9gag.com/gag/aA093nZ)
+ - ⏩ [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
 
 ---
 
