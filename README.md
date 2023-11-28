@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full of special appearances](http://9gag.com/gag/amAZgoX)
- - ⏩ [Bober kurwa saved the month](http://9gag.com/gag/a6qRqme)
- - 👉 [Following the stabbing murder of a French teen allegedly by Algerian youths in a southern French village, protesters gathered in Lyon to protest against immigration and Islam. Here they shout: \u201cFrench wake up, this is your home here.\u201d](http://9gag.com/gag/a6qR1qb)<!-- MEMES:END -->
+ - 💣 [Real Racism](http://9gag.com/gag/agoe5xg)
+ - ⏩ [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
 
 ---
 
