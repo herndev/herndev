@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doctor Who time traveled back to 2008 to save the show in 2023](https://www.polygon.com/23979689/doctor-who-the-star-beast-review)
- - [Self-hosted media app starts narcing on its own users&#39; anime and X-rated habits with an opt-out service, and it&#39;s going terribly](https://www.pcgamer.com/self-hosted-media-app-starts-narcing-on-its-own-users-anime-and-x-rated-habits-with-an-opt-out-service-and-its-going-terribly)
- - [Fallout TV series first look: it&#39;s &#39;dramatic and dark&#39; but with &#39;a little bit of a wink,&#39; says Todd Howard](https://www.pcgamer.com/fallout-tv-series-first-look-its-dramatic-and-dark-but-with-a-little-bit-of-a-wink-says-todd-howard)<!-- GAME:END -->
+ - [Celebrate 10 Years of Killer Instinct With The New Anniversary Edition](https://news.xbox.com/en-us/2023/11/28/killer-instinct-10th-anniversary-edition/)
+ - [I Want To Smooch Every Man In This Disney-Inspired Farming Sim](https://kotaku.com/coral-island-romance-options-farming-sim-stardew-1851055236)
+ - [Rockstar veterans Michael Unsworth and Lazlow Jones have joined Dan Houser&#39;s new studio](https://www.pcgamer.com/rockstar-veterans-michael-unsworth-and-lazlow-jones-have-joined-dan-housers-new-studio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
