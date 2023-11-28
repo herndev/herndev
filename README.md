@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals under $100 you can still get](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
- - [Amazon launches Amazon Q, a workplace-focused AI assistant starting at $20/user/month that competes with ChatGPT Enterprise, Microsoft&#39;s Copilot, and others &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/231128/p30#a231128p30)
- - [AWS launches Guardrails in preview to help companies implement safeguards for LLMs, available for foundational models and agents on Amazon Bedrock &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231128/p29#a231128p29)<!-- TECH:END -->
+ - [Prominent Women in Tech Say They Don&#39;t Want to Join OpenAI&#39;s All-Male Board](https://www.wired.com/story/women-in-tech-openai-board/)
+ - [Survey of Substack and Telegram finds &quot;scores&quot; of white supremacist, neo-Confederate, and Nazi newsletters among Substack&#39;s ~17K total; over 16 use Nazi symbols &lpar;Jonathan M. Katz/The Atlantic&rpar;](http://www.techmeme.com/231128/p31#a231128p31)
+ - [Save $100 on This Halo Wireless GPS Dog Collar Even After Cyber Monday and Never Lose Your Good Boy Again     - CNET](https://www.cnet.com/deals/save-100-on-this-halo-wireless-gps-dog-collar-this-cyber-monday-and-never-lose-your-good-boy-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
