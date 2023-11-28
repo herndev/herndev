@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 💣 [The usual suspects](http://9gag.com/gag/ay2KBqq)
  - ⏩ [That poor child and man](http://9gag.com/gag/aYV0ovN)
  - 👉 [Button](http://9gag.com/gag/aVb6bQP)<!-- MEMES:END -->
 
