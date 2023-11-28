@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Guide a steam locomotive through the Russian Civil War in brutal survival strategy Last Train Home](https://www.pcgamer.com/guide-a-steam-locomotive-through-the-russian-civil-war-in-brutal-survival-strategy-last-train-home)
  - [Can Lechonk be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23977895/can-lechonk-be-shiny-oinkologne)
- - [Wordle today: Hint and answer #892 for Tuesday, November 28](https://www.pcgamer.com/wordle-today-answer-892-november-28)
- - [You can create a RAM disk within the 3D V-Cache of an AMD X3D CPU if you really want to](https://www.pcgamer.com/you-can-create-a-ram-disk-within-the-3d-v-cache-of-an-amd-x3d-cpu-if-you-really-want-to)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #892 for Tuesday, November 28](https://www.pcgamer.com/wordle-today-answer-892-november-28)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
