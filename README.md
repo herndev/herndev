@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lawsuit filed by 33 US states alleges Meta knew Facebook and Instagram&#39;s &#39;addictive features harmed young people’s physical and mental health&#39;](https://www.pcgamer.com/lawsuit-filed-by-33-us-states-alleges-meta-knew-facebook-and-instagrams-addictive-features-harmed-young-peoples-physical-and-mental-health)
- - [Dragon’s Dogma 2 arrives March 2024, looks fantastic](https://www.polygon.com/23979999/dragons-dogma-2-release-date-capcom-showcase)
- - [Destiny 2 power level guide, all caps and Powerful and Pinnacle gear sources explained](https://www.polygon.com/destiny-2-guide-walkthrough/23611953/power-level-cap-powerful-pinnacle-gear)<!-- GAME:END -->
+ - [Cult of the Lamb devs said they&#39;d make the &#39;sex update&#39; meme come true if they got 300,000 followers and, well, you can guess what happened next](https://www.pcgamer.com/cult-of-the-lamb-devs-said-theyd-make-the-sex-update-meme-come-true-if-they-got-300000-followers-and-well-you-can-guess-what-happened-next)
+ - [In 2 days, the PC Gaming Show: Most Wanted will reveal the 25 most anticipated upcoming PC games](https://www.pcgamer.com/in-2-days-the-pc-gaming-show-most-wanted-will-reveal-the-25-most-anticipated-upcoming-pc-games)
+ - [Among Us Is Crossing Over With Goose Game, Celeste, Undertale, And More](https://kotaku.com/among-us-indie-cosmicube-bundle-goose-game-undertale-1851055845)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
