@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is testing a bottom search bar in the Google App on Android](https://www.androidauthority.com/google-testing-bottom-search-bar-google-app-android-3389471/)
- - [OnePlus confirms wireless charging for OnePlus 12](https://www.androidauthority.com/oneplus-12-wireless-charging-confirmed-3389458/)
- - [Q&amp;A with Jeff Dean, chief scientist of Google DeepMind and Google Research, on Bard&#39;s launch, Gemini LLM, DeepMind-Brain merger, AI misinformation, and more &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/231128/p7#a231128p7)<!-- TECH:END -->
+ - [We really dig&lpar;lett&rpar; Samsung’s Poke Ball cases, now available in more regions](https://www.androidauthority.com/samsung-galaxy-buds-poke-ball-cases-europe-3389474/)
+ - [A look at a woman&#39;s struggle to get her Google account restored after her 7-year-old son made a YouTube video that got her locked out of all her Google accounts &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231128/p8#a231128p8)
+ - [Google is testing a bottom search bar in the Google App on Android](https://www.androidauthority.com/google-testing-bottom-search-bar-google-app-android-3389471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
