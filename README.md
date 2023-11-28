@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Camper Wakes Up To Hundred of Spiders Crawling on Its Tent](http://9gag.com/gag/aA093nZ)
- - ⏩ [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
+ - 💣 [Free your Hair first](http://9gag.com/gag/aQEjozw)
+ - ⏩ [True](http://9gag.com/gag/aGEQp3z)
+ - 👉 [Following the stabbing murder of a French teen allegedly by Algerian youths in a southern French village, protesters gathered in Lyon to protest against immigration and Islam. Here they shout: \u201cFrench wake up, this is your home here.\u201d](http://9gag.com/gag/a6qR1qb)<!-- MEMES:END -->
 
 ---
 
