@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s Season of the Wish patch finally adds an in-game LFG](https://www.polygon.com/23972181/season-of-the-wish-patch-notes-lfg-dungeon)
- - [Destiny 2 x The Witcher collab details revealed, available today](https://blog.playstation.com/2023/11/28/destiny-2-x-the-witcher-collab-details-revealed-available-today/)
- - [Pathfinder’s first new rulebook after breaking with D&amp;D evokes David Attenborough](https://www.polygon.com/tabletop-games/23979417/paizo-howl-of-the-wild-preview-werewolf-swarmkeeper)<!-- GAME:END -->
+ - [Doctor Who time traveled back to 2008 to save the show in 2023](https://www.polygon.com/23979689/doctor-who-the-star-beast-review)
+ - [Self-hosted media app starts narcing on its own users&#39; anime and X-rated habits with an opt-out service, and it&#39;s going terribly](https://www.pcgamer.com/self-hosted-media-app-starts-narcing-on-its-own-users-anime-and-x-rated-habits-with-an-opt-out-service-and-its-going-terribly)
+ - [Fallout TV series first look: it&#39;s &#39;dramatic and dark&#39; but with &#39;a little bit of a wink,&#39; says Todd Howard](https://www.pcgamer.com/fallout-tv-series-first-look-its-dramatic-and-dark-but-with-a-little-bit-of-a-wink-says-todd-howard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
