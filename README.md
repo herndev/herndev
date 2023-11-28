@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
- - ⏩ [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 👉 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)<!-- MEMES:END -->
+ - 💣 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
+ - ⏩ [Share your cursed](http://9gag.com/gag/aREp74j)
+ - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
 
 ---
 
