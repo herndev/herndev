@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True](http://9gag.com/gag/aGEQp3z)
- - ⏩ [Full of special appearances](http://9gag.com/gag/amAZgoX)
- - 👉 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)<!-- MEMES:END -->
+ - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - ⏩ [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
+ - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
 
 ---
 
