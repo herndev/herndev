@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Guide a steam locomotive through the Russian Civil War in brutal survival strategy Last Train Home](https://www.pcgamer.com/guide-a-steam-locomotive-through-the-russian-civil-war-in-brutal-survival-strategy-last-train-home)
- - [Can Lechonk be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23977895/can-lechonk-be-shiny-oinkologne)
- - [Wordle today: Hint and answer #892 for Tuesday, November 28](https://www.pcgamer.com/wordle-today-answer-892-november-28)<!-- GAME:END -->
+ - [Skyrim player amasses 267,000 gold lifetime bounty after killing &#39;everything that was killable,&#39; and all you can really do is tearfully salute it](https://www.pcgamer.com/skyrim-player-amasses-267000-gold-bounty-after-killing-everything-that-was-killable-and-all-you-can-really-do-is-tearfully-salute-it)
+ - [Bethesda&#39;s still responding to negative Starfield reviews with cheesy taglines, and at this point I just want the studio&#39;s reply brigade to log off](https://www.pcgamer.com/bethesdas-still-responding-to-negative-starfield-reviews-with-cheesy-taglines-and-at-this-point-i-just-want-the-studios-reply-brigade-to-log-off)
+ - [Guide a steam locomotive through the Russian Civil War in brutal survival strategy Last Train Home](https://www.pcgamer.com/guide-a-steam-locomotive-through-the-russian-civil-war-in-brutal-survival-strategy-last-train-home)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
