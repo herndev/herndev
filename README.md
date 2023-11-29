@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s .NET 8 with Aspire cloud-ready tools for Mac is out](https://appleinsider.com/articles/23/11/29/microsofts-net-8-with-aspire-cloud-ready-tools-for-mac-is-out?utm_medium=rss)
- - [Amazon executive John Boumphrey says selling pre-owned goods in the UK and Europe is now a $1.3B business and Amazon sold 4M+ used items in 2022 in the UK &lpar;James Davey/Reuters&rpar;](http://www.techmeme.com/231129/p12#a231129p12)
- - [Apple and Goldman Sachs to part ways on Apple Card, no successor named](https://appleinsider.com/articles/23/11/28/apple-and-goldman-sachs-to-part-ways-on-apple-card-no-successor-named?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify Wrapped 2023 assigns you a ‘sound town’ based on your music taste](https://www.theverge.com/2023/11/29/23980024/spotify-wrapped-2023-sound-town)
+ - [The Cybertruck made a mark, but missed its moment](https://www.theverge.com/2023/11/29/23979850/tesla-cybertruck-delivery-design-production-problems-delay)
+ - [A look at Ayaneo&#39;s new $199+ Retro Mini PC AM01, styled on Apple&#39;s 1980s-era Macintosh, with AMD Ryzen chips, up to 32GB of RAM, and up to 1TB of storage &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231129/p16#a231129p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
