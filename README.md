@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon&#39;s Dogma 2 extended gameplay showcase reveals it&#39;s coming to PC in March](https://www.pcgamer.com/dragons-dogma-2-extended-gameplay-showcase-reveals-its-coming-to-pc-in-march)
- - [Cult of the Lamb devs said they&#39;d make the &#39;sex update&#39; meme come true if they got 300,000 followers and, well, you can guess what happened next](https://www.pcgamer.com/cult-of-the-lamb-devs-said-theyd-make-the-sex-update-meme-come-true-if-they-got-300000-followers-and-well-you-can-guess-what-happened-next)
- - [In 2 days, the PC Gaming Show: Most Wanted will reveal the 25 most anticipated upcoming PC games](https://www.pcgamer.com/in-2-days-the-pc-gaming-show-most-wanted-will-reveal-the-25-most-anticipated-upcoming-pc-games)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #893 for Wednesday, November 29](https://www.pcgamer.com/wordle-today-answer-893-november-29)
+ - [Some Google Drive users are reporting that their recently uploaded files have vanished](https://www.pcgamer.com/some-google-drive-users-are-reporting-that-their-recently-uploaded-files-have-vanished)
+ - [Dragon&#39;s Dogma 2 extended gameplay showcase reveals it&#39;s coming to PC in March](https://www.pcgamer.com/dragons-dogma-2-extended-gameplay-showcase-reveals-its-coming-to-pc-in-march)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
