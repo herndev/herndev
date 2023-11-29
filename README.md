@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google beefs up Drive’s document scanning feature and brings it to iPhone](https://www.theverge.com/2023/11/29/23980739/google-drive-document-scanner-ios-android)
- - [Poll: Would you still buy the Galaxy S24 Ultra if it had no 10x camera?](https://www.androidauthority.com/still-buy-galaxy-s24-ultra-no-10x-camera-poll-3389795/)
- - [Q&amp;A with Wix CEO Avishai Abrahami on Wix&#39;s embrace of AI, how the business models of the web can survive AI, Israel-Hamas war content moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231129/p6#a231129p6)<!-- TECH:END -->
+ - [OpenText agrees to divest its app modernization and connectivity business to Rocket Software for about $2.28B in cash, expected to close by June 30, 2024 &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p9#a231129p9)
+ - [Spotify Wrapped 2023: When it is coming?](https://www.androidauthority.com/how-to-see-spotify-wrapped-3069969/)
+ - [Samsung launches its Samsung Internet browser on Windows via the Microsoft Store, offering a similar design to Chrome &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/231129/p8#a231129p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
