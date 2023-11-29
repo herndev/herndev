@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Great success](http://9gag.com/gag/amAZWyy)
- - ⏩ [The battle of Tet Ten](http://9gag.com/gag/aVb6xyw)
- - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
+ - ⏩ [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
+ - 👉 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)<!-- MEMES:END -->
 
 ---
 
