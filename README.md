@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 14 Ultra leaked specifications indicate a big upgrade for the main camera](https://www.androidauthority.com/xiaomi-14-ultra-leaked-camera-specifications-3389757/)
- - [PSA: You should update Chrome on your PC due to this serious flaw](https://www.androidauthority.com/psa-update-google-chrome-pc-zero-day-3389752/)
- - [Investigation: Palestinians are excluded from or face barriers when trying to monetize via Google services, bringing the region&#39;s digital divide under scrutiny &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231129/p5#a231129p5)<!-- TECH:END -->
+ - [Google beefs up Drive’s document scanning feature and brings it to iPhone](https://www.theverge.com/2023/11/29/23980739/google-drive-document-scanner-ios-android)
+ - [Poll: Would you still buy the Galaxy S24 Ultra if it had no 10x camera?](https://www.androidauthority.com/still-buy-galaxy-s24-ultra-no-10x-camera-poll-3389795/)
+ - [Q&amp;A with Wix CEO Avishai Abrahami on Wix&#39;s embrace of AI, how the business models of the web can survive AI, Israel-Hamas war content moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231129/p6#a231129p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
