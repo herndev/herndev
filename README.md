@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s where you can grab Oppenheimer on 4K Blu-ray, if you’ve had trouble finding it](https://www.polygon.com/23923945/oppenheimer-blu-ray-4k-uhd-pre-order-guide-where-to-buy)
- - [Massive Game Microtransaction Company Sounds Super Shady](https://kotaku.com/xsolla-ubisoft-epic-games-fortnite-roblox-1851058729)
- - [Rockstar Co-Founder &amp; GTA Lead Writer Finally Reveals What He&#39;s Been Working On](https://kotaku.com/rockstar-games-gta-6-what-is-dan-houser-nexts-game-1851058701)<!-- GAME:END -->
+ - [Overwatch 2’s Mythic skins aren’t living up to their name](https://www.polygon.com/23981293/overwatch-2-mythic-skins-battle-pass-season-8-orisa)
+ - [This Marvel Snap Deck Features A Devious, Devastating Combo](https://kotaku.com/marvel-snap-arnim-zola-destroy-deck-guide-second-dinner-1851033564)
+ - [How to get the Thorn Catalyst in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23972180/thorn-catalyst-how-to-get-effect)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
