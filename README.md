@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ayaneo&#39;s first mini PC looks absolutely gorgeous but that beauty is only skin deep, unfortunately](https://www.pcgamer.com/ayaneos-first-mini-pc-looks-absolutely-gorgeous-but-that-beauty-is-only-skin-deep-unfortunately)
  - [Wordle today: Hint and answer #893 for Wednesday, November 29](https://www.pcgamer.com/wordle-today-answer-893-november-29)
- - [Some Google Drive users are reporting that their recently uploaded files have vanished](https://www.pcgamer.com/some-google-drive-users-are-reporting-that-their-recently-uploaded-files-have-vanished)
- - [Dragon&#39;s Dogma 2 extended gameplay showcase reveals it&#39;s coming to PC in March](https://www.pcgamer.com/dragons-dogma-2-extended-gameplay-showcase-reveals-its-coming-to-pc-in-march)<!-- GAME:END -->
+ - [Some Google Drive users are reporting that their recently uploaded files have vanished](https://www.pcgamer.com/some-google-drive-users-are-reporting-that-their-recently-uploaded-files-have-vanished)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
