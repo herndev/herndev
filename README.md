@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS Plus’ December Lineup Wants You To Cozy Up For Christmas](https://kotaku.com/december-ps-plus-lego-2k-drive-powerwash-sim-sable-1851059251)
- - [Palia’s winter update brings festive celebrations, a new wind temple](https://www.polygon.com/23981497/palia-winter-update-winterlights-holiday-temple-winds)
- - [The Worst Versions Of The Original GTA Trilogy Are Coming To Netflix Games](https://kotaku.com/gta-trilogy-remastered-netflix-phone-android-ios-port-1851059102)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Xbox App [2312.1001.11.0]](https://news.xbox.com/en-us/2023/11/29/xbox-insider-release-notes-xbox-app-2312-1001-11-0/)
+ - [Everything we’ve heard about Grand Theft Auto 6, Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)
+ - [Hey Spotify, why the heck am I ‘Provo, Utah’?](https://www.polygon.com/23981218/spotify-wrapped-sound-towns-provo-burlington)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
