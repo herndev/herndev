@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity announces two online LLMs that can access the internet to deliver up-to-date responses, available via Perplexity&#39;s API and Labs web interface &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231129/p33#a231129p33)
- - [Android upgrade king Samsung now pushing Android 14 to budget Galaxy A24](https://www.androidauthority.com/samsung-galaxy-a24-android-14-3389985/)
- - [Sources: Google and Canada have reached an agreement in their dispute over the Online News Act; source: Google will pay news companies around $100M per year &lpar;CBC News&rpar;](http://www.techmeme.com/231129/p32#a231129p32)<!-- TECH:END -->
+ - [Apple says it&#39;s focused with Goldman Sachs on providing &quot;an incredible experience&quot; for customers, after a report that Apple plans to end their partnership &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231129/p36#a231129p36)
+ - [Plex users express alarm after receiving a &quot;week in review&quot; summary that showed what their friends had watched, part of Plex&#39;s opt-out Discover Together tool &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231129/p35#a231129p35)
+ - [Nectar&#39;s Cyber Monday Sale Is Still Going Strong With Everything Up to 40% Off     - CNET](https://www.cnet.com/deals/nectars-cyber-monday-sale-everything-is-up-to-40-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
