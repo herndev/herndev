@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great success](http://9gag.com/gag/amAZWyy)
- - ⏩ [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
+ - 💣 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - ⏩ [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 👉 [Great success](http://9gag.com/gag/amAZWyy)<!-- MEMES:END -->
 
 ---
 
