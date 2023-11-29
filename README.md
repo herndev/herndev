@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - ⏩ [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
- - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
+ - 💣 [Honestly it&#39;s looking really comfy](http://9gag.com/gag/a6qREMA)
+ - ⏩ [A picture is worth a thousand words](http://9gag.com/gag/aMELVL1)
+ - 👉 [Share your cursed](http://9gag.com/gag/aREp74j)<!-- MEMES:END -->
 
 ---
 
