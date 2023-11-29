@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - ⏩ [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
+ - 💣 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
+ - ⏩ [Kidnapped](http://9gag.com/gag/a3ZOZ11)
  - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
 
 ---
