@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is super cool though](http://9gag.com/gag/aEq4qVe)
- - ⏩ [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)
- - 👉 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)<!-- MEMES:END -->
+ - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - ⏩ [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
+ - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
 
 ---
 
