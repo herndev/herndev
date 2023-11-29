@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - ⏩ [Great success](http://9gag.com/gag/amAZWyy)
- - 👉 [Not everybody wants to be a meme](http://9gag.com/gag/aL1EvLg)<!-- MEMES:END -->
+ - 💣 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)
+ - ⏩ [Smart guy](http://9gag.com/gag/abv8A6B)
+ - 👉 [Triggered trans in the comments](http://9gag.com/gag/axorWg2)<!-- MEMES:END -->
 
 ---
 
