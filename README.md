@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This year&#39;s ugly Windows sweater is here and it&#39;s one of the best in a long line of gloriously ugly jumpers](https://www.pcgamer.com/this-years-ugly-windows-sweater-is-here-and-its-one-of-the-best-in-a-long-line-of-gloriously-ugly-jumpers)
- - [Silent Hill: Ascension&#39;s terrible Jam Man &lpar;who likes to make jams&rpar; was not written by AI, says Genvid CEO: &#39;every word in Ascension was written by real people&#39;](https://www.pcgamer.com/silent-hill-ascensions-terrible-jam-man-who-likes-to-make-jams-was-not-written-by-ai-says-genvid-ceo-every-word-in-ascension-was-written-by-real-people)
- - [Cherry KC 200 MX review](https://www.pcgamer.com/cherry-kc-200-mx-review)<!-- GAME:END -->
+ - [How Composer Inon Zur Created the Soul of Starfield in Just Six Musical Notes](https://news.xbox.com/en-us/2023/11/29/starfield-music-inon-zur-interview/)
+ - [Someone discovered cheat codes in Gran Turismo PSP, 14 years too late](https://www.polygon.com/23980855/gran-turismo-psp-cheat-codes-all-cars-free-money)
+ - [How item restoration works in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-item-restoration)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
