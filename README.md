@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it&#39;s focused with Goldman Sachs on providing &quot;an incredible experience&quot; for customers, after a report that Apple plans to end their partnership &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231129/p36#a231129p36)
- - [Plex users express alarm after receiving a &quot;week in review&quot; summary that showed what their friends had watched, part of Plex&#39;s opt-out Discover Together tool &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231129/p35#a231129p35)
- - [Nectar&#39;s Cyber Monday Sale Is Still Going Strong With Everything Up to 40% Off     - CNET](https://www.cnet.com/deals/nectars-cyber-monday-sale-everything-is-up-to-40-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s not too late to save 42% on the new Motorola Edge &lpar;2023&rpar;](https://www.androidauthority.com/motorola-edge-2023-holiday-deal-3390023/)
+ - [Apple&#39;s new Apple Card &amp; Goldman Sachs statement doesn&#39;t clarify things at all](https://appleinsider.com/articles/23/11/29/apples-new-apple-card-goldman-sachs-statement-doesnt-clarify-things-at-all?utm_medium=rss)
+ - [The Senate Judiciary Committee says the CEOs of Meta, X, TikTok, Snap, and Discord will testify on online child safety at a hearing rescheduled for January 31 &lpar;Susan Heavey/Reuters&rpar;](http://www.techmeme.com/231129/p39#a231129p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
