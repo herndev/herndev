@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - ⏩ [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
+ - 💣 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - ⏩ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 👉 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)<!-- MEMES:END -->
 
 ---
 
