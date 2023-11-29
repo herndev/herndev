@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to exit its Goldman Sachs contract in 12 to 15 months, ending their consumer partnership, including for credit card and savings accounts &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/231128/p39#a231128p39)
- - [Apple and Goldman Sachs to part ways on Apple Card, no successor named](https://appleinsider.com/articles/23/11/28/apple-and-goldman-sachs-to-part-ways-on-apple-card-no-successor-named?utm_medium=rss)
- - [Amazon’s Q AI assistant lets users ask questions about their company’s data](https://www.theverge.com/2023/11/28/23980203/aws-amazon-query-generative-ai)<!-- TECH:END -->
+ - [A look at Foxconn&#39;s struggles to manufacture the iPhone 15 in India, contending with language barriers, labor disputes, regulatory hurdles, and more &lpar;Rest of World&rpar;](http://www.techmeme.com/231128/p41#a231128p41)
+ - [Uber announces a plan to start listing London&#39;s famed black cabs in early 2024, despite objections from the Licensed Taxi Drivers&#39; Association trade group &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p40#a231128p40)
+ - [London’s famed black cabs will be listed on Uber’s app in big win for the ridehail company](https://www.theverge.com/2023/11/28/23979409/uber-london-black-cab-app-referrals-taxi-ltda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
