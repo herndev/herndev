@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your cursed](http://9gag.com/gag/aREp74j)
- - ⏩ [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
+ - 💣 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - ⏩ [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
+ - 👉 [Share your cursed](http://9gag.com/gag/aREp74j)<!-- MEMES:END -->
 
 ---
 
