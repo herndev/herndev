@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus’ December lineup is pretty chill](https://www.polygon.com/23981032/playstation-plus-december-2023-monthly-games)
- - [Yorkshire Tea is now selling branded Xbox and PS5 controllers for £150 and the designs are something to behold](https://www.pcgamer.com/yorkshire-tea-is-now-selling-branded-xbox-and-ps5-controllers-for-pound150-and-the-designs-are-something-to-behold)
- - [Critical Role&#39;s D&amp;D dungeon master Matthew Mercer would love to make a videogame &#39;should all those stars align&#39;, though I think it&#39;s a little more likely than that](https://www.pcgamer.com/critical-roles-dandd-dungeon-master-matthew-mercer-would-love-to-make-a-videogame-should-all-those-stars-align-though-i-think-its-a-little-more-likely-than-that)<!-- GAME:END -->
+ - [Unwrap Your New World of Tanks Holiday Ops with Vinnie Jones!](https://news.xbox.com/en-us/2023/11/29/world-of-tanks-vinnie-jones/)
+ - [When does Destiny 2’s Warlord’s Ruin dungeon release?](https://www.polygon.com/destiny-2-guide-walkthrough/2023/11/29/23971547/warlords-ruin-dungeon-release-date-time)
+ - [Xbox Exec Says AI Can &#39;Take Care Of&#39; All Sorts Of Game Dev Problems](https://kotaku.com/xbox-exec-ai-localization-translation-code-replace-devs-1851058180)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
