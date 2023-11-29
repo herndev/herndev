@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox November Update Is Coming Soon: Compact Mode, Japanese Language Support for Keyboards, and More](https://news.xbox.com/en-us/2023/11/29/xbox-november-update-coming-soon/)
- - [Baldur’s Gate 3 is even more chaotic with 16 people in your party](https://www.polygon.com/23980032/baldurs-gate-3-party-limit-begone-mod)
- - [The New, Ash-less Pokémon Anime Is Finally Getting Its English Dub](https://kotaku.com/pokemon-horizons-anime-netflix-english-1851057649)<!-- GAME:END -->
+ - [PlayStation Plus’ December lineup is pretty chill](https://www.polygon.com/23981032/playstation-plus-december-2023-monthly-games)
+ - [Yorkshire Tea is now selling branded Xbox and PS5 controllers for £150 and the designs are something to behold](https://www.pcgamer.com/yorkshire-tea-is-now-selling-branded-xbox-and-ps5-controllers-for-pound150-and-the-designs-are-something-to-behold)
+ - [Critical Role&#39;s D&amp;D dungeon master Matthew Mercer would love to make a videogame &#39;should all those stars align&#39;, though I think it&#39;s a little more likely than that](https://www.pcgamer.com/critical-roles-dandd-dungeon-master-matthew-mercer-would-love-to-make-a-videogame-should-all-those-stars-align-though-i-think-its-a-little-more-likely-than-that)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
