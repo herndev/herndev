@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenText agrees to divest its app modernization and connectivity business to Rocket Software for about $2.28B in cash, expected to close by June 30, 2024 &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p9#a231129p9)
- - [Spotify Wrapped 2023: When it is coming?](https://www.androidauthority.com/how-to-see-spotify-wrapped-3069969/)
- - [Samsung launches its Samsung Internet browser on Windows via the Microsoft Store, offering a similar design to Chrome &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/231129/p8#a231129p8)<!-- TECH:END -->
+ - [Microsoft&#39;s .NET 8 with Aspire cloud-ready tools for Mac is out](https://appleinsider.com/articles/23/11/29/microsofts-net-8-with-aspire-cloud-ready-tools-for-mac-is-out?utm_medium=rss)
+ - [Amazon executive John Boumphrey says selling pre-owned goods in the UK and Europe is now a $1.3B business and Amazon sold 4M+ used items in 2022 in the UK &lpar;James Davey/Reuters&rpar;](http://www.techmeme.com/231129/p12#a231129p12)
+ - [Apple and Goldman Sachs to part ways on Apple Card, no successor named](https://appleinsider.com/articles/23/11/28/apple-and-goldman-sachs-to-part-ways-on-apple-card-no-successor-named?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
