@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This year&#39;s ugly Windows sweater is here and it&#39;s one of the best in a long line of gloriously ugly jumpers](https://www.pcgamer.com/this-years-ugly-windows-sweater-is-here-and-its-one-of-the-best-in-a-long-line-of-gloriously-ugly-jumpers)
  - [Silent Hill: Ascension&#39;s terrible Jam Man &lpar;who likes to make jams&rpar; was not written by AI, says Genvid CEO: &#39;every word in Ascension was written by real people&#39;](https://www.pcgamer.com/silent-hill-ascensions-terrible-jam-man-who-likes-to-make-jams-was-not-written-by-ai-says-genvid-ceo-every-word-in-ascension-was-written-by-real-people)
- - [Cherry KC 200 MX review](https://www.pcgamer.com/cherry-kc-200-mx-review)
- - [Microsoft Paint jumps on the generative AI bandwagon, with DALL-E taking the fancy-footed horses&#39; reins](https://www.pcgamer.com/microsoft-paint-jumps-on-the-generative-ai-bandwagon-with-dall-e-taking-the-fancy-footed-horses-reins)<!-- GAME:END -->
+ - [Cherry KC 200 MX review](https://www.pcgamer.com/cherry-kc-200-mx-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
