@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
- - ⏩ [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
- - 👉 [Share your cursed](http://9gag.com/gag/aREp74j)<!-- MEMES:END -->
+ - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - ⏩ [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
 
 ---
 
