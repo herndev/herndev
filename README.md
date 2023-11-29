@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - ⏩ [A great story](http://9gag.com/gag/a4o060A)
- - 👉 [Muhammad, who was released in the hostage deal, tearfully told the Arab media how the guards beat him and broke his arms - but he forgot that there was documentation showing that he left the Israeli prison safe and sound](http://9gag.com/gag/a8qg67Z)<!-- MEMES:END -->
+ - 💣 [Great success](http://9gag.com/gag/amAZWyy)
+ - ⏩ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
 
 ---
 
