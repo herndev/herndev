@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
- - ⏩ [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
+ - 💣 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - ⏩ [Great success](http://9gag.com/gag/amAZWyy)
+ - 👉 [Not everybody wants to be a meme](http://9gag.com/gag/aL1EvLg)<!-- MEMES:END -->
 
 ---
 
