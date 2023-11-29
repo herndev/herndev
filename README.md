@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didi blamed a &quot;low-level&quot; software glitch for an outage that disrupted its car-hailing service in China and added the outage wasn&#39;t the result of a cyberattack &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231129/p2#a231129p2)
- - [Samsung Internet makes the leap from Android to Windows](https://www.androidauthority.com/samsung-internet-microsoft-windows-3389749/)
- - [A look at Rakuten&#39;s troubled MVNO, which has about 2.5% marketshare in Japan; Rakuten has posted 13 straight quarters of operating loss totaling roughly $5.5B &lpar;Anton Bridge/Reuters&rpar;](http://www.techmeme.com/231129/p1#a231129p1)<!-- TECH:END -->
+ - [Xiaomi 14 Ultra leaked specifications indicate a big upgrade for the main camera](https://www.androidauthority.com/xiaomi-14-ultra-leaked-camera-specifications-3389757/)
+ - [PSA: You should update Chrome on your PC due to this serious flaw](https://www.androidauthority.com/psa-update-google-chrome-pc-zero-day-3389752/)
+ - [Investigation: Palestinians are excluded from or face barriers when trying to monetize via Google services, bringing the region&#39;s digital divide under scrutiny &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231129/p5#a231129p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
