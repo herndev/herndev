@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Krab](http://9gag.com/gag/a9qGnq1)
- - ⏩ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 👉 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)<!-- MEMES:END -->
+ - 💣 [He is super cool though](http://9gag.com/gag/aEq4qVe)
+ - ⏩ [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)
+ - 👉 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)<!-- MEMES:END -->
 
 ---
 
