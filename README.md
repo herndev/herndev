@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy launches 20 days of holiday deals, MacBooks from $949](https://appleinsider.com/articles/23/11/29/best-buy-launches-20-days-of-holiday-deals-macbooks-from-949?utm_medium=rss)
- - [Apple Replay 2023 is here! Spotify Wrapped ‘coming soon’](https://www.androidauthority.com/apple-replay-2023-spotify-wrapped-2023-3389742/)
- - [Meta tells US officials that it will block new political ads on Facebook and Instagram one week before the 2024 US election, similar to past election cycles &lpar;Bloomberg&rpar;](http://www.techmeme.com/231128/p45#a231128p45)<!-- TECH:END -->
+ - [Didi blamed a &quot;low-level&quot; software glitch for an outage that disrupted its car-hailing service in China and added the outage wasn&#39;t the result of a cyberattack &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231129/p2#a231129p2)
+ - [Samsung Internet makes the leap from Android to Windows](https://www.androidauthority.com/samsung-internet-microsoft-windows-3389749/)
+ - [A look at Rakuten&#39;s troubled MVNO, which has about 2.5% marketshare in Japan; Rakuten has posted 13 straight quarters of operating loss totaling roughly $5.5B &lpar;Anton Bridge/Reuters&rpar;](http://www.techmeme.com/231129/p1#a231129p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
