@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [A look at Foxconn&#39;s struggles to manufacture the iPhone 15 in India, contending with language barriers, labor disputes, regulatory hurdles, and more &lpar;Rest of World&rpar;](http://www.techmeme.com/231128/p41#a231128p41)
- - [Uber announces a plan to start listing London&#39;s famed black cabs in early 2024, despite objections from the Licensed Taxi Drivers&#39; Association trade group &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p40#a231128p40)
- - [London’s famed black cabs will be listed on Uber’s app in big win for the ridehail company](https://www.theverge.com/2023/11/28/23979409/uber-london-black-cab-app-referrals-taxi-ltda)<!-- TECH:END -->
+ - [Raise Your Kitty Cleanliness Game With This Cyber Week Deal on Litter-Robot     - CNET](https://www.cnet.com/deals/raise-your-kitty-cleanliness-game-with-this-cyber-week-deal-on-litter-robot/#ftag=CAD590a51e)
+ - [Uber announces a plan to start listing London&#39;s famed black cabs in early 2024, despite objections from the Licensed Taxi Drivers&#39; Association trade group &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p40#a231128p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
