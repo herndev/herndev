@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Composer Inon Zur Created the Soul of Starfield in Just Six Musical Notes](https://news.xbox.com/en-us/2023/11/29/starfield-music-inon-zur-interview/)
- - [Someone discovered cheat codes in Gran Turismo PSP, 14 years too late](https://www.polygon.com/23980855/gran-turismo-psp-cheat-codes-all-cars-free-money)
- - [How item restoration works in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-item-restoration)<!-- GAME:END -->
+ - [The Xbox November Update Is Coming Soon: Compact Mode, Japanese Language Support for Keyboards, and More](https://news.xbox.com/en-us/2023/11/29/xbox-november-update-coming-soon/)
+ - [Baldur’s Gate 3 is even more chaotic with 16 people in your party](https://www.polygon.com/23980032/baldurs-gate-3-party-limit-begone-mod)
+ - [The New, Ash-less Pokémon Anime Is Finally Getting Its English Dub](https://kotaku.com/pokemon-horizons-anime-netflix-english-1851057649)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
