@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some things never change](http://9gag.com/gag/az23xQB)
- - ⏩ [He is super cool though](http://9gag.com/gag/aEq4qVe)
- - 👉 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)<!-- MEMES:END -->
+ - 💣 [Valerie](http://9gag.com/gag/aYV078O)
+ - ⏩ [Pick your hero](http://9gag.com/gag/a1P6PV8)
+ - 👉 [I swear I&#39;m normal](http://9gag.com/gag/armLnpX)<!-- MEMES:END -->
 
 ---
 
