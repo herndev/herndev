@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unwrap Your New World of Tanks Holiday Ops with Vinnie Jones!](https://news.xbox.com/en-us/2023/11/29/world-of-tanks-vinnie-jones/)
- - [When does Destiny 2’s Warlord’s Ruin dungeon release?](https://www.polygon.com/destiny-2-guide-walkthrough/2023/11/29/23971547/warlords-ruin-dungeon-release-date-time)
- - [Xbox Exec Says AI Can &#39;Take Care Of&#39; All Sorts Of Game Dev Problems](https://kotaku.com/xbox-exec-ai-localization-translation-code-replace-devs-1851058180)<!-- GAME:END -->
+ - [Get Ready for Chessarama on Xbox with a Chance to Win a Board Signed by Four Chess Legends](https://news.xbox.com/en-us/2023/11/29/chessarama-on-xbox-with-a-chance-to-win-a-board-signed/)
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.231127-2200&rpar;](https://news.xbox.com/en-us/2023/11/29/xbox-insider-release-notes-alpha-2402-231127-2200/)
+ - [Embracer lays off 50 more employees and may soon close resurrected TimeSplitters studio Free Radical Design, yet its CEO and board of directors still have their jobs and were &#39;discharged from liability for the financial year&#39;](https://www.pcgamer.com/embracer-lays-off-50-more-employees-and-may-soon-close-resurrected-timesplitters-studio-free-radical-design-yet-its-ceo-and-board-of-directors-still-have-their-jobs-and-were-discharged-from-liability-for-the-financial-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
