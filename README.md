@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s Mythic skins aren’t living up to their name](https://www.polygon.com/23981293/overwatch-2-mythic-skins-battle-pass-season-8-orisa)
- - [This Marvel Snap Deck Features A Devious, Devastating Combo](https://kotaku.com/marvel-snap-arnim-zola-destroy-deck-guide-second-dinner-1851033564)
- - [How to get the Thorn Catalyst in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23972180/thorn-catalyst-how-to-get-effect)<!-- GAME:END -->
+ - [PS Plus’ December Lineup Wants You To Cozy Up For Christmas](https://kotaku.com/december-ps-plus-lego-2k-drive-powerwash-sim-sable-1851059251)
+ - [Palia’s winter update brings festive celebrations, a new wind temple](https://www.polygon.com/23981497/palia-winter-update-winterlights-holiday-temple-winds)
+ - [The Worst Versions Of The Original GTA Trilogy Are Coming To Netflix Games](https://kotaku.com/gta-trilogy-remastered-netflix-phone-android-ios-port-1851059102)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
