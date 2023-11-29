@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash and Best Buy team up for on-demand tech deliveries](https://www.theverge.com/2023/11/29/23980078/doordash-best-buy-delivery-partnership)
- - [Spotify Wrapped 2023 is here! Check your music stats and share your top artists!](https://www.androidauthority.com/spotify-wrapped-2023-is-here-3389885/)
- - [Meta pauses shipments of the Quest 3&#39;s Elite Strap with Battery after widespread user reports of a charging fault that renders the battery useless &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/231129/p19#a231129p19)<!-- TECH:END -->
+ - [GM wants you to know that it’s also unhappy with the slow pace of its EV business](https://www.theverge.com/2023/11/29/23980841/gm-mary-barra-ev-ultium-delay-cruise-cost-slash)
+ - [How to Set Your Thermostat—According to Science](https://www.wired.com/story/smart-thermostat-science/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;November 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-29-2023-3389306/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
