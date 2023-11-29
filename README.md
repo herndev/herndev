@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not too late to save 42% on the new Motorola Edge &lpar;2023&rpar;](https://www.androidauthority.com/motorola-edge-2023-holiday-deal-3390023/)
- - [Apple&#39;s new Apple Card &amp; Goldman Sachs statement doesn&#39;t clarify things at all](https://appleinsider.com/articles/23/11/29/apples-new-apple-card-goldman-sachs-statement-doesnt-clarify-things-at-all?utm_medium=rss)
- - [The Senate Judiciary Committee says the CEOs of Meta, X, TikTok, Snap, and Discord will testify on online child safety at a hearing rescheduled for January 31 &lpar;Susan Heavey/Reuters&rpar;](http://www.techmeme.com/231129/p39#a231129p39)<!-- TECH:END -->
+ - [Windows 11 tests energy saver mode for both laptops and desktop PCs](https://www.theverge.com/2023/11/29/23981581/windows-11-energy-saver-mode-laptops-pcs)
+ - [Salesforce reports Q3 revenue up 11% YoY to $8.72B, vs. $8.72B est., and raises its FY 2024 forecast for operating cash flow growth; CRM jumps 6%+ &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/231129/p42#a231129p42)
+ - [Snowflake reports Q3 revenue up 32% YoY to $734.2M, vs. $714M est., and projects Q4 product revenue of $716M to $721M, vs. $696M est.; SNOW jumps 6%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231129/p41#a231129p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
