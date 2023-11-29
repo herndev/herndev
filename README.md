@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Okta Breach Impacted All Customer Support Users—Not 1 Percent](https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users/)
- - [Beyond Good &amp; Evil is getting a 20th anniversary edition](https://www.theverge.com/2023/11/29/23980960/beyond-good-and-evil-20th-anniversary-edition-2024)
- - [This stunning Samsung Gaming Monitor is $450 off for Cyber Week](https://www.androidauthority.com/samsung-odyssey-neo-g7-gaming-monitor-deal-3389708/)<!-- TECH:END -->
+ - [Rover, an online marketplace for pet care services, agrees to be acquired by Blackstone in a $2.3B all-cash deal, or $11 per share; ROVR jumps 28%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p29#a231129p29)
+ - [Daily deals Nov. 29: Apple Watch Series 8 $279, 51% off 27&quot; iMac, 27% off Ember Smart Mug 2, more](https://appleinsider.com/articles/23/11/29/daily-deals-nov-29-apple-watch-series-8-279-51-off-27-imac-27-off-ember-smart-mug-2-more?utm_medium=rss)
+ - [The Xbox app has a new compact mode for Windows handhelds](https://www.theverge.com/2023/11/29/23981086/xbox-app-compact-mode-windows-handhelds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
