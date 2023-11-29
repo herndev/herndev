@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Wrapped 2023 assigns you a ‘sound town’ based on your music taste](https://www.theverge.com/2023/11/29/23980024/spotify-wrapped-2023-sound-town)
- - [The Cybertruck made a mark, but missed its moment](https://www.theverge.com/2023/11/29/23979850/tesla-cybertruck-delivery-design-production-problems-delay)
- - [A look at Ayaneo&#39;s new $199+ Retro Mini PC AM01, styled on Apple&#39;s 1980s-era Macintosh, with AMD Ryzen chips, up to 32GB of RAM, and up to 1TB of storage &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231129/p16#a231129p16)<!-- TECH:END -->
+ - [DoorDash and Best Buy team up for on-demand tech deliveries](https://www.theverge.com/2023/11/29/23980078/doordash-best-buy-delivery-partnership)
+ - [Spotify Wrapped 2023 is here! Check your music stats and share your top artists!](https://www.androidauthority.com/spotify-wrapped-2023-is-here-3389885/)
+ - [Meta pauses shipments of the Quest 3&#39;s Elite Strap with Battery after widespread user reports of a charging fault that renders the battery useless &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/231129/p19#a231129p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
