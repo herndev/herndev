@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly it&#39;s looking really comfy](http://9gag.com/gag/a6qREMA)
- - ⏩ [A picture is worth a thousand words](http://9gag.com/gag/aMELVL1)
- - 👉 [Share your cursed](http://9gag.com/gag/aREp74j)<!-- MEMES:END -->
+ - 💣 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
+ - ⏩ [Pick your hero](http://9gag.com/gag/a1P6PV8)
+ - 👉 [F in the chat](http://9gag.com/gag/aOxWQ8D)<!-- MEMES:END -->
 
 ---
 
