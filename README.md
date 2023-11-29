@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Great success](http://9gag.com/gag/amAZWyy)
- - ⏩ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - ⏩ [The battle of Tet Ten](http://9gag.com/gag/aVb6xyw)
  - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
 
 ---
