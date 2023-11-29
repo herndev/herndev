@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here we go again: Grand Theft Auto trilogy coming to Netflix Games](https://www.androidauthority.com/grand-theft-auto-netflix-games-3389973/)
- - [Microsoft Phone Link may soon let you use your Android phone as a webcam](https://www.androidauthority.com/microsoft-phone-link-use-android-phone-as-webcam-apk-teardown-3389241/)
- - [Netflix plans to add Grand Theft Auto: The Trilogy for its users at no extra charge on December 14 in its mobile app or on the App Store and Google Play &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231129/p30#a231129p30)<!-- TECH:END -->
+ - [Perplexity announces two online LLMs that can access the internet to deliver up-to-date responses, available via Perplexity&#39;s API and Labs web interface &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231129/p33#a231129p33)
+ - [Android upgrade king Samsung now pushing Android 14 to budget Galaxy A24](https://www.androidauthority.com/samsung-galaxy-a24-android-14-3389985/)
+ - [Sources: Google and Canada have reached an agreement in their dispute over the Online News Act; source: Google will pay news companies around $100M per year &lpar;CBC News&rpar;](http://www.techmeme.com/231129/p32#a231129p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
