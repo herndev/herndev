@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ready for Chessarama on Xbox with a Chance to Win a Board Signed by Four Chess Legends](https://news.xbox.com/en-us/2023/11/29/chessarama-on-xbox-with-a-chance-to-win-a-board-signed/)
- - [Xbox Insider Release Notes – Alpha &lpar;2402.231127-2200&rpar;](https://news.xbox.com/en-us/2023/11/29/xbox-insider-release-notes-alpha-2402-231127-2200/)
- - [Embracer lays off 50 more employees and may soon close resurrected TimeSplitters studio Free Radical Design, yet its CEO and board of directors still have their jobs and were &#39;discharged from liability for the financial year&#39;](https://www.pcgamer.com/embracer-lays-off-50-more-employees-and-may-soon-close-resurrected-timesplitters-studio-free-radical-design-yet-its-ceo-and-board-of-directors-still-have-their-jobs-and-were-discharged-from-liability-for-the-financial-year)<!-- GAME:END -->
+ - [Here’s where you can grab Oppenheimer on 4K Blu-ray, if you’ve had trouble finding it](https://www.polygon.com/23923945/oppenheimer-blu-ray-4k-uhd-pre-order-guide-where-to-buy)
+ - [Massive Game Microtransaction Company Sounds Super Shady](https://kotaku.com/xsolla-ubisoft-epic-games-fortnite-roblox-1851058729)
+ - [Rockstar Co-Founder &amp; GTA Lead Writer Finally Reveals What He&#39;s Been Working On](https://kotaku.com/rockstar-games-gta-6-what-is-dan-houser-nexts-game-1851058701)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
