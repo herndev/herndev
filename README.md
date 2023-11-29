@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - ⏩ [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 👉 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)<!-- MEMES:END -->
+ - 💣 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - ⏩ [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
 
 ---
 
