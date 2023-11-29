@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM wants you to know that it’s also unhappy with the slow pace of its EV business](https://www.theverge.com/2023/11/29/23980841/gm-mary-barra-ev-ultium-delay-cruise-cost-slash)
- - [How to Set Your Thermostat—According to Science](https://www.wired.com/story/smart-thermostat-science/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;November 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-29-2023-3389306/)<!-- TECH:END -->
+ - [Okta Breach Impacted All Customer Support Users—Not 1 Percent](https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users/)
+ - [Beyond Good &amp; Evil is getting a 20th anniversary edition](https://www.theverge.com/2023/11/29/23980960/beyond-good-and-evil-20th-anniversary-edition-2024)
+ - [This stunning Samsung Gaming Monitor is $450 off for Cyber Week](https://www.androidauthority.com/samsung-odyssey-neo-g7-gaming-monitor-deal-3389708/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
