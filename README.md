@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Acer’s Predator Orion X is a compact monster of a gaming PC that you can pre-order in a great Currys deal right now](https://www.pcgamer.com/acers-predator-orion-x-is-a-compact-monster-of-a-gaming-pc-that-you-can-pre-order-in-a-great-currys-deal-right-now)
  - [Wordle today: Hint and answer #894 for Thursday, November 30](https://www.pcgamer.com/wordle-today-answer-894-november-30)
- - [Rising NAND and DDR chip prices mean SSD and memory prices are sure to increase in 2024](https://www.pcgamer.com/rising-nand-and-ddr-chip-prices-mean-ssd-and-memory-prices-are-sure-to-increase-in-2024)
- - [Among Us is doing a collab with some of the most popular indie games ever released](https://www.pcgamer.com/among-us-is-doing-a-collab-with-too-many-big-indie-games-to-fit-in-my-little-brain)<!-- GAME:END -->
+ - [Rising NAND and DDR chip prices mean SSD and memory prices are sure to increase in 2024](https://www.pcgamer.com/rising-nand-and-ddr-chip-prices-mean-ssd-and-memory-prices-are-sure-to-increase-in-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
