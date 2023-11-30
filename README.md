@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk tells advertisers like Apple, Disney to &#39;Go f--- yourself&#39; after boycott](https://appleinsider.com/articles/23/11/29/elon-musk-tells-advertisers-like-apple-disney-to-go-f----yourself-after-boycott?utm_medium=rss)
- - [Elon Musk calls a Nov. 15 X post of his a mistake that &quot;handed a loaded gun to those who hate me and arguably to those who are antisemitic&quot; for which he&#39;s sorry &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231129/p44#a231129p44)
- - [Amazon will offer human benchmarking teams to test AI models](https://www.theverge.com/2023/11/29/23981129/amazon-aws-ai-model-evaluation-bias-toxicity)<!-- TECH:END -->
+ - [Everything we know so far about OpenAI, Sam Altman’s return, and what happens next](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+ - [Elon Musk Just Told Advertisers &#39;Go Fuck Yourself&#39;](https://www.wired.com/story/elon-musk-x-advertisers-interview/)
+ - [OpenAI adds Microsoft as a non-voting observer on the nonprofit board that controls OpenAI, as Sam Altman&#39;s return as CEO is made official &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231129/p46#a231129p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
