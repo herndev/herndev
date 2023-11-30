@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your media calls it far right. Here it&#39;s mainstream common sense.](http://9gag.com/gag/a3ZOyAr)
- - ⏩ [Yeah that\u2019s me. The dude behind camera &lpar;ugly af&rpar;. This was my lucky day. Can confirm she was right. We did it 3 times that day.](http://9gag.com/gag/aGEQMM0)
- - 👉 [Disguise level - Mission Impossible](http://9gag.com/gag/aREpzG7)<!-- MEMES:END -->
+ - 💣 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - ⏩ [Ireland right now. Theyre fed up with their protests against immigration not working.](http://9gag.com/gag/avQjeAO)
+ - 👉 [Mind your business?](http://9gag.com/gag/aOxWZLR)<!-- MEMES:END -->
 
 ---
 
