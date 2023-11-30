@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 Patch Now Lets You Recruit Minthara Without Mass Murder](https://kotaku.com/baldurs-gate-3-minthara-patch-5-update-1851061745)
- - [Altered TCG could change the economics of Magic, Disney Lorcana, and Pokémon](https://www.polygon.com/23982455/altered-trading-card-game-kickstarter-announcement-release-date-price)
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)<!-- GAME:END -->
+ - [Under a Rock Is an Open World Survival Adventure Like You’ve Never Seen](https://news.xbox.com/en-us/2023/11/30/under-a-rock-open-world-survival/)
+ - [Build your own town and overthrow an evil queen in survival RPG Bellwright](https://www.pcgamer.com/build-your-own-town-and-overthrow-an-evil-queen-in-survival-rpg-bellwright)
+ - [Launching tomorrow, SteamWorld Build manages to be an incredibly busy but also chill city builder](https://www.pcgamer.com/launching-tomorrow-steamworld-build-manages-to-be-an-incredibly-busy-but-also-chill-city-builder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
