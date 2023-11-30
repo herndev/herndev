@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with dozens of industry insiders and experts reveal Huawei&#39;s and SMIC&#39;s efforts to build advance chips and maintain market share despite US sanctions &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/231130/p5#a231130p5)
- - [These are the best Google Play apps and games of 2023](https://www.androidauthority.com/google-play-best-apps-and-games-2023-3389445/)
- - [Robinhood launches commission-free stock trading in the UK, letting selected UK investors trade 6K+ US-listed stocks, with general availability in early 2024 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231130/p4#a231130p4)<!-- TECH:END -->
+ - [What is Sony Pictures Core, and how much does it cost?](https://www.androidauthority.com/what-is-sony-pictures-core-3380021/)
+ - [One UI 6 stable update for Galaxy S22 series is finally available in the US](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-6-stable-update-us-3390145/)
+ - [10 year old calls on Apple to change ‘nerd face’ emoji](https://www.androidauthority.com/10-year-old-apple-nerd-face-emoji-3390147/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
