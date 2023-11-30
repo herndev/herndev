@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Cybertruck is here: electric truck will start at $60,990 and get 250 miles of range](https://www.theverge.com/2023/11/30/23982569/tesla-cybertruck-delivery-price-specs-features-elon-musk)
- - [Apple releases emergency security updates for iOS, iPadOS, and macOS to fix two zero-days that may have been exploited, reaching 20 zero-days patched in 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231130/p39#a231130p39)
- - [Spotify Wrapped 2023: Rewatch Your Top Moments and Find Your Sound Town     - CNET](https://www.cnet.com/tech/services-and-software/spotify-wrapped-2023-rewatch-your-top-moments-and-find-your-sound-town/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Tesla Cybertruck will usher in a new ‘Powershare’ bidirectional charging feature](https://www.theverge.com/2023/11/30/23983226/tesla-cybertruck-powershare-bidirectional-vehicle-to-load)
+ - [The PlayStation Portal at least makes stick drift easier to repair](https://www.theverge.com/2023/11/30/23983014/playstation-portal-stick-drift-repairability-ifixit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
