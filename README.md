@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the NYT&#39;s DealBook event, Nvidia CEO Jensen Huang says the US is 10 years to 20 years from chip independence and reaffirms Nvidia&#39;s commitment to China &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231130/p10#a231130p10)
- - [On the eve of ChatGPT’s birthday, OpenAI welcomes Sam Altman back as CEO with a new board](https://www.androidauthority.com/chatgpt-birthday-openai-welcomes-sam-altman-3390170/)
- - [Firefox’s Android browser will have proper extension support again real soon](https://www.theverge.com/2023/11/30/23982293/firefoxs-android-browser-open-extension-launch)<!-- TECH:END -->
+ - [A US court says FTX Trading and affiliated debtors can start selling $744M worth of Grayscale and Bitwise shares; GBTC accounts for 22.3M units worth $597M &lpar;Anna Baydakova/The Block&rpar;](http://www.techmeme.com/231130/p14#a231130p14)
+ - [Your Black Friday experience could win you a $50 gift card](https://www.androidauthority.com/your-black-friday-experience-could-win-you-a-50-gift-card-3390231/)
+ - [Local media: David Vincenzetti, who founded infamous spyware maker Hacking Team in 2003, was arrested for allegedly stabbing and attempting to murder a relative &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231130/p13#a231130p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
