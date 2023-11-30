@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US court says FTX Trading and affiliated debtors can start selling $744M worth of Grayscale and Bitwise shares; GBTC accounts for 22.3M units worth $597M &lpar;Anna Baydakova/The Block&rpar;](http://www.techmeme.com/231130/p14#a231130p14)
- - [Your Black Friday experience could win you a $50 gift card](https://www.androidauthority.com/your-black-friday-experience-could-win-you-a-50-gift-card-3390231/)
- - [Local media: David Vincenzetti, who founded infamous spyware maker Hacking Team in 2003, was arrested for allegedly stabbing and attempting to murder a relative &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231130/p13#a231130p13)<!-- TECH:END -->
+ - [Analysis: crypto mining used ~1,600 gigaliters of water in 2021 when bitcoin peaked at $65K, or 16K liters per transaction, around 6.2M times a credit card &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231130/p17#a231130p17)
+ - [Activision Blizzard once planned to launch its own Android app store for games](https://www.androidauthority.com/activision-blizzard-android-app-store-3390228/)
+ - [How to use AirPods to authenticate Siri commands without unlocking your iPhone](https://appleinsider.com/inside/ios-17/tips/how-to-use-airpods-to-authenticate-siri-commands-without-unlocking-your-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
