@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Tesla Cybertruck will usher in a new ‘Powershare’ bidirectional charging feature](https://www.theverge.com/2023/11/30/23983226/tesla-cybertruck-powershare-bidirectional-vehicle-to-load)
- - [The PlayStation Portal at least makes stick drift easier to repair](https://www.theverge.com/2023/11/30/23983014/playstation-portal-stick-drift-repairability-ifixit)<!-- TECH:END -->
+ - [Resident Evil 4 remake will add VR mode in December](https://www.theverge.com/23983216/resident-evil-4-remake-vr-mode-release-date-psvr)
+ - [Apple Watch Ultra 2 vs. Apple Watch Ultra: Comparing Each Rugged Watch     - CNET](https://www.cnet.com/tech/mobile/apple-watch-ultra-2-vs-apple-watch-ultra-comparing-each-rugged-watch/#ftag=CAD590a51e)
+ - [An oil exec, a climate crisis, and reparations: what’s going down at the United Nations summit in Dubai](https://www.theverge.com/2023/11/30/23983242/dubai-united-nations-climate-change-oil-exec-reparations-cop28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
