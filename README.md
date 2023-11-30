@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you compliment the ladies?](http://9gag.com/gag/a2KXMqe)
- - ⏩ [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
- - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
+ - 💣 [Marriage](http://9gag.com/gag/aVb6omv)
+ - ⏩ [Your media calls it far right. Here it&#39;s mainstream common sense.](http://9gag.com/gag/a3ZOyAr)
+ - 👉 [There goes the rest of the self-esteem. But at least I still got all you degenerates.](http://9gag.com/gag/aQEjvrK)<!-- MEMES:END -->
 
 ---
 
