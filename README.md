@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android is getting a ton of new features today for your phone, tablet, watch, more](https://www.androidauthority.com/android-feature-drop-q4-2023-3390312/)
- - [Google celebrates 1 billion RCS users with emoji-filled messaging features](https://www.theverge.com/2023/11/30/23981350/google-messages-chat-rcs-apple-imessage-photo-emoji)
- - [Meta sues the FTC, claiming its in-house trials violate the Constitution, and asks a court to halt the agency&#39;s bid to change a $5B privacy settlement in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p29#a231130p29)<!-- TECH:END -->
+ - [Yet another pornographic ad is making the rounds on YouTube](https://www.androidauthority.com/youtube-porn-ad-2-3390335/)
+ - [TikTok plans to spend &amp;euro;12B over 10 years in Europe, including on three data centers and a security audit, as the company begins work on its Norway data center &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231130/p34#a231130p34)
+ - [Best Board Game Deals: Save on 10 Amazing RPGs, Strategy Games, Card Games and More     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
