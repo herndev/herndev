@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me and the boys at the retirement home](http://9gag.com/gag/az23PON)
- - ⏩ [Cause why not](http://9gag.com/gag/anzonO5)
- - 👉 [This is just nuts](http://9gag.com/gag/ap9MDLD)<!-- MEMES:END -->
+ - 💣 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
+ - ⏩ [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
+ - 👉 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)<!-- MEMES:END -->
 
 ---
 
