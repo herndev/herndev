@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It looks like the next Baldur&#39;s Gate 3 patch will update the game&#39;s ending—also, Withers says &#39;fun is mandatory&#39; and I&#39;m scared](https://www.pcgamer.com/the-next-patch-of-baldurs-gate-3-will-likely-feature-an-update-to-the-games-endingalso-withers-says-fun-is-mandatory-and-im-scared)
- - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
- - [The 10 best Starfield mods to upgrade your gameplay](https://www.polygon.com/2023/11/30/23969829/starfield-best-mods-achievement-enabler-instant-digipick)<!-- GAME:END -->
+ - [Free Play Days – Rainbow Six Siege, Dead by Daylight, DriftCE and Hell Let Loose](https://news.xbox.com/en-us/2023/11/30/free-play-days-rainbow-six-siege-dead-by-daylight-driftce-and-hell-let-loose/)
+ - [Kids to Santa: give us V-bucks this Christmas](https://www.polygon.com/23981627/kids-christmas-gift-games-survey-2023)
+ - [Did You Know Henry Kissinger Is A Canonical Villain In Assassin’s Creed?](https://kotaku.com/henry-kissinger-assassins-creed-templar-brotherhood-1851061127)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
