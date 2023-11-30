@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
- - ⏩ [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
- - 👉 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)<!-- MEMES:END -->
+ - 💣 [Death note spin-off: Brainwash note](http://9gag.com/gag/aeQBZrB)
+ - ⏩ [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
+ - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
 
 ---
 
