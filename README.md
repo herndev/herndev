@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Jose-based DuploCloud, which provides tools to provision apps to public clouds like AWS, raised a $32M Series B co-led by WestBridge Capital and StepStone &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231130/p3#a231130p3)
- - [Former associates of Linda Yaccarino describe her as difficult, volatile, but hardworking, and say high self-regard made her think she could manage Elon Musk &lpar;Kim Masters/The Hollywood Reporter&rpar;](http://www.techmeme.com/231130/p2#a231130p2)
- - [Samsung is going big on the Galaxy Z Fold 6 and Galaxy Z Flip 6…literally](https://www.androidauthority.com/samsung-galaxy-z-fold-6-galaxy-z-flip-6-display-sizes-3390116/)<!-- TECH:END -->
+ - [Interviews with dozens of industry insiders and experts reveal Huawei&#39;s and SMIC&#39;s efforts to build advance chips and maintain market share despite US sanctions &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/231130/p5#a231130p5)
+ - [These are the best Google Play apps and games of 2023](https://www.androidauthority.com/google-play-best-apps-and-games-2023-3389445/)
+ - [Robinhood launches commission-free stock trading in the UK, letting selected UK investors trade 6K+ US-listed stocks, with general availability in early 2024 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231130/p4#a231130p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
