@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill, Naruto Games Deny AI Usage Amid Fan Freakouts](https://kotaku.com/naruto-boruto-silent-hill-ascension-ai-generated-1851063256)
- - [Buying Disney Lorcana’s new expansion from Amazon will require a virtual queue](https://www.polygon.com/deals/2023/11/30/23983138/disney-lorcana-rise-of-the-floodborn-amazon-where-to-buy)
- - [Someone Found Secret Cheat Codes In A 14-Year-Old Gran Turismo Game](https://kotaku.com/gran-turismo-psp-gt-hidden-secret-cheat-codes-found-1851063158)<!-- GAME:END -->
+ - [The best Monk subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23817283/monk-class-subclasses-stats-features-proficiencies)
+ - [The best Fighter subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23816255/fighter-class-subclasses-stats-features-proficiencies)
+ - [The best Druid subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23816167/druid-class-subclasses-stats-features-proficiencies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
