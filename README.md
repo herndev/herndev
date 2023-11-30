@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Xbox App [2312.1001.11.0]](https://news.xbox.com/en-us/2023/11/29/xbox-insider-release-notes-xbox-app-2312-1001-11-0/)
- - [Everything we’ve heard about Grand Theft Auto 6, Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)
- - [Hey Spotify, why the heck am I ‘Provo, Utah’?](https://www.polygon.com/23981218/spotify-wrapped-sound-towns-provo-burlington)<!-- GAME:END -->
+ - [Shadow the Hedgehog is in the next Sonic movie and all I can think about now is which Hollywood tough guy will voice him](https://www.pcgamer.com/shadow-the-hedgehog-is-in-the-next-sonic-movie-and-all-i-can-think-about-now-is-which-hollywood-tough-guy-will-voice-him)
+ - [Destiny 2 Players Are Roasting Its New &#39;Starter Pack&#39; [Update: Bungie Deletes It]](https://kotaku.com/destiny-2-starter-pack-microtransactions-expansions-1851055993)
+ - [Xbox Insider Release Notes – Xbox App [2312.1001.11.0]](https://news.xbox.com/en-us/2023/11/29/xbox-insider-release-notes-xbox-app-2312-1001-11-0/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
