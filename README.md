@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: crypto mining used ~1,600 gigaliters of water in 2021 when bitcoin peaked at $65K, or 16K liters per transaction, around 6.2M times a credit card &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231130/p17#a231130p17)
- - [Activision Blizzard once planned to launch its own Android app store for games](https://www.androidauthority.com/activision-blizzard-android-app-store-3390228/)
- - [How to use AirPods to authenticate Siri commands without unlocking your iPhone](https://appleinsider.com/inside/ios-17/tips/how-to-use-airpods-to-authenticate-siri-commands-without-unlocking-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [A UK judge reverses a decision to block a full UK CMA investigation into Apple&#39;s dominance in mobile browsers and cloud gaming, saying the CMA acted lawfully &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/231130/p20#a231130p20)
+ - [Turtle Beach put drift-free sticks and a screen on its new $200 controller for Xbox and PC](https://www.theverge.com/2023/11/30/23981792/turtle-beach-stealth-ultra-xbox-pc-wireless-controller-antidrift-announcement-price)
+ - [Meta officials say the US stopped proactively sharing information on foreign influence operations, as the company releases its Q3 Adversarial Threat Report &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/231130/p19#a231130p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
