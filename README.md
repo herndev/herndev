@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfection.](http://9gag.com/gag/aGEQL3z)
+ - 💣 [Me and the boys at the retirement home](http://9gag.com/gag/az23PON)
  - ⏩ [Cause why not](http://9gag.com/gag/anzonO5)
  - 👉 [This is just nuts](http://9gag.com/gag/ap9MDLD)<!-- MEMES:END -->
 
