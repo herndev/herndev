@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something weird happened](http://9gag.com/gag/a9qGzmD)
- - ⏩ [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 👉 [The `late 1900&#39;s`](http://9gag.com/gag/axor6jL)<!-- MEMES:END -->
+ - 💣 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
+ - ⏩ [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
+ - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
 
 ---
 
