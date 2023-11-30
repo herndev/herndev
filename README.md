@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - ⏩ [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - 👉 [Not everybody wants to be a meme](http://9gag.com/gag/aL1EvLg)<!-- MEMES:END -->
+ - 💣 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - ⏩ [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
+ - 👉 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)<!-- MEMES:END -->
 
 ---
 
