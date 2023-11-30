@@ -39,7 +39,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Sony Pictures Core, and how much does it cost?](https://www.androidauthority.com/what-is-sony-pictures-core-3380021/)
+ - [Netflix secret codes: Supercharge your streaming with this list](https://www.androidauthority.com/netflix-secret-codes-3387424/)
  - [One UI 6 stable update for Galaxy S22 series is finally available in the US](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-6-stable-update-us-3390145/)
  - [10 year old calls on Apple to change ‘nerd face’ emoji](https://www.androidauthority.com/10-year-old-apple-nerd-face-emoji-3390147/)<!-- TECH:END -->
 
