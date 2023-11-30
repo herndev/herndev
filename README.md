@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reveals 2023 App Store Award winners, highlights AI as the year&#39;s biggest trend](https://appleinsider.com/articles/23/11/30/apple-reveals-2023-app-store-award-winners-highlights-ai-as-the-years-biggest-trend?utm_medium=rss)
- - [Foxconn&#39;s expansion into India isn&#39;t going as well as hoped](https://appleinsider.com/articles/23/11/30/foxconns-expansion-into-india-isnt-going-as-well-as-hoped?utm_medium=rss)
- - [At re:Invent, AWS unveiled Model Evaluation on Bedrock in preview to help companies evaluate AI models before use, with human testers involved in the process &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231129/p49#a231129p49)<!-- TECH:END -->
+ - [Nothing next smartphone could be a mid-ranger that takes after the Nothing Phone 1](https://www.androidauthority.com/nothing-phone-2a-leak-3390109/)
+ - [Q&amp;A with Sam Altman on why he was fired from OpenAI, returning to the company, improving the governance structure, the Q* model, lessons from the saga, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231129/p50#a231129p50)
+ - [OWC miniStack STX is 10% off with purchase of refurbished Apple product](https://appleinsider.com/articles/23/11/30/owc-ministack-stx-is-10-off-with-purchase-of-refurbished-apple-product?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
