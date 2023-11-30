@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore The Gritty Combat of Flintlock: The Siege of Dawn In New Gameplay Trailer](https://news.xbox.com/en-us/2023/11/30/flintlock-the-siege-of-dawn-new-gameplay-trailer/)
- - [As Stalker 2 is awarded &#39;Most Wanted&#39; game, Ukrainian CEO says the game aims to &#39;convey Ukraine&#39;s unbreakable spirit to the world&#39;](https://www.pcgamer.com/as-stalker-2-is-awarded-most-wanted-game-ukrainian-ceo-says-the-game-aims-to-convey-ukraines-unbreakable-spirit-to-the-world)
- - [Strike from the shadows as Vampire: The Masquerade – Bloodlines 2&#39;s third clan, the Banu Haqim](https://www.pcgamer.com/strike-from-the-shadows-as-vampire-the-masquerade-bloodlines-2s-third-clan-the-banu-haqim)<!-- GAME:END -->
+ - [Breaking with tradition, Activision says it will actually start talking about Call of Duty skill-based matchmaking soon](https://www.pcgamer.com/breaking-with-tradition-activision-says-it-will-actually-start-talking-about-call-of-duty-skill-based-matchmaking-soon)
+ - [The new Overwatch animated short is Saturday morning cartoon goodness](https://www.polygon.com/23983051/overwatch-animated-short-a-great-day-mauga-hero-release)
+ - [That new version of Ark&#39;s just had its crossplay yanked out of the PC version because you&#39;re a big old bunch of cheaters](https://www.pcgamer.com/that-new-version-of-arks-just-had-its-crossplay-yanked-out-of-the-pc-version-because-youre-a-big-old-bunch-of-cheaters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
