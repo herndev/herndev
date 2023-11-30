@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Fixes a Seventh Zero-Day Flaw in Chrome—Update Now](https://www.wired.com/story/google-chrome-seven-zero-day-flaws-critical-update-november-2023/)
- - [Startlingly good iPhone 15 Pro Max fake is hard to spot](https://appleinsider.com/articles/23/11/30/startlingly-good-iphone-15-pro-max-fake-is-hard-to-spot?utm_medium=rss)
- - [Sennheiser’s Momentum True Wireless 3 earbuds are down to a new all-time low price](https://www.theverge.com/2023/11/30/23980985/sennheiser-momentum-true-wireless-3-blink-outdoor-amazon-smart-plug-deal-sale)<!-- TECH:END -->
+ - [Android is getting a ton of new features today for your phone, tablet, watch, more](https://www.androidauthority.com/android-feature-drop-q4-2023-3390312/)
+ - [Google celebrates 1 billion RCS users with emoji-filled messaging features](https://www.theverge.com/2023/11/30/23981350/google-messages-chat-rcs-apple-imessage-photo-emoji)
+ - [Meta sues the FTC, claiming its in-house trials violate the Constitution, and asks a court to halt the agency&#39;s bid to change a $5B privacy settlement in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p29#a231130p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
