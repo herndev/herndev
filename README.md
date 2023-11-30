@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Under a Rock Is an Open World Survival Adventure Like You’ve Never Seen](https://news.xbox.com/en-us/2023/11/30/under-a-rock-open-world-survival/)
- - [Build your own town and overthrow an evil queen in survival RPG Bellwright](https://www.pcgamer.com/build-your-own-town-and-overthrow-an-evil-queen-in-survival-rpg-bellwright)
- - [Launching tomorrow, SteamWorld Build manages to be an incredibly busy but also chill city builder](https://www.pcgamer.com/launching-tomorrow-steamworld-build-manages-to-be-an-incredibly-busy-but-also-chill-city-builder)<!-- GAME:END -->
+ - [Explore The Gritty Combat of Flintlock: The Siege of Dawn In New Gameplay Trailer](https://news.xbox.com/en-us/2023/11/30/flintlock-the-siege-of-dawn-new-gameplay-trailer/)
+ - [As Stalker 2 is awarded &#39;Most Wanted&#39; game, Ukrainian CEO says the game aims to &#39;convey Ukraine&#39;s unbreakable spirit to the world&#39;](https://www.pcgamer.com/as-stalker-2-is-awarded-most-wanted-game-ukrainian-ceo-says-the-game-aims-to-convey-ukraines-unbreakable-spirit-to-the-world)
+ - [Strike from the shadows as Vampire: The Masquerade – Bloodlines 2&#39;s third clan, the Banu Haqim](https://www.pcgamer.com/strike-from-the-shadows-as-vampire-the-masquerade-bloodlines-2s-third-clan-the-banu-haqim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
