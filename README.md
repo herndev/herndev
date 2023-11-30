@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Baldur’s Gate 3 patch introduces a new epilogue and lets you wear slutty crab armor](https://www.theverge.com/2023/11/30/23982661/baldurs-gate-3-patch-5-details)
- - [An interview with Amazon CTO Werner Vogels on culturally aware LLMs, developer productivity with generative AI, women&#39;s health tech, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231130/p37#a231130p37)
- - [Tesla Cybertruck Delivery Event Live: Price, Range, Specs](https://www.wired.com/live/tesla-cybertruck-delivery-event-live-price-range-specs/)<!-- TECH:END -->
+ - [Tesla Cybertruck is here: electric truck will start at $60,990 and get 250 miles of range](https://www.theverge.com/2023/11/30/23982569/tesla-cybertruck-delivery-price-specs-features-elon-musk)
+ - [Apple releases emergency security updates for iOS, iPadOS, and macOS to fix two zero-days that may have been exploited, reaching 20 zero-days patched in 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231130/p39#a231130p39)
+ - [Spotify Wrapped 2023: Rewatch Your Top Moments and Find Your Sound Town     - CNET](https://www.cnet.com/tech/services-and-software/spotify-wrapped-2023-rewatch-your-top-moments-and-find-your-sound-town/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
