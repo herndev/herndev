@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - ⏩ [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
+ - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - ⏩ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 👉 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)<!-- MEMES:END -->
 
 ---
 
