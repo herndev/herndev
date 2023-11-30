@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Coming Soon to Game Pass: Far Cry 6, Remnant II, SteamWorld Build, and More](https://news.xbox.com/en-us/2023/11/30/game-pass-december-2023-announce/)
  - [One of my favourite soulslike shoot-&#39;em-ups—Remnant 2—just quietly dropped on PC Game Pass, and it&#39;s a really good time to subscribe anyway](https://www.pcgamer.com/one-of-my-favourite-soulslike-shoot-em-upsremnant-2just-quietly-dropped-on-pc-game-pass-and-its-a-really-good-time-to-subscribe-anyway)
- - [The Intel Core i9 14900K vs AMD Ryzen 9 7950X3D gaming shootout](https://www.pcgamer.com/intel-core-i9-14900k-vs-amd-ryzen-9-7950x3d)
- - [Last Train Home&#39;s tactical combat missions pit your ragtag Czech soldiers against the might of the Red Army](https://www.pcgamer.com/last-train-homes-tactical-combat-missions-pit-your-ragtag-czech-soldiers-against-the-might-of-the-red-army)<!-- GAME:END -->
+ - [The Intel Core i9 14900K vs AMD Ryzen 9 7950X3D gaming shootout](https://www.pcgamer.com/intel-core-i9-14900k-vs-amd-ryzen-9-7950x3d)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
