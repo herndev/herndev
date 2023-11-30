@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: Far Cry 6, Remnant II, SteamWorld Build, and More](https://news.xbox.com/en-us/2023/11/30/game-pass-december-2023-announce/)
- - [One of my favourite soulslike shoot-&#39;em-ups—Remnant 2—just quietly dropped on PC Game Pass, and it&#39;s a really good time to subscribe anyway](https://www.pcgamer.com/one-of-my-favourite-soulslike-shoot-em-upsremnant-2just-quietly-dropped-on-pc-game-pass-and-its-a-really-good-time-to-subscribe-anyway)
- - [The Intel Core i9 14900K vs AMD Ryzen 9 7950X3D gaming shootout](https://www.pcgamer.com/intel-core-i9-14900k-vs-amd-ryzen-9-7950x3d)<!-- GAME:END -->
+ - [It looks like the next Baldur&#39;s Gate 3 patch will update the game&#39;s ending—also, Withers says &#39;fun is mandatory&#39; and I&#39;m scared](https://www.pcgamer.com/the-next-patch-of-baldurs-gate-3-will-likely-feature-an-update-to-the-games-endingalso-withers-says-fun-is-mandatory-and-im-scared)
+ - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
+ - [The 10 best Starfield mods to upgrade your gameplay](https://www.polygon.com/2023/11/30/23969829/starfield-best-mods-achievement-enabler-instant-digipick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
