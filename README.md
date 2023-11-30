@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
- - ⏩ [Ireland right now. Theyre fed up with their protests against immigration not working.](http://9gag.com/gag/avQjeAO)
- - 👉 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)<!-- MEMES:END -->
+ - 💣 [Perfection.](http://9gag.com/gag/aGEQL3z)
+ - ⏩ [Cause why not](http://9gag.com/gag/anzonO5)
+ - 👉 [This is just nuts](http://9gag.com/gag/ap9MDLD)<!-- MEMES:END -->
 
 ---
 
