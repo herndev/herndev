@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything we know so far about OpenAI, Sam Altman’s return, and what happens next](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
- - [Elon Musk Just Told Advertisers &#39;Go Fuck Yourself&#39;](https://www.wired.com/story/elon-musk-x-advertisers-interview/)
- - [OpenAI adds Microsoft as a non-voting observer on the nonprofit board that controls OpenAI, as Sam Altman&#39;s return as CEO is made official &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231129/p46#a231129p46)<!-- TECH:END -->
+ - [Sam Altman Officially Returns to OpenAI—With a New Board Seat for Microsoft](https://www.wired.com/story/sam-altman-officially-returns-to-openai-board-seat-microsoft/)
+ - [Sources: Adobe&#39;s proposal to address EU and UK concerns about its $20B Figma deal may include not tying Figma into Creative Cloud and a divestment of Adobe XD &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p47#a231129p47)
+ - [Steam ending support for Macs running macOS Mojave and earlier](https://appleinsider.com/articles/23/11/30/steam-ending-support-for-macs-running-macos-mojave-and-earlier?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
