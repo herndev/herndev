@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
- - ⏩ [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
+ - 💣 [Your media calls it far right. Here it&#39;s mainstream common sense.](http://9gag.com/gag/a3ZOyAr)
+ - ⏩ [Yeah that\u2019s me. The dude behind camera &lpar;ugly af&rpar;. This was my lucky day. Can confirm she was right. We did it 3 times that day.](http://9gag.com/gag/aGEQMM0)
+ - 👉 [Disguise level - Mission Impossible](http://9gag.com/gag/aREpzG7)<!-- MEMES:END -->
 
 ---
 
