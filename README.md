@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Triumphant OpenAI CEO spends a whole interview dodging questions about why he was fired like he&#39;s in The Matrix, but does suggest the nonprofit board is in for some big changes](https://www.pcgamer.com/triumphant-openai-ceo-spends-a-whole-interview-dodging-questions-about-why-he-was-fired-like-hes-in-the-matrix-but-does-suggest-the-nonprofit-board-is-in-for-some-big-changes)
- - [Baldur&#39;s Gate 3 colossal new patch adds a playable epilogue set six months after the game ends with 3,589 new lines of dialogue, two new difficulty modes, and I&#39;m running out of headline space](https://www.pcgamer.com/baldurs-gate-3-colossal-new-patch-adds-a-playable-epilogue-set-six-months-after-the-game-ends-with-3589-new-lines-of-dialogue-two-new-difficulty-modes-and-im-running-out-of-headline-space)
- - [You might need to uninstall Baldur’s Gate 3 before its next patch](https://www.polygon.com/23982547/baldurs-gate-3-bg3-patch-5-install-size)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Patch Now Lets You Recruit Minthara Without Mass Murder](https://kotaku.com/baldurs-gate-3-minthara-patch-5-update-1851061745)
+ - [Altered TCG could change the economics of Magic, Disney Lorcana, and Pokémon](https://www.polygon.com/23982455/altered-trading-card-game-kickstarter-announcement-release-date-price)
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
