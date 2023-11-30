@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - ⏩ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 👉 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)<!-- MEMES:END -->
+ - 💣 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
+ - ⏩ [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
 
 ---
 
