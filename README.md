@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)
- - ⏩ [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 👉 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)<!-- MEMES:END -->
+ - 💣 [Something weird happened](http://9gag.com/gag/a9qGzmD)
+ - ⏩ [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 👉 [The `late 1900&#39;s`](http://9gag.com/gag/axor6jL)<!-- MEMES:END -->
 
 ---
 
