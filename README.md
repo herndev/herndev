@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today is the last day to save your unused Gmail account!](https://www.androidauthority.com/gmail-account-deletion-december-2023-3390181/)
- - [ASML CEO Peter Wennink plans to step down in April 2024 after over 10 years at the chip equipment giant, replaced by industry veteran Christophe Fouquet &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231130/p8#a231130p8)
- - [Interview with Atari CEO Wade Rosen on the company&#39;s emphasis on retro endeavors, its recent acquisitions, its investment in console maker Polymega, and more &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/231130/p7#a231130p7)<!-- TECH:END -->
+ - [At the NYT&#39;s DealBook event, Nvidia CEO Jensen Huang says the US is 10 years to 20 years from chip independence and reaffirms Nvidia&#39;s commitment to China &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231130/p10#a231130p10)
+ - [On the eve of ChatGPT’s birthday, OpenAI welcomes Sam Altman back as CEO with a new board](https://www.androidauthority.com/chatgpt-birthday-openai-welcomes-sam-altman-3390170/)
+ - [Firefox’s Android browser will have proper extension support again real soon](https://www.theverge.com/2023/11/30/23982293/firefoxs-android-browser-open-extension-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
