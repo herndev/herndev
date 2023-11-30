@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK judge reverses a decision to block a full UK CMA investigation into Apple&#39;s dominance in mobile browsers and cloud gaming, saying the CMA acted lawfully &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/231130/p20#a231130p20)
- - [Turtle Beach put drift-free sticks and a screen on its new $200 controller for Xbox and PC](https://www.theverge.com/2023/11/30/23981792/turtle-beach-stealth-ultra-xbox-pc-wireless-controller-antidrift-announcement-price)
- - [Meta officials say the US stopped proactively sharing information on foreign influence operations, as the company releases its Q3 Adversarial Threat Report &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/231130/p19#a231130p19)<!-- TECH:END -->
+ - [WhatsApp begins letting users hide locked chats behind a secret code, after introducing locked chats in May 2023, rolling out globally in the coming months &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231130/p25#a231130p25)
+ - [Apple says Amkor will package some Apple silicon chips in its new Arizona facility; Amkor plans to invest $2B, employ 2,000, and start production in 2-3 years &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231130/p24#a231130p24)
+ - [Apple&#39;s new disability tool helps users with disabilities communicate with their Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
