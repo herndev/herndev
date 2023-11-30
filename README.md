@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great success](http://9gag.com/gag/amAZWyy)
- - ⏩ [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
+ - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - ⏩ [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)
  - 👉 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)<!-- MEMES:END -->
 
 ---
