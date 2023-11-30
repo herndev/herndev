@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of fossil fuels could be decided in Dubai](https://www.theverge.com/2023/11/30/23980929/dubai-climate-change-united-nations-conference-cop28)
- - [Steam Link can now wirelessly stream VR games to your Meta Quest headset](https://www.theverge.com/2023/11/30/23982839/steam-link-meta-quest-headset-stream-vr-games)
- - [Tesla Cybertruck Launch Live: Price, Range, Specs](https://www.wired.com/live/tesla-cybertruck-launch-live-price-range-specs/)<!-- TECH:END -->
+ - [The latest Baldur’s Gate 3 patch introduces a new epilogue and lets you wear slutty crab armor](https://www.theverge.com/2023/11/30/23982661/baldurs-gate-3-patch-5-details)
+ - [An interview with Amazon CTO Werner Vogels on culturally aware LLMs, developer productivity with generative AI, women&#39;s health tech, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231130/p37#a231130p37)
+ - [Tesla Cybertruck Delivery Event Live: Price, Range, Specs](https://www.wired.com/live/tesla-cybertruck-delivery-event-live-price-range-specs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
