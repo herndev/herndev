@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Acer’s Predator Orion X is a compact monster of a gaming PC that you can pre-order in a great Currys deal right now](https://www.pcgamer.com/acers-predator-orion-x-is-a-compact-monster-of-a-gaming-pc-that-you-can-pre-order-in-a-great-currys-deal-right-now)
- - [Wordle today: Hint and answer #894 for Thursday, November 30](https://www.pcgamer.com/wordle-today-answer-894-november-30)
- - [Rising NAND and DDR chip prices mean SSD and memory prices are sure to increase in 2024](https://www.pcgamer.com/rising-nand-and-ddr-chip-prices-mean-ssd-and-memory-prices-are-sure-to-increase-in-2024)<!-- GAME:END -->
+ - [One of my favourite soulslike shoot-&#39;em-ups—Remnant 2—just quietly dropped on PC Game Pass, and it&#39;s a really good time to subscribe anyway](https://www.pcgamer.com/one-of-my-favourite-soulslike-shoot-em-upsremnant-2just-quietly-dropped-on-pc-game-pass-and-its-a-really-good-time-to-subscribe-anyway)
+ - [The Intel Core i9 14900K vs AMD Ryzen 9 7950X3D gaming shootout](https://www.pcgamer.com/intel-core-i9-14900k-vs-amd-ryzen-9-7950x3d)
+ - [Last Train Home&#39;s tactical combat missions pit your ragtag Czech soldiers against the might of the Red Army](https://www.pcgamer.com/last-train-homes-tactical-combat-missions-pit-your-ragtag-czech-soldiers-against-the-might-of-the-red-army)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
