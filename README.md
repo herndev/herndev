@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp begins letting users hide locked chats behind a secret code, after introducing locked chats in May 2023, rolling out globally in the coming months &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231130/p25#a231130p25)
- - [Apple says Amkor will package some Apple silicon chips in its new Arizona facility; Amkor plans to invest $2B, employ 2,000, and start production in 2-3 years &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231130/p24#a231130p24)
- - [Apple&#39;s new disability tool helps users with disabilities communicate with their Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice?utm_medium=rss)<!-- TECH:END -->
+ - [Google Fixes a Seventh Zero-Day Flaw in Chrome—Update Now](https://www.wired.com/story/google-chrome-seven-zero-day-flaws-critical-update-november-2023/)
+ - [Startlingly good iPhone 15 Pro Max fake is hard to spot](https://appleinsider.com/articles/23/11/30/startlingly-good-iphone-15-pro-max-fake-is-hard-to-spot?utm_medium=rss)
+ - [Sennheiser’s Momentum True Wireless 3 earbuds are down to a new all-time low price](https://www.theverge.com/2023/11/30/23980985/sennheiser-momentum-true-wireless-3-blink-outdoor-amazon-smart-plug-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
