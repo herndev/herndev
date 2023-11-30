@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marriage](http://9gag.com/gag/aVb6omv)
- - ⏩ [Your media calls it far right. Here it&#39;s mainstream common sense.](http://9gag.com/gag/a3ZOyAr)
- - 👉 [There goes the rest of the self-esteem. But at least I still got all you degenerates.](http://9gag.com/gag/aQEjvrK)<!-- MEMES:END -->
+ - 💣 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
+ - ⏩ [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
 
 ---
 
