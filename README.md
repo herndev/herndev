@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - ⏩ [Great success](http://9gag.com/gag/amAZWyy)
- - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
+ - 💣 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)
+ - ⏩ [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)
+ - 👉 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)<!-- MEMES:END -->
 
 ---
 
