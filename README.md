@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix secret codes: Supercharge your streaming with this list](https://www.androidauthority.com/netflix-secret-codes-3387424/)
- - [One UI 6 stable update for Galaxy S22 series is finally available in the US](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-6-stable-update-us-3390145/)
- - [10 year old calls on Apple to change ‘nerd face’ emoji](https://www.androidauthority.com/10-year-old-apple-nerd-face-emoji-3390147/)<!-- TECH:END -->
+ - [Today is the last day to save your unused Gmail account!](https://www.androidauthority.com/gmail-account-deletion-december-2023-3390181/)
+ - [ASML CEO Peter Wennink plans to step down in April 2024 after over 10 years at the chip equipment giant, replaced by industry veteran Christophe Fouquet &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231130/p8#a231130p8)
+ - [Interview with Atari CEO Wade Rosen on the company&#39;s emphasis on retro endeavors, its recent acquisitions, its investment in console maker Polymega, and more &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/231130/p7#a231130p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
