@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Rainbow Six Siege, Dead by Daylight, DriftCE and Hell Let Loose](https://news.xbox.com/en-us/2023/11/30/free-play-days-rainbow-six-siege-dead-by-daylight-driftce-and-hell-let-loose/)
- - [Kids to Santa: give us V-bucks this Christmas](https://www.polygon.com/23981627/kids-christmas-gift-games-survey-2023)
- - [Did You Know Henry Kissinger Is A Canonical Villain In Assassin’s Creed?](https://kotaku.com/henry-kissinger-assassins-creed-templar-brotherhood-1851061127)<!-- GAME:END -->
+ - [Triumphant OpenAI CEO spends a whole interview dodging questions about why he was fired like he&#39;s in The Matrix, but does suggest the nonprofit board is in for some big changes](https://www.pcgamer.com/triumphant-openai-ceo-spends-a-whole-interview-dodging-questions-about-why-he-was-fired-like-hes-in-the-matrix-but-does-suggest-the-nonprofit-board-is-in-for-some-big-changes)
+ - [Baldur&#39;s Gate 3 colossal new patch adds a playable epilogue set six months after the game ends with 3,589 new lines of dialogue, two new difficulty modes, and I&#39;m running out of headline space](https://www.pcgamer.com/baldurs-gate-3-colossal-new-patch-adds-a-playable-epilogue-set-six-months-after-the-game-ends-with-3589-new-lines-of-dialogue-two-new-difficulty-modes-and-im-running-out-of-headline-space)
+ - [You might need to uninstall Baldur’s Gate 3 before its next patch](https://www.polygon.com/23982547/baldurs-gate-3-bg3-patch-5-install-size)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
