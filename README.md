@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yet another pornographic ad is making the rounds on YouTube](https://www.androidauthority.com/youtube-porn-ad-2-3390335/)
- - [TikTok plans to spend &amp;euro;12B over 10 years in Europe, including on three data centers and a security audit, as the company begins work on its Norway data center &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231130/p34#a231130p34)
- - [Best Board Game Deals: Save on 10 Amazing RPGs, Strategy Games, Card Games and More     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The future of fossil fuels could be decided in Dubai](https://www.theverge.com/2023/11/30/23980929/dubai-climate-change-united-nations-conference-cop28)
+ - [Steam Link can now wirelessly stream VR games to your Meta Quest headset](https://www.theverge.com/2023/11/30/23982839/steam-link-meta-quest-headset-stream-vr-games)
+ - [Tesla Cybertruck Launch Live: Price, Range, Specs](https://www.wired.com/live/tesla-cybertruck-launch-live-price-range-specs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
