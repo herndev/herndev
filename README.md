@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Breaking with tradition, Activision says it will actually start talking about Call of Duty skill-based matchmaking soon](https://www.pcgamer.com/breaking-with-tradition-activision-says-it-will-actually-start-talking-about-call-of-duty-skill-based-matchmaking-soon)
- - [The new Overwatch animated short is Saturday morning cartoon goodness](https://www.polygon.com/23983051/overwatch-animated-short-a-great-day-mauga-hero-release)
- - [That new version of Ark&#39;s just had its crossplay yanked out of the PC version because you&#39;re a big old bunch of cheaters](https://www.pcgamer.com/that-new-version-of-arks-just-had-its-crossplay-yanked-out-of-the-pc-version-because-youre-a-big-old-bunch-of-cheaters)<!-- GAME:END -->
+ - [Silent Hill, Naruto Games Deny AI Usage Amid Fan Freakouts](https://kotaku.com/naruto-boruto-silent-hill-ascension-ai-generated-1851063256)
+ - [Buying Disney Lorcana’s new expansion from Amazon will require a virtual queue](https://www.polygon.com/deals/2023/11/30/23983138/disney-lorcana-rise-of-the-floodborn-amazon-where-to-buy)
+ - [Someone Found Secret Cheat Codes In A 14-Year-Old Gran Turismo Game](https://kotaku.com/gran-turismo-psp-gt-hidden-secret-cheat-codes-found-1851063158)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
