@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Jurassic World Evolution 2 Brings Four Cretaceous Predators To Life](https://news.xbox.com/en-us/2023/12/01/how-jurassic-world-evolution-2-brings-four-cretaceous-predators-to-life/)
- - [Pokémon Go ‘Eggs-pedition Access: December’ Timed Research steps, and is it worth it?](https://www.polygon.com/pokemon-go-guide/2023/12/1/23984183/eggs-pedition-access-december-timed-research-worth-it)
- - [GTA 6&#39;s Teaser Image Has Three Birds I Can&#39;t Stop Thinking About](https://kotaku.com/gta-6-vi-teaser-art-birds-theories-explained-vice-city-1851065871)<!-- GAME:END -->
+ - [Just Make An Overwatch Animated Series Already](https://kotaku.com/overwatch-mauga-a-good-day-animated-short-series-1851065584)
+ - [Lofi Girl now has chill beats to play chess to](https://www.polygon.com/23978495/lofi-girl-beats-to-play-chess-to)
+ - [Ready For More Resident Evil Remakes? Capcom Sure Is](https://kotaku.com/ready-for-more-resident-evil-remakes-capcom-sure-is-1851066026)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
