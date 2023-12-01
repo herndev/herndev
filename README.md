@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X says it will accelerate plans to attract ad spending by SMBs, including outsourcing some ad sales to third parties, such as US marketing startup JumpCrew &lpar;Financial Times&rpar;](http://www.techmeme.com/231201/p9#a231201p9)
- - [Today&#39;s Best CD Rates: Dec. 1, 2023 -- APYs Dropped in November. What’s Next?     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-1-2023/#ftag=CAD590a51e)
- - [This StackSocial Deal Slashes $249 Off a Lifetime Rosetta Stone Subscription     - CNET](https://www.cnet.com/deals/this-stacksocial-deal-slashes-249-off-a-lifetime-rosetta-stone-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta is expanding child safety measures as government and press reports mount](https://www.theverge.com/2023/12/1/23983955/meta-child-safety-sexual-abuse-explicit-content-eu-senate)
+ - [Peter Capaldi&#39;s &#39;Criminal Record&#39; gets first trailer, premieres in early 2024](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)
+ - [Apple shows off the lean, efficient processor lab behind the M3](https://appleinsider.com/articles/23/12/01/apple-shows-off-the-lean-efficient-processor-lab-behind-the-m3?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
