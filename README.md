@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm could stick with a trusted partner for Snapdragon 8 Gen 4](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-4-tsmc-samsung-3390475/)
- - [Telegram’s voice transcription feature is now available to everyone, but it’s not all good news.](https://www.androidauthority.com/telegram-update-voice-transcription-similar-channels-3390468/)
- - [Google Will Start Deleting Old Accounts Today. Here&#39;s How to Save Yours     - CNET](https://www.cnet.com/tech/services-and-software/google-will-start-deleting-old-accounts-today-heres-how-to-save-yours/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads could soon launch in Europe, but there may be a catch](https://www.androidauthority.com/threads-launch-europe-catch-3390484/)
+ - [Coinbase reports receiving 13,079 law enforcement requests between October 1, 2022 and September 30, 2023, up 6% YoY and 3x since 2020; ~50% were from the US &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/231201/p3#a231201p3)
+ - [Uber could soon let you buy an eSIM straight from its app](https://www.androidauthority.com/uber-esim-3390483/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
