@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to two US Senators, Circle denies a report alleging it had a role in financing Hamas and Hezbollah and an &quot;ongoing relationship&quot; with Justin Sun &lpar;Samyuktha Sriram/Unchained Crypto&rpar;](http://www.techmeme.com/231201/p8#a231201p8)
- - [Apple TV+ may bundle with Paramount+ to cut subscriber losses](https://appleinsider.com/articles/23/12/01/apple-tv-may-bundle-paramount-to-cut-subscriber-losses?utm_medium=rss)
- - [Opera GX browser jump scared its users, and they are rightfully mad about it](https://www.androidauthority.com/opera-gx-jump-scared-users-3390513/)<!-- TECH:END -->
+ - [WhatsApp could make screen sharing more useful with this feature](https://www.androidauthority.com/whatsapp-audio-screen-sharing-3390522/)
+ - [Tetraprism camera coming to iPhone 16 Pro, claims supply chain report](https://appleinsider.com/articles/23/12/01/tetraprism-camera-coming-to-iphone-16-pro-claims-supply-chain-report?utm_medium=rss)
+ - [Xreal Air 2 Pro AR Glasses Review: Minor Upgrade](https://www.wired.com/review/xreal-air-2-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
