@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #895 for Friday, December 1](https://www.pcgamer.com/wordle-today-answer-895-december-1)
  - [Furiosa trailer takes Mad Max fans back to the Fury Road](https://www.polygon.com/23981365/furiosa-mad-max-trailer-fury-road-anya-taylor-joy-hemsworth-george-miller)
- - [I thought I was tough stuff for beating Baldur&#39;s Gate 3&#39;s hardest difficulty, but this new permadeath &#39;Honour&#39; mode has me quaking in my bardic boots](https://www.pcgamer.com/i-thought-i-was-tough-stuff-for-beating-baldurs-gate-3s-hardest-difficulty-but-this-new-permadeath-honour-mode-has-me-quaking-in-my-bardic-boots)
- - [Diablo 4 has &#39;plans for a really really big update&#39; to give you better loot, but you&#39;ll have to wait until next year](https://www.pcgamer.com/diablo-4-has-plans-for-a-really-really-big-update-to-loot-but-youll-have-to-wait-until-next-year)<!-- GAME:END -->
+ - [I thought I was tough stuff for beating Baldur&#39;s Gate 3&#39;s hardest difficulty, but this new permadeath &#39;Honour&#39; mode has me quaking in my bardic boots](https://www.pcgamer.com/i-thought-i-was-tough-stuff-for-beating-baldurs-gate-3s-hardest-difficulty-but-this-new-permadeath-honour-mode-has-me-quaking-in-my-bardic-boots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
