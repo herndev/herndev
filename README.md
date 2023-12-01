@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A bride-to-be discovers a reality-bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
- - [Yet another pornographic ad is making the rounds on YouTube &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-porn-ad-2-3390335/)
- - [How Microsoft forged a partnership with OpenAI, was blindsided by the OpenAI board firing Sam Altman, and managed to get Altman reinstated as CEO &lpar;Charles Duhigg/New Yorker&rpar;](http://www.techmeme.com/231201/p12#a231201p12)<!-- TECH:END -->
+ - [This M3 Max MacBook Pro 14-inch with 96GB RAM is down to $3,749, plus $50 off AppleCare](https://appleinsider.com/articles/23/12/01/this-m3-max-macbook-pro-14-inch-with-96gb-ram-is-down-to-3749?utm_medium=rss)
+ - [Best Internet Providers in Sioux Falls, South Dakota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sioux-falls-sd/#ftag=CAD590a51e)
+ - [OnePlus Open gets a new update, but it’s not the one you’re hoping for](https://www.androidauthority.com/oneplus-open-update-december-2023-3390643/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
