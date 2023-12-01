@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Kartrider: Drift Teamed Up With Blackpink For The Ultimate K-Pop Crossover](https://news.xbox.com/en-us/2023/12/01/kartrider-blackpink-crossover/)
- - [Cyberpunk 2077 Gets Working Metro And More In Last Big Update](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-1-update-metro-1851065622)
- - [Gangs of Sherwood review](https://www.pcgamer.com/gangs-of-sherwood-review)<!-- GAME:END -->
+ - [How Jurassic World Evolution 2 Brings Four Cretaceous Predators To Life](https://news.xbox.com/en-us/2023/12/01/how-jurassic-world-evolution-2-brings-four-cretaceous-predators-to-life/)
+ - [Pokémon Go ‘Eggs-pedition Access: December’ Timed Research steps, and is it worth it?](https://www.polygon.com/pokemon-go-guide/2023/12/1/23984183/eggs-pedition-access-december-timed-research-worth-it)
+ - [GTA 6&#39;s Teaser Image Has Three Birds I Can&#39;t Stop Thinking About](https://kotaku.com/gta-6-vi-teaser-art-birds-theories-explained-vice-city-1851065871)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
