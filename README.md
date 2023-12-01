@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The opening credits of this movie just blew my mind. It was chaos in the streets, almost like a made up movie. But it wasnt, it was all real clips of the last 10 years! We have a serious f*king problem lol we are upon collapse. Movie is Unhinged.](http://9gag.com/gag/az23KMm)
- - ⏩ [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
- - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
+ - 💣 [Death note spin-off: Brainwash note](http://9gag.com/gag/aeQBZrB)
+ - ⏩ [The opening credits of this movie just blew my mind. It was chaos in the streets, almost like a made up movie. But it wasnt, it was all real clips of the last 10 years! We have a serious f*king problem lol we are upon collapse. Movie is Unhinged.](http://9gag.com/gag/az23KMm)
+ - 👉 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)<!-- MEMES:END -->
 
 ---
 
