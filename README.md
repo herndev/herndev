@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Yann LeCun and Joelle Pineau ahead of the 10th anniversary of Meta&#39;s Fundamental AI Research lab on ChatGPT, AI in the metaverse, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/231201/p1#a231201p1)
- - [You can now lock sensitive WhatsApp chats with a secret code](https://www.androidauthority.com/whatsapp-secret-code-3390445/)
- - [Anduril’s New Drone Killer Is Locked on to AI-Powered Warfare](https://www.wired.com/story/anduril-roadrunner-drone/)<!-- TECH:END -->
+ - [Galaxy S24 series passes through FCC, putting an end to chipset confusion](https://www.androidauthority.com/samsung-galaxy-s24-s24-plus-snapdragon-power-3390447/)
+ - [You all need to update your iPhones and Macs, like right away](https://www.androidauthority.com/apple-ios-17-1-2-security-fix-3390462/)
+ - [An interview with Yann LeCun and Joelle Pineau ahead of the 10th anniversary of Meta&#39;s Fundamental AI Research lab on ChatGPT, AI in the metaverse, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/231201/p1#a231201p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
