@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are legends that to this day no one has ever seen the girl.](http://9gag.com/gag/aBdeLED)
- - ⏩ [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
+ - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - ⏩ [Good dad technique.](http://9gag.com/gag/a6qR2xN)
+ - 👉 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)<!-- MEMES:END -->
 
 ---
 
