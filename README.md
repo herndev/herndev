@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp could make screen sharing more useful with this feature](https://www.androidauthority.com/whatsapp-audio-screen-sharing-3390522/)
- - [Tetraprism camera coming to iPhone 16 Pro, claims supply chain report](https://appleinsider.com/articles/23/12/01/tetraprism-camera-coming-to-iphone-16-pro-claims-supply-chain-report?utm_medium=rss)
- - [Xreal Air 2 Pro AR Glasses Review: Minor Upgrade](https://www.wired.com/review/xreal-air-2-pro/)<!-- TECH:END -->
+ - [X says it will accelerate plans to attract ad spending by SMBs, including outsourcing some ad sales to third parties, such as US marketing startup JumpCrew &lpar;Financial Times&rpar;](http://www.techmeme.com/231201/p9#a231201p9)
+ - [Today&#39;s Best CD Rates: Dec. 1, 2023 -- APYs Dropped in November. What’s Next?     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-1-2023/#ftag=CAD590a51e)
+ - [This StackSocial Deal Slashes $249 Off a Lifetime Rosetta Stone Subscription     - CNET](https://www.cnet.com/deals/this-stacksocial-deal-slashes-249-off-a-lifetime-rosetta-stone-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
