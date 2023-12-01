@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elon Musk\u2019s 1 Million Dollar question](http://9gag.com/gag/agoe4Bw)
- - ⏩ [Causality of life](http://9gag.com/gag/a5XYznO)
+ - 💣 [Causality of life](http://9gag.com/gag/a5XYznO)
+ - ⏩ [The only relevant meme-maker out there.](http://9gag.com/gag/aeQB2oW)
  - 👉 [....and in other news.....](http://9gag.com/gag/aGEQ2b5)<!-- MEMES:END -->
 
 ---
