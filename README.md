@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Part two of Warhammer 40,000: Darktide&#39;s big free expansion comes this month, featuring a new mission, injectable magic potions, and… a foldable shovel?](https://www.pcgamer.com/part-two-of-warhammer-40000-darktides-big-free-expansion-comes-this-month-featuring-a-new-mission-injectable-magic-potions-and-a-foldable-shovel)
- - [Resident Evil 4’s VR mode finally arrives next week](https://www.polygon.com/23983870/resident-evil-4-vr-mode-release-date)
- - [Born of Bread, home-cooked turn-based RPG rises December 5 on PS5](https://blog.playstation.com/2023/12/01/born-of-bread-home-cooked-turn-based-rpg-rises-december-5-on-ps5/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for December 4 – 8](https://news.xbox.com/en-us/2023/12/01/next-week-on-xbox-new-games-for-december-4-8/)
+ - [Ducky ProjectD Outlaw65 review](https://www.pcgamer.com/ducky-projectd-outlaw65-keyboard-review-build)
+ - [Suicide Squad Isekai might be the DC antihero team’s best form](https://www.polygon.com/23983973/suicide-squad-isekai-anime-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
