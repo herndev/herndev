@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Google Pixel deals of December 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
- - [Welp, nearly everything about the Galaxy S24 series just leaked](https://www.androidauthority.com/galaxy-s24-series-december-leak-3390674/)
- - [A Guide to Going Solar in New England     - CNET](https://www.cnet.com/home/energy-and-utilities/new-england-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google reaches a $27M settlement with employees who accused the company of unfair labor practices in a 2016 lawsuit following the termination of a Nest staffer &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231201/p19#a231201p19)
+ - [Bluesky rolls out &quot;more advanced&quot; automated moderation tools, along with moderation lists, which let users mute or block many users at once, user lists, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231201/p18#a231201p18)
+ - [OpenAI’s GPT store delayed to next year](https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
