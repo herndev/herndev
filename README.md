@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tiger Global cut valuations of its portfolio companies in September 2023 including Superhuman by 45%, DuckDuckGo 72%, Yuga Labs 69%, and OpenSea 94% &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p50#a231130p50)
- - [Meta Chief AI Scientist Yann LeCun says &quot;there is really no commercial downside&quot; to sharing Meta&#39;s AI tech openly, even as many peers take the opposite approach &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231130/p49#a231130p49)
- - [Nenotoh Switch Controller review: Impressive controller at an excellent price](https://appleinsider.com/articles/23/12/01/nenotoh-switch-controller-review-impressive-controller-at-an-excellent-price?utm_medium=rss)<!-- TECH:END -->
+ - [An interview with Yann LeCun and Joelle Pineau ahead of the 10th anniversary of Meta&#39;s Fundamental AI Research lab on ChatGPT, AI in the metaverse, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/231201/p1#a231201p1)
+ - [You can now lock sensitive WhatsApp chats with a secret code](https://www.androidauthority.com/whatsapp-secret-code-3390445/)
+ - [Anduril’s New Drone Killer Is Locked on to AI-Powered Warfare](https://www.wired.com/story/anduril-roadrunner-drone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
