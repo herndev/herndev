@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
+ - 💣 [Finger licking good ribs](http://9gag.com/gag/abv811B)
  - ⏩ [Wow](http://9gag.com/gag/aqeExNv)
  - 👉 [Mind your business?](http://9gag.com/gag/aOxWZLR)<!-- MEMES:END -->
 
