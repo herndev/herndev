@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It doesn’t matter when Furiosa takes place in the Mad Max timeline](https://www.polygon.com/23984150/furiosa-mad-max-timeline-trailer-continuity)
- - [You have one month to switch your Stadia controller to Bluetooth mode, or you&#39;re stuck with wires forever](https://www.pcgamer.com/you-have-one-month-to-switch-your-stadia-controller-to-bluetooth-mode-or-youre-stuck-with-wires-forever)
- - [No one can escape the Josh Hutcherson ‘Whistle’ edit](https://www.polygon.com/23984032/josh-hutcherson-whistle-edit-meme-trend-explained)<!-- GAME:END -->
+ - [Remedy teases an Alan Wake 2 New Game+ update in the most obvious way possible](https://www.pcgamer.com/remedy-teases-an-alan-wake-2-new-game-update-in-the-most-obvious-way-possible)
+ - [How I learned to love Stardew Valley’s terrible fishing](https://www.polygon.com/videos/2023/12/1/23984614/stardew-valley-fishing-ernest-hemingway-video)
+ - [Custom PC builds: from WHY to DIY](https://www.pcgamer.com/custom-pc-builds-from-why-to-diy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
