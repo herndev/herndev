@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - ⏩ [Good dad technique.](http://9gag.com/gag/a6qR2xN)
- - 👉 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)<!-- MEMES:END -->
+ - 💣 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - ⏩ [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - 👉 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)<!-- MEMES:END -->
 
 ---
 
