@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)
- - ⏩ [Danish people going through a normal conversation](http://9gag.com/gag/a8qgmdp)
- - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
+ - 💣 [Coming Soon...](http://9gag.com/gag/aOxWPj3)
+ - ⏩ [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
+ - 👉 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)<!-- MEMES:END -->
 
 ---
 
