@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You think you have imposter syndrome: Nvidia CEO is worried his trillion dollar company might go bust overnight](https://www.pcgamer.com/you-think-you-have-imposter-syndrome-nvidia-ceo-is-worried-his-trillion-dollar-company-might-go-bust-overnight)
- - [You&#39;re fine to load up your dusty old save for Baldur&#39;s Gate 3&#39;s new epilogue, especially if you quicksave as much as I do](https://www.pcgamer.com/youre-fine-to-load-up-your-dusty-old-save-for-baldurs-gate-3s-new-epilogue-especially-if-you-quicksave-as-much-as-i-do)
- - [When does Destiny 2’s Warlord’s Ruin dungeon release?](https://www.polygon.com/destiny-2-guide-walkthrough/2023/11/29/23971547/warlords-ruin-dungeon-release-date-time)<!-- GAME:END -->
+ - [Resident Evil 4’s VR mode finally arrives next week](https://www.polygon.com/23983870/resident-evil-4-vr-mode-release-date)
+ - [Born of Bread, home-cooked turn-based RPG rises December 5 on PS5](https://blog.playstation.com/2023/12/01/born-of-bread-home-cooked-turn-based-rpg-rises-december-5-on-ps5/)
+ - [Every movie and show coming to Netflix in December](https://www.polygon.com/entertainment/2023/12/1/23972823/new-netflix-movies-tv-shows-watch-december-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
