@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is expanding child safety measures as government and press reports mount](https://www.theverge.com/2023/12/1/23983955/meta-child-safety-sexual-abuse-explicit-content-eu-senate)
- - [Peter Capaldi&#39;s &#39;Criminal Record&#39; gets first trailer, premieres in early 2024](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)
- - [Apple shows off the lean, efficient processor lab behind the M3](https://appleinsider.com/articles/23/12/01/apple-shows-off-the-lean-efficient-processor-lab-behind-the-m3?utm_medium=rss)<!-- TECH:END -->
+ - [A bride-to-be discovers a reality-bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
+ - [Yet another pornographic ad is making the rounds on YouTube &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-porn-ad-2-3390335/)
+ - [How Microsoft forged a partnership with OpenAI, was blindsided by the OpenAI board firing Sam Altman, and managed to get Altman reinstated as CEO &lpar;Charles Duhigg/New Yorker&rpar;](http://www.techmeme.com/231201/p12#a231201p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
