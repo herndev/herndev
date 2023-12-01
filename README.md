@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for November’s best new game](https://blog.playstation.com/2023/12/01/players-choice-vote-for-novembers-best-new-game/)
- - [Fortnite’s Family Guy saga may finally be coming to an end](https://www.polygon.com/23984003/fortnite-big-bang-family-guy-peter-griffin-leak)
- - [Columbia’s Hoth-ready Star Wars winter wear is here](https://www.polygon.com/deals/23982589/columbia-star-wars-winter-collection-where-to-buy)<!-- GAME:END -->
+ - [How Kartrider: Drift Teamed Up With Blackpink For The Ultimate K-Pop Crossover](https://news.xbox.com/en-us/2023/12/01/kartrider-blackpink-crossover/)
+ - [Cyberpunk 2077 Gets Working Metro And More In Last Big Update](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-1-update-metro-1851065622)
+ - [Gangs of Sherwood review](https://www.pcgamer.com/gangs-of-sherwood-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
