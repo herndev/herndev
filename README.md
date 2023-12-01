@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm could stick with a trusted partner for Snapdragon 8 Gen 4](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-4-tsmc-samsung-3390475/)
  - [Telegram’s voice transcription feature is now available to everyone, but it’s not all good news.](https://www.androidauthority.com/telegram-update-voice-transcription-similar-channels-3390468/)
- - [Galaxy S24 series passes through FCC, putting an end to chipset confusion](https://www.androidauthority.com/samsung-galaxy-s24-s24-plus-snapdragon-power-3390447/)
- - [You all need to update your iPhones and Macs, like right away](https://www.androidauthority.com/apple-ios-17-1-2-security-fix-3390462/)<!-- TECH:END -->
+ - [Google Will Start Deleting Old Accounts Today. Here&#39;s How to Save Yours     - CNET](https://www.cnet.com/tech/services-and-software/google-will-start-deleting-old-accounts-today-heres-how-to-save-yours/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
