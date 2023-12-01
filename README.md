@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty Is Killing Its Best Mode](https://kotaku.com/call-of-duty-dmz-beta-warzone-dead-activision-1851066541)
- - [Buying Disney Lorcana’s new expansion from Amazon will require a virtual queue](https://www.polygon.com/deals/2023/11/30/23983138/disney-lorcana-rise-of-the-floodborn-amazon-where-to-buy)
- - [Signal detected: Looks like we&#39;re getting the first Fallout TV show teaser trailer tomorrow](https://www.pcgamer.com/signal-detected-looks-like-were-getting-the-first-fallout-tv-show-teaser-trailer-tomorrow)<!-- GAME:END -->
+ - [It doesn’t matter when Furiosa takes place in the Mad Max timeline](https://www.polygon.com/23984150/furiosa-mad-max-timeline-trailer-continuity)
+ - [You have one month to switch your Stadia controller to Bluetooth mode, or you&#39;re stuck with wires forever](https://www.pcgamer.com/you-have-one-month-to-switch-your-stadia-controller-to-bluetooth-mode-or-youre-stuck-with-wires-forever)
+ - [No one can escape the Josh Hutcherson ‘Whistle’ edit](https://www.polygon.com/23984032/josh-hutcherson-whistle-edit-meme-trend-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
