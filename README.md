@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Monk subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23817283/monk-class-subclasses-stats-features-proficiencies)
- - [The best Fighter subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23816255/fighter-class-subclasses-stats-features-proficiencies)
- - [The best Druid subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23816167/druid-class-subclasses-stats-features-proficiencies)<!-- GAME:END -->
+ - [Furiosa trailer takes Mad Max fans back to the Fury Road](https://www.polygon.com/23981365/furiosa-mad-max-trailer-fury-road-anya-taylor-joy-hemsworth-george-miller)
+ - [I thought I was tough stuff for beating Baldur&#39;s Gate 3&#39;s hardest difficulty, but this new permadeath &#39;Honour&#39; mode has me quaking in my bardic boots](https://www.pcgamer.com/i-thought-i-was-tough-stuff-for-beating-baldurs-gate-3s-hardest-difficulty-but-this-new-permadeath-honour-mode-has-me-quaking-in-my-bardic-boots)
+ - [Diablo 4 has &#39;plans for a really really big update&#39; to give you better loot, but you&#39;ll have to wait until next year](https://www.pcgamer.com/diablo-4-has-plans-for-a-really-really-big-update-to-loot-but-youll-have-to-wait-until-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
