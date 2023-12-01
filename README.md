@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram’s voice transcription feature is now available to everyone, but it’s not all good news.](https://www.androidauthority.com/telegram-update-voice-transcription-similar-channels-3390468/)
  - [Galaxy S24 series passes through FCC, putting an end to chipset confusion](https://www.androidauthority.com/samsung-galaxy-s24-s24-plus-snapdragon-power-3390447/)
- - [You all need to update your iPhones and Macs, like right away](https://www.androidauthority.com/apple-ios-17-1-2-security-fix-3390462/)
- - [An interview with Yann LeCun and Joelle Pineau ahead of the 10th anniversary of Meta&#39;s Fundamental AI Research lab on ChatGPT, AI in the metaverse, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/231201/p1#a231201p1)<!-- TECH:END -->
+ - [You all need to update your iPhones and Macs, like right away](https://www.androidauthority.com/apple-ios-17-1-2-security-fix-3390462/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
