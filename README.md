@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tiger Global cut valuations of its portfolio companies in September 2023 including Superhuman by 45%, DuckDuckGo 72%, Yuga Labs 69%, and OpenSea 94% &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p50#a231130p50)
  - [Meta Chief AI Scientist Yann LeCun says &quot;there is really no commercial downside&quot; to sharing Meta&#39;s AI tech openly, even as many peers take the opposite approach &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231130/p49#a231130p49)
- - [Nenotoh Switch Controller review: Impressive controller at an excellent price](https://appleinsider.com/articles/23/12/01/nenotoh-switch-controller-review-impressive-controller-at-an-excellent-price?utm_medium=rss)
- - [Internal documentation: Apple plans to include the Action button on the entire iPhone 16 range, including a force sensor to detect changes in pressure &lpar;Marko Zivkovic/MacRumors&rpar;](http://www.techmeme.com/231130/p48#a231130p48)<!-- TECH:END -->
+ - [Nenotoh Switch Controller review: Impressive controller at an excellent price](https://appleinsider.com/articles/23/12/01/nenotoh-switch-controller-review-impressive-controller-at-an-excellent-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
