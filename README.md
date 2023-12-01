@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US district judge issues a preliminary injunction blocking Montana&#39;s first-of-its-kind state ban on TikTok from taking effect on January 1 &lpar;Reuters&rpar;](http://www.techmeme.com/231130/p42#a231130p42)
- - [Take up to $400 off popular Apple computers and find the perfect gift before the holidays](https://appleinsider.com/articles/23/11/30/take-up-to-400-off-popular-apple-computers-and-find-the-perfect-gift-before-the-holidays?utm_medium=rss)
- - [Tesla Begins Delivering Cybertrucks to Customers, Edgy EV Now Starts at $60,990     - CNET](https://www.cnet.com/roadshow/news/tesla-begins-delivering-cybertrucks-to-customers-edgy-ev-now-starts-at-60990/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filings: Broadcom plans to lay off 1,267 VMware employees in California starting on January 26 and about 600 workers in Washington, Colorado, and Georgia &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/231130/p45#a231130p45)
+ - [Furiosa’s first trailer teases the origins of one of the Mad Max saga’s best characters](https://www.theverge.com/2023/11/30/23983452/furiosa-mad-max-trailer)
+ - [&#39;Criminal Record&#39; gets first trailer, premieres January 10 on Apple TV+](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
