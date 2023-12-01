@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for December 4 – 8](https://news.xbox.com/en-us/2023/12/01/next-week-on-xbox-new-games-for-december-4-8/)
- - [Ducky ProjectD Outlaw65 review](https://www.pcgamer.com/ducky-projectd-outlaw65-keyboard-review-build)
- - [Suicide Squad Isekai might be the DC antihero team’s best form](https://www.polygon.com/23983973/suicide-squad-isekai-anime-trailer)<!-- GAME:END -->
+ - [Players’ Choice: Vote for November’s best new game](https://blog.playstation.com/2023/12/01/players-choice-vote-for-novembers-best-new-game/)
+ - [Fortnite’s Family Guy saga may finally be coming to an end](https://www.polygon.com/23984003/fortnite-big-bang-family-guy-peter-griffin-leak)
+ - [Columbia’s Hoth-ready Star Wars winter wear is here](https://www.polygon.com/deals/23982589/columbia-star-wars-winter-collection-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
