@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He will treat her like a queen](http://9gag.com/gag/a5XYBwV)
- - ⏩ [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 👉 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)<!-- MEMES:END -->
+ - 💣 [Elon Musk\u2019s 1 Million Dollar question](http://9gag.com/gag/agoe4Bw)
+ - ⏩ [Causality of life](http://9gag.com/gag/a5XYznO)
+ - 👉 [....and in other news.....](http://9gag.com/gag/aGEQ2b5)<!-- MEMES:END -->
 
 ---
 
