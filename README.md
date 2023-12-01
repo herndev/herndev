@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remedy teases an Alan Wake 2 New Game+ update in the most obvious way possible](https://www.pcgamer.com/remedy-teases-an-alan-wake-2-new-game-update-in-the-most-obvious-way-possible)
- - [How I learned to love Stardew Valley’s terrible fishing](https://www.polygon.com/videos/2023/12/1/23984614/stardew-valley-fishing-ernest-hemingway-video)
- - [Custom PC builds: from WHY to DIY](https://www.pcgamer.com/custom-pc-builds-from-why-to-diy)<!-- GAME:END -->
+ - [Place your bets: Will GTA 6 release on PC on the same day it does on consoles?](https://www.pcgamer.com/place-your-bets-will-gta-6-release-on-pc-on-the-same-day-it-does-on-consoles)
+ - [The best Wizard subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23814037/wizard-class-subclasses-stats-features-proficiencies)
+ - [The best Warlock subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23814020/warlock-class-subclasses-stats-features-proficiencies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
