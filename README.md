@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Causality of life](http://9gag.com/gag/a5XYznO)
- - ⏩ [The only relevant meme-maker out there.](http://9gag.com/gag/aeQB2oW)
- - 👉 [....and in other news.....](http://9gag.com/gag/aGEQ2b5)<!-- MEMES:END -->
+ - 💣 [There are legends that to this day no one has ever seen the girl.](http://9gag.com/gag/aBdeLED)
+ - ⏩ [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
 
 ---
 
