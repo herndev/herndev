@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This M3 Max MacBook Pro 14-inch with 96GB RAM is down to $3,749, plus $50 off AppleCare](https://appleinsider.com/articles/23/12/01/this-m3-max-macbook-pro-14-inch-with-96gb-ram-is-down-to-3749?utm_medium=rss)
- - [Best Internet Providers in Sioux Falls, South Dakota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sioux-falls-sd/#ftag=CAD590a51e)
- - [OnePlus Open gets a new update, but it’s not the one you’re hoping for](https://www.androidauthority.com/oneplus-open-update-december-2023-3390643/)<!-- TECH:END -->
+ - [The best Google Pixel deals of December 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [Welp, nearly everything about the Galaxy S24 series just leaked](https://www.androidauthority.com/galaxy-s24-series-december-leak-3390674/)
+ - [A Guide to Going Solar in New England     - CNET](https://www.cnet.com/home/energy-and-utilities/new-england-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
