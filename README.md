@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Just Make An Overwatch Animated Series Already](https://kotaku.com/overwatch-mauga-a-good-day-animated-short-series-1851065584)
- - [Lofi Girl now has chill beats to play chess to](https://www.polygon.com/23978495/lofi-girl-beats-to-play-chess-to)
- - [Ready For More Resident Evil Remakes? Capcom Sure Is](https://kotaku.com/ready-for-more-resident-evil-remakes-capcom-sure-is-1851066026)<!-- GAME:END -->
+ - [Call Of Duty Is Killing Its Best Mode](https://kotaku.com/call-of-duty-dmz-beta-warzone-dead-activision-1851066541)
+ - [Buying Disney Lorcana’s new expansion from Amazon will require a virtual queue](https://www.polygon.com/deals/2023/11/30/23983138/disney-lorcana-rise-of-the-floodborn-amazon-where-to-buy)
+ - [Signal detected: Looks like we&#39;re getting the first Fallout TV show teaser trailer tomorrow](https://www.pcgamer.com/signal-detected-looks-like-were-getting-the-first-fallout-tv-show-teaser-trailer-tomorrow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
