@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music to host event honoring Taylor Swift as its 2023 Artist of the Year](https://appleinsider.com/articles/23/12/01/apple-music-to-host-event-honoring-taylor-swift-as-its-2023-artist-of-the-year?utm_medium=rss)
- - [When It Comes to January 6 Lawsuits, a Court Splits Donald Trump in Two](https://www.wired.com/story/donald-trump-january-6-lawsuit-candidate-president/)
- - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Best CD Rates for December 2023     - CNET](https://www.cnet.com/personal-finance/best-cd-rates/#ftag=CAD590a51e)
+ - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
