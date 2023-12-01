@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)
- - ⏩ [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
+ - 💣 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - ⏩ [Disguise level - Mission Impossible](http://9gag.com/gag/aREpzG7)
+ - 👉 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)<!-- MEMES:END -->
 
 ---
 
