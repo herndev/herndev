@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
- - ⏩ [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - 👉 [Wow](http://9gag.com/gag/aqeExNv)<!-- MEMES:END -->
+ - ⏩ [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 👉 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)<!-- MEMES:END -->
 
 ---
 
