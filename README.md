@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How Born of Bread Turns RPG Combat Into a Unique Gaming Delicacy](https://news.xbox.com/en-us/2023/12/01/born-of-bread-release-date/)
  - [My Baldur&#39;s Gate 3 character creation just leveled up thanks to these three great cosmetic mod upgrades](https://www.pcgamer.com/ive-taken-my-baldurs-gate-3-character-creation-to-an-even-higher-level-thanks-to-these-three-great-cosmetic-mods)
- - [Wordle today: Hint and answer #895 for Friday, December 1](https://www.pcgamer.com/wordle-today-answer-895-december-1)
- - [Furiosa trailer takes Mad Max fans back to the Fury Road](https://www.polygon.com/23981365/furiosa-mad-max-trailer-fury-road-anya-taylor-joy-hemsworth-george-miller)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #895 for Friday, December 1](https://www.pcgamer.com/wordle-today-answer-895-december-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
