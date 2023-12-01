@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Born of Bread Turns RPG Combat Into a Unique Gaming Delicacy](https://news.xbox.com/en-us/2023/12/01/born-of-bread-release-date/)
- - [My Baldur&#39;s Gate 3 character creation just leveled up thanks to these three great cosmetic mod upgrades](https://www.pcgamer.com/ive-taken-my-baldurs-gate-3-character-creation-to-an-even-higher-level-thanks-to-these-three-great-cosmetic-mods)
- - [Wordle today: Hint and answer #895 for Friday, December 1](https://www.pcgamer.com/wordle-today-answer-895-december-1)<!-- GAME:END -->
+ - [You think you have imposter syndrome: Nvidia CEO is worried his trillion dollar company might go bust overnight](https://www.pcgamer.com/you-think-you-have-imposter-syndrome-nvidia-ceo-is-worried-his-trillion-dollar-company-might-go-bust-overnight)
+ - [You&#39;re fine to load up your dusty old save for Baldur&#39;s Gate 3&#39;s new epilogue, especially if you quicksave as much as I do](https://www.pcgamer.com/youre-fine-to-load-up-your-dusty-old-save-for-baldurs-gate-3s-new-epilogue-especially-if-you-quicksave-as-much-as-i-do)
+ - [When does Destiny 2’s Warlord’s Ruin dungeon release?](https://www.polygon.com/destiny-2-guide-walkthrough/2023/11/29/23971547/warlords-ruin-dungeon-release-date-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
