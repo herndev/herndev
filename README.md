@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Best CD Rates for December 2023     - CNET](https://www.cnet.com/personal-finance/best-cd-rates/#ftag=CAD590a51e)
- - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [In firing Altman, OpenAI’s board wanted to keep the element of surprise](https://www.theverge.com/2023/12/1/23984818/openai-microsoft-altman-nadella-firing-newyorker)
+ - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
