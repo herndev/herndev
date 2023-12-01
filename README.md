@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve launches a Steam Link app on Meta Quest 2, 3, and Pro, letting users more easily play VR games from their Steam library wirelessly &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231201/p6#a231201p6)
- - [Telegram opens up voice transcription to all users in latest update](https://www.theverge.com/2023/12/1/23983851/telegram-update-voice-transcription-similar-channels-feature)
- - [You told us: You’d skip YouTube Premium in favor of paying for an ad-blocker](https://www.androidauthority.com/buy-ad-blocker-for-youtube-over-youtube-premium-poll-results-3390509/)<!-- TECH:END -->
+ - [In a letter to two US Senators, Circle denies a report alleging it had a role in financing Hamas and Hezbollah and an &quot;ongoing relationship&quot; with Justin Sun &lpar;Samyuktha Sriram/Unchained Crypto&rpar;](http://www.techmeme.com/231201/p8#a231201p8)
+ - [Apple TV+ may bundle with Paramount+ to cut subscriber losses](https://appleinsider.com/articles/23/12/01/apple-tv-may-bundle-paramount-to-cut-subscriber-losses?utm_medium=rss)
+ - [Opera GX browser jump scared its users, and they are rightfully mad about it](https://www.androidauthority.com/opera-gx-jump-scared-users-3390513/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
