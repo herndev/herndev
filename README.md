@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coming Soon...](http://9gag.com/gag/aOxWPj3)
- - ⏩ [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
- - 👉 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)<!-- MEMES:END -->
+ - 💣 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
+ - ⏩ [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
+ - 👉 [Danish people going through a normal conversation](http://9gag.com/gag/a8qgmdp)<!-- MEMES:END -->
 
 ---
 
