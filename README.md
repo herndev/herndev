@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads could soon launch in Europe, but there may be a catch](https://www.androidauthority.com/threads-launch-europe-catch-3390484/)
- - [Coinbase reports receiving 13,079 law enforcement requests between October 1, 2022 and September 30, 2023, up 6% YoY and 3x since 2020; ~50% were from the US &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/231201/p3#a231201p3)
- - [Uber could soon let you buy an eSIM straight from its app](https://www.androidauthority.com/uber-esim-3390483/)<!-- TECH:END -->
+ - [Valve launches a Steam Link app on Meta Quest 2, 3, and Pro, letting users more easily play VR games from their Steam library wirelessly &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231201/p6#a231201p6)
+ - [Telegram opens up voice transcription to all users in latest update](https://www.theverge.com/2023/12/1/23983851/telegram-update-voice-transcription-similar-channels-feature)
+ - [You told us: You’d skip YouTube Premium in favor of paying for an ad-blocker](https://www.androidauthority.com/buy-ad-blocker-for-youtube-over-youtube-premium-poll-results-3390509/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
