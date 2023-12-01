@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - ⏩ [Disguise level - Mission Impossible](http://9gag.com/gag/aREpzG7)
- - 👉 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)<!-- MEMES:END -->
+ - 💣 [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
+ - ⏩ [Wow](http://9gag.com/gag/aqeExNv)
+ - 👉 [Mind your business?](http://9gag.com/gag/aOxWZLR)<!-- MEMES:END -->
 
 ---
 
