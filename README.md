@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
- - ⏩ [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
- - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
+ - 💣 [Doesn&#39;t look tired at all](http://9gag.com/gag/a9qGOdW)
+ - ⏩ [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 👉 [The chosen one](http://9gag.com/gag/aYV01Rq)<!-- MEMES:END -->
 
 ---
 
