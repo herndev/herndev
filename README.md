@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel Watch 2 is selling for its lowest price of $299.99](https://www.theverge.com/2023/12/4/23987423/google-pixel-watch-amazon-echo-dot-tunic-nintendo-switch-deal-sale)
- - [The Pixel Watch 2 is worth upgrading to for this reason alone](https://www.androidauthority.com/pixel-watch-2-fast-charging-3388049/)
- - [Investigation: Russia- and China-linked hackers targeted UK nuclear site Sellafield with sleeper malware as far back as 2015; the full extent is still unknown &lpar;The Guardian&rpar;](http://www.techmeme.com/231204/p15#a231204p15)<!-- TECH:END -->
+ - [Asking ChatGPT to repeat words &quot;forever&quot; is now against OpenAI&#39;s terms of service, after Google researchers showed that doing so led it to reveal training data &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231204/p16#a231204p16)
+ - [$4.01 Steve Jobs check expected to fetch $25,000 at auction](https://appleinsider.com/articles/23/12/04/401-steve-jobs-check-expected-to-fetch-25000-at-auction?utm_medium=rss)
+ - [It’s not too late to save $200 on the Google Pixel 8 Pro](https://www.androidauthority.com/google-pixel-8-pro-deal-3391292/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
