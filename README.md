@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23andMe admits hackers accessed 6.9 million users’ DNA Relatives data](https://www.theverge.com/2023/12/4/23988050/23andme-hackers-accessed-user-data-confirmed)
- - [Meta says cross-app chatting between Messenger and Instagram will be discontinued in &quot;mid-December 2023&quot;, three years after it announced the feature &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/231204/p23#a231204p23)
- - [Google is starting to roll out Photomoji feature for its Messages app](https://www.androidauthority.com/google-messages-photomoji-3391392/)<!-- TECH:END -->
+ - [Getty lawsuit against Stability AI to go to trial in the UK](https://www.theverge.com/2023/12/4/23988403/getty-lawsuit-stability-ai-copyright-infringement)
+ - [A US appeals court throws out VLSI Technology&#39;s $2.18B award won from Intel in a 2021 patent-infringement case, leading to a new trial for one of VLSI&#39;s patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231204/p24#a231204p24)
+ - [23andMe admits hackers accessed 6.9 million users’ DNA Relatives data](https://www.theverge.com/2023/12/4/23988050/23andme-hackers-accessed-user-data-confirmed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
