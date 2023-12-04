@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Delusional illusion](http://9gag.com/gag/armLze5)
- - ⏩ [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
+ - 💣 [Looks good to me](http://9gag.com/gag/agoe6DK)
+ - ⏩ [Fun](http://9gag.com/gag/a8qgQgV)
+ - 👉 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)<!-- MEMES:END -->
 
 ---
 
