@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Grand Theft Auto 6 announcement graphic has become the new CD Projekt Red apology as brands scramble to snag some hype of their own](https://www.pcgamer.com/the-grand-theft-auto-6-announcement-graphic-has-become-the-new-cd-projekt-red-apology-as-brands-scramble-to-snag-some-hype-of-their-own)
  - [Nvidia&#39;s Ampere GPUs continue to dominate Valve&#39;s monthly hardware survey, though Ada is slowly building in number](https://www.pcgamer.com/nvidias-ampere-gpus-continue-to-dominate-valves-monthly-hardware-survey-though-ada-is-slowly-building-in-number)
- - [Elgato&#39;s range of Stream Decks is handy for more than just streaming](https://www.pcgamer.com/elgatos-range-of-stream-decks-is-handy-for-more-than-just-streaming)
- - [Peter Griffin drinks the expired Fortnite slurp juice in a lore explainer, in case you were worried about Family Guy&#39;s continuity for some reason](https://www.pcgamer.com/peter-griffin-drinks-the-expired-fortnite-slurp-juice-in-a-lore-explainer-in-case-you-were-worried-about-family-guys-continuity-for-some-reason)<!-- GAME:END -->
+ - [Elgato&#39;s range of Stream Decks is handy for more than just streaming](https://www.pcgamer.com/elgatos-range-of-stream-decks-is-handy-for-more-than-just-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
