@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - ⏩ [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
+ - 💣 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - ⏩ [Our very own 9gagger @nopify](http://9gag.com/gag/a6qReY8)
+ - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
 
 ---
 
