@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - ⏩ [Be like Poland.](http://9gag.com/gag/aPgqzmK)
- - 👉 [A Classic](http://9gag.com/gag/amAZyDj)<!-- MEMES:END -->
+ - 💣 [Animal friendship has no limits](http://9gag.com/gag/aKEMXPQ)
+ - ⏩ [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
 
 ---
 
