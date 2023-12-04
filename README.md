@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify to lay off 17 percent of its workforce in latest round of job cuts](https://www.theverge.com/2023/12/4/23987335/spotify-layoffs-17-percent-profitability-cost-cutting)
- - [The best Apple Arcade games to try out](https://www.androidauthority.com/best-apple-arcade-games-3384703/)
- - [Nothing’s iMessage app wasn’t its only security lapse](https://www.androidauthority.com/nothings-cmf-watch-app-security-lapse-3391065/)<!-- TECH:END -->
+ - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
+ - [Pixel Watch 2 problems and how to fix them](https://www.androidauthority.com/google-pixel-watch-2-problems-fixes-3390988/)
+ - [Spotify plans to lay off ~17% of its workforce, or ~1,500 staff, to &quot;rightsize&quot; its costs, after cutting 6% in June, citing slow growth and rising capital costs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231204/p2#a231204p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
