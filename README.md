@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - ⏩ [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 👉 [Yeet the child](http://9gag.com/gag/avQjVeE)<!-- MEMES:END -->
+ - ⏩ [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
+ - 👉 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)<!-- MEMES:END -->
 
 ---
 
