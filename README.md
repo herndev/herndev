@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
- - [Pixel Watch 2 problems and how to fix them](https://www.androidauthority.com/google-pixel-watch-2-problems-fixes-3390988/)
- - [Spotify plans to lay off ~17% of its workforce, or ~1,500 staff, to &quot;rightsize&quot; its costs, after cutting 6% in June, citing slow growth and rising capital costs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231204/p2#a231204p2)<!-- TECH:END -->
+ - [Internal memo: ByteDance plans to release a &quot;bot development platform&quot; in beta by the end of December, to let users create their own AI chatbots &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231204/p4#a231204p4)
+ - [Looking for festive movie suggestions? Google TV’s advent calendar is for you](https://www.androidauthority.com/google-tv-advent-calendar-recommendations-3391141/)
+ - [Kick, a Twitch rival that has generous creator deals, online gambling, and lax moderation, tries to move beyond edgy content amid public and regulatory pressure &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231204/p3#a231204p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
