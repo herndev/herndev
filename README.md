@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Botany Manor, A Narrative Puzzle Adventure Blooming onto Xbox Game Pass Spring 2024](https://news.xbox.com/en-us/2023/12/04/botany-manor-xbox-game-pass-spring-2024/)
- - [The 11 Best Video Game Sequels, According To Kotaku Readers](https://kotaku.com/best-video-game-sequels-street-fighter-2-mass-effect-2-1851067221)
- - [10 Years Ago, An Underrated Zelda Game Paved The Way For Tears Of The Kingdom](https://kotaku.com/zelda-link-between-worlds-10th-anniversary-totk-botw-1851065184)<!-- GAME:END -->
+ - [10 tips for surviving Baldur&#39;s Gate 3&#39;s  Honour Mode](https://www.pcgamer.com/baldurs-gate-3-honour-mode-tips)
+ - [Woot’s 8BitDo Arcade Stick deal has me grappling with my budget](https://www.polygon.com/deals/2023/12/4/23987574/8bitdo-arcade-stick-fighting-game-xbox-pc-deal-sale)
+ - [Reminder: There&#39;s already a Fallout TV series you can watch right now, and it&#39;s pretty darn good](https://www.pcgamer.com/theres-already-a-fallout-tv-series-and-its-pretty-good)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
