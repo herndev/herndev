@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp to let iOS users share pictures and videos in original quality](https://www.theverge.com/2023/12/4/23987378/whatsapp-ios-update-share-pictures-videos-original-quality)
- - [Disinformation scholar Joan Donovan claims in a whistleblower filing that her superiors soured on her as Harvard got the Chan Zuckerberg Initiative&#39;s $500M gift &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231204/p6#a231204p6)
- - [Apple Watch Fall Detection saves hiker after fall in the forest](https://appleinsider.com/articles/23/12/04/apple-watch-fall-detection-saves-hiker-after-fall-in-the-forest?utm_medium=rss)<!-- TECH:END -->
+ - [Where are all the robot trucks?](https://www.theverge.com/23981006/autonomous-truck-semi-driverless-aurora-kodiak-infrastructure)
+ - [Sources: Byju&#39;s founder Byju Raveendran pledged his and his family&#39;s homes as collateral to borrow ~$12M to raise money to pay staff, to fight a cash crunch &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/231204/p9#a231204p9)
+ - [Taiwan Economy Minister Wang Mei-hua says US officials plan to visit Taiwan to explain the new complex China chip rules, a move that &quot;is something Taiwan needs&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231204/p8#a231204p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
