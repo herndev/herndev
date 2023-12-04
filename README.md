@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Furi&#39;s creators dropped a free demake of the first boss fight as a thanks to fans](https://www.pcgamer.com/furis-creators-dropped-a-free-demake-of-the-first-boss-fight-as-a-thanks-to-fans)
  - [Fortnite is adding a Lego-themed survival crafting mode that includes Lego versions of over 1200 pre-existing skins](https://www.pcgamer.com/fortnite-is-adding-a-lego-themed-survival-crafting-mode-that-includes-lego-versions-of-over-1200-pre-existing-skins)
- - [Five new Steam games you probably missed &lpar;December 4, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-4-2023)
- - [Fortnite now lets you assassinate Peter Griffin and steal his powers, but players are miffed about new running animations](https://www.pcgamer.com/fortnite-now-lets-you-assassinate-peter-griffin-and-steal-his-powers-but-players-are-miffed-about-new-running-animations)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;December 4, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-4-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
