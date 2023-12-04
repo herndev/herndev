@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [50,000 GTA Fans Are Staring At A Blank Screen Waiting For Rockstar To Blow Their Minds](https://kotaku.com/gta-6-vi-new-trailer-fans-waiting-youtube-teaser-1851071390)
- - [Halo Season 2: 7 Cool Things Spotted In The First Trailer](https://kotaku.com/halo-season-2-tv-show-cortana-master-chief-1851071364)
- - [What is the gold circle on the map in Fortnite?](https://www.polygon.com/fortnite-guide/23988102/gold-orange-yellow-circle-map-player-chapter-5)<!-- GAME:END -->
+ - [Where to find Peter Griffin in Fortnite Chapter 5 Season 1](https://www.polygon.com/fortnite-guide/23988187/peter-griffin-location-skin-how-to-get)
+ - [The Fallout TV series will include a Vault Boy origin story for some reason](https://www.pcgamer.com/the-fallout-tv-series-will-include-a-vault-boy-origin-story-for-some-reason)
+ - [Rockstar Is Really Good At Making GTA Trailers](https://kotaku.com/gta-6-vi-trailers-teaser-rockstar-vice-city-san-andreas-1851071501)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
