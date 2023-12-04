@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks good to me](http://9gag.com/gag/agoe6DK)
- - ⏩ [Fun](http://9gag.com/gag/a8qgQgV)
- - 👉 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)<!-- MEMES:END -->
+ - 💣 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - ⏩ [Title](http://9gag.com/gag/agoeZwW)
+ - 👉 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)<!-- MEMES:END -->
 
 ---
 
