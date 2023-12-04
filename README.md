@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Peter Griffin in Fortnite Chapter 5 Season 1](https://www.polygon.com/fortnite-guide/23988187/peter-griffin-location-skin-how-to-get)
- - [The Fallout TV series will include a Vault Boy origin story for some reason](https://www.pcgamer.com/the-fallout-tv-series-will-include-a-vault-boy-origin-story-for-some-reason)
- - [Rockstar Is Really Good At Making GTA Trailers](https://kotaku.com/gta-6-vi-trailers-teaser-rockstar-vice-city-san-andreas-1851071501)<!-- GAME:END -->
+ - [Fortnite made Peter Griffin buff — the easy but boring choice](https://www.polygon.com/23988195/fortnite-peter-griffin-family-guy-solid-snake-metal-gear-solid)
+ - [Turns out Doctor Who’s last Doctor is the secret to understanding this one](https://www.polygon.com/23988310/doctor-who-wild-blue-yonder-review)
+ - [Overwatch 2’s new season has Monster Hunter vibes and all-new weapon skins](https://www.polygon.com/23988145/overwatch-2-season-8-start-date-skins-game-modes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
