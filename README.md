@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anger Management](http://9gag.com/gag/a9qGNyL)
- - ⏩ [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 👉 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)<!-- MEMES:END -->
+ - 💣 [Delusional illusion](http://9gag.com/gag/armLze5)
+ - ⏩ [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
 
 ---
 
