@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asking ChatGPT to repeat words &quot;forever&quot; is now against OpenAI&#39;s terms of service, after Google researchers showed that doing so led it to reveal training data &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231204/p16#a231204p16)
- - [$4.01 Steve Jobs check expected to fetch $25,000 at auction](https://appleinsider.com/articles/23/12/04/401-steve-jobs-check-expected-to-fetch-25000-at-auction?utm_medium=rss)
- - [It’s not too late to save $200 on the Google Pixel 8 Pro](https://www.androidauthority.com/google-pixel-8-pro-deal-3391292/)<!-- TECH:END -->
+ - [George Santos Is Now on Cameo](https://www.wired.com/story/george-santos-cameo/)
+ - [Researchers scanned public repos and found 1,681 exposed Hugging Face API tokens belonging to Meta, Microsoft, Google, and others, many with write permissions &lpar;Louis Columbus/VentureBeat&rpar;](http://www.techmeme.com/231204/p18#a231204p18)
+ - [AssemblyAI, which lets companies build AI speech models, raised $50M led by Accel, bringing its total funding to $115M, and says it now has 4K paying customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231204/p17#a231204p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
