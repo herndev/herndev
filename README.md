@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Access Controller Review: A Beautiful Addition for All Gamers](https://www.wired.com/review/sony-access-controller-review/)
- - [Now you can slide into Strava DMs](https://www.theverge.com/2023/12/4/23984181/strava-direct-messaging-fitness-routes)
- - [Building for tomorrow](https://www.theverge.com/23963720/infrastructure-ev-battery-5g-trucks-internet-silicon)<!-- TECH:END -->
+ - [Bending Spoons confirmed it laid off all 22 of Filmic’s original staff](https://www.theverge.com/2023/12/3/23986187/filmic-staff-laid-off-bending-spoons)
+ - [US Lawmakers Want to Use a Powerful Spy Tool on Immigrants and Their Families](https://www.wired.com/story/section-702-immigrant-families-surveillance/)
+ - [New Mac ransomware doesn&#39;t pose much of a threat yet](https://appleinsider.com/articles/23/12/04/new-mac-ransomware-doesnt-pose-much-of-a-threat-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
