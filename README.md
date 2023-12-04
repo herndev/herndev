@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Place your bets: Will GTA 6 release on PC on the same day it does on consoles?](https://www.pcgamer.com/place-your-bets-will-gta-6-release-on-pc-on-the-same-day-it-does-on-consoles)
- - [The best Wizard subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23814037/wizard-class-subclasses-stats-features-proficiencies)
- - [The best Warlock subclass, feats, and build in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23814020/warlock-class-subclasses-stats-features-proficiencies)<!-- GAME:END -->
+ - [Fortnite now lets you assassinate Peter Griffin and steal his powers, but players are miffed about new running animations](https://www.pcgamer.com/fortnite-now-lets-you-assassinate-peter-griffin-and-steal-his-powers-but-players-are-miffed-about-new-running-animations)
+ - [This indie fuses the structure of Hades with the horde smashing action of Vampire Survivors](https://www.pcgamer.com/this-indie-fuses-the-structure-of-hades-with-the-horde-smashing-action-of-vampire-survivors)
+ - [Baldur&#39;s Gate 3&#39;s new epilogue bucks RPG trends to give you a chance for an honest-to-god happy ending, and that just makes more sense than grim ambiguity for its own sake](https://www.pcgamer.com/baldurs-gate-3s-new-epilogue-bucks-rpg-trends-and-gives-you-a-chance-for-an-honest-to-god-happy-ending-and-that-just-makes-more-sense-than-grim-ambiguity-for-its-own-sake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
