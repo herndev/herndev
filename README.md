@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $1,000 card can store a message in DNA](https://www.theverge.com/2023/12/4/23987748/biomemory-card-store-message-dna)
- - [23andMe says hackers stole the ancestry data of 6.9M of its 14M customers, via a breach first disclosed in October 2023, by leveraging access to ~14K accounts &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231204/p19#a231204p19)
- - [Halide plans first iPhone video app &#39;Kino&#39; for February 2024 release](https://appleinsider.com/articles/23/12/04/halide-plans-first-iphone-video-app-kino-for-february-2024-release?utm_medium=rss)<!-- TECH:END -->
+ - [The Apple TV just got its first big native VPN app](https://www.theverge.com/2023/12/4/23987742/expressvpn-apple-tv-vpn-app-tvos-17)
+ - [OpenAI COO thinks AI for business is overhyped](https://www.theverge.com/2023/12/4/23988019/openai-enterprise-hype-chatgpt-lightcap)
+ - [A look at Osaka-based Fuso Chemical, which supplies 90%+ of the silica to polish wafers, sinking deeper into debt by refusing to raise its prices to cover capex &lpar;Bloomberg&rpar;](http://www.techmeme.com/231204/p20#a231204p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
