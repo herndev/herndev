@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Barring unforeseen shocks, the signs point towards a strong 2024 for the global PC market](https://www.pcgamer.com/barring-unforeseen-shocks-the-signs-point-towards-a-strong-2024-for-the-global-pc-market)
  - [Put on your bunny ears and go to bullet hell in indie metroidvania Tevi](https://www.pcgamer.com/put-on-your-bunny-ears-and-go-to-bullet-hell-in-indie-metroidvania-tevi)
- - [Wordle today: Hint and answer #898 for Monday, December 4](https://www.pcgamer.com/wordle-today-answer-898-december-4)
- - [Furi&#39;s creators dropped a free demake of the first boss fight as a thanks to fans](https://www.pcgamer.com/furis-creators-dropped-a-free-demake-of-the-first-boss-fight-as-a-thanks-to-fans)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #898 for Monday, December 4](https://www.pcgamer.com/wordle-today-answer-898-december-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
