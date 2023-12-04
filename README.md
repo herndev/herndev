@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Build Your Perfect Xbox Stocking](https://news.xbox.com/en-us/2023/12/04/build-your-perfect-xbox-stocking/)
- - [The Halo TV show’s second season looks like it’s full of action this time](https://www.polygon.com/23987606/halo-tv-show-season-2-trailer-releaes-date-paramount-plus)
- - [After a turbulent 3 years, CD Projekt is done making Cyberpunk 2077](https://www.polygon.com/23987649/cyberpunk-2077-patch-2-1-last-update)<!-- GAME:END -->
+ - [Have a Merry Racing Season in Forza Horizon 5](https://forza.net/news/forza-horizon-5-Winter-Wonderland#new_tab)
+ - [Payday studio Starbreeze is working on a co-op multiplayer D&amp;D game, and the more I think about it the more it makes sense](https://www.pcgamer.com/payday-studio-starbreeze-is-working-on-a-co-op-multiplayer-dandd-game-and-the-more-i-think-about-it-the-more-it-makes-sense)
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.231130-2200&rpar;](https://news.xbox.com/en-us/2023/12/04/xbox-insider-release-notes-alpha-2402-231130-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
