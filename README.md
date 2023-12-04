@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: Dreadwolf video teases new lands &#39;you&#39;ve never heard of before,&#39; full reveal coming next year](https://www.pcgamer.com/dragon-age-dreadwolf-video-teases-new-lands-youve-never-heard-of-before-full-reveal-coming-next-year)
- - [Cross Blitz delivers charming Hearthstone-lite fun for the single-player crowd](https://www.pcgamer.com/cross-blitz-delivers-charming-hearthstone-lite-fun-for-the-single-player-crowd)
- - [Phil Spencer Wants You To Play Starfield For A Decade](https://kotaku.com/starfield-shattered-space-dlc-phil-spencer-skyrim-1851071038)<!-- GAME:END -->
+ - [50,000 GTA Fans Are Staring At A Blank Screen Waiting For Rockstar To Blow Their Minds](https://kotaku.com/gta-6-vi-new-trailer-fans-waiting-youtube-teaser-1851071390)
+ - [Halo Season 2: 7 Cool Things Spotted In The First Trailer](https://kotaku.com/halo-season-2-tv-show-cortana-master-chief-1851071364)
+ - [What is the gold circle on the map in Fortnite?](https://www.polygon.com/fortnite-guide/23988102/gold-orange-yellow-circle-map-player-chapter-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
