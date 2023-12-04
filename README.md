@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [In firing Altman, OpenAI’s board wanted to keep the element of surprise](https://www.theverge.com/2023/12/1/23984818/openai-microsoft-altman-nadella-firing-newyorker)
- - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-4/)<!-- TECH:END -->
+ - [Bitcoin trades above $40K for the first time since May 2022 as it extends its 2023 rebound &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/231203/p9#a231203p9)
+ - [Transcription on Mac: when to use Siri&#39;s dictation and when to use AI options](https://appleinsider.com/inside/siri/tips/transcription-on-mac-when-to-use-siris-dictation-and-when-to-use-ai-options?utm_medium=rss)
+ - [Best VPN for Gaming in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
