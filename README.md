@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Withers wasn&#39;t joking—ruining the vibe in Baldur&#39;s Gate 3&#39;s new epilogue is punishable by death](https://www.pcgamer.com/withers-wasnt-jokingruining-the-vibe-in-baldurs-gate-3s-new-epilogue-is-punishable-by-death)
- - [How to link LEGO Insider and Fortnite accounts for a free LEGO Fortnite skin](https://www.polygon.com/fortnite-guide/23987403/how-to-link-lego-insider-fortnite-accounts-epic-games-explorer-emilie)
- - [PSA: You can watch Fortnite’s ‘The Big Bang’ event on YouTube if you missed it](https://www.polygon.com/fortnite/23987605/fortnite-big-bang-event-eminem-lego-watch-recording)<!-- GAME:END -->
+ - [Build Your Perfect Xbox Stocking](https://news.xbox.com/en-us/2023/12/04/build-your-perfect-xbox-stocking/)
+ - [The Halo TV show’s second season looks like it’s full of action this time](https://www.polygon.com/23987606/halo-tv-show-season-2-trailer-releaes-date-paramount-plus)
+ - [After a turbulent 3 years, CD Projekt is done making Cyberpunk 2077](https://www.polygon.com/23987649/cyberpunk-2077-patch-2-1-last-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
