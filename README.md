@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [George Santos Is Now on Cameo](https://www.wired.com/story/george-santos-cameo/)
- - [Researchers scanned public repos and found 1,681 exposed Hugging Face API tokens belonging to Meta, Microsoft, Google, and others, many with write permissions &lpar;Louis Columbus/VentureBeat&rpar;](http://www.techmeme.com/231204/p18#a231204p18)
- - [AssemblyAI, which lets companies build AI speech models, raised $50M led by Accel, bringing its total funding to $115M, and says it now has 4K paying customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231204/p17#a231204p17)<!-- TECH:END -->
+ - [This $1,000 card can store a message in DNA](https://www.theverge.com/2023/12/4/23987748/biomemory-card-store-message-dna)
+ - [23andMe says hackers stole the ancestry data of 6.9M of its 14M customers, via a breach first disclosed in October 2023, by leveraging access to ~14K accounts &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231204/p19#a231204p19)
+ - [Halide plans first iPhone video app &#39;Kino&#39; for February 2024 release](https://appleinsider.com/articles/23/12/04/halide-plans-first-iphone-video-app-kino-for-february-2024-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
