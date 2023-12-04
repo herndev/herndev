@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bending Spoons confirmed it laid off all 22 of Filmic’s original staff](https://www.theverge.com/2023/12/3/23986187/filmic-staff-laid-off-bending-spoons)
- - [US Lawmakers Want to Use a Powerful Spy Tool on Immigrants and Their Families](https://www.wired.com/story/section-702-immigrant-families-surveillance/)
- - [New Mac ransomware doesn&#39;t pose much of a threat yet](https://appleinsider.com/articles/23/12/04/new-mac-ransomware-doesnt-pose-much-of-a-threat-yet?utm_medium=rss)<!-- TECH:END -->
+ - [The Google Pixel Watch 2 is selling for its lowest price of $299.99](https://www.theverge.com/2023/12/4/23987423/google-pixel-watch-amazon-echo-dot-tunic-nintendo-switch-deal-sale)
+ - [The Pixel Watch 2 is worth upgrading to for this reason alone](https://www.androidauthority.com/pixel-watch-2-fast-charging-3388049/)
+ - [Investigation: Russia- and China-linked hackers targeted UK nuclear site Sellafield with sleeper malware as far back as 2015; the full extent is still unknown &lpar;The Guardian&rpar;](http://www.techmeme.com/231204/p15#a231204p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
