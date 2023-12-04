@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blackwashing](http://9gag.com/gag/aBdeNbD)
- - ⏩ [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
- - 👉 [Funny guy](http://9gag.com/gag/a8qgvwQ)<!-- MEMES:END -->
+ - 💣 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - ⏩ [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
+ - 👉 [When the problem asks what is the problem](http://9gag.com/gag/aMELNzG)<!-- MEMES:END -->
 
 ---
 
