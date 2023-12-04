@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: ByteDance plans to release a &quot;bot development platform&quot; in beta by the end of December, to let users create their own AI chatbots &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231204/p4#a231204p4)
- - [Looking for festive movie suggestions? Google TV’s advent calendar is for you](https://www.androidauthority.com/google-tv-advent-calendar-recommendations-3391141/)
- - [Kick, a Twitch rival that has generous creator deals, online gambling, and lax moderation, tries to move beyond edgy content amid public and regulatory pressure &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231204/p3#a231204p3)<!-- TECH:END -->
+ - [WhatsApp to let iOS users share pictures and videos in original quality](https://www.theverge.com/2023/12/4/23987378/whatsapp-ios-update-share-pictures-videos-original-quality)
+ - [Disinformation scholar Joan Donovan claims in a whistleblower filing that her superiors soured on her as Harvard got the Chan Zuckerberg Initiative&#39;s $500M gift &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231204/p6#a231204p6)
+ - [Apple Watch Fall Detection saves hiker after fall in the forest](https://appleinsider.com/articles/23/12/04/apple-watch-fall-detection-saves-hiker-after-fall-in-the-forest?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
