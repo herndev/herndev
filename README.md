@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - ⏩ [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
- - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
+ - 💣 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - ⏩ [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
+ - 👉 [Facial treatment](http://9gag.com/gag/a3ZODV3)<!-- MEMES:END -->
 
 ---
 
