@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Have a Merry Racing Season in Forza Horizon 5](https://forza.net/news/forza-horizon-5-Winter-Wonderland#new_tab)
- - [Payday studio Starbreeze is working on a co-op multiplayer D&amp;D game, and the more I think about it the more it makes sense](https://www.pcgamer.com/payday-studio-starbreeze-is-working-on-a-co-op-multiplayer-dandd-game-and-the-more-i-think-about-it-the-more-it-makes-sense)
- - [Xbox Insider Release Notes – Alpha &lpar;2402.231130-2200&rpar;](https://news.xbox.com/en-us/2023/12/04/xbox-insider-release-notes-alpha-2402-231130-2200/)<!-- GAME:END -->
+ - [Dragon Age: Dreadwolf video teases new lands &#39;you&#39;ve never heard of before,&#39; full reveal coming next year](https://www.pcgamer.com/dragon-age-dreadwolf-video-teases-new-lands-youve-never-heard-of-before-full-reveal-coming-next-year)
+ - [Cross Blitz delivers charming Hearthstone-lite fun for the single-player crowd](https://www.pcgamer.com/cross-blitz-delivers-charming-hearthstone-lite-fun-for-the-single-player-crowd)
+ - [Phil Spencer Wants You To Play Starfield For A Decade](https://kotaku.com/starfield-shattered-space-dlc-phil-spencer-skyrim-1851071038)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
