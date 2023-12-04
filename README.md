@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Milkies](http://9gag.com/gag/a8qgQO1)
- - ⏩ [Title](http://9gag.com/gag/agoeZwW)
- - 👉 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)<!-- MEMES:END -->
+ - 💣 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - ⏩ [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 👉 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)<!-- MEMES:END -->
 
 ---
 
