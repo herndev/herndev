@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
- - ⏩ [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
+ - 💣 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
+ - ⏩ [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
+ - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
 
 ---
 
