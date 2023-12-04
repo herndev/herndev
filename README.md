@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doesn&#39;t look tired at all](http://9gag.com/gag/a9qGOdW)
- - ⏩ [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 👉 [The chosen one](http://9gag.com/gag/aYV01Rq)<!-- MEMES:END -->
+ - 💣 [Why are brown people making absolutely every show about themself? It&#39;s making my angry at this point.](http://9gag.com/gag/aKEMnqN)
+ - ⏩ [All you need to do is drag them to your cave. Simpler times.](http://9gag.com/gag/agoe66w)
+ - 👉 [Just saying tho...](http://9gag.com/gag/a4o0mQy)<!-- MEMES:END -->
 
 ---
 
