@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite now lets you assassinate Peter Griffin and steal his powers, but players are miffed about new running animations](https://www.pcgamer.com/fortnite-now-lets-you-assassinate-peter-griffin-and-steal-his-powers-but-players-are-miffed-about-new-running-animations)
- - [This indie fuses the structure of Hades with the horde smashing action of Vampire Survivors](https://www.pcgamer.com/this-indie-fuses-the-structure-of-hades-with-the-horde-smashing-action-of-vampire-survivors)
- - [Baldur&#39;s Gate 3&#39;s new epilogue bucks RPG trends to give you a chance for an honest-to-god happy ending, and that just makes more sense than grim ambiguity for its own sake](https://www.pcgamer.com/baldurs-gate-3s-new-epilogue-bucks-rpg-trends-and-gives-you-a-chance-for-an-honest-to-god-happy-ending-and-that-just-makes-more-sense-than-grim-ambiguity-for-its-own-sake)<!-- GAME:END -->
+ - [Fortnite is adding a Lego-themed survival crafting mode that includes Lego versions of over 1200 pre-existing skins](https://www.pcgamer.com/fortnite-is-adding-a-lego-themed-survival-crafting-mode-that-includes-lego-versions-of-over-1200-pre-existing-skins)
+ - [Five new Steam games you probably missed &lpar;December 4, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-4-2023)
+ - [Fortnite now lets you assassinate Peter Griffin and steal his powers, but players are miffed about new running animations](https://www.pcgamer.com/fortnite-now-lets-you-assassinate-peter-griffin-and-steal-his-powers-but-players-are-miffed-about-new-running-animations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
