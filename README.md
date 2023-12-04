@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - ⏩ [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
- - 👉 [When the problem asks what is the problem](http://9gag.com/gag/aMELNzG)<!-- MEMES:END -->
+ - 💣 [Milkies](http://9gag.com/gag/a8qgQO1)
+ - ⏩ [Title](http://9gag.com/gag/agoeZwW)
+ - 👉 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)<!-- MEMES:END -->
 
 ---
 
