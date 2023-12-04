@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Animal friendship has no limits](http://9gag.com/gag/aKEMXPQ)
- - ⏩ [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
+ - 💣 [Millennials\u2019 greatest achievement](http://9gag.com/gag/a8qgN56)
+ - ⏩ [Lol](http://9gag.com/gag/a9qGe3o)
+ - 👉 [Patience lately.](http://9gag.com/gag/ap9MwKn)<!-- MEMES:END -->
 
 ---
 
