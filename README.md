@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 💣 [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
  - ⏩ [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 👉 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)<!-- MEMES:END -->
+ - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
 
 ---
 
