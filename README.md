@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is removing the ability to see phone notifications on your Quest](https://www.theverge.com/2023/12/4/23988161/meta-quest-update-v60-remove-smartphone-notifications)
- - [Sources: Mistral AI is in the final stages of raising &amp;euro;450M in a round valuing the OpenAI rival around $2B; a16z is in talks to provide &amp;euro;200M in funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/231204/p22#a231204p22)
- - [Generative AI video startup Runway ML partners with Getty Images on a new AI video model available in the coming months for use in Hollywood and advertising &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/231204/p21#a231204p21)<!-- TECH:END -->
+ - [23andMe admits hackers accessed 6.9 million users’ DNA Relatives data](https://www.theverge.com/2023/12/4/23988050/23andme-hackers-accessed-user-data-confirmed)
+ - [Meta says cross-app chatting between Messenger and Instagram will be discontinued in &quot;mid-December 2023&quot;, three years after it announced the feature &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/231204/p23#a231204p23)
+ - [Google is starting to roll out Photomoji feature for its Messages app](https://www.androidauthority.com/google-messages-photomoji-3391392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
