@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - ⏩ [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
+ - 💣 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
+ - ⏩ [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
 
 ---
 
