@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s next ‘Ultra’ device with AI smarts could launch this month, specs leak](https://www.androidauthority.com/samsung-galaxy-book-4-series-launch-specs-ai-features-3391061/)
- - [Spotify CEO Daniel Ek says the company is laying off about 17% of its workforce due to slow economic growth and more expensive capital &lpar;Daniel Ek/Spotify&rpar;](http://www.techmeme.com/231204/p1#a231204p1)
- - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
+ - [Spotify to lay off 17 percent of its workforce in latest round of job cuts](https://www.theverge.com/2023/12/4/23987335/spotify-layoffs-17-percent-profitability-cost-cutting)
+ - [The best Apple Arcade games to try out](https://www.androidauthority.com/best-apple-arcade-games-3384703/)
+ - [Nothing’s iMessage app wasn’t its only security lapse](https://www.androidauthority.com/nothings-cmf-watch-app-security-lapse-3391065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
