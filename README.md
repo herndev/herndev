@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where are all the robot trucks?](https://www.theverge.com/23981006/autonomous-truck-semi-driverless-aurora-kodiak-infrastructure)
- - [Sources: Byju&#39;s founder Byju Raveendran pledged his and his family&#39;s homes as collateral to borrow ~$12M to raise money to pay staff, to fight a cash crunch &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/231204/p9#a231204p9)
- - [Taiwan Economy Minister Wang Mei-hua says US officials plan to visit Taiwan to explain the new complex China chip rules, a move that &quot;is something Taiwan needs&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231204/p8#a231204p8)<!-- TECH:END -->
+ - [Sony Access Controller Review: A Beautiful Addition for All Gamers](https://www.wired.com/review/sony-access-controller-review/)
+ - [Now you can slide into Strava DMs](https://www.theverge.com/2023/12/4/23984181/strava-direct-messaging-fitness-routes)
+ - [Building for tomorrow](https://www.theverge.com/23963720/infrastructure-ev-battery-5g-trucks-internet-silicon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
