@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Grand Theft Auto 6 announcement graphic has become the new CD Projekt Red apology as brands scramble to snag some hype of their own](https://www.pcgamer.com/the-grand-theft-auto-6-announcement-graphic-has-become-the-new-cd-projekt-red-apology-as-brands-scramble-to-snag-some-hype-of-their-own)
- - [Nvidia&#39;s Ampere GPUs continue to dominate Valve&#39;s monthly hardware survey, though Ada is slowly building in number](https://www.pcgamer.com/nvidias-ampere-gpus-continue-to-dominate-valves-monthly-hardware-survey-though-ada-is-slowly-building-in-number)
- - [Elgato&#39;s range of Stream Decks is handy for more than just streaming](https://www.pcgamer.com/elgatos-range-of-stream-decks-is-handy-for-more-than-just-streaming)<!-- GAME:END -->
+ - [Introducing Botany Manor, A Narrative Puzzle Adventure Blooming onto Xbox Game Pass Spring 2024](https://news.xbox.com/en-us/2023/12/04/botany-manor-xbox-game-pass-spring-2024/)
+ - [The 11 Best Video Game Sequels, According To Kotaku Readers](https://kotaku.com/best-video-game-sequels-street-fighter-2-mass-effect-2-1851067221)
+ - [10 Years Ago, An Underrated Zelda Game Paved The Way For Tears Of The Kingdom](https://kotaku.com/zelda-link-between-worlds-10th-anniversary-totk-botw-1851065184)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
