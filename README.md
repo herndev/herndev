@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12 IP rating revealed: An improvement, but is it, really?](https://www.androidauthority.com/oneplus-12-ip-rating-3390123/)
- - [Simple Mobile Tools sold off to Israeli publisher ZipoApps. All apps now marked as containing ads.](https://www.androidauthority.com/simple-mobile-tools-acquisition-3391041/)
- - [Galaxy A55 leak shows off Samsung’s next mid-range superstar in all its glory](https://www.androidauthority.com/samsung-galaxy-a55-design-leak-3391034/)<!-- TECH:END -->
+ - [Samsung’s next ‘Ultra’ device with AI smarts could launch this month, specs leak](https://www.androidauthority.com/samsung-galaxy-book-4-series-launch-specs-ai-features-3391061/)
+ - [Spotify CEO Daniel Ek says the company is laying off about 17% of its workforce due to slow economic growth and more expensive capital &lpar;Daniel Ek/Spotify&rpar;](http://www.techmeme.com/231204/p1#a231204p1)
+ - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
