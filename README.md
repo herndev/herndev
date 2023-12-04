@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 tips for surviving Baldur&#39;s Gate 3&#39;s  Honour Mode](https://www.pcgamer.com/baldurs-gate-3-honour-mode-tips)
- - [Woot’s 8BitDo Arcade Stick deal has me grappling with my budget](https://www.polygon.com/deals/2023/12/4/23987574/8bitdo-arcade-stick-fighting-game-xbox-pc-deal-sale)
- - [Reminder: There&#39;s already a Fallout TV series you can watch right now, and it&#39;s pretty darn good](https://www.pcgamer.com/theres-already-a-fallout-tv-series-and-its-pretty-good)<!-- GAME:END -->
+ - [Withers wasn&#39;t joking—ruining the vibe in Baldur&#39;s Gate 3&#39;s new epilogue is punishable by death](https://www.pcgamer.com/withers-wasnt-jokingruining-the-vibe-in-baldurs-gate-3s-new-epilogue-is-punishable-by-death)
+ - [How to link LEGO Insider and Fortnite accounts for a free LEGO Fortnite skin](https://www.polygon.com/fortnite-guide/23987403/how-to-link-lego-insider-fortnite-accounts-epic-games-explorer-emilie)
+ - [PSA: You can watch Fortnite’s ‘The Big Bang’ event on YouTube if you missed it](https://www.polygon.com/fortnite/23987605/fortnite-big-bang-event-eminem-lego-watch-recording)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
