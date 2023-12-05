@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
- - ⏩ [Hehe](http://9gag.com/gag/aQEj5PK)
- - 👉 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)<!-- MEMES:END -->
+ - 💣 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
+ - ⏩ [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 👉 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)<!-- MEMES:END -->
 
 ---
 
