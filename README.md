@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what intentionally crashing a plane for YouTube clicks gets you](https://www.theverge.com/2023/12/5/23988937/youtuber-sponsored-plane-crash-six-month-prison-sentence)
- - [Interviews with 80+ sources describe how OpenAI releasing ChatGPT a year ago triggered a scramble by Google, Meta, and the rest of Silicon Valley to catch up &lpar;New York Times&rpar;](http://www.techmeme.com/231205/p13#a231205p13)
- - [The battle to stop broadband discrimination has only just begun](https://www.theverge.com/23983055/fcc-broadband-access-digital-discrimination-redlining-rules-enforcement)<!-- TECH:END -->
+ - [Get a lifetime Babbel language learning subscription for $149.97 this week only](https://appleinsider.com/articles/23/12/05/get-a-lifetime-babbel-language-learning-subscription-for-14997?utm_medium=rss)
+ - [Israeli data privacy and governance startup Mine, which counts Reddit and HelloFresh as clients, raised a $30M Series B led by Battery Ventures and PayPal &lpar;Globes Online&rpar;](http://www.techmeme.com/231205/p15#a231205p15)
+ - [OnePlus launches the OnePlus 12 in China, offering up to 24GB of RAM and 1TB of storage, 100W wired charging, for ~$606, ahead of an &quot;early 2024&quot; global launch &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231205/p14#a231205p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
