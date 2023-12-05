@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite made Peter Griffin buff — the easy but boring choice](https://www.polygon.com/23988195/fortnite-peter-griffin-family-guy-solid-snake-metal-gear-solid)
- - [Turns out Doctor Who’s last Doctor is the secret to understanding this one](https://www.polygon.com/23988310/doctor-who-wild-blue-yonder-review)
- - [Overwatch 2’s new season has Monster Hunter vibes and all-new weapon skins](https://www.polygon.com/23988145/overwatch-2-season-8-start-date-skins-game-modes)<!-- GAME:END -->
+ - [Where to find Weapon Cases in Fortnite Chapter 5 Season 1](https://www.polygon.com/fortnite-guide/23988335/weapon-cases-locations-where-to-find)
+ - [What time does the GTA 6 trailer release?](https://www.polygon.com/gta-6-guide/23983993/grand-theft-auto-6-trailer-release-time-date-when-coming-out-9-am-et)
+ - [The first Grand Theft Auto 6 trailer dropped early, it&#39;s coming in 2025](https://www.pcgamer.com/gta-6-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
