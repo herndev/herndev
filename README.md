@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first GTA VI trailer is here](https://www.theverge.com/2023/12/4/23988446/gta-vi-trailer-leaked-vice-city)
- - [Spotify cancels industry-favorite podcast Heavyweight](https://www.theverge.com/2023/12/4/23988438/spotify-cancels-gimlet-podcast-heavyweight-layoff)
- - [Rockstar releases the first trailer of Grand Theft Auto VI, set in Miami, and says the game will be released in 2025 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231204/p27#a231204p27)<!-- TECH:END -->
+ - [Ofcom launches a consultation on draft guidelines on how porn sites should lock out underage users, including having a bank or mobile network confirm users&#39; age &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231204/p28#a231204p28)
+ - [The &#39;Grand Theft Auto VI&#39; Trailer Is Here. And It’s Already Causing Mayhem](https://www.wired.com/story/grand-theft-auto-6-trailer/)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
