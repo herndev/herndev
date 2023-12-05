@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Glamorous New Expedition Awaits in Fallout 76: Atlantic City – Boardwalk Paradise](https://fallout.bethesda.net/en/article/2VYdp0JUeNKi1ut4jxQgEO/fallout-76-atlantic-city-boardwalk-paradise-release)
- - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
- - [GTA VI Will Be The Most Florida-Ass Game Ever](https://kotaku.com/gta-6-vi-setting-florida-leonida-miami-vice-city-1851074199)<!-- GAME:END -->
+ - [Halo Infinite – Firefight: King of the Hill Preview](https://www.halowaypoint.com/news/firefight-king-of-the-hill-preview#new_tab)
+ - [Among Us VR launches on PlayStation VR2 today](https://blog.playstation.com/2023/12/05/among-us-vr-launches-on-playstation-vr2-today/)
+ - [A Glamorous New Expedition Awaits in Fallout 76: Atlantic City – Boardwalk Paradise](https://fallout.bethesda.net/en/article/2VYdp0JUeNKi1ut4jxQgEO/fallout-76-atlantic-city-boardwalk-paradise-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
