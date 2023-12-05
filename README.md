@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s new free introductory adventure is a cute, functional taster session that lacks teeth—and I&#39;m worried it teaches some bad habits](https://www.pcgamer.com/dandds-new-free-introductory-adventure-is-a-cute-functional-taster-session-that-lacks-teethand-im-worried-it-teaches-some-bad-habits)
- - [Should you stand or sit at your PC? The difficult questions of a gaming desk makeover](https://www.pcgamer.com/should-you-stand-or-sit-at-your-pc-the-difficult-questions-of-a-gaming-desk-makeover)
- - [The Last Of Us Part II’s Roguelike Mode Is Resident Evil’s Mercenaries With Clickers](https://kotaku.com/last-of-us-part-2-remastered-roguelike-no-return-ps5-1851073641)<!-- GAME:END -->
+ - [Reclaim The Wilderness in Against The Storm – A Roguelite City Builder Coming to PC Game Pass](https://news.xbox.com/en-us/2023/12/05/against-the-storm-roguelite-city-builder-pc-game-pass/)
+ - [Watch The Game Awards with us](https://www.polygon.com/videos/2023/12/5/23984514/game-awards-2023-twitch-stream-polygon)
+ - [So we&#39;re not getting GTA 6 on PC until 2026 at the very earliest, right?](https://www.pcgamer.com/so-were-not-getting-gta-6-on-pc-until-2026-at-the-very-earliest-right)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
