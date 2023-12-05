@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Tandem Showerhead Turns Your Bathroom Into a Spa](https://www.wired.com/story/boona-showerhead-rave/)
- - [Uber launches ‘Store Pickup’ feature for those last-minute holiday shoppers](https://www.theverge.com/2023/12/5/23988435/uber-connect-gift-delivery-package-rules)
- - [Ford and Xcel Energy will build 30,000 EV charging ports for fleet businesses](https://www.theverge.com/2023/12/5/23988078/ford-and-xcel-energy-will-build-30000-ev-charging-ports-for-fleet-businesses)<!-- TECH:END -->
+ - [Here’s what intentionally crashing a plane for YouTube clicks gets you](https://www.theverge.com/2023/12/5/23988937/youtuber-sponsored-plane-crash-six-month-prison-sentence)
+ - [Interviews with 80+ sources describe how OpenAI releasing ChatGPT a year ago triggered a scramble by Google, Meta, and the rest of Silicon Valley to catch up &lpar;New York Times&rpar;](http://www.techmeme.com/231205/p13#a231205p13)
+ - [The battle to stop broadband discrimination has only just begun](https://www.theverge.com/23983055/fcc-broadband-access-digital-discrimination-redlining-rules-enforcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
