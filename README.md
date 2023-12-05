@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [December’s Android Security Bulletin is here, but Pixels don’t have an update yet](https://www.androidauthority.com/december-2023-android-security-bulletin-3391534/)
  - [Meta, IBM, and 50+ other companies and organizations form AI Alliance, a coalition dedicated to work on open source AI including to share tech and reduce risks &lpar;Alexandra Barinka/Bloomberg&rpar;](http://www.techmeme.com/231205/p1#a231205p1)
- - [PlayStation account permanently suspended without warning? You’re one of many facing the problem](https://www.androidauthority.com/playstation-account-permanently-suspended-3391507/)
- - [Premier League Soccer Livestream: How to Watch Luton vs. Arsenal From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-luton-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PlayStation account permanently suspended without warning? You’re one of many facing the problem](https://www.androidauthority.com/playstation-account-permanently-suspended-3391507/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
