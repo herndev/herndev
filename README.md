@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - ⏩ [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 👉 [Apologise bushman.](http://9gag.com/gag/aoK7732)<!-- MEMES:END -->
+ - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - ⏩ [Milkies](http://9gag.com/gag/a8qgQO1)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 ---
 
