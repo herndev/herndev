@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 Things to Do In Night City With Cyberpunk 2077: Ultimate Edition](https://news.xbox.com/en-us/2023/12/05/cyberpunk-2077-ultimate-edition-exclusive/)
  - [Nvidia&#39;s RTX technologies are now supported by 500 games and apps, with more to come](https://www.pcgamer.com/nvidias-rtx-technologies-are-now-supported-by-500-games-and-apps-with-more-to-come)
- - [Can Feebas be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23987678/can-feebas-be-shiny-milotic)
- - [GTA 6 reveal trailer scene-by-scene breakdown: dogs, dadbods and social agitation](https://www.pcgamer.com/gta-6-reveal-trailer-scene-by-scene-breakdown-dogs-dadbods-and-social-agitation)<!-- GAME:END -->
+ - [Can Feebas be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23987678/can-feebas-be-shiny-milotic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
