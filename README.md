@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron’s latest keyboard comes with magnetic, analog Hall effect switches](https://www.theverge.com/2023/12/5/23989237/keychron-q1-he-hall-effect-analog-switches-price-release-date-specs-features-mechanical-keyboard)
- - [Amazon tells the UK CMA in a letter that Microsoft uses business practices that restrict customer choice in cloud computing, after a similar complaint by Google &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231205/p19#a231205p19)
- - [Withings launches a sleek, luxury version of its hybrid smartwatch](https://www.androidauthority.com/withings-launches-luxury-smartwatch-3391683/)<!-- TECH:END -->
+ - [Microsoft to offer consumers paid Windows 10 security updates for the first time](https://www.theverge.com/2023/12/5/23988896/microsoft-windows-10-extended-security-updates-consumers-paid)
+ - [Audio has vanished from Instagram’s oldest videos](https://www.theverge.com/2023/12/5/23987784/instagram-old-videos-missing-audio)
+ - [Motorola Razr 2023 review: not enough of a good thing](https://www.theverge.com/23988433/motorola-razr-2023-review-flip-phone-camera-battery-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
