@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s no technical reason Rockstar can give for why a PC version of GTA 6 isn&#39;t arriving with the console release](https://www.pcgamer.com/theres-no-technical-reason-rockstar-can-give-for-why-a-pc-version-of-gta-6-isnt-arriving-with-the-console-release)
- - [The Grand Theft Auto 6 trailer has smashed through 60 million YouTube views in 12 hours](https://www.pcgamer.com/the-grand-theft-auto-6-trailer-has-smashed-through-60-million-youtube-views-in-12-hours)
- - [Cut down on cables in your car with the Motorola MA1 Android Auto Adapter](https://www.pcgamer.com/cut-down-on-cables-in-your-car-with-the-motorola-ma1-android-auto-adapter)<!-- GAME:END -->
+ - [GTA 6 trailer sends fans into frenzy, earns game dev praise, and leads people to ponder their inevitable demise: &#39;What if we die before GTA 6 releases in 2025?&#39;](https://www.pcgamer.com/gta-6-trailer-sends-fans-into-frenzy-earns-game-dev-praise-and-leads-people-to-ponder-their-inevitable-demise-what-if-we-die-before-gta-6-releases-in-2025)
+ - [Cyberpunk 2077&#39;s surprise 2.1 update aims to make Adam Smasher live up to his name, adds new racing missions, and gives love interests a life with you after their questlines](https://www.pcgamer.com/cyberpunk-2077s-surprise-21-update-aims-to-make-adam-smasher-live-up-to-his-name-adds-new-racing-missions-and-gives-love-interests-a-life-with-you-after-their-questlines)
+ - [While we wait on a GTA 6 PC release, these are the PC-specific features we want to see when it does finally appear](https://www.pcgamer.com/while-we-wait-on-a-gta-6-pc-release-these-are-the-pc-specific-features-we-want-to-see-when-it-does-finally-appear)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
