@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
- - ⏩ [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 👉 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)<!-- MEMES:END -->
+ - 💣 [Survival monday is here](http://9gag.com/gag/aBdeMvx)
+ - ⏩ [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
+ - 👉 [When dream comes true](http://9gag.com/gag/aMELLO1)<!-- MEMES:END -->
 
 ---
 
