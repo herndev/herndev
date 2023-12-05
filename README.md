@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Reclaim The Wilderness in Against The Storm – A Roguelite City Builder Coming to PC Game Pass](https://news.xbox.com/en-us/2023/12/05/against-the-storm-roguelite-city-builder-pc-game-pass/)
- - [Watch The Game Awards with us](https://www.polygon.com/videos/2023/12/5/23984514/game-awards-2023-twitch-stream-polygon)
- - [So we&#39;re not getting GTA 6 on PC until 2026 at the very earliest, right?](https://www.pcgamer.com/so-were-not-getting-gta-6-on-pc-until-2026-at-the-very-earliest-right)<!-- GAME:END -->
+ - [A Glamorous New Expedition Awaits in Fallout 76: Atlantic City – Boardwalk Paradise](https://fallout.bethesda.net/en/article/2VYdp0JUeNKi1ut4jxQgEO/fallout-76-atlantic-city-boardwalk-paradise-release)
+ - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
+ - [GTA VI Will Be The Most Florida-Ass Game Ever](https://kotaku.com/gta-6-vi-setting-florida-leonida-miami-vice-city-1851074199)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
