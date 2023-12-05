@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
- - ⏩ [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
- - 👉 [Facial treatment](http://9gag.com/gag/a3ZODV3)<!-- MEMES:END -->
+ - 💣 [`Parkour`](http://9gag.com/gag/aQEjb1w)
+ - ⏩ [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 👉 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)<!-- MEMES:END -->
 
 ---
 
