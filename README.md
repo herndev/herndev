@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17.2 RC brings Qi2 wireless charging support to iPhone 13 and iPhone 14-series devices; Apple hasn&#39;t said if the phones will charge at 15W on Qi2 chargers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231205/p28#a231205p28)
- - [The Looking Glass Go is a folding holographic display that fits in your pocket](https://www.theverge.com/2023/12/5/23989675/looking-glass-go-holographic-display-kickstarter)
- - [Elon Musk&#39;s xAI has filed with the SEC to raise up to $1B in an equity offering, saying it has raised nearly $135M from four investors since November 29 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231205/p27#a231205p27)<!-- TECH:END -->
+ - [Original iPhone SE &amp; second-generation 12.9-inch iPad Pro now vintage](https://appleinsider.com/articles/23/12/05/original-iphone-se-second-generation-129-inch-ipad-pro-now-vintage?utm_medium=rss)
+ - [Source: VC firm OpenView has laid off most of its staff and will not make new investments, after the firm raised $570M in March, 30% shy of its $800M target &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/231205/p31#a231205p31)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
