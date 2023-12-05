@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Camera’s latest update adds new Pixel 8-exclusive Night Sight features](https://www.androidauthority.com/pixel-camera-v92-latest-update-3391555/)
- - [OnePlus 12 launched: Specs, price, features, availability, and more](https://www.androidauthority.com/oneplus-12-3325848/)
- - [OnePlus 12 global launch window confirmed, expect other products too](https://www.androidauthority.com/oneplus-12-global-launch-details-3391514/)<!-- TECH:END -->
+ - [OnePlus 12 vs OnePlus 11: Should you upgrade?](https://www.androidauthority.com/oneplus-12-vs-oneplus-11-3391062/)
+ - [Foxconn reports November revenue up 18% YoY to ~$20.6B, the first YoY improvement since January 2023, and forecasts Q4 revenue to be better than expected &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/231205/p3#a231205p3)
+ - [An analysis of 36GB of US school network logs covering January 2022 to August 2023 finds widespread use of filters to censor the internet, including health info &lpar;Wired&rpar;](http://www.techmeme.com/231205/p2#a231205p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
