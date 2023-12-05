@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox, Forza Motorsport, and SoundCloud Turn Up the Volume with Overdrive Creator Contest](https://news.xbox.com/en-us/2023/12/05/xbox-forza-motorsport-and-soundcloud-turn-up-the-volume-with-overdrive-creator-contest/)
- - [Overwatch 2’s Latest Mercy Skin Sparks Fan Backlash](https://kotaku.com/overwatch-2-mercy-thai-lunar-new-year-skin-lifeweaver-1851074642)
- - [Soul, Turning Red, and Luca head to the big screen for the first time](https://www.polygon.com/23989476/soul-turning-red-luca-theatrical-release-pixar-disney-plus)<!-- GAME:END -->
+ - [ID@Xbox Game Demo Winterfest Showcases 30+ Games](https://news.xbox.com/en-us/2023/12/05/idxbox-game-demo-winterfest-showcase/)
+ - [Here&#39;s How Many Baldur’s Gate 3 Players Boned The Bear](https://kotaku.com/baldurs-gate-3-bear-romance-halsin-sex-scene-1851074988)
+ - [Phil Spencer Celebrates Xbox’s Place in the World of Entertainment at CCXP23 Brazil](https://news.xbox.com/en-us/2023/12/05/xbox-ccxp-2023-brazil-phil-spencer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
