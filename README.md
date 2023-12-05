@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cheering people at the bar then eating fake glass bottle](http://9gag.com/gag/a6qR6wL)
- - ⏩ [If a year 2023 would have been a movies](http://9gag.com/gag/aXnO3dv)
- - 👉 [Women](http://9gag.com/gag/a4o0g3v)<!-- MEMES:END -->
+ - 💣 [The don](http://9gag.com/gag/aA09LMd)
+ - ⏩ [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 👉 [Dramatic drone footage shows worker with a blow torch cutting through metal supports at the SKK Peterburgskiy when suddenly the massive structure collapses](http://9gag.com/gag/a6qR3j8)<!-- MEMES:END -->
 
 ---
 
