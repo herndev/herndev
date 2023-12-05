@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - ⏩ [Yes, that happened](http://9gag.com/gag/aKEMXdb)
- - 👉 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)<!-- MEMES:END -->
+ - ⏩ [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 👉 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)<!-- MEMES:END -->
 
 ---
 
