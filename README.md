@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No GTA 6 PC release announced](https://www.pcgamer.com/no-gta-6-pc-release-announced)
- - [GTA 6 reactions: Florida Men, car-top twerking, face tattoos, bikinis, and life behind bars](https://www.pcgamer.com/gta-6-reactions)
- - [EA announces layoffs at F1 developer Codemasters &#39;to meet evolving business needs and priorities&#39;](https://www.pcgamer.com/ea-announces-layoffs-at-f1-developer-codemasters-to-meet-evolving-business-needs-and-priorities)<!-- GAME:END -->
+ - [Grand Theft Auto VI Proves 2023&#39;s Best Video Game Trend Is Here To Stay](https://kotaku.com/gta-6-vi-trailer-best-video-game-trend-1851072463)
+ - [GTA 6 Fans Are Already Making Social Media Accounts Based On The Trailer](https://kotaku.com/grand-theft-auto-gta-6-vi-trailer-leak-social-media-1851072412)
+ - [No GTA 6 PC release date announced](https://www.pcgamer.com/no-gta-6-pc-release-announced)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
