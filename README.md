@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing says ‘something is coming this week’ as Phone 2a rumors gain momentum](https://www.androidauthority.com/nothing-announcement-december-2023-3391501/)
  - [Score a 16-inch MacBook Pro for $1,799 with free 2-day shipping](https://appleinsider.com/articles/23/12/05/score-a-16-inch-macbook-pro-for-1799-with-free-2-day-shipping?utm_medium=rss)
- - [How to organize Safari tabs using tab groups in iPadOS 17](https://appleinsider.com/inside/ipados-17/tips/how-to-organize-safari-tabs-using-tab-groups-in-ipados-17?utm_medium=rss)
- - [ArmorCode, which consolidates vulnerability data from connected apps and software infrastructure for analysis, raised a $40M Series B led by HighlandX &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231204/p32#a231204p32)<!-- TECH:END -->
+ - [How to organize Safari tabs using tab groups in iPadOS 17](https://appleinsider.com/inside/ipados-17/tips/how-to-organize-safari-tabs-using-tab-groups-in-ipados-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
