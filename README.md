@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Millennials\u2019 greatest achievement](http://9gag.com/gag/a8qgN56)
- - ⏩ [Lol](http://9gag.com/gag/a9qGe3o)
- - 👉 [Patience lately.](http://9gag.com/gag/ap9MwKn)<!-- MEMES:END -->
+ - 💣 [Cheering people at the bar then eating fake glass bottle](http://9gag.com/gag/a6qR6wL)
+ - ⏩ [If a year 2023 would have been a movies](http://9gag.com/gag/aXnO3dv)
+ - 👉 [Women](http://9gag.com/gag/a4o0g3v)<!-- MEMES:END -->
 
 ---
 
