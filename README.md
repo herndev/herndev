@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ID@Xbox Game Demo Winterfest Showcases 30+ Games](https://news.xbox.com/en-us/2023/12/05/idxbox-game-demo-winterfest-showcase/)
- - [Here&#39;s How Many Baldur’s Gate 3 Players Boned The Bear](https://kotaku.com/baldurs-gate-3-bear-romance-halsin-sex-scene-1851074988)
- - [Phil Spencer Celebrates Xbox’s Place in the World of Entertainment at CCXP23 Brazil](https://news.xbox.com/en-us/2023/12/05/xbox-ccxp-2023-brazil-phil-spencer/)<!-- GAME:END -->
+ - [Xbox Is Running Out Of Time To Get It Right](https://kotaku.com/microsoft-xbox-series-game-pass-redfall-starfield-halo-1850400098)
+ - [Zelda Movie Director Wants It To Be More Miyazaki Than Lord Of The Rings](https://kotaku.com/zelda-movie-nintendo-wes-ball-miyazaki-lotr-1851075108)
+ - [The GTA 6 Trailer Is Already Breaking World Records](https://kotaku.com/gta-6-rockstar-games-trailer-90-million-views-record-1851075122)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
