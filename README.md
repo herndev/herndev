@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Eats driver robbed at gunpoint, thieves return Android phone](https://appleinsider.com/articles/23/12/05/uber-eats-driver-robbed-at-gunpoint-thieves-return-android-phone?utm_medium=rss)
- - [Documents: Apple warns India that its EU-style charger rules will hit local production targets and asks to exempt existing iPhone models from the rules &lpar;Reuters&rpar;](http://www.techmeme.com/231205/p8#a231205p8)
- - [Halide says it will never support video, so it’s launching Kino instead](https://www.theverge.com/2023/12/5/23988899/halide-iphone-video-capture-kino-announcement-date)<!-- TECH:END -->
+ - [This Tandem Showerhead Turns Your Bathroom Into a Spa](https://www.wired.com/story/boona-showerhead-rave/)
+ - [Uber launches ‘Store Pickup’ feature for those last-minute holiday shoppers](https://www.theverge.com/2023/12/5/23988435/uber-connect-gift-delivery-package-rules)
+ - [Ford and Xcel Energy will build 30,000 EV charging ports for fleet businesses](https://www.theverge.com/2023/12/5/23988078/ford-and-xcel-energy-will-build-30000-ev-charging-ports-for-fleet-businesses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
