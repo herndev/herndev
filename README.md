@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a lifetime Babbel language learning subscription for $149.97 this week only](https://appleinsider.com/articles/23/12/05/get-a-lifetime-babbel-language-learning-subscription-for-14997?utm_medium=rss)
- - [Israeli data privacy and governance startup Mine, which counts Reddit and HelloFresh as clients, raised a $30M Series B led by Battery Ventures and PayPal &lpar;Globes Online&rpar;](http://www.techmeme.com/231205/p15#a231205p15)
- - [OnePlus launches the OnePlus 12 in China, offering up to 24GB of RAM and 1TB of storage, 100W wired charging, for ~$606, ahead of an &quot;early 2024&quot; global launch &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231205/p14#a231205p14)<!-- TECH:END -->
+ - [Microsoft updates Copilot with OpenAI&#39;s latest models, including GPT-4 Turbo, and adds a new code interpreter feature and &quot;Deep Search&quot; functionality for Bing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231205/p17#a231205p17)
+ - [Beeper Mini promises blue speech bubbles for Android users](https://appleinsider.com/articles/23/12/05/beeper-mini-promises-blue-speech-bubbles-for-android-users?utm_medium=rss)
+ - [After unexplained bans, PlayStation users report their accounts have been restored](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
