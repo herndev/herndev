@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hope For A Final Fantasy Tactics Remaster Springs Eternal](https://kotaku.com/final-fantasy-tactics-remaster-remake-yasumi-matsuno-1851071786)
- - [The best video games of the year](https://www.polygon.com/23648669/best-video-games-2023)
- - [GTA 6 trailer sends fans into frenzy, earns game dev praise, and leads people to ponder their inevitable demise: &#39;What if we die before GTA 6 releases in 2025?&#39;](https://www.pcgamer.com/gta-6-trailer-sends-fans-into-frenzy-earns-game-dev-praise-and-leads-people-to-ponder-their-inevitable-demise-what-if-we-die-before-gta-6-releases-in-2025)<!-- GAME:END -->
+ - [D&amp;D&#39;s new free introductory adventure is a cute, functional taster session that lacks teeth—and I&#39;m worried it teaches some bad habits](https://www.pcgamer.com/dandds-new-free-introductory-adventure-is-a-cute-functional-taster-session-that-lacks-teethand-im-worried-it-teaches-some-bad-habits)
+ - [Should you stand or sit at your PC? The difficult questions of a gaming desk makeover](https://www.pcgamer.com/should-you-stand-or-sit-at-your-pc-the-difficult-questions-of-a-gaming-desk-makeover)
+ - [The Last Of Us Part II’s Roguelike Mode Is Resident Evil’s Mercenaries With Clickers](https://kotaku.com/last-of-us-part-2-remastered-roguelike-no-return-ps5-1851073641)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
