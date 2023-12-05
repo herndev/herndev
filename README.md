@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - ⏩ [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
+ - 💣 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
+ - ⏩ [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
+ - 👉 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)<!-- MEMES:END -->
 
 ---
 
