@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The don](http://9gag.com/gag/aA09LMd)
- - ⏩ [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 👉 [Dramatic drone footage shows worker with a blow torch cutting through metal supports at the SKK Peterburgskiy when suddenly the massive structure collapses](http://9gag.com/gag/a6qR3j8)<!-- MEMES:END -->
+ - 💣 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
+ - ⏩ [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
+ - 👉 [Facial treatment](http://9gag.com/gag/a3ZODV3)<!-- MEMES:END -->
 
 ---
 
