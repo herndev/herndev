@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
- - ⏩ [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
- - 👉 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)<!-- MEMES:END -->
+ - 💣 [Simple](http://9gag.com/gag/awZppdQ)
+ - ⏩ [And long posts...](http://9gag.com/gag/aBdebzO)
+ - 👉 [Do you have one?](http://9gag.com/gag/aNwbbYb)<!-- MEMES:END -->
 
 ---
 
