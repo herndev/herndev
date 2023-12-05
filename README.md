@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [December’s Android Security Bulletin is here, but Pixels don’t have an update yet](https://www.androidauthority.com/december-2023-android-security-bulletin-3391534/)
- - [Meta, IBM, and 50+ other companies and organizations form AI Alliance, a coalition dedicated to work on open source AI including to share tech and reduce risks &lpar;Alexandra Barinka/Bloomberg&rpar;](http://www.techmeme.com/231205/p1#a231205p1)
- - [PlayStation account permanently suspended without warning? You’re one of many facing the problem](https://www.androidauthority.com/playstation-account-permanently-suspended-3391507/)<!-- TECH:END -->
+ - [The best Roblox horror games you should play](https://www.androidauthority.com/best-roblox-horror-games-3386255/)
+ - [Verizon to offer Netflix + Max bundle for just $10 starting December 7](https://www.androidauthority.com/verizon-netflix-max-bundle-10-dollars-3391553/)
+ - [December’s Android Security Bulletin is here, but Pixels don’t have an update yet](https://www.androidauthority.com/december-2023-android-security-bulletin-3391534/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
