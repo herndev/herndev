@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simple](http://9gag.com/gag/awZppdQ)
- - ⏩ [And long posts...](http://9gag.com/gag/aBdebzO)
- - 👉 [Do you have one?](http://9gag.com/gag/aNwbbYb)<!-- MEMES:END -->
+ - 💣 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
+ - ⏩ [Hehe](http://9gag.com/gag/aQEj5PK)
+ - 👉 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)<!-- MEMES:END -->
 
 ---
 
