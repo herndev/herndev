@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When dream comes true](http://9gag.com/gag/aMELLO1)
- - ⏩ [Apologise bushman.](http://9gag.com/gag/aoK7732)
- - 👉 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)<!-- MEMES:END -->
+ - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - ⏩ [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 👉 [Apologise bushman.](http://9gag.com/gag/aoK7732)<!-- MEMES:END -->
 
 ---
 
