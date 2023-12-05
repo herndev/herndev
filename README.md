@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cut down on cables in your car with the Motorola MA1 Android Auto Adapter](https://www.pcgamer.com/cut-down-on-cables-in-your-car-with-the-motorola-ma1-android-auto-adapter)
- - [10 Things to Do In Night City With Cyberpunk 2077: Ultimate Edition](https://news.xbox.com/en-us/2023/12/05/cyberpunk-2077-ultimate-edition-exclusive/)
- - [Nvidia&#39;s RTX technologies are now supported by 500 games and apps, with more to come](https://www.pcgamer.com/nvidias-rtx-technologies-are-now-supported-by-500-games-and-apps-with-more-to-come)<!-- GAME:END -->
+ - [There&#39;s no technical reason Rockstar can give for why a PC version of GTA 6 isn&#39;t arriving with the console release](https://www.pcgamer.com/theres-no-technical-reason-rockstar-can-give-for-why-a-pc-version-of-gta-6-isnt-arriving-with-the-console-release)
+ - [The Grand Theft Auto 6 trailer has smashed through 60 million YouTube views in 12 hours](https://www.pcgamer.com/the-grand-theft-auto-6-trailer-has-smashed-through-60-million-youtube-views-in-12-hours)
+ - [Cut down on cables in your car with the Motorola MA1 Android Auto Adapter](https://www.pcgamer.com/cut-down-on-cables-in-your-car-with-the-motorola-ma1-android-auto-adapter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
