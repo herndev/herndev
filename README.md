@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto VI Proves 2023&#39;s Best Video Game Trend Is Here To Stay](https://kotaku.com/gta-6-vi-trailer-best-video-game-trend-1851072463)
- - [GTA 6 Fans Are Already Making Social Media Accounts Based On The Trailer](https://kotaku.com/grand-theft-auto-gta-6-vi-trailer-leak-social-media-1851072412)
- - [No GTA 6 PC release date announced](https://www.pcgamer.com/no-gta-6-pc-release-announced)<!-- GAME:END -->
+ - [GTA 6 reveal trailer scene-by-scene breakdown: dogs, dadbods and social agitation](https://www.pcgamer.com/gta-6-reveal-trailer-scene-by-scene-breakdown-dogs-dadbods-and-social-agitation)
+ - [Rockstar devs react to Grand Theft Auto 6 trailer leak: &#39;This f***ing sucks&#39;](https://www.pcgamer.com/rockstar-devs-react-to-grand-theft-auto-6-trailer-leak-this-fing-sucks)
+ - [Grand Theft Auto VI Proves 2023&#39;s Best Video Game Trend Is Here To Stay](https://kotaku.com/gta-6-vi-trailer-best-video-game-trend-1851072463)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
