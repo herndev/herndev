@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - ⏩ [Milkies](http://9gag.com/gag/a8qgQO1)
- - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
+ - 💣 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)
+ - ⏩ [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
+ - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
 
 ---
 
