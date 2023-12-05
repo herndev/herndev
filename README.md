@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s xAI company is seeking up to $1 billion in investments](https://www.theverge.com/2023/12/5/23989559/xai-elon-musk-securities-offering)
- - [Epic sci-fi saga &#39;Foundation&#39; will return to Apple TV+ for a third season](https://appleinsider.com/articles/23/12/05/epic-sci-fi-saga-foundation-will-return-to-apple-tv-for-a-third-season?utm_medium=rss)
- - [Alibaba&#39;s paper on its Animate Anyone AI model went viral as users saw how the model could replace TikTok influencers and that it&#39;s trained on TikTokers&#39; videos &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/231205/p25#a231205p25)<!-- TECH:END -->
+ - [iOS 17.2 RC brings Qi2 wireless charging support to iPhone 13 and iPhone 14-series devices; Apple hasn&#39;t said if the phones will charge at 15W on Qi2 chargers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231205/p28#a231205p28)
+ - [The Looking Glass Go is a folding holographic display that fits in your pocket](https://www.theverge.com/2023/12/5/23989675/looking-glass-go-holographic-display-kickstarter)
+ - [Elon Musk&#39;s xAI has filed with the SEC to raise up to $1B in an equity offering, saying it has raised nearly $135M from four investors since November 29 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231205/p27#a231205p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
