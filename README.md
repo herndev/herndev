@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [`Parkour`](http://9gag.com/gag/aQEjb1w)
- - ⏩ [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 👉 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)<!-- MEMES:END -->
+ - ⏩ [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 👉 [Facial treatment](http://9gag.com/gag/a3ZODV3)<!-- MEMES:END -->
 
 ---
 
