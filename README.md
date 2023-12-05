@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12 vs OnePlus 11: Should you upgrade?](https://www.androidauthority.com/oneplus-12-vs-oneplus-11-3391062/)
- - [Foxconn reports November revenue up 18% YoY to ~$20.6B, the first YoY improvement since January 2023, and forecasts Q4 revenue to be better than expected &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/231205/p3#a231205p3)
- - [An analysis of 36GB of US school network logs covering January 2022 to August 2023 finds widespread use of filters to censor the internet, including health info &lpar;Wired&rpar;](http://www.techmeme.com/231205/p2#a231205p2)<!-- TECH:END -->
+ - [SoftBank acquires a 51% stake in Dublin-based Cubic Telecom, which offers software-based networking for 17M+ vehicles, for &amp;euro;473M, valuing Cubic at &amp;euro;927M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231205/p5#a231205p5)
+ - [Budget OnePlus phones could get a camera zoom boost](https://www.androidauthority.com/cheap-oneplus-oppo-realme-phones-camera-zoom-3391043/)
+ - [Google’s killer Pixel 8, Pixel 8 Pro, and Pixel Watch deals are back just in time for the holidays](https://www.androidauthority.com/google-pixel-8-pixel8-pro-pixel-watch-holiday-deals-3391602/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
