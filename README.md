@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixar’s Turning Red, Soul, and Luca are getting theatrical releases in 2024](https://www.theverge.com/2023/12/5/23989403/pixar-disney-soul-turning-red-luca-theatrical-release-date)
- - [Discord redesigns its mobile app, separating messaging and server tabs, adding messaging features and a midnight theme, alongside performance improvements &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/231205/p23#a231205p23)
- - [Apple hands out release candidates for iOS 17.2 &amp; iPadOS 17.2](https://appleinsider.com/articles/23/12/05/apple-hands-out-release-candidates-for-ios-172-ipados-172?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s new AirPods Pro 2 firmware is only for Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)
+ - [Bing tests AI Deep Search that turns your simple question into a detailed prompt](https://www.theverge.com/2023/12/5/23989407/bing-deep-search-gpt-4-microsoft)
+ - [ESET researchers have found 18 &quot;SpyLoan&quot; malicious loan Android apps, downloaded 12M+ times from the Google Play store alone, since the beginning of the year &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231205/p24#a231205p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
