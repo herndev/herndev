@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
- - ⏩ [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
- - 👉 [Milkies](http://9gag.com/gag/a8qgQO1)<!-- MEMES:END -->
+ - 💣 [Breaking News: Video from Arlington, Virginia Arlington police officers were attempting to execute a search warrant at a residence in Ballston when the suspect discharged several rounds inside the home then an explosion occurred\ud83d\udca5.](http://9gag.com/gag/a6qR6Y9)
+ - ⏩ [Animal friendship has no limits](http://9gag.com/gag/aKEMXPQ)
+ - 👉 [Yeet the child](http://9gag.com/gag/avQjVeE)<!-- MEMES:END -->
 
 ---
 
