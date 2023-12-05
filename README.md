@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breaking News: Video from Arlington, Virginia Arlington police officers were attempting to execute a search warrant at a residence in Ballston when the suspect discharged several rounds inside the home then an explosion occurred\ud83d\udca5.](http://9gag.com/gag/a6qR6Y9)
- - ⏩ [Animal friendship has no limits](http://9gag.com/gag/aKEMXPQ)
- - 👉 [Yeet the child](http://9gag.com/gag/avQjVeE)<!-- MEMES:END -->
+ - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - ⏩ [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
 
 ---
 
