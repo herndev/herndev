@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 trailer sends fans into frenzy, earns game dev praise, and leads people to ponder their inevitable demise: &#39;What if we die before GTA 6 releases in 2025?&#39;](https://www.pcgamer.com/gta-6-trailer-sends-fans-into-frenzy-earns-game-dev-praise-and-leads-people-to-ponder-their-inevitable-demise-what-if-we-die-before-gta-6-releases-in-2025)
- - [Cyberpunk 2077&#39;s surprise 2.1 update aims to make Adam Smasher live up to his name, adds new racing missions, and gives love interests a life with you after their questlines](https://www.pcgamer.com/cyberpunk-2077s-surprise-21-update-aims-to-make-adam-smasher-live-up-to-his-name-adds-new-racing-missions-and-gives-love-interests-a-life-with-you-after-their-questlines)
- - [While we wait on a GTA 6 PC release, these are the PC-specific features we want to see when it does finally appear](https://www.pcgamer.com/while-we-wait-on-a-gta-6-pc-release-these-are-the-pc-specific-features-we-want-to-see-when-it-does-finally-appear)<!-- GAME:END -->
+ - [Hope For A Final Fantasy Tactics Remaster Springs Eternal](https://kotaku.com/final-fantasy-tactics-remaster-remake-yasumi-matsuno-1851071786)
+ - [The best video games of the year](https://www.polygon.com/23648669/best-video-games-2023)
+ - [GTA 6 trailer sends fans into frenzy, earns game dev praise, and leads people to ponder their inevitable demise: &#39;What if we die before GTA 6 releases in 2025?&#39;](https://www.pcgamer.com/gta-6-trailer-sends-fans-into-frenzy-earns-game-dev-praise-and-leads-people-to-ponder-their-inevitable-demise-what-if-we-die-before-gta-6-releases-in-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
