@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft to offer consumers paid Windows 10 security updates for the first time](https://www.theverge.com/2023/12/5/23988896/microsoft-windows-10-extended-security-updates-consumers-paid)
- - [Audio has vanished from Instagram’s oldest videos](https://www.theverge.com/2023/12/5/23987784/instagram-old-videos-missing-audio)
- - [Motorola Razr 2023 review: not enough of a good thing](https://www.theverge.com/23988433/motorola-razr-2023-review-flip-phone-camera-battery-screen)<!-- TECH:END -->
+ - [Pixar’s Turning Red, Soul, and Luca are getting theatrical releases in 2024](https://www.theverge.com/2023/12/5/23989403/pixar-disney-soul-turning-red-luca-theatrical-release-date)
+ - [Discord redesigns its mobile app, separating messaging and server tabs, adding messaging features and a midnight theme, alongside performance improvements &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/231205/p23#a231205p23)
+ - [Apple hands out release candidates for iOS 17.2 &amp; iPadOS 17.2](https://appleinsider.com/articles/23/12/05/apple-hands-out-release-candidates-for-ios-172-ipados-172?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
