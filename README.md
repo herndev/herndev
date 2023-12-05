@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Is Running Out Of Time To Get It Right](https://kotaku.com/microsoft-xbox-series-game-pass-redfall-starfield-halo-1850400098)
- - [Zelda Movie Director Wants It To Be More Miyazaki Than Lord Of The Rings](https://kotaku.com/zelda-movie-nintendo-wes-ball-miyazaki-lotr-1851075108)
- - [The GTA 6 Trailer Is Already Breaking World Records](https://kotaku.com/gta-6-rockstar-games-trailer-90-million-views-record-1851075122)<!-- GAME:END -->
+ - [Baldur’s Gate 3 players want to smooch Shadowheart, avoid bear sex](https://www.polygon.com/23989868/baldurs-gate-3-shadowheart-gale-stats)
+ - [A new Tribes game is coming next year and it&#39;s not free to play: &#39;We made some mistakes in how we monetized Ascend&#39;](https://www.pcgamer.com/a-new-tribes-game-is-coming-next-year-and-its-not-free-to-play-we-made-some-mistakes-in-how-we-monetized-ascend)
+ - [Call of Duty&#39;s new operator looks like a popular Rainbow Six Siege character with the exact same name, and Ubisoft has taken notice: &#39;Seriously?&#39;](https://www.pcgamer.com/call-of-dutys-new-operator-looks-like-a-popular-rainbow-six-siege-character-with-the-exact-same-name-and-ubisoft-has-taken-notice-seriously)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
