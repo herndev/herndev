@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 reveal trailer scene-by-scene breakdown: dogs, dadbods and social agitation](https://www.pcgamer.com/gta-6-reveal-trailer-scene-by-scene-breakdown-dogs-dadbods-and-social-agitation)
- - [Rockstar devs react to Grand Theft Auto 6 trailer leak: &#39;This f***ing sucks&#39;](https://www.pcgamer.com/rockstar-devs-react-to-grand-theft-auto-6-trailer-leak-this-fing-sucks)
- - [Grand Theft Auto VI Proves 2023&#39;s Best Video Game Trend Is Here To Stay](https://kotaku.com/gta-6-vi-trailer-best-video-game-trend-1851072463)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX technologies are now supported by 500 games and apps, with more to come](https://www.pcgamer.com/nvidias-rtx-technologies-are-now-supported-by-500-games-and-apps-with-more-to-come)
+ - [Can Feebas be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23987678/can-feebas-be-shiny-milotic)
+ - [GTA 6 reveal trailer scene-by-scene breakdown: dogs, dadbods and social agitation](https://www.pcgamer.com/gta-6-reveal-trailer-scene-by-scene-breakdown-dogs-dadbods-and-social-agitation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
