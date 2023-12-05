@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft updates Copilot with OpenAI&#39;s latest models, including GPT-4 Turbo, and adds a new code interpreter feature and &quot;Deep Search&quot; functionality for Bing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231205/p17#a231205p17)
- - [Beeper Mini promises blue speech bubbles for Android users](https://appleinsider.com/articles/23/12/05/beeper-mini-promises-blue-speech-bubbles-for-android-users?utm_medium=rss)
- - [After unexplained bans, PlayStation users report their accounts have been restored](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)<!-- TECH:END -->
+ - [Keychron’s latest keyboard comes with magnetic, analog Hall effect switches](https://www.theverge.com/2023/12/5/23989237/keychron-q1-he-hall-effect-analog-switches-price-release-date-specs-features-mechanical-keyboard)
+ - [Amazon tells the UK CMA in a letter that Microsoft uses business practices that restrict customer choice in cloud computing, after a similar complaint by Google &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231205/p19#a231205p19)
+ - [Withings launches a sleek, luxury version of its hybrid smartwatch](https://www.androidauthority.com/withings-launches-luxury-smartwatch-3391683/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
