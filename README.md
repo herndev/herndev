@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank acquires a 51% stake in Dublin-based Cubic Telecom, which offers software-based networking for 17M+ vehicles, for &amp;euro;473M, valuing Cubic at &amp;euro;927M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231205/p5#a231205p5)
- - [Budget OnePlus phones could get a camera zoom boost](https://www.androidauthority.com/cheap-oneplus-oppo-realme-phones-camera-zoom-3391043/)
- - [Google’s killer Pixel 8, Pixel 8 Pro, and Pixel Watch deals are back just in time for the holidays](https://www.androidauthority.com/google-pixel-8-pixel8-pro-pixel-watch-holiday-deals-3391602/)<!-- TECH:END -->
+ - [Uber Eats driver robbed at gunpoint, thieves return Android phone](https://appleinsider.com/articles/23/12/05/uber-eats-driver-robbed-at-gunpoint-thieves-return-android-phone?utm_medium=rss)
+ - [Documents: Apple warns India that its EU-style charger rules will hit local production targets and asks to exempt existing iPhone models from the rules &lpar;Reuters&rpar;](http://www.techmeme.com/231205/p8#a231205p8)
+ - [Halide says it will never support video, so it’s launching Kino instead](https://www.theverge.com/2023/12/5/23988899/halide-iphone-video-capture-kino-announcement-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
