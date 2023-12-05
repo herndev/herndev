@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Getty lawsuit against Stability AI to go to trial in the UK](https://www.theverge.com/2023/12/4/23988403/getty-lawsuit-stability-ai-copyright-infringement)
- - [A US appeals court throws out VLSI Technology&#39;s $2.18B award won from Intel in a 2021 patent-infringement case, leading to a new trial for one of VLSI&#39;s patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231204/p24#a231204p24)
- - [23andMe admits hackers accessed 6.9 million users’ DNA Relatives data](https://www.theverge.com/2023/12/4/23988050/23andme-hackers-accessed-user-data-confirmed)<!-- TECH:END -->
+ - [The first GTA VI trailer is here](https://www.theverge.com/2023/12/4/23988446/gta-vi-trailer-leaked-vice-city)
+ - [Spotify cancels industry-favorite podcast Heavyweight](https://www.theverge.com/2023/12/4/23988438/spotify-cancels-gimlet-podcast-heavyweight-layoff)
+ - [Rockstar releases the first trailer of Grand Theft Auto VI, set in Miami, and says the game will be released in 2025 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231204/p27#a231204p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
