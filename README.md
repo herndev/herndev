@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - ⏩ [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 👉 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)<!-- MEMES:END -->
+ - 💣 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
+ - ⏩ [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
+ - 👉 [Milkies](http://9gag.com/gag/a8qgQO1)<!-- MEMES:END -->
 
 ---
 
