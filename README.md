@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite – Firefight: King of the Hill Preview](https://www.halowaypoint.com/news/firefight-king-of-the-hill-preview#new_tab)
- - [Among Us VR launches on PlayStation VR2 today](https://blog.playstation.com/2023/12/05/among-us-vr-launches-on-playstation-vr2-today/)
- - [A Glamorous New Expedition Awaits in Fallout 76: Atlantic City – Boardwalk Paradise](https://fallout.bethesda.net/en/article/2VYdp0JUeNKi1ut4jxQgEO/fallout-76-atlantic-city-boardwalk-paradise-release)<!-- GAME:END -->
+ - [Xbox, Forza Motorsport, and SoundCloud Turn Up the Volume with Overdrive Creator Contest](https://news.xbox.com/en-us/2023/12/05/xbox-forza-motorsport-and-soundcloud-turn-up-the-volume-with-overdrive-creator-contest/)
+ - [Overwatch 2’s Latest Mercy Skin Sparks Fan Backlash](https://kotaku.com/overwatch-2-mercy-thai-lunar-new-year-skin-lifeweaver-1851074642)
+ - [Soul, Turning Red, and Luca head to the big screen for the first time](https://www.polygon.com/23989476/soul-turning-red-luca-theatrical-release-pixar-disney-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
