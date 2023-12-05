@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cut down on cables in your car with the Motorola MA1 Android Auto Adapter](https://www.pcgamer.com/cut-down-on-cables-in-your-car-with-the-motorola-ma1-android-auto-adapter)
  - [10 Things to Do In Night City With Cyberpunk 2077: Ultimate Edition](https://news.xbox.com/en-us/2023/12/05/cyberpunk-2077-ultimate-edition-exclusive/)
- - [Nvidia&#39;s RTX technologies are now supported by 500 games and apps, with more to come](https://www.pcgamer.com/nvidias-rtx-technologies-are-now-supported-by-500-games-and-apps-with-more-to-come)
- - [Can Feebas be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23987678/can-feebas-be-shiny-milotic)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX technologies are now supported by 500 games and apps, with more to come](https://www.pcgamer.com/nvidias-rtx-technologies-are-now-supported-by-500-games-and-apps-with-more-to-come)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
