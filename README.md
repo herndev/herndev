@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google details AlphaCode 2, an update to AlphaCode, announced in February 2022, powered by Gemini that beats ~85% of competitors in Codeforces competitions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p26#a231206p26)
- - [Squid Game: The Challenge gets a second season — and a video game](https://www.theverge.com/2023/12/6/23990517/netflix-squid-game-the-challenge-season-two)
- - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)<!-- TECH:END -->
+ - [MaintainX, which helps manufacturing, hospitality, and other companies manage operations and maintenance, raised $50M at a $1B valuation, up from $191M in 2021 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/231206/p29#a231206p29)
+ - [Apple joins AI fray with release of model framework](https://www.theverge.com/2023/12/6/23990678/apple-foundation-models-generative-ai-mlx)
+ - [Google updates the Pixel 8 Pro with Video Boost, to let models adjust videos in the cloud, and announces new Pixel features, like a Repair Mode for servicing &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231206/p28#a231206p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
