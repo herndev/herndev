@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehe](http://9gag.com/gag/aQEj5PK)
- - ⏩ [New football skill](http://9gag.com/gag/aYV03PO)
- - 👉 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)<!-- MEMES:END -->
+ - 💣 [Why woman live longer than man ??](http://9gag.com/gag/aKEM5G6)
+ - ⏩ [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
+ - 👉 [Interesting presentation](http://9gag.com/gag/amAZZ2j)<!-- MEMES:END -->
 
 ---
 
