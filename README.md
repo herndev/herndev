@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Fortnite’s Rocket Racing go live?](https://www.polygon.com/fortnite-guide/2023/12/6/23990906/rocket-racing-release-time-date-launch)
- - [Where to find Weapon Mod Bench locations in Fortnite Chapter 5 Season 1](https://www.polygon.com/fortnite-guide/23989649/mod-bench-locations-map)
- - [Fortnite Chapter 5 Society Medallion guide](https://www.polygon.com/fortnite-guide/23988015/society-medallion-locations-chapter-5)<!-- GAME:END -->
+ - [Have a Nice Death Brings Roguelike Fun and Challenge to Xbox](https://news.xbox.com/en-us/2023/12/06/have-a-nice-death-brings-roguelike-fun-and-challenge-to-xbox/)
+ - [GTA 6 Trailer Makes Tom Petty Song Explode On Spotify](https://kotaku.com/gta-6-vi-trailer-song-tom-petty-love-is-a-long-road-1851077993)
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.231204-2200&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-alpha-2402-231204-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
