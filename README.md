@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood’s strikes are over](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
- - [Massachusetts-based Dust Identity, which links physical items to digital records with diamond dust marks, raised a $40M Series B led by Castle Island Ventures &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/231205/p39#a231205p39)
- - [Jensen Huang says Nvidia has been &quot;working very closely with the US government&quot; to create products that comply with US curbs on high-end chip exports to China &lpar;Reuters&rpar;](http://www.techmeme.com/231205/p38#a231205p38)<!-- TECH:END -->
+ - [SAG-AFTRA members ratify the union&#39;s new three-year contract with studios as 78% voted in favor; some members remained unhappy about the deal&#39;s AI protections &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/231206/p2#a231206p2)
+ - [Coinbase Wallet, available in 170+ countries, now lets users send crypto on any platform where they can share a link, including email, social and messaging apps &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/231206/p1#a231206p1)
+ - [Sony has reportedly restored some suspended PlayStation accounts, but confusion remains](https://www.androidauthority.com/sony-playstation-suspended-accounts-restored-3391832/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
