@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Survival monday is here](http://9gag.com/gag/aBdeMvx)
- - ⏩ [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
- - 👉 [When dream comes true](http://9gag.com/gag/aMELLO1)<!-- MEMES:END -->
+ - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - ⏩ [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
+ - 👉 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)<!-- MEMES:END -->
 
 ---
 
