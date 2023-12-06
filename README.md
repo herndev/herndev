@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The PC game releases we&#39;re most excited about in December](https://www.pcgamer.com/PC-game-releases-december-2023)
  - [6 burning questions we have after seeing the GTA 6 trailer](https://www.pcgamer.com/6-burning-questions-we-have-after-seeing-the-gta-6-trailer)
- - [Grand Theft Auto 6’s hype has been defined by leaks](https://www.polygon.com/23989793/grand-theft-auto-6-gta6-leaks-who-leaked-trailer-hack)
- - [Xbox Insider Release Notes – Omega &lpar;2311.231204-1210&rpar;](https://news.xbox.com/en-us/2023/12/05/xbox-insider-release-notes-omega-2311-231204-1210/)<!-- GAME:END -->
+ - [Grand Theft Auto 6’s hype has been defined by leaks](https://www.polygon.com/23989793/grand-theft-auto-6-gta6-leaks-who-leaked-trailer-hack)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
