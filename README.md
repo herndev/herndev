@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s biggest hits are videos you’ve probably never seen](https://www.theverge.com/2023/12/6/23989124/tiktoks-biggest-hits-2023-viral-videos-trends-recommendation-algorithm)
- - [The road ahead for EV adoption is made of gravel](https://www.theverge.com/23987669/ev-charging-rural-america-challenges-politics)
- - [UK carrier EE launches broadband TV platform EE TV, to replace the BT TV service, partnering with Apple to offer an Apple TV 4K with a customized remote control &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231206/p16#a231206p16)<!-- TECH:END -->
+ - [Honda will launch a ‘new global EV series’ at CES](https://www.theverge.com/2023/12/6/23989682/honda-ev-global-series-ces-2024-tease)
+ - [Apple may yet prevail in EU iMessage antitrust investigation](https://appleinsider.com/articles/23/12/06/apple-may-yet-prevail-in-eu-imessage-antitrust-investigation?utm_medium=rss)
+ - [Interviews with Sam Altman and 20 people in his circle reveal a complicated portrait of being brilliant but slippery, as Time names him CEO of the Year 2023 &lpar;TIME&rpar;](http://www.techmeme.com/231206/p19#a231206p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
