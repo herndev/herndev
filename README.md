@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s that Pop Up? Your Activision Games Are On the Cloud](https://news.xbox.com/en-us/2023/12/06/activision-blizzard-cloud-gaming/)
- - [Disney Lorcana’s next set, Into the Inklands, adds DuckTales characters in February](https://www.polygon.com/23989850/disney-lorcana-into-the-inklands-ducktales-release-date-price)
- - [Warhammer 40,000: Rogue Trader review](https://www.pcgamer.com/warhammer-40000-rogue-trader-review)<!-- GAME:END -->
+ - [The 50 best TV shows of 2023](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)
+ - [These Are a Few of Our Favorite “Designed for Xbox” Things](https://news.xbox.com/en-us/2023/12/06/holiday-favorite-designed-for-xbox-things/)
+ - [Baldur&#39;s Gate 3 has already consumed 500 hours of my life, and I&#39;m just getting started](https://www.pcgamer.com/baldurs-gate-3-has-already-consumed-500-hours-of-my-life-and-im-just-getting-started)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
