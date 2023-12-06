@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Microsoft, OpenAI, and Oracle say they will use AMD&#39;s new Instinct MI300X GPU; Microsoft will offer access to the chips through Azure &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231206/p39#a231206p39)
- - [In a US appeals court, the FTC argues that a federal judge held the agency to too high a standard when she ruled that Microsoft&#39;s $69B Activision deal was legal &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231206/p38#a231206p38)
- - [Google has a fix for missing Drive files on desktop](https://www.theverge.com/2023/12/6/23991183/google-drive-lost-files-desktop-fix)<!-- TECH:END -->
+ - [Google Drive offers possible fix for missing files, but isn&#39;t guaranteed](https://appleinsider.com/articles/23/12/06/google-drive-offers-possible-fix-for-missing-files-but-isnt-guaranteed?utm_medium=rss)
+ - [Apple’s lack of sales may force it to launch new iPads and MacBook Air](https://www.androidauthority.com/apple-new-ipad-macbook-3392169/)
+ - [The second season of The Last of Us will debut in 2025](https://www.theverge.com/2023/12/6/23991040/the-last-of-us-season-two-hbo-max-house-of-dragon-euphoria-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
