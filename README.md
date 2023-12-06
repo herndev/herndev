@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian&#39;s dropped some more Baldur&#39;s Gate 3 stats, and at least 33% of you have a lot of explaining to do](https://www.pcgamer.com/larians-dropped-some-more-baldurs-gate-3-stats-and-at-least-33-of-you-have-a-lot-of-explaining-to-do)
- - [ChatGPT is Wikipedia&#39;s most viewed article in 2023, beating out last year&#39;s &#39;winner&#39; which was *checks notes* Jeffrey Dahmer](https://www.pcgamer.com/chatgpt-is-wikipedias-most-viewed-article-in-2023-beating-out-last-years-winner-which-was-checks-notes-jeffery-dahmer)
- - [Where to find spare parts in Avatar: Frontiers of Pandora](https://www.pcgamer.com/avatar-frontiers-of-pandora-spare-parts)<!-- GAME:END -->
+ - [What’s that Pop Up? Your Activision Games Are On the Cloud](https://news.xbox.com/en-us/2023/12/06/activision-blizzard-cloud-gaming/)
+ - [Disney Lorcana’s next set, Into the Inklands, adds DuckTales characters in February](https://www.polygon.com/23989850/disney-lorcana-into-the-inklands-ducktales-release-date-price)
+ - [Warhammer 40,000: Rogue Trader review](https://www.pcgamer.com/warhammer-40000-rogue-trader-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
