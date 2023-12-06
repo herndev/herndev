@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s new map is too bougie for me](https://www.polygon.com/23990967/fortnite-chapter-5-season-1-map-too-fancy)
- - [Avatar: Frontiers of Pandora proves that all humans talk to Na’vi groins](https://www.polygon.com/gaming/23991007/avatar-frontiers-of-pandora-crouch-button)
- - [Worst Version Of Batman: Arkham Trilogy Pays Tribute To Beloved Actor](https://kotaku.com/batman-arkham-trilogy-nintendo-switch-kevin-conroy-1851078683)<!-- GAME:END -->
+ - [GTA 6 trailer smashes a YouTube viewership record—but still can&#39;t compare with another three-letter acronym](https://www.pcgamer.com/gta-6-trailer-smashes-a-youtube-viewership-recordbut-still-cant-compare-with-another-three-letter-acronym)
+ - [One of the best RTS games we&#39;ve played in years launched a crowdfunding campaign yesterday, and crushed its goal in just 15 minutes](https://www.pcgamer.com/one-of-the-best-rts-games-weve-played-in-years-launched-a-crowdfunding-campaign-yesterday-and-crushed-its-goal-in-just-15-minutes)
+ - [New Steam Sale Contains Some Of The Best Games Ever](https://kotaku.com/steam-sale-2023-game-awards-starfield-diablo-gta-1851078948)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
