@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - ⏩ [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 👉 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)<!-- MEMES:END -->
+ - 💣 [School is for the weak](http://9gag.com/gag/adPzzZQ)
+ - ⏩ [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
+ - 👉 [When dream comes true](http://9gag.com/gag/aMELLO1)<!-- MEMES:END -->
 
 ---
 
