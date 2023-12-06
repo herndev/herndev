@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why woman live longer than man ??](http://9gag.com/gag/aKEM5G6)
- - ⏩ [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
- - 👉 [Interesting presentation](http://9gag.com/gag/amAZZ2j)<!-- MEMES:END -->
+ - 💣 [New football skill](http://9gag.com/gag/aYV03PO)
+ - ⏩ [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 ---
 
