@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to fix an issue causing many Instagram videos posted between June 2013 and October 2014 to lose their audio, but offers no timeframe &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231206/p10#a231206p10)
- - [Apple wants suppliers to make iPhone 16 batteries in India instead of China](https://appleinsider.com/articles/23/12/06/apple-wants-suppliers-to-make-iphone-16-batteries-in-india-instead-of-china?utm_medium=rss)
- - [Sources: Apple tells component suppliers of its preference to source iPhone 16 batteries from Indian factories, as part of plans to diversify from China &lpar;Financial Times&rpar;](http://www.techmeme.com/231206/p9#a231206p9)<!-- TECH:END -->
+ - [Teardown reveals Assistant with Bard is moving closer to Android release](https://www.androidauthority.com/assistant-with-bard-android-features-apk-teardown-3391889/)
+ - [Sources: the EU leans toward excluding iMessage from DMA rules due to not being popular enough among business users, part of an investigation ending in February &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231206/p13#a231206p13)
+ - [Intel accuses AMD of selling snake oil CPUs in now deleted attack](https://www.theverge.com/2023/12/6/23990370/intel-amd-snake-oil-core-truths-pdf-deleted)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
