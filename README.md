@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 23andMe Data Breach Keeps Spiraling](https://www.wired.com/story/23andme-breach-sec-update/)
- - [OpenAI&#39;s First Experiment in Protecting Humanity Imploded. These Fixes Could Prevent a Repeat](https://www.wired.com/story/how-to-stop-openai-governance-structure-meltdown/)
- - [Reddit says a bug is letting slurs get added to its links](https://www.theverge.com/2023/12/5/23989822/reddit-bug-slurs-added-links-google)<!-- TECH:END -->
+ - [Asana reports Q3 revenue up 18% YoY to $166.5M, vs. $164.1M est., but warns of macroeconomic headwinds; ASAN drops 10%+ &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p35#a231205p35)
+ - [Q&amp;A with IBM Quantum Director Jerry Chow on the state of quantum computing, IBM&#39;s 10-year quantum roadmap, the IBM Quantum Heron processor, qubits, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231205/p34#a231205p34)
+ - [Cisco debuts new security tools, including Cisco AI Assistant for Security, which can understand event triage, root cause analysis, policy design, and more &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p33#a231205p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
