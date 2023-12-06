@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 players want to smooch Shadowheart, avoid bear sex](https://www.polygon.com/23989868/baldurs-gate-3-shadowheart-gale-stats)
- - [A new Tribes game is coming next year and it&#39;s not free to play: &#39;We made some mistakes in how we monetized Ascend&#39;](https://www.pcgamer.com/a-new-tribes-game-is-coming-next-year-and-its-not-free-to-play-we-made-some-mistakes-in-how-we-monetized-ascend)
- - [Call of Duty&#39;s new operator looks like a popular Rainbow Six Siege character with the exact same name, and Ubisoft has taken notice: &#39;Seriously?&#39;](https://www.pcgamer.com/call-of-dutys-new-operator-looks-like-a-popular-rainbow-six-siege-character-with-the-exact-same-name-and-ubisoft-has-taken-notice-seriously)<!-- GAME:END -->
+ - [6 burning questions we have after seeing the GTA 6 trailer](https://www.pcgamer.com/6-burning-questions-we-have-after-seeing-the-gta-6-trailer)
+ - [Grand Theft Auto 6’s hype has been defined by leaks](https://www.polygon.com/23989793/grand-theft-auto-6-gta6-leaks-who-leaked-trailer-hack)
+ - [Xbox Insider Release Notes – Omega &lpar;2311.231204-1210&rpar;](https://news.xbox.com/en-us/2023/12/05/xbox-insider-release-notes-omega-2311-231204-1210/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
