@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teardown reveals Assistant with Bard is moving closer to Android release](https://www.androidauthority.com/assistant-with-bard-android-features-apk-teardown-3391889/)
- - [Sources: the EU leans toward excluding iMessage from DMA rules due to not being popular enough among business users, part of an investigation ending in February &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231206/p13#a231206p13)
- - [Intel accuses AMD of selling snake oil CPUs in now deleted attack](https://www.theverge.com/2023/12/6/23990370/intel-amd-snake-oil-core-truths-pdf-deleted)<!-- TECH:END -->
+ - [TikTok’s biggest hits are videos you’ve probably never seen](https://www.theverge.com/2023/12/6/23989124/tiktoks-biggest-hits-2023-viral-videos-trends-recommendation-algorithm)
+ - [The road ahead for EV adoption is made of gravel](https://www.theverge.com/23987669/ev-charging-rural-america-challenges-politics)
+ - [UK carrier EE launches broadband TV platform EE TV, to replace the BT TV service, partnering with Apple to offer an Apple TV 4K with a customized remote control &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231206/p16#a231206p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
