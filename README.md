@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - ⏩ [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
- - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
+ - 💣 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
+ - ⏩ [The cream of the crop](http://9gag.com/gag/aQEjbz7)
+ - 👉 [Hehe](http://9gag.com/gag/aQEj5PK)<!-- MEMES:END -->
 
 ---
 
