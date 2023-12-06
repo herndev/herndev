@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh yeah they smashed](http://9gag.com/gag/a8qgRYV)
- - ⏩ [Hehe](http://9gag.com/gag/aQEj5PK)
- - 👉 [Interesting presentation](http://9gag.com/gag/amAZZ2j)<!-- MEMES:END -->
+ - 💣 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - ⏩ [It&#39;s official](http://9gag.com/gag/a7qxx9m)
+ - 👉 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)<!-- MEMES:END -->
 
 ---
 
