@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Raven Software Created Urzikstan, the Definitive Call of Duty: Warzone Map](https://news.xbox.com/en-us/2023/12/06/how-raven-software-created-urzikstan-the-definitive-call-of-duty-warzone-map/)
- - [GTA 6 Trailer Packed With Moments Inspired By Actual Florida Shenanigans](https://kotaku.com/grand-theft-auto-6-gta-florida-man-real-life-references-1851077498)
- - [Avatar: Frontiers of Pandora review in progress](https://www.pcgamer.com/avatar-frontiers-of-pandora-review)<!-- GAME:END -->
+ - [When does Fortnite’s Rocket Racing go live?](https://www.polygon.com/fortnite-guide/2023/12/6/23990906/rocket-racing-release-time-date-launch)
+ - [Where to find Weapon Mod Bench locations in Fortnite Chapter 5 Season 1](https://www.polygon.com/fortnite-guide/23989649/mod-bench-locations-map)
+ - [Fortnite Chapter 5 Society Medallion guide](https://www.polygon.com/fortnite-guide/23988015/society-medallion-locations-chapter-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
