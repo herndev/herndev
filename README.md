@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - ⏩ [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
- - 👉 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)<!-- MEMES:END -->
+ - 💣 [Oh yeah they smashed](http://9gag.com/gag/a8qgRYV)
+ - ⏩ [Hehe](http://9gag.com/gag/aQEj5PK)
+ - 👉 [Interesting presentation](http://9gag.com/gag/amAZZ2j)<!-- MEMES:END -->
 
 ---
 
