@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Original iPhone SE &amp; second-generation 12.9-inch iPad Pro now vintage](https://appleinsider.com/articles/23/12/05/original-iphone-se-second-generation-129-inch-ipad-pro-now-vintage?utm_medium=rss)
- - [Source: VC firm OpenView has laid off most of its staff and will not make new investments, after the firm raised $570M in March, 30% shy of its $800M target &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/231205/p31#a231205p31)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [The 23andMe Data Breach Keeps Spiraling](https://www.wired.com/story/23andme-breach-sec-update/)
+ - [OpenAI&#39;s First Experiment in Protecting Humanity Imploded. These Fixes Could Prevent a Repeat](https://www.wired.com/story/how-to-stop-openai-governance-structure-meltdown/)
+ - [Reddit says a bug is letting slurs get added to its links](https://www.theverge.com/2023/12/5/23989822/reddit-bug-slurs-added-links-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
