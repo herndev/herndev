@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Budget OnePlus phones could get a camera zoom boost &lpar;Updated&rpar;](https://www.androidauthority.com/cheap-oneplus-oppo-realme-phones-camera-zoom-3391043/)
- - [The internet enabled mass surveillance, and AI will enable mass spying, once limited by human labor, by making troves of data searchable and understandable &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231206/p8#a231206p8)
- - [The OnePlus 12R could be an Ace up the company’s sleeve this month](https://www.androidauthority.com/oneplus-12r-ace-3-specs-launch-date-leak-3391861/)<!-- TECH:END -->
+ - [Meta plans to fix an issue causing many Instagram videos posted between June 2013 and October 2014 to lose their audio, but offers no timeframe &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231206/p10#a231206p10)
+ - [Apple wants suppliers to make iPhone 16 batteries in India instead of China](https://appleinsider.com/articles/23/12/06/apple-wants-suppliers-to-make-iphone-16-batteries-in-india-instead-of-china?utm_medium=rss)
+ - [Sources: Apple tells component suppliers of its preference to source iPhone 16 batteries from Indian factories, as part of plans to diversify from China &lpar;Financial Times&rpar;](http://www.techmeme.com/231206/p9#a231206p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
