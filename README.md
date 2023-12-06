@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Have a Nice Death Brings Roguelike Fun and Challenge to Xbox](https://news.xbox.com/en-us/2023/12/06/have-a-nice-death-brings-roguelike-fun-and-challenge-to-xbox/)
- - [GTA 6 Trailer Makes Tom Petty Song Explode On Spotify](https://kotaku.com/gta-6-vi-trailer-song-tom-petty-love-is-a-long-road-1851077993)
- - [Xbox Insider Release Notes – Alpha &lpar;2402.231204-2200&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-alpha-2402-231204-2200/)<!-- GAME:END -->
+ - [Report: Embattled Bungie management insist fans &#39;still like us&#39; in the face of plummeting staff morale](https://www.pcgamer.com/report-embattled-bungie-management-insist-our-fans-still-like-us-in-the-face-of-plummeting-staff-morale)
+ - [Sims 4 players have found what might be a build mode bug but we&#39;re all hoping is a new feature](https://www.pcgamer.com/sims-4-players-have-found-what-might-be-a-build-mode-bug-but-were-all-hoping-is-a-new-feature)
+ - [Steam sale discounts 9 years of Game Awards winners, plus 2023 nominees](https://www.polygon.com/deals/2023/12/6/23990684/steam-goty-game-awards-2023-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
