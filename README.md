@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [China redefines CPU water cooling with an huge 130,000 ton data center under the sea](https://www.pcgamer.com/china-redefines-cpu-water-cooling-with-an-huge-130000-ton-data-center-under-the-sea)
- - [How to find Nor in Avatar: Frontiers of Pandora](https://www.pcgamer.com/avatar-frontiers-of-pandora-find-nor)
- - [Where to find a Dapophet Pod in Avatar: Frontiers of Pandora](https://www.pcgamer.com/avatar-frontiers-of-pandora-dapophet-pod-location)<!-- GAME:END -->
+ - [Larian&#39;s dropped some more Baldur&#39;s Gate 3 stats, and at least 33% of you have a lot of explaining to do](https://www.pcgamer.com/larians-dropped-some-more-baldurs-gate-3-stats-and-at-least-33-of-you-have-a-lot-of-explaining-to-do)
+ - [ChatGPT is Wikipedia&#39;s most viewed article in 2023, beating out last year&#39;s &#39;winner&#39; which was *checks notes* Jeffrey Dahmer](https://www.pcgamer.com/chatgpt-is-wikipedias-most-viewed-article-in-2023-beating-out-last-years-winner-which-was-checks-notes-jeffery-dahmer)
+ - [Where to find spare parts in Avatar: Frontiers of Pandora](https://www.pcgamer.com/avatar-frontiers-of-pandora-spare-parts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
