@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New football skill](http://9gag.com/gag/aYV03PO)
- - ⏩ [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)
- - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
+ - 💣 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
+ - ⏩ [New football skill](http://9gag.com/gag/aYV03PO)
+ - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
 
 ---
 
