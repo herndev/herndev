@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice move](http://9gag.com/gag/anzoPxE)
- - ⏩ [Democracy](http://9gag.com/gag/aPgqEow)
- - 👉 [Defeated male leaves](http://9gag.com/gag/ap9M4bb)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/aQEj5PK)
+ - ⏩ [New football skill](http://9gag.com/gag/aYV03PO)
+ - 👉 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)<!-- MEMES:END -->
 
 ---
 
