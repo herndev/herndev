@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Gemini, the AI model it hopes will take down GPT-4](https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model)
- - [Google’s Bard chatbot is getting way better thanks to Gemini](https://www.theverge.com/2023/12/6/23989744/google-bard-gemini-model-chatbot-ai)
- - [Google’s Gemini AI model is coming to the Pixel 8 Pro — and eventually to Android](https://www.theverge.com/2023/12/6/23989591/google-gemini-ai-model-pixel-8-pro-recorder-smart-reply)<!-- TECH:END -->
+ - [Google details AlphaCode 2, an update to AlphaCode, announced in February 2022, powered by Gemini that beats ~85% of competitors in Codeforces competitions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p26#a231206p26)
+ - [Squid Game: The Challenge gets a second season — and a video game](https://www.theverge.com/2023/12/6/23990517/netflix-squid-game-the-challenge-season-two)
+ - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
