@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
- - ⏩ [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
- - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
+ - 💣 [Nice move](http://9gag.com/gag/anzoPxE)
+ - ⏩ [Democracy](http://9gag.com/gag/aPgqEow)
+ - 👉 [Defeated male leaves](http://9gag.com/gag/ap9M4bb)<!-- MEMES:END -->
 
 ---
 
