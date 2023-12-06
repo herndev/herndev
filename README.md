@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
- - ⏩ [Why would you only change one number \ud83d\ude02](http://9gag.com/gag/aYV03V2)
- - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
+ - 💣 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - ⏩ [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 ---
 
