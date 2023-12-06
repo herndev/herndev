@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
- - ⏩ [New football skill](http://9gag.com/gag/aYV03PO)
- - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
+ - 💣 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - ⏩ [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
 
 ---
 
