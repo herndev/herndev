@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to exchange a gift with Mateo in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23988910/mateo-exchange-gift-location-find)
- - [Wordle today: Hint and answer #900 for Wednesday, December 6](https://www.pcgamer.com/wordle-today-answer-900-december-6)
- - [The PC game releases we&#39;re most excited about in December](https://www.pcgamer.com/PC-game-releases-december-2023)<!-- GAME:END -->
+ - [China redefines CPU water cooling with an huge 130,000 ton data center under the sea](https://www.pcgamer.com/china-redefines-cpu-water-cooling-with-an-huge-130000-ton-data-center-under-the-sea)
+ - [How to find Nor in Avatar: Frontiers of Pandora](https://www.pcgamer.com/avatar-frontiers-of-pandora-find-nor)
+ - [Where to find a Dapophet Pod in Avatar: Frontiers of Pandora](https://www.pcgamer.com/avatar-frontiers-of-pandora-dapophet-pod-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
