@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAG-AFTRA members ratify the union&#39;s new three-year contract with studios as 78% voted in favor; some members remained unhappy about the deal&#39;s AI protections &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/231206/p2#a231206p2)
- - [Coinbase Wallet, available in 170+ countries, now lets users send crypto on any platform where they can share a link, including email, social and messaging apps &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/231206/p1#a231206p1)
- - [Sony has reportedly restored some suspended PlayStation accounts, but confusion remains](https://www.androidauthority.com/sony-playstation-suspended-accounts-restored-3391832/)<!-- TECH:END -->
+ - [A look at struggles of lawmakers around the world to regulate AI, including tech&#39;s rapid pace, knowledge deficit in governments, and labyrinthine bureaucracies &lpar;New York Times&rpar;](http://www.techmeme.com/231206/p4#a231206p4)
+ - [Twitch is shutting down in an entire country](https://www.androidauthority.com/twitch-shut-down-country-3391600/)
+ - [Jensen Huang says Huawei, Intel, and an expanding group of semiconductor startups pose a stiff challenge to Nvidia in the race to produce the best AI chips &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231206/p3#a231206p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
