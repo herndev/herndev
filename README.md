@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Newton, Massachusetts-based Dust Identity, which links physical items to digital records by tagging them with unique diamond dust marks, raised a $40M Series B &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/231205/p39#a231205p39)
- - [Jensen Huang says Nvidia has been &quot;working very closely with the US government&quot; to create products that comply with US chip export restrictions to China &lpar;Reuters&rpar;](http://www.techmeme.com/231205/p38#a231205p38)
- - [Twitch plans to shut down in South Korea on February 27, 2024, saying the country was &quot;prohibitively expensive&quot; to operate in despite working to reduce costs &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/231205/p37#a231205p37)<!-- TECH:END -->
+ - [Hollywood’s strikes are over](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
+ - [Massachusetts-based Dust Identity, which links physical items to digital records with diamond dust marks, raised a $40M Series B led by Castle Island Ventures &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/231205/p39#a231205p39)
+ - [Jensen Huang says Nvidia has been &quot;working very closely with the US government&quot; to create products that comply with US curbs on high-end chip exports to China &lpar;Reuters&rpar;](http://www.techmeme.com/231205/p38#a231205p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
