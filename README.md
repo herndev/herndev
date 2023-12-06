@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
- - ⏩ [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 👉 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)<!-- MEMES:END -->
+ - 💣 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
+ - ⏩ [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 👉 [It&#39;s official](http://9gag.com/gag/a7qxx9m)<!-- MEMES:END -->
 
 ---
 
