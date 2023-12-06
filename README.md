@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hi tony](http://9gag.com/gag/ap9M4P5)
- - ⏩ [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
+ - 💣 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)
+ - ⏩ [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
+ - 👉 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)<!-- MEMES:END -->
 
 ---
 
