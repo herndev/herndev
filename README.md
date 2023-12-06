@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gifts for the gamer who has everything](https://www.polygon.com/23959643/gaming-gifts-arcade-sticks-books-sega-genesis-mini)
- - [How to get a Bloodforged Sigil and complete the Abattoir of Zir in Diablo 4](https://www.pcgamer.com/diablo-4-bloodforged-sigil-abattoir-of-zir-tips)
- - [The Game Awards: How To Watch And What To Expect](https://kotaku.com/the-game-awards-tgas-baldurs-gate-xbox-1851077022)<!-- GAME:END -->
+ - [’Tis the Season of Xbox: Big Discounts, New Content, and More](https://news.xbox.com/en-us/2023/12/06/season-of-xbox-2023-discounts/)
+ - [If you just can&#39;t let Windows 10 go Microsoft will let you pay for three more years of extra support](https://www.pcgamer.com/cant-let-windows-10-go-you-too-can-pay-for-an-extra-three-years-of-support)
+ - [It looks like the RTX 3050 is finally going to be discontinued only to be replaced by a worse RTX 3050. Because…umm, reasons?](https://www.pcgamer.com/it-looks-like-the-rtx-3050-is-finally-going-to-be-discontinued-only-to-be-replaced-by-a-worse-rtx-3050-becauseumm-reasons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
