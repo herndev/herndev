@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A24 is bringing its entire theatrical slate to HBO, Max, and Cinemax](https://www.theverge.com/2023/12/6/23991039/a24-hbo-max-cinemax-deal-warner-bros-discovery)
- - [An interview with Sundar Pichai on Gemini, AI benchmarks, making AI helpful for everyone, the legal landscape around AI, and more &lpar;Mat Honan/MIT Technology Review&rpar;](http://www.techmeme.com/231206/p36#a231206p36)
- - [The best Xbox 360 emulators for PC](https://www.androidauthority.com/best-xbox-360-emulators-for-pc-3392044/)<!-- TECH:END -->
+ - [Meta, Microsoft, OpenAI, and Oracle say they will use AMD&#39;s new Instinct MI300X GPU; Microsoft will offer access to the chips through Azure &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231206/p39#a231206p39)
+ - [In a US appeals court, the FTC argues that a federal judge held the agency to too high a standard when she ruled that Microsoft&#39;s $69B Activision deal was legal &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231206/p38#a231206p38)
+ - [Google has a fix for missing Drive files on desktop](https://www.theverge.com/2023/12/6/23991183/google-drive-lost-files-desktop-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
