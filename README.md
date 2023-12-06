@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
- - ⏩ [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 👉 [It&#39;s official](http://9gag.com/gag/a7qxx9m)<!-- MEMES:END -->
+ - 💣 [A kind stranger helped a lost dog find his way home](http://9gag.com/gag/aGEQQMz)
+ - ⏩ [The crossover we&#39;ve been waiting for](http://9gag.com/gag/az23pmZ)
+ - 👉 [He pronounced it correctly](http://9gag.com/gag/aWGXr2A)<!-- MEMES:END -->
 
 ---
 
