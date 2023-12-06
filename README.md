@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 50 best TV shows of 2023](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)
- - [These Are a Few of Our Favorite “Designed for Xbox” Things](https://news.xbox.com/en-us/2023/12/06/holiday-favorite-designed-for-xbox-things/)
- - [Baldur&#39;s Gate 3 has already consumed 500 hours of my life, and I&#39;m just getting started](https://www.pcgamer.com/baldurs-gate-3-has-already-consumed-500-hours-of-my-life-and-im-just-getting-started)<!-- GAME:END -->
+ - [The best gifts for the gamer who has everything](https://www.polygon.com/23959643/gaming-gifts-arcade-sticks-books-sega-genesis-mini)
+ - [How to get a Bloodforged Sigil and complete the Abattoir of Zir in Diablo 4](https://www.pcgamer.com/diablo-4-bloodforged-sigil-abattoir-of-zir-tips)
+ - [The Game Awards: How To Watch And What To Expect](https://kotaku.com/the-game-awards-tgas-baldurs-gate-xbox-1851077022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
