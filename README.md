@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)
- - ⏩ [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
- - 👉 [Survival monday is here](http://9gag.com/gag/aBdeMvx)<!-- MEMES:END -->
+ - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - ⏩ [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
+ - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
 
 ---
 
