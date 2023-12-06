@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #900 for Wednesday, December 6](https://www.pcgamer.com/wordle-today-answer-900-december-6)
  - [The PC game releases we&#39;re most excited about in December](https://www.pcgamer.com/PC-game-releases-december-2023)
- - [6 burning questions we have after seeing the GTA 6 trailer](https://www.pcgamer.com/6-burning-questions-we-have-after-seeing-the-gta-6-trailer)
- - [Grand Theft Auto 6’s hype has been defined by leaks](https://www.polygon.com/23989793/grand-theft-auto-6-gta6-leaks-who-leaked-trailer-hack)<!-- GAME:END -->
+ - [6 burning questions we have after seeing the GTA 6 trailer](https://www.pcgamer.com/6-burning-questions-we-have-after-seeing-the-gta-6-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
