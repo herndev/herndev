@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [’Tis the Season of Xbox: Big Discounts, New Content, and More](https://news.xbox.com/en-us/2023/12/06/season-of-xbox-2023-discounts/)
- - [If you just can&#39;t let Windows 10 go Microsoft will let you pay for three more years of extra support](https://www.pcgamer.com/cant-let-windows-10-go-you-too-can-pay-for-an-extra-three-years-of-support)
- - [It looks like the RTX 3050 is finally going to be discontinued only to be replaced by a worse RTX 3050. Because…umm, reasons?](https://www.pcgamer.com/it-looks-like-the-rtx-3050-is-finally-going-to-be-discontinued-only-to-be-replaced-by-a-worse-rtx-3050-becauseumm-reasons)<!-- GAME:END -->
+ - [How Raven Software Created Urzikstan, the Definitive Call of Duty: Warzone Map](https://news.xbox.com/en-us/2023/12/06/how-raven-software-created-urzikstan-the-definitive-call-of-duty-warzone-map/)
+ - [GTA 6 Trailer Packed With Moments Inspired By Actual Florida Shenanigans](https://kotaku.com/grand-theft-auto-6-gta-florida-man-real-life-references-1851077498)
+ - [Avatar: Frontiers of Pandora review in progress](https://www.pcgamer.com/avatar-frontiers-of-pandora-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
