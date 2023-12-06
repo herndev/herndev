@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Embattled Bungie management insist fans &#39;still like us&#39; in the face of plummeting staff morale](https://www.pcgamer.com/report-embattled-bungie-management-insist-our-fans-still-like-us-in-the-face-of-plummeting-staff-morale)
- - [Sims 4 players have found what might be a build mode bug but we&#39;re all hoping is a new feature](https://www.pcgamer.com/sims-4-players-have-found-what-might-be-a-build-mode-bug-but-were-all-hoping-is-a-new-feature)
- - [Steam sale discounts 9 years of Game Awards winners, plus 2023 nominees](https://www.polygon.com/deals/2023/12/6/23990684/steam-goty-game-awards-2023-deal-sale)<!-- GAME:END -->
+ - [Fortnite’s new map is too bougie for me](https://www.polygon.com/23990967/fortnite-chapter-5-season-1-map-too-fancy)
+ - [Avatar: Frontiers of Pandora proves that all humans talk to Na’vi groins](https://www.polygon.com/gaming/23991007/avatar-frontiers-of-pandora-crouch-button)
+ - [Worst Version Of Batman: Arkham Trilogy Pays Tribute To Beloved Actor](https://kotaku.com/batman-arkham-trilogy-nintendo-switch-kevin-conroy-1851078683)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
