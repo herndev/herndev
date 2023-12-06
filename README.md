@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MaintainX, which helps manufacturing, hospitality, and other companies manage operations and maintenance, raised $50M at a $1B valuation, up from $191M in 2021 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/231206/p29#a231206p29)
- - [Apple joins AI fray with release of model framework](https://www.theverge.com/2023/12/6/23990678/apple-foundation-models-generative-ai-mlx)
- - [Google updates the Pixel 8 Pro with Video Boost, to let models adjust videos in the cloud, and announces new Pixel features, like a Repair Mode for servicing &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231206/p28#a231206p28)<!-- TECH:END -->
+ - [The Samsung Galaxy Tab A7 Lite is a steal at just $104.99](https://www.androidauthority.com/samsung-galaxy-tab-a7-lite-deal-3392072/)
+ - [Sources: Apple plans a revamped iPad Pro with an OLED screen, iPad Airs with 10.9&quot; and 12.9&quot; screens, 13&quot; and 15&quot; MacBook Airs with M3, and more for early 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231206/p33#a231206p33)
+ - [Meta&#39;s virtual assistant Meta AI gets support for Reels, a new feature called &quot;reimagine&quot; that lets users generate AI images in group chats, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p32#a231206p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
