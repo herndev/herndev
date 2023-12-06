@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)
- - ⏩ [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
+ - 💣 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
+ - ⏩ [Bruh](http://9gag.com/gag/amAZ43j)
  - 👉 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)<!-- MEMES:END -->
 
 ---
