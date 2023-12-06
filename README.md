@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Car block ambulance](http://9gag.com/gag/aGEQ4g0)
+ - 💣 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
  - ⏩ [Why would you only change one number \ud83d\ude02](http://9gag.com/gag/aYV03V2)
- - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
+ - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
 
 ---
 
