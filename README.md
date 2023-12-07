@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Safer Seas Mode Brings Single-Crew Servers to Sea of Thieves](https://news.xbox.com/en-us/2023/12/07/sea-of-thieves-safer-seas/)
- - [Warhammer 40K: Rogue Trader lets you make truly terrible RPG choices](https://www.polygon.com/23988450/warhammer-40k-rogue-trader-rpg-choices-bad-evil-heresy)
- - [The Game Awards 2023: All the news, announcements, and trailers](https://www.polygon.com/game-awards-tga/23988177/game-awards-2023-announcements-winners)<!-- GAME:END -->
+ - [HAWKED is now available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2023/12/07/hawked-is-now-available-in-preview-for-xbox-insiders/)
+ - [When will Solid Snake be released in Fortnite Chapter 5 Season 1?](https://www.polygon.com/fortnite-guide/23989773/solid-snake-release-date-metal-gear-battle-pass)
+ - [Pokémon Scarlet And Violet DLC Lets You Play As The Pocket Monsters](https://kotaku.com/pokemon-scarlet-and-violet-dlc-the-indigo-disk-1851080157)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
