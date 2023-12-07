@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMessage is just the start: Beeper Mini to soon get Facetime, SMS, RCS, more](https://www.androidauthority.com/beeper-mini-facetime-sms-rcs-3392214/)
- - [You can now force apps to go fullscreen on your Pixel Fold and Pixel Tablet](https://www.androidauthority.com/pixel-feature-drop-per-app-aspect-ratio-pixel-fold-tablet-3392228/)
- - [How tech giants like Google and Meta ramped up university donations over the years, giving them influence over research in AI, social media, and disinformation &lpar;Washington Post&rpar;](http://www.techmeme.com/231207/p6#a231207p6)<!-- TECH:END -->
+ - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
+ - [Social Security 2024 COLA Increase: Your Checks Are Getting Bigger Next Year     - CNET](https://www.cnet.com/personal-finance/social-security-2024-cola-increase-your-checks-are-getting-bigger-next-year/#ftag=CAD590a51e)
+ - [iMessage is just the start: Beeper Mini to soon get Facetime, SMS, RCS, more](https://www.androidauthority.com/beeper-mini-facetime-sms-rcs-3392214/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
