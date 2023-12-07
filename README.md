@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Check out these leaked images comparing the Galaxy S24 Ultra and Galaxy S23 Ultra side-by-side](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-galaxy-s23-ultra-design-changes-3392209/)
  - [Sydney-based Leonardo.Ai, which lets users generate AI images for use in creative industries, raised $31M, and says it has 7M users and generated 700M+ images &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/231206/p50#a231206p50)
- - [AWS&#39; re:Invent showed it lags behind in the generative AI space, as half of the announcements are still in preview and were seemingly developed in a rush &lpar;Corey Quinn/Last Week in AWS&rpar;](http://www.techmeme.com/231206/p49#a231206p49)
- - [SoftBank-backed travel booking service Klook raised a $210M Series E+, taking its total funding to $900M+, after turning cash flow positive in mid-2023 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231206/p48#a231206p48)<!-- TECH:END -->
+ - [AWS&#39; re:Invent showed it lags behind in the generative AI space, as half of the announcements are still in preview and were seemingly developed in a rush &lpar;Corey Quinn/Last Week in AWS&rpar;](http://www.techmeme.com/231206/p49#a231206p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
