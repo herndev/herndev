@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hi tony](http://9gag.com/gag/ap9M4P5)
- - ⏩ [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 💣 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - ⏩ [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
+ - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
 
 ---
 
