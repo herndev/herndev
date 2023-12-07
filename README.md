@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait..](http://9gag.com/gag/aeQBorW)
- - ⏩ [GTA 6](http://9gag.com/gag/aXnOByz)
- - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
+ - 💣 [Livin that college life!](https://www.reddit.com/r/memes/comments/18d4e99/livin_that_college_life/)
+ - ⏩ [How many kids were sorely disappointed watching this show?](https://www.reddit.com/r/funny/comments/18d4e1e/how_many_kids_were_sorely_disappointed_watching/)
+ - 👉 [Simba](https://www.reddit.com/r/funny/comments/18d4bai/simba/)<!-- MEMES:END -->
 
 ---
 
