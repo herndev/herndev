@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - ⏩ [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
+ - ⏩ [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 ---
 
