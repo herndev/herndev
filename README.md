@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - ⏩ [Wait..](http://9gag.com/gag/aeQBorW)
- - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
+ - 💣 [Why not?](http://9gag.com/gag/aYV0382)
+ - ⏩ [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
 
 ---
 
