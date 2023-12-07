@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - ⏩ [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 💣 [Wait..](http://9gag.com/gag/aeQBorW)
+ - ⏩ [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
 
 ---
 
