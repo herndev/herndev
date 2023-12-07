@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
- - ⏩ [Bruh](http://9gag.com/gag/amAZ43j)
- - 👉 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)<!-- MEMES:END -->
+ - 💣 [Anyone know why?](http://9gag.com/gag/aL1ExAW)
+ - ⏩ [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
+ - 👉 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)<!-- MEMES:END -->
 
 ---
 
