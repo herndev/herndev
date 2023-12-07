@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Mammoth app is a much simpler take on Mastodon](https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon)
- - [Track your goals with almost 50% off the Fossil Gen 6 Wellness Edition](https://www.androidauthority.com/fossil-gen-6-wellness-edition-deal-3392392/)
- - [Elijah Wood and Mike Tyson Cameo Videos Were Used in a Russian Disinformation Campaign](https://www.wired.com/story/elijah-wood-mike-tyson-russia-ukraine-disinformation/)<!-- TECH:END -->
+ - [WhatsApp voice messages disappear now, keeping your private messages private](https://www.androidauthority.com/whatsapp-voice-messages-3392406/)
+ - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
+ - [Did you know Google Gemini isn’t available in Europe yet?](https://www.androidauthority.com/did-you-know-google-gemini-isnt-available-in-europe-yet-3392451/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
