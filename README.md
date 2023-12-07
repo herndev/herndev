@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitzlato co-founder Anatoly Legkodymov pleads guilty in the US to operating a money transmitting business for illicit funds and agrees to dissolve the exchange &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231206/p46#a231206p46)
- - [Meta is rolling out end-to-end encryption to Messenger by default, for one-on-one chats and calls; E2EE for group chats remains opt-in &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231206/p45#a231206p45)
- - [Sources: Microsoft plans the next major Windows version for 2024, with an AI-powered Windows Shell, an &quot;advanced Copilot&quot;, natural language search, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231206/p44#a231206p44)<!-- TECH:END -->
+ - [Sources: Bungie&#39;s recent layoffs came alongside a scramble to avoid a total Sony takeover, which could happen if Bungie doesn&#39;t meet certain financial goals &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/231206/p47#a231206p47)
+ - [Google announces Bard Advanced, it’s most advanced Gemini-powered AI helper](https://www.androidauthority.com/google-bard-advanced-3392203/)
+ - [Bitzlato co-founder Anatoly Legkodymov pleads guilty in the US to operating a money transmitting business for illicit funds and agrees to dissolve the exchange &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231206/p46#a231206p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
