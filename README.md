@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sure and indeed](http://9gag.com/gag/amAZjQ9)
- - ⏩ [This is BBC news!](http://9gag.com/gag/aOxWg26)
- - 👉 [You want to see the lambada ?](http://9gag.com/gag/ay2KgRq)<!-- MEMES:END -->
+ - 💣 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - ⏩ [Wait..](http://9gag.com/gag/aeQBorW)
+ - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
 
 ---
 
