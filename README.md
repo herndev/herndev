@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - ⏩ [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
- - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
+ - 💣 [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
+ - ⏩ [Bruh](http://9gag.com/gag/amAZ43j)
+ - 👉 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)<!-- MEMES:END -->
 
 ---
 
