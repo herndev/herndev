@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hi tony](http://9gag.com/gag/ap9M4P5)
- - ⏩ [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 💣 [New football skill](http://9gag.com/gag/aYV03PO)
+ - ⏩ [*slap* *slap* *slap*](http://9gag.com/gag/axorqXb)
+ - 👉 [Ireland is screwed](http://9gag.com/gag/axor55L)<!-- MEMES:END -->
 
 ---
 
