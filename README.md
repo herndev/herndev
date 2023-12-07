@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [King Arthur: A Knight’s Tale Comes to Xbox February 22 – Play Now During the ID@Xbox Demo Fest](https://news.xbox.com/en-us/2023/12/07/king-arthur-a-knights-tale-comes-to-xbox-february-22-play-now-during-the-idxbox-demo-fest/)
- - [If you&#39;re feeling bad about dying in Baldur&#39;s Gate 3&#39;s Honour Mode, don&#39;t worry—this speedrunner who beat it in under 40 minutes is about to make you feel way worse](https://www.pcgamer.com/if-youre-feeling-bad-about-dying-in-baldurs-gate-3s-honour-mode-dont-worrythis-speedrunner-who-beat-it-in-under-40-minutes-is-about-to-make-you-feel-way-worse)
- - [When do you get the ikran in Avatar: Frontiers of Pandora?](https://www.polygon.com/guides/23991993/ikran-dragon-flying-mount-avatar-frontiers-of-pandora)<!-- GAME:END -->
+ - [Watch The Game Awards for a chance to win a free Steam Deck OLED](https://www.polygon.com/game-awards-tga/23992204/game-awards-steam-deck-go-giveaway-lenovo-legion-go-sweepstakes)
+ - [How to watch The Game Awards 2023](https://www.polygon.com/23969879/game-awards-2023-when-start-time-where-to-watch-nominees)
+ - [From Coquette to the Cheetah Classic, here are all the GTA 6 cars we spotted in the trailer](https://www.pcgamer.com/gta-6-cars-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
