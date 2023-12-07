@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New football skill](http://9gag.com/gag/aYV03PO)
- - ⏩ [*slap* *slap* *slap*](http://9gag.com/gag/axorqXb)
- - 👉 [Ireland is screwed](http://9gag.com/gag/axor55L)<!-- MEMES:END -->
+ - 💣 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - ⏩ [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 ---
 
