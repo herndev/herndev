@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Day Before launch time: when you can play the open world survival MMO](https://www.pcgamer.com/the-day-before-launch-time-release-date)
  - [The best archetypes in Warhammer 40K: Rogue Trader](https://www.polygon.com/guides/23991015/warhammer-40k-rogue-trader-best-archetypes-tier-2)
- - [The best origins in Warhammer 40K: Rogue Trader](https://www.polygon.com/guides/23991004/warhammer-40k-rogue-trader-best-origins)
- - [Wordle today: Hint and answer #901 for Thursday, December 7](https://www.pcgamer.com/wordle-today-answer-901-december-7)<!-- GAME:END -->
+ - [The best origins in Warhammer 40K: Rogue Trader](https://www.polygon.com/guides/23991004/warhammer-40k-rogue-trader-best-origins)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
