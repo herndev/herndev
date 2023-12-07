@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This beautiful 16-player co-op survival game from former Riot devs just got a new trailer and an official name](https://www.pcgamer.com/this-beautiful-16-player-co-op-survival-game-from-former-riot-devs-just-got-a-new-trailer-and-an-official-name)
+ - [Exploring the seas on a magic surfboard looks awesome in this 16-player co-op survival game from former Riot devs](https://www.pcgamer.com/this-beautiful-16-player-co-op-survival-game-from-former-riot-devs-just-got-a-new-trailer-and-an-official-name)
  - [Xbox Insider Release Notes – Omega &lpar;2311.231205-1910&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-omega-2311-231205-1910/)
  - [Xbox Insider Release Notes – Delta &lpar;2311.231205-1910&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-delta-2311-231205-1910/)<!-- GAME:END -->
 
