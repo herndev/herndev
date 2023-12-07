@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satellite SOS &#39;is a game changer,&#39; says LA Search and Rescue](https://appleinsider.com/articles/23/12/07/satellite-sos-is-a-game-changer-says-la-search-and-rescue?utm_medium=rss)
- - [TrendForce: the top 10 chip foundries&#39; Q3 revenue rose 7.9% YoY to $28.29B; TSMC stayed top at ~60%; Intel made the list for the first time in several quarters &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/231207/p12#a231207p12)
- - [Meta launches Imagine, a standalone AI image generator](https://www.androidauthority.com/meta-launches-imagine-ai-image-generator-3392294/)<!-- TECH:END -->
+ - [Can Rock Dust Soak Up Carbon Emissions? A Giant Experiment Is Set to Find Out](https://www.wired.com/story/rock-dust-soak-up-carbon-emissions-climate-experiment/)
+ - [This Pill Tracks Your Vitals From the Inside](https://www.wired.com/story/this-pill-tracks-your-vitals-from-the-inside/)
+ - [Green Chat Bubbles Aren’t the Problem—Texting Is](https://www.wired.com/story/gadget-lab-podcast-623/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
