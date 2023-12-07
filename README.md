@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Avatar game has a graphics preset so &#39;extremely difficult to run&#39; you&#39;re probably Na&#39;vi gonna turn it on](https://www.pcgamer.com/the-new-avatar-game-has-a-graphics-preset-so-extremely-difficult-to-run-youre-probably-navi-gonna-turn-it-on)
- - [GTA 6 trailer reportedly breaks record for YouTube views in 24 hours, blowing away competition](https://www.polygon.com/23992463/gta-6-trailer-views-youtube-guinness-record-grand-theft-auto)
- - [20 Cool Indie Games You Won&#39;t See At The Game Awards](https://kotaku.com/day-devs-game-awards-2023-indie-showcase-1851081586)<!-- GAME:END -->
+ - [Steam’s most-wishlisted game is finally out — and on fire](https://www.polygon.com/23992623/the-day-before-steam-launch-zombie-mmo)
+ - [How to build and upgrade a village in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992265/village-build-upgrade-rating-square-hub)
+ - [The Walking Dead: Betrayal halts development and will be pulled from Steam just three months after launch](https://www.pcgamer.com/the-walking-dead-betrayal-halts-development-and-will-be-pulled-from-steam-just-three-months-after-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
