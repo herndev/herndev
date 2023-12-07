@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One day, your EV might power your home’s A/C](https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging)
- - [Google gives users a way move their podcasts before Google Podcasts ends](https://www.androidauthority.com/google-podcasts-migration-tool-3392468/)
- - [American Express doesn&#39;t seem that interested in an Apple Card partnership](https://appleinsider.com/articles/23/12/07/american-express-doesnt-seem-that-interested-in-an-apple-card-partnership?utm_medium=rss)<!-- TECH:END -->
+ - [This insane $460 price drop on the Google Pixel 7 Pro won’t last](https://www.androidauthority.com/pixel-7-pro-amazon-deal-3392147/)
+ - [Q&amp;A with IBM CEO Arvind Krishna on AI&#39;s business uses, Biden&#39;s EO, rolling out WatsonX in July 2023, growing IBM&#39;s AI business, falling behind in AI, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231207/p35#a231207p35)
+ - [Some Samsung phones are missing months of Google Play system updates](https://www.androidauthority.com/google-play-samsung-phones-3392493/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
