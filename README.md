@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How in Avernus did I totally miss this secret treasure-stuffed shortcut to the Underdark in Act 1 of Baldur&#39;s Gate 3 no less than seven times?](https://www.pcgamer.com/how-in-avernus-did-i-totally-miss-this-secret-treasure-stuffed-shortcut-to-the-underdark-in-act-1-of-baldurs-gate-3-no-less-than-seven-times)
- - [Corsair launches its first gaming desk, and it&#39;s a beauty](https://www.pcgamer.com/corsair-launches-its-first-gaming-desk-and-its-a-beauty)
- - [PC Gamer magazine&#39;s latest issue is on sale now: SIGIL II and Doom&#39;s 30th anniversary](https://www.pcgamer.com/pc-gamer-magazines-latest-issue-on-sale-now-sigil-ii-and-dooms-30th-anniversary)<!-- GAME:END -->
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [GTA 6 detectives think its first trailer actually plays out in reverse—all thanks to an ankle bracelet with some grim, real-world implications](https://www.pcgamer.com/gta-6-detectives-think-its-first-trailer-actually-plays-out-in-reverseall-thanks-to-an-ankle-bracelet-with-some-grim-real-world-implications)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
