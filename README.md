@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
- - ⏩ [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
- - 👉 [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)<!-- MEMES:END -->
+ - 💣 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - ⏩ [New football skill](http://9gag.com/gag/aYV03PO)
+ - 👉 [Ireland is screwed](http://9gag.com/gag/axor55L)<!-- MEMES:END -->
 
 ---
 
