@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s now a way to recover those Google Drive files that went missing last month](https://www.androidauthority.com/how-to-recover-google-drive-missing-files-3392218/)
- - [Shares of Paytm dropped as much as 20% after the company announced plans to issue fewer personal loans under ~$600 to comply with RBI&#39;s tightening norms &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231207/p4#a231207p4)
- - [Robinhood launches a commission-free crypto trading app, supporting 25+ cryptocurrencies, in the EU, a week after the company launched stock trading in the UK &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231207/p3#a231207p3)<!-- TECH:END -->
+ - [iMessage is just the start: Beeper Mini to soon get Facetime, SMS, RCS, more](https://www.androidauthority.com/beeper-mini-facetime-sms-rcs-3392214/)
+ - [You can now force apps to go fullscreen on your Pixel Fold and Pixel Tablet](https://www.androidauthority.com/pixel-feature-drop-per-app-aspect-ratio-pixel-fold-tablet-3392228/)
+ - [How tech giants like Google and Meta ramped up university donations over the years, giving them influence over research in AI, social media, and disinformation &lpar;Washington Post&rpar;](http://www.techmeme.com/231207/p6#a231207p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
