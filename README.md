@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Drive offers possible fix for missing files, but isn&#39;t guaranteed](https://appleinsider.com/articles/23/12/06/google-drive-offers-possible-fix-for-missing-files-but-isnt-guaranteed?utm_medium=rss)
- - [Apple’s lack of sales may force it to launch new iPads and MacBook Air](https://www.androidauthority.com/apple-new-ipad-macbook-3392169/)
- - [The second season of The Last of Us will debut in 2025](https://www.theverge.com/2023/12/6/23991040/the-last-of-us-season-two-hbo-max-house-of-dragon-euphoria-streaming)<!-- TECH:END -->
+ - [Sources: Steve Hotelling, the Apple VP overseeing technologies like touchscreen, health sensors, and Face ID, and one of the inventors of Touch ID, is retiring &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231206/p42#a231206p42)
+ - [Apple executive behind Touch ID, display multitouch is retiring](https://appleinsider.com/articles/23/12/06/apple-executive-behind-touch-id-display-multitouch-is-retiring?utm_medium=rss)
+ - [Video Games That Encourage Human Interaction Can Build Better Vibes](https://www.wired.com/story/live-wired-panel-will-games-eat-the-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
