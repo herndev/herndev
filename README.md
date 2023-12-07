@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp voice messages disappear now, keeping your private messages private](https://www.androidauthority.com/whatsapp-voice-messages-3392406/)
- - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
- - [Did you know Google Gemini isn’t available in Europe yet?](https://www.androidauthority.com/did-you-know-google-gemini-isnt-available-in-europe-yet-3392451/)<!-- TECH:END -->
+ - [Notepad on Windows 11 is finally getting a character count](https://www.theverge.com/2023/12/7/23992413/microsoft-windows-11-notepad-character-count-widgets-improvements)
+ - [Threads has hashtags now](https://www.theverge.com/2023/12/7/23992357/threads-hashtags-tags)
+ - [Rhythms, which wants to use AI to analyze companies&#39; patterns such as monthly business reviews and weekly meetings, comes out of stealth with a $26M seed &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231207/p32#a231207p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
