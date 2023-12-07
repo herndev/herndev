@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Alone in the Dark reboot is delayed until March so developers can &#39;avoid any potential crunch over the Christmas holidays&#39;](https://www.pcgamer.com/the-alone-in-the-dark-reboot-is-delayed-until-march-so-developers-can-avoid-any-potential-crunch-over-the-christmas-holidays)
- - [Fortnite&#39;s Lego survival mode is way bigger than we thought, and millions of people are playing it](https://www.pcgamer.com/fortnites-lego-survival-mode-is-way-bigger-than-we-thought-and-millions-of-people-are-playing-it)
- - [The best free games for Amazon Prime members](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)<!-- GAME:END -->
+ - [The new Avatar game has a graphics preset so &#39;extremely difficult to run&#39; you&#39;re probably Na&#39;vi gonna turn it on](https://www.pcgamer.com/the-new-avatar-game-has-a-graphics-preset-so-extremely-difficult-to-run-youre-probably-navi-gonna-turn-it-on)
+ - [GTA 6 trailer reportedly breaks record for YouTube views in 24 hours, blowing away competition](https://www.polygon.com/23992463/gta-6-trailer-views-youtube-guinness-record-grand-theft-auto)
+ - [20 Cool Indie Games You Won&#39;t See At The Game Awards](https://kotaku.com/day-devs-game-awards-2023-indie-showcase-1851081586)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
