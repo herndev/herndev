@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stellantis makes a big bet on EV battery swapping in new deal with Ample](https://www.theverge.com/2023/12/7/23991923/stellantis-ample-ev-battery-swap-deal-fiat-500e-spain)
- - [How to watch The Game Awards &lpar;and what to expect&rpar;](https://www.theverge.com/2023/12/7/23990722/how-to-watch-game-awards-2023)
- - [Amazon’s latest Echo Frames are more style than substance](https://www.theverge.com/23989893/amazon-echo-frames-review-alexa-carrera-cruiser-smart-glasses)<!-- TECH:END -->
+ - [Apple issues grave warning on user privacy to promote its own data protection](https://appleinsider.com/articles/23/12/07/apple-issues-grave-warning-on-user-privacy-to-promote-its-own-data-protection?utm_medium=rss)
+ - [Sources: Montenegro&#39;s Justice Minister has privately said he plans to extradite Do Kwon to the US rather than South Korea to face criminal charges &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p26#a231207p26)
+ - [Apple refuses to recognize Southampton store union, staff pushes forward anyway](https://appleinsider.com/articles/23/12/07/apple-refuses-to-recognize-apple-southampton-unionization-requests-staff-pushes-forward-anyway?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
