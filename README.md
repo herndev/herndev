@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Premium’s price is going up in yet another country](https://www.androidauthority.com/youtube-premium-price-increase-3392523/)
- - [Now Android phones can automatically send medical data during 911 calls](https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos)
- - [Best 3D Printer Deals: 11 Deals to Get You Printing ASAP     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify’s CFO is out days after mass layoffs](https://www.theverge.com/2023/12/7/23992712/spotify-cfo-paul-vogel-leaving-layoffs)
+ - [Spotify says CFO Paul Vogel plans to leave on March 31, 2024, and launches a search for a successor; Daniel Ek wants a CFO &quot;with a different mix of experiences&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231207/p39#a231207p39)
+ - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
