@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Rock Dust Soak Up Carbon Emissions? A Giant Experiment Is Set to Find Out](https://www.wired.com/story/rock-dust-soak-up-carbon-emissions-climate-experiment/)
- - [This Pill Tracks Your Vitals From the Inside](https://www.wired.com/story/this-pill-tracks-your-vitals-from-the-inside/)
- - [Green Chat Bubbles Aren’t the Problem—Texting Is](https://www.wired.com/story/gadget-lab-podcast-623/)<!-- TECH:END -->
+ - [OWC reveals Express 1M2, an ultra-fast USB 4 NVMe SSD enclosure](https://appleinsider.com/articles/23/12/07/owc-reveals-express-1m2-an-ultra-fast-usb-4-nvme-ssd-enclosure?utm_medium=rss)
+ - [Apple continues its sci-fi push with Constellation in February](https://www.theverge.com/2023/12/7/23991927/apple-tv-plus-constellation-release-date-sci-fi)
+ - [There’s gold &lpar;and lithium and cobalt&rpar; in all those EV battery packs](https://www.theverge.com/23981022/redwood-materials-ev-battery-recycling-infrastructure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
