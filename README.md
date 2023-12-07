@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
- - ⏩ [Bruh](http://9gag.com/gag/amAZ43j)
- - 👉 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)<!-- MEMES:END -->
+ - 💣 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - ⏩ [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 👉 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)<!-- MEMES:END -->
 
 ---
 
