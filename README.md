@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail AutoSpill, a flaw on Android that can expose users&#39; saved credentials from 1Password, LastPass, and other popular password managers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231207/p9#a231207p9)
- - [You&#39;re Going to Want to Know About These iPhone 15 Pro, 15 Pro Max Features     - CNET](https://www.cnet.com/tech/mobile/youre-going-to-want-to-know-about-these-iphone-15-pro-and-15-pro-max-features/#ftag=CAD590a51e)
- - [Thursday Night Football: How to Watch, Stream Patriots vs. Steelers Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-patriots-vs-steelers-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Satellite SOS &#39;is a game changer,&#39; says LA Search and Rescue](https://appleinsider.com/articles/23/12/07/satellite-sos-is-a-game-changer-says-la-search-and-rescue?utm_medium=rss)
+ - [TrendForce: the top 10 chip foundries&#39; Q3 revenue rose 7.9% YoY to $28.29B; TSMC stayed top at ~60%; Intel made the list for the first time in several quarters &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/231207/p12#a231207p12)
+ - [Meta launches Imagine, a standalone AI image generator](https://www.androidauthority.com/meta-launches-imagine-ai-image-generator-3392294/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
