@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - ⏩ [Bruh](http://9gag.com/gag/amAZ43j)
- - 👉 [Why would you only change one number \ud83d\ude02](http://9gag.com/gag/aYV03V2)<!-- MEMES:END -->
+ - ⏩ [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
 
 ---
 
