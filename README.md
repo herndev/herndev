@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This insane $460 price drop on the Google Pixel 7 Pro won’t last](https://www.androidauthority.com/pixel-7-pro-amazon-deal-3392147/)
- - [Q&amp;A with IBM CEO Arvind Krishna on AI&#39;s business uses, Biden&#39;s EO, rolling out WatsonX in July 2023, growing IBM&#39;s AI business, falling behind in AI, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231207/p35#a231207p35)
- - [Some Samsung phones are missing months of Google Play system updates](https://www.androidauthority.com/google-play-samsung-phones-3392493/)<!-- TECH:END -->
+ - [YouTube Premium’s price is going up in yet another country](https://www.androidauthority.com/youtube-premium-price-increase-3392523/)
+ - [Now Android phones can automatically send medical data during 911 calls](https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos)
+ - [Best 3D Printer Deals: 11 Deals to Get You Printing ASAP     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
