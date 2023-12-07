@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch The Game Awards for a chance to win a free Steam Deck OLED](https://www.polygon.com/game-awards-tga/23992204/game-awards-steam-deck-go-giveaway-lenovo-legion-go-sweepstakes)
- - [How to watch The Game Awards 2023](https://www.polygon.com/23969879/game-awards-2023-when-start-time-where-to-watch-nominees)
- - [From Coquette to the Cheetah Classic, here are all the GTA 6 cars we spotted in the trailer](https://www.pcgamer.com/gta-6-cars-list)<!-- GAME:END -->
+ - [Warhammer 40,000: Rogue Trader – the First CRPG in the Warhammer 40,000 Universe](https://news.xbox.com/en-us/2023/12/07/warhammer-40000-rogue-trader-the-first-crpg-in-the-warhammer-40000-universe/)
+ - [Bowser Drops Bars In Jack Black&#39;s New &#39;Peaches&#39; Remix](https://kotaku.com/peaches-bowser-mario-movie-jack-black-remix-rap-1851081104)
+ - [Donald Glover might not even be the best part of his own Mr. &amp; Mrs. Smith show](https://www.polygon.com/23992216/mr-mrs-smith-donald-glover-reboot-trailer-prime-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
