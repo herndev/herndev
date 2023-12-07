@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How in Avernus did I totally miss this secret treasure-stuffed shortcut to the Underdark in Act 1 of Baldur&#39;s Gate 3 no less than seven times?](https://www.pcgamer.com/how-in-avernus-did-i-totally-miss-this-secret-treasure-stuffed-shortcut-to-the-underdark-in-act-1-of-baldurs-gate-3-no-less-than-seven-times)
  - [Corsair launches its first gaming desk, and it&#39;s a beauty](https://www.pcgamer.com/corsair-launches-its-first-gaming-desk-and-its-a-beauty)
- - [PC Gamer magazine&#39;s latest issue is on sale now: SIGIL II and Doom&#39;s 30th anniversary](https://www.pcgamer.com/pc-gamer-magazines-latest-issue-on-sale-now-sigil-ii-and-dooms-30th-anniversary)
- - [The Day Before launch time: when you can play the open world survival MMO](https://www.pcgamer.com/the-day-before-launch-time-release-date)<!-- GAME:END -->
+ - [PC Gamer magazine&#39;s latest issue is on sale now: SIGIL II and Doom&#39;s 30th anniversary](https://www.pcgamer.com/pc-gamer-magazines-latest-issue-on-sale-now-sigil-ii-and-dooms-30th-anniversary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
