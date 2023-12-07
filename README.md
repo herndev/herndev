@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OWC reveals Express 1M2, an ultra-fast USB 4 NVMe SSD enclosure](https://appleinsider.com/articles/23/12/07/owc-reveals-express-1m2-an-ultra-fast-usb-4-nvme-ssd-enclosure?utm_medium=rss)
- - [Apple continues its sci-fi push with Constellation in February](https://www.theverge.com/2023/12/7/23991927/apple-tv-plus-constellation-release-date-sci-fi)
- - [There’s gold &lpar;and lithium and cobalt&rpar; in all those EV battery packs](https://www.theverge.com/23981022/redwood-materials-ev-battery-recycling-infrastructure)<!-- TECH:END -->
+ - [Stellantis makes a big bet on EV battery swapping in new deal with Ample](https://www.theverge.com/2023/12/7/23991923/stellantis-ample-ev-battery-swap-deal-fiat-500e-spain)
+ - [How to watch The Game Awards &lpar;and what to expect&rpar;](https://www.theverge.com/2023/12/7/23990722/how-to-watch-game-awards-2023)
+ - [Amazon’s latest Echo Frames are more style than substance](https://www.theverge.com/23989893/amazon-echo-frames-review-alexa-carrera-cruiser-smart-glasses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
