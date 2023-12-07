@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HAWKED is now available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2023/12/07/hawked-is-now-available-in-preview-for-xbox-insiders/)
- - [When will Solid Snake be released in Fortnite Chapter 5 Season 1?](https://www.polygon.com/fortnite-guide/23989773/solid-snake-release-date-metal-gear-battle-pass)
- - [Pokémon Scarlet And Violet DLC Lets You Play As The Pocket Monsters](https://kotaku.com/pokemon-scarlet-and-violet-dlc-the-indigo-disk-1851080157)<!-- GAME:END -->
+ - [Free Play Days – Just Die Already, Moving Out 2, Call of the Wild: The Angler and Chivalry 2](https://news.xbox.com/en-us/2023/12/07/free-play-days-just-die-already-moving-out-2-call-of-the-wild-the-angler-and-chivalry-2/)
+ - [Here&#39;s how to watch The Game Awards 2023](https://www.pcgamer.com/heres-how-to-watch-the-game-awards-2023)
+ - [The best accessories for your Steam Deck](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
