@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues grave warning on user privacy to promote its own data protection](https://appleinsider.com/articles/23/12/07/apple-issues-grave-warning-on-user-privacy-to-promote-its-own-data-protection?utm_medium=rss)
- - [Sources: Montenegro&#39;s Justice Minister has privately said he plans to extradite Do Kwon to the US rather than South Korea to face criminal charges &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p26#a231207p26)
- - [Apple refuses to recognize Southampton store union, staff pushes forward anyway](https://appleinsider.com/articles/23/12/07/apple-refuses-to-recognize-apple-southampton-unionization-requests-staff-pushes-forward-anyway?utm_medium=rss)<!-- TECH:END -->
+ - [The new Mammoth app is a much simpler take on Mastodon](https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon)
+ - [Track your goals with almost 50% off the Fossil Gen 6 Wellness Edition](https://www.androidauthority.com/fossil-gen-6-wellness-edition-deal-3392392/)
+ - [Elijah Wood and Mike Tyson Cameo Videos Were Used in a Russian Disinformation Campaign](https://www.wired.com/story/elijah-wood-mike-tyson-russia-ukraine-disinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
