@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [GTA 6 detectives think its first trailer actually plays out in reverse—all thanks to an ankle bracelet with some grim, real-world implications](https://www.pcgamer.com/gta-6-detectives-think-its-first-trailer-actually-plays-out-in-reverseall-thanks-to-an-ankle-bracelet-with-some-grim-real-world-implications)<!-- GAME:END -->
+ - [Safer Seas Mode Brings Single-Crew Servers to Sea of Thieves](https://news.xbox.com/en-us/2023/12/07/sea-of-thieves-safer-seas/)
+ - [Warhammer 40K: Rogue Trader lets you make truly terrible RPG choices](https://www.polygon.com/23988450/warhammer-40k-rogue-trader-rpg-choices-bad-evil-heresy)
+ - [The Game Awards 2023: All the news, announcements, and trailers](https://www.polygon.com/game-awards-tga/23988177/game-awards-2023-announcements-winners)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
