@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
- - ⏩ [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 👉 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)<!-- MEMES:END -->
+ - 💣 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - ⏩ [Bruh](http://9gag.com/gag/amAZ43j)
+ - 👉 [Why would you only change one number \ud83d\ude02](http://9gag.com/gag/aYV03V2)<!-- MEMES:END -->
 
 ---
 
