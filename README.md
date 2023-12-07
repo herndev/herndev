@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why not?](http://9gag.com/gag/aYV0382)
- - ⏩ [GTA 6](http://9gag.com/gag/aXnOByz)
- - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
+ - 💣 [YOU BETTER WATCH OUT](http://9gag.com/gag/a9qGodD)
+ - ⏩ [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 👉 [You want to see the lambada ?](http://9gag.com/gag/ay2KgRq)<!-- MEMES:END -->
 
 ---
 
