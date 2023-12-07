@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - ⏩ [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
- - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
+ - 💣 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
+ - ⏩ [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 👉 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)<!-- MEMES:END -->
 
 ---
 
