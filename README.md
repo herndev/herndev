@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Rogue Trader – the First CRPG in the Warhammer 40,000 Universe](https://news.xbox.com/en-us/2023/12/07/warhammer-40000-rogue-trader-the-first-crpg-in-the-warhammer-40000-universe/)
- - [Bowser Drops Bars In Jack Black&#39;s New &#39;Peaches&#39; Remix](https://kotaku.com/peaches-bowser-mario-movie-jack-black-remix-rap-1851081104)
- - [Donald Glover might not even be the best part of his own Mr. &amp; Mrs. Smith show](https://www.polygon.com/23992216/mr-mrs-smith-donald-glover-reboot-trailer-prime-video)<!-- GAME:END -->
+ - [The Alone in the Dark reboot is delayed until March so developers can &#39;avoid any potential crunch over the Christmas holidays&#39;](https://www.pcgamer.com/the-alone-in-the-dark-reboot-is-delayed-until-march-so-developers-can-avoid-any-potential-crunch-over-the-christmas-holidays)
+ - [Fortnite&#39;s Lego survival mode is way bigger than we thought, and millions of people are playing it](https://www.pcgamer.com/fortnites-lego-survival-mode-is-way-bigger-than-we-thought-and-millions-of-people-are-playing-it)
+ - [The best free games for Amazon Prime members](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
