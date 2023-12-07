@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Livin that college life!](https://www.reddit.com/r/memes/comments/18d4e99/livin_that_college_life/)
- - ⏩ [How many kids were sorely disappointed watching this show?](https://www.reddit.com/r/funny/comments/18d4e1e/how_many_kids_were_sorely_disappointed_watching/)
- - 👉 [Simba](https://www.reddit.com/r/funny/comments/18d4bai/simba/)<!-- MEMES:END -->
+ - 💣 [Mel not only dislikes jews but loves helping others. Truelly a great man.](http://9gag.com/gag/aOxW6Y3)
+ - ⏩ [If they can make an anime girl model I&#39;ll simp](http://9gag.com/gag/agoePK6)
+ - 👉 [Hamas supporters 2 months ago VS Hamas supporters today](http://9gag.com/gag/axorpMn)<!-- MEMES:END -->
 
 ---
 
