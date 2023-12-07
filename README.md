@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone know why?](http://9gag.com/gag/aL1ExAW)
- - ⏩ [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
- - 👉 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)<!-- MEMES:END -->
+ - 💣 [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
+ - ⏩ [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 👉 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)<!-- MEMES:END -->
 
 ---
 
