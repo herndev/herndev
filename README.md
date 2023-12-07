@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft plans the next major Windows version for 2024, with an AI-powered Windows Shell, an &quot;advanced Copilot&quot;, natural language search, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231206/p44#a231206p44)
- - [Messenger is finally getting end-to-end encryption by default](https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta)
- - [Best Apple Watch Deals: Series 9 for $330, Up to $425 in Trade-In Credit and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bitzlato co-founder Anatoly Legkodymov pleads guilty in the US to operating a money transmitting business for illicit funds and agrees to dissolve the exchange &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231206/p46#a231206p46)
+ - [Meta is rolling out end-to-end encryption to Messenger by default, for one-on-one chats and calls; E2EE for group chats remains opt-in &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231206/p45#a231206p45)
+ - [Sources: Microsoft plans the next major Windows version for 2024, with an AI-powered Windows Shell, an &quot;advanced Copilot&quot;, natural language search, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231206/p44#a231206p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
