@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 trailer smashes a YouTube viewership record—but still can&#39;t compare with another three-letter acronym](https://www.pcgamer.com/gta-6-trailer-smashes-a-youtube-viewership-recordbut-still-cant-compare-with-another-three-letter-acronym)
- - [One of the best RTS games we&#39;ve played in years launched a crowdfunding campaign yesterday, and crushed its goal in just 15 minutes](https://www.pcgamer.com/one-of-the-best-rts-games-weve-played-in-years-launched-a-crowdfunding-campaign-yesterday-and-crushed-its-goal-in-just-15-minutes)
- - [New Steam Sale Contains Some Of The Best Games Ever](https://kotaku.com/steam-sale-2023-game-awards-starfield-diablo-gta-1851078948)<!-- GAME:END -->
+ - [This beautiful 16-player co-op survival game from former Riot devs just got a new trailer and an official name](https://www.pcgamer.com/this-beautiful-16-player-co-op-survival-game-from-former-riot-devs-just-got-a-new-trailer-and-an-official-name)
+ - [Xbox Insider Release Notes – Omega &lpar;2311.231205-1910&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-omega-2311-231205-1910/)
+ - [Xbox Insider Release Notes – Delta &lpar;2311.231205-1910&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-delta-2311-231205-1910/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
