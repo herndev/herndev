@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YOU BETTER WATCH OUT](http://9gag.com/gag/a9qGodD)
- - ⏩ [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 👉 [You want to see the lambada ?](http://9gag.com/gag/ay2KgRq)<!-- MEMES:END -->
+ - 💣 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - ⏩ [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 ---
 
