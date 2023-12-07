@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exploring the seas on a magic surfboard looks awesome in this 16-player co-op survival game from former Riot devs](https://www.pcgamer.com/this-beautiful-16-player-co-op-survival-game-from-former-riot-devs-just-got-a-new-trailer-and-an-official-name)
- - [Xbox Insider Release Notes – Omega &lpar;2311.231205-1910&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-omega-2311-231205-1910/)
- - [Xbox Insider Release Notes – Delta &lpar;2311.231205-1910&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-delta-2311-231205-1910/)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #901 for Thursday, December 7](https://www.pcgamer.com/wordle-today-answer-901-december-7)
+ - [464 parties have already finished the new permadeath Honour Mode in Baldur&#39;s Gate 3, but it&#39;s also killed 34,000 player-characters so far](https://www.pcgamer.com/464-parties-have-already-finished-the-new-permadeath-honour-mode-in-baldurs-gate-3-but-its-also-killed-34000-player-characters-so-far)
+ - [Exploring the seas on a magic surfboard looks awesome in this 16-player co-op survival game from former Riot devs](https://www.pcgamer.com/this-beautiful-16-player-co-op-survival-game-from-former-riot-devs-just-got-a-new-trailer-and-an-official-name)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
