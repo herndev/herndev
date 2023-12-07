@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You hired](http://9gag.com/gag/aVb6NAw)
- - ⏩ [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 👉 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)<!-- MEMES:END -->
+ - 💣 [Sure and indeed](http://9gag.com/gag/amAZjQ9)
+ - ⏩ [This is BBC news!](http://9gag.com/gag/aOxWg26)
+ - 👉 [You want to see the lambada ?](http://9gag.com/gag/ay2KgRq)<!-- MEMES:END -->
 
 ---
 
