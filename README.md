@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Steve Hotelling, the Apple VP overseeing technologies like touchscreen, health sensors, and Face ID, and one of the inventors of Touch ID, is retiring &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231206/p42#a231206p42)
- - [Apple executive behind Touch ID, display multitouch is retiring](https://appleinsider.com/articles/23/12/06/apple-executive-behind-touch-id-display-multitouch-is-retiring?utm_medium=rss)
- - [Video Games That Encourage Human Interaction Can Build Better Vibes](https://www.wired.com/story/live-wired-panel-will-games-eat-the-world/)<!-- TECH:END -->
+ - [Sources: Microsoft plans the next major Windows version for 2024, with an AI-powered Windows Shell, an &quot;advanced Copilot&quot;, natural language search, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231206/p44#a231206p44)
+ - [Messenger is finally getting end-to-end encryption by default](https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta)
+ - [Best Apple Watch Deals: Series 9 for $330, Up to $425 in Trade-In Credit and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
