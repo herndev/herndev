@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Just Die Already, Moving Out 2, Call of the Wild: The Angler and Chivalry 2](https://news.xbox.com/en-us/2023/12/07/free-play-days-just-die-already-moving-out-2-call-of-the-wild-the-angler-and-chivalry-2/)
- - [Here&#39;s how to watch The Game Awards 2023](https://www.pcgamer.com/heres-how-to-watch-the-game-awards-2023)
- - [The best accessories for your Steam Deck](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
+ - [King Arthur: A Knight’s Tale Comes to Xbox February 22 – Play Now During the ID@Xbox Demo Fest](https://news.xbox.com/en-us/2023/12/07/king-arthur-a-knights-tale-comes-to-xbox-february-22-play-now-during-the-idxbox-demo-fest/)
+ - [If you&#39;re feeling bad about dying in Baldur&#39;s Gate 3&#39;s Honour Mode, don&#39;t worry—this speedrunner who beat it in under 40 minutes is about to make you feel way worse](https://www.pcgamer.com/if-youre-feeling-bad-about-dying-in-baldurs-gate-3s-honour-mode-dont-worrythis-speedrunner-who-beat-it-in-under-40-minutes-is-about-to-make-you-feel-way-worse)
+ - [When do you get the ikran in Avatar: Frontiers of Pandora?](https://www.polygon.com/guides/23991993/ikran-dragon-flying-mount-avatar-frontiers-of-pandora)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
