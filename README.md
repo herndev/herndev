@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Corsair launches its first gaming desk, and it&#39;s a beauty](https://www.pcgamer.com/corsair-launches-its-first-gaming-desk-and-its-a-beauty)
  - [PC Gamer magazine&#39;s latest issue is on sale now: SIGIL II and Doom&#39;s 30th anniversary](https://www.pcgamer.com/pc-gamer-magazines-latest-issue-on-sale-now-sigil-ii-and-dooms-30th-anniversary)
- - [The Day Before launch time: when you can play the open world survival MMO](https://www.pcgamer.com/the-day-before-launch-time-release-date)
- - [The best archetypes in Warhammer 40K: Rogue Trader](https://www.polygon.com/guides/23991015/warhammer-40k-rogue-trader-best-archetypes-tier-2)<!-- GAME:END -->
+ - [The Day Before launch time: when you can play the open world survival MMO](https://www.pcgamer.com/the-day-before-launch-time-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
