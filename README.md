@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
- - [Social Security 2024 COLA Increase: Your Checks Are Getting Bigger Next Year     - CNET](https://www.cnet.com/personal-finance/social-security-2024-cola-increase-your-checks-are-getting-bigger-next-year/#ftag=CAD590a51e)
- - [iMessage is just the start: Beeper Mini to soon get Facetime, SMS, RCS, more](https://www.androidauthority.com/beeper-mini-facetime-sms-rcs-3392214/)<!-- TECH:END -->
+ - [Reuters temporarily removes its article titled &quot;How an Indian startup hacked the world&quot; to comply with an Indian court order, and plans to appeal the decision &lpar;Reuters&rpar;](http://www.techmeme.com/231207/p8#a231207p8)
+ - [You can now talk to AI on WhatsApp, Messenger and Instagram](https://www.androidauthority.com/meta-ai-rollout-whatsapp-facebook-messenger-instagram-3392249/)
+ - [Officials attribute a DDoS attack against the HHS in March 2020 to a state-level actor; docs: the DDoS attack was largest the US government had ever experienced &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p7#a231207p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
