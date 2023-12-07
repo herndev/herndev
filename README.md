@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notepad on Windows 11 is finally getting a character count](https://www.theverge.com/2023/12/7/23992413/microsoft-windows-11-notepad-character-count-widgets-improvements)
- - [Threads has hashtags now](https://www.theverge.com/2023/12/7/23992357/threads-hashtags-tags)
- - [Rhythms, which wants to use AI to analyze companies&#39; patterns such as monthly business reviews and weekly meetings, comes out of stealth with a $26M seed &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231207/p32#a231207p32)<!-- TECH:END -->
+ - [One day, your EV might power your home’s A/C](https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging)
+ - [Google gives users a way move their podcasts before Google Podcasts ends](https://www.androidauthority.com/google-podcasts-migration-tool-3392468/)
+ - [American Express doesn&#39;t seem that interested in an Apple Card partnership](https://appleinsider.com/articles/23/12/07/american-express-doesnt-seem-that-interested-in-an-apple-card-partnership?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
