@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you](http://9gag.com/gag/aDYvK57)
- - ⏩ [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 👉 [GTA 6](http://9gag.com/gag/aXnOByz)<!-- MEMES:END -->
+ - 💣 [Just move](http://9gag.com/gag/aXnO5jD)
+ - ⏩ [It&#39;ll be interesting to see if his actions follow his words, and if France will be next](http://9gag.com/gag/aZDYAvV)
+ - 👉 [To the tunnels from the sea - Gaza will be free](http://9gag.com/gag/abv89YO)<!-- MEMES:END -->
 
 ---
 
