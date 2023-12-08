@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tracxn: Indian startups raised ~$7B in 2023, the lowest since 2018 and down from ~$25B in 2022 and ~$37B in 2021; Bessemer made only one deal in India in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231208/p20#a231208p20)
- - [US Residential Solar Installations Broke Record in Third Quarter     - CNET](https://www.cnet.com/home/energy-and-utilities/us-residential-solar-installations-broke-record-in-third-quarter/#ftag=CAD590a51e)
- - [There won’t be a small Chevy Bolt EV on GM’s Ultium platform](https://www.theverge.com/2023/12/8/23993840/chevy-bolt-ev-euv-gm-ultium-hatchback-size)<!-- TECH:END -->
+ - [Apple&#39;s vice president of product design leaving in February](https://appleinsider.com/articles/23/12/08/apples-vice-president-of-product-design-leaving-in-february?utm_medium=rss)
+ - [Sources: complaints from some senior OpenAI staff that Sam Altman had been psychologically abusive were a major factor in the board&#39;s decision to fire Altman &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231208/p22#a231208p22)
+ - [Amazon scammers used hacks and bribes to make millions off fake returns](https://www.theverge.com/2023/12/8/23993573/amazon-rekk-refund-return-fraud-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
