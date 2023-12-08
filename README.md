@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - ⏩ [GTA 6](http://9gag.com/gag/aXnOByz)
- - 👉 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)<!-- MEMES:END -->
+ - 💣 [Lifehack found](http://9gag.com/gag/aEq4rWx)
+ - ⏩ [Raised a kitten](http://9gag.com/gag/aA0zBR9)
+ - 👉 [Why is that](http://9gag.com/gag/aKEo4Bb)<!-- MEMES:END -->
 
 ---
 
