@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads is counting down to an EU launch next week](https://www.theverge.com/2023/12/8/23993595/threads-meta-eu-europe-launch-date)
- - [Source: the US FTC is examining the nature of Microsoft&#39;s investment in OpenAI and whether it violates antitrust laws &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231208/p16#a231208p16)
- - [Google launches its ultimate Gemini-powered writing assistant NotebookLM](https://www.androidauthority.com/google-notebooklm-launch-3392838/)<!-- TECH:END -->
+ - [Sources: X has had preliminary talks with Amazon to make ads available via Amazon&#39;s ad-buying software, and PubMatic, as it seeks to attract smaller advertisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p18#a231208p18)
+ - [The First Crispr Medicine Is Now Approved in the US](https://www.wired.com/story/the-first-crispr-medicine-is-now-approved-in-the-us/)
+ - [Google and McDonald’s team up to give you a side of AI with your burger](https://www.androidauthority.com/google-mcdonalds-ai-3392879/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
