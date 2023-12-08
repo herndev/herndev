@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto will now let you save your parking location when you arrive at your destination](https://www.androidauthority.com/android-auto-google-maps-parking-location-3392613/)
- - [Sources: In a first, Apple is working with China&#39;s BYD to move new product development for an iPad to Vietnam, with test production to begin around early 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231208/p2#a231208p2)
- - [Sources: Apple and its suppliers aim to make 50M+ iPhones annually in India in the next 2-3 years, and a quarter of global iPhones by the end of the decade &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p1#a231208p1)<!-- TECH:END -->
+ - [Abu Dhabi-based AI company G42 plans to cut ties with Chinese hardware suppliers in favor of US counterparts, saying &quot;we cannot work with both sides&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231208/p3#a231208p3)
+ - [The Motorola Razr Plus is now available in a vibrant Peach Fuzz option](https://www.androidauthority.com/motorola-razr-plus-peach-fuzz-3391834/)
+ - [Android Auto will now let you save your parking location when you arrive at your destination](https://www.androidauthority.com/android-auto-google-maps-parking-location-3392613/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
