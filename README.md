@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s time for someone to speak up.](http://9gag.com/gag/a1P64nv)
- - ⏩ [Sure and indeed](http://9gag.com/gag/amAZjQ9)
- - 👉 [If they can make an anime girl model I&#39;ll simp](http://9gag.com/gag/agoePK6)<!-- MEMES:END -->
+ - 💣 [When you start living alone.](http://9gag.com/gag/awZpq5R)
+ - ⏩ [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 👉 [Eliminated the Russian occupier with a sniper at 3800m. Vyacheslav Kovalskyi &lpar;Security Service of Ukraine&rpar;. MCR Horizon&#39;s Lord caliber 12.7\u00d7114 mm HL &lpar;bullet from .50 BMG + re-chambered case from 14.5\u00d7114 mm&rpar;. Bullet time ~ 10 s. Video of the shooting in the comments.](http://9gag.com/gag/a8qgZ2e)<!-- MEMES:END -->
 
 ---
 
