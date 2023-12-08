@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Alibaba&#39;s decline since China halted Ant&#39;s IPO in 2020, losing its online shopping dominance to rival PDD last week, and roadblocks in revival plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p4#a231208p4)
- - [The best AI copywriting tools currently available](https://www.androidauthority.com/best-ai-copywriting-tools-3385129/)
- - [Discord updated its mobile app layout, and users absolutely hate it](https://www.androidauthority.com/discord-new-mobile-layout-update-3392631/)<!-- TECH:END -->
+ - [A UK class action lawsuit against Vodafone, EE, Three UK, and O2, filed last week, accuses them of overcharging ~4.8M customers over 16 years and seeks &amp;pound;3.3B &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/231208/p8#a231208p8)
+ - [The UK&#39;s CMA is considering whether Microsoft and OpenAI&#39;s partnership should be called in for a merger probe, and asks for comments from interested parties &lpar;Bloomberg&rpar;](http://www.techmeme.com/231208/p7#a231208p7)
+ - [Google’s Gemini AI is impressive, but that viral demo isn’t completely real](https://www.androidauthority.com/google-gemini-ai-demo-3392684/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
