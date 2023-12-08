@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ikumi Nakamura Came Back To The Game Awards And Brought Her New Game With Her](https://kotaku.com/ikumi-nakamura-s-new-game-gets-debut-trailer-at-the-gam-1851083006)
- - [Rise of the Ronin arrives only on PS5 March 22](https://blog.playstation.com/2023/12/07/rise-of-the-ronin-arrives-only-on-ps5-march-22/)
- - [Dragon Ball: Sparking Zero Trailer Plays All The Greatest Hits](https://kotaku.com/dragon-ball-sparking-zero-budokai-tenkaichi-4-trailer-1851083009)<!-- GAME:END -->
+ - [Dishonored Devs Working On Marvel&#39;s Blade](https://kotaku.com/blade-arkane-dishonored-redfall-marvel-game-awards-1851083129)
+ - [Life is Strange team announces Lost Records: Bloom &amp; Rage, a &#39;90s teen drama with 27 years of trauma baked in](https://www.pcgamer.com/life-is-strange-team-announces-lost-records-bloom-and-rage-a-90s-teen-drama-with-27-years-of-trauma-baked-in)
+ - [Skull and Bones: Everything You Need to Know About the December Closed Beta and 2024 Launch](https://news.xbox.com/en-us/2023/12/07/skull-and-bones-december-closed-beta-and-2024-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
