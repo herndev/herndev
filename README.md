@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad Will Get An Offline Story Mode, Eventually](https://kotaku.com/suicide-squad-justice-league-trailer-offline-mode-1851083286)
- - [The Game Awards Needs To Drop The Act And Just Become Winter E3](https://kotaku.com/game-awards-keighley-e3-trailers-1851083267)
- - [&#39;I didn&#39;t think we were gonna get it&#39;: Baldur&#39;s Gate 3 dominates The Game Awards with 6 wins, including GOTY](https://www.pcgamer.com/baldurs-gate-3-game-awards-goty)<!-- GAME:END -->
+ - [Every trailer and announcement from The Game Awards 2023](https://www.pcgamer.com/the-game-awards-2023-trailers-announcements)
+ - [The biggest announcements from The Game Awards 2023](https://www.polygon.com/game-awards-tga/23992648/the-game-awards-2023-biggest-game-announcements-trailers)
+ - [Suicide Squad Will Get An Offline Story Mode, Eventually](https://kotaku.com/suicide-squad-justice-league-trailer-offline-mode-1851083286)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
