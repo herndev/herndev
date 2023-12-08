@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s powerful and independent labor movement presents a challenge for Apple in its ambitions to diversify its production away from China &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/231208/p10#a231208p10)
- - [Tesla confirms Apple Podcasts coming in holiday update &#39;next week&#39;](https://appleinsider.com/articles/23/12/08/tesla-confirms-apple-podcasts-coming-in-holiday-update-next-week?utm_medium=rss)
- - [Mobile network companies have backed themselves into a corner by racing to roll out 5G, taking on piles of debt with few returns to show for their investments &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231208/p9#a231208p9)<!-- TECH:END -->
+ - [Hayao Miyazaki’s The Boy and the Heron is a beautiful relic — and the end of an era](https://www.theverge.com/23797349/how-do-you-live-review-studio-ghibli-hayao-miyazaki)
+ - [Google Gemini AI Tries Outsmarting ChatGPT With Photo and Video Skills     - CNET](https://www.cnet.com/tech/computing/google-gemini-ai-tries-outsmarting-chatgpt-with-photo-video-skills/#ftag=CAD590a51e)
+ - [Amazon sues an &quot;international fraud organization&quot; for allegedly stealing millions of dollars in merchandise from the company through a series of refund scams &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231208/p11#a231208p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
