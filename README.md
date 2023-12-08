@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait..](http://9gag.com/gag/aeQBorW)
- - ⏩ [GTA 6](http://9gag.com/gag/aXnOByz)
- - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 💣 [Thank you](http://9gag.com/gag/aDYvK57)
+ - ⏩ [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 👉 [GTA 6](http://9gag.com/gag/aXnOByz)<!-- MEMES:END -->
 
 ---
 
