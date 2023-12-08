@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 tips and tricks to know before starting Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23993737/tips-tricks-beginners-guide)
- - [Best XRK Stalker loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23994065/xrk-stalker-loadout-class-build-mw3)
- - [I’m So Ready For Square Enix To Finally Make A Good Mana RPG Again](https://kotaku.com/visions-mana-square-enix-rpg-trailer-1851086089)<!-- GAME:END -->
+ - [5 things leftover from the Grand Theft Auto 6 leaks we haven&#39;t seen yet](https://www.pcgamer.com/5-things-leftover-from-the-grand-theft-auto-6-leaks-we-havent-seen-yet)
+ - [It&#39;s not just you: we were sure there&#39;d be an Elden Ring DLC trailer at The Game Awards, so when the heck will we see one?](https://www.pcgamer.com/its-not-just-you-we-were-sure-thered-be-an-elden-ring-dlc-trailer-at-the-game-awards-so-when-the-heck-will-we-see-one)
+ - [Warhammer 40K: Rogue Trader continues Games Workshop’s policy of not directly crediting employees](https://www.polygon.com/23994043/warhammer-40k-rogue-trader-credits-games-workshop-employees)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
