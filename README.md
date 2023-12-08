@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft, Meta and OpenAI back AMD&#39;s monstrous new 153 billion-transistor alternative to Nvidia&#39;s AI chips](https://www.pcgamer.com/microsoft-meta-and-openai-back-amds-monstrous-new-153-billion-transistor-alternative-to-nvidias-ai-chips)
- - [Every trailer and announcement from The Game Awards 2023](https://www.pcgamer.com/the-game-awards-2023-trailers-announcements)
- - [The biggest announcements from The Game Awards 2023](https://www.polygon.com/game-awards-tga/23992648/the-game-awards-2023-biggest-game-announcements-trailers)<!-- GAME:END -->
+ - [Windows 11 23H2 update reportedly slows down gaming performance for some but there does seem to be a somewhat complicated fix](https://www.pcgamer.com/windows-11-23h2-update-reportedly-slows-down-gaming-performance-for-some-but-there-does-seem-to-be-a-somewhat-complicated-fix)
+ - [Big-name celebs are fine, but Flute Guy&#39;s return to The Game Awards was the main event](https://www.pcgamer.com/big-name-celebs-are-fine-but-flute-guys-return-to-the-game-awards-was-the-main-event)
+ - [All Genshin Impact codes from the version 4.3 livestream](https://www.pcgamer.com/genshin-impact-codes-4-3-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
