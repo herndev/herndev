@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol.](http://9gag.com/gag/aNwEmGK)
- - ⏩ [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
+ - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - ⏩ [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
 
 ---
 
