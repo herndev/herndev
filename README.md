@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let Cid Smoke In Final Fantasy VII Rebirth](https://kotaku.com/final-fantasy-vii-rebirth-cid-smoke-cigarette-1851085896)
- - [Where to find rough amber in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23994018/rough-amber-biome-location-where-to-find)
- - [I’m Here For Everything Rise Of The Ronin Is Serving](https://kotaku.com/rise-of-the-ronin-release-date-game-awards-trailer-1851085777)<!-- GAME:END -->
+ - [8 tips and tricks to know before starting Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23993737/tips-tricks-beginners-guide)
+ - [Best XRK Stalker loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23994065/xrk-stalker-loadout-class-build-mw3)
+ - [I’m So Ready For Square Enix To Finally Make A Good Mana RPG Again](https://kotaku.com/visions-mana-square-enix-rpg-trailer-1851086089)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
