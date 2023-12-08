@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for December 11 – 15](https://news.xbox.com/en-us/2023/12/08/next-week-on-xbox-new-games-for-december-11-15/)
- - [Where to find a roller in Lego Fortnite and how to defeat it](https://www.pcgamer.com/lego-fortnite-roller-shell)
- - [How to get Fertilizer in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-fertilizer-location)<!-- GAME:END -->
+ - [Microsoft QA workers to become full-time, unionized employees](https://www.polygon.com/23993479/microsoft-qa-workers-zenimax-union-cwa)
+ - [The creators of Persona 5 are venturing into sword and sorcery, and it could be what gets me finally playing an Atlus RPG](https://www.pcgamer.com/the-creators-of-persona-5-are-venturing-into-sword-and-sorcery-and-it-could-be-what-gets-me-finally-playing-an-atlus-rpg)
+ - [TOTK Devs Says Zelda May Be Playable One Day, Maybe](https://kotaku.com/tears-of-the-kingdom-totk-zelda-playable-aonuma-1851084284)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
