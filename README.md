@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam’s most-wishlisted game is finally out — and on fire](https://www.polygon.com/23992623/the-day-before-steam-launch-zombie-mmo)
- - [How to build and upgrade a village in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992265/village-build-upgrade-rating-square-hub)
- - [The Walking Dead: Betrayal halts development and will be pulled from Steam just three months after launch](https://www.pcgamer.com/the-walking-dead-betrayal-halts-development-and-will-be-pulled-from-steam-just-three-months-after-launch)<!-- GAME:END -->
+ - [How to romance companions in Warhammer 40K: Rogue Trader](https://www.polygon.com/guides/23991017/warhammer-40k-rogue-trader-romance-companions-how-to)
+ - [The Day Before launches to &#39;overwhelmingly negative&#39; Steam reviews as players complain it&#39;s &#39;not an open world MMO&#39;](https://www.pcgamer.com/the-day-before-launches-to-overwhelmingly-negative-steam-reviews-as-players-complain-its-not-an-open-world-mmo)
+ - [Steam’s most-wishlisted game is finally out — and on fire](https://www.polygon.com/23992623/the-day-before-steam-launch-zombie-mmo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
