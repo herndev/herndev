@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to romance companions in Warhammer 40K: Rogue Trader](https://www.polygon.com/guides/23991017/warhammer-40k-rogue-trader-romance-companions-how-to)
- - [The Day Before launches to &#39;overwhelmingly negative&#39; Steam reviews as players complain it&#39;s &#39;not an open world MMO&#39;](https://www.pcgamer.com/the-day-before-launches-to-overwhelmingly-negative-steam-reviews-as-players-complain-its-not-an-open-world-mmo)
- - [Steam’s most-wishlisted game is finally out — and on fire](https://www.polygon.com/23992623/the-day-before-steam-launch-zombie-mmo)<!-- GAME:END -->
+ - [God Of War Ragnarök Gets Free Valhalla Roguelike DLC](https://kotaku.com/god-war-ragnarok-free-valhalla-dlc-ps5-1851082941)
+ - [Matthew McConaughey Shows Off New Time-Bending Sci-Fi Game Exodus](https://kotaku.com/matthew-mcconaughey-exodus-space-game-awards-trailer-1851082938)
+ - [With Exodus, ex-BioWare devs aim to be ‘a titan’ in the RPG space again](https://www.polygon.com/game-awards-tga/23992111/exodus-release-date-bioware-rpg-archetype)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
