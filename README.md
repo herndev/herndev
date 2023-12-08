@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lifehack found](http://9gag.com/gag/aEq4rWx)
- - ⏩ [Raised a kitten](http://9gag.com/gag/aA0zBR9)
- - 👉 [Why is that](http://9gag.com/gag/aKEo4Bb)<!-- MEMES:END -->
+ - 💣 [Lol.](http://9gag.com/gag/aNwEmGK)
+ - ⏩ [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
 
 ---
 
