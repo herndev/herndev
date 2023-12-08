@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
- - ⏩ [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
- - 👉 [Fak around and what?](http://9gag.com/gag/aEq4r5O)<!-- MEMES:END -->
+ - 💣 [One of the main supporters in Spain for bodypositive has died at 47 for being fat &lpar;heart failure&rpar;. Ironic.](http://9gag.com/gag/aNwEr20)
+ - ⏩ [Cats](http://9gag.com/gag/aBdBRr2)
+ - 👉 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)<!-- MEMES:END -->
 
 ---
 
