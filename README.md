@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)
- - ⏩ [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
- - 👉 [Natural selection](http://9gag.com/gag/amA4NAX)<!-- MEMES:END -->
+ - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - ⏩ [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
+ - 👉 [Fak around and what?](http://9gag.com/gag/aEq4r5O)<!-- MEMES:END -->
 
 ---
 
