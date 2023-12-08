@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How&#39;s chemistry going?](http://9gag.com/gag/anzoAxq)
- - ⏩ [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 👉 [It&#39;ll be interesting to see if his actions follow his words, and if France will be next](http://9gag.com/gag/aZDYAvV)<!-- MEMES:END -->
+ - 💣 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
+ - ⏩ [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 👉 [A honest and fallen brother.](http://9gag.com/gag/a3ZOmjm)<!-- MEMES:END -->
 
 ---
 
