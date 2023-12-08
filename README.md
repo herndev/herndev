@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft QA workers to become full-time, unionized employees](https://www.polygon.com/23993479/microsoft-qa-workers-zenimax-union-cwa)
- - [The creators of Persona 5 are venturing into sword and sorcery, and it could be what gets me finally playing an Atlus RPG](https://www.pcgamer.com/the-creators-of-persona-5-are-venturing-into-sword-and-sorcery-and-it-could-be-what-gets-me-finally-playing-an-atlus-rpg)
- - [TOTK Devs Says Zelda May Be Playable One Day, Maybe](https://kotaku.com/tears-of-the-kingdom-totk-zelda-playable-aonuma-1851084284)<!-- GAME:END -->
+ - [The Secret Ingredient in Metal: Hellsinger’s New Horde Mode – Roguelite Design](https://news.xbox.com/en-us/2023/12/08/metal-hellsinger-new-horde-mode-roguelite/)
+ - [Where to find Knotroot in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-knotroot-location)
+ - [Starfield Testers Had To Unionize To Get A Copy Of The Game](https://kotaku.com/microsoft-xbox-starfield-bugs-testers-union-1851084623)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
