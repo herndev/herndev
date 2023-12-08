@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI Update Adds Heartbreaking New Detail About Your Beloved Wolf](https://kotaku.com/final-fantasy-16-ff16-update-1-21-torgal-inner-voice-1851085471)
- - [Best RAM-7 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23993792/best-ram-7-loadout-class-build-mw3)
- - [Jurassic World: Adventures DLC Now Available in the Minecraft Marketplace](https://www.minecraft.net/en-us/article/new-jurassic-world-adventures#new_tab)<!-- GAME:END -->
+ - [Let Cid Smoke In Final Fantasy VII Rebirth](https://kotaku.com/final-fantasy-vii-rebirth-cid-smoke-cigarette-1851085896)
+ - [Where to find rough amber in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23994018/rough-amber-biome-location-where-to-find)
+ - [I’m Here For Everything Rise Of The Ronin Is Serving](https://kotaku.com/rise-of-the-ronin-release-date-game-awards-trailer-1851085777)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
