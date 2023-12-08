@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Game Awards 2023: the biggest news, trailers, and announcements](https://www.theverge.com/23981532/the-game-awards-2023-biggest-news-trailers-announcements)
- - [Google Pixel Fold: Bag Big Savings on Google&#39;s Foldable Phone for the Holidays     - CNET](https://www.cnet.com/deals/best-pixel-fold-deals/#ftag=CAD590a51e)
- - [Steve Jobs $4.01 check to RadioShack sold for $46,063 at auction](https://appleinsider.com/articles/23/12/07/steve-jobs-401-check-for-radioshack-sold-for-46063-at-auction?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Prime tests a $9.99 per month unlimited grocery delivery subscription](https://www.theverge.com/2023/12/7/23992777/amazon-prime-unlimited-grocery-delivery-pilot)
+ - [Best Internet Providers in Fayetteville, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-nc/#ftag=CAD590a51e)
+ - [Best Online Glasses and Contacts Deals: These Savings Are a Sight for Sore Eyes     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
