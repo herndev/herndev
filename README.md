@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hayao Miyazaki’s The Boy and the Heron is a beautiful relic — and the end of an era](https://www.theverge.com/23797349/how-do-you-live-review-studio-ghibli-hayao-miyazaki)
- - [Google Gemini AI Tries Outsmarting ChatGPT With Photo and Video Skills     - CNET](https://www.cnet.com/tech/computing/google-gemini-ai-tries-outsmarting-chatgpt-with-photo-video-skills/#ftag=CAD590a51e)
- - [Amazon sues an &quot;international fraud organization&quot; for allegedly stealing millions of dollars in merchandise from the company through a series of refund scams &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231208/p11#a231208p11)<!-- TECH:END -->
+ - [Google won’t say how &lpar;or if&rpar; it will enforce watermarks for gAI photography](https://www.androidauthority.com/google-generative-ai-images-3389573/)
+ - [Google launches the Gemini Pro-powered NotebookLM, demoed at I/O 2023 as an &quot;AI-first notebook&quot; that pulls information from users&#39; documents, in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231208/p13#a231208p13)
+ - [The fight to clean up the toxic legacy of semiconductors](https://www.theverge.com/23990525/semiconductor-biden-infrastructure-plan-toxic-chemicals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
