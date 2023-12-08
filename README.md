@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just move](http://9gag.com/gag/aXnO5jD)
- - ⏩ [It&#39;ll be interesting to see if his actions follow his words, and if France will be next](http://9gag.com/gag/aZDYAvV)
- - 👉 [To the tunnels from the sea - Gaza will be free](http://9gag.com/gag/abv89YO)<!-- MEMES:END -->
+ - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - ⏩ [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
 
 ---
 
