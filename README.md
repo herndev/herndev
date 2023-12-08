@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
+ - 💣 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
  - ⏩ [GTA 6](http://9gag.com/gag/aXnOByz)
- - 👉 [A honest and fallen brother.](http://9gag.com/gag/a3ZOmjm)<!-- MEMES:END -->
+ - 👉 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)<!-- MEMES:END -->
 
 ---
 
