@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X has had preliminary talks with Amazon to make ads available via Amazon&#39;s ad-buying software, and PubMatic, as it seeks to attract smaller advertisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p18#a231208p18)
- - [The First Crispr Medicine Is Now Approved in the US](https://www.wired.com/story/the-first-crispr-medicine-is-now-approved-in-the-us/)
- - [Google and McDonald’s team up to give you a side of AI with your burger](https://www.androidauthority.com/google-mcdonalds-ai-3392879/)<!-- TECH:END -->
+ - [Apple Wallet ticket sharing is becoming more like NameDrop](https://www.theverge.com/2023/12/8/23993780/apple-wallet-ticket-namedrop-ios-17-2)
+ - [Fitbit app may help turn Pixel 8 Pro’s thermometer from gimmick to novelty](https://www.androidauthority.com/pixel-8-pro-fitbit-app-3392918/)
+ - [Microsoft agrees to convert 77 TCWGlobal contract staff at ZeniMax into unionized employees, as part of negotiations with CWA-affiliated ZeniMax Workers United &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/231208/p19#a231208p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
