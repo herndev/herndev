@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2402.231206-2000&rpar;](https://news.xbox.com/en-us/2023/12/08/xbox-insider-release-notes-alpha-2402-231206-2000/)
- - [Get the Xbox Series X for $350 from Walmart or Amazon](https://www.polygon.com/2023/12/8/23993624/xbox-series-x-deal-sale-walmart-amazon)
- - [Netflix’s new Korean horror series drops you in a World War II hospital full of monsters](https://www.polygon.com/23993697/gyeongseong-creature-netflix-korean-horror-trailer-release-date)<!-- GAME:END -->
+ - [Final Fantasy XVI Update Adds Heartbreaking New Detail About Your Beloved Wolf](https://kotaku.com/final-fantasy-16-ff16-update-1-21-torgal-inner-voice-1851085471)
+ - [Best RAM-7 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23993792/best-ram-7-loadout-class-build-mw3)
+ - [Jurassic World: Adventures DLC Now Available in the Minecraft Marketplace](https://www.minecraft.net/en-us/article/new-jurassic-world-adventures#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
