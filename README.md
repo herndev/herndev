@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Alibaba&#39;s decline since China halted Ant&#39;s IPO in 2020, losing its online shopping dominance to rival PDD last week, and roadblocks in revival plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p4#a231208p4)
  - [The best AI copywriting tools currently available](https://www.androidauthority.com/best-ai-copywriting-tools-3385129/)
- - [Discord updated its mobile app layout, and users absolutely hate it](https://www.androidauthority.com/discord-new-mobile-layout-update-3392631/)
- - [The Snapdragon 8 Gen 4 might drop little CPU cores altogether](https://www.androidauthority.com/snapdragon-8-gen-4-specs-leak-3392622/)<!-- TECH:END -->
+ - [Discord updated its mobile app layout, and users absolutely hate it](https://www.androidauthority.com/discord-new-mobile-layout-update-3392631/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
