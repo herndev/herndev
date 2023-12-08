@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the main supporters in Spain for bodypositive has died at 47 for being fat &lpar;heart failure&rpar;. Ironic.](http://9gag.com/gag/aNwEr20)
- - ⏩ [Cats](http://9gag.com/gag/aBdBRr2)
- - 👉 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)<!-- MEMES:END -->
+ - 💣 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - ⏩ [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 👉 [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)<!-- MEMES:END -->
 
 ---
 
