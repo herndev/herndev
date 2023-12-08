@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobile network companies have backed themselves into a corner by racing to roll out 5G, taking on piles of debt with few returns to show for their investments &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231208/p9#a231208p9)
- - [Download OnePlus 12 wallpapers and live wallpapers from here!](https://www.androidauthority.com/download-oneplus-12-wallpapers-live-wallpapers-3392751/)
- - [Apple&#39;s iPad development moves from China to Vietnam](https://appleinsider.com/articles/23/12/08/apples-ipad-development-moves-from-china-to-vietnam?utm_medium=rss)<!-- TECH:END -->
+ - [India&#39;s powerful and independent labor movement presents a challenge for Apple in its ambitions to diversify its production away from China &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/231208/p10#a231208p10)
+ - [Tesla confirms Apple Podcasts coming in holiday update &#39;next week&#39;](https://appleinsider.com/articles/23/12/08/tesla-confirms-apple-podcasts-coming-in-holiday-update-next-week?utm_medium=rss)
+ - [Mobile network companies have backed themselves into a corner by racing to roll out 5G, taking on piles of debt with few returns to show for their investments &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231208/p9#a231208p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
