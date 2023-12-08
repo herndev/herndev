@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - ⏩ [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 👉 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)<!-- MEMES:END -->
+ - 💣 [An elevator in Poland](http://9gag.com/gag/a1P3vNv)
+ - ⏩ [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 👉 [I miss the old 9gag.](http://9gag.com/gag/aEqmd0G)<!-- MEMES:END -->
 
 ---
 
