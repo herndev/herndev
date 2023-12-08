@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mel not only dislikes jews but loves helping others. Truelly a great man.](http://9gag.com/gag/aOxW6Y3)
- - ⏩ [If they can make an anime girl model I&#39;ll simp](http://9gag.com/gag/agoePK6)
- - 👉 [Hamas supporters 2 months ago VS Hamas supporters today](http://9gag.com/gag/axorpMn)<!-- MEMES:END -->
+ - 💣 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - ⏩ [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
+ - 👉 [Eliminated the Russian occupier with a sniper at 3800m. Vyacheslav Kovalskyi &lpar;Security Service of Ukraine&rpar;. MCR Horizon&#39;s Lord caliber 12.7\u00d7114 mm HL &lpar;bullet from .50 BMG + re-chambered case from 14.5\u00d7114 mm&rpar;. Bullet time ~ 10 s. Video of the shooting in the comments.](http://9gag.com/gag/a8qgZ2e)<!-- MEMES:END -->
 
 ---
 
