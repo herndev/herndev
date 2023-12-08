@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - ⏩ [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
+ - 💣 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - ⏩ [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 👉 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)<!-- MEMES:END -->
 
 ---
 
