@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abu Dhabi-based AI company G42 plans to cut ties with Chinese hardware suppliers in favor of US counterparts, saying &quot;we cannot work with both sides&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231208/p3#a231208p3)
- - [The Motorola Razr Plus is now available in a vibrant Peach Fuzz option](https://www.androidauthority.com/motorola-razr-plus-peach-fuzz-3391834/)
- - [Android Auto will now let you save your parking location when you arrive at your destination](https://www.androidauthority.com/android-auto-google-maps-parking-location-3392613/)<!-- TECH:END -->
+ - [The Snapdragon 8 Gen 4 might drop little CPU cores altogether](https://www.androidauthority.com/snapdragon-8-gen-4-specs-leak-3392622/)
+ - [December Pixel Feature Drop seems to be rolling out very slowly](https://www.androidauthority.com/december-2023-pixel-feature-drop-slow-rollout-3392637/)
+ - [Not seeing Video Boost on your Pixel 8 Pro yet? Google explains why.](https://www.androidauthority.com/google-pixel-8-pro-video-boost-release-wait-3392644/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
