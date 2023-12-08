@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Wallet ticket sharing is becoming more like NameDrop](https://www.theverge.com/2023/12/8/23993780/apple-wallet-ticket-namedrop-ios-17-2)
- - [Fitbit app may help turn Pixel 8 Pro’s thermometer from gimmick to novelty](https://www.androidauthority.com/pixel-8-pro-fitbit-app-3392918/)
- - [Microsoft agrees to convert 77 TCWGlobal contract staff at ZeniMax into unionized employees, as part of negotiations with CWA-affiliated ZeniMax Workers United &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/231208/p19#a231208p19)<!-- TECH:END -->
+ - [Tracxn: Indian startups raised ~$7B in 2023, the lowest since 2018 and down from ~$25B in 2022 and ~$37B in 2021; Bessemer made only one deal in India in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231208/p20#a231208p20)
+ - [US Residential Solar Installations Broke Record in Third Quarter     - CNET](https://www.cnet.com/home/energy-and-utilities/us-residential-solar-installations-broke-record-in-third-quarter/#ftag=CAD590a51e)
+ - [There won’t be a small Chevy Bolt EV on GM’s Ultium platform](https://www.theverge.com/2023/12/8/23993840/chevy-bolt-ev-euv-gm-ultium-hatchback-size)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
