@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Developers blast the celeb-laden TGAs as &#39;an embarrassing indictment of a segment of the industry desperate for validation… with little respect for the devs&#39;](https://www.pcgamer.com/developers-blast-the-celeb-laden-tgas-as-an-embarrassing-indictment-of-a-segment-of-the-industry-desperate-for-validation-with-little-respect-for-the-devs)
- - [Cyberpunk 2077 comes full circle with Sad Keanu meme](https://www.pcgamer.com/cyberpunk-2077-comes-full-circle-with-sad-keanu-meme)
- - [Windows 11 23H2 update reportedly slows down gaming performance for some but there does seem to be a somewhat complicated fix](https://www.pcgamer.com/windows-11-23h2-update-reportedly-slows-down-gaming-performance-for-some-but-there-does-seem-to-be-a-somewhat-complicated-fix)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for December 11 – 15](https://news.xbox.com/en-us/2023/12/08/next-week-on-xbox-new-games-for-december-11-15/)
+ - [Where to find a roller in Lego Fortnite and how to defeat it](https://www.pcgamer.com/lego-fortnite-roller-shell)
+ - [How to get Fertilizer in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-fertilizer-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
