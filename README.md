@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK class action lawsuit against Vodafone, EE, Three UK, and O2, filed last week, accuses them of overcharging ~4.8M customers over 16 years and seeks &amp;pound;3.3B &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/231208/p8#a231208p8)
- - [The UK&#39;s CMA is considering whether Microsoft and OpenAI&#39;s partnership should be called in for a merger probe, and asks for comments from interested parties &lpar;Bloomberg&rpar;](http://www.techmeme.com/231208/p7#a231208p7)
- - [Google’s Gemini AI is impressive, but that viral demo isn’t completely real](https://www.androidauthority.com/google-gemini-ai-demo-3392684/)<!-- TECH:END -->
+ - [Mobile network companies have backed themselves into a corner by racing to roll out 5G, taking on piles of debt with few returns to show for their investments &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231208/p9#a231208p9)
+ - [Download OnePlus 12 wallpapers and live wallpapers from here!](https://www.androidauthority.com/download-oneplus-12-wallpapers-live-wallpapers-3392751/)
+ - [Apple&#39;s iPad development moves from China to Vietnam](https://appleinsider.com/articles/23/12/08/apples-ipad-development-moves-from-china-to-vietnam?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
