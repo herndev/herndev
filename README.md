@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An elevator in Poland](http://9gag.com/gag/a1P3vNv)
- - ⏩ [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 👉 [I miss the old 9gag.](http://9gag.com/gag/aEqmd0G)<!-- MEMES:END -->
+ - 💣 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
+ - ⏩ [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 👉 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)<!-- MEMES:END -->
 
 ---
 
