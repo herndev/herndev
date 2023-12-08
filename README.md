@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 23H2 update reportedly slows down gaming performance for some but there does seem to be a somewhat complicated fix](https://www.pcgamer.com/windows-11-23h2-update-reportedly-slows-down-gaming-performance-for-some-but-there-does-seem-to-be-a-somewhat-complicated-fix)
- - [Big-name celebs are fine, but Flute Guy&#39;s return to The Game Awards was the main event](https://www.pcgamer.com/big-name-celebs-are-fine-but-flute-guys-return-to-the-game-awards-was-the-main-event)
- - [All Genshin Impact codes from the version 4.3 livestream](https://www.pcgamer.com/genshin-impact-codes-4-3-livestream)<!-- GAME:END -->
+ - [Developers blast the celeb-laden TGAs as &#39;an embarrassing indictment of a segment of the industry desperate for validation… with little respect for the devs&#39;](https://www.pcgamer.com/developers-blast-the-celeb-laden-tgas-as-an-embarrassing-indictment-of-a-segment-of-the-industry-desperate-for-validation-with-little-respect-for-the-devs)
+ - [Cyberpunk 2077 comes full circle with Sad Keanu meme](https://www.pcgamer.com/cyberpunk-2077-comes-full-circle-with-sad-keanu-meme)
+ - [Windows 11 23H2 update reportedly slows down gaming performance for some but there does seem to be a somewhat complicated fix](https://www.pcgamer.com/windows-11-23h2-update-reportedly-slows-down-gaming-performance-for-some-but-there-does-seem-to-be-a-somewhat-complicated-fix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
