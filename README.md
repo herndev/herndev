@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Secret Ingredient in Metal: Hellsinger’s New Horde Mode – Roguelite Design](https://news.xbox.com/en-us/2023/12/08/metal-hellsinger-new-horde-mode-roguelite/)
- - [Where to find Knotroot in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-knotroot-location)
- - [Starfield Testers Had To Unionize To Get A Copy Of The Game](https://kotaku.com/microsoft-xbox-starfield-bugs-testers-union-1851084623)<!-- GAME:END -->
+ - [How to get Flexwood in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-flexwood-location)
+ - [Can you earn XP and battle pass levels in Lego Fortnite?](https://www.polygon.com/23993586/xp-battle-pass-levels-earn)
+ - [How to play multiplayer with friends in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992273/multiplayer-play-invite-friends-key-holder-shared-world)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
