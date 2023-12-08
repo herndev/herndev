@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Finals launches with destructive chaos like I’ve never seen before](https://www.theverge.com/2023/12/7/23991851/the-finals-embark-studios-launch-xbox-ps5-pc-steam-available-now)
- - [Light No Fire is the next ambitious game from the studio behind No Man’s Sky](https://www.theverge.com/23990841/hello-games-light-no-fire-trailer)
- - [A look at the technical issues Meta faced as it developed E2EE for Messenger, including creating an encrypted storage protocol and re-architecting chat features &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231207/p44#a231207p44)<!-- TECH:END -->
+ - [Anthropic researchers find adding pleas to a prompt that tell its Claude 2 model not to be biased could reduce discrimination based on race, gender, and more &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231207/p46#a231207p46)
+ - [Geoff Keighley let video game developers down](https://www.theverge.com/23992402/geoff-keighley-the-game-awards-layoffs)
+ - [Baldur’s Gate 3 is out now on Xbox](https://www.theverge.com/2023/12/7/23993155/baldurs-gate-3-xbox-release-game-of-the-year)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
