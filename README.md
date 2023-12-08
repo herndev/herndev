@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
- - ⏩ [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 👉 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)<!-- MEMES:END -->
+ - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - ⏩ [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
+ - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
 
 ---
 
