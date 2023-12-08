@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Flexwood in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-flexwood-location)
- - [Can you earn XP and battle pass levels in Lego Fortnite?](https://www.polygon.com/23993586/xp-battle-pass-levels-earn)
- - [How to play multiplayer with friends in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992273/multiplayer-play-invite-friends-key-holder-shared-world)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.231206-2000&rpar;](https://news.xbox.com/en-us/2023/12/08/xbox-insider-release-notes-alpha-2402-231206-2000/)
+ - [Get the Xbox Series X for $350 from Walmart or Amazon](https://www.polygon.com/2023/12/8/23993624/xbox-series-x-deal-sale-walmart-amazon)
+ - [Netflix’s new Korean horror series drops you in a World War II hospital full of monsters](https://www.polygon.com/23993697/gyeongseong-creature-netflix-korean-horror-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
