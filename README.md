@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
- - ⏩ [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
- - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 💣 [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)
+ - ⏩ [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
+ - 👉 [Natural selection](http://9gag.com/gag/amA4NAX)<!-- MEMES:END -->
 
 ---
 
