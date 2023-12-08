@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dishonored Devs Working On Marvel&#39;s Blade](https://kotaku.com/blade-arkane-dishonored-redfall-marvel-game-awards-1851083129)
- - [Life is Strange team announces Lost Records: Bloom &amp; Rage, a &#39;90s teen drama with 27 years of trauma baked in](https://www.pcgamer.com/life-is-strange-team-announces-lost-records-bloom-and-rage-a-90s-teen-drama-with-27-years-of-trauma-baked-in)
- - [Skull and Bones: Everything You Need to Know About the December Closed Beta and 2024 Launch](https://news.xbox.com/en-us/2023/12/07/skull-and-bones-december-closed-beta-and-2024-launch/)<!-- GAME:END -->
+ - [The Finals launches on PS5 today](https://blog.playstation.com/2023/12/07/the-finals-launches-on-ps5-today/)
+ - [Final Fantasy XVI’s First DLC Is Out Now And Looks Wild](https://kotaku.com/final-fantasy-16-ff16-dlc-game-awards-trailer-date-1851081277)
+ - [The Finals gets surprise release during the 2023 Game Awards](https://www.polygon.com/game-awards-tga/23990582/the-finals-game-awards-full-release-date-when)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
