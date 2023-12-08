@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - ⏩ [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
- - 👉 [Eliminated the Russian occupier with a sniper at 3800m. Vyacheslav Kovalskyi &lpar;Security Service of Ukraine&rpar;. MCR Horizon&#39;s Lord caliber 12.7\u00d7114 mm HL &lpar;bullet from .50 BMG + re-chambered case from 14.5\u00d7114 mm&rpar;. Bullet time ~ 10 s. Video of the shooting in the comments.](http://9gag.com/gag/a8qgZ2e)<!-- MEMES:END -->
+ - 💣 [GTA 6](http://9gag.com/gag/aXnOByz)
+ - ⏩ [Wait..](http://9gag.com/gag/aeQBorW)
+ - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
 
 ---
 
