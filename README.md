@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Snapdragon 8 Gen 4 might drop little CPU cores altogether](https://www.androidauthority.com/snapdragon-8-gen-4-specs-leak-3392622/)
- - [December Pixel Feature Drop seems to be rolling out very slowly](https://www.androidauthority.com/december-2023-pixel-feature-drop-slow-rollout-3392637/)
- - [Not seeing Video Boost on your Pixel 8 Pro yet? Google explains why.](https://www.androidauthority.com/google-pixel-8-pro-video-boost-release-wait-3392644/)<!-- TECH:END -->
+ - [The best AI copywriting tools currently available](https://www.androidauthority.com/best-ai-copywriting-tools-3385129/)
+ - [Discord updated its mobile app layout, and users absolutely hate it](https://www.androidauthority.com/discord-new-mobile-layout-update-3392631/)
+ - [The Snapdragon 8 Gen 4 might drop little CPU cores altogether](https://www.androidauthority.com/snapdragon-8-gen-4-specs-leak-3392622/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
