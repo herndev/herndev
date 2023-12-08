@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morgan Stanley boosts Apple price to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)
- - [Galaxy Fit 3 name confirmed, new Samsung fitness tracker is coming soon](https://www.androidauthority.com/samsung-galaxy-fit-3-bluetooth-3392846/)
- - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)<!-- TECH:END -->
+ - [Threads is counting down to an EU launch next week](https://www.theverge.com/2023/12/8/23993595/threads-meta-eu-europe-launch-date)
+ - [Source: the US FTC is examining the nature of Microsoft&#39;s investment in OpenAI and whether it violates antitrust laws &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231208/p16#a231208p16)
+ - [Google launches its ultimate Gemini-powered writing assistant NotebookLM](https://www.androidauthority.com/google-notebooklm-launch-3392838/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
