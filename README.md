@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Finals launches on PS5 today](https://blog.playstation.com/2023/12/07/the-finals-launches-on-ps5-today/)
- - [Final Fantasy XVI’s First DLC Is Out Now And Looks Wild](https://kotaku.com/final-fantasy-16-ff16-dlc-game-awards-trailer-date-1851081277)
- - [The Finals gets surprise release during the 2023 Game Awards](https://www.polygon.com/game-awards-tga/23990582/the-finals-game-awards-full-release-date-when)<!-- GAME:END -->
+ - [Suicide Squad Will Get An Offline Story Mode, Eventually](https://kotaku.com/suicide-squad-justice-league-trailer-offline-mode-1851083286)
+ - [The Game Awards Needs To Drop The Act And Just Become Winter E3](https://kotaku.com/game-awards-keighley-e3-trailers-1851083267)
+ - [&#39;I didn&#39;t think we were gonna get it&#39;: Baldur&#39;s Gate 3 dominates The Game Awards with 6 wins, including GOTY](https://www.pcgamer.com/baldurs-gate-3-game-awards-goty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
