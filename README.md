@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google won’t say how &lpar;or if&rpar; it will enforce watermarks for gAI photography](https://www.androidauthority.com/google-generative-ai-images-3389573/)
- - [Google launches the Gemini Pro-powered NotebookLM, demoed at I/O 2023 as an &quot;AI-first notebook&quot; that pulls information from users&#39; documents, in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231208/p13#a231208p13)
- - [The fight to clean up the toxic legacy of semiconductors](https://www.theverge.com/23990525/semiconductor-biden-infrastructure-plan-toxic-chemicals)<!-- TECH:END -->
+ - [Morgan Stanley boosts Apple price to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)
+ - [Galaxy Fit 3 name confirmed, new Samsung fitness tracker is coming soon](https://www.androidauthority.com/samsung-galaxy-fit-3-bluetooth-3392846/)
+ - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
