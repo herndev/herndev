@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - ⏩ [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
+ - 💣 [We have to start doing this](http://9gag.com/gag/a7qRvbq)
+ - ⏩ [They&#39;re pulling out all the stops for Deadpool 3](http://9gag.com/gag/adPzmwZ)
+ - 👉 [GTA 6](http://9gag.com/gag/aXnOByz)<!-- MEMES:END -->
 
 ---
 
