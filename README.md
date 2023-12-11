@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get rough amber and cut amber in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23994018/rough-amber-biome-location-where-to-find)
- - [Lethal Company’s new arachnophobia mode is a marvel of modern gaming](https://www.polygon.com/23997376/lethal-company-arachnophobia-mode-spider-text)
- - [Finally, A Clever Indie RPG For People Who Suck At Undertale](https://kotaku.com/leximan-indie-undertale-day-devs-impressions-1851090422)<!-- GAME:END -->
+ - [Lego Fortnite players found a way to make steerable cars and planes](https://www.polygon.com/23997415/lego-fortnite-steerable-cars-planes-how-to-build)
+ - [How to upgrade a village in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992265/village-build-upgrade-rating-square-hub)
+ - [Warlord’s Ruin dungeon loot table in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23989035/warlords-ruin-dungeon-loot-table)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
