@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scarlet And Violet DLC Breaks A Key Part of Pokémon Lore &lpar;Again&rpar;](https://kotaku.com/pokemon-scarlet-violet-indigo-disk-blueberry-legendary-1851090227)
- - [How an old-school RPG used my assumptions about the genre against me](https://www.polygon.com/gaming/23997110/tengai-makyou-ziria-far-east-of-eden-english-translation-rpg)
- - [Ride a Fox into Battle in Wo Long: Fallen Dynasty’s New DLC Pack – Upheaval in Jingxiang](https://news.xbox.com/en-us/2023/12/11/wo-long-fallen-dynasty-new-dlc-pack/)<!-- GAME:END -->
+ - [How to get rough amber and cut amber in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23994018/rough-amber-biome-location-where-to-find)
+ - [Lethal Company’s new arachnophobia mode is a marvel of modern gaming](https://www.polygon.com/23997376/lethal-company-arachnophobia-mode-spider-text)
+ - [Finally, A Clever Indie RPG For People Who Suck At Undertale](https://kotaku.com/leximan-indie-undertale-day-devs-impressions-1851090422)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
