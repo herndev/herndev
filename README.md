@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked 3DMark score puts Intel&#39;s mid-tier Meteor Lake on par with AMD&#39;s best handheld PC processor, for gaming at least](https://www.pcgamer.com/leaked-3dmark-score-puts-intels-mid-tier-meteor-lake-on-par-with-amds-best-handheld-pc-processor-for-gaming-at-least)
- - [No more fans: Phison&#39;s new PCIe Gen 5 controller sacrifices raw SSD speed in the name of silence](https://www.pcgamer.com/no-more-fans-phisons-new-pcie-gen-5-controller-sacrifices-raw-ssd-speed-in-the-name-of-silence)
- - [Pokémon Go Ditto disguises list for December 2023](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
+ - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
+ - [How to solve the Upperway puzzle in Warhammer 40K: Rogue Trader](https://www.pcgamer.com/warhammer-40k-rogue-trader-upperway-puzzle-warehouse)
+ - [Lego Fortnite is propelling Fortnite to a new level of popularity](https://www.polygon.com/fortnite/23996588/lego-fortnite-launch-player-numbers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
