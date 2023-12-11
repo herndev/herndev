@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages might let you edit texts after they’re sent](https://www.theverge.com/2023/12/11/23996579/google-messages-edit-after-sending-leaked-code)
- - [Folding displays for Apple is the focus of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
- - [ASUS sets pre-CES event for ROG, possibly for the ROG Phone 8 and more](https://www.androidauthority.com/asus-rog-ces-event-rog-phone-8-3393275/)<!-- TECH:END -->
+ - [The OnePlus 12 is disappointing some early adopters with its build quality](https://www.androidauthority.com/oneplus-12-camera-housing-gap-glue-3393272/)
+ - [Best Streaming Service for 4K Content     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-4k-content/#ftag=CAD590a51e)
+ - [Folding displays for iPhone &amp; MacBook Pro are the focuses of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
