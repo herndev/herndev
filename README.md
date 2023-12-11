@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vietnamese media reports Nvidia CEO Jensen Huang sees Vietnam as a potential second home for the Silicon Valley company and plans to open a design center there &lpar;Quynh Nguyen/Bloomberg&rpar;](http://www.techmeme.com/231211/p7#a231211p7)
- - [The US needs an AI moonshot mentality, and in 2024 the government should galvanize support for a broad investment backed by strong public sector infrastructure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231211/p6#a231211p6)
- - [Apple has one too many iPads in its lineup, and it will fix this with some more new iPads](https://www.androidauthority.com/apple-new-ipad-air-pro-2024-3393228/)<!-- TECH:END -->
+ - [Folding displays for Apple is the focus of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
+ - [TechInsights: Huawei&#39;s Mate 60 Pro shows &quot;significant progress&quot; in China&#39;s domestic design and engineering of radio-frequency chips, replacing US suppliers &lpar;Bloomberg&rpar;](http://www.techmeme.com/231211/p9#a231211p9)
+ - [PETA names Apple as the 2023 Company of the Year](https://appleinsider.com/articles/23/12/11/peta-names-apple-as-the-2023-company-of-the-year?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
