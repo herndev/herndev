@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case you&#39;re wondering where the meme comes from](http://9gag.com/gag/aqeorDQ)
- - ⏩ [Dirt won&#39;t stick to my heart](http://9gag.com/gag/aQEWMV2)
- - 👉 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)<!-- MEMES:END -->
+ - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
+ - ⏩ [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
 
 ---
 
