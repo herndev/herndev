@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One UI 6.1 leak reveals it’s a massive update full of Pixel-inspired AI features](https://www.androidauthority.com/one-ui-6-1-leak-ai-features-3393152/)
  - [Apple confirms it took down Beeper Mini to ‘protect its users’](https://www.androidauthority.com/apple-beeper-mini-shutdown-3393145/)
- - [TikTok plans to invest $1.5B in a joint venture with GoTo, aiming to comply with regulations in Indonesia so that TikTok can restart its shopping service there &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231210/p10#a231210p10)
- - [London-based SumUp, which offers payments and other financial services to ~4M SMBs, raised &amp;euro;285M at a valuation higher than its $8.5B valuation in June 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231210/p9#a231210p9)<!-- TECH:END -->
+ - [TikTok plans to invest $1.5B in a joint venture with GoTo, aiming to comply with regulations in Indonesia so that TikTok can restart its shopping service there &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231210/p10#a231210p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
