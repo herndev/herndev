@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 12 is disappointing some early adopters with its build quality](https://www.androidauthority.com/oneplus-12-camera-housing-gap-glue-3393272/)
- - [Best Streaming Service for 4K Content     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-4k-content/#ftag=CAD590a51e)
- - [Folding displays for iPhone &amp; MacBook Pro are the focuses of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Killers of the Flower Moon&#39; leads Apple&#39;s Golden Globe nominations](https://appleinsider.com/articles/23/12/11/killers-of-the-flower-moon-leads-apples-golden-globe-nominations?utm_medium=rss)
+ - [Sources: Apple plans to give added weighting to streams of songs mixed in Dolby Atmos from 2024, possibly leading to higher royalties, to push Spatial Audio &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231211/p13#a231211p13)
+ - [How to clear Terminal&#39;s command history in macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-terminals-command-history-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
