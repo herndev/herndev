@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Train people are dang pleased with this line operations sim because it&#39;s not too hardcore, nor too simple](https://www.pcgamer.com/train-people-are-dang-pleased-with-this-line-operations-sim-because-its-not-too-hardcore-nor-too-simple)
- - [For Doom&#39;s 30th anniversary, the Johns Romero and Carmack reunited to celebrate the FPS that changed everything: &#39;I want to thank everybody in the Doom community for keeping this game alive&#39;](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive)
- - [People are exceptionally thirsty about this free game where you flirt with the grim reaper on text chat](https://www.pcgamer.com/people-are-exceptionally-thirsty-about-this-free-game-where-you-flirt-with-the-grim-reaper-on-text-chat)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;December 11, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-11-2023)
+ - [There&#39;s a Starfield bug that makes it crash more often if you don&#39;t start New Game+](https://www.pcgamer.com/theres-a-starfield-bug-that-makes-it-crash-more-often-if-you-dont-start-new-game)
+ - [Here&#39;s one for people who like Vampire Survivors, bullet hell, and when games go all meta and screw with you](https://www.pcgamer.com/heres-one-for-people-who-like-vampire-survivors-bullet-hell-and-when-games-go-all-meta-and-screw-with-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
