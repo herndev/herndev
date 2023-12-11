@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Leaked 3DMark score puts Intel&#39;s mid-tier Meteor Lake on par with AMD&#39;s best handheld PC processor, for gaming at least](https://www.pcgamer.com/leaked-3dmark-score-puts-intels-mid-tier-meteor-lake-on-par-with-amds-best-handheld-pc-processor-for-gaming-at-least)
  - [No more fans: Phison&#39;s new PCIe Gen 5 controller sacrifices raw SSD speed in the name of silence](https://www.pcgamer.com/no-more-fans-phisons-new-pcie-gen-5-controller-sacrifices-raw-ssd-speed-in-the-name-of-silence)
- - [Pokémon Go Ditto disguises list for December 2023](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
- - [How to get Cut Amber in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-cut-amber-location)<!-- GAME:END -->
+ - [Pokémon Go Ditto disguises list for December 2023](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
