@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Stop your Stadia controller from becoming e-waste on December 31](https://www.androidauthority.com/stadia-controller-bluetooth-3-3393423/)
- - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)
- - [US teens survey: 93% use YouTube, 63% use TikTok, 60% use Snapchat, 59% use Instagram, and 33% use Facebook; ~33% use at least one of these &quot;almost constantly&quot; &lpar;Pew Research Center&rpar;](http://www.techmeme.com/231211/p20#a231211p20)<!-- TECH:END -->
+ - [Beeper Mini is back up, but not without some changes](https://www.androidauthority.com/beeper-mini-is-back-3393464/)
+ - [The best leather options for Apple iPhone and Watch cases for 2024](https://appleinsider.com/inside/iphone/best/best-leather-iphone-case-apple-watch-band?utm_medium=rss)
+ - [iOS 17.2: Apple&#39;s Journal App and More Are Finally Here     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-2-apples-journal-app-and-more-are-finally-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
