@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Surprise: Kojima Hid Silent Hill References In OD Trailer](https://kotaku.com/od-hideo-kojima-productions-silent-hill-pt-game-awards-1851089141)
  - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
- - [How to solve the Upperway puzzle in Warhammer 40K: Rogue Trader](https://www.pcgamer.com/warhammer-40k-rogue-trader-upperway-puzzle-warehouse)
- - [Lego Fortnite is propelling Fortnite to a new level of popularity](https://www.polygon.com/fortnite/23996588/lego-fortnite-launch-player-numbers)<!-- GAME:END -->
+ - [How to solve the Upperway puzzle in Warhammer 40K: Rogue Trader](https://www.pcgamer.com/warhammer-40k-rogue-trader-upperway-puzzle-warehouse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
