@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #905 for Monday, December 11](https://www.pcgamer.com/wordle-today-answer-905-december-11)
- - [Five new Steam games you probably missed &lpar;December 11, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-11-2023)
- - [There&#39;s a Starfield bug that makes it crash more often if you don&#39;t start New Game+](https://www.pcgamer.com/theres-a-starfield-bug-that-makes-it-crash-more-often-if-you-dont-start-new-game)<!-- GAME:END -->
+ - [No more fans: Phison&#39;s new PCIe Gen 5 controller sacrifices raw SSD speed in the name of silence](https://www.pcgamer.com/no-more-fans-phisons-new-pcie-gen-5-controller-sacrifices-raw-ssd-speed-in-the-name-of-silence)
+ - [Pokémon Go Ditto disguises list for December 2023](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
+ - [How to get Cut Amber in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-cut-amber-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
