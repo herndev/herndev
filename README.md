@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coldest putt ever](http://9gag.com/gag/aA0zPW2)
- - ⏩ [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 👉 [One ticket please](http://9gag.com/gag/aVbye22)<!-- MEMES:END -->
+ - 💣 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - ⏩ [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)
+ - 👉 [Award winner reaction](http://9gag.com/gag/a6qYMoe)<!-- MEMES:END -->
 
 ---
 
