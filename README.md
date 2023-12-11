@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
  - ⏩ [Equality](http://9gag.com/gag/aBdBY4z)
- - 👉 [Orginal script](http://9gag.com/gag/aPgbGyP)<!-- MEMES:END -->
+ - 👉 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)<!-- MEMES:END -->
 
 ---
 
