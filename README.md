@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)
- - ⏩ [Equality](http://9gag.com/gag/aBdBY4z)
- - 👉 [Award winner reaction](http://9gag.com/gag/a6qYMoe)<!-- MEMES:END -->
+ - 💣 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - ⏩ [Coldest putt ever](http://9gag.com/gag/aA0zPW2)
+ - 👉 [One ticket please](http://9gag.com/gag/aVbye22)<!-- MEMES:END -->
 
 ---
 
