@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If we judged people on character instead of physical attractiveness, she would be the most beautiful person in the world.](http://9gag.com/gag/aDYejGO)
- - ⏩ [I figured you&#39;d appreciate this](http://9gag.com/gag/aEqmRvn)
- - 👉 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)<!-- MEMES:END -->
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - ⏩ [Equality](http://9gag.com/gag/aBdBY4z)
+ - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
 
 ---
 
