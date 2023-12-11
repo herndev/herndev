@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - ⏩ [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)
- - 👉 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
+ - 💣 [This deserves equal pay](http://9gag.com/gag/aMEMQOX)
+ - ⏩ [Some bosses](http://9gag.com/gag/aGE40pz)
+ - 👉 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)<!-- MEMES:END -->
 
 ---
 
