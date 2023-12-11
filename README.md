@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More Apple Vision Pro environments surface to show where you can virtually be](https://appleinsider.com/articles/23/12/11/more-apple-vision-pro-environments-surface-to-show-where-you-can-virtually-be?utm_medium=rss)
- - [Dealroom: Nvidia emerges as the most active large-scale investor in AI startups in 2023, excluding accelerators like YC, with 35 deals, 6x more than in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p16#a231211p16)
- - [The Galaxy Tab S9 FE is a standout deal of the Samsung winter sale](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-deal-3393358/)<!-- TECH:END -->
+ - [Beeper Mini for Android lives again, but for how long is anybody&#39;s guess](https://appleinsider.com/articles/23/12/11/beeper-mini-for-android-lives-again-but-for-how-long-is-anybodys-guess?utm_medium=rss)
+ - [Major Reddit outage means posts and comments may not load](https://www.theverge.com/2023/12/11/23997108/reddit-outage-posts-comments-not-loading)
+ - [Beeper says &quot;Beeper Mini is back&quot; but now requires users log in with their AppleID, as phone number registration is not working; Beeper makes the service free &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231211/p17#a231211p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
