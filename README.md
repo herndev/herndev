@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 11: $250 off M1 MacBook Air, 24% off Apple MagSafe Duo, AirPods 3 $139.99, more](https://appleinsider.com/articles/23/12/11/daily-deals-dec-11-250-off-m1-macbook-air-24-off-apple-magsafe-duo-airpods-3-13999-more?utm_medium=rss)
- - [Sizing up Tim Cook&#39;s vision for an immersive wearable](https://appleinsider.com/articles/23/12/11/sizing-up-tim-cooks-vision-for-an-immersive-wearable?utm_medium=rss)
- - [Microsoft partners with 60 unions representing 12.5M workers for &quot;an open dialogue&quot; on AI&#39;s impact on workers, and signs a ZeniMax staff contract on AI use &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/231211/p15#a231211p15)<!-- TECH:END -->
+ - [More Apple Vision Pro environments surface to show where you can virtually be](https://appleinsider.com/articles/23/12/11/more-apple-vision-pro-environments-surface-to-show-where-you-can-virtually-be?utm_medium=rss)
+ - [Dealroom: Nvidia emerges as the most active large-scale investor in AI startups in 2023, excluding accelerators like YC, with 35 deals, 6x more than in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p16#a231211p16)
+ - [The Galaxy Tab S9 FE is a standout deal of the Samsung winter sale](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-deal-3393358/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
