@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 QPR2 beta 2 is here to squash some bugs and improve performance](https://www.androidauthority.com/new-android-14-qpr2-beta-3393488/)
- - [Oracle Q2: revenue up 5% YoY to $12.94B, vs. $13.05B est., net income up 44% to $2.5B, and cloud and on-prem license revenue down 18% to $1.18B; ORCL drops 8%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231211/p21#a231211p21)
- - [Beeper Mini is back up, but not without some changes](https://www.androidauthority.com/beeper-mini-is-back-3393464/)<!-- TECH:END -->
+ - [Google Messages could soon allow you to edit sent texts](https://www.androidauthority.com/google-messages-editing-3393517/)
+ - [Google Fiber’s 20-gig service costs $250 per month](https://www.theverge.com/2023/12/11/23997336/google-fiber-20-gbps-speed-early-access-2024)
+ - [Google is finally saying goodbye to Google Play Movies &amp; TV](https://www.theverge.com/2023/12/11/23997066/google-play-movies-tv-app-removal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
