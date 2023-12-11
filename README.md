@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Fortnite players found a way to make steerable cars and planes](https://www.polygon.com/23997415/lego-fortnite-steerable-cars-planes-how-to-build)
- - [How to upgrade a village in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992265/village-build-upgrade-rating-square-hub)
- - [Warlord’s Ruin dungeon loot table in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23989035/warlords-ruin-dungeon-loot-table)<!-- GAME:END -->
+ - [Dev Behind Controversial Shooter The Day Before Shuts Down Days After Massive Steam Launch [Update]](https://kotaku.com/day-before-fntastic-steam-extraction-shooter-shut-down-1851089879)
+ - [Doctor Who blew its big handoff](https://www.polygon.com/reviews/23997484/doctor-who-giggle-ncuti-gatwa-15th-doctor)
+ - [How to romance companions in Warhammer 40K: Rogue Trader](https://www.polygon.com/guides/23991017/warhammer-40k-rogue-trader-romance-companions-how-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
