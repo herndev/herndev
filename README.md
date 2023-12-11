@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 things leftover from the Grand Theft Auto 6 leaks we haven&#39;t seen yet](https://www.pcgamer.com/5-things-leftover-from-the-grand-theft-auto-6-leaks-we-havent-seen-yet)
- - [It&#39;s not just you: we were sure there&#39;d be an Elden Ring DLC trailer at The Game Awards, so when the heck will we see one?](https://www.pcgamer.com/its-not-just-you-we-were-sure-thered-be-an-elden-ring-dlc-trailer-at-the-game-awards-so-when-the-heck-will-we-see-one)
- - [Warhammer 40K: Rogue Trader continues Games Workshop’s policy of not directly crediting employees](https://www.polygon.com/23994043/warhammer-40k-rogue-trader-credits-games-workshop-employees)<!-- GAME:END -->
+ - [Train people are dang pleased with this line operations sim because it&#39;s not too hardcore, nor too simple](https://www.pcgamer.com/train-people-are-dang-pleased-with-this-line-operations-sim-because-its-not-too-hardcore-nor-too-simple)
+ - [For Doom&#39;s 30th anniversary, the Johns Romero and Carmack reunited to celebrate the FPS that changed everything: &#39;I want to thank everybody in the Doom community for keeping this game alive&#39;](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive)
+ - [People are exceptionally thirsty about this free game where you flirt with the grim reaper on text chat](https://www.pcgamer.com/people-are-exceptionally-thirsty-about-this-free-game-where-you-flirt-with-the-grim-reaper-on-text-chat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
