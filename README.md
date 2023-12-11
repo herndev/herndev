@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’ve come full circle with AI: ChatGPT lazily prompts users to complete their own tasks](https://www.androidauthority.com/chatgpt-lazy-3393196/)
- - [OnePlus may have accidentally revealed OnePlus 12, 12R global launch details](https://www.androidauthority.com/oneplus-executive-oneplus-12-launch-date-3393203/)
- - [A look at the race among chip giants to make 2nm chips, as Samsung and Intel see the next leap in chip manufacturing a chance to close the gap with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p4#a231211p4)<!-- TECH:END -->
+ - [An upcoming phone could offer a ridiculous 160MP periscope camera](https://www.androidauthority.com/honor-magic-160mp-periscope-camera-3393211/)
+ - [How Street Sense, The Salvation Army, and Samaritan are using tech to help the unhoused, as people shift to cashless payment apps and don&#39;t carry spare change &lpar;Ashraf Khalil/Associated Press&rpar;](http://www.techmeme.com/231211/p5#a231211p5)
+ - [We’ve come full circle with AI: ChatGPT lazily prompts users to complete their own tasks](https://www.androidauthority.com/chatgpt-lazy-3393196/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
