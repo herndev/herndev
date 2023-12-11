@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #905 for Monday, December 11](https://www.pcgamer.com/wordle-today-answer-905-december-11)
  - [Five new Steam games you probably missed &lpar;December 11, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-11-2023)
- - [There&#39;s a Starfield bug that makes it crash more often if you don&#39;t start New Game+](https://www.pcgamer.com/theres-a-starfield-bug-that-makes-it-crash-more-often-if-you-dont-start-new-game)
- - [Here&#39;s one for people who like Vampire Survivors, bullet hell, and when games go all meta and screw with you](https://www.pcgamer.com/heres-one-for-people-who-like-vampire-survivors-bullet-hell-and-when-games-go-all-meta-and-screw-with-you)<!-- GAME:END -->
+ - [There&#39;s a Starfield bug that makes it crash more often if you don&#39;t start New Game+](https://www.pcgamer.com/theres-a-starfield-bug-that-makes-it-crash-more-often-if-you-dont-start-new-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
