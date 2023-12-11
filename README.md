@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Killers of the Flower Moon&#39; leads Apple&#39;s Golden Globe nominations](https://appleinsider.com/articles/23/12/11/killers-of-the-flower-moon-leads-apples-golden-globe-nominations?utm_medium=rss)
- - [Sources: Apple plans to give added weighting to streams of songs mixed in Dolby Atmos from 2024, possibly leading to higher royalties, to push Spatial Audio &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231211/p13#a231211p13)
- - [How to clear Terminal&#39;s command history in macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-terminals-command-history-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Dec. 11: $250 off M1 MacBook Air, 24% off Apple MagSafe Duo, AirPods 3 $139.99, more](https://appleinsider.com/articles/23/12/11/daily-deals-dec-11-250-off-m1-macbook-air-24-off-apple-magsafe-duo-airpods-3-13999-more?utm_medium=rss)
+ - [Sizing up Tim Cook&#39;s vision for an immersive wearable](https://appleinsider.com/articles/23/12/11/sizing-up-tim-cooks-vision-for-an-immersive-wearable?utm_medium=rss)
+ - [Microsoft partners with 60 unions representing 12.5M workers for &quot;an open dialogue&quot; on AI&#39;s impact on workers, and signs a ZeniMax staff contract on AI use &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/231211/p15#a231211p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
