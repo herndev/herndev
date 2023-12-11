@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An upcoming phone could offer a ridiculous 160MP periscope camera](https://www.androidauthority.com/honor-magic-160mp-periscope-camera-3393211/)
- - [How Street Sense, The Salvation Army, and Samaritan are using tech to help the unhoused, as people shift to cashless payment apps and don&#39;t carry spare change &lpar;Ashraf Khalil/Associated Press&rpar;](http://www.techmeme.com/231211/p5#a231211p5)
- - [We’ve come full circle with AI: ChatGPT lazily prompts users to complete their own tasks](https://www.androidauthority.com/chatgpt-lazy-3393196/)<!-- TECH:END -->
+ - [Vietnamese media reports Nvidia CEO Jensen Huang sees Vietnam as a potential second home for the Silicon Valley company and plans to open a design center there &lpar;Quynh Nguyen/Bloomberg&rpar;](http://www.techmeme.com/231211/p7#a231211p7)
+ - [The US needs an AI moonshot mentality, and in 2024 the government should galvanize support for a broad investment backed by strong public sector infrastructure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231211/p6#a231211p6)
+ - [Apple has one too many iPads in its lineup, and it will fix this with some more new iPads](https://www.androidauthority.com/apple-new-ipad-air-pro-2024-3393228/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
