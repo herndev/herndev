@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We’ve come full circle with AI: ChatGPT lazily prompts users to complete their own tasks](https://www.androidauthority.com/chatgpt-lazy-3393196/)
  - [OnePlus may have accidentally revealed OnePlus 12, 12R global launch details](https://www.androidauthority.com/oneplus-executive-oneplus-12-launch-date-3393203/)
- - [A look at the race among chip giants to make 2nm chips, as Samsung and Intel see the next leap in chip manufacturing a chance to close the gap with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p4#a231211p4)
- - [Threads could finally launch in the EU this week](https://www.androidauthority.com/threads-eu-europe-launch-date-3392611/)<!-- TECH:END -->
+ - [A look at the race among chip giants to make 2nm chips, as Samsung and Intel see the next leap in chip manufacturing a chance to close the gap with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p4#a231211p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
