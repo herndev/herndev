@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
- - ⏩ [Equality](http://9gag.com/gag/aBdBY4z)
+ - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
+ - ⏩ [Some of u have been wondering what happens to a long ship in a severe storm](http://9gag.com/gag/ay2j86Y)
  - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
 
 ---
