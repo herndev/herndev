@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android iMessage app Beeper mini isn&#39;t working, and Apple probably killed it](https://appleinsider.com/articles/23/12/08/android-imessage-app-beeper-mini-isnt-working-and-apple-probably-killed-it?utm_medium=rss)
- - [Apple has seemingly found a way to block Android’s new iMessage app](https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app)
- - [Beeper Mini is down, and we’re learning what that will mean for its future](https://www.androidauthority.com/beeper-mini-down-3392963/)<!-- TECH:END -->
+ - [Be skeptical about QR codes, warns the FTC](https://www.theverge.com/2023/12/10/23995954/qr-code-scam-ftc-warning-phishing)
+ - [The best iPhone 15 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-iphone-15-alternatives-3363123/)
+ - [Comparing the Gemini-powered Bard and ChatGPT for factual retrieval, summarization, creative writing, coding, and more: ChatGPT performs better, but not by much &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/231210/p7#a231210p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
