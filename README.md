@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - ⏩ [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 👉 [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)<!-- MEMES:END -->
+ - 💣 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
+ - ⏩ [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 👉 [Any captains?](http://9gag.com/gag/aEqmwLM)<!-- MEMES:END -->
 
 ---
 
