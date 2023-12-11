@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
- - ⏩ [Equality](http://9gag.com/gag/aBdBY4z)
- - 👉 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)<!-- MEMES:END -->
+ - 💣 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - ⏩ [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)
+ - 👉 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
 
 ---
 
