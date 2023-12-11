@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - ⏩ [Coldest putt ever](http://9gag.com/gag/aA0zPW2)
- - 👉 [One ticket please](http://9gag.com/gag/aVbye22)<!-- MEMES:END -->
+ - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
+ - ⏩ [Not only for women](http://9gag.com/gag/aPgbMjg)
+ - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
 
 ---
 
