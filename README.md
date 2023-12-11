@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus may have accidentally revealed OnePlus 12, 12R global launch details](https://www.androidauthority.com/oneplus-executive-oneplus-12-launch-date-3393203/)
  - [A look at the race among chip giants to make 2nm chips, as Samsung and Intel see the next leap in chip manufacturing a chance to close the gap with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p4#a231211p4)
- - [Threads could finally launch in the EU this week](https://www.androidauthority.com/threads-eu-europe-launch-date-3392611/)
- - [Google Podcasts now has a definite shutdown date](https://www.androidauthority.com/google-podcasts-shutdown-date-3393170/)<!-- TECH:END -->
+ - [Threads could finally launch in the EU this week](https://www.androidauthority.com/threads-eu-europe-launch-date-3392611/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
