@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 6.1 leak reveals it’s a massive update full of Pixel-inspired AI features](https://www.androidauthority.com/one-ui-6-1-leak-ai-features-3393152/)
- - [Apple confirms it took down Beeper Mini to ‘protect its users’](https://www.androidauthority.com/apple-beeper-mini-shutdown-3393145/)
- - [TikTok plans to invest $1.5B in a joint venture with GoTo, aiming to comply with regulations in Indonesia so that TikTok can restart its shopping service there &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231210/p10#a231210p10)<!-- TECH:END -->
+ - [NY state, IBM, and others plan to invest $10B in a chip research facility at the University at Albany, set to include ASML&#39;s advanced chip-making equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231211/p2#a231211p2)
+ - [London-based crypto derivatives trading platform Global Futures and Options, or GFO-X, raised a $30M series B led by M&amp;G Investments &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231211/p1#a231211p1)
+ - [One UI 6.1 leak reveals it’s a massive update full of Pixel-inspired AI features](https://www.androidauthority.com/one-ui-6-1-leak-ai-features-3393152/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
