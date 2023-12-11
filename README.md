@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beeper Mini for Android lives again, but for how long is anybody&#39;s guess](https://appleinsider.com/articles/23/12/11/beeper-mini-for-android-lives-again-but-for-how-long-is-anybodys-guess?utm_medium=rss)
- - [Major Reddit outage means posts and comments may not load](https://www.theverge.com/2023/12/11/23997108/reddit-outage-posts-comments-not-loading)
- - [Beeper says &quot;Beeper Mini is back&quot; but now requires users log in with their AppleID, as phone number registration is not working; Beeper makes the service free &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231211/p17#a231211p17)<!-- TECH:END -->
+ - [Surprise deal brings record-low price on the new Garmin Venu 3S](https://www.androidauthority.com/garmin-venu-3s-deal-3393414/)
+ - [YouTube Music not working? Here’s how you can try to fix it](https://www.androidauthority.com/youtube-music-not-working-3393359/)
+ - [Sony’s New Access Controller Reveals a Big Problem in Adaptive Gaming](https://www.wired.com/story/affordable-accessibility-sony-access-microsoft-adaptive-controllers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
