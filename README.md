@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - ⏩ [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)
+ - 💣 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)
+ - ⏩ [Equality](http://9gag.com/gag/aBdBY4z)
  - 👉 [Award winner reaction](http://9gag.com/gag/a6qYMoe)<!-- MEMES:END -->
 
 ---
