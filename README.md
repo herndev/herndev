@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This deserves equal pay](http://9gag.com/gag/aMEMQOX)
- - ⏩ [Some bosses](http://9gag.com/gag/aGE40pz)
- - 👉 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)<!-- MEMES:END -->
+ - 💣 [Coldest putt ever](http://9gag.com/gag/aA0zPW2)
+ - ⏩ [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 👉 [One ticket please](http://9gag.com/gag/aVbye22)<!-- MEMES:END -->
 
 ---
 
