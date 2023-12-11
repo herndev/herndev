@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Holiday Travel Guide: How to Keep Playing Your Favorite Games, No Matter Where You Celebrate](https://news.xbox.com/en-us/2023/12/11/xbox-holiday-travel-guide/)
- - [Silent Hill fans discover weird Easter egg in Kojima’s OD teaser trailer](https://www.polygon.com/23996747/hideo-kojima-productions-od-silent-hill-easter-egg)
- - [How to get Marble in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-marble)<!-- GAME:END -->
+ - [Kotaku’s 30 Most Anticipated Games Of 2024](https://kotaku.com/2024-video-games-release-ff7-rebirth-star-wars-ps5-xbox-1850972294)
+ - [Lethal Company has just solved arachnophobia with words, literally](https://www.pcgamer.com/lethal-company-has-just-implemented-one-of-the-funniest-arachnophobia-modes-ive-seen)
+ - [Pokémon Go ‘Timeless Travels’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/23996844/timeless-travels-special-research-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
