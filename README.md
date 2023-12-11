@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
- - ⏩ [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 💣 [Add another one on long list of cases.....](http://9gag.com/gag/ap9Zp0E)
+ - ⏩ [Award winner reaction](http://9gag.com/gag/a6qYMoe)
+ - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
 
 ---
 
