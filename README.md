@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surprise deal brings record-low price on the new Garmin Venu 3S](https://www.androidauthority.com/garmin-venu-3s-deal-3393414/)
- - [YouTube Music not working? Here’s how you can try to fix it](https://www.androidauthority.com/youtube-music-not-working-3393359/)
- - [Sony’s New Access Controller Reveals a Big Problem in Adaptive Gaming](https://www.wired.com/story/affordable-accessibility-sony-access-microsoft-adaptive-controllers/)<!-- TECH:END -->
+ - [PSA: Stop your Stadia controller from becoming e-waste on December 31](https://www.androidauthority.com/stadia-controller-bluetooth-3-3393423/)
+ - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)
+ - [US teens survey: 93% use YouTube, 63% use TikTok, 60% use Snapchat, 59% use Instagram, and 33% use Facebook; ~33% use at least one of these &quot;almost constantly&quot; &lpar;Pew Research Center&rpar;](http://www.techmeme.com/231211/p20#a231211p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
