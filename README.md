@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise: Kojima Hid Silent Hill References In OD Trailer](https://kotaku.com/od-hideo-kojima-productions-silent-hill-pt-game-awards-1851089141)
- - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
- - [How to solve the Upperway puzzle in Warhammer 40K: Rogue Trader](https://www.pcgamer.com/warhammer-40k-rogue-trader-upperway-puzzle-warehouse)<!-- GAME:END -->
+ - [Xbox Holiday Travel Guide: How to Keep Playing Your Favorite Games, No Matter Where You Celebrate](https://news.xbox.com/en-us/2023/12/11/xbox-holiday-travel-guide/)
+ - [Silent Hill fans discover weird Easter egg in Kojima’s OD teaser trailer](https://www.polygon.com/23996747/hideo-kojima-productions-od-silent-hill-easter-egg)
+ - [How to get Marble in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-marble)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
