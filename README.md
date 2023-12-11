@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
- - ⏩ [Give me upvotes. upvotes upvotes! yeah!!](http://9gag.com/gag/aMEMwWW)
- - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
+ - 💣 [In case you&#39;re wondering where the meme comes from](http://9gag.com/gag/aqeorDQ)
+ - ⏩ [Dirt won&#39;t stick to my heart](http://9gag.com/gag/aQEWMV2)
+ - 👉 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)<!-- MEMES:END -->
 
 ---
 
