@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Add another one on long list of cases.....](http://9gag.com/gag/ap9Zp0E)
- - ⏩ [Award winner reaction](http://9gag.com/gag/a6qYMoe)
+ - 💣 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - ⏩ [Equality](http://9gag.com/gag/aBdBY4z)
  - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
 
 ---
