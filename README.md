@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
  - ⏩ [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 👉 [Equality](http://9gag.com/gag/aBdBY4z)<!-- MEMES:END -->
+ - 👉 [Orginal script](http://9gag.com/gag/aPgbGyP)<!-- MEMES:END -->
 
 ---
 
