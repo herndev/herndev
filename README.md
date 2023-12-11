@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Messages might let you edit texts after they’re sent](https://www.theverge.com/2023/12/11/23996579/google-messages-edit-after-sending-leaked-code)
  - [Folding displays for Apple is the focus of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
- - [TechInsights: Huawei&#39;s Mate 60 Pro shows &quot;significant progress&quot; in China&#39;s domestic design and engineering of radio-frequency chips, replacing US suppliers &lpar;Bloomberg&rpar;](http://www.techmeme.com/231211/p9#a231211p9)
- - [PETA names Apple as the 2023 Company of the Year](https://appleinsider.com/articles/23/12/11/peta-names-apple-as-the-2023-company-of-the-year?utm_medium=rss)<!-- TECH:END -->
+ - [ASUS sets pre-CES event for ROG, possibly for the ROG Phone 8 and more](https://www.androidauthority.com/asus-rog-ces-event-rog-phone-8-3393275/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
