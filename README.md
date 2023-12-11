@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s 30 Most Anticipated Games Of 2024](https://kotaku.com/2024-video-games-release-ff7-rebirth-star-wars-ps5-xbox-1850972294)
- - [Lethal Company has just solved arachnophobia with words, literally](https://www.pcgamer.com/lethal-company-has-just-implemented-one-of-the-funniest-arachnophobia-modes-ive-seen)
- - [Pokémon Go ‘Timeless Travels’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/23996844/timeless-travels-special-research-rewards)<!-- GAME:END -->
+ - [Ride a Fox into Battle in Wo Long: Fallen Dynasty’s New DLC Pack – Upheaval in Jingxiang](https://news.xbox.com/en-us/2023/12/11/wo-long-fallen-dynasty-new-dlc-pack/)
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.231207-2200&rpar;](https://news.xbox.com/en-us/2023/12/11/xbox-insider-release-notes-alpha-2402-231207-2200/)
+ - [Some of our favorite geeky literature is on sale at Amazon and Target](https://www.polygon.com/deals/2023/12/11/23996861/gaming-book-amazon-target-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
