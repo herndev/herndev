@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages could soon allow you to edit sent texts](https://www.androidauthority.com/google-messages-editing-3393517/)
- - [Google Fiber’s 20-gig service costs $250 per month](https://www.theverge.com/2023/12/11/23997336/google-fiber-20-gbps-speed-early-access-2024)
- - [Google is finally saying goodbye to Google Play Movies &amp; TV](https://www.theverge.com/2023/12/11/23997066/google-play-movies-tv-app-removal)<!-- TECH:END -->
+ - [Filing: FTX asks the US IRS to substantiate its claim worth $24B against FTX in unpaid taxes; the IRS lowered the amount from $44B in April to $24B in November &lpar;Anna Baydakova/The Block&rpar;](http://www.techmeme.com/231211/p22#a231211p22)
+ - [Netflix’s Blue Eye Samurai is coming back for a second season](https://www.theverge.com/2023/12/11/23997629/blue-eye-samurai-netflix-season-2-renewal)
+ - [AppleInsider t-shirt giveaway: enter to win our new icon tee or buy one now](https://appleinsider.com/articles/23/12/11/appleinsider-t-shirt-giveaway-enter-to-win-our-new-icon-tee-or-buy-one-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
