@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tierra Whack Doesn’t Want Her Creativity Boxed In](https://www.wired.com/story/livewired-tierra-whack/)
- - [Sources: X generated just over $600M in ad revenue in each of 2023&#39;s first three quarters, down from $1B+ per quarter in 2022 and on track for ~$2.5B in 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/231212/p39#a231212p39)
- - [Hackers breached Coin Cloud, which went bankrupt in February 2023, and stole the data of 300K users; source: the Bitcoin ATM company didn&#39;t have a security team &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231212/p38#a231212p38)<!-- TECH:END -->
+ - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
+ - [Marvel’s Black Panther Disney Plus series will dig into Wakandan history](https://www.theverge.com/2023/12/12/23999034/marvel-black-panther-eyes-of-wakanda-disney-plus-series)
+ - [The Death of E3 Signals the End of Gaming’s Most Extravagant Era](https://www.wired.com/story/e3-death-end-of-era-streaming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
