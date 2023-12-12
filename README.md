@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Legal Process Guidelines updated with stricter rules for notifications subpoena](https://appleinsider.com/articles/23/12/12/apples-legal-process-guidelines-updated-with-stricter-rules-for-notifications-subpoena?utm_medium=rss)
  - [The Apple TV app now looks more like an all-purpose streaming hub](https://www.theverge.com/2023/12/11/23997789/apple-tv-app-update-sidebar-tvos)
- - [Get Apple&#39;s high-end M2 Pro Mac mini with 32GB RAM, 1TB SSD for $1,699](https://appleinsider.com/articles/23/12/12/m2-pro-mac-mini-now-200-off-at-bh?utm_medium=rss)
- - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)<!-- TECH:END -->
+ - [Get Apple&#39;s high-end M2 Pro Mac mini with 32GB RAM, 1TB SSD for $1,699](https://appleinsider.com/articles/23/12/12/m2-pro-mac-mini-now-200-off-at-bh?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
