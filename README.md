@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/aA0zdBR)
- - ⏩ [London has fallen](http://9gag.com/gag/a8qxyNY)
- - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
+ - 💣 [`I should&#39;ve done this years ago!`](http://9gag.com/gag/aVbyMxO)
+ - ⏩ [Entertainment that we deserved](http://9gag.com/gag/aKEoVO3)
+ - 👉 [`you&#39;re gonna protect us one day, fella. Until then, let us protect you`](http://9gag.com/gag/a5X0nxg)<!-- MEMES:END -->
 
 ---
 
