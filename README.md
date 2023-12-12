@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
- - ⏩ [Not only for women](http://9gag.com/gag/aPgbMjg)
- - 👉 [Is he wrong?](http://9gag.com/gag/aL1792A)<!-- MEMES:END -->
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - ⏩ [Going to be fun](http://9gag.com/gag/aOxLmwr)
+ - 👉 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)<!-- MEMES:END -->
 
 ---
 
