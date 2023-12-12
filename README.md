@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple offers to open NFC on iPhone in EU, likely to stave off antitrust regulation](https://appleinsider.com/articles/23/12/12/apple-offers-to-open-nfc-on-iphone-in-eu-likely-to-stave-off-antitrust-regulation?utm_medium=rss)
- - [Sources: Apple offers to let rivals access its tap-and-go payments systems for mobile wallets, to settle EU antitrust charges and avoid a possible hefty fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231212/p10#a231212p10)
- - [ASUS posts blind camera test, rewards us with a good look at ROG Phone 8](https://www.androidauthority.com/asus-rog-phone-8-design-3393672/)<!-- TECH:END -->
+ - [Panasonic&#39;s New Powder-Powered Batteries Will Supercharge EVs](https://www.wired.com/story/panasonic-powder-powered-silicone-ev-batteries/)
+ - [How to Use Double Tap on WatchOS &lpar;2023&rpar;](https://www.wired.com/story/how-to-double-tap-apple/)
+ - [BeReal plans to add Behind the Scenes, an iOS Live Photo-style feature, and RealGroups, for smaller groups; Pew estimates 13% of US teens age 13-17 use BeReal &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/231212/p14#a231212p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
