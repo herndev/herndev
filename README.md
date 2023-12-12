@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
- - ⏩ [Going to be fun](http://9gag.com/gag/aOxLmwr)
- - 👉 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)<!-- MEMES:END -->
+ - 💣 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
+ - ⏩ [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
+ - 👉 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)<!-- MEMES:END -->
 
 ---
 
