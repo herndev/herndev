@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [December Pixel Feature Drop seems to be rolling out very slowly &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/december-2023-pixel-feature-drop-slow-rollout-3392637/)
- - [Apptopia: shoppers spent ~22 minutes per day on Temu in October, up from 18 minutes in Q2 2023, compared with 10 minutes on Amazon and 11 on AliExpress in Q2 &lpar;Jinshan Hong/Bloomberg&rpar;](http://www.techmeme.com/231212/p1#a231212p1)
- - [iOS 17.2 finally brings Apple’s long-awaited Journal app to iPhones](https://www.androidauthority.com/ios-17-2-update-features-availability-3393550/)<!-- TECH:END -->
+ - [In his first public appearance since returning to OpenAI, Sam Altman says AI is &quot;going to lift the world up&quot;, and you cannot build AI &quot;safely in a vacuum&quot; &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231212/p3#a231212p3)
+ - [It’s taken more than a Fortnite, but jury says the Google Play Store is a monopoly](https://www.androidauthority.com/epic-google-jury-verdict-3393169/)
+ - [Gina Raimondo says she plans to make ~12 CHIPS Act grants within the next year, including some worth billions of dollars that could reshape US&#39; chips production &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231212/p2#a231212p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
