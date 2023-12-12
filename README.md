@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s legal defeat to Epic threatens to roil an app store duopoly with Apple that generates ~$200B per year and will likely accelerate weaker app store rules &lpar;Bloomberg&rpar;](http://www.techmeme.com/231212/p5#a231212p5)
- - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)
- - [Latest Apple Watches get a Siri upgrade with watchOS 10.2](https://www.androidauthority.com/watchos-10-2-siri-access-health-data-apple-watch-3393623/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Munich-based Tacto, which uses AI to help companies optimize their supply chains and cut costs by ~10%, raised &amp;euro;50M led by Sequoia and Index Ventures &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/231212/p7#a231212p7)
+ - [Amazon Alexa users are having trouble controlling their lights](https://www.androidauthority.com/amazon-alexa-not-turning-on-lights-3393656/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
