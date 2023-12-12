@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 💣 [If you know you know](http://9gag.com/gag/aA0zdBR)
  - ⏩ [London has fallen](http://9gag.com/gag/a8qxyNY)
  - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
 
