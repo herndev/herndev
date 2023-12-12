@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
- - ⏩ [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
+ - 💣 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - ⏩ [LMAO](http://9gag.com/gag/agozGgr)
+ - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
 
 ---
 
