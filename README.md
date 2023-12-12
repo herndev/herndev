@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
- - ⏩ [Perky side profile](http://9gag.com/gag/aMEM8AW)
- - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
+ - 💣 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
+ - ⏩ [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 👉 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)<!-- MEMES:END -->
 
 ---
 
