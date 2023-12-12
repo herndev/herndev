@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In his first public appearance since returning to OpenAI, Sam Altman says AI is &quot;going to lift the world up&quot;, and you cannot build AI &quot;safely in a vacuum&quot; &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231212/p3#a231212p3)
- - [It’s taken more than a Fortnite, but jury says the Google Play Store is a monopoly](https://www.androidauthority.com/epic-google-jury-verdict-3393169/)
- - [Gina Raimondo says she plans to make ~12 CHIPS Act grants within the next year, including some worth billions of dollars that could reshape US&#39; chips production &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231212/p2#a231212p2)<!-- TECH:END -->
+ - [What’s better than a phone with a periscope camera? A phone with two of them](https://www.androidauthority.com/oppo-find-x7-pro-dual-periscope-cameras-3393586/)
+ - [This is what Android’s upcoming Private Space app-hiding feature looks like](https://www.androidauthority.com/android-private-space-feature-look-3393575/)
+ - [Has your Google Home or Home Mini stopped working suddenly? Google is investigating the problem](https://www.androidauthority.com/google-home-mini-bricked-2-3393591/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
