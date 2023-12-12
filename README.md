@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games CEO Tim Sweeney discusses beating Google, attributing the win to a jury trial and Google deleting chats, and says &quot;Apple didn&#39;t write anything down&quot; &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231212/p28#a231212p28)
- - [WhatsApp now lets users pin a message within one-on-one and group conversations for 24 hours, seven days, or 30 days, limited to one pinned message at a time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231212/p27#a231212p27)
- - [USDS head Mina Hsiang wants Big Tech’s best minds to help fix the government](https://www.theverge.com/23997640/usds-mina-hsiang-white-house-obama-big-tech-government-decoder-interview)<!-- TECH:END -->
+ - [Apple rolls out Stolen Device Protection in an iOS beta that, if enabled, restricts actions like Apple ID password resets while not in a &quot;familiar location&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231212/p30#a231212p30)
+ - [B&amp;H Photo has holiday deals on the Apple products you need for the loved ones on your list](https://appleinsider.com/articles/23/12/12/bh-photo-has-holiday-deals-on-the-apple-products-you-need-for-the-loved-ones-on-your-list?utm_medium=rss)
+ - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
