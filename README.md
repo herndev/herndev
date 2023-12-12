@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - ⏩ [LMAO](http://9gag.com/gag/agozGgr)
- - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
+ - 💣 [LMAO](http://9gag.com/gag/agozGgr)
+ - ⏩ [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
+ - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
 
 ---
 
