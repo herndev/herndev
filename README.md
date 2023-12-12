@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK Judicial Office issues guidance letting judges use AI tools like ChatGPT to perform tasks like writing legal rulings but warns of the tech&#39;s shortcomings &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/231212/p32#a231212p32)
- - [Netflix posts its first ever What We Watched report, detailing the most-watched content from January to June 2023; The Night Agent was #1 with 812M hours viewed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231212/p31#a231212p31)
- - [Apple&#39;s New iOS 17 Security Feature Blocks Opportunistic iPhone Thieves     - CNET](https://www.cnet.com/tech/mobile/apples-new-ios-17-security-feature-blocks-opportunistic-iphone-thieves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta’s AI for Ray-Ban smart glasses can identify objects and translate languages](https://www.theverge.com/2023/12/12/23998780/ray-ban-smart-glasses-hey-meta-multimodal-ai-features)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Aqara’s presence sensor can tell when you’re sleeping](https://www.theverge.com/2023/12/12/23998677/aqara-presence-sensor-fp2-track-your-sleep)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
