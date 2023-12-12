@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to shoot 3D video for Apple Vision Pro on iPhone 15 Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-shoot-3d-video-for-apple-vision-pro-on-iphone-15-pro?utm_medium=rss)
- - [Discord staff, moderators, and researchers say its rules and culture let a racist and antisemitic community flourish, after the April classified documents leak &lpar;Washington Post&rpar;](http://www.techmeme.com/231212/p16#a231212p16)
- - [Still waiting for Video Boost on your Pixel 8 Pro? Here are some results for more FOMO](https://www.androidauthority.com/pixel-8-video-boost-user-results-3393680/)<!-- TECH:END -->
+ - [GM’s hydrogen ‘power cubes’ will be used to power massive mining trucks](https://www.theverge.com/2023/12/12/23997306/gm-hydrotec-komatsu-mining-truck-hydrogen-power-cube)
+ - [The latest Android 14 beta seems to have broken the fingerprint sensor on the Pixel 7 Pro](https://www.androidauthority.com/android-14-qpr2-beta2-break-fingerprint-sensor-pixel-7-pro-3393716/)
+ - [The ESA shuts down the Electronic Entertainment Expo, or E3, after over 20 years, following a collapse caused by new competitors, partner withdrawals, and more &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/231212/p17#a231212p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
