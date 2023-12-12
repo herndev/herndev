@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
- - ⏩ [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
- - 👉 [Life with a cat](http://9gag.com/gag/avQKG7E)<!-- MEMES:END -->
+ - 💣 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - ⏩ [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
+ - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
 
 ---
 
