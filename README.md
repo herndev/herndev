@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Munich-based Tacto, which uses AI to help companies optimize their supply chains and cut costs by ~10%, raised &amp;euro;50M led by Sequoia and Index Ventures &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/231212/p7#a231212p7)
- - [Amazon Alexa users are having trouble controlling their lights](https://www.androidauthority.com/amazon-alexa-not-turning-on-lights-3393656/)<!-- TECH:END -->
+ - [Apple offers to open NFC on iPhone in EU, likely to stave off antitrust regulation](https://appleinsider.com/articles/23/12/12/apple-offers-to-open-nfc-on-iphone-in-eu-likely-to-stave-off-antitrust-regulation?utm_medium=rss)
+ - [Sources: Apple offers to let rivals access its tap-and-go payments systems for mobile wallets, to settle EU antitrust charges and avoid a possible hefty fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231212/p10#a231212p10)
+ - [ASUS posts blind camera test, rewards us with a good look at ROG Phone 8](https://www.androidauthority.com/asus-rog-phone-8-design-3393672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
