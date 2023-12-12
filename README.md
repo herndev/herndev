@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is back, after an outage knocked many people offline for a few hours](https://www.theverge.com/2023/12/11/23997733/netflix-is-down-outage-checking-internet-connection-error)
- - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
- - [Google’s App Store Ruled an Illegal Monopoly, as a Jury Sides With Epic Games](https://www.wired.com/story/googles-app-store-monopoly-ruled-illegal-jury-epic/)<!-- TECH:END -->
+ - [The Apple TV app now looks more like an all-purpose streaming hub](https://www.theverge.com/2023/12/11/23997789/apple-tv-app-update-sidebar-tvos)
+ - [Get Apple&#39;s high-end M2 Pro Mac mini with 32GB RAM, 1TB SSD for $1,699](https://appleinsider.com/articles/23/12/12/m2-pro-mac-mini-now-200-off-at-bh?utm_medium=rss)
+ - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
