@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
- - ⏩ [Does she give student discounts?](http://9gag.com/gag/a5X0Kmy)
- - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
+ - 💣 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
+ - ⏩ [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
+ - 👉 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)<!-- MEMES:END -->
 
 ---
 
