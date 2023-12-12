@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese memory chipmaker Changxin is delaying its Shanghai IPO for a more favorable market and instead plans to raise funds at a ~$19.5B valuation &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/231211/p26#a231211p26)
- - [Samsung new Galaxy Buds could one-up the Pixel Buds with on-device AI](https://www.androidauthority.com/samsung-galaxy-buds-on-device-ai-translations-3393547/)
- - [Epic win: Jury rules Google Play app store and billing an illegal monopoly](https://appleinsider.com/articles/23/12/12/epic-win-jury-rules-google-play-app-store-and-billing-an-illegal-monopoly?utm_medium=rss)<!-- TECH:END -->
+ - [December Pixel Feature Drop seems to be rolling out very slowly &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/december-2023-pixel-feature-drop-slow-rollout-3392637/)
+ - [Apptopia: shoppers spent ~22 minutes per day on Temu in October, up from 18 minutes in Q2 2023, compared with 10 minutes on Amazon and 11 on AliExpress in Q2 &lpar;Jinshan Hong/Bloomberg&rpar;](http://www.techmeme.com/231212/p1#a231212p1)
+ - [iOS 17.2 finally brings Apple’s long-awaited Journal app to iPhones](https://www.androidauthority.com/ios-17-2-update-features-availability-3393550/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
