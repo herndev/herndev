@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How DayZ spawned a new genre: the unfinished survival game](https://www.pcgamer.com/how-dayz-spawned-a-new-genre-the-unfinished-survival-game)
- - [After eight years in charge, League of Legends executive producer Jeremy &#39;Brightmoon&#39; Lee has stepped down to do &#39;other stuff at Riot&#39;](https://www.pcgamer.com/after-eight-years-in-charge-league-of-legends-executive-producer-jeremy-brightmoon-lee-has-stepped-down-to-do-other-stuff-at-riot)
- - [Dev Behind Controversial Shooter The Day Before Shuts Down Days After Massive Steam Launch [Update]](https://kotaku.com/day-before-fntastic-steam-extraction-shooter-shut-down-1851089879)<!-- GAME:END -->
+ - [The GTA 6 trailer is packed with little details: here are some of the most promising](https://www.pcgamer.com/the-gta-6-trailer-is-packed-with-little-details-here-are-some-of-the-most-promising-and-exciting)
+ - [The Day Before saga, explained: From Steam&#39;s most wishlisted game to the end of a studio](https://www.pcgamer.com/the-day-before-saga-explained-from-steams-most-wishlisted-game-to-the-end-of-a-studio)
+ - [Blue Eye Samurai is coming back for season 2](https://www.polygon.com/23997658/blue-eye-samurai-season-2-release-date-cast-news-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
