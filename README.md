@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima will show off all his celebrity friends in a documentary coming to Disney+ next year](https://www.pcgamer.com/hideo-kojima-will-show-off-all-his-celebrity-friends-in-a-documentary-coming-to-disney-next-year)
- - [Wordle today: Hint and answer #906 for Tuesday, December 12](https://www.pcgamer.com/wordle-today-answer-906-december-12)
- - [The GTA 6 trailer is packed with little details: here are some of the most promising](https://www.pcgamer.com/the-gta-6-trailer-is-packed-with-little-details-here-are-some-of-the-most-promising-and-exciting)<!-- GAME:END -->
+ - [Disney games boss acknowledges &#39;a lot of demand&#39; for Knights of the Old Republic remake, giving me my first spark of hope for the project in ages](https://www.pcgamer.com/disney-games-boss-acknowledges-a-lot-of-demand-for-knights-of-the-old-republic-remake-giving-me-my-first-spark-of-hope-for-the-project-in-ages)
+ - [&#39;This was our first big experience, sh*t happens&#39;: The Day Before&#39;s CEO is MIA, its Discord server has disintegrated, and its YouTube Channel has gone dark](https://www.pcgamer.com/this-was-our-first-big-experience-sht-happens-the-day-befores-ceo-is-mia-its-discord-server-has-disintegrated-and-its-youtube-channel-has-gone-dark)
+ - [Hideo Kojima will show off all his celebrity friends in a documentary coming to Disney+ next year](https://www.pcgamer.com/hideo-kojima-will-show-off-all-his-celebrity-friends-in-a-documentary-coming-to-disney-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
