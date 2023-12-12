@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - ⏩ [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
- - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
+ - ⏩ [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
 
 ---
 
