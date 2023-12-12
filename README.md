@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: FTX asks the US IRS to substantiate its claim worth $24B against FTX in unpaid taxes; the IRS lowered the amount from $44B in April to $24B in November &lpar;Anna Baydakova/The Block&rpar;](http://www.techmeme.com/231211/p22#a231211p22)
- - [Netflix’s Blue Eye Samurai is coming back for a second season](https://www.theverge.com/2023/12/11/23997629/blue-eye-samurai-netflix-season-2-renewal)
- - [AppleInsider t-shirt giveaway: enter to win our new icon tee or buy one now](https://appleinsider.com/articles/23/12/11/appleinsider-t-shirt-giveaway-enter-to-win-our-new-icon-tee-or-buy-one-now?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is back, after an outage knocked many people offline for a few hours](https://www.theverge.com/2023/12/11/23997733/netflix-is-down-outage-checking-internet-connection-error)
+ - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
+ - [Google’s App Store Ruled an Illegal Monopoly, as a Jury Sides With Epic Games](https://www.wired.com/story/googles-app-store-monopoly-ruled-illegal-jury-epic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
