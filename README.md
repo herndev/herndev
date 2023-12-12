@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hideo Kojima will show off all his celebrity friends in a documentary coming to Disney+ next year](https://www.pcgamer.com/hideo-kojima-will-show-off-all-his-celebrity-friends-in-a-documentary-coming-to-disney-next-year)
  - [Wordle today: Hint and answer #906 for Tuesday, December 12](https://www.pcgamer.com/wordle-today-answer-906-december-12)
- - [The GTA 6 trailer is packed with little details: here are some of the most promising](https://www.pcgamer.com/the-gta-6-trailer-is-packed-with-little-details-here-are-some-of-the-most-promising-and-exciting)
- - [The Day Before saga, explained: From Steam&#39;s most wishlisted game to the end of a studio](https://www.pcgamer.com/the-day-before-saga-explained-from-steams-most-wishlisted-game-to-the-end-of-a-studio)<!-- GAME:END -->
+ - [The GTA 6 trailer is packed with little details: here are some of the most promising](https://www.pcgamer.com/the-gta-6-trailer-is-packed-with-little-details-here-are-some-of-the-most-promising-and-exciting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
