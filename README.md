@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
- - ⏩ [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
- - 👉 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)<!-- MEMES:END -->
+ - 💣 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
+ - ⏩ [Not only for women](http://9gag.com/gag/aPgbMjg)
+ - 👉 [Is he wrong?](http://9gag.com/gag/aL1792A)<!-- MEMES:END -->
 
 ---
 
