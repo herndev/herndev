@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - ⏩ [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 👉 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)<!-- MEMES:END -->
+ - 💣 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - ⏩ [Perky side profile](http://9gag.com/gag/aMEM8AW)
+ - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
 
 ---
 
