@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 Is Going Big on Story… Twice](https://news.xbox.com/en-us/2023/12/12/tekken-8-story-mode/)
- - [Disney games boss acknowledges &#39;a lot of demand&#39; for Knights of the Old Republic remake, giving me my first spark of hope for the project in ages](https://www.pcgamer.com/disney-games-boss-acknowledges-a-lot-of-demand-for-knights-of-the-old-republic-remake-giving-me-my-first-spark-of-hope-for-the-project-in-ages)
- - [&#39;This was our first big experience, sh*t happens&#39;: The Day Before&#39;s CEO is MIA, its Discord server has disintegrated, and its YouTube Channel has gone dark](https://www.pcgamer.com/this-was-our-first-big-experience-sht-happens-the-day-befores-ceo-is-mia-its-discord-server-has-disintegrated-and-its-youtube-channel-has-gone-dark)<!-- GAME:END -->
+ - [Fortnite Launches LEGO Fortnite, Rocket Racing, and Fortnite Festival – All Out Now](https://news.xbox.com/en-us/2023/12/12/fortnite-launches-lego-fortnite-rocket-racing-and-fortnite-festival-all-out-now/)
+ - [E3 is 100% dead](https://www.polygon.com/23998280/e3-canceled-2023)
+ - [Epic Games Wins Shocking Upset In Google Monopoly Trial](https://kotaku.com/fortnite-epic-v-google-monopoly-trial-apple-1851092124)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
