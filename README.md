@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LMAO](http://9gag.com/gag/agozGgr)
- - ⏩ [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 💣 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)
+ - ⏩ [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
 
 ---
 
