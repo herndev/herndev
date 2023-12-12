@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM’s hydrogen ‘power cubes’ will be used to power massive mining trucks](https://www.theverge.com/2023/12/12/23997306/gm-hydrotec-komatsu-mining-truck-hydrogen-power-cube)
- - [The latest Android 14 beta seems to have broken the fingerprint sensor on the Pixel 7 Pro](https://www.androidauthority.com/android-14-qpr2-beta2-break-fingerprint-sensor-pixel-7-pro-3393716/)
- - [The ESA shuts down the Electronic Entertainment Expo, or E3, after over 20 years, following a collapse caused by new competitors, partner withdrawals, and more &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/231212/p17#a231212p17)<!-- TECH:END -->
+ - [Stussy-branded Beats Studio Pro go on sale December 15](https://appleinsider.com/articles/23/12/12/stussy-branded-beats-studio-pro-go-on-sale-december-15?utm_medium=rss)
+ - [The AirPods Pro and Beats Studio Pro have hit near all-time low prices](https://www.theverge.com/2023/12/12/23997260/apple-airpods-pro-beats-studio-pro-philips-hue-deal-sale)
+ - [Jitjatjo, a gig marketplace with 40K+ workers who businesses can book with as little as an hour&#39;s notice, raised a $30 Series B, bringing total funding to ~$65M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231212/p21#a231212p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
