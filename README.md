@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s better than a phone with a periscope camera? A phone with two of them](https://www.androidauthority.com/oppo-find-x7-pro-dual-periscope-cameras-3393586/)
- - [This is what Android’s upcoming Private Space app-hiding feature looks like](https://www.androidauthority.com/android-private-space-feature-look-3393575/)
- - [Has your Google Home or Home Mini stopped working suddenly? Google is investigating the problem](https://www.androidauthority.com/google-home-mini-bricked-2-3393591/)<!-- TECH:END -->
+ - [Google&#39;s legal defeat to Epic threatens to roil an app store duopoly with Apple that generates ~$200B per year and will likely accelerate weaker app store rules &lpar;Bloomberg&rpar;](http://www.techmeme.com/231212/p5#a231212p5)
+ - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)
+ - [Latest Apple Watches get a Siri upgrade with watchOS 10.2](https://www.androidauthority.com/watchos-10-2-siri-access-health-data-apple-watch-3393623/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
