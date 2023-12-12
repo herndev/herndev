@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad’s new 3-in-1 charging stand has MagSafe and one oddly specific design flaw](https://www.theverge.com/2023/12/12/23997680/nomad-stand-one-max-magsafe-charger-apple-price-specs)
- - [Google Maps gives you more control from the blue dot](https://www.theverge.com/2023/12/12/23997581/google-maps-timeline-location-history-activity-blue-dot)
- - [Apple highlights the 2023 top App Store apps and games](https://appleinsider.com/articles/23/12/12/apple-highlights-the-2023-top-app-store-apps-and-games?utm_medium=rss)<!-- TECH:END -->
+ - [Epic Games CEO Tim Sweeney discusses beating Google, attributing the win to a jury trial and Google deleting chats, and says &quot;Apple didn&#39;t write anything down&quot; &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231212/p28#a231212p28)
+ - [WhatsApp now lets users pin a message within one-on-one and group conversations for 24 hours, seven days, or 30 days, limited to one pinned message at a time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231212/p27#a231212p27)
+ - [USDS head Mina Hsiang wants Big Tech’s best minds to help fix the government](https://www.theverge.com/23997640/usds-mina-hsiang-white-house-obama-big-tech-government-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
