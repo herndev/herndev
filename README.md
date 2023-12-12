@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out Stolen Device Protection in an iOS beta that, if enabled, restricts actions like Apple ID password resets while not in a &quot;familiar location&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231212/p30#a231212p30)
- - [B&amp;H Photo has holiday deals on the Apple products you need for the loved ones on your list](https://appleinsider.com/articles/23/12/12/bh-photo-has-holiday-deals-on-the-apple-products-you-need-for-the-loved-ones-on-your-list?utm_medium=rss)
- - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)<!-- TECH:END -->
+ - [The UK Judicial Office issues guidance letting judges use AI tools like ChatGPT to perform tasks like writing legal rulings but warns of the tech&#39;s shortcomings &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/231212/p32#a231212p32)
+ - [Netflix posts its first ever What We Watched report, detailing the most-watched content from January to June 2023; The Night Agent was #1 with 812M hours viewed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231212/p31#a231212p31)
+ - [Apple&#39;s New iOS 17 Security Feature Blocks Opportunistic iPhone Thieves     - CNET](https://www.cnet.com/tech/mobile/apples-new-ios-17-security-feature-blocks-opportunistic-iphone-thieves/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
