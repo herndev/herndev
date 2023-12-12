@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
- - ⏩ [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
- - 👉 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)<!-- MEMES:END -->
+ - 💣 [That escalated quickly](http://9gag.com/gag/aGE415Z)
+ - ⏩ [London has fallen](http://9gag.com/gag/a8qxyNY)
+ - 👉 [Anyone can relate?](http://9gag.com/gag/aBdB1EZ)<!-- MEMES:END -->
 
 ---
 
