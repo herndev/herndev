@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #906 for Tuesday, December 12](https://www.pcgamer.com/wordle-today-answer-906-december-12)
  - [The GTA 6 trailer is packed with little details: here are some of the most promising](https://www.pcgamer.com/the-gta-6-trailer-is-packed-with-little-details-here-are-some-of-the-most-promising-and-exciting)
- - [The Day Before saga, explained: From Steam&#39;s most wishlisted game to the end of a studio](https://www.pcgamer.com/the-day-before-saga-explained-from-steams-most-wishlisted-game-to-the-end-of-a-studio)
- - [Blue Eye Samurai is coming back for season 2](https://www.polygon.com/23997658/blue-eye-samurai-season-2-release-date-cast-news-netflix)<!-- GAME:END -->
+ - [The Day Before saga, explained: From Steam&#39;s most wishlisted game to the end of a studio](https://www.pcgamer.com/the-day-before-saga-explained-from-steams-most-wishlisted-game-to-the-end-of-a-studio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
