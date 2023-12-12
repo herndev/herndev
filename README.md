@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That escalated quickly](http://9gag.com/gag/aGE415Z)
- - ⏩ [London has fallen](http://9gag.com/gag/a8qxyNY)
- - 👉 [Anyone can relate?](http://9gag.com/gag/aBdB1EZ)<!-- MEMES:END -->
+ - 💣 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
+ - ⏩ [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
+ - 👉 [Life with a cat](http://9gag.com/gag/avQKG7E)<!-- MEMES:END -->
 
 ---
 
