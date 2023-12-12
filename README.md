@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - ⏩ [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 💣 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - ⏩ [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 👉 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)<!-- MEMES:END -->
 
 ---
 
