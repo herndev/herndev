@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - ⏩ [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 💣 [Dude gonna be in there for a very long time](http://9gag.com/gag/aXn69rd)
+ - ⏩ [Anyone can relate?](http://9gag.com/gag/aBdB1EZ)
+ - 👉 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)<!-- MEMES:END -->
 
 ---
 
