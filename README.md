@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stussy-branded Beats Studio Pro go on sale December 15](https://appleinsider.com/articles/23/12/12/stussy-branded-beats-studio-pro-go-on-sale-december-15?utm_medium=rss)
- - [The AirPods Pro and Beats Studio Pro have hit near all-time low prices](https://www.theverge.com/2023/12/12/23997260/apple-airpods-pro-beats-studio-pro-philips-hue-deal-sale)
- - [Jitjatjo, a gig marketplace with 40K+ workers who businesses can book with as little as an hour&#39;s notice, raised a $30 Series B, bringing total funding to ~$65M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231212/p21#a231212p21)<!-- TECH:END -->
+ - [Nomad’s new 3-in-1 charging stand has MagSafe and one oddly specific design flaw](https://www.theverge.com/2023/12/12/23997680/nomad-stand-one-max-magsafe-charger-apple-price-specs)
+ - [Google Maps gives you more control from the blue dot](https://www.theverge.com/2023/12/12/23997581/google-maps-timeline-location-history-activity-blue-dot)
+ - [Apple highlights the 2023 top App Store apps and games](https://appleinsider.com/articles/23/12/12/apple-highlights-the-2023-top-app-store-apps-and-games?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
