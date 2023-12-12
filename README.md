@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dev Behind Controversial Shooter The Day Before Shuts Down Days After Massive Steam Launch [Update]](https://kotaku.com/day-before-fntastic-steam-extraction-shooter-shut-down-1851089879)
- - [Doctor Who blew its big handoff](https://www.polygon.com/reviews/23997484/doctor-who-giggle-ncuti-gatwa-15th-doctor)
- - [How to romance companions in Warhammer 40K: Rogue Trader](https://www.polygon.com/guides/23991017/warhammer-40k-rogue-trader-romance-companions-how-to)<!-- GAME:END -->
+ - [How DayZ spawned a new genre: the unfinished survival game](https://www.pcgamer.com/how-dayz-spawned-a-new-genre-the-unfinished-survival-game)
+ - [After eight years in charge, League of Legends executive producer Jeremy &#39;Brightmoon&#39; Lee has stepped down to do &#39;other stuff at Riot&#39;](https://www.pcgamer.com/after-eight-years-in-charge-league-of-legends-executive-producer-jeremy-brightmoon-lee-has-stepped-down-to-do-other-stuff-at-riot)
+ - [Dev Behind Controversial Shooter The Day Before Shuts Down Days After Massive Steam Launch [Update]](https://kotaku.com/day-before-fntastic-steam-extraction-shooter-shut-down-1851089879)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
