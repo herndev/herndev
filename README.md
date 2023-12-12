@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/aA0zdBR)
- - ⏩ [Anyone can relate?](http://9gag.com/gag/aBdB1EZ)
- - 👉 [London has fallen](http://9gag.com/gag/a8qxyNY)<!-- MEMES:END -->
+ - 💣 [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - ⏩ [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
 
 ---
 
