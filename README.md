@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s AI for Ray-Ban smart glasses can identify objects and translate languages](https://www.theverge.com/2023/12/12/23998780/ray-ban-smart-glasses-hey-meta-multimodal-ai-features)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Aqara’s presence sensor can tell when you’re sleeping](https://www.theverge.com/2023/12/12/23998677/aqara-presence-sensor-fp2-track-your-sleep)<!-- TECH:END -->
+ - [Tierra Whack Doesn’t Want Her Creativity Boxed In](https://www.wired.com/story/livewired-tierra-whack/)
+ - [Sources: X generated just over $600M in ad revenue in each of 2023&#39;s first three quarters, down from $1B+ per quarter in 2022 and on track for ~$2.5B in 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/231212/p39#a231212p39)
+ - [Hackers breached Coin Cloud, which went bankrupt in February 2023, and stole the data of 300K users; source: the Bitcoin ATM company didn&#39;t have a security team &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231212/p38#a231212p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
