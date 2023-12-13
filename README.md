@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - ⏩ [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - 👉 [Perky side profile](http://9gag.com/gag/aMEM8AW)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
+ - ⏩ [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 ---
 
