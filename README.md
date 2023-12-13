@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Twitter&#39;s culture prior to Elon Musk&#39;s acquisition, when it focused on improving the health of online conversations, rather than growth at all costs &lpar;Zo&amp;euml; Schiffer/The Verge&rpar;](http://www.techmeme.com/231212/p43#a231212p43)
- - [Broadcom&#39;s VMware Cloud Foundation Division announces the end of perpetual licenses and a move to subscriptions, plus a simplification of its product portfolio &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/231212/p42#a231212p42)
- - [A look at Praxis, which raised $19.2M from Paradigm, Alameda Research, and others to build a city on the Mediterranean for tech bros and downtown NY tastemakers &lpar;Joseph Bernstein/New York Times&rpar;](http://www.techmeme.com/231212/p41#a231212p41)<!-- TECH:END -->
+ - [Microsoft warns that threat actors are misusing OAuth apps to automate phishing attacks, push spam, and deploy VMs for crypto mining &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231212/p46#a231212p46)
+ - [Ukraine&#39;s defense intelligence directorate claims to have hacked Russia&#39;s state tax service and that Russia has been trying to restore the service for four days &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/231212/p45#a231212p45)
+ - [Starlink loses out on $886 million in rural broadband subsidies](https://www.theverge.com/2023/12/12/23999070/spacex-starlink-fcc-rural-digital-opportunity-fund-fcc-rejected)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
