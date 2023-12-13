@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - ⏩ [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
- - 👉 [Perky side profile](http://9gag.com/gag/aMEM8AW)<!-- MEMES:END -->
+ - 💣 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - ⏩ [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - 👉 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)<!-- MEMES:END -->
 
 ---
 
