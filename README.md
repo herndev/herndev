@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Camera man did her dirty](http://9gag.com/gag/axoq04W)
- - ⏩ [Title](http://9gag.com/gag/a2K6Zmw)
- - 👉 [RIP Captain](http://9gag.com/gag/aGE4Z5w)<!-- MEMES:END -->
+ - 💣 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
+ - ⏩ [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - 👉 [Title](http://9gag.com/gag/aQEWeGd)<!-- MEMES:END -->
 
 ---
 
