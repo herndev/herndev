@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smart mixer did not make me a better baker](https://www.theverge.com/23998244/ge-profile-smart-mixer-review)
- - [Pixelmator Pro 3.5 update adds HDR image and video editing support](https://appleinsider.com/articles/23/12/13/pixelmator-pro-35-update-adds-hdr-image-and-video-editing-support?utm_medium=rss)
- - [Tesla will update nearly every car sold in the US to address Autopilot ‘defect’](https://www.theverge.com/2023/12/13/23999683/tesla-autopilot-defect-software-update-recall-nhtsa)<!-- TECH:END -->
+ - [Instagram is going to let you set video statuses](https://www.theverge.com/2023/12/13/23999150/instagram-notes-video-status-replies)
+ - [Despite what you may have heard, don&#39;t write off the iMac just yet](https://appleinsider.com/articles/23/12/13/despite-what-you-may-have-heard-dont-write-off-the-imac-just-yet?utm_medium=rss)
+ - [Apple&#39;s upgraded M3 MacBook Pro 14-inch just dropped to $1,499](https://appleinsider.com/articles/23/12/13/apples-upgraded-m3-macbook-pro-14-inch-just-dropped-to-1499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
