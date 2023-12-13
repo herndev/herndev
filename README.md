@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kindle vs Kindle Paperwhite: Which one should you buy?](https://www.androidauthority.com/amazon-kindle-vs-kidle-paperwhite-3388819/)
- - [Salesforce and Apple deepen partnership with Business Messaging and AR integrations](https://appleinsider.com/articles/23/12/13/salesforce-and-apple-deepen-partnership-with-business-messaging-and-ar-integrations?utm_medium=rss)
- - [A Pew survey of US adults finds ~38% support a federal TikTok ban, down from 50% in March 2023; Republicans&#39; support of a ban dropped from 60% to 50% &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231213/p19#a231213p19)<!-- TECH:END -->
+ - [This smart mixer did not make me a better baker](https://www.theverge.com/23998244/ge-profile-smart-mixer-review)
+ - [Pixelmator Pro 3.5 update adds HDR image and video editing support](https://appleinsider.com/articles/23/12/13/pixelmator-pro-35-update-adds-hdr-image-and-video-editing-support?utm_medium=rss)
+ - [Tesla will update nearly every car sold in the US to address Autopilot ‘defect’](https://www.theverge.com/2023/12/13/23999683/tesla-autopilot-defect-software-update-recall-nhtsa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
