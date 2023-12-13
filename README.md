@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine paying that amount of money to live in an Islamic city.](http://9gag.com/gag/aGE4jm0)
- - ⏩ [What a bro.](http://9gag.com/gag/aEqmxp9)
- - 👉 [I can&#39;t find giant poster of obese black female in Asian countries, why....](http://9gag.com/gag/awZWXe8)<!-- MEMES:END -->
+ - 💣 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
+ - ⏩ [Title](http://9gag.com/gag/a2K6Zmw)
+ - 👉 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)<!-- MEMES:END -->
 
 ---
 
