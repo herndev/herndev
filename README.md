@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
- - ⏩ [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 👉 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)<!-- MEMES:END -->
+ - 💣 [Imagine paying that amount of money to live in an Islamic city.](http://9gag.com/gag/aGE4jm0)
+ - ⏩ [What a bro.](http://9gag.com/gag/aEqmxp9)
+ - 👉 [I can&#39;t find giant poster of obese black female in Asian countries, why....](http://9gag.com/gag/awZWXe8)<!-- MEMES:END -->
 
 ---
 
