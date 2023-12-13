@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft warns that threat actors are misusing OAuth apps to automate phishing attacks, push spam, and deploy VMs for crypto mining &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231212/p46#a231212p46)
- - [Ukraine&#39;s defense intelligence directorate claims to have hacked Russia&#39;s state tax service and that Russia has been trying to restore the service for four days &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/231212/p45#a231212p45)
- - [Starlink loses out on $886 million in rural broadband subsidies](https://www.theverge.com/2023/12/12/23999070/spacex-starlink-fcc-rural-digital-opportunity-fund-fcc-rejected)<!-- TECH:END -->
+ - [Meta is working on extending its fact-checking program on Threads early next year, as third-party fact-checkers cannot currently rate Threads content on its own &lpar;Malak Saleh/Engadget&rpar;](http://www.techmeme.com/231212/p48#a231212p48)
+ - [True Anomaly, a startup designing hardware and software for military and intelligence space reconnaissance systems, raised a $100M Series B led by Riot Ventures &lpar;Bloomberg&rpar;](http://www.techmeme.com/231212/p47#a231212p47)
+ - [Microsoft warns that threat actors are misusing OAuth apps to automate phishing attacks, push spam, and deploy VMs for crypto mining &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231212/p46#a231212p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
