@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is bringing the excellent Sonic Mania to mobile](https://www.theverge.com/2023/12/13/23999780/sonic-mania-plus-netflix-cozy-grove-2024)
- - [Hacker Group Linked to Russian Military Claims Credit for Cyberattack on Kyivstar](https://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/)
- - [This Samsung Galaxy S23 deal is better than Black Friday](https://www.androidauthority.com/samsung-galaxy-s23-holiday-deal-3394228/)<!-- TECH:END -->
+ - [Get ready for a powered-up Christmas with a Bluetti portable power station](https://appleinsider.com/articles/23/12/13/get-ready-for-a-powered-up-christmas-with-a-bluetti-portable-power-station?utm_medium=rss)
+ - [Amazon launches Your Books, a hub to let users organize all of their books, including print, Kindle, and Audible titles, while also providing recommendations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231213/p32#a231213p32)
+ - [Pixel Watch Unlock is very neat on phones, but I wish it worked both ways](https://www.androidauthority.com/pixel-watch-unlock-3394192/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
