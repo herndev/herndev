@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps will now let you move around more discreetly](https://www.androidauthority.com/google-maps-timeline-storage-delete-place-activity-3393944/)
- - [Apple updates its law enforcement guidelines to now require a judge&#39;s order before handing over users&#39; push notification data, instead of only a subpoena &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/231212/p50#a231212p50)
- - [Amazon Alexa users are having trouble controlling their lights &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/amazon-alexa-not-turning-on-lights-3393656/)<!-- TECH:END -->
+ - [Kakao names Shina Chung, the head of its corporate VC arm, as its next CEO; Chung is a rare female leader in South Korea&#39;s male-dominated business sphere &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231213/p2#a231213p2)
+ - [How to find your Steam ID](https://www.androidauthority.com/find-steam-id-3156460/)
+ - [Students: save up to 34% with limited-time MacBook Air &amp; Pro deals at B&amp;H](https://appleinsider.com/articles/23/12/13/students-save-up-to-34-with-limited-time-macbook-air-pro-deals-at-bh?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
