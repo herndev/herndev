@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
- - ⏩ [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 💣 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - ⏩ [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)
+ - 👉 [Pink](http://9gag.com/gag/aZDOL69)<!-- MEMES:END -->
 
 ---
 
