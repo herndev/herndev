@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - ⏩ [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)
+ - 💣 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)
+ - ⏩ [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
  - 👉 [Pink](http://9gag.com/gag/aZDOL69)<!-- MEMES:END -->
 
 ---
