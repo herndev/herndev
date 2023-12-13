@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - ⏩ [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
+ - 💣 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
+ - ⏩ [Beautiful nature](http://9gag.com/gag/amA4Y8j)
  - 👉 [Title](http://9gag.com/gag/a2K6Zmw)<!-- MEMES:END -->
 
 ---
