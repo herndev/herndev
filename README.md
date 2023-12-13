@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why so weak?](http://9gag.com/gag/aMEMjoX)
- - ⏩ [Just some tips](http://9gag.com/gag/aA0zgdp)
- - 👉 [Just because...](http://9gag.com/gag/aL17gMg)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
+ - ⏩ [Michael Caine and his long time wife Shakira &lpar;1973 &amp; 2023&rpar;](http://9gag.com/gag/aoKQ5On)
+ - 👉 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)<!-- MEMES:END -->
 
 ---
 
