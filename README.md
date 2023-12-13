@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AI tools for job seekers](https://www.androidauthority.com/best-ai-tools-for-job-seekers-3389605/)
- - [Looking to buy good, inexpensive Samsung phones? Don’t miss the new Galaxy A15 and Galaxy A25 5G](https://www.androidauthority.com/samsung-galaxy-a15-galaxy-a25-launch-3393980/)
- - [Poll: Do you prefer manual or automatic screen brightness?](https://www.androidauthority.com/manual-automatic-screen-brightness-poll-3394014/)<!-- TECH:END -->
+ - [Google, Meta, Qualcomm, and seven other tech companies form the Coalition for Open Digital Ecosystems, aiming to promote open digital ecosystems in the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231213/p9#a231213p9)
+ - [GM is ditching Android Auto for safety, totally not a subscription play](https://www.androidauthority.com/gm-android-auto-carplay-safety-3394072/)
+ - [Pro-government news outlets and influencers in Bangladesh are promoting AI-generated disinformation created with cheap tools ahead of elections in January 2024 &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/231213/p8#a231213p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
