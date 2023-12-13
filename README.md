@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
- - [Marvel’s Black Panther Disney Plus series will dig into Wakandan history](https://www.theverge.com/2023/12/12/23999034/marvel-black-panther-eyes-of-wakanda-disney-plus-series)
- - [The Death of E3 Signals the End of Gaming’s Most Extravagant Era](https://www.wired.com/story/e3-death-end-of-era-streaming/)<!-- TECH:END -->
+ - [A look at Twitter&#39;s culture prior to Elon Musk&#39;s acquisition, when it focused on improving the health of online conversations, rather than growth at all costs &lpar;Zo&amp;euml; Schiffer/The Verge&rpar;](http://www.techmeme.com/231212/p43#a231212p43)
+ - [Broadcom&#39;s VMware Cloud Foundation Division announces the end of perpetual licenses and a move to subscriptions, plus a simplification of its product portfolio &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/231212/p42#a231212p42)
+ - [A look at Praxis, which raised $19.2M from Paradigm, Alameda Research, and others to build a city on the Mediterranean for tech bros and downtown NY tastemakers &lpar;Joseph Bernstein/New York Times&rpar;](http://www.techmeme.com/231212/p41#a231212p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
