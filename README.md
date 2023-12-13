@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Alexa users are having trouble controlling their lights &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/amazon-alexa-not-turning-on-lights-3393656/)
- - [Fujitsu plans to sell its chip packaging unit Shinko Electric for ~$4.8B to a group led by Japan Investment Corp., in an effort to offload non-core operations &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231212/p49#a231212p49)
- - [GM ditching Apple CarPlay is about money, not safety](https://appleinsider.com/articles/23/12/13/gm-ditching-apple-carplay-is-about-money-not-safety?utm_medium=rss)<!-- TECH:END -->
+ - [Google Maps will now let you move around more discreetly](https://www.androidauthority.com/google-maps-timeline-storage-delete-place-activity-3393944/)
+ - [Apple updates its law enforcement guidelines to now require a judge&#39;s order before handing over users&#39; push notification data, instead of only a subpoena &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/231212/p50#a231212p50)
+ - [Amazon Alexa users are having trouble controlling their lights &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/amazon-alexa-not-turning-on-lights-3393656/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
