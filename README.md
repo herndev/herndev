@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla recalls 2M+ vehicles after the NHTSA said its means for keeping drivers engaged in Autopilot were inadequate and open to misuse, part of a yearslong probe &lpar;Keith Laing/Bloomberg&rpar;](http://www.techmeme.com/231213/p11#a231213p11)
- - [The best new Android games for January 2024](https://www.androidauthority.com/new-android-games-658872/)
- - [Here&#39;s How You Can Disable NameDrop in a Few Simple Steps     - CNET](https://www.cnet.com/tech/mobile/heres-how-you-can-disable-namedrop-in-a-few-simple-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: 3AC co-founder Su Zhu for the first time faced questioning in a Singapore court about the fund&#39;s collapse; Teneo estimates 3AC owes creditors ~$3.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/231213/p16#a231213p16)
+ - [A Brilliant COP Agreement? It Depends Who You Ask](https://www.wired.com/story/cop28-dubai-final-agreement/)
+ - [The FCC issues a final denial of Starlink&#39;s request for $885M to expand rural coverage, saying Starlink &quot;failed to demonstrate&quot; an ability to offer the service &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231213/p15#a231213p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
