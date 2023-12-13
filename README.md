@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
- - ⏩ [Title](http://9gag.com/gag/a2K6Zmw)
- - 👉 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)<!-- MEMES:END -->
+ - 💣 [What a bro.](http://9gag.com/gag/aEqmxp9)
+ - ⏩ [I can&#39;t find giant poster of obese black female in Asian countries, why....](http://9gag.com/gag/awZWXe8)
+ - 👉 [Why so weak?](http://9gag.com/gag/aMEMjoX)<!-- MEMES:END -->
 
 ---
 
