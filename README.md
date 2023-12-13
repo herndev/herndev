@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [Line Next, a Line Corporation unit that focuses on NFTs and currently has 5.5M users globally, raised $140M led by Peter Thiel-backed Crescendo Equity Partners &lpar;Miguel Cordon/Tech in Asia&rpar;](http://www.techmeme.com/231213/p7#a231213p7)
- - [Sources: Foxconn plans to invest at least $1B more, on top of $1.6B it allocated earlier, in its 300-acre Bengaluru plant to make Apple devices &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/231213/p6#a231213p6)<!-- TECH:END -->
+ - [The best AI tools for job seekers](https://www.androidauthority.com/best-ai-tools-for-job-seekers-3389605/)
+ - [Looking to buy good, inexpensive Samsung phones? Don’t miss the new Galaxy A15 and Galaxy A25 5G](https://www.androidauthority.com/samsung-galaxy-a15-galaxy-a25-launch-3393980/)
+ - [Poll: Do you prefer manual or automatic screen brightness?](https://www.androidauthority.com/manual-automatic-screen-brightness-poll-3394014/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
