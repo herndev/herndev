@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kakao names Shina Chung, the head of its corporate VC arm, as its next CEO; Chung is a rare female leader in South Korea&#39;s male-dominated business sphere &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231213/p2#a231213p2)
- - [How to find your Steam ID](https://www.androidauthority.com/find-steam-id-3156460/)
- - [Students: save up to 34% with limited-time MacBook Air &amp; Pro deals at B&amp;H](https://appleinsider.com/articles/23/12/13/students-save-up-to-34-with-limited-time-macbook-air-pro-deals-at-bh?utm_medium=rss)<!-- TECH:END -->
+ - [December Pixel Watch update is here, brings Pixel Watch 2 features to old watch](https://www.androidauthority.com/pixel-watch-update-december-feature-drop-3393567/)
+ - [Ampere: Disney+ and Hulu combined would have more popular titles in the US than any other service and its catalog size would rank second only to Prime Video &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/231213/p4#a231213p4)
+ - [As Taiwan&#39;s government rejects suggestions that the chip industry was crowding out other sectors, a look at TSMC&#39;s outsized economic role ahead of the elections &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/231213/p3#a231213p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
