@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready for a powered-up Christmas with a Bluetti portable power station](https://appleinsider.com/articles/23/12/13/get-ready-for-a-powered-up-christmas-with-a-bluetti-portable-power-station?utm_medium=rss)
- - [Amazon launches Your Books, a hub to let users organize all of their books, including print, Kindle, and Audible titles, while also providing recommendations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231213/p32#a231213p32)
- - [Pixel Watch Unlock is very neat on phones, but I wish it worked both ways](https://www.androidauthority.com/pixel-watch-unlock-3394192/)<!-- TECH:END -->
+ - [Apple selling a standalone second-generation AirPod Pro USB-C case for $99](https://appleinsider.com/articles/23/12/13/apple-selling-a-standalone-second-generation-airpod-pro-usb-c-case-for-99?utm_medium=rss)
+ - [Score this 50-inch Omni Series 4K UHD smart TV for just $310 &lpar;35% off&rpar;](https://www.androidauthority.com/amazon-fire-smart-tv-deal-3394260/)
+ - [EU set to slam Apple with antitrust order over App Store practices and Spotify battle](https://appleinsider.com/articles/23/12/13/eu-set-to-slam-apple-with-antitrust-order-over-app-store-practices-and-spotify-battle?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
