@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
- - ⏩ [Knocked out and was found by a neighbor unconcious. Woke up after 2 days. Turns out i have a brain tumor. Thank you 9gag. Keep on being horny racists.](http://9gag.com/gag/aA0z3mZ)
- - 👉 [The process of making a potion](http://9gag.com/gag/aREq13q)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/awZWBm8)
+ - ⏩ [Just because...](http://9gag.com/gag/aL17gMg)
+ - 👉 [Title](http://9gag.com/gag/aQEWeGd)<!-- MEMES:END -->
 
 ---
 
