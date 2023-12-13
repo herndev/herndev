@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: 3AC co-founder Su Zhu for the first time faced questioning in a Singapore court about the fund&#39;s collapse; Teneo estimates 3AC owes creditors ~$3.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/231213/p16#a231213p16)
- - [A Brilliant COP Agreement? It Depends Who You Ask](https://www.wired.com/story/cop28-dubai-final-agreement/)
- - [The FCC issues a final denial of Starlink&#39;s request for $885M to expand rural coverage, saying Starlink &quot;failed to demonstrate&quot; an ability to offer the service &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231213/p15#a231213p15)<!-- TECH:END -->
+ - [Kindle vs Kindle Paperwhite: Which one should you buy?](https://www.androidauthority.com/amazon-kindle-vs-kidle-paperwhite-3388819/)
+ - [Salesforce and Apple deepen partnership with Business Messaging and AR integrations](https://appleinsider.com/articles/23/12/13/salesforce-and-apple-deepen-partnership-with-business-messaging-and-ar-integrations?utm_medium=rss)
+ - [A Pew survey of US adults finds ~38% support a federal TikTok ban, down from 50% in March 2023; Republicans&#39; support of a ban dropped from 60% to 50% &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231213/p19#a231213p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
