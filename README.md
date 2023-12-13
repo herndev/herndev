@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - ⏩ [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
- - 👉 [Perky side profile](http://9gag.com/gag/aMEM8AW)<!-- MEMES:END -->
+ - ⏩ [Spot the difference](http://9gag.com/gag/aGE41Ew)
+ - 👉 [Meanwhile in Poland, a far-right MP grabbed a fire extinguisher from the wall and extinguished the Chanukah candles in the Polish Parliament today.](http://9gag.com/gag/aQEW3Br)<!-- MEMES:END -->
 
 ---
 
