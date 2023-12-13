@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)
- - ⏩ [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
- - 👉 [Pink](http://9gag.com/gag/aZDOL69)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aQEWeGd)
+ - ⏩ [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - 👉 [Title](http://9gag.com/gag/a2K6Zmw)<!-- MEMES:END -->
 
 ---
 
