@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - ⏩ [Two types of reactions...](http://9gag.com/gag/aVbywLv)
- - 👉 [Pink](http://9gag.com/gag/aZDOL69)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aQEWeGd)
+ - ⏩ [RIP Captain](http://9gag.com/gag/aGE4Z5w)
+ - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
 
 ---
 
