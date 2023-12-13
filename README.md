@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is going to let you set video statuses](https://www.theverge.com/2023/12/13/23999150/instagram-notes-video-status-replies)
- - [Despite what you may have heard, don&#39;t write off the iMac just yet](https://appleinsider.com/articles/23/12/13/despite-what-you-may-have-heard-dont-write-off-the-imac-just-yet?utm_medium=rss)
- - [Apple&#39;s upgraded M3 MacBook Pro 14-inch just dropped to $1,499](https://appleinsider.com/articles/23/12/13/apples-upgraded-m3-macbook-pro-14-inch-just-dropped-to-1499?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is bringing the excellent Sonic Mania to mobile](https://www.theverge.com/2023/12/13/23999780/sonic-mania-plus-netflix-cozy-grove-2024)
+ - [Hacker Group Linked to Russian Military Claims Credit for Cyberattack on Kyivstar](https://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/)
+ - [This Samsung Galaxy S23 deal is better than Black Friday](https://www.androidauthority.com/samsung-galaxy-s23-holiday-deal-3394228/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
