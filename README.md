@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US, the UK, and Poland say that since September 2023, state-backed Russian group APT29 has targeted servers hosting Czech firm JetBrains&#39; TeamCity software &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231213/p37#a231213p37)
  - [Daily deals Dec. 13: up to $400 off M3 MacBook Pro, $199 AirPods Pro USB-C, $100 off Google Pixel Tablet, more](https://appleinsider.com/articles/23/12/13/daily-deals-dec-13-up-to-400-off-m3-macbook-pro-199-airpods-pro-usb-c-100-off-google-pixel-tablet-more?utm_medium=rss)
- - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
- - [Google brings Assistant Quick Phrases to Pixel Buds Pro](https://www.androidauthority.com/pixel-buds-pro-quick-phrases-3394281/)<!-- TECH:END -->
+ - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
