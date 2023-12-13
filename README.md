@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Different quality teapots.](http://9gag.com/gag/aYVXgpq)
- - ⏩ [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)
- - 👉 [How much will you buy this for?](http://9gag.com/gag/aeQ8MoW)<!-- MEMES:END -->
+ - 💣 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - ⏩ [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 👉 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)<!-- MEMES:END -->
 
 ---
 
