@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US, the UK, and Poland say that since September 2023, state-backed Russian group APT29 has targeted servers hosting Czech firm JetBrains&#39; TeamCity software &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231213/p37#a231213p37)
- - [Daily deals Dec. 13: up to $400 off M3 MacBook Pro, $199 AirPods Pro USB-C, $100 off Google Pixel Tablet, more](https://appleinsider.com/articles/23/12/13/daily-deals-dec-13-up-to-400-off-m3-macbook-pro-199-airpods-pro-usb-c-100-off-google-pixel-tablet-more?utm_medium=rss)
- - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)<!-- TECH:END -->
+ - [Apple stock closes at an all-time-high, added $1 trillion to its market cap in 2023](https://appleinsider.com/articles/23/12/13/apple-stock-closes-at-an-all-time-high-added-1-trillion-to-its-market-cap-in-2023?utm_medium=rss)
+ - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
+ - [How to make your Android phone charge faster](https://www.androidauthority.com/charge-android-faster-3394246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
