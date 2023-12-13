@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Cloud Gaming is now available in beta on Meta Quest 2, Quest 3, and Quest Pro, for Xbox Game Pass Ultimate subscribers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231213/p36#a231213p36)
- - [X outage breaks all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
- - [GM is ditching Android Auto for safety, not subscriptions &lpar;Update: GM Statement&rpar;](https://www.androidauthority.com/gm-android-auto-carplay-safety-3394072/)<!-- TECH:END -->
+ - [Daily deals Dec. 13: up to $400 off M3 MacBook Pro, $199 AirPods Pro USB-C, $100 off Google Pixel Tablet, more](https://appleinsider.com/articles/23/12/13/daily-deals-dec-13-up-to-400-off-m3-macbook-pro-199-airpods-pro-usb-c-100-off-google-pixel-tablet-more?utm_medium=rss)
+ - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
+ - [Google brings Assistant Quick Phrases to Pixel Buds Pro](https://www.androidauthority.com/pixel-buds-pro-quick-phrases-3394281/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
