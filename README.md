@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
- - ⏩ [Michael Caine and his long time wife Shakira &lpar;1973 &amp; 2023&rpar;](http://9gag.com/gag/aoKQ5On)
- - 👉 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)<!-- MEMES:END -->
+ - 💣 [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - ⏩ [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 👉 [Perky side profile](http://9gag.com/gag/aMEM8AW)<!-- MEMES:END -->
 
 ---
 
