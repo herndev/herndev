@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple selling a standalone second-generation AirPod Pro USB-C case for $99](https://appleinsider.com/articles/23/12/13/apple-selling-a-standalone-second-generation-airpod-pro-usb-c-case-for-99?utm_medium=rss)
- - [Score this 50-inch Omni Series 4K UHD smart TV for just $310 &lpar;35% off&rpar;](https://www.androidauthority.com/amazon-fire-smart-tv-deal-3394260/)
- - [EU set to slam Apple with antitrust order over App Store practices and Spotify battle](https://appleinsider.com/articles/23/12/13/eu-set-to-slam-apple-with-antitrust-order-over-app-store-practices-and-spotify-battle?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox Cloud Gaming is now available in beta on Meta Quest 2, Quest 3, and Quest Pro, for Xbox Game Pass Ultimate subscribers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231213/p36#a231213p36)
+ - [X outage breaks all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
+ - [GM is ditching Android Auto for safety, not subscriptions &lpar;Update: GM Statement&rpar;](https://www.androidauthority.com/gm-android-auto-carplay-safety-3394072/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
