@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stock closes at an all-time-high, added $1 trillion to its market cap in 2023](https://appleinsider.com/articles/23/12/13/apple-stock-closes-at-an-all-time-high-added-1-trillion-to-its-market-cap-in-2023?utm_medium=rss)
- - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
- - [How to make your Android phone charge faster](https://www.androidauthority.com/charge-android-faster-3394246/)<!-- TECH:END -->
+ - [Google says mistake led to Messages app appearing on privacy dashboard](https://www.androidauthority.com/google-messages-location-data-3394339/)
+ - [LGES 10H and 16H Prime Battery Review: Good Batteries at a Great Price     - CNET](https://www.cnet.com/home/energy-and-utilities/lges-battery-review/#ftag=CAD590a51e)
+ - [Sonnen Battery Review: Solar Batteries That Aren&#39;t All About Backup Power     - CNET](https://www.cnet.com/home/energy-and-utilities/sonnen-battery-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
