@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/awZWBm8)
- - ⏩ [Just because...](http://9gag.com/gag/aL17gMg)
- - 👉 [Title](http://9gag.com/gag/aQEWeGd)<!-- MEMES:END -->
+ - 💣 [The pain The rage](http://9gag.com/gag/aDYe1qK)
+ - ⏩ [Two types of reactions...](http://9gag.com/gag/aVbywLv)
+ - 👉 [Pink](http://9gag.com/gag/aZDOL69)<!-- MEMES:END -->
 
 ---
 
