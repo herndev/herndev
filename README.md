@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, Meta, Qualcomm, and seven other tech companies form the Coalition for Open Digital Ecosystems, aiming to promote open digital ecosystems in the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231213/p9#a231213p9)
- - [GM is ditching Android Auto for safety, totally not a subscription play](https://www.androidauthority.com/gm-android-auto-carplay-safety-3394072/)
- - [Pro-government news outlets and influencers in Bangladesh are promoting AI-generated disinformation created with cheap tools ahead of elections in January 2024 &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/231213/p8#a231213p8)<!-- TECH:END -->
+ - [Tesla recalls 2M+ vehicles after the NHTSA said its means for keeping drivers engaged in Autopilot were inadequate and open to misuse, part of a yearslong probe &lpar;Keith Laing/Bloomberg&rpar;](http://www.techmeme.com/231213/p11#a231213p11)
+ - [The best new Android games for January 2024](https://www.androidauthority.com/new-android-games-658872/)
+ - [Here&#39;s How You Can Disable NameDrop in a Few Simple Steps     - CNET](https://www.cnet.com/tech/mobile/heres-how-you-can-disable-namedrop-in-a-few-simple-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
