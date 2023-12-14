@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is making a Murderbot series starring Alexander Skarsgård](https://www.theverge.com/2023/12/14/24001803/murderbot-series-apple-tv-plus-alexander-skarsgard)
- - [A federal judge tentatively rules that Elon Musk must testify for the US SEC&#39;s investigation of his $44B takeover of Twitter, after the SEC sued Musk in October &lpar;Reuters&rpar;](http://www.techmeme.com/231214/p36#a231214p36)
- - [Apple TV+ secures deal for &#39;Murderbot&#39; sci-fi series starring Alexander Skarsgard and helmed by Weitz brothers](https://appleinsider.com/articles/23/12/14/apple-tv-secures-deal-for-murderbot-sci-fi-series-starring-alexander-skarsgard-and-helmed-by-weitz-brothers?utm_medium=rss)<!-- TECH:END -->
+ - [The EU AI Act passed — now comes the waiting](https://www.theverge.com/2023/12/14/24001919/eu-ai-act-foundation-models-regulation-data)
+ - [Apple TV+ secures deal for &#39;Murderbot&#39; sci-fi series starring Alexander Skarsgard and helmed by Weitz brothers](https://appleinsider.com/articles/23/12/14/apple-tv-secures-deal-for-murderbot-sci-fi-series-starring-alexander-skarsgard-and-helmed-by-weitz-brothers?utm_medium=rss)
+ - [The best Steam Deck accessories](https://www.androidauthority.com/best-steam-deck-accessories-3394571/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
