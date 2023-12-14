@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Here’s how you can get a 40% discount on Pixel 8, 8 Pro and Pixel Tablet right now](https://www.androidauthority.com/google-play-points-discount-on-pixel-8-pro-tablet-3394401/)
  - [Q&amp;A with ESA CEO Stanley Pierre-Louis on why the ESA couldn&#39;t save E3, his favorite E3 memory, competition, working with the media, the ESA&#39;s future, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231214/p5#a231214p5)
- - [Check your email for $100 off the Pixel 8 series if you’re a Google Photos user](https://www.androidauthority.com/google-photos-pixel-8-series-100-dollar-offer-3394417/)<!-- TECH:END -->
+ - [Google Photos users: A $100 Pixel 8 series discount might be waiting for you in your Inbox!](https://www.androidauthority.com/google-photos-pixel-8-series-100-dollar-offer-3394417/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
