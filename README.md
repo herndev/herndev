@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU AI Act passed — now comes the waiting](https://www.theverge.com/2023/12/14/24001919/eu-ai-act-foundation-models-regulation-data)
- - [Apple TV+ secures deal for &#39;Murderbot&#39; sci-fi series starring Alexander Skarsgard and helmed by Weitz brothers](https://appleinsider.com/articles/23/12/14/apple-tv-secures-deal-for-murderbot-sci-fi-series-starring-alexander-skarsgard-and-helmed-by-weitz-brothers?utm_medium=rss)
- - [The best Steam Deck accessories](https://www.androidauthority.com/best-steam-deck-accessories-3394571/)<!-- TECH:END -->
+ - [Andreessen Horowitz says &quot;we will, for the first time, get involved with politics by supporting candidates who align with our vision and values&quot; for technology &lpar;Ben Horowitz/Andreessen Horowitz&rpar;](http://www.techmeme.com/231214/p40#a231214p40)
+ - [Mailchimp cancels podcast after refusing to work with union producers](https://www.theverge.com/2023/12/14/24002001/mailchimp-pineapple-street-union-podcast-canceled)
+ - [Grimes has a new line of AI plush toys, including one named Grok](https://www.theverge.com/2023/12/14/24001895/grimes-curio-ai-toy-grok-pre-order)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
