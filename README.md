@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton Mail finally gets a desktop app for encrypted email and calendar](https://www.theverge.com/2023/12/14/24000696/proton-mail-desktop-app-mac-windows-encrypted)
- - [Opera’s gamer browser now has a ‘panic button’ for when you’re caught in the act](https://www.theverge.com/2023/12/14/24001016/opera-gx-browser-panic-button)
- - [Bengaluru-based B2B e-commerce startup Udaan raised $340M led by UK retail bank M&amp;G, its first equity raise since 2021 and one of India&#39;s largest rounds in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231214/p7#a231214p7)<!-- TECH:END -->
+ - [Google’s Nest Renew joins Alphabet spinoff to form Renew Home](https://www.theverge.com/2023/12/14/24000407/google-nest-renew-smart-thermostat-renew-home-alphabet)
+ - [H&amp;R Block launches AI tax filing assistant](https://www.theverge.com/2023/12/14/24000368/hr-block-taxes-generative-ai-openai-microsoft)
+ - [Apple&#39;s stock rose 1.7% to close at $197.96 on December 13, surpassing its previous record close in July 2023 and up 52% for the year, for a $3.08T market cap &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/231214/p12#a231214p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
