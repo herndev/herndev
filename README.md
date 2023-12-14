@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is artificial general intelligence &lpar;AGI&rpar;?](https://www.androidauthority.com/what-is-agi-artificial-general-intelligence-3394134/)
- - [iPhone 15 review three months later: Pro features, lower price, plus USB-C](https://appleinsider.com/articles/23/12/14/iphone-15-review-three-months-later-pro-features-lower-price-plus-usb-c?utm_medium=rss)
- - [Google says its Nest Renew service will merge with the OhmConnect energy management platform to form Renew Home, a new firm with $100M from Alphabet-backed SIP &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231214/p16#a231214p16)<!-- TECH:END -->
+ - [Google will turn off third-party tracking for some Chrome users soon](https://www.theverge.com/2023/12/14/24000451/google-chrome-tracking-protection-launch-third-party-cookies-ads)
+ - [GM announces Cadillac Vistiq, a midsize electric SUV coming in 2025](https://www.theverge.com/2023/12/14/24000047/gm-cadillac-vistiq-ev-suv-three-row-photos)
+ - [The latest Apple Watch integration makes custom workouts less of a headache](https://www.theverge.com/2023/12/14/24000034/apple-watch-training-peaks-fitness-wearables-custom-workout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
