@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ announces four indictments and two arrests have been made in an alleged international pig butchering crypto scam that cost victims $80M+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231214/p34#a231214p34)
- - [Massive Layoffs Hit Troubled Robotaxi Developer Cruise](https://www.wired.com/story/massive-layoffs-robotaxi-gm-cruise/)
- - [Verizon is giving away Xbox Series X consoles for new 5G Home Internet subscribers](https://www.androidauthority.com/verizon-free-xbox-series-x-3394630/)<!-- TECH:END -->
+ - [ASUS ROG Phone 8 and 8 Pro leak reveals full specs and more](https://www.androidauthority.com/rog-phone-8-specs-and-renders-3394605/)
+ - [OpenAI details how its Superalignment research team is exploring ways to control strong AI models like GPT-4 with weak supervisor models like GPT-2 &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/231214/p35#a231214p35)
+ - [Earn a $100 Amazon Gift Card in Time for Christmas     - CNET](https://www.cnet.com/personal-finance/credit-cards/earn-a-100-amazon-gift-card-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
