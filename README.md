@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Name a woman](http://9gag.com/gag/aNwEYPv)
- - ⏩ [Don&#39;t eat chips and play](http://9gag.com/gag/abvnGqb)
- - 👉 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)<!-- MEMES:END -->
+ - 💣 [A long-established stores that have been loved in Fukuoka for many years. The food looks amazing](http://9gag.com/gag/ay2je1y)
+ - ⏩ [The pain The rage](http://9gag.com/gag/aDYe1qK)
+ - 👉 [RIP Captain](http://9gag.com/gag/aGE4Z5w)<!-- MEMES:END -->
 
 ---
 
