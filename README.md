@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
- - ⏩ [Pink](http://9gag.com/gag/aZDOL69)
- - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 💣 [Where music?](http://9gag.com/gag/aZDOyoQ)
+ - ⏩ [Not on my watch](http://9gag.com/gag/aDYe4ew)
+ - 👉 [The pain The rage](http://9gag.com/gag/aDYe1qK)<!-- MEMES:END -->
 
 ---
 
