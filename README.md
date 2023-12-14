@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says mistake led to Messages app appearing on privacy dashboard](https://www.androidauthority.com/google-messages-location-data-3394339/)
- - [LGES 10H and 16H Prime Battery Review: Good Batteries at a Great Price     - CNET](https://www.cnet.com/home/energy-and-utilities/lges-battery-review/#ftag=CAD590a51e)
- - [Sonnen Battery Review: Solar Batteries That Aren&#39;t All About Backup Power     - CNET](https://www.cnet.com/home/energy-and-utilities/sonnen-battery-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cruise says nine key executives, including COO Gil West, have departed the company, after its initial analysis of an October 2 pedestrian incident &lpar;Reuters&rpar;](http://www.techmeme.com/231213/p39#a231213p39)
+ - [Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]](https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark?utm_medium=rss)
+ - [Threads will let you push fact-checked posts further down your feed](https://www.theverge.com/2023/12/13/24000356/threads-reduce-fact-checked-posts-moderation-meta-facebook-instagram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
