@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Nest Renew joins Alphabet spinoff to form Renew Home](https://www.theverge.com/2023/12/14/24000407/google-nest-renew-smart-thermostat-renew-home-alphabet)
- - [H&amp;R Block launches AI tax filing assistant](https://www.theverge.com/2023/12/14/24000368/hr-block-taxes-generative-ai-openai-microsoft)
- - [Apple&#39;s stock rose 1.7% to close at $197.96 on December 13, surpassing its previous record close in July 2023 and up 52% for the year, for a $3.08T market cap &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/231214/p12#a231214p12)<!-- TECH:END -->
+ - [What is artificial general intelligence &lpar;AGI&rpar;?](https://www.androidauthority.com/what-is-agi-artificial-general-intelligence-3394134/)
+ - [iPhone 15 review three months later: Pro features, lower price, plus USB-C](https://appleinsider.com/articles/23/12/14/iphone-15-review-three-months-later-pro-features-lower-price-plus-usb-c?utm_medium=rss)
+ - [Google says its Nest Renew service will merge with the OhmConnect energy management platform to form Renew Home, a new firm with $100M from Alphabet-backed SIP &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231214/p16#a231214p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
