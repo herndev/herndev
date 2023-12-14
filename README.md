@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch Series 8 drops to an all-time low price of $279](https://www.androidauthority.com/the-apple-watch-series-8-drops-to-an-all-time-low-price-of-279-3394597/)
- - [Google DeepMind used its FunSearch model to crack the famous cap set problem in pure mathematics, the first time an LLM solved a long-standing scientific puzzle &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231214/p32#a231214p32)
- - [Cruise lays off nearly a quarter of the company after grounding its robotaxi fleet](https://www.theverge.com/2023/12/14/24001357/cruise-layoff-quarter-employee-gm-driverless-spending)<!-- TECH:END -->
+ - [The US DOJ announces four indictments and two arrests have been made in an alleged international pig butchering crypto scam that cost victims $80M+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231214/p34#a231214p34)
+ - [Massive Layoffs Hit Troubled Robotaxi Developer Cruise](https://www.wired.com/story/massive-layoffs-robotaxi-gm-cruise/)
+ - [Verizon is giving away Xbox Series X consoles for new 5G Home Internet subscribers](https://www.androidauthority.com/verizon-free-xbox-series-x-3394630/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
