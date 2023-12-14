@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the US rise of Japanese news aggregator SmartNews, valued at $2B in 2021, came to a halt in 2023, leading to the departure of CEO Ken Suzuki in November &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/231213/p45#a231213p45)
- - [Beeper continues to fight Apple’s relentless attempts to block its iMessage service](https://www.androidauthority.com/beeper-blocked-by-apple-again-3394386/)
- - [Mous Limitless 5.0 case review: A durable choice with a high price tag](https://www.androidauthority.com/mous-limitless-5-0-case-review-pixel-8-pro-3393305/)<!-- TECH:END -->
+ - [Amazon introduces a slew of initiatives to help Chinese merchants sell abroad, including opening an innovation center in Shenzhen, the first in the Asia-Pacific &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231214/p2#a231214p2)
+ - [You can now buy an AirPods Pro 2 USB-C charging case separately](https://www.androidauthority.com/airpods-pro-2-usb-c-charging-case-3394390/)
+ - [Now Ford says it’s keeping Android Auto and CarPlay due to safety](https://www.androidauthority.com/ford-keep-android-auto-carplay-safety-3393955/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
