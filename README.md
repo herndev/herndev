@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will have fewer ad breaks on TV — but the ads are getting longer](https://www.theverge.com/2023/12/14/24000286/youtube-fewer-ad-breaks-tv)
- - [Lenovo, MSI, Acer, and Asus launch laptops with Intel&#39;s Core Ultra chips, featuring an NPU for &quot;low-power AI acceleration and CPU/GPU off-load&quot; for AI tasks &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231214/p23#a231214p23)
- - [Adobe faces big fines from FTC over difficult subscription cancellation](https://appleinsider.com/articles/23/12/14/adobe-faces-big-fines-from-ftc-over-difficult-subscription-cancellation?utm_medium=rss)<!-- TECH:END -->
+ - [Intel announces Gaudi3, a generative AI chip launching in 2024 to compete with Nvidia&#39;s H100 and AMD&#39;s forthcoming MI300X, but was light on details &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231214/p29#a231214p29)
+ - [Amazon successfully validates Project Kuiper&#39;s optical inter-satellite links, which use infrared lasers to move data 30% faster than terrestrial fiber cables &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/231214/p28#a231214p28)
+ - [You still have time to catch the Pixel Watch 2 for under $300](https://www.androidauthority.com/pixel-watch-2-deal-3394562/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
