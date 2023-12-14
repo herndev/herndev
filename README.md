@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon introduces a slew of initiatives to help Chinese merchants sell abroad, including opening an innovation center in Shenzhen, the first in the Asia-Pacific &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231214/p2#a231214p2)
- - [You can now buy an AirPods Pro 2 USB-C charging case separately](https://www.androidauthority.com/airpods-pro-2-usb-c-charging-case-3394390/)
- - [Now Ford says it’s keeping Android Auto and CarPlay due to safety](https://www.androidauthority.com/ford-keep-android-auto-carplay-safety-3393955/)<!-- TECH:END -->
+ - [Air cargo and logistics executives say booming demand in Western markets for goods sold by Chinese companies like Temu and Shein is buoying air freight rates &lpar;Financial Times&rpar;](http://www.techmeme.com/231214/p4#a231214p4)
+ - [After an on-by-default AI toggle caused confusion, Dropbox says user data is only shared with OpenAI if the AI-powered search feature is actively being used &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231214/p3#a231214p3)
+ - [Amazon introduces a slew of initiatives to help Chinese merchants sell abroad, including opening an innovation center in Shenzhen, the first in the Asia-Pacific &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231214/p2#a231214p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
