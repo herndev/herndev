@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - ⏩ [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)
- - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 💣 [Name a woman](http://9gag.com/gag/aNwEYPv)
+ - ⏩ [Don&#39;t eat chips and play](http://9gag.com/gag/abvnGqb)
+ - 👉 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)<!-- MEMES:END -->
 
 ---
 
