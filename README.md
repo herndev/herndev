@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A long-established stores that have been loved in Fukuoka for many years. The food looks amazing](http://9gag.com/gag/ay2je1y)
- - ⏩ [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - 👉 [RIP Captain](http://9gag.com/gag/aGE4Z5w)<!-- MEMES:END -->
+ - 💣 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
+ - ⏩ [Wow/1](http://9gag.com/gag/aYVX7eO)
+ - 👉 [Is your wife single?](http://9gag.com/gag/aZDOy29)<!-- MEMES:END -->
 
 ---
 
