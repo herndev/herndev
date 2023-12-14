@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - ⏩ [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
- - 👉 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)<!-- MEMES:END -->
+ - ⏩ [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)
+ - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 ---
 
