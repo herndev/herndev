@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk wants to open a university in Texas](https://www.theverge.com/2023/12/14/24001119/elon-musk-university-schools-texas)
- - [An in-depth look at Mark Zuckerberg&#39;s 1,400-acre, $270M+ compound in Kauai, Hawaii, including a 5,000 sq. ft. underground shelter, a project shrouded in secrecy &lpar;Guthrie Scrimgeour/Wired&rpar;](http://www.techmeme.com/231214/p21#a231214p21)
- - [Google’s new Chrome feature will give third-party cookies the boot](https://www.androidauthority.com/google-chrome-tracking-protection-3394300/)<!-- TECH:END -->
+ - [YouTube will have fewer ad breaks on TV — but the ads are getting longer](https://www.theverge.com/2023/12/14/24000286/youtube-fewer-ad-breaks-tv)
+ - [Lenovo, MSI, Acer, and Asus launch laptops with Intel&#39;s Core Ultra chips, featuring an NPU for &quot;low-power AI acceleration and CPU/GPU off-load&quot; for AI tasks &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231214/p23#a231214p23)
+ - [Adobe faces big fines from FTC over difficult subscription cancellation](https://appleinsider.com/articles/23/12/14/adobe-faces-big-fines-from-ftc-over-difficult-subscription-cancellation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
