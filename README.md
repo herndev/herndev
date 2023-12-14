@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel announces Gaudi3, a generative AI chip launching in 2024 to compete with Nvidia&#39;s H100 and AMD&#39;s forthcoming MI300X, but was light on details &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231214/p29#a231214p29)
- - [Amazon successfully validates Project Kuiper&#39;s optical inter-satellite links, which use infrared lasers to move data 30% faster than terrestrial fiber cables &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/231214/p28#a231214p28)
- - [You still have time to catch the Pixel Watch 2 for under $300](https://www.androidauthority.com/pixel-watch-2-deal-3394562/)<!-- TECH:END -->
+ - [The Apple Watch Series 8 drops to an all-time low price of $279](https://www.androidauthority.com/the-apple-watch-series-8-drops-to-an-all-time-low-price-of-279-3394597/)
+ - [Google DeepMind used its FunSearch model to crack the famous cap set problem in pure mathematics, the first time an LLM solved a long-standing scientific puzzle &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231214/p32#a231214p32)
+ - [Cruise lays off nearly a quarter of the company after grounding its robotaxi fleet](https://www.theverge.com/2023/12/14/24001357/cruise-layoff-quarter-employee-gm-driverless-spending)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
