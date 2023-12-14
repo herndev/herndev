@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His back half never lost focus....](http://9gag.com/gag/aVbyxDy)
- - ⏩ [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 👉 [Was the Russian Empire actually tried to colonize Ethiopia?](http://9gag.com/gag/a5X01pO)<!-- MEMES:END -->
+ - 💣 [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - ⏩ [Pink](http://9gag.com/gag/aZDOL69)
+ - 👉 [F**k around, find out](http://9gag.com/gag/a4oOEPp)<!-- MEMES:END -->
 
 ---
 
