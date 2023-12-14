@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
- - ⏩ [Wow/1](http://9gag.com/gag/aYVX7eO)
- - 👉 [Is your wife single?](http://9gag.com/gag/aZDOy29)<!-- MEMES:END -->
+ - 💣 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
+ - ⏩ [Pink](http://9gag.com/gag/aZDOL69)
+ - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 ---
 
