@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
- - ⏩ [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 👉 [F**k around, find out](http://9gag.com/gag/a4oOEPp)<!-- MEMES:END -->
+ - 💣 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)
+ - ⏩ [People just stream events now](http://9gag.com/gag/arm7o8p)
+ - 👉 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)<!-- MEMES:END -->
 
 ---
 
