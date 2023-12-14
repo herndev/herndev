@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - ⏩ [Well well well...](http://9gag.com/gag/axoq7WD)
+ - ⏩ [Pink](http://9gag.com/gag/aZDOL69)
  - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
 
 ---
