@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft seizes US-based infrastructure and websites used by cybercrime group Storm-1152 that created ~750M fraudulent Microsoft accounts, after a court order &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/231213/p42#a231213p42)
- - [Twitch now allows some previously prohibited sexual content, including &quot;deliberately highlighted breasts, buttocks or pelvic region&quot;, with a sexual themes label &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231213/p41#a231213p41)
- - [Snap up Apple&#39;s M3 16-inch MacBook Pro for $2,149 &lpar;the lowest price ever&rpar;](https://appleinsider.com/articles/23/12/14/snap-up-apples-m3-16-inch-macbook-pro-for-2149-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram plans to roll out new tools in the coming weeks to flag fake followers and spam content, giving users the option to delete those items in bulk &lpar;Malak Saleh/Engadget&rpar;](http://www.techmeme.com/231213/p43#a231213p43)
+ - [Beeper Mini is down for 5% of users, but there&#39;s a fix](https://appleinsider.com/articles/23/12/14/beeper-mini-is-down-for-5-of-users-but-theres-a-fix?utm_medium=rss)
+ - [Beeper says Apple is blocking some iMessages, but there’s a fix](https://www.theverge.com/2023/12/13/24000609/beeper-mini-cloud-outage-imessages-investigating)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
