@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow/1](http://9gag.com/gag/aYVX7eO)
- - ⏩ [Title](http://9gag.com/gag/a2K6Zmw)
- - 👉 [The pain The rage](http://9gag.com/gag/aDYe1qK)<!-- MEMES:END -->
+ - 💣 [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - ⏩ [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 ---
 
