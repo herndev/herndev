@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)
- - ⏩ [Wow/1](http://9gag.com/gag/aYVX7eO)
- - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 💣 [The pain The rage](http://9gag.com/gag/aDYe1qK)
+ - ⏩ [RIP Captain](http://9gag.com/gag/aGE4Z5w)
+ - 👉 [Not on my watch](http://9gag.com/gag/aDYe4ew)<!-- MEMES:END -->
 
 ---
 
