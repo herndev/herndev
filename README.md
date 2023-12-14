@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where music?](http://9gag.com/gag/aZDOyoQ)
- - ⏩ [Not on my watch](http://9gag.com/gag/aDYe4ew)
- - 👉 [The pain The rage](http://9gag.com/gag/aDYe1qK)<!-- MEMES:END -->
+ - 💣 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)
+ - ⏩ [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
+ - 👉 [When you&#39;re really happy and it&#39;s not appreciated...](http://9gag.com/gag/a7qRwjm)<!-- MEMES:END -->
 
 ---
 
