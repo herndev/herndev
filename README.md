@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - 💣 [Suposed `AAA` games and shitty multiplayer have made gaming a nasty experience. I realized that the most fun I have in games is when I play solo. With either a good story... or no story at all...](http://9gag.com/gag/aXn6o59)
  - ⏩ [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
 
 ---
 
