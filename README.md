@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suposed `AAA` games and shitty multiplayer have made gaming a nasty experience. I realized that the most fun I have in games is when I play solo. With either a good story... or no story at all...](http://9gag.com/gag/aXn6o59)
- - ⏩ [His back half never lost focus....](http://9gag.com/gag/aVbyxDy)
- - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
+ - 💣 [His back half never lost focus....](http://9gag.com/gag/aVbyxDy)
+ - ⏩ [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 👉 [Was the Russian Empire actually tried to colonize Ethiopia?](http://9gag.com/gag/a5X01pO)<!-- MEMES:END -->
 
 ---
 
