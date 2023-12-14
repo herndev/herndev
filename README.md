@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;re really happy and it&#39;s not appreciated...](http://9gag.com/gag/a7qRwjm)
- - ⏩ [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
- - 👉 [Never forget!](http://9gag.com/gag/aMEMY2X)<!-- MEMES:END -->
+ - 💣 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)
+ - ⏩ [Wow/1](http://9gag.com/gag/aYVX7eO)
+ - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 ---
 
