@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Michael Caine and his long time wife Shakira &lpar;1973 &amp; 2023&rpar;](http://9gag.com/gag/aoKQ5On)
- - ⏩ [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
+ - 💣 [People just stream events now](http://9gag.com/gag/arm7o8p)
+ - ⏩ [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
 
 ---
 
