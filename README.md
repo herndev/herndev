@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - ⏩ [Pink](http://9gag.com/gag/aZDOL69)
- - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
+ - 💣 [Michael Caine and his long time wife Shakira &lpar;1973 &amp; 2023&rpar;](http://9gag.com/gag/aoKQ5On)
+ - ⏩ [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 ---
 
