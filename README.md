@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS ROG Phone 8 and 8 Pro leak reveals full specs and more](https://www.androidauthority.com/rog-phone-8-specs-and-renders-3394605/)
- - [OpenAI details how its Superalignment research team is exploring ways to control strong AI models like GPT-4 with weak supervisor models like GPT-2 &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/231214/p35#a231214p35)
- - [Earn a $100 Amazon Gift Card in Time for Christmas     - CNET](https://www.cnet.com/personal-finance/credit-cards/earn-a-100-amazon-gift-card-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple is making a Murderbot series starring Alexander Skarsgård](https://www.theverge.com/2023/12/14/24001803/murderbot-series-apple-tv-plus-alexander-skarsgard)
+ - [A federal judge tentatively rules that Elon Musk must testify for the US SEC&#39;s investigation of his $44B takeover of Twitter, after the SEC sued Musk in October &lpar;Reuters&rpar;](http://www.techmeme.com/231214/p36#a231214p36)
+ - [Apple TV+ secures deal for &#39;Murderbot&#39; sci-fi series starring Alexander Skarsgard and helmed by Weitz brothers](https://appleinsider.com/articles/23/12/14/apple-tv-secures-deal-for-murderbot-sci-fi-series-starring-alexander-skarsgard-and-helmed-by-weitz-brothers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
