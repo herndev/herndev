@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget!](http://9gag.com/gag/aMEMY2X)
- - ⏩ [Pink](http://9gag.com/gag/aZDOL69)
- - 👉 [F**k around, find out](http://9gag.com/gag/a4oOEPp)<!-- MEMES:END -->
+ - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - ⏩ [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
 
 ---
 
