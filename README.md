@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will turn off third-party tracking for some Chrome users soon](https://www.theverge.com/2023/12/14/24000451/google-chrome-tracking-protection-launch-third-party-cookies-ads)
- - [GM announces Cadillac Vistiq, a midsize electric SUV coming in 2025](https://www.theverge.com/2023/12/14/24000047/gm-cadillac-vistiq-ev-suv-three-row-photos)
- - [The latest Apple Watch integration makes custom workouts less of a headache](https://www.theverge.com/2023/12/14/24000034/apple-watch-training-peaks-fitness-wearables-custom-workout)<!-- TECH:END -->
+ - [Elon Musk wants to open a university in Texas](https://www.theverge.com/2023/12/14/24001119/elon-musk-university-schools-texas)
+ - [An in-depth look at Mark Zuckerberg&#39;s 1,400-acre, $270M+ compound in Kauai, Hawaii, including a 5,000 sq. ft. underground shelter, a project shrouded in secrecy &lpar;Guthrie Scrimgeour/Wired&rpar;](http://www.techmeme.com/231214/p21#a231214p21)
+ - [Google’s new Chrome feature will give third-party cookies the boot](https://www.androidauthority.com/google-chrome-tracking-protection-3394300/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
