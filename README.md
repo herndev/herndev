@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That poor clown](http://9gag.com/gag/aZDO0X3)
- - ⏩ [Is your wife single?](http://9gag.com/gag/aZDOy29)
- - 👉 [I need that for things i didnt figure out rn](http://9gag.com/gag/arm7mx0)<!-- MEMES:END -->
+ - 💣 [Hypergamy](http://9gag.com/gag/agozA8W)
+ - ⏩ [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
+ - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 ---
 
