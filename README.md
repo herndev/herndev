@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ever felt like swimming with the crocodiles?](http://9gag.com/gag/a5X0R5E)
- - ⏩ [Pink](http://9gag.com/gag/aZDOL69)
- - 👉 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)<!-- MEMES:END -->
+ - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - ⏩ [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 👉 [Full story below](http://9gag.com/gag/arm7nEd)<!-- MEMES:END -->
 
 ---
 
