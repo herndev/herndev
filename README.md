@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google gives Stadia controllers more time to switch to Bluetooth](https://www.theverge.com/2023/12/15/24003080/google-stadia-controllers-bluetooth-deadline-extended)
- - [UK&#39;s Age Check Certification Scheme registry: a Google system that scans users&#39; selfies to estimate age was approved, ahead of Ofcom&#39;s rules for adult sites &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/231215/p16#a231215p16)
- - [Is your Chromebook frozen? Here’s how you can try to fix it](https://www.androidauthority.com/chromebook-frozen-3395003/)<!-- TECH:END -->
+ - [In iOS 17.2, Apple has closed off Flipper Zero devices&#39; ability to carry out DoS attacks on iPhones by continuously sending Bluetooth pairing requests &lpar;Adrian Kingsley-Hughes/ZDNet&rpar;](http://www.techmeme.com/231215/p18#a231215p18)
+ - [Google Photos cloud content will soon appear in Android’s Photo Picker, finally](https://www.androidauthority.com/google-photos-in-photo-picker-3395079/)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
