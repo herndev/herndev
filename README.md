@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Google Play Store users are missing the search bar after redesign](https://www.androidauthority.com/google-play-store-search-3394988/)
- - [Days after updating its content policy to permit certain kinds of sexual content, Twitch rescinds its &quot;artistic nudity&quot; policy, citing community concern &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/231215/p12#a231215p12)
- - [Sources: Musk gave verbal guarantees to some US banks that they would not lose money on the Twitter deal; banks face serious losses on the &quot;uninvestable&quot; debt &lpar;Financial Times&rpar;](http://www.techmeme.com/231215/p11#a231215p11)<!-- TECH:END -->
+ - [Nothing Phone 2a leak reveals new design and a first for the company](https://www.androidauthority.com/nothing-phone-2a-soc-3395020/)
+ - [E3 is dead, and Apple helped kill it](https://appleinsider.com/articles/23/12/15/e3-is-dead-and-apple-helped-kill-it?utm_medium=rss)
+ - [The new Echo Show 8 makes a smart gift at its all-time low price](https://www.androidauthority.com/echo-show-8-deal-3395024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
