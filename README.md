@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - ⏩ [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
- - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
+ - 💣 [Age 20-35... this site is messed up.](http://9gag.com/gag/a4oOo5Z)
+ - ⏩ [Same same but different but still same](http://9gag.com/gag/a5X0VdL)
+ - 👉 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
 
 ---
 
