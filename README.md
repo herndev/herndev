@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
- - [Nothing OS 2.5 based on Android 14 begins rolling out for the Nothing Phone 2](https://www.androidauthority.com/nothing-os-2-5-android-14-rolling-out-nothing-phone-2-3394923/)
- - [Meross WiFi Dual Smart Outlet review: Double the outlets at half the price](https://appleinsider.com/articles/23/12/15/meross-wifi-dual-smart-outlet-review-double-the-outlets-at-half-the-price?utm_medium=rss)<!-- TECH:END -->
+ - [21 Best Gifts for PC Gamers &lpar;2023&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
+ - [The Nothing Phone 2a could have a Galaxy S10 inspiration](https://www.androidauthority.com/nothing-phone-2a-design-leak-3394934/)
+ - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
