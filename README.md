@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best AirPods Deals: Save on Apple and Beats Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/)
- - [Handheld Milk Frother     - CNET](https://www.cnet.com/news/handheld-milk-frother-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel 5th-Gen Xeon Platinum 8592+ review: the $11,600 64-core chip outperforms AMD&#39;s 64-core EPYC Genoa in several benchmarks, particularly in AI workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231214/p42#a231214p42)
+ - [Apple and Corellium settle legal dispute over virtualized iPhone software](https://appleinsider.com/articles/23/12/15/apple-and-corellium-settle-legal-dispute-over-virtualized-iphone-software?utm_medium=rss)
+ - [Filing: Apple and Corellium settle a copyright dispute dating to 2019 in which Apple tried to shut down Corellium&#39;s virtual iPhone software &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/231214/p41#a231214p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
