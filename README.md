@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’re not big fans of this upcoming Google Play Store search tweak](https://www.androidauthority.com/google-play-store-search-tab-3394905/)
- - [Cox Media Group claims it can listen to conversations of consumers through microphones in smartphones, smart TVs, and other devices and use it to target ads &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231215/p4#a231215p4)
- - [Spotify is taking AI’s help to make you a better playlist](https://www.androidauthority.com/spotify-ai-playlist-test-3394903/)<!-- TECH:END -->
+ - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
+ - [Nothing OS 2.5 based on Android 14 begins rolling out for the Nothing Phone 2](https://www.androidauthority.com/nothing-os-2-5-android-14-rolling-out-nothing-phone-2-3394923/)
+ - [Meross WiFi Dual Smart Outlet review: Double the outlets at half the price](https://appleinsider.com/articles/23/12/15/meross-wifi-dual-smart-outlet-review-double-the-outlets-at-half-the-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
