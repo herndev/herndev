@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hypergamy](http://9gag.com/gag/agozA8W)
- - ⏩ [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
+ - 💣 [Dunno](http://9gag.com/gag/avQKQeM)
+ - ⏩ [Hypergamy](http://9gag.com/gag/agozA8W)
  - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 ---
