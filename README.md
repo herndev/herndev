@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s AI Chatbot Replies to Election Questions With Conspiracies, Fake Scandals, and Lies](https://www.wired.com/story/microsoft-ai-copilot-chatbot-election-conspiracy/)
  - [Samsung Keyboard could get a handy AI feature in One UI 6.1](https://www.androidauthority.com/samsung-keyboard-tone-translate-3394842/)
- - [Mozilla Firefox for Android browser brings a ton of new extensions to all users](https://www.androidauthority.com/firefox-for-android-open-extensions-3394843/)
- - [SafeMoon filed for Chapter 7 bankruptcy protection on December 14 after the US SEC charged the firm for selling unregistered crypto securities on November 1 &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231215/p2#a231215p2)<!-- TECH:END -->
+ - [Mozilla Firefox for Android browser brings a ton of new extensions to all users](https://www.androidauthority.com/firefox-for-android-open-extensions-3394843/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
