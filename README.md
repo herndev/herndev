@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - ⏩ [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
- - 👉 [Full story below](http://9gag.com/gag/arm7nEd)<!-- MEMES:END -->
+ - 💣 [Hypergamy](http://9gag.com/gag/agozA8W)
+ - ⏩ [Full story below](http://9gag.com/gag/arm7nEd)
+ - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
 
 ---
 
