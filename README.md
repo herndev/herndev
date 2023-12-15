@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In iOS 17.2, Apple has closed off Flipper Zero devices&#39; ability to carry out DoS attacks on iPhones by continuously sending Bluetooth pairing requests &lpar;Adrian Kingsley-Hughes/ZDNet&rpar;](http://www.techmeme.com/231215/p18#a231215p18)
- - [Google Photos cloud content will soon appear in Android’s Photo Picker, finally](https://www.androidauthority.com/google-photos-in-photo-picker-3395079/)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)<!-- TECH:END -->
+ - [Apple signs order for drama &#39;Your Friends and Neighbors&#39; starring Jon Hamm](https://appleinsider.com/articles/23/12/15/apple-signs-order-for-drama-your-friends-and-neighbors-starring-jon-hamm?utm_medium=rss)
+ - [Climate change is killing coral — can AI help protect the reefs?](https://www.theverge.com/23977907/ai-coral-restoration-foundation-florida-reefs-climate-change)
+ - [Some X users report seeing ads for apps that use AI to &quot;undress&quot; women in photos; TikTok and Meta blocked certain search terms related to such &quot;nudify&quot; apps &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/231215/p19#a231215p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
