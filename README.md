@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People just stream events now](http://9gag.com/gag/arm7o8p)
- - ⏩ [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
- - 👉 [F**k around, find out](http://9gag.com/gag/a4oOEPp)<!-- MEMES:END -->
+ - 💣 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
+ - ⏩ [I am sure he is doing very well](http://9gag.com/gag/abvnvxE)
+ - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 ---
 
