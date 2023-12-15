@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - ⏩ [Hypergamy](http://9gag.com/gag/agozA8W)
- - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
+ - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
+ - ⏩ [Nuked by community notes. When your race card has been declined.](http://9gag.com/gag/a1P37YR)
+ - 👉 [History Friday](http://9gag.com/gag/a3ZX4mm)<!-- MEMES:END -->
 
 ---
 
