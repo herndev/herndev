@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full story below](http://9gag.com/gag/arm7nEd)
- - ⏩ [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
+ - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
+ - ⏩ [To powerful to stop.](http://9gag.com/gag/aqeoy0M)
+ - 👉 [Parked in handicap parking spot](http://9gag.com/gag/awZWggW)<!-- MEMES:END -->
 
 ---
 
