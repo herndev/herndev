@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andreessen Horowitz says &quot;we will, for the first time, get involved with politics by supporting candidates who align with our vision and values&quot; for technology &lpar;Ben Horowitz/Andreessen Horowitz&rpar;](http://www.techmeme.com/231214/p40#a231214p40)
- - [Mailchimp cancels podcast after refusing to work with union producers](https://www.theverge.com/2023/12/14/24002001/mailchimp-pineapple-street-union-podcast-canceled)
- - [Grimes has a new line of AI plush toys, including one named Grok](https://www.theverge.com/2023/12/14/24001895/grimes-curio-ai-toy-grok-pre-order)<!-- TECH:END -->
+ - [Best AirPods Deals: Save on Apple and Beats Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/)
+ - [Handheld Milk Frother     - CNET](https://www.cnet.com/news/handheld-milk-frother-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
