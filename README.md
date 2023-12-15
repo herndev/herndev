@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some publishers estimate that Google&#39;s Search Generative Experience could cut referral traffic by 20% to 40% if the final version resembles recent iterations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p1#a231215p1)
  - [Google makes it easier to fix Pixel phones with new Diagnostic app and repair manuals](https://www.androidauthority.com/google-pixel-diagnostic-app-3394805/)
- - [Top Adorama deals: Up to $950 in savings on popular Apple computers from across the lineup](https://appleinsider.com/articles/23/12/15/top-adorama-deals-up-to-950-in-savings-on-popular-apple-computers-from-across-the-lineup?utm_medium=rss)
- - [Sources: Apple plans to deploy advanced OLED screens in high-end iPads in 2024 and in a MacBook model in H2 2025, and is also considering making foldable iPads &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231214/p47#a231214p47)<!-- TECH:END -->
+ - [Top Adorama deals: Up to $950 in savings on popular Apple computers from across the lineup](https://appleinsider.com/articles/23/12/15/top-adorama-deals-up-to-950-in-savings-on-popular-apple-computers-from-across-the-lineup?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
