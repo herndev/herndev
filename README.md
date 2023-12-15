@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dunno](http://9gag.com/gag/avQKQeM)
- - ⏩ [Hypergamy](http://9gag.com/gag/agozA8W)
- - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
+ - 💣 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
+ - ⏩ [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
 
 ---
 
