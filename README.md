@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - ⏩ [Disney wife](http://9gag.com/gag/agozoQq)
- - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
+ - 💣 [Full story below](http://9gag.com/gag/arm7nEd)
+ - ⏩ [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
 
 ---
 
