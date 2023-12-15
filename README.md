@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
  - ⏩ [Hypergamy](http://9gag.com/gag/agozA8W)
- - 👉 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)<!-- MEMES:END -->
+ - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
 
 ---
 
