@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple signs order for drama &#39;Your Friends and Neighbors&#39; starring Jon Hamm](https://appleinsider.com/articles/23/12/15/apple-signs-order-for-drama-your-friends-and-neighbors-starring-jon-hamm?utm_medium=rss)
- - [Climate change is killing coral — can AI help protect the reefs?](https://www.theverge.com/23977907/ai-coral-restoration-foundation-florida-reefs-climate-change)
- - [Some X users report seeing ads for apps that use AI to &quot;undress&quot; women in photos; TikTok and Meta blocked certain search terms related to such &quot;nudify&quot; apps &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/231215/p19#a231215p19)<!-- TECH:END -->
+ - [Apple agrees to pay $25M to settle a class action lawsuit alleging Apple misrepresented the way that third-party app subscriptions worked with Family Sharing &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231215/p22#a231215p22)
+ - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
+ - [Sony KD65X80K     - CNET](https://www.cnet.com/tech/home-entertainment/sony-kd65x80k-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
