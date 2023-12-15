@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some publishers estimate that Google&#39;s Search Generative Experience could cut referral traffic by 20% to 40% if the final version resembles recent iterations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p1#a231215p1)
- - [Google makes it easier to fix Pixel phones with new Diagnostic app and repair manuals](https://www.androidauthority.com/google-pixel-diagnostic-app-3394805/)
- - [Top Adorama deals: Up to $950 in savings on popular Apple computers from across the lineup](https://appleinsider.com/articles/23/12/15/top-adorama-deals-up-to-950-in-savings-on-popular-apple-computers-from-across-the-lineup?utm_medium=rss)<!-- TECH:END -->
+ - [SafeMoon filed for Chapter 7 bankruptcy protection on December 14 after the US SEC charged the firm for selling unregistered crypto securities on November 1 &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231215/p2#a231215p2)
+ - [The GTA trilogy has finally arrived on Netflix Games](https://www.androidauthority.com/gta-trilogy-netflix-games-3394392/)
+ - [Some publishers estimate that Google&#39;s Search Generative Experience could cut referral traffic by 20% to 40% if the final version resembles recent iterations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p1#a231215p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
