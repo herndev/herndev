@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s AI Chatbot Replies to Election Questions With Conspiracies, Fake Scandals, and Lies](https://www.wired.com/story/microsoft-ai-copilot-chatbot-election-conspiracy/)
- - [Samsung Keyboard could get a handy AI feature in One UI 6.1](https://www.androidauthority.com/samsung-keyboard-tone-translate-3394842/)
- - [Mozilla Firefox for Android browser brings a ton of new extensions to all users](https://www.androidauthority.com/firefox-for-android-open-extensions-3394843/)<!-- TECH:END -->
+ - [You told us: You wouldn’t buy a Galaxy S24 without Snapdragon power](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-power-poll-3394880/)
+ - [How Microsoft&#39;s 10-year-old Digital Crime Unit uses unique legal tactics and the company&#39;s technical reach to disrupt global cybercrime and state-backed actors &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231215/p3#a231215p3)
+ - [Holiday Deals and Great Gift Ideas From CNET Editors     - CNET](https://www.cnet.com/deals/holiday-deals-and-great-gift-ideas-from-cnet-editors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
