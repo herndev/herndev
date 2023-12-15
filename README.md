@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hypergamy](http://9gag.com/gag/agozA8W)
- - ⏩ [Full story below](http://9gag.com/gag/arm7nEd)
- - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
+ - 💣 [That poor clown](http://9gag.com/gag/aZDO0X3)
+ - ⏩ [Is your wife single?](http://9gag.com/gag/aZDOy29)
+ - 👉 [I need that for things i didnt figure out rn](http://9gag.com/gag/arm7mx0)<!-- MEMES:END -->
 
 ---
 
