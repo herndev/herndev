@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China proposes a four-tier, color-coded system for data security incidents; for red and orange alerts the government must be notified within 10 minutes &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/231215/p7#a231215p7)
- - [A look back at Yahoo Pipes, launched in 2007 to let users make custom data feeds by dragging elements in a web browser, influencing a generation of UI designers &lpar;Glenn Fleishman/Retool&rpar;](http://www.techmeme.com/231215/p6#a231215p6)
- - [OnePlus finally confirms global launch date for the OnePlus 12 and 12R](https://www.androidauthority.com/oneplus-12-12r-global-launch-date-confirmed-3394969/)<!-- TECH:END -->
+ - [Nanoleaf’s smart holiday string lights are over half off](https://www.theverge.com/2023/12/15/24001447/nanoleaf-essentials-matter-smart-holiday-string-lights-amazon-fire-tv-omni-deal-sale)
+ - [One advertiser may be able to listen in on you -- if you have an Android phone](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)
+ - [The SEC rejects a Coinbase petition for formal rules for digital assets, arguing the &quot;existing securities regime appropriately governs crypto asset securities&quot; &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/231215/p9#a231215p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
