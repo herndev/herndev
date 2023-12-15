@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nanoleaf’s smart holiday string lights are over half off](https://www.theverge.com/2023/12/15/24001447/nanoleaf-essentials-matter-smart-holiday-string-lights-amazon-fire-tv-omni-deal-sale)
- - [One advertiser may be able to listen in on you -- if you have an Android phone](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)
- - [The SEC rejects a Coinbase petition for formal rules for digital assets, arguing the &quot;existing securities regime appropriately governs crypto asset securities&quot; &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/231215/p9#a231215p9)<!-- TECH:END -->
+ - [Some Google Play Store users are missing the search bar after redesign](https://www.androidauthority.com/google-play-store-search-3394988/)
+ - [Days after updating its content policy to permit certain kinds of sexual content, Twitch rescinds its &quot;artistic nudity&quot; policy, citing community concern &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/231215/p12#a231215p12)
+ - [Sources: Musk gave verbal guarantees to some US banks that they would not lose money on the Twitter deal; banks face serious losses on the &quot;uninvestable&quot; debt &lpar;Financial Times&rpar;](http://www.techmeme.com/231215/p11#a231215p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
