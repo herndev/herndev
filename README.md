@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumored micro LED Apple Watch debut shifts again, this time to 2026](https://appleinsider.com/articles/23/12/15/rumored-micro-led-apple-watch-debut-shifts-again-this-time-to-2026?utm_medium=rss)
- - [iOS 17.3 beta, CarPlay safety, Beeper Mini saga, and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/15/ios-173-beta-carplay-safety-beeper-mini-saga-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [Fill Out Your Toolkit With This Denali Sale and Save Up to 67%     - CNET](https://www.cnet.com/deals/fill-out-your-toolkit-with-this-denali-sale-and-save-up-to-67/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China proposes a four-tier, color-coded system for data security incidents; for red and orange alerts the government must be notified within 10 minutes &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/231215/p7#a231215p7)
+ - [A look back at Yahoo Pipes, launched in 2007 to let users make custom data feeds by dragging elements in a web browser, influencing a generation of UI designers &lpar;Glenn Fleishman/Retool&rpar;](http://www.techmeme.com/231215/p6#a231215p6)
+ - [OnePlus finally confirms global launch date for the OnePlus 12 and 12R](https://www.androidauthority.com/oneplus-12-12r-global-launch-date-confirmed-3394969/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
