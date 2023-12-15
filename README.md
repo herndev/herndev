@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [People just stream events now](http://9gag.com/gag/arm7o8p)
- - ⏩ [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
- - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
+ - ⏩ [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 👉 [F**k around, find out](http://9gag.com/gag/a4oOEPp)<!-- MEMES:END -->
 
 ---
 
