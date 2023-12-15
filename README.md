@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
- - ⏩ [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - ⏩ [People just stream events now](http://9gag.com/gag/arm7o8p)
  - 👉 [Full story below](http://9gag.com/gag/arm7nEd)<!-- MEMES:END -->
 
 ---
