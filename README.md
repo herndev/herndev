@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
- - ⏩ [To powerful to stop.](http://9gag.com/gag/aqeoy0M)
- - 👉 [Parked in handicap parking spot](http://9gag.com/gag/awZWggW)<!-- MEMES:END -->
+ - ⏩ [Parked in handicap parking spot](http://9gag.com/gag/awZWggW)
+ - 👉 [One ticket please](http://9gag.com/gag/aREqLQq)<!-- MEMES:END -->
 
 ---
 
