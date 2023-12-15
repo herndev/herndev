@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - ⏩ [Full story below](http://9gag.com/gag/arm7nEd)
- - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - ⏩ [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 👉 [Full story below](http://9gag.com/gag/arm7nEd)<!-- MEMES:END -->
 
 ---
 
