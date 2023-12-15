@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2a leak reveals new design and a first for the company](https://www.androidauthority.com/nothing-phone-2a-soc-3395020/)
- - [E3 is dead, and Apple helped kill it](https://appleinsider.com/articles/23/12/15/e3-is-dead-and-apple-helped-kill-it?utm_medium=rss)
- - [The new Echo Show 8 makes a smart gift at its all-time low price](https://www.androidauthority.com/echo-show-8-deal-3395024/)<!-- TECH:END -->
+ - [Google gives Stadia controllers more time to switch to Bluetooth](https://www.theverge.com/2023/12/15/24003080/google-stadia-controllers-bluetooth-deadline-extended)
+ - [UK&#39;s Age Check Certification Scheme registry: a Google system that scans users&#39; selfies to estimate age was approved, ahead of Ofcom&#39;s rules for adult sites &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/231215/p16#a231215p16)
+ - [Is your Chromebook frozen? Here’s how you can try to fix it](https://www.androidauthority.com/chromebook-frozen-3395003/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
