@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Caught stealing. No problem. Apply #2](http://9gag.com/gag/avQKz0M)
- - ⏩ [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
+ - 💣 [Ever felt like swimming with the crocodiles?](http://9gag.com/gag/a5X0R5E)
+ - ⏩ [Pink](http://9gag.com/gag/aZDOL69)
+ - 👉 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)<!-- MEMES:END -->
 
 ---
 
