@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - ⏩ [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
- - 👉 [Age 20-35... this site is messed up.](http://9gag.com/gag/a4oOo5Z)<!-- MEMES:END -->
+ - 💣 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - ⏩ [Hypergamy](http://9gag.com/gag/agozA8W)
+ - 👉 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)<!-- MEMES:END -->
 
 ---
 
