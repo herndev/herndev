@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
- - ⏩ [Nuked by community notes. When your race card has been declined.](http://9gag.com/gag/a1P37YR)
- - 👉 [History Friday](http://9gag.com/gag/a3ZX4mm)<!-- MEMES:END -->
+ - 💣 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - ⏩ [Disney wife](http://9gag.com/gag/agozoQq)
+ - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
 
 ---
 
