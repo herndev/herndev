@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone Pro camera could start catching up to Androids, finally](https://www.androidauthority.com/the-iphone-pro-camera-could-start-catching-up-to-androids-finally-3395350/)
- - [Google Messages is making it easier to tell SMS and RCS chats apart](https://www.androidauthority.com/google-messages-rcs-wallpaper-3395361/)
- - [Samsung Galaxy S Ultra camera roadmap leaks: The S25 Ultra could be a beast](https://www.androidauthority.com/samsung-galaxy-s-ultra-camera-roadmap-s25-ultra-3395330/)<!-- TECH:END -->
+ - [Streaming TV appears to have entered its franchise era; Netflix plans spinoffs of the Addams Family, Peaky Blinders, and action movie Extraction, among others &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231218/p2#a231218p2)
+ - [The Apple Watch might soon become a great tool for hypertension and sleep apnea detection](https://www.androidauthority.com/apple-watch-hypertension-sleep-apnea-detection-2024-3395367/)
+ - [The iPhone Pro camera could start catching up to Androids, finally](https://www.androidauthority.com/the-iphone-pro-camera-could-start-catching-up-to-androids-finally-3395350/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
