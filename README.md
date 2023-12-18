@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tokyo-based chip equipment maker Kokusai expects nearly 50% of its revenue to come from China in the coming months; its stock is up ~66% since its October IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p1#a231218p1)
- - [Google Play Store will soon let you uninstall apps on connected devices remotely](https://www.androidauthority.com/google-play-store-uninstall-apps-on-connected-devices-3395324/)
- - [Revealed: Here’s what the new iPhone 16 ‘Capture Button’ will do](https://www.androidauthority.com/apple-iphone-16-capture-button-functions-3395322/)<!-- TECH:END -->
+ - [Samsung Galaxy S Ultra camera roadmap leaks: The S25 Ultra could be a beast](https://www.androidauthority.com/samsung-galaxy-s-ultra-camera-roadmap-s25-ultra-3395330/)
+ - [Beeper vs Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
+ - [Tokyo-based chip equipment maker Kokusai expects nearly 50% of its revenue to come from China in the coming months; its stock is up ~66% since its October IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p1#a231218p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
