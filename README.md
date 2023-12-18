@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tokyo-based chip equipment maker Kokusai expects nearly 50% of its revenue to come from China in the coming months; its stock is up ~66% since its October IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p1#a231218p1)
  - [Google Play Store will soon let you uninstall apps on connected devices remotely](https://www.androidauthority.com/google-play-store-uninstall-apps-on-connected-devices-3395324/)
- - [Revealed: Here’s what the new iPhone 16 ‘Capture Button’ will do](https://www.androidauthority.com/apple-iphone-16-capture-button-functions-3395322/)
- - [Nothing Phone 2a leak reveals key specs, photos, and possible launch date](https://www.androidauthority.com/nothing-phone-2a-specs-launch-date-features-3395319/)<!-- TECH:END -->
+ - [Revealed: Here’s what the new iPhone 16 ‘Capture Button’ will do](https://www.androidauthority.com/apple-iphone-16-capture-button-functions-3395322/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
