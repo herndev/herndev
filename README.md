@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Streaming TV appears to have entered its franchise era; Netflix plans spinoffs of the Addams Family, Peaky Blinders, and action movie Extraction, among others &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231218/p2#a231218p2)
- - [The Apple Watch might soon become a great tool for hypertension and sleep apnea detection](https://www.androidauthority.com/apple-watch-hypertension-sleep-apnea-detection-2024-3395367/)
- - [The iPhone Pro camera could start catching up to Androids, finally](https://www.androidauthority.com/the-iphone-pro-camera-could-start-catching-up-to-androids-finally-3395350/)<!-- TECH:END -->
+ - [Xiaomi reveals global HyperOS roadmap: All the supported devices](https://www.androidauthority.com/xiaomi-hyperos-roadmap-supported-phones-3395398/)
+ - [Apple may finally bring ANC to the non-Pro AirPods, but you will have to wait some more](https://www.androidauthority.com/apple-airpods-anc-feature-3395391/)
+ - [This Holiday Deal Gets You the Ultraloq U-Bolt Pro for Only $119     - CNET](https://www.cnet.com/deals/holiday-deal-ultraloq-u-bolt-pro-119/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
