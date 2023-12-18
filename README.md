@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ozzy made a point](http://9gag.com/gag/aKEoOYg)
- - ⏩ [.](http://9gag.com/gag/amA4xp6)
- - 👉 [Live with your choices](http://9gag.com/gag/ap9Zx9n)<!-- MEMES:END -->
+ - 💣 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - ⏩ [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 👉 [I got The new PS5](http://9gag.com/gag/a4oOWxv)<!-- MEMES:END -->
 
 ---
 
