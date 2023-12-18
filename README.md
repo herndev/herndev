@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)
- - ⏩ [He almost died](http://9gag.com/gag/a8qxeYV)
- - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
+ - 💣 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - ⏩ [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
+ - 👉 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)<!-- MEMES:END -->
 
 ---
 
