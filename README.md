@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: a cyberattack hit VF Corp., owner of Vans, Supreme, JanSport, and The North Face, stealing customer data and impacting order fulfillment; VFC drops 6%+ &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231218/p24#a231218p24)
- - [Pakistan&#39;s ex-PM Imran Khan, in jail since August for allegedly leaking classified documents, uses AI from ElevenLabs to clone his voice for a campaign speech &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/231218/p23#a231218p23)
- - [Here are the shipping deadlines to get your holiday gifts on time](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)<!-- TECH:END -->
+ - [Former iPhone designer joins a space habitation company as advisor](https://appleinsider.com/articles/23/12/18/former-iphone-designer-joins-a-space-habitation-company-as-advisor?utm_medium=rss)
+ - [Game preservationists dig for lost apps in TestFlight ‘teraleak’](https://www.theverge.com/2023/12/18/24006406/testflight-teraleak-game-preservationists)
+ - [Why Apple is pausing sales of the Apple Watch](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
