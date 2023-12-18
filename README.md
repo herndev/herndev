@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - ⏩ [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - 👉 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)<!-- MEMES:END -->
+ - 💣 [Ozzy made a point](http://9gag.com/gag/aKEoOYg)
+ - ⏩ [.](http://9gag.com/gag/amA4xp6)
+ - 👉 [Live with your choices](http://9gag.com/gag/ap9Zx9n)<!-- MEMES:END -->
 
 ---
 
