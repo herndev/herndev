@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - ⏩ [Uber](http://9gag.com/gag/amA4mZd)
- - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
+ - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - ⏩ [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
+ - 👉 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)<!-- MEMES:END -->
 
 ---
 
