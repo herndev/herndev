@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
- - ⏩ [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
- - 👉 [The full clip](http://9gag.com/gag/aA0zQMZ)<!-- MEMES:END -->
+ - 💣 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - ⏩ [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 👉 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)<!-- MEMES:END -->
 
 ---
 
