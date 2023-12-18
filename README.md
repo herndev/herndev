@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He almost died](http://9gag.com/gag/a8qxeYV)
- - ⏩ [Save it for never use it](http://9gag.com/gag/a8qx2XY)
- - 👉 [You want to sleep at night but there are noises coming from the backyard](http://9gag.com/gag/axoqRBD)<!-- MEMES:END -->
+ - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
+ - ⏩ [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
 
 ---
 
