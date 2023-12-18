@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 18: 1TB M3 MacBook Pro $1,599, Beats Studio Buds $79, Apple Watch from $199, more](https://appleinsider.com/articles/23/12/18/daily-deals-dec-18-1tb-m3-macbook-pro-1599-beats-studio-buds-79-apple-watch-from-199-more?utm_medium=rss)
- - [Samsung finally gives One UI 6 to its older foldable Galaxy phones](https://www.androidauthority.com/samsung-foldable-one-ui-6-update-3395572/)
- - [OpenAI says its board can hold back the release of an AI model even if OpenAI&#39;s leadership says it&#39;s safe, and announces a new internal safety advisory group &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231218/p22#a231218p22)<!-- TECH:END -->
+ - [Filing: a cyberattack hit VF Corp., owner of Vans, Supreme, JanSport, and The North Face, stealing customer data and impacting order fulfillment; VFC drops 6%+ &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231218/p24#a231218p24)
+ - [Pakistan&#39;s ex-PM Imran Khan, in jail since August for allegedly leaking classified documents, uses AI from ElevenLabs to clone his voice for a campaign speech &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/231218/p23#a231218p23)
+ - [Here are the shipping deadlines to get your holiday gifts on time](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
