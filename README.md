@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most underrated smartphones of 2023](https://www.androidauthority.com/underrated-smartphones-2023-3394428/)
- - [Best Changing Robes &lpar;2023&rpar;: Swim, Surf, Water Sports](https://www.wired.com/gallery/best-changing-robes/)
- - [Eve’s new smart outlet has Matter, Thread, and energy monitoring](https://www.theverge.com/2023/12/18/24003299/eve-matter-thread-wall-outlet-energy-monitoring)<!-- TECH:END -->
+ - [In the Age of AI, &#39;Her&#39; Is a Fairy Tale](https://www.wired.com/story/spike-jonze-her-10-year-anniversary-artificial-intelligence/)
+ - [Sources: Chinese chip design companies are increasingly using Malaysian firms to assemble a portion of their high-end GPUs; the move does not break US rules &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p14#a231218p14)
+ - [Apple to pull Apple Watch Series 9 and Ultra 2 this week due to ITC ban](https://www.theverge.com/2023/12/18/24006080/apple-watch-ban-series-9-ultra-2-itc-import)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
