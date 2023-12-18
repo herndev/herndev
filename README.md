@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - ⏩ [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 💣 [Pay attention to your surroundings](http://9gag.com/gag/aL17e15)
+ - ⏩ [It can&#39;t be only me](http://9gag.com/gag/aYVXPBm)
  - 👉 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)<!-- MEMES:END -->
 
 ---
