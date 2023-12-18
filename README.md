@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ordtop i13     - CNET](https://www.cnet.com/tech/mobile/ordtop-i13-dpnl/#ftag=CAD590a51e)
- - [Bank of America Savings Account Rates for December 2023     - CNET](https://www.cnet.com/personal-finance/bank-of-america-savings-account-rates/#ftag=CAD590a51e)
- - [Adam Mosseri spells out Threads’ plans for the fediverse](https://www.theverge.com/2023/12/15/24003435/adam-mosseri-threads-fediverse-plans)<!-- TECH:END -->
+ - [Blue Origin will livestream its first launch in over a year tomorrow](https://www.theverge.com/2023/12/17/24005428/blue-origin-launch-december-18-livestream)
+ - [The 14 Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-14-best-horror-movies-on-prime-video-december-2023/#ftag=CAD590a51e)
+ - [Q&amp;A with Deepu Talla, Nvidia&#39;s VP and GM for Embedded and Edge Computing, on the role of generative AI in robotics, designing humanoid robots, trends, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231217/p6#a231217p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
