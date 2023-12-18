@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are experiencing the last days of Europe.](http://9gag.com/gag/anzP2QE)
- - ⏩ [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 👉 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)<!-- MEMES:END -->
+ - 💣 [You left the toilet seat up...](http://9gag.com/gag/a4oO2Dw)
+ - ⏩ [Clip from the movie \u2018The Little Death\u2019](http://9gag.com/gag/aDYebBZ)
+ - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
 
 ---
 
