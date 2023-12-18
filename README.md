@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expedia wants to use AI to cut Google out of its trip-planning business](https://www.theverge.com/2023/12/18/24003416/expedia-travel-generative-ai-personalized-model)
- - [Flipboard says it plans to replace its entire social back end with ActivityPub, and by April 2024 will let any Flipboard user follow any fediverse account &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231218/p18#a231218p18)
- - [Terabytes of TestFlight game betas from 2012 to 2015 leaked, and it&#39;s not clear how](https://appleinsider.com/articles/23/12/18/terabytes-of-testflight-game-betas-from-2012-to-2015-are-on-the-internet-and-its-not-clear-how?utm_medium=rss)<!-- TECH:END -->
+ - [Acura opens up reservations for all-electric ZDX SUV](https://www.theverge.com/2023/12/18/24006119/acura-zdx-reservation-ev-price-specs-performance)
+ - [Data analytics company Alteryx says it has agreed to be acquired by PE firms Clearlake Capital and Insight Partners, in a deal valued at $4.4B including debt &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/231218/p20#a231218p20)
+ - [Jeff Bezos wants Elon Musk to know Blue Origin is serious now](https://www.theverge.com/24001656/jeff-bezos-elon-musk-space-blue-origin-rivalry)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
