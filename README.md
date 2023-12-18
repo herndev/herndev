@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC sues New Jersey-based Tingo Group, which sells phones to African farmers, for allegedly booking billions in false transactions via two subsidiaries &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p27#a231218p27)
- - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [The US DOT fines Southwest Airlines $140M, in addition to customer refunds, for the December 2022 meltdown caused by its antiquated flight scheduling software &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/231218/p26#a231218p26)<!-- TECH:END -->
+ - [Apple TV+ pulls five wins at the Children&#39;s and Family Emmy Awards](https://appleinsider.com/articles/23/12/18/apple-tv-pulls-five-wins-at-the-childrens-and-family-emmy-awards?utm_medium=rss)
+ - [Letter: a bipartisan group of lawmakers warn Biden that EU technology regulations are unfairly targeting US companies and not including many Chinese or EU firms &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231218/p29#a231218p29)
+ - [Saiji Tablet Stand     - CNET](https://www.cnet.com/tech/mobile/saiji-tablet-stand-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
