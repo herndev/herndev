@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Clip from the movie \u2018The Little Death\u2019](http://9gag.com/gag/aDYebBZ)
- - ⏩ [You left the toilet seat up...](http://9gag.com/gag/a4oO2Dw)
- - 👉 [Save it for never use it](http://9gag.com/gag/a8qx2XY)<!-- MEMES:END -->
+ - ⏩ [Save it for never use it](http://9gag.com/gag/a8qx2XY)
+ - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
 
 ---
 
