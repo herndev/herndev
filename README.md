@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - ⏩ [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 👉 [Uber](http://9gag.com/gag/amA4mZd)<!-- MEMES:END -->
+ - 💣 [Uber](http://9gag.com/gag/amA4mZd)
+ - ⏩ [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)<!-- MEMES:END -->
 
 ---
 
