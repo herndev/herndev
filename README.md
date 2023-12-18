@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Best Online Co-Op Games &lpar;2023&rpar;: Playstation, Xbox, PC, Switch](https://www.wired.com/gallery/best-online-co-op-games/)
- - [2023 in smartwatches: the Googlefication of Fitbit](https://www.theverge.com/23972335/smartwatches-2023-fitbit-google-integration)
- - [2024 Apple Watch with new design rumored to get sleep apnea &amp; blood pressure sensing](https://appleinsider.com/articles/23/12/18/2024-apple-watch-with-new-design-rumored-to-get-sleep-apnea-blood-pressure-sensing?utm_medium=rss)<!-- TECH:END -->
+ - [The most underrated smartphones of 2023](https://www.androidauthority.com/underrated-smartphones-2023-3394428/)
+ - [Best Changing Robes &lpar;2023&rpar;: Swim, Surf, Water Sports](https://www.wired.com/gallery/best-changing-robes/)
+ - [Eve’s new smart outlet has Matter, Thread, and energy monitoring](https://www.theverge.com/2023/12/18/24003299/eve-matter-thread-wall-outlet-energy-monitoring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
