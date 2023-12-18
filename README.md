@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After releasing its DreamStar party game, Tencent placed ~38% of its ads on ByteDance&#39;s Pangolin; Tencent hopes to challenge NetEase&#39;s surprise hit Eggy Party &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231218/p5#a231218p5)
- - [The UK NHS partners with Zipline on plans to deliver medical and surgical supplies by drone to 30+ hospitals in northern England in H2 2024, to help cut costs &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/231218/p4#a231218p4)
- - [IBM plans to acquire data integration platforms StreamSets and WebMethods from Germany-based Software AG for &amp;euro;2.13B in cash, expected to close in Q2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p3#a231218p3)<!-- TECH:END -->
+ - [The slow death of Beeper continues, and more senators want to get involved](https://appleinsider.com/articles/23/12/18/the-slow-death-of-beeper-continues-and-more-senators-want-to-get-involved?utm_medium=rss)
+ - [The European Commission opens an official DSA investigation into X, focusing on illegal content, disinformation, transparency, and &quot;deceptive design&quot; in its UI &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231218/p8#a231218p8)
+ - [Tokyo Electron, Asia&#39;s largest chip equipment maker, has largely offset US export controls on China by expanding sales of less advanced chip equipment to China &lpar;Financial Times&rpar;](http://www.techmeme.com/231218/p7#a231218p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
