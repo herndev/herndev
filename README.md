@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your ho-bag girlfriend is a good christian..](http://9gag.com/gag/aMEMPoW)
- - ⏩ [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
+ - 💣 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - ⏩ [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - 👉 [Title](http://9gag.com/gag/ap9ZPq8)<!-- MEMES:END -->
 
 ---
 
