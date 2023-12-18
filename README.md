@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)
+ - 💣 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
  - ⏩ [Uber](http://9gag.com/gag/amA4mZd)
- - 👉 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)<!-- MEMES:END -->
+ - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
 
 ---
 
