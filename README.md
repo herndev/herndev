@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acura opens up reservations for all-electric ZDX SUV](https://www.theverge.com/2023/12/18/24006119/acura-zdx-reservation-ev-price-specs-performance)
- - [Data analytics company Alteryx says it has agreed to be acquired by PE firms Clearlake Capital and Insight Partners, in a deal valued at $4.4B including debt &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/231218/p20#a231218p20)
- - [Jeff Bezos wants Elon Musk to know Blue Origin is serious now](https://www.theverge.com/24001656/jeff-bezos-elon-musk-space-blue-origin-rivalry)<!-- TECH:END -->
+ - [Daily deals Dec. 18: 1TB M3 MacBook Pro $1,599, Beats Studio Buds $79, Apple Watch from $199, more](https://appleinsider.com/articles/23/12/18/daily-deals-dec-18-1tb-m3-macbook-pro-1599-beats-studio-buds-79-apple-watch-from-199-more?utm_medium=rss)
+ - [Samsung finally gives One UI 6 to its older foldable Galaxy phones](https://www.androidauthority.com/samsung-foldable-one-ui-6-update-3395572/)
+ - [OpenAI says its board can hold back the release of an AI model even if OpenAI&#39;s leadership says it&#39;s safe, and announces a new internal safety advisory group &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231218/p22#a231218p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
