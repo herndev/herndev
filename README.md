@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uber](http://9gag.com/gag/amA4mZd)
+ - 💣 [I got The new PS5](http://9gag.com/gag/a4oOWxv)
  - ⏩ [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)
- - 👉 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)<!-- MEMES:END -->
+ - 👉 [I hope I&#39;m not late](http://9gag.com/gag/aDYebbw)<!-- MEMES:END -->
 
 ---
 
