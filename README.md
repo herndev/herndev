@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clip from the movie \u2018The Little Death\u2019](http://9gag.com/gag/aDYebBZ)
- - ⏩ [Save it for never use it](http://9gag.com/gag/a8qx2XY)
- - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
+ - 💣 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)
+ - ⏩ [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
 
 ---
 
