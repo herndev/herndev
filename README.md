@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deloitte is using AI to evaluate its staff&#39;s skills and map out plans to shift employees into more in-demand roles, as a part of plans to moderate hiring growth &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/231217/p7#a231217p7)
  - [Blue Origin will livestream its first launch in over a year tomorrow](https://www.theverge.com/2023/12/17/24005428/blue-origin-launch-december-18-livestream)
- - [The 14 Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-14-best-horror-movies-on-prime-video-december-2023/#ftag=CAD590a51e)
- - [Q&amp;A with Deepu Talla, Nvidia&#39;s VP and GM for Embedded and Edge Computing, on the role of generative AI in robotics, designing humanoid robots, trends, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231217/p6#a231217p6)<!-- TECH:END -->
+ - [The 14 Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-14-best-horror-movies-on-prime-video-december-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
