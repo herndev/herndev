@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - ⏩ [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 👉 [Title](http://9gag.com/gag/ap9ZPq8)<!-- MEMES:END -->
+ - 💣 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - ⏩ [Nostalgia](http://9gag.com/gag/a2K6y29)
+ - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
 
 ---
 
