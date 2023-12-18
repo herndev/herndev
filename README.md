@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The slow death of Beeper continues, and more senators want to get involved](https://appleinsider.com/articles/23/12/18/the-slow-death-of-beeper-continues-and-more-senators-want-to-get-involved?utm_medium=rss)
- - [The European Commission opens an official DSA investigation into X, focusing on illegal content, disinformation, transparency, and &quot;deceptive design&quot; in its UI &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231218/p8#a231218p8)
- - [Tokyo Electron, Asia&#39;s largest chip equipment maker, has largely offset US export controls on China by expanding sales of less advanced chip equipment to China &lpar;Financial Times&rpar;](http://www.techmeme.com/231218/p7#a231218p7)<!-- TECH:END -->
+ - [30 Best Online Co-Op Games &lpar;2023&rpar;: Playstation, Xbox, PC, Switch](https://www.wired.com/gallery/best-online-co-op-games/)
+ - [2023 in smartwatches: the Googlefication of Fitbit](https://www.theverge.com/23972335/smartwatches-2023-fitbit-google-integration)
+ - [2024 Apple Watch with new design rumored to get sleep apnea &amp; blood pressure sensing](https://appleinsider.com/articles/23/12/18/2024-apple-watch-with-new-design-rumored-to-get-sleep-apnea-blood-pressure-sensing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
