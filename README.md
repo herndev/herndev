@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flipboard is pivoting to ActivityPub and the fediverse](https://www.theverge.com/2023/12/18/24006062/flipboard-fediverse-mastodon-activitypub-profiles-social)
- - [UK and EU regulators blocking Adobe&#39;s Figma deal changes the liquidity environment for startup founders and VCs, and focuses dollars on IPO-capable winners &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/231218/p16#a231218p16)
- - [The best action game of 2023 is now selling for $20 off](https://www.theverge.com/2023/12/18/24005718/armored-core-vi-fires-of-rubicon-shokz-openrun-pro-deal-sale)<!-- TECH:END -->
+ - [Expedia wants to use AI to cut Google out of its trip-planning business](https://www.theverge.com/2023/12/18/24003416/expedia-travel-generative-ai-personalized-model)
+ - [Flipboard says it plans to replace its entire social back end with ActivityPub, and by April 2024 will let any Flipboard user follow any fediverse account &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231218/p18#a231218p18)
+ - [Terabytes of TestFlight game betas from 2012 to 2015 leaked, and it&#39;s not clear how](https://appleinsider.com/articles/23/12/18/terabytes-of-testflight-game-betas-from-2012-to-2015-are-on-the-internet-and-its-not-clear-how?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
