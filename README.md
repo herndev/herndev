@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Merry Chrstmus](http://9gag.com/gag/adPDepZ)
- - ⏩ [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
- - 👉 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)<!-- MEMES:END -->
+ - 💣 [When your ho-bag girlfriend is a good christian..](http://9gag.com/gag/aMEMPoW)
+ - ⏩ [You know you know](http://9gag.com/gag/aeQ8Ovm)
+ - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
 
 ---
 
