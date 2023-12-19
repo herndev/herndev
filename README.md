@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - ⏩ [Right now in other dimension the women wait on line to enter the club while the men just go direct inside...](http://9gag.com/gag/amA4nxd)
- - 👉 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)<!-- MEMES:END -->
+ - 💣 [Gayday?](http://9gag.com/gag/a7qRAgr)
+ - ⏩ [Adios](http://9gag.com/gag/a3ZXn83)
+ - 👉 [A product that became a producer](http://9gag.com/gag/avQKmQM)<!-- MEMES:END -->
 
 ---
 
