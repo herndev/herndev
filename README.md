@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right now in other dimension the women wait on line to enter the club while the men just go direct inside...](http://9gag.com/gag/amA4nxd)
- - ⏩ [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - 👉 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)<!-- MEMES:END -->
+ - 💣 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
+ - ⏩ [Right now in other dimension the women wait on line to enter the club while the men just go direct inside...](http://9gag.com/gag/amA4nxd)
+ - 👉 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)<!-- MEMES:END -->
 
 ---
 
