@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge orders a Tesla driver to pay $23K+ for a 2019 crash that killed two, likely the first US felony case involving a partially automated driving system &lpar;Stefanie Dazio/Associated Press&rpar;](http://www.techmeme.com/231218/p37#a231218p37)
- - [Algae-covered iPhone 12 recovered from 3-month dip in river, still works](https://appleinsider.com/articles/23/12/19/algae-covered-iphone-12-recovered-from-3-month-dip-in-river-still-works?utm_medium=rss)
- - [A US judge approves a previously announced settlement between Binance and the CFTC, asking Binance to pay $2.7B and Changpeng Zhao to pay $150M to the regulator &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/231218/p36#a231218p36)<!-- TECH:END -->
+ - [Google agrees to pay $700M and make certain changes to its app store to settle a 2021 antitrust lawsuit brought by 36 US states and the District of Columbia &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231218/p38#a231218p38)
+ - [One UI 6.1 could bring a Pixel-like Video Boost feature to the Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-6-1-ai-video-features-3395675/)
+ - [A US judge orders a Tesla driver to pay $23K+ for a 2019 crash that killed two, likely the first US felony case involving a partially automated driving system &lpar;Stefanie Dazio/Associated Press&rpar;](http://www.techmeme.com/231218/p37#a231218p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
