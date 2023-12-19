@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uber](http://9gag.com/gag/amA4mZd)
- - ⏩ [He almost died](http://9gag.com/gag/a8qxeYV)
- - 👉 [The education system at its finest.](http://9gag.com/gag/amA4xQV)<!-- MEMES:END -->
+ - 💣 [Code : Dark brown](http://9gag.com/gag/aA0zOKZ)
+ - ⏩ [Too Soon?](http://9gag.com/gag/aREqORA)
+ - 👉 [Live with your choices](http://9gag.com/gag/ap9Zx9n)<!-- MEMES:END -->
 
 ---
 
