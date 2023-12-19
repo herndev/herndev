@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - ⏩ [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
- - 👉 [An mi-8 helicopter crashing over the core of the chernobyl reactor on October,1986](http://9gag.com/gag/aeQ8dGv)<!-- MEMES:END -->
+ - 💣 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - ⏩ [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)<!-- MEMES:END -->
 
 ---
 
