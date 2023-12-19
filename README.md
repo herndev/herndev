@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - ⏩ [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 👉 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)<!-- MEMES:END -->
+ - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
+ - ⏩ [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - 👉 [I hope I&#39;m not late](http://9gag.com/gag/aDYebbw)<!-- MEMES:END -->
 
 ---
 
