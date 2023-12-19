@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current Mortgage Interest Rates on Dec. 19, 2023: Rates Trailed Off for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-dec-19-2023-rates-trailed-off-for-homeseekers/#ftag=CAD590a51e)
- - [Here Are Today&#39;s Refinance Rates, Dec. 19, 2023: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-dec-19-2023-rates-decline/#ftag=CAD590a51e)
- - [Adobe&#39;s failed Figma deals leaves the company with ~$6B in cash to invest in AI and stock buybacks, but upstart rivals still represent a threat to its growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p7#a231219p7)<!-- TECH:END -->
+ - [Two &#39;New York Times&#39; publications are coming to Apple News+](https://appleinsider.com/articles/23/12/19/apple-news-signs-up-the-athletic-sports-magazine?utm_medium=rss)
+ - [2023 in social media: the case for the fediverse](https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub)
+ - [Comcast&#39;s Xfinity discloses hackers breached a Citrix server in October 2023, two weeks after Citrix issued a patch, and stole data on 35,879,455 people &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231219/p10#a231219p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
