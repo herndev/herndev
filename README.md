@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - ⏩ [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 👉 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)<!-- MEMES:END -->
+ - 💣 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
+ - ⏩ [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
 
 ---
 
