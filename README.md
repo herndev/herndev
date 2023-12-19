@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
- - ⏩ [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
+ - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
+ - ⏩ [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 👉 [This is real. This actually hapened.](http://9gag.com/gag/aYVXMom)<!-- MEMES:END -->
 
 ---
 
