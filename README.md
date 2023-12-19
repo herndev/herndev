@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Okta is acquiring Israeli cybersecurity company Spera, which raised a $10M seed in March 2023; source: the deal is worth ~$100-130M, contingent on milestones &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/231219/p23#a231219p23)
- - [Apple releases updates for iOS 16.7.4 and iPadOS 16.7.4](https://appleinsider.com/articles/23/12/19/apple-releases-updates-for-ios-1674-and-ipados-1674?utm_medium=rss)
- - [Apple releases macOS Sonoma 14.2.1 with bug fixes](https://appleinsider.com/articles/23/12/19/apple-releases-macos-sonoma-1421-with-bug-fixes?utm_medium=rss)<!-- TECH:END -->
+ - [Interpol: a global law enforcement operation led by South Korea has seized $300M and led to the arrest of 3,500 cybercrime suspects between July and December &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231219/p25#a231219p25)
+ - [HughesNet’s Satellite Internet Is Getting Faster. Why That’s Good News for Rural Americans     - CNET](https://www.cnet.com/home/internet/new-hughesnet-plans-bring-faster-better-broadband-to-rural-areas/#ftag=CAD590a51e)
+ - [The Pros and Cons of Solar Panels: Are They Worth It?     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panel-pros-and-cons-find-out-if-theyre-worth-it-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
