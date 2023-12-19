@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how sideloading &lpar;and more&rpar; will change after Google’s settlement](https://www.androidauthority.com/google-settlement-sideloading-alternative-billing-3394827/)
- - [Google to pay $700 million and make tiny app store changes to settle with 50 states](https://www.theverge.com/23994177/google-states-ag-google-play-antitrust-settlement)
- - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)<!-- TECH:END -->
+ - [The Galaxy S25 could have the same camera as S24, S23, and S22](https://www.androidauthority.com/samsung-galaxy-s25-same-camera-s22-3395719/)
+ - [There won’t be a December 2023 Google Play System Update](https://www.androidauthority.com/no-december-2023-google-play-system-update-3395708/)
+ - [Here’s how sideloading &lpar;and more&rpar; will change after Google’s settlement](https://www.androidauthority.com/google-settlement-sideloading-alternative-billing-3394827/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
