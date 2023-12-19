@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interpol: a global law enforcement operation led by South Korea has seized $300M and led to the arrest of 3,500 cybercrime suspects between July and December &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231219/p25#a231219p25)
- - [HughesNet’s Satellite Internet Is Getting Faster. Why That’s Good News for Rural Americans     - CNET](https://www.cnet.com/home/internet/new-hughesnet-plans-bring-faster-better-broadband-to-rural-areas/#ftag=CAD590a51e)
- - [The Pros and Cons of Solar Panels: Are They Worth It?     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panel-pros-and-cons-find-out-if-theyre-worth-it-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad Pro could get MagSafe in future hardware update](https://appleinsider.com/articles/23/12/19/ipad-pro-could-get-magsafe-in-future-hardware-update?utm_medium=rss)
+ - [Masimo open to an Apple Watch settlement, if Apple would only call](https://appleinsider.com/articles/23/12/19/masimo-open-to-an-apple-watch-settlement-if-apple-would-only-call?utm_medium=rss)
+ - [Samsung adds foldable phones to its self-repair program](https://www.theverge.com/2023/12/19/24008066/samsung-galaxy-z-fold-5-z-flip-5-ifixit-self-repair)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
