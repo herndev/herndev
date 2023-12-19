@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge approves a previously announced settlement between Binance and the CFTC, asking Binance to pay $2.7B and Changpeng Zhao $150M to the US regulator &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/231218/p36#a231218p36)
- - [Apple banking on software fix to save latest smartwatches from US ban amid patent dispute](https://www.androidauthority.com/apple-watch-us-ban-software-fix-3395672/)
- - [Sources: Appin co-founder Rajat Khare used law firms to threaten outlets in the US, UK, and other countries to kill stories about the Indian hack-for-hire firm &lpar;Lachlan Cartwright/The Daily Beast&rpar;](http://www.techmeme.com/231218/p35#a231218p35)<!-- TECH:END -->
+ - [A US judge orders a Tesla driver to pay $23K+ for a 2019 crash that killed two, likely the first US felony case involving a partially automated driving system &lpar;Stefanie Dazio/Associated Press&rpar;](http://www.techmeme.com/231218/p37#a231218p37)
+ - [Algae-covered iPhone 12 recovered from 3-month dip in river, still works](https://appleinsider.com/articles/23/12/19/algae-covered-iphone-12-recovered-from-3-month-dip-in-river-still-works?utm_medium=rss)
+ - [A US judge approves a previously announced settlement between Binance and the CFTC, asking Binance to pay $2.7B and Changpeng Zhao to pay $150M to the regulator &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/231218/p36#a231218p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
