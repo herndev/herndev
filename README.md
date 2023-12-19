@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teacher to the rescue!](http://9gag.com/gag/arm783V)
- - ⏩ [Beautiful set up](http://9gag.com/gag/aVby288)
- - 👉 [.](http://9gag.com/gag/amA4xp6)<!-- MEMES:END -->
+ - 💣 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - ⏩ [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 👉 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)<!-- MEMES:END -->
 
 ---
 
