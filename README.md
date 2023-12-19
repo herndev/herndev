@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston-based Lightmatter, which uses light for AI computing, adds $155M led by GV to its $154M Series C at a $1.2B valuation, taking its total funding to $420M+ &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231219/p16#a231219p16)
- - [UK regulator prepares to restart Apple cloud gaming probe in January](https://appleinsider.com/articles/23/12/19/uk-regulator-prepares-to-restart-apple-cloud-gaming-probe-in-january?utm_medium=rss)
- - [An analysis of Amazon&#39;s AI review summaries shows they sometimes mischaracterize products or exaggerate negative feedback, which sellers say can threaten sales &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231219/p15#a231219p15)<!-- TECH:END -->
+ - [Oversight Board Criticizes Meta’s Automated Moderation in Israel-Hamas War](https://www.wired.com/story/meta-oversight-board-emergency-decision/)
+ - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
+ - [Supercharge Your Home Office With Huge Price Cuts on PCs, Monitors and More     - CNET](https://www.cnet.com/deals/supercharge-your-home-office-with-huge-price-cuts-on-pcs-monitors-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
