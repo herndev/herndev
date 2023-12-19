@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [.](http://9gag.com/gag/amA4xp6)
- - ⏩ [Live with your choices](http://9gag.com/gag/ap9Zx9n)
- - 👉 [And i will do it again](http://9gag.com/gag/aPgb1jV)<!-- MEMES:END -->
+ - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - ⏩ [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 👉 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)<!-- MEMES:END -->
 
 ---
 
