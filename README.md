@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too Soon?](http://9gag.com/gag/aREqORA)
- - ⏩ [.](http://9gag.com/gag/amA4xp6)
- - 👉 [Live with your choices](http://9gag.com/gag/ap9Zx9n)<!-- MEMES:END -->
+ - 💣 [.](http://9gag.com/gag/amA4xp6)
+ - ⏩ [Live with your choices](http://9gag.com/gag/ap9Zx9n)
+ - 👉 [And i will do it again](http://9gag.com/gag/aPgb1jV)<!-- MEMES:END -->
 
 ---
 
