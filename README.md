@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oversight Board Criticizes Meta’s Automated Moderation in Israel-Hamas War](https://www.wired.com/story/meta-oversight-board-emergency-decision/)
- - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
- - [Supercharge Your Home Office With Huge Price Cuts on PCs, Monitors and More     - CNET](https://www.cnet.com/deals/supercharge-your-home-office-with-huge-price-cuts-on-pcs-monitors-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple News Plus now has The New York Times’ sports coverage, but not the NYT](https://www.theverge.com/2023/12/19/24007645/apple-news-plus-the-athletic-wirecutter-new-york-times)
+ - [The Xbox Series X is available for a new low of $339.99, if you’re quick](https://www.theverge.com/2023/12/19/24007889/microsoft-xbox-series-x-console-best-buy-drop-deal-sale)
+ - [The reintroduction of wolves in Colorado is giving me life right now](https://www.theverge.com/2023/12/19/24007786/colorado-wild-wolves-release-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
