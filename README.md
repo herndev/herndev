@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right now in other dimension the women wait on line to enter the club while the men just go direct inside...](http://9gag.com/gag/amA4nxd)
- - ⏩ [Yes](http://9gag.com/gag/aKEoOrb)
- - 👉 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)<!-- MEMES:END -->
+ - 💣 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
+ - ⏩ [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - 👉 [She is single btw.](http://9gag.com/gag/aBdBOxO)<!-- MEMES:END -->
 
 ---
 
