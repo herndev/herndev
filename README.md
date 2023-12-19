@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Right now in other dimension the women wait on line to enter the club while the men just go direct inside...](http://9gag.com/gag/amA4nxd)
- - ⏩ [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - 👉 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)<!-- MEMES:END -->
+ - ⏩ [Yes](http://9gag.com/gag/aKEoOrb)
+ - 👉 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)<!-- MEMES:END -->
 
 ---
 
