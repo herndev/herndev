@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 💣 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
  - ⏩ [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
- - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
+ - 👉 [The education system at its finest.](http://9gag.com/gag/amA4xQV)<!-- MEMES:END -->
 
 ---
 
