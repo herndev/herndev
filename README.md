@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s GUSTO balloon telescope will map part of the Milky Way](https://www.theverge.com/2023/12/18/24006983/nasa-gusto-balloon-telescope-mission-milky-way-map)
- - [Iran says a cyberattack disrupted services at ~70% of gas stations across the country; a group that Iran accuses of having links to Israel claims responsibility &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p31#a231218p31)
- - [Get These Big Discounts on the Apple Watch Series 9 and Ultra 2 Before They Possibly Disappear From the Market     - CNET](https://www.cnet.com/deals/get-these-big-discounts-on-the-apple-watch-series-9-and-ultra-2-before-they-possibly-disappear-from-the-market/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cash in on deep Apple discounts of up to $250 off at Amazon](https://appleinsider.com/articles/23/12/19/cash-in-on-deep-apple-discounts-of-up-to-250-off-at-amazon?utm_medium=rss)
+ - [Apple could avoid US Apple Watch ban with software update](https://appleinsider.com/articles/23/12/19/apple-could-avoid-us-apple-watch-ban-with-software-update?utm_medium=rss)
+ - [Sources: Figma expects to finish 2023 with $600M+ in ARR, up 40% YoY, and is considering selling employee shares in a secondary offering in the coming months &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231218/p33#a231218p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
