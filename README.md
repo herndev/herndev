@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Here’s how sideloading &lpar;and more&rpar; will change after Google’s settlement](https://www.androidauthority.com/google-settlement-sideloading-alternative-billing-3394827/)
  - [Google to pay $700 million and make tiny app store changes to settle with 50 states](https://www.theverge.com/23994177/google-states-ag-google-play-antitrust-settlement)
- - [Google agrees to pay $700M and make certain changes to its app store to settle a 2021 antitrust lawsuit brought by 36 US states and the District of Columbia &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231218/p38#a231218p38)<!-- TECH:END -->
+ - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
