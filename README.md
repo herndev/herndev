@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple News Plus now has The New York Times’ sports coverage, but not the NYT](https://www.theverge.com/2023/12/19/24007645/apple-news-plus-the-athletic-wirecutter-new-york-times)
- - [The Xbox Series X is available for a new low of $339.99, if you’re quick](https://www.theverge.com/2023/12/19/24007889/microsoft-xbox-series-x-console-best-buy-drop-deal-sale)
- - [The reintroduction of wolves in Colorado is giving me life right now](https://www.theverge.com/2023/12/19/24007786/colorado-wild-wolves-release-video)<!-- TECH:END -->
+ - [B&amp;H Photo has last-minute deals of up to $2,000 off the hottest Apple products](https://appleinsider.com/articles/23/12/19/bh-photo-has-last-minute-deals-of-up-to-2000-off-the-hottest-apple-products?utm_medium=rss)
+ - [Blue Origin successfully launched and recovered its New Shepard booster](https://www.theverge.com/2023/12/19/24007941/blue-origin-new-shepard-ns-24-launch-success)
+ - [Nothing Phone 1 owners get Android 14 beta as early Christmas gift](https://www.androidauthority.com/nothing-phone-1-os-update-3395862/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
