@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ pulls five wins at the Children&#39;s and Family Emmy Awards](https://appleinsider.com/articles/23/12/18/apple-tv-pulls-five-wins-at-the-childrens-and-family-emmy-awards?utm_medium=rss)
- - [Letter: a bipartisan group of lawmakers warn Biden that EU technology regulations are unfairly targeting US companies and not including many Chinese or EU firms &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231218/p29#a231218p29)
- - [Saiji Tablet Stand     - CNET](https://www.cnet.com/tech/mobile/saiji-tablet-stand-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA’s GUSTO balloon telescope will map part of the Milky Way](https://www.theverge.com/2023/12/18/24006983/nasa-gusto-balloon-telescope-mission-milky-way-map)
+ - [Iran says a cyberattack disrupted services at ~70% of gas stations across the country; a group that Iran accuses of having links to Israel claims responsibility &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p31#a231218p31)
+ - [Get These Big Discounts on the Apple Watch Series 9 and Ultra 2 Before They Possibly Disappear From the Market     - CNET](https://www.cnet.com/deals/get-these-big-discounts-on-the-apple-watch-series-9-and-ultra-2-before-they-possibly-disappear-from-the-market/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
