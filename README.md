@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Appin co-founder Rajat Khare used law firms to threaten outlets in the US, UK, and other countries to kill stories about the Indian hack-for-hire firm &lpar;Lachlan Cartwright/The Daily Beast&rpar;](http://www.techmeme.com/231218/p35#a231218p35)
- - [J.P. Morgan predicts marginal financial impact from Apple Watch ban](https://appleinsider.com/articles/23/12/19/jp-morgan-predicts-marginal-financial-impact-from-apple-watch-ban?utm_medium=rss)
- - [Zcash&#39;s primary developer Electric Coin says Zooko Wilcox, the project&#39;s creator, will step down as CEO and be replaced by former SVP Growth Josh Swihart &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/231218/p34#a231218p34)<!-- TECH:END -->
+ - [A US judge approves a previously announced settlement between Binance and the CFTC, asking Binance to pay $2.7B and Changpeng Zhao $150M to the US regulator &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/231218/p36#a231218p36)
+ - [Apple banking on software fix to save latest smartwatches from US ban amid patent dispute](https://www.androidauthority.com/apple-watch-us-ban-software-fix-3395672/)
+ - [Sources: Appin co-founder Rajat Khare used law firms to threaten outlets in the US, UK, and other countries to kill stories about the Indian hack-for-hire firm &lpar;Lachlan Cartwright/The Daily Beast&rpar;](http://www.techmeme.com/231218/p35#a231218p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
