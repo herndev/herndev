@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - ⏩ [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 👉 [This is real. This actually hapened.](http://9gag.com/gag/aYVXMom)<!-- MEMES:END -->
+ - 💣 [Teacher to the rescue!](http://9gag.com/gag/arm783V)
+ - ⏩ [Beautiful set up](http://9gag.com/gag/aVby288)
+ - 👉 [.](http://9gag.com/gag/amA4xp6)<!-- MEMES:END -->
 
 ---
 
