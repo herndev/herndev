@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two &#39;New York Times&#39; publications are coming to Apple News+](https://appleinsider.com/articles/23/12/19/apple-news-signs-up-the-athletic-sports-magazine?utm_medium=rss)
- - [2023 in social media: the case for the fediverse](https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub)
- - [Comcast&#39;s Xfinity discloses hackers breached a Citrix server in October 2023, two weeks after Citrix issued a patch, and stole data on 35,879,455 people &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231219/p10#a231219p10)<!-- TECH:END -->
+ - [How Russia uses specialized e-commerce sites, secretive shipping workarounds, and numerous middlemen to buy Cisco and other Western tech to maintain its economy &lpar;New York Times&rpar;](http://www.techmeme.com/231219/p13#a231219p13)
+ - [Lamborghini Revuelto 2024 Review, Specs, Price, Availability](https://www.wired.com/story/lamborghini-revuelto-2024-review/)
+ - [2023 in the smart home: Matter’s broken promises](https://www.theverge.com/23997548/matter-smart-home-2023-platforms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
