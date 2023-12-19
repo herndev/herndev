@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
- - ⏩ [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 👉 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)<!-- MEMES:END -->
+ - 💣 [Uber](http://9gag.com/gag/amA4mZd)
+ - ⏩ [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 👉 [The education system at its finest.](http://9gag.com/gag/amA4xQV)<!-- MEMES:END -->
 
 ---
 
