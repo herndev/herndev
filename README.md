@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S25 could have the same camera as S24, S23, and S22](https://www.androidauthority.com/samsung-galaxy-s25-same-camera-s22-3395719/)
- - [There won’t be a December 2023 Google Play System Update](https://www.androidauthority.com/no-december-2023-google-play-system-update-3395708/)
- - [Here’s how sideloading &lpar;and more&rpar; will change after Google’s settlement](https://www.androidauthority.com/google-settlement-sideloading-alternative-billing-3394827/)<!-- TECH:END -->
+ - [An interview with Intel CVP and GM of Xeon Products Lisa Spelman on Intel&#39;s trajectory for datacenter processors, Sapphire Rapids development missteps, and more &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231219/p2#a231219p2)
+ - [Wolverine part of massive Insomniac Games leak after ransomware deadline passes](https://www.theverge.com/2023/12/19/24007570/insomniac-games-hack-wolverine-x-men-ryhsida)
+ - [TSMC Chair Mark Liu plans to retire in 2024, replaced by CEO C.C. Wei, set to become one of the most influential executives in tech; shareholders must approve &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p1#a231219p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
