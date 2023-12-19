@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - ⏩ [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - 👉 [She is single btw.](http://9gag.com/gag/aBdBOxO)<!-- MEMES:END -->
+ - 💣 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - ⏩ [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
+ - 👉 [An mi-8 helicopter crashing over the core of the chernobyl reactor on October,1986](http://9gag.com/gag/aeQ8dGv)<!-- MEMES:END -->
 
 ---
 
