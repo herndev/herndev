@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google agrees to pay $700M and make certain changes to its app store to settle a 2021 antitrust lawsuit brought by 36 US states and the District of Columbia &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231218/p38#a231218p38)
- - [One UI 6.1 could bring a Pixel-like Video Boost feature to the Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-6-1-ai-video-features-3395675/)
- - [A US judge orders a Tesla driver to pay $23K+ for a 2019 crash that killed two, likely the first US felony case involving a partially automated driving system &lpar;Stefanie Dazio/Associated Press&rpar;](http://www.techmeme.com/231218/p37#a231218p37)<!-- TECH:END -->
+ - [Here’s how sideloading &lpar;and more&rpar; will change after Google’s settlement](https://www.androidauthority.com/google-settlement-sideloading-alternative-billing-3394827/)
+ - [Google to pay $700 million and make tiny app store changes to settle with 50 states](https://www.theverge.com/23994177/google-states-ag-google-play-antitrust-settlement)
+ - [Google agrees to pay $700M and make certain changes to its app store to settle a 2021 antitrust lawsuit brought by 36 US states and the District of Columbia &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231218/p38#a231218p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
