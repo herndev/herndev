@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers post 1.67TB of Insomniac Games&#39; internal data, including an apparent upcoming Wolverine game, HR files, Slack screenshots, and a Marvel-Sony agreement &lpar;David Hollingworth/Cyber Daily&rpar;](http://www.techmeme.com/231219/p4#a231219p4)
- - [In Google&#39;s $700M settlement in Utah et al v. Google, an estimated 102M US Android users will split $630M and an additional $70M will go to other claims &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/231219/p3#a231219p3)
- - [An interview with Intel CVP and GM of Xeon Products Lisa Spelman on Intel&#39;s trajectory for datacenter processors, Sapphire Rapids development missteps, and more &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231219/p2#a231219p2)<!-- TECH:END -->
+ - [Current Mortgage Interest Rates on Dec. 19, 2023: Rates Trailed Off for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-dec-19-2023-rates-trailed-off-for-homeseekers/#ftag=CAD590a51e)
+ - [Here Are Today&#39;s Refinance Rates, Dec. 19, 2023: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-dec-19-2023-rates-decline/#ftag=CAD590a51e)
+ - [Adobe&#39;s failed Figma deals leaves the company with ~$6B in cash to invest in AI and stock buybacks, but upstart rivals still represent a threat to its growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p7#a231219p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
