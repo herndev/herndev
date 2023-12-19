@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
  - ⏩ [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 👉 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)<!-- MEMES:END -->
+ - 👉 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)<!-- MEMES:END -->
 
 ---
 
