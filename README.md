@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Pro could get MagSafe in future hardware update](https://appleinsider.com/articles/23/12/19/ipad-pro-could-get-magsafe-in-future-hardware-update?utm_medium=rss)
- - [Masimo open to an Apple Watch settlement, if Apple would only call](https://appleinsider.com/articles/23/12/19/masimo-open-to-an-apple-watch-settlement-if-apple-would-only-call?utm_medium=rss)
- - [Samsung adds foldable phones to its self-repair program](https://www.theverge.com/2023/12/19/24008066/samsung-galaxy-z-fold-5-z-flip-5-ifixit-self-repair)<!-- TECH:END -->
+ - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)
+ - [White House is tracking Apple Watch ban with no sign of intervening](https://appleinsider.com/articles/23/12/19/white-house-is-tracking-apple-watch-ban-with-no-sign-of-intervening?utm_medium=rss)
+ - [Here are a few last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24005725/best-last-minute-christmas-gifts-ideas-tech-wireless-earbuds-laptops-gaming-shipping)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
