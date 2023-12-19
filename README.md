@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H Photo has last-minute deals of up to $2,000 off the hottest Apple products](https://appleinsider.com/articles/23/12/19/bh-photo-has-last-minute-deals-of-up-to-2000-off-the-hottest-apple-products?utm_medium=rss)
- - [Blue Origin successfully launched and recovered its New Shepard booster](https://www.theverge.com/2023/12/19/24007941/blue-origin-new-shepard-ns-24-launch-success)
- - [Nothing Phone 1 owners get Android 14 beta as early Christmas gift](https://www.androidauthority.com/nothing-phone-1-os-update-3395862/)<!-- TECH:END -->
+ - [Okta is acquiring Israeli cybersecurity company Spera, which raised a $10M seed in March 2023; source: the deal is worth ~$100-130M, contingent on milestones &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/231219/p23#a231219p23)
+ - [Apple releases updates for iOS 16.7.4 and iPadOS 16.7.4](https://appleinsider.com/articles/23/12/19/apple-releases-updates-for-ios-1674-and-ipados-1674?utm_medium=rss)
+ - [Apple releases macOS Sonoma 14.2.1 with bug fixes](https://appleinsider.com/articles/23/12/19/apple-releases-macos-sonoma-1421-with-bug-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
