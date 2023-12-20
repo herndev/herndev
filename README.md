@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - ⏩ [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 👉 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)<!-- MEMES:END -->
+ - 💣 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - ⏩ [Well x3](http://9gag.com/gag/a04yOyO)
+ - 👉 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)<!-- MEMES:END -->
 
 ---
 
