@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI image training dataset found to include child sexual abuse imagery](https://www.theverge.com/2023/12/20/24009418/generative-ai-image-laion-csam-google-stability-stanford)
- - [Apple Card, Pay, and Wallet not working? You’re not alone](https://www.androidauthority.com/apple-financial-service-outage-3396194/)
- - [The Verge’s 2023 in review](https://www.theverge.com/23998898/2023-best-worst-streaming-gaming-tech-roundup)<!-- TECH:END -->
+ - [CEO claims Beeper makes iMessage more secure, may sue Apple for blocking it](https://appleinsider.com/articles/23/12/20/ceo-claims-beeper-makes-imessage-more-secure-may-sue-apple-for-blocking-it?utm_medium=rss)
+ - [Best Buy slashes 50% off the new HP Chromebook Plus](https://www.androidauthority.com/hp-chromebook-plus-deal-3396213/)
+ - [Should the Apple Store be forced to sell lemons?](https://appleinsider.com/articles/23/12/20/should-the-apple-store-be-forced-to-sell-lemons?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
