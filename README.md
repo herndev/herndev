@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well x3](http://9gag.com/gag/a04yOyO)
- - ⏩ [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
- - 👉 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)<!-- MEMES:END -->
+ - 💣 [Moving to Canada just to give cops death threats!](http://9gag.com/gag/abvnmEb)
+ - ⏩ [No sauce for you](http://9gag.com/gag/a8qxz9Z)
+ - 👉 [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)<!-- MEMES:END -->
 
 ---
 
