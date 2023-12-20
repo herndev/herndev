@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - ⏩ [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
- - 👉 [Well x3](http://9gag.com/gag/a04yOyO)<!-- MEMES:END -->
+ - 💣 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - ⏩ [Title](http://9gag.com/gag/aBdBvwA)
+ - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
 
 ---
 
