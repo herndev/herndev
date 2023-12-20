@@ -39,8 +39,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba replaces its e-commerce business head Trudy Dai with CEO Eddie Wu; Dai, one of Alibaba&#39;s earliest employees, will now help oversee non-core assets &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231219/p38#a231219p38)
- - [Source: Google plans to reorganize a big part of its 30,000-person ad sales unit, as the company increases its reliance on ML to help customers buy more ads &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231219/p37#a231219p37)
+ - [Alibaba CEO Eddie Wu takes over for e-commerce business head Trudy Dai, one of Alibaba&#39;s earliest employees, who will now help oversee non-core assets globally &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231219/p38#a231219p38)
+ - [Source: Google plans to reorganize a big part of its 30K-person ad sales unit, as the company relies more on ML techniques to help customers buy even more ads &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231219/p37#a231219p37)
  - [Pick up Microsoft Office Home &amp; Business for Mac for $39.94](https://appleinsider.com/articles/23/12/20/pick-up-microsoft-office-home-business-for-mac-for-3994?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
