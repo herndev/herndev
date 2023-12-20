@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But , why?](http://9gag.com/gag/axoqQ4Y)
- - ⏩ [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 👉 [Got any cool phone wallpapers?](http://9gag.com/gag/a4oOV9Q)<!-- MEMES:END -->
+ - 💣 [Jenin: Two Palestinian terrorists rode a scooter with an improvised explosive device that they hid. It apparently exploded from the heat of the engine - and as a result they were killed The dead: Ahmed Ararawi, 13 years old and Ali Tarchman, 17 years old](http://9gag.com/gag/a3ZXemr)
+ - ⏩ [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 👉 [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)<!-- MEMES:END -->
 
 ---
 
