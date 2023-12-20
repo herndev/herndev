@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Activision Blizzard CEO Bobby Kotick is leaving Microsoft on December 29; Activision&#39;s leadership remains and is being integrated into Microsoft Gaming &lpar;The Verge&rpar;](http://www.techmeme.com/231220/p21#a231220p21)
- - [WhatsApp may let you share music with friends during video calls](https://www.androidauthority.com/whatsapp-video-calls-music-3396233/)
- - [The TicWatch Pro 5 plunges to its record-low price &lpar;$105 off&rpar;](https://www.androidauthority.com/ticwatch-pro-5-deal-3396241/)<!-- TECH:END -->
+ - [Belkin’s 3-in-1 charger with MagSafe has fallen to an all-time low](https://www.theverge.com/2023/12/20/24008159/belkin-boostcharge-pro-3-in-1-magsafe-charger-apple-mac-mini-m2-deal-sale)
+ - [Samsung is making it easier for you to track your medications](https://www.androidauthority.com/samsung-health-medicine-tracking-3396256/)
+ - [Apple shows off next generation CarPlay in Porsche and Aston Martin cars](https://appleinsider.com/articles/23/12/20/apple-shows-off-next-generation-carplay-in-porsche-and-aston-martin-cars?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
