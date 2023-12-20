@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google introduces a range of new features and updates for Google Maps in India, including Live View walking navigation, ML-powered Address Descriptors, and more &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/231220/p1#a231220p1)
  - [Samsung now lets you self-repair your Galaxy foldables](https://www.androidauthority.com/samsung-self-repair-program-galaxy-foldables-3395992/)
- - [&#39;Resident Evil 4&#39; now available on iPhone 15 Pro, iPad, &amp; Mac](https://appleinsider.com/articles/23/12/20/resident-evil-4-now-available-on-iphone-15-pro-ipad-mac?utm_medium=rss)
- - [An interview with Reddit CEO Steve Huffman about the moderator rebellion, limiting free access to the company&#39;s API, AI&#39;s role in Reddit&#39;s future, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231219/p39#a231219p39)<!-- TECH:END -->
+ - [&#39;Resident Evil 4&#39; now available on iPhone 15 Pro, iPad, &amp; Mac](https://appleinsider.com/articles/23/12/20/resident-evil-4-now-available-on-iphone-15-pro-ipad-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
