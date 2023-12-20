@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - ⏩ [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 👉 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)<!-- MEMES:END -->
+ - 💣 [Watching this artist create a realistic moon](http://9gag.com/gag/az2pBGz)
+ - ⏩ [The right makeup for a first date](http://9gag.com/gag/axoq41Y)
+ - 👉 [China!](http://9gag.com/gag/aVbyBdO)<!-- MEMES:END -->
 
 ---
 
