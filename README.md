@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe explains why it abandoned the Figma deal](https://www.theverge.com/2023/12/20/24008189/adobe-figma-deal-eu-explained-decoder)
- - [Ferrari stalls out](https://www.theverge.com/24006341/ferrari-movie-review-michael-mann-adam-driver-penelope-cruz)
- - [Sony sold 50M PS5 consoles in the three years since its November 2020 launch, almost as fast as the PS4 reached 50M, and outsold Xbox by almost 3:1 in 2023 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231220/p17#a231220p17)<!-- TECH:END -->
+ - [Apple Card, Apple Pay, and Wallet hit by outages](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)
+ - [Apple&#39;s System Status page reports an ongoing outage for Apple Card, Apple Cash, Apple Pay, and Wallet since 6:15AM ET; users report issues with IAPs and more &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231220/p18#a231220p18)
+ - [Our favorite reader-created Android wallpapers of 2023](https://www.androidauthority.com/best-android-wallpapers-2023-3394298/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
