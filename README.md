@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 💣 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
  - ⏩ [Yes](http://9gag.com/gag/aKEoOrb)
- - 👉 [She is single btw.](http://9gag.com/gag/aBdBOxO)<!-- MEMES:END -->
+ - 👉 [Got any cool phone wallpapers?](http://9gag.com/gag/a4oOV9Q)<!-- MEMES:END -->
 
 ---
 
