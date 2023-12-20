@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - ⏩ [Title](http://9gag.com/gag/aBdBvwA)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 💣 [Not the hero we need, but the one we deserve.](http://9gag.com/gag/aqeodMQ)
+ - ⏩ [Facts](http://9gag.com/gag/aL17NwM)
+ - 👉 [No sauce for you](http://9gag.com/gag/a8qxz9Z)<!-- MEMES:END -->
 
 ---
 
