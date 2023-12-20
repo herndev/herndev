@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO confirms Find X7 series is real, reveals first camera details](https://www.androidauthority.com/oppo-find-x7-series-official-camera-details-3395680/)
- - [Researchers say AI robot CyberRunner outmaneuvers humans in the maze game Labyrinth, in a breakthrough for AI beating humans at direct physical applications &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231220/p4#a231220p4)
- - [Media monitoring and analytics firm Meltwater raises ~$65M from PE firm Verdane for an 11% stake at a $592M valuation, down from $1B+ valuation in December 2020 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231220/p3#a231220p3)<!-- TECH:END -->
+ - [The iPhone’s satellite now works with Verizon’s roadside assistance](https://www.androidauthority.com/iphone-satellite-verizon-roadside-assistance-3396061/)
+ - [Bird files for Chapter 11 bankruptcy in Florida, listing $100M-$500M in liabilities; NYSE began delisting process against the e-scooter rental firm in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p7#a231220p7)
+ - [OpenAI&#39;s deals with publishers are a hedge against a scenario in which scraping becomes harder, training material more expensive, and real-time data more scarce &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/231220/p6#a231220p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
