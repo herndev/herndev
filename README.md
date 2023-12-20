@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - ⏩ [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
- - 👉 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)<!-- MEMES:END -->
+ - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
+ - ⏩ [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 👉 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)<!-- MEMES:END -->
 
 ---
 
