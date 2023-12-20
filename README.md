@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the tech sector&#39;s longevity obsession, with Jeff Bezos, Sam Altman, Larry Page, and others pledging millions of dollars to firms pursuing longer life &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/231220/p8#a231220p8)
- - [VanMoof 2.0: a new hope](https://www.theverge.com/24009091/vanmoof-scooter-next-steps-parts-service-e-bikes)
- - [Did you miss your iPhone’s alarm? You’re not alone.](https://www.androidauthority.com/iphone-alarm-not-working-3396078/)<!-- TECH:END -->
+ - [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
+ - [The UK Supreme Court rules that AI can&#39;t be a patent &quot;inventor&quot;, rejecting a bid to register patents by US computer scientist Stephen Thaler, in a landmark case &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231220/p9#a231220p9)
+ - [Take 40% Off PF Flyers Sneakers This Holiday Season     - CNET](https://www.cnet.com/deals/take-40-off-pf-flyers-sneakers-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
