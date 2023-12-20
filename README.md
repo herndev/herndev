@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
- - ⏩ [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
+ - 💣 [I think Sony has just lost their collective shit! Resale of legally purchased physical game are no longer allowed](http://9gag.com/gag/arm784y)
+ - ⏩ [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
  - 👉 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)<!-- MEMES:END -->
 
 ---
