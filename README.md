@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fml...](http://9gag.com/gag/anzPW1L)
- - ⏩ [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
- - 👉 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
+ - 💣 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - ⏩ [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 👉 [Simple beauty](http://9gag.com/gag/aVbyRDP)<!-- MEMES:END -->
 
 ---
 
