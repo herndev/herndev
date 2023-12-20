@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
- - [The UK Supreme Court rules that AI can&#39;t be a patent &quot;inventor&quot;, rejecting a bid to register patents by US computer scientist Stephen Thaler, in a landmark case &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231220/p9#a231220p9)
- - [Take 40% Off PF Flyers Sneakers This Holiday Season     - CNET](https://www.cnet.com/deals/take-40-off-pf-flyers-sneakers-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: ByteDance&#39;s 2023 sales surged to $110B+, broadly matching 2022&#39;s 30% growth rate, despite economic turbulence in China and scrutiny in the US and India &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p12#a231220p12)
+ - [Today&#39;s Mortgage Rates for Dec. 20, 2023: Rates Fall for Prospective Buyers     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-dec-20-2023-rates-fall-for-prospective-buyers/#ftag=CAD590a51e)
+ - [Refinance Rates for Dec. 20, 2023: Rates Fall     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-dec-20-2023-rates-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
