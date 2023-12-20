@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
- - ⏩ [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 💣 [But , why?](http://9gag.com/gag/axoqQ4Y)
+ - ⏩ [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
+ - 👉 [Got any cool phone wallpapers?](http://9gag.com/gag/a4oOV9Q)<!-- MEMES:END -->
 
 ---
 
