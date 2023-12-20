@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - ⏩ [Yes](http://9gag.com/gag/aKEoOrb)
- - 👉 [Got any cool phone wallpapers?](http://9gag.com/gag/a4oOV9Q)<!-- MEMES:END -->
+ - 💣 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - ⏩ [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
+ - 👉 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)<!-- MEMES:END -->
 
 ---
 
