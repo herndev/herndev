@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card, Apple Pay, and Wallet hit by outages](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)
- - [Apple&#39;s System Status page reports an ongoing outage for Apple Card, Apple Cash, Apple Pay, and Wallet since 6:15AM ET; users report issues with IAPs and more &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231220/p18#a231220p18)
- - [Our favorite reader-created Android wallpapers of 2023](https://www.androidauthority.com/best-android-wallpapers-2023-3394298/)<!-- TECH:END -->
+ - [AI image training dataset found to include child sexual abuse imagery](https://www.theverge.com/2023/12/20/24009418/generative-ai-image-laion-csam-google-stability-stanford)
+ - [Apple Card, Pay, and Wallet not working? You’re not alone](https://www.androidauthority.com/apple-financial-service-outage-3396194/)
+ - [The Verge’s 2023 in review](https://www.theverge.com/23998898/2023-best-worst-streaming-gaming-tech-roundup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
