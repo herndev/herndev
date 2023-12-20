@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic won’t ban blockchain games over adults-only ratings](https://www.theverge.com/2023/12/19/24008602/epic-games-store-adults-only-blockchain-games)
- - [Google plans to limit the types of election-related queries Bard and SGE can return responses for, starting in early 2024, to prepare for elections worldwide &lpar;Brady Snyder/Android Central&rpar;](http://www.techmeme.com/231219/p33#a231219p33)
- - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)<!-- TECH:END -->
+ - [Apple&#39;s popular Space Black M3 MacBook Pro returns to all-time best price](https://appleinsider.com/articles/23/12/20/apples-popular-space-black-m3-macbook-pro-returns-to-all-time-best-price?utm_medium=rss)
+ - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
+ - [Harvey, which builds generative AI tools for law firms, raised an $80M Series B co-led by Elad Gil and Kleiner Perkins at a $715M valuation &lpar;Isabel Gottlieb/Bloomberg Law&rpar;](http://www.techmeme.com/231219/p35#a231219p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
