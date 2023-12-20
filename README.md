@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin’s 3-in-1 charger with MagSafe has fallen to an all-time low](https://www.theverge.com/2023/12/20/24008159/belkin-boostcharge-pro-3-in-1-magsafe-charger-apple-mac-mini-m2-deal-sale)
- - [Samsung is making it easier for you to track your medications](https://www.androidauthority.com/samsung-health-medicine-tracking-3396256/)
- - [Apple shows off next generation CarPlay in Porsche and Aston Martin cars](https://appleinsider.com/articles/23/12/20/apple-shows-off-next-generation-carplay-in-porsche-and-aston-martin-cars?utm_medium=rss)<!-- TECH:END -->
+ - [A report reveals AI image-generators are being trained on child sexual abuse images](https://www.androidauthority.com/new-in-ai-3396270/)
+ - [Not everyone is convinced that the Apple Watch ban will only have a small financial impact](https://appleinsider.com/articles/23/12/20/not-everyone-is-convinced-that-the-apple-watch-ban-will-only-have-a-small-financial-impact?utm_medium=rss)
+ - [Apple’s immersive next-gen CarPlay will start with Porsche and Aston Martin](https://www.theverge.com/2023/12/20/24009697/apple-next-generation-wireless-carplay-porsche-aston-martin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
