@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not the hero we need, but the one we deserve.](http://9gag.com/gag/aqeodMQ)
- - ⏩ [Facts](http://9gag.com/gag/aL17NwM)
- - 👉 [No sauce for you](http://9gag.com/gag/a8qxz9Z)<!-- MEMES:END -->
+ - 💣 [Well x3](http://9gag.com/gag/a04yOyO)
+ - ⏩ [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
+ - 👉 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)<!-- MEMES:END -->
 
 ---
 
