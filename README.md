@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CEO claims Beeper makes iMessage more secure, may sue Apple for blocking it](https://appleinsider.com/articles/23/12/20/ceo-claims-beeper-makes-imessage-more-secure-may-sue-apple-for-blocking-it?utm_medium=rss)
- - [Best Buy slashes 50% off the new HP Chromebook Plus](https://www.androidauthority.com/hp-chromebook-plus-deal-3396213/)
- - [Should the Apple Store be forced to sell lemons?](https://appleinsider.com/articles/23/12/20/should-the-apple-store-be-forced-to-sell-lemons?utm_medium=rss)<!-- TECH:END -->
+ - [Memo: Activision Blizzard CEO Bobby Kotick is leaving Microsoft on December 29; Activision&#39;s leadership remains and is being integrated into Microsoft Gaming &lpar;The Verge&rpar;](http://www.techmeme.com/231220/p21#a231220p21)
+ - [WhatsApp may let you share music with friends during video calls](https://www.androidauthority.com/whatsapp-video-calls-music-3396233/)
+ - [The TicWatch Pro 5 plunges to its record-low price &lpar;$105 off&rpar;](https://www.androidauthority.com/ticwatch-pro-5-deal-3396241/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
