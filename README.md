@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023: a year in art on The Verge](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup)
- - [Nomad unveils its first fast Qi2 wireless stand charger](https://www.theverge.com/2023/12/20/24009185/nomad-stand-qi2-wireless-charger-price-fast-magsafe)
- - [Apple Watch Series X won&#39;t work with old bands, claims leaker](https://appleinsider.com/articles/23/12/20/apple-watch-series-x-wont-work-with-old-bands-claims-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe explains why it abandoned the Figma deal](https://www.theverge.com/2023/12/20/24008189/adobe-figma-deal-eu-explained-decoder)
+ - [Ferrari stalls out](https://www.theverge.com/24006341/ferrari-movie-review-michael-mann-adam-driver-penelope-cruz)
+ - [Sony sold 50M PS5 consoles in the three years since its November 2020 launch, almost as fast as the PS4 reached 50M, and outsold Xbox by almost 3:1 in 2023 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231220/p17#a231220p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
