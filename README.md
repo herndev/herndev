@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
- - [A soldier&#39;s iPhone stopped a bullet, saving his life](https://appleinsider.com/articles/23/12/19/a-soldiers-iphone-stopped-a-bullet-saving-his-life?utm_medium=rss)
- - [HughesNet debuts a $110/month 100Mbps satellite internet plan, double its previous top speed; Starlink offers 220Mbps, but US Ookla data shows many get ~70Mbps &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231219/p30#a231219p30)<!-- TECH:END -->
+ - [Epic won’t ban blockchain games over adults-only ratings](https://www.theverge.com/2023/12/19/24008602/epic-games-store-adults-only-blockchain-games)
+ - [Google plans to limit the types of election-related queries Bard and SGE can return responses for, starting in early 2024, to prepare for elections worldwide &lpar;Brady Snyder/Android Central&rpar;](http://www.techmeme.com/231219/p33#a231219p33)
+ - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
