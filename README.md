@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance&#39;s 2023 sales surged to $110B+, broadly matching 2022&#39;s 30% growth rate, despite economic turbulence in China and scrutiny in the US and India &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p12#a231220p12)
- - [Today&#39;s Mortgage Rates for Dec. 20, 2023: Rates Fall for Prospective Buyers     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-dec-20-2023-rates-fall-for-prospective-buyers/#ftag=CAD590a51e)
- - [Refinance Rates for Dec. 20, 2023: Rates Fall     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-dec-20-2023-rates-fall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [2023: a year in art on The Verge](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup)
+ - [Nomad unveils its first fast Qi2 wireless stand charger](https://www.theverge.com/2023/12/20/24009185/nomad-stand-qi2-wireless-charger-price-fast-magsafe)
+ - [Apple Watch Series X won&#39;t work with old bands, claims leaker](https://appleinsider.com/articles/23/12/20/apple-watch-series-x-wont-work-with-old-bands-claims-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
