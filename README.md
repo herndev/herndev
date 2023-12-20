@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A report reveals AI image-generators are being trained on child sexual abuse images](https://www.androidauthority.com/new-in-ai-3396270/)
- - [Not everyone is convinced that the Apple Watch ban will only have a small financial impact](https://appleinsider.com/articles/23/12/20/not-everyone-is-convinced-that-the-apple-watch-ban-will-only-have-a-small-financial-impact?utm_medium=rss)
- - [Apple’s immersive next-gen CarPlay will start with Porsche and Aston Martin](https://www.theverge.com/2023/12/20/24009697/apple-next-generation-wireless-carplay-porsche-aston-martin)<!-- TECH:END -->
+ - [The US FTC proposes expanded protections on children&#39;s personal data, including new limits on targeted advertising and push notifications directed at kids &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/231220/p26#a231220p26)
+ - [Apple loses attempt to halt Apple Watch sales ban](https://www.theverge.com/2023/12/20/24010011/apple-loses-attempt-halt-apple-watch-sales-ban-itc)
+ - [Apple reportedly plans Vision Pro launch by February](https://www.theverge.com/2023/12/20/24010038/apple-vision-pro-launch-planned-february)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
