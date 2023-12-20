@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - ⏩ [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
- - 👉 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)<!-- MEMES:END -->
+ - 💣 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - ⏩ [Yes](http://9gag.com/gag/aKEoOrb)
+ - 👉 [She is single btw.](http://9gag.com/gag/aBdBOxO)<!-- MEMES:END -->
 
 ---
 
