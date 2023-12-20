@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Galaxy S24 leak shows off the flagship in four colors](https://www.androidauthority.com/galaxy-s24-colors-3396300/)
- - [Arizona&#39;s Secretary of State Is Already Sick of Election Conspiracy Theories](https://www.wired.com/story/adrian-fontes-secretary-of-state-arizona/)
- - [Apple&#39;s legal bid to pause Apple Watch sales &amp; import ban fails](https://appleinsider.com/articles/23/12/20/apples-legal-bid-to-pause-apple-watch-sales-import-ban-fails?utm_medium=rss)<!-- TECH:END -->
+ - [The four podcast stories that will shape 2024](https://www.theverge.com/2023/12/20/24010208/podcast-2024-layoff-ai-spotify-apple-rogan)
+ - [After analyzing 7.14M miles driven, Waymo claims its autonomous driving system had an 85% reduction in injury-causing crash rates compared to human benchmarks &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231220/p29#a231220p29)
+ - [All iPhone 16 models to get A18 processor according to iOS 18 code leak](https://appleinsider.com/articles/23/12/20/all-iphone-16-models-to-get-a18-processor-according-to-ios-18-code-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
