@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
- - ⏩ [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 👉 [Simple beauty](http://9gag.com/gag/aVbyRDP)<!-- MEMES:END -->
+ - 💣 [It will be a long night](http://9gag.com/gag/aKEoLMj)
+ - ⏩ [How the tents have been folded](http://9gag.com/gag/aKEonPZ)
+ - 👉 [I love this community.](http://9gag.com/gag/aeQ8yjq)<!-- MEMES:END -->
 
 ---
 
