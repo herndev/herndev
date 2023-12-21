@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How excess heat from Meta&#39;s hyperscale data center in Odense, opened in 2020, helps heat roughly 11,000 homes in the Danish city &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/231221/p6#a231221p6)
- - [Leaked Galaxy S24 series spec sheet raises 1 question: What’s a quad telephoto?](https://www.androidauthority.com/samsung-galaxy-s24-series-leaked-specs-3396392/)
- - [X &lpar;formerly Twitter&rpar; is a ghost town: User feeds have mysteriously disappeared &lpar;Updated: Back up&rpar;](https://www.androidauthority.com/x-twitter-is-down-3396374/)<!-- TECH:END -->
+ - [Worldcoin developer Tools for Humanity no longer offers its Orb-verification service in India, Brazil, and France, months after a &quot;limited time access&quot; launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/231221/p8#a231221p8)
+ - [In five experiments, encouraging people to use search engines to evaluate the veracity of fake news posts increased the likelihood of them being rated as true &lpar;Lauren Leffer/Scientific American&rpar;](http://www.techmeme.com/231221/p7#a231221p7)
+ - [How excess heat from Meta&#39;s hyperscale data center in Odense, opened in 2020, helps heat roughly 11,000 homes in the Danish city &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/231221/p6#a231221p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
