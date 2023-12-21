@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO is my pick for the most exciting smartphone camera brand of 2023 — here’s why](https://www.androidauthority.com/oppo-best-camera-2023-3391247/)
- - [2023 was business as usual in the headphone world, but next year should bring some shake-ups](https://www.theverge.com/23999795/earbuds-headphones-2024-preview-apple-samsung-sonos)
- - [Evan Blass leaks a purported countdown to Galaxy Unpacked on January 17, which says &quot;Galaxy AI is coming&quot;, and a spec sheet for the Galaxy S24, Plus, and Ultra &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231221/p10#a231221p10)<!-- TECH:END -->
+ - [Apple is already gearing up for the Apple Watch online sales ban](https://appleinsider.com/articles/23/12/21/apple-is-already-gearing-up-for-the-apple-watch-online-sales-ban?utm_medium=rss)
+ - [The year in arthouse movies](https://www.theverge.com/23994888/best-arthouse-movies-2023)
+ - [Microsoft plans to deprecate Windows Mixed Reality and remove the feature in a future OS update; most Windows VR headsets launched between 2017 and 2021 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231221/p11#a231221p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
