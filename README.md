@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - ⏩ [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 💣 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - ⏩ [Assault attempt, 1 injured](http://9gag.com/gag/aEqmEPK)
  - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
 
 ---
