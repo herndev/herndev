@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF again.](http://9gag.com/gag/aeQ8dGW)
- - ⏩ [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
- - 👉 [Birmingham, UK. The British are shopping at the Christmas sales.](http://9gag.com/gag/anzPdVb)<!-- MEMES:END -->
+ - 💣 [Nothing and everything](http://9gag.com/gag/aBdBjA2)
+ - ⏩ [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)
+ - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
 
 ---
 
