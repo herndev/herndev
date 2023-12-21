@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, no chance to sing Country Roads?](http://9gag.com/gag/abvnKg9)
- - ⏩ [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
- - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
+ - 💣 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - ⏩ [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
+ - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
 
 ---
 
