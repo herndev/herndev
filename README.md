@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
- - ⏩ [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
+ - 💣 [So, no chance to sing Country Roads?](http://9gag.com/gag/abvnKg9)
+ - ⏩ [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
+ - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
 
 ---
 
