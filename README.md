@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is discontinuing Windows Mixed Reality](https://www.theverge.com/2023/12/21/24010787/microsoft-windows-mixed-reality-deprecated)
- - [Today&#39;s Best CD Rates, Dec. 21, 2023: Grow Your Savings Faster With up to 5.65% APY     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-21-2023/#ftag=CAD590a51e)
- - [Sources: Stripe&#39;s net revenue reached ~$1B in Q3 2023; the company generated $150M+ in operating income in Q3 and nearly $200M from January to September 2023 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231221/p12#a231221p12)<!-- TECH:END -->
+ - [The US plans to launch a review of the US semiconductor supply chain in January to assess national security concerns about sourcing of legacy chips from China &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231221/p13#a231221p13)
+ - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
+ - [A year in art on The Verge](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
