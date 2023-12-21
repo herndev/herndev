@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gays for palestine met palestinians.](http://9gag.com/gag/abvnoQE)
- - ⏩ [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 👉 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)<!-- MEMES:END -->
+ - 💣 [Surprised about the lack of coverage on this](http://9gag.com/gag/aBdBjL1)
+ - ⏩ [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 👉 [Nothing and everything](http://9gag.com/gag/aBdBjA2)<!-- MEMES:END -->
 
 ---
 
