@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beeper has more ridiculous work-arounds for its iMessage bridge hack](https://appleinsider.com/articles/23/12/21/beeper-has-more-ridiculous-work-arounds-for-its-imessage-bridge-hack?utm_medium=rss)
- - [Daily deals Dec. 21: $999 15-inch MacBook Air, $249 iPad, $199 AirPods Pro 2 USB-C, more](https://appleinsider.com/articles/23/12/21/daily-deals-dec-21-999-15-inch-macbook-air-249-ipad-199-airpods-pro-2-usb-c-more?utm_medium=rss)
- - [How Donald Trump and Elon Musk killed Twitter, with Marty Baron and Zoe Schiffer](https://www.theverge.com/24010916/twitter-x-donald-trump-elon-musk-marty-baron-zoe-schiffer-decoder-interview)<!-- TECH:END -->
+ - [Cisco acquires cloud-native security and networking startup Isovalent, which helped develop open source projects eBPF and Cilium and has raised $69M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231221/p16#a231221p16)
+ - [Bird may be bankrupt, but shared micromobility is doing just fine](https://www.theverge.com/2023/12/21/24010902/bird-bankrupt-electric-scooter-micromobility-ridership-future)
+ - [Apple &amp; Google close to rolling out final Bluetooth tracker misuse standard](https://appleinsider.com/articles/23/12/21/apple-google-close-to-rolling-out-final-bluetooth-tracker-misuse-standard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
