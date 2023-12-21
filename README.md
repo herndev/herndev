@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Meta&#39;s India policy head Shivnath Thukral says the government could choose to apply its proposed telecom law to Meta&#39;s OTT services at a &quot;future date&quot; &lpar;Moneycontrol&rpar;](http://www.techmeme.com/231220/p34#a231220p34)
- - [India&#39;s lower house of parliament passes the Telecommunication Bill, 2023, despite a lack of clarity on whether online services will be included under the bill &lpar;Kamya Pandey/MediaNama&rpar;](http://www.techmeme.com/231220/p33#a231220p33)
- - [Samsung Galaxy Unpacked 2024 date leaked via a very official-looking teaser](https://www.androidauthority.com/samsung-galaxy-unpacked-2024-date-leak-3396347/)<!-- TECH:END -->
+ - [Apple’s holiday hurdle: ITC refuses company’s request to halt Apple Watch ban](https://www.androidauthority.com/apple-watch-ban-stay-rejected-3396353/)
+ - [Apple AI researchers publish papers on using human gaussian splats to generate animated 3D avatars and deploying LLMs on devices with limited memory &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231221/p1#a231221p1)
+ - [Email: Meta&#39;s India policy head Shivnath Thukral says the government could choose to apply its proposed telecom law to Meta&#39;s OTT services at a &quot;future date&quot; &lpar;Moneycontrol&rpar;](http://www.techmeme.com/231220/p34#a231220p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
