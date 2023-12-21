@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Apple won&#39;t offer hardware swaps for out-of-warranty Watch models going back to Series 6 in the US during ITC&#39;s ban but will offer software-based repairs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231221/p19#a231221p19)
- - [Substack says it will not remove or demonetize Nazi content](https://www.theverge.com/2023/12/21/24011232/substack-nazi-moderation-demonetization-hamish-mckenzie)
- - [Google Chrome is getting safer and smarter with new update](https://www.androidauthority.com/google-chrome-safer-smarter-3396581/)<!-- TECH:END -->
+ - [Android phones may finally be getting a battery health indicator](https://www.theverge.com/2023/12/21/24011265/android-battery-health-indicator-features)
+ - [Apple won&#39;t offer Apple Watch service replacements on out of warranty devices](https://appleinsider.com/articles/23/12/21/apple-wont-offer-apple-watch-service-replacements-on-out-of-warranty-devices?utm_medium=rss)
+ - [Apple stops selling the Apple Watch Series 9 and Apple Watch Ultra 2 in its online store in the US, days before the ITC&#39;s Watch import ban goes into effect &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231221/p21#a231221p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
