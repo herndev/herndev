@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
- - ⏩ [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
- - 👉 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)<!-- MEMES:END -->
+ - 💣 [So, no chance to sing Country Roads?](http://9gag.com/gag/abvnKg9)
+ - ⏩ [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
 
 ---
 
