@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hans?!...](http://9gag.com/gag/az2pDej)
- - ⏩ [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
- - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
+ - 💣 [Gays for palestine met palestinians.](http://9gag.com/gag/abvnoQE)
+ - ⏩ [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
+ - 👉 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)<!-- MEMES:END -->
 
 ---
 
