@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
- - ⏩ [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 👉 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)<!-- MEMES:END -->
+ - 💣 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
+ - ⏩ [Nothing and everything](http://9gag.com/gag/aBdBjA2)
+ - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
 
 ---
 
