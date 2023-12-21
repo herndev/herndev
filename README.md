@@ -115,11 +115,11 @@ Mac                      2 hrs 4 mins        █████░░░░░░�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#246](https://github.com/JohnyP36/Connect4/issues/246) in [JohnyP36/Connect4](https://github.com/JohnyP36/Connect4)
-2. ❗️ Opened issue [#35726](https://github.com/timburgan/timburgan/issues/35726) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#4076](https://github.com/marcizhu/marcizhu/issues/4076) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. ❗️ Opened issue [#4061](https://github.com/marcizhu/marcizhu/issues/4061) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-5. ❗️ Opened issue [#4054](https://github.com/marcizhu/marcizhu/issues/4054) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+1. ❗️ Opened issue [#35738](https://github.com/timburgan/timburgan/issues/35738) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#4078](https://github.com/marcizhu/marcizhu/issues/4078) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+3. ❗️ Opened issue [#246](https://github.com/JohnyP36/Connect4/issues/246) in [JohnyP36/Connect4](https://github.com/JohnyP36/Connect4)
+4. ❗️ Opened issue [#35726](https://github.com/timburgan/timburgan/issues/35726) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. ❗️ Opened issue [#4076](https://github.com/marcizhu/marcizhu/issues/4076) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
 <!--END_SECTION:activity-->
 
 ---
