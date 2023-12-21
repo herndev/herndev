@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How excess heat from Meta&#39;s hyperscale data center in Odense, opened in 2020, helps heat roughly 11,000 homes in the Danish city &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/231221/p6#a231221p6)
  - [Leaked Galaxy S24 series spec sheet raises 1 question: What’s a quad telephoto?](https://www.androidauthority.com/samsung-galaxy-s24-series-leaked-specs-3396392/)
- - [X &lpar;formerly Twitter&rpar; is a ghost town: User feeds have mysteriously disappeared &lpar;Updated: Back up&rpar;](https://www.androidauthority.com/x-twitter-is-down-3396374/)
- - [Most big brands haven&#39;t yet created AI-specific roles despite many marketers fearing AI will change their jobs; Coca-Cola promoted two execs to new AI roles &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231221/p5#a231221p5)<!-- TECH:END -->
+ - [X &lpar;formerly Twitter&rpar; is a ghost town: User feeds have mysteriously disappeared &lpar;Updated: Back up&rpar;](https://www.androidauthority.com/x-twitter-is-down-3396374/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
