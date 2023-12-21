@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [American automakers are losing the race to make more fuel-efficient vehicles](https://www.theverge.com/2023/12/21/24010938/car-suv-truck-fuel-efficiency-emissions-epa-trends-report)
- - [Even after a tumultuous year, Apple TV+ doubled its viewing hours in 2023](https://appleinsider.com/articles/23/12/21/even-after-a-tumultuous-year-apple-tv-doubled-its-viewing-hours-in-2023?utm_medium=rss)
- - [Prometheum says it received the first-ever FINRA approval to offer digital asset securities clearing services through its special purpose broker dealer license &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231221/p17#a231221p17)<!-- TECH:END -->
+ - [Memo: Apple won&#39;t offer hardware swaps for out-of-warranty Watch models going back to Series 6 in the US during ITC&#39;s ban but will offer software-based repairs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231221/p19#a231221p19)
+ - [Substack says it will not remove or demonetize Nazi content](https://www.theverge.com/2023/12/21/24011232/substack-nazi-moderation-demonetization-hamish-mckenzie)
+ - [Google Chrome is getting safer and smarter with new update](https://www.androidauthority.com/google-chrome-safer-smarter-3396581/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
