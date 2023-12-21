@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing and everything](http://9gag.com/gag/aBdBjA2)
- - ⏩ [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)
- - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
+ - 💣 [No sauce for you](http://9gag.com/gag/a8qxz9Z)
+ - ⏩ [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)
+ - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
 
 ---
 
