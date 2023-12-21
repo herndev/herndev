@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most big brands haven&#39;t yet created AI-specific roles despite many marketers fearing AI will change their jobs; Coca-Cola promoted two execs to new AI roles &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231221/p5#a231221p5)
- - [X was down](https://www.theverge.com/2023/12/21/24010656/x-is-down-twitter-outage)
- - [Twitter not working? Here are some things you can try!](https://www.androidauthority.com/twitter-not-working-1008338/)<!-- TECH:END -->
+ - [Leaked Galaxy S24 series spec sheet raises 1 question: What’s a quad telephoto?](https://www.androidauthority.com/samsung-galaxy-s24-series-leaked-specs-3396392/)
+ - [X &lpar;formerly Twitter&rpar; is a ghost town: User feeds have mysteriously disappeared &lpar;Updated: Back up&rpar;](https://www.androidauthority.com/x-twitter-is-down-3396374/)
+ - [Most big brands haven&#39;t yet created AI-specific roles despite many marketers fearing AI will change their jobs; Coca-Cola promoted two execs to new AI roles &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231221/p5#a231221p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
