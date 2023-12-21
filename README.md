@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US plans to launch a review of the US semiconductor supply chain in January to assess national security concerns about sourcing of legacy chips from China &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231221/p13#a231221p13)
- - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
- - [A year in art on The Verge](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup)<!-- TECH:END -->
+ - [Beeper has more ridiculous work-arounds for its iMessage bridge hack](https://appleinsider.com/articles/23/12/21/beeper-has-more-ridiculous-work-arounds-for-its-imessage-bridge-hack?utm_medium=rss)
+ - [Daily deals Dec. 21: $999 15-inch MacBook Air, $249 iPad, $199 AirPods Pro 2 USB-C, more](https://appleinsider.com/articles/23/12/21/daily-deals-dec-21-999-15-inch-macbook-air-249-ipad-199-airpods-pro-2-usb-c-more?utm_medium=rss)
+ - [How Donald Trump and Elon Musk killed Twitter, with Marty Baron and Zoe Schiffer](https://www.theverge.com/24010916/twitter-x-donald-trump-elon-musk-marty-baron-zoe-schiffer-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
