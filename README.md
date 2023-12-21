@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surprised about the lack of coverage on this](http://9gag.com/gag/aBdBjL1)
- - ⏩ [Hans?!...](http://9gag.com/gag/az2pDej)
- - 👉 [Nothing and everything](http://9gag.com/gag/aBdBjA2)<!-- MEMES:END -->
+ - 💣 [He is not wrong!](http://9gag.com/gag/ay2jm0b)
+ - ⏩ [Hey bro, forget what&#39;s going on in the world for a moment, here&#39;s a dog doing a backflip.](http://9gag.com/gag/avQKVy5)
+ - 👉 [The art of hustle.](http://9gag.com/gag/a7qRmO2)<!-- MEMES:END -->
 
 ---
 
