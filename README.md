@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is already gearing up for the Apple Watch online sales ban](https://appleinsider.com/articles/23/12/21/apple-is-already-gearing-up-for-the-apple-watch-online-sales-ban?utm_medium=rss)
- - [The year in arthouse movies](https://www.theverge.com/23994888/best-arthouse-movies-2023)
- - [Microsoft plans to deprecate Windows Mixed Reality and remove the feature in a future OS update; most Windows VR headsets launched between 2017 and 2021 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231221/p11#a231221p11)<!-- TECH:END -->
+ - [Microsoft is discontinuing Windows Mixed Reality](https://www.theverge.com/2023/12/21/24010787/microsoft-windows-mixed-reality-deprecated)
+ - [Today&#39;s Best CD Rates, Dec. 21, 2023: Grow Your Savings Faster With up to 5.65% APY     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-21-2023/#ftag=CAD590a51e)
+ - [Sources: Stripe&#39;s net revenue reached ~$1B in Q3 2023; the company generated $150M+ in operating income in Q3 and nearly $200M from January to September 2023 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231221/p12#a231221p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
