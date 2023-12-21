@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Privacy campaigners say the UK quietly introduced legislation to let police run facial recognition searches on 50M+ driving license holders without oversight &lpar;Daniel Boffey/The Guardian&rpar;](http://www.techmeme.com/231221/p9#a231221p9)
- - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
- - [Worldcoin developer Tools for Humanity no longer offers its Orb-verification service in India, Brazil, and France, months after a &quot;limited time access&quot; launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/231221/p8#a231221p8)<!-- TECH:END -->
+ - [OPPO is my pick for the most exciting smartphone camera brand of 2023 — here’s why](https://www.androidauthority.com/oppo-best-camera-2023-3391247/)
+ - [2023 was business as usual in the headphone world, but next year should bring some shake-ups](https://www.theverge.com/23999795/earbuds-headphones-2024-preview-apple-samsung-sonos)
+ - [Evan Blass leaks a purported countdown to Galaxy Unpacked on January 17, which says &quot;Galaxy AI is coming&quot;, and a spec sheet for the Galaxy S24, Plus, and Ultra &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231221/p10#a231221p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
