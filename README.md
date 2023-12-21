@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scammers are impersonating Binance, zkSync, and other crypto accounts on X by creating fake URLs to promote scams, giveaways, and more to steal crypto and NFTs &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231220/p31#a231220p31)
- - [Best Smart Home Deals: Save Big on Smart Bulbs, Robot Vacuums, Thermostats and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [Sources: Anthropic is in talks to raise $750M in a round led by Menlo Ventures at a $15B valuation, tripling from spring 2023; its final valuation may top $18B &lpar;The Information&rpar;](http://www.techmeme.com/231220/p30#a231220p30)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked 2024 date leaked via a very official-looking teaser](https://www.androidauthority.com/samsung-galaxy-unpacked-2024-date-leak-3396347/)
+ - [Get an M2 MacBook Air 16GB for $1,099 with free next day delivery](https://appleinsider.com/articles/23/12/21/get-an-m2-macbook-air-16gb-for-1099-with-free-next-day-delivery?utm_medium=rss)
+ - [Apple Savings APY increases from 4.15% to 4.25%](https://appleinsider.com/articles/23/12/21/apple-savings-apy-increases-from-415-to-425?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
