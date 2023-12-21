@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect welding doesn&#39;t exi...](http://9gag.com/gag/aNwEGeb)
- - ⏩ [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 💣 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - ⏩ [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
 
 ---
 
