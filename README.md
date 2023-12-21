@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
- - ⏩ [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
- - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
+ - 💣 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
+ - ⏩ [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
+ - 👉 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)<!-- MEMES:END -->
 
 ---
 
