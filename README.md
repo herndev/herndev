@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hans?!...](http://9gag.com/gag/az2pDej)
- - ⏩ [This one stuck with me. :/](http://9gag.com/gag/adPD4v9)
- - 👉 [Nothing and everything](http://9gag.com/gag/aBdBjA2)<!-- MEMES:END -->
+ - ⏩ [IDF blew up an entire neighborhood &lpar;30 buildings&rpar; in a few seconds.](http://9gag.com/gag/ap9Zzwp)
+ - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
 
 ---
 
