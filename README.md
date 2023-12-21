@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s holiday hurdle: ITC refuses company’s request to halt Apple Watch ban](https://www.androidauthority.com/apple-watch-ban-stay-rejected-3396353/)
- - [Apple AI researchers publish papers on using human gaussian splats to generate animated 3D avatars and deploying LLMs on devices with limited memory &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231221/p1#a231221p1)
- - [Email: Meta&#39;s India policy head Shivnath Thukral says the government could choose to apply its proposed telecom law to Meta&#39;s OTT services at a &quot;future date&quot; &lpar;Moneycontrol&rpar;](http://www.techmeme.com/231220/p34#a231220p34)<!-- TECH:END -->
+ - [X was down](https://www.theverge.com/2023/12/21/24010656/x-is-down-twitter-outage)
+ - [Twitter not working? Here are some things you can try!](https://www.androidauthority.com/twitter-not-working-1008338/)
+ - [A US appeals court finalizes a mandate for the forfeiture of 69,370 BTC and other crypto connected to Silk Road, handed over by a hacker named &quot;Individual X&quot; &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231221/p4#a231221p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
