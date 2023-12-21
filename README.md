@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)
- - ⏩ [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
- - 👉 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)<!-- MEMES:END -->
+ - 💣 [WTF again.](http://9gag.com/gag/aeQ8dGW)
+ - ⏩ [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
+ - 👉 [Birmingham, UK. The British are shopping at the Christmas sales.](http://9gag.com/gag/anzPdVb)<!-- MEMES:END -->
 
 ---
 
