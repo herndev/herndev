@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - ⏩ [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - 👉 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)<!-- MEMES:END -->
+ - 💣 [But , why?](http://9gag.com/gag/axoqQ4Y)
+ - ⏩ [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
+ - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
 
 ---
 
