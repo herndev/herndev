@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - ⏩ [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
- - 👉 [German kid humiliated and beaten. Normal school day in Germany](http://9gag.com/gag/aYVXZA7)<!-- MEMES:END -->
+ - 💣 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - ⏩ [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
+ - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
 
 ---
 
