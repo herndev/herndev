@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hans?!...](http://9gag.com/gag/az2pDej)
- - ⏩ [IDF blew up an entire neighborhood &lpar;30 buildings&rpar; in a few seconds.](http://9gag.com/gag/ap9Zzwp)
- - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
+ - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - ⏩ [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 👉 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)<!-- MEMES:END -->
 
 ---
 
