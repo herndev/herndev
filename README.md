@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data center infrastructure company Arkon Energy raised $110M to grow its US bitcoin mining capacity and plans to launch an AI cloud service in Norway &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231222/p14#a231222p14)
- - [Score a record 46% off the popular Anker 735 Nano II 65W Charger](https://www.androidauthority.com/anker-735-nano-ii-65w-charger-deal-3396855/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Humane announces AI Pin will start shipping in March](https://www.androidauthority.com/ai-pin-shipment-date-3396904/)
+ - [The future of clean hydrogen in the US could hinge on a new tax credit](https://www.theverge.com/2023/12/22/24012141/hydrogen-tax-credit-45v-biden-treasury-irs-clean-energy)
+ - [Microsoft just paid $76 million for a Wisconsin pumpkin farm](https://www.theverge.com/2023/12/22/24012534/microsoft-wisconsin-pumpkin-farm-foxconn-76-million-mount-pleasant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
