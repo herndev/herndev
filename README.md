@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you save or kill the Nightsong in Baldur’s Gate 3?](https://www.polygon.com/baldurs-gate-3-guides/24012733/save-kill-nightsong-choice-bg3)
- - [Where to find the Nightsong in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/24011304/nightsong-quest-location-bg3)
- - [TinyBuild closes indie publisher Versus Evil, all staff laid off](https://www.pcgamer.com/tinybuild-closes-indie-publisher-versus-evil-all-staff-laid-off)<!-- GAME:END -->
+ - [Should you side with He Who Was or Madeline in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23832181/he-who-was-madeline-bg3-forgive-punish-ledger-wicked)
+ - [One of our favorite early access shooters is approaching the finish line with the release of its creepiest chapter yet](https://www.pcgamer.com/one-of-our-favorite-early-access-shooters-is-approaching-the-finish-line-with-the-release-of-its-creepiest-chapter-yet)
+ - [Shuhei Yoshida’s favorite PlayStation indie games of 2023](https://blog.playstation.com/2023/12/22/shuhei-yoshidas-favorite-playstation-indie-games-of-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
