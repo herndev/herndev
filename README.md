@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humane says it will begin shipping its Ai Pin in March 2024, starting with customers who placed priority orders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p13#a231222p13)
- - [Humane’s AI Pin will start shipping in March](https://www.theverge.com/2023/12/22/24012429/humane-ai-pin-shipping-march)
- - [Steam’s Winter Sale is taking up to 60 percent off some of our favorite games](https://www.theverge.com/2023/12/22/24009370/steam-winter-sale-diablo-iv-elgato-stream-deck-mini-xl-deal)<!-- TECH:END -->
+ - [Data center infrastructure company Arkon Energy raised $110M to grow its US bitcoin mining capacity and plans to launch an AI cloud service in Norway &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231222/p14#a231222p14)
+ - [Score a record 46% off the popular Anker 735 Nano II 65W Charger](https://www.androidauthority.com/anker-735-nano-ii-65w-charger-deal-3396855/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
