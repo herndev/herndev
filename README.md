@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
- - ⏩ [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 💣 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
+ - ⏩ [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
  - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
 
 ---
