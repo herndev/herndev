@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
- - ⏩ [South American heroes](http://9gag.com/gag/a9qgeKZ)
- - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
+ - 💣 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - ⏩ [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
+ - 👉 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)<!-- MEMES:END -->
 
 ---
 
