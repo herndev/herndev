@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Trinity Fusion – Bring Down the Multiverse](https://news.xbox.com/en-us/2023/12/22/trinity-fusion-bring-down-the-multiverse/)
- - [Drive like a maniac for fun and profit in the Epic Store&#39;s next free game](https://www.pcgamer.com/drive-like-a-maniac-for-fun-and-profit-in-the-epic-stores-next-free-game)
- - [Can you earn XP and battle pass levels in Lego Fortnite?](https://www.polygon.com/23993586/lego-fortnite-xp-battle-pass-levels-earn)<!-- GAME:END -->
+ - [The 14 best Baldur’s Gate 3 quality-of-life and style mods](https://www.polygon.com/23993575/baldurs-gate-3-mods-best-how-to-download)
+ - [Drive like a maniac for fun and profit in the Epic Store&#39;s next free game](https://www.pcgamer.com/drive-like-a-maniac-for-fun-and-profit-in-the-epic-stores-next-free-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
