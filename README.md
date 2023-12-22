@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Four years after it was removed from sale, Paranoia: Happiness is Mandatory has returned](https://www.pcgamer.com/four-years-after-it-was-removed-from-sale-paranoia-happiness-is-mandatory-has-returned)
  - [I was so determined to get into Street Fighter 6 this year I built my own hitbox &lpar;but I still didn&#39;t get into Street Fighter&rpar;](https://www.pcgamer.com/i-was-so-determined-to-get-into-street-fighter-6-this-year-i-built-my-own-hitbox-but-i-still-didnt-get-into-street-fighter)
- - [How Bobby Kotick became &#39;the most hated man in videogames&#39;](https://www.pcgamer.com/bobby-kotick-retrospective)
- - [The final scene in the DCEU dares you to think of it as a metaphor for the whole franchise](https://www.polygon.com/24011071/aquaman-2-credits-scene-lost-kingdom)<!-- GAME:END -->
+ - [How Bobby Kotick became &#39;the most hated man in videogames&#39;](https://www.pcgamer.com/bobby-kotick-retrospective)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
