@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s just nine days left before Friday the 13th: The Game disappears from sale forever](https://www.pcgamer.com/theres-just-nine-days-left-before-friday-the-13th-the-game-disappears-from-sale-forever)
- - [2024 is going to be a defining year for Final Fantasy 14, and maybe Square Enix&#39;s last chance to tackle its stagnating formula](https://www.pcgamer.com/2024-is-going-to-be-a-defining-year-for-final-fantasy-14-and-maybe-square-enixs-last-chance-to-tackle-its-stagnating-formula)
- - [Thermaltake TGM-I27FQ review](https://www.pcgamer.com/thermaltake-tgm-i27fq-gaming-monitor-review)<!-- GAME:END -->
+ - [Solo board games are a salvation from an online world](https://www.polygon.com/tabletop-games/24010871/best-solo-board-games-zimp-under-falling-skies)
+ - [Shares in Chinese gaming giants tumble as the CCP imposes strict new regulations and spending limits, alongside a ban on login bonuses and &#39;luck-based draw features&#39; for minors](https://www.pcgamer.com/shares-in-chinese-gaming-giants-tumble-as-the-ccp-imposes-strict-new-regulations-and-spending-limits-alongside-a-ban-on-login-bonuses-and-luck-based-draw-features)
+ - [The 10 most important strategy games to look out for in 2024](https://www.pcgamer.com/the-10-most-important-strategy-games-to-look-out-for-in-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
