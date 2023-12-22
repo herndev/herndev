@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - ⏩ [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
- - 👉 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)<!-- MEMES:END -->
+ - 💣 [The compliment](http://9gag.com/gag/anzPwBB)
+ - ⏩ [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
+ - 👉 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)<!-- MEMES:END -->
 
 ---
 
