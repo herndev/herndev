@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trinity Fusion – Bring Down the Multiverse](https://news.xbox.com/en-us/2023/12/22/trinity-fusion-bring-down-the-multiverse/)
- - [The 14 best Baldur’s Gate 3 quality-of-life and style mods](https://www.polygon.com/23993575/baldurs-gate-3-mods-best-how-to-download)
- - [Drive like a maniac for fun and profit in the Epic Store&#39;s next free game](https://www.pcgamer.com/drive-like-a-maniac-for-fun-and-profit-in-the-epic-stores-next-free-game)<!-- GAME:END -->
+ - [TinyBuild closes indie publisher Versus Evil, all staff laid off](https://www.pcgamer.com/tinybuild-closes-indie-publisher-versus-evil-all-staff-laid-off)
+ - [How to make a 4-star sandwich in Pokémon Scarlet and Violet](https://www.polygon.com/24012481/make-4-star-sandwich-bbq-group-quest-herba-mystica)
+ - [Where to find Mol in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/24011303/find-mol-location-quest-bg3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
