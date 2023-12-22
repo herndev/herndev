@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Zelda: Ocarina of Time is the anti-Breath of the Wild](https://www.polygon.com/zelda/24010737/zelda-ocarina-of-time-breath-of-the-wild-nintendo-switch)
- - [&#39;Every stone will not be turned for years&#39; says Baldur&#39;s Gate 3&#39;s principal narrative designer, on its many hidden outcomes](https://www.pcgamer.com/every-stone-will-not-be-turned-for-years-says-baldurs-gate-3s-principal-narrative-designer-on-its-many-hidden-outcomes)
- - [Zack Snyder says Rebel Moon’s R-rated cut ‘takes place in a slightly different dimension’](https://www.polygon.com/2023/12/22/24012244/rebel-moon-r-rated-directors-cut-zack-snyder)<!-- GAME:END -->
+ - [Railbreak’s Ballistic Bloodshed Wreaks Arcade Havoc Today on Xbox Series X|S](https://news.xbox.com/en-us/2023/12/22/railbreak-wreaks-arcade-havoc-today-on-xbox/)
+ - [7 more Seven Samurai stories to watch after Rebel Moon](https://www.polygon.com/what-to-watch/24006222/movies-like-seven-samurai-kurosawa-rebel-moon)
+ - [PlayStation classic Alien Resurrection hides one heck of a piracy secret](https://www.polygon.com/gaming/24012392/playstation-alien-resurrection-backup-disc-cheat-exploit-piracy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
