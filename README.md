@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you think Google Assistant has gotten better or worse over the years?](https://www.androidauthority.com/poll-google-assistant-better-or-worse-3396777/)
- - [Former employees say Meta considered measures to limit encryption but rejected them to avoid potential liability for kids&#39; safety on its apps and to cut costs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231222/p4#a231222p4)
- - [How Not to Be Stupid About AI, With Yann LeCun](https://www.wired.com/story/artificial-intelligence-meta-yann-lecun-interview/)<!-- TECH:END -->
+ - [Revolut publishes delayed 2022 accounts, removing a hurdle in its UK banking license bid; revenue grew 45% YoY to &amp;pound;922.5M, while pretax loss grew to &amp;pound;25.4Mg2 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231222/p6#a231222p6)
+ - [The Gmail app now gives you an easier way to unsubscribe &lpar;on iOS&rpar;](https://www.androidauthority.com/gmail-unsubscribe-button-ios-3396785/)
+ - [Sources: Apple blocking Beeper Mini has caught the attention of the DOJ, which is in the middle of a four-year-old probe into Apple&#39;s anticompetitive behavior &lpar;New York Times&rpar;](http://www.techmeme.com/231222/p5#a231222p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
