@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But , why?](http://9gag.com/gag/axoqQ4Y)
- - ⏩ [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
+ - 💣 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - ⏩ [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 👉 [Javier](http://9gag.com/gag/ay2jwR8)<!-- MEMES:END -->
 
 ---
 
