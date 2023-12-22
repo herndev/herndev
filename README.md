@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s just nine days left before Friday the 13th: The Game disappears from sale forever](https://www.pcgamer.com/theres-just-nine-days-left-before-friday-the-13th-the-game-disappears-from-sale-forever)
  - [2024 is going to be a defining year for Final Fantasy 14, and maybe Square Enix&#39;s last chance to tackle its stagnating formula](https://www.pcgamer.com/2024-is-going-to-be-a-defining-year-for-final-fantasy-14-and-maybe-square-enixs-last-chance-to-tackle-its-stagnating-formula)
- - [Thermaltake TGM-I27FQ review](https://www.pcgamer.com/thermaltake-tgm-i27fq-gaming-monitor-review)
- - [Five Nights at Freddy&#39;s Roblox game debuts by accident because series&#39; creator &#39;approved a skin&#39;—devs say it was a beta, then nuke its Discord over unholy NSFW content](https://www.pcgamer.com/five-nights-at-freddys-roblox-game-debuts-by-accident-because-series-creator-approved-a-skindevs-say-it-was-a-beta-then-nuke-its-discord-over-unholy-nsfw-content)<!-- GAME:END -->
+ - [Thermaltake TGM-I27FQ review](https://www.pcgamer.com/thermaltake-tgm-i27fq-gaming-monitor-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
