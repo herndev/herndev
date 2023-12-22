@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The compliment](http://9gag.com/gag/anzPwBB)
- - ⏩ [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
- - 👉 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)<!-- MEMES:END -->
+ - 💣 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
+ - ⏩ [Stephen? How is that tail attached?](http://9gag.com/gag/aBdBbNZ)
+ - 👉 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)<!-- MEMES:END -->
 
 ---
 
