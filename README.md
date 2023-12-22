@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - ⏩ [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
- - 👉 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)<!-- MEMES:END -->
+ - 💣 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - ⏩ [South American heroes](http://9gag.com/gag/a9qgeKZ)
+ - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
 
 ---
 
