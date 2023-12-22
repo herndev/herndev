@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I appeal to all my fellow wankers too.](http://9gag.com/gag/az2py8m)
- - ⏩ [We&#39;re all eating each other](http://9gag.com/gag/agozevv)
- - 👉 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)<!-- MEMES:END -->
+ - 💣 [The best way to learn French](http://9gag.com/gag/axoq8Pp)
+ - ⏩ [Javier](http://9gag.com/gag/ay2jwR8)
+ - 👉 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)<!-- MEMES:END -->
 
 ---
 
