@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Solo board games are a salvation from an online world](https://www.polygon.com/tabletop-games/24010871/best-solo-board-games-zimp-under-falling-skies)
- - [Shares in Chinese gaming giants tumble as the CCP imposes strict new regulations and spending limits, alongside a ban on login bonuses and &#39;luck-based draw features&#39; for minors](https://www.pcgamer.com/shares-in-chinese-gaming-giants-tumble-as-the-ccp-imposes-strict-new-regulations-and-spending-limits-alongside-a-ban-on-login-bonuses-and-luck-based-draw-features)
- - [The 10 most important strategy games to look out for in 2024](https://www.pcgamer.com/the-10-most-important-strategy-games-to-look-out-for-in-2024)<!-- GAME:END -->
+ - [Interpol busts 3,500 alleged cybercriminals and scammers, seizes $300 million of ill-gotten proceeds, and warns about the rise of the NFT &#39;rug pull&#39;](https://www.pcgamer.com/interpol-busts-3500-alleged-cybercriminals-and-scammers-seizes-dollar300-million-of-ill-gotten-proceeds-and-warns-about-the-rise-of-the-nft-rug-pull)
+ - [&#39;This experience has been extremely distressing&#39;: Insomniac shares a statement in response to catastrophic ransomware attack, including hopes for Wolverine&#39;s future](https://www.pcgamer.com/this-experience-has-been-extremely-distressing-insomniac-shares-a-statement-in-response-to-catastrophic-ransomware-attack-including-hopes-for-wolverines-future)
+ - [South Park: Snow Day gets a release date and a $220 special edition with a talking toilet roll holder](https://www.pcgamer.com/south-park-snow-day-will-dribble-icily-down-your-back-in-march-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
