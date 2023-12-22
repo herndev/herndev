@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
- - ⏩ [Mom Exposed](http://9gag.com/gag/anzPowB)
- - 👉 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)<!-- MEMES:END -->
+ - 💣 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - ⏩ [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
 
 ---
 
