@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ScamSniffer: Google and X ads are promoting sites containing a crypto drainer named &quot;MS Drainer&quot; that has stolen $59M from 63,210 victims since March 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231222/p3#a231222p3)
  - [Toshiba sees power management chips as a profit driver and plans to spend ~$175M to double production as the company completes its $14B buyout by PE firm JIP &lpar;Makiko Yamazaki/Reuters&rpar;](http://www.techmeme.com/231222/p2#a231222p2)
- - [Android Auto can now reflect your phone icons &lpar;if you’ve got a Samsung phone&rpar;](https://www.androidauthority.com/android-auto-samsung-phone-icons-3396740/)
- - [Another OnePlus 12R leak shows this phone could be a mid-range king](https://www.androidauthority.com/oneplus-12r-leak-specs-3396735/)<!-- TECH:END -->
+ - [Android Auto can now reflect your phone icons &lpar;if you’ve got a Samsung phone&rpar;](https://www.androidauthority.com/android-auto-samsung-phone-icons-3396740/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
