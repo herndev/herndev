@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TinyBuild closes indie publisher Versus Evil, all staff laid off](https://www.pcgamer.com/tinybuild-closes-indie-publisher-versus-evil-all-staff-laid-off)
- - [How to make a 4-star sandwich in Pokémon Scarlet and Violet](https://www.polygon.com/24012481/make-4-star-sandwich-bbq-group-quest-herba-mystica)
- - [Where to find Mol in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/24011303/find-mol-location-quest-bg3)<!-- GAME:END -->
+ - [Should you save or kill the Nightsong in Baldur’s Gate 3?](https://www.polygon.com/baldurs-gate-3-guides/24012733/save-kill-nightsong-choice-bg3)
+ - [Where to find the Nightsong in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/24011304/nightsong-quest-location-bg3)
+ - [TinyBuild closes indie publisher Versus Evil, all staff laid off](https://www.pcgamer.com/tinybuild-closes-indie-publisher-versus-evil-all-staff-laid-off)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
