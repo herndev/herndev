@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Railbreak’s Ballistic Bloodshed Wreaks Arcade Havoc Today on Xbox Series X|S](https://news.xbox.com/en-us/2023/12/22/railbreak-wreaks-arcade-havoc-today-on-xbox/)
- - [7 more Seven Samurai stories to watch after Rebel Moon](https://www.polygon.com/what-to-watch/24006222/movies-like-seven-samurai-kurosawa-rebel-moon)
- - [PlayStation classic Alien Resurrection hides one heck of a piracy secret](https://www.polygon.com/gaming/24012392/playstation-alien-resurrection-backup-disc-cheat-exploit-piracy)<!-- GAME:END -->
+ - [Trinity Fusion – Bring Down the Multiverse](https://news.xbox.com/en-us/2023/12/22/trinity-fusion-bring-down-the-multiverse/)
+ - [Drive like a maniac for fun and profit in the Epic Store&#39;s next free game](https://www.pcgamer.com/drive-like-a-maniac-for-fun-and-profit-in-the-epic-stores-next-free-game)
+ - [Can you earn XP and battle pass levels in Lego Fortnite?](https://www.polygon.com/23993586/lego-fortnite-xp-battle-pass-levels-earn)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
