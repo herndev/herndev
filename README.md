@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - ⏩ [I think I ate the dogs food](http://9gag.com/gag/abvnoML)
+ - 💣 [Shooting at the Faculty of Philosophy in Prague, students hiding on the roof. Shooter is now dead and the number of dead people is yet to be reported.](http://9gag.com/gag/ajVevZp)
+ - ⏩ [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
  - 👉 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)<!-- MEMES:END -->
 
 ---
