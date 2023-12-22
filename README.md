@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The compliment](http://9gag.com/gag/anzPwBB)
- - ⏩ [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
- - 👉 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)<!-- MEMES:END -->
+ - 💣 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - ⏩ [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
+ - 👉 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)<!-- MEMES:END -->
 
 ---
 
