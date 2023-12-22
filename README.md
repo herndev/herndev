@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #916 for Friday, December 22](https://www.pcgamer.com/wordle-today-answer-916-december-22)
- - [Four years after it was removed from sale, Paranoia: Happiness is Mandatory has returned](https://www.pcgamer.com/four-years-after-it-was-removed-from-sale-paranoia-happiness-is-mandatory-has-returned)
- - [I was so determined to get into Street Fighter 6 this year I built my own hitbox &lpar;but I still didn&#39;t get into Street Fighter&rpar;](https://www.pcgamer.com/i-was-so-determined-to-get-into-street-fighter-6-this-year-i-built-my-own-hitbox-but-i-still-didnt-get-into-street-fighter)<!-- GAME:END -->
+ - [It&#39;s apparently down to AMD whether Nvidia releases its RTX 50-series GPUs in 2024 or not](https://www.pcgamer.com/its-apparently-down-to-amd-whether-nvidia-releases-its-rtx-50-series-gpus-in-2024-or-not)
+ - [Gloomwood&#39;s Christmas update invites you to step into the Mirror Realm](https://www.pcgamer.com/gloomwoods-christmas-update-invites-you-to-step-into-the-mirror-realm)
+ - [Wordle today: Hint and answer #916 for Friday, December 22](https://www.pcgamer.com/wordle-today-answer-916-december-22)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
