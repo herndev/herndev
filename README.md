@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The best way to learn French](http://9gag.com/gag/axoq8Pp)
- - ⏩ [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
- - 👉 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)<!-- MEMES:END -->
+ - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - ⏩ [I think I ate the dogs food](http://9gag.com/gag/abvnoML)
+ - 👉 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)<!-- MEMES:END -->
 
 ---
 
