@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
- - ⏩ [It\u2019s Chromium, all the way down](http://9gag.com/gag/a04y3eO)
- - 👉 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)<!-- MEMES:END -->
+ - 💣 [I appeal to all my fellow wankers too.](http://9gag.com/gag/az2py8m)
+ - ⏩ [We&#39;re all eating each other](http://9gag.com/gag/agozevv)
+ - 👉 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)<!-- MEMES:END -->
 
 ---
 
