@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another OnePlus 12R leak shows this phone could be a mid-range king](https://www.androidauthority.com/oneplus-12r-leak-specs-3396735/)
- - [Here’s how your old iPhone might get on-device generative AI](https://www.androidauthority.com/apple-on-device-generative-ai-iphones-research-3396717/)
- - [Apple halts smartwatch sales and replacements in the US](https://www.androidauthority.com/apple-watch-sales-replacements-halted-3396718/)<!-- TECH:END -->
+ - [Toshiba sees power management chips as a profit driver and plans to spend ~$175M to double production as the company completes its $14B buyout by PE firm JIP &lpar;Makiko Yamazaki/Reuters&rpar;](http://www.techmeme.com/231222/p2#a231222p2)
+ - [Android Auto can now reflect your phone icons &lpar;if you’ve got a Samsung phone&rpar;](https://www.androidauthority.com/android-auto-samsung-phone-icons-3396740/)
+ - [Another OnePlus 12R leak shows this phone could be a mid-range king](https://www.androidauthority.com/oneplus-12r-leak-specs-3396735/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
