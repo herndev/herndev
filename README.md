@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Launches LEGO Fortnite, Rocket Racing, and Fortnite Festival – All Out Now](https://news.xbox.com/en-us/2023/12/12/fortnite-launches-lego-fortnite-rocket-racing-and-fortnite-festival-all-out-now/)
- - [E3 is 100% dead](https://www.polygon.com/23998280/e3-canceled-2023)
- - [Epic Games Wins Shocking Upset In Google Monopoly Trial](https://kotaku.com/fortnite-epic-v-google-monopoly-trial-apple-1851092124)<!-- GAME:END -->
+ - [I was so determined to get into Street Fighter 6 this year I built my own hitbox &lpar;but I still didn&#39;t get into Street Fighter&rpar;](https://www.pcgamer.com/i-was-so-determined-to-get-into-street-fighter-6-this-year-i-built-my-own-hitbox-but-i-still-didnt-get-into-street-fighter)
+ - [How Bobby Kotick became &#39;the most hated man in videogames&#39;](https://www.pcgamer.com/bobby-kotick-retrospective)
+ - [The final scene in the DCEU dares you to think of it as a metaphor for the whole franchise](https://www.polygon.com/24011071/aquaman-2-credits-scene-lost-kingdom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
