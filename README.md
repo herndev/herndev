@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest countries to buy a MacBook Air](https://www.androidauthority.com/cheapest-place-to-buy-macbook-air-3396577/)
- - [Sources: Apple discussed multiyear deals worth $50M+ with NBC News, Cond&amp;eacute; Nast, IAC, and other publishers to train its generative AI systems on news articles &lpar;New York Times&rpar;](http://www.techmeme.com/231222/p16#a231222p16)
- - [Court docs: how false claims and risky trades by the HeadSpin CEO and a lack of oversight by investors like GV and Iconiq Capital led to the startup&#39;s implosion &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/231222/p15#a231222p15)<!-- TECH:END -->
+ - [Court docs: Google considered changing its Play Store pricing model in 2021 but abandoned the plans over potential $1B-$2B losses for apps and $6B-$9B for games &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p19#a231222p19)
+ - [Apple reportedly wants to use the news to help train its AI models](https://www.theverge.com/2023/12/22/24012730/apple-ai-models-news-publishers)
+ - [Sources: OpenAI is in early talks to raise funding at a $100B+ valuation, and discussed raising between $8B and $10B from Abu Dhabi-based G42 for a chip venture &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p18#a231222p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
