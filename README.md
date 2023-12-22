@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Interpol busts 3,500 alleged cybercriminals and scammers, seizes $300 million of ill-gotten proceeds, and warns about the rise of the NFT &#39;rug pull&#39;](https://www.pcgamer.com/interpol-busts-3500-alleged-cybercriminals-and-scammers-seizes-dollar300-million-of-ill-gotten-proceeds-and-warns-about-the-rise-of-the-nft-rug-pull)
- - [&#39;This experience has been extremely distressing&#39;: Insomniac shares a statement in response to catastrophic ransomware attack, including hopes for Wolverine&#39;s future](https://www.pcgamer.com/this-experience-has-been-extremely-distressing-insomniac-shares-a-statement-in-response-to-catastrophic-ransomware-attack-including-hopes-for-wolverines-future)
- - [South Park: Snow Day gets a release date and a $220 special edition with a talking toilet roll holder](https://www.pcgamer.com/south-park-snow-day-will-dribble-icily-down-your-back-in-march-next-year)<!-- GAME:END -->
+ - [The Legend of Zelda: Ocarina of Time is the anti-Breath of the Wild](https://www.polygon.com/zelda/24010737/zelda-ocarina-of-time-breath-of-the-wild-nintendo-switch)
+ - [&#39;Every stone will not be turned for years&#39; says Baldur&#39;s Gate 3&#39;s principal narrative designer, on its many hidden outcomes](https://www.pcgamer.com/every-stone-will-not-be-turned-for-years-says-baldurs-gate-3s-principal-narrative-designer-on-its-many-hidden-outcomes)
+ - [Zack Snyder says Rebel Moon’s R-rated cut ‘takes place in a slightly different dimension’](https://www.polygon.com/2023/12/22/24012244/rebel-moon-r-rated-directors-cut-zack-snyder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
