@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
+ - 💣 [You\u2019re not the problem, they are the problem](http://9gag.com/gag/a8qxvj1)
  - ⏩ [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
- - 👉 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)<!-- MEMES:END -->
+ - 👉 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)<!-- MEMES:END -->
 
 ---
 
