@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Another OnePlus 12R leak shows this phone could be a mid-range king](https://www.androidauthority.com/oneplus-12r-leak-specs-3396735/)
  - [Here’s how your old iPhone might get on-device generative AI](https://www.androidauthority.com/apple-on-device-generative-ai-iphones-research-3396717/)
- - [Apple halts smartwatch sales and replacements in the US](https://www.androidauthority.com/apple-watch-sales-replacements-halted-3396718/)
- - [China publishes draft rules for online gaming, including setting spending limits and banning daily login rewards; Tencent plunges 10%+ and NetEase 20%+ &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231222/p1#a231222p1)<!-- TECH:END -->
+ - [Apple halts smartwatch sales and replacements in the US](https://www.androidauthority.com/apple-watch-sales-replacements-halted-3396718/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
