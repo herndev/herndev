@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nature is f**king scary](http://9gag.com/gag/aKEoyqN)
- - ⏩ [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 👉 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)<!-- MEMES:END -->
+ - 💣 [The best way to learn French](http://9gag.com/gag/axoq8Pp)
+ - ⏩ [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
+ - 👉 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)<!-- MEMES:END -->
 
 ---
 
