@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
- - ⏩ [Stephen? How is that tail attached?](http://9gag.com/gag/aBdBbNZ)
- - 👉 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)<!-- MEMES:END -->
+ - 💣 [But , why?](http://9gag.com/gag/axoqQ4Y)
+ - ⏩ [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - 👉 [Shooting at the Faculty of Philosophy in Prague, students hiding on the roof. Shooter is now dead and the number of dead people is yet to be reported.](http://9gag.com/gag/ajVevZp)<!-- MEMES:END -->
 
 ---
 
