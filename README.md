@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - ⏩ [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
- - 👉 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)<!-- MEMES:END -->
+ - 💣 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - ⏩ [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
+ - 👉 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)<!-- MEMES:END -->
 
 ---
 
