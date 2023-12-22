@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome’s password safety tool will now automatically run in the background](https://www.theverge.com/2023/12/21/24011655/google-chrome-safety-check-password-background)
- - [Apple Store Infinite Loop is closing for good January 20](https://appleinsider.com/articles/23/12/21/apple-store-infinite-loop-is-closing-for-good-january-20?utm_medium=rss)
- - [Behold! Someone is investing in a podcast company](https://www.theverge.com/2023/12/21/24011567/podcast-podimo-funding-siriusxm-lawsuit)<!-- TECH:END -->
+ - [Insomniac&#39;s hacked files show challenges it faces juggling teams, timelines, and budgets amid possible Sony cuts; Spider-Man 2 cost ~$300M, 3x 2018&#39;s Spider-Man &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/231221/p24#a231221p24)
+ - [Google and Samsung might be merging Nearby Share and Quick Share](https://www.androidauthority.com/google-samsung-quick-share-3396681/)
+ - [Chrome’s password safety tool will now automatically run in the background](https://www.theverge.com/2023/12/21/24011655/google-chrome-safety-check-password-background)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
