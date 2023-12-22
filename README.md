@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s apparently down to AMD whether Nvidia releases its RTX 50-series GPUs in 2024 or not](https://www.pcgamer.com/its-apparently-down-to-amd-whether-nvidia-releases-its-rtx-50-series-gpus-in-2024-or-not)
- - [Gloomwood&#39;s Christmas update invites you to step into the Mirror Realm](https://www.pcgamer.com/gloomwoods-christmas-update-invites-you-to-step-into-the-mirror-realm)
- - [Wordle today: Hint and answer #916 for Friday, December 22](https://www.pcgamer.com/wordle-today-answer-916-december-22)<!-- GAME:END -->
+ - [2024 is going to be a defining year for Final Fantasy 14, and maybe Square Enix&#39;s last chance to tackle its stagnating formula](https://www.pcgamer.com/2024-is-going-to-be-a-defining-year-for-final-fantasy-14-and-maybe-square-enixs-last-chance-to-tackle-its-stagnating-formula)
+ - [Thermaltake TGM-I27FQ review](https://www.pcgamer.com/thermaltake-tgm-i27fq-gaming-monitor-review)
+ - [Five Nights at Freddy&#39;s Roblox game debuts by accident because series&#39; creator &#39;approved a skin&#39;—devs say it was a beta, then nuke its Discord over unholy NSFW content](https://www.pcgamer.com/five-nights-at-freddys-roblox-game-debuts-by-accident-because-series-creator-approved-a-skindevs-say-it-was-a-beta-then-nuke-its-discord-over-unholy-nsfw-content)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
