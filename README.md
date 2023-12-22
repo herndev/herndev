@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But , why?](http://9gag.com/gag/axoqQ4Y)
- - ⏩ [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 👉 [Shooting at the Faculty of Philosophy in Prague, students hiding on the roof. Shooter is now dead and the number of dead people is yet to be reported.](http://9gag.com/gag/ajVevZp)<!-- MEMES:END -->
+ - 💣 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
+ - ⏩ [It\u2019s Chromium, all the way down](http://9gag.com/gag/a04y3eO)
+ - 👉 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)<!-- MEMES:END -->
 
 ---
 
