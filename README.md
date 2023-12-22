@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2024 in laptops: it’s shaping up to be a big year for Windows](https://www.theverge.com/23979164/laptops-2024-ai-surface-windows-intel-amd)
- - [Prosecutors: Pornhub operator Aylo admits that it had profited from porn that depicted sex trafficking victims, will pay a $1.8M fine and be assigned a monitor &lpar;Erin Nolan/New York Times&rpar;](http://www.techmeme.com/231222/p7#a231222p7)
- - [Apple Watch ban, new CarPlay, and Beeper struggles on the AppleInsider podcast](https://appleinsider.com/articles/23/12/22/apple-watch-ban-new-carplay-and-beeper-struggles-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [EU member states reject a provisional deal that would have required platforms like Uber and Deliveroo to give full employment status to around 5.5M gig workers &lpar;Max Ramsay/Bloomberg&rpar;](http://www.techmeme.com/231222/p9#a231222p9)
+ - [How SoftBank&#39;s $500M bet on US mortgage lender Better, once valued at $7B, backfired; BETR is down 90%+ since its August 2023 IPO after a US SEC investigation &lpar;Financial Times&rpar;](http://www.techmeme.com/231222/p8#a231222p8)
+ - [Google’s ChatGPT competitor Bard is nearly as good — just slower](https://www.theverge.com/24011112/google-bard-gemini-chatgpt-openai-compared)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
