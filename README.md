@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ASUS ROG Ally is a steal at $200 off](https://www.androidauthority.com/asus-rog-ally-deal-3396833/)
- - [OnePlus Open is getting a pretty sizeable update](https://www.androidauthority.com/oneplus-open-patch-3396824/)
- - [Spotify pulls support for two music festivals in France, in protest against a new tax that will impose a levy of 1.5% to 1.75% on all music-streaming services &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231222/p11#a231222p11)<!-- TECH:END -->
+ - [Humane says it will begin shipping its Ai Pin in March 2024, starting with customers who placed priority orders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p13#a231222p13)
+ - [Humane’s AI Pin will start shipping in March](https://www.theverge.com/2023/12/22/24012429/humane-ai-pin-shipping-march)
+ - [Steam’s Winter Sale is taking up to 60 percent off some of our favorite games](https://www.theverge.com/2023/12/22/24009370/steam-winter-sale-diablo-iv-elgato-stream-deck-mini-xl-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
