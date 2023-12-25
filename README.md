@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2023&#39;s Best Video Game Villain Isn&#39;t Who You Think](https://kotaku.com/best-video-game-villain-2023-armored-core-6-acvi-iguazu-1851108825)
- - [I played 40 hours of Sons of the Forest without the killer cannibals, and it was a blast](https://www.pcgamer.com/i-played-40-hours-of-sons-of-the-forest-without-the-killer-cannibals-and-it-was-a-blast)
- - [Best Design 2023: Dave the Diver](https://www.pcgamer.com/best-design-2023-dave-the-diver)<!-- GAME:END -->
+ - [Live service gaming&#39;s best new trend is actually an old one: letting players decide how to have fun](https://www.pcgamer.com/live-service-gamings-best-new-trend-is-actually-an-old-one-letting-players-decide-how-to-have-fun)
+ - [The biggest gaming controversies of 2023, part 2](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2023-part-2)
+ - [Ever wondered what your gaming PC is telling the world about you? Here&#39;s why your privacy matters and what you can do to protect it](https://www.pcgamer.com/why-privacy-matters-for-pc-gamers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
