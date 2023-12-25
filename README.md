@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best of the rest of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-of-the-rest-of-2023)
- - [PC Gamer Hardware Awards: The best handheld gaming PC of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-handheld-gaming-pc-of-2023)
- - [Steam keeps on winning](https://www.pcgamer.com/steam-keeps-on-winning)<!-- GAME:END -->
+ - [2023&#39;s Best Video Game Villain Isn&#39;t Who You Think](https://kotaku.com/best-video-game-villain-2023-armored-core-6-acvi-iguazu-1851108825)
+ - [I played 40 hours of Sons of the Forest without the killer cannibals, and it was a blast](https://www.pcgamer.com/i-played-40-hours-of-sons-of-the-forest-without-the-killer-cannibals-and-it-was-a-blast)
+ - [Best Design 2023: Dave the Diver](https://www.pcgamer.com/best-design-2023-dave-the-diver)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
