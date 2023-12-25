@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your dad after finding your league account](http://9gag.com/gag/awZENN8)
- - ⏩ [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
- - 👉 [Don&#39;t have anyone to celebrate Christmas with so decided to feast on some steak. Merry Christmas everyone. I dumped all the leftover juice from steak on the fries.](http://9gag.com/gag/a7qYLwL)<!-- MEMES:END -->
+ - 💣 [Canada is a WOKE nightmare](http://9gag.com/gag/aEq9vPG)
+ - ⏩ [Have you seen second coming of the kermit?](http://9gag.com/gag/a4oXp76)
+ - 👉 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)<!-- MEMES:END -->
 
 ---
 
