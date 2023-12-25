@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mask of the Phantasm is still the best Batman movie](https://www.polygon.com/24007816/best-batman-movie-mask-of-phantasm)
  - [Live service gaming&#39;s best new trend is actually an old one: letting players decide how to have fun](https://www.pcgamer.com/live-service-gamings-best-new-trend-is-actually-an-old-one-letting-players-decide-how-to-have-fun)
- - [The biggest gaming controversies of 2023, part 2](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2023-part-2)
- - [Ever wondered what your gaming PC is telling the world about you? Here&#39;s why your privacy matters and what you can do to protect it](https://www.pcgamer.com/why-privacy-matters-for-pc-gamers)<!-- GAME:END -->
+ - [The biggest gaming controversies of 2023, part 2](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2023-part-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
