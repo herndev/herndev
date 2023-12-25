@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mask of the Phantasm is still the best Batman movie](https://www.polygon.com/24007816/best-batman-movie-mask-of-phantasm)
- - [Live service gaming&#39;s best new trend is actually an old one: letting players decide how to have fun](https://www.pcgamer.com/live-service-gamings-best-new-trend-is-actually-an-old-one-letting-players-decide-how-to-have-fun)
- - [The biggest gaming controversies of 2023, part 2](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2023-part-2)<!-- GAME:END -->
+ - [Dear Cyberpunk 2077, please let me role-play as someone with manners](https://www.polygon.com/gaming/24012650/cyberpunk-2077-v-cd-projekt-red-claire-russell-npc-afterlife)
+ - [The biggest hardware surprise of 2023 for me was how damned good Lenovo Legion laptops are now](https://www.pcgamer.com/the-biggest-hardware-surprise-of-2023-for-me-was-how-damned-good-lenovo-legion-laptops-are-now)
+ - [After thousands of microgames, how does WarioWare stay fresh?](https://www.polygon.com/23996679/warioware-move-it-interview-nintendo-goro-abe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
