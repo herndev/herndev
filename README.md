@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer Hardware Awards: The best of the rest of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-of-the-rest-of-2023)
  - [PC Gamer Hardware Awards: The best handheld gaming PC of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-handheld-gaming-pc-of-2023)
- - [Steam keeps on winning](https://www.pcgamer.com/steam-keeps-on-winning)
- - [Wordle today: Hint and answer #919 for Monday, December 25](https://www.pcgamer.com/wordle-today-answer-919-december-25)<!-- GAME:END -->
+ - [Steam keeps on winning](https://www.pcgamer.com/steam-keeps-on-winning)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
