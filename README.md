@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome&#39;s Safety Check feature, which checks if users&#39; saved passwords have been compromised, will now run automatically in the background on desktop &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231225/p7#a231225p7)
- - [Best Queen Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
- - [Need to Return a Gift? Here Are All the Major Retailers&#39; Holiday Return Policies     - CNET](https://www.cnet.com/tech/need-to-return-a-gift-here-are-all-the-major-retailers-holiday-return-policies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Got a new PS5? Here are 8 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
+ - [Got a new phone? Here’s how to switch like a pro](https://www.androidauthority.com/how-to-switch-phones-901221/)
+ - [Best Internet Providers for Unlimited Data     - CNET](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
