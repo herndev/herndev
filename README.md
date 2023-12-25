@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
- - ⏩ [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
+ - 💣 [Your dad after finding your league account](http://9gag.com/gag/awZENN8)
+ - ⏩ [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
+ - 👉 [Don&#39;t have anyone to celebrate Christmas with so decided to feast on some steak. Merry Christmas everyone. I dumped all the leftover juice from steak on the fries.](http://9gag.com/gag/a7qYLwL)<!-- MEMES:END -->
 
 ---
 
