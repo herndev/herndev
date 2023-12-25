@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GTA V source code appears to have been leaked on Discord, Telegram, a dark web site, and more, a little over a year after Rockstar was hacked &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231225/p6#a231225p6)
  - [After vocal commitments following George Floyd&#39;s murder in 2020, DEI programs at Big Tech companies, including Meta and Google, are in broad retreat in 2023 &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/231225/p5#a231225p5)
- - [How to move your data and apps to a new iPad](https://appleinsider.com/articles/20/09/14/how-to-move-your-data-and-apps-to-a-new-ipad?utm_medium=rss)
- - [Garmin Fenix 8 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-fenix-8-3391386/)<!-- TECH:END -->
+ - [How to move your data and apps to a new iPad](https://appleinsider.com/articles/20/09/14/how-to-move-your-data-and-apps-to-a-new-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
