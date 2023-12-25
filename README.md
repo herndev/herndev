@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone’s getting their podcast lawsuits in before the year is over](https://www.theverge.com/2023/12/22/24012794/podcast-lawsuit-siriusxm-laura-ingraham-spotify-france-who-shat-at-my-wedding)
- - [AI companies would be required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
- - [Court docs: Google considered changing its Play Store pricing model in 2021 but abandoned the plans over potential $1B-$2B losses for apps and $6B-$9B for games &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p19#a231222p19)<!-- TECH:END -->
+ - [Merry Christmas from all of us, here at AppleInsider](https://appleinsider.com/articles/23/12/25/merry-christmas-from-all-of-us-here-at-appleinsider?utm_medium=rss)
+ - [Apple halts Apple Watch Series 9, Apple Watch Ultra 2 sales in U.S. Apple Stores ahead of ITC ban](https://appleinsider.com/articles/23/12/24/apple-halts-apple-watch-series-9-apple-watch-ultra-2-sales-in-us-apple-stores-ahead-of-itc-ban?utm_medium=rss)
+ - [A profile of Yi He, a former talk-show host, who co-founded Binance with Changpeng Zhao and has sweeping control over its marketing and investment divisions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231224/p10#a231224p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
