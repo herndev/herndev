@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
- - ⏩ [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
- - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
+ - 💣 [Merry Christmas to all you morons and retards who also spend Christmas eve alone. Love you guys. Life would be a lot less fun without you.](http://9gag.com/gag/abvnjmE)
+ - ⏩ [Christmas memories that last a lifetime](http://9gag.com/gag/a3Z6vM8)
+ - 👉 [Time is dragging](http://9gag.com/gag/aqeov0M)<!-- MEMES:END -->
 
 ---
 
