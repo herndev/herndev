@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christmas memories that last a lifetime](http://9gag.com/gag/a3Z6vM8)
- - ⏩ [Merry Christmas to all you morons and retards who also spend Christmas eve alone. Love you guys. Life would be a lot less fun without you.](http://9gag.com/gag/abvnjmE)
- - 👉 [Tipping is not mandatory.its a way to show appreciation for the service you receive. I absolutely hate it when restaurants in the US try to force/shame you into tipping more.](http://9gag.com/gag/aNwEynr)<!-- MEMES:END -->
+ - 💣 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
+ - ⏩ [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - 👉 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)<!-- MEMES:END -->
 
 ---
 
