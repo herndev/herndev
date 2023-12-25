@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Canada is a WOKE nightmare](http://9gag.com/gag/aEq9vPG)
- - ⏩ [Have you seen second coming of the kermit?](http://9gag.com/gag/a4oXp76)
- - 👉 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)<!-- MEMES:END -->
+ - 💣 [Lost her in every universe](http://9gag.com/gag/az2pnWm)
+ - ⏩ [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 👉 [Teach them early, teach them well... oh, btw, be carrying as well](http://9gag.com/gag/aNw7m2A)<!-- MEMES:END -->
 
 ---
 
