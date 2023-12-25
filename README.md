@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current Mortgage Rates for Dec. 25, 2023: Rates Cool Off for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-rates-for-dec-25-2023-rates-cool-off-for-homeseekers/#ftag=CAD590a51e)
- - [Mortgage Refinance Rates for Dec. 25, 2023: Rates Decline for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-for-dec-25-2023-rates-decline-for-homeowners/#ftag=CAD590a51e)
- - [Best Verizon Phone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US is focusing on blocking North Korea&#39;s ability to launder its crypto stolen via cyberattacks, which the US thinks funds North Korea&#39;s weapons programs &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/231225/p3#a231225p3)
+ - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
+ - [The Best TV Shows You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-you-missed-in-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
