@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Researchers: an updated Chameleon trojan uses an HTML page trick to disrupt biometrics on Android like Face Unlock to steal PINs and unlock the device at will &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231224/p12#a231224p12)
  - [China approves 105 local games, including titles from Tencent and NetEase, after the announcement of a new set of restrictions led to a $80B rout last week &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231224/p11#a231224p11)
- - [Merry Christmas from all of us, here at AppleInsider](https://appleinsider.com/articles/23/12/25/merry-christmas-from-all-of-us-here-at-appleinsider?utm_medium=rss)<!-- TECH:END -->
+ - [Best Hybrid Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
