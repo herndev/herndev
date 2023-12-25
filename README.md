@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - ⏩ [Wood](http://9gag.com/gag/a8qxP91)
- - 👉 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)<!-- MEMES:END -->
+ - 💣 [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - ⏩ [Last christmas](http://9gag.com/gag/avQMpvO)
+ - 👉 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)<!-- MEMES:END -->
 
 ---
 
