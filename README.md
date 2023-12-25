@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lost her in every universe](http://9gag.com/gag/az2pnWm)
+ - 💣 [Too slow](http://9gag.com/gag/aQEL6Eq)
  - ⏩ [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - 👉 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)<!-- MEMES:END -->
+ - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
 
 ---
 
