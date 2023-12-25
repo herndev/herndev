@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [GTA V source code appears to have been leaked on Discord, Telegram, a dark web site, and more, a little over a year after Rockstar was hacked &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231225/p6#a231225p6)
- - [After vocal commitments following George Floyd&#39;s murder in 2020, DEI programs at Big Tech companies, including Meta and Google, are in broad retreat in 2023 &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/231225/p5#a231225p5)
- - [How to move your data and apps to a new iPad](https://appleinsider.com/articles/20/09/14/how-to-move-your-data-and-apps-to-a-new-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [PlayStation Plus Deals: Get Access to Sony&#39;s Subscription Offering for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [After vocal commitments following George Floyd&#39;s murder in 2020, DEI programs at Big Tech companies, including Meta and Google, are in broad retreat in 2023 &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/231225/p5#a231225p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
