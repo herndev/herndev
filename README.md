@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old times](http://9gag.com/gag/aXnyZAg)
- - ⏩ [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 👉 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)<!-- MEMES:END -->
+ - 💣 [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - ⏩ [Gym lover](http://9gag.com/gag/ay2jODV)
+ - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
 
 ---
 
