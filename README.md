@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you side with He Who Was or Madeline in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23832181/he-who-was-madeline-bg3-forgive-punish-ledger-wicked)
- - [One of our favorite early access shooters is approaching the finish line with the release of its creepiest chapter yet](https://www.pcgamer.com/one-of-our-favorite-early-access-shooters-is-approaching-the-finish-line-with-the-release-of-its-creepiest-chapter-yet)
- - [Shuhei Yoshida’s favorite PlayStation indie games of 2023](https://blog.playstation.com/2023/12/22/shuhei-yoshidas-favorite-playstation-indie-games-of-2023/)<!-- GAME:END -->
+ - [How to watch the Doctor Who holiday special](https://www.polygon.com/23998660/doctor-dr-who-christmas-special-streaming-how-watch-anniversary-2023)
+ - [I spent 3 nights at Nintendo’s original HQ](https://www.polygon.com/24009383/nintendo-hotel-marufukuro-kyoto-gojo)
+ - [Iron Man 2 partially redeemed by Marvel’s What If...? Die Hard spoof](https://www.polygon.com/24012423/what-if-die-hard-christmas-iron-man-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
