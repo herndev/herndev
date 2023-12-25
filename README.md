@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam keeps on winning](https://www.pcgamer.com/steam-keeps-on-winning)
  - [Wordle today: Hint and answer #919 for Monday, December 25](https://www.pcgamer.com/wordle-today-answer-919-december-25)
- - [How to watch the Doctor Who holiday special](https://www.polygon.com/23998660/doctor-dr-who-christmas-special-streaming-how-watch-anniversary-2023)
- - [I spent 3 nights at Nintendo’s original HQ](https://www.polygon.com/24009383/nintendo-hotel-marufukuro-kyoto-gojo)<!-- GAME:END -->
+ - [How to watch the Doctor Who holiday special](https://www.polygon.com/23998660/doctor-dr-who-christmas-special-streaming-how-watch-anniversary-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
