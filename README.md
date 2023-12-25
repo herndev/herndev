@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
- - ⏩ [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
- - 👉 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)<!-- MEMES:END -->
+ - 💣 [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - ⏩ [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
+ - 👉 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)<!-- MEMES:END -->
 
 ---
 
