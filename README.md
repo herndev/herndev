@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Christmas deals: AirTag for $23, $120 off iPad Air 5, Apple MagSafe Charger $29, more](https://appleinsider.com/articles/23/12/25/christmas-deals-airtag-for-23-120-off-ipad-air-5-apple-magsafe-charger-29-more?utm_medium=rss)
  - [10 great Game Pass games for your Xbox](https://www.theverge.com/2023/12/25/23999612/xbox-games-game-pass-2023-best-roundup)
- - [Eve Matter Devices, Next Gen CarPlay, &amp; ESR MagSafe Chargers on HomeKit Insider](https://appleinsider.com/articles/23/12/25/eve-matter-devices-next-gen-carplay-esr-magsafe-chargers-on-homekit-insider?utm_medium=rss)
- - [The US is focusing on blocking North Korea&#39;s ability to launder its crypto stolen via cyberattacks, which the US thinks funds North Korea&#39;s weapons programs &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/231225/p3#a231225p3)<!-- TECH:END -->
+ - [Eve Matter Devices, Next Gen CarPlay, &amp; ESR MagSafe Chargers on HomeKit Insider](https://appleinsider.com/articles/23/12/25/eve-matter-devices-next-gen-carplay-esr-magsafe-chargers-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
