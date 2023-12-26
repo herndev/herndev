@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best documentaries of 2023](https://www.polygon.com/what-to-watch/23998704/best-documentaries-2023)
- - [Nintendo appears to be shutting down Wii U, 3DS online play early](https://www.polygon.com/24015380/nintendo-wii-u-3ds-error-code-online-shut-down)
- - [GTA 5 Leak Reveals The Single-Player DLC You Never Got To Play](https://kotaku.com/grand-theft-auto-5-leak-single-player-scrapped-dlc-1851124303)<!-- GAME:END -->
+ - [2023 was the year I got fed up with seeing those &#39;early access&#39; deluxe editions where you pay more to play the game a few days early](https://www.pcgamer.com/2023-was-the-year-i-got-fed-up-with-seeing-those-early-access-deluxe-editions-where-you-pay-more-to-play-the-game-a-few-days-early)
+ - [Alan Wake 2, Zelda: TotK, And More Creative Triumphs: Carolyn Petit’s Top Games Of 2023](https://kotaku.com/alan-wake-2-zelda-totk-2023-best-games-1851124138)
+ - [Netflix teen shows are trying to let ace characters come out and explain themselves](https://www.polygon.com/24012511/asexual-representation-sex-education-everything-now-heartstopper-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
