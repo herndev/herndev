@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally able to buy a car that&#39;s not older than 15-20 years for the first time in my life, this one being from late 2021 &lpar;green plates are dealership temp insurance plates, not the final plates&rpar; and i am f**king proud of that.](http://9gag.com/gag/aWGr0Wd)
- - ⏩ [Fairness](http://9gag.com/gag/a2K3NMD)
- - 👉 [Thanks paul.](http://9gag.com/gag/aREbQAG)<!-- MEMES:END -->
+ - 💣 [Thanks paul.](http://9gag.com/gag/aREbQAG)
+ - ⏩ [Finally able to buy a car that&#39;s not older than 15-20 years for the first time in my life, this one being from late 2021 &lpar;green plates are dealership temp insurance plates, not the final plates&rpar; and i am f**king proud of that.](http://9gag.com/gag/aWGr0Wd)
+ - 👉 [That\u2019ll show him](http://9gag.com/gag/aKEQwA1)<!-- MEMES:END -->
 
 ---
 
