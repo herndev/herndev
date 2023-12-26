@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [United States Apple Watch import ban has begun with no resolution in sight](https://appleinsider.com/articles/23/12/26/united-states-apple-watch-import-ban-has-begun-with-no-resolution-in-sight?utm_medium=rss)
- - [President Biden&#39;s administration declines to veto the US ITC&#39;s decision to ban Apple Watch Series 9 and Ultra 2 imports over a Masimo patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231226/p4#a231226p4)
- - [How to Use OpenAI’s ChatGPT to Create Your Own Custom GPT](https://www.wired.com/story/how-to-use-chatgpt-create-custom-gpt-openai/)<!-- TECH:END -->
+ - [The best shows on Paramount Plus in 2023](https://www.theverge.com/23999770/paramount-plus-best-shows-2023)
+ - [Just got a new Xbox Series X/S? Here’s what you should do first.](https://www.androidauthority.com/new-xbox-series-x-s-guide-1186228/)
+ - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
