@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stopyerjewmediawhining](http://9gag.com/gag/ap9409b)
- - ⏩ [Phones were great. Those things, not so much.](http://9gag.com/gag/aZD6xm3)
- - 👉 [The bestfriend I approve](http://9gag.com/gag/awZEKWB)<!-- MEMES:END -->
+ - 💣 [F around find out](http://9gag.com/gag/a8qRb3Y)
+ - ⏩ [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 👉 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)<!-- MEMES:END -->
 
 ---
 
