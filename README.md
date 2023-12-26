@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best shows on Paramount Plus in 2023](https://www.theverge.com/23999770/paramount-plus-best-shows-2023)
- - [Just got a new Xbox Series X/S? Here’s what you should do first.](https://www.androidauthority.com/new-xbox-series-x-s-guide-1186228/)
- - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)<!-- TECH:END -->
+ - [What wearables do the Android Authority team use? &lpar;2023 edition&rpar;](https://www.androidauthority.com/android-authority-wearables-2023-3395340/)
+ - [How to transfer data to a new Android phone](https://www.androidauthority.com/transfer-data-new-phone-android-3226420/)
+ - [Filing: Grayscale Investments, which runs the world&#39;s largest crypto trust, says Barry Silbert resigned as chair, replaced by Mark Shifke, and offers no reason &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/231226/p7#a231226p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
