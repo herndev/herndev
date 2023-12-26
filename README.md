@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Race card declined.](http://9gag.com/gag/amAeXMd)
- - ⏩ [Tourist throw rock into vulcano. Vulcano goes boom.](http://9gag.com/gag/aqeP4ZY)
- - 👉 [Fairness](http://9gag.com/gag/a2K3NMD)<!-- MEMES:END -->
+ - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
+ - ⏩ [Race card declined.](http://9gag.com/gag/amAeXMd)
+ - 👉 [Women](http://9gag.com/gag/a8qRLbV)<!-- MEMES:END -->
 
 ---
 
