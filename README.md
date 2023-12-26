@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)
- - ⏩ [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - 👉 [More of this guy please](http://9gag.com/gag/abvN5Ep)<!-- MEMES:END -->
+ - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
+ - ⏩ [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---
 
