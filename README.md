@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - ⏩ [How To Get Attractive Girlfriend 101](http://9gag.com/gag/az2WgDN)
- - 👉 [Avian Terminology...](http://9gag.com/gag/abvN50O)<!-- MEMES:END -->
+ - 💣 [Race card declined.](http://9gag.com/gag/amAeXMd)
+ - ⏩ [Tourist throw rock into vulcano. Vulcano goes boom.](http://9gag.com/gag/aqeP4ZY)
+ - 👉 [Fairness](http://9gag.com/gag/a2K3NMD)<!-- MEMES:END -->
 
 ---
 
