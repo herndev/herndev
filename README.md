@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Vanillite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24008004/can-vanillite-be-shiny-vanillish-vanilluxe)
  - [Wordle today: Hint and answer #920 for Tuesday, December 26](https://www.pcgamer.com/wordle-today-answer-920-december-26)
- - [Money Heist’s Berlin spinoff, Ncuti Gatwa’s Doctor, and more new TV this week](https://www.polygon.com/2023/12/25/23981638/new-tv-netflix-money-heist-berlin-spinoff-ncuti-gatwa-doctor-who-disney)
- - [Dear Cyberpunk 2077, please let me role-play as someone with manners](https://www.polygon.com/gaming/24012650/cyberpunk-2077-v-cd-projekt-red-claire-russell-npc-afterlife)<!-- GAME:END -->
+ - [Money Heist’s Berlin spinoff, Ncuti Gatwa’s Doctor, and more new TV this week](https://www.polygon.com/2023/12/25/23981638/new-tv-netflix-money-heist-berlin-spinoff-ncuti-gatwa-doctor-who-disney)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
