@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F around find out](http://9gag.com/gag/a8qRb3Y)
- - ⏩ [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 👉 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)<!-- MEMES:END -->
+ - 💣 [Scully](http://9gag.com/gag/a8qRY5e)
+ - ⏩ [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 👉 [Grab the bat](http://9gag.com/gag/a04rPBv)<!-- MEMES:END -->
 
 ---
 
