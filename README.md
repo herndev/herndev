@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #920 for Tuesday, December 26](https://www.pcgamer.com/wordle-today-answer-920-december-26)
  - [Money Heist’s Berlin spinoff, Ncuti Gatwa’s Doctor, and more new TV this week](https://www.polygon.com/2023/12/25/23981638/new-tv-netflix-money-heist-berlin-spinoff-ncuti-gatwa-doctor-who-disney)
- - [Dear Cyberpunk 2077, please let me role-play as someone with manners](https://www.polygon.com/gaming/24012650/cyberpunk-2077-v-cd-projekt-red-claire-russell-npc-afterlife)
- - [The biggest hardware surprise of 2023 for me was how damned good Lenovo Legion laptops are now](https://www.pcgamer.com/the-biggest-hardware-surprise-of-2023-for-me-was-how-damned-good-lenovo-legion-laptops-are-now)<!-- GAME:END -->
+ - [Dear Cyberpunk 2077, please let me role-play as someone with manners](https://www.polygon.com/gaming/24012650/cyberpunk-2077-v-cd-projekt-red-claire-russell-npc-afterlife)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
