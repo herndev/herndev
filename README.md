@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - ⏩ [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 👉 [She ate him after that](http://9gag.com/gag/a2K3EBO)<!-- MEMES:END -->
+ - 💣 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - ⏩ [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---
 
