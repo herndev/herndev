@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel&#39;s government agrees to give Intel a $3.2B grant for a $25B chip plant the company plans to build in Kiryat Gat in southern Israel, set to open in 2027 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231226/p3#a231226p3)
- - [A look at AI apps like Bluey-GPT, Oscar, Once Upon a Bot, and Bedtimestory.ai, which create stories for kids, and concerns over copyright, trademark, and safety &lpar;Nicole Kobie/Wired&rpar;](http://www.techmeme.com/231226/p2#a231226p2)
- - [Here&#39;s How to Create an Online IRS Account     - CNET](https://www.cnet.com/personal-finance/taxes/how-an-online-irs-account-can-help-you-get-your-taxes-finished/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Refinance Rates, Dec. 26, 2023: Rates Are Easing for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-refinance-rates-dec-26-2023-rates-are-easing-for-homeowners/#ftag=CAD590a51e)
+ - [Today&#39;s Mortgage Rates for Dec. 26, 2023: Rates Decrease as the Year Closes     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-dec-26-2023-rates-decrease-as-the-year-closes/#ftag=CAD590a51e)
+ - [iPhone 15 Pro &amp; iPhone 15 Pro Max case roundup: keep your iPhone looking perfect with these cases](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-pro-case?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
