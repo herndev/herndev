@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - ⏩ [SANTA!](http://9gag.com/gag/adPGNBV)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 💣 [Finally able to buy a car that&#39;s not older than 15-20 years for the first time in my life, this one being from late 2021 &lpar;green plates are dealership temp insurance plates, not the final plates&rpar; and i am f**king proud of that.](http://9gag.com/gag/aWGr0Wd)
+ - ⏩ [Fairness](http://9gag.com/gag/a2K3NMD)
+ - 👉 [Thanks paul.](http://9gag.com/gag/aREbQAG)<!-- MEMES:END -->
 
 ---
 
