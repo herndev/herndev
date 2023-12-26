@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Extremely important Baldur’s Gate 3 tips that the game never tells you](https://www.polygon.com/24012813/bg3-baldurs-gate-3-combat-tips-gameplay-turn-based-rpg-strategy)
- - [It was another great year for boomer shooters, but can we call them something else now?](https://www.pcgamer.com/it-was-another-great-year-for-boomer-shooters-but-can-we-call-them-something-else-now)
- - [The new PS5 owners’ guide to great gaming experiences](https://blog.playstation.com/2023/12/26/the-new-ps5-owners-guide-to-great-gaming-experiences/)<!-- GAME:END -->
+ - [Nintendo appears to be shutting down Wii U, 3DS online play early](https://www.polygon.com/24015380/nintendo-wii-u-3ds-error-code-online-shut-down)
+ - [GTA 5 Leak Reveals The Single-Player DLC You Never Got To Play](https://kotaku.com/grand-theft-auto-5-leak-single-player-scrapped-dlc-1851124303)
+ - [You Probably Missed This GTA Reference In Cyberpunk 2077: Phantom Liberty](https://kotaku.com/cyberpunk-2077-grand-theft-auto-easter-egg-1851124258)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
