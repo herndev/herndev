@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [15 Things I Wish I Knew Before Starting Zelda: Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-switch-tips-ultrahand-shrine-1850438922)
- - [14 Things To Know Before Starting Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-tips-save-file-abilities-builds-party-1850704861)
- - [Star Wars Outlaws Could Finally Be The Scoundrel Sim You&#39;ve Been Dreaming Of](https://kotaku.com/star-wars-outlaws-interview-ubisoft-1313-ragtag-1851118340)<!-- GAME:END -->
+ - [The best movie performances of 2023](https://www.polygon.com/24003083/best-movie-performances-actors-2023)
+ - [Steam Users Gave Starfield A Lump Of Coal For Christmas](https://kotaku.com/starfield-steam-reviews-negative-bethesda-1851124046)
+ - [Kotaku Asks: What Was Your Fave Gamer Gift Ever?](https://kotaku.com/best-video-game-gifts-kotaku-asks-1851124024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
