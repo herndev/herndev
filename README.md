@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movie performances of 2023](https://www.polygon.com/24003083/best-movie-performances-actors-2023)
- - [Steam Users Gave Starfield A Lump Of Coal For Christmas](https://kotaku.com/starfield-steam-reviews-negative-bethesda-1851124046)
- - [Kotaku Asks: What Was Your Fave Gamer Gift Ever?](https://kotaku.com/best-video-game-gifts-kotaku-asks-1851124024)<!-- GAME:END -->
+ - [Extremely important Baldur’s Gate 3 tips that the game never tells you](https://www.polygon.com/24012813/bg3-baldurs-gate-3-combat-tips-gameplay-turn-based-rpg-strategy)
+ - [It was another great year for boomer shooters, but can we call them something else now?](https://www.pcgamer.com/it-was-another-great-year-for-boomer-shooters-but-can-we-call-them-something-else-now)
+ - [The new PS5 owners’ guide to great gaming experiences](https://blog.playstation.com/2023/12/26/the-new-ps5-owners-guide-to-great-gaming-experiences/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
