@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How flood monitoring companies, like 7Analytics and Neara, are using AI to make real-time flooding predictions and help businesses minimize damage &lpar;Suzanne Bearne/BBC&rpar;](http://www.techmeme.com/231226/p1#a231226p1)
  - [B&amp;H&#39;s Mega Deal Zone shaves $250 off Apple&#39;s M3 MacBook Pro](https://appleinsider.com/articles/23/12/26/bhs-mega-deal-zone-shaves-250-off-apples-m3-macbook-pro?utm_medium=rss)
- - [Report: Samsung delays chip production in its $17B Taylor, Texas fab, saying it couldn&#39;t confirm the schedule, a blow to US&#39; local chip manufacturing ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/231225/p9#a231225p9)
- - [Experts detail how users are getting scammed on Facebook Marketplace; Meta says it plans a notification system to let users identify &quot;scams around payment apps&quot; &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/231225/p8#a231225p8)<!-- TECH:END -->
+ - [Report: Samsung delays chip production in its $17B Taylor, Texas fab, saying it couldn&#39;t confirm the schedule, a blow to US&#39; local chip manufacturing ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/231225/p9#a231225p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
