@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 of the Best Walking Shoes for Women in 2023     - CNET](https://www.cnet.com/health/fitness/best-walking-shoes-for-women/#ftag=CAD590a51e)
  - [Got a new PS5? Here are 8 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
- - [Got a new phone? Here’s how to switch like a pro](https://www.androidauthority.com/how-to-switch-phones-901221/)
- - [Best Internet Providers for Unlimited Data     - CNET](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Got a new phone? Here’s how to switch like a pro](https://www.androidauthority.com/how-to-switch-phones-901221/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
