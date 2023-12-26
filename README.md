@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - ⏩ [Race card declined.](http://9gag.com/gag/amAeXMd)
- - 👉 [Women](http://9gag.com/gag/a8qRLbV)<!-- MEMES:END -->
+ - 💣 [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - ⏩ [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 👉 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)<!-- MEMES:END -->
 
 ---
 
