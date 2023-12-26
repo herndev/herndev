@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SANTA!](http://9gag.com/gag/adPGNBV)
- - ⏩ [Why People Why ??](http://9gag.com/gag/aA08RR0)
- - 👉 [Grab the bat](http://9gag.com/gag/a04rPBv)<!-- MEMES:END -->
+ - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - ⏩ [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - 👉 [Women](http://9gag.com/gag/a8qRLbV)<!-- MEMES:END -->
 
 ---
 
