@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 26: 41% off MacBook Pro, $138 off Apple Watch S9, 42% off Aqara HomeKit lock, more](https://appleinsider.com/articles/23/12/26/daily-deals-dec-26-41-off-macbook-pro-138-off-apple-watch-s9-42-off-aqara-homekit-lock-more?utm_medium=rss)
- - [What wearables do the Android Authority team use? &lpar;2023 edition&rpar;](https://www.androidauthority.com/android-authority-wearables-2023-3395340/)
- - [How to transfer data to a new Android phone](https://www.androidauthority.com/transfer-data-new-phone-android-3226420/)<!-- TECH:END -->
+ - [Apple appeals US ban on Apple Watch Ultra 2 and Series 9](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
+ - [Apple is now banned from selling its latest Apple Watches in the US](https://www.theverge.com/2023/12/26/24012382/apple-import-ban-watch-series-9-ultra-2)
+ - [Microsoft launches Microsoft Copilot for Android, a free ChatGPT-like app that supports GPT-4 and DALL-E 3; sources: a Copilot iOS app is nearly ready &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/231226/p8#a231226p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
