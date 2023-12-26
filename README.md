@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s Refinance Rates, Dec. 26, 2023: Rates Are Easing for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-refinance-rates-dec-26-2023-rates-are-easing-for-homeowners/#ftag=CAD590a51e)
- - [Today&#39;s Mortgage Rates for Dec. 26, 2023: Rates Decrease as the Year Closes     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-dec-26-2023-rates-decrease-as-the-year-closes/#ftag=CAD590a51e)
- - [iPhone 15 Pro &amp; iPhone 15 Pro Max case roundup: keep your iPhone looking perfect with these cases](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-pro-case?utm_medium=rss)<!-- TECH:END -->
+ - [United States Apple Watch import ban has begun with no resolution in sight](https://appleinsider.com/articles/23/12/26/united-states-apple-watch-import-ban-has-begun-with-no-resolution-in-sight?utm_medium=rss)
+ - [President Biden&#39;s administration declines to veto the US ITC&#39;s decision to ban Apple Watch Series 9 and Ultra 2 imports over a Masimo patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231226/p4#a231226p4)
+ - [How to Use OpenAI’s ChatGPT to Create Your Own Custom GPT](https://www.wired.com/story/how-to-use-chatgpt-create-custom-gpt-openai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
