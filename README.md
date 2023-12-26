@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - ⏩ [Christmas memories that last a lifetime](http://9gag.com/gag/a3Z6vM8)
- - 👉 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)<!-- MEMES:END -->
+ - ⏩ [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 👉 [She ate him after that](http://9gag.com/gag/a2K3EBO)<!-- MEMES:END -->
 
 ---
 
