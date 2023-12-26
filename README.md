@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swish](http://9gag.com/gag/aeQn3qv)
- - ⏩ [Mother finds son after searching for hours. If she had a sandal, she would throw it at him.](http://9gag.com/gag/ajVz0Vx)
- - 👉 [Strong and independend](http://9gag.com/gag/axoL28b)<!-- MEMES:END -->
+ - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - ⏩ [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 👉 [Hate when this happens](http://9gag.com/gag/a2K3PM9)<!-- MEMES:END -->
 
 ---
 
