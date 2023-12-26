@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best gaming monitors of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-monitors-of-2023)
- - [If you liked 2023&#39;s soulslikes, you should go play Sekiro: Shadows Die Twice—because they&#39;re all great tutorials to its unrivalled combat](https://www.pcgamer.com/if-you-liked-2023s-soulslikes-you-should-go-play-sekiro-shadows-die-twicebecause-theyre-all-great-tutorials-to-its-unrivalled-combat)
- - [PC Gamer Hardware Awards: The best gaming laptops of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-laptops-of-2023)<!-- GAME:END -->
+ - [15 Things I Wish I Knew Before Starting Zelda: Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-switch-tips-ultrahand-shrine-1850438922)
+ - [14 Things To Know Before Starting Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-tips-save-file-abilities-builds-party-1850704861)
+ - [Star Wars Outlaws Could Finally Be The Scoundrel Sim You&#39;ve Been Dreaming Of](https://kotaku.com/star-wars-outlaws-interview-ubisoft-1313-ragtag-1851118340)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
