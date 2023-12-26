@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 26: 41% off MacBook Pro, $138 off Apple Watch S9, 42% off Aqara HomeKit lock, more](https://appleinsider.com/articles/23/12/26/daily-deals-dec-26-41-off-macbook-pro-138-off-apple-watch-s9-42-off-aqara-homekit-lock-more?utm_medium=rss)
  - [What wearables do the Android Authority team use? &lpar;2023 edition&rpar;](https://www.androidauthority.com/android-authority-wearables-2023-3395340/)
- - [How to transfer data to a new Android phone](https://www.androidauthority.com/transfer-data-new-phone-android-3226420/)
- - [Filing: Grayscale Investments, which runs the world&#39;s largest crypto trust, says Barry Silbert resigned as chair, replaced by Mark Shifke, and offers no reason &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/231226/p7#a231226p7)<!-- TECH:END -->
+ - [How to transfer data to a new Android phone](https://www.androidauthority.com/transfer-data-new-phone-android-3226420/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
