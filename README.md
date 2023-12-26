@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer Hardware Awards: The best gaming monitors of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-monitors-of-2023)
  - [If you liked 2023&#39;s soulslikes, you should go play Sekiro: Shadows Die Twice—because they&#39;re all great tutorials to its unrivalled combat](https://www.pcgamer.com/if-you-liked-2023s-soulslikes-you-should-go-play-sekiro-shadows-die-twicebecause-theyre-all-great-tutorials-to-its-unrivalled-combat)
- - [PC Gamer Hardware Awards: The best gaming laptops of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-laptops-of-2023)
- - [Can Vanillite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24008004/can-vanillite-be-shiny-vanillish-vanilluxe)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming laptops of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-laptops-of-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
