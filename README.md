@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/a8qRLbV)
- - ⏩ [Wood](http://9gag.com/gag/a8qxP91)
- - 👉 [She ate him after that](http://9gag.com/gag/a2K3EBO)<!-- MEMES:END -->
+ - 💣 [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - ⏩ [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
+ - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
 
 ---
 
