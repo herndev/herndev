@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Vanillite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24008004/can-vanillite-be-shiny-vanillish-vanilluxe)
- - [Wordle today: Hint and answer #920 for Tuesday, December 26](https://www.pcgamer.com/wordle-today-answer-920-december-26)
- - [Money Heist’s Berlin spinoff, Ncuti Gatwa’s Doctor, and more new TV this week](https://www.polygon.com/2023/12/25/23981638/new-tv-netflix-money-heist-berlin-spinoff-ncuti-gatwa-doctor-who-disney)<!-- GAME:END -->
+ - [If you liked 2023&#39;s soulslikes, you should go play Sekiro: Shadows Die Twice—because they&#39;re all great tutorials to its unrivalled combat](https://www.pcgamer.com/if-you-liked-2023s-soulslikes-you-should-go-play-sekiro-shadows-die-twicebecause-theyre-all-great-tutorials-to-its-unrivalled-combat)
+ - [PC Gamer Hardware Awards: The best gaming laptops of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-laptops-of-2023)
+ - [Can Vanillite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24008004/can-vanillite-be-shiny-vanillish-vanilluxe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
