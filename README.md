@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - ⏩ [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 💣 [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - ⏩ [Grab the bat](http://9gag.com/gag/a04rPBv)
  - 👉 [Powertrip](http://9gag.com/gag/a9qxj40)<!-- MEMES:END -->
 
 ---
