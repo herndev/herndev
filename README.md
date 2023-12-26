@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best documentaries of 2023](https://www.polygon.com/what-to-watch/23998704/best-documentaries-2023)
  - [Nintendo appears to be shutting down Wii U, 3DS online play early](https://www.polygon.com/24015380/nintendo-wii-u-3ds-error-code-online-shut-down)
- - [GTA 5 Leak Reveals The Single-Player DLC You Never Got To Play](https://kotaku.com/grand-theft-auto-5-leak-single-player-scrapped-dlc-1851124303)
- - [You Probably Missed This GTA Reference In Cyberpunk 2077: Phantom Liberty](https://kotaku.com/cyberpunk-2077-grand-theft-auto-easter-egg-1851124258)<!-- GAME:END -->
+ - [GTA 5 Leak Reveals The Single-Player DLC You Never Got To Play](https://kotaku.com/grand-theft-auto-5-leak-single-player-scrapped-dlc-1851124303)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
