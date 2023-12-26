@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Strong and independend](http://9gag.com/gag/axoL28b)
+ - 💣 [Stopyerjewmediawhining](http://9gag.com/gag/ap9409b)
  - ⏩ [Phones were great. Those things, not so much.](http://9gag.com/gag/aZD6xm3)
- - 👉 [Stopyerjewmediawhining](http://9gag.com/gag/ap9409b)<!-- MEMES:END -->
+ - 👉 [The bestfriend I approve](http://9gag.com/gag/awZEKWB)<!-- MEMES:END -->
 
 ---
 
