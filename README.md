@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: xAI incorporates as a for-profit benefit corporation, allowing it to prioritize having a positive impact on society over its obligations to shareholders &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/231226/p11#a231226p11)
  - [Japan plans to fine Apple over app stores and antitrust issues](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)
- - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)
- - [Amazon Prime Video will start showing ads on January 29th](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29)<!-- TECH:END -->
+ - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
