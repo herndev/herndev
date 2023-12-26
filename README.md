@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - ⏩ [SANTA!](http://9gag.com/gag/adPGNBV)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - ⏩ [How To Get Attractive Girlfriend 101](http://9gag.com/gag/az2WgDN)
+ - 👉 [Avian Terminology...](http://9gag.com/gag/abvN50O)<!-- MEMES:END -->
 
 ---
 
