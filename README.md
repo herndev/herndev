@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - ⏩ [SANTA!](http://9gag.com/gag/adPGNBV)
- - 👉 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/a8qRLbV)
+ - ⏩ [Wood](http://9gag.com/gag/a8qxP91)
+ - 👉 [She ate him after that](http://9gag.com/gag/a2K3EBO)<!-- MEMES:END -->
 
 ---
 
