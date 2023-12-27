@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS rolls out stable Android 14 update for the Zenfone 10](https://www.androidauthority.com/asus-zenfone-10-stable-android-14-update-3397896/)
- - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
- - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch import ban kicked off a decade ago by an early-morning email to Tim Cook](https://appleinsider.com/articles/23/12/27/apple-watch-patent-lawsuit-started-by-an-email-to-tim-cook?utm_medium=rss)
+ - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;December 27&rpar;](https://www.androidauthority.com/wallpaper-wednesday-dec-27-2023-3395524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
