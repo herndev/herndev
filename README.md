@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple appeals the Apple Watch ban, but reprieve could take a while](https://www.androidauthority.com/apple-watch-ban-appeal-3397865/)
- - [A look at the challenges Amazon faces in selling cars in the US: only 11% of its customers report buying $1,000+ items, dealerships sell most new cars, and more &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231227/p9#a231227p9)
- - [ASUS ROG Phone 8 gets an IP68 rating, but downgrades on this key feature](https://www.androidauthority.com/asus-rog-phone-8-ip68-rating-no-dual-front-speaker-3397847/)<!-- TECH:END -->
+ - [Japan plans to fine Apple over app stores and force sideloading](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)
+ - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
+ - [Hands on with Holafly eSIM: Easy and hassle-free mobile data for travelers](https://appleinsider.com/articles/23/12/27/hands-on-with-holafly-esim-easy-and-hassle-free-mobile-data-for-travelers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
