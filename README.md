@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic projects annualized revenue to be $850M+ by 2024&#39;s end, or ~$70M/mo, an increase of more than 8x from its monthly revenue around Sept. 2023 &lpar;The Information&rpar;](http://www.techmeme.com/231226/p12#a231226p12)
  - [B&amp;H Photo&#39;s year-end Mega Deal Zone knocks up to $2,000 off Apple](https://appleinsider.com/articles/23/12/26/bh-photos-year-end-mega-deal-zone-knocks-up-to-2000-off-apple?utm_medium=rss)
- - [50 Best After-Christmas Deals You Can Get Right Now     - CNET](https://www.cnet.com/deals/best-after-christmas-sales/#ftag=CAD590a51e)
- - [Filing: xAI incorporates as a for-profit benefit corporation, allowing it to prioritize having a positive impact on society over its obligations to shareholders &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/231226/p11#a231226p11)<!-- TECH:END -->
+ - [50 Best After-Christmas Deals You Can Get Right Now     - CNET](https://www.cnet.com/deals/best-after-christmas-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
