@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus Monthly Games for January: A Plague Tale: Requiem, Evil West, Nobody Saves the World](https://blog.playstation.com/2023/12/27/playstation-plus-monthly-games-for-january-a-plague-tale-requiem-evil-west-nobody-saves-the-world/)
- - [Pokémon Go Winter Holiday 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/12/18/24006193/winter-holiday-2023-event-timed-research-paid-ticket-cetoddle)
- - [The best TV episodes of 2023](https://www.polygon.com/23994141/best-tv-episodes-2023)<!-- GAME:END -->
+ - [Genshin Impact ‘Into the Frame’ solutions and event guide](https://www.polygon.com/genshin-impact-guides/24016399/into-the-frame-event-solution-roses-and-muskets)
+ - [Good News, Tekken 8 Is Bringing Back The Series&#39; Best Character](https://kotaku.com/kuma-bear-tekken-8-character-reveal-trailer-panda-1851126222)
+ - [The AMD RX 7800 XT might not have set the world on fire this year, but for me it&#39;s been nothing but a pleasure](https://www.pcgamer.com/the-amd-rx-7800-xt-might-not-have-set-the-world-on-fire-this-year-but-for-me-its-been-nothing-but-a-pleasure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
