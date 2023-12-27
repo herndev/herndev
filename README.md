@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)
- - ⏩ [A good way to handle the leftist pronoun snowflakes](http://9gag.com/gag/aeQnpyj)
- - 👉 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)<!-- MEMES:END -->
+ - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - ⏩ [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
+ - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
 
 ---
 
