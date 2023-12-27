@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - ⏩ [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 👉 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)<!-- MEMES:END -->
+ - 💣 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)
+ - ⏩ [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
+ - 👉 [Powertrip](http://9gag.com/gag/a9qxj40)<!-- MEMES:END -->
 
 ---
 
