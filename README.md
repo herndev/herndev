@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SANTA!](http://9gag.com/gag/adPGNBV)
- - ⏩ [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 👉 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)<!-- MEMES:END -->
+ - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - ⏩ [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
+ - 👉 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)<!-- MEMES:END -->
 
 ---
 
