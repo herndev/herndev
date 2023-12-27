@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New leak sheds light on the Nothing Phone 2a’s camera specs and availability](https://www.androidauthority.com/nothing-phone-2a-camera-specs-availability-leak-3397811/)
  - [Amazon Prime Video will show ads in 2024 unless you’re willing to pay more](https://www.androidauthority.com/amazon-prime-video-ads-unless-pay-ad-free-3397788/)
- - [Hollywood unions resisting AI being used to recreate actors&#39; performances sets a precedent for future labor movements on how to push back against automation &lpar;Angela Watercutter/Wired&rpar;](http://www.techmeme.com/231227/p6#a231227p6)
- - [After over a year of testing, South Korean internet giant Naver plans to let companies use its Rookie office helper robots that can deliver meals and parcels &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/231227/p5#a231227p5)<!-- TECH:END -->
+ - [Hollywood unions resisting AI being used to recreate actors&#39; performances sets a precedent for future labor movements on how to push back against automation &lpar;Angela Watercutter/Wired&rpar;](http://www.techmeme.com/231227/p6#a231227p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
