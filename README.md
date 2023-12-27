@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - ⏩ [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
- - 👉 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)<!-- MEMES:END -->
+ - 💣 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
+ - ⏩ [Tight dress](http://9gag.com/gag/anzmXzo)
+ - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
 
 ---
 
