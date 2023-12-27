@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch import ban kicked off a decade ago by an early-morning email to Tim Cook](https://appleinsider.com/articles/23/12/27/apple-watch-patent-lawsuit-started-by-an-email-to-tim-cook?utm_medium=rss)
- - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;December 27&rpar;](https://www.androidauthority.com/wallpaper-wednesday-dec-27-2023-3395524/)<!-- TECH:END -->
+ - [Microsoft quietly brings Copilot AI assistant app to Android](https://www.androidauthority.com/microsoft-copilot-on-android-3397909/)
+ - [Apple&#39;s M3 Pro MacBook Pro with 36GB RAM drops to record-low $1,999](https://appleinsider.com/articles/23/12/27/apples-m3-pro-macbook-pro-with-36gb-ram-drops-to-record-low-1999?utm_medium=rss)
+ - [Researchers propose a protocol to secure AirTag against stalking while maintaining privacy; Apple revised its system to rotate device identifiers every 24 hours &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231227/p16#a231227p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
