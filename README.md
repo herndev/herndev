@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #921 for Wednesday, December 27](https://www.pcgamer.com/wordle-today-answer-921-december-27)
  - [User Needed One More Steam Point To Hit 69,000 And Valve Delivered](https://kotaku.com/valve-steam-points-gift-one-69-000-nice-number-miracle-1851125133)
- - [28 Things I Wish I Knew Before I Started Playing Starfield](https://kotaku.com/starfield-tips-guide-xbox-money-fast-travel-map-traits-1850798018)
- - [The 17 Best Games For Sony&#39;s PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)<!-- GAME:END -->
+ - [28 Things I Wish I Knew Before I Started Playing Starfield](https://kotaku.com/starfield-tips-guide-xbox-money-fast-travel-map-traits-1850798018)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
