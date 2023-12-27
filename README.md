@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - ⏩ [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 👉 [The Swedish government has announced it will stop paying development aid to countries that don\u2019t take back rejected asylum seekers from Sweden....After so many girls have been raped, are they starting to realize?](http://9gag.com/gag/aKEQzPN)<!-- MEMES:END -->
+ - 💣 [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
+ - ⏩ [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)
+ - 👉 [Wait a min..](http://9gag.com/gag/aQELn62)<!-- MEMES:END -->
 
 ---
 
