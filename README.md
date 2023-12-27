@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV episodes of 2023](https://www.polygon.com/23994141/best-tv-episodes-2023)
- - [We&#39;ve only just recovered from 2023&#39;s wild release schedule, and now the first few weeks of 2024 are going to hit us in the face with even more games](https://www.pcgamer.com/weve-only-just-recovered-from-2023s-wild-release-schedule-and-now-the-first-few-weeks-of-2024-are-going-to-hit-us-in-the-face-with-even-more-games)
- - [If successful, Intel&#39;s next generation Battlemage graphics cards will benefit all gamers](https://www.pcgamer.com/if-successful-intels-next-generation-battlemage-graphics-cards-will-benefit-all-gamers)<!-- GAME:END -->
+ - [PlayStation Plus Monthly Games for January: A Plague Tale: Requiem, Evil West, Nobody Saves the World](https://blog.playstation.com/2023/12/27/playstation-plus-monthly-games-for-january-a-plague-tale-requiem-evil-west-nobody-saves-the-world/)
+ - [Pokémon Go Winter Holiday 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/12/18/24006193/winter-holiday-2023-event-timed-research-paid-ticket-cetoddle)
+ - [The best TV episodes of 2023](https://www.polygon.com/23994141/best-tv-episodes-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
