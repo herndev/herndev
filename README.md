@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS ROG Phone 8 gets an IP68 rating, but downgrades on this key feature](https://www.androidauthority.com/asus-rog-phone-8-ip68-rating-no-dual-front-speaker-3397847/)
- - [China struggles to contain a shadow market for business data, as most companies shun the 48 official exchanges for data sales set up by local governments &lpar;Financial Times&rpar;](http://www.techmeme.com/231227/p8#a231227p8)
- - [OnePlus Open gets its first Android 14 beta with Oxygen OS 14](https://www.androidauthority.com/oneplus-open-first-android-14-beta-oxygen-os-3397822/)<!-- TECH:END -->
+ - [Apple appeals the Apple Watch ban, but reprieve could take a while](https://www.androidauthority.com/apple-watch-ban-appeal-3397865/)
+ - [A look at the challenges Amazon faces in selling cars in the US: only 11% of its customers report buying $1,000+ items, dealerships sell most new cars, and more &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231227/p9#a231227p9)
+ - [ASUS ROG Phone 8 gets an IP68 rating, but downgrades on this key feature](https://www.androidauthority.com/asus-rog-phone-8-ip68-rating-no-dual-front-speaker-3397847/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
