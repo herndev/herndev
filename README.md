@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
- - ⏩ [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)
- - 👉 [Wait a min..](http://9gag.com/gag/aQELn62)<!-- MEMES:END -->
+ - 💣 [Scully](http://9gag.com/gag/a8qRY5e)
+ - ⏩ [Lol](http://9gag.com/gag/aA08Yw0)
+ - 👉 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)<!-- MEMES:END -->
 
 ---
 
