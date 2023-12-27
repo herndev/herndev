@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 gives Kuma an attack with shocking implications](https://www.polygon.com/24016605/tekken-8-kuma-kazuya-new-trailer-characters)
- - [Emerald Fennell explains why Saltburn’s ending had to be so naked](https://www.polygon.com/23984716/saltburn-ending-explained-barry-keoghan-full-frontal-nudity)
- - [We should get a new Muppet Christmas Carol-alike every year](https://www.polygon.com/24012791/muppet-christmas-carol-new-muppet-movie)<!-- GAME:END -->
+ - [The Steam Deck Crushed It In 2023](https://kotaku.com/steam-deck-valve-2023-2024-games-oled-1851126694)
+ - [2024 Is Starting Out With An Avalanche Of Video Games](https://kotaku.com/2024-game-releases-tekken-final-fantasy-7-suicide-squad-1851126639)
+ - [You Might Have Missed 2023&#39;s Coolest Shooter](https://kotaku.com/el-paso-elsewhere-indie-strange-scaffold-max-payne-1851126393)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
