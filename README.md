@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
- - ⏩ [Wait a min..](http://9gag.com/gag/aQELn62)
- - 👉 [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)<!-- MEMES:END -->
+ - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - ⏩ [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 👉 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)<!-- MEMES:END -->
 
 ---
 
