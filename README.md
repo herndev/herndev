@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best graphics card of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-graphics-card-of-2023)
- - [Long games were totally back this year, baby](https://www.pcgamer.com/long-games-were-totally-back-this-year-baby)
- - [PC Gamer Hardware Awards: The best CPUs of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-cpus-of-2023)<!-- GAME:END -->
+ - [RoboCop To Spider-Man: Zack Zwiezen&#39;s Most Captivating Games Of 2023](https://kotaku.com/spider-man-2-robocop-alan-wake-2-best-games-2023-1851124842)
+ - [Say Hello To 2024 With January’s Game Releases](https://kotaku.com/january-2024-game-releases-tekken-tlou-1851124958)
+ - [Best Adventure 2023: Star Wars Jedi – Survivor](https://www.pcgamer.com/best-adventure-2023-star-wars-jedi-survivor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
