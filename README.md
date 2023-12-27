@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - ⏩ [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 👉 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)<!-- MEMES:END -->
+ - 💣 [Father of the year](http://9gag.com/gag/axoLZXb)
+ - ⏩ [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 👉 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)<!-- MEMES:END -->
 
 ---
 
