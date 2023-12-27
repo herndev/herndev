@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I paid for the shovel, Im gonna use the shovel](http://9gag.com/gag/agoDVoq)
- - ⏩ [Maybe having all that access wasn&#39;t a good idea](http://9gag.com/gag/az2Wj4p)
- - 👉 [We&#39;ve ran out of wednesdays, dudes](http://9gag.com/gag/aYV3Lp2)<!-- MEMES:END -->
+ - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - ⏩ [Random Tolkien fact.](http://9gag.com/gag/a4oXLYd)
+ - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
 
 ---
 
