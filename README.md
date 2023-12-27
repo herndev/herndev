@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: social media companies collectively made ~$11B in US ad revenue from minors in 2022; YouTube earned the most at $959.1M from users 12 and under &lpar;Associated Press&rpar;](http://www.techmeme.com/231227/p21#a231227p21)
- - [What is Conversational AI and how does it work?](https://www.androidauthority.com/what-is-conversational-ai-3397912/)
- - [How to take advantage of Chrome’s side panel](https://www.theverge.com/24016278/chrome-google-side-panel-how-to)<!-- TECH:END -->
+ - [Samsung’s new AI-enabled smart fridge can design recipes based on your dietary needs](https://www.theverge.com/2023/12/27/24016939/samsung-2024-ai-family-hub-smart-fridge-features)
+ - [Apple Watch Series 9, Apple Watch Ultra 2 return to Apple Stores](https://appleinsider.com/articles/23/12/27/apple-watch-series-9-apple-watch-ultra-2-return-to-apple-stores?utm_medium=rss)
+ - [Apple resumes Watch Series 9 and Ultra 2 sales in some physical US stores starting today, with online sales resuming tomorrow by 3PM ET &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231227/p22#a231227p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
