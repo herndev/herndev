@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
- - ⏩ [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
- - 👉 [Lol](http://9gag.com/gag/aA08Yw0)<!-- MEMES:END -->
+ - 💣 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)
+ - ⏩ [A good way to handle the leftist pronoun snowflakes](http://9gag.com/gag/aeQnpyj)
+ - 👉 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)<!-- MEMES:END -->
 
 ---
 
