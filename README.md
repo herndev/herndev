@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)
- - ⏩ [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
- - 👉 [Powertrip](http://9gag.com/gag/a9qxj40)<!-- MEMES:END -->
+ - 💣 [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
+ - ⏩ [Wait a min..](http://9gag.com/gag/aQELn62)
+ - 👉 [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)<!-- MEMES:END -->
 
 ---
 
