@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is so accurate, it&#39;s terrifying...](http://9gag.com/gag/a6q0y29)
- - ⏩ [It&#39;s true](http://9gag.com/gag/aGEmRmX)
- - 👉 [Wait a min..](http://9gag.com/gag/aQELn62)<!-- MEMES:END -->
+ - 💣 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
+ - ⏩ [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
+ - 👉 [Lol](http://9gag.com/gag/aA08Yw0)<!-- MEMES:END -->
 
 ---
 
