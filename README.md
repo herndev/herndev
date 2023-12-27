@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - ⏩ [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [The Swedish government has announced it will stop paying development aid to countries that don\u2019t take back rejected asylum seekers from Sweden....After so many girls have been raped, are they starting to realize?](http://9gag.com/gag/aKEQzPN)<!-- MEMES:END -->
+ - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - ⏩ [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---
 
