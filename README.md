@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to take advantage of Chrome’s side panel](https://www.theverge.com/24016278/chrome-google-side-panel-how-to)
- - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
- - [What If…? season 2 doesn’t get good until it really lets loose](https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter)<!-- TECH:END -->
+ - [Study: social media companies collectively made ~$11B in US ad revenue from minors in 2022; YouTube earned the most at $959.1M from users 12 and under &lpar;Associated Press&rpar;](http://www.techmeme.com/231227/p21#a231227p21)
+ - [What is Conversational AI and how does it work?](https://www.androidauthority.com/what-is-conversational-ai-3397912/)
+ - [How to take advantage of Chrome’s side panel](https://www.theverge.com/24016278/chrome-google-side-panel-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
