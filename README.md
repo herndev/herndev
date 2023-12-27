@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Deck Crushed It In 2023](https://kotaku.com/steam-deck-valve-2023-2024-games-oled-1851126694)
- - [2024 Is Starting Out With An Avalanche Of Video Games](https://kotaku.com/2024-game-releases-tekken-final-fantasy-7-suicide-squad-1851126639)
- - [You Might Have Missed 2023&#39;s Coolest Shooter](https://kotaku.com/el-paso-elsewhere-indie-strange-scaffold-max-payne-1851126393)<!-- GAME:END -->
+ - [From Chill Jusant To Punishing Lies Of P: Levi Winslow’s Top 10 Games Of 2023](https://kotaku.com/top-games-2023-diablo-4-jusant-lies-of-p-spider-man-2-1851126903)
+ - [In Doctor Who, rebooting the Doctor is easy — the companion is not](https://www.polygon.com/reviews/24016644/doctor-who-christmas-special-review)
+ - [The State Of The Nintendo Switch In 2023](https://kotaku.com/nintendo-switch-zelda-tears-kingdom-mario-movie-2023-1851126833)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
