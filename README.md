@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Chill Jusant To Punishing Lies Of P: Levi Winslow’s Top 10 Games Of 2023](https://kotaku.com/top-games-2023-diablo-4-jusant-lies-of-p-spider-man-2-1851126903)
- - [In Doctor Who, rebooting the Doctor is easy — the companion is not](https://www.polygon.com/reviews/24016644/doctor-who-christmas-special-review)
- - [The State Of The Nintendo Switch In 2023](https://kotaku.com/nintendo-switch-zelda-tears-kingdom-mario-movie-2023-1851126833)<!-- GAME:END -->
+ - [Lord Of The Rings Moneyball Is the Perfect Meme To End 2023](https://kotaku.com/lord-rings-moneyball-memes-streaming-1851127017)
+ - [If Rebel Moon 2 is just the ending of Rebel Moon 1 could Rebel Moon turn out OK?](https://www.polygon.com/24016804/rebel-moon-2-trailer-scargiver-netflix-release)
+ - [The Baldur&#39;s Gate 3 Cats, Ranked](https://kotaku.com/baldurs-gate-3-bg3-cats-where-to-find-cute-his-majesty-1851126460)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
