@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to make music](http://9gag.com/gag/az2WVeb)
- - ⏩ [To buy a Christmas gift](http://9gag.com/gag/aA08r4o)
- - 👉 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)<!-- MEMES:END -->
+ - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - ⏩ [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 👉 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)<!-- MEMES:END -->
 
 ---
 
