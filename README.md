@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)
- - ⏩ [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
- - 👉 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)<!-- MEMES:END -->
+ - 💣 [Humor is one of the finest traits in life.](http://9gag.com/gag/a4oXdW1)
+ - ⏩ [This is so accurate, it&#39;s terrifying...](http://9gag.com/gag/a6q0y29)
+ - 👉 [Wait a min..](http://9gag.com/gag/aQELn62)<!-- MEMES:END -->
 
 ---
 
