@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to take advantage of Chrome’s side panel](https://www.theverge.com/24016278/chrome-google-side-panel-how-to)
  - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
- - [What If…? season 2 doesn’t get good until it really lets loose](https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter)
- - [New York Times sues Microsoft and OpenAI for training AI on its articles](https://www.androidauthority.com/microsoft-openai-nyt-lawsuit-3397947/)<!-- TECH:END -->
+ - [What If…? season 2 doesn’t get good until it really lets loose](https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
