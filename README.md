@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - ⏩ [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
- - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
+ - 💣 [How to make music](http://9gag.com/gag/az2WVeb)
+ - ⏩ [To buy a Christmas gift](http://9gag.com/gag/aA08r4o)
+ - 👉 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)<!-- MEMES:END -->
 
 ---
 
