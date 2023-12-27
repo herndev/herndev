@@ -117,11 +117,11 @@ Mac                      3 hrs 42 mins       █████████░░�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35769](https://github.com/timburgan/timburgan/issues/35769) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#4083](https://github.com/marcizhu/marcizhu/issues/4083) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. ❗️ Opened issue [#35738](https://github.com/timburgan/timburgan/issues/35738) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#4078](https://github.com/marcizhu/marcizhu/issues/4078) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-5. ❗️ Opened issue [#246](https://github.com/JohnyP36/Connect4/issues/246) in [JohnyP36/Connect4](https://github.com/JohnyP36/Connect4)
+1. ❗️ Opened issue [#35813](https://github.com/timburgan/timburgan/issues/35813) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#4094](https://github.com/marcizhu/marcizhu/issues/4094) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+3. ❗️ Opened issue [#35769](https://github.com/timburgan/timburgan/issues/35769) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗️ Opened issue [#4083](https://github.com/marcizhu/marcizhu/issues/4083) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+5. ❗️ Opened issue [#35738](https://github.com/timburgan/timburgan/issues/35738) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 ---
