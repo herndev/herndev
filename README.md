@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Apple Watch import ban is on hold, for now](https://appleinsider.com/articles/23/12/27/us-apple-watch-import-ban-is-on-hold-for-now?utm_medium=rss)
- - [LG’s new 4K OLED monitor offers an insane 480Hz refresh rate](https://www.androidauthority.com/gaming-monitor-refresh-rate-3397918/)
- - [This heavy-duty battery pack for travelers is $80 off](https://www.theverge.com/2023/12/27/24016275/zendure-supertank-pro-apple-14-inch-macbook-pro-deal-sale)<!-- TECH:END -->
+ - [Tiger, Coatue, Vision Fund, a16z, Insight, Accel, Sequoia, Lightspeed, and Index together invested in 44 unicorns in 2023, down from 213 in 2022 and 471 in 2021 &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/231227/p19#a231227p19)
+ - [Apple&#39;s April 2023 in review: Honoring Steve Jobs, opening up India, and learning to save](https://appleinsider.com/articles/23/12/27/apples-april-2023-in-review-honoring-steve-jobs-opening-up-india-and-learning-to-save?utm_medium=rss)
+ - [Saving sites: Pocket’s bookmarking app and its alternatives](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
