@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - ⏩ [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 💣 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - ⏩ [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 👉 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)<!-- MEMES:END -->
 
 ---
 
