@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [User Needed One More Steam Point To Hit 69,000 And Valve Delivered](https://kotaku.com/valve-steam-points-gift-one-69-000-nice-number-miracle-1851125133)
  - [28 Things I Wish I Knew Before I Started Playing Starfield](https://kotaku.com/starfield-tips-guide-xbox-money-fast-travel-map-traits-1850798018)
- - [The 17 Best Games For Sony&#39;s PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)
- - [19 Things We Wish We Knew About Spider-Man 2 Before We Started](https://kotaku.com/spider-man-2-ps5-tips-tricks-help-guide-spoiler-free-1850941904)<!-- GAME:END -->
+ - [The 17 Best Games For Sony&#39;s PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
