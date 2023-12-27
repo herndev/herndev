@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scully](http://9gag.com/gag/a8qRY5e)
- - ⏩ [Lol](http://9gag.com/gag/aA08Yw0)
+ - 💣 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)
+ - ⏩ [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
  - 👉 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)<!-- MEMES:END -->
 
 ---
