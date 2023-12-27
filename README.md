@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
- - ⏩ [Tight dress](http://9gag.com/gag/anzmXzo)
- - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
+ - 💣 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - ⏩ [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 👉 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)<!-- MEMES:END -->
 
 ---
 
