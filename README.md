@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father of the year](http://9gag.com/gag/axoLZXb)
- - ⏩ [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 👉 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)<!-- MEMES:END -->
+ - 💣 [I paid for the shovel, Im gonna use the shovel](http://9gag.com/gag/agoDVoq)
+ - ⏩ [Maybe having all that access wasn&#39;t a good idea](http://9gag.com/gag/az2Wj4p)
+ - 👉 [We&#39;ve ran out of wednesdays, dudes](http://9gag.com/gag/aYV3Lp2)<!-- MEMES:END -->
 
 ---
 
