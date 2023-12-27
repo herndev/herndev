@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [US Apple Watch import ban is on hold, for now](https://appleinsider.com/articles/23/12/27/us-apple-watch-import-ban-is-on-hold-for-now?utm_medium=rss)
- - [Apple Watch ban temporarily paused](https://www.theverge.com/2023/12/27/24016464/apple-watch-itc-ban-paused)
- - [A US appeals court pauses the ITC&#39;s ban on Apple Watch Series 9 and Ultra 2 imports due to the Masimo patent dispute, after Biden declined to veto the ban &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231227/p18#a231227p18)<!-- TECH:END -->
+ - [LG’s new 4K OLED monitor offers an insane 480Hz refresh rate](https://www.androidauthority.com/gaming-monitor-refresh-rate-3397918/)
+ - [This heavy-duty battery pack for travelers is $80 off](https://www.theverge.com/2023/12/27/24016275/zendure-supertank-pro-apple-14-inch-macbook-pro-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
