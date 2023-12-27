@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact ‘Into the Frame’ solutions and event guide](https://www.polygon.com/genshin-impact-guides/24016399/into-the-frame-event-solution-roses-and-muskets)
- - [Good News, Tekken 8 Is Bringing Back The Series&#39; Best Character](https://kotaku.com/kuma-bear-tekken-8-character-reveal-trailer-panda-1851126222)
- - [The AMD RX 7800 XT might not have set the world on fire this year, but for me it&#39;s been nothing but a pleasure](https://www.pcgamer.com/the-amd-rx-7800-xt-might-not-have-set-the-world-on-fire-this-year-but-for-me-its-been-nothing-but-a-pleasure)<!-- GAME:END -->
+ - [Tekken 8 gives Kuma an attack with shocking implications](https://www.polygon.com/24016605/tekken-8-kuma-kazuya-new-trailer-characters)
+ - [Emerald Fennell explains why Saltburn’s ending had to be so naked](https://www.polygon.com/23984716/saltburn-ending-explained-barry-keoghan-full-frontal-nudity)
+ - [We should get a new Muppet Christmas Carol-alike every year](https://www.polygon.com/24012791/muppet-christmas-carol-new-muppet-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
