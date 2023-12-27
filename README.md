@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - ⏩ [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 👉 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)<!-- MEMES:END -->
+ - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - ⏩ [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 👉 [The Swedish government has announced it will stop paying development aid to countries that don\u2019t take back rejected asylum seekers from Sweden....After so many girls have been raped, are they starting to realize?](http://9gag.com/gag/aKEQzPN)<!-- MEMES:END -->
 
 ---
 
