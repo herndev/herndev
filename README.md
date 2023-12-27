@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan plans to fine Apple over app stores and force sideloading](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)
- - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
- - [Hands on with Holafly eSIM: Easy and hassle-free mobile data for travelers](https://appleinsider.com/articles/23/12/27/hands-on-with-holafly-esim-easy-and-hassle-free-mobile-data-for-travelers?utm_medium=rss)<!-- TECH:END -->
+ - [ASUS rolls out stable Android 14 update for the Zenfone 10](https://www.androidauthority.com/asus-zenfone-10-stable-android-14-update-3397896/)
+ - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
+ - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
