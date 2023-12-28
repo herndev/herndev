@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
- - [Daily deals Dec. 28: $500 off M2 Pro MacBook Pro, $249 iPad, $170 off Bose 700 Headphones, $399 Asus ROG Ally, more](https://appleinsider.com/articles/23/12/28/daily-deals-dec-28-500-off-m2-pro-macbook-pro-249-ipad-170-off-bose-700-headphones-399-asus-rog-ally-more?utm_medium=rss)
- - [Apple is pushing hard to make the Mac relevant in gaming](https://appleinsider.com/articles/23/12/28/apple-is-pushing-hard-to-make-the-mac-relevant-in-gaming?utm_medium=rss)<!-- TECH:END -->
+ - [How to get apps for old iPhones and iPads](https://appleinsider.com/inside/ios/tips/how-to-get-apps-for-old-iphones-and-ipads?utm_medium=rss)
+ - [The Galaxy Tab S6 Lite just got a record 49% price drop](https://www.androidauthority.com/samsung-galaxy-tab-s6-lite-deal-3398194/)
+ - [Nothing Phone 2a price range leaks, and it looks to be very wallet-friendly](https://www.androidauthority.com/nothing-phone-2a-price-3398189/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
