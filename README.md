@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #922 for Thursday, December 28](https://www.pcgamer.com/wordle-today-answer-922-december-28)
  - [Tiny Rogues feels like someone stuffed Brotato and Binding of Isaac into a fantasy shell](https://www.pcgamer.com/tiny-rogues-feels-like-someone-stuffed-brotato-and-binding-of-isaac-into-a-fantasy-shell)
- - [January&#39;s PS Plus Games Bring B-Movie Thrills, Plague-Ridden Chills](https://kotaku.com/ps-plus-games-january-2024-plague-tale-1851127104)
- - [Lord Of The Rings Moneyball Is the Perfect Meme To End 2023](https://kotaku.com/lord-rings-moneyball-memes-streaming-1851127017)<!-- GAME:END -->
+ - [January&#39;s PS Plus Games Bring B-Movie Thrills, Plague-Ridden Chills](https://kotaku.com/ps-plus-games-january-2024-plague-tale-1851127104)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
