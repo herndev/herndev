@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get apps for old iPhones and iPads](https://appleinsider.com/inside/ios/tips/how-to-get-apps-for-old-iphones-and-ipads?utm_medium=rss)
- - [The Galaxy Tab S6 Lite just got a record 49% price drop](https://www.androidauthority.com/samsung-galaxy-tab-s6-lite-deal-3398194/)
- - [Nothing Phone 2a price range leaks, and it looks to be very wallet-friendly](https://www.androidauthority.com/nothing-phone-2a-price-3398189/)<!-- TECH:END -->
+ - [Binance CEO Richard Teng says the crypto exchange&#39;s user base grew 30% in 2023 and now has a total of 170M accounts &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/231228/p12#a231228p12)
+ - [Google will settle Chrome incognito mode class-action suit so nothing will change](https://www.androidauthority.com/chrome-incognito-mode-suit-3398230/)
+ - [India seeks to block the URLs of nine offshore crypto exchanges, including Binance, Kraken, KuCoin, and Huobi, for not complying with anti-money laundering laws &lpar;The Indian Express&rpar;](http://www.techmeme.com/231228/p11#a231228p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
