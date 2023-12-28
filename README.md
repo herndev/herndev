@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Forget your fancy monitors and GPUs. The best hardware released this year is a mid range laptop CPU and I&#39;ll fight anyone who disagrees](https://www.pcgamer.com/forget-your-fancy-monitors-and-gpus-the-best-hardware-released-this-year-is-a-mid-range-laptop-cpu-and-ill-fight-anyone-who-disagrees)
  - [People aren’t tired of superheroes, they’re tired of bad superhero movies](https://www.polygon.com/24016931/superhero-fatigue-movie-flops-2023-mcu-dceu)
- - [45 things that made us say &#39;holy sh*t!&#39; in 2023](https://www.pcgamer.com/45-things-that-made-us-say-holy-sht-in-2023)
- - [Pokémon Concierge is my Chicken Soup for the Soul](https://www.polygon.com/24009728/pokemon-concierge-netflix-animation-review-new-show)<!-- GAME:END -->
+ - [Kotaku Readers Share Their Favorite Holiday Gaming Gifts](https://kotaku.com/favorite-gaming-christmas-gifts-gamecube-snes-zelda-1851128356)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
