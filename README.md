@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shitty ps5...](http://9gag.com/gag/avQMn2M)
- - ⏩ [When someone asks me about today&#39;s shit around the world....](http://9gag.com/gag/aBdA1AZ)
- - 👉 [Classic iconic](http://9gag.com/gag/aqeP2Rv)<!-- MEMES:END -->
+ - 💣 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
+ - ⏩ [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
 
 ---
 
