@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Typical things](http://9gag.com/gag/a3Z6B4Q)
- - ⏩ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 👉 [Practicing some James Brown moves](http://9gag.com/gag/aXnyAeb)<!-- MEMES:END -->
+ - 💣 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
+ - ⏩ [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 👉 [For you..](http://9gag.com/gag/aL1Z2LP)<!-- MEMES:END -->
 
 ---
 
