@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Pokémon that makes an appearance in Pokémon Concierge](https://www.polygon.com/pokemon/24011390/every-pokemon-in-concierge-psyduck-magikarp-list)
- - [Wordle today: Hint and answer #922 for Thursday, December 28](https://www.pcgamer.com/wordle-today-answer-922-december-28)
- - [Tiny Rogues feels like someone stuffed Brotato and Binding of Isaac into a fantasy shell](https://www.pcgamer.com/tiny-rogues-feels-like-someone-stuffed-brotato-and-binding-of-isaac-into-a-fantasy-shell)<!-- GAME:END -->
+ - [2023 in crypto and web3: Scams, collapses, and finally some consequences](https://www.pcgamer.com/2023-in-crypto-and-web3-scams-collapses-and-finally-some-consequences)
+ - [After 2023, I&#39;ve had my fill of 100+ hour sprawling mega-games for a while](https://www.pcgamer.com/after-2023-ive-had-my-fill-of-100-hour-sprawling-mega-games-for-a-while)
+ - [PC Gamer Hardware Awards: The best SSDs of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-ssds-of-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
