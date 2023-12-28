@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh damn, the window shattered again for no reason](http://9gag.com/gag/anzm1Vb)
- - ⏩ [Classic iconic](http://9gag.com/gag/aqeP2Rv)
- - 👉 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)<!-- MEMES:END -->
+ - 💣 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - ⏩ [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
+ - 👉 [Grab the bat](http://9gag.com/gag/a04rPBv)<!-- MEMES:END -->
 
 ---
 
