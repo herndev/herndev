@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York Times&#39; lawsuit against OpenAI and Microsoft relies on a false belief that copyright can limit the right to read and process data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/231228/p17#a231228p17)
  - [Filing: Google agrees to settle a 2020 lawsuit that accused Google of tracking activity in Chrome&#39;s incognito mode and tying it to users&#39; profiles &lpar;Eric Bangeman/Ars Technica&rpar;](http://www.techmeme.com/231228/p16#a231228p16)
- - [Hey Alexa, quit it with the bootleg Viagra, says the FDA](https://www.theverge.com/2023/12/28/24017935/fda-warns-amazon-fake-supplements-viagra-cialis-erectile-dysfunction-drugs)
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [Hey Alexa, quit it with the bootleg Viagra, says the FDA](https://www.theverge.com/2023/12/28/24017935/fda-warns-amazon-fake-supplements-viagra-cialis-erectile-dysfunction-drugs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
