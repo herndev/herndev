@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance CEO Richard Teng says the crypto exchange&#39;s user base grew 30% in 2023 and now has a total of 170M accounts &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/231228/p12#a231228p12)
- - [Google will settle Chrome incognito mode class-action suit so nothing will change](https://www.androidauthority.com/chrome-incognito-mode-suit-3398230/)
- - [India seeks to block the URLs of nine offshore crypto exchanges, including Binance, Kraken, KuCoin, and Huobi, for not complying with anti-money laundering laws &lpar;The Indian Express&rpar;](http://www.techmeme.com/231228/p11#a231228p11)<!-- TECH:END -->
+ - [YouTube TV not working? Here’s how you can try to fix it](https://www.androidauthority.com/youtube-tv-not-working-3398196/)
+ - [Apple&#39;s June 2023 in review: Vision Pro, Mac Pro, and tech titan fighting talk](https://appleinsider.com/articles/23/12/28/apples-june-2023-in-review-vision-pro-mac-pro-and-tech-titan-fighting-talk?utm_medium=rss)
+ - [Microsoft Surface Laptop 6 rumors: Expected release date and what we want to see](https://www.androidauthority.com/microsoft-surface-laptop-6-3352642/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
