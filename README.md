@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
- - ⏩ [Life goals!](http://9gag.com/gag/ap94L7b)
- - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
+ - 💣 [Weird way to come out. At least mom&#39;s cool with it.](http://9gag.com/gag/awZEVrD)
+ - ⏩ [When someone asks me about today&#39;s shit around the world....](http://9gag.com/gag/aBdA1AZ)
+ - 👉 [Classic iconic](http://9gag.com/gag/aqeP2Rv)<!-- MEMES:END -->
 
 ---
 
