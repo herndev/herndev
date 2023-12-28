@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - ⏩ [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
- - 👉 [For you..](http://9gag.com/gag/aL1Z2LP)<!-- MEMES:END -->
+ - 💣 [Jim Carrey is a legend](http://9gag.com/gag/aoKv1EX)
+ - ⏩ [She found herself a new ride...](http://9gag.com/gag/a7qYZ4q)
+ - 👉 [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)<!-- MEMES:END -->
 
 ---
 
