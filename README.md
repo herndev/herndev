@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - ⏩ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
+ - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - ⏩ [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 👉 [White men race smv in Asia is massive](http://9gag.com/gag/awZE7Ky)<!-- MEMES:END -->
 
 ---
 
