@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing shows Apple supplier Luxshare plans to buy a 62.5% stake in Pegatron&#39;s Kunshan unit in eastern China for about $300M, as it seeks to compete with Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231228/p7#a231228p7)
- - [How to delete an Apple ID account](https://appleinsider.com/articles/21/01/04/how-to-delete-an-apple-id-account?utm_medium=rss)
- - [The Most Dangerous People on the Internet in 2023](https://www.wired.com/story/most-dangerous-people-2023/)<!-- TECH:END -->
+ - [3 things Samsung needs to fix with Galaxy A series phones in 2024](https://www.androidauthority.com/fix-samsung-galaxy-a-series-2024-3391657/)
+ - [&#39;Operation Triangulation&#39; exposes advanced iMessage attack on security firm](https://appleinsider.com/articles/23/12/28/operation-triangulation-exposes-advanced-imessage-attack-on-security-firm?utm_medium=rss)
+ - [Apple Vision Pro 2 could get brighter RGB OLEDoS displays](https://appleinsider.com/articles/23/12/28/apple-vision-pro-2-could-get-brighter-rgb-oledos-displays?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
