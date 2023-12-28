@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best motherboard of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-motherboard-of-2023)
- - [2023 in crypto and web3: Scams, collapses, and finally some consequences](https://www.pcgamer.com/2023-in-crypto-and-web3-scams-collapses-and-finally-some-consequences)
- - [After 2023, I&#39;ve had my fill of 100+ hour sprawling mega-games for a while](https://www.pcgamer.com/after-2023-ive-had-my-fill-of-100-hour-sprawling-mega-games-for-a-while)<!-- GAME:END -->
+ - [The Best Shooters Of 2023](https://kotaku.com/best-fps-shooters-2023-steam-finals-halo-doom-battlebit-1851127220)
+ - [Best Story 2023: Alan Wake 2](https://www.pcgamer.com/best-story-2023-alan-wake-2)
+ - [Counter-Strike 2 just remade my favourite game from the ground-up for free and let me keep my fancy AK-47, so of course it&#39;s the true GOTY](https://www.pcgamer.com/counter-strike-2-just-remade-my-favourite-game-from-the-ground-up-for-free-and-let-me-keep-my-fancy-ak-47-so-of-course-its-the-true-goty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
