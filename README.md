@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The internet is full of weird and wonderful Grand Theft Auto 6 trailer remixes](https://www.polygon.com/24017780/grand-theft-auto-6-gta-trailer-fortnite-minecraft-youtube)
- - [The Best RPGs Of 2023](https://kotaku.com/best-rpgs-2023-jrpg-baldur-s-gate-3-octopath-traveler-2-1851128706)
- - [Escape From Tarkov adds Ground Zero, a dense urban area](https://www.pcgamer.com/escape-from-tarkov-adds-ground-zero-a-dense-urban-area)<!-- GAME:END -->
+ - [Chinese Chess Champ Stripped Of Title After Taking A Dump In A Bathtub](https://kotaku.com/chinese-chess-champion-scandal-yan-chenglong-1851128928)
+ - [Pokémon’s 2023 Showed The Darker Side Of The Pikachu Machine](https://kotaku.com/pokemon-scarlet-violet-dlc-van-gogh-go-remote-raids-1851128900)
+ - [This PS5 Controller Will Never Drift, But It&#39;s Not All Good News](https://kotaku.com/nacon-ps5-controller-drift-ps4-pc-1851128871)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
