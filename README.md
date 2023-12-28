@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new AI-enabled smart fridge can design recipes based on your dietary needs](https://www.theverge.com/2023/12/27/24016939/samsung-2024-ai-family-hub-smart-fridge-features)
- - [Apple Watch Series 9, Apple Watch Ultra 2 return to Apple Stores](https://appleinsider.com/articles/23/12/27/apple-watch-series-9-apple-watch-ultra-2-return-to-apple-stores?utm_medium=rss)
- - [Apple resumes Watch Series 9 and Ultra 2 sales in some physical US stores starting today, with online sales resuming tomorrow by 3PM ET &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231227/p22#a231227p22)<!-- TECH:END -->
+ - [B&amp;H slashes Apple&#39;s M2 Pro MacBook Pro to $1,599, save $400 now](https://appleinsider.com/articles/23/12/27/bh-slashes-apples-m2-pro-macbook-pro-to-1599-save-400-now?utm_medium=rss)
+ - [The cheapest countries to buy a Google Pixel 7](https://www.androidauthority.com/cheapest-place-to-buy-google-pixel-7-3338369/)
+ - [Samsung’s new AI-enabled smart fridge can design recipes based on your dietary needs](https://www.theverge.com/2023/12/27/24016939/samsung-2024-ai-family-hub-smart-fridge-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
