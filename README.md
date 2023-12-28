@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Things were seen, decisions were regretted](http://9gag.com/gag/aREbV9q)
- - ⏩ [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)<!-- MEMES:END -->
+ - 💣 [Clutch](http://9gag.com/gag/a2K3mMD)
+ - ⏩ [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
+ - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
 
 ---
 
