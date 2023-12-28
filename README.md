@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cWhy was Frodo the best burglar? Because he was always up to Mordor.\u201d](http://9gag.com/gag/anzmbBo)
+ - 💣 [Ugly](http://9gag.com/gag/aGEm16w)
  - ⏩ [Jim Carrey is a legend](http://9gag.com/gag/aoKv1EX)
  - 👉 [GO SPORTS!](http://9gag.com/gag/adPGqZZ)<!-- MEMES:END -->
 
