@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi unveils its first EV, SU7, and says it wants to become a top global carmaker in 15 to 20 years; CEO Lei Jun calls it his final entrepreneurial bet &lpar;Bloomberg&rpar;](http://www.techmeme.com/231228/p4#a231228p4)
- - [Jony Ive’s potential AI Phone project hires iPhone Design Chief](https://www.androidauthority.com/jony-ive-potential-ai-phone-project-hires-iphone-design-chief-3398086/)
- - [Samsung’s upcoming battery protection feature actually exists on One UI 6](https://www.androidauthority.com/samsung-advanced-battery-protection-one-ui-6-3398076/)<!-- TECH:END -->
+ - [Baidu CTO says the company&#39;s ChatGPT-like Ernie Bot now has 100M+ users, after launching the chatbot to the public in August, 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231228/p6#a231228p6)
+ - [Transgender people say games help them explore their identities; character creation in RPGs like Starfield and Baldur&#39;s Gate 3 makes fewer gendered assumptions &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/231228/p5#a231228p5)
+ - [What are ChatGPT plugins, and how to use them?](https://www.androidauthority.com/chatgpt-plugins-3341693/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
