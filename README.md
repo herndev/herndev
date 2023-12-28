@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - ⏩ [Random Tolkien fact.](http://9gag.com/gag/a4oXLYd)
- - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
+ - 💣 [Oh damn, the window shattered again for no reason](http://9gag.com/gag/anzm1Vb)
+ - ⏩ [Classic iconic](http://9gag.com/gag/aqeP2Rv)
+ - 👉 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)<!-- MEMES:END -->
 
 ---
 
