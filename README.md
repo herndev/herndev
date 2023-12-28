@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget your fancy monitors and GPUs. The best hardware released this year is a mid range laptop CPU and I&#39;ll fight anyone who disagrees](https://www.pcgamer.com/forget-your-fancy-monitors-and-gpus-the-best-hardware-released-this-year-is-a-mid-range-laptop-cpu-and-ill-fight-anyone-who-disagrees)
- - [People aren’t tired of superheroes, they’re tired of bad superhero movies](https://www.polygon.com/24016931/superhero-fatigue-movie-flops-2023-mcu-dceu)
- - [Kotaku Readers Share Their Favorite Holiday Gaming Gifts](https://kotaku.com/favorite-gaming-christmas-gifts-gamecube-snes-zelda-1851128356)<!-- GAME:END -->
+ - [The internet is full of weird and wonderful Grand Theft Auto 6 trailer remixes](https://www.polygon.com/24017780/grand-theft-auto-6-gta-trailer-fortnite-minecraft-youtube)
+ - [The Best RPGs Of 2023](https://kotaku.com/best-rpgs-2023-jrpg-baldur-s-gate-3-octopath-traveler-2-1851128706)
+ - [Escape From Tarkov adds Ground Zero, a dense urban area](https://www.pcgamer.com/escape-from-tarkov-adds-ground-zero-a-dense-urban-area)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
