@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Build your own bundle of great Steam games, starting at $14.99](https://www.polygon.com/deals/24017543/steam-game-bundle-death-stranding-control-ace-attorney-deal-sale-fanatical)
- - [Xbox Slammed For AI-Generated Art Promoting Indie Games](https://kotaku.com/xbox-microsoft-xbox-ai-generated-1851128191)
- - [PC Gamer&#39;s biggest hardware stories of 2023: AI wars, quantum lies, ray tracing magic, storage matters, and more](https://www.pcgamer.com/pc-gamers-biggest-hardware-stories-of-2023-ai-wars-quantum-lies-ray-tracing-magic-storage-matters-and-more)<!-- GAME:END -->
+ - [People aren’t tired of superheroes, they’re tired of bad superhero movies](https://www.polygon.com/24016931/superhero-fatigue-movie-flops-2023-mcu-dceu)
+ - [45 things that made us say &#39;holy sh*t!&#39; in 2023](https://www.pcgamer.com/45-things-that-made-us-say-holy-sht-in-2023)
+ - [Pokémon Concierge is my Chicken Soup for the Soul](https://www.polygon.com/24009728/pokemon-concierge-netflix-animation-review-new-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
