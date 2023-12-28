@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ugly](http://9gag.com/gag/aGEm16w)
- - ⏩ [Jim Carrey is a legend](http://9gag.com/gag/aoKv1EX)
- - 👉 [GO SPORTS!](http://9gag.com/gag/adPGqZZ)<!-- MEMES:END -->
+ - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - ⏩ [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
+ - 👉 [For you..](http://9gag.com/gag/aL1Z2LP)<!-- MEMES:END -->
 
 ---
 
