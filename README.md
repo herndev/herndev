@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jony Ive’s potential AI Phone project hires iPhone Design Chief](https://www.androidauthority.com/jony-ive-potential-ai-phone-project-hires-iphone-design-chief-3398086/)
  - [Samsung’s upcoming battery protection feature actually exists on One UI 6](https://www.androidauthority.com/samsung-advanced-battery-protection-one-ui-6-3398076/)
- - [Apple can resume selling the latest Apple Watches, for now](https://www.androidauthority.com/apple-watches-ban-interim-stay-3398063/)
- - [Disney, WBD, Comcast, and Paramount face a year of reckoning in 2024 after losing $5B+ in 2023 from the streaming services they built to compete with Netflix &lpar;Financial Times&rpar;](http://www.techmeme.com/231228/p3#a231228p3)<!-- TECH:END -->
+ - [Apple can resume selling the latest Apple Watches, for now](https://www.androidauthority.com/apple-watches-ban-interim-stay-3398063/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
