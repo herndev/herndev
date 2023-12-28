@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H slashes Apple&#39;s M2 Pro MacBook Pro to $1,599, save $400 now](https://appleinsider.com/articles/23/12/27/bh-slashes-apples-m2-pro-macbook-pro-to-1599-save-400-now?utm_medium=rss)
- - [The cheapest countries to buy a Google Pixel 7](https://www.androidauthority.com/cheapest-place-to-buy-google-pixel-7-3338369/)
- - [Samsung’s new AI-enabled smart fridge can design recipes based on your dietary needs](https://www.theverge.com/2023/12/27/24016939/samsung-2024-ai-family-hub-smart-fridge-features)<!-- TECH:END -->
+ - [Sources: India pressed Apple to come up with alternative explanations for warning Indian journalists and opposition politicians of state-sponsored iPhone hacks &lpar;Washington Post&rpar;](http://www.techmeme.com/231227/p23#a231227p23)
+ - [8 Best Roku Deals: Save Up to $33 on Our Favorite Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
+ - [B&amp;H slashes Apple&#39;s M2 Pro MacBook Pro to $1,599, save $400 now](https://appleinsider.com/articles/23/12/27/bh-slashes-apples-m2-pro-macbook-pro-to-1599-save-400-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
