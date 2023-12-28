@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jim Carrey is a legend](http://9gag.com/gag/aoKv1EX)
- - ⏩ [She found herself a new ride...](http://9gag.com/gag/a7qYZ4q)
- - 👉 [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)<!-- MEMES:END -->
+ - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - ⏩ [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 ---
 
