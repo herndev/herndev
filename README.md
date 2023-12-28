@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For you..](http://9gag.com/gag/aL1Z2LP)
- - ⏩ [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
- - 👉 [Ackchyually...](http://9gag.com/gag/a3Z67z8)<!-- MEMES:END -->
+ - 💣 [Typical things](http://9gag.com/gag/a3Z6B4Q)
+ - ⏩ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 👉 [Practicing some James Brown moves](http://9gag.com/gag/aXnyAeb)<!-- MEMES:END -->
 
 ---
 
