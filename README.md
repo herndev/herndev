@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
- - ⏩ [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - 👉 [For you..](http://9gag.com/gag/aL1Z2LP)<!-- MEMES:END -->
+ - 💣 [For you..](http://9gag.com/gag/aL1Z2LP)
+ - ⏩ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 👉 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)<!-- MEMES:END -->
 
 ---
 
