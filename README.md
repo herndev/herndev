@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - ⏩ [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
- - 👉 [Grab the bat](http://9gag.com/gag/a04rPBv)<!-- MEMES:END -->
+ - 💣 [Things were seen, decisions were regretted](http://9gag.com/gag/aREbV9q)
+ - ⏩ [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 👉 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)<!-- MEMES:END -->
 
 ---
 
