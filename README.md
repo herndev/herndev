@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weird way to come out. At least mom&#39;s cool with it.](http://9gag.com/gag/awZEVrD)
+ - 💣 [Shitty ps5...](http://9gag.com/gag/avQMn2M)
  - ⏩ [When someone asks me about today&#39;s shit around the world....](http://9gag.com/gag/aBdA1AZ)
  - 👉 [Classic iconic](http://9gag.com/gag/aqeP2Rv)<!-- MEMES:END -->
 
