@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu CTO says the company&#39;s ChatGPT-like Ernie Bot now has 100M+ users, after launching the chatbot to the public in August, 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231228/p6#a231228p6)
- - [Transgender people say games help them explore their identities; character creation in RPGs like Starfield and Baldur&#39;s Gate 3 makes fewer gendered assumptions &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/231228/p5#a231228p5)
- - [What are ChatGPT plugins, and how to use them?](https://www.androidauthority.com/chatgpt-plugins-3341693/)<!-- TECH:END -->
+ - [Filing shows Apple supplier Luxshare plans to buy a 62.5% stake in Pegatron&#39;s Kunshan unit in eastern China for about $300M, as it seeks to compete with Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231228/p7#a231228p7)
+ - [How to delete an Apple ID account](https://appleinsider.com/articles/21/01/04/how-to-delete-an-apple-id-account?utm_medium=rss)
+ - [The Most Dangerous People on the Internet in 2023](https://www.wired.com/story/most-dangerous-people-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
