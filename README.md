@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Shooters Of 2023](https://kotaku.com/best-fps-shooters-2023-steam-finals-halo-doom-battlebit-1851127220)
- - [Best Story 2023: Alan Wake 2](https://www.pcgamer.com/best-story-2023-alan-wake-2)
- - [Counter-Strike 2 just remade my favourite game from the ground-up for free and let me keep my fancy AK-47, so of course it&#39;s the true GOTY](https://www.pcgamer.com/counter-strike-2-just-remade-my-favourite-game-from-the-ground-up-for-free-and-let-me-keep-my-fancy-ak-47-so-of-course-its-the-true-goty)<!-- GAME:END -->
+ - [Build your own bundle of great Steam games, starting at $14.99](https://www.polygon.com/deals/24017543/steam-game-bundle-death-stranding-control-ace-attorney-deal-sale-fanatical)
+ - [Xbox Slammed For AI-Generated Art Promoting Indie Games](https://kotaku.com/xbox-microsoft-xbox-ai-generated-1851128191)
+ - [PC Gamer&#39;s biggest hardware stories of 2023: AI wars, quantum lies, ray tracing magic, storage matters, and more](https://www.pcgamer.com/pc-gamers-biggest-hardware-stories-of-2023-ai-wars-quantum-lies-ray-tracing-magic-storage-matters-and-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
