@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insider Intelligence: LinkedIn&#39;s annual advertising revenue, which rose 10.1% YoY to ~$4B in 2023, is expected to grow 14.1% YoY in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/231228/p1#a231228p1)
- - [GM claims in a lawsuit that SF unfairly taxed it $108M over seven years, using the presence of Cruise to tie its tax bill to a portion of GM&#39;s global revenue &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231227/p25#a231227p25)
- - [Sleep Sweet With Huge Savings During Crane &amp; Canopy&#39;s Mega Winter Sale     - CNET](https://www.cnet.com/deals/save-and-sleep-sweet-with-crane-canopys-holiday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korean national statistics data: chip production grew 42% YoY in November, the most since early 2017; shipments rose 80%, the biggest gain since late 2002 &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/231228/p2#a231228p2)
+ - [Google Maps’ Driving Mode could be killed off, because Google](https://www.androidauthority.com/google-kill-driving-mode-maps-3398059/)
+ - [Insider Intelligence: LinkedIn&#39;s annual advertising revenue, which rose 10.1% YoY to ~$4B in 2023, is expected to grow 14.1% YoY in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/231228/p1#a231228p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
