@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [My New Year’s Gaming Resolution: Spend More Time Gaming On Consoles](https://kotaku.com/new-years-gaming-resolution-ps5-console-pc-steam-2024-1851129255)
  - [Chinese Chess Champ Stripped Of Title After Taking A Dump In A Bathtub](https://kotaku.com/chinese-chess-champion-scandal-yan-chenglong-1851128928)
- - [Pokémon’s 2023 Showed The Darker Side Of The Pikachu Machine](https://kotaku.com/pokemon-scarlet-violet-dlc-van-gogh-go-remote-raids-1851128900)
- - [This PS5 Controller Will Never Drift, But It&#39;s Not All Good News](https://kotaku.com/nacon-ps5-controller-drift-ps4-pc-1851128871)<!-- GAME:END -->
+ - [Pokémon’s 2023 Showed The Darker Side Of The Pikachu Machine](https://kotaku.com/pokemon-scarlet-violet-dlc-van-gogh-go-remote-raids-1851128900)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
