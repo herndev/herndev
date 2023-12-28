@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - ⏩ [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
+ - 💣 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - ⏩ [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 👉 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
 
 ---
 
