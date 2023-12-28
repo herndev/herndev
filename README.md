@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV not working? Here’s how you can try to fix it](https://www.androidauthority.com/youtube-tv-not-working-3398196/)
- - [Apple&#39;s June 2023 in review: Vision Pro, Mac Pro, and tech titan fighting talk](https://appleinsider.com/articles/23/12/28/apples-june-2023-in-review-vision-pro-mac-pro-and-tech-titan-fighting-talk?utm_medium=rss)
- - [Microsoft Surface Laptop 6 rumors: Expected release date and what we want to see](https://www.androidauthority.com/microsoft-surface-laptop-6-3352642/)<!-- TECH:END -->
+ - [Surface Pro 10 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)
+ - [Sources: Microsoft readies AI-focused Surface Pro 10 and Surface Laptop 6 for spring 2024, in both Intel and Arm variants with improved designs and new features &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231228/p14#a231228p14)
+ - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
