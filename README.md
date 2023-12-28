@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 things Samsung needs to fix with Galaxy A series phones in 2024](https://www.androidauthority.com/fix-samsung-galaxy-a-series-2024-3391657/)
- - [&#39;Operation Triangulation&#39; exposes advanced iMessage attack on security firm](https://appleinsider.com/articles/23/12/28/operation-triangulation-exposes-advanced-imessage-attack-on-security-firm?utm_medium=rss)
- - [Apple Vision Pro 2 could get brighter RGB OLEDoS displays](https://appleinsider.com/articles/23/12/28/apple-vision-pro-2-could-get-brighter-rgb-oledos-displays?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Apple&#39;s renewed interest in gaming on the Mac, powered by Apple silicon, and an interview with Apple executives about Dynamic Caching and more &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/231228/p9#a231228p9)
+ - [Apple TV+ has one key component to make excellent sci-fi -- money](https://appleinsider.com/articles/23/12/28/apple-tv-has-one-key-component-to-make-excellent-sci-fi----money?utm_medium=rss)
+ - [Apple gets backlash from India after uncovering hacks on journalists](https://appleinsider.com/articles/23/12/28/apple-gets-backlash-from-india-after-uncovering-hacks-on-journalists?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
