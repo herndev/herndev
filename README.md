@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surface Pro 10 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)
- - [Sources: Microsoft readies AI-focused Surface Pro 10 and Surface Laptop 6 for spring 2024, in both Intel and Arm variants with improved designs and new features &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231228/p14#a231228p14)
- - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)<!-- TECH:END -->
+ - [Microsoft’s next Surface laptops will reportedly be its first true ‘AI PCs’](https://www.theverge.com/2023/12/28/24017890/microsoft-ai-surface-laptops-arm)
+ - [Unable to Pay Your Credit Card Bills This Month? Here&#39;s What You Can Do     - CNET](https://www.cnet.com/personal-finance/credit-cards/unable-to-pay-your-credit-card-bills-this-month-heres-what-you-can-do/#ftag=CAD590a51e)
+ - [Apple Watch Series 9 and Ultra 2 Ban: The Latest and What You Need to Know     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-and-ultra-2-ban-the-latest-and-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
