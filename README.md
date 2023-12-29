@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD.com says a Beijing court fined Alibaba ~$141M after finding that Alibaba&#39;s Tmall adopted monopolistic practices known as &quot;choosing one from two&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231229/p4#a231229p4)
- - [Financial Intelligence Unit India &lpar;FIU IND&rpar; issues compliance Show Cause Notices to nine offshore Virtual Digital Assets Service Providers &lpar;VDA SPs&rpar; &lpar;Press Information Bureau&rpar;](http://www.techmeme.com/231229/p3#a231229p3)
- - [You won’t need a Samsung phone to benefit from Galaxy S24’s AI call translation](https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/)<!-- TECH:END -->
+ - [The best Game Boy Advance emulators for iOS](https://www.androidauthority.com/best-gba-emulators-for-ios-3392411/)
+ - [Huawei says its full-year sales for 2023 would be more than $99B, up 9% YoY but down 20% from 2020 peak; Chairman Ken Hu says &quot;we&#39;re pretty much back on track&quot; &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/231229/p5#a231229p5)
+ - [JD.com says a Beijing court fined Alibaba ~$141M after finding that Alibaba&#39;s Tmall adopted monopolistic practices known as &quot;choosing one from two&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231229/p4#a231229p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
