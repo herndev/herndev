@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I played 20 city builders in 2023, and these are the 4 I loved most](https://www.pcgamer.com/i-played-20-city-builders-in-2023-and-these-are-the-4-i-loved-most)
- - [8 underappreciated games of 2023 that we think deserve way more players](https://www.pcgamer.com/8-underappreciated-games-of-2023-that-we-think-deserve-way-more-players)
- - [Mickey Mouse really enters the public domain in 2024](https://www.polygon.com/24011348/public-domain-2024-mickey-mouse-disney)<!-- GAME:END -->
+ - [The biggest gaming controversies of 2023](https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs)
+ - [All the big games that shut down in 2023](https://www.pcgamer.com/all-the-big-games-that-shut-down-in-2023)
+ - [I feel this tube amp + DAC lends me some imagined audiophile credence but it&#39;s also the best thing I added to my desk this year](https://www.pcgamer.com/i-feel-this-tube-amp-dac-lends-me-some-imagined-audiophile-credence-but-its-also-the-best-thing-i-added-to-my-desk-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
