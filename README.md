@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - ⏩ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 👉 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)<!-- MEMES:END -->
+ - 💣 [Yeah....if you know, you know.](http://9gag.com/gag/armQgmy)
+ - ⏩ [Hell must be filled with long backs](http://9gag.com/gag/ajVzE7R)
+ - 👉 [Indonesian citizenss are fed up with illegal immigrants and decide to do about it themselves...](http://9gag.com/gag/agoDXgK)<!-- MEMES:END -->
 
 ---
 
