@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - ⏩ [Go on and tell him](http://9gag.com/gag/aYV3K3O)
- - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
+ - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - ⏩ [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 👉 [Hardcore fishing.](http://9gag.com/gag/a8qR393)<!-- MEMES:END -->
 
 ---
 
