@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer Hardware Awards: The best gaming headsets of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-headsets-of-2023)
  - [Wordle today: Hint and answer #923 for Friday, December 29](https://www.pcgamer.com/wordle-today-answer-923-december-29)
- - [Curious little turn-based medieval strategy game Rising Lords musters for a January release](https://www.pcgamer.com/curious-little-turn-based-medieval-strategy-game-rising-lords-musters-for-a-january-release)
- - [My new favorite idler is about these little guys who hit their heads against a rock](https://www.pcgamer.com/my-new-favorite-idler-is-about-these-little-guys-who-hit-their-heads-against-a-rock)<!-- GAME:END -->
+ - [Curious little turn-based medieval strategy game Rising Lords musters for a January release](https://www.pcgamer.com/curious-little-turn-based-medieval-strategy-game-rising-lords-musters-for-a-january-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
