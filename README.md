@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP trevor](http://9gag.com/gag/az2W8NZ)
- - ⏩ [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)
- - 👉 [Audacity](http://9gag.com/gag/avQM7z5)<!-- MEMES:END -->
+ - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - ⏩ [Best day ever.](http://9gag.com/gag/aPgEDQV)
+ - 👉 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)<!-- MEMES:END -->
 
 ---
 
