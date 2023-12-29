@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life goals!](http://9gag.com/gag/ap94L7b)
- - ⏩ [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
- - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
+ - 💣 [Hell must be filled with long backs](http://9gag.com/gag/ajVzE7R)
+ - ⏩ [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 👉 [This post contain adult gifs in the comments section, here we go..](http://9gag.com/gag/aeQnYVj)<!-- MEMES:END -->
 
 ---
 
