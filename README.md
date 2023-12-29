@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An arrow and a Bow. But lets just go wa wa wa](http://9gag.com/gag/aGEm1L6)
- - ⏩ [Life goals!](http://9gag.com/gag/ap94L7b)
- - 👉 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)<!-- MEMES:END -->
+ - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - ⏩ [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
+ - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
 
 ---
 
