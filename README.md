@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How?](http://9gag.com/gag/aREbjEB)
- - ⏩ [Audacity](http://9gag.com/gag/avQM7z5)
- - 👉 [RIP trevor](http://9gag.com/gag/az2W8NZ)<!-- MEMES:END -->
+ - 💣 [Audacity](http://9gag.com/gag/avQM7z5)
+ - ⏩ [Bank Employees were passing by and noticed a 2yr old was climbing out a window and fell 6 floors....](http://9gag.com/gag/a04rKjX)
+ - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 ---
 
