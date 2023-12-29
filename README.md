@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How?](http://9gag.com/gag/aREbjEB)
- - ⏩ [100% how the world works today \ud83d\udd95](http://9gag.com/gag/aBdA8EO)
- - 👉 [RIP trevor](http://9gag.com/gag/az2W8NZ)<!-- MEMES:END -->
+ - 💣 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - ⏩ [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 👉 [What a legend](http://9gag.com/gag/aQELx12)<!-- MEMES:END -->
 
 ---
 
