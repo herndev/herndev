@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer&#39;s top hardware review scores of 2023, plus the five lowest we&#39;ve issued](https://www.pcgamer.com/pc-gamers-top-hardware-review-scores-of-2023-plus-the-five-lowest-weve-issued)
- - [Mimimi Games revived a genre, pushed it forward, and then shut down](https://www.polygon.com/24018066/shadow-gambit-cursed-crew-dlc-characters-yuki-zagan)
- - [Christmas Miracles, Terrific Memes, And More Of The Week&#39;s Best Gaming News](https://kotaku.com/gta-5-leak-dlc-star-wars-outlaws-starfield-1851129065)<!-- GAME:END -->
+ - [I played 20 city builders in 2023, and these are the 4 I loved most](https://www.pcgamer.com/i-played-20-city-builders-in-2023-and-these-are-the-4-i-loved-most)
+ - [8 underappreciated games of 2023 that we think deserve way more players](https://www.pcgamer.com/8-underappreciated-games-of-2023-that-we-think-deserve-way-more-players)
+ - [Mickey Mouse really enters the public domain in 2024](https://www.polygon.com/24011348/public-domain-2024-mickey-mouse-disney)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
