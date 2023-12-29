@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life goals!](http://9gag.com/gag/ap94L7b)
- - ⏩ [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
- - 👉 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)<!-- MEMES:END -->
+ - 💣 [How?](http://9gag.com/gag/aREbjEB)
+ - ⏩ [Audacity](http://9gag.com/gag/avQM7z5)
+ - 👉 [RIP trevor](http://9gag.com/gag/az2W8NZ)<!-- MEMES:END -->
 
 ---
 
