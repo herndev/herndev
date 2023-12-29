@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - ⏩ [Best day ever.](http://9gag.com/gag/aPgEDQV)
- - 👉 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)<!-- MEMES:END -->
+ - 💣 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - ⏩ [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
+ - 👉 [Olivia casta](http://9gag.com/gag/az2WjqB)<!-- MEMES:END -->
 
 ---
 
