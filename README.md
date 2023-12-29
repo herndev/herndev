@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You won’t need a Samsung phone to benefit from Galaxy S24’s AI call translation](https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/)
- - [Here are some more Galaxy S24 series renders for your viewing pleasure](https://www.androidauthority.com/samsung-galaxy-s24-series-leaked-renders-again-3398439/)
- - [Q&amp;A with Hinge founder and CEO Justin McLeod on selling the startup to Match Group, AI&#39;s potential, making the app less addictive, expanding to Europe, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231229/p2#a231229p2)<!-- TECH:END -->
+ - [JD.com says a Beijing court fined Alibaba ~$141M after finding that Alibaba&#39;s Tmall adopted monopolistic practices known as &quot;choosing one from two&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231229/p4#a231229p4)
+ - [Financial Intelligence Unit India &lpar;FIU IND&rpar; issues compliance Show Cause Notices to nine offshore Virtual Digital Assets Service Providers &lpar;VDA SPs&rpar; &lpar;Press Information Bureau&rpar;](http://www.techmeme.com/231229/p3#a231229p3)
+ - [You won’t need a Samsung phone to benefit from Galaxy S24’s AI call translation](https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
