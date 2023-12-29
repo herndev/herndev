@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - ⏩ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
+ - 💣 [RIP trevor](http://9gag.com/gag/az2W8NZ)
+ - ⏩ [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)
+ - 👉 [Audacity](http://9gag.com/gag/avQM7z5)<!-- MEMES:END -->
 
 ---
 
