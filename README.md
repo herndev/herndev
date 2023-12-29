@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - ⏩ [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 👉 [Olivia casta](http://9gag.com/gag/az2WjqB)<!-- MEMES:END -->
+ - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - ⏩ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
 
 ---
 
