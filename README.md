@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - ⏩ [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
- - 👉 [Best day ever.](http://9gag.com/gag/aPgEDQV)<!-- MEMES:END -->
+ - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - ⏩ [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 👉 [Olivia casta](http://9gag.com/gag/az2WjqB)<!-- MEMES:END -->
 
 ---
 
