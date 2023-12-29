@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Factorio pretty much rewrote its world generation to account for new planets—like this volcanic one](https://www.pcgamer.com/factorio-pretty-much-rewrote-its-world-generation-code-to-account-for-new-worldslike-this-volcanic-one)
  - [There&#39;s plenty FromSoftware could learn from this year&#39;s crop of inventive Soulslikes—here are 7 ideas I&#39;d love to see in one of their games](https://www.pcgamer.com/theres-plenty-fromsoftware-could-learn-from-this-years-crop-of-inventive-soulslikeshere-are-7-ideas-id-love-to-see-in-one-of-their-games)
- - [Obviously there should be a city-builder about penguins, so try the demo for this one](https://www.pcgamer.com/obviously-there-should-be-a-city-builder-about-penguins-so-try-the-demo-for-this-one)
- - [The best video essays of 2023](https://www.polygon.com/what-to-watch/23990893/best-video-essays-2023-youtube-vimeo)<!-- GAME:END -->
+ - [Obviously there should be a city-builder about penguins, so try the demo for this one](https://www.pcgamer.com/obviously-there-should-be-a-city-builder-about-penguins-so-try-the-demo-for-this-one)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
