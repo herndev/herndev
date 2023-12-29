@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - ⏩ [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
- - 👉 [Olivia casta](http://9gag.com/gag/az2WjqB)<!-- MEMES:END -->
+ - 💣 [How?](http://9gag.com/gag/aREbjEB)
+ - ⏩ [100% how the world works today \ud83d\udd95](http://9gag.com/gag/aBdA8EO)
+ - 👉 [RIP trevor](http://9gag.com/gag/az2W8NZ)<!-- MEMES:END -->
 
 ---
 
