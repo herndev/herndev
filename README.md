@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s July 2023 in review: Goldman Sachs wants out of Apple Card, Threads, Underdogs and more](https://appleinsider.com/articles/23/12/29/apples-july-2023-in-review-goldman-sachs-wants-out-of-apple-card-threads-underdogs-and-more?utm_medium=rss)
- - [Sources: India&#39;s decision to seek the blocking of the URLs of nine foreign crypto exchanges followed a request from the Indian crypto and Web3 advocacy body &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231229/p11#a231229p11)
- - [LG’s new MyView 4K monitors perform triple duty with webOS built-in](https://www.androidauthority.com/lg-myview-4k-monitors-3398658/)<!-- TECH:END -->
+ - [Nvidia is releasing a slower RTX 4090 in China to comply with US restrictions](https://www.theverge.com/2023/12/29/24018799/nvidia-4090d-china-slower-us-sanctions)
+ - [How to locate an Apple TV remote in iOS 17](https://appleinsider.com/inside/apple-tv/tips/how-to-locate-an-apple-tv-remote-in-ios-17?utm_medium=rss)
+ - [Catch a record-low price on the new Anker Nano10,000mAh power bank](https://www.androidauthority.com/anker-nano-power-bank-deal-3398677/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
