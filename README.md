@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - ⏩ [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 👉 [Go on and tell him](http://9gag.com/gag/aYV3K3O)<!-- MEMES:END -->
+ - 💣 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
+ - ⏩ [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
 
 ---
 
