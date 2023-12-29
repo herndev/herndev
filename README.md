@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - ⏩ [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
- - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
+ - 💣 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - ⏩ [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
+ - 👉 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)<!-- MEMES:END -->
 
 ---
 
