@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently, this was someone&#39;s wisdom tooth:](http://9gag.com/gag/aKEQV7Q)
- - ⏩ [Olivia casta](http://9gag.com/gag/az2WjqB)
- - 👉 [For you..](http://9gag.com/gag/aL1Z2LP)<!-- MEMES:END -->
+ - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - ⏩ [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
+ - 👉 [Best day ever.](http://9gag.com/gag/aPgEDQV)<!-- MEMES:END -->
 
 ---
 
