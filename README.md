@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best shows on Max in 2023](https://www.theverge.com/24003340/max-best-shows-2023)
- - [Apple&#39;s July 2023 in review: Goldman Sachs wants out of Apple Card, Threads, Underdogs and more](https://appleinsider.com/articles/23/12/29/apples-july-2023-in-review-goldman-sachs-wants-out-of-apple-card-threads-underdogs-and-more?utm_medium=rss)
- - [Apple Watch returns, QR risks, and accurate 2024 predictions on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/29/apple-watch-returns-qr-risks-and-accurate-2024-predictions-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Hotspot not working on your Verizon phone after Android 14 update? Here are some workarounds](https://www.androidauthority.com/verizon-hotspot-not-working-android-14-update-workaround-3398575/)
+ - [AirTag saves Christmas, tracks down luggage stolen from Charlotte airport](https://appleinsider.com/articles/23/12/29/airtag-saves-christmas-tracks-down-luggage-stolen-from-charlotte-airport?utm_medium=rss)
+ - [Apple stock jumped 54% in 2023 but underperformed tech peers after Apple suffered four straight quarters of declining revenue, its longest such slide since 2001 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231229/p8#a231229p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
