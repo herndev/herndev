@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah....if you know, you know.](http://9gag.com/gag/armQgmy)
- - ⏩ [Hell must be filled with long backs](http://9gag.com/gag/ajVzE7R)
- - 👉 [Indonesian citizenss are fed up with illegal immigrants and decide to do about it themselves...](http://9gag.com/gag/agoDXgK)<!-- MEMES:END -->
+ - 💣 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - ⏩ [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
+ - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
 
 ---
 
