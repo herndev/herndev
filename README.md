@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Ready for Tax Season With This $25 H&amp;R Block Tax Software Deal     - CNET](https://www.cnet.com/deals/get-ready-for-tax-season-with-this-25-h-r-block-tax-software-deal/#ftag=CAD590a51e)
- - [How to add unsupported cards to Apple Wallet](https://appleinsider.com/inside/iphone/tips/how-to-add-unsupported-cards-to-apple-wallet?utm_medium=rss)
- - [Sources: OpenAI held talks with major news publishers including Gannett, News Corp, and IAC on the price and terms of licensing their content &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/231229/p7#a231229p7)<!-- TECH:END -->
+ - [The best shows on Max in 2023](https://www.theverge.com/24003340/max-best-shows-2023)
+ - [Apple&#39;s July 2023 in review: Goldman Sachs wants out of Apple Card, Threads, Underdogs and more](https://appleinsider.com/articles/23/12/29/apples-july-2023-in-review-goldman-sachs-wants-out-of-apple-card-threads-underdogs-and-more?utm_medium=rss)
+ - [Apple Watch returns, QR risks, and accurate 2024 predictions on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/29/apple-watch-returns-qr-risks-and-accurate-2024-predictions-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
