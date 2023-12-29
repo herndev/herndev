@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - ⏩ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
+ - 💣 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - ⏩ [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 👉 [Go on and tell him](http://9gag.com/gag/aYV3K3O)<!-- MEMES:END -->
 
 ---
 
