@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer&#39;s top hardware review scores of 2023, plus the five lowest we&#39;ve issued](https://www.pcgamer.com/pc-gamers-top-hardware-review-scores-of-2023-plus-the-five-lowest-weve-issued)
  - [Mimimi Games revived a genre, pushed it forward, and then shut down](https://www.polygon.com/24018066/shadow-gambit-cursed-crew-dlc-characters-yuki-zagan)
- - [Reasons why I love Warhammer 40,000: Boltgun—you are Space Marine, Space Marine go stomp, chaos men explode](https://www.pcgamer.com/reasons-why-i-love-warhammer-40000-boltgunyou-are-space-marine-space-marine-go-stomp-chaos-men-explode)
- - [Anime finance sim Stonks-9800 is the best game you didn&#39;t play this year](https://www.pcgamer.com/anime-finance-sim-stonks-9800-is-the-best-game-you-didnt-play-this-year)<!-- GAME:END -->
+ - [Christmas Miracles, Terrific Memes, And More Of The Week&#39;s Best Gaming News](https://kotaku.com/gta-5-leak-dlc-star-wars-outlaws-starfield-1851129065)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
