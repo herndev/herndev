@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best video essays of 2023](https://www.polygon.com/what-to-watch/23990893/best-video-essays-2023-youtube-vimeo)
- - [The biggest gaming controversies of 2023](https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs)
- - [All the big games that shut down in 2023](https://www.pcgamer.com/all-the-big-games-that-shut-down-in-2023)<!-- GAME:END -->
+ - [There&#39;s plenty FromSoftware could learn from this year&#39;s crop of inventive Soulslikes—here are 7 ideas I&#39;d love to see in one of their games](https://www.pcgamer.com/theres-plenty-fromsoftware-could-learn-from-this-years-crop-of-inventive-soulslikeshere-are-7-ideas-id-love-to-see-in-one-of-their-games)
+ - [Obviously there should be a city-builder about penguins, so try the demo for this one](https://www.pcgamer.com/obviously-there-should-be-a-city-builder-about-penguins-so-try-the-demo-for-this-one)
+ - [The best video essays of 2023](https://www.polygon.com/what-to-watch/23990893/best-video-essays-2023-youtube-vimeo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
