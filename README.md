@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - ⏩ [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 👉 [What a legend](http://9gag.com/gag/aQELx12)<!-- MEMES:END -->
+ - 💣 [An arrow and a Bow. But lets just go wa wa wa](http://9gag.com/gag/aGEm1L6)
+ - ⏩ [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 👉 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)<!-- MEMES:END -->
 
 ---
 
