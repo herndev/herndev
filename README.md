@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple blocking Beeper Mini, not a service unto itself but an unauthorized client for a proprietary platform that costs a lot to run, is not anticompetitive &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/231229/p10#a231229p10)
- - [Daily deals Dec. 29: M3 iMac $1,199, Speck iPhone 14 cases for $5, 48% off Samsung 5K monitor, more](https://appleinsider.com/articles/23/12/29/daily-deals-dec-29-m3-imac-1199-speck-iphone-14-cases-for-5-48-off-samsung-5k-monitor-more?utm_medium=rss)
- - [Elon Musk’s X can’t get around California’s content moderation law, judge rules](https://www.theverge.com/2023/12/29/24018645/x-twitter-elon-musk-content-moderation-law-california-decision)<!-- TECH:END -->
+ - [Apple&#39;s July 2023 in review: Goldman Sachs wants out of Apple Card, Threads, Underdogs and more](https://appleinsider.com/articles/23/12/29/apples-july-2023-in-review-goldman-sachs-wants-out-of-apple-card-threads-underdogs-and-more?utm_medium=rss)
+ - [Sources: India&#39;s decision to seek the blocking of the URLs of nine foreign crypto exchanges followed a request from the Indian crypto and Web3 advocacy body &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231229/p11#a231229p11)
+ - [LG’s new MyView 4K monitors perform triple duty with webOS built-in](https://www.androidauthority.com/lg-myview-4k-monitors-3398658/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
