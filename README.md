@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Samsung camera sensors could capture the invisible](https://www.androidauthority.com/future-samsung-camera-sensors-ai-invisible-3398531/)
- - [The best Game Boy Advance emulators for iOS](https://www.androidauthority.com/best-gba-emulators-for-ios-3392411/)
- - [Huawei says its full-year sales for 2023 would be more than $99B, up 9% YoY but down 20% from 2020 peak; Chairman Ken Hu says &quot;we&#39;re pretty much back on track&quot; &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/231229/p5#a231229p5)<!-- TECH:END -->
+ - [Get Ready for Tax Season With This $25 H&amp;R Block Tax Software Deal     - CNET](https://www.cnet.com/deals/get-ready-for-tax-season-with-this-25-h-r-block-tax-software-deal/#ftag=CAD590a51e)
+ - [How to add unsupported cards to Apple Wallet](https://appleinsider.com/inside/iphone/tips/how-to-add-unsupported-cards-to-apple-wallet?utm_medium=rss)
+ - [Sources: OpenAI held talks with major news publishers including Gannett, News Corp, and IAC on the price and terms of licensing their content &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/231229/p7#a231229p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
