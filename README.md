@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future Samsung camera sensors could capture the invisible](https://www.androidauthority.com/future-samsung-camera-sensors-ai-invisible-3398531/)
  - [The best Game Boy Advance emulators for iOS](https://www.androidauthority.com/best-gba-emulators-for-ios-3392411/)
- - [Huawei says its full-year sales for 2023 would be more than $99B, up 9% YoY but down 20% from 2020 peak; Chairman Ken Hu says &quot;we&#39;re pretty much back on track&quot; &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/231229/p5#a231229p5)
- - [JD.com says a Beijing court fined Alibaba ~$141M after finding that Alibaba&#39;s Tmall adopted monopolistic practices known as &quot;choosing one from two&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231229/p4#a231229p4)<!-- TECH:END -->
+ - [Huawei says its full-year sales for 2023 would be more than $99B, up 9% YoY but down 20% from 2020 peak; Chairman Ken Hu says &quot;we&#39;re pretty much back on track&quot; &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/231229/p5#a231229p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
