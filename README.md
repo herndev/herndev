@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Margrethe Vestager says AI Act will &quot;not harm innovation and research, but actually enhance it&quot; as it &quot;creates predictability and legal certainty in the market&quot; &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231229/p1#a231229p1)
  - [First reported Tesla Cybertruck accident results in only ‘minor’ injury](https://www.theverge.com/2023/12/28/24018383/tesla-cybertruck-crash-corolla-palo-alto)
- - [LG debuts new Gram and Gram Pro laptops ahead of CES 2024; the processors in the Pro lineup include Intel&#39;s AI Boost NPU hardware for on-device AI tasks &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/231228/p23#a231228p23)
- - [Microsoft&#39;s AI Image Creator, part of Bing and Paint, can generate realistic, violent images; Microsoft says some use the tech &quot;in ways that were not intended&quot; &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/231228/p22#a231228p22)<!-- TECH:END -->
+ - [LG debuts new Gram and Gram Pro laptops ahead of CES 2024; the processors in the Pro lineup include Intel&#39;s AI Boost NPU hardware for on-device AI tasks &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/231228/p23#a231228p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
