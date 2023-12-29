@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find X7 design revealed, confirms 2 &lpar;!&rpar; periscope cameras and alert slider](https://www.androidauthority.com/oppo-find-x7-series-design-revealed-3398424/)
- - [Margrethe Vestager says AI Act will &quot;not harm innovation and research, but actually enhance it&quot; as it &quot;creates predictability and legal certainty in the market&quot; &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231229/p1#a231229p1)
- - [Texas Solar Panel Incentives: Tax Credits, Rebates and Buyback Programs     - CNET](https://www.cnet.com/home/energy-and-utilities/texas-solar-panel-incentives-tax-credits-rebates-and-buyback-programs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You won’t need a Samsung phone to benefit from Galaxy S24’s AI call translation](https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/)
+ - [Here are some more Galaxy S24 series renders for your viewing pleasure](https://www.androidauthority.com/samsung-galaxy-s24-series-leaked-renders-again-3398439/)
+ - [Q&amp;A with Hinge founder and CEO Justin McLeod on selling the startup to Match Group, AI&#39;s potential, making the app less addictive, expanding to Europe, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231229/p2#a231229p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
