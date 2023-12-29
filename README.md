@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Audacity](http://9gag.com/gag/avQM7z5)
- - ⏩ [Bank Employees were passing by and noticed a 2yr old was climbing out a window and fell 6 floors....](http://9gag.com/gag/a04rKjX)
- - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
+ - 💣 [2024](http://9gag.com/gag/a8qRymO)
+ - ⏩ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 👉 [An arrow and a Bow. But lets just go wa wa wa](http://9gag.com/gag/aGEm1L6)<!-- MEMES:END -->
 
 ---
 
