@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hotspot not working on your Verizon phone after Android 14 update? Here are some workarounds](https://www.androidauthority.com/verizon-hotspot-not-working-android-14-update-workaround-3398575/)
- - [AirTag saves Christmas, tracks down luggage stolen from Charlotte airport](https://appleinsider.com/articles/23/12/29/airtag-saves-christmas-tracks-down-luggage-stolen-from-charlotte-airport?utm_medium=rss)
- - [Apple stock jumped 54% in 2023 but underperformed tech peers after Apple suffered four straight quarters of declining revenue, its longest such slide since 2001 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231229/p8#a231229p8)<!-- TECH:END -->
+ - [Apple blocking Beeper Mini, not a service unto itself but an unauthorized client for a proprietary platform that costs a lot to run, is not anticompetitive &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/231229/p10#a231229p10)
+ - [Daily deals Dec. 29: M3 iMac $1,199, Speck iPhone 14 cases for $5, 48% off Samsung 5K monitor, more](https://appleinsider.com/articles/23/12/29/daily-deals-dec-29-m3-imac-1199-speck-iphone-14-cases-for-5-48-off-samsung-5k-monitor-more?utm_medium=rss)
+ - [Elon Musk’s X can’t get around California’s content moderation law, judge rules](https://www.theverge.com/2023/12/29/24018645/x-twitter-elon-musk-content-moderation-law-california-decision)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
