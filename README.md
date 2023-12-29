@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
- - ⏩ [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 💣 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - ⏩ [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
  - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
 
 ---
