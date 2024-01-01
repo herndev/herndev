@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [True Detective season 4: Expected release date and the latest rumors](https://www.androidauthority.com/true-detective-season-4-release-date-3398795/)
- - [California laws leave driverless vehicles immune from traffic tickets, while Texas and Arizona rewrote traffic laws to issue tickets to owners for AV violations &lpar;NBC News&rpar;](http://www.techmeme.com/240101/p1#a240101p1)
- - [Best Earplugs to Prevent Hearing Loss for 2024     - CNET](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Imagine with Meta AI: What is it and how does it compare with Midjourney?](https://www.androidauthority.com/imagine-with-meta-ai-3395568/)
+ - [Best Budget Soundbars for 2024: Vizio, Roku and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-under-200/#ftag=CAD590a51e)
+ - [Best Kamado Grill for 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
