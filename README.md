@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s The Brothers Sun, the Golden Globes, and more new TV this week](https://www.polygon.com/2024/1/1/23990872/new-tv-netflix-watch-golden-globes-michelle-yeoh-thriller)
  - [Our boldest predictions for PC gaming in 2024](https://www.pcgamer.com/our-boldest-predictions-for-pc-gaming-in-2024)
- - [Alan Wake 2 is so stuffed with jump scares it cheapens the good horror](https://www.pcgamer.com/alan-wake-2-is-so-stuffed-with-jump-scares-it-cheapens-the-good-horror)
- - [CES 2024 preview: The future of PC gaming hardware](https://www.pcgamer.com/ces-2024-preview-the-future-of-pc-gaming-hardware)<!-- GAME:END -->
+ - [Alan Wake 2 is so stuffed with jump scares it cheapens the good horror](https://www.pcgamer.com/alan-wake-2-is-so-stuffed-with-jump-scares-it-cheapens-the-good-horror)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
