@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Galaxy S23 Base, Plus, and Ultra: A Spec-By-Spec Comparison of Each Phone     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-base-plus-ultra-spec-by-spec-comparison/#ftag=CAD590a51e)
- - [A look at AI chatbots modeled on real experts, like US psychologist Martin Seligman, that are often created without permission, highlighting a policy gray area &lpar;Mohar Chatterjee/Politico&rpar;](http://www.techmeme.com/231231/p8#a231231p8)
- - [Best Fitbit Deals: $30 Off Charge 6, $50 Off Sense 2 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Samsung Galaxy S21, S21 Plus and S21 Ultra Cases of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s21-s21-plus-s21-ultra-cases/#ftag=CAD590a51e)
+ - [Best Cheap Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)
+ - [Best Cheaper Rivals to Apple AirPods Max for 2024: Sony, Bose, AirPods Pro 2 and More     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods-max-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
