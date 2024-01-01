@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - ⏩ [What fans?](http://9gag.com/gag/aBdAZR2)
- - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
+ - 💣 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - ⏩ [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 👉 [My new years 9gag resolution is to photoshop Jesus into places that are both funny and will trigger heathens and cockroaches. What&#39;s your 9gag resolution?](http://9gag.com/gag/aQELzD8)<!-- MEMES:END -->
 
 ---
 
