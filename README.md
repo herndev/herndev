@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
- - ⏩ [Better than the series](http://9gag.com/gag/axoLW7M)
- - 👉 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)<!-- MEMES:END -->
+ - 💣 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - ⏩ [What fans?](http://9gag.com/gag/aBdAZR2)
+ - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
 
 ---
 
