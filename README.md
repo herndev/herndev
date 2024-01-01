@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yo wtf?](http://9gag.com/gag/az2WeDb)
- - ⏩ [A happy new year\u2019s facepalm.](http://9gag.com/gag/abvNAzB)
- - 👉 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)<!-- MEMES:END -->
+ - 💣 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - ⏩ [Better than the series](http://9gag.com/gag/axoLW7M)
+ - 👉 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)<!-- MEMES:END -->
 
 ---
 
