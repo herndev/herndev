@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to the public domain, Mickey Mouse](https://www.theverge.com/24006670/mickey-mouse-steamboat-willie-enters-copyright-public-domain-2024)
- - [Apple Watch ban, passcode thieves and Beeper -- December 2023 in review](https://appleinsider.com/articles/24/01/01/apple-watch-ban-passcode-thieves-and-beeper----december-2023-in-review?utm_medium=rss)
- - [To celebrate 2024, Visible is offering $20 service for 24 months &lpar;20/24, get it?&rpar;](https://www.androidauthority.com/visible-20-24-deal-3398620/)<!-- TECH:END -->
+ - [What phones do the Android Authority team use? &lpar;2024 Edition&rpar;](https://www.androidauthority.com/android-authority-phones-2024-3396434/)
+ - [Apple Watch owners receive Tim Cook responses to &#39;thank you&#39; emails](https://appleinsider.com/articles/24/01/01/apple-watch-owners-receive-tim-cook-responses-to-thank-you-emails?utm_medium=rss)
+ - [Filing: Baidu&#39;s $3.6B deal to buy Joyy&#39;s Chinese livestreaming business YY Live, announced in 2020, expires as China regulators didn&#39;t approve it by December 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p2#a240101p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
