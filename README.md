@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Mario and Zelda creator Shigeru Miyamoto, who joined Nintendo in the 1970s and says he has no plans to retire as game director at the company &lpar;Keza MacDonald/The Guardian&rpar;](http://www.techmeme.com/240101/p3#a240101p3)
- - [CES preview, Qi2 chargers, AI kitchens, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/01/01/ces-preview-qi2-chargers-ai-kitchens-more-on-homekit-insider?utm_medium=rss)
- - [Save 40% Off Your New MasterClass Subscription and Learn How to Meet Your 2024 Goals     - CNET](https://www.cnet.com/deals/save-40-off-your-new-masterclass-subscription-and-learn-how-to-meet-your-2024-goals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best wearables I’m looking forward to in 2024: Samsung, Apple, Google, Garmin, and more](https://www.androidauthority.com/upcoming-wearables-smartwatches-fitness-trackers-smart-rings-3394380/)
+ - [Best Shower Head Filters of 2024     - CNET](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
+ - [11 Best Things to Order on Goldbelly for 2024     - CNET](https://www.cnet.com/culture/best-food-gifts-on-goldbelly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
