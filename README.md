@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always happens like this](http://9gag.com/gag/avQMAVX)
- - ⏩ [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
- - 👉 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)<!-- MEMES:END -->
+ - 💣 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - ⏩ [A happy new year\u2019s facepalm.](http://9gag.com/gag/abvNAzB)
+ - 👉 [He still got it](http://9gag.com/gag/aeQn9Qp)<!-- MEMES:END -->
 
 ---
 
