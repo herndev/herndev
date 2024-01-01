@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Imagine with Meta AI: What is it and how does it compare with Midjourney?](https://www.androidauthority.com/imagine-with-meta-ai-3395568/)
- - [Best Budget Soundbars for 2024: Vizio, Roku and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-under-200/#ftag=CAD590a51e)
- - [Best Kamado Grill for 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Welcome to the public domain, Mickey Mouse](https://www.theverge.com/24006670/mickey-mouse-steamboat-willie-enters-copyright-public-domain-2024)
+ - [Apple Watch ban, passcode thieves and Beeper -- December 2023 in review](https://appleinsider.com/articles/24/01/01/apple-watch-ban-passcode-thieves-and-beeper----december-2023-in-review?utm_medium=rss)
+ - [To celebrate 2024, Visible is offering $20 service for 24 months &lpar;20/24, get it?&rpar;](https://www.androidauthority.com/visible-20-24-deal-3398620/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
