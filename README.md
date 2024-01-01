@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $150 on Apple&#39;s iPad Air with new 2024 discounts](https://appleinsider.com/articles/24/01/01/save-up-to-150-on-apples-ipad-air-with-new-2024-discounts?utm_medium=rss)
- - [A look at the challenges faced by Apple&#39;s $85B/year services business, as the company faces key US court cases and prepares to allow app sideloading in the EU &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240101/p4#a240101p4)
- - [Google Pixel Buds Pro 2 wishlist: All the features I want to see](https://www.androidauthority.com/google-pixel-buds-pro-2-3393809/)<!-- TECH:END -->
+ - [How to Quit Drinking: 8 Essential Tips for Success     - CNET](https://www.cnet.com/health/medical/how-to-quit-drinking-8-essential-tips-for-success/#ftag=CAD590a51e)
+ - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
+ - [Save up to $150 on Apple&#39;s iPad Air with new 2024 discounts](https://appleinsider.com/articles/24/01/01/save-up-to-150-on-apples-ipad-air-with-new-2024-discounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
