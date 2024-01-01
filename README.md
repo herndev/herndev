@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
- - ⏩ [Happens all the time](http://9gag.com/gag/awZEMV4)
+ - 💣 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
+ - ⏩ [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
  - 👉 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)<!-- MEMES:END -->
 
 ---
