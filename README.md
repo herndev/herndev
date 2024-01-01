@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
- - ⏩ [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
- - 👉 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)<!-- MEMES:END -->
+ - 💣 [Men only wants one thing\u2026..](http://9gag.com/gag/a8qRqYp)
+ - ⏩ [Sure everything could be better but it could also be much worse](http://9gag.com/gag/aA08yeE)
+ - 👉 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)<!-- MEMES:END -->
 
 ---
 
