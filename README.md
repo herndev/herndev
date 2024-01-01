@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do not push this red button](http://9gag.com/gag/az2W5oj)
- - ⏩ [Very cool](http://9gag.com/gag/aXnyMEg)
- - 👉 [Haha](http://9gag.com/gag/agoD1qr)<!-- MEMES:END -->
+ - 💣 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - ⏩ [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - 👉 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)<!-- MEMES:END -->
 
 ---
 
