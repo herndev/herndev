@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was almost one of them](http://9gag.com/gag/aoKvyeA)
- - ⏩ [Such a truthful post](http://9gag.com/gag/aeQn4dv)
- - 👉 [Footage of 7.6 magnitude earthquake struck in Japan](http://9gag.com/gag/aeQn49m)<!-- MEMES:END -->
+ - 💣 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - ⏩ [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
 
 ---
 
