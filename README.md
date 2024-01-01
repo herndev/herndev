@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - ⏩ [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
+ - 💣 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
+ - ⏩ [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
+ - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
 
 ---
 
