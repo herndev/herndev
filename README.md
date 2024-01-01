@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What phones do the Android Authority team use? &lpar;2024 Edition&rpar;](https://www.androidauthority.com/android-authority-phones-2024-3396434/)
- - [Apple Watch owners receive Tim Cook responses to &#39;thank you&#39; emails](https://appleinsider.com/articles/24/01/01/apple-watch-owners-receive-tim-cook-responses-to-thank-you-emails?utm_medium=rss)
- - [Filing: Baidu&#39;s $3.6B deal to buy Joyy&#39;s Chinese livestreaming business YY Live, announced in 2020, expires as China regulators didn&#39;t approve it by December 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p2#a240101p2)<!-- TECH:END -->
+ - [Add Apple CarPlay and Android Auto to Your Vehicle for Just $96 With This Foldable Display     - CNET](https://www.cnet.com/deals/add-apple-carplay-and-android-auto-to-your-vehicle-for-just-96-with-this-foldable-display/#ftag=CAD590a51e)
+ - [The AI Doctor Is In. Here&#39;s How ChatGPT May Pave a New Era of Self-Diagnosis     - CNET](https://www.cnet.com/health/medical/the-ai-doctor-is-in-heres-how-chatgpt-may-pave-a-new-era-of-self-diagnosis/#ftag=CAD590a51e)
+ - [Streaming TV on a Budget: Tips to Save Money on Netflix, Hulu and More     - CNET](https://www.cnet.com/tech/services-and-software/streaming-tv-on-budget-tips-to-save-money-netflix-hulu-other-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
