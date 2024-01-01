@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men only wants one thing\u2026..](http://9gag.com/gag/a8qRqYp)
- - ⏩ [Bro, it&#39;s just a game](http://9gag.com/gag/a8qR7G6)
- - 👉 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)<!-- MEMES:END -->
+ - 💣 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
+ - ⏩ [Happens all the time](http://9gag.com/gag/awZEMV4)
+ - 👉 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)<!-- MEMES:END -->
 
 ---
 
