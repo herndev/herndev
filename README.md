@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wearables I’m looking forward to in 2024: Samsung, Apple, Google, Garmin, and more](https://www.androidauthority.com/upcoming-wearables-smartwatches-fitness-trackers-smart-rings-3394380/)
- - [Best Shower Head Filters of 2024     - CNET](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
- - [11 Best Things to Order on Goldbelly for 2024     - CNET](https://www.cnet.com/culture/best-food-gifts-on-goldbelly/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $1,600 on this loaded MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/24/01/01/save-1600-on-this-loaded-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)
+ - [CES preview, Qi2 chargers, AI kitchens, &amp; more on the HomeKit Insider podcast](https://appleinsider.com/articles/24/01/01/ces-preview-qi2-chargers-ai-kitchens-more-on-homekit-insider?utm_medium=rss)
+ - [2024: Apple&#39;s 40 year old Macintosh survives another year](https://appleinsider.com/articles/24/01/01/2024-apples-40-year-old-macintosh-survives-another-year?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
