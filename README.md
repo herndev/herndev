@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
- - ⏩ [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 💣 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - ⏩ [A happy new year\u2019s facepalm.](http://9gag.com/gag/abvNAzB)
  - 👉 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)<!-- MEMES:END -->
 
 ---
