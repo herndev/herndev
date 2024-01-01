@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #926 for Monday, January 1](https://www.pcgamer.com/wordle-today-answer-926-january-1)
- - [Steam&#39;s Best of 2023 highlights top sellers, most played—apparently Steam Deck players really like Half-Life](https://www.pcgamer.com/steams-best-of-2023-highlights-top-sellers-most-playedapparently-steam-deck-players-really-like-half-life)
- - [Hardcore survival shooter Road to Vostok is looking really good after switching engines from Unity to Godot](https://www.pcgamer.com/hardcore-survival-shooter-road-to-vostok-is-looking-really-good-after-switching-engines-from-unity-to-godot)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in January](https://www.polygon.com/entertainment/2024/1/1/24012219/new-netflix-jan-2024-movies-tv-to-watch)
+ - [This year I&#39;m finally going to tackle my gaming backlog—please take me seriously, I have a plan and everything](https://www.pcgamer.com/this-year-im-finally-going-to-tackle-my-gaming-backlogseriously-i-have-a-plan)
+ - [The PC Gamer tech team&#39;s New Year&#39;s resolutions](https://www.pcgamer.com/the-pc-gamer-tech-teams-new-years-resolutions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
