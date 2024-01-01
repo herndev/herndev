@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - ⏩ [Food is ready](http://9gag.com/gag/anzm7K5)
- - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
+ - 💣 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - ⏩ [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
+ - 👉 [I ront know what prince harry did but iam on cillian murphy side](http://9gag.com/gag/aA08bzZ)<!-- MEMES:END -->
 
 ---
 
