@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Fitbit Deals: $30 Off Charge 6, $50 Off Sense 2 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
  - [In his year-end report, US Chief Justice John Roberts says AI is a mixed blessing for the legal field and urges &quot;caution and humility&quot; as the tech is adopted &lpar;John Kruzel/Reuters&rpar;](http://www.techmeme.com/231231/p7#a231231p7)
- - [Happy New Year from all of us here at AppleInsider](https://appleinsider.com/articles/23/12/31/happy-new-year-from-all-of-us-here-at-appleinsider?utm_medium=rss)
- - [LG’s newest 32-inch 4K monitor is a looker with a smart TV inside](https://www.theverge.com/2023/12/31/24020920/lg-myview-4k-smart-monitor-display-tv-webos)<!-- TECH:END -->
+ - [Happy New Year from all of us here at AppleInsider](https://appleinsider.com/articles/23/12/31/happy-new-year-from-all-of-us-here-at-appleinsider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
