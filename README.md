@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
- - ⏩ [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
+ - 💣 [I was almost one of them](http://9gag.com/gag/aoKvyeA)
+ - ⏩ [Such a truthful post](http://9gag.com/gag/aeQn4dv)
+ - 👉 [Footage of 7.6 magnitude earthquake struck in Japan](http://9gag.com/gag/aeQn49m)<!-- MEMES:END -->
 
 ---
 
