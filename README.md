@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men only wants one thing\u2026..](http://9gag.com/gag/a8qRqYp)
- - ⏩ [Sure everything could be better but it could also be much worse](http://9gag.com/gag/aA08yeE)
- - 👉 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)<!-- MEMES:END -->
+ - 💣 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
+ - ⏩ [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 👉 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)<!-- MEMES:END -->
 
 ---
 
