@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - ⏩ [They said that men only fell in love once. Then they wander aimlessly to find the one that resembles that first gaze.](http://9gag.com/gag/adPGPpN)
- - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
+ - 💣 [Men only wants one thing\u2026..](http://9gag.com/gag/a8qRqYp)
+ - ⏩ [Bro, it&#39;s just a game](http://9gag.com/gag/a8qR7G6)
+ - 👉 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)<!-- MEMES:END -->
 
 ---
 
