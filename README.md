@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [CES 2024 preview: The future of PC gaming hardware](https://www.pcgamer.com/ces-2024-preview-the-future-of-pc-gaming-hardware)
  - [The 50 most anticipated new movies of 2024](https://www.polygon.com/24007773/best-new-movies-2024-release-calendar-schedule)
- - [The 50 most anticipated new games of 2024](https://www.polygon.com/gaming/24007775/best-new-games-2024-release-calendar-schedule)
- - [Every movie and show coming to Netflix in January](https://www.polygon.com/entertainment/2024/1/1/24012219/new-netflix-jan-2024-movies-tv-to-watch)<!-- GAME:END -->
+ - [Tips For 2023&#39;s Biggest Games And What To Watch Out For In Early 2024](https://kotaku.com/tips-for-2023s-biggest-games-and-what-to-watch-out-for-1851129067)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
