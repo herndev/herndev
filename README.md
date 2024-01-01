@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - ⏩ [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
- - 👉 [I ront know what prince harry did but iam on cillian murphy side](http://9gag.com/gag/aA08bzZ)<!-- MEMES:END -->
+ - 💣 [Do not push this red button](http://9gag.com/gag/az2W5oj)
+ - ⏩ [Very cool](http://9gag.com/gag/aXnyMEg)
+ - 👉 [Haha](http://9gag.com/gag/agoD1qr)<!-- MEMES:END -->
 
 ---
 
