@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yo wtf?](http://9gag.com/gag/az2WeDb)
- - ⏩ [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 👉 [My new years 9gag resolution is to photoshop Jesus into places that are both funny and will trigger heathens and cockroaches. What&#39;s your 9gag resolution?](http://9gag.com/gag/aQELzD8)<!-- MEMES:END -->
+ - 💣 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
+ - ⏩ [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
 
 ---
 
