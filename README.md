@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Add Apple CarPlay and Android Auto to Your Vehicle for Just $96 With This Foldable Display     - CNET](https://www.cnet.com/deals/add-apple-carplay-and-android-auto-to-your-vehicle-for-just-96-with-this-foldable-display/#ftag=CAD590a51e)
- - [The AI Doctor Is In. Here&#39;s How ChatGPT May Pave a New Era of Self-Diagnosis     - CNET](https://www.cnet.com/health/medical/the-ai-doctor-is-in-heres-how-chatgpt-may-pave-a-new-era-of-self-diagnosis/#ftag=CAD590a51e)
- - [Streaming TV on a Budget: Tips to Save Money on Netflix, Hulu and More     - CNET](https://www.cnet.com/tech/services-and-software/streaming-tv-on-budget-tips-to-save-money-netflix-hulu-other-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch returns, QR risks, and accurate 2024 predictions on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/29/apple-watch-returns-qr-risks-and-accurate-2024-predictions-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Texas&#39; Unique Energy Industry Is Helping the State Become a Renewables Leader     - CNET](https://www.cnet.com/news/texas-unique-energy-industry-is-helping-the-state-become-a-renewables-leader/#ftag=CAD590a51e)
+ - [3 Reasons to Embrace the Early Bird Lifestyle for Better Health     - CNET](https://www.cnet.com/health/sleep/3-reasons-to-embrace-the-early-bird-lifestyle-for-better-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
