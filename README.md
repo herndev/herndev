@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So?](http://9gag.com/gag/aDYKY0K)
- - ⏩ [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 👉 [They said that men only fell in love once. Then they wander aimlessly to find the one that resembles that first gaze.](http://9gag.com/gag/adPGPpN)<!-- MEMES:END -->
+ - 💣 [Thought this was real until](http://9gag.com/gag/aOxMx4N)
+ - ⏩ [Bro, it&#39;s just a game](http://9gag.com/gag/a8qR7G6)
+ - 👉 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)<!-- MEMES:END -->
 
 ---
 
