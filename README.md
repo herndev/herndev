@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - ⏩ [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 👉 [Hardcore fishing.](http://9gag.com/gag/a8qR393)<!-- MEMES:END -->
+ - 💣 [Always happens like this](http://9gag.com/gag/avQMAVX)
+ - ⏩ [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 👉 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)<!-- MEMES:END -->
 
 ---
 
