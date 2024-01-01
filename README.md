@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and others face more copyright lawsuits as systems like DALL-E produce materials that infringe on copyright without giving attribution or informing users &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/231229/p19#a231229p19)
- - [Microsoft Copilot AI chatbot arrives on App Store for iPhone and iPad](https://appleinsider.com/articles/23/12/29/microsoft-copilot-ai-chatbot-arrives-on-app-store-for-iphone-and-ipad?utm_medium=rss)
- - [After a 33% plunge in 2022, Nasdaq finished 2023 up 43%, its best year since 2020, led by Nvidia, which jumped 239%, and Meta, which climbed 183% &lpar;CNBC&rpar;](http://www.techmeme.com/231229/p18#a231229p18)<!-- TECH:END -->
+ - [Happy New Year from all of us here at AppleInsider](https://appleinsider.com/articles/23/12/31/happy-new-year-from-all-of-us-here-at-appleinsider?utm_medium=rss)
+ - [LG’s newest 32-inch 4K monitor is a looker with a smart TV inside](https://www.theverge.com/2023/12/31/24020920/lg-myview-4k-smart-monitor-display-tv-webos)
+ - [A profile of Alexander Reben, who will become OpenAI&#39;s first artist in residence for three months starting January 2024, amid a debate over the use of AI in art &lpar;Leslie Katz/New York Times&rpar;](http://www.techmeme.com/231231/p6#a231231p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
