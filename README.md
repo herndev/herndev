@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam&#39;s Best of 2023 highlights top sellers, most played—apparently Steam Deck players really like Half-Life](https://www.pcgamer.com/steams-best-of-2023-highlights-top-sellers-most-playedapparently-steam-deck-players-really-like-half-life)
  - [Hardcore survival shooter Road to Vostok is looking really good after switching engines from Unity to Godot](https://www.pcgamer.com/hardcore-survival-shooter-road-to-vostok-is-looking-really-good-after-switching-engines-from-unity-to-godot)
- - [Delve a hopeless dungeon and die of despair in indie action RPG Into the Necrovale](https://www.pcgamer.com/delve-a-hopeless-dungeon-and-die-of-despair-in-indie-action-rpg-into-the-necrovale)
- - [The year I read 20 Hercule Poirot mysteries and fell for Agatha Christie](https://www.polygon.com/24009421/agatha-christie-hercule-poirot-mystery-books)<!-- GAME:END -->
+ - [Delve a hopeless dungeon and die of despair in indie action RPG Into the Necrovale](https://www.pcgamer.com/delve-a-hopeless-dungeon-and-die-of-despair-in-indie-action-rpg-into-the-necrovale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
