@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s 2023 GOTY nominations are extremely weird, and I guess that&#39;s your fault](https://www.pcgamer.com/steams-2023-goty-nominations-are-extremely-weird-and-i-guess-thats-your-fault)
- - [Meta’s Quest 2 VR Headset Is Cheaper Than Ever](https://kotaku.com/meta-quest-2-price-decrease-vr-headset-1851133448)
- - [PlayStation Stars Campaigns and Digital Collectibles for January 2024](https://blog.playstation.com/2024/01/02/playstation-stars-campaigns-and-digital-collectibles-for-january-2024/)<!-- GAME:END -->
+ - [These Incredible Cyberpunk 2077 Mods Will Make You Question Reality](https://kotaku.com/cyberpunk-2077-graphics-mods-pc-rtx-4090-1851133618)
+ - [Square Enix Will Be ‘Aggressive’ With Using AI For Development, CEO Says](https://kotaku.com/square-enix-president-artificial-intelligence-ai-games-1851133573)
+ - [Baldur’s Gate 3 Nude Scenes Are Getting Xbox Players Banned](https://kotaku.com/baldurs-gate-3-xbox-series-x-s-nude-sex-scene-ban-1851133578)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
