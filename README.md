@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Food is ready](http://9gag.com/gag/anzm7K5)
- - ⏩ [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
+ - 💣 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - ⏩ [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
 
 ---
 
