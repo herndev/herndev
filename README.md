@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S3 and Galaxy Note 2 receive Android 14, albeit unofficially](https://www.androidauthority.com/samsung-galaxy-s3-note-2-android-14-lineage-os-3398976/)
- - [Retiring generals and departing top Pentagon officials are increasingly flocking to VC firms that have pumped billions into defense tech startups like Anduril &lpar;Eric Lipton/New York Times&rpar;](http://www.techmeme.com/240102/p2#a240102p2)
- - [Everyday AI: Chatbots Are Rewriting How We Live and Work Today     - CNET](https://www.cnet.com/tech/computing/features/everyday-ai-chatbots-are-rewriting-how-we-live-and-work-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The chip industry is the new star on the political scene, bringing opportunities and challenges; Nvidia and others have rapidly built US lobbying operations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240102/p4#a240102p4)
+ - [Sources: Merck&#39;s bid for Japanese chip materials maker JSR, not disclosed to JSR shareholders, triggered a $6.4B offer by a state-backed fund in June 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240102/p3#a240102p3)
+ - [Galaxy S3 and Galaxy Note 2 receive Android 14, albeit unofficially](https://www.androidauthority.com/samsung-galaxy-s3-note-2-android-14-lineage-os-3398976/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
