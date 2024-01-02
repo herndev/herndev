@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sinking City legal battle ends with victory for Frogwares, new version of the game &#39;coming soon&#39;](https://www.pcgamer.com/the-sinking-city-legal-battle-ends-with-victory-for-frogwares-new-version-of-the-game-coming-soon)
- - [GTA 5 leaving Game Pass as year of GTA 6 hype kicks off](https://www.polygon.com/24022783/gta-5-xbox-game-pass-persona-3-4)
- - [Marvel Snap Spotlight Cache schedule for January 2024](https://www.polygon.com/marvel-snap-guides/23984059/spotlight-cache-schedule)<!-- GAME:END -->
+ - [Jack Black becoming too powerful, will star as Steve in Minecraft movie](https://www.polygon.com/24022852/minecraft-movie-jack-black-steve)
+ - [Toothless dancing to Pokémon Black and White is everything I needed this holiday season](https://www.polygon.com/24022513/toothless-animation-dancing-meme-pokemon-driftweil-city-tiktok)
+ - [Gay Call Of Duty &#39;Ship&#39; Makes Fanfic Site’s Top Ten](https://kotaku.com/call-of-duty-ghost-soap-ship-ao3-gay-1851134343)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
