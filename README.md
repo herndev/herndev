@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [To Own the Future, Read Shakespeare](https://www.wired.com/story/own-future-artificial-intelligence-read-shakespeare/)
- - [Microsoft now says the CMA was ‘tough and fair’ over Activision Blizzard deal](https://www.theverge.com/2024/1/2/24022293/microsoft-activision-blizzard-cma-tough-fair-comments-brad-smith)
- - [Bitcoin rises above $45K for the first time since April 2022, after gaining 156% in 2023, its best yearly performance since 2020, but far off its $69K peak &lpar;Reuters&rpar;](http://www.techmeme.com/240102/p6#a240102p6)<!-- TECH:END -->
+ - [BT says 99% of its UK &quot;core traffic is now being served by non-Huawei kit&quot;, missing the UK deadline to move data flows off Huawei&#39;s equipment after the 2020 ban &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240102/p8#a240102p8)
+ - [DoJ&#39;s Apple App Store probe is &#39;firing on all cylinders&#39;](https://appleinsider.com/articles/24/01/02/dojs-apple-app-store-probe-is-firing-on-all-cylinders?utm_medium=rss)
+ - [Apple released no new iPads in 2023, the first year without a new tablet since the iPad&#39;s launch in 2010; rumors suggest all iPad models will get a 2024 update &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240102/p7#a240102p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
