@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy S24 Ultra could get a big videography upgrade](https://www.androidauthority.com/samsung-galaxy-s24-ultra-4k120fps-videography-upgrade-3398950/)
  - [Samsung Galaxy S24 possible launch date and pre-order benefits leaked](https://www.androidauthority.com/samsung-galaxy-s24-possible-launch-date-preorder-benefits-leaked-3398941/)
- - [Samsung Galaxy Tab S9 FE problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-problems-fixes-3398798/)
- - [Best Coffee Accessories for 2024     - CNET](https://www.cnet.com/how-to/best-coffee-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9 FE problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-problems-fixes-3398798/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
