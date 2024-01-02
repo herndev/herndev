@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - ⏩ [This man has a lot of commitment](http://9gag.com/gag/armQAD5)
- - 👉 [Girl: \u201cI\u2019m only 15\u201d. Man: \u201cOkay, good\u201d. This is a video that was recorded in Kirkby, UK by a schoolgirl approached by a `refugee`. The video sparked a protest by locals outside the refugee hotel. These were branded &#39;far-right&#39; by The Guardian. Modern journalists are rubbish.](http://9gag.com/gag/aBdAVVA)<!-- MEMES:END -->
+ - 💣 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - ⏩ [JAL plane collision](http://9gag.com/gag/aZD68x6)
+ - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
 
 ---
 
