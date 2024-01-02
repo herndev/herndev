@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese Airlines aircraft crash in Haneda Airport](http://9gag.com/gag/a5XOBLq)
- - ⏩ [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
+ - 💣 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - ⏩ [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 👉 [Play stupid games and well you know the rest](http://9gag.com/gag/aL1Z4B6)<!-- MEMES:END -->
 
 ---
 
