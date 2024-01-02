@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got Apple Card Savings? Your interest tax form is coming very soon](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)
- - [iPhone 16 won&#39;t be compelling, says analyst with no compelling data](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
- - [Apple Vision Pro imminent, with launch rumored at end of January](https://appleinsider.com/articles/24/01/02/apple-vision-pro-imminent-with-end-of-january-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung reveals Galaxy S24 launch date &lpar;for real, this time&rpar;](https://www.androidauthority.com/samsung-unpacked-s24-2024-date-announcement-3393274/)
+ - [Samsung is hosting Unpacked in the heart of Silicon Valley](https://www.theverge.com/2024/1/2/24022816/samsung-galaxy-s24-unpacked-2024-date-time-san-jose)
+ - [Fidelity and other spot bitcoin ETF issuers jockey for an early advantage to attract investors, as they reportedly may get approval to launch by January 10 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240102/p17#a240102p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
