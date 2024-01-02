@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 💣 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
  - ⏩ [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
  - 👉 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)<!-- MEMES:END -->
 
