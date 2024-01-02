@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
- - ⏩ [Food is ready](http://9gag.com/gag/anzm7K5)
- - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
+ - 💣 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - ⏩ [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
 
 ---
 
