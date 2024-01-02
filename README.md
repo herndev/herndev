@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - ⏩ [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
+ - 💣 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
+ - ⏩ [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
 
 ---
 
