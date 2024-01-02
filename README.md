@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Change my mind](http://9gag.com/gag/aA086j0)
- - ⏩ [Can someone translate?](http://9gag.com/gag/aVbpEMn)
- - 👉 [Food is ready](http://9gag.com/gag/anzm7K5)<!-- MEMES:END -->
+ - 💣 [Food is ready](http://9gag.com/gag/anzm7K5)
+ - ⏩ [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
+ - 👉 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)<!-- MEMES:END -->
 
 ---
 
