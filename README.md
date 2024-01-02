@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jack Black becoming too powerful, will star as Steve in Minecraft movie](https://www.polygon.com/24022852/minecraft-movie-jack-black-steve)
- - [Toothless dancing to Pokémon Black and White is everything I needed this holiday season](https://www.polygon.com/24022513/toothless-animation-dancing-meme-pokemon-driftweil-city-tiktok)
- - [Gay Call Of Duty &#39;Ship&#39; Makes Fanfic Site’s Top Ten](https://kotaku.com/call-of-duty-ghost-soap-ship-ao3-gay-1851134343)<!-- GAME:END -->
+ - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
+ - [‘Starcrossed’ Exotic mission and secret chests guide in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic)
+ - [Mickey Mouse has been in the public domain for under 48 hours and there&#39;s already a horror game and 2 horror movies on the way](https://www.pcgamer.com/mickey-mouse-horror-game-public-domain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
