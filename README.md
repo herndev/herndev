@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Alamo Drafthouse blames ‘nationwide’ theater outage on Sony projector fail](https://www.theverge.com/2024/1/1/24021915/alamo-drafthouse-outage-sony-projector)
- - [Sources: ASML canceled shipments of some of its machines to China at the US&#39; request, weeks before export bans on the high-end chipmaking equipment took effect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p5#a240101p5)
- - [Windows 11: Automatically Free Up Space on Your PC With This Hidden Feature     - CNET](https://www.cnet.com/tech/computing/windows-11-automatically-free-up-space-on-your-pc-with-this-hidden-feature/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Over-Ear Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
+ - [Best Reusable Water Bottles in 2024     - CNET](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
