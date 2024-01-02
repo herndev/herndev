@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These Incredible Cyberpunk 2077 Mods Will Make You Question Reality](https://kotaku.com/cyberpunk-2077-graphics-mods-pc-rtx-4090-1851133618)
- - [Square Enix Will Be ‘Aggressive’ With Using AI For Development, CEO Says](https://kotaku.com/square-enix-president-artificial-intelligence-ai-games-1851133573)
- - [Baldur’s Gate 3 Nude Scenes Are Getting Xbox Players Banned](https://kotaku.com/baldurs-gate-3-xbox-series-x-s-nude-sex-scene-ban-1851133578)<!-- GAME:END -->
+ - [Pokémon Go Ditto disguises list for January 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
+ - [Pokémon Go Giovanni counters, team line-up in January 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
+ - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in January 2024](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
