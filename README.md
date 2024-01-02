@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If Marvel’s What If…? can do anything, then why is it doing this?](https://www.polygon.com/reviews/24017721/marvels-what-if-season-2-review)
- - [Sony Fined For Playing Hardball Against Third-Party Controllers](https://kotaku.com/sony-ps4-dualshock-4-controller-gamepad-1851134003)
- - [&#39;If [money] is an issue, pirate it and buy a copy later&#39;: the devs of our favourite surprise horror hit want you to play it spoiler free—by any means necessary](https://www.pcgamer.com/if-money-is-an-issue-pirate-it-and-buy-a-copy-later-the-devs-of-our-favourite-surprise-horror-hit-want-you-to-play-it-spoiler-freeby-any-means-necessary)<!-- GAME:END -->
+ - [The Sinking City legal battle ends with victory for Frogwares, new version of the game &#39;coming soon&#39;](https://www.pcgamer.com/the-sinking-city-legal-battle-ends-with-victory-for-frogwares-new-version-of-the-game-coming-soon)
+ - [GTA 5 leaving Game Pass as year of GTA 6 hype kicks off](https://www.polygon.com/24022783/gta-5-xbox-game-pass-persona-3-4)
+ - [Marvel Snap Spotlight Cache schedule for January 2024](https://www.polygon.com/marvel-snap-guides/23984059/spotlight-cache-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
