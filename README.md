@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Ditto disguises list for January 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
- - [Pokémon Go Giovanni counters, team line-up in January 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in January 2024](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)<!-- GAME:END -->
+ - [If Marvel’s What If…? can do anything, then why is it doing this?](https://www.polygon.com/reviews/24017721/marvels-what-if-season-2-review)
+ - [Sony Fined For Playing Hardball Against Third-Party Controllers](https://kotaku.com/sony-ps4-dualshock-4-controller-gamepad-1851134003)
+ - [&#39;If [money] is an issue, pirate it and buy a copy later&#39;: the devs of our favourite surprise horror hit want you to play it spoiler free—by any means necessary](https://www.pcgamer.com/if-money-is-an-issue-pirate-it-and-buy-a-copy-later-the-devs-of-our-favourite-surprise-horror-hit-want-you-to-play-it-spoiler-freeby-any-means-necessary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
