@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best TV for PS5 and Xbox Series X, Series S for 2024: LG OLED, Samsung QLED, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)
- - [Best LastPass Alternative in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-free-password-manager/#ftag=CAD590a51e)
- - [Best Apple Watch Bands for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-bands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Fidelity marks down the value of its X stake, estimating the company is worth ~28% of the $44B that Elon Musk paid, down from 33% in May 2023 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240101/p6#a240101p6)
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
+ - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
