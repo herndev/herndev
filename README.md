@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
- - ⏩ [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 👉 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)<!-- MEMES:END -->
+ - 💣 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - ⏩ [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
 
 ---
 
