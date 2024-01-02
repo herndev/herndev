@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ASML canceled shipments of some machines to China at the request of the US, weeks before export bans on the chipmaking equipment came into effect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p5#a240101p5)
- - [Google VideoPoet AI video generator: What is it and how does it work?](https://www.androidauthority.com/google-videopoet-3398871/)
- - [Best Ring Video Doorbells of 2024     - CNET](https://www.cnet.com/home/security/best-ring-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alamo Drafthouse blames ‘nationwide’ theater outage on Sony projector fail](https://www.theverge.com/2024/1/1/24021915/alamo-drafthouse-outage-sony-projector)
+ - [Sources: ASML canceled shipments of some of its machines to China at the US&#39; request, weeks before export bans on the high-end chipmaking equipment took effect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p5#a240101p5)
+ - [Windows 11: Automatically Free Up Space on Your PC With This Hidden Feature     - CNET](https://www.cnet.com/tech/computing/windows-11-automatically-free-up-space-on-your-pc-with-this-hidden-feature/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
