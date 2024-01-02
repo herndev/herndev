@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Employees, sources, and experts describe crisis at Alibaba as the company struggles to chart a new course and an ambitious restructuring did not go as planned &lpar;Financial Times&rpar;](http://www.techmeme.com/240102/p1#a240102p1)
- - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [Filing: Fidelity marks down the value of its X stake, estimating the company is worth ~28% of the $44B that Elon Musk paid, down from 33% in May 2023 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240101/p6#a240101p6)<!-- TECH:END -->
+ - [Best Places to Sell Your Used Electronics for 2024     - CNET](https://www.cnet.com/tech/mobile/best-places-to-sell-electronics/#ftag=CAD590a51e)
+ - [Best Beer Clubs for 2024     - CNET](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
