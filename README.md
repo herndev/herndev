@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
- - ⏩ [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
+ - 💣 [Japanese Airlines aircraft crash in Haneda Airport](http://9gag.com/gag/a5XOBLq)
+ - ⏩ [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
 
 ---
 
