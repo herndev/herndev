@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The chip industry is the new star on the political scene, bringing opportunities and challenges; Nvidia and others have rapidly built US lobbying operations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240102/p4#a240102p4)
- - [Sources: Merck&#39;s bid for Japanese chip materials maker JSR, not disclosed to JSR shareholders, triggered a $6.4B offer by a state-backed fund in June 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240102/p3#a240102p3)
- - [Galaxy S3 and Galaxy Note 2 receive Android 14, albeit unofficially](https://www.androidauthority.com/samsung-galaxy-s3-note-2-android-14-lineage-os-3398976/)<!-- TECH:END -->
+ - [To Own the Future, Read Shakespeare](https://www.wired.com/story/own-future-artificial-intelligence-read-shakespeare/)
+ - [Microsoft now says the CMA was ‘tough and fair’ over Activision Blizzard deal](https://www.theverge.com/2024/1/2/24022293/microsoft-activision-blizzard-cma-tough-fair-comments-brad-smith)
+ - [Bitcoin rises above $45K for the first time since April 2022, after gaining 156% in 2023, its best yearly performance since 2020, but far off its $69K peak &lpar;Reuters&rpar;](http://www.techmeme.com/240102/p6#a240102p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
