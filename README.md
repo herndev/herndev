@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro &#39;imminent&#39; with end of January launch](https://appleinsider.com/articles/24/01/02/apple-vision-pro-imminent-with-end-of-january-launch?utm_medium=rss)
- - [How to transfer ownership of a Google Drive folder or file](https://www.theverge.com/24022400/google-drive-transfer-how-to)
- - [Jack Black rumored to play Steve in the Minecraft movie](https://www.theverge.com/2024/1/2/24022838/jack-black-steve-minecraft-movie)<!-- TECH:END -->
+ - [Got Apple Card Savings? Your interest tax form is coming very soon](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)
+ - [iPhone 16 won&#39;t be compelling, says analyst with no compelling data](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
+ - [Apple Vision Pro imminent, with launch rumored at end of January](https://appleinsider.com/articles/24/01/02/apple-vision-pro-imminent-with-end-of-january-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
