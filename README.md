@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #927 for Tuesday, January 2](https://www.pcgamer.com/wordle-today-answer-927-january-2)
- - [Fortnite Crew Pack and skin for January 2024](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
- - [Netflix’s The Brothers Sun, the Golden Globes, and more new TV this week](https://www.polygon.com/2024/1/1/23990872/new-tv-netflix-watch-golden-globes-michelle-yeoh-thriller)<!-- GAME:END -->
+ - [Monster Hunter: World just hit its highest concurrent player count in over 3 years](https://www.pcgamer.com/monster-hunter-world-just-hit-its-highest-concurrent-player-count-in-over-3-years)
+ - [Starfield enters 2024 with &#39;Mostly Negative&#39; recent reviews on Steam](https://www.pcgamer.com/starfield-enters-2024-with-mostly-negative-recent-reviews-on-steam)
+ - [Wordle today: Hint and answer #927 for Tuesday, January 2](https://www.pcgamer.com/wordle-today-answer-927-january-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
