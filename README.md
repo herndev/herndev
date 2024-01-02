@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - ⏩ [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
+ - 💣 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - ⏩ [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 👉 [Food is ready](http://9gag.com/gag/anzm7K5)<!-- MEMES:END -->
 
 ---
 
