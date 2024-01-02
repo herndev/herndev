@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Apple Watch SE is $50 off just in time for your New Year’s fitness goals](https://www.theverge.com/2024/1/2/24022374/apple-watch-se-smartwatch-newyears-resolutions-airtag-8bitdo-deal-sale)
- - [Dish Network rejoins EchoStar as it tries to compete in 5G](https://www.theverge.com/2024/1/2/24022413/dish-network-echostar-acquisition-5g-boost-mobile-wireless)
- - [Report: Samsung took a bite out of Apple’s global market share in 2023](https://www.androidauthority.com/premium-smartphone-sales-bump-3399038/)<!-- TECH:END -->
+ - [X posts that have link previews now display titles or headlines in the corner of the image preview, but the text size is small and long headlines get cut off &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p14#a240102p14)
+ - [We’re down to just a handful of EVs that qualify for the full $7,500 tax credit in the US](https://www.theverge.com/2024/1/2/24022509/ev-tax-credit-eligible-cars-list-chevy-tesla-ford)
+ - [HSBC plans to launch international payments app Zing in the UK in the coming days before a wider rollout, seeking to compete with Revolut and Wise &lpar;Harry Wilson/Bloomberg&rpar;](http://www.techmeme.com/240102/p13#a240102p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
