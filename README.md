@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 50 most anticipated TV shows of 2024](https://www.polygon.com/24007774/best-new-tv-2024-release-calendar-schedule-shows-series)
- - [Square Enix&#39;s new years resolution is to become &#39;aggressive in applying AI&#39;, and I&#39;m very tired](https://www.pcgamer.com/square-enixs-new-years-resolution-is-to-become-aggressive-in-applying-ai-and-im-very-tired)
- - [The must-watch anime to look out for in winter 2024](https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming)<!-- GAME:END -->
+ - [Steam&#39;s 2023 GOTY nominations are extremely weird, and I guess that&#39;s your fault](https://www.pcgamer.com/steams-2023-goty-nominations-are-extremely-weird-and-i-guess-thats-your-fault)
+ - [Meta’s Quest 2 VR Headset Is Cheaper Than Ever](https://kotaku.com/meta-quest-2-price-decrease-vr-headset-1851133448)
+ - [PlayStation Stars Campaigns and Digital Collectibles for January 2024](https://blog.playstation.com/2024/01/02/playstation-stars-campaigns-and-digital-collectibles-for-january-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
