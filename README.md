@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will soon send Apple Card Savings users 1099-INT tax forms](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)
- - [Amazon&#39;s fan-favorite $189.99 AirPods Pro USB-C deal is back for 2024](https://appleinsider.com/articles/24/01/02/amazons-fan-favorite-18999-airpods-pro-usb-c-deal-is-back-for-2024?utm_medium=rss)
- - [Sources: Canva nears a deal to let longtime staff and investors sell $1B+ in stock to new investors at a $26B valuation, about the same as in a 2023 share sale &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240102/p11#a240102p11)<!-- TECH:END -->
+ - [The latest Apple Watch SE is $50 off just in time for your New Year’s fitness goals](https://www.theverge.com/2024/1/2/24022374/apple-watch-se-smartwatch-newyears-resolutions-airtag-8bitdo-deal-sale)
+ - [Dish Network rejoins EchoStar as it tries to compete in 5G](https://www.theverge.com/2024/1/2/24022413/dish-network-echostar-acquisition-5g-boost-mobile-wireless)
+ - [Report: Samsung took a bite out of Apple’s global market share in 2023](https://www.androidauthority.com/premium-smartphone-sales-bump-3399038/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
