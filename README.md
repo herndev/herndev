@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - ⏩ [JAL plane collision](http://9gag.com/gag/aZD68x6)
- - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
+ - 💣 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - ⏩ [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
+ - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
 
 ---
 
