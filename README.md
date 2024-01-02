@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - ⏩ [Play stupid games and well you know the rest](http://9gag.com/gag/aL1Z4B6)
- - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
+ - 💣 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - ⏩ [This man has a lot of commitment](http://9gag.com/gag/armQAD5)
+ - 👉 [Girl: \u201cI\u2019m only 15\u201d. Man: \u201cOkay, good\u201d. This is a video that was recorded in Kirkby, UK by a schoolgirl approached by a `refugee`. The video sparked a protest by locals outside the refugee hotel. These were branded &#39;far-right&#39; by The Guardian. Modern journalists are rubbish.](http://9gag.com/gag/aBdAVVA)<!-- MEMES:END -->
 
 ---
 
