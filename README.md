@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - ⏩ [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 💣 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - ⏩ [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
  - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
 
 ---
