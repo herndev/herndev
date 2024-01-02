@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - ⏩ [Thought this was real until](http://9gag.com/gag/aOxMx4N)
- - 👉 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)<!-- MEMES:END -->
+ - 💣 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - ⏩ [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 👉 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)<!-- MEMES:END -->
 
 ---
 
