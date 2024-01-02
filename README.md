@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alamo Drafthouse blames ‘nationwide’ theater outage on Sony projector fail](https://www.theverge.com/2024/1/1/24021915/alamo-drafthouse-outage-sony-projector)
- - [Best Over-Ear Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
- - [Best Reusable Water Bottles in 2024     - CNET](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Graphics Card for Gamers and Creatives in 2024     - CNET](https://www.cnet.com/tech/gaming/best-graphics-card/#ftag=CAD590a51e)
+ - [Best USB-C PD Chargers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-usb-c-pd-chargers/#ftag=CAD590a51e)
+ - [Best Speakerphone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
