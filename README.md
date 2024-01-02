@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter: World just hit its highest concurrent player count in over 3 years](https://www.pcgamer.com/monster-hunter-world-just-hit-its-highest-concurrent-player-count-in-over-3-years)
- - [Starfield enters 2024 with &#39;Mostly Negative&#39; recent reviews on Steam](https://www.pcgamer.com/starfield-enters-2024-with-mostly-negative-recent-reviews-on-steam)
- - [Wordle today: Hint and answer #927 for Tuesday, January 2](https://www.pcgamer.com/wordle-today-answer-927-january-2)<!-- GAME:END -->
+ - [The 50 most anticipated TV shows of 2024](https://www.polygon.com/24007774/best-new-tv-2024-release-calendar-schedule-shows-series)
+ - [Square Enix&#39;s new years resolution is to become &#39;aggressive in applying AI&#39;, and I&#39;m very tired](https://www.pcgamer.com/square-enixs-new-years-resolution-is-to-become-aggressive-in-applying-ai-and-im-very-tired)
+ - [The must-watch anime to look out for in winter 2024](https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
