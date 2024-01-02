@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - ⏩ [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
+ - 💣 [Change my mind](http://9gag.com/gag/aA086j0)
+ - ⏩ [Can someone translate?](http://9gag.com/gag/aVbpEMn)
+ - 👉 [Food is ready](http://9gag.com/gag/anzm7K5)<!-- MEMES:END -->
 
 ---
 
