@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
  - [Filing: Fidelity marks down the value of its X stake, estimating the company is worth ~28% of the $44B that Elon Musk paid, down from 33% in May 2023 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240101/p6#a240101p6)
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
- - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sports Streaming Service for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
