@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
- - [‘Starcrossed’ Exotic mission and secret chests guide in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic)
- - [Mickey Mouse has been in the public domain for under 48 hours and there&#39;s already a horror game and 2 horror movies on the way](https://www.pcgamer.com/mickey-mouse-horror-game-public-domain)<!-- GAME:END -->
+ - [Watch a 13-year-old become the first person to ever beat Classic Tetris](https://www.polygon.com/24023080/tetris-record-kill-screen-beat-nes-blue-scuti)
+ - [The state of WoW going into 2024: Blizzard had to deliver the best year ever for World of Warcraft, and it did](https://www.pcgamer.com/state-of-wow-2024-world-of-warcrafts-best-year-ever)
+ - [Baldur&#39;s Gate 3 completes its Game of the Year sweep with top honor in the 2023 Steam Awards](https://www.pcgamer.com/baldurs-gate-3-completes-its-game-of-the-year-sweep-with-top-honor-in-the-2023-steam-awards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
