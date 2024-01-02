@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2023, global premium smartphone sales are likely to grow 6% YoY; Apple had a 71% share, down from 75% in 2022, Samsung had 17%, and Huawei had 5%, up from 3% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240102/p10#a240102p10)
- - [After UK regulators approved Microsoft&#39;s Activision deal in October, Brad Smith rows back on criticism of the UK, saying the CMA has been &quot;tough and fair&quot; &lpar;BBC&rpar;](http://www.techmeme.com/240102/p9#a240102p9)
- - [IRS Tax Delay: If You Use Venmo, PayPal, or Cash App Here&#39;s What You Should Know     - CNET](https://www.cnet.com/personal-finance/taxes/irs-tax-delay-if-you-use-venmo-paypal-or-cash-app-heres-what-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple will soon send Apple Card Savings users 1099-INT tax forms](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)
+ - [Amazon&#39;s fan-favorite $189.99 AirPods Pro USB-C deal is back for 2024](https://appleinsider.com/articles/24/01/02/amazons-fan-favorite-18999-airpods-pro-usb-c-deal-is-back-for-2024?utm_medium=rss)
+ - [Sources: Canva nears a deal to let longtime staff and investors sell $1B+ in stock to new investors at a $26B valuation, about the same as in a 2023 share sale &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240102/p11#a240102p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
