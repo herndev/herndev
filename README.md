@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Name this band..](http://9gag.com/gag/avQM6rZ)
- - ⏩ [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 👉 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)<!-- MEMES:END -->
+ - 💣 [Cultural enricer in Spain. : Men won\u2019t help, police won\u2019t help, and the government won\u2019t help.](http://9gag.com/gag/ay2bW2y)
+ - ⏩ [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
 
 ---
 
