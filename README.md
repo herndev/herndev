@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)
- - ⏩ [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 👉 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)<!-- MEMES:END -->
+ - 💣 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - ⏩ [Thought this was real until](http://9gag.com/gag/aOxMx4N)
+ - 👉 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)<!-- MEMES:END -->
 
 ---
 
