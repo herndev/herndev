@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X posts that have link previews now display titles or headlines in the corner of the image preview, but the text size is small and long headlines get cut off &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p14#a240102p14)
- - [We’re down to just a handful of EVs that qualify for the full $7,500 tax credit in the US](https://www.theverge.com/2024/1/2/24022509/ev-tax-credit-eligible-cars-list-chevy-tesla-ford)
- - [HSBC plans to launch international payments app Zing in the UK in the coming days before a wider rollout, seeking to compete with Revolut and Wise &lpar;Harry Wilson/Bloomberg&rpar;](http://www.techmeme.com/240102/p13#a240102p13)<!-- TECH:END -->
+ - [Steam ended support for Windows 7, 8, and 8.1 on January 1, saying the app used a now-unsupported embedded Chrome version; &lt;1% of Steam users are on those OSes &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240102/p15#a240102p15)
+ - [Samsung’s new robot vacuum can steam clean your floors](https://www.theverge.com/2024/1/2/24022573/samsung-jet-bot-combo-robot-vacuum-steam-clean-ces-2024)
+ - [Pixel Watch is finally getting a feature that was announced last month](https://www.androidauthority.com/pixel-watch-new-features-3399107/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
