@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - ⏩ [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
+ - 💣 [Never seen this before but looks interesting](http://9gag.com/gag/aDYK8xG)
+ - ⏩ [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
  - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
 
 ---
