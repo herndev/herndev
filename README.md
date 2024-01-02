@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - ⏩ [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - 👉 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)<!-- MEMES:END -->
+ - 💣 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - ⏩ [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
 
 ---
 
