@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Barclays says iPhone 16 won&#39;t be compelling](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
  - [Steam ended support for Windows 7, 8, and 8.1 on January 1, saying the app used a now-unsupported embedded Chrome version; &lt;1% of Steam users are on those OSes &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240102/p15#a240102p15)
- - [Samsung’s new robot vacuum can steam clean your floors](https://www.theverge.com/2024/1/2/24022573/samsung-jet-bot-combo-robot-vacuum-steam-clean-ces-2024)
- - [Pixel Watch is finally getting a feature that was announced last month](https://www.androidauthority.com/pixel-watch-new-features-3399107/)<!-- TECH:END -->
+ - [Samsung’s new robot vacuum can steam clean your floors](https://www.theverge.com/2024/1/2/24022573/samsung-jet-bot-combo-robot-vacuum-steam-clean-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
