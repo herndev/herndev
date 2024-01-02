@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [The Galaxy S24 Ultra could get a big videography upgrade](https://www.androidauthority.com/samsung-galaxy-s24-ultra-4k120fps-videography-upgrade-3398950/)
- - [Samsung Galaxy S24 possible launch date and pre-order benefits leaked](https://www.androidauthority.com/samsung-galaxy-s24-possible-launch-date-preorder-benefits-leaked-3398941/)<!-- TECH:END -->
+ - [Galaxy S3 and Galaxy Note 2 receive Android 14, albeit unofficially](https://www.androidauthority.com/samsung-galaxy-s3-note-2-android-14-lineage-os-3398976/)
+ - [Retiring generals and departing top Pentagon officials are increasingly flocking to VC firms that have pumped billions into defense tech startups like Anduril &lpar;Eric Lipton/New York Times&rpar;](http://www.techmeme.com/240102/p2#a240102p2)
+ - [Everyday AI: Chatbots Are Rewriting How We Live and Work Today     - CNET](https://www.cnet.com/tech/computing/features/everyday-ai-chatbots-are-rewriting-how-we-live-and-work-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
