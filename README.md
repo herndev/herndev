@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete Constellation Lock and unlock Wish-Keeper Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation)
- - [Horror Game Studio Shuts Down Due To Cyberattacks, Poor Sales](https://kotaku.com/stray-souls-jukai-studio-versus-evil-shutdown-1851136778)
- - [Bethesda&#39;s Biggest Game Ever Is Free And Remastered](https://kotaku.com/bethesda-elder-scrolls-daggerfall-unity-starfield-1851136713)<!-- GAME:END -->
+ - [Pokémon Concierge Has The Best Vibes Of Any Show In The Series](https://kotaku.com/pokemon-concierge-show-series-netflix-review-1851137189)
+ - [2023 Was The First Waluigi-Less Year Since 2000](https://kotaku.com/waluigi-nintendo-switch-wario-luigi-mario-1851136988)
+ - [How to complete Constellation Lock and unlock Wish-Keeper Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
