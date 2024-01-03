@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She will regret this](http://9gag.com/gag/a8qR0z1)
- - ⏩ [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 👉 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)<!-- MEMES:END -->
+ - 💣 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)
+ - ⏩ [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 👉 [African men cannot relate to a woman&#39;s r*pe trauma.](http://9gag.com/gag/aMEoPrR)<!-- MEMES:END -->
 
 ---
 
