@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Concierge Has The Best Vibes Of Any Show In The Series](https://kotaku.com/pokemon-concierge-show-series-netflix-review-1851137189)
- - [2023 Was The First Waluigi-Less Year Since 2000](https://kotaku.com/waluigi-nintendo-switch-wario-luigi-mario-1851136988)
- - [How to complete Constellation Lock and unlock Wish-Keeper Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation)<!-- GAME:END -->
+ - [Kim Kardashian’s Once-Massive Mobile Game Is No More](https://kotaku.com/kim-kardashian-hollywood-video-game-apple-ios-android-1851137424)
+ - [A Starfield modder is doing something Bethesda should have done: making pilotable mechs](https://www.pcgamer.com/a-starfield-modder-is-doing-something-bethesda-should-have-done-making-pilotable-mechs)
+ - [Pour one out for the late great Windows 7: Steam has finally stopped supporting Windows 7, 8, and 8.1](https://www.pcgamer.com/pour-one-out-for-the-late-great-windows-7-steam-has-finally-stopped-supporting-windows-7-8-and-81)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
