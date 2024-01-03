@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - ⏩ [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 👉 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)<!-- MEMES:END -->
+ - 💣 [Luke Litter, 16 year old dart phenomenon.. mf&#39;er look like he&#39;s 30.](http://9gag.com/gag/aPgEm8g)
+ - ⏩ [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
+ - 👉 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)<!-- MEMES:END -->
 
 ---
 
