@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #928 for Wednesday, January 3](https://www.pcgamer.com/wordle-today-answer-928-january-3)
  - [The PC game releases we&#39;re most excited about in January](https://www.pcgamer.com/pc-game-release-dates-january-2024)
- - [Watch a 13-year-old become the first person to ever beat Classic Tetris](https://www.polygon.com/24023080/tetris-record-kill-screen-beat-nes-blue-scuti)
- - [The state of WoW going into 2024: Blizzard had to deliver the best year ever for World of Warcraft, and it did](https://www.pcgamer.com/state-of-wow-2024-world-of-warcrafts-best-year-ever)<!-- GAME:END -->
+ - [Watch a 13-year-old become the first person to ever beat Classic Tetris](https://www.polygon.com/24023080/tetris-record-kill-screen-beat-nes-blue-scuti)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
