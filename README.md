@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - ⏩ [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
+ - 💣 [Want beach? Too bad, here shadow](http://9gag.com/gag/aMEoBNX)
+ - ⏩ [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
+ - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
 
 ---
 
