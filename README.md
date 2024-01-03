@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the battle brewing between satellite operators over the use of orbit spectrum, as SpaceX&#39;s Starlink, Project Kuiper, and others push for looser rules &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/240103/p8#a240103p8)
- - [Poll: Do you use your wearable to pay for stuff?](https://www.androidauthority.com/wearable-payments-poll-3399391/)
- - [A profile of Midjourney founder David Holz, who co-founded Leap Motion in 2008 before a $30M sale in 2019, as the AI art tool prepares for the 2024 US elections &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240103/p7#a240103p7)<!-- TECH:END -->
+ - [A look at Shein and Temu&#39;s Chinese supply chain: the platforms offer a lifeline to suppliers, but margins are razor-thin, prices must stay low, and unsold stock &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240103/p9#a240103p9)
+ - [Samsung’s OLED gaming monitors now come in more shapes, sizes, and up to 360Hz](https://www.theverge.com/2024/1/3/24023513/samsung-ces-2024-gaming-monitors-odyssey-oled-g6-g8-g9)
+ - [A look at the battle brewing between satellite operators over the use of orbit spectrum, as SpaceX&#39;s Starlink, Project Kuiper, and others push for looser rules &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/240103/p8#a240103p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
