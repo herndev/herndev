@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cultural enricer in Spain. : Men won\u2019t help, police won\u2019t help, and the government won\u2019t help.](http://9gag.com/gag/ay2bW2y)
- - ⏩ [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
+ - 💣 [Luke Litter, 16 year old dart phenomenon.. mf&#39;er look like he&#39;s 30.](http://9gag.com/gag/aPgEm8g)
+ - ⏩ [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - 👉 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)<!-- MEMES:END -->
 
 ---
 
