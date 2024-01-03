@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 💣 [Trap](http://9gag.com/gag/adPGn6B)
  - ⏩ [Change my mind](http://9gag.com/gag/aA086j0)
- - 👉 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)<!-- MEMES:END -->
+ - 👉 [Ah yes, the \u201cunauthorized activities\u201d.](http://9gag.com/gag/aQELAOK)<!-- MEMES:END -->
 
 ---
 
