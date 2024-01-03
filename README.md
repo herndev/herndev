@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reveals Galaxy S24 launch date &lpar;for real, this time&rpar;](https://www.androidauthority.com/samsung-unpacked-s24-2024-date-announcement-3393274/)
- - [Samsung is hosting Unpacked in the heart of Silicon Valley](https://www.theverge.com/2024/1/2/24022816/samsung-galaxy-s24-unpacked-2024-date-time-san-jose)
- - [Fidelity and other spot bitcoin ETF issuers jockey for an early advantage to attract investors, as they reportedly may get approval to launch by January 10 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240102/p17#a240102p17)<!-- TECH:END -->
+ - [Pornhub blocks access in two more states, Montana and North Carolina, in protest of the states&#39; age verification laws &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240102/p19#a240102p19)
+ - [Sex, Drugs, and AI Mickey Mouse](https://www.wired.com/story/mickey-mouse-steamboat-willie-public-domain-artificial-intelligence/)
+ - [Apple Watch Emergency SOS saves woman after near-fatal carbon monoxide poisoning](https://appleinsider.com/articles/24/01/02/emergency-sos-on-apple-watch-saves-life-after-potentially-fatal-carbon-monoxide-poisoning?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
