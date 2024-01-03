@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - ⏩ [Name this band..](http://9gag.com/gag/avQM6rZ)
- - 👉 [Trap](http://9gag.com/gag/adPGn6B)<!-- MEMES:END -->
+ - 💣 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
+ - ⏩ [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 👉 [One for the autistic audience](http://9gag.com/gag/ay2b1vW)<!-- MEMES:END -->
 
 ---
 
