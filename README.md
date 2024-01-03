@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s 2024 OLED TVs put a bigger focus on AI processing than ever before](https://www.theverge.com/2024/1/3/24023584/lg-2024-oled-tv-lineup-m4-g4-c4-b4-features-specs)
- - [How to change alert volume in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-change-alert-volume-in-macos-sonoma?utm_medium=rss)
- - [Sony’s XM5 headphones are over $100 off thanks to eBay’s New Year’s sale](https://www.theverge.com/2024/1/3/24022457/sony-wh-1000xm5-headphones-fitbit-beats-earbuds-deal-sale)<!-- TECH:END -->
+ - [Unlock high performance computing with an $1,100 discount on this 16-inch MacBook Pro](https://appleinsider.com/articles/24/01/03/unlock-high-performance-computing-with-an-1100-discount-on-this-16-inch-macbook-pro?utm_medium=rss)
+ - [SpaceX launches its first six Starlink satellites capable of offering mobile phone service, as part of its Direct to Cell service with T-Mobile US &lpar;Shelly Banjo/Bloomberg&rpar;](http://www.techmeme.com/240103/p16#a240103p16)
+ - [Intel forms Articul8 AI, an AI company with backing from DigitalBridge and others; executives did not give the deal&#39;s value or say if Intel had a majority stake &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240103/p15#a240103p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
