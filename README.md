@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 Best Sci-Fi Movies On Netflix That Aren&#39;t Rebel Moon](https://kotaku.com/best-scifi-movies-netflix-rebel-moon-1851136003)
- - [You Need To Play Persona 3 Before It Leaves Xbox Game Pass](https://kotaku.com/persona-3-portable-female-route-reload-game-pass-1851136006)
- - [The CCP softens its stance on live service games after plummeting stocks, reportedly removes official responsible for the panic](https://www.pcgamer.com/the-ccp-softens-its-stance-on-live-service-games-after-plummeting-stocks-reportedly-removes-official-responsible-for-the-panic)<!-- GAME:END -->
+ - [I spent so much time taking photos in Cyberpunk 2077 that it made Idris Elba angry](https://www.pcgamer.com/i-spent-so-much-time-taking-photos-in-cyberpunk-2077-that-it-made-idris-elba-angry)
+ - [Samsung&#39;s baffling Odyssey range of monitors just got the 4K OLED upgrade we&#39;ve been waiting for](https://www.pcgamer.com/samsungs-baffling-odyssey-range-of-monitors-just-got-the-4k-oled-upgrade-weve-been-waiting-for)
+ - [Honkai: Star Rail codes for January 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
