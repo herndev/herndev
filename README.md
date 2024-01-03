@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I spent so much time taking photos in Cyberpunk 2077 that it made Idris Elba angry](https://www.pcgamer.com/i-spent-so-much-time-taking-photos-in-cyberpunk-2077-that-it-made-idris-elba-angry)
- - [Samsung&#39;s baffling Odyssey range of monitors just got the 4K OLED upgrade we&#39;ve been waiting for](https://www.pcgamer.com/samsungs-baffling-odyssey-range-of-monitors-just-got-the-4k-oled-upgrade-weve-been-waiting-for)
- - [Honkai: Star Rail codes for January 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [Game Pass adding the best Resident Evil, Assassin’s Creed Valhalla in January](https://www.polygon.com/24023712/xbox-game-pass-pc-january-2024-games-release-dates)
+ - [Kotaku Asks: What Hugely Popular Game Just Isn&#39;t For You?](https://kotaku.com/kotaku-asks-what-hugely-popular-game-just-isnt-for-you-1851136545)
+ - [Baldur&#39;s Gate 3 Actors: Intimacy Coordinators Should Be &#39;Industry Standard&#39;](https://kotaku.com/baldurs-gate-3-voice-actors-larian-shadowheart-lae-zel-1851136386)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
