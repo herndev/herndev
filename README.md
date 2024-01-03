@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 12R to be fitted with largest ever battery on a OnePlus phone](https://www.androidauthority.com/oneplus-12r-battery-display-specs-3399309/)
  - [Filing: MicroStrategy Executive Chairman Michael Saylor begins selling $216M worth of shares, but says he remains &quot;optimistic about MicroStrategy&#39;s prospects&quot; &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240102/p23#a240102p23)
- - [X launches a Basic tier for Verified Organizations at $200/month or $2,000/year, in addition to Full Access at $1,000/month and $50/month for each US affiliate &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240102/p22#a240102p22)
- - [Best VPN Deals: Offers From $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X launches a Basic tier for Verified Organizations at $200/month or $2,000/year, in addition to Full Access at $1,000/month and $50/month for each US affiliate &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240102/p22#a240102p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
