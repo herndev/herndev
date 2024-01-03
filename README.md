@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Iconic Kim Kardashian: Hollywood mobile game shutting down after a decade](https://www.polygon.com/24024266/kim-kardashian-mobile-game-shutting-down-glu-mobile)
- - [Baldur&#39;s Gate 3 Actors Share Their Most-Flubbed Lines](https://kotaku.com/baldurs-gate-3-voice-actors-shadowheart-lae-zel-rpg-1851137584)
- - [The best version of Bethesda&#39;s biggest RPG is finally finished, and it&#39;s free for everyone](https://www.pcgamer.com/the-best-version-of-bethesdas-biggest-rpg-is-finally-finished-and-its-free-for-everyone)<!-- GAME:END -->
+ - [UK police begin first-ever investigation into sexual assault in the metaverse](https://www.pcgamer.com/uk-police-begin-first-ever-investigation-into-sexual-assault-in-the-metaverse)
+ - [Nexon fined nearly $9M for falsifying loot box drop rates](https://www.pcgamer.com/nexon-fined-nearly-dollar9m-for-falsifying-loot-box-drop-rates)
+ - [Unpacking’s secret messy mode just got a big viral boost](https://www.polygon.com/24024185/unpacking-dark-star-mode-developer-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
