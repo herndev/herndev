@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Antenna: US customer cancellations at major streamers rose to 6.3% in November, up from 5.1% YoY; 24% of users canceled 3+ subscriptions over the past two years &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/240102/p20#a240102p20)
- - [Tired of Feeling Groggy? Upgrade Your Sleep Routine With This Alternative to Melatonin     - CNET](https://www.cnet.com/health/sleep/melatonin-can-make-you-groggy-try-this-dietary-supplement-to-fall-asleep-instead/#ftag=CAD590a51e)
- - [Best Internet Providers in Bellevue, Washington     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bellevue-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X launches a Basic tier for Verified Organizations at $200/month or $2,000/year, in addition to Full Access at $1,000/month and $50/month for each US affiliate &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240102/p22#a240102p22)
+ - [Facebook rolled out Link History, which creates a repository of all the links clicked on by a user on the mobile app, with the data being used for targeted ads &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240102/p21#a240102p21)
+ - [Antenna: US customer cancellations at major streamers rose to 6.3% in November, up from 5.1% YoY; 24% of users canceled 3+ subscriptions over the past two years &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/240102/p20#a240102p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
