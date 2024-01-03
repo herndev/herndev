@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #928 for Wednesday, January 3](https://www.pcgamer.com/wordle-today-answer-928-january-3)
- - [The PC game releases we&#39;re most excited about in January](https://www.pcgamer.com/pc-game-release-dates-january-2024)
- - [Watch a 13-year-old become the first person to ever beat Classic Tetris](https://www.polygon.com/24023080/tetris-record-kill-screen-beat-nes-blue-scuti)<!-- GAME:END -->
+ - [&#39;We begged for more information, more details … all flatly declined&#39;: former Blizzard community development manager tears into Bobby Kotick over Overwatch 2&#39;s Steam launch](https://www.pcgamer.com/we-begged-for-more-information-more-details-all-flatly-declined-former-blizzard-community-development-manager-tears-into-bobby-kotick-over-overwatch-2s-steam-launch)
+ - [The exceptional Tomb Raider reboot, a game with 140K &#39;Overwhelmingly Positive&#39; reviews, is on-sale for the price of a cup of coffee](https://www.pcgamer.com/the-exceptional-tomb-raider-reboot-a-game-with-140k-overwhelmingly-positive-reviews-is-on-sale-for-the-price-of-a-cup-of-coffee)
+ - [Wordle today: Hint and answer #928 for Wednesday, January 3](https://www.pcgamer.com/wordle-today-answer-928-january-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
