@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a great idea](http://9gag.com/gag/armQA3B)
- - ⏩ [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
+ - 💣 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - ⏩ [Name this band..](http://9gag.com/gag/avQM6rZ)
+ - 👉 [Trap](http://9gag.com/gag/adPGn6B)<!-- MEMES:END -->
 
 ---
 
