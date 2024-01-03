@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Luke Litter, 16 year old dart phenomenon.. mf&#39;er look like he&#39;s 30.](http://9gag.com/gag/aPgEm8g)
+ - 💣 [She will regret this](http://9gag.com/gag/a8qR0z1)
  - ⏩ [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 👉 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)<!-- MEMES:END -->
+ - 👉 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)<!-- MEMES:END -->
 
 ---
 
