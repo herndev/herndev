@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Want beach? Too bad, here shadow](http://9gag.com/gag/aMEoBNX)
- - ⏩ [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
+ - 💣 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - ⏩ [Change my mind](http://9gag.com/gag/aA086j0)
+ - 👉 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)<!-- MEMES:END -->
 
 ---
 
