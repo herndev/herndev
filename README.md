@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok Shop will raise its US seller fees from 2% to 8% over the next few months; a source says TikTok Shop has started reducing some subsidies for merchants &lpar;The Information&rpar;](http://www.techmeme.com/240103/p21#a240103p21)
- - [Now you can smoke your ribs indoors](https://www.theverge.com/2024/1/3/24023919/ge-profile-smart-indoor-smoker-price-release-date-ces24)
- - [Apple TV+ orders fifth season for darkly comedic spy thriller &#39;Slow Horses&#39;](https://appleinsider.com/articles/24/01/03/apple-tv-orders-fifth-season-for-darkly-comedic-spy-thriller-slow-horses?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX accused of illegally firing employees who criticized Elon Musk](https://www.theverge.com/2024/1/3/24024253/spacex-elon-musk-nlrb-complaint-unfair-labor-practices-workers-fired)
+ - [LastPass will finally enforce a 12-character minimum master password](https://www.theverge.com/2024/1/3/24024012/lastpass-master-password-12-character-minimum-requirement-data-breach)
+ - [iOS 17.3 Beta 2 locking up iPhones for some users](https://appleinsider.com/articles/24/01/03/ios-173-beta-2-locking-up-iphones-for-some-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
