@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The PC game releases we&#39;re most excited about in January](https://www.pcgamer.com/pc-game-release-dates-january-2024)
  - [Watch a 13-year-old become the first person to ever beat Classic Tetris](https://www.polygon.com/24023080/tetris-record-kill-screen-beat-nes-blue-scuti)
- - [The state of WoW going into 2024: Blizzard had to deliver the best year ever for World of Warcraft, and it did](https://www.pcgamer.com/state-of-wow-2024-world-of-warcrafts-best-year-ever)
- - [Baldur&#39;s Gate 3 completes its Game of the Year sweep with top honor in the 2023 Steam Awards](https://www.pcgamer.com/baldurs-gate-3-completes-its-game-of-the-year-sweep-with-top-honor-in-the-2023-steam-awards)<!-- GAME:END -->
+ - [The state of WoW going into 2024: Blizzard had to deliver the best year ever for World of Warcraft, and it did](https://www.pcgamer.com/state-of-wow-2024-world-of-warcrafts-best-year-ever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
