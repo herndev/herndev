@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California senator files bill prohibiting agencies from working with unethical AI companies](https://www.theverge.com/2024/1/3/24024258/ai-bill-unethical-ai-california-ban-regulation)
- - [Apple pulls iOS 17.3 Beta 2 after locking up iPhones for some users [u]](https://appleinsider.com/articles/24/01/03/ios-173-beta-2-locking-up-iphones-for-some-users?utm_medium=rss)
- - [Etherscan, the leading block explorer for Ethereum that was founded in 2015, acquires Solscan, a block explorer for Solana founded in 2021 &lpar;Macauley Peterson/Blockworks&rpar;](http://www.techmeme.com/240103/p22#a240103p22)<!-- TECH:END -->
+ - [In a letter to a group of victims of its October 2023 breach, 23andMe blames them, saying that &quot;users negligently recycled and failed to update their passwords&quot; &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240103/p24#a240103p24)
+ - [January 2024 Android security patch has arrived for Google Pixel devices](https://www.androidauthority.com/january-2024-android-security-patch-3399584/)
+ - [10 Best Deals on Fitness Trackers and Smartwatches](https://www.wired.com/story/fitness-tracker-and-smartwatch-deals-january-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
