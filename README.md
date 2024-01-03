@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a Chad](http://9gag.com/gag/a6q0DrR)
- - ⏩ [Trap](http://9gag.com/gag/adPGn6B)
- - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
+ - 💣 [Ah yes, the \u201cunauthorized activities\u201d.](http://9gag.com/gag/aQELAOK)
+ - ⏩ [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 👉 [A transformation is happening in El Salvador](http://9gag.com/gag/a1PyN3G)<!-- MEMES:END -->
 
 ---
 
