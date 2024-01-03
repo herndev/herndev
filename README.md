@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel, which has so far set aside $100M to shield its tech startups from the fallout of its war with Hamas, calls on private investors to help the sector &lpar;James Shotter/Financial Times&rpar;](http://www.techmeme.com/240103/p2#a240103p2)
- - [London-based Robin AI, which develops a free Microsoft Word add-in for creating and reviewing legal contracts using Anthropic&#39;s Claude, raised a $26M Series B &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/240103/p1#a240103p1)
- - [This new fingerprint smart lock is the first to support Matter-over-Thread](https://www.theverge.com/2024/1/3/24022990/ultraloq-bolt-matter-thread-smart-lock-ces24)<!-- TECH:END -->
+ - [Sources: Cybersecurity Administration of China approved only ~25% of data export applications since the introduction of new data security laws in September 2022 &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/240103/p4#a240103p4)
+ - [Is your phone clogged with bloatware? This Android 14 feature might help.](https://www.androidauthority.com/android-14-bloatware-feature-system-resources-3398426/)
+ - [Critics and tech firms worry that the UK&#39;s Investigatory Powers &lpar;Amendment&rpar; Bill, a surveillance law now whisking through parliament, undermines user privacy &lpar;Laurie Clarke/Politico&rpar;](http://www.techmeme.com/240103/p3#a240103p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
