@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Luke Litter, 16 year old dart phenomenon.. mf&#39;er look like he&#39;s 30.](http://9gag.com/gag/aPgEm8g)
- - ⏩ [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 👉 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)<!-- MEMES:END -->
+ - 💣 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - ⏩ [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 👉 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)<!-- MEMES:END -->
 
 ---
 
