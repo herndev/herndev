@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - ⏩ [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
- - 👉 [This is a great idea](http://9gag.com/gag/armQA3B)<!-- MEMES:END -->
+ - 💣 [This is a great idea](http://9gag.com/gag/armQA3B)
+ - ⏩ [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
 
 ---
 
