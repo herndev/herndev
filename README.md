@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [So, Uh, What&#39;s Up With The Steam Awards?](https://kotaku.com/steam-awards-2023-starfield-red-dead-redemption-1851134717)
- - [Coming to Xbox Game Pass: Assassin’s Creed Valhalla, Resident Evil 2, Hell Let Loose, and More](https://news.xbox.com/en-us/2024/01/03/new-game-pass-games-for-january-2024/)
- - [The most anticipated new board games of 2024](https://www.polygon.com/tabletop-games/24016314/most-anticipated-board-games-2024)<!-- GAME:END -->
+ - [The 10 Best Sci-Fi Movies On Netflix That Aren&#39;t Rebel Moon](https://kotaku.com/best-scifi-movies-netflix-rebel-moon-1851136003)
+ - [You Need To Play Persona 3 Before It Leaves Xbox Game Pass](https://kotaku.com/persona-3-portable-female-route-reload-game-pass-1851136006)
+ - [The CCP softens its stance on live service games after plummeting stocks, reportedly removes official responsible for the panic](https://www.pcgamer.com/the-ccp-softens-its-stance-on-live-service-games-after-plummeting-stocks-reportedly-removes-official-responsible-for-the-panic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
