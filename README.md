@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes, the \u201cunauthorized activities\u201d.](http://9gag.com/gag/aQELAOK)
- - ⏩ [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 👉 [A transformation is happening in El Salvador](http://9gag.com/gag/a1PyN3G)<!-- MEMES:END -->
+ - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - ⏩ [Give me your best pethetic meme](http://9gag.com/gag/anzmnML)
+ - 👉 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)<!-- MEMES:END -->
 
 ---
 
