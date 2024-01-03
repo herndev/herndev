@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trap](http://9gag.com/gag/adPGn6B)
- - ⏩ [Change my mind](http://9gag.com/gag/aA086j0)
+ - 💣 [Change my mind](http://9gag.com/gag/aA086j0)
+ - ⏩ [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
  - 👉 [Ah yes, the \u201cunauthorized activities\u201d.](http://9gag.com/gag/aQELAOK)<!-- MEMES:END -->
 
 ---
