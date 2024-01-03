@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
- - ⏩ [Lmao](http://9gag.com/gag/ap94xD8)
- - 👉 [Sad day for Hamas](http://9gag.com/gag/aDYKbyd)<!-- MEMES:END -->
+ - ⏩ [That pice of junk in house that comes in handy.](http://9gag.com/gag/aREb26G)
+ - 👉 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)<!-- MEMES:END -->
 
 ---
 
