@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes 20% off the iPad Mini 6](https://www.androidauthority.com/ipad-mini-6-deal-3399478/)
- - [How to stop Apple Music from adding songs you favorite to your library](https://appleinsider.com/inside/apple-music/tips/how-to-stop-apple-music-from-adding-songs-you-favorite-to-your-library?utm_medium=rss)
- - [iPhone-dominant premium smartphone market generated record sales in 2023](https://appleinsider.com/articles/24/01/03/premium-smartphone-market-earned-record-sales-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile is changing the Netflix on Us promo, and you won’t like it](https://www.androidauthority.com/t-mobile-netflix-ads-2024-3399540/)
+ - [Starbucks customers can drive up to the window with their reusable cups now](https://www.theverge.com/2024/1/3/24023832/starbucks-us-canada-drive-through-reusable-cup-waste)
+ - [Xerox aims to cut 15% of its workforce as part of a restructuring plan; the company had ~20,500 employees as of Dec. 31, 2022, per an SEC filing; XRX drops 8%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240103/p20#a240103p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
