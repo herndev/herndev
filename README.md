@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former employees at IRL, which is being sued by SoftBank for fraud, detail several problems that were apparent from the start, including inflated user metrics &lpar;Financial Times&rpar;](http://www.techmeme.com/240103/p6#a240103p6)
- - [Airbus begins talks to acquire Atos&#39; cybersecurity and data unit, in a deal that could be valued up to &amp;euro;1.8B; Atos says another company had also made an offer &lpar;Wout Vergauwen/Bloomberg&rpar;](http://www.techmeme.com/240103/p5#a240103p5)
- - [Sources: Cybersecurity Administration of China approved only ~25% of data export applications since the introduction of new data security laws in September 2022 &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/240103/p4#a240103p4)<!-- TECH:END -->
+ - [Google wants your 2024 Bard wishlist](https://www.androidauthority.com/google-bard-wishlist-2024-3399350/)
+ - [Galaxy A55 sneak peek shows Samsung’s new ‘Key Island’ design and color options](https://www.androidauthority.com/samsung-galaxy-a55-colors-design-3399348/)
+ - [Former employees at IRL, which is being sued by SoftBank for fraud, detail several problems that were apparent from the start, including inflated user metrics &lpar;Financial Times&rpar;](http://www.techmeme.com/240103/p6#a240103p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
