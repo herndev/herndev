@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premium smartphone market earned record sales in 2023](https://appleinsider.com/articles/24/01/03/premium-smartphone-market-earned-record-sales-in-2023?utm_medium=rss)
- - [How to click a greyed-out Agree button in macOS setup](https://appleinsider.com/inside/macos/tips/how-to-click-a-greyed-out-agree-button-in-macos-setup?utm_medium=rss)
- - [Urbanista’s solar headphone lineup adds adaptive noise cancellation at lower prices](https://www.theverge.com/2024/1/3/24012094/urbanistas-headphones-los-angeles-phoenix-solar-charging-second-generation-ces-2024)<!-- TECH:END -->
+ - [Researchers developed three AI models to analyze 2,000TB of maritime data and create the first global map of vessel traffic and offshore infrastructure &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240103/p18#a240103p18)
+ - [Daily deals Jan. 3: 40% off iPad Pro &amp; M1 Max MacBook Pro, $100 off iPad 10th Gen, more](https://appleinsider.com/articles/24/01/03/daily-deals-jan-3-40-off-ipad-pro-m1-max-macbook-pro-100-off-ipad-10th-gen-more?utm_medium=rss)
+ - [Roku is getting serious about making TVs that look great](https://www.theverge.com/2024/1/3/24023732/roku-pro-tvs-smart-picture-features-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
