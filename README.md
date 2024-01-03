@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK study of 7,000 people born between 2000 and 2002: 48% agreed with &quot;I think I am addicted to social media&quot;; 57% of girls agreed, compared to 37% of boys &lpar;Hannah Devlin/The Guardian&rpar;](http://www.techmeme.com/240103/p12#a240103p12)
- - [Ugreen Nexode 4-in-1 Desktop charger review: Big power on your desk or on the road](https://appleinsider.com/articles/24/01/03/ugreen-nexode-4-in-1-desktop-charger-review-big-power-on-your-desk-or-on-the-road?utm_medium=rss)
- - [iOS 17: Play Your Daily Crossword Puzzle in the News App     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-play-your-daily-crossword-puzzle-in-the-news-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG’s 2024 OLED TVs put a bigger focus on AI processing than ever before](https://www.theverge.com/2024/1/3/24023584/lg-2024-oled-tv-lineup-m4-g4-c4-b4-features-specs)
+ - [How to change alert volume in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-change-alert-volume-in-macos-sonoma?utm_medium=rss)
+ - [Sony’s XM5 headphones are over $100 off thanks to eBay’s New Year’s sale](https://www.theverge.com/2024/1/3/24022457/sony-wh-1000xm5-headphones-fitbit-beats-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
