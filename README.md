@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google wants your 2024 Bard wishlist](https://www.androidauthority.com/google-bard-wishlist-2024-3399350/)
- - [Galaxy A55 sneak peek shows Samsung’s new ‘Key Island’ design and color options](https://www.androidauthority.com/samsung-galaxy-a55-colors-design-3399348/)
- - [Former employees at IRL, which is being sued by SoftBank for fraud, detail several problems that were apparent from the start, including inflated user metrics &lpar;Financial Times&rpar;](http://www.techmeme.com/240103/p6#a240103p6)<!-- TECH:END -->
+ - [A look at the battle brewing between satellite operators over the use of orbit spectrum, as SpaceX&#39;s Starlink, Project Kuiper, and others push for looser rules &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/240103/p8#a240103p8)
+ - [Poll: Do you use your wearable to pay for stuff?](https://www.androidauthority.com/wearable-payments-poll-3399391/)
+ - [A profile of Midjourney founder David Holz, who co-founded Leap Motion in 2008 before a $30M sale in 2019, as the AI art tool prepares for the 2024 US elections &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240103/p7#a240103p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
