@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass adding the best Resident Evil, Assassin’s Creed Valhalla in January](https://www.polygon.com/24023712/xbox-game-pass-pc-january-2024-games-release-dates)
- - [Kotaku Asks: What Hugely Popular Game Just Isn&#39;t For You?](https://kotaku.com/kotaku-asks-what-hugely-popular-game-just-isnt-for-you-1851136545)
- - [Baldur&#39;s Gate 3 Actors: Intimacy Coordinators Should Be &#39;Industry Standard&#39;](https://kotaku.com/baldurs-gate-3-voice-actors-larian-shadowheart-lae-zel-1851136386)<!-- GAME:END -->
+ - [How to complete Constellation Lock and unlock Wish-Keeper Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation)
+ - [Horror Game Studio Shuts Down Due To Cyberattacks, Poor Sales](https://kotaku.com/stray-souls-jukai-studio-versus-evil-shutdown-1851136778)
+ - [Bethesda&#39;s Biggest Game Ever Is Free And Remastered](https://kotaku.com/bethesda-elder-scrolls-daggerfall-unity-starfield-1851136713)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
