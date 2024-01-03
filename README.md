@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - ⏩ [Give me your best pethetic meme](http://9gag.com/gag/anzmnML)
- - 👉 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)<!-- MEMES:END -->
+ - ⏩ [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
+ - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
 
 ---
 
