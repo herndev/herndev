@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kim Kardashian’s Once-Massive Mobile Game Is No More](https://kotaku.com/kim-kardashian-hollywood-video-game-apple-ios-android-1851137424)
- - [A Starfield modder is doing something Bethesda should have done: making pilotable mechs](https://www.pcgamer.com/a-starfield-modder-is-doing-something-bethesda-should-have-done-making-pilotable-mechs)
- - [Pour one out for the late great Windows 7: Steam has finally stopped supporting Windows 7, 8, and 8.1](https://www.pcgamer.com/pour-one-out-for-the-late-great-windows-7-steam-has-finally-stopped-supporting-windows-7-8-and-81)<!-- GAME:END -->
+ - [Iconic Kim Kardashian: Hollywood mobile game shutting down after a decade](https://www.polygon.com/24024266/kim-kardashian-mobile-game-shutting-down-glu-mobile)
+ - [Baldur&#39;s Gate 3 Actors Share Their Most-Flubbed Lines](https://kotaku.com/baldurs-gate-3-voice-actors-shadowheart-lae-zel-rpg-1851137584)
+ - [The best version of Bethesda&#39;s biggest RPG is finally finished, and it&#39;s free for everyone](https://www.pcgamer.com/the-best-version-of-bethesdas-biggest-rpg-is-finally-finished-and-its-free-for-everyone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
