@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We begged for more information, more details … all flatly declined&#39;: former Blizzard community development manager tears into Bobby Kotick over Overwatch 2&#39;s Steam launch](https://www.pcgamer.com/we-begged-for-more-information-more-details-all-flatly-declined-former-blizzard-community-development-manager-tears-into-bobby-kotick-over-overwatch-2s-steam-launch)
- - [The exceptional Tomb Raider reboot, a game with 140K &#39;Overwhelmingly Positive&#39; reviews, is on-sale for the price of a cup of coffee](https://www.pcgamer.com/the-exceptional-tomb-raider-reboot-a-game-with-140k-overwhelmingly-positive-reviews-is-on-sale-for-the-price-of-a-cup-of-coffee)
- - [Wordle today: Hint and answer #928 for Wednesday, January 3](https://www.pcgamer.com/wordle-today-answer-928-january-3)<!-- GAME:END -->
+ - [A TikToker is trying to deliberately make the worst videogame of all time—and now they&#39;re trapped in a hell of their own making](https://www.pcgamer.com/a-tiktoker-is-trying-to-deliberately-make-the-worst-videogame-of-all-timeand-now-theyre-trapped-in-a-hell-of-their-own-making)
+ - [TV maker settles fake 120Hz class action lawsuit for $3 million](https://www.pcgamer.com/tv-maker-settles-fake-120hz-class-action-lawsuit-for-dollar3-million)
+ - [&#39;We begged for more information, more details … all flatly declined&#39;: former Blizzard community development manager tears into Bobby Kotick over Overwatch 2&#39;s Steam launch](https://www.pcgamer.com/we-begged-for-more-information-more-details-all-flatly-declined-former-blizzard-community-development-manager-tears-into-bobby-kotick-over-overwatch-2s-steam-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
