@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - ⏩ [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 👉 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)<!-- MEMES:END -->
+ - 💣 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - ⏩ [Trap](http://9gag.com/gag/adPGn6B)
+ - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
 
 ---
 
