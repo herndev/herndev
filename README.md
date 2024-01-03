@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [So, Uh, What&#39;s Up With The Steam Awards?](https://kotaku.com/steam-awards-2023-starfield-red-dead-redemption-1851134717)
  - [Coming to Xbox Game Pass: Assassin’s Creed Valhalla, Resident Evil 2, Hell Let Loose, and More](https://news.xbox.com/en-us/2024/01/03/new-game-pass-games-for-january-2024/)
- - [Intel&#39;s 6.2GHz uber CPU expected to launch at CES 2024 as new image emerges](https://www.pcgamer.com/intels-62ghz-uber-cpu-expected-to-launch-at-ces-2024-as-new-image-emerges)
- - [A TikToker is trying to deliberately make the worst videogame of all time—and now they&#39;re trapped in a hell of their own making](https://www.pcgamer.com/a-tiktoker-is-trying-to-deliberately-make-the-worst-videogame-of-all-timeand-now-theyre-trapped-in-a-hell-of-their-own-making)<!-- GAME:END -->
+ - [The most anticipated new board games of 2024](https://www.polygon.com/tabletop-games/24016314/most-anticipated-board-games-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
