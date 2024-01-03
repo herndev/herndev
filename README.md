@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
- - ⏩ [That pice of junk in house that comes in handy.](http://9gag.com/gag/aREb26G)
- - 👉 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)<!-- MEMES:END -->
+ - 💣 [Wild wanker](http://9gag.com/gag/awZEdmx)
+ - ⏩ [We want justice](http://9gag.com/gag/ay2b6Zq)
+ - 👉 [Sliced](http://9gag.com/gag/amAe6X6)<!-- MEMES:END -->
 
 ---
 
