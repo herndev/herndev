@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung and Google’s XR project officially has a chipset in the XR2 Plus Gen 2](https://www.androidauthority.com/samsung-google-vr-xr-chip-3399768/)
- - [&#39;Killers of the Flower Moon&#39; streams on Apple TV+ very soon](https://appleinsider.com/articles/24/01/04/killers-of-the-flower-moon-streams-on-apple-tv-very-soon?utm_medium=rss)
- - [As Google restricts third-party cookies for 1% of Chrome users, marketers, adtech companies, and publishers say Google has not done enough to prepare the market &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240104/p19#a240104p19)<!-- TECH:END -->
+ - [Samsung SmartThings will soon let you control your car from home and vice versa](https://www.androidauthority.com/samsung-smartthings-car-3399762/)
+ - [GroupM forms a consortium with Disney, Roku, NBCU, YouTube, and others to push for standardized measurements and ad formats that can be used across streamers &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/240104/p20#a240104p20)
+ - [Daily deals Jan. 4: $399 iPad Pro, $749 MacBook Air, $60 off AirPods Pro, $189 Google Nest Hub Max, more](https://appleinsider.com/articles/24/01/04/daily-deals-jan-4-399-ipad-pro-749-macbook-air-60-off-airpods-pro-189-google-nest-hub-max-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
