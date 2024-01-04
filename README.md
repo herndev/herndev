@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung SmartThings will soon let you control your car from home and vice versa](https://www.androidauthority.com/samsung-smartthings-car-3399762/)
- - [GroupM forms a consortium with Disney, Roku, NBCU, YouTube, and others to push for standardized measurements and ad formats that can be used across streamers &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/240104/p20#a240104p20)
- - [Daily deals Jan. 4: $399 iPad Pro, $749 MacBook Air, $60 off AirPods Pro, $189 Google Nest Hub Max, more](https://appleinsider.com/articles/24/01/04/daily-deals-jan-4-399-ipad-pro-749-macbook-air-60-off-airpods-pro-189-google-nest-hub-max-more?utm_medium=rss)<!-- TECH:END -->
+ - [Route package data: Amazon had 29% of global online order volume in the two weeks before Christmas, up from 21% in the week of Thanksgiving and Black Friday &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240104/p22#a240104p22)
+ - [Score a $255 discount on the WD 18TB External Hard Drive](https://www.androidauthority.com/wd-18tb-external-hard-drive-deal-3399793/)
+ - [ChatGPT, Copilot, and Bard: How AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
