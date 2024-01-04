@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This iPhone accessory aims to fix the problem with virtual keyboards](https://www.androidauthority.com/iphone-15-pro-keyboard-accessory-3399851/)
- - [A look at the current AI philosophy landscape, with existential pessimism and accelerationism, and the need for a balanced, enterprising optimism as a third way &lpar;Brendan McCord/Cosmos Institute&rpar;](http://www.techmeme.com/240104/p27#a240104p27)
- - [OpenAI’s news publisher deals reportedly top out at $5 million a year](https://www.theverge.com/2024/1/4/24025409/openai-training-data-lowball-nyt-ai-copyright)<!-- TECH:END -->
+ - [Hackers are hijacking X accounts of governments and businesses marked with gold and gray checkmarks, including Google&#39;s Mandiant, to promote crypto scams &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240104/p29#a240104p29)
+ - [OpenAI will open its custom ChatGPT store next week](https://www.theverge.com/2024/1/4/24025610/openai-gpt-store-ai-agent-delay)
+ - [The European Central Bank plans to award &amp;euro;1.3B in contracts to help develop a digital euro; Amazon was selected in the past to help design the CBDC prototype &lpar;Inbar Preiss/DL News&rpar;](http://www.techmeme.com/240104/p28#a240104p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
