@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chat gpt professor](http://9gag.com/gag/abvNW9B)
- - ⏩ [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
+ - 💣 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - ⏩ [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)
+ - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
 
 ---
 
