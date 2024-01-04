@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - ⏩ [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)
- - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
+ - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - ⏩ [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
+ - 👉 [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)<!-- MEMES:END -->
 
 ---
 
