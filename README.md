@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
- - ⏩ [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
+ - 💣 [Never learn](http://9gag.com/gag/aeQn2Gj)
+ - ⏩ [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 👉 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)<!-- MEMES:END -->
 
 ---
 
