@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wild wanker](http://9gag.com/gag/awZEdmx)
- - ⏩ [We want justice](http://9gag.com/gag/ay2b6Zq)
- - 👉 [Sliced](http://9gag.com/gag/amAe6X6)<!-- MEMES:END -->
+ - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - ⏩ [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 👉 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)<!-- MEMES:END -->
 
 ---
 
