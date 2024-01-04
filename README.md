@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sorry, Gale—unimaginable arcane power in Baldur&#39;s Gate 3 is as simple as taking off your underwear](https://www.pcgamer.com/sorry-galeunimaginable-arcane-power-in-baldurs-gate-3-is-as-simple-as-taking-off-your-underwear)
- - [Asus teases a new ZenBook Duo reveal for CES 2024 and it looks like that second screen is going full-size OLED](https://www.pcgamer.com/asus-teases-a-new-zenbook-duo-reveal-for-ces-2024-and-it-looks-like-that-second-screen-is-going-full-size-oled)
- - [PC Gamer magazine&#39;s latest issue is on sale now: Homeworld 3](https://www.pcgamer.com/pc-gamer-magazines-latest-issue-is-on-sale-now-homeworld-3)<!-- GAME:END -->
+ - [A year of constant updates to Windows 11 hasn&#39;t done anything to shift people away from Windows 10](https://www.pcgamer.com/a-year-of-constant-updates-to-windows-11-hasnt-done-anything-to-shift-people-away-from-windows-10)
+ - [Fallout&#39;s co-creator may be retired—but he&#39;s still advising on The Outer Worlds 2, and how it can avoid the &#39;huge chasms&#39; of RPG design](https://www.pcgamer.com/fallouts-co-creator-may-be-retiredbut-hes-still-advising-on-the-outer-worlds-2-and-how-it-can-avoid-the-huge-chasms-of-rpg-design)
+ - [In a year of excellent remakes, too many remasters made messes of their original games](https://www.pcgamer.com/in-a-year-of-excellent-remakes-too-many-remasters-made-messes-of-their-original-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
