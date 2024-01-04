@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell’s new 120Hz ultrawide monitors max out at 40 inches and 5K](https://www.theverge.com/2024/1/4/24024951/dell-ultrasharp-curved-thunderbolt-monitor-u4025qw-u3425we-price-release-date-specs-features)
- - [Microsoft announces a new Copilot keyboard key, shipping in new PCs and laptops from partners, the first major change to Windows PC keyboard layouts in 30 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240104/p5#a240104p5)
- - [The Xbox Series S toaster is real](https://www.theverge.com/2024/1/4/24024939/xbox-series-s-toaster-bread-xbox-logo)<!-- TECH:END -->
+ - [Dell’s XPS laptop line up is about to look very different](https://www.theverge.com/2024/1/4/24023682/dell-xps-2024-ces-13-14-16-laptops)
+ - [LastPass now requires users to set a complex master password with a minimum of 12 characters; users have been able to set a weaker master password since 2018 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240104/p9#a240104p9)
+ - [Ford raises — and lowers — prices on its F-150 Lightning pickups](https://www.theverge.com/2024/1/4/24024965/ford-f150-lightning-pickup-ev-pricing-update-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
