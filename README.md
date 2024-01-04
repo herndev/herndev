@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - ⏩ [This is a great idea](http://9gag.com/gag/armQA3B)
- - 👉 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)<!-- MEMES:END -->
+ - 💣 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
+ - ⏩ [Wild wanker](http://9gag.com/gag/awZEdmx)
+ - 👉 [Name one](http://9gag.com/gag/amAemz2)<!-- MEMES:END -->
 
 ---
 
