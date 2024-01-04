@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
- - ⏩ [Name this band..](http://9gag.com/gag/avQM6rZ)
- - 👉 [Toronto, Canada](http://9gag.com/gag/avQMRMX)<!-- MEMES:END -->
+ - 💣 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
+ - ⏩ [The Simpsons](http://9gag.com/gag/a04rEVd)
+ - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
 
 ---
 
