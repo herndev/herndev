@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can now play the most infuriating game of all time in your browser, and for some reason I&#39;m hopelessly addicted](https://www.pcgamer.com/you-can-now-play-the-most-infuriating-game-of-all-time-in-your-browser-and-for-some-reason-im-hopelessly-addicted)
- - [Like a Dragon: Infinite Wealth pre-order guide](https://www.polygon.com/deals/24022950/yakuza-infinite-wealth-like-a-dragon-pre-order-buy-deluxe-ultimate-edition)
- - [Switch 2 Could Cost $400 With $70 Games, Analyst Says](https://kotaku.com/switch-2-price-launch-pokemon-games-1851139696)<!-- GAME:END -->
+ - [The DCEU’s greatest achievement was a film career for Harley Quinn](https://www.polygon.com/24017796/dc-movies-ending-margot-robbie-harley-quinn)
+ - [Apex Legends’ Final Fantasy 7 remake collab is big — Buster Sword big](https://www.polygon.com/24025231/apex-legends-ff7-rebirth-event-skins-dates-final-fantasy)
+ - [Kim Kardashian’s Once-Massive Mobile Game Is No More](https://kotaku.com/kim-kardashian-hollywood-video-game-apple-ios-android-1851137424)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
