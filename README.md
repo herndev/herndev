@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
- - ⏩ [But friend shape..](http://9gag.com/gag/aGEmAG5)
- - 👉 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)<!-- MEMES:END -->
+ - 💣 [But friend shape..](http://9gag.com/gag/aGEmAG5)
+ - ⏩ [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
 
 ---
 
