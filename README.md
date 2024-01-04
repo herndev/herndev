@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Catch this chance to grab the OnePlus Open at its Black Friday price](https://www.androidauthority.com/oneplus-open-galaxy-z-fold-5-deal-3399807/)
- - [You can get $50 in Samsung credit when you reserve a Galaxy S24 phone](https://www.theverge.com/2024/1/4/24025128/samsung-galaxy-s24-ultra-android-smartphone)
- - [How to quickly share &amp; manage file paths in macOS Finder](https://appleinsider.com/articles/24/01/04/how-to-quickly-share-manage-file-paths-in-macos-finder?utm_medium=rss)<!-- TECH:END -->
+ - [M3 Ultra Mac Studio rumored to debut in mid-2024 -- without a Mac Pro](https://appleinsider.com/articles/24/01/04/m3-ultra-mac-studio-rumored-to-debut-in-mid-2024----without-a-mac-pro?utm_medium=rss)
+ - [Amazon’s note-taking Kindle Scribe has fallen to one of its best prices to date](https://www.theverge.com/2024/1/4/24023130/kindle-scribe-apple-airpods-pro-usb-c-samsung-frame-tv-deal-sale)
+ - [The first US commercial-scale offshore wind farm is live, but the industry faces strong headwinds](https://www.theverge.com/2024/1/4/24025186/offshore-wind-joe-biden-climate-clean-energy-vineyard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
