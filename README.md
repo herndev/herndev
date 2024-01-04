@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to configure and use hot corners on macOS](https://www.theverge.com/24025728/hot-corners-macos-how-to)
- - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)
- - [Google wrote a ‘Robot Constitution’ to make sure its new AI droids won’t kill us](https://www.theverge.com/2024/1/4/24025535/google-ai-robot-constitution-autort-deepmind-three-laws)<!-- TECH:END -->
+ - [Why was one of the biggest law podcasts shut down?](https://www.theverge.com/2024/1/4/24025899/legal-podcast-pro-say-law-360-she-hulk-cancel)
+ - [Samsung and Hyundai are teaming up to add SmartThings to cars](https://www.theverge.com/2024/1/4/24025674/samsung-hyundai-kia-smartthings-cars)
+ - [ChatGPT could soon replace Google Assistant on your Android phone](https://www.androidauthority.com/chatgpt-replace-google-assistant-3399920/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
