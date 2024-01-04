@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-improved Siri to launch at WWDC 2024, claims leaker](https://appleinsider.com/articles/24/01/04/ai-improved-siri-to-launch-at-wwdc-2024-claims-leaker?utm_medium=rss)
- - [What to do if your iPhone 15 is peeling on the edge of the back glass](https://appleinsider.com/articles/24/01/04/what-to-do-if-your-iphone-15-is-peeling-on-the-edge-of-the-back-glass?utm_medium=rss)
- - [SteamDB: developers released a record 14,531 game titles on Valve&#39;s Steam in 2023, or around 40 per day, breaking 2022&#39;s record by just under 2,000 games &lpar;Ali Jones/GamesRadar&rpar;](http://www.techmeme.com/240104/p16#a240104p16)<!-- TECH:END -->
+ - [Samsung and Google’s XR project officially has a chipset in the XR2 Plus Gen 2](https://www.androidauthority.com/samsung-google-vr-xr-chip-3399768/)
+ - [&#39;Killers of the Flower Moon&#39; streams on Apple TV+ very soon](https://appleinsider.com/articles/24/01/04/killers-of-the-flower-moon-streams-on-apple-tv-very-soon?utm_medium=rss)
+ - [As Google restricts third-party cookies for 1% of Chrome users, marketers, adtech companies, and publishers say Google has not done enough to prepare the market &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240104/p19#a240104p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
