@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a great idea](http://9gag.com/gag/armQA3B)
- - ⏩ [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
- - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
+ - 💣 [But friend shape..](http://9gag.com/gag/aGEmAG5)
+ - ⏩ [Toronto, Canada](http://9gag.com/gag/avQMRMX)
+ - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
 
 ---
 
