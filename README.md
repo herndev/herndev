@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 Ultra Mac Studio rumored to debut in mid-2024 -- without a Mac Pro](https://appleinsider.com/articles/24/01/04/m3-ultra-mac-studio-rumored-to-debut-in-mid-2024----without-a-mac-pro?utm_medium=rss)
- - [Amazon’s note-taking Kindle Scribe has fallen to one of its best prices to date](https://www.theverge.com/2024/1/4/24023130/kindle-scribe-apple-airpods-pro-usb-c-samsung-frame-tv-deal-sale)
- - [The first US commercial-scale offshore wind farm is live, but the industry faces strong headwinds](https://www.theverge.com/2024/1/4/24025186/offshore-wind-joe-biden-climate-clean-energy-vineyard)<!-- TECH:END -->
+ - [This iPhone accessory aims to fix the problem with virtual keyboards](https://www.androidauthority.com/iphone-15-pro-keyboard-accessory-3399851/)
+ - [A look at the current AI philosophy landscape, with existential pessimism and accelerationism, and the need for a balanced, enterprising optimism as a third way &lpar;Brendan McCord/Cosmos Institute&rpar;](http://www.techmeme.com/240104/p27#a240104p27)
+ - [OpenAI’s news publisher deals reportedly top out at $5 million a year](https://www.theverge.com/2024/1/4/24025409/openai-training-data-lowball-nyt-ai-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
