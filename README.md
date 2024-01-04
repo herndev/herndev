@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kim Kardashian says her Glu Mobile-developed game, Kim Kardashian: Hollywood, will shut down on April 8; between 2014 and 2016, the game made $156M in sales &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/240104/p15#a240104p15)
- - [Apple stock takes another hit, as Piper Sandler downgrades to neutral](https://appleinsider.com/articles/24/01/04/apple-stock-takes-another-hit-as-piper-sandler-downgrades-stock-to-neutral?utm_medium=rss)
- - [Intel appoints HPE executive Justin Hotard to lead its data center and AI group, a crucial unit to its turnaround, replacing veteran Sandra Rivera on February 1 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240104/p14#a240104p14)<!-- TECH:END -->
+ - [AI-improved Siri to launch at WWDC 2024, claims leaker](https://appleinsider.com/articles/24/01/04/ai-improved-siri-to-launch-at-wwdc-2024-claims-leaker?utm_medium=rss)
+ - [What to do if your iPhone 15 is peeling on the edge of the back glass](https://appleinsider.com/articles/24/01/04/what-to-do-if-your-iphone-15-is-peeling-on-the-edge-of-the-back-glass?utm_medium=rss)
+ - [SteamDB: developers released a record 14,531 game titles on Valve&#39;s Steam in 2023, or around 40 per day, breaking 2022&#39;s record by just under 2,000 games &lpar;Ali Jones/GamesRadar&rpar;](http://www.techmeme.com/240104/p16#a240104p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
