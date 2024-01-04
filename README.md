@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [LG’s unveils OLED gaming monitor with a blistering 480Hz refresh rate](https://www.androidauthority.com/lg-gaming-monitor-3399552/)
- - [LG just made the fastest OLED gaming display yet](https://www.theverge.com/2024/1/3/24024042/lg-display-oled-480hz-oled-gaming-monitor)
- - [Judge denies Apple a sanction it demanded on patent troll&#39;s lawyer](https://appleinsider.com/articles/24/01/04/judge-denies-apple-a-sanction-it-demanded-on-patent-trolls-lawyer?utm_medium=rss)<!-- TECH:END -->
+ - [LG Will Bring 480Hz OLED QHD Screen to Gaming Monitors This Year     - CNET](https://www.cnet.com/tech/computing/lg-will-bring-480hz-oled-qhd-screen-to-gaming-monitors-this-year/#ftag=CAD590a51e)
+ - [LG just made the fastest OLED gaming display yet](https://www.theverge.com/2024/1/3/24024042/lg-display-oled-480hz-oled-gaming-monitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
