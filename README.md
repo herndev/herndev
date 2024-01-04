@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Route package data: Amazon had 29% of global online order volume in the two weeks before Christmas, up from 21% in the week of Thanksgiving and Black Friday &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240104/p22#a240104p22)
- - [Score a $255 discount on the WD 18TB External Hard Drive](https://www.androidauthority.com/wd-18tb-external-hard-drive-deal-3399793/)
- - [ChatGPT, Copilot, and Bard: How AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
+ - [Catch this chance to grab the OnePlus Open at its Black Friday price](https://www.androidauthority.com/oneplus-open-galaxy-z-fold-5-deal-3399807/)
+ - [You can get $50 in Samsung credit when you reserve a Galaxy S24 phone](https://www.theverge.com/2024/1/4/24025128/samsung-galaxy-s24-ultra-android-smartphone)
+ - [How to quickly share &amp; manage file paths in macOS Finder](https://appleinsider.com/articles/24/01/04/how-to-quickly-share-manage-file-paths-in-macos-finder?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
