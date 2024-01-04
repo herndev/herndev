@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thugs have gotten so brazen and think they can do whatever they want with no consequences. Today, a man denied his probation lunged at a Clark County judge.](http://9gag.com/gag/aPgEXRK)
- - ⏩ [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)
- - 👉 [But friend shape..](http://9gag.com/gag/aGEmAG5)<!-- MEMES:END -->
+ - 💣 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
+ - ⏩ [But friend shape..](http://9gag.com/gag/aGEmAG5)
+ - 👉 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)<!-- MEMES:END -->
 
 ---
 
