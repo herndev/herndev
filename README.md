@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warhammer co-creator Bryan Ansell has died](https://www.pcgamer.com/warhammer-co-creator-bryan-ansell-has-died)
  - [The Finals players are tormenting each other with the unexpected power of the Goo Gun](https://www.pcgamer.com/the-finals-players-are-tormenting-each-other-with-the-unexpected-power-of-the-goo-gun)
- - [Death Comes For Us All: Steam No Longer Supports Windows 7](https://kotaku.com/steam-support-windows-7-8-valve-ending-updates-1851138071)
- - [UK police begin first-ever investigation into sexual assault in the metaverse](https://www.pcgamer.com/uk-police-begin-first-ever-investigation-into-sexual-assault-in-the-metaverse)<!-- GAME:END -->
+ - [Death Comes For Us All: Steam No Longer Supports Windows 7](https://kotaku.com/steam-support-windows-7-8-valve-ending-updates-1851138071)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
