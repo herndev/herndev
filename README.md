@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But friend shape..](http://9gag.com/gag/aGEmAG5)
- - ⏩ [I&#39;ll just leave this here...](http://9gag.com/gag/a8qR2Ze)
- - 👉 [At least he tried](http://9gag.com/gag/a3Z6211)<!-- MEMES:END -->
+ - 💣 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
+ - ⏩ [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
 
 ---
 
