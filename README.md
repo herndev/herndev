@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
- - ⏩ [There it is](http://9gag.com/gag/aQEL25r)
- - 👉 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)<!-- MEMES:END -->
+ - 💣 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - ⏩ [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 👉 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)<!-- MEMES:END -->
 
 ---
 
