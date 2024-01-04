@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17&#39;s front camera will be upgraded to 24MP, says Kuo](https://appleinsider.com/articles/24/01/04/iphone-17s-front-camera-will-be-upgraded-to-24mp-says-kuo?utm_medium=rss)
- - [Apple moves to settle gift card scam lawsuit](https://appleinsider.com/articles/24/01/04/apple-moves-to-settle-gift-card-scam-lawsuit?utm_medium=rss)
- - [One of Dell&#39;s new Thunderbolt monitors is aimed right at Apple&#39;s Studio Display](https://appleinsider.com/articles/24/01/04/one-of-dells-new-thunderbolt-monitors-is-aimed-right-at-apples-studio-display?utm_medium=rss)<!-- TECH:END -->
+ - [Kim Kardashian says her Glu Mobile-developed game, Kim Kardashian: Hollywood, will shut down on April 8; between 2014 and 2016, the game made $156M in sales &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/240104/p15#a240104p15)
+ - [Apple stock takes another hit, as Piper Sandler downgrades to neutral](https://appleinsider.com/articles/24/01/04/apple-stock-takes-another-hit-as-piper-sandler-downgrades-stock-to-neutral?utm_medium=rss)
+ - [Intel appoints HPE executive Justin Hotard to lead its data center and AI group, a crucial unit to its turnaround, replacing veteran Sandra Rivera on February 1 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240104/p14#a240104p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
