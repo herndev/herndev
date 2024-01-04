@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s unveils OLED gaming monitor with a blistering 480Hz refresh rate](https://www.androidauthority.com/lg-gaming-monitor-3399552/)
- - [LG Will Bring 480Hz OLED QHD Screen to Gaming Monitors This Year     - CNET](https://www.cnet.com/tech/computing/lg-will-bring-480hz-oled-qhd-screen-to-gaming-monitors-this-year/#ftag=CAD590a51e)
- - [LG just made the fastest OLED gaming display yet](https://www.theverge.com/2024/1/3/24024042/lg-display-oled-480hz-oled-gaming-monitor)<!-- TECH:END -->
+ - [The CEO of collapsed crypto fund HyperVerse, introduced to investors in 2021, doesn&#39;t appear to exist; Chainalysis: HyperVerse&#39;s 2022 consumer losses were $1.3B &lpar;Sarah Martin/The Guardian&rpar;](http://www.techmeme.com/240103/p26#a240103p26)
+ - [Best Apple Watch Ultra 2 and Ultra Deals: Save $50 on Ultra 2, $170 on Ultra and More     - CNET](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
+ - [Essential Oils Soap Set     - CNET](https://www.cnet.com/health/personal-care/essential-oils-soap-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
