@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s new 2024 OLED TVs are brighter, bigger, and smarter with AI](https://www.androidauthority.com/lg-2024-g4-m4-oled-tv-ces-2024-3399630/)
  - [Eufy SmartTrack Card review: A great Find My tracker for your wallet](https://appleinsider.com/articles/24/01/04/eufy-smarttrack-card-review-a-great-find-my-tracker-for-your-wallet?utm_medium=rss)
- - [Best iPhone 15 Deals: Get Up to $1,100 in Trade-In Credit     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [The CEO of collapsed crypto fund HyperVerse, introduced to investors in 2021, doesn&#39;t appear to exist; Chainalysis: HyperVerse&#39;s 2022 consumer losses were $1.3B &lpar;Sarah Martin/The Guardian&rpar;](http://www.techmeme.com/240103/p26#a240103p26)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Get Up to $1,100 in Trade-In Credit     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
