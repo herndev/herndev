@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like A Dragon: Infinite Wealth Is A Perfect Antidote To January](https://kotaku.com/like-dragon-infinite-wealth-preview-yakuza-1851136549)
- - [Star Citizen truly outdoes itself with a $48,000 bundle for its most loyal whales](https://www.pcgamer.com/star-citizen-truly-outdoes-itself-with-a-dollar48000-bundle-for-its-most-loyal-whales)
- - [Baldur’s Gate 3 Nude Scenes Are Getting Xbox Players Banned &lpar;Update: Larian’s ‘Looking Into It’&rpar;](https://kotaku.com/baldurs-gate-3-xbox-series-x-s-nude-sex-scene-ban-1851133578)<!-- GAME:END -->
+ - [You can now play the most infuriating game of all time in your browser, and for some reason I&#39;m hopelessly addicted](https://www.pcgamer.com/you-can-now-play-the-most-infuriating-game-of-all-time-in-your-browser-and-for-some-reason-im-hopelessly-addicted)
+ - [Like a Dragon: Infinite Wealth pre-order guide](https://www.polygon.com/deals/24022950/yakuza-infinite-wealth-like-a-dragon-pre-order-buy-deluxe-ultimate-edition)
+ - [Switch 2 Could Cost $400 With $70 Games, Analyst Says](https://kotaku.com/switch-2-price-launch-pokemon-games-1851139696)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
