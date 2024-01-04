@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
- - ⏩ [Wild wanker](http://9gag.com/gag/awZEdmx)
- - 👉 [Name one](http://9gag.com/gag/amAemz2)<!-- MEMES:END -->
+ - 💣 [This is a great idea](http://9gag.com/gag/armQA3B)
+ - ⏩ [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
 
 ---
 
