@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The DCEU’s greatest achievement was a film career for Harley Quinn](https://www.polygon.com/24017796/dc-movies-ending-margot-robbie-harley-quinn)
- - [Apex Legends’ Final Fantasy 7 remake collab is big — Buster Sword big](https://www.polygon.com/24025231/apex-legends-ff7-rebirth-event-skins-dates-final-fantasy)
- - [Kim Kardashian’s Once-Massive Mobile Game Is No More](https://kotaku.com/kim-kardashian-hollywood-video-game-apple-ios-android-1851137424)<!-- GAME:END -->
+ - [The Classic Pokémon TCG set is available for its lowest price ever](https://www.polygon.com/deals/24025237/classic-pokemon-tcg-collectors-box-set-amazon-best-buy)
+ - [NY Times lawsuit holds OpenAI and Microsoft &#39;responsible for the billions of dollars they owe for the unlawful copying and use of The Times&#39;s uniquely valuable works&#39;](https://www.pcgamer.com/ny-times-lawsuit-holds-openai-and-microsoft-responsible-for-the-billions-of-dollars-they-owe-for-the-unlawful-copying-and-use-of-the-timess-uniquely-valuable-works)
+ - [After 5 years, NCSoft officially grants a licence to popular City of Heroes private server Homecoming: &#39;Your accounts and characters are safe&#39;](https://www.pcgamer.com/after-five-years-ncsoft-officially-grants-a-licence-to-popular-city-of-heroes-private-server-homecoming-your-accounts-and-characters-are-safe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
