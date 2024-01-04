@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer magazine&#39;s latest issue is on sale now: Homeworld 3](https://www.pcgamer.com/pc-gamer-magazines-latest-issue-is-on-sale-now-homeworld-3)
  - [Wordle today: Hint and answer #929 for Thursday, January 4](https://www.pcgamer.com/wordle-today-answer-929-january-4)
- - [AMD&#39;s Ryzen 8000-series APUs are looking pretty darn strong](https://www.pcgamer.com/amds-ryzen-8000-series-apus-are-looking-pretty-darn-strong)
- - [Warhammer co-creator Bryan Ansell has died](https://www.pcgamer.com/warhammer-co-creator-bryan-ansell-has-died)<!-- GAME:END -->
+ - [AMD&#39;s Ryzen 8000-series APUs are looking pretty darn strong](https://www.pcgamer.com/amds-ryzen-8000-series-apus-are-looking-pretty-darn-strong)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
