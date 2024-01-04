@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab This Excellent Marvel Game For Free On Epic Games Store](https://kotaku.com/marvels-guardians-of-the-galaxy-free-epic-games-store-1851141059)
- - [Everything We Know About Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-release-date-pc-xbox-ps5-timeline-1851141003)
- - [One of our top games of 2021 is free to keep on the Epic Store for the next week](https://www.pcgamer.com/one-of-our-top-games-of-2021-is-free-to-keep-on-the-epic-store-for-the-next-week)<!-- GAME:END -->
+ - [Star Citizen&#39;s &#39;Everything Pack&#39; Costs $48,000](https://kotaku.com/star-citizen-legatus-ship-pack-cost-48-000-rsi-1851141609)
+ - [The big PC gaming events in 2024](https://www.pcgamer.com/video-game-events-2024)
+ - [Chef’s Table meets Baldur’s Gate in Netflix’s first anime banger of the year](https://www.polygon.com/24025746/delicious-in-dungeon-netflix-finally-some-good-food)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
