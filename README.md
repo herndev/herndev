@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But friend shape..](http://9gag.com/gag/aGEmAG5)
- - ⏩ [Toronto, Canada](http://9gag.com/gag/avQMRMX)
- - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
+ - 💣 [Thugs have gotten so brazen and think they can do whatever they want with no consequences. Today, a man denied his probation lunged at a Clark County judge.](http://9gag.com/gag/aPgEXRK)
+ - ⏩ [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)
+ - 👉 [But friend shape..](http://9gag.com/gag/aGEmAG5)<!-- MEMES:END -->
 
 ---
 
