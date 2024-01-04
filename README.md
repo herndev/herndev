@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Year’s resolution is dead and replaced by the ‘ins and outs’ list](https://www.polygon.com/24024177/new-years-resolution-dead-ins-and-outs-list-tiktok-trend)
- - [All 20 Disney live-action remake movies, ranked](https://www.polygon.com/2019/7/28/8910209/disney-live-action-remake-movies-ranked-list)
- - [Larian and Microsoft working to address &#39;annoying and uncool&#39; Xbox account bans caused by the unfortunate combination of Baldur&#39;s Gate 3&#39;s notorious horniness and automatic gameplay uploads](https://www.pcgamer.com/larian-and-microsoft-working-to-address-annoying-and-uncool-xbox-account-bans-caused-by-the-unfortunate-combination-of-baldurs-gate-3s-notorious-horniness-and-automatic-gameplay-uploads)<!-- GAME:END -->
+ - [Everything We Know About Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-release-date-pc-xbox-ps5-timeline-1851141003)
+ - [One of our top games of 2021 is free to keep on the Epic Store for the next week](https://www.pcgamer.com/one-of-our-top-games-of-2021-is-free-to-keep-on-the-epic-store-for-the-next-week)
+ - [Beloved superhero MMO fan server gets an official license, fans rejoice](https://www.polygon.com/24025506/city-of-heroes-homecoming-server-ncsoft-license-agreement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
