@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Qualcomm CEO Cristiano Amon on generative AI moving from the cloud into mobile devices, AI changing the UX of smartphones, AI coming into VR, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240104/p4#a240104p4)
- - [Starbucks accused of manipulating app payments for $900 million profit](https://www.androidauthority.com/starbucks-unfair-app-payments-900-million-dollar-profit-3399674/)
- - [PitchBook: VC investment in the US fell 30% YoY to $170.6B in 2023, lowest since 2019, and declined 35% YoY to $345.7B globally, lowest since 2017 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240104/p3#a240104p3)<!-- TECH:END -->
+ - [OnePlus Ace 3 launched: The OnePlus 12R in all but name](https://www.androidauthority.com/oneplus-ace-3-3399320/)
+ - [Microsoft’s new Copilot key is the first big change to Windows keyboards in 30 years](https://www.theverge.com/2024/1/4/24023809/microsoft-copilot-key-keyboard-windows-laptops-pcs)
+ - [Q&amp;A with Qualcomm CEO Cristiano Amon on generative AI moving from the cloud into mobile devices, AI changing the UX of smartphones, AI coming into VR, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240104/p4#a240104p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
