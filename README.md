@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell’s XPS laptop line up is about to look very different](https://www.theverge.com/2024/1/4/24023682/dell-xps-2024-ces-13-14-16-laptops)
- - [LastPass now requires users to set a complex master password with a minimum of 12 characters; users have been able to set a weaker master password since 2018 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240104/p9#a240104p9)
- - [Ford raises — and lowers — prices on its F-150 Lightning pickups](https://www.theverge.com/2024/1/4/24024965/ford-f150-lightning-pickup-ev-pricing-update-2024)<!-- TECH:END -->
+ - [iPhone 17&#39;s front camera will be upgraded to 24MP, says Kuo](https://appleinsider.com/articles/24/01/04/iphone-17s-front-camera-will-be-upgraded-to-24mp-says-kuo?utm_medium=rss)
+ - [Apple moves to settle gift card scam lawsuit](https://appleinsider.com/articles/24/01/04/apple-moves-to-settle-gift-card-scam-lawsuit?utm_medium=rss)
+ - [One of Dell&#39;s new Thunderbolt monitors is aimed right at Apple&#39;s Studio Display](https://appleinsider.com/articles/24/01/04/one-of-dells-new-thunderbolt-monitors-is-aimed-right-at-apples-studio-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
