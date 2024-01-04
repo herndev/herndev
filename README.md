@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers are hijacking X accounts of governments and businesses marked with gold and gray checkmarks, including Google&#39;s Mandiant, to promote crypto scams &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240104/p29#a240104p29)
- - [OpenAI will open its custom ChatGPT store next week](https://www.theverge.com/2024/1/4/24025610/openai-gpt-store-ai-agent-delay)
- - [The European Central Bank plans to award &amp;euro;1.3B in contracts to help develop a digital euro; Amazon was selected in the past to help design the CBDC prototype &lpar;Inbar Preiss/DL News&rpar;](http://www.techmeme.com/240104/p28#a240104p28)<!-- TECH:END -->
+ - [How to configure and use hot corners on macOS](https://www.theverge.com/24025728/hot-corners-macos-how-to)
+ - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)
+ - [Google wrote a ‘Robot Constitution’ to make sure its new AI droids won’t kill us](https://www.theverge.com/2024/1/4/24025535/google-ai-robot-constitution-autort-deepmind-three-laws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
