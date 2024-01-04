@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But friend shape..](http://9gag.com/gag/aGEmAG5)
- - ⏩ [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
+ - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - ⏩ [Name this band..](http://9gag.com/gag/avQM6rZ)
+ - 👉 [Toronto, Canada](http://9gag.com/gag/avQMRMX)<!-- MEMES:END -->
 
 ---
 
