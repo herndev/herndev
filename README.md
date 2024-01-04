@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to a group of victims of its October 2023 breach, 23andMe blames them, saying that &quot;users negligently recycled and failed to update their passwords&quot; &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240103/p24#a240103p24)
- - [January 2024 Android security patch has arrived for Google Pixel devices](https://www.androidauthority.com/january-2024-android-security-patch-3399584/)
- - [10 Best Deals on Fitness Trackers and Smartwatches](https://www.wired.com/story/fitness-tracker-and-smartwatch-deals-january-2024/)<!-- TECH:END -->
+ - [Apple pulls iOS 17.3 Beta 2 after locking up iPhones for some users](https://appleinsider.com/articles/24/01/03/ios-173-beta-2-locking-up-iphones-for-some-users?utm_medium=rss)
+ - [Sources: TikTok aims to grow TikTok Shop US&#39; merchandise volume tenfold to $17.5B in 2024 and plans to launch TikTok Shop in Latin America in the coming months &lpar;Bloomberg&rpar;](http://www.techmeme.com/240103/p25#a240103p25)
+ - [Driver flees scene after Crash Detection alerts police](https://appleinsider.com/articles/24/01/03/driver-flees-scene-after-crash-detection-alerts-police?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
