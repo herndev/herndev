@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: VC investment in the US fell 30% YoY to $170.6B in 2023, lowest since 2019, and declined 35% YoY to $345.7B globally, lowest since 2017 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240104/p3#a240104p3)
  - [Apple suspends latest iOS 17.3 beta after reports of bricked iPhones](https://www.androidauthority.com/apple-ios-17-3-beta-2-boot-loop-issue-3399645/)
- - [Q&amp;A with Jacob Bakkila, who ran the popular @Horse_ebooks Twitter account for two years, on the inspiration for the language bot, AI chatbots, and more &lpar;Kari Paul/The Guardian&rpar;](http://www.techmeme.com/240104/p2#a240104p2)
- - [Tencent bought back a record $1.3B of shares in December as China&#39;s gaming rules triggered a selloff; daily buybacks more than doubled since December 22, 2023 &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/240104/p1#a240104p1)<!-- TECH:END -->
+ - [Q&amp;A with Jacob Bakkila, who ran the popular @Horse_ebooks Twitter account for two years, on the inspiration for the language bot, AI chatbots, and more &lpar;Kari Paul/The Guardian&rpar;](http://www.techmeme.com/240104/p2#a240104p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
