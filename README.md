@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s latest issue is on sale now: Homeworld 3](https://www.pcgamer.com/pc-gamer-magazines-latest-issue-is-on-sale-now-homeworld-3)
- - [Wordle today: Hint and answer #929 for Thursday, January 4](https://www.pcgamer.com/wordle-today-answer-929-january-4)
- - [AMD&#39;s Ryzen 8000-series APUs are looking pretty darn strong](https://www.pcgamer.com/amds-ryzen-8000-series-apus-are-looking-pretty-darn-strong)<!-- GAME:END -->
+ - [Sorry, Gale—unimaginable arcane power in Baldur&#39;s Gate 3 is as simple as taking off your underwear](https://www.pcgamer.com/sorry-galeunimaginable-arcane-power-in-baldurs-gate-3-is-as-simple-as-taking-off-your-underwear)
+ - [Asus teases a new ZenBook Duo reveal for CES 2024 and it looks like that second screen is going full-size OLED](https://www.pcgamer.com/asus-teases-a-new-zenbook-duo-reveal-for-ces-2024-and-it-looks-like-that-second-screen-is-going-full-size-oled)
+ - [PC Gamer magazine&#39;s latest issue is on sale now: Homeworld 3](https://www.pcgamer.com/pc-gamer-magazines-latest-issue-is-on-sale-now-homeworld-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
