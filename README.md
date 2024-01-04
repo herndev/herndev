@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unhealthy diet](http://9gag.com/gag/aPgE16V)
- - ⏩ [One for the autistic audience](http://9gag.com/gag/ay2b1vW)
- - 👉 [Now let&#39;s see their reaction again](http://9gag.com/gag/a8qRwPd)<!-- MEMES:END -->
+ - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - ⏩ [The Simpsons](http://9gag.com/gag/a04rEVd)
+ - 👉 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)<!-- MEMES:END -->
 
 ---
 
