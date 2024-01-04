@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - ⏩ [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)
- - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
+ - 💣 [The Simpsons](http://9gag.com/gag/a04rEVd)
+ - ⏩ [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
+ - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
 
 ---
 
