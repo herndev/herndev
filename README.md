@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pulls iOS 17.3 Beta 2 after locking up iPhones for some users](https://appleinsider.com/articles/24/01/03/ios-173-beta-2-locking-up-iphones-for-some-users?utm_medium=rss)
- - [Sources: TikTok aims to grow TikTok Shop US&#39; merchandise volume tenfold to $17.5B in 2024 and plans to launch TikTok Shop in Latin America in the coming months &lpar;Bloomberg&rpar;](http://www.techmeme.com/240103/p25#a240103p25)
- - [Driver flees scene after Crash Detection alerts police](https://appleinsider.com/articles/24/01/03/driver-flees-scene-after-crash-detection-alerts-police?utm_medium=rss)<!-- TECH:END -->
+ - [LG’s unveils OLED gaming monitor with a blistering 480Hz refresh rate](https://www.androidauthority.com/lg-gaming-monitor-3399552/)
+ - [LG just made the fastest OLED gaming display yet](https://www.theverge.com/2024/1/3/24024042/lg-display-oled-480hz-oled-gaming-monitor)
+ - [Judge denies Apple a sanction it demanded on patent troll&#39;s lawyer](https://appleinsider.com/articles/24/01/04/judge-denies-apple-a-sanction-it-demanded-on-patent-trolls-lawyer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
