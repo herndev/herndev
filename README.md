@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Classic Pokémon TCG set is available for its lowest price ever](https://www.polygon.com/deals/24025237/classic-pokemon-tcg-collectors-box-set-amazon-best-buy)
- - [NY Times lawsuit holds OpenAI and Microsoft &#39;responsible for the billions of dollars they owe for the unlawful copying and use of The Times&#39;s uniquely valuable works&#39;](https://www.pcgamer.com/ny-times-lawsuit-holds-openai-and-microsoft-responsible-for-the-billions-of-dollars-they-owe-for-the-unlawful-copying-and-use-of-the-timess-uniquely-valuable-works)
- - [After 5 years, NCSoft officially grants a licence to popular City of Heroes private server Homecoming: &#39;Your accounts and characters are safe&#39;](https://www.pcgamer.com/after-five-years-ncsoft-officially-grants-a-licence-to-popular-city-of-heroes-private-server-homecoming-your-accounts-and-characters-are-safe)<!-- GAME:END -->
+ - [The New Year’s resolution is dead and replaced by the ‘ins and outs’ list](https://www.polygon.com/24024177/new-years-resolution-dead-ins-and-outs-list-tiktok-trend)
+ - [All 20 Disney live-action remake movies, ranked](https://www.polygon.com/2019/7/28/8910209/disney-live-action-remake-movies-ranked-list)
+ - [Larian and Microsoft working to address &#39;annoying and uncool&#39; Xbox account bans caused by the unfortunate combination of Baldur&#39;s Gate 3&#39;s notorious horniness and automatic gameplay uploads](https://www.pcgamer.com/larian-and-microsoft-working-to-address-annoying-and-uncool-xbox-account-bans-caused-by-the-unfortunate-combination-of-baldurs-gate-3s-notorious-horniness-and-automatic-gameplay-uploads)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
