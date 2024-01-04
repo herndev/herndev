@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
- - ⏩ [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
+ - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - ⏩ [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
 
 ---
 
