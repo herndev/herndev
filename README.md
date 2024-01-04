@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Citizen&#39;s &#39;Everything Pack&#39; Costs $48,000](https://kotaku.com/star-citizen-legatus-ship-pack-cost-48-000-rsi-1851141609)
- - [The big PC gaming events in 2024](https://www.pcgamer.com/video-game-events-2024)
- - [Chef’s Table meets Baldur’s Gate in Netflix’s first anime banger of the year](https://www.polygon.com/24025746/delicious-in-dungeon-netflix-finally-some-good-food)<!-- GAME:END -->
+ - [Jaws captures the greatness of movie-to-pinball adaptations](https://www.polygon.com/24025642/jaws-pinball-game-stern)
+ - [Microsoft is adding a new button to PC keyboards for the first time in almost 30 years &lpar;and it&#39;s for AI&rpar;](https://www.pcgamer.com/microsoft-is-adding-a-new-button-to-pc-keyboards-for-the-first-time-in-almost-30-years-and-its-for-ai)
+ - [Pixar’s Luca still reads like a queer romance — even its story lead thinks so](https://www.polygon.com/24025804/luca-alberto-luberto-canon-pixar-disney)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
