@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never learn](http://9gag.com/gag/aeQn2Gj)
- - ⏩ [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - ⏩ [Social Experiment](http://9gag.com/gag/a04rnqX)
  - 👉 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)<!-- MEMES:END -->
 
 ---
