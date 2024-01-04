@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [UK police begin first-ever investigation into sexual assault in the metaverse](https://www.pcgamer.com/uk-police-begin-first-ever-investigation-into-sexual-assault-in-the-metaverse)
- - [Nexon fined nearly $9M for falsifying loot box drop rates](https://www.pcgamer.com/nexon-fined-nearly-dollar9m-for-falsifying-loot-box-drop-rates)
- - [Unpacking’s secret messy mode just got a big viral boost](https://www.polygon.com/24024185/unpacking-dark-star-mode-developer-interview)<!-- GAME:END -->
+ - [The Finals players are tormenting each other with the unexpected power of the Goo Gun](https://www.pcgamer.com/the-finals-players-are-tormenting-each-other-with-the-unexpected-power-of-the-goo-gun)
+ - [Death Comes For Us All: Steam No Longer Supports Windows 7](https://kotaku.com/steam-support-windows-7-8-valve-ending-updates-1851138071)
+ - [UK police begin first-ever investigation into sexual assault in the metaverse](https://www.pcgamer.com/uk-police-begin-first-ever-investigation-into-sexual-assault-in-the-metaverse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
