@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - ⏩ [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
+ - 💣 [But friend shape..](http://9gag.com/gag/aGEmAG5)
+ - ⏩ [I&#39;ll just leave this here...](http://9gag.com/gag/a8qR2Ze)
+ - 👉 [At least he tried](http://9gag.com/gag/a3Z6211)<!-- MEMES:END -->
 
 ---
 
