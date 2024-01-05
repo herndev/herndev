@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fun family games, nice](http://9gag.com/gag/aBdA4bO)
- - ⏩ [Ladies, always be considerate](http://9gag.com/gag/axoLm92)
- - 👉 [The moment a 13-year-old competitive Tetris player prodigy from Oklahoma, advanced so far in the original Nintendo version of the game that it froze, and his score read \u201c999999.\u201d](http://9gag.com/gag/aOxMpQr)<!-- MEMES:END -->
+ - 💣 [There it is](http://9gag.com/gag/aQEL25r)
+ - ⏩ [Finally, true love.](http://9gag.com/gag/ap94VKp)
+ - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
 
 ---
 
