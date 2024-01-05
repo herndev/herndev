@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amusement park hack.](http://9gag.com/gag/aNw7qow)
- - ⏩ [Hey, he got a point!](http://9gag.com/gag/amAenLv)
- - 👉 [Awful, just awful](http://9gag.com/gag/adPGb7D)<!-- MEMES:END -->
+ - 💣 [Our childhood crush](http://9gag.com/gag/aZD6dL9)
+ - ⏩ [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
+ - 👉 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/axoLm4p)<!-- MEMES:END -->
 
 ---
 
