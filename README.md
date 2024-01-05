@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A video segment of English television presenter Ross Kemp speaking with migrant men about rape is going viral on social media](http://9gag.com/gag/a2K329D)
- - ⏩ [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
+ - 💣 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - ⏩ [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
 
 ---
 
