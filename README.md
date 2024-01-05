@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung debuts Designed for Samsung Gaming Hub accessories for the cloud Gaming Hub on its smart TVs, including a new controller from PDP &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240105/p7#a240105p7)
- - [MSI’s Steam Deck competitor has leaked, and it’s powered by an Intel Meteor Lake chip](https://www.theverge.com/2024/1/5/24026479/msi-claw-handheld-gaming-pc-specs-leak-ces-2024)
- - [Not all financial predictions for Apple&#39;s holiday quarter are doom and gloom](https://appleinsider.com/articles/24/01/05/not-all-financial-predictions-for-apples-holiday-quarter-are-doom-and-gloom?utm_medium=rss)<!-- TECH:END -->
+ - [Incase partners with Microsoft to sell PC accessories, which Microsoft stopped making in 2022; products will include ones Microsoft designed but never shipped &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240105/p8#a240105p8)
+ - [Daily deals Dec. 5: $700 off 27&quot; iMac, Mac Studio for $1,499, 512GB Mac mini $499, HP Envy printer $89, more](https://appleinsider.com/articles/24/01/05/daily-deals-dec-5-700-off-27-imac-mac-studio-for-1499-512gb-mac-mini-499-hp-envy-printer-89-more?utm_medium=rss)
+ - [T-Mobile is changing the Netflix on Us promo &lpar;Update: Ads for everyone&rpar;](https://www.androidauthority.com/t-mobile-netflix-ads-2024-3399540/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
