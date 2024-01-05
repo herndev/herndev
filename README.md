@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn expects Q1 revenue drop as iPhone demand falls](https://appleinsider.com/articles/24/01/05/foxconn-expects-q1-revenue-drop-as-iphone-demand-falls?utm_medium=rss)
- - [2024 Will Be the Year We Figure Out EV Charging     - CNET](https://www.cnet.com/roadshow/news/2024-will-be-the-year-we-figure-out-ev-charging/#ftag=CAD590a51e)
- - [Microsoft’s keyboards and mice will live on under a unique new partnership](https://www.theverge.com/2024/1/5/24026323/microsoft-incase-partnership-keyboards-accessories-partnership)<!-- TECH:END -->
+ - [Aurora finalizes design of self-driving trucks it will make with Continental](https://www.theverge.com/2024/1/5/24025239/aurora-autonomous-truck-finalize-design-continental-2027)
+ - [Enjoy talking to your new voice-controlled smart bidet](https://www.theverge.com/2024/1/5/24022366/kohler-purewash-e930-bidet-atmo-anthem-ces-2024)
+ - [Microsoft poised to overtake Apple as most valuable company](https://appleinsider.com/articles/24/01/05/microsoft-poised-to-overtake-apple-as-most-valuable-company?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
