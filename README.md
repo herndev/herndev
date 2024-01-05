@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get iron in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24026873/iron-locations-how-to-get)
- - [This multi-million crypto rug pull has a new twist: The CEO may not actually exist](https://www.pcgamer.com/this-multi-million-crypto-rug-pull-has-a-new-twist-the-ceo-may-not-actually-exist)
- - [How to get malachite in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24026766/malachite-locations-how-to-get)<!-- GAME:END -->
+ - [How to upgrade a village in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992265/village-build-upgrade-rating-square-hub)
+ - [New Call Of Duty Gun Has A Delightfully Annoying Easter Egg](https://kotaku.com/call-duty-mwiii-warzone-rival9-smg-restart-game-message-1851145255)
+ - [Bossa Studios ended 2023 by laying off one-third of its staff](https://www.pcgamer.com/bossa-studios-ended-2023-by-laying-off-one-third-of-its-staff)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
