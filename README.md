@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dell&#39;s new RTX 4070-powered XPS 16 laptop is an irresistible OLED beauty](https://www.pcgamer.com/dells-new-rtx-4070-powered-xps-16-laptop-is-an-irresistible-oled-beauty)
  - [WoW&#39;s next patch drops in just under 2 weeks: game-wide dragonriding, follower dungeons, and worgens coming home](https://www.pcgamer.com/wows-next-patch-drops-in-just-under-2-weeks-game-wide-dragonriding-follower-dungeons-and-worgens-coming-home)
- - [Wordle today: Hint and answer #930 for Friday, January 5](https://www.pcgamer.com/wordle-today-answer-930-january-5)
- - [Jaws captures the greatness of movie-to-pinball adaptations](https://www.polygon.com/24025642/jaws-pinball-game-stern)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #930 for Friday, January 5](https://www.pcgamer.com/wordle-today-answer-930-january-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
