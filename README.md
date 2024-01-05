@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [24% off the AirPods Pro 2 takes them back to all-time low](https://www.androidauthority.com/airpods-pro-2-deal-3400154/)
- - [Your next smartphone screen could be made out of…wood?](https://www.androidauthority.com/wood-smartphone-screen-3400135/)
- - [Google’s Nest Wifi Pro has returned to its best price yet](https://www.theverge.com/2024/1/5/24025332/google-nest-wifi-pro-apple-ipad-amazon-smart-air-quality-monitor-deal-sale)<!-- TECH:END -->
+ - [Read up on Apple’s tremendous Godzilla series, Monarch: Legacy of Monsters](https://www.theverge.com/24025765/monarch-legacy-of-monsters-news-trailers-reviews-interviews-roundup)
+ - [How a change to US tax law Section 174, forcing amortization of software labor, led to higher tax bills, less hiring and more layoffs, IP moving abroad, more &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/240105/p9#a240105p9)
+ - [For the third time in a year, Verizon is increasing prices for legacy plans, says rumor](https://www.androidauthority.com/verizon-price-increase-jan-2024-3400173/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
