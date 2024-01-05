@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - ⏩ [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 👉 [What the actual f**k](http://9gag.com/gag/aeQn7eq)<!-- MEMES:END -->
+ - 💣 [Mom of the year](http://9gag.com/gag/avQMXLO)
+ - ⏩ [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 👉 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)<!-- MEMES:END -->
 
 ---
 
