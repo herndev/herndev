@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Egg](http://9gag.com/gag/aGEmAgn)
+ - 💣 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
  - ⏩ [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
- - 👉 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)<!-- MEMES:END -->
+ - 👉 [There it is](http://9gag.com/gag/aQEL25r)<!-- MEMES:END -->
 
 ---
 
