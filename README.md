@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wyrmspan is a dragon themed reimagining of hit board game Wingspan, and most importantly it still comes with premium egg tokens](https://www.pcgamer.com/wyrmspan-is-a-dragon-themed-reimagining-of-hit-board-game-wingspan-and-most-importantly-it-still-comes-with-premium-egg-tokens)
- - [Jack Black continues to collect videogame movie roles like Infinity Stones after being cast in the Minecraft movie](https://www.pcgamer.com/jack-black-continues-to-collect-videogame-movie-roles-like-infinity-stones-after-being-cast-in-the-minecraft-movie)
- - [A new teaser for Arcane season 2 gives us a glimpse at Vander&#39;s dark fate](https://www.pcgamer.com/a-new-teaser-for-arcane-season-2-gives-us-a-glimpse-at-vanders-dark-fate)<!-- GAME:END -->
+ - [Halo will finish the fight on tabletops in 2024](https://www.polygon.com/24026720/halo-miniatures-game-mantic-announcement-release-date-price)
+ - [There&#39;s a touching tribute in Baldur&#39;s Gate 3 to a BG2-loving dad with Alzheimer&#39;s: &#39;he listened to my description with a child-like glee I haven&#39;t seen in a while&#39;](https://www.pcgamer.com/theres-a-touching-tribute-in-baldurs-gate-3-to-a-bg2-loving-dad-with-alzheimers-he-listened-to-my-description-with-a-child-like-glee-i-havent-seen-in-a-while)
+ - [Arcane season 2 is adding a big bad wolf, and seemingly confirming a tragic fan theory](https://www.polygon.com/24026643/arcane-season-two-netflix-teaser-trailer-release-warwick-singed-riot-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
