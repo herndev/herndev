@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile’s Netflix on Us changes are a lot worse than we thought](https://www.androidauthority.com/t-mobile-netflix-on-us-deal-changes-3399982/)
  - [Logan Paul says he is &quot;personally committing&quot; $2.3M+ to offer refunds for CryptoZoo, the allegedly fraudulent Pok&amp;eacute;mon-inspired NFT game that he launched in 2021 &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/240104/p36#a240104p36)
- - [Health management solutions provider HealthEC suffered a data breach between July 14 and July 23, 2023 that impacted close to 4.5M patients &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240104/p35#a240104p35)
- - [Best Phone Plan Deals: Get Unlimited 5G, Free Streaming Services and More     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Health management solutions provider HealthEC suffered a data breach between July 14 and July 23, 2023 that impacted close to 4.5M patients &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240104/p35#a240104p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
