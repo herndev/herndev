@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Department of Justice antitrust filing against Apple said to be imminent, for the fourth consecutive year](https://appleinsider.com/articles/24/01/05/department-of-justice-antitrust-filing-against-apple-said-to-be-imminent-for-the-fourth-consecutive-year?utm_medium=rss)
- - [Coinbase and other cryptocurrency exchanges introduce risk assessments and finance tests for UK users ahead of tough new rules for digital asset products in UK &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240105/p13#a240105p13)
- - [The internet copyright machine wasn’t made for Mickey Mouse](https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain)<!-- TECH:END -->
+ - [Uber is testing Uber Flex, a flexible pricing service that lets riders pick a fare of their choice that will be shared with nearby drivers, in 12+ Indian cities &lpar;TechCrunch&rpar;](http://www.techmeme.com/240105/p15#a240105p15)
+ - [Apple might be the next Big Tech company facing antitrust charges in the US](https://www.theverge.com/2024/1/5/24027001/apple-doj-antitrust-lawsuit-investigation)
+ - [Merck settles its $1.4B legal dispute with insurers over denying coverage for NotPetya losses claiming an &quot;Act of War&quot;; the settlement amount was not disclosed &lpar;Alex Ebert/Bloomberg Law&rpar;](http://www.techmeme.com/240105/p14#a240105p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
