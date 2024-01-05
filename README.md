@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - ⏩ [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
- - 👉 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)<!-- MEMES:END -->
+ - 💣 [Amusement park hack.](http://9gag.com/gag/aNw7qow)
+ - ⏩ [Hey, he got a point!](http://9gag.com/gag/amAenLv)
+ - 👉 [Awful, just awful](http://9gag.com/gag/adPGb7D)<!-- MEMES:END -->
 
 ---
 
