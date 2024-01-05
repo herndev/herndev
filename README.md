@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Our childhood crush](http://9gag.com/gag/aZD6dL9)
- - ⏩ [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
- - 👉 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/axoLm4p)<!-- MEMES:END -->
+ - 💣 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/axoLm4p)
+ - ⏩ [This is the strongest female protagonist\u2026 Ever!](http://9gag.com/gag/aoKvn7g)
+ - 👉 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)<!-- MEMES:END -->
 
 ---
 
