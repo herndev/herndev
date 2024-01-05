@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 7 city builders coming in 2024 that I can&#39;t wait to play](https://www.pcgamer.com/the-7-city-builders-coming-in-2024-that-i-cant-wait-to-play)
- - [Intel Core i7 14700K review](https://www.pcgamer.com/intel-core-i7-14700k-review)
- - [Next Week on Xbox: New Games for January 8 – 12](https://news.xbox.com/en-us/2024/01/05/next-week-on-xbox-new-games-for-january-8-12/)<!-- GAME:END -->
+ - [Wyrmspan is a dragon themed reimagining of hit board game Wingspan, and most importantly it still comes with premium egg tokens](https://www.pcgamer.com/wyrmspan-is-a-dragon-themed-reimagining-of-hit-board-game-wingspan-and-most-importantly-it-still-comes-with-premium-egg-tokens)
+ - [Jack Black continues to collect videogame movie roles like Infinity Stones after being cast in the Minecraft movie](https://www.pcgamer.com/jack-black-continues-to-collect-videogame-movie-roles-like-infinity-stones-after-being-cast-in-the-minecraft-movie)
+ - [A new teaser for Arcane season 2 gives us a glimpse at Vander&#39;s dark fate](https://www.pcgamer.com/a-new-teaser-for-arcane-season-2-gives-us-a-glimpse-at-vanders-dark-fate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
