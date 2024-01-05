@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for January 8 – 12](https://news.xbox.com/en-us/2024/01/05/next-week-on-xbox-new-games-for-january-8-12/)
- - [Alex Jones Game Packs So Much Stupid Into 48 Minutes](https://kotaku.com/alex-jones-nwo-wars-infowars-giant-moron-1851143012)
- - [These Are The Hugely Popular Games You Can&#39;t Stand](https://kotaku.com/kotaku-asks-games-baldurs-gate-3-god-of-war-dark-souls-1851141632)<!-- GAME:END -->
+ - [The 7 city builders coming in 2024 that I can&#39;t wait to play](https://www.pcgamer.com/the-7-city-builders-coming-in-2024-that-i-cant-wait-to-play)
+ - [Intel Core i7 14700K review](https://www.pcgamer.com/intel-core-i7-14700k-review)
+ - [Next Week on Xbox: New Games for January 8 – 12](https://news.xbox.com/en-us/2024/01/05/next-week-on-xbox-new-games-for-january-8-12/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
