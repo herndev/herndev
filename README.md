@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect at CES 2024](https://www.theverge.com/2024/1/5/24025489/ces-2024-tv-transportation-laptops-smart-home-what-to-expect)
- - [The EU&#39;s antitrust chief Margrethe Vestager plans to meet with the CEOs of Google, Apple, Nvidia, and Broadcom in the US next week &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240105/p5#a240105p5)
- - [Netflix is considering ways to make money from video games, including via IAPs and ads; Apptopia: as of October 2023, &lt;1% of subscribers played its games daily &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240105/p4#a240105p4)<!-- TECH:END -->
+ - [Samsung debuts Designed for Samsung Gaming Hub accessories for the cloud Gaming Hub on its smart TVs, including a new controller from PDP &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240105/p7#a240105p7)
+ - [MSI’s Steam Deck competitor has leaked, and it’s powered by an Intel Meteor Lake chip](https://www.theverge.com/2024/1/5/24026479/msi-claw-handheld-gaming-pc-specs-leak-ces-2024)
+ - [Not all financial predictions for Apple&#39;s holiday quarter are doom and gloom](https://appleinsider.com/articles/24/01/05/not-all-financial-predictions-for-apples-holiday-quarter-are-doom-and-gloom?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
