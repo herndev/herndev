@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
- - ⏩ [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
- - 👉 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)<!-- MEMES:END -->
+ - 💣 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - ⏩ [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
+ - 👉 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)<!-- MEMES:END -->
 
 ---
 
