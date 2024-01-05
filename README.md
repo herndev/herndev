@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/axoLm4p)
- - ⏩ [This is the strongest female protagonist\u2026 Ever!](http://9gag.com/gag/aoKvn7g)
- - 👉 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)<!-- MEMES:END -->
+ - 💣 [This is the strongest female protagonist\u2026 Ever!](http://9gag.com/gag/aoKvn7g)
+ - ⏩ [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)
+ - 👉 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)<!-- MEMES:END -->
 
 ---
 
