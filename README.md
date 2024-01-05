@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
- - ⏩ [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
- - 👉 [There it is](http://9gag.com/gag/aQEL25r)<!-- MEMES:END -->
+ - 💣 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - ⏩ [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 👉 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)<!-- MEMES:END -->
 
 ---
 
