@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
- - ⏩ [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
+ - 💣 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - ⏩ [The Simpsons](http://9gag.com/gag/a04rEVd)
  - 👉 [What the actual f**k](http://9gag.com/gag/aeQn7eq)<!-- MEMES:END -->
 
 ---
