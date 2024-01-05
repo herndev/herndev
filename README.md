@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - ⏩ [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 👉 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)<!-- MEMES:END -->
+ - 💣 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - ⏩ [Egg](http://9gag.com/gag/aGEmAgn)
+ - 👉 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)<!-- MEMES:END -->
 
 ---
 
