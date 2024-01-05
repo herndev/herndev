@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla recalls virtually every car it ever sold in China, or more than 1.6M, due to potential issues with Autopilot, after a similar recall in the US in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/240105/p2#a240105p2)
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [New iPhone 16 Pro mockups show off the capacitive Capture button](https://www.androidauthority.com/apple-iphone-16-pro-mockups-3400060/)<!-- TECH:END -->
+ - [Foxconn expects Q1 revenue drop as iPhone demand falls](https://appleinsider.com/articles/24/01/05/foxconn-expects-q1-revenue-drop-as-iphone-demand-falls?utm_medium=rss)
+ - [2024 Will Be the Year We Figure Out EV Charging     - CNET](https://www.cnet.com/roadshow/news/2024-will-be-the-year-we-figure-out-ev-charging/#ftag=CAD590a51e)
+ - [Microsoft’s keyboards and mice will live on under a unique new partnership](https://www.theverge.com/2024/1/5/24026323/microsoft-incase-partnership-keyboards-accessories-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
