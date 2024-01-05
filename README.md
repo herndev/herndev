@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dell&#39;s new RTX 4070-powered XPS 16 laptop is an irresistible OLED beauty](https://www.pcgamer.com/dells-new-rtx-4070-powered-xps-16-laptop-is-an-irresistible-oled-beauty)
- - [WoW&#39;s next patch drops in just under 2 weeks: game-wide dragonriding, follower dungeons, and worgens coming home](https://www.pcgamer.com/wows-next-patch-drops-in-just-under-2-weeks-game-wide-dragonriding-follower-dungeons-and-worgens-coming-home)
- - [Wordle today: Hint and answer #930 for Friday, January 5](https://www.pcgamer.com/wordle-today-answer-930-january-5)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for January 8 – 12](https://news.xbox.com/en-us/2024/01/05/next-week-on-xbox-new-games-for-january-8-12/)
+ - [Alex Jones Game Packs So Much Stupid Into 48 Minutes](https://kotaku.com/alex-jones-nwo-wars-infowars-giant-moron-1851143012)
+ - [These Are The Hugely Popular Games You Can&#39;t Stand](https://kotaku.com/kotaku-asks-games-baldurs-gate-3-god-of-war-dark-souls-1851141632)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
