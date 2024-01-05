@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Apple Pencil Deals: Save Money Off Apple Styluses and More     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
  - [Why was one of the biggest law podcasts shut down?](https://www.theverge.com/2024/1/4/24025899/legal-podcast-pro-say-law-360-she-hulk-cancel)
- - [Samsung and Hyundai are teaming up to add SmartThings to cars](https://www.theverge.com/2024/1/4/24025674/samsung-hyundai-kia-smartthings-cars)
- - [ChatGPT could soon replace Google Assistant on your Android phone](https://www.androidauthority.com/chatgpt-replace-google-assistant-3399920/)<!-- TECH:END -->
+ - [Samsung and Hyundai are teaming up to add SmartThings to cars](https://www.theverge.com/2024/1/4/24025674/samsung-hyundai-kia-smartthings-cars)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
