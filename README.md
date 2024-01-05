@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read up on Apple’s tremendous Godzilla series, Monarch: Legacy of Monsters](https://www.theverge.com/24025765/monarch-legacy-of-monsters-news-trailers-reviews-interviews-roundup)
- - [How a change to US tax law Section 174, forcing amortization of software labor, led to higher tax bills, less hiring and more layoffs, IP moving abroad, more &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/240105/p9#a240105p9)
- - [For the third time in a year, Verizon is increasing prices for legacy plans, says rumor](https://www.androidauthority.com/verizon-price-increase-jan-2024-3400173/)<!-- TECH:END -->
+ - [SEC denies Apple&#39;s bid to stop shareholders questioning its use of AI](https://appleinsider.com/articles/24/01/04/sec-denies-apples-bid-to-stop-shareholders-questioning-its-use-of-ai?utm_medium=rss)
+ - [A developer finds that Google seems to be working on an upgraded version of Bard called Bard Advanced that will be available through a Google One subscription &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240105/p10#a240105p10)
+ - [7 Mint Alternatives When the Budgeting App Goes Away This Year     - CNET](https://www.cnet.com/personal-finance/mint-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
