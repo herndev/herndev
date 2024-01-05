@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Incase partners with Microsoft to sell PC accessories, which Microsoft stopped making in 2022; products will include ones Microsoft designed but never shipped &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240105/p8#a240105p8)
- - [Daily deals Dec. 5: $700 off 27&quot; iMac, Mac Studio for $1,499, 512GB Mac mini $499, HP Envy printer $89, more](https://appleinsider.com/articles/24/01/05/daily-deals-dec-5-700-off-27-imac-mac-studio-for-1499-512gb-mac-mini-499-hp-envy-printer-89-more?utm_medium=rss)
- - [T-Mobile is changing the Netflix on Us promo &lpar;Update: Ads for everyone&rpar;](https://www.androidauthority.com/t-mobile-netflix-ads-2024-3399540/)<!-- TECH:END -->
+ - [24% off the AirPods Pro 2 takes them back to all-time low](https://www.androidauthority.com/airpods-pro-2-deal-3400154/)
+ - [Your next smartphone screen could be made out of…wood?](https://www.androidauthority.com/wood-smartphone-screen-3400135/)
+ - [Google’s Nest Wifi Pro has returned to its best price yet](https://www.theverge.com/2024/1/5/24025332/google-nest-wifi-pro-apple-ipad-amazon-smart-air-quality-monitor-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
