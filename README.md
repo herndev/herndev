@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former employees detail Baidu&#39;s difficulty incubating new businesses including CEO Robin Li&#39;s leadership style and most talented staff leaving &lpar;Financial Times&rpar;](http://www.techmeme.com/240105/p1#a240105p1)
- - [Other regions might also get lucky with a Snapdragon Galaxy S24 Plus](https://www.androidauthority.com/samsung-galaxy-s24-plus-snapdragon-india-3399642/)
- - [T-Mobile’s Netflix on Us changes are a lot worse than we thought](https://www.androidauthority.com/t-mobile-netflix-on-us-deal-changes-3399982/)<!-- TECH:END -->
+ - [Google Messages is finally enabling dual-SIM RCS support](https://www.androidauthority.com/google-messages-dual-sim-rcs-3400032/)
+ - [The iPhone’s ultrawide and front cameras could finally get a hardware upgrade](https://www.androidauthority.com/iphone-16-pro-ultrawide-17-front-camera-upgrade-3400013/)
+ - [Samsung could launch new chargers alongside Galaxy S24 series](https://www.androidauthority.com/samsung-new-chargers-galaxy-s24-launch-3400031/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
