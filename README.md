@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google broke labor laws when it refused to bargain with YouTube Music contract workers](https://www.theverge.com/2024/1/4/24026025/google-nlrb-youtube-music-contractors-alphabet-workers-union)
- - [Tesla’s first smart home partner is Samsung SmartThings](https://www.theverge.com/2024/1/4/24026070/tesla-smart-home-samsung-smartthings-energy)
- - [The Best Fitness Gifts for Every Kind of Exercise Enthusiast     - CNET](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Design software company InVision, once valued at $2B, plans to shut down at the end of 2024, after raising $350M+ from Goldman Sachs, Spark Capital, and others &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/240104/p32#a240104p32)
+ - [Samsung One UI 6.1 update: Features, release date, and what to expect](https://www.androidauthority.com/samsung-one-ui-6-1-3399958/)
+ - [Google broke labor laws when it refused to bargain with YouTube Music contract workers](https://www.theverge.com/2024/1/4/24026025/google-nlrb-youtube-music-contractors-alphabet-workers-union)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
