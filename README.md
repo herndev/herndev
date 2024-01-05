@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - ⏩ [Egg](http://9gag.com/gag/aGEmAgn)
- - 👉 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)<!-- MEMES:END -->
+ - ⏩ [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
+ - 👉 [I want to become like him](http://9gag.com/gag/aL1Zb9A)<!-- MEMES:END -->
 
 ---
 
