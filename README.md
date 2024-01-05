@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Logan Paul&#39;s NFT zoo catastrophe takes an unexpected turn: He&#39;s buying back the eggs and suing his co-founders](https://www.pcgamer.com/logan-pauls-nft-zoo-catastrophe-takes-an-unexpected-turn-hes-buying-back-the-eggs-and-suing-his-co-founders)
- - [Polygon’s favorite &lpar;romantic&rpar; ships of 2023](https://www.polygon.com/24025446/polygons-best-ships-2023-fanfic-legend-of-zelda-genshin-impact-baldurs-gate-3)
- - [Okay, &#39;Boomer Shooter&#39; is now an official genre on Steam](https://www.pcgamer.com/okay-boomer-shooter-is-now-an-official-genre-on-steam)<!-- GAME:END -->
+ - [Thanks to this Tamagotchi-like critter care game I now believe that bugs can be cute too](https://www.pcgamer.com/thanks-to-this-tamagotchi-like-critter-care-game-i-now-believe-that-bugs-can-be-cute-too)
+ - [Here are 8 Japanese PC games you should be looking forward to in 2024](https://www.pcgamer.com/japanese-pc-games-2024)
+ - [Report: Predators Are Using Twitch &#39;Clips&#39; To Spread Child Abuse](https://kotaku.com/twitch-clips-feature-predators-child-abuse-tiktok-1851144631)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
