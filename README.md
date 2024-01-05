@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Substack wants to be seen as a pure infrastructure provider, akin to Cloudflare, but a platform can&#39;t claim to be simple software when it recommends content &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240104/p33#a240104p33)
  - [Design software company InVision, once valued at $2B, plans to shut down at the end of 2024, after raising $350M+ from Goldman Sachs, Spark Capital, and others &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/240104/p32#a240104p32)
- - [Samsung One UI 6.1 update: Features, release date, and what to expect](https://www.androidauthority.com/samsung-one-ui-6-1-3399958/)
- - [Google broke labor laws when it refused to bargain with YouTube Music contract workers](https://www.theverge.com/2024/1/4/24026025/google-nlrb-youtube-music-contractors-alphabet-workers-union)<!-- TECH:END -->
+ - [Samsung One UI 6.1 update: Features, release date, and what to expect](https://www.androidauthority.com/samsung-one-ui-6-1-3399958/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
