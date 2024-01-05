@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC denies Apple&#39;s bid to stop shareholders questioning its use of AI](https://appleinsider.com/articles/24/01/04/sec-denies-apples-bid-to-stop-shareholders-questioning-its-use-of-ai?utm_medium=rss)
- - [A developer finds that Google seems to be working on an upgraded version of Bard called Bard Advanced that will be available through a Google One subscription &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240105/p10#a240105p10)
- - [7 Mint Alternatives When the Budgeting App Goes Away This Year     - CNET](https://www.cnet.com/personal-finance/mint-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Department of Justice antitrust filing against Apple said to be imminent, for the fourth consecutive year](https://appleinsider.com/articles/24/01/05/department-of-justice-antitrust-filing-against-apple-said-to-be-imminent-for-the-fourth-consecutive-year?utm_medium=rss)
+ - [Coinbase and other cryptocurrency exchanges introduce risk assessments and finance tests for UK users ahead of tough new rules for digital asset products in UK &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240105/p13#a240105p13)
+ - [The internet copyright machine wasn’t made for Mickey Mouse](https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
