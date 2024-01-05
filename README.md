@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo will finish the fight on tabletops in 2024](https://www.polygon.com/24026720/halo-miniatures-game-mantic-announcement-release-date-price)
- - [There&#39;s a touching tribute in Baldur&#39;s Gate 3 to a BG2-loving dad with Alzheimer&#39;s: &#39;he listened to my description with a child-like glee I haven&#39;t seen in a while&#39;](https://www.pcgamer.com/theres-a-touching-tribute-in-baldurs-gate-3-to-a-bg2-loving-dad-with-alzheimers-he-listened-to-my-description-with-a-child-like-glee-i-havent-seen-in-a-while)
- - [Arcane season 2 is adding a big bad wolf, and seemingly confirming a tragic fan theory](https://www.polygon.com/24026643/arcane-season-two-netflix-teaser-trailer-release-warwick-singed-riot-games)<!-- GAME:END -->
+ - [Logan Paul&#39;s NFT zoo catastrophe takes an unexpected turn: He&#39;s buying back the eggs and suing his co-founders](https://www.pcgamer.com/logan-pauls-nft-zoo-catastrophe-takes-an-unexpected-turn-hes-buying-back-the-eggs-and-suing-his-co-founders)
+ - [Polygon’s favorite &lpar;romantic&rpar; ships of 2023](https://www.polygon.com/24025446/polygons-best-ships-2023-fanfic-legend-of-zelda-genshin-impact-baldurs-gate-3)
+ - [Okay, &#39;Boomer Shooter&#39; is now an official genre on Steam](https://www.pcgamer.com/okay-boomer-shooter-is-now-an-official-genre-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
