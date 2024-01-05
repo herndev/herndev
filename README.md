@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - ⏩ [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
+ - 💣 [Fun family games, nice](http://9gag.com/gag/aBdA4bO)
+ - ⏩ [Ladies, always be considerate](http://9gag.com/gag/axoLm92)
+ - 👉 [The moment a 13-year-old competitive Tetris player prodigy from Oklahoma, advanced so far in the original Nintendo version of the game that it froze, and his score read \u201c999999.\u201d](http://9gag.com/gag/aOxMpQr)<!-- MEMES:END -->
 
 ---
 
