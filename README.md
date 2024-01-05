@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pascal creator Niklaus Wirth has died](https://www.pcgamer.com/pascal-creator-niklaus-wirth-has-died)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [GTA 6 Fan Uses Science To Figure Out What SPF Sunscreen Was Used In The Trailer](https://kotaku.com/gta-6-trailer-breakdown-secrets-spf-sunscreen-reddit-1851144759)<!-- GAME:END -->
+ - [How to get iron in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24026873/iron-locations-how-to-get)
+ - [This multi-million crypto rug pull has a new twist: The CEO may not actually exist](https://www.pcgamer.com/this-multi-million-crypto-rug-pull-has-a-new-twist-the-ceo-may-not-actually-exist)
+ - [How to get malachite in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24026766/malachite-locations-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
