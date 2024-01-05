@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - ⏩ [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 👉 [Toronto, Canada](http://9gag.com/gag/avQMRMX)<!-- MEMES:END -->
+ - 💣 [Egg](http://9gag.com/gag/aGEmAgn)
+ - ⏩ [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - 👉 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)<!-- MEMES:END -->
 
 ---
 
