@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awful, just awful](http://9gag.com/gag/adPGb7D)
- - ⏩ [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)
- - 👉 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)<!-- MEMES:END -->
+ - 💣 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
+ - ⏩ [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 👉 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)<!-- MEMES:END -->
 
 ---
 
