@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thanks to this Tamagotchi-like critter care game I now believe that bugs can be cute too](https://www.pcgamer.com/thanks-to-this-tamagotchi-like-critter-care-game-i-now-believe-that-bugs-can-be-cute-too)
- - [Here are 8 Japanese PC games you should be looking forward to in 2024](https://www.pcgamer.com/japanese-pc-games-2024)
- - [Report: Predators Are Using Twitch &#39;Clips&#39; To Spread Child Abuse](https://kotaku.com/twitch-clips-feature-predators-child-abuse-tiktok-1851144631)<!-- GAME:END -->
+ - [Pascal creator Niklaus Wirth has died](https://www.pcgamer.com/pascal-creator-niklaus-wirth-has-died)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [GTA 6 Fan Uses Science To Figure Out What SPF Sunscreen Was Used In The Trailer](https://kotaku.com/gta-6-trailer-breakdown-secrets-spf-sunscreen-reddit-1851144759)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
