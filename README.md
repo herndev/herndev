@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom of the year](http://9gag.com/gag/avQMXLO)
- - ⏩ [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
- - 👉 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)<!-- MEMES:END -->
+ - 💣 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
+ - ⏩ [Current state of Europe](http://9gag.com/gag/a8qRKKe)
+ - 👉 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)<!-- MEMES:END -->
 
 ---
 
