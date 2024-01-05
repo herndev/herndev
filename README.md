@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #930 for Friday, January 5](https://www.pcgamer.com/wordle-today-answer-930-january-5)
  - [Jaws captures the greatness of movie-to-pinball adaptations](https://www.polygon.com/24025642/jaws-pinball-game-stern)
- - [Microsoft is adding a new button to PC keyboards for the first time in almost 30 years &lpar;and it&#39;s for AI&rpar;](https://www.pcgamer.com/microsoft-is-adding-a-new-button-to-pc-keyboards-for-the-first-time-in-almost-30-years-and-its-for-ai)
- - [Pixar’s Luca still reads like a queer romance — even its story lead thinks so](https://www.polygon.com/24025804/luca-alberto-luberto-canon-pixar-disney)<!-- GAME:END -->
+ - [Microsoft is adding a new button to PC keyboards for the first time in almost 30 years &lpar;and it&#39;s for AI&rpar;](https://www.pcgamer.com/microsoft-is-adding-a-new-button-to-pc-keyboards-for-the-first-time-in-almost-30-years-and-its-for-ai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
