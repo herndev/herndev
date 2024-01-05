@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is finally enabling dual-SIM RCS support](https://www.androidauthority.com/google-messages-dual-sim-rcs-3400032/)
- - [The iPhone’s ultrawide and front cameras could finally get a hardware upgrade](https://www.androidauthority.com/iphone-16-pro-ultrawide-17-front-camera-upgrade-3400013/)
- - [Samsung could launch new chargers alongside Galaxy S24 series](https://www.androidauthority.com/samsung-new-chargers-galaxy-s24-launch-3400031/)<!-- TECH:END -->
+ - [Tesla recalls virtually every car it ever sold in China, or more than 1.6M, due to potential issues with Autopilot, after a similar recall in the US in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/240105/p2#a240105p2)
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [New iPhone 16 Pro mockups show off the capacitive Capture button](https://www.androidauthority.com/apple-iphone-16-pro-mockups-3400060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
