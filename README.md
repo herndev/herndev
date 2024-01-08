@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Authy is shutting down its desktop app](https://www.theverge.com/2024/1/8/24030477/authy-desktop-app-shutting-down)
- - [In a filing and internal memo, Unity Software says it plans to lay off ~25% of its workforce, or 1,800 jobs, by the end of March, its largest layoff ever &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240108/p27#a240108p27)
- - [Sennheiser announces Momentum 4 earbuds and revamped sport buds with health sensors](https://www.theverge.com/2024/1/8/24024989/sennheiser-momentum-4-sport-accentum-plus-price-release-date-features-heart-rate)<!-- TECH:END -->
+ - [Intel’s new 14th Gen mobile processors are here for 2024’s gaming laptops](https://www.theverge.com/2024/1/8/24029708/intel-14th-gen-mobile-processors-specs-release-date-pricing-ces-2024)
+ - [Kia’s ‘Platform Beyond Vehicles’ is a family of modular electric minivans for businesses](https://www.theverge.com/2024/1/8/24028828/kia-platform-beyond-vehicle-pbv-modular-ev-ces)
+ - [Alienware’s latest laptop has shrunken the butt](https://www.theverge.com/2024/1/8/24026555/dell-alienware-m16-r2-ces-2024-gaming-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
