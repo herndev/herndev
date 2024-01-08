@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotted at CES 2024: This ceiling light triples up as a movie projector and a smart speaker](https://www.androidauthority.com/xgimi-ces-2024-aladdin-horizon-max-projectors-3400640/)
- - [LG&#39;s 2024 OLED TVs Cut Wires, Boost Brightness video     - CNET](https://www.cnet.com/videos/lgs-2024-oled-tvs-cut-wires-boost-brightness/#ftag=CAD590a51e)
- - [LG Transparent OLED Turns From TV Into Animated Art video     - CNET](https://www.cnet.com/videos/lg-transparent-oled-turns-from-tv-into-animated-art/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s what Google Assistant with Bard will look like on Android](https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/)
+ - [Measurable AI: KeeTa, Meituan&#39;s sister app, has gained 37% marketshare of Hong Kong&#39;s food delivery market after debuting in May 2023; Foodpanda leads with 42% &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240108/p3#a240108p3)
+ - [Sources: China acts to ease fears of a regulatory crackdown on its video game industry, including firing an official and convening consultations on new measures &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240108/p2#a240108p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
