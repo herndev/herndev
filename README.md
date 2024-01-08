@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am poor because my dad is poor.](http://9gag.com/gag/aPgEVgR)
- - ⏩ [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
- - 👉 [Guys only want one thing and it&#39;s awesome](http://9gag.com/gag/a04rDRd)<!-- MEMES:END -->
+ - 💣 [I cried](http://9gag.com/gag/aPgE2QB)
+ - ⏩ [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
+ - 👉 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)<!-- MEMES:END -->
 
 ---
 
