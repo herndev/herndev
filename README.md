@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)
- - ⏩ [Imagine trying to humiliate a child who just achieved something no human could do in 39 years since Tetris was released](http://9gag.com/gag/avQMDRO)
- - 👉 [I want to become like him](http://9gag.com/gag/aL1Zb9A)<!-- MEMES:END -->
+ - 💣 [Hey guys. I&#39;m a medic from Czechia in Ukraine. Training soldiers, evacuating the wounded ones. Support Ukraine.](http://9gag.com/gag/axoLwVK)
+ - ⏩ [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
+ - 👉 [Asked my grandfather the type of music he listened to at my age, he told me to search this song and now I&#39;m hooked.](http://9gag.com/gag/aoKvw7n)<!-- MEMES:END -->
 
 ---
 
