@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man&#39;s MJ Face Model Asks Fans To Stop Stalking And Harassing Her](https://kotaku.com/spider-man-2-mj-face-actress-fans-harassment-stalking-1851149992)
- - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)
- - [Five Nights At Freddy&#39;s Star Says Sequel Coming ASAP](https://kotaku.com/five-nights-at-freddys-fnaf-2-movie-sequel-release-date-1851149677)<!-- GAME:END -->
+ - [Former Stardew Valley contributor is making a new life sim set in a city, and it&#39;s already packed with little features new to the genre](https://www.pcgamer.com/former-stardew-valley-contributor-is-making-a-new-life-sim-set-in-a-city-and-its-already-packed-with-little-features-new-to-the-genre)
+ - [OpenAI says it&#39;s &#39;impossible&#39; to create ChatGPT without copyrighted content, as if that&#39;s somehow a good excuse](https://www.pcgamer.com/openai-says-its-impossible-to-create-chatgpt-without-copyrighted-content-as-if-thats-somehow-a-good-excuse)
+ - [Elon Musk spent the holidays grinding Diablo 4 and leeching XP from its most popular streamers](https://www.pcgamer.com/elon-musk-spent-the-holidays-grinding-diablo-4-and-leeching-xp-from-its-most-popular-streamers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
