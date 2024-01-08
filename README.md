@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take Cult Customization to the Next Level in Cult of the Lamb’s Free Sins of the Flesh Update](https://news.xbox.com/en-us/2024/01/08/cult-of-the-lamb-sins-of-the-flesh/)
- - [Hands on: Intel&#39;s Core Ultra 7 165H is golden for gaming, if you can turn on XeSS, and mostly playable without](https://www.pcgamer.com/hands-on-intels-core-ultra-7-165h-is-golden-for-gaming-if-you-can-turn-on-xess-and-mostly-playable-without)
- - [Ultra-fast PCIe 4.0 storage is heading to handheld PCs, thanks to Phison&#39;s new 2230 SSD controller](https://www.pcgamer.com/ultra-fast-pcie-40-storage-is-heading-to-handheld-pcs-thanks-to-phisons-new-2230-ssd-controller)<!-- GAME:END -->
+ - [Ray tracing coming to Diablo 4 in March, shadows and reflections getting a makeover](https://www.pcgamer.com/ray-tracing-coming-to-diablo-4-in-march-shadows-and-reflections-getting-a-makeover)
+ - [The Most Exciting TV Shows of 2024](https://kotaku.com/2024-tv-shows-fallout-avatar-house-dragon-curb-1851148673)
+ - [Ex-Activision Blizzard exec’s lawsuit alleges he was laid off for being an ‘old white guy’](https://www.polygon.com/24029908/activision-blizzard-old-white-age-discrimiantion-lawsuit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
