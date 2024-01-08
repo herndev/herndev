@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - ⏩ [I am poor because my dad is poor.](http://9gag.com/gag/aPgEVgR)
+ - 💣 [I just leave this here](http://9gag.com/gag/adPGwMZ)
+ - ⏩ [Bjj...](http://9gag.com/gag/aEq9Ko9)
  - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
 
 ---
