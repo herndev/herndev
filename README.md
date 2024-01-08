@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future is clear: Samsung unveils new transparent MicroLED displays at CES 2024](https://www.androidauthority.com/samsung-ces-2024-transparent-microled-3400688/)
- - [OPPO Find X7 Ultra launched: The best camera phone you can’t buy &lpar;again&rpar;](https://www.androidauthority.com/oppo-find-x7-ultra-3399738/)
- - [I’ve looked through LG’s new transparent OLED TV, and seen something special](https://www.theverge.com/2024/1/8/24029590/lg-oled-t-transparent-tv-announced-specs-features)<!-- TECH:END -->
+ - [Q&amp;A with University of Michigan researchers about their research into the effectiveness of using prompts to assign interpersonal and professional roles to LLMs &lpar;Sisi Wei/The Markup&rpar;](http://www.techmeme.com/240108/p5#a240108p5)
+ - [OnePlus 12 and 12R leaked global prices promise a bang for your buck](https://www.androidauthority.com/oneplus-12-oneplus-12r-global-prices-leak-3400717/)
+ - [Oppo’s Find X7 Ultra pairs a 1-inch sensor with not one but two periscope cameras](https://www.theverge.com/2024/1/8/24029647/oppo-find-x7-ultra-two-periscope-cameras-price-release-date-specs-features-1-inch-sensor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
