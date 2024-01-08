@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)
- - ⏩ [That laugh tho...](http://9gag.com/gag/aXny3bP)
- - 👉 [What magic?](http://9gag.com/gag/aeQnqN5)<!-- MEMES:END -->
+ - 💣 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - ⏩ [I am poor because my dad is poor.](http://9gag.com/gag/aPgEVgR)
+ - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
 
 ---
 
