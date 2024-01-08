@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to upgrade a village in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992265/village-build-upgrade-rating-square-hub)
- - [New Call Of Duty Gun Has A Delightfully Annoying Easter Egg](https://kotaku.com/call-duty-mwiii-warzone-rival9-smg-restart-game-message-1851145255)
- - [Bossa Studios ended 2023 by laying off one-third of its staff](https://www.pcgamer.com/bossa-studios-ended-2023-by-laying-off-one-third-of-its-staff)<!-- GAME:END -->
+ - [Warhammer goes back to its original fantasy setting in Warhammer: The Old World this month](https://www.pcgamer.com/warhammer-goes-back-to-its-original-fantasy-setting-in-warhammer-the-old-world-this-month)
+ - [FF14 director says there&#39;s no firm release date for new expansion because he wants to avoid another Endwalker-style delay](https://www.pcgamer.com/ff14-director-says-theres-no-firm-release-date-for-new-expansion-because-he-wants-to-avoid-another-endwalker-style-delay)
+ - [Skyrim mod adds Icewind Dale&#39;s starting town so you can return to the Forgotten Realms](https://www.pcgamer.com/skyrim-mod-adds-icewind-dales-starting-town-so-you-can-return-to-the-forgotten-realms)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
