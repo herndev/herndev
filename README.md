@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #933 for Monday, January 8](https://www.pcgamer.com/wordle-today-answer-933-january-8)
  - [Samsung&#39;s 990 Evo SSD supports PCIe 4.0 x4 and 5.0 x2 and I hope it&#39;s the first of many hybrid solutions](https://www.pcgamer.com/samsungs-990-evo-ssd-supports-pcie-40-x4-and-50-x2-and-i-hope-its-the-first-of-many-hybrid-solutions)
- - [Wizards of the Coast reverses course, admits to using AI in promotional image: &#39;Well, we made a mistake earlier&#39;](https://www.pcgamer.com/wizards-of-the-coast-reverses-course-admits-to-using-ai-in-promotional-image-well-we-made-a-mistake-earlier)
- - [Warhammer goes back to its original fantasy setting in Warhammer: The Old World this month](https://www.pcgamer.com/warhammer-goes-back-to-its-original-fantasy-setting-in-warhammer-the-old-world-this-month)<!-- GAME:END -->
+ - [Wizards of the Coast reverses course, admits to using AI in promotional image: &#39;Well, we made a mistake earlier&#39;](https://www.pcgamer.com/wizards-of-the-coast-reverses-course-admits-to-using-ai-in-promotional-image-well-we-made-a-mistake-earlier)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
