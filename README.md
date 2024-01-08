@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Spotted at CES 2024: This ceiling light triples up as a movie projector and a smart speaker](https://www.androidauthority.com/xgimi-ces-2024-aladdin-horizon-max-projectors-3400640/)
- - [Yes, This 800-Pound Steel Box Extracts Drinking Water From Thin Air     - CNET](https://www.cnet.com/how-to/yes-this-800-pound-steel-box-extracts-drinking-water-from-thin-air/#ftag=CAD590a51e)
- - [LG&#39;s Weird Speaker-TV Hybrid Puts Video on Top of Vacuum Tubes     - CNET](https://www.cnet.com/tech/home-entertainment/lgs-weird-speaker-tv-hybrid-puts-video-on-top-of-vacuum-tubes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG&#39;s 2024 OLED TVs Cut Wires, Boost Brightness video     - CNET](https://www.cnet.com/videos/lgs-2024-oled-tvs-cut-wires-boost-brightness/#ftag=CAD590a51e)
+ - [LG Transparent OLED Turns From TV Into Animated Art video     - CNET](https://www.cnet.com/videos/lg-transparent-oled-turns-from-tv-into-animated-art/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
