@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [j5create&#39;s new Thunderbolt 4 docking station supports 8K 60Hz video](https://appleinsider.com/articles/24/01/08/j5creates-new-thunderbolt-4-docking-station-supports-8k-60hz-video?utm_medium=rss)
- - [Samsung Teases Monitor Designed to Look Good in Multiples, Jumps into 3D Monitors     - CNET](https://www.cnet.com/tech/computing/samsung-teases-monitor-designed-to-look-good-in-multiples-jumps-into-3d-monitors/#ftag=CAD590a51e)
- - [Samsung QLED and 8K TVs Amp Up Style, Picture and Game Bar     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-qled-and-8k-tvs-amp-up-style-picture-and-game-bar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotted at CES 2024: This ceiling light triples up as a movie projector and a smart speaker](https://www.androidauthority.com/xgimi-ces-2024-aladdin-horizon-max-projectors-3400640/)
+ - [Yes, This 800-Pound Steel Box Extracts Drinking Water From Thin Air     - CNET](https://www.cnet.com/how-to/yes-this-800-pound-steel-box-extracts-drinking-water-from-thin-air/#ftag=CAD590a51e)
+ - [LG&#39;s Weird Speaker-TV Hybrid Puts Video on Top of Vacuum Tubes     - CNET](https://www.cnet.com/tech/home-entertainment/lgs-weird-speaker-tv-hybrid-puts-video-on-top-of-vacuum-tubes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
