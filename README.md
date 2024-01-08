@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mophie resurrects its battery case most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
- - [Mophie’s Juice Pack is back for iPhones](https://www.theverge.com/2024/1/8/24027411/mophie-juice-pack-iphone-15-pro-max)
- - [HP’s Omen Transcend 14 is a gaming laptop meant to do double duty as a normal one](https://www.theverge.com/2024/1/8/24026687/hp-omen-transcend-14-gaming-laptop-ces-2024)<!-- TECH:END -->
+ - [Chipolo &#39;Perfectly Imperfect&#39; campaign launches with limited-edition Find My trackers](https://appleinsider.com/articles/24/01/08/chipolo-perfectly-imperfect-campaign-launches-with-limited-edition-find-my-trackers?utm_medium=rss)
+ - [Thread Group is finally fixing Thread border routers](https://www.theverge.com/2024/1/8/24028203/thread-group-fix-credential-sharing-thread-border-router)
+ - [Clear 2 is a whimsical to-do list app a decade in the making](https://www.theverge.com/2024/1/8/24026950/clear-2-to-do-list-app-iphone-ipad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
