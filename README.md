@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve looked through LG’s new transparent OLED TV, and seen something special](https://www.theverge.com/2024/1/8/24029590/lg-oled-t-transparent-tv-announced-specs-features)
- - [Legal experts say pledges from Amazon, Microsoft, and Google to defend their customers from IP issues only extend to AI models built with their oversight &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240108/p4#a240108p4)
- - [Here’s what Google Assistant with Bard will look like on Android](https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/)<!-- TECH:END -->
+ - [The future is clear: Samsung unveils new transparent MicroLED displays at CES 2024](https://www.androidauthority.com/samsung-ces-2024-transparent-microled-3400688/)
+ - [OPPO Find X7 Ultra launched: The best camera phone you can’t buy &lpar;again&rpar;](https://www.androidauthority.com/oppo-find-x7-ultra-3399738/)
+ - [I’ve looked through LG’s new transparent OLED TV, and seen something special](https://www.theverge.com/2024/1/8/24029590/lg-oled-t-transparent-tv-announced-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
