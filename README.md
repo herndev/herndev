@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Samsung&#39;s 990 Evo SSD supports PCIe 4.0 x4 and 5.0 x2 and I hope it&#39;s the first of many hybrid solutions](https://www.pcgamer.com/samsungs-990-evo-ssd-supports-pcie-40-x4-and-50-x2-and-i-hope-its-the-first-of-many-hybrid-solutions)
  - [Wizards of the Coast reverses course, admits to using AI in promotional image: &#39;Well, we made a mistake earlier&#39;](https://www.pcgamer.com/wizards-of-the-coast-reverses-course-admits-to-using-ai-in-promotional-image-well-we-made-a-mistake-earlier)
- - [Warhammer goes back to its original fantasy setting in Warhammer: The Old World this month](https://www.pcgamer.com/warhammer-goes-back-to-its-original-fantasy-setting-in-warhammer-the-old-world-this-month)
- - [FF14 director says there&#39;s no firm release date for new expansion because he wants to avoid another Endwalker-style delay](https://www.pcgamer.com/ff14-director-says-theres-no-firm-release-date-for-new-expansion-because-he-wants-to-avoid-another-endwalker-style-delay)<!-- GAME:END -->
+ - [Warhammer goes back to its original fantasy setting in Warhammer: The Old World this month](https://www.pcgamer.com/warhammer-goes-back-to-its-original-fantasy-setting-in-warhammer-the-old-world-this-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
