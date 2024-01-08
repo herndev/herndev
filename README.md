@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Activision-Blizzard employee sues the company for none of the reasons you&#39;d expect by now, accuses Bobby Kotick of saying it had &#39;too many old white guys&#39;](https://www.pcgamer.com/former-activision-blizzard-employee-sues-the-company-for-none-of-the-reasons-youd-expect-by-now-accuses-bobby-kotick-of-saying-it-had-too-many-old-white-guys)
- - [Watch the AMD CES 2024 livestream right here: new APUs, GPUs, and 3D chips expected](https://www.pcgamer.com/watch-amd-ces-2024-livestream)
- - [Wizards of the Coast admits using AI art after banning AI art](https://www.polygon.com/24029754/wizards-coast-magic-the-gathering-ai-art-marketing-image)<!-- GAME:END -->
+ - [Cult of the Lamb’s ‘sex update’ is finally coming](https://www.polygon.com/24027054/cult-of-the-lamb-sex-free-update-sins-of-the-flesh-release-date)
+ - [AMD announces the $329 RX 7600 XT, bringing 16GB of VRAM to its lowliest RDNA 3 chip](https://www.pcgamer.com/amd-announces-the-radeon-rx-7600-xt-bringing-16gb-of-vram-to-its-lowliest-rdna-3-chip)
+ - [At long last, AMD updates its desktop APU range with the new Ryzen 8000G series: Zen 4, RDNA 3, all in one neat package](https://www.pcgamer.com/at-long-last-amd-updates-its-desktop-apu-range-with-the-new-ryzen-8000g-series-zen-4-rdna-3-all-in-one-neat-package)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
