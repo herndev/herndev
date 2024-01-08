@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wizards of the Coast reverses course, admits to using AI in promotional image: &#39;Well, we made a mistake earlier&#39;](https://www.pcgamer.com/wizards-of-the-coast-reverses-course-admits-to-using-ai-in-promotional-image-well-we-made-a-mistake-earlier)
  - [Warhammer goes back to its original fantasy setting in Warhammer: The Old World this month](https://www.pcgamer.com/warhammer-goes-back-to-its-original-fantasy-setting-in-warhammer-the-old-world-this-month)
- - [FF14 director says there&#39;s no firm release date for new expansion because he wants to avoid another Endwalker-style delay](https://www.pcgamer.com/ff14-director-says-theres-no-firm-release-date-for-new-expansion-because-he-wants-to-avoid-another-endwalker-style-delay)
- - [Skyrim mod adds Icewind Dale&#39;s starting town so you can return to the Forgotten Realms](https://www.pcgamer.com/skyrim-mod-adds-icewind-dales-starting-town-so-you-can-return-to-the-forgotten-realms)<!-- GAME:END -->
+ - [FF14 director says there&#39;s no firm release date for new expansion because he wants to avoid another Endwalker-style delay](https://www.pcgamer.com/ff14-director-says-theres-no-firm-release-date-for-new-expansion-because-he-wants-to-avoid-another-endwalker-style-delay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
