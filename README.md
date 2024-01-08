@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube updates its cyberbullying policy to ban AI-generated content that &quot;realistically simulates&quot; deceased children or victims of crimes or deadly events &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240108/p26#a240108p26)
- - [OpenAI claims The New York Times tricked ChatGPT into copying its articles](https://www.theverge.com/2024/1/8/24030283/openai-nyt-lawsuit-fair-use-ai-copyright)
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [Apple insists to EU antitrust regulators that it runs five App Stores, not one](https://appleinsider.com/articles/24/01/08/apple-insists-to-eu-antitrust-regulators-that-it-runs-five-app-stores-not-one?utm_medium=rss)
+ - [Apple opening retail locations early on Feb. 2 for Apple Vision Pro demos](https://appleinsider.com/articles/24/01/08/apple-opening-retail-locations-early-on-feb-2-for-apple-vision-pro-demoes?utm_medium=rss)
+ - [This security camera’s 1.5-mile range is perfect for your sprawling mansion](https://www.theverge.com/2024/1/8/24030379/abode-edge-camera-long-range-facial-recognition-ai-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
