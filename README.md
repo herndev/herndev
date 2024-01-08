@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
  - ⏩ [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 👉 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)<!-- MEMES:END -->
 
 ---
 
