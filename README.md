@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I cried](http://9gag.com/gag/aPgE2QB)
- - ⏩ [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
- - 👉 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)<!-- MEMES:END -->
+ - 💣 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
+ - ⏩ [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
 
 ---
 
