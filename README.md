@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone survives fall from Alaska Airlines midair blowout](https://appleinsider.com/articles/24/01/08/iphone-survives-fall-from-alaska-airlines-midair-blowout?utm_medium=rss)
- - [What&#39;s On Netflix data: Netflix released about 130, or 16%, fewer original programs in 2023 than 2022, after a decade of increasing output &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240108/p6#a240108p6)
- - [McAfee unveils AI-powered tool to combat deepfake audio scams](https://appleinsider.com/articles/24/01/08/mcafee-unveils-ai-powered-tool-to-combat-deepfake-audio-scams?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon, Google, and Microsoft received licenses to establish HQs in Riyadh, after the government planned to halt contracts to companies without regional HQs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240108/p8#a240108p8)
+ - [Sources: Nvidia plans to begin mass producing its chips designed for China, the H20, L20, and L2, in Q2 2024, after the original November 2023 goal was delayed &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p7#a240108p7)
+ - [iPhone survives fall from Alaska Airlines midair blowout](https://appleinsider.com/articles/24/01/08/iphone-survives-fall-from-alaska-airlines-midair-blowout?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
