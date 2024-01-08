@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - ⏩ [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
- - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
+ - 💣 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
+ - ⏩ [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
 
 ---
 
