@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ray tracing coming to Diablo 4 in March, shadows and reflections getting a makeover](https://www.pcgamer.com/ray-tracing-coming-to-diablo-4-in-march-shadows-and-reflections-getting-a-makeover)
- - [The Most Exciting TV Shows of 2024](https://kotaku.com/2024-tv-shows-fallout-avatar-house-dragon-curb-1851148673)
- - [Ex-Activision Blizzard exec’s lawsuit alleges he was laid off for being an ‘old white guy’](https://www.polygon.com/24029908/activision-blizzard-old-white-age-discrimiantion-lawsuit)<!-- GAME:END -->
+ - [Nvidia’s RTX 40 Super GPUs deliver more power without price hikes](https://www.polygon.com/24030072/nvidia-rtx-40-super-4070-ti-4080-specs-price-launch)
+ - [Suicide Squad Boss Downplays Live-Service Elements Of Obviously Live-Service Game](https://kotaku.com/suicide-squad-live-service-always-online-co-op-shooter-1851149041)
+ - [Acer gets in on the dual-4K action with new 57-inch mega monitor](https://www.pcgamer.com/acer-gets-in-on-the-dual-4k-action-with-new-57-inch-mega-monitor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
