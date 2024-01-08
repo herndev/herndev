@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
- - ⏩ [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 💣 [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)
+ - ⏩ [They are soulmates](http://9gag.com/gag/aVbp6jP)
  - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
 
 ---
