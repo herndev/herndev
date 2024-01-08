@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia’s RTX 40 Super GPUs deliver more power without price hikes](https://www.polygon.com/24030072/nvidia-rtx-40-super-4070-ti-4080-specs-price-launch)
- - [Suicide Squad Boss Downplays Live-Service Elements Of Obviously Live-Service Game](https://kotaku.com/suicide-squad-live-service-always-online-co-op-shooter-1851149041)
- - [Acer gets in on the dual-4K action with new 57-inch mega monitor](https://www.pcgamer.com/acer-gets-in-on-the-dual-4k-action-with-new-57-inch-mega-monitor)<!-- GAME:END -->
+ - [Nvidia’s AI-powered NPCs are getting better, but still sound uncanny](https://www.polygon.com/24030322/nvidia-ace-ai-npcs-convai-ces-2024)
+ - [Age of Empires developer confirms the game is mostly written in low-level Assembly code because &#39;we could scroll the screen and fill it with sprites as fast or faster&#39; than competitors like Starcraft &#39;even though we had twice as many pixels&#39;](https://www.pcgamer.com/age-of-empires-developer-confirms-the-game-is-mostly-written-in-low-level-assembly-code-because-we-could-scroll-the-screen-and-fill-it-with-sprites-as-fast-or-faster-than-competitors-like-starcraft-even-though-we-had-twice-as-many-pixels)
+ - [Xbox Insider Release Notes – Beta &lpar;2311.240104-1615&rpar;](https://news.xbox.com/en-us/2024/01/08/xbox-insider-release-notes-beta-2311-240104-1615/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
