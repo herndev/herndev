@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)
- - ⏩ [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 💣 [I cried](http://9gag.com/gag/aPgE2QB)
+ - ⏩ [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)
+ - 👉 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)<!-- MEMES:END -->
 
 ---
 
