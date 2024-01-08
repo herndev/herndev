@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia’s AI-powered NPCs are getting better, but still sound uncanny](https://www.polygon.com/24030322/nvidia-ace-ai-npcs-convai-ces-2024)
- - [Age of Empires developer confirms the game is mostly written in low-level Assembly code because &#39;we could scroll the screen and fill it with sprites as fast or faster&#39; than competitors like Starcraft &#39;even though we had twice as many pixels&#39;](https://www.pcgamer.com/age-of-empires-developer-confirms-the-game-is-mostly-written-in-low-level-assembly-code-because-we-could-scroll-the-screen-and-fill-it-with-sprites-as-fast-or-faster-than-competitors-like-starcraft-even-though-we-had-twice-as-many-pixels)
- - [Xbox Insider Release Notes – Beta &lpar;2311.240104-1615&rpar;](https://news.xbox.com/en-us/2024/01/08/xbox-insider-release-notes-beta-2311-240104-1615/)<!-- GAME:END -->
+ - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)
+ - [Five Nights At Freddy&#39;s Star Says Sequel Coming ASAP](https://kotaku.com/five-nights-at-freddys-fnaf-2-movie-sequel-release-date-1851149677)
+ - [Dead by Daylight&#39;s flashlight teaser has a lot of fans convinced that Alan Wake is on the way](https://www.pcgamer.com/dead-by-daylights-flashlight-teaser-has-a-lot-of-fans-convinced-that-alan-wake-is-on-the-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
