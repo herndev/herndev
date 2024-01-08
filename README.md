@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Spider-Man&#39;s MJ Face Model Asks Fans To Stop Stalking And Harassing Her](https://kotaku.com/spider-man-2-mj-face-actress-fans-harassment-stalking-1851149992)
  - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)
- - [Five Nights At Freddy&#39;s Star Says Sequel Coming ASAP](https://kotaku.com/five-nights-at-freddys-fnaf-2-movie-sequel-release-date-1851149677)
- - [Dead by Daylight&#39;s flashlight teaser has a lot of fans convinced that Alan Wake is on the way](https://www.pcgamer.com/dead-by-daylights-flashlight-teaser-has-a-lot-of-fans-convinced-that-alan-wake-is-on-the-way)<!-- GAME:END -->
+ - [Five Nights At Freddy&#39;s Star Says Sequel Coming ASAP](https://kotaku.com/five-nights-at-freddys-fnaf-2-movie-sequel-release-date-1851149677)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
