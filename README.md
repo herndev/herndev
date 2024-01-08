@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just leave this here](http://9gag.com/gag/adPGwMZ)
- - ⏩ [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
+ - 💣 [I am poor because my dad is poor.](http://9gag.com/gag/aPgEVgR)
+ - ⏩ [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
+ - 👉 [Guys only want one thing and it&#39;s awesome](http://9gag.com/gag/a04rDRd)<!-- MEMES:END -->
 
 ---
 
