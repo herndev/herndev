@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, Google, and Microsoft received licenses to establish HQs in Riyadh, after the government planned to halt contracts to companies without regional HQs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240108/p8#a240108p8)
- - [Sources: Nvidia plans to begin mass producing its chips designed for China, the H20, L20, and L2, in Q2 2024, after the original November 2023 goal was delayed &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p7#a240108p7)
- - [iPhone survives fall from Alaska Airlines midair blowout](https://appleinsider.com/articles/24/01/08/iphone-survives-fall-from-alaska-airlines-midair-blowout?utm_medium=rss)<!-- TECH:END -->
+ - [Mophie resurrects its battery case most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
+ - [Mophie’s Juice Pack is back for iPhones](https://www.theverge.com/2024/1/8/24027411/mophie-juice-pack-iphone-15-pro-max)
+ - [HP’s Omen Transcend 14 is a gaming laptop meant to do double duty as a normal one](https://www.theverge.com/2024/1/8/24026687/hp-omen-transcend-14-gaming-laptop-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
