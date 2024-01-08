@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chipolo &#39;Perfectly Imperfect&#39; campaign launches with limited-edition Find My trackers](https://appleinsider.com/articles/24/01/08/chipolo-perfectly-imperfect-campaign-launches-with-limited-edition-find-my-trackers?utm_medium=rss)
- - [Thread Group is finally fixing Thread border routers](https://www.theverge.com/2024/1/8/24028203/thread-group-fix-credential-sharing-thread-border-router)
- - [Clear 2 is a whimsical to-do list app a decade in the making](https://www.theverge.com/2024/1/8/24026950/clear-2-to-do-list-app-iphone-ipad)<!-- TECH:END -->
+ - [Twilio co-founder and CEO Jeff Lawson steps down as CEO and from the board, replaced by Khozema Shipchandler, amid slow growth and activist investor pressure &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240108/p14#a240108p14)
+ - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
