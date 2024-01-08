@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mui Board 2 reappears at CES 2024 with Matter support](https://appleinsider.com/articles/24/01/08/mui-board-2-reappears-at-ces-2024-with-matter-support?utm_medium=rss)
- - [Oclean X Ultra Toothbrush Offers Feedback on How Clean Your Teeth Are     - CNET](https://www.cnet.com/health/medical/oclean-x-ultra-toothbrush-offers-feedback-on-how-clean-your-teeth-are/#ftag=CAD590a51e)
- - [Carta says it is investigating an internal policy violation that affected Linear and two other companies, where someone &quot;on the cap table&quot; was contacted &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/240107/p10#a240107p10)<!-- TECH:END -->
+ - [j5create&#39;s new Thunderbolt 4 docking station supports 8K 60Hz video](https://appleinsider.com/articles/24/01/08/j5creates-new-thunderbolt-4-docking-station-supports-8k-60hz-video?utm_medium=rss)
+ - [Samsung Teases Monitor Designed to Look Good in Multiples, Jumps into 3D Monitors     - CNET](https://www.cnet.com/tech/computing/samsung-teases-monitor-designed-to-look-good-in-multiples-jumps-into-3d-monitors/#ftag=CAD590a51e)
+ - [Samsung QLED and 8K TVs Amp Up Style, Picture and Game Bar     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-qled-and-8k-tvs-amp-up-style-picture-and-game-bar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
