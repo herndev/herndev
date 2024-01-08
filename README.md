@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Larian CEO and founder Swen Vincke thinks he&#39;s cracked the first act of his next game, but &#39;it&#39;s not what you think and this is not an teaser for an announcement&#39;](https://www.pcgamer.com/larian-ceo-and-founder-swen-vincke-thinks-hes-cracked-the-first-act-of-his-next-game-but-its-not-what-you-think-and-this-is-not-an-teaser-for-an-announcement)
  - [No surprises here: Succession, Oppenheimer, The Bear dominate 2024 Golden Globes](https://www.polygon.com/24029622/golden-globes-2024-complete-winners-nominee-list-succession-oppenheimer)
- - [Wordle today: Hint and answer #933 for Monday, January 8](https://www.pcgamer.com/wordle-today-answer-933-january-8)
- - [Samsung&#39;s 990 Evo SSD supports PCIe 4.0 x4 and 5.0 x2 and I hope it&#39;s the first of many hybrid solutions](https://www.pcgamer.com/samsungs-990-evo-ssd-supports-pcie-40-x4-and-50-x2-and-i-hope-its-the-first-of-many-hybrid-solutions)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #933 for Monday, January 8](https://www.pcgamer.com/wordle-today-answer-933-january-8)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
