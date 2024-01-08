@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple insists to EU antitrust regulators that it runs five App Stores, not one](https://appleinsider.com/articles/24/01/08/apple-insists-to-eu-antitrust-regulators-that-it-runs-five-app-stores-not-one?utm_medium=rss)
- - [Apple opening retail locations early on Feb. 2 for Apple Vision Pro demos](https://appleinsider.com/articles/24/01/08/apple-opening-retail-locations-early-on-feb-2-for-apple-vision-pro-demoes?utm_medium=rss)
- - [This security camera’s 1.5-mile range is perfect for your sprawling mansion](https://www.theverge.com/2024/1/8/24030379/abode-edge-camera-long-range-facial-recognition-ai-ces-2024)<!-- TECH:END -->
+ - [Authy is shutting down its desktop app](https://www.theverge.com/2024/1/8/24030477/authy-desktop-app-shutting-down)
+ - [In a filing and internal memo, Unity Software says it plans to lay off ~25% of its workforce, or 1,800 jobs, by the end of March, its largest layoff ever &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240108/p27#a240108p27)
+ - [Sennheiser announces Momentum 4 earbuds and revamped sport buds with health sensors](https://www.theverge.com/2024/1/8/24024989/sennheiser-momentum-4-sport-accentum-plus-price-release-date-features-heart-rate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
