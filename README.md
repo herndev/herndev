@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hey guys. I&#39;m a medic from Czechia in Ukraine. Training soldiers, evacuating the wounded ones. Support Ukraine.](http://9gag.com/gag/axoLwVK)
- - ⏩ [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
- - 👉 [Asked my grandfather the type of music he listened to at my age, he told me to search this song and now I&#39;m hooked.](http://9gag.com/gag/aoKvw7n)<!-- MEMES:END -->
+ - 💣 [That laugh tho...](http://9gag.com/gag/aXny3bP)
+ - ⏩ [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 👉 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)<!-- MEMES:END -->
 
 ---
 
