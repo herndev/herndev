@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
- - ⏩ [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - 👉 [As a german I agree](http://9gag.com/gag/aWGr5b4)<!-- MEMES:END -->
+ - 💣 [Ass is Ass](http://9gag.com/gag/axoLK3n)
+ - ⏩ [That laugh tho...](http://9gag.com/gag/aXny3bP)
+ - 👉 [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)<!-- MEMES:END -->
 
 ---
 
