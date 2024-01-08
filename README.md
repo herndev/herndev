@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buy or rent &#39;Napoleon&#39; before its Apple TV+ debut](https://appleinsider.com/articles/24/01/08/buy-or-rent-napoleon-before-its-apple-tv-debut?utm_medium=rss)
- - [Getty Images and Nvidia launch Generative AI by iStock, a text-to-image service that generates stock photos and is aimed at SMBs &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240108/p19#a240108p19)
- - [NVIDIA launches beastly GeForce RTX 40 Super graphics cards](https://www.androidauthority.com/nvidia-geforce-rtx-40-super-3400822/)<!-- TECH:END -->
+ - [Roborock upgrades flagship robotic vacuum with Matter support &amp; more](https://appleinsider.com/articles/24/01/08/roborock-upgrades-flagship-robotic-vacuum-with-matter-support-more?utm_medium=rss)
+ - [The Pixel’s excellent Call Screening could finally come to more countries](https://www.androidauthority.com/google-pixel-call-screening-more-countries-india-3400823/)
+ - [Early CES releases, new version of Thread, &amp; listener questions on HomeKit Insider](https://appleinsider.com/articles/24/01/08/early-ces-releases-new-version-of-thread-listener-questions-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
