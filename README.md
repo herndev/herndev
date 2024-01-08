@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appliance makers are teaming up to reduce your electricity usage — and save you cash](https://www.theverge.com/2024/1/8/24027381/samsung-lg-ge-launch-new-connected-energy-management-interface)
- - [Volkswagen says it’s putting ChatGPT in its cars for ‘enriching conversations’](https://www.theverge.com/2024/1/8/24027112/volkswagen-chatgpt-openai-voice-assistant-cars-ces)
- - [BMW turns inward for CES, announcing new gaming, streaming, AR, and AI features](https://www.theverge.com/2024/1/8/24024146/bmw-ces-2024-gaming-streaming-ar-alexa-teleoperate)<!-- TECH:END -->
+ - [Buy or rent &#39;Napoleon&#39; before its Apple TV+ debut](https://appleinsider.com/articles/24/01/08/buy-or-rent-napoleon-before-its-apple-tv-debut?utm_medium=rss)
+ - [Getty Images and Nvidia launch Generative AI by iStock, a text-to-image service that generates stock photos and is aimed at SMBs &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240108/p19#a240108p19)
+ - [NVIDIA launches beastly GeForce RTX 40 Super graphics cards](https://www.androidauthority.com/nvidia-geforce-rtx-40-super-3400822/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
