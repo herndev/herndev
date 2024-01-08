@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Max’s live sports add-on will be free for a few more months](https://www.theverge.com/2024/1/5/24027269/max-live-sports-add-on-free-few-more-months)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Podcast downloads are down &lpar;again&rpar; thanks to iOS 17](https://www.theverge.com/2024/1/5/24027214/podcast-apple-ios-17-downloads-iheart-gimlet)<!-- TECH:END -->
+ - [Govee is adding AI to lights with the new AI Lightning Bot on the Sync Box Kit 2](https://www.androidauthority.com/govee-sync-box-kit-2-ai-lighting-bot-3400121/)
+ - [Music industry insiders reflect on the waning influence of popular, human-curated Spotify playlists, as the company shifts towards AI-driven personalization &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240107/p9#a240107p9)
+ - [The horror and allure of the diagonal monitor](https://www.theverge.com/2024/1/7/24029104/linux-diagonal-monitor-display-rotation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
