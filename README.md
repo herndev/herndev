@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ass is Ass](http://9gag.com/gag/axoLK3n)
- - ⏩ [That laugh tho...](http://9gag.com/gag/aXny3bP)
- - 👉 [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)<!-- MEMES:END -->
+ - 💣 [That laugh tho...](http://9gag.com/gag/aXny3bP)
+ - ⏩ [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)
+ - 👉 [Science has gone too far](http://9gag.com/gag/a2K3gPe)<!-- MEMES:END -->
 
 ---
 
