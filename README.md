@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock upgrades flagship robotic vacuum with Matter support &amp; more](https://appleinsider.com/articles/24/01/08/roborock-upgrades-flagship-robotic-vacuum-with-matter-support-more?utm_medium=rss)
- - [The Pixel’s excellent Call Screening could finally come to more countries](https://www.androidauthority.com/google-pixel-call-screening-more-countries-india-3400823/)
- - [Early CES releases, new version of Thread, &amp; listener questions on HomeKit Insider](https://appleinsider.com/articles/24/01/08/early-ces-releases-new-version-of-thread-listener-questions-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [JBL&#39;s Live Buds 3 range adds a color display to the charging case](https://appleinsider.com/articles/24/01/08/jbls-live-buds-3-range-adds-a-color-display-to-the-charging-case?utm_medium=rss)
+ - [Source: the US will release a rule soon, first proposed in 2022, requiring some independent contractors be considered employees, which may upend the gig economy &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p25#a240108p25)
+ - [Duolingo cuts 10% of its contractors, partly attributing the move to its use of more AI to create app content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240108/p24#a240108p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
