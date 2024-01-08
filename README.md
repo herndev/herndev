@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twilio co-founder and CEO Jeff Lawson steps down as CEO and from the board, replaced by Khozema Shipchandler, amid slow growth and activist investor pressure &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240108/p14#a240108p14)
- - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)<!-- TECH:END -->
+ - [Appliance makers are teaming up to reduce your electricity usage — and save you cash](https://www.theverge.com/2024/1/8/24027381/samsung-lg-ge-launch-new-connected-energy-management-interface)
+ - [Volkswagen says it’s putting ChatGPT in its cars for ‘enriching conversations’](https://www.theverge.com/2024/1/8/24027112/volkswagen-chatgpt-openai-voice-assistant-cars-ces)
+ - [BMW turns inward for CES, announcing new gaming, streaming, AR, and AI features](https://www.theverge.com/2024/1/8/24024146/bmw-ces-2024-gaming-streaming-ar-alexa-teleoperate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
