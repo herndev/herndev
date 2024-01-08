@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
- - ⏩ [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 💣 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
+ - ⏩ [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
+ - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
 
 ---
 
