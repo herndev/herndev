@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows Copilot doesn&#39;t get an invite to the party as HP goes all-in on AI with its 2024 Spectre and Omen laptop range](https://www.pcgamer.com/windows-copilot-doesnt-get-an-invite-to-the-party-as-hp-goes-all-in-on-ai-with-its-2024-spectre-and-omen-laptop-range)
- - [Final Fantasy 14: Dawntrail&#39;s second-half switcheroo to cyberpunk glory has me hyped for its story again](https://www.pcgamer.com/final-fantasy-14-dawntrails-second-half-rugpull-into-cyberpunk-glory-has-me-hyped-for-its-story-again)
- - [Larian CEO and founder Swen Vincke thinks he&#39;s cracked the first act of his next game, but &#39;it&#39;s not what you think and this is not an teaser for an announcement&#39;](https://www.pcgamer.com/larian-ceo-and-founder-swen-vincke-thinks-hes-cracked-the-first-act-of-his-next-game-but-its-not-what-you-think-and-this-is-not-an-teaser-for-an-announcement)<!-- GAME:END -->
+ - [Former Activision-Blizzard employee sues the company for none of the reasons you&#39;d expect by now, accuses Bobby Kotick of saying it had &#39;too many old white guys&#39;](https://www.pcgamer.com/former-activision-blizzard-employee-sues-the-company-for-none-of-the-reasons-youd-expect-by-now-accuses-bobby-kotick-of-saying-it-had-too-many-old-white-guys)
+ - [Watch the AMD CES 2024 livestream right here: new APUs, GPUs, and 3D chips expected](https://www.pcgamer.com/watch-amd-ces-2024-livestream)
+ - [Wizards of the Coast admits using AI art after banning AI art](https://www.polygon.com/24029754/wizards-coast-magic-the-gathering-ai-art-marketing-image)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
