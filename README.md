@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL&#39;s Live Buds 3 range adds a color display to the charging case](https://appleinsider.com/articles/24/01/08/jbls-live-buds-3-range-adds-a-color-display-to-the-charging-case?utm_medium=rss)
- - [Source: the US will release a rule soon, first proposed in 2022, requiring some independent contractors be considered employees, which may upend the gig economy &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p25#a240108p25)
- - [Duolingo cuts 10% of its contractors, partly attributing the move to its use of more AI to create app content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240108/p24#a240108p24)<!-- TECH:END -->
+ - [YouTube updates its cyberbullying policy to ban AI-generated content that &quot;realistically simulates&quot; deceased children or victims of crimes or deadly events &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240108/p26#a240108p26)
+ - [OpenAI claims The New York Times tricked ChatGPT into copying its articles](https://www.theverge.com/2024/1/8/24030283/openai-nyt-lawsuit-fair-use-ai-copyright)
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
