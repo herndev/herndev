@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - ⏩ [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 👉 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)<!-- MEMES:END -->
+ - 💣 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - ⏩ [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
+ - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
 
 ---
 
