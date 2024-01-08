@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - ⏩ [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
- - 👉 [I just leave this here](http://9gag.com/gag/adPGwMZ)<!-- MEMES:END -->
+ - 💣 [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)
+ - ⏩ [That laugh tho...](http://9gag.com/gag/aXny3bP)
+ - 👉 [What magic?](http://9gag.com/gag/aeQnqN5)<!-- MEMES:END -->
 
 ---
 
