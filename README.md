@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the internet reshaped itself around Google&#39;s algorithms, including by using SEO tricks, and the company&#39;s role in many websites now using similar designs &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240109/p3#a240109p3)
- - [Hisense has new Mini LED TVs for 2024, including a massive 110-inch TV](https://www.androidauthority.com/hisense-2024-uled-mini-led-tv-3401209/)
- - [Spotify Wrapped not showing up? Here’s how you can try to fix it](https://www.androidauthority.com/spotify-wrapped-not-showing-up-3400755/)<!-- TECH:END -->
+ - [In a November 2023 appeal, Apple objected to EU&#39;s DMA designation of all App Stores as a single service, iOS interoperability, and iMessage NIICS designation &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240109/p5#a240109p5)
+ - [Beijing&#39;s judicial bureau says a state-backed institution cracked Apple&#39;s AirDrop to identify message senders, and police found multiple suspects via the method &lpar;Bloomberg&rpar;](http://www.techmeme.com/240109/p4#a240109p4)
+ - [Tax Season 2024: How to Create an Online IRS Account     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-how-to-create-an-online-irs-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
