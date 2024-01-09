@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 designer totally gets it if you were overwhelmed by the shift to the game&#39;s 3rd act, and don&#39;t worry: it&#39;ll be &#39;less drastic&#39; in future games](https://www.pcgamer.com/baldurs-gate-3-designer-totally-gets-it-if-you-were-overwhelmed-by-the-shift-to-the-games-3rd-act-and-dont-worry-itll-be-less-drastic-in-future-games)
- - [&#39;World&#39;s first gaming processor with an AI accelerator&#39;: Intel&#39;s Arrow Lake will be coming to desktop PCs in the second half of this year](https://www.pcgamer.com/worlds-first-gaming-processor-with-an-ai-accelerator-intels-arrow-lake-will-be-coming-to-desktop-pcs-in-the-second-half-of-this-year)
- - [We didn&#39;t realise Lenovo&#39;s solar/mechanical charging peripherals were a wind up, but they absolutely are](https://www.pcgamer.com/we-didnt-realise-lenovos-solarmechanical-charging-peripherals-were-a-wind-up-but-they-absolutely-are)<!-- GAME:END -->
+ - [Intel&#39;s Lunar Lake is on track for a 2024 appearance, along with significant IPC gains in the CPU core and three times more AI performance from GPU and NPU](https://www.pcgamer.com/intels-lunar-lake-is-on-track-for-a-2024-appearance-along-with-significant-ipc-gains-in-the-cpu-core-and-three-times-more-ai-performance-from-gpu-and-npu)
+ - [MSI demos a monitor that gives you an AI helping hand in League of Legends and it might stretch the boundaries of what&#39;s considered fair](https://www.pcgamer.com/msi-demos-a-monitor-that-gives-you-an-ai-helping-hand-in-league-of-legends-and-it-might-stretch-the-boundaries-of-whats-considered-fair)
+ - [Demon&#39;s Souls modder climbs 762 rungs into the history books using a ladder the height of the real-life Empire State Building](https://www.pcgamer.com/demons-souls-modder-climbs-762-rungs-into-the-history-books-using-a-ladder-the-height-of-the-real-life-empire-state-building)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
