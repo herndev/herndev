@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Microsoft found a potential new battery material using AI](https://www.theverge.com/24027031/microsoft-new-solid-state-battery-material-ai)
- - [Amazon devices just got an open alternative to Chromecast, AirPlay](https://www.androidauthority.com/amazon-matter-casting-3401302/)
- - [Apple is forcing devs to avoid calling Vision Pro apps VR, AR, MR, or XR](https://www.androidauthority.com/apple-vision-pro-terms-3401288/)<!-- TECH:END -->
+ - [Telly’s free ad-supported TV will use ChatGPT for its voice assistant](https://www.theverge.com/2024/1/9/24031322/telly-free-tv-chatgpt-ai-chatbot-zoom-watch-party)
+ - [Lamborghini will measure your heart rate as you burn rubber around the track](https://www.theverge.com/2024/1/9/24030726/lamborghini-data-track-record-biometrics-heart-rate-ces)
+ - [Satechi’s new Qi2 charging stands are stylish and storable](https://www.theverge.com/2024/1/9/24022384/satechi-wireless-charging-stand-qi2-15w-price-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
