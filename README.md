@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mayo Clinic partners with Cerebras to use Cerebras&#39; computing chips and systems to develop its own AI models based on anonymized medical records and data &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240108/p41#a240108p41)
- - [Sony teased a ‘spatial’ VR headset with a smart control ring](https://www.theverge.com/2024/1/8/24030930/sony-vr-spatial-smart-control-ring-ces)
- - [Razer’s new light bar is a mullet for your monitor](https://www.theverge.com/2024/1/8/24025923/razer-aether-matter-monitor-light-bar-rgb-high-cri-ces-2024)<!-- TECH:END -->
+ - [OtterBox leads green tech accessories with cactus leather iPhone 15 cases](https://appleinsider.com/articles/24/01/09/otterbox-leads-green-tech-accessories-with-cactus-leather-iphone-15-cases?utm_medium=rss)
+ - [Anker’s new Qi2 chargers deliver MagSafe speed without MagSafe pricing](https://www.theverge.com/24027019/anker-qi2-hands-on-magsafe-speed)
+ - [Anker’s flagship power station can charge an EV and make homes energy independent](https://www.theverge.com/2024/1/8/24026404/anker-solix-emergency-home-backup-power-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
