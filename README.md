@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok restricts Creative Center, used by advertisers to track hashtags, after it was used by critics to scrutinize content on the Israel-Hamas war and more &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240108/p45#a240108p45)
- - [Sources: Elliott Management has built a ~$1B stake in Match Group and plans to push the online dating company to take steps to boost its languishing stock &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240108/p44#a240108p44)
- - [ByteDance says it is in talks with multiple prospective buyers, including Tencent, to sell its Nuverse gaming unit as part of a plan to exit the gaming industry &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240108/p43#a240108p43)<!-- TECH:END -->
+ - [Filing: JD-backed Dada Nexus is investigating &quot;suspicious practices&quot;, including a ~$140M overstatement of revenue and costs in 2023, triggering a 46% stock dive &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240108/p46#a240108p46)
+ - [MSI&#39;s Claw Gaming Handheld Is a Sign of Steam Decks To Come     - CNET](https://www.cnet.com/tech/gaming/msis-claw-gaming-handheld-is-a-sign-of-steam-decks-to-come/#ftag=CAD590a51e)
+ - [TikTok restricts Creative Center, used by advertisers to track hashtags, after it was used by critics to scrutinize content on the Israel-Hamas war and more &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240108/p45#a240108p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
