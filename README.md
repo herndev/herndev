@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - ⏩ [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 💣 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)
+ - ⏩ [Or it&#39;d make Steve...](http://9gag.com/gag/a2K33y1)
  - 👉 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)<!-- MEMES:END -->
 
 ---
