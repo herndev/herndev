@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Predictable](http://9gag.com/gag/aQELLPq)
- - ⏩ [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 👉 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)<!-- MEMES:END -->
+ - 💣 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - ⏩ [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
+ - 👉 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)<!-- MEMES:END -->
 
 ---
 
