@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
- - ⏩ [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
+ - 💣 [Every strong nation can be defeated if you can convince them, they are not under attack](http://9gag.com/gag/az2WpLN)
+ - ⏩ [In the zone](http://9gag.com/gag/a04ryOn)
+ - 👉 [Unveiling of the newest Spanish train](http://9gag.com/gag/awZEEz1)<!-- MEMES:END -->
 
 ---
 
