@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BMW&#39;s latest brilliant microtransaction idea: Let them play videogames](https://www.pcgamer.com/bmws-latest-brilliant-microtransaction-idea-let-them-play-videogames)
- - [Where to find Peyote Plants in GTA Online](https://www.pcgamer.com/gta-online-peyote-plant-locations)
- - [Xbox January Showcase Will Show First Indiana Jones Gameplay](https://kotaku.com/xbox-developer-direct-january-2023-indiana-jones-1851151880)<!-- GAME:END -->
+ - [The Mandalorian and Grogu will star in Star Wars’ next movie](https://www.polygon.com/24031630/star-wars-movie-mandalorian-grogu-baby-yoda-filoni-favreau)
+ - [&#39;This game means more to me than any other&#39;: The voice of Final Fantasy 14: Dawntrail&#39;s first hrothgar lady has been playing since before the game&#39;s 2013 revamp](https://www.pcgamer.com/this-game-means-more-to-me-than-any-other-the-voice-of-final-fantasy-14-dawntrails-first-hrothgar-lady-has-been-playing-since-before-the-games-2013-revamp)
+ - [Here’s the official slate of upcoming Star Wars movies and TV](https://www.polygon.com/star-wars/23672528/star-wars-movies-tv-schedule-calendar-upcoming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
