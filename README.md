@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)
- - ⏩ [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)
- - 👉 [When you are sick and your sisters takes care of you](http://9gag.com/gag/aYV350N)<!-- MEMES:END -->
+ - ⏩ [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
+ - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
 
 ---
 
