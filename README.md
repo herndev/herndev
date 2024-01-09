@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Eevee be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24029996/can-eevee-be-shiny-vaporeon-jolteon-flareon-espeon-umbreon-leafeon-glaceon-sylveon)
  - [Wordle today: Hint and answer #934 for Tuesday, January 9](https://www.pcgamer.com/wordle-today-answer-934-january-9)
- - [Nvidia&#39;s G-Sync Pulsar hopes to banish a form of motion blur that&#39;s plague PC gaming for years](https://www.pcgamer.com/nvidias-g-sync-pulsar-hopes-to-banish-a-form-of-motion-blur-thats-plague-pc-gaming-for-years)
- - [Nvidia announces G-Sync is coming to GeForce Now and it works with any VRR monitor](https://www.pcgamer.com/nvidia-announces-g-sync-is-coming-to-geforce-now-and-it-works-with-any-vrr-monitor)<!-- GAME:END -->
+ - [Nvidia&#39;s G-Sync Pulsar hopes to banish a form of motion blur that&#39;s plague PC gaming for years](https://www.pcgamer.com/nvidias-g-sync-pulsar-hopes-to-banish-a-form-of-motion-blur-thats-plague-pc-gaming-for-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
