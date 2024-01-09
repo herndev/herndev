@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a November 2023 appeal, Apple objected to EU&#39;s DMA designation of all App Stores as a single service, iOS interoperability, and iMessage NIICS designation &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240109/p5#a240109p5)
- - [Beijing&#39;s judicial bureau says a state-backed institution cracked Apple&#39;s AirDrop to identify message senders, and police found multiple suspects via the method &lpar;Bloomberg&rpar;](http://www.techmeme.com/240109/p4#a240109p4)
- - [Tax Season 2024: How to Create an Online IRS Account     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-how-to-create-an-online-irs-account/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple releases new visionOS developer guidelines, asking developers to refer to Apple Vision Pro apps as &quot;spatial computing apps&quot;, not AR, VR, XR, or MR apps &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240109/p9#a240109p9)
+ - [Alogic launches new MagSafe battery pack &amp; larger Clarity monitors](https://appleinsider.com/articles/24/01/09/alogic-launches-new-magsafe-battery-pack-larger-clarity-monitors?utm_medium=rss)
+ - [Netflix defeats a shareholder lawsuit over accusations of hiding the impact of account sharing; Netflix lost ~50% of its value in 2022 after growth warnings &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240109/p8#a240109p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
