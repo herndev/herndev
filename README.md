@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
- - ⏩ [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 👉 [Terrifying](http://9gag.com/gag/avQMMNM)<!-- MEMES:END -->
+ - 💣 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
+ - ⏩ [The wait](http://9gag.com/gag/agoDWev)
+ - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
 
 ---
 
