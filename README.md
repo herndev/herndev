@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
- - [You Can Snag Resident Evil 4 For Just $30 On PS5 Right Now](https://kotaku.com/resident-evil-4-remake-sale-best-buy-amazon-1851152794)
- - [This year I want to touch more grass](https://www.polygon.com/24030580/new-year-resolution-touch-more-grass-chronic-pain-exercise)<!-- GAME:END -->
+ - [Kotaku Asks: What Do You Want To See In The Mandalorian And Grogu?](https://kotaku.com/star-wars-movie-mandalorian-grogu-lucasfilm-disney-1851153209)
+ - [How to complete Constellation Pair and unlock Wish-Keeper Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation)
+ - [Helldivers 2 confirms crossplay and pleasingly modest system requirements](https://www.pcgamer.com/helldivers-2-confirms-crossplay-and-pleasingly-modest-system-requirements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
