@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: crypto and digital payments companies paid $5.8B in fines in 2023, including Binance&#39;s $4.3B, more than the $835M paid by TradFi companies, a first &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p11#a240109p11)
- - [Ming-Chi Kuo: Investors should be cautious about Apple Vision Pro launch hype](https://appleinsider.com/articles/24/01/09/ming-chi-kuo-investors-should-be-cautious-about-apple-vision-pro-launch-hype?utm_medium=rss)
- - [Apple has designed a MagSafe gimbal camera mount for iPhones](https://appleinsider.com/articles/24/01/09/apple-has-designed-a-magsafe-gimbal-camera-mount-for-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [Anker ships its Qi2-enabled MagGo charging accessories at CES 2024](https://appleinsider.com/articles/24/01/09/anker-ships-its-qi2-enabled-maggo-charging-accessories-at-ces-2024?utm_medium=rss)
+ - [Chipolo &#39;Perfectly Imperfect&#39; campaign launches with limited-edition Find My trackers](https://appleinsider.com/articles/24/01/08/chipolo-perfectly-imperfect-campaign-launches-with-limited-edition-find-my-trackers?utm_medium=rss)
+ - [GoalZero reveals three new portable power stations and a fridge at CES](https://appleinsider.com/articles/24/01/08/goalzero-reveals-three-new-portable-power-stations-and-a-fridge-at-ces?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
