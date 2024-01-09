@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mandalorian and Grogu will star in Star Wars’ next movie](https://www.polygon.com/24031630/star-wars-movie-mandalorian-grogu-baby-yoda-filoni-favreau)
- - [&#39;This game means more to me than any other&#39;: The voice of Final Fantasy 14: Dawntrail&#39;s first hrothgar lady has been playing since before the game&#39;s 2013 revamp](https://www.pcgamer.com/this-game-means-more-to-me-than-any-other-the-voice-of-final-fantasy-14-dawntrails-first-hrothgar-lady-has-been-playing-since-before-the-games-2013-revamp)
- - [Here’s the official slate of upcoming Star Wars movies and TV](https://www.polygon.com/star-wars/23672528/star-wars-movies-tv-schedule-calendar-upcoming)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Omega &lpar;2311.240104-1615&rpar;](https://news.xbox.com/en-us/2024/01/09/xbox-insider-release-notes-omega-2311-240104-1615/)
+ - [Xbox Insider Release Notes – Delta &lpar;2311.240104-1615&rpar;](https://news.xbox.com/en-us/2024/01/09/xbox-insider-release-notes-delta-2311-240104-1615/)
+ - [The flashlight did not lie: Alan Wake is coming to Dead by Daylight as a new survivor](https://www.pcgamer.com/the-flashlight-did-not-lie-alan-wake-is-coming-to-dead-by-daylight-as-a-new-survivor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
