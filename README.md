@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: JD-backed Dada Nexus is investigating &quot;suspicious practices&quot;, including a ~$140M overstatement of revenue and costs in 2023, triggering a 46% stock dive &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240108/p46#a240108p46)
- - [MSI&#39;s Claw Gaming Handheld Is a Sign of Steam Decks To Come     - CNET](https://www.cnet.com/tech/gaming/msis-claw-gaming-handheld-is-a-sign-of-steam-decks-to-come/#ftag=CAD590a51e)
- - [TikTok restricts Creative Center, used by advertisers to track hashtags, after it was used by critics to scrutinize content on the Israel-Hamas war and more &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240108/p45#a240108p45)<!-- TECH:END -->
+ - [A look at the rising subscription prices of dating apps as competition intensifies and growth slows down; data.ai: consumers spent $5B+ on dating apps in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p1#a240109p1)
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Samsung’s new two-way flip foldable may be the future of the Galaxy Z Flip line](https://www.androidauthority.com/samsung-in-out-flip-foldable-phone-3401155/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
