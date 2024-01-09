@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Stardew Valley contributor is making a new life sim set in a city, and it&#39;s already packed with little features new to the genre](https://www.pcgamer.com/former-stardew-valley-contributor-is-making-a-new-life-sim-set-in-a-city-and-its-already-packed-with-little-features-new-to-the-genre)
- - [OpenAI says it&#39;s &#39;impossible&#39; to create ChatGPT without copyrighted content, as if that&#39;s somehow a good excuse](https://www.pcgamer.com/openai-says-its-impossible-to-create-chatgpt-without-copyrighted-content-as-if-thats-somehow-a-good-excuse)
- - [Elon Musk spent the holidays grinding Diablo 4 and leeching XP from its most popular streamers](https://www.pcgamer.com/elon-musk-spent-the-holidays-grinding-diablo-4-and-leeching-xp-from-its-most-popular-streamers)<!-- GAME:END -->
+ - [A fan-made, 7-hour Portal 2 prequel just hit Steam for free and it&#39;s so good that I&#39;m sad Valve stopped making Portal all over again](https://www.pcgamer.com/a-fan-made-7-hour-portal-2-prequel-just-hit-steam-for-free-and-its-so-good-that-im-sad-valve-stopped-making-portal-all-over-again)
+ - [The demo for this upcoming horror-RPG-FPS built in the Doom engine might already be the most terrifying thing I play all year, and I can&#39;t wait for more](https://www.pcgamer.com/the-demo-for-this-upcoming-horror-rpg-fps-built-in-the-doom-engine-might-already-be-the-most-terrifying-thing-i-play-all-year-and-i-cant-wait-for-more)
+ - [Intel rounds out the Raptor Lake Refresh CPU lineup with a few cheaper chips though some are still basically Alder Lake](https://www.pcgamer.com/intel-rounds-out-the-raptor-lake-refresh-cpu-lineup-with-a-few-cheaper-chips-though-some-are-still-basically-alder-lake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
