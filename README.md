@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - ⏩ [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
- - 👉 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)<!-- MEMES:END -->
+ - 💣 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - ⏩ [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 👉 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)<!-- MEMES:END -->
 
 ---
 
