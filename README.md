@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku Asks: What Do You Want To See In The Mandalorian And Grogu?](https://kotaku.com/star-wars-movie-mandalorian-grogu-lucasfilm-disney-1851153209)
- - [How to complete Constellation Pair and unlock Wish-Keeper Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation)
- - [Helldivers 2 confirms crossplay and pleasingly modest system requirements](https://www.pcgamer.com/helldivers-2-confirms-crossplay-and-pleasingly-modest-system-requirements)<!-- GAME:END -->
+ - [Zenless Zone Zero could be my next Genshin Impact if it would just let me skip straight to the action](https://www.pcgamer.com/zenless-zone-zero-could-be-my-next-genshin-impact-if-it-would-just-let-me-skip-straight-to-the-action)
+ - [Final Fantasy 14&#39;s director says the Dawntrail expansion will be a &#39;second rebirth&#39; similar to A Realm Reborn](https://www.pcgamer.com/final-fantasy-14s-director-says-the-dawntrail-expansion-will-be-a-second-rebirth-similar-to-a-realm-reborn)
+ - [Fortnite’s FlowBerry Fizz: What It Is And How To Get It](https://kotaku.com/fortnite-flowberry-fizz-how-to-get-chapter-5-1851153310)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
