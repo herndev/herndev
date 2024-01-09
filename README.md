@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - ⏩ [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
- - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
+ - 💣 [Did she just...](http://9gag.com/gag/a1PyGLR)
+ - ⏩ [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
 
 ---
 
