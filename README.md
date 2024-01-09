@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telly’s free ad-supported TV will use ChatGPT for its voice assistant](https://www.theverge.com/2024/1/9/24031322/telly-free-tv-chatgpt-ai-chatbot-zoom-watch-party)
- - [Lamborghini will measure your heart rate as you burn rubber around the track](https://www.theverge.com/2024/1/9/24030726/lamborghini-data-track-record-biometrics-heart-rate-ces)
- - [Satechi’s new Qi2 charging stands are stylish and storable](https://www.theverge.com/2024/1/9/24022384/satechi-wireless-charging-stand-qi2-15w-price-ces-2024)<!-- TECH:END -->
+ - [Aukey highlights new Qi2 multi-chargers for Apple users at CES 2024](https://appleinsider.com/articles/24/01/09/aukey-highlights-new-qi2-multi-chargers-for-apple-users-at-ces-2024?utm_medium=rss)
+ - [ASUS now has its own crazy dual full screen laptop to compete against Lenovo](https://www.androidauthority.com/asus-zenbook-duo-3401199/)
+ - [New DisplayPort 2.1a standard will eventually let you use longer cables](https://appleinsider.com/articles/24/01/09/new-displayport-21a-standard-will-eventually-let-you-use-longer-cables?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
