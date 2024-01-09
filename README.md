@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aukey highlights new Qi2 multi-chargers for Apple users at CES 2024](https://appleinsider.com/articles/24/01/09/aukey-highlights-new-qi2-multi-chargers-for-apple-users-at-ces-2024?utm_medium=rss)
- - [ASUS now has its own crazy dual full screen laptop to compete against Lenovo](https://www.androidauthority.com/asus-zenbook-duo-3401199/)
- - [New DisplayPort 2.1a standard will eventually let you use longer cables](https://appleinsider.com/articles/24/01/09/new-displayport-21a-standard-will-eventually-let-you-use-longer-cables?utm_medium=rss)<!-- TECH:END -->
+ - [EcoFlow Delta Pro Ultra is a smart hybrid whole-house battery generator](https://appleinsider.com/articles/24/01/09/ecoflow-delta-pro-ultra-is-a-smart-hybrid-whole-house-battery-generator?utm_medium=rss)
+ - [In a first, the US FTC bans the data broker X-Mode Social, now known as Outlogic, from selling phone location data and orders it to delete collected data &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240109/p21#a240109p21)
+ - [L’Oréal’s futuristic hairdryer uses infrared light for smoother, more hydrated hair](https://www.theverge.com/2024/1/9/24028805/loreal-airlight-pro-beauty-tech-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
