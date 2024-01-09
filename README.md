@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs unveiled the first iPhone 17 years ago today](https://appleinsider.com/articles/19/01/09/when-apple-introduced-the-iphone-on-jan-9-2007-it-was-the-ultimate-computer-for-the-rest-of-us?utm_medium=rss)
- - [Monokei introduces sleek &amp; Mac-friendly mechanical keyboard at CES](https://appleinsider.com/articles/24/01/09/monokei-introduces-sleek-mac-friendly-mechanical-keyboard-at-ces?utm_medium=rss)
- - [NASA’s Artemis mission to take humans back to the Moon has been delayed until 2025](https://www.theverge.com/2024/1/9/24031869/nasa-artemis-ii-crewed-moon-mission-delayed-2025)<!-- TECH:END -->
+ - [Swapery might be the next best thing to a phone with a removable battery](https://www.androidauthority.com/swapery-charging-station-battery-pack-3401392/)
+ - [Pennsylvania government workers will start using ChatGPT in test program](https://www.theverge.com/2024/1/9/24031904/openai-pennsylvania-chatgpt-pilot-program-ai)
+ - [Asus revamps the Zenbook Duo with two 14&quot; 120Hz OLED displays and a detachable bluetooth keyboard; in the UK it will debut in late January for &amp;pound;1,699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240109/p25#a240109p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
