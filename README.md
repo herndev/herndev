@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - ⏩ [Predictable](http://9gag.com/gag/aQELLPq)
- - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
+ - 💣 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - ⏩ [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 👉 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)<!-- MEMES:END -->
 
 ---
 
