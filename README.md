@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker ships its Qi2-enabled MagGo charging accessories at CES 2024](https://appleinsider.com/articles/24/01/09/anker-ships-its-qi2-enabled-maggo-charging-accessories-at-ces-2024?utm_medium=rss)
- - [Chipolo &#39;Perfectly Imperfect&#39; campaign launches with limited-edition Find My trackers](https://appleinsider.com/articles/24/01/08/chipolo-perfectly-imperfect-campaign-launches-with-limited-edition-find-my-trackers?utm_medium=rss)
- - [GoalZero reveals three new portable power stations and a fridge at CES](https://appleinsider.com/articles/24/01/08/goalzero-reveals-three-new-portable-power-stations-and-a-fridge-at-ces?utm_medium=rss)<!-- TECH:END -->
+ - [How Microsoft found a potential new battery material using AI](https://www.theverge.com/24027031/microsoft-new-solid-state-battery-material-ai)
+ - [Amazon devices just got an open alternative to Chromecast, AirPlay](https://www.androidauthority.com/amazon-matter-casting-3401302/)
+ - [Apple is forcing devs to avoid calling Vision Pro apps VR, AR, MR, or XR](https://www.androidauthority.com/apple-vision-pro-terms-3401288/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
