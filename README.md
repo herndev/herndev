@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Wrapped not showing up? Here’s how you can try to fix it](https://www.androidauthority.com/spotify-wrapped-not-showing-up-3400755/)
- - [Learn a new language for less with this $149 Babbel lifetime subscription flash deal](https://appleinsider.com/articles/24/01/09/learn-a-new-language-for-less-with-this-149-babbel-lifetime-subscription-flash-deal?utm_medium=rss)
- - [Hyperkin has made a handheld Sega Genesis that plays original carts](https://www.theverge.com/2024/1/9/24029916/sega-genesis-emulator-cartridges-handheld-hyperkin-95-mega-drive)<!-- TECH:END -->
+ - [How the internet reshaped itself around Google&#39;s algorithms, including by using SEO tricks, and the company&#39;s role in many websites now using similar designs &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240109/p3#a240109p3)
+ - [Hisense has new Mini LED TVs for 2024, including a massive 110-inch TV](https://www.androidauthority.com/hisense-2024-uled-mini-led-tv-3401209/)
+ - [Spotify Wrapped not showing up? Here’s how you can try to fix it](https://www.androidauthority.com/spotify-wrapped-not-showing-up-3400755/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
