@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wi-Fi 7 era officially begins with the introduction of certified devices](https://www.pcgamer.com/the-wi-fi-7-era-officially-begins-with-the-introduction-of-certified-devices)
- - [A fan-made, 7-hour Portal 2 prequel just hit Steam for free and it&#39;s so good that I&#39;m sad Valve stopped making Portal all over again](https://www.pcgamer.com/a-fan-made-7-hour-portal-2-prequel-just-hit-steam-for-free-and-its-so-good-that-im-sad-valve-stopped-making-portal-all-over-again)
- - [The demo for this upcoming horror-RPG-FPS built in the Doom engine might already be the most terrifying thing I play all year, and I can&#39;t wait for more](https://www.pcgamer.com/the-demo-for-this-upcoming-horror-rpg-fps-built-in-the-doom-engine-might-already-be-the-most-terrifying-thing-i-play-all-year-and-i-cant-wait-for-more)<!-- GAME:END -->
+ - [Nvidia&#39;s G-Sync Pulsar hopes to banish a form of motion blur that&#39;s plague PC gaming for years](https://www.pcgamer.com/nvidias-g-sync-pulsar-hopes-to-banish-a-form-of-motion-blur-thats-plague-pc-gaming-for-years)
+ - [Nvidia announces G-Sync is coming to GeForce Now and it works with any VRR monitor](https://www.pcgamer.com/nvidia-announces-g-sync-is-coming-to-geforce-now-and-it-works-with-any-vrr-monitor)
+ - [Intel to roll out 14th Gen&#39;s game optimization software to older 12/13th Gen hybrid CPUs after all](https://www.pcgamer.com/intel-to-roll-out-14th-gens-game-optimization-software-to-older-1213th-gen-hybrid-cpus-after-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
