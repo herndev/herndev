@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s Lunar Lake is on track for a 2024 appearance, along with significant IPC gains in the CPU core and three times more AI performance from GPU and NPU](https://www.pcgamer.com/intels-lunar-lake-is-on-track-for-a-2024-appearance-along-with-significant-ipc-gains-in-the-cpu-core-and-three-times-more-ai-performance-from-gpu-and-npu)
- - [MSI demos a monitor that gives you an AI helping hand in League of Legends and it might stretch the boundaries of what&#39;s considered fair](https://www.pcgamer.com/msi-demos-a-monitor-that-gives-you-an-ai-helping-hand-in-league-of-legends-and-it-might-stretch-the-boundaries-of-whats-considered-fair)
- - [Demon&#39;s Souls modder climbs 762 rungs into the history books using a ladder the height of the real-life Empire State Building](https://www.pcgamer.com/demons-souls-modder-climbs-762-rungs-into-the-history-books-using-a-ladder-the-height-of-the-real-life-empire-state-building)<!-- GAME:END -->
+ - [Xbox to Present Developer_Direct, Returning on January 18](https://news.xbox.com/en-us/2024/01/09/xbox-developer-direct-2024/)
+ - [Cult anime Dorohedoro is getting a second season](https://www.polygon.com/24031369/dorohedoro-season-2-announcement)
+ - [Our Top Hopes And Predictions For Pokémon Gen 10](https://kotaku.com/pokemon-gen-10-predictions-switch-multiplayer-bugs-1851149874)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
