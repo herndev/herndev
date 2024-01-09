@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excellent police work...](http://9gag.com/gag/axoLrRL)
- - ⏩ [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 💣 [Every strong nation can be defeated if you can convince them, they are not under attack](http://9gag.com/gag/az2WpLN)
+ - ⏩ [Ass is Ass](http://9gag.com/gag/axoLK3n)
+ - 👉 [In the zone](http://9gag.com/gag/a04ryOn)<!-- MEMES:END -->
 
 ---
 
