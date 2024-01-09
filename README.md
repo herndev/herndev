@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero could be my next Genshin Impact if it would just let me skip straight to the action](https://www.pcgamer.com/zenless-zone-zero-could-be-my-next-genshin-impact-if-it-would-just-let-me-skip-straight-to-the-action)
- - [Final Fantasy 14&#39;s director says the Dawntrail expansion will be a &#39;second rebirth&#39; similar to A Realm Reborn](https://www.pcgamer.com/final-fantasy-14s-director-says-the-dawntrail-expansion-will-be-a-second-rebirth-similar-to-a-realm-reborn)
- - [Fortnite’s FlowBerry Fizz: What It Is And How To Get It](https://kotaku.com/fortnite-flowberry-fizz-how-to-get-chapter-5-1851153310)<!-- GAME:END -->
+ - [Since they can&#39;t play Light No Fire yet, Hello Games fans are keeping busy by drawing dragons](https://www.pcgamer.com/since-they-cant-play-light-no-fire-yet-hello-games-fans-are-keeping-busy-by-drawing-dragons)
+ - [Bethesda will finally show off Indiana Jones gameplay at the Developer Direct showcase happening later this month](https://www.pcgamer.com/bethesda-will-finally-show-off-indiana-jones-gameplay-at-the-developer-direct-showcase-happening-later-this-month)
+ - [Zenless Zone Zero could be my next Genshin Impact if it would just let me skip straight to the action](https://www.pcgamer.com/zenless-zone-zero-could-be-my-next-genshin-impact-if-it-would-just-let-me-skip-straight-to-the-action)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
