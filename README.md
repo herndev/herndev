@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OtterBox leads green tech accessories with cactus leather iPhone 15 cases](https://appleinsider.com/articles/24/01/09/otterbox-leads-green-tech-accessories-with-cactus-leather-iphone-15-cases?utm_medium=rss)
- - [Anker’s new Qi2 chargers deliver MagSafe speed without MagSafe pricing](https://www.theverge.com/24027019/anker-qi2-hands-on-magsafe-speed)
- - [Anker’s flagship power station can charge an EV and make homes energy independent](https://www.theverge.com/2024/1/8/24026404/anker-solix-emergency-home-backup-power-price-specs)<!-- TECH:END -->
+ - [TikTok restricts Creative Center, used by advertisers to track hashtags, after it was used by critics to scrutinize content on the Israel-Hamas war and more &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240108/p45#a240108p45)
+ - [Sources: Elliott Management has built a ~$1B stake in Match Group and plans to push the online dating company to take steps to boost its languishing stock &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240108/p44#a240108p44)
+ - [ByteDance says it is in talks with multiple prospective buyers, including Tencent, to sell its Nuverse gaming unit as part of a plan to exit the gaming industry &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240108/p43#a240108p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
