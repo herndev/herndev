@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Startup Rabbit Inc. debuts the R1, a $199 handheld AI device meant to be a virtual assistant to complete tasks without a smartphone, shipping in late March &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240109/p31#a240109p31)
- - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)
- - [Oops: Retailer accidentally posts Samsung Galaxy XCover 7 listing](https://www.androidauthority.com/samsung-galaxy-xcover-7-retailer-leak-3401480/)<!-- TECH:END -->
+ - [Former Apple VP of finance Saori Casey will become CFO at Sonos, replacing Eddie Lazarus, who will take on the new role of chief strategy officer &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240109/p36#a240109p36)
+ - [Q&amp;A with Adobe General Counsel and Chief Trust Officer Dana Rao on generative AI, IP issues, cloud security, the Figma deal, regulation, antitrust, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240109/p35#a240109p35)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
