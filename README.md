@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)
- - ⏩ [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
- - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
+ - ⏩ [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
 
 ---
 
