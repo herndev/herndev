@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASUS ROG Phone 8 announced: A gaming phone that doesn’t look like one](https://www.androidauthority.com/asus-rog-phone-8-3353396/)
  - [A look at the rising subscription prices of dating apps as competition intensifies and growth slows down; data.ai: consumers spent $5B+ on dating apps in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p1#a240109p1)
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Samsung’s new two-way flip foldable may be the future of the Galaxy Z Flip line](https://www.androidauthority.com/samsung-in-out-flip-foldable-phone-3401155/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
