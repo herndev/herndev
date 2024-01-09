@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former X VP of Trust and Safety Ella Irwin joins Stability AI to oversee its strategy and implementation of safeguarding around issues like child safety and IP &lpar;Ben Goggin/NBC News&rpar;](http://www.techmeme.com/240108/p38#a240108p38)
- - [Intel announces new Core 14th Gen chips, including the HX-series for high-end laptops and 18 chips for desktops, and the new Series 1 for thin-and-light PCs &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240108/p37#a240108p37)
- - [Asus announces two new 480Hz OLED monitors to cover 1080p and 1440p gaming](https://www.theverge.com/2024/1/8/24030834/asus-rog-oled-monitor-480hz-1080p-1440p-gaming)<!-- TECH:END -->
+ - [The Mayo Clinic partners with Cerebras to use Cerebras&#39; computing chips and systems to develop its own AI models based on anonymized medical records and data &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240108/p41#a240108p41)
+ - [Sony teased a ‘spatial’ VR headset with a smart control ring](https://www.theverge.com/2024/1/8/24030930/sony-vr-spatial-smart-control-ring-ces)
+ - [Razer’s new light bar is a mullet for your monitor](https://www.theverge.com/2024/1/8/24025923/razer-aether-matter-monitor-light-bar-rgb-high-cri-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
