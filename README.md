@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swapery might be the next best thing to a phone with a removable battery](https://www.androidauthority.com/swapery-charging-station-battery-pack-3401392/)
- - [Pennsylvania government workers will start using ChatGPT in test program](https://www.theverge.com/2024/1/9/24031904/openai-pennsylvania-chatgpt-pilot-program-ai)
- - [Asus revamps the Zenbook Duo with two 14&quot; 120Hz OLED displays and a detachable bluetooth keyboard; in the UK it will debut in late January for &amp;pound;1,699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240109/p25#a240109p25)<!-- TECH:END -->
+ - [Startup Rabbit Inc. debuts the R1, a $199 handheld AI device meant to be a virtual assistant to complete tasks without a smartphone, shipping in late March &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240109/p31#a240109p31)
+ - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)
+ - [Oops: Retailer accidentally posts Samsung Galaxy XCover 7 listing](https://www.androidauthority.com/samsung-galaxy-xcover-7-retailer-leak-3401480/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
