@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EcoFlow Delta Pro Ultra is a smart hybrid whole-house battery generator](https://appleinsider.com/articles/24/01/09/ecoflow-delta-pro-ultra-is-a-smart-hybrid-whole-house-battery-generator?utm_medium=rss)
- - [In a first, the US FTC bans the data broker X-Mode Social, now known as Outlogic, from selling phone location data and orders it to delete collected data &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240109/p21#a240109p21)
- - [L’Oréal’s futuristic hairdryer uses infrared light for smoother, more hydrated hair](https://www.theverge.com/2024/1/9/24028805/loreal-airlight-pro-beauty-tech-ces-2024)<!-- TECH:END -->
+ - [Steve Jobs unveiled the first iPhone 17 years ago today](https://appleinsider.com/articles/19/01/09/when-apple-introduced-the-iphone-on-jan-9-2007-it-was-the-ultimate-computer-for-the-rest-of-us?utm_medium=rss)
+ - [Monokei introduces sleek &amp; Mac-friendly mechanical keyboard at CES](https://appleinsider.com/articles/24/01/09/monokei-introduces-sleek-mac-friendly-mechanical-keyboard-at-ces?utm_medium=rss)
+ - [NASA’s Artemis mission to take humans back to the Moon has been delayed until 2025](https://www.theverge.com/2024/1/9/24031869/nasa-artemis-ii-crewed-moon-mission-delayed-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
