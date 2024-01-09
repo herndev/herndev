@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyperkin has made a handheld Sega Genesis that plays original carts](https://www.theverge.com/2024/1/9/24029916/sega-genesis-emulator-cartridges-handheld-hyperkin-95-mega-drive)
- - [Hyperkin is rereleasing the original Xbox ‘Controller S’ with Hall effect sticks and triggers](https://www.theverge.com/2024/1/9/24029712/original-xbox-controller-s-re-release-hyperkin-duchess)
- - [Huion’s new, cheaper drawing tablets take on Wacom’s Cintiq Pro lineup](https://www.theverge.com/2024/1/9/24025705/huion-kamvas-pro-27-19-display-drawing-tablets-release-price)<!-- TECH:END -->
+ - [Spotify Wrapped not showing up? Here’s how you can try to fix it](https://www.androidauthority.com/spotify-wrapped-not-showing-up-3400755/)
+ - [Learn a new language for less with this $149 Babbel lifetime subscription flash deal](https://appleinsider.com/articles/24/01/09/learn-a-new-language-for-less-with-this-149-babbel-lifetime-subscription-flash-deal?utm_medium=rss)
+ - [Hyperkin has made a handheld Sega Genesis that plays original carts](https://www.theverge.com/2024/1/9/24029916/sega-genesis-emulator-cartridges-handheld-hyperkin-95-mega-drive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
