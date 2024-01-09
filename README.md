@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox to Present Developer_Direct, Returning on January 18](https://news.xbox.com/en-us/2024/01/09/xbox-developer-direct-2024/)
- - [Cult anime Dorohedoro is getting a second season](https://www.polygon.com/24031369/dorohedoro-season-2-announcement)
- - [Our Top Hopes And Predictions For Pokémon Gen 10](https://kotaku.com/pokemon-gen-10-predictions-switch-multiplayer-bugs-1851149874)<!-- GAME:END -->
+ - [Old School RuneScape player beats worse odds than a lottery jackpot to become the second player in history to nab the game&#39;s rarest drop](https://www.pcgamer.com/old-school-runescape-player-beats-worse-odds-than-a-lottery-jackpot-to-become-the-second-player-in-history-to-nab-the-games-rarest-drop)
+ - [Xbox Developer Direct to show Indiana Jones, Hellblade 2 next week](https://www.polygon.com/xbox/24031418/xbox-developer-direct-jan-18-2023)
+ - [The $3,499 Apple Vision Pro finally has an actual release date, and will be on sale February 2 this year](https://www.pcgamer.com/the-dollar3499-apple-vision-pro-finally-has-an-actual-release-date-and-will-be-on-sale-february-2-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
