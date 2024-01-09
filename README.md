@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)
- - ⏩ [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
- - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
+ - 💣 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - ⏩ [Terrifying](http://9gag.com/gag/avQMMNM)
+ - 👉 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)<!-- MEMES:END -->
 
 ---
 
