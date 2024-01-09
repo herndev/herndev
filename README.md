@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - ⏩ [Bruh](http://9gag.com/gag/amAeEyo)
- - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
+ - 💣 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - ⏩ [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
+ - 👉 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)<!-- MEMES:END -->
 
 ---
 
