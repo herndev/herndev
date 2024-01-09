@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS ROG Phone 8 announced: A gaming phone that doesn’t look like one](https://www.androidauthority.com/asus-rog-phone-8-3353396/)
- - [A look at the rising subscription prices of dating apps as competition intensifies and growth slows down; data.ai: consumers spent $5B+ on dating apps in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p1#a240109p1)
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [Hyperkin has made a handheld Sega Genesis that plays original carts](https://www.theverge.com/2024/1/9/24029916/sega-genesis-emulator-cartridges-handheld-hyperkin-95-mega-drive)
+ - [Hyperkin is rereleasing the original Xbox ‘Controller S’ with Hall effect sticks and triggers](https://www.theverge.com/2024/1/9/24029712/original-xbox-controller-s-re-release-hyperkin-duchess)
+ - [Huion’s new, cheaper drawing tablets take on Wacom’s Cintiq Pro lineup](https://www.theverge.com/2024/1/9/24025705/huion-kamvas-pro-27-19-display-drawing-tablets-release-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
