@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s new 14th Gen mobile processors are here for 2024’s gaming laptops](https://www.theverge.com/2024/1/8/24029708/intel-14th-gen-mobile-processors-specs-release-date-pricing-ces-2024)
- - [Kia’s ‘Platform Beyond Vehicles’ is a family of modular electric minivans for businesses](https://www.theverge.com/2024/1/8/24028828/kia-platform-beyond-vehicle-pbv-modular-ev-ces)
- - [Alienware’s latest laptop has shrunken the butt](https://www.theverge.com/2024/1/8/24026555/dell-alienware-m16-r2-ces-2024-gaming-laptop)<!-- TECH:END -->
+ - [MSI unveils the Claw, a Windows-based gaming handheld powered by Intel&#39;s Meteor Lake Core Ultra processor with a 7&quot; 1080p 120Hz IPS display, starting at $699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240108/p31#a240108p31)
+ - [Sources: HPE is in advanced talks to buy Juniper Networks for about $13B, in a deal that could be announced as soon as this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240108/p30#a240108p30)
+ - [Samsung Galaxy S24 camera will double as a webcam, complete with AI enhancements](https://www.androidauthority.com/galaxy-s24-webcam-3401103/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
