@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
- - ⏩ [The wait](http://9gag.com/gag/agoDWev)
- - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
+ - 💣 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - ⏩ [Predictable](http://9gag.com/gag/aQELLPq)
+ - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
 
 ---
 
