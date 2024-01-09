@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - ⏩ [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
- - 👉 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)<!-- MEMES:END -->
+ - 💣 [There is only one thing worse than a rapist](http://9gag.com/gag/aWGrwB3)
+ - ⏩ [Thief slap](http://9gag.com/gag/aZD6eWX)
+ - 👉 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)<!-- MEMES:END -->
 
 ---
 
