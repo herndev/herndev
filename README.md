@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Omega &lpar;2311.240104-1615&rpar;](https://news.xbox.com/en-us/2024/01/09/xbox-insider-release-notes-omega-2311-240104-1615/)
- - [Xbox Insider Release Notes – Delta &lpar;2311.240104-1615&rpar;](https://news.xbox.com/en-us/2024/01/09/xbox-insider-release-notes-delta-2311-240104-1615/)
- - [The flashlight did not lie: Alan Wake is coming to Dead by Daylight as a new survivor](https://www.pcgamer.com/the-flashlight-did-not-lie-alan-wake-is-coming-to-dead-by-daylight-as-a-new-survivor)<!-- GAME:END -->
+ - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
+ - [You Can Snag Resident Evil 4 For Just $30 On PS5 Right Now](https://kotaku.com/resident-evil-4-remake-sale-best-buy-amazon-1851152794)
+ - [This year I want to touch more grass](https://www.polygon.com/24030580/new-year-resolution-touch-more-grass-chronic-pain-exercise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
