@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet now shows airline boarding passes on your smartwatch](https://www.androidauthority.com/google-wallet-wear-os-boarding-pass-3401887/)
- - [The US DOJ says SAP will pay over $220M to settle investigations into worldwide &quot;recidivist&quot; foreign bribery practices &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240110/p31#a240110p31)
- - [The TVs, monitors, and laptops of CES 2024](https://www.theverge.com/2024/1/10/24033247/ces-2024-tvs-monitors-laptops-vergecast-podcast)<!-- TECH:END -->
+ - [Sources: Amazon won&#39;t offer concessions to the European Commission in a bid to garner approval for its planned $1.4B takeover of iRobot &lpar;Politico&rpar;](http://www.techmeme.com/240110/p33#a240110p33)
+ - [The SEC says it is working with the FBI in investigating the false X post about spot bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240110/p32#a240110p32)
+ - [Thread border router fix should improve smart home networking](https://appleinsider.com/articles/24/01/10/thread-border-router-fix-should-improve-smart-home-networking?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
