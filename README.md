@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch is cutting one-third of its staff](https://www.theverge.com/2024/1/10/24032187/twitch-layoffs-video-game-industry)
- - [A US-Sanctioned Oligarch Ran Pro-Kremlin Ads on Facebook—Again](https://www.wired.com/story/ilan-shor-facebook-ads-moldova-elections/)
- - [Internal memo: Amazon Studios SVP Mike Hopkins says &quot;several hundred roles&quot; are being cut in its Prime Video and MGM Studios units; both had cuts in early 2023 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240110/p23#a240110p23)<!-- TECH:END -->
+ - [Lawmakers Are Out for Blood After a Hack of the SEC’s X Account Causes Bitcoin Chaos](https://www.wired.com/story/sec-x-account-hack-investigation/)
+ - [Luminate&#39;s 2023 report: the global music industry passed 4T streams in 2023, a new record and up 34% from 2022; Taylor Swift had one in every 78 US streams &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/240110/p26#a240110p26)
+ - [Apple Vision Pro won&#39;t get challenged by CES AR &amp; VR hardware](https://appleinsider.com/articles/24/01/10/apple-vision-pro-wont-get-challenged-by-ces-ar-vr-hardware?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
