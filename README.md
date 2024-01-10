@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Women in eastern video games aren&#39;t realistic`. Meanwhile in east asia...](http://9gag.com/gag/aZD6GDz)
- - ⏩ [Terrifying](http://9gag.com/gag/avQMMNM)
- - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
+ - 💣 [Terrifying](http://9gag.com/gag/avQMMNM)
+ - ⏩ [Thief slap](http://9gag.com/gag/aZD6eWX)
+ - 👉 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)<!-- MEMES:END -->
 
 ---
 
