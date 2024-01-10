@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple removes nine cryptocurrency apps from India App Store](https://appleinsider.com/articles/24/01/10/apple-removes-nine-cryptocurrency-apps-from-india-app-store?utm_medium=rss)
- - [Why Humans Are Putting a Bunch of ‘Coal’ and ‘Oil’ Back in the Ground](https://www.wired.com/story/why-humans-are-putting-a-bunch-of-coal-and-oil-back-in-the-ground/)
- - [Legendary mixtape platform DatPiff uploads its 50TB cache of 366,420 mixtapes and free albums to the Internet Archive, after a server crash in March 2023 &lpar;Andre Gee/Rolling Stone&rpar;](http://www.techmeme.com/240110/p18#a240110p18)<!-- TECH:END -->
+ - [How UK online clothes shoppers shifting back to physical stores post-pandemic exacerbated online retailers&#39; challenges, including logistics and new upstarts &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p21#a240110p21)
+ - [Documents: sanctioned Russian billionaire Roman Abramovich quietly invested $63M+ in European startups via London VC firm Target Global between 2015 and 2021 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/240110/p20#a240110p20)
+ - [With half of the world&#39;s adults set to vote in 2024, the WEF&#39;s Global Risks Report 2024 ranks AI mis- and disinformation ahead of war, climate change, and more &lpar;Karen Gilchrist/CNBC&rpar;](http://www.techmeme.com/240110/p19#a240110p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
