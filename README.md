@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He thought he was unlovable. Little did he know, that this video would lead him to meeting the love of his life.](http://9gag.com/gag/a04r2gd)
- - ⏩ [Thief slap](http://9gag.com/gag/aZD6eWX)
- - 👉 [Dope with a knife](http://9gag.com/gag/az2W0RK)<!-- MEMES:END -->
+ - 💣 [The wait](http://9gag.com/gag/agoDWev)
+ - ⏩ [The first girl was totally going to give him a chance.This will haunt him for the rest of his life.](http://9gag.com/gag/aBdA7GP)
+ - 👉 [Happy Hostage.](http://9gag.com/gag/a3Z6VR1)<!-- MEMES:END -->
 
 ---
 
