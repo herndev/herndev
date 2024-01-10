@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #935 for Wednesday, January 10](https://www.pcgamer.com/wordle-today-answer-935-january-10)
  - [Echo’s Maya Lopez is one of Marvel’s most complicated characters](https://www.polygon.com/22811806/echo-hawkeye-cast-explained-alaqua-cox)
- - [Asus unveils its ROG NUC, packing up to a Core 9 Ultra and RTX 4070 graphics into a compact 2.5-liter chassis](https://www.pcgamer.com/asus-unveils-its-rog-nuc-packing-up-to-a-core-9-ultra-and-rtx-4070-graphics-into-a-compact-25-liter-chassis)
- - [Melted GPU power connectors shouldn&#39;t be something to worry about with these new PSUs and connectors at CES 2024](https://www.pcgamer.com/melted-gpu-power-connectors-shouldnt-be-something-to-worry-about-with-these-new-psus-and-connectors-at-ces-2024)<!-- GAME:END -->
+ - [Asus unveils its ROG NUC, packing up to a Core 9 Ultra and RTX 4070 graphics into a compact 2.5-liter chassis](https://www.pcgamer.com/asus-unveils-its-rog-nuc-packing-up-to-a-core-9-ultra-and-rtx-4070-graphics-into-a-compact-25-liter-chassis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
