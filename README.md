@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pennsylvania becomes the first US state to use ChatGPT Enterprise in a pilot with OpenAI, in which state employees will use AI tools for daily operations &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240109/p38#a240109p38)
- - [HPE plans to acquire Juniper Networks for about $14B, or $40 per share, in an all-cash deal &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240109/p37#a240109p37)
- - [Intel: ‘We are bringing the AI PC to the car’](https://www.theverge.com/2024/1/9/24026990/intel-auto-car-ai-pc-soc-sdv-zeekr-ces)<!-- TECH:END -->
+ - [AI is Everywhere at CES 2024. Here&#39;s The Coolest Tech We&#39;ve Seen So Far     - CNET](https://www.cnet.com/pictures/coolest-ai-tech-ces-2024-weve-seen-so-far/#ftag=CAD590a51e)
+ - [I Tried the Buzzy Clicks Keyboard iPhone Case: Typing With Real Buttons On an iPhone     - CNET](https://www.cnet.com/tech/mobile/i-tried-the-buzzy-clicks-keyboard-iphone-case-typing-with-real-buttons-on-an-iphone/#ftag=CAD590a51e)
+ - [The Best Foods for Heart Health Are Surprisingly Common: Here&#39;s What to Know     - CNET](https://www.cnet.com/health/nutrition/the-best-foods-for-heart-health-are-surprisingly-common-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
