@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The wait](http://9gag.com/gag/agoDWev)
- - ⏩ [The first girl was totally going to give him a chance.This will haunt him for the rest of his life.](http://9gag.com/gag/aBdA7GP)
- - 👉 [Happy Hostage.](http://9gag.com/gag/a3Z6VR1)<!-- MEMES:END -->
+ - 💣 [Anyone else?](http://9gag.com/gag/aGEmW5n)
+ - ⏩ [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
 
 ---
 
