@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon won&#39;t offer concessions to the European Commission in a bid to garner approval for its planned $1.4B takeover of iRobot &lpar;Politico&rpar;](http://www.techmeme.com/240110/p33#a240110p33)
- - [The SEC says it is working with the FBI in investigating the false X post about spot bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240110/p32#a240110p32)
- - [Thread border router fix should improve smart home networking](https://appleinsider.com/articles/24/01/10/thread-border-router-fix-should-improve-smart-home-networking?utm_medium=rss)<!-- TECH:END -->
+ - [First Bitcoin ETFs approved by US regulators](https://www.theverge.com/2024/1/10/24026863/bitcoin-etf-sec-crypto-finance)
+ - [Poll: How often do you use a power bank for your phone?](https://www.androidauthority.com/use-power-bank-poll-3401956/)
+ - [PC market decline decelerating, Apple holding firm](https://appleinsider.com/articles/24/01/10/jp-morgan-pc-shipment-decline-trending-upward-as-apple-market-share-remains-stable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
