@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CES 2024: The New Windows PC Gaming Devices Coming from Our Top Partners](https://news.xbox.com/en-us/2024/01/10/ces-2024-gaming-pc-xbox-windows/)
- - [Twitch cuts 35% of its staff, and now more than 500 people are out of work](https://www.polygon.com/24032885/twitch-layoffs-january-2024)
- - [Switch 2 Rumors Swirl As Major Nintendo Games Go Out Of Stock](https://kotaku.com/switch-2-nintendo-selects-out-of-stock-1851155179)<!-- GAME:END -->
+ - [Apex Legends’ Final Fantasy VII Crossover Prompts Fan Outcry [Update]](https://kotaku.com/apex-legends-final-fantasy-vii-rebirth-buster-materia-1851149308)
+ - [Expeditions: A MudRunner Game is a change in focus for the series, but mud is still the star](https://www.pcgamer.com/expeditions-a-mudrunner-game-is-a-change-in-focus-for-the-series-but-mud-is-still-the-star)
+ - [Sony’s New Smart Car Can Display Fortnite Ads, For Some Reason](https://kotaku.com/sony-honda-afeela-ev-car-fortnite-across-spiderverse-1851155479)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
