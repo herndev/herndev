@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Terrifying](http://9gag.com/gag/avQMMNM)
- - ⏩ [`Women in eastern video games aren&#39;t realistic`. Meanwhile in east asia...](http://9gag.com/gag/aZD6GDz)
- - 👉 [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)<!-- MEMES:END -->
+ - ⏩ [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
+ - 👉 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)<!-- MEMES:END -->
 
 ---
 
