@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240108-2200&rpar;](https://news.xbox.com/en-us/2024/01/10/xbox-insider-release-notes-alpha-2402-240108-2200/)
- - [AARP&#39;s Horrible AI-Powered Mario Hologram, Explained](https://kotaku.com/ai-mario-hologram-ces-2024-aarp-target-nintendo-1851156437)
- - [Why Video Game Voice Actors Don’t Love The New SAG-AFTRA Deal](https://kotaku.com/sag-aftra-strike-ai-voice-acting-deal-update-1851156390)<!-- GAME:END -->
+ - [Latest Overwatch 2 Patch Breaks Support Hero In A Hilarious Way](https://kotaku.com/overwatch-2-illari-infinite-ammo-bug-patch-notes-buff-1851156771)
+ - [How To Make The Most Of Your First Outpost In Starfield](https://kotaku.com/starfield-outpost-guide-best-planet-resources-skills-1851156719)
+ - [Yes, I game with a trackball mouse in 2024—and it rules](https://www.pcgamer.com/yes-i-game-with-a-trackball-mouse-in-2024and-it-rules)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
