@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He thought he was unlovable. Little did he know, that this video would lead him to meeting the love of his life.](http://9gag.com/gag/a04r2gd)
- - ⏩ [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
- - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
+ - 💣 [Anyone else?](http://9gag.com/gag/aGEmW5n)
+ - ⏩ [Terrifying](http://9gag.com/gag/avQMMNM)
+ - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
 
 ---
 
