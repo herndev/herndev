@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazift pips the rumored Galaxy Ring to market by launching its own Helio Ring](https://www.androidauthority.com/amazift-helio-ring-3401584/)
- - [Magnitt: startups in Saudi Arabia raised $1.4B in 2023, up 33% YoY, for a 52% share of VC funding in the MENA region, beating the UAE for the first time &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p10#a240110p10)
- - [HONOR announces Magic OS 8.0 update based on Android 14](https://www.androidauthority.com/honor-magic-os-8-3401530/)<!-- TECH:END -->
+ - [Valve&#39;s Steam plans to add an &quot;AI disclosure section&quot;, asking developers to describe how their games use AI content, and to let gamers report illegal AI content &lpar;Kat Bailey/IGN&rpar;](http://www.techmeme.com/240110/p13#a240110p13)
+ - [Valve opens the door to more Steam games developed with AI](https://www.theverge.com/2024/1/10/24032678/valve-steam-generative-ai-rules-disclosure-pre-generated-live-illegal-content-copyright)
+ - [Meituan&#39;s market cap fell ~60% from ~$138.2B to ~$56.4B since the start of 2023, weighed down by rising competition and a slowdown in its food delivery business &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240110/p12#a240110p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
