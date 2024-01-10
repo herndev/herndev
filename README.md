@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Community-voted tier sets are coming to WoW: Dragonflight, letting players decide the mix-and-matched bonuses and style for its Season 4 wind-down](https://www.pcgamer.com/community-voted-tier-sets-are-coming-to-wow-dragonflight-letting-players-decide-the-mix-and-matched-bonuses-and-style-for-its-season-4-wind-down)
- - [League of Legends forced to immediately redesign its new dragon champ after fans point out its alarming similarity to an actual human child](https://www.pcgamer.com/league-of-legends-forced-to-immediately-redesign-its-new-dragon-champ-after-fans-point-out-its-alarming-similarity-to-an-actual-human-child)
- - [MSI and Capcom team up to celebrate 20 years of Monster Hunter, with more MH-themed goodies than you can shake a stick at](https://www.pcgamer.com/msi-and-capcom-team-up-to-celebrate-20-years-of-monster-hunter-with-more-mh-themed-goodies-than-you-can-shake-a-stick-at)<!-- GAME:END -->
+ - [I know I&#39;m not alone in thinking Thermaltake&#39;s RGB DDR5 memory looks way better without RGB](https://www.pcgamer.com/i-know-im-not-alone-in-thinking-thermaltakes-rgb-ddr5-memory-looks-way-better-without-rgb)
+ - [You can get 25 Call of Cthulhu books for around $25 in this latest Humble Bundle—including the Starter Set, a deck of monster cards, and a colouring book](https://www.pcgamer.com/you-can-get-25-call-of-cthulhu-books-for-around-dollar25-in-this-latest-humble-bundleincluding-the-starter-set-a-deck-of-monster-cards-and-a-colouring-book)
+ - [Community-voted tier sets are coming to WoW: Dragonflight, letting players decide the mix-and-matched bonuses and style for its Season 4 wind-down](https://www.pcgamer.com/community-voted-tier-sets-are-coming-to-wow-dragonflight-letting-players-decide-the-mix-and-matched-bonuses-and-style-for-its-season-4-wind-down)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
