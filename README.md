@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How UK online clothes shoppers shifting back to physical stores post-pandemic exacerbated online retailers&#39; challenges, including logistics and new upstarts &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p21#a240110p21)
- - [Documents: sanctioned Russian billionaire Roman Abramovich quietly invested $63M+ in European startups via London VC firm Target Global between 2015 and 2021 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/240110/p20#a240110p20)
- - [With half of the world&#39;s adults set to vote in 2024, the WEF&#39;s Global Risks Report 2024 ranks AI mis- and disinformation ahead of war, climate change, and more &lpar;Karen Gilchrist/CNBC&rpar;](http://www.techmeme.com/240110/p19#a240110p19)<!-- TECH:END -->
+ - [Twitch is cutting one-third of its staff](https://www.theverge.com/2024/1/10/24032187/twitch-layoffs-video-game-industry)
+ - [A US-Sanctioned Oligarch Ran Pro-Kremlin Ads on Facebook—Again](https://www.wired.com/story/ilan-shor-facebook-ads-moldova-elections/)
+ - [Internal memo: Amazon Studios SVP Mike Hopkins says &quot;several hundred roles&quot; are being cut in its Prime Video and MGM Studios units; both had cuts in early 2023 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240110/p23#a240110p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
