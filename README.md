@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Since they can&#39;t play Light No Fire yet, Hello Games fans are keeping busy by drawing dragons](https://www.pcgamer.com/since-they-cant-play-light-no-fire-yet-hello-games-fans-are-keeping-busy-by-drawing-dragons)
- - [Bethesda will finally show off Indiana Jones gameplay at the Developer Direct showcase happening later this month](https://www.pcgamer.com/bethesda-will-finally-show-off-indiana-jones-gameplay-at-the-developer-direct-showcase-happening-later-this-month)
- - [Zenless Zone Zero could be my next Genshin Impact if it would just let me skip straight to the action](https://www.pcgamer.com/zenless-zone-zero-could-be-my-next-genshin-impact-if-it-would-just-let-me-skip-straight-to-the-action)<!-- GAME:END -->
+ - [Community Update January 2024 – First Month Accounts](https://news.xbox.com/en-us/2024/01/09/community-update-january-2024-first-month-accounts/)
+ - [Bloomberg reports Twitch to cut 35% of staff &#39;as soon as Wednesday,&#39; laying off 500 workers](https://www.pcgamer.com/bloomberg-reports-twitch-to-cut-35-of-staff-as-soon-as-wednesday-laying-off-500-workers)
+ - [Palworld, the Pokémon-like game that lets you arm your creatures with machine guns, put them to work in factories, or just eat them, launches on Steam next week](https://www.pcgamer.com/palworld-the-pokemon-like-game-that-lets-you-arm-your-creatures-with-machine-guns-put-them-to-work-in-factories-or-just-eat-them-launches-on-steam-next-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
