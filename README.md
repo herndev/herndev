@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sue a hacker using Bitcoin](https://www.theverge.com/2024/1/10/24033166/bitcoin-crypto-ryan-dellone-lawsuit-hacker)
- - [The first Steam Deck competitor with SteamOS is almost here](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
- - [This PC handheld runs Steam OS, but it’s not a Steam Deck](https://www.androidauthority.com/aya-neo-next-lite-steam-os-steam-deck-3401860/)<!-- TECH:END -->
+ - [Google Wallet now shows airline boarding passes on your smartwatch](https://www.androidauthority.com/google-wallet-wear-os-boarding-pass-3401887/)
+ - [The US DOJ says SAP will pay over $220M to settle investigations into worldwide &quot;recidivist&quot; foreign bribery practices &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240110/p31#a240110p31)
+ - [The TVs, monitors, and laptops of CES 2024](https://www.theverge.com/2024/1/10/24033247/ces-2024-tvs-monitors-laptops-vergecast-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
