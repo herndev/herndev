@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI built its own version of a Founders Edition for the RTX 4080 Super and it&#39;s just as hilariously large](https://www.pcgamer.com/msi-built-its-own-version-of-a-founders-edition-for-the-rtx-4080-super-and-its-just-as-hilariously-large)
- - [Motherboards with hidden connectors are shaping up to be one of few fun concepts that make it mainstream](https://www.pcgamer.com/motherboards-with-hidden-connectors-are-shaping-up-to-be-one-of-few-fun-concepts-that-make-it-mainstream)
- - [Wordle today: Hint and answer #935 for Wednesday, January 10](https://www.pcgamer.com/wordle-today-answer-935-january-10)<!-- GAME:END -->
+ - [Community-voted tier sets are coming to WoW: Dragonflight, letting players decide the mix-and-matched bonuses and style for its Season 4 wind-down](https://www.pcgamer.com/community-voted-tier-sets-are-coming-to-wow-dragonflight-letting-players-decide-the-mix-and-matched-bonuses-and-style-for-its-season-4-wind-down)
+ - [League of Legends forced to immediately redesign its new dragon champ after fans point out its alarming similarity to an actual human child](https://www.pcgamer.com/league-of-legends-forced-to-immediately-redesign-its-new-dragon-champ-after-fans-point-out-its-alarming-similarity-to-an-actual-human-child)
+ - [MSI and Capcom team up to celebrate 20 years of Monster Hunter, with more MH-themed goodies than you can shake a stick at](https://www.pcgamer.com/msi-and-capcom-team-up-to-celebrate-20-years-of-monster-hunter-with-more-mh-themed-goodies-than-you-can-shake-a-stick-at)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
