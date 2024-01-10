@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 players are losing Xbox saves, but a fix is coming](https://www.polygon.com/24032848/baldurs-gate-3-xbox-lost-save-bug-firmware-update)
- - [CD Projekt narrative director declares Cyberpunk 2077 &#39;just a warm-up&#39; as work kicks off on the sequel](https://www.pcgamer.com/cd-projekt-narrative-director-declares-cyberpunk-2077-just-a-warm-up-as-work-kicks-off-on-the-sequel)
- - [MSI stuck a transparent LED crystal film screen in its new fishbowl case and it looks genuinely impressive in action](https://www.pcgamer.com/msi-stuck-a-transparent-led-crystal-film-screen-in-its-new-fishbowl-case-and-it-looks-genuinely-impressive-in-action)<!-- GAME:END -->
+ - [CES 2024: The New Windows PC Gaming Devices Coming from Our Top Partners](https://news.xbox.com/en-us/2024/01/10/ces-2024-gaming-pc-xbox-windows/)
+ - [Twitch cuts 35% of its staff, and now more than 500 people are out of work](https://www.polygon.com/24032885/twitch-layoffs-january-2024)
+ - [Switch 2 Rumors Swirl As Major Nintendo Games Go Out Of Stock](https://kotaku.com/switch-2-nintendo-selects-out-of-stock-1851155179)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
