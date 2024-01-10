@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC bans major data broker from selling invasive location tracking details](https://www.theverge.com/2024/1/10/24032966/ftc-bans-outlogic-location-data-sales-tracking-settlement)
- - [The Galaxy S24 series could offer a handy upgrade for gamers](https://www.androidauthority.com/samsung-galaxy-s24-cooling-system-3401784/)
- - [Daily deals Jan. 10: Apple TV 4K $115, Apple MagSafe Charger $29, 49% off Beats Studio Pro, more](https://appleinsider.com/articles/24/01/10/daily-deals-jan-10-apple-tv-4k-115-apple-magsafe-charger-29-49-off-beats-studio-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI launches ChatGPT Team, a new subscription plan for teams up to 149 people, for $30 per user per month, or $25 per user per month billed annually &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240110/p29#a240110p29)
+ - [Future Android phone CPUs could finally beat the iPhone](https://www.androidauthority.com/arm-cortex-blackhawk-cpu-beat-apple-cpu-3401806/)
+ - [iPhone sales might be down, but buyers are opting for more storage](https://appleinsider.com/articles/24/01/10/iphone-sales-might-be-down-but-buyers-are-opting-for-more-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
