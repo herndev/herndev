@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches ChatGPT Team, a new subscription plan for teams up to 149 people, for $30 per user per month, or $25 per user per month billed annually &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240110/p29#a240110p29)
- - [Future Android phone CPUs could finally beat the iPhone](https://www.androidauthority.com/arm-cortex-blackhawk-cpu-beat-apple-cpu-3401806/)
- - [iPhone sales might be down, but buyers are opting for more storage](https://appleinsider.com/articles/24/01/10/iphone-sales-might-be-down-but-buyers-are-opting-for-more-storage?utm_medium=rss)<!-- TECH:END -->
+ - [How to sue a hacker using Bitcoin](https://www.theverge.com/2024/1/10/24033166/bitcoin-crypto-ryan-dellone-lawsuit-hacker)
+ - [The first Steam Deck competitor with SteamOS is almost here](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
+ - [This PC handheld runs Steam OS, but it’s not a Steam Deck](https://www.androidauthority.com/aya-neo-next-lite-steam-os-steam-deck-3401860/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
