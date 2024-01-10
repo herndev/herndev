@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends’ Final Fantasy VII Crossover Prompts Fan Outcry [Update]](https://kotaku.com/apex-legends-final-fantasy-vii-rebirth-buster-materia-1851149308)
- - [Expeditions: A MudRunner Game is a change in focus for the series, but mud is still the star](https://www.pcgamer.com/expeditions-a-mudrunner-game-is-a-change-in-focus-for-the-series-but-mud-is-still-the-star)
- - [Sony’s New Smart Car Can Display Fortnite Ads, For Some Reason](https://kotaku.com/sony-honda-afeela-ev-car-fortnite-across-spiderverse-1851155479)<!-- GAME:END -->
+ - [League of Legends’ action-packed 2024 cinematic suggests a peek at Yasuo’s future](https://www.polygon.com/24033045/league-of-legends-still-here-cinematic-aatrox-morgana-kayle-tryndamere-kindred)
+ - [10 Days Into 2024 And 2300+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
+ - [The Last Of Us Show Casts Beef Actor As Key Character](https://kotaku.com/last-of-us-season-2-jesse-actor-young-mazino-1851155868)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
