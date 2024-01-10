@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese companies are repurposing Nvidia&#39;s gaming chips for AI to counter US&#39; sanctions; RTX 4090 is one of the most popular models to be repurposed &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240110/p4#a240110p4)
- - [Bank of America values Jio Platforms at $107B, up 64.6% from $65B in 2020 when the Indian telecoms and digital conglomerate raised $20B+ from Meta and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240110/p3#a240110p3)
- - [Google may be planning to ship a rare upgrade to Tensor-powered Pixel phones](https://www.androidauthority.com/google-pixel-tensor-linux-kernel-upgrade-3401529/)<!-- TECH:END -->
+ - [The humble Notepad app on Windows could soon get an AI upgrade](https://www.androidauthority.com/microsoft-windows-notepad-ai-upgrade-3401549/)
+ - [Some startup founders are building up protections, including implementing supervoting shares or dual-class shares, to avoid getting ousted like Sam Altman &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240110/p8#a240110p8)
+ - [Demis Hassabis, chief of DeepMind spinout Isomorphic Labs, believes the company would halve drug discovery times after inking deals with Eli Lilly and Novartis &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p7#a240110p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
