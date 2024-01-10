@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
- - ⏩ [`Women in eastern video games aren&#39;t realistic`. Meanwhile in east asia...](http://9gag.com/gag/aZD6GDz)
- - 👉 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)<!-- MEMES:END -->
+ - 💣 [Happy Hostage.](http://9gag.com/gag/a3Z6VR1)
+ - ⏩ [Becoming a legend](http://9gag.com/gag/adPGENj)
+ - 👉 [My newest Tetten collection in the comments section, here we go](http://9gag.com/gag/aGEmXon)<!-- MEMES:END -->
 
 ---
 
