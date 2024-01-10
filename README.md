@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is only one thing worse than a rapist](http://9gag.com/gag/aWGrwB3)
- - ⏩ [Thief slap](http://9gag.com/gag/aZD6eWX)
- - 👉 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)<!-- MEMES:END -->
+ - 💣 [Expensive dinner](http://9gag.com/gag/a5XO4Mr)
+ - ⏩ [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
+ - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
 
 ---
 
