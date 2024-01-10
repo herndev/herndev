@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ action-packed 2024 cinematic suggests a peek at Yasuo’s future](https://www.polygon.com/24033045/league-of-legends-still-here-cinematic-aatrox-morgana-kayle-tryndamere-kindred)
- - [10 Days Into 2024 And 2300+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
- - [The Last Of Us Show Casts Beef Actor As Key Character](https://kotaku.com/last-of-us-season-2-jesse-actor-young-mazino-1851155868)<!-- GAME:END -->
+ - [Turn 10 promises big changes to address &#39;top three&#39; Forza Motorsport complaints: rides, rules, and racers](https://www.pcgamer.com/turn-10-promises-big-changes-to-address-top-three-forza-motorsport-complaints-rides-rules-and-racers)
+ - [The best shows to watch on Max](https://www.polygon.com/what-to-watch/23870121/best-tv-shows-series-max-watch)
+ - [AMD&#39;s any-game frame generation tech is officially launching out of beta with the RX 7600 XT release on January 24](https://www.pcgamer.com/amds-any-game-frame-generation-tech-is-officially-launching-out-of-beta-with-the-rx-7600-xt-release-on-january-24)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
