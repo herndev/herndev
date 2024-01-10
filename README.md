@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NFTs are so dead, even Elon Musk has dropped them: NFT avatars on Twitter are gone](https://www.pcgamer.com/nfts-are-so-dead-even-elon-musk-has-dropped-them-nft-avatars-on-twitter-are-gone)
- - [Unhinged Sims 4 player keeps making hidden village bunkers &#39;for capturing and storing&#39; sims](https://www.pcgamer.com/unhinged-sims-4-player-keeps-making-hidden-village-bunkers-for-capturing-and-storing-sims)
- - [Diablo 4&#39;s next season is a mystery but at least we know it starts in less than 2 weeks](https://www.pcgamer.com/diablo-4s-next-season-is-a-mystery-but-at-least-we-know-it-starts-in-less-than-2-weeks)<!-- GAME:END -->
+ - [Netflix’s Drive to Survive is losing one of its favorite F1 personalities](https://www.polygon.com/24033184/drive-to-survive-netflix-guenther-steiner-fired-haas-replaced)
+ - [How To Take Control Of Your Privacy Settings On PS5](https://kotaku.com/ps5-privacy-settings-ads-friends-sharing-1851157131)
+ - [Newest Walking Dead series resurrects Rick and Michonne next month](https://www.polygon.com/24033564/walking-dead-ones-who-live-rick-michonne-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
