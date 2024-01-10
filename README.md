@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)
- - ⏩ [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
- - 👉 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)<!-- MEMES:END -->
+ - 💣 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)
+ - ⏩ [Free sample](http://9gag.com/gag/axoLp5W)
+ - 👉 [Snow Cats](http://9gag.com/gag/amA3qpd)<!-- MEMES:END -->
 
 ---
 
