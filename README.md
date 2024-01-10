@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I know I&#39;m not alone in thinking Thermaltake&#39;s RGB DDR5 memory looks way better without RGB](https://www.pcgamer.com/i-know-im-not-alone-in-thinking-thermaltakes-rgb-ddr5-memory-looks-way-better-without-rgb)
- - [You can get 25 Call of Cthulhu books for around $25 in this latest Humble Bundle—including the Starter Set, a deck of monster cards, and a colouring book](https://www.pcgamer.com/you-can-get-25-call-of-cthulhu-books-for-around-dollar25-in-this-latest-humble-bundleincluding-the-starter-set-a-deck-of-monster-cards-and-a-colouring-book)
- - [Community-voted tier sets are coming to WoW: Dragonflight, letting players decide the mix-and-matched bonuses and style for its Season 4 wind-down](https://www.pcgamer.com/community-voted-tier-sets-are-coming-to-wow-dragonflight-letting-players-decide-the-mix-and-matched-bonuses-and-style-for-its-season-4-wind-down)<!-- GAME:END -->
+ - [Baldur’s Gate 3 players are losing Xbox saves, but a fix is coming](https://www.polygon.com/24032848/baldurs-gate-3-xbox-lost-save-bug-firmware-update)
+ - [CD Projekt narrative director declares Cyberpunk 2077 &#39;just a warm-up&#39; as work kicks off on the sequel](https://www.pcgamer.com/cd-projekt-narrative-director-declares-cyberpunk-2077-just-a-warm-up-as-work-kicks-off-on-the-sequel)
+ - [MSI stuck a transparent LED crystal film screen in its new fishbowl case and it looks genuinely impressive in action](https://www.pcgamer.com/msi-stuck-a-transparent-led-crystal-film-screen-in-its-new-fishbowl-case-and-it-looks-genuinely-impressive-in-action)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
