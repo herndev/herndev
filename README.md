@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Terrifying](http://9gag.com/gag/avQMMNM)
- - ⏩ [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
- - 👉 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)<!-- MEMES:END -->
+ - 💣 [Lucky SoaB](http://9gag.com/gag/a2K3Qy1)
+ - ⏩ [A life changing moment when the big kid finally realizes what it means to be Bigger against a bully](http://9gag.com/gag/agoDM2g)
+ - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
 
 ---
 
