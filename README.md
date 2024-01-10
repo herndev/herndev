@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance, Kraken, Mexc, KuCoin, and four other crypto exchanges have been pulled from the App Store in India after being flagged for operating &quot;illegally&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240109/p45#a240109p45)
- - [Vietnam-based Be Group, which provides ride-hailing, delivery, and digital financial services, raised ~$30M from VPBank, in a bid to take on Grab and GoTo &lpar;Nguyen Kieu Giang/Bloomberg&rpar;](http://www.techmeme.com/240109/p44#a240109p44)
- - [SAG-AFTRA signs a deal with AI voiceover company Replica Studios, requiring consent to create voice replicas for use in video games and safe storage of assets &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/240109/p43#a240109p43)<!-- TECH:END -->
+ - [SentinelOne acquires Bengaluru-based cloud security provider PingSafe, sources say for a $100M+ valuation; PingSafe had raised ~$3.3M from Peak XV and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240109/p47#a240109p47)
+ - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
