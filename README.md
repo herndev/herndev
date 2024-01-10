@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MSI built its own version of a Founders Edition for the RTX 4080 Super and it&#39;s just as hilariously large](https://www.pcgamer.com/msi-built-its-own-version-of-a-founders-edition-for-the-rtx-4080-super-and-its-just-as-hilariously-large)
  - [Motherboards with hidden connectors are shaping up to be one of few fun concepts that make it mainstream](https://www.pcgamer.com/motherboards-with-hidden-connectors-are-shaping-up-to-be-one-of-few-fun-concepts-that-make-it-mainstream)
- - [Wordle today: Hint and answer #935 for Wednesday, January 10](https://www.pcgamer.com/wordle-today-answer-935-january-10)
- - [Echo’s Maya Lopez is one of Marvel’s most complicated characters](https://www.polygon.com/22811806/echo-hawkeye-cast-explained-alaqua-cox)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #935 for Wednesday, January 10](https://www.pcgamer.com/wordle-today-answer-935-january-10)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
