@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawmakers Are Out for Blood After a Hack of the SEC’s X Account Causes Bitcoin Chaos](https://www.wired.com/story/sec-x-account-hack-investigation/)
- - [Luminate&#39;s 2023 report: the global music industry passed 4T streams in 2023, a new record and up 34% from 2022; Taylor Swift had one in every 78 US streams &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/240110/p26#a240110p26)
- - [Apple Vision Pro won&#39;t get challenged by CES AR &amp; VR hardware](https://appleinsider.com/articles/24/01/10/apple-vision-pro-wont-get-challenged-by-ces-ar-vr-hardware?utm_medium=rss)<!-- TECH:END -->
+ - [FTC bans major data broker from selling invasive location tracking details](https://www.theverge.com/2024/1/10/24032966/ftc-bans-outlogic-location-data-sales-tracking-settlement)
+ - [The Galaxy S24 series could offer a handy upgrade for gamers](https://www.androidauthority.com/samsung-galaxy-s24-cooling-system-3401784/)
+ - [Daily deals Jan. 10: Apple TV 4K $115, Apple MagSafe Charger $29, 49% off Beats Studio Pro, more](https://appleinsider.com/articles/24/01/10/daily-deals-jan-10-apple-tv-4k-115-apple-magsafe-charger-29-49-off-beats-studio-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
