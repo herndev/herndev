@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve&#39;s Steam plans to add an &quot;AI disclosure section&quot;, asking developers to describe how their games use AI content, and to let gamers report illegal AI content &lpar;Kat Bailey/IGN&rpar;](http://www.techmeme.com/240110/p13#a240110p13)
- - [Valve opens the door to more Steam games developed with AI](https://www.theverge.com/2024/1/10/24032678/valve-steam-generative-ai-rules-disclosure-pre-generated-live-illegal-content-copyright)
- - [Meituan&#39;s market cap fell ~60% from ~$138.2B to ~$56.4B since the start of 2023, weighed down by rising competition and a slowdown in its food delivery business &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240110/p12#a240110p12)<!-- TECH:END -->
+ - [Sources: as US-China tensions rise, Microsoft debates what to do with its prized 800-person Beijing research lab, opened in 1998; Microsoft has added guardrails &lpar;New York Times&rpar;](http://www.techmeme.com/240110/p16#a240110p16)
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Apple won&#39;t send reviewers a Vision Pro without briefings, says Gurman](https://appleinsider.com/articles/24/01/10/apple-wont-send-reviewers-a-vision-pro-without-briefings-says-gurman?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
