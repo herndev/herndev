@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: as US-China tensions rise, Microsoft debates what to do with its prized 800-person Beijing research lab, opened in 1998; Microsoft has added guardrails &lpar;New York Times&rpar;](http://www.techmeme.com/240110/p16#a240110p16)
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Apple won&#39;t send reviewers a Vision Pro without briefings, says Gurman](https://appleinsider.com/articles/24/01/10/apple-wont-send-reviewers-a-vision-pro-without-briefings-says-gurman?utm_medium=rss)<!-- TECH:END -->
+ - [Apple removes nine cryptocurrency apps from India App Store](https://appleinsider.com/articles/24/01/10/apple-removes-nine-cryptocurrency-apps-from-india-app-store?utm_medium=rss)
+ - [Why Humans Are Putting a Bunch of ‘Coal’ and ‘Oil’ Back in the Ground](https://www.wired.com/story/why-humans-are-putting-a-bunch-of-coal-and-oil-back-in-the-ground/)
+ - [Legendary mixtape platform DatPiff uploads its 50TB cache of 366,420 mixtapes and free albums to the Internet Archive, after a server crash in March 2023 &lpar;Andre Gee/Rolling Stone&rpar;](http://www.techmeme.com/240110/p18#a240110p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
