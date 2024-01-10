@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Bitcoin ETFs approved by US regulators](https://www.theverge.com/2024/1/10/24026863/bitcoin-etf-sec-crypto-finance)
- - [Poll: How often do you use a power bank for your phone?](https://www.androidauthority.com/use-power-bank-poll-3401956/)
- - [PC market decline decelerating, Apple holding firm](https://appleinsider.com/articles/24/01/10/jp-morgan-pc-shipment-decline-trending-upward-as-apple-market-share-remains-stable?utm_medium=rss)<!-- TECH:END -->
+ - [Congress Wants Tech Companies to Pay Up for AI Training Data](https://www.wired.com/story/congress-senate-tech-companies-pay-ai-training-data/)
+ - [US SEC Chair Gary Gensler concedes that the SEC&#39;s loss in court over rejecting Grayscale&#39;s spot bitcoin ETF left it with little choice but to approve such ETFs &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240110/p35#a240110p35)
+ - [Apple Watch import ban stay opposed by ITC](https://appleinsider.com/articles/24/01/10/apple-watch-import-ban-stay-opposed-by-itc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
