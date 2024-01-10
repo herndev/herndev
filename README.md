@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Echo season 2 news we’ve heard so far](https://www.polygon.com/24030419/echo-season-2-release-date-cast-news)
- - [Valve updates its Steam policy on AI so it can &#39;release the vast majority of games that use it&#39;](https://www.pcgamer.com/valve-updates-its-steam-policy-on-ai-so-it-can-release-the-vast-majority-of-games-that-use-it)
- - [Community Update January 2024 – First Month Accounts](https://news.xbox.com/en-us/2024/01/09/community-update-january-2024-first-month-accounts/)<!-- GAME:END -->
+ - [Melted GPU power connectors shouldn&#39;t be something to worry about with these new PSUs and connectors at CES 2024](https://www.pcgamer.com/melted-gpu-power-connectors-shouldnt-be-something-to-worry-about-with-these-new-psus-and-connectors-at-ces-2024)
+ - [I don&#39;t know whether to be afraid or impressed by this PCIe 5.0 SSD with a tiny liquid cooler attached](https://www.pcgamer.com/i-dont-know-whether-to-be-afraid-or-impressed-by-this-pcie-50-ssd-with-a-tiny-liquid-cooler-attached)
+ - [All the Echo season 2 news we’ve heard so far](https://www.polygon.com/24030419/echo-season-2-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
