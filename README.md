@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
- - ⏩ [`Women in eastern video games aren&#39;t realistic`. Meanwhile in east asia...](http://9gag.com/gag/aZD6GDz)
- - 👉 [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)<!-- MEMES:END -->
+ - 💣 [Happy Hostage.](http://9gag.com/gag/a3Z6VR1)
+ - ⏩ [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
+ - 👉 [A life changing moment when the big kid finally realizes what it means to be Bigger against a bully](http://9gag.com/gag/agoDM2g)<!-- MEMES:END -->
 
 ---
 
