@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
- - ⏩ [Never forget](http://9gag.com/gag/aA0jB6E)
- - 👉 [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)<!-- MEMES:END -->
+ - 💣 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
+ - ⏩ [There is only one thing worse than a rapist](http://9gag.com/gag/aWGrwB3)
+ - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
 
 ---
 
