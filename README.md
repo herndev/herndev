@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AARP&#39;s Horrible AI-Powered Mario Hologram, Explained [Update]](https://kotaku.com/ai-mario-hologram-ces-2024-aarp-target-nintendo-1851156437)
  - [2024 is already looking like a fantastic year for survival games](https://www.pcgamer.com/best-survival-games-2024)
- - [Intel&#39;s next gen Battlemage GPUs are up and running in its labs, and work on its next-next generation Celestial architecture is well underway](https://www.pcgamer.com/intels-next-gen-battlemage-gpus-are-up-and-running-in-its-labs-and-work-its-next-next-generation-celestial-architecture-is-well-underway)
- - [I just played Lies of P on Samsung&#39;s glasses-free 3D gaming monitor—and it definitely beats a 3D TV](https://www.pcgamer.com/i-just-played-lies-of-p-on-samsungs-glasses-free-3d-gaming-monitorand-it-definitely-beats-a-3d-tv)<!-- GAME:END -->
+ - [Intel&#39;s next gen Battlemage GPUs are up and running in its labs, and work on its next-next generation Celestial architecture is well underway](https://www.pcgamer.com/intels-next-gen-battlemage-gpus-are-up-and-running-in-its-labs-and-work-its-next-next-generation-celestial-architecture-is-well-underway)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
