@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [1st class flight](http://9gag.com/gag/a2K3QnD)
- - ⏩ [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
- - 👉 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)<!-- MEMES:END -->
+ - ⏩ [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
+ - 👉 [Uhm guys....](http://9gag.com/gag/a8qRr4V)<!-- MEMES:END -->
 
 ---
 
