@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Momodora: Moonlit Farewell is a charming metroidvania about defending a village with your fellow magical girls via the power of friendship and a big leaf](https://www.pcgamer.com/momodora-moonlit-farewell-is-a-charming-metroidvania-about-defending-a-village-with-your-fellow-magical-girls-via-the-power-of-friendship-and-a-big-leaf)
- - [XGIMI Horizon Ultra review](https://www.pcgamer.com/xgimi-horizon-ultra-4k-projector-review)
- - [Dell founder says calm down about SHODAN-style sentient AI because &#39;you remember the ozone layer and all&#39; and we fixed that](https://www.pcgamer.com/dell-founder-says-calm-down-about-shodan-style-sentient-ai-because-you-remember-the-ozone-layer-and-all-and-we-fixed-that)<!-- GAME:END -->
+ - [Looks like Bethesda&#39;s Indiana Jones game now has a name](https://www.pcgamer.com/looks-like-bethesdas-indiana-jones-game-now-has-a-name)
+ - [These are the 5 AI features at CES 2024 we will absolutely never use &lpar;and 3 we might&rpar;](https://www.pcgamer.com/these-are-the-5-ai-features-at-ces-2024-we-will-absolutely-never-use-and-3-we-might)
+ - [Honda&#39;s CES concept cars are more Cyberpunk 2077 than the cars in Cyberpunk 2077, and I challenge anyone to convince me otherwise](https://www.pcgamer.com/hondas-ces-concept-cars-are-more-cyberpunk-2077-than-the-cars-in-cyberpunk-2077-and-i-challenge-anyone-to-convince-me-otherwise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
