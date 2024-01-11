@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – EA Sports Takeover](https://news.xbox.com/en-us/2024/01/11/free-play-days-ea-sports-takeover/)
- - [The 5 most ridiculously broken builds in D&amp;D history](https://www.pcgamer.com/the-5-most-ridiculously-broken-builds-in-dandd-history)
- - [Baldur&#39;s Gate 3&#39;s permadeath honour mode has made Act 1 my own personal Groundhog Day, and I am either having a breakdown or becoming a god](https://www.pcgamer.com/baldurs-gate-3s-permadeath-honour-mode-has-made-act-1-my-own-personal-groundhog-day-and-i-am-either-having-a-breakdown-or-becoming-a-god)<!-- GAME:END -->
+ - [PC Gamer Chat Log Episode 43: Welcome to 2024!](https://www.pcgamer.com/pc-gamer-chat-log-episode-43-welcome-to-2024)
+ - [Ducky has released a limited edition Doom keyboard but I can&#39;t help but feel it&#39;s missed the mark](https://www.pcgamer.com/ducky-has-released-a-limited-edition-doom-keyboard-but-i-cant-help-but-feel-its-missed-the-mark)
+ - [Old School Runescape player grinds the worst version of a minigame for 149 long hours and abandons 88 levels of XP, just to get a cute racoon without committing a single traceable crime](https://www.pcgamer.com/old-school-runescape-player-grinds-the-worst-version-of-a-minigame-for-149-long-hours-and-abandons-88-levels-of-xp-just-to-get-a-cute-racoon-without-committing-a-single-traceable-crime)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
