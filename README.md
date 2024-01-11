@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My gf always thought my friends were illiterate and low class because they work construction jobs and didn&#39;t go to college but they&#39;ve been my friends for 20years.the choice was simple.](http://9gag.com/gag/aKERzr1)
- - ⏩ [Best pitcher ever](http://9gag.com/gag/aOxwq82)
- - 👉 [Look what they did to my Force !](http://9gag.com/gag/aVbAO8d)<!-- MEMES:END -->
+ - 💣 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - ⏩ [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 👉 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)<!-- MEMES:END -->
 
 ---
 
