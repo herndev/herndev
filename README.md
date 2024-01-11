@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)
- - ⏩ [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)
- - 👉 [Snow Cats](http://9gag.com/gag/amA3qpd)<!-- MEMES:END -->
+ - 💣 [Context Matters: Clarifying the Context](http://9gag.com/gag/aL1ZqpP)
+ - ⏩ [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)
+ - 👉 [Uhm guys....](http://9gag.com/gag/a8qRr4V)<!-- MEMES:END -->
 
 ---
 
