@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
- - ⏩ [Just train and shut up](http://9gag.com/gag/aVbAOx8)
- - 👉 [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)<!-- MEMES:END -->
+ - 💣 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - ⏩ [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
+ - 👉 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)<!-- MEMES:END -->
 
 ---
 
