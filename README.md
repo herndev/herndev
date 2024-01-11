@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I saw many gaming laptops at CES 2024 but the redesigned Zephyrus G14 is my pick of the bunch](https://www.pcgamer.com/i-saw-many-gaming-laptops-at-ces-2024-but-the-redesigned-zephyrus-g14-is-my-pick-of-the-bunch)
- - [Fan-made Team Fortress 2 remake using the Source 2 engine shuts down for good after receiving a DMCA notice from Valve](https://www.pcgamer.com/fan-made-team-fortress-2-remake-using-the-source-2-engine-shuts-down-for-good-after-receiving-a-dmca-notice-from-valve)
- - [Have live service games gone off the deep end with insultingly expensive cosmetics?](https://www.pcgamer.com/have-live-service-games-gone-off-the-deep-end-with-insultingly-expensive-cosmetics)<!-- GAME:END -->
+ - [Intel&#39;s next gen Battlemage GPUs are up and running in its labs, and work on its next-next generation Celestial architecture is well underway](https://www.pcgamer.com/intels-next-gen-battlemage-gpus-are-up-and-running-in-its-labs-and-work-its-next-next-generation-celestial-architecture-is-well-underway)
+ - [I just played Lies of P on Samsung&#39;s glasses-free 3D gaming monitor—and it definitely beats a 3D TV](https://www.pcgamer.com/i-just-played-lies-of-p-on-samsungs-glasses-free-3d-gaming-monitorand-it-definitely-beats-a-3d-tv)
+ - [The best D&amp;D actual-play series goes back to school for Fantasy High: Junior Year](https://www.pcgamer.com/the-best-dandd-actual-play-series-goes-back-to-school-for-fantasy-high-junior-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
