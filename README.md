@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix removes an Indian film depicting a Hindu character eating meat after backlash from Hindu groups; producer Zee apologizes and plans to edit the film &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/240111/p26#a240111p26)
- - [Microsoft briefly edged out Apple as the most valuable company in the US](https://appleinsider.com/articles/24/01/11/microsoft-edges-out-apple-as-the-most-valuable-company-in-the-us?utm_medium=rss)
- - [Ivanti confirms hackers are exploiting two critical vulnerabilities in its corporate VPN software, but says patches won&#39;t be available until the end of January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240111/p25#a240111p25)<!-- TECH:END -->
+ - [The Big Problem With the Giant Stanley Cup](https://www.wired.com/story/stanley-cup-quencher-environment/)
+ - [Canada partners with SecurityScorecard to assess the cyber resilience of companies critical to the country&#39;s infrastructure and assign them letter grades &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/240111/p27#a240111p27)
+ - [HONOR Magic 6 Pro launched with a crazy 180MP periscope camera](https://www.androidauthority.com/honor-magic-6-pro-3402274/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
