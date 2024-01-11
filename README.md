@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [1X, an OpenAI-backed developer of humanoid robots with plans to bring its bipedal robot NEO to the market, raised a $100M Series B from EQT Ventures and others &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240111/p31#a240111p31)
- - [You might not have to ever charge your phone again thanks to nuclear batteries](https://www.androidauthority.com/nuclear-phone-battery-in-development-3402297/)
- - [CES 2024: The 26 Best Gadgets You Can Buy Right Now](https://www.wired.com/story/ces-2024-gadgets-you-can-buy-right-now/)<!-- TECH:END -->
+ - [eBay will pay $3M to resolve charges over a harassment campaign by staffers who sent spiders and other disturbing items to those behind the EcommerceBytes blog &lpar;Alanna Durkin Richer/Associated Press&rpar;](http://www.techmeme.com/240111/p32#a240111p32)
+ - [eBay will pay $3 million over bizarre cyberstalking campaign](https://www.theverge.com/2024/1/11/24034688/ebay-cyberstalking-campaign-settlement-doj)
+ - [Wi-Fi 7 quietly took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
