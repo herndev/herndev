@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s Afeela needs to be more than a feeling](https://www.theverge.com/24033762/sony-afeela-hands-on-ces-2024)
- - [A researcher finds 800GB of data online tied to school software maker Raptor, used by 5,300+ US districts, including evacuation plans and student medical files &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240111/p19#a240111p19)
- - [The OnePlus 12’s periscope camera is coming to a budget phone](https://www.androidauthority.com/realme-12-pro-series-oneplus-12-periscope-camera-3402228/)<!-- TECH:END -->
+ - [The latest mini-console is this adorable Atari 400](https://www.theverge.com/2024/1/11/24034344/atari-400-mini-release-date-price)
+ - [Google Cloud eliminates fees levied on customers who leave for a rival service, effective immediately, which may put pressure on AWS and Azure to do the same &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240111/p22#a240111p22)
+ - [India may make it cheaper to produce iPhones](https://appleinsider.com/articles/24/01/11/india-may-make-it-cheaper-to-produce-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
