@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [That Portal 64 demake we liked so much has been kiboshed by Valve: &#39;They have asked me to take the project down,&#39; creator says](https://www.pcgamer.com/that-portal-64-demake-we-liked-so-much-has-been-kiboshed-by-valve-they-have-asked-me-to-take-the-project-down-creator-says)
- - [I’m Not Afraid To Say It: I’m Excited For Halo Season Two](https://kotaku.com/halo-series-season-2-trailer-reach-review-show-1851160308)
- - [The new Mean Girls has a critical charisma gap](https://www.polygon.com/reviews/24033633/mean-girls-musical-movie-review-2024-tina-fey)<!-- GAME:END -->
+ - [Disney Lorcana’s new location cards continue to expand the TCG in interesting directions](https://www.polygon.com/24012227/disney-lorcana-land-cards)
+ - [Discord lays off 170 people, becomes latest company to say it grew too much during the pandemic and now needs to be &#39;more agile&#39;](https://www.pcgamer.com/discord-lays-of-170-people-becomes-latest-company-to-say-it-grew-too-much-during-the-pandemic-and-now-needs-to-be-more-agile)
+ - [How To Keep Your Naughty Xbox Captures Private](https://kotaku.com/xbox-network-live-sharing-capture-screenshot-1851160305)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
