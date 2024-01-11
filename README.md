@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Lorcana’s new location cards continue to expand the TCG in interesting directions](https://www.polygon.com/24012227/disney-lorcana-land-cards)
- - [Discord lays off 170 people, becomes latest company to say it grew too much during the pandemic and now needs to be &#39;more agile&#39;](https://www.pcgamer.com/discord-lays-of-170-people-becomes-latest-company-to-say-it-grew-too-much-during-the-pandemic-and-now-needs-to-be-more-agile)
- - [How To Keep Your Naughty Xbox Captures Private](https://kotaku.com/xbox-network-live-sharing-capture-screenshot-1851160305)<!-- GAME:END -->
+ - [Prince of Persia: The Lost Crown has a free demo you can play right now](https://www.pcgamer.com/prince-of-persia-the-lost-crown-has-a-free-demo-you-can-play-right-now)
+ - [Xbox Insider Release Notes – Omega &lpar;2311.240110-1710&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-omega-2311-240110-1710/)
+ - [Xbox Insider Release Notes – Delta &lpar;2311.240110-1710&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-delta-2311-240110-1710/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
