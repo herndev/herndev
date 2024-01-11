@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
- - ⏩ [I think tatas should be unrestricted.](http://9gag.com/gag/ap9Oox5)
- - 👉 [She ate them all](http://9gag.com/gag/aNwNeo6)<!-- MEMES:END -->
+ - 💣 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
+ - ⏩ [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 👉 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)<!-- MEMES:END -->
 
 ---
 
