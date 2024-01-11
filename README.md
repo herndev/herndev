@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Drive to Survive is losing one of its favorite F1 personalities](https://www.polygon.com/24033184/drive-to-survive-netflix-guenther-steiner-fired-haas-replaced)
- - [How To Take Control Of Your Privacy Settings On PS5](https://kotaku.com/ps5-privacy-settings-ads-friends-sharing-1851157131)
- - [Newest Walking Dead series resurrects Rick and Michonne next month](https://www.polygon.com/24033564/walking-dead-ones-who-live-rick-michonne-trailer)<!-- GAME:END -->
+ - [I saw many gaming laptops at CES 2024 but the redesigned Zephyrus G14 is my pick of the bunch](https://www.pcgamer.com/i-saw-many-gaming-laptops-at-ces-2024-but-the-redesigned-zephyrus-g14-is-my-pick-of-the-bunch)
+ - [Fan-made Team Fortress 2 remake using the Source 2 engine shuts down for good after receiving a DMCA notice from Valve](https://www.pcgamer.com/fan-made-team-fortress-2-remake-using-the-source-2-engine-shuts-down-for-good-after-receiving-a-dmca-notice-from-valve)
+ - [Have live service games gone off the deep end with insultingly expensive cosmetics?](https://www.pcgamer.com/have-live-service-games-gone-off-the-deep-end-with-insultingly-expensive-cosmetics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
