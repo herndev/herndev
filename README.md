@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/amAejqy)
- - ⏩ [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - 👉 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)<!-- MEMES:END -->
+ - 💣 [My gf always thought my friends were illiterate and low class because they work construction jobs and didn&#39;t go to college but they&#39;ve been my friends for 20years.the choice was simple.](http://9gag.com/gag/aKERzr1)
+ - ⏩ [Best pitcher ever](http://9gag.com/gag/aOxwq82)
+ - 👉 [Look what they did to my Force !](http://9gag.com/gag/aVbAO8d)<!-- MEMES:END -->
 
 ---
 
