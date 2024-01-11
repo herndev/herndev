@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Board of Directors shuffle sees Al Gore &amp; James Bell retire](https://appleinsider.com/articles/24/01/11/apple-board-of-directors-shuffle-sees-al-gore-james-bell-retire?utm_medium=rss)
- - [Dexcom’s new continuous glucose monitor is a health tech gadget with purpose](https://www.theverge.com/2024/1/11/24034098/dexcom-stelo-cgm-diabetes-health-tech-ces-2024)
- - [Apple says Al Gore and James Bell will retire from its board this year, and Wanda Austin, ex-president and CEO of The Aerospace Corporation, will join the board &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240111/p37#a240111p37)<!-- TECH:END -->
+ - [The FCC sends letters to nine of the largest automakers, raising concerns about abusive partners using connected car apps to harass and track their victims &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240111/p38#a240111p38)
+ - [This ring lets you whisper commands to your voice assistant](https://www.androidauthority.com/whsp-ring-ai-assistant-3402456/)
+ - [Apple Board of Directors shuffle sees Al Gore &amp; James Bell retire](https://appleinsider.com/articles/24/01/11/apple-board-of-directors-shuffle-sees-al-gore-james-bell-retire?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
