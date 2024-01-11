@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Context Matters: Clarifying the Context](http://9gag.com/gag/aL1ZqpP)
- - ⏩ [Uhm guys....](http://9gag.com/gag/a8qRr4V)
- - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
+ - 💣 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)
+ - ⏩ [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)
+ - 👉 [Snow Cats](http://9gag.com/gag/amA3qpd)<!-- MEMES:END -->
 
 ---
 
