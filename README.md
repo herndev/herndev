@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Chat Log Episode 43: Welcome to 2024!](https://www.pcgamer.com/pc-gamer-chat-log-episode-43-welcome-to-2024)
- - [Ducky has released a limited edition Doom keyboard but I can&#39;t help but feel it&#39;s missed the mark](https://www.pcgamer.com/ducky-has-released-a-limited-edition-doom-keyboard-but-i-cant-help-but-feel-its-missed-the-mark)
- - [Old School Runescape player grinds the worst version of a minigame for 149 long hours and abandons 88 levels of XP, just to get a cute racoon without committing a single traceable crime](https://www.pcgamer.com/old-school-runescape-player-grinds-the-worst-version-of-a-minigame-for-149-long-hours-and-abandons-88-levels-of-xp-just-to-get-a-cute-racoon-without-committing-a-single-traceable-crime)<!-- GAME:END -->
+ - [Raccoo Venture was Created by Just One Person and Teaches Valuable Lessons](https://news.xbox.com/en-us/2024/01/11/raccoo-venture-was-created-by-just-one-person-and-teaches-valuable-lessons/)
+ - [The Last Of Us Season Two Casts Dora The Explorer Actor As Dina](https://kotaku.com/the-last-of-us-hbo-max-dina-actor-isabela-merced-1851159653)
+ - [Here are all of the Intel Meteor Lake gaming laptops we saw launched at CES 2024](https://www.pcgamer.com/here-are-all-of-the-intel-meteor-lake-gaming-laptops-we-saw-launched-at-ces-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
