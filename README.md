@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks like Bethesda&#39;s Indiana Jones game now has a name](https://www.pcgamer.com/looks-like-bethesdas-indiana-jones-game-now-has-a-name)
- - [These are the 5 AI features at CES 2024 we will absolutely never use &lpar;and 3 we might&rpar;](https://www.pcgamer.com/these-are-the-5-ai-features-at-ces-2024-we-will-absolutely-never-use-and-3-we-might)
- - [Honda&#39;s CES concept cars are more Cyberpunk 2077 than the cars in Cyberpunk 2077, and I challenge anyone to convince me otherwise](https://www.pcgamer.com/hondas-ces-concept-cars-are-more-cyberpunk-2077-than-the-cars-in-cyberpunk-2077-and-i-challenge-anyone-to-convince-me-otherwise)<!-- GAME:END -->
+ - [Free Play Days – EA Sports Takeover](https://news.xbox.com/en-us/2024/01/11/free-play-days-ea-sports-takeover/)
+ - [The 5 most ridiculously broken builds in D&amp;D history](https://www.pcgamer.com/the-5-most-ridiculously-broken-builds-in-dandd-history)
+ - [Baldur&#39;s Gate 3&#39;s permadeath honour mode has made Act 1 my own personal Groundhog Day, and I am either having a breakdown or becoming a god](https://www.pcgamer.com/baldurs-gate-3s-permadeath-honour-mode-has-made-act-1-my-own-personal-groundhog-day-and-i-am-either-having-a-breakdown-or-becoming-a-god)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
