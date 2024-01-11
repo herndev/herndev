@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay will pay $3M to resolve charges over a harassment campaign by staffers who sent spiders and other disturbing items to those behind the EcommerceBytes blog &lpar;Alanna Durkin Richer/Associated Press&rpar;](http://www.techmeme.com/240111/p32#a240111p32)
- - [eBay will pay $3 million over bizarre cyberstalking campaign](https://www.theverge.com/2024/1/11/24034688/ebay-cyberstalking-campaign-settlement-doj)
- - [Wi-Fi 7 quietly took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)<!-- TECH:END -->
+ - [This foldable costs $2,200 but comes with last year’s flagship chip](https://www.androidauthority.com/honor-magic-v2-rsr-porsche-design-3402357/)
+ - [Alphabet Union says Wednesday&#39;s layoffs at Google impacted more than 1,000 people, making it the largest round of cuts since January 2023 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240111/p34#a240111p34)
+ - [Google Cloud launches new generative AI tools for retailers to improve online shopping, including a chatbot that can offer product recommendations to consumers &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240111/p33#a240111p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
