@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
- - ⏩ [Migrants on their way to Europe proudly film how they get rid of their id&#39;s. Then when they reach Europe they are all 17 years old with no home country and can&#39;t be expelled from Europe. Notice how they are all younger men. Europe needs a new migration policy before it&#39;s to late](http://9gag.com/gag/a3Z6oXv)
- - 👉 [Never forget](http://9gag.com/gag/aA0jB6E)<!-- MEMES:END -->
+ - 💣 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
+ - ⏩ [Just train and shut up](http://9gag.com/gag/aVbAOx8)
+ - 👉 [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)<!-- MEMES:END -->
 
 ---
 
