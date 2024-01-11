@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Prince of Persia adds the best new feature to Metroidvanias in years](https://www.polygon.com/24032163/prince-of-persia-map-screenshots-memory-shards)
- - [Xbox Insider Release Notes – Beta &lpar;2402.240108-2200&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-beta-2402-240108-2200/)
- - [How to start the Pokémon Scarlet and Violet DLC epilogue and catch Pecharunt](https://www.polygon.com/pokemon-scarlet-violet-guide/24034463/start-dlc-epilogue-catch-pecharunt-mochi-mayhem)<!-- GAME:END -->
+ - [That Portal 64 demake we liked so much has been kiboshed by Valve: &#39;They have asked me to take the project down,&#39; creator says](https://www.pcgamer.com/that-portal-64-demake-we-liked-so-much-has-been-kiboshed-by-valve-they-have-asked-me-to-take-the-project-down-creator-says)
+ - [I’m Not Afraid To Say It: I’m Excited For Halo Season Two](https://kotaku.com/halo-series-season-2-trailer-reach-review-show-1851160308)
+ - [The new Mean Girls has a critical charisma gap](https://www.polygon.com/reviews/24033633/mean-girls-musical-movie-review-2024-tina-fey)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
