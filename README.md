@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Prince of Persia: The Lost Crown has a free demo you can play right now](https://www.pcgamer.com/prince-of-persia-the-lost-crown-has-a-free-demo-you-can-play-right-now)
- - [Xbox Insider Release Notes – Omega &lpar;2311.240110-1710&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-omega-2311-240110-1710/)
- - [Xbox Insider Release Notes – Delta &lpar;2311.240110-1710&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-delta-2311-240110-1710/)<!-- GAME:END -->
+ - [This Zelda: Tears of the Kingdom made a functional airship that doesn’t require energy cells](https://www.polygon.com/legend-zelda-tears-kingdom/24032923/zelda-tears-of-the-kingdom-totk-powerless-flight-airship)
+ - [Get ready for a year of out-of-control AI marketing: revived GameShark brand just announced peripherals that use AI to &#39;adapt to your play style&#39;](https://www.pcgamer.com/get-ready-for-a-year-of-out-of-control-ai-marketing-revived-gameshark-brand-just-announced-peripherals-that-use-ai-to-adapt-to-your-play-style)
+ - [Of course Steam said &#39;yes&#39; to generative AI in games: it&#39;s already everywhere](https://www.pcgamer.com/of-course-steam-said-yes-to-generative-ai-in-games-its-already-everywhere)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
