@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Context Matters: Clarifying the Context](http://9gag.com/gag/aL1ZqpP)
- - ⏩ [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)
- - 👉 [Uhm guys....](http://9gag.com/gag/a8qRr4V)<!-- MEMES:END -->
+ - 💣 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
+ - ⏩ [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
+ - 👉 [Never forget](http://9gag.com/gag/aA0jB6E)<!-- MEMES:END -->
 
 ---
 
