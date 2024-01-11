@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [Sources: OpenAI is in talks with CNN and Fox Corp. to license text, video, and image content; Time says it &quot;is in discussions with OpenAI&quot; about an agreement &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p37#a240110p37)
- - [The US ITC files its opposition to Apple&#39;s motion for the Watch Series 9 and Ultra 2 sales ban to be paused for the duration of Apple&#39;s appeal &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240110/p36#a240110p36)<!-- TECH:END -->
+ - [Here’s what we know about the SAG-AFTRA AI voice acting licensing deal](https://www.theverge.com/2024/1/10/24033258/sag-aftra-ai-video-game-voice-acting-licensing-replica-studios)
+ - [Xreal Air 2 Ultra Hands On: These Glasses Put Screens All Around You     - CNET](https://www.cnet.com/tech/mobile/xreal-air-2-ultra-hands-on-these-glasses-put-screens-all-around-you/#ftag=CAD590a51e)
+ - [All the Robot-Made Food and Drink I Tried at CES, Ranked From Worst to Best     - CNET](https://www.cnet.com/how-to/all-the-robot-made-food-and-drink-i-tried-at-ces-ranked-from-worst-to-best/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
