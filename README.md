@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1st class flight](http://9gag.com/gag/a2K3QnD)
+ - 💣 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
  - ⏩ [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
- - 👉 [Uhm guys....](http://9gag.com/gag/a8qRr4V)<!-- MEMES:END -->
+ - 👉 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)<!-- MEMES:END -->
 
 ---
 
