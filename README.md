@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)
- - ⏩ [Free sample](http://9gag.com/gag/axoLp5W)
- - 👉 [Snow Cats](http://9gag.com/gag/amA3qpd)<!-- MEMES:END -->
+ - 💣 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
+ - ⏩ [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)
+ - 👉 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)<!-- MEMES:END -->
 
 ---
 
