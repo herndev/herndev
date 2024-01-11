@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is ChatGPT not working for you? Here’s how you can try to fix it &lpar;Updated: New outage&rpar;](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [A look at some of the most interesting tech from CES 2024: Roxi&#39;s interactive music video channels for linear TV, Samsung&#39;s Ballie AI robot projector, and more &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/240111/p6#a240111p6)
- - [SVP of LVMH brand Benefit Cosmetics says the luxury conglomerate is in discussions with TikTok on a plan for limiting counterfeit products sold on the app &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240111/p5#a240111p5)<!-- TECH:END -->
+ - [Android 14 QPR 2 Beta 3 rolling out for Pixels, here’s what Google didn’t announce](https://www.androidauthority.com/android-14-qpr-2-beta-3-3402051/)
+ - [ChatGPT is down, users are reporting “Internal Server Error” message](https://www.androidauthority.com/chatgpt-is-down-3402082/)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it &lpar;Updated: New outage&rpar;](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
