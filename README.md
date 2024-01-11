@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone else?](http://9gag.com/gag/aGEmW5n)
+ - 💣 [Context Matters: Clarifying the Context](http://9gag.com/gag/aL1ZqpP)
  - ⏩ [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)
  - 👉 [Uhm guys....](http://9gag.com/gag/a8qRr4V)<!-- MEMES:END -->
 
