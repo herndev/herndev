@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
- - ⏩ [A core memory](http://9gag.com/gag/a7qQvxz)
+ - ⏩ [I think tatas should be unrestricted.](http://9gag.com/gag/ap9Oox5)
  - 👉 [She ate them all](http://9gag.com/gag/aNwNeo6)<!-- MEMES:END -->
 
 ---
