@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what we know about the SAG-AFTRA AI voice acting licensing deal](https://www.theverge.com/2024/1/10/24033258/sag-aftra-ai-video-game-voice-acting-licensing-replica-studios)
- - [Xreal Air 2 Ultra Hands On: These Glasses Put Screens All Around You     - CNET](https://www.cnet.com/tech/mobile/xreal-air-2-ultra-hands-on-these-glasses-put-screens-all-around-you/#ftag=CAD590a51e)
- - [All the Robot-Made Food and Drink I Tried at CES, Ranked From Worst to Best     - CNET](https://www.cnet.com/how-to/all-the-robot-made-food-and-drink-i-tried-at-ces-ranked-from-worst-to-best/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix says its ad tier has 23M+ MAUs globally, up from 15M+ in November 2023, and 85% of customers on the ad tier are streaming for over 2 hours per day &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240110/p38#a240110p38)
+ - [CES 2024 Is All About AI. You Can Blame ChatGPT for That     - CNET](https://www.cnet.com/tech/ces-2024-is-all-about-ai-you-can-blame-chatgpt-for-that/#ftag=CAD590a51e)
+ - [Tax Season 2024: File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
