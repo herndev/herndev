@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
- - ⏩ [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
- - 👉 [Never forget](http://9gag.com/gag/aA0jB6E)<!-- MEMES:END -->
+ - 💣 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
+ - ⏩ [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
+ - 👉 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)<!-- MEMES:END -->
 
 ---
 
