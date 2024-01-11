@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Raccoo Venture was Created by Just One Person and Teaches Valuable Lessons](https://news.xbox.com/en-us/2024/01/11/raccoo-venture-was-created-by-just-one-person-and-teaches-valuable-lessons/)
- - [The Last Of Us Season Two Casts Dora The Explorer Actor As Dina](https://kotaku.com/the-last-of-us-hbo-max-dina-actor-isabela-merced-1851159653)
- - [Here are all of the Intel Meteor Lake gaming laptops we saw launched at CES 2024](https://www.pcgamer.com/here-are-all-of-the-intel-meteor-lake-gaming-laptops-we-saw-launched-at-ces-2024)<!-- GAME:END -->
+ - [Prince of Persia adds the best new feature to Metroidvanias in years](https://www.polygon.com/24032163/prince-of-persia-map-screenshots-memory-shards)
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240108-2200&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-beta-2402-240108-2200/)
+ - [How to start the Pokémon Scarlet and Violet DLC epilogue and catch Pecharunt](https://www.polygon.com/pokemon-scarlet-violet-guide/24034463/start-dlc-epilogue-catch-pecharunt-mochi-mayhem)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
