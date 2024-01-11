@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This foldable costs $2,200 but comes with last year’s flagship chip](https://www.androidauthority.com/honor-magic-v2-rsr-porsche-design-3402357/)
- - [Alphabet Union says Wednesday&#39;s layoffs at Google impacted more than 1,000 people, making it the largest round of cuts since January 2023 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240111/p34#a240111p34)
- - [Google Cloud launches new generative AI tools for retailers to improve online shopping, including a chatbot that can offer product recommendations to consumers &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240111/p33#a240111p33)<!-- TECH:END -->
+ - [Apple Board of Directors shuffle sees Al Gore &amp; James Bell retire](https://appleinsider.com/articles/24/01/11/apple-board-of-directors-shuffle-sees-al-gore-james-bell-retire?utm_medium=rss)
+ - [Dexcom’s new continuous glucose monitor is a health tech gadget with purpose](https://www.theverge.com/2024/1/11/24034098/dexcom-stelo-cgm-diabetes-health-tech-ces-2024)
+ - [Apple says Al Gore and James Bell will retire from its board this year, and Wanda Austin, ex-president and CEO of The Aerospace Corporation, will join the board &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240111/p37#a240111p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
