@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congress Wants Tech Companies to Pay Up for AI Training Data](https://www.wired.com/story/congress-senate-tech-companies-pay-ai-training-data/)
- - [US SEC Chair Gary Gensler concedes that the SEC&#39;s loss in court over rejecting Grayscale&#39;s spot bitcoin ETF left it with little choice but to approve such ETFs &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240110/p35#a240110p35)
- - [Apple Watch import ban stay opposed by ITC](https://appleinsider.com/articles/24/01/10/apple-watch-import-ban-stay-opposed-by-itc?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+ - [Sources: OpenAI is in talks with CNN and Fox Corp. to license text, video, and image content; Time says it &quot;is in discussions with OpenAI&quot; about an agreement &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p37#a240110p37)
+ - [The US ITC files its opposition to Apple&#39;s motion for the Watch Series 9 and Ultra 2 sales ban to be paused for the duration of Apple&#39;s appeal &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240110/p36#a240110p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
