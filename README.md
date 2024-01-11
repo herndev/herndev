@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - ⏩ [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
- - 👉 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/amAejqy)
+ - ⏩ [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 👉 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)<!-- MEMES:END -->
 
 ---
 
