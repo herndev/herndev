@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big changes at Google: Pixel, Nest, and Fitbit teams to merge under one hardware umbrella](https://www.androidauthority.com/google-pixel-nest-fitbit-hardware-restructure-3402034/)
- - [Sources: OpenAI, Inflection, and Cohere held back-channel talks on AI safety with Chinese state-backed groups in Geneva in July 2023 and October 2023 &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240111/p3#a240111p3)
- - [Sources: several hundred employees from Google&#39;s core engineering division received notices that their roles were eliminated and lost corporate access &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240111/p2#a240111p2)<!-- TECH:END -->
+ - [SVP of LVMH brand Benefit Cosmetics says the luxury conglomerate is in discussions with TikTok on a plan for limiting counterfeit products sold on the app &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240111/p5#a240111p5)
+ - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
+ - [Harvard spinout QuEra, a quantum computing startup, plans to release an error-corrected quantum computer with 10,000 physical and 100 logical qubits by 2026 &lpar;John Timmer/Ars Technica&rpar;](http://www.techmeme.com/240111/p4#a240111p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
