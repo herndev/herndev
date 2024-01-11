@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is removing nearly 20 features from Assistant starting this month](https://www.androidauthority.com/removing-google-assistant-features-2024-3401964/)
- - [Apple earns 11 Screen Actors Guild nominations, including last ones for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/24/01/10/apple-earns-ten-screen-actors-guild-nominations-including-last-ones-for-ted-lasso?utm_medium=rss)
- - [After announcing the $199 R1 &quot;Large Action Model&quot; AI handheld at CES, Rabbit sold 10,000 units in one day; second batch orders should ship in April to May 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240111/p13#a240111p13)<!-- TECH:END -->
+ - [POCO X6 series launched: 512GB phones for well under $400](https://www.androidauthority.com/poco-x6-series-3401284/)
+ - [After spending $13M+ on US lobbying in the past decade, Huawei quietly shutters its in-house lobbying operation, ending an effort to overturn the US bans &lpar;Bloomberg&rpar;](http://www.techmeme.com/240111/p16#a240111p16)
+ - [ByteDance plans to shut down music streaming service Resso in India on January 31, after removing the App Store and Google Play apps in mid-December 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240111/p15#a240111p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
