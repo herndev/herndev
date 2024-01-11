@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is losing its Fitbit leaders and laying off hundreds of AR employees](https://www.theverge.com/2024/1/10/24033994/google-reorganization-fitbit-park-friedman-ar-layoffs)
- - [A survey of 9,388 software engineers in December 2023 finds ~90% believe getting a job now is harder than pre-pandemic, 60%+ believe AI will lead to less hiring &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/240110/p39#a240110p39)
- - [Best of CES 2024 Awards: The top products from the show!](https://www.androidauthority.com/best-of-ces-2024-awards-3401747/)<!-- TECH:END -->
+ - [Google is reorganizing the Devices &amp; Services teams working on the Pixel, Fitbit, and Nest; Fitbit co-founders James Park and Eric Friedman are leaving Google &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240110/p40#a240110p40)
+ - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)
+ - [Google is losing its Fitbit leaders and laying off hundreds of AR employees](https://www.theverge.com/2024/1/10/24033994/google-reorganization-fitbit-park-friedman-ar-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
