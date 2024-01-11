@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when Call of Duty: Warzone Season 1 Reloaded releases and what to expect](https://www.pcgamer.com/call-of-duty-warzone-season-1-reloaded-release-date-patch-notes)
- - [Lenovo&#39;s Magic Bay means you can add a monster-sized removable webcam, a handy dandy perfume pump, or dedicated emoji screen to your new ThinkBook laptop](https://www.pcgamer.com/lenovos-magic-bay-means-you-can-add-a-monster-sized-removable-webcam-a-handy-dandy-perfume-pump-or-dedicated-emoji-screen-to-your-new-thinkbook-laptop)
- - [Sovereign Syndicate review](https://www.pcgamer.com/sovereign-syndicate-review)<!-- GAME:END -->
+ - [Momodora: Moonlit Farewell is a charming metroidvania about defending a village with your fellow magical girls via the power of friendship and a big leaf](https://www.pcgamer.com/momodora-moonlit-farewell-is-a-charming-metroidvania-about-defending-a-village-with-your-fellow-magical-girls-via-the-power-of-friendship-and-a-big-leaf)
+ - [XGIMI Horizon Ultra review](https://www.pcgamer.com/xgimi-horizon-ultra-4k-projector-review)
+ - [Dell founder says calm down about SHODAN-style sentient AI because &#39;you remember the ozone layer and all&#39; and we fixed that](https://www.pcgamer.com/dell-founder-says-calm-down-about-shodan-style-sentient-ai-because-you-remember-the-ozone-layer-and-all-and-we-fixed-that)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
