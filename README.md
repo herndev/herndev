@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is reorganizing the Devices &amp; Services teams working on the Pixel, Fitbit, and Nest; Fitbit co-founders James Park and Eric Friedman are leaving Google &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240110/p40#a240110p40)
- - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)
- - [Google is losing its Fitbit leaders and laying off hundreds of AR employees](https://www.theverge.com/2024/1/10/24033994/google-reorganization-fitbit-park-friedman-ar-layoffs)<!-- TECH:END -->
+ - [Big changes at Google: Pixel, Nest, and Fitbit teams to merge under one hardware umbrella](https://www.androidauthority.com/google-pixel-nest-fitbit-hardware-restructure-3402034/)
+ - [Sources: OpenAI, Inflection, and Cohere held back-channel talks on AI safety with Chinese state-backed groups in Geneva in July 2023 and October 2023 &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240111/p3#a240111p3)
+ - [Sources: several hundred employees from Google&#39;s core engineering division received notices that their roles were eliminated and lost corporate access &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240111/p2#a240111p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
