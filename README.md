@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SVP of LVMH brand Benefit Cosmetics says the luxury conglomerate is in discussions with TikTok on a plan for limiting counterfeit products sold on the app &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240111/p5#a240111p5)
- - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
- - [Harvard spinout QuEra, a quantum computing startup, plans to release an error-corrected quantum computer with 10,000 physical and 100 logical qubits by 2026 &lpar;John Timmer/Ars Technica&rpar;](http://www.techmeme.com/240111/p4#a240111p4)<!-- TECH:END -->
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it &lpar;Updated: New outage&rpar;](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [A look at some of the most interesting tech from CES 2024: Roxi&#39;s interactive music video channels for linear TV, Samsung&#39;s Ballie AI robot projector, and more &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/240111/p6#a240111p6)
+ - [SVP of LVMH brand Benefit Cosmetics says the luxury conglomerate is in discussions with TikTok on a plan for limiting counterfeit products sold on the app &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240111/p5#a240111p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
