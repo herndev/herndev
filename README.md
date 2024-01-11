@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [POCO X6 series launched: 512GB phones for well under $400](https://www.androidauthority.com/poco-x6-series-3401284/)
- - [After spending $13M+ on US lobbying in the past decade, Huawei quietly shutters its in-house lobbying operation, ending an effort to overturn the US bans &lpar;Bloomberg&rpar;](http://www.techmeme.com/240111/p16#a240111p16)
- - [ByteDance plans to shut down music streaming service Resso in India on January 31, after removing the App Store and Google Play apps in mid-December 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240111/p15#a240111p15)<!-- TECH:END -->
+ - [Sony’s Afeela needs to be more than a feeling](https://www.theverge.com/24033762/sony-afeela-hands-on-ces-2024)
+ - [A researcher finds 800GB of data online tied to school software maker Raptor, used by 5,300+ US districts, including evacuation plans and student medical files &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240111/p19#a240111p19)
+ - [The OnePlus 12’s periscope camera is coming to a budget phone](https://www.androidauthority.com/realme-12-pro-series-oneplus-12-periscope-camera-3402228/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
