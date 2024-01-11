@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
- - ⏩ [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - 👉 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)<!-- MEMES:END -->
+ - 💣 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
+ - ⏩ [A core memory](http://9gag.com/gag/a7qQvxz)
+ - 👉 [She ate them all](http://9gag.com/gag/aNwNeo6)<!-- MEMES:END -->
 
 ---
 
