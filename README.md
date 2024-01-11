@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Big Problem With the Giant Stanley Cup](https://www.wired.com/story/stanley-cup-quencher-environment/)
- - [Canada partners with SecurityScorecard to assess the cyber resilience of companies critical to the country&#39;s infrastructure and assign them letter grades &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/240111/p27#a240111p27)
- - [HONOR Magic 6 Pro launched with a crazy 180MP periscope camera](https://www.androidauthority.com/honor-magic-6-pro-3402274/)<!-- TECH:END -->
+ - [1X, an OpenAI-backed developer of humanoid robots with plans to bring its bipedal robot NEO to the market, raised a $100M Series B from EQT Ventures and others &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240111/p31#a240111p31)
+ - [You might not have to ever charge your phone again thanks to nuclear batteries](https://www.androidauthority.com/nuclear-phone-battery-in-development-3402297/)
+ - [CES 2024: The 26 Best Gadgets You Can Buy Right Now](https://www.wired.com/story/ces-2024-gadgets-you-can-buy-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
