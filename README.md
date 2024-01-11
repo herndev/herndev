@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Munich-based car subscription startup Finn, which manages 25K subscriptions in Germany and the US, raised a &amp;euro;100M Series C at a &amp;euro;600M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240111/p10#a240111p10)
- - [Moto G Stylus &lpar;2024&rpar; leaked renders showcase the only budget alternative for stylus lovers](https://www.androidauthority.com/moto-g-stylus-2024-leaked-renders-3402156/)
- - [London-based Hyperexponential, which offers math modeling tools to insurance companies to help price policies, raised $73M led by Battery Ventures &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240111/p9#a240111p9)<!-- TECH:END -->
+ - [Google is removing nearly 20 features from Assistant starting this month](https://www.androidauthority.com/removing-google-assistant-features-2024-3401964/)
+ - [Apple earns 11 Screen Actors Guild nominations, including last ones for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/24/01/10/apple-earns-ten-screen-actors-guild-nominations-including-last-ones-for-ted-lasso?utm_medium=rss)
+ - [After announcing the $199 R1 &quot;Large Action Model&quot; AI handheld at CES, Rabbit sold 10,000 units in one day; second batch orders should ship in April to May 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240111/p13#a240111p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
