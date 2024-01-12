@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ayaneo’s Next Lite is a $299 Steam Deck competitor with unofficial SteamOS](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
- - [Check out the weirdest tech from CES 2024](https://appleinsider.com/articles/24/01/12/check-out-the-weirdest-tech-from-ces-2024?utm_medium=rss)
- - [Microsoft now lets EU customers store and process data within the bloc on Azure, Microsoft 365, Power Platform, and Dynamics 365, following AWS and Oracle &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240111/p43#a240111p43)<!-- TECH:END -->
+ - [How Menlo Ventures is using a special purpose vehicle to lead Anthropic&#39;s unusual $750M fundraise, helping, in part, to price bets by Amazon and Google &lpar;Forbes&rpar;](http://www.techmeme.com/240111/p45#a240111p45)
+ - [Leaked Galaxy S24 Ultra hands-on video reveals Samsung’s vision of a flatter future](https://www.androidauthority.com/samsung-galaxy-s24-ultra-hands-on-video-leak-3402517/)
+ - [Apple quietly increased the Find My limit to 32 items](https://appleinsider.com/articles/24/01/12/apple-quietly-increased-the-find-my-limit-to-32-items?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
