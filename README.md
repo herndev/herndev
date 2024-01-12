@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI has signed up 260 enterprise customers with 150K+ employees combined for the corporate version of ChatGPT, barely four months after launching the product &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240111/p42#a240111p42)
- - [Ayaneo’s Next Lite takes on the Steam Deck with an unofficial version of SteamOS](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
- - [Best iPhone Deals 2024: Cheapest Ways to Get an Apple Phone     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ayaneo’s Next Lite is a $299 Steam Deck competitor with unofficial SteamOS](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
+ - [Check out the weirdest tech from CES 2024](https://appleinsider.com/articles/24/01/12/check-out-the-weirdest-tech-from-ces-2024?utm_medium=rss)
+ - [Microsoft now lets EU customers store and process data within the bloc on Azure, Microsoft 365, Power Platform, and Dynamics 365, following AWS and Oracle &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240111/p43#a240111p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
