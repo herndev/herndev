@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music unveils trailer for Usher&#39;s Super Bowl LVII halftime show, shares new artist-curated Playlist](https://appleinsider.com/articles/24/01/12/apple-music-unveils-trailer-for-ushers-super-bowl-lvii-halftime-show-shares-new-artist-curated-playlist?utm_medium=rss)
+ - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
  - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [An analysis of fediverse backend hosting providers finds Germany-based Hetzner hosts 51% of the network by number of active users, followed by France-based OVH &lpar;Ben Cox/Ben&#39;s Blog&rpar;](http://www.techmeme.com/240112/p17#a240112p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
