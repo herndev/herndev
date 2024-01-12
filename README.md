@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s how to watch the Diablo 4 Season 3 announcement livestream](https://www.pcgamer.com/diablo-4-season-3-livestream-campfire-chat)
- - [Star Wars Jedi: Survivor adds three types of slow motion, as well as other impressive accessibility updates and performance tweaks](https://www.pcgamer.com/star-wars-jedi-survivor-adds-three-types-of-slow-motion-as-well-as-other-impressive-accessibility-updates-and-performance-tweaks)
- - [Ayaeneo&#39;s Next Lite is &#39;the cost-effective choice&#39; but only because it cloned SteamOS off Github and jammed a 4 year-old APU into it](https://www.pcgamer.com/ayaeneos-next-lite-is-the-cost-effective-choice-but-only-because-it-cloned-steamos-off-github-and-jammed-a-4-year-old-apu-into-it)<!-- GAME:END -->
+ - [Next-generation batteries may be coming faster than you think, thanks to an AI helping hand](https://www.pcgamer.com/next-generation-batteries-may-be-coming-faster-than-you-think-thanks-to-an-ai-helping-hand)
+ - [Minecraft Legends goes into maintenance mode 9 months after release, as devs announce they&#39;re &#39;going to take a step back from development&#39;](https://www.pcgamer.com/minecraft-legends-goes-into-maintenance-mode-9-months-after-release-as-devs-announce-theyre-going-to-take-a-step-back-from-development)
+ - [Here&#39;s how to watch the Diablo 4 Season 3 announcement livestream](https://www.pcgamer.com/diablo-4-season-3-livestream-campfire-chat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
