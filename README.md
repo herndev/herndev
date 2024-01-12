@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s how to get unlimited data abroad on your iPhone with this complete eSIM guide](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)
- - [Microsoft wants to automatically launch its Copilot AI on some Windows 11 devices](https://www.theverge.com/2024/1/12/24035637/microsoft-windows-11-copilot-ai-chatbot-automatically-open-boot-startup)
- - [Palantir EVP Josh Harris says Palantir and Israel agreed to a strategic partnership to use &quot;Palantir&#39;s advanced technology in support of war-related missions&quot; &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240112/p5#a240112p5)<!-- TECH:END -->
+ - [Snoopy and &#39;Fraggle Rock&#39; are back for the new year on Apple TV+](https://appleinsider.com/articles/24/01/12/snoopy-and-fraggle-rock-are-back-for-the-new-year-on-apple-tv?utm_medium=rss)
+ - [Norway’s Deep-Sea Mining Decision Is a Warning](https://www.wired.com/story/norway-deep-sea-mining-arctic-svalbard-batteries-environment/)
+ - [&#39;Killers of the Flower Moon&#39; is now streaming on Apple TV+](https://appleinsider.com/articles/24/01/12/killers-of-the-flower-moon-is-now-streaming-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
