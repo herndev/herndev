@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - ⏩ [Happy accident for him](http://9gag.com/gag/abv73Wv)
- - 👉 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)<!-- MEMES:END -->
+ - 💣 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - ⏩ [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 👉 [Happy accident for him](http://9gag.com/gag/abv73Wv)<!-- MEMES:END -->
 
 ---
 
