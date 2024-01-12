@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with the Zenbook Duo &lpar;2024&rpar; and Zephyrus G14: The hottest new laptops from ASUS](https://www.androidauthority.com/asus-zenbook-duo-zephyrus-14-16-ces-2024-3402502/)
- - [What you need to order Apple Vision Pro from the Apple Store online](https://appleinsider.com/articles/24/01/12/what-you-need-to-order-apple-vision-pro-from-the-apple-store-online?utm_medium=rss)
- - [Apple says users will need an iPhone or iPad with Face ID to pre-order the Vision Pro, to scan their face and determine the right size Light Seal and head bands &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240112/p8#a240112p8)<!-- TECH:END -->
+ - [South Korea&#39;s financial regulator says US bitcoin ETFs may conflict with the country&#39;s Virtual Asset User Protection Act and Capital Markets Act, plans a review &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/240112/p9#a240112p9)
+ - [OnePlus 12 price leak points to big price hike for at least one market](https://www.androidauthority.com/oneplus-12-pricing-amazon-leak-3402686/)
+ - [B&amp;H&#39;s latest discounts slash up to $1,700 off Apple computers](https://appleinsider.com/articles/24/01/12/bhs-latest-discounts-slash-up-to-1700-off-apple-computers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
