@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppenheimer will stream on Peacock in February](https://www.theverge.com/2024/1/12/24035900/oppenheimer-peacock-streaming-date)
- - [Security researchers say they warned Apple as early as 2019 about AirDrop vulnerabilities that Chinese authorities claim they recently used to identify users &lpar;CNN&rpar;](http://www.techmeme.com/240112/p10#a240112p10)
- - [This high-tech sex toy syncs its vibes with music](https://www.theverge.com/2024/1/12/24035200/oh-ohdoki-vibrator-sex-tech-ces)<!-- TECH:END -->
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
+ - [Bitconned is a scammer’s guide to crypto](https://www.theverge.com/24035066/bitconned-ray-trapani-centra-tech)
+ - [The Boeing 737 Max Crisis Reignites Arguments Over Infant Safety on Planes](https://www.wired.com/story/boeing-373-max-infant-child-safety-flying-airplane-seatbelt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
