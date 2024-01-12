@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: PE firms Bain Capital and Hellman &amp; Friedman are competing to buy DocuSign but may partner to clinch a deal; an outcome is expected in the coming weeks &lpar;Reuters&rpar;](http://www.techmeme.com/240111/p40#a240111p40)
- - [Google Play Store expands RMG app support for new ways to win money](https://www.androidauthority.com/real-money-gaming-play-store-3402491/)
- - [The Peregrine lunar lander didn’t land, but it’s still collecting data](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads)<!-- TECH:END -->
+ - [OpenAI has signed up 260 enterprise customers with 150K+ employees combined for the corporate version of ChatGPT, barely four months after launching the product &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240111/p42#a240111p42)
+ - [Ayaneo’s Next Lite takes on the Steam Deck with an unofficial version of SteamOS](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
+ - [Substack keeps the Nazis, loses Platformer](https://www.theverge.com/2024/1/11/24035338/substack-nazis-platformer-newsletter-switch-to-ghost)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
