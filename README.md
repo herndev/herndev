@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)
- - ⏩ [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)
- - 👉 [That is not metal scream. a dragon marking his territory.](http://9gag.com/gag/awZw7Vr)<!-- MEMES:END -->
+ - 💣 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - ⏩ [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
+ - 👉 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)<!-- MEMES:END -->
 
 ---
 
