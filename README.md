@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge Awards at CES 2024](https://www.theverge.com/2024/1/12/24034953/ces-2024-verge-awards-best-tv-laptop-monitor-gaming-car)
- - [The Verge’s best of CES 2024](https://www.theverge.com/24026787/ces-best-of-samsung-ballie-lg-tv)
- - [OpenAI quietly removed a ban on &quot;military and warfare&quot; use from its usage policy, as part of a major rewrite to make the policy &quot;clearer&quot; and &quot;more readable&quot; &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/240112/p15#a240112p15)<!-- TECH:END -->
+ - [Apple Music unveils trailer for Usher&#39;s Super Bowl LVII halftime show, shares new artist-curated Playlist](https://appleinsider.com/articles/24/01/12/apple-music-unveils-trailer-for-ushers-super-bowl-lvii-halftime-show-shares-new-artist-curated-playlist?utm_medium=rss)
+ - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
