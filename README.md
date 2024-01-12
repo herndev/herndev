@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #937 for Friday, January 12](https://www.pcgamer.com/wordle-today-answer-937-january-12)
  - [I was already intrigued by this Disco Elysium-inspired, D&amp;D-based RPG where you play as the world&#39;s worst cleric, but its demo blew my expectations out of the water](https://www.pcgamer.com/i-was-already-intrigued-by-this-disco-elysium-inspired-dandd-based-rpg-where-you-play-as-the-worlds-worst-cleric-but-its-demo-blew-my-expectations-out-of-the-water)
- - [Sand Land launches April 26 – new vehicular gameplay details revealed](https://blog.playstation.com/2024/01/11/sand-land-launches-april-26-new-vehicular-gameplay-details-revealed/)
  - [Sand Land launches April 26 – new vehicular gameplay details revealed](https://blog.playstation.com/2024/01/11/sand-land-launches-april-26-new-vehicular-gameplay-details-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
