@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snoopy and &#39;Fraggle Rock&#39; are back for the new year on Apple TV+](https://appleinsider.com/articles/24/01/12/snoopy-and-fraggle-rock-are-back-for-the-new-year-on-apple-tv?utm_medium=rss)
- - [Norway’s Deep-Sea Mining Decision Is a Warning](https://www.wired.com/story/norway-deep-sea-mining-arctic-svalbard-batteries-environment/)
- - [&#39;Killers of the Flower Moon&#39; is now streaming on Apple TV+](https://appleinsider.com/articles/24/01/12/killers-of-the-flower-moon-is-now-streaming-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Your Medical Data Is Code Blue](https://www.wired.com/story/plaintext-our-medical-security-is-code-blue/)
+ - [2024 Is Going to Be a Rough Year for TV](https://www.wired.com/story/2024-is-going-to-be-a-rough-year-for-tv/)
+ - [How to report problems on the road in Apple Maps or Google Maps](https://www.theverge.com/24034847/maps-google-apple-traffic-report-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
