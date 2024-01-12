@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - ⏩ [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
- - 👉 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)<!-- MEMES:END -->
+ - 💣 [Dinner time](http://9gag.com/gag/a9qoPV1)
+ - ⏩ [Let&#39;s party](http://9gag.com/gag/a2KeYQZ)
+ - 👉 [That is not metal scream. a dragon marking his territory.](http://9gag.com/gag/awZw7Vr)<!-- MEMES:END -->
 
 ---
 
