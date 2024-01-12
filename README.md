@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Does anyone else really miss cleaning the gunk out of old mice?](https://www.pcgamer.com/does-anyone-else-really-miss-cleaning-the-gunk-out-of-old-mice)
- - [Geoff Keighley’s Modest TikTok Is The Best Thing On The Internet](https://kotaku.com/geoff-keighley-the-game-awards-2024-tiktok-1851163415)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240110-2000&rpar;](https://news.xbox.com/en-us/2024/01/12/xbox-insider-release-notes-alpha-skip-ahead-2408-240110-2000/)<!-- GAME:END -->
+ - [Humble’s $10 bundle includes several AGDQ 2024 speedrunning favorites](https://www.polygon.com/deals/24036258/humble-bundle-agdq-2024-bayonetta-sonic-celeste-bloodstained)
+ - [Suicide Squad Devs Spent Last Year Ripping Out Hated Gear Scores](https://kotaku.com/suicide-squad-gear-score-removed-live-service-shooter-1851163490)
+ - [Official PlayStation Podcast Episode 476: Games For A Change](https://blog.playstation.com/2024/01/12/official-playstation-podcast-episode-476-games-for-a-change/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
