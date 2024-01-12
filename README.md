@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with OpenAI COO Brad Lightcap on managing deals with publishers, launching the GPT Store, OpenAI&#39;s corporate structure, Sam Altman&#39;s departure, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240112/p4#a240112p4)
- - [Here’s how you can turn your Wear OS smartwatch into a floating mouse for your PC](https://www.androidauthority.com/how-to-turn-wear-os-smartwatch-into-mouse-3402578/)
- - [Tax Season 2024: Here&#39;s How to File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-heres-how-to-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I rode in a Hyundai Ioniq 5 with wheels that go sideways](https://www.theverge.com/24035050/hyundai-mobis-e-corner-system-ioniq-5-crab-drive-360)
+ - [Rivian aims to slash carbon footprint of its next-generation EVs](https://www.theverge.com/2024/1/12/24034894/rivian-impact-report-carbon-footprint-renewable-energy-ev)
+ - [Tim Cook&#39;s pay drops to $63 million for 2023](https://appleinsider.com/articles/24/01/12/tim-cooks-pay-drops-to-63-million-for-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
