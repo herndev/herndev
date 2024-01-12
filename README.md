@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice Play](http://9gag.com/gag/aOxwq5R)
- - ⏩ [How old am I](http://9gag.com/gag/aOxwyEE)
- - 👉 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)<!-- MEMES:END -->
+ - 💣 [Free sample](http://9gag.com/gag/axoLp5W)
+ - ⏩ [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - 👉 [Revenge](http://9gag.com/gag/az2ngdN)<!-- MEMES:END -->
 
 ---
 
