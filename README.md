@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Algoriddim CEO discusses bringing djay to Apple Vision Pro](https://appleinsider.com/articles/24/01/11/algoriddim-ceo-discusses-bringing-djay-to-apple-vision-pro?utm_medium=rss)
- - [UK&#39;s antitrust agency is going to put the screws to US big tech in 2024](https://appleinsider.com/articles/24/01/11/uks-antitrust-agency-is-going-to-lean-on-us-big-tech-heavily-in-2024?utm_medium=rss)
- - [New York&#39;s weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: PE firms Bain Capital and Hellman &amp; Friedman are competing to buy DocuSign but may partner to clinch a deal; an outcome is expected in the coming weeks &lpar;Reuters&rpar;](http://www.techmeme.com/240111/p40#a240111p40)
+ - [Google Play Store expands RMG app support for new ways to win money](https://www.androidauthority.com/real-money-gaming-play-store-3402491/)
+ - [The Peregrine lunar lander didn’t land, but it’s still collecting data](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
