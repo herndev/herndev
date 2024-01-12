@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - ⏩ [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
- - 👉 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)<!-- MEMES:END -->
+ - 💣 [Nice Play](http://9gag.com/gag/aOxwq5R)
+ - ⏩ [How old am I](http://9gag.com/gag/aOxwyEE)
+ - 👉 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)<!-- MEMES:END -->
 
 ---
 
