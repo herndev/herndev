@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Dazzling Dream’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2024/1/12/24036094/dazzling-dream-event-collection-challenge-timed-research-spawns-shiny-cutiefly)
- - [All The New Guns, Maps, And Modes In Call Of Duty Season 1 Reloaded [Updated]](https://kotaku.com/call-of-duty-season-1-reloaded-warzone-new-gun-map-mode-1851160627)
- - [Overwatch 2 getting huge change to tanks and damage heroes, who will self-heal soon](https://www.polygon.com/24036380/overwatch-2-season-9-tank-dps-self-healing-passive)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.240111-2200&rpar;](https://news.xbox.com/en-us/2024/01/12/xbox-insider-release-notes-alpha-2402-240111-2200/)
+ - [12 Days Into 2024 And 2700+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
+ - [Laurence Fishburne joins Netflix&#39;s The Witcher as Geralt&#39;s best vampire buddy](https://www.pcgamer.com/laurence-fishburne-joins-netflixs-the-witcher-as-geralts-best-vampire-buddy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
