@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [OpenAI has signed up 260 enterprise customers with 150K+ employees combined for the corporate version of ChatGPT, barely four months after launching the product &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240111/p42#a240111p42)
  - [Ayaneo’s Next Lite takes on the Steam Deck with an unofficial version of SteamOS](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
- - [Substack keeps the Nazis, loses Platformer](https://www.theverge.com/2024/1/11/24035338/substack-nazis-platformer-newsletter-switch-to-ghost)<!-- TECH:END -->
+ - [Best iPhone Deals 2024: Cheapest Ways to Get an Apple Phone     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
