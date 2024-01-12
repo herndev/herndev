@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As deepfakes warp elections overseas, US state legislators race to enact laws, with varying penalties, requiring disclosure of the use of AI in political ads &lpar;David W. Chen/New York Times&rpar;](http://www.techmeme.com/240112/p3#a240112p3)
  - [Sources: the UK plans to publish &quot;key tests&quot; that need to be met to pass new AI laws, including if its new AI Safety Institute fails to identify risks &lpar;Financial Times&rpar;](http://www.techmeme.com/240112/p2#a240112p2)
- - [Pixel Launcher could soon give you the freedom to choose your own web search engine](https://www.androidauthority.com/pixel-launcher-search-engine-setting-3402522/)
- - [Notes on Meta&#39;s plans for Threads integration with the fediverse, which, at least superficially, the company is carrying out cautiously and in good faith &lpar;Tom Coates/plasticbag.org&rpar;](http://www.techmeme.com/240112/p1#a240112p1)<!-- TECH:END -->
+ - [Pixel Launcher could soon give you the freedom to choose your own web search engine](https://www.androidauthority.com/pixel-launcher-search-engine-setting-3402522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
