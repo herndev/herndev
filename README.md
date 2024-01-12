@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As deepfakes warp elections overseas, US state legislators race to enact laws, with varying penalties, requiring disclosure of the use of AI in political ads &lpar;David W. Chen/New York Times&rpar;](http://www.techmeme.com/240112/p3#a240112p3)
- - [Sources: the UK plans to publish &quot;key tests&quot; that need to be met to pass new AI laws, including if its new AI Safety Institute fails to identify risks &lpar;Financial Times&rpar;](http://www.techmeme.com/240112/p2#a240112p2)
- - [Pixel Launcher could soon give you the freedom to choose your own web search engine](https://www.androidauthority.com/pixel-launcher-search-engine-setting-3402522/)<!-- TECH:END -->
+ - [Your Galaxy smartphone can receive its missing Google Play System Updates again](https://www.androidauthority.com/samsung-galaxy-fix-google-play-system-update-3402552/)
+ - [Google was right, people are really upset about the Assistant feature cut](https://www.androidauthority.com/google-assistant-features-removed-2024-3402551/)
+ - [As deepfakes warp elections overseas, US state legislators race to enact laws, with varying penalties, requiring disclosure of the use of AI in political ads &lpar;David W. Chen/New York Times&rpar;](http://www.techmeme.com/240112/p3#a240112p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
