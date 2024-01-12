@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Galaxy smartphone can receive its missing Google Play System Updates again](https://www.androidauthority.com/samsung-galaxy-fix-google-play-system-update-3402552/)
- - [Google was right, people are really upset about the Assistant feature cut](https://www.androidauthority.com/google-assistant-features-removed-2024-3402551/)
- - [As deepfakes warp elections overseas, US state legislators race to enact laws, with varying penalties, requiring disclosure of the use of AI in political ads &lpar;David W. Chen/New York Times&rpar;](http://www.techmeme.com/240112/p3#a240112p3)<!-- TECH:END -->
+ - [Q&amp;A with OpenAI COO Brad Lightcap on managing deals with publishers, launching the GPT Store, OpenAI&#39;s corporate structure, Sam Altman&#39;s departure, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240112/p4#a240112p4)
+ - [Here’s how you can turn your Wear OS smartwatch into a floating mouse for your PC](https://www.androidauthority.com/how-to-turn-wear-os-smartwatch-into-mouse-3402578/)
+ - [Tax Season 2024: Here&#39;s How to File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-heres-how-to-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
