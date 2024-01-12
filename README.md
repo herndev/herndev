@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC sends letters to nine of the largest automakers, raising concerns about abusive partners using connected car apps to harass and track their victims &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240111/p38#a240111p38)
- - [This ring lets you whisper commands to your voice assistant](https://www.androidauthority.com/whsp-ring-ai-assistant-3402456/)
- - [Apple Board of Directors shuffle sees Al Gore &amp; James Bell retire](https://appleinsider.com/articles/24/01/11/apple-board-of-directors-shuffle-sees-al-gore-james-bell-retire?utm_medium=rss)<!-- TECH:END -->
+ - [Algoriddim CEO discusses bringing djay to Apple Vision Pro](https://appleinsider.com/articles/24/01/11/algoriddim-ceo-discusses-bringing-djay-to-apple-vision-pro?utm_medium=rss)
+ - [UK&#39;s antitrust agency is going to put the screws to US big tech in 2024](https://appleinsider.com/articles/24/01/11/uks-antitrust-agency-is-going-to-lean-on-us-big-tech-heavily-in-2024?utm_medium=rss)
+ - [New York&#39;s weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
