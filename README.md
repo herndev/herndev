@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - ⏩ [Nice Play](http://9gag.com/gag/aOxwq5R)
- - 👉 [The future is now, old man](http://9gag.com/gag/aL1xQZP)<!-- MEMES:END -->
+ - 💣 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - ⏩ [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - 👉 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)<!-- MEMES:END -->
 
 ---
 
