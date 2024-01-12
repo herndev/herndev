@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Smite 2 is coming, won’t replace the original Smite](https://www.polygon.com/24036211/smite-2-hi-rez-studios-pc-moba)
- - [Overwatch 2 Introducing Massive, Controversial Change](https://kotaku.com/overwatch-2-season-9-self-healing-passive-tank-damage-1851163814)
- - [Sonic 3 And Knuckles Storyboards Leak, Beware Of Spoilers](https://kotaku.com/sonic-hedgehog-3-movie-leak-knuckles-show-paramount-1851163639)<!-- GAME:END -->
+ - [Pokémon Go ‘Dazzling Dream’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2024/1/12/24036094/dazzling-dream-event-collection-challenge-timed-research-spawns-shiny-cutiefly)
+ - [All The New Guns, Maps, And Modes In Call Of Duty Season 1 Reloaded [Updated]](https://kotaku.com/call-of-duty-season-1-reloaded-warzone-new-gun-map-mode-1851160627)
+ - [Overwatch 2 getting huge change to tanks and damage heroes, who will self-heal soon](https://www.polygon.com/24036380/overwatch-2-season-9-tank-dps-self-healing-passive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
