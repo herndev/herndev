@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next-generation batteries may be coming faster than you think, thanks to an AI helping hand](https://www.pcgamer.com/next-generation-batteries-may-be-coming-faster-than-you-think-thanks-to-an-ai-helping-hand)
- - [Minecraft Legends goes into maintenance mode 9 months after release, as devs announce they&#39;re &#39;going to take a step back from development&#39;](https://www.pcgamer.com/minecraft-legends-goes-into-maintenance-mode-9-months-after-release-as-devs-announce-theyre-going-to-take-a-step-back-from-development)
- - [Here&#39;s how to watch the Diablo 4 Season 3 announcement livestream](https://www.pcgamer.com/diablo-4-season-3-livestream-campfire-chat)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for January 15 – 19](https://news.xbox.com/en-us/2024/01/12/next-week-on-xbox-new-games-for-january-15-19/)
+ - [New Prince Of Persia Game Has A Wild NPC Oopsie](https://kotaku.com/prince-persia-lost-crown-npc-kalux-text-to-speech-ai-1851160720)
+ - [Valve continues to improve the gaming performance of Linux open source drivers for AMD GPUs, as part of the Mesa project](https://www.pcgamer.com/valve-continues-to-improve-the-gaming-performance-of-linux-open-source-drivers-for-amd-gpus-as-part-of-the-mesa-project)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
