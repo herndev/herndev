@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Free sample](http://9gag.com/gag/axoLp5W)
- - ⏩ [Happy accident for him](http://9gag.com/gag/abv73Wv)
- - 👉 [Revenge](http://9gag.com/gag/az2ngdN)<!-- MEMES:END -->
+ - 💣 [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - ⏩ [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 👉 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)<!-- MEMES:END -->
 
 ---
 
