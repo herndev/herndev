@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess she was better without an American citizenship](http://9gag.com/gag/anz6XPz)
- - ⏩ [Its not mine anyway](http://9gag.com/gag/a6qPLLR)
- - 👉 [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)<!-- MEMES:END -->
+ - 💣 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)
+ - ⏩ [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)
+ - 👉 [That is not metal scream. a dragon marking his territory.](http://9gag.com/gag/awZw7Vr)<!-- MEMES:END -->
 
 ---
 
