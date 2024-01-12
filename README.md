@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Monarch: Legacy of Monsters season 2 news we’ve heard so far](https://www.polygon.com/24033635/monarch-legacy-monsters-season-2-release-cast-news)
- - [Start 2024 the right way with the best games being added to PC Game Pass](https://www.pcgamer.com/start-2024-the-right-way-with-the-best-games-being-added-to-pc-game-pass)
- - [Wordle today: Hint and answer #937 for Friday, January 12](https://www.pcgamer.com/wordle-today-answer-937-january-12)<!-- GAME:END -->
+ - [Here&#39;s how to watch the Diablo 4 Season 3 announcement livestream](https://www.pcgamer.com/diablo-4-season-3-livestream-campfire-chat)
+ - [Star Wars Jedi: Survivor adds three types of slow motion, as well as other impressive accessibility updates and performance tweaks](https://www.pcgamer.com/star-wars-jedi-survivor-adds-three-types-of-slow-motion-as-well-as-other-impressive-accessibility-updates-and-performance-tweaks)
+ - [Ayaeneo&#39;s Next Lite is &#39;the cost-effective choice&#39; but only because it cloned SteamOS off Github and jammed a 4 year-old APU into it](https://www.pcgamer.com/ayaeneos-next-lite-is-the-cost-effective-choice-but-only-because-it-cloned-steamos-off-github-and-jammed-a-4-year-old-apu-into-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
