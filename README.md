@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Frore&#39;s AirJet Mini Slim seems like a significant fanless cooling upgrade, but the lack of adoption for the original AirJet is worrying](https://www.pcgamer.com/frores-airjet-mini-slim-seems-like-a-significant-fanless-cooling-upgrade-but-the-lack-of-adoption-for-the-original-airjet-is-worrying)
- - [A pair of beloved early-2000s RPGs is coming to Switch Online](https://www.polygon.com/24035710/golden-sun-gba-nintendo-switch-online-release)
- - [Sony might be ready to launch an updated Dualsense controller with a much larger battery capacity](https://www.pcgamer.com/sony-might-be-ready-to-launch-an-updated-dualsense-controller-with-a-much-larger-battery-capacity)<!-- GAME:END -->
+ - [Starfield data miner uncovers fossilized remains of a much cooler, more hardcore game tucked away in its files: &#39;We had a washed version of the game&#39;](https://www.pcgamer.com/starfield-data-miners-uncover-fossilized-remains-of-a-much-cooler-more-hardcore-game-tucked-away-in-its-files-we-had-a-washed-version-of-the-game)
+ - [After 10 years, Titan Forge unveils Smite 2, bringing the god-battling MOBA to UE5 and offering goodies to old-timers](https://www.pcgamer.com/after-10-years-titan-forge-unveils-smite-2-bringing-the-god-battling-moba-to-ue5-and-offering-goodies-to-old-timers)
+ - [After a deluge of AI-powered products CES 2024 is making it tougher than ever to define what AI actually is](https://www.pcgamer.com/after-a-deluge-of-ai-powered-products-ces-2024-is-making-it-tougher-than-ever-to-define-what-ai-actually-is)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
