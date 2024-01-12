@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom rolls back Resident Evil Revelations update that caused performance problems and crashes as fans accuse it of trying to sneak in DRM in order to kill mod support](https://www.pcgamer.com/capcom-rolls-back-resident-evil-revelations-update-that-caused-performance-problems-and-crashes-as-fans-accuse-it-of-trying-to-sneak-in-drm-in-order-to-kill-mod-support)
- - [VESA updates its DisplayPort specification to version 2.1a, beefing up cable requirements for even higher resolutions and refresh rates](https://www.pcgamer.com/vesa-updates-its-displayport-specification-to-version-21a-beefing-up-cable-requirements-for-even-higher-resolutions-and-refresh-rates)
- - [PS5 Just Did Something A PlayStation Console Hasn’t Done Since 2004](https://kotaku.com/ps5-sales-numbers-sony-playstation-japan-1851162975)<!-- GAME:END -->
+ - [Does anyone else really miss cleaning the gunk out of old mice?](https://www.pcgamer.com/does-anyone-else-really-miss-cleaning-the-gunk-out-of-old-mice)
+ - [Geoff Keighley’s Modest TikTok Is The Best Thing On The Internet](https://kotaku.com/geoff-keighley-the-game-awards-2024-tiktok-1851163415)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240110-2000&rpar;](https://news.xbox.com/en-us/2024/01/12/xbox-insider-release-notes-alpha-skip-ahead-2408-240110-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
