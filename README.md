@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy accident for him](http://9gag.com/gag/abv73Wv)
- - ⏩ [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - 👉 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)<!-- MEMES:END -->
+ - 💣 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - ⏩ [Nice Play](http://9gag.com/gag/aOxwq5R)
+ - 👉 [The future is now, old man](http://9gag.com/gag/aL1xQZP)<!-- MEMES:END -->
 
 ---
 
