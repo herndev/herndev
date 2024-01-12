@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Medical Data Is Code Blue](https://www.wired.com/story/plaintext-our-medical-security-is-code-blue/)
- - [2024 Is Going to Be a Rough Year for TV](https://www.wired.com/story/2024-is-going-to-be-a-rough-year-for-tv/)
- - [How to report problems on the road in Apple Maps or Google Maps](https://www.theverge.com/24034847/maps-google-apple-traffic-report-how-to)<!-- TECH:END -->
+ - [Hands-on with the Zenbook Duo &lpar;2024&rpar; and Zephyrus G14: The hottest new laptops from ASUS](https://www.androidauthority.com/asus-zenbook-duo-zephyrus-14-16-ces-2024-3402502/)
+ - [What you need to order Apple Vision Pro from the Apple Store online](https://appleinsider.com/articles/24/01/12/what-you-need-to-order-apple-vision-pro-from-the-apple-store-online?utm_medium=rss)
+ - [Apple says users will need an iPhone or iPad with Face ID to pre-order the Vision Pro, to scan their face and determine the right size Light Seal and head bands &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240112/p8#a240112p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
