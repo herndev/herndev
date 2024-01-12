@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - ⏩ [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)
- - 👉 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)<!-- MEMES:END -->
+ - 💣 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)
+ - ⏩ [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 👉 [What did you see?](http://9gag.com/gag/a3ZmLG5)<!-- MEMES:END -->
 
 ---
 
