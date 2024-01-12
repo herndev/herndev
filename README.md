@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
+ - 💣 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
  - ⏩ [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - 👉 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)<!-- MEMES:END -->
+ - 👉 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)<!-- MEMES:END -->
 
 ---
 
