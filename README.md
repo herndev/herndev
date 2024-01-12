@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield data miner uncovers fossilized remains of a much cooler, more hardcore game tucked away in its files: &#39;We had a washed version of the game&#39;](https://www.pcgamer.com/starfield-data-miners-uncover-fossilized-remains-of-a-much-cooler-more-hardcore-game-tucked-away-in-its-files-we-had-a-washed-version-of-the-game)
- - [After 10 years, Titan Forge unveils Smite 2, bringing the god-battling MOBA to UE5 and offering goodies to old-timers](https://www.pcgamer.com/after-10-years-titan-forge-unveils-smite-2-bringing-the-god-battling-moba-to-ue5-and-offering-goodies-to-old-timers)
- - [After a deluge of AI-powered products CES 2024 is making it tougher than ever to define what AI actually is](https://www.pcgamer.com/after-a-deluge-of-ai-powered-products-ces-2024-is-making-it-tougher-than-ever-to-define-what-ai-actually-is)<!-- GAME:END -->
+ - [Capcom rolls back Resident Evil Revelations update that caused performance problems and crashes as fans accuse it of trying to sneak in DRM in order to kill mod support](https://www.pcgamer.com/capcom-rolls-back-resident-evil-revelations-update-that-caused-performance-problems-and-crashes-as-fans-accuse-it-of-trying-to-sneak-in-drm-in-order-to-kill-mod-support)
+ - [VESA updates its DisplayPort specification to version 2.1a, beefing up cable requirements for even higher resolutions and refresh rates](https://www.pcgamer.com/vesa-updates-its-displayport-specification-to-version-21a-beefing-up-cable-requirements-for-even-higher-resolutions-and-refresh-rates)
+ - [PS5 Just Did Something A PlayStation Console Hasn’t Done Since 2004](https://kotaku.com/ps5-sales-numbers-sony-playstation-japan-1851162975)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
