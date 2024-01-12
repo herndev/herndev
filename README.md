@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I was already intrigued by this Disco Elysium-inspired, D&amp;D-based RPG where you play as the world&#39;s worst cleric, but its demo blew my expectations out of the water](https://www.pcgamer.com/i-was-already-intrigued-by-this-disco-elysium-inspired-dandd-based-rpg-where-you-play-as-the-worlds-worst-cleric-but-its-demo-blew-my-expectations-out-of-the-water)
  - [Sand Land launches April 26 – new vehicular gameplay details revealed](https://blog.playstation.com/2024/01/11/sand-land-launches-april-26-new-vehicular-gameplay-details-revealed/)
- - [Sand Land launches April 26 – new vehicular gameplay details revealed](https://blog.playstation.com/2024/01/11/sand-land-launches-april-26-new-vehicular-gameplay-details-revealed/)
- - [This Zelda: Tears of the Kingdom made a functional airship that doesn’t require energy cells](https://www.polygon.com/legend-zelda-tears-kingdom/24032923/zelda-tears-of-the-kingdom-totk-powerless-flight-airship)<!-- GAME:END -->
+ - [Sand Land launches April 26 – new vehicular gameplay details revealed](https://blog.playstation.com/2024/01/11/sand-land-launches-april-26-new-vehicular-gameplay-details-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
