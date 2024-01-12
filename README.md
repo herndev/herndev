@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Zelda: Tears of the Kingdom made a functional airship that doesn’t require energy cells](https://www.polygon.com/legend-zelda-tears-kingdom/24032923/zelda-tears-of-the-kingdom-totk-powerless-flight-airship)
- - [Get ready for a year of out-of-control AI marketing: revived GameShark brand just announced peripherals that use AI to &#39;adapt to your play style&#39;](https://www.pcgamer.com/get-ready-for-a-year-of-out-of-control-ai-marketing-revived-gameshark-brand-just-announced-peripherals-that-use-ai-to-adapt-to-your-play-style)
- - [Of course Steam said &#39;yes&#39; to generative AI in games: it&#39;s already everywhere](https://www.pcgamer.com/of-course-steam-said-yes-to-generative-ai-in-games-its-already-everywhere)<!-- GAME:END -->
+ - [Sand Land launches April 26 – new vehicular gameplay details revealed](https://blog.playstation.com/2024/01/11/sand-land-launches-april-26-new-vehicular-gameplay-details-revealed/)
+ - [Sand Land launches April 26 – new vehicular gameplay details revealed](https://blog.playstation.com/2024/01/11/sand-land-launches-april-26-new-vehicular-gameplay-details-revealed/)
+ - [This Zelda: Tears of the Kingdom made a functional airship that doesn’t require energy cells](https://www.polygon.com/legend-zelda-tears-kingdom/24032923/zelda-tears-of-the-kingdom-totk-powerless-flight-airship)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
