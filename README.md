@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I rode in a Hyundai Ioniq 5 with wheels that go sideways](https://www.theverge.com/24035050/hyundai-mobis-e-corner-system-ioniq-5-crab-drive-360)
- - [Rivian aims to slash carbon footprint of its next-generation EVs](https://www.theverge.com/2024/1/12/24034894/rivian-impact-report-carbon-footprint-renewable-energy-ev)
- - [Tim Cook&#39;s pay drops to $63 million for 2023](https://appleinsider.com/articles/24/01/12/tim-cooks-pay-drops-to-63-million-for-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Here&#39;s how to get unlimited data abroad on your iPhone with this complete eSIM guide](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)
+ - [Microsoft wants to automatically launch its Copilot AI on some Windows 11 devices](https://www.theverge.com/2024/1/12/24035637/microsoft-windows-11-copilot-ai-chatbot-automatically-open-boot-startup)
+ - [Palantir EVP Josh Harris says Palantir and Israel agreed to a strategic partnership to use &quot;Palantir&#39;s advanced technology in support of war-related missions&quot; &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240112/p5#a240112p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
