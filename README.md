@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)
- - ⏩ [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - 👉 [What did you see?](http://9gag.com/gag/a3ZmLG5)<!-- MEMES:END -->
+ - 💣 [Mission Impossible : Toy Heist](http://9gag.com/gag/a9qoPo6)
+ - ⏩ [80s Bush](http://9gag.com/gag/aVbAXAw)
+ - 👉 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)<!-- MEMES:END -->
 
 ---
 
