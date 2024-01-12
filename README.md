@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s financial regulator says US bitcoin ETFs may conflict with the country&#39;s Virtual Asset User Protection Act and Capital Markets Act, plans a review &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/240112/p9#a240112p9)
- - [OnePlus 12 price leak points to big price hike for at least one market](https://www.androidauthority.com/oneplus-12-pricing-amazon-leak-3402686/)
- - [B&amp;H&#39;s latest discounts slash up to $1,700 off Apple computers](https://appleinsider.com/articles/24/01/12/bhs-latest-discounts-slash-up-to-1700-off-apple-computers?utm_medium=rss)<!-- TECH:END -->
+ - [Oppenheimer will stream on Peacock in February](https://www.theverge.com/2024/1/12/24035900/oppenheimer-peacock-streaming-date)
+ - [Security researchers say they warned Apple as early as 2019 about AirDrop vulnerabilities that Chinese authorities claim they recently used to identify users &lpar;CNN&rpar;](http://www.techmeme.com/240112/p10#a240112p10)
+ - [This high-tech sex toy syncs its vibes with music](https://www.theverge.com/2024/1/12/24035200/oh-ohdoki-vibrator-sex-tech-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
