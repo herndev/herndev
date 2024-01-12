@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - ⏩ [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
- - 👉 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)<!-- MEMES:END -->
+ - 💣 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - ⏩ [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)
+ - 👉 [Revenge](http://9gag.com/gag/az2ngdN)<!-- MEMES:END -->
 
 ---
 
