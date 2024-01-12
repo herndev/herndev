@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - ⏩ [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
- - 👉 [What happened](http://9gag.com/gag/a3Zmvx1)<!-- MEMES:END -->
+ - 💣 [I guess she was better without an American citizenship](http://9gag.com/gag/anz6XPz)
+ - ⏩ [Its not mine anyway](http://9gag.com/gag/a6qPLLR)
+ - 👉 [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)<!-- MEMES:END -->
 
 ---
 
