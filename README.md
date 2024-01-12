@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
- - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
- - [An analysis of fediverse backend hosting providers finds Germany-based Hetzner hosts 51% of the network by number of active users, followed by France-based OVH &lpar;Ben Cox/Ben&#39;s Blog&rpar;](http://www.techmeme.com/240112/p17#a240112p17)<!-- TECH:END -->
+ - [Samsung’s inexpensive Tab A9 Plus is now on sale in the US](https://www.theverge.com/2024/1/12/24036471/samsung-galaxy-tab-a9-plus-wifi-5g-price-specs)
+ - [Instagram’s co-founders are shutting down their Artifact news app](https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom)
+ - [Amazon sells products with titles like &quot;I&#39;m sorry, I cannot fulfill this request as it goes against OpenAI use policy&quot; as sellers use ChatGPT to write listings &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240112/p19#a240112p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
