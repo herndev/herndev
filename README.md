@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for January 15 – 19](https://news.xbox.com/en-us/2024/01/12/next-week-on-xbox-new-games-for-january-15-19/)
- - [New Prince Of Persia Game Has A Wild NPC Oopsie](https://kotaku.com/prince-persia-lost-crown-npc-kalux-text-to-speech-ai-1851160720)
- - [Valve continues to improve the gaming performance of Linux open source drivers for AMD GPUs, as part of the Mesa project](https://www.pcgamer.com/valve-continues-to-improve-the-gaming-performance-of-linux-open-source-drivers-for-amd-gpus-as-part-of-the-mesa-project)<!-- GAME:END -->
+ - [Frore&#39;s AirJet Mini Slim seems like a significant fanless cooling upgrade, but the lack of adoption for the original AirJet is worrying](https://www.pcgamer.com/frores-airjet-mini-slim-seems-like-a-significant-fanless-cooling-upgrade-but-the-lack-of-adoption-for-the-original-airjet-is-worrying)
+ - [A pair of beloved early-2000s RPGs is coming to Switch Online](https://www.polygon.com/24035710/golden-sun-gba-nintendo-switch-online-release)
+ - [Sony might be ready to launch an updated Dualsense controller with a much larger battery capacity](https://www.pcgamer.com/sony-might-be-ready-to-launch-an-updated-dualsense-controller-with-a-much-larger-battery-capacity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
