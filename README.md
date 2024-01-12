@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - ⏩ [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - 💣 [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - ⏩ [Parallax Effect](http://9gag.com/gag/aQEGPDK)
  - 👉 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)<!-- MEMES:END -->
 
 ---
