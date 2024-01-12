@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - ⏩ [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)
- - 👉 [Revenge](http://9gag.com/gag/az2ngdN)<!-- MEMES:END -->
+ - ⏩ [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
+ - 👉 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)<!-- MEMES:END -->
 
 ---
 
