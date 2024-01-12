@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All the Monarch: Legacy of Monsters season 2 news we’ve heard so far](https://www.polygon.com/24033635/monarch-legacy-monsters-season-2-release-cast-news)
  - [Start 2024 the right way with the best games being added to PC Game Pass](https://www.pcgamer.com/start-2024-the-right-way-with-the-best-games-being-added-to-pc-game-pass)
- - [Wordle today: Hint and answer #937 for Friday, January 12](https://www.pcgamer.com/wordle-today-answer-937-january-12)
- - [I was already intrigued by this Disco Elysium-inspired, D&amp;D-based RPG where you play as the world&#39;s worst cleric, but its demo blew my expectations out of the water](https://www.pcgamer.com/i-was-already-intrigued-by-this-disco-elysium-inspired-dandd-based-rpg-where-you-play-as-the-worlds-worst-cleric-but-its-demo-blew-my-expectations-out-of-the-water)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #937 for Friday, January 12](https://www.pcgamer.com/wordle-today-answer-937-january-12)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
