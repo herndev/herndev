@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
- - ⏩ [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 💣 [Free sample](http://9gag.com/gag/axoLp5W)
+ - ⏩ [Happy accident for him](http://9gag.com/gag/abv73Wv)
  - 👉 [Revenge](http://9gag.com/gag/az2ngdN)<!-- MEMES:END -->
 
 ---
