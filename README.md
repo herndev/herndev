@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Humble’s $10 bundle includes several AGDQ 2024 speedrunning favorites](https://www.polygon.com/deals/24036258/humble-bundle-agdq-2024-bayonetta-sonic-celeste-bloodstained)
- - [Suicide Squad Devs Spent Last Year Ripping Out Hated Gear Scores](https://kotaku.com/suicide-squad-gear-score-removed-live-service-shooter-1851163490)
- - [Official PlayStation Podcast Episode 476: Games For A Change](https://blog.playstation.com/2024/01/12/official-playstation-podcast-episode-476-games-for-a-change/)<!-- GAME:END -->
+ - [Smite 2 is coming, won’t replace the original Smite](https://www.polygon.com/24036211/smite-2-hi-rez-studios-pc-moba)
+ - [Overwatch 2 Introducing Massive, Controversial Change](https://kotaku.com/overwatch-2-season-9-self-healing-passive-tank-damage-1851163814)
+ - [Sonic 3 And Knuckles Storyboards Leak, Beware Of Spoilers](https://kotaku.com/sonic-hedgehog-3-movie-leak-knuckles-show-paramount-1851163639)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
