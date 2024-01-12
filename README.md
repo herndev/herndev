@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy accident for him](http://9gag.com/gag/abv73Wv)
- - ⏩ [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - 👉 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)<!-- MEMES:END -->
+ - 💣 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - ⏩ [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
+ - 👉 [What happened](http://9gag.com/gag/a3Zmvx1)<!-- MEMES:END -->
 
 ---
 
