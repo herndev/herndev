@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dinner time](http://9gag.com/gag/a9qoPV1)
- - ⏩ [Let&#39;s party](http://9gag.com/gag/a2KeYQZ)
- - 👉 [That is not metal scream. a dragon marking his territory.](http://9gag.com/gag/awZw7Vr)<!-- MEMES:END -->
+ - 💣 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - ⏩ [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)
+ - 👉 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)<!-- MEMES:END -->
 
 ---
 
