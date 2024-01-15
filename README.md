@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [All hail RT-X: The global project aimed at creating an AI mega brain for all robotkind](https://www.pcgamer.com/all-hail-rt-x-the-global-project-aimed-at-creating-an-ai-mega-brain-for-all-robotkind)
- - [Steam Pulls Fan&#39;s Portal 64 Project, But Not For The Reason You Think](https://kotaku.com/steam-valve-portal-64-nintendo-copyright-1851166758)<!-- GAME:END -->
+ - [Latest Forza Motorsport Update Brings Daytona and More to Players](https://forza.net/news/forza-motorsport-update-4#new_tab)
+ - [Family Guy creator Seth MacFarlane says he &#39;had to have somebody explain to me what the f*ck Fortnite is&#39; before they could add Peter Griffin to the game](https://www.pcgamer.com/family-guy-creator-seth-macfarlane-says-he-had-to-have-somebody-explain-to-me-what-the-fck-fortnite-is-before-they-could-add-peter-griffin-to-the-game)
+ - [This &#39;gamified&#39; AI sex toy mimics MMO mechanics by requiring an 8-week grind](https://www.pcgamer.com/this-gamified-ai-sex-toy-mimics-mmo-mechanics-by-requiring-an-8-week-grind)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
