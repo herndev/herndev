@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
- - ⏩ [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)
- - 👉 [What did you see?](http://9gag.com/gag/a3ZmLG5)<!-- MEMES:END -->
+ - 💣 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
+ - ⏩ [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
+ - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
 
 ---
 
