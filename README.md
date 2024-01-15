@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
+ - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
  - ⏩ [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
+ - 👉 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)<!-- MEMES:END -->
 
 ---
 
