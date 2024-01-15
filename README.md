@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
- - ⏩ [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 👉 [Enjoy your food](http://9gag.com/gag/agoWnoq)<!-- MEMES:END -->
+ - 💣 [She really looks like a cartoon mobster \ud83d\ude02\ud83e\udd23](http://9gag.com/gag/adPELpZ)
+ - ⏩ [I love cheese. Here are some combinations you should try. Save this for later. Bon appetite!](http://9gag.com/gag/aGEXj4X)
+ - 👉 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)<!-- MEMES:END -->
 
 ---
 
