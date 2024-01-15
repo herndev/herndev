@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best monitor upgrades for your Mac from CES 2024](https://appleinsider.com/articles/24/01/15/the-best-monitor-upgrades-for-your-mac-from-ces-2024?utm_medium=rss)
- - [Apple&#39;s stripping out blood oxygen sensing from Apple Watch enough to skirt import ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
- - [44% off the Amazfit GTS 2e can kickstart your 2024 fitness goals](https://www.androidauthority.com/amazfit-gts-2e-deal-3403253/)<!-- TECH:END -->
+ - [Want to Watch TikTok on Your TV? Chromecast Has You Covered     - CNET](https://www.cnet.com/tech/mobile/want-to-watch-tiktok-on-your-tv-chromecast-has-you-covered/#ftag=CAD590a51e)
+ - [Watch &#39;Love Island: All Stars&#39; 2024: Stream Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-love-island-all-stars-2024-stream-anywhere-for-free/#ftag=CAD590a51e)
+ - [Steelers vs. Bills Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/steelers-vs-bills-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
