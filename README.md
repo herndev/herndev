@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
- - ⏩ [Cool](http://9gag.com/gag/a4ovGEp)
- - 👉 [Guess the country...](http://9gag.com/gag/a04BKWn)<!-- MEMES:END -->
+ - 💣 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - ⏩ [Lol !](http://9gag.com/gag/adPEXED)
+ - 👉 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)<!-- MEMES:END -->
 
 ---
 
