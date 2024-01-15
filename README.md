@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Niche strategy sickos rejoice, Dominions 6 will let you cook up bizarre gods shortly](https://www.pcgamer.com/niche-strategy-sickos-rejoice-dominions-6-will-let-you-cook-up-bizarre-gods-shortly)
- - [Overwatch 2 director apologizes for the way self-healing heroes in Season 9 was announced: &#39;It was a mistake to talk about this lone change out of context&#39;](https://www.pcgamer.com/overwatch-2-director-apologizes-for-the-way-self-healing-heroes-in-season-9-was-announced-it-was-a-mistake-to-talk-about-this-lone-change-out-of-context)
- - [Ubisoft Wants You To Be Comfortable Not Owning Your Games](https://kotaku.com/ubisoft-prince-of-persia-the-lost-crown-subscription-1851167602)<!-- GAME:END -->
+ - [Cities: Skylines 2 studio boss warns that growing toxicity could force developers to &#39;pull back our engagement&#39; with the community](https://www.pcgamer.com/cities-skylines-2-studio-boss-warns-that-growing-toxicity-could-force-developers-to-pull-back-our-engagement-with-the-community)
+ - [Diesel-powered city builder New Cycle invites you to rekindle hope after a solar flare wrecks the world](https://www.pcgamer.com/diesel-powered-city-builder-new-cycle-invites-you-to-rekindle-hope-after-a-solar-flare-wrecks-the-world)
+ - [Niche strategy sickos rejoice, Dominions 6 will let you cook up bizarre gods shortly](https://www.pcgamer.com/niche-strategy-sickos-rejoice-dominions-6-will-let-you-cook-up-bizarre-gods-shortly)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
