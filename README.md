@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to Watch TikTok on Your TV? Chromecast Has You Covered     - CNET](https://www.cnet.com/tech/mobile/want-to-watch-tiktok-on-your-tv-chromecast-has-you-covered/#ftag=CAD590a51e)
- - [Watch &#39;Love Island: All Stars&#39; 2024: Stream Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-love-island-all-stars-2024-stream-anywhere-for-free/#ftag=CAD590a51e)
- - [Steelers vs. Bills Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/steelers-vs-bills-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This stunning Samsung 49-inch gaming monitor just got a $1,000 price drop](https://www.androidauthority.com/samsung-odyssey-neo-g9-curved-gaming-monitor-deal-3403397/)
+ - [Report: Apple prepares to split its App Store in two to serve the EU, as the deadline for the DMA, which mandates sideloading support, looms on March 7 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240115/p12#a240115p12)
+ - [Microsoft unlocks Copilot AI inside Office apps for all businesses](https://www.theverge.com/2024/1/15/24038726/microsoft-copilot-microsoft-365-business-launch-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
