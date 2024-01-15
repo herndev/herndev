@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #940 for Monday, January 15](https://www.pcgamer.com/wordle-today-answer-940-january-15)
  - [Reports of RTX 4090s being sold in China without GPUs scares the heck out of me](https://www.pcgamer.com/reports-of-rtx-4090s-being-sold-in-china-without-gpus-scares-the-heck-out-of-me)
- - [Night Country gets True Detective’s vibe better than True Detective ever has](https://www.polygon.com/24035849/true-detective-night-country-episode-1-review-ending-plot-murder)
- - [The creator of the canceled Portal 64 demake says, &#39;Don&#39;t be mad at Valve here&#39;](https://www.pcgamer.com/the-creator-of-the-canceled-portal-64-demake-says-dont-be-mad-at-valve-here)<!-- GAME:END -->
+ - [Night Country gets True Detective’s vibe better than True Detective ever has](https://www.polygon.com/24035849/true-detective-night-country-episode-1-review-ending-plot-murder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
