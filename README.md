@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - ⏩ [Lol !](http://9gag.com/gag/adPEXED)
- - 👉 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)<!-- MEMES:END -->
+ - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - ⏩ [The exact right amount of love](http://9gag.com/gag/abv7z2B)
+ - 👉 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)<!-- MEMES:END -->
 
 ---
 
