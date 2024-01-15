@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max will still be the best-selling model in early 2024, says Kuo](https://appleinsider.com/articles/24/01/15/iphone-15-pro-max-will-still-be-the-best-selling-model-in-early-2024-says-kuo?utm_medium=rss)
- - [China gets another iPhone discount for Lunar New Year](https://appleinsider.com/articles/24/01/15/china-gets-another-iphone-discount-for-lunar-new-year?utm_medium=rss)
- - [Apple&#39;s September 2023 change to how its Podcasts app automatically downloaded episodes has dramatically curtailed download numbers for some podcasts &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/240115/p5#a240115p5)<!-- TECH:END -->
+ - [How to Launch a Custom Chatbot on OpenAI’s GPT Store](https://www.wired.com/story/how-to-launch-custom-chatbot-openai-gpt-store/)
+ - [Google follows Apple in pulling crypto apps in India](https://appleinsider.com/articles/24/01/15/google-follows-apple-in-pulling-crypto-apps-in-india?utm_medium=rss)
+ - [Microsoft is working on a Copilot Pro subscription &lpar;APK Teardown&rpar;](https://www.androidauthority.com/microsoft-copilot-pro-edge-3403043/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
