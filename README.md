@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Vision Pro wants both your time and money](https://www.androidauthority.com/apple-vision-pro-demo-details-3401742/)
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [A UN report says Tether token is one of the leading payment methods for money laundering and frauds, including pig butchering scams, in Southeast Asia &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/240115/p1#a240115p1)<!-- TECH:END -->
+ - [YouTube’s ad blocker war leads to major slowdowns and surge in scam ads](https://www.androidauthority.com/youtube-slowdowns-scam-ads-3402950/)
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [South Korea says Samsung and SK Hynix plan to invest more than $470B by 2047 to build 13 new chip plants and three research facilities in the country &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/240115/p2#a240115p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
