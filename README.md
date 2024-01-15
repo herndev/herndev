@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Facebook rejects ads for popular board game Votes for Women: &#39;[It] may impact the outcome of an election or pending legislation&#39;](https://www.pcgamer.com/facebook-rejects-ads-for-popular-board-game-votes-for-women-it-may-impact-the-outcome-of-an-election-or-pending-legislation)
- - [After Nebraska and Arkansas, American Truck Simulator is going to show me Missouri](https://www.pcgamer.com/after-nebraska-and-arkansas-american-truck-simulator-is-going-to-show-me-missouri)
- - [Turns out that farming is a pretty compelling addition to the horde survival roguelite formula](https://www.pcgamer.com/turns-out-that-farming-is-a-pretty-compelling-addition-to-the-horde-survival-roguelite-formula)<!-- GAME:END -->
+ - [The creator of the canceled Portal 64 demake says, &#39;Don&#39;t be mad at Valve here&#39;](https://www.pcgamer.com/the-creator-of-the-canceled-portal-64-demake-says-dont-be-mad-at-valve-here)
+ - [Five new Steam games you probably missed &lpar;January 15, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-15-2024)
+ - [I&#39;m absolutely in love with the Atari 400 Mini, a recreation of one of the first ever gaming computers](https://www.pcgamer.com/im-absolutely-in-love-with-the-atari-400-mini-a-recreation-of-one-of-the-first-ever-gaming-computers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
