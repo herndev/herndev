@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple marks Dr. Martin Luther King Jr. Day with homepage memorial](https://appleinsider.com/articles/24/01/15/apple-marks-dr-martin-luther-king-jr-day-with-homepage-memorial?utm_medium=rss)
- - [Vision Pro has Mac mini&#39;s M2 processor](https://appleinsider.com/articles/24/01/15/vision-pro-has-mac-minis-m2-processor-says-gurman?utm_medium=rss)
- - [China&#39;s chip imports fell 15.4% YoY to $349.4B in 2023, the sharpest fall on record and down for a second straight year; shipment volume also declined by 10.8% &lpar;Bloomberg&rpar;](http://www.techmeme.com/240115/p8#a240115p8)<!-- TECH:END -->
+ - [U.S. Customs say Apple Watch changes are enough to beat ITC ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
+ - [The Samsung Galaxy Tab S9 FE Plus has never been cheaper](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-deal-3403207/)
+ - [Daily deals Jan. 15: $1,300 off M1 Max MacBook Pro, 59% off Apple Magic Keyboard Folio for iPad, 20% off AirPods Max, more](https://appleinsider.com/articles/24/01/15/daily-deals-jan-15-1300-off-m1-max-macbook-pro-59-off-apple-magic-keyboard-folio-for-ipad-20-off-airpods-max-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
