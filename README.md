@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
+ - 💣 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
  - ⏩ [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 👉 [True Love](http://9gag.com/gag/a1P9Q8b)<!-- MEMES:END -->
+ - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
 
 ---
 
