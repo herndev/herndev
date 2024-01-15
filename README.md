@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ring in the New Year With New Play List Additions: F1 23 and EA SPORTS Super Mega Baseball 4](https://news.xbox.com/en-us/2024/01/15/xbox-ea-play-january-2024/)
- - [Suicide Squad: Kill the Justice League final system requirements demand an SSD but are otherwise pretty light](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-pc-system-requirements)
- - [Hot GPU rumour time: Intel may follow AMD in just focusing on the mainstream market with its next-gen Battlemage chips](https://www.pcgamer.com/hot-gpu-rumour-time-intel-may-follow-amd-in-just-focusing-on-the-mainstream-market-with-its-next-gen-battlemage-chips)<!-- GAME:END -->
+ - [UK&#39;s Biggest Gaming Store Rumored To End Trade-Ins](https://kotaku.com/game-gamestop-trade-ins-pre-owned-stores-1851167347)
+ - [GTA 5 actor goes nuclear on AI company that made a voice chatbot of him: &#39;I&#39;m not worried about being replaced... I just hate these f**kers&#39;](https://www.pcgamer.com/gta-5-actor-goes-nuclear-on-ai-company-that-made-a-voice-chatbot-of-him-im-not-worried-about-being-replaced-i-just-hate-these-fkers)
+ - [Ring in the New Year With New Play List Additions: F1 23 and EA SPORTS Super Mega Baseball 4](https://news.xbox.com/en-us/2024/01/15/xbox-ea-play-january-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
