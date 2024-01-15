@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Witcher 3 and Cyberpunk 2077 devs officially reveal their first game, and yeah it sure looks like vampires](https://www.pcgamer.com/former-witcher-3-and-cyberpunk-2077-devs-officially-reveal-their-first-game-and-yeah-it-sure-looks-like-vampires)
- - [Hazbin Hotel, Found, Reacher, and more new TV this week](https://www.polygon.com/2024/1/15/24024308/new-tv-netflix-hazbin-hotel-found-reacher-finale-release)
- - [UK&#39;s Biggest Gaming Store Rumored To End Trade-Ins](https://kotaku.com/game-gamestop-trade-ins-pre-owned-stores-1851167347)<!-- GAME:END -->
+ - [Niche strategy sickos rejoice, Dominions 6 will let you cook up bizarre gods shortly](https://www.pcgamer.com/niche-strategy-sickos-rejoice-dominions-6-will-let-you-cook-up-bizarre-gods-shortly)
+ - [Overwatch 2 director apologizes for the way self-healing heroes in Season 9 was announced: &#39;It was a mistake to talk about this lone change out of context&#39;](https://www.pcgamer.com/overwatch-2-director-apologizes-for-the-way-self-healing-heroes-in-season-9-was-announced-it-was-a-mistake-to-talk-about-this-lone-change-out-of-context)
+ - [Ubisoft Wants You To Be Comfortable Not Owning Your Games](https://kotaku.com/ubisoft-prince-of-persia-the-lost-crown-subscription-1851167602)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
