@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HP gets slapped with yet another lawsuit for blocking printers using anything other than its own inky liquid cash cow](https://www.pcgamer.com/hp-gets-slapped-with-yet-another-lawsuit-for-blocking-printers-using-anything-other-than-its-own-inky-liquid-cash-cow)
- - [It&#39;s not just you: YouTube is slowing down your PC if you have AdBlock installed by making your CPU sweat, likely as part of its draconian war on ad blockers](https://www.pcgamer.com/its-not-just-you-youtube-is-slowing-down-your-pc-if-you-have-adblock-installed-by-making-your-cpu-sweat-likely-as-part-of-its-draconian-war-on-ad-blockers)
- - [Analysts are calling 2023&#39;s decline in PC shipments &#39;unparalleled in the industry&#39;s recorded history&#39; but suggest the only way now is up](https://www.pcgamer.com/analysts-are-calling-2023s-decline-in-pc-shipments-unparalleled-in-the-industrys-recorded-history-but-suggest-the-only-way-now-is-up)<!-- GAME:END -->
+ - [Fake crypto CEO that fronted $1.3 billion rug-pull exposed as jobbing actor who got paid $5,000 with a suit thrown in](https://www.pcgamer.com/fake-crypto-ceo-that-fronted-dollar13-billion-rug-pull-exposed-as-jobbing-actor-who-got-paid-dollar5000-with-a-suit-thrown-in)
+ - [T-Pain is working on GTA 6, so Rockstar banned him from roleplay servers](https://www.polygon.com/24038771/t-pain-gta6-grand-theft-auto-6-roleplay-nopixel)
+ - [10 Game Boy Advance Games We Want On Nintendo Switch Online](https://kotaku.com/nintendo-switch-online-gba-mario-final-fantasy-1851163163)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
