@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nielsen: Peacock&#39;s exclusive stream of the NFL AFC Wild Card game was the &quot;most-streamed event in US history&quot;, with 27.6M total viewers and a 24.6M peak average &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240114/p8#a240114p8)
  - [Baidu&#39;s stock drops 10%+ after an SCMP report linking Ernie Bot, which Baidu said amassed 70M users within three months of launch, to Chinese military research &lpar;Bloomberg&rpar;](http://www.techmeme.com/240114/p7#a240114p7)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Magnetic cables were a sleeper hit at CES 2024](https://appleinsider.com/articles/24/01/15/magnetic-cables-were-a-sleeper-hit-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
