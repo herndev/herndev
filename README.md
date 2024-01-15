@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
- - ⏩ [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
+ - 💣 [The gun that started WW1](http://9gag.com/gag/aA0jgq2)
+ - ⏩ [The Donald](http://9gag.com/gag/a6qPNNA)
+ - 👉 [Downloaded the wrong Harry potter again](http://9gag.com/gag/aXnBj6D)<!-- MEMES:END -->
 
 ---
 
