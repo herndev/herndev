@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [UK&#39;s Biggest Gaming Store Rumored To End Trade-Ins](https://kotaku.com/game-gamestop-trade-ins-pre-owned-stores-1851167347)
- - [GTA 5 actor goes nuclear on AI company that made a voice chatbot of him: &#39;I&#39;m not worried about being replaced... I just hate these f**kers&#39;](https://www.pcgamer.com/gta-5-actor-goes-nuclear-on-ai-company-that-made-a-voice-chatbot-of-him-im-not-worried-about-being-replaced-i-just-hate-these-fkers)
- - [Ring in the New Year With New Play List Additions: F1 23 and EA SPORTS Super Mega Baseball 4](https://news.xbox.com/en-us/2024/01/15/xbox-ea-play-january-2024/)<!-- GAME:END -->
+ - [Former Witcher 3 and Cyberpunk 2077 devs officially reveal their first game, and yeah it sure looks like vampires](https://www.pcgamer.com/former-witcher-3-and-cyberpunk-2077-devs-officially-reveal-their-first-game-and-yeah-it-sure-looks-like-vampires)
+ - [Hazbin Hotel, Found, Reacher, and more new TV this week](https://www.polygon.com/2024/1/15/24024308/new-tv-netflix-hazbin-hotel-found-reacher-finale-release)
+ - [UK&#39;s Biggest Gaming Store Rumored To End Trade-Ins](https://kotaku.com/game-gamestop-trade-ins-pre-owned-stores-1851167347)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
