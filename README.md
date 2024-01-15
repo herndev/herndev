@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [U.S. Customs say Apple Watch changes are enough to beat ITC ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
- - [The Samsung Galaxy Tab S9 FE Plus has never been cheaper](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-deal-3403207/)
- - [Daily deals Jan. 15: $1,300 off M1 Max MacBook Pro, 59% off Apple Magic Keyboard Folio for iPad, 20% off AirPods Max, more](https://appleinsider.com/articles/24/01/15/daily-deals-jan-15-1300-off-m1-max-macbook-pro-59-off-apple-magic-keyboard-folio-for-ipad-20-off-airpods-max-more?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: US CBP decides, regarding the Masimo patent fight, that Apple can avoid a ban and sell the Apple Watch Series 9 if pulse oximetry features are disabled &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240115/p10#a240115p10)
+ - [HomeKit Insider&#39;s massive CES 2024 roundup episode](https://appleinsider.com/articles/24/01/15/homekit-insider-massive-ces-2024-roundup-episode?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
