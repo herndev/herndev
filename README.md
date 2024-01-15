@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This stunning Samsung 49-inch gaming monitor just got a $1,000 price drop](https://www.androidauthority.com/samsung-odyssey-neo-g9-curved-gaming-monitor-deal-3403397/)
- - [Report: Apple prepares to split its App Store in two to serve the EU, as the deadline for the DMA, which mandates sideloading support, looms on March 7 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240115/p12#a240115p12)
- - [Microsoft unlocks Copilot AI inside Office apps for all businesses](https://www.theverge.com/2024/1/15/24038726/microsoft-copilot-microsoft-365-business-launch-availability)<!-- TECH:END -->
+ - [OpenAI shares its plans ahead of 2024 elections, including image provenance tools, not letting users make tools for impersonation or political campaigning, more &lpar;OpenAI&rpar;](http://www.techmeme.com/240115/p13#a240115p13)
+ - [Apple Watch drops blood oxygen features to dodge the import ban](https://www.theverge.com/2024/1/15/24034324/apple-watch-ban-us-customs-decision)
+ - [Best Fire TV Stick for 2024: Fire Stick 4K, Lite and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
