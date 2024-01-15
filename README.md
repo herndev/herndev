@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - ⏩ [The exact right amount of love](http://9gag.com/gag/abv7z2B)
- - 👉 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)<!-- MEMES:END -->
+ - 💣 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - ⏩ [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
+ - 👉 [Enjoy your food](http://9gag.com/gag/agoWnoq)<!-- MEMES:END -->
 
 ---
 
