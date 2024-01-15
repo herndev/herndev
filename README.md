@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
  - ⏩ [Cool](http://9gag.com/gag/a4ovGEp)
- - 👉 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)<!-- MEMES:END -->
+ - 👉 [Guess the country...](http://9gag.com/gag/a04BKWn)<!-- MEMES:END -->
 
 ---
 
