@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Analysts are calling 2023&#39;s decline in PC shipments &#39;unparalleled in the industry&#39;s recorded history&#39; but suggest the only way now is up](https://www.pcgamer.com/analysts-are-calling-2023s-decline-in-pc-shipments-unparalleled-in-the-industrys-recorded-history-but-suggest-the-only-way-now-is-up)
- - [How to help The Deserter in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-deserter-quest)
- - [How to solve the Sacred Archive time puzzles in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-sacred-archive-puzzle-secret-room)<!-- GAME:END -->
+ - [HP gets slapped with yet another lawsuit for blocking printers using anything other than its own inky liquid cash cow](https://www.pcgamer.com/hp-gets-slapped-with-yet-another-lawsuit-for-blocking-printers-using-anything-other-than-its-own-inky-liquid-cash-cow)
+ - [It&#39;s not just you: YouTube is slowing down your PC if you have AdBlock installed by making your CPU sweat, likely as part of its draconian war on ad blockers](https://www.pcgamer.com/its-not-just-you-youtube-is-slowing-down-your-pc-if-you-have-adblock-installed-by-making-your-cpu-sweat-likely-as-part-of-its-draconian-war-on-ad-blockers)
+ - [Analysts are calling 2023&#39;s decline in PC shipments &#39;unparalleled in the industry&#39;s recorded history&#39; but suggest the only way now is up](https://www.pcgamer.com/analysts-are-calling-2023s-decline-in-pc-shipments-unparalleled-in-the-industrys-recorded-history-but-suggest-the-only-way-now-is-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
