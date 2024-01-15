@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - ⏩ [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
- - 👉 [Enjoy your food](http://9gag.com/gag/agoWnoq)<!-- MEMES:END -->
+ - 💣 [X-ray of a hand after a meat grinder accident..in case you thought you had a bad day](http://9gag.com/gag/adPELKM)
+ - ⏩ [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)
+ - 👉 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)<!-- MEMES:END -->
 
 ---
 
