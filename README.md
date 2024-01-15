@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro storage cabinets appear in stores ahead of launch](https://appleinsider.com/articles/24/01/15/apple-vision-pro-storage-cabinets-appear-in-stores-ahead-of-launch?utm_medium=rss)
- - [Redmi Note 13 series goes global: Redmi flirts with premium segment](https://www.androidauthority.com/redmi-note-13-series-global-launch-3403087/)
- - [French IT group Atos names Paul Saleh as CEO, its fourth in under two years, and forecasts H2 2024 cash flow below targets; stock drops 12%+, down ~40% in 2024 &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240115/p7#a240115p7)<!-- TECH:END -->
+ - [Apple marks Dr. Martin Luther King Jr. Day with homepage memorial](https://appleinsider.com/articles/24/01/15/apple-marks-dr-martin-luther-king-jr-day-with-homepage-memorial?utm_medium=rss)
+ - [Vision Pro has Mac mini&#39;s M2 processor](https://appleinsider.com/articles/24/01/15/vision-pro-has-mac-minis-m2-processor-says-gurman?utm_medium=rss)
+ - [China&#39;s chip imports fell 15.4% YoY to $349.4B in 2023, the sharpest fall on record and down for a second straight year; shipment volume also declined by 10.8% &lpar;Bloomberg&rpar;](http://www.techmeme.com/240115/p8#a240115p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
