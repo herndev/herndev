@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Switzerland-based SoftwareOne, which advises companies on cloud strategies, rejects Bain&#39;s $3.5B takeover, ending months of back-and-forth; SWON.SW drops 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240115/p4#a240115p4)
  - [It’s not just you: TikTok is down right now &lpar;Update: Back online&rpar;](https://www.androidauthority.com/tiktok-outage-january-2024-3402952/)
- - [How some artists are incorporating Dall-E, Midjourney, and other AI tools into their work, while others remain anxious about AI&#39;s impact on their livelihoods &lpar;Emma Park/Financial Times&rpar;](http://www.techmeme.com/240115/p3#a240115p3)
- - [YouTube’s ad blocker war leads to major slowdowns and surge in scam ads](https://www.androidauthority.com/youtube-slowdowns-scam-ads-3402950/)<!-- TECH:END -->
+ - [How some artists are incorporating Dall-E, Midjourney, and other AI tools into their work, while others remain anxious about AI&#39;s impact on their livelihoods &lpar;Emma Park/Financial Times&rpar;](http://www.techmeme.com/240115/p3#a240115p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
