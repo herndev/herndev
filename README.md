@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fake crypto CEO that fronted $1.3 billion rug-pull exposed as jobbing actor who got paid $5,000 with a suit thrown in](https://www.pcgamer.com/fake-crypto-ceo-that-fronted-dollar13-billion-rug-pull-exposed-as-jobbing-actor-who-got-paid-dollar5000-with-a-suit-thrown-in)
- - [T-Pain is working on GTA 6, so Rockstar banned him from roleplay servers](https://www.polygon.com/24038771/t-pain-gta6-grand-theft-auto-6-roleplay-nopixel)
- - [10 Game Boy Advance Games We Want On Nintendo Switch Online](https://kotaku.com/nintendo-switch-online-gba-mario-final-fantasy-1851163163)<!-- GAME:END -->
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [All hail RT-X: The global project aimed at creating an AI mega brain for all robotkind](https://www.pcgamer.com/all-hail-rt-x-the-global-project-aimed-at-creating-an-ai-mega-brain-for-all-robotkind)
+ - [Steam Pulls Fan&#39;s Portal 64 Project, But Not For The Reason You Think](https://kotaku.com/steam-valve-portal-64-nintendo-copyright-1851166758)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
