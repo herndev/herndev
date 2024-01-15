@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
- - ⏩ [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
- - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
+ - 💣 [Guess the country...](http://9gag.com/gag/a04BKWn)
+ - ⏩ [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
+ - 👉 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)<!-- MEMES:END -->
 
 ---
 
