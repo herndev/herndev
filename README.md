@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
- - ⏩ [Graphic Capitulation](http://9gag.com/gag/axo5zP1)
- - 👉 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)<!-- MEMES:END -->
+ - 💣 [A filipino survivior of the manila massacre shows where a japanese officier tried to behead him](http://9gag.com/gag/aMEgZYP)
+ - ⏩ [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
 
 ---
 
