@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - ⏩ [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
+ - 💣 [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
+ - ⏩ [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
  - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
 
 ---
