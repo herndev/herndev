@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3 player finds an edge case the game doesn&#39;t account for: Reverse-pickpocketing a dead wizard into the devil&#39;s inventory like a Trojan nuke](https://www.pcgamer.com/baldurs-gate-3-player-finds-an-edge-case-the-game-doesnt-account-for-reverse-pickpocketing-a-dead-wizard-into-the-devils-inventory-like-a-trojan-nuke)
  - [Wordle today: Hint and answer #940 for Monday, January 15](https://www.pcgamer.com/wordle-today-answer-940-january-15)
- - [Reports of RTX 4090s being sold in China without GPUs scares the heck out of me](https://www.pcgamer.com/reports-of-rtx-4090s-being-sold-in-china-without-gpus-scares-the-heck-out-of-me)
- - [Night Country gets True Detective’s vibe better than True Detective ever has](https://www.polygon.com/24035849/true-detective-night-country-episode-1-review-ending-plot-murder)<!-- GAME:END -->
+ - [Reports of RTX 4090s being sold in China without GPUs scares the heck out of me](https://www.pcgamer.com/reports-of-rtx-4090s-being-sold-in-china-without-gpus-scares-the-heck-out-of-me)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
