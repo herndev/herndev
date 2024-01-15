@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 player finds an edge case the game doesn&#39;t account for: Reverse-pickpocketing a dead wizard into the devil&#39;s inventory like a Trojan nuke](https://www.pcgamer.com/baldurs-gate-3-player-finds-an-edge-case-the-game-doesnt-account-for-reverse-pickpocketing-a-dead-wizard-into-the-devils-inventory-like-a-trojan-nuke)
- - [Wordle today: Hint and answer #940 for Monday, January 15](https://www.pcgamer.com/wordle-today-answer-940-january-15)
- - [Reports of RTX 4090s being sold in China without GPUs scares the heck out of me](https://www.pcgamer.com/reports-of-rtx-4090s-being-sold-in-china-without-gpus-scares-the-heck-out-of-me)<!-- GAME:END -->
+ - [Analysts are calling 2023&#39;s decline in PC shipments &#39;unparalleled in the industry&#39;s recorded history&#39; but suggest the only way now is up](https://www.pcgamer.com/analysts-are-calling-2023s-decline-in-pc-shipments-unparalleled-in-the-industrys-recorded-history-but-suggest-the-only-way-now-is-up)
+ - [How to help The Deserter in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-deserter-quest)
+ - [How to solve the Sacred Archive time puzzles in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-sacred-archive-puzzle-secret-room)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
