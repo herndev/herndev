@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: TikTok is down right now](https://www.androidauthority.com/tiktok-outage-january-2024-3402952/)
- - [TikTok not working? Here’s how to fix it &lpar;Updated: Fresh outage&rpar;](https://www.androidauthority.com/fix-tiktok-not-working-3157023/)
- - [Galaxy S24 leak drops bombshell: 7 years of updates, but Galaxy AI features may not stay free](https://www.androidauthority.com/galaxy-s24-series-seven-android-updates-galaxy-ai-paid-features-3402931/)<!-- TECH:END -->
+ - [The Apple Vision Pro wants both your time and money](https://www.androidauthority.com/apple-vision-pro-demo-details-3401742/)
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [A UN report says Tether token is one of the leading payment methods for money laundering and frauds, including pig butchering scams, in Southeast Asia &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/240115/p1#a240115p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
