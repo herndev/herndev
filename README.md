@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [U.S. Customs say Apple Watch changes are enough to beat ITC ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
- - [Filing: US CBP decides, regarding the Masimo patent fight, that Apple can avoid a ban and sell the Apple Watch Series 9 if pulse oximetry features are disabled &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240115/p10#a240115p10)
- - [HomeKit Insider&#39;s massive CES 2024 roundup episode](https://appleinsider.com/articles/24/01/15/homekit-insider-massive-ces-2024-roundup-episode?utm_medium=rss)<!-- TECH:END -->
+ - [The best monitor upgrades for your Mac from CES 2024](https://appleinsider.com/articles/24/01/15/the-best-monitor-upgrades-for-your-mac-from-ces-2024?utm_medium=rss)
+ - [Apple&#39;s stripping out blood oxygen sensing from Apple Watch enough to skirt import ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
+ - [44% off the Amazfit GTS 2e can kickstart your 2024 fitness goals](https://www.androidauthority.com/amazfit-gts-2e-deal-3403253/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
