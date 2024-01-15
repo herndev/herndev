@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Latest Forza Motorsport Update Brings Daytona and More to Players](https://forza.net/news/forza-motorsport-update-4#new_tab)
- - [Family Guy creator Seth MacFarlane says he &#39;had to have somebody explain to me what the f*ck Fortnite is&#39; before they could add Peter Griffin to the game](https://www.pcgamer.com/family-guy-creator-seth-macfarlane-says-he-had-to-have-somebody-explain-to-me-what-the-fck-fortnite-is-before-they-could-add-peter-griffin-to-the-game)
- - [This &#39;gamified&#39; AI sex toy mimics MMO mechanics by requiring an 8-week grind](https://www.pcgamer.com/this-gamified-ai-sex-toy-mimics-mmo-mechanics-by-requiring-an-8-week-grind)<!-- GAME:END -->
+ - [Ring in the New Year With New Play List Additions: F1 23 and EA SPORTS Super Mega Baseball 4](https://news.xbox.com/en-us/2024/01/15/xbox-ea-play-january-2024/)
+ - [Suicide Squad: Kill the Justice League final system requirements demand an SSD but are otherwise pretty light](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-pc-system-requirements)
+ - [Hot GPU rumour time: Intel may follow AMD in just focusing on the mainstream market with its next-gen Battlemage chips](https://www.pcgamer.com/hot-gpu-rumour-time-intel-may-follow-amd-in-just-focusing-on-the-mainstream-market-with-its-next-gen-battlemage-chips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
