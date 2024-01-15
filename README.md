@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s inexpensive Tab A9 Plus is now on sale in the US](https://www.theverge.com/2024/1/12/24036471/samsung-galaxy-tab-a9-plus-wifi-5g-price-specs)
- - [Instagram’s co-founders are shutting down their Artifact news app](https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom)
- - [Amazon sells products with titles like &quot;I&#39;m sorry, I cannot fulfill this request as it goes against OpenAI use policy&quot; as sellers use ChatGPT to write listings &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240112/p19#a240112p19)<!-- TECH:END -->
+ - [Sources: dozens of Chinese entities, including military bodies, AI research institutes, and universities bought small batches of Nvidia chips despite a US ban &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240114/p6#a240114p6)
+ - [InfinaCore T3 Wireless Charging Station review: affordable multi-device charging with a compact design](https://appleinsider.com/articles/24/01/14/infinacore-t3-wireless-charging-station-review-affordable-multi-device-charging-with-a-compact-design?utm_medium=rss)
+ - [Hands on with Xreal Air 2 Ultra -- The would-be Apple Vision Pro competitor](https://appleinsider.com/articles/24/01/14/hands-on-with-xreal-air-2-ultra----the-would-be-apple-vision-pro-competitor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
