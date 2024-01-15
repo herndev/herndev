@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The creator of the canceled Portal 64 demake says, &#39;Don&#39;t be mad at Valve here&#39;](https://www.pcgamer.com/the-creator-of-the-canceled-portal-64-demake-says-dont-be-mad-at-valve-here)
- - [Five new Steam games you probably missed &lpar;January 15, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-15-2024)
- - [I&#39;m absolutely in love with the Atari 400 Mini, a recreation of one of the first ever gaming computers](https://www.pcgamer.com/im-absolutely-in-love-with-the-atari-400-mini-a-recreation-of-one-of-the-first-ever-gaming-computers)<!-- GAME:END -->
+ - [Reports of RTX 4090s being sold in China without GPUs scares the heck out of me](https://www.pcgamer.com/reports-of-rtx-4090s-being-sold-in-china-without-gpus-scares-the-heck-out-of-me)
+ - [Night Country gets True Detective’s vibe better than True Detective ever has](https://www.polygon.com/24035849/true-detective-night-country-episode-1-review-ending-plot-murder)
+ - [The creator of the canceled Portal 64 demake says, &#39;Don&#39;t be mad at Valve here&#39;](https://www.pcgamer.com/the-creator-of-the-canceled-portal-64-demake-says-dont-be-mad-at-valve-here)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
