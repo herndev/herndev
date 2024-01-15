@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240111-2200&rpar;](https://news.xbox.com/en-us/2024/01/12/xbox-insider-release-notes-alpha-2402-240111-2200/)
- - [12 Days Into 2024 And 2700+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
- - [Laurence Fishburne joins Netflix&#39;s The Witcher as Geralt&#39;s best vampire buddy](https://www.pcgamer.com/laurence-fishburne-joins-netflixs-the-witcher-as-geralts-best-vampire-buddy)<!-- GAME:END -->
+ - [Facebook rejects ads for popular board game Votes for Women: &#39;[It] may impact the outcome of an election or pending legislation&#39;](https://www.pcgamer.com/facebook-rejects-ads-for-popular-board-game-votes-for-women-it-may-impact-the-outcome-of-an-election-or-pending-legislation)
+ - [After Nebraska and Arkansas, American Truck Simulator is going to show me Missouri](https://www.pcgamer.com/after-nebraska-and-arkansas-american-truck-simulator-is-going-to-show-me-missouri)
+ - [Turns out that farming is a pretty compelling addition to the horde survival roguelite formula](https://www.pcgamer.com/turns-out-that-farming-is-a-pretty-compelling-addition-to-the-horde-survival-roguelite-formula)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
