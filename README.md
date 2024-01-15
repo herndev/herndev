@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - ⏩ [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 👉 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)<!-- MEMES:END -->
+ - 💣 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - ⏩ [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
+ - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
 
 ---
 
