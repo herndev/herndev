@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #941 for Tuesday, January 16](https://www.pcgamer.com/wordle-today-answer-941-january-16)
- - [Embracer-owned Lost Boys Interactive reportedly undergoes &#39;sizable&#39; layoffs](https://www.pcgamer.com/embracer-owned-lost-boys-interactive-reportedly-undergoes-sizable-layoffs)
- - [The latest Baba Is You spinoff injects it with Into the Breach to create Mobile Suit Baba](https://www.pcgamer.com/the-latest-baba-is-you-spinoff-injects-it-with-into-the-breach-to-create-mobile-suit-baba)<!-- GAME:END -->
+ - [Persona 3 Reload: How Atlus Reimagined a Classic RPG](https://news.xbox.com/en-us/2024/01/16/persona-3-reload-how-atlus-reimagined-a-classic-rpg/)
+ - [Hands-On: Persona 3 Reload Fixes One Of The Original’s Greatest Sins](https://kotaku.com/persona-3-reload-demo-akihiko-junpei-social-link-1851160706)
+ - [Rockstar banned T-Pain from playing GTA Online RP while he works on GTA 6, then bought the RP mod makers anyway: &#39;Y&#39;all told me I couldn&#39;t do this s*** then y&#39;all teamed up with the people that enable the RP s*** to happen?&#39;](https://www.pcgamer.com/rockstar-banned-t-pain-from-playing-gta-online-rp-while-he-works-on-gta-6-then-bought-the-rp-mod-makers-anyway-yall-told-me-i-couldnt-do-this-s-then-yall-teamed-up-with-the-people-that-enable-the-rp-s-to-happen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
