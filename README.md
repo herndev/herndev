@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes Copilot Pro official, hours after we leaked it](https://www.androidauthority.com/microsoft-copilot-pro-3402945/)
- - [Google says YouTube’s latest slowdown isn’t linked to ad blockers](https://www.androidauthority.com/youtube-slowdown-google-statement-3403594/)
- - [Global smartphone shipments declined 3.2% YoY to 1.17B units in 2023; Apple gained the top spot for the first time with 234.6M, followed by Samsung with 226.6M &lpar;IDC&rpar;](http://www.techmeme.com/240115/p19#a240115p19)<!-- TECH:END -->
+ - [These Samsung Galaxy phones could get the One UI 6.1 update](https://www.androidauthority.com/samsung-galaxy-phones-ui-6-1-update-test-builds-3403605/)
+ - [Apple might disable a key health feature on its watches to avoid a ban](https://www.androidauthority.com/apple-ditch-blood-oxygen-tracking-watches-ban-3403603/)
+ - [Microsoft makes Copilot Pro official, hours after we leaked it](https://www.androidauthority.com/microsoft-copilot-pro-3402945/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
