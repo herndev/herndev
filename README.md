@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Watch the Xbox Developer_Direct 2024 on Thursday, January 18](https://news.xbox.com/en-us/2024/01/16/xbox-developer-direct-how-to-watch/)
- - [You can watch this dog speedrun an NES game live today](https://www.polygon.com/24039944/games-done-quick-agdq-2024-dog-speedrun-gyromite)
- - [MTG: Murders at Karlov Manor launches Feb. 9, here’s where to pre-order](https://www.polygon.com/deals/23988056/pre-order-mtg-murders-at-karlov-manor)<!-- GAME:END -->
+ - [Cute, villainous Pokémon Pecharunt dabbles in mind control](https://www.polygon.com/pokemon/24039973/pecharunt-toxic-mochi-pokemon-scarlet-violet-dlc)
+ - [Drop Shift V2 review](https://www.pcgamer.com/drop-shift-v2-review)
+ - [She-Hulk star says there’s no hope for season 2](https://www.polygon.com/24039917/she-hulk-season-2-release-canceled)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
