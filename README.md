@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quantinuum raised a $300M funding round, led by JPMorgan, that valued the quantum computing company at $5B; Honeywell remains the majority owner &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/240116/p15#a240116p15)
- - [Tokyo-based Sakana AI, which is focused on building smaller AI models, raised a $30M seed led by Lux Capital, a source says at a $200M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240116/p16#a240116p16)
- - [EU companies are complaining that US big tech is ignoring a new antitrust law](https://appleinsider.com/articles/24/01/16/us-companies-are-complaining-that-us-big-tech-is-ignoring-a-new-antitrust-law?utm_medium=rss)<!-- TECH:END -->
+ - [Ubisoft renamed its subscription service and added a new one focused on classics](https://www.theverge.com/2024/1/16/24038090/ubisoft-plus-premium-subscription-classics-activision)
+ - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear both appeals](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)
+ - [Turtle Beach’s first racing sim hardware is a direct drive wheel and pedal kit](https://www.theverge.com/2024/1/16/24039852/turtle-beach-velocityone-race-racing-sim-wheel-pedal-price-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
