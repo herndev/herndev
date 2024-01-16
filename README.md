@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Samsung Galaxy phones could get the One UI 6.1 update](https://www.androidauthority.com/samsung-galaxy-phones-ui-6-1-update-test-builds-3403605/)
- - [Apple might disable a key health feature on its watches to avoid a ban](https://www.androidauthority.com/apple-ditch-blood-oxygen-tracking-watches-ban-3403603/)
- - [Microsoft makes Copilot Pro official, hours after we leaked it](https://www.androidauthority.com/microsoft-copilot-pro-3402945/)<!-- TECH:END -->
+ - [Despite nine years of music industry growth thanks to streaming, companies like Spotify and UMG are tightening payouts or laying off employees &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240116/p2#a240116p2)
+ - [Dubai&#39;s Virtual Assets Regulatory Authority grants OKX Middle East a license, allowing the crypto exchange to offer its services to retail clients in the UAE &lpar;Federico Maccioni/Reuters&rpar;](http://www.techmeme.com/240116/p1#a240116p1)
+ - [These Samsung Galaxy phones could get the One UI 6.1 update](https://www.androidauthority.com/samsung-galaxy-phones-ui-6-1-update-test-builds-3403605/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
