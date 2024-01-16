@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar Games’ Take-Two and Remedy are fighting over an ‘R’](https://www.polygon.com/24040321/rockstar-games-take-two-remedy-trademark)
- - [Xbox Insider Release Notes – Beta &lpar;2402.240111-2200&rpar;](https://news.xbox.com/en-us/2024/01/16/xbox-insider-release-notes-beta-2402-240111-2200/)
- - [The Absolute Best Gadgets From CES 2024](https://kotaku.com/ces-2024-best-gadgets-tvs-lifestyle-cooking-1851169566)<!-- GAME:END -->
+ - [Where to unlock all the new content in FFXIV patch 6.55](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24040413/where-to-unlock-patch-6-55-content-allied-tribe-hildebrand-tataru)
+ - [Xbox Game Pass Is Stacked For The Second Half Of January](https://kotaku.com/xbox-game-pass-january-2024-brotato-palworld-persona-3-1851170041)
+ - [Square Enix says its new multiplayer party game contains AI-generated art, but don&#39;t sweat it: It&#39;s only &#39;about 0.01% or even less&#39;](https://www.pcgamer.com/square-enix-says-its-new-multiplayer-party-game-contains-ai-generated-art-but-dont-sweat-it-its-only-about-001-or-even-less)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
