@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - ⏩ [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
- - 👉 [How?](http://9gag.com/gag/amA3BMd)<!-- MEMES:END -->
+ - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - ⏩ [How?](http://9gag.com/gag/amA3BMd)
+ - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
 
 ---
 
