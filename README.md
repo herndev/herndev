@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
- - ⏩ [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)
- - 👉 [Im half chinese and im half laughing](http://9gag.com/gag/a4ov3Lv)<!-- MEMES:END -->
+ - 💣 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - ⏩ [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
+ - 👉 [How?](http://9gag.com/gag/amA3BMd)<!-- MEMES:END -->
 
 ---
 
