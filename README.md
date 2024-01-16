@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia unveils a plan to mandate safeguards around the use of higher-risk AI, such as self-driving technology, potentially requiring auditing and labeling &lpar;Jake Evans/ABC&rpar;](http://www.techmeme.com/240116/p25#a240116p25)
- - [FCC filings seem to indicate Apple Vision Pro will not support Ultra Wideband, Wi-Fi 6E, or Wi-Fi 7 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240116/p24#a240116p24)
- - [The AI phones are coming](https://www.theverge.com/2024/1/16/24040562/samsung-unpacked-galaxy-ai-s24)<!-- TECH:END -->
+ - [Apple revises its US App Store rules to let devs link to outside payment methods, but will charge a commission of 27%, or 12% for small business program devs &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240116/p26#a240116p26)
+ - [iPhone eSIM Guide: How to get the most out of it](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)
+ - [Apple&#39;s App Store anti-steering rules are gone, but the replacement isn&#39;t much better](https://appleinsider.com/articles/24/01/16/apples-app-store-anti-steering-rules-are-gone-but-the-replacement-isnt-much-better?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
