@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global smartphone shipments declined 3.2% YoY to 1.17B units in 2023; Apple gained the top spot for the first time with 234.6M, followed by Samsung with 226.6M &lpar;IDC&rpar;](http://www.techmeme.com/240115/p19#a240115p19)
  - [Apple overtakes Samsung in global smartphone shipments across 2023](https://appleinsider.com/articles/24/01/16/apple-overtakes-samsung-in-global-smartphone-shipments-across-2023?utm_medium=rss)
- - [Apple Watch Series 8 Deals: Save Up to $160 on Various Models     - CNET](https://www.cnet.com/deals/best-apple-watch-series-8-deals/#ftag=CAD590a51e)
- - [HashKey, which operates a licensed Hong Kong crypto exchange, raised a ~$100M Series A at a $1.2B+ valuation; sources: OKX Ventures is among the lead investors &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240115/p18#a240115p18)<!-- TECH:END -->
+ - [Apple Watch Series 8 Deals: Save Up to $160 on Various Models     - CNET](https://www.cnet.com/deals/best-apple-watch-series-8-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
