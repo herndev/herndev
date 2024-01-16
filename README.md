@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
- - ⏩ [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
+ - 💣 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - ⏩ [Nice](http://9gag.com/gag/aQEGRj8)
+ - 👉 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)<!-- MEMES:END -->
 
 ---
 
