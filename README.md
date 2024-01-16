@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - ⏩ [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
+ - 💣 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
+ - ⏩ [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 👉 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)<!-- MEMES:END -->
 
 ---
 
