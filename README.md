@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
- - ⏩ [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)<!-- MEMES:END -->
+ - 💣 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
+ - ⏩ [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 👉 [What a waste](http://9gag.com/gag/aVbAYAv)<!-- MEMES:END -->
 
 ---
 
