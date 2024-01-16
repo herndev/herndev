@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
- - ⏩ [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 👉 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)<!-- MEMES:END -->
+ - 💣 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
+ - ⏩ [She is alright](http://9gag.com/gag/aeQLg55)
+ - 👉 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)<!-- MEMES:END -->
 
 ---
 
