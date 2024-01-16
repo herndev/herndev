@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HashKey, which operates a licensed Hong Kong crypto exchange, raised a ~$100M Series A at a $1.2B+ valuation; sources: OKX Ventures is among the lead investors &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240115/p18#a240115p18)
- - [Election 2024: Use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
- - [ASUS ROG Phone 8 review: Should you buy it?](https://www.androidauthority.com/asus-rog-phone-8-review-3399464/)<!-- TECH:END -->
+ - [Apple overtakes Samsung in global smartphone shipments across 2023](https://appleinsider.com/articles/24/01/16/apple-overtakes-samsung-in-global-smartphone-shipments-across-2023?utm_medium=rss)
+ - [Apple Watch Series 8 Deals: Save Up to $160 on Various Models     - CNET](https://www.cnet.com/deals/best-apple-watch-series-8-deals/#ftag=CAD590a51e)
+ - [HashKey, which operates a licensed Hong Kong crypto exchange, raised a ~$100M Series A at a $1.2B+ valuation; sources: OKX Ventures is among the lead investors &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240115/p18#a240115p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
