@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cute, villainous Pokémon Pecharunt dabbles in mind control](https://www.polygon.com/pokemon/24039973/pecharunt-toxic-mochi-pokemon-scarlet-violet-dlc)
- - [Drop Shift V2 review](https://www.pcgamer.com/drop-shift-v2-review)
- - [She-Hulk star says there’s no hope for season 2](https://www.polygon.com/24039917/she-hulk-season-2-release-canceled)<!-- GAME:END -->
+ - [&#39;Father of the Xbox&#39; shares the 1990s desktop PC aesthetic of its prototype devkit](https://www.pcgamer.com/father-of-the-xbox-shares-the-1990s-desktop-pc-aesthetic-of-its-prototype-devkit)
+ - [Minecraft Movie Director Fears The Murderous Wrath Of 10-Year-Olds](https://kotaku.com/minecraft-movie-sonic-teeth-microsoft-1851168947)
+ - [Ellie And Abby&#39;s Best Video Game T-Shirts in TLOU 2&#39;s No Return](https://kotaku.com/last-of-us-part-2-remastered-ellie-abby-skin-video-game-1851164090)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
