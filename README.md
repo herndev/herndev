@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Father of the Xbox&#39; shares the 1990s desktop PC aesthetic of its prototype devkit](https://www.pcgamer.com/father-of-the-xbox-shares-the-1990s-desktop-pc-aesthetic-of-its-prototype-devkit)
- - [Minecraft Movie Director Fears The Murderous Wrath Of 10-Year-Olds](https://kotaku.com/minecraft-movie-sonic-teeth-microsoft-1851168947)
- - [Ellie And Abby&#39;s Best Video Game T-Shirts in TLOU 2&#39;s No Return](https://kotaku.com/last-of-us-part-2-remastered-ellie-abby-skin-video-game-1851164090)<!-- GAME:END -->
+ - [You can make one of Baldur&#39;s Gate 3&#39;s hardest fights easier on yourself—all without sacrificing one of the game&#39;s best cutscenes and an award-winning performance](https://www.pcgamer.com/you-can-make-one-of-baldurs-gate-3s-hardest-fights-easier-on-yourselfall-without-sacrificing-one-of-the-games-best-cutscenes-and-an-award-winning-performance)
+ - [Supreme Court declines to pick a side in Epic’s legal battle with Apple over App Store fees](https://www.polygon.com/24040152/epic-vs-apple-fortnite-app-store-supreme-court)
+ - [There should be more strategy games like War Hospital](https://www.pcgamer.com/there-should-be-more-strategy-games-like-war-hospital)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
