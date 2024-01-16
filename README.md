@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - ⏩ [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 👉 [What a waste](http://9gag.com/gag/aVbAYAv)<!-- MEMES:END -->
+ - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - ⏩ [She is alright](http://9gag.com/gag/aeQLg55)
+ - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
 
 ---
 
