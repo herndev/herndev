@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - ⏩ [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 👉 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
+ - ⏩ [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 👉 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)<!-- MEMES:END -->
 
 ---
 
