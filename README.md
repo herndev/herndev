@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Education and BBC Earth Release New DLC Inspired by Planet Earth III](https://www.minecraft.net/article/planet-earth-iii-perspectives)
- - [Elden Ring Sleuths Think Shadow Of The Erdtree DLC Is Coming Soon](https://kotaku.com/elden-ring-shadow-erdtree-dlc-steamdb-update-1851169508)
- - [FFXIV Endwalker Manderville relic weapon guide, quest, and steps](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23410988/endwalker-relic-weapon-manderville-steps-upgrade-requirements)<!-- GAME:END -->
+ - [Rockstar Games’ Take-Two and Remedy are fighting over an ‘R’](https://www.polygon.com/24040321/rockstar-games-take-two-remedy-trademark)
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240111-2200&rpar;](https://news.xbox.com/en-us/2024/01/16/xbox-insider-release-notes-beta-2402-240111-2200/)
+ - [The Absolute Best Gadgets From CES 2024](https://kotaku.com/ces-2024-best-gadgets-tvs-lifestyle-cooking-1851169566)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
