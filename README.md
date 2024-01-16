@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
- - ⏩ [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 👉 [True Love](http://9gag.com/gag/a1P9Q8b)<!-- MEMES:END -->
+ - 💣 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)
+ - ⏩ [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)
+ - 👉 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)<!-- MEMES:END -->
 
 ---
 
