@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s Clear Up Those Halo Battle Royale Rumors](https://kotaku.com/halo-infinite-battle-royale-project-tatanka-br-canceled-1851170286)
- - [A speedrunning dog named Peanut Butter just beat an obscure 1985 NES game live for charity, is the day&#39;s goodest boy](https://www.pcgamer.com/a-speedrunning-dog-named-peanut-butter-just-beat-an-obscure-1985-nes-game-live-for-charity-is-the-days-goodest-boy)
- - [The Sims 4 is granting my castle build wishes, and goths to live in them, with 2 new DLC kits this week](https://www.pcgamer.com/the-sims-4-is-granting-my-castle-build-wishes-and-goths-to-live-in-them-with-2-new-dlc-kits-this-week)<!-- GAME:END -->
+ - [It shouldn&#39;t be this hard to play the best version of one of Japan&#39;s great roguelikes today](https://www.pcgamer.com/it-shouldnt-be-this-hard-to-play-the-best-version-of-one-of-japans-great-roguelikes-today)
+ - [Frostpunk 2’s trailer raises the stakes with worker rebellions, punishing conditions](https://www.polygon.com/24040686/frostpunk-2-gameplay-trailer-announcement-game-pass)
+ - [This trademark dispute between Remedy and Take-Two is brought to you by the letter R](https://www.pcgamer.com/this-trademark-dispute-between-remedy-and-take-two-is-brought-to-you-by-the-letter-r)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
