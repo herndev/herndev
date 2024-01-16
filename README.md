@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ark: Survival Ascended gets powerful mod tools this month, expansion maps in February and April](https://www.pcgamer.com/ark-survival-ascended-gets-powerful-mod-tools-this-month-expansion-maps-in-february-and-april)
  - [Cities: Skylines 2 studio boss warns that growing toxicity could force developers to &#39;pull back our engagement&#39; with the community](https://www.pcgamer.com/cities-skylines-2-studio-boss-warns-that-growing-toxicity-could-force-developers-to-pull-back-our-engagement-with-the-community)
- - [Diesel-powered city builder New Cycle invites you to rekindle hope after a solar flare wrecks the world](https://www.pcgamer.com/diesel-powered-city-builder-new-cycle-invites-you-to-rekindle-hope-after-a-solar-flare-wrecks-the-world)
- - [Niche strategy sickos rejoice, Dominions 6 will let you cook up bizarre gods shortly](https://www.pcgamer.com/niche-strategy-sickos-rejoice-dominions-6-will-let-you-cook-up-bizarre-gods-shortly)<!-- GAME:END -->
+ - [Diesel-powered city builder New Cycle invites you to rekindle hope after a solar flare wrecks the world](https://www.pcgamer.com/diesel-powered-city-builder-new-cycle-invites-you-to-rekindle-hope-after-a-solar-flare-wrecks-the-world)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
