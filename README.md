@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello everybody!](http://9gag.com/gag/aqe0gV7)
- - ⏩ [Sounds like you&#39;re squeaking in bed!](http://9gag.com/gag/amA3BAV)
- - 👉 [Drunken Girls](http://9gag.com/gag/a3ZmEG3)<!-- MEMES:END -->
+ - 💣 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
+ - ⏩ [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)
+ - 👉 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)<!-- MEMES:END -->
 
 ---
 
