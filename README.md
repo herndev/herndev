@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro hands-on roundup: Weighty with a clunky virtual keyboard, but great overall](https://appleinsider.com/articles/24/01/16/apple-vision-pro-hands-on-roundup-weighty-with-a-clunky-virtual-keyboard-but-great-overall?utm_medium=rss)
- - [The Emmys Proved Streaming Changed TV for the Better](https://www.wired.com/story/emmys-streaming-succession-the-bear-hbo-hulu/)
- - [OpenAI forms a Collective Alignment team to create a system for collecting and using input from the public in its training of models&#39; behaviors &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240116/p21#a240116p21)<!-- TECH:END -->
+ - [Google Chrome updates Incognito mode to include new tracking disclaimer](https://www.androidauthority.com/incognito-mode-disclaimer-3403968/)
+ - [Sources: African neobank Kuda raised $20M in 2023 at a $500M valuation, same as its 2021 valuation; it has 7M retail and business users, short of projections &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240116/p23#a240116p23)
+ - [Researchers studying Google, Bing, and DuckDuckGo search results over a year: search engines are losing the cat and mouse game of SEO spam, likely boosted by AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240116/p22#a240116p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
