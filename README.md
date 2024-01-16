@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How?](http://9gag.com/gag/amA3BMd)
+ - 💣 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
  - ⏩ [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 👉 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)<!-- MEMES:END -->
+ - 👉 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)<!-- MEMES:END -->
 
 ---
 
