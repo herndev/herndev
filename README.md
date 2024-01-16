@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft renamed its subscription service and added a new one focused on classics](https://www.theverge.com/2024/1/16/24038090/ubisoft-plus-premium-subscription-classics-activision)
- - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear both appeals](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)
- - [Turtle Beach’s first racing sim hardware is a direct drive wheel and pedal kit](https://www.theverge.com/2024/1/16/24039852/turtle-beach-velocityone-race-racing-sim-wheel-pedal-price-date)<!-- TECH:END -->
+ - [Apple Vision Pro hands-on, again, for the first time](https://www.theverge.com/24040075/apple-vision-pro-hands-on-virtual-reality)
+ - [Last chance to lock in $50 savings on the Samsung Galaxy S24](https://www.androidauthority.com/reserve-samsung-galaxy-s24-3403815/)
+ - [Rockstar Games’ owner is fighting Remedy Entertainment over it’s new ‘R’ logo](https://www.theverge.com/2024/1/16/24040179/take-two-rockstar-games-remedy-entertainment-logo-trademark-dispute)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
