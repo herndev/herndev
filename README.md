@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro will launch with 3D movies from Disney Plus](https://www.theverge.com/2024/1/16/24039960/apple-vision-pro-3d-movies-disney-plus)
- - [SCOTUS rejects Apple&#39;s and Epic&#39;s request to review the Epic antitrust suit challenging the App Store, likely affecting billions of dollars of Apple&#39;s revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p13#a240116p13)
- - [&quot;Dune,&quot; and Alicia Keys lead Apple Vision Pro&#39;s new Immersive Video](https://appleinsider.com/articles/24/01/16/dune-and-alicia-keys-lead-apple-vision-pros-new-immersive-video?utm_medium=rss)<!-- TECH:END -->
+ - [Quantinuum raised a $300M funding round, led by JPMorgan, that valued the quantum computing company at $5B; Honeywell remains the majority owner &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/240116/p15#a240116p15)
+ - [Tokyo-based Sakana AI, which is focused on building smaller AI models, raised a $30M seed led by Lux Capital, a source says at a $200M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240116/p16#a240116p16)
+ - [EU companies are complaining that US big tech is ignoring a new antitrust law](https://appleinsider.com/articles/24/01/16/us-companies-are-complaining-that-us-big-tech-is-ignoring-a-new-antitrust-law?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
