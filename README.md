@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
- - ⏩ [True Love](http://9gag.com/gag/a1P9Q8b)
- - 👉 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)<!-- MEMES:END -->
+ - ⏩ [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 👉 [True Love](http://9gag.com/gag/a1P9Q8b)<!-- MEMES:END -->
 
 ---
 
