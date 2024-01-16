@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - ⏩ [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
+ - 💣 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
+ - ⏩ [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)
+ - 👉 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)<!-- MEMES:END -->
 
 ---
 
