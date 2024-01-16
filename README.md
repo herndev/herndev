@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 might switch to higher-density but slower flash storage](https://appleinsider.com/articles/24/01/16/iphone-16-might-switch-to-higher-density-but-slower-flash-storage?utm_medium=rss)
- - [Turtle Beach’s first racing sim hardware is a direct drive wheel and pedal kit](https://www.theverge.com/2024/1/16/24039852/turtle-beach-velocityone-race-racing-sim-wheel-pedal-price-date)
- - [Adobe adds beta AI audio editing tools in Premiere Pro, including labeling clips as dialogue, music, and more, and plans to roll out a dialogue clean-up tool &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240116/p11#a240116p11)<!-- TECH:END -->
+ - [Apple Vision Pro will launch with 3D movies from Disney Plus](https://www.theverge.com/2024/1/16/24039960/apple-vision-pro-3d-movies-disney-plus)
+ - [SCOTUS rejects Apple&#39;s and Epic&#39;s request to review the Epic antitrust suit challenging the App Store, likely affecting billions of dollars of Apple&#39;s revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p13#a240116p13)
+ - [&quot;Dune,&quot; and Alicia Keys lead Apple Vision Pro&#39;s new Immersive Video](https://appleinsider.com/articles/24/01/16/dune-and-alicia-keys-lead-apple-vision-pros-new-immersive-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
