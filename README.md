@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to unlock all the new content in FFXIV patch 6.55](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24040413/where-to-unlock-patch-6-55-content-allied-tribe-hildebrand-tataru)
- - [Xbox Game Pass Is Stacked For The Second Half Of January](https://kotaku.com/xbox-game-pass-january-2024-brotato-palworld-persona-3-1851170041)
- - [Square Enix says its new multiplayer party game contains AI-generated art, but don&#39;t sweat it: It&#39;s only &#39;about 0.01% or even less&#39;](https://www.pcgamer.com/square-enix-says-its-new-multiplayer-party-game-contains-ai-generated-art-but-dont-sweat-it-its-only-about-001-or-even-less)<!-- GAME:END -->
+ - [Let’s Clear Up Those Halo Battle Royale Rumors](https://kotaku.com/halo-infinite-battle-royale-project-tatanka-br-canceled-1851170286)
+ - [A speedrunning dog named Peanut Butter just beat an obscure 1985 NES game live for charity, is the day&#39;s goodest boy](https://www.pcgamer.com/a-speedrunning-dog-named-peanut-butter-just-beat-an-obscure-1985-nes-game-live-for-charity-is-the-days-goodest-boy)
+ - [The Sims 4 is granting my castle build wishes, and goths to live in them, with 2 new DLC kits this week](https://www.pcgamer.com/the-sims-4-is-granting-my-castle-build-wishes-and-goths-to-live-in-them-with-2-new-dlc-kits-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
