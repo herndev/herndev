@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A PwC survey of 4,702 CEOs ahead of Davos: 25% expect generative AI to lead to up to 5% headcount cuts, 46% expect GenAI to boost profits in 12 months, and more &lpar;Sam Fleming/Financial Times&rpar;](http://www.techmeme.com/240116/p5#a240116p5)
- - [Apple tops Samsung for first time in global smartphone shipments](https://www.theverge.com/2024/1/16/24039830/apple-bestselling-phone-manufacturer-2023-samsung-idc-canalys-research)
- - [Vodafone and Microsoft agree to a 10-year, $1.5B deal to develop AI, digital payments, IoT, and other businesses; Vodafone will use OpenAI for customer service &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240116/p4#a240116p4)<!-- TECH:END -->
+ - [Apple will sustain chip order volume, but TSMC will have a tough quarter anyway](https://appleinsider.com/articles/24/01/16/apple-will-sustain-chip-order-volume-but-tsmc-will-have-a-tough-quarter-anyway?utm_medium=rss)
+ - [&#39;Black Bird&#39; scores Apple TV+ it&#39;s sole major Emmy award](https://appleinsider.com/articles/24/01/16/black-bird-scores-apple-tv-its-sole-major-emmy-award?utm_medium=rss)
+ - [Coinbase offering custody, trading, and financing to a majority of bitcoin ETF issuers, including BlackRock, poses concentration risk and may intensify scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p7#a240116p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
