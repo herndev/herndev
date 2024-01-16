@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Spotify&#39;s on-the-ground work in Nigeria, like hiring local staff, contributed to the success of Afrobeats, which grew 550% on Spotify between 2017 and 2022 &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240116/p3#a240116p3)
- - [Despite nine years of music industry growth thanks to streaming, companies like Spotify and UMG are tightening payouts or laying off employees &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240116/p2#a240116p2)
- - [Dubai&#39;s Virtual Assets Regulatory Authority grants OKX Middle East a license, allowing the crypto exchange to offer its services to retail clients in the UAE &lpar;Federico Maccioni/Reuters&rpar;](http://www.techmeme.com/240116/p1#a240116p1)<!-- TECH:END -->
+ - [Apple tops Samsung for first time in global smartphone shipments](https://www.theverge.com/2024/1/16/24039830/apple-bestselling-phone-manufacturer-2023-samsung-idc-canalys-research)
+ - [Vodafone and Microsoft agree to a 10-year, $1.5B deal to develop AI, digital payments, IoT, and other businesses; Vodafone will use OpenAI for customer service &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240116/p4#a240116p4)
+ - [Watch &#39;Love Island: All Stars&#39; 2024: Stream Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-love-island-all-stars-2024-stream-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
