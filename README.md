@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
- - ⏩ [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)
+ - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
+ - ⏩ [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
  - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
 
 ---
