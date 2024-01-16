@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASUS ROG Phone 8 review: Should you buy it?](https://www.androidauthority.com/asus-rog-phone-8-review-3399464/)
  - [Vision Pro near, AirTags 2 far, and an OLED iPad could be coming soon, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)
- - [Elon Musk says he would rather build AI products outside of Tesla if he doesn&#39;t have ~25% voting control in the company; Musk currently owns 12%+ of Tesla &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/240115/p17#a240115p17)
- - [John Deere plans to use SpaceX&#39;s Starlink service to provide satellite internet connections for tractors, harvesters, and other equipment in remote areas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240115/p16#a240115p16)<!-- TECH:END -->
+ - [Elon Musk says he would rather build AI products outside of Tesla if he doesn&#39;t have ~25% voting control in the company; Musk currently owns 12%+ of Tesla &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/240115/p17#a240115p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
