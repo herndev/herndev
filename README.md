@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can make one of Baldur&#39;s Gate 3&#39;s hardest fights easier on yourself—all without sacrificing one of the game&#39;s best cutscenes and an award-winning performance](https://www.pcgamer.com/you-can-make-one-of-baldurs-gate-3s-hardest-fights-easier-on-yourselfall-without-sacrificing-one-of-the-games-best-cutscenes-and-an-award-winning-performance)
- - [Supreme Court declines to pick a side in Epic’s legal battle with Apple over App Store fees](https://www.polygon.com/24040152/epic-vs-apple-fortnite-app-store-supreme-court)
- - [There should be more strategy games like War Hospital](https://www.pcgamer.com/there-should-be-more-strategy-games-like-war-hospital)<!-- GAME:END -->
+ - [Minecraft Education and BBC Earth Release New DLC Inspired by Planet Earth III](https://www.minecraft.net/article/planet-earth-iii-perspectives)
+ - [Elden Ring Sleuths Think Shadow Of The Erdtree DLC Is Coming Soon](https://kotaku.com/elden-ring-shadow-erdtree-dlc-steamdb-update-1851169508)
+ - [FFXIV Endwalker Manderville relic weapon guide, quest, and steps](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23410988/endwalker-relic-weapon-manderville-steps-upgrade-requirements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
