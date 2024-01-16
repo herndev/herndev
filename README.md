@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #941 for Tuesday, January 16](https://www.pcgamer.com/wordle-today-answer-941-january-16)
  - [Embracer-owned Lost Boys Interactive reportedly undergoes &#39;sizable&#39; layoffs](https://www.pcgamer.com/embracer-owned-lost-boys-interactive-reportedly-undergoes-sizable-layoffs)
- - [The latest Baba Is You spinoff injects it with Into the Breach to create Mobile Suit Baba](https://www.pcgamer.com/the-latest-baba-is-you-spinoff-injects-it-with-into-the-breach-to-create-mobile-suit-baba)
- - [Ark: Survival Ascended gets powerful mod tools this month, expansion maps in February and April](https://www.pcgamer.com/ark-survival-ascended-gets-powerful-mod-tools-this-month-expansion-maps-in-february-and-april)<!-- GAME:END -->
+ - [The latest Baba Is You spinoff injects it with Into the Breach to create Mobile Suit Baba](https://www.pcgamer.com/the-latest-baba-is-you-spinoff-injects-it-with-into-the-breach-to-create-mobile-suit-baba)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
