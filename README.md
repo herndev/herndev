@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Pixel 8 and Pixel 8 Pro Deals: Save Up to $1,050 With Trade-In Credit     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
- - [Best Indoor Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
- - [Best NAS Deals: Save Big on Up to 54TB of Network Storage     - CNET](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vision Pro near, AirTags 2 far, and an OLED iPad could be coming soon, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Elon Musk says he would rather build AI products outside of Tesla if he doesn&#39;t have ~25% voting control in the company; Musk currently owns 12%+ of Tesla &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/240115/p17#a240115p17)
+ - [John Deere plans to use SpaceX&#39;s Starlink service to provide satellite internet connections for tractors, harvesters, and other equipment in remote areas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240115/p16#a240115p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
