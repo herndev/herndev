@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Spotify&#39;s on-the-ground work in Nigeria, like hiring local staff, contributed to the success of Afrobeats, which grew 550% on Spotify between 2017 and 2022 &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240116/p3#a240116p3)
  - [Despite nine years of music industry growth thanks to streaming, companies like Spotify and UMG are tightening payouts or laying off employees &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240116/p2#a240116p2)
- - [Dubai&#39;s Virtual Assets Regulatory Authority grants OKX Middle East a license, allowing the crypto exchange to offer its services to retail clients in the UAE &lpar;Federico Maccioni/Reuters&rpar;](http://www.techmeme.com/240116/p1#a240116p1)
- - [These Samsung Galaxy phones could get the One UI 6.1 update](https://www.androidauthority.com/samsung-galaxy-phones-ui-6-1-update-test-builds-3403605/)<!-- TECH:END -->
+ - [Dubai&#39;s Virtual Assets Regulatory Authority grants OKX Middle East a license, allowing the crypto exchange to offer its services to retail clients in the UAE &lpar;Federico Maccioni/Reuters&rpar;](http://www.techmeme.com/240116/p1#a240116p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
