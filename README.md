@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Light it up and throw one in \ud83c\udf55!!](http://9gag.com/gag/a9qoAqW)
- - ⏩ [How?](http://9gag.com/gag/amA3BMd)
- - 👉 [Hello everybody!](http://9gag.com/gag/aqe0gV7)<!-- MEMES:END -->
+ - 💣 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
+ - ⏩ [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)
+ - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
 
 ---
 
