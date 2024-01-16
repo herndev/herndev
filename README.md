@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Palworld, Persona 3 Reload, F1 23, and More](https://news.xbox.com/en-us/2024/01/16/game-pass-january-2024-wave-2-announce/)
- - [This actual anime VR high school where you&#39;ll be able to get proper qualifications is the first metaverse-based project that makes any kind of sense to me](https://www.pcgamer.com/this-actual-anime-vr-high-school-where-youll-be-able-to-get-proper-qualifications-is-the-first-metaverse-based-project-that-makes-any-kind-of-sense-to-me)
- - [Persona 3 Reload: How Atlus Reimagined a Classic RPG](https://news.xbox.com/en-us/2024/01/16/persona-3-reload-how-atlus-reimagined-a-classic-rpg/)<!-- GAME:END -->
+ - [How to Watch the Xbox Developer_Direct 2024 on Thursday, January 18](https://news.xbox.com/en-us/2024/01/16/xbox-developer-direct-how-to-watch/)
+ - [You can watch this dog speedrun an NES game live today](https://www.polygon.com/24039944/games-done-quick-agdq-2024-dog-speedrun-gyromite)
+ - [MTG: Murders at Karlov Manor launches Feb. 9, here’s where to pre-order](https://www.polygon.com/deals/23988056/pre-order-mtg-murders-at-karlov-manor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
