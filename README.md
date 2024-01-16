@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - ⏩ [What a waste](http://9gag.com/gag/aVbAYAv)
- - 👉 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)<!-- MEMES:END -->
+ - 💣 [How?](http://9gag.com/gag/amA3BMd)
+ - ⏩ [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 👉 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)<!-- MEMES:END -->
 
 ---
 
