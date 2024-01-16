@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)
- - ⏩ [Sounds like you&#39;re squeaking in bed!](http://9gag.com/gag/amA3BAV)
- - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
+ - 💣 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - ⏩ [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
+ - 👉 [What a waste](http://9gag.com/gag/aVbAYAv)<!-- MEMES:END -->
 
 ---
 
