@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro hands-on, again, for the first time](https://www.theverge.com/24040075/apple-vision-pro-hands-on-virtual-reality)
- - [Last chance to lock in $50 savings on the Samsung Galaxy S24](https://www.androidauthority.com/reserve-samsung-galaxy-s24-3403815/)
- - [Rockstar Games’ owner is fighting Remedy Entertainment over it’s new ‘R’ logo](https://www.theverge.com/2024/1/16/24040179/take-two-rockstar-games-remedy-entertainment-logo-trademark-dispute)<!-- TECH:END -->
+ - [Apple Vision Pro hands-on: eye and hand tracking are very accurate, but typing is frustrating, the killer app is watching movies, can feel heavy after 15+ min &lpar;Engadget&rpar;](http://www.techmeme.com/240116/p20#a240116p20)
+ - [Apple beats Samsung for first time for most shipments in Q4 2023](https://www.androidauthority.com/apple-smartphone-shipments-q4-2023-3403852/)
+ - [iPhone eSIM Guide: How to get the most out of it](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
