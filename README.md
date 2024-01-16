@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS ROG Phone 8 review: Should you buy it?](https://www.androidauthority.com/asus-rog-phone-8-review-3399464/)
- - [Vision Pro near, AirTags 2 far, and an OLED iPad could be coming soon, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)
- - [Elon Musk says he would rather build AI products outside of Tesla if he doesn&#39;t have ~25% voting control in the company; Musk currently owns 12%+ of Tesla &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/240115/p17#a240115p17)<!-- TECH:END -->
+ - [HashKey, which operates a licensed Hong Kong crypto exchange, raised a ~$100M Series A at a $1.2B+ valuation; sources: OKX Ventures is among the lead investors &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240115/p18#a240115p18)
+ - [Election 2024: Use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
+ - [ASUS ROG Phone 8 review: Should you buy it?](https://www.androidauthority.com/asus-rog-phone-8-review-3399464/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
