@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google quietly updates Chrome’s incognito warning in wake of tracking lawsuit](https://www.theverge.com/2024/1/16/24039883/google-incognito-mode-tracking-lawsuit-notice-change)
- - [Adobe’s new AI-powered Premiere Pro features eradicate boring audio editing tasks](https://www.theverge.com/2024/1/16/24038747/adobe-premiere-pro-beta-ai-audio-editing-features-interactive-badges)
- - [Apple says it can take pulse oximetry out of Apple Watch -- but shouldn&#39;t have to](https://appleinsider.com/articles/24/01/16/apple-says-it-can-take-pulse-oximetry-out-of-apple-watch----but-shouldnt-have-to?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 might switch to higher-density but slower flash storage](https://appleinsider.com/articles/24/01/16/iphone-16-might-switch-to-higher-density-but-slower-flash-storage?utm_medium=rss)
+ - [Turtle Beach’s first racing sim hardware is a direct drive wheel and pedal kit](https://www.theverge.com/2024/1/16/24039852/turtle-beach-velocityone-race-racing-sim-wheel-pedal-price-date)
+ - [Adobe adds beta AI audio editing tools in Premiere Pro, including labeling clips as dialogue, music, and more, and plans to roll out a dialogue clean-up tool &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240116/p11#a240116p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
