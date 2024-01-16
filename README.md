@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
- - ⏩ [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)
+ - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - ⏩ [What a waste](http://9gag.com/gag/aVbAYAv)
  - 👉 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)<!-- MEMES:END -->
 
 ---
