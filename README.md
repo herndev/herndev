@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 💣 [Light it up and throw one in \ud83c\udf55!!](http://9gag.com/gag/a9qoAqW)
  - ⏩ [How?](http://9gag.com/gag/amA3BMd)
- - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
+ - 👉 [Hello everybody!](http://9gag.com/gag/aqe0gV7)<!-- MEMES:END -->
 
 ---
 
