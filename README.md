@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload: How Atlus Reimagined a Classic RPG](https://news.xbox.com/en-us/2024/01/16/persona-3-reload-how-atlus-reimagined-a-classic-rpg/)
- - [Hands-On: Persona 3 Reload Fixes One Of The Original’s Greatest Sins](https://kotaku.com/persona-3-reload-demo-akihiko-junpei-social-link-1851160706)
- - [Rockstar banned T-Pain from playing GTA Online RP while he works on GTA 6, then bought the RP mod makers anyway: &#39;Y&#39;all told me I couldn&#39;t do this s*** then y&#39;all teamed up with the people that enable the RP s*** to happen?&#39;](https://www.pcgamer.com/rockstar-banned-t-pain-from-playing-gta-online-rp-while-he-works-on-gta-6-then-bought-the-rp-mod-makers-anyway-yall-told-me-i-couldnt-do-this-s-then-yall-teamed-up-with-the-people-that-enable-the-rp-s-to-happen)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Palworld, Persona 3 Reload, F1 23, and More](https://news.xbox.com/en-us/2024/01/16/game-pass-january-2024-wave-2-announce/)
+ - [This actual anime VR high school where you&#39;ll be able to get proper qualifications is the first metaverse-based project that makes any kind of sense to me](https://www.pcgamer.com/this-actual-anime-vr-high-school-where-youll-be-able-to-get-proper-qualifications-is-the-first-metaverse-based-project-that-makes-any-kind-of-sense-to-me)
+ - [Persona 3 Reload: How Atlus Reimagined a Classic RPG](https://news.xbox.com/en-us/2024/01/16/persona-3-reload-how-atlus-reimagined-a-classic-rpg/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
