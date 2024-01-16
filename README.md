@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro hands-on: eye and hand tracking are very accurate, but typing is frustrating, the killer app is watching movies, can feel heavy after 15+ min &lpar;Engadget&rpar;](http://www.techmeme.com/240116/p20#a240116p20)
- - [Apple beats Samsung for first time for most shipments in Q4 2023](https://www.androidauthority.com/apple-smartphone-shipments-q4-2023-3403852/)
- - [iPhone eSIM Guide: How to get the most out of it](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro hands-on roundup: Weighty with a clunky virtual keyboard, but great overall](https://appleinsider.com/articles/24/01/16/apple-vision-pro-hands-on-roundup-weighty-with-a-clunky-virtual-keyboard-but-great-overall?utm_medium=rss)
+ - [The Emmys Proved Streaming Changed TV for the Better](https://www.wired.com/story/emmys-streaming-succession-the-bear-hbo-hulu/)
+ - [OpenAI forms a Collective Alignment team to create a system for collecting and using input from the public in its training of models&#39; behaviors &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240116/p21#a240116p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
