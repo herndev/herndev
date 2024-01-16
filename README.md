@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - ⏩ [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 👉 [What a waste](http://9gag.com/gag/aVbAYAv)<!-- MEMES:END -->
+ - 💣 [Hello everybody!](http://9gag.com/gag/aqe0gV7)
+ - ⏩ [Sounds like you&#39;re squeaking in bed!](http://9gag.com/gag/amA3BAV)
+ - 👉 [Drunken Girls](http://9gag.com/gag/a3ZmEG3)<!-- MEMES:END -->
 
 ---
 
