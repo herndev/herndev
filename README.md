@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will sustain chip order volume, but TSMC will have a tough quarter anyway](https://appleinsider.com/articles/24/01/16/apple-will-sustain-chip-order-volume-but-tsmc-will-have-a-tough-quarter-anyway?utm_medium=rss)
- - [&#39;Black Bird&#39; scores Apple TV+ it&#39;s sole major Emmy award](https://appleinsider.com/articles/24/01/16/black-bird-scores-apple-tv-its-sole-major-emmy-award?utm_medium=rss)
- - [Coinbase offering custody, trading, and financing to a majority of bitcoin ETF issuers, including BlackRock, poses concentration risk and may intensify scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p7#a240116p7)<!-- TECH:END -->
+ - [Google quietly updates Chrome’s incognito warning in wake of tracking lawsuit](https://www.theverge.com/2024/1/16/24039883/google-incognito-mode-tracking-lawsuit-notice-change)
+ - [Adobe’s new AI-powered Premiere Pro features eradicate boring audio editing tasks](https://www.theverge.com/2024/1/16/24038747/adobe-premiere-pro-beta-ai-audio-editing-features-interactive-badges)
+ - [Apple says it can take pulse oximetry out of Apple Watch -- but shouldn&#39;t have to](https://appleinsider.com/articles/24/01/16/apple-says-it-can-take-pulse-oximetry-out-of-apple-watch----but-shouldnt-have-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
