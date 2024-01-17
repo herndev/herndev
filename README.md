@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple revises its US App Store rules to let devs link to outside payment methods, but will charge a commission of 27%, or 12% for small business program devs &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240116/p26#a240116p26)
- - [iPhone eSIM Guide: How to get the most out of it](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)
- - [Apple&#39;s App Store anti-steering rules are gone, but the replacement isn&#39;t much better](https://appleinsider.com/articles/24/01/16/apples-app-store-anti-steering-rules-are-gone-but-the-replacement-isnt-much-better?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s App Store policies now let US developers link to outside payments](https://www.theverge.com/2024/1/16/24040881/apple-outside-payments-app-store-policies-iphone-ipad)
+ - [The Treasury and IRS say they aren&#39;t enforcing a rule requiring businesses to report the receipt of digital assets worth $10K+ within 15 days of receiving them &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240116/p27#a240116p27)
+ - [The &#39;Sex Update&#39; for &#39;Cult of the Lamb&#39; Is a Good Sign for Horny Video Games](https://www.wired.com/story/cult-of-the-lamb-sins-of-the-flesh-sex-update-horny-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
