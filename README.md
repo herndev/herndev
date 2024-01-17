@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chainsaw Man, Jujutsu Kaisen dominate 2024’s Anime Awards nominations](https://www.polygon.com/24041648/anime-awards-2024-best-anime-nominees-crunchyroll)
- - [Rock Band 4 won&#39;t get any more DLC because we&#39;re living in Fortnite&#39;s world now](https://www.pcgamer.com/rock-band-4-wont-get-any-more-dlc-because-were-living-in-fortnites-world-now)
- - [EverQuest is kicking off a year-long anniversary celebration with a packed calendar of new events, quests, and giveaways, culminating in 2 new expansions](https://www.pcgamer.com/everquest-2024-roadmap-25th-anniversary-expansions-events-calendar)<!-- GAME:END -->
+ - [There&#39;s a lot more beating people to death with a baseball bat in this computer repair shop sim than I expected](https://www.pcgamer.com/theres-a-lot-more-beating-people-to-death-with-a-baseball-bat-in-this-computer-repair-shop-sim-than-i-expected)
+ - [Netflix finally cares about old movies again](https://www.polygon.com/24041818/netflix-old-movies-milestone-collection-chinatown-blazing-saddles)
+ - [Vampire Therapist is a game about helping the living dead come to terms with their centuries-old emotional hangups](https://www.pcgamer.com/vampire-therapist-is-a-game-about-helping-the-living-dead-come-to-terms-with-their-centuries-old-emotional-hangups)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
