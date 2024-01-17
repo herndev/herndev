@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
- - ⏩ [Speak up and find out](http://9gag.com/gag/amA3gEV)
- - 👉 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)<!-- MEMES:END -->
+ - 💣 [Share your unpopular opinion, about any subject you want.](http://9gag.com/gag/avQN5gZ)
+ - ⏩ [On your left Mr Beast](http://9gag.com/gag/axo578b)
+ - 👉 [Lol...](http://9gag.com/gag/aMEgxVW)<!-- MEMES:END -->
 
 ---
 
