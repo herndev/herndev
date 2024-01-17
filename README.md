@@ -34,7 +34,7 @@
 <!-- GAME:START -->
  - [A dystopian sci-fi MOBA was the last thing I expected from the studio behind Dave the Diver, but it&#39;s real and playable soon](https://www.pcgamer.com/a-dystopian-sci-fi-moba-was-the-last-thing-i-expected-from-the-studio-behind-dave-the-diver-but-its-real-and-playable-soon)
  - [New Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2024/01/16/new-year-deals-promotion-comes-to-playstation-store/)
- - [Ubisoft director says gamers will get more comfortable &#39;not owning&#39; games, and he&#39;s not wrong](https://www.pcgamer.com/ubisoft-director-says-gamers-will-get-more-comfortable-not-owning-games-and-hes-not-wrong)<!-- GAME:END -->
+ - [New Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2024/01/16/new-year-deals-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
