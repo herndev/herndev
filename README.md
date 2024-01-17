@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clown world](http://9gag.com/gag/aMEgxN1)
- - ⏩ [What a waste](http://9gag.com/gag/aVbAYAv)
- - 👉 [Lamp looks weird today](http://9gag.com/gag/armYVQV)<!-- MEMES:END -->
+ - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - ⏩ [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 ---
 
