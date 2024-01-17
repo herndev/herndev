@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s RTX 4060 and RTX 4060 Ti are the cards that really should be getting the Super treatment](https://www.pcgamer.com/nvidias-rtx-4060-and-rtx-4060-ti-are-the-cards-that-really-should-be-getting-the-super-treatment)
  - [Does Nico di Angelo appear in the new Percy Jackson episode?](https://www.polygon.com/2024/1/17/24040619/percy-jackson-and-the-olympians-lotus-hotel-nico-di-angelo-disney-plus)
- - [Wordle today: Hint and answer #942 for Wednesday, January 17](https://www.pcgamer.com/wordle-today-answer-942-january-17)
- - [A dystopian sci-fi MOBA was the last thing I expected from the studio behind Dave the Diver, but it&#39;s real and playable soon](https://www.pcgamer.com/a-dystopian-sci-fi-moba-was-the-last-thing-i-expected-from-the-studio-behind-dave-the-diver-but-its-real-and-playable-soon)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #942 for Wednesday, January 17](https://www.pcgamer.com/wordle-today-answer-942-january-17)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
