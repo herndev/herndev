@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone made &#39;Probably the biggest map ever in videogame history&#39; in Garry&#39;s Mod, a multiverse octillions of kilometres wide that&#39;s half-magic, half-maths, and wholly mind-boggling](https://www.pcgamer.com/someone-made-probably-the-biggest-map-ever-in-videogame-history-in-garrys-mod-a-multiverse-octillions-of-kilometres-wide-thats-half-magic-half-maths-and-wholly-mind-boggling)
- - [Legendary D&amp;D and videogame designer Jennell Jaquays is getting a memorial megadungeon built in her honour](https://www.pcgamer.com/legendary-dandd-and-videogame-designer-jennell-jaquays-is-getting-a-memorial-megadungeon-built-in-her-honour)
- - [This homebrew OLED-powered PS5 &#39;tablet&#39; is ridiculously good](https://www.pcgamer.com/this-homebrew-oled-powered-ps5-tablet-is-ridiculously-good)<!-- GAME:END -->
+ - [Disney Lorcana World Championship coming in 2025, new starter box in 2024](https://www.polygon.com/24040657/disney-lorcana-challenge-world-championship-gateway-boxed-set)
+ - [AMD gatecrashes Nvidia&#39;s Super launch with a temporary $90 price drop and new MSRP for the Radeon RX 7900 XT](https://www.pcgamer.com/amd-gatecrashes-nvidias-super-launch-with-a-temporary-dollar90-price-drop-and-new-msrp-for-the-radeon-rx-7900-xt)
+ - [Sabrent says its new 14GB/s PCIe Gen 5 SSD doesn&#39;t need a huge heatsink or a fan](https://www.pcgamer.com/sabrent-says-its-new-14gbs-pcie-gen-5-ssd-doesnt-need-a-huge-heatsink-or-a-fan)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
