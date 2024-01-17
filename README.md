@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not today](http://9gag.com/gag/anz6OjV)
- - ⏩ [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 👉 [The team skills and communication](http://9gag.com/gag/a4ovobQ)<!-- MEMES:END -->
+ - 💣 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - ⏩ [How are you doing South Korea](http://9gag.com/gag/az2n2Gz)
+ - 👉 [You like that?](http://9gag.com/gag/ap9OGVW)<!-- MEMES:END -->
 
 ---
 
