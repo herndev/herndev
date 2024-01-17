@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
- - ⏩ [Clown world](http://9gag.com/gag/aMEgxN1)
- - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
+ - 💣 [He finally snapped](http://9gag.com/gag/aVbAv6K)
+ - ⏩ [Can we not](http://9gag.com/gag/aKERGZ3)
+ - 👉 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)<!-- MEMES:END -->
 
 ---
 
