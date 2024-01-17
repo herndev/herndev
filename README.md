@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Kazakhstan-based mobile app provider Kaspi.kz&#39;s CEO and other shareholders plan to sell 9M shares for $873M; Kaspi.kz&#39;s Super App had 13.5M MAUs in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240117/p7#a240117p7)
- - [Omdia: the healthcare sector suffered more cyberattacks than any other sector between January and September 2023, with 241 publicly disclosed attacks &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240117/p6#a240117p6)
- - [Verizon Customers Could Get a $100 Settlement. How to Claim the Class Action Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-class-action-payout-heres-how-to-claim-the-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to watch Samsung’s Galaxy S24 event](https://www.theverge.com/2024/1/17/24040489/samsung-galaxy-s24-event-stream-how-to-watch)
+ - [Apple opens new office in Bengaluru, India](https://appleinsider.com/articles/24/01/17/apple-opens-new-office-in-bengaluru-india?utm_medium=rss)
+ - [Internet Watch Foundation: over 100K webpages featured self-generated CSAM in the past year, up 66% YoY; a record 275,655 webpages in total had CSAM, up 8% YoY &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/240117/p9#a240117p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
