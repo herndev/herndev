@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clown world](http://9gag.com/gag/aMEgxN1)
- - ⏩ [I feel the same way.](http://9gag.com/gag/aDYyYDK)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 💣 [Not today](http://9gag.com/gag/anz6OjV)
+ - ⏩ [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 👉 [The team skills and communication](http://9gag.com/gag/a4ovobQ)<!-- MEMES:END -->
 
 ---
 
