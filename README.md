@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Samsung’s Galaxy S24 event](https://www.theverge.com/2024/1/17/24040489/samsung-galaxy-s24-event-stream-how-to-watch)
- - [Apple opens new office in Bengaluru, India](https://appleinsider.com/articles/24/01/17/apple-opens-new-office-in-bengaluru-india?utm_medium=rss)
- - [Internet Watch Foundation: over 100K webpages featured self-generated CSAM in the past year, up 66% YoY; a record 275,655 webpages in total had CSAM, up 8% YoY &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/240117/p9#a240117p9)<!-- TECH:END -->
+ - [Apple profits rise 550% in South Korea](https://appleinsider.com/articles/24/01/17/apple-profits-rise-550-in-south-korea?utm_medium=rss)
+ - [Filing: Apple seeks $73.4M in legal fees from Epic, including a 10% discount since Epic prevailed on one of 10 counts, after SCOTUS declined to hear the appeals &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240117/p13#a240117p13)
+ - [Scotland-based game studio Build a Rocket Boy raised a $110M Series D ahead of the much-anticipated launch of its first titles and immersive open world platform &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240117/p12#a240117p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
