@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s RTX 4060 and RTX 4060 Ti are the cards that really should be getting the Super treatment](https://www.pcgamer.com/nvidias-rtx-4060-and-rtx-4060-ti-are-the-cards-that-really-should-be-getting-the-super-treatment)
- - [Does Nico di Angelo appear in the new Percy Jackson episode?](https://www.polygon.com/2024/1/17/24040619/percy-jackson-and-the-olympians-lotus-hotel-nico-di-angelo-disney-plus)
- - [Wordle today: Hint and answer #942 for Wednesday, January 17](https://www.pcgamer.com/wordle-today-answer-942-january-17)<!-- GAME:END -->
+ - [This homebrew OLED-powered PS5 &#39;tablet&#39; is ridiculously good](https://www.pcgamer.com/this-homebrew-oled-powered-ps5-tablet-is-ridiculously-good)
+ - [&#39;You won’t find our games on a subscription service&#39; says the founder of Baldur&#39;s Gate 3 developer Larian, after Ubisoft forecasts a future of players &#39;not owning&#39; games](https://www.pcgamer.com/you-wont-find-our-games-on-a-subscription-service-says-the-founder-of-baldurs-gate-3-developer-larian-after-ubisoft-forecasts-a-future-of-players-not-owning-games)
+ - [Meteor Lake muscles into the portable gaming PC market with the new OneXPlayer three-in-one X1](https://www.pcgamer.com/meteor-lake-muscles-into-the-portable-gaming-pc-market-with-the-new-onexplayer-three-in-one-x1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
