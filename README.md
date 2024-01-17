@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
- - ⏩ [Clown world](http://9gag.com/gag/aMEgxN1)
- - 👉 [Lamp looks weird today](http://9gag.com/gag/armYVQV)<!-- MEMES:END -->
+ - 💣 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - ⏩ [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 ---
 
