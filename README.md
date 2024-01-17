@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Speak up and find out](http://9gag.com/gag/amA3gEV)
- - ⏩ [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
+ - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - ⏩ [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 👉 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)<!-- MEMES:END -->
 
 ---
 
