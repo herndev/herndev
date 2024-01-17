@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple profits rise 550% in South Korea](https://appleinsider.com/articles/24/01/17/apple-profits-rise-550-in-south-korea?utm_medium=rss)
- - [Filing: Apple seeks $73.4M in legal fees from Epic, including a 10% discount since Epic prevailed on one of 10 counts, after SCOTUS declined to hear the appeals &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240117/p13#a240117p13)
- - [Scotland-based game studio Build a Rocket Boy raised a $110M Series D ahead of the much-anticipated launch of its first titles and immersive open world platform &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240117/p12#a240117p12)<!-- TECH:END -->
+ - [Amazon’s latest Fire TVs can now use AI to generate custom art backgrounds](https://www.theverge.com/24041313/amazon-fire-tv-ai-art-now-available-how-to-use)
+ - [Alphabet’s Wing unveils larger drones for heavier packages](https://www.theverge.com/2024/1/17/24040030/wing-delivery-larger-drone-payload-capacity-alphabet)
+ - [Questionable new-year iPhone production cutback reports have already started](https://appleinsider.com/articles/24/01/17/questionable-new-year-iphone-production-cutback-reports-have-already-started?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
