@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
- - ⏩ [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 👉 [The team skills and communication](http://9gag.com/gag/a4ovobQ)<!-- MEMES:END -->
+ - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - ⏩ [You and your average peers be like.](http://9gag.com/gag/armYnqp)
+ - 👉 [Lamp looks weird today](http://9gag.com/gag/armYVQV)<!-- MEMES:END -->
 
 ---
 
