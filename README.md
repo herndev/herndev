@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield’s Big Update Delayed Because Of A Mysterious Issue](https://kotaku.com/starfield-2024-update-release-delay-unknown-issue-1851172317)
- - [Batman: Arkham Knight mod fills age-old plot hole about how the Dark Knight stays hydrated, blasts Dr Pepper toward thugs &#39;at a solid 112MPH&#39;](https://www.pcgamer.com/batman-arkham-knight-mod-fills-age-old-plot-hole-about-how-the-dark-knight-stays-hydrated-blasts-dr-pepper-toward-thugs-at-a-solid-112mph)
- - [Disney CCG Lorcana lets you ruin your deck with 99 copies of the puppies from 101 Dalmatians, if that&#39;s your sort of thing](https://www.pcgamer.com/disney-ccg-lorcana-lets-you-ruin-your-deck-with-99-copies-of-the-puppies-from-101-dalmatians-if-thats-your-sort-of-thing)<!-- GAME:END -->
+ - [17 Days Into 2024 And 3,000+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
+ - [Cloud’s Final Fantasy VII Rebirth Actor Says Shippers Are Too Damn Horny](https://kotaku.com/final-fantasy-7-rebirth-ff7-cloud-actor-tifa-aerith-1851172487)
+ - [The best comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
