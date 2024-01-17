@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - ⏩ [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
- - 👉 [Recently divorced. Starting over again. She took everything. Wish me luck guys](http://9gag.com/gag/a04BZoO)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
+ - ⏩ [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 👉 [Lamp looks weird today](http://9gag.com/gag/armYVQV)<!-- MEMES:END -->
 
 ---
 
