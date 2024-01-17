@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
- - ⏩ [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 💣 [Its a trap](http://9gag.com/gag/aKERmqj)
+ - ⏩ [White guy speaking to a black woman in her language](http://9gag.com/gag/a1P91Bb)
+ - 👉 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)<!-- MEMES:END -->
 
 ---
 
