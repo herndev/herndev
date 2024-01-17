@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No one likes architects](http://9gag.com/gag/aREnBLQ)
- - ⏩ [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
+ - 💣 [Speak up and find out](http://9gag.com/gag/amA3gEV)
+ - ⏩ [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 ---
 
