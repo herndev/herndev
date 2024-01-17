@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Critical Mission](http://9gag.com/gag/aNwNPZb)
- - ⏩ [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 💣 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
+ - ⏩ [I was wondering why you Youtube was slow today. They found a new way to annoy Adblock users.](http://9gag.com/gag/a6qPKDA)
+ - 👉 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)<!-- MEMES:END -->
 
 ---
 
