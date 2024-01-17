@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - ⏩ [I feel the same way.](http://9gag.com/gag/aDYyYDK)
- - 👉 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)<!-- MEMES:END -->
+ - 💣 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
+ - ⏩ [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 ---
 
