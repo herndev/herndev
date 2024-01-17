@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp updates Channels to add voice updates, polls, and additional admins &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240117/p17#a240117p17)
- - [Google plans to tweak search results to give comparison websites more prominence, including a new unit of links for such websites, to comply with the EU&#39;s DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240117/p16#a240117p16)
- - [WhatsApp’s latest update makes Channels all the more useful](https://www.androidauthority.com/whatsapp-latest-channel-update-3404166/)<!-- TECH:END -->
+ - [Google Wallet adds support for Venmo and over 40 banks](https://www.androidauthority.com/google-wallet-expanded-bank-support-3404466/)
+ - [Global chip revenue dropped 11% YoY to $533B in 2023; Intel regained top spot with $48.7B, followed by Samsung&#39;s $39.9B; Nvidia was top five for the first time &lpar;Gartner&rpar;](http://www.techmeme.com/240117/p20#a240117p20)
+ - [&#39;Killers of the Flower Moon&#39; takes Best Picture at AARP Movies for Grownups awards](https://appleinsider.com/articles/24/01/17/killers-of-the-flower-moon-takes-best-picture-at-aarp-movies-for-grownups-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
