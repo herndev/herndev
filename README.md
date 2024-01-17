@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s App Store policies now let US developers link to outside payments](https://www.theverge.com/2024/1/16/24040881/apple-outside-payments-app-store-policies-iphone-ipad)
- - [The Treasury and IRS say they aren&#39;t enforcing a rule requiring businesses to report the receipt of digital assets worth $10K+ within 15 days of receiving them &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240116/p27#a240116p27)
- - [The &#39;Sex Update&#39; for &#39;Cult of the Lamb&#39; Is a Good Sign for Horny Video Games](https://www.wired.com/story/cult-of-the-lamb-sins-of-the-flesh-sex-update-horny-games/)<!-- TECH:END -->
+ - [Nvidia GeForce RTX 4070 Super Review: Still Hits the Sweet Spot     - CNET](https://www.cnet.com/tech/gaming/nvidia-geforce-rtx-4070-super-review-still-hits-the-sweet-spot/#ftag=CAD590a51e)
+ - [Best MacBook Deals: Save on the Very Best Apple Laptops     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [Apple’s App Store policies now let US developers link to outside payments](https://www.theverge.com/2024/1/16/24040881/apple-outside-payments-app-store-policies-iphone-ipad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
