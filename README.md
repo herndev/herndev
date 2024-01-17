@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How many software updates will the Galaxy S24 get?](https://www.androidauthority.com/samsung-galaxy-s24-software-updates-3401862/)
- - [How fast do the Galaxy S24 phones charge?](https://www.androidauthority.com/samsung-galaxy-s24-charging-speed-time-3403093/)
- - [Samsung Galaxy S24, S24 Plus, and S24 Ultra: Release date, price, colors, everything else!](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [The best Samsung Galaxy S24 alternatives: Pixel 8, Apple iPhone 15, and more](https://www.androidauthority.com/best-samsung-galaxy-s24-alternatives-3402893/)
+ - [AirTag-equipped SUV gets stolen and tracked across the planet](https://appleinsider.com/articles/24/01/17/airtag-equipped-suv-gets-stolen-and-tracked-across-the-planet?utm_medium=rss)
+ - [Android Auto will soon reflect design elements, like wallpaper and icons, of Samsung Galaxy phones, and offer AI chat summaries, relevant replies, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240117/p30#a240117p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
