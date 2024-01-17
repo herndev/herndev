@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - ⏩ [Can we not](http://9gag.com/gag/aKERGZ3)
- - 👉 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)<!-- MEMES:END -->
+ - 💣 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - ⏩ [I feel the same way.](http://9gag.com/gag/aDYyYDK)
+ - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 ---
 
