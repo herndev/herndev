@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy S24 alternatives: Pixel 8, Apple iPhone 15, and more](https://www.androidauthority.com/best-samsung-galaxy-s24-alternatives-3402893/)
- - [AirTag-equipped SUV gets stolen and tracked across the planet](https://appleinsider.com/articles/24/01/17/airtag-equipped-suv-gets-stolen-and-tracked-across-the-planet?utm_medium=rss)
- - [Android Auto will soon reflect design elements, like wallpaper and icons, of Samsung Galaxy phones, and offer AI chat summaries, relevant replies, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240117/p30#a240117p30)<!-- TECH:END -->
+ - [Google Updates Chrome&#39;s Incognito Warning to Admit It Tracks Users in ‘Private’ Mode](https://www.wired.com/story/chrome-incognito-mode-privacy-warning/)
+ - [Apple Watch ban back on, court denies Apple&#39;s appeal to keep it on the market](https://appleinsider.com/articles/24/01/17/apple-watch-ban-back-on-court-denies-apples-appeal-to-keep-it-on-the-market?utm_medium=rss)
+ - [The Apple Watch Series 9 and Ultra 2 will be banned in the US again, effective January 18, after a US court of appeals denies Apple&#39;s request to pause the ban &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240117/p34#a240117p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
