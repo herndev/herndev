@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - ⏩ [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)
- - 👉 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)<!-- MEMES:END -->
+ - 💣 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - ⏩ [What a waste](http://9gag.com/gag/aVbAYAv)
+ - 👉 [Lamp looks weird today](http://9gag.com/gag/armYVQV)<!-- MEMES:END -->
 
 ---
 
