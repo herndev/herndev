@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - ⏩ [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - 💣 [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - ⏩ [The team skills and communication](http://9gag.com/gag/a4ovobQ)
  - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 ---
