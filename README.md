@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vince Staples’ Netflix show looks like a cross between Atlanta and Uncut Gems](https://www.polygon.com/24041630/vince-staples-show-netflix-trailer-release-date-cast)
- - [$20 extra a month gets you the pro version of Microsoft&#39;s AI Copilot. Or you could just get Valheim every 30 days, instead](https://www.pcgamer.com/dollar20-extra-a-month-gets-you-the-pro-version-of-microsofts-ai-copilot-or-you-could-just-get-valheim-every-30-days-instead)
- - [Star Wars Fans Weigh In On The Mandalorian And Grogu](https://kotaku.com/kotaku-asks-star-wars-mandalorian-grogu-movie-1851172758)<!-- GAME:END -->
+ - [Lethal Company was bound to blow up — and now it’s everywhere on social media](https://www.polygon.com/24040561/lethal-company-roblox-popularity-explained)
+ - [Baldur&#39;s Gate 3&#39;s latest hotfix makes Gale less cranky when he doesn&#39;t get his way](https://www.pcgamer.com/baldurs-gate-3s-latest-hotfix-makes-gale-less-cranky-when-he-doesnt-get-his-way)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240114-2000&rpar;](https://news.xbox.com/en-us/2024/01/17/xbox-insider-release-notes-alpha-skip-ahead-2408-240114-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
