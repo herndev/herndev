@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After translating one cult PlayStation game after another, fan translation group Hilltop Works announces its most obscure game yet: &#39;a hidden gem of the highest caliber&#39;](https://www.pcgamer.com/after-translating-one-cult-playstation-game-after-another-fan-translation-group-hilltop-works-announces-its-most-obscure-game-yet-a-hidden-gem-of-the-highest-caliber)
  - [It shouldn&#39;t be this hard to play the best version of one of Japan&#39;s great roguelikes today](https://www.pcgamer.com/it-shouldnt-be-this-hard-to-play-the-best-version-of-one-of-japans-great-roguelikes-today)
- - [Frostpunk 2’s trailer raises the stakes with worker rebellions, punishing conditions](https://www.polygon.com/24040686/frostpunk-2-gameplay-trailer-announcement-game-pass)
- - [This trademark dispute between Remedy and Take-Two is brought to you by the letter R](https://www.pcgamer.com/this-trademark-dispute-between-remedy-and-take-two-is-brought-to-you-by-the-letter-r)<!-- GAME:END -->
+ - [Frostpunk 2’s trailer raises the stakes with worker rebellions, punishing conditions](https://www.polygon.com/24040686/frostpunk-2-gameplay-trailer-announcement-game-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
