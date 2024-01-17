@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s F-150 Lightning performance one-off is for extreme off-roading](https://www.theverge.com/2024/1/17/24040080/ford-f150-lightning-switchgear-performance-demonstrator-specs)
- - [After eight years and almost 3,000 songs, Rock Band 4’s DLC drops are ending](https://www.theverge.com/2024/1/17/24041933/rock-band-4-dlc-songs-ending-fortnite-festival-harmonix)
- - [Amazon’s new AI feature will write you a bedtime story about hard drives](https://www.theverge.com/2024/1/17/24041745/amazon-generative-ai-llm-reviews)<!-- TECH:END -->
+ - [An AI Executive Turns AI Crusader to Stand Up for Artists](https://www.wired.com/story/ai-executive-ed-newton-rex-turns-crusader-stand-up-for-artists/)
+ - [The best Galaxy S24 accessories to spend your money on](https://www.androidauthority.com/best-galaxy-s24-accessories-3404476/)
+ - [Poll: What’s your favorite Galaxy S24 color?](https://www.androidauthority.com/galaxy-s24-favorite-colors-poll-3404541/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
