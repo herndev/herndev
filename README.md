@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - ⏩ [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - 👉 [Lamp looks weird today](http://9gag.com/gag/armYVQV)<!-- MEMES:END -->
+ - 💣 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
+ - ⏩ [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
+ - 👉 [Recently divorced. Starting over again. She took everything. Wish me luck guys](http://9gag.com/gag/a04BZoO)<!-- MEMES:END -->
 
 ---
 
