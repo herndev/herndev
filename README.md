@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AI Executive Turns AI Crusader to Stand Up for Artists](https://www.wired.com/story/ai-executive-ed-newton-rex-turns-crusader-stand-up-for-artists/)
- - [The best Galaxy S24 accessories to spend your money on](https://www.androidauthority.com/best-galaxy-s24-accessories-3404476/)
- - [Poll: What’s your favorite Galaxy S24 color?](https://www.androidauthority.com/galaxy-s24-favorite-colors-poll-3404541/)<!-- TECH:END -->
+ - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
+ - [Netflix says use Safari on Apple Vision Pro, because you aren&#39;t getting an app](https://appleinsider.com/articles/24/01/17/netflix-says-use-safari-on-apple-vision-pro-because-you-arent-getting-an-app?utm_medium=rss)
+ - [Does the Samsung Galaxy S24 series support eSIM and dual-SIM?](https://www.androidauthority.com/samsung-galaxy-s24-esim-dual-sim-3404181/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
