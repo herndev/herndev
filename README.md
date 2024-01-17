@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #942 for Wednesday, January 17](https://www.pcgamer.com/wordle-today-answer-942-january-17)
  - [A dystopian sci-fi MOBA was the last thing I expected from the studio behind Dave the Diver, but it&#39;s real and playable soon](https://www.pcgamer.com/a-dystopian-sci-fi-moba-was-the-last-thing-i-expected-from-the-studio-behind-dave-the-diver-but-its-real-and-playable-soon)
- - [New Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2024/01/16/new-year-deals-promotion-comes-to-playstation-store/)
  - [New Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2024/01/16/new-year-deals-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
