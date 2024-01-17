@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Vampire Survivors-like milks the memey humor of Abraham Lincoln fighting dinosaurs, but it&#39;s the exact type of over-the-top-slapstick that makes &#39;bullet heaven&#39; games great](https://www.pcgamer.com/this-vampire-survivors-like-milks-the-memey-humor-of-abraham-lincoln-fighting-dinosaurs-but-its-the-exact-type-of-over-the-top-slapstick-that-makes-bullet-heaven-games-great)
- - [The Wordle of 2014 is coming to Steam in February](https://www.pcgamer.com/the-wordle-of-2014-is-coming-to-steam-in-february)
- - [Rock Band DLC is ending after 8 years and 3,000 songs](https://www.polygon.com/24041833/rock-band-4-dlc-ending-fortnite-festival-harmonix)<!-- GAME:END -->
+ - [Chainsaw Man, Jujutsu Kaisen dominate 2024’s Anime Awards nominations](https://www.polygon.com/24041648/anime-awards-2024-best-anime-nominees-crunchyroll)
+ - [Rock Band 4 won&#39;t get any more DLC because we&#39;re living in Fortnite&#39;s world now](https://www.pcgamer.com/rock-band-4-wont-get-any-more-dlc-because-were-living-in-fortnites-world-now)
+ - [EverQuest is kicking off a year-long anniversary celebration with a packed calendar of new events, quests, and giveaways, culminating in 2 new expansions](https://www.pcgamer.com/everquest-2024-roadmap-25th-anniversary-expansions-events-calendar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
