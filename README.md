@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Winter sale: Amazon&#39;s top Apple discounts offer up to $250 off Mac, Apple Watch, iPad &amp; more](https://appleinsider.com/articles/24/01/17/winter-sale-amazons-top-apple-discounts-offer-up-to-250-off-mac-apple-watch-ipad-more?utm_medium=rss)
- - [iOS 17.3, iPadOS 17.3, and watchOS 10.3 coming week of Jan. 22](https://appleinsider.com/articles/24/01/17/ios-173-ipados-173-and-watchos-103-coming-week-of-jan-22?utm_medium=rss)
- - [Apple launches new Black Unity Bloom Apple Watch Band, wallpapers ahead of Black History Month](https://appleinsider.com/articles/24/01/17/apple-launches-new-black-unity-bloom-apple-watch-band-wallpapers-ahead-of-black-history-month?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp updates Channels to add voice updates, polls, and additional admins &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240117/p17#a240117p17)
+ - [Google plans to tweak search results to give comparison websites more prominence, including a new unit of links for such websites, to comply with the EU&#39;s DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240117/p16#a240117p16)
+ - [WhatsApp’s latest update makes Channels all the more useful](https://www.androidauthority.com/whatsapp-latest-channel-update-3404166/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
