@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [17 Days Into 2024 And 3,000+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
- - [Cloud’s Final Fantasy VII Rebirth Actor Says Shippers Are Too Damn Horny](https://kotaku.com/final-fantasy-7-rebirth-ff7-cloud-actor-tifa-aerith-1851172487)
- - [The best comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
+ - [Vince Staples’ Netflix show looks like a cross between Atlanta and Uncut Gems](https://www.polygon.com/24041630/vince-staples-show-netflix-trailer-release-date-cast)
+ - [$20 extra a month gets you the pro version of Microsoft&#39;s AI Copilot. Or you could just get Valheim every 30 days, instead](https://www.pcgamer.com/dollar20-extra-a-month-gets-you-the-pro-version-of-microsofts-ai-copilot-or-you-could-just-get-valheim-every-30-days-instead)
+ - [Star Wars Fans Weigh In On The Mandalorian And Grogu](https://kotaku.com/kotaku-asks-star-wars-mandalorian-grogu-movie-1851172758)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
