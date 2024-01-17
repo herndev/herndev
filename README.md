@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your unpopular opinion, about any subject you want.](http://9gag.com/gag/avQN5gZ)
- - ⏩ [On your left Mr Beast](http://9gag.com/gag/axo578b)
- - 👉 [Lol...](http://9gag.com/gag/aMEgxVW)<!-- MEMES:END -->
+ - 💣 [No one likes architects](http://9gag.com/gag/aREnBLQ)
+ - ⏩ [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
 
 ---
 
