@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI knows its tech might get misused in major elections, but I&#39;m not convinced it has a clue how to stop it](https://www.pcgamer.com/openai-knows-its-tech-might-get-misused-in-major-elections-but-im-not-convinced-it-has-a-clue-how-to-stop-it)
- - [Rocksteady founders have a new, post-Suicide Squad studio](https://www.polygon.com/24040541/rocksteady-studios-founders-new-studio-hundred-star-games)
- - [Lethal Company was bound to blow up — and now it’s everywhere on social media](https://www.polygon.com/24040561/lethal-company-roblox-popularity-explained)<!-- GAME:END -->
+ - [This Vampire Survivors-like milks the memey humor of Abraham Lincoln fighting dinosaurs, but it&#39;s the exact type of over-the-top-slapstick that makes &#39;bullet heaven&#39; games great](https://www.pcgamer.com/this-vampire-survivors-like-milks-the-memey-humor-of-abraham-lincoln-fighting-dinosaurs-but-its-the-exact-type-of-over-the-top-slapstick-that-makes-bullet-heaven-games-great)
+ - [The Wordle of 2014 is coming to Steam in February](https://www.pcgamer.com/the-wordle-of-2014-is-coming-to-steam-in-february)
+ - [Rock Band DLC is ending after 8 years and 3,000 songs](https://www.polygon.com/24041833/rock-band-4-dlc-ending-fortnite-festival-harmonix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
