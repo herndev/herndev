@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s latest Fire TVs can now use AI to generate custom art backgrounds](https://www.theverge.com/24041313/amazon-fire-tv-ai-art-now-available-how-to-use)
- - [Alphabet’s Wing unveils larger drones for heavier packages](https://www.theverge.com/2024/1/17/24040030/wing-delivery-larger-drone-payload-capacity-alphabet)
- - [Questionable new-year iPhone production cutback reports have already started](https://appleinsider.com/articles/24/01/17/questionable-new-year-iphone-production-cutback-reports-have-already-started?utm_medium=rss)<!-- TECH:END -->
+ - [Winter sale: Amazon&#39;s top Apple discounts offer up to $250 off Mac, Apple Watch, iPad &amp; more](https://appleinsider.com/articles/24/01/17/winter-sale-amazons-top-apple-discounts-offer-up-to-250-off-mac-apple-watch-ipad-more?utm_medium=rss)
+ - [iOS 17.3, iPadOS 17.3, and watchOS 10.3 coming week of Jan. 22](https://appleinsider.com/articles/24/01/17/ios-173-ipados-173-and-watchos-103-coming-week-of-jan-22?utm_medium=rss)
+ - [Apple launches new Black Unity Bloom Apple Watch Band, wallpapers ahead of Black History Month](https://appleinsider.com/articles/24/01/17/apple-launches-new-black-unity-bloom-apple-watch-band-wallpapers-ahead-of-black-history-month?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
