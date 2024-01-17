@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lethal Company was bound to blow up — and now it’s everywhere on social media](https://www.polygon.com/24040561/lethal-company-roblox-popularity-explained)
- - [Baldur&#39;s Gate 3&#39;s latest hotfix makes Gale less cranky when he doesn&#39;t get his way](https://www.pcgamer.com/baldurs-gate-3s-latest-hotfix-makes-gale-less-cranky-when-he-doesnt-get-his-way)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240114-2000&rpar;](https://news.xbox.com/en-us/2024/01/17/xbox-insider-release-notes-alpha-skip-ahead-2408-240114-2000/)<!-- GAME:END -->
+ - [OpenAI knows its tech might get misused in major elections, but I&#39;m not convinced it has a clue how to stop it](https://www.pcgamer.com/openai-knows-its-tech-might-get-misused-in-major-elections-but-im-not-convinced-it-has-a-clue-how-to-stop-it)
+ - [Rocksteady founders have a new, post-Suicide Squad studio](https://www.polygon.com/24040541/rocksteady-studios-founders-new-studio-hundred-star-games)
+ - [Lethal Company was bound to blow up — and now it’s everywhere on social media](https://www.polygon.com/24040561/lethal-company-roblox-popularity-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
