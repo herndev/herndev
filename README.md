@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After translating one cult PlayStation game after another, fan translation group Hilltop Works announces its most obscure game yet: &#39;a hidden gem of the highest caliber&#39;](https://www.pcgamer.com/after-translating-one-cult-playstation-game-after-another-fan-translation-group-hilltop-works-announces-its-most-obscure-game-yet-a-hidden-gem-of-the-highest-caliber)
- - [It shouldn&#39;t be this hard to play the best version of one of Japan&#39;s great roguelikes today](https://www.pcgamer.com/it-shouldnt-be-this-hard-to-play-the-best-version-of-one-of-japans-great-roguelikes-today)
- - [Frostpunk 2’s trailer raises the stakes with worker rebellions, punishing conditions](https://www.polygon.com/24040686/frostpunk-2-gameplay-trailer-announcement-game-pass)<!-- GAME:END -->
+ - [A dystopian sci-fi MOBA was the last thing I expected from the studio behind Dave the Diver, but it&#39;s real and playable soon](https://www.pcgamer.com/a-dystopian-sci-fi-moba-was-the-last-thing-i-expected-from-the-studio-behind-dave-the-diver-but-its-real-and-playable-soon)
+ - [New Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2024/01/16/new-year-deals-promotion-comes-to-playstation-store/)
+ - [Ubisoft director says gamers will get more comfortable &#39;not owning&#39; games, and he&#39;s not wrong](https://www.pcgamer.com/ubisoft-director-says-gamers-will-get-more-comfortable-not-owning-games-and-hes-not-wrong)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
