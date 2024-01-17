@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its a trap](http://9gag.com/gag/aKERmqj)
- - ⏩ [White guy speaking to a black woman in her language](http://9gag.com/gag/a1P91Bb)
- - 👉 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)<!-- MEMES:END -->
+ - 💣 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
+ - ⏩ [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
+ - 👉 [The team skills and communication](http://9gag.com/gag/a4ovobQ)<!-- MEMES:END -->
 
 ---
 
