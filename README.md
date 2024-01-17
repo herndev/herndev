@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Cyberspace Administration of China plans to review Shein&#39;s data handling and sharing practices, which could delay company&#39;s forthcoming US IPO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240117/p2#a240117p2)
  - [Researchers describe a GPU memory vulnerability that allows attackers to exfiltrate data from some devices with Apple, Qualcomm, Intel, and other chips &lpar;Wired&rpar;](http://www.techmeme.com/240117/p1#a240117p1)
- - [Google says YouTube’s latest slowdown isn’t linked to ad blockers &lpar;Updated: AdBlock statement&rpar;](https://www.androidauthority.com/youtube-slowdown-google-statement-3403594/)
- - [Samsung Galaxy Unpacked 2024: What time, how to watch, and what to expect](https://www.androidauthority.com/samsung-galaxy-unpacked-2024-3399562/)<!-- TECH:END -->
+ - [Google says YouTube’s latest slowdown isn’t linked to ad blockers &lpar;Updated: AdBlock statement&rpar;](https://www.androidauthority.com/youtube-slowdown-google-statement-3403594/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
