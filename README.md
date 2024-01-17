@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - ⏩ [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
+ - ⏩ [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 ---
 
