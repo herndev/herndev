@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
+ - 💣 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
  - ⏩ [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
  - 👉 [Recently divorced. Starting over again. She took everything. Wish me luck guys](http://9gag.com/gag/a04BZoO)<!-- MEMES:END -->
 
