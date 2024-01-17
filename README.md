@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Updates Chrome&#39;s Incognito Warning to Admit It Tracks Users in ‘Private’ Mode](https://www.wired.com/story/chrome-incognito-mode-privacy-warning/)
- - [Apple Watch ban back on, court denies Apple&#39;s appeal to keep it on the market](https://appleinsider.com/articles/24/01/17/apple-watch-ban-back-on-court-denies-apples-appeal-to-keep-it-on-the-market?utm_medium=rss)
- - [The Apple Watch Series 9 and Ultra 2 will be banned in the US again, effective January 18, after a US court of appeals denies Apple&#39;s request to pause the ban &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240117/p34#a240117p34)<!-- TECH:END -->
+ - [Ford’s F-150 Lightning performance one-off is for extreme off-roading](https://www.theverge.com/2024/1/17/24040080/ford-f150-lightning-switchgear-performance-demonstrator-specs)
+ - [After eight years and almost 3,000 songs, Rock Band 4’s DLC drops are ending](https://www.theverge.com/2024/1/17/24041933/rock-band-4-dlc-songs-ending-fortnite-festival-harmonix)
+ - [Amazon’s new AI feature will write you a bedtime story about hard drives](https://www.theverge.com/2024/1/17/24041745/amazon-generative-ai-llm-reviews)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
