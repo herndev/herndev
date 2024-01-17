@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This homebrew OLED-powered PS5 &#39;tablet&#39; is ridiculously good](https://www.pcgamer.com/this-homebrew-oled-powered-ps5-tablet-is-ridiculously-good)
- - [&#39;You won’t find our games on a subscription service&#39; says the founder of Baldur&#39;s Gate 3 developer Larian, after Ubisoft forecasts a future of players &#39;not owning&#39; games](https://www.pcgamer.com/you-wont-find-our-games-on-a-subscription-service-says-the-founder-of-baldurs-gate-3-developer-larian-after-ubisoft-forecasts-a-future-of-players-not-owning-games)
- - [Meteor Lake muscles into the portable gaming PC market with the new OneXPlayer three-in-one X1](https://www.pcgamer.com/meteor-lake-muscles-into-the-portable-gaming-pc-market-with-the-new-onexplayer-three-in-one-x1)<!-- GAME:END -->
+ - [Someone made &#39;Probably the biggest map ever in videogame history&#39; in Garry&#39;s Mod, a multiverse octillions of kilometres wide that&#39;s half-magic, half-maths, and wholly mind-boggling](https://www.pcgamer.com/someone-made-probably-the-biggest-map-ever-in-videogame-history-in-garrys-mod-a-multiverse-octillions-of-kilometres-wide-thats-half-magic-half-maths-and-wholly-mind-boggling)
+ - [Legendary D&amp;D and videogame designer Jennell Jaquays is getting a memorial megadungeon built in her honour](https://www.pcgamer.com/legendary-dandd-and-videogame-designer-jennell-jaquays-is-getting-a-memorial-megadungeon-built-in-her-honour)
+ - [This homebrew OLED-powered PS5 &#39;tablet&#39; is ridiculously good](https://www.pcgamer.com/this-homebrew-oled-powered-ps5-tablet-is-ridiculously-good)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
