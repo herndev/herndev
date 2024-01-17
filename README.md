@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Lorcana World Championship coming in 2025, new starter box in 2024](https://www.polygon.com/24040657/disney-lorcana-challenge-world-championship-gateway-boxed-set)
- - [AMD gatecrashes Nvidia&#39;s Super launch with a temporary $90 price drop and new MSRP for the Radeon RX 7900 XT](https://www.pcgamer.com/amd-gatecrashes-nvidias-super-launch-with-a-temporary-dollar90-price-drop-and-new-msrp-for-the-radeon-rx-7900-xt)
- - [Sabrent says its new 14GB/s PCIe Gen 5 SSD doesn&#39;t need a huge heatsink or a fan](https://www.pcgamer.com/sabrent-says-its-new-14gbs-pcie-gen-5-ssd-doesnt-need-a-huge-heatsink-or-a-fan)<!-- GAME:END -->
+ - [Prison Architect 2 goes 3D, promises smarter inmates and the most improbably whimsical carceral state yet](https://www.pcgamer.com/prison-architect-2-goes-3d-promises-smarter-inmates-and-the-most-improbably-whimsical-carceral-state-yet)
+ - [Devs To Toxic Fans: Stop Being Awful, Please](https://kotaku.com/cities-skylines-2-ceo-toxic-fans-threats-please-stop-1851170700)
+ - [One FF7 Rebirth Line Changes Everything We Know About Sephiroth](https://kotaku.com/ff7-rebirth-trailer-sephiroth-multiverse-theory-1851169806)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
