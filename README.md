@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Prison Architect 2 goes 3D, promises smarter inmates and the most improbably whimsical carceral state yet](https://www.pcgamer.com/prison-architect-2-goes-3d-promises-smarter-inmates-and-the-most-improbably-whimsical-carceral-state-yet)
- - [Devs To Toxic Fans: Stop Being Awful, Please](https://kotaku.com/cities-skylines-2-ceo-toxic-fans-threats-please-stop-1851170700)
- - [One FF7 Rebirth Line Changes Everything We Know About Sephiroth](https://kotaku.com/ff7-rebirth-trailer-sephiroth-multiverse-theory-1851169806)<!-- GAME:END -->
+ - [Starfield’s Big Update Delayed Because Of A Mysterious Issue](https://kotaku.com/starfield-2024-update-release-delay-unknown-issue-1851172317)
+ - [Batman: Arkham Knight mod fills age-old plot hole about how the Dark Knight stays hydrated, blasts Dr Pepper toward thugs &#39;at a solid 112MPH&#39;](https://www.pcgamer.com/batman-arkham-knight-mod-fills-age-old-plot-hole-about-how-the-dark-knight-stays-hydrated-blasts-dr-pepper-toward-thugs-at-a-solid-112mph)
+ - [Disney CCG Lorcana lets you ruin your deck with 99 copies of the puppies from 101 Dalmatians, if that&#39;s your sort of thing](https://www.pcgamer.com/disney-ccg-lorcana-lets-you-ruin-your-deck-with-99-copies-of-the-puppies-from-101-dalmatians-if-thats-your-sort-of-thing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
