@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet adds support for Venmo and over 40 banks](https://www.androidauthority.com/google-wallet-expanded-bank-support-3404466/)
- - [Global chip revenue dropped 11% YoY to $533B in 2023; Intel regained top spot with $48.7B, followed by Samsung&#39;s $39.9B; Nvidia was top five for the first time &lpar;Gartner&rpar;](http://www.techmeme.com/240117/p20#a240117p20)
- - [&#39;Killers of the Flower Moon&#39; takes Best Picture at AARP Movies for Grownups awards](https://appleinsider.com/articles/24/01/17/killers-of-the-flower-moon-takes-best-picture-at-aarp-movies-for-grownups-awards?utm_medium=rss)<!-- TECH:END -->
+ - [How many software updates will the Galaxy S24 get?](https://www.androidauthority.com/samsung-galaxy-s24-software-updates-3401862/)
+ - [How fast do the Galaxy S24 phones charge?](https://www.androidauthority.com/samsung-galaxy-s24-charging-speed-time-3403093/)
+ - [Samsung Galaxy S24, S24 Plus, and S24 Ultra: Release date, price, colors, everything else!](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
