@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
- - [Netflix says use Safari on Apple Vision Pro, because you aren&#39;t getting an app](https://appleinsider.com/articles/24/01/17/netflix-says-use-safari-on-apple-vision-pro-because-you-arent-getting-an-app?utm_medium=rss)
- - [Does the Samsung Galaxy S24 series support eSIM and dual-SIM?](https://www.androidauthority.com/samsung-galaxy-s24-esim-dual-sim-3404181/)<!-- TECH:END -->
+ - [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
+ - [Pitchfork to be absorbed into GQ](https://www.theverge.com/2024/1/17/24042208/pitchfork-to-be-absorbed-into-gq-layoffs)
+ - [EA is finally launching Plants vs. Zombies 3](https://www.theverge.com/2024/1/17/24042133/ea-plants-vs-zombies-3-soft-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
