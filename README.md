@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans to sell the Watch Series 9 and Ultra 2 without the blood oxygen feature online starting 6am PT on January 18 and in Apple Stores on the same day &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240117/p41#a240117p41)
- - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
- - [Apple Watches without banned blood oxygen features will go on sale Thursday morning](https://www.theverge.com/2024/1/17/24042395/apple-watch-ultra-2-series-9-ban-blood-oxygen-stores)<!-- TECH:END -->
+ - [Apple Hongdae opens January 20 in Seoul, South Korea](https://appleinsider.com/articles/24/01/18/apple-hongdae-opens-january-20-in-seoul-south-korea?utm_medium=rss)
+ - [Internal memo: Sundar Pichai says Google will see more &quot;role eliminations&quot; in 2024, though not at the scale of 2023&#39;s reductions and not affecting every team &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240117/p42#a240117p42)
+ - [Apple to sell Apple Watch with blood oxygen detection removed to bypass ITC import ban](https://appleinsider.com/articles/24/01/18/apple-to-sell-apple-watch-with-blood-oxygen-detection-removed-to-bypass-itc-import-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
