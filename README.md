@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LiveRamp, which helps match up customer datasets for brands and advertisers, agrees to acquire marketing data startup Habu for ~$200M in cash and stock &lpar;Abigail Summerville/Reuters&rpar;](http://www.techmeme.com/240117/p40#a240117p40)
- - [Here are some Samsung Galaxy S24 Ultra camera samples shot in San Jose](https://www.androidauthority.com/samsung-galaxy-s24-ultra-camera-samples-3404790/)
- - [&#39;Plants vs. Zombies 3&#39; unearthed for the third time in early access testing](https://appleinsider.com/articles/24/01/18/plants-vs-zombies-3-unearthed-for-the-third-time-in-early-access-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Apple plans to sell the Watch Series 9 and Ultra 2 without the blood oxygen feature online starting 6am PT on January 18 and in Apple Stores on the same day &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240117/p41#a240117p41)
+ - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
+ - [Apple Watches without banned blood oxygen features will go on sale Thursday morning](https://www.theverge.com/2024/1/17/24042395/apple-watch-ultra-2-series-9-ban-blood-oxygen-stores)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
