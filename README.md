@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - ⏩ [That wasn&#39;t nice](http://9gag.com/gag/aBdpyXP)
- - 👉 [The team skills and communication](http://9gag.com/gag/a4ovobQ)<!-- MEMES:END -->
+ - 💣 [He finally snapped](http://9gag.com/gag/aVbAv6K)
+ - ⏩ [Wait for it...](http://9gag.com/gag/a9qoqXL)
+ - 👉 [I wonder why ?!](http://9gag.com/gag/armYWg5)<!-- MEMES:END -->
 
 ---
 
