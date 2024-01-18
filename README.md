@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exoprimal: The Hunt is On With a New 10-Player Monster Hunter-Themed Co-op Mission](https://news.xbox.com/en-us/2024/01/18/exoprimal-monster-hunter/)
- - [After a 6 year brawl, Billy Mitchell is back in the record books even though Twin Galaxies &#39;had all our ducks in a row&#39; for a courtroom showdown](https://www.pcgamer.com/after-a-6-year-brawl-billy-mitchell-is-back-in-the-record-books-even-though-twin-galaxies-had-all-its-ducks-in-a-row-for-a-courtroom-showdown)
- - [Call of Duty: Modern Warfare III Season 1 Reloaded Content Drop: What You Need to Know](https://www.callofduty.com/blog/2024/01/call-of-duty-modern-warfare-iii-warzone-season-1-reloaded-multiplayer-zombies-content)<!-- GAME:END -->
+ - [Free Play Days – UFC 5, One Piece: Pirate Warriors 4, AEW: Fight Forever and Make Way](https://news.xbox.com/en-us/2024/01/18/free-play-days-ufc-5-one-piece-pirate-warriors-4-aew-fight-forever-and-make-way/)
+ - [Baldur’s Gate 3 Will Never Be On Game Pass Or PS Plus, Says Dev](https://kotaku.com/baldurs-gate-3-xbox-game-pass-subscription-ps-plus-1851175926)
+ - [Harry Potter breaks Call of Duty’s streak as bestselling game in US](https://www.polygon.com/24026887/hogwarts-legacy-call-of-duty-mw3-2023-bestselling-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
