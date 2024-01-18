@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Looks safe](http://9gag.com/gag/a1P9moP)
- - ⏩ [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)
- - 👉 [Totally Historically Accurate Retelling](http://9gag.com/gag/aXnBNPz)<!-- MEMES:END -->
+ - ⏩ [How are you doing South Korea](http://9gag.com/gag/az2n2Gz)
+ - 👉 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)<!-- MEMES:END -->
 
 ---
 
