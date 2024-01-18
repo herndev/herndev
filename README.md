@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - ⏩ [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
- - 👉 [Happy girl](http://9gag.com/gag/aPg5A9V)<!-- MEMES:END -->
+ - ⏩ [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
+ - 👉 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)<!-- MEMES:END -->
 
 ---
 
