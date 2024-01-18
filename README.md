@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to watch the Xbox Direct livestream for January 2024](https://www.pcgamer.com/how-to-watch-xbox-direct-january-2024)
  - [Wordle today: Hint and answer #943 for Thursday, January 18](https://www.pcgamer.com/wordle-today-answer-943-january-18)
- - [Magic: The Gathering meets crime fiction in Murders at Karlov Manor](https://www.pcgamer.com/magic-the-gathering-meets-crime-fiction-in-murders-at-karlov-manor)
- - [Elden Ring fans continue to embrace their nature by working themselves into a frenzy over a tiny Steam database update](https://www.pcgamer.com/elden-ring-fans-continue-to-embrace-their-nature-by-working-themselves-into-a-frenzy-over-a-tiny-steam-database-update)<!-- GAME:END -->
+ - [Magic: The Gathering meets crime fiction in Murders at Karlov Manor](https://www.pcgamer.com/magic-the-gathering-meets-crime-fiction-in-murders-at-karlov-manor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
