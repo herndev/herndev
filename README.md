@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do the math](http://9gag.com/gag/aeQL9wW)
- - ⏩ [Oopsie!](http://9gag.com/gag/az2n5RB)
- - 👉 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)<!-- MEMES:END -->
+ - 💣 [That wasn&#39;t nice](http://9gag.com/gag/aBdpyXP)
+ - ⏩ [He finally snapped](http://9gag.com/gag/aVbAv6K)
+ - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
 
 ---
 
