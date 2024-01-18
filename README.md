@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best HRM-9 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24043145/best-hrm-9-loadout-class-build-mw3)
- - [Best TAQ Evolvere loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24043189/best-taq-evolvere-loadout-class-build-mw3)
- - [How a Baldur’s Gate 3 writer created its moving tribute to a father with Alzheimer’s disease](https://www.polygon.com/24040567/baldurs-gate-3-alzheimers-tribute-golbraith-stredivas)<!-- GAME:END -->
+ - [The best microSD cards for the Asus ROG Ally](https://www.polygon.com/deals/23710033/asus-rog-ally-handheld-best-microsd-card-fast-uhs-2)
+ - [Here are the best microSD cards for Steam Deck OLED](https://www.polygon.com/deals/22938610/steam-deck-best-sd-card-micro-storage-price-speed)
+ - [Call of Duty: Warzone Devs Worked Overnight To Fix Busted Update](https://kotaku.com/warzone-season-1-reloaded-mw3-call-of-duty-broken-patch-1851177162)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
