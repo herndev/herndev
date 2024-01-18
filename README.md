@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)
- - ⏩ [More bober](http://9gag.com/gag/a7qQ8Lz)
- - 👉 [Ancestors gently knocked some sense into him](http://9gag.com/gag/a2Kev9p)<!-- MEMES:END -->
+ - 💣 [Sean Strickland vs. LGBTQ+ reporter](http://9gag.com/gag/a5X46ZV)
+ - ⏩ [This giant tree passageway. RIP](http://9gag.com/gag/agoWB1x)
+ - 👉 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)<!-- MEMES:END -->
 
 ---
 
