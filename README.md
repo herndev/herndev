@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC reports Q4 revenue down 1.5% YoY to ~$19.62B and net income down 19.3% YoY to ~$7.56B, both above estimates on the back of weaker macroeconomic conditions &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240118/p4#a240118p4)
- - [New Mexico&#39;s lawsuit against Meta includes a 2021 Meta presentation that says 100,000 minor users each day received sexually abusive content on its Platforms &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240118/p3#a240118p3)
- - [T-Mobile confirms it is revising its Price Lock policy starting now](https://www.androidauthority.com/t-mobile-new-price-lock-policy-3404851/)<!-- TECH:END -->
+ - [Have I Been Pwned adds ~71M email addresses of stolen accounts to its service from the Naz.API dataset, which allegedly contains 1B+ lines of stolen credentials &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240118/p8#a240118p8)
+ - [Meta sent 27M+ reports, or 84% of the tips, of suspected CSAM to the NCMEC in 2022; some prosecutors say the volume of AI-generated tips delays investigations &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240118/p7#a240118p7)
+ - [Meituan&#39;s stock dips below its 2018 IPO price, closing 85% down from an all-time high; Alibaba and Tencent are down 78% and 60%+ respectively from their peaks &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/240118/p6#a240118p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
