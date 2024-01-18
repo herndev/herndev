@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 promises to change accessibility options after potentially dangerous filters that &#39;may hospitalise players&#39; were discovered](https://www.pcgamer.com/tekken-8-promises-to-change-accessibility-options-after-potentially-dangerous-filters-that-may-hospitalise-players-were-discovered)
- - [An ex-D&amp;D designer has made a stat block for Elden Ring&#39;s hardest fight, in case you wanted to punish your players with Malenia&#39;s scarlet rot](https://www.pcgamer.com/an-ex-dandd-designer-has-made-a-stat-block-for-elden-rings-hardest-fight-in-case-you-wanted-to-punish-your-players-with-malenias-scarlet-rot)
- - [Running 8GB of RAM? Now&#39;s the time to upgrade, as Microsoft seems set to make 16GB the minimum for AI PCs and Copilot](https://www.pcgamer.com/running-8gb-of-ram-nows-the-time-to-upgrade-as-microsoft-seems-set-to-make-16gb-the-minimum-for-ai-pcs-and-copilot)<!-- GAME:END -->
+ - [Exoprimal: The Hunt is On With a New 10-Player Monster Hunter-Themed Co-op Mission](https://news.xbox.com/en-us/2024/01/18/exoprimal-monster-hunter/)
+ - [After a 6 year brawl, Billy Mitchell is back in the record books even though Twin Galaxies &#39;had all our ducks in a row&#39; for a courtroom showdown](https://www.pcgamer.com/after-a-6-year-brawl-billy-mitchell-is-back-in-the-record-books-even-though-twin-galaxies-had-all-its-ducks-in-a-row-for-a-courtroom-showdown)
+ - [Call of Duty: Modern Warfare III Season 1 Reloaded Content Drop: What You Need to Know](https://www.callofduty.com/blog/2024/01/call-of-duty-modern-warfare-iii-warzone-season-1-reloaded-multiplayer-zombies-content)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
