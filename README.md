@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh my boys, here we are again !](http://9gag.com/gag/aPg5m6w)
- - ⏩ [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
- - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
+ - 💣 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
+ - ⏩ [Looks safe](http://9gag.com/gag/a1P9moP)
+ - 👉 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)<!-- MEMES:END -->
 
 ---
 
