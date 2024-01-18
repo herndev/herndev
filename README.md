@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams meeting reminders are coming to the Windows 11 Start menu](https://www.theverge.com/2024/1/18/24043162/microsoft-teams-windows-11-start-menu-reminders)
- - [Filing: Apple details new US App Store rules letting devs link to external payments, says apps in its Video Partner and News Partner program are not eligible &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240118/p32#a240118p32)
- - [This smartwatch has the tech that sparked the Apple Watch ban](https://www.theverge.com/2024/1/18/24035351/masimo-freedom-smartwatch-patents-ces-2024)<!-- TECH:END -->
+ - [BMW’s South Carolina plant is testing humanoid robot workers](https://www.theverge.com/2024/1/18/24043065/bmw-figure-robotics-humanoid-robot-workers-deployment)
+ - [Here are the key differences between the Samsung Galaxy S24 phones](https://www.theverge.com/24036693/samsung-galaxy-s24-plus-ultra-specs-comparison-price)
+ - [How investors in China skirt strict crypto trading rules by using VPNs and brokers; Chainalysis says traders received $86B net between July 2022 and June 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240118/p34#a240118p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
