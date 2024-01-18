@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg’s new goal is creating artificial general intelligence](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
- - [Apple’s biggest critics are big mad about the new 27 percent App Store tax](https://www.theverge.com/2024/1/18/24042892/apple-critics-27-percent-app-store-tax)
- - [Amazon is facing internal conflict as it works on a paid version of Alexa](https://www.androidauthority.com/alexa-plus-issues-3405062/)<!-- TECH:END -->
+ - [Microsoft Teams meeting reminders are coming to the Windows 11 Start menu](https://www.theverge.com/2024/1/18/24043162/microsoft-teams-windows-11-start-menu-reminders)
+ - [Filing: Apple details new US App Store rules letting devs link to external payments, says apps in its Video Partner and News Partner program are not eligible &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240118/p32#a240118p32)
+ - [This smartwatch has the tech that sparked the Apple Watch ban](https://www.theverge.com/2024/1/18/24035351/masimo-freedom-smartwatch-patents-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
