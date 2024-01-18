@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [World leaders at the 2024 World Economic Forum fret over AI-powered misinformation and job displacement, following excitement about ChatGPT at the 2023 WEF &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240118/p37#a240118p37)
- - [How to file for a tax extension](https://www.theverge.com/22891931/taxes-file-extension-deadline-irs-how-to)
- - [Samsung Find is a new app that’s replacing SmartThings Find](https://www.androidauthority.com/new-samsung-find-app-3405103/)<!-- TECH:END -->
+ - [You won’t be able to use the YouTube app on Vision Pro](https://www.theverge.com/2024/1/18/24043540/youtube-spotify-apps-apple-vision-pro-visionos)
+ - [The cheapest countries to buy a Samsung Galaxy S24 Ultra](https://www.androidauthority.com/cheapest-place-to-buy-galaxy-s24-ultra-3405100/)
+ - [YouTube and Spotify also won&#39;t offer any apps on Apple Vision Pro](https://appleinsider.com/articles/24/01/18/youtube-and-spotify-also-wont-offer-any-apps-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
