@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – UFC 5, One Piece: Pirate Warriors 4, AEW: Fight Forever and Make Way](https://news.xbox.com/en-us/2024/01/18/free-play-days-ufc-5-one-piece-pirate-warriors-4-aew-fight-forever-and-make-way/)
- - [Baldur’s Gate 3 Will Never Be On Game Pass Or PS Plus, Says Dev](https://kotaku.com/baldurs-gate-3-xbox-game-pass-subscription-ps-plus-1851175926)
- - [Harry Potter breaks Call of Duty’s streak as bestselling game in US](https://www.polygon.com/24026887/hogwarts-legacy-call-of-duty-mw3-2023-bestselling-games)<!-- GAME:END -->
+ - [PC Gamer Chat Log Episode 44: To tutorial or not tutorial?](https://www.pcgamer.com/pc-gamer-chat-log-episode-44-to-tutorial-or-not-tutorial)
+ - [How to solve the Sacred Archives puzzle in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24042733/prince-of-persia-the-lost-crown-sacred-archives-puzzle-clones)
+ - [Baldur&#39;s Gate 3 player gives every NPC a +99 to their attacks, devises a hairbrained build around being an unkillable wizard that obliterates anyone dumb enough to hit their shield](https://www.pcgamer.com/baldurs-gate-3-player-gives-every-npc-a-99-to-their-attacks-devises-a-hairbrained-build-around-being-an-unkillable-wizard-that-obliterates-anyone-dumb-enough-to-hit-their-shield)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
