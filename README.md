@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 vs Galaxy S24: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s22-vs-galaxy-s24-3401711/)
- - [AI Hits the Campaign Trail](https://www.wired.com/story/gadget-lab-podcast-629/)
- - [EU hits international big tech with new wave of user safety effort data requests](https://appleinsider.com/articles/24/01/18/eu-hits-international-big-tech-with-new-wave-of-user-safety-effort-data-requests?utm_medium=rss)<!-- TECH:END -->
+ - [Bose’s wild-looking Ultra Open Earbuds are here — kind of](https://www.theverge.com/2024/1/18/24042265/bose-kith-ultra-open-earbuds-price-design)
+ - [How to watch the Xbox Developer Direct 2024](https://www.theverge.com/2024/1/18/24040217/xbox-developer-direct-2024-time-date-live-stream)
+ - [Why Microsoft might be considering Xbox exclusives on PlayStation and Nintendo Switch](https://www.theverge.com/2024/1/18/24042674/microsoft-xbox-exclusives-playstation-nintendo-switch-publisher)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
