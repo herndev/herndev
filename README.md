@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy S24 is first to be able to upload HDR photos to Instagram](https://www.theverge.com/2024/1/18/24042649/samsung-galaxy-s24-instagram-snapchat-super-hdr-nightography-stabilized-video)
- - [Research: monthly active open-source crypto developers fell 25% YoY to 22,266 by the end of 2023; 34% of the developers are in Europe, and 26% are in the US &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/240118/p10#a240118p10)
- - [Here’s every Samsung device eligible for four &lpar;or more&rpar; major Android updates](https://www.androidauthority.com/samsung-android-updates-1148888/)<!-- TECH:END -->
+ - [Vicarius, an autonomous vulnerability remediation service for supply-chain attacks, raised a $30M Series B led by Bright Pixel, taking its total funding to $57M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240118/p12#a240118p12)
+ - [The Galaxy S24 series brings a much better Single Take mode](https://www.androidauthority.com/samsung-galaxy-s24-single-take-mode-3404954/)
+ - [The EU Council and Parliament reach a provisional deal on Anti-Money Laundering Regulation, which will force all crypto companies to conduct user due diligence &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240118/p11#a240118p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
