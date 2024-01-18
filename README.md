@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s TAG says Russia-linked hacking group Cold River is ramping up its activity and using new tactics, like data-stealing malware, to cause more disruption &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240118/p20#a240118p20)
- - [Apple has big and cartoonish plans for Vision Pro&#39;s EyeSight](https://appleinsider.com/articles/24/01/18/apple-has-big-and-cartoonish-plans-for-vision-pros-eyesight?utm_medium=rss)
- - [Samsung didn’t talk about these S24 camera features at Unpacked](https://www.androidauthority.com/galaxy-s24-camera-features-one-ui-6-1-3405007/)<!-- TECH:END -->
+ - [OpenAI announces a deal with Arizona State University, which will have full access to ChatGPT Enterprise and plans to build personalized AI tutors &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240118/p23#a240118p23)
+ - [Iowa sues TikTok for having an &quot;inaccurate&quot; 12+ age rating on the App Store and a &quot;T&quot; Play Store rating, claiming inappropriate content is &quot;easily accessible&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240118/p22#a240118p22)
+ - [KEF&#39;s new LSX II LT Wireless HiFi speakers have AirPlay and are more affordable](https://appleinsider.com/articles/24/01/18/kefs-new-lsx-ii-lt-wireless-hifi-speakers-have-airplay-and-are-more-affordable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
