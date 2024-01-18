@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
- - [Pitchfork to be absorbed into GQ](https://www.theverge.com/2024/1/17/24042208/pitchfork-to-be-absorbed-into-gq-layoffs)
- - [EA is finally launching Plants vs. Zombies 3](https://www.theverge.com/2024/1/17/24042133/ea-plants-vs-zombies-3-soft-launch)<!-- TECH:END -->
+ - [LiveRamp, which helps match up customer datasets for brands and advertisers, agrees to acquire marketing data startup Habu for ~$200M in cash and stock &lpar;Abigail Summerville/Reuters&rpar;](http://www.techmeme.com/240117/p40#a240117p40)
+ - [Here are some Samsung Galaxy S24 Ultra camera samples shot in San Jose](https://www.androidauthority.com/samsung-galaxy-s24-ultra-camera-samples-3404790/)
+ - [&#39;Plants vs. Zombies 3&#39; unearthed for the third time in early access testing](https://appleinsider.com/articles/24/01/18/plants-vs-zombies-3-unearthed-for-the-third-time-in-early-access-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
