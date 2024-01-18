@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fairly Trained, a nonprofit founded by ex-Stability AI VP Ed Newton-Rex, will give certification labels to AI companies that get consent for their training data &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240118/p9#a240118p9)
  - [Have I Been Pwned adds ~71M email addresses of stolen accounts to its service from the Naz.API dataset, which allegedly contains 1B+ lines of stolen credentials &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240118/p8#a240118p8)
- - [Meta sent 27M+ reports, or 84% of the tips, of suspected CSAM to the NCMEC in 2022; some prosecutors say the volume of AI-generated tips delays investigations &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240118/p7#a240118p7)
- - [Meituan&#39;s stock dips below its 2018 IPO price, closing 85% down from an all-time high; Alibaba and Tencent are down 78% and 60%+ respectively from their peaks &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/240118/p6#a240118p6)<!-- TECH:END -->
+ - [Meta sent 27M+ reports, or 84% of the tips, of suspected CSAM to the NCMEC in 2022; some prosecutors say the volume of AI-generated tips delays investigations &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240118/p7#a240118p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
