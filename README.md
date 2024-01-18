@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
- - ⏩ [Looks safe](http://9gag.com/gag/a1P9moP)
- - 👉 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)<!-- MEMES:END -->
+ - 💣 [He finally snapped](http://9gag.com/gag/aVbAv6K)
+ - ⏩ [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
+ - 👉 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)<!-- MEMES:END -->
 
 ---
 
