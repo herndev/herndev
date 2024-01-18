@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amulet locations in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24030869/prince-of-persia-the-lost-crown-all-amulets-locations-how-to-get)
- - [How to unlock fast travel locations in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24032865/prince-of-persia-the-lost-crown-fast-travel-locations-unlock-how-to)
- - [11 beginner’s tips to know before starting Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24031673/prince-of-persia-the-lost-crown-tips-tricks-beginners-guide)<!-- GAME:END -->
+ - [Best HRM-9 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24043145/best-hrm-9-loadout-class-build-mw3)
+ - [Best TAQ Evolvere loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24043189/best-taq-evolvere-loadout-class-build-mw3)
+ - [How a Baldur’s Gate 3 writer created its moving tribute to a father with Alzheimer’s disease](https://www.polygon.com/24040567/baldurs-gate-3-alzheimers-tribute-golbraith-stredivas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
