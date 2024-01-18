@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to watch the Xbox Developer Direct 2024](https://www.polygon.com/xbox/24031418/xbox-developer-direct-event-time-when-indiana-jones)
  - [There&#39;s a lot more beating people to death with a baseball bat in this computer repair shop sim than I expected](https://www.pcgamer.com/theres-a-lot-more-beating-people-to-death-with-a-baseball-bat-in-this-computer-repair-shop-sim-than-i-expected)
- - [Netflix finally cares about old movies again](https://www.polygon.com/24041818/netflix-old-movies-milestone-collection-chinatown-blazing-saddles)
- - [Vampire Therapist is a game about helping the living dead come to terms with their centuries-old emotional hangups](https://www.pcgamer.com/vampire-therapist-is-a-game-about-helping-the-living-dead-come-to-terms-with-their-centuries-old-emotional-hangups)<!-- GAME:END -->
+ - [Netflix finally cares about old movies again](https://www.polygon.com/24041818/netflix-old-movies-milestone-collection-chinatown-blazing-saddles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
