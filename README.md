@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the Xbox Direct livestream for January 2024](https://www.pcgamer.com/how-to-watch-xbox-direct-january-2024)
- - [Wordle today: Hint and answer #943 for Thursday, January 18](https://www.pcgamer.com/wordle-today-answer-943-january-18)
- - [Magic: The Gathering meets crime fiction in Murders at Karlov Manor](https://www.pcgamer.com/magic-the-gathering-meets-crime-fiction-in-murders-at-karlov-manor)<!-- GAME:END -->
+ - [The phenomenal original Deus Ex, as well as its underappreciated cyberpunk sequel, Invisible War, are on sale now for half the price of a small McDonald&#39;s fries](https://www.pcgamer.com/the-phenomenal-original-deus-ex-as-well-as-its-underappreciated-cyberpunk-sequel-invisible-war-are-on-sale-now-for-half-the-price-of-a-small-mcdonalds-fries)
+ - [4 years after it was announced, Warhammer: Vermintide 2 is finally making its versus mode a reality with a closed alpha: &#39;We put it on the shelf to marinate for a bit&#39;](https://www.pcgamer.com/4-years-after-it-was-announced-warhammer-vermintide-2-is-finally-making-its-versus-mode-a-reality-with-a-closed-alpha-we-put-it-on-the-shelf-to-marinate-for-a-bit)
+ - [Low-profile memory module headed to laptops might be destined for desktops too](https://www.pcgamer.com/low-profile-memory-module-headed-to-laptops-might-be-destined-for-desktops-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
