@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The developer of strategy city builder Manor Lords expected 14,000 Steam wishlists... and wound up with 2 million](https://www.pcgamer.com/the-developer-of-strategy-city-builder-manor-lords-expected-14000-steam-wishlists-and-wound-up-with-2-million)
- - [If your Xbox Series X is running out of storage, check out the best SSDs you can buy](https://www.polygon.com/what-to-buy/23608423/best-ssd-xbox-series-x-s)
- - [The biggest reveals from Xbox Developer Direct](https://www.polygon.com/24043387/xbox-developer-direct-showcase-avowed-hellblade-2-indiana-jones)<!-- GAME:END -->
+ - [The Best Part Of The Xbox Direct Happened Before It Started](https://kotaku.com/xbox-developer-direct-trivia-best-indiana-jones-trailer-1851178048)
+ - [After almost a decade, Bungie is letting Destiny 2 players fix their fugly guardians &lpar;and it won&#39;t cost anything&rpar;](https://www.pcgamer.com/bungie-is-finally-letting-destiny-2-players-fix-their-fugly-guardians-and-it-actually-wont-cost-anything)
+ - [Blizzard reveals how hard the nerfs to Diablo 4&#39;s sorcerers and barbarians will be next season as it outlines a new balance philosophy](https://www.pcgamer.com/blizzard-reveals-how-hard-the-nerfs-to-diablo-4s-sorcerers-and-barbarians-will-be-next-season-as-it-outlines-a-new-balance-philosophy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
