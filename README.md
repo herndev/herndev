@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 ARM officially supported by M3 Macs running Parallels Desktop](https://appleinsider.com/articles/24/01/18/windows-11-arm-officially-supported-by-m3-macs-running-parallels-desktop?utm_medium=rss)
- - [Here’s our first look at Bethesda’s Indiana Jones and the Great Circle](https://www.theverge.com/24040391/indiana-jones-and-the-great-circle-gameplay-trailer-xbox-bethesda)
- - [Vision Pro apps: the good, the bad, and the ‘I Am Rich’](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)<!-- TECH:END -->
+ - [World leaders at the 2024 World Economic Forum fret over AI-powered misinformation and job displacement, following excitement about ChatGPT at the 2023 WEF &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240118/p37#a240118p37)
+ - [How to file for a tax extension](https://www.theverge.com/22891931/taxes-file-extension-deadline-irs-how-to)
+ - [Samsung Find is a new app that’s replacing SmartThings Find](https://www.androidauthority.com/new-samsung-find-app-3405103/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
