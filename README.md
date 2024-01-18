@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW’s South Carolina plant is testing humanoid robot workers](https://www.theverge.com/2024/1/18/24043065/bmw-figure-robotics-humanoid-robot-workers-deployment)
- - [Here are the key differences between the Samsung Galaxy S24 phones](https://www.theverge.com/24036693/samsung-galaxy-s24-plus-ultra-specs-comparison-price)
- - [How investors in China skirt strict crypto trading rules by using VPNs and brokers; Chainalysis says traders received $86B net between July 2022 and June 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240118/p34#a240118p34)<!-- TECH:END -->
+ - [Windows 11 ARM officially supported by M3 Macs running Parallels Desktop](https://appleinsider.com/articles/24/01/18/windows-11-arm-officially-supported-by-m3-macs-running-parallels-desktop?utm_medium=rss)
+ - [Here’s our first look at Bethesda’s Indiana Jones and the Great Circle](https://www.theverge.com/24040391/indiana-jones-and-the-great-circle-gameplay-trailer-xbox-bethesda)
+ - [Vision Pro apps: the good, the bad, and the ‘I Am Rich’](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
