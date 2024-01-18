@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bipartisan bills are being introduced across the US to fight AI deepfakes, especially non-consensual AI-generated porn and fake celebrity endorsements &lpar;Janus Rose/VICE&rpar;](http://www.techmeme.com/240117/p43#a240117p43)
- - [How to preorder the Apple Vision Pro](https://appleinsider.com/articles/24/01/18/how-to-preorder-the-apple-vision-pro?utm_medium=rss)
- - [Apple Hongdae opens January 20 in Seoul, South Korea](https://appleinsider.com/articles/24/01/18/apple-hongdae-opens-january-20-in-seoul-south-korea?utm_medium=rss)<!-- TECH:END -->
+ - [Test Driving Apple Vision Pro: A Concept Car For The Future video     - CNET](https://www.cnet.com/videos/test-driving-apple-vision-pro-a-concept-car-for-the-future/#ftag=CAD590a51e)
+ - [Apple will now sell Watch Series 9 and Ultra 2 without blood oxygen tracking](https://www.androidauthority.com/apple-watch-series-9-ultra-2-blood-oxygen-monitoring-ban-3404843/)
+ - [Bipartisan bills are being introduced across the US to fight AI deepfakes, especially non-consensual AI-generated porn and fake celebrity endorsements &lpar;Janus Rose/VICE&rpar;](http://www.techmeme.com/240117/p43#a240117p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
