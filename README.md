@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Test Driving Apple Vision Pro: A Concept Car For The Future video     - CNET](https://www.cnet.com/videos/test-driving-apple-vision-pro-a-concept-car-for-the-future/#ftag=CAD590a51e)
- - [Apple will now sell Watch Series 9 and Ultra 2 without blood oxygen tracking](https://www.androidauthority.com/apple-watch-series-9-ultra-2-blood-oxygen-monitoring-ban-3404843/)
- - [Bipartisan bills are being introduced across the US to fight AI deepfakes, especially non-consensual AI-generated porn and fake celebrity endorsements &lpar;Janus Rose/VICE&rpar;](http://www.techmeme.com/240117/p43#a240117p43)<!-- TECH:END -->
+ - [T-Mobile confirms it is revising its Price Lock policy starting now](https://www.androidauthority.com/t-mobile-new-price-lock-policy-3404851/)
+ - [SEC v. Coinbase: in an opening hearing, Coinbase says that buying crypto on an exchange is more like collecting Beanie Babies than investing in a stock or bond &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240118/p2#a240118p2)
+ - [A Consumer Reports study involving 709 volunteers: a total of 186,892 companies shared the volunteers&#39; data with Facebook, averaging 2,230 companies per person &lpar;Jon Keegan/The Markup&rpar;](http://www.techmeme.com/240118/p1#a240118p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
