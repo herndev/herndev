@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [StatCounter: Bing ended 2023 with 3.4% global search market share, up less than one percentage point after ChatGPT; Google had 91.6%, Yandex 1.6%, and Yahoo 1% &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240118/p14#a240118p14)
- - [TSMC announces another delay to its $40B site in Arizona, saying the second plant will start operations in 2027 or 2028, later than its prior 2026 guidance &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p13#a240118p13)
- - [TSMC&#39;s second Arizona plant may not open until 2028](https://appleinsider.com/articles/24/01/18/tsmcs-second-arizona-plant-may-not-open-until-2028?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S22 vs Galaxy S24: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s22-vs-galaxy-s24-3401711/)
+ - [AI Hits the Campaign Trail](https://www.wired.com/story/gadget-lab-podcast-629/)
+ - [EU hits international big tech with new wave of user safety effort data requests](https://appleinsider.com/articles/24/01/18/eu-hits-international-big-tech-with-new-wave-of-user-safety-effort-data-requests?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
