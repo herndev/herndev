@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile confirms it is revising its Price Lock policy starting now](https://www.androidauthority.com/t-mobile-new-price-lock-policy-3404851/)
- - [SEC v. Coinbase: in an opening hearing, Coinbase says that buying crypto on an exchange is more like collecting Beanie Babies than investing in a stock or bond &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240118/p2#a240118p2)
- - [A Consumer Reports study involving 709 volunteers: a total of 186,892 companies shared the volunteers&#39; data with Facebook, averaging 2,230 companies per person &lpar;Jon Keegan/The Markup&rpar;](http://www.techmeme.com/240118/p1#a240118p1)<!-- TECH:END -->
+ - [TSMC reports Q4 revenue down 1.5% YoY to ~$19.62B and net income down 19.3% YoY to ~$7.56B, both above estimates on the back of weaker macroeconomic conditions &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240118/p4#a240118p4)
+ - [New Mexico&#39;s lawsuit against Meta includes a 2021 Meta presentation that says 100,000 minor users each day received sexually abusive content on its Platforms &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240118/p3#a240118p3)
+ - [T-Mobile confirms it is revising its Price Lock policy starting now](https://www.androidauthority.com/t-mobile-new-price-lock-policy-3404851/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
