@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
- - ⏩ [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 👉 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)<!-- MEMES:END -->
+ - 💣 [Children\u2019s eyes describe that pure happiness](http://9gag.com/gag/az2nP7b)
+ - ⏩ [She needs to date a dude in the military](http://9gag.com/gag/axo5vA1)
+ - 👉 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
 
 ---
 
