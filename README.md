@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones headbutts a Nazi 37 seconds into the reveal trailer for The Great Circle, coming later this year](https://www.pcgamer.com/indiana-jones-headbutts-a-nazi-37-seconds-into-the-reveal-trailer-for-the-great-circle-coming-later-this-year)
- - [Indiana Jones and the Great Circle Gameplay Reveal](https://bethesda.net/en/article/4AzQP6dZpL9Ynu0EWHGZGH/indiana-jones-and-the-great-circle-gameplay-reveal)
- - [Everything We Saw At Xbox’s January Developer Direct](https://kotaku.com/xbox-developer-direct-indiana-jones-hellblade-avowed-1851177625)<!-- GAME:END -->
+ - [The developer of strategy city builder Manor Lords expected 14,000 Steam wishlists... and wound up with 2 million](https://www.pcgamer.com/the-developer-of-strategy-city-builder-manor-lords-expected-14000-steam-wishlists-and-wound-up-with-2-million)
+ - [If your Xbox Series X is running out of storage, check out the best SSDs you can buy](https://www.polygon.com/what-to-buy/23608423/best-ssd-xbox-series-x-s)
+ - [The biggest reveals from Xbox Developer Direct](https://www.polygon.com/24043387/xbox-developer-direct-showcase-avowed-hellblade-2-indiana-jones)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
