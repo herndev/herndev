@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sean Strickland vs. LGBTQ+ reporter](http://9gag.com/gag/a5X46ZV)
- - ⏩ [This giant tree passageway. RIP](http://9gag.com/gag/agoWB1x)
- - 👉 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)<!-- MEMES:END -->
+ - 💣 [Oh my boys, here we are again !](http://9gag.com/gag/aPg5m6w)
+ - ⏩ [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
 
 ---
 
