@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - ⏩ [Happy girl](http://9gag.com/gag/aPg5A9V)
- - 👉 [He finally snapped](http://9gag.com/gag/aVbAv6K)<!-- MEMES:END -->
+ - 💣 [Meanwhile in the land of popcorn...](http://9gag.com/gag/aqe0XYQ)
+ - ⏩ [Children\u2019s eyes describe that pure happiness](http://9gag.com/gag/az2nP7b)
+ - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
 
 ---
 
