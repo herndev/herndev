@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Chat Log Episode 44: To tutorial or not tutorial?](https://www.pcgamer.com/pc-gamer-chat-log-episode-44-to-tutorial-or-not-tutorial)
- - [How to solve the Sacred Archives puzzle in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24042733/prince-of-persia-the-lost-crown-sacred-archives-puzzle-clones)
- - [Baldur&#39;s Gate 3 player gives every NPC a +99 to their attacks, devises a hairbrained build around being an unkillable wizard that obliterates anyone dumb enough to hit their shield](https://www.pcgamer.com/baldurs-gate-3-player-gives-every-npc-a-99-to-their-attacks-devises-a-hairbrained-build-around-being-an-unkillable-wizard-that-obliterates-anyone-dumb-enough-to-hit-their-shield)<!-- GAME:END -->
+ - [Amulet locations in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24030869/prince-of-persia-the-lost-crown-all-amulets-locations-how-to-get)
+ - [How to unlock fast travel locations in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24032865/prince-of-persia-the-lost-crown-fast-travel-locations-unlock-how-to)
+ - [11 beginner’s tips to know before starting Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24031673/prince-of-persia-the-lost-crown-tips-tricks-beginners-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
