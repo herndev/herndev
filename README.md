@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose’s wild-looking Ultra Open Earbuds are here — kind of](https://www.theverge.com/2024/1/18/24042265/bose-kith-ultra-open-earbuds-price-design)
- - [How to watch the Xbox Developer Direct 2024](https://www.theverge.com/2024/1/18/24040217/xbox-developer-direct-2024-time-date-live-stream)
- - [Why Microsoft might be considering Xbox exclusives on PlayStation and Nintendo Switch](https://www.theverge.com/2024/1/18/24042674/microsoft-xbox-exclusives-playstation-nintendo-switch-publisher)<!-- TECH:END -->
+ - [Google&#39;s TAG says Russia-linked hacking group Cold River is ramping up its activity and using new tactics, like data-stealing malware, to cause more disruption &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240118/p20#a240118p20)
+ - [Apple has big and cartoonish plans for Vision Pro&#39;s EyeSight](https://appleinsider.com/articles/24/01/18/apple-has-big-and-cartoonish-plans-for-vision-pros-eyesight?utm_medium=rss)
+ - [Samsung didn’t talk about these S24 camera features at Unpacked](https://www.androidauthority.com/galaxy-s24-camera-features-one-ui-6-1-3405007/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
