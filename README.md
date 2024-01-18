@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The phenomenal original Deus Ex, as well as its underappreciated cyberpunk sequel, Invisible War, are on sale now for half the price of a small McDonald&#39;s fries](https://www.pcgamer.com/the-phenomenal-original-deus-ex-as-well-as-its-underappreciated-cyberpunk-sequel-invisible-war-are-on-sale-now-for-half-the-price-of-a-small-mcdonalds-fries)
- - [4 years after it was announced, Warhammer: Vermintide 2 is finally making its versus mode a reality with a closed alpha: &#39;We put it on the shelf to marinate for a bit&#39;](https://www.pcgamer.com/4-years-after-it-was-announced-warhammer-vermintide-2-is-finally-making-its-versus-mode-a-reality-with-a-closed-alpha-we-put-it-on-the-shelf-to-marinate-for-a-bit)
- - [Low-profile memory module headed to laptops might be destined for desktops too](https://www.pcgamer.com/low-profile-memory-module-headed-to-laptops-might-be-destined-for-desktops-too)<!-- GAME:END -->
+ - [Tekken 8 promises to change accessibility options after potentially dangerous filters that &#39;may hospitalise players&#39; were discovered](https://www.pcgamer.com/tekken-8-promises-to-change-accessibility-options-after-potentially-dangerous-filters-that-may-hospitalise-players-were-discovered)
+ - [An ex-D&amp;D designer has made a stat block for Elden Ring&#39;s hardest fight, in case you wanted to punish your players with Malenia&#39;s scarlet rot](https://www.pcgamer.com/an-ex-dandd-designer-has-made-a-stat-block-for-elden-rings-hardest-fight-in-case-you-wanted-to-punish-your-players-with-malenias-scarlet-rot)
+ - [Running 8GB of RAM? Now&#39;s the time to upgrade, as Microsoft seems set to make 16GB the minimum for AI PCs and Copilot](https://www.pcgamer.com/running-8gb-of-ram-nows-the-time-to-upgrade-as-microsoft-seems-set-to-make-16gb-the-minimum-for-ai-pcs-and-copilot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
