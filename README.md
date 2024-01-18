@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - ⏩ [Wait for it...](http://9gag.com/gag/a9qoqXL)
- - 👉 [I wonder why ?!](http://9gag.com/gag/armYWg5)<!-- MEMES:END -->
+ - 💣 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)
+ - ⏩ [More bober](http://9gag.com/gag/a7qQ8Lz)
+ - 👉 [Ancestors gently knocked some sense into him](http://9gag.com/gag/a2Kev9p)<!-- MEMES:END -->
 
 ---
 
