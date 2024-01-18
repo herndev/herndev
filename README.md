@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks safe](http://9gag.com/gag/a1P9moP)
- - ⏩ [How are you doing South Korea](http://9gag.com/gag/az2n2Gz)
- - 👉 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)<!-- MEMES:END -->
+ - 💣 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - ⏩ [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
+ - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
 
 ---
 
