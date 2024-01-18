@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How nice of them\u2026](http://9gag.com/gag/aNwNLo3)
- - ⏩ [Meanwhile in the land of popcorn...](http://9gag.com/gag/aqe0XYQ)
- - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
+ - 💣 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - ⏩ [Happy girl](http://9gag.com/gag/aPg5A9V)
+ - 👉 [He finally snapped](http://9gag.com/gag/aVbAv6K)<!-- MEMES:END -->
 
 ---
 
