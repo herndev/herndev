@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proceeds to dig 4 more](http://9gag.com/gag/aOxw4bv)
- - ⏩ [Is she into you? C: Can\u2019t Tell](http://9gag.com/gag/aREnZr2)
- - 👉 [Nice tie](http://9gag.com/gag/a8qZA6O)<!-- MEMES:END -->
+ - 💣 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - ⏩ [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
+ - 👉 [Happy girl](http://9gag.com/gag/aPg5A9V)<!-- MEMES:END -->
 
 ---
 
