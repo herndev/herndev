@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best microSD cards for the Asus ROG Ally](https://www.polygon.com/deals/23710033/asus-rog-ally-handheld-best-microsd-card-fast-uhs-2)
- - [Here are the best microSD cards for Steam Deck OLED](https://www.polygon.com/deals/22938610/steam-deck-best-sd-card-micro-storage-price-speed)
- - [Call of Duty: Warzone Devs Worked Overnight To Fix Busted Update](https://kotaku.com/warzone-season-1-reloaded-mw3-call-of-duty-broken-patch-1851177162)<!-- GAME:END -->
+ - [Indiana Jones headbutts a Nazi 37 seconds into the reveal trailer for The Great Circle, coming later this year](https://www.pcgamer.com/indiana-jones-headbutts-a-nazi-37-seconds-into-the-reveal-trailer-for-the-great-circle-coming-later-this-year)
+ - [Indiana Jones and the Great Circle Gameplay Reveal](https://bethesda.net/en/article/4AzQP6dZpL9Ynu0EWHGZGH/indiana-jones-and-the-great-circle-gameplay-reveal)
+ - [Everything We Saw At Xbox’s January Developer Direct](https://kotaku.com/xbox-developer-direct-indiana-jones-hellblade-avowed-1851177625)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
