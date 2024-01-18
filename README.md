@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proud Parents.](http://9gag.com/gag/aXnBM3V)
- - ⏩ [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
+ - 💣 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
+ - ⏩ [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 👉 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)<!-- MEMES:END -->
 
 ---
 
