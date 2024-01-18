@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
- - ⏩ [Looks safe](http://9gag.com/gag/a1P9moP)
- - 👉 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)<!-- MEMES:END -->
+ - 💣 [Proceeds to dig 4 more](http://9gag.com/gag/aOxw4bv)
+ - ⏩ [Is she into you? C: Can\u2019t Tell](http://9gag.com/gag/aREnZr2)
+ - 👉 [Nice tie](http://9gag.com/gag/a8qZA6O)<!-- MEMES:END -->
 
 ---
 
