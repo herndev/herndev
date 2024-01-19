@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why would you go after the dog tho?](http://9gag.com/gag/aREnzPq)
- - ⏩ [Totally Historically Accurate Retelling](http://9gag.com/gag/aXnBNPz)
- - 👉 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)<!-- MEMES:END -->
+ - 💣 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
+ - ⏩ [Why would you go after the dog tho?](http://9gag.com/gag/aREnzPq)
+ - 👉 [Mr Bond](http://9gag.com/gag/abv7Oe8)<!-- MEMES:END -->
 
 ---
 
