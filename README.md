@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the best fantasy 4Xs on PC is free while the Steam keys last](https://www.pcgamer.com/one-of-the-best-fantasy-4xs-on-pc-is-free-while-the-steam-keys-last)
- - [How to get Ancient Civilization Parts in Palworld](https://www.pcgamer.com/palworld-ancient-civilization-parts-location)
- - [Palworld type chart for element strengths and weaknesses](https://www.polygon.com/guides/24043450/palworld-type-chart-element-strengths-weakenesses)<!-- GAME:END -->
+ - [Cobalt Core review](https://www.pcgamer.com/cobalt-core-review)
+ - [&#39;I think this is a 10-year gap&#39; – Intel CEO Pat Gelsinger says China is majorly behind in chip manufacturing thanks to export restrictions and looks to stay that way for the foreseeable future](https://www.pcgamer.com/i-think-this-is-a-10-year-gap-intel-ceo-pat-gelsinger-says-china-is-majorly-behind-in-chip-manufacturing-thanks-to-export-restrictions-and-looks-to-stay-that-way-for-the-foreseeable-future)
+ - [All Genshin Impact codes from the 4.4 livestream](https://www.pcgamer.com/genshin-impact-codes-4-4-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
