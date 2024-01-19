@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forta, which combines AI and a training course for parents to offer personalized therapy for autistic children, raised a $55M Series A led by Insight Partners &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240118/p45#a240118p45)
- - [Public opinion of Apple Vision Pro is all over the place, with some calling it a glorified dev tool](https://appleinsider.com/articles/24/01/19/public-opinion-of-apple-vision-pro-is-all-over-the-place-with-some-calling-it-a-glorified-dev-tool?utm_medium=rss)
- - [Dubai-based online business travel service Tumodo raised a $35M pre-seed co-led by MENA-focused angel investors and plans to expand to 25 more countries by 2026 &lpar;Julian Nabil/Forbes Middle East&rpar;](http://www.techmeme.com/240118/p44#a240118p44)<!-- TECH:END -->
+ - [Samsung is giving all Galaxy phone users a chance to win a free Galaxy Watch 6](https://www.androidauthority.com/samsung-wallet-sweepstakes-free-galaxy-watch-6-3405167/)
+ - [Which countries are getting the Snapdragon and Exynos variants of the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-vs-exynos-countries-3402659/)
+ - [Best Apple Pencil Deals: Save on Apple&#39;s Styluses and Third-Party Alternatives     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
