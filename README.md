@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 16 camera button could be more than just a shutter key](https://www.androidauthority.com/apple-iphone-16-camera-button-leak-features-3404197/)
- - [AWS says it plans to invest $15.24B in Japan by 2027 to expand facilities in the metropolises of Tokyo and Osaka to meet growing customer demand &lpar;Rocky Swift/Reuters&rpar;](http://www.techmeme.com/240119/p2#a240119p2)
- - [Plex will let you rent and buy movies and TV shows starting next month](https://www.androidauthority.com/plex-store-launch-2024-3405170/)<!-- TECH:END -->
+ - [Samsung Galaxy S21 Ultra vs Galaxy S24 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s21-ultra-vs-galaxy-s24-ultra-3401317/)
+ - [Xiaomi’s flip foldable is getting closer to launch with a surprise feature](https://www.androidauthority.com/xiaomi-mix-flip-listing-3405181/)
+ - [A look at the reasons why Artifact failed, including not growing its user base outside the US and user confusion about its ever-growing set of features &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240119/p3#a240119p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
