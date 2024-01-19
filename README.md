@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro streaming media landscape is complicated at launch](https://appleinsider.com/articles/24/01/19/apple-vision-pro-streaming-media-landscape-is-complicated-at-launch?utm_medium=rss)
- - [Google says 404 Media&#39;s report claiming Google is &quot;boosting&quot; AI-written article is misleading since the writer sorted news content by date rather than relevance &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/240119/p17#a240119p17)
- - [The Verge is not interested in interviewing you about crypto — but scammers are](https://www.theverge.com/2024/1/19/24043482/the-verge-crypto-calendly-scam-phishing)<!-- TECH:END -->
+ - [YouTube&#39;s head of gaming Leo Olebe was among the 100 staff laid off from the company this week &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240119/p18#a240119p18)
+ - [5 One UI 6.1 features Samsung didn’t reveal at Unpacked &lpar;and one it took away&rpar;](https://www.androidauthority.com/one-ui-6-1-features-unpacked-3405334/)
+ - [Govee’s Matter-ready LED light strip can brighten your home for just $40](https://www.theverge.com/2024/1/19/24042971/govee-led-strip-light-m1-matter-apple-m2-mac-mini-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
