@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Thank god Indiana Jones and the Great Circle is first-person](https://www.pcgamer.com/thank-god-indiana-jones-and-the-great-circle-is-first-person)
  - [I still feel like I barely know anything about Avowed, but it&#39;s looking like a rare game that nails the wizard fantasy](https://www.pcgamer.com/i-still-feel-like-i-barely-know-anything-about-avowed-but-its-looking-like-a-rare-game-that-nails-the-wizard-fantasy)
- - [The 5 most ambitious Fallout mods in development right now](https://www.pcgamer.com/upcoming-fallout-mods)
- - [18 Days Into 2024 And 3,100+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
+ - [The 5 most ambitious Fallout mods in development right now](https://www.pcgamer.com/upcoming-fallout-mods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
