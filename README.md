@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Current Year Supa Powa. What a 3rd rate.](http://9gag.com/gag/ajVpOx1)
- - ⏩ [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
- - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
+ - 💣 [HOld up](http://9gag.com/gag/aMEgBXG)
+ - ⏩ [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
+ - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
 
 ---
 
