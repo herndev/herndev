@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HOld up](http://9gag.com/gag/aMEgBXG)
- - ⏩ [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)
- - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
+ - 💣 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
+ - ⏩ [HOld up](http://9gag.com/gag/aMEgBXG)
+ - 👉 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)<!-- MEMES:END -->
 
 ---
 
