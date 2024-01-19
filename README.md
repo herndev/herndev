@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact version 4.4 livestream codes](https://www.polygon.com/genshin-impact-guides/24044052/version-4-4-livestream-codes)
- - [I’m overcoming my fear of everything to play Lethal Company](https://www.polygon.com/gaming/24043555/lethal-company-best-entry-level-horror-game)
- - [The best ways to get Paldium Fragments in Palworld](https://www.pcgamer.com/palworld-paldium-fragment-location)<!-- GAME:END -->
+ - [Your PC might be cool, but it&#39;ll never be Colossus—a 80-year-old beast as tall as a person that could &#39;read Hitler&#39;s mind&#39;](https://www.pcgamer.com/your-pc-might-be-cool-but-itll-never-be-colossusa-80-year-old-beast-as-tall-as-a-person-that-could-read-hitlers-mind)
+ - [Palworld is the top-selling game on Steam right now and the servers are struggling to handle the load](https://www.pcgamer.com/palworld-is-the-top-selling-game-on-steam-right-now-and-the-servers-are-struggling-to-handle-the-load)
+ - [23 Years Later, We&#39;ve Discovered An Amazing GameCube Easter Egg](https://kotaku.com/nintendo-gamecube-easter-egg-squeaks-1851179613)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
