@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Disturbance in the Force finally reveals how The Star Wars Holiday Special went so wrong](https://www.polygon.com/23640045/star-wars-holiday-special-documentary-disturbance-in-the-force)
- - [The Best Part Of The Xbox Direct Happened Before It Started](https://kotaku.com/xbox-developer-direct-trivia-best-indiana-jones-trailer-1851178048)
- - [After almost a decade, Bungie is letting Destiny 2 players fix their fugly guardians &lpar;and it won&#39;t cost anything&rpar;](https://www.pcgamer.com/bungie-is-finally-letting-destiny-2-players-fix-their-fugly-guardians-and-it-actually-wont-cost-anything)<!-- GAME:END -->
+ - [I still feel like I barely know anything about Avowed, but it&#39;s looking like a rare game that nails the wizard fantasy](https://www.pcgamer.com/i-still-feel-like-i-barely-know-anything-about-avowed-but-its-looking-like-a-rare-game-that-nails-the-wizard-fantasy)
+ - [The 5 most ambitious Fallout mods in development right now](https://www.pcgamer.com/upcoming-fallout-mods)
+ - [18 Days Into 2024 And 3,100+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
