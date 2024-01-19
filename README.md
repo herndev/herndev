@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Absurdly rare Team Fortress 2 hat called &#39;The Crone&#39;s Dome&#39; sells for a record-setting $18,000 worth of keys because &#39;it&#39;s one of a kind and will not ever be unboxed again&#39;](https://www.pcgamer.com/absurdly-rare-team-fortress-2-hat-called-the-crones-dome-sells-for-a-record-setting-dollar18000-worth-of-keys-because-its-one-of-a-kind-and-will-not-ever-be-unboxed-again)
- - [How to play Palworld multiplayer with friends](https://www.polygon.com/guides/24044099/palworld-multiplayer-crossplay-server-co-op)
- - [19 Days Into 2024 And 3,400+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
+ - [Diablo 4 hasn&#39;t solved its worst loot problem yet, but season 3 is a step in the right direction](https://www.pcgamer.com/diablo-4-hasnt-solved-its-worst-loot-problem-yet-but-season-3-is-a-step-in-the-right-direction)
+ - [Did you catch the Quake 6 tease in the Indiana Jones reveal?](https://www.pcgamer.com/quake-6-tease-indiana-jones)
+ - [9 Tips To Bend Time And Survive Death In Prince Of Persia: The Lost Crown](https://kotaku.com/prince-persia-lost-crown-game-tips-ps5-xbox-switch-1851181353)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
