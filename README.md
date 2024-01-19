@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you can do in World of Warcraft patch 10.2.5](https://www.pcgamer.com/world-of-warcraft-wow-10-2-5-seeds-of-renewal)
- - [Genshin Impact version 4.4 brings new friends and visual enhancements Jan 31](https://blog.playstation.com/2024/01/19/genshin-impact-version-4-4-brings-new-friends-and-visual-enhancements-jan-31/)
- - [How to hatch Pal eggs in Palworld](https://www.pcgamer.com/palworld-eggs-incubator)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for January 22 – 26](https://news.xbox.com/en-us/2024/01/19/next-week-on-xbox-new-games-for-january-22-26/)
+ - [Kinesis Gaming Freestyle Edge RGB review](https://www.pcgamer.com/kinesis-gaming-freestyle-edge-rgb-review)
+ - [&#39;Today our systems hallucinate, tomorrow if we&#39;re going to use them broadly, they have to be right&#39; – Intel&#39;s CEO thinks AI needs a lesson in reasoning to move forward](https://www.pcgamer.com/today-our-systems-hallucinate-tomorrow-if-were-going-to-use-them-broadly-they-have-to-be-right-intels-ceo-thinks-ai-needs-a-lesson-in-reasoning-to-move-forward)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
