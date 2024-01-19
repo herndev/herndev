@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
- - ⏩ [HOld up](http://9gag.com/gag/aMEgBXG)
- - 👉 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)<!-- MEMES:END -->
+ - 💣 [Naughty boy](http://9gag.com/gag/aPg58rG)
+ - ⏩ [Audi owners during those 5 days a year when there is snow](http://9gag.com/gag/amA3xL2)
+ - 👉 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)<!-- MEMES:END -->
 
 ---
 
