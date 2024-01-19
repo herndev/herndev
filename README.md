@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All The Starfield Quests Fixed In The First Beta Update](https://kotaku.com/starfield-beta-test-quest-fix-patch-bugs-1851180926)
- - [Diablo 4’s third season patch arrives with an urgent addition: a customizable robot friend](https://www.polygon.com/24044364/diablo-4-season-3-construct-patch-notes-changes)
- - [WoW&#39;s dreaded druid is dead: Blizzard just &#39;used a sledgehammer&#39; to nerf the boss that&#39;s been stomping Mythic raiders for the last 2 months](https://www.pcgamer.com/wows-dreaded-druid-is-dead-blizzard-just-used-a-sledgehammer-to-nerf-the-boss-thats-been-stomping-mythic-raiders-for-the-last-2-months)<!-- GAME:END -->
+ - [Absurdly rare Team Fortress 2 hat called &#39;The Crone&#39;s Dome&#39; sells for a record-setting $18,000 worth of keys because &#39;it&#39;s one of a kind and will not ever be unboxed again&#39;](https://www.pcgamer.com/absurdly-rare-team-fortress-2-hat-called-the-crones-dome-sells-for-a-record-setting-dollar18000-worth-of-keys-because-its-one-of-a-kind-and-will-not-ever-be-unboxed-again)
+ - [How to play Palworld multiplayer with friends](https://www.polygon.com/guides/24044099/palworld-multiplayer-crossplay-server-co-op)
+ - [19 Days Into 2024 And 3,400+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
