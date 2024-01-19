@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HOld up](http://9gag.com/gag/aMEgBXG)
- - ⏩ [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
- - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
+ - 💣 [I think I saw uncle](http://9gag.com/gag/aXnB4qg)
+ - ⏩ [HOld up](http://9gag.com/gag/aMEgBXG)
+ - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
 
 ---
 
