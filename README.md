@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock all characters in The Last of Us Part 2&#39;s No Return roguelike](https://www.polygon.com/guides/24034750/tlou-last-of-us-part-2-no-return-roguelike-all-characters-unlock-how-to)
- - [Wordle today: Hint and answer #944 for Friday, January 19](https://www.pcgamer.com/wordle-today-answer-944-january-19)
- - [Thank god Indiana Jones and the Great Circle is first-person](https://www.pcgamer.com/thank-god-indiana-jones-and-the-great-circle-is-first-person)<!-- GAME:END -->
+ - [Palworld type chart for element strengths and weaknesses](https://www.polygon.com/guides/24043450/palworld-type-chart-element-strengths-weakenesses)
+ - [10 beginner’s tips to know before starting Palworld](https://www.polygon.com/guides/24043125/palworld-beginners-guide-tips-tricks)
+ - [Palworld Rayne Syndicate Tower boss &lpar;Zoe and Grizzbolt&rpar; guide](https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
