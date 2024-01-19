@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
- - ⏩ [If only there was a pattern](http://9gag.com/gag/aKER9K3)
- - 👉 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)<!-- MEMES:END -->
+ - 💣 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
+ - ⏩ [She really felt like a winner](http://9gag.com/gag/agoWOmW)
+ - 👉 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
 
 ---
 
