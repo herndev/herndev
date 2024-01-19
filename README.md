@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China forms a metaverse working group with members from government, academia, and tech companies like Huawei and Baidu to push for standardization in the sector &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240119/p6#a240119p6)
- - [X expands audio and video calling to Android](https://www.theverge.com/2024/1/19/24043950/x-premium-audio-video-calling-feature-android-rollout-announcement)
- - [The EU Commission is seeking feedback on concessions Apple offered, including opening its Tap to Pay tech to third-party wallets for 10 years, to settle a probe &lpar;Piotr Lipinski/Reuters&rpar;](http://www.techmeme.com/240119/p5#a240119p5)<!-- TECH:END -->
+ - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)
+ - [Apple offers to open iPhone NFC payments to third-party providers after EU investigation](https://www.theverge.com/2024/1/19/24043965/apple-iphone-nfc-payments-open-up-third-party-developers-european-union-antitrust)
+ - [Manta Network was hit by a DDoS attack as it issued its MANTA token on January 18, leading to longer-than-expected withdrawal times; all funds remain safe &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240119/p8#a240119p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
