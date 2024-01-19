@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
- - ⏩ [She really felt like a winner](http://9gag.com/gag/agoWOmW)
- - 👉 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
+ - ⏩ [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - 👉 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)<!-- MEMES:END -->
 
 ---
 
