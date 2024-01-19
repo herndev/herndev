@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)
- - [Apple offers to open iPhone NFC payments to third-party providers after EU investigation](https://www.theverge.com/2024/1/19/24043965/apple-iphone-nfc-payments-open-up-third-party-developers-european-union-antitrust)
- - [Manta Network was hit by a DDoS attack as it issued its MANTA token on January 18, leading to longer-than-expected withdrawal times; all funds remain safe &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240119/p8#a240119p8)<!-- TECH:END -->
+ - [Apple Vision Pro screen refresh rate is up to 100Hz, it has Bluetooth 5.3, and more technical details](https://appleinsider.com/articles/24/01/19/apple-vision-pro-rate-is-up-to-100hz-it-has-bluetooth-53-and-more-technical-details?utm_medium=rss)
+ - [Wayfair plans to lay off 1,650 employees, or 13% of its staff, which it says will result in $280M+ in annual savings; Wayfair cut 1,750 jobs in 2023 &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240119/p10#a240119p10)
+ - [How to file and pay your 2023 taxes online](https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
