@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to unlock all characters in The Last of Us Part 2&#39;s No Return roguelike](https://www.polygon.com/guides/24034750/tlou-last-of-us-part-2-no-return-roguelike-all-characters-unlock-how-to)
  - [Wordle today: Hint and answer #944 for Friday, January 19](https://www.pcgamer.com/wordle-today-answer-944-january-19)
- - [Thank god Indiana Jones and the Great Circle is first-person](https://www.pcgamer.com/thank-god-indiana-jones-and-the-great-circle-is-first-person)
- - [I still feel like I barely know anything about Avowed, but it&#39;s looking like a rare game that nails the wizard fantasy](https://www.pcgamer.com/i-still-feel-like-i-barely-know-anything-about-avowed-but-its-looking-like-a-rare-game-that-nails-the-wizard-fantasy)<!-- GAME:END -->
+ - [Thank god Indiana Jones and the Great Circle is first-person](https://www.pcgamer.com/thank-god-indiana-jones-and-the-great-circle-is-first-person)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
