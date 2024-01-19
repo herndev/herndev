@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you think the Galaxy S24 Ultra is worth $100 more?](https://www.androidauthority.com/galaxy-s24-ultra-worth-100-more-poll-3405222/)
- - [All those photos of people wearing Vision Pro? Apple cropped out a key part.](https://www.androidauthority.com/apple-vision-pro-photos-crop-battery-pack-3405184/)
- - [Samsung Galaxy S21 Ultra vs Galaxy S24 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s21-ultra-vs-galaxy-s24-ultra-3401317/)<!-- TECH:END -->
+ - [Samsung Galaxy S20 Ultra vs Galaxy S24 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s20-ultra-vs-galaxy-s24-ultra-3400834/)
+ - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
+ - [Here’s what you need to know about preordering the Apple Vision Pro](https://www.theverge.com/24030316/apple-vision-pro-headset-preorder-how-to-buy-price-availability-release-date-demo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
