@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro shipment dates slip nearly instantly](https://appleinsider.com/articles/24/01/19/apple-vision-pro-shipment-dates-slip-nearly-instantly?utm_medium=rss)
- - [Apple will allow third-parties in the EU access to the iPhone NFC chip](https://appleinsider.com/articles/24/01/19/apple-will-allow-third-parties-in-the-eu-access-to-the-iphone-nfc-chip?utm_medium=rss)
- - [Vision Pro is here and Apple Arcade is booming, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/19/vision-pro-is-here-and-apple-arcade-is-booming-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Vision Pro details revealed in new Apple Guided Tour](https://appleinsider.com/articles/24/01/19/vision-pro-details-revealed-in-new-apple-guided-tour?utm_medium=rss)
+ - [Apple says the Vision Pro weighs 600 to 650 grams depending on the Light Seal and headband used; Meta Quest 3 weighs 516 grams and Quest Pro weighs 722 grams &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240119/p14#a240119p14)
+ - [Daily deals Jan. 19: LG OLED TV $599, Beats Solo 3 headphones $129, iMac $349, more](https://appleinsider.com/articles/24/01/19/daily-deals-jan-19-lg-oled-tv-599-beats-solo-3-headphones-129-imac-349-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
