@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
- - ⏩ [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
- - 👉 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)<!-- MEMES:END -->
+ - 💣 [Oh no](http://9gag.com/gag/aA0jKn0)
+ - ⏩ [This ever happened to you ?](http://9gag.com/gag/a2Ke089)
+ - 👉 [Life hack](http://9gag.com/gag/a04B6Vz)<!-- MEMES:END -->
 
 ---
 
