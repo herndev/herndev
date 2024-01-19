@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Disturbance in the Force finally reveals how The Star Wars Holiday Special went so wrong](https://www.polygon.com/23640045/star-wars-holiday-special-documentary-disturbance-in-the-force)
  - [The Best Part Of The Xbox Direct Happened Before It Started](https://kotaku.com/xbox-developer-direct-trivia-best-indiana-jones-trailer-1851178048)
- - [After almost a decade, Bungie is letting Destiny 2 players fix their fugly guardians &lpar;and it won&#39;t cost anything&rpar;](https://www.pcgamer.com/bungie-is-finally-letting-destiny-2-players-fix-their-fugly-guardians-and-it-actually-wont-cost-anything)
- - [Blizzard reveals how hard the nerfs to Diablo 4&#39;s sorcerers and barbarians will be next season as it outlines a new balance philosophy](https://www.pcgamer.com/blizzard-reveals-how-hard-the-nerfs-to-diablo-4s-sorcerers-and-barbarians-will-be-next-season-as-it-outlines-a-new-balance-philosophy)<!-- GAME:END -->
+ - [After almost a decade, Bungie is letting Destiny 2 players fix their fugly guardians &lpar;and it won&#39;t cost anything&rpar;](https://www.pcgamer.com/bungie-is-finally-letting-destiny-2-players-fix-their-fugly-guardians-and-it-actually-wont-cost-anything)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
