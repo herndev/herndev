@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
- - ⏩ [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
- - 👉 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)<!-- MEMES:END -->
+ - 💣 [Mans duty](http://9gag.com/gag/aGEXEmG)
+ - ⏩ [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
+ - 👉 [Not today](http://9gag.com/gag/anz6OjV)<!-- MEMES:END -->
 
 ---
 
