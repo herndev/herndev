@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;ll be back!!!](http://9gag.com/gag/aMEgdBG)
- - ⏩ [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
- - 👉 [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)<!-- MEMES:END -->
+ - 💣 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - ⏩ [If only there was a pattern](http://9gag.com/gag/aKER9K3)
+ - 👉 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)<!-- MEMES:END -->
 
 ---
 
