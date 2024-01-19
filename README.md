@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mans duty](http://9gag.com/gag/aGEXEmG)
- - ⏩ [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
- - 👉 [Not today](http://9gag.com/gag/anz6OjV)<!-- MEMES:END -->
+ - 💣 [Why would you go after the dog tho?](http://9gag.com/gag/aREnzPq)
+ - ⏩ [Totally Historically Accurate Retelling](http://9gag.com/gag/aXnBNPz)
+ - 👉 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)<!-- MEMES:END -->
 
 ---
 
