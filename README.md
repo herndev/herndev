@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 Ultra vs Galaxy S24 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s21-ultra-vs-galaxy-s24-ultra-3401317/)
- - [Xiaomi’s flip foldable is getting closer to launch with a surprise feature](https://www.androidauthority.com/xiaomi-mix-flip-listing-3405181/)
- - [A look at the reasons why Artifact failed, including not growing its user base outside the US and user confusion about its ever-growing set of features &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240119/p3#a240119p3)<!-- TECH:END -->
+ - [Poll: Do you think the Galaxy S24 Ultra is worth $100 more?](https://www.androidauthority.com/galaxy-s24-ultra-worth-100-more-poll-3405222/)
+ - [All those photos of people wearing Vision Pro? Apple cropped out a key part.](https://www.androidauthority.com/apple-vision-pro-photos-crop-battery-pack-3405184/)
+ - [Samsung Galaxy S21 Ultra vs Galaxy S24 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s21-ultra-vs-galaxy-s24-ultra-3401317/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
