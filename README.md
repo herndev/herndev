@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no](http://9gag.com/gag/aA0jKn0)
- - ⏩ [This ever happened to you ?](http://9gag.com/gag/a2Ke089)
- - 👉 [Life hack](http://9gag.com/gag/a04B6Vz)<!-- MEMES:END -->
+ - 💣 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - ⏩ [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)
+ - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
 
 ---
 
