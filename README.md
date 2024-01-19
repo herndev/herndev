@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld type chart for element strengths and weaknesses](https://www.polygon.com/guides/24043450/palworld-type-chart-element-strengths-weakenesses)
- - [10 beginner’s tips to know before starting Palworld](https://www.polygon.com/guides/24043125/palworld-beginners-guide-tips-tricks)
- - [Palworld Rayne Syndicate Tower boss &lpar;Zoe and Grizzbolt&rpar; guide](https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat)<!-- GAME:END -->
+ - [One of the best fantasy 4Xs on PC is free while the Steam keys last](https://www.pcgamer.com/one-of-the-best-fantasy-4xs-on-pc-is-free-while-the-steam-keys-last)
+ - [How to get Ancient Civilization Parts in Palworld](https://www.pcgamer.com/palworld-ancient-civilization-parts-location)
+ - [Palworld type chart for element strengths and weaknesses](https://www.polygon.com/guides/24043450/palworld-type-chart-element-strengths-weakenesses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
