@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think I saw uncle](http://9gag.com/gag/aXnB4qg)
- - ⏩ [HOld up](http://9gag.com/gag/aMEgBXG)
+ - 💣 [HOld up](http://9gag.com/gag/aMEgBXG)
+ - ⏩ [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)
  - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
 
 ---
