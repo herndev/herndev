@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for January 22 – 26](https://news.xbox.com/en-us/2024/01/19/next-week-on-xbox-new-games-for-january-22-26/)
- - [Kinesis Gaming Freestyle Edge RGB review](https://www.pcgamer.com/kinesis-gaming-freestyle-edge-rgb-review)
- - [&#39;Today our systems hallucinate, tomorrow if we&#39;re going to use them broadly, they have to be right&#39; – Intel&#39;s CEO thinks AI needs a lesson in reasoning to move forward](https://www.pcgamer.com/today-our-systems-hallucinate-tomorrow-if-were-going-to-use-them-broadly-they-have-to-be-right-intels-ceo-thinks-ai-needs-a-lesson-in-reasoning-to-move-forward)<!-- GAME:END -->
+ - [Genshin Impact version 4.4 livestream codes](https://www.polygon.com/genshin-impact-guides/24044052/version-4-4-livestream-codes)
+ - [I’m overcoming my fear of everything to play Lethal Company](https://www.polygon.com/gaming/24043555/lethal-company-best-entry-level-horror-game)
+ - [The best ways to get Paldium Fragments in Palworld](https://www.pcgamer.com/palworld-paldium-fragment-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
