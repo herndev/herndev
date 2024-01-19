@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your PC might be cool, but it&#39;ll never be Colossus—a 80-year-old beast as tall as a person that could &#39;read Hitler&#39;s mind&#39;](https://www.pcgamer.com/your-pc-might-be-cool-but-itll-never-be-colossusa-80-year-old-beast-as-tall-as-a-person-that-could-read-hitlers-mind)
- - [Palworld is the top-selling game on Steam right now and the servers are struggling to handle the load](https://www.pcgamer.com/palworld-is-the-top-selling-game-on-steam-right-now-and-the-servers-are-struggling-to-handle-the-load)
- - [23 Years Later, We&#39;ve Discovered An Amazing GameCube Easter Egg](https://kotaku.com/nintendo-gamecube-easter-egg-squeaks-1851179613)<!-- GAME:END -->
+ - [Embark on a Heroic Quest in Knights of Braveland, Coming to Xbox](https://news.xbox.com/en-us/2024/01/19/embark-on-a-heroic-quest-in-knights-of-braveland-coming-to-xbox/)
+ - [Hellblade II and Alan Wake 2 Are Signs of A Worrying Trend](https://kotaku.com/hellblade-ii-alan-wake-2-digital-only-physical-release-1851180148)
+ - [18 years on, The Elder Scrolls 4: Oblivion&#39;s unmatched comedic timing is still enough to go viral](https://www.pcgamer.com/18-years-on-the-elder-scrolls-4-oblivions-unmatched-comedic-timing-is-still-enough-to-go-viral)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
