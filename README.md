@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone tell Germans - Third time&#39;s a charm](http://9gag.com/gag/agoWQVW)
- - ⏩ [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 👉 [Oof load: Ultra](http://9gag.com/gag/a04BezO)<!-- MEMES:END -->
+ - 💣 [Smooth](http://9gag.com/gag/aBdp6bD)
+ - ⏩ [Live Broadcast in real life](http://9gag.com/gag/aREnZoy)
+ - 👉 [Cosy](http://9gag.com/gag/aGEX8dG)<!-- MEMES:END -->
 
 ---
 
