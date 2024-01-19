@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smooth](http://9gag.com/gag/aBdp6bD)
- - ⏩ [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
- - 👉 [Cosy](http://9gag.com/gag/aGEX8dG)<!-- MEMES:END -->
+ - 💣 [This ever happened to you ?](http://9gag.com/gag/a2Ke089)
+ - ⏩ [If only there was a pattern](http://9gag.com/gag/aKER9K3)
+ - 👉 [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)<!-- MEMES:END -->
 
 ---
 
