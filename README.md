@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You won’t be able to use the YouTube app on Vision Pro](https://www.theverge.com/2024/1/18/24043540/youtube-spotify-apps-apple-vision-pro-visionos)
- - [The cheapest countries to buy a Samsung Galaxy S24 Ultra](https://www.androidauthority.com/cheapest-place-to-buy-galaxy-s24-ultra-3405100/)
- - [YouTube and Spotify also won&#39;t offer any apps on Apple Vision Pro](https://appleinsider.com/articles/24/01/18/youtube-and-spotify-also-wont-offer-any-apps-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Internal video and memo: Apple sees health care, training, and education as key areas for the Vision Pro, and will give employees a 25% discount on the device &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240118/p40#a240118p40)
+ - [Inside Meta’s big AI reorg](https://www.theverge.com/2024/1/18/24043547/inside-meta-ai-reorg-mark-zuckerberg)
+ - [The One Part of Apple Vision Pro That Apple Doesn’t Want You to See](https://www.wired.com/story/one-part-of-apple-vision-pro-apple-doesnt-want-you-to-see/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
