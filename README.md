@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240117-2200&rpar;](https://news.xbox.com/en-us/2024/01/19/xbox-insider-release-notes-alpha-2402-240117-2200/)
- - [The Top 10 Most-Played Games On Steam Deck: December 2023 Edition](https://kotaku.com/steam-deck-valve-december-2023-baldurs-gate-3-cyberpunk-1851176684)
- - [Here&#39;s Why Palworld Limits Multiplayer Numbers On Xbox](https://kotaku.com/palworld-xbox-game-pass-steam-multiplayer-servers-1851180651)<!-- GAME:END -->
+ - [All The Starfield Quests Fixed In The First Beta Update](https://kotaku.com/starfield-beta-test-quest-fix-patch-bugs-1851180926)
+ - [Diablo 4’s third season patch arrives with an urgent addition: a customizable robot friend](https://www.polygon.com/24044364/diablo-4-season-3-construct-patch-notes-changes)
+ - [WoW&#39;s dreaded druid is dead: Blizzard just &#39;used a sledgehammer&#39; to nerf the boss that&#39;s been stomping Mythic raiders for the last 2 months](https://www.pcgamer.com/wows-dreaded-druid-is-dead-blizzard-just-used-a-sledgehammer-to-nerf-the-boss-thats-been-stomping-mythic-raiders-for-the-last-2-months)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
