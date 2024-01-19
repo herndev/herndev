@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Embark on a Heroic Quest in Knights of Braveland, Coming to Xbox](https://news.xbox.com/en-us/2024/01/19/embark-on-a-heroic-quest-in-knights-of-braveland-coming-to-xbox/)
- - [Hellblade II and Alan Wake 2 Are Signs of A Worrying Trend](https://kotaku.com/hellblade-ii-alan-wake-2-digital-only-physical-release-1851180148)
- - [18 years on, The Elder Scrolls 4: Oblivion&#39;s unmatched comedic timing is still enough to go viral](https://www.pcgamer.com/18-years-on-the-elder-scrolls-4-oblivions-unmatched-comedic-timing-is-still-enough-to-go-viral)<!-- GAME:END -->
+ - [Everything We Know About Square Enix&#39;s Visions Of Mana](https://kotaku.com/visions-of-mana-release-date-trailer-pc-ps5-xbox-1851180292)
+ - [The ashes of Arthur C. Clarke and Star Trek creator Gene Rodenberry just burned up on re-entry to Earth&#39;s atmosphere after a failed moonshot](https://www.pcgamer.com/the-ashes-of-arthur-c-clarke-and-star-trek-creator-gene-rodenberry-just-burned-up-on-re-entry-to-earths-atmosphere-after-a-failed-moonshot)
+ - [Lonestar&#39;s spin on deck-building helps it stand out from the pack](https://www.pcgamer.com/lonestars-spin-on-deck-building-helps-it-stand-out-from-the-pack)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
