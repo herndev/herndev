@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro screen refresh rate is up to 100Hz, it has Bluetooth 5.3, and more technical details](https://appleinsider.com/articles/24/01/19/apple-vision-pro-rate-is-up-to-100hz-it-has-bluetooth-53-and-more-technical-details?utm_medium=rss)
- - [Wayfair plans to lay off 1,650 employees, or 13% of its staff, which it says will result in $280M+ in annual savings; Wayfair cut 1,750 jobs in 2023 &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240119/p10#a240119p10)
- - [How to file and pay your 2023 taxes online](https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund)<!-- TECH:END -->
+ - [Apple Vision Pro shipment dates slip nearly instantly](https://appleinsider.com/articles/24/01/19/apple-vision-pro-shipment-dates-slip-nearly-instantly?utm_medium=rss)
+ - [Apple will allow third-parties in the EU access to the iPhone NFC chip](https://appleinsider.com/articles/24/01/19/apple-will-allow-third-parties-in-the-eu-access-to-the-iphone-nfc-chip?utm_medium=rss)
+ - [Vision Pro is here and Apple Arcade is booming, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/19/vision-pro-is-here-and-apple-arcade-is-booming-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
