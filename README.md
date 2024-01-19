@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
- - ⏩ [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
- - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
+ - 💣 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - ⏩ [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 👉 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)<!-- MEMES:END -->
 
 ---
 
