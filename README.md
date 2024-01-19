@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube&#39;s head of gaming Leo Olebe was among the 100 staff laid off from the company this week &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240119/p18#a240119p18)
- - [5 One UI 6.1 features Samsung didn’t reveal at Unpacked &lpar;and one it took away&rpar;](https://www.androidauthority.com/one-ui-6-1-features-unpacked-3405334/)
- - [Govee’s Matter-ready LED light strip can brighten your home for just $40](https://www.theverge.com/2024/1/19/24042971/govee-led-strip-light-m1-matter-apple-m2-mac-mini-deal-sale)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Microsoft is working on a YouTube-like video copyright identifying app](https://www.androidauthority.com/microsoft-video-copyright-tool-3405396/)
+ - [YouTube&#39;s head of gaming Leo Olebe was among the 100 staff laid off from the company this week &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240119/p18#a240119p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
