@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Microsoft is working on a YouTube-like video copyright identifying app](https://www.androidauthority.com/microsoft-video-copyright-tool-3405396/)
- - [YouTube&#39;s head of gaming Leo Olebe was among the 100 staff laid off from the company this week &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240119/p18#a240119p18)<!-- TECH:END -->
+ - [AMD says it removed the country of diffusion labels from all new CPUs and APUs, after criticism that it removed the &quot;Diffused in Taiwan&quot; labels to appease China &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240119/p20#a240119p20)
+ - [Samsung’s smart ring might signal the start of a new wearable era](https://www.theverge.com/2024/1/19/24041922/samsung-galaxy-ring-smart-ring-wearables)
+ - [Samsung’s fancy new Galaxy AI features might not be free forever](https://www.theverge.com/2024/1/19/24044251/samsung-galaxy-s24-ultra-ai-features-cost-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
