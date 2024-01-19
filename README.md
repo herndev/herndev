@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: the total number of US startups with a $1B+ valuation grew 14x from 39 in 2013 to 532 in 2023, 78% today are B2B, 93% are privately valued, and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/240119/p1#a240119p1)
  - [Samsung is giving all Galaxy phone users a chance to win a free Galaxy Watch 6](https://www.androidauthority.com/samsung-wallet-sweepstakes-free-galaxy-watch-6-3405167/)
- - [Which countries are getting the Snapdragon and Exynos variants of the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-vs-exynos-countries-3402659/)
- - [Best Apple Pencil Deals: Save on Apple&#39;s Styluses and Third-Party Alternatives     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Air Purifier Deals: Discounts on HEPA Purifiers From LG, Coway, Blueair, Dyson and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
