@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Square Enix&#39;s Visions Of Mana](https://kotaku.com/visions-of-mana-release-date-trailer-pc-ps5-xbox-1851180292)
- - [The ashes of Arthur C. Clarke and Star Trek creator Gene Rodenberry just burned up on re-entry to Earth&#39;s atmosphere after a failed moonshot](https://www.pcgamer.com/the-ashes-of-arthur-c-clarke-and-star-trek-creator-gene-rodenberry-just-burned-up-on-re-entry-to-earths-atmosphere-after-a-failed-moonshot)
- - [Lonestar&#39;s spin on deck-building helps it stand out from the pack](https://www.pcgamer.com/lonestars-spin-on-deck-building-helps-it-stand-out-from-the-pack)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.240117-2200&rpar;](https://news.xbox.com/en-us/2024/01/19/xbox-insider-release-notes-alpha-2402-240117-2200/)
+ - [The Top 10 Most-Played Games On Steam Deck: December 2023 Edition](https://kotaku.com/steam-deck-valve-december-2023-baldurs-gate-3-cyberpunk-1851176684)
+ - [Here&#39;s Why Palworld Limits Multiplayer Numbers On Xbox](https://kotaku.com/palworld-xbox-game-pass-steam-multiplayer-servers-1851180651)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
