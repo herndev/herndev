@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some video podcasts are using AI-generated product placements from a company called Rembrand to supplement their typical host-read ads &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240119/p4#a240119p4)
- - [Samsung Galaxy S20 Ultra vs Galaxy S24 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s20-ultra-vs-galaxy-s24-ultra-3400834/)
- - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)<!-- TECH:END -->
+ - [China forms a metaverse working group with members from government, academia, and tech companies like Huawei and Baidu to push for standardization in the sector &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240119/p6#a240119p6)
+ - [X expands audio and video calling to Android](https://www.theverge.com/2024/1/19/24043950/x-premium-audio-video-calling-feature-android-rollout-announcement)
+ - [The EU Commission is seeking feedback on concessions Apple offered, including opening its Tap to Pay tech to third-party wallets for 10 years, to settle a probe &lpar;Piotr Lipinski/Reuters&rpar;](http://www.techmeme.com/240119/p5#a240119p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
