@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)
- - ⏩ [If only there was a pattern](http://9gag.com/gag/aKER9K3)
- - 👉 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)<!-- MEMES:END -->
+ - 💣 [He&#39;ll be back!!!](http://9gag.com/gag/aMEgdBG)
+ - ⏩ [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - 👉 [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)<!-- MEMES:END -->
 
 ---
 
