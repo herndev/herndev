@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smooth](http://9gag.com/gag/aBdp6bD)
- - ⏩ [Live Broadcast in real life](http://9gag.com/gag/aREnZoy)
- - 👉 [Cosy](http://9gag.com/gag/aGEX8dG)<!-- MEMES:END -->
+ - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - ⏩ [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
+ - 👉 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)<!-- MEMES:END -->
 
 ---
 
