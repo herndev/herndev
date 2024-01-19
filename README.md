@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some video podcasts are using AI-generated product placements from a company called Rembrand to supplement their typical host-read ads &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240119/p4#a240119p4)
  - [Samsung Galaxy S20 Ultra vs Galaxy S24 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s20-ultra-vs-galaxy-s24-ultra-3400834/)
- - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
- - [Here’s what you need to know about preordering the Apple Vision Pro](https://www.theverge.com/24030316/apple-vision-pro-headset-preorder-how-to-buy-price-availability-release-date-demo)<!-- TECH:END -->
+ - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
