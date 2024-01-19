@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cobalt Core review](https://www.pcgamer.com/cobalt-core-review)
- - [&#39;I think this is a 10-year gap&#39; – Intel CEO Pat Gelsinger says China is majorly behind in chip manufacturing thanks to export restrictions and looks to stay that way for the foreseeable future](https://www.pcgamer.com/i-think-this-is-a-10-year-gap-intel-ceo-pat-gelsinger-says-china-is-majorly-behind-in-chip-manufacturing-thanks-to-export-restrictions-and-looks-to-stay-that-way-for-the-foreseeable-future)
- - [All Genshin Impact codes from the 4.4 livestream](https://www.pcgamer.com/genshin-impact-codes-4-4-livestream)<!-- GAME:END -->
+ - [Everything you can do in World of Warcraft patch 10.2.5](https://www.pcgamer.com/world-of-warcraft-wow-10-2-5-seeds-of-renewal)
+ - [Genshin Impact version 4.4 brings new friends and visual enhancements Jan 31](https://blog.playstation.com/2024/01/19/genshin-impact-version-4-4-brings-new-friends-and-visual-enhancements-jan-31/)
+ - [How to hatch Pal eggs in Palworld](https://www.pcgamer.com/palworld-eggs-incubator)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
