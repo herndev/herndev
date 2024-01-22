@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Need more time](http://9gag.com/gag/aPg5nKg)
- - ⏩ [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/ajVpWjq)
- - 👉 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)<!-- MEMES:END -->
+ - 💣 [Reflex masters](http://9gag.com/gag/ajVpRZx)
+ - ⏩ [Need more time](http://9gag.com/gag/aPg5nKg)
+ - 👉 [Road trip](http://9gag.com/gag/aGEXbzw)<!-- MEMES:END -->
 
 ---
 
