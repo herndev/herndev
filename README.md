@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Built different](http://9gag.com/gag/az2nQMq)
- - ⏩ [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
- - 👉 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)<!-- MEMES:END -->
+ - 💣 [Judge is impressed](http://9gag.com/gag/aDYyNZO)
+ - ⏩ [Attack 100 damage0](http://9gag.com/gag/a04BWdZ)
+ - 👉 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)<!-- MEMES:END -->
 
 ---
 
