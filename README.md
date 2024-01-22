@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld&#39;s developers are currently trying to fix a game-wrecking bug that permanently nerfs your character](https://www.pcgamer.com/palworlds-developers-are-currently-trying-to-fix-a-game-wrecking-bug-that-permanently-nerfs-your-character)
- - [Where to find wheat seeds in Palworld](https://www.pcgamer.com/palworld-wheat-seeds-location)
- - [The acclaimed Hellblade: Senua&#39;s Sacrifice, a game with over 52,000 &#39;Very Positive&#39; reviews on Steam, is now cheaper than a coffee thanks to this massive price cut](https://www.pcgamer.com/the-multiple-award-winning-hellblade-senuas-sacrifice-a-game-with-over-52000-very-positive-reviews-on-steam-is-now-cheaper-than-a-cup-of-coffee-thanks-to-this-massive-90-price-cut)<!-- GAME:END -->
+ - [Little things that matter: Valve is making performance settings in its Steam Deck easier to understand](https://www.pcgamer.com/little-things-that-matter-valve-is-making-performance-settings-in-its-steam-deck-easier-to-understand)
+ - [Palword&#39;s plain worse on the Microsoft Store and Game Pass right now—devs say they&#39;re &#39;at the mercy of the certification&#39;, making for slower hotfixes](https://www.pcgamer.com/palwords-plain-worse-on-the-microsoft-store-and-game-pass-right-nowdevs-say-theyre-at-the-mercy-of-the-certification-making-for-slower-hotfixes)
+ - [Palworld&#39;s developers are currently trying to fix a game-wrecking bug that permanently nerfs your character](https://www.pcgamer.com/palworlds-developers-are-currently-trying-to-fix-a-game-wrecking-bug-that-permanently-nerfs-your-character)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
