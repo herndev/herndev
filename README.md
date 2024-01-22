@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s up with all these season 1 references in True Detective: Night Country?](https://www.polygon.com/24043472/true-detective-night-country-season-1-easter-eggs-breakdown)
- - [I never knew I wanted to be able to trap monsters in bubbles and watch them float away until I tried the demo for this upcoming magical FPS](https://www.pcgamer.com/i-never-knew-i-wanted-to-be-able-to-trap-monsters-in-bubbles-and-watch-them-float-away-until-i-tried-the-demo-for-this-upcoming-magical-fps)
- - [How True Detective: Night Country got its ghastly ‘corpsicle’ just right](https://www.polygon.com/24044284/true-detective-night-country-corpsicle-dead-frozen-bodies-mystery-ice)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 speedrunner reverse-pickpockets a boss to teleport to the dev room, defeats another boss with &#39;Shadowbear&#39;](https://www.pcgamer.com/baldurs-gate-3-speedrunner-reverse-pickpockets-a-boss-to-teleport-to-the-dev-room-defeats-a-boss-with-shadowbear)
+ - [Wordle today: Hint and answer #947 for Monday, January 22](https://www.pcgamer.com/wordle-today-answer-947-january-22)
+ - [What’s up with all these season 1 references in True Detective: Night Country?](https://www.polygon.com/24043472/true-detective-night-country-season-1-easter-eggs-breakdown)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
