@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Months after pulling its Surviving Barstool series from YouTube over censorship claims, Barstool Sports announces a deal with Rumble; Rumble stock jumps 30%+ &lpar;Ben Axelrod/Awful Announcing&rpar;](http://www.techmeme.com/240122/p12#a240122p12)
- - [Researchers: only 18 companies of 391 analyzed seem to have followed a NYC law that went into effect six months ago and requires disclosure of hiring algorithms &lpar;Lauren Weber/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p11#a240122p11)
- - [Thread Group stops by, where are HomeKit routers &amp; more CES news on HomeKit Insider](https://appleinsider.com/articles/24/01/22/thread-group-stops-by-where-are-homekit-routers-more-ces-news-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Apple iOS 17.3: How to Turn on iPhone&#39;s New Stolen Device Protection](https://www.wired.com/story/apple-ios-17-3-iphone-stolen-device-protection/)
+ - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)
+ - [iOS 17.3 is out, adding Stolen Device Protection for your iPhone](https://www.theverge.com/2024/1/22/24047063/iphone-ios-17-3-update-stolen-device-protection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
