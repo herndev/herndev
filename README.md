@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
+ - 💣 [Themfoys](http://9gag.com/gag/amA3Vg6)
  - ⏩ [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 👉 [Built different](http://9gag.com/gag/az2nQMq)<!-- MEMES:END -->
+ - 👉 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)<!-- MEMES:END -->
 
 ---
 
