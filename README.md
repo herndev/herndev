@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
- - ⏩ [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)
- - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
+ - 💣 [Attack 100 damage0](http://9gag.com/gag/a04BWdZ)
+ - ⏩ [Well that\u2019s how my Monday started\u2026](http://9gag.com/gag/aWGzN5d)
+ - 👉 [They are coming](http://9gag.com/gag/aYV9ZLq)<!-- MEMES:END -->
 
 ---
 
