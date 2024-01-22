@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll be able to watch The Marvels on Disney Plus very soon](https://www.theverge.com/2024/1/22/24047147/the-marvels-disney-plus-streaming-availability)
- - [Apple will pay up to 10% more per play in Apple Music royalties for tracks where a Spatial Audio version is available, starting with January&#39;s payouts &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240122/p16#a240122p16)
- - [Samsung confirms its Dolby Atmos competitor will arrive in 2024](https://www.androidauthority.com/samsung-3d-audio-2024-3406289/)<!-- TECH:END -->
+ - [The US SEC says the January 9 hack of its X account was via a SIM swap attack to reset its password; it had disabled 2FA in July 2023 over account access issues &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240122/p18#a240122p18)
+ - [iOS 17.3: Stolen Device Protection and More Land on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-stolen-device-protection-and-more-land-on-your-iphone/#ftag=CAD590a51e)
+ - [Sierra Space blew up its inflatable space habitat — and that’s a good thing](https://www.theverge.com/2024/1/22/24047219/sierra-space-inflatable-habitat-test-nasa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
