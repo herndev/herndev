@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Terraform Labs, co-founded by Do Kwon, files for Chapter 11 bankruptcy protection in the US, listing assets and liabilities both between $100M and $500M &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240121/p10#a240121p10)
- - [Chinese warehouse robotic startups are keen to ease Japan&#39;s logistics crunch; IFR: 52% of ~550K warehouse robots deployed globally in 2022 were made in China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240121/p9#a240121p9)
- - [Best Smart TV for 2024: Top Picks From Roku, Amazon, Google and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gmail on Android could soon make it easier to use AI to draft your emails](https://www.androidauthority.com/gmail-on-android-draft-email-with-voice-ai-3405980/)
+ - [Pixel Watch 3 leak suggests Google might add a new variant this year](https://www.androidauthority.com/pixel-watch-3-sizes-leak-3405978/)
+ - [Filing: Terraform Labs, co-founded by Do Kwon, files for Chapter 11 bankruptcy protection in the US, listing assets and liabilities both between $100M and $500M &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240121/p10#a240121p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
