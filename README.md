@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iOS 17.3: How to Turn on iPhone&#39;s New Stolen Device Protection](https://www.wired.com/story/apple-ios-17-3-iphone-stolen-device-protection/)
- - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)
- - [iOS 17.3 is out, adding Stolen Device Protection for your iPhone](https://www.theverge.com/2024/1/22/24047063/iphone-ios-17-3-update-stolen-device-protection)<!-- TECH:END -->
+ - [Ford’s new in-car experience is built around the Play Store and Android Auto](https://www.androidauthority.com/ford-car-experience-android-play-store-3406252/)
+ - [&#39;Palworld&#39;: 6 Beginner Tips for Getting Started](https://www.wired.com/story/palworld-tips/)
+ - [Motorola’s flip-style Razr Plus is on sale for nearly half off right now](https://www.theverge.com/2024/1/22/24046785/motorola-razr-plus-amazon-echo-show-8-beats-studio-buds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
