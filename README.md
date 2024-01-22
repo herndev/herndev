@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road trip](http://9gag.com/gag/aGEXbzw)
- - ⏩ [Reflex masters](http://9gag.com/gag/ajVpRZx)
- - 👉 [Need more time](http://9gag.com/gag/aPg5nKg)<!-- MEMES:END -->
+ - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
+ - ⏩ [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 👉 [Built different](http://9gag.com/gag/az2nQMq)<!-- MEMES:END -->
 
 ---
 
