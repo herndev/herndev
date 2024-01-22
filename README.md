@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 hasn&#39;t solved its worst loot problem yet, but season 3 is a step in the right direction](https://www.pcgamer.com/diablo-4-hasnt-solved-its-worst-loot-problem-yet-but-season-3-is-a-step-in-the-right-direction)
- - [Did you catch the Quake 6 tease in the Indiana Jones reveal?](https://www.pcgamer.com/quake-6-tease-indiana-jones)
- - [9 Tips To Bend Time And Survive Death In Prince Of Persia: The Lost Crown](https://kotaku.com/prince-persia-lost-crown-game-tips-ps5-xbox-switch-1851181353)<!-- GAME:END -->
+ - [Get a retired cop back in service for her only unsolved case in this point-and-click detective adventure](https://www.pcgamer.com/get-a-retired-cop-back-in-service-for-her-only-unsolved-case-in-this-point-and-click-detective-adventure)
+ - [Stack cards to captain a desperate train in this frozen, apocalyptic, and totally free roguelite demo](https://www.pcgamer.com/stack-cards-to-captain-a-desperate-train-in-this-frozen-apocalyptic-and-totally-free-roguelite-demo)
+ - [Painting of sailing ships in the anime Attack on Titan is actually a screenshot from Total War: Empire](https://www.pcgamer.com/painting-of-sailing-ships-in-the-anime-attack-on-titan-is-actually-a-screenshot-from-total-war-empire)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
