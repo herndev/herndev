@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judge is impressed](http://9gag.com/gag/aDYyNZO)
- - ⏩ [Attack 100 damage0](http://9gag.com/gag/a04BWdZ)
- - 👉 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)<!-- MEMES:END -->
+ - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
+ - ⏩ [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)
+ - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
 
 ---
 
