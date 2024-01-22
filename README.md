@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt Red is ramping up production on The Witcher 4, and of course it&#39;s looking into using AI](https://www.pcgamer.com/cd-projekt-red-is-ramping-up-production-on-the-witcher-4-and-of-course-its-looking-into-using-ai)
- - [The Week In Games: Brawling Bears, Soulful Gangsters, And More New Releases](https://kotaku.com/january-games-this-week-tekken-8-like-a-dragon-howl-1851185888)
- - [Embracer-owned Elex studio Piranha Bytes is trying to save itself from closure: &#39;Don&#39;t write us off yet&#39;](https://www.pcgamer.com/embracer-owned-elex-studio-piranha-bytes-is-trying-to-save-itself-from-closure-dont-write-us-off-yet)<!-- GAME:END -->
+ - [Palworld already has a Pokémon mod](https://www.polygon.com/24047136/palworld-pokemon-mod-release-toastedshoes)
+ - [How the Azerothian Archives event works in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-azerothian-archives)
+ - [Diving Deeper into the World of Avowed](https://news.xbox.com/en-us/2024/01/22/avowed-developer-direct-side-quest-deep-dive/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
