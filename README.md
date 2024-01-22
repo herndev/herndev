@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail on Android could soon make it easier to use AI to draft your emails](https://www.androidauthority.com/gmail-on-android-draft-email-with-voice-ai-3405980/)
- - [Pixel Watch 3 leak suggests Google might add a new variant this year](https://www.androidauthority.com/pixel-watch-3-sizes-leak-3405978/)
- - [Filing: Terraform Labs, co-founded by Do Kwon, files for Chapter 11 bankruptcy protection in the US, listing assets and liabilities both between $100M and $500M &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240121/p10#a240121p10)<!-- TECH:END -->
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [Google Messages will soon fix this annoying RCS issue](https://www.androidauthority.com/google-messages-rcs-image-captions-3405986/)
+ - [Chinese imports of chip making machines rose 14% YoY to ~$40B in 2023; lithography equipment imports from the Netherlands rose 1,000% YoY to $1.1B in December &lpar;James Mayger/Bloomberg&rpar;](http://www.techmeme.com/240122/p1#a240122p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
