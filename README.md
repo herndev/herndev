@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese warehouse robotic startups are keen to ease Japan&#39;s logistics crunch; IFR: 52% of ~550K warehouse robots deployed globally in 2022 were made in China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240121/p9#a240121p9)
  - [iPad, iPad Air, iPad mini, iPad Pro: What to expect from Apple in 2024](https://appleinsider.com/articles/24/01/22/ipad-ipad-air-ipad-mini-ipad-pro-what-to-expect-from-apple-in-2024?utm_medium=rss)
- - [Best-Sounding Wireless Earbuds in 2024: Get Top Sound Quality     - CNET](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
- - [Architects are incorporating DALL-E, Midjourney, and other generative AI tools for complex design work, threatening the industry of professional illustrators &lpar;Edwin Heathcote/Financial Times&rpar;](http://www.techmeme.com/240121/p8#a240121p8)<!-- TECH:END -->
+ - [Best-Sounding Wireless Earbuds in 2024: Get Top Sound Quality     - CNET](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
