@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Built different](http://9gag.com/gag/az2nQMq)
- - ⏩ [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 👉 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)<!-- MEMES:END -->
+ - 💣 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/ajVpWjq)
+ - ⏩ [Digital delivery fee??? What for?](http://9gag.com/gag/a5X45Ro)
+ - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)<!-- MEMES:END -->
 
 ---
 
