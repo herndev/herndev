@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pays out nearly $13.7 million to Russia in anti-steering App Store lawsuit](https://appleinsider.com/articles/24/01/22/apple-pays-out-nearly-137-million-to-russia-in-anti-steering-app-store-lawsuit?utm_medium=rss)
- - [Sources: FTX sold 22M Grayscale Bitcoin Trust shares, worth nearly $1B, explaining the outflows after the SEC&#39;s ETF approval; BTC has tumbled since the approval &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240122/p9#a240122p9)
- - [The Razr Plus 2023 plunges $450 in limited-time deal](https://www.androidauthority.com/razr-plus-2023-deal-3406085/)<!-- TECH:END -->
+ - [Netflix’s Ripley seems ready to salt and burn the Earth in new trailer](https://www.theverge.com/24046846/ripley-netflix-trailer-andrew-scott)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
+ - [Motorola Razr Plus &lpar;2024&rpar; leak may give us first look at the new foldable](https://www.androidauthority.com/motorola-razr-2024-render-3406098/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
