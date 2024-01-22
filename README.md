@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get High Quality Pal Oil in Palworld](https://www.pcgamer.com/palworld-high-quality-pal-oil-location)
- - [Warhammer Fantasy is back—and now it&#39;s getting a new tabletop RPG too](https://www.pcgamer.com/warhammer-fantasy-is-backand-now-its-getting-a-new-tabletop-rpg-too)
- - [Little things that matter: Valve is making performance settings in its Steam Deck easier to understand](https://www.pcgamer.com/little-things-that-matter-valve-is-making-performance-settings-in-its-steam-deck-easier-to-understand)<!-- GAME:END -->
+ - [Eight Years Later, Final Fantasy&#39;s Best Ending Still Hits Hard](https://kotaku.com/final-fantasy-best-ending-ff15-ffxv-1851180289)
+ - [True Detective: Night Country is slowly starting to thaw its icy mystery](https://www.polygon.com/24044213/true-detective-night-country-episode-2-review-corpsicle)
+ - [How to get High Quality Pal Oil in Palworld](https://www.pcgamer.com/palworld-high-quality-pal-oil-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
