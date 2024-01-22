@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Austin Butler’s new show, The Bachelor, and more TV to watch this week](https://www.polygon.com/2024/1/22/24024307/new-tv-austin-butler-netflix-apple-bachelor-best-to-watch)
- - [Steam’s pirates vs. ninjas sale kicks off today](https://www.polygon.com/deals/2024/1/22/24046823/steam-sale-pirates-vs-ninjas)
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240118-2200&rpar;](https://news.xbox.com/en-us/2024/01/22/xbox-insider-release-notes-alpha-2402-240118-2200/)<!-- GAME:END -->
+ - [CD Projekt Red is ramping up production on The Witcher 4, and of course it&#39;s looking into using AI](https://www.pcgamer.com/cd-projekt-red-is-ramping-up-production-on-the-witcher-4-and-of-course-its-looking-into-using-ai)
+ - [The Week In Games: Brawling Bears, Soulful Gangsters, And More New Releases](https://kotaku.com/january-games-this-week-tekken-8-like-a-dragon-howl-1851185888)
+ - [Embracer-owned Elex studio Piranha Bytes is trying to save itself from closure: &#39;Don&#39;t write us off yet&#39;](https://www.pcgamer.com/embracer-owned-elex-studio-piranha-bytes-is-trying-to-save-itself-from-closure-dont-write-us-off-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
