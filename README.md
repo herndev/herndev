@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is working on its own version of Android’s Quick Share feature](https://www.androidauthority.com/whatsapp-nearby-share-3405992/)
- - [Apple sold 160K to 180K Vision Pro units during the first pre-order weekend; unchanged shipping times after first 48 hours suggest the demand tapered off &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240122/p2#a240122p2)
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)<!-- TECH:END -->
+ - [British Library hack lessons for the UK: ransomware is a national security issue, a national response is required, policy mitigations are available, and more &lpar;Ciaran Martin/Ciaran&#39;s Crispy Cogitations&rpar;](http://www.techmeme.com/240122/p3#a240122p3)
+ - [Apple’s Spring 2024 event could bring these new iPads and MacBooks](https://www.androidauthority.com/apple-spring-2024-event-new-ipads-macbooks-3405999/)
+ - [WhatsApp is working on its own version of Android’s Quick Share feature](https://www.androidauthority.com/whatsapp-nearby-share-3405992/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
