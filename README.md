@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC says the January 9 hack of its X account was via a SIM swap attack to reset its password; it had disabled 2FA in July 2023 over account access issues &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240122/p18#a240122p18)
- - [iOS 17.3: Stolen Device Protection and More Land on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-stolen-device-protection-and-more-land-on-your-iphone/#ftag=CAD590a51e)
- - [Sierra Space blew up its inflatable space habitat — and that’s a good thing](https://www.theverge.com/2024/1/22/24047219/sierra-space-inflatable-habitat-test-nasa)<!-- TECH:END -->
+ - [The US Postal Service’s new EV chargers are here](https://www.theverge.com/2024/1/22/24046897/usps-postal-service-electric-vehicle-charging-event)
+ - [Circle to Search is available on Pixel phones right now if you follow these steps](https://www.androidauthority.com/circle-to-search-on-pixel-3406406/)
+ - [Google Pixel 8 &lpar;128GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/razr-5g-256gb-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
