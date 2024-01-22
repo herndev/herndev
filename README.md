@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eight Years Later, Final Fantasy&#39;s Best Ending Still Hits Hard](https://kotaku.com/final-fantasy-best-ending-ff15-ffxv-1851180289)
- - [True Detective: Night Country is slowly starting to thaw its icy mystery](https://www.polygon.com/24044213/true-detective-night-country-episode-2-review-corpsicle)
- - [How to get High Quality Pal Oil in Palworld](https://www.pcgamer.com/palworld-high-quality-pal-oil-location)<!-- GAME:END -->
+ - [Google cops to what we all knew anyway—it&#39;s tracking everything you do in Incognito mode](https://www.pcgamer.com/google-cops-to-what-we-all-knew-anywayits-tracking-everything-you-do-in-incognito-mode)
+ - [Capcom&#39;s DRM patch just broke Monster Hunter Rise on Steam Deck](https://www.pcgamer.com/capcoms-drm-patch-just-broke-monster-hunter-rise-on-steam-deck)
+ - [Modders Have Already Put Actual Pokémon In Palworld](https://kotaku.com/palworld-pokemon-guns-mod-pikachu-ash-1851184776)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
