@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
- - [Palantir&#39;s revenue growth from US government contracts has slowed in recent quarters, as some agencies look at cheaper rivals and seek fewer data access limits &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p7#a240122p7)
- - [Which countries are getting the Snapdragon and Exynos variants of the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-vs-exynos-countries-3402659/)<!-- TECH:END -->
+ - [Apple’s sci-fi thriller Constellation gets haunting first trailer](https://www.theverge.com/24044578/constellation-trailer-apple-tv-plus)
+ - [iOS 18 Features: What to Expect in Apple&#39;s Next Major Software Update     - CNET](https://www.cnet.com/tech/mobile/ios-18-features-what-ro-expect-apples-next-major-update/#ftag=CAD590a51e)
+ - [Earbuds Buying Guide: Everything You Need to Know video     - CNET](https://www.cnet.com/videos/earbuds-buying-guide-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
