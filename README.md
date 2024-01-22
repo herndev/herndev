@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Flexport is raising $260M from Shopify, one of its biggest shareholders; Shopify sold its logistics business to Flexport in exchange for equity in 2023 &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/240119/p22#a240119p22)
- - [Microsoft ‘senior leadership’ emails accessed by Russian SolarWinds hackers](https://www.theverge.com/2024/1/19/24044561/microsoft-senior-leadership-emails-hack-russian-security-attack)
- - [Microsoft says Russia-linked group Midnight Blizzard hacked some employee emails beginning in November, including those of senior leadership in cybersecurity &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p21#a240119p21)<!-- TECH:END -->
+ - [Architects are incorporating DALL-E, Midjourney, and other generative AI tools for complex design work, threatening the industry of professional illustrators &lpar;Edwin Heathcote/Financial Times&rpar;](http://www.techmeme.com/240121/p8#a240121p8)
+ - [Chiefs vs. Bills Livestream: How to Watch NFL Divisional Round Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-bills-livestream-how-to-watch-nfl-divisional-round-game-online-today/#ftag=CAD590a51e)
+ - [Best Queen Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
