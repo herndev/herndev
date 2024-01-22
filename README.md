@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [Google Messages will soon fix this annoying RCS issue](https://www.androidauthority.com/google-messages-rcs-image-captions-3405986/)
- - [Chinese imports of chip making machines rose 14% YoY to ~$40B in 2023; lithography equipment imports from the Netherlands rose 1,000% YoY to $1.1B in December &lpar;James Mayger/Bloomberg&rpar;](http://www.techmeme.com/240122/p1#a240122p1)<!-- TECH:END -->
+ - [WhatsApp is working on its own version of Android’s Quick Share feature](https://www.androidauthority.com/whatsapp-nearby-share-3405992/)
+ - [Apple sold 160K to 180K Vision Pro units during the first pre-order weekend; unchanged shipping times after first 48 hours suggest the demand tapered off &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240122/p2#a240122p2)
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
