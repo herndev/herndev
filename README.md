@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [British Library hack lessons for the UK: ransomware is a national security issue, a national response is required, policy mitigations are available, and more &lpar;Ciaran Martin/Ciaran&#39;s Crispy Cogitations&rpar;](http://www.techmeme.com/240122/p3#a240122p3)
- - [Apple’s Spring 2024 event could bring these new iPads and MacBooks](https://www.androidauthority.com/apple-spring-2024-event-new-ipads-macbooks-3405999/)
- - [WhatsApp is working on its own version of Android’s Quick Share feature](https://www.androidauthority.com/whatsapp-nearby-share-3405992/)<!-- TECH:END -->
+ - [Apple sells up to 180,000 Apple Vision Pro, says Kuo](https://appleinsider.com/articles/24/01/22/apple-sells-up-to-180000-apple-vision-pro-says-kuo?utm_medium=rss)
+ - [ElevenLabs, which uses AI tools to create and edit synthetic voices, raised an $80M Series B co-led by a16z, Nat Friedman, and Daniel Gross at a $1B+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240122/p4#a240122p4)
+ - [British Library hack lessons for the UK: ransomware is a national security issue, a national response is required, policy mitigations are available, and more &lpar;Ciaran Martin/Ciaran&#39;s Crispy Cogitations&rpar;](http://www.techmeme.com/240122/p3#a240122p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
