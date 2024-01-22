@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - ⏩ [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 👉 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)<!-- MEMES:END -->
+ - 💣 [Need more time](http://9gag.com/gag/aPg5nKg)
+ - ⏩ [Reflex masters](http://9gag.com/gag/ajVpRZx)
+ - 👉 [Road trip](http://9gag.com/gag/aGEXbzw)<!-- MEMES:END -->
 
 ---
 
