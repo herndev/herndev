@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NCIS season 21: Release date and the latest rumors](https://www.androidauthority.com/ncis-season-21-release-date-3401417/)
- - [Apple Watch blood oxygen feature helps doctor save air passenger&#39;s life](https://appleinsider.com/articles/24/01/22/apple-watch-blood-oxygen-feature-helps-doctor-save-air-passengers-life?utm_medium=rss)
- - [Meta plans to let EU users unlink their Instagram and Facebook accounts, as well as other Meta services, ahead of the EU&#39;s DMA taking effect in March 2024 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240122/p6#a240122p6)<!-- TECH:END -->
+ - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
+ - [Palantir&#39;s revenue growth from US government contracts has slowed in recent quarters, as some agencies look at cheaper rivals and seek fewer data access limits &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p7#a240122p7)
+ - [Which countries are getting the Snapdragon and Exynos variants of the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-vs-exynos-countries-3402659/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
