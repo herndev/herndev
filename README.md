@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google cops to what we all knew anyway—it&#39;s tracking everything you do in Incognito mode](https://www.pcgamer.com/google-cops-to-what-we-all-knew-anywayits-tracking-everything-you-do-in-incognito-mode)
- - [Capcom&#39;s DRM patch just broke Monster Hunter Rise on Steam Deck](https://www.pcgamer.com/capcoms-drm-patch-just-broke-monster-hunter-rise-on-steam-deck)
- - [Modders Have Already Put Actual Pokémon In Palworld](https://kotaku.com/palworld-pokemon-guns-mod-pikachu-ash-1851184776)<!-- GAME:END -->
+ - [Palworld already has a Pokémon mod that lets you send beloved mascot Pikachu to the mines](https://www.pcgamer.com/palworld-already-has-a-pokemon-mod-that-lets-you-send-beloved-mascot-pikachu-to-the-mines)
+ - [The open beta of Nvidia&#39;s RTX Remix is ready to grab: Remaster your favourite old games to give them a massive graphics upgrade](https://www.pcgamer.com/the-open-beta-of-nvidias-rtx-remix-is-ready-to-grab-remaster-your-favourite-old-games-to-give-them-a-massive-graphics-upgrade)
+ - [British Army Planned To Use Fortnite In Recruitment Campaign [Update]](https://kotaku.com/fortnite-epic-british-army-elzthewitch-yungfilly1-1851184946)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
