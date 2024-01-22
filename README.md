@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - ⏩ [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
- - 👉 [Need more time](http://9gag.com/gag/aPg5nKg)<!-- MEMES:END -->
+ - 💣 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
+ - ⏩ [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 👉 [Built different](http://9gag.com/gag/az2nQMq)<!-- MEMES:END -->
 
 ---
 
