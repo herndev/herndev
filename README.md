@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Ripley seems ready to salt and burn the Earth in new trailer](https://www.theverge.com/24046846/ripley-netflix-trailer-andrew-scott)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
- - [Motorola Razr Plus &lpar;2024&rpar; leak may give us first look at the new foldable](https://www.androidauthority.com/motorola-razr-2024-render-3406098/)<!-- TECH:END -->
+ - [Months after pulling its Surviving Barstool series from YouTube over censorship claims, Barstool Sports announces a deal with Rumble; Rumble stock jumps 30%+ &lpar;Ben Axelrod/Awful Announcing&rpar;](http://www.techmeme.com/240122/p12#a240122p12)
+ - [Researchers: only 18 companies of 391 analyzed seem to have followed a NYC law that went into effect six months ago and requires disclosure of hiring algorithms &lpar;Lauren Weber/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p11#a240122p11)
+ - [Thread Group stops by, where are HomeKit routers &amp; more CES news on HomeKit Insider](https://appleinsider.com/articles/24/01/22/thread-group-stops-by-where-are-homekit-routers-more-ces-news-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
