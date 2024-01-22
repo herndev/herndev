@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
- - ⏩ [Dude, what did she expect](http://9gag.com/gag/aXnBdd6)
- - 👉 [Built different](http://9gag.com/gag/az2nQMq)<!-- MEMES:END -->
+ - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - ⏩ [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
 
 ---
 
