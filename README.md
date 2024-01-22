@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K’s Dark Angels are enjoying a golden age of new lore](https://www.polygon.com/tabletop-games/24046814/warhammer-40k-dark-angels-lore-codex-supplement-lion-risen)
- - [All the Invincible season 2 part 2 news we’ve heard so far](https://www.polygon.com/23972993/invincible-season-2-part-2-new-episodes-release-date-return-cast-news)
- - [New Deal Offers 8 Great Shooters For Just $10](https://kotaku.com/new-deal-fps-shooters-steam-pc-doom-quake-dusk-1851185295)<!-- GAME:END -->
+ - [Austin Butler’s new show, The Bachelor, and more TV to watch this week](https://www.polygon.com/2024/1/22/24024307/new-tv-austin-butler-netflix-apple-bachelor-best-to-watch)
+ - [Steam’s pirates vs. ninjas sale kicks off today](https://www.polygon.com/deals/2024/1/22/24046823/steam-sale-pirates-vs-ninjas)
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.240118-2200&rpar;](https://news.xbox.com/en-us/2024/01/22/xbox-insider-release-notes-alpha-2402-240118-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
