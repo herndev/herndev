@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get sulfur in Palworld](https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location)
- - [Report: Mr Beast Nearing $100 Million TV Deal With Amazon](https://kotaku.com/mrbeast-amazon-prime-tv-show-100-million-youtube-1851186509)
- - [Unpacking The ‘Pokémon With Guns’ Game Palworld And Its Controversies](https://kotaku.com/pokemon-palworld-ai-art-copyright-law-pocketpair-1851186580)<!-- GAME:END -->
+ - [Palworld list of Pals, types, and base skills](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
+ - [Diablo 4 season 3&#39;s most powerful new items all drop off of its least popular boss](https://www.pcgamer.com/diablo-4-season-3s-most-powerful-new-items-all-drop-off-of-its-least-popular-boss)
+ - [Happy birthday to DEBS, the gay Charlie’s Angels movie that’s still too obscure](https://www.polygon.com/24047001/debs-movie-gay-lesbian-charlies-angels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
