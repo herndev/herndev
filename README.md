@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/ajVpWjq)
- - ⏩ [Digital delivery fee??? What for?](http://9gag.com/gag/a5X45Ro)
- - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)<!-- MEMES:END -->
+ - 💣 [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
+ - ⏩ [Dude, what did she expect](http://9gag.com/gag/aXnBdd6)
+ - 👉 [Built different](http://9gag.com/gag/az2nQMq)<!-- MEMES:END -->
 
 ---
 
