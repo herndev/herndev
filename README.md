@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s sci-fi thriller Constellation gets haunting first trailer](https://www.theverge.com/24044578/constellation-trailer-apple-tv-plus)
- - [iOS 18 Features: What to Expect in Apple&#39;s Next Major Software Update     - CNET](https://www.cnet.com/tech/mobile/ios-18-features-what-ro-expect-apples-next-major-update/#ftag=CAD590a51e)
- - [Earbuds Buying Guide: Everything You Need to Know video     - CNET](https://www.cnet.com/videos/earbuds-buying-guide-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Glass-wearing surgeon excited by Apple Vision Pro for healthcare](https://appleinsider.com/articles/24/01/22/google-glass-wearing-surgeon-excited-by-apple-vision-pro-for-healthcare?utm_medium=rss)
+ - [Thread Group stops by, where are HomeKit routers &amp; more CES news on HomeKit Insider](https://appleinsider.com/articles/24/01/22/thread-group-stops-by-where-are-homekit-routers-more-ces-news-on-homekit-insider?utm_medium=rss)
+ - [Apple TV+ shares trailer for sci-fi series &#39;Constellation&#39; ahead of series premiere](https://appleinsider.com/articles/24/01/22/apple-tv-shares-trailer-for-sci-fi-series-constellation-ahead-of-series-premiere?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
