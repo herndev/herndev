@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reflex masters](http://9gag.com/gag/ajVpRZx)
- - ⏩ [Need more time](http://9gag.com/gag/aPg5nKg)
- - 👉 [Road trip](http://9gag.com/gag/aGEXbzw)<!-- MEMES:END -->
+ - 💣 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
+ - ⏩ [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
 
 ---
 
