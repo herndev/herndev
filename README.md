@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
- - ⏩ [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 👉 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)<!-- MEMES:END -->
+ - 💣 [Built different](http://9gag.com/gag/az2nQMq)
+ - ⏩ [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
+ - 👉 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)<!-- MEMES:END -->
 
 ---
 
