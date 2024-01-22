@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How True Detective: Night Country got its ghastly ‘corpsicle’ just right](https://www.polygon.com/24044284/true-detective-night-country-corpsicle-dead-frozen-bodies-mystery-ice)
- - [The most popular character name on D&amp;D Beyond is still &#39;Bob&#39;](https://www.pcgamer.com/the-most-popular-character-name-on-dandd-beyond-is-still-bob)
- - [Five new Steam games you probably missed &lpar;January 22, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-22-2024)<!-- GAME:END -->
+ - [What’s up with all these season 1 references in True Detective: Night Country?](https://www.polygon.com/24043472/true-detective-night-country-season-1-easter-eggs-breakdown)
+ - [I never knew I wanted to be able to trap monsters in bubbles and watch them float away until I tried the demo for this upcoming magical FPS](https://www.pcgamer.com/i-never-knew-i-wanted-to-be-able-to-trap-monsters-in-bubbles-and-watch-them-float-away-until-i-tried-the-demo-for-this-upcoming-magical-fps)
+ - [How True Detective: Night Country got its ghastly ‘corpsicle’ just right](https://www.polygon.com/24044284/true-detective-night-country-corpsicle-dead-frozen-bodies-mystery-ice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
