@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s new in-car experience is built around the Play Store and Android Auto](https://www.androidauthority.com/ford-car-experience-android-play-store-3406252/)
- - [&#39;Palworld&#39;: 6 Beginner Tips for Getting Started](https://www.wired.com/story/palworld-tips/)
- - [Motorola’s flip-style Razr Plus is on sale for nearly half off right now](https://www.theverge.com/2024/1/22/24046785/motorola-razr-plus-amazon-echo-show-8-beats-studio-buds-deal-sale)<!-- TECH:END -->
+ - [You’ll be able to watch The Marvels on Disney Plus very soon](https://www.theverge.com/2024/1/22/24047147/the-marvels-disney-plus-streaming-availability)
+ - [Apple will pay up to 10% more per play in Apple Music royalties for tracks where a Spatial Audio version is available, starting with January&#39;s payouts &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240122/p16#a240122p16)
+ - [Samsung confirms its Dolby Atmos competitor will arrive in 2024](https://www.androidauthority.com/samsung-3d-audio-2024-3406289/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
