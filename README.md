@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Naughty boy](http://9gag.com/gag/aPg58rG)
- - ⏩ [Audi owners during those 5 days a year when there is snow](http://9gag.com/gag/amA3xL2)
- - 👉 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)<!-- MEMES:END -->
+ - 💣 [Built different](http://9gag.com/gag/az2nQMq)
+ - ⏩ [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 👉 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)<!-- MEMES:END -->
 
 ---
 
