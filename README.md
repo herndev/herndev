@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Glass-wearing surgeon excited by Apple Vision Pro for healthcare](https://appleinsider.com/articles/24/01/22/google-glass-wearing-surgeon-excited-by-apple-vision-pro-for-healthcare?utm_medium=rss)
- - [Thread Group stops by, where are HomeKit routers &amp; more CES news on HomeKit Insider](https://appleinsider.com/articles/24/01/22/thread-group-stops-by-where-are-homekit-routers-more-ces-news-on-homekit-insider?utm_medium=rss)
- - [Apple TV+ shares trailer for sci-fi series &#39;Constellation&#39; ahead of series premiere](https://appleinsider.com/articles/24/01/22/apple-tv-shares-trailer-for-sci-fi-series-constellation-ahead-of-series-premiere?utm_medium=rss)<!-- TECH:END -->
+ - [Apple pays out nearly $13.7 million to Russia in anti-steering App Store lawsuit](https://appleinsider.com/articles/24/01/22/apple-pays-out-nearly-137-million-to-russia-in-anti-steering-app-store-lawsuit?utm_medium=rss)
+ - [Sources: FTX sold 22M Grayscale Bitcoin Trust shares, worth nearly $1B, explaining the outflows after the SEC&#39;s ETF approval; BTC has tumbled since the approval &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240122/p9#a240122p9)
+ - [The Razr Plus 2023 plunges $450 in limited-time deal](https://www.androidauthority.com/razr-plus-2023-deal-3406085/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
