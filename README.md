@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
- - ⏩ [Need more time](http://9gag.com/gag/aPg5nKg)
- - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
+ - 💣 [Meme origin](http://9gag.com/gag/aL1xbdP)
+ - ⏩ [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)
+ - 👉 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)<!-- MEMES:END -->
 
 ---
 
