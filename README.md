@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The acclaimed Hellblade: Senua&#39;s Sacrifice, a game with over 52,000 &#39;Very Positive&#39; reviews on Steam, is now cheaper than a coffee thanks to this massive price cut](https://www.pcgamer.com/the-multiple-award-winning-hellblade-senuas-sacrifice-a-game-with-over-52000-very-positive-reviews-on-steam-is-now-cheaper-than-a-cup-of-coffee-thanks-to-this-massive-90-price-cut)
- - [Baldur&#39;s Gate 3 speedrunner reverse-pickpockets a boss to teleport to the dev room, defeats another boss with &#39;Shadowbear&#39;](https://www.pcgamer.com/baldurs-gate-3-speedrunner-reverse-pickpockets-a-boss-to-teleport-to-the-dev-room-defeats-a-boss-with-shadowbear)
- - [Wordle today: Hint and answer #947 for Monday, January 22](https://www.pcgamer.com/wordle-today-answer-947-january-22)<!-- GAME:END -->
+ - [Palworld&#39;s developers are currently trying to fix a game-wrecking bug that permanently nerfs your character](https://www.pcgamer.com/palworlds-developers-are-currently-trying-to-fix-a-game-wrecking-bug-that-permanently-nerfs-your-character)
+ - [Where to find wheat seeds in Palworld](https://www.pcgamer.com/palworld-wheat-seeds-location)
+ - [The acclaimed Hellblade: Senua&#39;s Sacrifice, a game with over 52,000 &#39;Very Positive&#39; reviews on Steam, is now cheaper than a coffee thanks to this massive price cut](https://www.pcgamer.com/the-multiple-award-winning-hellblade-senuas-sacrifice-a-game-with-over-52000-very-positive-reviews-on-steam-is-now-cheaper-than-a-cup-of-coffee-thanks-to-this-massive-90-price-cut)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
