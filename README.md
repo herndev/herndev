@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld already has a Pokémon mod](https://www.polygon.com/24047136/palworld-pokemon-mod-release-toastedshoes)
- - [How the Azerothian Archives event works in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-azerothian-archives)
- - [Diving Deeper into the World of Avowed](https://news.xbox.com/en-us/2024/01/22/avowed-developer-direct-side-quest-deep-dive/)<!-- GAME:END -->
+ - [How to get sulfur in Palworld](https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location)
+ - [Report: Mr Beast Nearing $100 Million TV Deal With Amazon](https://kotaku.com/mrbeast-amazon-prime-tv-show-100-million-youtube-1851186509)
+ - [Unpacking The ‘Pokémon With Guns’ Game Palworld And Its Controversies](https://kotaku.com/pokemon-palworld-ai-art-copyright-law-pocketpair-1851186580)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
