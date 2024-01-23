@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X adds support for passkeys for US-based iOS users; the announcement comes shortly after the hack of the US SEC&#39;s X account &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240123/p28#a240123p28)
- - [Netflix says it&#39;s looking to retire its ad-free Basic plan in some countries where ad-supported plans are available, starting with Canada and the UK in Q2 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240123/p27#a240123p27)
- - [Filing: Google is terminating its contract with data-labeling firm Appen, effective March 19; Google accounted for $82.8M of Appen&#39;s $273M revenue in 2023 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240123/p26#a240123p26)<!-- TECH:END -->
+ - [SAP plans voluntary buyouts or job changes for 8,000 employees as part of a 2024 restructuring program but says its headcount should remain the same &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240123/p31#a240123p31)
+ - [Netflix dropping Basic ads-free tier, forcing users to choose different, more profitable tier](https://appleinsider.com/articles/24/01/23/netflix-dropping-basic-ads-free-tier-forcing-users-to-choose-different-more-profitable-tier?utm_medium=rss)
+ - [Alleged renders of Google&#39;s Pixel 9 Pro show a ~6.5-inch display, smaller than the Pixel 8 Pro&#39;s, a refreshed camera island with three cameras, and a flat frame &lpar;Basith Rahman P P/MySmartPrice&rpar;](http://www.techmeme.com/240123/p30#a240123p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
