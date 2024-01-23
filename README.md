@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Palworld accusations are currently based on vibes, a social deduction game, and the CEO&#39;s past tweets about machine-generated fakémon](https://www.pcgamer.com/ai-palworld-accusations-are-currently-based-on-vibes-a-social-deduction-game-and-the-ceos-past-tweets-about-machine-generated-fakemon)
- - [Palworld players discover you can kidnap and sell humans just like pals, although you will be warned it&#39;s not very polite](https://www.pcgamer.com/palworld-players-discover-you-can-kidnap-and-sell-humans-just-like-pals-although-you-will-be-warned-its-not-very-polite)
- - [GitHub has a copy of every open source project in its database during 2020 located deep inside a frozen mine](https://www.pcgamer.com/github-has-a-copy-of-every-open-source-project-in-its-database-during-2020-located-deep-inside-a-frozen-mine)<!-- GAME:END -->
+ - [Tekken 8 Is the Bombastic Return You Want It To Be](https://news.xbox.com/en-us/2024/01/23/tekken-8-is-the-bombastic-return-you-want-it-to-be/)
+ - [Tekken 8 is a great Tekken game, but that might not be enough](https://www.polygon.com/reviews/24046939/tekken-8-review-heat-story-fighting-games)
+ - [Robert Downey Jr. proves we didn’t run out of real movie stars, we ran out of real movies](https://www.polygon.com/24047285/robert-downey-jr-oscars-2024-nomination-oppenheimer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
