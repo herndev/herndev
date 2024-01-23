@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12R is the practical flagship that the US has been waiting for](https://www.androidauthority.com/oneplus-12r-3406489/)
- - [TurboTax isn’t allowed to say it’s ‘free’ anymore](https://www.theverge.com/2024/1/23/24047807/turbotax-misleading-advertising-free-tax-file-ftc-final-order)
- - [Can private companies carry NASA back to the Moon?](https://www.theverge.com/2024/1/23/24047818/nasa-moon-landing-private-missions-failure-astrobotic-spacex)<!-- TECH:END -->
+ - [Samsung’s self-repair program expands to 50 devices, adds home entertainment](https://www.androidauthority.com/samsung-self-repair-program-expansion-3406681/)
+ - [Sources: the Biden admin preps an EO that aims to restrict the flow of sensitive data through intermediaries, like data brokers, to foreign countries like China &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/240123/p16#a240123p16)
+ - [Oscars 2024: Oppenheimer, Poor Things, and Killers of the Flower Moon are the ones to watch](https://www.theverge.com/2024/1/23/24047370/oscars-2024-nominations-academy-awards-list)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
