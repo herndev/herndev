@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GitHub has a copy of every open source project in its database during 2020 located deep inside a frozen mine](https://www.pcgamer.com/github-has-a-copy-of-every-open-source-project-in-its-database-during-2020-located-deep-inside-a-frozen-mine)
- - [Can Barboach be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24046877/can-barboach-be-shiny-whiscash)
- - [Wordle today: Hint and answer #948 for Tuesday, January 23](https://www.pcgamer.com/wordle-today-answer-948-january-23)<!-- GAME:END -->
+ - [AI Palworld accusations are currently based on vibes, a social deduction game, and the CEO&#39;s past tweets about machine-generated fakémon](https://www.pcgamer.com/ai-palworld-accusations-are-currently-based-on-vibes-a-social-deduction-game-and-the-ceos-past-tweets-about-machine-generated-fakemon)
+ - [Palworld players discover you can kidnap and sell humans just like pals, although you will be warned it&#39;s not very polite](https://www.pcgamer.com/palworld-players-discover-you-can-kidnap-and-sell-humans-just-like-pals-although-you-will-be-warned-its-not-very-polite)
+ - [GitHub has a copy of every open source project in its database during 2020 located deep inside a frozen mine](https://www.pcgamer.com/github-has-a-copy-of-every-open-source-project-in-its-database-during-2020-located-deep-inside-a-frozen-mine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
