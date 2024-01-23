@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Barboach be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24046877/can-barboach-be-shiny-whiscash)
  - [Wordle today: Hint and answer #948 for Tuesday, January 23](https://www.pcgamer.com/wordle-today-answer-948-january-23)
- - [How to set up a dedicated server in Palworld](https://www.pcgamer.com/palworld-dedicated-server)
- - [Dragon&#39;s Dogma 2&#39;s director didn&#39;t want his game to rely on fast travel: &#39;Travel is boring? That&#39;s not true. It&#39;s only an issue because your game is boring&#39;](https://www.pcgamer.com/dragons-dogma-2s-director-didnt-want-his-game-to-rely-on-fast-travel-travel-is-boring-thats-not-true-its-only-an-issue-because-your-game-is-boring)<!-- GAME:END -->
+ - [How to set up a dedicated server in Palworld](https://www.pcgamer.com/palworld-dedicated-server)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
