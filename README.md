@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Figma is refreshing employee equity packages and offering buyouts as the company resets its valuation to $10B from $20B, after the scrapped Adobe deal &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240123/p18#a240123p18)
- - [Netflix’s new Avatar: The Last Airbender trailer has cute critters and dramatic battles](https://www.theverge.com/24047888/avatar-the-last-airbender-trailer-netflix)
- - [Surprisingly, scientists decline to move the Doomsday Clock closer to midnight](https://www.theverge.com/2024/1/23/24047902/doomsday-clock-artificial-intelligence-nuclear-war-climate-change-bulletin-atomic-scientists)<!-- TECH:END -->
+ - [LG’s discounted C3 OLED TVs come with up to $200 in gift cards](https://www.theverge.com/2024/1/23/24045385/lg-c3-oled-tv-dreametech-d10-plus-deal-elgato-stream-deck-xl-deal-sale)
+ - [Death Stranding comes to life on iPhone and Mac next week](https://www.theverge.com/2024/1/23/24048023/death-stranding-kojima-mac-iphone-apple-gaming)
+ - [Source: Brex told employees it is cutting 282 jobs, or about 20% of its staff, saying it grew too quickly and its CTO and COO are giving up their positions &lpar;The Information&rpar;](http://www.techmeme.com/240123/p21#a240123p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
