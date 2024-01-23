@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s self-repair program expands to 50 devices, adds home entertainment](https://www.androidauthority.com/samsung-self-repair-program-expansion-3406681/)
- - [Sources: the Biden admin preps an EO that aims to restrict the flow of sensitive data through intermediaries, like data brokers, to foreign countries like China &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/240123/p16#a240123p16)
- - [Oscars 2024: Oppenheimer, Poor Things, and Killers of the Flower Moon are the ones to watch](https://www.theverge.com/2024/1/23/24047370/oscars-2024-nominations-academy-awards-list)<!-- TECH:END -->
+ - [Sources: Figma is refreshing employee equity packages and offering buyouts as the company resets its valuation to $10B from $20B, after the scrapped Adobe deal &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240123/p18#a240123p18)
+ - [Netflix’s new Avatar: The Last Airbender trailer has cute critters and dramatic battles](https://www.theverge.com/24047888/avatar-the-last-airbender-trailer-netflix)
+ - [Surprisingly, scientists decline to move the Doomsday Clock closer to midnight](https://www.theverge.com/2024/1/23/24047902/doomsday-clock-artificial-intelligence-nuclear-war-climate-change-bulletin-atomic-scientists)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
