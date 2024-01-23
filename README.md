@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s gaming regulator takes down draft rules, published in December to set spending limits and ban daily login rewards in online games; Tencent rose 6%+ &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240122/p27#a240122p27)
- - [HP says updates bricking printers with third-party cartridges protect users from possible embedded viruses, but security experts deem such a threat theoretical &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240122/p26#a240122p26)
- - [How to use Stolen Device Protection](https://appleinsider.com/articles/24/01/23/how-to-use-stolen-device-protection?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Palworld, a Pok&amp;eacute;mon-like game launched on January 19, which has sold 5M+ copies and is currently the most played game on Steam, amid plagiarism claims &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240123/p1#a240123p1)
+ - [OnePlus 12 global launch today: How to watch livestream and what to expect](https://www.androidauthority.com/oneplus-12-global-launch-how-to-watch-livestream-what-to-expect-3406508/)
+ - [China&#39;s gaming regulator takes down draft rules, published in December to set spending limits and ban daily login rewards in online games; Tencent rose 6%+ &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240122/p27#a240122p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
