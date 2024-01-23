@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad: Kill the Justice League reveals its first season, featuring a playable Joker from another universe—a camp, insecure 20-something with a rocket umbrella](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-reveals-its-first-season-featuring-a-playable-joker-from-another-universea-camp-insecure-20-something-with-a-rocket-umbrella)
- - [Former Pokémon legal chief says Palworld &#39;looks like the usual ripoff nonsense I would see a thousand times a year &#39; and he&#39;s &#39;surprised it got this far&#39;](https://www.pcgamer.com/former-pokemon-legal-chief-says-palworld-looks-like-the-usual-ripoff-nonsense-i-would-see-a-thousand-times-a-year-and-hes-surprised-it-got-this-far)
- - [Palworld Pokémon mod creator hit with copyright takedown](https://www.polygon.com/24047136/palworld-pokemon-mod-release-toastedshoes)<!-- GAME:END -->
+ - [Diablo IV Season of the Construct: Diving into the Lore Behind the Sinister Zoltun Kulle](https://news.xbox.com/en-us/2024/01/23/diablo-iv-season-of-the-construct/)
+ - [The best actual play of 2023 includes Dimension 20, DesiQuest, and more](https://www.polygon.com/24044210/best-actual-play-2023)
+ - [Princess Peach: Showtime Reveals Ninja Peach And Pastel Pink Joy-Cons](https://kotaku.com/princess-peach-showtime-nintendo-trailer-pink-joy-cons-1851189224)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
