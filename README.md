@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Digital delivery fee??? What for?](http://9gag.com/gag/a5X45Ro)
- - ⏩ [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
- - 👉 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)<!-- MEMES:END -->
+ - 💣 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - ⏩ [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
+ - 👉 [13 year old boy schools adults on national TV \ud83e\udee5](http://9gag.com/gag/aMEgDzV)<!-- MEMES:END -->
 
 ---
 
