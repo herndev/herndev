@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Déjà vu: Google Pixel storage bug returns for many after January update](https://www.androidauthority.com/google-pixel-storage-bug-january-2024-update-3406520/)
- - [A look at the challenges Amazon Prime Video faces as it plans to show ads, including attracting large brands that don&#39;t already sell products on Amazon &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/240123/p2#a240123p2)
- - [‘Photo Stacks’ in Google Photos for Android now rolling out more widely](https://www.androidauthority.com/google-photos-android-photo-stacks-availability-3406512/)<!-- TECH:END -->
+ - [Sources: Byju&#39;s plans to raise more than $100M from existing investors at a less than $2B valuation, down more than 90% from $22B in October 2022 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/240123/p5#a240123p5)
+ - [French&#39;s CNIL fines Amazon France Logistique $35M for an &quot;excessively intrusive&quot; surveillance system set up to monitor the performance of its staff &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240123/p4#a240123p4)
+ - [Filing: Vietnam-based internet company VNG withdraws its registration for a US IPO, after postponing it in September 2023, saying it will register in the future &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p3#a240123p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
