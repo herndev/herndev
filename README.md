@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams is making it easier to control your webcam and audio during meetings](https://www.theverge.com/2024/1/23/24048233/microsoft-teams-webcam-audio-adjustment-feature-meetings)
- - [Apple Car is delayed once again, now expected to arrive by 2028 at the earliest](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)
- - [Framework Laptop 16 review: the modular system offers unprecedented customization, is competent at mid-range gaming, but ran hot, froze, and glitched in testing &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240123/p23#a240123p23)<!-- TECH:END -->
+ - [The Pixel 9 leaks are already here](https://www.theverge.com/2024/1/23/24048246/pixel-9-pro-leak-specs-google)
+ - [Nintendo goes after the Palworld Pokémon modder](https://www.theverge.com/2024/1/23/24047854/nintendo-palworld-pokemon-mod-youtube-dmca)
+ - [The TORRAS OStand Stand Case brings more than just protection for the Galaxy S24 series](https://www.androidauthority.com/torras-ostand-guardian-matte-stand-case-samsung-galaxy-s24-3405375/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
