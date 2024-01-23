@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Rabbit CEO Jesse Lyu about the R1&#39;s design, collaboration with Teenage Engineering, why he didn&#39;t want to make an app, and more &lpar;Mark Wilson/Fast Company&rpar;](http://www.techmeme.com/240123/p8#a240123p8)
- - [Native Apple Vision Pro apps few and far between at launch](https://appleinsider.com/articles/24/01/23/native-apple-vision-pro-apps-few-and-far-between-at-launch?utm_medium=rss)
- - [MIT CSAIL study: only 23% of US wages paid to humans for doing vision tasks would be economically attractive to automate with AI, due to large upfront costs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240123/p7#a240123p7)<!-- TECH:END -->
+ - [Lack of Web Push Notifications may mean fewer Apple Vision Pro interruptions](https://appleinsider.com/articles/24/01/23/lack-of-web-push-notifications-may-mean-fewer-apple-vision-pro-interruptions?utm_medium=rss)
+ - [Why Apple Vision Pro in 2024 won&#39;t be like 1984](https://appleinsider.com/articles/24/01/23/why-apple-vision-pro-in-2024-wont-be-like-1984?utm_medium=rss)
+ - [A bug in Ethereum&#39;s Nethermind client took down 8% of Ethereum&#39;s validators on January 21, raising concerns about Geth, which powers ~85% of the validators &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240123/p10#a240123p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
