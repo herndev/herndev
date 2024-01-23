@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld list of Pals, types, and base skills](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
- - [Diablo 4 season 3&#39;s most powerful new items all drop off of its least popular boss](https://www.pcgamer.com/diablo-4-season-3s-most-powerful-new-items-all-drop-off-of-its-least-popular-boss)
- - [Happy birthday to DEBS, the gay Charlie’s Angels movie that’s still too obscure](https://www.polygon.com/24047001/debs-movie-gay-lesbian-charlies-angels)<!-- GAME:END -->
+ - [Riot lays off 530 employees, will close Riot Forge: &#39;We&#39;re not doing this to appease shareholders or to hit some quarterly earnings number,&#39; says CEO](https://www.pcgamer.com/riot-games-layoffs-2024)
+ - [Palworld accused of copying Pokémon models, developer pushes back, says artists are being slandered](https://www.pcgamer.com/palworld-accused-of-copying-pokemon-models-developer-pushes-back-says-artists-are-being-slandered)
+ - [Palworld list of Pals, types, and base skills](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
