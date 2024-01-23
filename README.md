@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Photo Stacks’ in Google Photos for Android now rolling out more widely](https://www.androidauthority.com/google-photos-android-photo-stacks-availability-3406512/)
- - [A look at Palworld, a Pok&amp;eacute;mon-like game launched on January 19, which has sold 5M+ copies and is currently the most played game on Steam, amid plagiarism claims &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240123/p1#a240123p1)
- - [OnePlus 12 global launch today: How to watch livestream and what to expect](https://www.androidauthority.com/oneplus-12-global-launch-how-to-watch-livestream-what-to-expect-3406508/)<!-- TECH:END -->
+ - [Déjà vu: Google Pixel storage bug returns for many after January update](https://www.androidauthority.com/google-pixel-storage-bug-january-2024-update-3406520/)
+ - [A look at the challenges Amazon Prime Video faces as it plans to show ads, including attracting large brands that don&#39;t already sell products on Amazon &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/240123/p2#a240123p2)
+ - [‘Photo Stacks’ in Google Photos for Android now rolling out more widely](https://www.androidauthority.com/google-photos-android-photo-stacks-availability-3406512/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
