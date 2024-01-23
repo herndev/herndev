@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Season of the Construct: Diving into the Lore Behind the Sinister Zoltun Kulle](https://news.xbox.com/en-us/2024/01/23/diablo-iv-season-of-the-construct/)
- - [The best actual play of 2023 includes Dimension 20, DesiQuest, and more](https://www.polygon.com/24044210/best-actual-play-2023)
- - [Princess Peach: Showtime Reveals Ninja Peach And Pastel Pink Joy-Cons](https://kotaku.com/princess-peach-showtime-nintendo-trailer-pink-joy-cons-1851189224)<!-- GAME:END -->
+ - [Overwatch 2 Esports Is So Back, Baby](https://kotaku.com/overwatch-champions-series-owcs-owl-esports-dreamhack-1851189732)
+ - [Xbox Insider Release Notes – Delta &lpar;2402.240118-2200&rpar;](https://news.xbox.com/en-us/2024/01/23/xbox-insider-release-notes-delta-2402-240118-2200/)
+ - [Did Greta Gerwig get snubbed at the Oscars because Barbie is the year’s Dark Knight?](https://www.polygon.com/24047870/barbie-greta-gerwig-oscar-nominations-snub)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
