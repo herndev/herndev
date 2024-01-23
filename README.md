@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
- - ⏩ [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)
- - 👉 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)<!-- MEMES:END -->
+ - 💣 [Playing the long game](http://9gag.com/gag/a3ZmePm)
+ - ⏩ [Poor man named the ones who can&#39;t be named](http://9gag.com/gag/a6qP3xm)
+ - 👉 [Over 7,000 languages in the world and this man chose to speak facts](http://9gag.com/gag/armY9V5)<!-- MEMES:END -->
 
 ---
 
