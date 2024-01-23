@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like a Dragon: Infinite Wealth takes 8 hours to get started, but it’s worth it](https://www.polygon.com/24047430/like-a-dragon-infinite-wealth-review-pc-xbox-ps5)
- - [This Bed We Made review](https://www.pcgamer.com/this-bed-we-made-review)
- - [The state of FF14 going into 2024: Endwalker&#39;s post-launch experiments proved a failure—still, there&#39;s never been a better time to get started](https://www.pcgamer.com/the-state-of-ff14-going-into-2024-endwalkers-post-launch-experiments-proved-a-failurestill-theres-never-been-a-better-time-to-get-started)<!-- GAME:END -->
+ - [Sea of Thieves Dives Into Season 11](https://www.seaofthieves.com/news/season-11-launch#new_tab)
+ - [Obsidian&#39;s next big RPG Avowed is looking to Vermintide&#39;s &#39;masterclass in having a sense of hitting and impact&#39; to make its first-person sword-swinging feel weighty](https://www.pcgamer.com/obsidians-next-big-rpg-avowed-is-looking-to-vermintides-masterclass-in-having-a-sense-of-hitting-and-impact-to-make-its-first-person-sword-swinging-feel-weighty)
+ - [Where to find the Black Marketeer to buy and sell Pals in Palworld](https://www.pcgamer.com/palworld-black-marketeer-buy-sell-pals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
