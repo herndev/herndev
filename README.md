@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
- - ⏩ [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
- - 👉 [13 year old boy schools adults on national TV \ud83e\udee5](http://9gag.com/gag/aMEgDzV)<!-- MEMES:END -->
+ - 💣 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
+ - ⏩ [What happened to law and order](http://9gag.com/gag/a5X4DVo)
+ - 👉 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)<!-- MEMES:END -->
 
 ---
 
