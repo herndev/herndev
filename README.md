@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple pivots to a less ambitious design for its upcoming EV, from Level 4 autonomy to Level 2+, and expects a 2028 launch or later, instead of 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240123/p22#a240123p22)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [What NPR’s new podcast chief learned from the mess at Gimlet](https://www.theverge.com/2024/1/23/24048118/npr-gimlet-collin-campbell-spotify-throughline-israel-story)<!-- TECH:END -->
+ - [Microsoft Teams is making it easier to control your webcam and audio during meetings](https://www.theverge.com/2024/1/23/24048233/microsoft-teams-webcam-audio-adjustment-feature-meetings)
+ - [Apple Car is delayed once again, now expected to arrive by 2028 at the earliest](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)
+ - [Framework Laptop 16 review: the modular system offers unprecedented customization, is competent at mid-range gaming, but ran hot, froze, and glitched in testing &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240123/p23#a240123p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
