@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple tells artists how much more money they can make with spatial audio](https://www.theverge.com/2024/1/22/24047461/apple-music-spatial-audio-royalties-dolby-atmos-streaming)
  - [Australia sanctions a Russian hacker over his role in the October 2022 hack of health insurer Medibank, marking the first use of its cyber sanctions laws &lpar;Tom Crowley/ABC&rpar;](http://www.techmeme.com/240122/p24#a240122p24)
- - [Mortgage lender loanDepot says &quot;sensitive personal information&quot; of ~16.6M people was stolen in a January 6 ransomware attack that shut down some of its systems &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240122/p23#a240122p23)
- - [Samsung is exploring the development of noninvasive glucose monitoring and blood pressure checking, as part of a push to put health features in various devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/240122/p22#a240122p22)<!-- TECH:END -->
+ - [Best Mattress Deals: Big Savings on Top Mattress Brands     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
