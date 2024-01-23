@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
- - ⏩ [Chair in Croatia 218 euros, average income 1200 euros Chair in Germany 99 euros, average income 3200 euros](http://9gag.com/gag/a3Zme2N)
- - 👉 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)<!-- MEMES:END -->
+ - 💣 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - ⏩ [What happened to law and order](http://9gag.com/gag/a5X4DVo)
+ - 👉 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)<!-- MEMES:END -->
 
 ---
 
