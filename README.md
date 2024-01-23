@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Their white people meetings have made a difference](http://9gag.com/gag/awZw9b4)
- - ⏩ [Do we all go through this](http://9gag.com/gag/aQEGDPK)
- - 👉 [Poor man named the ones who can&#39;t be named](http://9gag.com/gag/a6qP3xm)<!-- MEMES:END -->
+ - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - ⏩ [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
+ - 👉 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)<!-- MEMES:END -->
 
 ---
 
