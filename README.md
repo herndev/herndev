@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Viral Toaster Stunt Guy Banned From Twitch For 30 Days](https://kotaku.com/toaster-challenge-fork-stunt-guy-twitch-streamer-banned-1851189959)
- - [Overwatch 2 Esports Is So Back, Baby](https://kotaku.com/overwatch-champions-series-owcs-owl-esports-dreamhack-1851189732)
- - [Xbox Insider Release Notes – Delta &lpar;2402.240118-2200&rpar;](https://news.xbox.com/en-us/2024/01/23/xbox-insider-release-notes-delta-2402-240118-2200/)<!-- GAME:END -->
+ - [Palworld multiplayer: how to join your friends online](https://www.pcgamer.com/palworld-multiplayer-coop)
+ - [How to get wheat seeds in Palworld](https://www.polygon.com/palworld-guides/24048179/how-to-get-wheat-seeds-pal-drops-dinossom)
+ - [Immortality developer Sam Barlow teases 2 new projects on Steam, and one of them is survival horror](https://www.pcgamer.com/immortality-developer-sam-barlow-teases-2-new-projects-on-steam-and-one-of-them-is-survival-horror)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
