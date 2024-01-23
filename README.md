@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld multiplayer: how to join your friends online](https://www.pcgamer.com/palworld-multiplayer-coop)
- - [How to get wheat seeds in Palworld](https://www.polygon.com/palworld-guides/24048179/how-to-get-wheat-seeds-pal-drops-dinossom)
- - [Immortality developer Sam Barlow teases 2 new projects on Steam, and one of them is survival horror](https://www.pcgamer.com/immortality-developer-sam-barlow-teases-2-new-projects-on-steam-and-one-of-them-is-survival-horror)<!-- GAME:END -->
+ - [Cyberpunk 2077 Sequel Might Actually Have Multiplayer](https://kotaku.com/cyberpunk-2077-sequel-orion-multiplayer-1851190429)
+ - [How to get high quality Pal oil in Palworld](https://www.polygon.com/palworld-guides/24048237/high-quality-pal-oil-how-to-get-locations-relaxaurus)
+ - [Like A Dragon: Infinite Wealth: The Kotaku Review](https://kotaku.com/infinite-wealth-like-a-dragon-review-kasuga-yakuza-1851190269)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
