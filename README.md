@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based Qdrant, which makes open source vector database of the same name, raised a $28M Series A led by Spark Capital, after raising $7.5M in April 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240123/p6#a240123p6)
  - [Sources: Byju&#39;s plans to raise more than $100M from existing investors at a less than $2B valuation, down more than 90% from $22B in October 2022 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/240123/p5#a240123p5)
- - [French&#39;s CNIL fines Amazon France Logistique $35M for an &quot;excessively intrusive&quot; surveillance system set up to monitor the performance of its staff &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240123/p4#a240123p4)
- - [Filing: Vietnam-based internet company VNG withdraws its registration for a US IPO, after postponing it in September 2023, saying it will register in the future &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p3#a240123p3)<!-- TECH:END -->
+ - [French&#39;s CNIL fines Amazon France Logistique $35M for an &quot;excessively intrusive&quot; surveillance system set up to monitor the performance of its staff &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240123/p4#a240123p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
