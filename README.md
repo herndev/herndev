@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GitHub has a copy of every open source project in its database during 2020 located deep inside a frozen mine](https://www.pcgamer.com/github-has-a-copy-of-every-open-source-project-in-its-database-during-2020-located-deep-inside-a-frozen-mine)
  - [Can Barboach be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24046877/can-barboach-be-shiny-whiscash)
- - [Wordle today: Hint and answer #948 for Tuesday, January 23](https://www.pcgamer.com/wordle-today-answer-948-january-23)
- - [How to set up a dedicated server in Palworld](https://www.pcgamer.com/palworld-dedicated-server)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #948 for Tuesday, January 23](https://www.pcgamer.com/wordle-today-answer-948-january-23)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
