@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Postal Service’s new EV chargers are here](https://www.theverge.com/2024/1/22/24046897/usps-postal-service-electric-vehicle-charging-event)
- - [Circle to Search is available on Pixel phones right now if you follow these steps](https://www.androidauthority.com/circle-to-search-on-pixel-3406406/)
- - [Google Pixel 8 &lpar;128GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/razr-5g-256gb-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG’s new 32-inch 4K smart monitor has Netflix and Google Calendar built in](https://www.theverge.com/2024/1/22/24047275/lg-myview-32-inch-4k-smart-monitor-price-release-date)
+ - [Filing: Figure, a blockchain and lending startup founded by ex-SoFi CEO Mike Cagney, seeks approval from US regulators to issue an interest-bearing stablecoin &lpar;Bloomberg&rpar;](http://www.techmeme.com/240122/p21#a240122p21)
+ - [Threads shows signs of integrating Instagram DMs &lpar;APK teardown&rpar;](https://www.androidauthority.com/threads-dms-instagram-apk-teardown-3406434/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
