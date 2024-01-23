@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
- - ⏩ [Need more time](http://9gag.com/gag/aPg5nKg)
- - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
+ - 💣 [The beauty and the beast](http://9gag.com/gag/aVbA1Z2)
+ - ⏩ [Surprising a bro](http://9gag.com/gag/ay2GPyy)
+ - 👉 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)<!-- MEMES:END -->
 
 ---
 
