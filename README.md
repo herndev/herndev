@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9 leaks are already here](https://www.theverge.com/2024/1/23/24048246/pixel-9-pro-leak-specs-google)
- - [Nintendo goes after the Palworld Pokémon modder](https://www.theverge.com/2024/1/23/24047854/nintendo-palworld-pokemon-mod-youtube-dmca)
- - [The TORRAS OStand Stand Case brings more than just protection for the Galaxy S24 series](https://www.androidauthority.com/torras-ostand-guardian-matte-stand-case-samsung-galaxy-s24-3405375/)<!-- TECH:END -->
+ - [X adds support for passkeys for US-based iOS users; the announcement comes shortly after the hack of the US SEC&#39;s X account &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240123/p28#a240123p28)
+ - [Netflix says it&#39;s looking to retire its ad-free Basic plan in some countries where ad-supported plans are available, starting with Canada and the UK in Q2 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240123/p27#a240123p27)
+ - [Filing: Google is terminating its contract with data-labeling firm Appen, effective March 19; Google accounted for $82.8M of Appen&#39;s $273M revenue in 2023 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240123/p26#a240123p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
