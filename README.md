@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
- - ⏩ [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
- - 👉 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)<!-- MEMES:END -->
+ - 💣 [Built different](http://9gag.com/gag/az2nQMq)
+ - ⏩ [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 👉 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)<!-- MEMES:END -->
 
 ---
 
