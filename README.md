@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 Is the Bombastic Return You Want It To Be](https://news.xbox.com/en-us/2024/01/23/tekken-8-is-the-bombastic-return-you-want-it-to-be/)
- - [Tekken 8 is a great Tekken game, but that might not be enough](https://www.polygon.com/reviews/24046939/tekken-8-review-heat-story-fighting-games)
- - [Robert Downey Jr. proves we didn’t run out of real movie stars, we ran out of real movies](https://www.polygon.com/24047285/robert-downey-jr-oscars-2024-nomination-oppenheimer)<!-- GAME:END -->
+ - [Like a Dragon: Infinite Wealth takes 8 hours to get started, but it’s worth it](https://www.polygon.com/24047430/like-a-dragon-infinite-wealth-review-pc-xbox-ps5)
+ - [This Bed We Made review](https://www.pcgamer.com/this-bed-we-made-review)
+ - [The state of FF14 going into 2024: Endwalker&#39;s post-launch experiments proved a failure—still, there&#39;s never been a better time to get started](https://www.pcgamer.com/the-state-of-ff14-going-into-2024-endwalkers-post-launch-experiments-proved-a-failurestill-theres-never-been-a-better-time-to-get-started)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
