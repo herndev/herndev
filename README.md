@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fearless Crab](http://9gag.com/gag/aXnBGND)
- - ⏩ [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 👉 [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)<!-- MEMES:END -->
+ - 💣 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
+ - ⏩ [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
 
 ---
 
