@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s discounted C3 OLED TVs come with up to $200 in gift cards](https://www.theverge.com/2024/1/23/24045385/lg-c3-oled-tv-dreametech-d10-plus-deal-elgato-stream-deck-xl-deal-sale)
- - [Death Stranding comes to life on iPhone and Mac next week](https://www.theverge.com/2024/1/23/24048023/death-stranding-kojima-mac-iphone-apple-gaming)
- - [Source: Brex told employees it is cutting 282 jobs, or about 20% of its staff, saying it grew too quickly and its CTO and COO are giving up their positions &lpar;The Information&rpar;](http://www.techmeme.com/240123/p21#a240123p21)<!-- TECH:END -->
+ - [Sources: Apple pivots to a less ambitious design for its upcoming EV, from Level 4 autonomy to Level 2+, and expects a 2028 launch or later, instead of 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240123/p22#a240123p22)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [What NPR’s new podcast chief learned from the mess at Gimlet](https://www.theverge.com/2024/1/23/24048118/npr-gimlet-collin-campbell-spotify-throughline-israel-story)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
