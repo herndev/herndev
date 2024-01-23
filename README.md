@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves Dives Into Season 11](https://www.seaofthieves.com/news/season-11-launch#new_tab)
- - [Obsidian&#39;s next big RPG Avowed is looking to Vermintide&#39;s &#39;masterclass in having a sense of hitting and impact&#39; to make its first-person sword-swinging feel weighty](https://www.pcgamer.com/obsidians-next-big-rpg-avowed-is-looking-to-vermintides-masterclass-in-having-a-sense-of-hitting-and-impact-to-make-its-first-person-sword-swinging-feel-weighty)
- - [Where to find the Black Marketeer to buy and sell Pals in Palworld](https://www.pcgamer.com/palworld-black-marketeer-buy-sell-pals)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League reveals its first season, featuring a playable Joker from another universe—a camp, insecure 20-something with a rocket umbrella](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-reveals-its-first-season-featuring-a-playable-joker-from-another-universea-camp-insecure-20-something-with-a-rocket-umbrella)
+ - [Former Pokémon legal chief says Palworld &#39;looks like the usual ripoff nonsense I would see a thousand times a year &#39; and he&#39;s &#39;surprised it got this far&#39;](https://www.pcgamer.com/former-pokemon-legal-chief-says-palworld-looks-like-the-usual-ripoff-nonsense-i-would-see-a-thousand-times-a-year-and-hes-surprised-it-got-this-far)
+ - [Palworld Pokémon mod creator hit with copyright takedown](https://www.polygon.com/24047136/palworld-pokemon-mod-release-toastedshoes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
