@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - ⏩ [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
- - 👉 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)<!-- MEMES:END -->
+ - 💣 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
+ - ⏩ [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
 
 ---
 
