@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia RTX 4070 Ti Super review: not very super](https://www.theverge.com/24046652/nvidia-rtx-4070-ti-super-review-gpu-graphics-card-benchmark-test)
- - [Attain: Boomers and Generation X consumers in the US shopped more frequently and spent more than Gen Z on Temu in 2023; Boomers shopped twice as much as Gen Z &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p12#a240123p12)
- - [Bluewhite, which offers &quot;robots-as-a-service&quot; including autonomous robots that can be retrofitted to tractors, raised a $39M Series C led by Insight Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240123/p11#a240123p11)<!-- TECH:END -->
+ - [OnePlus 12R is the practical flagship that the US has been waiting for](https://www.androidauthority.com/oneplus-12r-3406489/)
+ - [TurboTax isn’t allowed to say it’s ‘free’ anymore](https://www.theverge.com/2024/1/23/24047807/turbotax-misleading-advertising-free-tax-file-ftc-final-order)
+ - [Can private companies carry NASA back to the Moon?](https://www.theverge.com/2024/1/23/24047818/nasa-moon-landing-private-missions-failure-astrobotic-spacex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
