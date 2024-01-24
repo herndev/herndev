@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumored iOS 18 Siri boost will be driven by massive acquisitions over years](https://appleinsider.com/articles/24/01/24/rumored-ios-18-siri-boost-will-be-driven-by-massive-acquisitions-over-years?utm_medium=rss)
- - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)
- - [Apple Car is delayed -- again](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)<!-- TECH:END -->
+ - [Score $430 off a lifetime Babbel language learning subscription this week only](https://appleinsider.com/articles/24/01/24/score-430-off-a-lifetime-babbel-language-learning-subscription-this-week-only?utm_medium=rss)
+ - [Apple Vision Pro is not the iPhone, and faces an incredibly steep uphill climb](https://appleinsider.com/articles/24/01/24/apple-vision-pro-is-not-the-iphone-and-faces-an-incredibly-steep-uphill-climb?utm_medium=rss)
+ - [The Verge’s favorite mobile phone gadgets](https://www.theverge.com/24048027/phone-accessories-case-iphone-pixel-samsung-favorite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
