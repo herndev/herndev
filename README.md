@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
- - ⏩ [BOOM](http://9gag.com/gag/aA0j5Y0)
- - 👉 [They didn&#39;t want to be famous.](http://9gag.com/gag/a3Zmgq8)<!-- MEMES:END -->
+ - 💣 [Fearless Crab](http://9gag.com/gag/aXnBGND)
+ - ⏩ [Let them fight](http://9gag.com/gag/aVbArEw)
+ - 👉 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)<!-- MEMES:END -->
 
 ---
 
