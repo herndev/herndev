@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [Play This Classic Combat Evolved Level In Halo Infinite](https://kotaku.com/halo-infinite-forge-map-custom-ce-assault-1851193151)
- - [A new Five Nights at Freddy&#39;s game has leaked, but creator Scott Cawthon says it&#39;s okay: &#39;I was trying to keep it a secret for a bit longer, but now that it&#39;s out, that&#39;s fine&#39;](https://www.pcgamer.com/a-new-five-nights-at-freddys-game-has-leaked-but-creator-scott-cawthon-says-its-okay-i-was-trying-to-keep-it-a-secret-for-a-bit-longer-but-now-that-its-out-thats-fine)<!-- GAME:END -->
+ - [An Action-Packed Cyberpunk Adventure: Anomaly Agent](https://news.xbox.com/en-us/2024/01/24/an-action-packed-cyberpunk-adventure-anomaly-agent/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240122-2000&rpar;](https://news.xbox.com/en-us/2024/01/24/xbox-insider-release-notes-alpha-skip-ahead-2408-240122-2000/)
+ - [Help your tribe of vikings race against the end of the world in this peculiar pairing of card game and city builder](https://www.pcgamer.com/help-your-tribe-of-vikings-race-against-the-end-of-the-world-in-this-peculiar-pairing-of-card-game-and-city-builder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
