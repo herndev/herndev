@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge denies NSO Group&#39;s motion to dismiss the lawsuit from Apple and orders the Pegasus spyware maker to answer Apple&#39;s complaint by February 14 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240124/p2#a240124p2)
- - [Xianyu, Alibaba&#39;s online second-hand goods trading platform that claims to have 500M+ users, is opening its first bricks-and-mortar store in Hangzhou, China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240124/p1#a240124p1)
- - [Google Pixel 9 rumors: Expected release date and what we want to see](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
+ - [ASUS Zenfone 11 appears on Google Play Console with Snapdragon mystery](https://www.androidauthority.com/asus-zenfone-11-specs-3406979/)
+ - [Berlin-based Kittl, which is developing a browser-based graphic design tool, raised a $36M Series B led by IVP, just a year after raising a $11.6M Series A &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240124/p4#a240124p4)
+ - [A filing in a class action suit by 10 US artists against Midjourney and others lists 16,000 artist names whose work Midjourney had allegedly used for training &lpar;James Tapper/The Guardian&rpar;](http://www.techmeme.com/240124/p3#a240124p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
