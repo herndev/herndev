@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IAE: electricity used by data centers, crypto, and AI may more than double in the next three years; Irish data centers will use 32% of its electricity by 2026 &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/240124/p16#a240124p16)
- - [Apple patched an exploited WebKit vulnerability in its latest updates](https://appleinsider.com/articles/24/01/24/apple-patched-an-exploited-webkit-vulnerability-in-its-latest-updates?utm_medium=rss)
- - [A look at some long-term issues facing the gaming industry, including deep layoffs, weak revenue growth, and declining VC investments &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240124/p15#a240124p15)<!-- TECH:END -->
+ - [Netflix dropping Basic ads-free tier, forcing users to choose a more profitable tier](https://appleinsider.com/articles/24/01/23/netflix-dropping-basic-ads-free-tier-forcing-users-to-choose-different-more-profitable-tier?utm_medium=rss)
+ - [Update your Apple devices, because the latest releases patched a major security flaw](https://appleinsider.com/articles/24/01/24/apple-patched-an-exploited-webkit-vulnerability-in-its-latest-updates?utm_medium=rss)
+ - [Apple asks UK to dismiss $1 billion App Store class action suit](https://appleinsider.com/articles/24/01/24/apple-asks-uk-to-dismiss-1-billion-app-store-class-action-suit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
