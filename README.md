@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld is playable on Steam Deck, but needs some work](https://www.polygon.com/24048461/palworld-steam-deck-settings-playable)
- - [Palworld players uncovered an exploit for capturing bosses and turning them into party members](https://www.pcgamer.com/palworld-catch-tower-bosses)
- - [2 months after killing the Overwatch League, Blizzard teams up with Saudi Arabia&#39;s esports org for &#39;a new era of Overwatch esports&#39;](https://www.pcgamer.com/2-months-after-killing-the-overwatch-league-blizzard-teams-up-with-saudi-arabias-esports-org-for-a-new-era-of-overwatch-esports)<!-- GAME:END -->
+ - [There&#39;s a new Stargate: SG-1 tactics game on Steam, because the &#39;90s are forever](https://www.pcgamer.com/theres-a-new-stargate-sg-1-tactics-game-on-steam-because-the-90s-are-forever)
+ - [Avowed&#39;s companions won&#39;t ditch you for making the &#39;wrong&#39; choices: &#39;It&#39;s not about maintaining their approval, it&#39;s about getting to know them&#39;](https://www.pcgamer.com/avoweds-companions-wont-ditch-you-for-making-the-wrong-choices-its-not-about-maintaining-their-approval-its-about-getting-to-know-them)
+ - [Palworld is playable on Steam Deck, but needs some work](https://www.polygon.com/24048461/palworld-steam-deck-settings-playable)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
