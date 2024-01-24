@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NSA spies panicked over &#39;AI&#39; Furbies way back in the late 90s according to official document dump](https://www.pcgamer.com/nsa-spies-panicked-over-ai-furbies-way-back-in-the-late-90s-according-to-official-document-dump)
- - [Palworld releases roadmap with big promises but no dates: PvP, new islands, raid bosses, and an end to Game Pass woes](https://www.pcgamer.com/palworld-releases-roadmap-with-big-promises-but-no-dates-pvp-new-islands-raid-bosses-and-an-end-to-game-pass-woes)
- - [AMD Fluid Motion Frames finally goes official, driver-based frame generation for any DX11/12 game](https://www.pcgamer.com/amd-fluid-motion-frames-finally-goes-official-driver-based-frame-generation-for-any-dx1112-game)<!-- GAME:END -->
+ - [The Day Before studio asks whether you&#39;re going to believe it or your own lying eyes as it attributes the game&#39;s catastrophic performance to a &#39;hate campaign&#39; by &#39;bloggers&#39;](https://www.pcgamer.com/the-day-before-studio-asks-whether-youre-going-to-believe-it-or-your-own-lying-eyes-as-it-attributes-the-games-catastrophic-performance-to-a-hate-campaign-by-bloggers)
+ - [Lenovo Legion Go review](https://www.pcgamer.com/lenovo-legion-go-review)
+ - [&#39;Our long-term objective is to make printing a subscription&#39; says HP CEO gunning for 2024&#39;s Worst Person of the Year award](https://www.pcgamer.com/our-long-term-objective-is-to-make-printing-a-subscription-says-hp-ceo-gunning-for-2024s-worst-person-of-the-year-award)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
