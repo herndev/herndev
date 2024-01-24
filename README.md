@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [26 Valentine&#39;s Gifts to Impress Her in 2024     - CNET](https://www.cnet.com/news/valentines-gifts-for-her/#ftag=CAD590a51e)
  - [A profile of Kai-Fu Lee, an AI expert who helped Microsoft and Google get established in China and whose startup 01.AI is leading the open source AI race &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240124/p8#a240124p8)
- - [Apple&#39;s acquisitions, job postings, and academic papers shed light on the company&#39;s AI plans; PitchBook; Apple has bought 21 AI startups since the start of 2017 &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240124/p7#a240124p7)
- - [ASML reports Q4 revenue of &amp;euro;6.67B and net profit up 9% YoY to &amp;euro;2B, both above est., orders grew 3x QoQ to &amp;euro;9B+, and expects 2024 net sales to be similar to 2023 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240124/p6#a240124p6)<!-- TECH:END -->
+ - [Apple&#39;s acquisitions, job postings, and academic papers shed light on the company&#39;s AI plans; PitchBook; Apple has bought 21 AI startups since the start of 2017 &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240124/p7#a240124p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
