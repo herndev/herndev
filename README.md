@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which one First!!?](http://9gag.com/gag/avQNq7n)
- - ⏩ [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
- - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
+ - 💣 [Form is important when lifting weights](http://9gag.com/gag/amA3Q4d)
+ - ⏩ [The Fight That Led To The &#39;Woman Yelling At A Cat&#39; Meme](http://9gag.com/gag/a8qZQnV)
+ - 👉 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)<!-- MEMES:END -->
 
 ---
 
