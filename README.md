@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Day Before studio asks whether you&#39;re going to believe it or your own lying eyes as it attributes the game&#39;s catastrophic performance to a &#39;hate campaign&#39; by &#39;bloggers&#39;](https://www.pcgamer.com/the-day-before-studio-asks-whether-youre-going-to-believe-it-or-your-own-lying-eyes-as-it-attributes-the-games-catastrophic-performance-to-a-hate-campaign-by-bloggers)
- - [Lenovo Legion Go review](https://www.pcgamer.com/lenovo-legion-go-review)
- - [&#39;Our long-term objective is to make printing a subscription&#39; says HP CEO gunning for 2024&#39;s Worst Person of the Year award](https://www.pcgamer.com/our-long-term-objective-is-to-make-printing-a-subscription-says-hp-ceo-gunning-for-2024s-worst-person-of-the-year-award)<!-- GAME:END -->
+ - [Design an Original Starfield Spacesuit and it Could Be Yours for Real](https://news.xbox.com/en-us/2024/01/24/starfield-spacesuit-competition/)
+ - [Hellblade took big swings for a AAA game, and there’s never been a better time to play it](https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-video-game-storytelling-steam-sale)
+ - [Microsoft&#39;s current OS has been shrunk to a ridiculous 100MB in size, but only by getting rid of windows from Windows](https://www.pcgamer.com/microsofts-current-os-has-been-shrunk-to-a-ridiculous-100mb-in-size-but-only-by-getting-rid-of-windows-from-windows)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
