@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna will now let you pay them so you can pay them less money](https://www.theverge.com/2024/1/24/24049445/klarna-plus-bnpl-consumer-debt-ipo)
- - [Insta360’s auto-swiveling Link webcam has fallen to its best price to date](https://www.theverge.com/2024/1/24/24048446/insta360-link-webcam-mobvoi-ticwatch-pro-5-tcl-qm8-mini-led-tv-deal-sale)
- - [Nvidia&#39;s RTX GPUs can now upgrade SDR video to HDR using AI, supported in both Microsoft Edge and Google Chrome on Windows PCs with HDR enabled &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240124/p28#a240124p28)<!-- TECH:END -->
+ - [Apple to get TSMC&#39;s initial 2nm capacity, says obvious report](https://appleinsider.com/articles/24/01/24/apple-to-get-tsmcs-initial-2nm-capacity-says-obvious-report?utm_medium=rss)
+ - [Samsung is making DIY fixes easier for some of its TVs](https://www.theverge.com/2024/1/24/24049382/samsung-self-repair-television-foldables-projectors)
+ - [The Verge’s favorite mobile phone gadgets](https://www.theverge.com/24048027/phone-accessories-case-iphone-pixel-samsung-favorite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
