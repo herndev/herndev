@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #949 for Wednesday, January 24](https://www.pcgamer.com/wordle-today-answer-949-january-24)
- - [Obsidian&#39;s next RPG Avowed won&#39;t have the option to do &#39;a pure pacifist run&#39;](https://www.pcgamer.com/obsidians-next-rpg-avowed-wont-have-the-option-to-do-a-pure-pacifist-run)
- - [Framework 16 review](https://www.pcgamer.com/framework-16-modular-gaming-laptop-review)<!-- GAME:END -->
+ - [NSA spies panicked over &#39;AI&#39; Furbies way back in the late 90s according to official document dump](https://www.pcgamer.com/nsa-spies-panicked-over-ai-furbies-way-back-in-the-late-90s-according-to-official-document-dump)
+ - [Palworld releases roadmap with big promises but no dates: PvP, new islands, raid bosses, and an end to Game Pass woes](https://www.pcgamer.com/palworld-releases-roadmap-with-big-promises-but-no-dates-pvp-new-islands-raid-bosses-and-an-end-to-game-pass-woes)
+ - [AMD Fluid Motion Frames finally goes official, driver-based frame generation for any DX11/12 game](https://www.pcgamer.com/amd-fluid-motion-frames-finally-goes-official-driver-based-frame-generation-for-any-dx1112-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
