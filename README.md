@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The weakest part of Palworld is, unfortunately, the Pals](https://www.polygon.com/24048413/palworld-creatures-design-behavior-early-access)
- - [Nintendo will turn off all online play for 3DS and Wii U on April 8](https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff)
- - [Baldur&#39;s Gate 3 player slays a major villain by throwing their mom at them so hard they die](https://www.pcgamer.com/baldurs-gate-3-player-slays-a-major-villain-by-throwing-their-mom-at-them-so-hard-they-die)<!-- GAME:END -->
+ - [TSMC&#39;s upcoming 2nm chip tech could make for incredibly fast but painfully pricey graphics cards](https://www.pcgamer.com/tsmcs-upcoming-2nm-chip-tech-could-make-for-incredibly-fast-but-painfully-pricey-graphics-cards)
+ - [The Day Before dev lashes out at ‘anonymous’ detractors, bloggers after game shuts down](https://www.polygon.com/24048997/the-day-before-fntastic-shut-down-accusations)
+ - [Where to find clay in Enshrouded](https://www.polygon.com/enshrouded-guides/24048490/clay-where-to-find-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
