@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An Action-Packed Cyberpunk Adventure: Anomaly Agent](https://news.xbox.com/en-us/2024/01/24/an-action-packed-cyberpunk-adventure-anomaly-agent/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240122-2000&rpar;](https://news.xbox.com/en-us/2024/01/24/xbox-insider-release-notes-alpha-skip-ahead-2408-240122-2000/)
- - [Help your tribe of vikings race against the end of the world in this peculiar pairing of card game and city builder](https://www.pcgamer.com/help-your-tribe-of-vikings-race-against-the-end-of-the-world-in-this-peculiar-pairing-of-card-game-and-city-builder)<!-- GAME:END -->
+ - [24 Days Into 2024 And 3,900+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
+ - [Nintendo’s pastel pink Joy-Cons are now available to pre-order](https://www.polygon.com/deals/24049424/switch-joy-cons-pastel-pink-princess-peach-pre-order-buy)
+ - [Chinese regulators may be having second thoughts about online gaming crackdown: Proposed rule changes have been removed from government website](https://www.pcgamer.com/chinese-regulators-may-be-having-second-thoughts-about-online-gaming-crackdown-proposed-rule-changes-have-been-removed-from-government-website)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
