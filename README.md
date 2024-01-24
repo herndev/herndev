@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Apple Vision Pro operating system update already available](https://appleinsider.com/articles/24/01/24/first-apple-vision-pro-operating-system-update-already-available?utm_medium=rss)
- - [Texas Instruments reports Q4 revenue down 13% YoY to $4.08B, vs. $4.13B est., and FY 2023 sales down ~13% YoY, the company&#39;s biggest fall in over a decade &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240123/p35#a240123p35)
- - [B&amp;H Photo slashes up to $1,200 off MacBooks &amp; iMacs this week](https://appleinsider.com/articles/24/01/24/bh-photo-slashes-up-to-1200-off-macbooks-imacs-this-week?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Jack Ma and Joe Tsai become Alibaba&#39;s largest shareholders after buying shares worth ~$50M and ~$150M, respectively, in Q4, together eclipsing SoftBank &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/240123/p36#a240123p36)
+ - [Best Solar Panel Installation Companies in Orlando, Florida     - CNET](https://www.cnet.com/home/energy-and-utilities/orlando-solar-panels/#ftag=CAD590a51e)
+ - [First Apple Vision Pro operating system update already available](https://appleinsider.com/articles/24/01/24/first-apple-vision-pro-operating-system-update-already-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
