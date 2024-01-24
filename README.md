@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dynamic and Vibrant Shooter Project Downfall is Coming to Xbox Consoles](https://news.xbox.com/en-us/2024/01/24/dynamic-and-vibrant-shooter-project-downfall-is-coming-to-xbox-consoles/)
- - [Jon Stewart returns to host The Daily Show — part-time](https://www.polygon.com/entertainment/24049247/jon-stewart-returns-to-the-daily-show-host-2024)
- - [The biggest sci-fi/fantasy award has been accused of censorship, and the situation is a mess](https://www.polygon.com/24049021/hugo-awards-controversy-china-censorship-babel)<!-- GAME:END -->
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [Play This Classic Combat Evolved Level In Halo Infinite](https://kotaku.com/halo-infinite-forge-map-custom-ce-assault-1851193151)
+ - [A new Five Nights at Freddy&#39;s game has leaked, but creator Scott Cawthon says it&#39;s okay: &#39;I was trying to keep it a secret for a bit longer, but now that it&#39;s out, that&#39;s fine&#39;](https://www.pcgamer.com/a-new-five-nights-at-freddys-game-has-leaked-but-creator-scott-cawthon-says-its-okay-i-was-trying-to-keep-it-a-secret-for-a-bit-longer-but-now-that-its-out-thats-fine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
