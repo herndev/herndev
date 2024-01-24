@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Chinese tech manufacturers flock to Vietnam to set up new factories, Bac Ninh, an industrial hub northeast of Hanoi, has become a center for Chinese culture &lpar;Rest of World&rpar;](http://www.techmeme.com/240124/p9#a240124p9)
- - [Verizon Customers Could Get up to $100 Each in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-settlement-payout-how-to-claim-the-class-action-money/#ftag=CAD590a51e)
- - [Child Tax Credit 2024: How Much Is It and Who Qualifies?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-how-much-is-it-and-who-qualifies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify plans to launch in-app purchases, if Apple gets out of the way](https://www.theverge.com/2024/1/24/24048561/spotify-dma-eu-apple-app-store-epic)
+ - [Stuttgart-based Instagrid, which uses software to boost its 20kg portable batteries, raised a $95M Series C led by TVG at a $400M to $500M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240124/p12#a240124p12)
+ - [Tesla’s new compact crossover is reportedly coming in 2025, but will it cost $25,000?](https://www.theverge.com/2024/1/24/24048891/tesla-june-2025-next-gen-compact-crossover-production-start-reuters)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
