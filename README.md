@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
- - ⏩ [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
- - 👉 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)<!-- MEMES:END -->
+ - 💣 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
+ - ⏩ [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
+ - 👉 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)<!-- MEMES:END -->
 
 ---
 
