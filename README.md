@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Design an Original Starfield Spacesuit and it Could Be Yours for Real](https://news.xbox.com/en-us/2024/01/24/starfield-spacesuit-competition/)
- - [Hellblade took big swings for a AAA game, and there’s never been a better time to play it](https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-video-game-storytelling-steam-sale)
- - [Microsoft&#39;s current OS has been shrunk to a ridiculous 100MB in size, but only by getting rid of windows from Windows](https://www.pcgamer.com/microsofts-current-os-has-been-shrunk-to-a-ridiculous-100mb-in-size-but-only-by-getting-rid-of-windows-from-windows)<!-- GAME:END -->
+ - [The weakest part of Palworld is, unfortunately, the Pals](https://www.polygon.com/24048413/palworld-creatures-design-behavior-early-access)
+ - [Nintendo will turn off all online play for 3DS and Wii U on April 8](https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff)
+ - [Baldur&#39;s Gate 3 player slays a major villain by throwing their mom at them so hard they die](https://www.pcgamer.com/baldurs-gate-3-player-slays-a-major-villain-by-throwing-their-mom-at-them-so-hard-they-die)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
