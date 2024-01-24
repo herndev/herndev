@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score $430 off a lifetime Babbel language learning subscription this week only](https://appleinsider.com/articles/24/01/24/score-430-off-a-lifetime-babbel-language-learning-subscription-this-week-only?utm_medium=rss)
- - [Apple Vision Pro is not the iPhone, and faces an incredibly steep uphill climb](https://appleinsider.com/articles/24/01/24/apple-vision-pro-is-not-the-iphone-and-faces-an-incredibly-steep-uphill-climb?utm_medium=rss)
- - [The Verge’s favorite mobile phone gadgets](https://www.theverge.com/24048027/phone-accessories-case-iphone-pixel-samsung-favorite)<!-- TECH:END -->
+ - [A Massachusetts court filings shows Google reached a settlement in an AI chip patent lawsuit filed by Singular Computing, which sought $1.67B in damages &lpar;Reuters&rpar;](http://www.techmeme.com/240124/p23#a240124p23)
+ - [London- and Tallinn-based VC firm Plural, led by some of Europe&#39;s best known startup founders, raised a &amp;euro;400M fund to invest in early-stage &quot;deep tech&quot; startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240124/p22#a240124p22)
+ - [Firefox wants to level the browser playing field with Microsoft, Google, and Apple](https://appleinsider.com/articles/24/01/24/firefox-wants-to-level-the-browser-playing-field-with-microsoft-google-and-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
