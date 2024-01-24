@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looking back on 40 years of Macintosh](https://www.theverge.com/24047857/macintosh-40th-anniversary-apple-imac-powerbook-macbook-studio-pro-air)
- - [Don’t forget: Today’s the day ads come to Netflix for T-Mobile users](https://www.androidauthority.com/netflix-ads-t-mobile-today-3407338/)
- - [Fight monsters with the help of your past lives in Lysfanga: The Time Shift Warrior](https://www.theverge.com/24049147/lysfanga-the-time-shift-warrior-release-date-steam)<!-- TECH:END -->
+ - [Klarna will now let you pay them so you can pay them less money](https://www.theverge.com/2024/1/24/24049445/klarna-plus-bnpl-consumer-debt-ipo)
+ - [Insta360’s auto-swiveling Link webcam has fallen to its best price to date](https://www.theverge.com/2024/1/24/24048446/insta360-link-webcam-mobvoi-ticwatch-pro-5-tcl-qm8-mini-led-tv-deal-sale)
+ - [Nvidia&#39;s RTX GPUs can now upgrade SDR video to HDR using AI, supported in both Microsoft Edge and Google Chrome on Windows PCs with HDR enabled &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240124/p28#a240124p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
