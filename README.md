@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Form is important when lifting weights](http://9gag.com/gag/amA3Q4d)
- - ⏩ [The Fight That Led To The &#39;Woman Yelling At A Cat&#39; Meme](http://9gag.com/gag/a8qZQnV)
- - 👉 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)<!-- MEMES:END -->
+ - 💣 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
+ - ⏩ [BOOM](http://9gag.com/gag/aA0j5Y0)
+ - 👉 [They didn&#39;t want to be famous.](http://9gag.com/gag/a3Zmgq8)<!-- MEMES:END -->
 
 ---
 
