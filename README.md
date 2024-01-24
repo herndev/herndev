@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google cancels contract with an AI data firm that’s helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
- - [Netflix is turning into cable TV](https://www.theverge.com/2024/1/23/24047817/netflix-is-turning-into-cable-tv)
- - [Here’s more proof ADT is about to launch a new smart home security system](https://www.theverge.com/2024/1/23/24048187/adt-smart-home-security-system-google-nest-launch)<!-- TECH:END -->
+ - [The X iPhone app added passwordless logins with passkeys](https://www.theverge.com/2024/1/23/24048580/x-twitter-passkeys-ios-users-passwordless)
+ - [eBay will lay off 1,000 employees — 9 percent of the company](https://www.theverge.com/24048636/ebay-layoffs-1000-employees-january-2024)
+ - [eBay plans to cut ~1,000 roles, or ~9% of full-time employees, and to scale back the contracts it has within its alternate workforce over the coming months &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240123/p33#a240123p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
