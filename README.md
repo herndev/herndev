@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data shows African startups raised between $2.9B and $4.1B total in 2023, down from $4.6B to $6.5B in 2022, with Egypt, Kenya, Nigeria, and South Africa leading &lpar;TechCrunch&rpar;](http://www.techmeme.com/240123/p38#a240123p38)
- - [Forty years of the Mac, the computer for the rest of us](https://appleinsider.com/articles/24/01/24/forty-years-of-the-mac-the-computer-for-the-rest-of-us?utm_medium=rss)
- - [Google is adding new generative AI feature to Chrome, including Pixel 8-like AI themes](https://www.androidauthority.com/google-chrome-generative-ai-features-2024-3406972/)<!-- TECH:END -->
+ - [A US federal judge denies NSO Group&#39;s motion to dismiss the lawsuit from Apple and orders the Pegasus spyware maker to answer Apple&#39;s complaint by February 14 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240124/p2#a240124p2)
+ - [Xianyu, Alibaba&#39;s online second-hand goods trading platform that claims to have 500M+ users, is opening its first bricks-and-mortar store in Hangzhou, China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240124/p1#a240124p1)
+ - [Google Pixel 9 rumors: Expected release date and what we want to see](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
