@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morgan Stanley sees AAPL earnings as clearing event to refocus investors](https://appleinsider.com/articles/24/01/24/morgan-stanley-sees-aapl-earnings-as-clearing-event-to-refocus-investors?utm_medium=rss)
- - [The US National Science Foundation partners with OpenAI, Meta, Nvidia, and others to launch NAIRR, a pilot program to increase researchers&#39; access to AI tools &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240124/p25#a240124p25)
- - [Ring plans to stop letting police request footage from users&#39; video doorbells and cameras via its tool next week; police and fire services will need a warrant &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240124/p24#a240124p24)<!-- TECH:END -->
+ - [How to save up to $800 when you pre-order the OnePlus 12](https://www.androidauthority.com/pre-order-deals-oneplus-12-3407333/)
+ - [AI and crypto mining are driving up data centers’ energy use](https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea)
+ - [Daily deals Jan. 24: MacBook Air $749, Microsoft Windows 11 Pro $24.97, LG 45-inch monitor $549, more](https://appleinsider.com/articles/24/01/24/daily-deals-jan-24-macbook-air-749-microsoft-windows-11-pro-2497-lg-45-inch-monitor-549-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
