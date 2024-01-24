@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ID@Xbox Presents: Indie Selects](https://news.xbox.com/en-us/2024/01/24/id-xbox-indie-selects/)
- - [Colorado crypto-pastor and wife hawk worthless scheme to followers, spend $1.3 million living it up, but wait: &#39;the Lord told us to&#39;](https://www.pcgamer.com/colorado-crypto-pastor-and-wife-hawk-worthless-scheme-to-followers-spend-dollar13-million-living-it-up-but-wait-the-lord-told-us-to)
- - [Palworld Type chart: How strengths and weaknesses work](https://www.pcgamer.com/palworld-type-chart)<!-- GAME:END -->
+ - [Dynamic and Vibrant Shooter Project Downfall is Coming to Xbox Consoles](https://news.xbox.com/en-us/2024/01/24/dynamic-and-vibrant-shooter-project-downfall-is-coming-to-xbox-consoles/)
+ - [Jon Stewart returns to host The Daily Show — part-time](https://www.polygon.com/entertainment/24049247/jon-stewart-returns-to-the-daily-show-host-2024)
+ - [The biggest sci-fi/fantasy award has been accused of censorship, and the situation is a mess](https://www.polygon.com/24049021/hugo-awards-controversy-china-censorship-babel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
