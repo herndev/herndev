@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix dropping Basic ads-free tier, forcing users to choose a more profitable tier](https://appleinsider.com/articles/24/01/23/netflix-dropping-basic-ads-free-tier-forcing-users-to-choose-different-more-profitable-tier?utm_medium=rss)
- - [Update your Apple devices, because the latest releases patched a major security flaw](https://appleinsider.com/articles/24/01/24/apple-patched-an-exploited-webkit-vulnerability-in-its-latest-updates?utm_medium=rss)
- - [Apple asks UK to dismiss $1 billion App Store class action suit](https://appleinsider.com/articles/24/01/24/apple-asks-uk-to-dismiss-1-billion-app-store-class-action-suit?utm_medium=rss)<!-- TECH:END -->
+ - [Rumored iOS 18 Siri boost will be driven by massive acquisitions over years](https://appleinsider.com/articles/24/01/24/rumored-ios-18-siri-boost-will-be-driven-by-massive-acquisitions-over-years?utm_medium=rss)
+ - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)
+ - [Apple Car is delayed -- again](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
