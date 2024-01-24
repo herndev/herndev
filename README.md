@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to save up to $800 when you pre-order the OnePlus 12](https://www.androidauthority.com/pre-order-deals-oneplus-12-3407333/)
- - [AI and crypto mining are driving up data centers’ energy use](https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea)
- - [Daily deals Jan. 24: MacBook Air $749, Microsoft Windows 11 Pro $24.97, LG 45-inch monitor $549, more](https://appleinsider.com/articles/24/01/24/daily-deals-jan-24-macbook-air-749-microsoft-windows-11-pro-2497-lg-45-inch-monitor-549-more?utm_medium=rss)<!-- TECH:END -->
+ - [Looking back on 40 years of Macintosh](https://www.theverge.com/24047857/macintosh-40th-anniversary-apple-imac-powerbook-macbook-studio-pro-air)
+ - [Don’t forget: Today’s the day ads come to Netflix for T-Mobile users](https://www.androidauthority.com/netflix-ads-t-mobile-today-3407338/)
+ - [Fight monsters with the help of your past lives in Lysfanga: The Time Shift Warrior](https://www.theverge.com/24049147/lysfanga-the-time-shift-warrior-release-date-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
