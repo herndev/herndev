@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #949 for Wednesday, January 24](https://www.pcgamer.com/wordle-today-answer-949-january-24)
  - [Obsidian&#39;s next RPG Avowed won&#39;t have the option to do &#39;a pure pacifist run&#39;](https://www.pcgamer.com/obsidians-next-rpg-avowed-wont-have-the-option-to-do-a-pure-pacifist-run)
- - [Framework 16 review](https://www.pcgamer.com/framework-16-modular-gaming-laptop-review)
- - [The only pal I want is my robot spider in Diablo 4&#39;s most challenging season yet](https://www.pcgamer.com/the-only-pal-i-want-is-my-robot-spider-in-diablo-4s-most-challenging-season-yet)<!-- GAME:END -->
+ - [Framework 16 review](https://www.pcgamer.com/framework-16-modular-gaming-laptop-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
