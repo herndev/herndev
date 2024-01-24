@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let them fight](http://9gag.com/gag/aVbArEw)
- - ⏩ [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
+ - 💣 [Typical day in russia](http://9gag.com/gag/a1P9gV8)
+ - ⏩ [That history lesson in junior high was an eye opening experience to put it mildly.](http://9gag.com/gag/aqe0wMP)
  - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
 
 ---
