@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [24 Days Into 2024 And 3,900+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
- - [Nintendo’s pastel pink Joy-Cons are now available to pre-order](https://www.polygon.com/deals/24049424/switch-joy-cons-pastel-pink-princess-peach-pre-order-buy)
- - [Chinese regulators may be having second thoughts about online gaming crackdown: Proposed rule changes have been removed from government website](https://www.pcgamer.com/chinese-regulators-may-be-having-second-thoughts-about-online-gaming-crackdown-proposed-rule-changes-have-been-removed-from-government-website)<!-- GAME:END -->
+ - [There’s a new Death Stranding-inspired phone controller, and it’s pee-colored](https://www.polygon.com/2024/1/24/24049119/death-stranding-directors-cut-backbone-one-controller-iphone-android)
+ - [How to get Ancient Technology Points in Palworld](https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get)
+ - [All tower boss locations and best tower boss order in Palworld](https://www.polygon.com/palworld-guides/24049473/tower-boss-locations-bosses-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
