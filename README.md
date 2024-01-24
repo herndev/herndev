@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TSMC&#39;s upcoming 2nm chip tech could make for incredibly fast but painfully pricey graphics cards](https://www.pcgamer.com/tsmcs-upcoming-2nm-chip-tech-could-make-for-incredibly-fast-but-painfully-pricey-graphics-cards)
- - [The Day Before dev lashes out at ‘anonymous’ detractors, bloggers after game shuts down](https://www.polygon.com/24048997/the-day-before-fntastic-shut-down-accusations)
- - [Where to find clay in Enshrouded](https://www.polygon.com/enshrouded-guides/24048490/clay-where-to-find-how-to-get)<!-- GAME:END -->
+ - [ID@Xbox Presents: Indie Selects](https://news.xbox.com/en-us/2024/01/24/id-xbox-indie-selects/)
+ - [Colorado crypto-pastor and wife hawk worthless scheme to followers, spend $1.3 million living it up, but wait: &#39;the Lord told us to&#39;](https://www.pcgamer.com/colorado-crypto-pastor-and-wife-hawk-worthless-scheme-to-followers-spend-dollar13-million-living-it-up-but-wait-the-lord-told-us-to)
+ - [Palworld Type chart: How strengths and weaknesses work](https://www.pcgamer.com/palworld-type-chart)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
