@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
- - ⏩ [This is a good one](http://9gag.com/gag/aoKXoL2)
- - 👉 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)<!-- MEMES:END -->
+ - 💣 [Let them fight](http://9gag.com/gag/aVbArEw)
+ - ⏩ [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - 👉 [... and then there was three lol](http://9gag.com/gag/a7qQmAb)<!-- MEMES:END -->
 
 ---
 
