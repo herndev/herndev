@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify plans to launch in-app purchases, if Apple gets out of the way](https://www.theverge.com/2024/1/24/24048561/spotify-dma-eu-apple-app-store-epic)
- - [Stuttgart-based Instagrid, which uses software to boost its 20kg portable batteries, raised a $95M Series C led by TVG at a $400M to $500M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240124/p12#a240124p12)
- - [Tesla’s new compact crossover is reportedly coming in 2025, but will it cost $25,000?](https://www.theverge.com/2024/1/24/24048891/tesla-june-2025-next-gen-compact-crossover-production-start-reuters)<!-- TECH:END -->
+ - [IAE: electricity used by data centers, crypto, and AI may more than double in the next three years; Irish data centers will use 32% of its electricity by 2026 &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/240124/p16#a240124p16)
+ - [Apple patched an exploited WebKit vulnerability in its latest updates](https://appleinsider.com/articles/24/01/24/apple-patched-an-exploited-webkit-vulnerability-in-its-latest-updates?utm_medium=rss)
+ - [A look at some long-term issues facing the gaming industry, including deep layoffs, weak revenue growth, and declining VC investments &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240124/p15#a240124p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
