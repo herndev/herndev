@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let them fight](http://9gag.com/gag/aVbArEw)
- - ⏩ [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 👉 [... and then there was three lol](http://9gag.com/gag/a7qQmAb)<!-- MEMES:END -->
+ - 💣 [It&#39;s totally unnecessary, but it&#39;s about giving you the worst diarrhea.](http://9gag.com/gag/a04BqDq)
+ - ⏩ [Egg boy](http://9gag.com/gag/a8qZO3Q)
+ - 👉 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)<!-- MEMES:END -->
 
 ---
 
