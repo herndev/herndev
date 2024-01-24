@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which one First!!?](http://9gag.com/gag/avQNq7n)
- - ⏩ [And the oscar goes to...](http://9gag.com/gag/aMEg0B1)
- - 👉 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)<!-- MEMES:END -->
+ - 💣 [Centipede mother hugs its babies. This both warm my heart and my flamethrower](http://9gag.com/gag/aPg5L4n)
+ - ⏩ [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
+ - 👉 [Fearless Crab](http://9gag.com/gag/aXnBGND)<!-- MEMES:END -->
 
 ---
 
