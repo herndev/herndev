@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Egg boy](http://9gag.com/gag/a8qZO3Q)
- - ⏩ [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
- - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
+ - 💣 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
+ - ⏩ [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
+ - 👉 [This is a good one](http://9gag.com/gag/aoKXoL2)<!-- MEMES:END -->
 
 ---
 
