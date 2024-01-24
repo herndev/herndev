@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Basic programming](http://9gag.com/gag/aQEGbnw)
- - ⏩ [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
+ - 💣 [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
+ - ⏩ [True love](http://9gag.com/gag/aWGzAGZ)
+ - 👉 [Egg boy](http://9gag.com/gag/a8qZO3Q)<!-- MEMES:END -->
 
 ---
 
