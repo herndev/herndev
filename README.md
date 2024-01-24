@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fearless Crab](http://9gag.com/gag/aXnBGND)
- - ⏩ [Let them fight](http://9gag.com/gag/aVbArEw)
- - 👉 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)<!-- MEMES:END -->
+ - 💣 [Egg boy](http://9gag.com/gag/a8qZO3Q)
+ - ⏩ [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
+ - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
 
 ---
 
