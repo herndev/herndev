@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Indian tutorial we never thought we needed.](http://9gag.com/gag/aGEXvLZ)
- - ⏩ [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
+ - 💣 [Well suited](http://9gag.com/gag/aPg5L3w)
+ - ⏩ [It&#39;s totally unnecessary, but it&#39;s about giving you the worst diarrhea.](http://9gag.com/gag/a04BqDq)
+ - 👉 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)<!-- MEMES:END -->
 
 ---
 
