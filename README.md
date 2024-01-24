@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Centipede mother hugs its babies. This both warm my heart and my flamethrower](http://9gag.com/gag/aPg5L4n)
- - ⏩ [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
- - 👉 [Fearless Crab](http://9gag.com/gag/aXnBGND)<!-- MEMES:END -->
+ - 💣 [Which one First!!?](http://9gag.com/gag/avQNq7n)
+ - ⏩ [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
+ - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
 
 ---
 
