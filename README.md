@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True love](http://9gag.com/gag/aWGzAGZ)
- - ⏩ [True or false ?](http://9gag.com/gag/aREnGdG)
- - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
+ - 💣 [Basic programming](http://9gag.com/gag/aQEGbnw)
+ - ⏩ [Random title](http://9gag.com/gag/awZw2yr)
+ - 👉 [True love](http://9gag.com/gag/aWGzAGZ)<!-- MEMES:END -->
 
 ---
 
