@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could finally give Wear OS an annual upgrade cycle with Wear OS 5 based on Android 14](https://www.androidauthority.com/google-wear-os-annual-upgrade-cycle-3407469/)
- - [As Palworld sells 8M+ copies, The Pok&amp;eacute;mon Company says it has not granted permission to &quot;another company&quot; to use its IP and plans to &quot;take appropriate measures&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240125/p3#a240125p3)
- - [Chinese smartphone shipments declined 5% YoY to 271.3M units in 2023; in a first, Apple gained the top spot with 17.3% marketshare, followed by Honor with 17.1% &lpar;IDC&rpar;](http://www.techmeme.com/240125/p2#a240125p2)<!-- TECH:END -->
+ - [We asked, you told us: The Galaxy S24 series isn’t doing it for you](https://www.androidauthority.com/galaxy-s24-series-hot-not-poll-results-3407478/)
+ - [Franco-Italian chipmaker STMicro reports Q4 revenue down 3.2% YoY to $4.28B, meeting est., and expects Q1 revenue to fall 15% YoY to $3.6B, below $4.1B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240125/p6#a240125p6)
+ - [Arati Prabhakar, director of the White House Office of Science and Technology Policy, says the US will work with China on AI safety, despite trade tensions &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240125/p5#a240125p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
