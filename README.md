@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - ⏩ [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 👉 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)<!-- MEMES:END -->
+ - 💣 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
+ - ⏩ [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
 
 ---
 
