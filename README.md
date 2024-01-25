@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details a spy tool called Patternz, which can track billions of phone profiles via ads in hundreds of thousands of apps, including 9gag and Kik &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240125/p1#a240125p1)
- - [OnePlus 12 Preorder Deals: Save Up to $800 When You Preorder the New OnePlus Flagship     - CNET](https://www.cnet.com/deals/oneplus-12-deals/#ftag=CAD590a51e)
- - [Sources: Sam Altman has had discussions with members of the US Congress about where and how to build fabs to increase the supply of advanced chips for AI &lpar;Washington Post&rpar;](http://www.techmeme.com/240124/p37#a240124p37)<!-- TECH:END -->
+ - [Google could finally give Wear OS an annual upgrade cycle with Wear OS 5 based on Android 14](https://www.androidauthority.com/google-wear-os-annual-upgrade-cycle-3407469/)
+ - [As Palworld sells 8M+ copies, The Pok&amp;eacute;mon Company says it has not granted permission to &quot;another company&quot; to use its IP and plans to &quot;take appropriate measures&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240125/p3#a240125p3)
+ - [Chinese smartphone shipments declined 5% YoY to 271.3M units in 2023; in a first, Apple gained the top spot with 17.3% marketshare, followed by Honor with 17.1% &lpar;IDC&rpar;](http://www.techmeme.com/240125/p2#a240125p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
