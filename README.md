@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has new App Store rules, business terms, and sideloading conditions for EU developers](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
- - [Apple will allow apps to access and use the iPhone&#39;s NFC chip in the EU, letting third-party payment services and banks offer their own tap-to-pay options &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240125/p34#a240125p34)
- - [The most powerful Ryzen Zen 3 processor receives its biggest discount yet](https://www.theverge.com/2024/1/25/24050290/amd-ryzen-9-5950x-logitech-mx-master-3s-apple-magic-keyboard-bose-quiet-comfort-ii-deals-sales)<!-- TECH:END -->
+ - [OpenAI announces lower GPT-3.5 Turbo prices, a GPT-4 Turbo preview model to reduce cases of &quot;laziness&quot;, a new generation of embedding models, and more &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240125/p40#a240125p40)
+ - [App Store changes coming in iOS 17.4 to the EU don&#39;t blow the walls off of the garden](https://appleinsider.com/articles/24/01/25/app-store-changes-coming-in-ios-174-to-the-eu-dont-blow-the-walls-off-of-the-garden?utm_medium=rss)
+ - [Here’s how the Pixel 8 Pro’s thermometer measures body temperature](https://www.androidauthority.com/pixel-8-pro-body-temp-measurements-3407772/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
