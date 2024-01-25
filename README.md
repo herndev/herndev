@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - ⏩ [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
+ - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - ⏩ [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 👉 [Dude gets 130yrs in prison](http://9gag.com/gag/a2KeeAE)<!-- MEMES:END -->
 
 ---
 
