@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let them fight](http://9gag.com/gag/aVbArEw)
- - ⏩ [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 👉 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)<!-- MEMES:END -->
+ - 💣 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
+ - ⏩ [A workable solution](http://9gag.com/gag/aEq344x)
+ - 👉 [Yes pleasee](http://9gag.com/gag/a9qoGy0)<!-- MEMES:END -->
 
 ---
 
