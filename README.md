@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They said it couldn&#39;t be done](http://9gag.com/gag/axo5LGW)
- - ⏩ [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
- - 👉 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)<!-- MEMES:END -->
+ - 💣 [True love](http://9gag.com/gag/aWGzAGZ)
+ - ⏩ [True or false ?](http://9gag.com/gag/aREnGdG)
+ - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
 
 ---
 
