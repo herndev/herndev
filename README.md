@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is enhancing reports about what it knows about EU users in iOS 17.4](https://appleinsider.com/articles/24/01/25/apple-is-enhancing-reports-about-what-it-knows-about-eu-users-in-ios-174?utm_medium=rss)
- - [A Cruise report finds its top executives&#39; adversarial approach toward regulators led to a cascade of events that ended with a suspension of its autonomous fleet &lpar;New York Times&rpar;](http://www.techmeme.com/240125/p43#a240125p43)
- - [The US plans to sell about $117M worth of Bitcoin seized from Ryan Farace, a convicted drug trafficker who operated on the Silk Road dark web marketplace &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/240125/p42#a240125p42)<!-- TECH:END -->
+ - [Apple is correcting its terrible approval requirements for game streaming apps in iOS 17.4](https://appleinsider.com/articles/24/01/25/game-streaming-apps-in-ios-174-ipados-174-will-be-freed-from-approval-shackles?utm_medium=rss)
+ - [Apple&#39;s Empowering Creatives program expands to two Indigenous causes](https://appleinsider.com/articles/24/01/25/apples-empowering-creatives-program-expands-to-two-indigenous-causes?utm_medium=rss)
+ - [iOS 17.4 beta code reveals new iPad Pro and Apple Pencil capabilities](https://appleinsider.com/articles/24/01/25/ios-174-beta-code-reveals-new-ipad-pro-and-apple-pencil-capabilities?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
