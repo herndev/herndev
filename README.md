@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 💣 [They said it couldn&#39;t be done](http://9gag.com/gag/axo5LGW)
  - ⏩ [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
- - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
+ - 👉 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)<!-- MEMES:END -->
 
 ---
 
