@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Texas is ignoring the Supreme Court and installing more barbed wire in Eagle Pass.](http://9gag.com/gag/a2Ke6ED)
- - ⏩ [Yes pleasee](http://9gag.com/gag/a9qoGy0)
- - 👉 [Found this gem on my phone archive](http://9gag.com/gag/aqe0oMQ)<!-- MEMES:END -->
+ - 💣 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - ⏩ [True love](http://9gag.com/gag/aWGzAGZ)
+ - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
 
 ---
 
