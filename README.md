@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I love my GPT, but I can’t find a use for anybody else’s](https://www.theverge.com/24049623/chatgpt-openai-custom-gpt-store-assistants)
- - [Apple takes top spot as China stems its smartphone sales decline](https://appleinsider.com/articles/24/01/25/apple-takes-top-spot-as-china-stems-its-smartphone-sales-decline?utm_medium=rss)
- - [Anomalo, which uses AI to solve data-quality problems in large datasets, raised a $33M Series B led by SignalFire, bringing its total funding to $72M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240125/p21#a240125p21)<!-- TECH:END -->
+ - [Samsung plans to limit Galaxy AI to 2023 devices and newer, for now](https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/)
+ - [X is flooded with AI-generated pornographic images of Taylor Swift; one post, live for 17 hours, had 45M+ views, hundreds of thousands of likes, and 24K reposts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240125/p23#a240125p23)
+ - [The Bad Batch season 3: Plot, cast, release window, and more](https://www.androidauthority.com/bad-batch-season-3-release-date-3378055/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
