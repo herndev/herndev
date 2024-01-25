@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 8 Pro’s Thermometer app can finally record your body temperature](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-update-2024-3407008/)
- - [First Pixel Feature Drop of 2024 has arrived and here’s what’s included](https://www.androidauthority.com/first-pixel-feature-drop-2024-3406263/)
- - [The new Mint color Pixel 8 series will perfectly complement your pastel outfit](https://www.androidauthority.com/google-pixel-8-pro-mint-color-3407071/)<!-- TECH:END -->
+ - [New York City issues a public health advisory officially designating social media as an &quot;environmental toxin&quot;, blaming it for a youth mental health crisis &lpar;Sareen Habeshian/Axios&rpar;](http://www.techmeme.com/240124/p34#a240124p34)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [The Pixel 8 Pro’s Thermometer app can finally record your body temperature](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-update-2024-3407008/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
