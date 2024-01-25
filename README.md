@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A faithful, fan-made restoration of the Super Metroid OST is coming to vinyl](https://www.polygon.com/deals/24050338/super-metroid-ost-vinyl-buy)
- - [Dungeons 4, now on Game Pass, combines Warcraft and Dungeon Keeper in a deliciously evil package](https://www.polygon.com/gaming/24048402/dungeons-4-xbox-game-pass-warcraft-dungeon-keeper-management-sim)
- - [25 Days Into 2024 And 5,800+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
+ - [Palia’s Lunar New Year event is a big buff to the Maji Market](https://www.polygon.com/24049260/palia-game-maji-market-luna-new-year-event-announcement)
+ - [The Most Underrated PlayStation 5 Game Lands On PC Soon](https://kotaku.com/horizon-forbidden-west-complete-pc-sony-ps5-1851197125)
+ - [How to upgrade your Seneschal in Diablo 4](https://www.polygon.com/diablo-4-guides/24049717/seneschal-upgrade-tuning-governing-stone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
