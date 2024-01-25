@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s Arc graphics cards receive yet another major performance uplift with the latest driver](https://www.pcgamer.com/intels-arc-graphics-cards-receive-yet-another-major-performance-uplift-with-the-latest-driver)
  - [Palworld is 2024&#39;s first breakout hit. Why is it so popular?](https://www.pcgamer.com/palworld-is-2024s-first-breakout-hit-why-is-it-so-popular)
- - [The best Palworld mods so far and how to install them](https://www.pcgamer.com/best-palworld-mods)
- - [Dungeons and Dragons is coming to VR](https://www.pcgamer.com/dungeons-and-dragons-is-coming-to-vr)<!-- GAME:END -->
+ - [The best Palworld mods so far and how to install them](https://www.pcgamer.com/best-palworld-mods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
