@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Says a Cheaper Tesla Model Is Coming in 2025 as Chinese Competition Intensifies](https://www.wired.com/story/elon-musk-says-cheaper-tesla-coming-2025/)
  - [SK Hynix reports Q4 operating profit of ~$259M, versus estimates of a ~$127M loss, and revenue up 47% YoY to ~$8.4B, beating even the highest analyst forecast &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240124/p36#a240124p36)
- - [Toronto-based Spellbook, which offers an AI-powered contract drafting and review tool for lawyers, raised a $20M Series A led by Inovia Capital &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/240124/p35#a240124p35)
- - [Pixel 7A Deals: Score One for Free &amp; Other Trade-in Offers to Take Advantage of Right Now     - CNET](https://www.cnet.com/deals/best-pixel-7a-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Toronto-based Spellbook, which offers an AI-powered contract drafting and review tool for lawyers, raised a $20M Series A led by Inovia Capital &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/240124/p35#a240124p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
