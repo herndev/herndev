@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - ⏩ [Anxiety personified](http://9gag.com/gag/aPg5qgK)
+ - 💣 [He really tried to push the neck of an F1 driver](http://9gag.com/gag/ap9Owz8)
+ - ⏩ [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
  - 👉 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)<!-- MEMES:END -->
 
 ---
