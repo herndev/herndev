@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s Arc graphics cards receive yet another major performance uplift with the latest driver](https://www.pcgamer.com/intels-arc-graphics-cards-receive-yet-another-major-performance-uplift-with-the-latest-driver)
- - [Palworld is 2024&#39;s first breakout hit. Why is it so popular?](https://www.pcgamer.com/palworld-is-2024s-first-breakout-hit-why-is-it-so-popular)
- - [The best Palworld mods so far and how to install them](https://www.pcgamer.com/best-palworld-mods)<!-- GAME:END -->
+ - [Pokémon Company Issues Statement About Palworld, Says It Will &#39;Investigate&#39;](https://kotaku.com/palworld-pokemon-company-statement-ip-investigation-1851195362)
+ - [The Pokémon Company releases a statement about Palworld, says it intends to &#39;investigate and take appropriate measures to address any acts that infringe on intellectual property rights related to the Pokémon&#39;](https://www.pcgamer.com/the-pokemon-company-releases-a-statement-about-palworld-says-it-intends-to-investigate-and-take-appropriate-measures-to-address-any-acts-that-infringe-on-intellectual-property-rights-related-to-the-pokemon)
+ - [Wordle today: Hint and answer #950 for Thursday, January 25](https://www.pcgamer.com/wordle-today-answer-950-january-25)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
