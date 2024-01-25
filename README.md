@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Just four months after launching into early access, Nexon&#39;s &#39;full contact sword action&#39; game Warhaven is shutting down](https://www.pcgamer.com/just-four-months-after-launching-into-early-access-nexons-full-contact-sword-action-game-warhaven-is-shutting-down)
- - [What’s up with Metroid Prime 4?](https://www.polygon.com/24050473/metroid-prime-4-nintendo-switch-2)
- - [New Game Announces Release Date And Also Shutdown Date In Same Tweet](https://kotaku.com/love-live-2-release-date-shutdown-tweet-global-ios-1851198506)<!-- GAME:END -->
+ - [Thanks To New EU Rules, Fortnite Is Coming Back To iPhones](https://kotaku.com/fortnite-iphone-ios-apple-return-epic-store-eu-dma-1851198881)
+ - [Where to find metal scraps in Enshrouded](https://www.pcgamer.com/enshrouded-metal-scraps)
+ - [A game about giant evil rats, Merciful Sisters, and other fantasy weirdos waging war in a ruined city is free in GOG&#39;s 2024 New Year Sale](https://www.pcgamer.com/a-game-about-giant-evil-rats-merciful-sisters-and-other-fantasy-weirdos-waging-war-in-a-ruined-city-is-free-in-gogs-2024-new-year-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
