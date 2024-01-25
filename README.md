@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let them fight](http://9gag.com/gag/aVbArEw)
- - ⏩ [True love](http://9gag.com/gag/aWGzAGZ)
- - 👉 [Turns the match into ballet session](http://9gag.com/gag/aMEg566)<!-- MEMES:END -->
+ - 💣 [Texas is ignoring the Supreme Court and installing more barbed wire in Eagle Pass.](http://9gag.com/gag/a2Ke6ED)
+ - ⏩ [Yes pleasee](http://9gag.com/gag/a9qoGy0)
+ - 👉 [Found this gem on my phone archive](http://9gag.com/gag/aqe0oMQ)<!-- MEMES:END -->
 
 ---
 
