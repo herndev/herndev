@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to use a screen protector on curved display? OnePlus got your back with the 12 and 12R](https://www.androidauthority.com/oneplus-12-12r-screen-protector-phone-hole-seal-stickers-3407507/)
- - [Mark your calendars: Ghosts season 3 release date and must-know spoilers are here](https://www.androidauthority.com/ghosts-season-3-release-date-3407054/)
- - [How the rising prices of streaming services are driving a new era of US pirate sites, bringing ~$2B per year in ads and subscriptions with a 90% profit margin &lpar;Thomas Buckley/Bloomberg&rpar;](http://www.techmeme.com/240125/p7#a240125p7)<!-- TECH:END -->
+ - [Save on Tax Software and Get Your Maximum Refund With These Deals     - CNET](https://www.cnet.com/deals/save-on-tax-software-and-get-your-maximum-refund-with-these-deals/#ftag=CAD590a51e)
+ - [Fire Country season 2: Release date and the latest rumors](https://www.androidauthority.com/fire-country-season-2-release-date-3407313/)
+ - [Grab a Smartravel E-Bike and Save Hundreds With Our Exclusive Code     - CNET](https://www.cnet.com/roadshow/news/grab-a-smartravel-e-bike-and-save-hundreds-with-our-exclusive-code/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
