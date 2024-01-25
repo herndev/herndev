@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Green Knight meets Hellblade in this medieval horror fantasy game](https://www.polygon.com/24049409/of-love-and-eternity-dark-fantasy-demo-impressions)
- - [This co-op survival game looks like a mad scientist&#39;s mashup of Lethal Company and Half-Life—and there&#39;s a demo out now](https://www.pcgamer.com/this-co-op-survival-game-looks-like-a-mad-scientists-mashup-of-lethal-company-and-half-lifeand-theres-a-demo-out-now)
- - [The demo for poker-based roguelike Balatro returns today with nearly 40 new jokers—plus a full release date in February](https://www.pcgamer.com/the-demo-for-poker-based-roguelike-balatro-returns-today-with-nearly-40-new-jokersplus-a-full-release-date-in-february)<!-- GAME:END -->
+ - [Don&#39;t sleep on one of Enshrouded&#39;s coolest features… which is literally sleep](https://www.pcgamer.com/dont-sleep-on-one-of-enshroudeds-coolest-features-which-is-literally-sleep)
+ - [10 Minutes From Infinite Wealth’s Animal Crossing-Inspired Mode](https://kotaku.com/like-a-dragon-infinite-wealth-dondoko-island-gameplay-1851197657)
+ - [A Modder Has Created The Worst Way To Play Super Mario Kart](https://kotaku.com/super-mario-kart-resident-evil-camera-rom-hack-mod-bad-1851197663)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
