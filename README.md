@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokémon Company is investigating Palworld](https://www.polygon.com/24050193/palworld-pokemon-company-investigation-ip)
- - [Palworld players channel their inner hunter-gatherers to fell a giant mammoth by herding it into campfires, devs call it &#39;genius&#39;](https://www.pcgamer.com/palworld-players-channel-their-inner-hunter-gatherers-to-fell-a-giant-mammoth-by-herding-it-into-campfires-devs-call-it-genius)
- - [Pokémon Company Issues Statement About Palworld, Says It Will &#39;Investigate&#39;](https://kotaku.com/palworld-pokemon-company-statement-ip-investigation-1851195362)<!-- GAME:END -->
+ - [Sneaky World of Warcraft hotfix titles players &#39;Champion of the Dragonflights&#39; a whole week after a dramatic cutscene did, leads to most getting their full honours while standing around doing nothing](https://www.pcgamer.com/sneaky-world-of-warcraft-hotfix-titles-players-champion-of-the-dragonflights-a-whole-week-after-a-dramatic-cutscene-did-leads-to-most-getting-their-full-honours-while-standing-around-doing-nothing)
+ - [How to get coal in Palworld](https://www.pcgamer.com/palworld-coal-farm)
+ - [&#39;The mother of all breaches&#39; – 26 billion records leaked including stolen user logins, so may we suggest you finally change that old password?](https://www.pcgamer.com/the-mother-of-all-breaches-26-billion-records-leaked-including-stolen-user-logins-so-may-we-suggest-you-finally-change-that-old-password)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
