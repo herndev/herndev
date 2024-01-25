@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - ⏩ [Anxiety personified](http://9gag.com/gag/aPg5qgK)
- - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
+ - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - ⏩ [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 👉 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)<!-- MEMES:END -->
 
 ---
 
