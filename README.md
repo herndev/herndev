@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True love](http://9gag.com/gag/aWGzAGZ)
- - ⏩ [... and then there was three lol](http://9gag.com/gag/a7qQmAb)
- - 👉 [Valley of Tears in the Andes, January 1973 vs. January 2023](http://9gag.com/gag/aDYyvzO)<!-- MEMES:END -->
+ - 💣 [Let them fight](http://9gag.com/gag/aVbArEw)
+ - ⏩ [True love](http://9gag.com/gag/aWGzAGZ)
+ - 👉 [Turns the match into ballet session](http://9gag.com/gag/aMEg566)<!-- MEMES:END -->
 
 ---
 
