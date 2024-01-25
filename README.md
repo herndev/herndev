@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI announces lower GPT-3.5 Turbo prices, a GPT-4 Turbo preview model to reduce cases of &quot;laziness&quot;, a new generation of embedding models, and more &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240125/p40#a240125p40)
- - [App Store changes coming in iOS 17.4 to the EU don&#39;t blow the walls off of the garden](https://appleinsider.com/articles/24/01/25/app-store-changes-coming-in-ios-174-to-the-eu-dont-blow-the-walls-off-of-the-garden?utm_medium=rss)
- - [Here’s how the Pixel 8 Pro’s thermometer measures body temperature](https://www.androidauthority.com/pixel-8-pro-body-temp-measurements-3407772/)<!-- TECH:END -->
+ - [Apple is enhancing reports about what it knows about EU users in iOS 17.4](https://appleinsider.com/articles/24/01/25/apple-is-enhancing-reports-about-what-it-knows-about-eu-users-in-ios-174?utm_medium=rss)
+ - [A Cruise report finds its top executives&#39; adversarial approach toward regulators led to a cascade of events that ended with a suspension of its autonomous fleet &lpar;New York Times&rpar;](http://www.techmeme.com/240125/p43#a240125p43)
+ - [The US plans to sell about $117M worth of Bitcoin seized from Ryan Farace, a convicted drug trafficker who operated on the Silk Road dark web marketplace &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/240125/p42#a240125p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
