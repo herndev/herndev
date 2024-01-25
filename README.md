@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation 5 update blocks Cronus Zen cheat devices](https://www.theverge.com/2024/1/24/24049658/playstation-5-update-cronus-zen-blocked-cheats)
- - [Rivian’s R2 vehicle launch date appears to leak in town council minutes](https://www.theverge.com/2024/1/24/24049639/rivian-r2-ev-march-announcement-launch-laguna-beach)
- - [Best Robot Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel 8 Pro’s Thermometer app can finally record your body temperature](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-update-2024-3407008/)
+ - [First Pixel Feature Drop of 2024 has arrived and here’s what’s included](https://www.androidauthority.com/first-pixel-feature-drop-2024-3406263/)
+ - [The new Mint color Pixel 8 series will perfectly complement your pastel outfit](https://www.androidauthority.com/google-pixel-8-pro-mint-color-3407071/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
