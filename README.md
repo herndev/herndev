@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft laying off 1,900 Activision Blizzard and Xbox workers](https://www.polygon.com/24050311/microsoft-xbox-activision-blizzard-layoff)
- - [The Very Best TV Shows On Disney Plus](https://kotaku.com/disney-plus-best-tv-shows-simpsons-marvel-star-wars-1851194146)
- - [How to get leather in Palworld](https://www.polygon.com/palworld-guides/24048036/leather-how-to-get-location-where-to-find)<!-- GAME:END -->
+ - [Free Play Days – WWE 2k23, Phantom Abyss and MX vs ATV Legends](https://news.xbox.com/en-us/2024/01/25/free-play-days-wwe-2k23-phantom-abyss-and-mx-vs-atv-legends/)
+ - [Blizzard cancels its secret survival game as president and co-founder leave](https://www.polygon.com/24050326/blizzard-survival-game-canceled-allen-adham-mike-ybarra)
+ - [Microsoft cuts 1,900 jobs at Activision Blizzard and Xbox, Blizzard president Mike Ybarra leaves the company, and the studio&#39;s survival game has been cancelled](https://www.pcgamer.com/microsoft-cuts-1900-jobs-at-activision-blizzard-and-xbox-blizzard-president-mike-ybarra-leaves-the-company-and-the-studios-survival-game-has-been-cancelled)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
