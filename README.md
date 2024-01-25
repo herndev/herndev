@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Basic programming](http://9gag.com/gag/aQEGbnw)
- - ⏩ [Random title](http://9gag.com/gag/awZw2yr)
- - 👉 [True love](http://9gag.com/gag/aWGzAGZ)<!-- MEMES:END -->
+ - 💣 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - ⏩ [True love](http://9gag.com/gag/aWGzAGZ)
+ - 👉 [At least they fill the bags all the way up](http://9gag.com/gag/armY7yy)<!-- MEMES:END -->
 
 ---
 
