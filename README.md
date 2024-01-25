@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons and Dragons is coming to VR](https://www.pcgamer.com/dungeons-and-dragons-is-coming-to-vr)
- - [Palworld struggled to find a dev with shooter experience in Japan before stumbling on a self-taught hobbyist who worked at a convenience store](https://www.pcgamer.com/palworld-struggled-to-find-a-dev-with-shooter-experience-in-japan-before-stumbling-on-a-self-taught-hobbyist-who-worked-at-a-convenience-store)
- - [How to find Palworld kindling and other work suitabilities](https://www.pcgamer.com/palworld-work-suitabilities)<!-- GAME:END -->
+ - [Palworld is 2024&#39;s first breakout hit. Why is it so popular?](https://www.pcgamer.com/palworld-is-2024s-first-breakout-hit-why-is-it-so-popular)
+ - [The best Palworld mods so far and how to install them](https://www.pcgamer.com/best-palworld-mods)
+ - [Dungeons and Dragons is coming to VR](https://www.pcgamer.com/dungeons-and-dragons-is-coming-to-vr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
