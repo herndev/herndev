@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - ⏩ [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
- - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
+ - ⏩ [Anxiety personified](http://9gag.com/gag/aPg5qgK)
+ - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
 
 ---
 
