@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - ⏩ [Random title](http://9gag.com/gag/awZw2yr)
- - 👉 [The IQ Test](http://9gag.com/gag/a9qo4VW)<!-- MEMES:END -->
+ - 💣 [Mississippi](http://9gag.com/gag/a4ovOBp)
+ - ⏩ [True love](http://9gag.com/gag/aWGzAGZ)
+ - 👉 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)<!-- MEMES:END -->
 
 ---
 
