@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t sleep on one of Enshrouded&#39;s coolest features… which is literally sleep](https://www.pcgamer.com/dont-sleep-on-one-of-enshroudeds-coolest-features-which-is-literally-sleep)
- - [10 Minutes From Infinite Wealth’s Animal Crossing-Inspired Mode](https://kotaku.com/like-a-dragon-infinite-wealth-dondoko-island-gameplay-1851197657)
- - [A Modder Has Created The Worst Way To Play Super Mario Kart](https://kotaku.com/super-mario-kart-resident-evil-camera-rom-hack-mod-bad-1851197663)<!-- GAME:END -->
+ - [A Modder Has Created The Worst Way To Play Super Mario Kart](https://kotaku.com/super-mario-kart-resident-evil-camera-rom-hack-mod-bad-1851197663)
+ - [Palworld Breeding Basics And Helpful Tools](https://kotaku.com/palworld-breeding-how-egg-pals-1851198279)
+ - [It&#39;s actually happening: Skull and Bones is holding an open beta in February](https://www.pcgamer.com/its-actually-happening-skull-and-bones-is-holding-an-open-beta-in-february)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
