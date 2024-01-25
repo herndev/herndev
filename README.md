@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - ⏩ [True love](http://9gag.com/gag/aWGzAGZ)
- - 👉 [At least they fill the bags all the way up](http://9gag.com/gag/armY7yy)<!-- MEMES:END -->
+ - ⏩ [Anxiety personified](http://9gag.com/gag/aPg5qgK)
+ - 👉 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)<!-- MEMES:END -->
 
 ---
 
