@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung plans to limit Galaxy AI to 2023 devices and newer, for now](https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/)
- - [X is flooded with AI-generated pornographic images of Taylor Swift; one post, live for 17 hours, had 45M+ views, hundreds of thousands of likes, and 24K reposts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240125/p23#a240125p23)
- - [The Bad Batch season 3: Plot, cast, release window, and more](https://www.androidauthority.com/bad-batch-season-3-release-date-3378055/)<!-- TECH:END -->
+ - [Apple is finally allowing full versions of Chrome and Firefox to run on the iPhone](https://www.theverge.com/2024/1/25/24050478/apple-ios-17-4-browser-engines-eu)
+ - [Apple opens App Store to game streaming services](https://www.theverge.com/2024/1/25/24050430/apple-app-store-game-streaming)
+ - [Apple is bringing sideloading and alternate app stores to the iPhone](https://www.theverge.com/2024/1/25/24050200/apple-third-party-app-stores-allowed-iphone-ios-europe-digital-markets-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
