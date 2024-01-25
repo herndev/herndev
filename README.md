@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Train Sim World 4 and how The Sims ironically inspired the simulator&#39;s approach to community generated content](https://www.pcgamer.com/train-sim-world-4-and-how-the-sims-ironically-inspired-the-simulators-approach-to-community-generated-content)
- - [11 years in, Old School RuneScape&#39;s toaster graphics are about to look better than ever](https://www.pcgamer.com/11-years-in-old-school-runescapes-toaster-graphics-are-about-to-look-better-than-ever)
- - [Sneaky World of Warcraft hotfix titles players &#39;Champion of the Dragonflights&#39; a whole week after a dramatic cutscene did, leads to most getting their full honours while standing around doing nothing](https://www.pcgamer.com/sneaky-world-of-warcraft-hotfix-titles-players-champion-of-the-dragonflights-a-whole-week-after-a-dramatic-cutscene-did-leads-to-most-getting-their-full-honours-while-standing-around-doing-nothing)<!-- GAME:END -->
+ - [Microsoft laying off 1,900 Activision Blizzard and Xbox workers](https://www.polygon.com/24050311/microsoft-xbox-activision-blizzard-layoff)
+ - [The Very Best TV Shows On Disney Plus](https://kotaku.com/disney-plus-best-tv-shows-simpsons-marvel-star-wars-1851194146)
+ - [How to get leather in Palworld](https://www.polygon.com/palworld-guides/24048036/leather-how-to-get-location-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
