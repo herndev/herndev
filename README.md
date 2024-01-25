@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Modder Has Created The Worst Way To Play Super Mario Kart](https://kotaku.com/super-mario-kart-resident-evil-camera-rom-hack-mod-bad-1851197663)
- - [Palworld Breeding Basics And Helpful Tools](https://kotaku.com/palworld-breeding-how-egg-pals-1851198279)
- - [It&#39;s actually happening: Skull and Bones is holding an open beta in February](https://www.pcgamer.com/its-actually-happening-skull-and-bones-is-holding-an-open-beta-in-february)<!-- GAME:END -->
+ - [Just four months after launching into early access, Nexon&#39;s &#39;full contact sword action&#39; game Warhaven is shutting down](https://www.pcgamer.com/just-four-months-after-launching-into-early-access-nexons-full-contact-sword-action-game-warhaven-is-shutting-down)
+ - [What’s up with Metroid Prime 4?](https://www.polygon.com/24050473/metroid-prime-4-nintendo-switch-2)
+ - [New Game Announces Release Date And Also Shutdown Date In Same Tweet](https://kotaku.com/love-live-2-release-date-shutdown-tweet-global-ios-1851198506)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
