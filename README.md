@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sneaky World of Warcraft hotfix titles players &#39;Champion of the Dragonflights&#39; a whole week after a dramatic cutscene did, leads to most getting their full honours while standing around doing nothing](https://www.pcgamer.com/sneaky-world-of-warcraft-hotfix-titles-players-champion-of-the-dragonflights-a-whole-week-after-a-dramatic-cutscene-did-leads-to-most-getting-their-full-honours-while-standing-around-doing-nothing)
- - [How to get coal in Palworld](https://www.pcgamer.com/palworld-coal-farm)
- - [&#39;The mother of all breaches&#39; – 26 billion records leaked including stolen user logins, so may we suggest you finally change that old password?](https://www.pcgamer.com/the-mother-of-all-breaches-26-billion-records-leaked-including-stolen-user-logins-so-may-we-suggest-you-finally-change-that-old-password)<!-- GAME:END -->
+ - [Train Sim World 4 and how The Sims ironically inspired the simulator&#39;s approach to community generated content](https://www.pcgamer.com/train-sim-world-4-and-how-the-sims-ironically-inspired-the-simulators-approach-to-community-generated-content)
+ - [11 years in, Old School RuneScape&#39;s toaster graphics are about to look better than ever](https://www.pcgamer.com/11-years-in-old-school-runescapes-toaster-graphics-are-about-to-look-better-than-ever)
+ - [Sneaky World of Warcraft hotfix titles players &#39;Champion of the Dragonflights&#39; a whole week after a dramatic cutscene did, leads to most getting their full honours while standing around doing nothing](https://www.pcgamer.com/sneaky-world-of-warcraft-hotfix-titles-players-champion-of-the-dragonflights-a-whole-week-after-a-dramatic-cutscene-did-leads-to-most-getting-their-full-honours-while-standing-around-doing-nothing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
