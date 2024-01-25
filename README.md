@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mississippi](http://9gag.com/gag/a4ovOBp)
- - ⏩ [True love](http://9gag.com/gag/aWGzAGZ)
- - 👉 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)<!-- MEMES:END -->
+ - 💣 [True love](http://9gag.com/gag/aWGzAGZ)
+ - ⏩ [... and then there was three lol](http://9gag.com/gag/a7qQmAb)
+ - 👉 [Valley of Tears in the Andes, January 1973 vs. January 2023](http://9gag.com/gag/aDYyvzO)<!-- MEMES:END -->
 
 ---
 
