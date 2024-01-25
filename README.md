@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save on Tax Software and Get Your Maximum Refund With These Deals     - CNET](https://www.cnet.com/deals/save-on-tax-software-and-get-your-maximum-refund-with-these-deals/#ftag=CAD590a51e)
- - [Fire Country season 2: Release date and the latest rumors](https://www.androidauthority.com/fire-country-season-2-release-date-3407313/)
- - [Grab a Smartravel E-Bike and Save Hundreds With Our Exclusive Code     - CNET](https://www.cnet.com/roadshow/news/grab-a-smartravel-e-bike-and-save-hundreds-with-our-exclusive-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How a Group of Israel-Linked Hackers Has Pushed the Limits of Cyberwar](https://www.wired.com/story/predatory-sparrow-cyberattack-timeline/)
+ - [The Extreme Sport of Ice Climbing Is at Risk of Extinction](https://www.wired.com/story/ice-climbing-global-warming-switzerland-anna-torretta-dani-arnold-netflix/)
+ - [This Chatbot Screens Your Dating App Matches for You](https://www.wired.com/story/volar-dating-app-chatbot-screen-matches/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
