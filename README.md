@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Company Issues Statement About Palworld, Says It Will &#39;Investigate&#39;](https://kotaku.com/palworld-pokemon-company-statement-ip-investigation-1851195362)
- - [The Pokémon Company releases a statement about Palworld, says it intends to &#39;investigate and take appropriate measures to address any acts that infringe on intellectual property rights related to the Pokémon&#39;](https://www.pcgamer.com/the-pokemon-company-releases-a-statement-about-palworld-says-it-intends-to-investigate-and-take-appropriate-measures-to-address-any-acts-that-infringe-on-intellectual-property-rights-related-to-the-pokemon)
- - [Wordle today: Hint and answer #950 for Thursday, January 25](https://www.pcgamer.com/wordle-today-answer-950-january-25)<!-- GAME:END -->
+ - [The Pokémon Company is investigating Palworld](https://www.polygon.com/24050193/palworld-pokemon-company-investigation-ip)
+ - [Palworld players channel their inner hunter-gatherers to fell a giant mammoth by herding it into campfires, devs call it &#39;genius&#39;](https://www.pcgamer.com/palworld-players-channel-their-inner-hunter-gatherers-to-fell-a-giant-mammoth-by-herding-it-into-campfires-devs-call-it-genius)
+ - [Pokémon Company Issues Statement About Palworld, Says It Will &#39;Investigate&#39;](https://kotaku.com/palworld-pokemon-company-statement-ip-investigation-1851195362)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
