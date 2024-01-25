@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – WWE 2k23, Phantom Abyss and MX vs ATV Legends](https://news.xbox.com/en-us/2024/01/25/free-play-days-wwe-2k23-phantom-abyss-and-mx-vs-atv-legends/)
- - [Blizzard cancels its secret survival game as president and co-founder leave](https://www.polygon.com/24050326/blizzard-survival-game-canceled-allen-adham-mike-ybarra)
- - [Microsoft cuts 1,900 jobs at Activision Blizzard and Xbox, Blizzard president Mike Ybarra leaves the company, and the studio&#39;s survival game has been cancelled](https://www.pcgamer.com/microsoft-cuts-1900-jobs-at-activision-blizzard-and-xbox-blizzard-president-mike-ybarra-leaves-the-company-and-the-studios-survival-game-has-been-cancelled)<!-- GAME:END -->
+ - [A faithful, fan-made restoration of the Super Metroid OST is coming to vinyl](https://www.polygon.com/deals/24050338/super-metroid-ost-vinyl-buy)
+ - [Dungeons 4, now on Game Pass, combines Warcraft and Dungeon Keeper in a deliciously evil package](https://www.polygon.com/gaming/24048402/dungeons-4-xbox-game-pass-warcraft-dungeon-keeper-management-sim)
+ - [25 Days Into 2024 And 5,800+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
