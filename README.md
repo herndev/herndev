@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - ⏩ [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 👉 [Dude gets 130yrs in prison](http://9gag.com/gag/a2KeeAE)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/adPEGxM)
+ - ⏩ [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
+ - 👉 [Ted Mosby had no chill](http://9gag.com/gag/aYV993m)<!-- MEMES:END -->
 
 ---
 
