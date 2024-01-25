@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
- - ⏩ [A workable solution](http://9gag.com/gag/aEq344x)
- - 👉 [Yes pleasee](http://9gag.com/gag/a9qoGy0)<!-- MEMES:END -->
+ - 💣 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - ⏩ [Yes pleasee](http://9gag.com/gag/a9qoGy0)
+ - 👉 [The IQ Test](http://9gag.com/gag/a9qo4VW)<!-- MEMES:END -->
 
 ---
 
