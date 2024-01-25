@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED iPad Pro screen orders already getting cut, claims questionable rumor](https://appleinsider.com/articles/24/01/25/oled-ipad-pro-screen-orders-already-getting-cut-claims-questionable-rumor?utm_medium=rss)
- - [RingConn Smart Ring Review: Affordable But Flawed](https://www.wired.com/review/ringconn-smart-ring/)
- - [How supernovae are helping uncover the mysteries of dark energy](https://www.theverge.com/24049140/dark-energy-universe-expand-mystery-survey-supernova)<!-- TECH:END -->
+ - [GM and Honda join forces to make hydrogen fuel cells for ‘various products’](https://www.theverge.com/2024/1/25/24049470/gm-honda-hydrogen-fuel-cells-joint-venture-michigan)
+ - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)
+ - [iPhone dominant in contracting Chinese smartphone market](https://appleinsider.com/articles/24/01/25/iphone-dominant-in-contracting-chinese-smartphone-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
