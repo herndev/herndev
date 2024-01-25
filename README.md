@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is finally allowing full versions of Chrome and Firefox to run on the iPhone](https://www.theverge.com/2024/1/25/24050478/apple-ios-17-4-browser-engines-eu)
- - [Apple opens App Store to game streaming services](https://www.theverge.com/2024/1/25/24050430/apple-app-store-game-streaming)
- - [Apple is bringing sideloading and alternate app stores to the iPhone](https://www.theverge.com/2024/1/25/24050200/apple-third-party-app-stores-allowed-iphone-ios-europe-digital-markets-act)<!-- TECH:END -->
+ - [Apple has new App Store rules, business terms, and sideloading conditions for EU developers](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
+ - [Apple will allow apps to access and use the iPhone&#39;s NFC chip in the EU, letting third-party payment services and banks offer their own tap-to-pay options &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240125/p34#a240125p34)
+ - [The most powerful Ryzen Zen 3 processor receives its biggest discount yet](https://www.theverge.com/2024/1/25/24050290/amd-ryzen-9-5950x-logitech-mx-master-3s-apple-magic-keyboard-bose-quiet-comfort-ii-deals-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
