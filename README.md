@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a Group of Israel-Linked Hackers Has Pushed the Limits of Cyberwar](https://www.wired.com/story/predatory-sparrow-cyberattack-timeline/)
- - [The Extreme Sport of Ice Climbing Is at Risk of Extinction](https://www.wired.com/story/ice-climbing-global-warming-switzerland-anna-torretta-dani-arnold-netflix/)
- - [This Chatbot Screens Your Dating App Matches for You](https://www.wired.com/story/volar-dating-app-chatbot-screen-matches/)<!-- TECH:END -->
+ - [OLED iPad Pro screen orders already getting cut, claims questionable rumor](https://appleinsider.com/articles/24/01/25/oled-ipad-pro-screen-orders-already-getting-cut-claims-questionable-rumor?utm_medium=rss)
+ - [RingConn Smart Ring Review: Affordable But Flawed](https://www.wired.com/review/ringconn-smart-ring/)
+ - [How supernovae are helping uncover the mysteries of dark energy](https://www.theverge.com/24049140/dark-energy-universe-expand-mystery-survey-supernova)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
