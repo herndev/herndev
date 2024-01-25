@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM and Honda join forces to make hydrogen fuel cells for ‘various products’](https://www.theverge.com/2024/1/25/24049470/gm-honda-hydrogen-fuel-cells-joint-venture-michigan)
- - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)
- - [iPhone dominant in contracting Chinese smartphone market](https://appleinsider.com/articles/24/01/25/iphone-dominant-in-contracting-chinese-smartphone-market?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: despite a US-Netherlands deal to limit ASML&#39;s China exports, the Dutch let ASML export to China after lobbying, to make up for weak demand elsewhere &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p20#a240125p20)
+ - [Industrial tech company Roper plans to buy Procare Solutions, which makes cloud tools for childcare centers, for $1.75B from Warburg Pincus and TA Associates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240125/p19#a240125p19)
+ - [Google partners with Hugging Face to host the startup&#39;s open-source AI models on Google Cloud, letting Hugging Face developers access Google&#39;s computing power &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240125/p18#a240125p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
