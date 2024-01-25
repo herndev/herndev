@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who have been there? I have.](http://9gag.com/gag/aL1xZMv)
- - ⏩ [Hehe](http://9gag.com/gag/adPEGxM)
+ - 💣 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - ⏩ [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
  - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
 
 ---
