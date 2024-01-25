@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He really tried to push the neck of an F1 driver](http://9gag.com/gag/ap9Owz8)
- - ⏩ [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 👉 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)<!-- MEMES:END -->
+ - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - ⏩ [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
+ - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
 
 ---
 
