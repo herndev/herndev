@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Hehe](http://9gag.com/gag/adPEGxM)
  - ⏩ [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
- - 👉 [Ted Mosby had no chill](http://9gag.com/gag/aYV993m)<!-- MEMES:END -->
+ - 👉 [About to face consequences](http://9gag.com/gag/aeQLn0B)<!-- MEMES:END -->
 
 ---
 
