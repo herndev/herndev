@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - ⏩ [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)
- - 👉 [Happens every-time](http://9gag.com/gag/aA0joKg)<!-- MEMES:END -->
+ - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - ⏩ [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
+ - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
 
 ---
 
