@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 💣 [A workable solution](http://9gag.com/gag/aEq344x)
  - ⏩ [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
  - 👉 [USA love guns](http://9gag.com/gag/aqe0PvM)<!-- MEMES:END -->
 
