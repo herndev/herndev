@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA launches the first stage of its review of Vodafone and Three UK&#39;s merger, and sets March 22, 2024 as a deadline to decide for an in-depth probe &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240126/p7#a240126p7)
- - [Source: Salesforce plans to lay off ~700 employees, or ~1% of its staff, after cutting 10% of its workforce in January 2023; the company has 1,000 open jobs &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240126/p6#a240126p6)
- - [iOS will finally get proper Chrome and Firefox, but only for some of us](https://www.androidauthority.com/ios-proper-chrome-firefox-browser-engine-eu-3407989/)<!-- TECH:END -->
+ - [Omdia: Nintendo plans to introduce a new Switch gaming console in 2024 with an eight-inch LCD screen; the current seven-year-old Switch has sold over 132M units &lpar;Bloomberg&rpar;](http://www.techmeme.com/240126/p12#a240126p12)
+ - [Sideloading apps on iPhones: What you need to know](https://www.androidauthority.com/sideloading-apps-on-iphones-explained-3407959/)
+ - [Creators of AI-generated George Carlin special sued by late comedian’s estate](https://www.theverge.com/2024/1/26/24051476/dudesy-ai-generated-george-carlin-special-sued-by-late-comedians-estate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
