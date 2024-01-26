@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will expand SharePlay music control to HomePod and Apple TV in iOS 17.4 and tvOS 17.4](https://appleinsider.com/articles/24/01/26/apple-will-expand-shareplay-music-control-to-homepod-and-apple-tv-in-ios-174-and-tvos-174?utm_medium=rss)
- - [Google is testing an ARM64 version of Chrome for Arm-based Windows devices &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240126/p26#a240126p26)
- - [OnePlus 12 preorders come with a free storage upgrade for a limited time](https://www.theverge.com/2024/1/26/24050729/oneplus-12-jackery-explorer-1000-portable-power-station-nintendo-eshop-deal-sale)<!-- TECH:END -->
+ - [Firefox may get tablet UI after all](https://www.androidauthority.com/firefox-may-get-tablet-ui-3408541/)
+ - [Pixel 8 Pro&#39;s Thermometer app, which uses an infrared sensor to scan the forehead, has a fiddly user experience and appears to have accuracy issues &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240126/p27#a240126p27)
+ - [Reminder: Amazon Prime Video is getting ads next week](https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
