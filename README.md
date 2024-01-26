@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Good Fortune &amp; Good Adventuring Arrive in Forza Horizon 5 for Lunar New Year](https://forza.net/news/forza-horizon-5-Lunar-New-Year#new_tab)
- - [Enshrouded is a solid start, but hasn’t found a distinct survival identity](https://www.polygon.com/24051683/enshrouded-survival-game-early-access-impressions)
- - [A new Witcher comic series spoils Geralt&#39;s retirement with a Western-styled &#39;homage to Andrzej Sapkowski, Clint Eastwood, and Sergio Leone&#39;](https://www.pcgamer.com/a-new-witcher-comic-series-spoils-geralts-retirement-with-a-western-styled-homage-to-andrzej-sapkowski-clint-eastwood-and-sergio-leone)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240123-2000&rpar;](https://news.xbox.com/en-us/2024/01/26/xbox-insider-release-notes-alpha-skip-ahead-2408-240123-2000/)
+ - [Baldur&#39;s Gate 3 20-Minute Speedrun Shows Bears Are Good For More Than Bangin&#39;](https://kotaku.com/baldurs-gate-3-speedrun-bear-shadowheart-20-minute-1851201738)
+ - [Another bunch of game studios have laid off employees, and we&#39;re not even out of January yet](https://www.pcgamer.com/another-bunch-of-game-studios-have-laid-off-employees-and-were-not-even-out-of-january-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
