@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s Apple’s reason why sideloading isn’t coming to other countries](https://www.androidauthority.com/apple-reason-no-sideloading-outside-eu-3407494/)
- - [An interview with Netflix co-CEO Greg Peters on the lack of a Netflix app on the Apple Vision Pro, the WWE deal, content strategy, ads, competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240126/p3#a240126p3)
- - [Apple adds support for transcripts to the Podcasts app in iOS 17.4 beta and says transcripts will be generated automatically after an episode is published &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240126/p2#a240126p2)<!-- TECH:END -->
+ - [Galaxy AI may have helped the Galaxy S24 series break a pre-order record](https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/)
+ - [Galaxy S24 Ultra’s best new feature is Gorilla Armor, and Samsung really undersold it](https://www.androidauthority.com/samsung-galaxy-s24-ultra-gorilla-armor-best-new-feature-3407951/)
+ - [Here’s Apple’s reason why sideloading isn’t coming to other countries](https://www.androidauthority.com/apple-reason-no-sideloading-outside-eu-3407494/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
