@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - ⏩ [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
+ - 💣 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - ⏩ [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
 
 ---
 
