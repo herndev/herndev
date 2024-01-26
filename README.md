@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [About to face consequences](http://9gag.com/gag/aeQLn0B)
- - ⏩ [More guppies for the 7 people who upvoted last time.](http://9gag.com/gag/aBdpp8z)
+ - 💣 [More guppies for the 7 people who upvoted last time.](http://9gag.com/gag/aBdpp8z)
+ - ⏩ [Lighterman](http://9gag.com/gag/aVbAALw)
  - 👉 [`So that&#39;s the Grand Canyon, huh?`](http://9gag.com/gag/avQN3gO)<!-- MEMES:END -->
 
 ---
