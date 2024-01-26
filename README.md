@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HONOR Magic V2: The world’s thinnest foldable launches in Europe](https://www.androidauthority.com/honor-magic-v2-launches-in-europe-3408270/)
- - [Some Beeper users lost access to iMessage on their Mac and were told by Apple access was revoked due to irregular activity; Beeper: ~3.5K users reported outages &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240126/p19#a240126p19)
- - [After years off Apple&#39;s App Store, &#39;Fortnite&#39; will reappear in the EU on Epic&#39;s](https://appleinsider.com/articles/24/01/26/after-years-off-apples-app-store-fortnite-will-reappear-in-the-eu-on-epics?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
+ - [Microsoft details the techniques that Midnight Blizzard used to breach the email accounts of its executives and other organizations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240126/p20#a240126p20)
+ - [Best deal yet on the Skullcandy Crusher ANC 2 at 25% off](https://www.androidauthority.com/skullcandy-crusher-anc-2-deal-3408372/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
