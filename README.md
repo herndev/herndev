@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - ⏩ [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
- - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
+ - 💣 [Nope not tonight](http://9gag.com/gag/agoWMev)
+ - ⏩ [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
+ - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
 
 ---
 
