@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to switch languages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-switch-languages-in-macos-sonoma?utm_medium=rss)
- - [The Nintendo Switch 2 could feature a weird downgrade for its display](https://www.androidauthority.com/nintendo-switch-2-lcd-screen-rumor-3408116/)
- - [A profile of Israel-linked Predatory Sparrow, whose cyberattacks of Iranian civilian targets are some of the most aggressive offensive hacking incidents ever &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240126/p15#a240126p15)<!-- TECH:END -->
+ - [Honor Magic V2 review: fabulous foldable running so-so software](https://www.theverge.com/24051466/honor-magic-v2-review)
+ - [How Beloved Indie Blog &#39;The Hairpin&#39; Turned Into an AI Clickbait Farm](https://www.wired.com/story/plaintext-hairpin-blog-ai-clickbait-farm/)
+ - [Some developers say Apple&#39;s new Core Technology Fee in the EU is eerily similar to the controversial Runtime Fee that Unity touted and withdrew after a backlash &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240126/p16#a240126p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
