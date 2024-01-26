@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apple Appstore opens up to game streaming including Nvidia&#39;s GeForce Now](https://www.pcgamer.com/apple-appstore-opens-up-to-game-streaming-including-nvidias-geforce-now)
  - [Popular Japanese rhythm game sets cancellation record by announcing release date and closure in the same tweet](https://www.pcgamer.com/popular-japanese-rhythm-game-sets-cancellation-record-by-announcing-release-date-and-closure-in-the-same-tweet)
- - [Dwarf Fortress&#39; missing best mode is tantalisingly close to release, just as soon as they nail down how to &#39;target toes with your crab pincers&#39;](https://www.pcgamer.com/dwarf-fortress-missing-best-mode-is-tantalisingly-close-to-release-just-as-soon-as-they-nail-down-how-to-target-toes-with-your-crab-pincers)
- - [Honkai: Star Rail version 2.0 features new realm Penacony, live February 6](https://blog.playstation.com/2024/01/26/honkai-star-rail-version-2-0-features-new-realm-penacony-live-february-6/)<!-- GAME:END -->
+ - [Dwarf Fortress&#39; missing best mode is tantalisingly close to release, just as soon as they nail down how to &#39;target toes with your crab pincers&#39;](https://www.pcgamer.com/dwarf-fortress-missing-best-mode-is-tantalisingly-close-to-release-just-as-soon-as-they-nail-down-how-to-target-toes-with-your-crab-pincers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
