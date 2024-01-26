@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus plotting second-gen ROG Ally handheld for later this year](https://www.pcgamer.com/asus-plotting-second-gen-rog-ally-handheld-for-later-this-year)
- - [We regret to inform you that Palworld has a smutty lizard &#39;seeking a night of love&#39; with humans, which raids bases in hordes of &#39;rampaging fangirls&#39;](https://www.pcgamer.com/we-regret-to-inform-you-that-palworld-has-a-smutty-lizard-seeking-a-night-of-love-with-humans-which-raids-bases-in-hordes-of-rampaging-fangirls)
- - [Intel Battlemage: What can we expect to see with the second generation of Arc GPUs?](https://www.pcgamer.com/intel-battlemage-what-to-expect)<!-- GAME:END -->
+ - [Popular Japanese rhythm game sets cancellation record by announcing release date and closure in the same tweet](https://www.pcgamer.com/popular-japanese-rhythm-game-sets-cancellation-record-by-announcing-release-date-and-closure-in-the-same-tweet)
+ - [Dwarf Fortress&#39; missing best mode is tantalisingly close to release, just as soon as they nail down how to &#39;target toes with your crab pincers&#39;](https://www.pcgamer.com/dwarf-fortress-missing-best-mode-is-tantalisingly-close-to-release-just-as-soon-as-they-nail-down-how-to-target-toes-with-your-crab-pincers)
+ - [Honkai: Star Rail version 2.0 features new realm Penacony, live February 6](https://blog.playstation.com/2024/01/26/honkai-star-rail-version-2-0-features-new-realm-penacony-live-february-6/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
