@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - ⏩ [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
- - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - ⏩ [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
+ - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
 
 ---
 
