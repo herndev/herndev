@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - ⏩ [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
+ - 💣 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - ⏩ [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
+ - 👉 [USA love guns](http://9gag.com/gag/aqe0PvM)<!-- MEMES:END -->
 
 ---
 
