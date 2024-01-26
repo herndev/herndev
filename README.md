@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A workable solution](http://9gag.com/gag/aEq344x)
- - ⏩ [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
- - 👉 [USA love guns](http://9gag.com/gag/aqe0PvM)<!-- MEMES:END -->
+ - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - ⏩ [Wah f**k you going](http://9gag.com/gag/amA3ZBX)
+ - 👉 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)<!-- MEMES:END -->
 
 ---
 
