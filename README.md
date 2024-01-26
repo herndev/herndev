@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s Apple’s reason why sideloading isn’t coming to other countries](https://www.androidauthority.com/apple-reason-no-sideloading-outside-eu-3407494/)
  - [An interview with Netflix co-CEO Greg Peters on the lack of a Netflix app on the Apple Vision Pro, the WWE deal, content strategy, ads, competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240126/p3#a240126p3)
- - [Apple adds support for transcripts to the Podcasts app in iOS 17.4 beta and says transcripts will be generated automatically after an episode is published &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240126/p2#a240126p2)
- - [Australian Open 2024 Men&#39;s Semifinal: How to Watch Daniil Medvedev vs. Alexander Zverev Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-mens-semifinal-how-to-watch-a-daniil-medvedev-vs-alexander-zverev-free-tennis-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple adds support for transcripts to the Podcasts app in iOS 17.4 beta and says transcripts will be generated automatically after an episode is published &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240126/p2#a240126p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
