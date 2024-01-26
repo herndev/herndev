@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac&#39;s 40th year, Apple Vision Pro&#39;s first and EU App Store changes on the AppleInsider podcast](https://appleinsider.com/articles/24/01/26/macs-40th-year-apple-vision-pros-first-and-eu-app-store-changes-on-the-appleinsider-podcast?utm_medium=rss)
- - [The best Samsung Galaxy S24 screen protectors](https://www.androidauthority.com/best-samsung-galaxy-s24-screen-protectors-3405609/)
- - [Surprise! Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)<!-- TECH:END -->
+ - [How to switch languages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-switch-languages-in-macos-sonoma?utm_medium=rss)
+ - [The Nintendo Switch 2 could feature a weird downgrade for its display](https://www.androidauthority.com/nintendo-switch-2-lcd-screen-rumor-3408116/)
+ - [A profile of Israel-linked Predatory Sparrow, whose cyberattacks of Iranian civilian targets are some of the most aggressive offensive hacking incidents ever &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240126/p15#a240126p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
