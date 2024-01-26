@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mysk: iPhone apps including Facebook, Instagram, Threads, TikTok, and X are skirting Apple&#39;s privacy rules to collect user data through push notifications &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240125/p50#a240125p50)
- - [WalkingPad Treadmil     - CNET](https://www.cnet.com/health/walkingpad-treadmil-dpnl/#ftag=CAD590a51e)
- - [Taxes 2024: Gen Z Is Overwhelmed by Tax Season. Here Are 7 Expert Tips to Make Filing Smoother     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-gen-z-overwhelmed-by-tax-season-7-expert-tips-to-make-filing-smoother-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taiwan plans to spend ~$7.4M on the Trustworthy AI Dialogue Engine, or Taide, an LLM for businesses, banks, and other customers, to counter China&#39;s influence &lpar;Jennifer Creery/Bloomberg&rpar;](http://www.techmeme.com/240125/p52#a240125p52)
+ - [LA County agrees to pay $5M to election software maker Konnech CEO Eugene Yu, who was wrongly arrested and charged in 2022 with mishandling voter data &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/240125/p51#a240125p51)
+ - [Mysk: iPhone apps including Facebook, Instagram, Threads, TikTok, and X are skirting Apple&#39;s privacy rules to collect user data through push notifications &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240125/p50#a240125p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
