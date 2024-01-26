@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope not tonight](http://9gag.com/gag/agoWMev)
- - ⏩ [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
+ - 💣 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - ⏩ [Yes that&#39;s me](http://9gag.com/gag/ay2Gy48)
+ - 👉 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)<!-- MEMES:END -->
 
 ---
 
