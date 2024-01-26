@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - ⏩ [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
+ - 💣 [About to face consequences](http://9gag.com/gag/aeQLn0B)
+ - ⏩ [More guppies for the 7 people who upvoted last time.](http://9gag.com/gag/aBdpp8z)
+ - 👉 [`So that&#39;s the Grand Canyon, huh?`](http://9gag.com/gag/avQN3gO)<!-- MEMES:END -->
 
 ---
 
