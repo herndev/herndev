@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An NSA letter to Sen. Ron Wyden reveals the agency buys logs related to Americans&#39; domestic internet activities from commercial data brokers without warrants &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/240125/p49#a240125p49)
- - [TurboTax Can&#39;t Call Its Services Free Anymore, Unless They&#39;re Free to All     - CNET](https://www.cnet.com/personal-finance/taxes/turbotax-cant-call-its-services-free-anymore-unless-theyre-free-to-all/#ftag=CAD590a51e)
- - [Bastille, which uses hardware sensors for wireless monitoring to stop espionage in offices, raised a $44M Series C led by Goldman Sachs&#39; venture arm &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240125/p48#a240125p48)<!-- TECH:END -->
+ - [Mysk: iPhone apps including Facebook, Instagram, Threads, TikTok, and X are skirting Apple&#39;s privacy rules to collect user data through push notifications &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240125/p50#a240125p50)
+ - [WalkingPad Treadmil     - CNET](https://www.cnet.com/health/walkingpad-treadmil-dpnl/#ftag=CAD590a51e)
+ - [Taxes 2024: Gen Z Is Overwhelmed by Tax Season. Here Are 7 Expert Tips to Make Filing Smoother     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-gen-z-overwhelmed-by-tax-season-7-expert-tips-to-make-filing-smoother-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
