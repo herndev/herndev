@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Chamath Palihapitiya shelved plans to raise $1B for an early-stage investment fund due to fundraising challenges and other issues &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240126/p22#a240126p22)
- - [Apple&#39;s M3 Max 14-inch MacBook Pro with 64GB RAM is $250 off &amp; in stock](https://appleinsider.com/articles/24/01/26/apples-m3-max-14-inch-macbook-pro-with-64gb-ram-is-250-off-in-stock?utm_medium=rss)
- - [Apple is restoring Mac users that were banned after using Beeper on iPhone](https://appleinsider.com/articles/24/01/26/apple-is-restoring-mac-users-that-were-banned-after-using-beeper-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will expand SharePlay music control to HomePod and Apple TV in iOS 17.4 and tvOS 17.4](https://appleinsider.com/articles/24/01/26/apple-will-expand-shareplay-music-control-to-homepod-and-apple-tv-in-ios-174-and-tvos-174?utm_medium=rss)
+ - [Google is testing an ARM64 version of Chrome for Arm-based Windows devices &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240126/p26#a240126p26)
+ - [OnePlus 12 preorders come with a free storage upgrade for a limited time](https://www.theverge.com/2024/1/26/24050729/oneplus-12-jackery-explorer-1000-portable-power-station-nintendo-eshop-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
