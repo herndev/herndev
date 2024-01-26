@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
- - ⏩ [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 👉 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)<!-- MEMES:END -->
+ - 💣 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - ⏩ [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
 
 ---
 
