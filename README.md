@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Enshrouded&#39;s promising early access has a problem—quest progression is server-wide, which means a single player could hog all the fun times to themselves](https://www.pcgamer.com/enshroudeds-promising-early-access-has-a-problemquest-progression-is-server-wide-which-means-a-single-player-could-hog-all-the-fun-times-to-themselves)
- - [The best base locations in Palworld](https://www.polygon.com/palworld-guides/24050846/best-base-locations-resources-farming)
- - [How to move a base in Palworld](https://www.polygon.com/palworld-guides/24050839/how-to-move-base-palbox)<!-- GAME:END -->
+ - [Tekken 8 Fans Desperately Want Final Fantasy 7&#39;s Best Girl In The Game](https://kotaku.com/tekken-8-guest-character-tifa-lockhart-ff7-1851200899)
+ - [The most powerful AI processing supercomputer in the world is set to be built in Germany, and planned to become operational within a mere year. Crikey.](https://www.pcgamer.com/the-most-powerful-ai-processing-supercomputer-in-the-world-is-set-to-be-built-in-germany-and-operational-within-a-year)
+ - [Epic taunts Apple with a banana as Tim Sweeney decries new iOS rules in the EU as &#39;hot garbage&#39;](https://www.pcgamer.com/epic-taunts-apple-with-a-banana-as-tim-sweeney-decries-new-ios-rules-in-the-eu-as-hot-garbage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
