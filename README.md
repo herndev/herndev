@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thanks To New EU Rules, Fortnite Is Coming Back To iPhones](https://kotaku.com/fortnite-iphone-ios-apple-return-epic-store-eu-dma-1851198881)
- - [Where to find metal scraps in Enshrouded](https://www.pcgamer.com/enshrouded-metal-scraps)
- - [A game about giant evil rats, Merciful Sisters, and other fantasy weirdos waging war in a ruined city is free in GOG&#39;s 2024 New Year Sale](https://www.pcgamer.com/a-game-about-giant-evil-rats-merciful-sisters-and-other-fantasy-weirdos-waging-war-in-a-ruined-city-is-free-in-gogs-2024-new-year-sale)<!-- GAME:END -->
+ - [Pizza Tower, 2023&#39;s best platformer, is getting a free update where you play as one of the villains with his own music and moveset: &#39;Think of it as a sort of New Game+&#39;](https://www.pcgamer.com/pizza-tower-2023s-best-platformer-is-getting-a-free-update-where-you-play-as-one-of-the-villains-with-his-own-music-and-moveset-think-of-it-as-a-sort-of-new-game)
+ - [Blizzard&#39;s canceled survival game had been in development for over 6 years, was highly praised by employees](https://www.pcgamer.com/blizzard-survival-game-cancellation-news)
+ - [Enshrouded beginner’s tips before you start](https://www.polygon.com/enshrouded-guides/24050296/beginners-tips-before-you-start)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
