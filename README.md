@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Enshrouded amber guide: three great spots to quickly find this useful resource](https://www.pcgamer.com/enshrouded-amber-locations)
- - [Tekken 8 is already $20 off if you’re new to QVC](https://www.polygon.com/deals/24051959/tekken-8-tears-of-the-kingdom-prince-of-persia-qvc-deal-gaming-sale)
- - [Dominions 6 is the only strategy game where I can send an army of dog men to victory led by a squeaky toy god](https://www.pcgamer.com/dominions-6-is-the-only-strategy-game-where-i-can-send-an-army-of-dog-men-to-victory-led-by-a-squeaky-toy-god)<!-- GAME:END -->
+ - [Creating the Bahnsen Knights Universe – A Love Letter to Old-School Games and Pulps](https://news.xbox.com/en-us/2024/01/26/creating-the-bahnsen-knights-universe-a-love-letter-to-old-school-games-and-pulps/)
+ - [Sims 4 build tips: 7 tricks for less boring builds](https://www.pcgamer.com/sims-4-build-tips)
+ - [How to get wheat seeds in Palworld](https://www.polygon.com/palworld-guides/24048179/how-to-get-wheat-seeds-pal-drops-dinossom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
