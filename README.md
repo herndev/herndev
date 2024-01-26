@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is AI-generated art? How does it work?](https://www.androidauthority.com/what-is-ai-generated-art-3407934/)
- - [Apple&#39;s &amp;euro;0.50 Core Technology Fee in the EU would lead to a free or freemium app with 2M annual &quot;first installs&quot; paying $500K+ a year even if no money is earned &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240125/p55#a240125p55)
- - [Source: Sierra, an enterprise-focused AI startup co-founded by Bret Taylor, plans to raise $85M led by Sequoia at a ~$1B valuation; Taylor is on OpenAI&#39;s board &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240125/p54#a240125p54)<!-- TECH:END -->
+ - [Apple adds support for transcripts to the Podcasts app in iOS 17.4 beta and says transcripts will be generated automatically after an episode is published &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240126/p2#a240126p2)
+ - [The George Carlin estate sues Dudesy, which released a comedy special featuring an AI-generated recreation of George Carlin, alleging copyright infringement &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240126/p1#a240126p1)
+ - [What is AI-generated art? How does it work?](https://www.androidauthority.com/what-is-ai-generated-art-3407934/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
