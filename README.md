@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehe](http://9gag.com/gag/adPEGxM)
- - ⏩ [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
- - 👉 [About to face consequences](http://9gag.com/gag/aeQLn0B)<!-- MEMES:END -->
+ - 💣 [A workable solution](http://9gag.com/gag/aEq344x)
+ - ⏩ [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
 
 ---
 
