@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240123-2000&rpar;](https://news.xbox.com/en-us/2024/01/26/xbox-insider-release-notes-alpha-skip-ahead-2408-240123-2000/)
- - [Baldur&#39;s Gate 3 20-Minute Speedrun Shows Bears Are Good For More Than Bangin&#39;](https://kotaku.com/baldurs-gate-3-speedrun-bear-shadowheart-20-minute-1851201738)
- - [Another bunch of game studios have laid off employees, and we&#39;re not even out of January yet](https://www.pcgamer.com/another-bunch-of-game-studios-have-laid-off-employees-and-were-not-even-out-of-january-yet)<!-- GAME:END -->
+ - [Enshrouded amber guide: three great spots to quickly find this useful resource](https://www.pcgamer.com/enshrouded-amber-locations)
+ - [Tekken 8 is already $20 off if you’re new to QVC](https://www.polygon.com/deals/24051959/tekken-8-tears-of-the-kingdom-prince-of-persia-qvc-deal-gaming-sale)
+ - [Dominions 6 is the only strategy game where I can send an army of dog men to victory led by a squeaky toy god](https://www.pcgamer.com/dominions-6-is-the-only-strategy-game-where-i-can-send-an-army-of-dog-men-to-victory-led-by-a-squeaky-toy-god)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
