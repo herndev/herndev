@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration will pause new gas export projects](https://www.theverge.com/2024/1/26/24051575/biden-gas-export-projects-pause)
- - [All the new features in iOS 17.4 -- New emoji, EU App Store changes, unreleased devices, and more!](https://appleinsider.com/articles/24/01/26/all-the-new-features-in-ios-174----new-emoji-eu-app-store-changes-unreleased-devices-and-more?utm_medium=rss)
- - [How to keep track of friends and family on your iPhone](https://www.theverge.com/24051550/iphone-apple-location-track-how-to)<!-- TECH:END -->
+ - [HONOR Magic V2: The world’s thinnest foldable launches in Europe](https://www.androidauthority.com/honor-magic-v2-launches-in-europe-3408270/)
+ - [Some Beeper users lost access to iMessage on their Mac and were told by Apple access was revoked due to irregular activity; Beeper: ~3.5K users reported outages &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240126/p19#a240126p19)
+ - [After years off Apple&#39;s App Store, &#39;Fortnite&#39; will reappear in the EU on Epic&#39;s](https://appleinsider.com/articles/24/01/26/after-years-off-apples-app-store-fortnite-will-reappear-in-the-eu-on-epics?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
