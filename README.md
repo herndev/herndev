@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A workable solution](http://9gag.com/gag/aEq344x)
- - ⏩ [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
+ - 💣 [New fear-phobia unlocked](http://9gag.com/gag/aPg5EXg)
+ - ⏩ [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
 
 ---
 
