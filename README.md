@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefox may get tablet UI after all](https://www.androidauthority.com/firefox-may-get-tablet-ui-3408541/)
- - [Pixel 8 Pro&#39;s Thermometer app, which uses an infrared sensor to scan the forehead, has a fiddly user experience and appears to have accuracy issues &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240126/p27#a240126p27)
- - [Reminder: Amazon Prime Video is getting ads next week](https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder)<!-- TECH:END -->
+ - [Layoffs.fyi: so far in January, around 23,670 workers have been laid off from 85 tech companies, the most since March 2023 when ~38,000 people were laid off &lpar;CNBC&rpar;](http://www.techmeme.com/240126/p29#a240126p29)
+ - [Beeper’s push for iMessage on Android is really over](https://www.theverge.com/2024/1/26/24052125/beeper-android-imessage-apple-mac-ban)
+ - [Mozilla says Apple’s new browser rules are ‘as painful as possible’ for Firefox](https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
