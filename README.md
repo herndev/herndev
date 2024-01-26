@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
- - [Microsoft details the techniques that Midnight Blizzard used to breach the email accounts of its executives and other organizations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240126/p20#a240126p20)
- - [Best deal yet on the Skullcandy Crusher ANC 2 at 25% off](https://www.androidauthority.com/skullcandy-crusher-anc-2-deal-3408372/)<!-- TECH:END -->
+ - [Source: Chamath Palihapitiya shelved plans to raise $1B for an early-stage investment fund due to fundraising challenges and other issues &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240126/p22#a240126p22)
+ - [Apple&#39;s M3 Max 14-inch MacBook Pro with 64GB RAM is $250 off &amp; in stock](https://appleinsider.com/articles/24/01/26/apples-m3-max-14-inch-macbook-pro-with-64gb-ram-is-250-off-in-stock?utm_medium=rss)
+ - [Apple is restoring Mac users that were banned after using Beeper on iPhone](https://appleinsider.com/articles/24/01/26/apple-is-restoring-mac-users-that-were-banned-after-using-beeper-on-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
