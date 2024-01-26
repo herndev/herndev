@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omdia: Nintendo plans to introduce a new Switch gaming console in 2024 with an eight-inch LCD screen; the current seven-year-old Switch has sold over 132M units &lpar;Bloomberg&rpar;](http://www.techmeme.com/240126/p12#a240126p12)
- - [Sideloading apps on iPhones: What you need to know](https://www.androidauthority.com/sideloading-apps-on-iphones-explained-3407959/)
- - [Creators of AI-generated George Carlin special sued by late comedian’s estate](https://www.theverge.com/2024/1/26/24051476/dudesy-ai-generated-george-carlin-special-sued-by-late-comedians-estate)<!-- TECH:END -->
+ - [Mac&#39;s 40th year, Apple Vision Pro&#39;s first and EU App Store changes on the AppleInsider podcast](https://appleinsider.com/articles/24/01/26/macs-40th-year-apple-vision-pros-first-and-eu-app-store-changes-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The best Samsung Galaxy S24 screen protectors](https://www.androidauthority.com/best-samsung-galaxy-s24-screen-protectors-3405609/)
+ - [Surprise! Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
