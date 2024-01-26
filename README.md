@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Late Nights to Limelight: The Story of Go Mecha Ball](https://news.xbox.com/en-us/2024/01/26/from-late-nights-to-limelight-the-story-of-go-mecha-ball/)
- - [Ahem, look at the Dune 2 popcorn bucket](https://www.polygon.com/24051571/dune-2-popcorn-bucket-sandworm-asshole)
- - [Intel CEO bullish about chip roadmap and confirms Arrow Lake CPUs for this year as share price plummets 12%](https://www.pcgamer.com/intel-ceo-bullish-about-chip-roadmap-and-confirms-arrow-lake-cpus-for-this-year-as-share-price-plummets-12)<!-- GAME:END -->
+ - [Enshrouded&#39;s promising early access has a problem—quest progression is server-wide, which means a single player could hog all the fun times to themselves](https://www.pcgamer.com/enshroudeds-promising-early-access-has-a-problemquest-progression-is-server-wide-which-means-a-single-player-could-hog-all-the-fun-times-to-themselves)
+ - [The best base locations in Palworld](https://www.polygon.com/palworld-guides/24050846/best-base-locations-resources-farming)
+ - [How to move a base in Palworld](https://www.polygon.com/palworld-guides/24050839/how-to-move-base-palbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
