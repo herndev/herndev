@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy AI may have helped the Galaxy S24 series break a pre-order record](https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/)
- - [Galaxy S24 Ultra’s best new feature is Gorilla Armor, and Samsung really undersold it](https://www.androidauthority.com/samsung-galaxy-s24-ultra-gorilla-armor-best-new-feature-3407951/)
- - [Here’s Apple’s reason why sideloading isn’t coming to other countries](https://www.androidauthority.com/apple-reason-no-sideloading-outside-eu-3407494/)<!-- TECH:END -->
+ - [Sources: Elon Musk&#39;s xAI is in talks to raise up to $6B from family offices in the Hong Kong and sovereign wealth funds in the Middle East at a $20B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240126/p4#a240126p4)
+ - [Apple Podcasts is getting auto-generated transcripts with iOS 17.4](https://www.theverge.com/2024/1/26/24051454/apple-podcasts-transcription-ios-17-4)
+ - [Galaxy AI may have helped the Galaxy S24 series break a pre-order record](https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
