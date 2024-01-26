@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More guppies for the 7 people who upvoted last time.](http://9gag.com/gag/aBdpp8z)
- - ⏩ [Lighterman](http://9gag.com/gag/aVbAALw)
- - 👉 [`So that&#39;s the Grand Canyon, huh?`](http://9gag.com/gag/avQN3gO)<!-- MEMES:END -->
+ - 💣 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - ⏩ [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 👉 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)<!-- MEMES:END -->
 
 ---
 
