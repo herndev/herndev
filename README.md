@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Like a Dragon: Infinite Wealth Is Available Now!](https://www.xbox.com/en-US/games/store/like-a-dragon-infinite-wealth-deluxe-edition/9NZGNJ4B0CW2#new_tab)
  - [Wordle today: Hint and answer #951 for Friday, January 26](https://www.pcgamer.com/wordle-today-answer-951-january-26)
- - [Pizza Tower, 2023&#39;s best platformer, is getting a free update where you play as one of the villains with his own music and moveset: &#39;Think of it as a sort of New Game+&#39;](https://www.pcgamer.com/pizza-tower-2023s-best-platformer-is-getting-a-free-update-where-you-play-as-one-of-the-villains-with-his-own-music-and-moveset-think-of-it-as-a-sort-of-new-game)
- - [Blizzard&#39;s canceled survival game had been in development for over 6 years, was highly praised by employees](https://www.pcgamer.com/blizzard-survival-game-cancellation-news)<!-- GAME:END -->
+ - [Pizza Tower, 2023&#39;s best platformer, is getting a free update where you play as one of the villains with his own music and moveset: &#39;Think of it as a sort of New Game+&#39;](https://www.pcgamer.com/pizza-tower-2023s-best-platformer-is-getting-a-free-update-where-you-play-as-one-of-the-villains-with-his-own-music-and-moveset-think-of-it-as-a-sort-of-new-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
