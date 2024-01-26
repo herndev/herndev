@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - ⏩ [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
+ - 💣 [I&#39;m Not Crying You&#39;re Crying](http://9gag.com/gag/a1P99PY)
+ - ⏩ [Very Well...](http://9gag.com/gag/armY6qX)
+ - 👉 [Title](http://9gag.com/gag/armY680)<!-- MEMES:END -->
 
 ---
 
