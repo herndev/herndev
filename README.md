@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 Fans Desperately Want Final Fantasy 7&#39;s Best Girl In The Game](https://kotaku.com/tekken-8-guest-character-tifa-lockhart-ff7-1851200899)
- - [The most powerful AI processing supercomputer in the world is set to be built in Germany, and planned to become operational within a mere year. Crikey.](https://www.pcgamer.com/the-most-powerful-ai-processing-supercomputer-in-the-world-is-set-to-be-built-in-germany-and-operational-within-a-year)
- - [Epic taunts Apple with a banana as Tim Sweeney decries new iOS rules in the EU as &#39;hot garbage&#39;](https://www.pcgamer.com/epic-taunts-apple-with-a-banana-as-tim-sweeney-decries-new-ios-rules-in-the-eu-as-hot-garbage)<!-- GAME:END -->
+ - [Good Fortune &amp; Good Adventuring Arrive in Forza Horizon 5 for Lunar New Year](https://forza.net/news/forza-horizon-5-Lunar-New-Year#new_tab)
+ - [Enshrouded is a solid start, but hasn’t found a distinct survival identity](https://www.polygon.com/24051683/enshrouded-survival-game-early-access-impressions)
+ - [A new Witcher comic series spoils Geralt&#39;s retirement with a Western-styled &#39;homage to Andrzej Sapkowski, Clint Eastwood, and Sergio Leone&#39;](https://www.pcgamer.com/a-new-witcher-comic-series-spoils-geralts-retirement-with-a-western-styled-homage-to-andrzej-sapkowski-clint-eastwood-and-sergio-leone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
