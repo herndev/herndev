@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m Not Crying You&#39;re Crying](http://9gag.com/gag/a1P99PY)
- - ⏩ [Very Well...](http://9gag.com/gag/armY6qX)
- - 👉 [Title](http://9gag.com/gag/armY680)<!-- MEMES:END -->
+ - 💣 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
+ - ⏩ [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)
+ - 👉 [Happens every-time](http://9gag.com/gag/aA0joKg)<!-- MEMES:END -->
 
 ---
 
