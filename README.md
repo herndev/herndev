@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creating the Bahnsen Knights Universe – A Love Letter to Old-School Games and Pulps](https://news.xbox.com/en-us/2024/01/26/creating-the-bahnsen-knights-universe-a-love-letter-to-old-school-games-and-pulps/)
- - [Sims 4 build tips: 7 tricks for less boring builds](https://www.pcgamer.com/sims-4-build-tips)
- - [How to get wheat seeds in Palworld](https://www.polygon.com/palworld-guides/24048179/how-to-get-wheat-seeds-pal-drops-dinossom)<!-- GAME:END -->
+ - [Pokémon Go Giovanni counters, team line-up in January 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
+ - [Pokémon Go ‘Taken Treasures’ event, Timed Research guide](https://www.polygon.com/24052211/pokemon-go-taken-treasures-event-timed-research-varoom)
+ - [Suicide Squad Devs Lay Out Battle Pass, Endgame Plans And They Sound…Good?](https://kotaku.com/suicide-squad-battle-pass-endgame-season-content-plans-1851202399)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
