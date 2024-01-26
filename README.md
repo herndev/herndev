@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Netflix co-CEO Greg Peters on the lack of a Netflix app on the Apple Vision Pro, the WWE deal, content strategy, ads, competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240126/p3#a240126p3)
  - [Apple adds support for transcripts to the Podcasts app in iOS 17.4 beta and says transcripts will be generated automatically after an episode is published &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240126/p2#a240126p2)
- - [The George Carlin estate sues Dudesy, which released a comedy special featuring an AI-generated recreation of George Carlin, alleging copyright infringement &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240126/p1#a240126p1)
- - [What is AI-generated art? How does it work?](https://www.androidauthority.com/what-is-ai-generated-art-3407934/)<!-- TECH:END -->
+ - [Australian Open 2024 Men&#39;s Semifinal: How to Watch Daniil Medvedev vs. Alexander Zverev Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-mens-semifinal-how-to-watch-a-daniil-medvedev-vs-alexander-zverev-free-tennis-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
