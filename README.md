@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - ⏩ [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
+ - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - ⏩ [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
 
 ---
 
