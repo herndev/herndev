@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for January 29 to February 2](https://news.xbox.com/en-us/2024/01/26/next-week-on-xbox-new-games-for-january-29-to-february-2/)
- - [How to craft and use the Grappling Gun in Palworld](https://www.pcgamer.com/palworld-grappling-gun)
- - [Palworld isn&#39;t good enough—or bad enough—to warrant us losing our collective minds over it](https://www.pcgamer.com/palworld-isnt-good-enoughor-bad-enoughto-warrant-us-losing-our-collective-minds-over-it)<!-- GAME:END -->
+ - [From Late Nights to Limelight: The Story of Go Mecha Ball](https://news.xbox.com/en-us/2024/01/26/from-late-nights-to-limelight-the-story-of-go-mecha-ball/)
+ - [Ahem, look at the Dune 2 popcorn bucket](https://www.polygon.com/24051571/dune-2-popcorn-bucket-sandworm-asshole)
+ - [Intel CEO bullish about chip roadmap and confirms Arrow Lake CPUs for this year as share price plummets 12%](https://www.pcgamer.com/intel-ceo-bullish-about-chip-roadmap-and-confirms-arrow-lake-cpus-for-this-year-as-share-price-plummets-12)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
