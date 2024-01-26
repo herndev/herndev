@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor Magic V2 review: fabulous foldable running so-so software](https://www.theverge.com/24051466/honor-magic-v2-review)
- - [How Beloved Indie Blog &#39;The Hairpin&#39; Turned Into an AI Clickbait Farm](https://www.wired.com/story/plaintext-hairpin-blog-ai-clickbait-farm/)
- - [Some developers say Apple&#39;s new Core Technology Fee in the EU is eerily similar to the controversial Runtime Fee that Unity touted and withdrew after a backlash &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240126/p16#a240126p16)<!-- TECH:END -->
+ - [The Biden administration will pause new gas export projects](https://www.theverge.com/2024/1/26/24051575/biden-gas-export-projects-pause)
+ - [All the new features in iOS 17.4 -- New emoji, EU App Store changes, unreleased devices, and more!](https://appleinsider.com/articles/24/01/26/all-the-new-features-in-ios-174----new-emoji-eu-app-store-changes-unreleased-devices-and-more?utm_medium=rss)
+ - [How to keep track of friends and family on your iPhone](https://www.theverge.com/24051550/iphone-apple-location-track-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
