@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like a Dragon: Infinite Wealth Is Available Now!](https://www.xbox.com/en-US/games/store/like-a-dragon-infinite-wealth-deluxe-edition/9NZGNJ4B0CW2#new_tab)
- - [Wordle today: Hint and answer #951 for Friday, January 26](https://www.pcgamer.com/wordle-today-answer-951-january-26)
- - [Pizza Tower, 2023&#39;s best platformer, is getting a free update where you play as one of the villains with his own music and moveset: &#39;Think of it as a sort of New Game+&#39;](https://www.pcgamer.com/pizza-tower-2023s-best-platformer-is-getting-a-free-update-where-you-play-as-one-of-the-villains-with-his-own-music-and-moveset-think-of-it-as-a-sort-of-new-game)<!-- GAME:END -->
+ - [Asus plotting second-gen ROG Ally handheld for later this year](https://www.pcgamer.com/asus-plotting-second-gen-rog-ally-handheld-for-later-this-year)
+ - [We regret to inform you that Palworld has a smutty lizard &#39;seeking a night of love&#39; with humans, which raids bases in hordes of &#39;rampaging fangirls&#39;](https://www.pcgamer.com/we-regret-to-inform-you-that-palworld-has-a-smutty-lizard-seeking-a-night-of-love-with-humans-which-raids-bases-in-hordes-of-rampaging-fangirls)
+ - [Intel Battlemage: What can we expect to see with the second generation of Arc GPUs?](https://www.pcgamer.com/intel-battlemage-what-to-expect)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
