@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk&#39;s xAI is in talks to raise up to $6B from family offices in the Hong Kong and sovereign wealth funds in the Middle East at a $20B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240126/p4#a240126p4)
- - [Apple Podcasts is getting auto-generated transcripts with iOS 17.4](https://www.theverge.com/2024/1/26/24051454/apple-podcasts-transcription-ios-17-4)
- - [Galaxy AI may have helped the Galaxy S24 series break a pre-order record](https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/)<!-- TECH:END -->
+ - [The UK CMA launches the first stage of its review of Vodafone and Three UK&#39;s merger, and sets March 22, 2024 as a deadline to decide for an in-depth probe &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240126/p7#a240126p7)
+ - [Source: Salesforce plans to lay off ~700 employees, or ~1% of its staff, after cutting 10% of its workforce in January 2023; the company has 1,000 open jobs &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240126/p6#a240126p6)
+ - [iOS will finally get proper Chrome and Firefox, but only for some of us](https://www.androidauthority.com/ios-proper-chrome-firefox-browser-engine-eu-3407989/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
