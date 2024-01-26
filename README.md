@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - ⏩ [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 👉 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)<!-- MEMES:END -->
+ - 💣 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - ⏩ [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
+ - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
 
 ---
 
