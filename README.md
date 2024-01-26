@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - ⏩ [Wah f**k you going](http://9gag.com/gag/amA3ZBX)
- - 👉 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)<!-- MEMES:END -->
+ - 💣 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - ⏩ [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
 
 ---
 
