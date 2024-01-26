@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - ⏩ [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
+ - 💣 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - ⏩ [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
 
 ---
 
