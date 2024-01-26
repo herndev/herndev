@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Appstore opens up to game streaming including Nvidia&#39;s GeForce Now](https://www.pcgamer.com/apple-appstore-opens-up-to-game-streaming-including-nvidias-geforce-now)
- - [Popular Japanese rhythm game sets cancellation record by announcing release date and closure in the same tweet](https://www.pcgamer.com/popular-japanese-rhythm-game-sets-cancellation-record-by-announcing-release-date-and-closure-in-the-same-tweet)
- - [Dwarf Fortress&#39; missing best mode is tantalisingly close to release, just as soon as they nail down how to &#39;target toes with your crab pincers&#39;](https://www.pcgamer.com/dwarf-fortress-missing-best-mode-is-tantalisingly-close-to-release-just-as-soon-as-they-nail-down-how-to-target-toes-with-your-crab-pincers)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for January 29 to February 2](https://news.xbox.com/en-us/2024/01/26/next-week-on-xbox-new-games-for-january-29-to-february-2/)
+ - [How to craft and use the Grappling Gun in Palworld](https://www.pcgamer.com/palworld-grappling-gun)
+ - [Palworld isn&#39;t good enough—or bad enough—to warrant us losing our collective minds over it](https://www.pcgamer.com/palworld-isnt-good-enoughor-bad-enoughto-warrant-us-losing-our-collective-minds-over-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
