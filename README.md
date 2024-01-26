@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to see little impact from EU regulations, says investing firm](https://appleinsider.com/articles/24/01/25/apple-to-see-little-impact-from-eu-regulations-says-investing-firm?utm_medium=rss)
- - [Netflix CEO says Apple Vision Pro market is too insignificant to bother with](https://appleinsider.com/articles/24/01/25/netflix-ceo-says-apple-vision-pro-market-is-too-insignificant-to-bother-with?utm_medium=rss)
- - [Google&#39;s web-based app development suite Project IDX adds an Android emulator, an iOS simulator, new project templates, and more &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240125/p47#a240125p47)<!-- TECH:END -->
+ - [An NSA letter to Sen. Ron Wyden reveals the agency buys logs related to Americans&#39; domestic internet activities from commercial data brokers without warrants &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/240125/p49#a240125p49)
+ - [TurboTax Can&#39;t Call Its Services Free Anymore, Unless They&#39;re Free to All     - CNET](https://www.cnet.com/personal-finance/taxes/turbotax-cant-call-its-services-free-anymore-unless-theyre-free-to-all/#ftag=CAD590a51e)
+ - [Bastille, which uses hardware sensors for wireless monitoring to stop espionage in offices, raised a $44M Series C led by Goldman Sachs&#39; venture arm &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240125/p48#a240125p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
