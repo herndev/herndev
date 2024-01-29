@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Amazon ended its acquisition, iRobot plans to lay off 31% of its staff, or ~350 people, and says chair and CEO Colin Angle will step down; IRBT drops 15%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240129/p11#a240129p11)
- - [The vivo X100 Pro’s periscope lens is my new favorite camera](https://www.androidauthority.com/vivo-x100-pro-review-3396425/)
- - [Blowout deal: Apple&#39;s 512GB M2 MacBook Pro drops to $1,299](https://appleinsider.com/articles/24/01/29/blowout-deal-apples-512gb-m2-macbook-pro-drops-to-1299?utm_medium=rss)<!-- TECH:END -->
+ - [How Google, Meta, Microsoft, and others balance developing specialized AI chips with their relationship with Nvidia, which has an estimated 70% of AI chip sales &lpar;New York Times&rpar;](http://www.techmeme.com/240129/p14#a240129p14)
+ - [MLS Season Pass for Apple TV now available for 2024 matches](https://appleinsider.com/articles/24/01/29/mls-season-pass-for-apple-tv-now-available-for-2024-matches?utm_medium=rss)
+ - [AMD Ryzen 7 8700G and Ryzen 5 8600G review: both offer solid levels of gaming performance for $329 and $229, respectively, especially with AMD&#39;s fastest cores &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240129/p13#a240129p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
