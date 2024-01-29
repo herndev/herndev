@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After years off Apple&#39;s App Store, &#39;Fortnite&#39; will reappear in the EU](https://appleinsider.com/articles/24/01/26/after-years-off-apples-app-store-fortnite-will-reappear-in-the-eu-on-epics?utm_medium=rss)
- - [You can now talk to ChatGPT straight from your Nothing Phone’s home screen](https://www.androidauthority.com/nothing-phone-2-os-chatgpt-voice-home-screen-3408723/)
- - [An unreleased Google Photos feature is now available on the Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-colorize-black-and-white-photos-3408721/)<!-- TECH:END -->
+ - [OnePlus has quietly launched the next OnePlus Nord phone](https://www.androidauthority.com/oneplus-nord-n30-se-5g-launched-3408832/)
+ - [How Japan&#39;s $6.4B takeover of key photoresists supplier JSR and ~$4.7B buyout of Fujitsu&#39;s chip-packaging arm Shinko Electric rankled many in the chip industry &lpar;Financial Times&rpar;](http://www.techmeme.com/240129/p6#a240129p6)
+ - [How to emulate SNES, Genesis, and more on Apple Silicon Macs](https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-snes-genesis-and-more-on-apple-silicon-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
