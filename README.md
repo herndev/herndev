@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You too can run a functional 16-bit CPU inside Microsoft Excel thanks to one YouTube hobbyist with more willpower than I shall ever possess](https://www.pcgamer.com/you-too-can-run-a-functional-16-bit-cpu-inside-microsoft-excel-thanks-to-one-youtube-hobbyist-with-more-willpower-than-i-shall-ever-possess)
- - [George Carlin&#39;s estate sues over ghoulish AI routine featuring the late comedian&#39;s likeness and, surprise surprise, turns out it was written by a human](https://www.pcgamer.com/george-carlins-estate-sues-over-ghoulish-ai-routine-featuring-the-late-comedians-likeness-and-surprise-surprise-turns-out-it-was-written-by-a-human)
- - [30 Years Ago, A Gory Gaming Triumph Changed Pop Culture Forever](https://kotaku.com/doom-30th-anniversary-retrospective-legacy-1851191180)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth: Square Enix discusses reimagining iconic characters Sephiroth and Aerith](https://blog.playstation.com/2024/01/29/final-fantasy-vii-rebirth-square-enix-discusses-reimagining-iconic-characters-sephiroth-and-aerith/)
+ - [Obsidian’s Avowed Will Defy One Major RPG Trend](https://kotaku.com/avowed-rpg-obsidian-companion-relationships-1851205378)
+ - [Alienware Aurora R16 review](https://www.pcgamer.com/alienware-aurora-r16-rtx-4080-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
