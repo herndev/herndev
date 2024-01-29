@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #954 for Monday, January 29](https://www.pcgamer.com/wordle-today-answer-954-january-29)
- - [True Detective: Night Country is messing with us in episode 3](https://www.polygon.com/24050731/true-detective-night-country-review-episode-3-final-scene-meaning)
- - [The latest update to my favorite indie RPG adds a clockwork police state ruled by a mad god](https://www.pcgamer.com/the-latest-update-to-my-favorite-indie-rpg-adds-a-clockwork-police-state-ruled-by-a-mad-god)<!-- GAME:END -->
+ - [Blizzard employee snags a decade of WoW game time just before being laid off, will not have to pay a cent until 2033](https://www.pcgamer.com/blizzard-employee-snags-a-decade-of-wow-game-time-just-before-being-laid-off-will-not-have-to-pay-a-cent-until-2033)
+ - [Power-crazed boffin gets Doom running through the medium of gut bacteria](https://www.pcgamer.com/power-crazed-boffin-gets-doom-running-through-the-medium-of-gut-bacteria)
+ - [Fresh AMD Zen 5 CPU details leak suggesting a likely launch date between April and June of this year](https://www.pcgamer.com/fresh-amd-zen-5-cpu-details-leak-suggesting-a-likely-launch-date-between-april-and-june-of-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
