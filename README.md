@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when you can expect Assistant with Bard to arrive on your Pixel phones](https://www.androidauthority.com/assistant-with-bard-rollout-date-3408672/)
- - [Bridgerton season 3: Expected release date and the latest rumors](https://www.androidauthority.com/bridgerton-season-3-release-date-3368818/)
- - [The Browser Company releases Arc Search, an iOS browser with a feature that takes a user&#39;s query, browses the web, and builds a custom webpage to answer it &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240128/p9#a240128p9)<!-- TECH:END -->
+ - [Fossil’s smartwatch journey ends: CEO confirms exit from Wear OS market](https://www.androidauthority.com/fossil-smartwatch-division-shutdown-3408678/)
+ - [China has approved more than 40 large language models for public use since authorities began the approval process in August 2023; 14 were approved last week &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240129/p1#a240129p1)
+ - [Here’s when you can expect Assistant with Bard to arrive on your Pixel phones](https://www.androidauthority.com/assistant-with-bard-rollout-date-3408672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
