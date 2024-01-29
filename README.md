@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
- - ⏩ [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
- - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
+ - ⏩ [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)
+ - 👉 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)<!-- MEMES:END -->
 
 ---
 
