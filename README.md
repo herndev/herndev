@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [True Detective: Night Country is messing with us in episode 3](https://www.polygon.com/24050731/true-detective-night-country-review-episode-3-final-scene-meaning)
  - [The latest update to my favorite indie RPG adds a clockwork police state ruled by a mad god](https://www.pcgamer.com/the-latest-update-to-my-favorite-indie-rpg-adds-a-clockwork-police-state-ruled-by-a-mad-god)
- - [Visual program some adorable robots to heat up a frozen world in Craftomation 101](https://www.pcgamer.com/visual-program-some-adorable-robots-to-heat-up-a-frozen-world-in-craftomation-101)
- - [Five new Steam games you probably missed &lpar;January 29, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-29-2024)<!-- GAME:END -->
+ - [Visual program some adorable robots to heat up a frozen world in Craftomation 101](https://www.pcgamer.com/visual-program-some-adorable-robots-to-heat-up-a-frozen-world-in-craftomation-101)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
