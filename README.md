@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - ⏩ [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
+ - 💣 [Just a little...](http://9gag.com/gag/aREYP8A)
+ - ⏩ [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
 
 ---
 
