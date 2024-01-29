@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Pals, types, and skills in the Palworld Paldeck](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
- - [I Played Overwatch Comp In An Airport Gamer Lounge](https://kotaku.com/gameway-airport-gaming-lounge-price-lax-razer-1851206697)
- - [The Week In Games: Killing Your Heroes, And More New Releases](https://kotaku.com/january-games-this-week-suicide-squad-persona-3-reload-1851206591)<!-- GAME:END -->
+ - [Unprecedented &#39;inside look&#39; at Call of Duty matchmaking debunks fan theories on SBMM and confirms our assumptions: &#39;Skill is not the dominant variable&#39;](https://www.pcgamer.com/unprecedented-inside-look-at-call-of-duty-matchmaking-debunks-fan-theories-on-sbmm-and-confirms-our-assumptions-skill-is-not-the-dominant-variable)
+ - [Animal Crossing’s infamous froggy chair is in Palworld](https://www.polygon.com/gaming/24054816/palworld-froggy-chair-animal-crossing)
+ - [NieR 3 Already Exists, But Not For Long](https://kotaku.com/nier-reincarnation-shut-down-1851206958)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
