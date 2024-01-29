@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - ⏩ [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)
- - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aBd7KzZ)<!-- MEMES:END -->
+ - 💣 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - ⏩ [The Kraken](http://9gag.com/gag/ap9WBw8)
+ - 👉 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)<!-- MEMES:END -->
 
 ---
 
