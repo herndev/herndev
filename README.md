@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - ⏩ [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
+ - 💣 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - ⏩ [Argument with mom](http://9gag.com/gag/a3ZVL6v)
+ - 👉 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)<!-- MEMES:END -->
 
 ---
 
