@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evercore forecasts &#39;modest upside&#39; for Apple Q1 2024](https://appleinsider.com/articles/24/01/29/evercore-forecasts-modest-upside-for-apple-q1-2024?utm_medium=rss)
- - [UK could secretly block security worldwide, says Apple](https://appleinsider.com/articles/24/01/29/uk-could-secretly-block-security-worldwide-says-apple?utm_medium=rss)
- - [A scene-y newsletter launches a scene-y social network](https://www.theverge.com/creators/24054294/perfectly-imperfect-pi-fyi-app-tyler-bainbridge)<!-- TECH:END -->
+ - [The MSI Claw will not have a VRR screen after all](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)
+ - [Zoom announces an app for the Apple Vision Pro, featuring digital personas, 3D file sharing, &quot;real-world pinning&quot; of meeting participants, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240129/p20#a240129p20)
+ - [Microsoft kills off WordPad, asks users to try Word or Notepad instead](https://www.androidauthority.com/windows-11-drops-wordpad-3409144/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
