@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - ⏩ [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 👉 [How the turn tables](http://9gag.com/gag/aeQv3bQ)<!-- MEMES:END -->
+ - 💣 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - ⏩ [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
 
 ---
 
