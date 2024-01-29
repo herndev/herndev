@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart kid](http://9gag.com/gag/aeQvp4p)
- - ⏩ [MP5 hard malfunction animation](http://9gag.com/gag/armj4N6)
- - 👉 [Couldnt remove the watermark in the first vid :&lpar;](http://9gag.com/gag/anzLBLV)<!-- MEMES:END -->
+ - 💣 [Just a little...](http://9gag.com/gag/aREYP8A)
+ - ⏩ [Argument with mom](http://9gag.com/gag/a3ZVL6v)
+ - 👉 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)<!-- MEMES:END -->
 
 ---
 
