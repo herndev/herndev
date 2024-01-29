@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
  - ⏩ [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
+ - 👉 [How the turn tables](http://9gag.com/gag/aeQv3bQ)<!-- MEMES:END -->
 
 ---
 
