@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - ⏩ [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 👉 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)<!-- MEMES:END -->
+ - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - ⏩ [Can confirm](http://9gag.com/gag/aGEWVq0)
+ - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
 
 ---
 
