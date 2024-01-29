@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - ⏩ [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 👉 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)<!-- MEMES:END -->
+ - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - ⏩ [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 👉 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)<!-- MEMES:END -->
 
 ---
 
