@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - ⏩ [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 👉 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
+ - 💣 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - ⏩ [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
 
 ---
 
