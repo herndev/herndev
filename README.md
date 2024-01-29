@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My GF is a doctor who is way out of my league. She took 60 hours of her precious time to Crochet me this Kraken which is a pouch for my geek ass DnD dices. She is a 9Gagger let her see it.](http://9gag.com/gag/aVbNjqv)
- - ⏩ [WTF Man, put the TV back on.](http://9gag.com/gag/amAE079)
- - 👉 [Swollen Hand Prank On Mother](http://9gag.com/gag/ajVo0dR)<!-- MEMES:END -->
+ - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - ⏩ [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 👉 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)<!-- MEMES:END -->
 
 ---
 
