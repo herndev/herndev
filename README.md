@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s... one way to look at it](http://9gag.com/gag/anzLKz0)
- - ⏩ [Now hes not gonna be able to stop](http://9gag.com/gag/aOxXbz3)
- - 👉 [Swollen Hand Prank On Mother](http://9gag.com/gag/ajVo0dR)<!-- MEMES:END -->
+ - 💣 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
+ - ⏩ [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 👉 [Argument with mom](http://9gag.com/gag/a3ZVL6v)<!-- MEMES:END -->
 
 ---
 
