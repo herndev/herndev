@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240125-2000&rpar;](https://news.xbox.com/en-us/2024/01/29/xbox-insider-release-notes-alpha-2402-240125-2000/)
- - [Deus Ex game canceled as nearly 100 Eidos-Montreal staff laid off](https://www.polygon.com/24054575/deus-ex-game-canceled-layoffs-eidos-montreal)
- - [Neo-Victorian survival game Nightingale is holding a public stress test on Friday, but it&#39;s only for 3 hours so don&#39;t be late](https://www.pcgamer.com/neo-victorian-survival-game-nightingale-is-holding-a-public-stress-test-on-friday-but-its-only-for-3-hours-so-dont-be-late)<!-- GAME:END -->
+ - [All Pals, types, and skills in the Palworld Paldeck](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
+ - [I Played Overwatch Comp In An Airport Gamer Lounge](https://kotaku.com/gameway-airport-gaming-lounge-price-lax-razer-1851206697)
+ - [The Week In Games: Killing Your Heroes, And More New Releases](https://kotaku.com/january-games-this-week-suicide-squad-persona-3-reload-1851206591)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
