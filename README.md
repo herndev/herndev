@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a little...](http://9gag.com/gag/aREYP8A)
- - ⏩ [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 👉 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)<!-- MEMES:END -->
+ - 💣 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - ⏩ [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
 
 ---
 
