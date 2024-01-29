@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad’s first Qi2 charger is shipping now for $10 less than its MagSafe model](https://www.theverge.com/2024/1/29/24054150/nomad-stand-qi2-price-release-date-specs-details-15w-fast-charging-magsafe-iphone-15)
- - [Verizon Customers Could Get as Much as $100 in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-as-much-as-100-in-settlement-payout-how-to-claim-the-money/#ftag=CAD590a51e)
- - [China&#39;s chipmakers are ramping up production capacity, helped by the country&#39;s subsidies, raising concerns among western nations about China flooding the market &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240129/p3#a240129p3)<!-- TECH:END -->
+ - [After years off Apple&#39;s App Store, &#39;Fortnite&#39; will reappear in the EU](https://appleinsider.com/articles/24/01/26/after-years-off-apples-app-store-fortnite-will-reappear-in-the-eu-on-epics?utm_medium=rss)
+ - [You can now talk to ChatGPT straight from your Nothing Phone’s home screen](https://www.androidauthority.com/nothing-phone-2-os-chatgpt-voice-home-screen-3408723/)
+ - [An unreleased Google Photos feature is now available on the Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-colorize-black-and-white-photos-3408721/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
