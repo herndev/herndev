@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Wireless Car Chargers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
  - [Arc Search combines browser, search engine, and AI into something new and different](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios)
- - [How to use Xcode&#39;s FileMerge tool to compare files](https://appleinsider.com/inside/xcode/tips/how-to-use-xcodes-filemerge-tool-to-compare-files?utm_medium=rss)
- - [Apple Vision Pro says &#39;Hello&#39; in new ad spot](https://appleinsider.com/articles/24/01/28/apple-vision-pro-says-hello-in-new-ad-spot?utm_medium=rss)<!-- TECH:END -->
+ - [How to use Xcode&#39;s FileMerge tool to compare files](https://appleinsider.com/inside/xcode/tips/how-to-use-xcodes-filemerge-tool-to-compare-files?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
