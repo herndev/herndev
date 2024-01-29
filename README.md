@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fossil’s smartwatch journey ends: CEO confirms exit from Wear OS market](https://www.androidauthority.com/fossil-smartwatch-division-shutdown-3408678/)
- - [China has approved more than 40 large language models for public use since authorities began the approval process in August 2023; 14 were approved last week &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240129/p1#a240129p1)
- - [Here’s when you can expect Assistant with Bard to arrive on your Pixel phones](https://www.androidauthority.com/assistant-with-bard-rollout-date-3408672/)<!-- TECH:END -->
+ - [Here’s how Apple aims to close the smartphone AI gap with Google and Samsung](https://www.androidauthority.com/apple-ios-17-4-ai-features-3408693/)
+ - [Samsung takes note: You can now hide the gesture bar in One UI 6.1 on the Galaxy S24!](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-6-1-hide-gesture-bar-3408681/)
+ - [At Pwn2Own&#39;s first automotive-focused event, a total of $1.3M+ was awarded across 49 car-related zero-days, which included gaining root access to a Tesla modem &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240129/p2#a240129p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
