@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Hue lights, Qi2 devices, and Apple Vision Pro home potential on HomeKit Insider](https://appleinsider.com/articles/24/01/29/new-hue-lights-qi2-devices-and-apple-vision-pro-home-potential-on-homekit-insider?utm_medium=rss)
- - [You can soon attend Zoom calls using your Apple Vision Pro](https://appleinsider.com/articles/24/01/29/you-can-soon-attend-zoom-calls-using-your-apple-vision-pro?utm_medium=rss)
- - [US Lawmakers Tell DOJ to Quit Blindly Funding ‘Predictive’ Police Tools](https://www.wired.com/story/doj-predictive-policing-lawmakers-demand/)<!-- TECH:END -->
+ - [Evercore forecasts &#39;modest upside&#39; for Apple Q1 2024](https://appleinsider.com/articles/24/01/29/evercore-forecasts-modest-upside-for-apple-q1-2024?utm_medium=rss)
+ - [UK could secretly block security worldwide, says Apple](https://appleinsider.com/articles/24/01/29/uk-could-secretly-block-security-worldwide-says-apple?utm_medium=rss)
+ - [A scene-y newsletter launches a scene-y social network](https://www.theverge.com/creators/24054294/perfectly-imperfect-pi-fyi-app-tyler-bainbridge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
