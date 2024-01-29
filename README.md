@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
- - ⏩ [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 👉 [Argument with mom](http://9gag.com/gag/a3ZVL6v)<!-- MEMES:END -->
+ - 💣 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
+ - ⏩ [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)
+ - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aBd7KzZ)<!-- MEMES:END -->
 
 ---
 
