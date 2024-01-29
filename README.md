@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reminder: Amazon Prime Video is getting ads today](https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder)
- - [Jony Ive wanted to combine MacBook Pro and MacBook Air lines](https://appleinsider.com/articles/24/01/29/jony-ive-wanted-to-combine-macbook-pro-and-macbook-air-lines?utm_medium=rss)
- - [Finally! OnePlus is back in a banned European market](https://www.androidauthority.com/oneplus-back-banned-market-3408853/)<!-- TECH:END -->
+ - [After Amazon ended its acquisition, iRobot plans to lay off 31% of its staff, or ~350 people, and says chair and CEO Colin Angle will step down; IRBT drops 15%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240129/p11#a240129p11)
+ - [The vivo X100 Pro’s periscope lens is my new favorite camera](https://www.androidauthority.com/vivo-x100-pro-review-3396425/)
+ - [Blowout deal: Apple&#39;s 512GB M2 MacBook Pro drops to $1,299](https://appleinsider.com/articles/24/01/29/blowout-deal-apples-512gb-m2-macbook-pro-drops-to-1299?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
