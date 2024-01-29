@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s State Of Play: How To Watch And What To Expect](https://kotaku.com/playstation-state-of-play-how-watch-expect-january-2024-1851206244)
- - [Vixy is the best early Pal in Palworld](https://www.polygon.com/gaming/24052230/vixy-palworld-best-pals-for-base-pal-spheres)
- - [Indie game showcase Day of the Devs levels up, goes nonprofit, and wants your help](https://www.polygon.com/24054395/day-of-the-devs-2024-events-fundraising)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.240125-2000&rpar;](https://news.xbox.com/en-us/2024/01/29/xbox-insider-release-notes-alpha-2402-240125-2000/)
+ - [Deus Ex game canceled as nearly 100 Eidos-Montreal staff laid off](https://www.polygon.com/24054575/deus-ex-game-canceled-layoffs-eidos-montreal)
+ - [Neo-Victorian survival game Nightingale is holding a public stress test on Friday, but it&#39;s only for 3 hours so don&#39;t be late](https://www.pcgamer.com/neo-victorian-survival-game-nightingale-is-holding-a-public-stress-test-on-friday-but-its-only-for-3-hours-so-dont-be-late)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
