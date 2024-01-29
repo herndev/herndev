@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: MGM Resorts International&#39;s BetMGM is partnering with X to showcase betting odds on X and provide a direct link to BetMGM, allowing users to place bets &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240126/p32#a240126p32)
- - [Android owners can now transfer their eSIMs to any Android phone](https://www.androidauthority.com/android-esim-transfers-3408574/)
- - [Spotify accuses Apple of ‘extortion’ with new App Store tax](https://www.theverge.com/2024/1/26/24052162/spotify-apple-app-store-tax-eu-dma)<!-- TECH:END -->
+ - [Apple Vision Pro says &#39;Hello&#39; in new ad spot](https://appleinsider.com/articles/24/01/28/apple-vision-pro-says-hello-in-new-ad-spot?utm_medium=rss)
+ - [Flash deal: get a lifetime Babbel subscription for $149.97 today only](https://appleinsider.com/articles/24/01/28/flash-deal-get-a-lifetime-babbel-subscription-for-14997-today-only?utm_medium=rss)
+ - [Aurzen Boom 3 Projector review: Compact entertainment hub](https://appleinsider.com/articles/24/01/28/aurzen-boom-3-projector-review-compact-entertainment-hub?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
