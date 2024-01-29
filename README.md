@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Megan Thee Stallion’s Tokyo Ghoul flower post reveals about ‘Hiss’](https://www.polygon.com/24054429/megan-thee-stallion-hiss-tokyo-ghoul-anime-meaning)
- - [Enshrouded has grabbed more than 1 million players in just 4 days, joining Palworld in making January an impressive month for early access survival games](https://www.pcgamer.com/enshrouded-has-grabbed-more-than-1-million-players-in-just-4-days-joining-palworld-in-making-january-an-impressive-month-for-early-access-survival-games)
- - [The state of Total War: Warhammer in 2024 – The next updates are going to have to be something special](https://www.pcgamer.com/the-state-of-total-war-warhammer-in-2024-the-next-updates-are-going-to-have-to-be-something-special)<!-- GAME:END -->
+ - [Bloodborne Kart Takes A Pit Stop Thanks To Sony Lawyers](https://kotaku.com/bloodborne-kart-release-date-pc-delay-sony-demake-1851205848)
+ - [Twitch streamer plays Palworld using only her mind](https://www.polygon.com/24054433/twitch-streamer-palworld-mind-control-eeg)
+ - [Pyrene is a promising roguelike deckbuilder with all the overpowered builds your synergistic heart desires](https://www.pcgamer.com/pyrene-is-a-promising-roguelike-deckbuilder-with-all-the-overpowered-builds-your-synergistic-heart-desires)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
