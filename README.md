@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a little...](http://9gag.com/gag/aREYP8A)
- - ⏩ [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
+ - 💣 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - ⏩ [This one took me a lil while](http://9gag.com/gag/aME3QOV)
+ - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
 
 ---
 
