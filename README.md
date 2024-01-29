@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unprecedented &#39;inside look&#39; at Call of Duty matchmaking debunks fan theories on SBMM and confirms our assumptions: &#39;Skill is not the dominant variable&#39;](https://www.pcgamer.com/unprecedented-inside-look-at-call-of-duty-matchmaking-debunks-fan-theories-on-sbmm-and-confirms-our-assumptions-skill-is-not-the-dominant-variable)
- - [Animal Crossing’s infamous froggy chair is in Palworld](https://www.polygon.com/gaming/24054816/palworld-froggy-chair-animal-crossing)
- - [NieR 3 Already Exists, But Not For Long](https://kotaku.com/nier-reincarnation-shut-down-1851206958)<!-- GAME:END -->
+ - [Relive how bad Silent Hill: Ascension was with new excellent ‘It’s Trauma’ merch](https://www.polygon.com/24054911/silent-hill-ascension-its-trauma-mug-t-shirt)
+ - [Stormgate was already fully funded—then it earned $2M on Kickstarter](https://www.pcgamer.com/stormgate-kickstarter-funding)
+ - [Blizzard&#39;s late-night emergency patch saved Diablo 4&#39;s most controversial season yet](https://www.pcgamer.com/blizzards-late-night-emergency-patch-saved-diablo-4s-most-controversial-season-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
