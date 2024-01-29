@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This phone offers the OnePlus 12’s periscope camera for under $400](https://www.androidauthority.com/realme-12-pro-plus-3408066/)
  - [Here’s how Apple aims to close the smartphone AI gap with Google and Samsung](https://www.androidauthority.com/apple-ios-17-4-ai-features-3408693/)
- - [Samsung takes note: You can now hide the gesture bar in One UI 6.1 on the Galaxy S24!](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-6-1-hide-gesture-bar-3408681/)
- - [At Pwn2Own&#39;s first automotive-focused event, a total of $1.3M+ was awarded across 49 car-related zero-days, which included gaining root access to a Tesla modem &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240129/p2#a240129p2)<!-- TECH:END -->
+ - [Samsung takes note: You can now hide the gesture bar in One UI 6.1 on the Galaxy S24!](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-6-1-hide-gesture-bar-3408681/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
