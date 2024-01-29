@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - ⏩ [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
+ - 💣 [That&#39;s... one way to look at it](http://9gag.com/gag/anzLKz0)
+ - ⏩ [Now hes not gonna be able to stop](http://9gag.com/gag/aOxXbz3)
+ - 👉 [Swollen Hand Prank On Mother](http://9gag.com/gag/ajVo0dR)<!-- MEMES:END -->
 
 ---
 
