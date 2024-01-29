@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro says &#39;Hello&#39; in new ad spot](https://appleinsider.com/articles/24/01/28/apple-vision-pro-says-hello-in-new-ad-spot?utm_medium=rss)
- - [Flash deal: get a lifetime Babbel subscription for $149.97 today only](https://appleinsider.com/articles/24/01/28/flash-deal-get-a-lifetime-babbel-subscription-for-14997-today-only?utm_medium=rss)
- - [Aurzen Boom 3 Projector review: Compact entertainment hub](https://appleinsider.com/articles/24/01/28/aurzen-boom-3-projector-review-compact-entertainment-hub?utm_medium=rss)<!-- TECH:END -->
+ - [Arc Search combines browser, search engine, and AI into something new and different](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios)
+ - [How to use Xcode&#39;s FileMerge tool to compare files](https://appleinsider.com/inside/xcode/tips/how-to-use-xcodes-filemerge-tool-to-compare-files?utm_medium=rss)
+ - [Apple Vision Pro says &#39;Hello&#39; in new ad spot](https://appleinsider.com/articles/24/01/28/apple-vision-pro-says-hello-in-new-ad-spot?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
