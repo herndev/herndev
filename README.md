@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a months-long probe, Italy&#39;s data protection authority tells OpenAI that it&#39;s suspected of violating EU privacy regulations, giving it 30 days to respond &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240129/p27#a240129p27)
- - [Android 15 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/android-15-features-3401939/)
- - [Meta releases Code Llama 70B, a new version of its code generation model, featuring improved code correctness, a variant optimized for Python, and more &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240129/p26#a240129p26)<!-- TECH:END -->
+ - [TikTok goes full YouTube](https://www.theverge.com/2024/1/29/24054906/tiktok-youtube-horizontal-videos-creators)
+ - [Microsoft says Apple’s new App Store rules are ‘a step in the wrong direction’](https://www.theverge.com/2024/1/29/24054943/microsoft-apple-app-store-dma-rule-change-response)
+ - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
