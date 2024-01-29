@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MSI Claw will not have a VRR screen after all](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)
- - [Zoom announces an app for the Apple Vision Pro, featuring digital personas, 3D file sharing, &quot;real-world pinning&quot; of meeting participants, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240129/p20#a240129p20)
- - [Microsoft kills off WordPad, asks users to try Word or Notepad instead](https://www.androidauthority.com/windows-11-drops-wordpad-3409144/)<!-- TECH:END -->
+ - [Embracer lays off 97 Eidos employees and cancels new Deus Ex game](https://www.theverge.com/2024/1/29/24054659/embracer-eidos-montreal-layoffs-deus-ex)
+ - [References to &#39;homeOS&#39; resurface in tvOS 17.4 beta](https://appleinsider.com/articles/24/01/29/references-to-homeos-resurface-in-tvos-174-beta?utm_medium=rss)
+ - [The Kobo Elipsa 2E, our favorite ebook reader for taking notes, is $50 off](https://www.theverge.com/2024/1/29/24054234/kobo-elipsa-2-ebook-reader-zendure-supermini-usb-c-charger-eve-smart-plug-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
