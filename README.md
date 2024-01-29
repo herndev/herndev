@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Embracer lays off 97 Eidos employees and cancels new Deus Ex game](https://www.theverge.com/2024/1/29/24054659/embracer-eidos-montreal-layoffs-deus-ex)
- - [References to &#39;homeOS&#39; resurface in tvOS 17.4 beta](https://appleinsider.com/articles/24/01/29/references-to-homeos-resurface-in-tvos-174-beta?utm_medium=rss)
- - [The Kobo Elipsa 2E, our favorite ebook reader for taking notes, is $50 off](https://www.theverge.com/2024/1/29/24054234/kobo-elipsa-2-ebook-reader-zendure-supermini-usb-c-charger-eve-smart-plug-deal-sale)<!-- TECH:END -->
+ - [OpenAI partners with Common Sense Media on new AI guidelines, curating a family-friendly section of OpenAI&#39;s GPT Store, educational materials, and more &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240129/p25#a240129p25)
+ - [Samsung prepares for new version of Quick Share by updating Windows app](https://www.androidauthority.com/quick-share-on-windows-3409166/)
+ - [Want to Stream With No Ads? That’ll Cost You](https://www.wired.com/story/amazon-prime-video-ad-free-price-hikes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
