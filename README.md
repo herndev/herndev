@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
- - ⏩ [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)
- - 👉 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)<!-- MEMES:END -->
+ - 💣 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - ⏩ [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
 
 ---
 
