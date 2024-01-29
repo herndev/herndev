@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bloodborne Kart Takes A Pit Stop Thanks To Sony Lawyers](https://kotaku.com/bloodborne-kart-release-date-pc-delay-sony-demake-1851205848)
- - [Twitch streamer plays Palworld using only her mind](https://www.polygon.com/24054433/twitch-streamer-palworld-mind-control-eeg)
- - [Pyrene is a promising roguelike deckbuilder with all the overpowered builds your synergistic heart desires](https://www.pcgamer.com/pyrene-is-a-promising-roguelike-deckbuilder-with-all-the-overpowered-builds-your-synergistic-heart-desires)<!-- GAME:END -->
+ - [PlayStation’s State Of Play: How To Watch And What To Expect](https://kotaku.com/playstation-state-of-play-how-watch-expect-january-2024-1851206244)
+ - [Vixy is the best early Pal in Palworld](https://www.polygon.com/gaming/24052230/vixy-palworld-best-pals-for-base-pal-spheres)
+ - [Indie game showcase Day of the Devs levels up, goes nonprofit, and wants your help](https://www.polygon.com/24054395/day-of-the-devs-2024-events-fundraising)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
