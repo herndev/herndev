@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Rebirth: Square Enix discusses reimagining iconic characters Sephiroth and Aerith](https://blog.playstation.com/2024/01/29/final-fantasy-vii-rebirth-square-enix-discusses-reimagining-iconic-characters-sephiroth-and-aerith/)
- - [Obsidian’s Avowed Will Defy One Major RPG Trend](https://kotaku.com/avowed-rpg-obsidian-companion-relationships-1851205378)
- - [Alienware Aurora R16 review](https://www.pcgamer.com/alienware-aurora-r16-rtx-4080-review)<!-- GAME:END -->
+ - [What Megan Thee Stallion’s Tokyo Ghoul flower post reveals about ‘Hiss’](https://www.polygon.com/24054429/megan-thee-stallion-hiss-tokyo-ghoul-anime-meaning)
+ - [Enshrouded has grabbed more than 1 million players in just 4 days, joining Palworld in making January an impressive month for early access survival games](https://www.pcgamer.com/enshrouded-has-grabbed-more-than-1-million-players-in-just-4-days-joining-palworld-in-making-january-an-impressive-month-for-early-access-survival-games)
+ - [The state of Total War: Warhammer in 2024 – The next updates are going to have to be something special](https://www.pcgamer.com/the-state-of-total-war-warhammer-in-2024-the-next-updates-are-going-to-have-to-be-something-special)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
