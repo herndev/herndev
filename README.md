@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The latest update to my favorite indie RPG adds a clockwork police state ruled by a mad god](https://www.pcgamer.com/the-latest-update-to-my-favorite-indie-rpg-adds-a-clockwork-police-state-ruled-by-a-mad-god)
  - [Visual program some adorable robots to heat up a frozen world in Craftomation 101](https://www.pcgamer.com/visual-program-some-adorable-robots-to-heat-up-a-frozen-world-in-craftomation-101)
- - [Five new Steam games you probably missed &lpar;January 29, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-29-2024)
- - [Vampire: The Masquerade – Bloodlines 2 creative director outlines its &#39;visceral immersive combat&#39;](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-creative-director-outlines-its-visceral-immersive-combat)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 29, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-29-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
