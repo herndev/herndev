@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV: Luminant Prosperity Awaits in Lunar Awakening](https://news.blizzard.com/diablo4/24034084/luminant-prosperity-awaits-in-lunar-awakening#new_tab)
- - [Where to find Black Marketeer locations in Palworld](https://www.polygon.com/palworld-guides/24055743/black-marketeer-locations-where-to-find-map)
- - [The best anime movies to watch right now](https://www.polygon.com/what-to-watch/23891489/best-anime-movies-watch-streaming-netflix-hulu-prime-max)<!-- GAME:END -->
+ - [I accidentally bred one of the rarest Palworld pals, but they have the most ridiculous stats](https://www.pcgamer.com/i-accidentally-bred-one-of-the-rarest-palworld-pals-but-they-have-the-most-ridiculous-stats)
+ - [Why This Under-The-Radar AAA Title Is More Than Just A Far Cry Clone](https://kotaku.com/avatar-frontiers-of-pandora-open-world-ubisoft-far-cry-1851209744)
+ - [Four features that make Altered the year’s most interesting new trading card game reveal](https://www.polygon.com/tabletop-games/24056086/altered-tcg-kickstarter-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
