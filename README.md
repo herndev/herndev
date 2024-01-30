@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor promises Magic at MWC 2024: Here’s what you can expect](https://www.androidauthority.com/honor-mwc-2024-3409367/)
- - [The Rookie season 6: Release date, cast, and the latest rumors](https://www.androidauthority.com/the-rookie-season-6-release-date-3409355/)
- - [Raspberry Pi CEO Eben Upton says the company is in the early stages of planning a London IPO, appointing two banks, after considering a listing in early 2022 &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240130/p4#a240130p4)<!-- TECH:END -->
+ - [Yelp will use AI to tell you if that burger’s any good](https://www.theverge.com/2024/1/30/24054806/yelp-ai-business-summary-reviews)
+ - [Microsoft Edge imported open Chrome tabs after a Windows update despite Edge&#39;s import tool being disabled; Windows users have reported the behavior for months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240130/p6#a240130p6)
+ - [Poll: Would you buy the Galaxy S24 Ultra if it had no S Pen?](https://www.androidauthority.com/galaxy-s24-ultra-without-s-pen-poll-3409333/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
