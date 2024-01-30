@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Godzilla Is Stomping into Minecraft](https://minecraft.net/article/godzilla-stomps-minecraft#new_tab)
- - [Kurt Russell explains why he’d never voice Solid Snake](https://www.polygon.com/24055881/metal-gear-solid-snake-kurt-russell-escape-from-new-york)
- - [The Best Pals To Snag For Fighting And Work In Palworld](https://kotaku.com/palworld-best-pals-combat-workability-type-1851209273)<!-- GAME:END -->
+ - [Diablo IV: Luminant Prosperity Awaits in Lunar Awakening](https://news.blizzard.com/diablo4/24034084/luminant-prosperity-awaits-in-lunar-awakening#new_tab)
+ - [Where to find Black Marketeer locations in Palworld](https://www.polygon.com/palworld-guides/24055743/black-marketeer-locations-where-to-find-map)
+ - [The best anime movies to watch right now](https://www.polygon.com/what-to-watch/23891489/best-anime-movies-watch-streaming-netflix-hulu-prime-max)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
