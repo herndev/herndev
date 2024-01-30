@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - ⏩ [Banana](http://9gag.com/gag/amAEred)
- - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
+ - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - ⏩ [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 👉 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)<!-- MEMES:END -->
 
 ---
 
