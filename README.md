@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block begins layoffs under a previously disclosed plan to cut staff by up to 10%, by imposing an &quot;absolute cap&quot; of a 12,000 headcount, which was 13,000 in Q3&#39;23 &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240130/p24#a240130p24)
- - [PSA: Today is your last chance to pre-order the Galaxy S24 series](https://www.androidauthority.com/galaxy-s24-series-pre-order-3409543/)
- - [One of the Internet’s Oldest Software Archives Is Shutting Down](https://www.wired.com/story/hobbes-os2-archive-shutting-down/)<!-- TECH:END -->
+ - [Alphabet reports Q4 Google advertising revenue up 11% YoY to $65.5B, vs. $66.1B estimated, with Google Search &amp; other revenue up 13% YoY to $48B &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240130/p31#a240130p31)
+ - [Samsung update brings Google’s Quick Share, but only kind of](https://www.androidauthority.com/samsung-update-brings-googles-quick-share-but-only-kind-of-3409576/)
+ - [AMD reports Q4 revenue down 10% YoY to $6.2B, net income up 3,076% to $667M, Data Center revenue up 38% to $2.3B, and Q1 revenue forecast below estimates &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240130/p30#a240130p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
