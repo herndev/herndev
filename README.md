@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - ⏩ [Cats have an internal physics calculator](http://9gag.com/gag/axoXg51)
- - 👉 [The perfect f**k is out there, hang in there.](http://9gag.com/gag/aVbNqm8)<!-- MEMES:END -->
+ - ⏩ [The perfect f**k is out there, hang in there.](http://9gag.com/gag/aVbNqm8)
+ - 👉 [How to raise yo kids properly](http://9gag.com/gag/avQ3rMW)<!-- MEMES:END -->
 
 ---
 
