@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Foongus be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24054702/can-foongus-be-shiny-amoongus)
- - [Wordle today: Hint and answer #955 for Tuesday, January 30](https://www.pcgamer.com/wordle-today-answer-955-january-30)
- - [Diablo 4 igneous core: How to farm season 3 boss materials](https://www.pcgamer.com/diablo-4-igneous-core-malphas)<!-- GAME:END -->
+ - [AMD Ryzen 5 8600G review](https://www.pcgamer.com/amd-ryzen-5-8600g-review-benchmarks-performance)
+ - [Real-life Team Rocket robs 35,000 Pokémon cards from a store despite using a blocked entrance, crawling around on their hands and knees, and missing a major release by 2 whole days](https://www.pcgamer.com/real-life-team-rocket-robs-35000-pokemon-cards-from-a-store-despite-using-a-blocked-entrance-crawling-around-on-their-hands-and-knees-and-missing-a-major-release-by-2-whole-days)
+ - [Can Foongus be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24054702/can-foongus-be-shiny-amoongus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
