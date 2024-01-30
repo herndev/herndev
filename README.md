@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s visionOS doesn&#39;t let users rearrange home screen icons or pin web apps to the home screen, particularly limiting as Netflix and YouTube lack native apps &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240130/p20#a240130p20)
- - [Apple Card&#39;s 12 million users are taking advantage of everything it has to offer](https://appleinsider.com/articles/24/01/30/apple-cards-12-million-users-are-taking-advantage-of-everything-it-has-to-offer?utm_medium=rss)
- - [Infinite Wealth can drag on but makes up for it with heart, soul, and Pokémon](https://www.theverge.com/24055072/like-a-dragon-infinite-wealth-review-yakuza-sega)<!-- TECH:END -->
+ - [How to stop location tracking on your Android phone &lpar;mostly&rpar;](https://www.theverge.com/21401280/android-location-tracking-history-stop-how-to)
+ - [Daily deals Jan. 30: AirPods Pro $155, $300 off MacBook Air, Apple accessories from $9.99, more](https://appleinsider.com/articles/24/01/30/daily-deals-jan-30-airpods-pro-155-300-off-macbook-air-apple-accessories-from-999-more?utm_medium=rss)
+ - [iOS 17.4 beta 1 gets rare mid-stream update](https://appleinsider.com/articles/24/01/30/ios-174-beta-1-gets-rare-mid-stream-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
