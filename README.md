@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yelp will use AI to tell you if that burger’s any good](https://www.theverge.com/2024/1/30/24054806/yelp-ai-business-summary-reviews)
- - [Microsoft Edge imported open Chrome tabs after a Windows update despite Edge&#39;s import tool being disabled; Windows users have reported the behavior for months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240130/p6#a240130p6)
- - [Poll: Would you buy the Galaxy S24 Ultra if it had no S Pen?](https://www.androidauthority.com/galaxy-s24-ultra-without-s-pen-poll-3409333/)<!-- TECH:END -->
+ - [Be careful of what you share with AI: ChatGPT appears to be leaking private conversations](https://www.androidauthority.com/chatgpt-leaking-private-conversations-3409300/)
+ - [Future Apple Vision Pro could limit playback based on where you are](https://appleinsider.com/articles/24/01/30/future-apple-vision-pro-could-limit-playback-based-on-where-you-are?utm_medium=rss)
+ - [Sources and documents: TikTok managers sometimes tell Project Texas staff to send data, including email and IP, to ByteDance without going via official channels &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/240130/p9#a240130p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
