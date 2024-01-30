@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet reports Q4 Google advertising revenue up 11% YoY to $65.5B, vs. $66.1B estimated, with Google Search &amp; other revenue up 13% YoY to $48B &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240130/p31#a240130p31)
- - [Samsung update brings Google’s Quick Share, but only kind of](https://www.androidauthority.com/samsung-update-brings-googles-quick-share-but-only-kind-of-3409576/)
- - [AMD reports Q4 revenue down 10% YoY to $6.2B, net income up 3,076% to $667M, Data Center revenue up 38% to $2.3B, and Q1 revenue forecast below estimates &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240130/p30#a240130p30)<!-- TECH:END -->
+ - [YouTube TV listened to sports fans, and it’s fixing multiview’s biggest problem](https://www.theverge.com/2024/1/30/24055945/youtube-tv-multiview-customization-sports-news-weather)
+ - [Arlo, which offers smart home devices, raises the price of its Arlo Secure service from $5/month to $8/month for a single camera, after a price hike in 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240130/p37#a240130p37)
+ - [OpenAI launches the ability for paying ChatGPT users to invoke GPTs directly in chats by typing &quot;@&quot; and selecting a GPT from a list &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240130/p36#a240130p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
