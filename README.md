@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York&#39;s AG sues Citibank over allegedly failing to defend customers from online scams, citing poor responses to red flags and failing to reimburse victims &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240130/p16#a240130p16)
- - [FEMA will pay states to install solar panels and heat pumps](https://www.theverge.com/2024/1/30/24055546/fema-solar-panel-pay-costs-disaster-reimbursement)
- - [Your home network might soon get a new — and simpler — name](https://www.theverge.com/2024/1/30/24055534/web-private-network-internal-icann-name)<!-- TECH:END -->
+ - [Apple&#39;s visionOS doesn&#39;t let users rearrange home screen icons or pin web apps to the home screen, particularly limiting as Netflix and YouTube lack native apps &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240130/p20#a240130p20)
+ - [Apple Card&#39;s 12 million users are taking advantage of everything it has to offer](https://appleinsider.com/articles/24/01/30/apple-cards-12-million-users-are-taking-advantage-of-everything-it-has-to-offer?utm_medium=rss)
+ - [Infinite Wealth can drag on but makes up for it with heart, soul, and Pokémon](https://www.theverge.com/24055072/like-a-dragon-infinite-wealth-review-yakuza-sega)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
