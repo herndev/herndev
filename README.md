@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok goes full YouTube](https://www.theverge.com/2024/1/29/24054906/tiktok-youtube-horizontal-videos-creators)
- - [Microsoft says Apple’s new App Store rules are ‘a step in the wrong direction’](https://www.theverge.com/2024/1/29/24054943/microsoft-apple-app-store-dma-rule-change-response)
- - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Apple has sold upwards of 200K Vision Pro units; Apple began accepting pre-orders for the Vision Pro on January 19 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240129/p30#a240129p30)
+ - [SmartLess is leaving Amazon for $100 million](https://www.theverge.com/2024/1/29/24054940/smartless-media-departs-amazon-signs-multi-year-exclusive-pact-with-siriusxm-one-hundred-million)
+ - [South Korea-based Rebellions, which develops AI chips, raised a ~$124M Series B led by KT at a ~$658M post-money valuation, taking its total raised to ~$210M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240129/p29#a240129p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
