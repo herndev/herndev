@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases Local Legend 14: The Bell 47J Ranger](https://www.flightsimulator.com/local-legend-xiv-bell-47j-ranger)
- - [Three great Palworld base locations to settle down in](https://www.pcgamer.com/palworld-base-locations)
- - [Palworld’s Pokémon Modders Return With Sarcastic Non-Infringing Mod](https://kotaku.com/palworld-pokemon-mod-toastedshoes-nintendo-1851209117)<!-- GAME:END -->
+ - [Drop Into Halo Infinite’s Latest Operation: Spirit of Fire](https://www.halowaypoint.com/news/cu29-launch)
+ - [Destiny 2 is getting Mass Effect-themed cosmetics next month](https://www.polygon.com/24055760/destiny-2-mass-effect-cosmetics-crossover)
+ - [10 Years Later, The Funniest Dad Game Ever Still Rules](https://kotaku.com/octodad-dadliest-catch-tenth-anniversary-1851209211)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
