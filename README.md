@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at J.E.T, a chip equipment maker whose shares rose 166% since its September 2023 Tokyo IPO, as it eyes subsidy-fueled demand to lower reliance on China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p38#a240129p38)
- - [How to quickly make desktop aliases from Dock apps in macOS](https://appleinsider.com/inside/macos/tips/how-to-quickly-make-desktop-aliases-from-dock-apps-in-macos?utm_medium=rss)
- - [ICANN proposes .INTERNAL, a new TLD available for internal use but never plumbed into the global DNS, taking on the same role as 192.168.x.x IPv4 bloc &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240129/p37#a240129p37)<!-- TECH:END -->
+ - [Samsung finally breaks silence on Galaxy AI’s fate after 2025](https://www.androidauthority.com/samsung-galaxy-ai-future-plans-3409282/)
+ - [PitchBook: VCs in the US have $311B in unspent cash, as they shy away from risky bets and focus on dividends, after raising a record $435B between 2020 and 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p1#a240130p1)
+ - [What episode does Glenn die in The Walking Dead, and how?](https://www.androidauthority.com/what-episode-does-glenn-die-in-the-walking-dead-3409211/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
