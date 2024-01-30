@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk’s newest product promises to let you control your phone with your brain](https://www.androidauthority.com/neuralink-first-human-control-phone-3409307/)
- - [This Telegram-like Google Messages feature is about ready to roll out](https://www.androidauthority.com/google-messages-custom-chat-color-3409277/)
- - [An interview with VP and General Manager of Google Play Sam Bright on Play Store curation, AI, quality gap between Android apps and their iOS counterparts, more &lpar;Daniel Bader/Android Police&rpar;](http://www.techmeme.com/240130/p2#a240130p2)<!-- TECH:END -->
+ - [The AI boom has spurred law firms, hospitals, insurance companies, government agencies, and others to create chief AI officer roles to navigate the use of AI &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240130/p3#a240130p3)
+ - [Chromecast with Google TV is now serving full-screen, auto-playing Chicken Tender Wrap ads](https://www.androidauthority.com/chromecast-with-google-tv-full-screen-auto-playing-ads-3409326/)
+ - [Musk’s newest product promises to let you control your phone with your brain](https://www.androidauthority.com/neuralink-first-human-control-phone-3409307/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
