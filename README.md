@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - ⏩ [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
+ - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - ⏩ [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 👉 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)<!-- MEMES:END -->
 
 ---
 
