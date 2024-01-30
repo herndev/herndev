@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Drop Into Halo Infinite’s Latest Operation: Spirit of Fire](https://www.halowaypoint.com/news/cu29-launch)
- - [Destiny 2 is getting Mass Effect-themed cosmetics next month](https://www.polygon.com/24055760/destiny-2-mass-effect-cosmetics-crossover)
- - [10 Years Later, The Funniest Dad Game Ever Still Rules](https://kotaku.com/octodad-dadliest-catch-tenth-anniversary-1851209211)<!-- GAME:END -->
+ - [Godzilla Is Stomping into Minecraft](https://minecraft.net/article/godzilla-stomps-minecraft#new_tab)
+ - [Kurt Russell explains why he’d never voice Solid Snake](https://www.polygon.com/24055881/metal-gear-solid-snake-kurt-russell-escape-from-new-york)
+ - [The Best Pals To Snag For Fighting And Work In Palworld](https://kotaku.com/palworld-best-pals-combat-workability-type-1851209273)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
