@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI boom has spurred law firms, hospitals, insurance companies, government agencies, and others to create chief AI officer roles to navigate the use of AI &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240130/p3#a240130p3)
- - [Chromecast with Google TV is now serving full-screen, auto-playing Chicken Tender Wrap ads](https://www.androidauthority.com/chromecast-with-google-tv-full-screen-auto-playing-ads-3409326/)
- - [Musk’s newest product promises to let you control your phone with your brain](https://www.androidauthority.com/neuralink-first-human-control-phone-3409307/)<!-- TECH:END -->
+ - [Honor promises Magic at MWC 2024: Here’s what you can expect](https://www.androidauthority.com/honor-mwc-2024-3409367/)
+ - [The Rookie season 6: Release date, cast, and the latest rumors](https://www.androidauthority.com/the-rookie-season-6-release-date-3409355/)
+ - [Raspberry Pi CEO Eben Upton says the company is in the early stages of planning a London IPO, appointing two banks, after considering a listing in early 2022 &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240130/p4#a240130p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
