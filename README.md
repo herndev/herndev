@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Be careful of what you share with AI: ChatGPT appears to be leaking private conversations](https://www.androidauthority.com/chatgpt-leaking-private-conversations-3409300/)
- - [Future Apple Vision Pro could limit playback based on where you are](https://appleinsider.com/articles/24/01/30/future-apple-vision-pro-could-limit-playback-based-on-where-you-are?utm_medium=rss)
- - [Sources and documents: TikTok managers sometimes tell Project Texas staff to send data, including email and IP, to ByteDance without going via official channels &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/240130/p9#a240130p9)<!-- TECH:END -->
+ - [Google’s latest ad doesn’t make a good argument for the standard Pixel 8](https://www.androidauthority.com/google-pixel-ad-standard-pixel-8-3409405/)
+ - [Sources: Binance has bowed to pressure from customers to let them store assets with an independent custodian, highlighting growing unease after the US fines &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240130/p10#a240130p10)
+ - [Tested: Samsung Galaxy S24 Ultra boasts even better battery life](https://www.androidauthority.com/galaxy-s24-ultra-battery-life-3407657/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
