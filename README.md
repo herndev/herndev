@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 4 igneous core: How to farm season 3 boss materials](https://www.pcgamer.com/diablo-4-igneous-core-malphas)
  - [Enshrouded doesn&#39;t have PvP, but players are still getting robbed and griefed by strangers](https://www.pcgamer.com/enshrouded-doesnt-have-pvp-but-players-are-still-getting-robbed-and-griefed-by-strangers)
- - [Indie games showcase Day of the Devs is now officially a non-profit organization](https://www.pcgamer.com/indie-games-showcase-day-of-the-devs-is-now-officially-a-non-profit-organization)
- - [Relive how bad Silent Hill: Ascension was with new excellent ‘It’s Trauma’ merch](https://www.polygon.com/24054911/silent-hill-ascension-its-trauma-mug-t-shirt)<!-- GAME:END -->
+ - [Indie games showcase Day of the Devs is now officially a non-profit organization](https://www.pcgamer.com/indie-games-showcase-day-of-the-devs-is-now-officially-a-non-profit-organization)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
