@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Apple has sold upwards of 200K Vision Pro units; Apple began accepting pre-orders for the Vision Pro on January 19 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240129/p30#a240129p30)
- - [SmartLess is leaving Amazon for $100 million](https://www.theverge.com/2024/1/29/24054940/smartless-media-departs-amazon-signs-multi-year-exclusive-pact-with-siriusxm-one-hundred-million)
- - [South Korea-based Rebellions, which develops AI chips, raised a ~$124M Series B led by KT at a ~$658M post-money valuation, taking its total raised to ~$210M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240129/p29#a240129p29)<!-- TECH:END -->
+ - [Elon Musk Says a Human Patient Has Received Neuralink’s Brain Implant](https://www.wired.com/story/elon-musk-neuralink-human-patient-brain-implant/)
+ - [Source: Alphabet execs told staffers at its moonshot X lab that the company will not convert promising investment projects into Other Bets subsidiaries in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240129/p34#a240129p34)
+ - [Microsoft latest to weigh in on Apple&#39;s EU App Store rules with disapproval](https://appleinsider.com/articles/24/01/30/microsoft-latest-to-weigh-in-on-apples-eu-app-store-rules-with-disapproval?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
