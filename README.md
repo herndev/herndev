@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - ⏩ [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
+ - 💣 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - ⏩ [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
 
 ---
 
