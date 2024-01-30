@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 pre-orders at Best Buy include a Steelbook case](https://www.polygon.com/deals/24054520/dragons-dogma-2-pre-order-buy-guide-standard-deluxe-edition)
- - [Persona 3 Reload Does Away With The Original’s Transphobia](https://kotaku.com/persona-3-reload-trans-scene-beautiful-lady-beach-1851206294)
- - [The Classic Pokémon TCG set is available for its lowest price ever](https://www.polygon.com/deals/24025237/classic-pokemon-tcg-collectors-box-set-amazon-best-buy)<!-- GAME:END -->
+ - [The plucky Raspberry Pi 5 gets the full liquid treatment with this slightly absurd water cooling kit](https://www.pcgamer.com/the-plucky-raspberry-pi-5-gets-the-full-liquid-treatment-with-this-slightly-absurd-water-cooling-kit)
+ - [Don&#39;t think of Avowed as Obsidian&#39;s Skyrim but as a Fallout: New Vegas and Outer Worlds-style take on first-person fantasy, says the studio](https://www.pcgamer.com/dont-think-of-avowed-as-obsidians-skyrim-but-as-a-fallout-new-vegas-and-outer-worlds-style-take-on-first-person-fantasy-says-the-studio)
+ - [How to craft the glider in Enshrouded](https://www.polygon.com/enshrouded-guides/24054945/glider-advanced-extraordinary-how-to-get-craft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
