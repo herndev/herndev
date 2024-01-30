@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/axoXVyp)
- - ⏩ [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 👉 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)<!-- MEMES:END -->
+ - 💣 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - ⏩ [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - 👉 [This one took me a lil while](http://9gag.com/gag/aME3QOV)<!-- MEMES:END -->
 
 ---
 
