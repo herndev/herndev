@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 💣 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
  - ⏩ [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 👉 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)<!-- MEMES:END -->
+ - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
 
 ---
 
