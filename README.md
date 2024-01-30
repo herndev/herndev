@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s latest ad doesn’t make a good argument for the standard Pixel 8](https://www.androidauthority.com/google-pixel-ad-standard-pixel-8-3409405/)
- - [Sources: Binance has bowed to pressure from customers to let them store assets with an independent custodian, highlighting growing unease after the US fines &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240130/p10#a240130p10)
- - [Tested: Samsung Galaxy S24 Ultra boasts even better battery life](https://www.androidauthority.com/galaxy-s24-ultra-battery-life-3407657/)<!-- TECH:END -->
+ - [Apple Vision Pro review roundup: an experience that weighs on you](https://appleinsider.com/articles/24/01/30/apple-vision-pro-review-roundup-an-experience-that-weighs-on-you?utm_medium=rss)
+ - [AT&amp;T launches branded calls to help filter out spam](https://www.theverge.com/2024/1/30/24055438/branded-phone-calls-spam-robocall-att-transunion)
+ - [German police seize nearly 50K bitcoin, worth ~$2.17B, from two suspects who allegedly acquired the bitcoin with profits from an illegal file-sharing platform &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/240130/p13#a240130p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
