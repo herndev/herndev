@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - ⏩ [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - ⏩ [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
  - 👉 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)<!-- MEMES:END -->
 
 ---
