@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload: The Kotaku Review](https://kotaku.com/persona-3-reload-remake-review-ps5-steam-pc-xbox-1851201927)
- - [2018&#39;s best platformer now has an adorable Mario 64-style tribute made by the game&#39;s original dev team for its 6th anniversary—and it&#39;s completely free](https://www.pcgamer.com/2018s-best-platformer-now-has-an-adorable-mario-64-style-tribute-made-by-the-games-original-dev-team-for-its-6th-anniversaryand-its-completely-free)
- - [MSI&#39;s new Claw handheld goes head to head with Lenovo and Asus at $700](https://www.pcgamer.com/msis-new-claw-handheld-goes-head-to-head-with-lenovo-and-asus-at-dollar700)<!-- GAME:END -->
+ - [Elon Musk&#39;s Neuralink has stuck a device in someone&#39;s brain and he&#39;s already talking up its theoretical uses: &#39;Imagine if Stephen Hawking could communicate faster than a speed typist&#39;](https://www.pcgamer.com/elon-musks-neuralink-has-stuck-a-device-in-someones-brain-and-hes-already-talking-up-its-theoretical-uses-imagine-if-stephen-hawking-could-communicate-faster-than-a-speed-typist)
+ - [Persona 3 Reload chases Persona 5 and stumbles](https://www.polygon.com/reviews/24054581/persona-3-reload-review-remake-xbox-ps5-pc-atlus)
+ - [Persona 3 Reload: The Kotaku Review](https://kotaku.com/persona-3-reload-remake-review-ps5-steam-pc-xbox-1851201927)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
