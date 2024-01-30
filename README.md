@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Ryzen 5 8600G review](https://www.pcgamer.com/amd-ryzen-5-8600g-review-benchmarks-performance)
- - [Real-life Team Rocket robs 35,000 Pokémon cards from a store despite using a blocked entrance, crawling around on their hands and knees, and missing a major release by 2 whole days](https://www.pcgamer.com/real-life-team-rocket-robs-35000-pokemon-cards-from-a-store-despite-using-a-blocked-entrance-crawling-around-on-their-hands-and-knees-and-missing-a-major-release-by-2-whole-days)
- - [Can Foongus be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24054702/can-foongus-be-shiny-amoongus)<!-- GAME:END -->
+ - [Persona 3 Reload: The Kotaku Review](https://kotaku.com/persona-3-reload-remake-review-ps5-steam-pc-xbox-1851201927)
+ - [2018&#39;s best platformer now has an adorable Mario 64-style tribute made by the game&#39;s original dev team for its 6th anniversary—and it&#39;s completely free](https://www.pcgamer.com/2018s-best-platformer-now-has-an-adorable-mario-64-style-tribute-made-by-the-games-original-dev-team-for-its-6th-anniversaryand-its-completely-free)
+ - [MSI&#39;s new Claw handheld goes head to head with Lenovo and Asus at $700](https://www.pcgamer.com/msis-new-claw-handheld-goes-head-to-head-with-lenovo-and-asus-at-dollar700)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
