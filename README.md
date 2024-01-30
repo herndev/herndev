@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
- - ⏩ [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 👉 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/axoXVyp)
+ - ⏩ [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 👉 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)<!-- MEMES:END -->
 
 ---
 
