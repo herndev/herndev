@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk&#39;s Neuralink has stuck a device in someone&#39;s brain and he&#39;s already talking up its theoretical uses: &#39;Imagine if Stephen Hawking could communicate faster than a speed typist&#39;](https://www.pcgamer.com/elon-musks-neuralink-has-stuck-a-device-in-someones-brain-and-hes-already-talking-up-its-theoretical-uses-imagine-if-stephen-hawking-could-communicate-faster-than-a-speed-typist)
- - [Persona 3 Reload chases Persona 5 and stumbles](https://www.polygon.com/reviews/24054581/persona-3-reload-review-remake-xbox-ps5-pc-atlus)
- - [Persona 3 Reload: The Kotaku Review](https://kotaku.com/persona-3-reload-remake-review-ps5-steam-pc-xbox-1851201927)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 pre-orders at Best Buy include a Steelbook case](https://www.polygon.com/deals/24054520/dragons-dogma-2-pre-order-buy-guide-standard-deluxe-edition)
+ - [Persona 3 Reload Does Away With The Original’s Transphobia](https://kotaku.com/persona-3-reload-trans-scene-beautiful-lady-beach-1851206294)
+ - [The Classic Pokémon TCG set is available for its lowest price ever](https://www.polygon.com/deals/24025237/classic-pokemon-tcg-collectors-box-set-amazon-best-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
