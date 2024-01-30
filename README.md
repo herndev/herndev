@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - ⏩ [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 💣 [Godsdeveloperconsole](http://9gag.com/gag/ajVoAB1)
+ - ⏩ [Listen dear, sometimes we gotta climb a tree cuz hyena.](http://9gag.com/gag/amAEz2d)
  - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
 
 ---
