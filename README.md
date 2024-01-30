@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your favorite third-party apps could soon take Ultra HDR photos](https://www.androidauthority.com/third-party-apps-android-ultra-hdr-image-capture-3407950/)
  - [Samsung finally breaks silence on Galaxy AI’s fate after 2025](https://www.androidauthority.com/samsung-galaxy-ai-future-plans-3409282/)
- - [PitchBook: VCs in the US have $311B in unspent cash, as they shy away from risky bets and focus on dividends, after raising a record $435B between 2020 and 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p1#a240130p1)
- - [What episode does Glenn die in The Walking Dead, and how?](https://www.androidauthority.com/what-episode-does-glenn-die-in-the-walking-dead-3409211/)<!-- TECH:END -->
+ - [PitchBook: VCs in the US have $311B in unspent cash, as they shy away from risky bets and focus on dividends, after raising a record $435B between 2020 and 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p1#a240130p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
