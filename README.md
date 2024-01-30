@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The plucky Raspberry Pi 5 gets the full liquid treatment with this slightly absurd water cooling kit](https://www.pcgamer.com/the-plucky-raspberry-pi-5-gets-the-full-liquid-treatment-with-this-slightly-absurd-water-cooling-kit)
- - [Don&#39;t think of Avowed as Obsidian&#39;s Skyrim but as a Fallout: New Vegas and Outer Worlds-style take on first-person fantasy, says the studio](https://www.pcgamer.com/dont-think-of-avowed-as-obsidians-skyrim-but-as-a-fallout-new-vegas-and-outer-worlds-style-take-on-first-person-fantasy-says-the-studio)
- - [How to craft the glider in Enshrouded](https://www.polygon.com/enshrouded-guides/24054945/glider-advanced-extraordinary-how-to-get-craft)<!-- GAME:END -->
+ - [AI researchers find AI models learning their safety techniques, actively resisting training, and telling them &#39;I hate you&#39;](https://www.pcgamer.com/ai-researchers-find-ai-models-learning-their-safety-techniques-actively-resisting-training-and-telling-them-i-hate-you)
+ - [With Uncle Iroh’s Guide, the Avatar RPG encourages your characters to get old as hell](https://www.polygon.com/24054403/avatar-airbender-legends-tabletop-game-uncle-iroh-magpie-games)
+ - [PSA: Suicide Squad Spoilers Are Floating Around Social Media](https://kotaku.com/suicide-squad-justice-league-spoilers-batman-harley-1851209003)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
