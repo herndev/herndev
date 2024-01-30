@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - ⏩ [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 👉 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)<!-- MEMES:END -->
+ - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - ⏩ [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
 
 ---
 
