@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - ⏩ [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)
- - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
+ - 💣 [How to get everyone&#39;s attention.](http://9gag.com/gag/aXn5Amg)
+ - ⏩ [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
 
 ---
 
