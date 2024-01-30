@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #955 for Tuesday, January 30](https://www.pcgamer.com/wordle-today-answer-955-january-30)
  - [Diablo 4 igneous core: How to farm season 3 boss materials](https://www.pcgamer.com/diablo-4-igneous-core-malphas)
- - [Enshrouded doesn&#39;t have PvP, but players are still getting robbed and griefed by strangers](https://www.pcgamer.com/enshrouded-doesnt-have-pvp-but-players-are-still-getting-robbed-and-griefed-by-strangers)
- - [Indie games showcase Day of the Devs is now officially a non-profit organization](https://www.pcgamer.com/indie-games-showcase-day-of-the-devs-is-now-officially-a-non-profit-organization)<!-- GAME:END -->
+ - [Enshrouded doesn&#39;t have PvP, but players are still getting robbed and griefed by strangers](https://www.pcgamer.com/enshrouded-doesnt-have-pvp-but-players-are-still-getting-robbed-and-griefed-by-strangers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
