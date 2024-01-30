@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - ⏩ [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)
- - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
+ - 💣 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - ⏩ [Cats have an internal physics calculator](http://9gag.com/gag/axoXg51)
+ - 👉 [The perfect f**k is out there, hang in there.](http://9gag.com/gag/aVbNqm8)<!-- MEMES:END -->
 
 ---
 
