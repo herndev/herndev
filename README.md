@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X has lifted its ban on Taylor Swift searches, and says it &quot;will continue to be vigilant&quot;, following the spread of explicit AI-generated images of the singer &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240129/p35#a240129p35)
- - [Elon Musk Says a Human Patient Has Received Neuralink’s Brain Implant](https://www.wired.com/story/elon-musk-neuralink-human-patient-brain-implant/)
- - [Source: Alphabet execs told staffers at its moonshot X lab that the company will not convert promising investment projects into Other Bets subsidiaries in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240129/p34#a240129p34)<!-- TECH:END -->
+ - [ICANN proposes .INTERNAL, a new TLD available for internal use but never plumbed into the global DNS, taking on the same role as 192.168.x.x IPv4 bloc &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240129/p37#a240129p37)
+ - [Reed Hastings donates $1.1B worth of his Netflix shares, or ~40% of his stake, to Silicon Valley Community Foundation, a popular charity among tech founders &lpar;Theo Francis/Wall Street Journal&rpar;](http://www.techmeme.com/240129/p36#a240129p36)
+ - [X has lifted its ban on Taylor Swift searches, and says it &quot;will continue to be vigilant&quot;, following the spread of explicit AI-generated images of the singer &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240129/p35#a240129p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
