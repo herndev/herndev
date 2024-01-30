@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro review roundup: an experience that weighs on you](https://appleinsider.com/articles/24/01/30/apple-vision-pro-review-roundup-an-experience-that-weighs-on-you?utm_medium=rss)
- - [AT&amp;T launches branded calls to help filter out spam](https://www.theverge.com/2024/1/30/24055438/branded-phone-calls-spam-robocall-att-transunion)
- - [German police seize nearly 50K bitcoin, worth ~$2.17B, from two suspects who allegedly acquired the bitcoin with profits from an illegal file-sharing platform &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/240130/p13#a240130p13)<!-- TECH:END -->
+ - [iPhone 16 won&#39;t be compelling and Apple will get hurt because of it, says Kuo](https://appleinsider.com/articles/24/01/30/iphone-16-wont-be-compelling-and-apple-will-get-hurt-because-of-it-says-kuo?utm_medium=rss)
+ - [The ‘Take Our Border Back’ Convoy Is Already a Complete Mess](https://www.wired.com/story/day-one-take-our-border-back-convoy-texas/)
+ - [My new favorite way to manage my family’s calendars is getting bigger](https://www.theverge.com/2024/1/30/24054438/skylight-cal-max-smart-family-calendar-launch-pricing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
