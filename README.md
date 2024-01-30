@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The king reigns.](http://9gag.com/gag/awZ6xx4)
- - ⏩ [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 👉 [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)<!-- MEMES:END -->
+ - 💣 [Legend](http://9gag.com/gag/awZ6bZx)
+ - ⏩ [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)
+ - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
 
 ---
 
