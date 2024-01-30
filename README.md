@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)
- - ⏩ [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 👉 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)<!-- MEMES:END -->
+ - 💣 [Can confirm](http://9gag.com/gag/aGEWVq0)
+ - ⏩ [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
 
 ---
 
