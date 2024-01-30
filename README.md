@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - ⏩ [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
+ - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - ⏩ [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)
+ - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
 
 ---
 
