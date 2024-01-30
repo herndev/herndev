@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - ⏩ [The perfect f**k is out there, hang in there.](http://9gag.com/gag/aVbNqm8)
- - 👉 [How to raise yo kids properly](http://9gag.com/gag/avQ3rMW)<!-- MEMES:END -->
+ - 💣 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - ⏩ [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
+ - 👉 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)<!-- MEMES:END -->
 
 ---
 
