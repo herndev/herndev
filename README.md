@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I accidentally bred one of the rarest Palworld pals, but they have the most ridiculous stats](https://www.pcgamer.com/i-accidentally-bred-one-of-the-rarest-palworld-pals-but-they-have-the-most-ridiculous-stats)
- - [Why This Under-The-Radar AAA Title Is More Than Just A Far Cry Clone](https://kotaku.com/avatar-frontiers-of-pandora-open-world-ubisoft-far-cry-1851209744)
- - [Four features that make Altered the year’s most interesting new trading card game reveal](https://www.polygon.com/tabletop-games/24056086/altered-tcg-kickstarter-preview)<!-- GAME:END -->
+ - [Enshrouded player discovers the best way to fly isn&#39;t using a glider, it&#39;s using a bed](https://www.pcgamer.com/enshrouded-player-discovers-the-best-way-to-fly-isnt-with-a-glider-its-with-a-bed)
+ - [Bungie hopes Destiny 2&#39;s new Mass Effect armor sets will be your favorite cosmetics on The Tower](https://www.pcgamer.com/bungie-hopes-destiny-2s-new-mass-effect-armor-sets-will-be-your-favorite-cosmetics-on-the-tower)
+ - [2K pulls Spec Ops: The Line from digital stores without warning](https://www.polygon.com/24056224/2k-spec-ops-the-line-digital-storefront-removal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
