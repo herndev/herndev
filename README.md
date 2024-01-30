@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI researchers find AI models learning their safety techniques, actively resisting training, and telling them &#39;I hate you&#39;](https://www.pcgamer.com/ai-researchers-find-ai-models-learning-their-safety-techniques-actively-resisting-training-and-telling-them-i-hate-you)
- - [With Uncle Iroh’s Guide, the Avatar RPG encourages your characters to get old as hell](https://www.polygon.com/24054403/avatar-airbender-legends-tabletop-game-uncle-iroh-magpie-games)
- - [PSA: Suicide Squad Spoilers Are Floating Around Social Media](https://kotaku.com/suicide-squad-justice-league-spoilers-batman-harley-1851209003)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases Local Legend 14: The Bell 47J Ranger](https://www.flightsimulator.com/local-legend-xiv-bell-47j-ranger)
+ - [Three great Palworld base locations to settle down in](https://www.pcgamer.com/palworld-base-locations)
+ - [Palworld’s Pokémon Modders Return With Sarcastic Non-Infringing Mod](https://kotaku.com/palworld-pokemon-mod-toastedshoes-nintendo-1851209117)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
