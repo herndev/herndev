@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - ⏩ [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - ⏩ [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
  - 👉 [This one took me a lil while](http://9gag.com/gag/aME3QOV)<!-- MEMES:END -->
 
 ---
