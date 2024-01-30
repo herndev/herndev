@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get everyone&#39;s attention.](http://9gag.com/gag/aXn5Amg)
- - ⏩ [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
+ - 💣 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
+ - ⏩ [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
 
 ---
 
