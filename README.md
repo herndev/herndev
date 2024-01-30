@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Foongus be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24054702/can-foongus-be-shiny-amoongus)
  - [Wordle today: Hint and answer #955 for Tuesday, January 30](https://www.pcgamer.com/wordle-today-answer-955-january-30)
- - [Diablo 4 igneous core: How to farm season 3 boss materials](https://www.pcgamer.com/diablo-4-igneous-core-malphas)
- - [Enshrouded doesn&#39;t have PvP, but players are still getting robbed and griefed by strangers](https://www.pcgamer.com/enshrouded-doesnt-have-pvp-but-players-are-still-getting-robbed-and-griefed-by-strangers)<!-- GAME:END -->
+ - [Diablo 4 igneous core: How to farm season 3 boss materials](https://www.pcgamer.com/diablo-4-igneous-core-malphas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
