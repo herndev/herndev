@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - ⏩ [Euro](http://9gag.com/gag/ap9WLRB)
- - 👉 [Brutal](http://9gag.com/gag/aoKb9P2)<!-- MEMES:END -->
+ - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - ⏩ [Banana](http://9gag.com/gag/amAEred)
+ - 👉 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)<!-- MEMES:END -->
 
 ---
 
