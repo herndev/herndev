@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Ubisoft&#39;s problems, as insiders fear further layoffs: a wild goose chase of popular fads, like NFTs, constant delays, low player numbers, and more &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240131/p16#a240131p16)
- - [Epic says that Apple isn&#39;t doing enough to comply with US App Store court orders](https://appleinsider.com/articles/24/01/31/epic-says-that-apple-isnt-doing-enough-to-comply-with-us-app-store-court-orders?utm_medium=rss)
- - [In prepared Senate testimony, TikTok CEO Shou Chew says the company plans to spend $2B+ in 2024 on trust and safety globally and the app has 170M US MAUs &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240131/p15#a240131p15)<!-- TECH:END -->
+ - [Apple hits India sales record as country cuts import duty](https://appleinsider.com/articles/24/01/31/apple-hits-india-sales-record-as-country-cuts-import-duty?utm_medium=rss)
+ - [The Reserve Bank of India issues new curbs against Paytm&#39;s Payments Bank, including barring new deposits, credit transactions, and more after February 29 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p19#a240131p19)
+ - [Apple Watch gets help for victims of incredibly violent car crash](https://appleinsider.com/articles/24/01/31/apple-watch-gets-help-for-victims-of-incredibly-violent-car-crash?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
