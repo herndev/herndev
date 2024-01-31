@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - ⏩ [Don&#39;t mess with India](http://9gag.com/gag/adPmXLd)
- - 👉 [Banana](http://9gag.com/gag/amAEred)<!-- MEMES:END -->
+ - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - ⏩ [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
 
 ---
 
