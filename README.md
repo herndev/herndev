@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says GPT-4 poses &quot;at most&quot; a slight risk of helping create biological threats, according to early tests to evaluate &quot;catastrophic&quot; risks from LLMs &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240131/p36#a240131p36)
- - [Apple continues its 17-year streak of being the most admired company in the world](https://appleinsider.com/articles/24/01/31/apple-continues-its-17-year-streak-of-being-the-most-admired-company-in-the-world?utm_medium=rss)
- - [Microsoft Edge for Android quietly adds extension support](https://www.androidauthority.com/microsoft-edge-for-android-extensions-3409836/)<!-- TECH:END -->
+ - [Microsoft LASERs away LLM inaccuracies](https://www.theverge.com/2024/1/31/24057362/microsoft-llm-accuracy-laser-research-ai)
+ - [All the news from PlayStation’s 2024 State of Play](https://www.theverge.com/24055776/playstation-state-of-play-january-2024-sony)
+ - [Qualcomm reports Q1 adjusted revenue up 5% YoY to $9.92B, vs. $9.51B est., handset chip sales up 16% YoY to $6.69B, and net income up 24% YoY to $2.77B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240131/p37#a240131p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
