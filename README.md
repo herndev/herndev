@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - ⏩ [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
+ - 💣 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
+ - ⏩ [Lol.](http://9gag.com/gag/armjgV7)
+ - 👉 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)<!-- MEMES:END -->
 
 ---
 
