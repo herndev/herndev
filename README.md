@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - ⏩ [Oh boy](http://9gag.com/gag/aA0ox80)
- - 👉 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)<!-- MEMES:END -->
+ - 💣 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - ⏩ [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
 
 ---
 
