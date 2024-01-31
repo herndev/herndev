@@ -33,7 +33,7 @@
 
 <!-- GAME:START -->
  - [Yes, there is a post-credits scene for Percy Jackson](https://www.polygon.com/24054930/percy-jackson-and-the-olympians-disney-plus-post-credits)
- - [Destiny 2 game director Joe Blackburn is stepping down](https://www.pcgamer.com/destiny-2-game-director-joe-blackburn-is-stepping-down)
+ - [Destiny 2 game director Joe Blackburn is leaving Bungie for &#39;a new adventure&#39;](https://www.pcgamer.com/destiny-2-game-director-joe-blackburn-is-stepping-down)
  - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2024/01/30/critics-choice-promotion-comes-to-playstation-store-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
