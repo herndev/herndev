@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft LASERs away LLM inaccuracies](https://www.theverge.com/2024/1/31/24057362/microsoft-llm-accuracy-laser-research-ai)
- - [All the news from PlayStation’s 2024 State of Play](https://www.theverge.com/24055776/playstation-state-of-play-january-2024-sony)
- - [Qualcomm reports Q1 adjusted revenue up 5% YoY to $9.92B, vs. $9.51B est., handset chip sales up 16% YoY to $6.69B, and net income up 24% YoY to $2.77B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240131/p37#a240131p37)<!-- TECH:END -->
+ - [Death Stranding 2’s new trailer is delightfully disturbing](https://www.theverge.com/24055773/death-stranding-2-ps5-trailer-2025)
+ - [Apple’s Vision Pro battery pack is hiding the final boss of Lightning cables](https://www.theverge.com/2024/1/31/24057392/apple-vision-pro-battery-lightning-cable)
+ - [Apple Fifth Avenue store getting fitted for Apple Vision Pro replica](https://appleinsider.com/articles/24/01/31/apple-fifth-avenue-store-getting-fitted-for-apple-vision-pro-replica?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
