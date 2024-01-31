@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - ⏩ [Women](http://9gag.com/gag/armjGA7)
+ - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - ⏩ [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
  - 👉 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)<!-- MEMES:END -->
 
 ---
