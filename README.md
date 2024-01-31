@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
- - ⏩ [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 👉 [This one took me a lil while](http://9gag.com/gag/aME3QOV)<!-- MEMES:END -->
+ - 💣 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - ⏩ [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - 👉 [Women](http://9gag.com/gag/axoXVyp)<!-- MEMES:END -->
 
 ---
 
