@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Euro](http://9gag.com/gag/ap9WLRB)
- - ⏩ [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
- - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
+ - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - ⏩ [Euro](http://9gag.com/gag/ap9WLRB)
+ - 👉 [Brutal](http://9gag.com/gag/aoKb9P2)<!-- MEMES:END -->
 
 ---
 
