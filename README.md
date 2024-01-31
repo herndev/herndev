@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bore Blasters&#39; brilliantly silly arcade action finally combines the mining power of dwarves and helicopters](https://www.pcgamer.com/bore-blasters-brilliantly-silly-arcade-action-finally-combines-the-mining-power-of-dwarves-and-helicopters)
  - [Percy Jackson shouldn’t have explained it all away](https://www.polygon.com/reviews/24055490/percy-jackson-olympians-disney-plus-review)
- - [WoW&#39;s experimental ban on &#39;GDKP&#39; raids in Season of Discovery has set the community on fire—here&#39;s why](https://www.pcgamer.com/wows-experimental-ban-on-gdkp-raids-in-season-of-discovery-has-set-the-community-on-fire-heres-why)
- - [Palworld player uncovers secret Mewtwo-like hidden in the game files that looks too legally actionable even for Palworld](https://www.pcgamer.com/palworld-player-uncovers-secret-mewtwo-like-hidden-in-the-game-files-that-looks-too-legally-actionable-even-for-palworld)<!-- GAME:END -->
+ - [WoW&#39;s experimental ban on &#39;GDKP&#39; raids in Season of Discovery has set the community on fire—here&#39;s why](https://www.pcgamer.com/wows-experimental-ban-on-gdkp-raids-in-season-of-discovery-has-set-the-community-on-fire-heres-why)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
