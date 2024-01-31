@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - ⏩ [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
- - 👉 [Women](http://9gag.com/gag/axoXVyp)<!-- MEMES:END -->
+ - 💣 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
+ - ⏩ [Euro](http://9gag.com/gag/ap9WLRB)
+ - 👉 [Brutal](http://9gag.com/gag/aoKb9P2)<!-- MEMES:END -->
 
 ---
 
