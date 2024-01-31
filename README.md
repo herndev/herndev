@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV listened to sports fans, and it’s fixing multiview’s biggest problem](https://www.theverge.com/2024/1/30/24055945/youtube-tv-multiview-customization-sports-news-weather)
- - [Arlo, which offers smart home devices, raises the price of its Arlo Secure service from $5/month to $8/month for a single camera, after a price hike in 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240130/p37#a240130p37)
- - [OpenAI launches the ability for paying ChatGPT users to invoke GPTs directly in chats by typing &quot;@&quot; and selecting a GPT from a list &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240130/p36#a240130p36)<!-- TECH:END -->
+ - [US indicts a Chicago man who allegedly led a SIM-swap gang; members stole millions of dollars and posed as other people in Apple, T-Mobile, AT&amp;T, Verizon stores &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240130/p39#a240130p39)
+ - [Google spent billions of dollars to lay people off](https://www.theverge.com/2024/1/30/24056132/google-spent-two-billion-on-layoffs-severance-fourth-quarter-earnings-2023)
+ - [Replika’s new AI therapy app tries to bring you to a zen island](https://www.theverge.com/2024/1/30/24056106/tomo-replika-blush-generative-ai-mental-health)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
