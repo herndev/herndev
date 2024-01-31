@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hits India sales record as country cuts import duty](https://appleinsider.com/articles/24/01/31/apple-hits-india-sales-record-as-country-cuts-import-duty?utm_medium=rss)
- - [The Reserve Bank of India issues new curbs against Paytm&#39;s Payments Bank, including barring new deposits, credit transactions, and more after February 29 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p19#a240131p19)
- - [Apple Watch gets help for victims of incredibly violent car crash](https://appleinsider.com/articles/24/01/31/apple-watch-gets-help-for-victims-of-incredibly-violent-car-crash?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia RTX 4080 Super review: $999 is the main feature](https://www.theverge.com/24055394/nvidia-rtx-4080-super-review-gpu-graphics-card-benchmark-test)
+ - [The good news is that the Xiaomi 14 Ultra could pack plenty of tech](https://www.androidauthority.com/xiaomi-14-ultra-new-technology-price-3409739/)
+ - [iPhone 15 Pro Max vs Samsung Galaxy S24 Ultra -- specs, price, &amp; features compared](https://appleinsider.com/inside/iphone-15-pro/vs/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra----specs-price-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
