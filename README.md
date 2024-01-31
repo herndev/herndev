@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Banana](http://9gag.com/gag/amAEred)
- - ⏩ [Euro](http://9gag.com/gag/ap9WLRB)
- - 👉 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)<!-- MEMES:END -->
+ - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - ⏩ [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
 
 ---
 
