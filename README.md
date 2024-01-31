@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Enshrouded player discovers the best way to fly isn&#39;t using a glider, it&#39;s using a bed](https://www.pcgamer.com/enshrouded-player-discovers-the-best-way-to-fly-isnt-with-a-glider-its-with-a-bed)
- - [Bungie hopes Destiny 2&#39;s new Mass Effect armor sets will be your favorite cosmetics on The Tower](https://www.pcgamer.com/bungie-hopes-destiny-2s-new-mass-effect-armor-sets-will-be-your-favorite-cosmetics-on-the-tower)
- - [2K pulls Spec Ops: The Line from digital stores without warning](https://www.polygon.com/24056224/2k-spec-ops-the-line-digital-storefront-removal)<!-- GAME:END -->
+ - [Like A Dragon: Infinite Wealth Dondoko Island guide: How to earn $500,000 and break the economy](https://www.pcgamer.com/dondoko-island-guide-like-a-dragon-infinite-wealth)
+ - [The Long Dark creative director teases &#39;good things happening in the Unannounced Survival Games space&#39;](https://www.pcgamer.com/the-long-dark-creative-director-teases-good-things-happening-in-the-unannounced-survival-games-space)
+ - [Granblue Fantasy: Relink devs discuss crafting an immersive RPG world for PS5 &amp; PS4, out Feb 1](https://blog.playstation.com/2024/01/30/granblue-fantasy-relink-devs-discuss-crafting-an-immersive-rpg-world-for-ps5-ps4-out-feb-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
