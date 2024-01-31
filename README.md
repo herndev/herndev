@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2024’s Games Lineup Is Going to Be Incredible for Xbox Players – Here’s Why](https://news.xbox.com/en-us/2024/01/31/2024-xbox-games/)
- - [Palworld Has Reached Nearly 20 Million Players In 12 Days](https://kotaku.com/palworld-sales-xbox-steam-pc-game-pass-pokemon-guns-1851213277)
- - [Granblue Fantasy: Relink Has The Best Demo In Recent Memory](https://kotaku.com/granblue-fantasy-relink-playstation-demo-is-so-good-1851213078)<!-- GAME:END -->
+ - [How to Build Your Bulwark – Demo out Now](https://news.xbox.com/en-us/2024/01/31/bulwark-demo-out-now/)
+ - [TIE Fighters, ranked](https://www.pcgamer.com/tie-fighters-ranked)
+ - [New Alan Wake II Update Is For All You Babies Out There](https://kotaku.com/alan-wake-2-1-15-update-jump-scare-option-level-select-1851213619)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
