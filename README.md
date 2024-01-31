@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 💣 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
  - ⏩ [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 👉 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)<!-- MEMES:END -->
+ - 👉 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)<!-- MEMES:END -->
 
 ---
 
