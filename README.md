@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bore Blasters&#39; brilliantly silly arcade action finally combines the mining power of dwarves and helicopters](https://www.pcgamer.com/bore-blasters-brilliantly-silly-arcade-action-finally-combines-the-mining-power-of-dwarves-and-helicopters)
- - [Percy Jackson shouldn’t have explained it all away](https://www.polygon.com/reviews/24055490/percy-jackson-olympians-disney-plus-review)
- - [WoW&#39;s experimental ban on &#39;GDKP&#39; raids in Season of Discovery has set the community on fire—here&#39;s why](https://www.pcgamer.com/wows-experimental-ban-on-gdkp-raids-in-season-of-discovery-has-set-the-community-on-fire-heres-why)<!-- GAME:END -->
+ - [Introducing the Vapor Xbox Wireless Controller Collection: Where Style Meets Victory](https://news.xbox.com/en-us/2024/01/31/vapor-xbox-wireless-controller-collection/)
+ - [Drop + Xduoo TA-84 OTL Tube Amp/DAC review](https://www.pcgamer.com/drop-xduoo-ta-84-otl-tube-amp-dac-review)
+ - [Suicide Squad Gives Early Access Players Play Money After Dreadful Launch](https://kotaku.com/suicide-squad-kill-justice-league-preorder-servers-1851211653)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
