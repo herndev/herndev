@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol.](http://9gag.com/gag/armjgV7)
- - ⏩ [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 💣 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - ⏩ [Women](http://9gag.com/gag/armjGA7)
  - 👉 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)<!-- MEMES:END -->
 
 ---
