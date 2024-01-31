@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like A Dragon: Infinite Wealth Dondoko Island guide: How to earn $500,000 and break the economy](https://www.pcgamer.com/dondoko-island-guide-like-a-dragon-infinite-wealth)
- - [The Long Dark creative director teases &#39;good things happening in the Unannounced Survival Games space&#39;](https://www.pcgamer.com/the-long-dark-creative-director-teases-good-things-happening-in-the-unannounced-survival-games-space)
- - [Granblue Fantasy: Relink devs discuss crafting an immersive RPG world for PS5 &amp; PS4, out Feb 1](https://blog.playstation.com/2024/01/30/granblue-fantasy-relink-devs-discuss-crafting-an-immersive-rpg-world-for-ps5-ps4-out-feb-1/)<!-- GAME:END -->
+ - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2024/01/30/critics-choice-promotion-comes-to-playstation-store-4/)
+ - [Two years after release, the Final Fantasy Pixel Remasters on Steam finally achieve feature-parity with the console versions](https://www.pcgamer.com/two-years-after-release-the-final-fantasy-pixel-remasters-on-steam-finally-achieve-feature-parity-with-the-console-versions)
+ - [Pokimane is done streaming on Twitch](https://www.pcgamer.com/pokimane-leaves-twitch-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
