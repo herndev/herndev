@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Build Your Bulwark – Demo out Now](https://news.xbox.com/en-us/2024/01/31/bulwark-demo-out-now/)
- - [TIE Fighters, ranked](https://www.pcgamer.com/tie-fighters-ranked)
- - [New Alan Wake II Update Is For All You Babies Out There](https://kotaku.com/alan-wake-2-1-15-update-jump-scare-option-level-select-1851213619)<!-- GAME:END -->
+ - [Disney Loses Lawsuit Against Florida Gov. Ron DeSantis](https://kotaku.com/disney-world-lawsuit-florida-ron-desantis-dismissed-1851214174)
+ - [PSA: Don’t Use This Palworld Item &lpar;For Now&rpar;](https://kotaku.com/palworld-respec-memory-wiping-medicine-bugged-1851214122)
+ - [I treasure obscure PC keyboard shortcuts. Here are 7 I use every day](https://www.pcgamer.com/windows-secret-keyboard-shortcuts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
