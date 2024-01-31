@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing the Vapor Xbox Wireless Controller Collection: Where Style Meets Victory](https://news.xbox.com/en-us/2024/01/31/vapor-xbox-wireless-controller-collection/)
- - [Drop + Xduoo TA-84 OTL Tube Amp/DAC review](https://www.pcgamer.com/drop-xduoo-ta-84-otl-tube-amp-dac-review)
- - [Suicide Squad Gives Early Access Players Play Money After Dreadful Launch](https://kotaku.com/suicide-squad-kill-justice-league-preorder-servers-1851211653)<!-- GAME:END -->
+ - [A Little to the Left: Learn About the Beloved Puzzler Coming to Game Pass in February](https://news.xbox.com/en-us/2024/01/31/a-little-to-the-left-game-pass-february/)
+ - [Tabletop revenue down for a second year on Kickstarter, Tabletop Analytics report shows](https://www.polygon.com/24054381/kickstarter-top-10-biggest-most-backed-board-games-campaigns-2023)
+ - [Persona 3 Reload Leaks Reveal The Answer May Be Coming After All](https://kotaku.com/persona-3-reload-leaked-the-answer-dlc-1851211962)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
