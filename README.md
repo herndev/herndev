@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Little to the Left: Learn About the Beloved Puzzler Coming to Game Pass in February](https://news.xbox.com/en-us/2024/01/31/a-little-to-the-left-game-pass-february/)
- - [Tabletop revenue down for a second year on Kickstarter, Tabletop Analytics report shows](https://www.polygon.com/24054381/kickstarter-top-10-biggest-most-backed-board-games-campaigns-2023)
- - [Persona 3 Reload Leaks Reveal The Answer May Be Coming After All](https://kotaku.com/persona-3-reload-leaked-the-answer-dlc-1851211962)<!-- GAME:END -->
+ - [Brothers: A Tale of Two Sons Remake – How We Remade a Masterpiece](https://news.xbox.com/en-us/2024/01/31/brothers-a-tale-of-two-sons-remake-how-we-remade-a-masterpiece/)
+ - [PlayStation Plus’ February free games include Square Enix’s foam party and roller derby murder](https://www.polygon.com/24048007/playstation-plus-february-2024-monthly-games)
+ - [Extended Vampire: The Masquerade – Bloodlines 2 reveal is illuminating but disorientating](https://www.pcgamer.com/extended-vampire-the-masquerade-bloodlines-2-reveal-is-illuminating-but-disorientating)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
