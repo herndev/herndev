@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
- - ⏩ [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
- - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
+ - 💣 [Banana](http://9gag.com/gag/amAEred)
+ - ⏩ [Euro](http://9gag.com/gag/ap9WLRB)
+ - 👉 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)<!-- MEMES:END -->
 
 ---
 
