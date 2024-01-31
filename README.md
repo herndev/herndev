@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Journey of Spirit: Room of Depression](https://news.xbox.com/en-us/2024/01/31/a-journey-of-spirit-room-of-depression/)
- - [Everything We Know About Princess Peach: Showtime!](https://kotaku.com/princess-peach-showtime-release-date-transformations-1851212684)
- - [Netflix has reportedly canceled its best zombie show, so watch Netflix’s best zombie show](https://www.polygon.com/24057134/black-summer-netflix-best-zombie-show-watch-canceled)<!-- GAME:END -->
+ - [2024’s Games Lineup Is Going to Be Incredible for Xbox Players – Here’s Why](https://news.xbox.com/en-us/2024/01/31/2024-xbox-games/)
+ - [Palworld Has Reached Nearly 20 Million Players In 12 Days](https://kotaku.com/palworld-sales-xbox-steam-pc-game-pass-pokemon-guns-1851213277)
+ - [Granblue Fantasy: Relink Has The Best Demo In Recent Memory](https://kotaku.com/granblue-fantasy-relink-playstation-demo-is-so-good-1851213078)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
