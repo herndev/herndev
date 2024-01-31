@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - ⏩ [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - 👉 [Euro](http://9gag.com/gag/ap9WLRB)<!-- MEMES:END -->
+ - 💣 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - ⏩ [Proud mama](http://9gag.com/gag/ajVoEV0)
+ - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
 
 ---
 
