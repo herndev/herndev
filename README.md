@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bookstat: the US audiobook market grew 14% YoY in Q4 2023, excluding Spotify; with Spotify, it grew 28% YoY; Spotify had an 11% market share, behind Audible &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240131/p9#a240131p9)
- - [The Galaxy Z Flip 6 could get a much-needed battery upgrade](https://www.androidauthority.com/samsung-galaxy-z-flip-6-battery-leak-3409656/)
- - [A look at the four major categories of apps that could emerge at the intersection of crypto and AI, and the prospects and challenges of each category &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/240131/p8#a240131p8)<!-- TECH:END -->
+ - [OnePlus 12 gets its first update that adds Hasselblad Master mode &lpar;Update: Download link&rpar;](https://www.androidauthority.com/oneplus-12-hasselblad-master-mode-update-3409418/)
+ - [Silicon Valley&#39;s powerful companies claim to embrace Enlightenment values, but instead are leading an antidemocratic, illiberal, and authoritarian technocracy &lpar;Adrienne LaFrance/The Atlantic&rpar;](http://www.techmeme.com/240131/p11#a240131p11)
+ - [ByteDance co-founder and CEO Liang Rubo urges staff to resist mediocrity after the company missed the initial wave of generative AI, in a company-wide meeting &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240131/p10#a240131p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
