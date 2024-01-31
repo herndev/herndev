@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - ⏩ [Lol.](http://9gag.com/gag/armjgV7)
- - 👉 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)<!-- MEMES:END -->
+ - ⏩ [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 👉 [Euro](http://9gag.com/gag/ap9WLRB)<!-- MEMES:END -->
 
 ---
 
