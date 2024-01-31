@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Unity adds Apple Vision Pro support for all game developers](https://appleinsider.com/articles/24/01/31/unity-adds-apple-vision-pro-support-for-all-game-developers?utm_medium=rss)
- - [Best TV for Super Bowl 2024: Screens to Upgrade Your Game     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-super-bowl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel 8 is getting Google’s new AI search feature today](https://www.theverge.com/2024/1/31/24056890/circle-to-search-google-pixel-8-pro-update)
+ - [An FTX lawyer says the exchange expects to fully repay its customers and has abandoned efforts to restart the platform due to a lack of buyers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240131/p30#a240131p30)
+ - [Google is starting to roll out Quick Share to Pixel devices](https://www.androidauthority.com/google-quick-share-roll-out-3409783/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
