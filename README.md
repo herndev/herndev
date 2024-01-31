@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of the Senate Judiciary Committee&#39;s hearing on kids&#39; online safety, including testimony from Mark Zuckerberg, Linda Yaccarino, and Evan Spiegel &lpar;Washington Post&rpar;](http://www.techmeme.com/240131/p27#a240131p27)
- - [Universal Music Group expected to pull music from TikTok over concerns with AI and artist pay](https://www.theverge.com/2024/1/31/24056727/universal-music-group-umg-tiktok-music-removal-ai-pay-negotiations)
- - [Binance left a cache of code, infrastructure diagrams, passwords, and more on a public GitHub repository for months; GitHub removed after Binance&#39;s request &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240131/p26#a240131p26)<!-- TECH:END -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Unity adds Apple Vision Pro support for all game developers](https://appleinsider.com/articles/24/01/31/unity-adds-apple-vision-pro-support-for-all-game-developers?utm_medium=rss)
+ - [Best TV for Super Bowl 2024: Screens to Upgrade Your Game     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-super-bowl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
