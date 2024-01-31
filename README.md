@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - ⏩ [Banana](http://9gag.com/gag/amAEred)
- - 👉 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)<!-- MEMES:END -->
+ - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - ⏩ [Don&#39;t mess with India](http://9gag.com/gag/adPmXLd)
+ - 👉 [Banana](http://9gag.com/gag/amAEred)<!-- MEMES:END -->
 
 ---
 
