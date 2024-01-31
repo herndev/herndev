@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brothers: A Tale of Two Sons Remake – How We Remade a Masterpiece](https://news.xbox.com/en-us/2024/01/31/brothers-a-tale-of-two-sons-remake-how-we-remade-a-masterpiece/)
- - [PlayStation Plus’ February free games include Square Enix’s foam party and roller derby murder](https://www.polygon.com/24048007/playstation-plus-february-2024-monthly-games)
- - [Extended Vampire: The Masquerade – Bloodlines 2 reveal is illuminating but disorientating](https://www.pcgamer.com/extended-vampire-the-masquerade-bloodlines-2-reveal-is-illuminating-but-disorientating)<!-- GAME:END -->
+ - [Palworld Becomes the Biggest 3rd Party Game Pass Launch Ever](https://news.xbox.com/en-us/2024/01/31/palworld-biggest-3rd-party-game-pass-launch-ever/)
+ - [EA earnings call show EA Sports FC was a game of two halves, as it fails to out-sell the last FIFA but still makes more money](https://www.pcgamer.com/ea-earnings-call-show-ea-sports-fc-was-a-game-of-two-halves-as-it-fails-to-out-sell-the-last-fifa-but-still-makes-more-money)
+ - [The Xbox controller gets yet another irresistible wave of new colors](https://www.polygon.com/deals/24056897/xbox-wireless-controller-vapor-collection-design-lab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
