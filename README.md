@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The creators of Twitterrific are making an app to read &lpar;almost&rpar; anything on the web](https://www.theverge.com/2024/1/31/24057231/iconfactory-kickstarter-internet-reader-project-tapestry-twitterrific)
- - [Microsoft 365 apps will be available on Apple Vision Pro at launch](https://appleinsider.com/articles/24/01/31/microsoft-365-apps-will-be-available-on-apple-vision-pro-at-launch?utm_medium=rss)
- - [Microsoft’s new OneDrive design starts rolling out for consumers](https://www.theverge.com/2024/1/31/24057235/microsoft-new-onedrive-design-rolling-out-consumers)<!-- TECH:END -->
+ - [OpenAI says GPT-4 poses &quot;at most&quot; a slight risk of helping create biological threats, according to early tests to evaluate &quot;catastrophic&quot; risks from LLMs &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240131/p36#a240131p36)
+ - [Apple continues its 17-year streak of being the most admired company in the world](https://appleinsider.com/articles/24/01/31/apple-continues-its-17-year-streak-of-being-the-most-admired-company-in-the-world?utm_medium=rss)
+ - [Microsoft Edge for Android quietly adds extension support](https://www.androidauthority.com/microsoft-edge-for-android-extensions-3409836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
