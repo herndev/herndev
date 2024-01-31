@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
- - ⏩ [Euro](http://9gag.com/gag/ap9WLRB)
- - 👉 [Brutal](http://9gag.com/gag/aoKb9P2)<!-- MEMES:END -->
+ - 💣 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
+ - ⏩ [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
 
 ---
 
