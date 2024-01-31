@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is making it easier for Pixel owners to use Passkeys](https://www.androidauthority.com/google-pixel-upgrade-passkeys-3409645/)
- - [Bullitt bites the bullet: Company behind CAT and rugged Moto phones shuts down](https://www.androidauthority.com/the-company-behind-rugged-cat-and-motorola-phones-has-shut-down-3409638/)
- - [Q&amp;A with Sen. Brian Schatz on Congress&#39; dysfunction in the tech space, regulating tech companies, the EU&#39;s DMA, AI, deepfakes, social media laws for kids, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240131/p6#a240131p6)<!-- TECH:END -->
+ - [Bookstat: the US audiobook market grew 14% YoY in Q4 2023, excluding Spotify; with Spotify, it grew 28% YoY; Spotify had an 11% market share, behind Audible &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240131/p9#a240131p9)
+ - [The Galaxy Z Flip 6 could get a much-needed battery upgrade](https://www.androidauthority.com/samsung-galaxy-z-flip-6-battery-leak-3409656/)
+ - [A look at the four major categories of apps that could emerge at the intersection of crypto and AI, and the prospects and challenges of each category &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/240131/p8#a240131p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
