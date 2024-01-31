@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Loses Lawsuit Against Florida Gov. Ron DeSantis](https://kotaku.com/disney-world-lawsuit-florida-ron-desantis-dismissed-1851214174)
- - [PSA: Don’t Use This Palworld Item &lpar;For Now&rpar;](https://kotaku.com/palworld-respec-memory-wiping-medicine-bugged-1851214122)
- - [I treasure obscure PC keyboard shortcuts. Here are 7 I use every day](https://www.pcgamer.com/windows-secret-keyboard-shortcuts)<!-- GAME:END -->
+ - [Hope you&#39;re hungry for Godzilla sushi, because the legendary kaiju is coming to Dave the Diver](https://www.pcgamer.com/hope-youre-hungry-for-godzilla-sushi-because-the-legendary-kaiju-is-coming-to-dave-the-diver)
+ - [Legendary Tales lets you forge your RPG destiny on PS VR2 later this year](https://blog.playstation.com/2024/01/31/legendary-tales-lets-you-forge-your-rpg-destiny-on-ps-vr2-later-this-year/)
+ - [Legendary Tales lets you forge your RPG destiny on PS VR2 later this year](https://blog.playstation.com/2024/01/31/legendary-tales-lets-you-forge-your-rpg-destiny-on-ps-vr2-later-this-year/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
