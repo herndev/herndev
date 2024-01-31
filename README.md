@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision devs see evidence of apps being tested on visionOS 2.0](https://appleinsider.com/articles/24/01/31/apple-vision-devs-see-evidence-of-apps-being-tested-on-visionos-20?utm_medium=rss)
- - [Microsoft Teams, Word, Excel, and more are coming to Apple’s Vision Pro at launch](https://www.theverge.com/2024/1/31/24057122/microsoft-apple-vision-pro-office-apps-microsoft-365)
- - [Second Apple Vision Pro OS update arrives, just days before shipment](https://appleinsider.com/articles/24/01/31/second-apple-vision-pro-os-update-arrives-just-days-before-shipment?utm_medium=rss)<!-- TECH:END -->
+ - [The creators of Twitterrific are making an app to read &lpar;almost&rpar; anything on the web](https://www.theverge.com/2024/1/31/24057231/iconfactory-kickstarter-internet-reader-project-tapestry-twitterrific)
+ - [Microsoft 365 apps will be available on Apple Vision Pro at launch](https://appleinsider.com/articles/24/01/31/microsoft-365-apps-will-be-available-on-apple-vision-pro-at-launch?utm_medium=rss)
+ - [Microsoft’s new OneDrive design starts rolling out for consumers](https://www.theverge.com/2024/1/31/24057235/microsoft-new-onedrive-design-rolling-out-consumers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
