@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12 gets its first update that adds Hasselblad Master mode &lpar;Update: Download link&rpar;](https://www.androidauthority.com/oneplus-12-hasselblad-master-mode-update-3409418/)
- - [Silicon Valley&#39;s powerful companies claim to embrace Enlightenment values, but instead are leading an antidemocratic, illiberal, and authoritarian technocracy &lpar;Adrienne LaFrance/The Atlantic&rpar;](http://www.techmeme.com/240131/p11#a240131p11)
- - [ByteDance co-founder and CEO Liang Rubo urges staff to resist mediocrity after the company missed the initial wave of generative AI, in a company-wide meeting &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240131/p10#a240131p10)<!-- TECH:END -->
+ - [A look at Ubisoft&#39;s problems, as insiders fear further layoffs: a wild goose chase of popular fads, like NFTs, constant delays, low player numbers, and more &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240131/p16#a240131p16)
+ - [Epic says that Apple isn&#39;t doing enough to comply with US App Store court orders](https://appleinsider.com/articles/24/01/31/epic-says-that-apple-isnt-doing-enough-to-comply-with-us-app-store-court-orders?utm_medium=rss)
+ - [In prepared Senate testimony, TikTok CEO Shou Chew says the company plans to spend $2B+ in 2024 on trust and safety globally and the app has 170M US MAUs &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240131/p15#a240131p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
