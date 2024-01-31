@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege players are already selling gun skins for hundreds of dollars in new marketplace beta](https://www.pcgamer.com/rainbow-six-siege-players-are-already-selling-gun-skins-for-hundreds-of-dollars-in-new-marketplace-beta)
- - [Blood Bowl 3 gets league admin tools at last, though in beta form](https://www.pcgamer.com/blood-bowl-3-gets-league-admin-tools-at-last-though-in-beta-form)
- - [Yes, there is a post-credits scene for Percy Jackson](https://www.polygon.com/24054930/percy-jackson-and-the-olympians-disney-plus-post-credits)<!-- GAME:END -->
+ - [Spiderweb&#39;s remaster of classic CRPG Geneforge 2 gets a March release date](https://www.pcgamer.com/spiderwebs-remaster-of-classic-crpg-geneforge-2-gets-a-march-release-date)
+ - [Wordle today: Hint and answer #956 for Wednesday, January 31](https://www.pcgamer.com/wordle-today-answer-956-january-31)
+ - [Rainbow Six Siege players are already selling gun skins for hundreds of dollars in new marketplace beta](https://www.pcgamer.com/rainbow-six-siege-players-are-already-selling-gun-skins-for-hundreds-of-dollars-in-new-marketplace-beta)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
