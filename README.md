@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
- - ⏩ [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
+ - 💣 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - ⏩ [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
 
 ---
 
