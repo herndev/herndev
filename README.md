@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos set to get a new ‘My Week’ feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-my-week-3409813/)
- - [The US DOJ says eBay agreed to pay $59M to settle allegations that it violated the Controlled Substances Act by allowing sales of pill presses and other items &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p31#a240131p31)
- - [FTX says it will pay back customers](https://www.theverge.com/2024/1/31/24056991/ftx-repay-customers-bankruptcy)<!-- TECH:END -->
+ - [Apple Vision devs see evidence of apps being tested on visionOS 2.0](https://appleinsider.com/articles/24/01/31/apple-vision-devs-see-evidence-of-apps-being-tested-on-visionos-20?utm_medium=rss)
+ - [Microsoft Teams, Word, Excel, and more are coming to Apple’s Vision Pro at launch](https://www.theverge.com/2024/1/31/24057122/microsoft-apple-vision-pro-office-apps-microsoft-365)
+ - [Second Apple Vision Pro OS update arrives, just days before shipment](https://appleinsider.com/articles/24/01/31/second-apple-vision-pro-os-update-arrives-just-days-before-shipment?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
