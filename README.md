@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This dizzyingly brilliant new Baldur&#39;s Gate 3 Honour Mode world record has so many elite tricks in it I&#39;m now convinced its speedrunner is a legitimate wizard](https://www.pcgamer.com/this-dizzyingly-brilliant-new-baldurs-gate-3-honour-mode-world-record-has-so-many-elite-tricks-in-it-im-now-convinced-its-speedrunner-is-a-legitimate-wizard)
- - [Doom is eternal: The immeasurable impact of gaming&#39;s greatest FPS](https://www.pcgamer.com/doom-is-eternal-the-immeasurable-impact-of-gamings-greatest-fps)
- - [Spiderweb&#39;s remaster of classic CRPG Geneforge 2 gets a March release date](https://www.pcgamer.com/spiderwebs-remaster-of-classic-crpg-geneforge-2-gets-a-march-release-date)<!-- GAME:END -->
+ - [Percy Jackson shouldn’t have explained it all away](https://www.polygon.com/reviews/24055490/percy-jackson-olympians-disney-plus-review)
+ - [WoW&#39;s experimental ban on &#39;GDKP&#39; raids in Season of Discovery has set the community on fire—here&#39;s why](https://www.pcgamer.com/wows-experimental-ban-on-gdkp-raids-in-season-of-discovery-has-set-the-community-on-fire-heres-why)
+ - [Palworld player uncovers secret Mewtwo-like hidden in the game files that looks too legally actionable even for Palworld](https://www.pcgamer.com/palworld-player-uncovers-secret-mewtwo-like-hidden-in-the-game-files-that-looks-too-legally-actionable-even-for-palworld)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
