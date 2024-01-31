@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld Becomes the Biggest 3rd Party Game Pass Launch Ever](https://news.xbox.com/en-us/2024/01/31/palworld-biggest-3rd-party-game-pass-launch-ever/)
- - [EA earnings call show EA Sports FC was a game of two halves, as it fails to out-sell the last FIFA but still makes more money](https://www.pcgamer.com/ea-earnings-call-show-ea-sports-fc-was-a-game-of-two-halves-as-it-fails-to-out-sell-the-last-fifa-but-still-makes-more-money)
- - [The Xbox controller gets yet another irresistible wave of new colors](https://www.polygon.com/deals/24056897/xbox-wireless-controller-vapor-collection-design-lab)<!-- GAME:END -->
+ - [A Journey of Spirit: Room of Depression](https://news.xbox.com/en-us/2024/01/31/a-journey-of-spirit-room-of-depression/)
+ - [Everything We Know About Princess Peach: Showtime!](https://kotaku.com/princess-peach-showtime-release-date-transformations-1851212684)
+ - [Netflix has reportedly canceled its best zombie show, so watch Netflix’s best zombie show](https://www.polygon.com/24057134/black-summer-netflix-best-zombie-show-watch-canceled)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
