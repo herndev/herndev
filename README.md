@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Sen. Brian Schatz on Congress&#39; dysfunction in the tech space, regulating tech companies, the EU&#39;s DMA, AI, deepfakes, social media laws for kids, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240131/p6#a240131p6)
- - [Fitbit Charge 5’s latest update is bricking the fitness tracker in some cases, once again](https://www.androidauthority.com/fitbit-charge-5-update-brick-again-3409627/)
- - [Google says you’ll need a subscription to use Bard Advanced](https://www.androidauthority.com/google-bard-advanced-subscription-3409624/)<!-- TECH:END -->
+ - [Google is making it easier for Pixel owners to use Passkeys](https://www.androidauthority.com/google-pixel-upgrade-passkeys-3409645/)
+ - [Bullitt bites the bullet: Company behind CAT and rugged Moto phones shuts down](https://www.androidauthority.com/the-company-behind-rugged-cat-and-motorola-phones-has-shut-down-3409638/)
+ - [Q&amp;A with Sen. Brian Schatz on Congress&#39; dysfunction in the tech space, regulating tech companies, the EU&#39;s DMA, AI, deepfakes, social media laws for kids, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240131/p6#a240131p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
