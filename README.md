@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - ⏩ [Proud mama](http://9gag.com/gag/ajVoEV0)
- - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
+ - 💣 [Lol.](http://9gag.com/gag/armjgV7)
+ - ⏩ [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 👉 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)<!-- MEMES:END -->
 
 ---
 
