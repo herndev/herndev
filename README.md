@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - ⏩ [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - ⏩ [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
  - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
 
 ---
