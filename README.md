@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia RTX 4080 Super review: $999 is the main feature](https://www.theverge.com/24055394/nvidia-rtx-4080-super-review-gpu-graphics-card-benchmark-test)
- - [The good news is that the Xiaomi 14 Ultra could pack plenty of tech](https://www.androidauthority.com/xiaomi-14-ultra-new-technology-price-3409739/)
- - [iPhone 15 Pro Max vs Samsung Galaxy S24 Ultra -- specs, price, &amp; features compared](https://appleinsider.com/inside/iphone-15-pro/vs/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra----specs-price-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [A live blog of the Senate Judiciary Committee&#39;s hearing on kids&#39; online safety, including testimony from Mark Zuckerberg, Linda Yaccarino, and Evan Spiegel &lpar;Washington Post&rpar;](http://www.techmeme.com/240131/p27#a240131p27)
+ - [Universal Music Group expected to pull music from TikTok over concerns with AI and artist pay](https://www.theverge.com/2024/1/31/24056727/universal-music-group-umg-tiktok-music-removal-ai-pay-negotiations)
+ - [Binance left a cache of code, infrastructure diagrams, passwords, and more on a public GitHub repository for months; GitHub removed after Binance&#39;s request &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240131/p26#a240131p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
