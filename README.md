@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is still using a lightning connector, this time in a Pro Max avatar on the Vision Pro](https://www.androidauthority.com/apple-vision-pro-lightning-connector-3409901/)
- - [As the pharmaceutical industry adopts AI to speed up drug development, a look at the challenges facing the industry to prove the effectiveness of AI-aided drugs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240201/p6#a240201p6)
- - [Microsoft says Pocket Pair&#39;s Palworld, still technically in early access, is the biggest third-party Xbox Game Pass launch in history, reaching 7M players &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/240201/p5#a240201p5)<!-- TECH:END -->
+ - [Is Siri an AI? Will Apple embrace ChatGPT and modern AI?](https://www.androidauthority.com/is-siri-ai-3409932/)
+ - [TikTok loses Taylor Swift, Drake, and other major Universal Music artists](https://www.theverge.com/2024/2/1/24057839/umg-pulls-tiktok-music-ai-contract-dispute)
+ - [Hulu is the next major streaming service to crack down on password sharing](https://www.androidauthority.com/hulu-ban-password-sharing-3409619/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
