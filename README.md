@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [30 Under 30: Small Indie Teams Making Big Waves With ID@Xbox](https://the-indie-in-former.com/2024/01/29/30-under-30-small-indie-teams-making-big-waves-with-idxbox/#new_tab)
- - [Where to &lpar;officially&rpar; play every Persona game](https://www.polygon.com/deals/24057267/where-to-play-persona-games-nintendo-switch-pc-ps-xbox)
- - [Palworld update fixes save-bricking capture bug, permanently-nerfing respec juice, and Pals randomly levitating or dying to &#39;unexplained falling damage&#39;](https://www.pcgamer.com/palworld-update-fixes-save-bricking-capture-bug-permanently-nerfing-respec-juice-and-pals-randomly-levitating-or-dying-to-unexplained-falling-damage)<!-- GAME:END -->
+ - [How to get all legendary schematics in Palworld](https://www.polygon.com/palworld-guides/24056173/legendary-schematics-locations-how-to-get-where-to-find)
+ - [New Alan Wake II Update Is Great For Scaredy-Cats Like Me [Corrected]](https://kotaku.com/alan-wake-2-1-15-update-jump-scare-option-level-select-1851213619)
+ - [Ray tracing made possible on 42-year-old ZX Spectrum: &#39;reasonably fast, if you consider 17 hours per frame to be reasonably fast&#39;](https://www.pcgamer.com/ray-tracing-made-possible-on-42-year-old-zx-spectrum-reasonably-fast-if-you-consider-17-hours-per-frame-to-be-reasonably-fast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
