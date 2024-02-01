@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metronome, which offers APIs to help SaaS companies charge customers on a usage basis, raised a $43M Series B led by NEA, bringing its total funding to $78M+ &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240131/p39#a240131p39)
- - [TikTok’s CEO can’t catch a break from xenophobia in Congress](https://www.theverge.com/2024/1/31/24057422/tiktok-ceo-child-safety-hearing-tom-cotton-xenophobia)
- - [Spotify’s exclusivity era nears its end](https://www.theverge.com/2024/1/31/24057476/spotify-alex-cooper-call-her-daddy-joe-rogan-pineapple-street-smartless-siriusxm)<!-- TECH:END -->
+ - [In an email to subscribers, Hulu says the company changed its subscriber agreement to bar sharing of accounts outside the user&#39;s household &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240131/p40#a240131p40)
+ - [Apple Vision Pro immersive titles have begun showing up in Apple TV app ahead of launch](https://appleinsider.com/articles/24/02/01/apple-vision-pro-immersive-titles-have-begun-showing-up-in-apple-tv-app-ahead-of-launch?utm_medium=rss)
+ - [The US Wants to Know How Much Electricity Crypto Miners Use     - CNET](https://www.cnet.com/how-to/the-us-wants-to-know-how-much-electricity-crypto-miners-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
