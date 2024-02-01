@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search is now available on the Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/circle-to-search-is-pixel-8-pixel-8-pro-3409886/)
- - [Owner.com, which offers an all-in-one platform for independent restaurants that includes online ordering and a website builder, raised a $33M Series B &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240201/p1#a240201p1)
- - [Google addresses January Pixel storage bug with a temporary resolution](https://www.androidauthority.com/google-january-pixel-storage-bug-fix-3409878/)<!-- TECH:END -->
+ - [Shopify releases new features, including an AI-powered image editor for products, improved semantic search, and tools for better merchandising &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240201/p4#a240201p4)
+ - [An interview with Unity&#39;s chief product and technology officer Marc Whitten, as the company launches official support to build spatial apps for Apple&#39;s visionOS &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240201/p3#a240201p3)
+ - [Google inks major new offshore wind deal](https://www.theverge.com/2024/2/1/24056819/google-offshore-wind-farms-data-centers-europe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
