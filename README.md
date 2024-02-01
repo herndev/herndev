@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
+ - 💣 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
  - ⏩ [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
- - 👉 [Red alert girl](http://9gag.com/gag/ajVoEAG)<!-- MEMES:END -->
+ - 👉 [Poor man](http://9gag.com/gag/aBd70nA)<!-- MEMES:END -->
 
 ---
 
