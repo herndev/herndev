@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SK Hynix plans to build an advanced chip packaging plant in Indiana, for stacking DRAM chips to make High Bandwidth Memory &lpar;HBM&rpar; chips for Nvidia GPUs &lpar;Financial Times&rpar;](http://www.techmeme.com/240201/p11#a240201p11)
- - [This upcoming mid-range chip could beat the Pixel 8’s Tensor G3](https://www.androidauthority.com/snapdragon-7-plus-gen-3-new-leak-3409955/)
- - [The Galaxy Z Fold 6 may get a cheaper variant, and it will skip a feature most don’t use](https://www.androidauthority.com/samsung-galaxy-z-fold-6-cheaper-no-s-pen-3409984/)<!-- TECH:END -->
+ - [The Nothing Phone 2a is officially coming soon, as wallpapers leak](https://www.androidauthority.com/nothing-phone-2a-coming-soon-3410019/)
+ - [The US sentences Joseph Garrison, a 19-year-old involved in the 2022 DraftKings hack, to 18 months in jail; Garrison admitted to stealing $600K from 1,600 users &lpar;Bloomberg&rpar;](http://www.techmeme.com/240201/p14#a240201p14)
+ - [Resident Alien season 3: Release date, cast, and the latest rumors](https://www.androidauthority.com/resident-alien-season-3-3409959/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
