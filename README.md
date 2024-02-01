@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
- - ⏩ [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
- - 👉 [What say my fellow degenerates on this liberal app..](http://9gag.com/gag/aME3xgP)<!-- MEMES:END -->
+ - 💣 [No small talk, no motive. Just a Chad](http://9gag.com/gag/a1PGKqG)
+ - ⏩ [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
 
 ---
 
