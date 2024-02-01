@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone is the only reason the US smartphone market has recovered](https://appleinsider.com/articles/24/02/01/iphone-is-the-only-reason-the-us-smartphone-market-has-recovered?utm_medium=rss)
- - [Comcast is dropping its misleading Xfinity 10G network branding](https://www.theverge.com/2024/2/1/24058006/comcast-xfinity-10g-network-branding-advertising-misleading)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)<!-- TECH:END -->
+ - [Snap is recalling and refunding every drone it ever sold](https://www.theverge.com/2024/2/1/24058119/snap-recall-pixy-drone-refund)
+ - [Anker’s workout-friendly Soundcore Sport X10 earbuds are a bargain at just $56](https://www.theverge.com/2024/2/1/24057506/anker-soundcore-sport-x10-earbuds-amazon-fire-tv-soundbar-apple-watch-deal-sale)
+ - [A Decapitation May Have Roots in Far-Right Border and Immigrant Paranoia](https://www.wired.com/story/beheading-conspiracy-immigrants-texas-convoy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
