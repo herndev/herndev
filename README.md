@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – One Piece Odyssey, Gord and Age of Empires IV: Anniversary Edition](https://news.xbox.com/en-us/2024/02/01/free-play-days-one-piece-odyssey-gord-and-age-of-empires-iv-anniversary-edition/)
- - [Netflix announces every new movie coming to the service in 2024](https://www.polygon.com/24058003/new-netflix-movies-2024-releases)
- - [The anticipated Wyrmspan board game is here, and it’s already $10 off](https://www.polygon.com/deals/24058022/wyrmspan-board-game-buy-stonemaier-games)<!-- GAME:END -->
+ - [Netflix announces every new TV series coming to the service in 2024](https://www.polygon.com/24058061/new-netflix-tv-series-2024-releases)
+ - [Xbox and Gameheads are Amplifying Black Voices in Gaming](https://news.xbox.com/en-us/2024/02/01/xbox-and-gameheads-amplifying-black-voices-in-gaming/)
+ - [Kill whole camps of cultists with a single bullet in this psychic and psychedelic puzzle shooter](https://www.pcgamer.com/kill-whole-camps-of-cultists-with-a-single-bullet-in-this-psychic-and-psychedelic-puzzle-shooter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
