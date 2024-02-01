@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor man](http://9gag.com/gag/aBd70nA)
- - ⏩ [Lol.](http://9gag.com/gag/armjgV7)
- - 👉 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)<!-- MEMES:END -->
+ - 💣 [Let&#39;s see Paul Allen&#39;s dice](http://9gag.com/gag/aPgK7oB)
+ - ⏩ [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)
+ - 👉 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)<!-- MEMES:END -->
 
 ---
 
