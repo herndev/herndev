@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quick Share and Nearby Share on PC won’t merge until later this year](https://www.androidauthority.com/quick-share-on-windows-2-3410148/)
- - [The Browser Company unveils new features for its Arc desktop browser, including Arc Explore, a desktop version of Arc Search&#39;s &quot;browse for me&quot;, and Live Folders &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240201/p32#a240201p32)
- - [21 Key Samsung Phone Settings You Should Always Change &lpar;2024&rpar;: Tips and Tricks](https://www.wired.com/story/key-settings-to-change-on-samsung-galaxy-phones/)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Apple Vision Pro app pages have started going live](https://appleinsider.com/articles/24/02/01/apple-vision-pro-app-pages-have-started-going-live?utm_medium=rss)
+ - [Apple Vision Pro will have over 600 native apps on launch day](https://appleinsider.com/articles/24/02/01/apple-vision-pro-now-has-over-600-native-apps-for-launch-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
