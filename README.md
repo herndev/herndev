@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Siri an AI? Will Apple embrace ChatGPT and modern AI?](https://www.androidauthority.com/is-siri-ai-3409932/)
- - [TikTok loses Taylor Swift, Drake, and other major Universal Music artists](https://www.theverge.com/2024/2/1/24057839/umg-pulls-tiktok-music-ai-contract-dispute)
- - [Hulu is the next major streaming service to crack down on password sharing](https://www.androidauthority.com/hulu-ban-password-sharing-3409619/)<!-- TECH:END -->
+ - [After Amazon ended its acquisition, iRobot, whose market share has been steadily eroding since 2014, could quickly become an also-ran in the robot vacuum market &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240201/p8#a240201p8)
+ - [Q&amp;A with Pinterest CEO Bill Ready on why social media turned toxic, his vision for a less toxic platform that can use AI for good, activist investors, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240201/p7#a240201p7)
+ - [You Can Be One of the First to Try Out Apple&#39;s Vision Pro Headset. Here&#39;s How     - CNET](https://www.cnet.com/tech/computing/you-can-be-one-of-the-first-to-try-out-apples-vision-pro-headset-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
