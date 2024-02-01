@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redditor who posts &#39;I&#39;ve got everything I need&#39; alongside bare room with mattress and gaming PC ends up on CBS panel show: &#39;Come on, we&#39;ve all dated that guy&#39;](https://www.pcgamer.com/redditor-who-posts-ive-got-everything-i-need-alongside-bare-room-with-mattress-and-gaming-pc-ends-up-on-cbs-panel-show-come-on-weve-all-dated-that-guy)
- - [Weird, niche mods make PC gaming great, and these ones prove it](https://www.pcgamer.com/weird-niche-mods-make-pc-gaming-great-and-these-ones-prove-it)
- - [PC Gamer magazine&#39;s new issue is on sale now: League of Legends](https://www.pcgamer.com/pc-gamer-magazines-new-issue-is-on-sale-now-league-of-legends)<!-- GAME:END -->
+ - [Kurt Russell gives thoughtful and nuanced answer about why he wouldn&#39;t voice Snake in Metal Gear Solid 3, also seems to think the character is actually Snake Plissken](https://www.pcgamer.com/kurt-russell-gives-thoughtful-and-nuanced-answer-about-why-he-wouldnt-voice-snake-in-metal-gear-solid-3-also-seems-to-think-the-character-is-actually-snake-plissken)
+ - [Deep Rock Galactic and Dwarf Fortress call on their fans for a Steam revolution: a new dwarf tag to unite the games under one label](https://www.pcgamer.com/deep-rock-galactic-and-dwarf-fortress-call-on-their-fans-for-a-steam-revolution-a-new-dwarf-tag-to-unite-the-games-under-one-label)
+ - [This 9.5g gaming mouse is so small I&#39;d be worried about inhaling it, cable and all](https://www.pcgamer.com/this-95g-gaming-mouse-is-so-small-id-be-worried-about-inhaling-it-cable-and-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
