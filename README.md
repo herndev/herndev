@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kurt Russell gives thoughtful and nuanced answer about why he wouldn&#39;t voice Snake in Metal Gear Solid 3, also seems to think the character is actually Snake Plissken](https://www.pcgamer.com/kurt-russell-gives-thoughtful-and-nuanced-answer-about-why-he-wouldnt-voice-snake-in-metal-gear-solid-3-also-seems-to-think-the-character-is-actually-snake-plissken)
- - [Deep Rock Galactic and Dwarf Fortress call on their fans for a Steam revolution: a new dwarf tag to unite the games under one label](https://www.pcgamer.com/deep-rock-galactic-and-dwarf-fortress-call-on-their-fans-for-a-steam-revolution-a-new-dwarf-tag-to-unite-the-games-under-one-label)
- - [This 9.5g gaming mouse is so small I&#39;d be worried about inhaling it, cable and all](https://www.pcgamer.com/this-95g-gaming-mouse-is-so-small-id-be-worried-about-inhaling-it-cable-and-all)<!-- GAME:END -->
+ - [30 Under 30: Small Indie Teams Making Big Waves With ID@Xbox](https://the-indie-in-former.com/2024/01/29/30-under-30-small-indie-teams-making-big-waves-with-idxbox/#new_tab)
+ - [Where to &lpar;officially&rpar; play every Persona game](https://www.polygon.com/deals/24057267/where-to-play-persona-games-nintendo-switch-pc-ps-xbox)
+ - [Palworld update fixes save-bricking capture bug, permanently-nerfing respec juice, and Pals randomly levitating or dying to &#39;unexplained falling damage&#39;](https://www.pcgamer.com/palworld-update-fixes-save-bricking-capture-bug-permanently-nerfing-respec-juice-and-pals-randomly-levitating-or-dying-to-unexplained-falling-damage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
