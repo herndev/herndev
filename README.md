@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare III and Warzone Season 2 full details revealed, out February 7](https://blog.playstation.com/2024/02/01/call-of-duty-modern-warfare-iii-and-warzone-season-2-full-details-revealed-out-february-7/)
- - [Jujutsu Kaisen Cursed Clash: Building a New Game Based on Beloved Source Material](https://news.xbox.com/en-us/2024/02/01/jujutsu-kaisen-cursed-clash/)
- - [Passively cooling an RTX 3080 FE with 10 CPU coolers makes it look like a steampunk spaceship, and I&#39;m a fan](https://www.pcgamer.com/passively-cooling-an-rtx-3080-fe-with-10-cpu-coolers-makes-it-look-like-a-steampunk-spaceship-and-im-a-fan)<!-- GAME:END -->
+ - [14 great games to try if you loved Baldur’s Gate 3](https://www.polygon.com/gaming/23850889/games-like-baldurs-gate-3-best-rpgs-play)
+ - [Everything We Know About Zenless Zone Zero](https://kotaku.com/zenless-zone-zero-release-date-trailer-platforms-story-1851216949)
+ - [Prepare for a Colossal Content Drop with Modern Warfare III and Call of Duty: Warzone Season 2](https://www.callofduty.com/blog/2024/02/call-of-duty-modern-warfare-iii-warzone-season-2-announcement#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
