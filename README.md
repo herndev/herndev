@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sun Tzu `Art of War`](http://9gag.com/gag/avQ3GeX)
- - ⏩ [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 👉 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)<!-- MEMES:END -->
+ - 💣 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
+ - ⏩ [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 👉 [Women](http://9gag.com/gag/armjGA7)<!-- MEMES:END -->
 
 ---
 
