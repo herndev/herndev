@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: League of Legends](https://www.pcgamer.com/pc-gamer-magazines-new-issue-is-on-sale-now-league-of-legends)
- - [Wordle today: Hint and answer #957 for Thursday, February 1](https://www.pcgamer.com/wordle-today-answer-957-february-1)
- - [Everything cool I noticed in the new Death Stranding 2 trailer after sinking 150 hours into the first Death Stranding](https://www.pcgamer.com/everything-cool-i-noticed-in-the-new-death-stranding-2-trailer-after-sinking-150-hours-into-the-first-death-stranding)<!-- GAME:END -->
+ - [Redditor who posts &#39;I&#39;ve got everything I need&#39; alongside bare room with mattress and gaming PC ends up on CBS panel show: &#39;Come on, we&#39;ve all dated that guy&#39;](https://www.pcgamer.com/redditor-who-posts-ive-got-everything-i-need-alongside-bare-room-with-mattress-and-gaming-pc-ends-up-on-cbs-panel-show-come-on-weve-all-dated-that-guy)
+ - [Weird, niche mods make PC gaming great, and these ones prove it](https://www.pcgamer.com/weird-niche-mods-make-pc-gaming-great-and-these-ones-prove-it)
+ - [PC Gamer magazine&#39;s new issue is on sale now: League of Legends](https://www.pcgamer.com/pc-gamer-magazines-new-issue-is-on-sale-now-league-of-legends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
