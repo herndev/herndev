@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple Vision Pro app pages have started going live](https://appleinsider.com/articles/24/02/01/apple-vision-pro-app-pages-have-started-going-live?utm_medium=rss)
- - [Apple Vision Pro will have over 600 native apps on launch day](https://appleinsider.com/articles/24/02/01/apple-vision-pro-now-has-over-600-native-apps-for-launch-day?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube now has more than 100 million Premium subscribers](https://www.theverge.com/2024/2/1/24058265/youtube-premium-music-100-million-subscribers)
+ - [Amazon launches Rufus, an AI-powered shopping assistant trained on its product catalog and information from around the web, in beta for some US customers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p35#a240201p35)
+ - [Taylor Swift Conspiracy Theorists Get Psyops All Wrong](https://www.wired.com/story/taylor-swift-psyop-conspiracy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
