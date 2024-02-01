@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #957 for Thursday, February 1](https://www.pcgamer.com/wordle-today-answer-957-february-1)
  - [Everything cool I noticed in the new Death Stranding 2 trailer after sinking 150 hours into the first Death Stranding](https://www.pcgamer.com/everything-cool-i-noticed-in-the-new-death-stranding-2-trailer-after-sinking-150-hours-into-the-first-death-stranding)
- - [Wayfinder studio Airship Syndicate says layoffs are necessary to ensure it &#39;can continue to operate and deliver great experiences&#39;](https://www.pcgamer.com/wayfinder-studio-airship-syndicate-says-layoffs-are-necessary-to-ensure-it-can-continue-to-operate-and-deliver-great-experiences)
- - [Diablo 4&#39;s little robot spider is actually an apex predator who can solo bosses, and it&#39;s about to get even stronger](https://www.pcgamer.com/diablo-4s-little-robot-spider-is-actually-an-apex-predator-who-can-solo-bosses-and-its-about-to-get-even-stronger)<!-- GAME:END -->
+ - [Wayfinder studio Airship Syndicate says layoffs are necessary to ensure it &#39;can continue to operate and deliver great experiences&#39;](https://www.pcgamer.com/wayfinder-studio-airship-syndicate-says-layoffs-are-necessary-to-ensure-it-can-continue-to-operate-and-deliver-great-experiences)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
