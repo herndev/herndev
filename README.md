@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Q1: revenue of Services, which includes Apple TV+ and Apple Music, rose 11% YoY to a record $23.1B, and installed base crossed 2.2B active devices &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240201/p45#a240201p45)
- - [Apple didn’t release new iPads last year, and now its sales are way down](https://www.theverge.com/2024/2/1/24058442/apple-q1-2024-earnings-iphone)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Apple won&#39;t license Masimo&#39;s patents despite Apple Watch import ban](https://appleinsider.com/articles/24/02/01/apple-wont-license-masimos-patents-despite-apple-watch-import-ban?utm_medium=rss)
+ - [Cook &#39;incredibly excited&#39; about generative AI coming to Apple gear later in 2024](https://appleinsider.com/articles/24/02/01/cook-incredibly-excited-about-generative-ai-coming-to-apple-gear-later-in-2024?utm_medium=rss)
+ - [Apple R&amp;D spending flat for the first time in over a decade -- sort of](https://appleinsider.com/articles/24/02/01/apple-rd-spending-flat-for-the-first-time-in-over-a-decade----sort-of?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
