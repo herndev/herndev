@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I did not expect that at all](https://www.reddit.com/r/funny/comments/1afzxxg/i_did_not_expect_that_at_all/)
- - ⏩ [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
+ - 💣 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
+ - ⏩ [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
+ - 👉 [Red alert girl](http://9gag.com/gag/ajVoEAG)<!-- MEMES:END -->
 
 ---
 
