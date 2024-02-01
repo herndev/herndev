@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - ⏩ [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
+ - 💣 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - ⏩ [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 👉 [Sokka the bender](http://9gag.com/gag/aL1yjA5)<!-- MEMES:END -->
 
 ---
 
