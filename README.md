@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paytm plans to cease work with its associate Paytm Payments Bank and accelerate partnerships with other banks, after the RBI&#39;s clampdown on the payment bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p43#a240131p43)
- - [Celsius emerges from bankruptcy and plans to distribute over $3B to its creditors, who will also get a stake in the newly formed Ionic Digital mining operation &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240131/p42#a240131p42)
- - [Apple&#39;s final MacBook with an optical drive is now obsolete](https://appleinsider.com/articles/24/02/01/apples-final-macbook-with-an-optical-drive-is-now-obsolete?utm_medium=rss)<!-- TECH:END -->
+ - [The US adds 12+ Chinese companies, including YMTC, Megvii, and lidar maker Hesai, to a DOD list to flag firms that are allegedly working with China&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p44#a240131p44)
+ - [Best iPhone Deals 2024: Take Up to $1,050 Off a New iPhone     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
+ - [Paytm plans to cease work with its associate Paytm Payments Bank and accelerate partnerships with other banks, after the RBI&#39;s clampdown on the payment bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p43#a240131p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
