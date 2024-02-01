@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No small talk, no motive. Just a Chad](http://9gag.com/gag/a1PGKqG)
- - ⏩ [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
- - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
+ - 💣 [Poor man](http://9gag.com/gag/aBd70nA)
+ - ⏩ [Lol.](http://9gag.com/gag/armjgV7)
+ - 👉 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)<!-- MEMES:END -->
 
 ---
 
