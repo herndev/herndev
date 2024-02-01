@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Patrick Stewart Uses Hey Arnold Star As A Football In New Super Bowl Ad](https://kotaku.com/paramount-super-bowl-ad-patrick-stewart-hey-arnold-toss-1851217677)
- - [Devolver Digital&#39;s new CEO is its old CEO](https://www.pcgamer.com/devolver-digitals-new-ceo-is-its-old-ceo)
- - [GTA 5 cheats and codes for PS4, PS5, Xbox, PC](https://www.polygon.com/guides/24001098/gta-5-cheat-code-console-ps4-ps5-xbox-pc-phone-numbers)<!-- GAME:END -->
+ - [I Will Be Love Bombing My Friends With Final Fantasy XIV’s New Emote](https://kotaku.com/final-fantasy-xiv-valentiones-day-love-heart-emote-1851217811)
+ - [SpongeBob finally gets to play the Super Bowl, but he may not look how you expect](https://www.polygon.com/24058390/spongebob-super-bowl-band-geeks-sweet-victory)
+ - [The Best Early Pals In Palworld—And What To Do First](https://kotaku.com/palworld-starting-best-pals-base-tutorial-1851217830)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
