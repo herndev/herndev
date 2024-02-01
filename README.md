@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
- - ⏩ [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
- - 👉 [Palworld is a good game](http://9gag.com/gag/amAE2r2)<!-- MEMES:END -->
+ - 💣 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - ⏩ [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
 
 ---
 
