@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elgato’s new HDMI 2.1 capture cards are finally here for Xbox Series X and PS5 streaming](https://www.theverge.com/2024/2/1/24056674/elgato-hdmi-2-1-capture-cards-usb-pci-e-xbox-series-x-ps5-streaming)
- - [Netflix’s 2024 TV lineup has more Squid Game, Arcane, and lots of reality shows](https://www.theverge.com/2024/2/1/24056196/netflix-2024-tv-streaming-schedule-squid-game-arcane-3-body-problem)
- - [Amazon’s Mr. &amp; Mrs. Smith series is a clever interpolation of the classic spy fantasy](https://www.theverge.com/24055841/amazon-mrs-and-mrs-smith-review-donald-glover-maya-erskine)<!-- TECH:END -->
+ - [This new retrofit door lock from Abode promises 12 months of battery life](https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features)
+ - [Bard generates photos now, finally](https://www.theverge.com/2024/2/1/24057438/bard-gemini-imagen-google-ai-image-generation)
+ - [Hot Pod Summit returns at On Air Fest 2024](https://www.theverge.com/2024/2/1/24057356/hot-pod-summit-brooklyn-2024-on-air-fest-work-x-work)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
