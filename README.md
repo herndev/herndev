@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - ⏩ [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
+ - 💣 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
+ - ⏩ [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
+ - 👉 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)<!-- MEMES:END -->
 
 ---
 
