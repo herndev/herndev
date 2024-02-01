@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Death Stranding 2’s new trailer is delightfully disturbing](https://www.theverge.com/24055773/death-stranding-2-ps5-trailer-2025)
- - [Apple’s Vision Pro battery pack is hiding the final boss of Lightning cables](https://www.theverge.com/2024/1/31/24057392/apple-vision-pro-battery-lightning-cable)
- - [Apple Fifth Avenue store getting fitted for Apple Vision Pro replica](https://appleinsider.com/articles/24/01/31/apple-fifth-avenue-store-getting-fitted-for-apple-vision-pro-replica?utm_medium=rss)<!-- TECH:END -->
+ - [Metronome, which offers APIs to help SaaS companies charge customers on a usage basis, raised a $43M Series B led by NEA, bringing its total funding to $78M+ &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240131/p39#a240131p39)
+ - [TikTok’s CEO can’t catch a break from xenophobia in Congress](https://www.theverge.com/2024/1/31/24057422/tiktok-ceo-child-safety-hearing-tom-cotton-xenophobia)
+ - [Spotify’s exclusivity era nears its end](https://www.theverge.com/2024/1/31/24057476/spotify-alex-cooper-call-her-daddy-joe-rogan-pineapple-street-smartless-siriusxm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
