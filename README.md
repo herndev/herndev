@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get all legendary schematics in Palworld](https://www.polygon.com/palworld-guides/24056173/legendary-schematics-locations-how-to-get-where-to-find)
- - [New Alan Wake II Update Is Great For Scaredy-Cats Like Me [Corrected]](https://kotaku.com/alan-wake-2-1-15-update-jump-scare-option-level-select-1851213619)
- - [Ray tracing made possible on 42-year-old ZX Spectrum: &#39;reasonably fast, if you consider 17 hours per frame to be reasonably fast&#39;](https://www.pcgamer.com/ray-tracing-made-possible-on-42-year-old-zx-spectrum-reasonably-fast-if-you-consider-17-hours-per-frame-to-be-reasonably-fast)<!-- GAME:END -->
+ - [Free Play Days – One Piece Odyssey, Gord and Age of Empires IV: Anniversary Edition](https://news.xbox.com/en-us/2024/02/01/free-play-days-one-piece-odyssey-gord-and-age-of-empires-iv-anniversary-edition/)
+ - [Netflix announces every new movie coming to the service in 2024](https://www.polygon.com/24058003/new-netflix-movies-2024-releases)
+ - [The anticipated Wyrmspan board game is here, and it’s already $10 off](https://www.polygon.com/deals/24058022/wyrmspan-board-game-buy-stonemaier-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
