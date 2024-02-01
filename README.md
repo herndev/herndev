@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Amazon ended its acquisition, iRobot, whose market share has been steadily eroding since 2014, could quickly become an also-ran in the robot vacuum market &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240201/p8#a240201p8)
- - [Q&amp;A with Pinterest CEO Bill Ready on why social media turned toxic, his vision for a less toxic platform that can use AI for good, activist investors, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240201/p7#a240201p7)
- - [You Can Be One of the First to Try Out Apple&#39;s Vision Pro Headset. Here&#39;s How     - CNET](https://www.cnet.com/tech/computing/you-can-be-one-of-the-first-to-try-out-apples-vision-pro-headset-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: SK Hynix plans to build an advanced chip packaging plant in Indiana, for stacking DRAM chips to make High Bandwidth Memory &lpar;HBM&rpar; chips for Nvidia GPUs &lpar;Financial Times&rpar;](http://www.techmeme.com/240201/p11#a240201p11)
+ - [This upcoming mid-range chip could beat the Pixel 8’s Tensor G3](https://www.androidauthority.com/snapdragon-7-plus-gen-3-new-leak-3409955/)
+ - [The Galaxy Z Fold 6 may get a cheaper variant, and it will skip a feature most don’t use](https://www.androidauthority.com/samsung-galaxy-z-fold-6-cheaper-no-s-pen-3409984/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
