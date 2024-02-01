@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad’s First 12 Hours Include Great Action, But A Lot Of Filler](https://kotaku.com/suicide-squad-first-hours-impressions-review-is-it-good-1851217153)
- - [Amazon’s Fallout show has a cast, a creative team, and a soon-ish release date](https://www.polygon.com/23004979/amazon-fallout-tv-series-everything-we-know)
- - [Sonic X Shadow Generations Is Beating Sonic Porn In SEO, For Now](https://kotaku.com/sonic-x-shadow-generations-sonadow-ship-1851217156)<!-- GAME:END -->
+ - [Patrick Stewart Uses Hey Arnold Star As A Football In New Super Bowl Ad](https://kotaku.com/paramount-super-bowl-ad-patrick-stewart-hey-arnold-toss-1851217677)
+ - [Devolver Digital&#39;s new CEO is its old CEO](https://www.pcgamer.com/devolver-digitals-new-ceo-is-its-old-ceo)
+ - [GTA 5 cheats and codes for PS4, PS5, Xbox, PC](https://www.polygon.com/guides/24001098/gta-5-cheat-code-console-ps4-ps5-xbox-pc-phone-numbers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
