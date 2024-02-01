@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good postures for healthy benefits](http://9gag.com/gag/armjg25)
- - ⏩ [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 💣 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - ⏩ [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
  - 👉 [What say my fellow degenerates on this liberal app..](http://9gag.com/gag/aME3xgP)<!-- MEMES:END -->
 
 ---
