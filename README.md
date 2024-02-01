@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nothing Phone 2a is officially coming soon, as wallpapers leak](https://www.androidauthority.com/nothing-phone-2a-coming-soon-3410019/)
- - [The US sentences Joseph Garrison, a 19-year-old involved in the 2022 DraftKings hack, to 18 months in jail; Garrison admitted to stealing $600K from 1,600 users &lpar;Bloomberg&rpar;](http://www.techmeme.com/240201/p14#a240201p14)
- - [Resident Alien season 3: Release date, cast, and the latest rumors](https://www.androidauthority.com/resident-alien-season-3-3409959/)<!-- TECH:END -->
+ - [Amsterdam-based DataSnipper, which helps automate critical accounting and auditing tasks, raised a $100M Series B led by Index Ventures at a $1B valuation &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240201/p18#a240201p18)
+ - [Sources: the US CPSC is preparing an order that could classify Amazon&#39;s online business as a distributor of goods, potentially leading to lawsuits and recalls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240201/p17#a240201p17)
+ - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
