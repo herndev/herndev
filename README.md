@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube now has more than 100 million Premium subscribers](https://www.theverge.com/2024/2/1/24058265/youtube-premium-music-100-million-subscribers)
- - [Amazon launches Rufus, an AI-powered shopping assistant trained on its product catalog and information from around the web, in beta for some US customers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p35#a240201p35)
- - [Taylor Swift Conspiracy Theorists Get Psyops All Wrong](https://www.wired.com/story/taylor-swift-psyop-conspiracy/)<!-- TECH:END -->
+ - [Apple Q1: revenue of Services, which includes Apple TV+ and Apple Music, rose 11% YoY to a record $23.1B, and installed base crossed 2.2B active devices &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240201/p45#a240201p45)
+ - [Apple didn’t release new iPads last year, and now its sales are way down](https://www.theverge.com/2024/2/1/24058442/apple-q1-2024-earnings-iphone)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
