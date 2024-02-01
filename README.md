@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new retrofit door lock from Abode promises 12 months of battery life](https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features)
- - [Bard generates photos now, finally](https://www.theverge.com/2024/2/1/24057438/bard-gemini-imagen-google-ai-image-generation)
- - [Hot Pod Summit returns at On Air Fest 2024](https://www.theverge.com/2024/2/1/24057356/hot-pod-summit-brooklyn-2024-on-air-fest-work-x-work)<!-- TECH:END -->
+ - [iPhone is the only reason the US smartphone market has recovered](https://appleinsider.com/articles/24/02/01/iphone-is-the-only-reason-the-us-smartphone-market-has-recovered?utm_medium=rss)
+ - [Comcast is dropping its misleading Xfinity 10G network branding](https://www.theverge.com/2024/2/1/24058006/comcast-xfinity-10g-network-branding-advertising-misleading)
+ - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
