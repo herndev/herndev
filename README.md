@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hope you&#39;re hungry for Godzilla sushi, because the legendary kaiju is coming to Dave the Diver](https://www.pcgamer.com/hope-youre-hungry-for-godzilla-sushi-because-the-legendary-kaiju-is-coming-to-dave-the-diver)
- - [Legendary Tales lets you forge your RPG destiny on PS VR2 later this year](https://blog.playstation.com/2024/01/31/legendary-tales-lets-you-forge-your-rpg-destiny-on-ps-vr2-later-this-year/)
- - [Legendary Tales lets you forge your RPG destiny on PS VR2 later this year](https://blog.playstation.com/2024/01/31/legendary-tales-lets-you-forge-your-rpg-destiny-on-ps-vr2-later-this-year/)<!-- GAME:END -->
+ - [If you&#39;re looking for a new base in Enshrouded, this three-story tavern with a 25 comfort buff is the perfect fixer-upper](https://www.pcgamer.com/if-youre-looking-for-a-new-base-in-enshrouded-this-three-story-tavern-with-a-25-comfort-buff-is-the-perfect-fixer-upper)
+ - [Everything We Saw At Sony&#39;s January State Of Play](https://kotaku.com/state-of-play-january-2024-death-stranding-silent-hill-1851214689)
+ - [Everything revealed in the January 2024 State of Play](https://blog.playstation.com/2024/01/31/everything-revealed-in-the-january-2024-state-of-play/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
