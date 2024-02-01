@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
- - ⏩ [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 👉 [Women](http://9gag.com/gag/armjGA7)<!-- MEMES:END -->
+ - 💣 [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - ⏩ [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 👉 [Sokka the bender](http://9gag.com/gag/aL1yjA5)<!-- MEMES:END -->
 
 ---
 
