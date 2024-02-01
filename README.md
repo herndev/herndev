@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Will Be Love Bombing My Friends With Final Fantasy XIV’s New Emote](https://kotaku.com/final-fantasy-xiv-valentiones-day-love-heart-emote-1851217811)
- - [SpongeBob finally gets to play the Super Bowl, but he may not look how you expect](https://www.polygon.com/24058390/spongebob-super-bowl-band-geeks-sweet-victory)
- - [The Best Early Pals In Palworld—And What To Do First](https://kotaku.com/palworld-starting-best-pals-base-tutorial-1851217830)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in February](https://www.pcgamer.com/february-2024-pc-game-release-dates)
+ - [We thought Death Stranding was Peak Kojima, but Death Stranding 2 already looks like it&#39;s scaling new heights of his personal WTF mountain](https://www.pcgamer.com/we-thought-death-stranding-was-peak-kojima-but-death-stranding-2-already-looks-like-its-scaling-new-heights-of-his-personal-wtf-mountain)
+ - [Inkle reveals a surprise collaboration with Google in The Forever Labyrinth, &#39;an art-filled quest through time and space&#39;](https://www.pcgamer.com/inkle-reveals-a-surprise-collaboration-with-google-in-the-forever-labyrinth-an-art-filled-quest-through-time-and-space)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
