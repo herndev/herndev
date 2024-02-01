@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amsterdam-based DataSnipper, which helps automate critical accounting and auditing tasks, raised a $100M Series B led by Index Ventures at a $1B valuation &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240201/p18#a240201p18)
- - [Sources: the US CPSC is preparing an order that could classify Amazon&#39;s online business as a distributor of goods, potentially leading to lawsuits and recalls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240201/p17#a240201p17)
- - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)<!-- TECH:END -->
+ - [Elgato’s new HDMI 2.1 capture cards are finally here for Xbox Series X and PS5 streaming](https://www.theverge.com/2024/2/1/24056674/elgato-hdmi-2-1-capture-cards-usb-pci-e-xbox-series-x-ps5-streaming)
+ - [Netflix’s 2024 TV lineup has more Squid Game, Arcane, and lots of reality shows](https://www.theverge.com/2024/2/1/24056196/netflix-2024-tv-streaming-schedule-squid-game-arcane-3-body-problem)
+ - [Amazon’s Mr. &amp; Mrs. Smith series is a clever interpolation of the classic spy fantasy](https://www.theverge.com/24055841/amazon-mrs-and-mrs-smith-review-donald-glover-maya-erskine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
