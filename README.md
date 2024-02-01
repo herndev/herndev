@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US adds 12+ Chinese companies, including YMTC, Megvii, and lidar maker Hesai, to a DOD list to flag firms that are allegedly working with China&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p44#a240131p44)
- - [Best iPhone Deals 2024: Take Up to $1,050 Off a New iPhone     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
- - [Paytm plans to cease work with its associate Paytm Payments Bank and accelerate partnerships with other banks, after the RBI&#39;s clampdown on the payment bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p43#a240131p43)<!-- TECH:END -->
+ - [Google addresses January Pixel storage bug with a temporary resolution](https://www.androidauthority.com/google-january-pixel-storage-bug-fix-3409878/)
+ - [How to manage Secure Enclave card storage limits](https://appleinsider.com/inside/apple-wallet/tips/how-to-manage-secure-enclave-card-storage-limits?utm_medium=rss)
+ - [The US adds 12+ Chinese companies, including YMTC, Megvii, and lidar maker Hesai, to a DOD list to flag firms that are allegedly working with China&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p44#a240131p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
