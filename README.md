@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [14 great games to try if you loved Baldur’s Gate 3](https://www.polygon.com/gaming/23850889/games-like-baldurs-gate-3-best-rpgs-play)
- - [Everything We Know About Zenless Zone Zero](https://kotaku.com/zenless-zone-zero-release-date-trailer-platforms-story-1851216949)
- - [Prepare for a Colossal Content Drop with Modern Warfare III and Call of Duty: Warzone Season 2](https://www.callofduty.com/blog/2024/02/call-of-duty-modern-warfare-iii-warzone-season-2-announcement#new_tab)<!-- GAME:END -->
+ - [Suicide Squad’s First 12 Hours Include Great Action, But A Lot Of Filler](https://kotaku.com/suicide-squad-first-hours-impressions-review-is-it-good-1851217153)
+ - [Amazon’s Fallout show has a cast, a creative team, and a soon-ish release date](https://www.polygon.com/23004979/amazon-fallout-tv-series-everything-we-know)
+ - [Sonic X Shadow Generations Is Beating Sonic Porn In SEO, For Now](https://kotaku.com/sonic-x-shadow-generations-sonadow-ship-1851217156)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
