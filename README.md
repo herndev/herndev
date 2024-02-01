@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would like to see her answer to that.](http://9gag.com/gag/a7qzwo2)
- - ⏩ [She\u2019s so hawt](http://9gag.com/gag/aKErdrQ)
- - 👉 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)<!-- MEMES:END -->
+ - 💣 [Well that escalated quickly](http://9gag.com/gag/axoX7Mn)
+ - ⏩ [Proud mama](http://9gag.com/gag/ajVoEV0)
+ - 👉 [Wow](http://9gag.com/gag/anzLMvB)<!-- MEMES:END -->
 
 ---
 
