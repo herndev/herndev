@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re looking for a new base in Enshrouded, this three-story tavern with a 25 comfort buff is the perfect fixer-upper](https://www.pcgamer.com/if-youre-looking-for-a-new-base-in-enshrouded-this-three-story-tavern-with-a-25-comfort-buff-is-the-perfect-fixer-upper)
- - [Everything We Saw At Sony&#39;s January State Of Play](https://kotaku.com/state-of-play-january-2024-death-stranding-silent-hill-1851214689)
- - [Everything revealed in the January 2024 State of Play](https://blog.playstation.com/2024/01/31/everything-revealed-in-the-january-2024-state-of-play/)<!-- GAME:END -->
+ - [Wayfinder studio Airship Syndicate says layoffs are necessary to ensure it &#39;can continue to operate and deliver great experiences&#39;](https://www.pcgamer.com/wayfinder-studio-airship-syndicate-says-layoffs-are-necessary-to-ensure-it-can-continue-to-operate-and-deliver-great-experiences)
+ - [Diablo 4&#39;s little robot spider is actually an apex predator who can solo bosses, and it&#39;s about to get even stronger](https://www.pcgamer.com/diablo-4s-little-robot-spider-is-actually-an-apex-predator-who-can-solo-bosses-and-its-about-to-get-even-stronger)
+ - [Pokimane&#39;s main reason for leaving Twitch: &#39;So much manosphere, red pill bulls***&#39;](https://www.pcgamer.com/pokimane-leaving-twitch-podcast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
