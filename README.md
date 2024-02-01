@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap is recalling and refunding every drone it ever sold](https://www.theverge.com/2024/2/1/24058119/snap-recall-pixy-drone-refund)
- - [Anker’s workout-friendly Soundcore Sport X10 earbuds are a bargain at just $56](https://www.theverge.com/2024/2/1/24057506/anker-soundcore-sport-x10-earbuds-amazon-fire-tv-soundbar-apple-watch-deal-sale)
- - [A Decapitation May Have Roots in Far-Right Border and Immigrant Paranoia](https://www.wired.com/story/beheading-conspiracy-immigrants-texas-convoy/)<!-- TECH:END -->
+ - [The Arc browser is getting better bookmarks and search results, all thanks to AI](https://www.theverge.com/2024/2/1/24058013/arc-browser-smart-folders-browse-for-me-ai)
+ - [Nokia maker releases HMD smartphone renders that harken back to its prime](https://www.androidauthority.com/hmd-smartphone-render-colors-3410129/)
+ - [A Startup Allegedly ‘Hacked the World.’ Then Came the Censorship—and Now the Backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
