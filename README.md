@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - ⏩ [Oh boy](http://9gag.com/gag/aA0ox80)
- - 👉 [Sokka the bender](http://9gag.com/gag/aL1yjA5)<!-- MEMES:END -->
+ - 💣 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
+ - ⏩ [I just found out that they share the same name](http://9gag.com/gag/a8qByPd)
+ - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
 
 ---
 
