@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - ⏩ [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
+ - ⏩ [Gimme a f**kin gun](http://9gag.com/gag/aQE032w)
+ - 👉 [I just found out that they share the same name](http://9gag.com/gag/a8qByPd)<!-- MEMES:END -->
 
 ---
 
