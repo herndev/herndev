@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google addresses January Pixel storage bug with a temporary resolution](https://www.androidauthority.com/google-january-pixel-storage-bug-fix-3409878/)
- - [How to manage Secure Enclave card storage limits](https://appleinsider.com/inside/apple-wallet/tips/how-to-manage-secure-enclave-card-storage-limits?utm_medium=rss)
- - [The US adds 12+ Chinese companies, including YMTC, Megvii, and lidar maker Hesai, to a DOD list to flag firms that are allegedly working with China&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p44#a240131p44)<!-- TECH:END -->
+ - [Circle to Search is now available on the Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/circle-to-search-is-pixel-8-pixel-8-pro-3409886/)
+ - [Owner.com, which offers an all-in-one platform for independent restaurants that includes online ordering and a website builder, raised a $33M Series B &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240201/p1#a240201p1)
+ - [Google addresses January Pixel storage bug with a temporary resolution](https://www.androidauthority.com/google-january-pixel-storage-bug-fix-3409878/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
