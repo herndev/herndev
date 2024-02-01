@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everything cool I noticed in the new Death Stranding 2 trailer after sinking 150 hours into the first Death Stranding](https://www.pcgamer.com/everything-cool-i-noticed-in-the-new-death-stranding-2-trailer-after-sinking-150-hours-into-the-first-death-stranding)
  - [Wayfinder studio Airship Syndicate says layoffs are necessary to ensure it &#39;can continue to operate and deliver great experiences&#39;](https://www.pcgamer.com/wayfinder-studio-airship-syndicate-says-layoffs-are-necessary-to-ensure-it-can-continue-to-operate-and-deliver-great-experiences)
- - [Diablo 4&#39;s little robot spider is actually an apex predator who can solo bosses, and it&#39;s about to get even stronger](https://www.pcgamer.com/diablo-4s-little-robot-spider-is-actually-an-apex-predator-who-can-solo-bosses-and-its-about-to-get-even-stronger)
- - [Pokimane&#39;s main reason for leaving Twitch: &#39;So much manosphere, red pill bulls***&#39;](https://www.pcgamer.com/pokimane-leaving-twitch-podcast)<!-- GAME:END -->
+ - [Diablo 4&#39;s little robot spider is actually an apex predator who can solo bosses, and it&#39;s about to get even stronger](https://www.pcgamer.com/diablo-4s-little-robot-spider-is-actually-an-apex-predator-who-can-solo-bosses-and-its-about-to-get-even-stronger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
