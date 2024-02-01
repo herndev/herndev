@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well that escalated quickly](http://9gag.com/gag/axoX7Mn)
- - ⏩ [Proud mama](http://9gag.com/gag/ajVoEV0)
- - 👉 [Wow](http://9gag.com/gag/anzLMvB)<!-- MEMES:END -->
+ - 💣 [Good postures for healthy benefits](http://9gag.com/gag/armjg25)
+ - ⏩ [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 👉 [What say my fellow degenerates on this liberal app..](http://9gag.com/gag/aME3xgP)<!-- MEMES:END -->
 
 ---
 
