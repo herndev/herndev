@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Arc browser is getting better bookmarks and search results, all thanks to AI](https://www.theverge.com/2024/2/1/24058013/arc-browser-smart-folders-browse-for-me-ai)
- - [Nokia maker releases HMD smartphone renders that harken back to its prime](https://www.androidauthority.com/hmd-smartphone-render-colors-3410129/)
- - [A Startup Allegedly ‘Hacked the World.’ Then Came the Censorship—and Now the Backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)<!-- TECH:END -->
+ - [Quick Share and Nearby Share on PC won’t merge until later this year](https://www.androidauthority.com/quick-share-on-windows-2-3410148/)
+ - [The Browser Company unveils new features for its Arc desktop browser, including Arc Explore, a desktop version of Arc Search&#39;s &quot;browse for me&quot;, and Live Folders &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240201/p32#a240201p32)
+ - [21 Key Samsung Phone Settings You Should Always Change &lpar;2024&rpar;: Tips and Tricks](https://www.wired.com/story/key-settings-to-change-on-samsung-galaxy-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
