@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - ⏩ [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - 👉 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)<!-- MEMES:END -->
+ - 💣 [I did not expect that at all](https://www.reddit.com/r/funny/comments/1afzxxg/i_did_not_expect_that_at_all/)
+ - ⏩ [Sokka the bender](http://9gag.com/gag/aL1yjA5)
+ - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
 
 ---
 
