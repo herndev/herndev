@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
- - ⏩ [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
- - 👉 [Poor man](http://9gag.com/gag/aBd70nA)<!-- MEMES:END -->
+ - 💣 [I would like to see her answer to that.](http://9gag.com/gag/a7qzwo2)
+ - ⏩ [She\u2019s so hawt](http://9gag.com/gag/aKErdrQ)
+ - 👉 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)<!-- MEMES:END -->
 
 ---
 
