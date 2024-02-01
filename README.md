@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix announces every new TV series coming to the service in 2024](https://www.polygon.com/24058061/new-netflix-tv-series-2024-releases)
- - [Xbox and Gameheads are Amplifying Black Voices in Gaming](https://news.xbox.com/en-us/2024/02/01/xbox-and-gameheads-amplifying-black-voices-in-gaming/)
- - [Kill whole camps of cultists with a single bullet in this psychic and psychedelic puzzle shooter](https://www.pcgamer.com/kill-whole-camps-of-cultists-with-a-single-bullet-in-this-psychic-and-psychedelic-puzzle-shooter)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare III and Warzone Season 2 full details revealed, out February 7](https://blog.playstation.com/2024/02/01/call-of-duty-modern-warfare-iii-and-warzone-season-2-full-details-revealed-out-february-7/)
+ - [Jujutsu Kaisen Cursed Clash: Building a New Game Based on Beloved Source Material](https://news.xbox.com/en-us/2024/02/01/jujutsu-kaisen-cursed-clash/)
+ - [Passively cooling an RTX 3080 FE with 10 CPU coolers makes it look like a steampunk spaceship, and I&#39;m a fan](https://www.pcgamer.com/passively-cooling-an-rtx-3080-fe-with-10-cpu-coolers-makes-it-look-like-a-steampunk-spaceship-and-im-a-fan)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
