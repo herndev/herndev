@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
- - ⏩ [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 👉 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)<!-- MEMES:END -->
+ - ⏩ [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 
 ---
 
