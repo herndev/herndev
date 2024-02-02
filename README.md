@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - ⏩ [`Yeah, no slowing down for me... i got this`](http://9gag.com/gag/aQE0z38)
- - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
+ - 💣 [RIP Dillon.](http://9gag.com/gag/aPgKAmB)
+ - ⏩ [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
+ - 👉 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)<!-- MEMES:END -->
 
 ---
 
