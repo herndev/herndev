@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Yo dawg, I heard you like screens, so I put a screen on your CPU fan](https://www.pcgamer.com/yo-dawg-i-heard-you-like-screens-so-i-put-a-screen-on-your-cpu-fan)
  - [Helldivers 2 hands-on report: Chaotic co-op and empowering Stratagems](https://blog.playstation.com/2024/02/02/helldivers-2-hands-on-report-chaotic-co-op-and-empowering-stratagems/)
- - [Helldivers 2 hands-on report: Chaotic co-op and empowering Stratagems](https://blog.playstation.com/2024/02/02/helldivers-2-hands-on-report-chaotic-co-op-and-empowering-stratagems/)
- - [Persona 3 Reload guide: Classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)<!-- GAME:END -->
+ - [Helldivers 2 hands-on report: Chaotic co-op and empowering Stratagems](https://blog.playstation.com/2024/02/02/helldivers-2-hands-on-report-chaotic-co-op-and-empowering-stratagems/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
