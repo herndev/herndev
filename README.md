@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 6.1 adds alarm feature that lets you wake up to your favorite wallpapers](https://www.androidauthority.com/one-ui-6-1-alarm-wallpapers-3410517/)
- - [China-based advertisers now account for 10% of the Meta&#39;s annual revenue and contributed 5 percentage points to its total worldwide revenue growth &lpar;Financial Times&rpar;](http://www.techmeme.com/240202/p17#a240202p17)
- - [Indie labels cry foul over Apple Music’s enhanced spatial audio royalties](https://www.theverge.com/2024/2/2/24059270/apple-music-spatial-audio-indie-royalties)<!-- TECH:END -->
+ - [Apple starts selling the Vision Pro in the US; Tim Cook compares Vision Pro debut to the birth of Mac, iPod, and iPhone in a memo to employees &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240202/p18#a240202p18)
+ - [FTX Says It Expects to Repay Customers in Full. Some Are Suing for More](https://www.wired.com/story/ftx-bankruptcy-bitcoin-value/)
+ - [Summer House season 8: Release date, cast, and the latest rumors](https://www.androidauthority.com/summer-house-season-8-release-date-3410422/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
