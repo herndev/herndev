@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe brings Lightroom and Firefly AI to the Apple Vision Pro](https://www.theverge.com/2024/2/2/24059011/adobe-firefly-ai-image-generator-lightroom-apps-apple-vision-pro)
- - [All I want is for the NJ Transit app to not suck](https://www.theverge.com/24056271/nj-transit-app-public-tranportation)
- - [The Sonos Arc is on sale for 20 percent off just in time for the Super Bowl](https://www.theverge.com/2024/2/2/24057928/sonos-arc-soundbar-sub-speaker-super-bowl-2024-deal-sale)<!-- TECH:END -->
+ - [Apple Music&#39;s increased spatial audio royalties are taking money from independents](https://appleinsider.com/articles/24/02/02/apple-musics-increased-spatial-audio-royalties-are-taking-money-from-independents?utm_medium=rss)
+ - [I&#39;m Self-Employed and Know Freelance Taxes Are Tricky. Here Are 7 Tips I Swear By     - CNET](https://www.cnet.com/personal-finance/taxes/im-self-employed-and-know-freelance-taxes-are-tricky-here-are-7-tips-i-swear-by/#ftag=CAD590a51e)
+ - [Woot&#39;s Blink and Ring Sale Drops Refurb Security Cameras as Low as $40     - CNET](https://www.cnet.com/deals/woots-blink-and-ring-sale-drops-refurb-security-cameras-as-low-as-40/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
