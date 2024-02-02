@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t license Masimo&#39;s patents despite Apple Watch import ban](https://appleinsider.com/articles/24/02/01/apple-wont-license-masimos-patents-despite-apple-watch-import-ban?utm_medium=rss)
- - [Cook &#39;incredibly excited&#39; about generative AI coming to Apple gear later in 2024](https://appleinsider.com/articles/24/02/01/cook-incredibly-excited-about-generative-ai-coming-to-apple-gear-later-in-2024?utm_medium=rss)
- - [Apple R&amp;D spending flat for the first time in over a decade -- sort of](https://appleinsider.com/articles/24/02/01/apple-rd-spending-flat-for-the-first-time-in-over-a-decade----sort-of?utm_medium=rss)<!-- TECH:END -->
+ - [Halo’s Black History Month armor shaders are unintentionally hilarious](https://www.theverge.com/2024/2/1/24058370/halo-infinite-black-history-month-armor-shaders)
+ - [TikTok&#39;s Missing Music Is Making Users Very Upset](https://www.wired.com/story/tiktok-no-sounds-taylor-swift-umg-licensing/)
+ - [Apple has one active device per four people on the planet](https://appleinsider.com/articles/24/02/01/apple-has-one-active-device-per-four-people-on-the-planet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
