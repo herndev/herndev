@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bulk](http://9gag.com/gag/armjn86)
- - ⏩ [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
- - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
+ - 💣 [Raise your drink to the character from the best and funniest Disney cartoon!](http://9gag.com/gag/a3ZVEKN)
+ - ⏩ [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
 
 ---
 
