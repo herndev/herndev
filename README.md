@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Create images with Adobe Firefly AI for Apple Vision Pro](https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro?utm_medium=rss)
- - [Circle to Search may come to more Android phones in October, Samsung confirms](https://www.androidauthority.com/circle-to-search-exclusivity-3410389/)
- - [Meta stock rises 20%+, adding ~$200B to its market cap, the biggest single-session market value addition, eclipsing Apple and Amazon&#39;s gains in 2022 &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/240202/p12#a240202p12)<!-- TECH:END -->
+ - [Daily deals Feb. 2: $399 MacBook Air, $150 off iPad Air 5, Beats Studio Buds $85, more](https://appleinsider.com/articles/24/02/02/daily-deals-feb-2-399-macbook-air-150-off-ipad-air-5-beats-studio-buds-85-more?utm_medium=rss)
+ - [What to expect from the Apple Vision Pro in-store demo](https://appleinsider.com/articles/24/02/02/what-to-expect-from-the-apple-vision-pro-in-store-demo?utm_medium=rss)
+ - [Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
