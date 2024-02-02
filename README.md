@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju&#39;s Alpha, a US unit of the Indian edtech, files for Chapter 11 bankruptcy in Delaware, listing liabilities between $1B-$10B and assets between $500M-$1B &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p6#a240202p6)
- - [Byju&#39;s says investors do not have voting rights to remove Byju Raveendran after some investors called to remove the CEO and his family from the top roles &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240202/p5#a240202p5)
- - [Google Search’s cache links are officially being retired](https://www.theverge.com/2024/2/2/24058985/google-search-cache-feature-discontinued)<!-- TECH:END -->
+ - [Craig Wright Claims He’s Bitcoin Creator Satoshi Nakamoto. Can He Prove It in Court?](https://www.wired.com/story/craig-wright-satoshi-nakamoto-trial/)
+ - [Why Is There Lead in Stanley Cups or Other Reusable Water Bottles?](https://www.wired.com/story/stanley-cup-lead-soldering/)
+ - [A Startup Has Unlocked a Way to Make Cheap Insulin](https://www.wired.com/story/cheap-insulin-biosimilar-rbio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
