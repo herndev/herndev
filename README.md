@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of Feb. 1](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [The PC game releases we&#39;re most excited about in February](https://www.pcgamer.com/february-2024-pc-game-release-dates)
- - [We thought Death Stranding was Peak Kojima, but Death Stranding 2 already looks like it&#39;s scaling new heights of his personal WTF mountain](https://www.pcgamer.com/we-thought-death-stranding-was-peak-kojima-but-death-stranding-2-already-looks-like-its-scaling-new-heights-of-his-personal-wtf-mountain)<!-- GAME:END -->
+ - [Get To Know Our Team: Joshua – Program Manager &lpar;OS Flighting&rpar;](https://news.xbox.com/en-us/2024/02/01/get-to-know-our-team-joshua-program-manager-os-flighting/)
+ - [Matthew Vaughn is out to turn Argylle’s post-credits scene into a franchise](https://www.polygon.com/24057329/argylle-post-credits-scene-sequel-kingsman-connections)
+ - [A willfully old school point-and-click reminded me why we put up with moon-logic puzzles in classic adventure games for so long](https://www.pcgamer.com/a-willfully-old-school-point-and-click-reminded-me-why-we-put-up-with-moon-logic-puzzles-in-classic-adventure-games-for-so-long)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
