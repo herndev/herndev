@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
- - ⏩ [Never Stepping on Bali, Indonesia](http://9gag.com/gag/amAE7v6)
- - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
+ - 💣 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - ⏩ [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
+ - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
 
 ---
 
