@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halo’s Black History Month armor shaders are unintentionally hilarious](https://www.theverge.com/2024/2/1/24058370/halo-infinite-black-history-month-armor-shaders)
- - [TikTok&#39;s Missing Music Is Making Users Very Upset](https://www.wired.com/story/tiktok-no-sounds-taylor-swift-umg-licensing/)
- - [Apple has one active device per four people on the planet](https://appleinsider.com/articles/24/02/01/apple-has-one-active-device-per-four-people-on-the-planet?utm_medium=rss)<!-- TECH:END -->
+ - [The FTC settles with Blackbaud, ordering the cloud software company to delete consumers&#39; data and boost security after a May 2020 data breach affected millions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p53#a240201p53)
+ - [Extended use of Apple Vision Pro could have adverse effects on cognition, study finds](https://appleinsider.com/articles/24/02/02/extended-use-of-apple-vision-pro-could-have-adverse-effects-on-cognition-study-finds?utm_medium=rss)
+ - [Meta says Apple has made it ‘very difficult’ to build rival app stores in the EU](https://www.theverge.com/2024/2/1/24058572/zuckerberg-meta-apple-app-store-iphone-eu-sideloading)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
