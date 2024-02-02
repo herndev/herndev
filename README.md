@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lightyear Frontier Is a Beautiful, Skewed Spin on the Mech and Farming Genres – and it Arrives on Game Pass in March](https://news.xbox.com/en-us/2024/02/02/lightyear-frontier-game-pass-march/)
- - [Home Safety Hotline is the cryptid help line game I didn’t know I needed](https://www.polygon.com/gaming/24058384/home-safety-hotline-cryptid-help-line-game)
- - [Razer Iskur V2 review](https://www.pcgamer.com/razer-iskur-v2-gaming-chair-review)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for February 5 to 9](https://news.xbox.com/en-us/2024/02/02/next-week-on-xbox-new-games-for-february-5-to-9/)
+ - [Infamous swatter-for-hire Torswats likely arrested after a private investigator worked with a WoW Twitch streamer and the FBI to take them down](https://www.pcgamer.com/infamous-swatter-for-hire-torswats-likely-arrested-after-a-private-investigator-worked-with-a-wow-twitch-streamer-and-the-fbi-to-take-them-down)
+ - [Pokémon Actor Veronica Taylor Talks 26 Glorious Years Of Ash Ketchum](https://kotaku.com/pokemon-ash-ketchum-veronica-taylor-interview-1851217352)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
