@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 and S24 Plus review: slightly bigger and brighter displays with flat edges, and the AI features are occasionally great but sometimes weird &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240202/p16#a240202p16)
- - [How to clean your new Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-clean-your-new-apple-vision-pro?utm_medium=rss)
- - [Joe Rogan renews deal with Spotify](https://www.theverge.com/2024/2/2/24059336/joe-rogan-renews-deal-with-spotify-youtube)<!-- TECH:END -->
+ - [One UI 6.1 adds alarm feature that lets you wake up to your favorite wallpapers](https://www.androidauthority.com/one-ui-6-1-alarm-wallpapers-3410517/)
+ - [China-based advertisers now account for 10% of the Meta&#39;s annual revenue and contributed 5 percentage points to its total worldwide revenue growth &lpar;Financial Times&rpar;](http://www.techmeme.com/240202/p17#a240202p17)
+ - [Indie labels cry foul over Apple Music’s enhanced spatial audio royalties](https://www.theverge.com/2024/2/2/24059270/apple-music-spatial-audio-indie-royalties)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
