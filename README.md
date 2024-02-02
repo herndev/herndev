@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
- - ⏩ [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
- - 👉 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)<!-- MEMES:END -->
+ - 💣 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
+ - ⏩ [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
+ - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
 
 ---
 
