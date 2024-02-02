@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Turns out AMD&#39;s &#39;Compressonator&#39; tool for artists and devs was named after The Governator himself, Arnold Schwarzenegger](https://www.pcgamer.com/turns-out-amds-compressonator-tool-for-artists-and-devs-was-named-after-the-governator-himself-arnold-schwarzenegger)
- - [AMD Radeon RX 7600 XT review](https://www.pcgamer.com/amd-radeon-rx-7600-xt-16gb-review-performance-benchmarks-powercolor-hellhound)
- - [God&#39;s own operating system continues the hurtle to oblivion as even Rockstar abandons Windows 7](https://www.pcgamer.com/gods-own-operating-system-continues-the-hurtle-to-oblivion-as-even-rockstar-abandons-windows-7)<!-- GAME:END -->
+ - [The Last of Us season 2 is casting up](https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news)
+ - [How To Find And Change Jobs In Infinite Wealth](https://kotaku.com/like-dragon-infinite-wealth-jobs-alo-happy-find-change-1851221030)
+ - [New Alan Wake 2 feature makes the game more accessible to non-horror fans](https://www.polygon.com/24059328/alan-wake-2-patch-update-accessibility-horror)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
