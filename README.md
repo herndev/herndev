@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music&#39;s increased spatial audio royalties are taking money from independents](https://appleinsider.com/articles/24/02/02/apple-musics-increased-spatial-audio-royalties-are-taking-money-from-independents?utm_medium=rss)
- - [I&#39;m Self-Employed and Know Freelance Taxes Are Tricky. Here Are 7 Tips I Swear By     - CNET](https://www.cnet.com/personal-finance/taxes/im-self-employed-and-know-freelance-taxes-are-tricky-here-are-7-tips-i-swear-by/#ftag=CAD590a51e)
- - [Woot&#39;s Blink and Ring Sale Drops Refurb Security Cameras as Low as $40     - CNET](https://www.cnet.com/deals/woots-blink-and-ring-sale-drops-refurb-security-cameras-as-low-as-40/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Create images with Adobe Firefly AI for Apple Vision Pro](https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro?utm_medium=rss)
+ - [Circle to Search may come to more Android phones in October, Samsung confirms](https://www.androidauthority.com/circle-to-search-exclusivity-3410389/)
+ - [Meta stock rises 20%+, adding ~$200B to its market cap, the biggest single-session market value addition, eclipsing Apple and Amazon&#39;s gains in 2022 &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/240202/p12#a240202p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
