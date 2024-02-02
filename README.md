@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
- - ⏩ [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
- - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
+ - 💣 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
+ - ⏩ [Real life NPC](http://9gag.com/gag/aXn5o5v)
+ - 👉 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)<!-- MEMES:END -->
 
 ---
 
