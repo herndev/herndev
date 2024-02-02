@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
- - ⏩ [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
- - 👉 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)<!-- MEMES:END -->
+ - 💣 [Bulk](http://9gag.com/gag/armjn86)
+ - ⏩ [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
+ - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
 
 ---
 
