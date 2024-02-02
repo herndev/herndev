@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The solution to space junk might be space lasers because lasers solve everything obviously](https://www.pcgamer.com/the-solution-to-space-junk-might-be-space-lasers-because-lasers-solve-everything-obviously)
- - [Atlus pinky swears that &#39;fans can rest assured knowing that Persona 3 Reload offers a complete experience,&#39; so you won&#39;t be buying Persona 3 Reload: Royal years from now](https://www.pcgamer.com/atlus-pinky-swears-that-fans-can-rest-assured-knowing-that-persona-3-reload-offers-a-complete-experience-so-you-wont-be-buying-persona-3-reload-royal-years-from-now)
- - [Next Week on Xbox: New Games for February 5 to 9](https://news.xbox.com/en-us/2024/02/02/next-week-on-xbox-new-games-for-february-5-to-9/)<!-- GAME:END -->
+ - [Xbox Anime Month Returns with Great Discounts on Games and Movies](https://news.xbox.com/en-us/2024/02/02/xbox-anime-month-returns-with-great-discounts-on-games-and-movies/)
+ - [Pokémon Go Spotlight Hour schedule for February 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
+ - [Everything We Know About The Stylish Action Game Stellar Blade](https://kotaku.com/stellar-blade-release-date-platforms-trailer-gameplay-1851220358)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
