@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caseology Nano Pop review: Colorful Pixel 8 protection](https://www.androidauthority.com/google-pixel-8-caseology-nano-pop-review-3408011/)
- - [6G doesn’t exist yet, but Comcast has agreed to stop using 10G branding](https://www.androidauthority.com/comcast-10g-branding-misleading-3410243/)
- - [Apple confirms generative AI features are coming to the iPhone very soon](https://www.androidauthority.com/apple-confirms-generative-ai-features-3410248/)<!-- TECH:END -->
+ - [Drive to Survive season 6: Release date, and what we expect to see](https://www.androidauthority.com/drive-to-survive-season-6-release-date-3409895/)
+ - [How the EFF, Techdirt, MuckRock, and DDoSecrets are pushing back against legal threats aiming to censor reports on Appin&#39;s alleged hacker-for-hire past &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240202/p4#a240202p4)
+ - [House Passes Child Tax Credit Expansion: How Much Money Could You Get if It Passes Senate?     - CNET](https://www.cnet.com/personal-finance/taxes/house-passes-child-tax-credit-expansion-how-much-money-could-you-get-if-approved/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
