@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let me tell you about this very excellent USB-C wall charger](https://www.theverge.com/24059448/belkin-three-port-usb-c-charger-compact-67w-review-price)
- - [Sources: Baidu Venture is in talks to sell its stakes in US startups, including AI robotics startup Machina Labs, to US buyers, as US-China relations sour &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240202/p19#a240202p19)
- - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Reddit has picked the New York Stock Exchange for its long-delayed IPO that could take place as soon as next month &lpar;Financial Times&rpar;](http://www.techmeme.com/240202/p20#a240202p20)
+ - [Apple’s Vision Pro headset is hiding yet another XL Lightning plug](https://www.theverge.com/2024/2/2/24059678/apple-vision-pro-headset-lightning-plug-ifixit)
+ - [Apple’s $3,499 Vision Pro lacks Find My location tracking, so don’t lose it](https://www.theverge.com/2024/2/2/24059688/apple-vision-pro-find-my-location-tracking-lost)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
