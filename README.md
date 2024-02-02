@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Anime Month Returns with Great Discounts on Games and Movies](https://news.xbox.com/en-us/2024/02/02/xbox-anime-month-returns-with-great-discounts-on-games-and-movies/)
- - [Pokémon Go Spotlight Hour schedule for February 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
- - [Everything We Know About The Stylish Action Game Stellar Blade](https://kotaku.com/stellar-blade-release-date-platforms-trailer-gameplay-1851220358)<!-- GAME:END -->
+ - [Turns out AMD&#39;s &#39;Compressonator&#39; tool for artists and devs was named after The Governator himself, Arnold Schwarzenegger](https://www.pcgamer.com/turns-out-amds-compressonator-tool-for-artists-and-devs-was-named-after-the-governator-himself-arnold-schwarzenegger)
+ - [AMD Radeon RX 7600 XT review](https://www.pcgamer.com/amd-radeon-rx-7600-xt-16gb-review-performance-benchmarks-powercolor-hellhound)
+ - [God&#39;s own operating system continues the hurtle to oblivion as even Rockstar abandons Windows 7](https://www.pcgamer.com/gods-own-operating-system-continues-the-hurtle-to-oblivion-as-even-rockstar-abandons-windows-7)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
