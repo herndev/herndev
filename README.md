@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yo dawg, I heard you like screens, so I put a screen on your CPU fan](https://www.pcgamer.com/yo-dawg-i-heard-you-like-screens-so-i-put-a-screen-on-your-cpu-fan)
- - [Helldivers 2 hands-on report: Chaotic co-op and empowering Stratagems](https://blog.playstation.com/2024/02/02/helldivers-2-hands-on-report-chaotic-co-op-and-empowering-stratagems/)
- - [Helldivers 2 hands-on report: Chaotic co-op and empowering Stratagems](https://blog.playstation.com/2024/02/02/helldivers-2-hands-on-report-chaotic-co-op-and-empowering-stratagems/)<!-- GAME:END -->
+ - [Razer Iskur V2 review](https://www.pcgamer.com/razer-iskur-v2-gaming-chair-review)
+ - [Here&#39;s path tracing running on the Steam Deck at 30 fps thanks to some settings tweaks](https://www.pcgamer.com/heres-path-tracing-running-on-the-steam-deck-at-30-fps-thanks-to-some-settings-tweaks)
+ - [Free GOG keys for the objectively best Fallout game are on Twitch Prime right now](https://www.pcgamer.com/free-gog-keys-for-the-objectively-best-fallout-game-are-on-twitch-prime-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
