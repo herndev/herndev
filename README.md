@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Feb. 2: $399 MacBook Air, $150 off iPad Air 5, Beats Studio Buds $85, more](https://appleinsider.com/articles/24/02/02/daily-deals-feb-2-399-macbook-air-150-off-ipad-air-5-beats-studio-buds-85-more?utm_medium=rss)
- - [What to expect from the Apple Vision Pro in-store demo](https://appleinsider.com/articles/24/02/02/what-to-expect-from-the-apple-vision-pro-in-store-demo?utm_medium=rss)
- - [Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S24 and S24 Plus review: slightly bigger and brighter displays with flat edges, and the AI features are occasionally great but sometimes weird &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240202/p16#a240202p16)
+ - [How to clean your new Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-clean-your-new-apple-vision-pro?utm_medium=rss)
+ - [Joe Rogan renews deal with Spotify](https://www.theverge.com/2024/2/2/24059336/joe-rogan-renews-deal-with-spotify-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
