@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gimme a f**kin gun](http://9gag.com/gag/aQE032w)
- - ⏩ [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
- - 👉 [London Acid Attacker identified as Abdul Shokoor Ezedi. The attacker threw acid in the faces of 12 people last night in Clapham South, London. 2 children were among the victims- one of them aged 3. He is currently at large with a massive manhunt underway. If you see him, call 999](http://9gag.com/gag/ap9WNVD)<!-- MEMES:END -->
+ - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - ⏩ [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 👉 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)<!-- MEMES:END -->
 
 ---
 
