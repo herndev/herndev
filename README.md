@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro has finally arrived](https://appleinsider.com/articles/24/02/02/apple-vision-pro-has-finally-arrived?utm_medium=rss)
- - [There is an Apple Vision Pro YouTube viewer app, but it isn&#39;t from Google](https://appleinsider.com/articles/24/02/02/there-is-an-apple-vision-pro-youtube-viewer-app-but-it-isnt-from-google?utm_medium=rss)
- - [In Apple&#39;s earnings call, CFO Luca Maestri says the EU represents 7% of global App Store revenue &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240202/p8#a240202p8)<!-- TECH:END -->
+ - [Adobe brings Lightroom and Firefly AI to the Apple Vision Pro](https://www.theverge.com/2024/2/2/24059011/adobe-firefly-ai-image-generator-lightroom-apps-apple-vision-pro)
+ - [All I want is for the NJ Transit app to not suck](https://www.theverge.com/24056271/nj-transit-app-public-tranportation)
+ - [The Sonos Arc is on sale for 20 percent off just in time for the Super Bowl](https://www.theverge.com/2024/2/2/24057928/sonos-arc-soundbar-sub-speaker-super-bowl-2024-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
