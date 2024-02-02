@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Raise your drink to the character from the best and funniest Disney cartoon!](http://9gag.com/gag/a3ZVEKN)
- - ⏩ [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
- - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
+ - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - ⏩ [Vegetable](http://9gag.com/gag/aKErxq6)
+ - 👉 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)<!-- MEMES:END -->
 
 ---
 
