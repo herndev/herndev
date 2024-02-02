@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craig Wright Claims He’s Bitcoin Creator Satoshi Nakamoto. Can He Prove It in Court?](https://www.wired.com/story/craig-wright-satoshi-nakamoto-trial/)
- - [Why Is There Lead in Stanley Cups or Other Reusable Water Bottles?](https://www.wired.com/story/stanley-cup-lead-soldering/)
- - [A Startup Has Unlocked a Way to Make Cheap Insulin](https://www.wired.com/story/cheap-insulin-biosimilar-rbio/)<!-- TECH:END -->
+ - [Apple Vision Pro has finally arrived](https://appleinsider.com/articles/24/02/02/apple-vision-pro-has-finally-arrived?utm_medium=rss)
+ - [There is an Apple Vision Pro YouTube viewer app, but it isn&#39;t from Google](https://appleinsider.com/articles/24/02/02/there-is-an-apple-vision-pro-youtube-viewer-app-but-it-isnt-from-google?utm_medium=rss)
+ - [In Apple&#39;s earnings call, CFO Luca Maestri says the EU represents 7% of global App Store revenue &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240202/p8#a240202p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
