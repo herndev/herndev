@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Optimal distance to peek in Shooter games](http://9gag.com/gag/az20e4q)
- - ⏩ [Chonky Monster of a Boy](http://9gag.com/gag/a3ZVZd7)
- - 👉 [Bulk](http://9gag.com/gag/armjn86)<!-- MEMES:END -->
+ - 💣 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
+ - ⏩ [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 👉 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)<!-- MEMES:END -->
 
 ---
 
