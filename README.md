@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 hands-on report: Chaotic co-op and empowering Stratagems](https://blog.playstation.com/2024/02/02/helldivers-2-hands-on-report-chaotic-co-op-and-empowering-stratagems/)
  - [Persona 3 Reload guide: Classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)
- - [Every Persona 3 Reload Classroom And Exam Answer](https://kotaku.com/persona-3-reload-classroom-exam-test-questions-answers-1851207017)
- - [Wordle today: Hint and answer #958 for Friday, February 2](https://www.pcgamer.com/wordle-today-answer-958-february-2)<!-- GAME:END -->
+ - [Every Persona 3 Reload Classroom And Exam Answer](https://kotaku.com/persona-3-reload-classroom-exam-test-questions-answers-1851207017)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
