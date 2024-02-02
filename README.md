@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
- - ⏩ [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 💣 [Poor man](http://9gag.com/gag/aBd70nA)
+ - ⏩ [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
  - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 
 ---
