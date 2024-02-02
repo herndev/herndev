@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for February 5 to 9](https://news.xbox.com/en-us/2024/02/02/next-week-on-xbox-new-games-for-february-5-to-9/)
- - [Infamous swatter-for-hire Torswats likely arrested after a private investigator worked with a WoW Twitch streamer and the FBI to take them down](https://www.pcgamer.com/infamous-swatter-for-hire-torswats-likely-arrested-after-a-private-investigator-worked-with-a-wow-twitch-streamer-and-the-fbi-to-take-them-down)
- - [Pokémon Actor Veronica Taylor Talks 26 Glorious Years Of Ash Ketchum](https://kotaku.com/pokemon-ash-ketchum-veronica-taylor-interview-1851217352)<!-- GAME:END -->
+ - [The solution to space junk might be space lasers because lasers solve everything obviously](https://www.pcgamer.com/the-solution-to-space-junk-might-be-space-lasers-because-lasers-solve-everything-obviously)
+ - [Atlus pinky swears that &#39;fans can rest assured knowing that Persona 3 Reload offers a complete experience,&#39; so you won&#39;t be buying Persona 3 Reload: Royal years from now](https://www.pcgamer.com/atlus-pinky-swears-that-fans-can-rest-assured-knowing-that-persona-3-reload-offers-a-complete-experience-so-you-wont-be-buying-persona-3-reload-royal-years-from-now)
+ - [Next Week on Xbox: New Games for February 5 to 9](https://news.xbox.com/en-us/2024/02/02/next-week-on-xbox-new-games-for-february-5-to-9/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
