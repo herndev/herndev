@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GTA Online update for the week of Feb. 1](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
  - [The PC game releases we&#39;re most excited about in February](https://www.pcgamer.com/february-2024-pc-game-release-dates)
- - [We thought Death Stranding was Peak Kojima, but Death Stranding 2 already looks like it&#39;s scaling new heights of his personal WTF mountain](https://www.pcgamer.com/we-thought-death-stranding-was-peak-kojima-but-death-stranding-2-already-looks-like-its-scaling-new-heights-of-his-personal-wtf-mountain)
- - [Inkle reveals a surprise collaboration with Google in The Forever Labyrinth, &#39;an art-filled quest through time and space&#39;](https://www.pcgamer.com/inkle-reveals-a-surprise-collaboration-with-google-in-the-forever-labyrinth-an-art-filled-quest-through-time-and-space)<!-- GAME:END -->
+ - [We thought Death Stranding was Peak Kojima, but Death Stranding 2 already looks like it&#39;s scaling new heights of his personal WTF mountain](https://www.pcgamer.com/we-thought-death-stranding-was-peak-kojima-but-death-stranding-2-already-looks-like-its-scaling-new-heights-of-his-personal-wtf-mountain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
