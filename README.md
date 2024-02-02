@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When a simple man gets that tiny bit of attention.](http://9gag.com/gag/a2Kn7Pp)
- - ⏩ [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
- - 👉 [Poor man](http://9gag.com/gag/aBd70nA)<!-- MEMES:END -->
+ - 💣 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
+ - ⏩ [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 
 ---
 
