@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [How Infinite Wealth’s Aloha Links Work And Why You Should Use Them](https://kotaku.com/like-a-dragon-infinite-wealth-aloha-links-friends-1851221697)
- - [Now this is how to sell a horror movie](https://www.polygon.com/24055798/longlegs-horror-movie-trailer-teaser-release)<!-- GAME:END -->
+ - [There’s so much Batman in Suicide Squad: Kill the Justice League](https://www.polygon.com/gaming/24059710/suicide-squad-kill-justice-league-batman-kevin-conroy)
+ - [Everything We Know About V Rising, The PC Hit Coming To PS5](https://kotaku.com/v-rising-gameplay-trailer-release-date-pc-ps5-1851221840)
+ - [Naughty Dog Says There’s ‘Probably One More Chapter’ In The Last Of Us](https://kotaku.com/last-of-us-part-3-naughty-dog-grounded-2-1851221748)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
