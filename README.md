@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: YouTube and Koo, an Indian X-style alternative, are allowing hateful content that violates their policies, less than a month before national elections &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240202/p3#a240202p3)
- - [Insider deal: get Apple&#39;s M2 Pro MacBook Pro 16-inch for $1,999, plus $80 off AppleCare](https://appleinsider.com/articles/24/02/02/insider-deal-get-apples-m2-pro-macbook-pro-for-1999-plus-80-off-applecare?utm_medium=rss)
- - [Sources: some independent record labels are pushing back on Apple&#39;s plans to pay more for spatial audio tracks, saying it benefits larger record companies &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/240202/p2#a240202p2)<!-- TECH:END -->
+ - [6G doesn’t exist yet, but Comcast has agreed to stop using 10G branding](https://www.androidauthority.com/comcast-10g-branding-misleading-3410243/)
+ - [Apple confirms generative AI features are coming to the iPhone very soon](https://www.androidauthority.com/apple-confirms-generative-ai-features-3410248/)
+ - [Research: YouTube and Koo, an Indian X-style alternative, are allowing hateful content that violates their policies, less than a month before national elections &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240202/p3#a240202p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
