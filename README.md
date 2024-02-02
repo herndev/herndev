@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Caseology Nano Pop review: Colorful Pixel 8 protection](https://www.androidauthority.com/google-pixel-8-caseology-nano-pop-review-3408011/)
  - [6G doesn’t exist yet, but Comcast has agreed to stop using 10G branding](https://www.androidauthority.com/comcast-10g-branding-misleading-3410243/)
- - [Apple confirms generative AI features are coming to the iPhone very soon](https://www.androidauthority.com/apple-confirms-generative-ai-features-3410248/)
- - [Research: YouTube and Koo, an Indian X-style alternative, are allowing hateful content that violates their policies, less than a month before national elections &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240202/p3#a240202p3)<!-- TECH:END -->
+ - [Apple confirms generative AI features are coming to the iPhone very soon](https://www.androidauthority.com/apple-confirms-generative-ai-features-3410248/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
