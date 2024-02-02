@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple starts selling the Vision Pro in the US; Tim Cook compares Vision Pro debut to the birth of Mac, iPod, and iPhone in a memo to employees &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240202/p18#a240202p18)
- - [FTX Says It Expects to Repay Customers in Full. Some Are Suing for More](https://www.wired.com/story/ftx-bankruptcy-bitcoin-value/)
- - [Summer House season 8: Release date, cast, and the latest rumors](https://www.androidauthority.com/summer-house-season-8-release-date-3410422/)<!-- TECH:END -->
+ - [Let me tell you about this very excellent USB-C wall charger](https://www.theverge.com/24059448/belkin-three-port-usb-c-charger-compact-67w-review-price)
+ - [Sources: Baidu Venture is in talks to sell its stakes in US startups, including AI robotics startup Machina Labs, to US buyers, as US-China relations sour &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240202/p19#a240202p19)
+ - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
