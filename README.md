@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drive to Survive season 6: Release date, and what we expect to see](https://www.androidauthority.com/drive-to-survive-season-6-release-date-3409895/)
- - [How the EFF, Techdirt, MuckRock, and DDoSecrets are pushing back against legal threats aiming to censor reports on Appin&#39;s alleged hacker-for-hire past &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240202/p4#a240202p4)
- - [House Passes Child Tax Credit Expansion: How Much Money Could You Get if It Passes Senate?     - CNET](https://www.cnet.com/personal-finance/taxes/house-passes-child-tax-credit-expansion-how-much-money-could-you-get-if-approved/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Byju&#39;s Alpha, a US unit of the Indian edtech, files for Chapter 11 bankruptcy in Delaware, listing liabilities between $1B-$10B and assets between $500M-$1B &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p6#a240202p6)
+ - [Byju&#39;s says investors do not have voting rights to remove Byju Raveendran after some investors called to remove the CEO and his family from the top roles &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240202/p5#a240202p5)
+ - [Google Search’s cache links are officially being retired](https://www.theverge.com/2024/2/2/24058985/google-search-cache-feature-discontinued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
