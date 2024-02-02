@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor man](http://9gag.com/gag/aBd70nA)
- - ⏩ [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
- - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
+ - 💣 [Optimal distance to peek in Shooter games](http://9gag.com/gag/az20e4q)
+ - ⏩ [Chonky Monster of a Boy](http://9gag.com/gag/a3ZVZd7)
+ - 👉 [Bulk](http://9gag.com/gag/armjn86)<!-- MEMES:END -->
 
 ---
 
