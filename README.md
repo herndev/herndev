@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It took me a few seconds](http://9gag.com/gag/az2027x)
+ - 💣 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
  - ⏩ [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
- - 👉 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)<!-- MEMES:END -->
+ - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 
 ---
 
