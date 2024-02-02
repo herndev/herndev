@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us season 2 is casting up](https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news)
- - [How To Find And Change Jobs In Infinite Wealth](https://kotaku.com/like-dragon-infinite-wealth-jobs-alo-happy-find-change-1851221030)
- - [New Alan Wake 2 feature makes the game more accessible to non-horror fans](https://www.polygon.com/24059328/alan-wake-2-patch-update-accessibility-horror)<!-- GAME:END -->
+ - [Hazbin Hotel is pure chaos — and it mostly works](https://www.polygon.com/24059468/hazbin-hotel-season-1-finale-review)
+ - [The Persona 3 Cast, Ranked From Worst To Best](https://kotaku.com/persona-3-reload-best-characters-mitsuru-junpei-akihiko-1851221330)
+ - [NFL&#39;s Kelce Brothers Want To Bring Back Your Fave Childhood Game](https://kotaku.com/backyard-football-baseball-game-travis-jason-kelce-nfl-1851218390)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
