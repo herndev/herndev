@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
- - ⏩ [Vegetable](http://9gag.com/gag/aKErxq6)
- - 👉 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)<!-- MEMES:END -->
+ - 💣 [When a simple man gets that tiny bit of attention.](http://9gag.com/gag/a2Kn7Pp)
+ - ⏩ [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
+ - 👉 [Poor man](http://9gag.com/gag/aBd70nA)<!-- MEMES:END -->
 
 ---
 
