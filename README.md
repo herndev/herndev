@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
- - ⏩ [Real life NPC](http://9gag.com/gag/aXn5o5v)
- - 👉 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)<!-- MEMES:END -->
+ - 💣 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
+ - ⏩ [Never Stepping on Bali, Indonesia](http://9gag.com/gag/amAE7v6)
+ - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 
 ---
 
