@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hazbin Hotel is pure chaos — and it mostly works](https://www.polygon.com/24059468/hazbin-hotel-season-1-finale-review)
- - [The Persona 3 Cast, Ranked From Worst To Best](https://kotaku.com/persona-3-reload-best-characters-mitsuru-junpei-akihiko-1851221330)
- - [NFL&#39;s Kelce Brothers Want To Bring Back Your Fave Childhood Game](https://kotaku.com/backyard-football-baseball-game-travis-jason-kelce-nfl-1851218390)<!-- GAME:END -->
+ - [The 25 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [How Infinite Wealth’s Aloha Links Work And Why You Should Use Them](https://kotaku.com/like-a-dragon-infinite-wealth-aloha-links-friends-1851221697)
+ - [Now this is how to sell a horror movie](https://www.polygon.com/24055798/longlegs-horror-movie-trailer-teaser-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
