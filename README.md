@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RIP To The Best Part Of Persona 3’s UI](https://kotaku.com/persona-3-reload-ui-loses-the-originals-best-feature-1851225937)
- - [Palworld is the culmination of every game I’ve ever loved](https://www.polygon.com/reviews/24057437/palworld-review-pokemon-zelda-breath-of-the-wild-survival)
- - [Save your Eddies with this bundle of classic and revised Cyberpunk texts](https://www.polygon.com/deals/2024/2/5/24062098/cyberpunk-red-2020-tabletop-rpg-humble-bundle-deal-sale)<!-- GAME:END -->
+ - [Halo season 2, the Super Bowl, and more new TV this week](https://www.polygon.com/2024/2/5/24033106/new-tv-halo-season-2-super-bowl-time-netflix)
+ - [Game of Thrones’ canceled prequel spinoff gets a very surprising reveal](https://www.polygon.com/24062273/game-thrones-canceled-long-night-prequel-spinoff-first-look-naomi-watts)
+ - [The Kodansha Humble bundle is the perfect manga starter kit for $25](https://www.polygon.com/deals/24062169/kodansha-manga-deal-humble-bundle-witch-hat-atelier)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
