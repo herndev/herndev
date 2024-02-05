@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF](http://9gag.com/gag/aKErv66)
- - ⏩ [Wonder what they said](http://9gag.com/gag/avQ3xrn)
- - 👉 [Massage](http://9gag.com/gag/aDYEbzx)<!-- MEMES:END -->
+ - 💣 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
+ - ⏩ [To be undercover](http://9gag.com/gag/aEqLVAM)
+ - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
 
 ---
 
