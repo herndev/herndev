@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zenfone 11 Ultra leak reveals striking resemblance to this gaming phone](https://www.androidauthority.com/asus-zenfone-11-ultra-leaked-renders-3410677/)
  - [Teardown reveals Samsung Galaxy S24 Ultra’s Titanium is less durable than iPhone 15 Pro’s](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-titanium-3410675/)
- - [Google Bard could get renamed to Gemini in a couple of days](https://www.androidauthority.com/google-bard-gemini-rename-february-7-3409906/)
- - [Nothing Phone 2 problems and how to fix them](https://www.androidauthority.com/nothing-phone-2-problems-fixes-3410641/)<!-- TECH:END -->
+ - [Google Bard could get renamed to Gemini in a couple of days](https://www.androidauthority.com/google-bard-gemini-rename-february-7-3409906/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
