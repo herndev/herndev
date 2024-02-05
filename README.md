@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aduh](http://9gag.com/gag/aqeqQAv)
- - ⏩ [Many such cases](http://9gag.com/gag/ay2OW5r)
- - 👉 [Sexy Binary, lol](http://9gag.com/gag/aGEWMb0)<!-- MEMES:END -->
+ - 💣 [Marriage](http://9gag.com/gag/aPgKPLK)
+ - ⏩ [Trains in India have become mosques where everyone cannot walk freely because these people want to pray. Why is this becoming more and more intense happening worldwide?!!!](http://9gag.com/gag/aVbNo08)
+ - 👉 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)<!-- MEMES:END -->
 
 ---
 
