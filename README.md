@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Beta &lpar;2402.240201-2000&rpar;](https://news.xbox.com/en-us/2024/02/05/xbox-insider-release-notes-beta-2402-240201-2000/)
- - [Tracy Chapman’s ‘Fast Car’ Grammys performance is what awards shows are made for](https://www.polygon.com/24062412/tracy-chapmans-fast-car-grammys)
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240131-2200&rpar;](https://news.xbox.com/en-us/2024/02/05/xbox-insider-release-notes-alpha-2403-240131-2200/)<!-- GAME:END -->
+ - [Xbox Boss Breaks Silence Following PlayStation Port Rumors](https://kotaku.com/xbox-boss-announces-event-after-playstation-port-rumors-1851227144)
+ - [This strategy game&#39;s historical ignorance made me so mad I became a post-apocalyptic dictator out of spite](https://www.pcgamer.com/this-strategy-games-historical-ignorance-made-me-so-mad-i-became-a-post-apocalyptic-dictator-out-of-spite)
+ - [The Week In Games: Co-Op Bug Blasting And More New Releases](https://kotaku.com/new-games-this-week-february-foamstars-helldivers-2-1851226395)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
