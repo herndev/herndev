@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This year&#39;s &#39;Windows 12&#39; might just be nothing more than a large update for Windows 11, rather than a whole new operating system](https://www.pcgamer.com/this-years-windows-12-might-just-be-nothing-more-than-a-large-update-for-windows-11-rather-than-a-whole-new-operating-system)
- - [The Last of Us Part 2 Remastered, Clue, and Oppenheimer are part of Amazon and Target’s latest sale](https://www.polygon.com/24062070/amazon-target-gaming-deals-movies-board-games-buy-one-get-half-off)
- - [Former Skull and Bones director says making a separate solo campaign ‘would have prevented the team from creating a really deep open world’](https://www.pcgamer.com/former-skull-and-bones-director-says-making-a-separate-solo-campaign-would-have-prevented-the-team-from-creating-a-really-deep-open-world)<!-- GAME:END -->
+ - [RIP To The Best Part Of Persona 3’s UI](https://kotaku.com/persona-3-reload-ui-loses-the-originals-best-feature-1851225937)
+ - [Palworld is the culmination of every game I’ve ever loved](https://www.polygon.com/reviews/24057437/palworld-review-pokemon-zelda-breath-of-the-wild-survival)
+ - [Save your Eddies with this bundle of classic and revised Cyberpunk texts](https://www.polygon.com/deals/2024/2/5/24062098/cyberpunk-red-2020-tabletop-rpg-humble-bundle-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
