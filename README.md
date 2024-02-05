@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [If your Apple Vision Pro gets stolen, Find My won&#39;t help you get it back](https://appleinsider.com/articles/24/02/02/if-your-apple-vision-pro-gets-stolen-find-my-wont-help-you-get-it-back?utm_medium=rss)
- - [Sources: Reddit has picked the New York Stock Exchange for its long-delayed IPO that could take place as soon as next month &lpar;Financial Times&rpar;](http://www.techmeme.com/240202/p20#a240202p20)<!-- TECH:END -->
+ - [Save up to $1,800 on Sonos speakers &amp; TVs ahead of Super Bowl Sunday](https://appleinsider.com/articles/24/02/04/save-up-to-1800-on-sonos-speakers-tvs-ahead-of-super-bowl-sunday?utm_medium=rss)
+ - [Microsoft weighs launching Indiana Jones on the PS5](https://www.theverge.com/2024/2/4/24057433/microsoft-bethesda-indiana-jones-and-the-great-circle-ps5-release)
+ - [Apple &#39;renaissance&#39; inbound after Vision Pro launch success](https://appleinsider.com/articles/24/02/04/apple-renaissance-inbound-after-vision-pro-launch-success?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
