@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When in Rome, do as Romans do](http://9gag.com/gag/aoKbxKn)
- - ⏩ [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 👉 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)<!-- MEMES:END -->
+ - 💣 [WTF](http://9gag.com/gag/aKErv66)
+ - ⏩ [Wonder what they said](http://9gag.com/gag/avQ3xrn)
+ - 👉 [Massage](http://9gag.com/gag/aDYEbzx)<!-- MEMES:END -->
 
 ---
 
