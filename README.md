@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Semafor reporters are going to curate the news with AI](https://www.theverge.com/2024/2/5/24062229/semafor-signals-miso-ai-microsoft)
- - [Who will deliver immersive content for Apple Vision Pro?](https://appleinsider.com/articles/24/02/05/who-will-deliver-immersive-content-for-apple-vision-pro?utm_medium=rss)
- - [7 Best Valentine&#39;s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)<!-- TECH:END -->
+ - [Nothing Phone 2a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/nothing-phone-2a-3401932/)
+ - [Apple’s latest AirPods have fallen to some of their best prices to date](https://www.theverge.com/2024/2/5/24062168/apple-second-third-gen-airpods-wireless-earbuds-deal-sale)
+ - [PSA: Despite what your Pixel 7 says, it doesn’t have Circle to Search &lpar;yet&rpar;](https://www.androidauthority.com/pixel-7-circle-to-search-error-3410833/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
