@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Platformer’s Casey Newton on surviving the great media collapse and what comes next](https://www.theverge.com/2024/2/5/24059524/platformer-casey-newton-substack-moderation-email-newsletters-media-layoffs)
- - [Which Bluetooth devices you can use with Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/which-bluetooth-devices-you-can-use-with-apple-vision-pro?utm_medium=rss)
- - [Amazon bails on Roomba, homeOS possibilities, &amp; more smart home news on HomeKit Insider](https://appleinsider.com/articles/24/02/05/amazon-bails-on-roomba-homeos-possibilities-more-smart-home-news-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals: AirPods $89, M2 Mac mini $499, Apple Pencil $69, $180 off Sonos Arc Soundbar, more](https://appleinsider.com/articles/24/02/05/daily-deals-airpods-89-m2-mac-mini-499-apple-pencil-69-180-off-sonos-arc-soundbar-more?utm_medium=rss)
+ - [How to force quit apps in visionOS for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-force-quit-apps-in-visionos-for-apple-vision-pro?utm_medium=rss)
+ - [Nothing Phone 2a leak shows it may scrap this iconic feature](https://www.androidauthority.com/nothing-phone-2a-render-3410808/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
