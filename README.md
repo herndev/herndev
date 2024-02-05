@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Windows 11 gains traction with gamers according to Steam&#39;s latest Hardware Survey](https://www.pcgamer.com/windows-11-gains-traction-with-gamers-according-to-steams-latest-hardware-survey)
  - [Five new Steam games you probably missed &lpar;February 5, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-5-2024)
- - [This browser-based &#39;endless crafting game&#39; starts you off with fire and water, but it quickly escalates to God, the Big Bang, and &#39;Yin-Yoda&#39;](https://www.pcgamer.com/this-browser-based-endless-crafting-game-starts-you-off-with-fire-and-water-but-it-quickly-escalates-to-god-the-big-bang-and-yin-yoda)
- - [In Baldur&#39;s Gate 3, like so many RPGs, the mod to remove the party size limit is essential](https://www.pcgamer.com/in-baldurs-gate-3-like-so-many-rpgs-the-mod-to-remove-the-party-size-limit-is-essential)<!-- GAME:END -->
+ - [This browser-based &#39;endless crafting game&#39; starts you off with fire and water, but it quickly escalates to God, the Big Bang, and &#39;Yin-Yoda&#39;](https://www.pcgamer.com/this-browser-based-endless-crafting-game-starts-you-off-with-fire-and-water-but-it-quickly-escalates-to-god-the-big-bang-and-yin-yoda)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
