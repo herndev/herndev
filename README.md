@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir reports Q4 revenue up 20% YoY to $608.4M, vs. $602.4M est., net income $93.4M, up from $30.9M YoY, and LLM tech saw &quot;unrelenting&quot; demand; PLTR up 14%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240205/p25#a240205p25)
- - [Apple TV+ has a lot of content coming in 2024](https://appleinsider.com/articles/24/02/05/apple-tv-has-a-lot-of-content-coming-in-2024?utm_medium=rss)
- - [Does Your State Have Solar Net Metering?     - CNET](https://www.cnet.com/home/energy-and-utilities/new-to-solar-net-metering-heres-what-you-need-to-know-for-your-state/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US State Department announces a new policy allowing &quot;the imposition of visa restrictions on individuals involved in the misuse of commercial spyware&quot; &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240205/p28#a240205p28)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [YouTube changes its mind, says an app will come to the Vision Pro after all](https://www.androidauthority.com/youtube-vision-pro-app-3410958/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
