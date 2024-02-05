@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: soaring appetite for its AI chips and manufacturing constraints have forced Huawei to prioritise AI and slow production for its premium Mate 60 phones &lpar;Reuters&rpar;](http://www.techmeme.com/240205/p6#a240205p6)
- - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)
- - [Oversight Board upholds Meta&#39;s decision to leave up a maliciously edited video of Biden but calls on Meta to update its &quot;incoherent&quot; manipulated media policy &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240205/p5#a240205p5)<!-- TECH:END -->
+ - [Montenegro&#39;s government says it has extradited Han Chang-joon, the former CFO of Terraform Labs, to South Korea &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240205/p9#a240205p9)
+ - [Source: Microsoft&#39;s Bethesda considers bringing the new Indiana Jones game to PS5, months after Xbox and PC release, as part of a new multi-platform approach &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240205/p8#a240205p8)
+ - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
