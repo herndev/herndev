@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - ⏩ [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
- - 👉 [When in Rome, do as Romans do](http://9gag.com/gag/aoKbxKn)<!-- MEMES:END -->
+ - 💣 [I noticed that you like good anvils&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQvVWQ)
+ - ⏩ [A small filter making a big difference](http://9gag.com/gag/aKEr83Q)
+ - 👉 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)<!-- MEMES:END -->
 
 ---
 
