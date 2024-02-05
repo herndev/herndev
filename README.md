@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus is quietly adding Galaxy S24 and Pixel-like AI features to its flagships](https://www.androidauthority.com/oneplus-12-oneplus-11-ai-features-3410669/)
- - [Grab an M2 MacBook Pro for just $1,579 today only](https://appleinsider.com/articles/24/02/05/grab-an-m2-macbook-pro-for-just-1579-today-only?utm_medium=rss)
- - [Bambu Lab is recalling every A1 3D printer — don’t use them until you read this](https://www.theverge.com/2024/2/4/24061794/bambu-lab-a1-3d-printer-recall-heatbed-cable-damage)<!-- TECH:END -->
+ - [Google Bard could get renamed to Gemini in a couple of days](https://www.androidauthority.com/google-bard-gemini-rename-february-7-3409906/)
+ - [Nothing Phone 2 problems and how to fix them](https://www.androidauthority.com/nothing-phone-2-problems-fixes-3410641/)
+ - [Yandex plans to sell its entire Russian business, including its popular search engine, to a group led by Yandex management in a deal valued at about $5.2B &lpar;Sylvia Westall/Bloomberg&rpar;](http://www.techmeme.com/240205/p2#a240205p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
