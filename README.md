@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [February 2024 Android security patch here for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/february-2024-android-security-patch-3410933/)
- - [Tesla Has Lost Its Range Crown to a Chinese EV You’ve Never Heard Of](https://www.wired.com/story/tesla-hiphi-ev-range-crown/)
- - [YouTube says a Vision Pro app is ‘on the roadmap’](https://www.theverge.com/2024/2/5/24062425/youtube-vision-pro-app-360-vr-video)<!-- TECH:END -->
+ - [How to take screenshots and screen recordings of the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-take-screenshots-and-screen-recordings-of-the-apple-vision-pro?utm_medium=rss)
+ - [PlayStation Plus Deals: Shop at Sony for Direct Buys     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Block Knife Set     - CNET](https://www.cnet.com/news/block-knife-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
