@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
- - ⏩ [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
- - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
+ - 💣 [Marriage](http://9gag.com/gag/aPgKPLK)
+ - ⏩ [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 👉 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)<!-- MEMES:END -->
 
 ---
 
