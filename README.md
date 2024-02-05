@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s &#39;new&#39; RTX 3050 6G gets benchmarked, and it ain&#39;t great, but its not all bad](https://www.pcgamer.com/nvidias-new-rtx-3050-6g-gets-benchmarked-and-it-aint-great-but-its-not-all-bad)
  - [Today&#39;s Wordle answer for Monday, February 5](https://www.pcgamer.com/wordle-today-answer-february-5-2024)
- - [Windows 11 gains traction with gamers according to Steam&#39;s latest Hardware Survey](https://www.pcgamer.com/windows-11-gains-traction-with-gamers-according-to-steams-latest-hardware-survey)
- - [Five new Steam games you probably missed &lpar;February 5, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-5-2024)<!-- GAME:END -->
+ - [Windows 11 gains traction with gamers according to Steam&#39;s latest Hardware Survey](https://www.pcgamer.com/windows-11-gains-traction-with-gamers-according-to-steams-latest-hardware-survey)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
