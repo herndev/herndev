@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Outstanding move...](http://9gag.com/gag/armjxy7)
- - ⏩ [WTF](http://9gag.com/gag/aKErv66)
- - 👉 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)<!-- MEMES:END -->
+ - 💣 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - ⏩ [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
+ - 👉 [When in Rome, do as Romans do](http://9gag.com/gag/aoKbxKn)<!-- MEMES:END -->
 
 ---
 
