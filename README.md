@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [StatusPro, which makes a first-person simulation NFL game for VR headsets, raised a $20M Series A led by GV &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/240205/p11#a240205p11)
- - [The best Samsung Galaxy S24 Plus cases to buy](https://www.androidauthority.com/best-samsung-galaxy-s24-plus-cases-3403704/)
- - [Please don&#39;t use the Apple Vision Pro while driving](https://appleinsider.com/articles/24/02/05/please-dont-use-the-apple-vision-pro-while-driving?utm_medium=rss)<!-- TECH:END -->
+ - [Platformer’s Casey Newton on surviving the great media collapse and what comes next](https://www.theverge.com/2024/2/5/24059524/platformer-casey-newton-substack-moderation-email-newsletters-media-layoffs)
+ - [Which Bluetooth devices you can use with Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/which-bluetooth-devices-you-can-use-with-apple-vision-pro?utm_medium=rss)
+ - [Amazon bails on Roomba, homeOS possibilities, &amp; more smart home news on HomeKit Insider](https://appleinsider.com/articles/24/02/05/amazon-bails-on-roomba-homeos-possibilities-more-smart-home-news-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
