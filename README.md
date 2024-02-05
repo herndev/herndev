@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I noticed that you like good anvils&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQvVWQ)
- - ⏩ [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
- - 👉 [A small filter making a big difference](http://9gag.com/gag/aKEr83Q)<!-- MEMES:END -->
+ - 💣 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
+ - ⏩ [To be undercover](http://9gag.com/gag/aEqLVAM)
+ - 👉 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)<!-- MEMES:END -->
 
 ---
 
