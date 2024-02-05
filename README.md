@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s true](http://9gag.com/gag/a3ZVyB3)
- - ⏩ [Finally, school 3.](http://9gag.com/gag/aDYE8LK)
- - 👉 [Many such cases](http://9gag.com/gag/ay2OW5r)<!-- MEMES:END -->
+ - 💣 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
+ - ⏩ [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
+ - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
 
 ---
 
