@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us co-creator and director teases a potential third entry: &#39;there&#39;s probably one more chapter to this story&#39;](https://www.pcgamer.com/the-last-of-us-co-creator-and-director-teases-a-potential-third-entry-theres-probably-one-more-chapter-to-this-story)
- - [Star Wars Jedi: Survivor force pulls the grammy for best video game soundtrack](https://www.pcgamer.com/star-wars-jedi-survivor-force-pulls-the-grammy-for-best-video-game-soundtrack)
- - [AMD&#39;s top Zen 5 motherboards will reportedly come in a triple-chip configuration for guaranteed USB4 40Gbps support](https://www.pcgamer.com/amds-top-zen-5-motherboards-will-reportedly-come-in-a-triple-chip-configuration-for-guaranteed-usb4-40gbps-support)<!-- GAME:END -->
+ - [Matthew Vaughn is out to turn Argylle’s post-credits scene into a franchise](https://www.polygon.com/24057329/argylle-post-credits-scene-sequel-kingsman-connections)
+ - [True Detective: Night Country’s dead are screaming louder than the living](https://www.polygon.com/24059780/true-detective-night-country-episode-4-review)
+ - [The Last Of Us co-creator and director teases a potential third entry: &#39;there&#39;s probably one more chapter to this story&#39;](https://www.pcgamer.com/the-last-of-us-co-creator-and-director-teases-a-potential-third-entry-theres-probably-one-more-chapter-to-this-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
