@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I noticed that you like good anvils&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQvVWQ)
- - ⏩ [A small filter making a big difference](http://9gag.com/gag/aKEr83Q)
- - 👉 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)<!-- MEMES:END -->
+ - ⏩ [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
+ - 👉 [A small filter making a big difference](http://9gag.com/gag/aKEr83Q)<!-- MEMES:END -->
 
 ---
 
