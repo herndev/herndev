@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Boss Breaks Silence Following PlayStation Port Rumors](https://kotaku.com/xbox-boss-announces-event-after-playstation-port-rumors-1851227144)
- - [This strategy game&#39;s historical ignorance made me so mad I became a post-apocalyptic dictator out of spite](https://www.pcgamer.com/this-strategy-games-historical-ignorance-made-me-so-mad-i-became-a-post-apocalyptic-dictator-out-of-spite)
- - [The Week In Games: Co-Op Bug Blasting And More New Releases](https://kotaku.com/new-games-this-week-february-foamstars-helldivers-2-1851226395)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for February 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Sonic Fans Are Stoked To Probably Watch A Child Die In The New Movie](https://kotaku.com/sonic-the-hedgehog-3-movie-shadow-maria-death-actor-1851227374)
+ - [&lpar;Mostly terrible&rpar; CGI cats in movies, ranked](https://www.polygon.com/24059631/cats-movies-ranked-cgi-garfield-argylle-marvels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
