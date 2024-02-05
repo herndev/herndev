@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Schitt&#39;s Creek star Catherine O&#39;Hara joins HBO&#39;s The Last of Us in an &#39;undisclosed role&#39;](https://www.pcgamer.com/schitts-creek-star-catherine-ohara-joins-hbos-the-last-of-us-in-an-undisclosed-role)
- - [The Last Of Us Part II Actor Says Fans Threatened Her Son](https://kotaku.com/last-of-us-part-2-abby-laura-bailey-threats-grounded-1851222035)
- - [Over 500 Studios Are Working On Live-Service Games](https://kotaku.com/live-service-games-95-studios-destiny-suicide-squad-1851221959)<!-- GAME:END -->
+ - [Resident Evil 4 remake sold well over 6M copies, comprehensive gold edition coming this week](https://www.pcgamer.com/resident-evil-4-remake-sold-well-over-6m-copies-comprehensive-gold-edition-coming-this-week)
+ - [Hellcard brings its chunky co-op deckbuilding to a full release](https://www.pcgamer.com/hellcard-brings-its-chunky-co-op-deckbuilding-to-a-full-release)
+ - [A group of modders have spent 10 years honing a remake of StarCraft 1 and Brood War in StarCraft 2, complete with remastered cutscenes and custom unit models](https://www.pcgamer.com/a-group-of-modders-have-spent-10-years-honing-a-remake-of-starcraft-1-and-brood-war-in-starcraft-2-complete-with-remastered-cutscenes-and-custom-unit-models)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
