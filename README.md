@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo season 2, the Super Bowl, and more new TV this week](https://www.polygon.com/2024/2/5/24033106/new-tv-halo-season-2-super-bowl-time-netflix)
- - [Game of Thrones’ canceled prequel spinoff gets a very surprising reveal](https://www.polygon.com/24062273/game-thrones-canceled-long-night-prequel-spinoff-first-look-naomi-watts)
- - [The Kodansha Humble bundle is the perfect manga starter kit for $25](https://www.polygon.com/deals/24062169/kodansha-manga-deal-humble-bundle-witch-hat-atelier)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240201-2000&rpar;](https://news.xbox.com/en-us/2024/02/05/xbox-insider-release-notes-beta-2402-240201-2000/)
+ - [Tracy Chapman’s ‘Fast Car’ Grammys performance is what awards shows are made for](https://www.polygon.com/24062412/tracy-chapmans-fast-car-grammys)
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240131-2200&rpar;](https://news.xbox.com/en-us/2024/02/05/xbox-insider-release-notes-alpha-2403-240131-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
