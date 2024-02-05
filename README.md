@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Matthew Vaughn is out to turn Argylle’s post-credits scene into a franchise](https://www.polygon.com/24057329/argylle-post-credits-scene-sequel-kingsman-connections)
- - [True Detective: Night Country’s dead are screaming louder than the living](https://www.polygon.com/24059780/true-detective-night-country-episode-4-review)
- - [The Last Of Us co-creator and director teases a potential third entry: &#39;there&#39;s probably one more chapter to this story&#39;](https://www.pcgamer.com/the-last-of-us-co-creator-and-director-teases-a-potential-third-entry-theres-probably-one-more-chapter-to-this-story)<!-- GAME:END -->
+ - [Banishers: Ghosts of New Eden – Meet Lost Ghosts and Determine Their Fate in Haunting Cases](https://news.xbox.com/en-us/2024/02/05/banishers-ghosts-of-new-eden-haunting-cases/)
+ - [I Played TLOU 2 and Ragnarok With PlayStation&#39;s Access Controller](https://kotaku.com/access-controller-tlou-2-ragnarok-1851221873)
+ - [Radeon graphics cards maybe aren&#39;t as popular as AMD might like us to think they are, at least according to the Steam HW Survey](https://www.pcgamer.com/radeon-graphics-cards-maybe-arent-as-popular-as-amd-might-like-us-to-think-they-are-at-least-according-to-the-steam-hw-survey)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
