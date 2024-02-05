@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
- - ⏩ [277](http://9gag.com/gag/a2KnDp1)
- - 👉 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)<!-- MEMES:END -->
+ - 💣 [You don&#39;t say?](http://9gag.com/gag/a6qABXb)
+ - ⏩ [Experience exciting](http://9gag.com/gag/aYV2ME7)
+ - 👉 [A redneck home alone game would f**k](http://9gag.com/gag/aA0o2Pd)<!-- MEMES:END -->
 
 ---
 
