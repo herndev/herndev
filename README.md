@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/nothing-phone-2a-3401932/)
- - [Apple’s latest AirPods have fallen to some of their best prices to date](https://www.theverge.com/2024/2/5/24062168/apple-second-third-gen-airpods-wireless-earbuds-deal-sale)
- - [PSA: Despite what your Pixel 7 says, it doesn’t have Circle to Search &lpar;yet&rpar;](https://www.androidauthority.com/pixel-7-circle-to-search-error-3410833/)<!-- TECH:END -->
+ - [February 2024 Android security patch here for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/february-2024-android-security-patch-3410933/)
+ - [Tesla Has Lost Its Range Crown to a Chinese EV You’ve Never Heard Of](https://www.wired.com/story/tesla-hiphi-ev-range-crown/)
+ - [YouTube says a Vision Pro app is ‘on the roadmap’](https://www.theverge.com/2024/2/5/24062425/youtube-vision-pro-app-360-vr-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
