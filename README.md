@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
- - [Android 15 could add built-in support for app archiving](https://www.androidauthority.com/android-15-app-archiving-3410645/)
- - [Microsoft strikes an AI deal with Semafor for a breaking news feed called Signals; Ben Smith says it will be written by journalists, using AI as a research tool &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/240205/p19#a240205p19)<!-- TECH:END -->
+ - [Semafor reporters are going to curate the news with AI](https://www.theverge.com/2024/2/5/24062229/semafor-signals-miso-ai-microsoft)
+ - [Who will deliver immersive content for Apple Vision Pro?](https://appleinsider.com/articles/24/02/05/who-will-deliver-immersive-content-for-apple-vision-pro?utm_medium=rss)
+ - [7 Best Valentine&#39;s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
