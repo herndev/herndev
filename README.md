@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
- - ⏩ [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
+ - 💣 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
+ - ⏩ [277](http://9gag.com/gag/a2KnDp1)
+ - 👉 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)<!-- MEMES:END -->
 
 ---
 
