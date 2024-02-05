@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals: AirPods $89, M2 Mac mini $499, Apple Pencil $69, $180 off Sonos Arc Soundbar, more](https://appleinsider.com/articles/24/02/05/daily-deals-airpods-89-m2-mac-mini-499-apple-pencil-69-180-off-sonos-arc-soundbar-more?utm_medium=rss)
- - [How to force quit apps in visionOS for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-force-quit-apps-in-visionos-for-apple-vision-pro?utm_medium=rss)
- - [Nothing Phone 2a leak shows it may scrap this iconic feature](https://www.androidauthority.com/nothing-phone-2a-render-3410808/)<!-- TECH:END -->
+ - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
+ - [Android 15 could add built-in support for app archiving](https://www.androidauthority.com/android-15-app-archiving-3410645/)
+ - [Microsoft strikes an AI deal with Semafor for a breaking news feed called Signals; Ben Smith says it will be written by journalists, using AI as a research tool &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/240205/p19#a240205p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
