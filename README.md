@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU will force companies to give you an extra 12-month guarantee for repairs](https://www.androidauthority.com/europe-right-to-repair-legislation-12-months-3410699/)
- - [Tax Season 2024: The Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-the-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
- - [Tax Season 2024: What You Need to Know About All the Tax Filing Deadlines This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-what-you-need-to-know-about-all-the-tax-filing-deadlines-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [French IT group Atos has entered talks with its banks to refinance its debt, and says conditions for a planned &amp;euro;720M rights issue are &quot;no longer applicable&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240205/p4#a240205p4)
+ - [9-1-1 season 7: Release date, cast, and the latest rumors](https://www.androidauthority.com/911-season-7-release-date-3410722/)
+ - [The EU will force companies to give you an extra 12-month guarantee for repairs](https://www.androidauthority.com/europe-right-to-repair-legislation-12-months-3410699/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
