@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Honkai: Star Rail Black Swan build](https://www.pcgamer.com/honkai-star-rail-black-swan-build)
- - [Resizeable BAR mod for older gaming PCs, said to deliver up to 12% more performance, could breath a little more life into systems as old as Sandy Bridge](https://www.pcgamer.com/resizeable-bar-mod-for-older-gaming-pcs-said-to-deliver-up-to-12-more-performance-could-breath-a-little-more-life-into-systems-as-old-as-sandy-bridge)
- - [Dave the Diver plushies are coming](https://www.polygon.com/24062088/dave-the-diver-plush-toy-good-smile-company)<!-- GAME:END -->
+ - [This year&#39;s &#39;Windows 12&#39; might just be nothing more than a large update for Windows 11, rather than a whole new operating system](https://www.pcgamer.com/this-years-windows-12-might-just-be-nothing-more-than-a-large-update-for-windows-11-rather-than-a-whole-new-operating-system)
+ - [The Last of Us Part 2 Remastered, Clue, and Oppenheimer are part of Amazon and Target’s latest sale](https://www.polygon.com/24062070/amazon-target-gaming-deals-movies-board-games-buy-one-get-half-off)
+ - [Former Skull and Bones director says making a separate solo campaign ‘would have prevented the team from creating a really deep open world’](https://www.pcgamer.com/former-skull-and-bones-director-says-making-a-separate-solo-campaign-would-have-prevented-the-team-from-creating-a-really-deep-open-world)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
