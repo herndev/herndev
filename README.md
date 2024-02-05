@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
- - ⏩ [Aduh](http://9gag.com/gag/aqeqQAv)
- - 👉 [Oh, no! Anyway...](http://9gag.com/gag/aDYEZed)<!-- MEMES:END -->
+ - 💣 [Outstanding move...](http://9gag.com/gag/armjxy7)
+ - ⏩ [WTF](http://9gag.com/gag/aKErv66)
+ - 👉 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)<!-- MEMES:END -->
 
 ---
 
