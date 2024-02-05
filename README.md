@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marriage](http://9gag.com/gag/aPgKPLK)
- - ⏩ [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 👉 [Massage](http://9gag.com/gag/aDYEbzx)<!-- MEMES:END -->
+ - 💣 [Quick maths](http://9gag.com/gag/aeQv4Ev)
+ - ⏩ [Massage](http://9gag.com/gag/aDYEbzx)
+ - 👉 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)<!-- MEMES:END -->
 
 ---
 
