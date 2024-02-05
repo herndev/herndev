@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail codes for February 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Sonic Fans Are Stoked To Probably Watch A Child Die In The New Movie](https://kotaku.com/sonic-the-hedgehog-3-movie-shadow-maria-death-actor-1851227374)
- - [&lpar;Mostly terrible&rpar; CGI cats in movies, ranked](https://www.polygon.com/24059631/cats-movies-ranked-cgi-garfield-argylle-marvels)<!-- GAME:END -->
+ - [This Enshrouded spell is so ridiculously OP I&#39;ve been one-shotting bosses with it—and I&#39;m not even a wizard](https://www.pcgamer.com/this-enshrouded-spell-is-so-ridiculously-op-ive-been-one-shotting-bosses-with-itand-im-not-even-a-wizard)
+ - [Amid mounting rumors of Xbox games coming to PlayStation, Phil Spencer announces a &#39;business update&#39; for next week](https://www.pcgamer.com/amid-mounting-rumors-of-xbox-games-coming-to-playstation-phil-spencer-announces-a-business-update-for-next-week)
+ - [Palworld players are building some impressive bases](https://www.polygon.com/gaming/24062670/palworld-impressive-bases)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
