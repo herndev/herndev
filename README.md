@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zenfone 11 Ultra leak reveals striking resemblance to this gaming phone](https://www.androidauthority.com/asus-zenfone-11-ultra-leaked-renders-3410677/)
- - [Teardown reveals Samsung Galaxy S24 Ultra’s Titanium is less durable than iPhone 15 Pro’s](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-titanium-3410675/)
- - [Google Bard could get renamed to Gemini in a couple of days](https://www.androidauthority.com/google-bard-gemini-rename-february-7-3409906/)<!-- TECH:END -->
+ - [The EU will force companies to give you an extra 12-month guarantee for repairs](https://www.androidauthority.com/europe-right-to-repair-legislation-12-months-3410699/)
+ - [Tax Season 2024: The Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-the-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
+ - [Tax Season 2024: What You Need to Know About All the Tax Filing Deadlines This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-what-you-need-to-know-about-all-the-tax-filing-deadlines-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
