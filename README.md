@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
- - ⏩ [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 👉 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)<!-- MEMES:END -->
+ - 💣 [When in Rome, do as Romans do](http://9gag.com/gag/aoKbxKn)
+ - ⏩ [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 👉 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)<!-- MEMES:END -->
 
 ---
 
