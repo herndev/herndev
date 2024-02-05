@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - ⏩ [Old but gold](http://9gag.com/gag/a7qzO1q)
- - 👉 [To be undercover](http://9gag.com/gag/aEqLVAM)<!-- MEMES:END -->
+ - 💣 [It&#39;s true](http://9gag.com/gag/a3ZVyB3)
+ - ⏩ [Finally, school 3.](http://9gag.com/gag/aDYE8LK)
+ - 👉 [Many such cases](http://9gag.com/gag/ay2OW5r)<!-- MEMES:END -->
 
 ---
 
