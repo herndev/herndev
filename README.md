@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Banishers: Ghosts of New Eden – Meet Lost Ghosts and Determine Their Fate in Haunting Cases](https://news.xbox.com/en-us/2024/02/05/banishers-ghosts-of-new-eden-haunting-cases/)
- - [I Played TLOU 2 and Ragnarok With PlayStation&#39;s Access Controller](https://kotaku.com/access-controller-tlou-2-ragnarok-1851221873)
- - [Radeon graphics cards maybe aren&#39;t as popular as AMD might like us to think they are, at least according to the Steam HW Survey](https://www.pcgamer.com/radeon-graphics-cards-maybe-arent-as-popular-as-amd-might-like-us-to-think-they-are-at-least-according-to-the-steam-hw-survey)<!-- GAME:END -->
+ - [The best Honkai: Star Rail Black Swan build](https://www.pcgamer.com/honkai-star-rail-black-swan-build)
+ - [Resizeable BAR mod for older gaming PCs, said to deliver up to 12% more performance, could breath a little more life into systems as old as Sandy Bridge](https://www.pcgamer.com/resizeable-bar-mod-for-older-gaming-pcs-said-to-deliver-up-to-12-more-performance-could-breath-a-little-more-life-into-systems-as-old-as-sandy-bridge)
+ - [Dave the Diver plushies are coming](https://www.polygon.com/24062088/dave-the-diver-plush-toy-good-smile-company)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
