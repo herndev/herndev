@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick maths](http://9gag.com/gag/aeQv4Ev)
- - ⏩ [Massage](http://9gag.com/gag/aDYEbzx)
- - 👉 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)<!-- MEMES:END -->
+ - 💣 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
+ - ⏩ [Aduh](http://9gag.com/gag/aqeqQAv)
+ - 👉 [Oh, no! Anyway...](http://9gag.com/gag/aDYEZed)<!-- MEMES:END -->
 
 ---
 
