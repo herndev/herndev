@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, February 5](https://www.pcgamer.com/wordle-today-answer-february-5-2024)
  - [Windows 11 gains traction with gamers according to Steam&#39;s latest Hardware Survey](https://www.pcgamer.com/windows-11-gains-traction-with-gamers-according-to-steams-latest-hardware-survey)
- - [Five new Steam games you probably missed &lpar;February 5, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-5-2024)
- - [This browser-based &#39;endless crafting game&#39; starts you off with fire and water, but it quickly escalates to God, the Big Bang, and &#39;Yin-Yoda&#39;](https://www.pcgamer.com/this-browser-based-endless-crafting-game-starts-you-off-with-fire-and-water-but-it-quickly-escalates-to-god-the-big-bang-and-yin-yoda)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;February 5, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-5-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
