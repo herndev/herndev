@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - ⏩ [If you\u2019re ever in Norway, I run a hotel and degenerates are always welcome!](http://9gag.com/gag/aVbNvgn)
- - 👉 [London Acid Attacker identified as Abdul Shokoor Ezedi. The attacker threw acid in the faces of 12 people last night in Clapham South, London. 2 children were among the victims- one of them aged 3. He is currently at large with a massive manhunt underway. If you see him, call 999](http://9gag.com/gag/ap9WNVD)<!-- MEMES:END -->
+ - 💣 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - ⏩ [Old but gold](http://9gag.com/gag/a7qzO1q)
+ - 👉 [To be undercover](http://9gag.com/gag/aEqLVAM)<!-- MEMES:END -->
 
 ---
 
