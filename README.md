@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [277](http://9gag.com/gag/a2KnDp1)
- - ⏩ [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
+ - 💣 [Fellas , always start early](http://9gag.com/gag/abv9x28)
+ - ⏩ [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
  - 👉 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)<!-- MEMES:END -->
 
 ---
