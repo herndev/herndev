@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You don&#39;t say?](http://9gag.com/gag/a6qABXb)
- - ⏩ [Experience exciting](http://9gag.com/gag/aYV2ME7)
- - 👉 [A redneck home alone game would f**k](http://9gag.com/gag/aA0o2Pd)<!-- MEMES:END -->
+ - 💣 [277](http://9gag.com/gag/a2KnDp1)
+ - ⏩ [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
+ - 👉 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)<!-- MEMES:END -->
 
 ---
 
