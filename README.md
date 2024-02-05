@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French IT group Atos has entered talks with its banks to refinance its debt, and says conditions for a planned &amp;euro;720M rights issue are &quot;no longer applicable&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240205/p4#a240205p4)
- - [9-1-1 season 7: Release date, cast, and the latest rumors](https://www.androidauthority.com/911-season-7-release-date-3410722/)
- - [The EU will force companies to give you an extra 12-month guarantee for repairs](https://www.androidauthority.com/europe-right-to-repair-legislation-12-months-3410699/)<!-- TECH:END -->
+ - [Sources: soaring appetite for its AI chips and manufacturing constraints have forced Huawei to prioritise AI and slow production for its premium Mate 60 phones &lpar;Reuters&rpar;](http://www.techmeme.com/240205/p6#a240205p6)
+ - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)
+ - [Oversight Board upholds Meta&#39;s decision to leave up a maliciously edited video of Biden but calls on Meta to update its &quot;incoherent&quot; manipulated media policy &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240205/p5#a240205p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
