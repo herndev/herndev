@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Royal Pain...](http://9gag.com/gag/a6qApEm)
- - ⏩ [277](http://9gag.com/gag/a2KnDp1)
- - 👉 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)<!-- MEMES:END -->
+ - 💣 [Fun project](http://9gag.com/gag/amAE65v)
+ - ⏩ [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 👉 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)<!-- MEMES:END -->
 
 ---
 
