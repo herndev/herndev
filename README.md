@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami&#39;s barebones Metal Gear Solid collection gets further unofficial support, as modders enable a &#39;widescreen hack&#39; for MGS 1](https://www.pcgamer.com/konamis-barebones-metal-gear-solid-collection-gets-further-unofficial-support-as-modders-enable-a-widescreen-hack-for-mgs-1)
- - [The best Palworld settings to tweak for catching Pals, exploration, and speedy progress](https://www.pcgamer.com/palworld-settings-best)
- - [Resident Evil 3 comes to Game Pass in February, a great chaser for the RE2 remake](https://www.polygon.com/24063422/xbox-game-pass-pc-february-2024-games-release-dates)<!-- GAME:END -->
+ - [Alisa – Developer’s Cut Brings Us to the Dollhouse](https://news.xbox.com/en-us/2024/02/06/alisa-developers-cut-on-xbox/)
+ - [Synergy has shot straight to the top of my most anticipated survival city builders list thanks to its Next Fest demo](https://www.pcgamer.com/synergy-has-shot-straight-to-the-top-of-my-most-anticipated-survival-city-builders-list-thanks-to-its-next-fest-demo)
+ - [PlayStation Plus’ February free games include Square Enix’s foam party and roller derby murder](https://www.polygon.com/24048007/playstation-plus-february-2024-monthly-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
