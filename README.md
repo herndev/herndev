@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - ⏩ [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
+ - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
+ - ⏩ [You know what...](http://9gag.com/gag/a5X8jVg)
  - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---
