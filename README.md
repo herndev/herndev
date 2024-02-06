@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
  - ⏩ [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
- - 👉 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)<!-- MEMES:END -->
+ - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---
 
