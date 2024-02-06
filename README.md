@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload guide: Classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)
- - [Brainiac himself seemingly leaks a future Suicide Squad playable character](https://www.pcgamer.com/brainiac-himself-seemingly-leaks-a-future-suicide-squad-playable-character)
- - [The Church Of Xbox Is Going Through Its Own Armageddon](https://kotaku.com/xbox-fans-content-creators-ps5-ports-starfield-rumors-1851230962)<!-- GAME:END -->
+ - [Where To Find Palworld&#39;s Helpful Black Marketeers](https://kotaku.com/black-marketeer-locations-palworld-1851231680)
+ - [Remastered Tomb Raider Collection On PS4 Has Something The PS5 Version Doesn&#39;t](https://kotaku.com/tomb-raider-1-3-remastered-remake-ps5-missing-trophy-1851231643)
+ - [Surprise! Steam&#39;s Lunar New Year Sale is back](https://www.pcgamer.com/steam-lunar-new-year-sale-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
