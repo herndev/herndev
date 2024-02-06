@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
- - ⏩ [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 👉 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)<!-- MEMES:END -->
+ - 💣 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
+ - ⏩ [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
 
 ---
 
