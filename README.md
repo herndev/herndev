@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Enshrouded spell is so ridiculously OP I&#39;ve been one-shotting bosses with it—and I&#39;m not even a wizard](https://www.pcgamer.com/this-enshrouded-spell-is-so-ridiculously-op-ive-been-one-shotting-bosses-with-itand-im-not-even-a-wizard)
- - [Amid mounting rumors of Xbox games coming to PlayStation, Phil Spencer announces a &#39;business update&#39; for next week](https://www.pcgamer.com/amid-mounting-rumors-of-xbox-games-coming-to-playstation-phil-spencer-announces-a-business-update-for-next-week)
- - [Palworld players are building some impressive bases](https://www.polygon.com/gaming/24062670/palworld-impressive-bases)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s quad world record-holding speedrunner dishes on the invisible bears, companion murdering, and moon jumping that changed her life](https://www.pcgamer.com/baldurs-gate-3s-quad-world-record-holding-speedrunner-dishes-on-the-invisible-bears-companion-murdering-and-moon-jumping-that-changed-her-life)
+ - [Henry Cavill says heading up the Warhammer 40,000 cinematic universe is &#39;the greatest privilege of my professional career&#39;](https://www.pcgamer.com/henry-cavill-says-heading-up-the-warhammer-40000-cinematic-universe-is-the-greatest-privilege-of-my-professional-career)
+ - [Assassin&#39;s Creed Origins voice actor says heading up his own studio has been &#39;terrifying&#39; but the Steam Next Fest demo for its first game is pretty great](https://www.pcgamer.com/assassins-creed-origins-voice-actor-says-heading-up-his-own-studio-has-been-terrifying-but-the-steam-next-fest-demo-for-its-first-game-is-pretty-great)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
