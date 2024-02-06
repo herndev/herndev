@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
- - ⏩ [277](http://9gag.com/gag/a2KnDp1)
- - 👉 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)<!-- MEMES:END -->
+ - 💣 [277](http://9gag.com/gag/a2KnDp1)
+ - ⏩ [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 👉 [You know what...](http://9gag.com/gag/a5X8jVg)<!-- MEMES:END -->
 
 ---
 
