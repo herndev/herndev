@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro is getting mobile device management features in visionOS 1.1](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-getting-mobile-device-management-features-in-visionos-11?utm_medium=rss)
- - [Here’s how WhatsApp plans to interoperate with other messaging apps](https://www.theverge.com/2024/2/6/24063705/whatsapp-interoperability-plans-eu-dma)
- - [Mystery Company Linked to Biden Robocall Identified by New Hampshire Attorney General](https://www.wired.com/story/new-hampshire-biden-ai-robocall/)<!-- TECH:END -->
+ - [Spotify’s transformed podcast business may actually be profitable this year](https://www.theverge.com/2024/2/6/24063821/spotify-earnings-profit-podcast-rogan-hot-pod-summit)
+ - [Apple TV+ snags critically acclaimed Sundance film starring Lily Gladstone](https://appleinsider.com/articles/24/02/06/apple-tv-snags-critically-acclaimed-sundance-film-starring-lily-gladstone?utm_medium=rss)
+ - [Disney Plus’ restrictions on password sharing are now rolling out to US subscribers](https://www.theverge.com/2024/2/6/24063799/disney-plus-password-crackdown-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
