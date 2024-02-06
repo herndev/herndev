@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF](http://9gag.com/gag/aKErv66)
- - ⏩ [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
- - 👉 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)<!-- MEMES:END -->
+ - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - ⏩ [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 👉 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)<!-- MEMES:END -->
 
 ---
 
