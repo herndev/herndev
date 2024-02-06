@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
- - ⏩ [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
+ - 💣 [Royal Pain...](http://9gag.com/gag/a6qApEm)
+ - ⏩ [277](http://9gag.com/gag/a2KnDp1)
+ - 👉 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)<!-- MEMES:END -->
 
 ---
 
