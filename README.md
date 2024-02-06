@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [A look at Meta&#39;s plan to build interoperability into WhatsApp and Messenger under the DMA; Meta plans to make third-party chats opt-in and in a separate inbox &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240206/p26#a240206p26)
- - [Consensys announces MetaMask integration with Robinhood, letting MetaMask users purchase USDC, ether, bitcoin, and other crypto via Robinhood&#39;s order engine &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240206/p25#a240206p25)<!-- TECH:END -->
+ - [Apple Vision Pro is getting mobile device management features in visionOS 1.1](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-getting-mobile-device-management-features-in-visionos-11?utm_medium=rss)
+ - [Here’s how WhatsApp plans to interoperate with other messaging apps](https://www.theverge.com/2024/2/6/24063705/whatsapp-interoperability-plans-eu-dma)
+ - [Mystery Company Linked to Biden Robocall Identified by New Hampshire Attorney General](https://www.wired.com/story/new-hampshire-biden-ai-robocall/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
