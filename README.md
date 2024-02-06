@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Webex for Apple Vision Pro officially launches with Persona support](https://appleinsider.com/articles/24/02/06/webex-for-apple-vision-pro-officially-launches-with-persona-support?utm_medium=rss)
- - [Nintendo reports Q3 net sales of ~$4B and net profit of ~$919M, both above estimates, expects to sell 15.5M Switch consoles in current fiscal year, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240206/p1#a240206p1)
- - [Your Pixel Watch is now getting the February security patch](https://www.androidauthority.com/pixel-watch-february-security-patch-3411012/)<!-- TECH:END -->
+ - [This Windows tool makes it super easy to debloat and cut down ads on your Android TV](https://www.androidauthority.com/android-tv-tools-windows-tool-3411045/)
+ - [Sony’s latest PS5 beta improves DualSense controller audio and screen sharing](https://www.theverge.com/2024/2/6/24063160/sony-ps5-beta-update-dual-sense-controller-speaker-microphone-screen-sharing)
+ - [Unit 42: the number of victims reported by ransomware leak sites grew 49% YoY in 2023, with ~50% in the US, despite authorities taking down some services &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240206/p2#a240206p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
