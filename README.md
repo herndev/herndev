@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s quad world record-holding speedrunner dishes on the invisible bears, companion murdering, and moon jumping that changed her life](https://www.pcgamer.com/baldurs-gate-3s-quad-world-record-holding-speedrunner-dishes-on-the-invisible-bears-companion-murdering-and-moon-jumping-that-changed-her-life)
- - [Henry Cavill says heading up the Warhammer 40,000 cinematic universe is &#39;the greatest privilege of my professional career&#39;](https://www.pcgamer.com/henry-cavill-says-heading-up-the-warhammer-40000-cinematic-universe-is-the-greatest-privilege-of-my-professional-career)
- - [Assassin&#39;s Creed Origins voice actor says heading up his own studio has been &#39;terrifying&#39; but the Steam Next Fest demo for its first game is pretty great](https://www.pcgamer.com/assassins-creed-origins-voice-actor-says-heading-up-his-own-studio-has-been-terrifying-but-the-steam-next-fest-demo-for-its-first-game-is-pretty-great)<!-- GAME:END -->
+ - [This Townscaper-like building game on &#39;the dark side of cozy&#39; is the perfect lock screen photo designer](https://www.pcgamer.com/this-townscaper-like-building-game-on-the-dark-side-of-cozy-is-the-perfect-lock-screen-photo-designer)
+ - [It sounds like Halo Season 2 still hasn&#39;t nailed how to turn Halo into a great TV show](https://www.pcgamer.com/it-sounds-like-halo-season-2-still-hasnt-nailed-how-to-turn-halo-into-a-great-tv-show)
+ - [Magic Mike’s Last Dance coming to Netflix makes it easy to watch its one great scene](https://www.polygon.com/23747222/magic-mike-last-dance-best-scene-channing-tatum-salma-hayek-pinault)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
