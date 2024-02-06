@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Public Interest Registry will give domain registries free access to tools from the Internet Watch Foundation to crack down on the spread of CSAM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240206/p32#a240206p32)
- - [Fox, ESPN, and Warner Bros. Discovery are creating a joint streaming platform to share sports assets; sources: it will be available to ESPN+, Hulu and Max subs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240206/p31#a240206p31)
- - [Elon Musk is backing Mandalorian actor’s suit against Disney](https://www.theverge.com/2024/2/6/24063897/gina-carano-disney-lawsuit-mandalorian-elon-musk)<!-- TECH:END -->
+ - [A US federal judge rules Apple won&#39;t have to face AliveCor&#39;s lawsuit alleging Apple&#39;s Watch copied heart-monitoring technology from the medical device company &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240206/p34#a240206p34)
+ - [10 common WhatsApp scams and how to avoid them](https://www.androidauthority.com/common-whatsapp-scams-3411330/)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
