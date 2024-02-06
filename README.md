@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - ⏩ [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 👉 [Feel old yet?](http://9gag.com/gag/aGEWOLz)<!-- MEMES:END -->
+ - 💣 [That is a good door](http://9gag.com/gag/aBd74ZN)
+ - ⏩ [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 👉 [What do you guys think?](http://9gag.com/gag/a042EXB)<!-- MEMES:END -->
 
 ---
 
