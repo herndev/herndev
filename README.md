@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - ⏩ [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
+ - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
+ - ⏩ [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 👉 [Feel old yet?](http://9gag.com/gag/aGEWOLz)<!-- MEMES:END -->
 
 ---
 
