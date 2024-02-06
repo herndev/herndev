@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 story recap, plus free post-launch story updates confirmed](https://blog.playstation.com/2024/02/06/helldivers-2-story-recap-plus-free-post-launch-story-updates-confirmed/)
- - [Madden Super Week Returns with New Field the Future Event, Madden NFL 24 Arriving with Game Pass, and More](https://news.xbox.com/en-us/2024/02/06/madden-super-week-returns-with-madden-24-with-game-pass/)
- - [Legend in the Mist has a wild new ruleset where words are more powerful than numbers](https://www.polygon.com/tabletop-games/24059209/legend-in-the-mist-preview-ttrpg-kickstarter-release-date-price)<!-- GAME:END -->
+ - [Konami&#39;s barebones Metal Gear Solid collection gets further unofficial support, as modders enable a &#39;widescreen hack&#39; for MGS 1](https://www.pcgamer.com/konamis-barebones-metal-gear-solid-collection-gets-further-unofficial-support-as-modders-enable-a-widescreen-hack-for-mgs-1)
+ - [The best Palworld settings to tweak for catching Pals, exploration, and speedy progress](https://www.pcgamer.com/palworld-settings-best)
+ - [Resident Evil 3 comes to Game Pass in February, a great chaser for the RE2 remake](https://www.polygon.com/24063422/xbox-game-pass-pc-february-2024-games-release-dates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
