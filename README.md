@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload social link answers and unlock requirements](https://www.polygon.com/guides/24063889/persona-3-reload-social-link-answers-links-dialogue-p3r-unlock)
- - [Modders resurrect forgotten first-party PlayStation RPG with a PC port that&#39;s already better than the original and promise 4K and 60FPS &#39;in the next few months&#39;](https://www.pcgamer.com/modders-resurrect-forgotten-first-party-playstation-rpg-with-a-pc-port-thats-already-better-than-the-original-and-promise-4k-and-60fps-in-the-next-few-months)
- - [There&#39;s so much cool stuff coming to Crusader Kings 3 this year that I&#39;m not sure what to be most excited for](https://www.pcgamer.com/crusader-kings-3-chapter-3-announcement)<!-- GAME:END -->
+ - [Skull And Bones Has Released Nearly 30 Trailers Over 7 Years](https://kotaku.com/skull-and-bones-every-trailer-teaser-2018-release-date-1851232440)
+ - [Game designer Laralyn McWilliams, known for army training-sim-turned-game Full Spectrum Warrior and innovative F2P MMO Free Realms, has died](https://www.pcgamer.com/game-designer-laralyn-mcwilliams-known-for-army-training-sim-turned-game-full-spectrum-warrior-and-innovative-f2p-mmo-free-realms-has-died)
+ - [Crusader Kings 3’s third chapter of DLC is all about prestige and plagues](https://www.polygon.com/24063971/crusader-kings-3-chapter-three-dlc-black-plague-byzantine-empire)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
