@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s transformed podcast business may actually be profitable this year](https://www.theverge.com/2024/2/6/24063821/spotify-earnings-profit-podcast-rogan-hot-pod-summit)
- - [Apple TV+ snags critically acclaimed Sundance film starring Lily Gladstone](https://appleinsider.com/articles/24/02/06/apple-tv-snags-critically-acclaimed-sundance-film-starring-lily-gladstone?utm_medium=rss)
- - [Disney Plus’ restrictions on password sharing are now rolling out to US subscribers](https://www.theverge.com/2024/2/6/24063799/disney-plus-password-crackdown-us)<!-- TECH:END -->
+ - [The Public Interest Registry will give domain registries free access to tools from the Internet Watch Foundation to crack down on the spread of CSAM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240206/p32#a240206p32)
+ - [Fox, ESPN, and Warner Bros. Discovery are creating a joint streaming platform to share sports assets; sources: it will be available to ESPN+, Hulu and Max subs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240206/p31#a240206p31)
+ - [Elon Musk is backing Mandalorian actor’s suit against Disney](https://www.theverge.com/2024/2/6/24063897/gina-carano-disney-lawsuit-mandalorian-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
