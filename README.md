@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Quake level pack transforms iconic multiplayer maps into thrilling singleplayer death mazes](https://www.pcgamer.com/this-quake-level-pack-transforms-iconic-multiplayer-maps-into-thrilling-single-player-death-mazes)
- - [Obsidian says combat in Avowed will be good, actually, following criticism of battles shown in last month&#39;s game overview trailer](https://www.pcgamer.com/obsidian-says-combat-in-avowed-will-be-good-actually-following-criticism-of-battles-shown-in-last-months-game-overview-trailer)
- - [Persona 3 Reload Gives Me Hope Persona 6 Can Do Right By Queer Fans](https://kotaku.com/persona-3-reload-gay-social-link-takaya-ryoji-akihiko-1851227577)<!-- GAME:END -->
+ - [Helldivers 2 story recap, plus free post-launch story updates confirmed](https://blog.playstation.com/2024/02/06/helldivers-2-story-recap-plus-free-post-launch-story-updates-confirmed/)
+ - [Madden Super Week Returns with New Field the Future Event, Madden NFL 24 Arriving with Game Pass, and More](https://news.xbox.com/en-us/2024/02/06/madden-super-week-returns-with-madden-24-with-game-pass/)
+ - [Legend in the Mist has a wild new ruleset where words are more powerful than numbers](https://www.polygon.com/tabletop-games/24059209/legend-in-the-mist-preview-ttrpg-kickstarter-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
