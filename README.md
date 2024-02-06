@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PS5 beta adds DualSense controller sound enhancements and Share Screen interactions](https://blog.playstation.com/2024/02/06/ps5-beta-adds-dualsense-controller-sound-enhancements-and-share-screen-interactions/)
  - [Today&#39;s Wordle answer for Tuesday, February 6](https://www.pcgamer.com/wordle-today-answer-february-6-2024)
- - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)
- - [This Townscaper-like building game on &#39;the dark side of cozy&#39; is the perfect lock screen photo designer](https://www.pcgamer.com/this-townscaper-like-building-game-on-the-dark-side-of-cozy-is-the-perfect-lock-screen-photo-designer)<!-- GAME:END -->
+ - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
