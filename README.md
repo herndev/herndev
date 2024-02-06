@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [277](http://9gag.com/gag/a2KnDp1)
- - ⏩ [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
+ - 💣 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - ⏩ [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
 
 ---
 
