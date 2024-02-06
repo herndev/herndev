@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Webex for Apple Vision Pro officially launches with Persona support](https://appleinsider.com/articles/24/02/06/webex-for-apple-vision-pro-officially-launches-with-persona-support?utm_medium=rss)
  - [Nintendo reports Q3 net sales of ~$4B and net profit of ~$919M, both above estimates, expects to sell 15.5M Switch consoles in current fiscal year, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240206/p1#a240206p1)
- - [Your Pixel Watch is now getting the February security patch](https://www.androidauthority.com/pixel-watch-february-security-patch-3411012/)
- - [Zenfone 11 Ultra gets leaked again in high quality renders](https://www.androidauthority.com/asus-zenfone-11-ultra-leaked-high-quality-renders-3411022/)<!-- TECH:END -->
+ - [Your Pixel Watch is now getting the February security patch](https://www.androidauthority.com/pixel-watch-february-security-patch-3411012/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
