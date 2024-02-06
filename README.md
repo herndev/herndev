@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s back: pick up a lifetime Babbel subscription for $149, a discount of $450 off retail](https://appleinsider.com/articles/24/02/06/its-back-pick-up-a-lifetime-babbel-subscription-for-149-a-discount-of-450-off-retail?utm_medium=rss)
- - [Game Changer: Microsoft could soon announce Xbox exclusives coming to PS5 and Switch!](https://www.androidauthority.com/microsoft-xbox-exclusives-coming-to-playstation-switch-3411003/)
- - [OnePlus tells why it won’t match Samsung and Google’s 7-year phone update policy](https://www.androidauthority.com/oneplus-update-policy-clarification-3410995/)<!-- TECH:END -->
+ - [Nintendo reports Q3 net sales of ~$4B and net profit of ~$919M, both above estimates, expects to sell 15.5M Switch consoles in current fiscal year, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240206/p1#a240206p1)
+ - [Your Pixel Watch is now getting the February security patch](https://www.androidauthority.com/pixel-watch-february-security-patch-3411012/)
+ - [Zenfone 11 Ultra gets leaked again in high quality renders](https://www.androidauthority.com/asus-zenfone-11-ultra-leaked-high-quality-renders-3411022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
