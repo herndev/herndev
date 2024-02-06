@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 💣 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
  - ⏩ [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 👉 [277](http://9gag.com/gag/a2KnDp1)<!-- MEMES:END -->
+ - 👉 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)<!-- MEMES:END -->
 
 ---
 
