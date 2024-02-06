@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge sets the trial for the DOJ&#39;s and multiple states&#39; antitrust lawsuit against Google&#39;s ad business to begin on September 9, 2024 &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240205/p33#a240205p33)
  - [Autonomous sidewalk delivery robot startup Starship Technologies raised $90M co-led by Plural and Iconical, bringing its total raised to $230M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240205/p32#a240205p32)
- - [The UK government plans to spend &amp;pound;100M+ to support AI innovation and regulation, including to launch nine research hubs and to help regulators address AI risks &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240205/p31#a240205p31)
- - [The 10 Best Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [The UK government plans to spend &amp;pound;100M+ to support AI innovation and regulation, including to launch nine research hubs and to help regulators address AI risks &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240205/p31#a240205p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
