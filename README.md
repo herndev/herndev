@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you guys think?](http://9gag.com/gag/a042EXB)
- - ⏩ [Massage](http://9gag.com/gag/aDYEbzx)
- - 👉 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)<!-- MEMES:END -->
+ - 💣 [WTF](http://9gag.com/gag/aKErv66)
+ - ⏩ [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
+ - 👉 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)<!-- MEMES:END -->
 
 ---
 
