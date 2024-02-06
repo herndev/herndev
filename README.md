@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 common Instagram scams and how to avoid them](https://www.androidauthority.com/common-instagram-scams-3410862/)
- - [Apple is telling users who forget their Vision Pro passcode that they need to bring the device to a store or mail it to AppleCare customer support to reset it &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240205/p29#a240205p29)
- - [Who will deliver immersive content for Apple Vision Pro?](https://appleinsider.com/articles/24/02/05/who-will-deliver-immersive-content-for-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [The UK government plans to spend &amp;pound;100M+ to support AI innovation and regulation, including to launch nine research hubs and to help regulators address AI risks &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240205/p31#a240205p31)
+ - [The 10 Best Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [People are already forgetting their Apple Vision Pro passcodes, requiring a trip to Apple](https://appleinsider.com/articles/24/02/06/people-are-already-forgetting-their-apple-vision-pro-passcodes-requiring-a-trip-to-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
