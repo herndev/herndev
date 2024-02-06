@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp Chats Will Soon Work With Other Encrypted Messaging Apps](https://www.wired.com/story/whatsapp-interoperability-messaging/)
- - [Mozilla announces Monitor Plus, a $14/month US service that scans 190+ data broker sites and automatically submits requests for removal of the user&#39;s data&amp;szlig; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240206/p22#a240206p22)
- - [Record $150 price drop on the Galaxy Watch 5 Pro Bespoke Edition](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-bespoke-edition-deal-3411319/)<!-- TECH:END -->
+ - [$300 Vision Pro developer strap is just an expensive USB2 device](https://appleinsider.com/articles/24/02/06/300-vision-pro-developer-strap-is-just-an-expensive-usb2-device?utm_medium=rss)
+ - [Now the US government is demanding users not wear Apple Vision Pro while driving](https://appleinsider.com/articles/24/02/06/now-the-us-government-is-demanding-users-not-wear-apple-vision-pro-while-driving?utm_medium=rss)
+ - [The EU proposes slashing pollution 90 percent by 2040](https://www.theverge.com/2024/2/6/24062570/europe-eu-2040-climate-change-carbon-capture-strategy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
