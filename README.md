@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Neumann got kicked out of WeWork — now he wants to buy it](https://www.theverge.com/2024/2/6/24063224/adam-neumann-wework-bankrupt-buy)
- - [Taylor Swift has bad blood with student tracking celebrity flights via public info](https://www.theverge.com/2024/2/6/24063220/taylor-swift-jet-public-data-social-media)
- - [Daily deals Feb. 6: M3 Pro MacBook Pro $1,749, AirTag 4-pack $79, iPad mini 6 $399, more](https://appleinsider.com/articles/24/02/06/daily-deals-feb-6-m3-pro-macbook-pro-1749-airtag-4-pack-79-ipad-mini-6-399-more?utm_medium=rss)<!-- TECH:END -->
+ - [You can score a rare discount on Apple’s AirTags](https://www.theverge.com/2024/2/6/24062093/apple-airtag-google-pixel-7a-blink-video-doorbell-fitbit-inspire-3-deal-sale)
+ - [Suicide Squad hides its brash personality under a generic looter shooter](https://www.theverge.com/24062243/suicide-squad-kill-the-justice-league-review-ps5-xbox-pc)
+ - [Meta expands its Take It Down tool, which helps teens combat non-consensual sharing of intimate imagery, to 25 languages &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240206/p20#a240206p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
