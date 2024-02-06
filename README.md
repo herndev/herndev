@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Railbreak’s Free Time Korrisis Update Available Now and Upcoming Tailbreak DLC Expansion on Xbox Series X|S](https://news.xbox.com/en-us/2024/02/06/railbreaks-free-time-korrisis-update-available-now-and-upcoming-tailbreak-dlc-expansion-on-xbox-series-xs/)
- - [Enshrouded&#39;s first big patch kills bunny-hopping and bed-flying exploits, nerfs superpowered Wolverine-style healing](https://www.pcgamer.com/enshroudeds-first-big-patch-kills-bunny-hopping-and-bed-flying-exploits-nerfs-superpowered-wolverine-style-healing)
- - [Atlus was &#39;extremely careful&#39; about Persona 3 Reload changes: &#39;Good things do not get old with time, and greatness does not fade away&#39;](https://www.pcgamer.com/atlus-was-extremely-careful-about-persona-3-reload-changes-good-things-do-not-get-old-with-time-and-greatness-does-not-fade-away)<!-- GAME:END -->
+ - [Persona 3 Reload guide: Classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)
+ - [Brainiac himself seemingly leaks a future Suicide Squad playable character](https://www.pcgamer.com/brainiac-himself-seemingly-leaks-a-future-suicide-squad-playable-character)
+ - [The Church Of Xbox Is Going Through Its Own Armageddon](https://kotaku.com/xbox-fans-content-creators-ps5-ports-starfield-rumors-1851230962)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
