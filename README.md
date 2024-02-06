@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - ⏩ [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
- - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
+ - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - ⏩ [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 👉 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)<!-- MEMES:END -->
 
 ---
 
