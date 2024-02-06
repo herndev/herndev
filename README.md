@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
- - ⏩ [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
+ - 💣 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - ⏩ [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
+ - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---
 
