@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Turtle Beach Stealth Ultra review](https://www.pcgamer.com/turtle-beach-stealth-ultra-controller-review)
- - [PS5 beta adds DualSense controller sound enhancements and Share Screen interactions](https://blog.playstation.com/2024/02/06/ps5-beta-adds-dualsense-controller-sound-enhancements-and-share-screen-interactions/)
- - [PS5 beta adds DualSense controller sound enhancements and Share Screen interactions](https://blog.playstation.com/2024/02/06/ps5-beta-adds-dualsense-controller-sound-enhancements-and-share-screen-interactions/)<!-- GAME:END -->
+ - [Spendthrift gooners left deeply frustrated their new $3,500 Apple headsets don&#39;t support existing VR smut, damn the tech as &#39;worse than PSVR2&#39;](https://www.pcgamer.com/spendthrift-gooners-left-deeply-frustrated-their-new-dollar3500-apple-headsets-dont-support-existing-vr-smut-damn-the-tech-as-worse-than-psvr2)
+ - [Viral clip of Tesla driver wearing Apple Vision Pro leads US gov to remind everyone &#39;self-driving&#39; cars don&#39;t mean you can take your eyes off the road](https://www.pcgamer.com/viral-clip-of-tesla-driver-wearing-apple-vision-pro-leads-us-gov-to-remind-everyone-self-driving-cars-dont-mean-you-can-take-your-eyes-off-the-road)
+ - [Turtle Beach Stealth Ultra review](https://www.pcgamer.com/turtle-beach-stealth-ultra-controller-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
