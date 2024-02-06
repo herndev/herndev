@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsurprisingly, Apple Vision Pro lenses will scratch if you try to destroy them](https://appleinsider.com/articles/24/02/06/unsurprisingly-apple-vision-pro-lenses-will-scratch-if-you-try-to-destroy-them?utm_medium=rss)
- - [OLED iPad Pro with M3 rumored to not be preposterously priced](https://appleinsider.com/articles/24/02/06/oled-ipad-pro-with-m3-rumored-to-not-be-preposterously-priced?utm_medium=rss)
- - [On Meta&#39;s Q4 call, Mark Zuckerberg said Meta&#39;s next step in AI is &quot;learning&quot; from user data, and the dataset is larger than Common Crawl, raising privacy fears &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240206/p12#a240206p12)<!-- TECH:END -->
+ - [Bluesky is ready to open up](https://www.theverge.com/2024/2/6/24062837/bluesky-drops-invite-system-begins-federation-at-protocol)
+ - [Firefox maker Mozilla has a new subscription to keep your info out of data brokers’ clutches](https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests)
+ - [Please don&#39;t use the Apple Vision Pro while driving [u]](https://appleinsider.com/articles/24/02/05/please-dont-use-the-apple-vision-pro-while-driving?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
