@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ambience Healthcare, which offers an OS to help health care organizations with admin, raised a $70M Series B led by Kleiner Perkins and OpenAI&#39;s Startup Fund &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240206/p5#a240206p5)
- - [Google is making it much easier to share passwords with your family](https://www.androidauthority.com/google-family-groups-password-sharing-3411017/)
- - [Sources: Tencent plans to adapt acclaimed role-playing console game Elden Ring into a mobile version, after acquiring licensing rights from FromSoftware in 2022 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240206/p4#a240206p4)<!-- TECH:END -->
+ - [China to get Apple Vision Pro by May at latest](https://appleinsider.com/articles/24/02/06/china-to-get-apple-vision-pro-by-may-at-latest?utm_medium=rss)
+ - [Google agrees to pay $350M to settle a lawsuit over a Google+ security lapse that exposed personal data; people who bought stock in 2018-2019 can get a share &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240206/p10#a240206p10)
+ - [Google&#39;s TAG publishes a report on commercial spyware, detailing ~40 vendors, and says global governments should take more aggressive steps to combat spyware &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240206/p9#a240206p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
