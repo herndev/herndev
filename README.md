@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Game Changer: Microsoft could soon announce Xbox exclusives coming to PS5 and Switch!](https://www.androidauthority.com/microsoft-xbox-exclusives-coming-to-playstation-switch-3411003/)
  - [OnePlus tells why it won’t match Samsung and Google’s 7-year phone update policy](https://www.androidauthority.com/oneplus-update-policy-clarification-3410995/)
- - [How to use Trash on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-trash-on-macos-sonoma?utm_medium=rss)
- - [Japan plans to extend ~$1.64B worth of subsidies for Kioxia and Western Digital to expand memory chip production as merger talks between the two stalled in 2023 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/240205/p34#a240205p34)<!-- TECH:END -->
+ - [How to use Trash on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-trash-on-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
