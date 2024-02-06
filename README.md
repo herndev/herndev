@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
- - ⏩ [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
+ - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - ⏩ [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 👉 [277](http://9gag.com/gag/a2KnDp1)<!-- MEMES:END -->
 
 ---
 
