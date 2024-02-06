@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - ⏩ [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
+ - 💣 [Birb !!!](http://9gag.com/gag/aBd7OzZ)
+ - ⏩ [Around blacks never relax](http://9gag.com/gag/aVbNVmd)
+ - 👉 [\u02d9\u028e\u0279\u0287uno\u0254 l\u0250\u01dd\u0279 \u0250 s\u1d09 \u0250\u1d09\u0279\u0287sn\u2200](http://9gag.com/gag/a1PGEOY)<!-- MEMES:END -->
 
 ---
 
