@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Birb !!!](http://9gag.com/gag/aBd7OzZ)
- - ⏩ [Around blacks never relax](http://9gag.com/gag/aVbNVmd)
- - 👉 [\u02d9\u028e\u0279\u0287uno\u0254 l\u0250\u01dd\u0279 \u0250 s\u1d09 \u0250\u1d09\u0279\u0287sn\u2200](http://9gag.com/gag/a1PGEOY)<!-- MEMES:END -->
+ - 💣 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
+ - ⏩ [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 👉 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)<!-- MEMES:END -->
 
 ---
 
