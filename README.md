@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China to get Apple Vision Pro by May at latest](https://appleinsider.com/articles/24/02/06/china-to-get-apple-vision-pro-by-may-at-latest?utm_medium=rss)
- - [Google agrees to pay $350M to settle a lawsuit over a Google+ security lapse that exposed personal data; people who bought stock in 2018-2019 can get a share &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240206/p10#a240206p10)
- - [Google&#39;s TAG publishes a report on commercial spyware, detailing ~40 vendors, and says global governments should take more aggressive steps to combat spyware &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240206/p9#a240206p9)<!-- TECH:END -->
+ - [Unsurprisingly, Apple Vision Pro lenses will scratch if you try to destroy them](https://appleinsider.com/articles/24/02/06/unsurprisingly-apple-vision-pro-lenses-will-scratch-if-you-try-to-destroy-them?utm_medium=rss)
+ - [OLED iPad Pro with M3 rumored to not be preposterously priced](https://appleinsider.com/articles/24/02/06/oled-ipad-pro-with-m3-rumored-to-not-be-preposterously-priced?utm_medium=rss)
+ - [On Meta&#39;s Q4 call, Mark Zuckerberg said Meta&#39;s next step in AI is &quot;learning&quot; from user data, and the dataset is larger than Common Crawl, raising privacy fears &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240206/p12#a240206p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
