@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Madden NFL 24, Tales of Arise, PlateUp!, and More](https://news.xbox.com/en-us/2024/02/06/game-pass-update-for-february-2024/)
- - [Spendthrift gooners left deeply frustrated their new $3,500 Apple headsets don&#39;t support existing VR smut, damn the tech as &#39;worse than PSVR2&#39;](https://www.pcgamer.com/spendthrift-gooners-left-deeply-frustrated-their-new-dollar3500-apple-headsets-dont-support-existing-vr-smut-damn-the-tech-as-worse-than-psvr2)
- - [Viral clip of Tesla driver wearing Apple Vision Pro leads US gov to remind everyone &#39;self-driving&#39; cars don&#39;t mean you can take your eyes off the road](https://www.pcgamer.com/viral-clip-of-tesla-driver-wearing-apple-vision-pro-leads-us-gov-to-remind-everyone-self-driving-cars-dont-mean-you-can-take-your-eyes-off-the-road)<!-- GAME:END -->
+ - [This Quake level pack transforms iconic multiplayer maps into thrilling singleplayer death mazes](https://www.pcgamer.com/this-quake-level-pack-transforms-iconic-multiplayer-maps-into-thrilling-single-player-death-mazes)
+ - [Obsidian says combat in Avowed will be good, actually, following criticism of battles shown in last month&#39;s game overview trailer](https://www.pcgamer.com/obsidian-says-combat-in-avowed-will-be-good-actually-following-criticism-of-battles-shown-in-last-months-game-overview-trailer)
+ - [Persona 3 Reload Gives Me Hope Persona 6 Can Do Right By Queer Fans](https://kotaku.com/persona-3-reload-gay-social-link-takaya-ryoji-akihiko-1851227577)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
