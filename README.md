@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - ⏩ [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 👉 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)<!-- MEMES:END -->
+ - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - ⏩ [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
+ - 👉 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)<!-- MEMES:END -->
 
 ---
 
