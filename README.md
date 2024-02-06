@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Townscaper-like building game on &#39;the dark side of cozy&#39; is the perfect lock screen photo designer](https://www.pcgamer.com/this-townscaper-like-building-game-on-the-dark-side-of-cozy-is-the-perfect-lock-screen-photo-designer)
- - [It sounds like Halo Season 2 still hasn&#39;t nailed how to turn Halo into a great TV show](https://www.pcgamer.com/it-sounds-like-halo-season-2-still-hasnt-nailed-how-to-turn-halo-into-a-great-tv-show)
- - [Magic Mike’s Last Dance coming to Netflix makes it easy to watch its one great scene](https://www.polygon.com/23747222/magic-mike-last-dance-best-scene-channing-tatum-salma-hayek-pinault)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, February 6](https://www.pcgamer.com/wordle-today-answer-february-6-2024)
+ - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)
+ - [This Townscaper-like building game on &#39;the dark side of cozy&#39; is the perfect lock screen photo designer](https://www.pcgamer.com/this-townscaper-like-building-game-on-the-dark-side-of-cozy-is-the-perfect-lock-screen-photo-designer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
