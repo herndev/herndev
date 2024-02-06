@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - ⏩ [Practice makes perfect!](http://9gag.com/gag/anzLEO0)
- - 👉 [Have a great Monday community.](http://9gag.com/gag/anzLxxB)<!-- MEMES:END -->
+ - 💣 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
+ - ⏩ [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---
 
