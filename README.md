@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Find Palworld&#39;s Helpful Black Marketeers](https://kotaku.com/black-marketeer-locations-palworld-1851231680)
- - [Remastered Tomb Raider Collection On PS4 Has Something The PS5 Version Doesn&#39;t](https://kotaku.com/tomb-raider-1-3-remastered-remake-ps5-missing-trophy-1851231643)
- - [Surprise! Steam&#39;s Lunar New Year Sale is back](https://www.pcgamer.com/steam-lunar-new-year-sale-2024)<!-- GAME:END -->
+ - [Persona 3 Reload social link answers and unlock requirements](https://www.polygon.com/guides/24063889/persona-3-reload-social-link-answers-links-dialogue-p3r-unlock)
+ - [Modders resurrect forgotten first-party PlayStation RPG with a PC port that&#39;s already better than the original and promise 4K and 60FPS &#39;in the next few months&#39;](https://www.pcgamer.com/modders-resurrect-forgotten-first-party-playstation-rpg-with-a-pc-port-thats-already-better-than-the-original-and-promise-4k-and-60fps-in-the-next-few-months)
+ - [There&#39;s so much cool stuff coming to Crusader Kings 3 this year that I&#39;m not sure what to be most excited for](https://www.pcgamer.com/crusader-kings-3-chapter-3-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
