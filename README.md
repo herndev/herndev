@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky is ready to open up](https://www.theverge.com/2024/2/6/24062837/bluesky-drops-invite-system-begins-federation-at-protocol)
- - [Firefox maker Mozilla has a new subscription to keep your info out of data brokers’ clutches](https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests)
- - [Please don&#39;t use the Apple Vision Pro while driving [u]](https://appleinsider.com/articles/24/02/05/please-dont-use-the-apple-vision-pro-while-driving?utm_medium=rss)<!-- TECH:END -->
+ - [Adam Neumann got kicked out of WeWork — now he wants to buy it](https://www.theverge.com/2024/2/6/24063224/adam-neumann-wework-bankrupt-buy)
+ - [Taylor Swift has bad blood with student tracking celebrity flights via public info](https://www.theverge.com/2024/2/6/24063220/taylor-swift-jet-public-data-social-media)
+ - [Daily deals Feb. 6: M3 Pro MacBook Pro $1,749, AirTag 4-pack $79, iPad mini 6 $399, more](https://appleinsider.com/articles/24/02/06/daily-deals-feb-6-m3-pro-macbook-pro-1749-airtag-4-pack-79-ipad-mini-6-399-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
