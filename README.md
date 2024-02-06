@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Turtle Beach Stealth Ultra review](https://www.pcgamer.com/turtle-beach-stealth-ultra-controller-review)
  - [PS5 beta adds DualSense controller sound enhancements and Share Screen interactions](https://blog.playstation.com/2024/02/06/ps5-beta-adds-dualsense-controller-sound-enhancements-and-share-screen-interactions/)
- - [PS5 beta adds DualSense controller sound enhancements and Share Screen interactions](https://blog.playstation.com/2024/02/06/ps5-beta-adds-dualsense-controller-sound-enhancements-and-share-screen-interactions/)
- - [Today&#39;s Wordle answer for Tuesday, February 6](https://www.pcgamer.com/wordle-today-answer-february-6-2024)<!-- GAME:END -->
+ - [PS5 beta adds DualSense controller sound enhancements and Share Screen interactions](https://blog.playstation.com/2024/02/06/ps5-beta-adds-dualsense-controller-sound-enhancements-and-share-screen-interactions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
