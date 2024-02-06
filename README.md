@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US State Department announces a new policy allowing &quot;the imposition of visa restrictions on individuals involved in the misuse of commercial spyware&quot; &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240205/p28#a240205p28)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [YouTube changes its mind, says an app will come to the Vision Pro after all](https://www.androidauthority.com/youtube-vision-pro-app-3410958/)<!-- TECH:END -->
+ - [10 common Instagram scams and how to avoid them](https://www.androidauthority.com/common-instagram-scams-3410862/)
+ - [Apple is telling users who forget their Vision Pro passcode that they need to bring the device to a store or mail it to AppleCare customer support to reset it &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240205/p29#a240205p29)
+ - [Who will deliver immersive content for Apple Vision Pro?](https://appleinsider.com/articles/24/02/05/who-will-deliver-immersive-content-for-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
