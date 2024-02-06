@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
+ - 💣 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
  - ⏩ [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 👉 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)<!-- MEMES:END -->
+ - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
 
 ---
 
