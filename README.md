@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alisa – Developer’s Cut Brings Us to the Dollhouse](https://news.xbox.com/en-us/2024/02/06/alisa-developers-cut-on-xbox/)
- - [Synergy has shot straight to the top of my most anticipated survival city builders list thanks to its Next Fest demo](https://www.pcgamer.com/synergy-has-shot-straight-to-the-top-of-my-most-anticipated-survival-city-builders-list-thanks-to-its-next-fest-demo)
- - [PlayStation Plus’ February free games include Square Enix’s foam party and roller derby murder](https://www.polygon.com/24048007/playstation-plus-february-2024-monthly-games)<!-- GAME:END -->
+ - [Railbreak’s Free Time Korrisis Update Available Now and Upcoming Tailbreak DLC Expansion on Xbox Series X|S](https://news.xbox.com/en-us/2024/02/06/railbreaks-free-time-korrisis-update-available-now-and-upcoming-tailbreak-dlc-expansion-on-xbox-series-xs/)
+ - [Enshrouded&#39;s first big patch kills bunny-hopping and bed-flying exploits, nerfs superpowered Wolverine-style healing](https://www.pcgamer.com/enshroudeds-first-big-patch-kills-bunny-hopping-and-bed-flying-exploits-nerfs-superpowered-wolverine-style-healing)
+ - [Atlus was &#39;extremely careful&#39; about Persona 3 Reload changes: &#39;Good things do not get old with time, and greatness does not fade away&#39;](https://www.pcgamer.com/atlus-was-extremely-careful-about-persona-3-reload-changes-good-things-do-not-get-old-with-time-and-greatness-does-not-fade-away)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
