@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Windows tool makes it super easy to debloat and cut down ads on your Android TV](https://www.androidauthority.com/android-tv-tools-windows-tool-3411045/)
- - [Sony’s latest PS5 beta improves DualSense controller audio and screen sharing](https://www.theverge.com/2024/2/6/24063160/sony-ps5-beta-update-dual-sense-controller-speaker-microphone-screen-sharing)
- - [Unit 42: the number of victims reported by ransomware leak sites grew 49% YoY in 2023, with ~50% in the US, despite authorities taking down some services &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240206/p2#a240206p2)<!-- TECH:END -->
+ - [Ambience Healthcare, which offers an OS to help health care organizations with admin, raised a $70M Series B led by Kleiner Perkins and OpenAI&#39;s Startup Fund &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240206/p5#a240206p5)
+ - [Google is making it much easier to share passwords with your family](https://www.androidauthority.com/google-family-groups-password-sharing-3411017/)
+ - [Sources: Tencent plans to adapt acclaimed role-playing console game Elden Ring into a mobile version, after acquiring licensing rights from FromSoftware in 2022 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240206/p4#a240206p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
