@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is turning phone plans into VIP rewards programs](https://www.theverge.com/2024/2/7/24064839/t-mobile-magenta-status-perks-program-t-life-app)
- - [The sports documentary boom from Netflix and beyond](https://www.theverge.com/2024/2/7/24064786/sports-streaming-docs-drive-to-survive-netflix)
- - [Why drivers in Scotland are crashing because of bad Apple Maps data](https://appleinsider.com/articles/24/02/07/why-drivers-in-scotland-are-crashing-because-of-bad-apple-maps-data?utm_medium=rss)<!-- TECH:END -->
+ - [X hits number one in App Store as leaked Drake nude goes viral](https://www.theverge.com/2024/2/7/24064992/x-app-store-drake-nude-moderation)
+ - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
+ - [iPhone 16 Plus battery life to decrease, claims dubious leak](https://appleinsider.com/articles/24/02/07/iphone-16-plus-battery-life-to-decrease-claims-dubious-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
