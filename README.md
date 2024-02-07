@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Star Wars actor Gina Carano wants courts to force Lucasfilm to give her job back using Elon Musk&#39;s money, praises Twitter as &#39;one of the last glimmers of hope for free speech in the world&#39;](https://www.pcgamer.com/ex-star-wars-actor-gina-carano-wants-courts-to-force-lucasfilm-to-give-her-job-back-using-elon-musks-money-praises-twitter-as-one-of-the-last-glimmers-of-hope-for-free-speech-in-the-world)
- - [Lego’s Dune set includes a Baron Harkonnen minifig that has to be seen to be believed](https://www.polygon.com/23930166/lego-dune-set-buy-order)
- - [Honkai: Star Rail Added A Feature Every Live-Service Game Needs](https://kotaku.com/honkai-star-rail-2-0-penacony-fates-atlas-story-guide-1851231856)<!-- GAME:END -->
+ - [Dune 2 Director Loves The Ornithopter Lego Set As Much As We Do](https://kotaku.com/dune-lego-atriedes-royal-ornithopter-1851234517)
+ - [All Destiny 2 Ascendant Chest locations for this week&#39;s Riven&#39;s Wish quest](https://www.pcgamer.com/destiny-2-ascendant-chest-locations-rivens-wishes)
+ - [OK if A Quiet Place: Day One really happened what would you do](https://www.polygon.com/24064733/quiet-place-day-one-trailer-super-bowl-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
