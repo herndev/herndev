@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
+ - 💣 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
  - ⏩ [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
+ - 👉 [I guess there\u2019s a new front in the war\u2026](http://9gag.com/gag/a4oDV6Q)<!-- MEMES:END -->
 
 ---
 
