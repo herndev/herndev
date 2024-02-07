@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge dismisses class-action antitrust case accusing Apple &amp; Google of collusion](https://appleinsider.com/articles/24/02/07/judge-dismisses-class-action-antitrust-case-accusing-apple-google-of-collusion?utm_medium=rss)
- - [9 common Cash App scams and how to avoid them](https://www.androidauthority.com/common-cash-app-scams-3411865/)
- - [PayPal reports Q4 revenue up 9% YoY to $8B, vs. $7.87B est., and total payment volume up 15% YoY to $409.8B, vs. $404.45B est. &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240207/p30#a240207p30)<!-- TECH:END -->
+ - [Compare Electricity Rates in Pennsylvania     - CNET](https://www.cnet.com/how-to/electricity-rates-pennsylvania/#ftag=CAD590a51e)
+ - [Sources: OpenAI is developing two types of agent software: one to automate tasks by effectively taking over a user&#39;s device, and the other for web-based tasks &lpar;The Information&rpar;](http://www.techmeme.com/240207/p31#a240207p31)
+ - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
