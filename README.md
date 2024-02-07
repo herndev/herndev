@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - ⏩ [Title is important](http://9gag.com/gag/abv9RLE)
+ - 💣 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)
+ - ⏩ [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
  - 👉 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)<!-- MEMES:END -->
 
 ---
