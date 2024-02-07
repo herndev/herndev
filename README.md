@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple made an AI image tool that lets you make edits by describing them](https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model)
- - [Toyota overcomes its EV skepticism to announce a three-row electric SUV for the US](https://www.theverge.com/2024/2/7/24063943/toyota-ev-investment-kentucky-factory-three-row-suv)
- - [Apple drops second developer beta of iOS 17.4, iPadOS 17.4](https://appleinsider.com/articles/24/02/06/apple-drops-second-developer-beta-of-ios-174-ipados-174?utm_medium=rss)<!-- TECH:END -->
+ - [Landline Phone Owners Are Protesting AT&amp;T’s Plans to Drop Service](https://www.wired.com/story/att-landline-california-complaints/)
+ - [Android 15 prepares to make it easier for your grandma to use her phone](https://www.androidauthority.com/android-15-easy-preset-3411962/)
+ - [Adam Mosseri says Threads is testing the ability to save posts, a &quot;heavily requested feature&quot; that allows users to bookmark posts and revisit them later &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240207/p27#a240207p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
