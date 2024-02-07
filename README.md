@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating 10 Years of World of Tanks on Xbox](https://news.xbox.com/en-us/2024/02/07/world-of-tanks-xbox-10-years/)
- - [Palworld players stumble on cunning new strat to defeat bosses in one hit: a literal &#39;stairway to heaven&#39;](https://www.pcgamer.com/palworld-players-stumble-on-cunning-new-strat-to-defeat-bosses-in-one-hit-a-literal-stairway-to-heaven)
- - [Former Infinity Ward dev says Activision told staff to &#39;take the money and get over it&#39; after &#39;cold-blooded&#39; canning of studio heads West and Zampella](https://www.pcgamer.com/former-infinity-ward-dev-says-activision-told-staff-to-take-the-money-and-get-over-it-after-cold-blooded-canning-of-studio-heads-west-and-zampella)<!-- GAME:END -->
+ - [Despite Final Fantasy 7 Rebirth not having a concrete PC release date, it&#39;s just shot right to the top of my 2024 wish list for one hella big reason](https://www.pcgamer.com/despite-final-fantasy-7-rebirth-not-having-a-concrete-pc-release-date-its-just-shot-right-to-the-top-of-my-2024-wish-list-for-one-hella-big-reason)
+ - [RuneScape developer Jagex is on the verge of being acquired again, this time by the backers of the Six Nations rugby tournament in a deal worth $900 million](https://www.pcgamer.com/runescape-developer-jagex-is-on-the-verge-of-being-acquired-again-this-time-by-the-backers-of-the-six-nations-rugby-tournament-in-a-deal-worth-dollar900-million)
+ - [Opera buys its own Nvidia H100 mini-supercomputer, just so you can have a spot of AI in a web browser](https://www.pcgamer.com/opera-buys-its-own-nvidia-h100-mini-supercomputer-just-so-you-can-have-a-spot-of-ai-in-a-web-browser)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
