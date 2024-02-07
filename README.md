@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X hits number one in App Store as leaked Drake nude goes viral](https://www.theverge.com/2024/2/7/24064992/x-app-store-drake-nude-moderation)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
- - [iPhone 16 Plus battery life to decrease, claims dubious leak](https://appleinsider.com/articles/24/02/07/iphone-16-plus-battery-life-to-decrease-claims-dubious-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Apple made an AI image tool that lets you make edits by describing them](https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model)
+ - [Toyota overcomes its EV skepticism to announce a three-row electric SUV for the US](https://www.theverge.com/2024/2/7/24063943/toyota-ev-investment-kentucky-factory-three-row-suv)
+ - [Apple drops second developer beta of iOS 17.4, iPadOS 17.4](https://appleinsider.com/articles/24/02/06/apple-drops-second-developer-beta-of-ios-174-ipados-174?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
