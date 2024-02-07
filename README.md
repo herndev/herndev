@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - ⏩ [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
- - 👉 [Friend just posted this and was utterly serious](http://9gag.com/gag/aZDG2G9)<!-- MEMES:END -->
+ - 💣 [It&#39;s the back... right??](http://9gag.com/gag/aDYEQnK)
+ - ⏩ [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)
+ - 👉 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)<!-- MEMES:END -->
 
 ---
 
