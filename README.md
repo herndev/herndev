@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate The Premiere of Halo Season 2 on Paramount+ with Xbox Game Pass Ultimate](https://news.xbox.com/en-us/2024/02/07/halo-season-2-paramount-plus/)
- - [You can buy A24’s Stop Making Sense restoration on 4K, and nothing is better than that](https://www.polygon.com/24064113/a24-stop-making-sense-4k-dvd-how-where-buy)
- - [There’s only one new Avatar: The Last Airbender series I want](https://www.polygon.com/24063531/avatar-last-airbender-show-uncle-iroh-origin-past)<!-- GAME:END -->
+ - [Deus Ex actor Elias Toufexis bids a heartfelt farewell to Adam Jensen and thanks fans for their support: &#39;I asked for this&#39;](https://www.pcgamer.com/deus-ex-actor-elias-toufexis-bids-a-heartfelt-farewell-to-adam-jensen-and-thanks-fans-for-their-support-i-asked-for-this)
+ - [An Xbox multiplatform plan shouldn’t be surprising fans as much as it is](https://www.polygon.com/24064964/xbox-consoles-multiplatform-third-party-hi-fi-rush-starfield-indiana-jones)
+ - [Celebrate The Premiere of Halo Season 2 on Paramount+ with Xbox Game Pass Ultimate](https://news.xbox.com/en-us/2024/02/07/halo-season-2-paramount-plus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
