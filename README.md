@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deus Ex actor Elias Toufexis bids a heartfelt farewell to Adam Jensen and thanks fans for their support: &#39;I asked for this&#39;](https://www.pcgamer.com/deus-ex-actor-elias-toufexis-bids-a-heartfelt-farewell-to-adam-jensen-and-thanks-fans-for-their-support-i-asked-for-this)
- - [An Xbox multiplatform plan shouldn’t be surprising fans as much as it is](https://www.polygon.com/24064964/xbox-consoles-multiplatform-third-party-hi-fi-rush-starfield-indiana-jones)
- - [Celebrate The Premiere of Halo Season 2 on Paramount+ with Xbox Game Pass Ultimate](https://news.xbox.com/en-us/2024/02/07/halo-season-2-paramount-plus/)<!-- GAME:END -->
+ - [Capcom Is Curious If Y&#39;all Want More Dino Crisis](https://kotaku.com/capcom-survey-dino-crisis-sequel-remake-onimusha-okami-1851235768)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240204-2200&rpar;](https://news.xbox.com/en-us/2024/02/07/xbox-insider-release-notes-alpha-skip-ahead-2408-240204-2200/)
+ - [Valentine’s Day 2024: 10 gift ideas that we won’t take responsibility for if it backfires](https://www.polygon.com/deals/24055514/valentines-day-2024-gifts-ideas-chocolate-citrus-tree-talk-to-me-hand)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
