@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [OpenAI says DALL-E 3 will embed watermarks to images with C2PA metadata and acknowledges the metadata can easily be removed either accidentally or intentionally &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240206/p39#a240206p39)
- - [Zededa, a maker of edge infrastructure orchestration tools, raised $72M led by Smith Point Capital; a source says the round values the company around $400M &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240206/p38#a240206p38)
- - [Asus ROG Zephyrus G14 Review: A Lot to Love for Creators and Gamers     - CNET](https://www.cnet.com/tech/computing/asus-rog-zephyrus-g14-review-a-lot-to-love-for-creators-and-gamers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-usb-c-fast-charger/#ftag=CAD590a51e)
+ - [Zededa, a maker of edge infrastructure orchestration tools, raised $72M led by Smith Point Capital; a source says the round values the company around $400M &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240206/p38#a240206p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
