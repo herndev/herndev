@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune 2 Director Loves The Ornithopter Lego Set As Much As We Do](https://kotaku.com/dune-lego-atriedes-royal-ornithopter-1851234517)
- - [All Destiny 2 Ascendant Chest locations for this week&#39;s Riven&#39;s Wish quest](https://www.pcgamer.com/destiny-2-ascendant-chest-locations-rivens-wishes)
- - [OK if A Quiet Place: Day One really happened what would you do](https://www.polygon.com/24064733/quiet-place-day-one-trailer-super-bowl-2024)<!-- GAME:END -->
+ - [Everything We Know About Death Stranding 2](https://kotaku.com/death-stranding-2-on-the-beach-release-date-cast-1851235004)
+ - [PSA: It’s Now Safe To Use Memory Wiping Medicine In Palworld](https://kotaku.com/palworld-respec-memory-wiping-medicine-bugged-1851214122)
+ - [How to carry progress from the Final Fantasy 7 Rebirth demo to the main game](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24064763/demo-length-progress-carry-over-download)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
