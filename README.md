@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That is a good door](http://9gag.com/gag/aBd74ZN)
- - ⏩ [You know what...](http://9gag.com/gag/a5X8jVg)
- - 👉 [What do you guys think?](http://9gag.com/gag/a042EXB)<!-- MEMES:END -->
+ - 💣 [Rules here say : This one sparks joy](http://9gag.com/gag/ap9WVVp)
+ - ⏩ [Jrr supremacy](http://9gag.com/gag/aXn5K8z)
+ - 👉 [Germany denied my tourist visa twice last year. Just wanted to see my friends.](http://9gag.com/gag/avQ3d7O)<!-- MEMES:END -->
 
 ---
 
