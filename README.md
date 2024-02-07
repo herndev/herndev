@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is working on at least two folding iPhone prototypes](https://appleinsider.com/articles/24/02/07/apple-is-working-on-at-least-two-folding-iphone-prototypes?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 7&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-07-2024-3411335/)
- - [Best Internet Providers in Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-indiana/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An in-depth look at Common Crawl, the 9.5PB web crawl archive dating back to 2008 run by a small nonprofit, its role in generative AI, its dataset, and more &lpar;Mozilla Foundation&rpar;](http://www.techmeme.com/240207/p19#a240207p19)
+ - [Save Big and Get This Vactidy V9 Stick Vacuum for Just $70, but Be Quick     - CNET](https://www.cnet.com/deals/save-big-and-get-this-vactidy-v9-stick-vacuum-for-just-70-but-be-quick/#ftag=CAD590a51e)
+ - [The Three-Body Problem is getting a new audiobook release just in time for Netflix’s show](https://www.theverge.com/2024/2/7/24062452/three-body-problem-audiobook-rosalind-chao-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
