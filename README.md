@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Death Stranding 2](https://kotaku.com/death-stranding-2-on-the-beach-release-date-cast-1851235004)
- - [PSA: It’s Now Safe To Use Memory Wiping Medicine In Palworld](https://kotaku.com/palworld-respec-memory-wiping-medicine-bugged-1851214122)
- - [How to carry progress from the Final Fantasy 7 Rebirth demo to the main game](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24064763/demo-length-progress-carry-over-download)<!-- GAME:END -->
+ - [Celebrate The Premiere of Halo Season 2 on Paramount+ with Xbox Game Pass Ultimate](https://news.xbox.com/en-us/2024/02/07/halo-season-2-paramount-plus/)
+ - [You can buy A24’s Stop Making Sense restoration on 4K, and nothing is better than that](https://www.polygon.com/24064113/a24-stop-making-sense-4k-dvd-how-where-buy)
+ - [There’s only one new Avatar: The Last Airbender series I want](https://www.polygon.com/24063531/avatar-last-airbender-show-uncle-iroh-origin-past)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
