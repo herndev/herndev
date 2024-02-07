@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 💣 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
  - ⏩ [Hey Thanos my boy, u still have that magic gloves with shiny stones?](http://9gag.com/gag/a8qBeK6)
- - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
+ - 👉 [Windows God Mode](http://9gag.com/gag/aqeqY1M)<!-- MEMES:END -->
 
 ---
 
