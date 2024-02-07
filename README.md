@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Machine learning means we can read a 2,000-year-old carbonized scroll buried by Mount Vesuvius and turns out it&#39;s all about the pleasures of stuffing your face](https://www.pcgamer.com/machine-learning-means-we-can-read-a-2000-year-old-carbonized-scroll-buried-by-mount-vesuvius-and-turns-out-its-all-about-the-pleasures-of-stuffing-your-face)
- - [Final Fantasy 7 Rebirth demo released on PS5](https://www.polygon.com/24063550/final-fantasy-7-rebirth-demo)
- - [Today&#39;s Wordle answer for Wednesday, February 7](https://www.pcgamer.com/wordle-today-answer-february-7-2024)<!-- GAME:END -->
+ - [Celebrating 10 Years of World of Tanks on Xbox](https://news.xbox.com/en-us/2024/02/07/world-of-tanks-xbox-10-years/)
+ - [Palworld players stumble on cunning new strat to defeat bosses in one hit: a literal &#39;stairway to heaven&#39;](https://www.pcgamer.com/palworld-players-stumble-on-cunning-new-strat-to-defeat-bosses-in-one-hit-a-literal-stairway-to-heaven)
+ - [Former Infinity Ward dev says Activision told staff to &#39;take the money and get over it&#39; after &#39;cold-blooded&#39; canning of studio heads West and Zampella](https://www.pcgamer.com/former-infinity-ward-dev-says-activision-told-staff-to-take-the-money-and-get-over-it-after-cold-blooded-canning-of-studio-heads-west-and-zampella)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
