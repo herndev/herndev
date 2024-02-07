@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2&#39;s New Game+ Mode And More Coming Next Month](https://kotaku.com/spider-man-2-update-new-game-march-release-date-ps5-1851236276)
- - [Sonic 3 Movie Is Bringing Back An All-Time Sonic Adventure 2 Banger](https://kotaku.com/sonic-the-hedgehog-3-movie-live-and-learn-crush-40-song-1851236128)
- - [Capcom Is Curious If Y&#39;all Want More Dino Crisis](https://kotaku.com/capcom-survey-dino-crisis-sequel-remake-onimusha-okami-1851235768)<!-- GAME:END -->
+ - [The Moana TV show has been reworked into a movie, coming this year](https://www.polygon.com/24065414/moana-2-teaser-trailer-announcement)
+ - [GameStop Ad Promoting &#39;Microsoft&#39; Game Pass Leads To More Xbox Chaos](https://kotaku.com/xbox-microsoft-game-pass-gamestop-ad-twitter-demo-days-1851236742)
+ - [Disney invests $1.5B in Fortnite maker Epic Games](https://www.polygon.com/24065392/disney-fortnite-epic-games-1-5-billion-equity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
