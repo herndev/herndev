@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Landline Phone Owners Are Protesting AT&amp;T’s Plans to Drop Service](https://www.wired.com/story/att-landline-california-complaints/)
- - [Android 15 prepares to make it easier for your grandma to use her phone](https://www.androidauthority.com/android-15-easy-preset-3411962/)
- - [Adam Mosseri says Threads is testing the ability to save posts, a &quot;heavily requested feature&quot; that allows users to bookmark posts and revisit them later &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240207/p27#a240207p27)<!-- TECH:END -->
+ - [Judge dismisses class-action antitrust case accusing Apple &amp; Google of collusion](https://appleinsider.com/articles/24/02/07/judge-dismisses-class-action-antitrust-case-accusing-apple-google-of-collusion?utm_medium=rss)
+ - [9 common Cash App scams and how to avoid them](https://www.androidauthority.com/common-cash-app-scams-3411865/)
+ - [PayPal reports Q4 revenue up 9% YoY to $8B, vs. $7.87B est., and total payment volume up 15% YoY to $409.8B, vs. $404.45B est. &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240207/p30#a240207p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
