@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s What to Do if You Haven&#39;t Received Your W-2 Yet     - CNET](https://www.cnet.com/personal-finance/taxes/heres-what-to-do-if-you-havent-received-your-w-2-yet/#ftag=CAD590a51e)
  - [Google is piloting a new program to protect against financial fraud apps](https://www.androidauthority.com/google-play-protect-financial-fraud-apps-3411554/)
- - [Here’s how WhatsApp will work with other messaging apps](https://www.androidauthority.com/how-whatsapp-work-other-messaging-apps-3411534/)
- - [A look at OpenAI&#39;s &quot;Democratic Inputs to AI&quot; grant program, which awarded $100K each to 10 teams to design ideas and tools to collectively govern AI systems &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240207/p4#a240207p4)<!-- TECH:END -->
+ - [Here’s how WhatsApp will work with other messaging apps](https://www.androidauthority.com/how-whatsapp-work-other-messaging-apps-3411534/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
