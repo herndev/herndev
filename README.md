@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bravo!](http://9gag.com/gag/aGEWOQG)
- - ⏩ [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 👉 [Go on... I allowed it](http://9gag.com/gag/aEqLZ7p)<!-- MEMES:END -->
+ - 💣 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - ⏩ [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 👉 [277](http://9gag.com/gag/a2KnDp1)<!-- MEMES:END -->
 
 ---
 
