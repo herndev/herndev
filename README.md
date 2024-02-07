@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - ⏩ [Windows God Mode](http://9gag.com/gag/aqeqY1M)
- - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
+ - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
+ - ⏩ [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 👉 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)<!-- MEMES:END -->
 
 ---
 
