@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rules here say : This one sparks joy](http://9gag.com/gag/ap9WVVp)
- - ⏩ [Jrr supremacy](http://9gag.com/gag/aXn5K8z)
- - 👉 [Germany denied my tourist visa twice last year. Just wanted to see my friends.](http://9gag.com/gag/avQ3d7O)<!-- MEMES:END -->
+ - 💣 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - ⏩ [Hey Thanos my boy, u still have that magic gloves with shiny stones?](http://9gag.com/gag/a8qBeK6)
+ - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
 
 ---
 
