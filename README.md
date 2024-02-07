@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - ⏩ [Title is important](http://9gag.com/gag/abv9RLE)
- - 👉 [You know what...](http://9gag.com/gag/a5X8jVg)<!-- MEMES:END -->
+ - ⏩ [Crossing the road in Indonesia be like](http://9gag.com/gag/awZ68n8)
+ - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
 
 ---
 
