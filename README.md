@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - ⏩ [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 👉 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)<!-- MEMES:END -->
+ - 💣 [Zone of death](http://9gag.com/gag/a5X8DMg)
+ - ⏩ [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---
 
