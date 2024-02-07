@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now they&#39;re here - and more will come](http://9gag.com/gag/aL1yNL5)
- - ⏩ [Refugees should be assigned to capsule hotels instead of houses or apartments that are kept for actual residents.](http://9gag.com/gag/aNw6qRb)
- - 👉 [Bringing the kombat to Disney](http://9gag.com/gag/a8qBnme)<!-- MEMES:END -->
+ - 💣 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
+ - ⏩ [Windows God Mode](http://9gag.com/gag/aqeqY1M)
+ - 👉 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)<!-- MEMES:END -->
 
 ---
 
