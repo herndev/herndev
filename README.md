@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
- - ⏩ [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 👉 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)<!-- MEMES:END -->
+ - 💣 [Bravo!](http://9gag.com/gag/aGEWOQG)
+ - ⏩ [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - 👉 [Go on... I allowed it](http://9gag.com/gag/aEqLZ7p)<!-- MEMES:END -->
 
 ---
 
