@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI, DeepMind, and others seek clarity over how the UK&#39;s AI Safety Institute is testing their AI models, timeframe, and the feedback process &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p3#a240207p3)
- - [Douyin CEO Kelly Zhang steps down, a source says ByteDance will not seek to appoint a successor and Zhang will shift her focus to the video-editing app CapCut &lpar;Bloomberg&rpar;](http://www.techmeme.com/240207/p2#a240207p2)
- - [Sources: Shein approached the CAC and China Securities Regulatory Commission to get their blessing for a US IPO, despite not formally requiring their approval &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p1#a240207p1)<!-- TECH:END -->
+ - [Google is piloting a new program to protect against financial fraud apps](https://www.androidauthority.com/google-play-protect-financial-fraud-apps-3411554/)
+ - [Here’s how WhatsApp will work with other messaging apps](https://www.androidauthority.com/how-whatsapp-work-other-messaging-apps-3411534/)
+ - [A look at OpenAI&#39;s &quot;Democratic Inputs to AI&quot; grant program, which awarded $100K each to 10 teams to design ideas and tools to collectively govern AI systems &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240207/p4#a240207p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
