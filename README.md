@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Is Curious If Y&#39;all Want More Dino Crisis](https://kotaku.com/capcom-survey-dino-crisis-sequel-remake-onimusha-okami-1851235768)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240204-2200&rpar;](https://news.xbox.com/en-us/2024/02/07/xbox-insider-release-notes-alpha-skip-ahead-2408-240204-2200/)
- - [Valentine’s Day 2024: 10 gift ideas that we won’t take responsibility for if it backfires](https://www.polygon.com/deals/24055514/valentines-day-2024-gifts-ideas-chocolate-citrus-tree-talk-to-me-hand)<!-- GAME:END -->
+ - [Spider-Man 2&#39;s New Game+ Mode And More Coming Next Month](https://kotaku.com/spider-man-2-update-new-game-march-release-date-ps5-1851236276)
+ - [Sonic 3 Movie Is Bringing Back An All-Time Sonic Adventure 2 Banger](https://kotaku.com/sonic-the-hedgehog-3-movie-live-and-learn-crush-40-song-1851236128)
+ - [Capcom Is Curious If Y&#39;all Want More Dino Crisis](https://kotaku.com/capcom-survey-dino-crisis-sequel-remake-onimusha-okami-1851235768)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
