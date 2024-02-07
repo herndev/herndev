@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skull And Bones Has Released Nearly 30 Trailers Over 7 Years](https://kotaku.com/skull-and-bones-every-trailer-teaser-2018-release-date-1851232440)
- - [Game designer Laralyn McWilliams, known for army training-sim-turned-game Full Spectrum Warrior and innovative F2P MMO Free Realms, has died](https://www.pcgamer.com/game-designer-laralyn-mcwilliams-known-for-army-training-sim-turned-game-full-spectrum-warrior-and-innovative-f2p-mmo-free-realms-has-died)
- - [Crusader Kings 3’s third chapter of DLC is all about prestige and plagues](https://www.polygon.com/24063971/crusader-kings-3-chapter-three-dlc-black-plague-byzantine-empire)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth is a weirdly great place to start the story](https://www.polygon.com/24063423/final-fantasy-7-rebirth-chapter-1-nibelheim-preview)
+ - [Final Fantasy 7 Rebirth has a Gwent, and it seems like a very good Gwent](https://www.polygon.com/24062207/final-fantasy-7-rebirth-queens-blood-is-a-very-good-gwent)
+ - [State of Play Recap: Final Fantasy VII Rebirth demo out today, 11 minutes of new gameplay revealed](https://blog.playstation.com/2024/02/06/state-of-play-recap-final-fantasy-vii-rebirth-demo-out-today-11-minutes-of-new-gameplay-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
