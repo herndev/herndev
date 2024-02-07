@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s What to Do if You Haven&#39;t Received Your W-2 Yet     - CNET](https://www.cnet.com/personal-finance/taxes/heres-what-to-do-if-you-havent-received-your-w-2-yet/#ftag=CAD590a51e)
- - [Google is piloting a new program to protect against financial fraud apps](https://www.androidauthority.com/google-play-protect-financial-fraud-apps-3411554/)
- - [Here’s how WhatsApp will work with other messaging apps](https://www.androidauthority.com/how-whatsapp-work-other-messaging-apps-3411534/)<!-- TECH:END -->
+ - [Nine states, including California and New York, sign heat pump agreement to clean up air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)
+ - [Some top cybersecurity experts are retreating from a CISA program that enlists outside professionals, citing growing conservative backlash and management gripes &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/240207/p5#a240207p5)
+ - [Illinois Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/illinois-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
