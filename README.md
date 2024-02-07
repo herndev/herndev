@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Rebirth is a weirdly great place to start the story](https://www.polygon.com/24063423/final-fantasy-7-rebirth-chapter-1-nibelheim-preview)
- - [Final Fantasy 7 Rebirth has a Gwent, and it seems like a very good Gwent](https://www.polygon.com/24062207/final-fantasy-7-rebirth-queens-blood-is-a-very-good-gwent)
- - [State of Play Recap: Final Fantasy VII Rebirth demo out today, 11 minutes of new gameplay revealed](https://blog.playstation.com/2024/02/06/state-of-play-recap-final-fantasy-vii-rebirth-demo-out-today-11-minutes-of-new-gameplay-revealed/)<!-- GAME:END -->
+ - [Whip it Good! Breaking Down Weapons Included in Wo Long: Fallen Dynasty Complete Edition](https://news.xbox.com/en-us/2024/02/06/brand-new-weapons-in-wo-long-fallen-dynasty-complete-edition/)
+ - [Suicide Squad: Kill the Justice League review](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-review)
+ - [Community Update February 2024 – 10th Anniversary Celebrations](https://news.xbox.com/en-us/2024/02/06/community-update-february-2024-10th-anniversary-celebrations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
