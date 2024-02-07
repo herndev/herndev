@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite Final Fantasy 7 Rebirth not having a concrete PC release date, it&#39;s just shot right to the top of my 2024 wish list for one hella big reason](https://www.pcgamer.com/despite-final-fantasy-7-rebirth-not-having-a-concrete-pc-release-date-its-just-shot-right-to-the-top-of-my-2024-wish-list-for-one-hella-big-reason)
- - [RuneScape developer Jagex is on the verge of being acquired again, this time by the backers of the Six Nations rugby tournament in a deal worth $900 million](https://www.pcgamer.com/runescape-developer-jagex-is-on-the-verge-of-being-acquired-again-this-time-by-the-backers-of-the-six-nations-rugby-tournament-in-a-deal-worth-dollar900-million)
- - [Opera buys its own Nvidia H100 mini-supercomputer, just so you can have a spot of AI in a web browser](https://www.pcgamer.com/opera-buys-its-own-nvidia-h100-mini-supercomputer-just-so-you-can-have-a-spot-of-ai-in-a-web-browser)<!-- GAME:END -->
+ - [Palworld’s 7 cutest Pals](https://www.polygon.com/gaming/24063333/palworlds-cutest-pals-relaxaurus-depresso-chillet)
+ - [An old AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip. They don&#39;t make em like that anymore, eh?](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh)
+ - [Despite Final Fantasy 7 Rebirth not having a concrete PC release date, it&#39;s just shot right to the top of my 2024 wish list for one hella big reason](https://www.pcgamer.com/despite-final-fantasy-7-rebirth-not-having-a-concrete-pc-release-date-its-just-shot-right-to-the-top-of-my-2024-wish-list-for-one-hella-big-reason)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
