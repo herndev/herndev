@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - ⏩ [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
+ - 💣 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
+ - ⏩ [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 👉 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)<!-- MEMES:END -->
 
 ---
 
