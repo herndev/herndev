@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at Common Crawl, the 9.5PB web crawl archive dating back to 2008 run by a small nonprofit, its role in generative AI, its dataset, and more &lpar;Mozilla Foundation&rpar;](http://www.techmeme.com/240207/p19#a240207p19)
- - [Save Big and Get This Vactidy V9 Stick Vacuum for Just $70, but Be Quick     - CNET](https://www.cnet.com/deals/save-big-and-get-this-vactidy-v9-stick-vacuum-for-just-70-but-be-quick/#ftag=CAD590a51e)
- - [The Three-Body Problem is getting a new audiobook release just in time for Netflix’s show](https://www.theverge.com/2024/2/7/24062452/three-body-problem-audiobook-rosalind-chao-netflix)<!-- TECH:END -->
+ - [Halo season 2 feels less like a video game — in a good way](https://www.theverge.com/24063618/halo-season-2-premiere-review-paramount-plus)
+ - [Microsoft&#39;s Threat Analysis Center says Iran&#39;s cyber operations in Israel show how Iran could target the 2024 US elections, including fake news websites &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240207/p22#a240207p22)
+ - [Lenovo revamps the Yoga Tab’s design in new Tab Plus leak](https://www.androidauthority.com/lenovo-tablet-leak-3411809/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
