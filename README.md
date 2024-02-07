@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, February 7](https://www.pcgamer.com/wordle-today-answer-february-7-2024)
  - [WWE 2K24 will include casket matches, ambulance matches, special guest referees, and apparently Muhammad Ali](https://www.pcgamer.com/wwe-2k24-will-include-casket-matches-ambulance-matches-special-guest-referees-and-apparently-muhammad-ali)
- - [Whip it Good! Breaking Down Weapons Included in Wo Long: Fallen Dynasty Complete Edition](https://news.xbox.com/en-us/2024/02/06/brand-new-weapons-in-wo-long-fallen-dynasty-complete-edition/)
- - [Suicide Squad: Kill the Justice League review](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-review)<!-- GAME:END -->
+ - [Whip it Good! Breaking Down Weapons Included in Wo Long: Fallen Dynasty Complete Edition](https://news.xbox.com/en-us/2024/02/06/brand-new-weapons-in-wo-long-fallen-dynasty-complete-edition/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
