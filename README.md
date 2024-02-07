@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Zuzalu, a co-living experiment organized by Vitalik Buterin in Montenegro in 2023, as the techno-utopian &quot;Network State&quot; concept inspires more projects &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/240207/p6#a240207p6)
- - [A Sudanese Paramilitary Group Accused of Ethnic Cleansing Is Still Tweeting Through It](https://www.wired.com/story/sudan-rsf-x-twitter/)
- - [These States Are Basically Begging You to Get a Heat Pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)<!-- TECH:END -->
+ - [iPhone 16 Pro rumored to get Capture Button with DSLR-style focus feature](https://appleinsider.com/articles/24/02/07/iphone-16-pro-rumored-to-get-capture-button-with-dslr-style-focus-feature?utm_medium=rss)
+ - [Google updates Google Maps for Android to overlay the weather and air quality index when browsing the map layer, a feature the iOS app has had for some time &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240207/p9#a240207p9)
+ - [The Galaxy Fit 3 still isn’t official, but the manual has now leaked online](https://www.androidauthority.com/samsung-galaxy-fit-3-manual-3411616/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
