@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge rules Apple won&#39;t have to face AliveCor&#39;s lawsuit alleging Apple&#39;s Watch copied heart-monitoring technology from the medical device company &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240206/p34#a240206p34)
- - [10 common WhatsApp scams and how to avoid them](https://www.androidauthority.com/common-whatsapp-scams-3411330/)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [Source: X&#39;s new Trust and Safety moderation team in Austin with 100 content moderators was initially envisioned as a 500-person team in the Bay Area &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240206/p37#a240206p37)
+ - [MicroStrategy bought 31,775 BTC in Q4 2023 for an average cost of $39,411 per BTC, taking its total holdings to 190K BTC acquired for a total cost of $5.93B &lpar;Nelson Wang/Unchained&rpar;](http://www.techmeme.com/240206/p36#a240206p36)
+ - [iPhone 16 camera bump design rumored to have shifted closer to iPhone X](https://appleinsider.com/articles/24/02/06/iphone-16-camera-bump-design-rumored-to-have-shifted-closer-to-iphone-x?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
