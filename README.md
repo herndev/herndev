@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And people keep buying them](http://9gag.com/gag/aL1ymR6)
- - ⏩ [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 👉 [Rage comic and traditional ending.](http://9gag.com/gag/a042wLq)<!-- MEMES:END -->
+ - 💣 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - ⏩ [Title is important](http://9gag.com/gag/abv9RLE)
+ - 👉 [You know what...](http://9gag.com/gag/a5X8jVg)<!-- MEMES:END -->
 
 ---
 
