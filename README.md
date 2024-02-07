@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi 14 series will launch globally soon, but is the 14 Ultra coming too?](https://www.androidauthority.com/xiaomi-14-series-global-launch-date-confirmed-3411060/)
- - [Samsung reveals list of Galaxy AI features coming to older phones](https://www.androidauthority.com/samsung-galaxy-ai-features-older-phones-3411524/)
- - [Smaug-72B, a Qwen-72B-based open-source LLM released by Abacus AI, tops the Hugging Face Open LLM leaderboard and outperforms GPT-3.5 on several benchmarks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240206/p41#a240206p41)<!-- TECH:END -->
+ - [Sources: OpenAI, DeepMind, and others seek clarity over how the UK&#39;s AI Safety Institute is testing their AI models, timeframe, and the feedback process &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p3#a240207p3)
+ - [Douyin CEO Kelly Zhang steps down, a source says ByteDance will not seek to appoint a successor and Zhang will shift her focus to the video-editing app CapCut &lpar;Bloomberg&rpar;](http://www.techmeme.com/240207/p2#a240207p2)
+ - [Sources: Shein approached the CAC and China Securities Regulatory Commission to get their blessing for a US IPO, despite not formally requiring their approval &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p1#a240207p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
