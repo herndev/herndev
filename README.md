@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - ⏩ [Crossing the road in Indonesia be like](http://9gag.com/gag/awZ68n8)
+ - 💣 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
+ - ⏩ [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
  - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
 
 ---
