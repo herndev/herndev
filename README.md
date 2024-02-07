@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - ⏩ [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 👉 [I guess there\u2019s a new front in the war\u2026](http://9gag.com/gag/a4oDV6Q)<!-- MEMES:END -->
+ - 💣 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - ⏩ [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 👉 [Title is important](http://9gag.com/gag/abv9RLE)<!-- MEMES:END -->
 
 ---
 
