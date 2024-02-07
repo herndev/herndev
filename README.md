@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halo season 2 feels less like a video game — in a good way](https://www.theverge.com/24063618/halo-season-2-premiere-review-paramount-plus)
- - [Microsoft&#39;s Threat Analysis Center says Iran&#39;s cyber operations in Israel show how Iran could target the 2024 US elections, including fake news websites &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240207/p22#a240207p22)
- - [Lenovo revamps the Yoga Tab’s design in new Tab Plus leak](https://www.androidauthority.com/lenovo-tablet-leak-3411809/)<!-- TECH:END -->
+ - [T-Mobile is turning phone plans into VIP rewards programs](https://www.theverge.com/2024/2/7/24064839/t-mobile-magenta-status-perks-program-t-life-app)
+ - [The sports documentary boom from Netflix and beyond](https://www.theverge.com/2024/2/7/24064786/sports-streaming-docs-drive-to-survive-netflix)
+ - [Why drivers in Scotland are crashing because of bad Apple Maps data](https://appleinsider.com/articles/24/02/07/why-drivers-in-scotland-are-crashing-because-of-bad-apple-maps-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
