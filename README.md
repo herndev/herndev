@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smaug-72B, a Qwen-72B-based open-source LLM released by Abacus AI, tops the Hugging Face Open LLM leaderboard and outperforms GPT-3.5 on several benchmarks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240206/p41#a240206p41)
- - [Best Xbox Game Pass Deals: Save Up to $65 on a 1-Year Subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)
- - [London-based Colossyan, which uses generative AI and virtual avatars to create corporate training videos, raised a $22M Series A led by Lakestar &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240206/p40#a240206p40)<!-- TECH:END -->
+ - [The Xiaomi 14 series will launch globally soon, but is the 14 Ultra coming too?](https://www.androidauthority.com/xiaomi-14-series-global-launch-date-confirmed-3411060/)
+ - [Samsung reveals list of Galaxy AI features coming to older phones](https://www.androidauthority.com/samsung-galaxy-ai-features-older-phones-3411524/)
+ - [Smaug-72B, a Qwen-72B-based open-source LLM released by Abacus AI, tops the Hugging Face Open LLM leaderboard and outperforms GPT-3.5 on several benchmarks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240206/p41#a240206p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
