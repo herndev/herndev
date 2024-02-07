@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld’s 7 cutest Pals](https://www.polygon.com/gaming/24063333/palworlds-cutest-pals-relaxaurus-depresso-chillet)
- - [An old AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip. They don&#39;t make em like that anymore, eh?](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh)
- - [Despite Final Fantasy 7 Rebirth not having a concrete PC release date, it&#39;s just shot right to the top of my 2024 wish list for one hella big reason](https://www.pcgamer.com/despite-final-fantasy-7-rebirth-not-having-a-concrete-pc-release-date-its-just-shot-right-to-the-top-of-my-2024-wish-list-for-one-hella-big-reason)<!-- GAME:END -->
+ - [Ex-Star Wars actor Gina Carano wants courts to force Lucasfilm to give her job back using Elon Musk&#39;s money, praises Twitter as &#39;one of the last glimmers of hope for free speech in the world&#39;](https://www.pcgamer.com/ex-star-wars-actor-gina-carano-wants-courts-to-force-lucasfilm-to-give-her-job-back-using-elon-musks-money-praises-twitter-as-one-of-the-last-glimmers-of-hope-for-free-speech-in-the-world)
+ - [Lego’s Dune set includes a Baron Harkonnen minifig that has to be seen to be believed](https://www.polygon.com/23930166/lego-dune-set-buy-order)
+ - [Honkai: Star Rail Added A Feature Every Live-Service Game Needs](https://kotaku.com/honkai-star-rail-2-0-penacony-fates-atlas-story-guide-1851231856)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
