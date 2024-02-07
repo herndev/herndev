@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Moana TV show has been reworked into a movie, coming this year](https://www.polygon.com/24065414/moana-2-teaser-trailer-announcement)
- - [GameStop Ad Promoting &#39;Microsoft&#39; Game Pass Leads To More Xbox Chaos](https://kotaku.com/xbox-microsoft-game-pass-gamestop-ad-twitter-demo-days-1851236742)
- - [Disney invests $1.5B in Fortnite maker Epic Games](https://www.polygon.com/24065392/disney-fortnite-epic-games-1-5-billion-equity)<!-- GAME:END -->
+ - [Disney invests $1.5 billion in Epic, announces new &#39;entertainment universe&#39; in Fortnite](https://www.pcgamer.com/disney-invests-dollar15-billion-in-epic-announces-new-entertainment-universe-in-fortnite)
+ - [Blackbird Interactive has made the decision to delay the launch of Homeworld 3 to May 13](https://www.polygon.com/24065416/homeworld-3-delay-blackbird-interactive-statement)
+ - [The FTC isn’t too happy with Microsoft’s Activision Blizzard layoffs](https://www.polygon.com/24065269/ftc-microsoft-activision-deal-layoffs-appeal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
