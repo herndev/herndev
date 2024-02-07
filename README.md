@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - ⏩ [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 👉 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)<!-- MEMES:END -->
+ - 💣 [And people keep buying them](http://9gag.com/gag/aL1ymR6)
+ - ⏩ [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 👉 [Rage comic and traditional ending.](http://9gag.com/gag/a042wLq)<!-- MEMES:END -->
 
 ---
 
