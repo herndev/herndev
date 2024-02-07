@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford quietly created its own ‘skunkworks’ team to develop low-cost electric vehicles](https://www.theverge.com/2024/2/7/24064545/ford-skunkworks-low-cost-ev-battery-tesla)
- - [iPhone 16 Pro rumored to get Capture Button with DSLR-style feature](https://appleinsider.com/articles/24/02/07/iphone-16-pro-rumored-to-get-capture-button-with-dslr-style-focus-feature?utm_medium=rss)
- - [Roblox reports Q4 revenue up 30% YoY to $749.9M, bookings up 25% YoY to a record $1.1B, DAUs up 22% YoY to 71.5M, and $2.8B in 2023 revenue; RBLX jumps 13%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240207/p14#a240207p14)<!-- TECH:END -->
+ - [Apple is working on at least two folding iPhone prototypes](https://appleinsider.com/articles/24/02/07/apple-is-working-on-at-least-two-folding-iphone-prototypes?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 7&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-07-2024-3411335/)
+ - [Best Internet Providers in Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-indiana/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
