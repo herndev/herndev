@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Call of Duty Modern Warfare III &lpar;Multiplayer/Zombies Only&rpar;, NBA 2K24, and Two Point Campus](https://news.xbox.com/en-us/2024/02/08/free-play-days-call-of-duty-modern-warfare-iii-multiplayer-zombies-only-nba-2k24-and-two-point-campus/)
- - [7 demos to try before Steam Next Fest 2024 ends](https://www.polygon.com/what-to-play/2024/2/8/24055980/steam-next-fest-february-2024-best-game-demos)
- - [Audacity now has a free AI-powered noise suppressor but the machine isn&#39;t going to replace a sound engineer anytime soon](https://www.pcgamer.com/audacity-now-has-a-free-ai-powered-noise-suppressor-but-the-machine-isnt-going-to-replace-a-sound-engineer-anytime-soon)<!-- GAME:END -->
+ - [GTA Online update for the week of Feb. 8](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
+ - [Best RAM-9 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24066081/best-ram-9-loadout-class-build-mw3)
+ - [Best BP50 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24066108/best-bp50-loadout-class-build-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
