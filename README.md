@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple moves away from iTunes on PC with new Windows apps](https://www.theverge.com/2024/2/8/24065866/apple-windows-apps-music-tv-devices-itunes)
- - [Q&amp;A with Medium CEO Tony Stubblebine on Medium expecting to turn a profit in 2024, distribution, training LLMs, AI-generated content, media layoffs, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240208/p18#a240208p18)
- - [iOS 17.4 could fix Apple’s awkward video reactions feature](https://www.theverge.com/2024/2/8/24065865/ios-17-4-facetime-video-emoji-reaction-api-disable-default)<!-- TECH:END -->
+ - [Is this image a pair of shoes or a sponge? TikTok isn’t sure](https://www.theverge.com/2024/2/8/24063809/tiktok-shop-product-discovery-fail-videos)
+ - [Spotify paid out $9B to music rights holders in 2023, a &quot;figure that has tripled over the past six years&quot;, and more than $48B since its founding &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240208/p22#a240208p22)
+ - [A future iPhone could see if you&#39;re not working out hard enough](https://appleinsider.com/articles/24/02/08/a-future-iphone-could-sense-if-youre-not-working-out-hard-enough?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
