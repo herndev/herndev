@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recent Google Pixel phones have a bizarre camera bug](https://www.androidauthority.com/google-pixel-phones-camera-exposure-bug-3412062/)
- - [Pixel phones set to adapt touch sensitivity to your activities and environment](https://www.androidauthority.com/pixel-phones-adaptive-touch-sensitivity-3412073/)
- - [Battle for the Bird book excerpt details how Jack Dorsey&#39;s plan to get Elon Musk to save Twitter failed, as Musk dismantled the company after taking over &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240208/p8#a240208p8)<!-- TECH:END -->
+ - [An excerpt from Kara Swisher&#39;s upcoming book, Burn Book: covering digital media in the &#39;90s, Facebook and Google becoming information gatekeepers, and more &lpar;Kara Swisher/New York Magazine&rpar;](http://www.techmeme.com/240208/p10#a240208p10)
+ - [Apple co-created an AI tool that can perform complex image edits based on text prompts](https://www.androidauthority.com/apple-mgie-image-editing-ai-3412099/)
+ - [Google is copying the OnePlus Open with this Pixel Fold feature](https://www.androidauthority.com/google-pixel-fold-screen-continue-using-apps-oneplus-3412101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
