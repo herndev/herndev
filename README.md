@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Rehbinder effect, a phenomenon that makes cutting glass with a scissors underwater possible](http://9gag.com/gag/awZ6G11)
+ - 💣 [Clown](http://9gag.com/gag/aREY942)
  - ⏩ [There is a difference between the two](http://9gag.com/gag/awZ6G74)
  - 👉 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)<!-- MEMES:END -->
 
