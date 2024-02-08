@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
- - ⏩ [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
- - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
+ - 💣 [Army vet used his recon strat in game.](http://9gag.com/gag/a7qzP3b)
+ - ⏩ [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 👉 [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)<!-- MEMES:END -->
 
 ---
 
