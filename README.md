@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chris Dixon&#39;s book becomes an NYT Best Seller but with a dagger icon denoting bulk orders; a16z and some startups linked to it gave the book to staff and others &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/240208/p40#a240208p40)
- - [New iPhone SE rumor aligns with previous leaks that suggest a new design](https://appleinsider.com/articles/24/02/08/new-iphone-se-rumor-aligns-with-previous-leaks-that-suggest-a-new-design?utm_medium=rss)
- - [Multi Function Bottle Warmer     - CNET](https://www.cnet.com/health/parenting/multi-function-bottle-warmer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Coffee Grinder of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)
+ - [Wall Surge Protector     - CNET](https://www.cnet.com/news/wall-surge-protector-dpnl/#ftag=CAD590a51e)
+ - [Cloudflare reports Q4 revenue up 32% YoY to $362.5M, vs. $353.1M est., net loss of $27.9M, vs. $45.9M YoY, and Q1 revenue guidance above est.; NET jumps 17%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240208/p42#a240208p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
