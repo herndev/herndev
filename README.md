@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US says OpenAI, Anthropic, Microsoft, Meta, Google, Apple, Amazon, Nvidia, Palantir, and over 200 others are joining the new AI Safety Institute Consortium &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240208/p16#a240208p16)
- - [Meta’s not happy with its bill for enforcing the EU’s tough new DSA](https://www.theverge.com/2024/2/8/24065809/meta-european-union-digital-services-act-monitoring-compliance-charge-challenge)
- - [Spain puts $209 million fine on hold while Apple and Amazon appeal](https://appleinsider.com/articles/24/02/08/spain-puts-209-million-fine-on-hold-while-apple-and-amazon-appeal?utm_medium=rss)<!-- TECH:END -->
+ - [Apple moves away from iTunes on PC with new Windows apps](https://www.theverge.com/2024/2/8/24065866/apple-windows-apps-music-tv-devices-itunes)
+ - [Q&amp;A with Medium CEO Tony Stubblebine on Medium expecting to turn a profit in 2024, distribution, training LLMs, AI-generated content, media layoffs, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240208/p18#a240208p18)
+ - [iOS 17.4 could fix Apple’s awkward video reactions feature](https://www.theverge.com/2024/2/8/24065865/ios-17-4-facetime-video-emoji-reaction-api-disable-default)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
