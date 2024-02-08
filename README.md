@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney invests $1.5 billion in Epic, announces new &#39;entertainment universe&#39; in Fortnite](https://www.pcgamer.com/disney-invests-dollar15-billion-in-epic-announces-new-entertainment-universe-in-fortnite)
- - [Blackbird Interactive has made the decision to delay the launch of Homeworld 3 to May 13](https://www.polygon.com/24065416/homeworld-3-delay-blackbird-interactive-statement)
- - [The FTC isn’t too happy with Microsoft’s Activision Blizzard layoffs](https://www.polygon.com/24065269/ftc-microsoft-activision-deal-layoffs-appeal)<!-- GAME:END -->
+ - [Get To Know Our Team: Tim – Operations Manager &lpar;Game/App Flighting&rpar;](https://news.xbox.com/en-us/2024/02/07/get-to-know-our-team-tim-operations-manager-game-app-flighting/)
+ - [The guy who made Daggerfall Unity is working on his own original Daggerfall-style RPG with a custom engine](https://www.pcgamer.com/the-guy-who-made-daggerfall-unity-is-working-on-his-own-original-daggerfall-style-rpg-with-a-custom-engine)
+ - [38 Days Into 2024 And 6,300+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
