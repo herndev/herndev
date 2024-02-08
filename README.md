@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s AI is helping its engineers to bring better AI to the market faster](https://www.pcgamer.com/nvidias-ai-is-helping-its-engineers-to-bring-better-ai-to-the-market-faster)
- - [Today&#39;s Wordle answer for Thursday, February 8](https://www.pcgamer.com/wordle-today-answer-february-8-2024)
- - [AMD makes further CPU market share gains with signs pointing to a recovery in the overall PC market](https://www.pcgamer.com/amd-makes-further-cpu-market-share-gains-with-signs-pointing-to-a-recovery-in-the-overall-pc-market)<!-- GAME:END -->
+ - [Palworld&#39;s latest patch stops its capture chance boosting items making capture chances worse, and prevents your breeding Pals from being sent to a farm upstate forever](https://www.pcgamer.com/palworlds-latest-patch-stops-its-capture-chance-boosting-items-making-capture-chances-worse-and-prevents-your-breeding-pals-from-being-sent-to-a-farm-upstate-forever)
+ - [The quality of USB drives is getting worse thanks to re-used and often defective NAND chips including some from known brands](https://www.pcgamer.com/the-quality-of-usb-drives-is-getting-worse-thanks-to-re-used-and-often-defective-nand-chips-including-some-from-known-brands)
+ - [Baldur&#39;s Gate 3 player completes the game while playing as a party of cats](https://www.pcgamer.com/baldurs-gate-3-player-completes-the-game-while-playing-as-a-party-of-cats)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
