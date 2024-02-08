@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
- - ⏩ [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
- - 👉 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)<!-- MEMES:END -->
+ - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - ⏩ [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
 
 ---
 
