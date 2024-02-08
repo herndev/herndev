@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - ⏩ [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
+ - 💣 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
+ - ⏩ [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)
+ - 👉 [One&#39;s a fake, the other is a victim.](http://9gag.com/gag/abv9KYp)<!-- MEMES:END -->
 
 ---
 
