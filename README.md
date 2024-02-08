@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compare Electricity Rates in Pennsylvania     - CNET](https://www.cnet.com/how-to/electricity-rates-pennsylvania/#ftag=CAD590a51e)
- - [Sources: OpenAI is developing two types of agent software: one to automate tasks by effectively taking over a user&#39;s device, and the other for web-based tasks &lpar;The Information&rpar;](http://www.techmeme.com/240207/p31#a240207p31)
- - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta challenges the EU&#39;s DSA supervisory fee of 0.05% of Meta&#39;s annual net income that cover regulators&#39; costs, disagreeing with how the fees are calculated &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240207/p32#a240207p32)
+ - [US Credit Card Debt Hits $1.13 Trillion as High Prices Persist     - CNET](https://www.cnet.com/personal-finance/us-credit-card-debt-hits-1-13-trillion-as-high-prices-persist/#ftag=CAD590a51e)
+ - [&#39;It&#39;s Been a Long Time Coming&#39;: Taylor Swift&#39;s Eras Tour Concert Film Will Stream on Disney Plus     - CNET](https://www.cnet.com/tech/services-and-software/its-been-a-long-time-coming-taylor-swifts-eras-tour-concert-film-will-stream-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
