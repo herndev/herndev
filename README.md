@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft CEO defends Skull and Bones&#39; $60 price tag, says it&#39;s &#39;a quadruple-A game&#39;](https://www.pcgamer.com/ubisoft-ceo-defends-skull-and-bones-dollar60-price-tag-says-its-a-quadruple-a-game)
- - [All Zelda: Tears of the Kingdom amiibo rewards and unlocks list](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list)
- - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Omega &lpar;2402.240207-1700&rpar;](https://news.xbox.com/en-us/2024/02/08/xbox-insider-release-notes-omega-2402-240207-1700/)
+ - [Xbox Insider Release Notes – Delta &lpar;2402.240207-1700&rpar;](https://news.xbox.com/en-us/2024/02/08/xbox-insider-release-notes-delta-2402-240207-1700/)
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240207-1700&rpar;](https://news.xbox.com/en-us/2024/02/08/xbox-insider-release-notes-beta-2402-240207-1700/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
