@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - ⏩ [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
- - 👉 [I give up!](http://9gag.com/gag/axoXnbn)<!-- MEMES:END -->
+ - 💣 [Title is important](http://9gag.com/gag/abv9RLE)
+ - ⏩ [Prison Wallet](http://9gag.com/gag/ajVoMA8)
+ - 👉 [Sometimes, history hurts.](http://9gag.com/gag/a1PGwdR)<!-- MEMES:END -->
 
 ---
 
