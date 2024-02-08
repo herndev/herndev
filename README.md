@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
- - ⏩ [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 👉 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)<!-- MEMES:END -->
+ - 💣 [It&#39;s the back... right??](http://9gag.com/gag/aDYEQnK)
+ - ⏩ [Hello welcome](http://9gag.com/gag/a4oDwOp)
+ - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
 
 ---
 
