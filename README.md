@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple defeats lawsuit claiming Tim Cook is overpaid](https://appleinsider.com/articles/24/02/08/apple-defeats-lawsuit-claiming-tim-cook-is-overpaid?utm_medium=rss)
- - [The Danish data protection authority orders schools to stop sending student data to Google via Chromebooks and Workspace, after an over four year investigation &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240208/p12#a240208p12)
- - [Amsterdam-based payments giant Adyen reports H2 2023 net revenue up 23% YoY to &amp;euro;887M and processed volume up 29% YoY to &amp;euro;544.1B; ADYEN.AS jumps 16%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240208/p11#a240208p11)<!-- TECH:END -->
+ - [The US says OpenAI, Anthropic, Microsoft, Meta, Google, Apple, Amazon, Nvidia, Palantir, and over 200 others are joining the new AI Safety Institute Consortium &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240208/p16#a240208p16)
+ - [Meta’s not happy with its bill for enforcing the EU’s tough new DSA](https://www.theverge.com/2024/2/8/24065809/meta-european-union-digital-services-act-monitoring-compliance-charge-challenge)
+ - [Spain puts $209 million fine on hold while Apple and Amazon appeal](https://appleinsider.com/articles/24/02/08/spain-puts-209-million-fine-on-hold-while-apple-and-amazon-appeal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
