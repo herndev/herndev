@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)
- - ⏩ [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 👉 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)<!-- MEMES:END -->
+ - 💣 [Can&#39;t lift a plane](http://9gag.com/gag/a8qBn9Z)
+ - ⏩ [That&#39;s the Xany voice there](http://9gag.com/gag/avQ3Dxb)
+ - 👉 [Ancient meme calendar](http://9gag.com/gag/ap9Wd9D)<!-- MEMES:END -->
 
 ---
 
