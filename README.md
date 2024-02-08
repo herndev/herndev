@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s the back... right??](http://9gag.com/gag/aDYEQnK)
- - ⏩ [Hello welcome](http://9gag.com/gag/a4oDwOp)
- - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
+ - 💣 [They bought a 200 year old house ..](http://9gag.com/gag/ay2OY6X)
+ - ⏩ [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
+ - 👉 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)<!-- MEMES:END -->
 
 ---
 
