@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clown](http://9gag.com/gag/aREY942)
- - ⏩ [There is a difference between the two](http://9gag.com/gag/awZ6G74)
- - 👉 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)<!-- MEMES:END -->
+ - 💣 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
+ - ⏩ [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 👉 [Prison Wallet](http://9gag.com/gag/ajVoMA8)<!-- MEMES:END -->
 
 ---
 
