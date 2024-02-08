@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London Underground Is Testing Real-Time AI Surveillance Tools to Spot Crime](https://www.wired.com/story/london-underground-ai-surveillance-documents/)
- - [In iOS 17.4 Beta 2, Apple demotes PWAs in the EU from standalone apps that use the whole screen to shortcuts within the default browser, to comply with the DMA &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240208/p35#a240208p35)
- - [Travellers get Apple Vision Pro confiscated by Berlin authorities](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Every M3 iMac 24-inch is up to $200 off, plus grab a bonus AppleCare discount](https://appleinsider.com/articles/24/02/08/every-m3-imac-24-inch-is-up-to-200-off-plus-grab-a-bonus-applecare-discount?utm_medium=rss)
+ - [A profile of OpenAI COO Brad Lightcap, tasked by Sam Altman with striking a deal with Axel Springer, which may offer a road map for additional media deals &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240208/p36#a240208p36)
+ - [Fake LastPass password manager app unearthed on Apple&#39;s App Store](https://appleinsider.com/articles/24/02/08/fake-lastpass-password-manager-app-unearthed-on-apples-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
