@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of Feb. 8](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [Best RAM-9 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24066081/best-ram-9-loadout-class-build-mw3)
- - [Best BP50 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24066108/best-bp50-loadout-class-build-mw3)<!-- GAME:END -->
+ - [Premier League footballer subs in for his pro Counter-Strike team at the last minute and turns out to be extremely legit](https://www.pcgamer.com/premier-league-footballer-subs-in-for-his-pro-counter-strike-team-at-the-last-minute-and-turns-out-to-be-extremely-legit)
+ - [The FTC isn’t too happy with Microsoft’s Activision Blizzard layoffs](https://www.polygon.com/24065269/ftc-microsoft-activision-deal-layoffs-appeal)
+ - [With Knuckles, The Sonic Movies Make Their MCU Play](https://kotaku.com/knuckles-paramount-show-sonic-hedgehog-movies-shadow-1851239293)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
