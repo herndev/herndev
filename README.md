@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld&#39;s latest patch stops its capture chance boosting items making capture chances worse, and prevents your breeding Pals from being sent to a farm upstate forever](https://www.pcgamer.com/palworlds-latest-patch-stops-its-capture-chance-boosting-items-making-capture-chances-worse-and-prevents-your-breeding-pals-from-being-sent-to-a-farm-upstate-forever)
- - [The quality of USB drives is getting worse thanks to re-used and often defective NAND chips including some from known brands](https://www.pcgamer.com/the-quality-of-usb-drives-is-getting-worse-thanks-to-re-used-and-often-defective-nand-chips-including-some-from-known-brands)
- - [Baldur&#39;s Gate 3 player completes the game while playing as a party of cats](https://www.pcgamer.com/baldurs-gate-3-player-completes-the-game-while-playing-as-a-party-of-cats)<!-- GAME:END -->
+ - [Starfield&#39;s latest update will end the scourge of vibrating clouds](https://www.pcgamer.com/starfields-latest-update-will-end-the-scourge-of-vibrating-clouds)
+ - [How to get Acacia in Skull and Bones](https://www.pcgamer.com/skull-and-bones-acacia-location)
+ - [The original Homeworld still feels fresh and unique 25 years on](https://www.pcgamer.com/the-original-homeworld-still-feels-fresh-and-unique-25-years-on)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
