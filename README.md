@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta challenges the EU&#39;s DSA supervisory fee of 0.05% of Meta&#39;s annual net income that cover regulators&#39; costs, disagreeing with how the fees are calculated &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240207/p32#a240207p32)
- - [US Credit Card Debt Hits $1.13 Trillion as High Prices Persist     - CNET](https://www.cnet.com/personal-finance/us-credit-card-debt-hits-1-13-trillion-as-high-prices-persist/#ftag=CAD590a51e)
- - [&#39;It&#39;s Been a Long Time Coming&#39;: Taylor Swift&#39;s Eras Tour Concert Film Will Stream on Disney Plus     - CNET](https://www.cnet.com/tech/services-and-software/its-been-a-long-time-coming-taylor-swifts-eras-tour-concert-film-will-stream-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Is There Lead in Stanley Cups and Other Reusable Water Bottles? &lpar;Updated&rpar;](https://www.wired.com/story/stanley-cup-lead-soldering/)
+ - [The Biden administration names White House economic adviser Elizabeth Kelly to lead the NIST&#39;s newly formed AI Safety Institute to develop AI testing standards &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/240207/p33#a240207p33)
+ - [Best Valentine&#39;s Day Deals: Discounted Valentine&#39;s Gifts, Tech, Home Goods and More     - CNET](https://www.cnet.com/deals/best-valentines-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
