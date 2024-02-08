@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
- - ⏩ [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
+ - 💣 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - ⏩ [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
+ - 👉 [Prison Wallet](http://9gag.com/gag/ajVoMA8)<!-- MEMES:END -->
 
 ---
 
