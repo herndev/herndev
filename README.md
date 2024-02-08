@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In his new book, a16z GP Chris Dixon fails to identify a single blockchain project that has successfully provided a non-speculative service at any kind of scale &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240208/p2#a240208p2)
- - [SEC filing: NYSE-listed Bakkt, a crypto trading platform backed by the Intercontinental Exchange, warns that it might not be able to stay in business in a year &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/240208/p1#a240208p1)
- - [Samsung’s next Galaxy S24 update may let your manually adjust screen vividness](https://www.androidauthority.com/samsung-galaxy-s24-screen-vividness-fix-3412055/)<!-- TECH:END -->
+ - [Apple Music, Apple TV, Apple Devices apps are finally available on Windows](https://www.androidauthority.com/apple-music-tv-apple-apps-available-windows-3412058/)
+ - [A look at the use of AI in Indonesia ahead of Feb. 14 elections, as vendors and campaigns push the limits of guidelines issued by OpenAI, Midjourney, and others &lpar;Reuters&rpar;](http://www.techmeme.com/240208/p4#a240208p4)
+ - [Paris-based Pennylane, a maker of cloud-based accounting software that can import data from Stripe, Dropbox, and other services, raised &amp;euro;40M at a &amp;euro;1B+ valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240208/p3#a240208p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
