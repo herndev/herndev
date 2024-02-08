@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo The Series Season 2 Interview: “The Stakes are High – This Is a War Story”](https://news.xbox.com/en-us/2024/02/08/halo-tv-series-season-2-interview-kiki-wolfkill/)
- - [Anime more powerful than ever as Persona 3 Reload becomes the fastest selling game in Atlus&#39; history](https://www.pcgamer.com/anime-more-powerful-than-ever-as-persona-3-reload-becomes-the-fastest-selling-game-in-atlus-history)
- - [Halo season 2’s opening minutes are the best the show has ever been](https://www.polygon.com/24063790/halo-season-2-episode-1-review-master-chief-arbiter-sanctuary)<!-- GAME:END -->
+ - [Knuckles’ new TV show expands the Sonic the Hedgehog cinematic universe](https://www.polygon.com/24065955/sonic-knuckles-tv-series-paramount-plus)
+ - [Palia’s second swing at the Maji Market is much more successful](https://www.polygon.com/gaming/24063951/palia-maji-market-luna-new-year-returns-better)
+ - [Everything you can do in WoW Season of Discovery Phase 2](https://www.pcgamer.com/world-of-warcraft-wow-sod-phase-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
