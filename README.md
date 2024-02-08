@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stars keep searching for missing Usher in new Apple Music video](https://appleinsider.com/articles/24/02/08/stars-keep-searching-for-missing-usher-in-new-apple-music-video?utm_medium=rss)
- - [The FCC outlaws scam robocalls featuring fake, AI-created voices, giving state AGs more legal tools to pursue illegal robocallers that use such voices &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240208/p31#a240208p31)
- - [Daily deals Feb. 8: $200 off M3 Pro MacBook Pro, M2 MacBook Air 16GB for $1,149, $120 off Beats Studio Pro, more](https://appleinsider.com/articles/24/02/08/daily-deals-feb-8-200-off-m3-pro-macbook-pro-m2-macbook-air-16gb-for-1149-120-off-beats-studio-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [London Underground Is Testing Real-Time AI Surveillance Tools to Spot Crime](https://www.wired.com/story/london-underground-ai-surveillance-documents/)
+ - [In iOS 17.4 Beta 2, Apple demotes PWAs in the EU from standalone apps that use the whole screen to shortcuts within the default browser, to comply with the DMA &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240208/p35#a240208p35)
+ - [Travellers get Apple Vision Pro confiscated by Berlin authorities](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
