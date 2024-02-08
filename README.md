@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Knuckles’ new TV show expands the Sonic the Hedgehog cinematic universe](https://www.polygon.com/24065955/sonic-knuckles-tv-series-paramount-plus)
- - [Palia’s second swing at the Maji Market is much more successful](https://www.polygon.com/gaming/24063951/palia-maji-market-luna-new-year-returns-better)
- - [Everything you can do in WoW Season of Discovery Phase 2](https://www.pcgamer.com/world-of-warcraft-wow-sod-phase-2)<!-- GAME:END -->
+ - [Free Play Days – Call of Duty Modern Warfare III &lpar;Multiplayer/Zombies Only&rpar;, NBA 2K24, and Two Point Campus](https://news.xbox.com/en-us/2024/02/08/free-play-days-call-of-duty-modern-warfare-iii-multiplayer-zombies-only-nba-2k24-and-two-point-campus/)
+ - [7 demos to try before Steam Next Fest 2024 ends](https://www.polygon.com/what-to-play/2024/2/8/24055980/steam-next-fest-february-2024-best-game-demos)
+ - [Audacity now has a free AI-powered noise suppressor but the machine isn&#39;t going to replace a sound engineer anytime soon](https://www.pcgamer.com/audacity-now-has-a-free-ai-powered-noise-suppressor-but-the-machine-isnt-going-to-replace-a-sound-engineer-anytime-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
