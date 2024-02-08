@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Far-Right&#39;s Favorite Web Host Has a Shadowy New Owner](https://www.wired.com/story/epik-domain-registrar-new-owner/)
- - [Apple patches pesky text bug with updates to Mac and mobile devices](https://appleinsider.com/articles/24/02/08/apple-releases-ios-1731-ipados-1831-macos-sonoma-1431-and-watchos-1031?utm_medium=rss)
- - [NASA’s new mission will study microscopic plankton and aerosols from space](https://www.theverge.com/2024/2/8/24066014/nasa-climate-mission-pace-satellite-launch)<!-- TECH:END -->
+ - [Unlearn, which helps researchers run small clinical trials by creating digital twins of participants, raised a $50M Series C, taking its total funding to $130M+ &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240208/p37#a240208p37)
+ - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
+ - [iOS 17.3.1: What You Should Know About the iPhone Update     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-1-what-you-should-know-about-the-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
