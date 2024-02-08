@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD makes further CPU market share gains with signs pointing to a recovery in the overall PC market](https://www.pcgamer.com/amd-makes-further-cpu-market-share-gains-with-signs-pointing-to-a-recovery-in-the-overall-pc-market)
  - [I&#39;m still catching up on 2023&#39;s hidden gems, and now I want everyone to play the most underappreciated retro platformer of the year](https://www.pcgamer.com/im-still-catching-up-on-2023s-hidden-gems-and-now-i-want-everyone-to-play-the-most-underappreciated-retro-platformer-of-the-year)
- - [Xbox Insider Release Notes – Beta &lpar;2402.240206-2000&rpar;](https://news.xbox.com/en-us/2024/02/07/xbox-insider-release-notes-beta-2402-240206-2000/)
- - [Palworld’s breeding system is my friend group’s new obsession](https://www.polygon.com/24063703/palworld-breeding-system-egg-incubation)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240206-2000&rpar;](https://news.xbox.com/en-us/2024/02/07/xbox-insider-release-notes-beta-2402-240206-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
