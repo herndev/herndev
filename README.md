@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s latest update will end the scourge of vibrating clouds](https://www.pcgamer.com/starfields-latest-update-will-end-the-scourge-of-vibrating-clouds)
- - [How to get Acacia in Skull and Bones](https://www.pcgamer.com/skull-and-bones-acacia-location)
- - [The original Homeworld still feels fresh and unique 25 years on](https://www.pcgamer.com/the-original-homeworld-still-feels-fresh-and-unique-25-years-on)<!-- GAME:END -->
+ - [Halo The Series Season 2 Interview: “The Stakes are High – This Is a War Story”](https://news.xbox.com/en-us/2024/02/08/halo-tv-series-season-2-interview-kiki-wolfkill/)
+ - [Anime more powerful than ever as Persona 3 Reload becomes the fastest selling game in Atlus&#39; history](https://www.pcgamer.com/anime-more-powerful-than-ever-as-persona-3-reload-becomes-the-fastest-selling-game-in-atlus-history)
+ - [Halo season 2’s opening minutes are the best the show has ever been](https://www.polygon.com/24063790/halo-season-2-episode-1-review-master-chief-arbiter-sanctuary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
