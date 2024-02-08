@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
- - ⏩ [Windows God Mode](http://9gag.com/gag/aqeqY1M)
- - 👉 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)<!-- MEMES:END -->
+ - 💣 [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)
+ - ⏩ [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 👉 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)<!-- MEMES:END -->
 
 ---
 
