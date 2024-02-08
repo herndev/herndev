@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Inclusive, Accessible, Easy-Going Games Revealed for Xbox During the Whitethorn Winter Showcase](https://news.xbox.com/en-us/2024/02/08/games-revealed-for-xbox-during-the-whitethorn-winter-showcase/)
- - [Overwatch 2 gets some of its biggest changes yet in new season](https://www.polygon.com/24066337/overwatch-2-season-9-hero-health-changes)
- - [All The Xbox Games Rumored To Come To PS5 &amp; Switch](https://kotaku.com/xbox-games-rumored-for-playstation-and-switch-1851239628)<!-- GAME:END -->
+ - [Discworld rerelease is &#39;on the cards&#39; according to the original game&#39;s director, but is &#39;a complicated process&#39; because King Charles may own 50% of the IP rights](https://www.pcgamer.com/discworld-rerelease-is-on-the-cards-according-to-the-original-games-director-but-is-a-complicated-process-because-king-charles-may-own-50-of-the-ip-rights)
+ - [GTA 6 Trailer Painstakingly Recreated In IRL Miami](https://kotaku.com/gta-6-trailer-recreated-real-life-comparison-miami-1851240237)
+ - [Helldivers 2 studio in &#39;crisis mode&#39; as servers buckle under the weight of a popular launch, first hotfix out now](https://www.pcgamer.com/helldivers-2-studio-in-crisis-mode-as-servers-buckle-under-the-weight-of-a-popular-launch-first-hotfix-out-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
