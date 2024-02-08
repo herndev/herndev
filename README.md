@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from Kara Swisher&#39;s upcoming book, Burn Book: covering digital media in the &#39;90s, Facebook and Google becoming information gatekeepers, and more &lpar;Kara Swisher/New York Magazine&rpar;](http://www.techmeme.com/240208/p10#a240208p10)
- - [Apple co-created an AI tool that can perform complex image edits based on text prompts](https://www.androidauthority.com/apple-mgie-image-editing-ai-3412099/)
- - [Google is copying the OnePlus Open with this Pixel Fold feature](https://www.androidauthority.com/google-pixel-fold-screen-continue-using-apps-oneplus-3412101/)<!-- TECH:END -->
+ - [Apple defeats lawsuit claiming Tim Cook is overpaid](https://appleinsider.com/articles/24/02/08/apple-defeats-lawsuit-claiming-tim-cook-is-overpaid?utm_medium=rss)
+ - [The Danish data protection authority orders schools to stop sending student data to Google via Chromebooks and Workspace, after an over four year investigation &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240208/p12#a240208p12)
+ - [Amsterdam-based payments giant Adyen reports H2 2023 net revenue up 23% YoY to &amp;euro;887M and processed volume up 29% YoY to &amp;euro;544.1B; ADYEN.AS jumps 16%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240208/p11#a240208p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
