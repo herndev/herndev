@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Recent Google Pixel phones have a bizarre camera bug](https://www.androidauthority.com/google-pixel-phones-camera-exposure-bug-3412062/)
  - [Pixel phones set to adapt touch sensitivity to your activities and environment](https://www.androidauthority.com/pixel-phones-adaptive-touch-sensitivity-3412073/)
- - [Battle for the Bird book excerpt details how Jack Dorsey&#39;s plan to get Elon Musk to save Twitter failed, as Musk dismantled the company after taking over &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240208/p8#a240208p8)
- - [Microsoft partners with Bengaluru-based Sarvam AI, which is building LLMs that support Indian languages, for developing voice-based generative AI tools &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240208/p7#a240208p7)<!-- TECH:END -->
+ - [Battle for the Bird book excerpt details how Jack Dorsey&#39;s plan to get Elon Musk to save Twitter failed, as Musk dismantled the company after taking over &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240208/p8#a240208p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
