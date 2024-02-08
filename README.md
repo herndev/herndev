@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discworld rerelease is &#39;on the cards&#39; according to the original game&#39;s director, but is &#39;a complicated process&#39; because King Charles may own 50% of the IP rights](https://www.pcgamer.com/discworld-rerelease-is-on-the-cards-according-to-the-original-games-director-but-is-a-complicated-process-because-king-charles-may-own-50-of-the-ip-rights)
- - [GTA 6 Trailer Painstakingly Recreated In IRL Miami](https://kotaku.com/gta-6-trailer-recreated-real-life-comparison-miami-1851240237)
- - [Helldivers 2 studio in &#39;crisis mode&#39; as servers buckle under the weight of a popular launch, first hotfix out now](https://www.pcgamer.com/helldivers-2-studio-in-crisis-mode-as-servers-buckle-under-the-weight-of-a-popular-launch-first-hotfix-out-now)<!-- GAME:END -->
+ - [Ubisoft CEO defends Skull and Bones&#39; $60 price tag, says it&#39;s &#39;a quadruple-A game&#39;](https://www.pcgamer.com/ubisoft-ceo-defends-skull-and-bones-dollar60-price-tag-says-its-a-quadruple-a-game)
+ - [All Zelda: Tears of the Kingdom amiibo rewards and unlocks list](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list)
+ - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
