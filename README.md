@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They bought a 200 year old house ..](http://9gag.com/gag/ay2OY6X)
- - ⏩ [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
- - 👉 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)<!-- MEMES:END -->
+ - 💣 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
+ - ⏩ [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
 
 ---
 
