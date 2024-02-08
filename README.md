@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is this image a pair of shoes or a sponge? TikTok isn’t sure](https://www.theverge.com/2024/2/8/24063809/tiktok-shop-product-discovery-fail-videos)
- - [Spotify paid out $9B to music rights holders in 2023, a &quot;figure that has tripled over the past six years&quot;, and more than $48B since its founding &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240208/p22#a240208p22)
- - [A future iPhone could see if you&#39;re not working out hard enough](https://appleinsider.com/articles/24/02/08/a-future-iphone-could-sense-if-youre-not-working-out-hard-enough?utm_medium=rss)<!-- TECH:END -->
+ - [US House investigation: GGV, GSR, Qualcomm Ventures, Sequoia, and Walden invested $1B+ in China&#39;s chip industry across 150+ deals between 2001 and August 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/240208/p26#a240208p26)
+ - [We looked into the Galaxy S24 Ultra’s image shift issue, and this is what we found](https://www.androidauthority.com/samsung-galaxy-s24-ultra-image-shift-issue-3411645/)
+ - [OK Google, stop! Everything about this AI strategy is beyond confusing](https://www.androidauthority.com/google-ai-strategy-3411943/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
