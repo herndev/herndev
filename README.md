@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US House investigation: GGV, GSR, Qualcomm Ventures, Sequoia, and Walden invested $1B+ in China&#39;s chip industry across 150+ deals between 2001 and August 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/240208/p26#a240208p26)
- - [We looked into the Galaxy S24 Ultra’s image shift issue, and this is what we found](https://www.androidauthority.com/samsung-galaxy-s24-ultra-image-shift-issue-3411645/)
- - [OK Google, stop! Everything about this AI strategy is beyond confusing](https://www.androidauthority.com/google-ai-strategy-3411943/)<!-- TECH:END -->
+ - [Dyson’s new high-tech hairdryer is for the pros](https://www.theverge.com/2024/2/8/24063308/dyson-supersonic-r-hairdryer-beauty-tech)
+ - [The best ROG Ally accessories to get the most out of your handheld](https://www.androidauthority.com/best-rog-ally-accessories-3410761/)
+ - [Filing: the FTC seeks a pause in Microsoft&#39;s Activision Blizzard acquisition, arguing layoffs in Microsoft&#39;s gaming division contradict Microsoft&#39;s prior claims &lpar;Jessica Conditt/Engadget&rpar;](http://www.techmeme.com/240208/p29#a240208p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
