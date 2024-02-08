@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - ⏩ [Bro is on a mission](http://9gag.com/gag/aYV2d50)
- - 👉 [Feel old yet?](http://9gag.com/gag/aGEWOLz)<!-- MEMES:END -->
+ - 💣 [The Rehbinder effect, a phenomenon that makes cutting glass with a scissors underwater possible](http://9gag.com/gag/awZ6G11)
+ - ⏩ [There is a difference between the two](http://9gag.com/gag/awZ6G74)
+ - 👉 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)<!-- MEMES:END -->
 
 ---
 
