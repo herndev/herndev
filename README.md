@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t lift a plane](http://9gag.com/gag/a8qBn9Z)
- - ⏩ [That&#39;s the Xany voice there](http://9gag.com/gag/avQ3Dxb)
- - 👉 [Ancient meme calendar](http://9gag.com/gag/ap9Wd9D)<!-- MEMES:END -->
+ - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - ⏩ [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 👉 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)<!-- MEMES:END -->
 
 ---
 
