@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Army vet used his recon strat in game.](http://9gag.com/gag/a7qzP3b)
- - ⏩ [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - 👉 [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)<!-- MEMES:END -->
+ - 💣 [Title is important](http://9gag.com/gag/abv9RLE)
+ - ⏩ [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)
+ - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
 
 ---
 
