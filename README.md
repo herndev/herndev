@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - ⏩ [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 👉 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)<!-- MEMES:END -->
+ - 💣 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
+ - ⏩ [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 👉 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)<!-- MEMES:END -->
 
 ---
 
