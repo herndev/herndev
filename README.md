@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Premier League footballer subs in for his pro Counter-Strike team at the last minute and turns out to be extremely legit](https://www.pcgamer.com/premier-league-footballer-subs-in-for-his-pro-counter-strike-team-at-the-last-minute-and-turns-out-to-be-extremely-legit)
- - [The FTC isn’t too happy with Microsoft’s Activision Blizzard layoffs](https://www.polygon.com/24065269/ftc-microsoft-activision-deal-layoffs-appeal)
- - [With Knuckles, The Sonic Movies Make Their MCU Play](https://kotaku.com/knuckles-paramount-show-sonic-hedgehog-movies-shadow-1851239293)<!-- GAME:END -->
+ - [New Inclusive, Accessible, Easy-Going Games Revealed for Xbox During the Whitethorn Winter Showcase](https://news.xbox.com/en-us/2024/02/08/games-revealed-for-xbox-during-the-whitethorn-winter-showcase/)
+ - [Overwatch 2 gets some of its biggest changes yet in new season](https://www.polygon.com/24066337/overwatch-2-season-9-hero-health-changes)
+ - [All The Xbox Games Rumored To Come To PS5 &amp; Switch](https://kotaku.com/xbox-games-rumored-for-playstation-and-switch-1851239628)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
