@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
- - ⏩ [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)
- - 👉 [One&#39;s a fake, the other is a victim.](http://9gag.com/gag/abv9KYp)<!-- MEMES:END -->
+ - 💣 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
+ - ⏩ [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---
 
