@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - ⏩ [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
- - 👉 [Prison Wallet](http://9gag.com/gag/ajVoMA8)<!-- MEMES:END -->
+ - 💣 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - ⏩ [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
 
 ---
 
