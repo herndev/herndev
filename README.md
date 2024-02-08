@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get To Know Our Team: Tim – Operations Manager &lpar;Game/App Flighting&rpar;](https://news.xbox.com/en-us/2024/02/07/get-to-know-our-team-tim-operations-manager-game-app-flighting/)
- - [The guy who made Daggerfall Unity is working on his own original Daggerfall-style RPG with a custom engine](https://www.pcgamer.com/the-guy-who-made-daggerfall-unity-is-working-on-his-own-original-daggerfall-style-rpg-with-a-custom-engine)
- - [38 Days Into 2024 And 6,300+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
+ - [I&#39;m still catching up on 2023&#39;s hidden gems, and now I want everyone to play the most underappreciated retro platformer of the year](https://www.pcgamer.com/im-still-catching-up-on-2023s-hidden-gems-and-now-i-want-everyone-to-play-the-most-underappreciated-retro-platformer-of-the-year)
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240206-2000&rpar;](https://news.xbox.com/en-us/2024/02/07/xbox-insider-release-notes-beta-2402-240206-2000/)
+ - [Palworld’s breeding system is my friend group’s new obsession](https://www.polygon.com/24063703/palworld-breeding-system-egg-incubation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
