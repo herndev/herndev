@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson’s new high-tech hairdryer is for the pros](https://www.theverge.com/2024/2/8/24063308/dyson-supersonic-r-hairdryer-beauty-tech)
- - [The best ROG Ally accessories to get the most out of your handheld](https://www.androidauthority.com/best-rog-ally-accessories-3410761/)
- - [Filing: the FTC seeks a pause in Microsoft&#39;s Activision Blizzard acquisition, arguing layoffs in Microsoft&#39;s gaming division contradict Microsoft&#39;s prior claims &lpar;Jessica Conditt/Engadget&rpar;](http://www.techmeme.com/240208/p29#a240208p29)<!-- TECH:END -->
+ - [Stars keep searching for missing Usher in new Apple Music video](https://appleinsider.com/articles/24/02/08/stars-keep-searching-for-missing-usher-in-new-apple-music-video?utm_medium=rss)
+ - [The FCC outlaws scam robocalls featuring fake, AI-created voices, giving state AGs more legal tools to pursue illegal robocallers that use such voices &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240208/p31#a240208p31)
+ - [Daily deals Feb. 8: $200 off M3 Pro MacBook Pro, M2 MacBook Air 16GB for $1,149, $120 off Beats Studio Pro, more](https://appleinsider.com/articles/24/02/08/daily-deals-feb-8-200-off-m3-pro-macbook-pro-m2-macbook-air-16gb-for-1149-120-off-beats-studio-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
