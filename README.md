@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - ⏩ [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
+ - ⏩ [Bro is on a mission](http://9gag.com/gag/aYV2d50)
+ - 👉 [Feel old yet?](http://9gag.com/gag/aGEWOLz)<!-- MEMES:END -->
 
 ---
 
