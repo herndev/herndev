@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title is important](http://9gag.com/gag/abv9RLE)
- - ⏩ [Prison Wallet](http://9gag.com/gag/ajVoMA8)
- - 👉 [Sometimes, history hurts.](http://9gag.com/gag/a1PGwdR)<!-- MEMES:END -->
+ - 💣 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - ⏩ [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
+ - 👉 [A beautiful life.](http://9gag.com/gag/aYV2nyq)<!-- MEMES:END -->
 
 ---
 
