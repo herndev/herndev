@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unlearn, which helps researchers run small clinical trials by creating digital twins of participants, raised a $50M Series C, taking its total funding to $130M+ &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240208/p37#a240208p37)
- - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
- - [iOS 17.3.1: What You Should Know About the iPhone Update     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-1-what-you-should-know-about-the-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chris Dixon&#39;s book becomes an NYT Best Seller but with a dagger icon denoting bulk orders; a16z and some startups linked to it gave the book to staff and others &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/240208/p40#a240208p40)
+ - [New iPhone SE rumor aligns with previous leaks that suggest a new design](https://appleinsider.com/articles/24/02/08/new-iphone-se-rumor-aligns-with-previous-leaks-that-suggest-a-new-design?utm_medium=rss)
+ - [Multi Function Bottle Warmer     - CNET](https://www.cnet.com/health/parenting/multi-function-bottle-warmer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
