@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240206-2200&rpar;](https://news.xbox.com/en-us/2024/02/09/xbox-insider-release-notes-alpha-skip-ahead-2408-240206-2200/)
- - [Hideo Kojima says Metal Gear fans and a health scare inspired his new game Physint](https://www.polygon.com/24067655/hideo-kojima-productions-physint-metal-gear)
- - [The best Modern Warfare 3 guns to use in Season 2](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)<!-- GAME:END -->
+ - [Lethal Company is one of the top games on the iOS App Store, but there&#39;s just one problem: It&#39;s &#39;not real,&#39; developer says](https://www.pcgamer.com/lethal-company-is-one-of-the-top-games-on-the-ios-app-store-but-theres-just-one-problem-its-not-real-developer-says)
+ - [This Steam creator cracked the code of cozy hidden objects games to create 42 charming puzzlers in just 2 years](https://www.pcgamer.com/this-steam-creator-has-cracked-the-code-of-cozy-hidden-objects-games-to-create-42-charming-puzzlers-in-just-2-years)
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240207-2200&rpar;](https://news.xbox.com/en-us/2024/02/09/xbox-insider-release-notes-alpha-2403-240207-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
