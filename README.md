@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: Snapchat is down, and users are unable to send snaps or texts](https://www.androidauthority.com/snapchat-is-down-3412787/)
- - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763/)
- - [The next Pixel feature drop could come with these new features](https://www.androidauthority.com/march-2024-pixel-feature-drop-features-3412064/)<!-- TECH:END -->
+ - [Xiaomi 14 Ultra specs leak: A camera powerhouse, but what else?](https://www.androidauthority.com/xiaomi-14-ultra-specs-leak-3412801/)
+ - [5 tech trends to get excited about in 2024](https://www.androidauthority.com/tech-trends-2024-3410277/)
+ - [It’s not just you: Snapchat is down, and users are unable to send snaps or texts](https://www.androidauthority.com/snapchat-is-down-3412787/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
