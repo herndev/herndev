@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for February 12 to 16](https://news.xbox.com/en-us/2024/02/09/next-week-on-xbox-new-games-for-february-12-to-16/)
- - [Final Fantasy 7 Remake director would give an emphatic &#39;No!&#39; if someone asked him for an FF8 remake, and FF8&#39;s original director isn&#39;t keen either](https://www.pcgamer.com/final-fantasy-7-remake-director-would-give-an-emphatic-no-if-someone-asked-him-for-an-ff8-remake-and-ff8s-original-director-isnt-keen-either)
- - [Kotaku Investigates: Where Does The Foam In Foamstars Come From?](https://kotaku.com/what-is-foamstars-foam-actually-1851240674)<!-- GAME:END -->
+ - [Explore the World Through Lara’s Lens with Tomb Raider I-III Remastered Photo Mode](https://news.xbox.com/en-us/2024/02/09/explore-the-world-through-laras-lens-with-tomb-raider-i-iii-remastered-photo-mode/)
+ - [Super Bowl 2024 is free to stream on Paramount Plus](https://www.polygon.com/24064726/super-bowl-2024-stream-free-trial-how-to-watch)
+ - [Helldivers 2 had an extremely rough launch, but it&#39;s already in much better shape](https://www.pcgamer.com/helldivers-2-had-an-extremely-rough-launch-but-its-already-in-much-better-shape)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
