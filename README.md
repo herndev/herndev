@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Omega &lpar;2402.240207-1700&rpar;](https://news.xbox.com/en-us/2024/02/08/xbox-insider-release-notes-omega-2402-240207-1700/)
- - [Xbox Insider Release Notes – Delta &lpar;2402.240207-1700&rpar;](https://news.xbox.com/en-us/2024/02/08/xbox-insider-release-notes-delta-2402-240207-1700/)
- - [Xbox Insider Release Notes – Beta &lpar;2402.240207-1700&rpar;](https://news.xbox.com/en-us/2024/02/08/xbox-insider-release-notes-beta-2402-240207-1700/)<!-- GAME:END -->
+ - [Diablo 4&#39;s forgettable XP boost event has me crossing my fingers that its upcoming leaderboards won&#39;t be as dull](https://www.pcgamer.com/diablo-4s-forgettable-xp-boost-event-has-me-crossing-my-fingers-that-its-upcoming-leaderboards-wont-be-as-dull)
+ - [Yes, I will play Magic: The Gathering crossed with Clue](https://www.pcgamer.com/yes-i-will-play-magic-the-gathering-crossed-with-clue)
+ - [Ed boxes his way into Street Fighter 6 on February 27](https://blog.playstation.com/2024/02/08/ed-boxes-his-way-into-street-fighter-6-on-february-27/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
