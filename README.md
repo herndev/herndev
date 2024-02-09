@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do what I say, not what I do....](http://9gag.com/gag/a9q94KL)
- - ⏩ [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - 👉 [Noo.](http://9gag.com/gag/aBd7MrN)<!-- MEMES:END -->
+ - 💣 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - ⏩ [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
+ - 👉 [There we go again](http://9gag.com/gag/aWGwPB3)<!-- MEMES:END -->
 
 ---
 
