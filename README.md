@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - ⏩ [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 👉 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)<!-- MEMES:END -->
+ - 💣 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
+ - ⏩ [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
+ - 👉 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)<!-- MEMES:END -->
 
 ---
 
