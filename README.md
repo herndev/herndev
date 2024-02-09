@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 14 Ultra specs leak: A camera powerhouse, but what else?](https://www.androidauthority.com/xiaomi-14-ultra-specs-leak-3412801/)
- - [5 tech trends to get excited about in 2024](https://www.androidauthority.com/tech-trends-2024-3410277/)
- - [It’s not just you: Snapchat is down, and users are unable to send snaps or texts](https://www.androidauthority.com/snapchat-is-down-3412787/)<!-- TECH:END -->
+ - [Snapchat is down, and users are unable to send snaps or texts &lpar;Update: Back up&rpar;](https://www.androidauthority.com/snapchat-is-down-3412787/)
+ - [Sources: OpenAI&#39;s annualized revenue hit $2B in December, up from $1.3B in October 2023, and the company believes it can more than double the figure in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p6#a240209p6)
+ - [A trusted source just showed off the Galaxy A35, A55](https://www.androidauthority.com/samsung-galaxy-a35-a55-renders-3412838/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
