@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - ⏩ [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
+ - 💣 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)
+ - ⏩ [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 👉 [Especially after shitting](http://9gag.com/gag/aGEWr40)<!-- MEMES:END -->
 
 ---
 
