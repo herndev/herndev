@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Delicious in Dungeon’s delectable dishes, ranked](https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best)
- - [Xbox Insider Program 10th Anniversary Hub](https://news.xbox.com/en-us/2024/02/09/xbox-insider-program-10th-anniversary-hub/)
- - [Where to find all origami birds in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/24065340/origami-birds-locations-red-pink-yellow-green-penacony-hsr)<!-- GAME:END -->
+ - [Promenade Showcases its Gameplay in a Brand New Demo](https://news.xbox.com/en-us/2024/02/09/promenade-showcases-its-gameplay-in-a-brand-new-demo/)
+ - [Take-Two CEO says the goal with Grand Theft Auto 6 is simple: &#39;We&#39;re seeking perfection&#39;](https://www.pcgamer.com/take-two-ceo-says-the-goal-with-grand-theft-auto-6-is-simple-were-seeking-perfection)
+ - [Tribes 3&#39;s Next Fest demo has me hopeful for a Tribes game that finally sticks](https://www.pcgamer.com/tribes-3s-next-fest-demo-has-me-hopeful-for-a-tribes-game-that-finally-sticks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
