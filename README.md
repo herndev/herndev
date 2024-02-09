@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC says Americans lost over $10B to scammers in 2023, up 14% YoY, with 2.6M+ consumers filing fraud reports; imposter scams were the most reported &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240209/p23#a240209p23)
- - [Google One passes landmark subscribers milestone](https://www.androidauthority.com/google-one-100-million-subscribers-3413242/)
- - [Peacock will stream the Chinese adaptation of The Three-Body Problem](https://www.theverge.com/2024/2/9/24067865/peacock-three-body-problem-stream-date-trailer)<!-- TECH:END -->
+ - [Funimation Digital Libraries Were Supposed to Last ‘Forever.’ Soon They’ll Disappear](https://www.wired.com/story/funimation-digital-libraries-crunchyroll-disappear/)
+ - [Google Pixel 7a     - CNET](https://www.cnet.com/tech/mobile/google-pixel-7a-dpnl/#ftag=CAD590a51e)
+ - [Anne Klein AK/1470     - CNET](https://www.cnet.com/tech/anne-klein-ak1470-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
