@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New report predicts 60% of PCs sold will be AI-capable by 2027 and I just died of not surprise](https://www.pcgamer.com/new-report-predicts-60-of-pcs-sold-will-be-ai-capable-by-2027-and-i-just-died-of-not-surprise)
- - [Diablo 2 speedrunner effortlessly trolls audience by breezily selling ultra-rare rune it&#39;s taken others 20 years to find](https://www.pcgamer.com/diablo-2-speedrunner-effortlessly-trolls-audience-by-breezily-selling-ultra-rare-rune-its-taken-others-20-years-to-find)
- - [Former Overwatch 2 artist alleges shocking mistreatment by Blizzard management: &#39;I spent most of a year stressed out of my mind&#39;](https://www.pcgamer.com/former-overwatch-2-artist-alleges-shocking-mistreatment-by-blizzard-management-i-spent-most-of-a-year-stressed-out-of-my-mind)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for February 12 to 16](https://news.xbox.com/en-us/2024/02/09/next-week-on-xbox-new-games-for-february-12-to-16/)
+ - [Final Fantasy 7 Remake director would give an emphatic &#39;No!&#39; if someone asked him for an FF8 remake, and FF8&#39;s original director isn&#39;t keen either](https://www.pcgamer.com/final-fantasy-7-remake-director-would-give-an-emphatic-no-if-someone-asked-him-for-an-ff8-remake-and-ff8s-original-director-isnt-keen-either)
+ - [Kotaku Investigates: Where Does The Foam In Foamstars Come From?](https://kotaku.com/what-is-foamstars-foam-actually-1851240674)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
