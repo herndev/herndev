@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll results: You really want the Galaxy S25 to have a removable battery](https://www.androidauthority.com/galaxy-s25-removable-battery-poll-results-3412887/)
- - [&#39;Foundation&#39; cast and crew sent home as production delayed](https://appleinsider.com/articles/24/02/09/foundation-cast-and-crew-sent-home-as-production-delayed?utm_medium=rss)
- - [2054, Part V: From Tokyo With Love](https://www.wired.com/story/2054-part-v-from-tokyo-with-love/)<!-- TECH:END -->
+ - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
+ - [Something is happening to Progressive Web Apps in iOS 17.4 -- but they aren&#39;t dead](https://appleinsider.com/articles/24/02/09/something-is-happening-to-progressive-web-apps-in-ios-174----but-they-arent-dead?utm_medium=rss)
+ - [How much does Disney Plus cost around the world?](https://www.androidauthority.com/disney-plus-cost-around-the-world-3412684/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
