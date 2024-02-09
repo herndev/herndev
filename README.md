@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - ⏩ [Greg out there doing God&#39;s work](http://9gag.com/gag/a2Kn9nd)
- - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
+ - 💣 [No more f**ks left](http://9gag.com/gag/aDYErpO)
+ - ⏩ [I&#39;m sure many of you dads would do the same. Movie: Finestkind](http://9gag.com/gag/agoPbA1)
+ - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
 
 ---
 
