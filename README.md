@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows’ next big upgrade won’t be Windows 12, but its still coming this year](https://www.androidauthority.com/windows-next-big-upgrade-11-24h2-3412768/)
- - [Sources: Singapore-based Grab and Jakarta-based GoTo revive talks for a ride-hailing merger in Southeast Asia; GoTo says &quot;no such discussion is taking place&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240209/p3#a240209p3)
- - [Your Pixel is getting a new Google Play System update after months](https://www.androidauthority.com/google-play-system-update-pixels-january-2024-3412763/)<!-- TECH:END -->
+ - [It’s not just you: Snapchat is down, and users are unable to send snaps or texts](https://www.androidauthority.com/snapchat-is-down-3412787/)
+ - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763/)
+ - [The next Pixel feature drop could come with these new features](https://www.androidauthority.com/march-2024-pixel-feature-drop-features-3412064/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
