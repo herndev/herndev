@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, February 9](https://www.pcgamer.com/wordle-today-answer-february-9-2024)
  - [ASRock&#39;s latest 600 and 700-series BIOS updates deliver an optional boost to your 14th Gen non-K CPU](https://www.pcgamer.com/asrocks-latest-600-and-700-series-bios-updates-deliver-an-optional-boost-to-your-14th-gen-non-k-cpu)
- - [So far, the Skull and Bones beta has just made me want to play Sea of Thieves again](https://www.pcgamer.com/skull-and-bones-beta-impressions)
- - [Diablo 4&#39;s forgettable XP boost event has me crossing my fingers that its upcoming leaderboards won&#39;t be as dull](https://www.pcgamer.com/diablo-4s-forgettable-xp-boost-event-has-me-crossing-my-fingers-that-its-upcoming-leaderboards-wont-be-as-dull)<!-- GAME:END -->
+ - [So far, the Skull and Bones beta has just made me want to play Sea of Thieves again](https://www.pcgamer.com/skull-and-bones-beta-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
