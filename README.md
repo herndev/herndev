@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our simulated Super Bowl 2024 predicts only a single touchdown because it&#39;s really hard to score a touchdown in the pinball game we used for the simulation](https://www.pcgamer.com/our-simulated-super-bowl-2024-predicts-only-a-single-touchdown-because-its-really-hard-to-score-a-touchdown-in-the-pinball-game-we-used-for-the-simulation)
- - [How to Have Sex should be required viewing for teenagers — and former teenagers](https://www.polygon.com/24067567/how-to-have-sex-review-recommendation)
- - [Skull And Bones Is Less The Pirate Life And More The Division](https://kotaku.com/skull-and-bones-review-open-beta-is-it-good-ubisoft-1851243458)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240206-2200&rpar;](https://news.xbox.com/en-us/2024/02/09/xbox-insider-release-notes-alpha-skip-ahead-2408-240206-2200/)
+ - [Hideo Kojima says Metal Gear fans and a health scare inspired his new game Physint](https://www.polygon.com/24067655/hideo-kojima-productions-physint-metal-gear)
+ - [The best Modern Warfare 3 guns to use in Season 2](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
