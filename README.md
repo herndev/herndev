@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police take months to arrest stalker identified by AirTag](https://appleinsider.com/articles/24/02/09/police-take-months-to-arrest-stalker-identified-by-airtag?utm_medium=rss)
- - [Nothing Phone 2a renders are ‘inaccurate,’ says the site that leaked them](https://www.androidauthority.com/nothing-phone-2a-renders-wrong-3413012/)
- - [Carlyle Group agrees to sell UK game publisher Jagex, which develops RuneScape, to CVC Capital, sources say for &amp;pound;900M, after acquiring it in 2021 for $530M+ &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/240209/p15#a240209p15)<!-- TECH:END -->
+ - [The best Super Bowl TV deals to upgrade your setup before kickoff](https://www.theverge.com/2024/2/9/24064996/best-super-bowl-tv-deals)
+ - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
+ - [The Samsung Bar Plus 256GB flash drive drops to best price yet at $19.99](https://www.androidauthority.com/samsung-bar-plus-flash-drive-deal-3413082/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
