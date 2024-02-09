@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Funimation Digital Libraries Were Supposed to Last ‘Forever.’ Soon They’ll Disappear](https://www.wired.com/story/funimation-digital-libraries-crunchyroll-disappear/)
- - [Google Pixel 7a     - CNET](https://www.cnet.com/tech/mobile/google-pixel-7a-dpnl/#ftag=CAD590a51e)
- - [Anne Klein AK/1470     - CNET](https://www.cnet.com/tech/anne-klein-ak1470-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Best Valentine’s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)
+ - [Meet the Pranksters Behind Goody-2, the World’s ‘Most Responsible’ AI Chatbot](https://www.wired.com/story/goody-2-worlds-most-responsible-ai-chatbot/)
+ - [6 common Google Chat scams and how to avoid them](https://www.androidauthority.com/common-google-chat-scams-3413091/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
