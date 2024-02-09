@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
- - ⏩ [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 👉 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)<!-- MEMES:END -->
+ - 💣 [China as the correct vaccine for this cult](http://9gag.com/gag/anzLwoq)
+ - ⏩ [Goat-loving rocket scientist takes 15 hostages on a Swiss regional train. Police execute him. At least one country in Western Europe still has balls in its pants.](http://9gag.com/gag/a1PGgbb)
+ - 👉 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)<!-- MEMES:END -->
 
 ---
 
