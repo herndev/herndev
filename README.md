@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is axing the ‘Assistant with Bard’ branding now that Gemini is here](https://www.androidauthority.com/google-gemini-replacing-assistant-with-bard-3412760/)
- - [Microsoft Visual Studio Professional 2022 gets a hefty 92% discount](https://appleinsider.com/articles/24/02/09/microsoft-visual-studio-professional-2022-gets-a-hefty-92-discount?utm_medium=rss)
- - [Ezra, which offers AI-powered full-body MRI scans to detect cancer, raised $21M led by Healthier Capital and FirstMark Capital, taking its total funding to $41M &lpar;AlleyWatch&rpar;](http://www.techmeme.com/240208/p49#a240208p49)<!-- TECH:END -->
+ - [Your Pixel is getting a new Google Play System update after months](https://www.androidauthority.com/google-play-system-update-pixels-january-2024-3412763/)
+ - [Stockholm-based Xensam, which offers AI-based tools for software asset management, raised $40M from Expedition Growth Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240209/p2#a240209p2)
+ - [John Walker, a computer programmer and co-founder of 3D design software maker Autodesk, died on February 2 at the age of 75 &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/240209/p1#a240209p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
