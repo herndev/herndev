@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more f**ks left](http://9gag.com/gag/aDYErpO)
- - ⏩ [I&#39;m sure many of you dads would do the same. Movie: Finestkind](http://9gag.com/gag/agoPbA1)
- - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
+ - 💣 [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
+ - ⏩ [Cultured people have sticks](http://9gag.com/gag/abv9dor)
+ - 👉 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)<!-- MEMES:END -->
 
 ---
 
