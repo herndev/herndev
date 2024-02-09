@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Centers for Medicare &amp; Medicaid Services says health insurers cannot use AI to determine care or deny coverage to members on Medicare Advantage plans &lpar;Beth Mole/Ars Technica&rpar;](http://www.techmeme.com/240209/p22#a240209p22)
- - [Travel Deals: Book an Adventure for You and Yours This Valentine&#39;s Day     - CNET](https://www.cnet.com/deals/travel-deals-book-an-adventure-for-you-and-yours-this-valentines-day/#ftag=CAD590a51e)
- - [Best Action Cameras of 2024     - CNET](https://www.cnet.com/tech/computing/best-action-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FTC says Americans lost over $10B to scammers in 2023, up 14% YoY, with 2.6M+ consumers filing fraud reports; imposter scams were the most reported &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240209/p23#a240209p23)
+ - [Google One passes landmark subscribers milestone](https://www.androidauthority.com/google-one-100-million-subscribers-3413242/)
+ - [Peacock will stream the Chinese adaptation of The Three-Body Problem](https://www.theverge.com/2024/2/9/24067865/peacock-three-body-problem-stream-date-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
