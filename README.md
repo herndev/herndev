@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)
- - ⏩ [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - 👉 [Especially after shitting](http://9gag.com/gag/aGEWr40)<!-- MEMES:END -->
+ - 💣 [It takes 2 minutes of searching to disprove this joke of an `interview`. Man disrespected half of Europe by his decrepit rambling and smearing dirt all over history.](http://9gag.com/gag/aL1yoeP)
+ - ⏩ [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)
+ - 👉 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)<!-- MEMES:END -->
 
 ---
 
