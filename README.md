@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ezra, which offers AI-powered full-body MRI scans to detect cancer, raised $21M led by Healthier Capital and FirstMark Capital, taking its total funding to $41M &lpar;AlleyWatch&rpar;](http://www.techmeme.com/240208/p49#a240208p49)
- - [Best Dishwasher Features of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dishwasher-features/#ftag=CAD590a51e)
- - [Sources: Sam Altman is in talks with investors, including the UAE government, to raise funds for an AI chip initiative that could cost as much as $5T to $7T &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240208/p48#a240208p48)<!-- TECH:END -->
+ - [Google is axing the ‘Assistant with Bard’ branding now that Gemini is here](https://www.androidauthority.com/google-gemini-replacing-assistant-with-bard-3412760/)
+ - [Microsoft Visual Studio Professional 2022 gets a hefty 92% discount](https://appleinsider.com/articles/24/02/09/microsoft-visual-studio-professional-2022-gets-a-hefty-92-discount?utm_medium=rss)
+ - [Ezra, which offers AI-powered full-body MRI scans to detect cancer, raised $21M led by Healthier Capital and FirstMark Capital, taking its total funding to $41M &lpar;AlleyWatch&rpar;](http://www.techmeme.com/240208/p49#a240208p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
