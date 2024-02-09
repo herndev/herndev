@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Coffee Grinder of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)
- - [Wall Surge Protector     - CNET](https://www.cnet.com/news/wall-surge-protector-dpnl/#ftag=CAD590a51e)
- - [Cloudflare reports Q4 revenue up 32% YoY to $362.5M, vs. $353.1M est., net loss of $27.9M, vs. $45.9M YoY, and Q1 revenue guidance above est.; NET jumps 17%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240208/p42#a240208p42)<!-- TECH:END -->
+ - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
+ - [Expedia says CEO Peter Kern will step down after four years in the role and names its president for business, Ariane Gorin, as CEO, effective May 13, 2024 &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240208/p45#a240208p45)
+ - [Xiaolang Zhang, a former Apple engineer who pled guilty in August 2022 to IP theft of Apple&#39;s car project, is sentenced to 120 days in prison and a ~$147K fine &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240208/p44#a240208p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
