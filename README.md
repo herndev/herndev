@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel is getting a new Google Play System update after months](https://www.androidauthority.com/google-play-system-update-pixels-january-2024-3412763/)
- - [Stockholm-based Xensam, which offers AI-based tools for software asset management, raised $40M from Expedition Growth Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240209/p2#a240209p2)
- - [John Walker, a computer programmer and co-founder of 3D design software maker Autodesk, died on February 2 at the age of 75 &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/240209/p1#a240209p1)<!-- TECH:END -->
+ - [Windows’ next big upgrade won’t be Windows 12, but its still coming this year](https://www.androidauthority.com/windows-next-big-upgrade-11-24h2-3412768/)
+ - [Sources: Singapore-based Grab and Jakarta-based GoTo revive talks for a ride-hailing merger in Southeast Asia; GoTo says &quot;no such discussion is taking place&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240209/p3#a240209p3)
+ - [Your Pixel is getting a new Google Play System update after months](https://www.androidauthority.com/google-play-system-update-pixels-january-2024-3412763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
