@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - ⏩ [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 👉 [There we go again](http://9gag.com/gag/aWGwPB3)<!-- MEMES:END -->
+ - 💣 [Lock those windows](http://9gag.com/gag/amAEQQy)
+ - ⏩ [Revolutionary thought](http://9gag.com/gag/a4oDggy)
+ - 👉 [Good save](http://9gag.com/gag/a3ZVrZ7)<!-- MEMES:END -->
 
 ---
 
