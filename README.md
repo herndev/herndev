@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s Bitlocker &amp; TPM encryption combo defeated with a $10 Raspberry Pi and a bit of braininess](https://www.pcgamer.com/microsofts-bitlocker-and-tpm-encryption-combo-defeated-with-a-dollar10-raspberry-pi-and-a-bit-of-braininess)
- - [Creative Assembly begs Total War: Warhammer fans to come back with upgraded DLC that adds a giant terracotta warrior](https://www.pcgamer.com/creative-assembly-begs-total-war-warhammer-fans-to-come-back-with-upgraded-dlc-that-adds-a-giant-terracotta-warrior)
- - [Today&#39;s Wordle answer for Friday, February 9](https://www.pcgamer.com/wordle-today-answer-february-9-2024)<!-- GAME:END -->
+ - [New report predicts 60% of PCs sold will be AI-capable by 2027 and I just died of not surprise](https://www.pcgamer.com/new-report-predicts-60-of-pcs-sold-will-be-ai-capable-by-2027-and-i-just-died-of-not-surprise)
+ - [Diablo 2 speedrunner effortlessly trolls audience by breezily selling ultra-rare rune it&#39;s taken others 20 years to find](https://www.pcgamer.com/diablo-2-speedrunner-effortlessly-trolls-audience-by-breezily-selling-ultra-rare-rune-its-taken-others-20-years-to-find)
+ - [Former Overwatch 2 artist alleges shocking mistreatment by Blizzard management: &#39;I spent most of a year stressed out of my mind&#39;](https://www.pcgamer.com/former-overwatch-2-artist-alleges-shocking-mistreatment-by-blizzard-management-i-spent-most-of-a-year-stressed-out-of-my-mind)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
