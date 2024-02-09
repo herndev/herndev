@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It takes 2 minutes of searching to disprove this joke of an `interview`. Man disrespected half of Europe by his decrepit rambling and smearing dirt all over history.](http://9gag.com/gag/aL1yoeP)
- - ⏩ [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)
- - 👉 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)<!-- MEMES:END -->
+ - 💣 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - ⏩ [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
+ - 👉 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)<!-- MEMES:END -->
 
 ---
 
