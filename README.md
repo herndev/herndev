@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
- - ⏩ [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
+ - 💣 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - ⏩ [Cultured people have sticks](http://9gag.com/gag/abv9dor)
+ - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
 
 ---
 
