@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lethal Company is one of the top games on the iOS App Store, but there&#39;s just one problem: It&#39;s &#39;not real,&#39; developer says](https://www.pcgamer.com/lethal-company-is-one-of-the-top-games-on-the-ios-app-store-but-theres-just-one-problem-its-not-real-developer-says)
- - [This Steam creator cracked the code of cozy hidden objects games to create 42 charming puzzlers in just 2 years](https://www.pcgamer.com/this-steam-creator-has-cracked-the-code-of-cozy-hidden-objects-games-to-create-42-charming-puzzlers-in-just-2-years)
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240207-2200&rpar;](https://news.xbox.com/en-us/2024/02/09/xbox-insider-release-notes-alpha-2403-240207-2200/)<!-- GAME:END -->
+ - [Blizzard finally has a solution for the unlucky Diablo 4 players with Uber Uniques they don&#39;t want](https://www.pcgamer.com/blizzard-finally-has-a-solution-for-the-unlucky-diablo-4-players-with-uber-uniques-they-dont-want)
+ - [In a targeted attack on phone spammers, the FCC just outlawed AI voice generation for robocalls](https://www.pcgamer.com/in-a-targeted-attack-on-phone-spammers-the-fcc-just-outlawed-ai-voice-generation-for-robocalls)
+ - [38 Days Into 2024 And 6,400+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
