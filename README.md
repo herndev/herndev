@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
- - ⏩ [Greg out there doing God&#39;s work](http://9gag.com/gag/a2Kn9nd)
- - 👉 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)<!-- MEMES:END -->
+ - 💣 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
+ - ⏩ [If you didnt get to see the interview, here&#39;s the short version of it.](http://9gag.com/gag/aQE0bqK)
+ - 👉 [Arkansas Governor Bans General-Neutral Pregnancy Terms](http://9gag.com/gag/a8qBQpe)<!-- MEMES:END -->
 
 ---
 
