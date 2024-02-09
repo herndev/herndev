@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
- - [Something is happening to Progressive Web Apps in iOS 17.4 -- but they aren&#39;t dead](https://appleinsider.com/articles/24/02/09/something-is-happening-to-progressive-web-apps-in-ios-174----but-they-arent-dead?utm_medium=rss)
- - [How much does Disney Plus cost around the world?](https://www.androidauthority.com/disney-plus-cost-around-the-world-3412684/)<!-- TECH:END -->
+ - [Hands on with Google’s Gemini app: You can’t have your cake and eat it too](https://www.androidauthority.com/google-gemini-app-hands-on-3412632/)
+ - [Sources: Nvidia plans to build a new business unit focused on designing custom chips, including AI chips, for cloud companies; custom chips are a $30B market &lpar;Reuters&rpar;](http://www.techmeme.com/240209/p10#a240209p10)
+ - [Share Your Smile for Valentine&#39;s Day With Up to $50 Off Digital Photo Frames     - CNET](https://www.cnet.com/deals/share-your-smile-for-valentines-day-with-up-to-50-off-digital-photo-frames/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
