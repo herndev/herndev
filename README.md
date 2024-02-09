@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore the World Through Lara’s Lens with Tomb Raider I-III Remastered Photo Mode](https://news.xbox.com/en-us/2024/02/09/explore-the-world-through-laras-lens-with-tomb-raider-i-iii-remastered-photo-mode/)
- - [Super Bowl 2024 is free to stream on Paramount Plus](https://www.polygon.com/24064726/super-bowl-2024-stream-free-trial-how-to-watch)
- - [Helldivers 2 had an extremely rough launch, but it&#39;s already in much better shape](https://www.pcgamer.com/helldivers-2-had-an-extremely-rough-launch-but-its-already-in-much-better-shape)<!-- GAME:END -->
+ - [Delicious in Dungeon’s delectable dishes, ranked](https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best)
+ - [Xbox Insider Program 10th Anniversary Hub](https://news.xbox.com/en-us/2024/02/09/xbox-insider-program-10th-anniversary-hub/)
+ - [Where to find all origami birds in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/24065340/origami-birds-locations-red-pink-yellow-green-penacony-hsr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
