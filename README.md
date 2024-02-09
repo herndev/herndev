@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring plans to raise the price of its cheapest subscription by 25% to $5 a month or $50 a year from March 11, 2024 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240209/p12#a240209p12)
- - [Nice! The TicWatch Pro 3 Ultra just got a $120 discount](https://www.androidauthority.com/ticwatch-pro-3-ultra-deal-3412963/)
- - [Meta removes the Facebook and Instagram accounts of Iran&#39;s supreme leader for repeatedly violating its Dangerous Organizations &amp; Individuals policy &lpar;France 24&rpar;](http://www.techmeme.com/240209/p11#a240209p11)<!-- TECH:END -->
+ - [Police take months to arrest stalker identified by AirTag](https://appleinsider.com/articles/24/02/09/police-take-months-to-arrest-stalker-identified-by-airtag?utm_medium=rss)
+ - [Nothing Phone 2a renders are ‘inaccurate,’ says the site that leaked them](https://www.androidauthority.com/nothing-phone-2a-renders-wrong-3413012/)
+ - [Carlyle Group agrees to sell UK game publisher Jagex, which develops RuneScape, to CVC Capital, sources say for &amp;pound;900M, after acquiring it in 2021 for $530M+ &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/240209/p15#a240209p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
