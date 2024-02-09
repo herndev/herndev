@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Android Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
- - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
- - [Sources: Paytm E-commerce changed its name to Pai Platforms and acquired Bitsila, a seller platform on India&#39;s Open Network for Digital Commerce &lpar;The Economic Times&rpar;](http://www.techmeme.com/240209/p7#a240209p7)<!-- TECH:END -->
+ - [Poll results: You really want the Galaxy S25 to have a removable battery](https://www.androidauthority.com/galaxy-s25-removable-battery-poll-results-3412887/)
+ - [&#39;Foundation&#39; cast and crew sent home as production delayed](https://appleinsider.com/articles/24/02/09/foundation-cast-and-crew-sent-home-as-production-delayed?utm_medium=rss)
+ - [2054, Part V: From Tokyo With Love](https://www.wired.com/story/2054-part-v-from-tokyo-with-love/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
