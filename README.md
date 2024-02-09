@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - ⏩ [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
- - 👉 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)<!-- MEMES:END -->
+ - 💣 [EQUALITY of EQUALS -- If you think YOU in your RELIGION are better than others!, YOU DON&#39;T FIT INTO OUR SOCIETY.](http://9gag.com/gag/aWGwyMn)
+ - ⏩ [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)
+ - 👉 [Well he is Batman..](http://9gag.com/gag/aeQvzQ5)<!-- MEMES:END -->
 
 ---
 
