@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China as the correct vaccine for this cult](http://9gag.com/gag/anzLwoq)
- - ⏩ [Goat-loving rocket scientist takes 15 hostages on a Swiss regional train. Police execute him. At least one country in Western Europe still has balls in its pants.](http://9gag.com/gag/a1PGgbb)
- - 👉 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)<!-- MEMES:END -->
+ - 💣 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - ⏩ [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
+ - 👉 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)<!-- MEMES:END -->
 
 ---
 
