@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumors that peg iOS 18 redesign to how Apple Vision Pro looks are in the wrong order](https://appleinsider.com/articles/24/02/09/rumors-that-peg-ios-18-redesign-to-how-apple-vision-pro-looks-are-in-the-wrong-order?utm_medium=rss)
- - [At a legislative hearing in Oregon, an Apple executive opposed a strong right-to-repair bill, despite Apple&#39;s support for a similar but weaker law in California &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240209/p18#a240209p18)
- - [Xbox Game Pass Ultimate: Play Madden 24 Now Before the Super Bowl     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-madden-24-now-before-the-super-bowl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung receives FDA approval to add a feature to Galaxy Watch to detect &quot;signs of moderate to severe obstructive sleep apnea&quot; for users over the age of 22 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240209/p21#a240209p21)
+ - [New rumor claiming iOS 18 redesign is inspired by Apple Vision Pro is in the wrong order](https://appleinsider.com/articles/24/02/09/rumors-that-peg-ios-18-redesign-to-how-apple-vision-pro-looks-are-in-the-wrong-order?utm_medium=rss)
+ - [These $349 smart glasses have ‘AI superpowers’ and a comical charging nose](https://www.theverge.com/2024/2/9/24067485/frame-ai-smart-glasses-brilliant-labs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
