@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
- - ⏩ [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
- - 👉 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)<!-- MEMES:END -->
+ - 💣 [Do what I say, not what I do....](http://9gag.com/gag/a9q94KL)
+ - ⏩ [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 👉 [Noo.](http://9gag.com/gag/aBd7MrN)<!-- MEMES:END -->
 
 ---
 
