@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Google’s Gemini app: You can’t have your cake and eat it too](https://www.androidauthority.com/google-gemini-app-hands-on-3412632/)
- - [Sources: Nvidia plans to build a new business unit focused on designing custom chips, including AI chips, for cloud companies; custom chips are a $30B market &lpar;Reuters&rpar;](http://www.techmeme.com/240209/p10#a240209p10)
- - [Share Your Smile for Valentine&#39;s Day With Up to $50 Off Digital Photo Frames     - CNET](https://www.cnet.com/deals/share-your-smile-for-valentines-day-with-up-to-50-off-digital-photo-frames/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ring plans to raise the price of its cheapest subscription by 25% to $5 a month or $50 a year from March 11, 2024 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240209/p12#a240209p12)
+ - [Nice! The TicWatch Pro 3 Ultra just got a $120 discount](https://www.androidauthority.com/ticwatch-pro-3-ultra-deal-3412963/)
+ - [Meta removes the Facebook and Instagram accounts of Iran&#39;s supreme leader for repeatedly violating its Dangerous Organizations &amp; Individuals policy &lpar;France 24&rpar;](http://www.techmeme.com/240209/p11#a240209p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
