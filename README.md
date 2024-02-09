@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Super Bowl TV deals to upgrade your setup before kickoff](https://www.theverge.com/2024/2/9/24064996/best-super-bowl-tv-deals)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
- - [The Samsung Bar Plus 256GB flash drive drops to best price yet at $19.99](https://www.androidauthority.com/samsung-bar-plus-flash-drive-deal-3413082/)<!-- TECH:END -->
+ - [Rumors that peg iOS 18 redesign to how Apple Vision Pro looks are in the wrong order](https://appleinsider.com/articles/24/02/09/rumors-that-peg-ios-18-redesign-to-how-apple-vision-pro-looks-are-in-the-wrong-order?utm_medium=rss)
+ - [At a legislative hearing in Oregon, an Apple executive opposed a strong right-to-repair bill, despite Apple&#39;s support for a similar but weaker law in California &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240209/p18#a240209p18)
+ - [Xbox Game Pass Ultimate: Play Madden 24 Now Before the Super Bowl     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-madden-24-now-before-the-super-bowl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
