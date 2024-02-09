@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman is in talks with investors, including the UAE government, to raise funds for an AI chip initiative that could cost as much as $5T to $7T &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240208/p48#a240208p48)
- - [In a lawsuit, former TikTok Global Head of Brand &amp; Creative Katie Puris claims she was subjected to discrimination and &quot;ultimately unlawfully terminated&quot; &lpar;Shauneen Miranda/Axios&rpar;](http://www.techmeme.com/240208/p47#a240208p47)
- - [7 Great, Cheap Kid-Friendly Gifts That Aren&#39;t Video Games     - CNET](https://www.cnet.com/culture/entertainment/each-of-these-7-great-gifts-for-kids-costs-20-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ezra, which offers AI-powered full-body MRI scans to detect cancer, raised $21M led by Healthier Capital and FirstMark Capital, taking its total funding to $41M &lpar;AlleyWatch&rpar;](http://www.techmeme.com/240208/p49#a240208p49)
+ - [Best Dishwasher Features of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dishwasher-features/#ftag=CAD590a51e)
+ - [Sources: Sam Altman is in talks with investors, including the UAE government, to raise funds for an AI chip initiative that could cost as much as $5T to $7T &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240208/p48#a240208p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
