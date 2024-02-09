@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [So far, the Skull and Bones beta has just made me want to play Sea of Thieves again](https://www.pcgamer.com/skull-and-bones-beta-impressions)
  - [Diablo 4&#39;s forgettable XP boost event has me crossing my fingers that its upcoming leaderboards won&#39;t be as dull](https://www.pcgamer.com/diablo-4s-forgettable-xp-boost-event-has-me-crossing-my-fingers-that-its-upcoming-leaderboards-wont-be-as-dull)
- - [Yes, I will play Magic: The Gathering crossed with Clue](https://www.pcgamer.com/yes-i-will-play-magic-the-gathering-crossed-with-clue)
- - [Ed boxes his way into Street Fighter 6 on February 27](https://blog.playstation.com/2024/02/08/ed-boxes-his-way-into-street-fighter-6-on-february-27/)<!-- GAME:END -->
+ - [Yes, I will play Magic: The Gathering crossed with Clue](https://www.pcgamer.com/yes-i-will-play-magic-the-gathering-crossed-with-clue)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
