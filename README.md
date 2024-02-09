@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lock those windows](http://9gag.com/gag/amAEQQy)
- - ⏩ [Revolutionary thought](http://9gag.com/gag/a4oDggy)
- - 👉 [Good save](http://9gag.com/gag/a3ZVrZ7)<!-- MEMES:END -->
+ - 💣 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
+ - ⏩ [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - 👉 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)<!-- MEMES:END -->
 
 ---
 
