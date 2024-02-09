@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - ⏩ [Noo.](http://9gag.com/gag/aBd7MrN)
- - 👉 [Last line is a cultural thing](http://9gag.com/gag/aWGwPjA)<!-- MEMES:END -->
+ - 💣 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
+ - ⏩ [Greg out there doing God&#39;s work](http://9gag.com/gag/a2Kn9nd)
+ - 👉 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)<!-- MEMES:END -->
 
 ---
 
