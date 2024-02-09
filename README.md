@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat is down, and users are unable to send snaps or texts &lpar;Update: Back up&rpar;](https://www.androidauthority.com/snapchat-is-down-3412787/)
- - [Sources: OpenAI&#39;s annualized revenue hit $2B in December, up from $1.3B in October 2023, and the company believes it can more than double the figure in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p6#a240209p6)
- - [A trusted source just showed off the Galaxy A35, A55](https://www.androidauthority.com/samsung-galaxy-a35-a55-renders-3412838/)<!-- TECH:END -->
+ - [Best Android Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
+ - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
+ - [Sources: Paytm E-commerce changed its name to Pai Platforms and acquired Bitsila, a seller platform on India&#39;s Open Network for Digital Commerce &lpar;The Economic Times&rpar;](http://www.techmeme.com/240209/p7#a240209p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
