@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Promenade Showcases its Gameplay in a Brand New Demo](https://news.xbox.com/en-us/2024/02/09/promenade-showcases-its-gameplay-in-a-brand-new-demo/)
- - [Take-Two CEO says the goal with Grand Theft Auto 6 is simple: &#39;We&#39;re seeking perfection&#39;](https://www.pcgamer.com/take-two-ceo-says-the-goal-with-grand-theft-auto-6-is-simple-were-seeking-perfection)
- - [Tribes 3&#39;s Next Fest demo has me hopeful for a Tribes game that finally sticks](https://www.pcgamer.com/tribes-3s-next-fest-demo-has-me-hopeful-for-a-tribes-game-that-finally-sticks)<!-- GAME:END -->
+ - [Our simulated Super Bowl 2024 predicts only a single touchdown because it&#39;s really hard to score a touchdown in the pinball game we used for the simulation](https://www.pcgamer.com/our-simulated-super-bowl-2024-predicts-only-a-single-touchdown-because-its-really-hard-to-score-a-touchdown-in-the-pinball-game-we-used-for-the-simulation)
+ - [How to Have Sex should be required viewing for teenagers — and former teenagers](https://www.polygon.com/24067567/how-to-have-sex-review-recommendation)
+ - [Skull And Bones Is Less The Pirate Life And More The Division](https://kotaku.com/skull-and-bones-review-open-beta-is-it-good-ubisoft-1851243458)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
