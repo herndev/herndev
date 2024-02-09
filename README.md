@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fact](http://9gag.com/gag/az20DxK)
- - ⏩ [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
- - 👉 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)<!-- MEMES:END -->
+ - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - ⏩ [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 👉 [There we go again](http://9gag.com/gag/aWGwPB3)<!-- MEMES:END -->
 
 ---
 
