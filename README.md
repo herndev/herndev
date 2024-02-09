@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
- - ⏩ [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
+ - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - ⏩ [Greg out there doing God&#39;s work](http://9gag.com/gag/a2Kn9nd)
+ - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
 
 ---
 
