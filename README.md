@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [EQUALITY of EQUALS -- If you think YOU in your RELIGION are better than others!, YOU DON&#39;T FIT INTO OUR SOCIETY.](http://9gag.com/gag/aWGwyMn)
- - ⏩ [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)
- - 👉 [Well he is Batman..](http://9gag.com/gag/aeQvzQ5)<!-- MEMES:END -->
+ - 💣 [Fact](http://9gag.com/gag/az20DxK)
+ - ⏩ [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
+ - 👉 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)<!-- MEMES:END -->
 
 ---
 
