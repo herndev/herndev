@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard finally has a solution for the unlucky Diablo 4 players with Uber Uniques they don&#39;t want](https://www.pcgamer.com/blizzard-finally-has-a-solution-for-the-unlucky-diablo-4-players-with-uber-uniques-they-dont-want)
- - [In a targeted attack on phone spammers, the FCC just outlawed AI voice generation for robocalls](https://www.pcgamer.com/in-a-targeted-attack-on-phone-spammers-the-fcc-just-outlawed-ai-voice-generation-for-robocalls)
- - [38 Days Into 2024 And 6,400+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
+ - [11 things I wish I knew before playing Helldivers 2](https://www.pcgamer.com/11-things-i-wish-i-knew-before-playing-helldivers-2)
+ - [We&#39;re in a golden era of game demos](https://www.pcgamer.com/were-in-a-golden-era-of-game-demos)
+ - [Taco Bell Held An E3-Like Event And It Was Weird](https://kotaku.com/39-taco-bell-live-mas-2024-crunchwrap-baja-blast-1851244472)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
