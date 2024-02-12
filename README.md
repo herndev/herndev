@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait)
- - [OnePlus says the OnePlus 12R has slower storage than originally advertised](https://www.androidauthority.com/oneplus-12r-slower-storage-ufs-3413441/)
- - [Take the Galaxy S24’s protection and productivity further with UAG cases](https://www.androidauthority.com/take-the-galaxy-s24s-protection-and-productivity-further-with-uag-cases-3406942/)<!-- TECH:END -->
+ - [The Biden Campaign Is Officially Trolling on TikTok Now](https://www.wired.com/story/biden-campaign-tiktok/)
+ - [Court documents: HP calculates its Autonomy losses at up to $4B, and says Autonomy&#39;s ex-CEO and CFO must pay; Autonomy founder Mike Lynch is awaiting a US trial &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240212/p9#a240212p9)
+ - [The return of the &lpar;robot&rpar; travel agent](https://www.theverge.com/24065179/ai-travel-agent-honeymoon-planning-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
