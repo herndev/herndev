@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - ⏩ [Canadian dystopia 2024](http://9gag.com/gag/aL1yxjz)
- - 👉 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)<!-- MEMES:END -->
+ - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - ⏩ [Skills](http://9gag.com/gag/amAEjYV)
+ - 👉 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)<!-- MEMES:END -->
 
 ---
 
