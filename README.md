@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really?](http://9gag.com/gag/aQE0wX7)
- - ⏩ [Made her day](http://9gag.com/gag/a4oDeEZ)
- - 👉 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)<!-- MEMES:END -->
+ - 💣 [Bullet proof window stops a .50BMG round](http://9gag.com/gag/a8qBPmO)
+ - ⏩ [Women](http://9gag.com/gag/aL1yy9P)
+ - 👉 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)<!-- MEMES:END -->
 
 ---
 
