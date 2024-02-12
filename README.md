@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Valentine’s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)
- - [Meet the Pranksters Behind Goody-2, the World’s ‘Most Responsible’ AI Chatbot](https://www.wired.com/story/goody-2-worlds-most-responsible-ai-chatbot/)
- - [6 common Google Chat scams and how to avoid them](https://www.androidauthority.com/common-google-chat-scams-3413091/)<!-- TECH:END -->
+ - [How to use Xcode String catalogs to localize your app](https://appleinsider.com/inside/xcode/tips/how-to-use-xcode-string-catalogs-to-localize-your-app?utm_medium=rss)
+ - [You can stream the Super Bowl for free with this one-month Paramount Plus deal](https://www.theverge.com/2024/2/8/24065543/paramount-plus-showtime-super-bowl-deal-sale)
+ - [With X and Reddit limiting API access, third-party developers are looking into Mastodon and Bluesky, but some are hesitant to build revenue-generating apps &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240211/p8#a240211p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
