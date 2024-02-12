@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine&#39;s GUR military intelligence unit says Russian forces are using Starlink terminals on the front line, confirming media reports of Russia using Starlink &lpar;Ben Hall/Financial Times&rpar;](http://www.techmeme.com/240212/p6#a240212p6)
- - [Apple buys domain suggesting generative AI additions may come to iWork](https://appleinsider.com/articles/24/02/12/apple-buys-domain-suggesting-generative-ai-additions-may-come-to-iwork?utm_medium=rss)
- - [Apple looking into into Apple Watch Series 9, Ultra 2 &#39;ghost touches&#39; issue](https://appleinsider.com/articles/24/02/12/apple-looking-into-into-apple-watch-series-9-ultra-2-ghost-touches-issue?utm_medium=rss)<!-- TECH:END -->
+ - [The best Linux distros for 2024](https://www.androidauthority.com/best-linux-distros-3411058/)
+ - [How the US plans to use open radio access networks, or Open RAN, to displace Huawei&#39;s networking tech, including allocating $1.5B+ to bolster global adoption &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240212/p7#a240212p7)
+ - [MWC 2024 could feature this new Wear OS smartwatch](https://www.androidauthority.com/xiaomi-watch-2-specs-renders-price-leaked-mwc-release-3413535/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
