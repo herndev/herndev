@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - ⏩ [Really?](http://9gag.com/gag/aQE0wX7)
- - 👉 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)<!-- MEMES:END -->
+ - 💣 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
+ - ⏩ [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 👉 [Title](http://9gag.com/gag/abv9Nnr)<!-- MEMES:END -->
 
 ---
 
