@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Thaumaturge, an RPG from the studio that&#39;s also working on The Witcher remake, is delayed because February is just too crowded](https://www.pcgamer.com/the-thaumaturge-an-rpg-from-the-studio-thats-also-working-on-the-witcher-remake-is-delayed-because-february-is-just-too-crowded)
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240208-2200&rpar;](https://news.xbox.com/en-us/2024/02/12/xbox-insider-release-notes-alpha-2403-240208-2200/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240208-2200&rpar;](https://news.xbox.com/en-us/2024/02/12/xbox-insider-release-notes-alpha-skip-ahead-2408-240208-2200/)<!-- GAME:END -->
+ - [All The Xbox Games Rumored To Come To PS5 &amp; Switch](https://kotaku.com/xbox-games-rumored-for-playstation-and-switch-1851239628)
+ - [All flying mounts in Palworld, and where to find them](https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle)
+ - [Yellow Paint Is Once Again Breaking People’s Brains](https://kotaku.com/yellow-paint-debate-ff7-rebirth-demo-resident-evil-4-1851249608)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
