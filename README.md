@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best starter deck from Disney Lorcana’s Into the Inklands](https://www.polygon.com/tabletop-games/24065378/disney-into-the-inklands-starter-decks-scrooge-mcduck)
- - [One memory to rule them all? New &#39;superlattice&#39; material promises an efficient world of universal memory](https://www.pcgamer.com/one-memory-to-rule-them-all-new-superlattice-material-promises-an-efficient-world-of-universal-memory)
- - [Helldivers 2 creative director argues games should &#39;earn the right to monetize&#39;, says its only pay-to-win item is a revolver that&#39;ll get you gold in a &#39;cool gun competition&#39;](https://www.pcgamer.com/helldivers-2-creative-director-argues-games-should-earn-the-right-to-monetize-says-its-only-pay-to-win-item-is-a-revolver-thatll-get-you-gold-in-a-cool-gun-competition)<!-- GAME:END -->
+ - [Fortnite TMNT event quest schedule and Cowabunga rewards](https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards)
+ - [Deadpool 2’s mid-credits scene is super important for Deadpool &amp; Wolverine](https://www.polygon.com/24070286/deadpool-wolverine-trailer-vanessa-time-travel-tva)
+ - [The best Helldivers 2 Stratagems](https://www.pcgamer.com/helldivers-2-best-stratagems)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
