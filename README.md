@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Linux distros for 2024](https://www.androidauthority.com/best-linux-distros-3411058/)
- - [How the US plans to use open radio access networks, or Open RAN, to displace Huawei&#39;s networking tech, including allocating $1.5B+ to bolster global adoption &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240212/p7#a240212p7)
- - [MWC 2024 could feature this new Wear OS smartwatch](https://www.androidauthority.com/xiaomi-watch-2-specs-renders-price-leaked-mwc-release-3413535/)<!-- TECH:END -->
+ - [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait)
+ - [OnePlus says the OnePlus 12R has slower storage than originally advertised](https://www.androidauthority.com/oneplus-12r-slower-storage-ufs-3413441/)
+ - [Take the Galaxy S24’s protection and productivity further with UAG cases](https://www.androidauthority.com/take-the-galaxy-s24s-protection-and-productivity-further-with-uag-cases-3406942/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
