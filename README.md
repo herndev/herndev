@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 creative director argues games should &#39;earn the right to monetize&#39;, says its only pay-to-win item is a revolver that&#39;ll get you gold in a &#39;cool gun competition&#39;](https://www.pcgamer.com/helldivers-2-creative-director-argues-games-should-earn-the-right-to-monetize-says-its-only-pay-to-win-item-is-a-revolver-thatll-get-you-gold-in-a-cool-gun-competition)
- - [AMD isn&#39;t alone in the Easter egg silicon doodle market, chipmakers have etched hamburgers, zombies, Smurfs, and even Groucho Marx onto their products in the past](https://www.pcgamer.com/amd-isnt-alone-in-the-easter-egg-silicon-doodle-market-chipmakers-have-etched-hamburgers-zombies-smurfs-and-even-groucho-marx-onto-their-products-in-the-past)
- - [A native AI assisted Super Resolution feature is coming to Windows 11](https://www.pcgamer.com/a-native-ai-assisted-super-resolution-feature-is-coming-to-windows-11)<!-- GAME:END -->
+ - [The best starter deck from Disney Lorcana’s Into the Inklands](https://www.polygon.com/tabletop-games/24065378/disney-into-the-inklands-starter-decks-scrooge-mcduck)
+ - [One memory to rule them all? New &#39;superlattice&#39; material promises an efficient world of universal memory](https://www.pcgamer.com/one-memory-to-rule-them-all-new-superlattice-material-promises-an-efficient-world-of-universal-memory)
+ - [Helldivers 2 creative director argues games should &#39;earn the right to monetize&#39;, says its only pay-to-win item is a revolver that&#39;ll get you gold in a &#39;cool gun competition&#39;](https://www.pcgamer.com/helldivers-2-creative-director-argues-games-should-earn-the-right-to-monetize-says-its-only-pay-to-win-item-is-a-revolver-thatll-get-you-gold-in-a-cool-gun-competition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
