@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2054, Part VI: Standoff at Arlington](https://www.wired.com/story/2054-part-vi-standoff-at-arlington/)
- - [ASML begins gearing up to ship its new $350M High NA EUV machine, which is the size of a double decker bus, and expects to ship &quot;a number&quot; of them in 2024 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240212/p3#a240212p3)
- - [Microsoft is working on its own DLSS-like upscaler for Windows 11](https://www.theverge.com/2024/2/12/24070426/microsoft-windows-11-dlss-ai-super-resolution-feature)<!-- TECH:END -->
+ - [Ukraine&#39;s GUR military intelligence unit says Russian forces are using Starlink terminals on the front line, confirming media reports of Russia using Starlink &lpar;Ben Hall/Financial Times&rpar;](http://www.techmeme.com/240212/p6#a240212p6)
+ - [Apple buys domain suggesting generative AI additions may come to iWork](https://appleinsider.com/articles/24/02/12/apple-buys-domain-suggesting-generative-ai-additions-may-come-to-iwork?utm_medium=rss)
+ - [Apple looking into into Apple Watch Series 9, Ultra 2 &#39;ghost touches&#39; issue](https://appleinsider.com/articles/24/02/12/apple-looking-into-into-apple-watch-series-9-ultra-2-ghost-touches-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
