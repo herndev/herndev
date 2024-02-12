@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - ⏩ [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
- - 👉 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)<!-- MEMES:END -->
+ - 💣 [Really?](http://9gag.com/gag/aQE0wX7)
+ - ⏩ [Solution for climate change](http://9gag.com/gag/aGEWXN0)
+ - 👉 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)<!-- MEMES:END -->
 
 ---
 
