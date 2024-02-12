@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta begins testing &quot;top topics&quot; in the US, which will be shown on the Search page and in the For You feed and can feature political content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240212/p18#a240212p18)
- - [Don&#39;t read too much into early Apple Vision Pro app sales](https://appleinsider.com/articles/24/02/12/dont-read-too-much-into-early-apple-vision-pro-app-sales?utm_medium=rss)
- - [A forgotten Apple Vision Pro passcode doesn&#39;t mean an Apple Store visit anymore](https://appleinsider.com/articles/24/02/12/a-forgotten-apple-vision-pro-passcode-doesnt-mean-an-apple-store-visit-anymore?utm_medium=rss)<!-- TECH:END -->
+ - [Jon Stewart became a problem for Apple TV+](https://appleinsider.com/articles/24/02/12/jon-stewart-became-a-problem-for-apple-tv?utm_medium=rss)
+ - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
+ - [Sleep Peacefully With Up to $600 in Savings on Saatva Mattresses, Frames and More     - CNET](https://www.cnet.com/deals/sleep-peacefully-with-up-to-600-in-savings-on-saatva-mattresses-frames-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
