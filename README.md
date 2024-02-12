@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Upcoming Game Delays Release To Avoid &#39;Busy&#39; February](https://kotaku.com/the-thaumaturge-rpg-delayed-busy-february-ps5-xbox-1851249845)
- - [All Persona 3 Reload classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)
- - [Twisters Is A Sequel To The Best Movie Of All Time, Not A Remake Of It](https://kotaku.com/twisters-2024-trailer-sequel-remake-super-bowl-1851249701)<!-- GAME:END -->
+ - [Just in case you don&#39;t have enough Steam sales already, the Steam Remote Play Together Fest is here to continue the assault on your finances](https://www.pcgamer.com/steam-remote-play-together-fest-2024)
+ - [Helldivers 2’s microtransactions won’t stop you from having a good time](https://www.polygon.com/gaming/24071170/helldivers-2-microtransactions-live-service-fair)
+ - [How to beat Lily and Lyleen in Palworld](https://www.polygon.com/palworld-guides/24050780/lily-lyleen-tower-of-free-pal-alliance-location-tower-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
