@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2a teaser reveals nothing, but something more is coming tomorrow](https://www.androidauthority.com/nothing-phone-2a-february-13-3412765/)
- - [Xiaomi 14 Ultra could come with a Titanium build, but there may be a catch](https://www.androidauthority.com/xiaomi-14-ultra-titanium-special-edition-3413445/)
- - [Mystery Google phone sparks Pixel 8a speculation: A big battery upgrade on the horizon?](https://www.androidauthority.com/pixel-8a-battery-rumor-3413439/)<!-- TECH:END -->
+ - [How generative AI is transforming the advertising industry; WPP and Publicis plan to spend hundreds of millions of dollars to embed AI in their businesses &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240212/p1#a240212p1)
+ - [This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://www.wired.com/story/india-elections-right-wing-website-ban/)
+ - [Nothing Phone 2a teaser reveals nothing, but something more is coming tomorrow](https://www.androidauthority.com/nothing-phone-2a-february-13-3412765/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
