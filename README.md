@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Banishers: Ghosts of New Eden is a deeply moving exorcism epic](https://www.polygon.com/reviews/24070454/banishers-ghosts-new-eden-review)
- - [Overwatch 2 season 9 patch notes run down Blizzard’s big changes](https://www.polygon.com/24067893/overwatch-2-season-9-patch-notes)
- - [GPU leaker is claiming RDNA 4 engineering samples are boosting between 3 and 3.3GHz. Remember when AMD said that about RNDA 3?](https://www.pcgamer.com/gpu-leaker-is-claiming-rdna-4-engineering-samples-are-boosting-between-3-and-33ghz-remember-when-amd-said-that-about-rnda-3)<!-- GAME:END -->
+ - [Report: Xbox Boss Tells Staff It Will Continue To Make Consoles](https://kotaku.com/is-xbox-leaving-console-business-starfield-phil-spencer-1851248711)
+ - [PC sci-fi classic Star Control returns as Free Stars: The Ur-Quan Masters](https://www.polygon.com/24070632/star-control-free-stars-ur-quan-masters-steam-release-date)
+ - [PSA: FF7 Rebirth Spoilers Leak On Tiktok, Reddit, And Twitter](https://kotaku.com/final-fantasy-7-rebirth-leak-tiktok-reddit-cloud-aerith-1851248573)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
