@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True](http://9gag.com/gag/ajVo2Dw)
- - ⏩ [Maybe i am a Gorilla after all](http://9gag.com/gag/aME3pbG)
- - 👉 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)<!-- MEMES:END -->
+ - 💣 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
+ - ⏩ [Canadian dystopia 2024](http://9gag.com/gag/aL1yxjz)
+ - 👉 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)<!-- MEMES:END -->
 
 ---
 
