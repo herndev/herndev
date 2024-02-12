@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worst mistake ever](http://9gag.com/gag/aBd7qjx)
- - ⏩ [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 👉 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)<!-- MEMES:END -->
+ - 💣 [Deadpool 3](http://9gag.com/gag/aYV289m)
+ - ⏩ [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)
+ - 👉 [Made her day](http://9gag.com/gag/a4oDeEZ)<!-- MEMES:END -->
 
 ---
 
