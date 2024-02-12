@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Gemini Android app is already available in more regions, including Europe and Asia](https://www.androidauthority.com/gemini-android-app-availability-3413437/)
- - [Climate change is erasing previous gains in air quality — fires are mostly to blame](https://www.theverge.com/2024/2/12/24066572/air-pollution-quality-climate-change-wildfire-smoke-smog)
- - [Biden&#39;s campaign made its first-ever TikTok post amid the Super Bowl, a year after the White House forced US agencies to remove the app from government devices &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240211/p9#a240211p9)<!-- TECH:END -->
+ - [Nothing Phone 2a teaser reveals nothing, but something more is coming tomorrow](https://www.androidauthority.com/nothing-phone-2a-february-13-3412765/)
+ - [Xiaomi 14 Ultra could come with a Titanium build, but there may be a catch](https://www.androidauthority.com/xiaomi-14-ultra-titanium-special-edition-3413445/)
+ - [Mystery Google phone sparks Pixel 8a speculation: A big battery upgrade on the horizon?](https://www.androidauthority.com/pixel-8a-battery-rumor-3413439/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
