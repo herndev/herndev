@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite TMNT event quest schedule and Cowabunga rewards](https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards)
- - [Deadpool 2’s mid-credits scene is super important for Deadpool &amp; Wolverine](https://www.polygon.com/24070286/deadpool-wolverine-trailer-vanessa-time-travel-tva)
- - [The best Helldivers 2 Stratagems](https://www.pcgamer.com/helldivers-2-best-stratagems)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth&#39;s director wants series vets and newbies alike to be surprised by its twist and turns, seeing the remake as more than &#39;just a callback&#39;](https://www.pcgamer.com/final-fantasy-7-rebirths-director-wants-series-vets-and-newbies-alike-to-be-surprised-by-its-twist-and-turns-seeing-the-remake-as-more-than-just-a-callback)
+ - [How to destroy Fuel Silos and Rogue Research Stations in Helldivers 2](https://www.pcgamer.com/helldivers-2-destroy-fuel-silos-rogue-research-stations)
+ - [FF7 Rebirth Director Teases A Happy Ending, With A Catch](https://kotaku.com/final-fantasy-7-rebirth-remake-happy-ending-aerith-1851248205)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
