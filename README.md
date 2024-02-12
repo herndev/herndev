@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really?](http://9gag.com/gag/aQE0wX7)
- - ⏩ [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 👉 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)<!-- MEMES:END -->
+ - 💣 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
+ - ⏩ [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
+ - 👉 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)<!-- MEMES:END -->
 
 ---
 
