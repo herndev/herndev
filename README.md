@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jon Stewart became a problem for Apple TV+](https://appleinsider.com/articles/24/02/12/jon-stewart-became-a-problem-for-apple-tv?utm_medium=rss)
- - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
- - [Sleep Peacefully With Up to $600 in Savings on Saatva Mattresses, Frames and More     - CNET](https://www.cnet.com/deals/sleep-peacefully-with-up-to-600-in-savings-on-saatva-mattresses-frames-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Temu bought six Super Bowl ad slots, likely for tens of millions of dollars, to boost US growth; its US observed sales fell 12.5% MoM in Dec. and 4.8% in Jan. &lpar;Rachel Phua/Bloomberg&rpar;](http://www.techmeme.com/240212/p20#a240212p20)
+ - [Winter Storm Guide: What to Stock Up on for Snow, Ice and Power Outages     - CNET](https://www.cnet.com/home/energy-and-utilities/winter-storm-guide-what-to-stock-up-on-for-snow-ice-and-power-outages/#ftag=CAD590a51e)
+ - [Microsoft prepares to take Xbox everywhere](https://www.theverge.com/2024/2/12/24067370/microsoft-xbox-playstation-switch-games-future-hardware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
