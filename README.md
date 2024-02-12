@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Wicked&#39; First Look Arrives During Super Bowl 2024     - CNET](https://www.cnet.com/tech/home-entertainment/wicked-first-look-arrives-during-super-bowl-2024/#ftag=CAD590a51e)
  - [Wi-Fi and Bluetooth in Apple Vision Pro aren&#39;t cooking your brain](https://appleinsider.com/articles/24/02/12/wi-fi-and-bluetooth-in-apple-vision-pro-arent-cooking-your-brain?utm_medium=rss)
- - [The first Deadpool &amp; Wolverine trailer is one big joke about Marvel’s past](https://www.theverge.com/2024/2/11/24070042/deadpool-and-wolverine-super-bowl-2024-trailer)
- - [Super Bowl 2024: the biggest movie trailers and ads](https://www.theverge.com/24064740/super-bowl-2024-best-ads-trailers)<!-- TECH:END -->
+ - [The first Deadpool &amp; Wolverine trailer is one big joke about Marvel’s past](https://www.theverge.com/2024/2/11/24070042/deadpool-and-wolverine-super-bowl-2024-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
