@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rise as a Champion in Overwatch 2 – Season 9](https://overwatch.blizzard.com/en-us/news/24064844/#new_tab)
- - [The entire Dune saga and its award-winning graphic novel adaptation are discounted at Amazon](https://www.polygon.com/24070621/dune-book-box-set-graphic-novel-amazon-deal-sale)
- - [Rocksteady applauds players for &#39;breaking&#39; Suicide Squad with infinite damage scaling bug, but decides to fix it and start a new leaderboard](https://www.pcgamer.com/rocksteady-applauds-players-for-breaking-suicide-squad-with-infinite-damage-scaling-bug-but-decides-to-fix-it-and-start-a-new-leaderboard)<!-- GAME:END -->
+ - [The Thaumaturge, an RPG from the studio that&#39;s also working on The Witcher remake, is delayed because February is just too crowded](https://www.pcgamer.com/the-thaumaturge-an-rpg-from-the-studio-thats-also-working-on-the-witcher-remake-is-delayed-because-february-is-just-too-crowded)
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240208-2200&rpar;](https://news.xbox.com/en-us/2024/02/12/xbox-insider-release-notes-alpha-2403-240208-2200/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240208-2200&rpar;](https://news.xbox.com/en-us/2024/02/12/xbox-insider-release-notes-alpha-skip-ahead-2408-240208-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
