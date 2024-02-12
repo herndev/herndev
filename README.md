@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - ⏩ [Skills](http://9gag.com/gag/amAEjYV)
- - 👉 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)<!-- MEMES:END -->
+ - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - ⏩ [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 👉 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)<!-- MEMES:END -->
 
 ---
 
