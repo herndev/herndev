@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ball play... eh who cares about Titles](http://9gag.com/gag/aME3pK6)
- - ⏩ [Taylor Swift makes her way down from the VIP box to the field](http://9gag.com/gag/a7qz4Yw)
- - 👉 [Maybe i am a Gorilla after all](http://9gag.com/gag/aME3pbG)<!-- MEMES:END -->
+ - 💣 [True](http://9gag.com/gag/ajVo2Dw)
+ - ⏩ [Maybe i am a Gorilla after all](http://9gag.com/gag/aME3pbG)
+ - 👉 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)<!-- MEMES:END -->
 
 ---
 
