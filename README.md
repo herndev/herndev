@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slackers](https://www.theverge.com/24070725/slack-ten-year-anniversary-retrospective-groupchat-workplace)
- - [Bitcoin pushes through $50K for the first time since December 2021, ahead of April&#39;s Bitcoin halving event, which will reduce mining rewards by half &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/240212/p15#a240212p15)
- - [Google Pixel Fold drops $400 to Black Friday price](https://www.androidauthority.com/google-pixel-fold-deal-3413768/)<!-- TECH:END -->
+ - [Meta begins testing &quot;top topics&quot; in the US, which will be shown on the Search page and in the For You feed and can feature political content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240212/p18#a240212p18)
+ - [Don&#39;t read too much into early Apple Vision Pro app sales](https://appleinsider.com/articles/24/02/12/dont-read-too-much-into-early-apple-vision-pro-app-sales?utm_medium=rss)
+ - [A forgotten Apple Vision Pro passcode doesn&#39;t mean an Apple Store visit anymore](https://appleinsider.com/articles/24/02/12/a-forgotten-apple-vision-pro-passcode-doesnt-mean-an-apple-store-visit-anymore?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
