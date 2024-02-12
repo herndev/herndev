@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
- - ⏩ [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 💣 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
+ - ⏩ [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
  - 👉 [Title](http://9gag.com/gag/abv9Nnr)<!-- MEMES:END -->
 
 ---
