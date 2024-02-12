@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hugh Jackman has some notes on Deadpool &amp; Wolverine](https://www.polygon.com/24070277/hugh-jackman-deadpool-wolverine-cast-trailer-notes)
- - [Delidding a Ryzen 7 8700G APU allows it to run up to 25 degrees cooler](https://www.pcgamer.com/delidding-a-ryzen-7-8700g-apu-allows-it-to-run-up-to-25-degrees-cooler)
- - [Beyonce said ‘drop the new music’ at the Super Bowl, then she did](https://www.polygon.com/24070244/beyonce-new-music-super-bowl-renaissance-act-2-commercial-verizon)<!-- GAME:END -->
+ - [As if it didn&#39;t dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market](https://www.pcgamer.com/as-if-it-didnt-dominate-the-ai-market-already-nvidia-is-gearing-up-to-go-after-the-custom-ai-chip-market)
+ - [Helldivers 2 is too successful for its own good, problem with rewards not unlocking &#39;was mitigated but not resolved&#39;](https://www.pcgamer.com/helldivers-2-is-too-successful-for-its-own-good-problem-with-rewards-not-unlocking-was-mitigated-but-not-resolved)
+ - [Today&#39;s Wordle answer for Monday, February 12](https://www.pcgamer.com/wordle-today-answer-february-12-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
