@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Prime Video basic ad tier, which began on Jan. 29 in the US as a downgrade to subscribers, quietly cut Dolby Vision HDR and Dolby Atmos sound support &lpar;John Archer/Forbes&rpar;](http://www.techmeme.com/240212/p22#a240212p22)
- - [Best 85-Inch TV for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-85-inch-tv/#ftag=CAD590a51e)
- - [What is an APK file?](https://www.androidauthority.com/what-is-an-apk-file-3413743/)<!-- TECH:END -->
+ - [Cloudflare defeats another &quot;patent troll&quot;, invalidating parts of Sable Networks&#39; patents after crowd-sourcing prior art findings through Project Jengo &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240212/p24#a240212p24)
+ - [One of NASA’s new spacesuits passes microgravity test](https://www.theverge.com/2024/2/12/24071144/nasa-collins-aerospace-iss-eva-spacesuit-gravity)
+ - [The ‘queer.af’ Mastodon instance disappeared because of the Taliban](https://www.theverge.com/2024/2/12/24071036/queer-af-mastodon-taliban-shut-down-afghanistan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
