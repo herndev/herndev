@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Beyonce said ‘drop the new music’ at the Super Bowl, then she did](https://www.polygon.com/24070244/beyonce-new-music-super-bowl-renaissance-act-2-commercial-verizon)
  - [After more than 60 Books spread out over 18 years the Horus Heresy series is finally over, so please be kind to the Warhammer 40,000 tragics in your life](https://www.pcgamer.com/after-more-than-60-books-spread-out-over-18-years-the-horus-heresy-series-is-finally-over-so-please-be-kind-to-the-warhammer-40000-tragics-in-your-life)
- - [Five new Steam games you probably missed &lpar;February 12, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-12-2024)
- - [Best trailers of the 2024 Super Bowl](https://www.polygon.com/24067817/super-bowl-best-trailers-2024-lviii-deadpool-wicked-twisters)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;February 12, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-12-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
