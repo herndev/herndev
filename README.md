@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - ⏩ [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - 👉 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)<!-- MEMES:END -->
+ - 💣 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
+ - ⏩ [Really?](http://9gag.com/gag/aQE0wX7)
+ - 👉 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)<!-- MEMES:END -->
 
 ---
 
