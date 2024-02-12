@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Rebirth&#39;s director wants series vets and newbies alike to be surprised by its twist and turns, seeing the remake as more than &#39;just a callback&#39;](https://www.pcgamer.com/final-fantasy-7-rebirths-director-wants-series-vets-and-newbies-alike-to-be-surprised-by-its-twist-and-turns-seeing-the-remake-as-more-than-just-a-callback)
- - [How to destroy Fuel Silos and Rogue Research Stations in Helldivers 2](https://www.pcgamer.com/helldivers-2-destroy-fuel-silos-rogue-research-stations)
- - [FF7 Rebirth Director Teases A Happy Ending, With A Catch](https://kotaku.com/final-fantasy-7-rebirth-remake-happy-ending-aerith-1851248205)<!-- GAME:END -->
+ - [Banishers: Ghosts of New Eden is a deeply moving exorcism epic](https://www.polygon.com/reviews/24070454/banishers-ghosts-new-eden-review)
+ - [Overwatch 2 season 9 patch notes run down Blizzard’s big changes](https://www.polygon.com/24067893/overwatch-2-season-9-patch-notes)
+ - [GPU leaker is claiming RDNA 4 engineering samples are boosting between 3 and 3.3GHz. Remember when AMD said that about RNDA 3?](https://www.pcgamer.com/gpu-leaker-is-claiming-rdna-4-engineering-samples-are-boosting-between-3-and-33ghz-remember-when-amd-said-that-about-rnda-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
