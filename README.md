@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - ⏩ [Title](http://9gag.com/gag/abv9Nnr)
- - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
+ - 💣 [Worst mistake ever](http://9gag.com/gag/aBd7qjx)
+ - ⏩ [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 👉 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)<!-- MEMES:END -->
 
 ---
 
