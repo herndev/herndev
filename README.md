@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All The Xbox Games Rumored To Come To PS5 &amp; Switch](https://kotaku.com/xbox-games-rumored-for-playstation-and-switch-1851239628)
- - [All flying mounts in Palworld, and where to find them](https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle)
- - [Yellow Paint Is Once Again Breaking People’s Brains](https://kotaku.com/yellow-paint-debate-ff7-rebirth-demo-resident-evil-4-1851249608)<!-- GAME:END -->
+ - [Upcoming Game Delays Release To Avoid &#39;Busy&#39; February](https://kotaku.com/the-thaumaturge-rpg-delayed-busy-february-ps5-xbox-1851249845)
+ - [All Persona 3 Reload classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)
+ - [Twisters Is A Sequel To The Best Movie Of All Time, Not A Remake Of It](https://kotaku.com/twisters-2024-trailer-sequel-remake-super-bowl-1851249701)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
