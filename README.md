@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This case turns the Pixel 8 Pro into a classy leather wallet](https://www.androidauthority.com/pixel-8-pro-torro-wallet-case-review-3412847/)
- - [WhatsApp could soon let you keep your chats protected across devices](https://www.androidauthority.com/whatsapp-sync-chat-lock-linked-devices-3413463/)
- - [Developers Are in Open Revolt Over Apple’s New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)<!-- TECH:END -->
+ - [2054, Part VI: Standoff at Arlington](https://www.wired.com/story/2054-part-vi-standoff-at-arlington/)
+ - [ASML begins gearing up to ship its new $350M High NA EUV machine, which is the size of a double decker bus, and expects to ship &quot;a number&quot; of them in 2024 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240212/p3#a240212p3)
+ - [Microsoft is working on its own DLSS-like upscaler for Windows 11](https://www.theverge.com/2024/2/12/24070426/microsoft-windows-11-dlss-ai-super-resolution-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
