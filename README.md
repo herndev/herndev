@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A native AI assisted Super Resolution feature is coming to Windows 11](https://www.pcgamer.com/a-native-ai-assisted-super-resolution-feature-is-coming-to-windows-11)
  - [As if it didn&#39;t dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market](https://www.pcgamer.com/as-if-it-didnt-dominate-the-ai-market-already-nvidia-is-gearing-up-to-go-after-the-custom-ai-chip-market)
- - [Helldivers 2 is too successful for its own good, problem with rewards not unlocking &#39;was mitigated but not resolved&#39;](https://www.pcgamer.com/helldivers-2-is-too-successful-for-its-own-good-problem-with-rewards-not-unlocking-was-mitigated-but-not-resolved)
- - [Today&#39;s Wordle answer for Monday, February 12](https://www.pcgamer.com/wordle-today-answer-february-12-2024)<!-- GAME:END -->
+ - [Helldivers 2 is too successful for its own good, problem with rewards not unlocking &#39;was mitigated but not resolved&#39;](https://www.pcgamer.com/helldivers-2-is-too-successful-for-its-own-good-problem-with-rewards-not-unlocking-was-mitigated-but-not-resolved)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
