@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [S.W.A.T. season 7: Plot, release window, and more](https://www.androidauthority.com/swat-season-7-release-date-3379203/)
- - [Stellantis becomes the last major automaker to adopt Tesla’s charging plug](https://www.theverge.com/2024/2/12/24070654/stellantis-tesla-ev-charging-plus-nacs-adapter)
- - [Streaming services are spoiling the Super Bowl](https://www.theverge.com/24070601/super-bowl-streaming-delay-spoilers)<!-- TECH:END -->
+ - [Slackers](https://www.theverge.com/24070725/slack-ten-year-anniversary-retrospective-groupchat-workplace)
+ - [Bitcoin pushes through $50K for the first time since December 2021, ahead of April&#39;s Bitcoin halving event, which will reduce mining rewards by half &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/240212/p15#a240212p15)
+ - [Google Pixel Fold drops $400 to Black Friday price](https://www.androidauthority.com/google-pixel-fold-deal-3413768/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
