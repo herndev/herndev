@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden Campaign Is Officially Trolling on TikTok Now](https://www.wired.com/story/biden-campaign-tiktok/)
- - [Court documents: HP calculates its Autonomy losses at up to $4B, and says Autonomy&#39;s ex-CEO and CFO must pay; Autonomy founder Mike Lynch is awaiting a US trial &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240212/p9#a240212p9)
- - [The return of the &lpar;robot&rpar; travel agent](https://www.theverge.com/24065179/ai-travel-agent-honeymoon-planning-chatgpt)<!-- TECH:END -->
+ - [Q&amp;A with the US DOJ&#39;s Jonathan Kanter on the Antitrust Division, the Google search monopolization and ad tech cases, media consolidation, the EU&#39;s DMA, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240212/p11#a240212p11)
+ - [How Russian banks use trojan horse apps to stay in Apple&#39;s App Store](https://appleinsider.com/articles/24/02/12/how-russian-banks-use-trojan-horse-apps-to-stay-in-apples-app-store?utm_medium=rss)
+ - [Ireland, Germany, Singapore, China, Amsterdam, and others added restrictions on new data centers in recent years to comply with stringent environmental rules &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/240212/p10#a240212p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
