@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans of Stacklands and Cultist Simulator should check out this cute little game about witch covens](https://www.pcgamer.com/fans-of-stacklands-and-cultist-simulator-should-check-out-this-cute-little-game-about-witch-covens)
- - [Deadpool and Wolverine’s first trailer has a lot more Loki in it than you’d expect](https://www.polygon.com/24064095/deadpool-3-trailer-release-date-cameos-wolverine-fantastic-four-taylor-swift)
- - [The best Super Bowl commercials so far](https://www.polygon.com/24066252/best-super-bowl-commercials-2024-watch)<!-- GAME:END -->
+ - [Best trailers of the 2024 Super Bowl](https://www.polygon.com/24067817/super-bowl-best-trailers-2024-lviii-deadpool-wicked-twisters)
+ - [The Deadpool &amp; Wolverine taunts us with a Secret Wars reference worth breaking down](https://www.polygon.com/24070019/deadpool-wolverine-breakdown-secret-wars-cameos-x-men-easter-eggs)
+ - [The humans have gone feral in Kingdom of the Planet of the Apes](https://www.polygon.com/24070135/kingdom-planet-of-the-apes-trailer-super-bowl)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
