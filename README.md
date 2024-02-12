@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [When will One UI 6.1 come to older phones? We might have a launch window](https://www.androidauthority.com/older-samsung-galaxy-phones-one-ui-6-1-release-date-3413462/)
  - [How generative AI is transforming the advertising industry; WPP and Publicis plan to spend hundreds of millions of dollars to embed AI in their businesses &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240212/p1#a240212p1)
- - [This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://www.wired.com/story/india-elections-right-wing-website-ban/)
- - [Nothing Phone 2a teaser reveals nothing, but something more is coming tomorrow](https://www.androidauthority.com/nothing-phone-2a-february-13-3412765/)<!-- TECH:END -->
+ - [This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://www.wired.com/story/india-elections-right-wing-website-ban/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
