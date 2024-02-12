@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)
- - ⏩ [Worst mistake ever](http://9gag.com/gag/aBd7qjx)
- - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
+ - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - ⏩ [Title](http://9gag.com/gag/abv9Nnr)
+ - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
 
 ---
 
