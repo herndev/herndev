@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bullet proof window stops a .50BMG round](http://9gag.com/gag/a8qBPmO)
- - ⏩ [Women](http://9gag.com/gag/aL1yy9P)
- - 👉 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)<!-- MEMES:END -->
+ - 💣 [Really?](http://9gag.com/gag/aQE0wX7)
+ - ⏩ [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 👉 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)<!-- MEMES:END -->
 
 ---
 
