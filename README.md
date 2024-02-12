@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden&#39;s campaign made its first-ever TikTok post amid the Super Bowl, a year after the White House forced US agencies to remove the app from government devices &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240211/p9#a240211p9)
- - [Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?](https://www.androidauthority.com/gemini-vs-chatgpt-3413420/)
- - [&#39;Wicked&#39; First Look Arrives During Super Bowl 2024     - CNET](https://www.cnet.com/tech/home-entertainment/wicked-first-look-arrives-during-super-bowl-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Gemini Android app is already available in more regions, including Europe and Asia](https://www.androidauthority.com/gemini-android-app-availability-3413437/)
+ - [Climate change is erasing previous gains in air quality — fires are mostly to blame](https://www.theverge.com/2024/2/12/24066572/air-pollution-quality-climate-change-wildfire-smoke-smog)
+ - [Biden&#39;s campaign made its first-ever TikTok post amid the Super Bowl, a year after the White House forced US agencies to remove the app from government devices &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240211/p9#a240211p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
