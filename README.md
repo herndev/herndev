@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 things I wish I knew before playing Helldivers 2](https://www.pcgamer.com/11-things-i-wish-i-knew-before-playing-helldivers-2)
- - [We&#39;re in a golden era of game demos](https://www.pcgamer.com/were-in-a-golden-era-of-game-demos)
- - [Taco Bell Held An E3-Like Event And It Was Weird](https://kotaku.com/39-taco-bell-live-mas-2024-crunchwrap-baja-blast-1851244472)<!-- GAME:END -->
+ - [Fans of Stacklands and Cultist Simulator should check out this cute little game about witch covens](https://www.pcgamer.com/fans-of-stacklands-and-cultist-simulator-should-check-out-this-cute-little-game-about-witch-covens)
+ - [Deadpool and Wolverine’s first trailer has a lot more Loki in it than you’d expect](https://www.polygon.com/24064095/deadpool-3-trailer-release-date-cameos-wolverine-fantastic-four-taylor-swift)
+ - [The best Super Bowl commercials so far](https://www.polygon.com/24066252/best-super-bowl-commercials-2024-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
