@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - ⏩ [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 👉 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)<!-- MEMES:END -->
+ - 💣 [What](http://9gag.com/gag/aPgK5yB)
+ - ⏩ [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
 
 ---
 
