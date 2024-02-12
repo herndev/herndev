@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Xbox Boss Tells Staff It Will Continue To Make Consoles](https://kotaku.com/is-xbox-leaving-console-business-starfield-phil-spencer-1851248711)
- - [PC sci-fi classic Star Control returns as Free Stars: The Ur-Quan Masters](https://www.polygon.com/24070632/star-control-free-stars-ur-quan-masters-steam-release-date)
- - [PSA: FF7 Rebirth Spoilers Leak On Tiktok, Reddit, And Twitter](https://kotaku.com/final-fantasy-7-rebirth-leak-tiktok-reddit-cloud-aerith-1851248573)<!-- GAME:END -->
+ - [Rise as a Champion in Overwatch 2 – Season 9](https://overwatch.blizzard.com/en-us/news/24064844/#new_tab)
+ - [The entire Dune saga and its award-winning graphic novel adaptation are discounted at Amazon](https://www.polygon.com/24070621/dune-book-box-set-graphic-novel-amazon-deal-sale)
+ - [Rocksteady applauds players for &#39;breaking&#39; Suicide Squad with infinite damage scaling bug, but decides to fix it and start a new leaderboard](https://www.pcgamer.com/rocksteady-applauds-players-for-breaking-suicide-squad-with-infinite-damage-scaling-bug-but-decides-to-fix-it-and-start-a-new-leaderboard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
