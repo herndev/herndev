@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bullet proof window stops a .50BMG round](http://9gag.com/gag/a8qBPmO)
- - ⏩ [Title](http://9gag.com/gag/abv9Nnr)
- - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
+ - 💣 [Really?](http://9gag.com/gag/aQE0wX7)
+ - ⏩ [Made her day](http://9gag.com/gag/a4oDeEZ)
+ - 👉 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)<!-- MEMES:END -->
 
 ---
 
