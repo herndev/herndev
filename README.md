@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with the US DOJ&#39;s Jonathan Kanter on the Antitrust Division, the Google search monopolization and ad tech cases, media consolidation, the EU&#39;s DMA, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240212/p11#a240212p11)
- - [How Russian banks use trojan horse apps to stay in Apple&#39;s App Store](https://appleinsider.com/articles/24/02/12/how-russian-banks-use-trojan-horse-apps-to-stay-in-apples-app-store?utm_medium=rss)
- - [Ireland, Germany, Singapore, China, Amsterdam, and others added restrictions on new data centers in recent years to comply with stringent environmental rules &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/240212/p10#a240212p10)<!-- TECH:END -->
+ - [S.W.A.T. season 7: Plot, release window, and more](https://www.androidauthority.com/swat-season-7-release-date-3379203/)
+ - [Stellantis becomes the last major automaker to adopt Tesla’s charging plug](https://www.theverge.com/2024/2/12/24070654/stellantis-tesla-ev-charging-plus-nacs-adapter)
+ - [Streaming services are spoiling the Super Bowl](https://www.theverge.com/24070601/super-bowl-streaming-delay-spoilers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
