@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Microsoft Copilot on iOS and iPadOS](https://appleinsider.com/inside/ios/tips/how-to-use-the-microcosft-copilot-on-ios-and-ipados?utm_medium=rss)
- - [Peloton abandons Apple&#39;s GymKit health data sharing platform](https://appleinsider.com/articles/24/02/13/peloton-abandons-apples-gymkit-health-data-sharing-platform?utm_medium=rss)
- - [Nothing Phone 2a spec leak paints out a competitive mid-range phone](https://www.androidauthority.com/nothing-phone-2a-spec-price-leak-3414111/)<!-- TECH:END -->
+ - [EU backs down, won&#39;t force Apple to open iMessage to rivals](https://appleinsider.com/articles/24/02/13/eu-backs-down-wont-force-apple-to-open-imessage-to-rivals?utm_medium=rss)
+ - [Shopify reports Q4 revenue up 24% YoY to $2.1B, above $2.08B est., and Gross Merchandise Volume up 23% YoY to $75.1B, above $71.6B est.; SHOP drops 10%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240213/p12#a240213p12)
+ - [Virginia-based software testing startup Antithesis raised a $47M seed, a source says led by Amplify, Tamarack Global, and First In at a $215M valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240213/p11#a240213p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
