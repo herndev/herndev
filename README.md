@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
- - ⏩ [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
+ - 💣 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
+ - ⏩ [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
 
 ---
 
