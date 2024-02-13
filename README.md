@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - ⏩ [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
+ - 💣 [German supermarket puts theft protection on every meat except pork. That supermarket is next to a refugee housing.](http://9gag.com/gag/a9qQjvK)
+ - ⏩ [`how dare you sitting all day staring at the wall`](http://9gag.com/gag/agoPREx)
+ - 👉 [I wont pay for Acrobat Reader](http://9gag.com/gag/aeQoKoj)<!-- MEMES:END -->
 
 ---
 
