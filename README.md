@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch suspends Aussie prankster for &#39;self-harm&#39; after he pretends to stick forks in toasters with silly FX and a Rickroll](https://www.pcgamer.com/twitch-suspends-aussie-prankster-for-self-harm-after-he-pretends-to-stick-forks-in-toasters-with-silly-fx-and-a-rickroll)
- - [Intel Core i9 14900KS surfaces ahead of release with claims to a 6.2GHz Turbo and peak wattage to make your graphics card jealous](https://www.pcgamer.com/intel-core-i9-14900ks-surfaces-ahead-of-release-with-claims-to-a-62ghz-turbo-and-peak-wattage-to-make-your-graphics-card-jealous)
- - [Six Months On, Starfield&#39;s Player Count Shouldn&#39;t Matter](https://kotaku.com/starfield-loses-97-percent-of-player-count-who-cares-1851252249)<!-- GAME:END -->
+ - [The Beast, the ‘purest science fiction’ movie, has a trailer and release date](https://www.polygon.com/24072032/the-beast-first-look-science-fiction-trailer-lea-seydoux)
+ - [Xbox Insider Release Notes – Beta &lpar;2403.240208-2200&rpar;](https://news.xbox.com/en-us/2024/02/13/xbox-insider-release-notes-beta-2403-240208-2200/)
+ - [The Essential Helldivers 2 Settings To Change Before Dropping In](https://kotaku.com/helldivers-2-settings-aim-anti-aliasing-ps5-pc-tips-1851252612)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
