@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Skills](http://9gag.com/gag/amAEjYV)
- - ⏩ [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
+ - ⏩ [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
 
 ---
 
