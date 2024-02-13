@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
- - ⏩ [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
+ - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - ⏩ [Skills](http://9gag.com/gag/amAEjYV)
+ - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
 
 ---
 
