@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel and DC’s legendary crossovers are finally back in print](https://www.polygon.com/24071678/marvel-dc-crossover-comics-history-books-2024)
- - [PlayStation Store: January 2024’s top downloads](https://blog.playstation.com/2024/02/13/playstation-store-january-2024s-top-downloads/)
- - [The best ways to kill Chargers in Helldivers 2](https://www.pcgamer.com/helldivers-2-kill-chargers)<!-- GAME:END -->
+ - [Helldivers 2 rolls back a patch intended to fix servers and progression after it causes &#39;significant degradation&#39; in performance](https://www.pcgamer.com/helldivers-2-rolls-back-a-patch-intended-to-fix-servers-and-progression-after-it-causes-significant-degradation-in-performance)
+ - [A classic RPG Maker engine, the same one used to create Pokémon Uranium, is completely free on Steam this week](https://www.pcgamer.com/a-classic-rpg-maker-engine-the-same-one-used-to-create-pokemon-uranium-is-completely-free-on-steam-this-week)
+ - [New Report Suggests The Games Industry Is Failing LGBTQ Players](https://kotaku.com/lgbtq-games-representation-queer-glaad-report-1851251358)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
