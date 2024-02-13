@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find and kill Chargers in Helldivers 2](https://www.polygon.com/guides/24072123/helldivers-2-charges-where-to-find-how-to-kill)
- - [Palworld Costumes Are Here And Oh God…Oh No…](https://kotaku.com/palworld-costumes-halloween-knock-off-merch-pokemon-1851253440)
- - [Tomb Raider 1-3 Remastered lovingly restores a trio of important artifacts](https://www.polygon.com/24072218/tomb-raider-1-3-remastered-collection-review)<!-- GAME:END -->
+ - [Helldivers 2 is the least I&#39;ve felt pressured to spend money on a game in years, so of course I&#39;m buying everything in the store](https://www.pcgamer.com/helldivers-2-monetization)
+ - [World of Warcraft&#39;s lead storyteller quietly left Blizzard last fall: &#39;I&#39;ve felt the itch to stretch my creativity in new directions&#39;](https://www.pcgamer.com/steve-danuser-world-of-warcraft-departure)
+ - [How to find and kill Chargers in Helldivers 2](https://www.polygon.com/guides/24072123/helldivers-2-charges-where-to-find-how-to-kill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
