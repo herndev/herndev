@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - ⏩ [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 👉 [Skills](http://9gag.com/gag/amAEjYV)<!-- MEMES:END -->
+ - 💣 [I wont pay for Acrobat Reader](http://9gag.com/gag/aeQoKoj)
+ - ⏩ [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
 
 ---
 
