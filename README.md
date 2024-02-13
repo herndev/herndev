@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU backs down, won&#39;t force Apple to open iMessage to rivals](https://appleinsider.com/articles/24/02/13/eu-backs-down-wont-force-apple-to-open-imessage-to-rivals?utm_medium=rss)
- - [Shopify reports Q4 revenue up 24% YoY to $2.1B, above $2.08B est., and Gross Merchandise Volume up 23% YoY to $75.1B, above $71.6B est.; SHOP drops 10%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240213/p12#a240213p12)
- - [Virginia-based software testing startup Antithesis raised a $47M seed, a source says led by Amplify, Tamarack Global, and First In at a $215M valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240213/p11#a240213p11)<!-- TECH:END -->
+ - [Wild Animals Should Be Paid for the Benefits They Provide Humanity](https://www.wired.com/story/wild-animals-paid-ecosystem-benefits-ecoflix-ian-redmond/)
+ - [Climate Finance Is Targeting the Wrong Industries](https://www.wired.com/story/climate-finance-wrong-targets-investment-green-daria-saharova/)
+ - [A huge blow for Android: EU says Apple doesn’t need to open up iMessage](https://www.androidauthority.com/apple-imessage-eu-dma-3414151/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
