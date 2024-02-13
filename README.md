@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - ⏩ [Skills](http://9gag.com/gag/amAEjYV)
- - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - ⏩ [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
+ - 👉 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)<!-- MEMES:END -->
 
 ---
 
