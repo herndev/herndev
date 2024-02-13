@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 rolls back a patch intended to fix servers and progression after it causes &#39;significant degradation&#39; in performance](https://www.pcgamer.com/helldivers-2-rolls-back-a-patch-intended-to-fix-servers-and-progression-after-it-causes-significant-degradation-in-performance)
- - [A classic RPG Maker engine, the same one used to create Pokémon Uranium, is completely free on Steam this week](https://www.pcgamer.com/a-classic-rpg-maker-engine-the-same-one-used-to-create-pokemon-uranium-is-completely-free-on-steam-this-week)
- - [New Report Suggests The Games Industry Is Failing LGBTQ Players](https://kotaku.com/lgbtq-games-representation-queer-glaad-report-1851251358)<!-- GAME:END -->
+ - [Xbox and Microsoft Flight Simulator unveil Dune Expansion and Floating Controller](https://news.xbox.com/en-us/2024/02/13/xbox-and-microsoft-flight-simulator-unveil-dune-expansion-giveaway/)
+ - [Suicide Squad: Kill the Justice League&#39;s forgettable enemies, empty missions, and incongruous gun obsession prove why superheroes and live service do not mix](https://www.pcgamer.com/suicide-squad-kill-the-justice-leagues-forgettable-enemies-empty-missions-and-incongruous-gun-obsession-prove-why-superheroes-and-live-service-do-not-mix)
+ - [Helldivers 2 team issues first patch, hopefully after good night’s rest](https://www.polygon.com/24070670/helldivers-2-servers-login-no-rewards-need-sleep)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
