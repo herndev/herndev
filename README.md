@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Founders Fund bought $100M in bitcoin and $100M in ether from late summer to early fall 2023; it sold its crypto portfolio in 2022 for $1.8B in returns &lpar;Reuters&rpar;](http://www.techmeme.com/240212/p26#a240212p26)
  - [FCC commissioner cries antitrust again after Beeper Mini debacle](https://appleinsider.com/articles/24/02/13/fcc-commissioner-cries-antitrust-again-after-beeper-mini-debacle?utm_medium=rss)
- - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
- - [It’s not just you: Alicia Keys’ Super Bowl halftime show got changed for YouTube](https://www.theverge.com/2024/2/12/24071248/alicia-keys-vocals-changed-super-bowl-2024-usher-halftime-performance)<!-- TECH:END -->
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
