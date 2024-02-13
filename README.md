@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 9+ federal child exploitation cases since 2018, the US said spy cams, sometimes promoted with racy imagery, sold on Amazon or eBay were used to film minors &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240213/p25#a240213p25)
- - [Apple Pulls Popular Movie Piracy App Kimi From the App Store](https://www.wired.com/story/apple-app-store-kimi-piracy-movies/)
- - [Apple continues to brace for big EU App Store changes in third developer betas](https://appleinsider.com/articles/24/02/13/apple-continues-to-brace-for-big-eu-app-store-changes-in-third-developer-betas?utm_medium=rss)<!-- TECH:END -->
+ - [We might see Android 15 DP1 this week, maybe](https://www.androidauthority.com/android-15-this-week-maybe-3414382/)
+ - [Polish PM Donald Tusk says state authorities under the previous government used Pegasus spyware illegally against a &quot;very long&quot; list of hacking victims &lpar;Vanessa Gera/Associated Press&rpar;](http://www.techmeme.com/240213/p26#a240213p26)
+ - [Samsung rolls out new Galaxy S20 security update in the US](https://www.androidauthority.com/galaxy-s20-february-2024-security-update-3414360/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
