@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and Microsoft Flight Simulator unveil Dune Expansion and Floating Controller](https://news.xbox.com/en-us/2024/02/13/xbox-and-microsoft-flight-simulator-unveil-dune-expansion-giveaway/)
- - [Suicide Squad: Kill the Justice League&#39;s forgettable enemies, empty missions, and incongruous gun obsession prove why superheroes and live service do not mix](https://www.pcgamer.com/suicide-squad-kill-the-justice-leagues-forgettable-enemies-empty-missions-and-incongruous-gun-obsession-prove-why-superheroes-and-live-service-do-not-mix)
- - [Helldivers 2 team issues first patch, hopefully after good night’s rest](https://www.polygon.com/24070670/helldivers-2-servers-login-no-rewards-need-sleep)<!-- GAME:END -->
+ - [Magic’s Universes Beyond will deliver two Lord of the Rings-sized sets of Magic cards every year](https://www.polygon.com/tabletop-games/24071837/mtg-universes-beyond-two-per-year-lotr-final-fantasy-fallout)
+ - [All Palworld Pals, types, and skills in the Paldeck](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
+ - [Steelseries Alias Pro review](https://www.pcgamer.com/steelseries-alias-pro-microphone-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
