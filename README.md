@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, February 13](https://www.pcgamer.com/wordle-today-answer-february-13-2024)
- - [Amid big rumors, Phil Spencer will discuss &#39;the future of Xbox&#39; in a podcast this week](https://www.pcgamer.com/amid-big-rumors-phil-spencer-will-discuss-the-future-of-xbox-in-a-podcast-this-week)
- - [&#39;Don&#39;t airstrike me, bro&#39;: Helldivers 2&#39;s merciless friendly fire isn&#39;t bad, it&#39;s actually clever design](https://www.pcgamer.com/helldivers-2-friendly-fire)<!-- GAME:END -->
+ - [Logitech ERGO K860 review](https://www.pcgamer.com/logitech-ergo-k860-keyboard-review)
+ - [Some class-locked portal reskins? That&#39;ll be $20, please—Diablo 4&#39;s hellish microtransactions continue to sting](https://www.pcgamer.com/some-class-locked-portal-reskins-thatll-be-dollar20-pleasediablo-4s-hellish-microtransactions-continue-to-sting)
+ - [Today&#39;s Wordle answer for Tuesday, February 13](https://www.pcgamer.com/wordle-today-answer-february-13-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
