@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
- - ⏩ [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 👉 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)<!-- MEMES:END -->
+ - 💣 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - ⏩ [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
 
 ---
 
