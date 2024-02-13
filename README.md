@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages could soon let you react to chats like Instagram](https://www.androidauthority.com/google-messages-double-tap-reactions-3414015/)
- - [Court notice: the sentencing of Binance CEO Changpeng Zhao has been postponed until April 30, 2024; CZ is free on a $175M release bond in the US &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240212/p29#a240212p29)
- - [Best Workout Equipment for Small Spaces     - CNET](https://www.cnet.com/health/fitness/best-workout-equipment-small-spaces/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Helsinki-based Bob W, an Airbnb-like marketplace for premium short-term apartment rentals, has raised a &amp;euro;40M Series B led by Evli Growth &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240213/p2#a240213p2)
+ - [Sources: Temu is scooping up suppliers removed by Shein, as Shein moves to clean up its supply chain ahead of a planned US listing &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240213/p1#a240213p1)
+ - [The FCC commissioner wants to investigate Apple for Beeper Mini crackdown](https://www.androidauthority.com/fcc-commissioner-apple-imessage-beeper-mini-3413588/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
