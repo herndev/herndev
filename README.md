@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
- - ⏩ [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 👉 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)<!-- MEMES:END -->
+ - 💣 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
+ - ⏩ [Not title](http://9gag.com/gag/a6qvrrN)
+ - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
 
 ---
 
