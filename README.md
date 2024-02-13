@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We might see Android 15 DP1 this week, maybe](https://www.androidauthority.com/android-15-this-week-maybe-3414382/)
- - [Polish PM Donald Tusk says state authorities under the previous government used Pegasus spyware illegally against a &quot;very long&quot; list of hacking victims &lpar;Vanessa Gera/Associated Press&rpar;](http://www.techmeme.com/240213/p26#a240213p26)
- - [Samsung rolls out new Galaxy S20 security update in the US](https://www.androidauthority.com/galaxy-s20-february-2024-security-update-3414360/)<!-- TECH:END -->
+ - [Source: crypto exchange Bullish paid DCG between $70M and $80M for CoinDesk in November 2023; last week Bullish restructured CoinDesk&#39;s leadership team &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240213/p28#a240213p28)
+ - [Sarah Silverman’s lawsuit against OpenAI partially dismissed](https://www.theverge.com/2024/2/13/24072131/sarah-silverman-paul-tremblay-openai-chatgpt-copyright-lawsuit)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
