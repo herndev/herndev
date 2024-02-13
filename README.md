@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
- - ⏩ [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 👉 [Skills](http://9gag.com/gag/amAEjYV)<!-- MEMES:END -->
+ - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - ⏩ [This clip of Tom Cruise and his stunt double will never not be funny...](http://9gag.com/gag/a6qAW3A)
+ - 👉 [German supermarket puts theft protection on every meat except pork. That supermarket is next to a refugee housing.](http://9gag.com/gag/a9qQjvK)<!-- MEMES:END -->
 
 ---
 
