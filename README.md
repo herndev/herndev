@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
- - ⏩ [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - ⏩ [What is this? Raincoat for ants?](http://9gag.com/gag/aqeqvAQ)
  - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
 
 ---
