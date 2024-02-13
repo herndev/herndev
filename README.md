@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Video Game Characters That Made Us Gay](https://kotaku.com/lgbtq-games-mass-effect-romance-options-overwatch-pride-1850586480)
- - [Should You Butcher Your Pals In Palworld?](https://kotaku.com/palworld-butcher-pal-fluids-merchant-1851253195)
- - [Hasbro has made about $90 million by letting Larian make a D&amp;D game](https://www.pcgamer.com/hasbro-has-made-about-dollar90-million-by-letting-larian-make-a-dandd-game)<!-- GAME:END -->
+ - [How to find and kill Chargers in Helldivers 2](https://www.polygon.com/guides/24072123/helldivers-2-charges-where-to-find-how-to-kill)
+ - [Palworld Costumes Are Here And Oh God…Oh No…](https://kotaku.com/palworld-costumes-halloween-knock-off-merch-pokemon-1851253440)
+ - [Tomb Raider 1-3 Remastered lovingly restores a trio of important artifacts](https://www.polygon.com/24072218/tomb-raider-1-3-remastered-collection-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
