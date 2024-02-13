@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Websites with seemingly AI-generated obituaries litter Google search, sometimes listing living people as deceased and turning private individuals into clickbait &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240213/p4#a240213p4)
- - [Samsung Galaxy Z Fold 5 Deals: Up to $1,000 in Trade-In Credit and Up to $300 in Direct Discounts     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
- - [Tax Season 2024: All the Tax Filing Deadlines to Know This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-all-the-tax-filing-deadlines-to-know-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Nothing Phone 2a won’t get a proper US release](https://www.androidauthority.com/nothing-phone-2a-us-release-3414050/)
+ - [Sources: Microsoft plans to launch select Xbox games on the PS5 and Switch, starting with Hi-Fi Rush, Pentiment, and Sea of Thieves, a seismic strategy shift &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240213/p7#a240213p7)
+ - [Nothing reveals Phone 2a launch date with Carl Pei taking jabs at competition](https://www.androidauthority.com/nothing-phone-2a-launch-date-availability-3414093/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
