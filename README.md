@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
- - ⏩ [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 💣 [Skills](http://9gag.com/gag/amAEjYV)
+ - ⏩ [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
  - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 ---
