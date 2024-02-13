@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech ERGO K860 review](https://www.pcgamer.com/logitech-ergo-k860-keyboard-review)
- - [Some class-locked portal reskins? That&#39;ll be $20, please—Diablo 4&#39;s hellish microtransactions continue to sting](https://www.pcgamer.com/some-class-locked-portal-reskins-thatll-be-dollar20-pleasediablo-4s-hellish-microtransactions-continue-to-sting)
- - [Today&#39;s Wordle answer for Tuesday, February 13](https://www.pcgamer.com/wordle-today-answer-february-13-2024)<!-- GAME:END -->
+ - [The best ways to kill Chargers in Helldivers 2](https://www.pcgamer.com/helldivers-2-kill-chargers)
+ - [The future is here whether you want it or not as AI briefly makes Nvidia the 4th most valuable corporation on Earth with a $1.83 trillion market cap](https://www.pcgamer.com/the-future-is-here-whether-you-want-it-or-not-as-ai-briefly-makes-nvidia-the-4th-most-valuable-corporation-on-earth-with-a-dollar183-trillion-market-cap)
+ - [SteelSeries Alias review](https://www.pcgamer.com/steelseries-alias-microphone-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
