@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF](http://9gag.com/gag/abvP5RX)
- - ⏩ [Nice to have know you](http://9gag.com/gag/aMER1nV)
- - 👉 [Last season was a trashfire, no new books in over 10 years, but at least House of the Dragon was fine](http://9gag.com/gag/aOxgKLv)<!-- MEMES:END -->
+ - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - ⏩ [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - 👉 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)<!-- MEMES:END -->
 
 ---
 
