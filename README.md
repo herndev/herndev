@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Studio Display drops to record low $1,299 at Amazon](https://appleinsider.com/articles/24/02/13/apple-studio-display-drops-to-record-low-1299-at-amazon?utm_medium=rss)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
- - [Apple Vision Pro privacy means apps can&#39;t access details of users&#39; surroundings](https://appleinsider.com/articles/24/02/13/apple-vision-pro-privacy-means-apps-cant-access-details-of-users-surroundings?utm_medium=rss)<!-- TECH:END -->
+ - [Elliptic: an exploit of NFT gaming platform PlayDapp let hackers mint 1.8B PLA tokens, &quot;worth&quot; ~$290M; before the hack, only 577M PLA tokens were in circulation &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240213/p21#a240213p21)
+ - [Apple’s sci-fi drama Invasion is getting a third season](https://www.theverge.com/2024/2/13/24071887/invasion-apple-tv-plus-season-3)
+ - [A researcher finds a bug in fertility tracking app Glow&#39;s online forum that exposed the personal data of ~25M users; fixing the bug took Glow about a week &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240213/p20#a240213p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
