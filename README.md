@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wild Animals Should Be Paid for the Benefits They Provide Humanity](https://www.wired.com/story/wild-animals-paid-ecosystem-benefits-ecoflix-ian-redmond/)
- - [Climate Finance Is Targeting the Wrong Industries](https://www.wired.com/story/climate-finance-wrong-targets-investment-green-daria-saharova/)
- - [A huge blow for Android: EU says Apple doesn’t need to open up iMessage](https://www.androidauthority.com/apple-imessage-eu-dma-3414151/)<!-- TECH:END -->
+ - [Flipper Devices, which makes the Flipper Zero multi-tool device, announces a new $49 Video Game Module, powered by a Raspberry Pi RP2040 microcontroller &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/240213/p18#a240213p18)
+ - [GLAAD releases its first gaming industry survey, with 1,500 participants: &lt;2% of console video games include LGBTQ characters, 17% of gamers are queer, and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240213/p17#a240213p17)
+ - [Watermarking the future](https://www.theverge.com/2024/2/13/24067991/watermark-generative-ai-deepfake-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
