@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic’s Universes Beyond will deliver two Lord of the Rings-sized sets of Magic cards every year](https://www.polygon.com/tabletop-games/24071837/mtg-universes-beyond-two-per-year-lotr-final-fantasy-fallout)
- - [All Palworld Pals, types, and skills in the Paldeck](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
- - [Steelseries Alias Pro review](https://www.pcgamer.com/steelseries-alias-pro-microphone-review)<!-- GAME:END -->
+ - [Twitch suspends Aussie prankster for &#39;self-harm&#39; after he pretends to stick forks in toasters with silly FX and a Rickroll](https://www.pcgamer.com/twitch-suspends-aussie-prankster-for-self-harm-after-he-pretends-to-stick-forks-in-toasters-with-silly-fx-and-a-rickroll)
+ - [Intel Core i9 14900KS surfaces ahead of release with claims to a 6.2GHz Turbo and peak wattage to make your graphics card jealous](https://www.pcgamer.com/intel-core-i9-14900ks-surfaces-ahead-of-release-with-claims-to-a-62ghz-turbo-and-peak-wattage-to-make-your-graphics-card-jealous)
+ - [Six Months On, Starfield&#39;s Player Count Shouldn&#39;t Matter](https://kotaku.com/starfield-loses-97-percent-of-player-count-who-cares-1851252249)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
