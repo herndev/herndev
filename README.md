@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple fixes silly process of resetting the Vision Pro](https://www.androidauthority.com/apple-vision-pro-reset-fix-update-3414055/)
  - [Interviews with 40+ developers detail reasons for layoffs in gaming, including an environment fraught with high costs and execs having little regard for staff &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/240213/p3#a240213p3)
- - [First smartphones, now the Gemini app is coming to headphones](https://www.androidauthority.com/gemini-app-google-assistant-headphones-3414033/)
- - [Amazon Prime Video’s ad-supported subscription tier is worse than you’d expect](https://www.androidauthority.com/amazon-prime-video-ad-supported-subscription-no-dolby-atmos-vision-3414025/)<!-- TECH:END -->
+ - [First smartphones, now the Gemini app is coming to headphones](https://www.androidauthority.com/gemini-app-google-assistant-headphones-3414033/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
