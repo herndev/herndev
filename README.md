@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - ⏩ [Skills](http://9gag.com/gag/amAEjYV)
- - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - ⏩ [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
 
 ---
 
