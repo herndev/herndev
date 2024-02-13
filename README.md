@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s layoffs doomed its best &lpar;unofficial&rpar; music discovery resource](https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource)
- - [A US judge says OpenAI must face a claim of violating CA unfair competition law by using copyrighted books, but dismisses some claims like DMCA violations &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/240213/p22#a240213p22)
- - [Vastly upgrade your browsing with up to 79% off Surfshark VPN](https://www.androidauthority.com/surfshark-vpn-deal-3414254/)<!-- TECH:END -->
+ - [In 9+ federal child exploitation cases since 2018, the US said spy cams, sometimes promoted with racy imagery, sold on Amazon or eBay were used to film minors &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240213/p25#a240213p25)
+ - [Apple Pulls Popular Movie Piracy App Kimi From the App Store](https://www.wired.com/story/apple-app-store-kimi-piracy-movies/)
+ - [Apple continues to brace for big EU App Store changes in third developer betas](https://appleinsider.com/articles/24/02/13/apple-continues-to-brace-for-big-eu-app-store-changes-in-third-developer-betas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
