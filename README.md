@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Go Goblin Mode in Tenderfoot Tactics on Xbox](https://news.xbox.com/en-us/2024/02/13/go-goblin-mode-in-tenderfoot-tactics-on-xbox/)
- - [Tomb Raider I-III Remastered: The Kotaku Review](https://kotaku.com/tomb-raider-remastered-review-pc-lara-croft-1851250080)
- - [Banishers: Ghosts of New Eden beginners tips before starting](https://www.polygon.com/guides/24071767/banishers-ghosts-of-new-eden-beginners-tips)<!-- GAME:END -->
+ - [The Video Game Characters That Made Us Gay](https://kotaku.com/lgbtq-games-mass-effect-romance-options-overwatch-pride-1850586480)
+ - [Should You Butcher Your Pals In Palworld?](https://kotaku.com/palworld-butcher-pal-fluids-merchant-1851253195)
+ - [Hasbro has made about $90 million by letting Larian make a D&amp;D game](https://www.pcgamer.com/hasbro-has-made-about-dollar90-million-by-letting-larian-make-a-dandd-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
