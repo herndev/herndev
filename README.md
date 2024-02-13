@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nothing Phone 2a won’t get a proper US release](https://www.androidauthority.com/nothing-phone-2a-us-release-3414050/)
- - [Sources: Microsoft plans to launch select Xbox games on the PS5 and Switch, starting with Hi-Fi Rush, Pentiment, and Sea of Thieves, a seismic strategy shift &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240213/p7#a240213p7)
- - [Nothing reveals Phone 2a launch date with Carl Pei taking jabs at competition](https://www.androidauthority.com/nothing-phone-2a-launch-date-availability-3414093/)<!-- TECH:END -->
+ - [How to use Microsoft Copilot on iOS and iPadOS](https://appleinsider.com/inside/ios/tips/how-to-use-the-microcosft-copilot-on-ios-and-ipados?utm_medium=rss)
+ - [Peloton abandons Apple&#39;s GymKit health data sharing platform](https://appleinsider.com/articles/24/02/13/peloton-abandons-apples-gymkit-health-data-sharing-platform?utm_medium=rss)
+ - [Nothing Phone 2a spec leak paints out a competitive mid-range phone](https://www.androidauthority.com/nothing-phone-2a-spec-price-leak-3414111/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
