@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elliptic: an exploit of NFT gaming platform PlayDapp let hackers mint 1.8B PLA tokens, &quot;worth&quot; ~$290M; before the hack, only 577M PLA tokens were in circulation &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240213/p21#a240213p21)
- - [Apple’s sci-fi drama Invasion is getting a third season](https://www.theverge.com/2024/2/13/24071887/invasion-apple-tv-plus-season-3)
- - [A researcher finds a bug in fertility tracking app Glow&#39;s online forum that exposed the personal data of ~25M users; fixing the bug took Glow about a week &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240213/p20#a240213p20)<!-- TECH:END -->
+ - [Spotify’s layoffs doomed its best &lpar;unofficial&rpar; music discovery resource](https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource)
+ - [A US judge says OpenAI must face a claim of violating CA unfair competition law by using copyrighted books, but dismisses some claims like DMCA violations &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/240213/p22#a240213p22)
+ - [Vastly upgrade your browsing with up to 79% off Surfshark VPN](https://www.androidauthority.com/surfshark-vpn-deal-3414254/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
