@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Beast, the ‘purest science fiction’ movie, has a trailer and release date](https://www.polygon.com/24072032/the-beast-first-look-science-fiction-trailer-lea-seydoux)
- - [Xbox Insider Release Notes – Beta &lpar;2403.240208-2200&rpar;](https://news.xbox.com/en-us/2024/02/13/xbox-insider-release-notes-beta-2403-240208-2200/)
- - [The Essential Helldivers 2 Settings To Change Before Dropping In](https://kotaku.com/helldivers-2-settings-aim-anti-aliasing-ps5-pc-tips-1851252612)<!-- GAME:END -->
+ - [Go Goblin Mode in Tenderfoot Tactics on Xbox](https://news.xbox.com/en-us/2024/02/13/go-goblin-mode-in-tenderfoot-tactics-on-xbox/)
+ - [Tomb Raider I-III Remastered: The Kotaku Review](https://kotaku.com/tomb-raider-remastered-review-pc-lara-croft-1851250080)
+ - [Banishers: Ghosts of New Eden beginners tips before starting](https://www.polygon.com/guides/24071767/banishers-ghosts-of-new-eden-beginners-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
