@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;Don&#39;t airstrike me, bro&#39;: Helldivers 2&#39;s merciless friendly fire isn&#39;t bad, it&#39;s actually clever design](https://www.pcgamer.com/helldivers-2-friendly-fire)
  - [Just in case you don&#39;t have enough Steam sales already, the Steam Remote Play Together Fest is here to continue the assault on your finances](https://www.pcgamer.com/steam-remote-play-together-fest-2024)
- - [Helldivers 2’s microtransactions won’t stop you from having a good time](https://www.polygon.com/gaming/24071170/helldivers-2-microtransactions-live-service-fair)
- - [How to beat Lily and Lyleen in Palworld](https://www.polygon.com/palworld-guides/24050780/lily-lyleen-tower-of-free-pal-alliance-location-tower-2)<!-- GAME:END -->
+ - [Helldivers 2’s microtransactions won’t stop you from having a good time](https://www.polygon.com/gaming/24071170/helldivers-2-microtransactions-live-service-fair)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
