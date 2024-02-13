@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge blocks the enforcement of a Ohio law that would require children under 16 to get parental consent to use social media apps &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240212/p25#a240212p25)
- - [FCC commissioner wants to investigate Apple over Beeper Mini shutdown](https://www.theverge.com/2024/2/12/24071226/fcc-commissioner-brendan-carr-apple-beeper-mini)
- - [Cloudflare defeats another &quot;patent troll&quot;, invalidating parts of Sable Networks&#39; patents after crowd-sourcing prior art findings through Project Jengo &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240212/p24#a240212p24)<!-- TECH:END -->
+ - [FCC commissioner cries antitrust again after Beeper Mini debacle](https://appleinsider.com/articles/24/02/13/fcc-commissioner-cries-antitrust-again-after-beeper-mini-debacle?utm_medium=rss)
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
+ - [It’s not just you: Alicia Keys’ Super Bowl halftime show got changed for YouTube](https://www.theverge.com/2024/2/12/24071248/alicia-keys-vocals-changed-super-bowl-2024-usher-halftime-performance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
