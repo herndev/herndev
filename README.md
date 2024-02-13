@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German supermarket puts theft protection on every meat except pork. That supermarket is next to a refugee housing.](http://9gag.com/gag/a9qQjvK)
- - ⏩ [`how dare you sitting all day staring at the wall`](http://9gag.com/gag/agoPREx)
- - 👉 [I wont pay for Acrobat Reader](http://9gag.com/gag/aeQoKoj)<!-- MEMES:END -->
+ - 💣 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
+ - ⏩ [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
+ - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
 
 ---
 
