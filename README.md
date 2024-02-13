@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fixes silly process of resetting the Vision Pro](https://www.androidauthority.com/apple-vision-pro-reset-fix-update-3414055/)
- - [Interviews with 40+ developers detail reasons for layoffs in gaming, including an environment fraught with high costs and execs having little regard for staff &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/240213/p3#a240213p3)
- - [First smartphones, now the Gemini app is coming to headphones](https://www.androidauthority.com/gemini-app-google-assistant-headphones-3414033/)<!-- TECH:END -->
+ - [Websites with seemingly AI-generated obituaries litter Google search, sometimes listing living people as deceased and turning private individuals into clickbait &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240213/p4#a240213p4)
+ - [Samsung Galaxy Z Fold 5 Deals: Up to $1,000 in Trade-In Credit and Up to $300 in Direct Discounts     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
+ - [Tax Season 2024: All the Tax Filing Deadlines to Know This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-all-the-tax-filing-deadlines-to-know-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
