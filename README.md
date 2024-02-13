@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: crypto exchange Bullish paid DCG between $70M and $80M for CoinDesk in November 2023; last week Bullish restructured CoinDesk&#39;s leadership team &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240213/p28#a240213p28)
- - [Sarah Silverman’s lawsuit against OpenAI partially dismissed](https://www.theverge.com/2024/2/13/24072131/sarah-silverman-paul-tremblay-openai-chatgpt-copyright-lawsuit)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
+ - [AirPlay-compatible TVs rolling out to hotels starting &#39;later this spring&#39;](https://appleinsider.com/articles/24/02/13/airplay-compatible-tvs-rolling-out-to-hotels-starting-later-this-spring?utm_medium=rss)
+ - [Instacart reports Q4 revenue up 6% YoY to $803M vs. $804M est., plans to lay off ~250 workers, or ~7% of staff; three top execs are leaving for personal reasons &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240213/p34#a240213p34)
+ - [Lyft reports Q4 revenue up 4% YoY to $1.2B, net loss of $26.3M, vs. $588.1M YoY, active riders up 10% to 22.4M, and Q1 forecast above est.; LYFT jumps 60%+ &lpar;Antonia Mufarech/Bloomberg&rpar;](http://www.techmeme.com/240213/p33#a240213p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
