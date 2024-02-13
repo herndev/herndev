@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flipper Devices, which makes the Flipper Zero multi-tool device, announces a new $49 Video Game Module, powered by a Raspberry Pi RP2040 microcontroller &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/240213/p18#a240213p18)
- - [GLAAD releases its first gaming industry survey, with 1,500 participants: &lt;2% of console video games include LGBTQ characters, 17% of gamers are queer, and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240213/p17#a240213p17)
- - [Watermarking the future](https://www.theverge.com/2024/2/13/24067991/watermark-generative-ai-deepfake-copyright)<!-- TECH:END -->
+ - [Apple Studio Display drops to record low $1,299 at Amazon](https://appleinsider.com/articles/24/02/13/apple-studio-display-drops-to-record-low-1299-at-amazon?utm_medium=rss)
+ - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
+ - [Apple Vision Pro privacy means apps can&#39;t access details of users&#39; surroundings](https://appleinsider.com/articles/24/02/13/apple-vision-pro-privacy-means-apps-cant-access-details-of-users-surroundings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
