@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skills](http://9gag.com/gag/amAEjYV)
- - ⏩ [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
+ - 💣 [WTF](http://9gag.com/gag/abvP5RX)
+ - ⏩ [Nice to have know you](http://9gag.com/gag/aMER1nV)
+ - 👉 [Last season was a trashfire, no new books in over 10 years, but at least House of the Dragon was fine](http://9gag.com/gag/aOxgKLv)<!-- MEMES:END -->
 
 ---
 
