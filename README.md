@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best ways to kill Chargers in Helldivers 2](https://www.pcgamer.com/helldivers-2-kill-chargers)
- - [The future is here whether you want it or not as AI briefly makes Nvidia the 4th most valuable corporation on Earth with a $1.83 trillion market cap](https://www.pcgamer.com/the-future-is-here-whether-you-want-it-or-not-as-ai-briefly-makes-nvidia-the-4th-most-valuable-corporation-on-earth-with-a-dollar183-trillion-market-cap)
- - [SteelSeries Alias review](https://www.pcgamer.com/steelseries-alias-microphone-review)<!-- GAME:END -->
+ - [Marvel and DC’s legendary crossovers are finally back in print](https://www.polygon.com/24071678/marvel-dc-crossover-comics-history-books-2024)
+ - [PlayStation Store: January 2024’s top downloads](https://blog.playstation.com/2024/02/13/playstation-store-january-2024s-top-downloads/)
+ - [The best ways to kill Chargers in Helldivers 2](https://www.pcgamer.com/helldivers-2-kill-chargers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
