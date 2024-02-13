@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - ⏩ [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - ⏩ [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
  - 👉 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)<!-- MEMES:END -->
 
 ---
