@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Messages could soon let you react to chats like Instagram](https://www.androidauthority.com/google-messages-double-tap-reactions-3414015/)
  - [Court notice: the sentencing of Binance CEO Changpeng Zhao has been postponed until April 30, 2024; CZ is free on a $175M release bond in the US &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240212/p29#a240212p29)
- - [How to use the Microcosft Copilot on iOS and iPadOS](https://appleinsider.com/inside/ios/tips/how-to-use-the-microcosft-copilot-on-ios-and-ipados?utm_medium=rss)
- - [EveryNoise, a music encyclopedia using Spotify data, has ceased updating after Spotify laid off the employee running it in December, pissing off the site&#39;s fans &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240212/p28#a240212p28)<!-- TECH:END -->
+ - [Best Workout Equipment for Small Spaces     - CNET](https://www.cnet.com/health/fitness/best-workout-equipment-small-spaces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
