@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court notice: the sentencing of Binance CEO Changpeng Zhao has been postponed until April 30, 2024; CZ is free on a $175M release bond in the US &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240212/p29#a240212p29)
  - [How to use the Microcosft Copilot on iOS and iPadOS](https://appleinsider.com/inside/ios/tips/how-to-use-the-microcosft-copilot-on-ios-and-ipados?utm_medium=rss)
- - [EveryNoise, a music encyclopedia using Spotify data, has ceased updating after Spotify laid off the employee running it in December, pissing off the site&#39;s fans &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240212/p28#a240212p28)
- - [Peloton is getting rid of Apple Watch GymKit support](https://www.theverge.com/2024/2/12/24071405/peloton-apple-watch-gymkit-fitness-data-tracking-one-tap)<!-- TECH:END -->
+ - [EveryNoise, a music encyclopedia using Spotify data, has ceased updating after Spotify laid off the employee running it in December, pissing off the site&#39;s fans &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240212/p28#a240212p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
