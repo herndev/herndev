@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, February 13](https://www.pcgamer.com/wordle-today-answer-february-13-2024)
  - [Amid big rumors, Phil Spencer will discuss &#39;the future of Xbox&#39; in a podcast this week](https://www.pcgamer.com/amid-big-rumors-phil-spencer-will-discuss-the-future-of-xbox-in-a-podcast-this-week)
- - [&#39;Don&#39;t airstrike me, bro&#39;: Helldivers 2&#39;s merciless friendly fire isn&#39;t bad, it&#39;s actually clever design](https://www.pcgamer.com/helldivers-2-friendly-fire)
- - [Just in case you don&#39;t have enough Steam sales already, the Steam Remote Play Together Fest is here to continue the assault on your finances](https://www.pcgamer.com/steam-remote-play-together-fest-2024)<!-- GAME:END -->
+ - [&#39;Don&#39;t airstrike me, bro&#39;: Helldivers 2&#39;s merciless friendly fire isn&#39;t bad, it&#39;s actually clever design](https://www.pcgamer.com/helldivers-2-friendly-fire)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
