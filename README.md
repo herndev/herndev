@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helsinki-based Bob W, an Airbnb-like marketplace for premium short-term apartment rentals, has raised a &amp;euro;40M Series B led by Evli Growth &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240213/p2#a240213p2)
- - [Sources: Temu is scooping up suppliers removed by Shein, as Shein moves to clean up its supply chain ahead of a planned US listing &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240213/p1#a240213p1)
- - [The FCC commissioner wants to investigate Apple for Beeper Mini crackdown](https://www.androidauthority.com/fcc-commissioner-apple-imessage-beeper-mini-3413588/)<!-- TECH:END -->
+ - [Interviews with 40+ developers detail reasons for layoffs in gaming, including an environment fraught with high costs and execs having little regard for staff &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/240213/p3#a240213p3)
+ - [First smartphones, now the Gemini app is coming to headphones](https://www.androidauthority.com/gemini-app-google-assistant-headphones-3414033/)
+ - [Amazon Prime Video’s ad-supported subscription tier is worse than you’d expect](https://www.androidauthority.com/amazon-prime-video-ad-supported-subscription-no-dolby-atmos-vision-3414025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
