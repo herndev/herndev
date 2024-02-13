@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What](http://9gag.com/gag/aPgK5yB)
- - ⏩ [If you know you know](http://9gag.com/gag/anzLAdq)
- - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
+ - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - ⏩ [Boys being boys](http://9gag.com/gag/armjP97)
+ - 👉 [This clip of Tom Cruise and his stunt double will never not be funny...](http://9gag.com/gag/a6qAW3A)<!-- MEMES:END -->
 
 ---
 
