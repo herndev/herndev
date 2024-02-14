@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox February Update is Starting to Roll Out](https://news.xbox.com/en-us/2024/02/14/xbox-february-update-rolls-out-2024/)
- - [Free Play Days – Dead Island 2, Code Vein, Warstride Challenges and Nickelodeon All Star Brawl 2](https://news.xbox.com/en-us/2024/02/14/free-play-days-dead-island-2-code-vein-warstride-challenges-and-nickelodeon-all-star-brawl-2/)
- - [Everything We Know About Princess Peach: Showtime!](https://kotaku.com/princess-peach-showtime-release-date-transformations-1851212684)<!-- GAME:END -->
+ - [Princess Peach is here to steal your heart on Valentine’s Day](https://www.polygon.com/24072895/princess-peach-showtime-phantom-thief-mermaid-nintendo-switch)
+ - [Overwatch 2’s Latest Change Has The Community Shook](https://kotaku.com/overwatch-2-season-9-projectile-size-headshot-hitbox-1851256140)
+ - [Forget Skull and Bones, there&#39;s another pirate game out on Steam this week that&#39;s plundered my heart with turn-based naval combat and pirate presidential campaigns](https://www.pcgamer.com/forget-skull-and-bones-theres-another-pirate-game-out-on-steam-this-week-thats-plundered-my-heart-with-turn-based-naval-combat-and-pirate-presidential-campaigns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
