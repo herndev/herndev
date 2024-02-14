@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A typo in Lyft&#39;s Q4 release mistakenly forecast a 500 BPS of EBITDA margin improvement for 2024, causing a stock surge, before the error was corrected to 50 BPS &lpar;Alistair Barr/Business Insider&rpar;](http://www.techmeme.com/240214/p3#a240214p3)
- - [TikTok plans to launch an in-app local language Election Centre in March in all 27 EU countries, to fight fake news ahead of the European Parliament elections &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240214/p2#a240214p2)
- - [Gemini AI is now rolling out to the Google app on iOS](https://www.androidauthority.com/gemini-ios-rollout-3414460/)<!-- TECH:END -->
+ - [Xiaomi 14 Ultra renders show a huge Oreo cookie camera bump](https://www.androidauthority.com/xiaomi-14-ultra-design-leak-3414487/)
+ - [A Mozilla study of 11 AI romance chatbots finds that they harvest personal information extensively, and that 10 of them may sell or share the data they collect &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240214/p5#a240214p5)
+ - [ChatGPT can now remember what you did last summer](https://www.androidauthority.com/chatgpt-memory-feature-3414484/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
