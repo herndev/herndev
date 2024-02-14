@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)<!-- MEMES:END -->
+ - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
 
 ---
 
