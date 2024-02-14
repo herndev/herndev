@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, February 14](https://www.pcgamer.com/wordle-today-answer-february-14-2024)
  - [Get To Know Our Team: Evie – Game Release Support Manager](https://news.xbox.com/en-us/2024/02/13/get-to-know-our-team-evie-game-release-support-manager/)
- - [The patch Diablo 4 players hoped would fix its worst endgame grind hasn&#39;t fixed its worst endgame grind](https://www.pcgamer.com/the-patch-diablo-4-players-hoped-would-fix-its-worst-endgame-grind-hasnt-fixed-its-worst-endgame-grind)
- - [Hearthstone is celebrating 10 years of RNG mayhem with free cards for everyone and a new nostalgia-themed expansion](https://www.pcgamer.com/hearthstone-is-celebrating-10-years-of-rng-mayhem-with-free-cards-for-everyone-and-a-new-nostalgia-themed-expansion)<!-- GAME:END -->
+ - [The patch Diablo 4 players hoped would fix its worst endgame grind hasn&#39;t fixed its worst endgame grind](https://www.pcgamer.com/the-patch-diablo-4-players-hoped-would-fix-its-worst-endgame-grind-hasnt-fixed-its-worst-endgame-grind)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
