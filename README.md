@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and OpenAI say hackers are using ChatGPT to improve cyberattacks](https://www.theverge.com/2024/2/14/24072706/microsoft-openai-cyberattack-tools-ai-chatgpt)
- - [Apple has built a new generative AI tool for animating images](https://appleinsider.com/articles/24/02/14/apple-has-built-a-new-generative-ai-tool-for-animating-images?utm_medium=rss)
- - [Nvidia Chat with RTX hands-on: 35GB installer, Mistral 7B and Llama 2 are 70GB, great at summarizing details and targeted questions, but no follow-up questions &lpar;Harish Jonnalagadda/Windows Central&rpar;](http://www.techmeme.com/240214/p13#a240214p13)<!-- TECH:END -->
+ - [Google&#39;s TAG says a pro-Palestinian hacking group targeted Israeli software engineers to download malware ahead of October 7, in an attack dubbed Blackatom &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240214/p17#a240214p17)
+ - [Sen. Ron Wyden details the largest publicly known location-driven anti-abortion ad campaign, which allegedly tracked visits to 600 Planned Parenthood locations &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240214/p16#a240214p16)
+ - [Microsoft and OpenAI say hackers are already using LLMs to refine and improve cyberattacks, including Russian, North Korean, Iranian, and Chinese-backed groups &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240214/p15#a240214p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
