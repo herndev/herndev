@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skull and Bones is a Refreshing RPG Adventure with a Surprising Survival Twist](https://news.xbox.com/en-us/2024/02/14/skull-and-bones-preview/)
- - [The new Fantastic Four cast’s best roles and where to watch them](https://www.polygon.com/what-to-watch/24072933/who-is-fantastic-four-cast-best-movies-shows-watch-stream)
- - [MLB The Show 24 Adds First Female Player In Series History](https://kotaku.com/mlb-the-show-24-first-woman-toni-stone-hank-aaron-1851256889)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240212-1227&rpar;](https://news.xbox.com/en-us/2024/02/14/xbox-insider-release-notes-alpha-2403-240212-1227/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240212-1230&rpar;](https://news.xbox.com/en-us/2024/02/14/xbox-insider-release-notes-alpha-skip-ahead-2408-240212-1230/)
+ - [Granblue Fantasy: Relink review](https://www.pcgamer.com/granblue-fantasy-relink-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
