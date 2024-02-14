@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time for Microsoft to build an Xbox Steam Deck](https://www.theverge.com/24073201/microsoft-xbox-handheld-steam-deck-editorial)
- - [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
- - [Rasa, which provides a framework and a low-code UI to help enterprises build AI chatbots, raised a $30M Series C co-led by StepStone Group and PayPal Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240214/p27#a240214p27)<!-- TECH:END -->
+ - [Meta appoints Hock E. Tan, president and CEO of Broadcom, and philanthropist John Arnold, co-founder of Arnold Ventures, to its board, effective immediately &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240214/p31#a240214p31)
+ - [Source: OpenAI has been developing a web search product partly powered by Bing &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240214/p30#a240214p30)
+ - [Twilio reports Q4 revenue up 5% YoY to $1.08B vs. $1.05B est., 305K+ active customer accounts vs. 290K+ YoY, and Q1 revenue forecast below est.; TWLO drops 7%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240214/p29#a240214p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
