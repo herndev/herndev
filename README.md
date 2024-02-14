@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - ⏩ [Yeah.](http://9gag.com/gag/a2KnQp9)
- - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
+ - 💣 [What is this? Raincoat for ants?](http://9gag.com/gag/aqeqvAQ)
+ - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
+ - 👉 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)<!-- MEMES:END -->
 
 ---
 
