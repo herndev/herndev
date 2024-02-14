@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s TAG says a pro-Palestinian hacking group targeted Israeli software engineers to download malware ahead of October 7, in an attack dubbed Blackatom &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240214/p17#a240214p17)
- - [Sen. Ron Wyden details the largest publicly known location-driven anti-abortion ad campaign, which allegedly tracked visits to 600 Planned Parenthood locations &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240214/p16#a240214p16)
- - [Microsoft and OpenAI say hackers are already using LLMs to refine and improve cyberattacks, including Russian, North Korean, Iranian, and Chinese-backed groups &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240214/p15#a240214p15)<!-- TECH:END -->
+ - [9 Best Smart Speakers &lpar;2024&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
+ - [For Just $80, Matt&#39;s Flights Premium Will Keep You Posted on the Latest Airfare Deals     - CNET](https://www.cnet.com/deals/for-just-80-matts-flights-premium-will-keep-you-posted-on-the-latest-flight-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
