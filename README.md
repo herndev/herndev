@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The five best early Stratagems in Helldivers 2](https://www.polygon.com/playstation/24072170/helldivers-2-best-stratagems)
- - [Kotaku Asks: Who Is Your Biggest Video Game Crush?](https://kotaku.com/biggest-video-game-crushes-1851257890)
- - [Netflix’s Sixty Minutes is a hard-hitting action thriller with an immersive gimmick](https://www.polygon.com/24065050/sixty-minutes-netflix-thriller-action-movie-watch)<!-- GAME:END -->
+ - [Homeworld 3 studio Blackbird Interactive confirms layoffs &#39;due to economic pressures outside of our control&#39;](https://www.pcgamer.com/homeworld-3-studio-blackbird-interactive-confirms-layoffs-due-to-economic-pressures-outside-of-our-control)
+ - [In case you don&#39;t have enough survival games this month, Sons of the Forest leaves early access next week &lpar;and it&#39;s getting raccoons&rpar;](https://www.pcgamer.com/in-case-you-dont-have-enough-survival-games-this-month-sons-of-the-forest-leaves-early-access-next-week-and-its-getting-raccoons)
+ - [Islands of Insight has a great gauntlet of logic puzzles that overshadows its beautiful but aimless world](https://www.pcgamer.com/islands-of-insight-has-a-great-gauntlet-of-logic-puzzles-that-overshadows-its-beautiful-but-aimless-world)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
