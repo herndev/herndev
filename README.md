@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The S24’s cool Instant Slow-Mo feature is coming to these older devices](https://www.androidauthority.com/galaxy-s24-instant-slow-mo-older-phones-3414513/)
- - [February SSDI Payment 2024: More Checks Are Arriving Today     - CNET](https://www.cnet.com/personal-finance/february-ssdi-payment-2024-more-checks-are-arriving-today/#ftag=CAD590a51e)
- - [The World’s Most Important Industry Has a New Captain—and She’s Piloting It Into the 21st Century](https://www.wired.com/shipping-industry-marina-hadjipateras/)<!-- TECH:END -->
+ - [NVIDIA’s Chat with RTX is an AI chatbot that runs offline on your personal files](https://www.androidauthority.com/nvidia-chat-with-rtx-offline-ai-chatbot-3414523/)
+ - [Sony misses PS5 sales target as console enters ‘latter stage of its life cycle’](https://www.theverge.com/2024/2/14/24072692/sony-ps5-forecast-cut-q3-2023-earnings)
+ - [Sources: Apple&#39;s longest-serving senior industrial designer, Bart Andre, told colleagues this month that he is retiring; Andre joined in 1992 alongside Jony Ive &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240214/p7#a240214p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
