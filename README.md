@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the karen actually carin](http://9gag.com/gag/abvPqDr)
+ - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)<!-- MEMES:END -->
+ - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
 
 ---
 
