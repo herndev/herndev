@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The remastered Tomb Raider trilogy destroyed my nostalgia goggles](https://www.theverge.com/24072931/tomb-raider-1-3-remastered-game-review)
- - [Madame Web is a love letter to the golden age of bad comic book movies](https://www.theverge.com/24073087/madame-web-review)
- - [Unlock your T-Mobile Samsung phone early if you take advantage of this rule-breaking glitch](https://www.androidauthority.com/unlock-t-mobile-samsung-glitch-3414863/)<!-- TECH:END -->
+ - [It’s time for Microsoft to build an Xbox Steam Deck](https://www.theverge.com/24073201/microsoft-xbox-handheld-steam-deck-editorial)
+ - [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
+ - [Rasa, which provides a framework and a low-code UI to help enterprises build AI chatbots, raised a $30M Series C co-led by StepStone Group and PayPal Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240214/p27#a240214p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
