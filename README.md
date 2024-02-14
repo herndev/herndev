@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 14 Ultra renders show a huge Oreo cookie camera bump](https://www.androidauthority.com/xiaomi-14-ultra-design-leak-3414487/)
- - [A Mozilla study of 11 AI romance chatbots finds that they harvest personal information extensively, and that 10 of them may sell or share the data they collect &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240214/p5#a240214p5)
- - [ChatGPT can now remember what you did last summer](https://www.androidauthority.com/chatgpt-memory-feature-3414484/)<!-- TECH:END -->
+ - [The S24’s cool Instant Slow-Mo feature is coming to these older devices](https://www.androidauthority.com/galaxy-s24-instant-slow-mo-older-phones-3414513/)
+ - [February SSDI Payment 2024: More Checks Are Arriving Today     - CNET](https://www.cnet.com/personal-finance/february-ssdi-payment-2024-more-checks-are-arriving-today/#ftag=CAD590a51e)
+ - [The World’s Most Important Industry Has a New Captain—and She’s Piloting It Into the 21st Century](https://www.wired.com/shipping-industry-marina-hadjipateras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
