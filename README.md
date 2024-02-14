@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML CFO Roger Dassen says the chip market &quot;has now reached the lowest point of the dip&quot; and &quot;the recovery is nascent&quot;; ASML&#39;s top client spent &amp;euro;8.78B in 2023 &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240214/p10#a240214p10)
- - [Samsung now lets you take upside-down photos without turning your phone upside-down](https://www.androidauthority.com/samsung-enhance-x-upside-down-photos-3414528/)
- - [Sydney-based quantum computing startup Diraq extends its Series A to $35M led by Quantonation, taking its total funding to $120M+, to build quantum processors &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240214/p9#a240214p9)<!-- TECH:END -->
+ - [Microsoft and OpenAI say hackers are using ChatGPT to improve cyberattacks](https://www.theverge.com/2024/2/14/24072706/microsoft-openai-cyberattack-tools-ai-chatgpt)
+ - [Apple has built a new generative AI tool for animating images](https://appleinsider.com/articles/24/02/14/apple-has-built-a-new-generative-ai-tool-for-animating-images?utm_medium=rss)
+ - [Nvidia Chat with RTX hands-on: 35GB installer, Mistral 7B and Llama 2 are 70GB, great at summarizing details and targeted questions, but no follow-up questions &lpar;Harish Jonnalagadda/Windows Central&rpar;](http://www.techmeme.com/240214/p13#a240214p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
