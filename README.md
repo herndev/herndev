@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
+ - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 ---
 
