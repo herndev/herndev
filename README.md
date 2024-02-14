@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Princess Peach is here to steal your heart on Valentine’s Day](https://www.polygon.com/24072895/princess-peach-showtime-phantom-thief-mermaid-nintendo-switch)
- - [Overwatch 2’s Latest Change Has The Community Shook](https://kotaku.com/overwatch-2-season-9-projectile-size-headshot-hitbox-1851256140)
- - [Forget Skull and Bones, there&#39;s another pirate game out on Steam this week that&#39;s plundered my heart with turn-based naval combat and pirate presidential campaigns](https://www.pcgamer.com/forget-skull-and-bones-theres-another-pirate-game-out-on-steam-this-week-thats-plundered-my-heart-with-turn-based-naval-combat-and-pirate-presidential-campaigns)<!-- GAME:END -->
+ - [Hawked Is the Comic Book Adventure-Shooter You’ve Been Hunting For](https://news.xbox.com/en-us/2024/02/14/hawked-launch-xbox/)
+ - [New Destiny 2 Bundle Contains 5 Years Of Content For Just $40](https://kotaku.com/destiny-2-all-dlc-expansions-humble-bundle-pc-steam-1851256516)
+ - [Round three of Reddit versus the movie industry ends in yet another win for the social network site, because the First Amendment didn&#39;t suddenly change overnight](https://www.pcgamer.com/round-three-of-reddit-versus-the-movie-industry-ends-in-yet-another-win-for-the-social-network-site-because-the-first-amendment-didnt-suddenly-change-overnight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
