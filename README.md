@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suikoden creator Yoshitaka Murayama has died](https://www.pcgamer.com/suikoden-creator-yoshitaka-murayama-has-died)
- - [Palworld dev says talk of player dropoff is &#39;lazy&#39; and &#39;it is fine to take breaks from games&#39;](https://www.pcgamer.com/palworld-dev-says-talk-of-player-dropoff-is-lazy-and-it-is-fine-to-take-breaks-from-games)
- - [Final Fantasy VII Rebirth Demo Gets Bigger And Prettier Next Week](https://kotaku.com/final-fantasy-7-rebirth-demo-cloud-sephiroth-1851232144)<!-- GAME:END -->
+ - [The five best early Stratagems in Helldivers 2](https://www.polygon.com/playstation/24072170/helldivers-2-best-stratagems)
+ - [Kotaku Asks: Who Is Your Biggest Video Game Crush?](https://kotaku.com/biggest-video-game-crushes-1851257890)
+ - [Netflix’s Sixty Minutes is a hard-hitting action thriller with an immersive gimmick](https://www.polygon.com/24065050/sixty-minutes-netflix-thriller-action-movie-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
