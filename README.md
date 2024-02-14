@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is this? Raincoat for ants?](http://9gag.com/gag/aqeqvAQ)
- - ⏩ [WTF](http://9gag.com/gag/abvP5RX)
+ - 💣 [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - ⏩ [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
  - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
 
 ---
