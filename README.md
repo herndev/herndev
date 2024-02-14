@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)
+ - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
+ - 👉 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)<!-- MEMES:END -->
 
 ---
 
