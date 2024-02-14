@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [UK water utility Southern Water confirms hackers stole data on as many as 470K customers; Russia-linked ransomware gang Black Basta claimed credit in January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240214/p23#a240214p23)
- - [Gemini Advanced is most impressive when it’s working with Google](https://www.theverge.com/2024/2/14/24066552/google-openai-gemini-ultra-chatgpt-chatbots)<!-- TECH:END -->
+ - [Apple’s latest prototype AI tool can animate images using text descriptions](https://www.theverge.com/2024/2/14/24072917/apple-keyframer-ai-animation-tool-2d-images-text-descriptions)
+ - [Marvel has found its Fantastic Four](https://www.theverge.com/2024/2/14/24072910/marvel-studios-fantastic-four-cast-pedro-pascal)
+ - [The Anker 150W GaNPrime charger drops to unbeaten $79.99 deal price](https://www.androidauthority.com/anker-150w-ganprime-charger-deal-3414768/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
