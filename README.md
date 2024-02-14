@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest prototype AI tool can animate images using text descriptions](https://www.theverge.com/2024/2/14/24072917/apple-keyframer-ai-animation-tool-2d-images-text-descriptions)
- - [Marvel has found its Fantastic Four](https://www.theverge.com/2024/2/14/24072910/marvel-studios-fantastic-four-cast-pedro-pascal)
- - [The Anker 150W GaNPrime charger drops to unbeaten $79.99 deal price](https://www.androidauthority.com/anker-150w-ganprime-charger-deal-3414768/)<!-- TECH:END -->
+ - [MacBook Pro with OLED display rumored to hit shelves later than expected](https://appleinsider.com/articles/24/02/14/macbook-pro-with-oled-display-rumored-to-hit-shelves-later-than-expected?utm_medium=rss)
+ - [Ex-Apple executive in the running to lead joint ESPN, Warner, and Fox sports streamer](https://appleinsider.com/articles/24/02/14/ex-apple-executive-in-the-running-to-lead-joint-espn-warner-and-fox-sports-streamer?utm_medium=rss)
+ - [Stability AI details Stable Cascade, a new image generation model built on a different architecture to SDXL to improve performance and accuracy, now in preview &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240214/p25#a240214p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
