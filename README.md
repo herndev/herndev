@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Smart Speakers &lpar;2024&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
- - [For Just $80, Matt&#39;s Flights Premium Will Keep You Posted on the Latest Airfare Deals     - CNET](https://www.cnet.com/deals/for-just-80-matts-flights-premium-will-keep-you-posted-on-the-latest-flight-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Downpour is a new app that turns your photos into games](https://www.theverge.com/24071829/downpour-game-development-app-date-iphone-android)
+ - [Uber and Lyft drivers in at least 17 US cities, including Los Angeles and Chicago, plan to strike today over pay; UK-based food app couriers also plan to strike &lpar;Lauren Kaori Gurley/Washington Post&rpar;](http://www.techmeme.com/240214/p22#a240214p22)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 14&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-14-2024-3413759/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
