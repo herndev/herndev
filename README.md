@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240212-1227&rpar;](https://news.xbox.com/en-us/2024/02/14/xbox-insider-release-notes-alpha-2403-240212-1227/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240212-1230&rpar;](https://news.xbox.com/en-us/2024/02/14/xbox-insider-release-notes-alpha-skip-ahead-2408-240212-1230/)
- - [Granblue Fantasy: Relink review](https://www.pcgamer.com/granblue-fantasy-relink-review)<!-- GAME:END -->
+ - [Suikoden creator Yoshitaka Murayama has died](https://www.pcgamer.com/suikoden-creator-yoshitaka-murayama-has-died)
+ - [Palworld dev says talk of player dropoff is &#39;lazy&#39; and &#39;it is fine to take breaks from games&#39;](https://www.pcgamer.com/palworld-dev-says-talk-of-player-dropoff-is-lazy-and-it-is-fine-to-take-breaks-from-games)
+ - [Final Fantasy VII Rebirth Demo Gets Bigger And Prettier Next Week](https://kotaku.com/final-fantasy-7-rebirth-demo-cloud-sephiroth-1851232144)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
