@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best day of his life](http://9gag.com/gag/aPgKOMq)
- - ⏩ [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
+ - 💣 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - ⏩ [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 ---
 
