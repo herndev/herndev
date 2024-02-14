@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Downpour is a new app that turns your photos into games](https://www.theverge.com/24071829/downpour-game-development-app-date-iphone-android)
- - [Uber and Lyft drivers in at least 17 US cities, including Los Angeles and Chicago, plan to strike today over pay; UK-based food app couriers also plan to strike &lpar;Lauren Kaori Gurley/Washington Post&rpar;](http://www.techmeme.com/240214/p22#a240214p22)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 14&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-14-2024-3413759/)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [UK water utility Southern Water confirms hackers stole data on as many as 470K customers; Russia-linked ransomware gang Black Basta claimed credit in January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240214/p23#a240214p23)
+ - [Gemini Advanced is most impressive when it’s working with Google](https://www.theverge.com/2024/2/14/24066552/google-openai-gemini-ultra-chatgpt-chatbots)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
