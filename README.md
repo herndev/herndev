@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 💣 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
+ - 👉 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)<!-- MEMES:END -->
 
 ---
 
