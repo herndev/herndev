@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini AI is now rolling out to the Google app on iOS](https://www.androidauthority.com/gemini-ios-rollout-3414460/)
- - [Google Play will make it easier to delete an app account](https://www.androidauthority.com/google-play-delete-an-app-account-3414017/)
- - [SoftBank Vision Funds co-CEO Alex Clavel says the fund is &quot;looking very carefully&quot; at generative AI firms, as SoftBank embraces a cautious investment approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p1#a240214p1)<!-- TECH:END -->
+ - [A typo in Lyft&#39;s Q4 release mistakenly forecast a 500 BPS of EBITDA margin improvement for 2024, causing a stock surge, before the error was corrected to 50 BPS &lpar;Alistair Barr/Business Insider&rpar;](http://www.techmeme.com/240214/p3#a240214p3)
+ - [TikTok plans to launch an in-app local language Election Centre in March in all 27 EU countries, to fight fake news ahead of the European Parliament elections &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240214/p2#a240214p2)
+ - [Gemini AI is now rolling out to the Google app on iOS](https://www.androidauthority.com/gemini-ios-rollout-3414460/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
