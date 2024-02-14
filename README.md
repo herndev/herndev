@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple AirPods dip to $89.99, with every model up to $100 off](https://appleinsider.com/articles/24/02/14/deals-apple-airpods-dip-to-8999-with-every-model-up-to-100-off?utm_medium=rss)
- - [Best MacBook Deals: Big Savings on MacBook Pro and MacBook Air     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Upgrade Your Home Gym With Our Favorite Schwinn Elliptical, Now $200 Off     - CNET](https://www.cnet.com/deals/upgrade-your-home-gym-with-our-favorite-schwinn-elliptical-now-200-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The remastered Tomb Raider trilogy destroyed my nostalgia goggles](https://www.theverge.com/24072931/tomb-raider-1-3-remastered-game-review)
+ - [Madame Web is a love letter to the golden age of bad comic book movies](https://www.theverge.com/24073087/madame-web-review)
+ - [Unlock your T-Mobile Samsung phone early if you take advantage of this rule-breaking glitch](https://www.androidauthority.com/unlock-t-mobile-samsung-glitch-3414863/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
