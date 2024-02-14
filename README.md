@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro with OLED display rumored to hit shelves later than expected](https://appleinsider.com/articles/24/02/14/macbook-pro-with-oled-display-rumored-to-hit-shelves-later-than-expected?utm_medium=rss)
- - [Ex-Apple executive in the running to lead joint ESPN, Warner, and Fox sports streamer](https://appleinsider.com/articles/24/02/14/ex-apple-executive-in-the-running-to-lead-joint-espn-warner-and-fox-sports-streamer?utm_medium=rss)
- - [Stability AI details Stable Cascade, a new image generation model built on a different architecture to SDXL to improve performance and accuracy, now in preview &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240214/p25#a240214p25)<!-- TECH:END -->
+ - [Deals: Apple AirPods dip to $89.99, with every model up to $100 off](https://appleinsider.com/articles/24/02/14/deals-apple-airpods-dip-to-8999-with-every-model-up-to-100-off?utm_medium=rss)
+ - [Best MacBook Deals: Big Savings on MacBook Pro and MacBook Air     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [Upgrade Your Home Gym With Our Favorite Schwinn Elliptical, Now $200 Off     - CNET](https://www.cnet.com/deals/upgrade-your-home-gym-with-our-favorite-schwinn-elliptical-now-200-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
