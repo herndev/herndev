@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 💣 [What is this? Raincoat for ants?](http://9gag.com/gag/aqeqvAQ)
  - ⏩ [WTF](http://9gag.com/gag/abvP5RX)
  - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
 
