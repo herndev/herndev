@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a research paper, Apple researchers detail a new AI tool called Keyframer, which uses LLMs to animate static images through natural language prompts &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240213/p43#a240213p43)
- - [Android photo picker now lets you select media from Google Photos and other cloud libraries](https://www.androidauthority.com/android-photo-picker-google-photos-cloud-media-access-3414451/)
- - [How to use the Services menu across macOS apps](https://appleinsider.com/inside/macos/tips/how-to-use-the-services-menu-across-macos-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Gemini AI is now rolling out to the Google app on iOS](https://www.androidauthority.com/gemini-ios-rollout-3414460/)
+ - [Google Play will make it easier to delete an app account](https://www.androidauthority.com/google-play-delete-an-app-account-3414017/)
+ - [SoftBank Vision Funds co-CEO Alex Clavel says the fund is &quot;looking very carefully&quot; at generative AI firms, as SoftBank embraces a cautious investment approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p1#a240214p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
