@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 is the least I&#39;ve felt pressured to spend money on a game in years, so of course I&#39;m buying everything in the store](https://www.pcgamer.com/helldivers-2-monetization)
- - [World of Warcraft&#39;s lead storyteller quietly left Blizzard last fall: &#39;I&#39;ve felt the itch to stretch my creativity in new directions&#39;](https://www.pcgamer.com/steve-danuser-world-of-warcraft-departure)
- - [How to find and kill Chargers in Helldivers 2](https://www.polygon.com/guides/24072123/helldivers-2-charges-where-to-find-how-to-kill)<!-- GAME:END -->
+ - [The patch Diablo 4 players hoped would fix its worst endgame grind hasn&#39;t fixed its worst endgame grind](https://www.pcgamer.com/the-patch-diablo-4-players-hoped-would-fix-its-worst-endgame-grind-hasnt-fixed-its-worst-endgame-grind)
+ - [Hearthstone is celebrating 10 years of RNG mayhem with free cards for everyone and a new nostalgia-themed expansion](https://www.pcgamer.com/hearthstone-is-celebrating-10-years-of-rng-mayhem-with-free-cards-for-everyone-and-a-new-nostalgia-themed-expansion)
+ - [More than 20 years after its debut, revered sci-fi adventure The Ur-Quan Masters is finally coming to Steam next week](https://www.pcgamer.com/more-than-20-years-after-its-debut-revered-sci-fi-adventure-the-ur-quan-masters-is-finally-coming-to-steam-next-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
