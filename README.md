@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hawked Is the Comic Book Adventure-Shooter You’ve Been Hunting For](https://news.xbox.com/en-us/2024/02/14/hawked-launch-xbox/)
- - [New Destiny 2 Bundle Contains 5 Years Of Content For Just $40](https://kotaku.com/destiny-2-all-dlc-expansions-humble-bundle-pc-steam-1851256516)
- - [Round three of Reddit versus the movie industry ends in yet another win for the social network site, because the First Amendment didn&#39;t suddenly change overnight](https://www.pcgamer.com/round-three-of-reddit-versus-the-movie-industry-ends-in-yet-another-win-for-the-social-network-site-because-the-first-amendment-didnt-suddenly-change-overnight)<!-- GAME:END -->
+ - [Skull and Bones is a Refreshing RPG Adventure with a Surprising Survival Twist](https://news.xbox.com/en-us/2024/02/14/skull-and-bones-preview/)
+ - [The new Fantastic Four cast’s best roles and where to watch them](https://www.polygon.com/what-to-watch/24072933/who-is-fantastic-four-cast-best-movies-shows-watch-stream)
+ - [MLB The Show 24 Adds First Female Player In Series History](https://kotaku.com/mlb-the-show-24-first-woman-toni-stone-hank-aaron-1851256889)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
