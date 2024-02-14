@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a video, Mark Zuckerberg shares his thoughts on Vision Pro, saying Quest 3 &quot;is the better product, period&quot;, highlighting trade-offs Apple made, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240213/p41#a240213p41)
- - [Foundry Group, an 18-year-old VC firm with nearly $3.5B in assets under management, has quietly decided to wind down and not raise any more funds &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240213/p40#a240213p40)
- - [After trying the Vision Pro, Mark Zuckerberg says Quest 3 ‘is the better product, period’](https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3)<!-- TECH:END -->
+ - [Unsurprisingly, Mark Zuckerberg believes Meta Quest 3 is the &#39;better product, period&#39;](https://appleinsider.com/articles/24/02/14/unsurprisingly-mark-zuckerberg-believes-meta-quest-3-is-the-better-product-period?utm_medium=rss)
+ - [AI researcher Andrej Karpathy, one of the founding members of OpenAI, leaves the company; Karpathy was developing a product that he described as an AI assistant &lpar;The Information&rpar;](http://www.techmeme.com/240213/p42#a240213p42)
+ - [In a video, Mark Zuckerberg shares his thoughts on Vision Pro, saying Quest 3 &quot;is the better product, period&quot;, highlighting trade-offs Apple made, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240213/p41#a240213p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
