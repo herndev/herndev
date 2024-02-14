@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Services menu across macOS apps](https://appleinsider.com/inside/macos/tips/how-to-use-the-services-menu-across-macos-apps?utm_medium=rss)
- - [Deals: get Apple&#39;s M3 Pro MacBook Pro with 36GB RAM for $2,149](https://appleinsider.com/articles/24/02/14/deals-get-apples-latest-m3-pro-macbook-pro-with-36gb-ram-for-2149?utm_medium=rss)
- - [Unsurprisingly, Mark Zuckerberg believes Meta Quest 3 is the &#39;better product, period&#39;](https://appleinsider.com/articles/24/02/14/unsurprisingly-mark-zuckerberg-believes-meta-quest-3-is-the-better-product-period?utm_medium=rss)<!-- TECH:END -->
+ - [In a research paper, Apple researchers detail a new AI tool called Keyframer, which uses LLMs to animate static images through natural language prompts &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240213/p43#a240213p43)
+ - [Android photo picker now lets you select media from Google Photos and other cloud libraries](https://www.androidauthority.com/android-photo-picker-google-photos-cloud-media-access-3414451/)
+ - [How to use the Services menu across macOS apps](https://appleinsider.com/inside/macos/tips/how-to-use-the-services-menu-across-macos-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
