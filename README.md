@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation won’t release any major first-party games before March 2025](https://www.polygon.com/24072730/no-new-ps5-games-exclusives-2024-release)
- - [Mario vs. Donkey Kong is fine, but Nintendo remade the wrong game](https://www.polygon.com/reviews/24072246/mario-vs-donkey-kong-switch-review)
- - [Against literally nobody&#39;s expectations Mark Zuckerberg says his Quest 3 headset is better than the Apple Vision Pro](https://www.pcgamer.com/against-literally-nobodys-expectations-mark-zuckerberg-says-his-quest-3-headset-is-better-than-the-apple-vision-pro)<!-- GAME:END -->
+ - [No matter what happens next, unionizing at ZeniMax worked](https://www.polygon.com/24065388/zenimax-media-cwa-microsoft-union)
+ - [The best Helldivers 2 loadouts](https://www.pcgamer.com/helldivers-2-best-loadouts)
+ - [Baldur&#39;s Gate 3 speedrunner beats Ketheric Thorm to death with 11,000 pounds of invisible bear, shaves another 2 minutes off her Honour Mode world record](https://www.pcgamer.com/baldurs-gate-3-speedrunner-beats-ketheric-thorm-to-death-with-11000-pounds-of-invisible-bear-shaves-another-2-minutes-off-her-honour-mode-world-record)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
