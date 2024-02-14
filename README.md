@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)
+ - 💣 [When the karen actually carin](http://9gag.com/gag/abvPqDr)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
+ - 👉 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)<!-- MEMES:END -->
 
 ---
 
