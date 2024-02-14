@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No matter what happens next, unionizing at ZeniMax worked](https://www.polygon.com/24065388/zenimax-media-cwa-microsoft-union)
- - [The best Helldivers 2 loadouts](https://www.pcgamer.com/helldivers-2-best-loadouts)
- - [Baldur&#39;s Gate 3 speedrunner beats Ketheric Thorm to death with 11,000 pounds of invisible bear, shaves another 2 minutes off her Honour Mode world record](https://www.pcgamer.com/baldurs-gate-3-speedrunner-beats-ketheric-thorm-to-death-with-11000-pounds-of-invisible-bear-shaves-another-2-minutes-off-her-honour-mode-world-record)<!-- GAME:END -->
+ - [The Xbox February Update is Starting to Roll Out](https://news.xbox.com/en-us/2024/02/14/xbox-february-update-rolls-out-2024/)
+ - [Free Play Days – Dead Island 2, Code Vein, Warstride Challenges and Nickelodeon All Star Brawl 2](https://news.xbox.com/en-us/2024/02/14/free-play-days-dead-island-2-code-vein-warstride-challenges-and-nickelodeon-all-star-brawl-2/)
+ - [Everything We Know About Princess Peach: Showtime!](https://kotaku.com/princess-peach-showtime-release-date-transformations-1851212684)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
