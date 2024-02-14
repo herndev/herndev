@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get To Know Our Team: Evie – Game Release Support Manager](https://news.xbox.com/en-us/2024/02/13/get-to-know-our-team-evie-game-release-support-manager/)
  - [The patch Diablo 4 players hoped would fix its worst endgame grind hasn&#39;t fixed its worst endgame grind](https://www.pcgamer.com/the-patch-diablo-4-players-hoped-would-fix-its-worst-endgame-grind-hasnt-fixed-its-worst-endgame-grind)
- - [Hearthstone is celebrating 10 years of RNG mayhem with free cards for everyone and a new nostalgia-themed expansion](https://www.pcgamer.com/hearthstone-is-celebrating-10-years-of-rng-mayhem-with-free-cards-for-everyone-and-a-new-nostalgia-themed-expansion)
- - [More than 20 years after its debut, revered sci-fi adventure The Ur-Quan Masters is finally coming to Steam next week](https://www.pcgamer.com/more-than-20-years-after-its-debut-revered-sci-fi-adventure-the-ur-quan-masters-is-finally-coming-to-steam-next-week)<!-- GAME:END -->
+ - [Hearthstone is celebrating 10 years of RNG mayhem with free cards for everyone and a new nostalgia-themed expansion](https://www.pcgamer.com/hearthstone-is-celebrating-10-years-of-rng-mayhem-with-free-cards-for-everyone-and-a-new-nostalgia-themed-expansion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
