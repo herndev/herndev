@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - 💣 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
+ - 👉 [Friendly care bear](http://9gag.com/gag/a1PzZm2)<!-- MEMES:END -->
 
 ---
 
