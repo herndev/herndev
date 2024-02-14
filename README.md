@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, February 14](https://www.pcgamer.com/wordle-today-answer-february-14-2024)
- - [Get To Know Our Team: Evie – Game Release Support Manager](https://news.xbox.com/en-us/2024/02/13/get-to-know-our-team-evie-game-release-support-manager/)
- - [The patch Diablo 4 players hoped would fix its worst endgame grind hasn&#39;t fixed its worst endgame grind](https://www.pcgamer.com/the-patch-diablo-4-players-hoped-would-fix-its-worst-endgame-grind-hasnt-fixed-its-worst-endgame-grind)<!-- GAME:END -->
+ - [How to get Resplendent Sparks in Diablo 4](https://www.pcgamer.com/diablo-4-resplendent-sparks)
+ - [Helldivers 2 starts recruiting more devs for the war effort after its galactic success, aims to &#39;accelerate and beef up [its] content plans&#39;](https://www.pcgamer.com/helldivers-2-starts-recruiting-more-devs-for-the-war-effort-after-its-galactic-success-aims-to-accelerate-and-beef-up-its-content-plans)
+ - [Corsair&#39;s coffers cop a load of cash: &#39;The gaming hardware market in the United States and Europe is now at a level between 30% and 50% bigger than pre-pandemic years&#39;](https://www.pcgamer.com/corsairs-coffers-cop-a-load-of-cash-the-gaming-hardware-market-in-the-united-states-and-europe-is-now-at-a-level-between-30-and-50-bigger-than-pre-pandemic-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
