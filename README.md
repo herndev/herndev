@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Unsurprisingly, Mark Zuckerberg believes Meta Quest 3 is the &#39;better product, period&#39;](https://appleinsider.com/articles/24/02/14/unsurprisingly-mark-zuckerberg-believes-meta-quest-3-is-the-better-product-period?utm_medium=rss)
  - [AI researcher Andrej Karpathy, one of the founding members of OpenAI, leaves the company; Karpathy was developing a product that he described as an AI assistant &lpar;The Information&rpar;](http://www.techmeme.com/240213/p42#a240213p42)
- - [In a video, Mark Zuckerberg shares his thoughts on Vision Pro, saying Quest 3 &quot;is the better product, period&quot;, highlighting trade-offs Apple made, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240213/p41#a240213p41)<!-- TECH:END -->
+ - [In a video, Mark Zuckerberg shares his thoughts on the Vision Pro, saying Quest 3 &quot;is the better product, period&quot;, highlighting Apple&#39;s tradeoffs, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240213/p41#a240213p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
