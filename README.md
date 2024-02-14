@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
+ - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
 
 ---
 
