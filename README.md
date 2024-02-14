@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Against literally nobody&#39;s expectations Mark Zuckerberg says his Quest 3 headset is better than the Apple Vision Pro](https://www.pcgamer.com/against-literally-nobodys-expectations-mark-zuckerberg-says-his-quest-3-headset-is-better-than-the-apple-vision-pro)
- - [Deep Rock Galactic&#39;s first spin-off is out now in Early Access, and it&#39;s the best autobattler since Vampire Survivors](https://www.pcgamer.com/deep-rock-galactics-first-spin-off-is-out-now-in-early-access-and-its-the-best-autobattler-since-vampire-survivors)
- - [Microsoft Flight Sim&#39;s free DLC finally adds what we&#39;ve all wanted: giant mechanical dragonflies, decolonisation, and the chance to win a magical floating Xbox controller](https://www.pcgamer.com/microsoft-flight-sims-free-dlc-finally-adds-what-weve-all-wanted-giant-mechanical-dragonflies-decolonisation-and-the-chance-to-win-a-magical-floating-xbox-controller)<!-- GAME:END -->
+ - [PlayStation won’t release any major first-party games before March 2025](https://www.polygon.com/24072730/no-new-ps5-games-exclusives-2024-release)
+ - [Mario vs. Donkey Kong is fine, but Nintendo remade the wrong game](https://www.polygon.com/reviews/24072246/mario-vs-donkey-kong-switch-review)
+ - [Against literally nobody&#39;s expectations Mark Zuckerberg says his Quest 3 headset is better than the Apple Vision Pro](https://www.pcgamer.com/against-literally-nobodys-expectations-mark-zuckerberg-says-his-quest-3-headset-is-better-than-the-apple-vision-pro)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
