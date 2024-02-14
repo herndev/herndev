@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
+ - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Friendly care bear](http://9gag.com/gag/a1PzZm2)<!-- MEMES:END -->
+ - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
 
 ---
 
