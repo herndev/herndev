@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Resplendent Sparks in Diablo 4](https://www.pcgamer.com/diablo-4-resplendent-sparks)
- - [Helldivers 2 starts recruiting more devs for the war effort after its galactic success, aims to &#39;accelerate and beef up [its] content plans&#39;](https://www.pcgamer.com/helldivers-2-starts-recruiting-more-devs-for-the-war-effort-after-its-galactic-success-aims-to-accelerate-and-beef-up-its-content-plans)
- - [Corsair&#39;s coffers cop a load of cash: &#39;The gaming hardware market in the United States and Europe is now at a level between 30% and 50% bigger than pre-pandemic years&#39;](https://www.pcgamer.com/corsairs-coffers-cop-a-load-of-cash-the-gaming-hardware-market-in-the-united-states-and-europe-is-now-at-a-level-between-30-and-50-bigger-than-pre-pandemic-years)<!-- GAME:END -->
+ - [Against literally nobody&#39;s expectations Mark Zuckerberg says his Quest 3 headset is better than the Apple Vision Pro](https://www.pcgamer.com/against-literally-nobodys-expectations-mark-zuckerberg-says-his-quest-3-headset-is-better-than-the-apple-vision-pro)
+ - [Deep Rock Galactic&#39;s first spin-off is out now in Early Access, and it&#39;s the best autobattler since Vampire Survivors](https://www.pcgamer.com/deep-rock-galactics-first-spin-off-is-out-now-in-early-access-and-its-the-best-autobattler-since-vampire-survivors)
+ - [Microsoft Flight Sim&#39;s free DLC finally adds what we&#39;ve all wanted: giant mechanical dragonflies, decolonisation, and the chance to win a magical floating Xbox controller](https://www.pcgamer.com/microsoft-flight-sims-free-dlc-finally-adds-what-weve-all-wanted-giant-mechanical-dragonflies-decolonisation-and-the-chance-to-win-a-magical-floating-xbox-controller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
