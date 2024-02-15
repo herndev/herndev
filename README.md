@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - ⏩ [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
- - 👉 [Hear me out](http://9gag.com/gag/a3Z9dVv)<!-- MEMES:END -->
+ - 💣 [Meanwhile in Peru](http://9gag.com/gag/amAjz96)
+ - ⏩ [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
+ - 👉 [This shouldnt happen in civilized countries and get funded by EU taxpayers, free housing, free food, free phone, free healthcare, refuse to work, refuse to pay for any services, assault natives...](http://9gag.com/gag/aMERQ3V)<!-- MEMES:END -->
 
 ---
 
