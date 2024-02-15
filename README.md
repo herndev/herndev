@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Last Airbender is getting a &#39;competitive multiplayer fighting game&#39; in 2025](https://www.pcgamer.com/avatar-the-last-airbender-is-getting-a-competitive-multiplayer-fighting-game-in-2025)
- - [Sony InZone Buds review](https://www.pcgamer.com/sony-inzone-buds-review)
- - [PlayStation bosses say they want to work more &#39;proactively&#39; on PC releases, and it sure sounds like Sony is gearing up for more simultaneous debuts like Helldivers 2](https://www.pcgamer.com/playstation-bosses-say-they-want-to-work-more-proactively-on-pc-releases-and-it-sure-sounds-like-sony-is-gearing-up-for-more-simultaneous-debuts-like-helldivers-2)<!-- GAME:END -->
+ - [No Man’s Sky Welcomes All Xbox Players for the Omega Expedition](https://news.xbox.com/en-us/2024/02/15/no-mans-sky-omega-expedition/)
+ - [Even the US Department of Defence is not immune to data breaches as 20,000 individuals are notified of a Microsoft cloud email leak](https://www.pcgamer.com/even-the-us-department-of-defence-is-not-immune-to-data-breaches-as-20000-individuals-are-notified-of-a-microsoft-cloud-email-leak)
+ - [Avatar: The Last Airbender is getting a &#39;competitive multiplayer fighting game&#39; in 2025](https://www.pcgamer.com/avatar-the-last-airbender-is-getting-a-competitive-multiplayer-fighting-game-in-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
