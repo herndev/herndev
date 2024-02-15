@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A leaked Lenovo laptop comes with a transparent display and I can&#39;t get my head around why anyone would think that&#39;s a good idea](https://www.pcgamer.com/a-leaked-lenovo-laptop-comes-with-a-transparent-display-and-i-cant-get-my-head-around-why-anyone-would-think-thats-a-good-idea)
- - [Sony InZone H5 review](https://www.pcgamer.com/sony-inzone-h5-wireless-gaming-headset-review)
- - [Baldur&#39;s Gate 3 players collectively hallucinate a Valentine&#39;s Day release for Patch 6, despite Larian&#39;s chaotic Pingu posting](https://www.pcgamer.com/baldurs-gate-3-players-collectively-hallucinate-a-valentines-day-release-for-patch-6-despite-larians-chaotic-pingu-posting)<!-- GAME:END -->
+ - [Avatar: The Last Airbender is getting a &#39;competitive multiplayer fighting game&#39; in 2025](https://www.pcgamer.com/avatar-the-last-airbender-is-getting-a-competitive-multiplayer-fighting-game-in-2025)
+ - [Sony InZone Buds review](https://www.pcgamer.com/sony-inzone-buds-review)
+ - [PlayStation bosses say they want to work more &#39;proactively&#39; on PC releases, and it sure sounds like Sony is gearing up for more simultaneous debuts like Helldivers 2](https://www.pcgamer.com/playstation-bosses-say-they-want-to-work-more-proactively-on-pc-releases-and-it-sure-sounds-like-sony-is-gearing-up-for-more-simultaneous-debuts-like-helldivers-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
