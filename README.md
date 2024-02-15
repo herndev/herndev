@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A 12 hours `hunger strike`](http://9gag.com/gag/anzpBbb)
+ - 💣 [Strike](http://9gag.com/gag/aNwxoAw)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Not an american house](http://9gag.com/gag/a3Z93m7)<!-- MEMES:END -->
+ - 👉 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)<!-- MEMES:END -->
 
 ---
 
