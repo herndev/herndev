@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t date robots — their privacy policies are terrible](https://www.theverge.com/2024/2/15/24074063/ai-chatbot-virtual-girlfriend-apps-mozilla-privacy-report)
- - [The future of Xbox: all the news on Microsoft’s strategy shift](https://www.theverge.com/24073286/xbox-console-exclusivity-hardware-update-game-pass)
- - [Best MacBook Air M2 Deals: Save Up to $300 on Apple&#39;s Laptop Macs     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yep, Apple’s breaking iPhone web apps in the EU](https://www.theverge.com/2024/2/15/24074182/apple-drops-support-iphone-web-apps-eu-dma)
+ - [OpenAI’s new AI model transforms text into 60 second videos](https://www.androidauthority.com/openai-sora-text-to-video-ai-3415237/)
+ - [Apple blames new law for why progressive web apps don&#39;t work right in the EU](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
