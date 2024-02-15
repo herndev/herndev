@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some People Actually Kind of Love Deepfakes](https://www.wired.com/story/ai-deepfakes-companies-executives-academics/)
- - [Scout Motors wants to put the ‘mechanical’ back into electric trucks](https://www.theverge.com/2024/2/15/24073745/scout-motors-ev-truck-factory-groundbreaking-ceo-interview)
- - [Google is already pushing Gemini 1.5, giving its AI a turbo boost](https://www.androidauthority.com/google-gemini-1-5-update-3415112/)<!-- TECH:END -->
+ - [Windows 11 Pro dives to all-time low price of just $23!](https://www.androidauthority.com/deal-windows-11-pro-3415186/)
+ - [Filings: Sam Altman is the sole owner of the OpenAI Startup Fund, which reported $175M in total commitments in May 2023; Microsoft is an outside limited partner &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240215/p27#a240215p27)
+ - [&#39;Napoleon&#39; storms onto Apple TV+ in March](https://appleinsider.com/articles/24/02/15/napoleon-storms-onto-apple-tv-in-march?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
