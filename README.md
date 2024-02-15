@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fake &#39;Valve Prism&#39; VR headset website is a prank based on an extremely specific joke from the 2023 Midwest Furfest furry convention](https://www.pcgamer.com/fake-valve-prism-vr-headset-website-is-a-prank-based-on-an-extremely-specific-joke-from-the-2023-midwest-furfest-furry-convention)
- - [Remember that Silent Hill 2 remake trailer in January that fans didn&#39;t like? Bloober Team didn&#39;t like it either](https://www.pcgamer.com/remember-that-silent-hill-2-remake-trailer-in-january-that-fans-didnt-like-bloober-team-didnt-like-it-either)
- - [&#39;Aiming is optional now&#39;: Overwatch 2&#39;s bigger bullets divide players as they adjust to Blizzard&#39;s season 9 rework](https://www.pcgamer.com/overwatch-2-season-9-hitbox-changes)<!-- GAME:END -->
+ - [PSA: Helldivers 2 side objectives can be completed in seconds with the right weapons](https://www.pcgamer.com/helldivers-2-fast-side-objectives-broadcast-towers-fog)
+ - [Get To Know Our Team: Dean – Technical Program Manager](https://news.xbox.com/en-us/2024/02/14/get-to-know-our-team-dean-technical-program-manager/)
+ - [Once again I am forced to tap the &#39;singleplayer games are not dying&#39; sign](https://www.pcgamer.com/immortals-of-aveum-aaa-shooters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
