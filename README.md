@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - ⏩ [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 👉 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)<!-- MEMES:END -->
+ - 💣 [How will you afford a house down payment?](http://9gag.com/gag/aBdqQXA)
+ - ⏩ [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
+ - 👉 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)<!-- MEMES:END -->
 
 ---
 
