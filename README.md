@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky’s Omega update is designed to entice new and lapsed players](https://www.polygon.com/24074177/no-mans-sky-omega-update-expedition-pirate-dreadnought-details)
- - [GTA Online update for the week of Feb. 15](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [X-Men ‘97 Trailer Teases Hellfire Gala, Baby Cable, And Headmaster Magneto](https://kotaku.com/x-men-97-animated-series-disney-plus-trailer-breakdown-1851261202)<!-- GAME:END -->
+ - [Tomb Raider fans are very excited about new art that seemingly reveals long-awaited &#39;Unified Lara&#39; design](https://www.pcgamer.com/tomb-raider-fans-are-very-excited-about-new-art-that-seemingly-reveals-long-awaited-unified-lara-design)
+ - [Everything Announced In Today&#39;s Big Xbox Podcast](https://kotaku.com/xbox-podcast-exclusivity-business-update-ps5-hi-fi-rush-1851261518)
+ - [Diablo 4 coming to Xbox Game Pass in March](https://www.polygon.com/24074326/diablo-4-xbox-game-pass-release-date-blizzard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
