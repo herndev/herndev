@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomb Raider fans are very excited about new art that seemingly reveals long-awaited &#39;Unified Lara&#39; design](https://www.pcgamer.com/tomb-raider-fans-are-very-excited-about-new-art-that-seemingly-reveals-long-awaited-unified-lara-design)
- - [Everything Announced In Today&#39;s Big Xbox Podcast](https://kotaku.com/xbox-podcast-exclusivity-business-update-ps5-hi-fi-rush-1851261518)
- - [Diablo 4 coming to Xbox Game Pass in March](https://www.polygon.com/24074326/diablo-4-xbox-game-pass-release-date-blizzard)<!-- GAME:END -->
+ - [We May Already Know Which 4 Xbox Games Are Going Multiplatform](https://kotaku.com/hifi-rush-pentiment-xbox-multiplatform-1851262144)
+ - [11 things I wish I knew before playing Skull and Bones](https://www.pcgamer.com/11-things-i-wish-i-knew-before-playing-skull-and-bones)
+ - [The Hello Neighbor creator is making a Home Alone-inspired PvP heist game and you can sign up to test it on Steam now](https://www.pcgamer.com/the-creator-of-hello-neighbor-is-making-a-home-alone-inspired-pvp-heist-game-and-you-can-sign-up-to-test-it-on-steam-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
