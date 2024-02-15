@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yep, Apple’s breaking iPhone web apps in the EU](https://www.theverge.com/2024/2/15/24074182/apple-drops-support-iphone-web-apps-eu-dma)
- - [OpenAI’s new AI model transforms text into 60 second videos](https://www.androidauthority.com/openai-sora-text-to-video-ai-3415237/)
- - [Apple blames new law for why progressive web apps don&#39;t work right in the EU](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu?utm_medium=rss)<!-- TECH:END -->
+ - [Roku reports Q4 revenue up 14% YoY to $984.4M, vs. $968.2M est., and warns of a &quot;challenging&quot; environment for media and entertainment in 2024; ROKU drops 14%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240215/p35#a240215p35)
+ - [New bill would let defendants inspect algorithms used against them in court](https://www.theverge.com/2024/2/15/24074214/justice-in-forensic-algorithms-act-democrats-mark-takano-dwight-evans)
+ - [Is Snapchat safe?](https://www.androidauthority.com/is-snapchat-safe-3415133/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
