@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is reducing payments to news orgs that fact-check potential WhatsApp misinformation, including on elections, and has cut funding for CrowdTangle &lpar;The Information&rpar;](http://www.techmeme.com/240214/p41#a240214p41)
  - [The European Court of Human Rights rules backdoors that weaken E2EE violate human rights law, after Russia began requiring Telegram to decrypt messages in 2017 &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240214/p40#a240214p40)
- - [Best Solar Panel Installation Companies in Georgia     - CNET](https://www.cnet.com/home/energy-and-utilities/georgia-solar-panels/#ftag=CAD590a51e)
- - [Amazon researchers detail BASE TTS, the largest text-to-speech model yet, which they claim exhibits &quot;emergent&quot; qualities improving its natural speaking ability &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240214/p39#a240214p39)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Georgia     - CNET](https://www.cnet.com/home/energy-and-utilities/georgia-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
