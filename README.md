@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 Pro dives to all-time low price of just $23!](https://www.androidauthority.com/deal-windows-11-pro-3415186/)
- - [Filings: Sam Altman is the sole owner of the OpenAI Startup Fund, which reported $175M in total commitments in May 2023; Microsoft is an outside limited partner &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240215/p27#a240215p27)
- - [&#39;Napoleon&#39; storms onto Apple TV+ in March](https://appleinsider.com/articles/24/02/15/napoleon-storms-onto-apple-tv-in-march?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s upcoming Galaxy A35 5G found on the Google Play Console](https://www.androidauthority.com/galaxy-a35-5g-google-play-console-3415207/)
+ - [A Big Tech-backed campaign to plant trees might have taken a wrong turn](https://www.theverge.com/24072029/tree-planting-campaign-afr100-forests-science-critique)
+ - [OpenAI introduces Sora, its text-to-video AI model](https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
