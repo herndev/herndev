@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prospects of a wide-ranging AI bill in the US this year are rapidly dimming, despite Senator Chuck Schumer&#39;s push to put AI regulation at the top of the agenda &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240215/p4#a240215p4)
- - [Some European entrepreneurs believe the EU&#39;s scrutiny of deals involving tech giants will lead to less M&amp;A activity, reducing exit routes from their business &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240215/p3#a240215p3)
- - [Nothing Phone 2a price leaks: A rival to the best budget phones?](https://www.androidauthority.com/nothing-phone-2a-price-leaks-3414462/)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s business model as the company believes it can more than double the yearly run rate by 2025; ChatGPT enterprise now has 300+ paying customers &lpar;Financial Times&rpar;](http://www.techmeme.com/240215/p7#a240215p7)
+ - [The iPhone 16’s chip could get a big AI upgrade for generative AI features](https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/)
+ - [Extremely Hardcore book excerpt: how Elon Musk&#39;s decision to impose rate limits on Twitter in summer 2023 helped upsell Blue, as he prepared to launch xAI &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/240215/p6#a240215p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
