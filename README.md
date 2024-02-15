@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Homeworld 3 studio Blackbird Interactive confirms layoffs &#39;due to economic pressures outside of our control&#39;](https://www.pcgamer.com/homeworld-3-studio-blackbird-interactive-confirms-layoffs-due-to-economic-pressures-outside-of-our-control)
- - [In case you don&#39;t have enough survival games this month, Sons of the Forest leaves early access next week &lpar;and it&#39;s getting raccoons&rpar;](https://www.pcgamer.com/in-case-you-dont-have-enough-survival-games-this-month-sons-of-the-forest-leaves-early-access-next-week-and-its-getting-raccoons)
- - [Islands of Insight has a great gauntlet of logic puzzles that overshadows its beautiful but aimless world](https://www.pcgamer.com/islands-of-insight-has-a-great-gauntlet-of-logic-puzzles-that-overshadows-its-beautiful-but-aimless-world)<!-- GAME:END -->
+ - [Fake &#39;Valve Prism&#39; VR headset website is a prank based on an extremely specific joke from the 2023 Midwest Furfest furry convention](https://www.pcgamer.com/fake-valve-prism-vr-headset-website-is-a-prank-based-on-an-extremely-specific-joke-from-the-2023-midwest-furfest-furry-convention)
+ - [Remember that Silent Hill 2 remake trailer in January that fans didn&#39;t like? Bloober Team didn&#39;t like it either](https://www.pcgamer.com/remember-that-silent-hill-2-remake-trailer-in-january-that-fans-didnt-like-bloober-team-didnt-like-it-either)
+ - [&#39;Aiming is optional now&#39;: Overwatch 2&#39;s bigger bullets divide players as they adjust to Blizzard&#39;s season 9 rework](https://www.pcgamer.com/overwatch-2-season-9-hitbox-changes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
