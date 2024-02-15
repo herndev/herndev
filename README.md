@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - ⏩ [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 👉 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)<!-- MEMES:END -->
+ - 💣 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - ⏩ [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
+ - 👉 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)<!-- MEMES:END -->
 
 ---
 
