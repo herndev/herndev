@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Strike](http://9gag.com/gag/aNwxoAw)
+ - 💣 [WTF](http://9gag.com/gag/abvP5RX)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)<!-- MEMES:END -->
+ - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
 
 ---
 
