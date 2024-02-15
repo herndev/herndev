@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at OpenAI&#39;s business model as the company believes it can more than double the yearly run rate by 2025; ChatGPT enterprise now has 300+ paying customers &lpar;Financial Times&rpar;](http://www.techmeme.com/240215/p7#a240215p7)
- - [The iPhone 16’s chip could get a big AI upgrade for generative AI features](https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/)
- - [Extremely Hardcore book excerpt: how Elon Musk&#39;s decision to impose rate limits on Twitter in summer 2023 helped upsell Blue, as he prepared to launch xAI &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/240215/p6#a240215p6)<!-- TECH:END -->
+ - [Download these dark wallpapers for your phone](https://www.androidauthority.com/dark-wallpaper-phone-3414098/)
+ - [Looks like the Apple Vision Pro fever is already over](https://www.androidauthority.com/apple-vision-pro-returns-3414980/)
+ - [A look at OpenAI&#39;s business model as the company believes it can more than double the yearly run rate by 2025; ChatGPT enterprise now has 300+ paying customers &lpar;Financial Times&rpar;](http://www.techmeme.com/240215/p7#a240215p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
