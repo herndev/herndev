@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [No Man’s Sky’s Omega update is designed to entice new and lapsed players](https://www.polygon.com/24074177/no-mans-sky-omega-update-expedition-pirate-dreadnought-details)
  - [GTA Online update for the week of Feb. 15](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [X-Men ‘97 Trailer Teases Hellfire Gala, Baby Cable, And Headmaster Magneto](https://kotaku.com/x-men-97-animated-series-disney-plus-trailer-breakdown-1851261202)
- - [The Masters of the Air actors used exactly what you’d think to train for the show](https://www.polygon.com/24073247/masters-air-volume-msfs-flight-sim-rig)<!-- GAME:END -->
+ - [X-Men ‘97 Trailer Teases Hellfire Gala, Baby Cable, And Headmaster Magneto](https://kotaku.com/x-men-97-animated-series-disney-plus-trailer-breakdown-1851261202)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
