@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI copyright lawsuits could make the whole industry go extinct](https://www.theverge.com/24062159/ai-copyright-fair-use-lawsuits-new-york-times-openai-chatgpt-decoder-podcast)
- - [TikTok launches its native Apple Vision Pro app, offering a similar UI to the mobile apps; an executive said TikTok &quot;redesigned the entire TikTok experience&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240215/p19#a240215p19)
- - [TikTok dances onto the Apple Vision Pro](https://appleinsider.com/articles/24/02/15/tiktok-dances-onto-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Sam Altman told people that the $7T figure represents the total investments needed for his chip project, including real estate, over some years &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240215/p23#a240215p23)
+ - [Google launches Gemini 1.5 to developers and enterprise users, offering support for 1M tokens, and says Gemini 1.5 Pro is on par with its Gemini Ultra model &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240215/p21#a240215p21)
+ - [Google makes Gemini 1.0 Pro and Gemini 1.0 Ultra generally available, adds support for adapter-based tuning in Vertex, and rolls out new developer tools &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240215/p22#a240215p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
