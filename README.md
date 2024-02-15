@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download these dark wallpapers for your phone](https://www.androidauthority.com/dark-wallpaper-phone-3414098/)
- - [Looks like the Apple Vision Pro fever is already over](https://www.androidauthority.com/apple-vision-pro-returns-3414980/)
- - [A look at OpenAI&#39;s business model as the company believes it can more than double the yearly run rate by 2025; ChatGPT enterprise now has 300+ paying customers &lpar;Financial Times&rpar;](http://www.techmeme.com/240215/p7#a240215p7)<!-- TECH:END -->
+ - [YouTube TV is rolling out “Build a Multiview” to more users](https://www.androidauthority.com/youtube-tv-build-a-multiview-rolling-out-3415016/)
+ - [Leaked Google documents detail Goose, a Gemini-based LLM designed for internal use to help employees write code faster, as part of an AI-driven efficiency push &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/240215/p10#a240215p10)
+ - [A look at robots.txt, a good will-based social contract governing the behavior of web crawlers, as experts call for more rigid tools for managing AI crawlers &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240215/p9#a240215p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
