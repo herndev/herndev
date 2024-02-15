@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
- - ⏩ [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
+ - 💣 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
+ - ⏩ [Palworld](http://9gag.com/gag/aZDApXp)
+ - 👉 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)<!-- MEMES:END -->
 
 ---
 
