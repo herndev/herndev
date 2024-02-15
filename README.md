@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: Helldivers 2 side objectives can be completed in seconds with the right weapons](https://www.pcgamer.com/helldivers-2-fast-side-objectives-broadcast-towers-fog)
- - [Get To Know Our Team: Dean – Technical Program Manager](https://news.xbox.com/en-us/2024/02/14/get-to-know-our-team-dean-technical-program-manager/)
- - [Once again I am forced to tap the &#39;singleplayer games are not dying&#39; sign](https://www.pcgamer.com/immortals-of-aveum-aaa-shooters)<!-- GAME:END -->
+ - [Microsoft really wants you to upgrade to Windows 11 by touting its start menu as a &#39;game changer&#39;](https://www.pcgamer.com/microsoft-really-want-you-to-upgrade-to-windows-11-by-touting-its-start-menu-as-a-game-changer)
+ - [Some things never change: In under 12 hours, there&#39;s already a nude mod for Tomb Raider Remastered](https://www.pcgamer.com/some-things-never-change-in-under-12-hours-theres-already-a-nude-mod-for-tomb-raider-remastered)
+ - [PSA: Helldivers 2 side objectives can be completed in seconds with the right weapons](https://www.pcgamer.com/helldivers-2-fast-side-objectives-broadcast-towers-fog)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
