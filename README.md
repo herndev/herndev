@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Peru](http://9gag.com/gag/amAjz96)
- - ⏩ [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
- - 👉 [This shouldnt happen in civilized countries and get funded by EU taxpayers, free housing, free food, free phone, free healthcare, refuse to work, refuse to pay for any services, assault natives...](http://9gag.com/gag/aMERQ3V)<!-- MEMES:END -->
+ - 💣 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
+ - ⏩ [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
+ - 👉 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)<!-- MEMES:END -->
 
 ---
 
