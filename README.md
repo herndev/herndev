@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft really wants you to upgrade to Windows 11 by touting its start menu as a &#39;game changer&#39;](https://www.pcgamer.com/microsoft-really-want-you-to-upgrade-to-windows-11-by-touting-its-start-menu-as-a-game-changer)
- - [Some things never change: In under 12 hours, there&#39;s already a nude mod for Tomb Raider Remastered](https://www.pcgamer.com/some-things-never-change-in-under-12-hours-theres-already-a-nude-mod-for-tomb-raider-remastered)
- - [PSA: Helldivers 2 side objectives can be completed in seconds with the right weapons](https://www.pcgamer.com/helldivers-2-fast-side-objectives-broadcast-towers-fog)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, February 15](https://www.pcgamer.com/wordle-answer-today-february-15-2024)
+ - [Microsoft really wants you to upgrade to Windows 11 by touting its start menu as a &#39;game changer&#39;](https://www.pcgamer.com/microsoft-really-wants-you-to-upgrade-to-windows-11-by-touting-its-start-menu-as-a-game-changer)
+ - [Some things never change: In under 12 hours, there&#39;s already a nude mod for Tomb Raider Remastered](https://www.pcgamer.com/some-things-never-change-in-under-12-hours-theres-already-a-nude-mod-for-tomb-raider-remastered)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
