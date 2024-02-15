@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&lpar;&lpar;&lpar;removed&rpar;&rpar;&rpar;](http://9gag.com/gag/ay2g7jp)
- - ⏩ [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 👉 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)<!-- MEMES:END -->
+ - 💣 [The mayor of the Brazilian city of Araucari, Hissam Hussein Dehaini 65 married a 16-year-old girl one day after her birthday. The day after the ceremony he named his new mother-in-law as Secretary of Culture and Tourism of this municipality in southern Brazil.](http://9gag.com/gag/ajVbAmG)
+ - ⏩ [Without a Second Thought, Kansas City Heroes Jumped into Action to Takedown An Active Shooter\u201d](http://9gag.com/gag/aqe35BP)
+ - 👉 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)<!-- MEMES:END -->
 
 ---
 
