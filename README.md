@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Terrorists are allegedly buying blue checks on X](https://www.theverge.com/2024/2/14/24073146/x-twitter-blue-check-hezbollah-terrorist-groups-sanctions)
- - [Tesla’s latest update takes aim at cold weather woes](https://www.theverge.com/2024/2/14/24073215/tesla-update-battery-range-wear-supercharger-extreme-cold)
- - [Microsoft schedules Build 2024 for May 21 to May 23 in Seattle and online, with updates on AI, Copilot, and more expected &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240214/p32#a240214p32)<!-- TECH:END -->
+ - [Japanese chipmaker Renesas agrees to acquire PCB design software company Altium for ~$5.9B in cash, a 33.6% premium on Altium&#39;s February 14 closing price &lpar;Harry Brumpton/Bloomberg&rpar;](http://www.techmeme.com/240214/p34#a240214p34)
+ - [Nvidia passed Alphabet on February 14 as the third most valuable US company and the world&#39;s fourth with a market cap of ~$1.83T, one day after overtaking Amazon &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/240214/p33#a240214p33)
+ - [Stability AI tries to stay ahead of the pack with a new image-generating AI model](https://www.theverge.com/2024/2/14/24073253/stablity-ai-image-generation-stable-cascade-diffusion-model)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
