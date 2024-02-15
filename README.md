@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese chipmaker Renesas agrees to acquire PCB design software company Altium for ~$5.9B in cash, a 33.6% premium on Altium&#39;s February 14 closing price &lpar;Harry Brumpton/Bloomberg&rpar;](http://www.techmeme.com/240214/p34#a240214p34)
- - [Nvidia passed Alphabet on February 14 as the third most valuable US company and the world&#39;s fourth with a market cap of ~$1.83T, one day after overtaking Amazon &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/240214/p33#a240214p33)
- - [Stability AI tries to stay ahead of the pack with a new image-generating AI model](https://www.theverge.com/2024/2/14/24073253/stablity-ai-image-generation-stable-cascade-diffusion-model)<!-- TECH:END -->
+ - [X removes paid checkmarks from some accounts after a watchdog group found 28 verified accounts allegedly tied to Hezbollah and other US-sanctioned entities &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240214/p36#a240214p36)
+ - [Spigen Liquid Air review: Protect your Pixel 8 Pro in style](https://www.androidauthority.com/pixel-8-pro-spigen-liquid-air-case-review-3412792/)
+ - [Nvidia is now worth more than Amazon and Alphabet](https://www.theverge.com/2024/2/14/24073384/nvidia-market-cap-passes-amazon-alphabet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
