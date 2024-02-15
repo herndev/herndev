@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We May Already Know Which 4 Xbox Games Are Going Multiplatform](https://kotaku.com/hifi-rush-pentiment-xbox-multiplatform-1851262144)
- - [11 things I wish I knew before playing Skull and Bones](https://www.pcgamer.com/11-things-i-wish-i-knew-before-playing-skull-and-bones)
- - [The Hello Neighbor creator is making a Home Alone-inspired PvP heist game and you can sign up to test it on Steam now](https://www.pcgamer.com/the-creator-of-hello-neighbor-is-making-a-home-alone-inspired-pvp-heist-game-and-you-can-sign-up-to-test-it-on-steam-now)<!-- GAME:END -->
+ - [All Persona 3 Reload classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)
+ - [Metro Exodus has now sold more than 10 million copies, 4A Games teases the next game in the series &#39;when it&#39;s ready&#39;](https://www.pcgamer.com/metro-exodus-has-now-sold-more-than-10-million-copies-4a-games-teases-the-next-game-in-the-series-when-its-ready)
+ - [7 tips and tricks before starting Deep Rock Galactic: Survivor](https://www.polygon.com/guides/24073651/deep-rock-galactic-survivor-beginner-tips-tricks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
