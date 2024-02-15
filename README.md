@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku reports Q4 revenue up 14% YoY to $984.4M, vs. $968.2M est., and warns of a &quot;challenging&quot; environment for media and entertainment in 2024; ROKU drops 14%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240215/p35#a240215p35)
- - [New bill would let defendants inspect algorithms used against them in court](https://www.theverge.com/2024/2/15/24074214/justice-in-forensic-algorithms-act-democrats-mark-takano-dwight-evans)
- - [Is Snapchat safe?](https://www.androidauthority.com/is-snapchat-safe-3415133/)<!-- TECH:END -->
+ - [Microsoft wants its next Xbox to have the ‘largest technical leap’ ever](https://www.androidauthority.com/next-xbox-largest-generational-leap-3415297/)
+ - [Coinbase reports Q4 revenue up 51% YoY to $953.8M, vs. $826M est., net income of $273M, its first profit in two years, vs. a loss of $557M YoY; COIN jumps 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240215/p36#a240215p36)
+ - [ChatGPT vs. Gemini: Which AI Chatbot Subscription Is Right for You?](https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
