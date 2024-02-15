@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
- - ⏩ [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 👉 [Apparently, this was considered plus size in 2003.](http://9gag.com/gag/a4oeZP1)<!-- MEMES:END -->
+ - 💣 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
+ - ⏩ [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
 
 ---
 
