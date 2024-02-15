@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF](http://9gag.com/gag/abvP5RX)
+ - 💣 [Whale explodes](http://9gag.com/gag/aEqrzrN)
  - ⏩ [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
+ - 👉 [The mayor of the Brazilian city of Araucari, Hissam Hussein Dehaini 65 married a 16-year-old girl one day after her birthday. The day after the ceremony he named his new mother-in-law as Secretary of Culture and Tourism of this municipality in southern Brazil.](http://9gag.com/gag/ajVbAmG)<!-- MEMES:END -->
 
 ---
 
