@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Dead Island 2, Code Vein, Warstride Challenges and Nickelodeon All Star Brawl 2](https://news.xbox.com/en-us/2024/02/15/free-play-days-dead-island-2-code-vein-warstride-challenges-and-nickelodeon-all-star-brawl-2/)
- - [Fellow Helldivers 2 players, I&#39;m begging you to stop calling the extraction shuttle early](https://www.pcgamer.com/fellow-helldivers-2-players-im-begging-you-to-stop-calling-the-extraction-shuttle-early)
- - [The Most Ambitious Space Game Ever Made Is Free This Weekend](https://kotaku.com/no-mans-sky-free-trial-omega-update-expedition-1851260262)<!-- GAME:END -->
+ - [PlateUp!, now on Game Pass and consoles, is perfect for virtual double dates](https://www.polygon.com/gaming/24072035/plateup-cooking-roguelike-game-xbox-game-pass-switch-ps5-steam)
+ - [Tomb Raider devs offer a peek at their new ‘unified’ Lara Croft](https://www.polygon.com/24073332/tomb-raider-lara-croft-unified-design-artwork)
+ - [Gaming&#39;s legendary comeback is now free until Monday: No Man&#39;s Sky&#39;s next big update lets you join its Omega community expedition without spending a cent](https://www.pcgamer.com/gamings-legendary-comeback-is-now-free-until-monday-no-mans-skys-next-big-update-lets-you-join-its-omega-community-expedition-without-spending-a-cent)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
