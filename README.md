@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 studio boss says it will &#39;never&#39; add PVP, and for anyone looking for it &#39;I recommend Tarkov&#39;](https://www.pcgamer.com/helldivers-2-studio-boss-says-it-will-never-add-pvp-and-for-anyone-looking-for-it-i-recommend-tarkov)
- - [The best Helldivers 2 weapons](https://www.pcgamer.com/helldivers-2-best-weapons)
- - [X-Men ‘97 finally gets a trailer and a March premiere, bub](https://www.polygon.com/24073776/x-men-97-trailer-premiere)<!-- GAME:END -->
+ - [Free Play Days – Dead Island 2, Code Vein, Warstride Challenges and Nickelodeon All Star Brawl 2](https://news.xbox.com/en-us/2024/02/15/free-play-days-dead-island-2-code-vein-warstride-challenges-and-nickelodeon-all-star-brawl-2/)
+ - [Fellow Helldivers 2 players, I&#39;m begging you to stop calling the extraction shuttle early](https://www.pcgamer.com/fellow-helldivers-2-players-im-begging-you-to-stop-calling-the-extraction-shuttle-early)
+ - [The Most Ambitious Space Game Ever Made Is Free This Weekend](https://kotaku.com/no-mans-sky-free-trial-omega-update-expedition-1851260262)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
