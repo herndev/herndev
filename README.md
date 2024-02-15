@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky Welcomes All Xbox Players for the Omega Expedition](https://news.xbox.com/en-us/2024/02/15/no-mans-sky-omega-expedition/)
- - [Even the US Department of Defence is not immune to data breaches as 20,000 individuals are notified of a Microsoft cloud email leak](https://www.pcgamer.com/even-the-us-department-of-defence-is-not-immune-to-data-breaches-as-20000-individuals-are-notified-of-a-microsoft-cloud-email-leak)
- - [Avatar: The Last Airbender is getting a &#39;competitive multiplayer fighting game&#39; in 2025](https://www.pcgamer.com/avatar-the-last-airbender-is-getting-a-competitive-multiplayer-fighting-game-in-2025)<!-- GAME:END -->
+ - [Helldivers 2 studio boss says it will &#39;never&#39; add PVP, and for anyone looking for it &#39;I recommend Tarkov&#39;](https://www.pcgamer.com/helldivers-2-studio-boss-says-it-will-never-add-pvp-and-for-anyone-looking-for-it-i-recommend-tarkov)
+ - [The best Helldivers 2 weapons](https://www.pcgamer.com/helldivers-2-best-weapons)
+ - [X-Men ‘97 finally gets a trailer and a March premiere, bub](https://www.polygon.com/24073776/x-men-97-trailer-premiere)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
