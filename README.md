@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva CFO Damien Singh resigned last week, as the company prepares for a $1.5B share sale; Canva confirms an investigation of Singh for inappropriate behavior &lpar;Australian Financial Review&rpar;](http://www.techmeme.com/240215/p13#a240215p13)
- - [A US judge approves Genesis&#39; plan to sell ~$1.6B in Grayscale crypto trust shares to repay creditors, including 35M GBTC shares, worth ~$1.38B &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240215/p12#a240215p12)
- - [Sources: Italian app developer Bending Spoons raised $155M from Baillie Gifford and more at a $2.6B valuation, after raising $100M in 2023, and seeks M&amp;A deals &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/240215/p11#a240215p11)<!-- TECH:END -->
+ - [Lineage OS custom ROM gets an Android 14 upgrade with the new Lineage OS 21](https://www.androidauthority.com/lineage-os-21-custom-rom-android-14-upgrade-3415053/)
+ - [Crazy rumor suggests Z Fold 6 could get S24 Ultra’s 200MP camera](https://www.androidauthority.com/galaxy-z-fold-6-s24-ultra-200mp-camera-3415029/)
+ - [SpaceX successfully launches Odysseus in bid to return US to the lunar surface](https://www.theverge.com/2024/2/15/24073690/spacex-intuitive-machines-odysseus-novac-lunar-lander-moon-mission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
