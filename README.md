@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Play: Light It Up This Month in Madden NFL 24 – Now on the Play List](https://news.xbox.com/en-us/2024/02/15/ea-play-february-madden-24/)
- - [Embracer reveals it laid off around 1,400 people in 6 months last year, but don&#39;t be a bellyacher: this is all about &#39;maximising shareholder value&#39;](https://www.pcgamer.com/embracer-reveals-it-laid-off-around-1400-people-in-6-months-last-year-but-dont-be-a-bellyacher-this-is-all-about-maximising-shareholder-value)
- - [The 20 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)<!-- GAME:END -->
+ - [GTA Online update for the week of Feb. 15](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
+ - [X-Men ‘97 Trailer Teases Hellfire Gala, Baby Cable, And Headmaster Magneto](https://kotaku.com/x-men-97-animated-series-disney-plus-trailer-breakdown-1851261202)
+ - [The Masters of the Air actors used exactly what you’d think to train for the show](https://www.polygon.com/24073247/masters-air-volume-msfs-flight-sim-rig)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
