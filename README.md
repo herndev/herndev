@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lineage OS custom ROM gets an Android 14 upgrade with the new Lineage OS 21](https://www.androidauthority.com/lineage-os-21-custom-rom-android-14-upgrade-3415053/)
- - [Crazy rumor suggests Z Fold 6 could get S24 Ultra’s 200MP camera](https://www.androidauthority.com/galaxy-z-fold-6-s24-ultra-200mp-camera-3415029/)
- - [SpaceX successfully launches Odysseus in bid to return US to the lunar surface](https://www.theverge.com/2024/2/15/24073690/spacex-intuitive-machines-odysseus-novac-lunar-lander-moon-mission)<!-- TECH:END -->
+ - [Famed investor Warren Buffett again trims stake in Apple](https://appleinsider.com/articles/24/02/15/famed-investor-warren-buffett-again-trims-stake-in-apple?utm_medium=rss)
+ - [11 Best President’s Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
+ - [This is the most underrated movie on Netflix](https://www.androidauthority.com/underrated-movies-netflix-3415030/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
