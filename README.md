@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
- - ⏩ [Palworld](http://9gag.com/gag/aZDApXp)
+ - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - ⏩ [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
  - 👉 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)<!-- MEMES:END -->
 
 ---
