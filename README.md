@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Together AI, which helps developers access Nvidia server chips to train AI models, is raising $100M+ led by Salesforce Ventures at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/240214/p37#a240214p37)
  - [X removes paid checkmarks from some accounts after a watchdog group found 28 verified accounts allegedly tied to Hezbollah and other US-sanctioned entities &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240214/p36#a240214p36)
- - [Spigen Liquid Air review: Protect your Pixel 8 Pro in style](https://www.androidauthority.com/pixel-8-pro-spigen-liquid-air-case-review-3412792/)
- - [Nvidia is now worth more than Amazon and Alphabet](https://www.theverge.com/2024/2/14/24073384/nvidia-market-cap-passes-amazon-alphabet)<!-- TECH:END -->
+ - [Spigen Liquid Air review: Protect your Pixel 8 Pro in style](https://www.androidauthority.com/pixel-8-pro-spigen-liquid-air-case-review-3412792/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
