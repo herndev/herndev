@@ -39,8 +39,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft President Brad Smith says the company plans to invest &amp;euro;3.2B in Germany in the next two years with a focus on AI, its biggest German investment ever &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240215/p16#a240215p16)
  - [Famed investor Warren Buffett again trims stake in Apple](https://appleinsider.com/articles/24/02/15/famed-investor-warren-buffett-again-trims-stake-in-apple?utm_medium=rss)
- - [11 Best President’s Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
  - [This is the most underrated movie on Netflix](https://www.androidauthority.com/underrated-movies-netflix-3415030/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
