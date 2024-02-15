@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How will you afford a house down payment?](http://9gag.com/gag/aBdqQXA)
- - ⏩ [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 👉 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)<!-- MEMES:END -->
+ - 💣 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
+ - ⏩ [Worth it](http://9gag.com/gag/awZRxAD)
+ - 👉 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)<!-- MEMES:END -->
 
 ---
 
