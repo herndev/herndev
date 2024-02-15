@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman told people that the $7T figure represents the total investments needed for his chip project, including real estate, over some years &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240215/p23#a240215p23)
- - [Google launches Gemini 1.5 to developers and enterprise users, offering support for 1M tokens, and says Gemini 1.5 Pro is on par with its Gemini Ultra model &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240215/p21#a240215p21)
- - [Google makes Gemini 1.0 Pro and Gemini 1.0 Ultra generally available, adds support for adapter-based tuning in Vertex, and rolls out new developer tools &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240215/p22#a240215p22)<!-- TECH:END -->
+ - [Some People Actually Kind of Love Deepfakes](https://www.wired.com/story/ai-deepfakes-companies-executives-academics/)
+ - [Scout Motors wants to put the ‘mechanical’ back into electric trucks](https://www.theverge.com/2024/2/15/24073745/scout-motors-ev-truck-factory-groundbreaking-ceo-interview)
+ - [Google is already pushing Gemini 1.5, giving its AI a turbo boost](https://www.androidauthority.com/google-gemini-1-5-update-3415112/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
