@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV is rolling out “Build a Multiview” to more users](https://www.androidauthority.com/youtube-tv-build-a-multiview-rolling-out-3415016/)
- - [Leaked Google documents detail Goose, a Gemini-based LLM designed for internal use to help employees write code faster, as part of an AI-driven efficiency push &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/240215/p10#a240215p10)
- - [A look at robots.txt, a good will-based social contract governing the behavior of web crawlers, as experts call for more rigid tools for managing AI crawlers &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240215/p9#a240215p9)<!-- TECH:END -->
+ - [Canva CFO Damien Singh resigned last week, as the company prepares for a $1.5B share sale; Canva confirms an investigation of Singh for inappropriate behavior &lpar;Australian Financial Review&rpar;](http://www.techmeme.com/240215/p13#a240215p13)
+ - [A US judge approves Genesis&#39; plan to sell ~$1.6B in Grayscale crypto trust shares to repay creditors, including 35M GBTC shares, worth ~$1.38B &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240215/p12#a240215p12)
+ - [Sources: Italian app developer Bending Spoons raised $155M from Baillie Gifford and more at a $2.6B valuation, after raising $100M in 2023, and seeks M&amp;A deals &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/240215/p11#a240215p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
