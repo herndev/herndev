@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft President Brad Smith says the company plans to invest &amp;euro;3.2B in Germany in the next two years with a focus on AI, its biggest German investment ever &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240215/p16#a240215p16)
- - [Famed investor Warren Buffett again trims stake in Apple](https://appleinsider.com/articles/24/02/15/famed-investor-warren-buffett-again-trims-stake-in-apple?utm_medium=rss)
- - [This is the most underrated movie on Netflix](https://www.androidauthority.com/underrated-movies-netflix-3415030/)<!-- TECH:END -->
+ - [How AI copyright lawsuits could make the whole industry go extinct](https://www.theverge.com/24062159/ai-copyright-fair-use-lawsuits-new-york-times-openai-chatgpt-decoder-podcast)
+ - [TikTok launches its native Apple Vision Pro app, offering a similar UI to the mobile apps; an executive said TikTok &quot;redesigned the entire TikTok experience&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240215/p19#a240215p19)
+ - [TikTok dances onto the Apple Vision Pro](https://appleinsider.com/articles/24/02/15/tiktok-dances-onto-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
