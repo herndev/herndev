@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
- - ⏩ [Worth it](http://9gag.com/gag/awZRxAD)
- - 👉 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)<!-- MEMES:END -->
+ - 💣 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
+ - ⏩ [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 👉 [Apparently, this was considered plus size in 2003.](http://9gag.com/gag/a4oeZP1)<!-- MEMES:END -->
 
 ---
 
