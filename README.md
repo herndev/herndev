@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlateUp!, now on Game Pass and consoles, is perfect for virtual double dates](https://www.polygon.com/gaming/24072035/plateup-cooking-roguelike-game-xbox-game-pass-switch-ps5-steam)
- - [Tomb Raider devs offer a peek at their new ‘unified’ Lara Croft](https://www.polygon.com/24073332/tomb-raider-lara-croft-unified-design-artwork)
- - [Gaming&#39;s legendary comeback is now free until Monday: No Man&#39;s Sky&#39;s next big update lets you join its Omega community expedition without spending a cent](https://www.pcgamer.com/gamings-legendary-comeback-is-now-free-until-monday-no-mans-skys-next-big-update-lets-you-join-its-omega-community-expedition-without-spending-a-cent)<!-- GAME:END -->
+ - [EA Play: Light It Up This Month in Madden NFL 24 – Now on the Play List](https://news.xbox.com/en-us/2024/02/15/ea-play-february-madden-24/)
+ - [Embracer reveals it laid off around 1,400 people in 6 months last year, but don&#39;t be a bellyacher: this is all about &#39;maximising shareholder value&#39;](https://www.pcgamer.com/embracer-reveals-it-laid-off-around-1400-people-in-6-months-last-year-but-dont-be-a-bellyacher-this-is-all-about-maximising-shareholder-value)
+ - [The 20 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
