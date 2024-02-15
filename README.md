@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s upcoming Galaxy A35 5G found on the Google Play Console](https://www.androidauthority.com/galaxy-a35-5g-google-play-console-3415207/)
- - [A Big Tech-backed campaign to plant trees might have taken a wrong turn](https://www.theverge.com/24072029/tree-planting-campaign-afr100-forests-science-critique)
- - [OpenAI introduces Sora, its text-to-video AI model](https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai)<!-- TECH:END -->
+ - [Don’t date robots — their privacy policies are terrible](https://www.theverge.com/2024/2/15/24074063/ai-chatbot-virtual-girlfriend-apps-mozilla-privacy-report)
+ - [The future of Xbox: all the news on Microsoft’s strategy shift](https://www.theverge.com/24073286/xbox-console-exclusivity-hardware-update-game-pass)
+ - [Best MacBook Air M2 Deals: Save Up to $300 on Apple&#39;s Laptop Macs     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
