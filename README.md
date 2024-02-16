@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huge $600 savings on the 2023 Samsung 49-inch OLED gaming monitor](https://www.androidauthority.com/samsung-odyssey-g9-monitor-deal-3415708/)
- - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [Best Pillows for Back Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 15’s first developer preview has arrived](https://www.theverge.com/2024/2/16/24074987/android-15-developer-preview-vanilla-ice-cream)
+ - [The Apple Vision Pro Is Heavy. There Are Ways to Fix It](https://www.wired.com/story/apple-vision-pro-is-heavy-heres-how-to-fix-that/)
+ - [A luxury airline says it&#39;ll hand out Apple Vision Pro to select passengers](https://appleinsider.com/articles/24/02/16/a-luxury-airline-says-itll-hand-out-apple-vision-pro-to-select-passengers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
