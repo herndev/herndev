@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Too good to be true: The Galaxy Z Fold 6 might not have a 200MP camera after all](https://www.androidauthority.com/samsung-galaxy-z-fold-6-50mp-camera-3415340/)
- - [Samsung Galaxy Watch 6 vs Fitbit Versa 4: Which watch is right for you?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-fitbit-versa-4-3357801/)
- - [Best Solar Panels for Your Home for 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a letter, 28 civil rights organizations, including noyb, urge the EDPB to reject Meta&#39;s approach of asking EU users to pay or consent to be tracked for ads &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240216/p2#a240216p2)
+ - [Looking forward to more Galaxy Flip-style foldables? There’s some bad news for you](https://www.androidauthority.com/oppo-vivo-no-flip-foldable-2024-3415352/)
+ - [Best Gaming Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
