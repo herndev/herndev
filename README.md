@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - ⏩ [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
+ - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - ⏩ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
 
 ---
 
