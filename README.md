@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the Dazzling Design of 3D Platformer Penny’s Big Breakaway](https://news.xbox.com/en-us/2024/02/16/inside-the-dazzling-design-of-3d-platformer-pennys-big-breakaway/)
- - [New Star Wars Bounty Hunter Game Coming From Respawn, Says Report](https://kotaku.com/star-wars-mandalorian-video-game-respawn-1851265140)
- - [Official PlayStation Podcast Episode 479: Abubakar Salim Talks Tales of Kenzera: Zau](https://blog.playstation.com/2024/02/16/official-playstation-podcast-episode-479-abubakar-salim-talks-tales-of-kenzera-zau/)<!-- GAME:END -->
+ - [The humor and open-ended skill system in this strategy RPG convinced me it isn&#39;t just another Final Fantasy Tactics wannabe](https://www.pcgamer.com/the-humor-and-open-ended-skill-system-in-this-strategy-rpg-convinced-me-it-isnt-just-another-final-fantasy-tactics-wannabe)
+ - [The robots are winning: Helldivers 2 players are convinced those new planet defense missions are so difficult they must be bugged](https://www.pcgamer.com/helldivers-2-how-to-extract-civilians-bots-draupnir-mantes)
+ - [Nintendo Switch Successor Reportedly Pushed To 2025](https://kotaku.com/nintendo-switch-2-pushed-to-2025-1851265297)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
