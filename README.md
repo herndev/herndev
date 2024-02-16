@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - ⏩ [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
- - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
+ - 💣 [Who tf they let in the studio bro](http://9gag.com/gag/aKE0V6b)
+ - ⏩ [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
+ - 👉 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)<!-- MEMES:END -->
 
 ---
 
