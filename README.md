@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We don&#39;t have shareholders, but we also don&#39;t think about them,&#39; Larian Studios uses its stage time at the DICE Awards to speak out against a brutal industry climate](https://www.pcgamer.com/we-dont-have-shareholders-but-we-also-dont-think-about-them-larian-studios-uses-its-stage-time-at-the-dice-awards-to-speak-out-against-a-brutal-industry-climate)
- - [Palworld players have found an ingenious bug that lets them infinitely mount and butcher the same pal for parts](https://www.pcgamer.com/palworld-players-have-found-an-ingenious-bug-that-lets-them-infinitely-mount-and-butcher-the-same-pal-for-parts)
- - [Alan Wake 2 battles through the Dark Place to become Remedy&#39;s fastest-selling game with over 1 million copies sold, although a happy ending remains unwritten as it is yet to turn a profit](https://www.pcgamer.com/alan-wake-2-battles-through-the-dark-place-to-become-remedys-fastest-selling-game-with-over-1-million-copies-sold-although-a-happy-ending-remains-unwritten-as-it-is-yet-to-turn-a-profit)<!-- GAME:END -->
+ - [The story behind Avatar’s bending designs still rules, nearly 20 years later](https://www.polygon.com/24073790/avatar-last-airbender-atla-bending-fight-choreography-reference-photography-martial-artist-sifu-kisu)
+ - [Helldivers 2 roadmap is &#39;very out of date in comparison to what we now want to do&#39; according to Arrowhead&#39;s CEO, as the game&#39;s stratospheric launch brings new ideas and ambition to the studio](https://www.pcgamer.com/helldivers-2-roadmap-is-very-out-of-date-in-comparison-to-what-we-now-want-to-do-according-to-arrowheads-ceo-as-the-games-stratospheric-launch-brings-new-ideas-and-ambition-to-the-studio)
+ - [&#39;We don&#39;t have shareholders, but we also don&#39;t think about them,&#39; Larian Studios uses its stage time at the DICE Awards to speak out against a brutal industry climate](https://www.pcgamer.com/we-dont-have-shareholders-but-we-also-dont-think-about-them-larian-studios-uses-its-stage-time-at-the-dice-awards-to-speak-out-against-a-brutal-industry-climate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
