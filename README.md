@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlateUp! A Delectable Kitchen Roguelite Combining Kitchen Chaos and Management](https://news.xbox.com/en-us/2024/02/16/plateup-combining-kitchen-chaos-and-management/)
- - [The Epic Games Store gave away nearly 586 million games in 2023, as 40 million new PC users joined the platform across the year](https://www.pcgamer.com/the-epic-games-store-gave-away-nearly-586-million-games-in-2023-as-40-million-new-pc-users-joined-the-platform-across-the-year)
- - [If you don&#39;t want to pay $60 for Skull and Bones, you can play it 8 hours for free instead](https://www.pcgamer.com/if-you-dont-want-to-pay-dollar60-for-skull-and-bones-you-can-play-it-8-hours-for-free-instead)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240215-0145&rpar;](https://news.xbox.com/en-us/2024/02/16/xbox-insider-release-notes-alpha-2403-240215-0145/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240214-2200&rpar;](https://news.xbox.com/en-us/2024/02/16/xbox-insider-release-notes-alpha-skip-ahead-2408-240214-2200/)
+ - [How to get sulfur in Palworld](https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
