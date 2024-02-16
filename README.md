@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After a week of teasing, Patch 6 of Baldur&#39;s Gate 3 is now live—adding randomised smooches, camp animations, and scary new Honour Mode legendary actions](https://www.pcgamer.com/after-a-week-of-teasing-patch-6-of-baldurs-gate-3-is-now-liveadding-randomised-smooches-camp-animations-and-scary-new-honour-mode-legendary-actions)
- - [PSA: There&#39;s an incredible XP and Medal farm in Helldivers 2 right now—all you&#39;ve got to do is mortar some robots](https://www.pcgamer.com/helldivers-2-xp-farm)
- - [Today&#39;s Wordle answer for Friday, February 16](https://www.pcgamer.com/wordle-answer-today-february-16-2024)<!-- GAME:END -->
+ - [&#39;We don&#39;t have shareholders, but we also don&#39;t think about them,&#39; Larian Studios uses its stage time at the DICE Awards to speak out against a brutal industry climate](https://www.pcgamer.com/we-dont-have-shareholders-but-we-also-dont-think-about-them-larian-studios-uses-its-stage-time-at-the-dice-awards-to-speak-out-against-a-brutal-industry-climate)
+ - [Palworld players have found an ingenious bug that lets them infinitely mount and butcher the same pal for parts](https://www.pcgamer.com/palworld-players-have-found-an-ingenious-bug-that-lets-them-infinitely-mount-and-butcher-the-same-pal-for-parts)
+ - [Alan Wake 2 battles through the Dark Place to become Remedy&#39;s fastest-selling game with over 1 million copies sold, although a happy ending remains unwritten as it is yet to turn a profit](https://www.pcgamer.com/alan-wake-2-battles-through-the-dark-place-to-become-remedys-fastest-selling-game-with-over-1-million-copies-sold-although-a-happy-ending-remains-unwritten-as-it-is-yet-to-turn-a-profit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
