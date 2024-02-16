@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The humor and open-ended skill system in this strategy RPG convinced me it isn&#39;t just another Final Fantasy Tactics wannabe](https://www.pcgamer.com/the-humor-and-open-ended-skill-system-in-this-strategy-rpg-convinced-me-it-isnt-just-another-final-fantasy-tactics-wannabe)
- - [The robots are winning: Helldivers 2 players are convinced those new planet defense missions are so difficult they must be bugged](https://www.pcgamer.com/helldivers-2-how-to-extract-civilians-bots-draupnir-mantes)
- - [Nintendo Switch Successor Reportedly Pushed To 2025](https://kotaku.com/nintendo-switch-2-pushed-to-2025-1851265297)<!-- GAME:END -->
+ - [Survival games are having another viral moment, making PC players the tastemakers once again](https://www.pcgamer.com/survival-games-are-having-another-viral-moment-and-once-again-pc-players-are-the-tastemakers)
+ - [All Of Our Best Palworld Tips, In One Handy Place](https://kotaku.com/all-of-our-best-palworld-tips-in-one-handy-place-1851261931)
+ - [Helldivers 2 Extra XP Weekend Means It&#39;s Time To Level Up Fast](https://kotaku.com/helldivers-2-server-fix-xp-extra-weekend-1851265438)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
