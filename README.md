@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival games are having another viral moment, making PC players the tastemakers once again](https://www.pcgamer.com/survival-games-are-having-another-viral-moment-and-once-again-pc-players-are-the-tastemakers)
- - [All Of Our Best Palworld Tips, In One Handy Place](https://kotaku.com/all-of-our-best-palworld-tips-in-one-handy-place-1851261931)
- - [Helldivers 2 Extra XP Weekend Means It&#39;s Time To Level Up Fast](https://kotaku.com/helldivers-2-server-fix-xp-extra-weekend-1851265438)<!-- GAME:END -->
+ - [An old BioWare RPG just got a big new community patch](https://www.pcgamer.com/an-old-bioware-rpg-just-got-a-big-new-community-patch)
+ - [Skull and Bones review](https://www.pcgamer.com/skull-and-bones-review)
+ - [Survival games are having another viral moment, making PC players the tastemakers once again](https://www.pcgamer.com/survival-games-are-having-another-viral-moment-and-once-again-pc-players-are-the-tastemakers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
