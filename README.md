@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, February 16](https://www.pcgamer.com/wordle-answer-today-february-16-2024)
- - [How to clean your computer](https://www.pcgamer.com/how-to-clean-your-computer-case)
- - [OpenAI unveils powerful, creepy new text-to-video generator that it calls &#39;a foundation for models that can understand and simulate the real world&#39;](https://www.pcgamer.com/openai-sora-text-to-video-announcement)<!-- GAME:END -->
+ - [After a week of teasing, Patch 6 of Baldur&#39;s Gate 3 is now live—adding randomised smooches, camp animations, and scary new Honour Mode legendary actions](https://www.pcgamer.com/after-a-week-of-teasing-patch-6-of-baldurs-gate-3-is-now-liveadding-randomised-smooches-camp-animations-and-scary-new-honour-mode-legendary-actions)
+ - [PSA: There&#39;s an incredible XP and Medal farm in Helldivers 2 right now—all you&#39;ve got to do is mortar some robots](https://www.pcgamer.com/helldivers-2-xp-farm)
+ - [Today&#39;s Wordle answer for Friday, February 16](https://www.pcgamer.com/wordle-answer-today-february-16-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
