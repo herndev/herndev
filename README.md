@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Persona 3 Reload classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)
- - [Metro Exodus has now sold more than 10 million copies, 4A Games teases the next game in the series &#39;when it&#39;s ready&#39;](https://www.pcgamer.com/metro-exodus-has-now-sold-more-than-10-million-copies-4a-games-teases-the-next-game-in-the-series-when-its-ready)
- - [7 tips and tricks before starting Deep Rock Galactic: Survivor](https://www.polygon.com/guides/24073651/deep-rock-galactic-survivor-beginner-tips-tricks)<!-- GAME:END -->
+ - [For the five people in the world who thought Malenia was too easy, a new mod turns Elden Ring&#39;s toughest boss into a 4-phase marathon ordeal including cut attacks and dialogue](https://www.pcgamer.com/for-the-five-people-in-the-world-who-thought-malenia-was-too-easy-a-new-mod-turns-elden-rings-toughest-boss-into-a-4-phase-marathon-ordeal-including-cut-attacks-and-dialogue)
+ - [Diablo 4 dataminer finds out why its most powerful items are impossibly rare and how little Blizzard&#39;s recent fix did to change that](https://www.pcgamer.com/diablo-4-uber-unique-datamined-drop-rate)
+ - [All Persona 3 Reload classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
