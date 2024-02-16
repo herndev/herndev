@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to clean your computer](https://www.pcgamer.com/how-to-clean-your-computer-case)
  - [OpenAI unveils powerful, creepy new text-to-video generator that it calls &#39;a foundation for models that can understand and simulate the real world&#39;](https://www.pcgamer.com/openai-sora-text-to-video-announcement)
- - [For the five people in the world who thought Malenia was too easy, a new mod turns Elden Ring&#39;s toughest boss into a 4-phase marathon ordeal including cut attacks and dialogue](https://www.pcgamer.com/for-the-five-people-in-the-world-who-thought-malenia-was-too-easy-a-new-mod-turns-elden-rings-toughest-boss-into-a-4-phase-marathon-ordeal-including-cut-attacks-and-dialogue)
- - [Diablo 4 dataminer finds out why its most powerful items are impossibly rare and how little Blizzard&#39;s recent fix did to change that](https://www.pcgamer.com/diablo-4-uber-unique-datamined-drop-rate)<!-- GAME:END -->
+ - [For the five people in the world who thought Malenia was too easy, a new mod turns Elden Ring&#39;s toughest boss into a 4-phase marathon ordeal including cut attacks and dialogue](https://www.pcgamer.com/for-the-five-people-in-the-world-who-thought-malenia-was-too-easy-a-new-mod-turns-elden-rings-toughest-boss-into-a-4-phase-marathon-ordeal-including-cut-attacks-and-dialogue)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
