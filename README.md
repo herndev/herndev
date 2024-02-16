@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft fixes Edge browser bug that was stealing Chrome tabs and data](https://www.theverge.com/2024/2/16/24074712/microsoft-edge-automatic-chrome-import-data-bug-fix)
- - [PitchBook: Q4 2023 saw only 12 crypto exits, the lowest number since Q4 2020 and consistent with the &quot;low-level activity seen throughout 2023&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240216/p3#a240216p3)
- - [More evidence suggests Nest Aware is coming to Google One](https://www.androidauthority.com/google-one-nest-aware-3415396/)<!-- TECH:END -->
+ - [Google Maps could soon show Plug and Charge locations for seamless charging &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-plug-and-charge-apk-teardown-3415421/)
+ - [An interview with Kurt Wagner on his new book Battle for the Bird, a Jack Dorsey biography morphed into a deep dive on Twitter&#39;s tumultuous transition to X &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240216/p4#a240216p4)
+ - [Google offers non-Pixel owners a way to avoid waiting on hold with latest test](https://www.theverge.com/2024/2/16/24074715/google-talk-to-a-live-representative-assistant-hold-phone-call)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
