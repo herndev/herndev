@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240215-0145&rpar;](https://news.xbox.com/en-us/2024/02/16/xbox-insider-release-notes-alpha-2403-240215-0145/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240214-2200&rpar;](https://news.xbox.com/en-us/2024/02/16/xbox-insider-release-notes-alpha-skip-ahead-2408-240214-2200/)
- - [How to get sulfur in Palworld](https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location)<!-- GAME:END -->
+ - [Inside the Dazzling Design of 3D Platformer Penny’s Big Breakaway](https://news.xbox.com/en-us/2024/02/16/inside-the-dazzling-design-of-3d-platformer-pennys-big-breakaway/)
+ - [New Star Wars Bounty Hunter Game Coming From Respawn, Says Report](https://kotaku.com/star-wars-mandalorian-video-game-respawn-1851265140)
+ - [Official PlayStation Podcast Episode 479: Abubakar Salim Talks Tales of Kenzera: Zau](https://blog.playstation.com/2024/02/16/official-playstation-podcast-episode-479-abubakar-salim-talks-tales-of-kenzera-zau/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
