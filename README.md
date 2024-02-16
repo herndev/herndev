@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Palworld](http://9gag.com/gag/aZDApXp)
- - ⏩ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 👉 [Omg, the pegi guy is real](http://9gag.com/gag/agoMX4x)<!-- MEMES:END -->
+ - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - ⏩ [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 👉 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)<!-- MEMES:END -->
 
 ---
 
