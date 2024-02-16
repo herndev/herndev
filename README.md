@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CMON leaves Kickstarter, will bring its board games exclusively to Gamefound](https://www.polygon.com/24074262/cmon-gamefound-exclusivity-agreement)
- - [EA Sports College Football 25 is back after 10 years with no NCAA games](https://www.polygon.com/24074774/ea-sports-college-football-25-teaser-trailer)
- - [Top Call of Duty esports players sue Activision for $680M in damages, alleging the publisher has an unlawful monopoly on the game&#39;s esports scene](https://www.pcgamer.com/top-call-of-duty-esports-players-sue-activision-for-dollar680m-in-damages-alleging-the-publisher-has-an-unlawful-monopoly-on-the-games-esports-scene)<!-- GAME:END -->
+ - [PS VR2 FPS Hubris introduces Arena game mode in today’s free update](https://blog.playstation.com/2024/02/16/ps-vr2-fps-hubris-introduces-arena-game-mode-in-todays-free-update/)
+ - [If you&#39;re wondering why Diablo 4 has a horse for sale with $65 of premium currency stuck to it, let me introduce you to &#39;price anchoring&#39;](https://www.pcgamer.com/if-youre-wondering-why-diablo-4-has-a-horse-for-sale-with-dollar65-of-premium-currency-stuck-to-it-let-me-introduce-you-to-price-anchoring)
+ - [Madame Web Is Getting Absolutely Cooked On Social Media](https://kotaku.com/madame-web-movie-reviews-rotten-tomatoes-reaction-1851264337)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
