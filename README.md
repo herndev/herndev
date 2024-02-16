@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - ⏩ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
+ - 💣 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
+ - ⏩ [Palworld](http://9gag.com/gag/aZDApXp)
+ - 👉 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)<!-- MEMES:END -->
 
 ---
 
