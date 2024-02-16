@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - ⏩ [Palworld](http://9gag.com/gag/aZDApXp)
- - 👉 [SheiiiT!](http://9gag.com/gag/agoMq1q)<!-- MEMES:END -->
+ - ⏩ [Who tf they let in the studio bro](http://9gag.com/gag/aKE0V6b)
+ - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
 
 ---
 
