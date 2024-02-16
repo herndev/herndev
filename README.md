@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15’s first developer preview has arrived](https://www.theverge.com/2024/2/16/24074987/android-15-developer-preview-vanilla-ice-cream)
- - [The Apple Vision Pro Is Heavy. There Are Ways to Fix It](https://www.wired.com/story/apple-vision-pro-is-heavy-heres-how-to-fix-that/)
- - [A luxury airline says it&#39;ll hand out Apple Vision Pro to select passengers](https://appleinsider.com/articles/24/02/16/a-luxury-airline-says-itll-hand-out-apple-vision-pro-to-select-passengers?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Masayoshi Son seeks up to $100B for an AI chip venture to rival Nvidia; one scenario involves $30B from SoftBank and $70B from Middle Eastern investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p19#a240216p19)
+ - [Vudu’s name is changing to ‘Fandango at Home’](https://www.theverge.com/2024/2/16/24075041/vudu-fandango-at-home-rebranding-new-name)
+ - [Google releases the first developer preview of Android 15, with updates related to Android&#39;s Dynamic Performance Framework, privacy, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240216/p18#a240216p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
