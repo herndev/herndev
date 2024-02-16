@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft wants its next Xbox to have the ‘largest technical leap’ ever](https://www.androidauthority.com/next-xbox-largest-generational-leap-3415297/)
- - [Coinbase reports Q4 revenue up 51% YoY to $953.8M, vs. $826M est., net income of $273M, its first profit in two years, vs. a loss of $557M YoY; COIN jumps 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240215/p36#a240215p36)
- - [ChatGPT vs. Gemini: Which AI Chatbot Subscription Is Right for You?](https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Toast plans to lay off ~550 employees, or ~10% of its workforce, to promote &quot;operating expense efficiency&quot; and will incur about $50M in costs such as severance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240215/p38#a240215p38)
+ - [Elon Musk’s X Gave Check Marks to Terrorist Group Leaders, Report Says](https://www.wired.com/story/elon-musk-x-checkmarks-terrorist-groups/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
