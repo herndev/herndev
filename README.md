@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kanye West&#39;s &#39;Vultures 1&#39; briefly pulled from Apple Music after distributor drama](https://appleinsider.com/articles/24/02/15/kanye-wests-vultures-1-pulled-from-apple-music-after-distributor-drama?utm_medium=rss)
- - [Ahead of the 2024 US election, Anthropic is testing Prompt Shield, which will redirect users asking political topics to &quot;authoritative&quot; sources of voting info &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240216/p5#a240216p5)
- - [Hundreds strike at Apple supplier Flex&#39;s plant in India](https://appleinsider.com/articles/24/02/16/hundreds-strike-at-apple-supplier-flexs-plant-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [Why does Apple make it so hard to share the Vision Pro?](https://www.theverge.com/2024/2/16/24058318/apple-vision-pro-sharing-difficulties)
+ - [Google Search Labs is testing a &quot;Talk to a Live Representative&quot; feature, which will call businesses on users&#39; behalf and hold until a human becomes available &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240216/p8#a240216p8)
+ - [Apple Vision Pro Travel Case review: too-expensive precision cushioning](https://appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
