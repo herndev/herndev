@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro Travel Case review: too-expensive precision cushioning](https://appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning?utm_medium=rss)
- - [The future of Xbox: all the news on Microsoft’s strategy shift](https://www.theverge.com/24073286/xbox-console-exclusivity-hardware-update-game-pass)
- - [You sound like a bot](https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon)<!-- TECH:END -->
+ - [Microsoft&#39;s gaming CEO doesn&#39;t think iOS is open enough for Xbox gaming](https://appleinsider.com/articles/24/02/16/microsofts-ceo-doesnt-think-ios-is-open-enough-for-xbox-gaming?utm_medium=rss)
+ - [Foreign propaganda accounts aiming to affect US elections are flourishing on X, which isn&#39;t participating in info-sharing meetings with other social platforms &lpar;Washington Post&rpar;](http://www.techmeme.com/240216/p13#a240216p13)
+ - [Nectar&#39;s Presidents Day Sale Will Save You up to 40% on Your Next Mattress     - CNET](https://www.cnet.com/deals/nectars-presidents-day-sale-will-save-you-up-to-40-on-your-next-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
