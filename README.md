@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC proposes new rules that would make companies liable if they &quot;know or have reason to know&quot; their AI tech is being used to harmfully impersonate consumers &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240215/p44#a240215p44)
- - [Source: Sequoia partner Matthew Miller asked Klarna shareholders to remove Michael Moritz from the board of directors, with full support from Roelof Botha &lpar;The Information&rpar;](http://www.techmeme.com/240215/p43#a240215p43)
- - [Orico ClearLink M.2 DIY 2TB Portable SSD review: a competent DIY SSD solution for home or office](https://appleinsider.com/articles/24/02/16/orico-clearlink-m2-diy-2tb-portable-ssd-review-a-competent-diy-ssd-solution-for-home-or-office?utm_medium=rss)<!-- TECH:END -->
+ - [Carl Jenkins, head of hardware at Cruise, says he has resigned after six years with the company, the latest in a series of executive departures &lpar;Reuters&rpar;](http://www.techmeme.com/240216/p1#a240216p1)
+ - [Breaking: Samsung Galaxy S24 series is now getting its first update](https://www.androidauthority.com/samsung-galaxy-s24-series-first-update-3415332/)
+ - [Best Duvet Covers for 2024     - CNET](https://www.cnet.com/health/sleep/best-duvet-covers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
