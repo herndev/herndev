@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - ⏩ [Who tf they let in the studio bro](http://9gag.com/gag/aKE0V6b)
- - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
+ - 💣 [Palworld](http://9gag.com/gag/aZDApXp)
+ - ⏩ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
 
 ---
 
