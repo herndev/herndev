@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Fortnite&#39; will return to the iPhone -- but only in the EU](https://appleinsider.com/articles/24/02/16/fortnite-will-return-to-the-app-store----but-only-in-the-eu?utm_medium=rss)
- - [The shine comes off the Vision Pro](https://www.theverge.com/24074795/vision-pro-returns-xbox-future-gemini-open-ai-vergecast)
- - [PitchBook: VC investment in crypto rose 2.5% QoQ in Q4 2023 to $1.9B, the first rise since Q1 2022; Q4 2023 saw 12 crypto exits, the lowest number since Q4 2020 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240216/p14#a240216p14)<!-- TECH:END -->
+ - [Huge $600 savings on the 2023 Samsung 49-inch OLED gaming monitor](https://www.androidauthority.com/samsung-odyssey-g9-monitor-deal-3415708/)
+ - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
+ - [Best Pillows for Back Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
