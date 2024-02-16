@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - ⏩ [Little man](http://9gag.com/gag/awZRVbW)
- - 👉 [I Disagree, you?](http://9gag.com/gag/a04AdVL)<!-- MEMES:END -->
+ - 💣 [So, there is a way](http://9gag.com/gag/aeQoYpW)
+ - ⏩ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
 
 ---
 
