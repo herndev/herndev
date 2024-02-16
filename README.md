@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS VR2 FPS Hubris introduces Arena game mode in today’s free update](https://blog.playstation.com/2024/02/16/ps-vr2-fps-hubris-introduces-arena-game-mode-in-todays-free-update/)
- - [If you&#39;re wondering why Diablo 4 has a horse for sale with $65 of premium currency stuck to it, let me introduce you to &#39;price anchoring&#39;](https://www.pcgamer.com/if-youre-wondering-why-diablo-4-has-a-horse-for-sale-with-dollar65-of-premium-currency-stuck-to-it-let-me-introduce-you-to-price-anchoring)
- - [Madame Web Is Getting Absolutely Cooked On Social Media](https://kotaku.com/madame-web-movie-reviews-rotten-tomatoes-reaction-1851264337)<!-- GAME:END -->
+ - [PlateUp! A Delectable Kitchen Roguelite Combining Kitchen Chaos and Management](https://news.xbox.com/en-us/2024/02/16/plateup-combining-kitchen-chaos-and-management/)
+ - [The Epic Games Store gave away nearly 586 million games in 2023, as 40 million new PC users joined the platform across the year](https://www.pcgamer.com/the-epic-games-store-gave-away-nearly-586-million-games-in-2023-as-40-million-new-pc-users-joined-the-platform-across-the-year)
+ - [If you don&#39;t want to pay $60 for Skull and Bones, you can play it 8 hours for free instead](https://www.pcgamer.com/if-you-dont-want-to-pay-dollar60-for-skull-and-bones-you-can-play-it-8-hours-for-free-instead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
