@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SheiiiT!](http://9gag.com/gag/agoMq1q)
- - ⏩ [Little man](http://9gag.com/gag/awZRVbW)
- - 👉 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)<!-- MEMES:END -->
+ - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - ⏩ [Palworld](http://9gag.com/gag/aZDApXp)
+ - 👉 [SheiiiT!](http://9gag.com/gag/agoMq1q)<!-- MEMES:END -->
 
 ---
 
