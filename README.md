@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Masayoshi Son seeks up to $100B for an AI chip venture to rival Nvidia; one scenario involves $30B from SoftBank and $70B from Middle Eastern investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p19#a240216p19)
- - [Vudu’s name is changing to ‘Fandango at Home’](https://www.theverge.com/2024/2/16/24075041/vudu-fandango-at-home-rebranding-new-name)
- - [Google releases the first developer preview of Android 15, with updates related to Android&#39;s Dynamic Performance Framework, privacy, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240216/p18#a240216p18)<!-- TECH:END -->
+ - [Meta is matching existing fact-checks to &quot;near-identical content on Threads&quot;, but says it will soon let fact-checkers rate content directly on Threads &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240216/p22#a240216p22)
+ - [This Acer gaming Chromebook is under $500 for first time in holiday sale](https://www.androidauthority.com/acer-chromebook-516-ge-deal-3415772/)
+ - [The Nintendo Switch 2 will now reportedly arrive in 2025 instead of 2024](https://www.theverge.com/2024/2/16/24075174/switch-2-launch-date-rumor-q1-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
