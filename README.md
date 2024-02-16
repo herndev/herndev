@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - ⏩ [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
- - 👉 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)<!-- MEMES:END -->
+ - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
+ - ⏩ [Little man](http://9gag.com/gag/awZRVbW)
+ - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
 
 ---
 
