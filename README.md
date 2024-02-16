@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the Money You&#39;ll Delay if You File a Tax Extension in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/all-the-money-youll-delay-if-you-file-a-tax-extension-in-2024/#ftag=CAD590a51e)
  - [In a letter, 28 civil rights organizations, including noyb, urge the EDPB to reject Meta&#39;s approach of asking EU users to pay or consent to be tracked for ads &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240216/p2#a240216p2)
- - [Looking forward to more Galaxy Flip-style foldables? There’s some bad news for you](https://www.androidauthority.com/oppo-vivo-no-flip-foldable-2024-3415352/)
- - [Best Gaming Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Looking forward to more Galaxy Flip-style foldables? There’s some bad news for you](https://www.androidauthority.com/oppo-vivo-no-flip-foldable-2024-3415352/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
