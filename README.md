@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Palworld](http://9gag.com/gag/aZDApXp)
- - ⏩ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
+ - 💣 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - ⏩ [SheiiiT!](http://9gag.com/gag/agoMq1q)
+ - 👉 [I Disagree, you?](http://9gag.com/gag/a04AdVL)<!-- MEMES:END -->
 
 ---
 
