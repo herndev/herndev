@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
- - ⏩ [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 👉 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)<!-- MEMES:END -->
+ - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - ⏩ [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)
+ - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
 
 ---
 
