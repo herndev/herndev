@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carl Jenkins, head of hardware at Cruise, says he has resigned after six years with the company, the latest in a series of executive departures &lpar;Reuters&rpar;](http://www.techmeme.com/240216/p1#a240216p1)
- - [Breaking: Samsung Galaxy S24 series is now getting its first update](https://www.androidauthority.com/samsung-galaxy-s24-series-first-update-3415332/)
- - [Best Duvet Covers for 2024     - CNET](https://www.cnet.com/health/sleep/best-duvet-covers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Too good to be true: The Galaxy Z Fold 6 might not have a 200MP camera after all](https://www.androidauthority.com/samsung-galaxy-z-fold-6-50mp-camera-3415340/)
+ - [Samsung Galaxy Watch 6 vs Fitbit Versa 4: Which watch is right for you?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-fitbit-versa-4-3357801/)
+ - [Best Solar Panels for Your Home for 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
