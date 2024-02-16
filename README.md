@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is matching existing fact-checks to &quot;near-identical content on Threads&quot;, but says it will soon let fact-checkers rate content directly on Threads &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240216/p22#a240216p22)
- - [This Acer gaming Chromebook is under $500 for first time in holiday sale](https://www.androidauthority.com/acer-chromebook-516-ge-deal-3415772/)
- - [The Nintendo Switch 2 will now reportedly arrive in 2025 instead of 2024](https://www.theverge.com/2024/2/16/24075174/switch-2-launch-date-rumor-q1-2025)<!-- TECH:END -->
+ - [Android 15 saves you from friends blowing up your notifications](https://www.androidauthority.com/android-15-notification-cooldown-3415784/)
+ - [Sony’s portable PlayStation Portal is back in stock](https://www.theverge.com/2024/2/16/23973797/playstation-portal-remote-player-ps5-handheld-sony-restock-availability)
+ - [Court filing: Amazon claims the NLRB is unconstitutional, after the agency said Amazon illegally retaliated against workers; SpaceX has made a similar claim &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240216/p23#a240216p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
