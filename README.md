@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, there is a way](http://9gag.com/gag/aeQoYpW)
+ - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
  - ⏩ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
+ - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
 
 ---
 
