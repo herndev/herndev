@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for February 19 to 23](https://news.xbox.com/en-us/2024/02/16/next-week-on-xbox-new-games-for-february-19-to-23/)
- - [How to get coal in Palworld](https://www.polygon.com/palworld-guides/24049316/coal-location-how-to-get-where-find)
- - [Every Change In Baldur&#39;s Gate 3&#39;s Sixth Big Patch [Updated]](https://kotaku.com/baldurs-gate-3-bg3-patch-6-notes-update-kisses-romance-1851257559)<!-- GAME:END -->
+ - [CMON leaves Kickstarter, will bring its board games exclusively to Gamefound](https://www.polygon.com/24074262/cmon-gamefound-exclusivity-agreement)
+ - [EA Sports College Football 25 is back after 10 years with no NCAA games](https://www.polygon.com/24074774/ea-sports-college-football-25-teaser-trailer)
+ - [Top Call of Duty esports players sue Activision for $680M in damages, alleging the publisher has an unlawful monopoly on the game&#39;s esports scene](https://www.pcgamer.com/top-call-of-duty-esports-players-sue-activision-for-dollar680m-in-damages-alleging-the-publisher-has-an-unlawful-monopoly-on-the-games-esports-scene)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
