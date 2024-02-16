@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Donkey laughs when dog gets electric shock](http://9gag.com/gag/ajVbNoQ)
- - ⏩ [Take fifty with me](http://9gag.com/gag/aoKrOqA)
- - 👉 [The next game: guess the colour](http://9gag.com/gag/aDYpx4N)<!-- MEMES:END -->
+ - 💣 [Palworld](http://9gag.com/gag/aZDApXp)
+ - ⏩ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 👉 [Omg, the pegi guy is real](http://9gag.com/gag/agoMX4x)<!-- MEMES:END -->
 
 ---
 
