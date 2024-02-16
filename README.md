@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - ⏩ [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
- - 👉 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)<!-- MEMES:END -->
+ - ⏩ [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
 
 ---
 
