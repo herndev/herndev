@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s gaming CEO doesn&#39;t think iOS is open enough for Xbox gaming](https://appleinsider.com/articles/24/02/16/microsofts-ceo-doesnt-think-ios-is-open-enough-for-xbox-gaming?utm_medium=rss)
- - [Foreign propaganda accounts aiming to affect US elections are flourishing on X, which isn&#39;t participating in info-sharing meetings with other social platforms &lpar;Washington Post&rpar;](http://www.techmeme.com/240216/p13#a240216p13)
- - [Nectar&#39;s Presidents Day Sale Will Save You up to 40% on Your Next Mattress     - CNET](https://www.cnet.com/deals/nectars-presidents-day-sale-will-save-you-up-to-40-on-your-next-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Fortnite&#39; will return to the iPhone -- but only in the EU](https://appleinsider.com/articles/24/02/16/fortnite-will-return-to-the-app-store----but-only-in-the-eu?utm_medium=rss)
+ - [The shine comes off the Vision Pro](https://www.theverge.com/24074795/vision-pro-returns-xbox-future-gemini-open-ai-vergecast)
+ - [PitchBook: VC investment in crypto rose 2.5% QoQ in Q4 2023 to $1.9B, the first rise since Q1 2022; Q4 2023 saw 12 crypto exits, the lowest number since Q4 2020 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240216/p14#a240216p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
