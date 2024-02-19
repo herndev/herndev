@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Times &amp; Galaxy Turns Journalism into a Game Mechanic](https://news.xbox.com/en-us/2024/02/19/times-and-galaxy-journalism-game-mechanic/)
- - [The best Helldivers 2 armour](https://www.pcgamer.com/helldivers-2-best-armour-passives)
- - [Stormgate&#39;s Ex-Blizzard Devs Want Players To Invest In The Company](https://kotaku.com/stormgate-rts-frost-giant-blizzard-starcraft-1851268528)<!-- GAME:END -->
+ - [Fool Them Twice in My Hero Ultra Rumble: Villain Twice Joins The Roster](https://news.xbox.com/en-us/2024/02/19/my-hero-ultra-rumble-villain-twice/)
+ - [Baldur&#39;s Gate 3 player beats the game in Honour Mode by exclusively casting one of the worst spells in D&amp;D 2,469 times](https://www.pcgamer.com/baldurs-gate-3-player-beats-the-game-in-honour-mode-by-exclusively-casting-one-of-the-worst-spells-in-dandd-2469-times)
+ - [Helldivers 2 players are staying logged in overnight to dodge queue times and clog servers, Arrowhead&#39;s CEO agrees that an AFK time-out is due](https://www.pcgamer.com/helldivers-2-players-are-staying-logged-in-overnight-to-dodge-queue-times-and-clog-servers-arrowheads-ceo-agrees-that-an-afk-time-out-is-due)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
