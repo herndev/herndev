@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chill](http://9gag.com/gag/aA0WgQo)
- - ⏩ [Woops.](http://9gag.com/gag/aBdqm1z)
- - 👉 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)<!-- MEMES:END -->
+ - 💣 [It is a feature. The car changes colour over time](http://9gag.com/gag/axoxB21)
+ - ⏩ [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 👉 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)<!-- MEMES:END -->
 
 ---
 
