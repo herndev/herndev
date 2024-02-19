@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2&#39;s Success Is Making Everyone Watch This Misunderstood Movie](https://kotaku.com/helldivers-2-starship-troopers-movie-disney-1851269272)
  - [Sega&#39;s upcoming Crazy Taxi reboot will be a &#39;triple-A&#39; game](https://www.pcgamer.com/segas-upcoming-crazy-taxi-reboot-will-be-a-triple-a-game)
- - [Please behold the glory of the PowerWash Simulator x Warhammer 40K DLC trailer, with release to follow this month](https://www.pcgamer.com/please-behold-the-glory-of-the-powerwash-simulator-x-warhammer-40k-dlc-trailer-with-release-to-follow-this-month)
- - [PowerWash Simulator Is Getting Space Marines Because Sometimes The Universe Is Good](https://kotaku.com/powerwash-simulator-warhammer-40k-dlc-square-enix-1851268965)<!-- GAME:END -->
+ - [Please behold the glory of the PowerWash Simulator x Warhammer 40K DLC trailer, with release to follow this month](https://www.pcgamer.com/please-behold-the-glory-of-the-powerwash-simulator-x-warhammer-40k-dlc-trailer-with-release-to-follow-this-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
