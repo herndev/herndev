@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What is Jasper AI? Features, plans, pricing and more](https://www.androidauthority.com/what-is-jasper-ai-3416030/)
  - [How the expansion of facial recognition tech at US airports is transforming the way travelers move through them, from checking a bag to boarding the plane &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/240218/p9#a240218p9)
- - [4 Ways Your Body Is Telling You to Prioritize Quality Sleep     - CNET](https://www.cnet.com/health/sleep/4-ways-your-body-is-telling-you-to-prioritize-quality-sleep/#ftag=CAD590a51e)
- - [How to create a PDF from images &amp; web pages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-create-a-pdf-from-images-web-pages-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [4 Ways Your Body Is Telling You to Prioritize Quality Sleep     - CNET](https://www.cnet.com/health/sleep/4-ways-your-body-is-telling-you-to-prioritize-quality-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
