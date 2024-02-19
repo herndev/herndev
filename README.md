@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never Japan a nuke twice](http://9gag.com/gag/ajVbVXQ)
- - ⏩ [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
+ - 💣 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - ⏩ [What level of karen is this](http://9gag.com/gag/a04AR2v)
+ - 👉 [Woops.](http://9gag.com/gag/aBdqm1z)<!-- MEMES:END -->
 
 ---
 
