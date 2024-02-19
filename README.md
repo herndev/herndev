@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bandle Tale is the lower-stakes League of Legends story we all deserve](https://www.polygon.com/reviews/24074997/bandle-tale-league-of-legends-review)
- - [Intel Lunar Lake CPU with a curious configuration spotted running Windows](https://www.pcgamer.com/intel-lunar-lake-cpu-with-a-curious-configuration-spotted-running-windows)
- - [A New Vegas mod that added Fred Durst from Limp Bizkit was thought lost for 7 years⁠—until someone finally found it on their hard drive](https://www.pcgamer.com/a-new-vegas-mod-that-added-fred-durst-from-limp-bizkit-was-thought-lost-for-7-yearsuntil-someone-finally-found-it-on-their-hard-drive)<!-- GAME:END -->
+ - [How to find and kill Devastators in Helldivers 2](https://www.pcgamer.com/helldivers-2-devastators)
+ - [FSR 3 removed from Nightingale&#39;s launch plan with &#39;a significant number&#39; of game crashes blamed on the AMD tech &#39;whether or not users had the setting turned on&#39;](https://www.pcgamer.com/fsr-3-removed-from-nightingales-launch-plan-with-a-significant-number-of-game-crashes-blamed-on-the-amd-tech-whether-or-not-users-had-the-setting-turned-on)
+ - [Bandle Tale is the lower-stakes League of Legends story we all deserve](https://www.polygon.com/reviews/24074997/bandle-tale-league-of-legends-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
