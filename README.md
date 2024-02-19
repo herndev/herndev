@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel is asking for an additional $10 billion from CHIPS act subsidies because the chip giant feels it deserves more cash for investing in US developments](https://www.pcgamer.com/intel-is-asking-for-an-additional-dollar10-billion-from-chips-act-subsidies-because-the-chip-giant-feels-it-deserves-more-cash-for-investing-in-us-developments)
- - [A Dragon&#39;s Dogma 2 demo may be on the way, if the prophecy foretold by SteamDB proves true](https://www.pcgamer.com/a-dragons-dogma-2-demo-may-be-on-the-way-if-the-prophecy-foretold-by-steamdb-proves-true)
- - [Helldivers 2 had a disastrous weekend, but it didn&#39;t stop hordes of players from diving in, with countless more stuck in queues](https://www.pcgamer.com/helldivers-2-had-a-disastrous-weekend-but-it-didnt-stop-hordes-of-players-from-diving-in-with-countless-more-stuck-in-queues)<!-- GAME:END -->
+ - [10 Things to Get You Started in Warhammer 40,000: Chaos Gate – Daemonhunters](https://news.xbox.com/en-us/2024/02/19/warhammer-40000-chaos-gate-daemonhunters-10-things/)
+ - [From Assassin&#39;s Creed 4: Black Flag to Sea of Thieves, there a plenty of pirate games better than Skull and Bones](https://www.pcgamer.com/best-pirate-games-on-pc)
+ - [True Detective always secretly wished for a happy ending](https://www.polygon.com/24072995/true-detective-night-country-finale-review-final-episode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
