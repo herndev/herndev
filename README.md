@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An old BioWare RPG just got a big new community patch](https://www.pcgamer.com/an-old-bioware-rpg-just-got-a-big-new-community-patch)
- - [Skull and Bones review](https://www.pcgamer.com/skull-and-bones-review)
- - [Survival games are having another viral moment, making PC players the tastemakers once again](https://www.pcgamer.com/survival-games-are-having-another-viral-moment-and-once-again-pc-players-are-the-tastemakers)<!-- GAME:END -->
+ - [Be a fantasy god smashing an army of terraforming robots in Gods Against Machines](https://www.pcgamer.com/be-a-fantasy-god-smashing-an-army-of-terraforming-robots-in-gods-against-machines)
+ - [Acid Planet looks like a cross of Vampire Survivors and They Are Billions](https://www.pcgamer.com/acid-planet-looks-like-a-cross-of-vampire-survivors-and-they-are-billions)
+ - [The best way to rewatch Avatar: The Last Airbender is jumping right to season 2](https://www.polygon.com/24073965/avatar-last-airbender-best-season-2-atla-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
