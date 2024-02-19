@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome’s ‘Tab Groups’ feature could be coming to Android](https://www.androidauthority.com/chrome-for-android-tab-groups-3416500/)
- - [Keurig K-Mini Plus     - CNET](https://www.cnet.com/home/kitchen-and-household/keurig-k-mini-plus-dpnl/#ftag=CAD590a51e)
- - [This Is the Best Way to Reheat Steak, According to My Tests     - CNET](https://www.cnet.com/how-to/how-to-reheat-steak-perfectly-every-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google doubles the cost of some legacy Nest Aware subscriptions internationally, including in Canada, while some modern plans are getting prices hiked by 25% &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/240219/p14#a240219p14)
+ - [Q&amp;A with Google DeepMind CEO Demis Hassabis on needing more than scale to get to AGI, developing AI agents, Gemini Pro 1.5, the UK AI Safety Institute, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240219/p13#a240219p13)
+ - [Best Laptop Deals: Save Up to $550 on Microsoft Surface, MacBooks, Asus, Lenovo and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
