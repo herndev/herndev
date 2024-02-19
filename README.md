@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BruteForceAttackProtection](http://9gag.com/gag/avQYAbd)
- - ⏩ [Nice](http://9gag.com/gag/arm6oq6)
- - 👉 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)<!-- MEMES:END -->
+ - 💣 [Malaka](http://9gag.com/gag/a9qQ10Z)
+ - ⏩ [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
+ - 👉 [This is Golden ass of luck, do not ignore it](http://9gag.com/gag/a7q4E1w)<!-- MEMES:END -->
 
 ---
 
