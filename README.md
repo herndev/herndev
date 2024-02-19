@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Things to Get You Started in Warhammer 40,000: Chaos Gate – Daemonhunters](https://news.xbox.com/en-us/2024/02/19/warhammer-40000-chaos-gate-daemonhunters-10-things/)
- - [From Assassin&#39;s Creed 4: Black Flag to Sea of Thieves, there a plenty of pirate games better than Skull and Bones](https://www.pcgamer.com/best-pirate-games-on-pc)
- - [True Detective always secretly wished for a happy ending](https://www.polygon.com/24072995/true-detective-night-country-finale-review-final-episode)<!-- GAME:END -->
+ - [How Times &amp; Galaxy Turns Journalism into a Game Mechanic](https://news.xbox.com/en-us/2024/02/19/times-and-galaxy-journalism-game-mechanic/)
+ - [The best Helldivers 2 armour](https://www.pcgamer.com/helldivers-2-best-armour-passives)
+ - [Stormgate&#39;s Ex-Blizzard Devs Want Players To Invest In The Company](https://kotaku.com/stormgate-rts-frost-giant-blizzard-starcraft-1851268528)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
