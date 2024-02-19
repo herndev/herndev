@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new RCS stance may have been forced by China](https://appleinsider.com/articles/24/02/19/apples-new-rcs-stance-may-have-been-forced-by-china?utm_medium=rss)
- - [FBI Director Christopher Wray says China is inserting &quot;offensive weapons&quot; into critical US infrastructure, with malware pre-positioning reaching a &quot;fever pitch&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/240219/p5#a240219p5)
- - [Bluesky’s Future Is Social Media’s Past](https://www.wired.com/story/blueskys-future-is-social-medias-past/)<!-- TECH:END -->
+ - [Constellation adds a dark and creepy tone to Apple’s growing sci-fi lineup](https://www.theverge.com/24065198/constellation-review-apple-tv-plus)
+ - [Save $105 Off Sony&#39;s Excellent WH-1000XM5 ANC Headphones This Presidents Day     - CNET](https://www.cnet.com/deals/save-105-off-sonys-excellent-wh-1000xm5-anc-headphones-this-presidents-day/#ftag=CAD590a51e)
+ - [Snag This HP Laptop Bundle Filled With Freebies for Just $400 at QVC     - CNET](https://www.cnet.com/deals/snag-this-hp-laptop-bundle-filled-with-freebies-for-just-400-at-qvc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
