@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
- - ⏩ [Woops.](http://9gag.com/gag/aBdqm1z)
- - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
+ - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - ⏩ [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 👉 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)<!-- MEMES:END -->
 
 ---
 
