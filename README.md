@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free sequel Please, Touch the Artwork 2 is out today, inviting you to poke a pile of paintings for hidden things](https://www.pcgamer.com/free-sequel-please-touch-the-artwork-2-is-out-today-inviting-you-to-poke-a-pile-of-paintings-for-hidden-things)
- - [Helldivers 2 Sees Over 400,000 Concurrent Players On Steam Alone](https://kotaku.com/helldivers-2-sony-steam-pc-ps5-players-1851268838)
- - [US Dept of Justice used existing router malware to quietly purge a Russia-backed &#39;vast spearphishing&#39; botnet from devices in peoples&#39; homes](https://www.pcgamer.com/us-dept-of-justice-used-existing-router-malware-to-quietly-purge-a-russia-backed-vast-spearphishing-botnet-from-devices-in-peoples-homes)<!-- GAME:END -->
+ - [PowerWash Simulator Is Getting Space Marines Because Sometimes The Universe Is Good](https://kotaku.com/powerwash-simulator-warhammer-40k-dlc-square-enix-1851268965)
+ - [How Blizzard balances and rebalances World of Warcraft&#39;s raids to evolve with players: &#39;It is important to keep in mind the audience that is engaging with an encounter at a given time&#39;](https://www.pcgamer.com/how-blizzard-balances-and-rebalances-world-of-warcrafts-raids-to-evolve-with-their-players-it-is-important-to-keep-in-mind-the-audience-that-is-engaging-with-an-encounter-at-a-given-time)
+ - [Here&#39;s a soulslike with the flashy, colorful outfits and neat folklore of renaissance Italy](https://www.pcgamer.com/heres-a-soulslike-with-the-flashy-colorful-outfits-and-neat-folklore-of-renaissance-italy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
