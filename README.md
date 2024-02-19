@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
- - ⏩ [What level of karen is this](http://9gag.com/gag/a04AR2v)
- - 👉 [Woops.](http://9gag.com/gag/aBdqm1z)<!-- MEMES:END -->
+ - 💣 [It is a feature. The car changes colour over time](http://9gag.com/gag/axoxB21)
+ - ⏩ [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
+ - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
 
 ---
 
