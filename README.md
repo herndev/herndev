@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google doubles the cost of some legacy Nest Aware subscriptions internationally, including in Canada, while some modern plans are getting prices hiked by 25% &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/240219/p14#a240219p14)
- - [Q&amp;A with Google DeepMind CEO Demis Hassabis on needing more than scale to get to AGI, developing AI agents, Gemini Pro 1.5, the UK AI Safety Institute, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240219/p13#a240219p13)
- - [Best Laptop Deals: Save Up to $550 on Microsoft Surface, MacBooks, Asus, Lenovo and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo will announce part of its 2024 Switch lineup later this week](https://www.theverge.com/2024/2/19/24062039/nintendo-direct-february-2024)
+ - [Major Galaxy Fit 3 leak gives us last piece of the puzzle, reveals full specs](https://www.androidauthority.com/galaxy-fit-3-leaked-specs-3416588/)
+ - [Peacock Premium vs Premium Plus: What are ads worth to you?](https://www.androidauthority.com/peacock-premium-vs-premium-plus-3281966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
