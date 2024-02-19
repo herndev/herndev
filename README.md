@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - ⏩ [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
+ - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - ⏩ [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
 
 ---
 
