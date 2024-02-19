@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find and kill Devastators in Helldivers 2](https://www.pcgamer.com/helldivers-2-devastators)
- - [FSR 3 removed from Nightingale&#39;s launch plan with &#39;a significant number&#39; of game crashes blamed on the AMD tech &#39;whether or not users had the setting turned on&#39;](https://www.pcgamer.com/fsr-3-removed-from-nightingales-launch-plan-with-a-significant-number-of-game-crashes-blamed-on-the-amd-tech-whether-or-not-users-had-the-setting-turned-on)
- - [Bandle Tale is the lower-stakes League of Legends story we all deserve](https://www.polygon.com/reviews/24074997/bandle-tale-league-of-legends-review)<!-- GAME:END -->
+ - [Helldivers 2 patch makes its absurdly hard defence events easier, but ups the challenge at higher difficulties](https://www.pcgamer.com/helldivers-2-patch-makes-its-absurdly-hard-defence-events-easier-but-ups-the-challenge-at-higher-difficulties)
+ - [The server tech that saved WoW 10 years ago is causing problems for Classic&#39;s Season of Discovery, dev reveals: &#39;a layer is actually just sharding with a lot of sticky tape&#39;](https://www.pcgamer.com/the-server-tech-that-saved-wow-10-years-ago-is-causing-problems-for-classics-season-of-discovery-dev-reveals-a-layer-is-actually-just-sharding-with-a-lot-of-sticky-tape)
+ - [AMD&#39;s Zen 5 chips will reportedly hit mass production at TSMC in the summer](https://www.pcgamer.com/amds-zen-5-chips-will-reportedly-hit-mass-production-at-tsmc-in-the-summer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
