@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is a feature. The car changes colour over time](http://9gag.com/gag/axoxB21)
- - ⏩ [Black Power](http://9gag.com/gag/aGE3dD7)
- - 👉 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)<!-- MEMES:END -->
+ - 💣 [Never Japan a nuke twice](http://9gag.com/gag/ajVbVXQ)
+ - ⏩ [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
+ - 👉 [Did we talk about this?](http://9gag.com/gag/a04ARGd)<!-- MEMES:END -->
 
 ---
 
