@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - ⏩ [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
+ - 💣 [Why?](http://9gag.com/gag/aL1YnyM)
+ - ⏩ [I would have done the same](http://9gag.com/gag/ajVb700)
+ - 👉 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)<!-- MEMES:END -->
 
 ---
 
