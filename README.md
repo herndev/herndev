@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Security Tips and Tools if You Live With Roommates     - CNET](https://www.cnet.com/home/security/the-best-security-tips-and-tools-if-you-live-with-roommates/#ftag=CAD590a51e)
- - [15 best Android survival games](https://www.androidauthority.com/best-android-survival-games-584998/)
- - [Save Up to $600 on a Saatva Mattress This Presidents Day     - CNET](https://www.cnet.com/deals/save-up-to-600-on-a-saatva-mattress-this-presidents-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wyze says ~13,000 customers could briefly see others&#39; camera feeds, after a similar issue in 2023; Wyze blames glitches in rebooting systems after an AWS outage &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240219/p8#a240219p8)
+ - [J Lo celebrates &#39;This is Me... Now&#39; with exclusive Apple Music performance](https://appleinsider.com/articles/24/02/19/j-lo-celebrates-this-is-me-now-with-exclusive-apple-music-performance?utm_medium=rss)
+ - [Save More Than $1,200 on This EcoFlow Delta 2 Power Station and Solar Panel Bundle     - CNET](https://www.cnet.com/deals/save-more-than-1200-on-this-ecoflow-delta-2-power-station-and-solar-panel-bundle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
