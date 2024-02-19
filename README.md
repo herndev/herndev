@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
- - ⏩ [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
- - 👉 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)<!-- MEMES:END -->
+ - 💣 [Never Japan a nuke twice](http://9gag.com/gag/ajVbVXQ)
+ - ⏩ [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
+ - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
 
 ---
 
