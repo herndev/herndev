@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10% Off TurboTax: Last Chance for Early Season Pricing     - CNET](https://www.cnet.com/deals/10-off-turbotax-last-chance-for-early-season-pricing/#ftag=CAD590a51e)
- - [Another Week of High Mortgage Rates. Mortgage Interest Rates Today for Feb. 19, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-interest-rates-today-for-feb-19-2024-rates-move-higher-for-homebuyers/#ftag=CAD590a51e)
- - [Bag the Apple Pencil 2 for Its All-Time Best Price on Presidents Day     - CNET](https://www.cnet.com/deals/bag-the-apple-pencil-2-for-its-all-time-best-price-on-presidents-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Amazfit GTR Mini drops to best price yet at only $89.99](https://www.androidauthority.com/amazfit-gtr-mini-deal-3416327/)
+ - [New iPhone 16 Pro colors rumored to include yellow and gray](https://appleinsider.com/articles/24/02/19/new-iphone-16-pro-colors-rumored-to-include-yellow-and-gray?utm_medium=rss)
+ - [Apple Vision Pro followup could be 18 months away](https://appleinsider.com/articles/24/02/19/apple-vision-pro-followup-could-be-18-months-away?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
