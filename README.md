@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meizu, which was acquired by Chinese automaker Geely in 2022, will no longer make smartphones, to pursue an &quot;all in AI&quot; strategy over the next three years &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240219/p12#a240219p12)
- - [Rice is not included in Apple’s official guidance for a wet phone](https://www.theverge.com/2024/2/19/24077532/apple-support-document-wet-iphone-no-rice)
- - [The Misinformation Combat Alliance and Meta plan to launch a dedicated fact-checking helpline on WhatsApp in India so users can flag deepfakes for analysis &lpar;The Economic Times&rpar;](http://www.techmeme.com/240219/p11#a240219p11)<!-- TECH:END -->
+ - [Chrome’s ‘Tab Groups’ feature could be coming to Android](https://www.androidauthority.com/chrome-for-android-tab-groups-3416500/)
+ - [Keurig K-Mini Plus     - CNET](https://www.cnet.com/home/kitchen-and-household/keurig-k-mini-plus-dpnl/#ftag=CAD590a51e)
+ - [This Is the Best Way to Reheat Steak, According to My Tests     - CNET](https://www.cnet.com/how-to/how-to-reheat-steak-perfectly-every-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
