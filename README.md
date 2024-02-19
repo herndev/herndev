@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Irene Solaiman, the head of global policy at Hugging Face, on her advice for women seeking to enter AI, the best way to responsibly build AI, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240219/p2#a240219p2)
- - [Samsung’s rugged tablet with a removable battery is now in the US](https://www.androidauthority.com/samsung-galaxy-tab-active-5-3416074/)
- - [WhatsApp could give some more love to its Stories feature](https://www.androidauthority.com/whatsapp-stories-preview-feature-3416076/)<!-- TECH:END -->
+ - [The US awards $1.5B to GlobalFoundries from the $52B CHIPS Act to build a new fab in Malta, New York, and to expand its Fab 8 plant, plus $1.6B in loans &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240219/p3#a240219p3)
+ - [Tech Still Isn’t Doing Enough to Care for the Environment](https://www.wired.com/story/tech-environment-greenpeace-social/)
+ - [Child Tax Credit: When Will the IRS Start Refunding Your Credit Money this Tax Season?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-when-will-the-irs-start-refunding-your-credit-money-this-tax-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
