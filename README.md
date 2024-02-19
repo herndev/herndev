@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
- - ⏩ [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
+ - 💣 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
+ - ⏩ [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - 👉 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)<!-- MEMES:END -->
 
 ---
 
