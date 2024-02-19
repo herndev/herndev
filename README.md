@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why?](http://9gag.com/gag/aL1YnyM)
+ - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
  - ⏩ [I would have done the same](http://9gag.com/gag/ajVb700)
- - 👉 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)<!-- MEMES:END -->
+ - 👉 [Why?](http://9gag.com/gag/aL1YnyM)<!-- MEMES:END -->
 
 ---
 
