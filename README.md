@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Jasper AI? Features, plans, pricing and more](https://www.androidauthority.com/what-is-jasper-ai-3416030/)
- - [How the expansion of facial recognition tech at US airports is transforming the way travelers move through them, from checking a bag to boarding the plane &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/240218/p9#a240218p9)
- - [4 Ways Your Body Is Telling You to Prioritize Quality Sleep     - CNET](https://www.cnet.com/health/sleep/4-ways-your-body-is-telling-you-to-prioritize-quality-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the impact of Russia&#39;s invasion on Ukraine&#39;s tech center Kharkiv; of the 511 tech companies in the city before February 2022, 500 are still operating &lpar;Alec Russell/Financial Times&rpar;](http://www.techmeme.com/240219/p1#a240219p1)
+ - [Xiaomi 14 Ultra camera specs announced: Beating the Galaxy S24 Ultra?](https://www.androidauthority.com/xiaomi-14-ultra-design-camera-3416021/)
+ - [Google Messages could soon get new ‘camera effects’](https://www.androidauthority.com/google-messages-new-camera-effects-soon-3416026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
