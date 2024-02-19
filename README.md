@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp could give some more love to its Stories feature](https://www.androidauthority.com/whatsapp-stories-preview-feature-3416076/)
  - [A look at the impact of Russia&#39;s invasion on Ukraine&#39;s tech center Kharkiv; of the 511 tech companies in the city before February 2022, 500 are still operating &lpar;Alec Russell/Financial Times&rpar;](http://www.techmeme.com/240219/p1#a240219p1)
- - [Xiaomi 14 Ultra camera specs announced: Beating the Galaxy S24 Ultra?](https://www.androidauthority.com/xiaomi-14-ultra-design-camera-3416021/)
- - [Google Messages could soon get new ‘camera effects’](https://www.androidauthority.com/google-messages-new-camera-effects-soon-3416026/)<!-- TECH:END -->
+ - [Xiaomi 14 Ultra camera specs announced: Beating the Galaxy S24 Ultra?](https://www.androidauthority.com/xiaomi-14-ultra-design-camera-3416021/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
