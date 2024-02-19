@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is a feature. The car changes colour over time](http://9gag.com/gag/axoxB21)
- - ⏩ [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
- - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
+ - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
+ - ⏩ [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
+ - 👉 [Did we talk about this?](http://9gag.com/gag/a04ARGd)<!-- MEMES:END -->
 
 ---
 
