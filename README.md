@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
  - ⏩ [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 👉 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)<!-- MEMES:END -->
+ - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
 
 ---
 
