@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
- - ⏩ [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 👉 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)<!-- MEMES:END -->
+ - 💣 [Chill](http://9gag.com/gag/aA0WgQo)
+ - ⏩ [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 👉 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)<!-- MEMES:END -->
 
 ---
 
