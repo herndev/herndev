@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 patch makes its absurdly hard defence events easier, but ups the challenge at higher difficulties](https://www.pcgamer.com/helldivers-2-patch-makes-its-absurdly-hard-defence-events-easier-but-ups-the-challenge-at-higher-difficulties)
- - [The server tech that saved WoW 10 years ago is causing problems for Classic&#39;s Season of Discovery, dev reveals: &#39;a layer is actually just sharding with a lot of sticky tape&#39;](https://www.pcgamer.com/the-server-tech-that-saved-wow-10-years-ago-is-causing-problems-for-classics-season-of-discovery-dev-reveals-a-layer-is-actually-just-sharding-with-a-lot-of-sticky-tape)
- - [AMD&#39;s Zen 5 chips will reportedly hit mass production at TSMC in the summer](https://www.pcgamer.com/amds-zen-5-chips-will-reportedly-hit-mass-production-at-tsmc-in-the-summer)<!-- GAME:END -->
+ - [Intel is asking for an additional $10 billion from CHIPS act subsidies because the chip giant feels it deserves more cash for investing in US developments](https://www.pcgamer.com/intel-is-asking-for-an-additional-dollar10-billion-from-chips-act-subsidies-because-the-chip-giant-feels-it-deserves-more-cash-for-investing-in-us-developments)
+ - [A Dragon&#39;s Dogma 2 demo may be on the way, if the prophecy foretold by SteamDB proves true](https://www.pcgamer.com/a-dragons-dogma-2-demo-may-be-on-the-way-if-the-prophecy-foretold-by-steamdb-proves-true)
+ - [Helldivers 2 had a disastrous weekend, but it didn&#39;t stop hordes of players from diving in, with countless more stuck in queues](https://www.pcgamer.com/helldivers-2-had-a-disastrous-weekend-but-it-didnt-stop-hordes-of-players-from-diving-in-with-countless-more-stuck-in-queues)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
