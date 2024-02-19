@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fool Them Twice in My Hero Ultra Rumble: Villain Twice Joins The Roster](https://news.xbox.com/en-us/2024/02/19/my-hero-ultra-rumble-villain-twice/)
- - [Baldur&#39;s Gate 3 player beats the game in Honour Mode by exclusively casting one of the worst spells in D&amp;D 2,469 times](https://www.pcgamer.com/baldurs-gate-3-player-beats-the-game-in-honour-mode-by-exclusively-casting-one-of-the-worst-spells-in-dandd-2469-times)
- - [Helldivers 2 players are staying logged in overnight to dodge queue times and clog servers, Arrowhead&#39;s CEO agrees that an AFK time-out is due](https://www.pcgamer.com/helldivers-2-players-are-staying-logged-in-overnight-to-dodge-queue-times-and-clog-servers-arrowheads-ceo-agrees-that-an-afk-time-out-is-due)<!-- GAME:END -->
+ - [There&#39;s no worse feeling than missing out on the big game all your pals are playing, and it&#39;s only gonna get worse with how many amazing games are coming in 2024](https://www.pcgamer.com/theres-no-worse-feeling-than-missing-out-on-the-big-game-all-your-pals-are-playing-and-its-only-gonna-get-worse-with-how-many-amazing-games-are-coming-in-2024)
+ - [Are These The Cutest Pokémon Plushes Ever Made?](https://kotaku.com/pokemon-plush-pikachu-pichu-jigglypuff-bonsley-1851268787)
+ - [What’s going on with all these video game industry layoffs?](https://www.polygon.com/gaming/24074767/video-game-industry-layoffs-explainer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
