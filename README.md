@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Amazfit GTR Mini drops to best price yet at only $89.99](https://www.androidauthority.com/amazfit-gtr-mini-deal-3416327/)
- - [New iPhone 16 Pro colors rumored to include yellow and gray](https://appleinsider.com/articles/24/02/19/new-iphone-16-pro-colors-rumored-to-include-yellow-and-gray?utm_medium=rss)
- - [Apple Vision Pro followup could be 18 months away](https://appleinsider.com/articles/24/02/19/apple-vision-pro-followup-could-be-18-months-away?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Security Tips and Tools if You Live With Roommates     - CNET](https://www.cnet.com/home/security/the-best-security-tips-and-tools-if-you-live-with-roommates/#ftag=CAD590a51e)
+ - [15 best Android survival games](https://www.androidauthority.com/best-android-survival-games-584998/)
+ - [Save Up to $600 on a Saatva Mattress This Presidents Day     - CNET](https://www.cnet.com/deals/save-up-to-600-on-a-saatva-mattress-this-presidents-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
