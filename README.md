@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bandle Tale is the lower-stakes League of Legends story we all deserve](https://www.polygon.com/reviews/24074997/bandle-tale-league-of-legends-review)
  - [Intel Lunar Lake CPU with a curious configuration spotted running Windows](https://www.pcgamer.com/intel-lunar-lake-cpu-with-a-curious-configuration-spotted-running-windows)
- - [A New Vegas mod that added Fred Durst from Limp Bizkit was thought lost for 7 years⁠—until someone finally found it on their hard drive](https://www.pcgamer.com/a-new-vegas-mod-that-added-fred-durst-from-limp-bizkit-was-thought-lost-for-7-yearsuntil-someone-finally-found-it-on-their-hard-drive)
- - [Today&#39;s Wordle answer for Monday, February 19](https://www.pcgamer.com/wordle-answer-today-february-19-2024)<!-- GAME:END -->
+ - [A New Vegas mod that added Fred Durst from Limp Bizkit was thought lost for 7 years⁠—until someone finally found it on their hard drive](https://www.pcgamer.com/a-new-vegas-mod-that-added-fred-durst-from-limp-bizkit-was-thought-lost-for-7-yearsuntil-someone-finally-found-it-on-their-hard-drive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
