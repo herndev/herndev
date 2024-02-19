@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp could give some more love to its Stories feature](https://www.androidauthority.com/whatsapp-stories-preview-feature-3416076/)
- - [A look at the impact of Russia&#39;s invasion on Ukraine&#39;s tech center Kharkiv; of the 511 tech companies in the city before February 2022, 500 are still operating &lpar;Alec Russell/Financial Times&rpar;](http://www.techmeme.com/240219/p1#a240219p1)
- - [Xiaomi 14 Ultra camera specs announced: Beating the Galaxy S24 Ultra?](https://www.androidauthority.com/xiaomi-14-ultra-design-camera-3416021/)<!-- TECH:END -->
+ - [Q&amp;A with Irene Solaiman, the head of global policy at Hugging Face, on her advice for women seeking to enter AI, the best way to responsibly build AI, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240219/p2#a240219p2)
+ - [Samsung’s rugged tablet with a removable battery is now in the US](https://www.androidauthority.com/samsung-galaxy-tab-active-5-3416074/)
+ - [WhatsApp could give some more love to its Stories feature](https://www.androidauthority.com/whatsapp-stories-preview-feature-3416076/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
