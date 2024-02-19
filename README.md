@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has completed a deal that values the company at $80B or more; OpenAI would sell existing shares in a tender offer led by Thrive Capital &lpar;New York Times&rpar;](http://www.techmeme.com/240216/p24#a240216p24)
- - [SpaceX Launched Military Satellites Designed to Track Hypersonic Missiles](https://www.wired.com/story/spacex-hypersonic-missile-satellites/)
- - [Give Us an Xbox Handheld Already](https://www.wired.com/story/give-us-an-xbox-handheld-already/)<!-- TECH:END -->
+ - [4 Ways Your Body Is Telling You to Prioritize Quality Sleep     - CNET](https://www.cnet.com/health/sleep/4-ways-your-body-is-telling-you-to-prioritize-quality-sleep/#ftag=CAD590a51e)
+ - [How to create a PDF from images &amp; web pages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-create-a-pdf-from-images-web-pages-in-macos-sonoma?utm_medium=rss)
+ - [Apple&#39;s 3D video cameras spotted during NBA Slam Dunk Contest](https://appleinsider.com/articles/24/02/18/apples-3d-video-cameras-spotted-during-nba-slam-dunk-contest?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
