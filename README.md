@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - ⏩ [Did we talk about this?](http://9gag.com/gag/a04ARGd)
- - 👉 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)<!-- MEMES:END -->
+ - 💣 [Happy onion brings you tears of joy](http://9gag.com/gag/aYV8Qjq)
+ - ⏩ [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 👉 [30 years of love](http://9gag.com/gag/aWGKGYn)<!-- MEMES:END -->
 
 ---
 
