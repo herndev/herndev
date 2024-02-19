@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even True Detective: Night Country’s answers have mysteries](https://www.polygon.com/24073177/true-detective-night-country-finale-explained-why-who-ghost-annie-kill)
- - [Intel Core i9 14900KS shows up at multiple EU retailers, indicating its launch is imminent](https://www.pcgamer.com/intel-core-i9-14900ks-shows-up-at-multiple-eu-retailers-indicating-its-launch-is-imminent)
- - [Five new Steam games you probably missed &lpar;February 19, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-19-2024)<!-- GAME:END -->
+ - [A New Vegas mod that added Fred Durst from Limp Bizkit was thought lost for 7 years⁠—until someone finally found it on their hard drive](https://www.pcgamer.com/a-new-vegas-mod-that-added-fred-durst-from-limp-bizkit-was-thought-lost-for-7-yearsuntil-someone-finally-found-it-on-their-hard-drive)
+ - [Today&#39;s Wordle answer for Monday, February 19](https://www.pcgamer.com/wordle-answer-today-february-19-2024)
+ - [Even True Detective: Night Country’s answers have mysteries](https://www.polygon.com/24073177/true-detective-night-country-finale-explained-why-who-ghost-annie-kill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
