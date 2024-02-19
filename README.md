@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s no worse feeling than missing out on the big game all your pals are playing, and it&#39;s only gonna get worse with how many amazing games are coming in 2024](https://www.pcgamer.com/theres-no-worse-feeling-than-missing-out-on-the-big-game-all-your-pals-are-playing-and-its-only-gonna-get-worse-with-how-many-amazing-games-are-coming-in-2024)
- - [Are These The Cutest Pokémon Plushes Ever Made?](https://kotaku.com/pokemon-plush-pikachu-pichu-jigglypuff-bonsley-1851268787)
- - [What’s going on with all these video game industry layoffs?](https://www.polygon.com/gaming/24074767/video-game-industry-layoffs-explainer)<!-- GAME:END -->
+ - [Free sequel Please, Touch the Artwork 2 is out today, inviting you to poke a pile of paintings for hidden things](https://www.pcgamer.com/free-sequel-please-touch-the-artwork-2-is-out-today-inviting-you-to-poke-a-pile-of-paintings-for-hidden-things)
+ - [Helldivers 2 Sees Over 400,000 Concurrent Players On Steam Alone](https://kotaku.com/helldivers-2-sony-steam-pc-ps5-players-1851268838)
+ - [US Dept of Justice used existing router malware to quietly purge a Russia-backed &#39;vast spearphishing&#39; botnet from devices in peoples&#39; homes](https://www.pcgamer.com/us-dept-of-justice-used-existing-router-malware-to-quietly-purge-a-russia-backed-vast-spearphishing-botnet-from-devices-in-peoples-homes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
