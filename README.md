@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
- - ⏩ [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
- - 👉 [Did we talk about this?](http://9gag.com/gag/a04ARGd)<!-- MEMES:END -->
+ - 💣 [BruteForceAttackProtection](http://9gag.com/gag/avQYAbd)
+ - ⏩ [Nice](http://9gag.com/gag/arm6oq6)
+ - 👉 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)<!-- MEMES:END -->
 
 ---
 
