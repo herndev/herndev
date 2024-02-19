@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: the company behind MariaDB, which raised ~$230M before its 2022 IPO, may be taken private by K1 in a $37M deal, far below its $672M Series D valuation &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240219/p10#a240219p10)
- - [25 Best Presidents&#39; Day Deals &lpar;2024&rpar;: Tech, Couches, and More](https://www.wired.com/story/best-presidents-day-deals-sales-2024/)
- - [16 Best Presidents’ Day Mattress Deals](https://www.wired.com/story/presidents-day-mattress-deals-2024/)<!-- TECH:END -->
+ - [Meizu, which was acquired by Chinese automaker Geely in 2022, will no longer make smartphones, to pursue an &quot;all in AI&quot; strategy over the next three years &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240219/p12#a240219p12)
+ - [Rice is not included in Apple’s official guidance for a wet phone](https://www.theverge.com/2024/2/19/24077532/apple-support-document-wet-iphone-no-rice)
+ - [The Misinformation Combat Alliance and Meta plan to launch a dedicated fact-checking helpline on WhatsApp in India so users can flag deepfakes for analysis &lpar;The Economic Times&rpar;](http://www.techmeme.com/240219/p11#a240219p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
