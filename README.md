@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
- - ⏩ [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
+ - 💣 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
+ - ⏩ [Woops.](http://9gag.com/gag/aBdqm1z)
  - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
 
 ---
