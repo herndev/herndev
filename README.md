@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Transport Companies Leaving Fossil Fuels Behind](https://www.wired.com/story/future-of-transport-flying-deliveries-hydrogen-electrification/)
- - [WhatsApp could soon protect your profile photos even better from stalkers](https://www.androidauthority.com/whatsapp-restrict-profile-photo-screenshots-3416736/)
- - [What is x86-64-v3? Understanding the x86-64 microarchitecture levels](https://www.androidauthority.com/what-is-x86-64-v3-3415395/)<!-- TECH:END -->
+ - [Sony’s PlayStation Portal hacked to run emulated PSP games](https://www.theverge.com/2024/2/20/24078024/sony-playstation-portal-hack-mod-psp-emulator)
+ - [Apple Music beta trials new feature for importing Spotify playlists](https://appleinsider.com/articles/24/02/20/apple-music-beta-trials-new-feature-for-importing-spotify-playlists?utm_medium=rss)
+ - [Nothing Phone 2a renders leak again: A bold approach to design?](https://www.androidauthority.com/nothing-phone-2a-design-3416751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
