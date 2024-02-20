@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
- - ⏩ [British polis](http://9gag.com/gag/aeQo4q5)
- - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
+ - 💣 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
+ - ⏩ [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 👉 [Why?](http://9gag.com/gag/aL1YnyM)<!-- MEMES:END -->
 
 ---
 
