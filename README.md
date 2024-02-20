@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s PlayStation Portal hacked to run emulated PSP games](https://www.theverge.com/2024/2/20/24078024/sony-playstation-portal-hack-mod-psp-emulator)
- - [Apple Music beta trials new feature for importing Spotify playlists](https://appleinsider.com/articles/24/02/20/apple-music-beta-trials-new-feature-for-importing-spotify-playlists?utm_medium=rss)
- - [Nothing Phone 2a renders leak again: A bold approach to design?](https://www.androidauthority.com/nothing-phone-2a-design-3416751/)<!-- TECH:END -->
+ - [Google engineers hacked a Sony PlayStation Portal to run games locally via a PPSSPP emulator in a &quot;software based&quot; exploit; the Portal can only stream PS5 games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240220/p4#a240220p4)
+ - [Recogni, which designs AI chips for autonomous vehicles, raised a $102M Series C led by Celesta Capital and GreatPoint, taking its total funding to $175M &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240220/p3#a240220p3)
+ - [Nothing Phone 2a chipset revealed: It came down to these three chips](https://www.androidauthority.com/nothing-phone-2a-processor-3416749/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
