@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - ⏩ [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
+ - 💣 [Didn&#39;t quite stick the landing.](http://9gag.com/gag/a5Xm6Bg)
+ - ⏩ [Wakanda Forever](http://9gag.com/gag/aVbngwd)
+ - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
 
 ---
 
