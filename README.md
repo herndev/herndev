@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Ring launch window leaked, could pack plenty of features](https://www.androidauthority.com/samsung-galaxy-ring-features-launch-window-3416688/)
- - [Android 15 features: Everything you need to know](https://www.androidauthority.com/android-15-features-3401939/)
- - [How some big outlets are inundating the web with bad product recommendations without testing the products, and how Google is helping them through inaction &lpar;HouseFresh&rpar;](http://www.techmeme.com/240220/p2#a240220p2)<!-- TECH:END -->
+ - [The Transport Companies Leaving Fossil Fuels Behind](https://www.wired.com/story/future-of-transport-flying-deliveries-hydrogen-electrification/)
+ - [WhatsApp could soon protect your profile photos even better from stalkers](https://www.androidauthority.com/whatsapp-restrict-profile-photo-screenshots-3416736/)
+ - [What is x86-64-v3? Understanding the x86-64 microarchitecture levels](https://www.androidauthority.com/what-is-x86-64-v3-3415395/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
