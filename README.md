@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
- - [Lockbit: How A Global Police Operation Just Took Down a Notorious Ransomware Gang](https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/)
- - [How Anthropic raised $7.3B in the past year, including using unusual deal structures; sources say its valuation tripled to $15B and its monthly revenue hit $8M &lpar;New York Times&rpar;](http://www.techmeme.com/240220/p11#a240220p11)<!-- TECH:END -->
+ - [Apple beats Samsung in the European smartphone market](https://appleinsider.com/articles/24/02/20/apple-beats-samsung-in-the-european-smartphone-market?utm_medium=rss)
+ - [This is the OnePlus Watch 2, launching at MWC 2024](https://www.androidauthority.com/oneplus-watch-2-reveal-3416835/)
+ - [Walmart buys Vizio: A new OS, more advertising on your Walmart TV?](https://www.androidauthority.com/walmart-buys-vizio-3416798/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
