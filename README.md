@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love it](http://9gag.com/gag/a04AeQB)
- - ⏩ [I came](http://9gag.com/gag/a6qvEA2)
- - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
+ - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
+ - ⏩ [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
 
 ---
 
