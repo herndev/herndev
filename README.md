@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m still not convinced about the brilliance of OLED gaming monitors, is this a me issue or an OLED issue?](https://www.pcgamer.com/im-still-not-convinced-about-the-brilliance-of-oled-gaming-monitors-is-this-a-me-issue-or-an-oled-issue)
- - [Get every Rocksteady Arkham game for the price of a takeout as Steam celebrates Bruce Wayne&#39;s birthday](https://www.pcgamer.com/get-every-rocksteady-arkham-game-for-the-price-of-a-takeout-as-steam-celebrates-bruce-waynes-birthday)
- - [Update your spreadsheets, CDPR is out talking about the genres its mysterious non-Witcher, non-Cyberpunk game isn&#39;t going to be](https://www.pcgamer.com/update-your-spreadsheets-cdpr-is-out-talking-about-the-genres-its-mysterious-non-witcher-non-cyberpunk-game-isnt-going-to-be)<!-- GAME:END -->
+ - [Balatro Wants You to Play Poker – and Then Break It Apart](https://news.xbox.com/en-us/2024/02/20/balatro-xbox/)
+ - [Play This Short But Stylish Atlus RPG Before It Leaves Game Pass Next Week](https://kotaku.com/soul-hackers-2-is-leaving-xbox-game-pass-1851270771)
+ - [A new Fallout anthology stuffed inside a mini-nuke is set to drop the day before the Fallout TV series on Amazon](https://www.pcgamer.com/a-new-fallout-anthology-stuffed-inside-a-mini-nuke-is-set-to-drop-the-day-before-the-fallout-tv-series-on-amazon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
