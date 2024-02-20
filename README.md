@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The border collie doing border collie things](http://9gag.com/gag/aMEREgW)
- - ⏩ [Good guy](http://9gag.com/gag/a04AXbv)
- - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
+ - 💣 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - ⏩ [Clown world](http://9gag.com/gag/a4oePXm)
+ - 👉 [Old but gold](http://9gag.com/gag/ajVb7m1)<!-- MEMES:END -->
 
 ---
 
