@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Watch may have Digital Crown with touch and light sensors](https://appleinsider.com/articles/20/02/06/future-apple-watches-may-have-digital-crown-with-touch-and-light-sensors?utm_medium=rss)
- - [A look at ways to play games on Apple Vision Pro: spatial and iPad App Store games, streaming via MirrorPlay for PS5, NDI, Macs, browsers like Nexus&amp;#8314;, and more &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/240220/p16#a240220p16)
- - [An Amazon Fire TV Stick 4K Costs Just $23 Today Only at Woot &lpar;Save $27&rpar;     - CNET](https://www.cnet.com/deals/an-amazon-fire-tv-stick-4k-costs-just-23-today-only-at-woot-save-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OPPO Reno 11 series to get ‘an array’ of generative AI features very soon](https://www.androidauthority.com/oppo-reno-11-series-ai-features-3416928/)
+ - [The best Presidents Day deals you can still get](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)
+ - [A US appeals court rules a $1B jury verdict from 2019 against Cox for users&#39; music piracy was unjustified; a new trial to be held to determine suitable damages &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240220/p17#a240220p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
