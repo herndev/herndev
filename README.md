@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 💣 [Last photo of Robert Overacker as he jet skies off the Niagara Falls to his death.](http://9gag.com/gag/aPgNZjq)
  - ⏩ [I would have done the same](http://9gag.com/gag/ajVb700)
- - 👉 [Why?](http://9gag.com/gag/aL1YnyM)<!-- MEMES:END -->
+ - 👉 [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)<!-- MEMES:END -->
 
 ---
 
