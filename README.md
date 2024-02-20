@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Add-ons are Coming to Minecraft Bedrock](https://minecraft.net/article/introducing-add-ons#new_tab)
- - [Helldivers 2’s Mysterious Black Screen Issue Explained](https://kotaku.com/helldivers-2-pc-ps5-black-screen-fix-bug-glitch-1851271678)
- - [Princess Peach: Showtime! Previews Set The Stage For A Charming Platformer](https://kotaku.com/princess-peach-showtime-preview-roundup-nintendo-1851271561)<!-- GAME:END -->
+ - [Pokémon Go ‘Road to Sinnoh’ event, Timed Research guide](https://www.polygon.com/pokemon-go-guide/24078388/road-to-sinnoh-event-timed-research-hatching-raid-rewards)
+ - [Dead by Daylight&#39;s next killer is &#39;an evil so heinous that investigating it almost immediately invites death&#39;](https://www.pcgamer.com/dead-by-daylights-new-killer-is-an-evil-so-heinous-that-investigating-it-almost-immediately-invites-death)
+ - [Xbox Insider Release Notes – Xbox App [2402.1001.20.0]](https://news.xbox.com/en-us/2024/02/20/xbox-insider-release-notes-xbox-app-2402-1001-20-0/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
