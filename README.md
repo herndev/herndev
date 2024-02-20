@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Law enforcement from 11 countries, including the FBI and UK National Crime Agency, disrupt the LockBit gang and seize 11K domains used to facilitate ransomware &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/240219/p15#a240219p15)
- - [Porsche adds two new hybrids to its lineup of plug-in Panameras](https://www.theverge.com/2024/2/19/24077329/porsche-hybrids-4-4s-panamera-specs-price)
- - [What to Expect from Mobile World Congress 2024 video     - CNET](https://www.cnet.com/videos/what-to-expect-from-mobile-world-congress-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Powerful Should Your Home Battery Be?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-powerful-should-your-home-battery-be/#ftag=CAD590a51e)
+ - [MLS Season Pass on Apple TV: How to Watch and Stream Major League Soccer in 2024     - CNET](https://www.cnet.com/tech/services-and-software/mls-season-pass-on-apple-tv-how-to-watch-and-stream-major-league-soccer-in-2024/#ftag=CAD590a51e)
+ - [Ninja Woodfire BBQ     - CNET](https://www.cnet.com/news/ninja-woodfire-bbq-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
