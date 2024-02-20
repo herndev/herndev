@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last photo of Robert Overacker as he jet skies off the Niagara Falls to his death.](http://9gag.com/gag/aPgNZjq)
- - ⏩ [I would have done the same](http://9gag.com/gag/ajVb700)
- - 👉 [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)<!-- MEMES:END -->
+ - 💣 [She&#39;s a keeper. Great sense of humor](http://9gag.com/gag/agoMmVq)
+ - ⏩ [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
 
 ---
 
