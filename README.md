@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Bluey: The Videogame, Tales of Arise, Warhammer 40,000: Boltgun, and More](https://news.xbox.com/en-us/2024/02/20/game-pass-february-2024-wave-2-announce/)
- - [Bethesda Drops A Nuke... Full Of Fallout Games](https://kotaku.com/bethesda-fallout-new-vegas-76-special-anthology-1851269351)
- - [D&amp;D Lego comes full circle by rendering the tabletop game&#39;s deadliest block in brick form: The dreaded gelatinous cube](https://www.pcgamer.com/dandd-lego-comes-full-circle-by-rendering-the-tabletop-games-deadliest-block-in-brick-form-the-dreaded-gelatinous-cube)<!-- GAME:END -->
+ - [I&#39;m still not convinced about the brilliance of OLED gaming monitors, is this a me issue or an OLED issue?](https://www.pcgamer.com/im-still-not-convinced-about-the-brilliance-of-oled-gaming-monitors-is-this-a-me-issue-or-an-oled-issue)
+ - [Get every Rocksteady Arkham game for the price of a takeout as Steam celebrates Bruce Wayne&#39;s birthday](https://www.pcgamer.com/get-every-rocksteady-arkham-game-for-the-price-of-a-takeout-as-steam-celebrates-bruce-waynes-birthday)
+ - [Update your spreadsheets, CDPR is out talking about the genres its mysterious non-Witcher, non-Cyberpunk game isn&#39;t going to be](https://www.pcgamer.com/update-your-spreadsheets-cdpr-is-out-talking-about-the-genres-its-mysterious-non-witcher-non-cyberpunk-game-isnt-going-to-be)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
