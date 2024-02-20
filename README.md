@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
- - ⏩ [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 💣 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - ⏩ [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
  - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
 
 ---
