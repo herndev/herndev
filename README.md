@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - ⏩ [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
+ - 💣 [Valentines day fail](http://9gag.com/gag/abvPv0E)
+ - ⏩ [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
+ - 👉 [Good guy](http://9gag.com/gag/a04AXbv)<!-- MEMES:END -->
 
 ---
 
