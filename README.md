@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
- - ⏩ [Yup](http://9gag.com/gag/aA0Wynp)
- - 👉 [9 years married with no children. 7 years of trying, until finally we gave up. but now in the 10th year my wife is pregnant and currently having a Caesarean section. I want to share with 9gager.](http://9gag.com/gag/aeQo9Qv)<!-- MEMES:END -->
+ - 💣 [Valentines day fail](http://9gag.com/gag/abvPv0E)
+ - ⏩ [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
+ - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
 
 ---
 
