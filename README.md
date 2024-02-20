@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms Auracast support for older phones and tablets getting One UI 6.1](https://www.androidauthority.com/samsung-auracast-support-one-ui-6-1-eligible-devices-3416674/)
- - [Adidas: Save Up to 65% Off During Presidents Day Sale     - CNET](https://www.cnet.com/deals/adidas-save-up-to-65-off-during-presidents-day-sale/#ftag=CAD590a51e)
- - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)<!-- TECH:END -->
+ - [Paris-based Planity, whose SaaS is used by 40K+ small businesses for appointment booking and more, raised a &amp;euro;45M Series C led by InfraVia Capital Partners &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240220/p1#a240220p1)
+ - [Apple’s first foldable iPhone could launch after Galaxy Z Fold 8](https://www.androidauthority.com/foldable-iphone-september-2026-3416080/)
+ - [Tax Season 2024: IRS Issued $13 Billion in Tax Refunds in the Second Filing Week     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-issued-13-billion-in-tax-refunds-in-the-second-filing-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
