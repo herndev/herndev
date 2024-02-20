@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I came](http://9gag.com/gag/a6qvEA2)
- - ⏩ [Why?](http://9gag.com/gag/aL1YnyM)
- - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
+ - 💣 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - ⏩ [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
 
 ---
 
