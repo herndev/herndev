@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I came](http://9gag.com/gag/a6qvEA2)
- - ⏩ [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 👉 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)<!-- MEMES:END -->
+ - ⏩ [Why?](http://9gag.com/gag/aL1YnyM)
+ - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
 
 ---
 
