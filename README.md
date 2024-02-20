@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Law enforcement arrests two LockBit operators in Poland and Ukraine, issues three arrest warrants, releases a decryption tool, and seizes 200+ crypto wallets &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240220/p6#a240220p6)
- - [Steam Annual Summary for 2023: more than 500 games earned $3M+ in gross revenue for the first time ever, concurrent users reached a record 33M, and more &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240220/p5#a240220p5)
- - [Sketchy rumor tries to pin down folding iPhone release date](https://appleinsider.com/articles/24/02/20/sketchy-rumor-tries-to-pin-down-folding-iphone-release-date?utm_medium=rss)<!-- TECH:END -->
+ - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
+ - [Lockbit: How A Global Police Operation Just Took Down a Notorious Ransomware Gang](https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/)
+ - [How Anthropic raised $7.3B in the past year, including using unusual deal structures; sources say its valuation tripled to $15B and its monthly revenue hit $8M &lpar;New York Times&rpar;](http://www.techmeme.com/240220/p11#a240220p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
