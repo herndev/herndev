@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Mirage adds a permadeath mode that deletes your save file if you die or commit crimes](https://www.pcgamer.com/assassins-creed-mirage-adds-a-permadeath-mode-that-deletes-your-save-file-if-you-die-or-commit-crimes)
- - [Lady Gaga’s finally coming to Fortnite](https://www.polygon.com/24078316/fortnite-lady-gaga-festival-dlc)
- - [PS Portal Hack Lets The Handheld Run PSP Games](https://kotaku.com/playstation-portal-hacked-psp-gta-liberty-city-google-1851270852)<!-- GAME:END -->
+ - [Magic’s megaton reveal of Ravages of War sets this Fallout set apart](https://www.polygon.com/24078242/mtg-fallout-ravages-of-war-card-previews)
+ - [Modders are achieving justice for Persona 3&#39;s missing female protagonist in a way that&#39;s only possible on PC](https://www.pcgamer.com/modders-are-achieving-justice-for-persona-3s-missing-female-protagonist-in-a-way-thats-only-possible-on-pc)
+ - [Fantastic Tomb Raider Remastered Collection Was Led By Fan Modder](https://kotaku.com/tomb-raider-remastered-trilogy-fan-modder-openlara-1851271428)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
