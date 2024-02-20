@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - ⏩ [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
+ - 💣 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - ⏩ [Game of horrors](http://9gag.com/gag/aMERd6P)
+ - 👉 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)<!-- MEMES:END -->
 
 ---
 
