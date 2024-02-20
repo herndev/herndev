@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Reno 11 series to get ‘an array’ of generative AI features very soon](https://www.androidauthority.com/oppo-reno-11-series-ai-features-3416928/)
- - [The best Presidents Day deals you can still get](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)
- - [A US appeals court rules a $1B jury verdict from 2019 against Cox for users&#39; music piracy was unjustified; a new trial to be held to determine suitable damages &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240220/p17#a240220p17)<!-- TECH:END -->
+ - [Apple Silicon gets massive AI training speed boost with this new project](https://appleinsider.com/articles/24/02/20/apple-silicon-gets-massive-ai-training-speed-boost-with-this-new-project?utm_medium=rss)
+ - [Ford slashes Mustang Mach-E prices again as EV price war enters its second year](https://www.theverge.com/2024/2/20/24078295/ford-mustang-mach-e-price-cut-ev-price-war-tesla)
+ - [Apple Vision Pro natively supports a rare film aspect ratio](https://appleinsider.com/articles/24/02/20/apple-vision-pro-natively-supports-a-rare-film-aspect-ratio?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
