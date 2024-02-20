@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Valentines day fail](http://9gag.com/gag/abvPv0E)
- - ⏩ [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
- - 👉 [Good guy](http://9gag.com/gag/a04AXbv)<!-- MEMES:END -->
+ - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
+ - ⏩ [Yup](http://9gag.com/gag/aA0Wynp)
+ - 👉 [9 years married with no children. 7 years of trying, until finally we gave up. but now in the 10th year my wife is pregnant and currently having a Caesarean section. I want to share with 9gager.](http://9gag.com/gag/aeQo9Qv)<!-- MEMES:END -->
 
 ---
 
