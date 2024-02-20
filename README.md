@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
  - [Microsoft President Brad Smith says the company plans to invest $2.1B in Spain in the next two years to expand its AI and cloud infrastructure in the country &lpar;Reuters&rpar;](http://www.techmeme.com/240219/p16#a240219p16)
- - [M3 Pro &amp; M3 Max MacBook Pro models now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/24/02/20/m3-pro-m3-max-macbook-pro-models-now-available-on-apples-refurbished-store?utm_medium=rss)
- - [Apple TV+ drama &#39;Masters of the Air&#39; is most-watched series launch ever for the service](https://appleinsider.com/articles/24/02/20/apple-tv-drama-masters-of-the-air-is-most-watched-series-launch-ever-for-the-service?utm_medium=rss)<!-- TECH:END -->
+ - [M3 Pro &amp; M3 Max MacBook Pro models now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/24/02/20/m3-pro-m3-max-macbook-pro-models-now-available-on-apples-refurbished-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
