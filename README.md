@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Powerful Should Your Home Battery Be?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-powerful-should-your-home-battery-be/#ftag=CAD590a51e)
- - [MLS Season Pass on Apple TV: How to Watch and Stream Major League Soccer in 2024     - CNET](https://www.cnet.com/tech/services-and-software/mls-season-pass-on-apple-tv-how-to-watch-and-stream-major-league-soccer-in-2024/#ftag=CAD590a51e)
- - [Ninja Woodfire BBQ     - CNET](https://www.cnet.com/news/ninja-woodfire-bbq-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ drama &#39;Masters of the Air&#39; is most-watched series launch ever for the service](https://appleinsider.com/articles/24/02/20/apple-tv-drama-masters-of-the-air-is-most-watched-series-launch-ever-for-the-service?utm_medium=rss)
+ - [Presidents Day Sales: 115 Best Deals on TVs, Tech, Appliances and Mattresses     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)
+ - [How Powerful Should Your Home Battery Be?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-powerful-should-your-home-battery-be/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
