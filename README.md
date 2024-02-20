@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus is getting back into the smartwatch game](https://www.theverge.com/2024/2/20/24078098/oneplus-watch-2-smartwatch-mwc-2024)
- - [How to get detailed monthly stats on your Apple Music listening habits](https://appleinsider.com/inside/apple-music/tips/how-to-get-detailed-monthly-stats-on-your-apple-music-listening-habits?utm_medium=rss)
- - [Apple&#39;s Jeff Williams is in Taiwan for Foxconn&#39;s 50th anniversary](https://appleinsider.com/articles/24/02/20/apples-jeff-williams-is-in-taiwan-for-foxconns-50th-anniversary?utm_medium=rss)<!-- TECH:END -->
+ - [Future Apple Watch may have Digital Crown with touch and light sensors](https://appleinsider.com/articles/20/02/06/future-apple-watches-may-have-digital-crown-with-touch-and-light-sensors?utm_medium=rss)
+ - [A look at ways to play games on Apple Vision Pro: spatial and iPad App Store games, streaming via MirrorPlay for PS5, NDI, Macs, browsers like Nexus&amp;#8314;, and more &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/240220/p16#a240220p16)
+ - [An Amazon Fire TV Stick 4K Costs Just $23 Today Only at Woot &lpar;Save $27&rpar;     - CNET](https://www.cnet.com/deals/an-amazon-fire-tv-stick-4k-costs-just-23-today-only-at-woot-save-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
