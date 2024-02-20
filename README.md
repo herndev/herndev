@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a keeper. Great sense of humor](http://9gag.com/gag/agoMmVq)
- - ⏩ [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 💣 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
+ - ⏩ [British polis](http://9gag.com/gag/aeQo4q5)
  - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
 
 ---
