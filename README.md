@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan just got a foldable flip phone that costs only $420 — or $265 on sale](https://www.theverge.com/2024/2/20/24078527/zte-libero-flip-japan-price-folding-flip-phone)
- - [Google in hot water: Lawsuit alleges Pixel 6 Pro has overheating defect](https://www.androidauthority.com/pixel-6-pro-lawsuit-3417169/)
- - [Apple says the iPhone 15 battery is more durable than it originally thought](https://appleinsider.com/articles/24/02/20/apple-says-the-iphone-15-battery-is-more-durable-than-it-originally-thought?utm_medium=rss)<!-- TECH:END -->
+ - [NSA Cybersecurity Director Rob Joyce will retire at the end of March after taking the position in 2021; Deputy Director David Luber will assume the role &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240220/p24#a240220p24)
+ - [One of the last small-ish Android phones looks like it’s going the way of the iPhone Mini](https://www.theverge.com/2024/2/20/24078500/asus-zenfone-11-ultra-small-phone)
+ - [Pair found guilty of trying to defraud Apple of more than $3 million](https://appleinsider.com/articles/24/02/20/pair-found-guilty-of-trying-to-defraud-apple-of-more-than-3-million?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
