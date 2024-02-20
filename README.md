@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - ⏩ [Game of horrors](http://9gag.com/gag/aMERd6P)
- - 👉 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)<!-- MEMES:END -->
+ - 💣 [The border collie doing border collie things](http://9gag.com/gag/aMEREgW)
+ - ⏩ [Good guy](http://9gag.com/gag/a04AXbv)
+ - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
 
 ---
 
