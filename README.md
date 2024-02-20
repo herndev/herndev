@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo will announce part of its 2024 Switch lineup later this week](https://www.theverge.com/2024/2/19/24062039/nintendo-direct-february-2024)
- - [Major Galaxy Fit 3 leak gives us last piece of the puzzle, reveals full specs](https://www.androidauthority.com/galaxy-fit-3-leaked-specs-3416588/)
- - [Peacock Premium vs Premium Plus: What are ads worth to you?](https://www.androidauthority.com/peacock-premium-vs-premium-plus-3281966/)<!-- TECH:END -->
+ - [Law enforcement from 11 countries, including the FBI and UK National Crime Agency, disrupt the LockBit gang and seize 11K domains used to facilitate ransomware &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/240219/p15#a240219p15)
+ - [Porsche adds two new hybrids to its lineup of plug-in Panameras](https://www.theverge.com/2024/2/19/24077329/porsche-hybrids-4-4s-panamera-specs-price)
+ - [What to Expect from Mobile World Congress 2024 video     - CNET](https://www.cnet.com/videos/what-to-expect-from-mobile-world-congress-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
