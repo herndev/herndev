@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, February 20](https://www.pcgamer.com/wordle-answer-today-february-20-2024)
  - [New Nintendo Direct coming on Feb. 21](https://www.polygon.com/24030928/nintendo-direct-february-2024-time-date-when-it-starts)
- - [Capcom celebrates the 8th anniversary of Street Fighter V by saying sorry for Street Fighter V](https://www.pcgamer.com/capcom-celebrates-the-8th-anniversary-of-street-fighter-v-by-saying-sorry-for-street-fighter-v)
- - [Helldivers 2&#39;s Success Is Making Everyone Watch This Misunderstood Movie](https://kotaku.com/helldivers-2-starship-troopers-movie-disney-1851269272)<!-- GAME:END -->
+ - [Capcom celebrates the 8th anniversary of Street Fighter V by saying sorry for Street Fighter V](https://www.pcgamer.com/capcom-celebrates-the-8th-anniversary-of-street-fighter-v-by-saying-sorry-for-street-fighter-v)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
