@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 Pro rumors: What we know so far and what we want to see](https://www.androidauthority.com/sony-ps5-pro-3337407/)
- - [Sources: Apple&#39;s longtime VP in charge of acoustics Gary Geaves is stepping down, replaced by Ruchir Dav&amp;eacute;, another big shakeup in the hardware engineering group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240220/p22#a240220p22)
- - [Source: Microsoft is developing a server networking card to boost perfomance of AI chips and lessen its reliance on Nvidia; Pradeep Sindhu is leading the effort &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240220/p21#a240220p21)<!-- TECH:END -->
+ - [Japan just got a foldable flip phone that costs only $420 — or $265 on sale](https://www.theverge.com/2024/2/20/24078527/zte-libero-flip-japan-price-folding-flip-phone)
+ - [Google in hot water: Lawsuit alleges Pixel 6 Pro has overheating defect](https://www.androidauthority.com/pixel-6-pro-lawsuit-3417169/)
+ - [Apple says the iPhone 15 battery is more durable than it originally thought](https://appleinsider.com/articles/24/02/20/apple-says-the-iphone-15-battery-is-more-durable-than-it-originally-thought?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
