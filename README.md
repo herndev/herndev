@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic’s megaton reveal of Ravages of War sets this Fallout set apart](https://www.polygon.com/24078242/mtg-fallout-ravages-of-war-card-previews)
- - [Modders are achieving justice for Persona 3&#39;s missing female protagonist in a way that&#39;s only possible on PC](https://www.pcgamer.com/modders-are-achieving-justice-for-persona-3s-missing-female-protagonist-in-a-way-thats-only-possible-on-pc)
- - [Fantastic Tomb Raider Remastered Collection Was Led By Fan Modder](https://kotaku.com/tomb-raider-remastered-trilogy-fan-modder-openlara-1851271428)<!-- GAME:END -->
+ - [Add-ons are Coming to Minecraft Bedrock](https://minecraft.net/article/introducing-add-ons#new_tab)
+ - [Helldivers 2’s Mysterious Black Screen Issue Explained](https://kotaku.com/helldivers-2-pc-ps5-black-screen-fix-bug-glitch-1851271678)
+ - [Princess Peach: Showtime! Previews Set The Stage For A Charming Platformer](https://kotaku.com/princess-peach-showtime-preview-roundup-nintendo-1851271561)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
