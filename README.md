@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony isn&#39;t happy with Bungie: PlayStation boss wants more &#39;accountability&#39; from the studio on money and deadlines](https://www.pcgamer.com/sony-isnt-happy-with-bungie-playstation-boss-wants-more-accountability-from-the-studio-on-money-and-deadlines)
- - [Helldivers 2 patch &#39;tunes&#39; those civilian extract missions that were murdering everyone as Arrowhead continues to manage login queues](https://www.pcgamer.com/helldivers-2-patch-notes-civilian-extract-quickplay-black-screen)
- - [Kingmakers has the best twist on medieval warfare ever](https://www.polygon.com/24078520/kingmakers-medieval-warfare-twist-redemption-road)<!-- GAME:END -->
+ - [6 years after it closed for good, a free-to-play hero shooter is making a comeback as a paid game with &#39;zero microtransactions&#39;](https://www.pcgamer.com/6-years-after-it-closed-for-good-a-free-to-play-hero-shooter-is-making-a-comeback-as-a-paid-game-with-zero-microtransactions)
+ - [Disney Movie Club Is Closing In Another Blow To Physical Media](https://kotaku.com/disney-movie-club-is-closing-in-another-blow-to-physica-1851272636)
+ - [Netflix&#39;s New Rainbow Six Game Looks Very Different](https://kotaku.com/rainbow-six-smol-siege-spin-off-netflix-cartoony-mobile-1851272627)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
