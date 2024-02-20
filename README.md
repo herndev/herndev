@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Balatro Wants You to Play Poker – and Then Break It Apart](https://news.xbox.com/en-us/2024/02/20/balatro-xbox/)
- - [Play This Short But Stylish Atlus RPG Before It Leaves Game Pass Next Week](https://kotaku.com/soul-hackers-2-is-leaving-xbox-game-pass-1851270771)
- - [A new Fallout anthology stuffed inside a mini-nuke is set to drop the day before the Fallout TV series on Amazon](https://www.pcgamer.com/a-new-fallout-anthology-stuffed-inside-a-mini-nuke-is-set-to-drop-the-day-before-the-fallout-tv-series-on-amazon)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Mirage adds a permadeath mode that deletes your save file if you die or commit crimes](https://www.pcgamer.com/assassins-creed-mirage-adds-a-permadeath-mode-that-deletes-your-save-file-if-you-die-or-commit-crimes)
+ - [Lady Gaga’s finally coming to Fortnite](https://www.polygon.com/24078316/fortnite-lady-gaga-festival-dlc)
+ - [PS Portal Hack Lets The Handheld Run PSP Games](https://kotaku.com/playstation-portal-hacked-psp-gta-liberty-city-google-1851270852)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
