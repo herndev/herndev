@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Silicon gets massive AI training speed boost with this new project](https://appleinsider.com/articles/24/02/20/apple-silicon-gets-massive-ai-training-speed-boost-with-this-new-project?utm_medium=rss)
- - [Ford slashes Mustang Mach-E prices again as EV price war enters its second year](https://www.theverge.com/2024/2/20/24078295/ford-mustang-mach-e-price-cut-ev-price-war-tesla)
- - [Apple Vision Pro natively supports a rare film aspect ratio](https://appleinsider.com/articles/24/02/20/apple-vision-pro-natively-supports-a-rare-film-aspect-ratio?utm_medium=rss)<!-- TECH:END -->
+ - [Third visionOS 1.1 developer beta arrives with lots of bug fixes](https://appleinsider.com/articles/24/02/20/third-visionos-11-developer-beta-arrives-with-lots-of-bug-fixes?utm_medium=rss)
+ - [Films imported through Movies Anywhere may not play in 3D on Apple Vision Pro](https://appleinsider.com/articles/24/02/20/films-imported-through-movies-anywhere-may-not-play-in-3d-on-apple-vision-pro?utm_medium=rss)
+ - [New AirPods Max rumored to hit shelves in 2024 without giant feature changes](https://appleinsider.com/articles/24/02/20/new-airpods-max-rumored-to-hit-shelves-in-2024-without-giant-feature-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
