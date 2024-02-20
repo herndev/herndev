@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple beats Samsung in the European smartphone market](https://appleinsider.com/articles/24/02/20/apple-beats-samsung-in-the-european-smartphone-market?utm_medium=rss)
- - [This is the OnePlus Watch 2, launching at MWC 2024](https://www.androidauthority.com/oneplus-watch-2-reveal-3416835/)
- - [Walmart buys Vizio: A new OS, more advertising on your Walmart TV?](https://www.androidauthority.com/walmart-buys-vizio-3416798/)<!-- TECH:END -->
+ - [OnePlus is getting back into the smartwatch game](https://www.theverge.com/2024/2/20/24078098/oneplus-watch-2-smartwatch-mwc-2024)
+ - [How to get detailed monthly stats on your Apple Music listening habits](https://appleinsider.com/inside/apple-music/tips/how-to-get-detailed-monthly-stats-on-your-apple-music-listening-habits?utm_medium=rss)
+ - [Apple&#39;s Jeff Williams is in Taiwan for Foxconn&#39;s 50th anniversary](https://appleinsider.com/articles/24/02/20/apples-jeff-williams-is-in-taiwan-for-foxconns-50th-anniversary?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
