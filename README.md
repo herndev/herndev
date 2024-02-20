@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 lead says the game&#39;s farcical comedy was inspired by tabletop games like D&amp;D—and he&#39;s nowhere near the first dev to worship at the altar of pen and paper](https://www.pcgamer.com/helldivers-2-lead-says-the-games-farcical-comedy-was-inspired-by-tabletop-games-like-danddand-hes-nowhere-near-the-first-dev-to-worship-at-the-altar-of-pen-and-paper)
- - [Asus ROG Strix Scar 18 &lpar;2024&rpar; review](https://www.pcgamer.com/asus-rog-strix-scar-18-2024-gaming-laptop-review)
- - [Deep Rock Galactic just got a prop hunt minigame triggered by drinking transmutative beer](https://www.pcgamer.com/deep-rock-galactic-just-got-a-prop-hunt-minigame-triggered-by-drinking-transmutative-beer)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Bluey: The Videogame, Tales of Arise, Warhammer 40,000: Boltgun, and More](https://news.xbox.com/en-us/2024/02/20/game-pass-february-2024-wave-2-announce/)
+ - [Bethesda Drops A Nuke... Full Of Fallout Games](https://kotaku.com/bethesda-fallout-new-vegas-76-special-anthology-1851269351)
+ - [D&amp;D Lego comes full circle by rendering the tabletop game&#39;s deadliest block in brick form: The dreaded gelatinous cube](https://www.pcgamer.com/dandd-lego-comes-full-circle-by-rendering-the-tabletop-games-deadliest-block-in-brick-form-the-dreaded-gelatinous-cube)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
