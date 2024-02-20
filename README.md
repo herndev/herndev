@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Planity, whose SaaS is used by 40K+ small businesses for appointment booking and more, raised a &amp;euro;45M Series C led by InfraVia Capital Partners &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240220/p1#a240220p1)
- - [Apple’s first foldable iPhone could launch after Galaxy Z Fold 8](https://www.androidauthority.com/foldable-iphone-september-2026-3416080/)
- - [Tax Season 2024: IRS Issued $13 Billion in Tax Refunds in the Second Filing Week     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-issued-13-billion-in-tax-refunds-in-the-second-filing-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Ring launch window leaked, could pack plenty of features](https://www.androidauthority.com/samsung-galaxy-ring-features-launch-window-3416688/)
+ - [Android 15 features: Everything you need to know](https://www.androidauthority.com/android-15-features-3401939/)
+ - [How some big outlets are inundating the web with bad product recommendations without testing the products, and how Google is helping them through inaction &lpar;HouseFresh&rpar;](http://www.techmeme.com/240220/p2#a240220p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
