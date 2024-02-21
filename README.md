@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From lists to block quotes: WhatsApp finally brings new formatting options](https://www.androidauthority.com/whatsapp-new-formatting-options-3416678/)
- - [WhatsApp adds new text formatting options to improve messaging](https://www.theverge.com/2024/2/21/24078957/whatsapp-text-formatting-shortcuts-bullet-lists-block-quote-highlight)
- - [Chipmaker Astera Labs, which offers cloud and AI connectivity hardware, files for a US IPO, reporting 2023 revenue up 44.9% YoY to $115.8M and a $26.3M net loss &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240221/p26#a240221p26)<!-- TECH:END -->
+ - [How Japan plans to spend $67B to revive its domestic chip production, hoping to leverage US supply chain concerns, including Rapidus building 2nm chips by 2027 &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/240221/p29#a240221p29)
+ - [Neuralink’s First Brain Implant Is Working. Elon Musk’s Transparency Isn’t](https://www.wired.com/story/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/)
+ - [There&#39;s Still Time to Save With Extended Presidents Day Mattress Sales     - CNET](https://www.cnet.com/deals/best-presidents-day-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
