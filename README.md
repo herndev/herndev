@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Malenia was only the beginning: Shadow of the Erdtree will have optional bosses &#39;tuned in a similar way&#39; to Elden Ring&#39;s toughest foe](https://www.pcgamer.com/elden-ring-shadow-of-the-erdtree-optional-boss-malenia)
- - [The first Borderlands movie trailer is here, and it looks—drumroll—pretty alright](https://www.pcgamer.com/borderlands-movie-trailer)
- - [Netflix’s live-action Avatar isn’t the only Last Airbender project that’s on the way](https://www.polygon.com/24075133/avatar-last-airbender-animated-sequel-creators-netflix-live-action)<!-- GAME:END -->
+ - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)
+ - [15 Elden Ring: Shadow Of The Erdtree Trailer Details You Might Have Missed](https://kotaku.com/elden-ring-shadow-of-the-erdtree-dlc-trailer-details-1851275252)
+ - [Even Lego Fortnite loves a fishing minigame](https://www.polygon.com/24079480/lego-fortnite-fishing-minigame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
