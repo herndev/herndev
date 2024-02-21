@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are f**ked](http://9gag.com/gag/a6qvDom)
- - ⏩ [Friendship of men](http://9gag.com/gag/aYV8EOm)
- - 👉 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)<!-- MEMES:END -->
+ - 💣 [Only fans dad](http://9gag.com/gag/ap9yD19)
+ - ⏩ [Anti-immigration rally in Japan against Kurdish migrants](http://9gag.com/gag/a1PzDKw)
+ - 👉 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)<!-- MEMES:END -->
 
 ---
 
