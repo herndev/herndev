@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - ⏩ [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
+ - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - ⏩ [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
 
 ---
 
