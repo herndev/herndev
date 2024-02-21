@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Japan plans to spend $67B to revive its domestic chip production, hoping to leverage US supply chain concerns, including Rapidus building 2nm chips by 2027 &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/240221/p29#a240221p29)
- - [Neuralink’s First Brain Implant Is Working. Elon Musk’s Transparency Isn’t](https://www.wired.com/story/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/)
- - [There&#39;s Still Time to Save With Extended Presidents Day Mattress Sales     - CNET](https://www.cnet.com/deals/best-presidents-day-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel&#39;s Direct Connect announcements: IFS rebranded to Intel Foundry, &quot;systems foundry&quot; era, 18A-P, 14A, and Hybrid Bonding, five nodes in four years, and more &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240221/p34#a240221p34)
+ - [Comfort isn’t just a Vision Pro problem — it’s a wearable one](https://www.theverge.com/24078522/apple-vision-pro-wearables-comfort)
+ - [Q&amp;A with Intel CEO Pat Gelsinger on Intel Foundry, IDM 2.0, working with Amazon, packaging, 18A, innovation in Moore&#39;s Law, reluctant customers, AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240221/p33#a240221p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
