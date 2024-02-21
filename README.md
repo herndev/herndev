@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Craft yourself a Fae realm escape in base-building survival game Nightingale](https://www.pcgamer.com/craft-yourself-a-fae-realm-escape-in-base-building-survival-game-nightingale)
  - [How to unlock the Gold Saucer in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24067651/gold-saucer-unlock-side-quest-location-manderville-mgp)
- - [Today&#39;s Wordle answer for Wednesday, February 21](https://www.pcgamer.com/wordle-answer-today-february-21-2024)
- - [Magic’s first Fallout Commander decklist preview is for Scrappy Survivors](https://www.polygon.com/24072016/fallout-magic-the-gathering-scrappy-survivors-decklist-reveal)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, February 21](https://www.pcgamer.com/wordle-answer-today-february-21-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
