@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - ⏩ [Good guy](http://9gag.com/gag/a04AXbv)
- - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
+ - 💣 [Game boy](http://9gag.com/gag/az2NGXK)
+ - ⏩ [She must be really really goood](http://9gag.com/gag/aOxgDdE)
+ - 👉 [The answer is obvious](http://9gag.com/gag/adPZQX2)<!-- MEMES:END -->
 
 ---
 
