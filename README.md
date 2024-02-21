@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call of Duty League team owner suing  Activision Blizzard for $680 million](https://www.theverge.com/2024/2/20/24078279/call-of-duty-league-monopoly-lawsuit-optic-gaming)
- - [New iPad sizes detailed in new anonymous leak](https://appleinsider.com/articles/24/02/20/new-ipad-sizes-detailed-in-new-anonymous-leak?utm_medium=rss)
- - [How does Apple keep falling for the same iPhone repair scam?](https://www.androidauthority.com/apple-iphone-repair-scam-3417239/)<!-- TECH:END -->
+ - [It’s about to get even harder to buy some of Disney’s weirdest movies on Blu-ray](https://www.theverge.com/2024/2/20/24078684/disney-ends-disney-movie-club-sony-physical-media-deal-dvd-blu-ray)
+ - [Palo Alto Networks reports Q2 revenue up 19% YoY to $1.98B, vs. $1.97B est., and lowers its full-year guidance for billings and revenue; PANW drops 19%+ &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240220/p26#a240220p26)
+ - [OnePlus 11 Deals: Up to $650 in Trade-In Offers     - CNET](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
