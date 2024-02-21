@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scale AI signs a one-year contract with the Pentagon to provide a means to test and evaluate LLMs that can be used for military planning and decision-making &lpar;Brandi Vincent/DefenseScoop&rpar;](http://www.techmeme.com/240220/p30#a240220p30)
- - [Galaxy AI will soon power ‘intelligent health experiences’ on Samsung’s Wearables](https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/)
- - [Indonesia issues a regulation requiring digital platforms, including Facebook and Google, to pay media outlets that provide them with content &lpar;Reuters&rpar;](http://www.techmeme.com/240220/p29#a240220p29)<!-- TECH:END -->
+ - [Beijing-based Moonshot AI, which launched its AI chatbot Kimi Chat in October 2023, raised $1B+ led by Alibaba and HongShan, reportedly at a ~$2.5B valuation &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240220/p33#a240220p33)
+ - [Byju&#39;s says the $200M rights issue that cuts its valuation by 99% to $20M-$25M is fully subscribed; source: some of Byju&#39;s major investors are yet to take part &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240220/p32#a240220p32)
+ - [SwitchBot Mini Robot Vacuum K10+ review: Small, but helpful, robot vacuum with incoming Matter support](https://appleinsider.com/articles/24/02/21/switchbot-mini-robot-vacuum-k10-review-small-but-helpful-robot-vacuum-with-incoming-matter-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
