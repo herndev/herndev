@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Intel Foundry Services SVP and GM Stu Pann on the company&#39;s goal of becoming the world&#39;s second-largest foundry by 2030, making Arm chips, and more &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240221/p6#a240221p6)
  - [The iPhone 15’s battery health is better than any iPhone before, and it’s catching up to Android](https://www.androidauthority.com/apple-iphone-15-battery-health-3417348/)
- - [You can now use your voice to launch Galaxy AI features](https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/)
- - [New Google TV feature makes it faster to discover and reach content](https://www.androidauthority.com/google-tv-new-quick-access-row-3417351/)<!-- TECH:END -->
+ - [You can now use your voice to launch Galaxy AI features](https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
