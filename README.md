@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some ByteDance executives expressed concerns over running the video editing app CapCut from China given the political scrutiny facing TikTok in the US &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240221/p2#a240221p2)
- - [The Google Assistant Android app is now Gemini by default](https://www.androidauthority.com/google-gemini-replacing-assistant-android-app-3417330/)
- - [Meta and Microsoft are lobbying EU regulators to reject Apple&#39;s proposed App Store changes to comply with the DMA, saying Apple&#39;s plans don&#39;t go far enough &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240221/p1#a240221p1)<!-- TECH:END -->
+ - [The iPhone 15’s battery health is better than any iPhone before, and it’s catching up to Android](https://www.androidauthority.com/apple-iphone-15-battery-health-3417348/)
+ - [You can now use your voice to launch Galaxy AI features](https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/)
+ - [New Google TV feature makes it faster to discover and reach content](https://www.androidauthority.com/google-tv-new-quick-access-row-3417351/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
