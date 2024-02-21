@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout’s Scrappy Survivors deck takes Magic’s Commander format to new heights](https://www.polygon.com/24078201/mtg-fallout-scrappy-survivors-decklist-reveal)
- - [Helldivers 2 will soon kick AFK squatters](https://www.polygon.com/24079025/helldivers-2-servers-afk-squatters-queue)
- - [The CPU Cooler Wars saga continues, as Cooler Master sues a bunch of other manufacturers over all-in-one patent infringements](https://www.pcgamer.com/the-cpu-cooler-wars-saga-continues-as-cooler-master-sues-a-bunch-of-other-manufacturers-over-all-in-one-patent-infringements)<!-- GAME:END -->
+ - [Surprise! 2024&#39;s Most Intriguing Tactics RPG Has A Demo Out Now](https://kotaku.com/unicorn-overlord-nintendo-switch-demo-available-now-1851274097)
+ - [Watermelon puzzler Suika Game gets multiplayer mode, available now](https://www.polygon.com/24079080/suika-game-multiplayer-mode-paid-dlc)
+ - [Nintendo Direct Just Confirmed The Worst-Kept Secret In Games](https://kotaku.com/nintendo-switch-xbox-games-grounded-pentiment-1851274086)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
