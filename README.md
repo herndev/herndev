@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk says the first Neuralink patient can already use brain implant to control a mouse cursor](https://www.pcgamer.com/elon-musk-says-the-first-neuralink-patient-can-already-use-brain-implant-to-control-a-mouse-cursor)
- - [Craft yourself a Fae realm escape in base-building survival game Nightingale](https://www.pcgamer.com/craft-yourself-a-fae-realm-escape-in-base-building-survival-game-nightingale)
- - [How to unlock the Gold Saucer in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24067651/gold-saucer-unlock-side-quest-location-manderville-mgp)<!-- GAME:END -->
+ - [This real-world Angel Lamp from Alan Wake 2 actually works to make you feel like you&#39;re stuck in a horror novel of your own creation](https://www.pcgamer.com/this-real-world-angel-lamp-from-alan-wake-2-actually-works-to-make-you-feel-like-youre-stuck-in-a-horror-novel-of-your-own-creation)
+ - [How to get stone blocks in Nightingale](https://www.pcgamer.com/nightingale-stone-block)
+ - [Patch 6 of Baldur&#39;s Gate 3 opens a Pandora&#39;s box of glitches for some players, while a hotfix leaves modders scratching their heads: &#39;the .exe got completely reorganised again&#39;](https://www.pcgamer.com/patch-6-of-baldurs-gate-3-opens-a-pandoras-box-of-glitches-for-some-players-while-a-hotfix-leaves-modders-scratching-their-heads-the-exe-got-completely-reorganised-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
