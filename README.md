@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - ⏩ [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
+ - 💣 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)
+ - ⏩ [Only fans dad](http://9gag.com/gag/ap9yD19)
+ - 👉 [You can see tomorrow through this tube](http://9gag.com/gag/a1PzDqY)<!-- MEMES:END -->
 
 ---
 
