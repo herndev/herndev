@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Platforms, New Players: Four Fan-Favorite Xbox Games Coming to Nintendo Switch and Sony Platforms](https://news.xbox.com/en-us/2024/02/21/new-platforms-new-players-xbox-games-switch-playstation/)
- - [It took a game about poker to help me realise I actually like deckbuilders](https://www.pcgamer.com/it-took-a-game-about-poker-to-help-me-realise-i-actually-like-deckbuilders)
- - [11 Years Later, The Most Memeworthy Metal Gear Game Still Holds Up](https://kotaku.com/metal-gear-rising-revengeance-xbox-series-x-s-pc-kojima-1851274738)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240219-1730&rpar;](https://news.xbox.com/en-us/2024/02/21/xbox-insider-release-notes-alpha-2403-240219-1730/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240219-2200&rpar;](https://news.xbox.com/en-us/2024/02/21/xbox-insider-release-notes-alpha-skip-ahead-2408-240219-2200/)
+ - [Breaking down and obsessing over Shadow of the Erdtree’s new characters](https://www.polygon.com/24079155/elden-ring-shadow-erdtree-trailer-breakdown-messmer-miquella-new-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
