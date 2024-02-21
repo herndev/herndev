@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, a game that lets me time travel to medieval Europe with an AK-47 and a pickup truck](https://www.pcgamer.com/finally-a-game-that-lets-me-time-travel-to-medieval-europe-with-an-ak-47-and-a-pickup-truck)
- - [Elden Ring: Shadow of the Erdtree DLC will be officially revealed in hours](https://www.pcgamer.com/elden-ring-shadow-of-the-erdtree-dlc-will-be-officially-revealed-in-hours)
- - [Elden Ring: Shadow of the Erdtree’s first trailer drops Wednesday](https://www.polygon.com/23991138/elden-ring-shadow-of-the-erdtree-trailer-release-date-dlc)<!-- GAME:END -->
+ - [Magic’s first Fallout Commander decklist preview is for Scrappy Survivors](https://www.polygon.com/24072016/fallout-magic-the-gathering-scrappy-survivors-decklist-reveal)
+ - [Happy 10th Anniversary: Xbox Insider Program](https://news.xbox.com/en-us/2024/02/20/happy-10th-anniversary-xbox-insider-program/)
+ - [DPS heroes rule Overwatch 2 now, but Blizzard isn&#39;t ready to nerf their controversial new ability quite yet](https://www.pcgamer.com/overwatch-2-season-9-patch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
