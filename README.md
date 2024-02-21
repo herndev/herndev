@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise! 2024&#39;s Most Intriguing Tactics RPG Has A Demo Out Now](https://kotaku.com/unicorn-overlord-nintendo-switch-demo-available-now-1851274097)
- - [Watermelon puzzler Suika Game gets multiplayer mode, available now](https://www.polygon.com/24079080/suika-game-multiplayer-mode-paid-dlc)
- - [Nintendo Direct Just Confirmed The Worst-Kept Secret In Games](https://kotaku.com/nintendo-switch-xbox-games-grounded-pentiment-1851274086)<!-- GAME:END -->
+ - [How MLB The Show 24 Continues to Tell Important Stories From the Negro Leagues](https://news.xbox.com/en-us/2024/02/21/mlb-the-show-24-negro-leagues/)
+ - [Tekken 8 director is looking into a crackdown on rage quitters: &#39;You know, obviously we want to ban these people from the game&#39;](https://www.pcgamer.com/tekken-8-director-is-looking-into-a-crackdown-on-rage-quitters-you-know-obviously-we-want-to-ban-these-people-from-the-game)
+ - [Elden Ring: Shadow Of The Erdtree DLC Takes Us To A Shadowland This June](https://kotaku.com/elden-ring-shadow-of-the-erdtree-dlc-trailer-release-1851274342)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
