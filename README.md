@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, February 21](https://www.pcgamer.com/wordle-answer-today-february-21-2024)
  - [Magic’s first Fallout Commander decklist preview is for Scrappy Survivors](https://www.polygon.com/24072016/fallout-magic-the-gathering-scrappy-survivors-decklist-reveal)
- - [Happy 10th Anniversary: Xbox Insider Program](https://news.xbox.com/en-us/2024/02/20/happy-10th-anniversary-xbox-insider-program/)
- - [DPS heroes rule Overwatch 2 now, but Blizzard isn&#39;t ready to nerf their controversial new ability quite yet](https://www.pcgamer.com/overwatch-2-season-9-patch)<!-- GAME:END -->
+ - [Happy 10th Anniversary: Xbox Insider Program](https://news.xbox.com/en-us/2024/02/20/happy-10th-anniversary-xbox-insider-program/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
