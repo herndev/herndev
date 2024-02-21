@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the Best drug dealer scenes from movie](http://9gag.com/gag/a3Z9858)
- - ⏩ [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 👉 [Lol.](http://9gag.com/gag/aGE3nV6)<!-- MEMES:END -->
+ - 💣 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - ⏩ [Good guy](http://9gag.com/gag/a04AXbv)
+ - 👉 [Hmm......](http://9gag.com/gag/axoxbnY)<!-- MEMES:END -->
 
 ---
 
