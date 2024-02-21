@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Montenegro court rules that Terraform co-founder Do Kwon should be extradited to the US for a trial; both the US and South Korea have sought to prosecute him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240221/p38#a240221p38)
- - [Source: Magic, which recently raised $117M and says its AI coding assistant has a larger context window than rivals&#39;, may have made an AI reasoning breakthrough &lpar;The Information&rpar;](http://www.techmeme.com/240221/p37#a240221p37)
- - [Apple designed its new Sports app to be fast and simple](https://appleinsider.com/articles/24/02/21/apple-designed-its-new-sports-app-to-be-fast-and-simple?utm_medium=rss)<!-- TECH:END -->
+ - [Google says it&#39;s working to fix Gemini&#39;s &quot;inaccuracies in some historical image generation depictions&quot;, after some users complained about them &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240221/p40#a240221p40)
+ - [No more free kicks: T-Mobile ends MLS Season Pass giveaway](https://www.androidauthority.com/tmobile-mls-pass-3417746/)
+ - [Apple buffs up iMessage security with quantum computer-proof encryption](https://www.androidauthority.com/apple-imessage-new-encryption-protocol-3417772/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
