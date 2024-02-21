@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle says it will no longer mint USDC tokens on the Tron blockchain, effective immediately, to &quot;ensure that USDC remains trusted, transparent, and safe&quot; &lpar;Tom Wilson/Reuters&rpar;](http://www.techmeme.com/240220/p28#a240220p28)
- - [A look at TDCommons, a website launched by Google in 2015 that publishes technical details of ideas from companies and individuals to head off patent disputes &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240220/p27#a240220p27)
- - [Yes, Amazon gift bags have handles now](https://www.theverge.com/2024/2/20/24078688/amazon-gift-bags-handles)<!-- TECH:END -->
+ - [Scale AI signs a one-year contract with the Pentagon to provide a means to test and evaluate LLMs that can be used for military planning and decision-making &lpar;Brandi Vincent/DefenseScoop&rpar;](http://www.techmeme.com/240220/p30#a240220p30)
+ - [Galaxy AI will soon power ‘intelligent health experiences’ on Samsung’s Wearables](https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/)
+ - [Indonesia issues a regulation requiring digital platforms, including Facebook and Google, to pay media outlets that provide them with content &lpar;Reuters&rpar;](http://www.techmeme.com/240220/p29#a240220p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
