@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)
- - [15 Elden Ring: Shadow Of The Erdtree Trailer Details You Might Have Missed](https://kotaku.com/elden-ring-shadow-of-the-erdtree-dlc-trailer-details-1851275252)
- - [Even Lego Fortnite loves a fishing minigame](https://www.polygon.com/24079480/lego-fortnite-fishing-minigame)<!-- GAME:END -->
+ - [How to carry progress from the Final Fantasy 7 Rebirth demo to the main game](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24064763/demo-length-progress-carry-over-download)
+ - [The Star Wars: Battlefront Classic Collection is coming to Steam in March](https://www.pcgamer.com/the-star-wars-battlefront-classic-collection-is-coming-to-steam-in-march)
+ - [Shadow of the Erdtree is the only DLC planned for Elden Ring, but &#39;there might be more ideas in the future,&#39; Miyazaki says](https://www.pcgamer.com/elden-ring-shadow-of-the-erdtree-dlc-only-planned-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
