@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemma: because Google doesn’t want to give away Gemini yet](https://www.theverge.com/2024/2/21/24078610/google-gemma-gemini-small-ai-model-open-source)
- - [Nintendo Direct February 2024: all the news and trailers](https://www.theverge.com/24078575/nintendo-direct-february-2024-xbox-trailers-news)
- - [‘Burning Man for rednecks’: inside King of the Hammers, the gnarliest off-road race of the year](https://www.theverge.com/24076474/king-of-the-hammers-offroad-race-ev-rock-climb)<!-- TECH:END -->
+ - [Apple is hardening iMessage encryption now to protect it from a threat that doesn&#39;t exist yet](https://appleinsider.com/articles/24/02/21/apple-is-hardening-imessage-encryption-now-to-protect-it-from-a-threat-that-doesnt-exist-yet?utm_medium=rss)
+ - [Bluetti’s fridge, freezer, and ice-making combo can go three days on solar charge](https://www.theverge.com/24078952/bluetti-swapsolar-fridge-comparison-specs-price)
+ - [The Echo Hub is Alexa’s missing piece](https://www.theverge.com/24078558/echo-hub-review-alexa-amazon-smart-control-panel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
