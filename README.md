@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe this fits?](http://9gag.com/gag/aA0W49L)
- - ⏩ [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
+ - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - ⏩ [Good guy](http://9gag.com/gag/a04AXbv)
+ - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
 
 ---
 
