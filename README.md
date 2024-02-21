@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How MLB The Show 24 Continues to Tell Important Stories From the Negro Leagues](https://news.xbox.com/en-us/2024/02/21/mlb-the-show-24-negro-leagues/)
- - [Tekken 8 director is looking into a crackdown on rage quitters: &#39;You know, obviously we want to ban these people from the game&#39;](https://www.pcgamer.com/tekken-8-director-is-looking-into-a-crackdown-on-rage-quitters-you-know-obviously-we-want-to-ban-these-people-from-the-game)
- - [Elden Ring: Shadow Of The Erdtree DLC Takes Us To A Shadowland This June](https://kotaku.com/elden-ring-shadow-of-the-erdtree-dlc-trailer-release-1851274342)<!-- GAME:END -->
+ - [Nightingale&#39;s tutorial worlds are full of helpful rewards if you don&#39;t blast through the objectives](https://www.pcgamer.com/nightingales-tutorial-worlds-are-full-of-helpful-rewards-if-you-dont-blast-through-the-objectives)
+ - [PlayStation Pulse Elite Headset Offers Some Serious Bang For Your Buck](https://kotaku.com/playstation-pulse-elite-headset-ps5-review-sony-1851272343)
+ - [Bohemia Interactive reveals plans for DayZ in 2024, building toward &#39;a colossal milestone and an exhilarating moment you won&#39;t want to miss&#39;](https://www.pcgamer.com/bohemia-interactive-reveals-plans-for-dayz-in-2024-building-toward-a-colossal-milestone-and-an-exhilarating-moment-you-wont-want-to-miss)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
