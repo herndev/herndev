@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who had better Avatar villains: The Last Airbender or Legend of Korra?](https://www.polygon.com/24078305/avatar-last-airbender-korra-villains-bad-guys)
- - [Here’s where to pre-order Elden Ring’s first piece of DLC](https://www.polygon.com/24079161/elden-ring-shadow-erdtree-preorder-guide-standard-deluxe-premium-collectors-edition)
- - [Everything We Know About Elden Ring&#39;s Shadow Of The Erdtree DLC](https://kotaku.com/elden-ring-shadow-erdtree-dlc-release-date-trailer-1851275659)<!-- GAME:END -->
+ - [Malenia was only the beginning: Shadow of the Erdtree will have optional bosses &#39;tuned in a similar way&#39; to Elden Ring&#39;s toughest foe](https://www.pcgamer.com/elden-ring-shadow-of-the-erdtree-optional-boss-malenia)
+ - [The first Borderlands movie trailer is here, and it looks—drumroll—pretty alright](https://www.pcgamer.com/borderlands-movie-trailer)
+ - [Netflix’s live-action Avatar isn’t the only Last Airbender project that’s on the way](https://www.polygon.com/24075133/avatar-last-airbender-animated-sequel-creators-netflix-live-action)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
