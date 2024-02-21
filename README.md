@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel&#39;s Direct Connect announcements: IFS rebranded to Intel Foundry, &quot;systems foundry&quot; era, 18A-P, 14A, and Hybrid Bonding, five nodes in four years, and more &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240221/p34#a240221p34)
- - [Comfort isn’t just a Vision Pro problem — it’s a wearable one](https://www.theverge.com/24078522/apple-vision-pro-wearables-comfort)
- - [Q&amp;A with Intel CEO Pat Gelsinger on Intel Foundry, IDM 2.0, working with Amazon, packaging, 18A, innovation in Moore&#39;s Law, reluctant customers, AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240221/p33#a240221p33)<!-- TECH:END -->
+ - [Experience MLS on Apple Vision Pro, including a 3D special](https://appleinsider.com/articles/24/02/21/experience-mls-on-apple-vision-pro-including-a-3d-special?utm_medium=rss)
+ - [The LTE-enabled Apple Watch Series 8 is nearly half off](https://www.theverge.com/2024/2/21/24078171/apple-watch-series-8-meross-smart-plug-mini-deal-sale)
+ - [OnePlus Watch 2 FCC filing suggests there won’t be LTE support](https://www.androidauthority.com/oneplus-watch-2-missing-lte-support-3417676/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
