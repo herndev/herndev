@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I bet she&#39;s saying this to herself infront of the mirror right now.](http://9gag.com/gag/aMEREqx)
- - ⏩ [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - ⏩ [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 👉 [Good guy](http://9gag.com/gag/a04AXbv)<!-- MEMES:END -->
 
 ---
 
