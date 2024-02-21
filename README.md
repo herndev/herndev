@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - ⏩ [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 👉 [Good guy](http://9gag.com/gag/a04AXbv)<!-- MEMES:END -->
+ - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - ⏩ [Women](http://9gag.com/gag/aEqrMWM)
+ - 👉 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)<!-- MEMES:END -->
 
 ---
 
