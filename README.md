@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
- - ⏩ [Lol.](http://9gag.com/gag/aGE3nV6)
- - 👉 [Number one](http://9gag.com/gag/a6qvX8q)<!-- MEMES:END -->
+ - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - ⏩ [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
+ - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
 
 ---
 
