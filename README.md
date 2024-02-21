@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is hardening iMessage encryption now to protect it from a threat that doesn&#39;t exist yet](https://appleinsider.com/articles/24/02/21/apple-is-hardening-imessage-encryption-now-to-protect-it-from-a-threat-that-doesnt-exist-yet?utm_medium=rss)
- - [Bluetti’s fridge, freezer, and ice-making combo can go three days on solar charge](https://www.theverge.com/24078952/bluetti-swapsolar-fridge-comparison-specs-price)
- - [The Echo Hub is Alexa’s missing piece](https://www.theverge.com/24078558/echo-hub-review-alexa-amazon-smart-control-panel)<!-- TECH:END -->
+ - [From lists to block quotes: WhatsApp finally brings new formatting options](https://www.androidauthority.com/whatsapp-new-formatting-options-3416678/)
+ - [WhatsApp adds new text formatting options to improve messaging](https://www.theverge.com/2024/2/21/24078957/whatsapp-text-formatting-shortcuts-bullet-lists-block-quote-highlight)
+ - [Chipmaker Astera Labs, which offers cloud and AI connectivity hardware, files for a US IPO, reporting 2023 revenue up 44.9% YoY to $115.8M and a $26.3M net loss &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240221/p26#a240221p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
