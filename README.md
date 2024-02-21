@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240219-1730&rpar;](https://news.xbox.com/en-us/2024/02/21/xbox-insider-release-notes-alpha-2403-240219-1730/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240219-2200&rpar;](https://news.xbox.com/en-us/2024/02/21/xbox-insider-release-notes-alpha-skip-ahead-2408-240219-2200/)
- - [Breaking down and obsessing over Shadow of the Erdtree’s new characters](https://www.polygon.com/24079155/elden-ring-shadow-erdtree-trailer-breakdown-messmer-miquella-new-characters)<!-- GAME:END -->
+ - [Who had better Avatar villains: The Last Airbender or Legend of Korra?](https://www.polygon.com/24078305/avatar-last-airbender-korra-villains-bad-guys)
+ - [Here’s where to pre-order Elden Ring’s first piece of DLC](https://www.polygon.com/24079161/elden-ring-shadow-erdtree-preorder-guide-standard-deluxe-premium-collectors-edition)
+ - [Everything We Know About Elden Ring&#39;s Shadow Of The Erdtree DLC](https://kotaku.com/elden-ring-shadow-erdtree-dlc-release-date-trailer-1851275659)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
