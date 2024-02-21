@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
- - ⏩ [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)
- - 👉 [HAAANS?!](http://9gag.com/gag/aPgNPmg)<!-- MEMES:END -->
+ - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
+ - ⏩ [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
 
 ---
 
