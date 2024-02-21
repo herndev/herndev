@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - ⏩ [Lol.](http://9gag.com/gag/aGE3nV6)
- - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
+ - 💣 [Game of horrors](http://9gag.com/gag/aMERd6P)
+ - ⏩ [British polis](http://9gag.com/gag/aeQo4q5)
+ - 👉 [She must be really really goood](http://9gag.com/gag/aOxgDdE)<!-- MEMES:END -->
 
 ---
 
