@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says the iPhone 15’s battery got better — but won’t say exactly how](https://www.theverge.com/2024/2/21/24078576/apple-iphone-15-pro-max-battery-health-charging-ios-17-4)
- - [Nvidia reports Q4 revenue up 265% YoY to $22.1B, vs. $20.62B est., Data Center revenue up 409% to $18.4B, and FY 2024 revenue up 126% to $60.9B; NVDA jumps 6%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240221/p42#a240221p42)
- - [Best Lenovo Laptop Deals: Save Over $1,600 on Gaming, Work and Day-to-Day Laptops     - CNET](https://www.cnet.com/deals/best-lenovo-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android makes it harder for Samsung to keep avoiding seamless updates](https://www.androidauthority.com/android-seamless-update-samsung-3417839/)
+ - [Framework is selling a cheap modular laptop](https://www.theverge.com/2024/2/21/24079454/framework-laptop-16-shipping-new-13-inch-model)
+ - [No, smartwatches and smart rings can’t measure blood glucose yet](https://www.theverge.com/2024/2/21/24079495/smartwatch-smart-ring-blood-glucose-monitoring-diabetes-fda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
