@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A social experiment - A woman posing as a Muslim woman walks with a Frenchman as a married couple in a neighborhood with a Muslim majority in France. She is interrogated by the rest of the Muslims because Islam prohibits marriage between a Muslim woman and an infidel](http://9gag.com/gag/anzp29b)
- - ⏩ [Imagine getting interrogated for doing EXACTLY what you are hired to do.](http://9gag.com/gag/aL1Y42P)
- - 👉 [Is the media TRYING to lose trust?](http://9gag.com/gag/aGE3BYw)<!-- MEMES:END -->
+ - 💣 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
+ - ⏩ [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)
+ - 👉 [HAAANS?!](http://9gag.com/gag/aPgNPmg)<!-- MEMES:END -->
 
 ---
 
