@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only fans dad](http://9gag.com/gag/ap9yD19)
- - ⏩ [Anti-immigration rally in Japan against Kurdish migrants](http://9gag.com/gag/a1PzDKw)
- - 👉 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)<!-- MEMES:END -->
+ - 💣 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - ⏩ [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
 
 ---
 
