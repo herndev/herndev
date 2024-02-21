@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini app finally gets a productivity feature it was sorely missing](https://www.androidauthority.com/google-gemini-reminders-3417697/)
- - [Waymo’s robotaxi expansion plans in California put on hold by regulators](https://www.theverge.com/2024/2/21/24079334/waymo-robotaxi-expansion-application-hold-cpuc)
- - [Why Beyoncé’s ‘Texas Hold ’Em’ Has Taken Over TikTok](https://www.wired.com/story/beyonce-texas-hold-em-tiktok-dance-trend/)<!-- TECH:END -->
+ - [A Montenegro court rules that Terraform co-founder Do Kwon should be extradited to the US for a trial; both the US and South Korea have sought to prosecute him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240221/p38#a240221p38)
+ - [Source: Magic, which recently raised $117M and says its AI coding assistant has a larger context window than rivals&#39;, may have made an AI reasoning breakthrough &lpar;The Information&rpar;](http://www.techmeme.com/240221/p37#a240221p37)
+ - [Apple designed its new Sports app to be fast and simple](https://appleinsider.com/articles/24/02/21/apple-designed-its-new-sports-app-to-be-fast-and-simple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
