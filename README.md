@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experience MLS on Apple Vision Pro, including a 3D special](https://appleinsider.com/articles/24/02/21/experience-mls-on-apple-vision-pro-including-a-3d-special?utm_medium=rss)
- - [The LTE-enabled Apple Watch Series 8 is nearly half off](https://www.theverge.com/2024/2/21/24078171/apple-watch-series-8-meross-smart-plug-mini-deal-sale)
- - [OnePlus Watch 2 FCC filing suggests there won’t be LTE support](https://www.androidauthority.com/oneplus-watch-2-missing-lte-support-3417676/)<!-- TECH:END -->
+ - [Gemini app finally gets a productivity feature it was sorely missing](https://www.androidauthority.com/google-gemini-reminders-3417697/)
+ - [Waymo’s robotaxi expansion plans in California put on hold by regulators](https://www.theverge.com/2024/2/21/24079334/waymo-robotaxi-expansion-application-hold-cpuc)
+ - [Why Beyoncé’s ‘Texas Hold ’Em’ Has Taken Over TikTok](https://www.wired.com/story/beyonce-texas-hold-em-tiktok-dance-trend/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
