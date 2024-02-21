@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: some ByteDance executives expressed concerns over running the video editing app CapCut from China given the political scrutiny facing TikTok in the US &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240221/p2#a240221p2)
  - [The Google Assistant Android app is now Gemini by default](https://www.androidauthority.com/google-gemini-replacing-assistant-android-app-3417330/)
- - [Meta and Microsoft are lobbying EU regulators to reject Apple&#39;s proposed App Store changes to comply with the DMA, saying Apple&#39;s plans don&#39;t go far enough &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240221/p1#a240221p1)
- - [Switching to electric vehicles would be fantastic for kids’ health](https://www.theverge.com/2024/2/21/24074895/electric-vehicle-children-health-effect-american-lung-association)<!-- TECH:END -->
+ - [Meta and Microsoft are lobbying EU regulators to reject Apple&#39;s proposed App Store changes to comply with the DMA, saying Apple&#39;s plans don&#39;t go far enough &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240221/p1#a240221p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
