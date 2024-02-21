@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of ElevenLabs, whose AI voice cloning tech is being used to spoof politicians; five of ElevenLabs&#39; 40 employees are dedicated to trust and safety &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/240221/p7#a240221p7)
- - [Android 15 Developer Preview Is Now Available. What to Know About the First Release     - CNET](https://www.cnet.com/tech/mobile/android-15-developer-preview-is-now-available-what-to-know-about-the-first-release/#ftag=CAD590a51e)
- - [Nothing says the Phone 2a is more powerful, lasts longer than Phone 1](https://www.androidauthority.com/nothing-phone-2a-more-powerful-efficient-nothing-phone-1-3417369/)<!-- TECH:END -->
+ - [Apple says the iPhone 15 lineup can retain 80% of its original battery capacity after 1,000 charge cycles, up from its original estimate of 500 charge cycles &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240221/p9#a240221p9)
+ - [Filing: Samsung sold 1.58M ASML shares, or 0.4% of ASML, worth ~$930M in September 2023, reducing its stake to zero, as Samsung looks to new areas of chipmaking &lpar;Bloomberg&rpar;](http://www.techmeme.com/240221/p8#a240221p8)
+ - [MWC 2024: Your Insider&#39;s Guide to the World&#39;s Biggest Phone Tech Event     - CNET](https://www.cnet.com/tech/mobile/mwc-2024-your-insiders-guide-to-the-worlds-biggest-phone-tech-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
