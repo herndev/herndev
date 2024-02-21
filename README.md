@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Intel Foundry Services SVP and GM Stu Pann on the company&#39;s goal of becoming the world&#39;s second-largest foundry by 2030, making Arm chips, and more &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240221/p6#a240221p6)
- - [The iPhone 15’s battery health is better than any iPhone before, and it’s catching up to Android](https://www.androidauthority.com/apple-iphone-15-battery-health-3417348/)
- - [You can now use your voice to launch Galaxy AI features](https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/)<!-- TECH:END -->
+ - [A profile of ElevenLabs, whose AI voice cloning tech is being used to spoof politicians; five of ElevenLabs&#39; 40 employees are dedicated to trust and safety &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/240221/p7#a240221p7)
+ - [Android 15 Developer Preview Is Now Available. What to Know About the First Release     - CNET](https://www.cnet.com/tech/mobile/android-15-developer-preview-is-now-available-what-to-know-about-the-first-release/#ftag=CAD590a51e)
+ - [Nothing says the Phone 2a is more powerful, lasts longer than Phone 1](https://www.androidauthority.com/nothing-phone-2a-more-powerful-efficient-nothing-phone-1-3417369/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
