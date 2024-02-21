@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Game boy](http://9gag.com/gag/az2NGXK)
- - ⏩ [She must be really really goood](http://9gag.com/gag/aOxgDdE)
- - 👉 [The answer is obvious](http://9gag.com/gag/adPZQX2)<!-- MEMES:END -->
+ - 💣 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
+ - ⏩ [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
 
 ---
 
