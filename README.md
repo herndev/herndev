@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)
- - ⏩ [Only fans dad](http://9gag.com/gag/ap9yD19)
- - 👉 [You can see tomorrow through this tube](http://9gag.com/gag/a1PzDqY)<!-- MEMES:END -->
+ - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - ⏩ [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 👉 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)<!-- MEMES:END -->
 
 ---
 
