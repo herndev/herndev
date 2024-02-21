@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
- - ⏩ [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
+ - 💣 [Maybe this fits?](http://9gag.com/gag/aA0W49L)
+ - ⏩ [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
 
 ---
 
