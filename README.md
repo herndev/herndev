@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - ⏩ [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
- - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
+ - 💣 [You are f**ked](http://9gag.com/gag/a6qvDom)
+ - ⏩ [Friendship of men](http://9gag.com/gag/aYV8EOm)
+ - 👉 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)<!-- MEMES:END -->
 
 ---
 
