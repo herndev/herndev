@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Game of horrors](http://9gag.com/gag/aMERd6P)
- - ⏩ [British polis](http://9gag.com/gag/aeQo4q5)
- - 👉 [She must be really really goood](http://9gag.com/gag/aOxgDdE)<!-- MEMES:END -->
+ - 💣 [A social experiment - A woman posing as a Muslim woman walks with a Frenchman as a married couple in a neighborhood with a Muslim majority in France. She is interrogated by the rest of the Muslims because Islam prohibits marriage between a Muslim woman and an infidel](http://9gag.com/gag/anzp29b)
+ - ⏩ [Imagine getting interrogated for doing EXACTLY what you are hired to do.](http://9gag.com/gag/aL1Y42P)
+ - 👉 [Is the media TRYING to lose trust?](http://9gag.com/gag/aGE3BYw)<!-- MEMES:END -->
 
 ---
 
