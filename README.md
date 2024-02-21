@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
- - ⏩ [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
+ - 💣 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - ⏩ [Hmm......](http://9gag.com/gag/axoxbnY)
+ - 👉 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)<!-- MEMES:END -->
 
 ---
 
