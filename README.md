@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This real-world Angel Lamp from Alan Wake 2 actually works to make you feel like you&#39;re stuck in a horror novel of your own creation](https://www.pcgamer.com/this-real-world-angel-lamp-from-alan-wake-2-actually-works-to-make-you-feel-like-youre-stuck-in-a-horror-novel-of-your-own-creation)
- - [How to get stone blocks in Nightingale](https://www.pcgamer.com/nightingale-stone-block)
- - [Patch 6 of Baldur&#39;s Gate 3 opens a Pandora&#39;s box of glitches for some players, while a hotfix leaves modders scratching their heads: &#39;the .exe got completely reorganised again&#39;](https://www.pcgamer.com/patch-6-of-baldurs-gate-3-opens-a-pandoras-box-of-glitches-for-some-players-while-a-hotfix-leaves-modders-scratching-their-heads-the-exe-got-completely-reorganised-again)<!-- GAME:END -->
+ - [Fallout’s Scrappy Survivors deck takes Magic’s Commander format to new heights](https://www.polygon.com/24078201/mtg-fallout-scrappy-survivors-decklist-reveal)
+ - [Helldivers 2 will soon kick AFK squatters](https://www.polygon.com/24079025/helldivers-2-servers-afk-squatters-queue)
+ - [The CPU Cooler Wars saga continues, as Cooler Master sues a bunch of other manufacturers over all-in-one patent infringements](https://www.pcgamer.com/the-cpu-cooler-wars-saga-continues-as-cooler-master-sues-a-bunch-of-other-manufacturers-over-all-in-one-patent-infringements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
