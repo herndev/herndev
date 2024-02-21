@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden signs an EO to increase the cyber defenses of maritime ports via additional Coast Guard powers, invest $20B in infrastructure over five years, and more &lpar;Christian Vasquez/CyberScoop&rpar;](http://www.techmeme.com/240221/p13#a240221p13)
- - [Mortgage Refinance Rates for Feb. 21, 2024: Rates Are Mixed     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-for-feb-21-2024-rates-are-mixed/#ftag=CAD590a51e)
- - [Mortgage Interest Rates Today for Feb. 21, 2024: Rates Move Up for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-feb-21-2024-rates-move-up-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Gemma: because Google doesn’t want to give away Gemini yet](https://www.theverge.com/2024/2/21/24078610/google-gemma-gemini-small-ai-model-open-source)
+ - [Nintendo Direct February 2024: all the news and trailers](https://www.theverge.com/24078575/nintendo-direct-february-2024-xbox-trailers-news)
+ - [‘Burning Man for rednecks’: inside King of the Hammers, the gnarliest off-road race of the year](https://www.theverge.com/24076474/king-of-the-hammers-offroad-race-ev-rock-climb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
