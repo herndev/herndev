@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightingale&#39;s tutorial worlds are full of helpful rewards if you don&#39;t blast through the objectives](https://www.pcgamer.com/nightingales-tutorial-worlds-are-full-of-helpful-rewards-if-you-dont-blast-through-the-objectives)
- - [PlayStation Pulse Elite Headset Offers Some Serious Bang For Your Buck](https://kotaku.com/playstation-pulse-elite-headset-ps5-review-sony-1851272343)
- - [Bohemia Interactive reveals plans for DayZ in 2024, building toward &#39;a colossal milestone and an exhilarating moment you won&#39;t want to miss&#39;](https://www.pcgamer.com/bohemia-interactive-reveals-plans-for-dayz-in-2024-building-toward-a-colossal-milestone-and-an-exhilarating-moment-you-wont-want-to-miss)<!-- GAME:END -->
+ - [New Platforms, New Players: Four Fan-Favorite Xbox Games Coming to Nintendo Switch and Sony Platforms](https://news.xbox.com/en-us/2024/02/21/new-platforms-new-players-xbox-games-switch-playstation/)
+ - [It took a game about poker to help me realise I actually like deckbuilders](https://www.pcgamer.com/it-took-a-game-about-poker-to-help-me-realise-i-actually-like-deckbuilders)
+ - [11 Years Later, The Most Memeworthy Metal Gear Game Still Holds Up](https://kotaku.com/metal-gear-rising-revengeance-xbox-series-x-s-pc-kojima-1851274738)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
