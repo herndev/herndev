@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at TDCommons, a site Google launched in 2015 that publishes technical details of ideas from companies and individuals, to block future patent disputes &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240220/p27#a240220p27)
- - [Yes, Amazon gift bags have handles now](https://www.theverge.com/2024/2/20/24078688/amazon-gift-bags-handles)
- - [Best Internet Providers in Frederick, Maryland     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-frederick-md/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Circle says it will no longer mint USDC tokens on the Tron blockchain, effective immediately, to &quot;ensure that USDC remains trusted, transparent, and safe&quot; &lpar;Tom Wilson/Reuters&rpar;](http://www.techmeme.com/240220/p28#a240220p28)
+ - [A look at TDCommons, a website launched by Google in 2015 that publishes technical details of ideas from companies and individuals to head off patent disputes &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240220/p27#a240220p27)
+ - [Yes, Amazon gift bags have handles now](https://www.theverge.com/2024/2/20/24078688/amazon-gift-bags-handles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
