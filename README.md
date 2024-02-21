@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says the iPhone 15 lineup can retain 80% of its original battery capacity after 1,000 charge cycles, up from its original estimate of 500 charge cycles &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240221/p9#a240221p9)
- - [Filing: Samsung sold 1.58M ASML shares, or 0.4% of ASML, worth ~$930M in September 2023, reducing its stake to zero, as Samsung looks to new areas of chipmaking &lpar;Bloomberg&rpar;](http://www.techmeme.com/240221/p8#a240221p8)
- - [MWC 2024: Your Insider&#39;s Guide to the World&#39;s Biggest Phone Tech Event     - CNET](https://www.cnet.com/tech/mobile/mwc-2024-your-insiders-guide-to-the-worlds-biggest-phone-tech-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Biden signs an EO to increase the cyber defenses of maritime ports via additional Coast Guard powers, invest $20B in infrastructure over five years, and more &lpar;Christian Vasquez/CyberScoop&rpar;](http://www.techmeme.com/240221/p13#a240221p13)
+ - [Mortgage Refinance Rates for Feb. 21, 2024: Rates Are Mixed     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-for-feb-21-2024-rates-are-mixed/#ftag=CAD590a51e)
+ - [Mortgage Interest Rates Today for Feb. 21, 2024: Rates Move Up for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-feb-21-2024-rates-move-up-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
