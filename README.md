@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
- - ⏩ [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
- - 👉 [Thank you for your service](http://9gag.com/gag/a4oeAZy)<!-- MEMES:END -->
+ - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - ⏩ [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 👉 [There\u2019s a glitch in the matrix](http://9gag.com/gag/a8qP2g1)<!-- MEMES:END -->
 
 ---
 
