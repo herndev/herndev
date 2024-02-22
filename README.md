@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld has achieved more players in 2 months than Elden Ring and Hogwarts Legacy managed in a year](https://www.pcgamer.com/palworld-has-achieved-more-players-in-2-months-than-elden-ring-and-hogwarts-legacy-managed-in-a-year)
- - [MOBA Brought Back To Life, Only To Be Killed Again](https://kotaku.com/paragon-overprime-shutting-down-epic-moba-netmarble-1851279821)
- - [We need to talk about the bonkers backstories of Madame Web’s Spider-Women](https://www.polygon.com/24079492/who-are-the-spider-women-in-madame-web)<!-- GAME:END -->
+ - [Yes, Team Fortress 2 players recently did a big trade involving an IRL dog and, no, they&#39;re not monsters and it&#39;s quite above-board and sweet actually](https://www.pcgamer.com/yes-team-fortress-2-players-recently-did-a-big-trade-involving-an-irl-dog-and-no-theyre-not-monsters-and-its-quite-above-board-and-sweet-actually)
+ - [Baldur’s Gate 3 will get official mod support, says Larian Studios](https://www.polygon.com/24080445/baldurs-gate-3-hotfix-modding-official-mod-support)
+ - [Palworld Continues To Grow As It Shoots Past 25 Million Players](https://kotaku.com/palworld-continues-to-grow-as-it-shoots-past-25-million-1851279807)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
