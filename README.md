@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - ⏩ [Unexpected](http://9gag.com/gag/a2KB24e)
- - 👉 [Wtf screech](http://9gag.com/gag/aZDAwmW)<!-- MEMES:END -->
+ - 💣 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
+ - ⏩ [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
+ - 👉 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)<!-- MEMES:END -->
 
 ---
 
