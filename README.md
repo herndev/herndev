@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony could give the PSVR 2 PC compatibility later this year](https://www.androidauthority.com/psvr2-pc-compatibility-3418195/)
- - [Google says its standalone Google Pay app GPay and its peer-to-peer payment feature will stop working in the US starting on June 4, 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p30#a240222p30)
- - [It’s just $32.49 to fix your Switch’s Joy-Con drift with Hori’s Split Pad Compact](https://www.theverge.com/2024/2/22/24079982/steelseries-arctis-nova-pro-wireless-hori-split-pad-compact-ring-battery-plus-doorbell-deals-sales)<!-- TECH:END -->
+ - [Have writer’s block? Chrome is rolling out a new AI tool to help](https://www.androidauthority.com/help-me-write-ai-chrome-tool-3418259/)
+ - [Mercedes-Benz backs off plan to only sell EVs by 2030](https://www.theverge.com/2024/2/22/24080220/mercedes-benz-ev-only-sales-2030-back-off)
+ - [Google strikes a deal with Reddit, reportedly for $60M/year, giving Google access to the Reddit Data API to surface more Reddit content and train AI models &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p32#a240222p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
