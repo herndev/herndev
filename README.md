@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to craft a compass and spyglass in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24080118/compass-glass-how-to-craft-make-sand)
- - [New Helldivers 2 Patch Will Kick All Those AFK Players Taking Up Server Space](https://kotaku.com/helldivers-2-servers-full-afk-players-kick-patch-ps5-1851278757)
- - [Final Fantasy VII Rebirth Book Just Dropped A Revealing Clue About Cloud&#39;s Dad](https://kotaku.com/final-fantasy-7-cloud-strife-dad-glenn-lodbrok-rebirth-1851278721)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Delta &lpar;2403.240219-1730&rpar;](https://news.xbox.com/en-us/2024/02/22/xbox-insider-release-notes-delta-2403-240219-1730/)
+ - [Xbox Insider Release Notes – Beta &lpar;2403.240219-1730&rpar;](https://news.xbox.com/en-us/2024/02/22/xbox-insider-release-notes-beta-2403-240219-1730/)
+ - [League Of Legends Fighting Game Finally Gets Official &lpar;Weird&rpar; Name](https://kotaku.com/project-l-2xko-league-of-legends-riot-games-1851278882)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
