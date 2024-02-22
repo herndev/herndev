@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
- - ⏩ [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
- - 👉 [Tricky](http://9gag.com/gag/aVbnmVw)<!-- MEMES:END -->
+ - 💣 [One of the Best drug dealer scenes from movie](http://9gag.com/gag/a3Z9858)
+ - ⏩ [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 👉 [Brutal](http://9gag.com/gag/awZR3g1)<!-- MEMES:END -->
 
 ---
 
