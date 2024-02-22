@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
- - ⏩ [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - ⏩ [Really makes you wonder](http://9gag.com/gag/aeQox2v)
  - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---
