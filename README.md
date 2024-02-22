@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apple issues rice advice, saying its not the way you should dry out your wet iPhone](https://www.pcgamer.com/apple-issues-rice-advice-saying-its-not-the-way-you-should-dry-out-your-wet-iphone)
  - [10 tips for surviving Pacific Drive&#39;s deadly exclusion zone](https://www.pcgamer.com/pacific-drive-tips)
- - [Where to find ThermoSap Crystals in Pacific Drive](https://www.pcgamer.com/pacific-drive-thermosap-crystals)
- - [How to get lead platelets in Pacific Drive](https://www.pcgamer.com/pacific-drive-lead-platelets-location)<!-- GAME:END -->
+ - [Where to find ThermoSap Crystals in Pacific Drive](https://www.pcgamer.com/pacific-drive-thermosap-crystals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
