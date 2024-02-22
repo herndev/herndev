@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of NetChoice, whose revenue jumped from $3M in 2020 to $34M in 2022, as it prepares to fight Florida and Texas&#39; social media laws in front of SCOTUS &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p8#a240222p8)
- - [Sources: Google plans to start assembling the Pixel 8 Pro in southern India in Q2 2024, followed by production of the Pixel 8 in northern India in H2 2024 &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/240222/p7#a240222p7)
- - [Google Pixel Fold 2 rumors: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-fold-2-3385460/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 6 early spec leak indicates we could see a lot more Titanium](https://www.androidauthority.com/samsung-galaxy-z-fold-6-early-spec-leak-3417931/)
+ - [Gboard is gaining the ability to copy text from the real world](https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/)
+ - [OnePlus Watch 2 could have a clone with another name](https://www.androidauthority.com/oneplus-watch-2-oppo-watch-4x-3417939/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
