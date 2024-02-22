@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
- - ⏩ [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
- - 👉 [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)<!-- MEMES:END -->
+ - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - ⏩ [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 👉 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)<!-- MEMES:END -->
 
 ---
 
