@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - ⏩ [Elden ring : Shadow of the horny](http://9gag.com/gag/aMEROOR)
- - 👉 [Amazon now selling adult legos](http://9gag.com/gag/aA0WOKp)<!-- MEMES:END -->
+ - 💣 [Checkmate](http://9gag.com/gag/abvPQZB)
+ - ⏩ [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 👉 [Facts](http://9gag.com/gag/aZDAzb6)<!-- MEMES:END -->
 
 ---
 
