@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Bristol-based Hargreaves Lansdown became the UK&#39;s largest DIY investment platform, with 1.8M clients and &amp;pound;134B in assets, as new rivals weaken its dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/240222/p9#a240222p9)
  - [Samsung Galaxy Z Fold 6 early spec leak indicates we could see a lot more Titanium](https://www.androidauthority.com/samsung-galaxy-z-fold-6-early-spec-leak-3417931/)
- - [Gboard is gaining the ability to copy text from the real world](https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/)
- - [OnePlus Watch 2 could have a clone with another name](https://www.androidauthority.com/oneplus-watch-2-oppo-watch-4x-3417939/)<!-- TECH:END -->
+ - [Gboard is gaining the ability to copy text from the real world](https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
