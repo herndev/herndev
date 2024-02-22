@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android makes it harder for Samsung to keep avoiding seamless updates](https://www.androidauthority.com/android-seamless-update-samsung-3417839/)
- - [Framework is selling a cheap modular laptop](https://www.theverge.com/2024/2/21/24079454/framework-laptop-16-shipping-new-13-inch-model)
- - [No, smartwatches and smart rings can’t measure blood glucose yet](https://www.theverge.com/2024/2/21/24079495/smartwatch-smart-ring-blood-glucose-monitoring-diabetes-fda)<!-- TECH:END -->
+ - [The US FDA warns that it has not &quot;authorized, cleared, or approved any smartwatch or smart ring&quot; that claims to measure blood glucose levels non-invasively &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240221/p45#a240221p45)
+ - [Spotify needs every win against Apple it can get](https://www.theverge.com/2024/2/21/24079617/spotify-apple-app-store-eu-iheart)
+ - [Best Mattress in a Box for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
