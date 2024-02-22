@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of Feb. 22](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [Paragon can&#39;t catch a break: Less than two years after being brought back to life, it&#39;s closing again](https://www.pcgamer.com/paragon-cant-catch-a-break-less-than-two-years-after-being-brought-back-to-life-its-closing-again)
- - [Nobody likes the new name for Riot&#39;s fighting game, but we&#39;re all having fun arguing about how to pronounce it](https://www.pcgamer.com/nobody-likes-the-new-name-for-riots-fighting-game-but-were-all-having-fun-arguing-about-how-to-pronounce-it)<!-- GAME:END -->
+ - [The Making of Geometry Survivor, Out Now on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2024/02/22/geometry-survivor-out-now-on-xbox-one-and-xbox-series-xs/)
+ - [There’s A Pinball Machine Based On The January 6 Insurrection](https://kotaku.com/pinball-machine-january-6-insurrection-cpac-1851279506)
+ - [After 700 Years in the Making, Inkulinati 1.0 is Now Available to Play](https://news.xbox.com/en-us/2024/02/22/inkulinati-1-0-is-now-available-to-play/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
