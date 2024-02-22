@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pauses AI image generation of people after Gemini creates questionable content](https://www.androidauthority.com/google-pauses-ai-image-generation-3418096/)
- - [Final Fantasy VII Rebirth: all the news and updates](https://www.theverge.com/24078609/final-fantasy-7-rebirth-news-updates-trailers)
- - [Analysis: by the end of 2023, 48% of the most popular news websites in the US, UK, and eight others blocked OpenAI&#39;s crawler and 24% blocked Google&#39;s crawler &lpar;Dr Richard Fletcher/Reuters Institute for the Study of Journalism&rpar;](http://www.techmeme.com/240222/p25#a240222p25)<!-- TECH:END -->
+ - [Sources: Nigeria ordered telecoms to restrict access to the websites of some of the world&#39;s largest crypto exchanges, including Binance, Coinbase, and Kraken &lpar;Financial Times&rpar;](http://www.techmeme.com/240222/p26#a240222p26)
+ - [The 256GB iPad Mini 6 is $120 off for the first time](https://www.androidauthority.com/256gb-ipad-mini-6-deal-3418139/)
+ - [Nothing more to hide: Phone 2a official-looking renders leak](https://www.androidauthority.com/nothing-phone-2a-official-renders-3418101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
