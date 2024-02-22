@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - ⏩ [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
+ - ⏩ [Elden ring : Shadow of the horny](http://9gag.com/gag/aMEROOR)
+ - 👉 [Amazon now selling adult legos](http://9gag.com/gag/aA0WOKp)<!-- MEMES:END -->
 
 ---
 
