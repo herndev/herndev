@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)
- - [A California regulator delays Waymo&#39;s application to expand robotaxi services to parts of the Los Angeles area and San Francisco&#39;s peninsula until June 19, 2024 &lpar;Abhirup Roy/Reuters&rpar;](http://www.techmeme.com/240222/p20#a240222p20)
- - [AT&amp;T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)<!-- TECH:END -->
+ - [Final Fantasy VII Rebirth is a modern open-world RPG with the soul of 1997](https://www.theverge.com/24079544/final-fantasy-7-rebirth-review-ps5)
+ - [Nuro gets a leg up from Arm in launching its third-generation delivery robot](https://www.theverge.com/2024/2/22/24079434/nuro-robot-delivery-arm-power-efficiency-range)
+ - [Honda Prologue first drive: a pretty good start](https://www.theverge.com/24079132/honda-prologue-ev-specs-photos-gm-impressions-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
