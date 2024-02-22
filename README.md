@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected](http://9gag.com/gag/a2KB24e)
- - ⏩ [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)<!-- MEMES:END -->
+ - 💣 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
+ - ⏩ [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
+ - 👉 [Really makes you wonder](http://9gag.com/gag/aeQox2v)<!-- MEMES:END -->
 
 ---
 
