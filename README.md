@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple issues rice advice, saying it&#39;s not the way you should dry out your wet iPhone](https://www.pcgamer.com/apple-issues-rice-advice-saying-its-not-the-way-you-should-dry-out-your-wet-iphone)
- - [10 tips for surviving Pacific Drive&#39;s deadly exclusion zone](https://www.pcgamer.com/pacific-drive-tips)
- - [Where to find ThermoSap Crystals in Pacific Drive](https://www.pcgamer.com/pacific-drive-thermosap-crystals)<!-- GAME:END -->
+ - [Deep Rock Galactic auto-battler nixes upsetting &#39;die like your mother did&#39; voice line so as to not &#39;remind some players of tragic events in their life&#39;](https://www.pcgamer.com/deep-rock-galactic-auto-battler-nixes-upsetting-die-like-your-mother-did-voice-line-so-as-to-not-remind-some-players-of-tragic-events-in-their-life)
+ - [Helldivers 2 finally adds a much-requested AFK kick timer, stopping undemocratic glory hounds from twiddling their thumbs in perpetuity](https://www.pcgamer.com/helldivers-2-finally-adds-a-much-requested-afk-kick-timer-stopping-undemocratic-glory-hounds-from-twiddling-their-thumbs-in-perpetuity)
+ - [Apple issues rice advice, saying it&#39;s not the way you should dry out your wet iPhone](https://www.pcgamer.com/apple-issues-rice-advice-saying-its-not-the-way-you-should-dry-out-your-wet-iphone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
