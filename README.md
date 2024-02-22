@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Delta &lpar;2403.240219-1730&rpar;](https://news.xbox.com/en-us/2024/02/22/xbox-insider-release-notes-delta-2403-240219-1730/)
- - [Xbox Insider Release Notes – Beta &lpar;2403.240219-1730&rpar;](https://news.xbox.com/en-us/2024/02/22/xbox-insider-release-notes-beta-2403-240219-1730/)
- - [League Of Legends Fighting Game Finally Gets Official &lpar;Weird&rpar; Name](https://kotaku.com/project-l-2xko-league-of-legends-riot-games-1851278882)<!-- GAME:END -->
+ - [GTA Online update for the week of Feb. 22](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
+ - [Paragon can&#39;t catch a break: Less than two years after being brought back to life, it&#39;s closing again](https://www.pcgamer.com/paragon-cant-catch-a-break-less-than-two-years-after-being-brought-back-to-life-its-closing-again)
+ - [Nobody likes the new name for Riot&#39;s fighting game, but we&#39;re all having fun arguing about how to pronounce it](https://www.pcgamer.com/nobody-likes-the-new-name-for-riots-fighting-game-but-were-all-having-fun-arguing-about-how-to-pronounce-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
