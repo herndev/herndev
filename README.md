@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol.](http://9gag.com/gag/aGE3nV6)
- - ⏩ [Hmm......](http://9gag.com/gag/axoxbnY)
- - 👉 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)<!-- MEMES:END -->
+ - 💣 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
+ - ⏩ [Yes, I&#39;m thankful, who isn&#39;t?](http://9gag.com/gag/anzpxxn)
+ - 👉 [Train Splits Amazon truck in half](http://9gag.com/gag/aNwxBGK)<!-- MEMES:END -->
 
 ---
 
