@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Downdetector: users of AT&amp;T, Verizon, T-Mobile, and other networks report ongoing cellular outages across the US, starting at around 4:30AM ET &lpar;Reuters&rpar;](http://www.techmeme.com/240222/p16#a240222p16)
- - [X reports taking down accounts and posts following an order by the Indian government, which local media tied to farmers&#39; protests, and disagrees with the action &lpar;Shivam Patel/Reuters&rpar;](http://www.techmeme.com/240222/p15#a240222p15)
- - [How to turn off Emergency SOS on an iPhone](https://www.androidauthority.com/how-to-turn-off-emergency-sos-on-iphone-3282225/)<!-- TECH:END -->
+ - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)
+ - [A California regulator delays Waymo&#39;s application to expand robotaxi services to parts of the Los Angeles area and San Francisco&#39;s peninsula until June 19, 2024 &lpar;Abhirup Roy/Reuters&rpar;](http://www.techmeme.com/240222/p20#a240222p20)
+ - [AT&amp;T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
