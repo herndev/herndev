@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Rock Galactic auto-battler nixes upsetting &#39;die like your mother did&#39; voice line so as to not &#39;remind some players of tragic events in their life&#39;](https://www.pcgamer.com/deep-rock-galactic-auto-battler-nixes-upsetting-die-like-your-mother-did-voice-line-so-as-to-not-remind-some-players-of-tragic-events-in-their-life)
- - [Helldivers 2 finally adds a much-requested AFK kick timer, stopping undemocratic glory hounds from twiddling their thumbs in perpetuity](https://www.pcgamer.com/helldivers-2-finally-adds-a-much-requested-afk-kick-timer-stopping-undemocratic-glory-hounds-from-twiddling-their-thumbs-in-perpetuity)
- - [Apple issues rice advice, saying it&#39;s not the way you should dry out your wet iPhone](https://www.pcgamer.com/apple-issues-rice-advice-saying-its-not-the-way-you-should-dry-out-your-wet-iphone)<!-- GAME:END -->
+ - [Dying Light 2 Getting a Game-Changing Update – Firearms Arrive in Villedor](https://news.xbox.com/en-us/2024/02/22/dying-light-2-firearms-update-reloaded-edition/)
+ - [I&#39;m calling time on stick drift and getting Hall effect in every one of my controllers in 2024](https://www.pcgamer.com/im-calling-time-on-stick-drift-and-getting-hall-effect-in-every-one-of-my-controllers-in-2024)
+ - [Deep Rock Galactic auto-battler nixes upsetting &#39;die like your mother did&#39; voice line so as to not &#39;remind some players of tragic events in their life&#39;](https://www.pcgamer.com/deep-rock-galactic-auto-battler-nixes-upsetting-die-like-your-mother-did-voice-line-so-as-to-not-remind-some-players-of-tragic-events-in-their-life)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
