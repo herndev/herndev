@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Bristol-based Hargreaves Lansdown became the UK&#39;s largest DIY investment platform, with 1.8M clients and &amp;pound;134B in assets, as new rivals weaken its dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/240222/p9#a240222p9)
- - [Samsung Galaxy Z Fold 6 early spec leak indicates we could see a lot more Titanium](https://www.androidauthority.com/samsung-galaxy-z-fold-6-early-spec-leak-3417931/)
- - [Gboard is gaining the ability to copy text from the real world](https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/)<!-- TECH:END -->
+ - [Meta says &quot;we understand Meta will not be required to pay for news content that publishers voluntarily post to our platforms&quot; in Indonesia under a new law &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/240222/p12#a240222p12)
+ - [Framework releases a $499 version of its modular Laptop 13, with a &quot;barebones configuration&quot; built using leftover parts, and starts selling refurbished DDR4 RAM &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240222/p11#a240222p11)
+ - [Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
