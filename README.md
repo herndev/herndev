@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi 14 Ultra’s camera grip accessory looks sweet, and it could be yours too](https://www.androidauthority.com/xiaomi-14-ultra-camera-grip-accessory-global-launch-3417912/)
- - [A profile of Blackstone CEO Steve Schwarzman, who might be the biggest individual funder of AI education and research, having pledged $500M+ to the effort &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/240222/p5#a240222p5)
- - [Walmart&#39;s PhonePe debuts its Indus Appstore for consumers, with over 200K apps; the Android app store is available as an app that users will have to sideload &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240222/p4#a240222p4)<!-- TECH:END -->
+ - [A profile of NetChoice, whose revenue jumped from $3M in 2020 to $34M in 2022, as it prepares to fight Florida and Texas&#39; social media laws in front of SCOTUS &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p8#a240222p8)
+ - [Sources: Google plans to start assembling the Pixel 8 Pro in southern India in Q2 2024, followed by production of the Pixel 8 in northern India in H2 2024 &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/240222/p7#a240222p7)
+ - [Google Pixel Fold 2 rumors: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-fold-2-3385460/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
