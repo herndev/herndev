@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says &quot;we understand Meta will not be required to pay for news content that publishers voluntarily post to our platforms&quot; in Indonesia under a new law &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/240222/p12#a240222p12)
- - [Framework releases a $499 version of its modular Laptop 13, with a &quot;barebones configuration&quot; built using leftover parts, and starts selling refurbished DDR4 RAM &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240222/p11#a240222p11)
- - [Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)<!-- TECH:END -->
+ - [Downdetector: users of AT&amp;T, Verizon, T-Mobile, and other networks report ongoing cellular outages across the US, starting at around 4:30AM ET &lpar;Reuters&rpar;](http://www.techmeme.com/240222/p16#a240222p16)
+ - [X reports taking down accounts and posts following an order by the Indian government, which local media tied to farmers&#39; protests, and disagrees with the action &lpar;Shivam Patel/Reuters&rpar;](http://www.techmeme.com/240222/p15#a240222p15)
+ - [How to turn off Emergency SOS on an iPhone](https://www.androidauthority.com/how-to-turn-off-emergency-sos-on-iphone-3282225/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
