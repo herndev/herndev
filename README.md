@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Tomb Raider RPG is in development, and fans can test it soon](https://www.polygon.com/tabletop-games/24075225/tomb-raider-ttrpg-playtest-announcement-lara-croft-crystal-dynamics-rae-nedjadi)
- - [Mortal Kombat 1’s Peacemaker perfectly captures John Cena’s gleefully stupid hero](https://www.polygon.com/24062724/mortal-kombat-1-peacemaker-dlc-release-date-gameplay)
- - [The new Nvidia App killing GeForce Experience: new overlay, system monitoring, 120fps capture, and lets you add HDR to any game](https://www.pcgamer.com/nvidia-app-beta-release)<!-- GAME:END -->
+ - [Free Play Days – Ghost Recon Breakpoint, The Texas Chain Saw Massacre, and Catan](https://news.xbox.com/en-us/2024/02/22/free-play-days-ghost-recon-breakpoint-the-texas-chain-saw-massacre-and-catan/)
+ - [The live-action Sokka sexism issue is actually worse than you fear](https://www.polygon.com/24079505/netflix-avatar-airbender-sokka-suki-kyoshi-warriors-sexism-cast)
+ - [8 tips to triumph as a solo player in Helldivers 2](https://www.pcgamer.com/helldivers-2-solo-play-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
