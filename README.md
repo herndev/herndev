@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
- - ⏩ [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 👉 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)<!-- MEMES:END -->
+ - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
+ - ⏩ [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---
 
