@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
- - ⏩ [Yes, I&#39;m thankful, who isn&#39;t?](http://9gag.com/gag/anzpxxn)
- - 👉 [Train Splits Amazon truck in half](http://9gag.com/gag/aNwxBGK)<!-- MEMES:END -->
+ - 💣 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
+ - ⏩ [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)
+ - 👉 [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)<!-- MEMES:END -->
 
 ---
 
