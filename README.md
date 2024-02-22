@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
- - ⏩ [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
- - 👉 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)<!-- MEMES:END -->
+ - 💣 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
+ - ⏩ [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
+ - 👉 [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)<!-- MEMES:END -->
 
 ---
 
