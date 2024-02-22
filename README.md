@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - ⏩ [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 👉 [There\u2019s a glitch in the matrix](http://9gag.com/gag/a8qP2g1)<!-- MEMES:END -->
+ - 💣 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - ⏩ [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)<!-- MEMES:END -->
 
 ---
 
