@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shin Megami Tensei 5 breaks Switch exclusivity for an expanded PC release](https://www.pcgamer.com/shin-megami-tensei-5-breaks-switch-exclusivity-for-an-expanded-pc-release)
- - [Intel announces new 14A node at IFS Direct Connect 2024, and its aggressive &#39;five nodes in four years&#39; roadmap remains on track](https://www.pcgamer.com/intel-announces-new-14a-node-at-ifs-direct-connect-2024-and-its-aggressive-five-nodes-in-four-years-roadmap-remains-on-track)
- - [14-karat Lego piece sells for more than $24,500 at Goodwill auction — again](https://www.polygon.com/24079522/lego-bionicle-gold-hau-piece-goodwill-auction)<!-- GAME:END -->
+ - [10 tips for surviving Pacific Drive&#39;s deadly exclusion zone](https://www.pcgamer.com/pacific-drive-tips)
+ - [Where to find ThermoSap Crystals in Pacific Drive](https://www.pcgamer.com/pacific-drive-thermosap-crystals)
+ - [How to get lead platelets in Pacific Drive](https://www.pcgamer.com/pacific-drive-lead-platelets-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
