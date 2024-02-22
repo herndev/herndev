@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Have writer’s block? Chrome is rolling out a new AI tool to help](https://www.androidauthority.com/help-me-write-ai-chrome-tool-3418259/)
- - [Mercedes-Benz backs off plan to only sell EVs by 2030](https://www.theverge.com/2024/2/22/24080220/mercedes-benz-ev-only-sales-2030-back-off)
- - [Google strikes a deal with Reddit, reportedly for $60M/year, giving Google access to the Reddit Data API to surface more Reddit content and train AI models &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p32#a240222p32)<!-- TECH:END -->
+ - [How the Apple Watch helped a tech worker reprioritize his mental health](https://appleinsider.com/articles/24/02/22/how-the-apple-watch-helped-a-tech-worker-reprioritize-his-mental-health?utm_medium=rss)
+ - [AT&amp;T’s national outage being investigated by DHS for possible cyberattack](https://www.androidauthority.com/att-outage-possible-cyberattack-3418301/)
+ - [How the Supreme Court could gut environmental protections in 2024](https://www.theverge.com/24080192/supreme-court-pollution-environment-cases-2024-epa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
