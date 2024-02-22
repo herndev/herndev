@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s CEO Says AI Is the Key to the Company’s Comeback](https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/)
- - [S-1: Sam Altman has an 8.7% stake in Reddit, making him the third-largest shareholder, behind Advance Magazine Publishers, with 30.1%, and Tencent, with 11% &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240222/p37#a240222p37)
- - [What is Wi-Fi calling, and how does it work?](https://www.androidauthority.com/what-is-wi-fi-calling-3418180/)<!-- TECH:END -->
+ - [Apple believes Spotify wants a free ride, and the EU may just give it to them](https://appleinsider.com/articles/24/02/22/apple-believes-spotify-wants-a-free-ride-and-the-eu-may-just-give-it-to-them?utm_medium=rss)
+ - [Sources: Nextdoor&#39;s board discussed replacing CEO Sarah Friar with co-founder Nirav Tolia, who served as CEO between 2010 and 2018, or selling the company &lpar;The Information&rpar;](http://www.techmeme.com/240222/p38#a240222p38)
+ - [AT&amp;T has major outage, is being investigated by the DHS &lpar;Update&rpar;](https://www.androidauthority.com/wireless-carrier-outage-2024-3418056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
