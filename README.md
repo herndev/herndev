@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
- - ⏩ [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 👉 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)<!-- MEMES:END -->
+ - 💣 [The dog&#39;s surprised face when he thought he took his owner&#39;s arm](http://9gag.com/gag/aVbn2OP)
+ - ⏩ [This scene is so d*mn f*cking simple yet so d*mn f*cking good](http://9gag.com/gag/aDYpVRB)
+ - 👉 [Blessed be dis Wednesday](http://9gag.com/gag/abvPW8b)<!-- MEMES:END -->
 
 ---
 
