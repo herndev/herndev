@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome’s ‘Help me write’ tool can now finish your sentences for you](https://www.theverge.com/2024/2/22/24079906/google-chrome-help-me-write-gemini-ai-tool-finish-sentences)
- - [Play more Windows games on the Mac with the new CrossOver 24](https://appleinsider.com/articles/24/02/22/play-more-windows-games-on-the-mac-with-the-new-crossover-24?utm_medium=rss)
- - [Want a foldable phone? This one is the cheapest in the world right now](https://www.androidauthority.com/cheapest-foldable-phone-3418057/)<!-- TECH:END -->
+ - [Sony could give the PSVR 2 PC compatibility later this year](https://www.androidauthority.com/psvr2-pc-compatibility-3418195/)
+ - [Google says its standalone Google Pay app GPay and its peer-to-peer payment feature will stop working in the US starting on June 4, 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p30#a240222p30)
+ - [It’s just $32.49 to fix your Switch’s Joy-Con drift with Hori’s Split Pad Compact](https://www.theverge.com/2024/2/22/24079982/steelseries-arctis-nova-pro-wireless-hori-split-pad-compact-ring-battery-plus-doorbell-deals-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
