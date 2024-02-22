@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Apple Watch helped a tech worker reprioritize his mental health](https://appleinsider.com/articles/24/02/22/how-the-apple-watch-helped-a-tech-worker-reprioritize-his-mental-health?utm_medium=rss)
- - [AT&amp;T’s national outage being investigated by DHS for possible cyberattack](https://www.androidauthority.com/att-outage-possible-cyberattack-3418301/)
- - [How the Supreme Court could gut environmental protections in 2024](https://www.theverge.com/24080192/supreme-court-pollution-environment-cases-2024-epa)<!-- TECH:END -->
+ - [Reddit is going public and inviting power users to invest](https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users)
+ - [The United States cellular network struggled the morning of February 22](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
+ - [First look: Google Keep will let you jot notes from the lock screen on Android tablets](https://www.androidauthority.com/google-keep-notes-on-lock-screen-3418322/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
