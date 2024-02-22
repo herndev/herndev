@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bringing the Unique Style of DC’s Peacemaker to Mortal Kombat 1](https://news.xbox.com/en-us/2024/02/22/mortal-kombat-1-peacemaker/)
- - [Amidst dire industry layoffs, FromSoftware&#39;s Miyazaki says his studio is &#39;very blessed&#39; to have long-term hires now taking director roles: &#39;games can be directed by others, not only myself&#39;](https://www.pcgamer.com/amidst-dire-industry-layoffs-fromsoftwares-miyazaki-says-his-studio-is-very-blessed-to-have-long-term-hires-now-taking-director-roles-games-can-be-directed-by-others-not-only-myself)
- - [AMD CEO Dr. Lisa Su to deliver the opening keynote at Computex 2024 because whatever Jensen can do, Su can do too](https://www.pcgamer.com/amd-ceo-dr-lisa-su-to-deliver-the-opening-keynote-at-computex-2024-because-whatever-jensen-can-do-su-can-do-too)<!-- GAME:END -->
+ - [A new Tomb Raider RPG is in development, and fans can test it soon](https://www.polygon.com/tabletop-games/24075225/tomb-raider-ttrpg-playtest-announcement-lara-croft-crystal-dynamics-rae-nedjadi)
+ - [Mortal Kombat 1’s Peacemaker perfectly captures John Cena’s gleefully stupid hero](https://www.polygon.com/24062724/mortal-kombat-1-peacemaker-dlc-release-date-gameplay)
+ - [The new Nvidia App killing GeForce Experience: new overlay, system monitoring, 120fps capture, and lets you add HDR to any game](https://www.pcgamer.com/nvidia-app-beta-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
