@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The dog&#39;s surprised face when he thought he took his owner&#39;s arm](http://9gag.com/gag/aVbn2OP)
- - ⏩ [This scene is so d*mn f*cking simple yet so d*mn f*cking good](http://9gag.com/gag/aDYpVRB)
- - 👉 [Blessed be dis Wednesday](http://9gag.com/gag/abvPW8b)<!-- MEMES:END -->
+ - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - ⏩ [Hmm......](http://9gag.com/gag/axoxbnY)
+ - 👉 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)<!-- MEMES:END -->
 
 ---
 
