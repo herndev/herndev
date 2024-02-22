@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot&#39;s Project L fighting game finally gets a proper title, will hopefully be out sometime in 2025](https://www.pcgamer.com/riots-project-l-fighting-game-finally-gets-a-proper-title-will-hopefully-be-out-sometime-in-2025)
- - [Karlach teams up with Baldur&#39;s Gate 3&#39;s sex noise man to raise money for a good cause: SpecialEffect, which helps create kit and software for physically disabled gamers](https://www.pcgamer.com/karlach-teams-up-with-baldurs-gate-3s-sex-noise-man-to-raise-money-for-a-good-cause-specialeffect-which-helps-create-kit-and-software-for-physically-disabled-gamers)
- - [You No Longer Have An Excuse To Not Play Pentiment](https://kotaku.com/pentiment-on-playstation-and-nintendo-switch-1851278458)<!-- GAME:END -->
+ - [How to craft a compass and spyglass in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24080118/compass-glass-how-to-craft-make-sand)
+ - [New Helldivers 2 Patch Will Kick All Those AFK Players Taking Up Server Space](https://kotaku.com/helldivers-2-servers-full-afk-players-kick-patch-ps5-1851278757)
+ - [Final Fantasy VII Rebirth Book Just Dropped A Revealing Clue About Cloud&#39;s Dad](https://kotaku.com/final-fantasy-7-cloud-strife-dad-glenn-lodbrok-rebirth-1851278721)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
