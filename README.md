@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - ⏩ [Gemini by google](http://9gag.com/gag/aL1Ymqg)
- - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
+ - 💣 [Yup That&#39;ll surely get you fired.](http://9gag.com/gag/a04Anvd)
+ - ⏩ [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 👉 [There\u2019s a glitch in the matrix](http://9gag.com/gag/a8qP2g1)<!-- MEMES:END -->
 
 ---
 
