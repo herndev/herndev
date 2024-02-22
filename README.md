@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
- - ⏩ [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
- - 👉 [Really makes you wonder](http://9gag.com/gag/aeQox2v)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - ⏩ [Gemini by google](http://9gag.com/gag/aL1Ymqg)
+ - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
 
 ---
 
