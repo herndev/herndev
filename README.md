@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit is going public and inviting power users to invest](https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users)
- - [The United States cellular network struggled the morning of February 22](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
- - [First look: Google Keep will let you jot notes from the lock screen on Android tablets](https://www.androidauthority.com/google-keep-notes-on-lock-screen-3418322/)<!-- TECH:END -->
+ - [Intel’s CEO Says AI Is the Key to the Company’s Comeback](https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/)
+ - [S-1: Sam Altman has an 8.7% stake in Reddit, making him the third-largest shareholder, behind Advance Magazine Publishers, with 30.1%, and Tencent, with 11% &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240222/p37#a240222p37)
+ - [What is Wi-Fi calling, and how does it work?](https://www.androidauthority.com/what-is-wi-fi-calling-3418180/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
