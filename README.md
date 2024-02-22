@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cozy MMO Palia is threatening players with an increasingly enormous stuffed frog if they keep wishlisting it on Steam](https://www.pcgamer.com/cozy-mmo-palia-is-threatening-players-with-an-increasingly-enormous-stuffed-frog-if-they-keep-wishlisting-it-on-steam)
  - [Helldivers 2 was built on an obscure Swedish engine discontinued in 2018: &#39;Our crazy engineers had to do everything with no support&#39;](https://www.pcgamer.com/helldivers-2-engine-bitsquid-autodesk-stingray)
- - [Kotaku’s Essential Guide To Like A Dragon: Infinite Wealth](https://kotaku.com/yakuza-like-dragon-infinite-wealth-guides-jobs-dondoko-1851265546)
- - [How to carry progress from the Final Fantasy 7 Rebirth demo to the main game](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24064763/demo-length-progress-carry-over-download)<!-- GAME:END -->
+ - [Kotaku’s Essential Guide To Like A Dragon: Infinite Wealth](https://kotaku.com/yakuza-like-dragon-infinite-wealth-guides-jobs-dondoko-1851265546)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
