@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cozy MMO Palia is threatening players with an increasingly enormous stuffed frog if they keep wishlisting it on Steam](https://www.pcgamer.com/cozy-mmo-palia-is-threatening-players-with-an-increasingly-enormous-stuffed-frog-if-they-keep-wishlisting-it-on-steam)
- - [Helldivers 2 was built on an obscure Swedish engine discontinued in 2018: &#39;Our crazy engineers had to do everything with no support&#39;](https://www.pcgamer.com/helldivers-2-engine-bitsquid-autodesk-stingray)
- - [Kotaku’s Essential Guide To Like A Dragon: Infinite Wealth](https://kotaku.com/yakuza-like-dragon-infinite-wealth-guides-jobs-dondoko-1851265546)<!-- GAME:END -->
+ - [Intel announces new 14A node at IFS Direct Connect 2024, and its aggressive &#39;five nodes in four years&#39; roadmap remains on track](https://www.pcgamer.com/intel-announces-new-14a-node-at-ifs-direct-connect-2024-and-its-aggressive-five-nodes-in-four-years-roadmap-remains-on-track)
+ - [14-karat Lego piece sells for more than $24,500 at Goodwill auction — again](https://www.polygon.com/24079522/lego-bionicle-gold-hau-piece-goodwill-auction)
+ - [Cozy MMO Palia is threatening players with an increasingly enormous stuffed frog if they keep wishlisting it on Steam](https://www.pcgamer.com/cozy-mmo-palia-is-threatening-players-with-an-increasingly-enormous-stuffed-frog-if-they-keep-wishlisting-it-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
