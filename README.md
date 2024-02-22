@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the Best drug dealer scenes from movie](http://9gag.com/gag/a3Z9858)
- - ⏩ [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 👉 [Brutal](http://9gag.com/gag/awZR3g1)<!-- MEMES:END -->
+ - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - ⏩ [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 👉 [Wtf screech](http://9gag.com/gag/aZDAwmW)<!-- MEMES:END -->
 
 ---
 
