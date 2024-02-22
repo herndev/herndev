@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Ghost Recon Breakpoint, The Texas Chain Saw Massacre, and Catan](https://news.xbox.com/en-us/2024/02/22/free-play-days-ghost-recon-breakpoint-the-texas-chain-saw-massacre-and-catan/)
- - [The live-action Sokka sexism issue is actually worse than you fear](https://www.polygon.com/24079505/netflix-avatar-airbender-sokka-suki-kyoshi-warriors-sexism-cast)
- - [8 tips to triumph as a solo player in Helldivers 2](https://www.pcgamer.com/helldivers-2-solo-play-tips)<!-- GAME:END -->
+ - [Riot&#39;s Project L fighting game finally gets a proper title, will hopefully be out sometime in 2025](https://www.pcgamer.com/riots-project-l-fighting-game-finally-gets-a-proper-title-will-hopefully-be-out-sometime-in-2025)
+ - [Karlach teams up with Baldur&#39;s Gate 3&#39;s sex noise man to raise money for a good cause: SpecialEffect, which helps create kit and software for physically disabled gamers](https://www.pcgamer.com/karlach-teams-up-with-baldurs-gate-3s-sex-noise-man-to-raise-money-for-a-good-cause-specialeffect-which-helps-create-kit-and-software-for-physically-disabled-gamers)
+ - [You No Longer Have An Excuse To Not Play Pentiment](https://kotaku.com/pentiment-on-playstation-and-nintendo-switch-1851278458)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
