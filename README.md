@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy VII Rebirth is a modern open-world RPG with the soul of 1997](https://www.theverge.com/24079544/final-fantasy-7-rebirth-review-ps5)
- - [Nuro gets a leg up from Arm in launching its third-generation delivery robot](https://www.theverge.com/2024/2/22/24079434/nuro-robot-delivery-arm-power-efficiency-range)
- - [Honda Prologue first drive: a pretty good start](https://www.theverge.com/24079132/honda-prologue-ev-specs-photos-gm-impressions-hands-on)<!-- TECH:END -->
+ - [Google pauses AI image generation of people after Gemini creates questionable content](https://www.androidauthority.com/google-pauses-ai-image-generation-3418096/)
+ - [Final Fantasy VII Rebirth: all the news and updates](https://www.theverge.com/24078609/final-fantasy-7-rebirth-news-updates-trailers)
+ - [Analysis: by the end of 2023, 48% of the most popular news websites in the US, UK, and eight others blocked OpenAI&#39;s crawler and 24% blocked Google&#39;s crawler &lpar;Dr Richard Fletcher/Reuters Institute for the Study of Journalism&rpar;](http://www.techmeme.com/240222/p25#a240222p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
