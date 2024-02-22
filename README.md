@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nigeria ordered telecoms to restrict access to the websites of some of the world&#39;s largest crypto exchanges, including Binance, Coinbase, and Kraken &lpar;Financial Times&rpar;](http://www.techmeme.com/240222/p26#a240222p26)
- - [The 256GB iPad Mini 6 is $120 off for the first time](https://www.androidauthority.com/256gb-ipad-mini-6-deal-3418139/)
- - [Nothing more to hide: Phone 2a official-looking renders leak](https://www.androidauthority.com/nothing-phone-2a-official-renders-3418101/)<!-- TECH:END -->
+ - [Google Chrome’s ‘Help me write’ tool can now finish your sentences for you](https://www.theverge.com/2024/2/22/24079906/google-chrome-help-me-write-gemini-ai-tool-finish-sentences)
+ - [Play more Windows games on the Mac with the new CrossOver 24](https://appleinsider.com/articles/24/02/22/play-more-windows-games-on-the-mac-with-the-new-crossover-24?utm_medium=rss)
+ - [Want a foldable phone? This one is the cheapest in the world right now](https://www.androidauthority.com/cheapest-foldable-phone-3418057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
