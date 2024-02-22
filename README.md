@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to carry progress from the Final Fantasy 7 Rebirth demo to the main game](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24064763/demo-length-progress-carry-over-download)
- - [The Star Wars: Battlefront Classic Collection is coming to Steam in March](https://www.pcgamer.com/the-star-wars-battlefront-classic-collection-is-coming-to-steam-in-march)
- - [Shadow of the Erdtree is the only DLC planned for Elden Ring, but &#39;there might be more ideas in the future,&#39; Miyazaki says](https://www.pcgamer.com/elden-ring-shadow-of-the-erdtree-dlc-only-planned-dlc)<!-- GAME:END -->
+ - [Helldivers 2 was built on an obscure Swedish engine discontinued in 2018: &#39;Our crazy engineers had to do everything with no support&#39;](https://www.pcgamer.com/helldivers-2-engine-bitsquid-autodesk-stingray)
+ - [Kotaku’s Essential Guide To Like A Dragon: Infinite Wealth](https://kotaku.com/yakuza-like-dragon-infinite-wealth-guides-jobs-dondoko-1851265546)
+ - [How to carry progress from the Final Fantasy 7 Rebirth demo to the main game](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24064763/demo-length-progress-carry-over-download)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
