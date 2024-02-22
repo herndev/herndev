@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2 Getting a Game-Changing Update – Firearms Arrive in Villedor](https://news.xbox.com/en-us/2024/02/22/dying-light-2-firearms-update-reloaded-edition/)
- - [I&#39;m calling time on stick drift and getting Hall effect in every one of my controllers in 2024](https://www.pcgamer.com/im-calling-time-on-stick-drift-and-getting-hall-effect-in-every-one-of-my-controllers-in-2024)
- - [Deep Rock Galactic auto-battler nixes upsetting &#39;die like your mother did&#39; voice line so as to not &#39;remind some players of tragic events in their life&#39;](https://www.pcgamer.com/deep-rock-galactic-auto-battler-nixes-upsetting-die-like-your-mother-did-voice-line-so-as-to-not-remind-some-players-of-tragic-events-in-their-life)<!-- GAME:END -->
+ - [Bringing the Unique Style of DC’s Peacemaker to Mortal Kombat 1](https://news.xbox.com/en-us/2024/02/22/mortal-kombat-1-peacemaker/)
+ - [Amidst dire industry layoffs, FromSoftware&#39;s Miyazaki says his studio is &#39;very blessed&#39; to have long-term hires now taking director roles: &#39;games can be directed by others, not only myself&#39;](https://www.pcgamer.com/amidst-dire-industry-layoffs-fromsoftwares-miyazaki-says-his-studio-is-very-blessed-to-have-long-term-hires-now-taking-director-roles-games-can-be-directed-by-others-not-only-myself)
+ - [AMD CEO Dr. Lisa Su to deliver the opening keynote at Computex 2024 because whatever Jensen can do, Su can do too](https://www.pcgamer.com/amd-ceo-dr-lisa-su-to-deliver-the-opening-keynote-at-computex-2024-because-whatever-jensen-can-do-su-can-do-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
