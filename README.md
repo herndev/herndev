@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup That&#39;ll surely get you fired.](http://9gag.com/gag/a04Anvd)
- - ⏩ [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - 👉 [There\u2019s a glitch in the matrix](http://9gag.com/gag/a8qP2g1)<!-- MEMES:END -->
+ - 💣 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
+ - ⏩ [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 👉 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)<!-- MEMES:END -->
 
 ---
 
