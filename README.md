@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - ⏩ [Unexpected](http://9gag.com/gag/a2KB24e)
- - 👉 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)<!-- MEMES:END -->
+ - 💣 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
+ - ⏩ [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
+ - 👉 [Thank you for your service](http://9gag.com/gag/a4oeAZy)<!-- MEMES:END -->
 
 ---
 
