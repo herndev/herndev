@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Making of Geometry Survivor, Out Now on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2024/02/22/geometry-survivor-out-now-on-xbox-one-and-xbox-series-xs/)
- - [There’s A Pinball Machine Based On The January 6 Insurrection](https://kotaku.com/pinball-machine-january-6-insurrection-cpac-1851279506)
- - [After 700 Years in the Making, Inkulinati 1.0 is Now Available to Play](https://news.xbox.com/en-us/2024/02/22/inkulinati-1-0-is-now-available-to-play/)<!-- GAME:END -->
+ - [Palworld has achieved more players in 2 months than Elden Ring and Hogwarts Legacy managed in a year](https://www.pcgamer.com/palworld-has-achieved-more-players-in-2-months-than-elden-ring-and-hogwarts-legacy-managed-in-a-year)
+ - [MOBA Brought Back To Life, Only To Be Killed Again](https://kotaku.com/paragon-overprime-shutting-down-epic-moba-netmarble-1851279821)
+ - [We need to talk about the bonkers backstories of Madame Web’s Spider-Women](https://www.polygon.com/24079492/who-are-the-spider-women-in-madame-web)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
