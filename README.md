@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - ⏩ [Hmm......](http://9gag.com/gag/axoxbnY)
- - 👉 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)<!-- MEMES:END -->
+ - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - ⏩ [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 👉 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)<!-- MEMES:END -->
 
 ---
 
