@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, Team Fortress 2 players recently did a big trade involving an IRL dog and, no, they&#39;re not monsters and it&#39;s quite above-board and sweet actually](https://www.pcgamer.com/yes-team-fortress-2-players-recently-did-a-big-trade-involving-an-irl-dog-and-no-theyre-not-monsters-and-its-quite-above-board-and-sweet-actually)
- - [Baldur’s Gate 3 will get official mod support, says Larian Studios](https://www.polygon.com/24080445/baldurs-gate-3-hotfix-modding-official-mod-support)
- - [Palworld Continues To Grow As It Shoots Past 25 Million Players](https://kotaku.com/palworld-continues-to-grow-as-it-shoots-past-25-million-1851279807)<!-- GAME:END -->
+ - [Elden Ring director says the expansion&#39;s new weapons are &#39;a main selling point,&#39; including double-bladed shields, reverse-grip ninja swords, and acrobatic martial arts](https://www.pcgamer.com/elden-ring-director-says-the-expansions-new-weapons-are-a-main-selling-point-including-double-bladed-shields-reverse-grip-ninja-swords-and-acrobatic-martial-arts)
+ - [Sons of the Forest cheats: How to spawn every item in the game](https://www.pcgamer.com/sons-of-the-forest-cheats-console-commands)
+ - [Sons of the Forest 1.0 launches with creative mode, a new ending, and an answer to one of the game&#39;s biggest mysteries](https://www.pcgamer.com/sons-of-the-forest-10-launches-with-creative-mode-a-new-ending-and-an-answer-to-one-of-the-games-biggest-mysteries)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
