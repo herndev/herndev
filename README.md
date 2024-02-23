@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Checkmate](http://9gag.com/gag/abvPQZB)
- - ⏩ [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 💣 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - ⏩ [Amazon now selling adult legos](http://9gag.com/gag/aA0WOKp)
  - 👉 [Facts](http://9gag.com/gag/aZDAzb6)<!-- MEMES:END -->
 
 ---
