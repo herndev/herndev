@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Swift OLED PG49WCD review](https://www.pcgamer.com/asus-rog-swift-oled-pg49wcd-review)
- - [Helldivers 2 maximum player cap has been increased, but Arrowhead still expects queues](https://www.pcgamer.com/helldivers-2-maximum-player-cap-has-been-increased-but-arrowhead-still-expects-queues)
- - [Today&#39;s Wordle answer for Friday, February 23](https://www.pcgamer.com/wordle-answer-today-february-23-2024)<!-- GAME:END -->
+ - [Helldivers 2&#39;s CEO deletes sleep-deprived tweet forged &#39;at 2 am&#39; implying the login woes are over—clarifies &#39;we don&#39;t yet know if we can support everyone this weekend&#39;](https://www.pcgamer.com/helldivers-2s-ceo-deletes-sleep-deprived-tweet-forged-at-2-am-implying-the-login-woes-are-overclarifies-we-dont-yet-know-if-we-can-support-everyone-this-weekend)
+ - [Researchers have developed a Very Big Disc™ that can store up to 200 terabytes of data and may represent a return to optical media for long term storage](https://www.pcgamer.com/researchers-have-developed-a-very-big-disctm-that-can-store-up-to-200-terabytes-of-data-and-may-represent-a-return-to-optical-media-for-long-term-storage)
+ - [Asus ROG Swift OLED PG49WCD review](https://www.pcgamer.com/asus-rog-swift-oled-pg49wcd-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
