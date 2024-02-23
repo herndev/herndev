@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok-Famous Stanley Tumblers Are Up to 20% Off While Supplies Last     - CNET](https://www.cnet.com/deals/tiktok-famous-stanley-tumblers-are-up-to-20-off-while-supplies-last/#ftag=CAD590a51e)
- - [How Japan took a head start in the chips race thanks to factors not easily repeated elsewhere, including efficient government support and a low-cost workforce &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p5#a240223p5)
- - [File Your Taxes for Less With One of These Discounted Software Services     - CNET](https://www.cnet.com/deals/file-your-taxes-for-less-with-one-of-these-discounted-software-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gemini Nano is enabling on-device AI features on mid-range phones](https://www.androidauthority.com/google-gemini-nano-mid-range-phones-mediatek-3418503/)
+ - [Galaxy S24’s first update with camera and display fixes is rolling out globally](https://www.androidauthority.com/samsung-galaxy-s24-series-first-update-rolling-out-globally-3418497/)
+ - [Mark Zuckerberg is seeking to avoid being held personally liable in two dozen lawsuits accusing Meta of addicting children to its products in a hearing today &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240223/p6#a240223p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
