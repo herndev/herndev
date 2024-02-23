@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - ⏩ [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
+ - 💣 [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)
+ - ⏩ [Facts](http://9gag.com/gag/aZDAzb6)
+ - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
 
 ---
 
