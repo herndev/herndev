@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A bug briefly makes Apple&#39;s own App Store less convenient in EU [u]](https://appleinsider.com/articles/24/02/23/apple-makes-its-own-app-store-less-convenient-in-eu?utm_medium=rss)
- - [Google confirms &quot;a small subset of users&quot; have been temporarily unable to access the News tab filter in search results pages as part of ongoing testing &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/240223/p14#a240223p14)
- - [23 Best Wireless Chargers &lpar;2024&rpar;: Pads, Stands, iPhone Docks, and More](https://www.wired.com/gallery/best-wireless-chargers/)<!-- TECH:END -->
+ - [Google says an image tuning failure and Gemini becoming more cautious than intended made it &quot;overcompensate in some cases, and be over-conservative in others&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240223/p16#a240223p16)
+ - [Humane postpones the delivery of its Ai Pin for &quot;priority access&quot; customers from March to &quot;mid-April&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240223/p15#a240223p15)
+ - [A bug briefly makes Apple&#39;s own App Store less convenient in EU [u]](https://appleinsider.com/articles/24/02/23/apple-makes-its-own-app-store-less-convenient-in-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
