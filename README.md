@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google&#39;s long-teased new sign-in page is absolutely the least exciting upgrade ever](https://www.pcgamer.com/googles-long-teased-new-sign-in-page-is-absolutely-the-least-exciting-upgrade-ever)
- - [An anonymous modder has brought one of the best mobile games, Infinity Blade, to PC 5 years after it left the App Store](https://www.pcgamer.com/an-anonymous-modder-has-brought-one-of-the-best-mobile-games-infinity-blade-to-pc-5-years-after-it-left-the-app-store)
- - [Some Helldivers 2 players are inexplicably killing each other for resources, despite a dozen different UI elements telling you they&#39;re shared](https://www.pcgamer.com/some-helldivers-2-players-are-inexplicably-killing-each-other-for-resources-despite-a-dozen-different-ui-elements-telling-you-theyre-shared)<!-- GAME:END -->
+ - [Age of Empires Reveals Jam-Packed 2024 with its New Year, New Age Livestream](https://www.ageofempires.com/news/new-year-new-age-show-the-rundown/%20#new_tab)
+ - [Nightingale’s jank mechanics are enveloped by a truly visionary world](https://www.polygon.com/24081032/nightingale-early-access-crafting-survival-impressions)
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240221-2200&rpar;](https://news.xbox.com/en-us/2024/02/23/xbox-insider-release-notes-alpha-2403-240221-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
