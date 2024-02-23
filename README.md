@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected](http://9gag.com/gag/a2KB24e)
- - ⏩ [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
- - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - ⏩ [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
+ - 👉 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)<!-- MEMES:END -->
 
 ---
 
