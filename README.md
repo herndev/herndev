@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
- - ⏩ [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
+ - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
+ - ⏩ [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
+ - 👉 [Let your bf see this](http://9gag.com/gag/arm6xAX)<!-- MEMES:END -->
 
 ---
 
