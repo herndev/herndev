@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Think great SSD deals are a thing of the past? We&#39;ve spotted this speedy Nextorage 1TB drive for $75](https://www.pcgamer.com/think-great-ssd-deals-are-a-thing-of-the-past-weve-spotted-this-speedy-nextorage-1tb-drive-for-dollar75)
- - [Upscaling and frame generation are the final nails in the coffin for overclocking, and I&#39;m absolutely okay with that](https://www.pcgamer.com/upscaling-and-frame-generation-are-the-final-nails-in-the-coffin-for-overclocking-and-im-absolutely-okay-with-that)
- - [Intel explains why making GPU drivers is so hard but isn&#39;t giving up](https://www.pcgamer.com/intel-explains-why-making-gpu-drivers-is-so-hard-but-isnt-giving-up)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for February 26 to March 1](https://news.xbox.com/en-us/2024/02/23/next-week-on-xbox-new-games-for-february-26-to-march-1/)
+ - [The 25 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Overwatch fans call for boycott and recast after Pharah voice actor calls to &#39;free Palestine from Hamas&#39;](https://www.pcgamer.com/overwatch-fans-call-for-boycott-and-recast-after-pharah-voice-actor-calls-to-free-palestine-from-hamas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
