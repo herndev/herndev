@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple believes Spotify wants a free ride, and the EU may just give it to them](https://appleinsider.com/articles/24/02/22/apple-believes-spotify-wants-a-free-ride-and-the-eu-may-just-give-it-to-them?utm_medium=rss)
- - [Sources: Nextdoor&#39;s board discussed replacing CEO Sarah Friar with co-founder Nirav Tolia, who served as CEO between 2010 and 2018, or selling the company &lpar;The Information&rpar;](http://www.techmeme.com/240222/p38#a240222p38)
- - [AT&amp;T has major outage, is being investigated by the DHS &lpar;Update&rpar;](https://www.androidauthority.com/wireless-carrier-outage-2024-3418056/)<!-- TECH:END -->
+ - [Odysseus achieves the first US Moon landing since 1972](https://www.theverge.com/2024/2/22/24080498/odysseus-lunar-lander-nasa-moon-intuitive-machines)
+ - [Filing: UnitedHealth says a &quot;suspected nation-state&quot; actor had access to systems of IT provider Change Healthcare, prompting an outage at pharmacies in the US &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240222/p40#a240222p40)
+ - [Vice is abandoning Vice.com and laying off hundreds](https://www.theverge.com/2024/2/22/24080497/vice-media-website-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
