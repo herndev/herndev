@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elden ring : Shadow of the horny](http://9gag.com/gag/aMEROOR)
- - ⏩ [The seks](http://9gag.com/gag/aVbnBby)
- - 👉 [The drone ran out of battery and provided a scene worthy of Hollywood](http://9gag.com/gag/avQYdP5)<!-- MEMES:END -->
+ - 💣 [Watched this movie few nights ago and it was great, cant&#39;t beleve this is a true story, sick... deserves much better score &lpar;6.7 on imdb&rpar;](http://9gag.com/gag/aYV8AYV)
+ - ⏩ [Left Liberals rejoice, it looks like bringing the radicals to live with you was the right call.](http://9gag.com/gag/aA0WZ90)
+ - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
 
 ---
 
