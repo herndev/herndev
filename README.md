@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 💣 [You know what to do](http://9gag.com/gag/arm6Zb6)
  - ⏩ [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 👉 [She must be really really goood](http://9gag.com/gag/aOxgDdE)<!-- MEMES:END -->
+ - 👉 [Tricky](http://9gag.com/gag/aVbnmVw)<!-- MEMES:END -->
 
 ---
 
