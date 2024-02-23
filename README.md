@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Time For Game Devs To Kill The Killmonger Swoop](https://kotaku.com/prince-of-persia-lost-crown-tekken-8-killmonger-hair-1851282520)
- - [How to fix quirks with the tinker station in Pacific Drive](https://www.polygon.com/guides/24081076/pacific-drive-tinker-station-fix-quirks)
- - [Helldivers 2 Is Committed To The Bit And So Are We](https://kotaku.com/helldivers-2-community-humor-1851282592)<!-- GAME:END -->
+ - [If you like collecting critters in Palworld, how about collecting zombies in this co-op survival game?](https://www.pcgamer.com/if-you-like-collecting-critters-in-palworld-how-about-collecting-zombies-in-this-co-op-survival-game)
+ - [Believe it! A live-action Naruto is on the way from the director of Shang-Chi](https://www.polygon.com/24081352/naruto-movie-live-action-shang-chi-destin-daniel-cretton)
+ - [Tekken 8 Gives Grieving Family A Way To Remember A Loved One](https://kotaku.com/tekken-8-ai-ghost-katsuhiro-harada-kohei-ikeda-lee-1851282635)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
