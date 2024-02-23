@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - ⏩ [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 👉 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)<!-- MEMES:END -->
+ - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - ⏩ [TaskDone](http://9gag.com/gag/a1PzEmP)
+ - 👉 [Let your bf see this](http://9gag.com/gag/arm6xAX)<!-- MEMES:END -->
 
 ---
 
