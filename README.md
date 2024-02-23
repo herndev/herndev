@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring director says the expansion&#39;s new weapons are &#39;a main selling point,&#39; including double-bladed shields, reverse-grip ninja swords, and acrobatic martial arts](https://www.pcgamer.com/elden-ring-director-says-the-expansions-new-weapons-are-a-main-selling-point-including-double-bladed-shields-reverse-grip-ninja-swords-and-acrobatic-martial-arts)
- - [Sons of the Forest cheats: How to spawn every item in the game](https://www.pcgamer.com/sons-of-the-forest-cheats-console-commands)
- - [Sons of the Forest 1.0 launches with creative mode, a new ending, and an answer to one of the game&#39;s biggest mysteries](https://www.pcgamer.com/sons-of-the-forest-10-launches-with-creative-mode-a-new-ending-and-an-answer-to-one-of-the-games-biggest-mysteries)<!-- GAME:END -->
+ - [Alan Cumming plays a character on Traitors, but season 2’s surprises snapped him back to reality](https://www.polygon.com/24080511/traitors-season-2-surprises-cast-alan-cumming-host)
+ - [Last Epoch is the fourth breakout game of 2024](https://www.pcgamer.com/last-epoch-is-the-fourth-breakout-game-of-2024)
+ - [How big is Elden Ring: Shadow of the Erdtree&#39;s new map, and how will we reach it?](https://www.pcgamer.com/shadow-of-the-erdtree-map-size-location-how-to-access)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
