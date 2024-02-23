@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)
- - ⏩ [Facts](http://9gag.com/gag/aZDAzb6)
+ - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - ⏩ [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)
  - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
 
 ---
