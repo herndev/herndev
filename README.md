@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - ⏩ [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
- - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
+ - 💣 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
+ - ⏩ [Elden ring : Shadow of the horny](http://9gag.com/gag/aMEROOR)
+ - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
 
 ---
 
