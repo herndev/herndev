@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you like collecting critters in Palworld, how about collecting zombies in this co-op survival game?](https://www.pcgamer.com/if-you-like-collecting-critters-in-palworld-how-about-collecting-zombies-in-this-co-op-survival-game)
- - [Believe it! A live-action Naruto is on the way from the director of Shang-Chi](https://www.polygon.com/24081352/naruto-movie-live-action-shang-chi-destin-daniel-cretton)
- - [Tekken 8 Gives Grieving Family A Way To Remember A Loved One](https://kotaku.com/tekken-8-ai-ghost-katsuhiro-harada-kohei-ikeda-lee-1851282635)<!-- GAME:END -->
+ - [A Game of Thrones movie trilogy was blocked by HBO, say showrunners](https://www.polygon.com/24081363/game-thrones-movies-hbo-vertical-shooting-phones-benioff-weiss-zaslav)
+ - [Finally, a farm sim that will let me date hot demons and also collect capybaras](https://www.pcgamer.com/finally-a-farm-sim-that-will-let-me-date-hot-demon-people-and-also-collect-capybaras)
+ - [The Halo TV Series Just Killed Off An Iconic Character](https://kotaku.com/halo-tv-series-season-2-episode-4-review-paramount-plus-1851282949)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
