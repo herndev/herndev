@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leave your cursed Images with Me please, you don&#39;t need them anymore](http://9gag.com/gag/aRE5R87)
- - ⏩ [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
- - 👉 [We&#39;re not going to make it, as a civilization I mean, right?](http://9gag.com/gag/a4oe5e6)<!-- MEMES:END -->
+ - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - ⏩ [How I spend my days at work](http://9gag.com/gag/aWGKo32)
+ - 👉 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)<!-- MEMES:END -->
 
 ---
 
