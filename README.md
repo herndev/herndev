@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says the Galaxy Book4 series, with Intel Core Ultra chips and AMOLED touchscreens, will be available in the US, the UK, and other markets on February 26 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240222/p43#a240222p43)
- - [Here Are the Secret Locations of ShotSpotter Gunfire Sensors](https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/)
- - [AT&amp;T believes the February 22 outage was &quot;caused by the application and execution of an incorrect process&quot; as it was expanding its network, &quot;not a cyber attack&quot; &lpar;ABC News&rpar;](http://www.techmeme.com/240222/p42#a240222p42)<!-- TECH:END -->
+ - [Humane’s AI Pin is slightly delayed, now comes with months of free service](https://www.theverge.com/2024/2/22/24080654/humane-ai-pin-delay-free-months)
+ - [Microsoft announces Generative Erase for the Photos app on Windows 10 and higher, which will allow users to remove objects and people from images using AI &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240222/p44#a240222p44)
+ - [Samsung says the Galaxy Book4 series, with Intel Core Ultra chips and AMOLED touchscreens, will be available in the US, the UK, and other markets on February 26 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240222/p43#a240222p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
