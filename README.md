@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [40, actually](http://9gag.com/gag/ajVbyD8)
- - ⏩ [Him while adding literally vodka and rum: `yeah go on, tornado, lol` him while adding soda: `GO ON BAD BOY !`](http://9gag.com/gag/a9qQBND)
- - 👉 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)<!-- MEMES:END -->
+ - 💣 [When your boss shows up](http://9gag.com/gag/aNwxjm0)
+ - ⏩ [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 👉 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)<!-- MEMES:END -->
 
 ---
 
