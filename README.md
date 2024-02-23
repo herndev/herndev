@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for February 26 to March 1](https://news.xbox.com/en-us/2024/02/23/next-week-on-xbox-new-games-for-february-26-to-march-1/)
- - [The 25 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Overwatch fans call for boycott and recast after Pharah voice actor calls to &#39;free Palestine from Hamas&#39;](https://www.pcgamer.com/overwatch-fans-call-for-boycott-and-recast-after-pharah-voice-actor-calls-to-free-palestine-from-hamas)<!-- GAME:END -->
+ - [Do you want to click on playing cards in a Jane Austen-themed setting? Of course you do](https://www.polygon.com/24080883/regency-solitaire-2-jane-austen-card-game)
+ - [A Tomb Raider tabletop RPG wasn&#39;t an announcement I expected, but the more I think about it, the more I think it&#39;s a perfect combo](https://www.pcgamer.com/a-tomb-raider-tabletop-rpg-wasnt-an-announcement-i-expected-but-the-more-i-think-about-it-the-more-i-think-its-a-perfect-combo)
+ - [Researchers have figured out how to hack a wireless charger to fry your phone and heat objects around it to 280°C, so that&#39;s just wonderful](https://www.pcgamer.com/researchers-have-figured-out-how-to-hack-a-wireless-charger-to-fry-your-phone-and-heat-objects-around-it-to-280c-so-thats-just-wonderful)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
