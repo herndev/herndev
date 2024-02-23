@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Amazon Echo Hub makes smart home control a piece of cake](https://www.androidauthority.com/amazon-echo-hub-us-release-3418444/)
  - [A US judge says FTX can sell its Anthropic shares after FTX reached a compromise with its customers opposing the sale; FTX invested $500M in Anthropic in 2021 &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240223/p3#a240223p3)
- - [Google Tweaked Search to Comply With EU Rules. Yelp Says It Makes Results Even More Unfair](https://www.wired.com/story/google-search-eu-yelp-unfair/)
- - [Google’s deal with Reddit could hopefully make for better searches and AI](https://www.androidauthority.com/google-reddit-ai-search-deal-3417337/)<!-- TECH:END -->
+ - [Google Tweaked Search to Comply With EU Rules. Yelp Says It Makes Results Even More Unfair](https://www.wired.com/story/google-search-eu-yelp-unfair/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
