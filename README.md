@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
- - ⏩ [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
- - 👉 [Let your bf see this](http://9gag.com/gag/arm6xAX)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - ⏩ [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 👉 [She must be really really goood](http://9gag.com/gag/aOxgDdE)<!-- MEMES:END -->
 
 ---
 
