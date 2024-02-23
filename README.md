@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s deal with Reddit could hopefully make for better searches and AI](https://www.androidauthority.com/google-reddit-ai-search-deal-3417337/)
- - [Sources: staff warned Meta in 2023 that its subscription tools on Facebook and Instagram allowed adults to profit from exploiting their own children &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240223/p2#a240223p2)
- - [An investigation finds thousands of parent-run Instagram accounts posting images of their own children attracting pedophiles, who sometimes pay for more content &lpar;New York Times&rpar;](http://www.techmeme.com/240223/p1#a240223p1)<!-- TECH:END -->
+ - [A US judge says FTX can sell its Anthropic shares after FTX reached a compromise with its customers opposing the sale; FTX invested $500M in Anthropic in 2021 &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240223/p3#a240223p3)
+ - [Google Tweaked Search to Comply With EU Rules. Yelp Says It Makes Results Even More Unfair](https://www.wired.com/story/google-search-eu-yelp-unfair/)
+ - [Google’s deal with Reddit could hopefully make for better searches and AI](https://www.androidauthority.com/google-reddit-ai-search-deal-3417337/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
