@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watched this movie few nights ago and it was great, cant&#39;t beleve this is a true story, sick... deserves much better score &lpar;6.7 on imdb&rpar;](http://9gag.com/gag/aYV8AYV)
- - ⏩ [Left Liberals rejoice, it looks like bringing the radicals to live with you was the right call.](http://9gag.com/gag/aA0WZ90)
- - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
+ - 💣 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - ⏩ [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
 
 ---
 
