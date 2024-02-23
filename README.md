@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Do you want to click on playing cards in a Jane Austen-themed setting? Of course you do](https://www.polygon.com/24080883/regency-solitaire-2-jane-austen-card-game)
- - [A Tomb Raider tabletop RPG wasn&#39;t an announcement I expected, but the more I think about it, the more I think it&#39;s a perfect combo](https://www.pcgamer.com/a-tomb-raider-tabletop-rpg-wasnt-an-announcement-i-expected-but-the-more-i-think-about-it-the-more-i-think-its-a-perfect-combo)
- - [Researchers have figured out how to hack a wireless charger to fry your phone and heat objects around it to 280°C, so that&#39;s just wonderful](https://www.pcgamer.com/researchers-have-figured-out-how-to-hack-a-wireless-charger-to-fry-your-phone-and-heat-objects-around-it-to-280c-so-thats-just-wonderful)<!-- GAME:END -->
+ - [It&#39;s barely even started and 2024 is already the year of server issues](https://www.pcgamer.com/its-barely-even-started-and-2024-is-already-the-year-of-server-issues)
+ - [How to increase carrying capacity in Nightingale](https://www.polygon.com/guides/24080952/nightingale-increase-carrying-capacity-weighed-down)
+ - [FF7: Advent Children Paved The Way For Rebirth, For Better And Worse](https://kotaku.com/final-fantasy-7-rebirth-advent-children-worth-watching-1851281638)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
