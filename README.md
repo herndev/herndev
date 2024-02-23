@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - ⏩ [TaskDone](http://9gag.com/gag/a1PzEmP)
- - 👉 [Let your bf see this](http://9gag.com/gag/arm6xAX)<!-- MEMES:END -->
+ - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
+ - ⏩ [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 👉 [Women](http://9gag.com/gag/aA0Wv8d)<!-- MEMES:END -->
 
 ---
 
