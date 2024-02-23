@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - ⏩ [Amazon now selling adult legos](http://9gag.com/gag/aA0WOKp)
- - 👉 [Facts](http://9gag.com/gag/aZDAzb6)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - ⏩ [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
+ - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
 
 ---
 
