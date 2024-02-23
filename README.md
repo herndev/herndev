@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Game of Thrones movie trilogy was blocked by HBO, say showrunners](https://www.polygon.com/24081363/game-thrones-movies-hbo-vertical-shooting-phones-benioff-weiss-zaslav)
- - [Finally, a farm sim that will let me date hot demons and also collect capybaras](https://www.pcgamer.com/finally-a-farm-sim-that-will-let-me-date-hot-demon-people-and-also-collect-capybaras)
- - [The Halo TV Series Just Killed Off An Iconic Character](https://kotaku.com/halo-tv-series-season-2-episode-4-review-paramount-plus-1851282949)<!-- GAME:END -->
+ - [Fans of Pokémon-inspired MMO Temtem are arguing with the developer about what MMO means after Crema CEO says it&#39;s &#39;not feasible&#39; to keep adding content forever](https://www.pcgamer.com/fans-of-pokemon-inspired-mmo-temtem-are-arguing-with-the-developer-about-what-mmo-means-after-crema-ceo-says-its-not-feasible-to-keep-adding-content-forever)
+ - [New Roguelike Game Mixes Deckbuliding With Poker](https://kotaku.com/balatro-poker-roguelike-worth-it-is-it-good-review-pc-1851283124)
+ - [Lorcana’s Into the Inklands is almost here, but you’ll need request an invite to pre-order](https://www.polygon.com/deals/24081535/disney-lorcana-into-the-inklands-pre-order-amazon-queue-shopdisney)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
