@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel explains why making GPU drivers is so hard but isn&#39;t giving up](https://www.pcgamer.com/intel-explains-why-making-gpu-drivers-is-so-hard-but-isnt-giving-up)
- - [Vindication for Dark Souls 2 defenders as Hidetaka Miyazaki says many of its ideas &#39;carried the rest of the series&#39;](https://www.pcgamer.com/vindication-for-dark-souls-2-defenders-as-hidetaka-miyazaki-says-many-of-its-ideas-carried-the-rest-of-the-series)
- - [Helldivers 2&#39;s CEO deletes sleep-deprived tweet forged &#39;at 2 am&#39; implying the login woes are over—clarifies &#39;we don&#39;t yet know if we can support everyone this weekend&#39;](https://www.pcgamer.com/helldivers-2s-ceo-deletes-sleep-deprived-tweet-forged-at-2-am-implying-the-login-woes-are-overclarifies-we-dont-yet-know-if-we-can-support-everyone-this-weekend)<!-- GAME:END -->
+ - [Think great SSD deals are a thing of the past? We&#39;ve spotted this speedy Nextorage 1TB drive for $75](https://www.pcgamer.com/think-great-ssd-deals-are-a-thing-of-the-past-weve-spotted-this-speedy-nextorage-1tb-drive-for-dollar75)
+ - [Upscaling and frame generation are the final nails in the coffin for overclocking, and I&#39;m absolutely okay with that](https://www.pcgamer.com/upscaling-and-frame-generation-are-the-final-nails-in-the-coffin-for-overclocking-and-im-absolutely-okay-with-that)
+ - [Intel explains why making GPU drivers is so hard but isn&#39;t giving up](https://www.pcgamer.com/intel-explains-why-making-gpu-drivers-is-so-hard-but-isnt-giving-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
