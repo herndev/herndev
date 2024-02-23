@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yes, the HUAWEI/Porsche Design partnership is over](https://www.androidauthority.com/huawei-porsche-design-partnership-3418645/)
- - [Q&amp;A with Nvidia CEO Jensen Huang about plans for a new type of data center dubbed &quot;AI factory&quot;, foundational robotics, the Mellanox acquisition, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p12#a240223p12)
- - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)<!-- TECH:END -->
+ - [Vision Pro owners concerned after multiple reports of mysterious cracks](https://www.androidauthority.com/vision-pro-cracks-3418638/)
+ - [Florida&#39;s legislature passed one of US&#39; most restrictive bills on minors&#39; use of social media despite 1A concerns; the bill needs approval of Gov. Ron DeSantis &lpar;Brendan Farrington/Associated Press&rpar;](http://www.techmeme.com/240223/p13#a240223p13)
+ - [Spotify HiFi is still MIA after three years, and now so is my subscription](https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
