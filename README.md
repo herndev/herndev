@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says an image tuning failure and Gemini becoming more cautious than intended made it &quot;overcompensate in some cases, and be over-conservative in others&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240223/p16#a240223p16)
- - [Humane postpones the delivery of its Ai Pin for &quot;priority access&quot; customers from March to &quot;mid-April&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240223/p15#a240223p15)
- - [A bug briefly makes Apple&#39;s own App Store less convenient in EU [u]](https://appleinsider.com/articles/24/02/23/apple-makes-its-own-app-store-less-convenient-in-eu?utm_medium=rss)<!-- TECH:END -->
+ - [Is Google Chat safe and secure?](https://www.androidauthority.com/is-google-chat-safe-and-secure-3418646/)
+ - [The Browser company&#39;s Arc launches an AI-powered &quot;pinch-to-summarize&quot; feature in its Arc Search app that shows a neatly formatted summary with main points &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240223/p18#a240223p18)
+ - [Chainalysis: there were more than 2,200 bitcoins, worth $110M+ at today&#39;s prices, in LockBit&#39;s active blockchain addresses identified by law enforcement &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/240223/p17#a240223p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
