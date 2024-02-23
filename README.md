@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Supreme Court is about to decide the future of online speech](https://www.theverge.com/2024/2/23/24080521/supreme-court-netchoice-florida-texas-social-media-laws-arguments)
- - [Yelp says its tests show design tweaks Google made to its search results to comply with EU&#39;s DMA are unfair and make users even more likely to stick with Google &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240223/p8#a240223p8)
- - [Amazon&#39;s Eero 6 Plus Mesh Router Kit Is $140 Off Today Only     - CNET](https://www.cnet.com/deals/amazons-eero-6-plus-mesh-router-kit-is-140-off-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Iranian celebrities caught up in $35 million iPhone scam](https://appleinsider.com/articles/24/02/23/iranian-celebrities-caught-up-in-35-million-iphone-scam?utm_medium=rss)
+ - [Microsoft releases PyRIT, a tool its AI Red Team has been using to check for risks in its generative AI systems like Copilot, to the public &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/240223/p9#a240223p9)
+ - [The AIs are officially out of control](https://www.theverge.com/2024/2/23/24080579/gemini-chatgpt-problems-images-reddit-ipo-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
