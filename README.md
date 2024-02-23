@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Google Chat safe and secure?](https://www.androidauthority.com/is-google-chat-safe-and-secure-3418646/)
- - [The Browser company&#39;s Arc launches an AI-powered &quot;pinch-to-summarize&quot; feature in its Arc Search app that shows a neatly formatted summary with main points &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240223/p18#a240223p18)
- - [Chainalysis: there were more than 2,200 bitcoins, worth $110M+ at today&#39;s prices, in LockBit&#39;s active blockchain addresses identified by law enforcement &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/240223/p17#a240223p17)<!-- TECH:END -->
+ - [19 Best Mattress and Bedsheet Deals Right Now](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
+ - [A look at Marc Andreessen and a16z&#39;s political efforts, including starting the Keep Startups in America PAC and giving millions to a pro-crypto dark-money group &lpar;Theodore Schleifer/Puck&rpar;](http://www.techmeme.com/240223/p19#a240223p19)
+ - [Reddit Is Letting Power Users In on Its IPO. Not Everyone’s Buying](https://www.wired.com/story/reddit-power-users-ipo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
