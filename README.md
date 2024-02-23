@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your boss shows up](http://9gag.com/gag/aNwxjm0)
- - ⏩ [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 👉 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)<!-- MEMES:END -->
+ - 💣 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
+ - ⏩ [Who will survive?](http://9gag.com/gag/a5Xmxdo)
+ - 👉 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)<!-- MEMES:END -->
 
 ---
 
