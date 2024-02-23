@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s barely even started and 2024 is already the year of server issues](https://www.pcgamer.com/its-barely-even-started-and-2024-is-already-the-year-of-server-issues)
- - [How to increase carrying capacity in Nightingale](https://www.polygon.com/guides/24080952/nightingale-increase-carrying-capacity-weighed-down)
- - [FF7: Advent Children Paved The Way For Rebirth, For Better And Worse](https://kotaku.com/final-fantasy-7-rebirth-advent-children-worth-watching-1851281638)<!-- GAME:END -->
+ - [Google&#39;s long-teased new sign-in page is absolutely the least exciting upgrade ever](https://www.pcgamer.com/googles-long-teased-new-sign-in-page-is-absolutely-the-least-exciting-upgrade-ever)
+ - [An anonymous modder has brought one of the best mobile games, Infinity Blade, to PC 5 years after it left the App Store](https://www.pcgamer.com/an-anonymous-modder-has-brought-one-of-the-best-mobile-games-infinity-blade-to-pc-5-years-after-it-left-the-app-store)
+ - [Some Helldivers 2 players are inexplicably killing each other for resources, despite a dozen different UI elements telling you they&#39;re shared](https://www.pcgamer.com/some-helldivers-2-players-are-inexplicably-killing-each-other-for-resources-despite-a-dozen-different-ui-elements-telling-you-theyre-shared)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
