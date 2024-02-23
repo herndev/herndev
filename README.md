@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iranian celebrities caught up in $35 million iPhone scam](https://appleinsider.com/articles/24/02/23/iranian-celebrities-caught-up-in-35-million-iphone-scam?utm_medium=rss)
- - [Microsoft releases PyRIT, a tool its AI Red Team has been using to check for risks in its generative AI systems like Copilot, to the public &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/240223/p9#a240223p9)
- - [The AIs are officially out of control](https://www.theverge.com/2024/2/23/24080579/gemini-chatgpt-problems-images-reddit-ipo-vergecast)<!-- TECH:END -->
+ - [Nvidia’s role in the AI wave has made it a $2 trillion company](https://www.theverge.com/2024/2/23/24080975/nvidia-ai-chips-h100-h200-market-capitalization)
+ - [Nvidia hits $2T in market value, after adding $277B to its market value on Thursday, Wall Street&#39;s largest one-day gain on record &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240223/p10#a240223p10)
+ - [AT&amp;T says massive service outage was caused by a technical error](https://www.androidauthority.com/att-outage-caused-by-error-3418589/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
