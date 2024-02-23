@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vision Pro owners concerned after multiple reports of mysterious cracks](https://www.androidauthority.com/vision-pro-cracks-3418638/)
- - [Florida&#39;s legislature passed one of US&#39; most restrictive bills on minors&#39; use of social media despite 1A concerns; the bill needs approval of Gov. Ron DeSantis &lpar;Brendan Farrington/Associated Press&rpar;](http://www.techmeme.com/240223/p13#a240223p13)
- - [Spotify HiFi is still MIA after three years, and now so is my subscription](https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip)<!-- TECH:END -->
+ - [A bug briefly makes Apple&#39;s own App Store less convenient in EU [u]](https://appleinsider.com/articles/24/02/23/apple-makes-its-own-app-store-less-convenient-in-eu?utm_medium=rss)
+ - [Google confirms &quot;a small subset of users&quot; have been temporarily unable to access the News tab filter in search results pages as part of ongoing testing &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/240223/p14#a240223p14)
+ - [23 Best Wireless Chargers &lpar;2024&rpar;: Pads, Stands, iPhone Docks, and More](https://www.wired.com/gallery/best-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
