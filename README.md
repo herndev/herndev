@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Amazon Echo Hub makes smart home control a piece of cake](https://www.androidauthority.com/amazon-echo-hub-us-release-3418444/)
- - [A US judge says FTX can sell its Anthropic shares after FTX reached a compromise with its customers opposing the sale; FTX invested $500M in Anthropic in 2021 &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240223/p3#a240223p3)
- - [Google Tweaked Search to Comply With EU Rules. Yelp Says It Makes Results Even More Unfair](https://www.wired.com/story/google-search-eu-yelp-unfair/)<!-- TECH:END -->
+ - [Interviews and emails show technical interviews have become more punishing for engineers after mass layoffs, requiring days of work on unpaid assignments &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p4#a240223p4)
+ - [Drive to Survive season 6 now available on Netflix](https://www.androidauthority.com/drive-to-survive-season-6-release-date-3409895/)
+ - [The Galaxy Z Fold 6 could bring long overdue design changes](https://www.androidauthority.com/galaxy-z-fold-6-design-leak-3418449/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
