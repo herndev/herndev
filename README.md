@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Nano is enabling on-device AI features on mid-range phones](https://www.androidauthority.com/google-gemini-nano-mid-range-phones-mediatek-3418503/)
- - [Galaxy S24’s first update with camera and display fixes is rolling out globally](https://www.androidauthority.com/samsung-galaxy-s24-series-first-update-rolling-out-globally-3418497/)
- - [Mark Zuckerberg is seeking to avoid being held personally liable in two dozen lawsuits accusing Meta of addicting children to its products in a hearing today &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240223/p6#a240223p6)<!-- TECH:END -->
+ - [The Supreme Court is about to decide the future of online speech](https://www.theverge.com/2024/2/23/24080521/supreme-court-netchoice-florida-texas-social-media-laws-arguments)
+ - [Yelp says its tests show design tweaks Google made to its search results to comply with EU&#39;s DMA are unfair and make users even more likely to stick with Google &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240223/p8#a240223p8)
+ - [Amazon&#39;s Eero 6 Plus Mesh Router Kit Is $140 Off Today Only     - CNET](https://www.cnet.com/deals/amazons-eero-6-plus-mesh-router-kit-is-140-off-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
