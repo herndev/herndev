@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews and emails show technical interviews have become more punishing for engineers after mass layoffs, requiring days of work on unpaid assignments &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p4#a240223p4)
- - [Drive to Survive season 6 now available on Netflix](https://www.androidauthority.com/drive-to-survive-season-6-release-date-3409895/)
- - [The Galaxy Z Fold 6 could bring long overdue design changes](https://www.androidauthority.com/galaxy-z-fold-6-design-leak-3418449/)<!-- TECH:END -->
+ - [Best 5G Phones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
+ - [Windows gets its own Pixel-style AI Magic Eraser](https://www.androidauthority.com/windows-generative-erase-photos-app-3418458/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
