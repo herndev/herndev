@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s role in the AI wave has made it a $2 trillion company](https://www.theverge.com/2024/2/23/24080975/nvidia-ai-chips-h100-h200-market-capitalization)
- - [Nvidia hits $2T in market value, after adding $277B to its market value on Thursday, Wall Street&#39;s largest one-day gain on record &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240223/p10#a240223p10)
- - [AT&amp;T says massive service outage was caused by a technical error](https://www.androidauthority.com/att-outage-caused-by-error-3418589/)<!-- TECH:END -->
+ - [Yes, the HUAWEI/Porsche Design partnership is over](https://www.androidauthority.com/huawei-porsche-design-partnership-3418645/)
+ - [Q&amp;A with Nvidia CEO Jensen Huang about plans for a new type of data center dubbed &quot;AI factory&quot;, foundational robotics, the Mellanox acquisition, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p12#a240223p12)
+ - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
