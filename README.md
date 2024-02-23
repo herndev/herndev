@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Empires Reveals Jam-Packed 2024 with its New Year, New Age Livestream](https://www.ageofempires.com/news/new-year-new-age-show-the-rundown/%20#new_tab)
- - [Nightingale’s jank mechanics are enveloped by a truly visionary world](https://www.polygon.com/24081032/nightingale-early-access-crafting-survival-impressions)
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240221-2200&rpar;](https://news.xbox.com/en-us/2024/02/23/xbox-insider-release-notes-alpha-2403-240221-2200/)<!-- GAME:END -->
+ - [It’s Time For Game Devs To Kill The Killmonger Swoop](https://kotaku.com/prince-of-persia-lost-crown-tekken-8-killmonger-hair-1851282520)
+ - [How to fix quirks with the tinker station in Pacific Drive](https://www.polygon.com/guides/24081076/pacific-drive-tinker-station-fix-quirks)
+ - [Helldivers 2 Is Committed To The Bit And So Are We](https://kotaku.com/helldivers-2-community-humor-1851282592)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
