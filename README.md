@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 5G Phones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
- - [Windows gets its own Pixel-style AI Magic Eraser](https://www.androidauthority.com/windows-generative-erase-photos-app-3418458/)<!-- TECH:END -->
+ - [TikTok-Famous Stanley Tumblers Are Up to 20% Off While Supplies Last     - CNET](https://www.cnet.com/deals/tiktok-famous-stanley-tumblers-are-up-to-20-off-while-supplies-last/#ftag=CAD590a51e)
+ - [How Japan took a head start in the chips race thanks to factors not easily repeated elsewhere, including efficient government support and a low-cost workforce &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p5#a240223p5)
+ - [File Your Taxes for Less With One of These Discounted Software Services     - CNET](https://www.cnet.com/deals/file-your-taxes-for-less-with-one-of-these-discounted-software-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
