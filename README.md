@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
- - ⏩ [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
- - 👉 [Women](http://9gag.com/gag/aA0Wv8d)<!-- MEMES:END -->
+ - 💣 [Elden ring : Shadow of the horny](http://9gag.com/gag/aMEROOR)
+ - ⏩ [The seks](http://9gag.com/gag/aVbnBby)
+ - 👉 [The drone ran out of battery and provided a scene worthy of Hollywood](http://9gag.com/gag/avQYdP5)<!-- MEMES:END -->
 
 ---
 
