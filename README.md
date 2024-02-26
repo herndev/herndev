@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Should Be Enjoyed, Not Optimized Or Farmed](https://kotaku.com/helldivers-2-farming-grinding-max-level-samples-ps5-pc-1851287157)
- - [The latest &lpar;and greatest&rpar; Like a Dragon game is already $30 off](https://www.polygon.com/deals/24083816/like-a-dragon-infinite-wealth-ps5-xbox-deal)
- - [Alan Wake 2 speedrunner is possessed by the spirit of dance, sacrifices a whole minute to rock out to the game&#39;s best song via audience flash mob](https://www.pcgamer.com/alan-wake-2-speedrunner-is-possessed-by-the-spirit-of-dance-sacrifices-a-whole-minute-to-rock-out-to-the-games-best-song-via-audience-flash-mob)<!-- GAME:END -->
+ - [Stardew Valley&#39;s long-awaited 1.6 update is coming to PC in March](https://www.pcgamer.com/stardew-valley-1-6-pc-release-date)
+ - [How many Dune movies will there be?](https://www.polygon.com/23712612/dune-how-many-parts-movies-sequels-messiah)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240221-2200&rpar;](https://news.xbox.com/en-us/2024/02/26/xbox-insider-release-notes-alpha-skip-ahead-2408-240221-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
