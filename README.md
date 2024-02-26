@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Future Of Bloodborne Isn’t Up To FromSoftware](https://kotaku.com/bloodborne-sequel-remake-fromsoftware-sony-1851286901)
- - [One person&#39;s journey to jailbreak a second-hand prison laptop is the most compelling read I&#39;ve had in absolutely ages](https://www.pcgamer.com/one-persons-journey-to-jailbreak-a-second-hand-prison-laptop-is-the-most-compelling-read-ive-had-in-absolutely-ages)
- - [Legendary Final Fantasy Composer May Be Done Making Full Soundtracks For Games](https://kotaku.com/final-fantasy-composer-nobuo-uematsu-game-music-1851286825)<!-- GAME:END -->
+ - [Helldivers 2 Should Be Enjoyed, Not Optimized Or Farmed](https://kotaku.com/helldivers-2-farming-grinding-max-level-samples-ps5-pc-1851287157)
+ - [The latest &lpar;and greatest&rpar; Like a Dragon game is already $30 off](https://www.polygon.com/deals/24083816/like-a-dragon-infinite-wealth-ps5-xbox-deal)
+ - [Alan Wake 2 speedrunner is possessed by the spirit of dance, sacrifices a whole minute to rock out to the game&#39;s best song via audience flash mob](https://www.pcgamer.com/alan-wake-2-speedrunner-is-possessed-by-the-spirit-of-dance-sacrifices-a-whole-minute-to-rock-out-to-the-games-best-song-via-audience-flash-mob)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
