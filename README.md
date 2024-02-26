@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download these cute wallpapers for your phone](https://www.androidauthority.com/cute-phone-wallpapers-3418817/)
- - [Forget your phone: Wear OS now gives directions and access to more passes](https://www.androidauthority.com/wear-os-google-maps-directions-and-passes-3418781/)
- - [Why leave your chats? Gemini is coming to Google Messages](https://www.androidauthority.com/google-messages-gemini-support-3418498/)<!-- TECH:END -->
+ - [The Microlino Lite is here to make urban SUVs look even dumber](https://www.theverge.com/24083014/microlino-lite-microcar-moped-license-price-specs)
+ - [Tecno&#39;s AI-Powered Robot Dog Is Inspired by the German Shepherd     - CNET](https://www.cnet.com/tech/mobile/tecno-robot-dog/#ftag=CAD590a51e)
+ - [Download these cute wallpapers for your phone](https://www.androidauthority.com/cute-phone-wallpapers-3418817/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
