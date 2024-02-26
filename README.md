@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best tech gifts for under $25](https://www.theverge.com/23156368/best-cheap-tech-gadgets-under-25)
- - [FTC cracks down on H&amp;R Block for deleting tax data when users want to downgrade](https://www.theverge.com/2024/2/23/24081404/h-r-block-tax-deceptive-marketing-ftc)
- - [X starts rolling out audio and video calling to all users, after previously limiting the feature to Premium subscribers; users can disable calling in settings &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240223/p21#a240223p21)<!-- TECH:END -->
+ - [Motorola showed us its phone that bends around the wrist, and we have questions](https://www.androidauthority.com/motorola-adaptive-display-hands-on-3419235/)
+ - [Lenovo transparent laptop hands-on: Utterly, uselessly cool](https://www.androidauthority.com/lenovo-thinkbook-transparent-display-laptop-concept-3418833/)
+ - [Lenovo’s Smart Connect aims to build a connected ecosystem for its family of devices](https://www.androidauthority.com/lenovo-motorola-smart-connect-3419105/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
