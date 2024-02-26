@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart ring vs smartwatch: Which one should you choose?](https://www.androidauthority.com/smart-rings-vs-smartwatches-3417981/)
- - [Sources: Indian government is evaluating $21B of chip proposals, including a $9B from Tower Semiconductor and an $8B from Tata Group for new plants in Gujarat &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240226/p6#a240226p6)
- - [Nvidia launches RTX 500 and RTX 1000, its new laptop GPUs for on-the-go AI processing powered by the Ada Lovelace architecture, available in Spring 2024 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240226/p5#a240226p5)<!-- TECH:END -->
+ - [Current Mortgage Interest Rates on Feb. 26, 2024: Important Mortgage Rate Recedes     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-feb-26-2024-important-mortgage-rate-recedes/#ftag=CAD590a51e)
+ - [Mortgage Refinance Rates on Feb. 26, 2024: Rate Eases     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-feb-26-2024-rate-eases/#ftag=CAD590a51e)
+ - [I Got To See Xiaomi&#39;s First EV and It Looks Awesome     - CNET](https://www.cnet.com/roadshow/pictures/i-got-to-see-xiaomis-first-ev-and-it-looks-awesome/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
