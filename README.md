@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - ⏩ [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
+ - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - ⏩ [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - 👉 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)<!-- MEMES:END -->
 
 ---
 
