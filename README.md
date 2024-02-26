@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - ⏩ [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)
- - 👉 [Gym camera catches Wild Encounter](http://9gag.com/gag/aGE36r5)<!-- MEMES:END -->
+ - 💣 [Painting fail](http://9gag.com/gag/abvPDGE)
+ - ⏩ [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 ---
 
