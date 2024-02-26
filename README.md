@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy launches record-breaking $400 MacBook Air discount](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)
- - [Apple doesn&#39;t care about games, long-time Apple Arcade developers say](https://appleinsider.com/articles/24/02/26/apple-doesnt-care-about-games-long-time-apple-arcade-developers-say?utm_medium=rss)
- - [The Pixel 7 is still worth buying, especially at $220 off](https://www.androidauthority.com/pixel-7-deal-3419675/)<!-- TECH:END -->
+ - [Score a New Keychron Mechanical Keyboard for as Little as $30     - CNET](https://www.cnet.com/deals/score-a-new-keychron-mechanical-keyboard-for-as-little-as-30/#ftag=CAD590a51e)
+ - [Lenovo&#39;s Futuristic Transparent Concept Laptop May Redefine Computing     - CNET](https://www.cnet.com/tech/computing/lenovos-futuristic-transparent-concept-laptop-may-redefine-computing/#ftag=CAD590a51e)
+ - [A phone without apps? This concept Android phone is going for it](https://www.androidauthority.com/deutsche-telekom-ai-smartphone-3419728/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
