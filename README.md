@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current Mortgage Interest Rates on Feb. 26, 2024: Important Mortgage Rate Recedes     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-feb-26-2024-important-mortgage-rate-recedes/#ftag=CAD590a51e)
- - [Mortgage Refinance Rates on Feb. 26, 2024: Rate Eases     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-feb-26-2024-rate-eases/#ftag=CAD590a51e)
- - [I Got To See Xiaomi&#39;s First EV and It Looks Awesome     - CNET](https://www.cnet.com/roadshow/pictures/i-got-to-see-xiaomis-first-ev-and-it-looks-awesome/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Microlino Lite is here to make urban SUVs look even dumber](https://www.theverge.com/24083014/microlino-lite-microcar-moped-license-price-specs)
+ - [Hands-On With Samsung&#39;s Health-Hacking Galaxy Ring](https://www.wired.com/story/samsung-galaxy-ring-mwc-2024/)
+ - [Nintendo fans might be waiting at least a year for the next Switch console](https://www.theverge.com/2024/2/26/24083409/nintendo-switch-2-next-gen-console-release-date-march-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
