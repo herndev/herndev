@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game hubs are available now for Xbox Insiders on PC](https://news.xbox.com/en-us/2024/02/26/game-hubs-are-available-now-for-xbox-insiders-on-pc/)
- - [How to watch Pokémon Presents on Pokémon Day](https://www.polygon.com/pokemon/24083505/pokemon-presents-2024-day-when-is-direct-how-to-watch)
- - [Everything we know about ‘Switch 2,’ Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)<!-- GAME:END -->
+ - [The Future Of Bloodborne Isn’t Up To FromSoftware](https://kotaku.com/bloodborne-sequel-remake-fromsoftware-sony-1851286901)
+ - [One person&#39;s journey to jailbreak a second-hand prison laptop is the most compelling read I&#39;ve had in absolutely ages](https://www.pcgamer.com/one-persons-journey-to-jailbreak-a-second-hand-prison-laptop-is-the-most-compelling-read-ive-had-in-absolutely-ages)
+ - [Legendary Final Fantasy Composer May Be Done Making Full Soundtracks For Games](https://kotaku.com/final-fantasy-composer-nobuo-uematsu-game-music-1851286825)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
