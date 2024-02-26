@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where And When To Watch The Big Pokémon Day Presentation](https://kotaku.com/pokemon-presents-stream-where-watch-when-time-1851287950)
- - [Elden Ring director says Shadow of the Erdtree will have a Sekiro-like leveling system so you can&#39;t just steamroll it](https://www.pcgamer.com/elden-ring-director-says-shadow-of-the-erdtree-will-have-a-sekiro-like-leveling-system-so-you-cant-just-steamroll-it)
- - [Doom Is Now Playable On A $2,000+ Lawnmower Because Why Not](https://kotaku.com/doom-ported-playable-lawnmower-robomower-1851287927)<!-- GAME:END -->
+ - [Narrative game studio Die Gute Fabrik has &#39;halted production&#39; because it can&#39;t find funding for a new project](https://www.pcgamer.com/narrative-game-studio-die-gute-fabrik-has-halted-production-because-it-cant-find-funding-for-a-new-project)
+ - [Microsoft&#39;s Pentiment Runs At 120FPS On PS5, But Only 60FPS On Xbox](https://kotaku.com/xbox-ps5-pentiment-120-60fps-update-bug-patch-microsoft-1851288090)
+ - [Helldivers 2’s Hunters: What They Are And How To Kill ‘Em](https://kotaku.com/helldivers-2-hunters-where-planet-kill-location-1851288031)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
