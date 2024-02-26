@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley&#39;s long-awaited 1.6 update is coming to PC in March](https://www.pcgamer.com/stardew-valley-1-6-pc-release-date)
- - [How many Dune movies will there be?](https://www.polygon.com/23712612/dune-how-many-parts-movies-sequels-messiah)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240221-2200&rpar;](https://news.xbox.com/en-us/2024/02/26/xbox-insider-release-notes-alpha-skip-ahead-2408-240221-2200/)<!-- GAME:END -->
+ - [Stardew Valley’s Huge 1.6 Update Finally Gets Release Date](https://kotaku.com/stardew-valley-patch-1-6-march-release-date-1851287784)
+ - [What class and Mastery should you play in Last Epoch?](https://www.polygon.com/guides/24078379/last-epoch-class-mastery-best-what-to-play)
+ - [Stardew Valley’s anticipated 1.6 update coming in March](https://www.polygon.com/24083974/stardew-valley-patch-1-6-release-date-march-19)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
