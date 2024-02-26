@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best video games of 2024, so far](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)
- - [Best ultrawide monitor for gaming in 2024: the expansive panels I recommend for PC gamers](https://www.pcgamer.com/best-ultrawide-monitor-for-gaming)
- - [Helldivers 2 CEO talks DLSS and FSR: &#39;When you are in a prio meeting and it&#39;s more awesome content vs more tech the decision is easy…&#39;](https://www.pcgamer.com/helldivers-2-ceo-talks-dlss-and-fsr-when-you-are-in-a-prio-meeting-and-its-more-awesome-content-vs-more-tech-the-decision-is-easy)<!-- GAME:END -->
+ - [Sapphire Nitro+ RX 7900 GRE review](https://www.pcgamer.com/sapphire-nitro-radeon-rx-7900-gre-review-performance-benchmarks)
+ - [Skull And Bones: The Kotaku Review](https://kotaku.com/skull-bones-review-xbox-1851281255)
+ - [A quarter century after its release, Age of Empires 2 is still getting DLC](https://www.pcgamer.com/a-quarter-century-after-its-release-age-of-empires-2-is-still-getting-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
