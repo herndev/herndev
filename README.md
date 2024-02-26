@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A consultant working for Rep. Dean Phillips, who challenged Biden in NH&#39;s primary, admits to producing the deepfake robocalls, saying anyone can do it for $500 &lpar;Alex Seitz-Wald/NBC News&rpar;](http://www.techmeme.com/240225/p9#a240225p9)
  - [Motorola showed us its phone that bends around the wrist, and we have questions](https://www.androidauthority.com/motorola-adaptive-display-hands-on-3419235/)
- - [Lenovo transparent laptop hands-on: Utterly, uselessly cool](https://www.androidauthority.com/lenovo-thinkbook-transparent-display-laptop-concept-3418833/)
- - [Lenovo’s Smart Connect aims to build a connected ecosystem for its family of devices](https://www.androidauthority.com/lenovo-motorola-smart-connect-3419105/)<!-- TECH:END -->
+ - [Motorola&#39;s Rollable Concept Phone Wraps on Your Wrist video     - CNET](https://www.cnet.com/videos/motorolas-rollable-concept-phone-wraps-on-your-wrist/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
