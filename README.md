@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Okie dokie](http://9gag.com/gag/aEqr56O)
- - ⏩ [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 👉 [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)<!-- MEMES:END -->
+ - 💣 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - ⏩ [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)
+ - 👉 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)<!-- MEMES:END -->
 
 ---
 
