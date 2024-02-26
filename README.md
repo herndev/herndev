@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade has the ‘smell of death’ around it, devs say](https://www.androidauthority.com/apple-arcade-smell-of-death-3419689/)
- - [Seagate’s Xbox Storage Expansion Card is cheaper than ever at nearly $100 off](https://www.theverge.com/2024/2/26/24083465/seagate-storage-expansion-card-xbox-ue-wonderboom-3-speaker-lg-c3-oled-tv-deal-sale)
- - [Q&amp;A with Uber CEO Dara Khosrowshahi about the Indian market, competition, achieving profitability, regrets about selling UberEats in India, regulations, more &lpar;The Economic Times&rpar;](http://www.techmeme.com/240226/p23#a240226p23)<!-- TECH:END -->
+ - [During oral arguments, justices seemed reluctant to completely strike down Texas and Florida social media laws but worried about impacts to companies&#39; 1A rights &lpar;Bloomberg&rpar;](http://www.techmeme.com/240226/p24#a240226p24)
+ - [The Coolest Phones at MWC 2024 From Samsung, Honor, Motorola and More     - CNET](https://www.cnet.com/pictures/the-coolest-phones-at-mwc-2024-from-samsung-honor-motorola-and-more/#ftag=CAD590a51e)
+ - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
