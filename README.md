@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - ⏩ [One in the world](http://9gag.com/gag/aA0WqQR)
- - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
+ - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - ⏩ [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 ---
 
