@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)
- - ⏩ [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)<!-- MEMES:END -->
+ - 💣 [Okie dokie](http://9gag.com/gag/aEqr56O)
+ - ⏩ [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - 👉 [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)<!-- MEMES:END -->
 
 ---
 
