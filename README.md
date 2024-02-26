@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - ⏩ [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - ⏩ [One in the world](http://9gag.com/gag/aA0WqQR)
  - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
 
 ---
