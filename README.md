@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Painting fail](http://9gag.com/gag/abvPDGE)
- - ⏩ [NASA&#39;s Huygens probe descending on the surface of the Titan, a moon of Saturn. It went offline shortly after touching down](http://9gag.com/gag/aL1YOVM)
+ - 💣 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
+ - ⏩ [China use cyanide to kill coralreef/fish near japan and philippines.](http://9gag.com/gag/a2KBgXp)
  - 👉 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)<!-- MEMES:END -->
 
 ---
