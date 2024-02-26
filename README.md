@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh god oh f**k](http://9gag.com/gag/amAjZVo)
- - ⏩ [Bro hacked his way to her heart](http://9gag.com/gag/aqe3EGY)
- - 👉 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)<!-- MEMES:END -->
+ - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - ⏩ [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 👉 [No chill, brother.](http://9gag.com/gag/a9qQw6W)<!-- MEMES:END -->
 
 ---
 
