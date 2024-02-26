@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Painting fail](http://9gag.com/gag/abvPDGE)
+ - 💣 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
  - ⏩ [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
+ - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
 
 ---
 
