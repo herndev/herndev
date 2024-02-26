@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A55 leak may have revealed full specs, price, and launch](https://www.androidauthority.com/galaxy-a55-specs-pricing-leak-3419840/)
- - [Bose’s QuietComfort Ultra Headphones have plunged to a new all-time low](https://www.theverge.com/2024/2/26/24083929/bose-quietcomfort-ultra-headphones-noise-canceling-staples-deal-sale)
- - [All the Top New Gadgets at MWC 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-mwc-2024/)<!-- TECH:END -->
+ - [Zoom reports Q4 revenue of $1.15B, up 2.6% YoY, vs. $1.13B est., Enterprise revenue of $667M, up 4.9% YoY, and announces a $1.5B stock buyback; ZM jumps 10%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240226/p27#a240226p27)
+ - [While Google paused Gemini&#39;s image generation, its text generation tool also offers some absurd responses, highlighting the need for flourishing open source AI &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240226/p26#a240226p26)
+ - [Russia&#39;s Online Campaign to Destroy Yulia Navalnaya](https://www.wired.com/story/kremlin-backed-accounts-trying-to-destroy-yulia-navalnaya/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
