@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - ⏩ [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 👉 [No chill, brother.](http://9gag.com/gag/a9qQw6W)<!-- MEMES:END -->
+ - 💣 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - ⏩ [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 👉 [One in the world](http://9gag.com/gag/aA0WqQR)<!-- MEMES:END -->
 
 ---
 
