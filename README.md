@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Normal Rat getting devoured by Monster Rat](http://9gag.com/gag/anzp0pB)
- - ⏩ [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
- - 👉 [A.I.](http://9gag.com/gag/agoMbEq)<!-- MEMES:END -->
+ - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - ⏩ [What&#39;s worse than a rapist](http://9gag.com/gag/anzpwnn)
+ - 👉 [No chill, brother.](http://9gag.com/gag/a9qQw6W)<!-- MEMES:END -->
 
 ---
 
