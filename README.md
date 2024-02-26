@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU officials are not happy with how Apple is handling Progressive Web Apps](https://appleinsider.com/articles/24/02/26/eu-officials-are-not-happy-with-how-apple-is-handling-progressive-web-apps?utm_medium=rss)
- - [The EU is asking developers about the impact of Apple&#39;s decision to disable PWAs in the EU, which could be a precursor towards an in-depth probe &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240226/p19#a240226p19)
- - [OpenPlus debuts the 1.43&quot; OnePlus Watch 2, its first Wear OS watch, featuring the Snapdragon W5 and a claimed 100-hour battery life, starting at $299 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240226/p18#a240226p18)<!-- TECH:END -->
+ - [Best Buy launches record-breaking $400 MacBook Air discount](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)
+ - [Apple doesn&#39;t care about games, long-time Apple Arcade developers say](https://appleinsider.com/articles/24/02/26/apple-doesnt-care-about-games-long-time-apple-arcade-developers-say?utm_medium=rss)
+ - [The Pixel 7 is still worth buying, especially at $220 off](https://www.androidauthority.com/pixel-7-deal-3419675/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
