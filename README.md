@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Transparent screens have been turning up at trade shows for years, but I still can&#39;t work out why you&#39;d really want one](https://www.pcgamer.com/transparent-screens-have-been-turning-up-at-trade-shows-for-years-but-i-still-cant-work-out-why-youd-really-want-one)
- - [Here’s Why The Nintendo Switch 2 Might Not Launch Until March 2025](https://kotaku.com/nintendo-switch-2-2025-delay-scalpers-resellers-1851286439)
- - [AMD, Microsoft, and Nvidia are getting cosy at GDC 2024 to tell us all about the new DirectSR upscaler](https://www.pcgamer.com/amd-microsoft-and-nvidia-are-getting-cosy-at-gdc-2024-to-tell-us-all-about-the-new-directsr-upscaler)<!-- GAME:END -->
+ - [Game hubs are available now for Xbox Insiders on PC](https://news.xbox.com/en-us/2024/02/26/game-hubs-are-available-now-for-xbox-insiders-on-pc/)
+ - [How to watch Pokémon Presents on Pokémon Day](https://www.polygon.com/pokemon/24083505/pokemon-presents-2024-day-when-is-direct-how-to-watch)
+ - [Everything we know about ‘Switch 2,’ Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
