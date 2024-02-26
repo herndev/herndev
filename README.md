@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest wild idea could be putting cameras in your AirPods](https://www.androidauthority.com/apple-airpods-with-cameras-idea-3419305/)
- - [Snapdragon X80 modem launched: A step closer to broad satellite support?](https://www.androidauthority.com/snapdragon-x80-modem-3417405/)
- - [More 2025 flagship phones will have UWB for smarter tracking, digital car keys](https://www.androidauthority.com/qualcomm-fastconnect-7900-uwb-3417980/)<!-- TECH:END -->
+ - [Download these cute wallpapers for your phone](https://www.androidauthority.com/cute-phone-wallpapers-3418817/)
+ - [Forget your phone: Wear OS now gives directions and access to more passes](https://www.androidauthority.com/wear-os-google-maps-directions-and-passes-3418781/)
+ - [Why leave your chats? Gemini is coming to Google Messages](https://www.androidauthority.com/google-messages-gemini-support-3418498/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
