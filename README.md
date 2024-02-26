@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley’s Huge 1.6 Update Finally Gets Release Date](https://kotaku.com/stardew-valley-patch-1-6-march-release-date-1851287784)
- - [What class and Mastery should you play in Last Epoch?](https://www.polygon.com/guides/24078379/last-epoch-class-mastery-best-what-to-play)
- - [Stardew Valley’s anticipated 1.6 update coming in March](https://www.polygon.com/24083974/stardew-valley-patch-1-6-release-date-march-19)<!-- GAME:END -->
+ - [Where And When To Watch The Big Pokémon Day Presentation](https://kotaku.com/pokemon-presents-stream-where-watch-when-time-1851287950)
+ - [Elden Ring director says Shadow of the Erdtree will have a Sekiro-like leveling system so you can&#39;t just steamroll it](https://www.pcgamer.com/elden-ring-director-says-shadow-of-the-erdtree-will-have-a-sekiro-like-leveling-system-so-you-cant-just-steamroll-it)
+ - [Doom Is Now Playable On A $2,000+ Lawnmower Because Why Not](https://kotaku.com/doom-ported-playable-lawnmower-robomower-1851287927)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
