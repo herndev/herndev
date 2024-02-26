@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [During oral arguments, justices seemed reluctant to completely strike down Texas and Florida social media laws but worried about impacts to companies&#39; 1A rights &lpar;Bloomberg&rpar;](http://www.techmeme.com/240226/p24#a240226p24)
- - [The Coolest Phones at MWC 2024 From Samsung, Honor, Motorola and More     - CNET](https://www.cnet.com/pictures/the-coolest-phones-at-mwc-2024-from-samsung-honor-motorola-and-more/#ftag=CAD590a51e)
- - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy A55 leak may have revealed full specs, price, and launch](https://www.androidauthority.com/galaxy-a55-specs-pricing-leak-3419840/)
+ - [Bose’s QuietComfort Ultra Headphones have plunged to a new all-time low](https://www.theverge.com/2024/2/26/24083929/bose-quietcomfort-ultra-headphones-noise-canceling-staples-deal-sale)
+ - [All the Top New Gadgets at MWC 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-mwc-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
