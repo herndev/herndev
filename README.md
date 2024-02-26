@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 💣 [Normal Rat getting devoured by Monster Rat](http://9gag.com/gag/anzp0pB)
  - ⏩ [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 👉 [No chill, brother.](http://9gag.com/gag/a9qQw6W)<!-- MEMES:END -->
+ - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
 
 ---
 
