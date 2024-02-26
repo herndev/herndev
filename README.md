@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score a New Keychron Mechanical Keyboard for as Little as $30     - CNET](https://www.cnet.com/deals/score-a-new-keychron-mechanical-keyboard-for-as-little-as-30/#ftag=CAD590a51e)
- - [Lenovo&#39;s Futuristic Transparent Concept Laptop May Redefine Computing     - CNET](https://www.cnet.com/tech/computing/lenovos-futuristic-transparent-concept-laptop-may-redefine-computing/#ftag=CAD590a51e)
- - [A phone without apps? This concept Android phone is going for it](https://www.androidauthority.com/deutsche-telekom-ai-smartphone-3419728/)<!-- TECH:END -->
+ - [Apple Arcade has the ‘smell of death’ around it, devs say](https://www.androidauthority.com/apple-arcade-smell-of-death-3419689/)
+ - [Seagate’s Xbox Storage Expansion Card is cheaper than ever at nearly $100 off](https://www.theverge.com/2024/2/26/24083465/seagate-storage-expansion-card-xbox-ue-wonderboom-3-speaker-lg-c3-oled-tv-deal-sale)
+ - [Q&amp;A with Uber CEO Dara Khosrowshahi about the Indian market, competition, achieving profitability, regrets about selling UberEats in India, regulations, more &lpar;The Economic Times&rpar;](http://www.techmeme.com/240226/p23#a240226p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
