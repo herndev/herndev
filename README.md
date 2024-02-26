@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
- - ⏩ [Who will survive?](http://9gag.com/gag/a5Xmxdo)
- - 👉 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)<!-- MEMES:END -->
+ - 💣 [Painting fail](http://9gag.com/gag/abvPDGE)
+ - ⏩ [NASA&#39;s Huygens probe descending on the surface of the Titan, a moon of Saturn. It went offline shortly after touching down](http://9gag.com/gag/aL1YOVM)
+ - 👉 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)<!-- MEMES:END -->
 
 ---
 
