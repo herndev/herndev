@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sapphire Nitro+ RX 7900 GRE review](https://www.pcgamer.com/sapphire-nitro-radeon-rx-7900-gre-review-performance-benchmarks)
- - [Skull And Bones: The Kotaku Review](https://kotaku.com/skull-bones-review-xbox-1851281255)
- - [A quarter century after its release, Age of Empires 2 is still getting DLC](https://www.pcgamer.com/a-quarter-century-after-its-release-age-of-empires-2-is-still-getting-dlc)<!-- GAME:END -->
+ - [Transparent screens have been turning up at trade shows for years, but I still can&#39;t work out why you&#39;d really want one](https://www.pcgamer.com/transparent-screens-have-been-turning-up-at-trade-shows-for-years-but-i-still-cant-work-out-why-youd-really-want-one)
+ - [Here’s Why The Nintendo Switch 2 Might Not Launch Until March 2025](https://kotaku.com/nintendo-switch-2-2025-delay-scalpers-resellers-1851286439)
+ - [AMD, Microsoft, and Nvidia are getting cosy at GDC 2024 to tell us all about the new DirectSR upscaler](https://www.pcgamer.com/amd-microsoft-and-nvidia-are-getting-cosy-at-gdc-2024-to-tell-us-all-about-the-new-directsr-upscaler)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
