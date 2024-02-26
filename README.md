@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - ⏩ [What&#39;s worse than a rapist](http://9gag.com/gag/anzpwnn)
- - 👉 [No chill, brother.](http://9gag.com/gag/a9qQw6W)<!-- MEMES:END -->
+ - ⏩ [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)
+ - 👉 [Gym camera catches Wild Encounter](http://9gag.com/gag/aGE36r5)<!-- MEMES:END -->
 
 ---
 
