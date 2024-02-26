@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - ⏩ [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)
- - 👉 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)<!-- MEMES:END -->
+ - 💣 [Normal Rat getting devoured by Monster Rat](http://9gag.com/gag/anzp0pB)
+ - ⏩ [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
+ - 👉 [A.I.](http://9gag.com/gag/agoMbEq)<!-- MEMES:END -->
 
 ---
 
