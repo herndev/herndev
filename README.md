@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Lore-accurate&#39; Dawn of War 2 mod lets you make it more like Dawn of War 1](https://www.pcgamer.com/lore-accurate-dawn-of-war-2-mod-lets-you-make-it-more-like-dawn-of-war-1)
- - [Baldur&#39;s Gate 3 has been nominated in five categories at this year&#39;s Gayming Awards](https://www.pcgamer.com/baldurs-gate-3-has-been-nominated-in-five-categories-at-this-years-gayming-awards)
- - [A Halo co-creator who was working on the next Battlefield has seemingly left the franchise and EA](https://www.pcgamer.com/a-halo-co-creator-who-was-working-on-the-next-battlefield-has-seemingly-left-the-franchise-and-ea)<!-- GAME:END -->
+ - [You can punch a tank in retro beat &#39;em up G.I. Joe: Wrath of Cobra](https://www.pcgamer.com/you-can-punch-a-tank-in-retro-beat-em-up-gi-joe-wrath-of-cobra)
+ - [Here&#39;s a blocky voxel RTS from the studio that made the Command &amp; Conquer remasters](https://www.pcgamer.com/heres-a-blocky-voxel-rts-from-the-studio-that-made-the-command-and-conquer-remasters)
+ - [Five new Steam games you probably missed &lpar;February 26, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-26-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
