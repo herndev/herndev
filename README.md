@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Mistral AI, which wants to be the &quot;most capital-efficient company in the world of AI&quot;, as it announces its new open-source AI model Mistral Large &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/240226/p14#a240226p14)
- - [iPhone 16 Pro expected to get Pro Max&#39;s Tetraprism lens](https://appleinsider.com/articles/24/02/26/iphone-16-pro-expected-to-get-pro-maxs-tetraprism-lens?utm_medium=rss)
- - [My streaming fatigue got so bad I started collecting DVDs](https://www.theverge.com/24044151/streaming-subscription-prices-dvd-collection)<!-- TECH:END -->
+ - [EU officials are not happy with how Apple is handling Progressive Web Apps](https://appleinsider.com/articles/24/02/26/eu-officials-are-not-happy-with-how-apple-is-handling-progressive-web-apps?utm_medium=rss)
+ - [The EU is asking developers about the impact of Apple&#39;s decision to disable PWAs in the EU, which could be a precursor towards an in-depth probe &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240226/p19#a240226p19)
+ - [OpenPlus debuts the 1.43&quot; OnePlus Watch 2, its first Wear OS watch, featuring the Snapdragon W5 and a claimed 100-hour battery life, starting at $299 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240226/p18#a240226p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
