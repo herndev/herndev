@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 💣 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
  - ⏩ [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)<!-- MEMES:END -->
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 ---
 
