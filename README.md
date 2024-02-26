@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
- - ⏩ [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
+ - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - ⏩ [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
 
 ---
 
