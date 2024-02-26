@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD Radeon RX 7900 GRE review: $549 competition for Nvidia](https://www.theverge.com/24083386/amd-radeon-rx-7900-gre-review-benchmarks-price)
- - [HONOR is looking beyond China, but its next market is even tougher](https://www.androidauthority.com/honor-george-zhao-interview-global-markets-3419466/)
- - [Sources detail their concerns with Apple Arcade, including declining developer payouts, cancelled projects, and its shift to focus on family-friendly games &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/240226/p10#a240226p10)<!-- TECH:END -->
+ - [A profile of Mistral AI, which wants to be the &quot;most capital-efficient company in the world of AI&quot;, as it announces its new open-source AI model Mistral Large &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/240226/p14#a240226p14)
+ - [iPhone 16 Pro expected to get Pro Max&#39;s Tetraprism lens](https://appleinsider.com/articles/24/02/26/iphone-16-pro-expected-to-get-pro-maxs-tetraprism-lens?utm_medium=rss)
+ - [My streaming fatigue got so bad I started collecting DVDs](https://www.theverge.com/24044151/streaming-subscription-prices-dvd-collection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
