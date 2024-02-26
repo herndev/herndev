@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Is Using AI to Stop Phone Scammers From Tricking You     - CNET](https://www.cnet.com/tech/mobile/microsoft-is-using-ai-to-stop-phone-scammers-from-tricking-you/#ftag=CAD590a51e)
  - [Q&amp;A with Robinhood CEO Vlad Tenev about the meme-stock craze, launching in the UK and EU, becoming customers&#39; primary financial institution, and more &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/240225/p10#a240225p10)
- - [A consultant working for Rep. Dean Phillips, who challenged Biden in NH&#39;s primary, admits to producing the deepfake robocalls, saying anyone can do it for $500 &lpar;Alex Seitz-Wald/NBC News&rpar;](http://www.techmeme.com/240225/p9#a240225p9)
- - [Motorola showed us its phone that bends around the wrist, and we have questions](https://www.androidauthority.com/motorola-adaptive-display-hands-on-3419235/)<!-- TECH:END -->
+ - [A consultant working for Rep. Dean Phillips, who challenged Biden in NH&#39;s primary, admits to producing the deepfake robocalls, saying anyone can do it for $500 &lpar;Alex Seitz-Wald/NBC News&rpar;](http://www.techmeme.com/240225/p9#a240225p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
