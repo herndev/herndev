@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Looking for a gaming laptop or handheld with extra smarts under the hood? MSI’s 2024 lineup ushers in the AI era](https://www.pcgamer.com/looking-for-a-gaming-laptop-or-handheld-with-extra-smarts-under-the-hood-msis-2024-lineup-ushers-in-the-ai-era)
  - [Do you hate being forced to reboot your PC every time a new Windows update drops? If so, there&#39;s a welcome change in the works.](https://www.pcgamer.com/do-you-hate-being-forced-to-reboot-your-pc-every-time-a-new-windows-update-drops-if-so-theres-a-welcome-change-in-the-works)
- - [Today&#39;s Wordle answer for Monday, February 26](https://www.pcgamer.com/wordle-answer-today-february-26-2024)
- - [Here&#39;s an indie tactics game inspired by X-Com, Rebelstar, and Laser Squad](https://www.pcgamer.com/heres-an-indie-tactics-game-inspired-by-x-com-rebelstar-and-laser-squad)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, February 26](https://www.pcgamer.com/wordle-answer-today-february-26-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
