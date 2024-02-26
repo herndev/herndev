@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best apps for the Galaxy S24 Ultra](https://www.androidauthority.com/best-samsung-galaxy-s24-ultra-apps-3403715/)
- - [This 28,000mAh power bank happens to be an Android phone](https://www.androidauthority.com/energizer-hard-case-p28k-28000mah-3419263/)
- - [PeckShield warns that MicroStrategy&#39;s X account has been compromised; ZachXBT: the hacker stole about $440K from users that were scammed by the phishing post &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240226/p1#a240226p1)<!-- TECH:END -->
+ - [Apple’s latest wild idea could be putting cameras in your AirPods](https://www.androidauthority.com/apple-airpods-with-cameras-idea-3419305/)
+ - [Snapdragon X80 modem launched: A step closer to broad satellite support?](https://www.androidauthority.com/snapdragon-x80-modem-3417405/)
+ - [More 2025 flagship phones will have UWB for smarter tracking, digital car keys](https://www.androidauthority.com/qualcomm-fastconnect-7900-uwb-3417980/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
