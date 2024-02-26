@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans of Pokémon-inspired MMO Temtem are arguing with the developer about what MMO means after Crema CEO says it&#39;s &#39;not feasible&#39; to keep adding content forever](https://www.pcgamer.com/fans-of-pokemon-inspired-mmo-temtem-are-arguing-with-the-developer-about-what-mmo-means-after-crema-ceo-says-its-not-feasible-to-keep-adding-content-forever)
- - [New Roguelike Game Mixes Deckbuliding With Poker](https://kotaku.com/balatro-poker-roguelike-worth-it-is-it-good-review-pc-1851283124)
- - [Lorcana’s Into the Inklands is almost here, but you’ll need request an invite to pre-order](https://www.polygon.com/deals/24081535/disney-lorcana-into-the-inklands-pre-order-amazon-queue-shopdisney)<!-- GAME:END -->
+ - [&#39;Lore-accurate&#39; Dawn of War 2 mod lets you make it more like Dawn of War 1](https://www.pcgamer.com/lore-accurate-dawn-of-war-2-mod-lets-you-make-it-more-like-dawn-of-war-1)
+ - [Baldur&#39;s Gate 3 has been nominated in five categories at this year&#39;s Gayming Awards](https://www.pcgamer.com/baldurs-gate-3-has-been-nominated-in-five-categories-at-this-years-gayming-awards)
+ - [A Halo co-creator who was working on the next Battlefield has seemingly left the franchise and EA](https://www.pcgamer.com/a-halo-co-creator-who-was-working-on-the-next-battlefield-has-seemingly-left-the-franchise-and-ea)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
