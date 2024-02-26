@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Microlino Lite is here to make urban SUVs look even dumber](https://www.theverge.com/24083014/microlino-lite-microcar-moped-license-price-specs)
- - [Hands-On With Samsung&#39;s Health-Hacking Galaxy Ring](https://www.wired.com/story/samsung-galaxy-ring-mwc-2024/)
- - [Nintendo fans might be waiting at least a year for the next Switch console](https://www.theverge.com/2024/2/26/24083409/nintendo-switch-2-next-gen-console-release-date-march-2025)<!-- TECH:END -->
+ - [AMD Radeon RX 7900 GRE review: $549 competition for Nvidia](https://www.theverge.com/24083386/amd-radeon-rx-7900-gre-review-benchmarks-price)
+ - [HONOR is looking beyond China, but its next market is even tougher](https://www.androidauthority.com/honor-george-zhao-interview-global-markets-3419466/)
+ - [Sources detail their concerns with Apple Arcade, including declining developer payouts, cancelled projects, and its shift to focus on family-friendly games &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/240226/p10#a240226p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
