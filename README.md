@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Narrative game studio Die Gute Fabrik has &#39;halted production&#39; because it can&#39;t find funding for a new project](https://www.pcgamer.com/narrative-game-studio-die-gute-fabrik-has-halted-production-because-it-cant-find-funding-for-a-new-project)
- - [Microsoft&#39;s Pentiment Runs At 120FPS On PS5, But Only 60FPS On Xbox](https://kotaku.com/xbox-ps5-pentiment-120-60fps-update-bug-patch-microsoft-1851288090)
- - [Helldivers 2’s Hunters: What They Are And How To Kill ‘Em](https://kotaku.com/helldivers-2-hunters-where-planet-kill-location-1851288031)<!-- GAME:END -->
+ - [How to find Immortal Eyes in Last Epoch](https://www.pcgamer.com/last-epoch-immortal-eyes-prophecy)
+ - [The makers of the excellent Half-Life remake Black Mesa are teasing something new](https://www.pcgamer.com/the-makers-of-the-excellent-half-life-remake-black-mesa-are-teasing-something-new)
+ - [Rainbow Six Siege&#39;s next operator brings back a classic Rainbow Six character nobody&#39;s heard from in 20 years](https://www.pcgamer.com/rainbow-six-siege-deimos-gerald-morris)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
