@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld&#39;s latest patch fixes bugs, buffs the letter F, leaves the nail economy in shambles, and lets you generate volcanic heat with 4 campfires](https://www.pcgamer.com/palworlds-latest-patch-fixes-bugs-buffs-the-letter-f-leaves-the-nail-economy-in-shambles-and-lets-you-generate-volcanic-heat-with-4-campfires)
- - [After 1,200 hours and &#39;6,000-7,000&#39; Malenia kills, Elden Ring&#39;s greatest guardian angel is thinking about hanging up his jar hat: &#39;I&#39;ve had my fill of fighting Malenias&#39;](https://www.pcgamer.com/after-1200-hours-and-6000-7000-malenia-kills-elden-rings-greatest-guardian-angel-is-thinking-about-hanging-up-his-jar-hat-ive-had-my-fill-of-fighting-malenias)
- - [US White House: The responsibility of cybersecurity should be tech companies&#39; and the Federal government&#39;s, not the individual](https://www.pcgamer.com/us-white-house-the-responsibility-of-cybersecurity-should-be-tech-companies-and-the-federal-governments-not-the-individual)<!-- GAME:END -->
+ - [Last Epoch is everything I wished Diablo 4 was, and the first ARPG to drag me away from Path of Exile in over a decade](https://www.pcgamer.com/last-epoch-is-everything-i-wished-diablo-4-was-and-the-first-arpg-to-drag-me-away-from-path-of-exile-in-over-a-decade)
+ - [How to get common, rare, and super samples in Helldivers 2](https://www.pcgamer.com/helldivers-2-samples-farm)
+ - [SSDs are getting more expensive again because the biggest NAND supplier has throttled production to half its previous output](https://www.pcgamer.com/ssds-are-getting-more-expensive-again-because-the-biggest-nand-supplier-has-throttled-production-to-half-its-previous-output)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
