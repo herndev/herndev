@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - ⏩ [Surprise](http://9gag.com/gag/a4oegWd)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - ⏩ [Don&#39;t look over.](http://9gag.com/gag/aMERobP)
+ - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
 
 ---
 
