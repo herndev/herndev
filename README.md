@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - ⏩ [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
+ - 💣 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - ⏩ [Surprise](http://9gag.com/gag/a4oegWd)
+ - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
 
 ---
 
