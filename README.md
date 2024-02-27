@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Remake&#39;s final scene gets a script change 2 days before its sequel drops, and it&#39;s going down about as well as you&#39;d expect](https://www.pcgamer.com/final-fantasy-7-remakes-final-scene-gets-a-script-change-2-days-before-its-sequel-drops-and-its-going-down-about-as-well-as-youd-expect)
- - [Windows Copilot gets its artificial tendrils deeper into the OS settings in a new beta update](https://www.pcgamer.com/windows-copilot-gets-its-artificial-tendrils-deeper-into-the-os-settings-in-a-new-beta-update)
- - [Last Epoch is everything I wished Diablo 4 was, and the first ARPG to drag me away from Path of Exile in over a decade](https://www.pcgamer.com/last-epoch-is-everything-i-wished-diablo-4-was-and-the-first-arpg-to-drag-me-away-from-path-of-exile-in-over-a-decade)<!-- GAME:END -->
+ - [PlayStation Cancels Multiple Games Amid Massive Job Cuts](https://kotaku.com/sony-playstation-layoffs-london-studio-closure-1851289547)
+ - [Pokémon is getting a whole new way to collect cards virtually](https://www.polygon.com/pokemon/24084532/pokemon-pocket-tcg-trading-card-game-virtual)
+ - [A new Pokémon Legends game is coming to Switch in 2025](https://www.polygon.com/24084157/pokemon-z-a-legends-2025-trailer-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
