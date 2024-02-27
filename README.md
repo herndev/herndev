@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Crunchyroll president Rahul Purini about the streamer&#39;s focus on anime, working with creators in Japan, competing with Netflix, future plans, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240227/p1#a240227p1)
- - [Samsung confirms: The Galaxy Ring can deliver up to 9 days of juice](https://www.androidauthority.com/samsung-galaxy-ring-battery-life-3418435/)
- - [Motorola will use Gorilla Glass for all of its smartphones starting this year](https://www.androidauthority.com/motorola-gorilla-glass-3419918/)<!-- TECH:END -->
+ - [Apple Vision Pro and motion sickness: Here’s what you need to know](https://www.androidauthority.com/apple-vision-pro-motion-sickness-3418129/)
+ - [Google details how Wear OS’s new hybrid interface works on the OnePlus Watch 2](https://www.androidauthority.com/google-wear-os-new-hybrid-interface-3420000/)
+ - [Nothing reveals Phone 2a design via AR video, because Nothing](https://www.androidauthority.com/nothing-phone-2a-design-revealed-3420003/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
