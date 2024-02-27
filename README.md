@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)
- - [Sources: Sonos delays its launch of $449 headphones to June, a month later than previously hoped, after hitting software snags, and aims to make up to 1M units &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p23#a240227p23)
- - [Ditch the glasses: This tablet delivers a 3D experience without the hassle](https://www.androidauthority.com/3d-android-tablet-zte-3420192/)<!-- TECH:END -->
+ - [Fourth visionOS 1.1 developer beta lands with more fixes](https://appleinsider.com/articles/24/02/27/fourth-visionos-11-developer-beta-lands-with-more-fixes?utm_medium=rss)
+ - [Internal docs: Tumblr staff compiled users&#39; data in preparation for deals where Automattic would sell the data to OpenAI and Midjourney to train AI tools &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240227/p26#a240227p26)
+ - [One week before EU&#39;s DMA kicks in, iOS 17.4 &amp; iPadOS 17.4 release candidates are out](https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
