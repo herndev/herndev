@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Last Epoch is everything I wished Diablo 4 was, and the first ARPG to drag me away from Path of Exile in over a decade](https://www.pcgamer.com/last-epoch-is-everything-i-wished-diablo-4-was-and-the-first-arpg-to-drag-me-away-from-path-of-exile-in-over-a-decade)
- - [How to get common, rare, and super samples in Helldivers 2](https://www.pcgamer.com/helldivers-2-samples-farm)
- - [SSDs are getting more expensive again because the biggest NAND supplier has throttled production to half its previous output](https://www.pcgamer.com/ssds-are-getting-more-expensive-again-because-the-biggest-nand-supplier-has-throttled-production-to-half-its-previous-output)<!-- GAME:END -->
+ - [Final Fantasy 7 Remake&#39;s final scene gets a script change 2 days before its sequel drops, and it&#39;s going down about as well as you&#39;d expect](https://www.pcgamer.com/final-fantasy-7-remakes-final-scene-gets-a-script-change-2-days-before-its-sequel-drops-and-its-going-down-about-as-well-as-youd-expect)
+ - [Windows Copilot gets its artificial tendrils deeper into the OS settings in a new beta update](https://www.pcgamer.com/windows-copilot-gets-its-artificial-tendrils-deeper-into-the-os-settings-in-a-new-beta-update)
+ - [Last Epoch is everything I wished Diablo 4 was, and the first ARPG to drag me away from Path of Exile in over a decade](https://www.pcgamer.com/last-epoch-is-everything-i-wished-diablo-4-was-and-the-first-arpg-to-drag-me-away-from-path-of-exile-in-over-a-decade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
