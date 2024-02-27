@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - ⏩ [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
- - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
+ - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - ⏩ [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
 
 ---
 
