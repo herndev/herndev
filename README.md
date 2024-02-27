@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the underground floppy disk music scene; Discogs data shows 500+ floppy music releases in the 2020s, more than in the 1980s, 1990s, and 2000s combined &lpar;Alexis Ong/The Verge&rpar;](http://www.techmeme.com/240227/p2#a240227p2)
- - [Samsung&#39;s Galaxy Ring Finally Shows Up in Person     - CNET](https://www.cnet.com/pictures/samsungs-galaxy-ring-finally-shows-up-in-person/#ftag=CAD590a51e)
- - [Apple Vision Pro and motion sickness: Here’s what you need to know](https://www.androidauthority.com/apple-vision-pro-motion-sickness-3418129/)<!-- TECH:END -->
+ - [iPhone 17 and iPhone 17 Plus rumored to get Always-On and ProMotion displays](https://appleinsider.com/articles/24/02/27/always-on-and-promotion-come-to-iphone-17-and-iphone-17-plus?utm_medium=rss)
+ - [Shadowfax, which operates a B2B logistics network in 2,500 Indian cities, raised a $100M Series E, bringing its total funding to $220M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240227/p6#a240227p6)
+ - [Microsoft says its investment in Mistral AI amounts to &amp;euro;15M; EU regulators plan to analyze the investment, which could eventually lead to a formal investigation &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240227/p5#a240227p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
