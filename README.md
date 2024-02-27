@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - ⏩ [Don&#39;t look over.](http://9gag.com/gag/aMERobP)
- - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
+ - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - ⏩ [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - 👉 [How the turn tables](http://9gag.com/gag/aqe3oRZ)<!-- MEMES:END -->
 
 ---
 
