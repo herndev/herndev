@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - ⏩ [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
+ - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - ⏩ [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
 
 ---
 
