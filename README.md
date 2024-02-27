@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dinosaur Survival Horror Makes its Grand Return in Fossilfuel 2](https://news.xbox.com/en-us/2024/02/27/dinosaur-survival-horror-makes-its-grand-return-in-fossilfuel-2/)
- - [Sting is my favorite part of David Lynch’s Dune](https://www.polygon.com/24080988/david-lynch-dune-sting-feyd-rautha)
- - [Warren Spector hails Epic Mickey as &#39;a real labor of love&#39;, says he&#39;s got an idea for the third entry but the day job makes that &#39;impossible&#39;](https://www.pcgamer.com/warren-spector-hails-epic-mickey-as-a-real-labor-of-love-says-hes-got-an-idea-for-the-third-entry-but-the-day-job-makes-that-impossible)<!-- GAME:END -->
+ - [How to find thermosap crystals in Pacific Drive](https://www.polygon.com/guides/24084616/pacific-drive-thermosap-crystals-how-to-find)
+ - [How to open a dumpster pearl in Pacific Drive](https://www.polygon.com/guides/24084961/pacific-drive-dumpster-pearl-how-to-open)
+ - [Palworld Devs Are Sorry For Fixing The Game](https://kotaku.com/palworld-patch-notes-0-1-5-0-tower-boss-bug-pc-xbox-1851291133)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
