@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - ⏩ [Yeah Science](http://9gag.com/gag/anzpPOE)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - ⏩ [We need peoooopleeee](http://9gag.com/gag/a7q4xdq)
+ - 👉 [Title](http://9gag.com/gag/amAjZNo)<!-- MEMES:END -->
 
 ---
 
