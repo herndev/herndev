@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Cancels Multiple Games Amid Massive Job Cuts](https://kotaku.com/sony-playstation-layoffs-london-studio-closure-1851289547)
- - [Pokémon is getting a whole new way to collect cards virtually](https://www.polygon.com/pokemon/24084532/pokemon-pocket-tcg-trading-card-game-virtual)
- - [A new Pokémon Legends game is coming to Switch in 2025](https://www.polygon.com/24084157/pokemon-z-a-legends-2025-trailer-nintendo-switch)<!-- GAME:END -->
+ - [Our Brilliant Ruin explores the sickly crust of aristocracy left clinging to the edge of the world](https://www.polygon.com/tabletop-games/24081025/our-brilliant-ruin-ttrpg-kickstarter-campaign)
+ - [Skyrim finally truly beaten as fanatical player does &#39;everything that can be done&#39; in the game, nabbing every item and perk in quest to hit level 1,337](https://www.pcgamer.com/skyrim-finally-truly-beaten-as-fanatical-player-does-everything-that-can-be-done-in-the-game-nabbing-every-item-and-perk-in-quest-to-hit-level-1337)
+ - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
