@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - ⏩ [We need peoooopleeee](http://9gag.com/gag/a7q4xdq)
- - 👉 [Title](http://9gag.com/gag/amAjZNo)<!-- MEMES:END -->
+ - 💣 [Good genetics](http://9gag.com/gag/a2KB36Y)
+ - ⏩ [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
+ - 👉 [Yeah Science](http://9gag.com/gag/anzpPOE)<!-- MEMES:END -->
 
 ---
 
