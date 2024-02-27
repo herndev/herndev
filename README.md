@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cities: Skylines 2 boss says lack of mod support is the &#39;biggest regret we have&#39;](https://www.pcgamer.com/cities-skylines-2-boss-says-lack-of-mod-support-is-the-biggest-regret-we-have)
  - [How to find Immortal Eyes in Last Epoch](https://www.pcgamer.com/last-epoch-immortal-eyes-prophecy)
- - [The makers of the excellent Half-Life remake Black Mesa are teasing something new](https://www.pcgamer.com/the-makers-of-the-excellent-half-life-remake-black-mesa-are-teasing-something-new)
- - [Rainbow Six Siege&#39;s next operator brings back a classic Rainbow Six character nobody&#39;s heard from in 20 years](https://www.pcgamer.com/rainbow-six-siege-deimos-gerald-morris)<!-- GAME:END -->
+ - [The makers of the excellent Half-Life remake Black Mesa are teasing something new](https://www.pcgamer.com/the-makers-of-the-excellent-half-life-remake-black-mesa-are-teasing-something-new)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
