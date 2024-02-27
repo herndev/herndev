@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [According to experts on kernel level anticheat, two things are abundantly clear: 1&rpar; It&#39;s not perfect and 2&rpar; It&#39;s not going anywhere](https://www.pcgamer.com/according-to-experts-on-kernel-level-anticheat-two-things-are-abundantly-clear-1-its-not-perfect-and-2-its-not-going-anywhere)
- - [Cities: Skylines 2 boss says lack of mod support is the &#39;biggest regret we have&#39;](https://www.pcgamer.com/cities-skylines-2-boss-says-lack-of-mod-support-is-the-biggest-regret-we-have)
- - [How to find Immortal Eyes in Last Epoch](https://www.pcgamer.com/last-epoch-immortal-eyes-prophecy)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, February 27](https://www.pcgamer.com/wordle-answer-today-february-27-2024)
+ - [Ultros review](https://www.pcgamer.com/ultros-review)
+ - [According to experts on kernel level anticheat, two things are abundantly clear: 1&rpar; It&#39;s not perfect and 2&rpar; It&#39;s not going anywhere](https://www.pcgamer.com/according-to-experts-on-kernel-level-anticheat-two-things-are-abundantly-clear-1-its-not-perfect-and-2-its-not-going-anywhere)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
