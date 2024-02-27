@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome chaos](http://9gag.com/gag/aWGKrrK)
- - ⏩ [Good genetics](http://9gag.com/gag/a2KB36Y)
- - 👉 [Japan can fix this](http://9gag.com/gag/adPZAmB)<!-- MEMES:END -->
+ - 💣 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - ⏩ [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
+ - 👉 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)<!-- MEMES:END -->
 
 ---
 
