@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked presentation: Intel&#39;s 14A process is slated for production in 2026, and its previously unannounced Intel 10A, its first 1nm chip, is set for late 2027 &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240227/p28#a240227p28)
- - [One week before EU&#39;s DMA kicks in, iOS 17.4 &amp; iPadOS 17.4 release candidates are out](https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out?utm_medium=rss)
- - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)<!-- TECH:END -->
+ - [Beats Solo 4 surface eight years after the Solo 3 debuted](https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted?utm_medium=rss)
+ - [visionOS 1.1 includes the ability to delete most of the pre-installed apps](https://appleinsider.com/articles/24/02/27/visionos-11-includes-the-ability-to-delete-most-of-the-pre-installed-apps?utm_medium=rss)
+ - [You can save $20 on several Nintendo Switch games for Pokémon Day](https://www.theverge.com/2024/2/27/24084528/best-pokemon-day-deals-legends-arceus-shining-pearl-brilliant-diamond-nintendo-switch-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
