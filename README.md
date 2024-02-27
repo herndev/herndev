@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - ⏩ [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - 💣 [A.I.](http://9gag.com/gag/agoMbEq)
+ - ⏩ [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 👉 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)<!-- MEMES:END -->
 
 ---
 
