@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro and motion sickness: Here’s what you need to know](https://www.androidauthority.com/apple-vision-pro-motion-sickness-3418129/)
- - [Google details how Wear OS’s new hybrid interface works on the OnePlus Watch 2](https://www.androidauthority.com/google-wear-os-new-hybrid-interface-3420000/)
- - [Nothing reveals Phone 2a design via AR video, because Nothing](https://www.androidauthority.com/nothing-phone-2a-design-revealed-3420003/)<!-- TECH:END -->
+ - [A look at the underground floppy disk music scene; Discogs data shows 500+ floppy music releases in the 2020s, more than in the 1980s, 1990s, and 2000s combined &lpar;Alexis Ong/The Verge&rpar;](http://www.techmeme.com/240227/p2#a240227p2)
+ - [Samsung&#39;s Galaxy Ring Finally Shows Up in Person     - CNET](https://www.cnet.com/pictures/samsungs-galaxy-ring-finally-shows-up-in-person/#ftag=CAD590a51e)
+ - [Apple Vision Pro and motion sickness: Here’s what you need to know](https://www.androidauthority.com/apple-vision-pro-motion-sickness-3418129/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
