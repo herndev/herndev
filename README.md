@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find thermosap crystals in Pacific Drive](https://www.polygon.com/guides/24084616/pacific-drive-thermosap-crystals-how-to-find)
- - [How to open a dumpster pearl in Pacific Drive](https://www.polygon.com/guides/24084961/pacific-drive-dumpster-pearl-how-to-open)
- - [Palworld Devs Are Sorry For Fixing The Game](https://kotaku.com/palworld-patch-notes-0-1-5-0-tower-boss-bug-pc-xbox-1851291133)<!-- GAME:END -->
+ - [Oh Goody: Wendy&#39;s Is Getting Surge Pricing Next Year](https://kotaku.com/wendys-surge-pricing-uber-1851291297)
+ - [Every Criterion Collection Blu-ray and DVD is 50% off through tomorrow](https://www.polygon.com/2024/2/27/24084558/criterion-collection-flash-half-off-sale-2024)
+ - [How to find thermosap crystals in Pacific Drive](https://www.polygon.com/guides/24084616/pacific-drive-thermosap-crystals-how-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
