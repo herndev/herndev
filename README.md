@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - ⏩ [A Meme origin](http://9gag.com/gag/a04AgdL)
- - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
+ - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - ⏩ [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 ---
 
