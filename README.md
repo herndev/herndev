@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
  - ⏩ [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
+ - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
 
 ---
 
