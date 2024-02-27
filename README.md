@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - ⏩ [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 👉 [Yeah Science](http://9gag.com/gag/anzpPOE)<!-- MEMES:END -->
+ - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - ⏩ [Yeah Science](http://9gag.com/gag/anzpPOE)
+ - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
 
 ---
 
