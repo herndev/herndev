@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - ⏩ [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - 💣 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - ⏩ [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
+ - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
 
 ---
 
