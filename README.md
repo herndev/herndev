@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peloton Bike or Peloton Bike Plus: Which One Should You Buy?     - CNET](https://www.cnet.com/health/fitness/peloton-bike-vs-peloton-bike-plus-which-one-should-you-buy/#ftag=CAD590a51e)
  - [Netflix ends subscriptions for legacy in-app payment users](https://appleinsider.com/articles/24/02/27/netflix-ends-subscriptions-for-legacy-in-app-payment-users?utm_medium=rss)
- - [Sources: the BlackCat ransomware gang is behind the outage at UnitedHealth&#39;s technology unit that has disrupted services at pharmacies in the US for six days &lpar;Reuters&rpar;](http://www.techmeme.com/240226/p34#a240226p34)
- - [Netflix confirms it’s cutting off Apple billing for grandfathered subscribers](https://www.theverge.com/24084173/netflix-refusing-apple-itunes-subscriptions)<!-- TECH:END -->
+ - [Best USB-C PD Chargers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-usb-c-pd-chargers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
