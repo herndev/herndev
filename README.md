@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now try Galaxy AI on any Android phone to see just how good it is](https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/)
- - [Hopin, the struggling virtual events startup valued at $7.75B in 2021, enters liquidation for its UK parent company as it moves its HQ to Delaware in the US &lpar;Sifted&rpar;](http://www.techmeme.com/240227/p10#a240227p10)
- - [Samsung Shows Off Wrist Phone Among Weird and Wonderful Display Concepts     - CNET](https://www.cnet.com/pictures/samsung-shows-off-wrist-phone-among-weird-and-wonderful-display-concepts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intenseye, which uses computer vision to spot risks and enhance workplace safety, raised a $64M Series B led by Lightspeed, bringing its total funding to $90M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240227/p14#a240227p14)
+ - [Future Apple hardware could work together to tell you about sounds in other rooms](https://appleinsider.com/articles/24/02/27/future-apple-hardware-could-work-together-to-tell-you-about-sounds-in-other-rooms?utm_medium=rss)
+ - [Netflix confirms that it has started removing Apple iTunes billing for longtime subscribers, and now requires them to pay directly on its website &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240227/p13#a240227p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
