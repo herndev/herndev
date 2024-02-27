@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh Goody: Wendy&#39;s Is Getting Surge Pricing Next Year](https://kotaku.com/wendys-surge-pricing-uber-1851291297)
- - [Every Criterion Collection Blu-ray and DVD is 50% off through tomorrow](https://www.polygon.com/2024/2/27/24084558/criterion-collection-flash-half-off-sale-2024)
- - [How to find thermosap crystals in Pacific Drive](https://www.polygon.com/guides/24084616/pacific-drive-thermosap-crystals-how-to-find)<!-- GAME:END -->
+ - [Revisit Aerith’s big Final Fantasy 7 scene before playing FF7 Rebirth](https://www.polygon.com/24085143/final-fantasy-7-aerith-death-scene-making-of)
+ - [Nintendo is suing the makers of the Switch emulator Yuzu, claims &#39;There is no lawful way to use Yuzu&#39;](https://www.pcgamer.com/nintendo-is-suing-the-makers-of-the-switch-emulator-yuzu-claims-there-is-no-lawful-way-to-use-yuzu)
+ - [New Study Shows Kids Are Bullied For Not Spending Money In Free-To-Play Games](https://kotaku.com/study-fortnite-free-to-play-games-kids-bullied-f2p-1851291618)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
