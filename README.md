@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - ⏩ [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - ⏩ [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
+ - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
 
 ---
 
