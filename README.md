@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Normal Rat getting devoured by Monster Rat](http://9gag.com/gag/anzp0pB)
- - ⏩ [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
+ - 💣 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
+ - ⏩ [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 ---
 
