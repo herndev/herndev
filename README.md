@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Join Xbox and Microsoft at GDC 2024](https://developer.microsoft.com/en-us/games/articles/2024/02/join-xbox-and-microsoft-at-gdc-2024/#new_tab)
- - [Elon Musk finally says something we can all agree on: No one wants to have to log in with a Microsoft Account on Windows 11](https://www.pcgamer.com/elon-musk-finally-says-something-we-can-all-agree-on-no-one-wants-to-have-to-log-in-with-a-microsoft-account-on-windows-11)
- - [Italian soulslike drops &#39;suicidal&#39; June release date after realising it was set to come out the same day as Shadow of the Erdtree](https://www.pcgamer.com/italian-soulslike-drops-suicidal-june-release-date-after-realising-it-was-set-to-come-out-the-same-day-as-shadow-of-the-erdtree)<!-- GAME:END -->
+ - [New Jaws Game Is-OH GOD THE FACES](https://kotaku.com/jaws-infested-waters-shark-attack-roblox-online-pc-1851290185)
+ - [&#39;The largest esports company in the world&#39; is laying off 15% of its workforce](https://www.pcgamer.com/the-largest-esports-company-in-the-world-is-laying-off-15-of-its-workforce)
+ - [Helldivers 2’s Armor Types And Stats Demystified](https://kotaku.com/helldivers-2-armor-light-medium-heavy-passive-1851290148)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
