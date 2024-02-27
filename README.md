@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - ⏩ [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
- - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
+ - 💣 [Wholesome chaos](http://9gag.com/gag/aWGKrrK)
+ - ⏩ [Good genetics](http://9gag.com/gag/a2KB36Y)
+ - 👉 [Japan can fix this](http://9gag.com/gag/adPZAmB)<!-- MEMES:END -->
 
 ---
 
