@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Pokémon Legends: Z-A&#39; Is Coming in 2025. Will a New Nintendo Switch Join It?](https://www.wired.com/story/pokemon-legends-z-a-nintendo-switch-2/)
- - [Texas sues Pornhub owner for not adding age verification requirements](https://www.theverge.com/2024/2/27/24084615/texas-ken-paxton-pornhub-aylo-lawsuit-age-verification)
- - [Seacom says a subsea cable was damaged in the area where Houthi fighters are targeting ships, highlighting how vulnerable critical subsea infrastructure can be &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240227/p20#a240227p20)<!-- TECH:END -->
+ - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)
+ - [Sources: Sonos delays its launch of $449 headphones to June, a month later than previously hoped, after hitting software snags, and aims to make up to 1M units &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p23#a240227p23)
+ - [Ditch the glasses: This tablet delivers a 3D experience without the hassle](https://www.androidauthority.com/3d-android-tablet-zte-3420192/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
