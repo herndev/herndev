@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intenseye, which uses computer vision to spot risks and enhance workplace safety, raised a $64M Series B led by Lightspeed, bringing its total funding to $90M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240227/p14#a240227p14)
- - [Future Apple hardware could work together to tell you about sounds in other rooms](https://appleinsider.com/articles/24/02/27/future-apple-hardware-could-work-together-to-tell-you-about-sounds-in-other-rooms?utm_medium=rss)
- - [Netflix confirms that it has started removing Apple iTunes billing for longtime subscribers, and now requires them to pay directly on its website &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240227/p13#a240227p13)<!-- TECH:END -->
+ - [This phone offers two headphone jacks, one ridiculously low price](https://www.androidauthority.com/nubia-music-phone-two-headphone-jacks-3420147/)
+ - [Sony says its PlayStation layoffs will also impact game makers Insomniac, Naughty Dog, and Guerrilla, three of its most successful subsidiaries &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240227/p16#a240227p16)
+ - [Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
