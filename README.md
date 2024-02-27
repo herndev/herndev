@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity reports Q4 revenue up 35% YoY to $609M, vs. $551M est., but down 2% YoY to $510M excluding a W&amp;#275;t&amp;amacr; FX deal, Q1 sales guidance far below est.; U drops 15%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240226/p28#a240226p28)
- - [MWC 2024 Tech You Can Actually Buy Right Now     - CNET](https://www.cnet.com/deals/mwc-2024-tech-you-can-actually-buy-right-now/#ftag=CAD590a51e)
- - [Zoom reports Q4 revenue of $1.15B, up 2.6% YoY, vs. $1.13B est., Enterprise revenue of $667M, up 4.9% YoY, and announces a $1.5B stock buyback; ZM jumps 10%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240226/p27#a240226p27)<!-- TECH:END -->
+ - [The US adds internet censorship tech provider Sandvine to its entity list, banning it from obtaining US tech, for supplying equipment to the government of Egypt &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240226/p33#a240226p33)
+ - [Apple&#39;s annual shareholder meeting tackling conservative fears, China, equality, &amp; AI](https://appleinsider.com/articles/24/02/26/apple-shareholders-to-vote-on-ai-equality-conservatives-concerns-at-annual-meeting?utm_medium=rss)
+ - [The CTO for US Central Command says AI developed for Project Maven was used to narrow down targets for 85+ air strikes in the Middle East on February 2 &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240226/p32#a240226p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
