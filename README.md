@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [According to experts on kernel level anticheat, two things are abundantly clear: 1&rpar; It&#39;s not perfect and 2&rpar; It&#39;s not going anywhere](https://www.pcgamer.com/according-to-experts-on-kernel-level-anticheat-two-things-are-abundantly-clear-1-its-not-perfect-and-2-its-not-going-anywhere)
  - [Cities: Skylines 2 boss says lack of mod support is the &#39;biggest regret we have&#39;](https://www.pcgamer.com/cities-skylines-2-boss-says-lack-of-mod-support-is-the-biggest-regret-we-have)
- - [How to find Immortal Eyes in Last Epoch](https://www.pcgamer.com/last-epoch-immortal-eyes-prophecy)
- - [The makers of the excellent Half-Life remake Black Mesa are teasing something new](https://www.pcgamer.com/the-makers-of-the-excellent-half-life-remake-black-mesa-are-teasing-something-new)<!-- GAME:END -->
+ - [How to find Immortal Eyes in Last Epoch](https://www.pcgamer.com/last-epoch-immortal-eyes-prophecy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
