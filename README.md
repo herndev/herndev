@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A.I.](http://9gag.com/gag/agoMbEq)
- - ⏩ [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 👉 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)<!-- MEMES:END -->
+ - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - ⏩ [A Meme origin](http://9gag.com/gag/a04AgdL)
+ - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 ---
 
