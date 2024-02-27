@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Ask&#39; project may be far more than just an AI-assisted support tool](https://appleinsider.com/articles/24/02/27/apples-ask-project-may-be-far-more-than-just-an-ai-assisted-support-tool?utm_medium=rss)
- - [Hands-on with an AI-focused Android phone: A stepping stone to the future](https://www.androidauthority.com/telekom-concept-ai-phone-hands-on-3420009/)
- - [Mortgage Interest Rates for Feb. 27, 2024: Rates Move Up for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-for-feb-27-2024-rates-move-up-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can now try Galaxy AI on any Android phone to see just how good it is](https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/)
+ - [Hopin, the struggling virtual events startup valued at $7.75B in 2021, enters liquidation for its UK parent company as it moves its HQ to Delaware in the US &lpar;Sifted&rpar;](http://www.techmeme.com/240227/p10#a240227p10)
+ - [Samsung Shows Off Wrist Phone Among Weird and Wonderful Display Concepts     - CNET](https://www.cnet.com/pictures/samsung-shows-off-wrist-phone-among-weird-and-wonderful-display-concepts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
