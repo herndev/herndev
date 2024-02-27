@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin miners win legal battle to keep mum about energy use](https://www.theverge.com/2024/2/27/24079048/bitcoin-crypto-mining-energy-department-electricity-survey-restraining-order)
- - [At MWC 2024, this smartphone company is fighting for privacy and consumer choice](https://www.androidauthority.com/punkt-mc02-mwc-2024-launch-3420155/)
- - [Ford, Mercedes, and Tesla have the least problematic EV supply chains](https://www.theverge.com/2024/2/27/24084576/ford-mercedes-tesla-ev-supply-chain-leaderboard-climate)<!-- TECH:END -->
+ - [&#39;Pokémon Legends: Z-A&#39; Is Coming in 2025. Will a New Nintendo Switch Join It?](https://www.wired.com/story/pokemon-legends-z-a-nintendo-switch-2/)
+ - [Texas sues Pornhub owner for not adding age verification requirements](https://www.theverge.com/2024/2/27/24084615/texas-ken-paxton-pornhub-aylo-lawsuit-age-verification)
+ - [Seacom says a subsea cable was damaged in the area where Houthi fighters are targeting ships, highlighting how vulnerable critical subsea infrastructure can be &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240227/p20#a240227p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
