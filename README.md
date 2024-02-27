@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Brilliant Ruin explores the sickly crust of aristocracy left clinging to the edge of the world](https://www.polygon.com/tabletop-games/24081025/our-brilliant-ruin-ttrpg-kickstarter-campaign)
- - [Skyrim finally truly beaten as fanatical player does &#39;everything that can be done&#39; in the game, nabbing every item and perk in quest to hit level 1,337](https://www.pcgamer.com/skyrim-finally-truly-beaten-as-fanatical-player-does-everything-that-can-be-done-in-the-game-nabbing-every-item-and-perk-in-quest-to-hit-level-1337)
- - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)<!-- GAME:END -->
+ - [Join Xbox and Microsoft at GDC 2024](https://developer.microsoft.com/en-us/games/articles/2024/02/join-xbox-and-microsoft-at-gdc-2024/#new_tab)
+ - [Elon Musk finally says something we can all agree on: No one wants to have to log in with a Microsoft Account on Windows 11](https://www.pcgamer.com/elon-musk-finally-says-something-we-can-all-agree-on-no-one-wants-to-have-to-log-in-with-a-microsoft-account-on-windows-11)
+ - [Italian soulslike drops &#39;suicidal&#39; June release date after realising it was set to come out the same day as Shadow of the Erdtree](https://www.pcgamer.com/italian-soulslike-drops-suicidal-june-release-date-after-realising-it-was-set-to-come-out-the-same-day-as-shadow-of-the-erdtree)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
