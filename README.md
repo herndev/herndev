@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This phone offers two headphone jacks, one ridiculously low price](https://www.androidauthority.com/nubia-music-phone-two-headphone-jacks-3420147/)
- - [Sony says its PlayStation layoffs will also impact game makers Insomniac, Naughty Dog, and Guerrilla, three of its most successful subsidiaries &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240227/p16#a240227p16)
- - [Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart)<!-- TECH:END -->
+ - [Bitcoin miners win legal battle to keep mum about energy use](https://www.theverge.com/2024/2/27/24079048/bitcoin-crypto-mining-energy-department-electricity-survey-restraining-order)
+ - [At MWC 2024, this smartphone company is fighting for privacy and consumer choice](https://www.androidauthority.com/punkt-mc02-mwc-2024-launch-3420155/)
+ - [Ford, Mercedes, and Tesla have the least problematic EV supply chains](https://www.theverge.com/2024/2/27/24084576/ford-mercedes-tesla-ev-supply-chain-leaderboard-climate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
