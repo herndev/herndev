@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 and iPhone 17 Plus rumored to get Always-On and ProMotion displays](https://appleinsider.com/articles/24/02/27/always-on-and-promotion-come-to-iphone-17-and-iphone-17-plus?utm_medium=rss)
- - [Shadowfax, which operates a B2B logistics network in 2,500 Indian cities, raised a $100M Series E, bringing its total funding to $220M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240227/p6#a240227p6)
- - [Microsoft says its investment in Mistral AI amounts to &amp;euro;15M; EU regulators plan to analyze the investment, which could eventually lead to a formal investigation &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240227/p5#a240227p5)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Ask&#39; project may be far more than just an AI-assisted support tool](https://appleinsider.com/articles/24/02/27/apples-ask-project-may-be-far-more-than-just-an-ai-assisted-support-tool?utm_medium=rss)
+ - [Hands-on with an AI-focused Android phone: A stepping stone to the future](https://www.androidauthority.com/telekom-concept-ai-phone-hands-on-3420009/)
+ - [Mortgage Interest Rates for Feb. 27, 2024: Rates Move Up for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-for-feb-27-2024-rates-move-up-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
