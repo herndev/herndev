@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - ⏩ [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 👉 [How the turn tables](http://9gag.com/gag/aqe3oRZ)<!-- MEMES:END -->
+ - 💣 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - ⏩ [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 👉 [Yeah Science](http://9gag.com/gag/anzpPOE)<!-- MEMES:END -->
 
 ---
 
