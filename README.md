@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Jaws Game Is-OH GOD THE FACES](https://kotaku.com/jaws-infested-waters-shark-attack-roblox-online-pc-1851290185)
- - [&#39;The largest esports company in the world&#39; is laying off 15% of its workforce](https://www.pcgamer.com/the-largest-esports-company-in-the-world-is-laying-off-15-of-its-workforce)
- - [Helldivers 2’s Armor Types And Stats Demystified](https://kotaku.com/helldivers-2-armor-light-medium-heavy-passive-1851290148)<!-- GAME:END -->
+ - [Kalos Is The Perfect Setting For A New Pokémon Legends Game](https://kotaku.com/pokemon-legends-z-a-kalos-war-az-switch-teaser-trailer-1851290552)
+ - [How To Get FF7 Rebirth’s Bonus Materia From A Remake Save File](https://kotaku.com/final-fantasy-7-rebirth-summon-materia-remake-save-1851290475)
+ - [&#39;I don&#39;t play poker at all&#39; says solo developer who made the poker roguelike I can&#39;t stop playing](https://www.pcgamer.com/i-dont-play-poker-at-all-says-solo-developer-who-made-the-poker-roguelike-i-cant-stop-playing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
