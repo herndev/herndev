@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kalos Is The Perfect Setting For A New Pokémon Legends Game](https://kotaku.com/pokemon-legends-z-a-kalos-war-az-switch-teaser-trailer-1851290552)
- - [How To Get FF7 Rebirth’s Bonus Materia From A Remake Save File](https://kotaku.com/final-fantasy-7-rebirth-summon-materia-remake-save-1851290475)
- - [&#39;I don&#39;t play poker at all&#39; says solo developer who made the poker roguelike I can&#39;t stop playing](https://www.pcgamer.com/i-dont-play-poker-at-all-says-solo-developer-who-made-the-poker-roguelike-i-cant-stop-playing)<!-- GAME:END -->
+ - [Dinosaur Survival Horror Makes its Grand Return in Fossilfuel 2](https://news.xbox.com/en-us/2024/02/27/dinosaur-survival-horror-makes-its-grand-return-in-fossilfuel-2/)
+ - [Sting is my favorite part of David Lynch’s Dune](https://www.polygon.com/24080988/david-lynch-dune-sting-feyd-rautha)
+ - [Warren Spector hails Epic Mickey as &#39;a real labor of love&#39;, says he&#39;s got an idea for the third entry but the day job makes that &#39;impossible&#39;](https://www.pcgamer.com/warren-spector-hails-epic-mickey-as-a-real-labor-of-love-says-hes-got-an-idea-for-the-third-entry-but-the-day-job-makes-that-impossible)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
