@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fourth visionOS 1.1 developer beta lands with more fixes](https://appleinsider.com/articles/24/02/27/fourth-visionos-11-developer-beta-lands-with-more-fixes?utm_medium=rss)
- - [Internal docs: Tumblr staff compiled users&#39; data in preparation for deals where Automattic would sell the data to OpenAI and Midjourney to train AI tools &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240227/p26#a240227p26)
- - [One week before EU&#39;s DMA kicks in, iOS 17.4 &amp; iPadOS 17.4 release candidates are out](https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked presentation: Intel&#39;s 14A process is slated for production in 2026, and its previously unannounced Intel 10A, its first 1nm chip, is set for late 2027 &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240227/p28#a240227p28)
+ - [One week before EU&#39;s DMA kicks in, iOS 17.4 &amp; iPadOS 17.4 release candidates are out](https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out?utm_medium=rss)
+ - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
