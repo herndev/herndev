@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - ⏩ [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
+ - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - ⏩ [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
 
 ---
 
