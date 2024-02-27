@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good genetics](http://9gag.com/gag/a2KB36Y)
- - ⏩ [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
- - 👉 [Yeah Science](http://9gag.com/gag/anzpPOE)<!-- MEMES:END -->
+ - 💣 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - ⏩ [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 👉 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)<!-- MEMES:END -->
 
 ---
 
