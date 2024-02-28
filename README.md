@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - ⏩ [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
- - 👉 [Bye bye](http://9gag.com/gag/aEqr95p)<!-- MEMES:END -->
+ - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - ⏩ [Don&#39;t look over.](http://9gag.com/gag/aMERobP)
+ - 👉 [Disclaimer for sex offender Kenneth Petty](http://9gag.com/gag/aRE5ngQ)<!-- MEMES:END -->
 
 ---
 
