@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - ⏩ [Wtf](http://9gag.com/gag/aNwx6rr)
- - 👉 [Women](http://9gag.com/gag/a8qPZ36)<!-- MEMES:END -->
+ - 💣 [Juicy](http://9gag.com/gag/aRE5bv7)
+ - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 👉 [Why and how is this benefit its user?](http://9gag.com/gag/amAje66)<!-- MEMES:END -->
 
 ---
 
