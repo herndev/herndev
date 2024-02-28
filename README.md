@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, February 28](https://www.pcgamer.com/wordle-answer-today-february-28-2024)
  - [MalwareBytes recommends using USB condoms with USB vibrators to avoid nasty infections](https://www.pcgamer.com/malwarebytes-recommends-using-usb-condoms-with-usb-vibrators-to-avoid-nasty-infections)
- - [The best survival games on PC](https://www.pcgamer.com/the-best-survival-games-on-pc)
- - [Diablo 4 sorcerer build vomits up so many fireballs you need the minimap to see where you&#39;re going](https://www.pcgamer.com/diablo-4-fireball-sorcerer-build-the-gauntlet)<!-- GAME:END -->
+ - [The best survival games on PC](https://www.pcgamer.com/the-best-survival-games-on-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
