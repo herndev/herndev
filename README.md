@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP reports Q1 revenue down 4.4% YoY to $13.19B, vs. $13.56B est., Personal Systems revenue down 4% YoY to $8.8B, and Printing revenue down 5% YoY to $4.4B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p35#a240228p35)
- - [Apple is turning William Gibson’s Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
- - [Snowflake says that CEO Frank Slootman is retiring, and reports Q4 revenue up 32% YoY to $774.7M and Q1 product revenue guidance below est.; SNOW drops 23%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240228/p34#a240228p34)<!-- TECH:END -->
+ - [An Apple Pencil update is coming soon -- what you need to know](https://appleinsider.com/articles/24/02/28/an-apple-pencil-update-is-coming-soon----what-you-need-to-know?utm_medium=rss)
+ - [Sources: cloud storage service Egnyte has hired underwriters for a US IPO as early as this year that could value it at $3B+; Egnyte was valued at $460M in 2018 &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p37#a240228p37)
+ - [Gemini agrees to return over $1B to customers and pay a $37M fine in a settlement with the New York Department of Financial Services related to Gemini Earn &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240228/p36#a240228p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
