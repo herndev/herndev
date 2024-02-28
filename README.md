@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [February’s Indie Selects: Amazing and Delightful Indie Games Chosen by the ID@Xbox Team](https://news.xbox.com/en-us/2024/02/28/february-indie-selects-xbox/)
- - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)
- - [New Pokémon TCG App Fixes A Decades-Old Error](https://kotaku.com/pokemon-pocket-app-trading-card-game-poke-ball-art-1851293140)<!-- GAME:END -->
+ - [How Starfield Filled Its Galaxy with Alien Life](https://news.xbox.com/en-us/2024/02/28/how-starfield-filled-its-galaxy-with-alien-life/)
+ - [Tears Of The Kingdom Was Pirated 1 Million Times, Nintendo Claims In Lawsuit](https://kotaku.com/nintendo-zelda-tears-kingdom-switch-yuzu-emulate-pirate-1851293463)
+ - [9 beginners tips to know before starting Helldivers 2](https://www.polygon.com/guides/24084442/helldivers-2-beginners-tips-tricks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
