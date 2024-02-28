@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara kick-starts its first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)
- - [Venture funding to Black-founded US startups in 2023 totaled $705M across 191 deals, or less than 0.5% of all venture funding, down from $2.4B in 2022 &lpar;Crunchbase News&rpar;](http://www.techmeme.com/240228/p13#a240228p13)
- - [Google TV’s For You home screen gets a refresh to fit in more apps](https://www.androidauthority.com/google-tv-for-you-home-screen-refresh-3420714/)<!-- TECH:END -->
+ - [What a bunch of A-list celebs taught me about how to use my phone](https://www.theverge.com/24084772/celebrities-no-phone-bieber-sheeran-cruise-cera-ipad)
+ - [I drove a car using just my eyes and a smartphone](https://www.androidauthority.com/eye-tracking-car-mwc-2024-3420616/)
+ - [A detailed look at the modern chip manufacturing process, involving more than a thousand precisely controlled steps to create a single integrated circuit &lpar;Financial Times&rpar;](http://www.techmeme.com/240228/p14#a240228p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
