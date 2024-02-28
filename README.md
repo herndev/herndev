@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload is almost certainly getting the classic &#39;The Answer&#39; expansion at this point](https://www.pcgamer.com/persona-3-reload-is-almost-certainly-getting-the-classic-the-answer-expansion-at-this-point)
- - [Nintendo suing makers of open-source Switch emulator Yuzu](https://www.polygon.com/24085140/nintendo-totk-leaked-yuzu-lawsuit-emulator)
- - [Square Enix won&#39;t let us play Final Fantasy 7 Rebirth on PC yet, so my consolation prize is finally playing Final Fantasy 15](https://www.pcgamer.com/square-enix-wont-let-us-play-final-fantasy-7-rebirth-on-pc-yet-so-my-consolation-prize-is-finally-playing-final-fantasy-15)<!-- GAME:END -->
+ - [The best survival games on PC](https://www.pcgamer.com/the-best-survival-games-on-pc)
+ - [Diablo 4 sorcerer build vomits up so many fireballs you need the minimap to see where you&#39;re going](https://www.pcgamer.com/diablo-4-fireball-sorcerer-build-the-gauntlet)
+ - [Star Wars: Dark Forces Remaster review](https://www.pcgamer.com/star-wars-dark-forces-remaster-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
