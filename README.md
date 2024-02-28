@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the real &#39;Masters of the Air&#39; in Apple&#39;s new documentary](https://appleinsider.com/articles/24/02/28/meet-the-real-masters-of-the-air-in-apples-new-documentary?utm_medium=rss)
- - [Memo: SBF&#39;s lawyers suggest a short sentence of five to six years in prison, citing medical conditions, including autism, and his philanthropic giving &lpar;Caitlin Ostroff/Wall Street Journal&rpar;](http://www.techmeme.com/240228/p22#a240228p22)
- - [Cancelling the Apple Car is a good move, says Morgan Stanley](https://appleinsider.com/articles/24/02/28/cancelling-the-apple-car-is-a-good-move-says-morgan-stanley?utm_medium=rss)<!-- TECH:END -->
+ - [M3 iMac is on Apple&#39;s refurbished store, but there is a better deal](https://appleinsider.com/articles/24/02/28/m3-imac-is-on-apples-refurbished-store-but-there-is-a-better-deal?utm_medium=rss)
+ - [Emergency Planners Are Having a Moment](https://www.wired.com/story/permacrisis-emergency-planners-lucy-easthope-disaster-wired-health/)
+ - [Shareholders voted the way Apple wanted at the annual shareholder meeting](https://appleinsider.com/articles/24/02/28/shareholders-voted-the-way-apple-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
