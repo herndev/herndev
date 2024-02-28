@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitter Banned Runescape&#39;s Account Because It Thought An 8-Year-Old Created It](https://kotaku.com/runescape-jagex-twitter-ban-kid-1851295139)
- - [I Thought This Final Fantasy VII Character Had Big Goat Ears For Decades](https://kotaku.com/final-fantasy-7-aerith-bow-character-model-1851295115)
- - [59 Days Into 2024 And 8,100+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
+ - [&#39;We have an actual person with the title of Game Master&#39;: A single Helldivers 2 dev named Joel is pulling the strings on its galactic war like an all-powerful D&amp;D dungeon master, war will become &#39;more and more sophisticated over time&#39;](https://www.pcgamer.com/we-have-an-actual-person-with-the-title-of-game-master-a-single-helldivers-2-dev-named-joel-is-pulling-the-strings-on-its-galactic-war-like-an-all-powerful-dandd-dungeon-master-war-will-become-more-and-more-sophisticated-over-time)
+ - [Electronic Arts cuts jobs for more than 670 workers](https://www.polygon.com/24086077/electronic-arts-ea-layoffs-february-2024)
+ - [EA Cancels Respawn Star Wars Shooter Amid Mass Layoff](https://kotaku.com/star-wars-fps-respawn-canceled-cuts-layoffs-ea-1851295478)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
