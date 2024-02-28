@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In abandoning plans for a self-driving car, Apple is giving up on billions in potential revenue and hoping AI, Vision Pro, and other bets make up the difference &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p40#a240227p40)
  - [Google appears to globally roll out &quot;glanceable directions while navigating&quot; on Maps, which shows real-time ETA and turn-by-turn directions on the lock screen &lpar;Chandraveer Mathur/Android Police&rpar;](http://www.techmeme.com/240227/p39#a240227p39)
- - [A US judge clears Chinese state-backed chipmaker Fujian Jinhua of economic espionage and other charges, over five years after the US blacklisted the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240227/p38#a240227p38)
- - [Klarna claims its ChatGPT-powered AI chatbot handles two-thirds of all customer service chats and does the equivalent work of 700 full-time human agents &lpar;Christopher Zara/Fast Company&rpar;](http://www.techmeme.com/240227/p37#a240227p37)<!-- TECH:END -->
+ - [A US judge clears Chinese state-backed chipmaker Fujian Jinhua of economic espionage and other charges, over five years after the US blacklisted the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240227/p38#a240227p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
