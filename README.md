@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MalwareBytes recommends using USB condoms with USB vibrators to avoid nasty infections](https://www.pcgamer.com/malwarebytes-recommends-using-usb-condoms-with-usb-vibrators-to-avoid-nasty-infections)
  - [The best survival games on PC](https://www.pcgamer.com/the-best-survival-games-on-pc)
- - [Diablo 4 sorcerer build vomits up so many fireballs you need the minimap to see where you&#39;re going](https://www.pcgamer.com/diablo-4-fireball-sorcerer-build-the-gauntlet)
- - [Star Wars: Dark Forces Remaster review](https://www.pcgamer.com/star-wars-dark-forces-remaster-review)<!-- GAME:END -->
+ - [Diablo 4 sorcerer build vomits up so many fireballs you need the minimap to see where you&#39;re going](https://www.pcgamer.com/diablo-4-fireball-sorcerer-build-the-gauntlet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
