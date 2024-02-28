@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Trading Card Game Pocket devs say it’s not an NFT project](https://www.polygon.com/24085172/pokemon-trading-card-game-pocket-tcg-nft)
  - [Today&#39;s Wordle answer for Wednesday, February 28](https://www.pcgamer.com/wordle-answer-today-february-28-2024)
- - [MalwareBytes recommends using USB condoms with USB vibrators to avoid nasty infections](https://www.pcgamer.com/malwarebytes-recommends-using-usb-condoms-with-usb-vibrators-to-avoid-nasty-infections)
- - [The best survival games on PC](https://www.pcgamer.com/the-best-survival-games-on-pc)<!-- GAME:END -->
+ - [MalwareBytes recommends using USB condoms with USB vibrators to avoid nasty infections](https://www.pcgamer.com/malwarebytes-recommends-using-usb-condoms-with-usb-vibrators-to-avoid-nasty-infections)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
