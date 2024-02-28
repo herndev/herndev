@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna claims its ChatGPT-powered AI chatbot handles two-thirds of all customer service chats and does the equivalent work of 700 full-time human agents &lpar;Christopher Zara/Fast Company&rpar;](http://www.techmeme.com/240227/p37#a240227p37)
- - [The EU Parliament bars Amazon lobbyists from its premises, after MEPs said the company repeatedly refused to engage about workers&#39; rights and labor conditions &lpar;Financial Times&rpar;](http://www.techmeme.com/240227/p36#a240227p36)
- - [Beats Solo 4 surface eight years after the Solo 3 debuted](https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted?utm_medium=rss)<!-- TECH:END -->
+ - [Google appears to globally roll out &quot;glanceable directions while navigating&quot; on Maps, which shows real-time ETA and turn-by-turn directions on the lock screen &lpar;Chandraveer Mathur/Android Police&rpar;](http://www.techmeme.com/240227/p39#a240227p39)
+ - [A US judge clears Chinese state-backed chipmaker Fujian Jinhua of economic espionage and other charges, over five years after the US blacklisted the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240227/p38#a240227p38)
+ - [Klarna claims its ChatGPT-powered AI chatbot handles two-thirds of all customer service chats and does the equivalent work of 700 full-time human agents &lpar;Christopher Zara/Fast Company&rpar;](http://www.techmeme.com/240227/p37#a240227p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
