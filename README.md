@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Samsung, now HONOR is also working on a smart ring](https://www.androidauthority.com/honor-smart-ring-flip-foldable-3420563/)
- - [Xiaomi releases HyperOS roadmap: Is your phone getting the update soon?](https://www.androidauthority.com/xiaomi-global-hyperos-release-roadmap-3420572/)
- - [Filing: Applied Materials discloses &quot;multiple subpoenas&quot; as recently as February from US agencies, including the SEC, about the company&#39;s Chinese business &lpar;Bloomberg&rpar;](http://www.techmeme.com/240228/p4#a240228p4)<!-- TECH:END -->
+ - [A look at some government contractors that are helping US intelligence agencies and others use targeted mobile ads to track down people &lpar;Byron Tau/Wired&rpar;](http://www.techmeme.com/240228/p6#a240228p6)
+ - [Analysis: Vietnam&#39;s share in global smartphone exports grew from less than 1% in 2010 to 12% in 2022, while India&#39;s grew from &lt;1% to 2.5%+ over the same period &lpar;The Hindu&rpar;](http://www.techmeme.com/240228/p5#a240228p5)
+ - [First Samsung, now HONOR is also working on a smart ring](https://www.androidauthority.com/honor-smart-ring-flip-foldable-3420563/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
