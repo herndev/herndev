@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
- - ⏩ [Juicy](http://9gag.com/gag/aRE5bv7)
- - 👉 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)<!-- MEMES:END -->
+ - 💣 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - ⏩ [Wtf](http://9gag.com/gag/aNwx6rr)
+ - 👉 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)<!-- MEMES:END -->
 
 ---
 
