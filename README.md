@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple met with DOJ Assistant AG Jonathan Kanter last week in a final bid to avoid an antitrust suit, which is expected to be filed by the end of March &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240227/p34#a240227p34)
- - [Best Sonos Deals: Save on Move, Roam and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [Filing: Nintendo sues the makers of Switch emulator Yuzu in US federal court, alleging it is designed to circumvent Nintendo&#39;s encryption and facilitates piracy &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240227/p33#a240227p33)<!-- TECH:END -->
+ - [Imminent DOJ antitrust case against Apple is in final pre-filing phase -- probably](https://appleinsider.com/articles/24/02/28/imminent-doj-antitrust-case-against-apple-is-in-final-pre-filing-phase----probably?utm_medium=rss)
+ - [A Major ‘Stardew Valley’ Update Is Coming in March](https://www.wired.com/story/stardew-valley-update-march-2024/)
+ - [Eufy’s new 360-degree 4K camera doesn’t need Wi-Fi or power outlets](https://www.theverge.com/2024/2/27/24085151/anker-eufy-4k-lte-cam-s330-features-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
