@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some Final Fantasy 7 Rebirth Discs Are Misprinted And Could Cause Problems](https://kotaku.com/ff7-rebirth-final-fantasy-wrong-disc-misprinted-ps5-1851294175)
- - [Cinematrix Is The Best Commute Game Since Wordle](https://kotaku.com/cinematrix-connections-wordle-commute-game-1851293900)
- - [Remastering One Of The Best Star Wars Games Ever Made Wasn&#39;t Easy](https://kotaku.com/best-star-wars-game-dark-forces-fps-remaster-ps5-xbox-1851294048)<!-- GAME:END -->
+ - [This $20 8BitDo adapter lets a PS/Xbox controller work seamlessly on your Switch](https://www.polygon.com/deals/24084059/nintendo-switch-accessory-adapter-playstation-ps5-xbox-controllers-8bitdo)
+ - [The best accessories for your Steam Deck](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
+ - [New Fan Blog Argues &lpar;Rightly&rpar; That Final Fantasy VIII Is The Best](https://kotaku.com/final-fantasy-8-is-the-best-fan-blog-is-the-best-1851294482)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
