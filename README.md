@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/amAjZNo)
- - ⏩ [Women](http://9gag.com/gag/a8qPZ36)
- - 👉 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)<!-- MEMES:END -->
+ - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - ⏩ [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
+ - 👉 [Bye bye](http://9gag.com/gag/aEqr95p)<!-- MEMES:END -->
 
 ---
 
