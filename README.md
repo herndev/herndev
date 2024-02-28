@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Starfield Filled Its Galaxy with Alien Life](https://news.xbox.com/en-us/2024/02/28/how-starfield-filled-its-galaxy-with-alien-life/)
- - [Tears Of The Kingdom Was Pirated 1 Million Times, Nintendo Claims In Lawsuit](https://kotaku.com/nintendo-zelda-tears-kingdom-switch-yuzu-emulate-pirate-1851293463)
- - [9 beginners tips to know before starting Helldivers 2](https://www.polygon.com/guides/24084442/helldivers-2-beginners-tips-tricks)<!-- GAME:END -->
+ - [You can play Call of Duty: Warzone on your phone in March](https://www.polygon.com/24085672/call-of-duty-warzone-mobile-release-date-announcement)
+ - [FX’s Shōgun is the first can’t-miss show of the year](https://www.polygon.com/24085152/hulu-shogun-episode-1-review-fx)
+ - [PSA: Be Careful Skipping Cutscenes In FF7 Rebirth’s Flashback Chapter](https://kotaku.com/final-fantasy-7-rebirth-ff7-ps5-demo-skip-flashback-1851293862)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
