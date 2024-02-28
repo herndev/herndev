@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RIP Apple Car. This Is Why It Died](https://www.wired.com/story/rip-apple-car-this-is-why-it-died/)
- - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)
- - [Thrasio, which raised $3B+ in equity and debt to acquire third-party Amazon sellers, files for Chapter 11 bankruptcy and secures $90M in emergency funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240228/p11#a240228p11)<!-- TECH:END -->
+ - [Aqara kick-starts its first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)
+ - [Venture funding to Black-founded US startups in 2023 totaled $705M across 191 deals, or less than 0.5% of all venture funding, down from $2.4B in 2022 &lpar;Crunchbase News&rpar;](http://www.techmeme.com/240228/p13#a240228p13)
+ - [Google TV’s For You home screen gets a refresh to fit in more apps](https://www.androidauthority.com/google-tv-for-you-home-screen-refresh-3420714/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
