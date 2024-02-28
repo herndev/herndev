@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cure for nagging](http://9gag.com/gag/aKE0R8N)
- - ⏩ [Take a break from propaganda and enjoy this weld](http://9gag.com/gag/aPgNEVK)
- - 👉 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)<!-- MEMES:END -->
+ - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - ⏩ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 👉 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)<!-- MEMES:END -->
 
 ---
 
