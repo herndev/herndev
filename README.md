@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at some government contractors that are helping US intelligence agencies and others use targeted mobile ads to track down people &lpar;Byron Tau/Wired&rpar;](http://www.techmeme.com/240228/p6#a240228p6)
- - [Analysis: Vietnam&#39;s share in global smartphone exports grew from less than 1% in 2010 to 12% in 2022, while India&#39;s grew from &lt;1% to 2.5%+ over the same period &lpar;The Hindu&rpar;](http://www.techmeme.com/240228/p5#a240228p5)
- - [First Samsung, now HONOR is also working on a smart ring](https://www.androidauthority.com/honor-smart-ring-flip-foldable-3420563/)<!-- TECH:END -->
+ - [Samsung could surprise us with two new Galaxy Buds 3 earbuds](https://www.androidauthority.com/samsung-new-galaxy-buds-3-pro-earbuds-leak-3420619/)
+ - [Galaxy Z Fold 6 renders leak: Sharp is in, curves are out](https://www.androidauthority.com/galaxy-z-fold-6-renders-leak-3420625/)
+ - [A look at some government contractors that are helping US intelligence agencies and others use targeted mobile ads to track down people &lpar;Byron Tau/Wired&rpar;](http://www.techmeme.com/240228/p6#a240228p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
