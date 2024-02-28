@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Revisit Aerith’s big Final Fantasy 7 scene before playing FF7 Rebirth](https://www.polygon.com/24085143/final-fantasy-7-aerith-death-scene-making-of)
- - [Nintendo is suing the makers of the Switch emulator Yuzu, claims &#39;There is no lawful way to use Yuzu&#39;](https://www.pcgamer.com/nintendo-is-suing-the-makers-of-the-switch-emulator-yuzu-claims-there-is-no-lawful-way-to-use-yuzu)
- - [New Study Shows Kids Are Bullied For Not Spending Money In Free-To-Play Games](https://kotaku.com/study-fortnite-free-to-play-games-kids-bullied-f2p-1851291618)<!-- GAME:END -->
+ - [Persona 3 Reload is almost certainly getting the classic &#39;The Answer&#39; expansion at this point](https://www.pcgamer.com/persona-3-reload-is-almost-certainly-getting-the-classic-the-answer-expansion-at-this-point)
+ - [Nintendo suing makers of open-source Switch emulator Yuzu](https://www.polygon.com/24085140/nintendo-totk-leaked-yuzu-lawsuit-emulator)
+ - [Square Enix won&#39;t let us play Final Fantasy 7 Rebirth on PC yet, so my consolation prize is finally playing Final Fantasy 15](https://www.pcgamer.com/square-enix-wont-let-us-play-final-fantasy-7-rebirth-on-pc-yet-so-my-consolation-prize-is-finally-playing-final-fantasy-15)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
