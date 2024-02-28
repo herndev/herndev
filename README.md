@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak backs up obvious news that Apple is designing 2nm processors](https://appleinsider.com/articles/24/02/28/leak-backs-up-obvious-news-that-apple-is-designing-2nm-processors?utm_medium=rss)
- - [Reliance and Disney merge their media businesses in India, creating the country&#39;s largest media conglomerate; Reliance values it at $8.5B and will invest $1.4B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240228/p17#a240228p17)
- - [Google is pushing everyone to adopt Wear OS’s newer battery-friendly watch faces](https://www.androidauthority.com/google-wear-os-watch-face-format-3420764/)<!-- TECH:END -->
+ - [Sources: Meta plans to launch Llama 3 in July, as it tries to overcome a perceived problem that Llama 2 is too &quot;safe&quot; with its answers about contentious topics &lpar;The Information&rpar;](http://www.techmeme.com/240228/p18#a240228p18)
+ - [VisionDevCamp is a three-day hackathon for Vision Pro Devs](https://appleinsider.com/articles/24/02/28/visiondevcamp-is-a-three-day-hackathon-for-vision-pro-devs?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 28&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-28-2024-3418169/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
