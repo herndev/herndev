@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What a bunch of A-list celebs taught me about how to use my phone](https://www.theverge.com/24084772/celebrities-no-phone-bieber-sheeran-cruise-cera-ipad)
- - [I drove a car using just my eyes and a smartphone](https://www.androidauthority.com/eye-tracking-car-mwc-2024-3420616/)
- - [A detailed look at the modern chip manufacturing process, involving more than a thousand precisely controlled steps to create a single integrated circuit &lpar;Financial Times&rpar;](http://www.techmeme.com/240228/p14#a240228p14)<!-- TECH:END -->
+ - [Leak backs up obvious news that Apple is designing 2nm processors](https://appleinsider.com/articles/24/02/28/leak-backs-up-obvious-news-that-apple-is-designing-2nm-processors?utm_medium=rss)
+ - [Reliance and Disney merge their media businesses in India, creating the country&#39;s largest media conglomerate; Reliance values it at $8.5B and will invest $1.4B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240228/p17#a240228p17)
+ - [Google is pushing everyone to adopt Wear OS’s newer battery-friendly watch faces](https://www.androidauthority.com/google-wear-os-watch-face-format-3420764/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
