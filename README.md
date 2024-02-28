@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
- - ⏩ [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)
- - 👉 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)<!-- MEMES:END -->
+ - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - ⏩ [Juicy](http://9gag.com/gag/aRE5bv7)
+ - 👉 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)<!-- MEMES:END -->
 
 ---
 
