@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was eating somebody else\u2019s leftovers but she took it away and gave him fresh food \ud83e\udd7a](http://9gag.com/gag/aQEwGVW)
- - ⏩ [Name a movie that everybody say its bad but for you it was a good one, ill start](http://9gag.com/gag/az2Nndm)
- - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
+ - 💣 [Don&#39;t look over.](http://9gag.com/gag/aMERobP)
+ - ⏩ [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
+ - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
 
 ---
 
