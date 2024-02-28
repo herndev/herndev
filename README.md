@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro could launch overseas sooner than expected](https://appleinsider.com/articles/24/02/28/apple-vision-pro-could-launch-overseas-sooner-than-expected?utm_medium=rss)
- - [Dictators Used Sandvine Tech to Censor the Internet. The US Finally Did Something About It](https://www.wired.com/story/sandvine-us-sanctions-egypt-internet-censorship/)
- - [Kuo: Vision Pro demand is higher than Apple originally expected, with US shipments expected to hit 200-250k units this year; return rates are now below 1% &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240228/p20#a240228p20)<!-- TECH:END -->
+ - [Meet the real &#39;Masters of the Air&#39; in Apple&#39;s new documentary](https://appleinsider.com/articles/24/02/28/meet-the-real-masters-of-the-air-in-apples-new-documentary?utm_medium=rss)
+ - [Memo: SBF&#39;s lawyers suggest a short sentence of five to six years in prison, citing medical conditions, including autism, and his philanthropic giving &lpar;Caitlin Ostroff/Wall Street Journal&rpar;](http://www.techmeme.com/240228/p22#a240228p22)
+ - [Cancelling the Apple Car is a good move, says Morgan Stanley](https://appleinsider.com/articles/24/02/28/cancelling-the-apple-car-is-a-good-move-says-morgan-stanley?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
