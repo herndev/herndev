@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Games can be more fun if you mix it with stupidity](http://9gag.com/gag/aWGKK6d)
- - ⏩ [Best cinematic shot ever.](http://9gag.com/gag/a9qQ9m1)
- - 👉 [Haha](http://9gag.com/gag/ap9yyGM)<!-- MEMES:END -->
+ - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
+ - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 👉 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)<!-- MEMES:END -->
 
 ---
 
