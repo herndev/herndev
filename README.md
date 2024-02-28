@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could surprise us with two new Galaxy Buds 3 earbuds](https://www.androidauthority.com/samsung-new-galaxy-buds-3-pro-earbuds-leak-3420619/)
- - [Galaxy Z Fold 6 renders leak: Sharp is in, curves are out](https://www.androidauthority.com/galaxy-z-fold-6-renders-leak-3420625/)
- - [A look at some government contractors that are helping US intelligence agencies and others use targeted mobile ads to track down people &lpar;Byron Tau/Wired&rpar;](http://www.techmeme.com/240228/p6#a240228p6)<!-- TECH:END -->
+ - [Nintendo is suing the team behind the Yuzu emulator, used for Switch games](https://www.androidauthority.com/nintendo-sue-yuzu-emulator-switch-3420613/)
+ - [Baidu reports Q4 revenue up 6% YoY to ~$4.9B and net income down 48% YoY to ~$366M, as chatbot Ernie, which has 100M+ users, began to augment its ads business &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240228/p9#a240228p9)
+ - [Meta CEO Mark Zuckerberg met with LG executives in South Korea to discuss a stronger partnership on XR devices as well as a potential collaboration in AI &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240228/p8#a240228p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
