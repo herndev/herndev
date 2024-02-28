@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 iMac is on Apple&#39;s refurbished store, but there is a better deal](https://appleinsider.com/articles/24/02/28/m3-imac-is-on-apples-refurbished-store-but-there-is-a-better-deal?utm_medium=rss)
- - [Emergency Planners Are Having a Moment](https://www.wired.com/story/permacrisis-emergency-planners-lucy-easthope-disaster-wired-health/)
- - [Shareholders voted the way Apple wanted at the annual shareholder meeting](https://appleinsider.com/articles/24/02/28/shareholders-voted-the-way-apple-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)<!-- TECH:END -->
+ - [Dive into the world of Netflix’s 3 Body Problem](https://www.theverge.com/24083744/netflix-3-body-problem-trailers-review-interview)
+ - [Salesforce CEO Marc Benioff tells a reporter, who is looking into his Hawaii land acquisition, that he knows where she is staying and her personal details &lpar;Dara Kerr/NPR&rpar;](http://www.techmeme.com/240228/p28#a240228p28)
+ - [New regulation could stop abusers from stalking via connected cars](https://www.theverge.com/2024/2/28/24085723/fcc-domestic-abuse-survivors-connected-cars-proposed-rule)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
