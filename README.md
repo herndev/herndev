@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - ⏩ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 👉 [He was eating somebody else\u2019s leftovers but she took it away and gave him fresh food \ud83e\udd7a](http://9gag.com/gag/aQEwGVW)<!-- MEMES:END -->
+ - 💣 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
+ - ⏩ [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
 
 ---
 
