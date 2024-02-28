@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can play Call of Duty: Warzone on your phone in March](https://www.polygon.com/24085672/call-of-duty-warzone-mobile-release-date-announcement)
- - [FX’s Shōgun is the first can’t-miss show of the year](https://www.polygon.com/24085152/hulu-shogun-episode-1-review-fx)
- - [PSA: Be Careful Skipping Cutscenes In FF7 Rebirth’s Flashback Chapter](https://kotaku.com/final-fantasy-7-rebirth-ff7-ps5-demo-skip-flashback-1851293862)<!-- GAME:END -->
+ - [Some Final Fantasy 7 Rebirth Discs Are Misprinted And Could Cause Problems](https://kotaku.com/ff7-rebirth-final-fantasy-wrong-disc-misprinted-ps5-1851294175)
+ - [Cinematrix Is The Best Commute Game Since Wordle](https://kotaku.com/cinematrix-connections-wordle-commute-game-1851293900)
+ - [Remastering One Of The Best Star Wars Games Ever Made Wasn&#39;t Easy](https://kotaku.com/best-star-wars-game-dark-forces-fps-remaster-ps5-xbox-1851294048)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
