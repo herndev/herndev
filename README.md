@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)
- - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 👉 [Haha](http://9gag.com/gag/ap9yyGM)<!-- MEMES:END -->
+ - 💣 [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - ⏩ [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)
+ - 👉 [Wait what...](http://9gag.com/gag/aOxg6n3)<!-- MEMES:END -->
 
 ---
 
