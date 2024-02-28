@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel CEO admits &#39;I&#39;ve bet the whole company on 18A&#39;](https://www.pcgamer.com/intel-ceo-admits-ive-bet-the-whole-company-on-18a)
- - [Nier: Automata sells 8 million as Tencent cancels mobile game and Yoko Taro says you&#39;ve already had the third one anyway](https://www.pcgamer.com/nier-automata-sells-8-million-as-tencent-cancels-mobile-game-and-yoko-taro-says-youve-already-had-the-third-one-anyway)
- - [Life is Strange: True Colours developer becomes the 3rd studio this week to suffer layoffs](https://www.pcgamer.com/life-is-strange-true-colours-developer-becomes-the-3rd-studio-this-week-to-suffer-layoffs)<!-- GAME:END -->
+ - [4 Final Fantasy 7 recaps to watch before you play Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084611/remake-plot-summary-story-recap-videos)
+ - [&#39;Doom runs on everything&#39; goes corporate as pricey lawnmower company sets up its army of grass-guzzlers to mow down hell](https://www.pcgamer.com/doom-runs-on-everything-goes-corporate-as-pricey-lawnmower-company-sets-up-its-army-of-grass-guzzlers-to-mow-down-hell)
+ - [Hideo Kojima Calls Oscar Isaac ‘Pathetic And Unattractive’ &lpar;Complimentary&rpar; [Updated]](https://kotaku.com/hideo-kojima-moon-knight-pathetic-oscar-isaac-1851290751)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
