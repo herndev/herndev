@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo is suing the team behind the Yuzu emulator, used for Switch games](https://www.androidauthority.com/nintendo-sue-yuzu-emulator-switch-3420613/)
- - [Baidu reports Q4 revenue up 6% YoY to ~$4.9B and net income down 48% YoY to ~$366M, as chatbot Ernie, which has 100M+ users, began to augment its ads business &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240228/p9#a240228p9)
- - [Meta CEO Mark Zuckerberg met with LG executives in South Korea to discuss a stronger partnership on XR devices as well as a potential collaboration in AI &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240228/p8#a240228p8)<!-- TECH:END -->
+ - [RIP Apple Car. This Is Why It Died](https://www.wired.com/story/rip-apple-car-this-is-why-it-died/)
+ - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)
+ - [Thrasio, which raised $3B+ in equity and debt to acquire third-party Amazon sellers, files for Chapter 11 bankruptcy and secures $90M in emergency funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240228/p11#a240228p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
