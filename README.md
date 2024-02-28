@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - 💣 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)
  - ⏩ [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 👉 [Haha](http://9gag.com/gag/ap9yyGM)<!-- MEMES:END -->
+ - 👉 [\u2026..](http://9gag.com/gag/a6qvAAe)<!-- MEMES:END -->
 
 ---
 
