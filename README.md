@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 community briefly mourns the loss of Malevelon Creek, a gloomy jungle planet that&#39;s fast become the holy grail of the playerbase](https://www.pcgamer.com/helldivers-2-community-briefly-mourns-the-loss-of-malevelon-creek-a-gloomy-jungle-planet-thats-fast-become-the-holy-grail-of-the-playerbase)
- - [Nvidia will soon be showing adverts to calm queue rage for free tier users of GeForce Now](https://www.pcgamer.com/nvidia-will-soon-be-showing-adverts-to-calm-queue-rage-for-free-tier-users-of-geforce-now)
- - [Pokémon Trading Card Game Pocket devs say it’s not an NFT project](https://www.polygon.com/24085172/pokemon-trading-card-game-pocket-tcg-nft)<!-- GAME:END -->
+ - [Call of Duty Black Ops designer starts new studio to create a more ‘intimate’ shooter](https://www.polygon.com/24084622/call-of-duty-black-ops-david-vonderhaar-bulletfarm-games)
+ - [Palworld&#39;s devs are very sorry for deploying a patch that &#39;inadvertently fixed a bug&#39;](https://www.pcgamer.com/palworlds-devs-are-very-sorry-for-deploying-a-patch-that-inadvertently-fixed-a-bug)
+ - [Helldivers 2 community briefly mourns the loss of Malevelon Creek, a gloomy jungle planet that&#39;s fast become the holy grail of the playerbase](https://www.pcgamer.com/helldivers-2-community-briefly-mourns-the-loss-of-malevelon-creek-a-gloomy-jungle-planet-thats-fast-become-the-holy-grail-of-the-playerbase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
