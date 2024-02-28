@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Intercept, Raw Story, and AlterNet sue OpenAI and Microsoft](https://www.theverge.com/2024/2/28/24085973/intercept-raw-story-alternet-openai-lawsuit-copyright)
- - [Lots of People Make Money on Fanfic. Just Not the Authors](https://www.wired.com/story/pull-to-publish-fanfic-senlinyu-manacled-fanbinding/)
- - [OPPO forms ‘strategic alliance’ for European return after solving patent dispute](https://www.androidauthority.com/oppo-returns-to-europe-3421047/)<!-- TECH:END -->
+ - [HP reports Q1 revenue down 4.4% YoY to $13.19B, vs. $13.56B est., Personal Systems revenue down 4% YoY to $8.8B, and Printing revenue down 5% YoY to $4.4B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p35#a240228p35)
+ - [Apple is turning William Gibson’s Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
+ - [Snowflake says that CEO Frank Slootman is retiring, and reports Q4 revenue up 32% YoY to $774.7M and Q1 product revenue guidance below est.; SNOW drops 23%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240228/p34#a240228p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
