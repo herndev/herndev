@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans to launch Llama 3 in July, as it tries to overcome a perceived problem that Llama 2 is too &quot;safe&quot; with its answers about contentious topics &lpar;The Information&rpar;](http://www.techmeme.com/240228/p18#a240228p18)
- - [VisionDevCamp is a three-day hackathon for Vision Pro Devs](https://appleinsider.com/articles/24/02/28/visiondevcamp-is-a-three-day-hackathon-for-vision-pro-devs?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 28&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-28-2024-3418169/)<!-- TECH:END -->
+ - [Apple Vision Pro could launch overseas sooner than expected](https://appleinsider.com/articles/24/02/28/apple-vision-pro-could-launch-overseas-sooner-than-expected?utm_medium=rss)
+ - [Dictators Used Sandvine Tech to Censor the Internet. The US Finally Did Something About It](https://www.wired.com/story/sandvine-us-sanctions-egypt-internet-censorship/)
+ - [Kuo: Vision Pro demand is higher than Apple originally expected, with US shipments expected to hit 200-250k units this year; return rates are now below 1% &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240228/p20#a240228p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
