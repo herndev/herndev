@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - 💣 [Old japanese movies](http://9gag.com/gag/amAjEPX)
  - ⏩ [Wtf](http://9gag.com/gag/aNwx6rr)
- - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/a8qPZ36)<!-- MEMES:END -->
 
 ---
 
