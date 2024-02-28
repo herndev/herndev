@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
  - ⏩ [Wtf](http://9gag.com/gag/aNwx6rr)
- - 👉 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)<!-- MEMES:END -->
+ - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
 
 ---
 
