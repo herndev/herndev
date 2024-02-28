@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Fiserv and Amadeus are the two main contenders to acquire Shift4 Payments, which provides payment processing services and has a market value of $6.5B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p29#a240228p29)
- - [Biden Executive Order Bans Sale of US Data to China, Russia. Good Luck](https://www.wired.com/story/biden-data-broker-executive-order/)
- - [Google’s 256GB Pixel Tablet is on sale for its best price yet](https://www.theverge.com/2024/2/28/24084762/google-pixel-tablet-sonic-origins-plus-eufy-max-11s-robot-vacuum-deal-sale)<!-- TECH:END -->
+ - [The Intercept, Raw Story, and AlterNet sue OpenAI and Microsoft](https://www.theverge.com/2024/2/28/24085973/intercept-raw-story-alternet-openai-lawsuit-copyright)
+ - [Lots of People Make Money on Fanfic. Just Not the Authors](https://www.wired.com/story/pull-to-publish-fanfic-senlinyu-manacled-fanbinding/)
+ - [OPPO forms ‘strategic alliance’ for European return after solving patent dispute](https://www.androidauthority.com/oppo-returns-to-europe-3421047/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
