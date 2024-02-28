@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 💣 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)
  - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 👉 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)<!-- MEMES:END -->
+ - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
 
 ---
 
