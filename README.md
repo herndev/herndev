@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Juicy](http://9gag.com/gag/aRE5bv7)
- - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 👉 [Why and how is this benefit its user?](http://9gag.com/gag/amAje66)<!-- MEMES:END -->
+ - 💣 [Games can be more fun if you mix it with stupidity](http://9gag.com/gag/aWGKK6d)
+ - ⏩ [Best cinematic shot ever.](http://9gag.com/gag/a9qQ9m1)
+ - 👉 [Haha](http://9gag.com/gag/ap9yyGM)<!-- MEMES:END -->
 
 ---
 
