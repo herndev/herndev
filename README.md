@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty Black Ops designer starts new studio to create a more ‘intimate’ shooter](https://www.polygon.com/24084622/call-of-duty-black-ops-david-vonderhaar-bulletfarm-games)
- - [Palworld&#39;s devs are very sorry for deploying a patch that &#39;inadvertently fixed a bug&#39;](https://www.pcgamer.com/palworlds-devs-are-very-sorry-for-deploying-a-patch-that-inadvertently-fixed-a-bug)
- - [Helldivers 2 community briefly mourns the loss of Malevelon Creek, a gloomy jungle planet that&#39;s fast become the holy grail of the playerbase](https://www.pcgamer.com/helldivers-2-community-briefly-mourns-the-loss-of-malevelon-creek-a-gloomy-jungle-planet-thats-fast-become-the-holy-grail-of-the-playerbase)<!-- GAME:END -->
+ - [Intel CEO admits &#39;I&#39;ve bet the whole company on 18A&#39;](https://www.pcgamer.com/intel-ceo-admits-ive-bet-the-whole-company-on-18a)
+ - [Nier: Automata sells 8 million as Tencent cancels mobile game and Yoko Taro says you&#39;ve already had the third one anyway](https://www.pcgamer.com/nier-automata-sells-8-million-as-tencent-cancels-mobile-game-and-yoko-taro-says-youve-already-had-the-third-one-anyway)
+ - [Life is Strange: True Colours developer becomes the 3rd studio this week to suffer layoffs](https://www.pcgamer.com/life-is-strange-true-colours-developer-becomes-the-3rd-studio-this-week-to-suffer-layoffs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
