@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Google CEO Sundar Pichai calls Gemini&#39;s problematic responses around race &quot;completely unacceptable&quot; and vows to make structural changes to fix the problem &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240228/p1#a240228p1)
  - [In abandoning plans for a self-driving car, Apple is giving up on billions in potential revenue and hoping AI, Vision Pro, and other bets make up the difference &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p40#a240227p40)
- - [Google appears to globally roll out &quot;glanceable directions while navigating&quot; on Maps, which shows real-time ETA and turn-by-turn directions on the lock screen &lpar;Chandraveer Mathur/Android Police&rpar;](http://www.techmeme.com/240227/p39#a240227p39)
- - [A US judge clears Chinese state-backed chipmaker Fujian Jinhua of economic espionage and other charges, over five years after the US blacklisted the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240227/p38#a240227p38)<!-- TECH:END -->
+ - [Google appears to globally roll out &quot;glanceable directions while navigating&quot; on Maps, which shows real-time ETA and turn-by-turn directions on the lock screen &lpar;Chandraveer Mathur/Android Police&rpar;](http://www.techmeme.com/240227/p39#a240227p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
