@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - ⏩ [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 👉 [Women](http://9gag.com/gag/a8qPZ36)<!-- MEMES:END -->
+ - 💣 [BusuChan the ugly schoolgirl](http://9gag.com/gag/aKE0QbN)
+ - ⏩ [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - 👉 [Bye bye](http://9gag.com/gag/aEqr95p)<!-- MEMES:END -->
 
 ---
 
