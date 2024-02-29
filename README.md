@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now it’s the Galaxy Z Flip 6’s turn to leak in unofficial renders](https://www.theverge.com/2024/2/29/24086434/samsung-galaxy-z-flip-6-leaked-renders-onleaks-thickness-specs-cameras)
- - [Q&amp;A with OnlyFans CEO Keily Blair on paying out $15B+ to creators since inception, negative perceptions of the site, hosting sports and other content, AI, more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240229/p8#a240229p8)
- - [Galaxy Z Flip 6 renders leak: A thicker foldable could be a good thing?](https://www.androidauthority.com/samsung-galaxy-z-flip-6-renders-leak-3421190/)<!-- TECH:END -->
+ - [India approves setting up three chipmaking units worth $15.2B from companies including India&#39;s Tata Group and Japan&#39;s Renesas &lpar;Shivam Patel/Reuters&rpar;](http://www.techmeme.com/240229/p10#a240229p10)
+ - [Filing: Uber CEO Dara Khosrowshahi receives options to buy stock worth ~$136M after hitting a performance target to reach a $120B valuation for the company &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240229/p9#a240229p9)
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
