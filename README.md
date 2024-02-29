@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Years Ago, Anthem Was A Warning](https://kotaku.com/anthem-bioware-5-years-later-1851294156)
- - [FF7 Rebirth’s Character Folios, Explained](https://kotaku.com/final-fantasy-7-rebirth-ff7-folio-skill-point-1851296927)
- - [Honda reckons its Segway-like wheelchair can deliver &#39;the peaceful feeling of floating in the sky&#39; when paired with VR and isn&#39;t just for people with mobility issues](https://www.pcgamer.com/hardware/vr-hardware/honda-reckons-its-segway-like-wheelchair-can-deliver-the-peaceful-feeling-of-floating-in-the-sky-when-paired-with-vr-and-isnt-just-for-people-with-mobility-issues)<!-- GAME:END -->
+ - [Free Play Days – Age of Wonders 4, Gangs of Sherwood and Deceive Inc.](https://news.xbox.com/en-us/2024/02/29/free-play-days-age-of-wonders-4-gangs-of-sherwood-and-deceive-inc/)
+ - [The Best of CES 2024](https://www.pcgamer.com/best-of-ces-2024)
+ - [The first Discworld RPG in nearly three decades is on the way from Modiphius](https://www.polygon.com/tabletop-games/24084600/discworld-tabletop-rpg-board-game-modiphius)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
