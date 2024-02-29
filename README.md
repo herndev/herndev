@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2026..](http://9gag.com/gag/a6qvAAe)
- - ⏩ [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)
- - 👉 [Wait what...](http://9gag.com/gag/aOxg6n3)<!-- MEMES:END -->
+ - 💣 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
+ - ⏩ [Sliver Surfer](http://9gag.com/gag/aDYpKRO)
+ - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
 
 ---
 
