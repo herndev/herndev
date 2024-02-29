@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - ⏩ [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 👉 [Crazy.](http://9gag.com/gag/a2KBQKO)<!-- MEMES:END -->
+ - 💣 [Absolut win win win win !](http://9gag.com/gag/a9q3bAZ)
+ - ⏩ [Keep the trash, where it belongs.](http://9gag.com/gag/aeQXjMq)
+ - 👉 [A climber wins a competition with the bat maneuver](http://9gag.com/gag/aeQoXEp)<!-- MEMES:END -->
 
 ---
 
