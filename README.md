@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Willy Wonka Event’s Lead Actor Speaks Out: ‘It Was Just Gibberish’](https://www.wired.com/story/willys-chocolate-experience-actor-ai-script-interview/)
- - [Two new Apple Watch ads highlight real-world life-saving features](https://appleinsider.com/articles/24/02/29/two-new-apple-watch-ads-highlight-real-world-life-saving-features?utm_medium=rss)
- - [Nintendo Sues Makers of the Wildly Popular Yuzu Emulator](https://www.wired.com/story/nintendo-yuzu-emulator-lawsuit-piracy/)<!-- TECH:END -->
+ - [Android phones now double as webcams via Microsoft’s Phone Link app](https://www.androidauthority.com/android-phone-webcam-phone-link-3421537/)
+ - [Google packs more searches into the Search Bar](https://www.theverge.com/2024/2/29/24086893/google-search-suggestions-chrome-android-ios-images)
+ - [Google adds Photomath, which lets users solve math problems by taking a photo, to its Play Store and App Store publisher accounts, after buying the app in 2022 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240229/p29#a240229p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
