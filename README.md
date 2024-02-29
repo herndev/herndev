@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Passing the Kids Online Safety Act just got more complicated](https://www.theverge.com/2024/2/29/24086559/kids-online-safety-act-schatz-tech-groups)
- - [Hold the phone! Google might be adding ‘audiomojis’ to calls](https://www.androidauthority.com/google-phone-app-audiomoji-3421462/)
- - [JFrog says it found around a hundred malicious ML models on Hugging Face, some of which can backdoor users&#39; machines &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240229/p26#a240229p26)<!-- TECH:END -->
+ - [Definitely don’t start your Final Fantasy VII experience with Rebirth](https://www.theverge.com/2024/2/29/24085625/final-fantasy-7-rebirth-best-start)
+ - [Android users switching to iPhone prefer value over latest tech](https://appleinsider.com/articles/24/02/29/android-users-switching-to-iphone-prefer-value-over-latest-tech?utm_medium=rss)
+ - [Sony’s new ‘slim’ PlayStation 5 is already on sale with Marvel’s Spider-Man 2](https://www.theverge.com/2024/2/29/24086116/playstation-ps5-slim-keychron-c3-pro-mechanical-keyboard-anker-qi2-charger-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
