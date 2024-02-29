@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HWInfo finally introduces on-screen display functionality, making one of my all time favorite apps even better](https://www.pcgamer.com/hwinfo-finally-introduces-on-screen-display-functionality-making-one-of-my-all-time-favorite-apps-even-better)
- - [Arrowhead CEO says the &#39;live service&#39; aspect of Helldivers 2 has to be secondary to delivering a &#39;full experience&#39; for $40: &#39;We view ourselves as a live service game because it&#39;s unfair to say anything else&#39;](https://www.pcgamer.com/arrowhead-ceo-says-the-live-service-aspect-of-helldivers-2-has-to-be-secondary-to-delivering-a-full-experience-for-dollar40-we-view-ourselves-as-a-live-service-game-because-its-unfair-to-say-anything-else)
- - [Respawn&#39;s Star Wars FPS has been cancelled, Battlefield campaign studio Ridgeline Games is being closed](https://www.pcgamer.com/respawns-star-wars-fps-has-been-cancelled-battlefield-campaign-studio-ridgeline-games-is-being-closed)<!-- GAME:END -->
+ - [The PC market is looking increasingly healthy as GPU shipments rise on the back of surging notebook demand](https://www.pcgamer.com/the-pc-market-is-looking-increasingly-healthy-as-gpu-shipments-rise-on-the-back-of-surging-notebook-demand)
+ - [Today&#39;s Wordle answer for Thursday, February 29](https://www.pcgamer.com/wordle-answer-today-february-29-2024)
+ - [HWInfo finally introduces on-screen display functionality, making one of my all time favorite apps even better](https://www.pcgamer.com/hwinfo-finally-introduces-on-screen-display-functionality-making-one-of-my-all-time-favorite-apps-even-better)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
