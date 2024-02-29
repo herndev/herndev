@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait what...](http://9gag.com/gag/aOxg6n3)
- - ⏩ [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
- - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
+ - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - ⏩ [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - 👉 [Old japanese movies](http://9gag.com/gag/amAjEPX)<!-- MEMES:END -->
 
 ---
 
