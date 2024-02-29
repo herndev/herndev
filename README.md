@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US launches a probe into possible security risks of Chinese-manufactured vehicles, saying modern cars are like smartphones and could be used for espionage &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/240229/p16#a240229p16)
- - [Biden administration is investigating security threats from Chinese vehicles](https://www.theverge.com/2024/2/29/24086490/us-biden-administration-investigation-chinese-vehicles-security-threat)
- - [Cheap Tablet Sale Drops Amazon Fire Tablets as Low as $35 for a Limited Time     - CNET](https://www.cnet.com/deals/cheap-tablet-sale-drops-amazon-fire-tablets-as-low-as-35-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft outlines the new DirectSR API, which lets game developers integrate super resolution AI-upscaling features from Nvidia, AMD, and Intel &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240229/p18#a240229p18)
+ - [Crypto firm Gemini to pay over $1 billion back to customers in settlement](https://www.theverge.com/2024/2/29/24086501/crypto-firm-gemini-ny-regulator-settlement)
+ - [CD Rates Today, Feb. 29, 2024: Don’t Wait to Snag an APY as High as 5.5%     - CNET](https://www.cnet.com/personal-finance/banking/cd-rates-today-feb-29-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
