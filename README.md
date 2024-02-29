@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Definitely don’t start your Final Fantasy VII experience with Rebirth](https://www.theverge.com/2024/2/29/24085625/final-fantasy-7-rebirth-best-start)
- - [Android users switching to iPhone prefer value over latest tech](https://appleinsider.com/articles/24/02/29/android-users-switching-to-iphone-prefer-value-over-latest-tech?utm_medium=rss)
- - [Sony’s new ‘slim’ PlayStation 5 is already on sale with Marvel’s Spider-Man 2](https://www.theverge.com/2024/2/29/24086116/playstation-ps5-slim-keychron-c3-pro-mechanical-keyboard-anker-qi2-charger-deal-sale)<!-- TECH:END -->
+ - [Samsung aims to make Galaxy Ring compatible with other Android phones](https://www.androidauthority.com/galaxy-ring-android-phones-3421510/)
+ - [GitHub enables push protection by default for all public repositories to prevent accidental leaks of secrets like access tokens and API keys when pushing code &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240229/p28#a240229p28)
+ - [Setapp is opening its subscription-only iOS app store](https://www.theverge.com/2024/2/29/24086792/setapp-subscription-only-ios-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
