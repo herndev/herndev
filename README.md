@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The open-world Terminator survival game is headed to Steam in October](https://www.pcgamer.com/games/survival-crafting/the-open-world-terminator-survival-game-is-headed-to-steam-in-october)
- - [Pretty wild that this mini nuke replica is allowed to be mailed](https://www.polygon.com/deals/24085942/fallout-mini-nuke-pre-order-guide-collectors-edition-special)
- - [Final Fantasy VII Rebirth Looked At Cid And Said ‘I Can Fix Him’](https://kotaku.com/final-fantasy-7-rebirth-cid-highwind-shera-smoking-1851298459)<!-- GAME:END -->
+ - [Helldivers 2 players become part Automaton by mapping stratagems to a Stream Deck](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-become-part-automaton-by-mapping-stratagems-to-a-stream-deck)
+ - [The 10 Weirdest Sci-Fi and Fantasy Movies On Peacock](https://kotaku.com/peacock-scifi-fantasy-movies-weird-cult-1851298766)
+ - [Spyro/Crash Bandicoot Developer Ditches Activision, Goes Indie](https://kotaku.com/spyro-crash-bandicoot-toys-for-bob-activision-indie-1851298773)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
