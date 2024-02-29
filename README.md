@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 players become part Automaton by mapping stratagems to a Stream Deck](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-become-part-automaton-by-mapping-stratagems-to-a-stream-deck)
- - [The 10 Weirdest Sci-Fi and Fantasy Movies On Peacock](https://kotaku.com/peacock-scifi-fantasy-movies-weird-cult-1851298766)
- - [Spyro/Crash Bandicoot Developer Ditches Activision, Goes Indie](https://kotaku.com/spyro-crash-bandicoot-toys-for-bob-activision-indie-1851298773)<!-- GAME:END -->
+ - [Diablo 4&#39;s strongest builds won&#39;t be enough to prevail in its new 8-minute speedrun dungeon with leaderboards](https://www.pcgamer.com/games/action/diablo-4s-strongest-builds-wont-be-enough-to-prevail-in-its-new-8-minute-speedrun-dungeon-with-leaderboards)
+ - [Destiny 2 is adding Back to the Future-style hoverboards and I doubt I&#39;ll ever ride a boring old Sparrow ever again](https://www.pcgamer.com/games/fps/destiny-2-is-adding-back-to-the-future-style-hoverboards-and-i-doubt-ill-ever-ride-a-boring-old-sparrow-ever-again)
+ - [I harnessed the power of deceit to conquer Hell in Solium Infernum, but I&#39;m still not sure what I&#39;m doing](https://www.pcgamer.com/games/strategy/i-harnessed-the-power-of-deceit-to-conquer-hell-in-solium-infernum-but-im-still-not-sure-what-im-doing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
