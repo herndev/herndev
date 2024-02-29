@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - ⏩ [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
+ - 💣 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - ⏩ [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 👉 [Crazy.](http://9gag.com/gag/a2KBQKO)<!-- MEMES:END -->
 
 ---
 
