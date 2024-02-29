@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deceive Inc. Operation Overhaul – Free Weekend Live Now](https://news.xbox.com/en-us/2024/02/29/deceive-inc-operation-overhaul-free-weekend-live-now/)
- - [Disney Plus just released one of its coolest animated series ever](https://www.polygon.com/24086731/iwaju-disney-plus-watch)
- - [Fans Say Tomb Raider Trilogy Is Better On Epic Store, Devs Claim That&#39;s The Wrong Version](https://kotaku.com/tomb-raider-remastered-trilogy-epic-store-better-patch-1851297727)<!-- GAME:END -->
+ - [GTA Online update for the week of Feb. 29](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
+ - [Kotaku’s Most Anticipated Games Of 2024 [Updated]](https://kotaku.com/2024-video-games-release-ff7-rebirth-star-wars-ps5-xbox-1850972294)
+ - [Where to find all Cactuar rocks in Corel in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24085742/cactuar-rocks-corel-statue-locations-protorelic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
