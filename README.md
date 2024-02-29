@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 looks a lot like Metal Gear Solid 5 sometimes, but devs and fans alike agree that&#39;s great: &#39;More games should directly copy stuff&#39;](https://www.pcgamer.com/games/action/helldivers-2-looks-a-lot-like-metal-gear-solid-5-sometimes-but-devs-and-fans-alike-agree-thats-great-more-games-should-directly-copy-stuff)
- - [Helldivers 2 CEO describes the &#39;War Room&#39; atmosphere on launch day, as a server-breaking tidal wave of unexpected divers came flooding in: &#39;We saw the graph, just—players rising and rising&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-describes-the-war-room-atmosphere-on-launch-day-as-a-server-breaking-tidal-wave-of-unexpected-divers-came-flooding-in-we-saw-the-graph-justplayers-rising-and-rising)
- - [IBM&#39;s AI assisted SSD gives the middle finger to ransomware attackers](https://www.pcgamer.com/ibms-ai-assisted-ssd-gives-the-middle-finger-to-ransomware-attackers)<!-- GAME:END -->
+ - [Microsoft confirms DirectSR is the &#39;missing link&#39;, an API designed to ease the introduction of Nvidia, AMD, and Intel upscalers into DirectX games](https://www.pcgamer.com/hardware/microsoft-confirms-directsr-is-the-missing-link-an-api-designed-to-ease-the-introduction-of-nvidia-amd-and-intel-upscalers-into-directx-games)
+ - [PC Gamer magazine&#39;s new issue is on sale now: Parcel Corps](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-parcel-corps)
+ - [Can’t remember what happened in the first Dune movie? We got you](https://www.polygon.com/24084646/dune-plot-part-1-story-recap-2021)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
