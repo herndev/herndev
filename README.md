@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft outlines the new DirectSR API, which lets game developers integrate super resolution AI-upscaling features from Nvidia, AMD, and Intel &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240229/p18#a240229p18)
- - [Crypto firm Gemini to pay over $1 billion back to customers in settlement](https://www.theverge.com/2024/2/29/24086501/crypto-firm-gemini-ny-regulator-settlement)
- - [CD Rates Today, Feb. 29, 2024: Don’t Wait to Snag an APY as High as 5.5%     - CNET](https://www.cnet.com/personal-finance/banking/cd-rates-today-feb-29-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google revives its 360-degree Photo Sphere mode on older Pixel phones](https://www.androidauthority.com/google-camera-photo-sphere-revived-3421397/)
+ - [Change Healthcare confirms that the ransomware group BlackCat is behind the ongoing attack that caused widespread disruptions to pharmacies across the US &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240229/p20#a240229p20)
+ - [A review of court records shows US federal investigators used push alert tokens in at least four cases to arrest suspects in cases related to CSAM and murder &lpar;Washington Post&rpar;](http://www.techmeme.com/240229/p19#a240229p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
