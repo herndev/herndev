@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung aims to make Galaxy Ring compatible with other Android phones](https://www.androidauthority.com/galaxy-ring-android-phones-3421510/)
- - [GitHub enables push protection by default for all public repositories to prevent accidental leaks of secrets like access tokens and API keys when pushing code &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240229/p28#a240229p28)
- - [Setapp is opening its subscription-only iOS app store](https://www.theverge.com/2024/2/29/24086792/setapp-subscription-only-ios-app-store)<!-- TECH:END -->
+ - [The Willy Wonka Event’s Lead Actor Speaks Out: ‘It Was Just Gibberish’](https://www.wired.com/story/willys-chocolate-experience-actor-ai-script-interview/)
+ - [Two new Apple Watch ads highlight real-world life-saving features](https://appleinsider.com/articles/24/02/29/two-new-apple-watch-ads-highlight-real-world-life-saving-features?utm_medium=rss)
+ - [Nintendo Sues Makers of the Wildly Popular Yuzu Emulator](https://www.wired.com/story/nintendo-yuzu-emulator-lawsuit-piracy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
