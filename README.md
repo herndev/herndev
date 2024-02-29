@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India approves setting up three chipmaking units worth $15.2B from companies including India&#39;s Tata Group and Japan&#39;s Renesas &lpar;Shivam Patel/Reuters&rpar;](http://www.techmeme.com/240229/p10#a240229p10)
- - [Filing: Uber CEO Dara Khosrowshahi receives options to buy stock worth ~$136M after hitting a performance target to reach a $120B valuation for the company &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240229/p9#a240229p9)
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)<!-- TECH:END -->
+ - [The cheapest countries to buy an Xbox Series X](https://www.androidauthority.com/cheapest-place-to-buy-xbox-series-x-3421086/)
+ - [Today&#39;s Refinance Rates, Feb. 29, 2024: Rates Increase for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-refinance-rates-feb-29-2024-rates-increase-for-homeowners/#ftag=CAD590a51e)
+ - [Today&#39;s Mortgage Rates for Feb. 29, 2024: Rates Move Upward Over the Last Week     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-feb-29-2024-rates-move-upward-over-the-last-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
