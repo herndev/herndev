@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Good Doctor season 7: Plot, cast, release window, and more](https://www.androidauthority.com/the-good-doctor-season-7-release-date-3379221/)
- - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)
- - [Russian-speaking LockBit threatens to release Trump case documents in Fulton County Court that &quot;could affect the upcoming US election&quot; unless a ransom is paid &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240229/p13#a240229p13)<!-- TECH:END -->
+ - [The US launches a probe into possible security risks of Chinese-manufactured vehicles, saying modern cars are like smartphones and could be used for espionage &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/240229/p16#a240229p16)
+ - [Biden administration is investigating security threats from Chinese vehicles](https://www.theverge.com/2024/2/29/24086490/us-biden-administration-investigation-chinese-vehicles-security-threat)
+ - [Cheap Tablet Sale Drops Amazon Fire Tablets as Low as $35 for a Limited Time     - CNET](https://www.cnet.com/deals/cheap-tablet-sale-drops-amazon-fire-tablets-as-low-as-35-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
