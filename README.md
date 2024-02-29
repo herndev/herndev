@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New pages from Dune: Part 2’s gorgeous art book showcase the movie’s epic scope](https://www.polygon.com/24086063/dune-part-2-art-book-preview)
- - [Helldivers 2&#39;s Galactic War Is Orchestrated By Just One Guy](https://kotaku.com/helldivers-2-galactic-war-game-master-joel-1851297376)
- - [Counter-Strike pros write open letter to Valve asking for default female skins, histrionic reaction shows why that&#39;s probably a good idea](https://www.pcgamer.com/games/fps/counter-strike-pros-write-open-letter-to-valve-asking-for-default-female-skins-histrionic-reaction-shows-why-thats-probably-a-good-idea)<!-- GAME:END -->
+ - [Deceive Inc. Operation Overhaul – Free Weekend Live Now](https://news.xbox.com/en-us/2024/02/29/deceive-inc-operation-overhaul-free-weekend-live-now/)
+ - [Disney Plus just released one of its coolest animated series ever](https://www.polygon.com/24086731/iwaju-disney-plus-watch)
+ - [Fans Say Tomb Raider Trilogy Is Better On Epic Store, Devs Claim That&#39;s The Wrong Version](https://kotaku.com/tomb-raider-remastered-trilogy-epic-store-better-patch-1851297727)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
