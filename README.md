@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Age of Wonders 4, Gangs of Sherwood and Deceive Inc.](https://news.xbox.com/en-us/2024/02/29/free-play-days-age-of-wonders-4-gangs-of-sherwood-and-deceive-inc/)
- - [The Best of CES 2024](https://www.pcgamer.com/best-of-ces-2024)
- - [The first Discworld RPG in nearly three decades is on the way from Modiphius](https://www.polygon.com/tabletop-games/24084600/discworld-tabletop-rpg-board-game-modiphius)<!-- GAME:END -->
+ - [New pages from Dune: Part 2’s gorgeous art book showcase the movie’s epic scope](https://www.polygon.com/24086063/dune-part-2-art-book-preview)
+ - [Helldivers 2&#39;s Galactic War Is Orchestrated By Just One Guy](https://kotaku.com/helldivers-2-galactic-war-game-master-joel-1851297376)
+ - [Counter-Strike pros write open letter to Valve asking for default female skins, histrionic reaction shows why that&#39;s probably a good idea](https://www.pcgamer.com/games/fps/counter-strike-pros-write-open-letter-to-valve-asking-for-default-female-skins-histrionic-reaction-shows-why-thats-probably-a-good-idea)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
