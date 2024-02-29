@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolut win win win win !](http://9gag.com/gag/a9q3bAZ)
- - ⏩ [Keep the trash, where it belongs.](http://9gag.com/gag/aeQXjMq)
- - 👉 [A climber wins a competition with the bat maneuver](http://9gag.com/gag/aeQoXEp)<!-- MEMES:END -->
+ - 💣 [Wait what...](http://9gag.com/gag/aOxg6n3)
+ - ⏩ [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
+ - 👉 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)<!-- MEMES:END -->
 
 ---
 
