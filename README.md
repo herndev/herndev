@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait what...](http://9gag.com/gag/aOxg6n3)
- - ⏩ [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - 👉 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)<!-- MEMES:END -->
+ - 💣 [Highly recommend this show. Feels like a breath of fresh air for once.](http://9gag.com/gag/a7q4jbm)
+ - ⏩ [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - 👉 [You gonna make me..](http://9gag.com/gag/aBdq70N)<!-- MEMES:END -->
 
 ---
 
