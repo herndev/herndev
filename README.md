@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
- - ⏩ [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 👉 [Crazy.](http://9gag.com/gag/a2KBQKO)<!-- MEMES:END -->
+ - 💣 [Crazy.](http://9gag.com/gag/a2KBQKO)
+ - ⏩ [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 👉 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)<!-- MEMES:END -->
 
 ---
 
