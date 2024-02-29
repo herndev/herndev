@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - ⏩ [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 👉 [Haha](http://9gag.com/gag/ap9yyGM)<!-- MEMES:END -->
+ - 💣 [OSHA wins](http://9gag.com/gag/aoKBmrx)
+ - ⏩ [Better call Saul irl](http://9gag.com/gag/agoMRgx)
+ - 👉 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)<!-- MEMES:END -->
 
 ---
 
