@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OSHA wins](http://9gag.com/gag/aoKBmrx)
- - ⏩ [Better call Saul irl](http://9gag.com/gag/agoMRgx)
- - 👉 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)<!-- MEMES:END -->
+ - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
+ - ⏩ [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
+ - 👉 [You gonna make me..](http://9gag.com/gag/aBdq70N)<!-- MEMES:END -->
 
 ---
 
