@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of Feb. 29](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [Kotaku’s Most Anticipated Games Of 2024 [Updated]](https://kotaku.com/2024-video-games-release-ff7-rebirth-star-wars-ps5-xbox-1850972294)
- - [Where to find all Cactuar rocks in Corel in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24085742/cactuar-rocks-corel-statue-locations-protorelic)<!-- GAME:END -->
+ - [Post-credit scenes, sequel teases, and everything else you need to know about Dune 2](https://www.polygon.com/23709799/dune-2-post-credits-scenes-release-date-cast-news-characters-story-trailer)
+ - [Pokémon Card Fervor Has An Artist Scared For His Safety](https://kotaku.com/pokemon-cards-naoki-saito-harass-stalk-autograph-1851298083)
+ - [Xbox Insider Release Notes – Omega &lpar;2403.240227-0110&rpar;](https://news.xbox.com/en-us/2024/02/29/xbox-insider-release-notes-omega-2403-240227-0110/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
