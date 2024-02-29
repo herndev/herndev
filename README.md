@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
- - ⏩ [Sliver Surfer](http://9gag.com/gag/aDYpKRO)
- - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
+ - 💣 [Juicy](http://9gag.com/gag/aRE5bv7)
+ - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 👉 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)<!-- MEMES:END -->
 
 ---
 
