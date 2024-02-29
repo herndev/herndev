@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could launch the Galaxy Z Fold 6 and Flip 6 earlier than expected](https://www.androidauthority.com/samsung-galaxy-z-fold-6-flip-6-july-launch-leak-3421147/)
- - [Machine learning vs AI vs deep learning: The differences explained](https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/)
- - [AI chatbots designed to help hackers, using manipulated versions of models from companies like Meta, OpenAI, and Anthropic, are being sold on the dark web &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240229/p7#a240229p7)<!-- TECH:END -->
+ - [Galaxy Z Flip 6 renders leak: A thicker foldable could be a good thing?](https://www.androidauthority.com/samsung-galaxy-z-flip-6-renders-leak-3421190/)
+ - [The handy YouTube Create app is now in the US](https://www.androidauthority.com/youtube-create-us-availability-3421154/)
+ - [Download these minimalist wallpapers for your phone](https://www.androidauthority.com/minimalist-wallpaper-phone-3420677/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
