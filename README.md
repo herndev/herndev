@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OSHA wins](http://9gag.com/gag/aoKBmrx)
- - ⏩ [Need this type of marriage](http://9gag.com/gag/aeQXj0v)
+ - 💣 [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - ⏩ [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
  - 👉 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)<!-- MEMES:END -->
 
 ---
