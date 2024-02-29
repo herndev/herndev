@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Juicy](http://9gag.com/gag/aRE5bv7)
- - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 👉 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)<!-- MEMES:END -->
+ - 💣 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
+ - ⏩ [Crazy.](http://9gag.com/gag/a2KBQKO)
+ - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
 
 ---
 
