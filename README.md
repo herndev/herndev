@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - ⏩ [A true rock star](http://9gag.com/gag/aEqew2M)
- - 👉 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)<!-- MEMES:END -->
+ - 💣 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)
+ - ⏩ [Good](http://9gag.com/gag/amADNQy)
+ - 👉 [Wait what...](http://9gag.com/gag/aOxg6n3)<!-- MEMES:END -->
 
 ---
 
