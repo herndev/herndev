@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
+ - 💣 [Wait what...](http://9gag.com/gag/aOxg6n3)
+ - ⏩ [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
+ - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
 
 ---
 
