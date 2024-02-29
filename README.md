@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crazy.](http://9gag.com/gag/a2KBQKO)
- - ⏩ [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 👉 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)<!-- MEMES:END -->
+ - 💣 [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 👉 [Haha](http://9gag.com/gag/ap9yyGM)<!-- MEMES:END -->
 
 ---
 
