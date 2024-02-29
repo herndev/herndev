@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google revives its 360-degree Photo Sphere mode on older Pixel phones](https://www.androidauthority.com/google-camera-photo-sphere-revived-3421397/)
- - [Change Healthcare confirms that the ransomware group BlackCat is behind the ongoing attack that caused widespread disruptions to pharmacies across the US &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240229/p20#a240229p20)
- - [A review of court records shows US federal investigators used push alert tokens in at least four cases to arrest suspects in cases related to CSAM and murder &lpar;Washington Post&rpar;](http://www.techmeme.com/240229/p19#a240229p19)<!-- TECH:END -->
+ - [Vibe.co, a self-serve platform that lets SMBs buy video ads on streamers, raised a $22.5M Series A led by Singular, bringing its total funding to around $30M &lpar;Alyssa Boyle/AdExchanger&rpar;](http://www.techmeme.com/240229/p24#a240229p24)
+ - [Limited-time $1,400 savings on the Panasonic LUMIX S5 camera bundle](https://www.androidauthority.com/panasonic-lumix-s5-camera-bundle-deal-3421421/)
+ - [Source: Embracer will sell its subsidiary Saber Interactive to private investors in a $500M deal, making Saber a privately owned company with ~3,500 staff &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240229/p23#a240229p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
