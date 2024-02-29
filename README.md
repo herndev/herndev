@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC market is looking increasingly healthy as GPU shipments rise on the back of surging notebook demand](https://www.pcgamer.com/the-pc-market-is-looking-increasingly-healthy-as-gpu-shipments-rise-on-the-back-of-surging-notebook-demand)
- - [Today&#39;s Wordle answer for Thursday, February 29](https://www.pcgamer.com/wordle-answer-today-february-29-2024)
- - [HWInfo finally introduces on-screen display functionality, making one of my all time favorite apps even better](https://www.pcgamer.com/hwinfo-finally-introduces-on-screen-display-functionality-making-one-of-my-all-time-favorite-apps-even-better)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth: Should You Focus On Just The Main Story?](https://kotaku.com/final-fantasy-7-ff7-main-story-rebirth-open-world-1851295214)
+ - [Does Aerith Die In Final Fantasy VII Rebirth, Explained](https://kotaku.com/final-fantasy-7-rebirth-does-aerith-die-live-sephiroth-1851287690)
+ - [How long is Final Fantasy 7 Rebirth?](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084888/how-long-to-beat-play-length-hours)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
