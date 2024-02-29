@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
- - ⏩ [Crazy.](http://9gag.com/gag/a2KBQKO)
- - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
+ - 💣 [Old japanese movies](http://9gag.com/gag/amAjEPX)
+ - ⏩ [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
 
 ---
 
