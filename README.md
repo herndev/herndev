@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
+ - 💣 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
  - ⏩ [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
+ - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
 
 ---
 
