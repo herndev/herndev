@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rogue HD](http://9gag.com/gag/aMEp1QX)
- - ⏩ [David Larrat having fun](http://9gag.com/gag/awZq09x)
- - 👉 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)<!-- MEMES:END -->
+ - 💣 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
+ - ⏩ [A true rock star](http://9gag.com/gag/aEqew2M)
+ - 👉 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)<!-- MEMES:END -->
 
 ---
 
