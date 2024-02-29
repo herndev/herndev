@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft confirms DirectSR is the &#39;missing link&#39;, an API designed to ease the introduction of Nvidia, AMD, and Intel upscalers into DirectX games](https://www.pcgamer.com/hardware/microsoft-confirms-directsr-is-the-missing-link-an-api-designed-to-ease-the-introduction-of-nvidia-amd-and-intel-upscalers-into-directx-games)
- - [PC Gamer magazine&#39;s new issue is on sale now: Parcel Corps](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-parcel-corps)
- - [Can’t remember what happened in the first Dune movie? We got you](https://www.polygon.com/24084646/dune-plot-part-1-story-recap-2021)<!-- GAME:END -->
+ - [Five Years Ago, Anthem Was A Warning](https://kotaku.com/anthem-bioware-5-years-later-1851294156)
+ - [FF7 Rebirth’s Character Folios, Explained](https://kotaku.com/final-fantasy-7-rebirth-ff7-folio-skill-point-1851296927)
+ - [Honda reckons its Segway-like wheelchair can deliver &#39;the peaceful feeling of floating in the sky&#39; when paired with VR and isn&#39;t just for people with mobility issues](https://www.pcgamer.com/hardware/vr-hardware/honda-reckons-its-segway-like-wheelchair-can-deliver-the-peaceful-feeling-of-floating-in-the-sky-when-paired-with-vr-and-isnt-just-for-people-with-mobility-issues)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
