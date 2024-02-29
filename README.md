@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
- - ⏩ [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - 👉 [You gonna make me..](http://9gag.com/gag/aBdq70N)<!-- MEMES:END -->
+ - 💣 [OSHA wins](http://9gag.com/gag/aoKBmrx)
+ - ⏩ [Need this type of marriage](http://9gag.com/gag/aeQXj0v)
+ - 👉 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)<!-- MEMES:END -->
 
 ---
 
