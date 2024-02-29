@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eight EU consumer rights groups lodge GDPR complaints with national data protection authorities, accusing Meta of coercing users with its &quot;pay-or-consent&quot; model &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240229/p4#a240229p4)
- - [Researchers detail an ongoing repo confusion attack impacting 100K+ GitHub repos, which involves cloning existing repos and infecting them with malware loaders &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240229/p3#a240229p3)
- - [ServiceNow, Hugging Face, and Nvidia release free code-generating AI models StarCoder2-3B/7B/15B, the first two of which can run on most modern consumer GPUs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240229/p2#a240229p2)<!-- TECH:END -->
+ - [Samsung could launch the Galaxy Z Fold 6 and Flip 6 earlier than expected](https://www.androidauthority.com/samsung-galaxy-z-fold-6-flip-6-july-launch-leak-3421147/)
+ - [Machine learning vs AI vs deep learning: The differences explained](https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/)
+ - [AI chatbots designed to help hackers, using manipulated versions of models from companies like Meta, OpenAI, and Anthropic, are being sold on the dark web &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240229/p7#a240229p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
