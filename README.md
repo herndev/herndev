@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Flip 6 renders leak: A thicker foldable could be a good thing?](https://www.androidauthority.com/samsung-galaxy-z-flip-6-renders-leak-3421190/)
- - [The handy YouTube Create app is now in the US](https://www.androidauthority.com/youtube-create-us-availability-3421154/)
- - [Download these minimalist wallpapers for your phone](https://www.androidauthority.com/minimalist-wallpaper-phone-3420677/)<!-- TECH:END -->
+ - [Now it’s the Galaxy Z Flip 6’s turn to leak in unofficial renders](https://www.theverge.com/2024/2/29/24086434/samsung-galaxy-z-flip-6-leaked-renders-onleaks-thickness-specs-cameras)
+ - [Q&amp;A with OnlyFans CEO Keily Blair on paying out $15B+ to creators since inception, negative perceptions of the site, hosting sports and other content, AI, more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240229/p8#a240229p8)
+ - [Galaxy Z Flip 6 renders leak: A thicker foldable could be a good thing?](https://www.androidauthority.com/samsung-galaxy-z-flip-6-renders-leak-3421190/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
