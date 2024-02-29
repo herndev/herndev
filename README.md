@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vibe.co, a self-serve platform that lets SMBs buy video ads on streamers, raised a $22.5M Series A led by Singular, bringing its total funding to around $30M &lpar;Alyssa Boyle/AdExchanger&rpar;](http://www.techmeme.com/240229/p24#a240229p24)
- - [Limited-time $1,400 savings on the Panasonic LUMIX S5 camera bundle](https://www.androidauthority.com/panasonic-lumix-s5-camera-bundle-deal-3421421/)
- - [Source: Embracer will sell its subsidiary Saber Interactive to private investors in a $500M deal, making Saber a privately owned company with ~3,500 staff &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240229/p23#a240229p23)<!-- TECH:END -->
+ - [Passing the Kids Online Safety Act just got more complicated](https://www.theverge.com/2024/2/29/24086559/kids-online-safety-act-schatz-tech-groups)
+ - [Hold the phone! Google might be adding ‘audiomojis’ to calls](https://www.androidauthority.com/google-phone-app-audiomoji-3421462/)
+ - [JFrog says it found around a hundred malicious ML models on Hugging Face, some of which can backdoor users&#39; machines &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240229/p26#a240229p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
