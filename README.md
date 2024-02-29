@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Post-credit scenes, sequel teases, and everything else you need to know about Dune 2](https://www.polygon.com/23709799/dune-2-post-credits-scenes-release-date-cast-news-characters-story-trailer)
- - [Pokémon Card Fervor Has An Artist Scared For His Safety](https://kotaku.com/pokemon-cards-naoki-saito-harass-stalk-autograph-1851298083)
- - [Xbox Insider Release Notes – Omega &lpar;2403.240227-0110&rpar;](https://news.xbox.com/en-us/2024/02/29/xbox-insider-release-notes-omega-2403-240227-0110/)<!-- GAME:END -->
+ - [The open-world Terminator survival game is headed to Steam in October](https://www.pcgamer.com/games/survival-crafting/the-open-world-terminator-survival-game-is-headed-to-steam-in-october)
+ - [Pretty wild that this mini nuke replica is allowed to be mailed](https://www.polygon.com/deals/24085942/fallout-mini-nuke-pre-order-guide-collectors-edition-special)
+ - [Final Fantasy VII Rebirth Looked At Cid And Said ‘I Can Fix Him’](https://kotaku.com/final-fantasy-7-rebirth-cid-highwind-shera-smoking-1851298459)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
