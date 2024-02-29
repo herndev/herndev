@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [IBM&#39;s AI assisted SSD gives the middle finger to ransomware attackers](https://www.pcgamer.com/ibms-ai-assisted-ssd-gives-the-middle-finger-to-ransomware-attackers)
  - [Final Fantasy VII Rebirth: Should You Focus On Just The Main Story?](https://kotaku.com/final-fantasy-7-ff7-main-story-rebirth-open-world-1851295214)
- - [Does Aerith Die In Final Fantasy VII Rebirth, Explained](https://kotaku.com/final-fantasy-7-rebirth-does-aerith-die-live-sephiroth-1851287690)
- - [How long is Final Fantasy 7 Rebirth?](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084888/how-long-to-beat-play-length-hours)<!-- GAME:END -->
+ - [Does Aerith Die In Final Fantasy VII Rebirth, Explained](https://kotaku.com/final-fantasy-7-rebirth-does-aerith-die-live-sephiroth-1851287690)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
