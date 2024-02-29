@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2026..](http://9gag.com/gag/a6qvAAe)
- - ⏩ [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
- - 👉 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)<!-- MEMES:END -->
+ - 💣 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
+ - ⏩ [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
 
 ---
 
