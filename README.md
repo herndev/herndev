@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)
- - ⏩ [Good](http://9gag.com/gag/amADNQy)
- - 👉 [Wait what...](http://9gag.com/gag/aOxg6n3)<!-- MEMES:END -->
+ - 💣 [WTF\u2026](http://9gag.com/gag/aYVzbV7)
+ - ⏩ [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 👉 [The sister of this Queen&#39;s Guard held his hand after not seeing him for a long time and he couldn\u2019t do anything](http://9gag.com/gag/aVbnN1O)<!-- MEMES:END -->
 
 ---
 
