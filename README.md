@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest countries to buy an Xbox Series X](https://www.androidauthority.com/cheapest-place-to-buy-xbox-series-x-3421086/)
- - [Today&#39;s Refinance Rates, Feb. 29, 2024: Rates Increase for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-refinance-rates-feb-29-2024-rates-increase-for-homeowners/#ftag=CAD590a51e)
- - [Today&#39;s Mortgage Rates for Feb. 29, 2024: Rates Move Upward Over the Last Week     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-feb-29-2024-rates-move-upward-over-the-last-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Good Doctor season 7: Plot, cast, release window, and more](https://www.androidauthority.com/the-good-doctor-season-7-release-date-3379221/)
+ - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)
+ - [Russian-speaking LockBit threatens to release Trump case documents in Fulton County Court that &quot;could affect the upcoming US election&quot; unless a ransom is paid &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240229/p13#a240229p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
