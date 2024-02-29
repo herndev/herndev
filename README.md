@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab an Apple Watch Ultra for $503 while supplies last](https://appleinsider.com/articles/24/02/29/grab-an-apple-watch-ultra-for-503-while-supplies-last?utm_medium=rss)
  - [Alibaba is cutting prices for over 100 core cloud products in China by up to 55%, and 20% on average, including data storage and elastic computing products &lpar;Bloomberg&rpar;](http://www.techmeme.com/240228/p44#a240228p44)
- - [Abandoned $10 billion Apple Car project referred to as &#39;Titanic disaster&#39; by employees](https://appleinsider.com/articles/24/02/29/abandoned-10-billion-apple-car-project-referred-to-as-titanic-disaster-by-employees?utm_medium=rss)
- - [FCC Chair Jessica Rosenworcel proposes subjecting carmakers to the Safe Connections Act to protect domestic abuse survivors from misuse of internet car systems &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p43#a240228p43)<!-- TECH:END -->
+ - [Abandoned $10 billion Apple Car project referred to as &#39;Titanic disaster&#39; by employees](https://appleinsider.com/articles/24/02/29/abandoned-10-billion-apple-car-project-referred-to-as-titanic-disaster-by-employees?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
