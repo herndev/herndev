@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - ⏩ [\u2026..](http://9gag.com/gag/a6qvAAe)
- - 👉 [Old japanese movies](http://9gag.com/gag/amAjEPX)<!-- MEMES:END -->
+ - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - ⏩ [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 👉 [Crazy.](http://9gag.com/gag/a2KBQKO)<!-- MEMES:END -->
 
 ---
 
