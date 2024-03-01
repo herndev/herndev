@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So the company made it with real fresh potato ?](http://9gag.com/gag/aVbGQw8)
- - ⏩ [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 👉 [Feels good](http://9gag.com/gag/a5XLNZg)<!-- MEMES:END -->
+ - 💣 [Many people learn it in a hard way](http://9gag.com/gag/aBdDR8N)
+ - ⏩ [Another death by community note](http://9gag.com/gag/aYVzN7q)
+ - 👉 [Jack Black covers Hit Me Baby](http://9gag.com/gag/a2KQNKw)<!-- MEMES:END -->
 
 ---
 
