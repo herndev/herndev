@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack Black covers Hit Me Baby](http://9gag.com/gag/a2KQNKw)
- - ⏩ [Navalny Funeral. Seems not all Russians are numb!](http://9gag.com/gag/abvjyp8)
- - 👉 [People in Russia chanting `Putin is a murderer`](http://9gag.com/gag/az26EqK)<!-- MEMES:END -->
+ - 💣 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
+ - ⏩ [Crazy.](http://9gag.com/gag/a2KBQKO)
+ - 👉 [Feels good](http://9gag.com/gag/a5XLNZg)<!-- MEMES:END -->
 
 ---
 
