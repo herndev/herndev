@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Camelot Unchained, the MMO that raised more than $2.2M on Kickstarter in 2013, actually has a release target](https://www.pcgamer.com/games/mmo/camelot-unchained-the-mmo-that-raised-more-than-dollar22m-on-kickstarter-in-2013-actually-has-a-release-target)
- - [Diablo 4&#39;s strongest builds won&#39;t be enough to prevail in its new 8-minute speedrun dungeon with leaderboards](https://www.pcgamer.com/games/action/diablo-4s-strongest-builds-wont-be-enough-to-prevail-in-its-new-8-minute-speedrun-dungeon-with-leaderboards)
- - [Destiny 2 is adding Back to the Future-style hoverboards and I doubt I&#39;ll ever ride a boring old Sparrow ever again](https://www.pcgamer.com/games/fps/destiny-2-is-adding-back-to-the-future-style-hoverboards-and-i-doubt-ill-ever-ride-a-boring-old-sparrow-ever-again)<!-- GAME:END -->
+ - [We&#39;re riding shotgun with Pacific Drive to give away a free copy of the game and a carload of great gear](https://www.pcgamer.com/games/survival-crafting/were-riding-shotgun-with-pacific-drive-to-give-away-a-free-copy-of-the-game-and-a-carload-of-great-gear)
+ - [It is once again time to boot up Vampire Survivors thanks to a space-themed free update and a Final Fantasy parody trailer teasing more to come](https://www.pcgamer.com/games/roguelike/it-is-once-again-time-to-boot-up-vampire-survivors-thanks-to-a-space-themed-free-update-and-a-final-fantasy-parody-trailer-teasing-more-to-come)
+ - [Diablo 4&#39;s upcoming loot rework will be so massive Blizzard will let you playtest it early in its first PTR](https://www.pcgamer.com/games/action/diablo-4s-upcoming-loot-rework-will-be-so-massive-blizzard-will-let-you-playtest-it-early-in-its-first-ptr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
