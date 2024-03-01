@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Elon Musk says OpenAI is &quot;not just developing but is actually refining an AGI to maximize profits for Microsoft&quot; and claims GPT-4 constitutes an AGI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240301/p8#a240301p8)
- - [Elon Musk Sues OpenAI and Sam Altman for Breach of Contract](https://www.wired.com/story/elon-musk-sues-sam-altman-openai/)
- - [Apple Watch Ultra is not the only micro LED project Apple has cancelled](https://appleinsider.com/articles/24/03/01/apple-watch-ultra-is-not-the-only-micro-led-project-apple-has-cancelled?utm_medium=rss)<!-- TECH:END -->
+ - [A software engineer wore Apple Vision Pro to his wedding, much to his new bride&#39;s chagrin](https://appleinsider.com/articles/24/03/01/a-software-engineer-wore-apple-vision-pro-to-his-wedding-much-to-his-new-brides-chagrin?utm_medium=rss)
+ - [Apple&#39;s 2024 iPad &amp; iPhone chip plan has been detailed in a new leak](https://appleinsider.com/articles/24/03/01/apples-2024-ipad-iphone-chip-plan-has-been-detailed-in-a-new-leak?utm_medium=rss)
+ - [Apple says users and a number of government agencies in the EU raised concerns about the security risks of allowing app sideloading on iOS to comply with DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240301/p11#a240301p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
