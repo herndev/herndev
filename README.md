@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple Car blues, Apple Ask, and Apple Vision Pro Experiences on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/01/apple-car-blues-apple-ask-and-apple-vision-pro-experiences-on-the-appleinsider-podcast?utm_medium=rss)
- - [Mobile World Congress asked us to imagine a world where phones bend to our needs](https://www.theverge.com/2024/3/1/24087496/mobile-world-congress-mwc-2024-brain-ai-samsung-galaxy-ring-humane-pin)<!-- TECH:END -->
+ - [Spotify launches the Audiobooks Access Tier, which gives free users in the US access to 15 hours of audiobooks per month for $9.99 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240301/p15#a240301p15)
+ - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu?utm_medium=rss)
+ - [Spotify’s new audiobook tier will only save you a dollar over Premium](https://www.theverge.com/2024/3/1/24087550/spotify-audiobook-access-tier-price-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
