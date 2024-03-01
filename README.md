@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF\u2026](http://9gag.com/gag/aYVzbV7)
+ - 💣 [Hello darkness my old friend...](http://9gag.com/gag/aNwyeD3)
  - ⏩ [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 👉 [The sister of this Queen&#39;s Guard held his hand after not seeing him for a long time and he couldn\u2019t do anything](http://9gag.com/gag/aVbnN1O)<!-- MEMES:END -->
+ - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
 
 ---
 
