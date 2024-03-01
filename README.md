@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Many people learn it in a hard way](http://9gag.com/gag/aBdDR8N)
- - ⏩ [Another death by community note](http://9gag.com/gag/aYVzN7q)
- - 👉 [Jack Black covers Hit Me Baby](http://9gag.com/gag/a2KQNKw)<!-- MEMES:END -->
+ - 💣 [Jack Black covers Hit Me Baby](http://9gag.com/gag/a2KQNKw)
+ - ⏩ [Navalny Funeral. Seems not all Russians are numb!](http://9gag.com/gag/abvjyp8)
+ - 👉 [People in Russia chanting `Putin is a murderer`](http://9gag.com/gag/az26EqK)<!-- MEMES:END -->
 
 ---
 
