@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You won’t have to open your Messages app to see recent texts soon](https://www.androidauthority.com/google-contacts-message-widget-3421724/)
- - [Apple cites bevy of scared users to back up its case against the EU DMA](https://appleinsider.com/articles/24/03/01/apple-cites-bevy-of-scared-users-to-back-up-its-case-against-the-eu-dma?utm_medium=rss)
- - [Google is blocking RCS on rooted Android devices](https://www.theverge.com/2024/3/1/24087418/google-messages-blocking-rcs-on-rooted-android-devices)<!-- TECH:END -->
+ - [Filing: Elon Musk says OpenAI is &quot;not just developing but is actually refining an AGI to maximize profits for Microsoft&quot; and claims GPT-4 constitutes an AGI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240301/p8#a240301p8)
+ - [Elon Musk Sues OpenAI and Sam Altman for Breach of Contract](https://www.wired.com/story/elon-musk-sues-sam-altman-openai/)
+ - [Apple Watch Ultra is not the only micro LED project Apple has cancelled](https://appleinsider.com/articles/24/03/01/apple-watch-ultra-is-not-the-only-micro-led-project-apple-has-cancelled?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
