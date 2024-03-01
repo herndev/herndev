@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Moto X50 Ultra could take on the Galaxy S24 for AI honors](https://www.androidauthority.com/moto-x50-ultra-coming-3420707/)
- - [Everything to Know About F1 for the 2024 Season     - CNET](https://www.cnet.com/culture/sports/everything-to-know-about-f1-for-the-2024-season/#ftag=CAD590a51e)
- - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The data center industry is struggling to meet its self-imposed sustainability goals as AI&#39;s booming growth increases electricity demand and strains power grids &lpar;Patrick Sisson/New York Times&rpar;](http://www.techmeme.com/240301/p1#a240301p1)
+ - [Spain&#39;s Tragic Tower Block Fire Exposes the World&#39;s Failing Fire Regulations](https://www.wired.com/story/valencia-tower-fire-grenfell-cladding-siding/)
+ - [The Moto X50 Ultra could take on the Galaxy S24 for AI honors](https://www.androidauthority.com/moto-x50-ultra-coming-3420707/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
