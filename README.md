@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello darkness my old friend...](http://9gag.com/gag/aNwyeD3)
- - ⏩ [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
+ - 💣 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - ⏩ [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 👉 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)<!-- MEMES:END -->
 
 ---
 
