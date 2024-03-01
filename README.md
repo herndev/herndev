@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
- - ⏩ [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
- - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
+ - ⏩ [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
+ - 👉 [Feels good](http://9gag.com/gag/a5XLNZg)<!-- MEMES:END -->
 
 ---
 
