@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - ⏩ [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 👉 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)<!-- MEMES:END -->
+ - 💣 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - ⏩ [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 👉 [And it gets more painful every day for everyone who hasn&#39;t heard](http://9gag.com/gag/a7qj5RA)<!-- MEMES:END -->
 
 ---
 
