@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Legal experts say Musk&#39;s lawsuit against OpenAI is a stretch because handshakes and expectations are hard to enforce, but it does make a strong policy argument &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240301/p22#a240301p22)
- - [Meta says it’s deleting all Oculus accounts at the end of the month](https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts)
- - [Balatro bumped from some console storefronts due to ratings change](https://www.theverge.com/2024/3/1/24087723/balatro-console-storefront-removal-steam-pc)<!-- TECH:END -->
+ - [The Wild Claim at the Heart of Elon Musk’s OpenAI Lawsuit](https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/)
+ - [Pixel Watch 3 leak reveals larger variant size, Pixel Buds Pro 2 in the works](https://www.androidauthority.com/pixel-watch-3-pixel-buds-pro-2-leak-3421961/)
+ - [Memos: OpenAI execs reject Musk&#39;s claims, say OpenAI is committed to benefiting humanity and has yet to achieve AGI; Altman says the &quot;attacks will keep coming&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240301/p23#a240301p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
