@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hypocrisy much? Google is silently blocking RCS on rooted Android phones and custom ROMs](https://www.androidauthority.com/google-silently-blocking-rcs-rooted-android-phones-custom-roms-3421652/)
- - [Australia&#39;s PM threatens action against Meta after it said it would stop paying media companies; News Corp says it threatens the viability of small media groups &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240301/p3#a240301p3)
- - [Save Big on Your Next Adventure With This 12% Tripadvisor Discount     - CNET](https://www.cnet.com/deals/save-big-on-your-next-adventure-with-this-12-tripadvisor-discount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BBC Studios buys British broadcaster ITV&#39;s 50% stake in streamer BritBox International for &amp;pound;255M, as ITV focuses on its ad-funded streaming service ITVX &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/240301/p5#a240301p5)
+ - [Identity Fraud Can Delay Your Tax Refund: Take This Simple Step to Stop It     - CNET](https://www.cnet.com/personal-finance/taxes/identity-fraud-can-delay-your-tax-refund-take-this-simple-step-to-stop-it/#ftag=CAD590a51e)
+ - [Best Verizon Phone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
