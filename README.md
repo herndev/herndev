@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash sale drops Microsoft Office to just $29.97 &lpar;86% off&rpar;](https://www.androidauthority.com/microsoft-office-2019-deal-3421556/)
- - [Today&#39;s Mortgage Rates on March 1, 2024: Rates Increased Over the Last Week     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-on-march-1-2024-rates-increased-over-the-last-week/#ftag=CAD590a51e)
- - [Refinance Rates for March 1, 2024: Rate Moves Up     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-march-1-2024-rate-moves-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You won’t have to open your Messages app to see recent texts soon](https://www.androidauthority.com/google-contacts-message-widget-3421724/)
+ - [Apple cites bevy of scared users to back up its case against the EU DMA](https://appleinsider.com/articles/24/03/01/apple-cites-bevy-of-scared-users-to-back-up-its-case-against-the-eu-dma?utm_medium=rss)
+ - [Google is blocking RCS on rooted Android devices](https://www.theverge.com/2024/3/1/24087418/google-messages-blocking-rcs-on-rooted-android-devices)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
