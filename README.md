@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good Climate Solutions Need Good Policy—and AI Can Help With That](https://www.wired.com/story/climate-policy-radar-michal-nachmany-data-ai/)
- - [The data center industry is struggling to meet its self-imposed sustainability goals as AI&#39;s booming growth increases electricity demand and strains power grids &lpar;Patrick Sisson/New York Times&rpar;](http://www.techmeme.com/240301/p1#a240301p1)
- - [Spain&#39;s Tragic Tower Block Fire Exposes the World&#39;s Failing Fire Regulations](https://www.wired.com/story/valencia-tower-fire-grenfell-cladding-siding/)<!-- TECH:END -->
+ - [Hypocrisy much? Google is silently blocking RCS on rooted Android phones and custom ROMs](https://www.androidauthority.com/google-silently-blocking-rcs-rooted-android-phones-custom-roms-3421652/)
+ - [Australia&#39;s PM threatens action against Meta after it said it would stop paying media companies; News Corp says it threatens the viability of small media groups &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240301/p3#a240301p3)
+ - [Save Big on Your Next Adventure With This 12% Tripadvisor Discount     - CNET](https://www.cnet.com/deals/save-big-on-your-next-adventure-with-this-12-tripadvisor-discount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
