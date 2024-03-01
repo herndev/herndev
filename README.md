@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
- - ⏩ [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
+ - 💣 [So the company made it with real fresh potato ?](http://9gag.com/gag/aVbGQw8)
+ - ⏩ [I see what you did there.](http://9gag.com/gag/a1P4A78)
  - 👉 [Feels good](http://9gag.com/gag/a5XLNZg)<!-- MEMES:END -->
 
 ---
