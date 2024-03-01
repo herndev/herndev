@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal locations list in GTA Online](https://www.polygon.com/gta-online-guides/24073849/animal-locations-where-to-find)
- - [Penny&#39;s Big Breakaway review](https://www.pcgamer.com/games/pennys-big-breakaway-review)
- - [One Of 2024’s Best Games Has Been Yanked From Switch Over Gambling Concerns](https://kotaku.com/balatro-nintendo-switch-eshop-removed-gambling-1851301756)<!-- GAME:END -->
+ - [All Treasure Trove collectable trophies in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24086754/treasure-trove-collectables-trophies-list-how-to-get)
+ - [Ms. Marvel star Iman Vellani has ‘been assured’ by Marvel she’ll return to the MCU](https://www.polygon.com/24087888/iman-vellani-ms-marvel-young-avengers)
+ - [Watch the Japanese horror film that inspired Resident Evil for free](https://www.polygon.com/24080011/resident-evil-movie-sweet-home-watch-youtube)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
