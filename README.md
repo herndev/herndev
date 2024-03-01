@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
- - ⏩ [Slavery](http://9gag.com/gag/avQb2Zq)
- - 👉 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)<!-- MEMES:END -->
+ - 💣 [Good](http://9gag.com/gag/amADNQy)
+ - ⏩ [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 👉 [Slavery](http://9gag.com/gag/avQb2Zq)<!-- MEMES:END -->
 
 ---
 
