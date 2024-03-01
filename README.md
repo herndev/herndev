@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ufouria: The Saga 2 Reinvents an 8-Bit Classic](https://news.xbox.com/en-us/2024/03/01/ufouria-the-saga-2-reinvents-an-8-bit-classic/)
- - [The 5 best Korean dramas to stream on Netflix this spring](https://www.polygon.com/what-to-watch/2024/3/1/24084038/best-korean-dramas-netflix-watch-spring-2024)
- - [Distilled board game brings a big shot of strategy to the tabletop](https://www.polygon.com/tabletop-games/23835815/distilled-board-game-preview)<!-- GAME:END -->
+ - [Animal locations list in GTA Online](https://www.polygon.com/gta-online-guides/24073849/animal-locations-where-to-find)
+ - [Penny&#39;s Big Breakaway review](https://www.pcgamer.com/games/pennys-big-breakaway-review)
+ - [One Of 2024’s Best Games Has Been Yanked From Switch Over Gambling Concerns](https://kotaku.com/balatro-nintendo-switch-eshop-removed-gambling-1851301756)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
