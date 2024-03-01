@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - ⏩ [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 👉 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)<!-- MEMES:END -->
+ - 💣 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)
+ - ⏩ [Grapes!](http://9gag.com/gag/aVbGWMv)
+ - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
 
 ---
 
