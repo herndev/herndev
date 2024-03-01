@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Camelot Unchained, the MMO that raised more than $2.2M on Kickstarter in 2013, actually has a release target](https://www.pcgamer.com/games/mmo/camelot-unchained-the-mmo-that-raised-more-than-dollar22m-on-kickstarter-in-2013-actually-has-a-release-target)
  - [Diablo 4&#39;s strongest builds won&#39;t be enough to prevail in its new 8-minute speedrun dungeon with leaderboards](https://www.pcgamer.com/games/action/diablo-4s-strongest-builds-wont-be-enough-to-prevail-in-its-new-8-minute-speedrun-dungeon-with-leaderboards)
- - [Destiny 2 is adding Back to the Future-style hoverboards and I doubt I&#39;ll ever ride a boring old Sparrow ever again](https://www.pcgamer.com/games/fps/destiny-2-is-adding-back-to-the-future-style-hoverboards-and-i-doubt-ill-ever-ride-a-boring-old-sparrow-ever-again)
- - [I harnessed the power of deceit to conquer Hell in Solium Infernum, but I&#39;m still not sure what I&#39;m doing](https://www.pcgamer.com/games/strategy/i-harnessed-the-power-of-deceit-to-conquer-hell-in-solium-infernum-but-im-still-not-sure-what-im-doing)<!-- GAME:END -->
+ - [Destiny 2 is adding Back to the Future-style hoverboards and I doubt I&#39;ll ever ride a boring old Sparrow ever again](https://www.pcgamer.com/games/fps/destiny-2-is-adding-back-to-the-future-style-hoverboards-and-i-doubt-ill-ever-ride-a-boring-old-sparrow-ever-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
