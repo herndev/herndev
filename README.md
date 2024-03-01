@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation into ClothOff, an app being used to make deepfake porn images of underage girls, finds a brother and sister in Belarus are linked to the app &lpar;The Guardian&rpar;](http://www.techmeme.com/240229/p32#a240229p32)
  - [UnitedHealth says Blackcat is the reason healthcare providers are going unpaid](https://www.theverge.com/2024/2/29/24087105/united-health-black-cat-ransom-ware-hospitals-payments)
- - [Best Electric SUVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-electric-suv/#ftag=CAD590a51e)
- - [The UK’s GPS Tagging of Migrants Has Been Ruled Illegal](https://www.wired.com/story/gps-ankle-tags-uk-privacy-illegal/)<!-- TECH:END -->
+ - [Best Electric SUVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-electric-suv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
