@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Moto X50 Ultra could take on the Galaxy S24 for AI honors](https://www.androidauthority.com/moto-x50-ultra-coming-3420707/)
  - [Everything to Know About F1 for the 2024 Season     - CNET](https://www.cnet.com/culture/sports/everything-to-know-about-f1-for-the-2024-season/#ftag=CAD590a51e)
- - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
- - [Best Camping Cookware for Your Summer Adventures     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-camping-cooking-gear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
