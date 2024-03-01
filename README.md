@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell reports Q4 revenue down 11% YoY to $22.3B vs. $22.2B est., Client revenue down 12% to $11.7B, and Infrastructure revenue down 6% to $9.3B; DELL jumps 15%+ &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240229/p30#a240229p30)
- - [Google’s Deal With StackOverflow Is the Latest Proof That AI Giants Will Pay for Data](https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/)
- - [Here’s your first look at Tron: Ares, premiering in 2025](https://www.theverge.com/2024/2/29/24087003/tron-ares-first-image-2025-release-date)<!-- TECH:END -->
+ - [Photomath: Google’s latest app on the Play Store is an AI math solver](https://www.androidauthority.com/photomath-ai-math-solver-3421552/)
+ - [HPE reports Q1 revenue down 14% YoY to $6.76B, vs. $7.1B est., Server revenue down 23% YoY to $3.4B, and reduces its FY 2024 outlook for sales growth and profit &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240229/p31#a240229p31)
+ - [Sennheiser Momentum True Wireless 4 review: redemption never sounded so good](https://www.theverge.com/24086715/sennheiser-momentum-true-wireless-4-earbuds-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
