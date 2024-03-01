@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [To stem the tide of AI-generated work, Amazon starts limiting the publication of &quot;summaries&quot; and &quot;workbooks&quot; that claim to be companions to human-authored books &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240301/p16#a240301p16)
- - [Now Apple says it won’t disable iPhone web apps in the EU](https://www.theverge.com/2024/3/1/24087666/apple-disable-iphone-web-apps-eu-reversal)
- - [Google cuts team of contractors who went on strike](https://www.theverge.com/2024/3/1/24087634/google-youtube-music-alphabet-union-strike-contractors)<!-- TECH:END -->
+ - [Samsung has started rolling out the Galaxy S24’s March security patch](https://www.androidauthority.com/galaxy-s24-march-update-3421921/)
+ - [A brief history of Elon Musk sabotaging Matt Levine’s time off](https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff)
+ - [Threads says it will make its API broadly available to developers by June and is currently testing it with some partners, including Techmeme and Hootsuite &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240301/p17#a240301p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
