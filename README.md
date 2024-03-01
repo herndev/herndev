@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good](http://9gag.com/gag/amADNQy)
- - ⏩ [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 👉 [Slavery](http://9gag.com/gag/avQb2Zq)<!-- MEMES:END -->
+ - 💣 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - ⏩ [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 👉 [Rogue HD](http://9gag.com/gag/aMEp1QX)<!-- MEMES:END -->
 
 ---
 
