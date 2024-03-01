@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 4 – 8](https://news.xbox.com/en-us/2024/03/01/next-week-on-xbox-march-4-to-8/)
- - [Borderlands studio Gearbox reportedly in the &#39;late stages&#39; of a sale, as Embracer Group continues to hack off parts of itself to keep the lights on](https://www.pcgamer.com/gaming-industry/borderlands-studio-gearbox-reportedly-in-the-late-stages-of-a-sale-as-embracer-group-continues-to-hack-off-parts-of-itself-to-keep-the-lights-on)
- - [Standalone webcams may become more of a luxury than a requirement as Microsoft tests out a Windows 11 feature that lets you use your Android phone instead](https://www.pcgamer.com/hardware/webcams/standalone-webcams-may-become-more-of-a-luxury-than-a-requirement-as-microsoft-tests-out-a-windows-11-feature-that-lets-you-use-your-android-phone-instead)<!-- GAME:END -->
+ - [Come With Us if You Want to Live – New Games &amp; ’80s Throwbacks Dominate Nacon Connect 2024](https://news.xbox.com/en-us/2024/03/01/nacon-connect-recap-xbox-2024/)
+ - [The weirdo detective is making a comeback](https://www.polygon.com/24086798/elsbeth-review-weird-detectives-love-em)
+ - [Kotaku Asks: What Is The Best Final Fantasy For Newcomers?](https://kotaku.com/kotaku-asks-best-final-fantasy-to-play-first-1851300506)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
