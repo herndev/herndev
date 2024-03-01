@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cyclist went twice as fast in final moments of the race](http://9gag.com/gag/arm660p)
- - ⏩ [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 👉 [Haha](http://9gag.com/gag/ap9yyGM)<!-- MEMES:END -->
+ - 💣 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - ⏩ [Slavery](http://9gag.com/gag/avQb2Zq)
+ - 👉 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)<!-- MEMES:END -->
 
 ---
 
