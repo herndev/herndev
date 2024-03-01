@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, March 1](https://www.pcgamer.com/wordle-answer-today-march-1-2024)
  - [We&#39;re riding shotgun with Pacific Drive to give away a free copy of the game and a carload of great gear](https://www.pcgamer.com/games/survival-crafting/were-riding-shotgun-with-pacific-drive-to-give-away-a-free-copy-of-the-game-and-a-carload-of-great-gear)
- - [It is once again time to boot up Vampire Survivors thanks to a space-themed free update and a Final Fantasy parody trailer teasing more to come](https://www.pcgamer.com/games/roguelike/it-is-once-again-time-to-boot-up-vampire-survivors-thanks-to-a-space-themed-free-update-and-a-final-fantasy-parody-trailer-teasing-more-to-come)
- - [Diablo 4&#39;s upcoming loot rework will be so massive Blizzard will let you playtest it early in its first PTR](https://www.pcgamer.com/games/action/diablo-4s-upcoming-loot-rework-will-be-so-massive-blizzard-will-let-you-playtest-it-early-in-its-first-ptr)<!-- GAME:END -->
+ - [It is once again time to boot up Vampire Survivors thanks to a space-themed free update and a Final Fantasy parody trailer teasing more to come](https://www.pcgamer.com/games/roguelike/it-is-once-again-time-to-boot-up-vampire-survivors-thanks-to-a-space-themed-free-update-and-a-final-fantasy-parody-trailer-teasing-more-to-come)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
