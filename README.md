@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - ⏩ [David Larrat having fun](http://9gag.com/gag/awZq09x)
- - 👉 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)<!-- MEMES:END -->
+ - 💣 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
+ - ⏩ [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
 
 ---
 
