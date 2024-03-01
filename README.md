@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GitHub is under automated attack by millions of cloned repositories filled with malicious code](https://www.pcgamer.com/software/security/github-is-under-automated-attack-by-millions-of-cloned-repositories-filled-with-malicious-code)
- - [Helldivers 2 boss finds Starship Troopers renaissance &#39;humbling,&#39; says the game is that &#39;without the plot armour&#39;, and nothing captures that better than your frantic near-death videos](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-boss-says-the-studios-going-for-starship-troopers-without-the-plot-armour-and-nothing-captures-that-better-than-your-frantic-near-death-videos)
- - [All Genshin Impact codes from the 4.5 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-5-livestream)<!-- GAME:END -->
+ - [How to Explore the Wilderness of Expeditions: A Mudrunner Game](https://news.xbox.com/en-us/2024/03/01/expeditions-mudrunner-guide/)
+ - [You can already save $20 on Final Fantasy 7 Rebirth](https://www.polygon.com/deals/24086623/final-fantasy-7-rebirth-deal-20-off-qvc)
+ - [GitHub is under automated attack by millions of cloned repositories filled with malicious code](https://www.pcgamer.com/software/security/github-is-under-automated-attack-by-millions-of-cloned-repositories-filled-with-malicious-code)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
