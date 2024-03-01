@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation into ClothOff, an app being used to make deepfake porn images of underage girls, finds a brother and sister in Belarus are linked to the app &lpar;The Guardian&rpar;](http://www.techmeme.com/240229/p32#a240229p32)
- - [UnitedHealth says Blackcat is the reason healthcare providers are going unpaid](https://www.theverge.com/2024/2/29/24087105/united-health-black-cat-ransom-ware-hospitals-payments)
- - [Best Electric SUVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-electric-suv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Email: GM told Cruise employees that the company&#39;s internal share price had been estimated at $11.80 by a third party, down from $24.27 just one quarter ago &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240229/p35#a240229p35)
+ - [A US judge orders the NSO Group to hand over its code for Pegasus and other spyware products to WhatsApp, as part of the company&#39;s ongoing litigation &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/240229/p34#a240229p34)
+ - [Flash deal: save 60% on a lifetime Rosetta Stone subscription](https://appleinsider.com/articles/24/03/01/flash-deal-save-60-on-a-lifetime-rosetta-stone-subscription?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
