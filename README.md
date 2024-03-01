@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Mohg, Lord of Blood, in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy)
- - [How to access Elden Ring’s Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24087766/how-to-start-dlc-access-point-location-miquellas-cocoon)
- - [Diablo 4 finally recognizes necromancers just want a skeleton posse and sprinkles buffs on our boys in bone](https://www.pcgamer.com/games/action/diablo-4-finally-recognizes-necromancers-just-want-a-skeleton-posse-and-sprinkles-buffs-on-our-boys-in-bone)<!-- GAME:END -->
+ - [Starfield&#39;s next update will improve the photo mode so you can finally smile pretty for your pictures](https://www.pcgamer.com/games/rpg/starfields-next-update-will-improve-the-photo-mode-so-you-can-finally-smile-pretty-for-your-pictures)
+ - [The PC game releases we&#39;re most excited about in March](https://www.pcgamer.com/games/march-2024-pc-game-release-dates)
+ - [Final Fantasy 8 is the best, area man claims](https://www.polygon.com/gaming/24087000/final-fantasy-8-is-the-best-fan-site-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
