@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BBC Studios buys British broadcaster ITV&#39;s 50% stake in streamer BritBox International for &amp;pound;255M, as ITV focuses on its ad-funded streaming service ITVX &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/240301/p5#a240301p5)
- - [Identity Fraud Can Delay Your Tax Refund: Take This Simple Step to Stop It     - CNET](https://www.cnet.com/personal-finance/taxes/identity-fraud-can-delay-your-tax-refund-take-this-simple-step-to-stop-it/#ftag=CAD590a51e)
- - [Best Verizon Phone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flash sale drops Microsoft Office to just $29.97 &lpar;86% off&rpar;](https://www.androidauthority.com/microsoft-office-2019-deal-3421556/)
+ - [Today&#39;s Mortgage Rates on March 1, 2024: Rates Increased Over the Last Week     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-on-march-1-2024-rates-increased-over-the-last-week/#ftag=CAD590a51e)
+ - [Refinance Rates for March 1, 2024: Rate Moves Up     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-march-1-2024-rate-moves-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
