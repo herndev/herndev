@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A software engineer wore Apple Vision Pro to his wedding, much to his new bride&#39;s chagrin](https://appleinsider.com/articles/24/03/01/a-software-engineer-wore-apple-vision-pro-to-his-wedding-much-to-his-new-brides-chagrin?utm_medium=rss)
- - [Apple&#39;s 2024 iPad &amp; iPhone chip plan has been detailed in a new leak](https://appleinsider.com/articles/24/03/01/apples-2024-ipad-iphone-chip-plan-has-been-detailed-in-a-new-leak?utm_medium=rss)
- - [Apple says users and a number of government agencies in the EU raised concerns about the security risks of allowing app sideloading on iOS to comply with DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240301/p11#a240301p11)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Apple Car blues, Apple Ask, and Apple Vision Pro Experiences on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/01/apple-car-blues-apple-ask-and-apple-vision-pro-experiences-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Mobile World Congress asked us to imagine a world where phones bend to our needs](https://www.theverge.com/2024/3/1/24087496/mobile-world-congress-mwc-2024-brain-ai-samsung-galaxy-ring-humane-pin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
