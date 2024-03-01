@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Treasure Trove collectable trophies in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24086754/treasure-trove-collectables-trophies-list-how-to-get)
- - [Ms. Marvel star Iman Vellani has ‘been assured’ by Marvel she’ll return to the MCU](https://www.polygon.com/24087888/iman-vellani-ms-marvel-young-avengers)
- - [Watch the Japanese horror film that inspired Resident Evil for free](https://www.polygon.com/24080011/resident-evil-movie-sweet-home-watch-youtube)<!-- GAME:END -->
+ - [How to beat Mohg, Lord of Blood, in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy)
+ - [How to access Elden Ring’s Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24087766/how-to-start-dlc-access-point-location-miquellas-cocoon)
+ - [Diablo 4 finally recognizes necromancers just want a skeleton posse and sprinkles buffs on our boys in bone](https://www.pcgamer.com/games/action/diablo-4-finally-recognizes-necromancers-just-want-a-skeleton-posse-and-sprinkles-buffs-on-our-boys-in-bone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
