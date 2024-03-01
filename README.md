@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Come With Us if You Want to Live – New Games &amp; ’80s Throwbacks Dominate Nacon Connect 2024](https://news.xbox.com/en-us/2024/03/01/nacon-connect-recap-xbox-2024/)
- - [The weirdo detective is making a comeback](https://www.polygon.com/24086798/elsbeth-review-weird-detectives-love-em)
- - [Kotaku Asks: What Is The Best Final Fantasy For Newcomers?](https://kotaku.com/kotaku-asks-best-final-fantasy-to-play-first-1851300506)<!-- GAME:END -->
+ - [Netflix is now streaming one of Denzel Washington’s best steamy thrillers](https://www.polygon.com/24086727/devil-in-a-blue-dress-movie-denzel-washington-netflix-thriller-sexy)
+ - [This indie &#39;adventure flight&#39; game dares to ask, &#39;What if Crimson Skies was about making beer?&#39;](https://www.pcgamer.com/games/action/this-indie-adventure-flight-game-dares-to-ask-what-if-crimson-skies-was-about-making-beer)
+ - [Tamarak Trail review](https://www.pcgamer.com/games/card-games/tamarak-trail-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
