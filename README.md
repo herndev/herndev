@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s legal case against OpenAI is hilariously bad](https://www.theverge.com/2024/3/1/24087937/elon-musk-suing-openai-nightmare-1l-contracts-exam)
- - [Interview with CEO of Groq about its AI chips that enable chatbots to answer queries instantly, sending a cease and desist to X.ai over the Groq trademark, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240301/p19#a240301p19)
- - [Spotify, Epic complain again that Apple won&#39;t be in compliance with the DMA](https://appleinsider.com/articles/24/03/01/spotify-epic-complain-again-that-apple-wont-be-in-compliance-with-the-dma?utm_medium=rss)<!-- TECH:END -->
+ - [Legal experts say Musk&#39;s lawsuit against OpenAI is a stretch because handshakes and expectations are hard to enforce, but it does make a strong policy argument &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240301/p22#a240301p22)
+ - [Meta says it’s deleting all Oculus accounts at the end of the month](https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts)
+ - [Balatro bumped from some console storefronts due to ratings change](https://www.theverge.com/2024/3/1/24087723/balatro-console-storefront-removal-steam-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
