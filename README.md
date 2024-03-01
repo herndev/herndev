@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, March 1](https://www.pcgamer.com/wordle-answer-today-march-1-2024)
- - [We&#39;re riding shotgun with Pacific Drive to give away a free copy of the game and a carload of great gear](https://www.pcgamer.com/games/survival-crafting/were-riding-shotgun-with-pacific-drive-to-give-away-a-free-copy-of-the-game-and-a-carload-of-great-gear)
- - [It is once again time to boot up Vampire Survivors thanks to a space-themed free update and a Final Fantasy parody trailer teasing more to come](https://www.pcgamer.com/games/roguelike/it-is-once-again-time-to-boot-up-vampire-survivors-thanks-to-a-space-themed-free-update-and-a-final-fantasy-parody-trailer-teasing-more-to-come)<!-- GAME:END -->
+ - [GitHub is under automated attack by millions of cloned repositories filled with malicious code](https://www.pcgamer.com/software/security/github-is-under-automated-attack-by-millions-of-cloned-repositories-filled-with-malicious-code)
+ - [Helldivers 2 boss finds Starship Troopers renaissance &#39;humbling,&#39; says the game is that &#39;without the plot armour&#39;, and nothing captures that better than your frantic near-death videos](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-boss-says-the-studios-going-for-starship-troopers-without-the-plot-armour-and-nothing-captures-that-better-than-your-frantic-near-death-videos)
+ - [All Genshin Impact codes from the 4.5 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-5-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
