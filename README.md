@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix is now streaming one of Denzel Washington’s best steamy thrillers](https://www.polygon.com/24086727/devil-in-a-blue-dress-movie-denzel-washington-netflix-thriller-sexy)
- - [This indie &#39;adventure flight&#39; game dares to ask, &#39;What if Crimson Skies was about making beer?&#39;](https://www.pcgamer.com/games/action/this-indie-adventure-flight-game-dares-to-ask-what-if-crimson-skies-was-about-making-beer)
- - [Tamarak Trail review](https://www.pcgamer.com/games/card-games/tamarak-trail-review)<!-- GAME:END -->
+ - [Ufouria: The Saga 2 Reinvents an 8-Bit Classic](https://news.xbox.com/en-us/2024/03/01/ufouria-the-saga-2-reinvents-an-8-bit-classic/)
+ - [The 5 best Korean dramas to stream on Netflix this spring](https://www.polygon.com/what-to-watch/2024/3/1/24084038/best-korean-dramas-netflix-watch-spring-2024)
+ - [Distilled board game brings a big shot of strategy to the tabletop](https://www.polygon.com/tabletop-games/23835815/distilled-board-game-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
