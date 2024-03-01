@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - ⏩ [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 👉 [Rogue HD](http://9gag.com/gag/aMEp1QX)<!-- MEMES:END -->
+ - 💣 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - ⏩ [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
+ - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
 
 ---
 
