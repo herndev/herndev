@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Explore the Wilderness of Expeditions: A Mudrunner Game](https://news.xbox.com/en-us/2024/03/01/expeditions-mudrunner-guide/)
- - [You can already save $20 on Final Fantasy 7 Rebirth](https://www.polygon.com/deals/24086623/final-fantasy-7-rebirth-deal-20-off-qvc)
- - [GitHub is under automated attack by millions of cloned repositories filled with malicious code](https://www.pcgamer.com/software/security/github-is-under-automated-attack-by-millions-of-cloned-repositories-filled-with-malicious-code)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 4 – 8](https://news.xbox.com/en-us/2024/03/01/next-week-on-xbox-march-4-to-8/)
+ - [Borderlands studio Gearbox reportedly in the &#39;late stages&#39; of a sale, as Embracer Group continues to hack off parts of itself to keep the lights on](https://www.pcgamer.com/gaming-industry/borderlands-studio-gearbox-reportedly-in-the-late-stages-of-a-sale-as-embracer-group-continues-to-hack-off-parts-of-itself-to-keep-the-lights-on)
+ - [Standalone webcams may become more of a luxury than a requirement as Microsoft tests out a Windows 11 feature that lets you use your Android phone instead](https://www.pcgamer.com/hardware/webcams/standalone-webcams-may-become-more-of-a-luxury-than-a-requirement-as-microsoft-tests-out-a-windows-11-feature-that-lets-you-use-your-android-phone-instead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
