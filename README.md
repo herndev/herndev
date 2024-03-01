@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify launches the Audiobooks Access Tier, which gives free users in the US access to 15 hours of audiobooks per month for $9.99 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240301/p15#a240301p15)
- - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu?utm_medium=rss)
- - [Spotify’s new audiobook tier will only save you a dollar over Premium](https://www.theverge.com/2024/3/1/24087550/spotify-audiobook-access-tier-price-ads)<!-- TECH:END -->
+ - [To stem the tide of AI-generated work, Amazon starts limiting the publication of &quot;summaries&quot; and &quot;workbooks&quot; that claim to be companions to human-authored books &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240301/p16#a240301p16)
+ - [Now Apple says it won’t disable iPhone web apps in the EU](https://www.theverge.com/2024/3/1/24087666/apple-disable-iphone-web-apps-eu-reversal)
+ - [Google cuts team of contractors who went on strike](https://www.theverge.com/2024/3/1/24087634/google-youtube-music-alphabet-union-strike-contractors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
