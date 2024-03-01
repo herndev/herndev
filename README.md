@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
- - ⏩ [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
- - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
+ - 💣 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
+ - ⏩ [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 👉 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)<!-- MEMES:END -->
 
 ---
 
