@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - ⏩ [Women.](http://9gag.com/gag/aKEbVZZ)
- - 👉 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)<!-- MEMES:END -->
+ - 💣 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
+ - ⏩ [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
+ - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
 
 ---
 
