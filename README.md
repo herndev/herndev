@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [For $40, you can get four great pre-owned games at GameStop](https://www.polygon.com/24085756/gamestop-pre-owned-sale-ps5-xbox-switch-4-for-40)
- - [Kotaku Readers Pick The Best Final Fantasy For Newcomers](https://kotaku.com/best-final-fantasy-newcomers-kotaku-asks-1851305279)
- - [Xbox streaming new games showcase on March 6](https://www.polygon.com/24090223/xbox-showcase-partner-spring-preview-2024-date-time)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare III and Warzone Season 2 Reloaded: What You Need to Know](https://www.callofduty.com/blog/2024/03/call-of-duty-modern-warfare-iii-warzone-season-2-reloaded-maps-modes-zombies-announcement%20#new_tab)
+ - [Dune 2? I’m sorry, I thought you said Dhoom 2](https://www.polygon.com/24090197/dune-2-no-i-mean-dhoom-2)
+ - [You can claim land for your base on Arrakis in survival MMO Dune: Awakening, but you&#39;ll have to pay the Emperor for it](https://www.pcgamer.com/games/mmo/you-can-claim-land-for-your-base-on-arrakis-in-survival-mmo-dune-awakening-but-youll-have-to-pay-the-emperor-for-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
