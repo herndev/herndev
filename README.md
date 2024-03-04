@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mickey Mouse &lpar;a.k.a. Femke Bol&rpar; has just broken the 400m indoor world record for The Netherlands!](http://9gag.com/gag/aEqeBge)
- - ⏩ [Mental solution](http://9gag.com/gag/aRExmpq)
- - 👉 [It&#39;s a nightmare](http://9gag.com/gag/a6qWoNq)<!-- MEMES:END -->
+ - 💣 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)
+ - ⏩ [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
+ - 👉 [Or similar countries](http://9gag.com/gag/adP3qMV)<!-- MEMES:END -->
 
 ---
 
