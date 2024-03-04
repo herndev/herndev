@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stop Telling People They Can Play Final Fantasy VII Rebirth Without Remake](https://kotaku.com/final-fantasy-7-rebirth-do-i-play-remake-before-1851306179)
- - [Final Fantasy VII Rebirth Romance And Dating Guide](https://kotaku.com/final-fantasy-7-date-aerith-barret-red-13-tifa-yuffie-1851306031)
- - [Fort Condor sucks](https://www.polygon.com/24090225/fort-condor-final-fantasy-7-ff7-rebirth-quest-hard-mode)<!-- GAME:END -->
+ - [Nintendo 3DS emulator Citra taken offline as collateral damage in Yuzu lawsuit settlement](https://www.pcgamer.com/software/nintendo-3ds-emulator-citra-taken-offline-as-collateral-damage-in-yuzu-settlement)
+ - [The Last of Us season 2 is casting up](https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news)
+ - [How To Be The Best Queen’s Blood Player in Final Fantasy VII Rebirth](https://kotaku.com/final-fantasy-7-rebirth-queens-blood-tips-beginners-1851306482)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
