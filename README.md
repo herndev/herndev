@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - ⏩ [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
- - 👉 [`But we sell to farmers`](http://9gag.com/gag/aYVz4Q0)<!-- MEMES:END -->
+ - 💣 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - ⏩ [Mental solution](http://9gag.com/gag/aRExmpq)
+ - 👉 [Lol.](http://9gag.com/gag/a5XLbny)<!-- MEMES:END -->
 
 ---
 
