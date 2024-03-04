@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s take on third-party chats might not be that bad](https://www.androidauthority.com/whatsapp-third-party-chats-enable-disable-all-3422155/)
- - [Analysis: between 2019 and the end of 2023, women&#39;s share of tech jobs rose from 31% to 35% in the US, 23% to 25.2% across the EU, and 29% to 32%+ in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p2#a240304p2)
- - [Less Sea Ice Means More Arctic Trees—Which Means Trouble](https://www.wired.com/story/arctic-trees-sea-ice-snow-warming/)<!-- TECH:END -->
+ - [Leaked iPhone SE 4 renders show we’re up for a long overdue refresh](https://www.androidauthority.com/leaked-iphone-se-4-renders-3422164/)
+ - [Why Tech Job Interviews Became Such a Nightmare](https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/)
+ - [Best Solar Panel Installation Companies in Maine     - CNET](https://www.cnet.com/home/energy-and-utilities/maine-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
