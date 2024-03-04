@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last week a US judge acquitted China&#39;s Fujian Jinhua Integrated Circuit in the DOJ&#39;s Micron trade secrets case, months after Micron changed its posture on China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240303/p9#a240303p9)
- - [Best Smart Soundbar of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-soundbar/#ftag=CAD590a51e)
- - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This upcoming thin and light foldable could be a spec beast](https://www.androidauthority.com/vivo-x-fold-3-pro-specs-leak-3422136/)
+ - [Buying a new iPad or MacBook this month? You should wait for these new launches](https://www.androidauthority.com/apple-ipad-pro-air-macbook-launch-m3-refresh-3422140/)
+ - [As work continues on 6G standards, telcos are talking about 5.5G, or 5G Advanced, which brings faster upload speeds, network slicing, enhanced positioning, more &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240304/p1#a240304p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
