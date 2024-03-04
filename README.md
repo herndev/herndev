@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - ⏩ [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
- - 👉 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)<!-- MEMES:END -->
+ - 💣 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
+ - ⏩ [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
+ - 👉 [No thanks.](http://9gag.com/gag/aA0nDXR)<!-- MEMES:END -->
 
 ---
 
