@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - ⏩ [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
+ - 💣 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
+ - ⏩ [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - 👉 [Lol.](http://9gag.com/gag/a5XLbny)<!-- MEMES:END -->
 
 ---
 
