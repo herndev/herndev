@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ve heard of the Galaxy S24 Ultra’s Space Zoom, but here’s zoom from space](https://www.androidauthority.com/samsung-galaxy-s24-ultra-photos-stratosphere-balloons-3422182/)
- - [I Found Frank Herbert’s &#39;Dune&#39; Script. &#39;Dune: Part Two&#39; Is Better](https://www.wired.com/story/frank-herbert-dune-script-denis-villeneuve-dune-part-two/)
- - [Today&#39;s Mortgage Rates for March 4, 2024: Rates Decrease to Start the New Year     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-march-4-2024-rates-decrease-to-start-the-new-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple on the hunt for new microLED suppliers for future products](https://appleinsider.com/articles/24/03/04/apple-on-the-hunt-for-new-microled-suppliers-for-future-products?utm_medium=rss)
+ - [How to Deal With Aggressive Solar Salespeople     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-deal-with-aggressive-solar-salespeople/#ftag=CAD590a51e)
+ - [Sony&#39;s Noise-Canceling WH-1000XM4 Headphones Are $100 Off at Amazon     - CNET](https://www.cnet.com/deals/sonys-noise-canceling-wh-1000xm4-headphones-are-100-off-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
