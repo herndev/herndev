@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - ⏩ [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
- - 👉 [No thanks.](http://9gag.com/gag/aA0nDXR)<!-- MEMES:END -->
+ - 💣 [Triplets](http://9gag.com/gag/avQbOAO)
+ - ⏩ [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
+ - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
 
 ---
 
