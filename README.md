@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo 3DS emulator Citra taken offline as collateral damage in Yuzu lawsuit settlement](https://www.pcgamer.com/software/nintendo-3ds-emulator-citra-taken-offline-as-collateral-damage-in-yuzu-settlement)
- - [The Last of Us season 2 is casting up](https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news)
- - [How To Be The Best Queen’s Blood Player in Final Fantasy VII Rebirth](https://kotaku.com/final-fantasy-7-rebirth-queens-blood-tips-beginners-1851306482)<!-- GAME:END -->
+ - [When does Modern Warfare 3 season 2 Reloaded release?](https://www.polygon.com/modern-warfare-3-guides/24090467/mw3-season-2-s2-reloaded-midseason-release-date-time)
+ - [One Of PlayStation’s Most Overlooked Games Could Be Coming To PC](https://kotaku.com/gravity-rush-2-remaster-rumor-pc-ps5-1851306694)
+ - [Final Fantasy 7 Rebirth weapons guide](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24090302/weapons-locations-best-list-level-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
