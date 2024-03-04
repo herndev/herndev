@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Modern Warfare 3 season 2 Reloaded release?](https://www.polygon.com/modern-warfare-3-guides/24090467/mw3-season-2-s2-reloaded-midseason-release-date-time)
- - [One Of PlayStation’s Most Overlooked Games Could Be Coming To PC](https://kotaku.com/gravity-rush-2-remaster-rumor-pc-ps5-1851306694)
- - [Final Fantasy 7 Rebirth weapons guide](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24090302/weapons-locations-best-list-level-up)<!-- GAME:END -->
+ - [The full 2024 Oscar nominations list — and predictions for who wins](https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies)
+ - [Group that claimed it stole data from Epic admits it didn&#39;t happen, Epic says the whole thing was &#39;a scam&#39;](https://www.pcgamer.com/gaming-industry/group-that-claimed-it-stole-data-from-epic-admits-it-didnt-happen-epic-says-the-whole-thing-was-a-scam)
+ - [FF7 Rebirth: Where To Find All Seventh Infantry Members](https://kotaku.com/final-fantasy-7-rebirth-junon-seventh-infantry-location-1851306992)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
