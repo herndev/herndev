@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - ⏩ [Almost 100k , let&#39;s keep pushing to show devs we don&#39;t want that stuff in games !](http://9gag.com/gag/aA0nD2R)
- - 👉 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)<!-- MEMES:END -->
+ - 💣 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
+ - ⏩ [Lol.](http://9gag.com/gag/a5XLbny)
+ - 👉 [Decapitated snake head bites its own body\u2026I always thought only chickens could do this\u2026](http://9gag.com/gag/aVbGeBd)<!-- MEMES:END -->
 
 ---
 
