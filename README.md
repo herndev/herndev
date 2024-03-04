@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wild Claim at the Heart of Elon Musk’s OpenAI Lawsuit](https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/)
- - [Pixel Watch 3 leak reveals larger variant size, Pixel Buds Pro 2 in the works](https://www.androidauthority.com/pixel-watch-3-pixel-buds-pro-2-leak-3421961/)
- - [Memos: OpenAI execs reject Musk&#39;s claims, say OpenAI is committed to benefiting humanity and has yet to achieve AGI; Altman says the &quot;attacks will keep coming&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240301/p23#a240301p23)<!-- TECH:END -->
+ - [How to create programmatic user interfaces using Xcode Previews](https://appleinsider.com/articles/24/03/03/how-to-create-programmatic-user-interfaces-using-xcode-previews?utm_medium=rss)
+ - [Robert F. Kennedy Jr.’s Microsoft-Powered Chatbot Just Disappeared](https://www.wired.com/story/robert-f-kennedy-jr-chatbot-microsoft-openai-disappeared/)
+ - [Google Drive search on iOS gets better filtering options](https://www.theverge.com/2024/3/3/24089633/google-drive-ios-search-filters-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
