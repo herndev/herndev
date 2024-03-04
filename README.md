@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, March 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-4-2024)
- - [Helldivers 2 director explains how its freedom and wacky guns were inspired by tabletop: &#39;Let the player do the action, and you&#39;ll see what happens&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-explains-how-its-freedom-and-wacky-guns-were-inspired-by-tabletop-let-the-player-do-the-action-and-youll-see-what-happens)
- - [Path of Achra is a bite-size, old-school, dungeon-crawling dark fantasy treat](https://www.pcgamer.com/games/roguelike/path-of-achra-is-a-bite-size-old-school-dungeon-crawling-dark-fantasy-treat)<!-- GAME:END -->
+ - [AMD wanted to incorporate parts of the HDMI 2.1 spec into its open-source Linux drivers, but the HDMI Forum&#39;s legal beagles shutdown the whole idea](https://www.pcgamer.com/hardware/graphics-cards/amd-wanted-to-incorporate-parts-of-the-hdmi-21-spec-into-its-open-source-linux-drivers-but-the-hdmi-forums-legal-beagles-shutdown-the-whole-idea)
+ - [The outstanding Deus Ex: Human Revolution, a 94%-rated game with over 22K &#39;Very Positive&#39; reviews, is now cheaper than a cup of coffee](https://www.pcgamer.com/games/action/the-outstanding-deus-ex-human-revolution-a-94-rated-game-with-over-22k-very-positive-reviews-is-now-cheaper-than-a-cup-of-coffee)
+ - [HP Omen Transcend 14 review](https://www.pcgamer.com/hardware/gaming-laptops/hp-omen-transcend-14-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
