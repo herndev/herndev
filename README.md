@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - ⏩ [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 👉 [Lol.](http://9gag.com/gag/a5XLbny)<!-- MEMES:END -->
+ - 💣 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
+ - ⏩ [Women.](http://9gag.com/gag/aKEbVZZ)
+ - 👉 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)<!-- MEMES:END -->
 
 ---
 
