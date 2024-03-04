@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - ⏩ [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
- - 👉 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)<!-- MEMES:END -->
+ - 💣 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
+ - ⏩ [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 👉 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)<!-- MEMES:END -->
 
 ---
 
