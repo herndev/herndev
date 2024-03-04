@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Bungie composer Marty O&#39;Donnell is running for Congress with &quot;Marty&#39;s army&quot; and says he&#39;s voting Trump](https://www.pcgamer.com/games/fps/ex-bungie-composer-marty-odonnell-is-running-for-congress-with-martys-army-and-says-hes-voting-trump)
- - [They’re finally making another Mass Effect board game, and no it’s not Risk](https://www.polygon.com/tabletop-games/24090070/mass-effect-board-game-release-date-price)
- - [Baldur’s Gate 3 Xbox Physical Edition May Have A Whole Lotta Discs [Update]](https://kotaku.com/baldurs-gate-3-deluxe-edition-xbox-series-x-s-4-discs-1851300561)<!-- GAME:END -->
+ - [Xbox Partner Preview | March 2024: We’re Back with Fresh Looks at Games for Xbox and Windows](https://news.xbox.com/en-us/2024/03/04/xbox-partner-preview-march-2024-announce/)
+ - [Final Fantasy 7 Rebirth Performance Mode Will Be Improved In New Patch](https://kotaku.com/final-fantasy-7-rebirth-performance-mode-patch-ps5-1851305108)
+ - [It&#39;s black, brown, and beige from here on out, as Noctua confirms it has ditched development on white fans and coolers](https://www.pcgamer.com/hardware/cooling/its-black-brown-and-beige-from-here-on-out-as-noctua-confirms-it-has-ditched-development-on-white-fans-and-coolers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
