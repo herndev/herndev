@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s Chief Technical Officer: &#39;We&#39;re enabling our gaming devices to upscale using AI&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-chief-technical-officer-were-enabling-our-gaming-devices-to-upscale-using-ai)
- - [Palworld players turn to more honest work after a patch robs them of their nail grift: Dooming a merchant to a Greek mythology-tier punishment loop of burning to death forever](https://www.pcgamer.com/games/survival-crafting/palworld-players-turn-to-more-honest-work-after-a-patch-robs-them-of-their-nail-grift-dooming-a-merchant-to-a-greek-mythology-tier-punishment-loop-of-burning-to-death-forever)
- - [The voice behind Final Fantasy 14&#39;s G&#39;raha Tia was so dedicated to the role, his tongue swelled up on the West End: &#39;I had to record this in the day doing eight shows a night&#39;](https://www.pcgamer.com/games/mmo/the-voice-behind-final-fantasy-14s-graha-tia-was-so-dedicated-to-the-role-his-tongue-swelled-up-on-the-west-end-i-had-to-record-this-in-the-day-doing-eight-shows-a-night)<!-- GAME:END -->
+ - [Ex-Bungie composer Marty O&#39;Donnell is running for Congress with &quot;Marty&#39;s army&quot; and says he&#39;s voting Trump](https://www.pcgamer.com/games/fps/ex-bungie-composer-marty-odonnell-is-running-for-congress-with-martys-army-and-says-hes-voting-trump)
+ - [They’re finally making another Mass Effect board game, and no it’s not Risk](https://www.polygon.com/tabletop-games/24090070/mass-effect-board-game-release-date-price)
+ - [Baldur’s Gate 3 Xbox Physical Edition May Have A Whole Lotta Discs [Update]](https://kotaku.com/baldurs-gate-3-deluxe-edition-xbox-series-x-s-4-discs-1851300561)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
