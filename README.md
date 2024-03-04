@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)
- - ⏩ [Grapes!](http://9gag.com/gag/aVbGWMv)
- - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
+ - 💣 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - ⏩ [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
+ - 👉 [`But we sell to farmers`](http://9gag.com/gag/aYVz4Q0)<!-- MEMES:END -->
 
 ---
 
