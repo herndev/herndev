@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Partner Preview | March 2024: We’re Back with Fresh Looks at Games for Xbox and Windows](https://news.xbox.com/en-us/2024/03/04/xbox-partner-preview-march-2024-announce/)
- - [Final Fantasy 7 Rebirth Performance Mode Will Be Improved In New Patch](https://kotaku.com/final-fantasy-7-rebirth-performance-mode-patch-ps5-1851305108)
- - [It&#39;s black, brown, and beige from here on out, as Noctua confirms it has ditched development on white fans and coolers](https://www.pcgamer.com/hardware/cooling/its-black-brown-and-beige-from-here-on-out-as-noctua-confirms-it-has-ditched-development-on-white-fans-and-coolers)<!-- GAME:END -->
+ - [For $40, you can get four great pre-owned games at GameStop](https://www.polygon.com/24085756/gamestop-pre-owned-sale-ps5-xbox-switch-4-for-40)
+ - [Kotaku Readers Pick The Best Final Fantasy For Newcomers](https://kotaku.com/best-final-fantasy-newcomers-kotaku-asks-1851305279)
+ - [Xbox streaming new games showcase on March 6](https://www.polygon.com/24090223/xbox-showcase-partner-spring-preview-2024-date-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
