@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - ⏩ [Lol.](http://9gag.com/gag/a5XLbny)
- - 👉 [Decapitated snake head bites its own body\u2026I always thought only chickens could do this\u2026](http://9gag.com/gag/aVbGeBd)<!-- MEMES:END -->
+ - 💣 [Mickey Mouse &lpar;a.k.a. Femke Bol&rpar; has just broken the 400m indoor world record for The Netherlands!](http://9gag.com/gag/aEqeBge)
+ - ⏩ [Mental solution](http://9gag.com/gag/aRExmpq)
+ - 👉 [It&#39;s a nightmare](http://9gag.com/gag/a6qWoNq)<!-- MEMES:END -->
 
 ---
 
