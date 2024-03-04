@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to file and pay your 2023 taxes online](https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund)
- - [EU fine and shift to AI applying opposing forces to Apple&#39;s value, holding it steady](https://appleinsider.com/articles/24/03/04/eu-fine-and-shift-to-ai-applying-opposing-forces-to-apples-value-holding-it-steady?utm_medium=rss)
- - [Diletta Bello Review: Perfect Crema Comes at a Cost](https://www.wired.com/review/diletta-bello-espresso-machine/)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [ChatGPT can read its answers out loud](https://www.theverge.com/2024/3/4/24090500/chatgpt-openai-voice-ios-android)
+ - [Fired Twitter execs are suing Elon Musk for over $128 million](https://www.theverge.com/2024/3/4/24090000/elon-musk-twitter-x-lawsuit-parag-agrawal-severance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
