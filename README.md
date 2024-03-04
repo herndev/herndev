@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare III and Warzone Season 2 Reloaded: What You Need to Know](https://www.callofduty.com/blog/2024/03/call-of-duty-modern-warfare-iii-warzone-season-2-reloaded-maps-modes-zombies-announcement%20#new_tab)
- - [Dune 2? I’m sorry, I thought you said Dhoom 2](https://www.polygon.com/24090197/dune-2-no-i-mean-dhoom-2)
- - [You can claim land for your base on Arrakis in survival MMO Dune: Awakening, but you&#39;ll have to pay the Emperor for it](https://www.pcgamer.com/games/mmo/you-can-claim-land-for-your-base-on-arrakis-in-survival-mmo-dune-awakening-but-youll-have-to-pay-the-emperor-for-it)<!-- GAME:END -->
+ - [Netflix’s The Gentlemen spinoff, The Traitors season 2 finale, and more new TV this week](https://www.polygon.com/2024/3/4/24081633/netflix-new-tv-march-traitors-finale-gentlemen-theo-james-gadsby-finale-premiere)
+ - [Switch emulator Yuzu is dead: abruptly settles lawsuit with Nintendo for $2.4 million in a potentially enormous blow to console emulation](https://www.pcgamer.com/software/nintendo-v-yuzu-switch-emulator-shut-down-settlement)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240229-2200&rpar;](https://news.xbox.com/en-us/2024/03/04/xbox-insider-release-notes-alpha-skip-ahead-2408-240229-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
