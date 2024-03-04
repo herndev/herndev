@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple on the hunt for new microLED suppliers for future products](https://appleinsider.com/articles/24/03/04/apple-on-the-hunt-for-new-microled-suppliers-for-future-products?utm_medium=rss)
- - [How to Deal With Aggressive Solar Salespeople     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-deal-with-aggressive-solar-salespeople/#ftag=CAD590a51e)
- - [Sony&#39;s Noise-Canceling WH-1000XM4 Headphones Are $100 Off at Amazon     - CNET](https://www.cnet.com/deals/sonys-noise-canceling-wh-1000xm4-headphones-are-100-off-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New M3 MacBook Air arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)
+ - [Apple gets a hefty fine for App Store’s abusive ‘anti-steering’ provisions](https://www.androidauthority.com/apple-eu-fine-anti-steering-provisions-app-store-3422228/)
+ - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
