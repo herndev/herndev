@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
- - ⏩ [Thicc game](http://9gag.com/gag/amADrB4)
- - 👉 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)<!-- MEMES:END -->
+ - 💣 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - ⏩ [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
+ - 👉 [It&#39;s married](http://9gag.com/gag/avQbrAW)<!-- MEMES:END -->
 
 ---
 
