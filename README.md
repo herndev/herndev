@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - ⏩ [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
- - 👉 [It&#39;s married](http://9gag.com/gag/avQbrAW)<!-- MEMES:END -->
+ - 💣 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - ⏩ [Almost 100k , let&#39;s keep pushing to show devs we don&#39;t want that stuff in games !](http://9gag.com/gag/aA0nD2R)
+ - 👉 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)<!-- MEMES:END -->
 
 ---
 
