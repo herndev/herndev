@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s The Gentlemen spinoff, The Traitors season 2 finale, and more new TV this week](https://www.polygon.com/2024/3/4/24081633/netflix-new-tv-march-traitors-finale-gentlemen-theo-james-gadsby-finale-premiere)
- - [Switch emulator Yuzu is dead: abruptly settles lawsuit with Nintendo for $2.4 million in a potentially enormous blow to console emulation](https://www.pcgamer.com/software/nintendo-v-yuzu-switch-emulator-shut-down-settlement)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240229-2200&rpar;](https://news.xbox.com/en-us/2024/03/04/xbox-insider-release-notes-alpha-skip-ahead-2408-240229-2200/)<!-- GAME:END -->
+ - [Stop Telling People They Can Play Final Fantasy VII Rebirth Without Remake](https://kotaku.com/final-fantasy-7-rebirth-do-i-play-remake-before-1851306179)
+ - [Final Fantasy VII Rebirth Romance And Dating Guide](https://kotaku.com/final-fantasy-7-date-aerith-barret-red-13-tifa-yuffie-1851306031)
+ - [Fort Condor sucks](https://www.polygon.com/24090225/fort-condor-final-fantasy-7-ff7-rebirth-quest-hard-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
