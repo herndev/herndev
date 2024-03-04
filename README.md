@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best MacBook Air M2 Deals: New $999 Base Price for 13-Inch Model     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
- - [Apple Updates MacBook Air With M3, Dual Monitor Support     - CNET](https://www.cnet.com/tech/computing/apple-updates-macbook-air-with-m3-dual-monitor-support/#ftag=CAD590a51e)
- - [Best M3 Mac Deals: Save on Apple Laptops and Desktops, Including the New M3 MacBook Air     - CNET](https://www.cnet.com/deals/best-m3-mac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Three things Apple got wrong with the Vision Pro launch](https://appleinsider.com/articles/24/03/04/three-things-apple-got-wrong-with-the-vision-pro-launch?utm_medium=rss)
+ - [JetBlue and Spirit abandon their $3.8 billion merger](https://www.theverge.com/2024/3/4/24090122/jetblue-spirit-merger-blocked-canceled)
+ - [Baseten, which helps companies launch open-source or customized AI models, raised a $40M Series B led by IVP and Spark, a source says at a $200M+ valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240304/p11#a240304p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
