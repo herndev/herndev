@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s next update will improve the photo mode so you can finally smile pretty for your pictures](https://www.pcgamer.com/games/rpg/starfields-next-update-will-improve-the-photo-mode-so-you-can-finally-smile-pretty-for-your-pictures)
- - [The PC game releases we&#39;re most excited about in March](https://www.pcgamer.com/games/march-2024-pc-game-release-dates)
- - [Final Fantasy 8 is the best, area man claims](https://www.polygon.com/gaming/24087000/final-fantasy-8-is-the-best-fan-site-interview)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 4, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-4-2024)
+ - [Old school co-op action RPG Secrets of Grindea releases after a decade of early access](https://www.pcgamer.com/games/rpg/old-school-co-op-action-rpg-secrets-of-grindea-releases-after-a-decade-of-early-access)
+ - [Spiritfall is an action roguelike with the combat of a platform fighter](https://www.pcgamer.com/games/roguelike/spiritfall-is-an-action-roguelike-with-the-combat-of-a-platform-fighter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
