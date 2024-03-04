@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New M3 MacBook Air arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)
- - [Apple gets a hefty fine for App Store’s abusive ‘anti-steering’ provisions](https://www.androidauthority.com/apple-eu-fine-anti-steering-provisions-app-store-3422228/)
- - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)<!-- TECH:END -->
+ - [Best MacBook Air M2 Deals: New $999 Base Price for 13-Inch Model     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
+ - [Apple Updates MacBook Air With M3, Dual Monitor Support     - CNET](https://www.cnet.com/tech/computing/apple-updates-macbook-air-with-m3-dual-monitor-support/#ftag=CAD590a51e)
+ - [Best M3 Mac Deals: Save on Apple Laptops and Desktops, Including the New M3 MacBook Air     - CNET](https://www.cnet.com/deals/best-m3-mac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
