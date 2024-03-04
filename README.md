@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPad, MacBook Air, Mac mini: What to expect from Apple in the spring](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)
- - [Saudi Arabian e-commerce software startup Salla raised $130M from Investcorp, Sanabil, and others, in what is likely to be its last funding round before an IPO &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240304/p3#a240304p3)
- - [JavaScript Runs the World—Maybe Even Literally](https://www.wired.com/story/javascript-runs-the-world-maybe-literally/)<!-- TECH:END -->
+ - [You’ve heard of the Galaxy S24 Ultra’s Space Zoom, but here’s zoom from space](https://www.androidauthority.com/samsung-galaxy-s24-ultra-photos-stratosphere-balloons-3422182/)
+ - [I Found Frank Herbert’s &#39;Dune&#39; Script. &#39;Dune: Part Two&#39; Is Better](https://www.wired.com/story/frank-herbert-dune-script-denis-villeneuve-dune-part-two/)
+ - [Today&#39;s Mortgage Rates for March 4, 2024: Rates Decrease to Start the New Year     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-march-4-2024-rates-decrease-to-start-the-new-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
