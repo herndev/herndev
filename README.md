@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
- - ⏩ [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 👉 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)<!-- MEMES:END -->
+ - 💣 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - ⏩ [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 👉 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)<!-- MEMES:END -->
 
 ---
 
