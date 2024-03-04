@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A tech-backed mission to monitor methane pollution launches today](https://www.theverge.com/2024/3/4/24090025/methanesat-satellite-launch-spacex-bezos-fund-google-map-methane-edf)
- - [M3 MacBook Air vs M2 MacBook Air -- Compared](https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m2-macbook-air----compared?utm_medium=rss)
- - [New M3 MacBook Air arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)<!-- TECH:END -->
+ - [16 Best Wireless Earbuds &lpar;2024&rpar;: Noise Cancelers, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/)
+ - [Wix’s new AI chatbot builds websites in seconds based on prompts](https://www.theverge.com/2024/3/4/24090095/wix-ai-website-generator-chatbot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
