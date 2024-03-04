@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last week a US judge acquitted China&#39;s Fujian Jinhua Integrated Circuit in the DOJ&#39;s Micron trade secrets case, months after Micron changed its posture on China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240303/p9#a240303p9)
  - [A look at Microsoft Office assistant Clippy, which was seen as a corporate gaffe but has remained one of Microsoft&#39;s most recognizable brands over two decades &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/240303/p8#a240303p8)
- - [Best Camera to Buy in 2024     - CNET](https://www.cnet.com/tech/computing/best-camera-to-buy/#ftag=CAD590a51e)
- - [It&#39;s back: pick up a lifetime Babbel subscription for $149, a discount of $450 off retail](https://appleinsider.com/articles/24/02/06/its-back-pick-up-a-lifetime-babbel-subscription-for-149-a-discount-of-450-off-retail?utm_medium=rss)<!-- TECH:END -->
+ - [Best Camera to Buy in 2024     - CNET](https://www.cnet.com/tech/computing/best-camera-to-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
