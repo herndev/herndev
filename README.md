@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Triplets](http://9gag.com/gag/avQbOAO)
- - ⏩ [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
+ - 💣 [Thicc game](http://9gag.com/gag/amADrB4)
+ - ⏩ [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 👉 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)<!-- MEMES:END -->
 
 ---
 
