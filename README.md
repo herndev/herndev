@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming thin and light foldable could be a spec beast](https://www.androidauthority.com/vivo-x-fold-3-pro-specs-leak-3422136/)
- - [Buying a new iPad or MacBook this month? You should wait for these new launches](https://www.androidauthority.com/apple-ipad-pro-air-macbook-launch-m3-refresh-3422140/)
- - [As work continues on 6G standards, telcos are talking about 5.5G, or 5G Advanced, which brings faster upload speeds, network slicing, enhanced positioning, more &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240304/p1#a240304p1)<!-- TECH:END -->
+ - [WhatsApp’s take on third-party chats might not be that bad](https://www.androidauthority.com/whatsapp-third-party-chats-enable-disable-all-3422155/)
+ - [Analysis: between 2019 and the end of 2023, women&#39;s share of tech jobs rose from 31% to 35% in the US, 23% to 25.2% across the EU, and 29% to 32%+ in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p2#a240304p2)
+ - [Less Sea Ice Means More Arctic Trees—Which Means Trouble](https://www.wired.com/story/arctic-trees-sea-ice-snow-warming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
