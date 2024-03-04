@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - ⏩ [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 👉 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)<!-- MEMES:END -->
+ - 💣 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - ⏩ [No thanks.](http://9gag.com/gag/aA0nDXR)
+ - 👉 [Or similar countries](http://9gag.com/gag/adP3qMV)<!-- MEMES:END -->
 
 ---
 
