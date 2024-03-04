@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Wireless Earbuds &lpar;2024&rpar;: Noise Cancelers, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/)
- - [Wix’s new AI chatbot builds websites in seconds based on prompts](https://www.theverge.com/2024/3/4/24090095/wix-ai-website-generator-chatbot)<!-- TECH:END -->
+ - [Eve Outdoor Outlet, new Aqara products, Lifx returns on HomeKit Insider](https://appleinsider.com/articles/24/03/04/eve-outdoor-outlet-new-aqara-products-lifx-returns-on-homekit-insider?utm_medium=rss)
+ - [Nintendo Switch emulator creators to pay Nintendo $2.4 million in damages](https://www.androidauthority.com/nintendo-switch-yuzu-settlement-3422388/)
+ - [Casper Mattress Review 2024: A Feel That&#39;s Ideal for All Sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
