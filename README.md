@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
- - ⏩ [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
+ - 💣 [Mind blown](http://9gag.com/gag/awZqA34)
+ - ⏩ [Damn good boy](http://9gag.com/gag/avQbo0O)
+ - 👉 [Name that fanbase](http://9gag.com/gag/ay2yB4Y)<!-- MEMES:END -->
 
 ---
 
