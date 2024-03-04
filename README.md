@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked iPhone SE 4 renders show we’re up for a long overdue refresh](https://www.androidauthority.com/leaked-iphone-se-4-renders-3422164/)
- - [Why Tech Job Interviews Became Such a Nightmare](https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/)
- - [Best Solar Panel Installation Companies in Maine     - CNET](https://www.cnet.com/home/energy-and-utilities/maine-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New iPad, MacBook Air, Mac mini: What to expect from Apple in the spring](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)
+ - [Saudi Arabian e-commerce software startup Salla raised $130M from Investcorp, Sanabil, and others, in what is likely to be its last funding round before an IPO &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240304/p3#a240304p3)
+ - [JavaScript Runs the World—Maybe Even Literally](https://www.wired.com/story/javascript-runs-the-world-maybe-literally/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
