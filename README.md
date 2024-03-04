@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After 14 years, Apple has finally retired the famous MacBook Air wedge shape](https://appleinsider.com/articles/24/03/04/after-14-years-apple-has-finally-retired-the-famous-macbook-air-wedge-shape?utm_medium=rss)
- - [The Lightning-based Backbone One controller is down to its best price yet](https://www.theverge.com/2024/3/4/24090012/backbone-one-mobile-gaming-controller-apple-ipad-air-sony-wh-1000xm4-headphones-deal-sale)
- - [Tropic Haze, the developer of Nintendo Switch emulator Yuzu, agrees to pay $2.4M to settle its lawsuit with Nintendo and will completely shut down the emulator &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240304/p15#a240304p15)<!-- TECH:END -->
+ - [Twitter&#39;s former CEO, CFO, legal chief, and general counsel sue Elon Musk over $128M+ in unpaid severance and Musk&#39;s claim that he had cause to fire them &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/240304/p17#a240304p17)
+ - [HomePod Software 17.4 lets Siri learn your preferred music service for commands](https://appleinsider.com/articles/24/03/04/homepod-software-174-lets-siri-learn-your-preferred-music-service-for-commands?utm_medium=rss)
+ - [Instagram now lets users edit DMs up to 15 minutes after sending them, pin three messaging threads to the top of their inbox, and save their favorite stickers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240304/p16#a240304p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
