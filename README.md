@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)
- - ⏩ [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 👉 [Or similar countries](http://9gag.com/gag/adP3qMV)<!-- MEMES:END -->
+ - 💣 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - ⏩ [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
 
 ---
 
