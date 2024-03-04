@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eve Outdoor Outlet, new Aqara products, Lifx returns on HomeKit Insider](https://appleinsider.com/articles/24/03/04/eve-outdoor-outlet-new-aqara-products-lifx-returns-on-homekit-insider?utm_medium=rss)
- - [Nintendo Switch emulator creators to pay Nintendo $2.4 million in damages](https://www.androidauthority.com/nintendo-switch-yuzu-settlement-3422388/)
- - [Casper Mattress Review 2024: A Feel That&#39;s Ideal for All Sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After 14 years, Apple has finally retired the famous MacBook Air wedge shape](https://appleinsider.com/articles/24/03/04/after-14-years-apple-has-finally-retired-the-famous-macbook-air-wedge-shape?utm_medium=rss)
+ - [The Lightning-based Backbone One controller is down to its best price yet](https://www.theverge.com/2024/3/4/24090012/backbone-one-mobile-gaming-controller-apple-ipad-air-sony-wh-1000xm4-headphones-deal-sale)
+ - [Tropic Haze, the developer of Nintendo Switch emulator Yuzu, agrees to pay $2.4M to settle its lawsuit with Nintendo and will completely shut down the emulator &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240304/p15#a240304p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
