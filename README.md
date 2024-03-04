@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thicc game](http://9gag.com/gag/amADrB4)
- - ⏩ [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 👉 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)<!-- MEMES:END -->
+ - 💣 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
+ - ⏩ [Thicc game](http://9gag.com/gag/amADrB4)
+ - 👉 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)<!-- MEMES:END -->
 
 ---
 
