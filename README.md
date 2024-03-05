@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel devices get March 2024 Android security update with the new Feature Drop](https://www.androidauthority.com/google-pixel-march-2024-android-security-update-3422462/)
  - [Oregon passes landmark Right To Repair law that allows you to fix electronics as old as 2015](https://www.androidauthority.com/oregon-right-to-repair-law-3422459/)
- - [Harry Potter series: Expected release date and the latest rumors](https://www.androidauthority.com/harry-potter-series-release-date-3422448/)
- - [Topsort, whose API allows small businesses to simplify their ad campaigns, raised a $20M Series A led by Upload Ventures, bringing its total raised to $28.6M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240304/p28#a240304p28)<!-- TECH:END -->
+ - [Best Solar Inverters of March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-inverters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
