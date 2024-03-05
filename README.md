@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oregon passes landmark Right To Repair law that allows you to fix electronics as old as 2015](https://www.androidauthority.com/oregon-right-to-repair-law-3422459/)
  - [Harry Potter series: Expected release date and the latest rumors](https://www.androidauthority.com/harry-potter-series-release-date-3422448/)
- - [Topsort, whose API allows small businesses to simplify their ad campaigns, raised a $20M Series A led by Upload Ventures, bringing its total raised to $28.6M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240304/p28#a240304p28)
- - [Android 14 QPR2 update rolls out with March Pixel feature drop](https://www.androidauthority.com/android-14-qpr2-stable-update-pixel-3422447/)<!-- TECH:END -->
+ - [Topsort, whose API allows small businesses to simplify their ad campaigns, raised a $20M Series A led by Upload Ventures, bringing its total raised to $28.6M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240304/p28#a240304p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
