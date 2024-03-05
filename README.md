@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cissnei from Final Fantasy 7 Rebirth is actually a pretty big deal](https://www.polygon.com/24088024/cissnei-final-fantasy-7-rebirth-explained-crisis-core)
- - [Helldivers 2 uses its game master to stop the live service side from being &#39;just a calendar with automated events tied to major holidays&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-uses-its-game-master-to-stop-its-live-service-side-from-being-just-a-calendar-with-automated-events-tied-to-major-holidays)
- - [25 Years Ago, PlayStation Was Blessed With An Amazing Advergame](https://kotaku.com/pepsiman-playstation-game-anniversary-1999-1851305055)<!-- GAME:END -->
+ - [Turbo Golf Racing: From 1 Million Game Preview Players to Release](https://news.xbox.com/en-us/2024/03/05/turbo-golf-racing-release-date-million-players/)
+ - [Fortnite’s Greek Mythology Skins Leak Ahead Of Season 2](https://kotaku.com/fortnite-greek-skins-chapter-5-season-2-1851308547)
+ - [Did not expect this kind of lore from NASA’s first tabletop game](https://www.polygon.com/tabletop-games/24090689/nasa-tabletop-game-lost-universe-tabletop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
