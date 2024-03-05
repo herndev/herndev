@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft files a motion to dismiss The NYT&#39;s copyright lawsuit, accusing it of &quot;doomsday futurology&quot; for predicting that ChatGPT could ruin the news business &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p22#a240304p22)
- - [At an event, Sergey Brin said Google &quot;definitely messed up&quot; Gemini&#39;s image generation launch and it&#39;s &quot;not our intention&quot; to have it leaning left in many cases &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240304/p21#a240304p21)
- - [Nugget Countertop Ice Maker     - CNET](https://www.cnet.com/home/kitchen-and-household/nugget-countertop-ice-maker2-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Over 600 Google Workers Urge the Company to Cut Ties With Israeli Tech Conference](https://www.wired.com/story/google-workers-letter-cut-ties-israeli-tech-conference/)
+ - [Oregon is about to sign — or veto — the strongest right-to-repair law yet](https://www.theverge.com/2024/3/4/24090828/oregon-right-to-repair-sb-1596-parts-pairing)
+ - [Sources: US officials told AMD that the company&#39;s AI chip for the Chinese market was still too powerful and it must obtain a license in order to sell it &lpar;Bloomberg&rpar;](http://www.techmeme.com/240304/p24#a240304p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
