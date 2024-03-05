@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV is getting ready for the Oscars with over 30 free movies](https://www.androidauthority.com/google-tv-oscar-free-movies-3422495/)
- - [Rivian’s smaller R2 electric SUV detailed in website slipup](https://www.theverge.com/2024/3/5/24091012/rivian-r2-electric-suv-specs-leak-range-price)
- - [The OnePlus 13 could finally bring a brand-new design](https://www.androidauthority.com/oneplus-13-design-rumor-3422139/)<!-- TECH:END -->
+ - [UK digital bank Monzo raised $430M led by Alphabet&#39;s CapitalG at a $5B valuation, up from $4.5B in December 2021, and plans to use funds to expand in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p3#a240305p3)
+ - [The OnePlus 13 could finally bring a brand-new design](https://www.androidauthority.com/oneplus-13-design-rumor-3422139/)
+ - [Sources: Chinese AI startup MiniMax raised $600M+ led by Alibaba at a $2.5B+ valuation; the round remains in progress and HongShan has committed funds &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240305/p2#a240305p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
