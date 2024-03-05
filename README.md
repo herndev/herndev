@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - ⏩ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 👉 [Mickey Mouse &lpar;a.k.a. Femke Bol&rpar; has just broken the 400m indoor world record for The Netherlands!](http://9gag.com/gag/aEqeBge)<!-- MEMES:END -->
+ - 💣 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - ⏩ [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
 
 ---
 
