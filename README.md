@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind blown](http://9gag.com/gag/awZqA34)
- - ⏩ [Damn good boy](http://9gag.com/gag/avQbo0O)
- - 👉 [Name that fanbase](http://9gag.com/gag/ay2yB4Y)<!-- MEMES:END -->
+ - 💣 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
+ - ⏩ [Women.](http://9gag.com/gag/aKEbVZZ)
+ - 👉 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)<!-- MEMES:END -->
 
 ---
 
