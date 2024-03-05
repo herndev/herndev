@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad cock block](http://9gag.com/gag/aeQXMBW)
- - ⏩ [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 👉 [The forbidden spares. Not gonna lie. It\u2019s crossed my mind before.](http://9gag.com/gag/awZqBAx)<!-- MEMES:END -->
+ - 💣 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - ⏩ [Women.](http://9gag.com/gag/aKEbVZZ)
+ - 👉 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)<!-- MEMES:END -->
 
 ---
 
