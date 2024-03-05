@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Or similar countries](http://9gag.com/gag/adP3qMV)
- - ⏩ [Neat](http://9gag.com/gag/ap9epGW)
- - 👉 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)<!-- MEMES:END -->
+ - 💣 [Better than waiting to charge your EV car](http://9gag.com/gag/aMEpZ06)
+ - ⏩ [Bamboozled](http://9gag.com/gag/aVbGYG8)
+ - 👉 [And with an assistant too...](http://9gag.com/gag/aeQXrNq)<!-- MEMES:END -->
 
 ---
 
