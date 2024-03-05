@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with the CEO of Grindr, whose stock fell 75% since its SPAC merger in November 2022, on future plans, including an &quot;&amp;agrave; la carte&quot; travel payments service &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p1#a240305p1)
- - [Google Pixel devices get March 2024 Android security update with the new Feature Drop](https://www.androidauthority.com/google-pixel-march-2024-android-security-update-3422462/)
- - [Oregon passes landmark Right To Repair law that allows you to fix electronics as old as 2015](https://www.androidauthority.com/oregon-right-to-repair-law-3422459/)<!-- TECH:END -->
+ - [Google TV is getting ready for the Oscars with over 30 free movies](https://www.androidauthority.com/google-tv-oscar-free-movies-3422495/)
+ - [Rivian’s smaller R2 electric SUV detailed in website slipup](https://www.theverge.com/2024/3/5/24091012/rivian-r2-electric-suv-specs-leak-range-price)
+ - [The OnePlus 13 could finally bring a brand-new design](https://www.androidauthority.com/oneplus-13-design-rumor-3422139/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
