@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Name that fanbase](http://9gag.com/gag/ay2yB4Y)
- - ⏩ [Bamboozled](http://9gag.com/gag/aVbGYG8)
- - 👉 [Better than waiting to charge your EV car](http://9gag.com/gag/aMEpZ06)<!-- MEMES:END -->
+ - 💣 [Mind blown](http://9gag.com/gag/awZqA34)
+ - ⏩ [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - 👉 [No title](http://9gag.com/gag/aNwy19w)<!-- MEMES:END -->
 
 ---
 
