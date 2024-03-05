@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol.](http://9gag.com/gag/a5XLbny)
- - ⏩ [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 👉 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)<!-- MEMES:END -->
+ - 💣 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - ⏩ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
 
 ---
 
