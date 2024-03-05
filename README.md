@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No thanks.](http://9gag.com/gag/aA0nDXR)
- - ⏩ [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
- - 👉 [Mickey Mouse &lpar;a.k.a. Femke Bol&rpar; has just broken the 400m indoor world record for The Netherlands!](http://9gag.com/gag/aEqeBge)<!-- MEMES:END -->
+ - 💣 [Bamboozled](http://9gag.com/gag/aVbGYG8)
+ - ⏩ [And with an assistant too...](http://9gag.com/gag/aeQXrNq)
+ - 👉 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)<!-- MEMES:END -->
 
 ---
 
