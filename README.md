@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Calling All Aces! Watch the Very First Towerborne Twitch Stream This Week](https://go.towerborne.com/TwitchStream%20#new_tab)
- - [Buckle up—Helldivers 2 is getting mechs real soon, courtesy of the Tien Kwan Factories](https://www.pcgamer.com/games/third-person-shooter/buckle-uphelldivers-2-is-getting-mechs-real-soon-courtesy-of-the-tien-kwan-factories)
- - [‘Criminal Geniuses’ Admit Fortnite Hack Was A Total Hoax](https://kotaku.com/epic-games-fortnite-ransomware-hack-mogilevich-scam-1851308826)<!-- GAME:END -->
+ - [The Critically Acclaimed Mediterranea Inferno is Now Available on Xbox Series S|X](https://news.xbox.com/en-us/2024/03/05/mediterranea-inferno-is-now-available-on-xbox-series-sx/)
+ - [Atlus has recreated the original Persona 3 trailer to celebrate 22 million copies, but now I can’t stop thinking about Door-kun](https://www.pcgamer.com/games/rpg/atlus-has-recreated-the-original-persona-3-trailer-to-celebrate-22-million-copies-but-now-i-cant-stop-thinking-about-door-kun)
+ - [In a suspicious act of generosity, EA quietly slashes the Steam price on 4 Command and Conquer games to nearly nothing](https://www.pcgamer.com/games/rts/in-a-suspicious-act-of-generosity-ea-quietly-slashes-the-steam-price-on-4-command-and-conquer-games-to-nearly-nothing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
