@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: MLB The Show 24, Lightyear Frontier, Control Ultimate Edition, and More](https://news.xbox.com/en-us/2024/03/05/xbox-game-pass-new-for-march-2024/)
- - [Horizon Forbidden West Complete Edition PC specifications revealed, out March 21](https://blog.playstation.com/2024/03/05/horizon-forbidden-west-complete-edition-pc-specifications-revealed-out-march-21/)
- - [You can finally accept your mum&#39;s friend request now Steam officially lets you hide your mountain of weird sex games](https://www.pcgamer.com/games/you-can-finally-accept-your-mums-friend-request-now-steam-officially-lets-you-hide-your-mountain-of-weird-sex-games)<!-- GAME:END -->
+ - [Cissnei from Final Fantasy 7 Rebirth is actually a pretty big deal](https://www.polygon.com/24088024/cissnei-final-fantasy-7-rebirth-explained-crisis-core)
+ - [Helldivers 2 uses its game master to stop the live service side from being &#39;just a calendar with automated events tied to major holidays&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-uses-its-game-master-to-stop-its-live-service-side-from-being-just-a-calendar-with-automated-events-tied-to-major-holidays)
+ - [25 Years Ago, PlayStation Was Blessed With An Amazing Advergame](https://kotaku.com/pepsiman-playstation-game-anniversary-1999-1851305055)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
