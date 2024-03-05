@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After the Change Healthcare attack, the US will relax some Medicare prescription rules and consider advance payments; some providers begin furloughing staff &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240305/p27#a240305p27)
- - [Microsoft is killing off Android app and game support on Windows 11](https://www.androidauthority.com/microsoft-ends-wsa-3422754/)
- - [The best Nothing Phone 2a alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/nothing-phone-2a-alternatives-3422512/)<!-- TECH:END -->
+ - [CrowdStrike reports Q4 revenue up 33% YoY to $845M, vs. $839M est., and agrees to buy cloud security company Flow Security for an undisclosed price; CRWD up 20% &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240305/p30#a240305p30)
+ - [Apple Podcasts now includes transcripts](https://www.theverge.com/2024/3/5/24091555/apple-podcasts-transcripts-ios-17-4-update)
+ - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
