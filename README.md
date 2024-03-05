@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [ChatGPT can read its answers out loud](https://www.theverge.com/2024/3/4/24090500/chatgpt-openai-voice-ios-android)
- - [Fired Twitter execs are suing Elon Musk for over $128 million](https://www.theverge.com/2024/3/4/24090000/elon-musk-twitter-x-lawsuit-parag-agrawal-severance)<!-- TECH:END -->
+ - [The IRS Is Holding $20M in Unclaimed Stimulus Check Payments. How to Claim Your Money     - CNET](https://www.cnet.com/personal-finance/didnt-file-a-tax-return-in-2021-heres-how-to-claim-your-2020-tax-refund/#ftag=CAD590a51e)
+ - [Lomi Smart Food Upcycler     - CNET](https://www.cnet.com/news/lomi-smart-food-upcycler-dpnl/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in New Hampshire     - CNET](https://www.cnet.com/home/energy-and-utilities/new-hampshire-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
