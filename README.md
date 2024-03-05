@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3 is so meaty, our Xbox cousins will need to play the Digital Deluxe on 4 disks wrapped in &#39;little slips&#39; and stuffed into a single-disk box](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-is-so-meaty-our-xbox-cousins-will-need-to-play-the-digital-deluxe-on-4-disks-wrapped-in-little-slips-and-stuffed-into-a-single-disk-box)
  - [Can Pawmi be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24090278/can-pawmi-be-shiny-pawmo-pawmot)
- - [Today&#39;s Wordle answer for Tuesday, March 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-5-2024)
- - [The full 2024 Oscar nominations list — and predictions for who wins](https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, March 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-5-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
