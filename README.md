@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
- - ⏩ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 👉 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)<!-- MEMES:END -->
+ - 💣 [\ud83d\uddff\ud83d\uddff\ud83d\uddff](http://9gag.com/gag/aEqeP8x)
+ - ⏩ [Would on toph VA](http://9gag.com/gag/aVbGwX8)
+ - 👉 [Pain](http://9gag.com/gag/a2KQ709)<!-- MEMES:END -->
 
 ---
 
