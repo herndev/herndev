@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best VPN for Chrome 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-chrome/#ftag=CAD590a51e)
- - [Microsoft to end its Android apps on Windows 11 subsystem in 2025](https://www.theverge.com/2024/3/5/24091370/microsoft-windows-11-android-apps-end-of-support)
- - [Amazon Knocks the Galaxy Watch 5 Pro to New All-Time Low Today     - CNET](https://www.cnet.com/deals/amazon-knocks-the-galaxy-watch-5-pro-to-new-all-time-low-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max is getting in on the big streaming password crackdown](https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix)
+ - [Tidal’s subscription is getting simpler and cheaper — yes, you read that right](https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos)
+ - [GE Profile and Café smart ovens are getting a new food recognition feature](https://www.theverge.com/2024/3/5/24091218/ge-appliances-profile-cafe-wall-oven-food-recognition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
