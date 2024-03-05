@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - ⏩ [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
+ - 💣 [Damn good boy](http://9gag.com/gag/avQbo0O)
+ - ⏩ [Word](http://9gag.com/gag/aYVzyZO)
+ - 👉 [Next level dolphin skills](http://9gag.com/gag/aoKB5N3)<!-- MEMES:END -->
 
 ---
 
