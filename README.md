@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Word](http://9gag.com/gag/aYVzyZO)
- - ⏩ [Clown-world-files](http://9gag.com/gag/ay2yMeY)
- - 👉 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)<!-- MEMES:END -->
+ - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
+ - ⏩ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 👉 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)<!-- MEMES:END -->
 
 ---
 
