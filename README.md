@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - ⏩ [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
- - 👉 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)<!-- MEMES:END -->
+ - 💣 [Dad cock block](http://9gag.com/gag/aeQXMBW)
+ - ⏩ [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - 👉 [The forbidden spares. Not gonna lie. It\u2019s crossed my mind before.](http://9gag.com/gag/awZqBAx)<!-- MEMES:END -->
 
 ---
 
