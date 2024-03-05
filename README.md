@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, Instagram, and Threads are all suffering an outage, which seemed to start around 10am ET &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p17#a240305p17)
- - [The US sanctions the spyware group Intellexa Consortium&#39;s founder and one of his business partners, the first time it has sanctioned people over spyware misuse &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240305/p18#a240305p18)
- - [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)<!-- TECH:END -->
+ - [Sources: Microsoft plans to unveil Surface Pro 10 with an OLED screen and Surface Laptop 6, both with Intel Core Ultra and Snapdragon X Elite chips, on March 21 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240305/p19#a240305p19)
+ - [Top deal has the Samsung Galaxy Watch 5 Pro down more than 50%](https://www.androidauthority.com/deal-samsung-galaxy-watch-5-pro-3422672/)
+ - [7 Free and Easy Ways You Can Charge Your EV     - CNET](https://www.cnet.com/roadshow/news/7-free-and-easy-ways-you-can-charge-your-ev/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
