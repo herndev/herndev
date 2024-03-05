@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn good boy](http://9gag.com/gag/avQbo0O)
- - ⏩ [Word](http://9gag.com/gag/aYVzyZO)
- - 👉 [Next level dolphin skills](http://9gag.com/gag/aoKB5N3)<!-- MEMES:END -->
+ - 💣 [Word](http://9gag.com/gag/aYVzyZO)
+ - ⏩ [Clown-world-files](http://9gag.com/gag/ay2yMeY)
+ - 👉 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)<!-- MEMES:END -->
 
 ---
 
