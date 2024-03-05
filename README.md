@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind blown](http://9gag.com/gag/awZqA34)
- - ⏩ [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 👉 [No title](http://9gag.com/gag/aNwy19w)<!-- MEMES:END -->
+ - 💣 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - ⏩ [Better than waiting to charge your EV car](http://9gag.com/gag/aMEpZ06)
+ - 👉 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)<!-- MEMES:END -->
 
 ---
 
