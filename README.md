@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Max is getting in on the big streaming password crackdown](https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix)
- - [Tidal’s subscription is getting simpler and cheaper — yes, you read that right](https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos)
- - [GE Profile and Café smart ovens are getting a new food recognition feature](https://www.theverge.com/2024/3/5/24091218/ge-appliances-profile-cafe-wall-oven-food-recognition)<!-- TECH:END -->
+ - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)
+ - [Pixel 8a leak: Price jump could be coming, storage and colors revealed](https://www.androidauthority.com/pixel-8a-leak-3422732/)
+ - [Inside Registered Agents Inc., the Shadowy Firm Pushing the Limits of Business Privacy](https://www.wired.com/story/registered-agents-inc-fake-personas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
