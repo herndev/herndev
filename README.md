@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)
- - ⏩ [Happy for you two](http://9gag.com/gag/a4oMZOZ)
- - 👉 [Lol.](http://9gag.com/gag/a5XLbny)<!-- MEMES:END -->
+ - 💣 [No thanks.](http://9gag.com/gag/aA0nDXR)
+ - ⏩ [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
+ - 👉 [Mickey Mouse &lpar;a.k.a. Femke Bol&rpar; has just broken the 400m indoor world record for The Netherlands!](http://9gag.com/gag/aEqeBge)<!-- MEMES:END -->
 
 ---
 
