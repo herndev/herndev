@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike reports Q4 revenue up 33% YoY to $845M, vs. $839M est., and agrees to buy cloud security company Flow Security for an undisclosed price; CRWD up 20% &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240305/p30#a240305p30)
- - [Apple Podcasts now includes transcripts](https://www.theverge.com/2024/3/5/24091555/apple-podcasts-transcripts-ios-17-4-update)
- - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Ema, a generative AI startup with the goal of building a &quot;universal AI employee&quot; to automate mundane tasks, emerges from stealth with $25M in funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240305/p33#a240305p33)
+ - [New York-based RapidSOS, which develops systems to help emergency response teams, raised $75M led by BlackRock, bringing its latest round to a total of $150M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240305/p32#a240305p32)
+ - [TikTok’s longer videos are here to stay](https://www.theverge.com/2024/3/5/24090583/tiktok-creator-rewards-program-monetization-subscriptions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
