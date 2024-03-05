@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can finally accept your mum&#39;s friend request now Steam officially lets you hide your mountain of weird sex games](https://www.pcgamer.com/games/you-can-finally-accept-your-mums-friend-request-now-steam-officially-lets-you-hide-your-mountain-of-weird-sex-games)
- - [Asus ROG Zephyrus G16 2024 review](https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2024-review)
- - [Baldur&#39;s Gate 3 is so meaty, our Xbox cousins will need to play the Digital Deluxe on 4 disks wrapped in &#39;little slips&#39; and stuffed into a single-disk box](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-is-so-meaty-our-xbox-cousins-will-need-to-play-the-digital-deluxe-on-4-disks-wrapped-in-little-slips-and-stuffed-into-a-single-disk-box)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: MLB The Show 24, Lightyear Frontier, Control Ultimate Edition, and More](https://news.xbox.com/en-us/2024/03/05/xbox-game-pass-new-for-march-2024/)
+ - [Horizon Forbidden West Complete Edition PC specifications revealed, out March 21](https://blog.playstation.com/2024/03/05/horizon-forbidden-west-complete-edition-pc-specifications-revealed-out-march-21/)
+ - [You can finally accept your mum&#39;s friend request now Steam officially lets you hide your mountain of weird sex games](https://www.pcgamer.com/games/you-can-finally-accept-your-mums-friend-request-now-steam-officially-lets-you-hide-your-mountain-of-weird-sex-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
