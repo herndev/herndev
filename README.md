@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, March 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-5-2024)
  - [The full 2024 Oscar nominations list — and predictions for who wins](https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies)
- - [Group that claimed it stole data from Epic admits it didn&#39;t happen, Epic says the whole thing was &#39;a scam&#39;](https://www.pcgamer.com/gaming-industry/group-that-claimed-it-stole-data-from-epic-admits-it-didnt-happen-epic-says-the-whole-thing-was-a-scam)
- - [FF7 Rebirth: Where To Find All Seventh Infantry Members](https://kotaku.com/final-fantasy-7-rebirth-junon-seventh-infantry-location-1851306992)<!-- GAME:END -->
+ - [Group that claimed it stole data from Epic admits it didn&#39;t happen, Epic says the whole thing was &#39;a scam&#39;](https://www.pcgamer.com/gaming-industry/group-that-claimed-it-stole-data-from-epic-admits-it-didnt-happen-epic-says-the-whole-thing-was-a-scam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
