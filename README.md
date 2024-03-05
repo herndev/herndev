@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)
- - [Pixel 8a leak: Price jump could be coming, storage and colors revealed](https://www.androidauthority.com/pixel-8a-leak-3422732/)
- - [Inside Registered Agents Inc., the Shadowy Firm Pushing the Limits of Business Privacy](https://www.wired.com/story/registered-agents-inc-fake-personas/)<!-- TECH:END -->
+ - [After the Change Healthcare attack, the US will relax some Medicare prescription rules and consider advance payments; some providers begin furloughing staff &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240305/p27#a240305p27)
+ - [Microsoft is killing off Android app and game support on Windows 11](https://www.androidauthority.com/microsoft-ends-wsa-3422754/)
+ - [The best Nothing Phone 2a alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/nothing-phone-2a-alternatives-3422512/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
