@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft plans to unveil Surface Pro 10 with an OLED screen and Surface Laptop 6, both with Intel Core Ultra and Snapdragon X Elite chips, on March 21 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240305/p19#a240305p19)
- - [Top deal has the Samsung Galaxy Watch 5 Pro down more than 50%](https://www.androidauthority.com/deal-samsung-galaxy-watch-5-pro-3422672/)
- - [7 Free and Easy Ways You Can Charge Your EV     - CNET](https://www.cnet.com/roadshow/news/7-free-and-easy-ways-you-can-charge-your-ev/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for Chrome 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-chrome/#ftag=CAD590a51e)
+ - [Microsoft to end its Android apps on Windows 11 subsystem in 2025](https://www.theverge.com/2024/3/5/24091370/microsoft-windows-11-android-apps-end-of-support)
+ - [Amazon Knocks the Galaxy Watch 5 Pro to New All-Time Low Today     - CNET](https://www.cnet.com/deals/amazon-knocks-the-galaxy-watch-5-pro-to-new-all-time-low-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
