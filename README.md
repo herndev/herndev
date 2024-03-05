@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\ud83d\uddff\ud83d\uddff\ud83d\uddff](http://9gag.com/gag/aEqeP8x)
- - ⏩ [Would on toph VA](http://9gag.com/gag/aVbGwX8)
- - 👉 [Pain](http://9gag.com/gag/a2KQ709)<!-- MEMES:END -->
+ - 💣 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
+ - ⏩ [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
 
 ---
 
