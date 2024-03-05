@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early M3 MacBook Air benchmarks aren&#39;t surprising](https://appleinsider.com/articles/24/03/05/early-m3-macbook-air-benchmarks-arent-surprising?utm_medium=rss)
- - [Garmin Forerunner 165 vs Forerunner 265: What’s the difference?](https://www.androidauthority.com/garmin-forerunner-165-vs-forerunner-265-3419279/)
- - [Nothing debuts the 6.7&quot; Phone &lpar;2a&rpar;, its first budget phone, with a 5,000mAh battery and MediaTek chip, starting at &amp;pound;319 with 8GB of RAM and 128GB of storage &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240305/p10#a240305p10)<!-- TECH:END -->
+ - [This year’s Oscar documentary nominees are terrific, and you can stream them all](https://www.theverge.com/24084812/the-oscars-academy-awards-2024-documentary-nominees-streaming)
+ - [How caregivers are using smart tech to help aging parents](https://www.theverge.com/24080494/smart-home-assistant-amazon-alexa-caregiver-elders)
+ - [Apple tops Japan&#39;s declining smartphone market](https://appleinsider.com/articles/24/03/05/apple-tops-japans-declining-smartphone-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
