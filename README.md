@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)
- - [Wedbush: AI &amp; pent-up iPhone 16 demand outweigh concerns over China sales](https://appleinsider.com/articles/24/03/05/wedbush-ai-pent-up-iphone-16-demand-outweigh-concerns-over-china-sales?utm_medium=rss)
- - [Israel-based VC firm Team8 raised $500M from Microsoft, Cisco, and others for funds that will invest in 30+ cyber, data, AI, health, and other Israeli startups &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240305/p15#a240305p15)<!-- TECH:END -->
+ - [Facebook, Instagram, and Threads are all suffering an outage, which seemed to start around 10am ET &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p17#a240305p17)
+ - [The US sanctions the spyware group Intellexa Consortium&#39;s founder and one of his business partners, the first time it has sanctioned people over spyware misuse &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240305/p18#a240305p18)
+ - [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
