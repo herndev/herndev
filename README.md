@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better than waiting to charge your EV car](http://9gag.com/gag/aMEpZ06)
- - ⏩ [Bamboozled](http://9gag.com/gag/aVbGYG8)
- - 👉 [And with an assistant too...](http://9gag.com/gag/aeQXrNq)<!-- MEMES:END -->
+ - 💣 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)
+ - ⏩ [Happy for you two](http://9gag.com/gag/a4oMZOZ)
+ - 👉 [Lol.](http://9gag.com/gag/a5XLbny)<!-- MEMES:END -->
 
 ---
 
