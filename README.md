@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Fallout Xbox Controller Is Cool, But Pricey](https://kotaku.com/fallout-xbox-controller-price-design-lab-custom-1851309799)
  - [The new Fallout-themed controllers will set you back more than a few caps](https://www.polygon.com/deals/24091456/fallout-xbox-controller-design-lab-costs-how-much)
- - [After Suicide Squad ‘Disappoints,’ WB Doubles Down On Live-Service Games](https://kotaku.com/warner-bros-free-to-play-suicide-squad-harry-potter-1851309669)
- - [The banned trans Joker movie finally has a trailer and a theatrical release](https://www.polygon.com/24091473/the-peoples-joker-2022-vera-drew-movie-trailer-release-date)<!-- GAME:END -->
+ - [After Suicide Squad ‘Disappoints,’ WB Doubles Down On Live-Service Games](https://kotaku.com/warner-bros-free-to-play-suicide-squad-harry-potter-1851309669)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
