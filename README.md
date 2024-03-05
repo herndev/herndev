@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Turbo Golf Racing: From 1 Million Game Preview Players to Release](https://news.xbox.com/en-us/2024/03/05/turbo-golf-racing-release-date-million-players/)
- - [Fortnite’s Greek Mythology Skins Leak Ahead Of Season 2](https://kotaku.com/fortnite-greek-skins-chapter-5-season-2-1851308547)
- - [Did not expect this kind of lore from NASA’s first tabletop game](https://www.polygon.com/tabletop-games/24090689/nasa-tabletop-game-lost-universe-tabletop)<!-- GAME:END -->
+ - [Calling All Aces! Watch the Very First Towerborne Twitch Stream This Week](https://go.towerborne.com/TwitchStream%20#new_tab)
+ - [Buckle up—Helldivers 2 is getting mechs real soon, courtesy of the Tien Kwan Factories](https://www.pcgamer.com/games/third-person-shooter/buckle-uphelldivers-2-is-getting-mechs-real-soon-courtesy-of-the-tien-kwan-factories)
+ - [‘Criminal Geniuses’ Admit Fortnite Hack Was A Total Hoax](https://kotaku.com/epic-games-fortnite-ransomware-hack-mogilevich-scam-1851308826)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
