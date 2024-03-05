@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - ⏩ [No title](http://9gag.com/gag/aNwy19w)
- - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
+ - 💣 [Lol.](http://9gag.com/gag/a5XLbny)
+ - ⏩ [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - 👉 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)<!-- MEMES:END -->
 
 ---
 
