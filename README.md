@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Fallout Xbox Controller Is Cool, But Pricey](https://kotaku.com/fallout-xbox-controller-price-design-lab-custom-1851309799)
- - [The new Fallout-themed controllers will set you back more than a few caps](https://www.polygon.com/deals/24091456/fallout-xbox-controller-design-lab-costs-how-much)
- - [After Suicide Squad ‘Disappoints,’ WB Doubles Down On Live-Service Games](https://kotaku.com/warner-bros-free-to-play-suicide-squad-harry-potter-1851309669)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 hands-on: How Capcom brings new life to the RPG sequel](https://blog.playstation.com/2024/03/05/dragons-dogma-2-hands-on-how-capcom-brings-new-life-to-the-rpg-sequel/)
+ - [Pokémon-Like Temtem Will Stop Receiving Content, Devs Apologize For Its Shortcomings](https://kotaku.com/temtem-pokemon-mmo-end-development-1851310155)
+ - [Megan Thee Stallion names Inuyasha’s Kagome the definitive anime hot girl](https://www.polygon.com/anime/24091333/megan-thee-stallion-hot-girl-anime-inuyasha)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
