@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AAA Game Dev To Frustrated Fans: &#39;We&#39;re Human Beings&#39;](https://kotaku.com/aaa-game-dev-mlb-the-show-human-beings-toxic-fans-angry-1851309422)
- - [Spaceman’s director answers the movie’s biggest question: Is the alien spider real?](https://www.polygon.com/24090474/adam-sandler-paul-dano-spaceman-is-hanus-real)
- - [The Critically Acclaimed Mediterranea Inferno is Now Available on Xbox Series S|X](https://news.xbox.com/en-us/2024/03/05/mediterranea-inferno-is-now-available-on-xbox-series-sx/)<!-- GAME:END -->
+ - [The new Fallout-themed controllers will set you back more than a few caps](https://www.polygon.com/deals/24091456/fallout-xbox-controller-design-lab-costs-how-much)
+ - [After Suicide Squad ‘Disappoints,’ WB Doubles Down On Live-Service Games](https://kotaku.com/warner-bros-free-to-play-suicide-squad-harry-potter-1851309669)
+ - [The banned trans Joker movie finally has a trailer and a theatrical release](https://www.polygon.com/24091473/the-peoples-joker-2022-vera-drew-movie-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
