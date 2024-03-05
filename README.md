@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bamboozled](http://9gag.com/gag/aVbGYG8)
- - ⏩ [And with an assistant too...](http://9gag.com/gag/aeQXrNq)
- - 👉 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)<!-- MEMES:END -->
+ - 💣 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - ⏩ [Nacho Nacho Nacho Nacho](http://9gag.com/gag/a8qryD3)
+ - 👉 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)<!-- MEMES:END -->
 
 ---
 
