@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple drops to fourth place in China&#39;s smartphone sales](https://appleinsider.com/articles/24/03/05/apple-drops-to-fourth-place-in-chinas-smartphone-sales?utm_medium=rss)
- - [Android Auto now lets you know which apps you can’t use while driving](https://www.androidauthority.com/android-auto-parked-apps-3422522/)
- - [As Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft comply with the EU DMA ahead of March 7, experts are skeptical the rules will have the desired effect &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p7#a240305p7)<!-- TECH:END -->
+ - [Early M3 MacBook Air benchmarks aren&#39;t surprising](https://appleinsider.com/articles/24/03/05/early-m3-macbook-air-benchmarks-arent-surprising?utm_medium=rss)
+ - [Garmin Forerunner 165 vs Forerunner 265: What’s the difference?](https://www.androidauthority.com/garmin-forerunner-165-vs-forerunner-265-3419279/)
+ - [Nothing debuts the 6.7&quot; Phone &lpar;2a&rpar;, its first budget phone, with a 5,000mAh battery and MediaTek chip, starting at &amp;pound;319 with 8GB of RAM and 128GB of storage &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240305/p10#a240305p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
