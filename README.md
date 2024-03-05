@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with the CEO of Grindr, whose stock fell 75% since its SPAC merger in November 2022, on future plans, including an &quot;&amp;agrave; la carte&quot; travel payments service &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p1#a240305p1)
  - [Google Pixel devices get March 2024 Android security update with the new Feature Drop](https://www.androidauthority.com/google-pixel-march-2024-android-security-update-3422462/)
- - [Oregon passes landmark Right To Repair law that allows you to fix electronics as old as 2015](https://www.androidauthority.com/oregon-right-to-repair-law-3422459/)
- - [Best Solar Inverters of March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-inverters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oregon passes landmark Right To Repair law that allows you to fix electronics as old as 2015](https://www.androidauthority.com/oregon-right-to-repair-law-3422459/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
