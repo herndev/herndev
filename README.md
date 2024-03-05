@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - ⏩ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
+ - 💣 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - ⏩ [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
+ - 👉 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)<!-- MEMES:END -->
 
 ---
 
