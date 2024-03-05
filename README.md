@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK digital bank Monzo raised $430M led by Alphabet&#39;s CapitalG at a $5B valuation, up from $4.5B in December 2021, and plans to use funds to expand in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p3#a240305p3)
- - [The OnePlus 13 could finally bring a brand-new design](https://www.androidauthority.com/oneplus-13-design-rumor-3422139/)
- - [Sources: Chinese AI startup MiniMax raised $600M+ led by Alibaba at a $2.5B+ valuation; the round remains in progress and HongShan has committed funds &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240305/p2#a240305p2)<!-- TECH:END -->
+ - [Apple drops to fourth place in China&#39;s smartphone sales](https://appleinsider.com/articles/24/03/05/apple-drops-to-fourth-place-in-chinas-smartphone-sales?utm_medium=rss)
+ - [Android Auto now lets you know which apps you can’t use while driving](https://www.androidauthority.com/android-auto-parked-apps-3422522/)
+ - [As Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft comply with the EU DMA ahead of March 7, experts are skeptical the rules will have the desired effect &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p7#a240305p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
