@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Critically Acclaimed Mediterranea Inferno is Now Available on Xbox Series S|X](https://news.xbox.com/en-us/2024/03/05/mediterranea-inferno-is-now-available-on-xbox-series-sx/)
- - [Atlus has recreated the original Persona 3 trailer to celebrate 22 million copies, but now I can’t stop thinking about Door-kun](https://www.pcgamer.com/games/rpg/atlus-has-recreated-the-original-persona-3-trailer-to-celebrate-22-million-copies-but-now-i-cant-stop-thinking-about-door-kun)
- - [In a suspicious act of generosity, EA quietly slashes the Steam price on 4 Command and Conquer games to nearly nothing](https://www.pcgamer.com/games/rts/in-a-suspicious-act-of-generosity-ea-quietly-slashes-the-steam-price-on-4-command-and-conquer-games-to-nearly-nothing)<!-- GAME:END -->
+ - [AAA Game Dev To Frustrated Fans: &#39;We&#39;re Human Beings&#39;](https://kotaku.com/aaa-game-dev-mlb-the-show-human-beings-toxic-fans-angry-1851309422)
+ - [Spaceman’s director answers the movie’s biggest question: Is the alien spider real?](https://www.polygon.com/24090474/adam-sandler-paul-dano-spaceman-is-hanus-real)
+ - [The Critically Acclaimed Mediterranea Inferno is Now Available on Xbox Series S|X](https://news.xbox.com/en-us/2024/03/05/mediterranea-inferno-is-now-available-on-xbox-series-sx/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
