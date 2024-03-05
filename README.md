@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 hands-on: How Capcom brings new life to the RPG sequel](https://blog.playstation.com/2024/03/05/dragons-dogma-2-hands-on-how-capcom-brings-new-life-to-the-rpg-sequel/)
- - [Pokémon-Like Temtem Will Stop Receiving Content, Devs Apologize For Its Shortcomings](https://kotaku.com/temtem-pokemon-mmo-end-development-1851310155)
- - [Megan Thee Stallion names Inuyasha’s Kagome the definitive anime hot girl](https://www.polygon.com/anime/24091333/megan-thee-stallion-hot-girl-anime-inuyasha)<!-- GAME:END -->
+ - [Helldivers 2 sales curve is &#39;rare and amazing,&#39; says gobsmacked industry analyst: &#39;I feel like Steve Irwin sighting a rare bird&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-sales-curve-is-rare-and-amazing-says-gobsmacked-industry-analyst-i-feel-like-steve-irwin-sighting-a-rare-bird)
+ - [All PlayStation trophies in Final Fantasy 7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091447/playstation-trophy-list-platinum)
+ - [Dragon&#39;s Dogma 2 director says the secret ingredient to the sublime action combat in Devil May Cry, Monster Hunter and Dragon&#39;s Dogma is simple: Capcom&#39;s arcade DNA](https://www.pcgamer.com/games/rpg/dragons-dogma-2-director-says-the-secret-ingredient-to-the-sublime-action-combat-in-devil-may-cry-monster-hunter-and-dragons-dogma-is-simple-capcoms-arcade-dna)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
