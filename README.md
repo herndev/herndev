@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This year’s Oscar documentary nominees are terrific, and you can stream them all](https://www.theverge.com/24084812/the-oscars-academy-awards-2024-documentary-nominees-streaming)
- - [How caregivers are using smart tech to help aging parents](https://www.theverge.com/24080494/smart-home-assistant-amazon-alexa-caregiver-elders)
- - [Apple tops Japan&#39;s declining smartphone market](https://appleinsider.com/articles/24/03/05/apple-tops-japans-declining-smartphone-market?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)
+ - [Wedbush: AI &amp; pent-up iPhone 16 demand outweigh concerns over China sales](https://appleinsider.com/articles/24/03/05/wedbush-ai-pent-up-iphone-16-demand-outweigh-concerns-over-china-sales?utm_medium=rss)
+ - [Israel-based VC firm Team8 raised $500M from Microsoft, Cisco, and others for funds that will invest in 30+ cyber, data, AI, health, and other Israeli startups &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240305/p15#a240305p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
