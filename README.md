@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - ⏩ [Nacho Nacho Nacho Nacho](http://9gag.com/gag/a8qryD3)
- - 👉 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)<!-- MEMES:END -->
+ - 💣 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - ⏩ [No title](http://9gag.com/gag/aNwy19w)
+ - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
 
 ---
 
