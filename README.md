@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Montenegro appeals court cancels the approval of Do Kwon&#39;s extradition to the US, the third time the Terraform Labs co-founder has successfully appealed &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240305/p42#a240305p42)
- - [A US judge upheld parts of a National Music Publishers&#39; Association&#39;s copyright lawsuit against X and dismissed the claim that X engaged in direct infringement &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p41#a240305p41)
- - [Turmoil at OpenAI: what’s next for the creator of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)<!-- TECH:END -->
+ - [Presentation: OpenView plans to return ~75% of a $571M fund it raised in 2023 to its LPs by Q3 and use the remaining capital to back ~30 portfolio companies &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240305/p43#a240305p43)
+ - [Apple’s ends App Store tyranny in Europe with the latest iOS 17.4 update](https://www.androidauthority.com/apple-ios-17-4-alternative-app-stores-3422790/)
+ - [How to add and remove stickers as a reaction in Messages in iOS 17](https://appleinsider.com/articles/24/03/06/how-to-add-and-remove-stickers-as-a-reaction-in-messages-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
