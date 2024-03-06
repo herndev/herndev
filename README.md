@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gorgeous Sony samurai sim Ghost of Tsushima is the latest game to break PlayStation containment for PC](https://www.pcgamer.com/games/action/gorgeous-sony-samurai-sim-ghost-of-tsushima-is-the-latest-game-to-break-playstation-containment-for-pc)
- - [Elden Ring Has Been Teasing Shadow Of The Erdtree All Along](https://kotaku.com/elden-ring-shadow-erdtree-messmer-candletree-shield-1851312095)
- - [Bummer: We May Never See Dune 2&#39;s Deleted Scenes](https://kotaku.com/dune-2-deleted-scenes-denis-villeneuve-1851312046)<!-- GAME:END -->
+ - [Fortnite’s ‘Titan Hand’ shows Epic is the gold standard for in-game events](https://www.polygon.com/24091680/fortnite-titan-hand-event-chapter-5-season-2-release)
+ - [The Outlast Trials makes me sick to my stomach, but that&#39;s just because it&#39;s one of the best co-op horror games](https://www.pcgamer.com/games/horror/the-outlast-trials-makes-me-sick-to-my-stomach-but-thats-just-because-its-one-of-the-best-co-op-horror-games)
+ - [Alan Wake 2&#39;s out-of-the-blue system requirements change means you no longer need an RTX card to hit its minimum spec](https://www.pcgamer.com/games/horror/alan-wake-2s-out-of-the-blue-system-requirements-change-means-you-no-longer-need-an-rtx-card-to-hit-its-minimum-spec)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
