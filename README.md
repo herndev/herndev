@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive deals hit Apple&#39;s M3 MacBook Air with Adorama VIP membership](https://appleinsider.com/articles/24/03/06/exclusive-deals-hit-apples-m3-macbook-air-with-adorama-vip-membership?utm_medium=rss)
- - [Sources, court filings, and internal documents detail how a flourishing partnership between Sam Altman and Elon Musk turned sour, culminating in Musk&#39;s lawsuit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240306/p4#a240306p4)
- - [Boston-based Overjet, which offers AI software that helps diagnose dental disease from scans, raised a $53.2M Series C led by March Capital at a $550M valuation &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240306/p3#a240306p3)<!-- TECH:END -->
+ - [The EU’s new competition rules are going live — here’s how tech giants are responding](https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes)
+ - [The best Samsung Galaxy Tab A9 Plus cases to buy](https://www.androidauthority.com/best-samsung-galaxy-tab-a9-plus-cases-3422408/)
+ - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
