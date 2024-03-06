@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [JEDEC rubber stamps the GDDR7 spec, mega bandwidth VRAM is on its way for next-gen GPUs](https://www.pcgamer.com/hardware/graphics-cards/jedec-rubber-stamps-the-gddr7-spec-mega-bandwidth-vram-is-on-its-way-for-next-gen-gpus)
- - [Microsoft&#39;s new Surface laptops will be available with Arm CPUs in June](https://www.pcgamer.com/hardware/gaming-laptops/microsofts-new-surface-laptops-will-be-available-with-arm-cpus-in-june)
- - [Helldivers 2 just dropped a chunky balance patch that fixes heavy armour, adds meteor swarms, and deals a blow to eradication mission farmers](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-just-dropped-a-chunky-balance-patch-that-fixes-heavy-armour-adds-meteor-swarms-and-deals-a-blow-to-eradication-mission-farmers)<!-- GAME:END -->
+ - [In an unexpected twist, &#39;GTA 5 was quite a big inspiration&#39; for Dragon&#39;s Dogma 2 and game director Hideaki Itsuno](https://www.pcgamer.com/games/rpg/in-an-unexpected-twist-gta-5-was-quite-a-big-inspiration-for-dragons-dogma-2-and-game-director-hideaki-itsuno)
+ - [Helldivers 2 dev lays out Arrowhead&#39;s strategy for buffing and nerfing the game&#39;s guns: &#39;Powerful weapons can&#39;t be too versatile, versatile weapons can&#39;t be too powerful&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-lays-out-arrowheads-strategy-for-buffing-and-nerfing-the-games-guns-powerful-weapons-cant-be-too-versatile-versatile-weapons-cant-be-too-powerful)
+ - [DNA storage has been talked about for years, but how close is it to becoming a reality?](https://www.pcgamer.com/hardware/storage/dna-storage-the-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
