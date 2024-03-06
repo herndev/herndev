@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
- - ⏩ [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
- - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
+ - 💣 [....](http://9gag.com/gag/avQbONO)
+ - ⏩ [Reverse image search](http://9gag.com/gag/aBdDgGA)
+ - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
 
 ---
 
