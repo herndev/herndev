@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says alternative app stores will stop working, and the apps installed from them will stop updating, if a user travels outside of the EU &quot;for too long&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240305/p38#a240305p38)
- - [Microsoft invokes VCRs in motion to dismiss The New York Times’s AI lawsuit](https://www.theverge.com/2024/3/5/24091719/microsoft-new-york-times-openai-motion-dismiss-copyright-lawsuit)
- - [Apple releases iOS 17.4 with new default browser prompts in the EU, support for third-party browser engines, transcripts for Podcasts, 118 new emojis, and more &lpar;Nil&amp;eacute;ane/MacStories&rpar;](http://www.techmeme.com/240305/p37#a240305p37)<!-- TECH:END -->
+ - [Waymo begins testing its driverless ride-hailing service without a safety operator in Austin starting March 6, initially offering the service to Waymo employees &lpar;Kara Carlson/Austin American-Statesman&rpar;](http://www.techmeme.com/240305/p39#a240305p39)
+ - [Alternative app marketplaces won&#39;t work outside of the EU](https://appleinsider.com/articles/24/03/06/alternative-app-marketplaces-wont-work-outside-of-the-eu?utm_medium=rss)
+ - [Apple says alternative app stores will stop working, and the apps installed from them will stop updating, if a user travels outside of the EU &quot;for too long&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240305/p38#a240305p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
