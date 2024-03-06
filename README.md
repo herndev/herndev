@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did he just discharged a firearm sitting in his pants?](http://9gag.com/gag/aYVzYvw)
- - ⏩ [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
+ - 💣 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - ⏩ [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
+ - 👉 [NYC is not 4 beginners](http://9gag.com/gag/aWGVYM3)<!-- MEMES:END -->
 
 ---
 
