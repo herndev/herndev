@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
- - ⏩ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
+ - 💣 [Hold up\ud83e\udd1a\ud83c\udffbwhat?](http://9gag.com/gag/aL1qprP)
+ - ⏩ [Bro won?](http://9gag.com/gag/aWGVxB4)
+ - 👉 [Well oops ok](http://9gag.com/gag/aoKBMnm)<!-- MEMES:END -->
 
 ---
 
