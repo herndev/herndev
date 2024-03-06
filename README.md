@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [....](http://9gag.com/gag/avQbONO)
- - ⏩ [Reverse image search](http://9gag.com/gag/aBdDgGA)
- - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
+ - ⏩ [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
 
 ---
 
