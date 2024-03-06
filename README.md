@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google One appears to be adding Fitbit Premium and Nest Aware as new perks](https://www.androidauthority.com/google-one-new-perks-3423044/)
- - [MacBook Pro and MacBook Air overwhelmingly drive Apple Mac sales](https://appleinsider.com/articles/24/03/06/macbook-pro-and-macbook-air-overwhelmingly-drive-apple-mac-sales?utm_medium=rss)
- - [Lowest price ever: Apple&#39;s M2 MacBook Air drops to $869](https://appleinsider.com/articles/24/03/06/lowest-price-ever-apples-m2-macbook-air-drops-to-869?utm_medium=rss)<!-- TECH:END -->
+ - [Capturing spatial video: Apple Vision Pro vs iPhone 15 Pro](https://appleinsider.com/articles/24/03/06/capturing-spatial-video-apple-vision-pro-vs-iphone-15-pro?utm_medium=rss)
+ - [Meta explains how WhatsApp’s encrypted chats will work with third-party services](https://www.theverge.com/2024/3/6/24092384/meta-third-party-encrypted-chats-implementation-eu-dma)
+ - [Roku angers users by disabling TVs and devices until they consent to new terms](https://www.androidauthority.com/roku-disabled-devices-3423063/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
