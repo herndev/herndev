@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [While players are the main motive, Final Fantasy 14: Dawntrail&#39;s visual makeover is also meant help devs &#39;advance their careers&#39;, says director Yoshi-P](https://www.pcgamer.com/games/mmo/while-players-are-the-main-motive-final-fantasy-14-dawntrails-visual-makeover-is-also-meant-help-devs-advance-their-careers-says-director-yoshi-p)
- - [Finally, You Can Buy C-3PO&#39;s Head In A Star Wars Auction](https://kotaku.com/star-wars-auction-anthony-daniels-c3po-1851311573)
- - [GPU sales are on the up but AMD&#39;s RX 7000-series graphics cards are its least competitive in 20 years](https://www.pcgamer.com/hardware/graphics-cards/gpu-sales-are-on-the-up-but-amds-rx-7000-series-graphics-cards-are-its-worst-selling-in-over-20-years)<!-- GAME:END -->
+ - [So long and thanks for all the pixels: Nvidia reportedly retiring the GTX brand for good](https://www.pcgamer.com/hardware/graphics-cards/so-long-and-thanks-for-all-the-pixels-nvidia-reportedly-retiring-the-gtx-brand-for-good)
+ - [PSA: Hoverboards are now Destiny 2&#39;s best vehicle—here&#39;s the quickest way to unlock it before Guardian Games ends](https://www.pcgamer.com/games/fps/destiny-2-skimmer-hoverboard)
+ - [How to watch Microsoft’s new Xbox Partner Preview games showcase](https://www.polygon.com/24090223/xbox-showcase-partner-spring-preview-2024-date-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
