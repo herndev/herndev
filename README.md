@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, March 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-6-2024)
  - [Community Update March 2024 – Challenging Depths](https://news.xbox.com/en-us/2024/03/05/community-update-march-2024-challenging-depths/)
- - [Folks, I think I&#39;ve worked out how Bungie plans to make up its 45% revenue shortfall](https://www.pcgamer.com/games/fps/folks-i-think-ive-worked-out-how-bungie-plans-to-make-up-its-45-revenue-shortfall)
- - [Chivalry 2 pauses new skill-based team balancing because it was doing the opposite of balancing for some reason](https://www.pcgamer.com/games/action/chivalry-2-duel-of-the-fetes-update-skill-based-team-balancing)<!-- GAME:END -->
+ - [Folks, I think I&#39;ve worked out how Bungie plans to make up its 45% revenue shortfall](https://www.pcgamer.com/games/fps/folks-i-think-ive-worked-out-how-bungie-plans-to-make-up-its-45-revenue-shortfall)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
