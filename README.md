@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter, 41 state AGs call on Meta to address the &quot;dramatic increase&quot; in Facebook and Instagram account takeovers and say hackers buy ads on its services &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240306/p28#a240306p28)
- - [&#39;Verifiably untrustworthy&#39; Epic Games iOS app store plans in EU killed by Apple](https://appleinsider.com/articles/24/03/06/verifiably-untrustworthy-epic-games-ios-app-store-plans-in-eu-killed-by-apple?utm_medium=rss)
- - [Snap Up This $48 Lifetime Subscription to Headway Premium Before It Expires     - CNET](https://www.cnet.com/deals/snap-up-this-48-lifetime-subscription-to-headway-premium-before-it-expires/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple stumbles big in China: iPhone sales plummet by 24%](https://www.androidauthority.com/iphone-sales-decline-3423089/)
+ - [Get a PS5 Slim With Marvel&#39;s Spider-Man 2 for Just $450 Right Here, Right Now     - CNET](https://www.cnet.com/deals/get-a-ps5-slim-with-marvels-spider-man-2-for-just-450-right-here-right-now/#ftag=CAD590a51e)
+ - [A 62-Year-Old German Man Got 217 Covid Shots—and Was Totally Fine](https://www.wired.com/story/man-gets-217-covid-vaccine-shots-totally-fine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
