@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, March 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-6-2024)
- - [Community Update March 2024 – Challenging Depths](https://news.xbox.com/en-us/2024/03/05/community-update-march-2024-challenging-depths/)
- - [Folks, I think I&#39;ve worked out how Bungie plans to make up its 45% revenue shortfall](https://www.pcgamer.com/games/fps/folks-i-think-ive-worked-out-how-bungie-plans-to-make-up-its-45-revenue-shortfall)<!-- GAME:END -->
+ - [JEDEC rubber stamps the GDDR7 spec, mega bandwidth VRAM is on its way for next-gen GPUs](https://www.pcgamer.com/hardware/graphics-cards/jedec-rubber-stamps-the-gddr7-spec-mega-bandwidth-vram-is-on-its-way-for-next-gen-gpus)
+ - [Microsoft&#39;s new Surface laptops will be available with Arm CPUs in June](https://www.pcgamer.com/hardware/gaming-laptops/microsofts-new-surface-laptops-will-be-available-with-arm-cpus-in-june)
+ - [Helldivers 2 just dropped a chunky balance patch that fixes heavy armour, adds meteor swarms, and deals a blow to eradication mission farmers](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-just-dropped-a-chunky-balance-patch-that-fixes-heavy-armour-adds-meteor-swarms-and-deals-a-blow-to-eradication-mission-farmers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
