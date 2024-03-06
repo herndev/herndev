@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True story, true story...](http://9gag.com/gag/aWGVjAK)
- - ⏩ [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 💣 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
+ - ⏩ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
  - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
 
 ---
