@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold up\ud83e\udd1a\ud83c\udffbwhat?](http://9gag.com/gag/aL1qprP)
- - ⏩ [Bro won?](http://9gag.com/gag/aWGVxB4)
- - 👉 [Well oops ok](http://9gag.com/gag/aoKBMnm)<!-- MEMES:END -->
+ - 💣 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - ⏩ [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
+ - 👉 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)<!-- MEMES:END -->
 
 ---
 
