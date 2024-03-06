@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [So long and thanks for all the pixels: Nvidia reportedly retiring the GTX brand for good](https://www.pcgamer.com/hardware/graphics-cards/so-long-and-thanks-for-all-the-pixels-nvidia-reportedly-retiring-the-gtx-brand-for-good)
- - [PSA: Hoverboards are now Destiny 2&#39;s best vehicle—here&#39;s the quickest way to unlock it before Guardian Games ends](https://www.pcgamer.com/games/fps/destiny-2-skimmer-hoverboard)
- - [How to watch Microsoft’s new Xbox Partner Preview games showcase](https://www.polygon.com/24090223/xbox-showcase-partner-spring-preview-2024-date-time)<!-- GAME:END -->
+ - [Gorgeous Sony samurai sim Ghost of Tsushima is the latest game to break PlayStation containment for PC](https://www.pcgamer.com/games/action/gorgeous-sony-samurai-sim-ghost-of-tsushima-is-the-latest-game-to-break-playstation-containment-for-pc)
+ - [Elden Ring Has Been Teasing Shadow Of The Erdtree All Along](https://kotaku.com/elden-ring-shadow-erdtree-messmer-candletree-shield-1851312095)
+ - [Bummer: We May Never See Dune 2&#39;s Deleted Scenes](https://kotaku.com/dune-2-deleted-scenes-denis-villeneuve-1851312046)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
