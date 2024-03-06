@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cities are sinking, and it’s making them more vulnerable to climate change](https://www.theverge.com/2024/3/6/24091541/sinking-cities-coast-sea-level-rise-nature-research)
- - [Netflix’s Avatar: The Last Airbender has been renewed for two more seasons](https://www.theverge.com/2024/3/6/24092243/netflix-avatar-the-last-airbender-season-2-renewal)
- - [CCDH: Midjourney, DreamStudio, ChatGPT Plus, and Microsoft Image Creator created election disinformation in 41% of tests; Midjourney was most likely to do so &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/240306/p22#a240306p22)<!-- TECH:END -->
+ - [Deal: The best microSD card for your phone is cheaper than ever](https://www.androidauthority.com/sandisk-ultra-microsd-card-deal-3423033/)
+ - [Epic says Apple removed its iOS developer account, hampering its app store plans, and shares a letter from Apple lawyers calling Epic &quot;verifiably untrustworthy&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240306/p24#a240306p24)
+ - [Epic says its iOS game store plans are stalled because Apple banned its developer account](https://www.theverge.com/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
