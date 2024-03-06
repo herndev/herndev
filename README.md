@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [....](http://9gag.com/gag/avQbONO)
- - ⏩ [Haters goes hate](http://9gag.com/gag/a4oME1A)
- - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
+ - 💣 [True story, true story...](http://9gag.com/gag/aWGVjAK)
+ - ⏩ [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
 
 ---
 
