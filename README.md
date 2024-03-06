@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stephen A. Smith Knows Tilted Towers Is The Fortnite Hot Spot](https://kotaku.com/fortnite-tilted-towers-stephen-a-smith-1851313069)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240303-2200&rpar;](https://news.xbox.com/en-us/2024/03/06/xbox-insider-release-notes-alpha-skip-ahead-2408-240303-2200/)
- - [Persona 3 Reload DLC will add missing PS2 bonus chapter](https://www.polygon.com/24092403/persona-3-reload-dlc-the-answer)<!-- GAME:END -->
+ - [The best action movies of the year so far](https://www.polygon.com/24091121/best-action-movies-2024-watch)
+ - [Sony Has The Final Fantasy 7 Remake Trilogy On Lock](https://kotaku.com/final-fantasy-7-remake-trilogy-playstation-exclusive-1851313313)
+ - [Persona 3 Reload Getting Much-Requested DLC, But There&#39;s A Catch](https://kotaku.com/persona-3-reload-dlc-the-answer-expansion-pass-1851313160)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
