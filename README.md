@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why the Play Store went down for some users yesterday](https://www.androidauthority.com/why-google-play-store-went-down-3422482/)
- - [Logitech’s new MX Brio is a $200 4K webcam with ‘AI-enhanced image quality’](https://www.theverge.com/2024/3/6/24091040/logitech-mx-brio-price-release-date-specs-features)
- - [The EU’s new competition rules are going live — here’s how tech giants are responding](https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes)<!-- TECH:END -->
+ - [This phone has a 23,800mAh battery, but still charges faster than the Pixel 7a](https://www.androidauthority.com/unihertz-tank-3-23800mah-battery-3422545/)
+ - [OnePlus 12 update alert: Better camera performance incoming](https://www.androidauthority.com/oneplus-12-oxygen-os-14-0-0-602-update-3422800/)
+ - [A look at the AI revolution, reminiscent of the industrial revolution but unfolding over years rather than centuries, and the views of AI optimists and doomers &lpar;Michael J. Totten/City Journal&rpar;](http://www.techmeme.com/240306/p7#a240306p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
