@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)
- - ⏩ [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
- - 👉 [Pain](http://9gag.com/gag/a2KQ709)<!-- MEMES:END -->
+ - 💣 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - ⏩ [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
 
 ---
 
