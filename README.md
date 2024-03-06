@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro won?](http://9gag.com/gag/aWGVxB4)
- - ⏩ [Wife material](http://9gag.com/gag/aVbG042)
- - 👉 [Fallout ?](http://9gag.com/gag/a8qrqdO)<!-- MEMES:END -->
+ - 💣 [Guess the country](http://9gag.com/gag/a1P4PMD)
+ - ⏩ [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
+ - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
 
 ---
 
