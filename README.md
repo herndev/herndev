@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU’s new competition rules are going live — here’s how tech giants are responding](https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes)
- - [The best Samsung Galaxy Tab A9 Plus cases to buy](https://www.androidauthority.com/best-samsung-galaxy-tab-a9-plus-cases-3422408/)
- - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)<!-- TECH:END -->
+ - [Here’s why the Play Store went down for some users yesterday](https://www.androidauthority.com/why-google-play-store-went-down-3422482/)
+ - [Logitech’s new MX Brio is a $200 4K webcam with ‘AI-enhanced image quality’](https://www.theverge.com/2024/3/6/24091040/logitech-mx-brio-price-release-date-specs-features)
+ - [The EU’s new competition rules are going live — here’s how tech giants are responding](https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
