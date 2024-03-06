@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patronus AI releases CopyrightCatcher and says GPT-4 produced copyrighted content on 44% of prompts, Mistral&#39;s Mixtral on 22%, Llama 2 10%, and Claude 2.1 8% &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p18#a240306p18)
- - [Upgrade your internet with 72% off the Google Nest Wifi system](https://www.androidauthority.com/google-nest-wifi-deal-3422772/)
- - [AI chip startup Taalas emerges from stealth, raised $50M across two rounds led by Pierre Lamond and Quiet Capita, and plans to unveil its LLM chip in Q3 2024 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240306/p17#a240306p17)<!-- TECH:END -->
+ - [Stars take you through Steve Martin&#39;s comedy career in new documentary](https://appleinsider.com/articles/24/03/06/stars-take-you-through-steve-martins-comedy-career-in-new-documentary?utm_medium=rss)
+ - [Snag Massive Savings on New Gadgets During Samsung&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/snag-massive-savings-on-new-gadgets-during-samsungs-spring-sale/#ftag=CAD590a51e)
+ - [AI Tools Are Still Generating Misleading Election Images](https://www.wired.com/story/genai-images-election-fraud/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
