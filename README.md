@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - ⏩ [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
- - 👉 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)<!-- MEMES:END -->
+ - 💣 [Hold up\ud83e\udd1a\ud83c\udffbwhat?](http://9gag.com/gag/aL1qprP)
+ - ⏩ [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - 👉 [Stay positive](http://9gag.com/gag/ap9eg2D)<!-- MEMES:END -->
 
 ---
 
