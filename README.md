@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best action movies of the year so far](https://www.polygon.com/24091121/best-action-movies-2024-watch)
- - [Sony Has The Final Fantasy 7 Remake Trilogy On Lock](https://kotaku.com/final-fantasy-7-remake-trilogy-playstation-exclusive-1851313313)
- - [Persona 3 Reload Getting Much-Requested DLC, But There&#39;s A Catch](https://kotaku.com/persona-3-reload-dlc-the-answer-expansion-pass-1851313160)<!-- GAME:END -->
+ - [Who Is The Best Hang In Unicorn Overlord? A Scientific Ranking](https://kotaku.com/unicorn-overlord-vanillaware-vibe-rankings-switch-demo-1851313835)
+ - [Sony Has The Final Fantasy 7 Remake Trilogy On Lock [Update: Or Not!]](https://kotaku.com/final-fantasy-7-remake-trilogy-playstation-exclusive-1851313313)
+ - [This iPhone controller that works natively with PS5 Remote Play is $30 off](https://www.polygon.com/deals/24092666/backbone-one-iphone-lightning-gaming-deal-amazon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
