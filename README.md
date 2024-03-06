@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - ⏩ [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
- - 👉 [NYC is not 4 beginners](http://9gag.com/gag/aWGVYM3)<!-- MEMES:END -->
+ - 💣 [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
+ - ⏩ [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
+ - 👉 [Reverse image search](http://9gag.com/gag/aBdDgGA)<!-- MEMES:END -->
 
 ---
 
