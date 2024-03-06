@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This phone has a 23,800mAh battery, but still charges faster than the Pixel 7a](https://www.androidauthority.com/unihertz-tank-3-23800mah-battery-3422545/)
- - [OnePlus 12 update alert: Better camera performance incoming](https://www.androidauthority.com/oneplus-12-oxygen-os-14-0-0-602-update-3422800/)
- - [A look at the AI revolution, reminiscent of the industrial revolution but unfolding over years rather than centuries, and the views of AI optimists and doomers &lpar;Michael J. Totten/City Journal&rpar;](http://www.techmeme.com/240306/p7#a240306p7)<!-- TECH:END -->
+ - [Headspace XR made me forget how much I hate meditation tech](https://www.theverge.com/2024/3/6/24091168/meta-quest-headspace-xr-meditation-mindfulness-vr)
+ - [Samsung users think this new Galaxy Watch 6 feature makes ‘zero sense’ and it’s hard to disagree](https://www.androidauthority.com/samsung-galaxy-watch-6-march-2024-update-3422885/)
+ - [The latest Pixel Feature Drop update removes a key battery stat for Pixels](https://www.androidauthority.com/march-2024-pixel-feature-drop-removes-battery-stat-3422865/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
