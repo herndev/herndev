@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haters goes hate](http://9gag.com/gag/a4oME1A)
- - ⏩ [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
- - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
+ - 💣 [Bro won?](http://9gag.com/gag/aWGVxB4)
+ - ⏩ [Wife material](http://9gag.com/gag/aVbG042)
+ - 👉 [Fallout ?](http://9gag.com/gag/a8qrqdO)<!-- MEMES:END -->
 
 ---
 
