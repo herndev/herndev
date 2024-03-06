@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
- - ⏩ [Haters goes hate](http://9gag.com/gag/a4oME1A)
- - 👉 [Bro won?](http://9gag.com/gag/aWGVxB4)<!-- MEMES:END -->
+ - 💣 [Did he just discharged a firearm sitting in his pants?](http://9gag.com/gag/aYVzYvw)
+ - ⏩ [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
 
 ---
 
