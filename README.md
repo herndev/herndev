@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts fear the DMA won’t change the status quo](https://www.theverge.com/2024/3/6/24091695/digital-markets-act-eu-compliance-experts)
- - [Immerse yourself in the neon streets of Tokyo manga with a new &#39;Shot on iPhone&#39; film](https://appleinsider.com/articles/24/03/06/immerse-yourself-in-the-neon-streets-of-tokyo-manga-with-a-new-shot-on-iphone-film?utm_medium=rss)
- - [JD reports Q4 revenue up 3.6% YoY to ~$42.6B, beating ~$41.7B est., after offering discounts and launches a $3B three-year stock buyback program; JD jumps 8% &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240306/p11#a240306p11)<!-- TECH:END -->
+ - [NIST staff, US officials, congressional aides, and tech executives detail a massive resource gap between NIST, tasked with keeping AI safe, and tech companies &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240306/p14#a240306p14)
+ - [Lower Refinance Rates Bring Hope to Homeowners: Today&#39;s Mortgage Refinance Rates, March 6, 2024     - CNET](https://www.cnet.com/personal-finance/todays-refinance-rates-march-6-2024-rates-tick-even-lower/#ftag=CAD590a51e)
+ - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
