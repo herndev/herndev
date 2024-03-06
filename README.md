@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stumbles big in China: iPhone sales plummet by 24%](https://www.androidauthority.com/iphone-sales-decline-3423089/)
- - [Get a PS5 Slim With Marvel&#39;s Spider-Man 2 for Just $450 Right Here, Right Now     - CNET](https://www.cnet.com/deals/get-a-ps5-slim-with-marvels-spider-man-2-for-just-450-right-here-right-now/#ftag=CAD590a51e)
- - [A 62-Year-Old German Man Got 217 Covid Shots—and Was Totally Fine](https://www.wired.com/story/man-gets-217-covid-vaccine-shots-totally-fine/)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [LinkedIn is down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)
+ - [The US DOJ says a former Google software engineer has been charged with stealing AI technology from Google while secretly working with two China-based companies &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240306/p30#a240306p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
