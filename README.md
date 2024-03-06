@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The best microSD card for your phone is cheaper than ever](https://www.androidauthority.com/sandisk-ultra-microsd-card-deal-3423033/)
- - [Epic says Apple removed its iOS developer account, hampering its app store plans, and shares a letter from Apple lawyers calling Epic &quot;verifiably untrustworthy&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240306/p24#a240306p24)
- - [Epic says its iOS game store plans are stalled because Apple banned its developer account](https://www.theverge.com/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store)<!-- TECH:END -->
+ - [Google One appears to be adding Fitbit Premium and Nest Aware as new perks](https://www.androidauthority.com/google-one-new-perks-3423044/)
+ - [MacBook Pro and MacBook Air overwhelmingly drive Apple Mac sales](https://appleinsider.com/articles/24/03/06/macbook-pro-and-macbook-air-overwhelmingly-drive-apple-mac-sales?utm_medium=rss)
+ - [Lowest price ever: Apple&#39;s M2 MacBook Air drops to $869](https://appleinsider.com/articles/24/03/06/lowest-price-ever-apples-m2-macbook-air-drops-to-869?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
