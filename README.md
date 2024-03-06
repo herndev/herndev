@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Headspace XR made me forget how much I hate meditation tech](https://www.theverge.com/2024/3/6/24091168/meta-quest-headspace-xr-meditation-mindfulness-vr)
- - [Samsung users think this new Galaxy Watch 6 feature makes ‘zero sense’ and it’s hard to disagree](https://www.androidauthority.com/samsung-galaxy-watch-6-march-2024-update-3422885/)
- - [The latest Pixel Feature Drop update removes a key battery stat for Pixels](https://www.androidauthority.com/march-2024-pixel-feature-drop-removes-battery-stat-3422865/)<!-- TECH:END -->
+ - [Experts fear the DMA won’t change the status quo](https://www.theverge.com/2024/3/6/24091695/digital-markets-act-eu-compliance-experts)
+ - [Immerse yourself in the neon streets of Tokyo manga with a new &#39;Shot on iPhone&#39; film](https://appleinsider.com/articles/24/03/06/immerse-yourself-in-the-neon-streets-of-tokyo-manga-with-a-new-shot-on-iphone-film?utm_medium=rss)
+ - [JD reports Q4 revenue up 3.6% YoY to ~$42.6B, beating ~$41.7B est., after offering discounts and launches a $3B three-year stock buyback program; JD jumps 8% &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240306/p11#a240306p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
