@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
- - ⏩ [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - 👉 [Good job, mate](http://9gag.com/gag/a9q31E1)<!-- MEMES:END -->
+ - 💣 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - ⏩ [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
 
 ---
 
