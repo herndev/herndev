@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)
- - [All the big announcements from Xbox’s March 2024 Partner Preview](https://www.polygon.com/24092248/xbox-partner-showcase-preview-2024-announcements-release-dates)
- - [Everything We Saw At Xbox’s Partner Preview Stream](https://kotaku.com/xbox-partner-preview-stream-persona-3-final-fantasy-14-1851312421)<!-- GAME:END -->
+ - [Stephen A. Smith Knows Tilted Towers Is The Fortnite Hot Spot](https://kotaku.com/fortnite-tilted-towers-stephen-a-smith-1851313069)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240303-2200&rpar;](https://news.xbox.com/en-us/2024/03/06/xbox-insider-release-notes-alpha-skip-ahead-2408-240303-2200/)
+ - [Persona 3 Reload DLC will add missing PS2 bonus chapter](https://www.polygon.com/24092403/persona-3-reload-dlc-the-answer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
