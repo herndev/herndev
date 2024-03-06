@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
- - ⏩ [Good job, mate](http://9gag.com/gag/a9q31E1)
+ - 💣 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)
+ - ⏩ [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
  - 👉 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)<!-- MEMES:END -->
 
 ---
