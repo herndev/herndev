@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - ⏩ [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
- - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
+ - 💣 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
+ - ⏩ [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - 👉 [Good job, mate](http://9gag.com/gag/a9q31E1)<!-- MEMES:END -->
 
 ---
 
