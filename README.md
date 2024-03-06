@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)
- - ⏩ [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
- - 👉 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)<!-- MEMES:END -->
+ - 💣 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
+ - ⏩ [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
+ - 👉 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)<!-- MEMES:END -->
 
 ---
 
