@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [LinkedIn is down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)
- - [The US DOJ says a former Google software engineer has been charged with stealing AI technology from Google while secretly working with two China-based companies &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240306/p30#a240306p30)<!-- TECH:END -->
+ - [Twitch details its 2024 plans, including redesigning its mobile app for the first time since 2019 to add mod tools, the ability to upload short videos, and more &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240306/p31#a240306p31)
+ - [How Google Could Make the Pixel Watch 3 the Smartwatch to Beat     - CNET](https://www.cnet.com/tech/mobile/how-google-could-make-the-pixel-watch-3-the-smartwatch-to-beat/#ftag=CAD590a51e)
+ - [LinkedIn was down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
