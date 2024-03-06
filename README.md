@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stars take you through Steve Martin&#39;s comedy career in new documentary](https://appleinsider.com/articles/24/03/06/stars-take-you-through-steve-martins-comedy-career-in-new-documentary?utm_medium=rss)
- - [Snag Massive Savings on New Gadgets During Samsung&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/snag-massive-savings-on-new-gadgets-during-samsungs-spring-sale/#ftag=CAD590a51e)
- - [AI Tools Are Still Generating Misleading Election Images](https://www.wired.com/story/genai-images-election-fraud/)<!-- TECH:END -->
+ - [Cities are sinking, and it’s making them more vulnerable to climate change](https://www.theverge.com/2024/3/6/24091541/sinking-cities-coast-sea-level-rise-nature-research)
+ - [Netflix’s Avatar: The Last Airbender has been renewed for two more seasons](https://www.theverge.com/2024/3/6/24092243/netflix-avatar-the-last-airbender-season-2-renewal)
+ - [CCDH: Midjourney, DreamStudio, ChatGPT Plus, and Microsoft Image Creator created election disinformation in 41% of tests; Midjourney was most likely to do so &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/240306/p22#a240306p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
