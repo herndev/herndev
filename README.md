@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s music label legal trouble might have legs](https://www.theverge.com/2024/3/5/24091667/twitter-music-label-legal-trouble-lawsuit-nmpa)
- - [Rufus, Amazon&#39;s AI shopping assistant currently in testing, is mostly useless, and at best is a slight upgrade on searching manually for product recommendations &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/240305/p35#a240305p35)
- - [The Pixel 8a may get a 256GB storage boost — and a price hike](https://www.theverge.com/2024/3/5/24091314/google-pixel-8a-rumor-256-gb-four-colors-price-hike)<!-- TECH:END -->
+ - [Apple says alternative app stores will stop working, and the apps installed from them will stop updating, if a user travels outside of the EU &quot;for too long&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240305/p38#a240305p38)
+ - [Microsoft invokes VCRs in motion to dismiss The New York Times’s AI lawsuit](https://www.theverge.com/2024/3/5/24091719/microsoft-new-york-times-openai-motion-dismiss-copyright-lawsuit)
+ - [Apple releases iOS 17.4 with new default browser prompts in the EU, support for third-party browser engines, transcripts for Podcasts, 118 new emojis, and more &lpar;Nil&amp;eacute;ane/MacStories&rpar;](http://www.techmeme.com/240305/p37#a240305p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
