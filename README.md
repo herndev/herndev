@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold up\ud83e\udd1a\ud83c\udffbwhat?](http://9gag.com/gag/aL1qprP)
- - ⏩ [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - 👉 [Stay positive](http://9gag.com/gag/ap9eg2D)<!-- MEMES:END -->
+ - 💣 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
+ - ⏩ [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 👉 [Bro won?](http://9gag.com/gag/aWGVxB4)<!-- MEMES:END -->
 
 ---
 
