@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In an unexpected twist, &#39;GTA 5 was quite a big inspiration&#39; for Dragon&#39;s Dogma 2 and game director Hideaki Itsuno](https://www.pcgamer.com/games/rpg/in-an-unexpected-twist-gta-5-was-quite-a-big-inspiration-for-dragons-dogma-2-and-game-director-hideaki-itsuno)
- - [Helldivers 2 dev lays out Arrowhead&#39;s strategy for buffing and nerfing the game&#39;s guns: &#39;Powerful weapons can&#39;t be too versatile, versatile weapons can&#39;t be too powerful&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-lays-out-arrowheads-strategy-for-buffing-and-nerfing-the-games-guns-powerful-weapons-cant-be-too-versatile-versatile-weapons-cant-be-too-powerful)
- - [DNA storage has been talked about for years, but how close is it to becoming a reality?](https://www.pcgamer.com/hardware/storage/dna-storage-the-future)<!-- GAME:END -->
+ - [While players are the main motive, Final Fantasy 14: Dawntrail&#39;s visual makeover is also meant help devs &#39;advance their careers&#39;, says director Yoshi-P](https://www.pcgamer.com/games/mmo/while-players-are-the-main-motive-final-fantasy-14-dawntrails-visual-makeover-is-also-meant-help-devs-advance-their-careers-says-director-yoshi-p)
+ - [Finally, You Can Buy C-3PO&#39;s Head In A Star Wars Auction](https://kotaku.com/star-wars-auction-anthony-daniels-c3po-1851311573)
+ - [GPU sales are on the up but AMD&#39;s RX 7000-series graphics cards are its least competitive in 20 years](https://www.pcgamer.com/hardware/graphics-cards/gpu-sales-are-on-the-up-but-amds-rx-7000-series-graphics-cards-are-its-worst-selling-in-over-20-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
