@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NIST staff, US officials, congressional aides, and tech executives detail a massive resource gap between NIST, tasked with keeping AI safe, and tech companies &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240306/p14#a240306p14)
- - [Lower Refinance Rates Bring Hope to Homeowners: Today&#39;s Mortgage Refinance Rates, March 6, 2024     - CNET](https://www.cnet.com/personal-finance/todays-refinance-rates-march-6-2024-rates-tick-even-lower/#ftag=CAD590a51e)
- - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)<!-- TECH:END -->
+ - [Patronus AI releases CopyrightCatcher and says GPT-4 produced copyrighted content on 44% of prompts, Mistral&#39;s Mixtral on 22%, Llama 2 10%, and Claude 2.1 8% &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p18#a240306p18)
+ - [Upgrade your internet with 72% off the Google Nest Wifi system](https://www.androidauthority.com/google-nest-wifi-deal-3422772/)
+ - [AI chip startup Taalas emerges from stealth, raised $50M across two rounds led by Pierre Lamond and Quiet Capita, and plans to unveil its LLM chip in Q3 2024 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240306/p17#a240306p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
