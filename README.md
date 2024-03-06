@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s ‘Titan Hand’ shows Epic is the gold standard for in-game events](https://www.polygon.com/24091680/fortnite-titan-hand-event-chapter-5-season-2-release)
- - [The Outlast Trials makes me sick to my stomach, but that&#39;s just because it&#39;s one of the best co-op horror games](https://www.pcgamer.com/games/horror/the-outlast-trials-makes-me-sick-to-my-stomach-but-thats-just-because-its-one-of-the-best-co-op-horror-games)
- - [Alan Wake 2&#39;s out-of-the-blue system requirements change means you no longer need an RTX card to hit its minimum spec](https://www.pcgamer.com/games/horror/alan-wake-2s-out-of-the-blue-system-requirements-change-means-you-no-longer-need-an-rtx-card-to-hit-its-minimum-spec)<!-- GAME:END -->
+ - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)
+ - [All the big announcements from Xbox’s March 2024 Partner Preview](https://www.polygon.com/24092248/xbox-partner-showcase-preview-2024-announcements-release-dates)
+ - [Everything We Saw At Xbox’s Partner Preview Stream](https://kotaku.com/xbox-partner-preview-stream-persona-3-final-fantasy-14-1851312421)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
