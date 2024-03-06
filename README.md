@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who Is The Best Hang In Unicorn Overlord? A Scientific Ranking](https://kotaku.com/unicorn-overlord-vanillaware-vibe-rankings-switch-demo-1851313835)
- - [Sony Has The Final Fantasy 7 Remake Trilogy On Lock [Update: Or Not!]](https://kotaku.com/final-fantasy-7-remake-trilogy-playstation-exclusive-1851313313)
- - [This iPhone controller that works natively with PS5 Remote Play is $30 off](https://www.polygon.com/deals/24092666/backbone-one-iphone-lightning-gaming-deal-amazon)<!-- GAME:END -->
+ - [After 21 years, Warner Bros is closing Rooster Teeth](https://www.pcgamer.com/gaming-industry/after-21-years-warner-bros-is-closing-rooster-teeth)
+ - [Helldivers 2 balancing guru explains why &#39;Don&#39;t Nerf, Only Buff&#39; is a bad idea: &#39;I believe players are scared of nerfs because it will ruin the fantasy of a weapon, ruin their fun&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-balancing-guru-explains-why-dont-nerf-only-buff-is-a-bad-idea-i-believe-players-are-scared-of-nerfs-because-it-will-ruin-the-fantasy-of-a-weapon-ruin-their-fun)
+ - [How to beat Fort Condor in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091678/fort-condor-stage-3-4-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
