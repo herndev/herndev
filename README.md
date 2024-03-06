@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
- - ⏩ [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
- - 👉 [Reverse image search](http://9gag.com/gag/aBdDgGA)<!-- MEMES:END -->
+ - 💣 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)
+ - ⏩ [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
+ - 👉 [Pain](http://9gag.com/gag/a2KQ709)<!-- MEMES:END -->
 
 ---
 
