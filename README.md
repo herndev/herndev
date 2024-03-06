@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess the country](http://9gag.com/gag/a1P4PMD)
+ - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
  - ⏩ [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
- - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
+ - 👉 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)<!-- MEMES:END -->
 
 ---
 
