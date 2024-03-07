@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
- - ⏩ [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - 👉 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)<!-- MEMES:END -->
+ - 💣 [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - ⏩ [Women](http://9gag.com/gag/aXn8LZb)
+ - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
 
 ---
 
