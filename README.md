@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Traitors producers already know what they want to change for season 3](https://www.polygon.com/24087683/traitors-season-2-3-changes-interview-producers)
- - [What time does Fortnite Chapter 5 Season 2 start?](https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time)
- - [Fortnite Season 5 Chapter 2 is going all in on Greek myths](https://www.polygon.com/24093447/fortnite-season-5-chapter-2-cinematic-tease)<!-- GAME:END -->
+ - [Helldivers 2 is getting more electric in its first new battle pass](https://www.polygon.com/24093436/helldivers-2-cutting-edge-warbond-electricity)
+ - [Where To Find All Of Final Fantasy VII Rebirth’s Weapons](https://kotaku.com/final-fantasy-7-rebirth-weapon-locations-upgrade-1851316767)
+ - [Helldivers 2&#39;s latest order sure looks like a setup for players to liberate their own mech suits… for democracy!](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-latest-order-sure-looks-like-a-setup-for-players-to-liberate-their-own-mech-suits-for-democracy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
