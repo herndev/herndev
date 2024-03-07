@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI fires back at Musk lawsuit with &#39;facts&#39; showing he &#39;told us we would fail, started a competitor, and then sued us when we started making meaningful progress&#39;](https://www.pcgamer.com/software/ai/openai-fires-back-at-musk-lawsuit-with-facts-showing-he-told-us-we-would-fail-started-a-competitor-and-then-sued-us-when-we-started-making-meaningful-progress)
- - [Warner Bros. is killing Red vs. Blue production company Rooster Teeth](https://www.polygon.com/24092726/rooster-teeth-shut-down-warner-bros)
- - [After 21 years, Warner Bros is closing Rooster Teeth](https://www.pcgamer.com/gaming-industry/after-21-years-warner-bros-is-closing-rooster-teeth)<!-- GAME:END -->
+ - [Granblue Fantasy: Relink doesn&#39;t really start until it&#39;s finished, and its incredibly generous endgame puts other RPGs to shame](https://www.pcgamer.com/games/rpg/granblue-fantasy-relink-doesnt-really-start-until-its-finished-and-its-incredibly-generous-endgame-puts-other-rpgs-to-shame)
+ - [The worst Helldivers 2 weapon has become one of the best overnight](https://www.pcgamer.com/games/third-person-shooter/the-worst-helldivers-2-weapon-has-become-one-of-the-best-overnight)
+ - [Xbox Insider Release Notes – Beta &lpar;2403.240305-2200&rpar;](https://news.xbox.com/en-us/2024/03/06/xbox-insider-release-notes-beta-2403-240305-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
