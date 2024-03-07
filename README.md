@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would you buy an iPhone instead of Android if it had EU perks like sideloading?](https://www.androidauthority.com/iphone-vs-android-sideloading-eu-3423294/)
- - [How smart home technology made my home more accessible](https://www.theverge.com/24080201/smart-home-accessibility-apple-nest-alexa)
- - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)<!-- TECH:END -->
+ - [Why people are falling in love with AI chatbots](https://www.theverge.com/24092638/ai-dating-chatbots-romance-replika-tinder-decoder)
+ - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)
+ - [Sources: after the resolution of the Sequoia-Klarna ordeal, Klarna&#39;s co-founders continue to clash on key governance decisions, like post-IPO control of Klarna &lpar;Bloomberg&rpar;](http://www.techmeme.com/240307/p22#a240307p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
