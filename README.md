@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman sexually assaults a worker](http://9gag.com/gag/aQEYXVz)
- - ⏩ [Women](http://9gag.com/gag/aXn8LZb)
- - 👉 [There is some meme potential](http://9gag.com/gag/agoRoDq)<!-- MEMES:END -->
+ - 💣 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
+ - ⏩ [When you date a girl with a dog](http://9gag.com/gag/aL1qvN5)
+ - 👉 [2 types of cute](http://9gag.com/gag/aMEpVjR)<!-- MEMES:END -->
 
 ---
 
