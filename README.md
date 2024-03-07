@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 might let you send text messages via satellite](https://www.androidauthority.com/android-15-satellite-messaging-3415689/)
- - [Rivian R2, R3, R3X: Price, Specs, Release Date](https://www.wired.com/story/rivian-r2-r3-r3x-announced/)
- - [Third-party App Stores will only work for 30 days if you leave the EU](https://appleinsider.com/articles/24/03/07/third-party-app-stores-will-only-work-for-30-days-if-you-leave-the-eu?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s where you can preorder Apple’s new M3-powered MacBook Air](https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price)
+ - [First Pixel Pass, now another brand is killing its phone subscription plan](https://www.androidauthority.com/fairphone-easy-suspended-3423515/)
+ - [Congressional offices are being flooded with calls from angry constituents following TikTok&#39;s push notification asking users to call their representatives &lpar;Axios&rpar;](http://www.techmeme.com/240307/p32#a240307p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
