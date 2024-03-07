@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)
- - ⏩ [And!](http://9gag.com/gag/aoKBg7e)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 💣 [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
+ - ⏩ [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
+ - 👉 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)<!-- MEMES:END -->
 
 ---
 
