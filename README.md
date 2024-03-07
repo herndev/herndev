@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Up to 50% Off Cameras, Bags, Lenses and more in Moment&#39;s Huge Sale     - CNET](https://www.cnet.com/deals/save-up-to-50-off-cameras-bags-lenses-and-more-in-moments-huge-sale/#ftag=CAD590a51e)
- - [Get $100 Back Instantly When You File With TurboTax Full Service     - CNET](https://www.cnet.com/deals/get-100-back-instantly-when-you-file-with-turbotax-full-service/#ftag=CAD590a51e)
- - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)<!-- TECH:END -->
+ - [Best Luxury Mattress in 2024     - CNET](https://www.cnet.com/health/sleep/best-luxury-mattress/#ftag=CAD590a51e)
+ - [Denver-based Todyl, a networking and cybersecurity startup focused on SMBs, raised a $50M Series B led by Base10 Partners, bringing its total funding to $83.8M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p30#a240307p30)
+ - [Apple isn&#39;t done with concessions in iOS to placate the European Union](https://appleinsider.com/articles/24/03/07/apple-isnt-done-with-concessions-in-ios-to-placate-the-european-union?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
