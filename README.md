@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Luxury Mattress in 2024     - CNET](https://www.cnet.com/health/sleep/best-luxury-mattress/#ftag=CAD590a51e)
- - [Denver-based Todyl, a networking and cybersecurity startup focused on SMBs, raised a $50M Series B led by Base10 Partners, bringing its total funding to $83.8M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p30#a240307p30)
- - [Apple isn&#39;t done with concessions in iOS to placate the European Union](https://appleinsider.com/articles/24/03/07/apple-isnt-done-with-concessions-in-ios-to-placate-the-european-union?utm_medium=rss)<!-- TECH:END -->
+ - [Android 15 might let you send text messages via satellite](https://www.androidauthority.com/android-15-satellite-messaging-3415689/)
+ - [Rivian R2, R3, R3X: Price, Specs, Release Date](https://www.wired.com/story/rivian-r2-r3-r3x-announced/)
+ - [Third-party App Stores will only work for 30 days if you leave the EU](https://appleinsider.com/articles/24/03/07/third-party-app-stores-will-only-work-for-30-days-if-you-leave-the-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
