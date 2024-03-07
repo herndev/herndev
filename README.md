@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Android 14 QPR3 Beta 2 for Pixel devices: Here’s what’s new](https://www.androidauthority.com/android-14-qpr3-beta-2-3423532/)
- - [New accessibility features rumored for iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/07/new-accessibility-features-rumored-for-ios-18-macos-15?utm_medium=rss)
- - [EA just added classics like Dungeon Keeper, SimCity 3000, and Populous on Steam](https://www.theverge.com/2024/3/7/24093716/ea-steam-classics-dungeon-keeper-simcity-populous)<!-- TECH:END -->
+ - [Pixel 8 left behind: Google reveals Gemini Nano won’t come to base model](https://www.androidauthority.com/pixel-8-no-gemini-nano-3423547/)
+ - [Stephen Dubner is bullish on the podcast industry](https://www.theverge.com/2024/3/7/24093805/stephen-dubner-freakonomics-on-air-fest-siriusxm-apple-spotify)
+ - [Sources: OpenAI CTO Mira Murati brought questions about Sam Altman&#39;s management to the board last year before he was ousted; a new board is expected imminently &lpar;New York Times&rpar;](http://www.techmeme.com/240307/p34#a240307p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
