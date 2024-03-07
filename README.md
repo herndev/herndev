@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
- - ⏩ [How far this shit go](http://9gag.com/gag/agoRmx6)
- - 👉 [Dark age](http://9gag.com/gag/ajV271g)<!-- MEMES:END -->
+ - 💣 [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - ⏩ [Green-haired passenger goes nuts after being asked to pay an extra fee by Frontier](http://9gag.com/gag/adP310M)
+ - 👉 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)<!-- MEMES:END -->
 
 ---
 
