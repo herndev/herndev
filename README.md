@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - ⏩ [Dark age](http://9gag.com/gag/ajV271g)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 💣 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
+ - ⏩ [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - 👉 [Dark age](http://9gag.com/gag/ajV271g)<!-- MEMES:END -->
 
 ---
 
