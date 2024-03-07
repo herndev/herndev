@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After 21 years, Warner Bros is closing Rooster Teeth](https://www.pcgamer.com/gaming-industry/after-21-years-warner-bros-is-closing-rooster-teeth)
- - [Helldivers 2 balancing guru explains why &#39;Don&#39;t Nerf, Only Buff&#39; is a bad idea: &#39;I believe players are scared of nerfs because it will ruin the fantasy of a weapon, ruin their fun&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-balancing-guru-explains-why-dont-nerf-only-buff-is-a-bad-idea-i-believe-players-are-scared-of-nerfs-because-it-will-ruin-the-fantasy-of-a-weapon-ruin-their-fun)
- - [How to beat Fort Condor in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091678/fort-condor-stage-3-4-walkthrough)<!-- GAME:END -->
+ - [OpenAI fires back at Musk lawsuit with &#39;facts&#39; showing he &#39;told us we would fail, started a competitor, and then sued us when we started making meaningful progress&#39;](https://www.pcgamer.com/software/ai/openai-fires-back-at-musk-lawsuit-with-facts-showing-he-told-us-we-would-fail-started-a-competitor-and-then-sued-us-when-we-started-making-meaningful-progress)
+ - [Warner Bros. is killing Red vs. Blue production company Rooster Teeth](https://www.polygon.com/24092726/rooster-teeth-shut-down-warner-bros)
+ - [After 21 years, Warner Bros is closing Rooster Teeth](https://www.pcgamer.com/gaming-industry/after-21-years-warner-bros-is-closing-rooster-teeth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
