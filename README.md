@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal brings Tap to Pay on iPhone support for its business users](https://appleinsider.com/articles/24/03/07/paypal-brings-tap-to-pay-on-iphone-support-for-its-business-users?utm_medium=rss)
- - [Apple is working to make it easier to switch from iPhone to Android because of the EU](https://www.theverge.com/2024/3/7/24093355/apple-digital-markets-act-compliance-android-switch-eu)
- - [TikTok sends US users a push notification saying Congress plans a total ban, with a link to find representatives, after the White House supported a TikTok bill &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240307/p28#a240307p28)<!-- TECH:END -->
+ - [Save Up to 50% Off Cameras, Bags, Lenses and more in Moment&#39;s Huge Sale     - CNET](https://www.cnet.com/deals/save-up-to-50-off-cameras-bags-lenses-and-more-in-moments-huge-sale/#ftag=CAD590a51e)
+ - [Get $100 Back Instantly When You File With TurboTax Full Service     - CNET](https://www.cnet.com/deals/get-100-back-instantly-when-you-file-with-turbotax-full-service/#ftag=CAD590a51e)
+ - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
