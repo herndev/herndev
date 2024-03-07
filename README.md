@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - ⏩ [Fake coochie](http://9gag.com/gag/aEqePro)
- - 👉 [Good job, mate](http://9gag.com/gag/a9q31E1)<!-- MEMES:END -->
+ - 💣 [Woman sexually assaults a worker](http://9gag.com/gag/aQEYXVz)
+ - ⏩ [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
+ - 👉 [How to make things worse](http://9gag.com/gag/aqevjMv)<!-- MEMES:END -->
 
 ---
 
