@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20.3-inch foldable MacBook expected in 2027](https://appleinsider.com/articles/24/03/07/203-inch-foldable-macbook-expected-in-2027?utm_medium=rss)
- - [Kuo: Apple&#39;s only foldable device with a &quot;clear development schedule&quot; is the 20.3-inch MacBook, which is expected to enter mass production in 2027 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240306/p37#a240306p37)
- - [Remofirst, which helps remote teams manage payroll, taxes, hiring-related compliance, compensation, and more, raised a $25M Series A led by Octopus Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240306/p36#a240306p36)<!-- TECH:END -->
+ - [T-Mobile speeds up your 5G: Millions to see immediate boost](https://www.androidauthority.com/t-mobile-new-5g-spectrum-3423136/)
+ - [Wacom One 13 Touch review: Way better than before, still doesn&#39;t edge out iPad](https://appleinsider.com/articles/24/03/07/wacom-one-13-touch-review-way-better-than-before-still-doesnt-edge-out-ipad?utm_medium=rss)
+ - [Source: Y Combinator CEO Garry Tan early this year talked with OpenAI directors about joining the board, but it is unclear if the board is still considering Tan &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240306/p39#a240306p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
