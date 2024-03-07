@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple&#39;s studio business: sources say the company spent $700M+ of its reported $1B+ annual 2023 spend on just three films, which earned $466M combined &lpar;Tatiana Siegel/Variety&rpar;](http://www.techmeme.com/240307/p8#a240307p8)
- - [Here’s how to turn on Instagram’s dark mode](https://www.androidauthority.com/how-to-enable-instagram-dark-mode-1169518/)
- - [An interview with LinkedIn EIC Dan Roth on investing in journalism and news, work with over 400 news publishers globally, launching a podcast network, and more &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240307/p7#a240307p7)<!-- TECH:END -->
+ - [The Google Pixel Watch 3 could have UWB for Watch Unlock](https://www.androidauthority.com/google-pixel-watch-3-uwb-watch-unlock-3422827/)
+ - [Here’s how WhatsApp and Messenger will talk to other messaging apps in Europe](https://www.androidauthority.com/whatsapp-messenger-interoperability-europe-dma-3423188/)
+ - [Spring into solar with a Bluetti portable power station, now up to $1,900 off](https://appleinsider.com/articles/24/03/07/spring-into-solar-with-a-bluetti-portable-power-station-now-up-to-1900-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
