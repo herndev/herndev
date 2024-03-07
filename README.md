@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Woman sexually assaults a worker](http://9gag.com/gag/aQEYXVz)
- - ⏩ [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
- - 👉 [How to make things worse](http://9gag.com/gag/aqevjMv)<!-- MEMES:END -->
+ - ⏩ [Women](http://9gag.com/gag/aXn8LZb)
+ - 👉 [There is some meme potential](http://9gag.com/gag/agoRoDq)<!-- MEMES:END -->
 
 ---
 
