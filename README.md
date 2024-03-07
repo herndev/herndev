@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shotgun blues](http://9gag.com/gag/a5XLV3q)
- - ⏩ [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
- - 👉 [Emergency suit](http://9gag.com/gag/aBdDyQO)<!-- MEMES:END -->
+ - 💣 [There is some meme potential](http://9gag.com/gag/agoRoDq)
+ - ⏩ [Dark age](http://9gag.com/gag/ajV271g)
+ - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
 
 ---
 
