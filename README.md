@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Target will launch unlimited rush shipping subscription to rival Amazon Prime](https://www.theverge.com/2024/3/6/24092880/target-circle-360-free-delivery-shipping-annual-plan)
- - [DCG files a motion to dismiss NY AG Letitia James&#39; lawsuit over alleged $3B investor fraud, and CEO Barry Silbert files to dismiss accusations he hid losses &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240306/p35#a240306p35)
- - [Filing: BlockFi and FTX reach a tentative agreement to settle all litigation, with BlockFi receiving claims of $185.2M against FTX and $689.3M against Alameda &lpar;Blockworks&rpar;](http://www.techmeme.com/240306/p34#a240306p34)<!-- TECH:END -->
+ - [Remofirst, which helps remote teams manage payroll, taxes, hiring-related compliance, compensation, and more, raised a $25M Series A led by Octopus Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240306/p36#a240306p36)
+ - [SpaceX allegedly fostered serial sexual abuse, according to this lawsuit](https://www.theverge.com/2024/3/6/24092721/spacex-lawsuit-sexual-bias-harassment-pay-inequity)
+ - [Target will launch unlimited rush shipping subscription to rival Amazon Prime](https://www.theverge.com/2024/3/6/24092880/target-circle-360-free-delivery-shipping-annual-plan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
