@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Shogun’s excellent TV show made me go back and play the videogame adaptations, here&#39;s how they broke me as a man](https://www.pcgamer.com/games/adventure/shoguns-excellent-tv-show-made-me-go-back-and-play-the-videogame-adaptations-heres-how-they-broke-me-as-a-man)
  - [The mid-range graphics card market heats up as AMD and Nvidia get aggressive](https://www.pcgamer.com/hardware/graphics-cards/the-mid-range-graphics-card-market-heats-up-as-amd-and-nvidia-get-aggressive)
- - [Today&#39;s Wordle answer for Thursday, March 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-7-2024)
- - [Nvidia&#39;s next gen AI superchips will reportedly consume up to 1,000W](https://www.pcgamer.com/hardware/graphics-cards/nvidias-next-gen-ai-superchips-will-reportedly-consume-up-to-1000w)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, March 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-7-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
