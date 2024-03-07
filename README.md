@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why people are falling in love with AI chatbots](https://www.theverge.com/24092638/ai-dating-chatbots-romance-replika-tinder-decoder)
- - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)
- - [Sources: after the resolution of the Sequoia-Klarna ordeal, Klarna&#39;s co-founders continue to clash on key governance decisions, like post-IPO control of Klarna &lpar;Bloomberg&rpar;](http://www.techmeme.com/240307/p22#a240307p22)<!-- TECH:END -->
+ - [Snoring at Night? Mouth Taping Is the Latest Trend for Stopping     - CNET](https://www.cnet.com/health/sleep/snoring-at-night-mouth-taping-is-the-latest-trend-for-stopping/#ftag=CAD590a51e)
+ - [Google Play Store may let you download more than one app at a time](https://www.androidauthority.com/google-play-store-simultaneous-downloads-2-3423340/)
+ - [How to watch Rivian’s R2 electric SUV reveal event](https://www.theverge.com/2024/3/7/24093324/rivian-r2-event-ev-price-livestream-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
