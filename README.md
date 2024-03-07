@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fake coochie](http://9gag.com/gag/aEqePro)
- - ⏩ [How to make things worse](http://9gag.com/gag/aqevjMv)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 💣 [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - ⏩ [Dark age](http://9gag.com/gag/ajV271g)
+ - 👉 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)<!-- MEMES:END -->
 
 ---
 
