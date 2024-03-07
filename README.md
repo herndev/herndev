@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How far this shit go](http://9gag.com/gag/agoRmx6)
- - ⏩ [Women](http://9gag.com/gag/aXn8LZb)
- - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
+ - 💣 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
+ - ⏩ [Dude bought roses to give to the elderly](http://9gag.com/gag/a5XL61E)
+ - 👉 [Sweden is an official member of NATO as of today!](http://9gag.com/gag/az26dxp)<!-- MEMES:END -->
 
 ---
 
