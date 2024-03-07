@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
- - ⏩ [Can anyone guess?](http://9gag.com/gag/aDYBYmO)
- - 👉 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)<!-- MEMES:END -->
+ - 💣 [Okie Dokie](http://9gag.com/gag/a5XLW7q)
+ - ⏩ [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 👉 [How far this shit go](http://9gag.com/gag/agoRmx6)<!-- MEMES:END -->
 
 ---
 
