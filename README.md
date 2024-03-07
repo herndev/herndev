@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research suggests that prompt engineering is best done by the LLM itself, raising suspicions that a fair portion of prompt engineering jobs may be a passing fad &lpar;Dina Genkina/IEEE Spectrum&rpar;](http://www.techmeme.com/240307/p6#a240307p6)
- - [Files by Google app gets a helpful new feature exclusive to Pixel phones](https://www.androidauthority.com/files-by-google-app-document-scanner-3423186/)
- - [Google opens a cyberdefense hub in Tokyo, its first in the Asia-Pacific region, and will invite experts in the region to study countermeasures for cyberattacks &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240307/p5#a240307p5)<!-- TECH:END -->
+ - [All the user-facing changes Google is making to Android, Search, and more in EU thanks to new rules](https://www.androidauthority.com/google-eu-digital-markets-act-changes-3423210/)
+ - [Nikon is acquiring RED cameras](https://www.theverge.com/2024/3/7/24093109/nikon-acquiring-red-cameras-film-motion-picture-tv)
+ - [SwitchBot’s robot hand to unlock your door gets a big upgrade](https://www.theverge.com/2024/3/7/24092325/switchbot-lock-pro-features-release-date-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
