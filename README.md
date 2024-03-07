@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s next gen AI superchips will reportedly consume up to 1,000W](https://www.pcgamer.com/hardware/graphics-cards/nvidias-next-gen-ai-superchips-will-reportedly-consume-up-to-1000w)
  - [Nintendo surprise dropped a Princess Peach: Showtime! demo](https://www.polygon.com/24092883/nintendo-switch-princess-peach-showtime-free-demo)
- - [While other gaming companies talk layoffs, Capcom is raising salaries](https://www.pcgamer.com/gaming-industry/while-other-gaming-companies-talk-layoffs-capcom-is-raising-salaries)
- - [Granblue Fantasy: Relink doesn&#39;t really start until it&#39;s finished, and its incredibly generous endgame puts other RPGs to shame](https://www.pcgamer.com/games/rpg/granblue-fantasy-relink-doesnt-really-start-until-its-finished-and-its-incredibly-generous-endgame-puts-other-rpgs-to-shame)<!-- GAME:END -->
+ - [While other gaming companies talk layoffs, Capcom is raising salaries](https://www.pcgamer.com/gaming-industry/while-other-gaming-companies-talk-layoffs-capcom-is-raising-salaries)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
