@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/3/7/24092173/best-movies-watch-this-weekend-best-recommendations)
- - [Tomb Raider: Underworld, the game where Crystal Dynamics really hit its stride, is now going for a dollar](https://www.pcgamer.com/games/action/tomb-raider-underworld-the-game-where-crystal-dynamics-really-hit-its-stride-is-now-going-for-a-dollar)
- - [Watch the New Trailer for Amazon’s Fallout](https://fallout.bethesda.net/en/article/42plBAC7l6yWsox0W0k7pu/fallout-show-trailer-and-fallout-xbox-design-lab-controller#new_tab)<!-- GAME:END -->
+ - [Free Play Days – Mortal Kombat 1, Moving Out 2, From Space and Ed-0: Zombie Uprising](https://news.xbox.com/en-us/2024/03/07/free-play-days-mortal-kombat-1-moving-out-2-from-space-and-ed-0-zombie-uprising/)
+ - [What can modern TCGs learn from the long-dead Dune: Collectible Card Game?](https://www.polygon.com/tabletop-games/24092287/dune-ccg-lessons-for-disney-lorcana-mtg-star-wars-unlimited)
+ - [Convai aims to put an end to basic &#39;one-line&#39; NPCs with AI but says it &#39;needs more high quality writers and artists, not less&#39; to get it done](https://www.pcgamer.com/software/ai/convai-aims-to-put-an-end-to-basic-one-line-npcs-with-ai-but-says-it-needs-more-high-quality-writers-and-artists-not-less-to-get-it-done)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
