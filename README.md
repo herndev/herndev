@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now I know what to do at escalators](http://9gag.com/gag/a8qrApe)
- - ⏩ [Fake coochie](http://9gag.com/gag/aEqePro)
- - 👉 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)<!-- MEMES:END -->
+ - 💣 [Shotgun blues](http://9gag.com/gag/a5XLV3q)
+ - ⏩ [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
+ - 👉 [Emergency suit](http://9gag.com/gag/aBdDyQO)<!-- MEMES:END -->
 
 ---
 
