@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
- - ⏩ [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
- - 👉 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)<!-- MEMES:END -->
+ - 💣 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
+ - ⏩ [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - 👉 [How to make things worse](http://9gag.com/gag/aqevjMv)<!-- MEMES:END -->
 
 ---
 
