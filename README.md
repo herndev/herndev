@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games from Microsoft Store and Game Pass Now Available on Boosteroid](https://news.xbox.com/en-us/2024/03/07/xbox-boosteroid-microsoft-store-game-pass/)
- - [The mystery meat in Dragon&#39;s Dogma 2 is actually real food, not CG: &#39;We decided to spend the same amount of money on better quality meat&#39;](https://www.pcgamer.com/games/rpg/the-mystery-meat-in-dragons-dogma-2-is-actually-real-food-not-cg-we-decided-to-spend-the-same-amount-of-money-on-better-quality-meat)
- - [EA CEO talks AI, says the usual stuff before the bong rip hits and he starts blabbing about a future where 3 billion people are creating EA’s games with it](https://www.pcgamer.com/gaming-industry/ea-ceo-talks-ai-says-the-usual-stuff-before-the-bong-rip-hits-and-he-starts-blabbing-about-a-future-where-3-billion-people-are-creating-eas-games-with-it)<!-- GAME:END -->
+ - [The Traitors producers already know what they want to change for season 3](https://www.polygon.com/24087683/traitors-season-2-3-changes-interview-producers)
+ - [What time does Fortnite Chapter 5 Season 2 start?](https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time)
+ - [Fortnite Season 5 Chapter 2 is going all in on Greek myths](https://www.polygon.com/24093447/fortnite-season-5-chapter-2-cinematic-tease)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
