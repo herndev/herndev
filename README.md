@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
- - [Sources and filings: Pornhub, Xvideos, and Stripchat challenge the EU over new DSA moderation rules; porn platforms must submit compliance plans by April 20 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240307/p19#a240307p19)
- - [After IAB appeals, the EU&#39;s highest court rules that IAB Europe&#39;s advertising model uses personal data and is therefore subject to GDPR &lpar;Cynthia Kroet/Euronews&rpar;](http://www.techmeme.com/240307/p18#a240307p18)<!-- TECH:END -->
+ - [Would you buy an iPhone instead of Android if it had EU perks like sideloading?](https://www.androidauthority.com/iphone-vs-android-sideloading-eu-3423294/)
+ - [How smart home technology made my home more accessible](https://www.theverge.com/24080201/smart-home-accessibility-apple-nest-alexa)
+ - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
