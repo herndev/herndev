@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Mortal Kombat 1, Moving Out 2, From Space and Ed-0: Zombie Uprising](https://news.xbox.com/en-us/2024/03/07/free-play-days-mortal-kombat-1-moving-out-2-from-space-and-ed-0-zombie-uprising/)
- - [What can modern TCGs learn from the long-dead Dune: Collectible Card Game?](https://www.polygon.com/tabletop-games/24092287/dune-ccg-lessons-for-disney-lorcana-mtg-star-wars-unlimited)
- - [Convai aims to put an end to basic &#39;one-line&#39; NPCs with AI but says it &#39;needs more high quality writers and artists, not less&#39; to get it done](https://www.pcgamer.com/software/ai/convai-aims-to-put-an-end-to-basic-one-line-npcs-with-ai-but-says-it-needs-more-high-quality-writers-and-artists-not-less-to-get-it-done)<!-- GAME:END -->
+ - [Xbox Games from Microsoft Store and Game Pass Now Available on Boosteroid](https://news.xbox.com/en-us/2024/03/07/xbox-boosteroid-microsoft-store-game-pass/)
+ - [The mystery meat in Dragon&#39;s Dogma 2 is actually real food, not CG: &#39;We decided to spend the same amount of money on better quality meat&#39;](https://www.pcgamer.com/games/rpg/the-mystery-meat-in-dragons-dogma-2-is-actually-real-food-not-cg-we-decided-to-spend-the-same-amount-of-money-on-better-quality-meat)
+ - [EA CEO talks AI, says the usual stuff before the bong rip hits and he starts blabbing about a future where 3 billion people are creating EA’s games with it](https://www.pcgamer.com/gaming-industry/ea-ceo-talks-ai-says-the-usual-stuff-before-the-bong-rip-hits-and-he-starts-blabbing-about-a-future-where-3-billion-people-are-creating-eas-games-with-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
