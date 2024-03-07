@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces a New Era of Work event on March 21 at 9am PT, where updates to Windows 11, Copilot and Surface Pro and Laptop are expected &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240307/p14#a240307p14)
- - [As the EU&#39;s DMA takes effect, sources say the Biden administration, which sent two letters protesting the DMA, stopped short of pushing the issue with the EU &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240307/p13#a240307p13)
- - [Spotify plans to raise its prices in France due to a new tax law that adds a 1.2% tax on streaming companies&#39; revenue to help finance local music creation &lpar;Reuters&rpar;](http://www.techmeme.com/240307/p12#a240307p12)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
+ - [Sources and filings: Pornhub, Xvideos, and Stripchat challenge the EU over new DSA moderation rules; porn platforms must submit compliance plans by April 20 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240307/p19#a240307p19)
+ - [After IAB appeals, the EU&#39;s highest court rules that IAB Europe&#39;s advertising model uses personal data and is therefore subject to GDPR &lpar;Cynthia Kroet/Euronews&rpar;](http://www.techmeme.com/240307/p18#a240307p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
