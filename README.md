@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 is getting more electric in its first new battle pass](https://www.polygon.com/24093436/helldivers-2-cutting-edge-warbond-electricity)
- - [Where To Find All Of Final Fantasy VII Rebirth’s Weapons](https://kotaku.com/final-fantasy-7-rebirth-weapon-locations-upgrade-1851316767)
- - [Helldivers 2&#39;s latest order sure looks like a setup for players to liberate their own mech suits… for democracy!](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-latest-order-sure-looks-like-a-setup-for-players-to-liberate-their-own-mech-suits-for-democracy)<!-- GAME:END -->
+ - [Ambitious indie RPG Unforetold: Witchstone is halting development and laying off staff](https://www.pcgamer.com/games/rpg/ambitious-indie-rpg-unforetold-witchstone-is-halting-development-and-laying-off-staff)
+ - [Everything We Learned From The Latest Fallout Trailer](https://kotaku.com/fallout-amazon-show-trailer-breakdown-1851316282)
+ - [Helldivers 2 boss apologizes for &#39;horrible&#39; dev comments, says Arrowhead has &#39;taken action internally to educate our developers&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-boss-apologizes-for-horrible-dev-comments-says-arrowhead-has-taken-action-internally-to-educate-our-developers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
