@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The mid-range graphics card market heats up as AMD and Nvidia get aggressive](https://www.pcgamer.com/hardware/graphics-cards/the-mid-range-graphics-card-market-heats-up-as-amd-and-nvidia-get-aggressive)
  - [Today&#39;s Wordle answer for Thursday, March 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-7-2024)
- - [Nvidia&#39;s next gen AI superchips will reportedly consume up to 1,000W](https://www.pcgamer.com/hardware/graphics-cards/nvidias-next-gen-ai-superchips-will-reportedly-consume-up-to-1000w)
- - [Nintendo surprise dropped a Princess Peach: Showtime! demo](https://www.polygon.com/24092883/nintendo-switch-princess-peach-showtime-free-demo)<!-- GAME:END -->
+ - [Nvidia&#39;s next gen AI superchips will reportedly consume up to 1,000W](https://www.pcgamer.com/hardware/graphics-cards/nvidias-next-gen-ai-superchips-will-reportedly-consume-up-to-1000w)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
