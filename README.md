@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 new Warbond launches March 14, first look at new weapons, armor, and more](https://blog.playstation.com/2024/03/07/helldivers-2-new-warbond-launches-march-14-first-look-at-new-weapons-armor-and-more/)
- - [Persona 3 Reload is getting the DLC it needs, but not the one it deserves](https://www.pcgamer.com/games/rpg/persona-3-reload-is-getting-the-dlc-it-needs-but-not-the-one-it-deserves)
- - [Mojang finally adds more than one type of dog to Minecraft, after over a decade of players struggling to tell their wolves apart](https://www.pcgamer.com/games/survival-crafting/minecraft-finally-adds-more-than-one-type-of-dog-to-minecraft-after-over-a-decade-of-players-struggling-to-tell-their-wolves-apart)<!-- GAME:END -->
+ - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/3/7/24092173/best-movies-watch-this-weekend-best-recommendations)
+ - [Tomb Raider: Underworld, the game where Crystal Dynamics really hit its stride, is now going for a dollar](https://www.pcgamer.com/games/action/tomb-raider-underworld-the-game-where-crystal-dynamics-really-hit-its-stride-is-now-going-for-a-dollar)
+ - [Watch the New Trailer for Amazon’s Fallout](https://fallout.bethesda.net/en/article/42plBAC7l6yWsox0W0k7pu/fallout-show-trailer-and-fallout-xbox-design-lab-controller#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
