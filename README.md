@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel Watch 3 could have UWB for Watch Unlock](https://www.androidauthority.com/google-pixel-watch-3-uwb-watch-unlock-3422827/)
- - [Here’s how WhatsApp and Messenger will talk to other messaging apps in Europe](https://www.androidauthority.com/whatsapp-messenger-interoperability-europe-dma-3423188/)
- - [Spring into solar with a Bluetti portable power station, now up to $1,900 off](https://appleinsider.com/articles/24/03/07/spring-into-solar-with-a-bluetti-portable-power-station-now-up-to-1900-off?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft announces a New Era of Work event on March 21 at 9am PT, where updates to Windows 11, Copilot and Surface Pro and Laptop are expected &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240307/p14#a240307p14)
+ - [As the EU&#39;s DMA takes effect, sources say the Biden administration, which sent two letters protesting the DMA, stopped short of pushing the issue with the EU &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240307/p13#a240307p13)
+ - [Spotify plans to raise its prices in France due to a new tax law that adds a 1.2% tax on streaming companies&#39; revenue to help finance local music creation &lpar;Reuters&rpar;](http://www.techmeme.com/240307/p12#a240307p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
