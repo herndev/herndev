@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
- - ⏩ [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
- - 👉 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)<!-- MEMES:END -->
+ - ⏩ [Can anyone guess?](http://9gag.com/gag/aDYBYmO)
+ - 👉 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)<!-- MEMES:END -->
 
 ---
 
