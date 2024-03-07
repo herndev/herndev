@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile speeds up your 5G: Millions to see immediate boost](https://www.androidauthority.com/t-mobile-new-5g-spectrum-3423136/)
- - [Wacom One 13 Touch review: Way better than before, still doesn&#39;t edge out iPad](https://appleinsider.com/articles/24/03/07/wacom-one-13-touch-review-way-better-than-before-still-doesnt-edge-out-ipad?utm_medium=rss)
- - [Source: Y Combinator CEO Garry Tan early this year talked with OpenAI directors about joining the board, but it is unclear if the board is still considering Tan &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240306/p39#a240306p39)<!-- TECH:END -->
+ - [Paris-based Zama, an open-source cryptography startup developing fully homomorphic encryption technology for blockchain and AI apps, raised a $73M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p1#a240307p1)
+ - [Fast Pair is rolling out widely to more Google TV devices](https://www.androidauthority.com/google-tv-fast-pair-android-tv-rollout-3423171/)
+ - [Best Gel Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
