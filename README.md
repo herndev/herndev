@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shogun’s excellent TV show made me go back and play the videogame adaptations, here&#39;s how they broke me as a man](https://www.pcgamer.com/games/adventure/shoguns-excellent-tv-show-made-me-go-back-and-play-the-videogame-adaptations-heres-how-they-broke-me-as-a-man)
- - [The mid-range graphics card market heats up as AMD and Nvidia get aggressive](https://www.pcgamer.com/hardware/graphics-cards/the-mid-range-graphics-card-market-heats-up-as-amd-and-nvidia-get-aggressive)
- - [Today&#39;s Wordle answer for Thursday, March 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-7-2024)<!-- GAME:END -->
+ - [Persona 3 Reload is getting the DLC it needs, but not the one it deserves](https://www.pcgamer.com/games/rpg/persona-3-reload-is-getting-the-dlc-it-needs-but-not-the-one-it-deserves)
+ - [Mojang finally adds more than one type of dog to Minecraft, after over a decade of players struggling to tell their wolves apart](https://www.pcgamer.com/games/survival-crafting/minecraft-finally-adds-more-than-one-type-of-dog-to-minecraft-after-over-a-decade-of-players-struggling-to-tell-their-wolves-apart)
+ - [TikTok is becoming swamped with AI-generated conspiracy theory content thanks to a new financial incentive program for creators](https://www.pcgamer.com/software/ai/tiktok-is-becoming-swamped-with-ai-generated-conspiracy-theory-content-thanks-to-a-new-financial-incentive-program-for-creators)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
