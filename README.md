@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
- - ⏩ [When you date a girl with a dog](http://9gag.com/gag/aL1qvN5)
- - 👉 [2 types of cute](http://9gag.com/gag/aMEpVjR)<!-- MEMES:END -->
+ - 💣 [Fake coochie](http://9gag.com/gag/aEqePro)
+ - ⏩ [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
 
 ---
 
