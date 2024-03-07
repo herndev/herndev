@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook says it&#39;s working on an AI system for its video recommendations across its entire ecosystem, and tests have led to an 8%-10% gain in Reels watch time &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240306/p32#a240306p32)
- - [Google engineer indicted over allegedly stealing AI trade secrets for China](https://www.theverge.com/2024/3/6/24092750/google-engineer-indictment-ai-trade-secrets-china-doj)
- - [Apple sat at a crossroads of indecision that led to Project Titan&#39;s slow death](https://appleinsider.com/articles/24/03/06/apple-sat-at-a-crossroads-of-indecision-that-led-to-project-titans-slow-death?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: BlockFi and FTX reach a tentative agreement to settle all litigation, with BlockFi receiving claims of $185.2M against FTX and $689.3M against Alameda &lpar;Blockworks&rpar;](http://www.techmeme.com/240306/p34#a240306p34)
+ - [Best 5G Phones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
+ - [How Google Could Make the Pixel Watch 3 the Smartwatch to Beat     - CNET](https://www.cnet.com/tech/mobile/how-google-could-make-the-pixel-watch-3-the-smartwatch-to-beat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
