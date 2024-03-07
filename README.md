@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to make things worse](http://9gag.com/gag/aqevjMv)
- - ⏩ [Dark age](http://9gag.com/gag/ajV271g)
- - 👉 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)<!-- MEMES:END -->
+ - 💣 [Now I know what to do at escalators](http://9gag.com/gag/a8qrApe)
+ - ⏩ [Fake coochie](http://9gag.com/gag/aEqePro)
+ - 👉 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)<!-- MEMES:END -->
 
 ---
 
