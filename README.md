@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2 update mistakenly includes dev-only menu, leaking possible DLC](https://www.polygon.com/24093571/spider-man-2-update-debug-menu-insomniac-games)
- - [Classic EA titles, including the Command &amp; Conquer Ultimate Collection, are now available on Steam](https://www.polygon.com/deals/2024/3/7/24093601/ea-games-steam-command-and-conquer-alpha-centauri-deal)
- - [An interview with award-winning board game designer Eric Lang on his next game, Life in Reterra](https://www.polygon.com/tabletop-games/24091734/life-in-reterra-eric-lang-interview)<!-- GAME:END -->
+ - [Now we know why those four Command and Conquer games got a price slash: EA just dropped a bundle of old-time classics on Steam, including virtually every C&amp;C game ever made](https://www.pcgamer.com/games/now-we-know-why-those-four-command-and-conquer-games-got-a-price-slash-ea-just-dropped-a-bundle-of-old-time-classics-on-steam-including-virtually-candc-game-ever-made)
+ - [Xbox Insider Release Notes – Omega &lpar;2403.240306-1700&rpar;](https://news.xbox.com/en-us/2024/03/07/xbox-insider-release-notes-omega-2403-240306-1700/)
+ - [Xbox Insider Release Notes – Delta &lpar;2403.240306-1700&rpar;](https://news.xbox.com/en-us/2024/03/07/xbox-insider-release-notes-delta-2403-240306-1700/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
