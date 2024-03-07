@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: BlockFi and FTX reach a tentative agreement to settle all litigation, with BlockFi receiving claims of $185.2M against FTX and $689.3M against Alameda &lpar;Blockworks&rpar;](http://www.techmeme.com/240306/p34#a240306p34)
- - [Best 5G Phones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
- - [How Google Could Make the Pixel Watch 3 the Smartwatch to Beat     - CNET](https://www.cnet.com/tech/mobile/how-google-could-make-the-pixel-watch-3-the-smartwatch-to-beat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Target will launch unlimited rush shipping subscription to rival Amazon Prime](https://www.theverge.com/2024/3/6/24092880/target-circle-360-free-delivery-shipping-annual-plan)
+ - [DCG files a motion to dismiss NY AG Letitia James&#39; lawsuit over alleged $3B investor fraud, and CEO Barry Silbert files to dismiss accusations he hid losses &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240306/p35#a240306p35)
+ - [Filing: BlockFi and FTX reach a tentative agreement to settle all litigation, with BlockFi receiving claims of $185.2M against FTX and $689.3M against Alameda &lpar;Blockworks&rpar;](http://www.techmeme.com/240306/p34#a240306p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
