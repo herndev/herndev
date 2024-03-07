@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - ⏩ [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - 💣 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - ⏩ [How far this shit go](http://9gag.com/gag/agoRmx6)
  - 👉 [How to make things worse](http://9gag.com/gag/aqevjMv)<!-- MEMES:END -->
 
 ---
