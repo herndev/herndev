@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s new Titan Hand event has spawned all sorts of theories](https://www.polygon.com/24093581/fortnite-leaks-new-titan-hand-event-fan-theory-chapter-5-season-2)
- - [How To Make The Most Of New Game Plus In FF7 Rebirth](https://kotaku.com/how-to-make-the-most-of-new-game-plus-in-ff7-rebirth-1851317493)
- - [Fortnite Chapter 5 Season 2 is going all in on Greek myths](https://www.polygon.com/24093447/fortnite-chapter-5-season-2-cinematic-tease)<!-- GAME:END -->
+ - [Spider-Man 2 update mistakenly includes dev-only menu, leaking possible DLC](https://www.polygon.com/24093571/spider-man-2-update-debug-menu-insomniac-games)
+ - [Classic EA titles, including the Command &amp; Conquer Ultimate Collection, are now available on Steam](https://www.polygon.com/deals/2024/3/7/24093601/ea-games-steam-command-and-conquer-alpha-centauri-deal)
+ - [An interview with award-winning board game designer Eric Lang on his next game, Life in Reterra](https://www.polygon.com/tabletop-games/24091734/life-in-reterra-eric-lang-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
