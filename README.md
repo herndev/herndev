@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Granblue Fantasy: Relink doesn&#39;t really start until it&#39;s finished, and its incredibly generous endgame puts other RPGs to shame](https://www.pcgamer.com/games/rpg/granblue-fantasy-relink-doesnt-really-start-until-its-finished-and-its-incredibly-generous-endgame-puts-other-rpgs-to-shame)
- - [The worst Helldivers 2 weapon has become one of the best overnight](https://www.pcgamer.com/games/third-person-shooter/the-worst-helldivers-2-weapon-has-become-one-of-the-best-overnight)
- - [Xbox Insider Release Notes – Beta &lpar;2403.240305-2200&rpar;](https://news.xbox.com/en-us/2024/03/06/xbox-insider-release-notes-beta-2403-240305-2200/)<!-- GAME:END -->
+ - [Nintendo surprise dropped a Princess Peach: Showtime! demo](https://www.polygon.com/24092883/nintendo-switch-princess-peach-showtime-free-demo)
+ - [While other gaming companies talk layoffs, Capcom is raising salaries](https://www.pcgamer.com/gaming-industry/while-other-gaming-companies-talk-layoffs-capcom-is-raising-salaries)
+ - [Granblue Fantasy: Relink doesn&#39;t really start until it&#39;s finished, and its incredibly generous endgame puts other RPGs to shame](https://www.pcgamer.com/games/rpg/granblue-fantasy-relink-doesnt-really-start-until-its-finished-and-its-incredibly-generous-endgame-puts-other-rpgs-to-shame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
