@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ambitious indie RPG Unforetold: Witchstone is halting development and laying off staff](https://www.pcgamer.com/games/rpg/ambitious-indie-rpg-unforetold-witchstone-is-halting-development-and-laying-off-staff)
- - [Everything We Learned From The Latest Fallout Trailer](https://kotaku.com/fallout-amazon-show-trailer-breakdown-1851316282)
- - [Helldivers 2 boss apologizes for &#39;horrible&#39; dev comments, says Arrowhead has &#39;taken action internally to educate our developers&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-boss-apologizes-for-horrible-dev-comments-says-arrowhead-has-taken-action-internally-to-educate-our-developers)<!-- GAME:END -->
+ - [Fortnite’s new Titan Hand event has spawned all sorts of theories](https://www.polygon.com/24093581/fortnite-leaks-new-titan-hand-event-fan-theory-chapter-5-season-2)
+ - [How To Make The Most Of New Game Plus In FF7 Rebirth](https://kotaku.com/how-to-make-the-most-of-new-game-plus-in-ff7-rebirth-1851317493)
+ - [Fortnite Chapter 5 Season 2 is going all in on Greek myths](https://www.polygon.com/24093447/fortnite-chapter-5-season-2-cinematic-tease)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
