@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the user-facing changes Google is making to Android, Search, and more in EU thanks to new rules](https://www.androidauthority.com/google-eu-digital-markets-act-changes-3423210/)
- - [Nikon is acquiring RED cameras](https://www.theverge.com/2024/3/7/24093109/nikon-acquiring-red-cameras-film-motion-picture-tv)
- - [SwitchBot’s robot hand to unlock your door gets a big upgrade](https://www.theverge.com/2024/3/7/24092325/switchbot-lock-pro-features-release-date-price-specs)<!-- TECH:END -->
+ - [A look at Apple&#39;s studio business: sources say the company spent $700M+ of its reported $1B+ annual 2023 spend on just three films, which earned $466M combined &lpar;Tatiana Siegel/Variety&rpar;](http://www.techmeme.com/240307/p8#a240307p8)
+ - [Here’s how to turn on Instagram’s dark mode](https://www.androidauthority.com/how-to-enable-instagram-dark-mode-1169518/)
+ - [An interview with LinkedIn EIC Dan Roth on investing in journalism and news, work with over 400 news publishers globally, launching a podcast network, and more &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240307/p7#a240307p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
