@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, March 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-7-2024)
  - [Nvidia&#39;s next gen AI superchips will reportedly consume up to 1,000W](https://www.pcgamer.com/hardware/graphics-cards/nvidias-next-gen-ai-superchips-will-reportedly-consume-up-to-1000w)
- - [Nintendo surprise dropped a Princess Peach: Showtime! demo](https://www.polygon.com/24092883/nintendo-switch-princess-peach-showtime-free-demo)
- - [While other gaming companies talk layoffs, Capcom is raising salaries](https://www.pcgamer.com/gaming-industry/while-other-gaming-companies-talk-layoffs-capcom-is-raising-salaries)<!-- GAME:END -->
+ - [Nintendo surprise dropped a Princess Peach: Showtime! demo](https://www.polygon.com/24092883/nintendo-switch-princess-peach-showtime-free-demo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
