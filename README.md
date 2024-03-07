@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Okie Dokie](http://9gag.com/gag/a5XLW7q)
- - ⏩ [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 👉 [How far this shit go](http://9gag.com/gag/agoRmx6)<!-- MEMES:END -->
+ - 💣 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - ⏩ [Fake coochie](http://9gag.com/gag/aEqePro)
+ - 👉 [Good job, mate](http://9gag.com/gag/a9q31E1)<!-- MEMES:END -->
 
 ---
 
