@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Chinese online stores, sellers wear masks with black faces to add authenticity to streams of fake Air Jordans being sold.](http://9gag.com/gag/aQEYEbz)
+ - 💣 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)
  - ⏩ [And!](http://9gag.com/gag/aoKBg7e)
  - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
 
