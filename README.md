@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Be warned: Android 14 QPR3 Beta 2 is soft-bricking Pixel phones](https://www.androidauthority.com/android-14-qpr-3-beta-2-soft-bricking-pixels-3423579/)
  - [Denver-based Maybell Quantum, which is developing systems to make quantum tech more reliable, scalable, and accessible, raised a $25M Series A &lpar;Cassidy Ritter/Denver Business Journal&rpar;](http://www.techmeme.com/240307/p43#a240307p43)
- - [India approves a ~$1.25B investment in AI projects over five years, including for optimizing compute infrastructure, LLM development, and education in AI &lpar;The Economic Times&rpar;](http://www.techmeme.com/240307/p42#a240307p42)
- - [How to take a full-page screenshot on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-take-a-full-page-screenshot-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [India approves a ~$1.25B investment in AI projects over five years, including for optimizing compute infrastructure, LLM development, and education in AI &lpar;The Economic Times&rpar;](http://www.techmeme.com/240307/p42#a240307p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
