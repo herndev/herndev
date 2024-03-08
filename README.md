@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
- - ⏩ [Counting calories](http://9gag.com/gag/a9q3z5K)
- - 👉 [Right in the pronouns](http://9gag.com/gag/aXn8LBD)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/aXn8LZb)
+ - ⏩ [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
+ - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
 
 ---
 
