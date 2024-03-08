@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now we know why those four Command and Conquer games got a price slash: EA just dropped a bundle of old-time classics on Steam, including virtually every C&amp;C game ever made](https://www.pcgamer.com/games/now-we-know-why-those-four-command-and-conquer-games-got-a-price-slash-ea-just-dropped-a-bundle-of-old-time-classics-on-steam-including-virtually-candc-game-ever-made)
- - [Xbox Insider Release Notes – Omega &lpar;2403.240306-1700&rpar;](https://news.xbox.com/en-us/2024/03/07/xbox-insider-release-notes-omega-2403-240306-1700/)
- - [Xbox Insider Release Notes – Delta &lpar;2403.240306-1700&rpar;](https://news.xbox.com/en-us/2024/03/07/xbox-insider-release-notes-delta-2403-240306-1700/)<!-- GAME:END -->
+ - [Imaginary is a mess of a horror movie, and not in the fun way](https://www.polygon.com/reviews/24093592/imaginary-review-horror-movie-blumhouse-teddy-bear-chauncey)
+ - [How to start New Game Plus in Spider-Man 2 for PS5](https://www.polygon.com/spider-man-2-guides/23931803/new-game-plus)
+ - [GTA Online update for the week of March 7](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
