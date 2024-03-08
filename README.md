@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can&#39;t be the only person to have noticed this. What is it caused by?](http://9gag.com/gag/a6qW56b)
- - ⏩ [Women](http://9gag.com/gag/aXn8LZb)
- - 👉 [Recycling factory turning shopping bags into chairs](http://9gag.com/gag/amADmGv)<!-- MEMES:END -->
+ - 💣 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
+ - ⏩ [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 👉 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)<!-- MEMES:END -->
 
 ---
 
