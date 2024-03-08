@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to “Green Hell”: Adding the Legendary Nordschleife to Forza Motorsport](https://news.xbox.com/en-us/2024/03/08/forza-motorsport-nordschleife-making-of/)
- - [The Accountant is getting a sequel, which is a great excuse to watch The Accountant](https://www.polygon.com/24093827/accountant-sequel-movie-release-date-action-ben-affleck-watch)
- - [All Treasure Trove collectable trophies and chest reward in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24086754/treasure-trove-collectables-trophies-list-how-to-get)<!-- GAME:END -->
+ - [Chasing the Unseen is a delightfully strange and meditative take on Shadow of the Colossus, where the giant beasties can&#39;t hurt you and your mission is to climb](https://www.pcgamer.com/games/adventure/chasing-the-unseen-is-a-delightfully-strange-and-meditative-take-on-shadow-of-the-colossus-where-the-giant-beasties-cant-hurt-you-and-your-mission-is-to-climb)
+ - [Researchers have developed yet another way to fool AI chatbots, this time with a good old-fashioned dose of ASCII art](https://www.pcgamer.com/hardware/researchers-have-developed-yet-another-way-to-fool-ai-chatbots-this-time-with-a-good-old-fashioned-dose-of-ascii-art)
+ - [Rockstar Finally Lets GTA Online Players Drive The Train, 11 Years Later](https://kotaku.com/gta-online-drive-train-new-mission-heist-raid-update-1851320169)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
