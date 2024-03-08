@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok&#39;s US popularity is not just a national security issue but also highlights the failure of the US tech industry to come up with an equally addictive app &lpar;Karishma Vaswani/Bloomberg&rpar;](http://www.techmeme.com/240308/p10#a240308p10)
- - [The woes of a blundering first-time smart home owner](https://www.theverge.com/24062531/first-time-smart-home-nest-thermostat-govee)
- - [Apple&#39;s eighth Shanghai Apple Store is coming soon](https://appleinsider.com/articles/24/03/08/apples-eighth-shanghai-apple-store-is-coming-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft says Russian state-sponsored Midnight Blizzard gained access to some of its source code repositories and internal systems following the January hack &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240308/p11#a240308p11)
+ - [Rivian has already received 68,000 reservations for the R2](https://www.theverge.com/2024/3/8/24094270/rivian-r2-reservation-number-price-refund)
+ - [Microsoft says Russian hackers stole source code after spying on its executives](https://www.theverge.com/2024/3/8/24094287/microsoft-hack-russian-security-attack-stolen-source-code)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
