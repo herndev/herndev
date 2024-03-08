@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
- - ⏩ [Women](http://9gag.com/gag/aXn8LZb)
- - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
+ - 💣 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
+ - ⏩ [Counting calories](http://9gag.com/gag/a9q3z5K)
+ - 👉 [Right in the pronouns](http://9gag.com/gag/aXn8LBD)<!-- MEMES:END -->
 
 ---
 
