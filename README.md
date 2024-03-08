@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [For some Helldivers 2 players, the fascist role-play has gone too far](https://www.polygon.com/24093674/helldivers-2-discord-meta-role-play-fandom-joel)
- - [Every RPG should pre-release a free character creator like Dragon’s Dogma 2 has](https://www.polygon.com/24094215/dragons-dogma-2-free-character-creator-demo)
- - [You can now install PC Gamer—okay fine, any website I suppose—as an app on your desktop with the latest Chrome Canary build](https://www.pcgamer.com/hardware/you-can-now-install-pc-gamerokay-fine-any-website-i-supposeas-an-app-on-your-desktop-with-the-latest-chrome-canary-build)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 11 to 15](https://news.xbox.com/en-us/2024/03/08/next-week-on-xbox-new-games-for-march-11-to-15/)
+ - [Star Wars: Unlimited can make you a deck builder overnight](https://www.polygon.com/reviews/24086008/star-wars-unlimited-tcg-review)
+ - [What time does Fortnite downtime end and Chapter 5 Season 2 start?](https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
