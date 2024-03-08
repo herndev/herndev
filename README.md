@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adding NVMe storage to your Raspberry Pi 5: What you should know](https://www.androidauthority.com/add-nvme-raspberry-pi-5-3423234/)
- - [Sources: China is in the process of raising $27B+ for its largest chip fund ever to counter US curbs, with most of the capital expected from local governments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p6#a240308p6)
- - [OnePlus 12 vs Google Pixel 8: Which affordable flagship should you buy?](https://www.androidauthority.com/oneplus-12-vs-google-pixel-8-3391483/)<!-- TECH:END -->
+ - [Georgia&#39;s largest healthcare system switches to the Mac](https://appleinsider.com/articles/24/03/08/georgias-largest-healthcare-system-switches-to-the-mac?utm_medium=rss)
+ - [Do you regret buying the vanilla Pixel 8?](https://www.androidauthority.com/regret-buying-pixel-8-gemini-nano-3423667/)
+ - [Trump comes out in support of TikTok, saying a ban will help &quot;Facebook and Zuckerschmuck&quot; double their business and Facebook is the &quot;true enemy of the people&quot; &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240308/p8#a240308p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
