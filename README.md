@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 left behind: Google reveals Gemini Nano won’t come to base model](https://www.androidauthority.com/pixel-8-no-gemini-nano-3423547/)
- - [Stephen Dubner is bullish on the podcast industry](https://www.theverge.com/2024/3/7/24093805/stephen-dubner-freakonomics-on-air-fest-siriusxm-apple-spotify)
- - [Sources: OpenAI CTO Mira Murati brought questions about Sam Altman&#39;s management to the board last year before he was ousted; a new board is expected imminently &lpar;New York Times&rpar;](http://www.techmeme.com/240307/p34#a240307p34)<!-- TECH:END -->
+ - [Tel Aviv-based Sweet Security, which offers cloud runtime security tools, raised a $33M Series A, after emerging from stealth with a $12M seed in August 2023 &lpar;Kevin Townsend/SecurityWeek&rpar;](http://www.techmeme.com/240307/p35#a240307p35)
+ - [SpaceX Starship Mission 3: How to Watch the March 14 Launch     - CNET](https://www.cnet.com/science/space/spacex-starship-mission-3-how-to-watch-the-march-14-launch/#ftag=CAD590a51e)
+ - [Pixel 8 left behind: Google reveals Gemini Nano won’t come to base model](https://www.androidauthority.com/pixel-8-no-gemini-nano-3423547/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
