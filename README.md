@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thousands of players gather online in Final Fantasy 14, Dragon Quest 10 and more to mourn legendary artist Akira Toriyama](https://www.pcgamer.com/games/mmo/thousands-of-players-gather-online-in-final-fantasy-14-dragon-quest-10-and-more-to-mourn-legendary-artist-akira-toriyama)
- - [When does Fortnite downtime end and Chapter 5 Season 2 start?](https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time)
- - [Nintendo Won&#39;t Tell Anybody Who Developed Its New Princess Peach Game](https://kotaku.com/nintendo-princess-peach-showtime-developer-good-feel-1851321374)<!-- GAME:END -->
+ - [Grab These PlayStation-Exclusive Action Games On Sale Right Now](https://kotaku.com/playstation-sale-action-uncharted-spiderman-1851321625)
+ - [EA Adds Classic Games To Steam Including Delisted Favorite](https://kotaku.com/ea-classic-pc-games-steam-delisted-the-sabetour-simcity-1851321461)
+ - [Fortnite remains offline as Epic struggles with unexpected issues: &#39;This stuff is tricky!&#39; Tim Sweeney says](https://www.pcgamer.com/games/battle-royale/fortnite-remains-offline-as-epic-struggles-with-unexpected-issues-this-stuff-is-tricky-tim-sweeney-says)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
