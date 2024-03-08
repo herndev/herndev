@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Apple Switcher ad star Ellen Feiss is doing now](https://appleinsider.com/articles/24/03/08/what-apple-switcher-ad-star-ellen-feiss-is-doing-now?utm_medium=rss)
- - [Rivian’s CEO talks R2 and R3 launch, and why he has ‘complete certainty’ EVs will win](https://www.theverge.com/24094259/rivian-r2-r3-r3x-ceo-interview-price-production-future)
- - [Weird Roku Alert? Here&#39;s How to Say No to New Terms     - CNET](https://www.cnet.com/tech/services-and-software/weird-roku-alert-heres-how-to-say-no-to-new-terms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;1899&#39; Fans Still Want Answers](https://www.wired.com/2024/03/geeks-guide-1899-fans/)
+ - [Motorola Edge Plus &lpar;2024&rpar; leak reveals design revamp, battery downgrade](https://www.androidauthority.com/motorola-edge-50-pro-leak-3423783/)
+ - [Florida Middle Schoolers Arrested for Allegedly Creating Deepfake Nudes of Classmates](https://www.wired.com/story/florida-teens-arrested-deepfake-nudes-classmates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
