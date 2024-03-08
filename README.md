@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/aXn8LZb)
- - ⏩ [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
- - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
+ - 💣 [I can&#39;t be the only person to have noticed this. What is it caused by?](http://9gag.com/gag/a6qW56b)
+ - ⏩ [Women](http://9gag.com/gag/aXn8LZb)
+ - 👉 [Recycling factory turning shopping bags into chairs](http://9gag.com/gag/amADmGv)<!-- MEMES:END -->
 
 ---
 
