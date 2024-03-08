@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Phone app could be getting a FaceTime-like feature](https://www.androidauthority.com/google-phone-video-call-3423928/)
- - [Apple to join other luxury retail locations in Miami Worldcenter](https://appleinsider.com/articles/24/03/08/apple-to-join-other-luxury-retail-locations-in-miami-worldcenter?utm_medium=rss)
- - [CISA confirms it took down two systems in February, after discovering signs of exploitation via vulnerabilities in Ivanti products that the agency used &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240308/p18#a240308p18)<!-- TECH:END -->
+ - [Warner Bros. is removing Adult Swim Games from console stores and Steam](https://www.theverge.com/2024/3/8/24094536/adult-swim-games-delisted-warner-bros-discovery)
+ - [The HomePod and HomePod Mini are both receiving a rare discount](https://www.theverge.com/2024/3/8/24093863/apple-homepod-mini-asus-zenscreen-mb166c-portable-monitor-bayonetta-3-deal-sale)
+ - [Sources: some NIST staff have threatened to resign over the expected appointment of an &quot;effective altruist&quot; AI researcher to the US AI Safety Institute &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240308/p19#a240308p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
