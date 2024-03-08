@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chasing the Unseen is a delightfully strange and meditative take on Shadow of the Colossus, where the giant beasties can&#39;t hurt you and your mission is to climb](https://www.pcgamer.com/games/adventure/chasing-the-unseen-is-a-delightfully-strange-and-meditative-take-on-shadow-of-the-colossus-where-the-giant-beasties-cant-hurt-you-and-your-mission-is-to-climb)
- - [Researchers have developed yet another way to fool AI chatbots, this time with a good old-fashioned dose of ASCII art](https://www.pcgamer.com/hardware/researchers-have-developed-yet-another-way-to-fool-ai-chatbots-this-time-with-a-good-old-fashioned-dose-of-ascii-art)
- - [Rockstar Finally Lets GTA Online Players Drive The Train, 11 Years Later](https://kotaku.com/gta-online-drive-train-new-mission-heist-raid-update-1851320169)<!-- GAME:END -->
+ - [What are the new map and weapon loot pool changes in Fortnite Chapter 5 Season 2?](https://www.polygon.com/fortnite-guide/24094408/chapter-5-season-2-map-weapon-pool-vaulted)
+ - [7 Must-Play Games To Grab During Steam’s Women’s Day Sale](https://kotaku.com/steam-womens-day-sale-signalis-unpacking-1851320438)
+ - [Helldivers 2 CEO Is ‘Extremely Disappointed’ With Dev Behavior](https://kotaku.com/helldivers-2-ceo-reddit-new-patch-nerfs-fans-upset-1851320512)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
