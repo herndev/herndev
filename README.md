@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is temporarily slashing activation fees for new lines, leak reveals](https://www.androidauthority.com/t-mobile-activation-fees-3423968/)
- - [Weekend&#39;s best Apple deals offer record-low prices on MacBooks, monitors &amp; more](https://appleinsider.com/articles/24/03/08/weekends-best-apple-deals-offer-record-low-prices-on-macbooks-monitors-more?utm_medium=rss)
- - [SpaceX says its satellite service aced tests on Android and iPhone](https://www.androidauthority.com/spacex-says-its-satellite-service-aced-tests-on-android-and-iphone-3423960/)<!-- TECH:END -->
+ - [Sam Altman Is Reinstated to OpenAI’s Board](https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/)
+ - [Fortnite has been down all day, and the outage isn’t over](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
+ - [OpenAI investigation says it was wrong to fire Sam Altman](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
