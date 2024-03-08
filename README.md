@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s new patch busts one of the best early exploits in the game and stops Sam Coe telling his daughter to tell jokes to a corpse](https://www.pcgamer.com/games/rpg/starfields-new-patch-busts-one-of-the-best-early-exploits-in-the-game-and-stops-sam-coe-telling-his-daughter-to-tell-jokes-to-a-corpse)
- - [Warner Bros. is now erasing games as it plans to delist Adult Swim-published titles](https://www.polygon.com/24093815/warner-bros-adult-swim-games-steam-delisting)
- - [Dragon’s Dogma 2 Players Are Going Wild With The Character Creator](https://kotaku.com/dragons-dogma-2-free-character-creator-storage-1851319737)<!-- GAME:END -->
+ - [Welcome to “Green Hell”: Adding the Legendary Nordschleife to Forza Motorsport](https://news.xbox.com/en-us/2024/03/08/forza-motorsport-nordschleife-making-of/)
+ - [The Accountant is getting a sequel, which is a great excuse to watch The Accountant](https://www.polygon.com/24093827/accountant-sequel-movie-release-date-action-ben-affleck-watch)
+ - [All Treasure Trove collectable trophies and chest reward in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24086754/treasure-trove-collectables-trophies-list-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
