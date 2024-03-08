@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Georgia&#39;s largest healthcare system switches to the Mac](https://appleinsider.com/articles/24/03/08/georgias-largest-healthcare-system-switches-to-the-mac?utm_medium=rss)
- - [Do you regret buying the vanilla Pixel 8?](https://www.androidauthority.com/regret-buying-pixel-8-gemini-nano-3423667/)
- - [Trump comes out in support of TikTok, saying a ban will help &quot;Facebook and Zuckerschmuck&quot; double their business and Facebook is the &quot;true enemy of the people&quot; &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240308/p8#a240308p8)<!-- TECH:END -->
+ - [Save over $1,000 on the Galaxy Tab S9 Ultra in the Samsung sale](https://www.androidauthority.com/samsuing-galaxy-tab-s9-ultra-deal-3423531/)
+ - [Filing: chipmaker Astera Labs, which offers cloud and AI connectivity hardware, plans to raise as much as $534M in its US IPO &lpar;Phil Serafino/Bloomberg&rpar;](http://www.techmeme.com/240308/p9#a240308p9)
+ - [Apple has enough iPad Pro OLED screens ordered to make it through Christmas](https://appleinsider.com/articles/24/03/08/apple-has-enough-ipad-pro-oled-screens-ordered-to-make-it-through-christmas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
