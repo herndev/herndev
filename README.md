@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - ⏩ [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
+ - 💣 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - ⏩ [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 👉 [I Love this woman](http://9gag.com/gag/abvj4X9)<!-- MEMES:END -->
 
 ---
 
