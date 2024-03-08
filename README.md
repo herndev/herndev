@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - ⏩ [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/aXn8LZb)
+ - ⏩ [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
+ - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
 
 ---
 
