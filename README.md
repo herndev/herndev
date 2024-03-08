@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says Russian state-sponsored Midnight Blizzard gained access to some of its source code repositories and internal systems following the January hack &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240308/p11#a240308p11)
- - [Rivian has already received 68,000 reservations for the R2](https://www.theverge.com/2024/3/8/24094270/rivian-r2-reservation-number-price-refund)
- - [Microsoft says Russian hackers stole source code after spying on its executives](https://www.theverge.com/2024/3/8/24094287/microsoft-hack-russian-security-attack-stolen-source-code)<!-- TECH:END -->
+ - [What Apple Switcher ad star Ellen Feiss is doing now](https://appleinsider.com/articles/24/03/08/what-apple-switcher-ad-star-ellen-feiss-is-doing-now?utm_medium=rss)
+ - [Rivian’s CEO talks R2 and R3 launch, and why he has ‘complete certainty’ EVs will win](https://www.theverge.com/24094259/rivian-r2-r3-r3x-ceo-interview-price-production-future)
+ - [Weird Roku Alert? Here&#39;s How to Say No to New Terms     - CNET](https://www.cnet.com/tech/services-and-software/weird-roku-alert-heres-how-to-say-no-to-new-terms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
