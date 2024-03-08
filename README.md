@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just two British Muslims discussing how much they hate non-Muslims and tolerate living among them. `I can be in a land where I live with these people, but I have hate for these people, I don&#39;t like them.`](http://9gag.com/gag/ajV2V0w)
- - ⏩ [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 💣 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
+ - ⏩ [Women](http://9gag.com/gag/aXn8LZb)
+ - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
 
 ---
 
