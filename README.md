@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - 💣 [There is some meme potential](http://9gag.com/gag/agoRoDq)
  - ⏩ [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
+ - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
 
 ---
 
