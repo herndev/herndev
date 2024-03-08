@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all know why, but it&#39;s funny and white night incoming lol](http://9gag.com/gag/az26d3m)
- - ⏩ [Upgrades people upgrades !](http://9gag.com/gag/aeQXO7b)
- - 👉 [Looks like meat\u2019s back on the menu, boys](http://9gag.com/gag/ay2y4Nr)<!-- MEMES:END -->
+ - 💣 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - ⏩ [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
 
 ---
 
