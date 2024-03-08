@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweden is an official member of NATO as of today!](http://9gag.com/gag/az26dxp)
- - ⏩ [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
- - 👉 [Wagecuck&#39;s anthem](http://9gag.com/gag/avQb1L5)<!-- MEMES:END -->
+ - 💣 [Just two British Muslims discussing how much they hate non-Muslims and tolerate living among them. `I can be in a land where I live with these people, but I have hate for these people, I don&#39;t like them.`](http://9gag.com/gag/ajV2V0w)
+ - ⏩ [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
 
 ---
 
