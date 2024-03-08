@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 11 to 15](https://news.xbox.com/en-us/2024/03/08/next-week-on-xbox-new-games-for-march-11-to-15/)
- - [Star Wars: Unlimited can make you a deck builder overnight](https://www.polygon.com/reviews/24086008/star-wars-unlimited-tcg-review)
- - [What time does Fortnite downtime end and Chapter 5 Season 2 start?](https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time)<!-- GAME:END -->
+ - [Starfield&#39;s new patch busts one of the best early exploits in the game and stops Sam Coe telling his daughter to tell jokes to a corpse](https://www.pcgamer.com/games/rpg/starfields-new-patch-busts-one-of-the-best-early-exploits-in-the-game-and-stops-sam-coe-telling-his-daughter-to-tell-jokes-to-a-corpse)
+ - [Warner Bros. is now erasing games as it plans to delist Adult Swim-published titles](https://www.polygon.com/24093815/warner-bros-adult-swim-games-steam-delisting)
+ - [Dragon’s Dogma 2 Players Are Going Wild With The Character Creator](https://kotaku.com/dragons-dogma-2-free-character-creator-storage-1851319737)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
