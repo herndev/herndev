@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Be warned: Android 14 QPR3 Beta 2 is soft-bricking Pixel phones](https://www.androidauthority.com/android-14-qpr-3-beta-2-soft-bricking-pixels-3423579/)
- - [Denver-based Maybell Quantum, which is developing systems to make quantum tech more reliable, scalable, and accessible, raised a $25M Series A &lpar;Cassidy Ritter/Denver Business Journal&rpar;](http://www.techmeme.com/240307/p43#a240307p43)
- - [India approves a ~$1.25B investment in AI projects over five years, including for optimizing compute infrastructure, LLM development, and education in AI &lpar;The Economic Times&rpar;](http://www.techmeme.com/240307/p42#a240307p42)<!-- TECH:END -->
+ - [Broadcom expects $10B in revenue from AI-related chips in 2024, as CEO Hock Tan says AI revenue, up 4x YoY to $2.3B in Q1, offset cyclical business slowdown &lpar;Reuters&rpar;](http://www.techmeme.com/240308/p2#a240308p2)
+ - [Sensor Tower: Instagram&#39;s total app downloads grew 20% YoY in 2023 to 768M, making it the most downloaded app worldwide; TikTok had 733M downloads, up 4% YoY &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240308/p1#a240308p1)
+ - [Be warned: Android 14 QPR3 Beta 2 is soft-bricking Pixel phones](https://www.androidauthority.com/android-14-qpr-3-beta-2-soft-bricking-pixels-3423579/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
