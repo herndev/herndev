@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
- - ⏩ [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 👉 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)<!-- MEMES:END -->
+ - 💣 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
+ - ⏩ [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 👉 [Bye Akira](http://9gag.com/gag/aeQXZqO)<!-- MEMES:END -->
 
 ---
 
