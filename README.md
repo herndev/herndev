@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehehehe](http://9gag.com/gag/ajV21mQ)
- - ⏩ [We all know why, but it&#39;s funny and white night incoming lol](http://9gag.com/gag/az26d3m)
- - 👉 [Dude bought roses to give to the elderly](http://9gag.com/gag/a5XL61E)<!-- MEMES:END -->
+ - 💣 [We all know why, but it&#39;s funny and white night incoming lol](http://9gag.com/gag/az26d3m)
+ - ⏩ [Upgrades people upgrades !](http://9gag.com/gag/aeQXO7b)
+ - 👉 [Looks like meat\u2019s back on the menu, boys](http://9gag.com/gag/ay2y4Nr)<!-- MEMES:END -->
 
 ---
 
