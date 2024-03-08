@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
- - ⏩ [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
+ - 💣 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - ⏩ [Beautiful](http://9gag.com/gag/aA0nQrR)
+ - 👉 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)<!-- MEMES:END -->
 
 ---
 
