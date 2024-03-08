@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;1899&#39; Fans Still Want Answers](https://www.wired.com/2024/03/geeks-guide-1899-fans/)
- - [Motorola Edge Plus &lpar;2024&rpar; leak reveals design revamp, battery downgrade](https://www.androidauthority.com/motorola-edge-50-pro-leak-3423783/)
- - [Florida Middle Schoolers Arrested for Allegedly Creating Deepfake Nudes of Classmates](https://www.wired.com/story/florida-teens-arrested-deepfake-nudes-classmates/)<!-- TECH:END -->
+ - [Sources: TSMC to win $5B+ in grants to support an Arizona chipmaking project; Samsung offered additional investment to its $17B Texas factory to boost its award &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240308/p15#a240308p15)
+ - [Two teenagers were charged under a 2022 Florida law for allegedly creating deepfake nudes of classmates, in what appears to be the first such criminal case &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240308/p14#a240308p14)
+ - [One fan spent three years saving a Final Fantasy game before it shut down](https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
