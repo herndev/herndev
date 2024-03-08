@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WB Discovery Might Soon Delist Over A Dozen Adult Swim-Published Games](https://kotaku.com/adult-swim-wb-discovery-delist-deleted-games-steam-ps4-1851320858)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240306-2200&rpar;](https://news.xbox.com/en-us/2024/03/08/xbox-insider-release-notes-alpha-skip-ahead-2408-240306-2200/)
- - [Aquaria answers, ‘which anime character would win RuPaul’s Drag Race?’](https://www.polygon.com/24093794/rupauls-drag-race-aquaria-pokemon-crunchyroll-anime-awards)<!-- GAME:END -->
+ - [Kotaku Asks: What’s The Best Mario Game?](https://kotaku.com/super-mario-bros-mar10-day-best-games-nintendo-1851321255)
+ - [Helldivers 2 servers are getting crushed under the onslaught of mechs](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-servers-are-getting-crushed-under-the-onslaught-of-mechs)
+ - [Even more Adult Swim games are being removed from sale by Warner Bros, as a total wipeout looks increasingly likely](https://www.pcgamer.com/gaming-industry/even-more-adult-swim-games-are-being-removed-from-sale-by-warner-bros-as-a-total-wipeout-looks-increasingly-likely)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
