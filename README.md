@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Sweet Security, which offers cloud runtime security tools, raised a $33M Series A, after emerging from stealth with a $12M seed in August 2023 &lpar;Kevin Townsend/SecurityWeek&rpar;](http://www.techmeme.com/240307/p35#a240307p35)
- - [SpaceX Starship Mission 3: How to Watch the March 14 Launch     - CNET](https://www.cnet.com/science/space/spacex-starship-mission-3-how-to-watch-the-march-14-launch/#ftag=CAD590a51e)
- - [Pixel 8 left behind: Google reveals Gemini Nano won’t come to base model](https://www.androidauthority.com/pixel-8-no-gemini-nano-3423547/)<!-- TECH:END -->
+ - [Apple TV+ movies struggling to prevail in theaters still considered &#39;profitable&#39;](https://appleinsider.com/articles/24/03/08/apple-tv-movies-struggling-to-prevail-in-theaters-still-considered-profitable?utm_medium=rss)
+ - [UnitedHealth says electronic prescribing is restored and expects its payments platform back online by March 15, after a hack prompted disruptions two weeks ago &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/240307/p37#a240307p37)
+ - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
