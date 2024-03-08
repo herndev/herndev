@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download: Google’s new Pixel Superfan wallpapers are all about Minty freshness](https://www.androidauthority.com/google-pixel-superfan-new-wallpapers-3423628/)
- - [How Netflix&#39;s stand-up specials, COVID, and rise of platforms like TikTok and YouTube have transformed the comedy business, broadening comedians&#39; reach &lpar;Addie Morfoot/Variety&rpar;](http://www.techmeme.com/240308/p5#a240308p5)
- - [Meta Quest 3 Deals: Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adding NVMe storage to your Raspberry Pi 5: What you should know](https://www.androidauthority.com/add-nvme-raspberry-pi-5-3423234/)
+ - [Sources: China is in the process of raising $27B+ for its largest chip fund ever to counter US curbs, with most of the capital expected from local governments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p6#a240308p6)
+ - [OnePlus 12 vs Google Pixel 8: Which affordable flagship should you buy?](https://www.androidauthority.com/oneplus-12-vs-google-pixel-8-3391483/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
