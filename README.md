@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
- - ⏩ [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 👉 [Women](http://9gag.com/gag/aXn8LZb)<!-- MEMES:END -->
+ - 💣 [I Love this woman](http://9gag.com/gag/abvj4X9)
+ - ⏩ [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
 
 ---
 
