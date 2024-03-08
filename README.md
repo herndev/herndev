@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I Love this woman](http://9gag.com/gag/abvj4X9)
- - ⏩ [Modern gym life](http://9gag.com/gag/amADGDo)
- - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
+ - 💣 [\u201cBaby One More Time\u201d music vid w/ Jack Black and the D](http://9gag.com/gag/aXn8NGv)
+ - ⏩ [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - 👉 [Watch to the end](http://9gag.com/gag/axop6vW)<!-- MEMES:END -->
 
 ---
 
