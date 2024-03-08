@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tests show GPT 3.5 systematically produces biases that disadvantage protected groups based on their names alone when screening and ranking candidates for jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p3#a240308p3)
  - [Broadcom expects $10B in revenue from AI-related chips in 2024, as CEO Hock Tan says AI revenue, up 4x YoY to $2.3B in Q1, offset cyclical business slowdown &lpar;Reuters&rpar;](http://www.techmeme.com/240308/p2#a240308p2)
- - [Sensor Tower: Instagram&#39;s total app downloads grew 20% YoY in 2023 to 768M, making it the most downloaded app worldwide; TikTok had 733M downloads, up 4% YoY &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240308/p1#a240308p1)
- - [Be warned: Android 14 QPR3 Beta 2 is soft-bricking Pixel phones](https://www.androidauthority.com/android-14-qpr-3-beta-2-soft-bricking-pixels-3423579/)<!-- TECH:END -->
+ - [Sensor Tower: Instagram&#39;s total app downloads grew 20% YoY in 2023 to 768M, making it the most downloaded app worldwide; TikTok had 733M downloads, up 4% YoY &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240308/p1#a240308p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
