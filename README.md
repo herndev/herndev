@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What are the new map and weapon loot pool changes in Fortnite Chapter 5 Season 2?](https://www.polygon.com/fortnite-guide/24094408/chapter-5-season-2-map-weapon-pool-vaulted)
- - [7 Must-Play Games To Grab During Steam’s Women’s Day Sale](https://kotaku.com/steam-womens-day-sale-signalis-unpacking-1851320438)
- - [Helldivers 2 CEO Is ‘Extremely Disappointed’ With Dev Behavior](https://kotaku.com/helldivers-2-ceo-reddit-new-patch-nerfs-fans-upset-1851320512)<!-- GAME:END -->
+ - [WB Discovery Might Soon Delist Over A Dozen Adult Swim-Published Games](https://kotaku.com/adult-swim-wb-discovery-delist-deleted-games-steam-ps4-1851320858)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240306-2200&rpar;](https://news.xbox.com/en-us/2024/03/08/xbox-insider-release-notes-alpha-skip-ahead-2408-240306-2200/)
+ - [Aquaria answers, ‘which anime character would win RuPaul’s Drag Race?’](https://www.polygon.com/24093794/rupauls-drag-race-aquaria-pokemon-crunchyroll-anime-awards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
