@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC to win $5B+ in grants to support an Arizona chipmaking project; Samsung offered additional investment to its $17B Texas factory to boost its award &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240308/p15#a240308p15)
- - [Two teenagers were charged under a 2022 Florida law for allegedly creating deepfake nudes of classmates, in what appears to be the first such criminal case &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240308/p14#a240308p14)
- - [One fan spent three years saving a Final Fantasy game before it shut down](https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix)<!-- TECH:END -->
+ - [Rivian R2, R3, and R3X launch event: the EV company’s more affordable SUVs are here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
+ - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
+ - [Epic Games just got unbanned by Apple — again](https://www.theverge.com/2024/3/8/24094543/epic-games-ios-developer-license-apple-dma)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
