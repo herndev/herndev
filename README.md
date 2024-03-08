@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Akira Toriyama, Legendary Dragon Ball Creator, Dies At 68](https://kotaku.com/akira-toriyama-dragon-ball-dies-quest-chrono-trigger-1851318780)
  - [Imaginary is a mess of a horror movie, and not in the fun way](https://www.polygon.com/reviews/24093592/imaginary-review-horror-movie-blumhouse-teddy-bear-chauncey)
- - [How to start New Game Plus in Spider-Man 2 for PS5](https://www.polygon.com/spider-man-2-guides/23931803/new-game-plus)
- - [GTA Online update for the week of March 7](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)<!-- GAME:END -->
+ - [How to start New Game Plus in Spider-Man 2 for PS5](https://www.polygon.com/spider-man-2-guides/23931803/new-game-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
