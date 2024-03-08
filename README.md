@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Bros. is removing Adult Swim Games from console stores and Steam](https://www.theverge.com/2024/3/8/24094536/adult-swim-games-delisted-warner-bros-discovery)
- - [The HomePod and HomePod Mini are both receiving a rare discount](https://www.theverge.com/2024/3/8/24093863/apple-homepod-mini-asus-zenscreen-mb166c-portable-monitor-bayonetta-3-deal-sale)
- - [Sources: some NIST staff have threatened to resign over the expected appointment of an &quot;effective altruist&quot; AI researcher to the US AI Safety Institute &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240308/p19#a240308p19)<!-- TECH:END -->
+ - [T-Mobile is temporarily slashing activation fees for new lines, leak reveals](https://www.androidauthority.com/t-mobile-activation-fees-3423968/)
+ - [Weekend&#39;s best Apple deals offer record-low prices on MacBooks, monitors &amp; more](https://appleinsider.com/articles/24/03/08/weekends-best-apple-deals-offer-record-low-prices-on-macbooks-monitors-more?utm_medium=rss)
+ - [SpaceX says its satellite service aced tests on Android and iPhone](https://www.androidauthority.com/spacex-says-its-satellite-service-aced-tests-on-android-and-iphone-3423960/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
