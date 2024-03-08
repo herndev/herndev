@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - ⏩ [Beautiful](http://9gag.com/gag/aA0nQrR)
- - 👉 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)<!-- MEMES:END -->
+ - ⏩ [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
 
 ---
 
