@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 devs say they&#39;re gonna tone down the heavily-armoured creeps: &#39;We&#39;re currently looking at changes to the spawn rates and health pools&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-say-theyre-gonna-tone-down-the-heavily-armoured-creeps-were-currently-looking-at-changes-to-the-spawn-rates-and-health-pools)
- - [KING OF FIGHTERS&#39; finest join Doomsday: Last Survivors for the ultimate crossover](https://www.pcgamer.com/games/king-of-fighters-finest-join-doomsday-last-survivors-for-the-ultimate-crossover)
- - [Free GOG keys for the objectively 3rd-best Fallout game are on Twitch Prime right now](https://www.pcgamer.com/games/rpg/free-gog-keys-for-the-objectively-3rd-best-fallout-game-are-on-twitch-prime-right-now)<!-- GAME:END -->
+ - [For some Helldivers 2 players, the fascist role-play has gone too far](https://www.polygon.com/24093674/helldivers-2-discord-meta-role-play-fandom-joel)
+ - [Every RPG should pre-release a free character creator like Dragon’s Dogma 2 has](https://www.polygon.com/24094215/dragons-dogma-2-free-character-creator-demo)
+ - [You can now install PC Gamer—okay fine, any website I suppose—as an app on your desktop with the latest Chrome Canary build](https://www.pcgamer.com/hardware/you-can-now-install-pc-gamerokay-fine-any-website-i-supposeas-an-app-on-your-desktop-with-the-latest-chrome-canary-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
