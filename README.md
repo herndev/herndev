@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US data center demand for AI and crypto mining are putting new pressures on an overtaxed power grid, as bottlenecks mount and utilities struggle to keep up &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/240308/p4#a240308p4)
- - [Google’s upcoming cross-device call transfer feature could be focused on one app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-android-video-call-transfer-cross-device-google-meet-3423582/)
- - [Apple Could Be the First Target of Europe&#39;s Tough New Tech Law](https://www.wired.com/story/apple-target-dma-europe-tough-new-law/)<!-- TECH:END -->
+ - [Fortnite’s new season brings Greek gods to the battle royale](https://www.theverge.com/2024/3/8/24093527/fortnite-chapter-5-season-2-greek-gods-battle-royale)
+ - [Best Galaxy S24 Deals: Get the Latest Samsung Phone for Free Plus $100 Discounts and Bonus Items     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)
+ - [US data center demand for AI and crypto mining are putting new pressures on an overtaxed power grid, as bottlenecks mount and utilities struggle to keep up &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/240308/p4#a240308p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
