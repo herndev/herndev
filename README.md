@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
- - ⏩ [Dude bought roses to give to the elderly](http://9gag.com/gag/a5XL61E)
- - 👉 [Sweden is an official member of NATO as of today!](http://9gag.com/gag/az26dxp)<!-- MEMES:END -->
+ - 💣 [Sweden is an official member of NATO as of today!](http://9gag.com/gag/az26dxp)
+ - ⏩ [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
+ - 👉 [Wagecuck&#39;s anthem](http://9gag.com/gag/avQb1L5)<!-- MEMES:END -->
 
 ---
 
