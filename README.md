@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku Asks: What’s The Best Mario Game?](https://kotaku.com/super-mario-bros-mar10-day-best-games-nintendo-1851321255)
- - [Helldivers 2 servers are getting crushed under the onslaught of mechs](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-servers-are-getting-crushed-under-the-onslaught-of-mechs)
- - [Even more Adult Swim games are being removed from sale by Warner Bros, as a total wipeout looks increasingly likely](https://www.pcgamer.com/gaming-industry/even-more-adult-swim-games-are-being-removed-from-sale-by-warner-bros-as-a-total-wipeout-looks-increasingly-likely)<!-- GAME:END -->
+ - [Thousands of players gather online in Final Fantasy 14, Dragon Quest 10 and more to mourn legendary artist Akira Toriyama](https://www.pcgamer.com/games/mmo/thousands-of-players-gather-online-in-final-fantasy-14-dragon-quest-10-and-more-to-mourn-legendary-artist-akira-toriyama)
+ - [When does Fortnite downtime end and Chapter 5 Season 2 start?](https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time)
+ - [Nintendo Won&#39;t Tell Anybody Who Developed Its New Princess Peach Game](https://kotaku.com/nintendo-princess-peach-showtime-developer-good-feel-1851321374)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
