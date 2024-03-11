@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jimmy Kimmel’s Oscars monologue ended on a moment of union solidarity](https://www.polygon.com/24096752/oscars-2024-jimmy-kimmel-opening-monologue)
- - [Star Citizen&#39;s first-person shooting is getting backpack-reloading, dynamic crosshairs, procedural recoil, and other improvements to &#39;bring the FPS combat to AAA standard&#39;](https://www.pcgamer.com/games/sim/star-citizens-first-person-shooting-is-getting-backpack-reloading-dynamic-crosshairs-procedural-recoil-and-other-improvements-to-bring-the-fps-combat-to-aaa-standard)
- - [Run your team of fantasy gladiators to absolute dominance in Mortal Glory 2](https://www.pcgamer.com/games/strategy/run-your-team-of-fantasy-gladiators-to-absolute-dominance-in-mortal-glory-2)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 11, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-11-2024)
+ - [The Mass Effect board game will come with little guys and, dammit, now I want the thing](https://www.pcgamer.com/games/rpg/the-mass-effect-board-game-will-come-with-little-guys-and-dammit-now-i-want-the-thing)
+ - [Jimmy Kimmel’s Oscars monologue ended on a moment of union solidarity](https://www.polygon.com/24096752/oscars-2024-jimmy-kimmel-opening-monologue)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
