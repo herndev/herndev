@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - ⏩ [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 👉 [Drilling that city baby](http://9gag.com/gag/a04mWPB)<!-- MEMES:END -->
+ - 💣 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - ⏩ [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 👉 [Show me what you got](http://9gag.com/gag/a2KQx7E)<!-- MEMES:END -->
 
 ---
 
