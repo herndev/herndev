@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Vermintide 2&#39;s Versus mode is real, currently in open alpha](https://www.pcgamer.com/games/fps/vermintide-2s-versus-mode-is-real-currently-in-open-alpha)
  - [Disgraced former WWE boss Vince McMahon has been largely scrubbed from WWE 2K24](https://www.pcgamer.com/games/sports/disgraced-former-wwe-boss-vince-mcmahon-has-been-largely-scrubbed-from-wwe-2k24)
- - [The biggest moments from the 2024 Oscars](https://www.polygon.com/24096703/oscar-2024-best-winner-speeches-songs-moments)
- - [Christopher Nolan finally won an Oscar](https://www.polygon.com/24096833/oscars-2024-christopher-nolan-oppenheimer)<!-- GAME:END -->
+ - [The biggest moments from the 2024 Oscars](https://www.polygon.com/24096703/oscar-2024-best-winner-speeches-songs-moments)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
