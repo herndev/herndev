@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - ⏩ [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
+ - 💣 [NCAP 0](http://9gag.com/gag/aGEP26Z)
+ - ⏩ [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 👉 [Drilling that city baby](http://9gag.com/gag/a04mWPB)<!-- MEMES:END -->
 
 ---
 
