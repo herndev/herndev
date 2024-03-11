@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle reports Q3 revenue up 7% YoY to $13.3B, meeting expectations, and cloud services and license support revenues up 12% YoY to $9.96B; ORCL jumps 9%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240311/p22#a240311p22)
- - [Freeform rumored to get new navigation feature called &#39;Scenes&#39; in iOS 18](https://appleinsider.com/articles/24/03/11/freeform-rumored-to-get-new-navigation-feature-called-scenes-in-ios-18?utm_medium=rss)
- - [Nab a OnePlus Pad at Its Best Ever Price With This Amazon Deal     - CNET](https://www.cnet.com/deals/nab-a-oneplus-pad-at-its-best-ever-price-with-this-amazon-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Covariant, an AI-powered robot maker, debuts RFM-1, an AI model the company says can process physics, may limit the need for bespoke robotics programming, more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240311/p24#a240311p24)
+ - [iPadOS 18 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/apple-ipados-18-3421890/)
+ - [Bitcoin app accused of stealing $120,000 in another App Store failure [u]](https://appleinsider.com/articles/24/03/11/bitcoin-app-accused-of-stealing-120000-in-another-app-store-failure?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
