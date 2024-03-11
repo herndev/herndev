@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - ⏩ [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
+ - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - ⏩ [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
 
 ---
 
