@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would you buy the Galaxy A55 or wait for the Pixel 8a?](https://www.androidauthority.com/poll-samsung-galaxy-a55-google-pixel-8a-3424320/)
- - [AirPods Pro could gain hearing aid mode in iOS 18](https://appleinsider.com/articles/24/03/11/airpods-pro-could-gain-hearing-aid-mode-in-ios-18?utm_medium=rss)
- - [An Italian minister says Singapore-based Silicon Box plans to invest &amp;euro;3.2B to build a chip factory; Silicon Box raised $200M in January 2024 at a $1B+ valuation &lpar;Flavia Rotondi/Bloomberg&rpar;](http://www.techmeme.com/240311/p13#a240311p13)<!-- TECH:END -->
+ - [How to save culture from the algorithms, with Filterworld author Kyle Chayka](https://www.theverge.com/24094338/kyle-chayka-filterworld-algorithmic-recommendation-tiktok-instagram-culture-decoder-interview)
+ - [Apple&#39;s Vision Pro and the Killer App Store](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)
+ - [Reddit goes public: the latest updates on its IPO](https://www.theverge.com/24097069/reddit-ipo-public-investment-ai-training-data-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
