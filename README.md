@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
- - ⏩ [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - 👉 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
+ - 💣 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - ⏩ [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
 
 ---
 
