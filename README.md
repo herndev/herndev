@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
- - ⏩ [How far we&#39;ve fallen](http://9gag.com/gag/avQb9LM)
- - 👉 [Man I miss those days](http://9gag.com/gag/aeQXWVb)<!-- MEMES:END -->
+ - 💣 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - ⏩ [Show me what you got](http://9gag.com/gag/a2KQx7E)
+ - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
 
 ---
 
