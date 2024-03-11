@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you call such a mental illness?](http://9gag.com/gag/armPdRB)
- - ⏩ [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
- - 👉 [The evolution of the criminal](http://9gag.com/gag/awZqd14)<!-- MEMES:END -->
+ - 💣 [NCAP 0](http://9gag.com/gag/aGEP26Z)
+ - ⏩ [Just awful](http://9gag.com/gag/az26RKp)
+ - 👉 [What is this and why?](http://9gag.com/gag/aGEP7x7)<!-- MEMES:END -->
 
 ---
 
