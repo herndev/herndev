@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [OnePlus is working on a new ‘Headphone recording’ feature for its earbuds &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-headphone-recording-apk-teardown-3424413/)
- - [TikTok uses a non-disparagement clause in RSU contracts, perhaps to silence staff, an unusual practice; one ex-staffer claims a share buyback offer was withheld &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240311/p20#a240311p20)<!-- TECH:END -->
+ - [The 4 Big Questions the Pentagon&#39;s New UFO Report Fails to Answer](https://www.wired.com/story/questions-pentagon-ufo-report/)
+ - [Do You Need a Duvet? &lpar;2024&rpar;](https://www.wired.com/story/do-you-need-a-duvet/)
+ - [Casper One Foam Mattress Review 2024: Testing Casper&#39;s New Flagship Mattress     - CNET](https://www.cnet.com/health/sleep/casper-one-foam-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
