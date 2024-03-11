@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The unsolved enigma](http://9gag.com/gag/agoRKWx)
- - ⏩ [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
- - 👉 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)<!-- MEMES:END -->
+ - 💣 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
+ - ⏩ [Next stop depression and as a man you can&#39;t complain because that&#39;s what women do.](http://9gag.com/gag/aVbGB5d)
+ - 👉 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)<!-- MEMES:END -->
 
 ---
 
