@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Chapter 5 Season 2 Battle Pass skins list, including Zeus, Hades, and Aphrodite](https://www.polygon.com/fortnite-guide/24097617/chapter-5-season-2-battle-pass-skins-list-c5s2)
- - [Dragon’s Dogma 2 pre-orders at Best Buy include a Steelbook case](https://www.polygon.com/deals/24054520/dragons-dogma-2-pre-order-buy-guide-standard-deluxe-edition)
- - [The Week In Games: A Star Wars Classic Returns &amp; More New Releases](https://kotaku.com/march-games-this-week-llamasoft-star-wars-battlefront-1851326176)<!-- GAME:END -->
+ - [All Card Carnival solutions in Costa del Sol in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24072403/card-carnival-solutions-costa-del-sol-queens-blood)
+ - [Queen’s Blood card list in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24082221/queens-blood-cards-all-list-how-to-get)
+ - [Dragon’s Dogma 2 Sickos Are Making Their Favorite Characters In-Game](https://kotaku.com/dragons-dogma-2-character-creator-celebrities-1851326312)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
