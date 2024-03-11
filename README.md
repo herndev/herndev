@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing one-ups Google’s call recording feature with a secret recorder](https://www.androidauthority.com/nothing-discreet-call-recording-3424227/)
- - [Qualcomm teases new flagship chip that could power your next smartphone](https://www.androidauthority.com/qualcomm-snapdragon-8s-gen-3-possible-launch-date-3424201/)
- - [London-based Griffin Bank, which offers an API-driven &quot;banking as a service&quot; platform, raised a $24M Series A extension, after a $13.5M Series A in June 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240311/p1#a240311p1)<!-- TECH:END -->
+ - [No April Fools’ joke: OnePlus will launch a new Nord on April 1](https://www.androidauthority.com/oneplus-nord-ce-4-launch-3424244/)
+ - [Score Big Savings: Join CNET&#39;s Text Group for Daily Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)
+ - [Google Is Getting Thousands of Deepfake Porn Complaints](https://www.wired.com/story/google-deepfake-porn-dmca-takedowns/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
