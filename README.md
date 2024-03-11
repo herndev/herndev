@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pull Up to the Starting Line for Forza Motorsport Update 6](https://forza.net/news/forza-motorsport-update-6)
- - [Blizzard reveals first look at Overwatch 2’s Cowboy Bebop crossover](https://www.polygon.com/24092249/overwatch-2-cowboy-bebop-skins-release-date)
- - [The Best Mario Games, According To You](https://kotaku.com/best-mario-games-galaxy-world-64-sunshine-kart-odyssey-1851325267)<!-- GAME:END -->
+ - [Invincible, Netflix’s Girls5Eva, and more new TV this week](https://www.polygon.com/2024/3/11/24081632/new-tv-netflix-invincible-part-2-girls5eva-season)
+ - [Seized by the spirit of democracy, Helldivers 2 CEO holds an impromptu workshop on how to improve the game&#39;s host-based kick system: &#39;there&#39;s always a better solution&#39;](https://www.pcgamer.com/games/third-person-shooter/seized-by-the-spirit-of-democracy-helldivers-2-ceo-holds-an-impromptu-workshop-on-how-to-improve-the-games-host-based-kick-system-theres-always-a-better-solution)
+ - [Fallout Show Creators ‘Know All About Fallout 5’](https://kotaku.com/fallout-5-show-todd-howard-amazon-1851325762)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
