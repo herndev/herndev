@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
- - ⏩ [Next stop depression and as a man you can&#39;t complain because that&#39;s what women do.](http://9gag.com/gag/aVbGB5d)
- - 👉 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)<!-- MEMES:END -->
+ - 💣 [What do you call such a mental illness?](http://9gag.com/gag/armPdRB)
+ - ⏩ [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 👉 [The evolution of the criminal](http://9gag.com/gag/awZqd14)<!-- MEMES:END -->
 
 ---
 
