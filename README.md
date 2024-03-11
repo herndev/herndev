@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
- - ⏩ [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 👉 [Just awful](http://9gag.com/gag/az26RKp)<!-- MEMES:END -->
+ - 💣 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
+ - ⏩ [That describes everything happening at the border right now.](http://9gag.com/gag/aNwyjp4)
+ - 👉 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)<!-- MEMES:END -->
 
 ---
 
