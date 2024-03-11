@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Behold Scroller, you have reached the Feynman Point!](http://9gag.com/gag/armPzb6)
- - ⏩ [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
- - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
+ - 💣 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
+ - ⏩ [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
+ - 👉 [Just awful](http://9gag.com/gag/az26RKp)<!-- MEMES:END -->
 
 ---
 
