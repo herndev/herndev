@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - ⏩ [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
+ - 💣 [The future](http://9gag.com/gag/aGEP2G0)
+ - ⏩ [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 👉 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
 
 ---
 
