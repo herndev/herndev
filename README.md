@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - ⏩ [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
- - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
+ - 💣 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
+ - ⏩ [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
 
 ---
 
