@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new midrange Galaxy A55 arrives with improved security and materials](https://www.theverge.com/2024/3/11/24097036/samsung-galaxy-a55-a35-price-release-date-specs-features-knox-vault)
- - [Here’s where to watch this year’s Oscar winners](https://www.androidauthority.com/stream-2024-oscar-movies-3424267/)
- - [Interviews and court filings: 10 former Pinduoduo staff describe surveillance after leaving and lawsuits to enforce strict non-competes and stifle competition &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p11#a240311p11)<!-- TECH:END -->
+ - [Would you buy the Galaxy A55 or wait for the Pixel 8a?](https://www.androidauthority.com/poll-samsung-galaxy-a55-google-pixel-8a-3424320/)
+ - [AirPods Pro could gain hearing aid mode in iOS 18](https://appleinsider.com/articles/24/03/11/airpods-pro-could-gain-hearing-aid-mode-in-ios-18?utm_medium=rss)
+ - [An Italian minister says Singapore-based Silicon Box plans to invest &amp;euro;3.2B to build a chip factory; Silicon Box raised $200M in January 2024 at a $1B+ valuation &lpar;Flavia Rotondi/Bloomberg&rpar;](http://www.techmeme.com/240311/p13#a240311p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
