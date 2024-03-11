@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman Is Reinstated to OpenAI’s Board](https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/)
- - [Fortnite has been down all day, and the outage isn’t over](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
- - [OpenAI investigation says it was wrong to fire Sam Altman](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)<!-- TECH:END -->
+ - [A look at AI-enabled dolls, such as those made by South Korea&#39;s Hyodol and Israel&#39;s Intuition Robotics, which offer companionship and assistance to older adults &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240310/p7#a240310p7)
+ - [Oscars 2024: all the latest from the biggest night in film](https://www.theverge.com/24091138/oscars-2024-news-winners-nominees)
+ - [Best Phone Plan Deals: Get Cheaper Plans, Trade-In Credits and More     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
