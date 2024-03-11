@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is planning to use artificial intelligence to optimize App Store ads](https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads?utm_medium=rss)
- - [Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok](https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/)
- - [TikTok prepares to challenge Instagram with ‘TikTok Photos’](https://www.androidauthority.com/tiktok-photos-3424441/)<!-- TECH:END -->
+ - [The Pixel 9 may debut Google’s Adaptive Touch feature](https://www.androidauthority.com/pixel-9-adaptive-touch-3424475/)
+ - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
+ - [Tesla’s going back to court over Autopilot’s role in a deadly 2018 crash](https://www.theverge.com/2024/3/11/24097480/tesla-walter-huang-crash-lawsuit-court-autopilot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
