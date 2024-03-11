@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ghostbusters are coming to Destiny 2 ahead of the new movie](https://www.polygon.com/24097368/ghostbusters-destiny-cosmetics-frozen-empire)
- - [Final Fantasy 16 PC requirements are &#39;looking to be somewhat high,&#39; Yoshi-P says](https://www.pcgamer.com/games/rpg/final-fantasy-16-pc-requirements-are-looking-to-be-somewhat-high-yoshi-p-says)
- - [Xbox Insider Release Notes – Alpha &lpar;2404.240308-0140&rpar;](https://news.xbox.com/en-us/2024/03/11/xbox-insider-release-notes-alpha-2404-240308-0140/)<!-- GAME:END -->
+ - [Fortnite Chapter 5 Season 2 Battle Pass skins list, including Zeus, Hades, and Aphrodite](https://www.polygon.com/fortnite-guide/24097617/chapter-5-season-2-battle-pass-skins-list-c5s2)
+ - [Dragon’s Dogma 2 pre-orders at Best Buy include a Steelbook case](https://www.polygon.com/deals/24054520/dragons-dogma-2-pre-order-buy-guide-standard-deluxe-edition)
+ - [The Week In Games: A Star Wars Classic Returns &amp; More New Releases](https://kotaku.com/march-games-this-week-llamasoft-star-wars-battlefront-1851326176)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
