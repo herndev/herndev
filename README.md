@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Oscars’ I’m Just Ken live performance was much more than Kennough](https://www.polygon.com/24093651/oscars-2024-im-just-ken-ryan-gosling-performance)
- - [Five new Steam games you probably missed &lpar;March 11, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-11-2024)
- - [The Mass Effect board game will come with little guys and, dammit, now I want the thing](https://www.pcgamer.com/games/rpg/the-mass-effect-board-game-will-come-with-little-guys-and-dammit-now-i-want-the-thing)<!-- GAME:END -->
+ - [Disgraced former WWE boss Vince McMahon has been largely scrubbed from WWE 2K24](https://www.pcgamer.com/games/sports/disgraced-former-wwe-boss-vince-mcmahon-has-been-largely-scrubbed-from-wwe-2k24)
+ - [The biggest moments from the 2024 Oscars](https://www.polygon.com/24096703/oscar-2024-best-winner-speeches-songs-moments)
+ - [Christopher Nolan finally won an Oscar](https://www.polygon.com/24096833/oscars-2024-christopher-nolan-oppenheimer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
