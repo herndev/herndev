@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-generated recipes won’t get you to Flavortown](https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright)
- - [HoloLens 2 swapped for Apple Vision Pro in UK spinal fusion operation](https://appleinsider.com/articles/24/03/11/hololens-2-swapped-for-apple-vision-pro-in-uk-spinal-fusion-operation?utm_medium=rss)
- - [Mac Studio, visionOS 2.0, iOS 18, Apple AI: What to expect from Apple for WWDC 2024](https://appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-18-apple-ai-what-to-expect-from-apple-for-wwdc-2024?utm_medium=rss)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [OnePlus is working on a new ‘Headphone recording’ feature for its earbuds &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-headphone-recording-apk-teardown-3424413/)
+ - [TikTok uses a non-disparagement clause in RSU contracts, perhaps to silence staff, an unusual practice; one ex-staffer claims a share buyback offer was withheld &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240311/p20#a240311p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
