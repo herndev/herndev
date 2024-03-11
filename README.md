@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you ever see a very stupid person? That make you wonder, why such a retard ever alive? Look what I found. They let out the Liquefied Gas from it containment, to `prove` it just `water`](http://9gag.com/gag/aYVzm5w)
- - ⏩ [Damn poor animals](http://9gag.com/gag/agoREPg)
- - 👉 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)<!-- MEMES:END -->
+ - 💣 [The future](http://9gag.com/gag/aGEP2G0)
+ - ⏩ [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 👉 [Damn poor animals](http://9gag.com/gag/agoREPg)<!-- MEMES:END -->
 
 ---
 
