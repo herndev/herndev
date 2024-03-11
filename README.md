@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Claire Leibowicz, the head of the AI and media integrity program at the Partnership on AI, on male domination in the industry, responsible AI, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240311/p2#a240311p2)
- - [No April Fools’ joke: OnePlus will launch a new Nord on April 1](https://www.androidauthority.com/oneplus-nord-ce-4-launch-3424244/)
- - [Score Big Savings: Join CNET&#39;s Text Group for Daily Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says xAI plans to open-source Grok this week; xAI released Grok in November 2023, offering access to &quot;real-time&quot; data via a $16/month X subscription &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240311/p3#a240311p3)
+ - [Samsung Galaxy A35 5G takes the no-nonsense approach to a dependable smartphone](https://www.androidauthority.com/samsung-galaxy-a35-5g-3424260/)
+ - [Samsung aims for a new mid-range champion with the Galaxy A55 5G](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
