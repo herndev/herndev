@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, March 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-11-2024)
- - [Vermintide 2&#39;s Versus mode is real, currently in open alpha](https://www.pcgamer.com/games/fps/vermintide-2s-versus-mode-is-real-currently-in-open-alpha)
- - [Disgraced former WWE boss Vince McMahon has been largely scrubbed from WWE 2K24](https://www.pcgamer.com/games/sports/disgraced-former-wwe-boss-vince-mcmahon-has-been-largely-scrubbed-from-wwe-2k24)<!-- GAME:END -->
+ - [Fortnite Chapter 5 Season 2 brings the powers of the gods to Battle Royale](https://blog.playstation.com/2024/03/11/fortnite-chapter-5-season-2-brings-the-powers-of-the-gods-to-battle-royale/)
+ - [Fortnite Chapter 5 Season 2 brings the powers of the gods to Battle Royale](https://blog.playstation.com/2024/03/11/fortnite-chapter-5-season-2-brings-the-powers-of-the-gods-to-battle-royale/)
+ - [Today&#39;s Wordle answer for Monday, March 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-11-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
