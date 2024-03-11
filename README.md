@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab These PlayStation-Exclusive Action Games On Sale Right Now](https://kotaku.com/playstation-sale-action-uncharted-spiderman-1851321625)
- - [EA Adds Classic Games To Steam Including Delisted Favorite](https://kotaku.com/ea-classic-pc-games-steam-delisted-the-sabetour-simcity-1851321461)
- - [Fortnite remains offline as Epic struggles with unexpected issues: &#39;This stuff is tricky!&#39; Tim Sweeney says](https://www.pcgamer.com/games/battle-royale/fortnite-remains-offline-as-epic-struggles-with-unexpected-issues-this-stuff-is-tricky-tim-sweeney-says)<!-- GAME:END -->
+ - [Jimmy Kimmel’s Oscars monologue ended on a moment of union solidarity](https://www.polygon.com/24096752/oscars-2024-jimmy-kimmel-opening-monologue)
+ - [Star Citizen&#39;s first-person shooting is getting backpack-reloading, dynamic crosshairs, procedural recoil, and other improvements to &#39;bring the FPS combat to AAA standard&#39;](https://www.pcgamer.com/games/sim/star-citizens-first-person-shooting-is-getting-backpack-reloading-dynamic-crosshairs-procedural-recoil-and-other-improvements-to-bring-the-fps-combat-to-aaa-standard)
+ - [Run your team of fantasy gladiators to absolute dominance in Mortal Glory 2](https://www.pcgamer.com/games/strategy/run-your-team-of-fantasy-gladiators-to-absolute-dominance-in-mortal-glory-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
