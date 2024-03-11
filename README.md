@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload’s ending, explained](https://www.polygon.com/guides/24097280/leader-alive-dead-can-you-save-makoto)
- - [Nearly 2,000 Wordle clones targeted as NYT issues DMCA takedown](https://www.pcgamer.com/games/puzzle/nearly-2000-wordle-clones-targeted-as-nyt-issues-dmca-takedown)
- - [All Weapons Bunker locations in Fortnite Chapter 5 Season 2](https://www.polygon.com/fortnite-guide/24097785/weapons-bunker-locations-chapter-5-season-2-myths-mortals)<!-- GAME:END -->
+ - [Cheaters have spoiled Diablo 4&#39;s new leaderboards and players are begging Blizzard to fix it quickly](https://www.pcgamer.com/games/action/cheaters-have-spoiled-diablo-4s-new-leaderboards-and-players-are-begging-blizzard-to-fix-it-quickly)
+ - [The new Contra: Operation Galuga crushed my skepticism with new ideas that actually work](https://www.pcgamer.com/games/action/the-new-contra-operation-galuga-crushed-my-skepticism-with-new-ideas-that-actually-work)
+ - [Rise of the Ronin hands-on report: Team Ninja’s first open-world is a wandering swordsman’s playground](https://blog.playstation.com/2024/03/11/rise-of-the-ronin-hands-on-report-team-ninjas-first-open-world-is-a-wandering-swordsmans-playground/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
