@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
- - ⏩ [Modern gym life](http://9gag.com/gag/amADGDo)
- - 👉 [Bye Akira](http://9gag.com/gag/aeQXZqO)<!-- MEMES:END -->
+ - 💣 [Behold Scroller, you have reached the Feynman Point!](http://9gag.com/gag/armPzb6)
+ - ⏩ [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
 
 ---
 
