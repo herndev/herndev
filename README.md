@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Kate Middleton Photo Controversy Is an Inexplicable Mess](https://www.wired.com/story/kate-middleton-photo-manipulation-conspiracy-theories/)
  - [Looking back at &quot;Deep Learning is Hitting a Wall&quot;, a 2022 article ridiculed by many, and how it still seems that a paradigm shift is needed to attain AGI &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/240310/p8#a240310p8)
- - [British monarchy rocked by bad Photoshop job](https://www.theverge.com/2024/3/10/24096762/kate-middleton-edited-photo-royal-family-possible-fake)
- - [A look at AI-enabled dolls, such as those made by South Korea&#39;s Hyodol and Israel&#39;s Intuition Robotics, which offer companionship and assistance to older adults &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240310/p7#a240310p7)<!-- TECH:END -->
+ - [British monarchy rocked by bad Photoshop job](https://www.theverge.com/2024/3/10/24096762/kate-middleton-edited-photo-royal-family-possible-fake)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
