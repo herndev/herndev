@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of food delivery app Wonder, led by Diapers.com and Jet.com founder Marc Lore, who invested $200M+ and targets a $30B IPO in three to five years &lpar;Elizabeth G. Dunn/New York Times&rpar;](http://www.techmeme.com/240311/p9#a240311p9)
- - [Authors Brian Keene, Abdi Nazemian, and Stewart O&#39;Nan sue Nvidia over allegedly using their work to train NeMo, and say Nvidia &quot;admitted&quot; to using the books &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240311/p8#a240311p8)
- - [Filing: Reddit aims to raise up to $748M in its IPO, selling 22M shares at $31 to $34 each, for a ~$6.5B valuation; Reddit sets aside 1.76M shares for users &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240311/p7#a240311p7)<!-- TECH:END -->
+ - [Samsung’s new midrange Galaxy A55 arrives with improved security and materials](https://www.theverge.com/2024/3/11/24097036/samsung-galaxy-a55-a35-price-release-date-specs-features-knox-vault)
+ - [Here’s where to watch this year’s Oscar winners](https://www.androidauthority.com/stream-2024-oscar-movies-3424267/)
+ - [Interviews and court filings: 10 former Pinduoduo staff describe surveillance after leaving and lawsuits to enforce strict non-competes and stifle competition &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p11#a240311p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
