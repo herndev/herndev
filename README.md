@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, March 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-11-2024)
  - [Vermintide 2&#39;s Versus mode is real, currently in open alpha](https://www.pcgamer.com/games/fps/vermintide-2s-versus-mode-is-real-currently-in-open-alpha)
- - [Disgraced former WWE boss Vince McMahon has been largely scrubbed from WWE 2K24](https://www.pcgamer.com/games/sports/disgraced-former-wwe-boss-vince-mcmahon-has-been-largely-scrubbed-from-wwe-2k24)
- - [The biggest moments from the 2024 Oscars](https://www.polygon.com/24096703/oscar-2024-best-winner-speeches-songs-moments)<!-- GAME:END -->
+ - [Disgraced former WWE boss Vince McMahon has been largely scrubbed from WWE 2K24](https://www.pcgamer.com/games/sports/disgraced-former-wwe-boss-vince-mcmahon-has-been-largely-scrubbed-from-wwe-2k24)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
