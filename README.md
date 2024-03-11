@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says xAI plans to open-source Grok this week; xAI released Grok in November 2023, offering access to &quot;real-time&quot; data via a $16/month X subscription &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240311/p3#a240311p3)
- - [Samsung Galaxy A35 5G takes the no-nonsense approach to a dependable smartphone](https://www.androidauthority.com/samsung-galaxy-a35-5g-3424260/)
- - [Samsung aims for a new mid-range champion with the Galaxy A55 5G](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)<!-- TECH:END -->
+ - [A profile of food delivery app Wonder, led by Diapers.com and Jet.com founder Marc Lore, who invested $200M+ and targets a $30B IPO in three to five years &lpar;Elizabeth G. Dunn/New York Times&rpar;](http://www.techmeme.com/240311/p9#a240311p9)
+ - [Authors Brian Keene, Abdi Nazemian, and Stewart O&#39;Nan sue Nvidia over allegedly using their work to train NeMo, and say Nvidia &quot;admitted&quot; to using the books &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240311/p8#a240311p8)
+ - [Filing: Reddit aims to raise up to $748M in its IPO, selling 22M shares at $31 to $34 each, for a ~$6.5B valuation; Reddit sets aside 1.76M shares for users &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240311/p7#a240311p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
