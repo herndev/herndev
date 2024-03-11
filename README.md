@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oppenheimer took home Best Picture, and you can take the 4K Blu-ray home for just $20](https://www.polygon.com/deals/2024/3/11/24097143/oppenheimer-4k-bluray-best-picture-oscars-deal-discount)
- - [Hogwarts Legacy dev tries to cool the community&#39;s excitement about the summer update, says it&#39;s just a &#39;small way of us showing appreciation&#39;](https://www.pcgamer.com/games/rpg/hogwarts-legacy-dev-tries-to-cool-the-communitys-excitement-about-the-summer-update-says-its-just-a-small-way-of-us-showing-appreciation)
- - [US government report reveals how Discord, Roblox, Reddit and others co-operate with the FBI and Homeland Security over content like &#39;user-generated re-creations of mass shootings&#39;](https://www.pcgamer.com/software/platforms/us-government-report-reveals-how-discord-roblox-reddit-and-others-co-operate-with-the-fbi-and-homeland-security-over-content-like-user-generated-re-creations-of-mass-shootings)<!-- GAME:END -->
+ - [PUBG announces continued crackdowns on cheaters, user-generated content, a move to Unreal Engine 5, and the possibility of digging a hole like a chicken-hungry moleman](https://www.pcgamer.com/games/battle-royale/pubg-announces-continued-crackdowns-on-cheaters-user-generated-content-a-move-to-unreal-engine-5-and-the-possibility-of-digging-a-hole-like-a-chicken-hungry-moleman)
+ - [Samsung does an Apple with its first Snapdragon X Elite laptop, suggesting the new Arm-based Windows machines aren&#39;t going to be a cheap alternative to x86](https://www.pcgamer.com/hardware/gaming-laptops/samsung-does-an-apple-with-its-first-snapdragon-x-elite-laptop-suggesting-the-new-arm-based-windows-machines-arent-going-to-be-a-cheap-alternative-to-x86)
+ - [Xbox Insider Release Notes – Xbox App [2403.1000.44.0]](https://news.xbox.com/en-us/2024/03/11/xbox-insider-release-notes-xbox-app-2403-1000-44-0/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
