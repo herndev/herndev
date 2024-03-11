@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future](http://9gag.com/gag/aGEP2G0)
- - ⏩ [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 👉 [Damn poor animals](http://9gag.com/gag/agoREPg)<!-- MEMES:END -->
+ - 💣 [The unsolved enigma](http://9gag.com/gag/agoRKWx)
+ - ⏩ [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
+ - 👉 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)<!-- MEMES:END -->
 
 ---
 
