@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Claire Leibowicz, the head of the AI and media integrity program at the Partnership on AI, on male domination in the industry, responsible AI, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240311/p2#a240311p2)
  - [No April Fools’ joke: OnePlus will launch a new Nord on April 1](https://www.androidauthority.com/oneplus-nord-ce-4-launch-3424244/)
- - [Score Big Savings: Join CNET&#39;s Text Group for Daily Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)
- - [Google Is Getting Thousands of Deepfake Porn Complaints](https://www.wired.com/story/google-deepfake-porn-dmca-takedowns/)<!-- TECH:END -->
+ - [Score Big Savings: Join CNET&#39;s Text Group for Daily Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
