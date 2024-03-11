@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 4 Big Questions the Pentagon&#39;s New UFO Report Fails to Answer](https://www.wired.com/story/questions-pentagon-ufo-report/)
- - [Do You Need a Duvet? &lpar;2024&rpar;](https://www.wired.com/story/do-you-need-a-duvet/)
- - [Casper One Foam Mattress Review 2024: Testing Casper&#39;s New Flagship Mattress     - CNET](https://www.cnet.com/health/sleep/casper-one-foam-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple is planning to use artificial intelligence to optimize App Store ads](https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads?utm_medium=rss)
+ - [Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok](https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/)
+ - [TikTok prepares to challenge Instagram with ‘TikTok Photos’](https://www.androidauthority.com/tiktok-photos-3424441/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
