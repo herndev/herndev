@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea Matter hub, SwitchBot Lock Pro, &amp; Mila air purifier on the HomeKit Insider podcast](https://appleinsider.com/articles/24/03/11/ikea-matter-hub-switchbot-lock-pro-mila-air-purifier-on-the-homekit-insider-podcast?utm_medium=rss)
- - [As global chip companies seek a backup to China, Malaysia becomes a surprise investment destination, thanks to a background in packaging, assembly, and testing &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p17#a240311p17)
- - [Airbnb Bans All Indoor Security Cameras](https://www.wired.com/story/airbnb-indoor-security-camera-ban/)<!-- TECH:END -->
+ - [AI-generated recipes won’t get you to Flavortown](https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright)
+ - [HoloLens 2 swapped for Apple Vision Pro in UK spinal fusion operation](https://appleinsider.com/articles/24/03/11/hololens-2-swapped-for-apple-vision-pro-in-uk-spinal-fusion-operation?utm_medium=rss)
+ - [Mac Studio, visionOS 2.0, iOS 18, Apple AI: What to expect from Apple for WWDC 2024](https://appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-18-apple-ai-what-to-expect-from-apple-for-wwdc-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
