@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That describes everything happening at the border right now.](http://9gag.com/gag/aNwyjp4)
- - ⏩ [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
- - 👉 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)<!-- MEMES:END -->
+ - 💣 [Have you ever see a very stupid person? That make you wonder, why such a retard ever alive? Look what I found. They let out the Liquefied Gas from it containment, to `prove` it just `water`](http://9gag.com/gag/aYVzm5w)
+ - ⏩ [Damn poor animals](http://9gag.com/gag/agoREPg)
+ - 👉 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)<!-- MEMES:END -->
 
 ---
 
