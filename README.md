@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms Pixel 8a is coming with a key battery-related feature](https://www.androidauthority.com/google-confirms-pixel-8a-launch-3424191/)
- - [Fortnite’s coming back to the iPhone later this year: Here’s how we got there](https://www.androidauthority.com/apple-unbans-epic-fortnite-ios-3423639/)
- - [Oscars 2024 winners: Oppenheimer and Christopher Nolan lead the way](https://www.theverge.com/2024/3/10/24094772/oscars-2024-winners-list-oppenheimer-poor-things)<!-- TECH:END -->
+ - [Qualcomm teases new flagship chip that could power your next smartphone](https://www.androidauthority.com/qualcomm-snapdragon-8s-gen-3-possible-launch-date-3424201/)
+ - [London-based Griffin Bank, which offers an API-driven &quot;banking as a service&quot; platform, raised a $24M Series A extension, after a $13.5M Series A in June 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240311/p1#a240311p1)
+ - [Best AirPods Max Accessories for 2024     - CNET](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
