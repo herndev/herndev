@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing one-ups Google’s call recording feature with a secret recorder](https://www.androidauthority.com/nothing-discreet-call-recording-3424227/)
  - [Qualcomm teases new flagship chip that could power your next smartphone](https://www.androidauthority.com/qualcomm-snapdragon-8s-gen-3-possible-launch-date-3424201/)
- - [London-based Griffin Bank, which offers an API-driven &quot;banking as a service&quot; platform, raised a $24M Series A extension, after a $13.5M Series A in June 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240311/p1#a240311p1)
- - [Best AirPods Max Accessories for 2024     - CNET](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Griffin Bank, which offers an API-driven &quot;banking as a service&quot; platform, raised a $24M Series A extension, after a $13.5M Series A in June 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240311/p1#a240311p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
