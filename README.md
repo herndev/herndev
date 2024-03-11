@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Invincible, Netflix’s Girls5Eva, and more new TV this week](https://www.polygon.com/2024/3/11/24081632/new-tv-netflix-invincible-part-2-girls5eva-season)
- - [Seized by the spirit of democracy, Helldivers 2 CEO holds an impromptu workshop on how to improve the game&#39;s host-based kick system: &#39;there&#39;s always a better solution&#39;](https://www.pcgamer.com/games/third-person-shooter/seized-by-the-spirit-of-democracy-helldivers-2-ceo-holds-an-impromptu-workshop-on-how-to-improve-the-games-host-based-kick-system-theres-always-a-better-solution)
- - [Fallout Show Creators ‘Know All About Fallout 5’](https://kotaku.com/fallout-5-show-todd-howard-amazon-1851325762)<!-- GAME:END -->
+ - [The Ghostbusters are coming to Destiny 2 ahead of the new movie](https://www.polygon.com/24097368/ghostbusters-destiny-cosmetics-frozen-empire)
+ - [Final Fantasy 16 PC requirements are &#39;looking to be somewhat high,&#39; Yoshi-P says](https://www.pcgamer.com/games/rpg/final-fantasy-16-pc-requirements-are-looking-to-be-somewhat-high-yoshi-p-says)
+ - [Xbox Insider Release Notes – Alpha &lpar;2404.240308-0140&rpar;](https://news.xbox.com/en-us/2024/03/11/xbox-insider-release-notes-alpha-2404-240308-0140/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
