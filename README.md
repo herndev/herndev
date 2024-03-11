@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf Jessica!?](http://9gag.com/gag/agoRdYg)
- - ⏩ [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 👉 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)<!-- MEMES:END -->
+ - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
+ - ⏩ [NCAP 0](http://9gag.com/gag/aGEP26Z)
+ - 👉 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
 
 ---
 
