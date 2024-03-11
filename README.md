@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - ⏩ [Just awful](http://9gag.com/gag/az26RKp)
- - 👉 [What is this and why?](http://9gag.com/gag/aGEP7x7)<!-- MEMES:END -->
+ - 💣 [Wtf Jessica!?](http://9gag.com/gag/agoRdYg)
+ - ⏩ [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 👉 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)<!-- MEMES:END -->
 
 ---
 
