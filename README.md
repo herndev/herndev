@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Card Carnival solutions in Costa del Sol in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24072403/card-carnival-solutions-costa-del-sol-queens-blood)
- - [Queen’s Blood card list in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24082221/queens-blood-cards-all-list-how-to-get)
- - [Dragon’s Dogma 2 Sickos Are Making Their Favorite Characters In-Game](https://kotaku.com/dragons-dogma-2-character-creator-celebrities-1851326312)<!-- GAME:END -->
+ - [Persona 3 Reload’s ending, explained](https://www.polygon.com/guides/24097280/leader-alive-dead-can-you-save-makoto)
+ - [Nearly 2,000 Wordle clones targeted as NYT issues DMCA takedown](https://www.pcgamer.com/games/puzzle/nearly-2000-wordle-clones-targeted-as-nyt-issues-dmca-takedown)
+ - [All Weapons Bunker locations in Fortnite Chapter 5 Season 2](https://www.polygon.com/fortnite-guide/24097785/weapons-bunker-locations-chapter-5-season-2-myths-mortals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
