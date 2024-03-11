@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Chapter 5 Season 2 brings the powers of the gods to Battle Royale](https://blog.playstation.com/2024/03/11/fortnite-chapter-5-season-2-brings-the-powers-of-the-gods-to-battle-royale/)
- - [Fortnite Chapter 5 Season 2 brings the powers of the gods to Battle Royale](https://blog.playstation.com/2024/03/11/fortnite-chapter-5-season-2-brings-the-powers-of-the-gods-to-battle-royale/)
- - [Today&#39;s Wordle answer for Monday, March 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-11-2024)<!-- GAME:END -->
+ - [Former PlayStation boss calls exclusivity the industry&#39;s &#39;Achilles&#39; heel … Helldivers 2 has shown that&#39;](https://www.pcgamer.com/gaming-industry/former-playstation-boss-calls-exclusivity-the-industrys-achilles-heel-helldivers-2-has-shown-that)
+ - [Kanto Ora review](https://www.pcgamer.com/hardware/speakers/kanto-ora-review)
+ - [Nvidia is finding NeMo in hot water as the GPU giant and its LLM toolkit are being sued for copyright infringement in the latest in a long line of AI lawsuits](https://www.pcgamer.com/software/ai/nvidia-is-finding-nemo-in-hot-water-as-the-gpu-giant-and-its-llm-toolkit-are-being-sued-for-copyright-infringement-in-the-latest-in-a-long-line-of-ai-lawsuits)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
