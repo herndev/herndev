@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future](http://9gag.com/gag/aGEP2G0)
- - ⏩ [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
- - 👉 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
+ - 💣 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
+ - ⏩ [How far we&#39;ve fallen](http://9gag.com/gag/avQb9LM)
+ - 👉 [Man I miss those days](http://9gag.com/gag/aeQXWVb)<!-- MEMES:END -->
 
 ---
 
