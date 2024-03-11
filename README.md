@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego unveils three big Super Mario sets coming in August](https://www.polygon.com/24094572/lego-super-mario-kart-king-boo-bowser-peachs-castle-sets-pre-order-buy-details)
- - [When does Genshin Impact 4.5 release?](https://www.polygon.com/genshin-impact-guides/24094723/version-4-5-patch-maintenance-time)
- - [MultiVersus returns in May, nearly a year after going offline](https://www.polygon.com/23933735/multiversus-announcement-relaunch-release-date-warner-bros)<!-- GAME:END -->
+ - [Oppenheimer took home Best Picture, and you can take the 4K Blu-ray home for just $20](https://www.polygon.com/deals/2024/3/11/24097143/oppenheimer-4k-bluray-best-picture-oscars-deal-discount)
+ - [Hogwarts Legacy dev tries to cool the community&#39;s excitement about the summer update, says it&#39;s just a &#39;small way of us showing appreciation&#39;](https://www.pcgamer.com/games/rpg/hogwarts-legacy-dev-tries-to-cool-the-communitys-excitement-about-the-summer-update-says-its-just-a-small-way-of-us-showing-appreciation)
+ - [US government report reveals how Discord, Roblox, Reddit and others co-operate with the FBI and Homeland Security over content like &#39;user-generated re-creations of mass shootings&#39;](https://www.pcgamer.com/software/platforms/us-government-report-reveals-how-discord-roblox-reddit-and-others-co-operate-with-the-fbi-and-homeland-security-over-content-like-user-generated-re-creations-of-mass-shootings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
