@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Influencers on Facebook, Instagram, TikTok, and other sites are promoting Chinese ecommerce sites like Pandabuy and DHGate that sell cheap counterfeit products &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240310/p9#a240310p9)
- - [Best Online Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-online-mattress/#ftag=CAD590a51e)
- - [The Kate Middleton Photo Controversy Is an Inexplicable Mess](https://www.wired.com/story/kate-middleton-photo-manipulation-conspiracy-theories/)<!-- TECH:END -->
+ - [Fortnite’s coming back to the iPhone later this year: Here’s how we got there](https://www.androidauthority.com/apple-unbans-epic-fortnite-ios-3423639/)
+ - [Oscars 2024 winners: Oppenheimer and Christopher Nolan lead the way](https://www.theverge.com/2024/3/10/24094772/oscars-2024-winners-list-oppenheimer-poor-things)
+ - [Influencers on Facebook, Instagram, Discord, Reddit, and TikTok are promoting Chinese ecommerce sites like Pandabuy, known for knockoffs, using affiliate links &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240310/p9#a240310p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
