@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG announces continued crackdowns on cheaters, user-generated content, a move to Unreal Engine 5, and the possibility of digging a hole like a chicken-hungry moleman](https://www.pcgamer.com/games/battle-royale/pubg-announces-continued-crackdowns-on-cheaters-user-generated-content-a-move-to-unreal-engine-5-and-the-possibility-of-digging-a-hole-like-a-chicken-hungry-moleman)
- - [Samsung does an Apple with its first Snapdragon X Elite laptop, suggesting the new Arm-based Windows machines aren&#39;t going to be a cheap alternative to x86](https://www.pcgamer.com/hardware/gaming-laptops/samsung-does-an-apple-with-its-first-snapdragon-x-elite-laptop-suggesting-the-new-arm-based-windows-machines-arent-going-to-be-a-cheap-alternative-to-x86)
- - [Xbox Insider Release Notes – Xbox App [2403.1000.44.0]](https://news.xbox.com/en-us/2024/03/11/xbox-insider-release-notes-xbox-app-2403-1000-44-0/)<!-- GAME:END -->
+ - [Pull Up to the Starting Line for Forza Motorsport Update 6](https://forza.net/news/forza-motorsport-update-6)
+ - [Blizzard reveals first look at Overwatch 2’s Cowboy Bebop crossover](https://www.polygon.com/24092249/overwatch-2-cowboy-bebop-skins-release-date)
+ - [The Best Mario Games, According To You](https://kotaku.com/best-mario-games-galaxy-world-64-sunshine-kart-odyssey-1851325267)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
