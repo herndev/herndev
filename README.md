@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to save culture from the algorithms, with Filterworld author Kyle Chayka](https://www.theverge.com/24094338/kyle-chayka-filterworld-algorithmic-recommendation-tiktok-instagram-culture-decoder-interview)
- - [Apple&#39;s Vision Pro and the Killer App Store](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)
- - [Reddit goes public: the latest updates on its IPO](https://www.theverge.com/24097069/reddit-ipo-public-investment-ai-training-data-google)<!-- TECH:END -->
+ - [Ikea Matter hub, SwitchBot Lock Pro, &amp; Mila air purifier on the HomeKit Insider podcast](https://appleinsider.com/articles/24/03/11/ikea-matter-hub-switchbot-lock-pro-mila-air-purifier-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [As global chip companies seek a backup to China, Malaysia becomes a surprise investment destination, thanks to a background in packaging, assembly, and testing &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p17#a240311p17)
+ - [Airbnb Bans All Indoor Security Cameras](https://www.wired.com/story/airbnb-indoor-security-camera-ban/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
