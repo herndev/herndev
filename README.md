@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
- - ⏩ [That describes everything happening at the border right now.](http://9gag.com/gag/aNwyjp4)
+ - 💣 [That describes everything happening at the border right now.](http://9gag.com/gag/aNwyjp4)
+ - ⏩ [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
  - 👉 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)<!-- MEMES:END -->
 
 ---
