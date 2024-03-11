@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google confirms Pixel 8a is coming with a key battery-related feature](https://www.androidauthority.com/google-confirms-pixel-8a-launch-3424191/)
  - [Fortnite’s coming back to the iPhone later this year: Here’s how we got there](https://www.androidauthority.com/apple-unbans-epic-fortnite-ios-3423639/)
- - [Oscars 2024 winners: Oppenheimer and Christopher Nolan lead the way](https://www.theverge.com/2024/3/10/24094772/oscars-2024-winners-list-oppenheimer-poor-things)
- - [Influencers on Facebook, Instagram, Discord, Reddit, and TikTok are promoting Chinese ecommerce sites like Pandabuy, known for knockoffs, using affiliate links &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240310/p9#a240310p9)<!-- TECH:END -->
+ - [Oscars 2024 winners: Oppenheimer and Christopher Nolan lead the way](https://www.theverge.com/2024/3/10/24094772/oscars-2024-winners-list-oppenheimer-poor-things)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
