@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
- - ⏩ [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
+ - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - ⏩ [Kowalski analysis](http://9gag.com/gag/aZD9doz)
+ - 👉 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)<!-- MEMES:END -->
 
 ---
 
