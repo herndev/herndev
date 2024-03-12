@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget this legend](http://9gag.com/gag/adP34nV)
+ - 💣 [Learn something new everyday!](http://9gag.com/gag/aGEPbb5)
  - ⏩ [First time ?](http://9gag.com/gag/aA0nqpL)
- - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
+ - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
 
 ---
 
