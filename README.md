@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;£525 down, but for history and my collection, it&#39;s worth it&#39;: Free Radical&#39;s cancelled version of TimeSplitters 4 was discovered on eBay and is now playable](https://www.pcgamer.com/games/fps/pound525-down-but-for-history-and-my-collection-its-worth-it-free-radicals-cancelled-version-of-timesplitters-4-was-discovered-on-ebay-and-is-now-playable)
  - [Today&#39;s Wordle answer for Tuesday, March 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-12-2024)
- - [Former Xbox boss Peter Moore says Gen Z may reject new consoles in favor of smartphones and PCs](https://www.pcgamer.com/gaming-industry/peter-moore-last-console-generation)
- - [Games industry should be &#39;less cautious,&#39; says maker of experimental game about exploring a swimming pool dimension](https://www.pcgamer.com/games/adventure/games-industry-should-be-less-cautious-says-maker-of-experimental-game-about-exploring-a-swimming-pool-dimension)<!-- GAME:END -->
+ - [Former Xbox boss Peter Moore says Gen Z may reject new consoles in favor of smartphones and PCs](https://www.pcgamer.com/gaming-industry/peter-moore-last-console-generation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
