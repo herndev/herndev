@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - ⏩ [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
+ - 💣 [Show me what you got](http://9gag.com/gag/a2KQx7E)
+ - ⏩ [Learn something new everyday!](http://9gag.com/gag/aGEPbb5)
+ - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
 
 ---
 
