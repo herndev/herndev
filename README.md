@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is this and why?](http://9gag.com/gag/aGEP7x7)
- - ⏩ [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 👉 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)<!-- MEMES:END -->
+ - 💣 [Wooden Candy Crush](http://9gag.com/gag/aeQXq65)
+ - ⏩ [How to keep European women safe.](http://9gag.com/gag/az26Dwj)
+ - 👉 [Kowalski analysis](http://9gag.com/gag/aZD9doz)<!-- MEMES:END -->
 
 ---
 
