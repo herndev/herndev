@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - ⏩ [Image from 1945 shows German war criminals laugh at a translation mistake during the Nuremberg Trials.](http://9gag.com/gag/abvjmpp)
- - 👉 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)<!-- MEMES:END -->
+ - 💣 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - ⏩ [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 👉 [It is not about the money, it is about sending a message...](http://9gag.com/gag/aBdDvEO)<!-- MEMES:END -->
 
 ---
 
