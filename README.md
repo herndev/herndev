@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - ⏩ [Kowalski analysis](http://9gag.com/gag/aZD9doz)
- - 👉 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)<!-- MEMES:END -->
+ - 💣 [The trust in humanity is restored...](http://9gag.com/gag/aYVznPw)
+ - ⏩ [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 👉 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)<!-- MEMES:END -->
 
 ---
 
