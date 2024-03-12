@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take On the Mirror Borg in Star Trek Online: Both Worlds, Out On Xbox Today](https://news.xbox.com/en-us/2024/03/12/take-on-the-mirror-borg-in-star-trek-online-both-worlds-out-on-xbox-today/)
- - [Helldivers 2&#39;s latest major order gives players the chance to permanently rid a sector of bugs with a planet-sized pesticide system](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-latest-major-order-gives-players-the-chance-to-permanently-rid-a-sector-of-bugs-with-a-planet-sized-pesticide-system)
- - [Behind the Art of the Overwatch 2 x Cowboy Bebop Collab](https://news.xbox.com/en-us/2024/03/12/behind-the-art-of-the-overwatch-2-x-cowboy-bebop-collab/)<!-- GAME:END -->
+ - [Final Fantasy 14 won&#39;t let you blast past its story for free anytime soon because Yoshi-P worried &#39;the value of the game itself will be diminished&#39;](https://www.pcgamer.com/games/mmo/final-fantasy-14-wont-let-you-blast-past-its-story-for-free-anytime-soon-because-yoshi-p-worried-the-value-of-the-game-itself-will-be-diminished)
+ - [Stardew Valley Fans Going Bananas After One Line From 1.6 Patch Notes](https://kotaku.com/stardew-valley-16-update-patch-fruit-trees-1851328916)
+ - [Yoshi-P really wants Final Fantasy 14 to have more crossover content with Final Fantasy 7, but he&#39;s waiting for the remakes to wrap up first](https://www.pcgamer.com/games/mmo/yoshi-p-really-wants-final-fantasy-14-to-have-more-crossover-content-with-final-fantasy-7-but-hes-waiting-for-the-remakes-to-wrap-up-first)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
