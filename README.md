@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Google Messages feature lets you make anyone a ‘green’ bubble](https://www.androidauthority.com/google-messages-chat-bubble-colors-3423270/)
- - [March Pixel feature drop starts rolling out in the US](https://www.androidauthority.com/march-pixel-feature-drop-us-rollout-started-3424576/)
- - [The next Galaxy Watch could go squarely back to its roots](https://www.androidauthority.com/samsung-galaxy-watch-square-shape-3424571/)<!-- TECH:END -->
+ - [A survey of US teens: 38% say they spend too much time on their phone, vs. 27% for too much social media; girls are more likely to report too much phone time &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240312/p3#a240312p3)
+ - [Analysis: TikTok app code shows a separate TikTok Photos app, a potential Instagram rival that syncs with the main app and may launch &quot;soon&quot; on iOS and Android &lpar;The SP Android&rpar;](http://www.techmeme.com/240312/p2#a240312p2)
+ - [Rabbit R1’s note-taking demo gives us a glimpse into an AI-driven, app-less future](https://www.androidauthority.com/rabbit-r1-ai-note-taking-demo-3424601/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
