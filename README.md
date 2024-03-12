@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - ⏩ [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
+ - 💣 [The comment heard round the world. She\u2019s still regretting that one.](http://9gag.com/gag/aOx6NpM)
+ - ⏩ [Google&#39;s new quantum computer is 241 million times faster than the one released in 2019.](http://9gag.com/gag/avQbDOZ)
+ - 👉 [And then brings sword from the Witcher](http://9gag.com/gag/aQEYD07)<!-- MEMES:END -->
 
 ---
 
