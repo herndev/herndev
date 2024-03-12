@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - ⏩ [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 👉 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
+ - 💣 [What is this and why?](http://9gag.com/gag/aGEP7x7)
+ - ⏩ [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 👉 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)<!-- MEMES:END -->
 
 ---
 
