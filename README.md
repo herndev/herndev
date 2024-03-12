@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Contacts gets a cleaner look for connected apps](https://www.androidauthority.com/google-contacts-cleaner-connected-apps-3424451/)
- - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)
- - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
+ - [Best Reef-Safe Sunscreens for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
+ - [Google Contacts gets a cleaner look for connected apps](https://www.androidauthority.com/google-contacts-cleaner-connected-apps-3424451/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
