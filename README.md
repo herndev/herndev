@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - ⏩ [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
+ - 💣 [Sing Sing Sing - Kyoto Tachibana SHS Band](http://9gag.com/gag/aXn8GZg)
+ - ⏩ [Karma\u2019s a b*tch.](http://9gag.com/gag/aA0nNWo)
+ - 👉 [How to keep European women safe.](http://9gag.com/gag/az26Dwj)<!-- MEMES:END -->
 
 ---
 
