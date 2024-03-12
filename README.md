@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scream brings back Neve Campbell as franchise returns to the drawing board, again](https://www.polygon.com/24098857/scream-7-neve-campbell-franchise-reboot-again)
- - [Helldivers 2 Is Addressing Its Bug Problem In More Than One Way](https://kotaku.com/helldivers-2-patch-terminid-control-system-major-order-1851329775)
- - [Fortnite’s old map locations are weirdly sad right now](https://www.polygon.com/24098568/fortnite-players-nostalgic-chapter-5-season-1-map-tiktok)<!-- GAME:END -->
+ - [Scott Whiskers in: the Search for Mr. Fumbleclaw – Start Your Search on March 21](https://news.xbox.com/en-us/2024/03/12/scott-whiskers-in-the-search-for-mr-fumbleclaw-start-your-search-on-march-21/)
+ - [Andrew Tate Arrested After Streamer Adin Ross Blabs His Escape Plan](https://kotaku.com/kick-streamer-adin-ross-andrew-tate-arrest-romania-1851329983)
+ - [Baldur&#39;s Gate 3](https://www.pcgamer.com/baldur-s-gate-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
