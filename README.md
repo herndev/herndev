@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wooden Candy Crush](http://9gag.com/gag/aeQXq65)
- - ⏩ [How to keep European women safe.](http://9gag.com/gag/az26Dwj)
- - 👉 [Kowalski analysis](http://9gag.com/gag/aZD9doz)<!-- MEMES:END -->
+ - 💣 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
+ - ⏩ [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
+ - 👉 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)<!-- MEMES:END -->
 
 ---
 
