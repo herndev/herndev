@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive into the Raw Fury Xbox Publisher Spotlight Sale – Up to 80% off](https://news.xbox.com/en-us/2024/03/12/raw-fury-xbox-publisher-spotlight-sale/)
- - [Why Friendly Fire Is Always On, According To Helldivers 2’s Devs](https://kotaku.com/helldivers-2-friendly-fire-always-on-arrowhead-ps5-pc-1851329269)
- - [May I direct your attention to these perfect Kirby mini toys at Amazon?](https://www.polygon.com/deals/24098418/kirby-toys-miniature-rement-amazon)<!-- GAME:END -->
+ - [The Taste of Things and other movies where food has never looked better](https://www.polygon.com/24093402/taste-of-things-movies-with-good-food)
+ - [X-Men ’97’s showrunner has been fired a week before its premiere](https://www.polygon.com/24098834/x-men-97-creator-fired-why)
+ - [What time does Helldivers 2’s Cutting Edge Warbond release?](https://www.polygon.com/guides/2024/3/12/24097371/helldivers-2-cutting-edge-warbond-start-time-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
