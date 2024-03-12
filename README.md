@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What is general intelligence in the world of AI and computers? The race for the artificial mind explained](https://www.pcgamer.com/software/ai/general-intelligence-explained)
  - [One of the biggest Fallout modding projects in years is about to release, and if it goes wrong it could &#39;kill the Fallout modding scene&#39;](https://www.pcgamer.com/games/rpg/one-of-the-biggest-fallout-modding-projects-in-years-is-about-to-release-and-if-it-goes-wrong-it-could-kill-the-fallout-modding-scene)
- - [Helldivers 2 patch finally tackles its infamous tank infestation, tweaks chargers so players can aim for the head instead of busting kneecaps](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-finally-tackles-its-infamous-tank-infestation-tweaks-chargers-so-players-can-aim-for-the-head-instead-of-busting-kneecaps)
- - [&#39;£525 down, but for history and my collection, it&#39;s worth it&#39;: Free Radical&#39;s cancelled version of TimeSplitters 4 was discovered on eBay and is now playable](https://www.pcgamer.com/games/fps/pound525-down-but-for-history-and-my-collection-its-worth-it-free-radicals-cancelled-version-of-timesplitters-4-was-discovered-on-ebay-and-is-now-playable)<!-- GAME:END -->
+ - [Helldivers 2 patch finally tackles its infamous tank infestation, tweaks chargers so players can aim for the head instead of busting kneecaps](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-finally-tackles-its-infamous-tank-infestation-tweaks-chargers-so-players-can-aim-for-the-head-instead-of-busting-kneecaps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
