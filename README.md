@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OneDrive might be getting a Pixel-style Magic Eraser tool as well &lpar;APK teardown&rpar;](https://www.androidauthority.com/onedrive-magic-erase-tool-apk-teardown-3424775/)
- - [A top auto safety group tested 14 partial automated systems — only one passed](https://www.theverge.com/2024/3/12/24098394/iihs-partial-automated-test-rank-ford-gm-tesla)
- - [Self-driving startup Applied Intuition raised a $250M Series E led by Lux, Elad Gil, and Porsche at a $6B valuation and works with &quot;18 of the top 20 automakers&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240312/p19#a240312p19)<!-- TECH:END -->
+ - [Record deal as latest Acer Aspire 3 dips to just $299.99](https://www.androidauthority.com/deal-acer-aspire-3-3424811/)
+ - [The EU Council confirms lifting sanctions on Yandex co-founder Arkady Volozh and two others; Volozh was sanctioned in June 2023 and then stepped down as CEO &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/240312/p22#a240312p22)
+ - [WhatsApp may raise the limit on pinned chats soon](https://www.androidauthority.com/whatsapp-pinned-chats-3424805/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
