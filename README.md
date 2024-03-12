@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cheaters have spoiled Diablo 4&#39;s new leaderboards and players are begging Blizzard to fix it quickly](https://www.pcgamer.com/games/action/cheaters-have-spoiled-diablo-4s-new-leaderboards-and-players-are-begging-blizzard-to-fix-it-quickly)
- - [The new Contra: Operation Galuga crushed my skepticism with new ideas that actually work](https://www.pcgamer.com/games/action/the-new-contra-operation-galuga-crushed-my-skepticism-with-new-ideas-that-actually-work)
- - [Rise of the Ronin hands-on report: Team Ninja’s first open-world is a wandering swordsman’s playground](https://blog.playstation.com/2024/03/11/rise-of-the-ronin-hands-on-report-team-ninjas-first-open-world-is-a-wandering-swordsmans-playground/)<!-- GAME:END -->
+ - [Ghostbusters cosmetics are coming to Destiny 2 next week because Sony owns &#39;em both and that&#39;s how these things work](https://www.pcgamer.com/games/fps/ghostbusters-cosmetics-are-coming-to-destiny-2-next-week-because-sony-owns-em-both-and-thats-how-these-things-work)
+ - [The perfect, simple, microtransaction-free throwback to CoD Zombies has finally launched in early access, and it&#39;s $9](https://www.pcgamer.com/games/fps/the-perfect-simple-microtransaction-free-throwback-to-cod-zombies-has-finally-launched-in-early-access-and-its-dollar9)
+ - [Cheaters have spoiled Diablo 4&#39;s new leaderboards and players are begging Blizzard to fix it quickly](https://www.pcgamer.com/games/action/cheaters-have-spoiled-diablo-4s-new-leaderboards-and-players-are-begging-blizzard-to-fix-it-quickly)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
