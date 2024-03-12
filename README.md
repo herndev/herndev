@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Physical Intelligence, a startup making an AI model for &quot;any robot or physical device&quot;, has raised $70M from Thrive, Khosla, Lux, OpenAI, Sequoia, more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240312/p25#a240312p25)
- - [US Lawmaker Cited NYC Protests in a Defense of Warrantless Spying](https://www.wired.com/story/hpsci-us-protests-section-702-presentation/)
- - [Galaxy S24 soars: Sales jump 14% over the S23 in the US](https://www.androidauthority.com/galaxy-s24-sales-increase-3424835/)<!-- TECH:END -->
+ - [Sources: the Pentagon abandoned its plan to spend as much as $2.5B on a chip grant to Intel, putting the onus on the Commerce Dept. to make up for the shortfall &lpar;Bloomberg&rpar;](http://www.techmeme.com/240312/p28#a240312p28)
+ - [As TikTok faces a divestment bill in the US, a look at how lawmakers and the Biden administration quietly planned the legislation and caught TikTok by surprise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240312/p27#a240312p27)
+ - [Apple Square One retail store in Toronto moving to larger location](https://appleinsider.com/articles/24/03/12/apple-square-one-retail-store-in-toronto-moving-to-larger-location?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
