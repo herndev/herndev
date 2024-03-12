@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord opens up to games and apps embedded in its chat app](https://www.theverge.com/2024/3/12/24098262/discord-embedded-apps-games-sdk-developers)
- - [AT&amp;T app update reveals add-on that prioritizes your network for a price](https://www.androidauthority.com/att-turbo-add-on-3424749/)
- - [Roku hackers breach 15,000 accounts and are selling them online](https://www.theverge.com/2024/3/12/24098398/roku-hackers-breach-credit-card-info)<!-- TECH:END -->
+ - [OneDrive might be getting a Pixel-style Magic Eraser tool as well &lpar;APK teardown&rpar;](https://www.androidauthority.com/onedrive-magic-erase-tool-apk-teardown-3424775/)
+ - [A top auto safety group tested 14 partial automated systems — only one passed](https://www.theverge.com/2024/3/12/24098394/iihs-partial-automated-test-rank-ford-gm-tesla)
+ - [Self-driving startup Applied Intuition raised a $250M Series E led by Lux, Elad Gil, and Porsche at a $6B valuation and works with &quot;18 of the top 20 automakers&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240312/p19#a240312p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
