@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Former Xbox boss Peter Moore says Gen Z may reject new consoles in favor of smartphones and PCs](https://www.pcgamer.com/gaming-industry/peter-moore-last-console-generation)
  - [Games industry should be &#39;less cautious,&#39; says maker of experimental game about exploring a swimming pool dimension](https://www.pcgamer.com/games/adventure/games-industry-should-be-less-cautious-says-maker-of-experimental-game-about-exploring-a-swimming-pool-dimension)
- - [Ghostbusters cosmetics are coming to Destiny 2 next week because Sony owns &#39;em both and that&#39;s how these things work](https://www.pcgamer.com/games/fps/ghostbusters-cosmetics-are-coming-to-destiny-2-next-week-because-sony-owns-em-both-and-thats-how-these-things-work)
- - [The perfect, simple, microtransaction-free throwback to CoD Zombies has finally launched in early access, and it&#39;s $9](https://www.pcgamer.com/games/fps/the-perfect-simple-microtransaction-free-throwback-to-cod-zombies-has-finally-launched-in-early-access-and-its-dollar9)<!-- GAME:END -->
+ - [Ghostbusters cosmetics are coming to Destiny 2 next week because Sony owns &#39;em both and that&#39;s how these things work](https://www.pcgamer.com/games/fps/ghostbusters-cosmetics-are-coming-to-destiny-2-next-week-because-sony-owns-em-both-and-thats-how-these-things-work)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
