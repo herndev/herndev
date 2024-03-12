@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record deal as latest Acer Aspire 3 dips to just $299.99](https://www.androidauthority.com/deal-acer-aspire-3-3424811/)
- - [The EU Council confirms lifting sanctions on Yandex co-founder Arkady Volozh and two others; Volozh was sanctioned in June 2023 and then stepped down as CEO &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/240312/p22#a240312p22)
- - [WhatsApp may raise the limit on pinned chats soon](https://www.androidauthority.com/whatsapp-pinned-chats-3424805/)<!-- TECH:END -->
+ - [M3 MacBook Air deals: save up to $190 on every config with AppleCare](https://appleinsider.com/articles/24/03/12/m3-macbook-air-deals-save-up-to-190-on-every-config-with-applecare?utm_medium=rss)
+ - [Roku data breach: Over 15,000 accounts hacked, information sold for pennies](https://www.androidauthority.com/roku-data-breach-3424823/)
+ - [Another Apple supplier hit by cancellation of a massive micro LED delivery project](https://appleinsider.com/articles/24/03/12/another-apple-supplier-hit-by-cancellation-of-a-massive-micro-led-delivery-project?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
