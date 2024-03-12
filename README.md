@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DHS wants $101 million to upgrade its border surveillance towers](https://www.theverge.com/2024/3/12/24098881/dhs-border-ai-surveillance-towers-ist)
- - [Bluesky open sources its collaborative moderation tool Ozone and plans to let users run their own independent moderation services later this week &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p30#a240312p30)
- - [How Rivian Is Pulling Off Its $45,000 Electric SUV](https://www.wired.com/story/how-rivian-is-pulling-off-its-45k-electric-suv/)<!-- TECH:END -->
+ - [Perplexity brings Yelp data to its chatbot](https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai)
+ - [Radio is seeing red](https://www.theverge.com/2024/3/12/24098990/radio-public-layoffs-wbur-npr-rooster-teeth-zaslov-warner-brothers)
+ - [Letter: Chamath Palihapitiya&#39;s VC firm Social Capital said it fired two of its partners, citing an undisclosed &quot;situation&quot;, and hired a law firm to investigate &lpar;Bloomberg&rpar;](http://www.techmeme.com/240312/p31#a240312p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
