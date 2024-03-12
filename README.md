@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - ⏩ [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
- - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
+ - 💣 [Zookeeper Attacked By Crocodile, Brave Visitor Rushes in to Help](http://9gag.com/gag/aMEpyWA)
+ - ⏩ [The comment heard round the world. She\u2019s still regretting that one.](http://9gag.com/gag/aOx6NpM)
+ - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
 
 ---
 
