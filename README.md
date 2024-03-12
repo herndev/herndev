@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This new Google Messages feature lets you make anyone a ‘green’ bubble](https://www.androidauthority.com/google-messages-chat-bubble-colors-3423270/)
  - [March Pixel feature drop starts rolling out in the US](https://www.androidauthority.com/march-pixel-feature-drop-us-rollout-started-3424576/)
- - [The next Galaxy Watch could go squarely back to its roots](https://www.androidauthority.com/samsung-galaxy-watch-square-shape-3424571/)
- - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The next Galaxy Watch could go squarely back to its roots](https://www.androidauthority.com/samsung-galaxy-watch-square-shape-3424571/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
