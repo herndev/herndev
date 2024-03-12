@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
- - ⏩ [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
- - 👉 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)<!-- MEMES:END -->
+ - 💣 [It really is a mystery](http://9gag.com/gag/a7qjnM2)
+ - ⏩ [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 👉 [12 years later](http://9gag.com/gag/aGEPo1G)<!-- MEMES:END -->
 
 ---
 
