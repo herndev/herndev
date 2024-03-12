@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, March 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-12-2024)
  - [Former Xbox boss Peter Moore says Gen Z may reject new consoles in favor of smartphones and PCs](https://www.pcgamer.com/gaming-industry/peter-moore-last-console-generation)
- - [Games industry should be &#39;less cautious,&#39; says maker of experimental game about exploring a swimming pool dimension](https://www.pcgamer.com/games/adventure/games-industry-should-be-less-cautious-says-maker-of-experimental-game-about-exploring-a-swimming-pool-dimension)
- - [Ghostbusters cosmetics are coming to Destiny 2 next week because Sony owns &#39;em both and that&#39;s how these things work](https://www.pcgamer.com/games/fps/ghostbusters-cosmetics-are-coming-to-destiny-2-next-week-because-sony-owns-em-both-and-thats-how-these-things-work)<!-- GAME:END -->
+ - [Games industry should be &#39;less cautious,&#39; says maker of experimental game about exploring a swimming pool dimension](https://www.pcgamer.com/games/adventure/games-industry-should-be-less-cautious-says-maker-of-experimental-game-about-exploring-a-swimming-pool-dimension)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
