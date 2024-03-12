@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;£525 down, but for history and my collection, it&#39;s worth it&#39;: Free Radical&#39;s cancelled version of TimeSplitters 4 was discovered on eBay and is now playable](https://www.pcgamer.com/games/fps/pound525-down-but-for-history-and-my-collection-its-worth-it-free-radicals-cancelled-version-of-timesplitters-4-was-discovered-on-ebay-and-is-now-playable)
- - [Today&#39;s Wordle answer for Tuesday, March 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-12-2024)
- - [Former Xbox boss Peter Moore says Gen Z may reject new consoles in favor of smartphones and PCs](https://www.pcgamer.com/gaming-industry/peter-moore-last-console-generation)<!-- GAME:END -->
+ - [One of the biggest Fallout modding projects in years is about to release, and if it goes wrong it could &#39;kill the Fallout modding scene&#39;](https://www.pcgamer.com/games/rpg/one-of-the-biggest-fallout-modding-projects-in-years-is-about-to-release-and-if-it-goes-wrong-it-could-kill-the-fallout-modding-scene)
+ - [Helldivers 2 patch finally tackles its infamous tank infestation, tweaks chargers so players can aim for the head instead of busting kneecaps](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-finally-tackles-its-infamous-tank-infestation-tweaks-chargers-so-players-can-aim-for-the-head-instead-of-busting-kneecaps)
+ - [&#39;£525 down, but for history and my collection, it&#39;s worth it&#39;: Free Radical&#39;s cancelled version of TimeSplitters 4 was discovered on eBay and is now playable](https://www.pcgamer.com/games/fps/pound525-down-but-for-history-and-my-collection-its-worth-it-free-radicals-cancelled-version-of-timesplitters-4-was-discovered-on-ebay-and-is-now-playable)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
