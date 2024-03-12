@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From satellite support to water resistance, this new foldable could be a huge upgrade](https://www.androidauthority.com/xiaomi-mix-fold-4-leaked-specs-3424710/)
- - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
- - [Apple Arcade&#39;s April additions include two with Apple Vision Pro support](https://appleinsider.com/articles/24/03/12/apple-arcades-april-additions-include-two-with-apple-vision-pro-support?utm_medium=rss)<!-- TECH:END -->
+ - [Discord opens up to games and apps embedded in its chat app](https://www.theverge.com/2024/3/12/24098262/discord-embedded-apps-games-sdk-developers)
+ - [AT&amp;T app update reveals add-on that prioritizes your network for a price](https://www.androidauthority.com/att-turbo-add-on-3424749/)
+ - [Roku hackers breach 15,000 accounts and are selling them online](https://www.theverge.com/2024/3/12/24098398/roku-hackers-breach-credit-card-info)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
