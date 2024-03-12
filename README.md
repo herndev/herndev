@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US teens: 38% say they spend too much time on their phone, vs. 27% for too much social media; girls are more likely to report too much phone time &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240312/p3#a240312p3)
- - [Analysis: TikTok app code shows a separate TikTok Photos app, a potential Instagram rival that syncs with the main app and may launch &quot;soon&quot; on iOS and Android &lpar;The SP Android&rpar;](http://www.techmeme.com/240312/p2#a240312p2)
- - [Rabbit R1’s note-taking demo gives us a glimpse into an AI-driven, app-less future](https://www.androidauthority.com/rabbit-r1-ai-note-taking-demo-3424601/)<!-- TECH:END -->
+ - [An Autopilot trial over a fatal 2018 crash, starting next week, may show Tesla did not study how fast drivers can retake control, testing Tesla&#39;s safety claims &lpar;Reuters&rpar;](http://www.techmeme.com/240312/p6#a240312p6)
+ - [First Yuzu, now other emulators for Android are being pulled or shut down](https://www.androidauthority.com/emulators-for-android-shut-down-pulled-play-store-3424602/)
+ - [Google, Apple, Mozilla, and Microsoft release Speedometer 3.0, a benchmark to &quot;create a shared understanding of web performance&quot;, after Speedometer 2.0 in 2018 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240312/p5#a240312p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
