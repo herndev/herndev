@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It really is a mystery](http://9gag.com/gag/a7qjnM2)
- - ⏩ [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 👉 [12 years later](http://9gag.com/gag/aGEPo1G)<!-- MEMES:END -->
+ - 💣 [Never forget this legend](http://9gag.com/gag/adP34nV)
+ - ⏩ [First time ?](http://9gag.com/gag/aA0nqpL)
+ - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
 
 ---
 
