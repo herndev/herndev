@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Taste of Things and other movies where food has never looked better](https://www.polygon.com/24093402/taste-of-things-movies-with-good-food)
- - [X-Men ’97’s showrunner has been fired a week before its premiere](https://www.polygon.com/24098834/x-men-97-creator-fired-why)
- - [What time does Helldivers 2’s Cutting Edge Warbond release?](https://www.polygon.com/guides/2024/3/12/24097371/helldivers-2-cutting-edge-warbond-start-time-release-date)<!-- GAME:END -->
+ - [Scream brings back Neve Campbell as franchise returns to the drawing board, again](https://www.polygon.com/24098857/scream-7-neve-campbell-franchise-reboot-again)
+ - [Helldivers 2 Is Addressing Its Bug Problem In More Than One Way](https://kotaku.com/helldivers-2-patch-terminid-control-system-major-order-1851329775)
+ - [Fortnite’s old map locations are weirdly sad right now](https://www.polygon.com/24098568/fortnite-players-nostalgic-chapter-5-season-1-map-tiktok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
