@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - ⏩ [Learn something new everyday!](http://9gag.com/gag/aGEPbb5)
+ - ⏩ [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
  - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
 
 ---
