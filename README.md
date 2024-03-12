@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Google Contacts gets a cleaner look for connected apps](https://www.androidauthority.com/google-contacts-cleaner-connected-apps-3424451/)
  - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)
- - [Samsung gears up for Galaxy Ring launch with aggressive production push, likely sale date revealed](https://www.androidauthority.com/samsung-galaxy-ring-launch-sale-3424545/)<!-- TECH:END -->
+ - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
