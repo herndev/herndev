@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung gears up for Galaxy Ring launch with aggressive production push, likely sale date revealed](https://www.androidauthority.com/samsung-galaxy-ring-launch-sale-3424545/)
  - [Sources: Samsung and SK Hynix are storing, instead of selling, second-hand chipmaking machines over fears of breaking US export controls and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p30#a240311p30)
- - [How to use the new transcripts feature in Apple Podcasts](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-transcripts-feature-in-apple-podcasts?utm_medium=rss)
- - [As Google removes nonconsensual deepfake porn video URLs after complaints, experts urge Google to remove the biggest deepfake sites from search results entirely &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240311/p29#a240311p29)<!-- TECH:END -->
+ - [How to use the new transcripts feature in Apple Podcasts](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-transcripts-feature-in-apple-podcasts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
