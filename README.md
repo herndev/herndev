@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warner holds on to Studio Ghibli movies, thanks to multiyear Max streaming deal](https://www.polygon.com/anime/24098400/max-where-studio-ghibli-streaming-new-2024-deal)
- - [Helldivers 2&#39;s armoured bugs and terrifying tanks can crush you flat, but that&#39;s why I love them so](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-armoured-bugs-and-terrifying-tanks-can-crush-you-flat-but-thats-why-i-love-them-so)
- - [Microsoft says AI data privacy lawsuit &#39;devotes 198 pages to doomsday hyperbole about AI as a threat to civilization&#39;](https://www.pcgamer.com/software/ai/microsoft-says-ai-data-privacy-lawsuit-devotes-198-pages-to-doomsday-hyperbole-about-ai-as-a-threat-to-civilization)<!-- GAME:END -->
+ - [Take On the Mirror Borg in Star Trek Online: Both Worlds, Out On Xbox Today](https://news.xbox.com/en-us/2024/03/12/take-on-the-mirror-borg-in-star-trek-online-both-worlds-out-on-xbox-today/)
+ - [Helldivers 2&#39;s latest major order gives players the chance to permanently rid a sector of bugs with a planet-sized pesticide system](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-latest-major-order-gives-players-the-chance-to-permanently-rid-a-sector-of-bugs-with-a-planet-sized-pesticide-system)
+ - [Behind the Art of the Overwatch 2 x Cowboy Bebop Collab](https://news.xbox.com/en-us/2024/03/12/behind-the-art-of-the-overwatch-2-x-cowboy-bebop-collab/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
