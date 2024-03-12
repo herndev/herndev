@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An Older &lpar;But Still Badass&rpar; Akuma Is Coming To Street Fighter 6](https://kotaku.com/street-fighter-6-new-fighter-akuma-1851327969)
- - [RTX Remix &#39;is the great equaliser&#39; bringing veteran and hobbyist devs together to remaster the most beloved and best PC games](https://www.pcgamer.com/hardware/nvidia-rtx-remix-the-great-equaliser)
- - [Star Wars Jedi director starts new studio with a bunch of ex-Respawn talent](https://www.polygon.com/24097746/respawn-stig-asmussen-new-studio-giant-skull)<!-- GAME:END -->
+ - [Warner holds on to Studio Ghibli movies, thanks to multiyear Max streaming deal](https://www.polygon.com/anime/24098400/max-where-studio-ghibli-streaming-new-2024-deal)
+ - [Helldivers 2&#39;s armoured bugs and terrifying tanks can crush you flat, but that&#39;s why I love them so](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-armoured-bugs-and-terrifying-tanks-can-crush-you-flat-but-thats-why-i-love-them-so)
+ - [Microsoft says AI data privacy lawsuit &#39;devotes 198 pages to doomsday hyperbole about AI as a threat to civilization&#39;](https://www.pcgamer.com/software/ai/microsoft-says-ai-data-privacy-lawsuit-devotes-198-pages-to-doomsday-hyperbole-about-ai-as-a-threat-to-civilization)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
