@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple caves, EU developers will be able to sell apps directly from their websites](https://appleinsider.com/articles/24/03/12/apple-caves-eu-developers-will-be-able-to-sell-apps-directly-from-their-websites?utm_medium=rss)
- - [The IRS launches Direct File, a free online tool to let some taxpayers in 12 US states file their federal income taxes; the IRS says 19M people may be eligible &lpar;Associated Press&rpar;](http://www.techmeme.com/240312/p10#a240312p10)
- - [People didn’t buy the Pixel 8 for Gemini Nano, but the lack of it is not something to ignore](https://www.androidauthority.com/google-pixe-8-gemini-nano-survey-results-3424590/)<!-- TECH:END -->
+ - [Epic details new Unreal Engine pricing plan for non-game developers](https://www.theverge.com/2024/3/12/24098279/epic-unreal-engine-pricing-plan-non-game-developers-twinmotion-realitycapture)
+ - [Motorola’s newest budget phones look surprisingly good](https://www.theverge.com/2024/3/12/24097606/motorola-moto-g-5g-power-price-screen-battery)
+ - [Gazelle launches ‘first and only’ Class 3 e-bike with Bosch Smart System in the US](https://www.theverge.com/24080048/gazelle-class-3-bosch-smart-system-us-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
