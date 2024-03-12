@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is general intelligence in the world of AI and computers? The race for the artificial mind explained](https://www.pcgamer.com/software/ai/general-intelligence-explained)
- - [One of the biggest Fallout modding projects in years is about to release, and if it goes wrong it could &#39;kill the Fallout modding scene&#39;](https://www.pcgamer.com/games/rpg/one-of-the-biggest-fallout-modding-projects-in-years-is-about-to-release-and-if-it-goes-wrong-it-could-kill-the-fallout-modding-scene)
- - [Helldivers 2 patch finally tackles its infamous tank infestation, tweaks chargers so players can aim for the head instead of busting kneecaps](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-finally-tackles-its-infamous-tank-infestation-tweaks-chargers-so-players-can-aim-for-the-head-instead-of-busting-kneecaps)<!-- GAME:END -->
+ - [All Card Carnival puzzle solutions in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24072403/card-carnival-solutions-costa-del-sol-queens-blood)
+ - [Team Fortress 2 voice actors perform &#39;Sandvich Blues&#39;, a sorrowful ode to a lost lunch](https://www.pcgamer.com/games/fps/team-fortress-2-actors-perform-sandvich-blues-a-sorrowful-ode-to-a-lost-lunch)
+ - [Elon Musk calls OpenAI &#39;a lie&#39; after announcing plans to make his &#39;spicy&#39; ChatGPT rival open-source this week](https://www.pcgamer.com/software/ai/elon-musk-calls-openai-a-lie-after-announcing-plans-to-make-his-spicy-chatgpt-rival-open-source-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
