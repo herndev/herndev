@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 MacBook Air deals: save up to $190 on every config with AppleCare](https://appleinsider.com/articles/24/03/12/m3-macbook-air-deals-save-up-to-190-on-every-config-with-applecare?utm_medium=rss)
- - [Roku data breach: Over 15,000 accounts hacked, information sold for pennies](https://www.androidauthority.com/roku-data-breach-3424823/)
- - [Another Apple supplier hit by cancellation of a massive micro LED delivery project](https://appleinsider.com/articles/24/03/12/another-apple-supplier-hit-by-cancellation-of-a-massive-micro-led-delivery-project?utm_medium=rss)<!-- TECH:END -->
+ - [Grid’s framed, nostalgia-inducing gadgets are up to 40 percent off](https://www.theverge.com/2024/3/12/24097671/grid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale)
+ - [Meta details its two new data center scale clusters, both containing 24,576 Nvidia H100 GPUs that the company is using for AI workloads like training Llama 3 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240312/p24#a240312p24)
+ - [What’s Behind the Bitcoin Price Surge? Vibes, Mostly](https://www.wired.com/story/bitcoin-price-record-economics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
