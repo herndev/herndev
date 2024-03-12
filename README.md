@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - ⏩ [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
- - 👉 [It is not about the money, it is about sending a message...](http://9gag.com/gag/aBdDvEO)<!-- MEMES:END -->
+ - 💣 [The gladiator!](http://9gag.com/gag/aDYBPE7)
+ - ⏩ [Name this game](http://9gag.com/gag/aBdDbDO)
+ - 👉 [UK is so lost](http://9gag.com/gag/a04mzdO)<!-- MEMES:END -->
 
 ---
 
