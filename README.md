@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung gears up for Galaxy Ring launch with aggressive production push, likely sale date revealed](https://www.androidauthority.com/samsung-galaxy-ring-launch-sale-3424545/)
- - [Sources: Samsung and SK Hynix are storing, instead of selling, second-hand chipmaking machines over fears of breaking US export controls and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p30#a240311p30)
- - [How to use the new transcripts feature in Apple Podcasts](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-transcripts-feature-in-apple-podcasts?utm_medium=rss)<!-- TECH:END -->
+ - [Google Contacts gets a cleaner look for connected apps](https://www.androidauthority.com/google-contacts-cleaner-connected-apps-3424451/)
+ - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)
+ - [Samsung gears up for Galaxy Ring launch with aggressive production push, likely sale date revealed](https://www.androidauthority.com/samsung-galaxy-ring-launch-sale-3424545/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
