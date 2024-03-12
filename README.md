@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Learn something new everyday!](http://9gag.com/gag/aGEPbb5)
- - ⏩ [First time ?](http://9gag.com/gag/aA0nqpL)
- - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
+ - 💣 [First time ?](http://9gag.com/gag/aA0nqpL)
+ - ⏩ [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
+ - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
 
 ---
 
