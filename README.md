@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Card Carnival puzzle solutions in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24072403/card-carnival-solutions-costa-del-sol-queens-blood)
- - [Team Fortress 2 voice actors perform &#39;Sandvich Blues&#39;, a sorrowful ode to a lost lunch](https://www.pcgamer.com/games/fps/team-fortress-2-actors-perform-sandvich-blues-a-sorrowful-ode-to-a-lost-lunch)
- - [Elon Musk calls OpenAI &#39;a lie&#39; after announcing plans to make his &#39;spicy&#39; ChatGPT rival open-source this week](https://www.pcgamer.com/software/ai/elon-musk-calls-openai-a-lie-after-announcing-plans-to-make-his-spicy-chatgpt-rival-open-source-this-week)<!-- GAME:END -->
+ - [An Older &lpar;But Still Badass&rpar; Akuma Is Coming To Street Fighter 6](https://kotaku.com/street-fighter-6-new-fighter-akuma-1851327969)
+ - [RTX Remix &#39;is the great equaliser&#39; bringing veteran and hobbyist devs together to remaster the most beloved and best PC games](https://www.pcgamer.com/hardware/nvidia-rtx-remix-the-great-equaliser)
+ - [Star Wars Jedi director starts new studio with a bunch of ex-Respawn talent](https://www.polygon.com/24097746/respawn-stig-asmussen-new-studio-giant-skull)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
