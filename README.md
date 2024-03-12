@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 won&#39;t let you blast past its story for free anytime soon because Yoshi-P worried &#39;the value of the game itself will be diminished&#39;](https://www.pcgamer.com/games/mmo/final-fantasy-14-wont-let-you-blast-past-its-story-for-free-anytime-soon-because-yoshi-p-worried-the-value-of-the-game-itself-will-be-diminished)
- - [Stardew Valley Fans Going Bananas After One Line From 1.6 Patch Notes](https://kotaku.com/stardew-valley-16-update-patch-fruit-trees-1851328916)
- - [Yoshi-P really wants Final Fantasy 14 to have more crossover content with Final Fantasy 7, but he&#39;s waiting for the remakes to wrap up first](https://www.pcgamer.com/games/mmo/yoshi-p-really-wants-final-fantasy-14-to-have-more-crossover-content-with-final-fantasy-7-but-hes-waiting-for-the-remakes-to-wrap-up-first)<!-- GAME:END -->
+ - [Dive into the Raw Fury Xbox Publisher Spotlight Sale – Up to 80% off](https://news.xbox.com/en-us/2024/03/12/raw-fury-xbox-publisher-spotlight-sale/)
+ - [Why Friendly Fire Is Always On, According To Helldivers 2’s Devs](https://kotaku.com/helldivers-2-friendly-fire-always-on-arrowhead-ps5-pc-1851329269)
+ - [May I direct your attention to these perfect Kirby mini toys at Amazon?](https://www.polygon.com/deals/24098418/kirby-toys-miniature-rement-amazon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
