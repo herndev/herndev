@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Pentagon abandoned its plan to spend as much as $2.5B on a chip grant to Intel, putting the onus on the Commerce Dept. to make up for the shortfall &lpar;Bloomberg&rpar;](http://www.techmeme.com/240312/p28#a240312p28)
- - [As TikTok faces a divestment bill in the US, a look at how lawmakers and the Biden administration quietly planned the legislation and caught TikTok by surprise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240312/p27#a240312p27)
- - [Apple Square One retail store in Toronto moving to larger location](https://appleinsider.com/articles/24/03/12/apple-square-one-retail-store-in-toronto-moving-to-larger-location?utm_medium=rss)<!-- TECH:END -->
+ - [DHS wants $101 million to upgrade its border surveillance towers](https://www.theverge.com/2024/3/12/24098881/dhs-border-ai-surveillance-towers-ist)
+ - [Bluesky open sources its collaborative moderation tool Ozone and plans to let users run their own independent moderation services later this week &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p30#a240312p30)
+ - [How Rivian Is Pulling Off Its $45,000 Electric SUV](https://www.wired.com/story/how-rivian-is-pulling-off-its-45k-electric-suv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
