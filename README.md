@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sing Sing Sing - Kyoto Tachibana SHS Band](http://9gag.com/gag/aXn8GZg)
- - ⏩ [Karma\u2019s a b*tch.](http://9gag.com/gag/aA0nNWo)
- - 👉 [How to keep European women safe.](http://9gag.com/gag/az26Dwj)<!-- MEMES:END -->
+ - 💣 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - ⏩ [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
+ - 👉 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
 
 ---
 
