@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: RISC-V chip designer SiFive had $38.2M in revenue in 2023, a net operating loss of $113.1M, and expects to boost its licensing revenue to $60M this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240312/p33#a240312p33)
- - [Carta: tech startup workers are receiving 37% less equity in their companies on average compared with 18 months ago; average salaries are down 0.2% since 2022 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240312/p32#a240312p32)
- - [Most apps with subscriptions fail to make more than $1,000 per month](https://appleinsider.com/articles/24/03/12/most-apps-with-subscriptions-fail-to-make-more-than-1000-per-month?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok expands its Effect Creator Rewards monetization program to 33 more regions, including Argentina, Belgium, and Israel, and lowers its payout threshold &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p35#a240312p35)
+ - [Apple&#39;s M3 MacBook Pro with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/03/13/apples-m3-macbook-pro-with-16gb-ram-drops-to-1599?utm_medium=rss)
+ - [RevenueCat survey of nearly 30K mobile subscription apps finds that only 17.2% of them will reach $1,000 in monthly revenue and only 3.5% will reach $10,000 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240312/p34#a240312p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
