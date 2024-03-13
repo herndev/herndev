@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Flash developer is battling 18 years of legacy code to bring my childhood favorite platformers to Steam](https://www.pcgamer.com/games/action/this-flash-developer-is-battling-18-years-of-legacy-code-to-bring-my-childhood-favorite-platformers-to-steam)
  - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2024/03/12/essential-picks-promotion-comes-to-playstation-store-7/)
- - [A Journey Through For the Warp](https://news.xbox.com/en-us/2024/03/12/a-journey-through-for-the-warp/)
- - [Steam&#39;s latest hit is a fantasy autobattler about how many magic items you can fit in your backpack](https://www.pcgamer.com/games/action/steams-latest-breakout-indie-hit-is-a-fantasy-autobattler-about-how-many-magic-items-you-can-fit-in-your-backpack)<!-- GAME:END -->
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2024/03/12/essential-picks-promotion-comes-to-playstation-store-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
