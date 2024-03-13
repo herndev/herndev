@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify now has music videos](https://www.theverge.com/2024/3/13/24099337/spotify-music-video-beta-11-markets-supported-artists)
- - [Add some color to your phone with these vibrant wallpapers](https://www.androidauthority.com/colorful-phone-wallpaper-3424646/)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
+ - [How MrBeast dominates this ostentatious YouTube era, using a fast, frantic, and omnipresent editing style, as his videos slowly evolve to focus on storytelling &lpar;Patricia Hernandez/Polygon&rpar;](http://www.techmeme.com/240313/p9#a240313p9)
+ - [Evercore tells investors not to abandon Apple](https://appleinsider.com/articles/24/03/13/evercore-tells-investors-not-to-abandon-apple?utm_medium=rss)
+ - [Filing: the NYT denies OpenAI&#39;s claims that the NYT &quot;hacked&quot; ChatGPT to create misleading evidence of copyright infringement, calling the claims &quot;grandstanding&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240313/p8#a240313p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
