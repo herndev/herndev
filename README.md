@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - ⏩ [Welcome to the real world](http://9gag.com/gag/az26ByB)
- - 👉 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)<!-- MEMES:END -->
+ - 💣 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - ⏩ [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
+ - 👉 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)<!-- MEMES:END -->
 
 ---
 
