@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FF7 Rebirth: How To Not Suck At Gears And Gambits](https://kotaku.com/final-fantasy-7-rebirth-ff7-gears-and-gambits-1851329875)
- - [Titanfall Is Still EA’s Most Innovative Shooter 10 Years Later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
- - [How to activate the Terminid Control System in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-terminid-control-system)<!-- GAME:END -->
+ - [French Counter-Strike team re-sign star French player, celebrate by sticking him on a golden gun-throne in front of the Eiffel Tower because they&#39;re French](https://www.pcgamer.com/games/fps/french-counter-strike-team-re-sign-star-french-player-celebrate-by-sticking-him-on-a-golden-gun-throne-in-front-of-the-eiffel-tower-because-theyre-french)
+ - [CCP reveals first details of survival game set on a single shard in the EVE universe, but wait: here comes the blockchain](https://www.pcgamer.com/games/fps/ccp-reveals-first-details-of-survival-game-set-on-a-single-shard-in-the-eve-universe-but-wait-here-comes-the-blockchain)
+ - [‘TikTok bill’ that would ban the app passes House vote](https://www.polygon.com/24099435/tiktok-ban-bill-passes-house-vote-march-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
