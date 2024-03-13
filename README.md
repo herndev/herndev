@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm unveils its first Neoverse chips for self-driving cars, seeking to grow its non-smartphone revenue; the first vehicles are likely in four to five years &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240313/p20#a240313p20)
- - [The first trailer for Netflix’s Atlas turns Jennifer Lopez into a mech pilot](https://www.theverge.com/24099430/netflix-atlas-trailer)
- - [Apple Watch blood oxygen tracking could return via software, but when?](https://www.androidauthority.com/apple-watch-blood-oxygen-tracking-return-3425182/)<!-- TECH:END -->
+ - [The best Microsoft Copilot prompts you haven’t tried yet](https://www.androidauthority.com/best-microsoft-copilot-prompts-3424259/)
+ - [Keychron Q1 Max review: cushy, comfortable, costly](https://appleinsider.com/articles/24/03/13/keychron-q1-max-review-cushy-comfortable-costly?utm_medium=rss)
+ - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
