@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hilarious FF7 Mod Transforms Aerith, Tifa, And Yuffie Into Muscle Mommies](https://kotaku.com/final-fantasy-7-remake-mod-aerith-tifa-yuffie-buff-1851332936)
- - [A TikTok Ban Would Be A Tragedy For Gaming Communities](https://kotaku.com/tiktok-band-house-of-representatives-bill-pass-games-1851332769)
- - [The next RimWorld expansion adds a hefty dose of Lovecraftian terror](https://www.polygon.com/24099829/rimworld-anomaly-horror-expansion-announcement)<!-- GAME:END -->
+ - [Stardew Valley&#39;s 1.6 Update Confirms Years-Old Fan Theory Is True](https://kotaku.com/stardew-valley-1-6-update-theory-harvesting-speed-bug-1851333147)
+ - [Humble’s new $10 bundle is worth it for Red Faction: Guerrilla Re-Mars-tered alone](https://www.polygon.com/deals/24099629/red-faction-guerrilla-re-mars-tered-saints-row-humble-bundle-deal-sale)
+ - [Sydney Sweeney is Hollywood’s most interesting young movie star and Immaculate proves it](https://www.polygon.com/24099874/immaculate-review-sydney-sweeney-nun-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
