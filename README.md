@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley&#39;s 1.6 Update Confirms Years-Old Fan Theory Is True](https://kotaku.com/stardew-valley-1-6-update-theory-harvesting-speed-bug-1851333147)
- - [Humble’s new $10 bundle is worth it for Red Faction: Guerrilla Re-Mars-tered alone](https://www.polygon.com/deals/24099629/red-faction-guerrilla-re-mars-tered-saints-row-humble-bundle-deal-sale)
- - [Sydney Sweeney is Hollywood’s most interesting young movie star and Immaculate proves it](https://www.polygon.com/24099874/immaculate-review-sydney-sweeney-nun-movie)<!-- GAME:END -->
+ - [42 games from legendary British indie Jeff Minter&#39;s psychedelic back catalogue are now bundled with an &#39;interactive documentary&#39; on Steam](https://www.pcgamer.com/games/action/42-games-from-legendary-british-indie-jeff-minters-psychedelic-back-catalogue-are-now-bundled-with-an-interactive-documentary-on-steam)
+ - [Palworld is looking for beta testers for future updates, but warns that tests are &#39;not intended for free play or experiencing new content early&#39;](https://www.pcgamer.com/games/sim/palworld-is-looking-for-beta-testers-for-future-updates-but-warns-that-tests-are-not-intended-for-free-play-or-experiencing-new-content-early)
+ - [What The Great Web Leaks Could Tell Us About Future Spider-Man Games](https://kotaku.com/spiderman-the-great-web-second-trailer-leak-1851333375)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
