@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to release a unified Teams app on Windows 11 later this year, letting users switch between multiple tenants and personal or work account types &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240313/p29#a240313p29)
- - [Spotify now shows music videos for Premium subscribers in select regions](https://www.androidauthority.com/spotify-music-videos-3425295/)
- - [Future iPhone may get displays and controls on the edges](https://appleinsider.com/articles/24/03/13/future-iphone-may-get-displays-and-controls-on-the-edges?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy A25 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a25-review-3421050/)
+ - [M3 MacBook Air is easy to take apart, but parts pairing is still a pain](https://appleinsider.com/articles/24/03/13/m3-macbook-air-is-easy-to-take-apart-but-parts-pairing-is-still-a-pain?utm_medium=rss)
+ - [DJI Avata 2 drone leaks are out — and its goggles have cameras](https://www.theverge.com/2024/3/13/24099744/dji-avata-2-drone-goggles-3-leak-specifications-ar-stabilization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
