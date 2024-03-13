@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Livestreaming on Douyin and Kuaishou is helping attract out-of-town property buyers to Xishuangbanna in China&#39;s Yunnan province, despite a nationwide downturn &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/240313/p5#a240313p5)
  - [Google is making it easier to keep track of your app installs on the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-app-install-progress-indicator-3424937/)
- - [Taylor Swift Exclusive Eras Tour Clip Drops a Day Early on Apple&#39;s App Store     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-exclusive-eras-tour-clip-drops-a-day-early-on-apples-app-store/#ftag=CAD590a51e)
- - [Wear OS 5 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/wear-os-5-3424860/)<!-- TECH:END -->
+ - [Taylor Swift Exclusive Eras Tour Clip Drops a Day Early on Apple&#39;s App Store     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-exclusive-eras-tour-clip-drops-a-day-early-on-apples-app-store/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
