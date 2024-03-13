@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2024)
  - [This Flash developer is battling 18 years of legacy code to bring my childhood favorite platformers to Steam](https://www.pcgamer.com/games/action/this-flash-developer-is-battling-18-years-of-legacy-code-to-bring-my-childhood-favorite-platformers-to-steam)
- - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2024/03/12/essential-picks-promotion-comes-to-playstation-store-7/)
  - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2024/03/12/essential-picks-promotion-comes-to-playstation-store-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
