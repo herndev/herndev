@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Youtuber finds out about a major event for the first time.](http://9gag.com/gag/armP0Q6)
- - ⏩ [Manipulation of crime statistics to change a narrative are we?](http://9gag.com/gag/aZD9KwQ)
- - 👉 [And then brings sword from the Witcher](http://9gag.com/gag/aQEYD07)<!-- MEMES:END -->
+ - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - ⏩ [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
 
 ---
 
