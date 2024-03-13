@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funny i guess](http://9gag.com/gag/a2KQg7w)
- - ⏩ [And they caught me!](http://9gag.com/gag/aDYBLKG)
- - 👉 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)<!-- MEMES:END -->
+ - 💣 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - ⏩ [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)
+ - 👉 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)<!-- MEMES:END -->
 
 ---
 
