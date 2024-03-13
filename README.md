@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2024/03/12/essential-picks-promotion-comes-to-playstation-store-7/)
  - [A Journey Through For the Warp](https://news.xbox.com/en-us/2024/03/12/a-journey-through-for-the-warp/)
- - [Steam&#39;s latest breakout indie hit is a fantasy autobattler about how many magic items you can fit in your backpack](https://www.pcgamer.com/games/action/steams-latest-breakout-indie-hit-is-a-fantasy-autobattler-about-how-many-magic-items-you-can-fit-in-your-backpack)
- - [Star Wars Jedi director who left Respawn in 2023 to &#39;pursue other adventures&#39; reveals that his other adventure is a new game studio called Giant Skull](https://www.pcgamer.com/gaming-industry/star-wars-jedi-director-who-left-respawn-in-2023-to-pursue-other-adventures-reveals-that-his-other-adventure-is-a-new-game-studio-called-giant-skull)<!-- GAME:END -->
+ - [Steam&#39;s latest hit is a fantasy autobattler about how many magic items you can fit in your backpack](https://www.pcgamer.com/games/action/steams-latest-breakout-indie-hit-is-a-fantasy-autobattler-about-how-many-magic-items-you-can-fit-in-your-backpack)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
