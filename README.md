@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)
- - ⏩ [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)
- - 👉 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)<!-- MEMES:END -->
+ - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - ⏩ [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
 
 ---
 
