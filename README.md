@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/)
- - [SpaceX is cleared to attempt its third Starship test flight](https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window)
- - [Amazon will let sellers paste a link so AI can make a product page](https://www.theverge.com/2024/3/13/24099685/amazon-generative-ai-dtc-link-sellers)<!-- TECH:END -->
+ - [Block starts shipping Bitkey, its $150 bitcoin wallet debuted in 2022, with a hardware device, mobile app, recovery tools, and Cash App and Coinbase integration &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240313/p33#a240313p33)
+ - [Best Deals on Robot Vacuums: Save Big on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
+ - [Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
