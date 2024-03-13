@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to the real world](http://9gag.com/gag/az26ByB)
- - ⏩ [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
- - 👉 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)<!-- MEMES:END -->
+ - 💣 [UK is so lost](http://9gag.com/gag/a04mzdO)
+ - ⏩ [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
+ - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
 
 ---
 
