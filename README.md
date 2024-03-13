@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Game Fest returns for 2024 on June 7](https://www.polygon.com/24099616/summer-game-fest-2024-date-livestream)
- - [PlayStation Plus Game Catalog for March: NBA 2K24, Marvel’s Midnight Suns, Resident Evil 3, Mystic Pillars: Remastered and more](https://blog.playstation.com/2024/03/13/playstation-plus-game-catalog-for-march-nba-2k24-marvels-midnight-suns-resident-evil-3-mystic-pillars-remastered-and-more/)
- - [PlayStation Plus Game Catalog for March: NBA 2K24, Marvel’s Midnight Suns, Resident Evil 3, Mystic Pillars: Remastered and more](https://blog.playstation.com/2024/03/13/playstation-plus-game-catalog-for-march-nba-2k24-marvels-midnight-suns-resident-evil-3-mystic-pillars-remastered-and-more/)<!-- GAME:END -->
+ - [&#39;We were in such dire need of talent&#39;—Persona 3 Reload director explains why Episode Aigis was removed from the main game amid a tough development.](https://www.pcgamer.com/games/rpg/we-were-in-such-dire-need-of-talentpersona-3-reload-director-explains-why-episode-aigis-was-removed-from-the-main-game-amid-a-tough-development)
+ - [Critical Role&#39;s homebrew TTRPG Daggerheart is now in open beta, and the good news is it&#39;s nothing like D&amp;D](https://www.pcgamer.com/games/board-games/critical-roles-homebrew-ttrpg-daggerheart-is-now-in-open-beta-and-the-good-news-is-its-nothing-like-dandd)
+ - [AI voice acting is changing modding, and it&#39;s killing one of the best parts of the scene: The amateur voice actor with a cheap headset mic](https://www.pcgamer.com/software/ai/ai-voice-acting-is-changing-modding-and-its-killing-one-of-the-best-parts-of-the-scene-the-amateur-voice-actor-with-a-cheap-headset-mic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
