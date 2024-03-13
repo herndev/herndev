@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [French Counter-Strike team re-sign star French player, celebrate by sticking him on a golden gun-throne in front of the Eiffel Tower because they&#39;re French](https://www.pcgamer.com/games/fps/french-counter-strike-team-re-sign-star-french-player-celebrate-by-sticking-him-on-a-golden-gun-throne-in-front-of-the-eiffel-tower-because-theyre-french)
- - [CCP reveals first details of survival game set on a single shard in the EVE universe, but wait: here comes the blockchain](https://www.pcgamer.com/games/fps/ccp-reveals-first-details-of-survival-game-set-on-a-single-shard-in-the-eve-universe-but-wait-here-comes-the-blockchain)
- - [‘TikTok bill’ that would ban the app passes House vote](https://www.polygon.com/24099435/tiktok-ban-bill-passes-house-vote-march-2024)<!-- GAME:END -->
+ - [The Finals’ new game mode takes map destruction to absurd levels](https://www.polygon.com/gaming/24098514/the-finals-season-2-power-shift-embark-studios)
+ - [Loungefly’s One Piece collection is for fans who can’t get enough](https://www.polygon.com/deals/2024/3/13/24097215/loungefly-one-piece-wallet-backpack-pins-keychain-anime-manga-apparel)
+ - [Veteran Final Fantasy composer Nobuo Uematsu believes settling for Hollywood-style scores means &#39;game music cannot develop further&#39;](https://www.pcgamer.com/gaming-industry/veteran-final-fantasy-composer-nobuo-uematsu-believes-settling-for-hollywood-style-scores-means-game-music-cannot-develop-further)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
