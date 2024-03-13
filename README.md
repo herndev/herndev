@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
- - ⏩ [Dude cleaned up good. Glad for him](http://9gag.com/gag/aeQXzwO)
- - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
+ - 💣 [Space One rocket explodes during launch from southern Japan today](http://9gag.com/gag/a7qjgoe)
+ - ⏩ [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 👉 [Title](http://9gag.com/gag/az26ywx)<!-- MEMES:END -->
 
 ---
 
