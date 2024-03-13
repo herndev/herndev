@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic asks judge to enforce the Apple App Store injunction](https://www.theverge.com/2024/3/13/24099734/epic-v-apple-app-store-outside-payments-motion-enforce-injunction)
- - [T-Mobile could be preparing to hit prepaid customers with new fees](https://www.androidauthority.com/t-mobile-new-prepaid-fees-3425315/)
- - [Google finally brings all its Nest Cam features to Google Home for web](https://www.theverge.com/2024/3/13/24099773/google-nest-cams-google-home-web-recorded-video)<!-- TECH:END -->
+ - [Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/)
+ - [SpaceX is cleared to attempt its third Starship test flight](https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window)
+ - [Amazon will let sellers paste a link so AI can make a product page](https://www.theverge.com/2024/3/13/24099685/amazon-generative-ai-dtc-link-sellers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
