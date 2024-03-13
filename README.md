@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We were in such dire need of talent&#39;—Persona 3 Reload director explains why Episode Aigis was removed from the main game amid a tough development.](https://www.pcgamer.com/games/rpg/we-were-in-such-dire-need-of-talentpersona-3-reload-director-explains-why-episode-aigis-was-removed-from-the-main-game-amid-a-tough-development)
- - [Critical Role&#39;s homebrew TTRPG Daggerheart is now in open beta, and the good news is it&#39;s nothing like D&amp;D](https://www.pcgamer.com/games/board-games/critical-roles-homebrew-ttrpg-daggerheart-is-now-in-open-beta-and-the-good-news-is-its-nothing-like-dandd)
- - [AI voice acting is changing modding, and it&#39;s killing one of the best parts of the scene: The amateur voice actor with a cheap headset mic](https://www.pcgamer.com/software/ai/ai-voice-acting-is-changing-modding-and-its-killing-one-of-the-best-parts-of-the-scene-the-amateur-voice-actor-with-a-cheap-headset-mic)<!-- GAME:END -->
+ - [It’s time to return to Elden Ring](https://www.polygon.com/24098874/elden-ring-shadow-of-the-erdtree-dlc-prep-new-character)
+ - [Show off your favorite gaming gadget with a Grid frame, now 18% off for Polygon readers](https://www.polygon.com/deals/24099630/grid-store-gaming-art-deal-sale)
+ - [The Top 10 Most-Played Games On Steam Deck: February 2024 Edition](https://kotaku.com/steam-deck-most-played-games-elden-ring-helldivers-1851329172)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
