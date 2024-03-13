@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ‘Emergency Powers’ Risk of a Second Trump Presidency](https://www.wired.com/story/donald-trump-emergency-powers/)
- - [Is this new gaming tablet the Shield Tablet successor we always wanted?](https://www.androidauthority.com/lenovo-legion-tab-gaming-tablet-3425278/)
- - [Epic wants Apple held in contempt of court for not following through on removing anti-steering measures](https://appleinsider.com/articles/24/03/13/epic-wants-apple-held-in-contempt-of-court-for-not-following-through-on-removing-anti-steering-measures?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft plans to release a unified Teams app on Windows 11 later this year, letting users switch between multiple tenants and personal or work account types &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240313/p29#a240313p29)
+ - [Spotify now shows music videos for Premium subscribers in select regions](https://www.androidauthority.com/spotify-music-videos-3425295/)
+ - [Future iPhone may get displays and controls on the edges](https://appleinsider.com/articles/24/03/13/future-iphone-may-get-displays-and-controls-on-the-edges?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
