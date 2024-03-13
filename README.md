@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Microsoft Copilot prompts you haven’t tried yet](https://www.androidauthority.com/best-microsoft-copilot-prompts-3424259/)
- - [Keychron Q1 Max review: cushy, comfortable, costly](https://appleinsider.com/articles/24/03/13/keychron-q1-max-review-cushy-comfortable-costly?utm_medium=rss)
- - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)<!-- TECH:END -->
+ - [Best Buy knocks $400 off Apple&#39;s 15-inch MacBook Air with 16GB RAM, 1TB SSD](https://appleinsider.com/articles/24/03/13/best-buy-knocks-400-off-apples-15-inch-macbook-air-with-16gb-ram-1tb-ssd?utm_medium=rss)
+ - [Meta is ready to drop news in Illinois if forced to pay local publishers](https://www.theverge.com/2024/3/13/24099439/meta-news-block-illinois-journalism-preservation-act)
+ - [The House Passed the Bill That Could Ban TikTok—and It Wasn&#39;t Close](https://www.wired.com/story/congress-tiktok-ban/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
