@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neil Young tries excusing his return to Spotify by saying Apple Music is now as bad](https://appleinsider.com/articles/24/03/13/neil-young-tries-excusing-his-return-to-spotify-by-saying-apple-music-is-now-as-bad?utm_medium=rss)
- - [The EU Parliament approves the AI Act, voting 523 in favor and 46 against, despite competition fears; the Act, born in 2021, puts AI tech into risk categories &lpar;CNBC&rpar;](http://www.techmeme.com/240313/p12#a240313p12)
- - [An interview with OpenAI CTO Mira Murati on Sora, set for release later in 2024, its training data, red-teaming Sora, working with the film industry, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240313/p11#a240313p11)<!-- TECH:END -->
+ - [Cadillac teases ‘Opulent Velocity’ electric V-Series concept](https://www.theverge.com/2024/3/13/24098795/cadillac-v-series-ev-tease-opulent-velocity)
+ - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)
+ - [Memo: John Collison says Stripe is in &quot;no rush&quot; to go public and payments volume rose 25% YoY to $1T in 2023; source: Stripe hit $1B in net revenue in Q3 2023 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240313/p14#a240313p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
