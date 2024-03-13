@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s time to return to Elden Ring](https://www.polygon.com/24098874/elden-ring-shadow-of-the-erdtree-dlc-prep-new-character)
- - [Show off your favorite gaming gadget with a Grid frame, now 18% off for Polygon readers](https://www.polygon.com/deals/24099630/grid-store-gaming-art-deal-sale)
- - [The Top 10 Most-Played Games On Steam Deck: February 2024 Edition](https://kotaku.com/steam-deck-most-played-games-elden-ring-helldivers-1851329172)<!-- GAME:END -->
+ - [Hilarious FF7 Mod Transforms Aerith, Tifa, And Yuffie Into Muscle Mommies](https://kotaku.com/final-fantasy-7-remake-mod-aerith-tifa-yuffie-buff-1851332936)
+ - [A TikTok Ban Would Be A Tragedy For Gaming Communities](https://kotaku.com/tiktok-band-house-of-representatives-bill-pass-games-1851332769)
+ - [The next RimWorld expansion adds a hefty dose of Lovecraftian terror](https://www.polygon.com/24099829/rimworld-anomaly-horror-expansion-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
