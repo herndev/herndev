@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How MrBeast dominates this ostentatious YouTube era, using a fast, frantic, and omnipresent editing style, as his videos slowly evolve to focus on storytelling &lpar;Patricia Hernandez/Polygon&rpar;](http://www.techmeme.com/240313/p9#a240313p9)
- - [Evercore tells investors not to abandon Apple](https://appleinsider.com/articles/24/03/13/evercore-tells-investors-not-to-abandon-apple?utm_medium=rss)
- - [Filing: the NYT denies OpenAI&#39;s claims that the NYT &quot;hacked&quot; ChatGPT to create misleading evidence of copyright infringement, calling the claims &quot;grandstanding&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240313/p8#a240313p8)<!-- TECH:END -->
+ - [Neil Young tries excusing his return to Spotify by saying Apple Music is now as bad](https://appleinsider.com/articles/24/03/13/neil-young-tries-excusing-his-return-to-spotify-by-saying-apple-music-is-now-as-bad?utm_medium=rss)
+ - [The EU Parliament approves the AI Act, voting 523 in favor and 46 against, despite competition fears; the Act, born in 2021, puts AI tech into risk categories &lpar;CNBC&rpar;](http://www.techmeme.com/240313/p12#a240313p12)
+ - [An interview with OpenAI CTO Mira Murati on Sora, set for release later in 2024, its training data, red-teaming Sora, working with the film industry, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240313/p11#a240313p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
