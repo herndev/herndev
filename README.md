@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2024)
- - [This Flash developer is battling 18 years of legacy code to bring my childhood favorite platformers to Steam](https://www.pcgamer.com/games/action/this-flash-developer-is-battling-18-years-of-legacy-code-to-bring-my-childhood-favorite-platformers-to-steam)
- - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2024/03/12/essential-picks-promotion-comes-to-playstation-store-7/)<!-- GAME:END -->
+ - [Yes, the Steam Deck OLED is susceptible to burn-in if you really try, but it also really doesn&#39;t matter](https://www.pcgamer.com/hardware/handheld-gaming-pcs/yes-the-steam-deck-oled-is-susceptible-to-burn-in-if-you-really-try-but-it-also-really-doesnt-matter)
+ - [PSA: The new Helldivers 2 Warbond isn&#39;t replacing the old one—so don&#39;t feel obliged to grind a bunch of super credits in a democracy-fuelled fugue](https://www.pcgamer.com/games/third-person-shooter/psa-the-new-helldivers-2-warbond-isnt-replacing-the-old-oneso-dont-feel-obliged-to-grind-a-bunch-of-super-credits-in-a-democracy-fuelled-fugue)
+ - [Today&#39;s Wordle answer for Wednesday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
