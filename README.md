@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 💣 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)
  - ⏩ [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
+ - 👉 [Hidden knowledge](http://9gag.com/gag/aNwyG33)<!-- MEMES:END -->
 
 ---
 
