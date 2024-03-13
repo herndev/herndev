@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, the Steam Deck OLED is susceptible to burn-in if you really try, but it also really doesn&#39;t matter](https://www.pcgamer.com/hardware/handheld-gaming-pcs/yes-the-steam-deck-oled-is-susceptible-to-burn-in-if-you-really-try-but-it-also-really-doesnt-matter)
- - [PSA: The new Helldivers 2 Warbond isn&#39;t replacing the old one—so don&#39;t feel obliged to grind a bunch of super credits in a democracy-fuelled fugue](https://www.pcgamer.com/games/third-person-shooter/psa-the-new-helldivers-2-warbond-isnt-replacing-the-old-oneso-dont-feel-obliged-to-grind-a-bunch-of-super-credits-in-a-democracy-fuelled-fugue)
- - [Today&#39;s Wordle answer for Wednesday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2024)<!-- GAME:END -->
+ - [How to activate the Terminid Control System in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-terminid-control-system)
+ - [Konami&#39;s latest Metal Gear Solid masterstroke is releasing a patch to fix MGS1&#39;s worst bug that doesn&#39;t work](https://www.pcgamer.com/games/action/konamis-latest-metal-gear-solid-masterstroke-is-releasing-a-patch-to-fix-mgs1s-worst-bug-that-doesnt-work)
+ - [One modder is bringing back Resident Evil 2&#39;s classic style by adding over 1,700 camera angles to the Remake](https://www.pcgamer.com/games/resident-evil/one-modder-is-bringing-back-resident-evil-2s-classic-style-by-adding-over-1700-camera-angles-to-the-remake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
