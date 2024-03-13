@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US House passes a bipartisan TikTok bill that forces a sale or ban of the app; the legislation faces an uncertain Senate path without a companion measure &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240313/p26#a240313p26)
- - [Climate Change Is Bad for Your Health, Wherever You Are](https://www.wired.com/story/climate-crisis-is-a-health-risk-everywhere-wired-health-lancet-countdown/)
- - [Don Lemon says Elon Musk canceled The Don Lemon show partnership with X hours after taping an interview with Musk on March 8 for the show&#39;s debut episode &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240313/p25#a240313p25)<!-- TECH:END -->
+ - [The ‘Emergency Powers’ Risk of a Second Trump Presidency](https://www.wired.com/story/donald-trump-emergency-powers/)
+ - [Is this new gaming tablet the Shield Tablet successor we always wanted?](https://www.androidauthority.com/lenovo-legion-tab-gaming-tablet-3425278/)
+ - [Epic wants Apple held in contempt of court for not following through on removing anti-steering measures](https://appleinsider.com/articles/24/03/13/epic-wants-apple-held-in-contempt-of-court-for-not-following-through-on-removing-anti-steering-measures?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
