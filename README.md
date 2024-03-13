@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
- - ⏩ [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 👉 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)<!-- MEMES:END -->
+ - 💣 [UK is so lost](http://9gag.com/gag/a04mzdO)
+ - ⏩ [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
+ - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
 
 ---
 
