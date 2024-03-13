@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy knocks $400 off Apple&#39;s 15-inch MacBook Air with 16GB RAM, 1TB SSD](https://appleinsider.com/articles/24/03/13/best-buy-knocks-400-off-apples-15-inch-macbook-air-with-16gb-ram-1tb-ssd?utm_medium=rss)
- - [Meta is ready to drop news in Illinois if forced to pay local publishers](https://www.theverge.com/2024/3/13/24099439/meta-news-block-illinois-journalism-preservation-act)
- - [The House Passed the Bill That Could Ban TikTok—and It Wasn&#39;t Close](https://www.wired.com/story/congress-tiktok-ban/)<!-- TECH:END -->
+ - [The US House passes a bipartisan TikTok bill that forces a sale or ban of the app; the legislation faces an uncertain Senate path without a companion measure &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240313/p26#a240313p26)
+ - [Climate Change Is Bad for Your Health, Wherever You Are](https://www.wired.com/story/climate-crisis-is-a-health-risk-everywhere-wired-health-lancet-countdown/)
+ - [Don Lemon says Elon Musk canceled The Don Lemon show partnership with X hours after taping an interview with Musk on March 8 for the show&#39;s debut episode &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240313/p25#a240313p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
