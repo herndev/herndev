@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok expands its Effect Creator Rewards monetization program to 33 more regions, including Argentina, Belgium, and Israel, and lowers its payout threshold &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p35#a240312p35)
- - [Apple&#39;s M3 MacBook Pro with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/03/13/apples-m3-macbook-pro-with-16gb-ram-drops-to-1599?utm_medium=rss)
- - [Best Internet Providers in Youngstown, Ohio     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-youngstown-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity is licensing Yelp&#39;s data and integrating its maps, reviews, and other details in responses when users ask for restaurant recommendations &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240312/p37#a240312p37)
+ - [Paris- and New York-based Adaptive ML, which helps businesses build custom tools with open-source generative AI models, raised a $20M seed led by Index Ventures &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/240312/p36#a240312p36)
+ - [The 4 Best Gaming Routers of 2024     - CNET](https://www.cnet.com/home/internet/best-gaming-routers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
