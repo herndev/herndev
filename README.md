@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A mom is arrested for protecting his kid against bullies... Land of the Free..](http://9gag.com/gag/avQbVmO)
- - ⏩ [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 👉 [Hidden knowledge](http://9gag.com/gag/aNwyG33)<!-- MEMES:END -->
+ - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - ⏩ [Welcome to the real world](http://9gag.com/gag/az26ByB)
+ - 👉 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)<!-- MEMES:END -->
 
 ---
 
