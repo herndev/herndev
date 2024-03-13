@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - ⏩ [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 👉 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)<!-- MEMES:END -->
+ - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - ⏩ [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)
+ - 👉 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)<!-- MEMES:END -->
 
 ---
 
