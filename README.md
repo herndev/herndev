@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A25 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a25-review-3421050/)
- - [M3 MacBook Air is easy to take apart, but parts pairing is still a pain](https://appleinsider.com/articles/24/03/13/m3-macbook-air-is-easy-to-take-apart-but-parts-pairing-is-still-a-pain?utm_medium=rss)
- - [DJI Avata 2 drone leaks are out — and its goggles have cameras](https://www.theverge.com/2024/3/13/24099744/dji-avata-2-drone-goggles-3-leak-specifications-ar-stabilization)<!-- TECH:END -->
+ - [Epic asks judge to enforce the Apple App Store injunction](https://www.theverge.com/2024/3/13/24099734/epic-v-apple-app-store-outside-payments-motion-enforce-injunction)
+ - [T-Mobile could be preparing to hit prepaid customers with new fees](https://www.androidauthority.com/t-mobile-new-prepaid-fees-3425315/)
+ - [Google finally brings all its Nest Cam features to Google Home for web](https://www.theverge.com/2024/3/13/24099773/google-nest-cams-google-home-web-recorded-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
