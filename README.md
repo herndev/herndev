@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study by the US Copyright Office and USPTO concludes that existing laws are sufficient to address NFT copyright concerns and there&#39;s no need to change IP laws &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240313/p4#a240313p4)
- - [Filings: ByteDance-owned entity Picoheart is now the third-largest shareholder in InnoStar, a Chinese state-backed ReRAM chips maker, with a 9.5% stake &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240313/p3#a240313p3)
- - [China’s Best Self-Driving Car Platforms, Tested and Compared](https://www.wired.com/story/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/)<!-- TECH:END -->
+ - [Google is making it easier to keep track of your app installs on the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-app-install-progress-indicator-3424937/)
+ - [Taylor Swift Exclusive Eras Tour Clip Drops a Day Early on Apple&#39;s App Store     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-exclusive-eras-tour-clip-drops-a-day-early-on-apples-app-store/#ftag=CAD590a51e)
+ - [Wear OS 5 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/wear-os-5-3424860/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
