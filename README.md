@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to activate the Terminid Control System in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-terminid-control-system)
- - [Konami&#39;s latest Metal Gear Solid masterstroke is releasing a patch to fix MGS1&#39;s worst bug that doesn&#39;t work](https://www.pcgamer.com/games/action/konamis-latest-metal-gear-solid-masterstroke-is-releasing-a-patch-to-fix-mgs1s-worst-bug-that-doesnt-work)
- - [One modder is bringing back Resident Evil 2&#39;s classic style by adding over 1,700 camera angles to the Remake](https://www.pcgamer.com/games/resident-evil/one-modder-is-bringing-back-resident-evil-2s-classic-style-by-adding-over-1700-camera-angles-to-the-remake)<!-- GAME:END -->
+ - [FF7 Rebirth: How To Not Suck At Gears And Gambits](https://kotaku.com/final-fantasy-7-rebirth-ff7-gears-and-gambits-1851329875)
+ - [Titanfall Is Still EA’s Most Innovative Shooter 10 Years Later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
+ - [How to activate the Terminid Control System in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-terminid-control-system)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
