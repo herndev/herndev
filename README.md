@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UK is so lost](http://9gag.com/gag/a04mzdO)
- - ⏩ [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
- - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
+ - 💣 [A mom is arrested for protecting his kid against bullies... Land of the Free..](http://9gag.com/gag/avQbVmO)
+ - ⏩ [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - 👉 [Hidden knowledge](http://9gag.com/gag/aNwyG33)<!-- MEMES:END -->
 
 ---
 
