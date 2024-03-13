@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cadillac teases ‘Opulent Velocity’ electric V-Series concept](https://www.theverge.com/2024/3/13/24098795/cadillac-v-series-ev-tease-opulent-velocity)
- - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)
- - [Memo: John Collison says Stripe is in &quot;no rush&quot; to go public and payments volume rose 25% YoY to $1T in 2023; source: Stripe hit $1B in net revenue in Q3 2023 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240313/p14#a240313p14)<!-- TECH:END -->
+ - [Arm unveils its first Neoverse chips for self-driving cars, seeking to grow its non-smartphone revenue; the first vehicles are likely in four to five years &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240313/p20#a240313p20)
+ - [The first trailer for Netflix’s Atlas turns Jennifer Lopez into a mech pilot](https://www.theverge.com/24099430/netflix-atlas-trailer)
+ - [Apple Watch blood oxygen tracking could return via software, but when?](https://www.androidauthority.com/apple-watch-blood-oxygen-tracking-return-3425182/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
