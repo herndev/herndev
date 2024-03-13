@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Finals’ new game mode takes map destruction to absurd levels](https://www.polygon.com/gaming/24098514/the-finals-season-2-power-shift-embark-studios)
- - [Loungefly’s One Piece collection is for fans who can’t get enough](https://www.polygon.com/deals/2024/3/13/24097215/loungefly-one-piece-wallet-backpack-pins-keychain-anime-manga-apparel)
- - [Veteran Final Fantasy composer Nobuo Uematsu believes settling for Hollywood-style scores means &#39;game music cannot develop further&#39;](https://www.pcgamer.com/gaming-industry/veteran-final-fantasy-composer-nobuo-uematsu-believes-settling-for-hollywood-style-scores-means-game-music-cannot-develop-further)<!-- GAME:END -->
+ - [Summer Game Fest returns for 2024 on June 7](https://www.polygon.com/24099616/summer-game-fest-2024-date-livestream)
+ - [PlayStation Plus Game Catalog for March: NBA 2K24, Marvel’s Midnight Suns, Resident Evil 3, Mystic Pillars: Remastered and more](https://blog.playstation.com/2024/03/13/playstation-plus-game-catalog-for-march-nba-2k24-marvels-midnight-suns-resident-evil-3-mystic-pillars-remastered-and-more/)
+ - [PlayStation Plus Game Catalog for March: NBA 2K24, Marvel’s Midnight Suns, Resident Evil 3, Mystic Pillars: Remastered and more](https://blog.playstation.com/2024/03/13/playstation-plus-game-catalog-for-march-nba-2k24-marvels-midnight-suns-resident-evil-3-mystic-pillars-remastered-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
