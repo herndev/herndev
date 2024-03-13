@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The gladiator!](http://9gag.com/gag/aDYBPE7)
- - ⏩ [Name this game](http://9gag.com/gag/aBdDbDO)
- - 👉 [UK is so lost](http://9gag.com/gag/a04mzdO)<!-- MEMES:END -->
+ - 💣 [Welcome to the real world](http://9gag.com/gag/az26ByB)
+ - ⏩ [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
+ - 👉 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)<!-- MEMES:END -->
 
 ---
 
