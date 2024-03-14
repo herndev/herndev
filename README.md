@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call security](http://9gag.com/gag/aXn860P)
- - ⏩ [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 👉 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)<!-- MEMES:END -->
+ - 💣 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
+ - ⏩ [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
+ - 👉 [I am always watching you](http://9gag.com/gag/aqevwwv)<!-- MEMES:END -->
 
 ---
 
