@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – The Crew Motorfest, Rainbow Six Siege, Park Beyond and Dead by Daylight](https://news.xbox.com/en-us/2024/03/14/free-play-days-the-crew-motorfest-rainbow-six-siege-park-beyond-and-dead-by-daylight/)
- - [God of War is now DRM-free on PC &lpar;and half-price&rpar;](https://www.polygon.com/deals/24100659/god-of-war-drm-free-gog-sony-playstation-deal)
- - [Star Wars: KOTOR Remake Developer Escapes Embracer’s Clutches](https://kotaku.com/saber-interactive-embracer-group-star-wars-kotor-remake-1851334969)<!-- GAME:END -->
+ - [This &#39;photorealistic&#39; RTS about ants is the second RTS about ants to be based on a 1991 French novel about ants](https://www.pcgamer.com/games/rts/this-photorealistic-rts-about-ants-is-the-second-rts-about-ants-to-be-based-on-a-1991-french-novel-about-ants)
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
+ - [Fuel cell technology can be made much more efficient thanks to immersion in caffeine, much like myself and the rest of the planet](https://www.pcgamer.com/hardware/fuel-cell-technology-can-be-made-much-more-efficient-thanks-to-immersion-in-caffeine-much-like-myself-and-the-rest-of-the-planet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
