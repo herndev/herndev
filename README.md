@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify says its iPhone app updates in the EU are getting held up by Apple](https://www.theverge.com/2024/3/14/24100944/spotify-ios-app-update-eu-apple-dma)
- - [Pornhub blocks access to users in Texas, after a federal appeals court upheld a Texas law last week requiring porn sites to institute age-verification measures &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240314/p36#a240314p36)
- - [Google Messages replaces the default viewfinder with new camera UI](https://www.androidauthority.com/google-messages-camera-ui-3425597/)<!-- TECH:END -->
+ - [Max annual plans are up to $60 off ahead of March Madness](https://www.theverge.com/2024/3/14/24100899/max-march-madness-the-boy-and-the-heron-deal-sale)
+ - [Spotify upset over 9 day App Review, cries antitrust to EC](https://appleinsider.com/articles/24/03/14/spotify-upset-over-9-day-app-review-cries-antitrust-to-ec?utm_medium=rss)
+ - [Google I/O 2024 confirmed for May 14th: Here’s what to expect](https://www.androidauthority.com/google-io-2024-3425607/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
