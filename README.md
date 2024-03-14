@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)
- - ⏩ [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 👉 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)<!-- MEMES:END -->
+ - 💣 [Then Jesus told them \u2026..](http://9gag.com/gag/aNwy5DK)
+ - ⏩ [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
+ - 👉 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)<!-- MEMES:END -->
 
 ---
 
