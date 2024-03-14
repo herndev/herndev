@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unables is Available Now on Xbox](https://news.xbox.com/en-us/2024/03/14/unables-is-available-now-on-xbox/)
- - [Got a laptop plugged in 24/7? You could be ruining your battery life, so prepare to do the charger dance](https://www.pcgamer.com/hardware/gaming-laptops/got-a-laptop-plugged-in-247-you-could-be-ruining-your-battery-life-so-prepare-to-do-the-charger-dance)
- - [RimWorld&#39;s new expansion is introducing &#39;IEDs that resurrect the dead,&#39; fleshbeasts, and a &#39;beautiful golden cube&#39; that you will love, or else](https://www.pcgamer.com/games/sim/rimworlds-new-expansion-is-introducing-ieds-that-resurrect-the-dead-fleshbeasts-and-a-beautiful-golden-cube-that-you-will-love-or-else)<!-- GAME:END -->
+ - [It’s time to upgrade your PS5, PC, or Steam Deck SSD. We’ve found the best deals](https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck)
+ - [Here Are 2024’s Finalists For The World Video Game Hall Of Fame](https://kotaku.com/video-game-hall-of-fame-2024-finalists-resident-evil-1851335716)
+ - [Xbox Insider Release Notes – Beta &lpar;2404.240311-2000&rpar;](https://news.xbox.com/en-us/2024/03/14/xbox-insider-release-notes-beta-2404-240311-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
