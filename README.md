@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX Starship launch: third time’s the charm?](https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three)
- - [Unstructured, which helps companies prepare &quot;really messy, sloppy data&quot; for AI training, raised a $40M Series B led by Menlo Ventures at a $230M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/240314/p17#a240314p17)
- - [Google Pixel 9 rumors: Expected release date and what we want to see](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
+ - [Join The Verge at the 2024 Chicago Humanities Spring Festival](https://www.theverge.com/24099817/verge-chicago-humanities-festival-2024-artificial-intelligence-tickets)
+ - [Sonos soundbars and speakers are on sale just in time for March Madness](https://www.theverge.com/2024/3/14/24100247/sonos-ray-beam-sub-mini-move-2-march-madness-deal-sale)
+ - [The potential TikTok ban is being decided on by the wrong people](https://appleinsider.com/articles/24/03/14/the-potential-tiktok-ban-is-being-decided-on-by-the-wrong-people?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
