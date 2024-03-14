@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;Probably one of the worst launches of all time&#39;: Star Wars: Battlefront Classic Collection players tear into Aspyr for bugs, crashes, and 3 64-player launch servers for nearly 10,000 users](https://www.pcgamer.com/games/fps/probably-one-of-the-worst-launches-of-all-time-star-wars-battlefront-classic-collection-players-tear-into-aspyr-for-bugs-crashes-and-3-64-player-launch-servers-for-nearly-10000-users)
  - [Demand for AMD CPUs surges as crypto mining rises from the ashes](https://www.pcgamer.com/hardware/processors/demand-for-amd-cpus-surges-as-crypto-mining-rises-from-the-ashes)
- - [Google develops an AI that will actually play games with you](https://www.pcgamer.com/software/ai/google-develops-an-ai-that-will-actually-play-games-with-you)
- - [Today&#39;s Wordle answer for Thursday, March 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-14-2024)<!-- GAME:END -->
+ - [Google develops an AI that will actually play games with you](https://www.pcgamer.com/software/ai/google-develops-an-ai-that-will-actually-play-games-with-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
