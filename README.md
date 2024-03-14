@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal TikTok memo: the company is &quot;disappointed&quot; the US House passed the TikTok divestment bill, and plans to lobby the Senate not to pass the legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p11#a240314p11)
- - [Foxconn reports Q4 revenue down 5.7% YoY to ~$59B, as cloud and networking demand falls, net profit up 33% YoY to $1.69B, and expects flat 2024 consumer demand &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/240314/p10#a240314p10)
- - [US paid music subscribers hit a record 109M in 2023, rising to 136M including SiriusXM and Amazon Prime Music; seven of every 10 US millennials pay to subscribe &lpar;Russ Crupnick/MusicWatch&rpar;](http://www.techmeme.com/240314/p9#a240314p9)<!-- TECH:END -->
+ - [More people are buying the Samsung Galaxy S24 Plus this year. Here’s why.](https://www.androidauthority.com/samsung-galaxy-s24-plus-initial-sales-3425415/)
+ - [Amazon says &quot;a tiny fraction&quot; of sellers paid for ads for products users couldn&#39;t buy and pledges a fix; Amazon offered a $15K refund to a seller seeking $300K &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240314/p13#a240314p13)
+ - [The next OnePlus phone will have the most powerful mid-range chip in 2024](https://www.androidauthority.com/oneplus-ace-3v-snapdragon-7-plus-gen-3-3425476/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
