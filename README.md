@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kaiko: trading volume for the top crypto memecoins reached ~$80B in the past week, the highest since October 2021; total market value of memecoins topped $60B &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240313/p39#a240313p39)
- - [How to change your default browser in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-change-your-default-browser-in-macos-sonoma?utm_medium=rss)
- - [On the web&#39;s 35th birthday, there are two issues to address: power concentration, which contradicts decentralization, and exploitation of personal data &lpar;Tim Berners-Lee/World Wide Web Foundation&rpar;](http://www.techmeme.com/240313/p38#a240313p38)<!-- TECH:END -->
+ - [Google Maps and Search will now show you latest social media posts from businesses](https://www.androidauthority.com/google-business-profiles-get-social-3425372/)
+ - [Samsung’s March 2024 security update arrives on Galaxy 23 series and more phones](https://www.androidauthority.com/samsung-march-2024-security-update-3425285/)
+ - [Kaiko: trading volume for the top crypto memecoins reached ~$80B in the past week, the highest since October 2021; total market value of memecoins topped $60B &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240313/p39#a240313p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
