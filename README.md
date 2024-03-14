@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s time to upgrade your PS5, PC, or Steam Deck SSD. We’ve found the best deals](https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck)
- - [Here Are 2024’s Finalists For The World Video Game Hall Of Fame](https://kotaku.com/video-game-hall-of-fame-2024-finalists-resident-evil-1851335716)
- - [Xbox Insider Release Notes – Beta &lpar;2404.240311-2000&rpar;](https://news.xbox.com/en-us/2024/03/14/xbox-insider-release-notes-beta-2404-240311-2000/)<!-- GAME:END -->
+ - [As the Warner Bros suits begin to blame Suicide Squad for everything but the weather, the newly released game&#39;s price is almost slashed in half](https://www.pcgamer.com/games/action/as-the-warner-bros-suits-begin-to-blame-suicide-squad-for-everything-but-the-weather-the-newly-released-games-price-is-almost-slashed-in-half)
+ - [Planets that are entirely a single biome, ranked](https://www.polygon.com/24099643/dune-planets-star-wars-marvel)
+ - [Dreamlight Valley Devs Making A Life-Sim RPG Set In Baldur&#39;s Gate III Universe](https://kotaku.com/baldurs-gate-iii-3-dreamlight-valley-new-life-sim-rpg-1851336176)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
