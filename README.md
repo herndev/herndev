@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The US House passes a bill that could lead to a nationwide ban on TikTok](https://www.pcgamer.com/software/security/the-us-house-passes-a-bill-that-could-lead-to-a-nationwide-ban-on-tiktok)
- - [Starship Troopers star Casper Van Dien is ready to do his part for Helldivers 2](https://www.pcgamer.com/games/action/starship-troopers-star-casper-van-dien-is-ready-to-do-his-part-for-helldivers-2)
- - [Get To Know Our Team: Donovan – Technical Program Manager &lpar;OS/Hardware Flighting &amp; Hardware Readiness&rpar;](https://news.xbox.com/en-us/2024/03/13/get-to-know-our-team-donovan-technical-program-manager-os-hardware-flighting-hardware-readiness/)<!-- GAME:END -->
+ - [Google develops an AI that will actually play games with you](https://www.pcgamer.com/software/ai/google-develops-an-ai-that-will-actually-play-games-with-you)
+ - [Today&#39;s Wordle answer for Thursday, March 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-14-2024)
+ - [The US House passes a bill that could lead to a nationwide ban on TikTok](https://www.pcgamer.com/software/security/the-us-house-passes-a-bill-that-could-lead-to-a-nationwide-ban-on-tiktok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
