@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tim Sweeney emailed Gabe Newell calling Valve &#39;you assholes&#39; over Steam policies, to which Valve&#39;s COO simply replied &#39;you mad bro?&#39;](https://www.pcgamer.com/gaming-industry/tim-sweeney-emailed-gabe-newell-calling-valve-you-assholes-over-steam-policies-to-which-valves-coo-simply-replied-you-mad-bro)
- - [Uh oh: A single suit of armour in the latest Helldivers 2 Warbond makes 4-person Arc Thrower squads viable, in case you&#39;d like to unleash electric mayhem](https://www.pcgamer.com/games/third-person-shooter/uh-oh-a-single-suit-of-armour-in-the-latest-helldivers-2-warbond-makes-4-person-arc-thrower-squads-viable-in-case-youd-like-to-unleash-electric-mayhem)
- - [SimCity, Metroid, and Neopets &lpar;and 9 others&rpar; nominated for Video Game Fall of Fame](https://www.polygon.com/24099556/simcity-metroid-neopets-video-game-hall-of-fame-strong-museum)<!-- GAME:END -->
+ - [Free Play Days – The Crew Motorfest, Rainbow Six Siege, Park Beyond and Dead by Daylight](https://news.xbox.com/en-us/2024/03/14/free-play-days-the-crew-motorfest-rainbow-six-siege-park-beyond-and-dead-by-daylight/)
+ - [God of War is now DRM-free on PC &lpar;and half-price&rpar;](https://www.polygon.com/deals/24100659/god-of-war-drm-free-gog-sony-playstation-deal)
+ - [Star Wars: KOTOR Remake Developer Escapes Embracer’s Clutches](https://kotaku.com/saber-interactive-embracer-group-star-wars-kotor-remake-1851334969)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
