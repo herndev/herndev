@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lucas Pope&#39;s new Playdate exclusive is a delightful riff on Papers, Please, but for farty Martians and sad cyclops](https://www.pcgamer.com/games/sim/lucas-popes-new-playdate-exclusive-is-a-delightful-riff-on-papers-please-but-for-farty-martians-and-sad-cyclops)
- - [12 Of The Best Games To Get During Steam’s Spring Sale](https://kotaku.com/steam-spring-sale-2024-baldurs-gate-3-1851336964)
- - [Epic is having a spring sale too, and to get things started it&#39;s giving away Deus Ex: Mankind Divided for the first time](https://www.pcgamer.com/gaming-industry/events-conferences/epic-is-having-a-spring-sale-too-and-to-get-things-started-its-giving-away-deus-ex-mankind-divided-for-the-first-time)<!-- GAME:END -->
+ - [The Halo TV show making the humans the villains completely misses the point](https://www.polygon.com/24101232/halo-tv-show-new-episode-covenant-review)
+ - [I&#39;ve never sided with Caesar in Fallout: New Vegas but I&#39;m guiltily playing his deck in Magic: The Gathering](https://www.pcgamer.com/games/card-games/ive-never-sided-with-caesar-in-fallout-new-vegas-but-im-guiltily-playing-his-deck-in-magic-the-gathering)
+ - [This TikToker has the golden recipe for viral meme art: buff cartoon characters](https://www.polygon.com/24100113/tiktok-meme-art-mew-buff-pixar-monsters-inc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
