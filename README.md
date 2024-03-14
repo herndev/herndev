@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Demand for AMD CPUs surges as crypto mining rises from the ashes](https://www.pcgamer.com/hardware/processors/demand-for-amd-cpus-surges-as-crypto-mining-rises-from-the-ashes)
  - [Google develops an AI that will actually play games with you](https://www.pcgamer.com/software/ai/google-develops-an-ai-that-will-actually-play-games-with-you)
- - [Today&#39;s Wordle answer for Thursday, March 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-14-2024)
- - [The US House passes a bill that could lead to a nationwide ban on TikTok](https://www.pcgamer.com/software/security/the-us-house-passes-a-bill-that-could-lead-to-a-nationwide-ban-on-tiktok)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, March 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-14-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
