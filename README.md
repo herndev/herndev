@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Treasury is investigating ~$165M in crypto-linked transactions that may have helped finance Hamas before the group&#39;s October 7 attack against Israel &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240313/p37#a240313p37)
  - [Amazon rolls out a generative AI feature that creates a product page, including a description and images, using information from a seller&#39;s external website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p36#a240313p36)
- - [Apple Vision Pro keyboard language code could hint at imminent global launch](https://appleinsider.com/articles/24/03/14/apple-vision-pro-keyboard-language-code-could-hint-at-imminent-global-launch?utm_medium=rss)
- - [Lenovo plans to release the Legion Tab, an 8.8&quot; Android gaming tablet currently available in China, in EMEA and other Asian markets this month, starting at &amp;euro;599 &lpar;Dashiell Wood/TechRadar&rpar;](http://www.techmeme.com/240313/p35#a240313p35)<!-- TECH:END -->
+ - [Best Prescription Sunglasses for 2024     - CNET](https://www.cnet.com/health/personal-care/best-prescription-sunglasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
