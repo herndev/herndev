@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - ⏩ [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
- - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
+ - 💣 [Hans Teeuwen, one of the best comedians in the Netherlands, was approached at home today by 6 police officers for alleged possession of weapons. The officers went to his house to confiscate an air pistol with plastic balls. This incident happened a few hours after he made a...1/2](http://9gag.com/gag/a6qWzOe)
+ - ⏩ [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - 👉 [I miss fun ads](http://9gag.com/gag/aEqe4zo)<!-- MEMES:END -->
 
 ---
 
