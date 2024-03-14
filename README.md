@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Join The Verge at the 2024 Chicago Humanities Spring Festival](https://www.theverge.com/24099817/verge-chicago-humanities-festival-2024-artificial-intelligence-tickets)
- - [Sonos soundbars and speakers are on sale just in time for March Madness](https://www.theverge.com/2024/3/14/24100247/sonos-ray-beam-sub-mini-move-2-march-madness-deal-sale)
- - [The potential TikTok ban is being decided on by the wrong people](https://appleinsider.com/articles/24/03/14/the-potential-tiktok-ban-is-being-decided-on-by-the-wrong-people?utm_medium=rss)<!-- TECH:END -->
+ - [X takes down a graphic video shared by Elon Musk purporting to show cannibalism in Haiti, for violating the company&#39;s rules &lpar;Craig Trudell/Bloomberg&rpar;](http://www.techmeme.com/240314/p24#a240314p24)
+ - [US cybersecurity company Zscaler acquires Israeli cybersecurity startup Avalor for $350M; Avalor was founded two years ago and has raised just $30M to date &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/240314/p23#a240314p23)
+ - [Android phones with Gemini Nano could gain another handy on-device feature](https://www.androidauthority.com/gemini-nano-ai-article-summaries-3425331/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
