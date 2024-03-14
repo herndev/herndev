@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps and Search will now show you latest social media posts from businesses](https://www.androidauthority.com/google-business-profiles-get-social-3425372/)
- - [Samsung’s March 2024 security update arrives on Galaxy 23 series and more phones](https://www.androidauthority.com/samsung-march-2024-security-update-3425285/)
- - [Kaiko: trading volume for the top crypto memecoins reached ~$80B in the past week, the highest since October 2021; total market value of memecoins topped $60B &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240313/p39#a240313p39)<!-- TECH:END -->
+ - [Gerald M. Levin, former Time Warner CEO who oversaw the merger with AOL, widely considered the worst corporate merger in US history, died on March 13 at age 84 &lpar;Chris Kornelis/New York Times&rpar;](http://www.techmeme.com/240314/p2#a240314p2)
+ - [A deep dive into Vision Pro by Meta&#39;s ex-VP of VR Hugo Barra: the audacity of Apple&#39;s hardware decisions, a dull software story, how Meta can respond, and more &lpar;Hugo Barra/Hugo&#39;s Blog&rpar;](http://www.techmeme.com/240314/p1#a240314p1)
+ - [Google Maps and Search will now show you latest social media posts from businesses](https://www.androidauthority.com/google-business-profiles-get-social-3425372/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
