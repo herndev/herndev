@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Oculus chief: Apple Vision Pro is the VR industry&#39;s new Northstar](https://appleinsider.com/articles/24/03/14/former-oculus-chief-apple-vision-pro-is-the-vr-industrys-new-northstar?utm_medium=rss)
- - [The EU opens a formal DSA investigation into Alibaba&#39;s AliExpress over illegal content concerns, product recommendations, and more, the third DSA investigation &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240314/p15#a240314p15)
- - [Samsung aims for a new mid-range champion with the Galaxy A55 5G &lpar;Update&rpar;](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)<!-- TECH:END -->
+ - [SpaceX Starship launch: third time’s the charm?](https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three)
+ - [Unstructured, which helps companies prepare &quot;really messy, sloppy data&quot; for AI training, raised a $40M Series B led by Menlo Ventures at a $230M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/240314/p17#a240314p17)
+ - [Google Pixel 9 rumors: Expected release date and what we want to see](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
