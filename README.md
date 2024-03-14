@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halo TV show making the humans the villains completely misses the point](https://www.polygon.com/24101232/halo-tv-show-new-episode-covenant-review)
- - [I&#39;ve never sided with Caesar in Fallout: New Vegas but I&#39;m guiltily playing his deck in Magic: The Gathering](https://www.pcgamer.com/games/card-games/ive-never-sided-with-caesar-in-fallout-new-vegas-but-im-guiltily-playing-his-deck-in-magic-the-gathering)
- - [This TikToker has the golden recipe for viral meme art: buff cartoon characters](https://www.polygon.com/24100113/tiktok-meme-art-mew-buff-pixar-monsters-inc)<!-- GAME:END -->
+ - [You won&#39;t need to propose to Elden Ring&#39;s heretical moon witch to wield her legendary sword—$500 will do just fine](https://www.pcgamer.com/games/rpg/you-wont-need-to-propose-to-elden-rings-heretical-moon-witch-to-wield-her-legendary-sworddollar500-will-do-just-fine)
+ - [Final Fantasy VII Rebirth: How Nobuo Uematsu and Loren Allred created Aerith’s “No Promises to Keep”](https://blog.playstation.com/2024/03/14/final-fantasy-vii-rebirth-how-nobuo-uematsu-and-loren-allred-created-aeriths-no-promises-to-keep/)
+ - [The Halo TV show making the humans the villains completely misses the point](https://www.polygon.com/24101232/halo-tv-show-new-episode-covenant-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
