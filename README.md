@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
- - ⏩ [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 👉 [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)<!-- MEMES:END -->
+ - 💣 [A mom is arrested for protecting his kid against bullies... Land of the Free..](http://9gag.com/gag/avQbVmO)
+ - ⏩ [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)<!-- MEMES:END -->
 
 ---
 
