@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - ⏩ [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 👉 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)<!-- MEMES:END -->
+ - 💣 [Laugh](http://9gag.com/gag/aDYBKr9)
+ - ⏩ [A great Comedian](http://9gag.com/gag/aDYBKQZ)
+ - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
 
 ---
 
