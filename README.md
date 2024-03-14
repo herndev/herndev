@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - ⏩ [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 💣 [`It&#39;s not even a fair fight` -Coworker](http://9gag.com/gag/aEqemwM)
+ - ⏩ [In Canada vehicle owners are being urged to leave their keys near the front door to prevent being attacked by armed thieves.](http://9gag.com/gag/a2KQ6Mp)
  - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
 
 ---
