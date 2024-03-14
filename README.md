@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call security](http://9gag.com/gag/aXn860P)
- - ⏩ [Eeeeeh?](http://9gag.com/gag/agoRwyq)
- - 👉 [Smile](http://9gag.com/gag/armPQ57)<!-- MEMES:END -->
+ - 💣 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
+ - ⏩ [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)
+ - 👉 [Febrio De-Zoysa - He killed a family of 5 &lpar;mother and 4 children, youngest being 2.5 months old girl&rpar; and one of their relatives, total 6 murders and badly injured the father. Happened in Ottawa! He lived with the family as a student.](http://9gag.com/gag/aGEP4A6)<!-- MEMES:END -->
 
 ---
 
