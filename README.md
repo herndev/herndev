@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - ⏩ [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - ⏩ [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
  - 👉 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)<!-- MEMES:END -->
 
 ---
