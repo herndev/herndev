@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India grants a consumer payments license to Paytm, which has until now operated under a license connected to its beleaguered affiliate, Paytm Payments Bank &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p26#a240314p26)
- - [Thunderbolt 5 vs Thunderbolt 4 -- compared](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)
- - [Intel launches the $689 Core i9-14900KS Special Edition processor with clock speeds up to 6.2GHz, making it Intel&#39;s fastest mainstream chip &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240314/p25#a240314p25)<!-- TECH:END -->
+ - [Damage to the West Africa Cable System, MainOne, and ACE sea cables disrupts internet services across Africa; the cause of the faults has not been determined &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p29#a240314p29)
+ - [Google adds real-time URL protection to Chrome&#39;s Safe Browsing Standard on desktop and iOS, claiming to guard users&#39; privacy; Android will get the feature soon &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240314/p28#a240314p28)
+ - [Amazon&#39;s Big Spring Sale starts March 20, but you can grab official Apple products from $7.99 right now](https://appleinsider.com/articles/24/03/14/amazons-big-spring-sale-starts-march-20-but-you-can-grab-official-apple-products-from-799-right-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
