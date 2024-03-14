@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Damage to the West Africa Cable System, MainOne, and ACE sea cables disrupts internet services across Africa; the cause of the faults has not been determined &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p29#a240314p29)
- - [Google adds real-time URL protection to Chrome&#39;s Safe Browsing Standard on desktop and iOS, claiming to guard users&#39; privacy; Android will get the feature soon &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240314/p28#a240314p28)
- - [Amazon&#39;s Big Spring Sale starts March 20, but you can grab official Apple products from $7.99 right now](https://appleinsider.com/articles/24/03/14/amazons-big-spring-sale-starts-march-20-but-you-can-grab-official-apple-products-from-799-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [CBP wants to use AI to scan for fentanyl at the border](https://www.theverge.com/2024/3/14/24099953/cbp-border-ai-fentanyl-scanners-privacy)
+ - [Wooting built the best gaming keyboard — now a new model introduces ‘Rappy Snappy’](https://www.theverge.com/2024/3/14/24100819/wooting-80he-keyboard-rappy-snappy-feature)
+ - [The SEC is sick of Elon Musk’s attempts to delay its Twitter investigation](https://www.theverge.com/2024/3/14/24100847/elon-musk-sec-investigation-delay-twitter-disclosure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
