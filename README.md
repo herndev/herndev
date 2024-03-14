@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As the Warner Bros suits begin to blame Suicide Squad for everything but the weather, the newly released game&#39;s price is almost slashed in half](https://www.pcgamer.com/games/action/as-the-warner-bros-suits-begin-to-blame-suicide-squad-for-everything-but-the-weather-the-newly-released-games-price-is-almost-slashed-in-half)
- - [Planets that are entirely a single biome, ranked](https://www.polygon.com/24099643/dune-planets-star-wars-marvel)
- - [Dreamlight Valley Devs Making A Life-Sim RPG Set In Baldur&#39;s Gate III Universe](https://kotaku.com/baldurs-gate-iii-3-dreamlight-valley-new-life-sim-rpg-1851336176)<!-- GAME:END -->
+ - [Epic Games Store exclusives, including Alan Wake 2, are cheaper through March 26](https://www.polygon.com/24100924/epic-games-store-alan-wake-2-spring-sale-2024-deal)
+ - [EA is giving away The Sims 4’s backyard pack for free](https://www.polygon.com/24101060/the-sims-4-backyard-stuff-pack-free)
+ - [The next big D&amp;D videogame is a survival-life sim from the makers of Disney Dreamlight Valley](https://www.pcgamer.com/games/survival-crafting/the-next-big-dandd-videogame-is-a-survival-life-sim-from-the-makers-of-disney-dreamlight-valley)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
