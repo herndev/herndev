@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This &#39;photorealistic&#39; RTS about ants is the second RTS about ants to be based on a 1991 French novel about ants](https://www.pcgamer.com/games/rts/this-photorealistic-rts-about-ants-is-the-second-rts-about-ants-to-be-based-on-a-1991-french-novel-about-ants)
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
- - [Fuel cell technology can be made much more efficient thanks to immersion in caffeine, much like myself and the rest of the planet](https://www.pcgamer.com/hardware/fuel-cell-technology-can-be-made-much-more-efficient-thanks-to-immersion-in-caffeine-much-like-myself-and-the-rest-of-the-planet)<!-- GAME:END -->
+ - [Unables is Available Now on Xbox](https://news.xbox.com/en-us/2024/03/14/unables-is-available-now-on-xbox/)
+ - [Got a laptop plugged in 24/7? You could be ruining your battery life, so prepare to do the charger dance](https://www.pcgamer.com/hardware/gaming-laptops/got-a-laptop-plugged-in-247-you-could-be-ruining-your-battery-life-so-prepare-to-do-the-charger-dance)
+ - [RimWorld&#39;s new expansion is introducing &#39;IEDs that resurrect the dead,&#39; fleshbeasts, and a &#39;beautiful golden cube&#39; that you will love, or else](https://www.pcgamer.com/games/sim/rimworlds-new-expansion-is-introducing-ieds-that-resurrect-the-dead-fleshbeasts-and-a-beautiful-golden-cube-that-you-will-love-or-else)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
