@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
- - ⏩ [Gaming](http://9gag.com/gag/a6qWejb)
- - 👉 [Hidden knowledge](http://9gag.com/gag/aNwyG33)<!-- MEMES:END -->
+ - 💣 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - ⏩ [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - 👉 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)<!-- MEMES:END -->
 
 ---
 
