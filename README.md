@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Exciting Xbox News from Capcom Highlights](https://news.xbox.com/en-us/2024/03/13/xbox-news-from-capcom-highlights/)
- - [Summer Game Fest returns to fill the E3-shaped hole in our hearts on June 7](https://www.pcgamer.com/gaming-industry/events-conferences/summer-game-fest-returns-to-fill-the-e3-shaped-hole-in-our-hearts-on-june-7)
- - [42 games from legendary British indie Jeff Minter&#39;s psychedelic back catalogue are now bundled with an &#39;interactive documentary&#39; on Steam](https://www.pcgamer.com/games/action/42-games-from-legendary-british-indie-jeff-minters-psychedelic-back-catalogue-are-now-bundled-with-an-interactive-documentary-on-steam)<!-- GAME:END -->
+ - [Starship Troopers star Casper Van Dien is ready to do his part for Helldivers 2](https://www.pcgamer.com/games/action/starship-troopers-star-casper-van-dien-is-ready-to-do-his-part-for-helldivers-2)
+ - [Get To Know Our Team: Donovan – Technical Program Manager &lpar;OS/Hardware Flighting &amp; Hardware Readiness&rpar;](https://news.xbox.com/en-us/2024/03/13/get-to-know-our-team-donovan-technical-program-manager-os-hardware-flighting-hardware-readiness/)
+ - [All the Exciting Xbox News from Capcom Highlights](https://news.xbox.com/en-us/2024/03/13/xbox-news-from-capcom-highlights/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
