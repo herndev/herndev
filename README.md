@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More people are buying the Samsung Galaxy S24 Plus this year. Here’s why.](https://www.androidauthority.com/samsung-galaxy-s24-plus-initial-sales-3425415/)
- - [Amazon says &quot;a tiny fraction&quot; of sellers paid for ads for products users couldn&#39;t buy and pledges a fix; Amazon offered a $15K refund to a seller seeking $300K &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240314/p13#a240314p13)
- - [The next OnePlus phone will have the most powerful mid-range chip in 2024](https://www.androidauthority.com/oneplus-ace-3v-snapdragon-7-plus-gen-3-3425476/)<!-- TECH:END -->
+ - [Former Oculus chief: Apple Vision Pro is the VR industry&#39;s new Northstar](https://appleinsider.com/articles/24/03/14/former-oculus-chief-apple-vision-pro-is-the-vr-industrys-new-northstar?utm_medium=rss)
+ - [The EU opens a formal DSA investigation into Alibaba&#39;s AliExpress over illegal content concerns, product recommendations, and more, the third DSA investigation &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240314/p15#a240314p15)
+ - [Samsung aims for a new mid-range champion with the Galaxy A55 5G &lpar;Update&rpar;](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
