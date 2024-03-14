@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Visa&#39;s and Mastercard&#39;s efforts to stay relevant in Africa, including by funding local startups, as users switch to digital wallets and QR codes &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240314/p8#a240314p8)
- - [Microlino electric bubble car review: urban delight](https://www.theverge.com/24093189/microlino-review-microcar-specs-price)
- - [Download these nature-inspired wallpapers for your phone](https://www.androidauthority.com/nature-phone-wallpaper-3424699/)<!-- TECH:END -->
+ - [When it comes to mid-rangers, Google rather than Samsung has your heart](https://www.androidauthority.com/google-samsung-mid-range-phones-poll-results-3424990/)
+ - [Where are Android’s AirTags? Blame Apple for the delay](https://www.androidauthority.com/apple-delaying-android-airtag-find-my-device-network-3425394/)
+ - [The best affordable AI APIs: How to choose the right one](https://www.androidauthority.com/best-affordable-ai-apis-3424949/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
