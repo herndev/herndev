@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beautiful smile](http://9gag.com/gag/aWGVyL3)
- - ⏩ [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
- - 👉 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)<!-- MEMES:END -->
+ - 💣 [Call security](http://9gag.com/gag/aXn860P)
+ - ⏩ [Eeeeeh?](http://9gag.com/gag/agoRwyq)
+ - 👉 [Smile](http://9gag.com/gag/armPQ57)<!-- MEMES:END -->
 
 ---
 
