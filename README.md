@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When it comes to mid-rangers, Google rather than Samsung has your heart](https://www.androidauthority.com/google-samsung-mid-range-phones-poll-results-3424990/)
- - [Where are Android’s AirTags? Blame Apple for the delay](https://www.androidauthority.com/apple-delaying-android-airtag-find-my-device-network-3425394/)
- - [The best affordable AI APIs: How to choose the right one](https://www.androidauthority.com/best-affordable-ai-apis-3424949/)<!-- TECH:END -->
+ - [Internal TikTok memo: the company is &quot;disappointed&quot; the US House passed the TikTok divestment bill, and plans to lobby the Senate not to pass the legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p11#a240314p11)
+ - [Foxconn reports Q4 revenue down 5.7% YoY to ~$59B, as cloud and networking demand falls, net profit up 33% YoY to $1.69B, and expects flat 2024 consumer demand &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/240314/p10#a240314p10)
+ - [US paid music subscribers hit a record 109M in 2023, rising to 136M including SiriusXM and Amazon Prime Music; seven of every 10 US millennials pay to subscribe &lpar;Russ Crupnick/MusicWatch&rpar;](http://www.techmeme.com/240314/p9#a240314p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
