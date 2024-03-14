@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`It&#39;s not even a fair fight` -Coworker](http://9gag.com/gag/aEqemwM)
- - ⏩ [In Canada vehicle owners are being urged to leave their keys near the front door to prevent being attacked by armed thieves.](http://9gag.com/gag/a2KQ6Mp)
- - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
+ - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - ⏩ [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 👉 [`It&#39;s not even a fair fight` -Coworker](http://9gag.com/gag/aEqemwM)<!-- MEMES:END -->
 
 ---
 
