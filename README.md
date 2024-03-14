@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laugh](http://9gag.com/gag/aDYBKr9)
- - ⏩ [A great Comedian](http://9gag.com/gag/aDYBKQZ)
- - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
+ - 💣 [Bang , Dang, Bam and Batman](http://9gag.com/gag/aRExqvj)
+ - ⏩ [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
+ - 👉 [Football managers reminding people they were players long ago](http://9gag.com/gag/ajV2eep)<!-- MEMES:END -->
 
 ---
 
