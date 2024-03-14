@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Probably one of the worst launches of all time&#39;: Star Wars: Battlefront Classic Collection players tear into Aspyr for bugs, crashes, and 3 64-player launch servers for nearly 10,000 users](https://www.pcgamer.com/games/fps/probably-one-of-the-worst-launches-of-all-time-star-wars-battlefront-classic-collection-players-tear-into-aspyr-for-bugs-crashes-and-3-64-player-launch-servers-for-nearly-10000-users)
- - [Demand for AMD CPUs surges as crypto mining rises from the ashes](https://www.pcgamer.com/hardware/processors/demand-for-amd-cpus-surges-as-crypto-mining-rises-from-the-ashes)
- - [Google develops an AI that will actually play games with you](https://www.pcgamer.com/software/ai/google-develops-an-ai-that-will-actually-play-games-with-you)<!-- GAME:END -->
+ - [Tim Sweeney emailed Gabe Newell calling Valve &#39;you assholes&#39; over Steam policies, to which Valve&#39;s COO simply replied &#39;you mad bro?&#39;](https://www.pcgamer.com/gaming-industry/tim-sweeney-emailed-gabe-newell-calling-valve-you-assholes-over-steam-policies-to-which-valves-coo-simply-replied-you-mad-bro)
+ - [Uh oh: A single suit of armour in the latest Helldivers 2 Warbond makes 4-person Arc Thrower squads viable, in case you&#39;d like to unleash electric mayhem](https://www.pcgamer.com/games/third-person-shooter/uh-oh-a-single-suit-of-armour-in-the-latest-helldivers-2-warbond-makes-4-person-arc-thrower-squads-viable-in-case-youd-like-to-unleash-electric-mayhem)
+ - [SimCity, Metroid, and Neopets &lpar;and 9 others&rpar; nominated for Video Game Fall of Fame](https://www.polygon.com/24099556/simcity-metroid-neopets-video-game-hall-of-fame-strong-museum)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
