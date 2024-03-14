@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Canada vehicle owners are being urged to leave their keys near the front door to prevent being attacked by armed thieves.](http://9gag.com/gag/a2KQ6Mp)
- - ⏩ [Football managers reminding people they were players long ago](http://9gag.com/gag/ajV2eep)
- - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
+ - 💣 [Beautiful renovation in Lodz, Poland](http://9gag.com/gag/aoKBwAe)
+ - ⏩ [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [Indeed](http://9gag.com/gag/aDYBeeG)<!-- MEMES:END -->
 
 ---
 
