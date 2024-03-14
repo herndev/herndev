@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bang , Dang, Bam and Batman](http://9gag.com/gag/aRExqvj)
- - ⏩ [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
- - 👉 [Football managers reminding people they were players long ago](http://9gag.com/gag/ajV2eep)<!-- MEMES:END -->
+ - 💣 [Beautiful smile](http://9gag.com/gag/aWGVyL3)
+ - ⏩ [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
+ - 👉 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)<!-- MEMES:END -->
 
 ---
 
