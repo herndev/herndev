@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Then Jesus told them \u2026..](http://9gag.com/gag/aNwy5DK)
- - ⏩ [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
- - 👉 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)<!-- MEMES:END -->
+ - 💣 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - ⏩ [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
 
 ---
 
