@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X takes down a graphic video shared by Elon Musk purporting to show cannibalism in Haiti, for violating the company&#39;s rules &lpar;Craig Trudell/Bloomberg&rpar;](http://www.techmeme.com/240314/p24#a240314p24)
- - [US cybersecurity company Zscaler acquires Israeli cybersecurity startup Avalor for $350M; Avalor was founded two years ago and has raised just $30M to date &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/240314/p23#a240314p23)
- - [Android phones with Gemini Nano could gain another handy on-device feature](https://www.androidauthority.com/gemini-nano-ai-article-summaries-3425331/)<!-- TECH:END -->
+ - [India grants a consumer payments license to Paytm, which has until now operated under a license connected to its beleaguered affiliate, Paytm Payments Bank &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p26#a240314p26)
+ - [Thunderbolt 5 vs Thunderbolt 4 -- compared](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)
+ - [Intel launches the $689 Core i9-14900KS Special Edition processor with clock speeds up to 6.2GHz, making it Intel&#39;s fastest mainstream chip &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240314/p25#a240314p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
