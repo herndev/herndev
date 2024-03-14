@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Visa&#39;s and Mastercard&#39;s efforts to stay relevant in Africa, including by funding local startups, as users switch to digital wallets and QR codes &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240314/p8#a240314p8)
  - [Microlino electric bubble car review: urban delight](https://www.theverge.com/24093189/microlino-review-microcar-specs-price)
- - [Download these nature-inspired wallpapers for your phone](https://www.androidauthority.com/nature-phone-wallpaper-3424699/)
- - [A look at the costs of a smartphone-based childhood, as Gen Z struggles with poor mental health and lags behind previous generations on many important metrics &lpar;Jonathan Haidt/The Atlantic&rpar;](http://www.techmeme.com/240314/p7#a240314p7)<!-- TECH:END -->
+ - [Download these nature-inspired wallpapers for your phone](https://www.androidauthority.com/nature-phone-wallpaper-3424699/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
