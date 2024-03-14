@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - ⏩ [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 👉 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)<!-- MEMES:END -->
+ - 💣 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - ⏩ [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
 
 ---
 
