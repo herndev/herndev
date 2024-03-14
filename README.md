@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Games Store exclusives, including Alan Wake 2, are cheaper through March 26](https://www.polygon.com/24100924/epic-games-store-alan-wake-2-spring-sale-2024-deal)
- - [EA is giving away The Sims 4’s backyard pack for free](https://www.polygon.com/24101060/the-sims-4-backyard-stuff-pack-free)
- - [The next big D&amp;D videogame is a survival-life sim from the makers of Disney Dreamlight Valley](https://www.pcgamer.com/games/survival-crafting/the-next-big-dandd-videogame-is-a-survival-life-sim-from-the-makers-of-disney-dreamlight-valley)<!-- GAME:END -->
+ - [Lucas Pope&#39;s new Playdate exclusive is a delightful riff on Papers, Please, but for farty Martians and sad cyclops](https://www.pcgamer.com/games/sim/lucas-popes-new-playdate-exclusive-is-a-delightful-riff-on-papers-please-but-for-farty-martians-and-sad-cyclops)
+ - [12 Of The Best Games To Get During Steam’s Spring Sale](https://kotaku.com/steam-spring-sale-2024-baldurs-gate-3-1851336964)
+ - [Epic is having a spring sale too, and to get things started it&#39;s giving away Deus Ex: Mankind Divided for the first time](https://www.pcgamer.com/gaming-industry/events-conferences/epic-is-having-a-spring-sale-too-and-to-get-things-started-its-giving-away-deus-ex-mankind-divided-for-the-first-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
