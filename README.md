@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beautiful renovation in Lodz, Poland](http://9gag.com/gag/aoKBwAe)
- - ⏩ [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 👉 [Indeed](http://9gag.com/gag/aDYBeeG)<!-- MEMES:END -->
+ - 💣 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
+ - ⏩ [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - 👉 [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)<!-- MEMES:END -->
 
 ---
 
