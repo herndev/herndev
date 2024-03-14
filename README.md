@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A mom is arrested for protecting his kid against bullies... Land of the Free..](http://9gag.com/gag/avQbVmO)
- - ⏩ [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - ⏩ [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
  - 👉 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)<!-- MEMES:END -->
 
 ---
