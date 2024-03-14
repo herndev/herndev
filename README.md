@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
- - ⏩ [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
- - 👉 [I am always watching you](http://9gag.com/gag/aqevwwv)<!-- MEMES:END -->
+ - 💣 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - ⏩ [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)<!-- MEMES:END -->
 
 ---
 
