@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gerald M. Levin, former Time Warner CEO who oversaw the merger with AOL, widely considered the worst corporate merger in US history, died on March 13 at age 84 &lpar;Chris Kornelis/New York Times&rpar;](http://www.techmeme.com/240314/p2#a240314p2)
- - [A deep dive into Vision Pro by Meta&#39;s ex-VP of VR Hugo Barra: the audacity of Apple&#39;s hardware decisions, a dull software story, how Meta can respond, and more &lpar;Hugo Barra/Hugo&#39;s Blog&rpar;](http://www.techmeme.com/240314/p1#a240314p1)
- - [Google Maps and Search will now show you latest social media posts from businesses](https://www.androidauthority.com/google-business-profiles-get-social-3425372/)<!-- TECH:END -->
+ - [ByteDance investors reassessing what the company&#39;s value would be without TikTok, estimate that TikTok lost several billion dollars in 2023 on revenue of ~$20B &lpar;The Information&rpar;](http://www.techmeme.com/240314/p4#a240314p4)
+ - [Samsung reveals why it’s not launching the Galaxy A55 in the US](https://www.androidauthority.com/galaxy-a55-not-launching-usa-3424471/)
+ - [Sources: Google&#39;s Search Generative Experience could cut organic search traffic to publishers by 20% to 60%; Google says it is premature to estimate the impact &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/240314/p3#a240314p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
