@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The macOS Sonoma 14.4 update is breaking printers for some users](https://appleinsider.com/articles/24/03/14/the-macos-sonoma-144-update-is-breaking-printers-for-some-users?utm_medium=rss)
- - [Microsoft launches Copilot Pro worldwide with a one-month free trial; Pro subscribers can use the AI assistant in Office web apps without a Microsoft 365 sub &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240314/p32#a240314p32)
- - [Netflix is bringing back Black Mirror in 2025](https://www.theverge.com/2024/3/14/24101013/black-mirror-season-7-netflix-date-trailer)<!-- TECH:END -->
+ - [Spotify says its iPhone app updates in the EU are getting held up by Apple](https://www.theverge.com/2024/3/14/24100944/spotify-ios-app-update-eu-apple-dma)
+ - [Pornhub blocks access to users in Texas, after a federal appeals court upheld a Texas law last week requiring porn sites to institute age-verification measures &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240314/p36#a240314p36)
+ - [Google Messages replaces the default viewfinder with new camera UI](https://www.androidauthority.com/google-messages-camera-ui-3425597/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
