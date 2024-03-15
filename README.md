@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The original Dragon’s Dogma arrived at a dark time in Capcom history](https://www.polygon.com/24093239/dragons-dogma-history-2012-capcom)
- - [Palworld dev says &#39;a game without a multiplayer mode just doesn’t feel right in the era we live today&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-dev-says-a-game-without-a-multiplayer-mode-just-doesnt-feel-right-in-the-era-we-live-today)
- - [Palworld Devs Say ‘Triple-A Games Are Not For Us’](https://kotaku.com/palworld-game-pocketpair-pokemon-with-guns-1851338971)<!-- GAME:END -->
+ - [Everything You Need to Know to Start Playing MLB The Show 24 Today on Xbox](https://news.xbox.com/en-us/2024/03/15/start-playing-mlb-the-show-24-today-on-xbox/)
+ - [Stardew Valley’s Latest 1.6 Patch Note Teases A Fix For That Pet Problem](https://kotaku.com/stardew-valley-16-update-pets-1851339214)
+ - [Say Hello to Marketplace Pass](https://www.minecraft.net/en-us/article/say-hello-marketplace-pass#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
