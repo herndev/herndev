@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call security](http://9gag.com/gag/aXn860P)
- - ⏩ [A great Comedian](http://9gag.com/gag/aDYBKQZ)
- - 👉 [Smile](http://9gag.com/gag/armPQ57)<!-- MEMES:END -->
+ - 💣 [How lucky are you?](http://9gag.com/gag/aA0nj39)
+ - ⏩ [Say what?](http://9gag.com/gag/amADZnX)
+ - 👉 [Epic Games CEO might be mad now](http://9gag.com/gag/abvj7z9)<!-- MEMES:END -->
 
 ---
 
