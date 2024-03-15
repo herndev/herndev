@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightingale devs are &#39;not happy&#39; with the current state of the game, fixes for disconnections are coming—but the offline mode still doesn&#39;t have a timeline](https://www.pcgamer.com/games/survival-crafting/nightingale-devs-are-not-happy-with-the-current-state-of-the-game-fixes-for-disconnections-are-comingbut-the-offline-mode-still-doesnt-have-a-timeline)
- - [Finally, You Can Dunk On Madame Web From The Comfort Of Home](https://kotaku.com/madame-web-digital-home-streaming-amazon-apple-tv-1851340035)
- - [Helldivers 2 Now Has Its Very Own ‘Let Me Solo Her’ Guy](https://kotaku.com/helldivers-2-let-me-solo-her-1851340011)<!-- GAME:END -->
+ - [Stolen Realm Brings a New Twist on Baldur’s Gate 3-Style Combat to Xbox](https://news.xbox.com/en-us/2024/03/15/stolen-realm-xbox/)
+ - [Ogerpon and its masks are coming in a new Pokémon TCG expansion that’s up for pre-order now](https://www.polygon.com/deals/24102169/pokemon-tcg-twilight-masquerade-ogerpon-etb-booster-bundle-pre-order-buy)
+ - [Wordle now requires a New York Times account to view your stats](https://www.pcgamer.com/games/puzzle/wordle-stats-new-york-times-account-required)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
