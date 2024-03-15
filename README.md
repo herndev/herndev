@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Epic Games CEO might be mad now](http://9gag.com/gag/abvj7z9)
- - ⏩ [Smile](http://9gag.com/gag/armPQ57)
- - 👉 [Save it and forget.](http://9gag.com/gag/a4oMXjp)<!-- MEMES:END -->
+ - 💣 [Call security](http://9gag.com/gag/aXn860P)
+ - ⏩ [A great Comedian](http://9gag.com/gag/aDYBKQZ)
+ - 👉 [Smile](http://9gag.com/gag/armPQ57)<!-- MEMES:END -->
 
 ---
 
