@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC has finally decreed that 25Mbps and 3Mbps are not ‘broadband’ speed](https://www.theverge.com/2024/3/14/24101313/fcc-new-broadband-definition-100mbps-20mbps)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Best Internet Providers in Gainesville, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-gainesville-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zephyr AI, which uses AI to generate insights into improving patient care and research in oncology and cardiometabolic diseases, raised a $111M Series A &lpar;Robert Barrie/Pharmaceutical Technology&rpar;](http://www.techmeme.com/240314/p44#a240314p44)
+ - [An investigation into Onerep.com, which helps people remove their personal data from people-search sites, suggests its CEO founded dozens of people-search sites &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240314/p43#a240314p43)
+ - [Save up to $236 on Sonos speakers, soundbars &amp; subs ahead of March Madness 2024](https://appleinsider.com/articles/24/03/15/save-up-to-236-on-sonos-speakers-soundbars-subs-ahead-of-march-madness-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
