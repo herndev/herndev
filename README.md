@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
- - ⏩ [Call security](http://9gag.com/gag/aXn860P)
- - 👉 [Title](http://9gag.com/gag/aA0nzWL)<!-- MEMES:END -->
+ - 💣 [Call security](http://9gag.com/gag/aXn860P)
+ - ⏩ [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
+ - 👉 [Gym bros are the best bros. Kudos to her](http://9gag.com/gag/aMEp3vR)<!-- MEMES:END -->
 
 ---
 
