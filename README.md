@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stolen Realm Brings a New Twist on Baldur’s Gate 3-Style Combat to Xbox](https://news.xbox.com/en-us/2024/03/15/stolen-realm-xbox/)
- - [Ogerpon and its masks are coming in a new Pokémon TCG expansion that’s up for pre-order now](https://www.polygon.com/deals/24102169/pokemon-tcg-twilight-masquerade-ogerpon-etb-booster-bundle-pre-order-buy)
- - [Wordle now requires a New York Times account to view your stats](https://www.pcgamer.com/games/puzzle/wordle-stats-new-york-times-account-required)<!-- GAME:END -->
+ - [New and existing subscribers can save over 40% on Max annual plans through April 9](https://www.polygon.com/entertainment/24102239/max-streaming-annual-subscription-deal-sale)
+ - [Stardew Valley&#39;s 1.6 Update Will Fix Your Marriage](https://kotaku.com/stardew-valley-16-update-honeymoon-phase-1851340503)
+ - [Along with fixing a glitch that&#39;s been bugging players for 8 years, Stardew Valley&#39;s 1.6 update will also fix a glitch that&#39;s been bugging Eric Barone for 8 years](https://www.pcgamer.com/games/life-sim/along-with-fixing-a-glitch-thats-been-bugging-players-for-8-years-stardew-valleys-16-update-will-also-fix-a-glitch-thats-been-bugging-eric-barone-for-8-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
