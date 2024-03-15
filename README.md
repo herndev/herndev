@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will surrender less than a day of earnings to satisfy class action suit](https://appleinsider.com/articles/24/03/15/apple-will-surrender-less-than-a-day-of-earnings-to-satisfy-class-action-suit?utm_medium=rss)
- - [Walmart starts selling Macs directly for the first time, partnering with Apple to offer M1 MacBook Air for $699; Apple stopped selling M1 MacBook Air itself &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240315/p14#a240315p14)
- - [Microsoft takes on ChatGPT Plus with worldwide release of Copilot Pro](https://www.androidauthority.com/microsoft-copilot-pro-global-launch-3426107/)<!-- TECH:END -->
+ - [Uber and Lyft plan to leave Minneapolis on May 1, after the city council passed an ordinance to guarantee drivers a minimum rate of $1.40/mile and $0.5/minute &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240315/p16#a240315p16)
+ - [Microsoft is stuffing pop-up ads into Google Chrome on Windows again](https://www.theverge.com/2024/3/15/24101887/microsoft-bing-popups-windows-11-google-chrome)
+ - [WhatsApp tests adding more authentication options beyond biometrics](https://www.androidauthority.com/whatsapp-beta-authentication-options-3426217/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
