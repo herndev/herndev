@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New and existing subscribers can save over 40% on Max annual plans through April 9](https://www.polygon.com/entertainment/24102239/max-streaming-annual-subscription-deal-sale)
- - [Stardew Valley&#39;s 1.6 Update Will Fix Your Marriage](https://kotaku.com/stardew-valley-16-update-honeymoon-phase-1851340503)
- - [Along with fixing a glitch that&#39;s been bugging players for 8 years, Stardew Valley&#39;s 1.6 update will also fix a glitch that&#39;s been bugging Eric Barone for 8 years](https://www.pcgamer.com/games/life-sim/along-with-fixing-a-glitch-thats-been-bugging-players-for-8-years-stardew-valleys-16-update-will-also-fix-a-glitch-thats-been-bugging-eric-barone-for-8-years)<!-- GAME:END -->
+ - [Stardew Valley&#39;s 1.6 update will add a 1-week honeymoon period for newly-married players that will keep their spouses &#39;from laying in bed all day due to being upset&#39;](https://www.pcgamer.com/games/life-sim/stardew-valleys-16-update-will-add-a-1-week-honeymoon-period-for-newly-married-players-that-will-keep-their-spouses-from-laying-in-bed-all-day-due-to-being-upset)
+ - [All the Scream 7 news so far, including its new director](https://www.polygon.com/23639913/scream-7-release-date-cast-news)
+ - [Baldur&#39;s Gate 3 wins again: It was the most-played game on Steam Deck over the past 12 months](https://www.pcgamer.com/hardware/handheld-gaming-pcs/baldurs-gate-3-wins-again-it-was-the-most-played-game-on-steam-deck-over-the-past-12-months)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
