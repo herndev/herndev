@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call security](http://9gag.com/gag/aXn860P)
- - ⏩ [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
- - 👉 [Gym bros are the best bros. Kudos to her](http://9gag.com/gag/aMEp3vR)<!-- MEMES:END -->
+ - 💣 [Right or wrong](http://9gag.com/gag/aWGVz64)
+ - ⏩ [Nuked by community note](http://9gag.com/gag/anzApX5)
+ - 👉 [What was the plan here](http://9gag.com/gag/aWGVwDx)<!-- MEMES:END -->
 
 ---
 
