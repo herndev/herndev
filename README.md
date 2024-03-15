@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I am surprised I’ve not gone grey!&#39;: Satisfactory&#39;s community is celebrating its 5th birthday with a grand tournament, and even the devs are joining in](https://www.pcgamer.com/games/sim/i-am-surprised-ive-not-gone-grey-satisfactorys-community-is-celebrating-its-5th-birthday-with-a-grand-tournament-and-even-the-devs-are-joining-in)
- - [The leading man of Helldivers 2&#39;s hilarious cinematic PSA had a blast filming it—also, there&#39;s an improvised democratic &#39;freestyle rap&#39; somewhere at Arrowhead HQ](https://www.pcgamer.com/games/third-person-shooter/the-leading-man-of-helldivers-2s-hilarious-cinematic-psa-had-a-blast-filming-italso-theres-an-improvised-democratic-freestyle-rap-somewhere-at-arrowhead-hq)
- - [Aspyr makes Star Wars: Battlefront Classic Collection statement after crashing to &#39;Overwhelmingly Negative&#39; reviews, says it&#39;s working on it, doesn&#39;t apologise or explain why it needs 62.87GB of your disc space](https://www.pcgamer.com/games/fps/aspyr-makes-star-wars-battlefront-classic-collection-statement-after-crashing-to-overwhelmingly-negative-reviews-says-its-working-on-it-doesnt-apologise-or-explain-why-it-needs-6287gb-of-your-disc-space)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 18 – 22](https://news.xbox.com/en-us/2024/03/15/next-week-on-xbox-new-games-for-march-18-22/)
+ - [18 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)
+ - [If you&#39;re &#39;worried about what AI will do&#39; AMD&#39;s Dr. Lisa Su says &#39;the answer is not go slower, that is definitely not the answer&#39;](https://www.pcgamer.com/software/ai/if-youre-worried-about-what-ai-will-do-amds-dr-lisa-su-says-the-answer-is-not-go-slower-that-is-definitely-not-the-answer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
