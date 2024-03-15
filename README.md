@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Obtain New Member Rewards and Perks This Month with EA Play](https://news.xbox.com/en-us/2024/03/15/new-member-rewards-and-perks-this-month-with-ea-play/)
- - [Potion event recipes and market news list for Genshin Impact](https://www.polygon.com/genshin-impact-guides/24101916/potions-event-recipes-request-beidou-market-news-alchemical-ascension)
- - [Amazon&#39;s Fallout TV director says he&#39;s not trying to please fans, legions get mad at him before realising he actually lost &#39;a year&#39; of his life to Fallout 3 himself](https://www.pcgamer.com/games/fallout/amazons-fallout-tv-director-says-hes-not-trying-to-please-fans-legions-get-mad-at-him-before-realising-he-actually-lost-a-year-of-his-life-to-fallout-3-himself)<!-- GAME:END -->
+ - [Nightingale devs are &#39;not happy&#39; with the current state of the game, fixes for disconnections are coming—but the offline mode still doesn&#39;t have a timeline](https://www.pcgamer.com/games/survival-crafting/nightingale-devs-are-not-happy-with-the-current-state-of-the-game-fixes-for-disconnections-are-comingbut-the-offline-mode-still-doesnt-have-a-timeline)
+ - [Finally, You Can Dunk On Madame Web From The Comfort Of Home](https://kotaku.com/madame-web-digital-home-streaming-amazon-apple-tv-1851340035)
+ - [Helldivers 2 Now Has Its Very Own ‘Let Me Solo Her’ Guy](https://kotaku.com/helldivers-2-let-me-solo-her-1851340011)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
