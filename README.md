@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Pro leak allegedly reveals &#39;PlayStation Spectral Super Resolution&#39; and up to four times the ray tracing performance of the regular ol&#39; PS5](https://www.pcgamer.com/hardware/ps5-pro-leak-allegedly-reveals-playstation-spectral-super-resolution-and-up-to-four-times-the-ray-tracing-performance-of-the-regular-ol-ps5)
- - [Asus ROG Zephyrus G14 &lpar;2024&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g14-2024-review)
- - [Intel&#39;s new Core i9 14900KS CPU cracks 9.1GHz but still isn&#39;t remotely relevant](https://www.pcgamer.com/hardware/processors/intels-new-core-i9-14900ks-cpu-cracks-91ghz-but-still-isnt-remotely-relevant)<!-- GAME:END -->
+ - [&#39;I am surprised I’ve not gone grey!&#39;: Satisfactory&#39;s community is celebrating its 5th birthday with a grand tournament, and even the devs are joining in](https://www.pcgamer.com/games/sim/i-am-surprised-ive-not-gone-grey-satisfactorys-community-is-celebrating-its-5th-birthday-with-a-grand-tournament-and-even-the-devs-are-joining-in)
+ - [The leading man of Helldivers 2&#39;s hilarious cinematic PSA had a blast filming it—also, there&#39;s an improvised democratic &#39;freestyle rap&#39; somewhere at Arrowhead HQ](https://www.pcgamer.com/games/third-person-shooter/the-leading-man-of-helldivers-2s-hilarious-cinematic-psa-had-a-blast-filming-italso-theres-an-improvised-democratic-freestyle-rap-somewhere-at-arrowhead-hq)
+ - [Aspyr makes Star Wars: Battlefront Classic Collection statement after crashing to &#39;Overwhelmingly Negative&#39; reviews, says it&#39;s working on it, doesn&#39;t apologise or explain why it needs 62.87GB of your disc space](https://www.pcgamer.com/games/fps/aspyr-makes-star-wars-battlefront-classic-collection-statement-after-crashing-to-overwhelmingly-negative-reviews-says-its-working-on-it-doesnt-apologise-or-explain-why-it-needs-6287gb-of-your-disc-space)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
