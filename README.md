@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a first look at Android 15’s built-in app archiving feature](https://www.androidauthority.com/android-15-app-archiving-demo-3425621/)
- - [Former Apple software engineer faces up to five years in prison after threatening FBI agents](https://appleinsider.com/articles/24/03/15/former-apple-software-engineer-faces-up-to-five-years-in-prison-after-threatening-fbi-agents?utm_medium=rss)
- - [Download these artistic wallpapers for your phone](https://www.androidauthority.com/artistic-wallpaper-for-phone-3424888/)<!-- TECH:END -->
+ - [Sources: X declined requests by UK&#39;s Labour party to take down a deepfake audio clip of leader Keir Starmer, raising concerns ahead of a general election &lpar;Ailbhe Rea/Bloomberg&rpar;](http://www.techmeme.com/240315/p11#a240315p11)
+ - [What is your favorite type of smartphone case?](https://www.androidauthority.com/favorite-type-of-smartphone-case-poll-3426096/)
+ - [Are we really going to ban TikTok?](https://www.theverge.com/24101704/tiktok-ban-kate-middleton-photoshop-vergecast-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
