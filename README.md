@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the biggest CS2 tournaments in the world has completely switched over to AMD Ryzen 7 7800X3D chips &#39;to ensure a smooth esports experience&#39;](https://www.pcgamer.com/hardware/processors/one-of-the-biggest-cs2-tournaments-in-the-world-has-completely-switched-over-to-amd-ryzen-7-7800x3d-chips-to-ensure-a-smooth-esports-experience)
- - [This Hisuian Growlithe Card is Peak Pokémon TCG Storytelling](https://kotaku.com/pokemon-tcg-hisuian-growlithe-perrin-cards-crimson-haze-1851339513)
- - [Copilot and ChatGPT iterating &#39;This is fine&#39; memes perfectly captures the current state of AI: faintly alarming hilarious madness](https://www.pcgamer.com/software/ai/copilot-and-chatgpt-iterating-this-is-fine-memes-perfectly-captures-the-current-state-of-ai-faintly-alarming-hilarious-madness)<!-- GAME:END -->
+ - [Obtain New Member Rewards and Perks This Month with EA Play](https://news.xbox.com/en-us/2024/03/15/new-member-rewards-and-perks-this-month-with-ea-play/)
+ - [Potion event recipes and market news list for Genshin Impact](https://www.polygon.com/genshin-impact-guides/24101916/potions-event-recipes-request-beidou-market-news-alchemical-ascension)
+ - [Amazon&#39;s Fallout TV director says he&#39;s not trying to please fans, legions get mad at him before realising he actually lost &#39;a year&#39; of his life to Fallout 3 himself](https://www.pcgamer.com/games/fallout/amazons-fallout-tv-director-says-hes-not-trying-to-please-fans-legions-get-mad-at-him-before-realising-he-actually-lost-a-year-of-his-life-to-fallout-3-himself)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
