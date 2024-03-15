@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodafone sells its Italian business to Switzerland&#39;s Swisscom for &amp;euro;8B in cash and plans a &amp;euro;4B stock buyback; Swisscom will merge Vodafone Italia with Fastweb &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/240315/p7#a240315p7)
- - [Rock Paper Pencil review: the iPad upgrade every artist needs](https://appleinsider.com/articles/24/03/15/rock-paper-pencil-review-the-ipad-upgrade-every-artist-needs?utm_medium=rss)
- - [How to make the most of the iOS Calculator](https://appleinsider.com/inside/iphone/tips/how-to-make-the-most-of-the-ios-calculator?utm_medium=rss)<!-- TECH:END -->
+ - [Ampler introduces an all-road electric bike alongside series refresh](https://www.theverge.com/2024/3/15/24101652/ampler-anyroad-lightweight-electric-bike-price-date)
+ - [iPad Air rumored to get OLED, but it might be a long wait](https://appleinsider.com/articles/24/03/15/ipad-air-rumored-to-get-oled-but-it-might-be-a-long-wait?utm_medium=rss)
+ - [Watching TV Can Strain Your Eyes: Some Tips to Avoid Discomfort     - CNET](https://www.cnet.com/tech/watching-tv-can-strain-your-eyes-too-here-are-some-tips-for-avoiding-discomfort/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
