@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, March 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-15-2024)
- - [Civil War stuns in the least likely ways imaginable](https://www.polygon.com/24099490/civil-war-review-2024)
- - [The best deals in the 2024 Steam Spring Sale](https://www.pcgamer.com/software/platforms/the-best-deals-in-the-2024-steam-spring-sale)<!-- GAME:END -->
+ - [PS5 Pro leak allegedly reveals &#39;PlayStation Spectral Super Resolution&#39; and up to four times the ray tracing performance of the regular ol&#39; PS5](https://www.pcgamer.com/hardware/ps5-pro-leak-allegedly-reveals-playstation-spectral-super-resolution-and-up-to-four-times-the-ray-tracing-performance-of-the-regular-ol-ps5)
+ - [Asus ROG Zephyrus G14 &lpar;2024&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g14-2024-review)
+ - [Intel&#39;s new Core i9 14900KS CPU cracks 9.1GHz but still isn&#39;t remotely relevant](https://www.pcgamer.com/hardware/processors/intels-new-core-i9-14900ks-cpu-cracks-91ghz-but-still-isnt-remotely-relevant)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
