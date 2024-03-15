@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley&#39;s 1.6 update will add a 1-week honeymoon period for newly-married players that will keep their spouses &#39;from laying in bed all day due to being upset&#39;](https://www.pcgamer.com/games/life-sim/stardew-valleys-16-update-will-add-a-1-week-honeymoon-period-for-newly-married-players-that-will-keep-their-spouses-from-laying-in-bed-all-day-due-to-being-upset)
- - [All the Scream 7 news so far, including its new director](https://www.polygon.com/23639913/scream-7-release-date-cast-news)
- - [Baldur&#39;s Gate 3 wins again: It was the most-played game on Steam Deck over the past 12 months](https://www.pcgamer.com/hardware/handheld-gaming-pcs/baldurs-gate-3-wins-again-it-was-the-most-played-game-on-steam-deck-over-the-past-12-months)<!-- GAME:END -->
+ - [Taylor Swift: The Eras Tour, Netflix’s Irish Wish, Madame Web, and every new movie to watch this weekend](https://www.polygon.com/2024/3/15/24097114/new-movies-watch-taylor-swift-the-eras-tour-disney-plus-netflix-irish-wish-lindsay-lohan-madame-web)
+ - [Queen’s Blood card list in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24082221/queens-blood-cards-all-list-how-to-get)
+ - [How to get Sprigatito through Mystery Gift in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/24101954/sprigatito-mystery-gift-code)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
