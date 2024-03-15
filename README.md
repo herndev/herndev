@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/anzA67E)
- - ⏩ [A translation is needed](http://9gag.com/gag/aGEP5en)
- - 👉 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)<!-- MEMES:END -->
+ - 💣 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
+ - ⏩ [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
+ - 👉 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)<!-- MEMES:END -->
 
 ---
 
