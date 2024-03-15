@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Let the Headlines Fool You. Air Travel Is Really Very Safe](https://www.wired.com/story/dont-let-the-boeing-headlines-fool-you-air-travel-is-really-very-safe/)
- - [Spotify is letting authors market like musicians](https://www.theverge.com/2024/3/15/24102398/spotify-countdown-pages-audiobooks)
- - [Google Drive could make finding files easier with new organization feature](https://www.androidauthority.com/google-drive-categories-3426299/)<!-- TECH:END -->
+ - [Smash hit Balatro is coming to iPhone and Android](https://www.theverge.com/2024/3/15/24102437/balatro-iphone-android-mobile)
+ - [Reddit’s Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
+ - [Microsoft is again injecting pop-ups into Chrome on Windows in a bid to get users to switch to Bing, after previously pausing them citing &quot;unintended behavior&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240315/p27#a240315p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
