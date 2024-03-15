@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aA0nzWL)
- - ⏩ [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
- - 👉 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)<!-- MEMES:END -->
+ - 💣 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - ⏩ [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
+ - 👉 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)<!-- MEMES:END -->
 
 ---
 
