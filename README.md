@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Set Medication Reminders on Your Phone &lpar;2024&rpar;: Best Apps, iPhone, Android, Samsung](https://www.wired.com/story/how-to-set-medication-reminders-on-phones/)
- - [After criticism, India&#39;s Ministry of Electronics and IT revises its AI advisory to drop plans to require government approval before new AI models are launched &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240315/p24#a240315p24)
- - [Some Democrats warn that a ban of TikTok, used by nearly two-thirds of Americans under 30, could imperil Biden&#39;s reelection by depressing young voter turnout &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240315/p23#a240315p23)<!-- TECH:END -->
+ - [Google Meet’s face touch-up filters come to desktop](https://www.theverge.com/2024/3/15/24102264/google-meet-face-touch-up-filters-desktop)
+ - [Reddit says FTC launched an inquiry into Reddit&#39;s licensing of user data to AI companies; an ex-FTC official says other companies also got such &quot;hold letters&quot; &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240315/p25#a240315p25)
+ - [Meta Quest 3’s more affordable sibling may have leaked in new render](https://www.androidauthority.com/quest-3-lite-leak-3426267/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
