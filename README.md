@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber and Lyft plan to leave Minneapolis on May 1, after the city council passed an ordinance to guarantee drivers a minimum rate of $1.40/mile and $0.5/minute &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240315/p16#a240315p16)
- - [Microsoft is stuffing pop-up ads into Google Chrome on Windows again](https://www.theverge.com/2024/3/15/24101887/microsoft-bing-popups-windows-11-google-chrome)
- - [WhatsApp tests adding more authentication options beyond biometrics](https://www.androidauthority.com/whatsapp-beta-authentication-options-3426217/)<!-- TECH:END -->
+ - [Zoomers are turning on the TikTok famous congressman who voted to ban the app](https://www.theverge.com/2024/3/15/24101851/tiktok-ban-vote-jeff-jackson-sell-bytedance)
+ - [Sinking Section 702 Wiretap Program Offered One Last Lifeboat](https://www.wired.com/story/section-702-safe-act-compromise/)
+ - [Banning TikTok is a performative, unconstitutional, authoritarian move that won&#39;t stop China from spreading propaganda or getting Americans&#39; data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240315/p18#a240315p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
