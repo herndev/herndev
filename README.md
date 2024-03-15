@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram could soon let you backdate posts](https://www.androidauthority.com/instagram-backdate-posts-3426252/)
- - [Sources: BeReal is weighing raising a Series C or being acquired, as what is left of its $90M in funding is set to run out this year and DAUs stagnate at 25M &lpar;Business Insider&rpar;](http://www.techmeme.com/240315/p20#a240315p20)
- - [PC games start at just $1 in Steam’s spring sale](https://www.theverge.com/2024/3/15/24101003/steam-spring-sale-m1-macbook-air-breville-barista-express-espresso-machine-deal-sale)<!-- TECH:END -->
+ - [How to Set Medication Reminders on Your Phone &lpar;2024&rpar;: Best Apps, iPhone, Android, Samsung](https://www.wired.com/story/how-to-set-medication-reminders-on-phones/)
+ - [After criticism, India&#39;s Ministry of Electronics and IT revises its AI advisory to drop plans to require government approval before new AI models are launched &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240315/p24#a240315p24)
+ - [Some Democrats warn that a ban of TikTok, used by nearly two-thirds of Americans under 30, could imperil Biden&#39;s reelection by depressing young voter turnout &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240315/p23#a240315p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
