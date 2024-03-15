@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right or wrong](http://9gag.com/gag/aWGVz64)
- - ⏩ [Nuked by community note](http://9gag.com/gag/anzApX5)
+ - 💣 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
+ - ⏩ [Uncle Xi not happy](http://9gag.com/gag/aL1qyjv)
  - 👉 [What was the plan here](http://9gag.com/gag/aWGVwDx)<!-- MEMES:END -->
 
 ---
