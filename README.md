@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/anzA67E)
- - ⏩ [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
+ - 💣 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
+ - ⏩ [French, British, Swedish and German assemble](http://9gag.com/gag/ap9e4An)
+ - 👉 [Bread](http://9gag.com/gag/ay2yGWV)<!-- MEMES:END -->
 
 ---
 
