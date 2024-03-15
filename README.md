@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 18 – 22](https://news.xbox.com/en-us/2024/03/15/next-week-on-xbox-new-games-for-march-18-22/)
- - [18 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)
- - [If you&#39;re &#39;worried about what AI will do&#39; AMD&#39;s Dr. Lisa Su says &#39;the answer is not go slower, that is definitely not the answer&#39;](https://www.pcgamer.com/software/ai/if-youre-worried-about-what-ai-will-do-amds-dr-lisa-su-says-the-answer-is-not-go-slower-that-is-definitely-not-the-answer)<!-- GAME:END -->
+ - [The original Dragon’s Dogma arrived at a dark time in Capcom history](https://www.polygon.com/24093239/dragons-dogma-history-2012-capcom)
+ - [Palworld dev says &#39;a game without a multiplayer mode just doesn’t feel right in the era we live today&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-dev-says-a-game-without-a-multiplayer-mode-just-doesnt-feel-right-in-the-era-we-live-today)
+ - [Palworld Devs Say ‘Triple-A Games Are Not For Us’](https://kotaku.com/palworld-game-pocketpair-pokemon-with-guns-1851338971)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
