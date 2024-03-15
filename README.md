@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Facebook Marketplace keeps Gen Z users coming back to the Facebook app, which they see not as a place to socialize but as a place to score some deals &lpar;Melissa Rohman/New York Times&rpar;](http://www.techmeme.com/240315/p2#a240315p2)
- - [How Amazon refund fraud gangs, which promote their schemes on Reddit, TikTok, and Telegram, are exploiting lenient refund policies at the company &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240315/p1#a240315p1)
- - [Researchers detail a side channel that can be used to read encrypted responses from AI assistants, except Google Gemini; OpenAI and Cloudflare implemented fixes &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240314/p49#a240314p49)<!-- TECH:END -->
+ - [FCC turbocharges broadband: Speed requirements quadrupled!](https://www.androidauthority.com/fcc-broadband-speed-benchmark-3425695/)
+ - [Phone Won&#39;t Charge? Try This Easy DIY Trick First     - CNET](https://www.cnet.com/tech/mobile/phone-wont-charge-try-this-easy-diy-toothpick-trick-first/#ftag=CAD590a51e)
+ - [How Facebook Marketplace keeps Gen Z users coming back to the Facebook app, which they see not as a place to socialize but as a place to score some deals &lpar;Melissa Rohman/New York Times&rpar;](http://www.techmeme.com/240315/p2#a240315p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
