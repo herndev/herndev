@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC raises its broadband speed benchmark to 100Mbps for downloads and 20Mbps for uploads, from the previous standard of 25Mbps and 3Mbps set in January 2015 &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240314/p42#a240314p42)
- - [Small-business owners and activists who rely on TikTok say the US House measure forcing a sale or ban would damage their livelihoods and harm their communities &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240314/p41#a240314p41)
- - [CIA allegedly made fake social media accounts to troll the Chinese government](https://www.theverge.com/2024/3/14/24100984/cia-china-fake-social-media-spying)<!-- TECH:END -->
+ - [The FCC has finally decreed that 25Mbps and 3Mbps are not ‘broadband’ speed](https://www.theverge.com/2024/3/14/24101313/fcc-new-broadband-definition-100mbps-20mbps)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Best Internet Providers in Gainesville, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-gainesville-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
