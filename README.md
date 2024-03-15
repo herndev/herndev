@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beeper’s Android app for unified chats gets a major refresh, sans the iMessage garnish](https://www.androidauthority.com/beeper-android-app-refresh-3426099/)
- - [Folding iPhone &amp; under-screen Face ID rumored arrival date pushed back -- again](https://appleinsider.com/articles/24/03/15/folding-iphone-under-screen-face-id-rumored-arrival-date-pushed-back----again?utm_medium=rss)
- - [In an open letter to Nick Clegg, 36 MEPs urge Meta to scrap the &quot;pay or okay&quot; choice given to EU users and &quot;align your business with the principles of the GDPR&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240315/p8#a240315p8)<!-- TECH:END -->
+ - [Here’s a first look at Android 15’s built-in app archiving feature](https://www.androidauthority.com/android-15-app-archiving-demo-3425621/)
+ - [Former Apple software engineer faces up to five years in prison after threatening FBI agents](https://appleinsider.com/articles/24/03/15/former-apple-software-engineer-faces-up-to-five-years-in-prison-after-threatening-fbi-agents?utm_medium=rss)
+ - [Download these artistic wallpapers for your phone](https://www.androidauthority.com/artistic-wallpaper-for-phone-3424888/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
