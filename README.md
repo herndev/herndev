@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
- - ⏩ [It be like this\u2026](http://9gag.com/gag/a5XL0Vg)
+ - 💣 [Title](http://9gag.com/gag/aA0nzWL)
+ - ⏩ [Smile](http://9gag.com/gag/armPQ57)
  - 👉 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)<!-- MEMES:END -->
 
 ---
