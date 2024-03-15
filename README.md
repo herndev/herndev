@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now save up to 40% on a one-year subscription to Max](https://www.androidauthority.com/max-one-year-subscription-discount-3425425/)
- - [A deep dive into Reddit&#39;s history and the power of its 60K+ unpaid moderators, based on interviews with 60+ current and former mods, employees, and contractors &lpar;Wired&rpar;](http://www.techmeme.com/240315/p4#a240315p4)
- - [Here&#39;s How to Get Started With ChatGPT     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-get-started-with-chatgpt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: China quietly asks EV makers like BYD and Geely to sharply increase their purchases from local chipmakers, to reduce reliance on Western imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p5#a240315p5)
+ - [Here&#39;s How to Disable NameDrop     - CNET](https://www.cnet.com/tech/mobile/heres-how-to-disable-name-drop/#ftag=CAD590a51e)
+ - [You can now save up to 40% on a one-year subscription to Max](https://www.androidauthority.com/max-one-year-subscription-discount-3425425/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
