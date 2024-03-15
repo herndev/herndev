@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC turbocharges broadband: Speed requirements quadrupled!](https://www.androidauthority.com/fcc-broadband-speed-benchmark-3425695/)
- - [Phone Won&#39;t Charge? Try This Easy DIY Trick First     - CNET](https://www.cnet.com/tech/mobile/phone-wont-charge-try-this-easy-diy-toothpick-trick-first/#ftag=CAD590a51e)
- - [How Facebook Marketplace keeps Gen Z users coming back to the Facebook app, which they see not as a place to socialize but as a place to score some deals &lpar;Melissa Rohman/New York Times&rpar;](http://www.techmeme.com/240315/p2#a240315p2)<!-- TECH:END -->
+ - [Even the Pixel 8 could get Android 15’s powered-off finding features](https://www.androidauthority.com/google-pixel-8-android-15-powered-off-finding-features-3425709/)
+ - [Oil companies are increasingly using AI and remote operations to drill faster, suggest better ways to frack, and predict when active well pumps will fail &lpar;David Wethe/Bloomberg&rpar;](http://www.techmeme.com/240315/p3#a240315p3)
+ - [The Designer Who’s Trying to Transform Your City Into a Sponge](https://www.wired.com/story/the-designer-whos-trying-to-transform-your-city-into-a-sponge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
