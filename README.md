@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - ⏩ [Uncle Xi not happy](http://9gag.com/gag/aL1qyjv)
- - 👉 [What was the plan here](http://9gag.com/gag/aWGVwDx)<!-- MEMES:END -->
+ - 💣 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
+ - ⏩ [It be like this\u2026](http://9gag.com/gag/a5XL0Vg)
+ - 👉 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)<!-- MEMES:END -->
 
 ---
 
