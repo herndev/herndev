@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zephyr AI, which uses AI to generate insights into improving patient care and research in oncology and cardiometabolic diseases, raised a $111M Series A &lpar;Robert Barrie/Pharmaceutical Technology&rpar;](http://www.techmeme.com/240314/p44#a240314p44)
- - [An investigation into Onerep.com, which helps people remove their personal data from people-search sites, suggests its CEO founded dozens of people-search sites &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240314/p43#a240314p43)
- - [Save up to $236 on Sonos speakers, soundbars &amp; subs ahead of March Madness 2024](https://appleinsider.com/articles/24/03/15/save-up-to-236-on-sonos-speakers-soundbars-subs-ahead-of-march-madness-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the US plans to award over $6B to Samsung to help the company expand beyond its $17B chip fab in Taylor, Texas, under the 2022 Chips and Science Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p45#a240314p45)
+ - [Acer Predator Triton 14 Review: Fast Gaming and a Bright HDR Screen     - CNET](https://www.cnet.com/tech/computing/acer-predator-triton-14-review-fast-gaming-and-a-bright-hdr-screen/#ftag=CAD590a51e)
+ - [Zephyr AI, which uses AI to generate insights into improving patient care and research in oncology and cardiometabolic diseases, raised a $111M Series A &lpar;Robert Barrie/Pharmaceutical Technology&rpar;](http://www.techmeme.com/240314/p44#a240314p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
