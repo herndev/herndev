@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan is building its own satellite internet network, as China&#39;s threats, Ukraine war, and Elon Musk&#39;s total control over Starlink make Taiwan&#39;s leaders wary &lpar;New York Times&rpar;](http://www.techmeme.com/240314/p46#a240314p46)
- - [Sources: the US plans to award over $6B to Samsung to help the company expand beyond its $17B chip fab in Taylor, Texas, under the 2022 Chips and Science Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p45#a240314p45)
- - [Acer Predator Triton 14 Review: Fast Gaming and a Bright HDR Screen     - CNET](https://www.cnet.com/tech/computing/acer-predator-triton-14-review-fast-gaming-and-a-bright-hdr-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers detail a side channel that can be used to read encrypted responses from AI assistants, except Google Gemini; OpenAI and Cloudflare implemented fixes &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240314/p49#a240314p49)
+ - [El Salvador moved ~$400M worth, or &quot;a big chunk&quot;, of its bitcoin into a cold wallet this week; public trackers had estimated El Salvador&#39;s trove at under $205M &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240314/p48#a240314p48)
+ - [Bethesda, Maryland-based HiLabs, whose AI-powered tools provide clean data for health care organizations, raised a $39M Series B led by Eight Roads and Denali &lpar;The Economic Times&rpar;](http://www.techmeme.com/240314/p47#a240314p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
