@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even the Pixel 8 could get Android 15’s powered-off finding features](https://www.androidauthority.com/google-pixel-8-android-15-powered-off-finding-features-3425709/)
- - [Oil companies are increasingly using AI and remote operations to drill faster, suggest better ways to frack, and predict when active well pumps will fail &lpar;David Wethe/Bloomberg&rpar;](http://www.techmeme.com/240315/p3#a240315p3)
- - [The Designer Who’s Trying to Transform Your City Into a Sponge](https://www.wired.com/story/the-designer-whos-trying-to-transform-your-city-into-a-sponge/)<!-- TECH:END -->
+ - [You can now save up to 40% on a one-year subscription to Max](https://www.androidauthority.com/max-one-year-subscription-discount-3425425/)
+ - [A deep dive into Reddit&#39;s history and the power of its 60K+ unpaid moderators, based on interviews with 60+ current and former mods, employees, and contractors &lpar;Wired&rpar;](http://www.techmeme.com/240315/p4#a240315p4)
+ - [Here&#39;s How to Get Started With ChatGPT     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-get-started-with-chatgpt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
