@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China quietly asks EV makers like BYD and Geely to sharply increase their purchases from local chipmakers, to reduce reliance on Western imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p5#a240315p5)
- - [Here&#39;s How to Disable NameDrop     - CNET](https://www.cnet.com/tech/mobile/heres-how-to-disable-name-drop/#ftag=CAD590a51e)
- - [You can now save up to 40% on a one-year subscription to Max](https://www.androidauthority.com/max-one-year-subscription-discount-3425425/)<!-- TECH:END -->
+ - [Vodafone sells its Italian business to Switzerland&#39;s Swisscom for &amp;euro;8B in cash and plans a &amp;euro;4B stock buyback; Swisscom will merge Vodafone Italia with Fastweb &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/240315/p7#a240315p7)
+ - [Rock Paper Pencil review: the iPad upgrade every artist needs](https://appleinsider.com/articles/24/03/15/rock-paper-pencil-review-the-ipad-upgrade-every-artist-needs?utm_medium=rss)
+ - [How to make the most of the iOS Calculator](https://appleinsider.com/inside/iphone/tips/how-to-make-the-most-of-the-ios-calculator?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
