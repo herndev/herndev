@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need to Know to Start Playing MLB The Show 24 Today on Xbox](https://news.xbox.com/en-us/2024/03/15/start-playing-mlb-the-show-24-today-on-xbox/)
- - [Stardew Valley’s Latest 1.6 Patch Note Teases A Fix For That Pet Problem](https://kotaku.com/stardew-valley-16-update-pets-1851339214)
- - [Say Hello to Marketplace Pass](https://www.minecraft.net/en-us/article/say-hello-marketplace-pass#new_tab)<!-- GAME:END -->
+ - [One of the biggest CS2 tournaments in the world has completely switched over to AMD Ryzen 7 7800X3D chips &#39;to ensure a smooth esports experience&#39;](https://www.pcgamer.com/hardware/processors/one-of-the-biggest-cs2-tournaments-in-the-world-has-completely-switched-over-to-amd-ryzen-7-7800x3d-chips-to-ensure-a-smooth-esports-experience)
+ - [This Hisuian Growlithe Card is Peak Pokémon TCG Storytelling](https://kotaku.com/pokemon-tcg-hisuian-growlithe-perrin-cards-crimson-haze-1851339513)
+ - [Copilot and ChatGPT iterating &#39;This is fine&#39; memes perfectly captures the current state of AI: faintly alarming hilarious madness](https://www.pcgamer.com/software/ai/copilot-and-chatgpt-iterating-this-is-fine-memes-perfectly-captures-the-current-state-of-ai-faintly-alarming-hilarious-madness)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
