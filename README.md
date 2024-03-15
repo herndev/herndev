@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best deals in the 2024 Steam Spring Sale](https://www.pcgamer.com/software/platforms/the-best-deals-in-the-2024-steam-spring-sale)
  - [You won&#39;t need to propose to Elden Ring&#39;s heretical moon witch to wield her legendary sword—$500 will do just fine](https://www.pcgamer.com/games/rpg/you-wont-need-to-propose-to-elden-rings-heretical-moon-witch-to-wield-her-legendary-sworddollar500-will-do-just-fine)
- - [Final Fantasy VII Rebirth: How Nobuo Uematsu and Loren Allred created Aerith’s “No Promises to Keep”](https://blog.playstation.com/2024/03/14/final-fantasy-vii-rebirth-how-nobuo-uematsu-and-loren-allred-created-aeriths-no-promises-to-keep/)
  - [Final Fantasy VII Rebirth: How Nobuo Uematsu and Loren Allred created Aerith’s “No Promises to Keep”](https://blog.playstation.com/2024/03/14/final-fantasy-vii-rebirth-how-nobuo-uematsu-and-loren-allred-created-aeriths-no-promises-to-keep/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
