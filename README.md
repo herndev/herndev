@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - ⏩ [Say what?](http://9gag.com/gag/amADZnX)
- - 👉 [Epic Games CEO might be mad now](http://9gag.com/gag/abvj7z9)<!-- MEMES:END -->
+ - 💣 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - ⏩ [How lucky are you?](http://9gag.com/gag/aA0nj39)
+ - 👉 [Febrio De-Zoysa - He killed a family of 5 &lpar;mother and 4 children, youngest being 2.5 months old girl&rpar; and one of their relatives, total 6 murders and badly injured the father. Happened in Ottawa! He lived with the family as a student.](http://9gag.com/gag/aGEP4A6)<!-- MEMES:END -->
 
 ---
 
