@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - ⏩ [French, British, Swedish and German assemble](http://9gag.com/gag/ap9e4An)
- - 👉 [Bread](http://9gag.com/gag/ay2yGWV)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/anzA67E)
+ - ⏩ [A translation is needed](http://9gag.com/gag/aGEP5en)
+ - 👉 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)<!-- MEMES:END -->
 
 ---
 
