@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet’s face touch-up filters come to desktop](https://www.theverge.com/2024/3/15/24102264/google-meet-face-touch-up-filters-desktop)
- - [Reddit says FTC launched an inquiry into Reddit&#39;s licensing of user data to AI companies; an ex-FTC official says other companies also got such &quot;hold letters&quot; &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240315/p25#a240315p25)
- - [Meta Quest 3’s more affordable sibling may have leaked in new render](https://www.androidauthority.com/quest-3-lite-leak-3426267/)<!-- TECH:END -->
+ - [Don&#39;t Let the Headlines Fool You. Air Travel Is Really Very Safe](https://www.wired.com/story/dont-let-the-boeing-headlines-fool-you-air-travel-is-really-very-safe/)
+ - [Spotify is letting authors market like musicians](https://www.theverge.com/2024/3/15/24102398/spotify-countdown-pages-audiobooks)
+ - [Google Drive could make finding files easier with new organization feature](https://www.androidauthority.com/google-drive-categories-3426299/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
