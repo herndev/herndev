@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoomers are turning on the TikTok famous congressman who voted to ban the app](https://www.theverge.com/2024/3/15/24101851/tiktok-ban-vote-jeff-jackson-sell-bytedance)
- - [Sinking Section 702 Wiretap Program Offered One Last Lifeboat](https://www.wired.com/story/section-702-safe-act-compromise/)
- - [Banning TikTok is a performative, unconstitutional, authoritarian move that won&#39;t stop China from spreading propaganda or getting Americans&#39; data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240315/p18#a240315p18)<!-- TECH:END -->
+ - [Instagram could soon let you backdate posts](https://www.androidauthority.com/instagram-backdate-posts-3426252/)
+ - [Sources: BeReal is weighing raising a Series C or being acquired, as what is left of its $90M in funding is set to run out this year and DAUs stagnate at 25M &lpar;Business Insider&rpar;](http://www.techmeme.com/240315/p20#a240315p20)
+ - [PC games start at just $1 in Steam’s spring sale](https://www.theverge.com/2024/3/15/24101003/steam-spring-sale-m1-macbook-air-breville-barista-express-espresso-machine-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
