@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X declined requests by UK&#39;s Labour party to take down a deepfake audio clip of leader Keir Starmer, raising concerns ahead of a general election &lpar;Ailbhe Rea/Bloomberg&rpar;](http://www.techmeme.com/240315/p11#a240315p11)
- - [What is your favorite type of smartphone case?](https://www.androidauthority.com/favorite-type-of-smartphone-case-poll-3426096/)
- - [Are we really going to ban TikTok?](https://www.theverge.com/24101704/tiktok-ban-kate-middleton-photoshop-vergecast-podcast)<!-- TECH:END -->
+ - [Apple will surrender less than a day of earnings to satisfy class action suit](https://appleinsider.com/articles/24/03/15/apple-will-surrender-less-than-a-day-of-earnings-to-satisfy-class-action-suit?utm_medium=rss)
+ - [Walmart starts selling Macs directly for the first time, partnering with Apple to offer M1 MacBook Air for $699; Apple stopped selling M1 MacBook Air itself &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240315/p14#a240315p14)
+ - [Microsoft takes on ChatGPT Plus with worldwide release of Copilot Pro](https://www.androidauthority.com/microsoft-copilot-pro-global-launch-3426107/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
