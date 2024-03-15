@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan is building its own satellite internet network, as China&#39;s threats, Ukraine war, and Elon Musk&#39;s total control over Starlink make Taiwan&#39;s leaders wary &lpar;New York Times&rpar;](http://www.techmeme.com/240314/p46#a240314p46)
  - [Sources: the US plans to award over $6B to Samsung to help the company expand beyond its $17B chip fab in Taylor, Texas, under the 2022 Chips and Science Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p45#a240314p45)
- - [Acer Predator Triton 14 Review: Fast Gaming and a Bright HDR Screen     - CNET](https://www.cnet.com/tech/computing/acer-predator-triton-14-review-fast-gaming-and-a-bright-hdr-screen/#ftag=CAD590a51e)
- - [Zephyr AI, which uses AI to generate insights into improving patient care and research in oncology and cardiometabolic diseases, raised a $111M Series A &lpar;Robert Barrie/Pharmaceutical Technology&rpar;](http://www.techmeme.com/240314/p44#a240314p44)<!-- TECH:END -->
+ - [Acer Predator Triton 14 Review: Fast Gaming and a Bright HDR Screen     - CNET](https://www.cnet.com/tech/computing/acer-predator-triton-14-review-fast-gaming-and-a-bright-hdr-screen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
