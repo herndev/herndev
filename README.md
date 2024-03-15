@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aA0nzWL)
- - ⏩ [Smile](http://9gag.com/gag/armPQ57)
+ - 💣 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
+ - ⏩ [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
  - 👉 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)<!-- MEMES:END -->
 
 ---
