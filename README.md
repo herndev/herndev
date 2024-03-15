@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Helldivers 2 based](http://9gag.com/gag/a4oMvYZ)
- - ⏩ [Life as a man is simple...](http://9gag.com/gag/aZD96Gp)
- - 👉 [In Ireland people touch the breast on the statue of Molly Malone because it&#39;s said to bring good luck. A feminist now campaign to stop what she calls a \u201cmisogynistic tradition\u201d. This made me think of when C. Proudman also complained and people then answered with these pictures.](http://9gag.com/gag/aeQXn0W)<!-- MEMES:END -->
+ - 💣 [A great Comedian](http://9gag.com/gag/aDYBKQZ)
+ - ⏩ [Title](http://9gag.com/gag/anzA67E)
+ - 👉 [Save it and forget.](http://9gag.com/gag/a4oMXjp)<!-- MEMES:END -->
 
 ---
 
