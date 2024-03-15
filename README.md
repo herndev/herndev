@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
- - ⏩ [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 👉 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)<!-- MEMES:END -->
+ - 💣 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
+ - ⏩ [Call security](http://9gag.com/gag/aXn860P)
+ - 👉 [Title](http://9gag.com/gag/aA0nzWL)<!-- MEMES:END -->
 
 ---
 
