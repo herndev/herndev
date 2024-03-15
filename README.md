@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - ⏩ [I need a number two philips.](http://9gag.com/gag/a04mBPZ)
- - 👉 [Bread](http://9gag.com/gag/ay2yGWV)<!-- MEMES:END -->
+ - 💣 [I miss fun ads](http://9gag.com/gag/aEqe4zo)
+ - ⏩ [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [How lucky are you?](http://9gag.com/gag/aA0nj39)<!-- MEMES:END -->
 
 ---
 
