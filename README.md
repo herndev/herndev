@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - ⏩ [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
- - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
+ - 💣 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
+ - ⏩ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 👉 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)<!-- MEMES:END -->
 
 ---
 
