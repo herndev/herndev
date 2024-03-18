@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Air, MacBook Pro ultimate buyer&#39;s guide: Spring 2024](https://appleinsider.com/articles/24/03/18/macbook-air-macbook-pro-ultimate-buyers-guide-spring-2024?utm_medium=rss)
- - [The US says Poland, Ireland, Finland, Germany, Japan, and South Korea joined the US-led anti-spyware pact; Five Eyes and six countries signed the pledge in 2023 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240318/p12#a240318p12)
- - [Did you know: Samsung makes a lot of money from iPhones](https://www.androidauthority.com/did-you-know-samsung-apple-partnership-3426411/)<!-- TECH:END -->
+ - [Adobe Substance 3D’s AI features can turn text into backgrounds and textures](https://www.theverge.com/2024/3/18/24104718/adobe-firefly-substance-sampler-stager-3d-tools-beta)
+ - [Figure Markets, a crypto trading platform developed by Figure Technologies, raised a $60M Series A led by Jump Crypto, Pantera Capital, and Lightspeed Faction &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/240318/p13#a240318p13)
+ - [Bonavita 5-Cup One-Touch Thermal Carafe Review: Simple and Excellent](https://www.wired.com/review/bonavita-5-cup-one-touch-thermal-carafe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
