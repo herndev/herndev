@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - ⏩ [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
- - 👉 [Happy birthday](http://9gag.com/gag/a9yjP70)<!-- MEMES:END -->
+ - 💣 [Its necessary to clap before the game](http://9gag.com/gag/a4PpLqd)
+ - ⏩ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 👉 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)<!-- MEMES:END -->
 
 ---
 
