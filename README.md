@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Its necessary to clap before the game](http://9gag.com/gag/a4PpLqd)
- - ⏩ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
- - 👉 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)<!-- MEMES:END -->
+ - ⏩ [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
+ - 👉 [Choose your platform wisely](http://9gag.com/gag/ajPQ6n8)<!-- MEMES:END -->
 
 ---
 
