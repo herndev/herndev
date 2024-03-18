@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 drops below $500 for the first time](https://www.theverge.com/2024/3/18/24104732/google-pixel-8-tp-link-kasa-smart-bulbs-apple-tv-4k-tcl-qm8-deal-sale)
- - [Microsoft is holding a Windows and Surface AI event on May 20; sources: the event will include the consumer versions of Surface Pro 10 and Surface Laptop 6 &lpar;The Verge&rpar;](http://www.techmeme.com/240318/p26#a240318p26)
- - [After hearing oral arguments, SCOTUS appeared wary of curbing US government contacts with social media platforms to remove posts deemed misinformation &lpar;Reuters&rpar;](http://www.techmeme.com/240318/p25#a240318p25)<!-- TECH:END -->
+ - [Google Wallet may soon support Apple Wallet passes](https://www.androidauthority.com/google-wallet-expanded-support-3426725/)
+ - [X&#39;s pivot to video mirrors past social media trends, but its reliance on user-generated videos from TikTok and other platforms may not ensure long-term success &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240318/p28#a240318p28)
+ - [OLED iPad Pros still expected in March, with April availability](https://appleinsider.com/articles/24/03/18/oled-ipad-pros-still-expected-in-march-with-april-availability?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
