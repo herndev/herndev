@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t ask why I know](http://9gag.com/gag/aKG4grg)
- - ⏩ [What ?](http://9gag.com/gag/aLn6Q9z)
- - 👉 [Chad Gina](http://9gag.com/gag/axyEEx2)<!-- MEMES:END -->
+ - 💣 [Cutoff](http://9gag.com/gag/a1mpvMR)
+ - ⏩ [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
+ - 👉 [You promise not to cry?](http://9gag.com/gag/aXPZEXP)<!-- MEMES:END -->
 
 ---
 
