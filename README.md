@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nurture A Brave New World in Lightyear Frontier, Coming to Xbox Game Pass on March 19](https://news.xbox.com/en-us/2024/03/18/lightyear-frontier-coming-to-xbox-game-pass-on-march-19/)
- - [Can Vulpix be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23814223/can-vulpix-be-shiny-ninetales)
- - [PlayStation 5 Pro hardware leak suggests its GPU is a RDNA 3/4-hybrid design, with some big improvements coming this way](https://www.pcgamer.com/hardware/graphics-cards/playstation-5-pro-hardware-leak-suggests-its-gpu-is-a-rdna-34-hybrid-design-with-some-big-improvements-coming-this-way)<!-- GAME:END -->
+ - [D&amp;D’s most newbie-friendly campaign now offers a luxe boxed set from Beadle &amp; Grimm’s](https://www.polygon.com/reviews/24094327/beadle-grimm-phandelver-below-shattered-obelisk-legendary-review)
+ - [MrBeast&#39;s Amazon Game Show Makes History With $5 Million Prize](https://kotaku.com/mrbeast-beast-games-amazon-reality-game-show-prize-1851344900)
+ - [Ayaneo Kun review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-kun-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
