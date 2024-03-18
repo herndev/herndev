@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - ⏩ [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
- - 👉 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)<!-- MEMES:END -->
+ - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - ⏩ [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
+ - 👉 [Happy birthday](http://9gag.com/gag/a9yjP70)<!-- MEMES:END -->
 
 ---
 
