@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Is Filled With Mysterious Blue Lasers And Fans Have A Theory](https://kotaku.com/helldivers-2-blue-beams-lasers-theory-illuminate-aliens-1851345544)
- - [Eric Barone drops the biggest Stardew Valley 1.6 update patch note yet: A new Meadowlands farm type with &#39;chewy blue grass that animals love&#39; and some bonus chickens too](https://www.pcgamer.com/games/life-sim/eric-barone-drops-the-biggest-stardew-valley-16-update-patch-note-yet-a-new-meadowlands-farm-type-with-chewy-blue-grass-that-animals-love-and-some-bonus-chickens-too)
- - [Xbox Insider Release Notes – Alpha &lpar;2404.240314-2000&rpar;](https://news.xbox.com/en-us/2024/03/18/xbox-insider-release-notes-alpha-2404-240314-2000/)<!-- GAME:END -->
+ - [Get Five Of 2023&#39;s Best Indie Games At Nearly 50 Percent Off](https://kotaku.com/steam-spring-sale-igf-2024-narrative-bundle-venba-1851345783)
+ - [Save $20 on pre-orders for Princess Peach Showtime!](https://www.polygon.com/deals/24105003/princess-peach-showtime-nintendo-switch-qvc-deal-sale)
+ - [Overwatch 2 Devs Fear Story Missions Have Been Canceled](https://kotaku.com/overwatch-2-story-missions-campaign-canceled-blizzard-1851345720)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
