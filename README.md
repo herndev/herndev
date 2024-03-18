@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
- - ⏩ [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
- - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
+ - 💣 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 👉 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)<!-- MEMES:END -->
 
 ---
 
