@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Classic Marathon is coming to Steam well before the unclassic Marathon reboot](https://www.pcgamer.com/games/fps/classic-marathon-is-coming-to-steam-well-before-the-unclassic-marathon-reboot)
  - [MrBeast has a TV deal with Amazon’s Prime Video to produce a record-breaking TV game show](https://www.polygon.com/24105203/mrbeast-amazon-show-beast-games-squid-game-streaming-youtube)
- - [The Last Stardew Valley 1.6 Patch Note Is Here](https://kotaku.com/stardew-valley-16-update-farm-type-1851346388)
- - [Buy 1 board game at Target and get another for 50% off](https://www.polygon.com/24105103/board-games-tabletop-target-half-off-deal-sale)<!-- GAME:END -->
+ - [The Last Stardew Valley 1.6 Patch Note Is Here](https://kotaku.com/stardew-valley-16-update-farm-type-1851346388)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
