@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 Pro rumors and leaks: What we know so far about Sony’s next gaming console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
- - [Reviewing Reddit&#39;s IPO filings: signs of slowing user growth, struggles to grow overseas, a dependence on Google, enticing brands, a new Class C stock, and more &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240318/p9#a240318p9)
- - [Google quietly refreshes its Fitbit branding, changing from &quot;Fitbit by Google&quot; to &quot;Google Fitbit&quot;, similar to Google Pixel and Google Nest &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240318/p8#a240318p8)<!-- TECH:END -->
+ - [A new contender for thinnest foldable is launching next week](https://www.androidauthority.com/vivo-x-fold-3-launch-3426579/)
+ - [Respawn and EA postpone the North American Finals of Apex Legends, after an unknown user hacked the game and gave pros hacks like aimbots during the event &lpar;Paul Tassi/Forbes&rpar;](http://www.techmeme.com/240318/p11#a240318p11)
+ - [Apple previews new Shanghai store ahead of Thursday&#39;s opening](https://appleinsider.com/articles/24/03/18/apple-previews-new-shanghai-store-ahead-of-thursdays-opening?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
