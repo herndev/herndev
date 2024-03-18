@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online’s community is in limbo while hype builds for GTA 6](https://www.polygon.com/24101246/gta-online-community-gta-6-limbo-role-play)
- - [OpenAI hopes to break AI&#39;s reliance on Nvidia by using investment from UAE to make its own chips](https://www.pcgamer.com/software/ai/openai-hopes-to-break-ais-reliance-on-nvidia-by-using-investment-from-uae-to-make-its-own-chips)
- - [Konami releases David Hayter-fronted video series about Metal Gear&#39;s incredible legacy, doesn&#39;t mention Metal Gear creator, director, and writer Hideo Kojima once](https://www.pcgamer.com/games/action/konami-releases-david-hayter-fronted-video-series-about-metal-gears-incredible-legacy-doesnt-mention-metal-gear-creator-director-and-writer-hideo-kojima-once)<!-- GAME:END -->
+ - [Square Enix doesn&#39;t do big Final Fantasy discounts often, but the exceptional XIII trilogy is less than half price for the next few days](https://www.pcgamer.com/games/rpg/square-enix-doesnt-do-big-final-fantasy-discounts-often-but-the-exceptional-xiii-trilogy-is-less-than-half-price-for-the-next-few-days)
+ - [21 Final Fantasy VII Rebirth Mini-Games, Ranked From Worst To Best](https://kotaku.com/final-fantasy-7-rebirth-mini-games-best-worst-ranked-1851340606)
+ - [Elijah Wood is the Green crewmate in the Among Us TV show, and I can&#39;t be the only one who finds that a bit sus](https://www.pcgamer.com/games/survival-crafting/elijah-wood-is-the-green-crewmate-in-the-among-us-tv-show-and-i-cant-be-the-only-one-who-finds-that-a-bit-sus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
