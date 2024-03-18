@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad Gina](http://9gag.com/gag/axyEEx2)
- - ⏩ [The boss of Palworld developer Pocketpair said the hit game cost less than $6.7 million to make and has generated massive profits that the small studio &lpar;currently 55 people&rpar; can&#39;t handle.](http://9gag.com/gag/az266Gb)
- - 👉 [A husband doing his best](http://9gag.com/gag/aQz6p5W)<!-- MEMES:END -->
+ - 💣 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)
+ - ⏩ [Helldivers 2 bans external politics from the game - F**kYeah!](http://9gag.com/gag/aNDmoO0)
+ - 👉 [You will be missed.](http://9gag.com/gag/ary1pBB)<!-- MEMES:END -->
 
 ---
 
