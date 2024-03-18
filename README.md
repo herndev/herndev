@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music reportedly getting a feature it should have had a long time ago](https://www.androidauthority.com/youtube-music-song-search-3426519/)
- - [Samsung Galaxy S24 Incipio Cru case review: Sleek and stylish](https://www.androidauthority.com/samsung-galaxy-s24-incipio-cru-case-review-3426098/)
- - [Google axes ‘Fitbit by Google’ for new, more on-point branding](https://www.androidauthority.com/google-fitbit-rebranding-3426494/)<!-- TECH:END -->
+ - [Google Pixel Tablet 2: All the rumors and everything we want to see](https://www.androidauthority.com/google-pixel-tablet-2-3368307/)
+ - [Apple’s new 2024 AirPods could come with lofty ambitions](https://www.androidauthority.com/new-airpods-coming-this-year-3426514/)
+ - [Behind the rise of AI ambient clinical documentation tools, which let doctors record and automatically turn conversations with patients into clinical notes &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240318/p4#a240318p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
