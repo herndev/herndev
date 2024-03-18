@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It&#39;s just cosmetics&#39; monetisation doesn&#39;t quite hold up anymore, especially now it&#39;s started to make fully-priced games worse](https://www.pcgamer.com/gaming-industry/its-just-cosmetics-monetisation-doesnt-quite-hold-up-anymore-especially-now-its-started-to-make-fully-priced-games-worse)
- - [Distant Horizons mod blows past Minecraft&#39;s max render distance, pushing viewable terrain out to an unbelievable 512 chunks](https://www.pcgamer.com/games/survival-crafting/distant-horizons-mod-blows-past-minecrafts-max-render-distance-pushing-viewable-terrain-out-to-an-unbelievable-512-chunks)
- - [Get over 100 awesome, femme-forward D&amp;D one-shots for just $20](https://www.polygon.com/deals/2024/3/18/24104816/dungeons-and-dragons-uncaged-anthology-goddesses-ttrpg-deal-sale)<!-- GAME:END -->
+ - [Helldivers 2 Is Filled With Mysterious Blue Lasers And Fans Have A Theory](https://kotaku.com/helldivers-2-blue-beams-lasers-theory-illuminate-aliens-1851345544)
+ - [Eric Barone drops the biggest Stardew Valley 1.6 update patch note yet: A new Meadowlands farm type with &#39;chewy blue grass that animals love&#39; and some bonus chickens too](https://www.pcgamer.com/games/life-sim/eric-barone-drops-the-biggest-stardew-valley-16-update-patch-note-yet-a-new-meadowlands-farm-type-with-chewy-blue-grass-that-animals-love-and-some-bonus-chickens-too)
+ - [Xbox Insider Release Notes – Alpha &lpar;2404.240314-2000&rpar;](https://news.xbox.com/en-us/2024/03/18/xbox-insider-release-notes-alpha-2404-240314-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
