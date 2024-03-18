@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apex Legends streamers warned to &#39;perform a clean OS reinstall as soon as possible&#39; after hacks during NA Finals match](https://www.pcgamer.com/games/battle-royale/apex-legends-streamers-warned-to-perform-a-clean-os-reinstall-as-soon-as-possible-after-hacks-during-na-finals-match)
  - [Blood Bowl 3 gets Wood Elves, Resurrection mode, and a new roadmap](https://www.pcgamer.com/games/strategy/blood-bowl-3-gets-wood-elves-resurrection-mode-and-a-new-roadmap)
- - [The Asus ROG NUC is launching soon, and it ain&#39;t cheap](https://www.pcgamer.com/hardware/gaming-pcs/the-asus-rog-nuc-is-launching-soon-and-it-aint-cheap)
- - [Five new Steam games you probably missed &lpar;March 18, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-18-2024)<!-- GAME:END -->
+ - [The Asus ROG NUC is launching soon, and it ain&#39;t cheap](https://www.pcgamer.com/hardware/gaming-pcs/the-asus-rog-nuc-is-launching-soon-and-it-aint-cheap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
