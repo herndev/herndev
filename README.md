@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
- - ⏩ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
- - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
+ - 💣 [You will be missed.](http://9gag.com/gag/ary1pBB)
+ - ⏩ [The perfect earrings don\u2019t exist](http://9gag.com/gag/aXPZXZV)
+ - 👉 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)<!-- MEMES:END -->
 
 ---
 
