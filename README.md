@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Taylor Swift: The Eras Tour, Netflix’s Irish Wish, Madame Web, and every new movie to watch this weekend](https://www.polygon.com/2024/3/15/24097114/new-movies-watch-taylor-swift-the-eras-tour-disney-plus-netflix-irish-wish-lindsay-lohan-madame-web)
- - [Queen’s Blood card list in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24082221/queens-blood-cards-all-list-how-to-get)
- - [How to get Sprigatito through Mystery Gift in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/24101954/sprigatito-mystery-gift-code)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 18, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-18-2024)
+ - [Here&#39;s the demo for an adorable tower defense about green army men battling evil robots](https://www.pcgamer.com/games/strategy/heres-the-demo-for-an-adorable-tower-defense-about-green-army-men-battling-evil-robots)
+ - [Automate bases to explore and terraform a huge open world in Eden Crafters](https://www.pcgamer.com/games/survival-crafting/automate-bases-to-explore-and-terraform-a-huge-open-world-in-eden-crafters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
