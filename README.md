@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its necessary to clap before the game](http://9gag.com/gag/a4PpLqd)
- - ⏩ [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
- - 👉 [Choose your platform wisely](http://9gag.com/gag/ajPQ6n8)<!-- MEMES:END -->
+ - 💣 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
+ - ⏩ [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
+ - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
 
 ---
 
