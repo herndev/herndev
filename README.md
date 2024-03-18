@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Top-tier deckbuilder Balatro hits 1 million sales in less than a month, which hopefully justifies all the hours we&#39;ve collectively lost to it](https://www.pcgamer.com/games/card-games/top-tier-deckbuilder-balatro-hits-1-million-sales-in-less-than-a-month-which-hopefully-justifies-all-the-hours-weve-collectively-lost-to-it)
- - [Sony&#39;s reportedly stopped making any more PS VR2 headsets until it can figure out a way of shifting a pile of unsold VR goggles](https://www.pcgamer.com/hardware/vr-hardware/sonys-reportedly-stopped-making-any-more-ps-vr2-headsets-until-it-can-figure-out-a-way-of-shifting-a-pile-of-unsold-vr-goggles)
- - [Sony Reportedly Halts PSVR2 Production As Headsets Fail To Sell](https://kotaku.com/playstation-vr2-headsets-production-sales-halt-sony-1851344240)<!-- GAME:END -->
+ - [Nurture A Brave New World in Lightyear Frontier, Coming to Xbox Game Pass on March 19](https://news.xbox.com/en-us/2024/03/18/lightyear-frontier-coming-to-xbox-game-pass-on-march-19/)
+ - [Can Vulpix be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23814223/can-vulpix-be-shiny-ninetales)
+ - [PlayStation 5 Pro hardware leak suggests its GPU is a RDNA 3/4-hybrid design, with some big improvements coming this way](https://www.pcgamer.com/hardware/graphics-cards/playstation-5-pro-hardware-leak-suggests-its-gpu-is-a-rdna-34-hybrid-design-with-some-big-improvements-coming-this-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
