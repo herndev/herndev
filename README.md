@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - ⏩ [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
- - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
+ - 💣 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - ⏩ [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
+ - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
 
 ---
 
