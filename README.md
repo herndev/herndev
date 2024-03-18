@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new contender for thinnest foldable is launching next week](https://www.androidauthority.com/vivo-x-fold-3-launch-3426579/)
- - [Respawn and EA postpone the North American Finals of Apex Legends, after an unknown user hacked the game and gave pros hacks like aimbots during the event &lpar;Paul Tassi/Forbes&rpar;](http://www.techmeme.com/240318/p11#a240318p11)
- - [Apple previews new Shanghai store ahead of Thursday&#39;s opening](https://appleinsider.com/articles/24/03/18/apple-previews-new-shanghai-store-ahead-of-thursdays-opening?utm_medium=rss)<!-- TECH:END -->
+ - [MacBook Air, MacBook Pro ultimate buyer&#39;s guide: Spring 2024](https://appleinsider.com/articles/24/03/18/macbook-air-macbook-pro-ultimate-buyers-guide-spring-2024?utm_medium=rss)
+ - [The US says Poland, Ireland, Finland, Germany, Japan, and South Korea joined the US-led anti-spyware pact; Five Eyes and six countries signed the pledge in 2023 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240318/p12#a240318p12)
+ - [Did you know: Samsung makes a lot of money from iPhones](https://www.androidauthority.com/did-you-know-samsung-apple-partnership-3426411/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
