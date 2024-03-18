@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple in talks to licence Google Gemini AI for iPhones](https://appleinsider.com/articles/24/03/18/apple-in-talks-to-licence-google-gemini-ai-for-iphones?utm_medium=rss)
- - [Filings: Reddit cancelled Steve Huffman&#39;s pay awards in December 2023 that were tied to hitting a $25B valuation, signalling reduced hopes of a blockbuster IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240318/p6#a240318p6)
- - [Apple’s AI ambitions could include Google or OpenAI](https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt)<!-- TECH:END -->
+ - [PS5 Pro rumors and leaks: What we know so far about Sony’s next gaming console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
+ - [Reviewing Reddit&#39;s IPO filings: signs of slowing user growth, struggles to grow overseas, a dependence on Google, enticing brands, a new Class C stock, and more &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240318/p9#a240318p9)
+ - [Google quietly refreshes its Fitbit branding, changing from &quot;Fitbit by Google&quot; to &quot;Google Fitbit&quot;, similar to Google Pixel and Google Nest &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240318/p8#a240318p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
