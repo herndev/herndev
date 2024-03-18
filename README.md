@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cities: Skylines 2 will finally start getting modding support, alongside some performance fixes and its first wave of paid DLC](https://www.pcgamer.com/games/city-builder/cities-skylines-2-will-finally-start-getting-modding-support-alongside-some-performance-fixes-and-its-first-wave-of-paid-dlc)
  - [Billions from the CHIPS Act is soon to begin flowing with Samsung, Intel and TSMC set to benefit](https://www.pcgamer.com/hardware/billions-from-the-chips-act-is-soon-to-begin-flowing-with-samsung-intel-and-tsmc-set-to-benefit)
- - [Today&#39;s Wordle answer for Monday, March 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-18-2024)
- - [Apex Legends streamers warned to &#39;perform a clean OS reinstall as soon as possible&#39; after hacks during NA Finals match](https://www.pcgamer.com/games/battle-royale/apex-legends-streamers-warned-to-perform-a-clean-os-reinstall-as-soon-as-possible-after-hacks-during-na-finals-match)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, March 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-18-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
