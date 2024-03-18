@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Substance 3D’s AI features can turn text into backgrounds and textures](https://www.theverge.com/2024/3/18/24104718/adobe-firefly-substance-sampler-stager-3d-tools-beta)
- - [Figure Markets, a crypto trading platform developed by Figure Technologies, raised a $60M Series A led by Jump Crypto, Pantera Capital, and Lightspeed Faction &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/240318/p13#a240318p13)
- - [Bonavita 5-Cup One-Touch Thermal Carafe Review: Simple and Excellent](https://www.wired.com/review/bonavita-5-cup-one-touch-thermal-carafe/)<!-- TECH:END -->
+ - [9 Best Baby Monitors &lpar;2024&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
+ - [Playtron: the startup hoping to Steam Deck-ify the world](https://www.theverge.com/24090470/playtron-gaming-os-linux-handhelds-exclusive)
+ - [Leaker casts doubt on 12.9-inch iPad Air 6 rumors as launch looms](https://appleinsider.com/articles/24/03/18/leaker-casts-doubt-on-129-inch-ipad-air-6-rumors-as-launch-looms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
