@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you lie on your resume](http://9gag.com/gag/aLn6PRP)
- - ⏩ [Pleasant dreams](http://9gag.com/gag/ae9K03p)
- - 👉 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)<!-- MEMES:END -->
+ - 💣 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - ⏩ [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
+ - 👉 [Hey you can&#39;t park here !](http://9gag.com/gag/agmrvBv)<!-- MEMES:END -->
 
 ---
 
