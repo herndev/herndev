@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple and Google are in active talks to let Gemini power some new features coming to iPhone in 2024; Apple also held talks with OpenAI to use its model &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240318/p2#a240318p2)
- - [Best Keto Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
- - [Inside generative AI music startup Suno, whose model can compose songs, including human vocals, using a text prompt, as it aims to democratize music making &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240318/p1#a240318p1)<!-- TECH:END -->
+ - [Google axes ‘Fitbit by Google’ for new, more on-point branding](https://www.androidauthority.com/google-fitbit-rebranding-3426494/)
+ - [The new Snapdragon 8s Gen 3 will power your next flagship killer](https://www.androidauthority.com/snapdragon-8s-gen-3-3425761/)
+ - [Qualcomm’s new 8S Gen 3 targets not-quite flagship phones](https://www.theverge.com/2024/3/18/24101903/qualcomm-snapdragon-8s-gen-3-chipset-on-device-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
