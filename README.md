@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - ⏩ [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - 👉 [Transposition](http://9gag.com/gag/a87dWMV)<!-- MEMES:END -->
+ - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - ⏩ [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
+ - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
 
 ---
 
