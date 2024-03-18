@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You will be missed.](http://9gag.com/gag/ary1pBB)
- - ⏩ [The perfect earrings don\u2019t exist](http://9gag.com/gag/aXPZXZV)
- - 👉 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)<!-- MEMES:END -->
+ - 💣 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
+ - ⏩ [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
+ - 👉 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)<!-- MEMES:END -->
 
 ---
 
