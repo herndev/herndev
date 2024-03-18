@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces a new generation of AI chips named Blackwell, starting with the GB200 Grace Blackwell Superchip, expected to ship later this year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240318/p32#a240318p32)
- - [Nvidia reveals Blackwell B200 GPU, the ‘world’s most powerful chip’ for AI](https://www.theverge.com/2024/3/18/24105157/nvidia-blackwell-gpu-b200-ai)
- - [Feeling Euphoric? What &#39;Spring Fever&#39; Can Do to Our Mood     - CNET](https://www.cnet.com/health/mental/feeling-euphoric-what-spring-fever-can-do-to-our-mood/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Nvidia unveils the Earth-2 platform, letting users create AI-powered climate simulations ranging from global atmospheric conditions to local weather phenomena &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p34#a240318p34)
+ - [Apple calls 128GB &#39;lots of storage&#39; in new iPhone 15 ad](https://appleinsider.com/articles/24/03/18/apple-calls-128gb-lots-of-storage-in-new-iphone-15-ad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
