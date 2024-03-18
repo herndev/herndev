@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s most newbie-friendly campaign now offers a luxe boxed set from Beadle &amp; Grimm’s](https://www.polygon.com/reviews/24094327/beadle-grimm-phandelver-below-shattered-obelisk-legendary-review)
- - [MrBeast&#39;s Amazon Game Show Makes History With $5 Million Prize](https://kotaku.com/mrbeast-beast-games-amazon-reality-game-show-prize-1851344900)
- - [Ayaneo Kun review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-kun-review)<!-- GAME:END -->
+ - [&#39;It&#39;s just cosmetics&#39; monetisation doesn&#39;t quite hold up anymore, especially now it&#39;s started to make fully-priced games worse](https://www.pcgamer.com/gaming-industry/its-just-cosmetics-monetisation-doesnt-quite-hold-up-anymore-especially-now-its-started-to-make-fully-priced-games-worse)
+ - [Distant Horizons mod blows past Minecraft&#39;s max render distance, pushing viewable terrain out to an unbelievable 512 chunks](https://www.pcgamer.com/games/survival-crafting/distant-horizons-mod-blows-past-minecrafts-max-render-distance-pushing-viewable-terrain-out-to-an-unbelievable-512-chunks)
+ - [Get over 100 awesome, femme-forward D&amp;D one-shots for just $20](https://www.polygon.com/deals/2024/3/18/24104816/dungeons-and-dragons-uncaged-anthology-goddesses-ttrpg-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
