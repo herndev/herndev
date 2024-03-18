@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Baby Monitors &lpar;2024&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
- - [Playtron: the startup hoping to Steam Deck-ify the world](https://www.theverge.com/24090470/playtron-gaming-os-linux-handhelds-exclusive)
- - [Leaker casts doubt on 12.9-inch iPad Air 6 rumors as launch looms](https://appleinsider.com/articles/24/03/18/leaker-casts-doubt-on-129-inch-ipad-air-6-rumors-as-launch-looms?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok is paying creators to up its search game](https://www.theverge.com/2024/3/18/24101695/tiktok-creator-rewards-program-monetization-search-value-seo)
+ - [Apple and Google partnering for an AI deal is beneficial for both, giving Apple a compelling AI story for investors and Google access to affluent users &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p20#a240318p20)
+ - [YouTube adds new AI-generated content labeling tool](https://www.theverge.com/2024/3/18/24104743/youtube-ai-generated-content-disclosure-label)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
