@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
- - ⏩ [Lord of the sign of Labyrinth](http://9gag.com/gag/axyE2Ep)
- - 👉 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)<!-- MEMES:END -->
+ - 💣 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)
+ - ⏩ [Pleasant dreams](http://9gag.com/gag/ae9K03p)
+ - 👉 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)<!-- MEMES:END -->
 
 ---
 
