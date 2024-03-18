@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;March 18, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-18-2024)
- - [Here&#39;s the demo for an adorable tower defense about green army men battling evil robots](https://www.pcgamer.com/games/strategy/heres-the-demo-for-an-adorable-tower-defense-about-green-army-men-battling-evil-robots)
- - [Automate bases to explore and terraform a huge open world in Eden Crafters](https://www.pcgamer.com/games/survival-crafting/automate-bases-to-explore-and-terraform-a-huge-open-world-in-eden-crafters)<!-- GAME:END -->
+ - [Blood Bowl 3 gets Wood Elves, Resurrection mode, and a new roadmap](https://www.pcgamer.com/games/strategy/blood-bowl-3-gets-wood-elves-resurrection-mode-and-a-new-roadmap)
+ - [The Asus ROG NUC is launching soon, and it ain&#39;t cheap](https://www.pcgamer.com/hardware/gaming-pcs/the-asus-rog-nuc-is-launching-soon-and-it-aint-cheap)
+ - [Five new Steam games you probably missed &lpar;March 18, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-18-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
