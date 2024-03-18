@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smash hit Balatro is coming to iPhone and Android](https://www.theverge.com/2024/3/15/24102437/balatro-iphone-android-mobile)
- - [Reddit’s Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
- - [Microsoft is again injecting pop-ups into Chrome on Windows in a bid to get users to switch to Bing, after previously pausing them citing &quot;unintended behavior&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240315/p27#a240315p27)<!-- TECH:END -->
+ - [To settle a class action suit, Uber agreed to pay ~$178M to compensate taxi drivers in Australia who claimed they lost income when Uber entered the local market &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/240317/p14#a240317p14)
+ - [Experts say forcing a TikTok US sale within 180 days, as the bill requires, would be too complicated and costly, and likely mean the app would be banned &lpar;Washington Post&rpar;](http://www.techmeme.com/240317/p13#a240317p13)
+ - [The M1 MacBook Air is not only still around, it’s cheaper than ever](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
