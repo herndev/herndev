@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
- - ⏩ [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 👉 [Hey you can&#39;t park here !](http://9gag.com/gag/agmrvBv)<!-- MEMES:END -->
+ - 💣 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
+ - ⏩ [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 👉 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)<!-- MEMES:END -->
 
 ---
 
