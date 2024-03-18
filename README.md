@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet may soon support Apple Wallet passes](https://www.androidauthority.com/google-wallet-expanded-support-3426725/)
- - [X&#39;s pivot to video mirrors past social media trends, but its reliance on user-generated videos from TikTok and other platforms may not ensure long-term success &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240318/p28#a240318p28)
- - [OLED iPad Pros still expected in March, with April availability](https://appleinsider.com/articles/24/03/18/oled-ipad-pros-still-expected-in-march-with-april-availability?utm_medium=rss)<!-- TECH:END -->
+ - [Cyberpunk is out and solarpunk is in, according to Figma’s CEO](https://www.theverge.com/2024/3/18/24104890/figma-ceo-dylan-field-cyberpunk-solarpunk-trends-sxsw-2024)
+ - [A livestream of the Nvidia GTC 2024 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/240318/p30#a240318p30)
+ - [Garmin Forerunner 165 review: Should you buy it?](https://www.androidauthority.com/garmin-forerunner-165-review-3424540/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
