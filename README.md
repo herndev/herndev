@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix doesn&#39;t do big Final Fantasy discounts often, but the exceptional XIII trilogy is less than half price for the next few days](https://www.pcgamer.com/games/rpg/square-enix-doesnt-do-big-final-fantasy-discounts-often-but-the-exceptional-xiii-trilogy-is-less-than-half-price-for-the-next-few-days)
- - [21 Final Fantasy VII Rebirth Mini-Games, Ranked From Worst To Best](https://kotaku.com/final-fantasy-7-rebirth-mini-games-best-worst-ranked-1851340606)
- - [Elijah Wood is the Green crewmate in the Among Us TV show, and I can&#39;t be the only one who finds that a bit sus](https://www.pcgamer.com/games/survival-crafting/elijah-wood-is-the-green-crewmate-in-the-among-us-tv-show-and-i-cant-be-the-only-one-who-finds-that-a-bit-sus)<!-- GAME:END -->
+ - [Top-tier deckbuilder Balatro hits 1 million sales in less than a month, which hopefully justifies all the hours we&#39;ve collectively lost to it](https://www.pcgamer.com/games/card-games/top-tier-deckbuilder-balatro-hits-1-million-sales-in-less-than-a-month-which-hopefully-justifies-all-the-hours-weve-collectively-lost-to-it)
+ - [Sony&#39;s reportedly stopped making any more PS VR2 headsets until it can figure out a way of shifting a pile of unsold VR goggles](https://www.pcgamer.com/hardware/vr-hardware/sonys-reportedly-stopped-making-any-more-ps-vr2-headsets-until-it-can-figure-out-a-way-of-shifting-a-pile-of-unsold-vr-goggles)
+ - [Sony Reportedly Halts PSVR2 Production As Headsets Fail To Sell](https://kotaku.com/playstation-vr2-headsets-production-sales-halt-sony-1851344240)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
