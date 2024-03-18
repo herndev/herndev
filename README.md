@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI open sources Grok](https://www.theverge.com/2024/3/17/24097810/xai-open-source-grok-musk-generative-ai-llm)
  - [To settle a class action suit, Uber agreed to pay ~$178M to compensate taxi drivers in Australia who claimed they lost income when Uber entered the local market &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/240317/p14#a240317p14)
- - [Experts say forcing a TikTok US sale within 180 days, as the bill requires, would be too complicated and costly, and likely mean the app would be banned &lpar;Washington Post&rpar;](http://www.techmeme.com/240317/p13#a240317p13)
- - [The M1 MacBook Air is not only still around, it’s cheaper than ever](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)<!-- TECH:END -->
+ - [Experts say forcing a TikTok US sale within 180 days, as the bill requires, would be too complicated and costly, and likely mean the app would be banned &lpar;Washington Post&rpar;](http://www.techmeme.com/240317/p13#a240317p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
