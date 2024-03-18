@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, March 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-18-2024)
  - [Apex Legends streamers warned to &#39;perform a clean OS reinstall as soon as possible&#39; after hacks during NA Finals match](https://www.pcgamer.com/games/battle-royale/apex-legends-streamers-warned-to-perform-a-clean-os-reinstall-as-soon-as-possible-after-hacks-during-na-finals-match)
- - [Blood Bowl 3 gets Wood Elves, Resurrection mode, and a new roadmap](https://www.pcgamer.com/games/strategy/blood-bowl-3-gets-wood-elves-resurrection-mode-and-a-new-roadmap)
- - [The Asus ROG NUC is launching soon, and it ain&#39;t cheap](https://www.pcgamer.com/hardware/gaming-pcs/the-asus-rog-nuc-is-launching-soon-and-it-aint-cheap)<!-- GAME:END -->
+ - [Blood Bowl 3 gets Wood Elves, Resurrection mode, and a new roadmap](https://www.pcgamer.com/games/strategy/blood-bowl-3-gets-wood-elves-resurrection-mode-and-a-new-roadmap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
