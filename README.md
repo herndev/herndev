@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Nvidia unveils the Earth-2 platform, letting users create AI-powered climate simulations ranging from global atmospheric conditions to local weather phenomena &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p34#a240318p34)
- - [Apple calls 128GB &#39;lots of storage&#39; in new iPhone 15 ad](https://appleinsider.com/articles/24/03/18/apple-calls-128gb-lots-of-storage-in-new-iphone-15-ad?utm_medium=rss)<!-- TECH:END -->
+ - [Hippocratic AI, which is building an LLM for health care, raised a $53M Series A co-led by Premji Invest and General Catalyst at a $500M valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240318/p38#a240318p38)
+ - [Steam streamlines its family sharing features](https://www.theverge.com/2024/3/18/24105220/steam-families-shared-library-parental-controls)
+ - [Nvidia unveils Project GR00T, a general-purpose foundation model for humanoid robots, and Jetson Thor, a new computer designed specifically for humanoid robots &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240318/p37#a240318p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
