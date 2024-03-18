@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google axes ‘Fitbit by Google’ for new, more on-point branding](https://www.androidauthority.com/google-fitbit-rebranding-3426494/)
- - [The new Snapdragon 8s Gen 3 will power your next flagship killer](https://www.androidauthority.com/snapdragon-8s-gen-3-3425761/)
- - [Qualcomm’s new 8S Gen 3 targets not-quite flagship phones](https://www.theverge.com/2024/3/18/24101903/qualcomm-snapdragon-8s-gen-3-chipset-on-device-ai)<!-- TECH:END -->
+ - [YouTube Music reportedly getting a feature it should have had a long time ago](https://www.androidauthority.com/youtube-music-song-search-3426519/)
+ - [Samsung Galaxy S24 Incipio Cru case review: Sleek and stylish](https://www.androidauthority.com/samsung-galaxy-s24-incipio-cru-case-review-3426098/)
+ - [Google axes ‘Fitbit by Google’ for new, more on-point branding](https://www.androidauthority.com/google-fitbit-rebranding-3426494/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
