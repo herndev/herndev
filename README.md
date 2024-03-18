@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
- - ⏩ [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
- - 👉 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)<!-- MEMES:END -->
+ - 💣 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - ⏩ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
 
 ---
 
