@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
- - ⏩ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
- - 👉 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)<!-- MEMES:END -->
+ - ⏩ [I see what you did there.](http://9gag.com/gag/a6Zry82)
+ - 👉 [Cooking with a best view](http://9gag.com/gag/a6ZrLQN)<!-- MEMES:END -->
 
 ---
 
