@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Tablet 2: All the rumors and everything we want to see](https://www.androidauthority.com/google-pixel-tablet-2-3368307/)
- - [Apple’s new 2024 AirPods could come with lofty ambitions](https://www.androidauthority.com/new-airpods-coming-this-year-3426514/)
- - [Behind the rise of AI ambient clinical documentation tools, which let doctors record and automatically turn conversations with patients into clinical notes &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240318/p4#a240318p4)<!-- TECH:END -->
+ - [Apple in talks to licence Google Gemini AI for iPhones](https://appleinsider.com/articles/24/03/18/apple-in-talks-to-licence-google-gemini-ai-for-iphones?utm_medium=rss)
+ - [Filings: Reddit cancelled Steve Huffman&#39;s pay awards in December 2023 that were tied to hitting a $25B valuation, signalling reduced hopes of a blockbuster IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240318/p6#a240318p6)
+ - [Apple’s AI ambitions could include Google or OpenAI](https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
