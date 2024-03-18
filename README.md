@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside generative AI music startup Suno, whose model can compose songs, including human vocals, using a text prompt, as it aims to democratize music making &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240318/p1#a240318p1)
  - [Sources: Sony made 2M+ PSVR2 units since the Feb. 2023 launch but paused production amid dropping sales; recently Sony said it was testing PSVR2 PC game support &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240317/p16#a240317p16)
- - [In the years since Trump was booted from Facebook and Twitter after Jan. 6&#39;s Capitol attack, he and his allies have beaten down efforts to filter election lies &lpar;New York Times&rpar;](http://www.techmeme.com/240317/p15#a240317p15)
- - [xAI open sources Grok](https://www.theverge.com/2024/3/17/24097810/xai-open-source-grok-musk-generative-ai-llm)<!-- TECH:END -->
+ - [In the years since Trump was booted from Facebook and Twitter after Jan. 6&#39;s Capitol attack, he and his allies have beaten down efforts to filter election lies &lpar;New York Times&rpar;](http://www.techmeme.com/240317/p15#a240317p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
