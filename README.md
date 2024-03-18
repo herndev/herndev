@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyberpunk is out and solarpunk is in, according to Figma’s CEO](https://www.theverge.com/2024/3/18/24104890/figma-ceo-dylan-field-cyberpunk-solarpunk-trends-sxsw-2024)
- - [A livestream of the Nvidia GTC 2024 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/240318/p30#a240318p30)
- - [Garmin Forerunner 165 review: Should you buy it?](https://www.androidauthority.com/garmin-forerunner-165-review-3424540/)<!-- TECH:END -->
+ - [Nvidia announces a new generation of AI chips named Blackwell, starting with the GB200 Grace Blackwell Superchip, expected to ship later this year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240318/p32#a240318p32)
+ - [Nvidia reveals Blackwell B200 GPU, the ‘world’s most powerful chip’ for AI](https://www.theverge.com/2024/3/18/24105157/nvidia-blackwell-gpu-b200-ai)
+ - [Feeling Euphoric? What &#39;Spring Fever&#39; Can Do to Our Mood     - CNET](https://www.cnet.com/health/mental/feeling-euphoric-what-spring-fever-can-do-to-our-mood/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
