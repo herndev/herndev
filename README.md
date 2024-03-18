@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cutoff](http://9gag.com/gag/a1mpvMR)
- - ⏩ [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
- - 👉 [You promise not to cry?](http://9gag.com/gag/aXPZEXP)<!-- MEMES:END -->
+ - 💣 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
+ - ⏩ [Lord of the sign of Labyrinth](http://9gag.com/gag/axyE2Ep)
+ - 👉 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)<!-- MEMES:END -->
 
 ---
 
