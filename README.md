@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
- - [In partnerships with OpenAI, Anthropic, and Meta, US DHS rolls out pilot programs to test AI tech to help combat drug and human trafficking crimes, and more &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240318/p23#a240318p23)
- - [Samsung’s entry-level Galaxy Z Fold 6 could cost less than the Galaxy S24](https://www.androidauthority.com/cheaper-galaxy-z-fold-6-model-3426647/)<!-- TECH:END -->
+ - [Pixel 8 drops below $500 for the first time](https://www.theverge.com/2024/3/18/24104732/google-pixel-8-tp-link-kasa-smart-bulbs-apple-tv-4k-tcl-qm8-deal-sale)
+ - [Microsoft is holding a Windows and Surface AI event on May 20; sources: the event will include the consumer versions of Surface Pro 10 and Surface Laptop 6 &lpar;The Verge&rpar;](http://www.techmeme.com/240318/p26#a240318p26)
+ - [After hearing oral arguments, SCOTUS appeared wary of curbing US government contacts with social media platforms to remove posts deemed misinformation &lpar;Reuters&rpar;](http://www.techmeme.com/240318/p25#a240318p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
