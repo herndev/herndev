@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines 2 will finally start getting modding support, alongside some performance fixes and its first wave of paid DLC](https://www.pcgamer.com/games/city-builder/cities-skylines-2-will-finally-start-getting-modding-support-alongside-some-performance-fixes-and-its-first-wave-of-paid-dlc)
- - [Billions from the CHIPS Act is soon to begin flowing with Samsung, Intel and TSMC set to benefit](https://www.pcgamer.com/hardware/billions-from-the-chips-act-is-soon-to-begin-flowing-with-samsung-intel-and-tsmc-set-to-benefit)
- - [Today&#39;s Wordle answer for Monday, March 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-18-2024)<!-- GAME:END -->
+ - [GTA Online’s community is in limbo while hype builds for GTA 6](https://www.polygon.com/24101246/gta-online-community-gta-6-limbo-role-play)
+ - [OpenAI hopes to break AI&#39;s reliance on Nvidia by using investment from UAE to make its own chips](https://www.pcgamer.com/software/ai/openai-hopes-to-break-ais-reliance-on-nvidia-by-using-investment-from-uae-to-make-its-own-chips)
+ - [Konami releases David Hayter-fronted video series about Metal Gear&#39;s incredible legacy, doesn&#39;t mention Metal Gear creator, director, and writer Hideo Kojima once](https://www.pcgamer.com/games/action/konami-releases-david-hayter-fronted-video-series-about-metal-gears-incredible-legacy-doesnt-mention-metal-gear-creator-director-and-writer-hideo-kojima-once)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
