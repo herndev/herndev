@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Five Of 2023&#39;s Best Indie Games At Nearly 50 Percent Off](https://kotaku.com/steam-spring-sale-igf-2024-narrative-bundle-venba-1851345783)
- - [Save $20 on pre-orders for Princess Peach Showtime!](https://www.polygon.com/deals/24105003/princess-peach-showtime-nintendo-switch-qvc-deal-sale)
- - [Overwatch 2 Devs Fear Story Missions Have Been Canceled](https://kotaku.com/overwatch-2-story-missions-campaign-canceled-blizzard-1851345720)<!-- GAME:END -->
+ - [MrBeast has a TV deal with Amazon’s Prime Video to produce a record-breaking TV game show](https://www.polygon.com/24105203/mrbeast-amazon-show-beast-games-squid-game-streaming-youtube)
+ - [The Last Stardew Valley 1.6 Patch Note Is Here](https://kotaku.com/stardew-valley-16-update-farm-type-1851346388)
+ - [Buy 1 board game at Target and get another for 50% off](https://www.polygon.com/24105103/board-games-tabletop-target-half-off-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
