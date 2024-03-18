@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
- - ⏩ [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 👉 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)<!-- MEMES:END -->
+ - 💣 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
+ - ⏩ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 👉 [Chad Gina](http://9gag.com/gag/axyEEx2)<!-- MEMES:END -->
 
 ---
 
