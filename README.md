@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
- - ⏩ [I see what you did there.](http://9gag.com/gag/a6Zry82)
- - 👉 [Cooking with a best view](http://9gag.com/gag/a6ZrLQN)<!-- MEMES:END -->
+ - 💣 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - ⏩ [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 👉 [Transposition](http://9gag.com/gag/a87dWMV)<!-- MEMES:END -->
 
 ---
 
