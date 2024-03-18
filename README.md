@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)
- - ⏩ [Helldivers 2 bans external politics from the game - F**kYeah!](http://9gag.com/gag/aNDmoO0)
- - 👉 [You will be missed.](http://9gag.com/gag/ary1pBB)<!-- MEMES:END -->
+ - 💣 [Don&#39;t ask why I know](http://9gag.com/gag/aKG4grg)
+ - ⏩ [What ?](http://9gag.com/gag/aLn6Q9z)
+ - 👉 [Chad Gina](http://9gag.com/gag/axyEEx2)<!-- MEMES:END -->
 
 ---
 
