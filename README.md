@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is paying creators to up its search game](https://www.theverge.com/2024/3/18/24101695/tiktok-creator-rewards-program-monetization-search-value-seo)
- - [Apple and Google partnering for an AI deal is beneficial for both, giving Apple a compelling AI story for investors and Google access to affluent users &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p20#a240318p20)
- - [YouTube adds new AI-generated content labeling tool](https://www.theverge.com/2024/3/18/24104743/youtube-ai-generated-content-disclosure-label)<!-- TECH:END -->
+ - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
+ - [In partnerships with OpenAI, Anthropic, and Meta, US DHS rolls out pilot programs to test AI tech to help combat drug and human trafficking crimes, and more &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240318/p23#a240318p23)
+ - [Samsung’s entry-level Galaxy Z Fold 6 could cost less than the Galaxy S24](https://www.androidauthority.com/cheaper-galaxy-z-fold-6-model-3426647/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
