@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI debuts Stable Video 3D, a generative AI tool built on its Stable Video Diffusion model, letting users create 3D video from a text or image prompt &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240318/p43#a240318p43)
- - [Sources: TSMC and Intel suppliers have delayed construction of facilities in Arizona, citing surging construction costs, a labor shortage, and weak local demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240318/p42#a240318p42)
- - [Amazon&#39;s First-Ever &#39;Big Spring Sale&#39; Event Is Coming. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/deals/amazon-announces-first-ever-big-spring-sale-event-is-coming-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unity&#39;s 2024 Gaming Report: the number of multiplatform games up 40% since 2021, in-app advertising revenue up 26.7% YoY, 62% of studios are using AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p45#a240318p45)
+ - [Google cuts the cord on another feature from its Phone app](https://www.androidauthority.com/google-phone-app-nearby-places-3426757/)
+ - [How to use Collaborative Playlists for Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-use-collaborative-playlists-for-apple-music?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
