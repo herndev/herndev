@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For once, a useful video from other social platform](http://9gag.com/gag/a87dMYV)
- - ⏩ [Dogs as medieval character](http://9gag.com/gag/ae9K69B)
- - 👉 [And I love it](http://9gag.com/gag/aLn629g)<!-- MEMES:END -->
+ - 💣 [Stranger shows up at a woman\u2019s house with her daughter&#39;s missing wallet.](http://9gag.com/gag/azx7LWN)
+ - ⏩ [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
+ - 👉 [And the best parent award goes to](http://9gag.com/gag/adBypVB)<!-- MEMES:END -->
 
 ---
 
