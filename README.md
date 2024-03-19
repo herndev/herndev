@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Astarion&#39;s actor was deployed to replace the missing mocap of around 150 lines of Baldur&#39;s Gate 3 dialogue: &#39;I just had this dog&#39;s breakfast&#39;](https://www.pcgamer.com/games/baldurs-gate/astarions-actor-was-deployed-to-replace-the-missing-mocap-of-around-150-lines-of-baldurs-gate-3-dialogue-i-just-had-this-dogs-breakfast)
- - [Today&#39;s Wordle answer for Tuesday, March 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-19-2024)
- - [Who is Satoshi Nakamoto, the creator of Bitcoin? It&#39;s not Craig Wright according to a UK judge](https://www.pcgamer.com/software/who-is-satoshi-nakamoto-the-creator-of-bitcoin-its-not-craig-wright-according-to-a-uk-judge)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Diablo IV, The Quarry, Ark: Survival Ascended, and More](https://news.xbox.com/en-us/2024/03/19/xbox-game-pass-new-march-2024-wave-2/)
+ - [Nvidia CEO brings out a monster dual-GPU Blackwell chip at GTC: here&#39;s what it tells us about the next GeForce graphics cards](https://www.pcgamer.com/hardware/graphics-cards/nvidia-ceo-brings-out-a-monster-dual-gpu-blackwell-chip-at-gtc-heres-whats-it-tells-us-about-the-next-geforce-graphics-cards)
+ - [Stardew Valley creator releases a list of over 1000 mods compatible with today&#39;s 1.6 patch, and yep, you can still call in an airstrike](https://www.pcgamer.com/games/life-sim/stardew-valley-creator-releases-a-list-of-over-1000-mods-compatible-with-todays-16-patch-and-yep-you-can-still-call-in-an-airstrike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
