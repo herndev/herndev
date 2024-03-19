@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After losing two complaints before the US ITC, Apple steps up lobbying to help rewrite ITC rules, asking for public interest to be considered before import bans &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240319/p26#a240319p26)
- - [Ninja Thirsti Drink System     - CNET](https://www.cnet.com/home/kitchen-and-household/ninja-thirsti-drink-system-dpnl/#ftag=CAD590a51e)
- - [Best Headsets for Working From Home in 2024     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Saudi Arabia&#39;s Public Investment Fund discussed a potential partnership with a16z and others to create a fund of about $40B to invest in AI in H2 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/240319/p28#a240319p28)
+ - [Google Play Store widely rolls out new ‘App highlights’ feature](https://www.androidauthority.com/google-play-store-app-highlights-3427036/)
+ - [Inflection won&#39;t shut down Pi but will no longer focus on its consumer business, instead working with commercial customers to create, test, and tune AI systems &lpar;New York Times&rpar;](http://www.techmeme.com/240319/p27#a240319p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
