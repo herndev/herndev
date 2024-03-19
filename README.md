@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Delta &lpar;2404.240314-2000&rpar;](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-delta-2404-240314-2000/)
- - [Xbox Insider Release Notes – Beta &lpar;2404.240314-2000&rpar;](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-beta-2404-240314-2000/)
- - [Stardew Valley&#39;s 1.6 update is finally live, and Eric Barone wasn&#39;t kidding: it is massive](https://www.pcgamer.com/life-sim/stardew-valley-16-update-live-patch-notes)<!-- GAME:END -->
+ - [Massive Dragon’s Dogma 2 Spoilers Leak Days Before Release](https://kotaku.com/dragons-dogma-2-game-spoilers-leak-capcom-takedown-1851349766)
+ - [Target has the Pokémon TCG Classic set for its lowest price ever](https://www.polygon.com/deals/2024/3/19/24106039/pokemon-tcg-classic-target-box-deal-sale)
+ - [Someone At A Flea Market Couldn&#39;t Give Away Copies Of NBA 2K19](https://kotaku.com/nba-2k19-flea-market-giveaway-free-copies-xbox-one-1851349597)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
