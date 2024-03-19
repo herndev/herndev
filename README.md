@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash, Uber Eats — and Tony](https://www.theverge.com/24105686/doordash-uber-eats-delivery-apps-issues-rivian-history-vergecast)
- - [Anker’s speedy Qi2 MagSafe chargers have dropped to new all-time low prices](https://www.theverge.com/2024/3/19/24104781/anker-maggo-power-bank-google-pixel-tablet-amazon-echo-buds-deal-sale)
- - [Apple thinks 128GB of storage is worth bragging about in new video ad](https://www.androidauthority.com/apple-iphone-128gb-storage-video-ad-3426955/)<!-- TECH:END -->
+ - [Airbus ends talks with Atos on a deal worth ~&amp;euro;1.8B for its big data and security unit, imperiling efforts by Atos to avoid going into debt restructuring &lpar;Financial Times&rpar;](http://www.techmeme.com/240319/p15#a240319p15)
+ - [Two iPad Air sizes are being shipped to the US right now](https://appleinsider.com/articles/24/03/19/two-ipad-air-sizes-are-being-shipped-to-the-us-right-now?utm_medium=rss)
+ - [Asus Zenbook Duo review: a sleek design, gorgeous displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
