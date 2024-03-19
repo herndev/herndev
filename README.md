@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sell Your Old TV: 7 Easy Steps to Maximize Your Profit     - CNET](https://www.cnet.com/tech/home-entertainment/sell-your-old-tv-7-easy-steps-that-maximize-your-profit/#ftag=CAD590a51e)
  - [The Connectivity Standards Alliance launches a cybersecurity standard that aims to provide a globally recognized security certification for consumer IoT devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240318/p41#a240318p41)
- - [Nvidia announces a software framework built with its Omniverse Cloud APIs to let enterprise developers stream interactive 3D experiences into Apple Vision Pro &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240318/p40#a240318p40)
- - [Best Power Bank for iPhone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Peloton Alternatives for 2024     - CNET](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
