@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
- - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 👉 [Billions must game](http://9gag.com/gag/a34vjX5)<!-- MEMES:END -->
+ - 💣 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - ⏩ [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
 
 ---
 
