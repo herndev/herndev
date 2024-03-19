@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Transposition](http://9gag.com/gag/a87dWMV)
- - ⏩ [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)
- - 👉 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)<!-- MEMES:END -->
+ - 💣 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
+ - ⏩ [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 👉 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)<!-- MEMES:END -->
 
 ---
 
