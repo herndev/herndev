@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, March 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-19-2024)
  - [Who is Satoshi Nakamoto, the creator of Bitcoin? It&#39;s not Craig Wright according to a UK judge](https://www.pcgamer.com/software/who-is-satoshi-nakamoto-the-creator-of-bitcoin-its-not-craig-wright-according-to-a-uk-judge)
- - [Rainbow Six Siege rockets back up the Steam charts 8 years after release, proving why Ubisoft isn&#39;t worried about making a Siege 2](https://www.pcgamer.com/games/fps/rainbow-six-siege-rockets-back-up-the-steam-charts-8-years-after-release-proving-why-ubisoft-isnt-worried-about-making-a-siege-2)
- - [Valve is improving how Steam Family Sharing works—but if your brother gets banned for cheating, so do you](https://www.pcgamer.com/games/valve-is-improving-how-steam-family-sharing-worksbut-if-your-brother-gets-banned-for-cheating-now-so-do-you)<!-- GAME:END -->
+ - [Rainbow Six Siege rockets back up the Steam charts 8 years after release, proving why Ubisoft isn&#39;t worried about making a Siege 2](https://www.pcgamer.com/games/fps/rainbow-six-siege-rockets-back-up-the-steam-charts-8-years-after-release-proving-why-ubisoft-isnt-worried-about-making-a-siege-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
