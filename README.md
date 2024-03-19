@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nuclear weapons in space are bad news for the entire planet](https://www.theverge.com/2024/3/19/24104979/nuclear-weapons-space-russia-putin-satellite-debris-orbit)
- - [Filing: Reddit says Nokia accused the company of infringing some of its patents, and is evaluating Nokia&#39;s claims, ahead of its planned IPO this week &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240319/p11#a240319p11)
- - [Singapore-based online shopping rewards app ShopBack cuts 195 jobs, or 24% of its staff, to become self-sustainable; ShopBack raised a $200M Series E in 2022 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240319/p10#a240319p10)<!-- TECH:END -->
+ - [USB 3.0 vs 3.1 vs 3.2: What’s the difference?](https://www.androidauthority.com/usb-3-0-vs-3-1-vs-3-2-3358606/)
+ - [These are the top 3 smartphone brands you trust for software updates](https://www.androidauthority.com/top-3-smartphone-brands-trust-software-updates-poll-results-3426920/)
+ - [Ethiopia&#39;s central bank says &quot;a glitch&quot; let Commercial Bank customers withdraw more cash than was in the account for hours; local media says $40M+ was withdrawn &lpar;Kalkidan Yibeltal/BBC&rpar;](http://www.techmeme.com/240319/p13#a240319p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
