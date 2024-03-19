@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
- - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
+ - 💣 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
+ - ⏩ [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 👉 [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)<!-- MEMES:END -->
 
 ---
 
