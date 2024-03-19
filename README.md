@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Classic Marathon is coming to Steam well before the unclassic Marathon reboot](https://www.pcgamer.com/games/fps/classic-marathon-is-coming-to-steam-well-before-the-unclassic-marathon-reboot)
- - [MrBeast has a TV deal with Amazon’s Prime Video to produce a record-breaking TV game show](https://www.polygon.com/24105203/mrbeast-amazon-show-beast-games-squid-game-streaming-youtube)
- - [The Last Stardew Valley 1.6 Patch Note Is Here](https://kotaku.com/stardew-valley-16-update-farm-type-1851346388)<!-- GAME:END -->
+ - [Rainbow Six Siege rockets back up the Steam charts 8 years after release, proving why Ubisoft isn&#39;t worried about making a Siege 2](https://www.pcgamer.com/games/fps/rainbow-six-siege-rockets-back-up-the-steam-charts-8-years-after-release-proving-why-ubisoft-isnt-worried-about-making-a-siege-2)
+ - [Valve is improving how Steam Family Sharing works—but if your brother gets banned for cheating, so do you](https://www.pcgamer.com/games/valve-is-improving-how-steam-family-sharing-worksbut-if-your-brother-gets-banned-for-cheating-now-so-do-you)
+ - [Get To Know Our Team: Austin – Technical Program Manager &lpar;Hardware &amp; Internal Flighting&rpar;](https://news.xbox.com/en-us/2024/03/18/get-to-know-our-team-austin-technical-program-manager-hardware-internal-flighting/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
