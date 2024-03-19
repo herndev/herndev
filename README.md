@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Playtron promises an alternative to SteamOS for handheld PCs: &#39;Play all your games from every store, Steam, Epic and more&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/playtron-promises-an-alternative-to-steamos-for-handheld-pcs-play-all-your-games-from-every-store-steam-epic-and-more)
- - [Lego goes all-out on a 3,745 piece D&amp;D set with its own bespoke TTRPG adventure, but it&#39;ll set you back a dragon&#39;s ransom of $360](https://www.pcgamer.com/games/board-games/lego-goes-all-out-on-a-3745-piece-dandd-set-with-its-own-bespoke-ttrpg-adventure-but-itll-set-you-back-a-dragons-ransom-of-dollar360)
- - [Denuvo&#39;s new feature can invisibly watermark your game footage so publishers can track down leakers](https://www.pcgamer.com/gaming-industry/denuvos-new-feature-can-invisibly-watermark-your-game-footage-so-publishers-can-track-down-leakers)<!-- GAME:END -->
+ - [Void Bastards&#39; space cowboy sequel has 13 different &#39;outlaws&#39; you equip and swap like weapons, but if you play poorly they&#39;ll refuse to work together](https://www.pcgamer.com/games/fps/void-bastards-space-cowboy-sequel-has-13-different-outlaws-you-equip-and-swap-like-weapons-but-if-you-play-poorly-theyll-refuse-to-work-together)
+ - [Elden Ring is $20 off, a rare discount ahead of the big expansion coming in June](https://www.polygon.com/deals/24105982/elden-ring-20-off-deal-sale-shadow-of-the-erdtree)
+ - [Here&#39;s a two-minute clip from the Fallout TV series: Walton Goggins terrorizes senior citizens and a Vault dweller gets in over her head](https://www.pcgamer.com/movies-tv/heres-a-two-minute-clip-from-the-fallout-tv-series-walton-goggins-terrorizes-senior-citizens-and-a-vault-dweller-gets-in-over-her-head)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
