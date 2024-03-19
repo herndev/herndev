@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer Nommo V2 Pro Review](https://www.pcgamer.com/hardware/speakers/razer-nommo-v2-pro-speaker-review)
- - [Final Fantasy VII Rebirth&#39;s Gongaga Region Sucks](https://kotaku.com/ff7-final-fantasy-7-rebirth-gongaga-sucks-1851346424)
- - [The best video games of 2024 so far](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)<!-- GAME:END -->
+ - [Dive In and Discover the World of Free-To-Play on Xbox](https://news.xbox.com/en-us/2024/03/19/free-to-play-frenzy-xbox-march-2024/)
+ - [March’s Xbox Game Pass Offerings Are Looking Mighty Fine](https://kotaku.com/xbox-game-pass-march-2024-diablo-4-evil-west-open-roads-1851348305)
+ - [Halo co-creator that joined EA to work on Battlefield &#39;gut punched&#39; as publisher lays off entire team: &#39;I don&#39;t have anything positive to say about EA&#39;](https://www.pcgamer.com/games/fps/halo-co-creator-that-joined-ea-to-work-on-battlefield-gut-punched-as-publisher-lays-off-entire-team-i-dont-have-anything-positive-to-say-about-ea)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
