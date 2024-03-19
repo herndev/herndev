@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - ⏩ [Goddamn, how&#39;s 100k usd is not enough](http://9gag.com/gag/avy2PV5)
- - 👉 [Sci-fi timeline](http://9gag.com/gag/agmrGoq)<!-- MEMES:END -->
+ - 💣 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
+ - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 👉 [Billions must game](http://9gag.com/gag/a34vjX5)<!-- MEMES:END -->
 
 ---
 
