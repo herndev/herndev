@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
- - ⏩ [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
- - 👉 [Vacuum goes brrr](http://9gag.com/gag/azx7Ebz)<!-- MEMES:END -->
+ - 💣 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
+ - ⏩ [Women in the United Kingdom, 1997. Before the Islamic Revolution.](http://9gag.com/gag/aZZqBpX)
+ - 👉 [Task failed successfully](http://9gag.com/gag/a87d4XY)<!-- MEMES:END -->
 
 ---
 
