@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Xbox Continues to Help Independent Developers Reach More Players](https://news.xbox.com/en-us/2024/03/19/how-xbox-continues-to-help-independent-developers-reach-more-players/)
- - [Nvidia had already sold tens of thousands of Blackwell GPUs before the next-gen architecture was announced](https://www.pcgamer.com/hardware/graphics-cards/nvidia-had-already-sold-tens-of-thousands-of-blackwell-gpus-before-the-next-gen-architecture-was-announced)
- - [The English actors behind FF14&#39;s beloved twins acted in silos for 9 whole years before meeting in the real world, but became fast friends: &#39;it&#39;s become easier to bounce off each other&#39;](https://www.pcgamer.com/games/final-fantasy/the-english-actors-behind-ff14s-beloved-twins-acted-in-silos-for-9-whole-years-before-meeting-in-the-real-world-but-became-fast-friends-its-become-easier-to-bounce-off-each-other)<!-- GAME:END -->
+ - [Playtron promises an alternative to SteamOS for handheld PCs: &#39;Play all your games from every store, Steam, Epic and more&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/playtron-promises-an-alternative-to-steamos-for-handheld-pcs-play-all-your-games-from-every-store-steam-epic-and-more)
+ - [Lego goes all-out on a 3,745 piece D&amp;D set with its own bespoke TTRPG adventure, but it&#39;ll set you back a dragon&#39;s ransom of $360](https://www.pcgamer.com/games/board-games/lego-goes-all-out-on-a-3745-piece-dandd-set-with-its-own-bespoke-ttrpg-adventure-but-itll-set-you-back-a-dragons-ransom-of-dollar360)
+ - [Denuvo&#39;s new feature can invisibly watermark your game footage so publishers can track down leakers](https://www.pcgamer.com/gaming-industry/denuvos-new-feature-can-invisibly-watermark-your-game-footage-so-publishers-can-track-down-leakers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
