@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
- - ⏩ [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
+ - 💣 [Dad of the year..](http://9gag.com/gag/an7eBQ0)
+ - ⏩ [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
+ - 👉 [At long last\u2026](http://9gag.com/gag/a1mpXR8)<!-- MEMES:END -->
 
 ---
 
