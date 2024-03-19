@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft let me actually speak with its new AI-powered video game NPCs](https://www.theverge.com/2024/3/19/24105748/nvidia-neo-npc-prototypes-gdc-2024)
- - [The EV revolution hinges on upcoming emissions rule](https://www.theverge.com/2024/3/19/24105752/epa-emission-rule-electric-vehicle-transition-timeline)
- - [The Acolyte’s first trailer teases a deadly disturbance in the Force](https://www.theverge.com/24105666/star-wars-the-acolyte-trailer-premiere-date-disney-plus)<!-- TECH:END -->
+ - [Mark Zuckerberg says Threads is rolling out a &quot;trending now&quot; page for users in the US, visible under the search bar &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240319/p24#a240319p24)
+ - [Flash deals: Apple Watch Series 9 drops to $299 at Best Buy](https://appleinsider.com/articles/24/03/19/flash-deals-apple-watch-series-9-drops-to-299-at-best-buy?utm_medium=rss)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
