@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tvOS 18: What I want to see and what we know so far](https://www.androidauthority.com/apple-tvos-18-3422721/)
- - [Sources: the US accounted for 60% of Temu&#39;s GMV in 2023, but the company hopes to reduce the share to as low as 30% by 2025, as US anti-China hostility grows &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240319/p25#a240319p25)
- - [YouTube will now let you correct its auto-generated captions](https://www.androidauthority.com/youtube-auto-captions-suggestions-3427015/)<!-- TECH:END -->
+ - [After losing two complaints before the US ITC, Apple steps up lobbying to help rewrite ITC rules, asking for public interest to be considered before import bans &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240319/p26#a240319p26)
+ - [Ninja Thirsti Drink System     - CNET](https://www.cnet.com/home/kitchen-and-household/ninja-thirsti-drink-system-dpnl/#ftag=CAD590a51e)
+ - [Best Headsets for Working From Home in 2024     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
