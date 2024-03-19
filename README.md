@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Diablo IV, The Quarry, Ark: Survival Ascended, and More](https://news.xbox.com/en-us/2024/03/19/xbox-game-pass-new-march-2024-wave-2/)
- - [Nvidia CEO brings out a monster dual-GPU Blackwell chip at GTC: here&#39;s what it tells us about the next GeForce graphics cards](https://www.pcgamer.com/hardware/graphics-cards/nvidia-ceo-brings-out-a-monster-dual-gpu-blackwell-chip-at-gtc-heres-whats-it-tells-us-about-the-next-geforce-graphics-cards)
- - [Stardew Valley creator releases a list of over 1000 mods compatible with today&#39;s 1.6 patch, and yep, you can still call in an airstrike](https://www.pcgamer.com/games/life-sim/stardew-valley-creator-releases-a-list-of-over-1000-mods-compatible-with-todays-16-patch-and-yep-you-can-still-call-in-an-airstrike)<!-- GAME:END -->
+ - [Razer Nommo V2 Pro Review](https://www.pcgamer.com/hardware/speakers/razer-nommo-v2-pro-speaker-review)
+ - [Final Fantasy VII Rebirth&#39;s Gongaga Region Sucks](https://kotaku.com/ff7-final-fantasy-7-rebirth-gongaga-sucks-1851346424)
+ - [The best video games of 2024 so far](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
