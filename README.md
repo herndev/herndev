@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download these scenic wallpapers for your phone](https://www.androidauthority.com/scenic-wallpapers-phone-3426803/)
- - [iVANKY FusionDock Max 1 review: Twice the Thunderbolt bandwidth, twice the price](https://appleinsider.com/articles/24/03/19/ivanky-fusiondock-max-1-review-twice-the-thunderbolt-bandwidth-twice-the-price?utm_medium=rss)
- - [Sources: senior DOJ officials plan to hold closed-door Senate briefings on March 19 and 20 to advance a TikTok divestiture, as opposed to an outright US ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p7#a240319p7)<!-- TECH:END -->
+ - [Nuclear weapons in space are bad news for the entire planet](https://www.theverge.com/2024/3/19/24104979/nuclear-weapons-space-russia-putin-satellite-debris-orbit)
+ - [Filing: Reddit says Nokia accused the company of infringing some of its patents, and is evaluating Nokia&#39;s claims, ahead of its planned IPO this week &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240319/p11#a240319p11)
+ - [Singapore-based online shopping rewards app ShopBack cuts 195 jobs, or 24% of its staff, to become self-sustainable; ShopBack raised a $200M Series E in 2022 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240319/p10#a240319p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
