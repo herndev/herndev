@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stranger shows up at a woman\u2019s house with her daughter&#39;s missing wallet.](http://9gag.com/gag/azx7LWN)
- - ⏩ [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
- - 👉 [And the best parent award goes to](http://9gag.com/gag/adBypVB)<!-- MEMES:END -->
+ - 💣 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - ⏩ [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 👉 [Goddamn, how&#39;s 100k usd is not enough](http://9gag.com/gag/avy2PV5)<!-- MEMES:END -->
 
 ---
 
