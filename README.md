@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Void Bastards&#39; space cowboy sequel has 13 different &#39;outlaws&#39; you equip and swap like weapons, but if you play poorly they&#39;ll refuse to work together](https://www.pcgamer.com/games/fps/void-bastards-space-cowboy-sequel-has-13-different-outlaws-you-equip-and-swap-like-weapons-but-if-you-play-poorly-theyll-refuse-to-work-together)
- - [Elden Ring is $20 off, a rare discount ahead of the big expansion coming in June](https://www.polygon.com/deals/24105982/elden-ring-20-off-deal-sale-shadow-of-the-erdtree)
- - [Here&#39;s a two-minute clip from the Fallout TV series: Walton Goggins terrorizes senior citizens and a Vault dweller gets in over her head](https://www.pcgamer.com/movies-tv/heres-a-two-minute-clip-from-the-fallout-tv-series-walton-goggins-terrorizes-senior-citizens-and-a-vault-dweller-gets-in-over-her-head)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Delta &lpar;2404.240314-2000&rpar;](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-delta-2404-240314-2000/)
+ - [Xbox Insider Release Notes – Beta &lpar;2404.240314-2000&rpar;](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-beta-2404-240314-2000/)
+ - [Stardew Valley&#39;s 1.6 update is finally live, and Eric Barone wasn&#39;t kidding: it is massive](https://www.pcgamer.com/life-sim/stardew-valley-16-update-live-patch-notes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
