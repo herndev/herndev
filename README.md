@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 💣 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
  - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 👉 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)<!-- MEMES:END -->
+ - 👉 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)<!-- MEMES:END -->
 
 ---
 
