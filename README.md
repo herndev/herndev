@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive In and Discover the World of Free-To-Play on Xbox](https://news.xbox.com/en-us/2024/03/19/free-to-play-frenzy-xbox-march-2024/)
- - [March’s Xbox Game Pass Offerings Are Looking Mighty Fine](https://kotaku.com/xbox-game-pass-march-2024-diablo-4-evil-west-open-roads-1851348305)
- - [Halo co-creator that joined EA to work on Battlefield &#39;gut punched&#39; as publisher lays off entire team: &#39;I don&#39;t have anything positive to say about EA&#39;](https://www.pcgamer.com/games/fps/halo-co-creator-that-joined-ea-to-work-on-battlefield-gut-punched-as-publisher-lays-off-entire-team-i-dont-have-anything-positive-to-say-about-ea)<!-- GAME:END -->
+ - [How Xbox Continues to Help Independent Developers Reach More Players](https://news.xbox.com/en-us/2024/03/19/how-xbox-continues-to-help-independent-developers-reach-more-players/)
+ - [Nvidia had already sold tens of thousands of Blackwell GPUs before the next-gen architecture was announced](https://www.pcgamer.com/hardware/graphics-cards/nvidia-had-already-sold-tens-of-thousands-of-blackwell-gpus-before-the-next-gen-architecture-was-announced)
+ - [The English actors behind FF14&#39;s beloved twins acted in silos for 9 whole years before meeting in the real world, but became fast friends: &#39;it&#39;s become easier to bounce off each other&#39;](https://www.pcgamer.com/games/final-fantasy/the-english-actors-behind-ff14s-beloved-twins-acted-in-silos-for-9-whole-years-before-meeting-in-the-real-world-but-became-fast-friends-its-become-easier-to-bounce-off-each-other)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
