@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - ⏩ [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - 👉 [Goddamn, how&#39;s 100k usd is not enough](http://9gag.com/gag/avy2PV5)<!-- MEMES:END -->
+ - 💣 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 👉 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)<!-- MEMES:END -->
 
 ---
 
