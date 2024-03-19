@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbus ends talks with Atos on a deal worth ~&amp;euro;1.8B for its big data and security unit, imperiling efforts by Atos to avoid going into debt restructuring &lpar;Financial Times&rpar;](http://www.techmeme.com/240319/p15#a240319p15)
- - [Two iPad Air sizes are being shipped to the US right now](https://appleinsider.com/articles/24/03/19/two-ipad-air-sizes-are-being-shipped-to-the-us-right-now?utm_medium=rss)
- - [Asus Zenbook Duo review: a sleek design, gorgeous displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)<!-- TECH:END -->
+ - [Ubisoft let me actually speak with its new AI-powered video game NPCs](https://www.theverge.com/2024/3/19/24105748/nvidia-neo-npc-prototypes-gdc-2024)
+ - [The EV revolution hinges on upcoming emissions rule](https://www.theverge.com/2024/3/19/24105752/epa-emission-rule-electric-vehicle-transition-timeline)
+ - [The Acolyte’s first trailer teases a deadly disturbance in the Force](https://www.theverge.com/24105666/star-wars-the-acolyte-trailer-premiere-date-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
