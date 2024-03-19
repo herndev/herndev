@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Netflix&#39;s &#39;3 Body Problem&#39; Series: Release Time, Trailer, What to Know     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-3-body-problem-series-release-time-trailer-what-to-know/#ftag=CAD590a51e)
- - [Best Sonos Deals: Save on Move, Roam and Others     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Users complain after Glassdoor started adding real names to profiles without explicit user consent; Glassdoor says it cross-populates data between its services &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240319/p32#a240319p32)
+ - [Google might let Apple use Gemini, but Apple still has its own LLM coming](https://www.androidauthority.com/apple-ai-mm1-3427082/)
+ - [Meta just showed off Threads’ fediverse integration for the very first time](https://www.theverge.com/24106231/threads-fediverse-demo-meta-fediforum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
