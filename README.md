@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
- - ⏩ [Women in the United Kingdom, 1997. Before the Islamic Revolution.](http://9gag.com/gag/aZZqBpX)
- - 👉 [Task failed successfully](http://9gag.com/gag/a87d4XY)<!-- MEMES:END -->
+ - 💣 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
+ - ⏩ [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 👉 [TheNewTypeofSqlInjection](http://9gag.com/gag/azx7AAj)<!-- MEMES:END -->
 
 ---
 
