@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Threads is rolling out a &quot;trending now&quot; page for users in the US, visible under the search bar &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240319/p24#a240319p24)
- - [Flash deals: Apple Watch Series 9 drops to $299 at Best Buy](https://appleinsider.com/articles/24/03/19/flash-deals-apple-watch-series-9-drops-to-299-at-best-buy?utm_medium=rss)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Apple tvOS 18: What I want to see and what we know so far](https://www.androidauthority.com/apple-tvos-18-3422721/)
+ - [Sources: the US accounted for 60% of Temu&#39;s GMV in 2023, but the company hopes to reduce the share to as low as 30% by 2025, as US anti-China hostility grows &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240319/p25#a240319p25)
+ - [YouTube will now let you correct its auto-generated captions](https://www.androidauthority.com/youtube-auto-captions-suggestions-3427015/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
