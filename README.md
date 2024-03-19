@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - ⏩ [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 👉 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)<!-- MEMES:END -->
+ - 💣 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - ⏩ [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
+ - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
 
 ---
 
