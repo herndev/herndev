@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do you use Samsung apps on your Galaxy smartphone? Which ones do you use?](https://www.androidauthority.com/poll-samsung-apps-galaxy-smartphone-3426864/)
- - [Q&amp;A with Lila Tretikov, who just joined NEA as a partner and head of AI strategy; Tretikov was previously Microsoft&#39;s deputy CTO and Wikimedia Foundation CEO &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240319/p2#a240319p2)
- - [Samsung’s entry-level foldable could cost less than the Galaxy S24 &lpar;Update&rpar;](https://www.androidauthority.com/cheaper-galaxy-z-fold-6-model-3426647/)<!-- TECH:END -->
+ - [Solana meme coin SLERF raised $10M in a presale, hitting $1.7B in trading volume, but the developer claims to have &quot;burned&quot; tokens set aside for an airdrop &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240319/p4#a240319p4)
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
+ - [Lagos-based Moove, which offers car financing to ride-hailing drivers, raised a $100M Series B led by Uber at a $750M valuation, up from $550M in August 2023 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240319/p3#a240319p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
