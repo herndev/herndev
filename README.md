@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Massive Dragon’s Dogma 2 Spoilers Leak Days Before Release](https://kotaku.com/dragons-dogma-2-game-spoilers-leak-capcom-takedown-1851349766)
- - [Target has the Pokémon TCG Classic set for its lowest price ever](https://www.polygon.com/deals/2024/3/19/24106039/pokemon-tcg-classic-target-box-deal-sale)
- - [Someone At A Flea Market Couldn&#39;t Give Away Copies Of NBA 2K19](https://kotaku.com/nba-2k19-flea-market-giveaway-free-copies-xbox-one-1851349597)<!-- GAME:END -->
+ - [Ubisoft shows off AI-powered &#39;Neo NPCs&#39; at GDC: &#39;It could be the start of a fantastic paradigm shift,&#39; but let&#39;s be honest, it probably won&#39;t](https://www.pcgamer.com/software/ai/ubisoft-shows-off-ai-powered-neo-npcs-at-gdc-it-could-be-the-start-of-a-fantastic-paradigm-shift-but-lets-be-honest-it-probably-wont)
+ - [Stardew Valley’s Hefty 1.6 Update Has More Features Than We Expected](https://kotaku.com/stadew-valley-16-update-new-features-content-crops-pets-1851350199)
+ - [Monopoly Go Spent Almost $500 Million On Marketing, More Than Spider-Man 2&#39;s Dev Budget](https://kotaku.com/monopoly-go-ad-budget-bigger-than-spider-man-last-of-us-1851350182)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
