@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
+ - 💣 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
  - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 👉 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)<!-- MEMES:END -->
+ - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
 
 ---
 
