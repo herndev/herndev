@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - ⏩ [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
+ - 💣 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
+ - ⏩ [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
+ - 👉 [Vacuum goes brrr](http://9gag.com/gag/azx7Ebz)<!-- MEMES:END -->
 
 ---
 
