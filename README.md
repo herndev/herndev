@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
- - ⏩ [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 👉 [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)<!-- MEMES:END -->
+ - 💣 [Transposition](http://9gag.com/gag/a87dWMV)
+ - ⏩ [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)
+ - 👉 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)<!-- MEMES:END -->
 
 ---
 
