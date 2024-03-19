@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2 unlocks all of its heroes](https://www.theverge.com/2024/3/19/24106082/overwatch-2-unlocks-all-of-its-heroes)
- - [Source: Google&#39;s Pixel 8a will have a 6.1&quot; 120Hz OLED display, Tensor G3 chip, DisplayPort output support, and the same camera sensor as the Pixel 7a &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240319/p29#a240319p29)
- - [Segway brings a sub-$1,000 smart robot mower to the US](https://www.theverge.com/2024/3/19/24105936/segway-navimow-i-robot-mower-price-release-date-specs)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Netflix&#39;s &#39;3 Body Problem&#39; Series: Release Time, Trailer, What to Know     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-3-body-problem-series-release-time-trailer-what-to-know/#ftag=CAD590a51e)
+ - [Best Sonos Deals: Save on Move, Roam and Others     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
