@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Astarion&#39;s actor was deployed to replace the missing mocap of around 150 lines of Baldur&#39;s Gate 3 dialogue: &#39;I just had this dog&#39;s breakfast&#39;](https://www.pcgamer.com/games/baldurs-gate/astarions-actor-was-deployed-to-replace-the-missing-mocap-of-around-150-lines-of-baldurs-gate-3-dialogue-i-just-had-this-dogs-breakfast)
  - [Today&#39;s Wordle answer for Tuesday, March 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-19-2024)
- - [Who is Satoshi Nakamoto, the creator of Bitcoin? It&#39;s not Craig Wright according to a UK judge](https://www.pcgamer.com/software/who-is-satoshi-nakamoto-the-creator-of-bitcoin-its-not-craig-wright-according-to-a-uk-judge)
- - [Rainbow Six Siege rockets back up the Steam charts 8 years after release, proving why Ubisoft isn&#39;t worried about making a Siege 2](https://www.pcgamer.com/games/fps/rainbow-six-siege-rockets-back-up-the-steam-charts-8-years-after-release-proving-why-ubisoft-isnt-worried-about-making-a-siege-2)<!-- GAME:END -->
+ - [Who is Satoshi Nakamoto, the creator of Bitcoin? It&#39;s not Craig Wright according to a UK judge](https://www.pcgamer.com/software/who-is-satoshi-nakamoto-the-creator-of-bitcoin-its-not-craig-wright-according-to-a-uk-judge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
