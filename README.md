@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity&#39;s 2024 Gaming Report: the number of multiplatform games up 40% since 2021, in-app advertising revenue up 26.7% YoY, 62% of studios are using AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p45#a240318p45)
- - [Save on Weatherstripping Today and Save on Energy All Year     - CNET](https://www.cnet.com/deals/save-on-weatherstripping-today-and-save-on-energy-all-year/#ftag=CAD590a51e)
- - [Google cuts the cord on another feature from its Phone app](https://www.androidauthority.com/google-phone-app-nearby-places-3426757/)<!-- TECH:END -->
+ - [Motorola’s next flagship phone is coming on April 3 with a Pixel 8-like AI feature](https://www.androidauthority.com/motorola-edge-50-pro-launch-specs-confirmed-3426806/)
+ - [2025 Audi Q6 e-tron Is a Tiny Tech Powerhouse: Electric SUV First Drive     - CNET](https://www.cnet.com/roadshow/news/2025-audi-q6-e-tron-is-a-tiny-tech-powerhouse-electric-suv-first-drive/#ftag=CAD590a51e)
+ - [Unity&#39;s 2024 Gaming Report: the number of multiplatform games up 40% since 2021, in-app advertising revenue up 26.7% YoY, 62% of studios are using AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p45#a240318p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
