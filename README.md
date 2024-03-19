@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solana meme coin SLERF raised $10M in a presale, hitting $1.7B in trading volume, but the developer claims to have &quot;burned&quot; tokens set aside for an airdrop &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240319/p4#a240319p4)
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
- - [Lagos-based Moove, which offers car financing to ride-hailing drivers, raised a $100M Series B led by Uber at a $750M valuation, up from $550M in August 2023 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240319/p3#a240319p3)<!-- TECH:END -->
+ - [Download these scenic wallpapers for your phone](https://www.androidauthority.com/scenic-wallpapers-phone-3426803/)
+ - [iVANKY FusionDock Max 1 review: Twice the Thunderbolt bandwidth, twice the price](https://appleinsider.com/articles/24/03/19/ivanky-fusiondock-max-1-review-twice-the-thunderbolt-bandwidth-twice-the-price?utm_medium=rss)
+ - [Sources: senior DOJ officials plan to hold closed-door Senate briefings on March 19 and 20 to advance a TikTok divestiture, as opposed to an outright US ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p7#a240319p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
