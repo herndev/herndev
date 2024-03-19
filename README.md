@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Who is Satoshi Nakamoto, the creator of Bitcoin? It&#39;s not Craig Wright according to a UK judge](https://www.pcgamer.com/software/who-is-satoshi-nakamoto-the-creator-of-bitcoin-its-not-craig-wright-according-to-a-uk-judge)
  - [Rainbow Six Siege rockets back up the Steam charts 8 years after release, proving why Ubisoft isn&#39;t worried about making a Siege 2](https://www.pcgamer.com/games/fps/rainbow-six-siege-rockets-back-up-the-steam-charts-8-years-after-release-proving-why-ubisoft-isnt-worried-about-making-a-siege-2)
- - [Valve is improving how Steam Family Sharing works—but if your brother gets banned for cheating, so do you](https://www.pcgamer.com/games/valve-is-improving-how-steam-family-sharing-worksbut-if-your-brother-gets-banned-for-cheating-now-so-do-you)
- - [Get To Know Our Team: Austin – Technical Program Manager &lpar;Hardware &amp; Internal Flighting&rpar;](https://news.xbox.com/en-us/2024/03/18/get-to-know-our-team-austin-technical-program-manager-hardware-internal-flighting/)<!-- GAME:END -->
+ - [Valve is improving how Steam Family Sharing works—but if your brother gets banned for cheating, so do you](https://www.pcgamer.com/games/valve-is-improving-how-steam-family-sharing-worksbut-if-your-brother-gets-banned-for-cheating-now-so-do-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
