@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s entry-level foldable could cost less than the Galaxy S24 &lpar;Update&rpar;](https://www.androidauthority.com/cheaper-galaxy-z-fold-6-model-3426647/)
- - [Chrome for Android now lets you use a non-Google password manager, but you should wait](https://www.androidauthority.com/chrome-for-android-alternative-password-manager-3426820/)
- - [Hollywood actors like Megan Fox, Idris Elba, and Keanu Reeves are leaping into video games, a once stigmatized medium now seen as a unique platform for stories &lpar;Just Lunning/New York Times&rpar;](http://www.techmeme.com/240319/p1#a240319p1)<!-- TECH:END -->
+ - [Do you use Samsung apps on your Galaxy smartphone? Which ones do you use?](https://www.androidauthority.com/poll-samsung-apps-galaxy-smartphone-3426864/)
+ - [Q&amp;A with Lila Tretikov, who just joined NEA as a partner and head of AI strategy; Tretikov was previously Microsoft&#39;s deputy CTO and Wikimedia Foundation CEO &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240319/p2#a240319p2)
+ - [Samsung’s entry-level foldable could cost less than the Galaxy S24 &lpar;Update&rpar;](https://www.androidauthority.com/cheaper-galaxy-z-fold-6-model-3426647/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
