@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad of the year..](http://9gag.com/gag/an7eBQ0)
- - ⏩ [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - 👉 [At long last\u2026](http://9gag.com/gag/a1mpXR8)<!-- MEMES:END -->
+ - 💣 [For once, a useful video from other social platform](http://9gag.com/gag/a87dMYV)
+ - ⏩ [Dogs as medieval character](http://9gag.com/gag/ae9K69B)
+ - 👉 [And I love it](http://9gag.com/gag/aLn629g)<!-- MEMES:END -->
 
 ---
 
