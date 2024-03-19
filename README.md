@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - ⏩ [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
- - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
+ - 💣 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - ⏩ [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)
+ - 👉 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)<!-- MEMES:END -->
 
 ---
 
