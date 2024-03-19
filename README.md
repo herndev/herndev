@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - ⏩ [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - 👉 [TheNewTypeofSqlInjection](http://9gag.com/gag/azx7AAj)<!-- MEMES:END -->
+ - 💣 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - ⏩ [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
+ - 👉 [NO REFUNDS](http://9gag.com/gag/an7eNyB)<!-- MEMES:END -->
 
 ---
 
