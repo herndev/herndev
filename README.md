@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian CEO Swen Vincke extols the &#39;incredible achievement&#39; of Baldur&#39;s Gate 3 influence Ultima 7, but confesses he hasn&#39;t played since the &#39;90s &#39;because I don&#39;t want to spoil the memory&#39;](https://www.pcgamer.com/games/rpg/larian-ceo-swen-vincke-extols-the-incredible-achievement-of-baldurs-gate-3-influence-ultima-7-but-confesses-he-hasnt-played-since-the-90s-because-i-dont-want-to-spoil-the-memory)
- - [Just under 150K players flooded back to Stardew Valley for the 1.6 update, and hopefully, only a small number drank the mayo](https://www.pcgamer.com/games/life-sim/just-under-150k-players-flooded-back-to-stardew-valley-for-the-16-update-and-hopefully-only-a-small-number-drank-the-mayo)
- - [Helldivers 2 patch tackles patrols appearing out of thin air, over-the-top meteor swarms, and accidentally blowing yourself up with your own mech](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-tackles-patrols-appearing-out-of-thin-air-over-the-top-meteor-swarms-and-accidentally-blowing-yourself-up-with-your-own-mech)<!-- GAME:END -->
+ - [Alienware’s 34-inch curved OLED gaming monitor is $200 off for a limited time](https://www.polygon.com/deals/24104806/alienware-curved-oled-gaming-monitor-34-deal-sale-amazon)
+ - [Metal Gear Delta&#39;s producer says &#39;we&#39;re doing our best&#39; to create a &#39;modern-style Metal Gear&#39; but the core design will remain unchanged](https://www.pcgamer.com/games/action/metal-gear-deltas-producer-says-were-doing-our-best-to-create-a-modern-style-metal-gear-but-the-core-design-will-remain-unchanged)
+ - [Nvidia&#39;s new Blackwell AI GPU raises some tricky questions about its next-gen RTX 50-series graphics cards](https://www.pcgamer.com/hardware/graphics-cards/nvidias-new-blackwell-ai-gpu-raises-some-tricky-questions-about-its-next-gen-rtx-50-series-graphics-cards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
