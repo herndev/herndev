@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 💣 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
  - ⏩ [NYC homeowner is arrested and forced to hand over her home to a squatter.](http://9gag.com/gag/aAyBdg2)
- - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
+ - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
 
 ---
 
