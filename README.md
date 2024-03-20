@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This has got to be a coincidence right?](http://9gag.com/gag/a9yjrbj)
- - ⏩ [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
- - 👉 [Cultured](http://9gag.com/gag/amoqr6V)<!-- MEMES:END -->
+ - 💣 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - ⏩ [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---
 
