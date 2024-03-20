@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [X-Men: The Animated Series was defined by its censors](https://www.polygon.com/24106782/x-men-animated-series-97-92-censors-broadcast-standards-practices)
- - [Captain America and Black Panther square off in new look at Marvel’s WWII action game](https://www.polygon.com/24106916/marvel-1943-rise-of-hydra-captain-america-black-panther-game)
- - [Here&#39;s when Dragon&#39;s Dogma 2 launches in your region](https://www.pcgamer.com/games/rpg/dragons-dogma-2-release-times)<!-- GAME:END -->
+ - [Bodies Bodies Bodies, a horror movie about how talking shit will kill your ass, is now on Netflix](https://www.polygon.com/24106811/bodies-bodies-bodies-movie-netflix-horror-thriller-rachel-sennott-lee-pace)
+ - [Diablo 4&#39;s loot rework PTR begins on April 2, season 3 extended until mid-May &#39;to ensure that we get all the feedback&#39;](https://www.pcgamer.com/games/action/diablo-4s-loot-rework-ptr-begins-on-april-2-season-3-extended-until-mid-may-to-ensure-that-we-get-all-the-feedback)
+ - [Xbox Insider Release Notes – Alpha &lpar;2404.240318-2000&rpar;](https://news.xbox.com/en-us/2024/03/20/xbox-insider-release-notes-alpha-2404-240318-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
