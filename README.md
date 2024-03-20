@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was just follwing orders](http://9gag.com/gag/agmrLer)
- - ⏩ [Oh Wait ..... What !!](http://9gag.com/gag/a6ZrMBm)
- - 👉 [Anyone else agree this is one of the best character Introductions in recent years?](http://9gag.com/gag/azx78QK)<!-- MEMES:END -->
+ - 💣 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - ⏩ [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---
 
