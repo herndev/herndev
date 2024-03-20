@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Sweet Baby, a small video game narrative development company, became the focus of Gamergate 2.0, a harassment campaign against &quot;forced&quot; diversity in gaming &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240320/p9#a240320p9)
- - [The Galaxy Z Fold series might have a hinge defect that’s tough to brush off](https://www.androidauthority.com/galaxy-z-fold-4-hinge-issue-brush-glue-3427153/)
- - [You Should Turn Off Journal Suggestions on Your iPhone. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/you-should-turn-off-journal-suggestions-on-your-iphone-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Google Employees Invented Modern AI. Here’s the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
+ - [France begins work on &quot;a national solution&quot; to protect IT giant Atos, which manages nuclear data and cybersecurity, after Airbus talks failed; ATO.PA drops 20%+ &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/240320/p13#a240320p13)
+ - [Galaxy S24 Ultra’s major camera update is still in the works and could be coming soon](https://www.androidauthority.com/samsung-galaxy-s24-ultra-major-camera-update-3427194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
