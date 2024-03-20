@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
  - ⏩ [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [His gf is on the couch](http://9gag.com/gag/awyNxgr)<!-- MEMES:END -->
+ - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
 
 ---
 
