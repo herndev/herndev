@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enterprise data security startup BigID raised $60M led by Riverwood Capital at a $1B+ valuation, bringing its total funding to $320M, and reports ~$100M in ARR &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/240320/p3#a240320p3)
- - [The first major Nothing Phone 2a update promises camera boost, smoother gaming, and more](https://www.androidauthority.com/nothing-phone-2a-update-3427087/)
- - [Google shares plans for Fitbit AI health chatbot that promises personalized insights](https://www.androidauthority.com/fitbit-ai-chatbot-3427120/)<!-- TECH:END -->
+ - [Samsung expects revenue of $100M or more in 2024 from an advanced chip packaging unit that the company set up as a separate business in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240320/p4#a240320p4)
+ - [You Thought Your Phone Was Cool. Check Out These Design Concepts video     - CNET](https://www.cnet.com/videos/you-thought-your-phone-was-cool-check-out-these-design-concepts/#ftag=CAD590a51e)
+ - [Enterprise data security startup BigID raised $60M led by Riverwood Capital at a $1B+ valuation, bringing its total funding to $320M, and reports ~$100M in ARR &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/240320/p3#a240320p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
