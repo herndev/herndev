@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alienware’s 34-inch curved OLED gaming monitor is $200 off for a limited time](https://www.polygon.com/deals/24104806/alienware-curved-oled-gaming-monitor-34-deal-sale-amazon)
- - [Metal Gear Delta&#39;s producer says &#39;we&#39;re doing our best&#39; to create a &#39;modern-style Metal Gear&#39; but the core design will remain unchanged](https://www.pcgamer.com/games/action/metal-gear-deltas-producer-says-were-doing-our-best-to-create-a-modern-style-metal-gear-but-the-core-design-will-remain-unchanged)
- - [Nvidia&#39;s new Blackwell AI GPU raises some tricky questions about its next-gen RTX 50-series graphics cards](https://www.pcgamer.com/hardware/graphics-cards/nvidias-new-blackwell-ai-gpu-raises-some-tricky-questions-about-its-next-gen-rtx-50-series-graphics-cards)<!-- GAME:END -->
+ - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)
+ - [Andor is finally coming to 4K Blu-ray, and you can pre-order a copy now](https://www.polygon.com/deals/24097685/andor-4k-blu-ray-physical-media-andor-obi-wan-pre-order-buy-disney-plus)
+ - [Fallen London studio says its latest game &#39;didn&#39;t sell particularly well&#39;, but don&#39;t worry—it&#39;s been sensible enough with its cash to avoid layoffs: &#39;We&#39;ve had better years, but also much worse&#39;](https://www.pcgamer.com/games/visual-novel/fallen-london-studio-says-its-latest-game-didnt-sell-particularly-well-but-dont-worryits-been-sensible-enough-with-its-cash-to-avoid-layoffs-weve-had-better-years-but-also-much-worse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
