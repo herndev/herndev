@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Das Keyboard 6 Professional review](https://www.pcgamer.com/hardware/gaming-desktops/das-keyboard-6-professional-review)
- - [Where to find the bookseller in Stardew Valley](https://www.polygon.com/guides/24106789/stardew-valley-sdv-bookseller-location-books-list)
- - [PS5 Pro May Not Run GTA 6 At 60 Frames Per Second](https://kotaku.com/ps5-pro-gta-6-60-fps-digital-foundry-pssr-1851352004)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 is a new high for oldie representation in video games](https://www.polygon.com/gaming/24105959/dragons-dogma-2-character-creator-old-people)
+ - [Catch up on Shōgun with a free one-month trial to Hulu](https://www.polygon.com/deals/24106774/hulu-free-month-new-retruning-subscribers-deal-sale)
+ - [Stardew Valley 1.6’s goofiest patch notes and updates](https://www.polygon.com/24106788/stardew-valley-1-6-funny-patch-notes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
