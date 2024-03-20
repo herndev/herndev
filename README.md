@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 👉 [Nice family business you got here](http://9gag.com/gag/awyN5VB)<!-- MEMES:END -->
+ - 💣 [How they managed](http://9gag.com/gag/a0evdKz)
+ - ⏩ [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 👉 [NO REFUNDS](http://9gag.com/gag/an7eNyB)<!-- MEMES:END -->
 
 ---
 
