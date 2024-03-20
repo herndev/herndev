@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Illegal Trawlers Are No Match for Undersea Sculptures](https://www.wired.com/story/underwater-sculptures-stopping-trawling/)
- - [Flooding Wetlands Could Be the Next Big Carbon Capture Hack](https://www.wired.com/story/australia-wetlands-restoration/)
- - [People Hate the Idea of Car-Free Cities—Until They Live in One](https://www.wired.com/story/car-free-cities-opposition/)<!-- TECH:END -->
+ - [Enterprise data security startup BigID raised $60M led by Riverwood Capital at a $1B+ valuation, bringing its total funding to $320M, and reports ~$100M in ARR &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/240320/p3#a240320p3)
+ - [The first major Nothing Phone 2a update promises camera boost, smoother gaming, and more](https://www.androidauthority.com/nothing-phone-2a-update-3427087/)
+ - [Google shares plans for Fitbit AI health chatbot that promises personalized insights](https://www.androidauthority.com/fitbit-ai-chatbot-3427120/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
