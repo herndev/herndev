@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These toddler games for iPad are actually good — and that’s all too rare](https://www.theverge.com/2024/3/20/24106892/sago-mini-ipad-app-game-toddler-subscription)
- - [LK-99 superconductor physicist accused of ‘research misconduct’](https://www.theverge.com/2024/3/20/24106779/lk-99-superconductor-researcher-ranga-dias-misconduct)
- - [Epic Games Store prepares for Android launch with a teaser](https://www.androidauthority.com/epic-games-store-android-3427372/)<!-- TECH:END -->
+ - [Grab Apple&#39;s 16-inch MacBook Pro M2 for $1,999 &lpar;$500 off&rpar; while supplies last](https://appleinsider.com/articles/24/03/20/grab-apples-16-inch-macbook-pro-m2-for-1999-500-off-while-supplies-last?utm_medium=rss)
+ - [TapeACall is about to get a lot more expensive](https://www.theverge.com/2024/3/20/24106785/tapeacall-price-increase-bending-spoons-acquisition)
+ - [House passes bill banning data brokers from selling personal data to foreign adversaries](https://www.theverge.com/2024/3/20/24106991/house-data-broker-foreign-adversaries-bill-passes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
