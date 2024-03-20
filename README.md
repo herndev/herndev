@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, March 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-20-2024)
  - [One of Wordle&#39;s most requested features has nothing to do with words](https://www.pcgamer.com/games/puzzle/one-of-wordles-most-requested-features-has-nothing-to-do-with-words)
- - [Xbox Insider Release Notes – Xbox App [2403.1001.2.0] &amp; Game Bar for Windows [7.124.3181.0]](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-xbox-app-2403-1001-2-0/)
- - [Roblox reveals new AI-powered 3D modeling tools to &#39;empower the creation of anything, anywhere, by anyone,&#39; which we&#39;re probably not meant to read too closely](https://www.pcgamer.com/software/platforms/roblox-reveals-new-ai-powered-3d-modeling-tools-to-empower-the-creation-of-anything-anywhere-by-anyone-which-were-probably-not-meant-to-read-too-closely)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Xbox App [2403.1001.2.0] &amp; Game Bar for Windows [7.124.3181.0]](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-xbox-app-2403-1001-2-0/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
