@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Ring could serve as your personal diet coach and even check what’s in your fridge](https://www.androidauthority.com/samsung-galaxy-ring-custom-meals-feature-3427156/)
- - [Analysts warn that welcoming TikTok, Temu, and Shein to Ireland&#39;s low-tax jurisdiction could backfire, as the country tries to reduce reliance on US tech giants &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240320/p8#a240320p8)
- - [Trend Micro researchers detail Earth Krahang, a China-linked APT campaign that is potentially linked to I-Soon and has breached 70 organizations in 23 countries &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240320/p7#a240320p7)<!-- TECH:END -->
+ - [The S Pen on the Galaxy S24 Ultra stinks, literally](https://www.androidauthority.com/samsung-galaxy-s24-ultra-s-pen-odor-3427157/)
+ - [20 Mother&#39;s Day Cards That Aren&#39;t Lame     - CNET](https://www.cnet.com/news/best-mothers-day-cards-to-buy-online/#ftag=CAD590a51e)
+ - [Samsung Galaxy Ring could serve as your personal diet coach and even check what’s in your fridge](https://www.androidauthority.com/samsung-galaxy-ring-custom-meals-feature-3427156/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
