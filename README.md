@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - ⏩ [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
+ - 💣 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
+ - ⏩ [At long last\u2026](http://9gag.com/gag/a1mpXR8)
+ - 👉 [Nice family business you got here](http://9gag.com/gag/awyN5VB)<!-- MEMES:END -->
 
 ---
 
