@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satellite messaging specifically referenced in latest beta of Messages &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-satellite-messaging-messages-apk-teardown-3427352/)
- - [Fortnite players can now build their own Lego games](https://www.theverge.com/2024/3/20/24106477/lego-fortnite-user-created-games-epic)
- - [YouTube TV’s multiview comes to iPhones and iPads in time for March Madness](https://www.theverge.com/2024/3/20/24106859/youtube-tv-multiview-now-available-ios-ipados)<!-- TECH:END -->
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
+ - [Meta, Microsoft, X, and Match Group file an amicus brief in Epic v. Apple protesting Apple&#39;s plan to charge a commission for payments made outside the App Store &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240320/p32#a240320p32)
+ - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
