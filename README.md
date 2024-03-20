@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - ⏩ [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - 👉 [Nice family business you got here](http://9gag.com/gag/awyN5VB)<!-- MEMES:END -->
+ - 💣 [Here they are](http://9gag.com/gag/aD2RG2N)
+ - ⏩ [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
 
 ---
 
