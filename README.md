@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [State of Unreal 2024: all the news from Epic’s GDC showcase](https://www.theverge.com/2024/3/20/24106665/state-of-unreal-2024-epic-fortnite-ue5-gdc)
- - [Sources: Stability AI CEO Emad Mostaque told staff last week that Robin Rombach and other researchers, the key creators of Stable Diffusion, have resigned &lpar;Forbes&rpar;](http://www.techmeme.com/240320/p29#a240320p29)
- - [Marc Lore&#39;s food delivery startup Wonder raised $700M from NEA, GV, and others, taking its total funding to $1.5B, and aims to open nearly 100 NYC locations &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/240320/p28#a240320p28)<!-- TECH:END -->
+ - [21 Best Deals From the Amazon Big Spring Sale: Phones, Chargers, and More](https://www.wired.com/story/amazon-big-spring-sale-2024/)
+ - [A commit in Ethereum Foundation&#39;s GitHub repository shows the foundation has received a voluntary and confidential enquiry from an unspecified state authority &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/240320/p30#a240320p30)
+ - [Captain America and Black Panther face off in the first trailer for 1943: Rise of Hydra](https://www.theverge.com/24106470/1943-rise-of-hydra-marvel-game-trailer-amy-hennig)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
