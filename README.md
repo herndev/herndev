@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How they managed](http://9gag.com/gag/a0evdKz)
- - ⏩ [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 👉 [NO REFUNDS](http://9gag.com/gag/an7eNyB)<!-- MEMES:END -->
+ - 💣 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - ⏩ [NO REFUNDS](http://9gag.com/gag/an7eNyB)
+ - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---
 
