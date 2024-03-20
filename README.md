@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s X Is Suspending Accounts That Reveal a Neo-Nazi Cartoonist&#39;s Alleged Identity](https://www.wired.com/story/elon-musk-x-blocked-journalists-researchers-neo-nazi-cartoonist/)
- - [Epic Hackintosh project gets 3D printed Mac Plus body](https://appleinsider.com/articles/24/03/20/epic-hackintosh-project-gets-3d-printed-mac-plus-body?utm_medium=rss)
- - [LG TV Lineup 2024: What to Look for This Year](https://www.wired.com/story/lg-tv-lineup-news-2024/)<!-- TECH:END -->
+ - [US-listed PDD, which runs Temu and Pinduoduo, reports Q4 revenue up 123% YoY to ~$12.5B and operating profit up 146% YoY to ~$3.2B, boosted by merchant fees &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240320/p23#a240320p23)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 20&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-20-2024-3426657/)
+ - [A review of OpenAI&#39;s GPT Store finds many GPTs that offer bizarre services, potentially infringe on copyright, impersonate people, jailbreak ChatGPT, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240320/p22#a240320p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
