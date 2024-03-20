@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)
- - [Andor is finally coming to 4K Blu-ray, and you can pre-order a copy now](https://www.polygon.com/deals/24097685/andor-4k-blu-ray-physical-media-andor-obi-wan-pre-order-buy-disney-plus)
- - [Fallen London studio says its latest game &#39;didn&#39;t sell particularly well&#39;, but don&#39;t worry—it&#39;s been sensible enough with its cash to avoid layoffs: &#39;We&#39;ve had better years, but also much worse&#39;](https://www.pcgamer.com/games/visual-novel/fallen-london-studio-says-its-latest-game-didnt-sell-particularly-well-but-dont-worryits-been-sensible-enough-with-its-cash-to-avoid-layoffs-weve-had-better-years-but-also-much-worse)<!-- GAME:END -->
+ - [Das Keyboard 6 Professional review](https://www.pcgamer.com/hardware/gaming-desktops/das-keyboard-6-professional-review)
+ - [Where to find the bookseller in Stardew Valley](https://www.polygon.com/guides/24106789/stardew-valley-sdv-bookseller-location-books-list)
+ - [PS5 Pro May Not Run GTA 6 At 60 Frames Per Second](https://kotaku.com/ps5-pro-gta-6-60-fps-digital-foundry-pssr-1851352004)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
