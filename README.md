@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After damage to four major African subsea internet cables, some telecoms are rerouting traffic via Brazil or overland cables; repairs may take over three weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p18#a240320p18)
- - [All iPhone 16 models will have thinnest bezels yet](https://appleinsider.com/articles/24/03/20/all-iphone-16-models-will-have-thinnest-bezels-yet?utm_medium=rss)
- - [Stardew Valley’s 1.6 update smashes its Steam player record](https://www.theverge.com/2024/3/20/24106601/stardew-valley-steam-player-record-number)<!-- TECH:END -->
+ - [The Evie Ring is cleverly designed but has some first-gen quirks](https://www.theverge.com/24105920/evie-ring-review-smart-ring-wearables)
+ - [Samsung’s cheaper Galaxy Z Fold 6 could launch alongside iPhone 16](https://www.androidauthority.com/samsung-cheaper-galaxy-z-fold-6-iphone-16-launch-3427152/)
+ - [Toronto-based PocketHealth, which helps 775 health care providers exchange images covering 1.5M patients to cut costs, raised a $33M Series B led by Round13 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240320/p20#a240320p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
