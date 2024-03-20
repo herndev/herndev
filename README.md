@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - ⏩ [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
- - 👉 [NO REFUNDS](http://9gag.com/gag/an7eNyB)<!-- MEMES:END -->
+ - 💣 [Thank you for flying with DEI Airlines](http://9gag.com/gag/ary1Od0)
+ - ⏩ [NO REFUNDS](http://9gag.com/gag/an7eNyB)
+ - 👉 [Pretty fly for a white guy](http://9gag.com/gag/aMVe82P)<!-- MEMES:END -->
 
 ---
 
