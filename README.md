@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone fuels Mac switchers as the gateway to Apple&#39;s ecosystem](https://appleinsider.com/articles/24/03/20/iphone-fuels-mac-switchers-as-the-gateway-to-apples-ecosystem?utm_medium=rss)
- - [EU antitrust chief Margrethe Vestager warns Apple over its Core Technology Fee, saying the EU plans to investigate, and Meta over its planned subscription fees &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240320/p26#a240320p26)
- - [India appoints the government-run Press Information Bureau&#39;s fact checking unit to undertake fact checking for government-related social media content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240320/p25#a240320p25)<!-- TECH:END -->
+ - [State of Unreal 2024: all the news from Epic’s GDC showcase](https://www.theverge.com/2024/3/20/24106665/state-of-unreal-2024-epic-fortnite-ue5-gdc)
+ - [Sources: Stability AI CEO Emad Mostaque told staff last week that Robin Rombach and other researchers, the key creators of Stable Diffusion, have resigned &lpar;Forbes&rpar;](http://www.techmeme.com/240320/p29#a240320p29)
+ - [Marc Lore&#39;s food delivery startup Wonder raised $700M from NEA, GV, and others, taking its total funding to $1.5B, and aims to open nearly 100 NYC locations &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/240320/p28#a240320p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
