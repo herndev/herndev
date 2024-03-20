@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s not what it looks like!](http://9gag.com/gag/aVvjeLM)
- - ⏩ [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
+ - 💣 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---
 
