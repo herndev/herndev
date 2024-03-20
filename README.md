@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, March 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-20-2024)
- - [One of Wordle&#39;s most requested features has nothing to do with words](https://www.pcgamer.com/games/puzzle/one-of-wordles-most-requested-features-has-nothing-to-do-with-words)
- - [Xbox Insider Release Notes – Xbox App [2403.1001.2.0] &amp; Game Bar for Windows [7.124.3181.0]](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-xbox-app-2403-1001-2-0/)<!-- GAME:END -->
+ - [Helldivers 2 patch tackles patrols appearing out of thin air, over-the-top meteor swarms, and accidentally blowing yourself up with your own mech](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-tackles-patrols-appearing-out-of-thin-air-over-the-top-meteor-swarms-and-accidentally-blowing-yourself-up-with-your-own-mech)
+ - [Corsair K65 Plus review](https://www.pcgamer.com/hardware/gaming-desktops/corsair-k65-plus-review)
+ - [Today&#39;s Wordle answer for Wednesday, March 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-20-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
