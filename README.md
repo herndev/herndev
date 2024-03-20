@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Apple&#39;s 16-inch MacBook Pro M2 for $1,999 &lpar;$500 off&rpar; while supplies last](https://appleinsider.com/articles/24/03/20/grab-apples-16-inch-macbook-pro-m2-for-1999-500-off-while-supplies-last?utm_medium=rss)
- - [TapeACall is about to get a lot more expensive](https://www.theverge.com/2024/3/20/24106785/tapeacall-price-increase-bending-spoons-acquisition)
- - [House passes bill banning data brokers from selling personal data to foreign adversaries](https://www.theverge.com/2024/3/20/24106991/house-data-broker-foreign-adversaries-bill-passes)<!-- TECH:END -->
+ - [Neuralink’s First Human Patient Demonstrates His Brain-Computer Interface](https://www.wired.com/story/neuralink-implant-first-human-patient-demonstration/)
+ - [Sources: the US DOJ is poised to sue Apple as soon as Thursday, accusing it of violating antitrust laws by blocking rivals from accessing iPhone features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p39#a240320p39)
+ - [Sources: Reddit priced its IPO at $34 a share, the top of its expected range, valuing the company at about $6.5B &lpar;CNBC&rpar;](http://www.techmeme.com/240320/p38#a240320p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
