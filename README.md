@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;America&#39;s hero, dancing around in red white and blue underwear&#39;: Black Panther trash-talks the Cap in the first trailer for Amy Hennig&#39;s WW2 Marvel game](https://www.pcgamer.com/games/action/americas-hero-dancing-around-in-red-white-and-blue-underwear-black-panther-trash-talks-the-cap-in-the-first-trailer-for-amy-hennigs-ww2-marvel-game)
  - [Helldivers 2 community&#39;s ambitious plan to liberate 5 planets in 3 days in jeopardy as galactic war trackers catastrophically fail—but don&#39;t worry, Joel is on it](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-communitys-ambitious-plan-to-liberate-5-planets-in-3-days-in-jeopardy-as-galactic-war-trackers-catastrophically-failbut-dont-worry-joel-is-on-it)
- - [Teaser for the next Alien movie features a youthful cast and more facehuggers than you can shake an M41A Pulse Rifle at](https://www.pcgamer.com/movies-tv/teaser-for-the-next-alien-movie-features-a-youthful-cast-and-more-facehuggers-than-you-can-shake-an-m41a-pulse-rifle-at)
- - [Converse’s new D&amp;D collection of high tops and other gear are a critical success](https://www.polygon.com/2024/3/20/24107034/converse-dungeons-dragons-chuck-taylor-fashion-collection-high-tops)<!-- GAME:END -->
+ - [Teaser for the next Alien movie features a youthful cast and more facehuggers than you can shake an M41A Pulse Rifle at](https://www.pcgamer.com/movies-tv/teaser-for-the-next-alien-movie-features-a-youthful-cast-and-more-facehuggers-than-you-can-shake-an-m41a-pulse-rifle-at)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
