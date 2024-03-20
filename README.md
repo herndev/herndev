@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neuralink’s First Human Patient Demonstrates His Brain-Computer Interface](https://www.wired.com/story/neuralink-implant-first-human-patient-demonstration/)
- - [Sources: the US DOJ is poised to sue Apple as soon as Thursday, accusing it of violating antitrust laws by blocking rivals from accessing iPhone features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p39#a240320p39)
- - [Sources: Reddit priced its IPO at $34 a share, the top of its expected range, valuing the company at about $6.5B &lpar;CNBC&rpar;](http://www.techmeme.com/240320/p38#a240320p38)<!-- TECH:END -->
+ - [Sources: Cohere, which has raised $445M and was seeking new funding at a $6B valuation last year, generated just ~$13M in annualized revenue at the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/240320/p40#a240320p40)
+ - [There Are Already More Measles Cases in the US This Year Than All of 2023](https://www.wired.com/story/measles-us-cases-vaccinations-2024/)
+ - [US DOJ to finally sue Apple after years of antitrust investigation](https://appleinsider.com/articles/24/03/20/us-doj-to-finally-sue-apple-after-years-of-antitrust-investigation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
