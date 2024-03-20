@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game developers come together at GDC for a &#39;GDScream&#39; to vent rage at the state of the industry: &#39;It feels hard to be here and pretend like everything is fine&#39;](https://www.pcgamer.com/gaming-industry/events-conferences/game-developers-come-together-at-gdc-for-a-gdscream-to-vent-rage-at-the-state-of-the-industry-it-feels-hard-to-be-here-and-pretend-like-everything-is-fine)
- - [What You Need To Know About Stardew Valley’s Green Rain](https://kotaku.com/stardew-valley-green-rain-weather-update-1851353553)
- - [Delisted Spy RPG From Fallout: New Vegas Devs Is Back And That&#39;s Great](https://kotaku.com/alpha-protocol-delisted-new-vegas-devs-obsidian-pc-gog-1851353366)<!-- GAME:END -->
+ - [Helldivers 2 community&#39;s ambitious plan to liberate 5 planets in 3 days in jeopardy as galactic war trackers catastrophically fail—but don&#39;t worry, Joel is on it](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-communitys-ambitious-plan-to-liberate-5-planets-in-3-days-in-jeopardy-as-galactic-war-trackers-catastrophically-failbut-dont-worry-joel-is-on-it)
+ - [Teaser for the next Alien movie features a youthful cast and more facehuggers than you can shake an M41A Pulse Rifle at](https://www.pcgamer.com/movies-tv/teaser-for-the-next-alien-movie-features-a-youthful-cast-and-more-facehuggers-than-you-can-shake-an-m41a-pulse-rifle-at)
+ - [Converse’s new D&amp;D collection of high tops and other gear are a critical success](https://www.polygon.com/2024/3/20/24107034/converse-dungeons-dragons-chuck-taylor-fashion-collection-high-tops)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
