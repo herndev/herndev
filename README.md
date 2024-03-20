@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox reveals new AI-powered 3D modeling tools to &#39;empower the creation of anything, anywhere, by anyone,&#39; which we&#39;re probably not meant to read too closely](https://www.pcgamer.com/software/platforms/roblox-reveals-new-ai-powered-3d-modeling-tools-to-empower-the-creation-of-anything-anywhere-by-anyone-which-were-probably-not-meant-to-read-too-closely)
- - [Starfield&#39;s latest update doesn&#39;t add any new content, but it does fix a galaxy-sized list of bugs](https://www.pcgamer.com/games/rpg/starfields-latest-update-doesnt-add-any-new-content-but-it-does-fix-a-galaxy-sized-list-of-bugs)
- - [Ubisoft shows off AI-powered &#39;Neo NPCs&#39; at GDC: &#39;It could be the start of a fantastic paradigm shift,&#39; but let&#39;s be honest, it probably won&#39;t](https://www.pcgamer.com/software/ai/ubisoft-shows-off-ai-powered-neo-npcs-at-gdc-it-could-be-the-start-of-a-fantastic-paradigm-shift-but-lets-be-honest-it-probably-wont)<!-- GAME:END -->
+ - [One of Wordle&#39;s most requested features has nothing to do with words](https://www.pcgamer.com/games/puzzle/one-of-wordles-most-requested-features-has-nothing-to-do-with-words)
+ - [Xbox Insider Release Notes – Xbox App [2403.1001.2.0] &amp; Game Bar for Windows [7.124.3181.0]](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-xbox-app-2403-1001-2-0/)
+ - [Roblox reveals new AI-powered 3D modeling tools to &#39;empower the creation of anything, anywhere, by anyone,&#39; which we&#39;re probably not meant to read too closely](https://www.pcgamer.com/software/platforms/roblox-reveals-new-ai-powered-3d-modeling-tools-to-empower-the-creation-of-anything-anywhere-by-anyone-which-were-probably-not-meant-to-read-too-closely)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
