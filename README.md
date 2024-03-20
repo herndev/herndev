@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Evie Ring is cleverly designed but has some first-gen quirks](https://www.theverge.com/24105920/evie-ring-review-smart-ring-wearables)
- - [Samsung’s cheaper Galaxy Z Fold 6 could launch alongside iPhone 16](https://www.androidauthority.com/samsung-cheaper-galaxy-z-fold-6-iphone-16-launch-3427152/)
- - [Toronto-based PocketHealth, which helps 775 health care providers exchange images covering 1.5M patients to cut costs, raised a $33M Series B led by Round13 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240320/p20#a240320p20)<!-- TECH:END -->
+ - [Elon Musk&#39;s X Is Suspending Accounts That Reveal a Neo-Nazi Cartoonist&#39;s Alleged Identity](https://www.wired.com/story/elon-musk-x-blocked-journalists-researchers-neo-nazi-cartoonist/)
+ - [Epic Hackintosh project gets 3D printed Mac Plus body](https://appleinsider.com/articles/24/03/20/epic-hackintosh-project-gets-3d-printed-mac-plus-body?utm_medium=rss)
+ - [LG TV Lineup 2024: What to Look for This Year](https://www.wired.com/story/lg-tv-lineup-news-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
