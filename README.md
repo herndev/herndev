@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Delisted Spy RPG From Fallout: New Vegas Devs Is Back And That&#39;s Great](https://kotaku.com/alpha-protocol-delisted-new-vegas-devs-obsidian-pc-gog-1851353366)
- - [Apex Legends Tournament Hacker Speaks, Swears It Was ‘A Joke’](https://kotaku.com/apex-legends-global-series-hack-postpone-exploit-1851353297)
- - [Ready, Set, Time to Crush! The Global Candy Crush All Stars Competition is Back With A $1M Prize Pot](https://www.king.com/es/corporate-and-media/posts/post/ready-set-time-to-crush-the-global-candy-crush-all-stars-r-competition-is-back-with-a-1m-prize-pot)<!-- GAME:END -->
+ - [Game developers come together at GDC for a &#39;GDScream&#39; to vent rage at the state of the industry: &#39;It feels hard to be here and pretend like everything is fine&#39;](https://www.pcgamer.com/gaming-industry/events-conferences/game-developers-come-together-at-gdc-for-a-gdscream-to-vent-rage-at-the-state-of-the-industry-it-feels-hard-to-be-here-and-pretend-like-everything-is-fine)
+ - [What You Need To Know About Stardew Valley’s Green Rain](https://kotaku.com/stardew-valley-green-rain-weather-update-1851353553)
+ - [Delisted Spy RPG From Fallout: New Vegas Devs Is Back And That&#39;s Great](https://kotaku.com/alpha-protocol-delisted-new-vegas-devs-obsidian-pc-gog-1851353366)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
