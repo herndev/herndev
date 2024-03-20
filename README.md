@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 patch tackles patrols appearing out of thin air, over-the-top meteor swarms, and accidentally blowing yourself up with your own mech](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-tackles-patrols-appearing-out-of-thin-air-over-the-top-meteor-swarms-and-accidentally-blowing-yourself-up-with-your-own-mech)
- - [Corsair K65 Plus review](https://www.pcgamer.com/hardware/gaming-desktops/corsair-k65-plus-review)
- - [Today&#39;s Wordle answer for Wednesday, March 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-20-2024)<!-- GAME:END -->
+ - [Larian CEO Swen Vincke extols the &#39;incredible achievement&#39; of Baldur&#39;s Gate 3 influence Ultima 7, but confesses he hasn&#39;t played since the &#39;90s &#39;because I don&#39;t want to spoil the memory&#39;](https://www.pcgamer.com/games/rpg/larian-ceo-swen-vincke-extols-the-incredible-achievement-of-baldurs-gate-3-influence-ultima-7-but-confesses-he-hasnt-played-since-the-90s-because-i-dont-want-to-spoil-the-memory)
+ - [Just under 150K players flooded back to Stardew Valley for the 1.6 update, and hopefully, only a small number drank the mayo](https://www.pcgamer.com/games/life-sim/just-under-150k-players-flooded-back-to-stardew-valley-for-the-16-update-and-hopefully-only-a-small-number-drank-the-mayo)
+ - [Helldivers 2 patch tackles patrols appearing out of thin air, over-the-top meteor swarms, and accidentally blowing yourself up with your own mech](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-tackles-patrols-appearing-out-of-thin-air-over-the-top-meteor-swarms-and-accidentally-blowing-yourself-up-with-your-own-mech)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
