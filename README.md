@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - ⏩ [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
+ - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - ⏩ [NYC homeowner is arrested and forced to hand over her home to a squatter.](http://9gag.com/gag/aAyBdg2)
+ - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
 
 ---
 
