@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Google Employees Invented Modern AI. Here’s the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
- - [France begins work on &quot;a national solution&quot; to protect IT giant Atos, which manages nuclear data and cybersecurity, after Airbus talks failed; ATO.PA drops 20%+ &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/240320/p13#a240320p13)
- - [Galaxy S24 Ultra’s major camera update is still in the works and could be coming soon](https://www.androidauthority.com/samsung-galaxy-s24-ultra-major-camera-update-3427194/)<!-- TECH:END -->
+ - [After damage to four major African subsea internet cables, some telecoms are rerouting traffic via Brazil or overland cables; repairs may take over three weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p18#a240320p18)
+ - [All iPhone 16 models will have thinnest bezels yet](https://appleinsider.com/articles/24/03/20/all-iphone-16-models-will-have-thinnest-bezels-yet?utm_medium=rss)
+ - [Stardew Valley’s 1.6 update smashes its Steam player record](https://www.theverge.com/2024/3/20/24106601/stardew-valley-steam-player-record-number)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
