@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US-listed PDD, which runs Temu and Pinduoduo, reports Q4 revenue up 123% YoY to ~$12.5B and operating profit up 146% YoY to ~$3.2B, boosted by merchant fees &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240320/p23#a240320p23)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 20&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-20-2024-3426657/)
- - [A review of OpenAI&#39;s GPT Store finds many GPTs that offer bizarre services, potentially infringe on copyright, impersonate people, jailbreak ChatGPT, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240320/p22#a240320p22)<!-- TECH:END -->
+ - [iPhone fuels Mac switchers as the gateway to Apple&#39;s ecosystem](https://appleinsider.com/articles/24/03/20/iphone-fuels-mac-switchers-as-the-gateway-to-apples-ecosystem?utm_medium=rss)
+ - [EU antitrust chief Margrethe Vestager warns Apple over its Core Technology Fee, saying the EU plans to investigate, and Meta over its planned subscription fees &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240320/p26#a240320p26)
+ - [India appoints the government-run Press Information Bureau&#39;s fact checking unit to undertake fact checking for government-related social media content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240320/p25#a240320p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
