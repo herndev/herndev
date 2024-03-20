@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you for flying with DEI Airlines](http://9gag.com/gag/ary1Od0)
- - ⏩ [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 👉 [Pretty fly for a white guy](http://9gag.com/gag/aMVe82P)<!-- MEMES:END -->
+ - 💣 [How they managed](http://9gag.com/gag/a0evdKz)
+ - ⏩ [Thank you for flying with DEI Airlines](http://9gag.com/gag/ary1Od0)
+ - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->
 
 ---
 
