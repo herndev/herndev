@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 is a new high for oldie representation in video games](https://www.polygon.com/gaming/24105959/dragons-dogma-2-character-creator-old-people)
- - [Catch up on Shōgun with a free one-month trial to Hulu](https://www.polygon.com/deals/24106774/hulu-free-month-new-retruning-subscribers-deal-sale)
- - [Stardew Valley 1.6’s goofiest patch notes and updates](https://www.polygon.com/24106788/stardew-valley-1-6-funny-patch-notes)<!-- GAME:END -->
+ - [X-Men: The Animated Series was defined by its censors](https://www.polygon.com/24106782/x-men-animated-series-97-92-censors-broadcast-standards-practices)
+ - [Captain America and Black Panther square off in new look at Marvel’s WWII action game](https://www.polygon.com/24106916/marvel-1943-rise-of-hydra-captain-america-black-panther-game)
+ - [Here&#39;s when Dragon&#39;s Dogma 2 launches in your region](https://www.pcgamer.com/games/rpg/dragons-dogma-2-release-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
