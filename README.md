@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The S Pen on the Galaxy S24 Ultra stinks, literally](https://www.androidauthority.com/samsung-galaxy-s24-ultra-s-pen-odor-3427157/)
- - [20 Mother&#39;s Day Cards That Aren&#39;t Lame     - CNET](https://www.cnet.com/news/best-mothers-day-cards-to-buy-online/#ftag=CAD590a51e)
- - [Samsung Galaxy Ring could serve as your personal diet coach and even check what’s in your fridge](https://www.androidauthority.com/samsung-galaxy-ring-custom-meals-feature-3427156/)<!-- TECH:END -->
+ - [How Sweet Baby, a small video game narrative development company, became the focus of Gamergate 2.0, a harassment campaign against &quot;forced&quot; diversity in gaming &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240320/p9#a240320p9)
+ - [The Galaxy Z Fold series might have a hinge defect that’s tough to brush off](https://www.androidauthority.com/galaxy-z-fold-4-hinge-issue-brush-glue-3427153/)
+ - [You Should Turn Off Journal Suggestions on Your iPhone. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/you-should-turn-off-journal-suggestions-on-your-iphone-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
