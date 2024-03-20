@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
- - ⏩ [South african diversity](http://9gag.com/gag/adByjOB)
- - 👉 [Cultured](http://9gag.com/gag/amoqr6V)<!-- MEMES:END -->
+ - 💣 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - ⏩ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 👉 [Nice family business you got here](http://9gag.com/gag/awyN5VB)<!-- MEMES:END -->
 
 ---
 
