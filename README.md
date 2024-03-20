@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [Meta, Microsoft, X, and Match Group file an amicus brief in Epic v. Apple protesting Apple&#39;s plan to charge a commission for payments made outside the App Store &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240320/p32#a240320p32)
- - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)<!-- TECH:END -->
+ - [These toddler games for iPad are actually good — and that’s all too rare](https://www.theverge.com/2024/3/20/24106892/sago-mini-ipad-app-game-toddler-subscription)
+ - [LK-99 superconductor physicist accused of ‘research misconduct’](https://www.theverge.com/2024/3/20/24106779/lk-99-superconductor-researcher-ranga-dias-misconduct)
+ - [Epic Games Store prepares for Android launch with a teaser](https://www.androidauthority.com/epic-games-store-android-3427372/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
