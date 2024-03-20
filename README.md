@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How they managed](http://9gag.com/gag/a0evdKz)
- - ⏩ [Thank you for flying with DEI Airlines](http://9gag.com/gag/ary1Od0)
- - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->
+ - 💣 [Happy birthday](http://9gag.com/gag/a9yjP70)
+ - ⏩ [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
 
 ---
 
