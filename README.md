@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bodies Bodies Bodies, a horror movie about how talking shit will kill your ass, is now on Netflix](https://www.polygon.com/24106811/bodies-bodies-bodies-movie-netflix-horror-thriller-rachel-sennott-lee-pace)
- - [Diablo 4&#39;s loot rework PTR begins on April 2, season 3 extended until mid-May &#39;to ensure that we get all the feedback&#39;](https://www.pcgamer.com/games/action/diablo-4s-loot-rework-ptr-begins-on-april-2-season-3-extended-until-mid-may-to-ensure-that-we-get-all-the-feedback)
- - [Xbox Insider Release Notes – Alpha &lpar;2404.240318-2000&rpar;](https://news.xbox.com/en-us/2024/03/20/xbox-insider-release-notes-alpha-2404-240318-2000/)<!-- GAME:END -->
+ - [Delisted Spy RPG From Fallout: New Vegas Devs Is Back And That&#39;s Great](https://kotaku.com/alpha-protocol-delisted-new-vegas-devs-obsidian-pc-gog-1851353366)
+ - [Apex Legends Tournament Hacker Speaks, Swears It Was ‘A Joke’](https://kotaku.com/apex-legends-global-series-hack-postpone-exploit-1851353297)
+ - [Ready, Set, Time to Crush! The Global Candy Crush All Stars Competition is Back With A $1M Prize Pot](https://www.king.com/es/corporate-and-media/posts/post/ready-set-time-to-crush-the-global-candy-crush-all-stars-r-competition-is-back-with-a-1m-prize-pot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
