@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Deals From the Amazon Big Spring Sale: Phones, Chargers, and More](https://www.wired.com/story/amazon-big-spring-sale-2024/)
- - [A commit in Ethereum Foundation&#39;s GitHub repository shows the foundation has received a voluntary and confidential enquiry from an unspecified state authority &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/240320/p30#a240320p30)
- - [Captain America and Black Panther face off in the first trailer for 1943: Rise of Hydra](https://www.theverge.com/24106470/1943-rise-of-hydra-marvel-game-trailer-amy-hennig)<!-- TECH:END -->
+ - [Satellite messaging specifically referenced in latest beta of Messages &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-satellite-messaging-messages-apk-teardown-3427352/)
+ - [Fortnite players can now build their own Lego games](https://www.theverge.com/2024/3/20/24106477/lego-fortnite-user-created-games-epic)
+ - [YouTube TV’s multiview comes to iPhones and iPads in time for March Madness](https://www.theverge.com/2024/3/20/24106859/youtube-tv-multiview-now-available-ios-ipados)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
