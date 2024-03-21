@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook meets with developers before opening Apple Jing&#39;an](https://appleinsider.com/articles/24/03/21/tim-cook-meets-with-developers-before-opening-apple-jingan?utm_medium=rss)
- - [US DOJ takes on Apple in massive antitrust suit, after years of investigations](https://appleinsider.com/articles/24/03/21/us-doj-takes-on-apple-in-massive-antitrust-suit-after-years-of-investigations?utm_medium=rss)
- - [The US DOJ sues Apple, alleging the company blocked rivals from accessing iPhone features, made it difficult for users to switch to non-Apple devices, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240321/p25#a240321p25)<!-- TECH:END -->
+ - [Apple AirPods Pro USB-C fall to $179 during Amazon Spring Sale 2024](https://appleinsider.com/articles/24/03/21/apple-airpods-pro-usb-c-fall-to-179-during-amazon-spring-sale-2024?utm_medium=rss)
+ - [Future Apple Vision Pro brainwave sensors could improve mental and physical health](https://appleinsider.com/articles/24/03/21/future-apple-vision-pro-brainwave-sensors-could-improve-mental-and-physical-health?utm_medium=rss)
+ - [US is suing Apple for all the reasons you hate Apple](https://www.androidauthority.com/us-suing-apple-imessage-apple-watch-3427536/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
