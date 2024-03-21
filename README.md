@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
- - ⏩ [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
+ - 💣 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - ⏩ [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
+ - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
 
 ---
 
