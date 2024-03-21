@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - ⏩ [Def Wallace](http://9gag.com/gag/a9yjpq0)
- - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
+ - 💣 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - ⏩ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 👉 [His soul is no longer with us](http://9gag.com/gag/amoqrR9)<!-- MEMES:END -->
 
 ---
 
