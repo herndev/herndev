@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon&#39;s Dogma 2 NPCs are making CPUs weep and tanking the frame rate, but Capcom is &#39;looking into ways to improve performance in the future&#39;](https://www.pcgamer.com/games/rpg/dragons-dogma-2-npcs-are-making-cpus-weep-and-tanking-the-frame-rate-but-capcom-is-looking-into-ways-to-improve-performance-in-the-future)
- - [&#39;Big Wait&#39;s dead&#39;: Dwarf Fortress creators are going to stop disappearing for months to get updates done in a post-Kitfox world](https://www.pcgamer.com/games/sim/big-waits-dead-dwarf-fortress-creators-are-going-to-stop-disappearing-for-months-to-get-updates-done-in-a-post-kitfox-world)
- - [Putting the roleplay back in the RPG was a huge reason for Cyberpunk 2077&#39;s recent metro and romance updates, says associate game director: &#39;It&#39;s easy to overlook&#39;](https://www.pcgamer.com/games/rpg/putting-the-roleplay-back-in-the-rpg-was-a-huge-reason-for-cyberpunk-2077s-20-updates-says-associate-game-director-its-easy-to-overlook)<!-- GAME:END -->
+ - [Margot Robbie’s producing a Sims movie by the director of Loki](https://www.polygon.com/24107554/sims-movie-margot-robbie-kate-herron)
+ - [&#39;You name it, we made it faster&#39;—The State of Unreal keynote didn&#39;t just show off Unreal Engine 5.4 graphical goodies, but major performance optimisations too](https://www.pcgamer.com/gaming-industry/game-development/you-name-it-we-made-it-fasterthe-state-of-unreal-keynote-didnt-just-show-off-unreal-engine-54-graphical-goodies-but-major-performance-optimisations-too)
+ - [Age of Sigmar’s fourth edition arrives this summer with Skaven and a new game mode](https://www.polygon.com/24107000/age-of-sigmar-4th-edition-stormcast-skaven-cinematic-spearhead-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
