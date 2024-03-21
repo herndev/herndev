@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
- - ⏩ [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
- - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
+ - 💣 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - ⏩ [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 👉 [Celebrities are too weird and yes this actually happened](http://9gag.com/gag/aGyKD45)<!-- MEMES:END -->
 
 ---
 
