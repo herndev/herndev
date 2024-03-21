@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
- - ⏩ [So many to choose from](http://9gag.com/gag/aMVejmx)
- - 👉 [To true to be funny.](http://9gag.com/gag/apRKm7b)<!-- MEMES:END -->
+ - 💣 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - ⏩ [Def Wallace](http://9gag.com/gag/a9yjpq0)
+ - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
 
 ---
 
