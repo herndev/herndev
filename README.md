@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, March 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-21-2024)
- - [Blizzard just killed Diablo 4 by announcing a list of changes so massive that it&#39;s practically a new game](https://www.pcgamer.com/games/action/diablo-4-season-4-changes)
- - [&#39;America&#39;s hero, dancing around in red white and blue underwear&#39;: Black Panther trash-talks the Cap in the first trailer for Amy Hennig&#39;s WW2 Marvel game](https://www.pcgamer.com/games/action/americas-hero-dancing-around-in-red-white-and-blue-underwear-black-panther-trash-talks-the-cap-in-the-first-trailer-for-amy-hennigs-ww2-marvel-game)<!-- GAME:END -->
+ - [AMD promises less fuzziness and flickering from improved FSR 3.1 upscaling algorithm](https://www.pcgamer.com/hardware/amd-promises-less-fuzziness-and-flickering-from-improved-fsr-31-upscaling-algorithm)
+ - [Rise of the Ronin reinvents hack-and-slash in a remarkable open-world Japan](https://www.polygon.com/reviews/24106792/rise-of-the-ronin-review-samurai-rpg-ps5)
+ - [Princess Peach: Showtime! is everything I wanted in a game as a little girl](https://www.polygon.com/reviews/24099786/princess-peach-showtime-nintendo-switch-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
