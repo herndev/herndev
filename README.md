@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Dragon Ball FighterZ, Battlefield 2042, South Park: The Fractured but Whole and South Park: The Stick of Truth](https://news.xbox.com/en-us/2024/03/21/free-play-days-dragon-ball-fighterz-battlefield-2042-south-park-the-fractured-but-whole-and-south-park-the-stick-of-truth/)
- - [All the Halo TV show season 3 news we’ve heard so far](https://www.polygon.com/24106882/halo-season-3-tv-show-release-cast-news)
- - [FF7 Rebirth’s New Patch: Your Guide To The New Features](https://kotaku.com/final-fantasy-7-rebirth-ff7-patch-graphics-red-xiii-1851355301)<!-- GAME:END -->
+ - [The new Rock Band 4 guitar has an analog stick, which offers enormous potential for challenge runners](https://www.polygon.com/24107611/pdp-riffmaster-speedrun-challenge-run-analog-stick-dark-souls)
+ - [All the 3 Body Problem season 2 news we’ve heard so far](https://www.polygon.com/24107692/3-body-problem-season-2-release-cast-news-netflix)
+ - [The first new guitar controller in years is available to pre-order for $129.99](https://www.polygon.com/deals/24106046/riffmaster-guitar-controller-pre-order-buy-fortnite-festival-rock-band-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
