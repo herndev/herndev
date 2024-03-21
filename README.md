@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to Judge Kaplan, FTX CEO John Ray says SBF&#39;s claims of &quot;zero&quot; harm to users are &quot;demonstrably false&quot; and FTX had only 105 bitcoin when Ray took over &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240321/p17#a240321p17)
- - [Snapdragon 7 Plus Gen 3 announced: A big upgrade for mid-range phones](https://www.androidauthority.com/snapdragon-7-plus-gen-3-3427225/)
- - [No iPad Air or iPad Pro announcement on March 26, says Gurman](https://appleinsider.com/articles/24/03/21/no-ipad-announcement-on-march-26-says-gurman?utm_medium=rss)<!-- TECH:END -->
+ - [UPS worker charged after $1.3M Apple product theft spree](https://appleinsider.com/articles/24/03/21/ups-worker-charged-after-13m-apple-product-theft-spree?utm_medium=rss)
+ - [Ikea releases a pair of affordable USB-C chargers](https://www.theverge.com/2024/3/21/24107515/ikea-sjoss-chargers-30w-45w-usb-c-price-specs-features)
+ - [The Samsung Galaxy Tab A9 Plus just hit an all-time low price of $169.99](https://www.androidauthority.com/galaxy-tab-a9-plus-deal-3427404/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
