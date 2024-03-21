@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find the secret of the Nameless Village in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-nameless-village-cave-secret-hidden)
  - [Today&#39;s Wordle answer for Thursday, March 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-21-2024)
- - [Blizzard just killed Diablo 4 by announcing a list of changes so massive that it&#39;s practically a new game](https://www.pcgamer.com/games/action/diablo-4-season-4-changes)<!-- GAME:END -->
+ - [Blizzard just killed Diablo 4 by announcing a list of changes so massive that it&#39;s practically a new game](https://www.pcgamer.com/games/action/diablo-4-season-4-changes)
+ - [&#39;America&#39;s hero, dancing around in red white and blue underwear&#39;: Black Panther trash-talks the Cap in the first trailer for Amy Hennig&#39;s WW2 Marvel game](https://www.pcgamer.com/games/action/americas-hero-dancing-around-in-red-white-and-blue-underwear-black-panther-trash-talks-the-cap-in-the-first-trailer-for-amy-hennigs-ww2-marvel-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
