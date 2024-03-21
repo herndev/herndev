@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - ⏩ [Def Wallace](http://9gag.com/gag/a9yjpq0)
- - 👉 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aXPZjRb)<!-- MEMES:END -->
+ - 💣 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
+ - ⏩ [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
+ - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
 
 ---
 
