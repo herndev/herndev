@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok divestment bill fits into a long and important US tradition of forbidding a hostile foreign power from controlling a major communication platform &lpar;Zephyr Teachout/The Atlantic&rpar;](http://www.techmeme.com/240321/p9#a240321p9)
- - [Paris-based Greenly, whose carbon accounting software helps SMBs track their carbon emissions, raised a $52M Series B, and reports $10M+ in ARR in 2023 &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/240321/p8#a240321p8)
- - [Court docs: Sachin Dev Duggal, the CEO of London-based Builder.ai that raised a $250M Series D in 2023, is a suspect in a money laundering probe in India &lpar;Financial Times&rpar;](http://www.techmeme.com/240321/p7#a240321p7)<!-- TECH:END -->
+ - [Call of Duty Warzone Mobile launched, but will it run on your potato phone?](https://www.androidauthority.com/call-of-duty-warzone-mobile-launched-3426490/)
+ - [Honor Magic 6 Pro Review: Innovative but Inconsistent](https://www.wired.com/review/honor-magic-6-pro/)
+ - [The TikTok divestment bill fits into a long and important US tradition of forbidding a hostile foreign power from controlling a major communication platform &lpar;Zephyr Teachout/The Atlantic&rpar;](http://www.techmeme.com/240321/p9#a240321p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
