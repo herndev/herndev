@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
- - ⏩ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 👉 [His soul is no longer with us](http://9gag.com/gag/amoqrR9)<!-- MEMES:END -->
+ - 💣 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
+ - ⏩ [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
 
 ---
 
