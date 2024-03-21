@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
- - ⏩ [So many to choose from](http://9gag.com/gag/aMVejmx)
- - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
+ - 💣 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - ⏩ [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
+ - 👉 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)<!-- MEMES:END -->
 
 ---
 
