@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WBD plans to launch Max in Europe starting on May 21 in the Nordics, Iberia, and Central and Eastern Europe, in time for the Olympics, included in all plans &lpar;Adam Chitwood/The Wrap&rpar;](http://www.techmeme.com/240321/p37#a240321p37)
- - [Android 15 is fixing one of the worst parts of the Pixel’s webcam feature](https://www.androidauthority.com/android-webcam-high-quality-mode-3427591/)
- - [Rates Move Higher Following Fed Decision: Mortgage Interest Rates Today for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/key-rates-move-higher-for-homebuyers-mortgage-interest-rates-today-for-march-21-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ teams up with Lionel Messi for one-month free trial of MLS Season Pass](https://appleinsider.com/articles/24/03/21/apple-tv-teams-up-with-lionel-messi-for-one-month-free-trial-of-mls-season-pass?utm_medium=rss)
+ - [Can brightening clouds buy us time to fight climate change?](https://www.theverge.com/2024/3/21/24107762/marine-cloud-brightening-climate-change-science-advances)
+ - [Best Noise-Canceling Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
