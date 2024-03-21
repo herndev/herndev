@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, March 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-21-2024)
  - [Blizzard just killed Diablo 4 by announcing a list of changes so massive that it&#39;s practically a new game](https://www.pcgamer.com/games/action/diablo-4-season-4-changes)
- - [&#39;America&#39;s hero, dancing around in red white and blue underwear&#39;: Black Panther trash-talks the Cap in the first trailer for Amy Hennig&#39;s WW2 Marvel game](https://www.pcgamer.com/games/action/americas-hero-dancing-around-in-red-white-and-blue-underwear-black-panther-trash-talks-the-cap-in-the-first-trailer-for-amy-hennigs-ww2-marvel-game)
- - [Helldivers 2 community&#39;s ambitious plan to liberate 5 planets in 3 days in jeopardy as galactic war trackers catastrophically fail—but don&#39;t worry, Joel is on it](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-communitys-ambitious-plan-to-liberate-5-planets-in-3-days-in-jeopardy-as-galactic-war-trackers-catastrophically-failbut-dont-worry-joel-is-on-it)<!-- GAME:END -->
+ - [&#39;America&#39;s hero, dancing around in red white and blue underwear&#39;: Black Panther trash-talks the Cap in the first trailer for Amy Hennig&#39;s WW2 Marvel game](https://www.pcgamer.com/games/action/americas-hero-dancing-around-in-red-white-and-blue-underwear-black-panther-trash-talks-the-cap-in-the-first-trailer-for-amy-hennigs-ww2-marvel-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
