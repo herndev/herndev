@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many to choose from](http://9gag.com/gag/aMVejmx)
- - ⏩ [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
- - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
+ - 💣 [Oh Wait ..... What !!](http://9gag.com/gag/a6ZrMBm)
+ - ⏩ [Ooof...That was more shocking than she thought.](http://9gag.com/gag/aMVewAG)
+ - 👉 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)<!-- MEMES:END -->
 
 ---
 
