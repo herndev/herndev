@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Rock Band 4 guitar has an analog stick, which offers enormous potential for challenge runners](https://www.polygon.com/24107611/pdp-riffmaster-speedrun-challenge-run-analog-stick-dark-souls)
- - [All the 3 Body Problem season 2 news we’ve heard so far](https://www.polygon.com/24107692/3-body-problem-season-2-release-cast-news-netflix)
- - [The first new guitar controller in years is available to pre-order for $129.99](https://www.polygon.com/deals/24106046/riffmaster-guitar-controller-pre-order-buy-fortnite-festival-rock-band-4)<!-- GAME:END -->
+ - [Rise Of The Ronin: The Kotaku Review](https://kotaku.com/rise-ronin-ps5-game-review-team-ninja-soulslike-1851355751)
+ - [Stardew Valley 1.6’s most impactful updates are big, small, and stupid](https://www.polygon.com/gaming/24107647/stardew-valley-1-6-most-impactful-changes)
+ - [Call of Duty: Warzone Mobile is Officially Live Worldwide – Play Now!](https://www.callofduty.com/blog/2024/03/call-of-duty-warzone-mobile-official-live-worldwide-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
