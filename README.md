@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
- - ⏩ [Nice family business you got here](http://9gag.com/gag/awyN5VB)
+ - 💣 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - ⏩ [So many to choose from](http://9gag.com/gag/aMVejmx)
  - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
 
 ---
