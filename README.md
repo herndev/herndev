@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh Wait ..... What !!](http://9gag.com/gag/a6ZrMBm)
- - ⏩ [Ooof...That was more shocking than she thought.](http://9gag.com/gag/aMVewAG)
- - 👉 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)<!-- MEMES:END -->
+ - 💣 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
+ - ⏩ [So many to choose from](http://9gag.com/gag/aMVejmx)
+ - 👉 [To true to be funny.](http://9gag.com/gag/apRKm7b)<!-- MEMES:END -->
 
 ---
 
