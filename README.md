@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - ⏩ [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 👉 [Celebrities are too weird and yes this actually happened](http://9gag.com/gag/aGyKD45)<!-- MEMES:END -->
+ - 💣 [A new Hollywood movie just flopped big time. It even had a `white tears` clock next to white people in the movie. Hope they lost a lot of money on this film.](http://9gag.com/gag/aQz631z)
+ - ⏩ [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
+ - 👉 [UK U OK?](http://9gag.com/gag/avy2O2X)<!-- MEMES:END -->
 
 ---
 
