@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian Studios Is Officially Done With The Baldur’s Gate Series](https://kotaku.com/baldur-s-gate-3-sequel-expansion-larian-studios-1851356964)
- - [Harold Halibut Hands On: A Heartfelt, Handmade Tale About Fish, Friendship and Finding Home](https://news.xbox.com/en-us/2024/03/21/harold-halibut-hands-on-preview/)
- - [Halo Season Two Sticks The Landing—I Told You So](https://kotaku.com/halo-season-2-finale-episode-flood-3-kai-master-chief-1851356937)<!-- GAME:END -->
+ - [Russian nun simulator Indika, my most anticipated game this year, breaks out the dancing PVC fetish men to announce its May release date](https://www.pcgamer.com/games/adventure/russian-nun-simulator-indika-my-most-anticipated-game-this-year-breaks-out-the-dancing-pvc-fetish-men-to-announce-its-may-release-date)
+ - [&#39;Still Wakes the Deep is the game I joined The Chinese Room to make&#39;: A new release date trailer gives us another look at the horrifying Beira D oil rig](https://www.pcgamer.com/games/horror/still-wakes-the-deep-is-the-game-i-joined-the-chinese-room-to-make-a-new-release-date-trailer-gives-us-another-look-at-the-horrifying-beira-d-oil-rig)
+ - [Bungie perma-bans Destiny 2 players who sent racist abuse to one of its developers during a livestream this week](https://www.pcgamer.com/games/fps/bungie-perma-bans-destiny-2-players-who-sent-racist-abuse-to-one-of-its-developers-during-a-livestream-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
