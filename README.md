@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The true cause for the food shortage in Gaza. Gotta love the H group, right?](http://9gag.com/gag/aRB607M)
- - ⏩ [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
- - 👉 [Listen to her Ronda](http://9gag.com/gag/ae9KryW)<!-- MEMES:END -->
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - ⏩ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
 
 ---
 
