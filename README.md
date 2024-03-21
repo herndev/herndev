@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Margot Robbie’s producing a Sims movie by the director of Loki](https://www.polygon.com/24107554/sims-movie-margot-robbie-kate-herron)
- - [&#39;You name it, we made it faster&#39;—The State of Unreal keynote didn&#39;t just show off Unreal Engine 5.4 graphical goodies, but major performance optimisations too](https://www.pcgamer.com/gaming-industry/game-development/you-name-it-we-made-it-fasterthe-state-of-unreal-keynote-didnt-just-show-off-unreal-engine-54-graphical-goodies-but-major-performance-optimisations-too)
- - [Age of Sigmar’s fourth edition arrives this summer with Skaven and a new game mode](https://www.polygon.com/24107000/age-of-sigmar-4th-edition-stormcast-skaven-cinematic-spearhead-announcement)<!-- GAME:END -->
+ - [Free Play Days – Dragon Ball FighterZ, Battlefield 2042, South Park: The Fractured but Whole and South Park: The Stick of Truth](https://news.xbox.com/en-us/2024/03/21/free-play-days-dragon-ball-fighterz-battlefield-2042-south-park-the-fractured-but-whole-and-south-park-the-stick-of-truth/)
+ - [All the Halo TV show season 3 news we’ve heard so far](https://www.polygon.com/24106882/halo-season-3-tv-show-release-cast-news)
+ - [FF7 Rebirth’s New Patch: Your Guide To The New Features](https://kotaku.com/final-fantasy-7-rebirth-ff7-patch-graphics-red-xiii-1851355301)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
