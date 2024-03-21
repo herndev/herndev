@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung rebrands Game Launcher on Galaxy phones to Gaming Hub for mobile](https://www.androidauthority.com/samsung-rebrands-game-launcher-gaming-hub-mobile-3427438/)
- - [US government emails show India rolled back its policy to impose restrictions on laptop imports in 2023 after behind-the-scenes lobbying by US officials &lpar;Reuters&rpar;](http://www.techmeme.com/240321/p11#a240321p11)
- - [An analysis of cookie pop-ups on the top 10,000 most popular websites: dozens share date with 1,000+ companies, and thousands share data with 100+ companies &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240321/p10#a240321p10)<!-- TECH:END -->
+ - [Google Keep is testing a new, sleeker bottom toolbar](https://www.androidauthority.com/google-keep-testing-new-bottom-toolbar-3427470/)
+ - [Chinese state media: during his visit to Shanghai, Tim Cook says &quot;there&#39;s no supply chain in the world that&#39;s more critical to us than China&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/240321/p15#a240321p15)
+ - [YouTube TV rolls out Multiview support on iOS and iPadOS, letting users watch four TV channels at once; Android support will roll out &quot;in the coming months&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240321/p14#a240321p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
