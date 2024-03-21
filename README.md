@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Delta &lpar;2404.240318-2000&rpar;](https://news.xbox.com/en-us/2024/03/21/xbox-insider-release-notes-delta-2404-240318-2000/)
- - [Xbox Insider Release Notes – Beta &lpar;2404.240318-2000&rpar;](https://news.xbox.com/en-us/2024/03/21/xbox-insider-release-notes-beta-2404-240318-2000/)
- - [Xbox Creates One-of-a-Kind Fallout Vault Box in Celebration of Upcoming Prime Video Series, “Fallout”](https://news.xbox.com/en-us/2024/03/21/xbox-creates-one-of-a-kind-fallout-vault-box-in-celebration-of-upcoming-prime-video-series-fallout/)<!-- GAME:END -->
+ - [Riot hits the development reset button for its League of Legends MMO: &#39;The initial vision just wasn’t different enough from what you can play today&#39;](https://www.pcgamer.com/games/mmo/riot-hits-the-development-reset-button-for-its-league-of-legends-mmo-the-initial-vision-just-wasnt-different-enough-from-what-you-can-play-today)
+ - [The 23 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
+ - [A New Video Plus about New Game Plus](https://www.polygon.com/videos/24106724/new-game-plus-nier-starfield-dragons-dogma)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
