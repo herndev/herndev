@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
- - ⏩ [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
- - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
+ - 💣 [The true cause for the food shortage in Gaza. Gotta love the H group, right?](http://9gag.com/gag/aRB607M)
+ - ⏩ [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
+ - 👉 [Listen to her Ronda](http://9gag.com/gag/ae9KryW)<!-- MEMES:END -->
 
 ---
 
