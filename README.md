@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash begins Baconator deliveries by drone](https://www.theverge.com/2024/3/21/24107181/doordash-drone-delivery-wing-wendys-christianburg-virginia)
- - [Motorola spoiled a good budget phone with bloatware](https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware)
- - [A Topsy-Turvy Online Election](https://www.wired.com/story/a-topsy-turvy-online-election/)<!-- TECH:END -->
+ - [Apple working on technology to make a futuristic all-glass MacBook Pro](https://appleinsider.com/articles/24/03/21/apple-working-on-technology-to-make-a-futuristic-all-glass-macbook-pro?utm_medium=rss)
+ - [Netflix’s 3 Body Problem adaptation channels the book’s spirit but not its brilliance](https://www.theverge.com/2024/3/21/24102256/netflix-3-body-problem-review)
+ - [Mortgage Rates Inch Up Since Last Week: Today&#39;s Mortgage Rates for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-todays-mortgage-rates-for-march-21-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
