@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ teams up with Lionel Messi for one-month free trial of MLS Season Pass](https://appleinsider.com/articles/24/03/21/apple-tv-teams-up-with-lionel-messi-for-one-month-free-trial-of-mls-season-pass?utm_medium=rss)
- - [Can brightening clouds buy us time to fight climate change?](https://www.theverge.com/2024/3/21/24107762/marine-cloud-brightening-climate-change-science-advances)
- - [Best Noise-Canceling Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iMessage Encryption Puts Its Security Practices in the DOJ&#39;s Crosshairs](https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/)
+ - [The Antitrust Case Against Apple Argues It Has a Stranglehold on the Future](https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/)
+ - [The UN unanimously adopts the first global resolution on AI to encourage protecting personal data, monitoring AI for risks, and safeguarding human rights &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240321/p40#a240321p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
