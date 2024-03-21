@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods Pro USB-C fall to $179 during Amazon Spring Sale 2024](https://appleinsider.com/articles/24/03/21/apple-airpods-pro-usb-c-fall-to-179-during-amazon-spring-sale-2024?utm_medium=rss)
- - [Future Apple Vision Pro brainwave sensors could improve mental and physical health](https://appleinsider.com/articles/24/03/21/future-apple-vision-pro-brainwave-sensors-could-improve-mental-and-physical-health?utm_medium=rss)
- - [US is suing Apple for all the reasons you hate Apple](https://www.androidauthority.com/us-suing-apple-imessage-apple-watch-3427536/)<!-- TECH:END -->
+ - [The second-gen AirPods Pro with USB-C are down to $180, a new all-time low](https://www.theverge.com/2024/3/21/24107557/apple-airpods-pro-usb-c-meta-quest-2-nomad-amazon-spring-sale-deal)
+ - [Record $69 price drop on the AirPods Pro 2](https://www.androidauthority.com/deal-airpods-pro-2-3427570/)
+ - [Source: Microsoft agreed to pay Inflection ~$650M when hiring its staff, mostly via a licensing deal that makes Inflection&#39;s models available for sale on Azure &lpar;The Information&rpar;](http://www.techmeme.com/240321/p31#a240321p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
