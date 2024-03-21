@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A new Hollywood movie just flopped big time. It even had a `white tears` clock next to white people in the movie. Hope they lost a lot of money on this film.](http://9gag.com/gag/aQz631z)
- - ⏩ [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
- - 👉 [UK U OK?](http://9gag.com/gag/avy2O2X)<!-- MEMES:END -->
+ - 💣 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - ⏩ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
 
 ---
 
