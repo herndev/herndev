@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
- - ⏩ [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
- - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - ⏩ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
 
 ---
 
