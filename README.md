@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WBD plans to launch Max in Europe starting on May 21 in the Nordics, Iberia, and Central and Eastern Europe, in time for the Olympics, included in all plans &lpar;Adam Chitwood/The Wrap&rpar;](http://www.techmeme.com/240321/p37#a240321p37)
  - [Android 15 is fixing one of the worst parts of the Pixel’s webcam feature](https://www.androidauthority.com/android-webcam-high-quality-mode-3427591/)
- - [The lock-in problem at the heart of the Apple monopoly lawsuit](https://www.theverge.com/2024/3/21/24107669/doj-v-apple-apple-watch-messaging-digital-wallets-lock-in)
- - [Pixel Tablet’s ‘Cast to devices nearby’ feature nearly here &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-tablet-casting-phone-apk-teardown-3427605/)<!-- TECH:END -->
+ - [Rates Move Higher Following Fed Decision: Mortgage Interest Rates Today for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/key-rates-move-higher-for-homebuyers-mortgage-interest-rates-today-for-march-21-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
