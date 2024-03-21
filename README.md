@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing satellite messaging to Android 15](https://www.theverge.com/2024/3/21/24107532/android-15-developer-preview-screen-recording-detection-nfc-improvements)
- - [Notepad in Windows 11 is finally getting a spellcheck feature](https://www.theverge.com/2024/3/21/24107882/notepad-spellcheck-windows-11-feature)
- - [Apple will crush the DoJ in court if Garland sticks with outdated arguments](https://appleinsider.com/articles/24/03/21/apple-will-crush-the-doj-in-court-if-garland-sticks-with-outdated-arguments?utm_medium=rss)<!-- TECH:END -->
+ - [Android 15 is fixing one of the worst parts of the Pixel’s webcam feature](https://www.androidauthority.com/android-webcam-high-quality-mode-3427591/)
+ - [The lock-in problem at the heart of the Apple monopoly lawsuit](https://www.theverge.com/2024/3/21/24107669/doj-v-apple-apple-watch-messaging-digital-wallets-lock-in)
+ - [Pixel Tablet’s ‘Cast to devices nearby’ feature nearly here &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-tablet-casting-phone-apk-teardown-3427605/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
