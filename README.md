@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bold new era of Helldivers 2 lightning combat short-circuits as Arc Throwers start crashing games](https://www.pcgamer.com/games/third-person-shooter/bold-new-era-of-helldivers-2-lightning-combat-short-circuits-as-arc-throwers-start-crashing-games)
- - [GTA Online update for the week of March 21](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [House of the Dragon is forcing you to pick a side with its season 2 trailers](https://www.polygon.com/24107923/house-dragon-game-thrones-trailer-red-black-team)<!-- GAME:END -->
+ - [Larian Studios Is Officially Done With The Baldur’s Gate Series](https://kotaku.com/baldur-s-gate-3-sequel-expansion-larian-studios-1851356964)
+ - [Harold Halibut Hands On: A Heartfelt, Handmade Tale About Fish, Friendship and Finding Home](https://news.xbox.com/en-us/2024/03/21/harold-halibut-hands-on-preview/)
+ - [Halo Season Two Sticks The Landing—I Told You So](https://kotaku.com/halo-season-2-finale-episode-flood-3-kai-master-chief-1851356937)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
