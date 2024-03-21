@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairly Trained certifies KL3M, an LLM claimed to be built without the permissionless use of copyrighted materials by legal tech consultancy startup 273 Ventures &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240321/p4#a240321p4)
- - [OpenAI says it hasn&#39;t yet set a timeline for the release of Sora, as the company tries to catch up to other text-to-video AI startups like Runway AI &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240321/p3#a240321p3)
- - [Boston-based CyberSaint, which helps enterprises assess, measure, remediate, and communicate their cyber risk posture, raised a $21M Series A led by Riverside &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240321/p2#a240321p2)<!-- TECH:END -->
+ - [The TikTok divestment bill fits into a long and important US tradition of forbidding a hostile foreign power from controlling a major communication platform &lpar;Zephyr Teachout/The Atlantic&rpar;](http://www.techmeme.com/240321/p9#a240321p9)
+ - [Paris-based Greenly, whose carbon accounting software helps SMBs track their carbon emissions, raised a $52M Series B, and reports $10M+ in ARR in 2023 &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/240321/p8#a240321p8)
+ - [Court docs: Sachin Dev Duggal, the CEO of London-based Builder.ai that raised a $250M Series D in 2023, is a suspect in a money laundering probe in India &lpar;Financial Times&rpar;](http://www.techmeme.com/240321/p7#a240321p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
