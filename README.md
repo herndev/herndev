@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The second-gen AirPods Pro with USB-C are down to $180, a new all-time low](https://www.theverge.com/2024/3/21/24107557/apple-airpods-pro-usb-c-meta-quest-2-nomad-amazon-spring-sale-deal)
- - [Record $69 price drop on the AirPods Pro 2](https://www.androidauthority.com/deal-airpods-pro-2-3427570/)
- - [Source: Microsoft agreed to pay Inflection ~$650M when hiring its staff, mostly via a licensing deal that makes Inflection&#39;s models available for sale on Azure &lpar;The Information&rpar;](http://www.techmeme.com/240321/p31#a240321p31)<!-- TECH:END -->
+ - [Google is bringing satellite messaging to Android 15](https://www.theverge.com/2024/3/21/24107532/android-15-developer-preview-screen-recording-detection-nfc-improvements)
+ - [Notepad in Windows 11 is finally getting a spellcheck feature](https://www.theverge.com/2024/3/21/24107882/notepad-spellcheck-windows-11-feature)
+ - [Apple will crush the DoJ in court if Garland sticks with outdated arguments](https://appleinsider.com/articles/24/03/21/apple-will-crush-the-doj-in-court-if-garland-sticks-with-outdated-arguments?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
