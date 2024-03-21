@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot hits the development reset button for its League of Legends MMO: &#39;The initial vision just wasn’t different enough from what you can play today&#39;](https://www.pcgamer.com/games/mmo/riot-hits-the-development-reset-button-for-its-league-of-legends-mmo-the-initial-vision-just-wasnt-different-enough-from-what-you-can-play-today)
- - [The 23 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
- - [A New Video Plus about New Game Plus](https://www.polygon.com/videos/24106724/new-game-plus-nier-starfield-dragons-dogma)<!-- GAME:END -->
+ - [Bold new era of Helldivers 2 lightning combat short-circuits as Arc Throwers start crashing games](https://www.pcgamer.com/games/third-person-shooter/bold-new-era-of-helldivers-2-lightning-combat-short-circuits-as-arc-throwers-start-crashing-games)
+ - [GTA Online update for the week of March 21](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
+ - [House of the Dragon is forcing you to pick a side with its season 2 trailers](https://www.polygon.com/24107923/house-dragon-game-thrones-trailer-red-black-team)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
