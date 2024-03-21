@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a classified briefing on TikTok, the Senate Commerce Committee Chair Maria Cantwell says &quot;the next steps might be something more public, like a hearing&quot; &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/240320/p47#a240320p47)
- - [X suspended accounts of some journalists and researchers who posted the alleged real name of neo-Nazi cartoonist Stonetoss after Stonetoss appealed to Elon Musk &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240320/p46#a240320p46)
- - [How to use Check In for home, different locations, and with timers](https://appleinsider.com/inside/ios/tips/how-to-use-check-in-for-home-different-locations-and-with-timers?utm_medium=rss)<!-- TECH:END -->
+ - [Boston-based CyberSaint, which helps enterprises assess, measure, remediate, and communicate their cyber risk posture, raised a $21M Series A led by Riverside &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240321/p2#a240321p2)
+ - [Sources: Temu and Shein have supplanted Walmart and Target as focal points in internal Amazon meetings related to retail, as Amazon explores new promo campaigns &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p1#a240321p1)
+ - [After a classified briefing on TikTok, the Senate Commerce Committee Chair Maria Cantwell says &quot;the next steps might be something more public, like a hearing&quot; &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/240320/p47#a240320p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
