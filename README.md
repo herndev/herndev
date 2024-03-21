@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - ⏩ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
+ - 💣 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - ⏩ [Def Wallace](http://9gag.com/gag/a9yjpq0)
+ - 👉 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aXPZjRb)<!-- MEMES:END -->
 
 ---
 
