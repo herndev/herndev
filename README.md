@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Keep is testing a new, sleeker bottom toolbar](https://www.androidauthority.com/google-keep-testing-new-bottom-toolbar-3427470/)
- - [Chinese state media: during his visit to Shanghai, Tim Cook says &quot;there&#39;s no supply chain in the world that&#39;s more critical to us than China&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/240321/p15#a240321p15)
- - [YouTube TV rolls out Multiview support on iOS and iPadOS, letting users watch four TV channels at once; Android support will roll out &quot;in the coming months&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240321/p14#a240321p14)<!-- TECH:END -->
+ - [In a letter to Judge Kaplan, FTX CEO John Ray says SBF&#39;s claims of &quot;zero&quot; harm to users are &quot;demonstrably false&quot; and FTX had only 105 bitcoin when Ray took over &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240321/p17#a240321p17)
+ - [Snapdragon 7 Plus Gen 3 announced: A big upgrade for mid-range phones](https://www.androidauthority.com/snapdragon-7-plus-gen-3-3427225/)
+ - [No iPad Air or iPad Pro announcement on March 26, says Gurman](https://appleinsider.com/articles/24/03/21/no-ipad-announcement-on-march-26-says-gurman?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
