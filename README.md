@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
- - ⏩ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
+ - ⏩ [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
 
 ---
 
