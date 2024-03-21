@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple working on technology to make a futuristic all-glass MacBook Pro](https://appleinsider.com/articles/24/03/21/apple-working-on-technology-to-make-a-futuristic-all-glass-macbook-pro?utm_medium=rss)
- - [Netflix’s 3 Body Problem adaptation channels the book’s spirit but not its brilliance](https://www.theverge.com/2024/3/21/24102256/netflix-3-body-problem-review)
- - [Mortgage Rates Inch Up Since Last Week: Today&#39;s Mortgage Rates for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-todays-mortgage-rates-for-march-21-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Cook meets with developers before opening Apple Jing&#39;an](https://appleinsider.com/articles/24/03/21/tim-cook-meets-with-developers-before-opening-apple-jingan?utm_medium=rss)
+ - [US DOJ takes on Apple in massive antitrust suit, after years of investigations](https://appleinsider.com/articles/24/03/21/us-doj-takes-on-apple-in-massive-antitrust-suit-after-years-of-investigations?utm_medium=rss)
+ - [The US DOJ sues Apple, alleging the company blocked rivals from accessing iPhone features, made it difficult for users to switch to non-Apple devices, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240321/p25#a240321p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
