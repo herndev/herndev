@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Cohere, which has raised $445M and was seeking new funding at a $6B valuation last year, generated just ~$13M in annualized revenue at the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/240320/p40#a240320p40)
- - [There Are Already More Measles Cases in the US This Year Than All of 2023](https://www.wired.com/story/measles-us-cases-vaccinations-2024/)
- - [US DOJ to finally sue Apple after years of antitrust investigation](https://appleinsider.com/articles/24/03/20/us-doj-to-finally-sue-apple-after-years-of-antitrust-investigation?utm_medium=rss)<!-- TECH:END -->
+ - [All iPhone 16 models rumored to have thinnest bezels yet](https://appleinsider.com/articles/24/03/20/all-iphone-16-models-will-have-thinnest-bezels-yet?utm_medium=rss)
+ - [MLB 2024: How to Watch, Stream Baseball This Season Without Cable     - CNET](https://www.cnet.com/deals/mlb-2024-how-to-watch-stream-baseball-this-season-without-cable/#ftag=CAD590a51e)
+ - [Sources: Cohere, which has raised $445M and was seeking new funding at a $6B valuation last year, generated just ~$13M in annualized revenue at the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/240320/p40#a240320p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
