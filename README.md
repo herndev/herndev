@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UPS worker charged after $1.3M Apple product theft spree](https://appleinsider.com/articles/24/03/21/ups-worker-charged-after-13m-apple-product-theft-spree?utm_medium=rss)
- - [Ikea releases a pair of affordable USB-C chargers](https://www.theverge.com/2024/3/21/24107515/ikea-sjoss-chargers-30w-45w-usb-c-price-specs-features)
- - [The Samsung Galaxy Tab A9 Plus just hit an all-time low price of $169.99](https://www.androidauthority.com/galaxy-tab-a9-plus-deal-3427404/)<!-- TECH:END -->
+ - [DoorDash begins Baconator deliveries by drone](https://www.theverge.com/2024/3/21/24107181/doordash-drone-delivery-wing-wendys-christianburg-virginia)
+ - [Motorola spoiled a good budget phone with bloatware](https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware)
+ - [A Topsy-Turvy Online Election](https://www.wired.com/story/a-topsy-turvy-online-election/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
