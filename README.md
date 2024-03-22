@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
- - ⏩ [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
- - 👉 [Jim Carrey&#39;s Oscar speech will forever be legendary](http://9gag.com/gag/aXPZjrd)<!-- MEMES:END -->
+ - 💣 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - ⏩ [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
+ - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
 
 ---
 
