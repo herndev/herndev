@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good guy Amish](http://9gag.com/gag/aBy9xXA)
- - ⏩ [Def Wallace](http://9gag.com/gag/a9yjpq0)
- - 👉 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)<!-- MEMES:END -->
+ - 💣 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
+ - ⏩ [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - 👉 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)<!-- MEMES:END -->
 
 ---
 
