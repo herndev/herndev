@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VLC media player’s next feature could be free streaming channels](https://www.androidauthority.com/vlc-media-player-fast-streaming-channels-3427822/)
- - [&#39;Super Mario Bros. Wonder&#39; Almost Had a Live-Action Mario](https://www.wired.com/story/super-mario-bros-wonder-almost-had-a-live-action-mario/)
- - [Italy opens a probe into Booking.com, says the website&#39;s handling of hotels in its Preferred Partner Programme &quot;seems likely to hinder effective competition&quot; &lpar;Giulia Segreti/Reuters&rpar;](http://www.techmeme.com/240322/p6#a240322p6)<!-- TECH:END -->
+ - [Free Netflix Sharing is Over, but Here&#39;s How to Save Your Profile     - CNET](https://www.cnet.com/tech/home-entertainment/free-netflix-sharing-is-over-but-heres-how-to-save-your-profile/#ftag=CAD590a51e)
+ - [Kate Middleton Conspiracists Are Recreating the Streisand Effect](https://www.wired.com/story/kate-middleton-conspiracists-recreating-streisand-effect-irl/)
+ - [VLC media player’s next feature could be free streaming channels](https://www.androidauthority.com/vlc-media-player-fast-streaming-channels-3427822/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
