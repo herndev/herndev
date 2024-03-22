@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meituan reports Q4 revenue up 23% YoY to ~$10.2B and a net income of ~$308.4M, both above estimates, as the food delivery giant plans international expansion &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240322/p5#a240322p5)
- - [The UK CMA launches a formal Phase 2 of its review of the Vodafone and Three UK&#39;s $19B merger, after finding competition and pricing concerns in Phase 1 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240322/p4#a240322p4)
- - [Best iPhone Deals 2024: Trade-In Offers, Discounts and More for iPhone 15, 14, 13 and SE     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [VLC media player’s next feature could be free streaming channels](https://www.androidauthority.com/vlc-media-player-fast-streaming-channels-3427822/)
+ - [&#39;Super Mario Bros. Wonder&#39; Almost Had a Live-Action Mario](https://www.wired.com/story/super-mario-bros-wonder-almost-had-a-live-action-mario/)
+ - [Italy opens a probe into Booking.com, says the website&#39;s handling of hotels in its Preferred Partner Programme &quot;seems likely to hinder effective competition&quot; &lpar;Giulia Segreti/Reuters&rpar;](http://www.techmeme.com/240322/p6#a240322p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
