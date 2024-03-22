@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 25 – 29](https://news.xbox.com/en-us/2024/03/22/next-week-on-xbox-new-games-for-march-25-29/)
- - [Unicorn Overlord is beautiful in its complexity](https://www.polygon.com/reviews/24106947/unicorn-overlord-review-vanillaware-sega-atlus)
- - [Spending all day with MSI&#39;s disappointing new gaming laptops I&#39;ve learned it&#39;s not just what&#39;s inside that counts](https://www.pcgamer.com/hardware/gaming-laptops/spending-all-day-with-msis-disappointing-new-gaming-laptops-ive-learned-its-not-just-whats-inside-that-counts)<!-- GAME:END -->
+ - [Inside The Art of Dustborn, Classic Comic Inspiration and Nailing Representation](https://news.xbox.com/en-us/2024/03/22/inside-the-art-of-dustborn/)
+ - [Players Aren’t Happy With Dragon’s Dogma 2’s Microtransactions](https://kotaku.com/dragons-dogma-2-microtransactions-steam-reviews-1851358622)
+ - [Just like Disney Lorcana, the Star Wars: Unlimited TCG is in short supply](https://www.polygon.com/tabletop-games/24108645/star-wars-unlimited-tcg-sold-out-price-scalpers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
