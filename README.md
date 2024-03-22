@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - ⏩ [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
- - 👉 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)<!-- MEMES:END -->
+ - 💣 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - ⏩ [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 👉 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)<!-- MEMES:END -->
 
 ---
 
