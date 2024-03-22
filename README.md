@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple looking inside China for AI providers to sidestep regulatory issues](https://appleinsider.com/articles/24/03/22/apple-looking-inside-china-for-ai-providers-to-sidestep-regulatory-issues?utm_medium=rss)
- - [OnePlus 9 series and 8T on T-Mobile get Android 14, but there’s also bad news](https://www.androidauthority.com/t-mobile-oneplus-9-pro-9-8t-android-14-oxygenos-update-3427875/)
- - [Sources: Apple held preliminary talks with Baidu to use the latter&#39;s artificial intelligence technology in Apple devices in China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240322/p8#a240322p8)<!-- TECH:END -->
+ - [Unprecedented $380 price drop on the Samsung Galaxy Book 3](https://www.androidauthority.com/samsung-galaxy-book-3-deal-3427678/)
+ - [In its lawsuit, the US DOJ says Apple deploys &quot;privacy and security justifications as an elastic shield that can stretch or contract&quot; to serve its interests &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240322/p9#a240322p9)
+ - [TP-Link Tapo Indoor cameras review: affordable HomeKit options with in-app AI tools](https://appleinsider.com/articles/24/03/22/tp-link-tapo-indoor-cameras-review-affordable-homekit-options-with-in-app-ai-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
