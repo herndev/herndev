@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free Netflix Sharing is Over, but Here&#39;s How to Save Your Profile     - CNET](https://www.cnet.com/tech/home-entertainment/free-netflix-sharing-is-over-but-heres-how-to-save-your-profile/#ftag=CAD590a51e)
- - [Kate Middleton Conspiracists Are Recreating the Streisand Effect](https://www.wired.com/story/kate-middleton-conspiracists-recreating-streisand-effect-irl/)
- - [VLC media player’s next feature could be free streaming channels](https://www.androidauthority.com/vlc-media-player-fast-streaming-channels-3427822/)<!-- TECH:END -->
+ - [Apple looking inside China for AI providers to sidestep regulatory issues](https://appleinsider.com/articles/24/03/22/apple-looking-inside-china-for-ai-providers-to-sidestep-regulatory-issues?utm_medium=rss)
+ - [OnePlus 9 series and 8T on T-Mobile get Android 14, but there’s also bad news](https://www.androidauthority.com/t-mobile-oneplus-9-pro-9-8t-android-14-oxygenos-update-3427875/)
+ - [Sources: Apple held preliminary talks with Baidu to use the latter&#39;s artificial intelligence technology in Apple devices in China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240322/p8#a240322p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
