@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max review six months later: Still an exciting upgrade](https://appleinsider.com/articles/24/03/22/iphone-15-pro-max-review-six-months-later-still-an-exciting-upgrade?utm_medium=rss)
- - [Boom’s first test flight could signal the return of supersonic air travel](https://www.theverge.com/2024/3/22/24108850/boom-supersonic-first-test-flight-xb1-demonstrator)
- - [Sources: Apple is winding down an in-house effort to create microLED displays and is eliminating several dozen display engineering roles in the US and Asia &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240322/p16#a240322p16)<!-- TECH:END -->
+ - [X-Men ‘97 is Marvel’s omega-level nostalgia play](https://www.theverge.com/24106799/x-men-97-review-marvel-disney-plus)
+ - [Confirmed: the S Pen smells kind of bad](https://www.theverge.com/2024/3/22/24108848/samsung-galaxy-s24-ultra-s-pen-stylus-smell)
+ - [Victrola’s cheapest Sonos-ready turntable has fallen to yet another low](https://www.theverge.com/2024/3/22/24108705/victrola-stream-onyx-sonos-turntable-kindle-paperwhite-signature-edition-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
