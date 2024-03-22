@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 crucial changes in Diablo 4&#39;s gigantic season 4 rework](https://www.pcgamer.com/games/action/5-changes-diablo-4-season-4-rework)
- - [My favorite game at GDC is a first-person puzzler where you build a mansion of mysteries one room at a time](https://www.pcgamer.com/games/puzzle/my-favorite-game-at-gdc-is-a-first-person-puzzler-where-you-build-a-mansion-of-mysteries-one-room-at-a-time)
- - [4 things to know before you see Ghostbusters: Frozen Empire](https://www.polygon.com/24106960/ghostbusters-frozen-empire-post-credits-sequel-plans-bill-murray)<!-- GAME:END -->
+ - [Path of Exile 2&#39;s beta delayed from June &#39;until later in the year&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2s-beta-delayed-from-june-until-later-in-the-year)
+ - [Dragon&#39;s Dogma 2: The best settings for your PC](https://www.pcgamer.com/hardware/dragons-dogma-2-the-best-settings-for-your-pc)
+ - [5 crucial changes in Diablo 4&#39;s gigantic season 4 rework](https://www.pcgamer.com/games/action/5-changes-diablo-4-season-4-rework)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
