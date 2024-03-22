@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)
- - [As regulators constantly and unreasonably block acquisitions, Microsoft is pioneering the non-acquisition acquisition with its OpenAI and Inflection deals &lpar;Newcomer&rpar;](http://www.techmeme.com/240322/p19#a240322p19)
- - [Apple reportedly gives up on its MicroLED dream for now](https://www.theverge.com/2024/3/22/24108967/apple-watch-microled-canceled)<!-- TECH:END -->
+ - [Joni Mitchell is back on Spotify just like Neil Young — because Joe Rogan isn’t going anywhere](https://www.theverge.com/2024/3/22/24109073/joni-mitchell-spotify-music-available-again)
+ - [Some experts say the DOJ&#39;s Apple lawsuit makes a strong case for harm to consumers and developers, but proving Apple&#39;s market power could be challenging &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240322/p21#a240322p21)
+ - [How an artificial tooth monopoly put the DOJ’s blockbuster Apple antitrust suit in New Jersey](https://www.theverge.com/2024/3/22/24108111/apple-antitrust-doj-artificial-tooth-monopoly-dentsply)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
