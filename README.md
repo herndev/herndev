@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside The Art of Dustborn, Classic Comic Inspiration and Nailing Representation](https://news.xbox.com/en-us/2024/03/22/inside-the-art-of-dustborn/)
- - [Players Aren’t Happy With Dragon’s Dogma 2’s Microtransactions](https://kotaku.com/dragons-dogma-2-microtransactions-steam-reviews-1851358622)
- - [Just like Disney Lorcana, the Star Wars: Unlimited TCG is in short supply](https://www.polygon.com/tabletop-games/24108645/star-wars-unlimited-tcg-sold-out-price-scalpers)<!-- GAME:END -->
+ - [GDC 2024: Indies from Around the World to Your Xbox](https://news.xbox.com/en-us/2024/03/22/gdc-2024-indies-from-around-the-world/)
+ - [PSA: If you&#39;re using a controller like Dragon&#39;s Dogma 2 wants you to, you can turn off &#39;sprint&#39; and &#39;interact&#39; being on the same button for some unholy reason](https://www.pcgamer.com/games/rpg/psa-if-youre-using-a-controller-like-dragons-dogma-2-wants-you-to-you-can-turn-off-sprint-and-interact-being-on-the-same-button-for-some-unholy-reason)
+ - [AMD&#39;s new budget APU with the graphics switched off gives you less cache for less cash](https://www.pcgamer.com/hardware/processors/amds-new-budget-apu-with-the-graphics-switched-off-gives-you-less-cache-for-less-cash)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
