@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Preserving old games was seen as a non-commercial &#39;art project&#39; until recently, says Nightdive director: &#39;They were great then and they&#39;re great now, and companies have begun to realize that&#39;](https://www.pcgamer.com/gaming-industry/events-conferences/preserving-old-games-was-seen-as-a-non-commercial-art-project-until-recently-says-nightdive-director-they-were-great-then-and-theyre-great-now-and-companies-have-begun-to-realize-that)
- - [9 Things To Know Before Starting Rise Of The Ronin](https://kotaku.com/rise-ronin-ps5-game-tips-team-ninja-1851360015)
- - [There&#39;s already a Dragon&#39;s Dogma 2 mod to get 99 copies of the &#39;change appearance&#39; item Capcom is selling for real money](https://www.pcgamer.com/games/rpg/theres-already-a-dragons-dogma-2-mod-to-get-99-copies-of-the-change-appearance-item-capcom-is-selling-for-real-money)<!-- GAME:END -->
+ - [There were an obscene amount of trailers this week](https://www.polygon.com/2024/3/22/24108836/new-movie-tv-trailers-furiosa-alien-house-dragon-fallout-fall-guy)
+ - [What vocation to pick in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24105051/vocations-list-unlock-all-best-what-to-pick-class)
+ - [How to unlock the Trickster vocation in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24108740/trickster-vocation-unlock-location-where-to-find-luz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
