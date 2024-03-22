@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dog does dog things](http://9gag.com/gag/avy2zZq)
- - ⏩ [What a time to be alive](http://9gag.com/gag/a87dEWO)
- - 👉 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)<!-- MEMES:END -->
+ - 💣 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
+ - ⏩ [To them, cheating is cultural](http://9gag.com/gag/aAyB39p)
+ - 👉 [I&#39;m going to Hell and your coming with me!](http://9gag.com/gag/aGyKjpz)<!-- MEMES:END -->
 
 ---
 
