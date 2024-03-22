@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MacBook Pro M3 drops $200 to its Black Friday price](https://www.androidauthority.com/apple-macbook-pro-deal-3427932/)
- - [Baldur’s Gate 3 developer is moving on from Dungeons and Dragons](https://www.theverge.com/2024/3/22/24108773/baldurs-gate-3-larian-dungeons-and-dragons)
- - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)<!-- TECH:END -->
+ - [iPhone 15 Pro Max review six months later: Still an exciting upgrade](https://appleinsider.com/articles/24/03/22/iphone-15-pro-max-review-six-months-later-still-an-exciting-upgrade?utm_medium=rss)
+ - [Boom’s first test flight could signal the return of supersonic air travel](https://www.theverge.com/2024/3/22/24108850/boom-supersonic-first-test-flight-xb1-demonstrator)
+ - [Sources: Apple is winding down an in-house effort to create microLED displays and is eliminating several dozen display engineering roles in the US and Asia &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240322/p16#a240322p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
