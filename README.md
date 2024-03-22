@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unprecedented $380 price drop on the Samsung Galaxy Book 3](https://www.androidauthority.com/samsung-galaxy-book-3-deal-3427678/)
- - [In its lawsuit, the US DOJ says Apple deploys &quot;privacy and security justifications as an elastic shield that can stretch or contract&quot; to serve its interests &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240322/p9#a240322p9)
- - [TP-Link Tapo Indoor cameras review: affordable HomeKit options with in-app AI tools](https://appleinsider.com/articles/24/03/22/tp-link-tapo-indoor-cameras-review-affordable-homekit-options-with-in-app-ai-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Trump&#39;s Truth Social is going public via SPAC after DWAC shareholders approve the merger; TMTG will be listed on Nasdaq as early as next week &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240322/p11#a240322p11)
+ - [What’s on your desk, Joanna Nelius?](https://www.theverge.com/24106808/desk-tech-lenovo-typewriter)
+ - [Android 15 makes physical keyboards easier to use](https://www.androidauthority.com/android-15-physical-keyboards-3427661/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
