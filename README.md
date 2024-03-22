@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New York is now a parallel universe](http://9gag.com/gag/axyE9mM)
- - ⏩ [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 👉 [Title](http://9gag.com/gag/ayNExP8)<!-- MEMES:END -->
+ - 💣 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)
+ - ⏩ [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
 
 ---
 
