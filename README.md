@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)
- - ⏩ [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 💣 [New York is now a parallel universe](http://9gag.com/gag/axyE9mM)
+ - ⏩ [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
  - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
 
 ---
