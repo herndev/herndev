@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is taking inspiration from the OnePlus Open for this new Pixel Fold feature](https://www.androidauthority.com/google-pixel-fold-feature-swipe-up-to-continue-3427727/)
- - [The first phone with the powerful Snapdragon 7 Plus Gen 3 chip is here, thanks to OnePlus](https://www.androidauthority.com/oneplus-ace-3v-3427430/)
- - [It’s true: Apple tried to make the Apple Watch work with Android](https://www.androidauthority.com/apple-watch-work-android-3427682/)<!-- TECH:END -->
+ - [Android 15 will verify it’s you when you connect to a PC](https://www.androidauthority.com/android-15-authentication-switch-usb-modes-3427734/)
+ - [Researchers reveal a hotel keycard hacking technique that lets a hacker almost instantly open RFID-based Saflok locks used in ~3M doors across 13K properties &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240322/p3#a240322p3)
+ - [These 6 Common Tax Mistakes Could Get You Audited by the IRS. Here&#39;s What to Avoid.     - CNET](https://www.cnet.com/personal-finance/taxes/these-6-common-tax-mistakes-could-get-you-audited-by-the-irs-heres-what-to-avoid/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
