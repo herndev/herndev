@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood co-founder and Chief Creative Officer Baiju Bhatt plans to step down to pursue other entrepreneurial interests, but will remain on the company&#39;s board &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p44#a240321p44)
- - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)
- - [In its lawsuit, the US DOJ alleges CarPlay lets Apple exert too much control over the auto industry; some analysts say the DOJ may be misunderstanding CarPlay &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240321/p43#a240321p43)<!-- TECH:END -->
+ - [Tennessee passes the Ensuring Likeness Voice and Image Security &lpar;ELVIS&rpar; Act, aiming to protect musicians and other artists from unauthorized use involving AI &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/240321/p46#a240321p46)
+ - [Changing policy, X bans the posting of real names of people behind anonymous accounts, after it suspended accounts that unmasked a suspected neo-Nazi cartoonist &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240321/p45#a240321p45)
+ - [Robinhood co-founder and Chief Creative Officer Baiju Bhatt plans to step down to pursue other entrepreneurial interests, but will remain on the company&#39;s board &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p44#a240321p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
