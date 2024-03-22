@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Stardew Valley’s 1.6 update release on console?](https://www.polygon.com/gaming/24106193/stardew-valley-1-6-update-console-release-date)
- - [GTA 6 Production Reportedly Falling Behind, Rockstar Urges Staff To Return To Office To Avoid Delay](https://kotaku.com/gta-6-development-2026-delay-rockstar-office-release-1851359831)
- - [Baldur&#39;s Gate 3 mod tools won&#39;t be as extensive as Divinity&#39;s: &#39;We&#39;re not a tools company,&#39; says Swen Vincke](https://www.pcgamer.com/games/rpg/baldurs-gate-3-mod-support-GDC-update)<!-- GAME:END -->
+ - [Preserving old games was seen as a non-commercial &#39;art project&#39; until recently, says Nightdive director: &#39;They were great then and they&#39;re great now, and companies have begun to realize that&#39;](https://www.pcgamer.com/gaming-industry/events-conferences/preserving-old-games-was-seen-as-a-non-commercial-art-project-until-recently-says-nightdive-director-they-were-great-then-and-theyre-great-now-and-companies-have-begun-to-realize-that)
+ - [9 Things To Know Before Starting Rise Of The Ronin](https://kotaku.com/rise-ronin-ps5-game-tips-team-ninja-1851360015)
+ - [There&#39;s already a Dragon&#39;s Dogma 2 mod to get 99 copies of the &#39;change appearance&#39; item Capcom is selling for real money](https://www.pcgamer.com/games/rpg/theres-already-a-dragons-dogma-2-mod-to-get-99-copies-of-the-change-appearance-item-capcom-is-selling-for-real-money)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
