@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)
- - ⏩ [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
- - 👉 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)<!-- MEMES:END -->
+ - 💣 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - ⏩ [Love is for idiots.](http://9gag.com/gag/a87d3NY)
+ - 👉 [London Business trip](http://9gag.com/gag/aAyBe69)<!-- MEMES:END -->
 
 ---
 
