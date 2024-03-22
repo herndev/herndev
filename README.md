@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kickstart Your Fitness Journey With Amazon Spring Savings on Peloton Bikes and Accessories     - CNET](https://www.cnet.com/deals/kickstart-your-fitness-journey-amazon-spring-savings-peloton-bikes-accessories/#ftag=CAD590a51e)
- - [Researchers detail an unpatchable vulnerability in Apple&#39;s M-series of chips that lets attackers extract secret keys from Macs during cryptographic operations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240321/p42#a240321p42)
- - [Qualcomm says most Windows games should ‘just work’ on its unannounced Arm laptops](https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games)<!-- TECH:END -->
+ - [Robinhood co-founder and Chief Creative Officer Baiju Bhatt plans to step down to pursue other entrepreneurial interests, but will remain on the company&#39;s board &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p44#a240321p44)
+ - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)
+ - [In its lawsuit, the US DOJ alleges CarPlay lets Apple exert too much control over the auto industry; some analysts say the DOJ may be misunderstanding CarPlay &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240321/p43#a240321p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
