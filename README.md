@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Fighter build for beginners in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107905/fighter-build-best-skills-augments-equipment)
- - [The best Thief build for beginners in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107899/thief-build-best-skills-augments-equipment)
- - [How to get into Battahl in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24106986/battahl-how-to-enter-pass-gate-human-beastren)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 pawns and how they work](https://www.pcgamer.com/games/rpg/dragons-dogma-2-pawns)
+ - [How to defeat cyclops in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-cyclops-how-to-beat)
+ - [How to make fruit roborant in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-fruit-roborant-medicament-predicament)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
