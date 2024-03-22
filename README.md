@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2’s surprise microtransactions are making people angry, but should they?](https://www.polygon.com/24108587/dragons-dogma-2-microtransactions-dlc-steam-reviews)
- - [Final Fantasy XVI’s The Rising Tide DLC unleashes Leviathan on April 18](https://blog.playstation.com/2024/03/22/final-fantasy-xvis-the-rising-tide-dlc-unleashes-leviathan-on-april-18/)
- - [Who to give the Jadeite Orb to in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107709/jadeite-orb-quest-walkthrough-everard-or-offulve-reward)<!-- GAME:END -->
+ - [Arkane founder teases his next project, a &#39;retro sci-fi first-person&#39; game, and now I&#39;m thinking a whole lot about the Prey sequel we never got](https://www.pcgamer.com/games/rpg/arkane-founder-teases-his-next-project-a-retro-sci-fi-first-person-game-and-now-im-thinking-a-whole-lot-about-the-prey-sequel-we-never-got)
+ - [Swen Vincke says your Baldur&#39;s Gate 3 crushes &#39;now belong to Wizards of the Coast&#39; as the studio leaves D&amp;D behind, prompting a collective nervous gulp](https://www.pcgamer.com/games/baldurs-gate/swen-vincke-says-your-baldurs-gate-3-crushes-now-belong-to-wizards-of-the-coast-as-the-studio-leaves-dandd-behind-prompting-a-collective-nervous-gulp)
+ - [Xbox Insider Release Notes – Alpha &lpar;2404.240320-2200&rpar;](https://news.xbox.com/en-us/2024/03/22/xbox-insider-release-notes-alpha-2404-240320-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
