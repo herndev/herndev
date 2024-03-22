@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - ⏩ [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
- - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
+ - 💣 [Other movies: \u201cThat still counts as one!\u201d](http://9gag.com/gag/a1mpWQ2)
+ - ⏩ [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 👉 [Not surprised.](http://9gag.com/gag/aD2R4W7)<!-- MEMES:END -->
 
 ---
 
