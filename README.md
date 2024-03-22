@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
- - ⏩ [To them, cheating is cultural](http://9gag.com/gag/aAyB39p)
- - 👉 [I&#39;m going to Hell and your coming with me!](http://9gag.com/gag/aGyKjpz)<!-- MEMES:END -->
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - ⏩ [Def Wallace](http://9gag.com/gag/a9yjpq0)
+ - 👉 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)<!-- MEMES:END -->
 
 ---
 
