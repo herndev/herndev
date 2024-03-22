@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arkane founder teases his next project, a &#39;retro sci-fi first-person&#39; game, and now I&#39;m thinking a whole lot about the Prey sequel we never got](https://www.pcgamer.com/games/rpg/arkane-founder-teases-his-next-project-a-retro-sci-fi-first-person-game-and-now-im-thinking-a-whole-lot-about-the-prey-sequel-we-never-got)
- - [Swen Vincke says your Baldur&#39;s Gate 3 crushes &#39;now belong to Wizards of the Coast&#39; as the studio leaves D&amp;D behind, prompting a collective nervous gulp](https://www.pcgamer.com/games/baldurs-gate/swen-vincke-says-your-baldurs-gate-3-crushes-now-belong-to-wizards-of-the-coast-as-the-studio-leaves-dandd-behind-prompting-a-collective-nervous-gulp)
- - [Xbox Insider Release Notes – Alpha &lpar;2404.240320-2200&rpar;](https://news.xbox.com/en-us/2024/03/22/xbox-insider-release-notes-alpha-2404-240320-2200/)<!-- GAME:END -->
+ - [If working overtime on AAA games with giant budgets is the only way to succeed, &#39;then maybe the industry deserves to die,&#39; says RPG veteran David Gaider: &#39;There is another way to be&#39;](https://www.pcgamer.com/gaming-industry/if-working-overtime-on-aaa-games-with-giant-budgets-is-the-only-way-to-succeed-then-maybe-the-industry-deserves-to-die-says-rpg-veteran-david-gaider-there-is-another-way-to-be)
+ - [Massive Pokémon Fan Game Site Taken Down Without Warning Via DMCA](https://kotaku.com/pokemon-fan-games-relic-castle-shutdown-dmca-reason-1851359618)
+ - [Much like Disney Lorcana, the Star Wars: Unlimited TCG is in short supply](https://www.polygon.com/tabletop-games/24108645/star-wars-unlimited-tcg-sold-out-price-scalpers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
