@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - ⏩ [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
- - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
+ - 💣 [Basketball game](http://9gag.com/gag/a6ZrELA)
+ - ⏩ [Dog does dog things](http://9gag.com/gag/avy2zZq)
+ - 👉 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)<!-- MEMES:END -->
 
 ---
 
