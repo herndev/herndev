@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [4 things to know before you see Ghostbusters: Frozen Empire](https://www.polygon.com/24106960/ghostbusters-frozen-empire-post-credits-sequel-plans-bill-murray)
- - [Russian nun simulator Indika, my most anticipated game this year, breaks out the dancing PVC fetish men to announce its May release date](https://www.pcgamer.com/games/adventure/russian-nun-simulator-indika-my-most-anticipated-game-this-year-breaks-out-the-dancing-pvc-fetish-men-to-announce-its-may-release-date)
- - [&#39;Still Wakes the Deep is the game I joined The Chinese Room to make&#39;: A new release date trailer gives us another look at the horrifying Beira D oil rig](https://www.pcgamer.com/games/horror/still-wakes-the-deep-is-the-game-i-joined-the-chinese-room-to-make-a-new-release-date-trailer-gives-us-another-look-at-the-horrifying-beira-d-oil-rig)<!-- GAME:END -->
+ - [5 crucial changes in Diablo 4&#39;s gigantic season 4 rework](https://www.pcgamer.com/games/action/5-changes-diablo-4-season-4-rework)
+ - [My favorite game at GDC is a first-person puzzler where you build a mansion of mysteries one room at a time](https://www.pcgamer.com/games/puzzle/my-favorite-game-at-gdc-is-a-first-person-puzzler-where-you-build-a-mansion-of-mysteries-one-room-at-a-time)
+ - [4 things to know before you see Ghostbusters: Frozen Empire](https://www.polygon.com/24106960/ghostbusters-frozen-empire-post-credits-sequel-plans-bill-murray)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
