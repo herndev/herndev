@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joni Mitchell is back on Spotify just like Neil Young — because Joe Rogan isn’t going anywhere](https://www.theverge.com/2024/3/22/24109073/joni-mitchell-spotify-music-available-again)
- - [Some experts say the DOJ&#39;s Apple lawsuit makes a strong case for harm to consumers and developers, but proving Apple&#39;s market power could be challenging &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240322/p21#a240322p21)
- - [How an artificial tooth monopoly put the DOJ’s blockbuster Apple antitrust suit in New Jersey](https://www.theverge.com/2024/3/22/24108111/apple-antitrust-doj-artificial-tooth-monopoly-dentsply)<!-- TECH:END -->
+ - [33 Best Deals From the Amazon Big Spring Sale &lpar;2024&rpar;](https://www.wired.com/story/amazon-big-spring-sale-2024/)
+ - [Digital marketing software company Ibotta files for a US IPO, reportedly seeking a $2B valuation, and says it had a profit of $38M on revenue of $320M in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240322/p23#a240322p23)
+ - [United States v. Apple is pure nerd rage](https://www.theverge.com/2024/3/22/24109168/us-doj-apple-antitrust-complaint-nerd-rage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
