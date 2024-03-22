@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Basketball game](http://9gag.com/gag/a6ZrELA)
- - ⏩ [Dog does dog things](http://9gag.com/gag/avy2zZq)
- - 👉 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)<!-- MEMES:END -->
+ - 💣 [Dragon Ball s](http://9gag.com/gag/aZZqyX9)
+ - ⏩ [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 👉 [So many to choose from](http://9gag.com/gag/aMVejmx)<!-- MEMES:END -->
 
 ---
 
