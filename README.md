@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New York is now a parallel universe](http://9gag.com/gag/axyE9mM)
- - ⏩ [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 💣 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - ⏩ [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
  - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
 
 ---
