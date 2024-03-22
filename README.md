@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Batman spinoff The Penguin is pure crime drama in first trailer](https://www.theverge.com/24108730/the-penguin-trailer-max-batman)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Apple stuff including a business card signed by Steve Jobs sold at auction for big money](https://appleinsider.com/articles/24/03/22/apple-stuff-including-a-business-card-signed-by-steve-jobs-sold-at-auction-for-big-money?utm_medium=rss)<!-- TECH:END -->
+ - [The MacBook Pro M3 drops $200 to its Black Friday price](https://www.androidauthority.com/apple-macbook-pro-deal-3427932/)
+ - [Baldur’s Gate 3 developer is moving on from Dungeons and Dragons](https://www.theverge.com/2024/3/22/24108773/baldurs-gate-3-larian-dungeons-and-dragons)
+ - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
