@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - ⏩ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
+ - 💣 [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
+ - ⏩ [I&#39;m not drunk... I can drive... Gimme my keys back](http://9gag.com/gag/axyE7Kp)
+ - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
 
 ---
 
