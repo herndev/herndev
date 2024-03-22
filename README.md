@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There were an obscene amount of trailers this week](https://www.polygon.com/2024/3/22/24108836/new-movie-tv-trailers-furiosa-alien-house-dragon-fallout-fall-guy)
- - [What vocation to pick in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24105051/vocations-list-unlock-all-best-what-to-pick-class)
- - [How to unlock the Trickster vocation in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24108740/trickster-vocation-unlock-location-where-to-find-luz)<!-- GAME:END -->
+ - [Industria 2 is &#39;a narrative FPS to its core,&#39; but its first-ever trailer is giving me real Half-Life 2 vibes](https://www.pcgamer.com/games/fps/industria-2-is-a-narrative-fps-to-its-core-but-its-first-ever-trailer-is-giving-me-real-half-life-2-vibes)
+ - [The new Windows update made me think I&#39;d installed malware, but it was just Microsoft&#39;s latest attempt to try and fool me into using Bing](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing)
+ - [Road House, Anatomy of a Fall, Netflix’s Shirley, and every new movie to watch at home this weekend](https://www.polygon.com/2024/3/22/24101100/new-movies-watch-road-house-netflix-shirley-anatomy-of-a-fall-hulu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
