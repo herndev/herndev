@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
- - ⏩ [I&#39;m not drunk... I can drive... Gimme my keys back](http://9gag.com/gag/axyE7Kp)
- - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
+ - 💣 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - ⏩ [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 👉 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)<!-- MEMES:END -->
 
 ---
 
