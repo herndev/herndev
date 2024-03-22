@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If working overtime on AAA games with giant budgets is the only way to succeed, &#39;then maybe the industry deserves to die,&#39; says RPG veteran David Gaider: &#39;There is another way to be&#39;](https://www.pcgamer.com/gaming-industry/if-working-overtime-on-aaa-games-with-giant-budgets-is-the-only-way-to-succeed-then-maybe-the-industry-deserves-to-die-says-rpg-veteran-david-gaider-there-is-another-way-to-be)
- - [Massive Pokémon Fan Game Site Taken Down Without Warning Via DMCA](https://kotaku.com/pokemon-fan-games-relic-castle-shutdown-dmca-reason-1851359618)
- - [Much like Disney Lorcana, the Star Wars: Unlimited TCG is in short supply](https://www.polygon.com/tabletop-games/24108645/star-wars-unlimited-tcg-sold-out-price-scalpers)<!-- GAME:END -->
+ - [When does Stardew Valley’s 1.6 update release on console?](https://www.polygon.com/gaming/24106193/stardew-valley-1-6-update-console-release-date)
+ - [GTA 6 Production Reportedly Falling Behind, Rockstar Urges Staff To Return To Office To Avoid Delay](https://kotaku.com/gta-6-development-2026-delay-rockstar-office-release-1851359831)
+ - [Baldur&#39;s Gate 3 mod tools won&#39;t be as extensive as Divinity&#39;s: &#39;We&#39;re not a tools company,&#39; says Swen Vincke](https://www.pcgamer.com/games/rpg/baldurs-gate-3-mod-support-GDC-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
