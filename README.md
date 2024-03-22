@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Dragon’s Dogma predicted the future of good games](https://www.polygon.com/24106890/why-dragons-dogma-is-good)
- - [This Soulslike RPG from the makers of the Ori series is steeped in lore and intrigue](https://www.pcgamer.com/games/rpg/this-soulslike-rpg-from-the-makers-of-the-ori-series-is-steeped-in-lore-and-intrigue)
- - [How to start a new game in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-start-new-game-delete-save)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 25 – 29](https://news.xbox.com/en-us/2024/03/22/next-week-on-xbox-new-games-for-march-25-29/)
+ - [Unicorn Overlord is beautiful in its complexity](https://www.polygon.com/reviews/24106947/unicorn-overlord-review-vanillaware-sega-atlus)
+ - [Spending all day with MSI&#39;s disappointing new gaming laptops I&#39;ve learned it&#39;s not just what&#39;s inside that counts](https://www.pcgamer.com/hardware/gaming-laptops/spending-all-day-with-msis-disappointing-new-gaming-laptops-ive-learned-its-not-just-whats-inside-that-counts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
