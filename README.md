@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Other movies: \u201cThat still counts as one!\u201d](http://9gag.com/gag/a1mpWQ2)
- - ⏩ [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 👉 [Not surprised.](http://9gag.com/gag/aD2R4W7)<!-- MEMES:END -->
+ - 💣 [New York is now a parallel universe](http://9gag.com/gag/axyE9mM)
+ - ⏩ [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 👉 [Title](http://9gag.com/gag/ayNExP8)<!-- MEMES:END -->
 
 ---
 
