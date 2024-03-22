@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 pawns and how they work](https://www.pcgamer.com/games/rpg/dragons-dogma-2-pawns)
- - [How to defeat cyclops in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-cyclops-how-to-beat)
- - [How to make fruit roborant in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-fruit-roborant-medicament-predicament)<!-- GAME:END -->
+ - [Qualcomm claims Windows games &#39;just work&#39; on its new Arm laptop chip](https://www.pcgamer.com/hardware/gaming-laptops/qualcomm-claims-windows-games-just-work-on-its-new-arm-laptop-chip)
+ - [&#39;It took a while, we know&#39;: Epic Games is introducing a first-person camera, which I&#39;ll probably just use to look at all the Peter Griffin skins](https://www.pcgamer.com/games/third-person-shooter/it-took-a-while-we-know-epic-games-is-introducing-a-first-person-camera-which-ill-probably-just-use-to-look-at-all-the-peter-griffin-skins)
+ - [The Dragon&#39;s Dogma 2 microtransactions are real and bafflingly silly, since nearly all of them can be found in the game without too much trouble](https://www.pcgamer.com/games/rpg/the-dragons-dogma-2-microtransactions-are-real-and-bafflingly-silly-since-nearly-all-of-them-can-be-found-in-the-game-without-too-much-trouble)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
