@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - ⏩ [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
+ - 💣 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)
+ - ⏩ [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
+ - 👉 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)<!-- MEMES:END -->
 
 ---
 
