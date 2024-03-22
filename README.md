@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s Truth Social is going public via SPAC after DWAC shareholders approve the merger; TMTG will be listed on Nasdaq as early as next week &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240322/p11#a240322p11)
- - [What’s on your desk, Joanna Nelius?](https://www.theverge.com/24106808/desk-tech-lenovo-typewriter)
- - [Android 15 makes physical keyboards easier to use](https://www.androidauthority.com/android-15-physical-keyboards-3427661/)<!-- TECH:END -->
+ - [Batman spinoff The Penguin is pure crime drama in first trailer](https://www.theverge.com/24108730/the-penguin-trailer-max-batman)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Apple stuff including a business card signed by Steve Jobs sold at auction for big money](https://appleinsider.com/articles/24/03/22/apple-stuff-including-a-business-card-signed-by-steve-jobs-sold-at-auction-for-big-money?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
