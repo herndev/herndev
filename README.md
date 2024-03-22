@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - ⏩ [Love is for idiots.](http://9gag.com/gag/a87d3NY)
- - 👉 [London Business trip](http://9gag.com/gag/aAyBe69)<!-- MEMES:END -->
+ - 💣 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
+ - ⏩ [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
+ - 👉 [Jim Carrey&#39;s Oscar speech will forever be legendary](http://9gag.com/gag/aXPZjrd)<!-- MEMES:END -->
 
 ---
 
