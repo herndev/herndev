@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Set Forth on Your Grand Adventure, Arisen! Dragon’s Dogma 2 Now Available](https://www.xbox.com/en-US/games/store/dragons-dogma-2-deluxe-edition/9P9L5BX6735Q/0017)
- - [Path of Exile 2&#39;s beta delayed from June &#39;until later in the year&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2s-beta-delayed-from-june-until-later-in-the-year)
- - [Dragon&#39;s Dogma 2: The best settings for your PC](https://www.pcgamer.com/hardware/dragons-dogma-2-the-best-settings-for-your-pc)<!-- GAME:END -->
+ - [The best Fighter build for beginners in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107905/fighter-build-best-skills-augments-equipment)
+ - [The best Thief build for beginners in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107899/thief-build-best-skills-augments-equipment)
+ - [How to get into Battahl in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24106986/battahl-how-to-enter-pass-gate-human-beastren)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
