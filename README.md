@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dragon Ball s](http://9gag.com/gag/aZZqyX9)
- - ⏩ [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 👉 [So many to choose from](http://9gag.com/gag/aMVejmx)<!-- MEMES:END -->
+ - 💣 [Good guy Amish](http://9gag.com/gag/aBy9xXA)
+ - ⏩ [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
+ - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
 
 ---
 
