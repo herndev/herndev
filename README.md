@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - ⏩ [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
- - 👉 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)<!-- MEMES:END -->
+ - 💣 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)
+ - ⏩ [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
+ - 👉 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)<!-- MEMES:END -->
 
 ---
 
