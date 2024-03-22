@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Set Forth on Your Grand Adventure, Arisen! Dragon’s Dogma 2 Now Available](https://www.xbox.com/en-US/games/store/dragons-dogma-2-deluxe-edition/9P9L5BX6735Q/0017)
  - [Path of Exile 2&#39;s beta delayed from June &#39;until later in the year&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2s-beta-delayed-from-june-until-later-in-the-year)
- - [Dragon&#39;s Dogma 2: The best settings for your PC](https://www.pcgamer.com/hardware/dragons-dogma-2-the-best-settings-for-your-pc)
- - [5 crucial changes in Diablo 4&#39;s gigantic season 4 rework](https://www.pcgamer.com/games/action/5-changes-diablo-4-season-4-rework)<!-- GAME:END -->
+ - [Dragon&#39;s Dogma 2: The best settings for your PC](https://www.pcgamer.com/hardware/dragons-dogma-2-the-best-settings-for-your-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
