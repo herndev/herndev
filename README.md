@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
- - ⏩ [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 👉 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)<!-- MEMES:END -->
+ - 💣 [Bro won](http://9gag.com/gag/a87d67p)
+ - ⏩ [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
+ - 👉 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)<!-- MEMES:END -->
 
 ---
 
