@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Worlds Beyond Number is a master class in narrative-style D&amp;D](https://www.polygon.com/24105875/worlds-beyond-number-narrative-style-adventure)
- - [&#39;The Automaton front needs reinforcements&#39;: Helldivers 2 players are pleading for help for a bot-threatened planet, but no one&#39;s stepping up](https://www.pcgamer.com/games/third-person-shooter/the-automaton-front-needs-reinforcements-helldivers-2-players-are-pleading-for-help-for-a-bot-threatened-planet-but-no-ones-stepping-up)
- - [New Sonic Game Leaks, Looks Like Fall Guys](https://kotaku.com/new-sonic-game-leak-trailer-toys-party-fall-guys-1851363240)<!-- GAME:END -->
+ - [Get Ready to Flex in Grounded with the Upcoming Fully Yoked 1.4 Update](https://news.xbox.com/en-us/2024/03/25/grounded-with-fully-yoked-1-4-update-announce/)
+ - [I put nearly 100 hours into Dragon&#39;s Dogma 2 before I realised it was all just a tutorial for the Warfarer vocation](https://www.pcgamer.com/games/rpg/i-put-nearly-100-hours-into-dragons-dogma-2-before-i-realised-it-was-all-just-a-tutorial-for-the-warfarer-vocation)
+ - [When does Honkai: Star Rail 2.1 release?](https://www.polygon.com/honkai-star-rail-guides/24111485/version-2-1-release-maintenance-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
