@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Teams with the Atlanta Dream to Host Inaugural HoopFest Block Party Celebrating 404 Day](https://news.xbox.com/en-us/2024/03/25/xbox-teams-with-the-atlanta-dream-to-host-hoopfest/)
- - [Dragon&#39;s Dogma 2 Prey for the Pack: Where to find Rodge](https://www.pcgamer.com/games/rpg/dragons-dogma-2-prey-for-the-pack-rodge-location)
- - [&#39;I&#39;ll give you one week!&#39; FF14&#39;s director Yoshi-P wanted to start Dawntrail&#39;s early access period earlier, but then that pesky Elden Ring DLC announcement happened](https://www.pcgamer.com/games/final-fantasy/ill-give-you-one-week-ff14s-director-yoshi-p-wanted-to-start-dawntrails-early-access-period-earlier-but-then-that-pesky-elden-ring-dlc-announcement-happened)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 will soon let you start a new game without deleting your save first](https://www.polygon.com/24111281/dragons-dogma-2-update-patch-roadmap-new-game)
+ - [Microsoft&#39;s new patent promises more efficient ray tracing for the Xbox and that could be a real boon for AMD&#39;s graphics cards too](https://www.pcgamer.com/hardware/graphics-cards/microsofts-new-patent-promises-more-efficient-ray-tracing-for-the-xbox-and-that-could-be-a-real-boon-for-amds-graphics-cards-too)
+ - [Xbox Teams with the Atlanta Dream to Host Inaugural HoopFest Block Party Celebrating 404 Day](https://news.xbox.com/en-us/2024/03/25/xbox-teams-with-the-atlanta-dream-to-host-hoopfest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
