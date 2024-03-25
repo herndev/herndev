@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 will soon let you start a new game without deleting your save first](https://www.polygon.com/24111281/dragons-dogma-2-update-patch-roadmap-new-game)
- - [Microsoft&#39;s new patent promises more efficient ray tracing for the Xbox and that could be a real boon for AMD&#39;s graphics cards too](https://www.pcgamer.com/hardware/graphics-cards/microsofts-new-patent-promises-more-efficient-ray-tracing-for-the-xbox-and-that-could-be-a-real-boon-for-amds-graphics-cards-too)
- - [Xbox Teams with the Atlanta Dream to Host Inaugural HoopFest Block Party Celebrating 404 Day](https://news.xbox.com/en-us/2024/03/25/xbox-teams-with-the-atlanta-dream-to-host-hoopfest/)<!-- GAME:END -->
+ - [The most anticipated movies of spring 2024](https://www.polygon.com/24098600/best-new-movies-spring-2024-release-calendar-schedule)
+ - [The must-read books of spring 2024](https://www.polygon.com/24100397/book-preview-spring-2024)
+ - [The most anticipated TV shows of spring 2024](https://www.polygon.com/24098601/best-new-tv-spring-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
