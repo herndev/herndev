@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amber pls](http://9gag.com/gag/aVvjmKK)
- - ⏩ [Adding `Smuggling large dildos to China` to my list of funny future crimes.](http://9gag.com/gag/axyEb0L)
- - 👉 [What to put as a title](http://9gag.com/gag/aD2RZmO)<!-- MEMES:END -->
+ - 💣 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
+ - ⏩ [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 👉 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)<!-- MEMES:END -->
 
 ---
 
