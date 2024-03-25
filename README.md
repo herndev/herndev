@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AliExpress and Temu were the fastest-growing ecommerce apps in South Korea in 2023; Nomura: Chinese websites account for only ~2% of South Korean ecommerce GMV &lpar;Financial Times&rpar;](http://www.techmeme.com/240325/p1#a240325p1)
- - [A look at The Financial Times&#39; Claude-powered AI chatbot Ask FT, which is trained on FT&#39;s articles and available to some subscribers in the FT Professional tier &lpar;The Verge&rpar;](http://www.techmeme.com/240324/p11#a240324p11)
- - [Samsung Galaxy S23 Deals: Save $150 at Amazon&#39;s Big Spring Sale Plus Big Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy Watch 7 could get a serious storage upgrade across its three models](https://www.androidauthority.com/samsung-galaxy-watch-7-storage-upgrade-3428287/)
+ - [It’s only taken 17 years: Apple could finally offer this Android home screen feature on iOS 18](https://www.androidauthority.com/apple-copy-android-more-customizable-home-screen-3427873/)
+ - [Sources: iOS 18 will give iPhone users greater control over Home Screen app arrangement, including the ability to create blank spaces, rows, and columns &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240325/p2#a240325p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
