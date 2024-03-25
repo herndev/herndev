@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda teases The Elder Scrolls 6 in anniversary message and brags its developers are already &#39;playing early builds&#39; and loving it](https://www.pcgamer.com/games/rpg/bethesda-teases-the-elder-scrolls-6-in-anniversary-message-and-brags-its-developers-are-already-playing-early-builds-and-loving-it)
- - [Helldivers 2 CEO says they&#39;ll &#39;never&#39; turn off friendly fire: &#39;We would have to turn off bullet damage against enemies as well&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-says-theyll-never-turn-off-friendly-fire-we-would-have-to-turn-off-bullet-damage-against-enemies-as-well)
- - [Overwatch 2 has killed any remaining hope for its future PvE missions, with the mode being scrapped in favour of going all-in on PvP](https://www.pcgamer.com/games/fps/overwatch-2-has-killed-any-remaining-hope-for-its-future-pve-missions-with-the-mode-being-scrapped-in-favour-of-going-all-in-on-pvp)<!-- GAME:END -->
+ - [Mega Blocks’ Xbox 360 replica is bricked out of the box, and it’s $50 off](https://www.polygon.com/deals/24111655/xbox-360-mega-blocks-target-deal-sale)
+ - [FF7 Rebirth’s Best Materia To Give Your Characters New Abilities](https://kotaku.com/final-fantasy-7-ff7-rebirth-materia-assess-1851364040)
+ - [‘A Beggar’s Tale’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110755/a-beggars-tale-quest-walkthrough-follow-albert)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
