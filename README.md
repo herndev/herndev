@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mega Blocks’ Xbox 360 replica is bricked out of the box, and it’s $50 off](https://www.polygon.com/deals/24111655/xbox-360-mega-blocks-target-deal-sale)
- - [FF7 Rebirth’s Best Materia To Give Your Characters New Abilities](https://kotaku.com/final-fantasy-7-ff7-rebirth-materia-assess-1851364040)
- - [‘A Beggar’s Tale’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110755/a-beggars-tale-quest-walkthrough-follow-albert)<!-- GAME:END -->
+ - [Don&#39;t be fooled by a fake Joel: Helldivers 2&#39;s game master probably didn&#39;t drop an unreleased vehicle into a random player&#39;s game, but someone did](https://www.pcgamer.com/games/third-person-shooter/dont-be-fooled-by-a-fake-joel-helldivers-2s-game-master-probably-didnt-drop-an-unreleased-vehicle-into-a-random-players-game-but-someone-did)
+ - [Our Flag Means Death star Vico Ortiz built a whole lifestyle around Star Wars](https://www.polygon.com/star-wars/24106095/vico-ortiz-star-wars-fandom-dream-role-our-flag-means-death)
+ - [Remedy&#39;s multiplayer Control spinoff won&#39;t be free to play: expect a &#39;lower initial price&#39; followed by live service updates](https://www.pcgamer.com/games/third-person-shooter/remedys-multiplayer-control-spinoff-wont-be-free-to-play-expect-a-lower-initial-price-followed-by-live-service-updates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
