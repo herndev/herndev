@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
- - ⏩ [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
- - 👉 [The truth is actually frightening. Why?](http://9gag.com/gag/a9yjzWZ)<!-- MEMES:END -->
+ - 💣 [Well that&#39;s interesting so most people are normal](http://9gag.com/gag/a5QpG7V)
+ - ⏩ [It&#39;s refreshing to see a Karen with a good sense of humor.](http://9gag.com/gag/a6Zr5j9)
+ - 👉 [Woof](http://9gag.com/gag/a6Zr5AL)<!-- MEMES:END -->
 
 ---
 
