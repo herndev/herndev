@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The most anticipated movies of spring 2024](https://www.polygon.com/24098600/best-new-movies-spring-2024-release-calendar-schedule)
- - [The must-read books of spring 2024](https://www.polygon.com/24100397/book-preview-spring-2024)
- - [The most anticipated TV shows of spring 2024](https://www.polygon.com/24098601/best-new-tv-spring-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
+ - [Worlds Beyond Number is a master class in narrative-style D&amp;D](https://www.polygon.com/24105875/worlds-beyond-number-narrative-style-adventure)
+ - [&#39;The Automaton front needs reinforcements&#39;: Helldivers 2 players are pleading for help for a bot-threatened planet, but no one&#39;s stepping up](https://www.pcgamer.com/games/third-person-shooter/the-automaton-front-needs-reinforcements-helldivers-2-players-are-pleading-for-help-for-a-bot-threatened-planet-but-no-ones-stepping-up)
+ - [New Sonic Game Leaks, Looks Like Fall Guys](https://kotaku.com/new-sonic-game-leak-trailer-toys-party-fall-guys-1851363240)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
