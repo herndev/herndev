@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 mind-blowing things you can do with ChatGPT-4 Vision](https://www.androidauthority.com/chatgpt-4-vision-capabilities-3428340/)
- - [Consumers pile on Apple with App Store monopoly class action suits](https://appleinsider.com/articles/24/03/25/consumers-pile-on-apple-with-app-store-monopoly-class-action-suits?utm_medium=rss)
- - [Microsoft Copilot vs Copilot Pro: Is the subscription worth $20?](https://www.androidauthority.com/microsoft-copilot-vs-copilot-pro-3428379/)<!-- TECH:END -->
+ - [Apple&#39;s big WWDC 2024 announcement may be an AI App Store](https://appleinsider.com/articles/24/03/25/apples-big-wwdc-2024-announcement-may-be-an-ai-app-store?utm_medium=rss)
+ - [Yet another sealed 4GB original iPhone brings in over $100,000 at auction](https://appleinsider.com/articles/24/03/25/yet-another-sealed-4gb-original-iphone-brings-in-over-100000-at-auction?utm_medium=rss)
+ - [T-Mobile unveils a “Secret Baseball Button” alongside free MLB TV subscription](https://www.androidauthority.com/t-mobile-secret-baseball-3428479/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
