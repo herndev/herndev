@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung secretly launches its cheapest S-series tablet for 2024](https://www.androidauthority.com/galaxy-tab-s6-lite-2024-launched-3428506/)
- - [Global Screening Services, which is developing a sanctions-screening service to help financial institutions comply with regulations, raised a $47M Series A2 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240325/p21#a240325p21)
- - [How to Take Advantage of the Samsung Free TV Promotion &lpar;2024&rpar;](https://www.wired.com/story/samsung-buy-one-get-one-tv-deal-2024/)<!-- TECH:END -->
+ - [New iPhone comparison page tells you why you need to upgrade](https://appleinsider.com/articles/24/03/25/new-iphone-comparison-page-tells-you-why-you-need-to-upgrade?utm_medium=rss)
+ - [macOS Sonoma update fixes USB hubs, Java crashes, and more](https://appleinsider.com/articles/24/03/25/macos-sonoma-update-fixes-usb-hubs-java-crashes-and-more?utm_medium=rss)
+ - [Google removes Pixel 6a from official store, pushes Pixel 7a instead](https://www.androidauthority.com/google-pixel-6a-removed-store-3428543/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
