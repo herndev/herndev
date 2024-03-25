@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s big WWDC 2024 announcement may be an AI App Store](https://appleinsider.com/articles/24/03/25/apples-big-wwdc-2024-announcement-may-be-an-ai-app-store?utm_medium=rss)
- - [Yet another sealed 4GB original iPhone brings in over $100,000 at auction](https://appleinsider.com/articles/24/03/25/yet-another-sealed-4gb-original-iphone-brings-in-over-100000-at-auction?utm_medium=rss)
- - [T-Mobile unveils a “Secret Baseball Button” alongside free MLB TV subscription](https://www.androidauthority.com/t-mobile-secret-baseball-3428479/)<!-- TECH:END -->
+ - [Samsung secretly launches its cheapest S-series tablet for 2024](https://www.androidauthority.com/galaxy-tab-s6-lite-2024-launched-3428506/)
+ - [Global Screening Services, which is developing a sanctions-screening service to help financial institutions comply with regulations, raised a $47M Series A2 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240325/p21#a240325p21)
+ - [How to Take Advantage of the Samsung Free TV Promotion &lpar;2024&rpar;](https://www.wired.com/story/samsung-buy-one-get-one-tv-deal-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
