@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge dismisses X&#39;s lawsuit against CCDH, saying the lawsuit had been brought as a means toward &quot;punishing the defendants for their speech&quot; &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240325/p13#a240325p13)
- - [Deal of the day: Sonos Beam 2 soundbar drops to $399](https://appleinsider.com/articles/24/03/25/deal-of-the-day-sonos-beam-2-soundbar-drops-to-399?utm_medium=rss)
- - [Ron DeSantis signs bill requiring parental consent for kids under 16 to hold social media accounts](https://www.theverge.com/2024/3/25/24087979/florida-desantis-social-media-age-verification-parental-consent-law)<!-- TECH:END -->
+ - [Judge tosses Elon Musk’s X lawsuit against anti-hate group](https://www.theverge.com/2024/3/25/24091143/elon-musk-x-ccdh-lawsuit-dismissed)
+ - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)
+ - [Want to photograph the eclipse with your phone? NASA has some tips for you](https://www.androidauthority.com/camera-phone-eclipse-3428448/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
