@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 7 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
- - [Apple TV+ was announced five years ago on March 25, 2019](https://appleinsider.com/articles/24/03/25/apple-tv-was-announced-five-years-ago-on-march-25-2019?utm_medium=rss)
- - [The 116 Best Amazon Big Spring Sale Deals to Shop on the Final Day     - CNET](https://www.cnet.com/deals/the-116-best-amazon-big-spring-sale-deals-to-shop-on-final-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
+ - [Microsoft is making Chrome’s text rendering better on Windows](https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements)
+ - [FundGuard, which offers an AI accounting platform for asset managers, raised a $100M Series C led by Key1 Capital, taking its funding to $150M since 2018 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240325/p8#a240325p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
