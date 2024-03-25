@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung launches 2024 TV line, get a free 65-inch TV with $999 model](https://appleinsider.com/articles/24/03/22/samsung-launches-2024-tv-line-get-a-free-65-inch-tv-with-preorder-deal?utm_medium=rss)
- - [Some users on Instagram and Threads complain that a new setting to limit political content, which Meta announced in February, is enabled by default &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240322/p24#a240322p24)
- - [March Madness 2024: How to Watch, Stream the Men&#39;s Basketball Tournament Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-stream-the-mens-basketball-tournament-friday-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Home Deals: Save Up to $81 in Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
+ - [Analysis: Jeff Bezos, Peter Thiel, and Mark Zuckerberg lead a group of insiders selling their company stocks in Q1, a sign that the tech bull run may be peaking &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p8#a240324p8)
+ - [Get a Stylish New Pair of Glasses During GlassesUSA&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/get-a-stylish-new-pair-of-glasses-during-glassesusas-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
