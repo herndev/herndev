@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Netflix co-CEOs Greg Peters, who is obsessed with data, and Ted Sarandos, who loves working with talent, overcame differences to make the partnership work &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240325/p4#a240325p4)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Spotify adds video learning courses in latest experiment](https://www.theverge.com/2024/3/25/24110545/spotify-online-courses-learning-video-test-uk-skillshare-bbc-maestro-playvirtuoso)<!-- TECH:END -->
+ - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
+ - [Spotify launches online courses from BBC Maestro, Skillshare, and others, covering music, business, and more, as an experiment in the UK on mobile and desktop &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240325/p7#a240325p7)
+ - [Nigeria files tax evasion charges against Binance and executives Tigran Gambaryan and Nadeem Anjarwalla, detained since February; reports say Anjarwalla escaped &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/240325/p6#a240325p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
