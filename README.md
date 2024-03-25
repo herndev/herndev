@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
- - ⏩ [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
- - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
+ - 💣 [Amber pls](http://9gag.com/gag/aVvjmKK)
+ - ⏩ [Adding `Smuggling large dildos to China` to my list of funny future crimes.](http://9gag.com/gag/axyEb0L)
+ - 👉 [What to put as a title](http://9gag.com/gag/aD2RZmO)<!-- MEMES:END -->
 
 ---
 
