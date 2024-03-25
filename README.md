@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Watch 7 could get a serious storage upgrade across its three models](https://www.androidauthority.com/samsung-galaxy-watch-7-storage-upgrade-3428287/)
- - [It’s only taken 17 years: Apple could finally offer this Android home screen feature on iOS 18](https://www.androidauthority.com/apple-copy-android-more-customizable-home-screen-3427873/)
- - [Sources: iOS 18 will give iPhone users greater control over Home Screen app arrangement, including the ability to create blank spaces, rows, and columns &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240325/p2#a240325p2)<!-- TECH:END -->
+ - [Telegram’s new feature gives you free Premium subscriptions, but it’s a privacy nightmare](https://www.androidauthority.com/telegram-premium-p2p-privacy-nightmare-3428294/)
+ - [Download these travel wallpapers for your phone](https://www.androidauthority.com/travel-wallpapers-phone-3427707/)
+ - [The Galaxy Watch 7 could get a serious storage upgrade across its three models](https://www.androidauthority.com/samsung-galaxy-watch-7-storage-upgrade-3428287/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
