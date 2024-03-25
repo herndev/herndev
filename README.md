@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Palastinians are like children who don\u2019t understand the meaning of consequences #FAFO](http://9gag.com/gag/aBy9V61)
- - ⏩ [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
- - 👉 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)<!-- MEMES:END -->
+ - 💣 [Not today. Keep walking clown](http://9gag.com/gag/aO8oZAy)
+ - ⏩ [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 👉 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)<!-- MEMES:END -->
 
 ---
 
