@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What our shopping haul taught us about the promise of AI](https://www.theverge.com/24087909/ai-shopping-tools-fashion-tech-finesse-pebblely-ecommerce)
- - [New robotic mower, smart garden watering, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/03/25/new-robotic-mower-smart-garden-watering-and-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Crypto exchange CommEX, which bought Binance&#39;s former Russian operations in September 2023, plans to shut down its website on May 10, 2024 &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240325/p11#a240325p11)<!-- TECH:END -->
+ - [Q&amp;A with tech expert Dan Wang on how China views the US&#39; TikTok crackdown, why Chinese state media is keeping its powder dry, possible retaliation, and more &lpar;Ravi Mattu/New York Times&rpar;](http://www.techmeme.com/240325/p12#a240325p12)
+ - [Final Day of Amazon&#39;s Big Spring Sale Cuts Beams Indoor and Outdoor Lighting Pricing     - CNET](https://www.cnet.com/deals/final-day-of-amazons-big-spring-sale-cuts-beams-indoor-and-outdoor-lighting-pricing/#ftag=CAD590a51e)
+ - [6 Female Finance Influencers Changing the Way We Think About Money     - CNET](https://www.cnet.com/personal-finance/banking/6-female-finance-influencers-changing-the-way-we-think-about-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
