@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t be fooled by a fake Joel: Helldivers 2&#39;s game master probably didn&#39;t drop an unreleased vehicle into a random player&#39;s game, but someone did](https://www.pcgamer.com/games/third-person-shooter/dont-be-fooled-by-a-fake-joel-helldivers-2s-game-master-probably-didnt-drop-an-unreleased-vehicle-into-a-random-players-game-but-someone-did)
- - [Our Flag Means Death star Vico Ortiz built a whole lifestyle around Star Wars](https://www.polygon.com/star-wars/24106095/vico-ortiz-star-wars-fandom-dream-role-our-flag-means-death)
- - [Remedy&#39;s multiplayer Control spinoff won&#39;t be free to play: expect a &#39;lower initial price&#39; followed by live service updates](https://www.pcgamer.com/games/third-person-shooter/remedys-multiplayer-control-spinoff-wont-be-free-to-play-expect-a-lower-initial-price-followed-by-live-service-updates)<!-- GAME:END -->
+ - [Where to find Mystery Boxes in Stardew Valley](https://www.polygon.com/guides/24107906/stardew-valley-sdv-mystery-box-locations-unlock-open)
+ - [Cozy MMO Palia welcomes new players with a startlingly large stuffed frog for its Steam launch](https://www.pcgamer.com/games/mmo/cozy-mmo-palia-welcomes-new-players-with-a-startlingly-large-stuffed-frog-for-its-steam-launch)
+ - [‘The Phantom Oxcart’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24111543/phantom-oxcart-quest-walkthrough-location-start-navil-disguise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
