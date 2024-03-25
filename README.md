@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His reaction](http://9gag.com/gag/a7ovoKr)
- - ⏩ [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 👉 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)<!-- MEMES:END -->
+ - 💣 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - ⏩ [How stupid can you be? Caran - Yesss](http://9gag.com/gag/a87d7dV)
+ - 👉 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)<!-- MEMES:END -->
 
 ---
 
