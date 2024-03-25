@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 Ultra Standing Grip Case review: Get a grip](https://www.androidauthority.com/samsung-galaxy-s24-ultra-standing-grip-case-review-3426947/)
- - [A look at the rise of free-to-use AI chatbots claiming to help with teens&#39; mental health struggles, as experts disagree about whether the chatbots are effective &lpar;Matthew Perrone/Associated Press&rpar;](http://www.techmeme.com/240325/p3#a240325p3)
- - [Refresh Your Android Phone&#39;s Browser by Clearing Out Its Cache, Cookies     - CNET](https://www.cnet.com/tech/mobile/refresh-your-android-phones-browser-by-clearing-out-its-cache-cookies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Netflix co-CEOs Greg Peters, who is obsessed with data, and Ted Sarandos, who loves working with talent, overcame differences to make the partnership work &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240325/p4#a240325p4)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Spotify adds video learning courses in latest experiment](https://www.theverge.com/2024/3/25/24110545/spotify-online-courses-learning-video-test-uk-skillshare-bbc-maestro-playvirtuoso)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
