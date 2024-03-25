@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro won](http://9gag.com/gag/a87d67p)
- - ⏩ [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
- - 👉 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)<!-- MEMES:END -->
+ - 💣 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
+ - ⏩ [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 👉 [Insta](http://9gag.com/gag/aAyB60d)<!-- MEMES:END -->
 
 ---
 
