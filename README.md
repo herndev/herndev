@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monorail](http://9gag.com/gag/ae9K1ZB)
- - ⏩ [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
- - 👉 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)<!-- MEMES:END -->
+ - 💣 [Hearing how Jerry Trainor, Spender from iCarly, used to protect his young co stars from their creepy and abusive boss Dan Schiender by doing crazy things in order to take his attention away from them, turning up on set on days he wasn\u2019t meant to be there to keep an eye on Dan and](http://9gag.com/gag/a2vE0op)
+ - ⏩ [This is a 20-Year-Old Game](http://9gag.com/gag/apRK37M)
+ - 👉 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)<!-- MEMES:END -->
 
 ---
 
