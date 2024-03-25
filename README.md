@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge tosses Elon Musk’s X lawsuit against anti-hate group](https://www.theverge.com/2024/3/25/24091143/elon-musk-x-ccdh-lawsuit-dismissed)
- - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)
- - [Want to photograph the eclipse with your phone? NASA has some tips for you](https://www.androidauthority.com/camera-phone-eclipse-3428448/)<!-- TECH:END -->
+ - [9 mind-blowing things you can do with ChatGPT-4 Vision](https://www.androidauthority.com/chatgpt-4-vision-capabilities-3428340/)
+ - [Consumers pile on Apple with App Store monopoly class action suits](https://appleinsider.com/articles/24/03/25/consumers-pile-on-apple-with-app-store-monopoly-class-action-suits?utm_medium=rss)
+ - [Microsoft Copilot vs Copilot Pro: Is the subscription worth $20?](https://www.androidauthority.com/microsoft-copilot-vs-copilot-pro-3428379/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
