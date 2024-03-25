@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with tech expert Dan Wang on how China views the US&#39; TikTok crackdown, why Chinese state media is keeping its powder dry, possible retaliation, and more &lpar;Ravi Mattu/New York Times&rpar;](http://www.techmeme.com/240325/p12#a240325p12)
- - [Final Day of Amazon&#39;s Big Spring Sale Cuts Beams Indoor and Outdoor Lighting Pricing     - CNET](https://www.cnet.com/deals/final-day-of-amazons-big-spring-sale-cuts-beams-indoor-and-outdoor-lighting-pricing/#ftag=CAD590a51e)
- - [6 Female Finance Influencers Changing the Way We Think About Money     - CNET](https://www.cnet.com/personal-finance/banking/6-female-finance-influencers-changing-the-way-we-think-about-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US judge dismisses X&#39;s lawsuit against CCDH, saying the lawsuit had been brought as a means toward &quot;punishing the defendants for their speech&quot; &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240325/p13#a240325p13)
+ - [Deal of the day: Sonos Beam 2 soundbar drops to $399](https://appleinsider.com/articles/24/03/25/deal-of-the-day-sonos-beam-2-soundbar-drops-to-399?utm_medium=rss)
+ - [Ron DeSantis signs bill requiring parental consent for kids under 16 to hold social media accounts](https://www.theverge.com/2024/3/25/24087979/florida-desantis-social-media-age-verification-parental-consent-law)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
