@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ready to Flex in Grounded with the Upcoming Fully Yoked 1.4 Update](https://news.xbox.com/en-us/2024/03/25/grounded-with-fully-yoked-1-4-update-announce/)
- - [I put nearly 100 hours into Dragon&#39;s Dogma 2 before I realised it was all just a tutorial for the Warfarer vocation](https://www.pcgamer.com/games/rpg/i-put-nearly-100-hours-into-dragons-dogma-2-before-i-realised-it-was-all-just-a-tutorial-for-the-warfarer-vocation)
- - [When does Honkai: Star Rail 2.1 release?](https://www.polygon.com/honkai-star-rail-guides/24111485/version-2-1-release-maintenance-times)<!-- GAME:END -->
+ - [Get the gift of gibs with Humble’s Boomer Shooter bundle](https://www.polygon.com/deals/24111466/humble-boomer-shooter-bundle-steam-quake-2)
+ - [Elder Scrolls VI Is Playable And Sounds Fun, According To An Update From Bethesda](https://kotaku.com/elder-scrolls-vi-6-tes6-update-release-date-bethesda-1851363646)
+ - [The must-watch anime to look out for in spring 2024](https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
