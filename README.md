@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get the gift of gibs with Humble’s Boomer Shooter bundle](https://www.polygon.com/deals/24111466/humble-boomer-shooter-bundle-steam-quake-2)
- - [Elder Scrolls VI Is Playable And Sounds Fun, According To An Update From Bethesda](https://kotaku.com/elder-scrolls-vi-6-tes6-update-release-date-bethesda-1851363646)
- - [The must-watch anime to look out for in spring 2024](https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming)<!-- GAME:END -->
+ - [Bethesda teases The Elder Scrolls 6 in anniversary message and brags its developers are already &#39;playing early builds&#39; and loving it](https://www.pcgamer.com/games/rpg/bethesda-teases-the-elder-scrolls-6-in-anniversary-message-and-brags-its-developers-are-already-playing-early-builds-and-loving-it)
+ - [Helldivers 2 CEO says they&#39;ll &#39;never&#39; turn off friendly fire: &#39;We would have to turn off bullet damage against enemies as well&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-says-theyll-never-turn-off-friendly-fire-we-would-have-to-turn-off-bullet-damage-against-enemies-as-well)
+ - [Overwatch 2 has killed any remaining hope for its future PvE missions, with the mode being scrapped in favour of going all-in on PvP](https://www.pcgamer.com/games/fps/overwatch-2-has-killed-any-remaining-hope-for-its-future-pve-missions-with-the-mode-being-scrapped-in-favour-of-going-all-in-on-pvp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
