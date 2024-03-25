@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One for the military and veterans lol](http://9gag.com/gag/a87dm9e)
- - ⏩ [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 👉 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)<!-- MEMES:END -->
+ - 💣 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
+ - ⏩ [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
+ - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
 
 ---
 
