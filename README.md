@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well that&#39;s interesting so most people are normal](http://9gag.com/gag/a5QpG7V)
- - ⏩ [It&#39;s refreshing to see a Karen with a good sense of humor.](http://9gag.com/gag/a6Zr5j9)
- - 👉 [Woof](http://9gag.com/gag/a6Zr5AL)<!-- MEMES:END -->
+ - 💣 [15 years?](http://9gag.com/gag/awyNLZD)
+ - ⏩ [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 👉 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)<!-- MEMES:END -->
 
 ---
 
