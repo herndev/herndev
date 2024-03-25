@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Why the MSI Claw has the specs to dominate the handheld PC market](https://www.pcgamer.com/hardware/handheld-gaming-pcs/why-the-msi-claw-has-the-specs-to-dominate-the-handheld-pc-market)
  - [Today&#39;s Wordle answer for Monday, March 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-25-2024)
- - [Iceland&#39;s prime minister favors farming over finance as Bitcoin miners feast on the island&#39;s cheap power](https://www.pcgamer.com/software/icelands-prime-minister-favors-farming-over-finance-as-bitcoin-miners-feast-on-the-islands-cheap-power)
- - [The Elder Scrolls, ranked](https://www.pcgamer.com/best-elder-scrolls-games)<!-- GAME:END -->
+ - [Iceland&#39;s prime minister favors farming over finance as Bitcoin miners feast on the island&#39;s cheap power](https://www.pcgamer.com/software/icelands-prime-minister-favors-farming-over-finance-as-bitcoin-miners-feast-on-the-islands-cheap-power)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
