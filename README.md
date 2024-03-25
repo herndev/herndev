@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘A Beggar’s Tale’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110755/a-beggars-tale-quest-walkthrough-follow-albert)
- - [Hyper Light Drifter&#39;s long-awaited sequel feels like the first game got caught in a transporter accident with Risk of Rain⁠ 2—and I can&#39;t wait for more](https://www.pcgamer.com/games/roguelike/hyper-light-drifters-long-awaited-sequel-feels-like-the-first-game-got-caught-in-a-transporter-accident-with-risk-of-rain-2and-im-digging-it-so-far)
- - [‘The Arisen’s Shadow’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110599/arisens-shadow-quest-walkthrough-confront-pursuer)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 25, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-25-2024)
+ - [Here&#39;s slice and dice, the roguelike RPG where each of your party members is a different die](https://www.pcgamer.com/games/roguelike/heres-slice-and-dice-the-roguelike-rpg-where-each-of-your-party-members-is-a-different-die)
+ - [Nvidia&#39;s RTX 4060, 4060 Ti, and 4070 are set to receive GPU updates, but sadly it looks like they won&#39;t bring any improvements](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-4060-4060-ti-and-4070-are-set-to-receive-gpu-updates-but-sadly-it-looks-like-they-wont-bring-any-improvements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
