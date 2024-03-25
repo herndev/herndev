@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)
- - ⏩ [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
- - 👉 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)<!-- MEMES:END -->
+ - 💣 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
+ - ⏩ [This proves only one thing](http://9gag.com/gag/avy2W6W)
+ - 👉 [France, Please surrender](http://9gag.com/gag/a34v588)<!-- MEMES:END -->
 
 ---
 
