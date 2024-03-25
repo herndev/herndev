@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, March 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-25-2024)
  - [Iceland&#39;s prime minister favors farming over finance as Bitcoin miners feast on the island&#39;s cheap power](https://www.pcgamer.com/software/icelands-prime-minister-favors-farming-over-finance-as-bitcoin-miners-feast-on-the-islands-cheap-power)
- - [The Elder Scrolls, ranked](https://www.pcgamer.com/best-elder-scrolls-games)
- - [Five new Steam games you probably missed &lpar;March 25, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-25-2024)<!-- GAME:END -->
+ - [The Elder Scrolls, ranked](https://www.pcgamer.com/best-elder-scrolls-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
