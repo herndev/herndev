@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram’s new feature gives you free Premium subscriptions, but it’s a privacy nightmare](https://www.androidauthority.com/telegram-premium-p2p-privacy-nightmare-3428294/)
- - [Download these travel wallpapers for your phone](https://www.androidauthority.com/travel-wallpapers-phone-3427707/)
- - [The Galaxy Watch 7 could get a serious storage upgrade across its three models](https://www.androidauthority.com/samsung-galaxy-watch-7-storage-upgrade-3428287/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Ultra Standing Grip Case review: Get a grip](https://www.androidauthority.com/samsung-galaxy-s24-ultra-standing-grip-case-review-3426947/)
+ - [A look at the rise of free-to-use AI chatbots claiming to help with teens&#39; mental health struggles, as experts disagree about whether the chatbots are effective &lpar;Matthew Perrone/Associated Press&rpar;](http://www.techmeme.com/240325/p3#a240325p3)
+ - [Refresh Your Android Phone&#39;s Browser by Clearing Out Its Cache, Cookies     - CNET](https://www.cnet.com/tech/mobile/refresh-your-android-phones-browser-by-clearing-out-its-cache-cookies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
