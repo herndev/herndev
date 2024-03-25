@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Chinese government is phasing out Intel and AMD CPUs and Microsoft&#39;s Windows OS because they don&#39;t fit its new &#39;safe and reliable&#39; guidelines](https://www.pcgamer.com/hardware/the-chinese-government-is-phasing-out-intel-and-amd-cpus-and-microsofts-windows-os-because-they-dont-fit-its-new-safe-and-reliable-guidelines)
- - [MSI&#39;s gaming monitors get huge discounts in Spring Sale](https://www.pcgamer.com/hardware/msis-gaming-monitors-get-huge-discounts-in-spring-sale)
- - [The Elder Scrolls II: Daggerfall review](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-ii-daggerfall-review)<!-- GAME:END -->
+ - [You&#39;ll soon be able to start a new game in Dragon&#39;s Dogma 2 without rooting around your files, as well as change your appearance all you&#39;d like for in-game currency](https://www.pcgamer.com/games/rpg/youll-soon-be-able-to-start-a-new-game-in-dragons-dogma-2-without-rooting-around-your-game-files-as-well-as-change-your-appearance-all-youd-like-for-in-game-currency)
+ - [OpenAI&#39;s GPT-3.5 is the champion of the Street Fighter III LLM Colosseum, beating Mistral on its home turf](https://www.pcgamer.com/software/ai/openais-gpt-35-is-the-champion-of-the-street-fighter-iii-llm-colosseum-beating-mistral-on-its-home-turf)
+ - [The Chinese government is phasing out Intel and AMD CPUs and Microsoft&#39;s Windows OS because they don&#39;t fit its new &#39;safe and reliable&#39; guidelines](https://www.pcgamer.com/hardware/the-chinese-government-is-phasing-out-intel-and-amd-cpus-and-microsofts-windows-os-because-they-dont-fit-its-new-safe-and-reliable-guidelines)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
