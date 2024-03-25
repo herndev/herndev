@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - ⏩ [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
- - 👉 [Expensive case](http://9gag.com/gag/ajPQVM1)<!-- MEMES:END -->
+ - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - ⏩ [Expensive case](http://9gag.com/gag/ajPQVM1)
+ - 👉 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)<!-- MEMES:END -->
 
 ---
 
