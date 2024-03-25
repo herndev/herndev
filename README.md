@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Mystery Boxes in Stardew Valley](https://www.polygon.com/guides/24107906/stardew-valley-sdv-mystery-box-locations-unlock-open)
- - [Cozy MMO Palia welcomes new players with a startlingly large stuffed frog for its Steam launch](https://www.pcgamer.com/games/mmo/cozy-mmo-palia-welcomes-new-players-with-a-startlingly-large-stuffed-frog-for-its-steam-launch)
- - [‘The Phantom Oxcart’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24111543/phantom-oxcart-quest-walkthrough-location-start-navil-disguise)<!-- GAME:END -->
+ - [Helldivers 2 CEO spills the beans on an unreleased &#39;heavy machine gun&#39; with a tripod before immediately correcting himself: &#39;Never mind. There&#39;s so such thing as HMG&#39;](https://www.pcgamer.com/helldivers-2-hmg-heavy-machine-gun-arrowhead-johan-pilestedt)
+ - [Ukraine recreates famous lost salt mine in Minecraft &#39;to tell the world about their history and struggle for freedom&#39;](https://www.pcgamer.com/games/survival-crafting/ukraine-recreates-famous-lost-salt-mine-in-minecraft-to-tell-the-world-about-their-history-and-struggle-for-freedom)
+ - [Where to find Mystery Boxes in Stardew Valley](https://www.polygon.com/guides/24107906/stardew-valley-sdv-mystery-box-locations-unlock-open)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
