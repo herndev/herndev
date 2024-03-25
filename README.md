@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
- - ⏩ [This proves only one thing](http://9gag.com/gag/avy2W6W)
- - 👉 [France, Please surrender](http://9gag.com/gag/a34v588)<!-- MEMES:END -->
+ - 💣 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - ⏩ [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
+ - 👉 [Expensive case](http://9gag.com/gag/ajPQVM1)<!-- MEMES:END -->
 
 ---
 
