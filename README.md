@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;March 25, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-25-2024)
- - [Here&#39;s slice and dice, the roguelike RPG where each of your party members is a different die](https://www.pcgamer.com/games/roguelike/heres-slice-and-dice-the-roguelike-rpg-where-each-of-your-party-members-is-a-different-die)
- - [Nvidia&#39;s RTX 4060, 4060 Ti, and 4070 are set to receive GPU updates, but sadly it looks like they won&#39;t bring any improvements](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-4060-4060-ti-and-4070-are-set-to-receive-gpu-updates-but-sadly-it-looks-like-they-wont-bring-any-improvements)<!-- GAME:END -->
+ - [Iceland&#39;s prime minister favors farming over finance as Bitcoin miners feast on the island&#39;s cheap power](https://www.pcgamer.com/software/icelands-prime-minister-favors-farming-over-finance-as-bitcoin-miners-feast-on-the-islands-cheap-power)
+ - [The Elder Scrolls, ranked](https://www.pcgamer.com/best-elder-scrolls-games)
+ - [Five new Steam games you probably missed &lpar;March 25, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-25-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
