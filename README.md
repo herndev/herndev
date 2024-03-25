@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - ⏩ [Expensive case](http://9gag.com/gag/ajPQVM1)
- - 👉 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)<!-- MEMES:END -->
+ - 💣 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - ⏩ [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - 👉 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)<!-- MEMES:END -->
 
 ---
 
