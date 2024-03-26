@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages now lets some beta testers chit-chat with Gemini](https://www.androidauthority.com/google-messages-gemini-beta-3428944/)
- - [Sources: the US FTC is investigating TikTok over allegedly faulty privacy and data security practices, and could bring a lawsuit or settlement within weeks &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240326/p40#a240326p40)
- - [Is AI the Future of NPCs?](https://www.wired.com/story/artificial-intelligence-ai-non-player-characters-npcs-future/)<!-- TECH:END -->
+ - [Airtable brings AI summarization to paying users](https://www.theverge.com/2024/3/26/24112632/airtable-generative-ai-productivity-summarization)
+ - [The EU publishes draft election security guidelines aimed at platforms with 45M+ regional MAUs that are regulated under the DSA, ahead of elections in June &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240326/p42#a240326p42)
+ - [CNET&#39;s Exclusive Discount Will Save You 30% on Speck Cases     - CNET](https://www.cnet.com/deals/cnets-exclusive-discount-will-save-you-30-on-speck-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
