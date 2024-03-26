@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Hoppip be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24111708/can-hoppip-be-shiny-skiploom-jumpluff)
- - [Today&#39;s Wordle answer for Tuesday, March 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-26-2024)
- - [I&#39;ve been waiting 5 years for the MMO by Journey&#39;s developers to launch on PC, and it&#39;s finally happening in April](https://www.pcgamer.com/games/mmo/ive-been-waiting-5-years-for-the-mmo-by-journeys-developers-to-launch-on-pc-and-its-finally-happening-in-april)<!-- GAME:END -->
+ - [I used to be a frame rate snob but owning a Steam Deck has made me realise the error of my ways](https://www.pcgamer.com/hardware/handheld-gaming-pcs/i-used-to-be-a-frame-rate-snob-but-owning-a-steam-deck-has-made-me-realise-the-error-of-my-ways)
+ - [Free Dragon&#39;s Dogma 2 mod hands RTX 40-series owners a much-needed performance bump](https://www.pcgamer.com/games/rpg/free-dragons-dogma-2-mod-hands-rtx-40-series-owners-a-much-needed-performance-bump)
+ - [Arc weapons shouldn&#39;t crash your game anymore in Helldivers 2, so you can zap to your heart&#39;s content](https://www.pcgamer.com/games/third-person-shooter/arc-weapons-shouldnt-crash-your-game-anymore-in-helldivers-2-so-you-can-zap-to-your-hearts-content)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
