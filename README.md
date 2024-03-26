@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Real Reason Why Some Abortion Pill Patients Go to the ER](https://www.wired.com/story/abortion-pill-supreme-court-er-visit-myth-debunk-mifepristone/)
- - [Audible and Amazon MGM partner to develop  more TV series based on podcasts](https://www.theverge.com/2024/3/26/24112672/audible-amazon-mgm-developing-podcast-tv-shows)
- - [RFK Jr. Announces VP Pick Is Tech Entrepreneur Who Has Given His Campaign a Lot of Money](https://www.wired.com/story/rfk-jr-vp-pick-nicole-shanahan/)<!-- TECH:END -->
+ - [Google Messages now lets some beta testers chit-chat with Gemini](https://www.androidauthority.com/google-messages-gemini-beta-3428944/)
+ - [Sources: the US FTC is investigating TikTok over allegedly faulty privacy and data security practices, and could bring a lawsuit or settlement within weeks &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240326/p40#a240326p40)
+ - [Is AI the Future of NPCs?](https://www.wired.com/story/artificial-intelligence-ai-non-player-characters-npcs-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
