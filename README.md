@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mommy](http://9gag.com/gag/a87d0Mp)
- - ⏩ [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - 👉 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)<!-- MEMES:END -->
+ - 💣 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)
+ - ⏩ [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
+ - 👉 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)<!-- MEMES:END -->
 
 ---
 
