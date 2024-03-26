@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
- - ⏩ [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 👉 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)<!-- MEMES:END -->
+ - 💣 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - ⏩ [Oops](http://9gag.com/gag/aBy9LA1)
+ - 👉 [This proves only one thing](http://9gag.com/gag/avy2W6W)<!-- MEMES:END -->
 
 ---
 
