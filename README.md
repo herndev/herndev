@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RuneScape creators&#39; new MMO has an unorthodox solution for the inevitable waves of bots: Giving you a &#39;legitimate way&#39; to bot the game yourself](https://www.pcgamer.com/games/mmo/runescape-creators-new-mmo-has-an-unorthodox-solution-for-the-inevitable-waves-of-bots-giving-you-a-legitimate-way-to-bot-the-game-yourself)
- - [Some Publishers Reportedly Not Sure Why They Should Keep Supporting Xbox](https://kotaku.com/publishers-not-sure-xbox-ports-europe-sales-low-gdc-1851367132)
- - [Mass Effect 5 exec producer re-emphasises to fans that all the game&#39;s senior leads are trilogy veterans, and here&#39;s who they are](https://www.pcgamer.com/games/rpg/mass-effect-5-exec-producer-re-emphasises-to-fans-that-all-the-games-senior-leads-are-trilogy-veterans-and-heres-who-they-are)<!-- GAME:END -->
+ - [I&#39;ve now played exactly one bullet hell FPS, and I&#39;m ready for this to be the next big genre](https://www.pcgamer.com/games/fps/ive-now-played-exactly-one-bullet-hell-fps-and-im-ready-for-this-to-be-the-next-big-genre)
+ - [You can already save $10 on Princess Peach Showtime! at Woot](https://www.polygon.com/deals/2024/3/26/24112687/princess-peach-showtime-nintendo-switch-deal-sale)
+ - [Losing your watering can is way too easy in Stardew Valley](https://www.polygon.com/gaming/24109142/stardew-valley-tools-updates-watering-can-missing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
