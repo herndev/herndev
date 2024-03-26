@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ad-free Kindle Kids is on sale for the first time since Black Friday](https://www.theverge.com/2024/3/26/24111659/kindle-kids-microsoft-xbox-series-x-princess-peach-showtime-deal-sale)
- - [Xbox Cloud Gaming now has mouse and keyboard support in select games](https://www.theverge.com/2024/3/26/24112659/xbox-cloud-gaming-mouse-and-keyboard-support-preview)
- - [Why the Baltimore Bridge Collapsed so Quickly](https://www.wired.com/story/baltimore-francis-scott-key-bridge-collapse-dali-boat-collision-emergency-mass-casualty-event/)<!-- TECH:END -->
+ - [Greg Joswiak has given a not-so subtle hint about what will be at WWDC](https://appleinsider.com/articles/24/03/26/greg-joswiak-has-given-a-not-so-subtle-hint-about-what-will-be-at-wwdc?utm_medium=rss)
+ - [Apple&#39;s iOS 18 Update Could Be More Exciting Than the iPhone 16     - CNET](https://www.cnet.com/tech/mobile/why-ios-18-could-be-a-bigger-deal-than-the-iphone-16/#ftag=CAD590a51e)
+ - [Most Airlines Still Don&#39;t Let Kids Sit With Their Parents for Free     - CNET](https://www.cnet.com/personal-finance/most-airlines-still-dont-let-kids-sit-with-their-parents-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
