@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chill Out with the Arctic Camo Special Edition Controller](https://news.xbox.com/en-us/2024/03/26/arctic-camo-special-edition/)
- - [This Unreleased Capcom Game Lives On In The Caves Of Dragon&#39;s Dogma 2](https://kotaku.com/dragons-dogma-2-caves-deep-down-capcom-1851364378)
- - [Where to find the bookseller in Stardew Valley](https://www.pcgamer.com/games/life-sim/stardew-valley-bookseller-location)<!-- GAME:END -->
+ - [Everything You Need to Know About Diablo IV Coming to Game Pass](https://news.xbox.com/en-us/2024/03/26/need-to-know-diablo-4-with-game-pass/)
+ - [PC May Not Be The Last Stop For Final Fantasy XVI](https://kotaku.com/final-fantasy-16-ff16-xbox-port-teased-1851366044)
+ - [Intel&#39;s future multi billion dollar mega-fab is set smack-bang on top of multiple neolithic burial sites](https://www.pcgamer.com/hardware/processors/intels-future-multi-billion-dollar-mega-fab-is-set-smack-bang-on-top-of-multiple-neolithic-burial-sites)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
