@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese iPhone demand is more stable than expected](https://appleinsider.com/articles/24/03/26/chinese-iphone-demand-is-more-stable-than-expected?utm_medium=rss)
- - [Fieldguide, which plans to use AI to alleviate an accountant shortage, raised a $30M Series B led by Bessemer, and counts 40 of the top 100 CPA firms as clients &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240326/p10#a240326p10)
- - [Julian Assange Won’t Be Extradited to the US Yet](https://www.wired.com/story/julian-assange-extradite-court-decision-wikileaks/)<!-- TECH:END -->
+ - [iPhone 16 Pro Capture Button rumors boosted by accessory leak](https://appleinsider.com/articles/24/03/26/iphone-16-pro-capture-button-rumors-boosted-by-accessory-leak?utm_medium=rss)
+ - [Filing: Alibaba calls off a Hong Kong IPO for its Cainiao logistics arm, and now plans to buy out all remaining stock held by investors and employees for $3.75B &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240326/p12#a240326p12)
+ - [Spotify down or not working? Here are a few fixes you can try](https://www.androidauthority.com/spotify-not-working-1149414/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
