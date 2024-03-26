@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
- - ⏩ [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
+ - 💣 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
+ - ⏩ [Choose!](http://9gag.com/gag/aKG48w3)
+ - 👉 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)<!-- MEMES:END -->
 
 ---
 
