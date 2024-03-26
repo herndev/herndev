@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops](http://9gag.com/gag/aBy9LA1)
- - ⏩ [Trippy movie, has some backrooms feel](http://9gag.com/gag/aD2RnoB)
- - 👉 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)<!-- MEMES:END -->
+ - 💣 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - ⏩ [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 👉 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)<!-- MEMES:END -->
 
 ---
 
