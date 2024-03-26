@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - ⏩ [Oops](http://9gag.com/gag/aBy9LA1)
- - 👉 [This proves only one thing](http://9gag.com/gag/avy2W6W)<!-- MEMES:END -->
+ - 💣 [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
+ - ⏩ [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
+ - 👉 [I wonder, does this apply to any group of people today?](http://9gag.com/gag/an7evnn)<!-- MEMES:END -->
 
 ---
 
