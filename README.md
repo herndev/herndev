@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - ⏩ [He was a a good boy.](http://9gag.com/gag/abA3WMB)
- - 👉 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)<!-- MEMES:END -->
+ - 💣 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
+ - ⏩ [Extracting coconut milk](http://9gag.com/gag/avy21vW)
+ - 👉 [That&#39;s true tho](http://9gag.com/gag/a87dAR6)<!-- MEMES:END -->
 
 ---
 
