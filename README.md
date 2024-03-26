@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge Plus &lpar;2024&rpar; rumors: Everything we know and want to see](https://www.androidauthority.com/motorola-edge-plus-2024-3390024/)
- - [Google Search will now show you AI-summarized results whether you want them or not](https://www.androidauthority.com/google-search-sge-opt-in-3428572/)
- - [An investigation details the growing black market for Starlink kits being traded and activated illegally, including in regions subject to US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240325/p30#a240325p30)<!-- TECH:END -->
+ - [Google Messages will now issue warnings if you log out or switch accounts](https://www.androidauthority.com/google-messages-logout-screen-3428587/)
+ - [Why Solar Panels Can Add Thousands to Your Home&#39;s Value     - CNET](https://www.cnet.com/home/energy-and-utilities/how-solar-panels-can-add-thousands-to-your-homes-value/#ftag=CAD590a51e)
+ - [Cheapest Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
