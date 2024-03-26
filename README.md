@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First price drop on the 2024 MacBook Air](https://www.androidauthority.com/2024-macbook-air-deal-3428561/)
- - [Apple Sued Over AirTags Privacy: Everything You Need to Know     - CNET](https://www.cnet.com/tech/mobile/apple-sued-over-airtags-privacy-everything-you-need-to-know/#ftag=CAD590a51e)
- - [Best Samsung Galaxy Tab S9 Deals: Up to $800 in Trade-In and More     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft has a new Windows and Surface chief](https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri)
+ - [Q&amp;A with Bluesky CEO Jay Graber on why federation is the future of social media, Threads&#39; fediverse integration, monetization, composable moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240325/p26#a240325p26)
+ - [Telegram’s Peer-to-Peer Login system is a risky way to save $5 a month](https://www.theverge.com/2024/3/25/24111818/telegram-peer-to-peer-login-otp-two-factor-volunteer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
