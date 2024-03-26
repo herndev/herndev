@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages will now issue warnings if you log out or switch accounts](https://www.androidauthority.com/google-messages-logout-screen-3428587/)
- - [Why Solar Panels Can Add Thousands to Your Home&#39;s Value     - CNET](https://www.cnet.com/home/energy-and-utilities/how-solar-panels-can-add-thousands-to-your-homes-value/#ftag=CAD590a51e)
- - [Cheapest Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple could one-up Android with exclusive AI App Store in June](https://www.androidauthority.com/apple-ai-app-store-3428595/)
+ - [Uzbekistan-based e-commerce, fintech, and food delivery platform Uzum raised a $114M Series A at a $1.16B valuation, becoming country&#39;s first unicorn &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240326/p2#a240326p2)
+ - [Best Buy slashes $400 off Apple&#39;s M2 MacBook Air](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
