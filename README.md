@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate South Park: Snow Day! with Four Cool Custom Xbox Series X Consoles](https://news.xbox.com/en-us/2024/03/26/celebrate-south-park-snow-day-sweepstakes/)
- - [&#39;It&#39;s got a fearlessness&#39;: Tales of Kenzera: ZAU lead animator reveals how the cut &#39;melee powerhouse&#39; African boxing style inspired its martial movelist](https://www.pcgamer.com/games/action/its-got-a-fearlessness-tales-of-kenzera-zau-lead-animator-reveals-how-the-cut-melee-powerhouse-african-boxing-style-inspired-its-martial-movelist)
- - [Dead Space 2 players uncover easy money trick hidden right in front of them 13 years after release](https://www.pcgamer.com/games/action/dead-space-2-players-uncover-easy-money-trick-hidden-right-in-front-of-them-13-years-after-release)<!-- GAME:END -->
+ - [Chill Out with the Arctic Camo Special Edition Controller](https://news.xbox.com/en-us/2024/03/26/arctic-camo-special-edition/)
+ - [This Unreleased Capcom Game Lives On In The Caves Of Dragon&#39;s Dogma 2](https://kotaku.com/dragons-dogma-2-caves-deep-down-capcom-1851364378)
+ - [Where to find the bookseller in Stardew Valley](https://www.pcgamer.com/games/life-sim/stardew-valley-bookseller-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
