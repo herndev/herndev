@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - ⏩ [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
- - 👉 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)<!-- MEMES:END -->
+ - 💣 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
+ - ⏩ [Bad ending](http://9gag.com/gag/axyEOXL)
+ - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
 
 ---
 
