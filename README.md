@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you buy the Pixel 7a or wait for the Pixel 8a?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8a-3428097/)
- - [Trump Media &amp; Technology Group shares jumped up to 58% to hit $78.80 on its trading debut before the Nasdaq briefly halted trading, following the DWAC merger &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240326/p20#a240326p20)
- - [Apple Vision Pro China expansion will get a giant boost from Tencent](https://appleinsider.com/articles/24/03/26/apple-vision-pro-china-expansion-will-get-a-giant-boost-from-tencent?utm_medium=rss)<!-- TECH:END -->
+ - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)
+ - [AI search engines review: they are worse than Google at navigational queries, mixed on information queries, and offer helpful citations in exploration queries &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240326/p23#a240326p23)
+ - [Canada plans to toughen foreign investment rules for sectors like AI and quantum computing, as it takes steps to curb China&#39;s influence on key industries &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p22#a240326p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
