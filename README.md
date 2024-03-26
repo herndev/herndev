@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s removable battery standard could change device charging forever](https://appleinsider.com/articles/24/03/26/apples-removable-battery-standard-could-change-device-charging-forever?utm_medium=rss)
- - [Princess Peach: Showtime! is clever and playful, but Peach deserves more](https://www.theverge.com/24112407/princess-peach-showtime-review-nintendo-switch)
- - [A native version of Chrome arrives for Arm-based Windows PCs](https://www.theverge.com/2024/3/26/24112273/chrome-native-windows-on-arm-qualcomm-snapdragon)<!-- TECH:END -->
+ - [Kevin Systrom says AI news app Artifact will stay online for now due to taking &quot;a lot less to run it than we had imagined&quot;, reversing a February shut down date &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240326/p32#a240326p32)
+ - [An interview with Adobe executives about training Firefly on content licensed specifically for AI training, the decision not to scrape the internet, and more &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240326/p31#a240326p31)
+ - [25% off the Kindle Scribe is a bargain for bookworms](https://www.androidauthority.com/kindle-scribe-deal-3428832/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
