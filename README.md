@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro Capture Button rumors boosted by accessory leak](https://appleinsider.com/articles/24/03/26/iphone-16-pro-capture-button-rumors-boosted-by-accessory-leak?utm_medium=rss)
- - [Filing: Alibaba calls off a Hong Kong IPO for its Cainiao logistics arm, and now plans to buy out all remaining stock held by investors and employees for $3.75B &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240326/p12#a240326p12)
- - [Spotify down or not working? Here are a few fixes you can try](https://www.androidauthority.com/spotify-not-working-1149414/)<!-- TECH:END -->
+ - [Disney Plus has a new Hulu-ified logo](https://www.theverge.com/2024/3/26/24112300/disney-plus-new-logo-hulu-green-teal)
+ - [Run a quad monitor setup with iVANKY&#39;s FusionDock Max 1 for MacBook Pro, the first dock to support four displays](https://appleinsider.com/articles/24/03/26/run-a-quad-monitor-setup-with-ivankys-fusiondock-max-1-for-macbook-pro-the-first-dock-to-support-four-displays?utm_medium=rss)
+ - [Which is your favorite Android UX skin? Why do you like it?](https://www.androidauthority.com/poll-favorite-android-ux-skin-3428722/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
