@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
- - ⏩ [Choose!](http://9gag.com/gag/aKG48w3)
- - 👉 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)<!-- MEMES:END -->
+ - 💣 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)
+ - ⏩ [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 👉 [Amber pls](http://9gag.com/gag/aVvjmKK)<!-- MEMES:END -->
 
 ---
 
