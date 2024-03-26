@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve now played exactly one bullet hell FPS, and I&#39;m ready for this to be the next big genre](https://www.pcgamer.com/games/fps/ive-now-played-exactly-one-bullet-hell-fps-and-im-ready-for-this-to-be-the-next-big-genre)
- - [You can already save $10 on Princess Peach Showtime! at Woot](https://www.polygon.com/deals/2024/3/26/24112687/princess-peach-showtime-nintendo-switch-deal-sale)
- - [Losing your watering can is way too easy in Stardew Valley](https://www.polygon.com/gaming/24109142/stardew-valley-tools-updates-watering-can-missing)<!-- GAME:END -->
+ - [‘Readvent of Calamity’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112555/readvent-calamity-quest-walkthrough-ulrika-location-where-to-find)
+ - [Destiny 2 is bringing back 12 fan favorite guns, including monsters like The Recluse and Luna&#39;s Howl, and a meme that could now be OP](https://www.pcgamer.com/games/fps/destiny-2-is-bringing-back-12-fan-favorite-guns-including-monsters-like-the-recluse-and-lunas-howl-and-a-meme-that-could-now-be-op)
+ - [Jack Black Can&#39;t Believe There Isn&#39;t Already A Red Dead Redemption Movie](https://kotaku.com/jack-black-gta-red-dead-redemption-movies-borderlands-1851367544)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
