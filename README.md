@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve been waiting 5 years for the MMO by Journey&#39;s developers to launch on PC, and it&#39;s finally happening in April](https://www.pcgamer.com/games/mmo/ive-been-waiting-5-years-for-the-mmo-by-journeys-developers-to-launch-on-pc-and-its-finally-happening-in-april)
- - [Get To Know Our Team: Shawn – 3rd Party Studio Support Specialist](https://news.xbox.com/en-us/2024/03/25/get-to-know-our-team-shawn-3rd-party-studio-support-specialist/)
- - [Helldivers 2 CEO spills the beans on an unreleased &#39;heavy machine gun&#39; with a tripod before immediately correcting himself: &#39;Never mind. There&#39;s so such thing as HMG&#39;](https://www.pcgamer.com/helldivers-2-hmg-heavy-machine-gun-arrowhead-johan-pilestedt)<!-- GAME:END -->
+ - [Can Hoppip be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24111708/can-hoppip-be-shiny-skiploom-jumpluff)
+ - [Today&#39;s Wordle answer for Tuesday, March 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-26-2024)
+ - [I&#39;ve been waiting 5 years for the MMO by Journey&#39;s developers to launch on PC, and it&#39;s finally happening in April](https://www.pcgamer.com/games/mmo/ive-been-waiting-5-years-for-the-mmo-by-journeys-developers-to-launch-on-pc-and-its-finally-happening-in-april)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
