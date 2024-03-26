@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its show time](http://9gag.com/gag/aXPZ4RD)
- - ⏩ [Hmmm](http://9gag.com/gag/ajPQL41)
- - 👉 [Happened for the first time in my Life\u2026](http://9gag.com/gag/aoym4Yg)<!-- MEMES:END -->
+ - 💣 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
+ - ⏩ [Yes](http://9gag.com/gag/aAyBEGp)
+ - 👉 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)<!-- MEMES:END -->
 
 ---
 
