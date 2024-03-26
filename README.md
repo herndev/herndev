@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
- - ⏩ [Yes](http://9gag.com/gag/aAyBEGp)
- - 👉 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)<!-- MEMES:END -->
+ - 💣 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
+ - ⏩ [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
 
 ---
 
