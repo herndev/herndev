@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could one-up Android with exclusive AI App Store in June](https://www.androidauthority.com/apple-ai-app-store-3428595/)
- - [Uzbekistan-based e-commerce, fintech, and food delivery platform Uzum raised a $114M Series A at a $1.16B valuation, becoming country&#39;s first unicorn &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240326/p2#a240326p2)
- - [Best Buy slashes $400 off Apple&#39;s M2 MacBook Air](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)<!-- TECH:END -->
+ - [Your phone’s stock gallery app just got a fantastic Google Photos upgrade](https://www.androidauthority.com/oneplus-realme-xiaomi-phones-google-photos-integration-gallery-app-3428285/)
+ - [Google Messages will make it easier for you to send a flood of snaps](https://www.androidauthority.com/google-messages-attach-send-multiple-images-3428615/)
+ - [The Mayor of London Enters the Bullshit Cinematic Universe](https://www.wired.com/story/mayor-of-london-sadiq-khan-ulez-conspiracy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
