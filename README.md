@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)
- - ⏩ [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
- - 👉 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)<!-- MEMES:END -->
+ - ⏩ [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - 👉 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)<!-- MEMES:END -->
 
 ---
 
