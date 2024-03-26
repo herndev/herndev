@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kevin Systrom says AI news app Artifact will stay online for now due to taking &quot;a lot less to run it than we had imagined&quot;, reversing a February shut down date &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240326/p32#a240326p32)
- - [An interview with Adobe executives about training Firefly on content licensed specifically for AI training, the decision not to scrape the internet, and more &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240326/p31#a240326p31)
- - [25% off the Kindle Scribe is a bargain for bookworms](https://www.androidauthority.com/kindle-scribe-deal-3428832/)<!-- TECH:END -->
+ - [The ad-free Kindle Kids is on sale for the first time since Black Friday](https://www.theverge.com/2024/3/26/24111659/kindle-kids-microsoft-xbox-series-x-princess-peach-showtime-deal-sale)
+ - [Xbox Cloud Gaming now has mouse and keyboard support in select games](https://www.theverge.com/2024/3/26/24112659/xbox-cloud-gaming-mouse-and-keyboard-support-preview)
+ - [Why the Baltimore Bridge Collapsed so Quickly](https://www.wired.com/story/baltimore-francis-scott-key-bridge-collapse-dali-boat-collision-emergency-mass-casualty-event/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
