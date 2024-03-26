@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft has a new Windows and Surface chief](https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri)
- - [Q&amp;A with Bluesky CEO Jay Graber on why federation is the future of social media, Threads&#39; fediverse integration, monetization, composable moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240325/p26#a240325p26)
- - [Telegram’s Peer-to-Peer Login system is a risky way to save $5 a month](https://www.theverge.com/2024/3/25/24111818/telegram-peer-to-peer-login-otp-two-factor-volunteer)<!-- TECH:END -->
+ - [Nissan announces plans to make 16 new electrified vehicles by 2026](https://www.theverge.com/2024/3/25/24111963/nissan-ev-plan-2026-solid-state-batteries)
+ - [Telegram rolls out its Peer-to-Peer Login Program, giving some Android users a Premium sub for volunteering their phone numbers to relay SMS OTPs to other users &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240325/p28#a240325p28)
+ - [Florida Governor Signs Bill Banning Kids Under 14 From Having Social Media Accounts     - CNET](https://www.cnet.com/tech/florida-governor-signs-bill-banning-kids-under-14-from-having-social-media-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
