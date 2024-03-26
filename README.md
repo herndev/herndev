@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mining Chinesium](http://9gag.com/gag/aQz6Z2w)
- - ⏩ [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
- - 👉 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)<!-- MEMES:END -->
+ - 💣 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - ⏩ [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
 
 ---
 
