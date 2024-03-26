@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)
- - [AI search engines review: they are worse than Google at navigational queries, mixed on information queries, and offer helpful citations in exploration queries &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240326/p23#a240326p23)
- - [Canada plans to toughen foreign investment rules for sectors like AI and quantum computing, as it takes steps to curb China&#39;s influence on key industries &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p22#a240326p22)<!-- TECH:END -->
+ - [Apple&#39;s removable battery standard could change device charging forever](https://appleinsider.com/articles/24/03/26/apples-removable-battery-standard-could-change-device-charging-forever?utm_medium=rss)
+ - [Princess Peach: Showtime! is clever and playful, but Peach deserves more](https://www.theverge.com/24112407/princess-peach-showtime-review-nintendo-switch)
+ - [A native version of Chrome arrives for Arm-based Windows PCs](https://www.theverge.com/2024/3/26/24112273/chrome-native-windows-on-arm-qualcomm-snapdragon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
