@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Nissan announces plans to make 16 new electrified vehicles by 2026](https://www.theverge.com/2024/3/25/24111963/nissan-ev-plan-2026-solid-state-batteries)
- - [Telegram rolls out its Peer-to-Peer Login Program, giving some Android users a Premium sub for volunteering their phone numbers to relay SMS OTPs to other users &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240325/p28#a240325p28)
- - [Florida Governor Signs Bill Banning Kids Under 14 From Having Social Media Accounts     - CNET](https://www.cnet.com/tech/florida-governor-signs-bill-banning-kids-under-14-from-having-social-media-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telegram rolls out its Peer-to-Peer Login Program, giving some Android users a Premium sub for volunteering their phone numbers to relay SMS OTPs to other users &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240325/p28#a240325p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
