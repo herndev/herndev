@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Phil Spencer on bringing Xbox to handhelds via hardware or software, how Valve, Lenovo, and Asus &quot;innovated in a new form factor&quot;, and more &lpar;Chris Plante/Polygon&rpar;](http://www.techmeme.com/240326/p6#a240326p6)
- - [OpenAI releases seven Sora videos from select filmmakers, artists, ad agencies, and musicians; Fairly Trained CEO Ed Newton-Rex calls the move &quot;artistwashing&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240326/p5#a240326p5)
- - [Memo: Microsoft&#39;s Bing chief Mikhail Parakhin plans to exit his roles and look for a new position, after Microsoft hired Mustafa Suleyman to run Microsoft AI &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240326/p4#a240326p4)<!-- TECH:END -->
+ - [Chinese iPhone demand is more stable than expected](https://appleinsider.com/articles/24/03/26/chinese-iphone-demand-is-more-stable-than-expected?utm_medium=rss)
+ - [Fieldguide, which plans to use AI to alleviate an accountant shortage, raised a $30M Series B led by Bessemer, and counts 40 of the top 100 CPA firms as clients &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240326/p10#a240326p10)
+ - [Julian Assange Won’t Be Extradited to the US Yet](https://www.wired.com/story/julian-assange-extradite-court-decision-wikileaks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
