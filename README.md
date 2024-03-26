@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus has a new Hulu-ified logo](https://www.theverge.com/2024/3/26/24112300/disney-plus-new-logo-hulu-green-teal)
- - [Run a quad monitor setup with iVANKY&#39;s FusionDock Max 1 for MacBook Pro, the first dock to support four displays](https://appleinsider.com/articles/24/03/26/run-a-quad-monitor-setup-with-ivankys-fusiondock-max-1-for-macbook-pro-the-first-dock-to-support-four-displays?utm_medium=rss)
- - [Which is your favorite Android UX skin? Why do you like it?](https://www.androidauthority.com/poll-favorite-android-ux-skin-3428722/)<!-- TECH:END -->
+ - [Should you buy the Pixel 7a or wait for the Pixel 8a?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8a-3428097/)
+ - [Trump Media &amp; Technology Group shares jumped up to 58% to hit $78.80 on its trading debut before the Nasdaq briefly halted trading, following the DWAC merger &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240326/p20#a240326p20)
+ - [Apple Vision Pro China expansion will get a giant boost from Tencent](https://appleinsider.com/articles/24/03/26/apple-vision-pro-china-expansion-will-get-a-giant-boost-from-tencent?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
