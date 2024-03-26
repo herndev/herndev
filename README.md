@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Readvent of Calamity’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112555/readvent-calamity-quest-walkthrough-ulrika-location-where-to-find)
- - [Destiny 2 is bringing back 12 fan favorite guns, including monsters like The Recluse and Luna&#39;s Howl, and a meme that could now be OP](https://www.pcgamer.com/games/fps/destiny-2-is-bringing-back-12-fan-favorite-guns-including-monsters-like-the-recluse-and-lunas-howl-and-a-meme-that-could-now-be-op)
- - [Jack Black Can&#39;t Believe There Isn&#39;t Already A Red Dead Redemption Movie](https://kotaku.com/jack-black-gta-red-dead-redemption-movies-borderlands-1851367544)<!-- GAME:END -->
+ - [The award for Dragon&#39;s Dogma 2&#39;s biggest jerks goes to the griffins](https://www.pcgamer.com/games/rpg/the-award-for-dragons-dogma-2s-biggest-jerks-goes-to-the-griffins)
+ - [Judas Previews Don’t Make The Game’s Lofty Promises Seem Any Closer To Reality](https://kotaku.com/judas-previews-bioshock-ken-levine-1851367642)
+ - [‘Readvent of Calamity’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112555/readvent-calamity-quest-walkthrough-ulrika-location-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
