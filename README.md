@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
- - ⏩ [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 👉 [Bad ending](http://9gag.com/gag/axyEOXL)<!-- MEMES:END -->
+ - 💣 [Difference between parenting a son and a daughter \ud83d\ude02](http://9gag.com/gag/aO8oPjR)
+ - ⏩ [Hmmm I know](http://9gag.com/gag/aoymLYm)
+ - 👉 [15 years?](http://9gag.com/gag/awyNLZD)<!-- MEMES:END -->
 
 ---
 
