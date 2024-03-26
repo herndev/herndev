@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airtable brings AI summarization to paying users](https://www.theverge.com/2024/3/26/24112632/airtable-generative-ai-productivity-summarization)
- - [The EU publishes draft election security guidelines aimed at platforms with 45M+ regional MAUs that are regulated under the DSA, ahead of elections in June &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240326/p42#a240326p42)
- - [CNET&#39;s Exclusive Discount Will Save You 30% on Speck Cases     - CNET](https://www.cnet.com/deals/cnets-exclusive-discount-will-save-you-30-on-speck-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cheryl Hines’ husband chooses Sergey Brin’s ex-wife as running mate](https://www.theverge.com/2024/3/26/24112972/nicole-shanahan-rfk-jr-vice-president-pick)
+ - [Despite a crypto rally, VC funds focused on crypto are struggling to raise money, as limited partners prioritize tangible gains after the 2022 wipeout &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240326/p45#a240326p45)
+ - [Code hints at custom Apple Maps routes coming in iOS 18](https://appleinsider.com/articles/24/03/26/code-hints-at-custom-apple-maps-routes-coming-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
