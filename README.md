@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)
- - ⏩ [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 👉 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)<!-- MEMES:END -->
+ - 💣 [Its show time](http://9gag.com/gag/aXPZ4RD)
+ - ⏩ [Hmmm](http://9gag.com/gag/ajPQL41)
+ - 👉 [Happened for the first time in my Life\u2026](http://9gag.com/gag/aoym4Yg)<!-- MEMES:END -->
 
 ---
 
