@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Greg Joswiak has given a not-so subtle hint about what will be at WWDC](https://appleinsider.com/articles/24/03/26/greg-joswiak-has-given-a-not-so-subtle-hint-about-what-will-be-at-wwdc?utm_medium=rss)
- - [Apple&#39;s iOS 18 Update Could Be More Exciting Than the iPhone 16     - CNET](https://www.cnet.com/tech/mobile/why-ios-18-could-be-a-bigger-deal-than-the-iphone-16/#ftag=CAD590a51e)
- - [Most Airlines Still Don&#39;t Let Kids Sit With Their Parents for Free     - CNET](https://www.cnet.com/personal-finance/most-airlines-still-dont-let-kids-sit-with-their-parents-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Real Reason Why Some Abortion Pill Patients Go to the ER](https://www.wired.com/story/abortion-pill-supreme-court-er-visit-myth-debunk-mifepristone/)
+ - [Audible and Amazon MGM partner to develop  more TV series based on podcasts](https://www.theverge.com/2024/3/26/24112672/audible-amazon-mgm-developing-podcast-tv-shows)
+ - [RFK Jr. Announces VP Pick Is Tech Entrepreneur Who Has Given His Campaign a Lot of Money](https://www.wired.com/story/rfk-jr-vp-pick-nicole-shanahan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
