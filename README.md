@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 Production Reportedly Falling Behind, Rockstar Urges Staff To Return To Office To Avoid Delay [Update]](https://kotaku.com/gta-6-development-2026-delay-rockstar-office-release-1851359831)
- - [You can — and should — drink Stardew Valley’s mayo](https://www.polygon.com/24112387/stardew-valley-drink-mayo-1-6-update)
- - [The first big Enshrouded update has &#39;a brand new spooky NPC,&#39; also you can sit on toilets now](https://www.pcgamer.com/games/survival-crafting/the-first-big-enshrouded-update-has-a-brand-new-spooky-npc-also-you-can-sit-on-toilets-now)<!-- GAME:END -->
+ - [An abridged history of ‘unfilmable’ book adaptations](https://www.polygon.com/entertainment/24105888/unfilmable-books-best-adaptations-movies-shows-history-list)
+ - [Man tries to smuggle seven-year-old AMD graphics cards through Chinese airport customs—all 44 of them](https://www.pcgamer.com/hardware/graphics-cards/man-tries-to-smuggle-seven-year-old-amd-graphics-cards-through-chinese-airport-customsall-44-of-them)
+ - [FF7 Rebirth: WTF Is The Stat-Swapping Materia Good For?](https://kotaku.com/final-fantasy-7-ff7-rebirth-materia-hp-mp-swap-1851366828)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
