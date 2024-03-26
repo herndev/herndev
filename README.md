@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An abridged history of ‘unfilmable’ book adaptations](https://www.polygon.com/entertainment/24105888/unfilmable-books-best-adaptations-movies-shows-history-list)
- - [Man tries to smuggle seven-year-old AMD graphics cards through Chinese airport customs—all 44 of them](https://www.pcgamer.com/hardware/graphics-cards/man-tries-to-smuggle-seven-year-old-amd-graphics-cards-through-chinese-airport-customsall-44-of-them)
- - [FF7 Rebirth: WTF Is The Stat-Swapping Materia Good For?](https://kotaku.com/final-fantasy-7-ff7-rebirth-materia-hp-mp-swap-1851366828)<!-- GAME:END -->
+ - [RuneScape creators&#39; new MMO has an unorthodox solution for the inevitable waves of bots: Giving you a &#39;legitimate way&#39; to bot the game yourself](https://www.pcgamer.com/games/mmo/runescape-creators-new-mmo-has-an-unorthodox-solution-for-the-inevitable-waves-of-bots-giving-you-a-legitimate-way-to-bot-the-game-yourself)
+ - [Some Publishers Reportedly Not Sure Why They Should Keep Supporting Xbox](https://kotaku.com/publishers-not-sure-xbox-ports-europe-sales-low-gdc-1851367132)
+ - [Mass Effect 5 exec producer re-emphasises to fans that all the game&#39;s senior leads are trilogy veterans, and here&#39;s who they are](https://www.pcgamer.com/games/rpg/mass-effect-5-exec-producer-re-emphasises-to-fans-that-all-the-games-senior-leads-are-trilogy-veterans-and-heres-who-they-are)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
