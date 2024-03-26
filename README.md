@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
- - ⏩ [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
- - 👉 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)<!-- MEMES:END -->
+ - 💣 [On the run](http://9gag.com/gag/avy2xA5)
+ - ⏩ [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - 👉 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)<!-- MEMES:END -->
 
 ---
 
