@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West Complete Edition review](https://www.pcgamer.com/games/action/horizon-forbidden-west-complete-edition-review)
- - [Once upon a time Baldur&#39;s Gate 3 let you recruit JK Simmons to your side, before Larian snipped it along with a visit to the series&#39; origins](https://www.pcgamer.com/games/baldurs-gate/once-upon-a-time-baldurs-gate-3-let-you-recruit-jk-simmons-to-your-side-before-larian-snipped-it-along-with-a-visit-to-the-series-origins)
- - [Phil Spencer wants Epic Games Store and others on Xbox consoles](https://www.polygon.com/24108670/xbox-epic-games-store-phil-spencer-interview)<!-- GAME:END -->
+ - [GTA 6 Production Reportedly Falling Behind, Rockstar Urges Staff To Return To Office To Avoid Delay [Update]](https://kotaku.com/gta-6-development-2026-delay-rockstar-office-release-1851359831)
+ - [You can — and should — drink Stardew Valley’s mayo](https://www.polygon.com/24112387/stardew-valley-drink-mayo-1-6-update)
+ - [The first big Enshrouded update has &#39;a brand new spooky NPC,&#39; also you can sit on toilets now](https://www.pcgamer.com/games/survival-crafting/the-first-big-enshrouded-update-has-a-brand-new-spooky-npc-also-you-can-sit-on-toilets-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
