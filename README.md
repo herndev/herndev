@@ -39,8 +39,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your phone’s stock gallery app just got a fantastic Google Photos upgrade](https://www.androidauthority.com/oneplus-realme-xiaomi-phones-google-photos-integration-gallery-app-3428285/)
- - [Google Messages will make it easier for you to send a flood of snaps](https://www.androidauthority.com/google-messages-attach-send-multiple-images-3428615/)
+ - [A look at the underground bitcoin community in Austin, which attracts bitcoiners because of Texas&#39; pro-crypto policies and ecosystem of developers and miners &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240326/p3#a240326p3)
+ - [SSDI Payment for March 2024: You Might Get a Check This Week     - CNET](https://www.cnet.com/personal-finance/ssdi-payment-for-march-2024-you-might-get-a-check-this-week/#ftag=CAD590a51e)
  - [The Mayor of London Enters the Bullshit Cinematic Universe](https://www.wired.com/story/mayor-of-london-sadiq-khan-ulez-conspiracy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
