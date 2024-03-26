@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
- - ⏩ [Bad ending](http://9gag.com/gag/axyEOXL)
- - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
+ - 💣 [Mining Chinesium](http://9gag.com/gag/aQz6Z2w)
+ - ⏩ [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
+ - 👉 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)<!-- MEMES:END -->
 
 ---
 
