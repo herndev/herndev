@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
- - ⏩ [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
+ - 💣 [Hmmm I know](http://9gag.com/gag/aoymLYm)
+ - ⏩ [Hide the pain Harold Memeland](http://9gag.com/gag/amoqxDV)
+ - 👉 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)<!-- MEMES:END -->
 
 ---
 
