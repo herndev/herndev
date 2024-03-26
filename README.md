@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
- - ⏩ [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
- - 👉 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)<!-- MEMES:END -->
+ - 💣 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
+ - ⏩ [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
+ - 👉 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)<!-- MEMES:END -->
 
 ---
 
