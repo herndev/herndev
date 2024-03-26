@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Phil Spencer says he&#39;s open to bringing stores like Epic and Steam to Xbox consoles](https://www.pcgamer.com/gaming-industry/phil-spencer-says-hes-open-to-bringing-stores-like-epic-and-steam-to-xbox-consoles)
  - [The award for Dragon&#39;s Dogma 2&#39;s biggest jerks goes to the griffins](https://www.pcgamer.com/games/rpg/the-award-for-dragons-dogma-2s-biggest-jerks-goes-to-the-griffins)
- - [Judas Previews Don’t Make The Game’s Lofty Promises Seem Any Closer To Reality](https://kotaku.com/judas-previews-bioshock-ken-levine-1851367642)
- - [‘Readvent of Calamity’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112555/readvent-calamity-quest-walkthrough-ulrika-location-where-to-find)<!-- GAME:END -->
+ - [Judas Previews Don’t Make The Game’s Lofty Promises Seem Any Closer To Reality](https://kotaku.com/judas-previews-bioshock-ken-levine-1851367642)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
