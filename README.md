@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)
- - ⏩ [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 👉 [Amber pls](http://9gag.com/gag/aVvjmKK)<!-- MEMES:END -->
+ - 💣 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - ⏩ [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
+ - 👉 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)<!-- MEMES:END -->
 
 ---
 
