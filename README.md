@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [How radioactive if the plates of your granny?](http://9gag.com/gag/a6ZrpeN)
- - ⏩ [Metro &amp; Airport in Africa? NAAAH It&#39;s Lisbon, Portugal](http://9gag.com/gag/aE0dW7n)
+ - ⏩ [Forbidden moves](http://9gag.com/gag/aYQjAx0)
  - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
 
 ---
