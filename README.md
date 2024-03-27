@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
- - ⏩ [A win-win situation, i guess..](http://9gag.com/gag/aVvjL2v)
+ - 💣 [Choose!](http://9gag.com/gag/aKG48w3)
+ - ⏩ [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
  - 👉 [Forbidden moves](http://9gag.com/gag/aYQjAx0)<!-- MEMES:END -->
 
 ---
