@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva and Affinity publish a joint pledge promising to keep Affinity&#39;s software &quot;fair, transparent, and affordable&quot;, including keeping &quot;perpetual licenses&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p25#a240327p25)
- - [Amazon loses an EU legal bid to delay complying with DSA rules on making its online ad library publicly available, after a judge rejected Amazon&#39;s request &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240327/p26#a240327p26)
- - [Flash deal: Apple&#39;s M3 Pro MacBook Pro 14-inch drops to $1,749](https://appleinsider.com/articles/24/03/27/flash-deal-apples-m3-pro-macbook-pro-14-inch-drops-to-1749?utm_medium=rss)<!-- TECH:END -->
+ - [Google adds more AI in shopping](https://www.theverge.com/2024/3/27/24113485/google-shopping-generative-ai-image-generation-rating-style)
+ - [Updates to Google Maps and Search make it easier to plan your next outing](https://www.theverge.com/2024/3/27/24113348/google-maps-search-update-itineraries-lists-translation)
+ - [The Polestar 4 is also getting a price cut ahead of its debut](https://www.theverge.com/2024/3/27/24113451/polestar-4-price-cut-production-delivery-ev-coupe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
