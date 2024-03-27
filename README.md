@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
- - ⏩ [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 👉 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)<!-- MEMES:END -->
+ - 💣 [Amber pls](http://9gag.com/gag/aVvjmKK)
+ - ⏩ [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
+ - 👉 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)<!-- MEMES:END -->
 
 ---
 
