@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Body Problem’s creators learned all the wrong lessons from Game of Thrones](https://www.polygon.com/24112692/3-body-problems-game-thrones-adaptation-choices-benioff-weiss-woo)
- - [Three-Body Problem’s best adaptation is secretly a Bob’s Burgers episode](https://www.polygon.com/24112643/3-body-problem-bobs-burgers-best-adaptation)
- - [You Can Try Overwatch 2’s New Hero For A Limited Time This Week](https://kotaku.com/overwatch-2-venture-new-hero-play-test-trial-limited-1851369897)<!-- GAME:END -->
+ - [What type of Stardew Valley player are you?](https://www.polygon.com/24112417/type-stardew-valley-player-are-you-concernedape)
+ - [Overwatch 2&#39;s first free hero will be playable this weekend ahead of their season 10 debut](https://www.pcgamer.com/games/fps/overwatch-2-dps-hero-venture-trial)
+ - [Let&#39;s talk about Helldivers 2&#39;s elephant in the room: Bugs are better than bots, but is that a bad thing?](https://www.pcgamer.com/games/third-person-shooter/lets-talk-about-helldivers-2s-elephant-in-the-room-bugs-are-better-than-bots-but-is-that-a-bad-thing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
