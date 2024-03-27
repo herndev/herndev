@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Outcast - A New Beginning review](https://www.pcgamer.com/outcast-a-new-beginning-review)
- - [Today&#39;s Wordle answer for Wednesday, March 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-27-2024)
- - [Geneforge 2: Infestation read the standard CRPG manual, then set it on fire](https://www.pcgamer.com/games/rpg/geneforge-2-infestation-read-the-standard-crpg-manual-then-set-it-on-fire)<!-- GAME:END -->
+ - [X-Men ’97 is winding up for one of the best stories about weathermancer Storm ever told](https://www.polygon.com/24111425/forge-x-men-97-storm-powers-lifedeath)
+ - [Snapdragon X Elite spotted running Baldur&#39;s Gate 3 at around 30fps, supporting claims that Windows games &#39;just work&#39; on ARM chip](https://www.pcgamer.com/hardware/gaming-laptops/snapdragon-x-elite-spotted-running-baldurs-gate-3-at-around-30fps-supporting-claims-that-windows-games-just-work-on-arm-chip)
+ - [Apple’s Constellation left us with more quantum entanglements than answers](https://www.polygon.com/24112600/constellation-season-1-ending-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
