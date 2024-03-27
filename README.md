@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/aNDmVPv)
- - ⏩ [Bad ending](http://9gag.com/gag/axyEOXL)
- - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)<!-- MEMES:END -->
+ - 💣 [How radioactive if the plates of your granny?](http://9gag.com/gag/a6ZrpeN)
+ - ⏩ [Metro &amp; Airport in Africa? NAAAH It&#39;s Lisbon, Portugal](http://9gag.com/gag/aE0dW7n)
+ - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
 
 ---
 
