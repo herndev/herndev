@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
- - ⏩ [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 👉 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)<!-- MEMES:END -->
+ - 💣 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - ⏩ [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
+ - 👉 [Bad ending](http://9gag.com/gag/axyEOXL)<!-- MEMES:END -->
 
 ---
 
