@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega of America workers ratify union contract, protecting 150 employees](https://www.polygon.com/24113444/sega-america-workers-union-contract-aegis)
- - [Overwatch 2’s new hero Venture is playable for free this weekend](https://www.polygon.com/24113610/overwatch-2-venture-release-date-free-trial)
- - [Beware gifts of counterfeit &#39;ferristones&#39; in Dragon&#39;s Dogma 2—nothing bad&#39;ll happen if you use one, you&#39;ll just look stupid in front of all your gossipy pawns](https://www.pcgamer.com/games/rpg/beware-gifts-of-counterfeit-ferristones-in-dragons-dogma-2nothing-badll-happen-if-you-use-one-youll-just-look-stupid-in-front-of-all-your-gossipy-pawns)<!-- GAME:END -->
+ - [Everything You Need to Know for Call of Duty: Season 3 Across MWIII, Warzone, and Mobile](https://www.callofduty.com/blog/2024/03/call-of-duty-modern-warfare-iii-warzone-wzm-season-3-maps-modes-zombies-announcement)
+ - [Open Roads review](https://www.pcgamer.com/games/adventure/open-roads-review)
+ - [Dragon&#39;s Dogma 2 players figure out a way to convert mountains to pathways with the right attitude, a catapult, and a giant rock](https://www.pcgamer.com/games/rpg/dragons-dogma-2-players-figure-out-a-way-to-convert-mountains-to-pathways-with-the-right-attitude-a-catapult-and-a-giant-rock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
