@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amber pls](http://9gag.com/gag/aVvjmKK)
- - ⏩ [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
- - 👉 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)<!-- MEMES:END -->
+ - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
+ - ⏩ [Nothing can stop me](http://9gag.com/gag/an7eD8V)
+ - 👉 [On the run](http://9gag.com/gag/avy2xA5)<!-- MEMES:END -->
 
 ---
 
