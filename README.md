@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [X-Men ’97 is winding up for one of the best stories about weathermancer Storm ever told](https://www.polygon.com/24111425/forge-x-men-97-storm-powers-lifedeath)
- - [Snapdragon X Elite spotted running Baldur&#39;s Gate 3 at around 30fps, supporting claims that Windows games &#39;just work&#39; on ARM chip](https://www.pcgamer.com/hardware/gaming-laptops/snapdragon-x-elite-spotted-running-baldurs-gate-3-at-around-30fps-supporting-claims-that-windows-games-just-work-on-arm-chip)
- - [Apple’s Constellation left us with more quantum entanglements than answers](https://www.polygon.com/24112600/constellation-season-1-ending-explained)<!-- GAME:END -->
+ - [A tiered ranking of every single Stardew Valley OST track](https://www.polygon.com/gaming/24111874/stardew-valley-soundtrack-tier-ranking)
+ - [Final Fantasy 14: Dawntrail is having server queue issues months before it&#39;s even out, as Square Enix&#39;s online store crashes under the weight of pre-orders](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-is-having-server-queue-issues-months-before-its-even-out-as-square-enixs-online-store-crashes-under-the-weight-of-pre-orders)
+ - [A keyboard sticker can turn your new laptop into an AI PC. Probably...](https://www.pcgamer.com/software/windows/a-keyboard-sticker-can-turn-your-new-laptop-into-an-ai-pc-probably)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
