@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, March 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-27-2024)
  - [Geneforge 2: Infestation read the standard CRPG manual, then set it on fire](https://www.pcgamer.com/games/rpg/geneforge-2-infestation-read-the-standard-crpg-manual-then-set-it-on-fire)
- - [Midnight Suns devs &#39;absolutely&#39; knew cards would be a controversial choice, but they were also &#39;absolutely the right fit for this game and our design goals&#39;](https://www.pcgamer.com/games/strategy/midnight-suns-devs-absolutely-knew-cards-would-be-a-controversial-choice-but-they-were-also-absolutely-the-right-fit-for-this-game-and-our-design-goals)
- - [The Spring Sale comes to PlayStation Store](https://blog.playstation.com/2024/03/26/the-spring-sale-comes-to-playstation-store-3/)<!-- GAME:END -->
+ - [Midnight Suns devs &#39;absolutely&#39; knew cards would be a controversial choice, but they were also &#39;absolutely the right fit for this game and our design goals&#39;](https://www.pcgamer.com/games/strategy/midnight-suns-devs-absolutely-knew-cards-would-be-a-controversial-choice-but-they-were-also-absolutely-the-right-fit-for-this-game-and-our-design-goals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
