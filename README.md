@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - ⏩ [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
- - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
+ - ⏩ [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 👉 [Boomer life](http://9gag.com/gag/apRKbBD)<!-- MEMES:END -->
 
 ---
 
