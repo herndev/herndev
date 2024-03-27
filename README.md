@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What type of Stardew Valley player are you?](https://www.polygon.com/24112417/type-stardew-valley-player-are-you-concernedape)
- - [Overwatch 2&#39;s first free hero will be playable this weekend ahead of their season 10 debut](https://www.pcgamer.com/games/fps/overwatch-2-dps-hero-venture-trial)
- - [Let&#39;s talk about Helldivers 2&#39;s elephant in the room: Bugs are better than bots, but is that a bad thing?](https://www.pcgamer.com/games/third-person-shooter/lets-talk-about-helldivers-2s-elephant-in-the-room-bugs-are-better-than-bots-but-is-that-a-bad-thing)<!-- GAME:END -->
+ - [The Taskmaster videogame has a creative mode so you can invent your own custom tasks and challenge your friends](https://www.pcgamer.com/games/vr/the-taskmaster-videogame-has-a-creative-mode-so-you-can-invent-your-own-custom-tasks-and-challenge-your-friends)
+ - [Twitch Bans Using ‘Intimate’ Body Parts As Green Screens](https://kotaku.com/twitch-green-screen-meta-community-guidelines-update-1851370282)
+ - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
