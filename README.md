@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The principles of wearable etiquette](https://www.theverge.com/2024/3/27/24113500/wearables-smartwatches-smart-glasses-smart-rings-etiquette)
- - [Xfinity Mobile revamps Unlimited plans with more data, slashes prices per line](https://www.androidauthority.com/xfinity-new-unlimited-plans-3429286/)
- - [Google Chat finally gets this highly requested feature](https://www.androidauthority.com/google-chat-voice-messages-3429294/)<!-- TECH:END -->
+ - [Logitech’s original G Pro X Superlight is on sale for nearly 40 percent off](https://www.theverge.com/2024/3/27/24112576/logitech-g-pro-x-superlight-gaming-mouse-backbone-one-controller-deal-sale)
+ - [This unusual Samsung deal gets you two 4K smart TVs for the price of one](https://www.androidauthority.com/samsung-smart-tvs-deal-3429305/)
+ - [Frivolous cryptocurrency App Store payment lawsuit killed by judge](https://appleinsider.com/articles/24/03/27/frivolous-cryptocurrency-app-store-payment-lawsuit-killed-by-judge?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
