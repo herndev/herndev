@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 6 and Z Flip 6 won’t improve on charging this year](https://www.androidauthority.com/samsung-galaxy-z-fold-6-flip-6-25w-charging-3429024/)
- - [A look at the international battles to regulate AI, as nations, lobbyists, and tech companies vie for influence over the future of AI policy &lpar;Politico&rpar;](http://www.techmeme.com/240327/p6#a240327p6)
- - [The DOJ compares Apple&#39;s 2023 $77B buyback program with the company&#39;s half as much spend on R&amp;D and highlights it as a lack of incentive for Apple to innovate &lpar;Financial Times&rpar;](http://www.techmeme.com/240327/p5#a240327p5)<!-- TECH:END -->
+ - [A look at Disney+ Hotstar&#39;s and JioCinema&#39;s strategy to beat Netflix and Prime Video in India, including by focusing on sports content and affordable pricing &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/240327/p7#a240327p7)
+ - [Pixel phones seem to have a strange alarm bug](https://www.androidauthority.com/pixel-alarm-bug-3429055/)
+ - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
