@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood launches Gold Card, a 3% cashback credit card for Robinhood Gold members, eight months after it acquired credit card startup X1 for $95M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240326/p47#a240326p47)
- - [Intel shares Microsoft&#39;s &quot;AI PC&quot; requirements, such as including a Copilot key, and expands its AI PC acceleration program to help devs and hardware vendors &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240326/p46#a240326p46)
- - [Next Time You Buy a Tesla, You&#39;ll Be Required to Take a Self-Driving &#39;Test Ride&#39;     - CNET](https://www.cnet.com/roadshow/news/next-time-you-buy-a-tesla-youll-be-required-to-take-a-self-driving-test-ride/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple responds to DOJ antitrust lawsuit by refuting every claim](https://appleinsider.com/articles/24/03/27/apple-responds-to-doj-antitrust-lawsuit-by-refuting-every-claim?utm_medium=rss)
+ - [Portugal&#39;s data regulator orders Worldcoin to stop collecting biometric data for 90 days, after receiving complaints about unauthorized collection from minors &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/240326/p48#a240326p48)
+ - [Electric Rate Shopping for Your Business: Buy in Bulk and Pay Less     - CNET](https://www.cnet.com/how-to/electric-rate-shopping-for-your-business-buy-in-bulk-and-pay-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
