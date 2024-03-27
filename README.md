@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glad to be old enough to appreciate the honest job](http://9gag.com/gag/ayNEYAV)
- - ⏩ [Man\u2019s riffs could even make the devil shed a tear\u2026](http://9gag.com/gag/aPA6QKQ)
- - 👉 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)<!-- MEMES:END -->
+ - 💣 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - ⏩ [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
 
 ---
 
