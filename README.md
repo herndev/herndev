@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s original G Pro X Superlight is on sale for nearly 40 percent off](https://www.theverge.com/2024/3/27/24112576/logitech-g-pro-x-superlight-gaming-mouse-backbone-one-controller-deal-sale)
- - [This unusual Samsung deal gets you two 4K smart TVs for the price of one](https://www.androidauthority.com/samsung-smart-tvs-deal-3429305/)
- - [Frivolous cryptocurrency App Store payment lawsuit killed by judge](https://appleinsider.com/articles/24/03/27/frivolous-cryptocurrency-app-store-payment-lawsuit-killed-by-judge?utm_medium=rss)<!-- TECH:END -->
+ - [GLAAD report says Meta allows anti-trans hate to ‘flourish’ on its platforms](https://www.theverge.com/2024/3/27/24113755/meta-anti-trans-hate-speech-glaad-instagram-facebook-threads)
+ - [Data observability service Observe raised a $115M Series B led by Sutter Hill Ventures with participation from Snowflake, sources say at a $400M-$500M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240327/p33#a240327p33)
+ - [Twitch bans turning butts and boobs into green screens](https://www.theverge.com/2024/3/27/24113838/twitch-community-update-body-part-screens-morgpie)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
