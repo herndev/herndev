@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;World of Warships: Legends&#39; sails onto iPhone and iPad](https://appleinsider.com/articles/24/03/27/world-of-warships-legends-sails-onto-iphone-and-ipad?utm_medium=rss)
- - [Google researchers observed 97 zero-day exploits in the wild in 2023, up 50% from 62 in 2022; 48 were used by espionage actors and 10 were financially-motivated &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240327/p22#a240327p22)
- - [Pixel 9’s ‘Three-Body Problem’ — Is a trio better than two Google flagships?](https://www.androidauthority.com/pixel-9-three-phones-poll-3429138/)<!-- TECH:END -->
+ - [Canva and Affinity publish a joint pledge promising to keep Affinity&#39;s software &quot;fair, transparent, and affordable&quot;, including keeping &quot;perpetual licenses&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p25#a240327p25)
+ - [Amazon loses an EU legal bid to delay complying with DSA rules on making its online ad library publicly available, after a judge rejected Amazon&#39;s request &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240327/p26#a240327p26)
+ - [Flash deal: Apple&#39;s M3 Pro MacBook Pro 14-inch drops to $1,749](https://appleinsider.com/articles/24/03/27/flash-deal-apples-m3-pro-macbook-pro-14-inch-drops-to-1749?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
