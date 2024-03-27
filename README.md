@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese iPhone sales may be decelerating at faster pace than expected](https://appleinsider.com/articles/24/03/27/china-iphone-sales-dropped-significantly-more-than-normal-in-february?utm_medium=rss)
- - [Elon Musk says X plans to make Grok available to all Premium subscribers &quot;later this week&quot;, expanding on Premium+ support; X Premium costs $8 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240327/p15#a240327p15)
- - [Apple releases incredibly minor iOS &amp; iPadOS updates](https://appleinsider.com/articles/24/03/27/apple-releases-incredibly-minor-ios-ipados-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Disney Plus officially unveils its very green new logo](https://www.theverge.com/2024/3/27/24112994/disney-plus-logo-green-aurora-streaming-app)
+ - [The Disney Plus-Hulu merger is way more than a streaming bundle](https://www.theverge.com/2024/3/27/24112747/disney-plus-hulu-tile-app-streaming)
+ - [Leader of counterfeit Apple crime ring sentenced to more than four years](https://appleinsider.com/articles/24/03/27/leader-of-counterfeit-apple-crime-ring-sentenced-to-more-than-four-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
