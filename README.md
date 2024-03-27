@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FBI agent Robert Hanssen was tasked to find a mole within the FBI. Robert Hanssen was the mole and had been working with KGB since 1979. His espionage was described by the Department of Justice as `possibly the worst intelligence disaster in U.S. history.](http://9gag.com/gag/a0evM8z)
- - ⏩ [A win-win situation, i guess..](http://9gag.com/gag/aVvjL2v)
- - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)<!-- MEMES:END -->
+ - 💣 [Standing in a swamp during a lightning storm](http://9gag.com/gag/a87debe)
+ - ⏩ [Forbidden moves](http://9gag.com/gag/aYQjAx0)
+ - 👉 [60 second explanation of Baltimore bridge collapse](http://9gag.com/gag/aAyBOV0)<!-- MEMES:END -->
 
 ---
 
