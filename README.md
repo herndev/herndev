@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky Orbital Update Introduces Space Station Overhaul, Ship Customization, and More](https://news.xbox.com/en-us/2024/03/27/no-mans-sky-orbital-update-announce/)
- - [I&#39;m my own worst enemy when it comes to gaming FOMO, and you probably are too](https://www.pcgamer.com/games/im-my-own-worst-enemy-when-it-comes-to-gaming-fomo-and-you-probably-are-too)
- - [The Spider Within, a new Spider-verse short, finds Miles Morales struggling with great responsibilities](https://www.polygon.com/24113442/watch-spider-within-spider-verse-story-short-film-miles-morales)<!-- GAME:END -->
+ - [$25 is all you need to jump into Avatar Legends and the Root TTRPG](https://www.polygon.com/deals/24112811/root-avatar-legends-last-airbender-ttrpg-magpie-humble-bundle-deal-sale)
+ - [Indie Selects for March 2024: The ID@Xbox Team Serves Up Another Batch of Outstanding Indies](https://news.xbox.com/en-us/2024/03/27/indie-selects-for-march-2024/)
+ - [New hero shooter Marvel Rivals looks like Overwatch with Marvel heroes](https://www.polygon.com/24112564/marvel-rivals-hero-shooter-trailer-release-date-netease)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
