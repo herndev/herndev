@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch targets butt streams with new rule banning &#39;content that focuses on intimate body parts for a prolonged period of time&#39;](https://www.pcgamer.com/hardware/streaming/twitch-bans-butt-streams)
- - [How to get to Agamen Volcanic Island in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112949/agamen-volcanic-island-flamebearer-palace-spellseal-door-how-to-open)
- - [Cheech And Chong Are Coming To Call Of Duty Because Everything Must Be Consumed](https://kotaku.com/call-of-duty-warzone-mwii-season-3-cheech-and-chong-1851370418)<!-- GAME:END -->
+ - [Stardew Valley gets another new patch that fixes the &#39;creepy face&#39; bear and makes new cabins paintable](https://www.pcgamer.com/games/life-sim/stardew-valley-gets-another-new-patch-that-fixes-the-creepy-face-bear-and-makes-new-cabins-paintable)
+ - [Game developers to addiction lawsuit: You can&#39;t sue us for making our games &#39;too entertaining&#39;](https://www.pcgamer.com/gaming-industry/video-game-addiction-lawsuit-motion-to-dismiss)
+ - [Lawyer warns game developers about &#39;unlawful game design&#39; as &#39;dark patterns&#39; lawsuits rise](https://www.pcgamer.com/gaming-industry/dark-patterns-in-games-gdc-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
