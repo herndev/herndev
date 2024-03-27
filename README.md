@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [$25 is all you need to jump into Avatar Legends and the Root TTRPG](https://www.polygon.com/deals/24112811/root-avatar-legends-last-airbender-ttrpg-magpie-humble-bundle-deal-sale)
- - [Indie Selects for March 2024: The ID@Xbox Team Serves Up Another Batch of Outstanding Indies](https://news.xbox.com/en-us/2024/03/27/indie-selects-for-march-2024/)
- - [New hero shooter Marvel Rivals looks like Overwatch with Marvel heroes](https://www.polygon.com/24112564/marvel-rivals-hero-shooter-trailer-release-date-netease)<!-- GAME:END -->
+ - [V Rising gets the crossover every self-respecting vampire wants: Castlevania&#39;s Simon Belmont is coming to try and kill you](https://www.pcgamer.com/games/survival-crafting/v-rising-gets-the-crossover-every-self-respecting-vampire-wants-castlevanias-simon-belmont-is-coming-to-try-and-kill-you)
+ - [Marvel Unveils Its Overwatch-Style Hero Shooter, Marvel Rivals](https://kotaku.com/marvel-rivals-trailer-release-date-pc-roster-heroes-1851369240)
+ - [Stellar Blade Previews Say It&#39;s More Sekiro Than Bayonetta](https://kotaku.com/stellar-blade-ps5-game-previews-sekiro-ragnarok-nier-1851369139)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
