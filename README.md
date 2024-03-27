@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - ⏩ [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - 👉 [Boomer life](http://9gag.com/gag/apRKbBD)<!-- MEMES:END -->
+ - 💣 [Glad to be old enough to appreciate the honest job](http://9gag.com/gag/ayNEYAV)
+ - ⏩ [Man\u2019s riffs could even make the devil shed a tear\u2026](http://9gag.com/gag/aPA6QKQ)
+ - 👉 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)<!-- MEMES:END -->
 
 ---
 
