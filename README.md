@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Taskmaster videogame has a creative mode so you can invent your own custom tasks and challenge your friends](https://www.pcgamer.com/games/vr/the-taskmaster-videogame-has-a-creative-mode-so-you-can-invent-your-own-custom-tasks-and-challenge-your-friends)
- - [Twitch Bans Using ‘Intimate’ Body Parts As Green Screens](https://kotaku.com/twitch-green-screen-meta-community-guidelines-update-1851370282)
- - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)<!-- GAME:END -->
+ - [Twitch targets butt streams with new rule banning &#39;content that focuses on intimate body parts for a prolonged period of time&#39;](https://www.pcgamer.com/hardware/streaming/twitch-bans-butt-streams)
+ - [How to get to Agamen Volcanic Island in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112949/agamen-volcanic-island-flamebearer-palace-spellseal-door-how-to-open)
+ - [Cheech And Chong Are Coming To Call Of Duty Because Everything Must Be Consumed](https://kotaku.com/call-of-duty-warzone-mwii-season-3-cheech-and-chong-1851370418)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
