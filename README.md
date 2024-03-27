@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - ⏩ [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
+ - 💣 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
+ - ⏩ [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 👉 [Found in the wild. I thought it was just a myth](http://9gag.com/gag/a7ovNye)<!-- MEMES:END -->
 
 ---
 
