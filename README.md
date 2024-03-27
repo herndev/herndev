@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need to Know for Call of Duty: Season 3 Across MWIII, Warzone, and Mobile](https://www.callofduty.com/blog/2024/03/call-of-duty-modern-warfare-iii-warzone-wzm-season-3-maps-modes-zombies-announcement)
- - [Open Roads review](https://www.pcgamer.com/games/adventure/open-roads-review)
- - [Dragon&#39;s Dogma 2 players figure out a way to convert mountains to pathways with the right attitude, a catapult, and a giant rock](https://www.pcgamer.com/games/rpg/dragons-dogma-2-players-figure-out-a-way-to-convert-mountains-to-pathways-with-the-right-attitude-a-catapult-and-a-giant-rock)<!-- GAME:END -->
+ - [3 Body Problem’s creators learned all the wrong lessons from Game of Thrones](https://www.polygon.com/24112692/3-body-problems-game-thrones-adaptation-choices-benioff-weiss-woo)
+ - [Three-Body Problem’s best adaptation is secretly a Bob’s Burgers episode](https://www.polygon.com/24112643/3-body-problem-bobs-burgers-best-adaptation)
+ - [You Can Try Overwatch 2’s New Hero For A Limited Time This Week](https://kotaku.com/overwatch-2-venture-new-hero-play-test-trial-limited-1851369897)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
