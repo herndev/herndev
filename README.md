@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drowning in tabs? Chrome for Android may get a feature to solve your problem](https://www.androidauthority.com/chrome-android-tab-declutter-3429331/)
- - [MLCommons announces results from its MLPerf 4.0 inference benchmarks, which added Llama 2 70B and Stable Diffusion XL; systems with Nvidia GPUs came out on top &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/240327/p35#a240327p35)
- - [Apple Vision Pro is $200 off, but the deal is at risk of selling out](https://appleinsider.com/articles/24/03/27/apple-vision-pro-is-200-off-but-the-deal-is-at-risk-of-selling-out?utm_medium=rss)<!-- TECH:END -->
+ - [Oregon’s governor signs right-to-repair law that bans ‘parts pairing’](https://www.theverge.com/2024/3/27/24097042/right-to-repair-law-oregon-sb1596-parts-pairing-tina-kotek-signed)
+ - [Despite Apple pushback, Oregon has passed its right-to-repair bill banning parts pairing](https://appleinsider.com/articles/24/03/27/despite-apple-pushback-oregon-has-passed-its-right-to-repair-bill-banning-parts-pairing?utm_medium=rss)
+ - [No, the NAR Real Estate Settlement Probably Won&#39;t Drive Down Home Prices. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/mortgages/no-the-nar-real-estate-settlement-probably-wont-drive-down-home-prices-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
