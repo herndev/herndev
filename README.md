@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - ⏩ [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
- - 👉 [Bad ending](http://9gag.com/gag/axyEOXL)<!-- MEMES:END -->
+ - 💣 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)
+ - ⏩ [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - 👉 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)<!-- MEMES:END -->
 
 ---
 
