@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jakarta-based online personal insurance marketplace Qoala raised a $47M Series C co-led by PayPal Ventures and MassMutual Ventures, for $130M+ in total funding &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240327/p1#a240327p1)
  - [DroneUp unveils an autonomous drone &quot;ecosystem&quot; for last-mile deliveries, with Walmart, 7-Eleven, and Chick-fil-A the first retailers to pilot the system &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240326/p50#a240326p50)
- - [Best Food Processors of 2024: KitchenAid, Cuisinart and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)
- - [How to convert a Live Photo into a video clip](https://appleinsider.com/inside/ios/tips/how-to-convert-a-live-photo-into-a-video-clip?utm_medium=rss)<!-- TECH:END -->
+ - [Best Food Processors of 2024: KitchenAid, Cuisinart and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
