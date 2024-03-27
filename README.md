@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to convert a Live Photo into a video clip](https://appleinsider.com/inside/ios/tips/how-to-convert-a-live-photo-into-a-video-clip?utm_medium=rss)
- - [Best iPhone 15 and iPhone 15 Pro Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
- - [Best Blue-Light-Blocking Glasses of 2024     - CNET](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DroneUp unveils an autonomous drone &quot;ecosystem&quot; for last-mile deliveries, with Walmart, 7-Eleven, and Chick-fil-A the first retailers to pilot the system &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240326/p50#a240326p50)
+ - [Best Food Processors of 2024: KitchenAid, Cuisinart and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)
+ - [How to convert a Live Photo into a video clip](https://appleinsider.com/inside/ios/tips/how-to-convert-a-live-photo-into-a-video-clip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
