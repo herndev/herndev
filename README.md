@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GLAAD report says Meta allows anti-trans hate to ‘flourish’ on its platforms](https://www.theverge.com/2024/3/27/24113755/meta-anti-trans-hate-speech-glaad-instagram-facebook-threads)
- - [Data observability service Observe raised a $115M Series B led by Sutter Hill Ventures with participation from Snowflake, sources say at a $400M-$500M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240327/p33#a240327p33)
- - [Twitch bans turning butts and boobs into green screens](https://www.theverge.com/2024/3/27/24113838/twitch-community-update-body-part-screens-morgpie)<!-- TECH:END -->
+ - [Drowning in tabs? Chrome for Android may get a feature to solve your problem](https://www.androidauthority.com/chrome-android-tab-declutter-3429331/)
+ - [MLCommons announces results from its MLPerf 4.0 inference benchmarks, which added Llama 2 70B and Stable Diffusion XL; systems with Nvidia GPUs came out on top &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/240327/p35#a240327p35)
+ - [Apple Vision Pro is $200 off, but the deal is at risk of selling out](https://appleinsider.com/articles/24/03/27/apple-vision-pro-is-200-off-but-the-deal-is-at-risk-of-selling-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
