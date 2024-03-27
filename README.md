@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)
- - ⏩ [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
- - 👉 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)<!-- MEMES:END -->
+ - 💣 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - ⏩ [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 👉 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)<!-- MEMES:END -->
 
 ---
 
