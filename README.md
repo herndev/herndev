@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Viam, which offers an automation software platform for robotics, IoT, smart homes, and more, raised a $45M Series B, taking its total raised to $87M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240326/p49#a240326p49)
- - [Apple responds to DOJ antitrust lawsuit by refuting every claim](https://appleinsider.com/articles/24/03/27/apple-responds-to-doj-antitrust-lawsuit-by-refuting-every-claim?utm_medium=rss)
- - [Portugal&#39;s data regulator orders Worldcoin to stop collecting biometric data for 90 days, after receiving complaints about unauthorized collection from minors &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/240326/p48#a240326p48)<!-- TECH:END -->
+ - [How to convert a Live Photo into a video clip](https://appleinsider.com/inside/ios/tips/how-to-convert-a-live-photo-into-a-video-clip?utm_medium=rss)
+ - [Best iPhone 15 and iPhone 15 Pro Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
+ - [Best Blue-Light-Blocking Glasses of 2024     - CNET](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
