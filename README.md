@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Standing in a swamp during a lightning storm](http://9gag.com/gag/a87debe)
- - ⏩ [Forbidden moves](http://9gag.com/gag/aYQjAx0)
- - 👉 [60 second explanation of Baltimore bridge collapse](http://9gag.com/gag/aAyBOV0)<!-- MEMES:END -->
+ - 💣 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
+ - ⏩ [A win-win situation, i guess..](http://9gag.com/gag/aVvjL2v)
+ - 👉 [Forbidden moves](http://9gag.com/gag/aYQjAx0)<!-- MEMES:END -->
 
 ---
 
