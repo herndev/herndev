@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain game Munchables, which lets players earn rewards by looking after digital creatures, loses an estimated ~$63M worth of ETH in a hacking incident &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240327/p3#a240327p3)
- - [Hands-on with Journal on iPhone: first suggestions can be jarring but get better with time; experts say the app can do more to help users set goals and reflect &lpar;Zoe Denenberg/Wall Street Journal&rpar;](http://www.techmeme.com/240327/p2#a240327p2)
- - [Jakarta-based online personal insurance marketplace Qoala raised a $47M Series C co-led by PayPal Ventures and MassMutual Ventures, for $130M+ in total funding &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240327/p1#a240327p1)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 6 and Z Flip 6 won’t improve on charging this year](https://www.androidauthority.com/samsung-galaxy-z-fold-6-flip-6-25w-charging-3429024/)
+ - [A look at the international battles to regulate AI, as nations, lobbyists, and tech companies vie for influence over the future of AI policy &lpar;Politico&rpar;](http://www.techmeme.com/240327/p6#a240327p6)
+ - [The DOJ compares Apple&#39;s 2023 $77B buyback program with the company&#39;s half as much spend on R&amp;D and highlights it as a lack of incentive for Apple to innovate &lpar;Financial Times&rpar;](http://www.techmeme.com/240327/p5#a240327p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
