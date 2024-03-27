@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
- - ⏩ [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 👉 [Ouch](http://9gag.com/gag/a87d2Q3)<!-- MEMES:END -->
+ - 💣 [Bad ending](http://9gag.com/gag/axyEOXL)
+ - ⏩ [Who wants the tape after me?](http://9gag.com/gag/a7ovNVz)
+ - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
 
 ---
 
