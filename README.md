@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus officially unveils its very green new logo](https://www.theverge.com/2024/3/27/24112994/disney-plus-logo-green-aurora-streaming-app)
- - [The Disney Plus-Hulu merger is way more than a streaming bundle](https://www.theverge.com/2024/3/27/24112747/disney-plus-hulu-tile-app-streaming)
- - [Leader of counterfeit Apple crime ring sentenced to more than four years](https://appleinsider.com/articles/24/03/27/leader-of-counterfeit-apple-crime-ring-sentenced-to-more-than-four-years?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;World of Warships: Legends&#39; sails onto iPhone and iPad](https://appleinsider.com/articles/24/03/27/world-of-warships-legends-sails-onto-iphone-and-ipad?utm_medium=rss)
+ - [Google researchers observed 97 zero-day exploits in the wild in 2023, up 50% from 62 in 2022; 48 were used by espionage actors and 10 were financially-motivated &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240327/p22#a240327p22)
+ - [Pixel 9’s ‘Three-Body Problem’ — Is a trio better than two Google flagships?](https://www.androidauthority.com/pixel-9-three-phones-poll-3429138/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
