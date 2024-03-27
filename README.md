@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jakarta-based online personal insurance marketplace Qoala raised a $47M Series C co-led by PayPal Ventures and MassMutual Ventures, for $130M+ in total funding &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240327/p1#a240327p1)
- - [DroneUp unveils an autonomous drone &quot;ecosystem&quot; for last-mile deliveries, with Walmart, 7-Eleven, and Chick-fil-A the first retailers to pilot the system &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240326/p50#a240326p50)
- - [Best Food Processors of 2024: KitchenAid, Cuisinart and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blockchain game Munchables, which lets players earn rewards by looking after digital creatures, loses an estimated ~$63M worth of ETH in a hacking incident &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240327/p3#a240327p3)
+ - [Hands-on with Journal on iPhone: first suggestions can be jarring but get better with time; experts say the app can do more to help users set goals and reflect &lpar;Zoe Denenberg/Wall Street Journal&rpar;](http://www.techmeme.com/240327/p2#a240327p2)
+ - [Jakarta-based online personal insurance marketplace Qoala raised a $47M Series C co-led by PayPal Ventures and MassMutual Ventures, for $130M+ in total funding &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240327/p1#a240327p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
