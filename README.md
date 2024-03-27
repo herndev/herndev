@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds more AI in shopping](https://www.theverge.com/2024/3/27/24113485/google-shopping-generative-ai-image-generation-rating-style)
- - [Updates to Google Maps and Search make it easier to plan your next outing](https://www.theverge.com/2024/3/27/24113348/google-maps-search-update-itineraries-lists-translation)
- - [The Polestar 4 is also getting a price cut ahead of its debut](https://www.theverge.com/2024/3/27/24113451/polestar-4-price-cut-production-delivery-ev-coupe)<!-- TECH:END -->
+ - [‘Malicious Activity’ Hits the University of Cambridge’s Medical School](https://www.wired.com/story/university-of-cambridge-medical-school-malicious-activity/)
+ - [Google adds a tool that lets US users swipe left or right to rate apparel and accessories to get style recommendations on mobile browsers and Google app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240327/p30#a240327p30)
+ - [AirPods &amp; Apple Watch market share insight opens debate on consumer choice](https://appleinsider.com/articles/24/03/27/airpods-apple-watch-market-share-insight-opens-debate-on-consumer-choice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
