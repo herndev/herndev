@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Disney+ Hotstar&#39;s and JioCinema&#39;s strategy to beat Netflix and Prime Video in India, including by focusing on sports content and affordable pricing &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/240327/p7#a240327p7)
- - [Pixel phones seem to have a strange alarm bug](https://www.androidauthority.com/pixel-alarm-bug-3429055/)
- - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Download: OnePlus 12 and OnePlus 11 get new update with Photo Collages and more](https://www.androidauthority.com/download-oneplus-12-11-new-update-photo-collages-3429069/)
+ - [A profile of Swedish accounting software maker Fortnox, valued at $4.6B after its stock rose 5x since 2020, as some analysts question its growth prospects &lpar;Financial Times&rpar;](http://www.techmeme.com/240327/p8#a240327p8)
+ - [These Bose Headphones Are a Noise-Cancelling Dream, and They&#39;re on Sale Right Now     - CNET](https://www.cnet.com/deals/these-bose-headphones-are-a-noise-cancelling-dream-and-theyre-on-sale-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
