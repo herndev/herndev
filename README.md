@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Difference between parenting a son and a daughter \ud83d\ude02](http://9gag.com/gag/aO8oPjR)
- - ⏩ [Hmmm I know](http://9gag.com/gag/aoymLYm)
- - 👉 [15 years?](http://9gag.com/gag/awyNLZD)<!-- MEMES:END -->
+ - 💣 [On the run](http://9gag.com/gag/avy2xA5)
+ - ⏩ [Mondays got me like](http://9gag.com/gag/aNDmVEA)
+ - 👉 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)<!-- MEMES:END -->
 
 ---
 
