@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [V Rising gets the crossover every self-respecting vampire wants: Castlevania&#39;s Simon Belmont is coming to try and kill you](https://www.pcgamer.com/games/survival-crafting/v-rising-gets-the-crossover-every-self-respecting-vampire-wants-castlevanias-simon-belmont-is-coming-to-try-and-kill-you)
- - [Marvel Unveils Its Overwatch-Style Hero Shooter, Marvel Rivals](https://kotaku.com/marvel-rivals-trailer-release-date-pc-roster-heroes-1851369240)
- - [Stellar Blade Previews Say It&#39;s More Sekiro Than Bayonetta](https://kotaku.com/stellar-blade-ps5-game-previews-sekiro-ragnarok-nier-1851369139)<!-- GAME:END -->
+ - [Sega of America workers ratify union contract, protecting 150 employees](https://www.polygon.com/24113444/sega-america-workers-union-contract-aegis)
+ - [Overwatch 2’s new hero Venture is playable for free this weekend](https://www.polygon.com/24113610/overwatch-2-venture-release-date-free-trial)
+ - [Beware gifts of counterfeit &#39;ferristones&#39; in Dragon&#39;s Dogma 2—nothing bad&#39;ll happen if you use one, you&#39;ll just look stupid in front of all your gossipy pawns](https://www.pcgamer.com/games/rpg/beware-gifts-of-counterfeit-ferristones-in-dragons-dogma-2nothing-badll-happen-if-you-use-one-youll-just-look-stupid-in-front-of-all-your-gossipy-pawns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
