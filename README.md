@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China iPhone sales dropped significantly more than normal in February](https://appleinsider.com/articles/24/03/27/china-iphone-sales-dropped-significantly-more-than-normal-in-february?utm_medium=rss)
- - [How Phil Schiller, now an Apple Fellow, emerged as Apple&#39;s most ardent public defender of its ecosystem, under threat from the US DOJ, the EU, rivals, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240327/p13#a240327p13)
- - [Productivity platform Airtable launches Airtable AI, adding AI summaries, categorization, and translation via GPT-3.5, GPT-4, and Anthropic&#39;s Claude &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240327/p12#a240327p12)<!-- TECH:END -->
+ - [Chinese iPhone sales may be decelerating at faster pace than expected](https://appleinsider.com/articles/24/03/27/china-iphone-sales-dropped-significantly-more-than-normal-in-february?utm_medium=rss)
+ - [Elon Musk says X plans to make Grok available to all Premium subscribers &quot;later this week&quot;, expanding on Premium+ support; X Premium costs $8 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240327/p15#a240327p15)
+ - [Apple releases incredibly minor iOS &amp; iPadOS updates](https://appleinsider.com/articles/24/03/27/apple-releases-incredibly-minor-ios-ipados-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
