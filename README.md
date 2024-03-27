@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phil Spencer says he&#39;s open to bringing stores like Epic and Steam to Xbox consoles](https://www.pcgamer.com/gaming-industry/phil-spencer-says-hes-open-to-bringing-stores-like-epic-and-steam-to-xbox-consoles)
- - [The award for Dragon&#39;s Dogma 2&#39;s biggest jerks goes to the griffins](https://www.pcgamer.com/games/rpg/the-award-for-dragons-dogma-2s-biggest-jerks-goes-to-the-griffins)
- - [Judas Previews Don’t Make The Game’s Lofty Promises Seem Any Closer To Reality](https://kotaku.com/judas-previews-bioshock-ken-levine-1851367642)<!-- GAME:END -->
+ - [The Spring Sale comes to PlayStation Store](https://blog.playstation.com/2024/03/26/the-spring-sale-comes-to-playstation-store-3/)
+ - [South Park: Snow Day review](https://www.pcgamer.com/games/action/south-park-snow-day-review)
+ - [Phil Spencer says he&#39;s open to bringing stores like Epic and Itch.io to Xbox consoles](https://www.pcgamer.com/gaming-industry/phil-spencer-says-hes-open-to-bringing-stores-like-epic-and-steam-to-xbox-consoles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
