@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Malicious Activity’ Hits the University of Cambridge’s Medical School](https://www.wired.com/story/university-of-cambridge-medical-school-malicious-activity/)
- - [Google adds a tool that lets US users swipe left or right to rate apparel and accessories to get style recommendations on mobile browsers and Google app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240327/p30#a240327p30)
- - [AirPods &amp; Apple Watch market share insight opens debate on consumer choice](https://appleinsider.com/articles/24/03/27/airpods-apple-watch-market-share-insight-opens-debate-on-consumer-choice?utm_medium=rss)<!-- TECH:END -->
+ - [The principles of wearable etiquette](https://www.theverge.com/2024/3/27/24113500/wearables-smartwatches-smart-glasses-smart-rings-etiquette)
+ - [Xfinity Mobile revamps Unlimited plans with more data, slashes prices per line](https://www.androidauthority.com/xfinity-new-unlimited-plans-3429286/)
+ - [Google Chat finally gets this highly requested feature](https://www.androidauthority.com/google-chat-voice-messages-3429294/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
