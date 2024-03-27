@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Viam, which offers an automation software platform for robotics, IoT, smart homes, and more, raised a $45M Series B, taking its total raised to $87M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240326/p49#a240326p49)
  - [Apple responds to DOJ antitrust lawsuit by refuting every claim](https://appleinsider.com/articles/24/03/27/apple-responds-to-doj-antitrust-lawsuit-by-refuting-every-claim?utm_medium=rss)
- - [Portugal&#39;s data regulator orders Worldcoin to stop collecting biometric data for 90 days, after receiving complaints about unauthorized collection from minors &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/240326/p48#a240326p48)
- - [Electric Rate Shopping for Your Business: Buy in Bulk and Pay Less     - CNET](https://www.cnet.com/how-to/electric-rate-shopping-for-your-business-buy-in-bulk-and-pay-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Portugal&#39;s data regulator orders Worldcoin to stop collecting biometric data for 90 days, after receiving complaints about unauthorized collection from minors &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/240326/p48#a240326p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
