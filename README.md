@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Spring Sale comes to PlayStation Store](https://blog.playstation.com/2024/03/26/the-spring-sale-comes-to-playstation-store-3/)
- - [South Park: Snow Day review](https://www.pcgamer.com/games/action/south-park-snow-day-review)
- - [Phil Spencer says he&#39;s open to bringing stores like Epic and Itch.io to Xbox consoles](https://www.pcgamer.com/gaming-industry/phil-spencer-says-hes-open-to-bringing-stores-like-epic-and-steam-to-xbox-consoles)<!-- GAME:END -->
+ - [Geneforge 2: Infestation read the standard CRPG manual, then set it on fire](https://www.pcgamer.com/games/rpg/geneforge-2-infestation-read-the-standard-crpg-manual-then-set-it-on-fire)
+ - [Midnight Suns devs &#39;absolutely&#39; knew cards would be a controversial choice, but they were also &#39;absolutely the right fit for this game and our design goals&#39;](https://www.pcgamer.com/games/strategy/midnight-suns-devs-absolutely-knew-cards-would-be-a-controversial-choice-but-they-were-also-absolutely-the-right-fit-for-this-game-and-our-design-goals)
+ - [The Spring Sale comes to PlayStation Store](https://blog.playstation.com/2024/03/26/the-spring-sale-comes-to-playstation-store-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
