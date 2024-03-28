@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Adult Swim Games delisting situation is strange, even to lawyers](https://www.polygon.com/pc/24113466/adult-swim-games-delisting-law-warner-bros-discovery-archiving)
- - [&#39;Farewell, battle brother&#39;: Helldivers 2 players honour a late soldier with thousands of salutes, Arrowhead Games&#39; CEO says he&#39;ll work with the dev team on a fitting tribute](https://www.pcgamer.com/games/third-person-shooter/farewell-battle-brother-helldivers-2-players-honour-a-late-soldier-with-thousands-of-salutes-arrowhead-games-ceo-says-hell-work-with-the-dev-team-on-a-fitting-tribute)
- - [Remedy comms director says upcoming live-service Control spin-off is &#39;for fans we don&#39;t have yet&#39; as he muses on &#39;how challenging the co-op multiplayer space is&#39;](https://www.pcgamer.com/games/third-person-shooter/remedy-comms-director-says-upcoming-live-service-control-spin-off-is-for-fans-we-dont-have-yet-as-he-muses-on-how-challenging-the-co-op-multiplayer-space-is)<!-- GAME:END -->
+ - [Embracer Sells Borderlands Maker Gearbox For Less Than Half Of What It Paid](https://kotaku.com/gearbox-software-embracer-sale-borderlands-homeworld-1851371254)
+ - [12 Cool Games We Saw At PAX East 2024](https://kotaku.com/pax-east-2024-games-chronosphere-pipstrello-fretless-1851370404)
+ - [Sega Europe laying off 240 workers, selling off Company of Heroes developer Relic](https://www.polygon.com/24114464/sega-europe-march-2024-layoffs-relic-entertainment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
