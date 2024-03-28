@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
- - ⏩ [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
- - 👉 [Found in the wild. I thought it was just a myth](http://9gag.com/gag/a7ovNye)<!-- MEMES:END -->
+ - 💣 [Idiot Impossible](http://9gag.com/gag/azx74Ob)
+ - ⏩ [Man\u2019s riffs could even make the devil shed a tear\u2026](http://9gag.com/gag/aPA6QKQ)
+ - 👉 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)<!-- MEMES:END -->
 
 ---
 
