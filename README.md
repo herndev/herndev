@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former US senator and anti-videogame crusader Joe Lieberman has died at age 82](https://www.pcgamer.com/games/former-us-senator-and-anti-videogame-crusader-joe-lieberman-has-died-at-age-82)
- - [Reports of World of Warcraft&#39;s death may have been greatly exaggerated, as Blizzard&#39;s GM proudly wheels out a graph showing it&#39;s doing really well—but no hard numbers](https://www.pcgamer.com/games/mmo/reports-of-world-of-warcrafts-death-may-have-been-greatly-exaggerated-as-blizzards-gm-proudly-wheels-out-a-graph-showing-its-doing-really-wellbut-no-hard-numbers)
- - [Pepper Grinder&#39;s A Wonderfully Short Platformer Missing Its &#39;A-Ha&#39; Moment](https://kotaku.com/pepper-grinder-platformer-switch-steam-review-1851372500)<!-- GAME:END -->
+ - [CDPR Says Cyberpunk 2077 Has Made $750 Million So Far](https://kotaku.com/cyberpunk-2077-sales-750-million-phantom-liberty-dlc-1851372913)
+ - [&#39;Such a democratic weapon it makes me cry&#39;: Helldivers 2 players salute the Quasar Cannon, Super Earth&#39;s new heavy armor god gun](https://www.pcgamer.com/games/third-person-shooter/such-a-democratic-weapon-it-makes-me-cry-helldivers-2-players-salute-the-quasar-cannon-super-earths-new-heavy-armor-god-weapon)
+ - [Chani is the real protagonist of Dune: Part Two](https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
