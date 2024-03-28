@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh snap](http://9gag.com/gag/aPA6nbR)
- - ⏩ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
+ - 💣 [The way he just lights up.](http://9gag.com/gag/aZZqvj9)
+ - ⏩ [Back Crack!](http://9gag.com/gag/abA3QoB)
+ - 👉 [Those ruffians will cease to cause any more tomfoolery once and for all!](http://9gag.com/gag/aE0dEj9)<!-- MEMES:END -->
 
 ---
 
