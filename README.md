@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FF7 Rebirth&#39;s Platinum Trophy Is Currently Impossible To Get If You Bought It Digitally](https://kotaku.com/ff7-rebirth-g-bike-upa-quest-broken-score-glitch-fix-1851372282)
- - [GTA Online update for the week of March 28](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [This tiny battery pack can power your Steam Deck for just $35](https://www.polygon.com/deals/24114626/portable-battery-steam-deck-switch-zendure-amazon-deal-sale)<!-- GAME:END -->
+ - [Even with the Dragonsplague, Dragon&#39;s Dogma 2 isn&#39;t as mean as its predecessor—but I love how faithful it is to the series&#39; strange and unique identity](https://www.pcgamer.com/games/rpg/even-with-the-dragonsplague-dragons-dogma-2-isnt-as-mean-as-its-predecessorbut-i-love-how-faithful-it-is-to-the-series-strange-and-unique-identity)
+ - [Dropout’s new show Smartypants is bringing PowerPoint parties to your screen](https://www.polygon.com/24114777/dropout-tv-smartypants-powerpoint-party-streaming)
+ - [The best accessories for your Steam Deck OLED and LCD](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
