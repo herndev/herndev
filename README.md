@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - ⏩ [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - 👉 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)<!-- MEMES:END -->
+ - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
+ - ⏩ [That camel must be so happy to get that off his back](http://9gag.com/gag/an7eE90)
+ - 👉 [Stay safe, kings](http://9gag.com/gag/a2vEL01)<!-- MEMES:END -->
 
 ---
 
