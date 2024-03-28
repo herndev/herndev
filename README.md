@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Joe Lieberman, Senator Who Crusaded Against Video-Game Violence, Dead At 82](https://kotaku.com/joe-lieberman-anti-video-game-violence-senator-dead-1851371611)
- - [Stampede: Racing Royale on Xbox Insider Program – Test Drive the Wild 60-Player Online Kart Racer](https://news.xbox.com/en-us/2024/03/28/stampede-racing-royale-on-xbox-insider-program-test-drive-the-wild-60-player-online-kart-racer/)
- - [Get a First Look at Ace Customization in Towerborne](https://www.towerborne.com/towerborne-will-give-players-numerous-ace-customization-options-with-mirrors-wagon/)<!-- GAME:END -->
+ - [Delicious in Dungeon fans have embraced Senshi the dwarven chef as their sexy cooking daddy](https://www.polygon.com/anime/24112857/delicious-in-dungeon-meshi-senshi-panty-shot-upskirt-sexy)
+ - [Earthblade, the next game from the makers of Towerfall and Celeste, &#39;ain&#39;t coming out in 2024&#39;](https://www.pcgamer.com/games/action/earthblade-the-next-game-from-the-makers-of-towerfall-and-celeste-aint-coming-out-in-2024)
+ - [NZXT Relay review](https://www.pcgamer.com/hardware/speakers/nzxt-relay-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
