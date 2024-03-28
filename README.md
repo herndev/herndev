@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is he alive?! Need clarification!](http://9gag.com/gag/aVvjRrw)
- - ⏩ [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
+ - 💣 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
+ - ⏩ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 👉 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)<!-- MEMES:END -->
 
 ---
 
