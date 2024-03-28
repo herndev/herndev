@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Embracer has sold Gearbox — and Borderlands — to Take-Two for $460M](https://www.polygon.com/24114399/embracer-gearbox-borderlands-take-two-2k-sale)
- - [PC Gamer magazine&#39;s new issue is on sale now: Final Fantasy XIV: Dawntrail](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-final-fantasy-xiv-dawntrail)
- - [Flagging megacorp Embracer Group is now selling off Gearbox Entertainment to Take-Two for $460 million](https://www.pcgamer.com/gaming-industry/flagging-megacorp-embracer-group-is-now-selling-off-gearbox-entertainment-to-take-two-for-dollar460-million)<!-- GAME:END -->
+ - [The Adult Swim Games delisting situation is strange, even to lawyers](https://www.polygon.com/pc/24113466/adult-swim-games-delisting-law-warner-bros-discovery-archiving)
+ - [&#39;Farewell, battle brother&#39;: Helldivers 2 players honour a late soldier with thousands of salutes, Arrowhead Games&#39; CEO says he&#39;ll work with the dev team on a fitting tribute](https://www.pcgamer.com/games/third-person-shooter/farewell-battle-brother-helldivers-2-players-honour-a-late-soldier-with-thousands-of-salutes-arrowhead-games-ceo-says-hell-work-with-the-dev-team-on-a-fitting-tribute)
+ - [Remedy comms director says upcoming live-service Control spin-off is &#39;for fans we don&#39;t have yet&#39; as he muses on &#39;how challenging the co-op multiplayer space is&#39;](https://www.pcgamer.com/games/third-person-shooter/remedy-comms-director-says-upcoming-live-service-control-spin-off-is-for-fans-we-dont-have-yet-as-he-muses-on-how-challenging-the-co-op-multiplayer-space-is)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
