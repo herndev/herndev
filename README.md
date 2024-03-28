@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why do Pixels now get 7 years of updates? Google explains in new podcast episode.](https://www.androidauthority.com/pixels-seven-years-explanation-3429627/)
- - [Bolt told investors that it had revenue of $19.4M for the nine months ending in October 2023, essentially flat YoY; Bolt&#39;s troubles grow with a Fanatics lawsuit &lpar;The Information&rpar;](http://www.techmeme.com/240328/p28#a240328p28)
- - [Bug Zappers Are Swarming on Amazon](https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/)<!-- TECH:END -->
+ - [iPhone 12 users can enjoy faster wireless charging with iOS 17.4 update](https://www.androidauthority.com/iphone-12-15-watt-wireless-charging-3429631/)
+ - [Microsoft’s new safety system can catch hallucinations in its customers’ AI apps](https://www.theverge.com/2024/3/28/24114664/microsoft-safety-ai-prompt-injections-hallucinations-azure)
+ - [Reddit shares plunge almost 25% in two days, after soaring 30% on Monday, and finish the week at $49.30, below the first trading day close of $50.44 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240328/p30#a240328p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
