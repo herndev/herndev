@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 is coming soon with AI, a new interface, and accessibility: what to expect at WWDC 2024](https://appleinsider.com/articles/24/03/28/ios-18-is-coming-soon-with-ai-a-new-interface-and-accessibility-what-to-expect-at-wwdc-2024?utm_medium=rss)
- - [Get a Mac Studio M1 Ultra for just $2,199, now $1,800 off during Prime Appreciation Sale](https://appleinsider.com/articles/24/03/28/get-a-mac-studio-m1-ultra-for-just-2199-now-1800-off-during-prime-appreciation-sale?utm_medium=rss)
- - [Amazon launches iOS and Android apps for Amazon One, which let users sign up for the palm-scanning service by using generative AI to analyze palm vein structure &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240328/p24#a240328p24)<!-- TECH:END -->
+ - [Apple sues ex employee over iOS Journal app leaks](https://appleinsider.com/articles/24/03/28/apple-sues-ex-employee-over-ios-journal-app-leaks?utm_medium=rss)
+ - [You may need to wait a little longer than expected for a new iPad Pro &amp; iPad Air](https://appleinsider.com/articles/24/03/28/you-may-need-to-wait-a-little-longer-than-expected-for-a-new-ipad-pro-ipad-air?utm_medium=rss)
+ - [Android 15 may protect you from rogue ‘stingray’ tracking devices](https://www.androidauthority.com/android-15-protect-stingray-3429608/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
