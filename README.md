@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
- - ⏩ [He has a point](http://9gag.com/gag/aVvjRd8)
- - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
+ - 💣 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - ⏩ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 👉 [&lpar;Jia lissa &rpar;..I&#39;m sure 9gag experts can fix her](http://9gag.com/gag/aBy9OYN)<!-- MEMES:END -->
 
 ---
 
