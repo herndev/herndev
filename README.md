@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Throwing A Snowball Can Crash Helldivers 2, Devs Suggest You Don&#39;t](https://kotaku.com/helldivers-2-snowball-fight-crash-bug-arrowhead-devs-1851373099)
- - [I really enjoyed running around as a tiny ant in this upcoming RTS](https://www.pcgamer.com/games/rts/i-really-enjoyed-running-around-as-a-tiny-ant-in-this-upcoming-rts)
- - [22 Years Ago, Kingdom Hearts Almost Got Me Grounded For Life](https://kotaku.com/kingdom-hearts-1-playstation-ps2-anniversary-1851372964)<!-- GAME:END -->
+ - [PSA: Diablo 4 is now on PC Game Pass, just in time to prepare for its biggest update ever](https://www.pcgamer.com/games/action/psa-diablo-4-is-now-on-pc-game-pass-just-in-time-to-prepare-for-its-biggest-update-ever)
+ - [What to know about the MonsterVerse before Godzilla x Kong: The New Empire](https://www.polygon.com/24115007/godzilla-x-kong-new-empire-post-credits-scene-monsterverse)
+ - [All Sphinx riddles and solutions in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24114535/sphinx-riddles-solutions-locations-a-game-of-wits-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
