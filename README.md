@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may have delayed foldable iPhone &lpar;or iPad&rpar; launch, moved Vision Pro engineers to team](https://www.androidauthority.com/foldable-iphone-delay-3429556/)
- - [Google&#39;s charitable wing Google.org launches a generative AI accelerator, to be funded by $20M in grants and include 21 nonprofits to start, including Quill.org &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240328/p20#a240328p20)
- - [Google says Gemini Nano is coming to Pixel 8 with the next Pixel Feature Drop, after previously saying the device won&#39;t get Nano due to &quot;hardware limitations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240328/p19#a240328p19)<!-- TECH:END -->
+ - [Godzilla x Kong: The New Empire overdoes it all](https://www.theverge.com/24113767/godzilla-x-kong-the-new-empire-review)
+ - [Sam Bankman-Fried has been convicted of fraud and sentenced to 25 years in prison](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
+ - [FTX Founder Sam Bankman-Fried Sentenced to 25 Years in Prison](https://www.wired.com/story/sam-bankman-fried-sentenced-ftx-fraud/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
