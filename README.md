@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is adding AI to its Ray-Ban smart glasses next month](https://www.theverge.com/2024/3/28/24114454/meta-ai-ray-ban-smart-glasses-launch)
- - [Microsoft rolls out Azure AI Studio tools to stop users from making AI chatbots behave in unintended ways, including &quot;prompt shields&quot; and warning alerts &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240328/p17#a240328p17)
- - [A quarter of YouTube’s paid creators are earning money with Shorts](https://www.theverge.com/2024/3/28/24114031/youtube-shorts-partner-program-ad-sharing-revenue)<!-- TECH:END -->
+ - [Apple may have delayed foldable iPhone &lpar;or iPad&rpar; launch, moved Vision Pro engineers to team](https://www.androidauthority.com/foldable-iphone-delay-3429556/)
+ - [Google&#39;s charitable wing Google.org launches a generative AI accelerator, to be funded by $20M in grants and include 21 nonprofits to start, including Quill.org &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240328/p20#a240328p20)
+ - [Google says Gemini Nano is coming to Pixel 8 with the next Pixel Feature Drop, after previously saying the device won&#39;t get Nano due to &quot;hardware limitations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240328/p19#a240328p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
