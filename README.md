@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back Crack!](http://9gag.com/gag/abA3QoB)
- - ⏩ [Why model if goblin do job](http://9gag.com/gag/aqy4dxZ)
- - 👉 [Freedom!!!](http://9gag.com/gag/aoymD7g)<!-- MEMES:END -->
+ - 💣 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - ⏩ [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
 
 ---
 
