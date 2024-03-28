@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - ⏩ [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
+ - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - ⏩ [Oh snap](http://9gag.com/gag/aPA6nbR)
+ - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---
 
