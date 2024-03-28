@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Similarweb: GPTs created by subscribers on OpenAI&#39;s GPT Store accounted for just 1.5% of desktop visits to ChatGPT&#39;s site in February, suggesting limited appeal &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/240328/p3#a240328p3)
- - [Pixel phones have a strange alarm bug &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/pixel-alarm-bug-3429055/)
- - [Leaked images show a white disc-less Xbox Series X console, which Microsoft plans to release in 2024, with the same design as the existing black Xbox Series X &lpar;&amp;Aacute;lvaro/eXputer&rpar;](http://www.techmeme.com/240328/p2#a240328p2)<!-- TECH:END -->
+ - [A look at the rise and fall of Emad Mostaque and Stability AI, including how Mostaque&#39;s relationship with Coatue and Lightspeed blossomed and fell apart &lpar;Fortune&rpar;](http://www.techmeme.com/240328/p5#a240328p5)
+ - [How in-app browsers silently subvert user choice, stifle innovation, trap users into apps, break websites, and enable apps to severely undermine user privacy &lpar;Open Web Advocacy&rpar;](http://www.techmeme.com/240328/p4#a240328p4)
+ - [Similarweb: GPTs created by subscribers on OpenAI&#39;s GPT Store accounted for just 1.5% of desktop visits to ChatGPT&#39;s site in February, suggesting limited appeal &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/240328/p3#a240328p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
