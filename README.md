@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way he just lights up.](http://9gag.com/gag/aZZqvj9)
- - ⏩ [Back Crack!](http://9gag.com/gag/abA3QoB)
- - 👉 [Those ruffians will cease to cause any more tomfoolery once and for all!](http://9gag.com/gag/aE0dEj9)<!-- MEMES:END -->
+ - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - ⏩ [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
+ - 👉 [Freedom!!!](http://9gag.com/gag/aoymD7g)<!-- MEMES:END -->
 
 ---
 
