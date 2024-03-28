@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - ⏩ [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
+ - 💣 [Back Crack!](http://9gag.com/gag/abA3QoB)
+ - ⏩ [Why model if goblin do job](http://9gag.com/gag/aqy4dxZ)
  - 👉 [Freedom!!!](http://9gag.com/gag/aoymD7g)<!-- MEMES:END -->
 
 ---
