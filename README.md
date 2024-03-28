@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Final Fantasy XIV: Dawntrail](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-final-fantasy-xiv-dawntrail)
  - [Flagging megacorp Embracer Group is now selling off Gearbox Entertainment to Take-Two for $460 million](https://www.pcgamer.com/gaming-industry/flagging-megacorp-embracer-group-is-now-selling-off-gearbox-entertainment-to-take-two-for-dollar460-million)
- - [AI is poised to tackle some of the world&#39;s most important issues, including making beer taste better](https://www.pcgamer.com/software/ai/ai-is-poised-to-tackle-some-of-the-worlds-most-important-issues-including-making-beer-taste-better)
- - [Today&#39;s Wordle answer for Thursday, March 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-28-2024)<!-- GAME:END -->
+ - [AI is poised to tackle some of the world&#39;s most important issues, including making beer taste better](https://www.pcgamer.com/software/ai/ai-is-poised-to-tackle-some-of-the-worlds-most-important-issues-including-making-beer-taste-better)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
