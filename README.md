@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - ⏩ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 👉 [Happiness Noise](http://9gag.com/gag/aqy4DWp)<!-- MEMES:END -->
+ - 💣 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
+ - ⏩ [He has a point](http://9gag.com/gag/aVvjRd8)
+ - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
 
 ---
 
