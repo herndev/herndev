@@ -33,7 +33,7 @@
 
 <!-- GAME:START -->
  - [Stardew Valley gets another new patch that fixes the &#39;creepy face&#39; bear and makes new cabins paintable](https://www.pcgamer.com/games/life-sim/stardew-valley-gets-another-new-patch-that-fixes-the-creepy-face-bear-and-makes-new-cabins-paintable)
- - [Game developers to addiction lawsuit: You can&#39;t sue us for making our games &#39;too entertaining&#39;](https://www.pcgamer.com/gaming-industry/video-game-addiction-lawsuit-motion-to-dismiss)
+ - [You can&#39;t sue us for making games &#39;too entertaining,&#39; say major game developers in response to addiction lawsuits](https://www.pcgamer.com/gaming-industry/video-game-addiction-lawsuit-motion-to-dismiss)
  - [Lawyer warns game developers about &#39;unlawful game design&#39; as &#39;dark patterns&#39; lawsuits rise](https://www.pcgamer.com/gaming-industry/dark-patterns-in-games-gdc-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
