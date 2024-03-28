@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These older Galaxy Watches are getting a new update for more accurate health tracking](https://www.androidauthority.com/galaxy-watch-4-5-update-3429634/)
- - [Scammers are using sample videos of influencers with modest social media presence to create AI deepfake ads that often push offensive products and ideas &lpar;Washington Post&rpar;](http://www.techmeme.com/240328/p31#a240328p31)
- - [Sorry, Android 15’s new frame rate override feature won’t work for most games](https://www.androidauthority.com/android-15-override-game-fps-3429655/)<!-- TECH:END -->
+ - [5.5G networks are here, and so are the first Android phones to support it](https://www.androidauthority.com/find-x7-support-5ga-network-3429675/)
+ - [Cybersecurity startup Zafran, which develops risk mitigation services, emerges from stealth with a $25M Series A co-led by Sequoia Capital and Cyberstarts &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240328/p33#a240328p33)
+ - [Apple sues ex employee over iOS Journal app leaks](https://appleinsider.com/articles/24/03/28/apple-sues-ex-employee-over-ios-journal-app-leaks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
