@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CDPR Says Cyberpunk 2077 Has Made $750 Million So Far](https://kotaku.com/cyberpunk-2077-sales-750-million-phantom-liberty-dlc-1851372913)
- - [&#39;Such a democratic weapon it makes me cry&#39;: Helldivers 2 players salute the Quasar Cannon, Super Earth&#39;s new heavy armor god gun](https://www.pcgamer.com/games/third-person-shooter/such-a-democratic-weapon-it-makes-me-cry-helldivers-2-players-salute-the-quasar-cannon-super-earths-new-heavy-armor-god-weapon)
- - [Chani is the real protagonist of Dune: Part Two](https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance)<!-- GAME:END -->
+ - [Throwing A Snowball Can Crash Helldivers 2, Devs Suggest You Don&#39;t](https://kotaku.com/helldivers-2-snowball-fight-crash-bug-arrowhead-devs-1851373099)
+ - [I really enjoyed running around as a tiny ant in this upcoming RTS](https://www.pcgamer.com/games/rts/i-really-enjoyed-running-around-as-a-tiny-ant-in-this-upcoming-rts)
+ - [22 Years Ago, Kingdom Hearts Almost Got Me Grounded For Life](https://kotaku.com/kingdom-hearts-1-playstation-ps2-anniversary-1851372964)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
