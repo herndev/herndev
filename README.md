@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)
- - ⏩ [Idiot Impossible](http://9gag.com/gag/azx74Ob)
- - 👉 [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)<!-- MEMES:END -->
+ - 💣 [That camel must be so happy to get that off his back](http://9gag.com/gag/an7eE90)
+ - ⏩ [Critics criticise just because it won&#39;t fit in their woke ideology](http://9gag.com/gag/an7eE1b)
+ - 👉 [Guy lights a cigarette on plane](http://9gag.com/gag/aVvjZ5w)<!-- MEMES:END -->
 
 ---
 
