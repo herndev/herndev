@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Questionable iPhone Fold rumor pushes release into early 2027](https://appleinsider.com/articles/24/03/28/questionable-iphone-fold-rumor-pushes-release-into-early-2027?utm_medium=rss)
- - [Limited-time MAX deal cuts the price by 42%](https://www.androidauthority.com/max-deal-3429343/)
- - [Samsung Exynos 1480 detailed: A big boost for Galaxy A phones?](https://www.androidauthority.com/samsung-exynos-1480-3429457/)<!-- TECH:END -->
+ - [RFK Jr. Has Assembled His Anti-Vax Conspiracy Squad](https://www.wired.com/story/rfk-jr-has-assembled-his-anti-vax-conspiracy-squad/)
+ - [Is a Nintendo Switch Worth Buying Right Now? &lpar;2024&rpar;](https://www.wired.com/story/is-a-nintendo-switch-worth-buying-right-now/)
+ - [How to download YouTube Videos with 4K Video Downloader](https://appleinsider.com/articles/24/03/28/how-to-download-youtube-videos-with-4k-video-downloader?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
