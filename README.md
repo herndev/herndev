@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every US federal agency must hire a chief AI officer](https://www.theverge.com/2024/3/28/24114105/federal-agencies-ai-responsible-guidance-omb-caio)
- - [New York City welcomes robotaxis — but only with safety drivers](https://www.theverge.com/2024/3/28/24108894/nyc-autonomous-robotaxi-safety-driver-permit-eric-adams)
- - [A profile of Anduril founder Palmer Luckey, as the AI surveillance and defense tech startup, which sells drones to the US, expects $1B in annual revenue by 2026 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240328/p6#a240328p6)<!-- TECH:END -->
+ - [Trump Media &amp; Technology Group closed up 14% at $66.22 on March 27, for a $13.5B market cap, as small investors boost the stock; Trump&#39;s stake is worth ~$5.3B &lpar;Financial Times&rpar;](http://www.techmeme.com/240328/p8#a240328p8)
+ - [Galaxy M55 5G launches: A Galaxy A55 with several upgrades &lpar;and downgrades&rpar;](https://www.androidauthority.com/samsung-galaxy-m55-5g-3429434/)
+ - [The US OMB releases new guidance on AI, requiring all federal agencies to have a senior leader overseeing all AI systems they use and submit an annual AI report &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240328/p7#a240328p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
