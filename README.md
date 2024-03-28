@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - ⏩ [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - 👉 [Happiness Noise](http://9gag.com/gag/aqy4DWp)<!-- MEMES:END -->
+ - 💣 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - ⏩ [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)
+ - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---
 
