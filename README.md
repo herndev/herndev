@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Economy class will be slightly less punishing if you fly on an aircraft with Panasonic&#39;s Astrova in-flight entertainment system](https://www.pcgamer.com/hardware/economy-class-will-be-slightly-less-punishing-if-you-fly-on-an-aircraft-with-panasonics-astrova-in-flight-entertainment-system)
  - [Stardew Valley gets another new patch that fixes the &#39;creepy face&#39; bear and makes new cabins paintable](https://www.pcgamer.com/games/life-sim/stardew-valley-gets-another-new-patch-that-fixes-the-creepy-face-bear-and-makes-new-cabins-paintable)
- - [You can&#39;t sue us for making games &#39;too entertaining,&#39; say major game developers in response to addiction lawsuits](https://www.pcgamer.com/gaming-industry/video-game-addiction-lawsuit-motion-to-dismiss)
- - [Lawyer warns game developers about &#39;unlawful game design&#39; as &#39;dark patterns&#39; lawsuits rise](https://www.pcgamer.com/gaming-industry/dark-patterns-in-games-gdc-2024)<!-- GAME:END -->
+ - [You can&#39;t sue us for making games &#39;too entertaining,&#39; say major game developers in response to addiction lawsuits](https://www.pcgamer.com/gaming-industry/video-game-addiction-lawsuit-motion-to-dismiss)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
