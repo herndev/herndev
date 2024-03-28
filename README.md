@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: One UI 6.1 update arrives for older Galaxy phones in the US](https://www.androidauthority.com/one-ui-6-1-galaxy-s23-galaxy-z-fold-5-galaxy-z-flip-5-us-rollout-3429403/)
- - [How to open an Apple Maps URL from a screenshot in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-open-an-apple-maps-url-from-a-screenshot-in-macos?utm_medium=rss)
- - [Robinhood’s New Gold Card Goes Head-to-Head With Apple and PayPal     - CNET](https://www.cnet.com/personal-finance/robinhoods-new-gold-card-goes-head-to-head-with-apple-and-paypal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Similarweb: GPTs created by subscribers on OpenAI&#39;s GPT Store accounted for just 1.5% of desktop visits to ChatGPT&#39;s site in February, suggesting limited appeal &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/240328/p3#a240328p3)
+ - [Pixel phones have a strange alarm bug &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/pixel-alarm-bug-3429055/)
+ - [Leaked images show a white disc-less Xbox Series X console, which Microsoft plans to release in 2024, with the same design as the existing black Xbox Series X &lpar;&amp;Aacute;lvaro/eXputer&rpar;](http://www.techmeme.com/240328/p2#a240328p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
