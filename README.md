@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Delicious in Dungeon fans have embraced Senshi the dwarven chef as their sexy cooking daddy](https://www.polygon.com/anime/24112857/delicious-in-dungeon-meshi-senshi-panty-shot-upskirt-sexy)
- - [Earthblade, the next game from the makers of Towerfall and Celeste, &#39;ain&#39;t coming out in 2024&#39;](https://www.pcgamer.com/games/action/earthblade-the-next-game-from-the-makers-of-towerfall-and-celeste-aint-coming-out-in-2024)
- - [NZXT Relay review](https://www.pcgamer.com/hardware/speakers/nzxt-relay-review)<!-- GAME:END -->
+ - [FF7 Rebirth&#39;s Platinum Trophy Is Currently Impossible To Get If You Bought It Digitally](https://kotaku.com/ff7-rebirth-g-bike-upa-quest-broken-score-glitch-fix-1851372282)
+ - [GTA Online update for the week of March 28](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
+ - [This tiny battery pack can power your Steam Deck for just $35](https://www.polygon.com/deals/24114626/portable-battery-steam-deck-switch-zendure-amazon-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
