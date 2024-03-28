@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boomer life](http://9gag.com/gag/apRKbBD)
- - ⏩ [Gambling is fun!](http://9gag.com/gag/aQz6O3r)
- - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
+ - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
+ - ⏩ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 👉 [Happiness Noise](http://9gag.com/gag/aqy4DWp)<!-- MEMES:END -->
 
 ---
 
