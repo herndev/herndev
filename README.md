@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Breaking: One UI 6.1 update arrives for older Galaxy phones in the US](https://www.androidauthority.com/one-ui-6-1-galaxy-s23-galaxy-z-fold-5-galaxy-z-flip-5-us-rollout-3429403/)
  - [How to open an Apple Maps URL from a screenshot in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-open-an-apple-maps-url-from-a-screenshot-in-macos?utm_medium=rss)
- - [Robinhood’s New Gold Card Goes Head-to-Head With Apple and PayPal     - CNET](https://www.cnet.com/personal-finance/robinhoods-new-gold-card-goes-head-to-head-with-apple-and-paypal/#ftag=CAD590a51e)
- - [GLAAD: Meta is failing to curb posts calling for violence against trans people, posts calling trans and gender nonconforming people &quot;satanic&quot;, and more &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240327/p41#a240327p41)<!-- TECH:END -->
+ - [Robinhood’s New Gold Card Goes Head-to-Head With Apple and PayPal     - CNET](https://www.cnet.com/personal-finance/robinhoods-new-gold-card-goes-head-to-head-with-apple-and-paypal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
