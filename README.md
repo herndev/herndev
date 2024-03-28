@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make tea, Not war](http://9gag.com/gag/aAyBZ4E)
- - ⏩ [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)
- - 👉 [Idiot Impossible](http://9gag.com/gag/azx74Ob)<!-- MEMES:END -->
+ - 💣 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - ⏩ [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 👉 [Happiness Noise](http://9gag.com/gag/aqy4DWp)<!-- MEMES:END -->
 
 ---
 
