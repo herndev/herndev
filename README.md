@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even with the Dragonsplague, Dragon&#39;s Dogma 2 isn&#39;t as mean as its predecessor—but I love how faithful it is to the series&#39; strange and unique identity](https://www.pcgamer.com/games/rpg/even-with-the-dragonsplague-dragons-dogma-2-isnt-as-mean-as-its-predecessorbut-i-love-how-faithful-it-is-to-the-series-strange-and-unique-identity)
- - [Dropout’s new show Smartypants is bringing PowerPoint parties to your screen](https://www.polygon.com/24114777/dropout-tv-smartypants-powerpoint-party-streaming)
- - [The best accessories for your Steam Deck OLED and LCD](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
+ - [Former US senator and anti-videogame crusader Joe Lieberman has died at age 82](https://www.pcgamer.com/games/former-us-senator-and-anti-videogame-crusader-joe-lieberman-has-died-at-age-82)
+ - [Reports of World of Warcraft&#39;s death may have been greatly exaggerated, as Blizzard&#39;s GM proudly wheels out a graph showing it&#39;s doing really well—but no hard numbers](https://www.pcgamer.com/games/mmo/reports-of-world-of-warcrafts-death-may-have-been-greatly-exaggerated-as-blizzards-gm-proudly-wheels-out-a-graph-showing-its-doing-really-wellbut-no-hard-numbers)
+ - [Pepper Grinder&#39;s A Wonderfully Short Platformer Missing Its &#39;A-Ha&#39; Moment](https://kotaku.com/pepper-grinder-platformer-switch-steam-review-1851372500)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
