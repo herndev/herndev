@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Embracer Sells Borderlands Maker Gearbox For Less Than Half Of What It Paid](https://kotaku.com/gearbox-software-embracer-sale-borderlands-homeworld-1851371254)
- - [12 Cool Games We Saw At PAX East 2024](https://kotaku.com/pax-east-2024-games-chronosphere-pipstrello-fretless-1851370404)
- - [Sega Europe laying off 240 workers, selling off Company of Heroes developer Relic](https://www.polygon.com/24114464/sega-europe-march-2024-layoffs-relic-entertainment)<!-- GAME:END -->
+ - [Free Play Days – Cyberpunk 2077, Assassin’s Creed Mirage, Naruto to Boruto: Shinobi Striker and Black Desert](https://news.xbox.com/en-us/2024/03/28/free-play-days-cyberpunk-2077-assassins-creed-mirage-naruto-to-boruto-shinobi-striker-and-black-desert/)
+ - [&#39;Nobody is born toxic&#39; says Journey&#39;s creative director while preparing to launch the kindest MMO on PC](https://www.pcgamer.com/games/mmo/nobody-is-born-toxic-says-journeys-creative-director-while-preparing-to-launch-the-kindest-mmo-on-pc)
+ - [Microsoft’s All-Digital Xbox Series X Has Leaked](https://kotaku.com/microsoft-xbox-series-x-leak-white-all-digital-1851371439)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
