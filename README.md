@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That camel must be so happy to get that off his back](http://9gag.com/gag/an7eE90)
- - ⏩ [Critics criticise just because it won&#39;t fit in their woke ideology](http://9gag.com/gag/an7eE1b)
- - 👉 [Guy lights a cigarette on plane](http://9gag.com/gag/aVvjZ5w)<!-- MEMES:END -->
+ - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - ⏩ [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 👉 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)<!-- MEMES:END -->
 
 ---
 
