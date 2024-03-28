@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sues ex employee over iOS Journal app leaks](https://appleinsider.com/articles/24/03/28/apple-sues-ex-employee-over-ios-journal-app-leaks?utm_medium=rss)
- - [You may need to wait a little longer than expected for a new iPad Pro &amp; iPad Air](https://appleinsider.com/articles/24/03/28/you-may-need-to-wait-a-little-longer-than-expected-for-a-new-ipad-pro-ipad-air?utm_medium=rss)
- - [Android 15 may protect you from rogue ‘stingray’ tracking devices](https://www.androidauthority.com/android-15-protect-stingray-3429608/)<!-- TECH:END -->
+ - [Why do Pixels now get 7 years of updates? Google explains in new podcast episode.](https://www.androidauthority.com/pixels-seven-years-explanation-3429627/)
+ - [Bolt told investors that it had revenue of $19.4M for the nine months ending in October 2023, essentially flat YoY; Bolt&#39;s troubles grow with a Fanatics lawsuit &lpar;The Information&rpar;](http://www.techmeme.com/240328/p28#a240328p28)
+ - [Bug Zappers Are Swarming on Amazon](https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
