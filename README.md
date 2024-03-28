@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marc Andreessen, Chris Dixon, Galaxy Digital, and others invest $75M in crypto fund 1kx, which has raised ~$200M since 2018 and invested in Rarible and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240328/p12#a240328p12)
- - [Oregon’s strongest yet right-to-repair bill is now a law](https://www.androidauthority.com/oregon-right-to-repair-law-passed-3429441/)
- - [At a DC event on May 1, over 100 tech CEOs and investors plan to lobby against AI regulation, ask to relax immigration rules, and drum up hawkishness on China &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240328/p11#a240328p11)<!-- TECH:END -->
+ - [Questionable iPhone Fold rumor pushes release into early 2027](https://appleinsider.com/articles/24/03/28/questionable-iphone-fold-rumor-pushes-release-into-early-2027?utm_medium=rss)
+ - [Limited-time MAX deal cuts the price by 42%](https://www.androidauthority.com/max-deal-3429343/)
+ - [Samsung Exynos 1480 detailed: A big boost for Galaxy A phones?](https://www.androidauthority.com/samsung-exynos-1480-3429457/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
