@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 12 users can enjoy faster wireless charging with iOS 17.4 update](https://www.androidauthority.com/iphone-12-15-watt-wireless-charging-3429631/)
- - [Microsoft’s new safety system can catch hallucinations in its customers’ AI apps](https://www.theverge.com/2024/3/28/24114664/microsoft-safety-ai-prompt-injections-hallucinations-azure)
- - [Reddit shares plunge almost 25% in two days, after soaring 30% on Monday, and finish the week at $49.30, below the first trading day close of $50.44 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240328/p30#a240328p30)<!-- TECH:END -->
+ - [These older Galaxy Watches are getting a new update for more accurate health tracking](https://www.androidauthority.com/galaxy-watch-4-5-update-3429634/)
+ - [Scammers are using sample videos of influencers with modest social media presence to create AI deepfake ads that often push offensive products and ideas &lpar;Washington Post&rpar;](http://www.techmeme.com/240328/p31#a240328p31)
+ - [Sorry, Android 15’s new frame rate override feature won’t work for most games](https://www.androidauthority.com/android-15-override-game-fps-3429655/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
