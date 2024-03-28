@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
+ - 💣 [Oh snap](http://9gag.com/gag/aPA6nbR)
  - ⏩ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 👉 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)<!-- MEMES:END -->
+ - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
 
 ---
 
