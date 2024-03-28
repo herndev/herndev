@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Cyberpunk 2077, Assassin’s Creed Mirage, Naruto to Boruto: Shinobi Striker and Black Desert](https://news.xbox.com/en-us/2024/03/28/free-play-days-cyberpunk-2077-assassins-creed-mirage-naruto-to-boruto-shinobi-striker-and-black-desert/)
- - [&#39;Nobody is born toxic&#39; says Journey&#39;s creative director while preparing to launch the kindest MMO on PC](https://www.pcgamer.com/games/mmo/nobody-is-born-toxic-says-journeys-creative-director-while-preparing-to-launch-the-kindest-mmo-on-pc)
- - [Microsoft’s All-Digital Xbox Series X Has Leaked](https://kotaku.com/microsoft-xbox-series-x-leak-white-all-digital-1851371439)<!-- GAME:END -->
+ - [Joe Lieberman, Senator Who Crusaded Against Video-Game Violence, Dead At 82](https://kotaku.com/joe-lieberman-anti-video-game-violence-senator-dead-1851371611)
+ - [Stampede: Racing Royale on Xbox Insider Program – Test Drive the Wild 60-Player Online Kart Racer](https://news.xbox.com/en-us/2024/03/28/stampede-racing-royale-on-xbox-insider-program-test-drive-the-wild-60-player-online-kart-racer/)
+ - [Get a First Look at Ace Customization in Towerborne](https://www.towerborne.com/towerborne-will-give-players-numerous-ace-customization-options-with-mirrors-wagon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
