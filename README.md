@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Idiot Impossible](http://9gag.com/gag/azx74Ob)
- - ⏩ [Man\u2019s riffs could even make the devil shed a tear\u2026](http://9gag.com/gag/aPA6QKQ)
- - 👉 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)<!-- MEMES:END -->
+ - 💣 [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)
+ - ⏩ [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 👉 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)<!-- MEMES:END -->
 
 ---
 
