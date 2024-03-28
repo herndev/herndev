@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - ⏩ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 👉 [&lpar;Jia lissa &rpar;..I&#39;m sure 9gag experts can fix her](http://9gag.com/gag/aBy9OYN)<!-- MEMES:END -->
+ - 💣 [Make tea, Not war](http://9gag.com/gag/aAyBZ4E)
+ - ⏩ [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)
+ - 👉 [Idiot Impossible](http://9gag.com/gag/azx74Ob)<!-- MEMES:END -->
 
 ---
 
