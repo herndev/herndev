@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Media &amp; Technology Group closed up 14% at $66.22 on March 27, for a $13.5B market cap, as small investors boost the stock; Trump&#39;s stake is worth ~$5.3B &lpar;Financial Times&rpar;](http://www.techmeme.com/240328/p8#a240328p8)
- - [Galaxy M55 5G launches: A Galaxy A55 with several upgrades &lpar;and downgrades&rpar;](https://www.androidauthority.com/samsung-galaxy-m55-5g-3429434/)
- - [The US OMB releases new guidance on AI, requiring all federal agencies to have a senior leader overseeing all AI systems they use and submit an annual AI report &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240328/p7#a240328p7)<!-- TECH:END -->
+ - [Marc Andreessen, Chris Dixon, Galaxy Digital, and others invest $75M in crypto fund 1kx, which has raised ~$200M since 2018 and invested in Rarible and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240328/p12#a240328p12)
+ - [Oregon’s strongest yet right-to-repair bill is now a law](https://www.androidauthority.com/oregon-right-to-repair-law-passed-3429441/)
+ - [At a DC event on May 1, over 100 tech CEOs and investors plan to lobby against AI regulation, ask to relax immigration rules, and drum up hawkishness on China &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240328/p11#a240328p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
