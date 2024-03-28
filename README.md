@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Embracer has sold Gearbox — and Borderlands — to Take-Two for $460M](https://www.polygon.com/24114399/embracer-gearbox-borderlands-take-two-2k-sale)
  - [PC Gamer magazine&#39;s new issue is on sale now: Final Fantasy XIV: Dawntrail](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-final-fantasy-xiv-dawntrail)
- - [Flagging megacorp Embracer Group is now selling off Gearbox Entertainment to Take-Two for $460 million](https://www.pcgamer.com/gaming-industry/flagging-megacorp-embracer-group-is-now-selling-off-gearbox-entertainment-to-take-two-for-dollar460-million)
- - [AI is poised to tackle some of the world&#39;s most important issues, including making beer taste better](https://www.pcgamer.com/software/ai/ai-is-poised-to-tackle-some-of-the-worlds-most-important-issues-including-making-beer-taste-better)<!-- GAME:END -->
+ - [Flagging megacorp Embracer Group is now selling off Gearbox Entertainment to Take-Two for $460 million](https://www.pcgamer.com/gaming-industry/flagging-megacorp-embracer-group-is-now-selling-off-gearbox-entertainment-to-take-two-for-dollar460-million)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
