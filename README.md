@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Rise of the Ronin](https://blog.playstation.com/2024/03/29/share-of-the-week-rise-of-the-ronin/)
- - [Share of the Week: Rise of the Ronin](https://blog.playstation.com/2024/03/29/share-of-the-week-rise-of-the-ronin/)
- - [Even Fallout fans won’t know what’s going to happen in the Fallout TV show](https://www.polygon.com/24115390/fallout-tv-show-amazon-game-adaptation-original-story)<!-- GAME:END -->
+ - [Stellar Blade&#39;s Demo Is A Delicious Amuse-Bouche Of Stylish Action](https://kotaku.com/stellar-blade-ps5-game-demo-preview-dmc-sekiro-1851375165)
+ - [As restructuring ends with the sale of Gearbox, Embracer&#39;s CEO has a new plan: &#39;simply making better products and games&#39;](https://www.pcgamer.com/games/as-restructuring-ends-with-the-sale-of-gearbox-embracers-ceo-has-a-new-plan-simply-making-better-products-and-games)
+ - [Xbox Insider Release Notes – Beta &lpar;2404.240327-1930&rpar;](https://news.xbox.com/en-us/2024/03/29/xbox-insider-release-notes-beta-2404-240327-1930/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
