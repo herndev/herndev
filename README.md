@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Next Heat Pump Frontier? NYC Apartment Windows](https://www.wired.com/story/the-next-heat-pump-frontier-nyc-apartment-windows/)
  - [Huawei reports fastest growth in four years for 2023, as revenue up 9.63% to $97.48B, net profit up 144.5% to ~$12.04B, consumer revenue up 17.3% to ~$34.79B &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/240329/p3#a240329p3)
- - [An inside look at Windows and Surface leadership changes that could help Microsoft capitalize on AI PCs and transition Surface devices to Arm chips &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240329/p2#a240329p2)
- - [Google confirms Gemini Nano will come to the regular Pixel 8, after all &lpar;Updated&rpar;](https://www.androidauthority.com/gemini-nano-coming-to-regular-pixel-8-3429519/)<!-- TECH:END -->
+ - [An inside look at Windows and Surface leadership changes that could help Microsoft capitalize on AI PCs and transition Surface devices to Arm chips &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240329/p2#a240329p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
