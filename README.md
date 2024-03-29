@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 1 – 5](https://news.xbox.com/en-us/2024/03/29/next-week-on-xbox-new-games-for-april-1-5/)
- - [Swords, Pirates, And Sand: 20 New Games To Check Out In April](https://kotaku.com/april-game-releases-sand-land-stellar-blade-sea-thieves-1851372966)
- - [Cyberpunk&#39;s quest director says CD Projekt Red has experimented with generative AI, but there&#39;s still a &#39;gigantic, really long way to go&#39; before AI NPCs are as good as scripted characters](https://www.pcgamer.com/games/rpg/cyberpunks-quest-director-says-cd-projekt-red-has-experimented-with-generative-ai-but-theres-still-a-gigantic-really-long-way-to-go-before-ai-npcs-are-as-good-as-scripted-characters)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth’s Ending Doesn’t Earn The Benefit Of The Doubt](https://kotaku.com/final-fantasy-7-rebirth-ending-cloud-aerith-sephiroth-1851374178)
+ - [Dragon’s Dogma 2’s first patch lets you start a new game without deleting your save first](https://www.polygon.com/24111281/dragons-dogma-2-update-patch-roadmap-new-game)
+ - [Dragon’s Dogma 2’s Latest Update Adds A Highly Requested Feature](https://kotaku.com/dragons-dogma-2-update-1050-start-new-game-1851374125)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
