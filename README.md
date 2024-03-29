@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Care Plus adds unlimited battery repair — for a price](https://www.theverge.com/2024/3/29/24115503/samsung-care-plus-price-increase-battery-repair)
- - [Amazon is offering a rare deal on Philips Hue’s Festavia string lights](https://www.theverge.com/2024/3/29/24115040/philips-hue-festavia-smart-string-lights-hue-bridge-shokz-open-run-pro-headphones-deal-sale)
- - [OpenAI is testing a system to recreate human voices. What could go wrong?](https://www.androidauthority.com/openai-voice-engine-3429794/)<!-- TECH:END -->
+ - [The 32 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [The 16 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [Google informs users in the US that Google Podcasts is shutting down April 2 and recommends exporting podcast subscriptions to YouTube Music &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240329/p13#a240329p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
