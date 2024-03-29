@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - ⏩ [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
- - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
+ - 💣 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - ⏩ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
 
 ---
 
