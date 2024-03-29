@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Super Space Club Beautifully Pairs Hectic Arcade Gameplay with Pure Chill-Hop Jazzy Vibes](https://news.xbox.com/en-us/2024/03/29/super-space-club-pairs-arcade-gameplay-with-jazzy-vibes/)
- - [Destiny 2 Players Convince Bungie To Change Into The Light Weapon Rollout](https://kotaku.com/destiny-2-into-the-light-brave-arsenal-changes-1851375440)
- - [One of our favorite city builders has sold over a million copies on Steam, and there&#39;s an expansion on the way](https://www.pcgamer.com/games/city-builder/one-of-our-favorite-city-builders-has-sold-over-a-million-copies-on-steam-and-theres-an-expansion-on-the-way)<!-- GAME:END -->
+ - [Weebs, Rejoice: ‘Isekai’ Is Now In The Oxford Dictionary](https://kotaku.com/anime-manga-genre-isekai-enter-oxford-dictionary-1851375582)
+ - [How to get a house in FFXIV](https://www.polygon.com/24115574/how-to-get-a-house-apartment-lottery-wards-plots)
+ - [Actor Louis Gossett Jr, who voiced Half-Life 2&#39;s vortigaunts, has died](https://www.pcgamer.com/games/fps/louis-gossett-jr-obituary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
