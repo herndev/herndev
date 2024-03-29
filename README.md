@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - ⏩ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 👉 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)<!-- MEMES:END -->
+ - 💣 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - ⏩ [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
 
 ---
 
