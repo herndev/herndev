@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They can make it legal to arrest people for what they are posting on twitter, yet they still have no legal way to recover stolen vehicle?](http://9gag.com/gag/a87dXme)
- - ⏩ [It makes the app unusable](http://9gag.com/gag/aW4BN9Z)
- - 👉 [It only takes 17 years.](http://9gag.com/gag/a1mpxB2)<!-- MEMES:END -->
+ - 💣 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - ⏩ [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
 
 ---
 
