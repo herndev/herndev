@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - ⏩ [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
+ - 💣 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
+ - ⏩ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 👉 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)<!-- MEMES:END -->
 
 ---
 
