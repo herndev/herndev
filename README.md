@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)
- - ⏩ [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
+ - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - ⏩ [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 👉 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)<!-- MEMES:END -->
 
 ---
 
