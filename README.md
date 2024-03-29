@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music will now let you download music on its desktop website](https://www.androidauthority.com/youtube-music-web-downloads-3429819/)
- - [Android 15 could revamp the volume panel and make it collapsible](https://www.androidauthority.com/android-15-volume-panel-3429806/)
- - [Sony’s elusive PlayStation Portal is back in stock at Best Buy](https://www.theverge.com/2024/3/29/24086591/sony-playstation-portal-handheld-remote-player-ps5-best-buy-restock-availability)<!-- TECH:END -->
+ - [Researchers find malicious code in versions of the Linux compression tool XZ Utils that were incorporated into unstable distributions from Red Hat and Debian &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240329/p18#a240329p18)
+ - [Beyoncé&#39;s Cowboy Carter Album: Easter Eggs, Guest Stars, How to Stream     - CNET](https://www.cnet.com/tech/beyonces-cowboy-carter-album-easter-eggs-guest-stars-how-to-stream/#ftag=CAD590a51e)
+ - [March Madness 2024: How to Watch, Livestream the Sweet 16 Today Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-sweet-16-friday-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
