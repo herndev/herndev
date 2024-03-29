@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Actually funny... and true...](http://9gag.com/gag/a9yjN4j)
- - ⏩ [Those who virtue signal the loudest are the most rotten of all](http://9gag.com/gag/axyEn31)
- - 👉 [Well... Need to improve.](http://9gag.com/gag/awyNGAQ)<!-- MEMES:END -->
+ - 💣 [Well... Need to improve.](http://9gag.com/gag/awyNGAQ)
+ - ⏩ [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
+ - 👉 [In their honour](http://9gag.com/gag/a87dXgQ)<!-- MEMES:END -->
 
 ---
 
