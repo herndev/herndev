@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How MowPod, which sells podcast advertising tools, uses mobile game ads to incentivize gamers to follow shows on Apple Podcasts in order to earn in-game tokens &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240328/p34#a240328p34)
- - [Best Apple Watch Ultra 2 and Ultra Deals: Save With Trade-Ins and More     - CNET](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
- - [Solar Snap App Is Just One Way You Can Take Photos of April 8 Eclipse     - CNET](https://www.cnet.com/tech/services-and-software/solar-snap-app-is-just-one-way-you-can-take-photos-of-april-8-eclipse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a lawsuit, four Canadian school boards seek damages of CA$4B+ from Meta, Snap, and TikTok for allegedly causing learning and mental health crises in students &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240328/p36#a240328p36)
+ - [Apple Vision Pro&#39;s first new immersive video in months is 5 minutes of old soccer clips](https://appleinsider.com/articles/24/03/29/apple-vision-pros-first-new-immersive-video-in-months-is-5-minutes-of-old-soccer-clips?utm_medium=rss)
+ - [Sources detail Grindr&#39;s push to monetize, including plans for an AI chatbot that can engage users in sexual conversations and may be trained on opt-in user data &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240328/p35#a240328p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
