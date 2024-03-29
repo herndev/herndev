@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts and documents: the US is years from having a reliable alternative source for time and navigation services if GPS signals are interrupted by adversaries &lpar;New York Times&rpar;](http://www.techmeme.com/240329/p1#a240329p1)
  - [South Korean national statistics data: chip output grew 65.3% YoY in February 2024, the most since late 2009, with demand for AI-related memory driving growth &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240328/p40#a240328p40)
- - [How to grant third-party apps Apple Music access in macOS](https://appleinsider.com/inside/apple-music/tips/how-to-grant-third-party-apps-apple-music-access-in-macos?utm_medium=rss)
- - [New York-based The Brandtech Group, which provides generative AI-based tools for advertising and marketing campaigns, raised a $115M Series C at a $4B valuation &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240328/p39#a240328p39)<!-- TECH:END -->
+ - [How to grant third-party apps Apple Music access in macOS](https://appleinsider.com/inside/apple-music/tips/how-to-grant-third-party-apps-apple-music-access-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
