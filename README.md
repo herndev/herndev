@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried is still gambling](https://www.theverge.com/2024/3/29/24114864/sam-bankman-fried-trial-sentencing-lessons-ftx)
- - [The best ASUS Zenfone 11 Ultra cases you can buy](https://www.androidauthority.com/best-asus-zenfone-11-ultra-cases-3426898/)
- - [Google obviously says that Apple RCS support will come in the fall](https://appleinsider.com/articles/24/03/29/google-obviously-says-that-apple-rcs-support-will-come-in-the-fall?utm_medium=rss)<!-- TECH:END -->
+ - [WWDC, Apple Ring, and five years of Apple TV+ on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/29/wwdc-apple-ring-and-five-years-of-apple-tv-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Sources: Accel is in talks to lead a round in Scale AI at a $13B valuation, up from $7.3B in 2021; Scale AI generated $675M+ in revenue in 2023, up ~150% YoY &lpar;The Information&rpar;](http://www.techmeme.com/240329/p5#a240329p5)
+ - [You&#39;ve Clogged a Toilet With No Plunger. Don&#39;t Panic and Do This Instead     - CNET](https://www.cnet.com/how-to/youve-clogged-a-toilet-with-no-plunger-dont-panic-and-do-this-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
