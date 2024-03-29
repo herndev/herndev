@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [They fly now too? Helldivers 2 warns players that Automatons are developing &#39;aerial gunships,&#39; so Super Earth is countering with &#39;our most effective anti-air weaponry&#39;](https://www.pcgamer.com/games/third-person-shooter/they-fly-now-too-helldivers-2-warns-players-that-automatons-are-developing-aerial-gunships-so-super-earth-is-countering-with-our-most-effective-anti-air-weaponry)
- - [Suicide Squad: Kill the Justice League’s new Joker is here, and players aren’t laughing](https://www.polygon.com/24115481/suicide-squad-kill-the-justice-league-joker-story-unlock-controversy)
- - [Figma’s premium Link action figure can Ascend, just like in TOTK](https://www.polygon.com/2024/3/29/24115656/link-dx-figure-tears-of-the-kingdom-zelda-figma-good-smile-pre-order-buy)<!-- GAME:END -->
+ - [How Super Space Club Beautifully Pairs Hectic Arcade Gameplay with Pure Chill-Hop Jazzy Vibes](https://news.xbox.com/en-us/2024/03/29/super-space-club-pairs-arcade-gameplay-with-jazzy-vibes/)
+ - [Destiny 2 Players Convince Bungie To Change Into The Light Weapon Rollout](https://kotaku.com/destiny-2-into-the-light-brave-arsenal-changes-1851375440)
+ - [One of our favorite city builders has sold over a million copies on Steam, and there&#39;s an expansion on the way](https://www.pcgamer.com/games/city-builder/one-of-our-favorite-city-builders-has-sold-over-a-million-copies-on-steam-and-theres-an-expansion-on-the-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
