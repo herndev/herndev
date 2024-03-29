@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
- - [Beard Detail Trimmer     - CNET](https://www.cnet.com/health/personal-care/beard-detail-trimmer-dpnl/#ftag=CAD590a51e)
- - [Apple&#39;s iOS 18 Rumors: A Significant Leap for AI on the iPhone     - CNET](https://www.cnet.com/tech/mobile/apples-ios-18-rumors-a-significant-leap-for-ai-on-the-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Car thieves in Canada are using AirTags to track victims&#39; vehicles](https://appleinsider.com/articles/24/03/29/car-thieves-in-canada-are-using-airtags-to-track-victims-vehicles?utm_medium=rss)
+ - [X says all NSFW content will be soon filtered across Communities by default and admins can set an &quot;Adult Content&quot; label to avoid auto-filtering of their content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240329/p8#a240329p8)
+ - [Make the Switch to an E-Bike During This Huge Sale at Upway     - CNET](https://www.cnet.com/roadshow/news/make-the-switch-to-an-e-bike-during-this-huge-sale-at-upway/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
