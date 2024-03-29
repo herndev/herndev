@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title](http://9gag.com/gag/aLn6NKV)
- - ⏩ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 👉 [Lamborghini or something](http://9gag.com/gag/a5Qpy1g)<!-- MEMES:END -->
+ - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - ⏩ [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
 
 ---
 
