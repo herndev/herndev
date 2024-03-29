@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weightloss journey while playing soccer](http://9gag.com/gag/aD2RQM9)
- - ⏩ [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/aMVey5G)
+ - ⏩ [Theres no escape](http://9gag.com/gag/ayNEPbb)
+ - 👉 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)<!-- MEMES:END -->
 
 ---
 
