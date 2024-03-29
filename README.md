@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does Mario feel pain? It’s complicated](https://www.theverge.com/24114957/super-mario-developer-interview-pain-nintendo)
- - [Shazam on Wear OS now works without your phone](https://www.theverge.com/2024/3/29/24115379/shazam-wearos-android-smartwatch-wearables)
- - [14 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, Decaf, Chains](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
+ - [Beyoncé&#39;s &#39;Cowboy Carter&#39; Meets Online Fandom at the Crossroads](https://www.wired.com/story/welcome-back-to-beyonce-internet/)
+ - [Xiaomi’s first EV undercuts Tesla’s price while offering longer range](https://www.androidauthority.com/xiaomi-su7-ev-offers-longer-range-3429757/)
+ - [Best MacBooks &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
