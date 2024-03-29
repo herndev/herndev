@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro may gain a new polished, glossy titanium finish](https://appleinsider.com/articles/24/03/29/iphone-16-pro-may-gain-a-new-polished-glossy-titanium-finish?utm_medium=rss)
- - [Smartphones Do or Don’t Harm Kids! So Which Is It?](https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Bankman-Fried is still gambling](https://www.theverge.com/2024/3/29/24114864/sam-bankman-fried-trial-sentencing-lessons-ftx)
+ - [The best ASUS Zenfone 11 Ultra cases you can buy](https://www.androidauthority.com/best-asus-zenfone-11-ultra-cases-3426898/)
+ - [Google obviously says that Apple RCS support will come in the fall](https://appleinsider.com/articles/24/03/29/google-obviously-says-that-apple-rcs-support-will-come-in-the-fall?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
