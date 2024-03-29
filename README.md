@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/aMVey5G)
- - ⏩ [Theres no escape](http://9gag.com/gag/ayNEPbb)
- - 👉 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)<!-- MEMES:END -->
+ - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - ⏩ [SHE TALKS !](http://9gag.com/gag/a87dVP6)
+ - 👉 [&lpar;Jia lissa &rpar;..I&#39;m sure 9gag experts can fix her](http://9gag.com/gag/aBy9OYN)<!-- MEMES:END -->
 
 ---
 
