@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All riftstone locations in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24115483/riftstone-locations-all-effects-forgotten-riftstones)
- - [Pokémon Go ‘Glimmers of Gratitude’ Shiny Shaymin Masterwork Research guide](https://www.polygon.com/pokemon-go-guide/24078278/shiny-shaymin-masterwork-research-glimmers-of-gratitude)
- - [You Can Play Cyberpunk 2077 For Free This Weekend](https://kotaku.com/cyberpunk-2077-free-trial-ps5-xbox-pc-five-hours-1851374466)<!-- GAME:END -->
+ - [Share of the Week: Rise of the Ronin](https://blog.playstation.com/2024/03/29/share-of-the-week-rise-of-the-ronin/)
+ - [Share of the Week: Rise of the Ronin](https://blog.playstation.com/2024/03/29/share-of-the-week-rise-of-the-ronin/)
+ - [Even Fallout fans won’t know what’s going to happen in the Fallout TV show](https://www.polygon.com/24115390/fallout-tv-show-amazon-game-adaptation-original-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
