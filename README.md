@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fake crypto bot scammer allegedly told investors, ‘Poof, you’re a millionaire’](https://www.theverge.com/2024/3/29/24115677/crypto-scam-robert-robb-mev-bot)
- - [Source: the US House set a strict ban on congressional staffers&#39; use of Microsoft Copilot; Microsoft hopes its upcoming tools will address the House&#39;s concerns &lpar;Axios&rpar;](http://www.techmeme.com/240329/p16#a240329p16)
- - [Filings from 2023 list Jacob Vespers as OpenAI Startup Fund&#39;s manager; OpenAI says &quot;Vespers does not exist&quot; and the docs are &quot;fabricated&quot;, without elaborating &lpar;Darius Rafieyan/Business Insider&rpar;](http://www.techmeme.com/240329/p15#a240329p15)<!-- TECH:END -->
+ - [YouTube Music will now let you download music on its desktop website](https://www.androidauthority.com/youtube-music-web-downloads-3429819/)
+ - [Android 15 could revamp the volume panel and make it collapsible](https://www.androidauthority.com/android-15-volume-panel-3429806/)
+ - [Sony’s elusive PlayStation Portal is back in stock at Best Buy](https://www.theverge.com/2024/3/29/24086591/sony-playstation-portal-handheld-remote-player-ps5-best-buy-restock-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
