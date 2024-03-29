@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - ⏩ [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 👉 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)<!-- MEMES:END -->
+ - 💣 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - ⏩ [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
 
 ---
 
