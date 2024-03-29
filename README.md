@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - ⏩ [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
+ - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - ⏩ [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 👉 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
 
 ---
 
