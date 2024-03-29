@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Car thieves in Canada are using AirTags to track victims&#39; vehicles](https://appleinsider.com/articles/24/03/29/car-thieves-in-canada-are-using-airtags-to-track-victims-vehicles?utm_medium=rss)
- - [X says all NSFW content will be soon filtered across Communities by default and admins can set an &quot;Adult Content&quot; label to avoid auto-filtering of their content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240329/p8#a240329p8)
- - [Make the Switch to an E-Bike During This Huge Sale at Upway     - CNET](https://www.cnet.com/roadshow/news/make-the-switch-to-an-e-bike-during-this-huge-sale-at-upway/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Care Plus adds unlimited battery repair — for a price](https://www.theverge.com/2024/3/29/24115503/samsung-care-plus-price-increase-battery-repair)
+ - [Amazon is offering a rare deal on Philips Hue’s Festavia string lights](https://www.theverge.com/2024/3/29/24115040/philips-hue-festavia-smart-string-lights-hue-bridge-shokz-open-run-pro-headphones-deal-sale)
+ - [OpenAI is testing a system to recreate human voices. What could go wrong?](https://www.androidauthority.com/openai-voice-engine-3429794/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
