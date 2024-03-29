@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings from 2023 list Jacob Vespers as OpenAI Startup Fund&#39;s manager; OpenAI says &quot;Vespers does not exist&quot; and the docs are &quot;fabricated&quot;, without elaborating &lpar;Darius Rafieyan/Business Insider&rpar;](http://www.techmeme.com/240329/p15#a240329p15)
- - [Researcher: Instagram is testing Blend, which creates a feed of Reels for two friends to share based on shared interests and Reels they shared with each other &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240329/p14#a240329p14)
- - [The 32 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [Fake crypto bot scammer allegedly told investors, ‘Poof, you’re a millionaire’](https://www.theverge.com/2024/3/29/24115677/crypto-scam-robert-robb-mev-bot)
+ - [Source: the US House set a strict ban on congressional staffers&#39; use of Microsoft Copilot; Microsoft hopes its upcoming tools will address the House&#39;s concerns &lpar;Axios&rpar;](http://www.techmeme.com/240329/p16#a240329p16)
+ - [Filings from 2023 list Jacob Vespers as OpenAI Startup Fund&#39;s manager; OpenAI says &quot;Vespers does not exist&quot; and the docs are &quot;fabricated&quot;, without elaborating &lpar;Darius Rafieyan/Business Insider&rpar;](http://www.techmeme.com/240329/p15#a240329p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
