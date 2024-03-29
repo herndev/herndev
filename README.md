@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - ⏩ [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
+ - 💣 [No title](http://9gag.com/gag/aLn6NKV)
+ - ⏩ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 👉 [Lamborghini or something](http://9gag.com/gag/a5Qpy1g)<!-- MEMES:END -->
 
 ---
 
