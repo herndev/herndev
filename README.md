@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - ⏩ [SHE TALKS !](http://9gag.com/gag/a87dVP6)
- - 👉 [&lpar;Jia lissa &rpar;..I&#39;m sure 9gag experts can fix her](http://9gag.com/gag/aBy9OYN)<!-- MEMES:END -->
+ - 💣 [Quite the smoking....](http://9gag.com/gag/awyNvr1)
+ - ⏩ [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
 
 ---
 
