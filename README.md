@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
  - ⏩ [Oh snap](http://9gag.com/gag/aPA6nbR)
- - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
+ - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
 
 ---
 
