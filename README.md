@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
- - ⏩ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 👉 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)<!-- MEMES:END -->
+ - 💣 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
+ - ⏩ [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 👉 [Freedom!!!](http://9gag.com/gag/aoymD7g)<!-- MEMES:END -->
 
 ---
 
