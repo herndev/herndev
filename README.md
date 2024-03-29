@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, March 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-29-2024)
- - [PSA: Diablo 4 is now on PC Game Pass, just in time to prepare for its biggest update ever](https://www.pcgamer.com/games/action/psa-diablo-4-is-now-on-pc-game-pass-just-in-time-to-prepare-for-its-biggest-update-ever)
- - [What to know about the MonsterVerse before Godzilla x Kong: The New Empire](https://www.polygon.com/24115007/godzilla-x-kong-new-empire-post-credits-scene-monsterverse)<!-- GAME:END -->
+ - [A demo for Final Fantasy 16 is reportedly coming to PC soon, as producer Yoshi-P says work on the port is &#39;going smoother than we thought it would&#39;](https://www.pcgamer.com/games/rpg/a-demo-for-final-fantasy-16-is-reportedly-coming-to-pc-soon-as-producer-yoshi-p-says-work-on-the-port-is-going-smoother-than-we-thought-it-would)
+ - [This home-brew GPU built by a lone enthusiast is a slightly labour-intensive way to avoid painful graphics card prices](https://www.pcgamer.com/hardware/graphics-cards/this-home-brew-gpu-built-by-a-lone-enthusiast-is-a-slightly-labour-intensive-way-to-avoid-painful-graphics-card-prices)
+ - [Today&#39;s Wordle answer for Friday, March 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-29-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
