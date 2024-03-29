@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - ⏩ [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
+ - 💣 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - ⏩ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 👉 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)<!-- MEMES:END -->
 
 ---
 
