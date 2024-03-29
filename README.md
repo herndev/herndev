@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - ⏩ [Oh snap](http://9gag.com/gag/aPA6nbR)
- - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
+ - 💣 [Weightloss journey while playing soccer](http://9gag.com/gag/aD2RQM9)
+ - ⏩ [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
 
 ---
 
