@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deadpool’s new series has big TV sitcom vibes — plus murder, of course](https://www.polygon.com/24114977/deadpool-2024-preview-new-marvel-cody-ziglar-interview)
  - [A demo for Final Fantasy 16 is reportedly coming to PC soon, as producer Yoshi-P says work on the port is &#39;going smoother than we thought it would&#39;](https://www.pcgamer.com/games/rpg/a-demo-for-final-fantasy-16-is-reportedly-coming-to-pc-soon-as-producer-yoshi-p-says-work-on-the-port-is-going-smoother-than-we-thought-it-would)
- - [This home-brew GPU built by a lone enthusiast is a slightly labour-intensive way to avoid painful graphics card prices](https://www.pcgamer.com/hardware/graphics-cards/this-home-brew-gpu-built-by-a-lone-enthusiast-is-a-slightly-labour-intensive-way-to-avoid-painful-graphics-card-prices)
- - [Today&#39;s Wordle answer for Friday, March 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-29-2024)<!-- GAME:END -->
+ - [This home-brew GPU built by a lone enthusiast is a slightly labour-intensive way to avoid painful graphics card prices](https://www.pcgamer.com/hardware/graphics-cards/this-home-brew-gpu-built-by-a-lone-enthusiast-is-a-slightly-labour-intensive-way-to-avoid-painful-graphics-card-prices)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
