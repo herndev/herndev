@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
- - ⏩ [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
+ - 💣 [Actually funny... and true...](http://9gag.com/gag/a9yjN4j)
+ - ⏩ [Those who virtue signal the loudest are the most rotten of all](http://9gag.com/gag/axyEn31)
+ - 👉 [Well... Need to improve.](http://9gag.com/gag/awyNGAQ)<!-- MEMES:END -->
 
 ---
 
