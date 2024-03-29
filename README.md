@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Rebirth’s Ending Doesn’t Earn The Benefit Of The Doubt](https://kotaku.com/final-fantasy-7-rebirth-ending-cloud-aerith-sephiroth-1851374178)
- - [Dragon’s Dogma 2’s first patch lets you start a new game without deleting your save first](https://www.polygon.com/24111281/dragons-dogma-2-update-patch-roadmap-new-game)
- - [Dragon’s Dogma 2’s Latest Update Adds A Highly Requested Feature](https://kotaku.com/dragons-dogma-2-update-1050-start-new-game-1851374125)<!-- GAME:END -->
+ - [Unsure if Star Wars Jedi: Survivor is worth $70? How about $29.99?](https://www.polygon.com/deals/2024/3/29/24115456/star-wars-jedi-survivor-deal-sale-amazon-best-buy)
+ - [Nier Reincarnation’s Final Chapter Is Out Now, Don’t Miss It](https://kotaku.com/nier-reincarnation-final-chapter-goodbye-out-now-1851374397)
+ - [The yellow nozzle in PowerWash Simulator is OP and I both want them to sort this out and also never change it in any way](https://www.pcgamer.com/games/sim/the-yellow-nozzle-in-powerwash-simulator-is-op-and-i-both-want-them-to-sort-this-out-and-also-never-change-it-in-any-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
