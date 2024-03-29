@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Weebs, Rejoice: ‘Isekai’ Is Now In The Oxford Dictionary](https://kotaku.com/anime-manga-genre-isekai-enter-oxford-dictionary-1851375582)
- - [How to get a house in FFXIV](https://www.polygon.com/24115574/how-to-get-a-house-apartment-lottery-wards-plots)
- - [Actor Louis Gossett Jr, who voiced Half-Life 2&#39;s vortigaunts, has died](https://www.pcgamer.com/games/fps/louis-gossett-jr-obituary)<!-- GAME:END -->
+ - [Get To Know Our Team: Andrew – Customer Experience Manager](https://news.xbox.com/en-us/2024/03/29/get-to-know-our-team-andrew-customer-experience-manager/)
+ - [Classic &#39;90s space sim Star Wars: X-Wing had one mission that was so brutally hard, a fan cut up his floppy disks and mailed them back to LucasArts](https://www.pcgamer.com/games/sim/classic-90s-space-sim-star-wars-x-wing-had-one-mission-that-was-so-brutally-hard-a-fan-cut-up-his-floppy-disks-and-mailed-them-back-to-lucasarts)
+ - [Imaginary, Lisa Frankenstein, Netflix’s The Beautiful Game, and every new movie to watch at home this weekend](https://www.polygon.com/2024/3/29/24111343/new-movies-watch-lisa-frankenstein-the-beautiful-game-netflix-imaginary-stream-vod)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
