@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unsure if Star Wars Jedi: Survivor is worth $70? How about $29.99?](https://www.polygon.com/deals/2024/3/29/24115456/star-wars-jedi-survivor-deal-sale-amazon-best-buy)
- - [Nier Reincarnation’s Final Chapter Is Out Now, Don’t Miss It](https://kotaku.com/nier-reincarnation-final-chapter-goodbye-out-now-1851374397)
- - [The yellow nozzle in PowerWash Simulator is OP and I both want them to sort this out and also never change it in any way](https://www.pcgamer.com/games/sim/the-yellow-nozzle-in-powerwash-simulator-is-op-and-i-both-want-them-to-sort-this-out-and-also-never-change-it-in-any-way)<!-- GAME:END -->
+ - [All riftstone locations in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24115483/riftstone-locations-all-effects-forgotten-riftstones)
+ - [Pokémon Go ‘Glimmers of Gratitude’ Shiny Shaymin Masterwork Research guide](https://www.polygon.com/pokemon-go-guide/24078278/shiny-shaymin-masterwork-research-glimmers-of-gratitude)
+ - [You Can Play Cyberpunk 2077 For Free This Weekend](https://kotaku.com/cyberpunk-2077-free-trial-ps5-xbox-pc-five-hours-1851374466)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
