@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
- - ⏩ [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 👉 [Freedom!!!](http://9gag.com/gag/aoymD7g)<!-- MEMES:END -->
+ - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - ⏩ [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
 
 ---
 
