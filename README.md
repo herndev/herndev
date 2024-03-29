@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC, Apple Ring, and five years of Apple TV+ on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/29/wwdc-apple-ring-and-five-years-of-apple-tv-on-the-appleinsider-podcast?utm_medium=rss)
- - [Sources: Accel is in talks to lead a round in Scale AI at a $13B valuation, up from $7.3B in 2021; Scale AI generated $675M+ in revenue in 2023, up ~150% YoY &lpar;The Information&rpar;](http://www.techmeme.com/240329/p5#a240329p5)
- - [You&#39;ve Clogged a Toilet With No Plunger. Don&#39;t Panic and Do This Instead     - CNET](https://www.cnet.com/how-to/youve-clogged-a-toilet-with-no-plunger-dont-panic-and-do-this-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Does Mario feel pain? It’s complicated](https://www.theverge.com/24114957/super-mario-developer-interview-pain-nintendo)
+ - [Shazam on Wear OS now works without your phone](https://www.theverge.com/2024/3/29/24115379/shazam-wearos-android-smartwatch-wearables)
+ - [14 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, Decaf, Chains](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
