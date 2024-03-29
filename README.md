@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool’s new series has big TV sitcom vibes — plus murder, of course](https://www.polygon.com/24114977/deadpool-2024-preview-new-marvel-cody-ziglar-interview)
- - [A demo for Final Fantasy 16 is reportedly coming to PC soon, as producer Yoshi-P says work on the port is &#39;going smoother than we thought it would&#39;](https://www.pcgamer.com/games/rpg/a-demo-for-final-fantasy-16-is-reportedly-coming-to-pc-soon-as-producer-yoshi-p-says-work-on-the-port-is-going-smoother-than-we-thought-it-would)
- - [This home-brew GPU built by a lone enthusiast is a slightly labour-intensive way to avoid painful graphics card prices](https://www.pcgamer.com/hardware/graphics-cards/this-home-brew-gpu-built-by-a-lone-enthusiast-is-a-slightly-labour-intensive-way-to-avoid-painful-graphics-card-prices)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 1 – 5](https://news.xbox.com/en-us/2024/03/29/next-week-on-xbox-new-games-for-april-1-5/)
+ - [Swords, Pirates, And Sand: 20 New Games To Check Out In April](https://kotaku.com/april-game-releases-sand-land-stellar-blade-sea-thieves-1851372966)
+ - [Cyberpunk&#39;s quest director says CD Projekt Red has experimented with generative AI, but there&#39;s still a &#39;gigantic, really long way to go&#39; before AI NPCs are as good as scripted characters](https://www.pcgamer.com/games/rpg/cyberpunks-quest-director-says-cd-projekt-red-has-experimented-with-generative-ai-but-theres-still-a-gigantic-really-long-way-to-go-before-ai-npcs-are-as-good-as-scripted-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
