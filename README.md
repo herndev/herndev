@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beyoncé&#39;s &#39;Cowboy Carter&#39; Meets Online Fandom at the Crossroads](https://www.wired.com/story/welcome-back-to-beyonce-internet/)
- - [Xiaomi’s first EV undercuts Tesla’s price while offering longer range](https://www.androidauthority.com/xiaomi-su7-ev-offers-longer-range-3429757/)
- - [Best MacBooks &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
+ - [20 years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
+ - [Beard Detail Trimmer     - CNET](https://www.cnet.com/health/personal-care/beard-detail-trimmer-dpnl/#ftag=CAD590a51e)
+ - [Apple&#39;s iOS 18 Rumors: A Significant Leap for AI on the iPhone     - CNET](https://www.cnet.com/tech/mobile/apples-ios-18-rumors-a-significant-leap-for-ai-on-the-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
