@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - ⏩ [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 💣 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)
+ - ⏩ [Happiness Noise](http://9gag.com/gag/aqy4DWp)
  - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
 
 ---
