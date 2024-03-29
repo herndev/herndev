@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quite the smoking....](http://9gag.com/gag/awyNvr1)
- - ⏩ [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
+ - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - ⏩ [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---
 
