@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5.5G networks are here, and so are the first Android phones to support it](https://www.androidauthority.com/find-x7-support-5ga-network-3429675/)
- - [Cybersecurity startup Zafran, which develops risk mitigation services, emerges from stealth with a $25M Series A co-led by Sequoia Capital and Cyberstarts &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240328/p33#a240328p33)
- - [Apple sues ex employee over iOS Journal app leaks](https://appleinsider.com/articles/24/03/28/apple-sues-ex-employee-over-ios-journal-app-leaks?utm_medium=rss)<!-- TECH:END -->
+ - [How MowPod, which sells podcast advertising tools, uses mobile game ads to incentivize gamers to follow shows on Apple Podcasts in order to earn in-game tokens &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240328/p34#a240328p34)
+ - [Best Apple Watch Ultra 2 and Ultra Deals: Save With Trade-Ins and More     - CNET](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
+ - [Solar Snap App Is Just One Way You Can Take Photos of April 8 Eclipse     - CNET](https://www.cnet.com/tech/services-and-software/solar-snap-app-is-just-one-way-you-can-take-photos-of-april-8-eclipse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
