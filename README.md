@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart move](http://9gag.com/gag/aGyKonK)
- - ⏩ [Women](http://9gag.com/gag/aMVey5G)
- - 👉 [Back Crack!](http://9gag.com/gag/abA3QoB)<!-- MEMES:END -->
+ - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - ⏩ [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
 
 ---
 
