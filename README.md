@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stellar Blade&#39;s Demo Is A Delicious Amuse-Bouche Of Stylish Action](https://kotaku.com/stellar-blade-ps5-game-demo-preview-dmc-sekiro-1851375165)
- - [As restructuring ends with the sale of Gearbox, Embracer&#39;s CEO has a new plan: &#39;simply making better products and games&#39;](https://www.pcgamer.com/games/as-restructuring-ends-with-the-sale-of-gearbox-embracers-ceo-has-a-new-plan-simply-making-better-products-and-games)
- - [Xbox Insider Release Notes – Beta &lpar;2404.240327-1930&rpar;](https://news.xbox.com/en-us/2024/03/29/xbox-insider-release-notes-beta-2404-240327-1930/)<!-- GAME:END -->
+ - [They fly now too? Helldivers 2 warns players that Automatons are developing &#39;aerial gunships,&#39; so Super Earth is countering with &#39;our most effective anti-air weaponry&#39;](https://www.pcgamer.com/games/third-person-shooter/they-fly-now-too-helldivers-2-warns-players-that-automatons-are-developing-aerial-gunships-so-super-earth-is-countering-with-our-most-effective-anti-air-weaponry)
+ - [Suicide Squad: Kill the Justice League’s new Joker is here, and players aren’t laughing](https://www.polygon.com/24115481/suicide-squad-kill-the-justice-league-joker-story-unlock-controversy)
+ - [Figma’s premium Link action figure can Ascend, just like in TOTK](https://www.polygon.com/2024/3/29/24115656/link-dx-figure-tears-of-the-kingdom-zelda-figma-good-smile-pre-order-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
