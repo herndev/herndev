@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today,](http://9gag.com/gag/ae9KyXB)
- - ⏩ [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
- - 👉 [The cow was a vegan, Olivia](http://9gag.com/gag/aE0db6N)<!-- MEMES:END -->
+ - 💣 [Good Knight guys](http://9gag.com/gag/a87dN21)
+ - ⏩ [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
+ - 👉 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)<!-- MEMES:END -->
 
 ---
 
