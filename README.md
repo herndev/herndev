@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
- - ⏩ [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 💣 [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - ⏩ [Today,](http://9gag.com/gag/ae9KyXB)
+ - 👉 [Drawing shadows](http://9gag.com/gag/a34vgPm)<!-- MEMES:END -->
 
 ---
 
