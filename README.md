@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
- - ⏩ [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 👉 [Lots of childhood fights were solved this way](http://9gag.com/gag/awyN9OQ)<!-- MEMES:END -->
+ - 💣 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
+ - ⏩ [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
+ - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
 
 ---
 
