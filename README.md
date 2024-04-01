@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 💣 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
  - ⏩ [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
+ - 👉 [Lots of childhood fights were solved this way](http://9gag.com/gag/awyN9OQ)<!-- MEMES:END -->
 
 ---
 
