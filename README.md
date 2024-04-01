@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ampere: seven movie adaptations of video games were released broadly in 2023; Comscore: movies based on video games grossed $712.2M at the US box office in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p11#a240331p11)
- - [Sources: Apple suggests podcasters join its subscription program to be on its Podcast &quot;browse&quot; carousel; 5 of the first 7 podcasts last week were participants &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/240331/p10#a240331p10)
- - [Dan Lynch, founder of Interop, a computer networking equipment exhibition that helped accelerate TCP/IP adoption and internet commercialization, dies at age 82 &lpar;Katie Hafner/New York Times&rpar;](http://www.techmeme.com/240331/p9#a240331p9)<!-- TECH:END -->
+ - [AT&amp;T confirms data of 73 million customers leaked on dark web, investigation ongoing](https://www.androidauthority.com/att-data-leak-73-million-customers-3430045/)
+ - [A look at the autonomous truck industry&#39;s challenges, including a lack of federal regulation, as Aurora and Kodiak plan a major expansion in Texas this year &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240401/p1#a240401p1)
+ - [Wordle Answer Today: Don&#39;t Click Here if You Don&#39;t Want Spoilers     - CNET](https://www.cnet.com/tech/wordle-answer-today-dont-click-here-if-you-dont-want-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
