@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best April Fools’ day joke this year is the Connections puzzle](https://www.polygon.com/24118203/connections-april-fools-day-prank-nytimes-emoji-reactions)
- - [Helldivers 2 players get revenge on Automatons, take back Malevelon Creek](https://www.polygon.com/24118249/helldivers-2-players-malevelon-creek-win)
- - [&#39;April 1st will forever be a day of victory and remembrance&#39;: Super Earth congratulates Helldivers 2 community after taking back Malevelon Creek, but the timing sure is suspicious](https://www.pcgamer.com/games/third-person-shooter/april-1st-will-forever-be-a-day-of-victory-and-remembrance-super-earth-congratulates-helldivers-2-community-after-taking-back-malevelon-creek-but-the-timing-sure-is-suspicious)<!-- GAME:END -->
+ - [How I turned my MIDI instruments into the ultimate rhythm game controllers](https://www.pcgamer.com/hardware/how-i-turned-my-midi-instruments-into-the-ultimate-rhythm-game-controllers)
+ - [PSA: You can play Diablo 4&#39;s massive season 4 update early](https://www.pcgamer.com/games/rpg/diablo-4-season-4-ptr-release-times-access)
+ - [This year&#39;s best April Fools&#39; Day gaming gags: Bears, bugs, and 97,000 floppy disks](https://www.pcgamer.com/gaming-industry/april-fools-2024-videogames)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
