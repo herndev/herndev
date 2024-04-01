@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you know...](http://9gag.com/gag/aqy4O3Q)
- - ⏩ [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
- - 👉 [Good Knight guys](http://9gag.com/gag/a87dN21)<!-- MEMES:END -->
+ - 💣 [Ban this 9gag](http://9gag.com/gag/a9yje3W)
+ - ⏩ [Go green, go light weight.](http://9gag.com/gag/aLn6OeA)
+ - 👉 [Descriptive title](http://9gag.com/gag/aRB6G7j)<!-- MEMES:END -->
 
 ---
 
