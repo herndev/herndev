@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New multiplayer survival game features crafting, base building, automatic weapons and flying. The twist? Everyone plays as a bunch of ducks](https://www.pcgamer.com/games/survival-crafting/new-multiplayer-survival-game-features-crafting-base-building-automatic-weapons-and-flying-the-twist-everyone-plays-as-a-bunch-of-ducks)
- - [Best Buy is offering free trials for Apple TV Plus, Apple Arcade, and more](https://www.polygon.com/deals/24118044/apple-tv-plus-arcade-free-deal-best-buy)
- - [100-player shooter Enlisted: Reinforced halts sales on Steam due to anger over pricing and a bug that &#39;completely breaks&#39; account linking](https://www.pcgamer.com/games/fps/100-player-shooter-enlisted-reinforced-halts-sales-on-steam-due-to-anger-over-pricing-and-a-bug-that-completely-breaks-account-linking)<!-- GAME:END -->
+ - [Oops, I almost beat Dragon’s Dogma 2 by accident](https://www.polygon.com/gaming/24118067/dragons-dogma-2-last-boss-ending)
+ - [XDefiant misses another launch window, Ubisoft says a new release date will be announced after an upcoming stress test, which also doesn&#39;t have a launch date](https://www.pcgamer.com/games/fps/xdefiant-misses-another-launch-window-ubisoft-says-a-new-release-date-will-be-announced-after-an-upcoming-stress-test-which-also-doesnt-have-a-launch-date)
+ - [Overwatch 2 April Fools’ Patch Continues A Hilarious Tradition](https://kotaku.com/overwatch-2-april-fools-patch-notes-balanced-season-9-1851379695)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
