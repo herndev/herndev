@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
- - ⏩ [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - ⏩ [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 ---
 
