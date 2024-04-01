@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good Knight guys](http://9gag.com/gag/a87dN21)
- - ⏩ [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
- - 👉 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)<!-- MEMES:END -->
+ - 💣 [This is one of the best movies I&#39;ve watched.](http://9gag.com/gag/aNDmGM4)
+ - ⏩ [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
+ - 👉 [Descriptive title](http://9gag.com/gag/aRB6G7j)<!-- MEMES:END -->
 
 ---
 
