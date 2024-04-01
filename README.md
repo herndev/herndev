@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Godzilla’s best team-ups before Godzilla x Kong](https://www.polygon.com/24105803/godzilla-movie-team-ups-kaiju-kong-mothra-ghidorah)
- - [Lego’s $299.99 Gotham Skyline inspired by Batman: The Animated Series launches today](https://www.polygon.com/deals/24093341/lego-batman-gotham-skyline-animated-series-launch-release)
- - [Everybody &lpar;Rightfully&rpar; Hates This Dragon’s Dogma 2 NPC](https://kotaku.com/dragons-dogma-2-melve-martin-npc-murder-1851378527)<!-- GAME:END -->
+ - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in April 2024](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
+ - [Even Tekken 8 Has A Battle Pass Now, And Players Aren’t Happy](https://kotaku.com/tekken-8-game-battle-fight-pass-microtransactions-1851378641)
+ - [Helldivers 2 players return to site of their greatest defeat, as a new Major Order demands the liberation of Malevelon Creek](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-return-to-sight-of-their-greatest-defeat-as-a-new-major-order-demands-the-liberation-of-malevelon-creek)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
