@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad ice cream = Rest in pepperoni](http://9gag.com/gag/ajPQwPq)
- - ⏩ [From eating disorder to sex change - insanity in Canada](http://9gag.com/gag/aMVe7qR)
- - 👉 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a7ovBrw)
+ - ⏩ [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
+ - 👉 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)<!-- MEMES:END -->
 
 ---
 
