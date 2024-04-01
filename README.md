@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in April](https://www.polygon.com/entertainment/2024/4/1/24115402/new-netflix-april-2024-movies-tv-to-watch)
- - [&#39;Please publish this to the main game&#39; ArmA Reforger players go wild for April Fools&#39; gag that purports to turn the military simulator into a battle between toy soldiers](https://www.pcgamer.com/games/fps/please-publish-this-to-the-main-game-arma-reforger-players-go-wild-for-april-fools-gag-that-purports-to-turn-the-military-simulator-into-a-battle-between-toy-soldiers)
- - [&#39;We don&#39;t see a place for microtransactions in single-player games&#39;, says CD Projekt Red following Dragon&#39;s Dogma 2&#39;s DLC fiasco](https://www.pcgamer.com/games/rpg/we-dont-see-a-place-for-microtransactions-in-single-player-games-says-cd-projekt-red-following-dragons-dogma-2s-dlc-fiasco)<!-- GAME:END -->
+ - [Players’ Choice: Vote for March’s best new game](https://blog.playstation.com/2024/04/01/players-choice-vote-for-marchs-best-new-game-3/)
+ - [Shadow of Mordor is worth revisiting for the nemesis system alone](https://www.pcgamer.com/games/action/shadow-of-mordor-is-worth-revisiting-for-the-nemesis-system-alone)
+ - [Having built 500+ PCs in my time I can say this with confidence: Building is fun and rewarding but ironing out those inevitable BIOS, CPU, memory kinks is unbearable](https://www.pcgamer.com/hardware/building-pcs-is-really-rewarding-and-fun-but-i-wish-it-wasnt-so-damn-fiddly-and-fussy-to-get-everything-working-properly)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
