@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for March’s best new game](https://blog.playstation.com/2024/04/01/players-choice-vote-for-marchs-best-new-game-3/)
- - [Shadow of Mordor is worth revisiting for the nemesis system alone](https://www.pcgamer.com/games/action/shadow-of-mordor-is-worth-revisiting-for-the-nemesis-system-alone)
- - [Having built 500+ PCs in my time I can say this with confidence: Building is fun and rewarding but ironing out those inevitable BIOS, CPU, memory kinks is unbearable](https://www.pcgamer.com/hardware/building-pcs-is-really-rewarding-and-fun-but-i-wish-it-wasnt-so-damn-fiddly-and-fussy-to-get-everything-working-properly)<!-- GAME:END -->
+ - [Godzilla’s best team-ups before Godzilla x Kong](https://www.polygon.com/24105803/godzilla-movie-team-ups-kaiju-kong-mothra-ghidorah)
+ - [Lego’s $299.99 Gotham Skyline inspired by Batman: The Animated Series launches today](https://www.polygon.com/deals/24093341/lego-batman-gotham-skyline-animated-series-launch-release)
+ - [Everybody &lpar;Rightfully&rpar; Hates This Dragon’s Dogma 2 NPC](https://kotaku.com/dragons-dogma-2-melve-martin-npc-murder-1851378527)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
