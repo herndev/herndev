@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get To Know Our Team: Andrew – Customer Experience Manager](https://news.xbox.com/en-us/2024/03/29/get-to-know-our-team-andrew-customer-experience-manager/)
- - [Classic &#39;90s space sim Star Wars: X-Wing had one mission that was so brutally hard, a fan cut up his floppy disks and mailed them back to LucasArts](https://www.pcgamer.com/games/sim/classic-90s-space-sim-star-wars-x-wing-had-one-mission-that-was-so-brutally-hard-a-fan-cut-up-his-floppy-disks-and-mailed-them-back-to-lucasarts)
- - [Imaginary, Lisa Frankenstein, Netflix’s The Beautiful Game, and every new movie to watch at home this weekend](https://www.polygon.com/2024/3/29/24111343/new-movies-watch-lisa-frankenstein-the-beautiful-game-netflix-imaginary-stream-vod)<!-- GAME:END -->
+ - [This year&#39;s inevitable flood of April Fools Day joke visual novels begins with Palworld](https://www.pcgamer.com/games/visual-novel/this-years-inevitable-flood-of-april-fools-day-joke-visual-novels-begins-with-palworld)
+ - [Tweak your crazy spells in this tough, traditional roguelike wizard simulator](https://www.pcgamer.com/games/roguelike/tweak-your-crazy-spells-in-this-tough-traditional-roguelike-wizard-simulator)
+ - [The next Magic: The Gathering set wants you to do crimes](https://www.pcgamer.com/games/card-games/the-next-magic-the-gathering-set-wants-you-to-do-crimes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
