@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite support studio Certain Affinity lays off employees for the first time in 17 years, blames industry slowdown and &#39;reluctance of third party investors to fund games or game companies&#39;](https://www.pcgamer.com/gaming-industry/halo-infinite-support-studio-certain-affinity-lays-off-employees-for-the-first-time-in-17-years-blames-industry-slowdown-and-reluctance-of-third-party-investors-to-fund-games-or-game-companies)
- - [Helldivers 2 Players Finally Liberate Malevelon Creek, AKA &#39;Robot Vietnam&#39;](https://kotaku.com/helldivers-2-malevelon-creek-liberated-1851379768)
- - [Stardew Valley modder challenges players with an &#39;everything bagel&#39; recipe that requires 134 ingredients](https://www.pcgamer.com/games/life-sim/stardew-valley-modder-challenges-players-with-an-everything-bagel-recipe-that-requires-134-ingredients)<!-- GAME:END -->
+ - [The best April Fools’ day joke this year is the Connections puzzle](https://www.polygon.com/24118203/connections-april-fools-day-prank-nytimes-emoji-reactions)
+ - [Helldivers 2 players get revenge on Automatons, take back Malevelon Creek](https://www.polygon.com/24118249/helldivers-2-players-malevelon-creek-win)
+ - [&#39;April 1st will forever be a day of victory and remembrance&#39;: Super Earth congratulates Helldivers 2 community after taking back Malevelon Creek, but the timing sure is suspicious](https://www.pcgamer.com/games/third-person-shooter/april-1st-will-forever-be-a-day-of-victory-and-remembrance-super-earth-congratulates-helldivers-2-community-after-taking-back-malevelon-creek-but-the-timing-sure-is-suspicious)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
