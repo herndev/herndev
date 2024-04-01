@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC is trying to help victims of impersonation scams get their money back](https://www.theverge.com/2024/4/1/24118030/ftc-impersonation-rule-businesses-government-artificial-intelligence)
- - [Apple researchers detail an AI system that can resolve ambiguous references to on-screen entities, in some cases better than GPT-4 can, and can run &quot;on-device&quot; &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240401/p16#a240401p16)
- - [Tekken fans pester developer to add a Waffle House stage](https://www.theverge.com/2024/4/1/24118093/tekken-waffle-house-stage-harada-fighting-games-anthony-bourdain)<!-- TECH:END -->
+ - [Google releases Android 14 QPR3 Beta 2.1 with extensive bug fixes](https://www.androidauthority.com/android-14-qpr3-beta-2-1-3430283/)
+ - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
+ - [Telegram now lets Premium users turn their account into a business account, with options like a custom start page, greeting and away messages, and chatbots &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240401/p18#a240401p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
