@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could launch a second ‘Ultra’ flagship phone this year](https://www.androidauthority.com/samsung-galaxy-z-fold-6-ultra-rumor-3430114/)
- - [Computing would be totally different had Apple not been formed 48 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
- - [iOS 17.4 Is Out, but Don&#39;t Miss These iOS 17.2 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-is-out-but-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: OpenAI discussed training GPT-5 on public YouTube video transcripts; AI industry&#39;s need for high-quality text data may outstrip supply within two years &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p5#a240401p5)
+ - [Customer shares hellish experience of canceling an AT&amp;T phone line](https://www.androidauthority.com/att-customer-care-cancellation-experience-3430102/)
+ - [Apple won&#39;t unlock India Prime Minister&#39;s election opponent&#39;s iPhone](https://appleinsider.com/articles/24/04/01/apple-wont-unlock-india-prime-ministers-election-opponents-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
