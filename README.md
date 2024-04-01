@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - ⏩ [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 👉 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)<!-- MEMES:END -->
+ - 💣 [The perfect keychain doesn&#39;t exist...](http://9gag.com/gag/aW4B5BK)
+ - ⏩ [No pain no gain](http://9gag.com/gag/aO8oEEy)
+ - 👉 [Descriptive title](http://9gag.com/gag/aRB6G7j)<!-- MEMES:END -->
 
 ---
 
