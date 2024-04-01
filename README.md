@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
- - ⏩ [Shedding Antler](http://9gag.com/gag/aD2RqpO)
- - 👉 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)<!-- MEMES:END -->
+ - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - ⏩ [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
+ - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
 
 ---
 
