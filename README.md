@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today’s NYT Connections Puzzle Is A Cruel April Fools&#39; Joke](https://kotaku.com/connections-nyt-april-fools-answer-help-hint-emoji-1851379097)
- - [IHOP’s New Sonic-Inspired Menu Is Real And Not An April Fools&#39; Prank](https://kotaku.com/new-ihop-sonic-menu-items-dlc-outfit-is-it-real-1851379063)
- - [Honkai: Star Rail codes for April 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240328-2000&rpar;](https://news.xbox.com/en-us/2024/04/01/xbox-insider-release-notes-alpha-skip-ahead-2408-240328-2000/)
+ - [All the House of the Dragon season 2 news we’ve heard so far](https://www.polygon.com/23419614/house-of-the-dragon-season-2-release-date-cast-news)
+ - [Popular Streamer xQc Gets Banned From DayZ Server](https://kotaku.com/kick-felix-xqc-lengyel-livestream-dayz-chernarus-server-1851379255)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
