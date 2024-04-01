@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases Android 14 QPR3 Beta 2.1 with extensive bug fixes](https://www.androidauthority.com/android-14-qpr3-beta-2-1-3430283/)
  - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
- - [Telegram now lets Premium users turn their account into a business account, with options like a custom start page, greeting and away messages, and chatbots &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240401/p18#a240401p18)<!-- TECH:END -->
+ - [Cloud data management startup Rubrik files for a NYSE IPO under the symbol RBRK, discloses a net loss of $354M on revenue of $628M for the year ended January 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240401/p19#a240401p19)
+ - [How to mix politics with your Threads](https://www.theverge.com/24117988/threads-instagram-politics-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
