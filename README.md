@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, April 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-1-2024)
  - [This year&#39;s inevitable flood of April Fools Day joke visual novels begins with Palworld](https://www.pcgamer.com/games/visual-novel/this-years-inevitable-flood-of-april-fools-day-joke-visual-novels-begins-with-palworld)
- - [Tweak your crazy spells in this tough, traditional roguelike wizard simulator](https://www.pcgamer.com/games/roguelike/tweak-your-crazy-spells-in-this-tough-traditional-roguelike-wizard-simulator)
- - [The next Magic: The Gathering set wants you to do crimes](https://www.pcgamer.com/games/card-games/the-next-magic-the-gathering-set-wants-you-to-do-crimes)<!-- GAME:END -->
+ - [Tweak your crazy spells in this tough, traditional roguelike wizard simulator](https://www.pcgamer.com/games/roguelike/tweak-your-crazy-spells-in-this-tough-traditional-roguelike-wizard-simulator)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
