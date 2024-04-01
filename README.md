@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just why not wear normal things\u2026](http://9gag.com/gag/ajPQwEg)
+ - 💣 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
  - ⏩ [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 👉 [Jammed toast](http://9gag.com/gag/avy2wLO)<!-- MEMES:END -->
+ - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
 
 ---
 
