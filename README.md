@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 💣 [I think i download the wrong wonder woman](http://9gag.com/gag/axyEKBp)
  - ⏩ [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
- - 👉 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)<!-- MEMES:END -->
+ - 👉 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)<!-- MEMES:END -->
 
 ---
 
