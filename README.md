@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Loop Capital cuts AAPL price target to $170 over weak iPhone demand](https://appleinsider.com/articles/24/04/01/loop-capital-cuts-aapl-price-target-to-170-over-weak-iphone-demand?utm_medium=rss)
- - [Google Home may soon work even when you don’t have Internet](https://www.androidauthority.com/google-home-without-internet-3430098/)
- - [Filing: to settle a 2020 class action suit about Chrome&#39;s Incognito mode, Google has agreed to destroy billions of data points it allegedly improperly collected &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p10#a240401p10)<!-- TECH:END -->
+ - [The 41mm Apple Watch Series 9 is on sale starting at a rare $299](https://www.theverge.com/2024/4/1/24117804/apple-watch-series-9-sennheiser-momentum-true-wireless-3-earbuds-fujifilm-instax-mini-12-deal-sale)
+ - [AI search engine Perplexity, which touts on its site that search should be &quot;free from the influence of advertising-driven models&quot;, says it will sell ads &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/240401/p11#a240401p11)
+ - [Record $220 price drop on the Samsung Galaxy Z Flip 5 &lpar;512GB&rpar;](https://www.androidauthority.com/deal-samsung-galaxy-z-flip-5-3430206/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
