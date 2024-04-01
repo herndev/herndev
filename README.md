@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola’s upcoming flagship flaunts its curves in latest leak](https://www.androidauthority.com/motorla-edge-50-ultra-design-leak-3430064/)
  - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)
- - [Samsung says ChatGPT-like AI smarts could come to Bixby](https://www.androidauthority.com/bixby-generative-ai-features-3430057/)
- - [SK Hynix tops $100B in valuation as its stock rose 2x+ over the past year amid high-bandwidth memory demand; analysts: SK Hynix has 90%+ share of the latest HBM &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/240401/p2#a240401p2)<!-- TECH:END -->
+ - [Samsung says ChatGPT-like AI smarts could come to Bixby](https://www.androidauthority.com/bixby-generative-ai-features-3430057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
