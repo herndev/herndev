@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google agrees to ‘destroy’ data it collected to settle Incognito mode lawsuit](https://www.androidauthority.com/google-destroys-incognito-mode-data-3430236/)
- - [To highlight an attack vector, a researcher made a package with a name hallucinated by ChatGPT; it had 30K+ downloads in three months and appeared in many repos &lpar;Lasso Security&rpar;](http://www.techmeme.com/240401/p14#a240401p14)
- - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)<!-- TECH:END -->
+ - [The FTC is trying to help victims of impersonation scams get their money back](https://www.theverge.com/2024/4/1/24118030/ftc-impersonation-rule-businesses-government-artificial-intelligence)
+ - [Apple researchers detail an AI system that can resolve ambiguous references to on-screen entities, in some cases better than GPT-4 can, and can run &quot;on-device&quot; &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240401/p16#a240401p16)
+ - [Tekken fans pester developer to add a Waffle House stage](https://www.theverge.com/2024/4/1/24118093/tekken-waffle-house-stage-harada-fighting-games-anthony-bourdain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
