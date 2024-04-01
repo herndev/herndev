@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240328-2000&rpar;](https://news.xbox.com/en-us/2024/04/01/xbox-insider-release-notes-alpha-skip-ahead-2408-240328-2000/)
- - [All the House of the Dragon season 2 news we’ve heard so far](https://www.polygon.com/23419614/house-of-the-dragon-season-2-release-date-cast-news)
- - [Popular Streamer xQc Gets Banned From DayZ Server](https://kotaku.com/kick-felix-xqc-lengyel-livestream-dayz-chernarus-server-1851379255)<!-- GAME:END -->
+ - [New multiplayer survival game features crafting, base building, automatic weapons and flying. The twist? Everyone plays as a bunch of ducks](https://www.pcgamer.com/games/survival-crafting/new-multiplayer-survival-game-features-crafting-base-building-automatic-weapons-and-flying-the-twist-everyone-plays-as-a-bunch-of-ducks)
+ - [Best Buy is offering free trials for Apple TV Plus, Apple Arcade, and more](https://www.polygon.com/deals/24118044/apple-tv-plus-arcade-free-deal-best-buy)
+ - [100-player shooter Enlisted: Reinforced halts sales on Steam due to anger over pricing and a bug that &#39;completely breaks&#39; account linking](https://www.pcgamer.com/games/fps/100-player-shooter-enlisted-reinforced-halts-sales-on-steam-due-to-anger-over-pricing-and-a-bug-that-completely-breaks-account-linking)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
