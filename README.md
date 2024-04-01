@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google agrees to destroy browsing data collected in Incognito mode](https://www.theverge.com/2024/4/1/24117929/google-incognito-browsing-data-delete-class-action-settlement)
- - [OpenAI no longer requires an account to use ChatGPT, but with &quot;slightly more restrictive content policies&quot;, starting in a few markets and rolling out globally &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240401/p12#a240401p12)
- - [Migo Ascender stair-climbing vacuum, Qi2 gear, &amp; TP-Link camera reviews on HomeKit Insider](https://appleinsider.com/articles/24/04/01/migo-ascender-stair-climbing-vacuum-qi2-gear-tp-link-camera-reviews-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Google agrees to ‘destroy’ data it collected to settle Incognito mode lawsuit](https://www.androidauthority.com/google-destroys-incognito-mode-data-3430236/)
+ - [To highlight an attack vector, a researcher made a package with a name hallucinated by ChatGPT; it had 30K+ downloads in three months and appeared in many repos &lpar;Lasso Security&rpar;](http://www.techmeme.com/240401/p14#a240401p14)
+ - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
