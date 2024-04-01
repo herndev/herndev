@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well... Need to improve.](http://9gag.com/gag/awyNGAQ)
- - ⏩ [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 👉 [In their honour](http://9gag.com/gag/a87dXgQ)<!-- MEMES:END -->
+ - 💣 [Today,](http://9gag.com/gag/ae9KyXB)
+ - ⏩ [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
+ - 👉 [The cow was a vegan, Olivia](http://9gag.com/gag/aE0db6N)<!-- MEMES:END -->
 
 ---
 
