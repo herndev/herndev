@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brainless but woodable goth.](http://9gag.com/gag/aYQjBA0)
- - ⏩ [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 💣 [Bad ice cream = Rest in pepperoni](http://9gag.com/gag/ajPQwPq)
+ - ⏩ [From eating disorder to sex change - insanity in Canada](http://9gag.com/gag/aMVe7qR)
+ - 👉 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)<!-- MEMES:END -->
 
 ---
 
