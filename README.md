@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)
  - [Samsung says ChatGPT-like AI smarts could come to Bixby](https://www.androidauthority.com/bixby-generative-ai-features-3430057/)
- - [SK Hynix tops $100B in valuation as its stock rose 2x+ over the past year amid high-bandwidth memory demand; analysts: SK Hynix has 90%+ share of the latest HBM &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/240401/p2#a240401p2)
- - [AT&amp;T confirms data of 73 million customers leaked on dark web, investigation ongoing](https://www.androidauthority.com/att-data-leak-73-million-customers-3430045/)<!-- TECH:END -->
+ - [SK Hynix tops $100B in valuation as its stock rose 2x+ over the past year amid high-bandwidth memory demand; analysts: SK Hynix has 90%+ share of the latest HBM &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/240401/p2#a240401p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
