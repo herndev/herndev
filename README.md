@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ban this 9gag](http://9gag.com/gag/a9yje3W)
- - ⏩ [Go green, go light weight.](http://9gag.com/gag/aLn6OeA)
- - 👉 [Descriptive title](http://9gag.com/gag/aRB6G7j)<!-- MEMES:END -->
+ - 💣 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
+ - ⏩ [Shedding Antler](http://9gag.com/gag/aD2RqpO)
+ - 👉 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)<!-- MEMES:END -->
 
 ---
 
