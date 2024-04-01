@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think i download the wrong wonder woman](http://9gag.com/gag/axyEKBp)
- - ⏩ [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
- - 👉 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)<!-- MEMES:END -->
+ - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - ⏩ [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - 👉 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)<!-- MEMES:END -->
 
 ---
 
