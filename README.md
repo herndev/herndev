@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Sam Altman no longer controls the OpenAI Startup Fund, which has a $325M+ gross asset value; Ian Hathaway, who has helped manage the fund, is in charge &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240401/p9#a240401p9)
- - [The IRS Owes $1B in Refunds to 940,000 Taxpayers from 2021. How to Claim Your Money     - CNET](https://www.cnet.com/personal-finance/the-irs-owes-1b-in-refunds-to-940000-taxpayers-from-2021-how-to-claim-your-money/#ftag=CAD590a51e)
- - [Better Refinance Options for Homeowners: Mortgage Refinance Rates on April 1, 2024     - CNET](https://www.cnet.com/personal-finance/refinance-rates-slide-down-again-mortgage-refinance-rates-on-april-1-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Loop Capital cuts AAPL price target to $170 over weak iPhone demand](https://appleinsider.com/articles/24/04/01/loop-capital-cuts-aapl-price-target-to-170-over-weak-iphone-demand?utm_medium=rss)
+ - [Google Home may soon work even when you don’t have Internet](https://www.androidauthority.com/google-home-without-internet-3430098/)
+ - [Filing: to settle a 2020 class action suit about Chrome&#39;s Incognito mode, Google has agreed to destroy billions of data points it allegedly improperly collected &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p10#a240401p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
