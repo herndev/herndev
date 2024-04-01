@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI discussed training GPT-5 on public YouTube video transcripts; AI industry&#39;s need for high-quality text data may outstrip supply within two years &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p5#a240401p5)
- - [Customer shares hellish experience of canceling an AT&amp;T phone line](https://www.androidauthority.com/att-customer-care-cancellation-experience-3430102/)
- - [Apple won&#39;t unlock India Prime Minister&#39;s election opponent&#39;s iPhone](https://appleinsider.com/articles/24/04/01/apple-wont-unlock-india-prime-ministers-election-opponents-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Interviews and Telegram messages detail how Russian middlemen used Tether to avoid US sanctions and procure parts for drones and other high-tech equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p6#a240401p6)
+ - [Several senators overseeing anti-Apple regulations controversially hold shares](https://appleinsider.com/articles/24/04/01/several-senators-overseeing-anti-apple-regulations-controversially-hold-shares?utm_medium=rss)
+ - [20 years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
