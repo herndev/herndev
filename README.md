@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some teens say a Snapchat+ feature that lets users see their position in their friends&#39; digital orbits, rendered as a solar system, is adding to their anxieties &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p3#a240401p3)
  - [Motorola’s upcoming flagship flaunts its curves in latest leak](https://www.androidauthority.com/motorla-edge-50-ultra-design-leak-3430064/)
- - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)
- - [Samsung says ChatGPT-like AI smarts could come to Bixby](https://www.androidauthority.com/bixby-generative-ai-features-3430057/)<!-- TECH:END -->
+ - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
