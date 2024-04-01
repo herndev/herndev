@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to unbundle Teams from Office 365 globally starting April 1 amid antitrust scrutiny, after a similar unbundling in EU in August 2023 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240401/p4#a240401p4)
- - [Are Cicadas Safe for Dogs to Eat? What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/are-cicadas-safe-for-dogs-to-eat-what-to-know/#ftag=CAD590a51e)
- - [TikTok Shop’s Era of Super Subsidies Is Ending](https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/)<!-- TECH:END -->
+ - [Samsung could launch a second ‘Ultra’ flagship phone this year](https://www.androidauthority.com/samsung-galaxy-z-fold-6-ultra-rumor-3430114/)
+ - [Computing would be totally different had Apple not been formed 48 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
+ - [iOS 17.4 Is Out, but Don&#39;t Miss These iOS 17.2 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-is-out-but-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
