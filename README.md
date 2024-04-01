@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - ⏩ [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 💣 [Copsmart](http://9gag.com/gag/ajPQv8q)
+ - ⏩ [Good Knight guys](http://9gag.com/gag/a87dN21)
+ - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
 
 ---
 
