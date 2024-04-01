@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft splits Teams from Office as antitrust pressure ramps up](https://www.theverge.com/2024/4/1/24117785/microsoft-teams-office-split-eu-regulation-antitrust-investigation)
- - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)
- - [The new OnePlus Nord CE 4 brings 100W fast charging to the mid-range](https://www.androidauthority.com/oneplus-nord-ce-4-3430151/)<!-- TECH:END -->
+ - [Filing: Sam Altman no longer controls the OpenAI Startup Fund, which has a $325M+ gross asset value; Ian Hathaway, who has helped manage the fund, is in charge &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240401/p9#a240401p9)
+ - [The IRS Owes $1B in Refunds to 940,000 Taxpayers from 2021. How to Claim Your Money     - CNET](https://www.cnet.com/personal-finance/the-irs-owes-1b-in-refunds-to-940000-taxpayers-from-2021-how-to-claim-your-money/#ftag=CAD590a51e)
+ - [Better Refinance Options for Homeowners: Mortgage Refinance Rates on April 1, 2024     - CNET](https://www.cnet.com/personal-finance/refinance-rates-slide-down-again-mortgage-refinance-rates-on-april-1-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
