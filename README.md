@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oops, I almost beat Dragon’s Dogma 2 by accident](https://www.polygon.com/gaming/24118067/dragons-dogma-2-last-boss-ending)
- - [XDefiant misses another launch window, Ubisoft says a new release date will be announced after an upcoming stress test, which also doesn&#39;t have a launch date](https://www.pcgamer.com/games/fps/xdefiant-misses-another-launch-window-ubisoft-says-a-new-release-date-will-be-announced-after-an-upcoming-stress-test-which-also-doesnt-have-a-launch-date)
- - [Overwatch 2 April Fools’ Patch Continues A Hilarious Tradition](https://kotaku.com/overwatch-2-april-fools-patch-notes-balanced-season-9-1851379695)<!-- GAME:END -->
+ - [Halo Infinite support studio Certain Affinity lays off employees for the first time in 17 years, blames industry slowdown and &#39;reluctance of third party investors to fund games or game companies&#39;](https://www.pcgamer.com/gaming-industry/halo-infinite-support-studio-certain-affinity-lays-off-employees-for-the-first-time-in-17-years-blames-industry-slowdown-and-reluctance-of-third-party-investors-to-fund-games-or-game-companies)
+ - [Helldivers 2 Players Finally Liberate Malevelon Creek, AKA &#39;Robot Vietnam&#39;](https://kotaku.com/helldivers-2-malevelon-creek-liberated-1851379768)
+ - [Stardew Valley modder challenges players with an &#39;everything bagel&#39; recipe that requires 134 ingredients](https://www.pcgamer.com/games/life-sim/stardew-valley-modder-challenges-players-with-an-everything-bagel-recipe-that-requires-134-ingredients)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
