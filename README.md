@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find malicious code in versions of the Linux compression tool XZ Utils that were incorporated into unstable distributions from Red Hat and Debian &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240329/p18#a240329p18)
- - [Beyoncé&#39;s Cowboy Carter Album: Easter Eggs, Guest Stars, How to Stream     - CNET](https://www.cnet.com/tech/beyonces-cowboy-carter-album-easter-eggs-guest-stars-how-to-stream/#ftag=CAD590a51e)
- - [March Madness 2024: How to Watch, Livestream the Sweet 16 Today Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-sweet-16-friday-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dan Lynch, founder of Interop, a computer networking equipment exhibition that helped accelerate TCP/IP adoption and internet commercialization, dies at age 82 &lpar;Katie Hafner/New York Times&rpar;](http://www.techmeme.com/240331/p9#a240331p9)
+ - [AT&amp;T vs. Xfinity: Customer-Friendly Fiber and Low-Cost Cable     - CNET](https://www.cnet.com/home/internet/att-vs-xfinity/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Fold 4 Deals: Up to $1,200 Off With Verizon, Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-z-fold-4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
