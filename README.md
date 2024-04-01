@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect keychain doesn&#39;t exist...](http://9gag.com/gag/aW4B5BK)
- - ⏩ [No pain no gain](http://9gag.com/gag/aO8oEEy)
- - 👉 [Descriptive title](http://9gag.com/gag/aRB6G7j)<!-- MEMES:END -->
+ - 💣 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - ⏩ [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 👉 [Poor things!](http://9gag.com/gag/adByWLZ)<!-- MEMES:END -->
 
 ---
 
