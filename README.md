@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T confirms data of 73 million customers leaked on dark web, investigation ongoing](https://www.androidauthority.com/att-data-leak-73-million-customers-3430045/)
- - [A look at the autonomous truck industry&#39;s challenges, including a lack of federal regulation, as Aurora and Kodiak plan a major expansion in Texas this year &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240401/p1#a240401p1)
- - [Wordle Answer Today: Don&#39;t Click Here if You Don&#39;t Want Spoilers     - CNET](https://www.cnet.com/tech/wordle-answer-today-dont-click-here-if-you-dont-want-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung says ChatGPT-like AI smarts could come to Bixby](https://www.androidauthority.com/bixby-generative-ai-features-3430057/)
+ - [SK Hynix tops $100B in valuation as its stock rose 2x+ over the past year amid high-bandwidth memory demand; analysts: SK Hynix has 90%+ share of the latest HBM &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/240401/p2#a240401p2)
+ - [AT&amp;T confirms data of 73 million customers leaked on dark web, investigation ongoing](https://www.androidauthority.com/att-data-leak-73-million-customers-3430045/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
