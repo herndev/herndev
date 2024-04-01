@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - ⏩ [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
- - 👉 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)<!-- MEMES:END -->
+ - 💣 [Brainless but woodable goth.](http://9gag.com/gag/aYQjBA0)
+ - ⏩ [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
 
 ---
 
