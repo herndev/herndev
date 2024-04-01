@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews and Telegram messages detail how Russian middlemen used Tether to avoid US sanctions and procure parts for drones and other high-tech equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p6#a240401p6)
- - [Several senators overseeing anti-Apple regulations controversially hold shares](https://appleinsider.com/articles/24/04/01/several-senators-overseeing-anti-apple-regulations-controversially-hold-shares?utm_medium=rss)
- - [20 years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)<!-- TECH:END -->
+ - [Microsoft splits Teams from Office as antitrust pressure ramps up](https://www.theverge.com/2024/4/1/24117785/microsoft-teams-office-split-eu-regulation-antitrust-investigation)
+ - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)
+ - [The new OnePlus Nord CE 4 brings 100W fast charging to the mid-range](https://www.androidauthority.com/oneplus-nord-ce-4-3430151/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
