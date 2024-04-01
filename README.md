@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 41mm Apple Watch Series 9 is on sale starting at a rare $299](https://www.theverge.com/2024/4/1/24117804/apple-watch-series-9-sennheiser-momentum-true-wireless-3-earbuds-fujifilm-instax-mini-12-deal-sale)
- - [AI search engine Perplexity, which touts on its site that search should be &quot;free from the influence of advertising-driven models&quot;, says it will sell ads &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/240401/p11#a240401p11)
- - [Record $220 price drop on the Samsung Galaxy Z Flip 5 &lpar;512GB&rpar;](https://www.androidauthority.com/deal-samsung-galaxy-z-flip-5-3430206/)<!-- TECH:END -->
+ - [Google agrees to destroy browsing data collected in Incognito mode](https://www.theverge.com/2024/4/1/24117929/google-incognito-browsing-data-delete-class-action-settlement)
+ - [OpenAI no longer requires an account to use ChatGPT, but with &quot;slightly more restrictive content policies&quot;, starting in a few markets and rolling out globally &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240401/p12#a240401p12)
+ - [Migo Ascender stair-climbing vacuum, Qi2 gear, &amp; TP-Link camera reviews on HomeKit Insider](https://appleinsider.com/articles/24/04/01/migo-ascender-stair-climbing-vacuum-qi2-gear-tp-link-camera-reviews-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
