@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a7ovBrw)
- - ⏩ [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
- - 👉 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)<!-- MEMES:END -->
+ - 💣 [Just why not wear normal things\u2026](http://9gag.com/gag/ajPQwEg)
+ - ⏩ [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 👉 [Jammed toast](http://9gag.com/gag/avy2wLO)<!-- MEMES:END -->
 
 ---
 
