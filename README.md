@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
- - ⏩ [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 👉 [Title](http://9gag.com/gag/a7ovBrw)<!-- MEMES:END -->
+ - 💣 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - ⏩ [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 👉 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)<!-- MEMES:END -->
 
 ---
 
