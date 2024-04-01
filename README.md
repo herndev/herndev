@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some teens say a Snapchat+ feature that lets users see their position in their friends&#39; digital orbits, rendered as a solar system, is adding to their anxieties &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p3#a240401p3)
- - [Motorola’s upcoming flagship flaunts its curves in latest leak](https://www.androidauthority.com/motorla-edge-50-ultra-design-leak-3430064/)
- - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)<!-- TECH:END -->
+ - [Microsoft plans to unbundle Teams from Office 365 globally starting April 1 amid antitrust scrutiny, after a similar unbundling in EU in August 2023 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240401/p4#a240401p4)
+ - [Are Cicadas Safe for Dogs to Eat? What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/are-cicadas-safe-for-dogs-to-eat-what-to-know/#ftag=CAD590a51e)
+ - [TikTok Shop’s Era of Super Subsidies Is Ending](https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
