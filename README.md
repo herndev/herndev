@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in April 2024](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
- - [Even Tekken 8 Has A Battle Pass Now, And Players Aren’t Happy](https://kotaku.com/tekken-8-game-battle-fight-pass-microtransactions-1851378641)
- - [Helldivers 2 players return to site of their greatest defeat, as a new Major Order demands the liberation of Malevelon Creek](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-return-to-sight-of-their-greatest-defeat-as-a-new-major-order-demands-the-liberation-of-malevelon-creek)<!-- GAME:END -->
+ - [Today’s NYT Connections Puzzle Is A Cruel April Fools&#39; Joke](https://kotaku.com/connections-nyt-april-fools-answer-help-hint-emoji-1851379097)
+ - [IHOP’s New Sonic-Inspired Menu Is Real And Not An April Fools&#39; Prank](https://kotaku.com/new-ihop-sonic-menu-items-dlc-outfit-is-it-real-1851379063)
+ - [Honkai: Star Rail codes for April 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
