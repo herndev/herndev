@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Owners Report Valve’s Priciest Steam Deck Model Has A Cracking Problem](https://kotaku.com/limited-edition-steam-deck-oled-valve-cracks-plastic-1851382722)
- - [How to get a Medusa Head in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24118905/medusa-head-location-how-to-get-preserved)
- - [US government denies ESRB&#39;s AI-powered face-scanning &#39;age estimation&#39; proposal, but it&#39;s probably not gone for good](https://www.pcgamer.com/gaming-industry/us-government-denies-esrbs-ai-powered-face-scanning-age-estimation-proposal-but-its-probably-not-gone-for-good)<!-- GAME:END -->
+ - [Mission Talita is a Grand Theft Auto mod meant to stop trafficking](https://www.polygon.com/24119385/mission-talita-grand-theft-auto-mod-non-profit-sex-trafficking)
+ - [April is a monster month for city builders and colony sims](https://www.pcgamer.com/games/city-builder/april-is-a-monster-month-for-city-builders-and-colony-sims)
+ - [April Fools&#39; phenom Content Warning draws in more than 204,000 concurrent players](https://www.pcgamer.com/games/horror/april-fools-phenom-content-warning-draws-in-more-than-204000-concurrent-players)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
