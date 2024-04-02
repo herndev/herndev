@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - ⏩ [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
+ - 💣 [The new disney hit!](http://9gag.com/gag/aD2Rvj9)
+ - ⏩ [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 👉 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)<!-- MEMES:END -->
 
 ---
 
