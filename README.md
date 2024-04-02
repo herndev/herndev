@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Copsmart](http://9gag.com/gag/ajPQv8q)
- - ⏩ [Good Knight guys](http://9gag.com/gag/a87dN21)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 💣 [Normal!](http://9gag.com/gag/aYQj50q)
+ - ⏩ [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)
+ - 👉 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)<!-- MEMES:END -->
 
 ---
 
