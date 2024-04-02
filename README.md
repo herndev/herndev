@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Own the Night with the Nocturnal Vapor Special Edition Controller](https://news.xbox.com/en-us/2024/04/02/nocturnal-vapor-special-edition-announce/)
- - [No show is having more fun than Chucky](https://www.polygon.com/24113753/chucky-tv-show-syfy-usa-peacock-season-3-its-bloody-good)
- - [Some gamers may be able to see more frames per second than the rest of us, adding to my list of excuses as to why I suck at fast-paced multiplayer games](https://www.pcgamer.com/hardware/some-gamers-may-be-able-to-see-more-frames-per-second-than-the-rest-of-us-adding-to-my-list-of-excuses-as-to-why-i-suck-at-fast-paced-multiplayer-games)<!-- GAME:END -->
+ - [New Research Suggests Some Gamers&#39; Eyes See More FPS](https://kotaku.com/pro-gamers-athlete-visual-temporal-resolution-image-1851381219)
+ - [This upcoming indie strategy game looks like Left 4 Dead in the style of XCOM](https://www.pcgamer.com/games/strategy/this-upcoming-indie-strategy-game-looks-like-left-4-dead-in-the-style-of-xcom)
+ - [Helldivers 2’s Robots Back With A Vengeance, Now Have Gunships And Walking Tanks](https://kotaku.com/helldivers-2-gunships-factory-striders-automatons-1851381137)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
