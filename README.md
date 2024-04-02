@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S20 series no longer eligible for monthly updates](https://www.androidauthority.com/samsung-galaxy-s20-quarterly-updates-3430310/)
  - [How to use Continuity Camera with Apple Music Sing on Apple TV 4K](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-use-continuity-camera-with-apple-music-sing-on-apple-tv-4k?utm_medium=rss)
- - [NYC-based Web3 infrastructure company Xion raised $25M, reportedly a Series A, from Animoca Brands, Laser Digital, Multicoin, Arrington Capital, and others &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240401/p25#a240401p25)
- - [Best Places to Buy Replacement Prescription Lenses Online in 2024     - CNET](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Web3 infrastructure company Xion raised $25M, reportedly a Series A, from Animoca Brands, Laser Digital, Multicoin, Arrington Capital, and others &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240401/p25#a240401p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
