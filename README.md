@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - ⏩ [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 👉 [I think i download the wrong wonder woman](http://9gag.com/gag/axyEKBp)<!-- MEMES:END -->
+ - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - ⏩ [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
 
 ---
 
