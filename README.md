@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scotland&#39;s new hate speech law came into force today. The law, championed by Hamza Yousaf, will carry prison sentences up to 7 years for statements deemed to stir up hate on the grounds of religion, sexuality, race &amp; gender identity. This speech by Yousaf sounds a bit hatefull.](http://9gag.com/gag/aMVe5DW)
- - ⏩ [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 👉 [Thank you!](http://9gag.com/gag/a9yje9o)<!-- MEMES:END -->
+ - 💣 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - ⏩ [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - 👉 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)<!-- MEMES:END -->
 
 ---
 
