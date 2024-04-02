@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
- - [Google’s final warning: Dropcam, Dropcam Pro, and Nest Secure support ends on April 8th](https://www.theverge.com/2024/4/2/24119040/google-dropcam-nest-secure-support-ends-april-8th)
- - [It’s time for a hard reset on notifications](https://www.theverge.com/24119076/ios-android-notifications-focus-modes-scheduled-summary)<!-- TECH:END -->
+ - [NYC’s AI gun detectors hardly work](https://www.theverge.com/2024/4/2/24119275/evolv-technologies-ai-gun-scanners-nyc-subway)
+ - [The US NIST, which analyzed only 199 of the 3,370 CVEs the agency received in March, blames the backlog on a lack of &quot;interagency support&quot; &lpar;Simon Hendery/SC Media&rpar;](http://www.techmeme.com/240402/p20#a240402p20)
+ - [Final Fantasy VII Rebirth’s biggest twist is concealed in a tiny detail](https://www.theverge.com/2024/4/2/24119195/final-fantasy-vii-rebirth-plot-twist-buster-sword-animation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
