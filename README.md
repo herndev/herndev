@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Podcasts is gone — and so is my faith in Google](https://www.theverge.com/2024/4/2/24118873/google-podcasts-shutdown-graveyard)
- - [Luminance, which offers generative AI tools for lawyers, raised a $40M Series B led by March Capital and says 600 organizations in 70 countries use its tools &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/240402/p14#a240402p14)
- - [A &#39;House of the Dragon&#39; Star Made a Video Game to Grieve His Father](https://www.wired.com/story/abubakar-salim-house-of-the-dragon-tales-of-kenzera-zau-game-grief/)<!-- TECH:END -->
+ - [Apple’s second-gen AirPods are available at a rare discount](https://www.theverge.com/2024/4/2/24118244/apple-second-gen-airpods-hatch-restore-2-samsung-galaxy-z-flip-5-deal-sale)
+ - [Apple employees urge management to act on Gaza conflict](https://appleinsider.com/articles/24/04/02/apple-employees-urge-management-to-act-on-gaza-conflict?utm_medium=rss)
+ - [Xbox could get an AI chatbot that answers your support questions](https://www.androidauthority.com/xbox-testing-ai-chatbot-3430500/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
