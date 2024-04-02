@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Young , Cart](http://9gag.com/gag/apRKMKp)
- - ⏩ [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
+ - 💣 [We all need a hug some times](http://9gag.com/gag/aVvj6zn)
+ - ⏩ [Normal!](http://9gag.com/gag/aYQj50q)
+ - 👉 [Bad ice cream = Rest in pepperoni](http://9gag.com/gag/ajPQwPq)<!-- MEMES:END -->
 
 ---
 
