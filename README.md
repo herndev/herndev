@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube now makes it easier to get to the best parts of any video on your TV](https://www.androidauthority.com/youtube-on-tv-auto-generated-key-moments-3430343/)
- - [On the Daily Show, Jon Stewart says Apple asked him not to have FTC chair Lina Khan for his Apple podcast by saying &quot;please don&#39;t talk to her&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240402/p2#a240402p2)
- - [People really like Google’s three-Pixel strategy for the Pixel 9 series](https://www.androidauthority.com/google-three-pixel-strategy-pixel-9-series-poll-results-3429417/)<!-- TECH:END -->
+ - [Google Pixel Buds Pro 2: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-buds-pro-2-3393809/)
+ - [An interview with outgoing ASML CTO Martin van den Brink on the company&#39;s rise, Moore&#39;s Law, competition from Chinese companies, hyper-NA technology, and more &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/240402/p4#a240402p4)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
