@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will the Apple antitrust case affect your phone’s security?](https://www.theverge.com/2024/4/2/24107719/iphone-security-apple-doj-monopoly-antitrust-lawsuit)
- - [Twitch’s Hype Train record smashed again by Pirate Software](https://www.theverge.com/2024/4/2/24118755/twitch-hype-train-world-record-piratesoftware-bits-gifted-subs)
- - [I’m a New Homeowner. An App Called Thumbtack Has Become a Lifesaver for Me](https://www.wired.com/story/thumbtack-app-for-homeowners/)<!-- TECH:END -->
+ - [Microsoft is working on an Xbox AI chatbot](https://www.theverge.com/2024/4/2/24118728/microsoft-xbox-ai-chatbot-testing)
+ - [A profile of MIT labor economist David Autor, an unlikely AI optimist who says AI may help restore &quot;the middle-skill, middle-class heart of the US labor market&quot; &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240402/p7#a240402p7)
+ - [Score a 25% discount on the new Govee Neon Lights 2](https://www.androidauthority.com/govee-neon-lights-2-deal-3430303/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
