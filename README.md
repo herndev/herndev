@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
- - ⏩ [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 💣 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - ⏩ [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 
