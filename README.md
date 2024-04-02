@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Buds Pro 2: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-buds-pro-2-3393809/)
- - [An interview with outgoing ASML CTO Martin van den Brink on the company&#39;s rise, Moore&#39;s Law, competition from Chinese companies, hyper-NA technology, and more &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/240402/p4#a240402p4)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
+ - [How Meta’s global head of safety approaches online age verification](https://www.theverge.com/2024/4/2/24118204/meta-age-verification-quest-store-antigone-davis)
+ - [A profile of hiking app AllTrails, which exploded during the pandemic, has raised $225M+, and now focuses on helping users &quot;find your outdoors&quot;, not just trails &lpar;Nikita Richardson/New York Times&rpar;](http://www.techmeme.com/240402/p5#a240402p5)
+ - [Google Pixel Buds Pro 2: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-buds-pro-2-3393809/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
