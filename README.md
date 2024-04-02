@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
- - ⏩ [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 👉 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)<!-- MEMES:END -->
+ - 💣 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)
+ - ⏩ [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 👉 [I think 9gag is proof enough to verify that claim](http://9gag.com/gag/a9yj05L)<!-- MEMES:END -->
 
 ---
 
