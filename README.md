@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No pain no gain](http://9gag.com/gag/aO8oEEy)
- - ⏩ [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
- - 👉 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)<!-- MEMES:END -->
+ - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - ⏩ [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
 
 ---
 
