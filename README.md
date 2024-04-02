@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Research Suggests Some Gamers&#39; Eyes See More FPS](https://kotaku.com/pro-gamers-athlete-visual-temporal-resolution-image-1851381219)
- - [This upcoming indie strategy game looks like Left 4 Dead in the style of XCOM](https://www.pcgamer.com/games/strategy/this-upcoming-indie-strategy-game-looks-like-left-4-dead-in-the-style-of-xcom)
- - [Helldivers 2’s Robots Back With A Vengeance, Now Have Gunships And Walking Tanks](https://kotaku.com/helldivers-2-gunships-factory-striders-automatons-1851381137)<!-- GAME:END -->
+ - [Another Warcraft movie isn&#39;t off the table if Blizzard finds a filmmaker who really gets it, but &#39;that&#39;s probably a pretty small list&#39;](https://www.pcgamer.com/movies-tv/another-warcraft-movie-isnt-off-the-table-if-blizzard-finds-a-filmmaker-who-really-gets-it-but-thats-probably-a-pretty-small-list)
+ - [Stardew Valley Mod Challenges Fans To Create Bagel With Nearly Every Food In The Game](https://kotaku.com/stardew-valley-everything-bagel-mod-134-ingredients-1-6-1851381442)
+ - [Internet speeds 1.2 million times faster than the US average are possible using the current fibre optic cable network. How does 301,000,000 Mbps sound?](https://www.pcgamer.com/hardware/internet-speeds-12-million-times-faster-than-the-us-average-are-possible-using-the-current-fibre-optic-cable-network-how-does-301000000-mbps-sound)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
