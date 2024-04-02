@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The new disney hit!](http://9gag.com/gag/aD2Rvj9)
- - ⏩ [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 👉 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)<!-- MEMES:END -->
+ - 💣 [Young , Cart](http://9gag.com/gag/apRKMKp)
+ - ⏩ [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
 
 ---
 
