@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Truth Social Can’t Meme Its Way Into Becoming the Next Gamestop](https://www.wired.com/story/truth-social-meme-gamestop/)
- - [A timeline of the attack on open-source project XZ Utils, which began in late 2021 and led to a backdoor with RCE in Linux distros from Debian, Red Hat, others &lpar;research!rsc&rpar;](http://www.techmeme.com/240402/p18#a240402p18)
- - [Apple may be forced to make a massive change to how iPhones handle photos](https://www.androidauthority.com/iphone-photos-app-uninstall-3430543/)<!-- TECH:END -->
+ - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
+ - [Google’s final warning: Dropcam, Dropcam Pro, and Nest Secure support ends on April 8th](https://www.theverge.com/2024/4/2/24119040/google-dropcam-nest-secure-support-ends-april-8th)
+ - [It’s time for a hard reset on notifications](https://www.theverge.com/24119076/ios-android-notifications-focus-modes-scheduled-summary)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
