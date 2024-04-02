@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get To Know Our Team: Wynn – Comm&lpar;s&rpar;unity Manager](https://news.xbox.com/en-us/2024/04/01/get-to-know-our-team-wynn-commsunity-manager/)
  - [We celebrated too soon: Helldivers 2 players spot massive cloaked gunships in the skies above Automaton planets](https://www.pcgamer.com/games/third-person-shooter/we-celebrated-too-soon-helldivers-2-players-spot-massive-cloaked-gunships-in-the-skies-above-automaton-planets)
- - [Xbox Insider Release Notes – Xbox App [2404.1001.4.0] &amp; Game Bar for Windows [7.124.3191.0]](https://news.xbox.com/en-us/2024/04/01/xbox-insider-release-notes-xbox-app-2404-1001-4-0-game-bar-for-windows-7-124-3191-0/)
- - [How I turned my MIDI instruments into the ultimate rhythm game controllers](https://www.pcgamer.com/hardware/how-i-turned-my-midi-instruments-into-the-ultimate-rhythm-game-controllers)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Xbox App [2404.1001.4.0] &amp; Game Bar for Windows [7.124.3191.0]](https://news.xbox.com/en-us/2024/04/01/xbox-insider-release-notes-xbox-app-2404-1001-4-0-game-bar-for-windows-7-124-3191-0/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
