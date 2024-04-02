@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - ⏩ [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - 👉 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)<!-- MEMES:END -->
+ - 💣 [But at least they have sonar](http://9gag.com/gag/ae9KB9j)
+ - ⏩ [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 👉 [Where\u2019s Batman when you need him?](http://9gag.com/gag/a1mp6V2)<!-- MEMES:END -->
 
 ---
 
