@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - ⏩ [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
- - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
+ - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - ⏩ [Karma](http://9gag.com/gag/a0ev3Kz)
+ - 👉 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)<!-- MEMES:END -->
 
 ---
 
