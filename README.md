@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Watch bands could automatically launch apps or change face](https://appleinsider.com/articles/23/03/21/future-apple-watch-bands-could-automatically-launch-apps-or-change-face?utm_medium=rss)
- - [Alaska ‘hires’ robot dog to scare animals away from airport runway](https://www.theverge.com/2024/4/2/24118846/boston-dynamics-robot-dog-alaska-fairbanks-airport-wildlife)
- - [A better keyboard than QWERTY](https://www.theverge.com/24118418/keyboard-layout-qwerty-microsoft-copilot-surface-netflix-thumbs)<!-- TECH:END -->
+ - [Spatial Personas adds 3D calling to FaceTime on Apple Vision Pro](https://appleinsider.com/articles/24/04/02/spatial-personas-adds-3d-calling-to-facetime-on-apple-vision-pro?utm_medium=rss)
+ - [Nothing Phone 2 update delivers latest security patch and disappointment](https://www.androidauthority.com/nothing-phone-2-april-security-patch-3430490/)
+ - [Beats launches new Beats Fit Pro edition in collaboration with Alo Yoga](https://appleinsider.com/articles/24/04/02/beats-launches-new-beats-fit-pro-edition-in-collaboration-with-alo-yoga?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
