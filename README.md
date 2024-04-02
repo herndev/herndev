@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: LEGO 2K Drive, EA Sports PGA Tour, Harold Halibut, and More](https://news.xbox.com/en-us/2024/04/02/xbox-game-pass-april-2024-wave-1/)
- - [What’s it like to wear the 3 Body Problem headset? We asked the cast](https://www.polygon.com/24115841/3-body-problem-netflix-headset-cast-interview)
- - [Dave the Diver plunges into PlayStation Plus Game Catalog April 16](https://blog.playstation.com/2024/04/02/dave-the-diver-plunges-into-playstation-plus-game-catalog-april-16/)<!-- GAME:END -->
+ - [Own the Night with the Nocturnal Vapor Special Edition Controller](https://news.xbox.com/en-us/2024/04/02/nocturnal-vapor-special-edition-announce/)
+ - [No show is having more fun than Chucky](https://www.polygon.com/24113753/chucky-tv-show-syfy-usa-peacock-season-3-its-bloody-good)
+ - [Some gamers may be able to see more frames per second than the rest of us, adding to my list of excuses as to why I suck at fast-paced multiplayer games](https://www.pcgamer.com/hardware/some-gamers-may-be-able-to-see-more-frames-per-second-than-the-rest-of-us-adding-to-my-list-of-excuses-as-to-why-i-suck-at-fast-paced-multiplayer-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
