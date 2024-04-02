@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
- - ⏩ [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 👉 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)<!-- MEMES:END -->
+ - 💣 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
+ - ⏩ [No pain no gain](http://9gag.com/gag/aO8oEEy)
+ - 👉 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)<!-- MEMES:END -->
 
 ---
 
