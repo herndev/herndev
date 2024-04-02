@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Zuckerberg bromances Jen-Hsun Huang, claiming &#39;he’s like Taylor Swift, but for tech&#39;](https://www.pcgamer.com/hardware/graphics-cards/mark-zuckerberg-bromances-jen-hsun-huang-claiming-hes-like-taylor-swift-but-for-tech)
- - [Helldivers 2&#39;s new balance update softens those annoying civilian defences and stratagem cooldown modifiers, buffs heavy armour, and increases the level cap to 150](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-balance-update-softens-those-annoying-civilian-defences-and-stratagem-cooldown-modifiers-buffs-heavy-armour-and-increases-the-level-cap-to-150)
- - [The best Light builds in The Finals Season 2](https://www.pcgamer.com/games/fps/the-finals-best-light-build)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: LEGO 2K Drive, EA Sports PGA Tour, Harold Halibut, and More](https://news.xbox.com/en-us/2024/04/02/xbox-game-pass-april-2024-wave-1/)
+ - [What’s it like to wear the 3 Body Problem headset? We asked the cast](https://www.polygon.com/24115841/3-body-problem-netflix-headset-cast-interview)
+ - [Dave the Diver plunges into PlayStation Plus Game Catalog April 16](https://blog.playstation.com/2024/04/02/dave-the-diver-plunges-into-playstation-plus-game-catalog-april-16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
