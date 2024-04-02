@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - ⏩ [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 👉 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)<!-- MEMES:END -->
+ - 💣 [Scotland&#39;s new hate speech law came into force today. The law, championed by Hamza Yousaf, will carry prison sentences up to 7 years for statements deemed to stir up hate on the grounds of religion, sexuality, race &amp; gender identity. This speech by Yousaf sounds a bit hatefull.](http://9gag.com/gag/aMVe5DW)
+ - ⏩ [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 👉 [Thank you!](http://9gag.com/gag/a9yje9o)<!-- MEMES:END -->
 
 ---
 
