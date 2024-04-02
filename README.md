@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - ⏩ [Karma](http://9gag.com/gag/a0ev3Kz)
- - 👉 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)<!-- MEMES:END -->
+ - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
+ - ⏩ [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 👉 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)<!-- MEMES:END -->
 
 ---
 
