@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Callisto Protocol headlines Humble Choice in April, costing $11.99 to own on PC](https://www.polygon.com/deals/24117923/callisto-protocol-humble-choice-pc-subscription-switch-games-deal)
- - [Xbox Insider Release Notes – Omega &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/02/xbox-insider-release-notes-omega-2404-240328-2200/)
- - [Xbox Insider Release Notes – Delta &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/02/xbox-insider-release-notes-delta-2404-240328-2200/)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/games/pc-game-releases-april-2024)
+ - [Former Dragon Age creative director Mike Laidlaw finally reveals his next game: A physics-based action-adventure &#39;in which the world becomes your weapon&#39;](https://www.pcgamer.com/games/action/former-dragon-age-creative-director-mike-laidlaw-finally-reveals-his-next-game-a-physics-based-action-adventure-in-which-the-world-becomes-your-weapon)
+ - [Spoil yourself with three months of Game Pass Ultimate for $10 off](https://www.polygon.com/deals/24118980/target-game-pass-ultimate-discount-xbox-pc-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
