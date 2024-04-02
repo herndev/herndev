@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)
+ - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
  - ⏩ [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 👉 [I think 9gag is proof enough to verify that claim](http://9gag.com/gag/a9yj05L)<!-- MEMES:END -->
+ - 👉 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)<!-- MEMES:END -->
 
 ---
 
