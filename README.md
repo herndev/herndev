@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
- - ⏩ [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
+ - 💣 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - ⏩ [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 👉 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)<!-- MEMES:END -->
 
 ---
 
