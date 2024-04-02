@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Intuit Mailchimp CEO Rania Succar on the core business of email, acquiring Mailchimp in 2021, generative AI, shutting down TinyLetter, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240402/p1#a240402p1)
- - [You no longer need an account to use ChatGPT](https://www.androidauthority.com/use-chatgpt-without-an-account-3430312/)
- - [Wordle Answer For Tuesday: Don&#39;t Click Here if You Don&#39;t Want Spoilers     - CNET](https://www.cnet.com/news/wordle-answer-for-tuesday-dont-click-here-if-you-dont-want-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [On the Daily Show, Jon Stewart says Apple asked him not to have FTC chair Lina Khan for his Apple podcast by saying &quot;please don&#39;t talk to her&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240402/p2#a240402p2)
+ - [People really like Google’s three-Pixel strategy for the Pixel 9 series](https://www.androidauthority.com/google-three-pixel-strategy-pixel-9-series-poll-results-3429417/)
+ - [Q&amp;A with Intuit Mailchimp CEO Rania Succar on the core business of email, acquiring Mailchimp in 2021, generative AI, shutting down TinyLetter, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240402/p1#a240402p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
