@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is testing a new AI-powered Xbox chatbot that can automate support tasks via an &quot;embodied AI character&quot;, as part of larger Xbox AI efforts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240402/p9#a240402p9)
- - [The cheapest countries to buy a Mac Studio](https://www.androidauthority.com/cheapest-place-to-buy-mac-studio-3430242/)
- - [Apple, Google fail in legal challenge against patent review rule](https://appleinsider.com/articles/24/04/02/apple-google-fail-in-legal-challenge-against-patent-review-rule?utm_medium=rss)<!-- TECH:END -->
+ - [Future Apple Watch bands could automatically launch apps or change face](https://appleinsider.com/articles/23/03/21/future-apple-watch-bands-could-automatically-launch-apps-or-change-face?utm_medium=rss)
+ - [Alaska ‘hires’ robot dog to scare animals away from airport runway](https://www.theverge.com/2024/4/2/24118846/boston-dynamics-robot-dog-alaska-fairbanks-airport-wildlife)
+ - [A better keyboard than QWERTY](https://www.theverge.com/24118418/keyboard-layout-qwerty-microsoft-copilot-surface-netflix-thumbs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
