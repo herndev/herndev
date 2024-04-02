@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all need a hug some times](http://9gag.com/gag/aVvj6zn)
- - ⏩ [Normal!](http://9gag.com/gag/aYQj50q)
- - 👉 [Bad ice cream = Rest in pepperoni](http://9gag.com/gag/ajPQwPq)<!-- MEMES:END -->
+ - 💣 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - ⏩ [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
 
 ---
 
