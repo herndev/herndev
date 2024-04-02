@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How I turned my MIDI instruments into the ultimate rhythm game controllers](https://www.pcgamer.com/hardware/how-i-turned-my-midi-instruments-into-the-ultimate-rhythm-game-controllers)
- - [PSA: You can play Diablo 4&#39;s massive season 4 update early](https://www.pcgamer.com/games/rpg/diablo-4-season-4-ptr-release-times-access)
- - [This year&#39;s best April Fools&#39; Day gaming gags: Bears, bugs, and 97,000 floppy disks](https://www.pcgamer.com/gaming-industry/april-fools-2024-videogames)<!-- GAME:END -->
+ - [We celebrated too soon: Helldivers 2 players spot massive cloaked gunships in the skies above Automaton planets](https://www.pcgamer.com/games/third-person-shooter/we-celebrated-too-soon-helldivers-2-players-spot-massive-cloaked-gunships-in-the-skies-above-automaton-planets)
+ - [Xbox Insider Release Notes – Xbox App [2404.1001.4.0] &amp; Game Bar for Windows [7.124.3191.0]](https://news.xbox.com/en-us/2024/04/01/xbox-insider-release-notes-xbox-app-2404-1001-4-0-game-bar-for-windows-7-124-3191-0/)
+ - [How I turned my MIDI instruments into the ultimate rhythm game controllers](https://www.pcgamer.com/hardware/how-i-turned-my-midi-instruments-into-the-ultimate-rhythm-game-controllers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
