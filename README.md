@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC’s AI gun detectors hardly work](https://www.theverge.com/2024/4/2/24119275/evolv-technologies-ai-gun-scanners-nyc-subway)
- - [The US NIST, which analyzed only 199 of the 3,370 CVEs the agency received in March, blames the backlog on a lack of &quot;interagency support&quot; &lpar;Simon Hendery/SC Media&rpar;](http://www.techmeme.com/240402/p20#a240402p20)
- - [Final Fantasy VII Rebirth’s biggest twist is concealed in a tiny detail](https://www.theverge.com/2024/4/2/24119195/final-fantasy-vii-rebirth-plot-twist-buster-sword-animation)<!-- TECH:END -->
+ - [Apple Pencil 3 could have new squeeze gesture](https://appleinsider.com/articles/24/04/02/apple-pencil-3-could-have-new-squeeze-gesture?utm_medium=rss)
+ - [Replit launches Code Repair, an AI agent to automatically fix coding errors, and Teams, which allows developers to collaborate in real time on software projects &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240402/p23#a240402p23)
+ - [Google details Device Bound Session Credentials, a feature that aims to stop browser cookie theft and uses PCs&#39; TPM chip, testing it in beta versions of Chrome &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240402/p22#a240402p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
