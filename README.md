@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is working on an Xbox AI chatbot](https://www.theverge.com/2024/4/2/24118728/microsoft-xbox-ai-chatbot-testing)
- - [A profile of MIT labor economist David Autor, an unlikely AI optimist who says AI may help restore &quot;the middle-skill, middle-class heart of the US labor market&quot; &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240402/p7#a240402p7)
- - [Score a 25% discount on the new Govee Neon Lights 2](https://www.androidauthority.com/govee-neon-lights-2-deal-3430303/)<!-- TECH:END -->
+ - [Sources: Microsoft is testing a new AI-powered Xbox chatbot that can automate support tasks via an &quot;embodied AI character&quot;, as part of larger Xbox AI efforts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240402/p9#a240402p9)
+ - [The cheapest countries to buy a Mac Studio](https://www.androidauthority.com/cheapest-place-to-buy-mac-studio-3430242/)
+ - [Apple, Google fail in legal challenge against patent review rule](https://appleinsider.com/articles/24/04/02/apple-google-fail-in-legal-challenge-against-patent-review-rule?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
