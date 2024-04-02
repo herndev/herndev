@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Neuron activation](http://9gag.com/gag/aLn6o2g)
- - ⏩ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - ⏩ [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 👉 [I think i download the wrong wonder woman](http://9gag.com/gag/axyEKBp)<!-- MEMES:END -->
 
 ---
 
