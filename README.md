@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It&#39;s surprisingly close to what we had&#39;: Helldivers 2 creative director talks about making supply lines clearer after fans take matters into their own hands](https://www.pcgamer.com/games/third-person-shooter/its-surprisingly-close-to-what-we-had-helldivers-2-creative-director-talks-about-making-supply-lines-clearer-after-fans-take-matters-into-their-own-hands)
- - [Xbox’s AI Chatbot Could Be Your Gaming Assistant](https://kotaku.com/xbox-ai-chatbot-support-virtual-agent-microsoft-1851381735)
- - [When are the daily and weekly reset times in FFXIV?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24118981/reset-daily-weekly-times-server-time)<!-- GAME:END -->
+ - [The Callisto Protocol headlines Humble Choice in April, costing $11.99 to own on PC](https://www.polygon.com/deals/24117923/callisto-protocol-humble-choice-pc-subscription-switch-games-deal)
+ - [Xbox Insider Release Notes – Omega &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/02/xbox-insider-release-notes-omega-2404-240328-2200/)
+ - [Xbox Insider Release Notes – Delta &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/02/xbox-insider-release-notes-delta-2404-240328-2200/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
