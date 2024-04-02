@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [TSMC makes the world&#39;s graphics chips and predicts &#39;within a decade a multichiplet GPU will have more than 1 trillion transistors&#39;](https://www.pcgamer.com/hardware/graphics-cards/tsmc-makes-the-worlds-graphics-chips-and-predicts-within-a-decade-a-multichiplet-gpu-will-have-more-than-1-trillion-transistors)
  - [Can Zubat be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24118037/can-zubat-be-shiny-golbat-crobat)
- - [Today&#39;s Wordle answer for Tuesday, April 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-2-2024)
- - [Get To Know Our Team: Wynn – Comm&lpar;s&rpar;unity Manager](https://news.xbox.com/en-us/2024/04/01/get-to-know-our-team-wynn-commsunity-manager/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, April 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-2-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
