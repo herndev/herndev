@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube now makes it easier to get to the best parts of any video on your TV](https://www.androidauthority.com/youtube-on-tv-auto-generated-key-moments-3430343/)
  - [On the Daily Show, Jon Stewart says Apple asked him not to have FTC chair Lina Khan for his Apple podcast by saying &quot;please don&#39;t talk to her&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240402/p2#a240402p2)
- - [People really like Google’s three-Pixel strategy for the Pixel 9 series](https://www.androidauthority.com/google-three-pixel-strategy-pixel-9-series-poll-results-3429417/)
- - [Q&amp;A with Intuit Mailchimp CEO Rania Succar on the core business of email, acquiring Mailchimp in 2021, generative AI, shutting down TinyLetter, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240402/p1#a240402p1)<!-- TECH:END -->
+ - [People really like Google’s three-Pixel strategy for the Pixel 9 series](https://www.androidauthority.com/google-three-pixel-strategy-pixel-9-series-poll-results-3429417/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
