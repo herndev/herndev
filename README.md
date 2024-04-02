@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s second-gen AirPods are available at a rare discount](https://www.theverge.com/2024/4/2/24118244/apple-second-gen-airpods-hatch-restore-2-samsung-galaxy-z-flip-5-deal-sale)
- - [Apple employees urge management to act on Gaza conflict](https://appleinsider.com/articles/24/04/02/apple-employees-urge-management-to-act-on-gaza-conflict?utm_medium=rss)
- - [Xbox could get an AI chatbot that answers your support questions](https://www.androidauthority.com/xbox-testing-ai-chatbot-3430500/)<!-- TECH:END -->
+ - [X promotes Kylie McRoberts to Head of Safety, after Ella Irwin left in June 2023, when Musk overruled a decision that limited the spread of an anti-trans video &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240402/p17#a240402p17)
+ - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
+ - [Apple rolls out minor updates to iWork apps](https://appleinsider.com/articles/24/04/02/apple-rolls-out-minor-updates-to-iwork-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
