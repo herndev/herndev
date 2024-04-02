@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mission Talita is a Grand Theft Auto mod meant to stop trafficking](https://www.polygon.com/24119385/mission-talita-grand-theft-auto-mod-non-profit-sex-trafficking)
- - [April is a monster month for city builders and colony sims](https://www.pcgamer.com/games/city-builder/april-is-a-monster-month-for-city-builders-and-colony-sims)
- - [April Fools&#39; phenom Content Warning draws in more than 204,000 concurrent players](https://www.pcgamer.com/games/horror/april-fools-phenom-content-warning-draws-in-more-than-204000-concurrent-players)<!-- GAME:END -->
+ - [Community Update April 2024 – Seeking Updates of the Morning](https://news.xbox.com/en-us/2024/04/02/community-update-april-2024-seeking-updates-of-the-morning/)
+ - [MechWarrior 5: Clans is bringing an RTS-style tactical camera, love for gamepad players, and a new focus on storytelling to the long-running mech sim series](https://www.pcgamer.com/games/third-person-shooter/mechwarrior-5-clans-is-bringing-an-rts-style-tactical-camera-love-for-gamepad-players-and-a-new-focus-on-storytelling-to-the-long-running-mech-sim-series)
+ - [Lethal Company&#39;s &#39;v50&#39; update makes running uphill scarier than its new evil butlers and crying mechs](https://www.pcgamer.com/games/horror/lethal-companys-v50-update-makes-running-uphill-scarier-than-its-new-evil-butlers-and-crying-mechs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
