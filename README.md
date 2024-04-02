@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TSMC makes the world&#39;s graphics chips and predicts &#39;within a decade a multichiplet GPU will have more than 1 trillion transistors&#39;](https://www.pcgamer.com/hardware/graphics-cards/tsmc-makes-the-worlds-graphics-chips-and-predicts-within-a-decade-a-multichiplet-gpu-will-have-more-than-1-trillion-transistors)
- - [Can Zubat be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24118037/can-zubat-be-shiny-golbat-crobat)
- - [Today&#39;s Wordle answer for Tuesday, April 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-2-2024)<!-- GAME:END -->
+ - [Mark Zuckerberg bromances Jen-Hsun Huang, claiming &#39;he’s like Taylor Swift, but for tech&#39;](https://www.pcgamer.com/hardware/graphics-cards/mark-zuckerberg-bromances-jen-hsun-huang-claiming-hes-like-taylor-swift-but-for-tech)
+ - [Helldivers 2&#39;s new balance update softens those annoying civilian defences and stratagem cooldown modifiers, buffs heavy armour, and increases the level cap to 150](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-balance-update-softens-those-annoying-civilian-defences-and-stratagem-cooldown-modifiers-buffs-heavy-armour-and-increases-the-level-cap-to-150)
+ - [The best Light builds in The Finals Season 2](https://www.pcgamer.com/games/fps/the-finals-best-light-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
