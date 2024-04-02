@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/games/pc-game-releases-april-2024)
- - [Former Dragon Age creative director Mike Laidlaw finally reveals his next game: A physics-based action-adventure &#39;in which the world becomes your weapon&#39;](https://www.pcgamer.com/games/action/former-dragon-age-creative-director-mike-laidlaw-finally-reveals-his-next-game-a-physics-based-action-adventure-in-which-the-world-becomes-your-weapon)
- - [Spoil yourself with three months of Game Pass Ultimate for $10 off](https://www.polygon.com/deals/24118980/target-game-pass-ultimate-discount-xbox-pc-deal-sale)<!-- GAME:END -->
+ - [In defense of Stardew Valley’s fantastically frustrating fishing](https://www.polygon.com/gaming/24118191/stardew-valley-fishing-defense)
+ - [How to get the true ending of Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24118332/true-ending-how-to-get-good-bad-endings)
+ - [60 Percent Of Playtime In 2023 Went To 6-Year-Old Or Older Games, New Data Shows](https://kotaku.com/old-games-2023-playtime-data-fortnite-roblox-minecraft-1851382474)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
