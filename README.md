@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US and UK sign an agreement on how to test and assess risks from emerging AI models, marking the first bilateral arrangement on AI safety in the world &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240401/p22#a240401p22)
- - [Samsung says Bixby’s still not dead](https://www.theverge.com/2024/4/1/24118253/samsung-galaxy-ai-bixby-voice-assistant)
- - [Trump Media &amp; Technology Group closed down 21% on April 1, wiping out the gains from last week, after it disclosed a $58M+ loss on $4.1M in revenue in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240401/p21#a240401p21)<!-- TECH:END -->
+ - [TikTok brings its dedicated STEM content feed to Europe, starting in the UK and Ireland, and says 33% of users have enabled the feed since its US launch in 2023 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240401/p24#a240401p24)
+ - [Japan approves up to $3.9B in subsidies to chip venture Rapidus, as the company tries to close the gap with TSMC in cutting-edge fabrication technology &lpar;Yuki Hagiwara/Bloomberg&rpar;](http://www.techmeme.com/240401/p23#a240401p23)
+ - [The Browser Company poaches Apple Safari design team member](https://appleinsider.com/articles/24/04/02/the-browser-company-poaches-apple-safari-design-team-member?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
