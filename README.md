@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spatial Personas adds 3D calling to FaceTime on Apple Vision Pro](https://appleinsider.com/articles/24/04/02/spatial-personas-adds-3d-calling-to-facetime-on-apple-vision-pro?utm_medium=rss)
- - [Nothing Phone 2 update delivers latest security patch and disappointment](https://www.androidauthority.com/nothing-phone-2-april-security-patch-3430490/)
- - [Beats launches new Beats Fit Pro edition in collaboration with Alo Yoga](https://appleinsider.com/articles/24/04/02/beats-launches-new-beats-fit-pro-edition-in-collaboration-with-alo-yoga?utm_medium=rss)<!-- TECH:END -->
+ - [Google Podcasts is gone — and so is my faith in Google](https://www.theverge.com/2024/4/2/24118873/google-podcasts-shutdown-graveyard)
+ - [Luminance, which offers generative AI tools for lawyers, raised a $40M Series B led by March Capital and says 600 organizations in 70 countries use its tools &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/240402/p14#a240402p14)
+ - [A &#39;House of the Dragon&#39; Star Made a Video Game to Grieve His Father](https://www.wired.com/story/abubakar-salim-house-of-the-dragon-tales-of-kenzera-zau-game-grief/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
