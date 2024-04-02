@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Another Warcraft movie isn&#39;t off the table if Blizzard finds a filmmaker who really gets it, but &#39;that&#39;s probably a pretty small list&#39;](https://www.pcgamer.com/movies-tv/another-warcraft-movie-isnt-off-the-table-if-blizzard-finds-a-filmmaker-who-really-gets-it-but-thats-probably-a-pretty-small-list)
- - [Stardew Valley Mod Challenges Fans To Create Bagel With Nearly Every Food In The Game](https://kotaku.com/stardew-valley-everything-bagel-mod-134-ingredients-1-6-1851381442)
- - [Internet speeds 1.2 million times faster than the US average are possible using the current fibre optic cable network. How does 301,000,000 Mbps sound?](https://www.pcgamer.com/hardware/internet-speeds-12-million-times-faster-than-the-us-average-are-possible-using-the-current-fibre-optic-cable-network-how-does-301000000-mbps-sound)<!-- GAME:END -->
+ - [&#39;It&#39;s surprisingly close to what we had&#39;: Helldivers 2 creative director talks about making supply lines clearer after fans take matters into their own hands](https://www.pcgamer.com/games/third-person-shooter/its-surprisingly-close-to-what-we-had-helldivers-2-creative-director-talks-about-making-supply-lines-clearer-after-fans-take-matters-into-their-own-hands)
+ - [Xbox’s AI Chatbot Could Be Your Gaming Assistant](https://kotaku.com/xbox-ai-chatbot-support-virtual-agent-microsoft-1851381735)
+ - [When are the daily and weekly reset times in FFXIV?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24118981/reset-daily-weekly-times-server-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
