@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In defense of Stardew Valley’s fantastically frustrating fishing](https://www.polygon.com/gaming/24118191/stardew-valley-fishing-defense)
- - [How to get the true ending of Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24118332/true-ending-how-to-get-good-bad-endings)
- - [60 Percent Of Playtime In 2023 Went To 6-Year-Old Or Older Games, New Data Shows](https://kotaku.com/old-games-2023-playtime-data-fortnite-roblox-minecraft-1851382474)<!-- GAME:END -->
+ - [Owners Report Valve’s Priciest Steam Deck Model Has A Cracking Problem](https://kotaku.com/limited-edition-steam-deck-oled-valve-cracks-plastic-1851382722)
+ - [How to get a Medusa Head in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24118905/medusa-head-location-how-to-get-preserved)
+ - [US government denies ESRB&#39;s AI-powered face-scanning &#39;age estimation&#39; proposal, but it&#39;s probably not gone for good](https://www.pcgamer.com/gaming-industry/us-government-denies-esrbs-ai-powered-face-scanning-age-estimation-proposal-but-its-probably-not-gone-for-good)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
