@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Meta’s global head of safety approaches online age verification](https://www.theverge.com/2024/4/2/24118204/meta-age-verification-quest-store-antigone-davis)
- - [A profile of hiking app AllTrails, which exploded during the pandemic, has raised $225M+, and now focuses on helping users &quot;find your outdoors&quot;, not just trails &lpar;Nikita Richardson/New York Times&rpar;](http://www.techmeme.com/240402/p5#a240402p5)
- - [Google Pixel Buds Pro 2: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-buds-pro-2-3393809/)<!-- TECH:END -->
+ - [Will the Apple antitrust case affect your phone’s security?](https://www.theverge.com/2024/4/2/24107719/iphone-security-apple-doj-monopoly-antitrust-lawsuit)
+ - [Twitch’s Hype Train record smashed again by Pirate Software](https://www.theverge.com/2024/4/2/24118755/twitch-hype-train-world-record-piratesoftware-bits-gifted-subs)
+ - [I’m a New Homeowner. An App Called Thumbtack Has Become a Lifesaver for Me](https://www.wired.com/story/thumbtack-app-for-homeowners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
