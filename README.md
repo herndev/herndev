@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - ⏩ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 👉 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)<!-- MEMES:END -->
+ - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
+ - ⏩ [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
+ - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
 
 ---
 
