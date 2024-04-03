@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help me out here](http://9gag.com/gag/apRKMOB)
- - ⏩ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 💣 [Passive income](http://9gag.com/gag/amoq3Nj)
+ - ⏩ [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 👉 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)<!-- MEMES:END -->
 
 ---
 
