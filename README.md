@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Use the Potions You Craft in Alchemist: The Potion Monger](https://news.xbox.com/en-us/2024/04/03/use-the-potions-you-craft-in-alchemist-the-potion-monger/)
- - [3 Body Problem’s VR tech got a big glow-up from the books](https://www.polygon.com/24119182/3-body-problem-vr-headset-books-netflix-show)
- - [Open-world wuxia game Where Winds Meet is holding its first beta test in North America later this month](https://www.pcgamer.com/games/action/open-world-wuxia-game-where-winds-meet-is-holding-its-first-beta-test-in-north-america-later-this-month)<!-- GAME:END -->
+ - [New, Weird NHL Broadcast Will Finally Let Bugs Bunny Body-Check Velma](https://kotaku.com/nhl-multiversus-bugs-bunny-velma-hockey-trutv-stream-1851384855)
+ - [This Summer Soulslike Keeps Looking Better And Better](https://kotaku.com/enotria-the-last-song-jyamma-games-summer-soulslike-1851384859)
+ - [Kanye West Allegedly Did A Super Mario Dance After Threatening A Staffer](https://kotaku.com/kanye-west-super-mario-dance-lawsuit-workplace-abuse-1851384846)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
