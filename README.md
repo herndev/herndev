@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Useful memes](http://9gag.com/gag/adByDKj)
- - ⏩ [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - 👉 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)<!-- MEMES:END -->
+ - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - ⏩ [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 
