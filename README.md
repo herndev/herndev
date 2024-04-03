@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura’s experimenting with a feature to detect early changes in your health](https://www.theverge.com/2024/4/3/24119189/oura-ring-labs-symptom-radar-wearable-smart-ring)
- - [Patreon is taking Reddit’s approach to content moderation](https://www.theverge.com/2024/4/3/24118984/patreon-community-chats-expansion-web-free-subscribers)
- - [FCC will probably restore Net Neutrality on April 25](https://appleinsider.com/articles/24/04/03/fcc-will-probablly-restore-net-neutrality-on-april-25?utm_medium=rss)<!-- TECH:END -->
+ - [Expand your output with 45% off the Anker 6-in-1 Hub](https://www.androidauthority.com/anker-6-in-1-hub-deal-3430621/)
+ - [The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind](https://www.wired.com/story/jia-tan-xz-backdoor/)
+ - [Apple Vision Pro is getting more wear time in the surgical theater](https://appleinsider.com/articles/24/04/03/apple-vision-pro-is-getting-more-wear-time-in-the-surgical-theater?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
