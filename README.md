@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
- - ⏩ [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 👉 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)<!-- MEMES:END -->
+ - 💣 [Hard reset](http://9gag.com/gag/aVvj6xy)
+ - ⏩ [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
+ - 👉 [J.K. Rowling](http://9gag.com/gag/azx7pYq)<!-- MEMES:END -->
 
 ---
 
