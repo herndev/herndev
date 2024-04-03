@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Newzoo: PC and console game revenues grew 2.6% YoY to $93.5B in 2023, but average quarterly playtime hours fell 26% from Q1 2021 through Q4 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240403/p2#a240403p2)
- - [PitchBook: VCs raised $30.4B globally in Q1 2024, a marked slowdown from 2023, which itself was the worst year since 2016, suggesting the end of &quot;megafunds&quot; era &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240403/p1#a240403p1)
- - [Wordle Answer for Wednesday: Don&#39;t Click Here if You Don&#39;t Want Spoilers     - CNET](https://www.cnet.com/tech/wordle-answer-for-wednesday-dont-click-here-if-you-dont-want-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A first look at two third-party iOS app stores in the EU, the B2B focused Mobivention and the upcoming AltStore, which take ~12 screen interactions to install &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/240403/p6#a240403p6)
+ - [Boosted by Taiwan&#39;s 2024 elections, Threads has revived its popularity in the country, where it&#39;s the most downloaded social app according to Sensor Tower &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240403/p5#a240403p5)
+ - [An interview with Oren Etzioni, the former CEO of Allen Institute for AI, on his nonprofit TrueMedia.org, which offers free tools for identifying deepfakes &lpar;New York Times&rpar;](http://www.techmeme.com/240403/p4#a240403p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
