@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC halts some chipmaking and evacuates plants after a 7.4 magnitude earthquake, Taiwan&#39;s biggest in 25 years, and plans to assess the impact; UMC did similar &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240403/p8#a240403p8)
- - [Apple’s stonewalling of Android’s Find My Device network could end soon](https://www.androidauthority.com/ios-17-5-beta-unwanted-tracker-alerts-code-3430673/)
- - [Google Podcasts is finally gone for good &lpar;if you’re in the US&rpar;](https://www.androidauthority.com/google-podcasts-gone-for-good-3430640/)<!-- TECH:END -->
+ - [Microsoft 365’s Copilot gets a GPT-4 Turbo upgrade and improved image generation](https://www.theverge.com/2024/4/3/24119784/microsoft-365-copilot-gpt-4-turbo-microsoft-designer)
+ - [AI George Carlin case settled as performers demand better protection](https://www.theverge.com/2024/4/3/24119785/ai-george-carlin-lawsuit-settled-artist-rights-alliance-protections)
+ - [Google brings Circle to Search to the $1,800 Pixel Fold](https://www.androidauthority.com/circle-to-search-pixel-fold-3430692/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
