@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the best magic](http://9gag.com/gag/a6ZrROA)
- - ⏩ [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
- - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
+ - 💣 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
+ - ⏩ [This is the best magic](http://9gag.com/gag/a6ZrROA)
+ - 👉 [Finally found the full video](http://9gag.com/gag/awyNpq8)<!-- MEMES:END -->
 
 ---
 
