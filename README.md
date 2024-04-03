@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that must have been a looong conversation](http://9gag.com/gag/axyEwKM)
- - ⏩ [Did you see it?](http://9gag.com/gag/axyErPn)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 💣 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
+ - ⏩ [Karma](http://9gag.com/gag/a0ev3Kz)
+ - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
 
 ---
 
