@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Spotify price hike is reportedly coming later this year](https://www.androidauthority.com/spotify-increasing-premium-prices-3430941/)
- - [iPhone 16 Pro may get new colors using iPhone 15 glass technology](https://appleinsider.com/articles/24/04/03/iphone-16-pro-may-get-new-colors-using-iphone-15-glass-technology?utm_medium=rss)
- - [A draft US-EU statement outlines plans to use AI to search for replacements for so-called forever chemicals that are prevalent in chip manufacturing &lpar;Alberto Nardelli/Bloomberg&rpar;](http://www.techmeme.com/240403/p18#a240403p18)<!-- TECH:END -->
+ - [Android’s Find My Device feature is now active in Play Services beta](https://www.androidauthority.com/find-my-device-play-services-beta-3430970/)
+ - [Facebook updates its mobile video player with a TikTok-like vertical look and new controls for Reels, Live, and longform videos, starting with the US and Canada &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240403/p19#a240403p19)
+ - [Microsoft reveals how much you’ll have to pay to keep using Windows 10 securely](https://www.theverge.com/2024/4/3/24120093/microsoft-windows-10-extended-security-updates-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
