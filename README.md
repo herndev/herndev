@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hard reset](http://9gag.com/gag/aVvj6xy)
- - ⏩ [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
- - 👉 [J.K. Rowling](http://9gag.com/gag/azx7pYq)<!-- MEMES:END -->
+ - 💣 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
+ - ⏩ [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
+ - 👉 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)<!-- MEMES:END -->
 
 ---
 
