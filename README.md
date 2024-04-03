@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Passive income](http://9gag.com/gag/amoq3Nj)
- - ⏩ [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
- - 👉 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)<!-- MEMES:END -->
+ - 💣 [Useful memes](http://9gag.com/gag/adByDKj)
+ - ⏩ [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
+ - 👉 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)<!-- MEMES:END -->
 
 ---
 
