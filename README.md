@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave woman](http://9gag.com/gag/a7ovYBm)
- - ⏩ [Guys](http://9gag.com/gag/aVvjybO)
- - 👉 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)<!-- MEMES:END -->
+ - 💣 [Help me out here](http://9gag.com/gag/apRKMOB)
+ - ⏩ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 
