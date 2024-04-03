@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Will Hire Your Dragon&#39;s Dogma 2 Pawn If Nobody Else Does](https://kotaku.com/dragons-dogma-2-main-pawn-hired-fake-player-capcom-1851385324)
- - [Into The Light Has Me Cautiously Excited For Destiny 2’s Future](https://kotaku.com/destiny-2-into-the-light-final-shape-excited-1851384918)
- - [Switching From PC To PS5 Has Made Me Appreciate FFXIV More](https://kotaku.com/final-fantasy-14-endwalker-dawntrail-ps5-controller-1851385139)<!-- GAME:END -->
+ - [Netflix&#39;s The Witcher finally adds Zoltan, and it&#39;s Kramer&#39;s angry friend from Seinfeld](https://www.pcgamer.com/movies-tv/netflixs-the-witcher-finally-adds-zoltan-and-its-kramers-angry-friend-from-seinfeld)
+ - [You Can Own A Life-Size Megan For The Cost Of A PS5](https://kotaku.com/m3gan-megan-movie-doll-lifesize-big-pre-order-cost-neca-1851385584)
+ - [Helldivers 2 dev nerfed everyone&#39;s favorite shotgun because it was &#39;hands down the best sniper rifle&#39; in the game](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-nerfed-everyones-favorite-shotgun-because-it-was-hands-down-the-best-sniper-rifle-in-the-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
