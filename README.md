@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
- - ⏩ [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
- - 👉 [Good staff is hard to find, this Boss was lucky](http://9gag.com/gag/ayNEjEV)<!-- MEMES:END -->
+ - 💣 [Brave woman](http://9gag.com/gag/a7ovYBm)
+ - ⏩ [Guys](http://9gag.com/gag/aVvjybO)
+ - 👉 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)<!-- MEMES:END -->
 
 ---
 
