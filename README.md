@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait what?](http://9gag.com/gag/agmre1W)
- - ⏩ [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 💣 [Casting Zoltraak](http://9gag.com/gag/azx7pZq)
+ - ⏩ [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
+ - 👉 [Finally found the full video](http://9gag.com/gag/awyNpq8)<!-- MEMES:END -->
 
 ---
 
