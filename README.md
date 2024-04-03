@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft 365’s Copilot gets a GPT-4 Turbo upgrade and improved image generation](https://www.theverge.com/2024/4/3/24119784/microsoft-365-copilot-gpt-4-turbo-microsoft-designer)
- - [AI George Carlin case settled as performers demand better protection](https://www.theverge.com/2024/4/3/24119785/ai-george-carlin-lawsuit-settled-artist-rights-alliance-protections)
- - [Google brings Circle to Search to the $1,800 Pixel Fold](https://www.androidauthority.com/circle-to-search-pixel-fold-3430692/)<!-- TECH:END -->
+ - [Apple MacBook Air M3 review: small upgrades](https://www.theverge.com/24114684/apple-macbook-air-m3-13-15-inch-2024-review)
+ - [Microsoft could have prevented Chinese cloud email hack, US cyber report says](https://www.theverge.com/2024/4/3/24119787/microsoft-cloud-email-hack-china-us-cyber-report)
+ - [Apple and Google&#39;s tracker misuse feature spotted in beta code](https://appleinsider.com/articles/24/04/03/apple-and-googles-tracker-misuse-feature-spotted-in-beta-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
