@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expand your output with 45% off the Anker 6-in-1 Hub](https://www.androidauthority.com/anker-6-in-1-hub-deal-3430621/)
- - [The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind](https://www.wired.com/story/jia-tan-xz-backdoor/)
- - [Apple Vision Pro is getting more wear time in the surgical theater](https://appleinsider.com/articles/24/04/03/apple-vision-pro-is-getting-more-wear-time-in-the-surgical-theater?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk’s reputation is falling — and it’s taking Tesla with it](https://www.theverge.com/2024/4/3/24119918/elon-musk-reputation-impact-tesla-falling-sales)
+ - [FCC will vote on restoring net neutrality rules](https://www.theverge.com/2024/4/3/24119889/net-neutrality-fcc-vote-rules-restore)
+ - [A look at XZ Utils attacker &quot;Jia Tan&quot;, a persona experts say was used by a nation state group and that left little trace after working on the project since 2021 &lpar;Wired&rpar;](http://www.techmeme.com/240403/p17#a240403p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
