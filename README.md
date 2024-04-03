@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A first look at two third-party iOS app stores in the EU, the B2B focused Mobivention and the upcoming AltStore, which take ~12 screen interactions to install &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/240403/p6#a240403p6)
- - [Boosted by Taiwan&#39;s 2024 elections, Threads has revived its popularity in the country, where it&#39;s the most downloaded social app according to Sensor Tower &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240403/p5#a240403p5)
- - [An interview with Oren Etzioni, the former CEO of Allen Institute for AI, on his nonprofit TrueMedia.org, which offers free tools for identifying deepfakes &lpar;New York Times&rpar;](http://www.techmeme.com/240403/p4#a240403p4)<!-- TECH:END -->
+ - [Galaxy S23 users encounter fingerprint sensor glitch following One UI 6.1 update](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-1-fingerprint-sensor-bug-3430672/)
+ - [Motorola Edge 50 Pro launched: The first phone with a Pantone-certified camera](https://www.androidauthority.com/motorola-edge-50-pro-3430383/)
+ - [Motorola Edge 50 Pro hands-on impressions: Lookin’ sharp](https://www.androidauthority.com/motorola-edge-50-pro-hands-on-3430272/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
