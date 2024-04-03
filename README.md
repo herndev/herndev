@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Dragon Age creative director says &#39;I just desperately don&#39;t want to overhype anything&#39; in his new studio&#39;s first game](https://www.pcgamer.com/games/action/former-dragon-age-creative-director-says-i-just-desperately-dont-want-to-overhype-anything-in-his-new-studios-first-game)
- - [As promised, the US gov has whacked another GPU mole headed for China with new limits cooked up to kill the RTX 4090D](https://www.pcgamer.com/hardware/graphics-cards/as-promised-the-us-gov-has-whacked-another-gpu-mole-headed-for-china-with-new-limits-cooked-up-to-kill-the-rtx-4090d)
- - [Zelda: Tears of the Kingdom is Uniqlo’s next video game collab](https://www.polygon.com/2024/4/3/24118877/zelda-tears-of-the-kingdom-uniqlo-clothing-apparel)<!-- GAME:END -->
+ - [Capcom Will Hire Your Dragon&#39;s Dogma 2 Pawn If Nobody Else Does](https://kotaku.com/dragons-dogma-2-main-pawn-hired-fake-player-capcom-1851385324)
+ - [Into The Light Has Me Cautiously Excited For Destiny 2’s Future](https://kotaku.com/destiny-2-into-the-light-final-shape-excited-1851384918)
+ - [Switching From PC To PS5 Has Made Me Appreciate FFXIV More](https://kotaku.com/final-fantasy-14-endwalker-dawntrail-ps5-controller-1851385139)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
