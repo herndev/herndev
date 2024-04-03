@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave woman](http://9gag.com/gag/a7ovYBm)
- - ⏩ [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
- - 👉 [Father reveal](http://9gag.com/gag/aD2RK9N)<!-- MEMES:END -->
+ - 💣 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
+ - ⏩ [Wait what?](http://9gag.com/gag/agmre1W)
+ - 👉 [What is this !](http://9gag.com/gag/aE0dmPn)<!-- MEMES:END -->
 
 ---
 
