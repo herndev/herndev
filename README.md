@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait what?](http://9gag.com/gag/agmre1W)
- - ⏩ [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
- - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 💣 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
+ - ⏩ [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
+ - 👉 [Good staff is hard to find, this Boss was lucky](http://9gag.com/gag/ayNEjEV)<!-- MEMES:END -->
 
 ---
 
