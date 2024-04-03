@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
- - ⏩ [No pain no gain](http://9gag.com/gag/aO8oEEy)
- - 👉 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)<!-- MEMES:END -->
+ - 💣 [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)
+ - ⏩ [What an odd thing to say...](http://9gag.com/gag/ary1EzK)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 
