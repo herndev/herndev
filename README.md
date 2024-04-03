@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is exploring home robotic devices, including a mobile robot that can follow users and a table-top device that uses robotics to move a display &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240403/p24#a240403p24)
- - [Verizon&#39;s 5G Home Internet Now Comes With Freebies     - CNET](https://www.cnet.com/deals/verizons-5g-home-internet-now-comes-with-freebies/#ftag=CAD590a51e)
- - [EU removes from draft rules a requirement that non-EU cloud providers must set up a joint venture with an EU company to qualify for an EU cybersecurity label &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240403/p23#a240403p23)<!-- TECH:END -->
+ - [DALL-E now lets you edit images in ChatGPT](https://www.theverge.com/2024/4/3/24120181/openai-dall-e-chat-gpt-image-edit)
+ - [Sources: Google considers adding certain AI-powered search features to its premium subscription services, which already offer access to Gemini in Gmail and Docs &lpar;Financial Times&rpar;](http://www.techmeme.com/240403/p25#a240403p25)
+ - [Ionic Hair Straightener Brush     - CNET](https://www.cnet.com/health/personal-care/ionic-hair-straightener-brush-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
