@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love Jack Black too...](http://9gag.com/gag/amoqw7X)
- - ⏩ [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)
- - 👉 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)<!-- MEMES:END -->
+ - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - ⏩ [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 👉 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)<!-- MEMES:END -->
 
 ---
 
