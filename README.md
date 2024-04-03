@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can watch the solar eclipse on Twitch or in Fortnite, thanks to NASA](https://www.polygon.com/24119895/how-watch-solar-eclipse-what-time-twitch-fortnite-minecraft-nasa)
- - [Intel&#39;s chip foundry keeps losing billions of dollars but CEO Gelsinger says this is it, this year is &#39;the trough&#39;](https://www.pcgamer.com/hardware/processors/intels-chip-foundry-keeps-losing-billions-of-dollars-but-ceo-gelsinger-says-this-is-it-this-year-is-the-trough)
- - [Somehow, KOTOR returned: Saber boss finally comes out and says &#39;it&#39;s obvious we&#39;re working on this&#39; after chaos at Embracer and that the remake is &#39;alive and well&#39;](https://www.pcgamer.com/games/rpg/somehow-kotor-returned-saber-boss-finally-comes-out-and-says-its-obvious-were-working-on-this-after-chaos-at-embracer-and-that-the-remake-is-alive-and-well)<!-- GAME:END -->
+ - [A Look into the Signature Gameplay Animations for TopSpin 2K25](https://news.xbox.com/en-us/2024/04/03/signature-gameplay-animations-for-topspin-2k25/)
+ - [Razer Blade 14 &lpar;2024&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-14-2024-review)
+ - [XCOM&#39;s greatest DLC was almost a Battletech-style mech expansion before the game&#39;s camera scuppered it all: &#39;Our camera angle is not meant for 30 foot mechs, apparently&#39;](https://www.pcgamer.com/games/strategy/xcoms-greatest-dlc-was-almost-a-battletech-style-mech-expansion-before-the-games-camera-scuppered-it-all-our-camera-angle-is-not-meant-for-30-foot-mechs-apparently)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
