@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - ⏩ [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
- - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 💣 [Brave woman](http://9gag.com/gag/a7ovYBm)
+ - ⏩ [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
+ - 👉 [Father reveal](http://9gag.com/gag/aD2RK9N)<!-- MEMES:END -->
 
 ---
 
