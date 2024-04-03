@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crunchyroll is finally getting profiles so your family can stop messing up your One Piece rewatch](https://www.polygon.com/24120007/crunchyroll-profiles-streaming-anime)
- - [The Witcher season 4 won’t have Henry Cavill — but here’s what we know, so far](https://www.polygon.com/23809084/witcher-season-4-release-date-cast-news-liam-hemsworth)
- - [Thermaltake TGM-V32CQ review](https://www.pcgamer.com/hardware/gaming-monitors/thermaltake-tgm-v32cq-gaming-monitor-review)<!-- GAME:END -->
+ - [Use the Potions You Craft in Alchemist: The Potion Monger](https://news.xbox.com/en-us/2024/04/03/use-the-potions-you-craft-in-alchemist-the-potion-monger/)
+ - [3 Body Problem’s VR tech got a big glow-up from the books](https://www.polygon.com/24119182/3-body-problem-vr-headset-books-netflix-show)
+ - [Open-world wuxia game Where Winds Meet is holding its first beta test in North America later this month](https://www.pcgamer.com/games/action/open-world-wuxia-game-where-winds-meet-is-holding-its-first-beta-test-in-north-america-later-this-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
