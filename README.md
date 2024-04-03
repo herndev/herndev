@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Air M3 review: small upgrades](https://www.theverge.com/24114684/apple-macbook-air-m3-13-15-inch-2024-review)
- - [Microsoft could have prevented Chinese cloud email hack, US cyber report says](https://www.theverge.com/2024/4/3/24119787/microsoft-cloud-email-hack-china-us-cyber-report)
- - [Apple and Google&#39;s tracker misuse feature spotted in beta code](https://appleinsider.com/articles/24/04/03/apple-and-googles-tracker-misuse-feature-spotted-in-beta-code?utm_medium=rss)<!-- TECH:END -->
+ - [AI-generated songs are getting longer, not necessarily better](https://www.theverge.com/2024/4/3/24119438/stability-ai-audio-generation-whale-sounds)
+ - [Welcome to the AI gadget era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
+ - [Games could soon come to LinkedIn, for some reason &lpar;APK teardown&rpar;](https://www.androidauthority.com/linkedin-games-apk-teardown-3430743/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
