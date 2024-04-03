@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
- - ⏩ [This is the best magic](http://9gag.com/gag/a6ZrROA)
- - 👉 [Finally found the full video](http://9gag.com/gag/awyNpq8)<!-- MEMES:END -->
+ - 💣 [I love Jack Black too...](http://9gag.com/gag/amoqw7X)
+ - ⏩ [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)
+ - 👉 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)<!-- MEMES:END -->
 
 ---
 
