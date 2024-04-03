@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightmare Kart, the now-legally-distinct, not-Bloodborne fan game has a release date—after a letter from Sony delayed the whole thing](https://www.pcgamer.com/games/racing/nightmare-kart-the-now-legally-distinct-not-bloodborne-fan-game-has-a-release-dateafter-a-letter-from-sony-delayed-the-whole-thing)
- - [Valve Hardware Survey for March—AMD still can&#39;t make a dent in Nvidia&#39;s massive lead](https://www.pcgamer.com/hardware/valve-hardware-survey-for-marchamd-still-cant-make-a-dent-in-nvidias-massive-lead)
- - [YouTube alone would eat up over 100 times the world&#39;s total bandwidth without video compression](https://www.pcgamer.com/hardware/graphics-cards/youtube-alone-would-eat-up-over-100-times-the-worlds-total-bandwidth-without-video-compression)<!-- GAME:END -->
+ - [American Horror Story: Delicate is back to do what AHS does best](https://www.polygon.com/24111640/american-horror-story-delicate-kardashian-part-2-return)
+ - [The best Medium builds in The Finals Season 2](https://www.pcgamer.com/games/fps/the-finals-best-medium-build)
+ - [Nightmare Kart, the now-legally-distinct, not-Bloodborne fan game has a release date—after a letter from Sony delayed the whole thing](https://www.pcgamer.com/games/racing/nightmare-kart-the-now-legally-distinct-not-bloodborne-fan-game-has-a-release-dateafter-a-letter-from-sony-delayed-the-whole-thing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
