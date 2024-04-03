@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A software quirk caused Discord&#39;s April Fools&#39; video to accidentally rack up more than 1.4 billion YouTube views, 8 times as many as the GTA 6 trailer](https://www.pcgamer.com/gaming-industry/a-software-quirk-caused-discords-april-fools-video-to-accidentally-rack-up-more-than-14-billion-youtube-views-8-times-as-many-as-the-gta-6-trailer)
  - [Community Update April 2024 – Seeking Updates of the Morning](https://news.xbox.com/en-us/2024/04/02/community-update-april-2024-seeking-updates-of-the-morning/)
- - [MechWarrior 5: Clans is bringing an RTS-style tactical camera, love for gamepad players, and a new focus on storytelling to the long-running mech sim series](https://www.pcgamer.com/games/third-person-shooter/mechwarrior-5-clans-is-bringing-an-rts-style-tactical-camera-love-for-gamepad-players-and-a-new-focus-on-storytelling-to-the-long-running-mech-sim-series)
- - [Lethal Company&#39;s &#39;v50&#39; update makes running uphill scarier than its new evil butlers and crying mechs](https://www.pcgamer.com/games/horror/lethal-companys-v50-update-makes-running-uphill-scarier-than-its-new-evil-butlers-and-crying-mechs)<!-- GAME:END -->
+ - [MechWarrior 5: Clans is bringing an RTS-style tactical camera, love for gamepad players, and a new focus on storytelling to the long-running mech sim series](https://www.pcgamer.com/games/third-person-shooter/mechwarrior-5-clans-is-bringing-an-rts-style-tactical-camera-love-for-gamepad-players-and-a-new-focus-on-storytelling-to-the-long-running-mech-sim-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
