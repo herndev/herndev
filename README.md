@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Modal, which offers employees personalized technical and AI skills training, raised a $25M Series A co-led by Left Lane Capital and Ensemble VC &lpar;Andrew Mendez/Silicon Valley ...&rpar;](http://www.techmeme.com/240402/p27#a240402p27)
- - [&#39;Scoop&#39; on Netflix: The True Story Behind Prince Andrew&#39;s Explosive BBC Interview     - CNET](https://www.cnet.com/tech/services-and-software/scoop-on-netflix-the-true-story-behind-prince-andrews-explosive-bbc-interview/#ftag=CAD590a51e)
- - [George Carlin&#39;s estate settles with the makers of Dudesy, who agree to remove their YouTube video and podcast they originally claimed used an &quot;AI&quot; George Carlin &lpar;Christopher Kuo/New York Times&rpar;](http://www.techmeme.com/240402/p26#a240402p26)<!-- TECH:END -->
+ - [Bluetti AC240 portable power station pushes the boundaries with IP65 waterproof rating](https://appleinsider.com/articles/24/04/03/bluetti-ac240-portable-power-station-pushes-the-boundaries-with-ip65-waterproof-rating?utm_medium=rss)
+ - [PE firm EQT AB agrees to acquire compliance software provider Avetta from Welsh, Carson, Anderson, &amp; Stowe, sources say at a ~$3B valuation, including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/240402/p28#a240402p28)
+ - [Best Exercise Bikes for 2024     - CNET](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
