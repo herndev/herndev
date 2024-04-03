@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asus Dual GeForce RTX 4060 Ti SSD OC review](https://www.pcgamer.com/hardware/graphics-cards/asus-dual-geforce-rtx-4060-ti-ssd-oc-review-benchmarks-performance)
  - [Major Taiwan earthquake temporarily halts production at Nvidia and AMD chipmaker](https://www.pcgamer.com/hardware/major-taiwan-earthquake-temporarily-halts-production-at-nvidia-and-amd-chipmaker)
- - [Today&#39;s Wordle answer for Wednesday, April 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-3-2024)
- - [The winners and losers of today&#39;s Helldivers 2 patch: Snipers rule, Sluggers drool](https://www.pcgamer.com/games/third-person-shooter/the-winners-and-losers-of-todays-helldivers-2-balancing-patch-snipers-rule-sluggers-drool)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, April 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-3-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
