@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)
- - ⏩ [What an odd thing to say...](http://9gag.com/gag/ary1EzK)
- - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 💣 [This is the best magic](http://9gag.com/gag/a6ZrROA)
+ - ⏩ [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
+ - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
 
 ---
 
