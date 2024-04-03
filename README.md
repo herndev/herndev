@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&#39;s The Witcher finally adds Zoltan, and it&#39;s Kramer&#39;s angry friend from Seinfeld](https://www.pcgamer.com/movies-tv/netflixs-the-witcher-finally-adds-zoltan-and-its-kramers-angry-friend-from-seinfeld)
- - [You Can Own A Life-Size Megan For The Cost Of A PS5](https://kotaku.com/m3gan-megan-movie-doll-lifesize-big-pre-order-cost-neca-1851385584)
- - [Helldivers 2 dev nerfed everyone&#39;s favorite shotgun because it was &#39;hands down the best sniper rifle&#39; in the game](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-nerfed-everyones-favorite-shotgun-because-it-was-hands-down-the-best-sniper-rifle-in-the-game)<!-- GAME:END -->
+ - [FCC will vote on bringing back net neutrality regulations on April 25](https://www.pcgamer.com/gaming-industry/fcc-will-vote-on-bringing-back-net-neutrality-regulations-on-april-25)
+ - [Former GTA San Andreas Dev Explains Suicidal Photographer And Crashing Planes](https://kotaku.com/gta-san-andreas-crash-planes-ghost-cars-myths-explained-1851385673)
+ - [Netflix&#39;s The Witcher finally adds Zoltan, and it&#39;s Kramer&#39;s angry friend from Seinfeld](https://www.pcgamer.com/movies-tv/netflixs-the-witcher-finally-adds-zoltan-and-its-kramers-angry-friend-from-seinfeld)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
