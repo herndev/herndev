@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - ⏩ [Title](http://9gag.com/gag/ary1QVX)
+ - 💣 [Wait what?](http://9gag.com/gag/agmre1W)
+ - ⏩ [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
  - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
