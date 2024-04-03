@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DALL-E now lets you edit images in ChatGPT](https://www.theverge.com/2024/4/3/24120181/openai-dall-e-chat-gpt-image-edit)
- - [Sources: Google considers adding certain AI-powered search features to its premium subscription services, which already offer access to Gemini in Gmail and Docs &lpar;Financial Times&rpar;](http://www.techmeme.com/240403/p25#a240403p25)
- - [Ionic Hair Straightener Brush     - CNET](https://www.cnet.com/health/personal-care/ionic-hair-straightener-brush-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Steam Deck OLED owners concerned after reports of cracking emerge](https://www.androidauthority.com/steam-deck-oled-cracks-3431100/)
+ - [NASA picks three companies to develop a Moon car for Artemis astronauts](https://www.theverge.com/2024/4/3/24120373/nasa-artemis-astronauts-moon-car)
+ - [WhatsApp, Instagram, and Facebook are back up and running after outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
