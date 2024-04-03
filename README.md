@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Look into the Signature Gameplay Animations for TopSpin 2K25](https://news.xbox.com/en-us/2024/04/03/signature-gameplay-animations-for-topspin-2k25/)
- - [Razer Blade 14 &lpar;2024&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-14-2024-review)
- - [XCOM&#39;s greatest DLC was almost a Battletech-style mech expansion before the game&#39;s camera scuppered it all: &#39;Our camera angle is not meant for 30 foot mechs, apparently&#39;](https://www.pcgamer.com/games/strategy/xcoms-greatest-dlc-was-almost-a-battletech-style-mech-expansion-before-the-games-camera-scuppered-it-all-our-camera-angle-is-not-meant-for-30-foot-mechs-apparently)<!-- GAME:END -->
+ - [Crunchyroll is finally getting profiles so your family can stop messing up your One Piece rewatch](https://www.polygon.com/24120007/crunchyroll-profiles-streaming-anime)
+ - [The Witcher season 4 won’t have Henry Cavill — but here’s what we know, so far](https://www.polygon.com/23809084/witcher-season-4-release-date-cast-news-liam-hemsworth)
+ - [Thermaltake TGM-V32CQ review](https://www.pcgamer.com/hardware/gaming-monitors/thermaltake-tgm-v32cq-gaming-monitor-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
