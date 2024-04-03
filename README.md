@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Major Taiwan earthquake temporarily halts production at Nvidia and AMD chipmaker](https://www.pcgamer.com/hardware/major-taiwan-earthquake-temporarily-halts-production-at-nvidia-and-amd-chipmaker)
  - [Today&#39;s Wordle answer for Wednesday, April 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-3-2024)
- - [The winners and losers of today&#39;s Helldivers 2 patch: Snipers rule, Sluggers drool](https://www.pcgamer.com/games/third-person-shooter/the-winners-and-losers-of-todays-helldivers-2-balancing-patch-snipers-rule-sluggers-drool)
- - [A software quirk caused Discord&#39;s April Fools&#39; video to accidentally rack up more than 1.4 billion YouTube views, 8 times as many as the GTA 6 trailer](https://www.pcgamer.com/gaming-industry/a-software-quirk-caused-discords-april-fools-video-to-accidentally-rack-up-more-than-14-billion-youtube-views-8-times-as-many-as-the-gta-6-trailer)<!-- GAME:END -->
+ - [The winners and losers of today&#39;s Helldivers 2 patch: Snipers rule, Sluggers drool](https://www.pcgamer.com/games/third-person-shooter/the-winners-and-losers-of-todays-helldivers-2-balancing-patch-snipers-rule-sluggers-drool)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
