@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [American Horror Story: Delicate is back to do what AHS does best](https://www.polygon.com/24111640/american-horror-story-delicate-kardashian-part-2-return)
- - [The best Medium builds in The Finals Season 2](https://www.pcgamer.com/games/fps/the-finals-best-medium-build)
- - [Nightmare Kart, the now-legally-distinct, not-Bloodborne fan game has a release date—after a letter from Sony delayed the whole thing](https://www.pcgamer.com/games/racing/nightmare-kart-the-now-legally-distinct-not-bloodborne-fan-game-has-a-release-dateafter-a-letter-from-sony-delayed-the-whole-thing)<!-- GAME:END -->
+ - [You can watch the solar eclipse on Twitch or in Fortnite, thanks to NASA](https://www.polygon.com/24119895/how-watch-solar-eclipse-what-time-twitch-fortnite-minecraft-nasa)
+ - [Intel&#39;s chip foundry keeps losing billions of dollars but CEO Gelsinger says this is it, this year is &#39;the trough&#39;](https://www.pcgamer.com/hardware/processors/intels-chip-foundry-keeps-losing-billions-of-dollars-but-ceo-gelsinger-says-this-is-it-this-year-is-the-trough)
+ - [Somehow, KOTOR returned: Saber boss finally comes out and says &#39;it&#39;s obvious we&#39;re working on this&#39; after chaos at Embracer and that the remake is &#39;alive and well&#39;](https://www.pcgamer.com/games/rpg/somehow-kotor-returned-saber-boss-finally-comes-out-and-says-its-obvious-were-working-on-this-after-chaos-at-embracer-and-that-the-remake-is-alive-and-well)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
