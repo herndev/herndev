@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
- - ⏩ [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
- - 👉 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)<!-- MEMES:END -->
+ - 💣 [Now that must have been a looong conversation](http://9gag.com/gag/axyEwKM)
+ - ⏩ [Did you see it?](http://9gag.com/gag/axyErPn)
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 ---
 
