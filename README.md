@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher: everything you need to know about Netflix’s fantasy epic](https://www.theverge.com/24120079/the-witcher-netflix-new-reviews-trailer)
- - [AI-Generated Spoofs of &#39;RuPaul&#39;s Drag Race&#39; Are Flooding Instagram and TikTok](https://www.wired.com/story/generative-ai-drag-race-instagram-tiktok/)
- - [Skype for Android could be getting a teleprompter mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/skype-teleprompter-mode-3430966/)<!-- TECH:END -->
+ - [Indie adventure Open Roads thrives on curiosity](https://www.theverge.com/24119962/open-roads-annapurna-xbox-ps5-switch-steam)
+ - [WhatsApp is down worldwide, while Instagram and Facebook have issues too](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)
+ - [WhatsApp appears to be experiencing a global outage, preventing users from exchanging messages; Facebook Messenger and Instagram are also experiencing issues &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240403/p22#a240403p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
