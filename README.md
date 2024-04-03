@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New, Weird NHL Broadcast Will Finally Let Bugs Bunny Body-Check Velma](https://kotaku.com/nhl-multiversus-bugs-bunny-velma-hockey-trutv-stream-1851384855)
- - [This Summer Soulslike Keeps Looking Better And Better](https://kotaku.com/enotria-the-last-song-jyamma-games-summer-soulslike-1851384859)
- - [Kanye West Allegedly Did A Super Mario Dance After Threatening A Staffer](https://kotaku.com/kanye-west-super-mario-dance-lawsuit-workplace-abuse-1851384846)<!-- GAME:END -->
+ - [Former Dragon Age creative director says &#39;I just desperately don&#39;t want to overhype anything&#39; in his new studio&#39;s first game](https://www.pcgamer.com/games/action/former-dragon-age-creative-director-says-i-just-desperately-dont-want-to-overhype-anything-in-his-new-studios-first-game)
+ - [As promised, the US gov has whacked another GPU mole headed for China with new limits cooked up to kill the RTX 4090D](https://www.pcgamer.com/hardware/graphics-cards/as-promised-the-us-gov-has-whacked-another-gpu-mole-headed-for-china-with-new-limits-cooked-up-to-kill-the-rtx-4090d)
+ - [Zelda: Tears of the Kingdom is Uniqlo’s next video game collab](https://www.polygon.com/2024/4/3/24118877/zelda-tears-of-the-kingdom-uniqlo-clothing-apparel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
