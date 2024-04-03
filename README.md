@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity Will Begin Placing Ads via Brand-Sponsored Queries in AI Chat     - CNET](https://www.cnet.com/tech/services-and-software/perplexity-will-begin-placing-ads-via-brand-sponsored-queries-in-ai-chat/#ftag=CAD590a51e)
- - [POTUS&#39; official Threads account starts using Meta&#39;s ActivityPub integration to post on the decentralized networking protocol &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240402/p24#a240402p24)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [George Carlin&#39;s estate settles with the makers of Dudesy, who agree to remove their YouTube video and podcast they originally claimed used an &quot;AI&quot; George Carlin &lpar;Christopher Kuo/New York Times&rpar;](http://www.techmeme.com/240402/p26#a240402p26)
+ - [Intel’s chipmaking business lost a boatload of billions last year](https://www.theverge.com/2024/4/2/24119454/intels-chipmaking-business-7-billion-loss)
+ - [How one volunteer stopped a backdoor from exposing Linux systems worldwide](https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
