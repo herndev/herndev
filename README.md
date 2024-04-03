@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam Deck OLED owners concerned after reports of cracking emerge](https://www.androidauthority.com/steam-deck-oled-cracks-3431100/)
- - [NASA picks three companies to develop a Moon car for Artemis astronauts](https://www.theverge.com/2024/4/3/24120373/nasa-artemis-astronauts-moon-car)
- - [WhatsApp, Instagram, and Facebook are back up and running after outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)<!-- TECH:END -->
+ - [The App Store is down, along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
+ - [Self-driving software startup Ghost Autonomy, formerly Ghost Locomotion, shuts down, after raising ~$220M and just five months after partnering with OpenAI &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240403/p28#a240403p28)
+ - [Sources: Israel&#39;s bombing campaign in Gaza used Lavender, an AI system that identified 37,000 potential human targets based on their apparent links to Hamas &lpar;The Guardian&rpar;](http://www.techmeme.com/240403/p27#a240403p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
