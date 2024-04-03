@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
- - ⏩ [Wait what?](http://9gag.com/gag/agmre1W)
- - 👉 [What is this !](http://9gag.com/gag/aE0dmPn)<!-- MEMES:END -->
+ - 💣 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
+ - ⏩ [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
+ - 👉 [Useful memes](http://9gag.com/gag/adByDKj)<!-- MEMES:END -->
 
 ---
 
