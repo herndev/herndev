@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Find My Device feature is now active in Play Services beta](https://www.androidauthority.com/find-my-device-play-services-beta-3430970/)
- - [Facebook updates its mobile video player with a TikTok-like vertical look and new controls for Reels, Live, and longform videos, starting with the US and Canada &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240403/p19#a240403p19)
- - [Microsoft reveals how much you’ll have to pay to keep using Windows 10 securely](https://www.theverge.com/2024/4/3/24120093/microsoft-windows-10-extended-security-updates-price)<!-- TECH:END -->
+ - [The Witcher: everything you need to know about Netflix’s fantasy epic](https://www.theverge.com/24120079/the-witcher-netflix-new-reviews-trailer)
+ - [AI-Generated Spoofs of &#39;RuPaul&#39;s Drag Race&#39; Are Flooding Instagram and TikTok](https://www.wired.com/story/generative-ai-drag-race-instagram-tiktok/)
+ - [Skype for Android could be getting a teleprompter mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/skype-teleprompter-mode-3430966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
