@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s reputation is falling — and it’s taking Tesla with it](https://www.theverge.com/2024/4/3/24119918/elon-musk-reputation-impact-tesla-falling-sales)
- - [FCC will vote on restoring net neutrality rules](https://www.theverge.com/2024/4/3/24119889/net-neutrality-fcc-vote-rules-restore)
- - [A look at XZ Utils attacker &quot;Jia Tan&quot;, a persona experts say was used by a nation state group and that left little trace after working on the project since 2021 &lpar;Wired&rpar;](http://www.techmeme.com/240403/p17#a240403p17)<!-- TECH:END -->
+ - [Another Spotify price hike is reportedly coming later this year](https://www.androidauthority.com/spotify-increasing-premium-prices-3430941/)
+ - [iPhone 16 Pro may get new colors using iPhone 15 glass technology](https://appleinsider.com/articles/24/04/03/iphone-16-pro-may-get-new-colors-using-iphone-15-glass-technology?utm_medium=rss)
+ - [A draft US-EU statement outlines plans to use AI to search for replacements for so-called forever chemicals that are prevalent in chip manufacturing &lpar;Alberto Nardelli/Bloomberg&rpar;](http://www.techmeme.com/240403/p18#a240403p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
