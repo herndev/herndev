@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Books is indexing low quality, AI-generated books, which may impact Google Ngram viewer, an important tool used by researchers to track language use &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240404/p32#a240404p32)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Star Wars’ next animated anthology explores the dark side](https://www.theverge.com/24121313/star-wars-tales-of-the-empire-trailer-release-date-disney-plus)<!-- TECH:END -->
+ - [Tesla wants Apple&#39;s help to beat Autopilot death lawsuit](https://appleinsider.com/articles/24/04/04/tesla-wants-apples-help-to-beat-autopilot-death-lawsuit?utm_medium=rss)
+ - [A TikTok Whistleblower Got DC’s Attention. Do His Claims Add Up?](https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/)
+ - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
