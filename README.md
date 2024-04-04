@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help me out here](http://9gag.com/gag/apRKMOB)
+ - 💣 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
  - ⏩ [Title](http://9gag.com/gag/ary1QVX)
- - 👉 [This is mine.](http://9gag.com/gag/aNDmNAw)<!-- MEMES:END -->
+ - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
 
 ---
 
