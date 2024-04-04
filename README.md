@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: Discovery is cracking open a box Next Gen closed on purpose](https://www.polygon.com/24119983/star-trek-progenitors-discovery-picard-chase)
- - [The best Heavy builds in The Finals Season 2](https://www.pcgamer.com/games/fps/the-finals-best-heavy-build)
- - [With 800,000 copies of Dwarf Fortress sold, the newly minted millionaire creators&#39; most high-roller purchase has been a Honda Civic](https://www.pcgamer.com/games/sim/with-800000-copies-of-dwarf-fortress-sold-the-newly-minted-millionaire-creators-most-ludicrous-largesse-has-been-a-honda-civic)<!-- GAME:END -->
+ - [Want to destroy a perfectly good Razer mouse? The Zerømouse V34 has you covered, for some reason](https://www.pcgamer.com/hardware/gaming-mice/want-to-destroy-a-perfectly-good-razer-mouse-the-zeromouse-v34-has-you-covered-for-some-reason)
+ - [Diablo 4: How to get Stygian Stones and summon Tormented Echoes](https://www.pcgamer.com/games/action/diablo-4-stygian-stones-tormented-echoes)
+ - [Foamstars new season Mysterious Swing begins on April 12](https://blog.playstation.com/2024/04/04/foamstars-new-season-mysterious-swing-begins-on-april-12/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
