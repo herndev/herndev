@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Online Games Act Like Unregulated Banks, And The US Gov’t Has Noticed](https://kotaku.com/fortnite-roblox-online-banking-kids-cfpb-gaming-report-1851388590)
- - [FF7 Rebirth&#39;s Platinum Trophy Is Currently Impossible To Get If You Bought It Digitally [Update]](https://kotaku.com/ff7-rebirth-g-bike-upa-quest-broken-score-glitch-fix-1851372282)
- - [Vladimir Putin Pushes Russia To Make Consoles To Compete With PlayStation And Xbox](https://kotaku.com/putin-russia-consoles-playstation-xbox-1851388516)<!-- GAME:END -->
+ - [Roblox executive acknowledges &#39;you can say, okay, we are exploiting child labour,&#39; but would prefer you saw them as job creators](https://www.pcgamer.com/gaming-industry/roblox-executive-acknowledges-you-can-say-okay-we-are-exploiting-child-labour-but-would-prefer-you-saw-them-as-job-creators)
+ - [How to do Bellanoir raids in Palworld](https://www.polygon.com/24120345/raids-slab-fragments-locations-rewards)
+ - [How to get and farm ore in Palworld](https://www.polygon.com/palworld-guides/24047140/ore-farm-best-locations-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
