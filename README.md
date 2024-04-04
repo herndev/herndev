@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Eats rolls out delivery services with Waymo&#39;s self-driving cars in the Phoenix area, Uber&#39;s seventh site with autonomous deliveries and first with Waymo &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240403/p30#a240403p30)
- - [Best Solar Companies of April 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)
- - [Microsoft reveals how much businesses will have to pay to keep using Windows 10 securely](https://www.theverge.com/2024/4/3/24120093/microsoft-windows-10-extended-security-updates-price)<!-- TECH:END -->
+ - [X adds blue checks to some large accounts as part of its plan to give free Premium memberships to those with at least 2,500 &quot;verified subscriber followers&quot; &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240403/p32#a240403p32)
+ - [How to always have recently-opened items at your fingertips](https://appleinsider.com/inside/macos/tips/how-to-always-have-recently-opened-items-at-your-fingertips?utm_medium=rss)
+ - [X’s ‘complimentary’ Premium push gives people blue checks they didn’t ask for](https://www.theverge.com/2024/4/3/24120602/x-free-premium-verified-blue-checkmark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
