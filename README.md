@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
- - ⏩ [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
+ - ⏩ [If u know u know](http://9gag.com/gag/aKG4QxO)
+ - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
 
 ---
 
