@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - ⏩ [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
+ - 💣 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - ⏩ [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
 
 ---
 
