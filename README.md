@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - ⏩ [Title](http://9gag.com/gag/ary1QVX)
- - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
+ - 💣 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - ⏩ [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 👉 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)<!-- MEMES:END -->
 
 ---
 
