@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zhu Xingming, founder of Chinese robot maker Inovance, dubbed little Huawei, says protectionism won&#39;t stop its growth as automation is critical to supply chains &lpar;Financial Times&rpar;](http://www.techmeme.com/240404/p12#a240404p12)
- - [Report: The Galaxy S24 FE is real and could arrive earlier than expected](https://www.androidauthority.com/samsung-galaxy-s24-fe-summer-launch-3431228/)
- - [An interview with Andrew Bosworth on the 10th anniversary of Reality Labs, the past and future of VR/AR/AI, Meta&#39;s next AR glasses prototype, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240404/p11#a240404p11)<!-- TECH:END -->
+ - [Google sues two alleged crypto scammers, accusing them of using its Play Store to offer fraudulent crypto trading and investment apps to steal users&#39; money &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240404/p16#a240404p16)
+ - [Two new iPad models spotted in regulatory database](https://appleinsider.com/articles/24/04/04/two-new-ipad-models-spotted-in-regulatory-database?utm_medium=rss)
+ - [Aerospike, which offers a highly scalable NoSQL database platform for processing data queries, raised $109M led by Sumeru, taking its total funding to $241M &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/240404/p15#a240404p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
