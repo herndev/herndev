@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Want to destroy a perfectly good Razer mouse? The Zerømouse V34 has you covered, for some reason](https://www.pcgamer.com/hardware/gaming-mice/want-to-destroy-a-perfectly-good-razer-mouse-the-zeromouse-v34-has-you-covered-for-some-reason)
- - [Diablo 4: How to get Stygian Stones and summon Tormented Echoes](https://www.pcgamer.com/games/action/diablo-4-stygian-stones-tormented-echoes)
- - [Foamstars new season Mysterious Swing begins on April 12](https://blog.playstation.com/2024/04/04/foamstars-new-season-mysterious-swing-begins-on-april-12/)<!-- GAME:END -->
+ - [Free Play Days – Call of Duty Modern Warfare III &lpar;Multiplayer/Zombies Only&rpar;, The Elder Scrolls Online and LEGO 2k Drive](https://news.xbox.com/en-us/2024/04/04/free-play-days-call-of-duty-modern-warfare-iii-multiplayer-zombies-only-the-elder-scrolls-online-and-lego-2k-drive/)
+ - [Immortals of Aveum, now on PS Plus, deserves a second chance](https://www.polygon.com/sub-gems/24120268/immortals-aveum-ps-plus-best-2023-shooter)
+ - [Battahl in Dragon&#39;s Dogma 2 is an utter nightmare, but it&#39;s taught me that sometimes, giving up is also the best way to keep going](https://www.pcgamer.com/games/rpg/battahl-in-dragons-dogma-2-is-an-utter-nightmare-but-its-also-taught-me-that-giving-up-is-also-the-best-way-to-keep-going)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
