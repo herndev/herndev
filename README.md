@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hacks season 3: Release date and everything else you need to know](https://www.androidauthority.com/hacks-season-3-release-date-3431169/)
  - [Apple’s next big thing could be a robot for your home](https://www.androidauthority.com/apple-next-big-thing-robot-3431159/)
- - [In-memory computing, which seeks to reduce power consumption by processing data where it&#39;s stored, is seeing a boost in interest fueled by the AI energy crisis &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p8#a240404p8)
- - [A Washington state judge barred the use of AI-enhanced video as trial evidence in a ruling that experts say may be the first-of-its-kind in a US criminal court &lpar;Tim Stelloh/NBC News&rpar;](http://www.techmeme.com/240404/p7#a240404p7)<!-- TECH:END -->
+ - [In-memory computing, which seeks to reduce power consumption by processing data where it&#39;s stored, is seeing a boost in interest fueled by the AI energy crisis &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p8#a240404p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
