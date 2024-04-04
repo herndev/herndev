@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple begins notifying WWDC invite lottery winners](https://appleinsider.com/articles/24/04/04/apple-begins-notifying-wwdc-invite-lottery-winners?utm_medium=rss)
- - [AI-generated Asians were briefly unavailable on Instagram](https://www.theverge.com/2024/4/4/24121419/meta-instagram-ai-image-generator-asian-race)
- - [The Galaxy Tab S8 Plus just got its first $350 discount](https://www.androidauthority.com/galaxy-tab-s8-plus-deal-3431512/)<!-- TECH:END -->
+ - [Oxygen OS vs One UI: A thorough comparison of the two popular Android skins](https://www.androidauthority.com/oxygen-os-vs-one-ui-1090176/)
+ - [What to expect from Apple&#39;s Q2 2024 earnings on May 2](https://appleinsider.com/articles/24/04/04/what-to-expect-from-apples-q2-2024-earnings-on-may-2?utm_medium=rss)
+ - [Netflix’s live-action Avatar has lost its old showrunner and gained two new ones](https://www.theverge.com/2024/4/4/24121488/netflix-avatar-new-showrunners-jabbar-raisani-christine-boylan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
