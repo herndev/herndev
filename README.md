@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - ⏩ [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
- - 👉 [This is mine.](http://9gag.com/gag/aNDmNAw)<!-- MEMES:END -->
+ - 💣 [A Muslim father casually explains sex slavery in Islam to his daughter.](http://9gag.com/gag/aPA653n)
+ - ⏩ [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
+ - 👉 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)<!-- MEMES:END -->
 
 ---
 
