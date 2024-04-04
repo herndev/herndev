@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma](http://9gag.com/gag/aZZqGRQ)
- - ⏩ [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
+ - 💣 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
+ - ⏩ [Title](http://9gag.com/gag/ary1QVX)
+ - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
 
 ---
 
