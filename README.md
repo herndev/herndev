@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Muslim father casually explains sex slavery in Islam to his daughter.](http://9gag.com/gag/aPA653n)
- - ⏩ [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
- - 👉 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)<!-- MEMES:END -->
+ - 💣 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
+ - ⏩ [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 
