@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How some MBA programs in the US are reorienting their courses around AI by adding AI-related classwork, encouraging using AI to solve lab assignments, and more &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/240404/p9#a240404p9)
- - [A new leak may have revealed Nothing’s next two phones](https://www.androidauthority.com/nothing-phones-2024-code-names-3431182/)
- - [Hacks season 3: Release date and everything else you need to know](https://www.androidauthority.com/hacks-season-3-release-date-3431169/)<!-- TECH:END -->
+ - [Zhu Xingming, founder of Chinese robot maker Inovance, dubbed little Huawei, says protectionism won&#39;t stop its growth as automation is critical to supply chains &lpar;Financial Times&rpar;](http://www.techmeme.com/240404/p12#a240404p12)
+ - [Report: The Galaxy S24 FE is real and could arrive earlier than expected](https://www.androidauthority.com/samsung-galaxy-s24-fe-summer-launch-3431228/)
+ - [An interview with Andrew Bosworth on the 10th anniversary of Reality Labs, the past and future of VR/AR/AI, Meta&#39;s next AR glasses prototype, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240404/p11#a240404p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
