@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 really doesn’t want you to turn off Bluetooth](https://www.androidauthority.com/android-15-bluetooth-auto-on-3431445/)
- - [TSMC swiftly recovers chip production one day after Taiwan earthquake](https://appleinsider.com/articles/24/04/04/tsmc-swiftly-recovers-chip-production-one-day-after-taiwan-earthquake?utm_medium=rss)
- - [Tesla is dragging Apple into its upcoming fatal Autopilot crash trial](https://www.theverge.com/2024/4/4/24121014/tesla-apple-huang-autopilot-wrongful-death-trial)<!-- TECH:END -->
+ - [Google Books is indexing low quality, AI-generated books, which may impact Google Ngram viewer, an important tool used by researchers to track language use &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240404/p32#a240404p32)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Star Wars’ next animated anthology explores the dark side](https://www.theverge.com/24121313/star-wars-tales-of-the-empire-trailer-release-date-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
