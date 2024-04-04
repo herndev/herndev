@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
- - ⏩ [Title](http://9gag.com/gag/ary1QVX)
- - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
+ - 💣 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
+ - ⏩ [This is mine.](http://9gag.com/gag/aNDmNAw)
+ - 👉 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)<!-- MEMES:END -->
 
 ---
 
