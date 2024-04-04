@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Call of Duty Modern Warfare III &lpar;Multiplayer/Zombies Only&rpar;, The Elder Scrolls Online and LEGO 2k Drive](https://news.xbox.com/en-us/2024/04/04/free-play-days-call-of-duty-modern-warfare-iii-multiplayer-zombies-only-the-elder-scrolls-online-and-lego-2k-drive/)
- - [Immortals of Aveum, now on PS Plus, deserves a second chance](https://www.polygon.com/sub-gems/24120268/immortals-aveum-ps-plus-best-2023-shooter)
- - [Battahl in Dragon&#39;s Dogma 2 is an utter nightmare, but it&#39;s taught me that sometimes, giving up is also the best way to keep going](https://www.pcgamer.com/games/rpg/battahl-in-dragons-dogma-2-is-an-utter-nightmare-but-its-also-taught-me-that-giving-up-is-also-the-best-way-to-keep-going)<!-- GAME:END -->
+ - [Microsoft Edge might let you limit its RAM usage soon including a setting just for gamers](https://www.pcgamer.com/software/browsers/microsoft-edge-might-let-you-limit-its-ram-usage-soon-including-a-setting-just-for-gamers)
+ - [Marvel celebrates the number 4 with Fantastic Four movie hints and free comics](https://www.polygon.com/24121000/marvel-fantastic-four-movie-hints-free-comics)
+ - [GTA Online update for the week of April 4](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
