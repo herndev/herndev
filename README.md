@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With 800,000 copies of Dwarf Fortress sold, the newly minted millionaire creators&#39; most high-roller purchase has been a Honda Civic](https://www.pcgamer.com/games/sim/with-800000-copies-of-dwarf-fortress-sold-the-newly-minted-millionaire-creators-most-ludicrous-largesse-has-been-a-honda-civic)
- - [The Butler is one of Lethal Company&#39;s newest monsters, and this blob-fish-looking guy has an explosive personality](https://www.pcgamer.com/games/horror/the-butler-is-one-of-lethal-companys-newest-monsters-and-this-blob-fish-looking-guy-has-an-explosive-personality)
- - [The Elder Scrolls Online devs hired a modder from one of its most popular addons to fine-tune its housing tools: &#39;it was really cool to get James on the team&#39;](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-online-devs-hired-a-modder-from-one-of-its-most-popular-addons-to-fine-tune-its-housing-tools-it-was-really-cool-to-get-james-on-the-team)<!-- GAME:END -->
+ - [Star Trek: Discovery is cracking open a box Next Gen closed on purpose](https://www.polygon.com/24119983/star-trek-progenitors-discovery-picard-chase)
+ - [The best Heavy builds in The Finals Season 2](https://www.pcgamer.com/games/fps/the-finals-best-heavy-build)
+ - [With 800,000 copies of Dwarf Fortress sold, the newly minted millionaire creators&#39; most high-roller purchase has been a Honda Civic](https://www.pcgamer.com/games/sim/with-800000-copies-of-dwarf-fortress-sold-the-newly-minted-millionaire-creators-most-ludicrous-largesse-has-been-a-honda-civic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
