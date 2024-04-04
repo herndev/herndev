@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Granpa is cold as f**k](http://9gag.com/gag/aGyKW5K)
- - ⏩ [My 14 y o girl felt very tired yesterday and fell asleep in my hands forever. That&#39;s her last picture.](http://9gag.com/gag/avy238E)
- - 👉 [Is this true?](http://9gag.com/gag/a1mpG6b)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/ary1QVX)
+ - ⏩ [Perfectly balanced\u2026as all things should be](http://9gag.com/gag/aGyKmGZ)
+ - 👉 [Father reveal](http://9gag.com/gag/aD2RK9N)<!-- MEMES:END -->
 
 ---
 
