@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla wants Apple&#39;s help to beat Autopilot death lawsuit](https://appleinsider.com/articles/24/04/04/tesla-wants-apples-help-to-beat-autopilot-death-lawsuit?utm_medium=rss)
- - [A TikTok Whistleblower Got DC’s Attention. Do His Claims Add Up?](https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/)
- - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)<!-- TECH:END -->
+ - [Apple begins notifying WWDC invite lottery winners](https://appleinsider.com/articles/24/04/04/apple-begins-notifying-wwdc-invite-lottery-winners?utm_medium=rss)
+ - [AI-generated Asians were briefly unavailable on Instagram](https://www.theverge.com/2024/4/4/24121419/meta-instagram-ai-image-generator-asian-race)
+ - [The Galaxy Tab S8 Plus just got its first $350 discount](https://www.androidauthority.com/galaxy-tab-s8-plus-deal-3431512/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
