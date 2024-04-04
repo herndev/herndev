@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot’s new Roomba vacuums start at just $250](https://www.theverge.com/2024/4/4/24120812/irobot-roomba-combo-essentials-robot-vacuum-price-release-date)
- - [AI chip startup SiMa.ai raised $70M led by Maverick Capital to develop chips for cameras, cars, and other consumer devices, taking its total funding to $270M &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p20#a240404p20)
- - [Two new iPad models spotted in regulatory database](https://appleinsider.com/articles/24/04/04/two-new-ipad-models-spotted-in-regulatory-database?utm_medium=rss)<!-- TECH:END -->
+ - [Cisco launches the AI-Enabled ICT Workforce Consortium, joined by Google, Microsoft, IBM, Intel, SAP and Accenture, to research AI&#39;s impact on 56 ICT job roles &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240404/p22#a240404p22)
+ - [How to automate tasks in Windows](https://www.theverge.com/24120053/windows-microsoft-automate-macro-how-to)
+ - [Microsoft Edge will let you control how much RAM it uses soon](https://www.theverge.com/2024/4/4/24120867/microsoft-edge-ram-control-settings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
