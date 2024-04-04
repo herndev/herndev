@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas man busted with over two dozen counterfeit Apple devices](https://appleinsider.com/articles/24/04/04/texas-man-busted-with-over-two-dozen-counterfeit-apple-devices?utm_medium=rss)
- - [Cohere releases Command R+, a new business-focused model the startup says performs competitively against OpenAI and others on &quot;business-critical&quot; tasks &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240404/p24#a240404p24)
- - [A profile of hacker P4x, aka Alejandro Caceres, who took down North Korea&#39;s internet in 2022 and says the US needs to wield its hacking powers more aggressively &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240404/p23#a240404p23)<!-- TECH:END -->
+ - [Jeff VanderMeer is writing a fourth Southern Reach novel](https://www.theverge.com/2024/4/4/24120983/jeff-vandermeer-absolution-southern-reach-fourth-book)
+ - [Craig Federighi is on a mission to let you move work across all of your devices, instantly and seamlessly](https://appleinsider.com/articles/24/04/04/craig-federighi-is-on-a-mission-to-let-you-move-work-across-all-of-your-devices-instantly-and-seamlessly?utm_medium=rss)
+ - [Developers say open-source software culture, where users demand constant updates from volunteer coders, is a security issue, as shown by the XZ Utils backdoor &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240404/p27#a240404p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
