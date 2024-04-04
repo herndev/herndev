@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxygen OS vs One UI: A thorough comparison of the two popular Android skins](https://www.androidauthority.com/oxygen-os-vs-one-ui-1090176/)
- - [What to expect from Apple&#39;s Q2 2024 earnings on May 2](https://appleinsider.com/articles/24/04/04/what-to-expect-from-apples-q2-2024-earnings-on-may-2?utm_medium=rss)
- - [Netflix’s live-action Avatar has lost its old showrunner and gained two new ones](https://www.theverge.com/2024/4/4/24121488/netflix-avatar-new-showrunners-jabbar-raisani-christine-boylan)<!-- TECH:END -->
+ - [Filing: Meta rejects the FTC&#39;s bid to amend its 2020 privacy settlement, saying it voluntarily disclosed two Messenger Kids bugs and had no parent complaints &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240404/p37#a240404p37)
+ - [How to download YouTube videos to your PC or phone](https://www.androidauthority.com/how-to-download-youtube-videos-to-your-pc-or-phone-3431102/)
+ - [Apple Reportedly Developing Robots That&#39;ll Roam Your Home     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-developing-robots-thatll-roam-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
