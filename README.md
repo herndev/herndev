@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox executive acknowledges &#39;you can say, okay, we are exploiting child labour,&#39; but would prefer you saw them as job creators](https://www.pcgamer.com/gaming-industry/roblox-executive-acknowledges-you-can-say-okay-we-are-exploiting-child-labour-but-would-prefer-you-saw-them-as-job-creators)
- - [How to do Bellanoir raids in Palworld](https://www.polygon.com/24120345/raids-slab-fragments-locations-rewards)
- - [How to get and farm ore in Palworld](https://www.polygon.com/palworld-guides/24047140/ore-farm-best-locations-how-to-get)<!-- GAME:END -->
+ - [How to finish the Unmoored World endgame in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24121502/unmoored-world-endgame-best-quest-order-new-game-plus)
+ - [Roku’s New HDMI Tech Could Show Ads When You Pause Your Game](https://kotaku.com/roku-patent-hdmi-tech-tv-ads-game-console-pause-screen-1851388976)
+ - [The official Garfield Movie popcorn bucket is killing us with curiosity](https://www.polygon.com/24121455/garfield-movie-popcorn-bucket-where-to-buy-and-why)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
