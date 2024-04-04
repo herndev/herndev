@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The App Store was down, along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
- - [Apple Music, TV+, other services were down](https://appleinsider.com/articles/24/04/03/apple-music-tv-other-services-are-down?utm_medium=rss)
- - [Some of Apple&#39;s online services, including the App Store, Apple TV, Podcasts, and Music, appear to be down globally since at least 6:31pm ET &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240403/p29#a240403p29)<!-- TECH:END -->
+ - [Microsoft reveals how much businesses will have to pay to keep using Windows 10 securely](https://www.theverge.com/2024/4/3/24120093/microsoft-windows-10-extended-security-updates-price)
+ - [Best TV for PS5 and Xbox Series X, Series S for 2024: LG OLED, Hisense, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)
+ - [The App Store was down, along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
