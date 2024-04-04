@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2’s new Warbond dramatically increases the chance to blow yourself up](https://www.polygon.com/24121301/helldivers-2-democratic-detonation-warbond-explosions)
- - [The Baby Assassins movies revive the dying art of action comedy](https://www.polygon.com/24120218/baby-assassins-good-action-comedy-movies-watch-streaming)
- - [Xbox Insider Release Notes – Omega &lpar;2404.240402-1830&rpar;](https://news.xbox.com/en-us/2024/04/04/xbox-insider-release-notes-omega-2404-240402-1830/)<!-- GAME:END -->
+ - [Online Games Act Like Unregulated Banks, And The US Gov’t Has Noticed](https://kotaku.com/fortnite-roblox-online-banking-kids-cfpb-gaming-report-1851388590)
+ - [FF7 Rebirth&#39;s Platinum Trophy Is Currently Impossible To Get If You Bought It Digitally [Update]](https://kotaku.com/ff7-rebirth-g-bike-upa-quest-broken-score-glitch-fix-1851372282)
+ - [Vladimir Putin Pushes Russia To Make Consoles To Compete With PlayStation And Xbox](https://kotaku.com/putin-russia-consoles-playstation-xbox-1851388516)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
