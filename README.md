@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sign up Early for the THRONE AND LIBERTY Closed Beta](https://news.xbox.com/en-us/2024/04/04/sign-up-early-for-the-throne-and-liberty-closed-beta/)
- - [Helldivers 2&#39;s next warbond is all about &#39;Democratic Detonation,&#39; adds a grenade pistol and explosive crossbow](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-next-warbond-is-all-about-democratic-detonation-adds-a-grenade-pistol-and-explosive-crossbow)
- - [The System Shock remake is getting a massive patch with a revised ending, choice of female player character &#39;8 years in the making&#39;, and a massive quality of life improvement](https://www.pcgamer.com/games/fps/the-system-shock-remake-is-getting-a-massive-patch-with-a-revised-ending-choice-of-female-player-character-8-years-in-the-making-and-a-massive-quality-of-life-improvement)<!-- GAME:END -->
+ - [The Baby Assassins movies revive the dying art of action comedy](https://www.polygon.com/24120218/baby-assassins-good-action-comedy-movies-watch-streaming)
+ - [Xbox Insider Release Notes – Omega &lpar;2404.240402-1830&rpar;](https://news.xbox.com/en-us/2024/04/04/xbox-insider-release-notes-omega-2404-240402-1830/)
+ - [Xbox Insider Release Notes – Delta &lpar;2404.240402-1830&rpar;](https://news.xbox.com/en-us/2024/04/04/xbox-insider-release-notes-delta-2404-240402-1830/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
