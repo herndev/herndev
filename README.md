@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [London taste](http://9gag.com/gag/avy2jjE)
- - ⏩ [Title](http://9gag.com/gag/ary1QVX)
- - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/ary1QVX)
+ - ⏩ [What is this !](http://9gag.com/gag/aE0dmPn)
+ - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
 
 ---
 
