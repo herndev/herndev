@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2’s new Warbond dramatically increases the chance to blow yourself up](https://www.polygon.com/24121301/helldivers-2-democratic-detonation-warbond-explosions)
  - [The Baby Assassins movies revive the dying art of action comedy](https://www.polygon.com/24120218/baby-assassins-good-action-comedy-movies-watch-streaming)
- - [Xbox Insider Release Notes – Omega &lpar;2404.240402-1830&rpar;](https://news.xbox.com/en-us/2024/04/04/xbox-insider-release-notes-omega-2404-240402-1830/)
- - [Xbox Insider Release Notes – Delta &lpar;2404.240402-1830&rpar;](https://news.xbox.com/en-us/2024/04/04/xbox-insider-release-notes-delta-2404-240402-1830/)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Omega &lpar;2404.240402-1830&rpar;](https://news.xbox.com/en-us/2024/04/04/xbox-insider-release-notes-omega-2404-240402-1830/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
