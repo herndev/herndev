@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If Tom holland makes me believe that he has fallen head over heels for her, then he is the greatest actor ever.](http://9gag.com/gag/aBy9ApQ)
- - ⏩ [Prepare before..](http://9gag.com/gag/ae9Kn4v)
- - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
+ - 💣 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - ⏩ [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
 
 ---
 
