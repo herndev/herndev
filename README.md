@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men get their first flower at their own funeral...](http://9gag.com/gag/aXPZ6eb)
- - ⏩ [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
- - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
+ - 💣 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - ⏩ [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
+ - 👉 [This is mine.](http://9gag.com/gag/aNDmNAw)<!-- MEMES:END -->
 
 ---
 
