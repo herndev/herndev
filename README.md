@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox Insider Release Notes – Xbox App [2404.1001.9.0]](https://news.xbox.com/en-us/2024/04/03/xbox-insider-release-notes-xbox-app-2404-1001-9-0/)
  - [‘Off the Pilfered Path’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24119992/off-the-pilfered-path-quest-hugo-offer-guidance-job)
- - [FCC will vote on bringing back net neutrality regulations on April 25](https://www.pcgamer.com/gaming-industry/fcc-will-vote-on-bringing-back-net-neutrality-regulations-on-april-25)
- - [Former GTA San Andreas Dev Explains Suicidal Photographer And Crashing Planes](https://kotaku.com/gta-san-andreas-crash-planes-ghost-cars-myths-explained-1851385673)<!-- GAME:END -->
+ - [FCC will vote on bringing back net neutrality regulations on April 25](https://www.pcgamer.com/gaming-industry/fcc-will-vote-on-bringing-back-net-neutrality-regulations-on-april-25)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
