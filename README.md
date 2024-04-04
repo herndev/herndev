@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco launches the AI-Enabled ICT Workforce Consortium, joined by Google, Microsoft, IBM, Intel, SAP and Accenture, to research AI&#39;s impact on 56 ICT job roles &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240404/p22#a240404p22)
- - [How to automate tasks in Windows](https://www.theverge.com/24120053/windows-microsoft-automate-macro-how-to)
- - [Microsoft Edge will let you control how much RAM it uses soon](https://www.theverge.com/2024/4/4/24120867/microsoft-edge-ram-control-settings)<!-- TECH:END -->
+ - [Texas man busted with over two dozen counterfeit Apple devices](https://appleinsider.com/articles/24/04/04/texas-man-busted-with-over-two-dozen-counterfeit-apple-devices?utm_medium=rss)
+ - [Cohere releases Command R+, a new business-focused model the startup says performs competitively against OpenAI and others on &quot;business-critical&quot; tasks &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240404/p24#a240404p24)
+ - [A profile of hacker P4x, aka Alejandro Caceres, who took down North Korea&#39;s internet in 2022 and says the US needs to wield its hacking powers more aggressively &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240404/p23#a240404p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
