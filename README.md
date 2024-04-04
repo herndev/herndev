@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jeff VanderMeer is writing a fourth Southern Reach novel](https://www.theverge.com/2024/4/4/24120983/jeff-vandermeer-absolution-southern-reach-fourth-book)
- - [Craig Federighi is on a mission to let you move work across all of your devices, instantly and seamlessly](https://appleinsider.com/articles/24/04/04/craig-federighi-is-on-a-mission-to-let-you-move-work-across-all-of-your-devices-instantly-and-seamlessly?utm_medium=rss)
- - [Developers say open-source software culture, where users demand constant updates from volunteer coders, is a security issue, as shown by the XZ Utils backdoor &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240404/p27#a240404p27)<!-- TECH:END -->
+ - [OpenAI expands its Custom Model training program with &quot;assisted fine-tuning&quot;, letting organizations set up data training pipelines, evaluation systems, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240404/p29#a240404p29)
+ - [Google’s expanded Find My Device network might arrive in a few days](https://www.theverge.com/2024/4/4/24120984/google-find-my-device-network-launch-date)
+ - [Google expands Search Generative Experience to the UK, after launching it almost a year ago in the US, starting with some logged-in users &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/240404/p28#a240404p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
