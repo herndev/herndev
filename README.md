@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - ⏩ [Sweden YES!](http://9gag.com/gag/agmrMnn)
- - 👉 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)<!-- MEMES:END -->
+ - 💣 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
+ - ⏩ [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 👉 [Life is but a scam](http://9gag.com/gag/aRB6noj)<!-- MEMES:END -->
 
 ---
 
