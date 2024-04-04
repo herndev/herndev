@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Andres Freund, a Microsoft database engineer working on PostgreSQL, on discovering the XZ Utils backdoor, doubting his own findings, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240404/p5#a240404p5)
- - [Google Cloud/Cloud Security Alliance survey of 2,486 IT and security professionals: 63% of security professionals believe AI could help in threat detection &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240404/p4#a240404p4)
- - [Singapore-based SingleInterface, which helps offline businesses manage and grow their online presence, raised $30M, its first external raise since 2015 founding &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240404/p3#a240404p3)<!-- TECH:END -->
+ - [Apple’s next big thing could be a robot for your home](https://www.androidauthority.com/apple-next-big-thing-robot-3431159/)
+ - [In-memory computing, which seeks to reduce power consumption by processing data where it&#39;s stored, is seeing a boost in interest fueled by the AI energy crisis &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p8#a240404p8)
+ - [A Washington state judge barred the use of AI-enhanced video as trial evidence in a ruling that experts say may be the first-of-its-kind in a US criminal court &lpar;Tim Stelloh/NBC News&rpar;](http://www.techmeme.com/240404/p7#a240404p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
