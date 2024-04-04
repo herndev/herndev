@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - ⏩ [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 👉 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)<!-- MEMES:END -->
+ - 💣 [Men get their first flower at their own funeral...](http://9gag.com/gag/aXPZ6eb)
+ - ⏩ [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
+ - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
 
 ---
 
