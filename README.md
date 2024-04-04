@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
- - ⏩ [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
- - 👉 [The heroes \u1559\u2060&lpar;\u2060\u21c0\u2060\u2038\u2060\u21bc\u2060\u2036\u2060&rpar;\u2060\u1557](http://9gag.com/gag/a9yjxAm)<!-- MEMES:END -->
+ - 💣 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - ⏩ [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 👉 [Prepare before..](http://9gag.com/gag/ae9Kn4v)<!-- MEMES:END -->
 
 ---
 
