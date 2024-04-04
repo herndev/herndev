@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
- - ⏩ [If u know u know](http://9gag.com/gag/aKG4QxO)
+ - 💣 [Karma](http://9gag.com/gag/aZZqGRQ)
+ - ⏩ [Crushed hard](http://9gag.com/gag/aW4BzOA)
  - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
 
 ---
