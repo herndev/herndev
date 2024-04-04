@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 player drops 16 consecutive 500kg payloads on the game&#39;s new gunship factory for science—discovers hellbombs are their only reliable kryptonite](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-player-drops-16-consecutive-500kg-payloads-on-the-games-new-gunship-factory-for-sciencediscovers-hellbombs-are-their-only-reliable-kryptonite)
  - [“We Have Another Story to Tell” – Why Senua’s Saga: Hellblade II is A Revolutionary Sequel](https://news.xbox.com/en-us/2024/04/04/senuas-saga-hellblade-2-preview-studio-visit/)
- - [Hellblade 2 will finally show us what an Unreal Engine 5 game can do](https://www.polygon.com/24120021/hellblade-2-senuas-saga-preview-ninja-theory-unreal-engine-5)
- - [How Beyond Xbox: Field Trips is Teaching Valuable Life Skills via Game Pass Favorites](https://news.xbox.com/en-us/2024/04/03/xbox-field-trips-interview/)<!-- GAME:END -->
+ - [Hellblade 2 will finally show us what an Unreal Engine 5 game can do](https://www.polygon.com/24120021/hellblade-2-senuas-saga-preview-ninja-theory-unreal-engine-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
