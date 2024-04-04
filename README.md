@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - ⏩ [This is mine.](http://9gag.com/gag/aNDmNAw)
- - 👉 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)<!-- MEMES:END -->
+ - 💣 [Granpa is cold as f**k](http://9gag.com/gag/aGyKW5K)
+ - ⏩ [My 14 y o girl felt very tired yesterday and fell asleep in my hands forever. That&#39;s her last picture.](http://9gag.com/gag/avy238E)
+ - 👉 [Is this true?](http://9gag.com/gag/a1mpG6b)<!-- MEMES:END -->
 
 ---
 
