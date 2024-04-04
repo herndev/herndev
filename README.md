@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 128GB OnePlus Nord N30 5G Android Phone Is Just $250 for a Limited Time Only     - CNET](https://www.cnet.com/deals/this-128gb-oneplus-nord-n30-5g-android-phone-is-just-250-for-a-limited-time-only/#ftag=CAD590a51e)
- - [Chelsea vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [A publisher says he has been targeted by a backlink SEO scam in which a &quot;law firm&quot; with AI-generated photos of &quot;lawyers&quot; sent copyright infringement notices &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240404/p30#a240404p30)<!-- TECH:END -->
+ - [Android 15 really doesn’t want you to turn off Bluetooth](https://www.androidauthority.com/android-15-bluetooth-auto-on-3431445/)
+ - [TSMC swiftly recovers chip production one day after Taiwan earthquake](https://appleinsider.com/articles/24/04/04/tsmc-swiftly-recovers-chip-production-one-day-after-taiwan-earthquake?utm_medium=rss)
+ - [Tesla is dragging Apple into its upcoming fatal Autopilot crash trial](https://www.theverge.com/2024/4/4/24121014/tesla-apple-huang-autopilot-wrongful-death-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
