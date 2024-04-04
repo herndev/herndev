@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
+ - 💣 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
  - ⏩ [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 👉 [Life is but a scam](http://9gag.com/gag/aRB6noj)<!-- MEMES:END -->
+ - 👉 [If u know u know](http://9gag.com/gag/aKG4QxO)<!-- MEMES:END -->
 
 ---
 
