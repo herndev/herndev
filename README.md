@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI expands its Custom Model training program with &quot;assisted fine-tuning&quot;, letting organizations set up data training pipelines, evaluation systems, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240404/p29#a240404p29)
- - [Google’s expanded Find My Device network might arrive in a few days](https://www.theverge.com/2024/4/4/24120984/google-find-my-device-network-launch-date)
- - [Google expands Search Generative Experience to the UK, after launching it almost a year ago in the US, starting with some logged-in users &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/240404/p28#a240404p28)<!-- TECH:END -->
+ - [This 128GB OnePlus Nord N30 5G Android Phone Is Just $250 for a Limited Time Only     - CNET](https://www.cnet.com/deals/this-128gb-oneplus-nord-n30-5g-android-phone-is-just-250-for-a-limited-time-only/#ftag=CAD590a51e)
+ - [Chelsea vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [A publisher says he has been targeted by a backlink SEO scam in which a &quot;law firm&quot; with AI-generated photos of &quot;lawyers&quot; sent copyright infringement notices &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240404/p30#a240404p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
