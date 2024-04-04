@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Edge might let you limit its RAM usage soon including a setting just for gamers](https://www.pcgamer.com/software/browsers/microsoft-edge-might-let-you-limit-its-ram-usage-soon-including-a-setting-just-for-gamers)
- - [Marvel celebrates the number 4 with Fantastic Four movie hints and free comics](https://www.polygon.com/24121000/marvel-fantastic-four-movie-hints-free-comics)
- - [GTA Online update for the week of April 4](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)<!-- GAME:END -->
+ - [Sign up Early for the THRONE AND LIBERTY Closed Beta](https://news.xbox.com/en-us/2024/04/04/sign-up-early-for-the-throne-and-liberty-closed-beta/)
+ - [Helldivers 2&#39;s next warbond is all about &#39;Democratic Detonation,&#39; adds a grenade pistol and explosive crossbow](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-next-warbond-is-all-about-democratic-detonation-adds-a-grenade-pistol-and-explosive-crossbow)
+ - [The System Shock remake is getting a massive patch with a revised ending, choice of female player character &#39;8 years in the making&#39;, and a massive quality of life improvement](https://www.pcgamer.com/games/fps/the-system-shock-remake-is-getting-a-massive-patch-with-a-revised-ending-choice-of-female-player-character-8-years-in-the-making-and-a-massive-quality-of-life-improvement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
