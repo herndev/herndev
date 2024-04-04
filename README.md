@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - ⏩ [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
- - 👉 [Useful memes](http://9gag.com/gag/adByDKj)<!-- MEMES:END -->
+ - 💣 [London taste](http://9gag.com/gag/avy2jjE)
+ - ⏩ [Title](http://9gag.com/gag/ary1QVX)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 
