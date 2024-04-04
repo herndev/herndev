@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/ary1QVX)
- - ⏩ [Perfectly balanced\u2026as all things should be](http://9gag.com/gag/aGyKmGZ)
- - 👉 [Father reveal](http://9gag.com/gag/aD2RK9N)<!-- MEMES:END -->
+ - 💣 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - ⏩ [Sweden YES!](http://9gag.com/gag/agmrMnn)
+ - 👉 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)<!-- MEMES:END -->
 
 ---
 
