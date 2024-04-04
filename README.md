@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - ⏩ [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
+ - 💣 [Help me out here](http://9gag.com/gag/apRKMOB)
+ - ⏩ [Title](http://9gag.com/gag/ary1QVX)
+ - 👉 [This is mine.](http://9gag.com/gag/aNDmNAw)<!-- MEMES:END -->
 
 ---
 
