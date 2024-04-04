@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hacks season 3: Release date and everything else you need to know](https://www.androidauthority.com/hacks-season-3-release-date-3431169/)
- - [Apple’s next big thing could be a robot for your home](https://www.androidauthority.com/apple-next-big-thing-robot-3431159/)
- - [In-memory computing, which seeks to reduce power consumption by processing data where it&#39;s stored, is seeing a boost in interest fueled by the AI energy crisis &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p8#a240404p8)<!-- TECH:END -->
+ - [How some MBA programs in the US are reorienting their courses around AI by adding AI-related classwork, encouraging using AI to solve lab assignments, and more &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/240404/p9#a240404p9)
+ - [A new leak may have revealed Nothing’s next two phones](https://www.androidauthority.com/nothing-phones-2024-code-names-3431182/)
+ - [Hacks season 3: Release date and everything else you need to know](https://www.androidauthority.com/hacks-season-3-release-date-3431169/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
