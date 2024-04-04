@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Beyond Xbox: Field Trips is Teaching Valuable Life Skills via Game Pass Favorites](https://news.xbox.com/en-us/2024/04/03/xbox-field-trips-interview/)
- - [The launch of AMD&#39;s Zen 5 processors is close, as motherboard manufacturers begin rolling out BIOSes supporting the next-gen chips](https://www.pcgamer.com/hardware/processors/the-launch-of-amds-zen-5-processors-is-close-as-motherboard-manufacturers-begin-rolling-out-bioses-supporting-the-next-gen-chips)
- - [Today&#39;s Wordle answer for Thursday, April 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-4-2024)<!-- GAME:END -->
+ - [“We Have Another Story to Tell” – Why Senua’s Saga: Hellblade II is A Revolutionary Sequel](https://news.xbox.com/en-us/2024/04/04/senuas-saga-hellblade-2-preview-studio-visit/)
+ - [Hellblade 2 will finally show us what an Unreal Engine 5 game can do](https://www.polygon.com/24120021/hellblade-2-senuas-saga-preview-ninja-theory-unreal-engine-5)
+ - [How Beyond Xbox: Field Trips is Teaching Valuable Life Skills via Game Pass Favorites](https://news.xbox.com/en-us/2024/04/03/xbox-field-trips-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
