@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sues two alleged crypto scammers, accusing them of using its Play Store to offer fraudulent crypto trading and investment apps to steal users&#39; money &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240404/p16#a240404p16)
- - [Two new iPad models spotted in regulatory database](https://appleinsider.com/articles/24/04/04/two-new-ipad-models-spotted-in-regulatory-database?utm_medium=rss)
- - [Aerospike, which offers a highly scalable NoSQL database platform for processing data queries, raised $109M led by Sumeru, taking its total funding to $241M &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/240404/p15#a240404p15)<!-- TECH:END -->
+ - [iRobot’s new Roomba vacuums start at just $250](https://www.theverge.com/2024/4/4/24120812/irobot-roomba-combo-essentials-robot-vacuum-price-release-date)
+ - [AI chip startup SiMa.ai raised $70M led by Maverick Capital to develop chips for cameras, cars, and other consumer devices, taking its total funding to $270M &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p20#a240404p20)
+ - [Two new iPad models spotted in regulatory database](https://appleinsider.com/articles/24/04/04/two-new-ipad-models-spotted-in-regulatory-database?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
