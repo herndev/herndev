@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Journey Loc8 MagSafe Finder Wallet review: an all-in-one Find My wallet](https://appleinsider.com/articles/24/04/05/journey-loc8-magsafe-finder-wallet-review-an-all-in-one-find-my-wallet?utm_medium=rss)
- - [Archetype, which is building AI models to help humans understand the data from sensors monitoring the physical world, launches with a $13M seed led by Venrock &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240405/p8#a240405p8)
- - [How much MacBook is enough MacBook?](https://www.theverge.com/2024/4/5/24121824/macbook-air-m3-tiktok-ban-jon-stewart-ai-vergecast-podcast)<!-- TECH:END -->
+ - [An earthquake just rocked NYC, New Jersey, and the surrounding areas](https://www.theverge.com/2024/4/5/24121989/earthquake-nyc-nj-ct-usgs-magnitude)
+ - [Nuclear Throne studio Vlambeer is back from the dead](https://www.theverge.com/2024/4/5/24121948/nuclear-throne-vlambeer-studio-ownership)
+ - [Meta plans to label a wider range of video, audio, and image content as &quot;Made with AI&quot; starting in May, following feedback from its independent Oversight Board &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/240405/p10#a240405p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
