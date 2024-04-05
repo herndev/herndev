@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alone is the nasty little thriller you need to watch on Netflix](https://www.polygon.com/24121123/alone-thriller-movie-netflix-watch-streaming-john-hyams)
- - [What An ESRB Rating Means For Hollow Knight: Silksong](https://kotaku.com/hollow-knight-silksong-esrb-rating-team-cherry-xbox-1851391050)
- - [Palia studio Singularity 6 is the latest studio to suffer layoffs](https://www.pcgamer.com/games/mmo/palia-studio-singularity-6-is-the-latest-studio-to-suffer-layoffs)<!-- GAME:END -->
+ - [Suicide Squad Hackers Break Game To Play As Unreleased Characters](https://kotaku.com/suicide-squad-hackers-unreleased-skins-deathstroke-1851391360)
+ - [The 29 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Dragon’s Dogma 2 interactive map](https://www.polygon.com/c/dragons-dogma-2-guide/24112267/map-world-full-interactive-vermund-battahl-dd2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
