@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon adds a store called Bazaar to its Android app in India, featuring affordable fashion and lifestyle products, to compete with Flipkart and Reliance&#39;s Ajio &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240405/p18#a240405p18)
- - [Galaxy Z Fold 5 and Flip 5 get a security boost with April’s update](https://www.androidauthority.com/galaxy-foldable-april-update-3431890/)
- - [Sephora’s Spring Sale Brings Big Discounts on Top-Rated Hair Tools &lpar;2024&rpar;](https://www.wired.com/story/sephora-sale-april-2024/)<!-- TECH:END -->
+ - [Apple updates App Store guidelines, allowing game emulators for the first time globally, and letting music streaming apps in the EU link to external websites &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240405/p20#a240405p20)
+ - [Why the East Coast Earthquake Covered So Much Ground](https://www.wired.com/story/why-the-east-coast-earthquake-covered-so-much-ground/)
+ - [Monkey Man is a studied execution of the brutal revenge thriller](https://www.theverge.com/24121341/monkey-man-dev-patel-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
