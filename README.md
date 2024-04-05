@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - ⏩ [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
- - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
+ - 💣 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - ⏩ [How Natural Selection works](http://9gag.com/gag/ayNEbzq)
+ - 👉 [Title](http://9gag.com/gag/aO8ogdM)<!-- MEMES:END -->
 
 ---
 
