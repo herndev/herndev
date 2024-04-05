@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CB Insights: global VC investment in fintech fell 16% QoQ to $7.3B over 904 deals in Q1 2024, the lowest amount of funding the sector has seen since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240405/p6#a240405p6)
- - [Lowest price of 2024 on the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/deal-samsung-galaxy-z-fold-5-3431563/)
- - [Spring Black Friday Savings Have Arrived at Home Depot. Here Are the Best Deals     - CNET](https://www.cnet.com/deals/spring-black-friday-savings-have-arrived-at-home-depot-here-are-the-best-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Journey Loc8 MagSafe Finder Wallet review: an all-in-one Find My wallet](https://appleinsider.com/articles/24/04/05/journey-loc8-magsafe-finder-wallet-review-an-all-in-one-find-my-wallet?utm_medium=rss)
+ - [Archetype, which is building AI models to help humans understand the data from sensors monitoring the physical world, launches with a $13M seed led by Venrock &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240405/p8#a240405p8)
+ - [How much MacBook is enough MacBook?](https://www.theverge.com/2024/4/5/24121824/macbook-air-m3-tiktok-ban-jon-stewart-ai-vergecast-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
