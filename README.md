@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
- - ⏩ [What else would you add?](http://9gag.com/gag/agmrMEq)
- - 👉 [Perfectly balanced\u2026as all things should be](http://9gag.com/gag/aGyKmGZ)<!-- MEMES:END -->
+ - 💣 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aMVeReP)
+ - ⏩ [Mesmerizing](http://9gag.com/gag/ae9Knbm)
+ - 👉 [Title](http://9gag.com/gag/ary1QVX)<!-- MEMES:END -->
 
 ---
 
