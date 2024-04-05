@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - ⏩ [Shocked dazed and confused](http://9gag.com/gag/aE0d39K)
- - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
+ - 💣 [Sweden YES!](http://9gag.com/gag/agmrMnn)
+ - ⏩ [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
 
 ---
 
