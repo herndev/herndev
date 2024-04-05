@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone is working on a cheap, widely available Android phone](https://www.androidauthority.com/fairphone-expansion-aggressive-price-3431708/)
- - [Meta will require labels on more AI-generated content](https://www.theverge.com/2024/4/5/24121978/meta-ai-generated-content-label-requirements-deepfakes)
- - [Tim Cook makes $16 million from selling Apple shares](https://appleinsider.com/articles/24/04/05/tim-cook-makes-16-million-from-selling-apple-shares?utm_medium=rss)<!-- TECH:END -->
+ - [Google Books reportedly indexing bad AI-written works](https://www.theverge.com/2024/4/5/24122077/google-books-ai-indexing-ngram)
+ - [Dyson NC Headphones     - CNET](https://www.cnet.com/tech/mobile/dyson-nc-headphones-dpnl/#ftag=CAD590a51e)
+ - [Rejoyn Wants to Treat Your Depression Digitally, Experts Aren&#39;t Sure     - CNET](https://www.cnet.com/health/mental/rejoyn-wants-to-treat-your-depression-digitally-experts-arent-sure/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
