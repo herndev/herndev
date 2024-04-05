@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rocky launch of Shine, the photo-sharing app developed by Marissa Mayer&#39;s startup Sunshine whose cofounder Enrique Mu&amp;ntilde;oz Torres resigned this week &lpar;Platformer&rpar;](http://www.techmeme.com/240404/p42#a240404p42)
- - [How to fix corrupted DaVinci Resolve projects](https://appleinsider.com/inside/mac/tips/how-to-fix-corrupted-davinci-resolve-projects?utm_medium=rss)
- - [How Meta&#39;s VR bet has played out a decade after its acquisition of Oculus; the company&#39;s metaverse division lost $42B between the end of 2020 and Q1 2024 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240404/p41#a240404p41)<!-- TECH:END -->
+ - [CCData: crypto trading volume on centralized exchanges hit an all-time high of $9.1T in March, with spot trading volume of $2.94T, the highest since May 2021 &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240404/p43#a240404p43)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 5, #1021     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-5-1021/#ftag=CAD590a51e)
+ - [A look at the rocky launch of Shine, the photo-sharing app developed by Marissa Mayer&#39;s startup Sunshine whose cofounder Enrique Mu&amp;ntilde;oz Torres resigned this week &lpar;Platformer&rpar;](http://www.techmeme.com/240404/p42#a240404p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
