@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - ⏩ [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 👉 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)<!-- MEMES:END -->
+ - 💣 [UFC vs NYC](http://9gag.com/gag/aE0vdEN)
+ - ⏩ [Damn Lit](http://9gag.com/gag/aVvjGZw)
+ - 👉 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aVvzjYP)<!-- MEMES:END -->
 
 ---
 
