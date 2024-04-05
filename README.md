@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest Producer Steps Down Amid DQ12 Delays And Square Reorg](https://kotaku.com/dragon-quest-12-producer-delays-1851391503)
- - [Xbox Insider Release Notes – Alpha &lpar;2405.240403-2000&rpar;](https://news.xbox.com/en-us/2024/04/05/xbox-insider-release-notes-alpha-2405-240403-2000/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240403-2000&rpar;](https://news.xbox.com/en-us/2024/04/05/xbox-insider-release-notes-alpha-skip-ahead-2408-240403-2000/)<!-- GAME:END -->
+ - [Somehow Dark Souls was the inspiration for player messages in the kindest MMO around](https://www.pcgamer.com/games/mmo/somehow-dark-souls-was-the-inspiration-for-player-messages-in-the-kindest-mmo-around)
+ - [Monkey Man sets up Dev Patel as an action star — and maybe the anti-Bond](https://www.polygon.com/24122067/monkey-man-review-dev-patel)
+ - [Here’s the official slate of upcoming Star Wars movies and TV](https://www.polygon.com/star-wars/23672528/star-wars-movies-tv-schedule-calendar-upcoming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
