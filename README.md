@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aMVeReP)
- - ⏩ [Mesmerizing](http://9gag.com/gag/ae9Knbm)
- - 👉 [Title](http://9gag.com/gag/ary1QVX)<!-- MEMES:END -->
+ - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - ⏩ [Title](http://9gag.com/gag/aO8ogdM)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 
