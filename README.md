@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus will expand its password-sharing crackdown in the coming months](https://www.androidauthority.com/disney-plus-password-sharing-june-3431651/)
- - [How a TikTok whistleblower may have driven congressional concerns about the app despite working at TikTok for just six months and making improbable claims &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240405/p2#a240405p2)
- - [Upcoming Pixel feature will let you identify unknown callers, but there’s a catch](https://www.androidauthority.com/google-pixel-lookup-phone-app-3431634/)<!-- TECH:END -->
+ - [Boo! Samsung could be sticking with some Z Fold 3 specs for the Fold 6](https://www.androidauthority.com/samsung-galaxy-z-fold-6-battery-specs-3431665/)
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [Sources: Samsung plans to more than double its total chip investment in Taylor, Texas to ~$44B, a significant breakthrough for US&#39; chip manufacturing plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240405/p3#a240405p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
