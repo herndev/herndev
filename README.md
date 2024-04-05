@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue app update brings back a long discontinued feature](https://www.androidauthority.com/philips-hue-april-2024-app-update-3431615/)
- - [Got screen issues on your S23 after One UI 6.1? Samsung has a temporary fix](https://www.androidauthority.com/samsung-galaxy-s23-touchscreen-workaround-one-ui-6-1-3431610/)
- - [Samsung estimates Q1 operating profit of $4.9B, up 931% YoY, and sales of $52.68B, up 11.4% YoY, as memory chip prices surge, hinting end of the chip downturn &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/240405/p1#a240405p1)<!-- TECH:END -->
+ - [Upcoming Pixel feature will let you identify unknown callers, but there’s a catch](https://www.androidauthority.com/google-pixel-lookup-phone-app-3431634/)
+ - [The best Nothing Phone 2a cases](https://www.androidauthority.com/best-nothing-phone-2a-cases-3431385/)
+ - [These iPhone 16 and iPhone 16 Pro dummy units give us iPhone X vibes](https://www.androidauthority.com/apple-iphone-16-pro-dummy-unit-leaks-3431630/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
