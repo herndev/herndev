@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
- - ⏩ [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 👉 [If u know u know](http://9gag.com/gag/aKG4QxO)<!-- MEMES:END -->
+ - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - ⏩ [MUST WATCH: Dr. Phil confronts two female Hamas supporters on the question of whether the October 7th Hamas massacre would be considered genocide and whether it was morally acceptable. They get WRECKED!](http://9gag.com/gag/aW4Bw42)
+ - 👉 [AliEns BuilT thE pYraMidS](http://9gag.com/gag/aBy979Q)<!-- MEMES:END -->
 
 ---
 
