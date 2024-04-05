@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - ⏩ [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
- - 👉 [Karma](http://9gag.com/gag/aZZqGRQ)<!-- MEMES:END -->
+ - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - ⏩ [What else would you add?](http://9gag.com/gag/agmrMEq)
+ - 👉 [Perfectly balanced\u2026as all things should be](http://9gag.com/gag/aGyKmGZ)<!-- MEMES:END -->
 
 ---
 
