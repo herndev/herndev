@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Helldivers, the viral hit that&#39;s swallowing all my time is this free browser game about stopping the Nazis from coming to power](https://www.pcgamer.com/games/adventure/forget-helldivers-the-viral-hit-thats-swallowing-all-my-time-is-this-free-browser-game-about-stopping-the-nazis-from-coming-to-power)
- - [Roku has filed a patent for your TV to detect when you&#39;re paused and play &#39;relevant ads&#39;. Nope, no thank you, not for me I&#39;m afraid](https://www.pcgamer.com/hardware/roku-has-filed-a-patent-for-your-tv-to-detect-when-youre-paused-and-play-relevant-ads-nope-no-thank-you-not-for-me-im-afraid)
- - [Dragon&#39;s Dogma 2 players in shambles as they discover Capcom might be pity-renting their unwanted, scraggly pawns](https://www.pcgamer.com/games/rpg/dragons-dogma-2-players-in-shambles-as-they-discover-capcom-might-be-pity-renting-their-unwanted-scraggly-pawns)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 8 to 12](https://news.xbox.com/en-us/2024/04/05/next-week-on-xbox-new-games-for-april-8-to-12/)
+ - [For some, Helldivers 2’s anti-cheat software limits the ability to play at all](https://www.polygon.com/24120108/video-game-anti-cheat-software-accessibility-helldivers-2)
+ - [The black sheep of the Thief series is free on Epic Games Store, and at that price, it deserves a second chance](https://www.pcgamer.com/games/action/the-black-sheep-of-the-thief-series-is-free-on-epic-games-store-and-at-that-price-it-deserves-a-second-chance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
