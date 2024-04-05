@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Muslim father casually explains sex slavery in Islam to his daughter.](http://9gag.com/gag/aPA653n)
- - ⏩ [Life is but a scam](http://9gag.com/gag/aRB6noj)
+ - 💣 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - ⏩ [Title](http://9gag.com/gag/aO8ogdM)
  - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
 
 ---
