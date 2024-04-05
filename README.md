@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s XeSS 1.3 SDK has been released with a host of new presets, faster performance and improved image quality](https://www.pcgamer.com/hardware/graphics-cards/intels-xess-13-sdk-has-been-released-with-a-host-of-new-presets-faster-performance-and-improved-image-quality)
- - [Hard drives aren&#39;t dead yet as Seagate demos new multi-layer 3D magnetic tech with potential for 240TB capacities](https://www.pcgamer.com/hardware/graphics-cards/hard-drives-arent-dead-yet-as-seagate-demos-new-multi-layer-3d-magnetic-tech-with-potential-for-240tb-capacities)
- - [Dragon’s Dogma 2 Players Are Using Rotten Food And Mods To Combat Dragonsplague](https://kotaku.com/dragons-dogma-2-dragonsplague-mod-rotten-food-1851390671)<!-- GAME:END -->
+ - [Alone is the nasty little thriller you need to watch on Netflix](https://www.polygon.com/24121123/alone-thriller-movie-netflix-watch-streaming-john-hyams)
+ - [What An ESRB Rating Means For Hollow Knight: Silksong](https://kotaku.com/hollow-knight-silksong-esrb-rating-team-cherry-xbox-1851391050)
+ - [Palia studio Singularity 6 is the latest studio to suffer layoffs](https://www.pcgamer.com/games/mmo/palia-studio-singularity-6-is-the-latest-studio-to-suffer-layoffs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
