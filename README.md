@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 8 to 12](https://news.xbox.com/en-us/2024/04/05/next-week-on-xbox-new-games-for-april-8-to-12/)
- - [For some, Helldivers 2’s anti-cheat software limits the ability to play at all](https://www.polygon.com/24120108/video-game-anti-cheat-software-accessibility-helldivers-2)
- - [The black sheep of the Thief series is free on Epic Games Store, and at that price, it deserves a second chance](https://www.pcgamer.com/games/action/the-black-sheep-of-the-thief-series-is-free-on-epic-games-store-and-at-that-price-it-deserves-a-second-chance)<!-- GAME:END -->
+ - [New deck-building game has players battle through the story of Avatar: The Last Airbender](https://www.polygon.com/24120359/avatar-airbender-aangs-destiny-game-preview)
+ - [Finally, A Game That Lets Me Live Out My Millenium-Era Reality TV Dreams](https://kotaku.com/crush-house-reality-tv-show-game-devolver-digital-1851390417)
+ - [Devs on the upcoming Star Wars strategy game want to make a good first impression: &#39;We&#39;re gonna develop our own language that fits within Star Wars, but also feels unique to this game&#39;](https://www.pcgamer.com/games/strategy/devs-on-the-upcoming-star-wars-strategy-game-want-to-make-a-good-first-impression-were-gonna-develop-our-own-language-that-fits-within-star-wars-but-also-feels-unique-to-this-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
