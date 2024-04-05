@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - ⏩ [AliEns BuilT thE pYraMidS](http://9gag.com/gag/aBy979Q)
- - 👉 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)<!-- MEMES:END -->
+ - 💣 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - ⏩ [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 
