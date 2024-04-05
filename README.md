@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is one thing that never dies; the fame of a man&#39;s deeds.](http://9gag.com/gag/azx7n0z)
- - ⏩ [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 👉 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)<!-- MEMES:END -->
+ - 💣 [Hand carved](http://9gag.com/gag/aVvjGNM)
+ - ⏩ [She\u2019s a keeper](http://9gag.com/gag/agmrMOg)
+ - 👉 [What else would you add?](http://9gag.com/gag/agmrMEq)<!-- MEMES:END -->
 
 ---
 
