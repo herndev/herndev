@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An earthquake just rocked NYC, New Jersey, and the surrounding areas](https://www.theverge.com/2024/4/5/24121989/earthquake-nyc-nj-ct-usgs-magnitude)
- - [Nuclear Throne studio Vlambeer is back from the dead](https://www.theverge.com/2024/4/5/24121948/nuclear-throne-vlambeer-studio-ownership)
- - [Meta plans to label a wider range of video, audio, and image content as &quot;Made with AI&quot; starting in May, following feedback from its independent Oversight Board &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/240405/p10#a240405p10)<!-- TECH:END -->
+ - [Fairphone is working on a cheap, widely available Android phone](https://www.androidauthority.com/fairphone-expansion-aggressive-price-3431708/)
+ - [Meta will require labels on more AI-generated content](https://www.theverge.com/2024/4/5/24121978/meta-ai-generated-content-label-requirements-deepfakes)
+ - [Tim Cook makes $16 million from selling Apple shares](https://appleinsider.com/articles/24/04/05/tim-cook-makes-16-million-from-selling-apple-shares?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
