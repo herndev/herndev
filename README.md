@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Marissa Mayer about her app development startup Sunshine, its new photo-sharing app Shine, the AI landscape, internet business models, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240405/p15#a240405p15)
- - [OnePlus Watch 2 review: runs Wear OS with a big, bright screen and three-day battery life but lacks some health features, the accuracy of results is a mixed bag &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240405/p14#a240405p14)
- - [Roku’s idea of showing ads on your HDMI inputs seems like an inevitable hell](https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google)<!-- TECH:END -->
+ - [Amazon adds a store called Bazaar to its Android app in India, featuring affordable fashion and lifestyle products, to compete with Flipkart and Reliance&#39;s Ajio &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240405/p18#a240405p18)
+ - [Galaxy Z Fold 5 and Flip 5 get a security boost with April’s update](https://www.androidauthority.com/galaxy-foldable-april-update-3431890/)
+ - [Sephora’s Spring Sale Brings Big Discounts on Top-Rated Hair Tools &lpar;2024&rpar;](https://www.wired.com/story/sephora-sale-april-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
