@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UFC vs NYC](http://9gag.com/gag/aE0vdEN)
- - ⏩ [Damn Lit](http://9gag.com/gag/aVvjGZw)
- - 👉 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aVvzjYP)<!-- MEMES:END -->
+ - 💣 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
+ - ⏩ [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 👉 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)<!-- MEMES:END -->
 
 ---
 
