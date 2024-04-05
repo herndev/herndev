@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Innovative Action Strategy Top-Down Shooter Die Again Launches April 11](https://news.xbox.com/en-us/2024/04/05/die-again-launches-april-11/)
- - [CoD: Modern Warfare III&#39;s Multiplayer Is Free To Play On Xbox RN](https://kotaku.com/xbox-free-play-days-modern-warfare-3-elder-scrolls-lego-1851392065)
- - [All riftstone locations in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24115483/riftstone-locations-all-effects-forgotten-riftstones)<!-- GAME:END -->
+ - [I&#39;ve waited so long for this freaky Lovecraftian point and click adventure that my life completely changed in the meantime, but it&#39;s finally out on PC](https://www.pcgamer.com/games/adventure/ive-waited-so-long-for-this-freaky-lovecraftian-point-and-click-adventure-that-my-life-completely-changed-in-the-meantime-but-its-finally-out-on-pc)
+ - [This base-building automation game looks like Factorio in space with bullet hell combat and Dyson spheres](https://www.pcgamer.com/games/action/this-base-building-automation-game-looks-like-factorio-in-space-with-bullet-hell-combat-and-dyson-spheres)
+ - [NASA is joining with Twitch, Microsoft, and Epic for a livestream event featuring eclipse-themed Minecraft and Fortnite games](https://www.pcgamer.com/games/nasa-is-joining-with-twitch-microsoft-and-epic-for-a-livestream-event-featuring-eclipse-themed-minecraft-and-fortnite-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
