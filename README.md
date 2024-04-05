@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - ⏩ [Hand carved](http://9gag.com/gag/aVvjGNM)
- - 👉 [Deserved retirement](http://9gag.com/gag/a87dPpd)<!-- MEMES:END -->
+ - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - ⏩ [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
 
 ---
 
