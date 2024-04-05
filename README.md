@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple offers a sneak peek into new developer channel with YouTube trailer](https://appleinsider.com/articles/24/04/04/apple-offers-a-sneak-peek-into-new-developer-channel-with-youtube-trailer?utm_medium=rss)
- - [Tired of Waking Up Groggy? This Natural Supplement Could Enhance Your Sleep Routine     - CNET](https://www.cnet.com/health/sleep/melatonin-can-make-you-groggy-try-this-supplement-to-fall-asleep/#ftag=CAD590a51e)
- - [Filing: Meta rejects the FTC&#39;s bid to amend its 2020 privacy settlement, saying it voluntarily disclosed two Messenger Kids bugs and had no parent complaints &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240404/p37#a240404p37)<!-- TECH:END -->
+ - [India&#39;s IT minister says the country is looking to frame a &quot;balanced&quot; AI law that will protect news publishers and content creators while minimizing user harm &lpar;The Economic Times&rpar;](http://www.techmeme.com/240404/p40#a240404p40)
+ - [Google&#39;s Apple-friendly Find My Devices network launching in April](https://appleinsider.com/articles/24/04/05/googles-apple-friendly-find-my-devices-network-launching-in-april?utm_medium=rss)
+ - [Filings: Apple laid off 600+ employees in California; some layoffs correspond to addresses where Apple&#39;s display and car research teams were reportedly based &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240404/p39#a240404p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
