@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boo! Samsung could be sticking with some Z Fold 3 specs for the Fold 6](https://www.androidauthority.com/samsung-galaxy-z-fold-6-battery-specs-3431665/)
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [Sources: Samsung plans to more than double its total chip investment in Taylor, Texas to ~$44B, a significant breakthrough for US&#39; chip manufacturing plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240405/p3#a240405p3)<!-- TECH:END -->
+ - [Samsung overtakes Apple to become world&#39;s leading smartphone vendor](https://appleinsider.com/articles/24/04/05/samsung-overtakes-apple-to-become-worlds-leading-smartphone-vendor?utm_medium=rss)
+ - [Microsoft warns that China plans to disrupt elections in the US, South Korea, and India this year with AI-generated content after making a dry run in Taiwan &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240405/p4#a240405p4)
+ - [Two more new iPads spotted in regulatory database](https://appleinsider.com/articles/24/04/05/two-more-new-ipads-spotted-in-regulatory-database?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
