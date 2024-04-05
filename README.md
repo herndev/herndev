@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - ⏩ [MUST WATCH: Dr. Phil confronts two female Hamas supporters on the question of whether the October 7th Hamas massacre would be considered genocide and whether it was morally acceptable. They get WRECKED!](http://9gag.com/gag/aW4Bw42)
- - 👉 [AliEns BuilT thE pYraMidS](http://9gag.com/gag/aBy979Q)<!-- MEMES:END -->
+ - 💣 [MUST WATCH: Dr. Phil confronts two female Hamas supporters on the question of whether the October 7th Hamas massacre would be considered genocide and whether it was morally acceptable. They get WRECKED!](http://9gag.com/gag/aW4Bw42)
+ - ⏩ [AliEns BuilT thE pYraMidS](http://9gag.com/gag/aBy979Q)
+ - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
 
 ---
 
