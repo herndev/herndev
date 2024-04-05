@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung overtakes Apple to become world&#39;s leading smartphone vendor](https://appleinsider.com/articles/24/04/05/samsung-overtakes-apple-to-become-worlds-leading-smartphone-vendor?utm_medium=rss)
- - [Microsoft warns that China plans to disrupt elections in the US, South Korea, and India this year with AI-generated content after making a dry run in Taiwan &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240405/p4#a240405p4)
- - [Two more new iPads spotted in regulatory database](https://appleinsider.com/articles/24/04/05/two-more-new-ipads-spotted-in-regulatory-database?utm_medium=rss)<!-- TECH:END -->
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Fairphone is working on a cheap, widely available Android phone](https://www.androidauthority.com/fairphone-expansion-aggressive-price-3431708/)
+ - [The EU and the US issue a joint statement affirming a desire to increase cooperation over AI, including AI safety and governance, as well as broader tech issues &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240405/p5#a240405p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
