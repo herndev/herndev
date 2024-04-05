@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hand carved](http://9gag.com/gag/aVvjGNM)
- - ⏩ [She\u2019s a keeper](http://9gag.com/gag/agmrMOg)
- - 👉 [What else would you add?](http://9gag.com/gag/agmrMEq)<!-- MEMES:END -->
+ - 💣 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - ⏩ [Hand carved](http://9gag.com/gag/aVvjGNM)
+ - 👉 [Deserved retirement](http://9gag.com/gag/a87dPpd)<!-- MEMES:END -->
 
 ---
 
