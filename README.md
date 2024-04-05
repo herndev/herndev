@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - ⏩ [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
- - 👉 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)<!-- MEMES:END -->
+ - 💣 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - ⏩ [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 👉 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)<!-- MEMES:END -->
 
 ---
 
