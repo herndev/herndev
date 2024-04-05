@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
- - ⏩ [No freeloading](http://9gag.com/gag/a7oLvyA)
- - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
+ - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - ⏩ [Based Gorl](http://9gag.com/gag/aqy94ZQ)
+ - 👉 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)<!-- MEMES:END -->
 
 ---
 
