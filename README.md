@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - ⏩ [Based Gorl](http://9gag.com/gag/aqy94ZQ)
- - 👉 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)<!-- MEMES:END -->
+ - 💣 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - ⏩ [Title](http://9gag.com/gag/aO8ogdM)
+ - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
 
 ---
 
