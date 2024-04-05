@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - ⏩ [How Natural Selection works](http://9gag.com/gag/ayNEbzq)
- - 👉 [Title](http://9gag.com/gag/aO8ogdM)<!-- MEMES:END -->
+ - ⏩ [Shocked dazed and confused](http://9gag.com/gag/aE0d39K)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 
