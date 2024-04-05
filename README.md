@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, April 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-5-2024)
- - [WoW Classic made the &#39;radical change&#39; to stop testing new content with players to bring back a sense of &#39;mystery and discovery&#39;](https://www.pcgamer.com/games/mmo/wow-classic-made-the-radical-change-to-stop-testing-new-content-with-players-to-bring-back-a-sense-of-mystery-and-discovery)
- - [Relic Entertainment lays off employees to give itself &#39;the best possible chance to survive in an increasingly volatile industry&#39;](https://www.pcgamer.com/gaming-industry/relic-entertainment-lays-off-employees-to-give-itself-the-best-possible-chance-to-survive-in-an-increasingly-volatile-industry)<!-- GAME:END -->
+ - [Helldivers 2&#39;s next major order is to &#39;completely destroy the Automaton Legion&#39;—and if the first game&#39;s any indication, the galaxy could really be robot free for a while](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-next-major-order-is-to-completely-destroy-the-automaton-legionand-if-the-first-games-any-indication-the-galaxy-could-really-be-robot-free-for-a-while)
+ - [Cuba&#39;s &#39;first major indie game&#39; is a gorgeous platformer about bad decisions and environmental catastrophe, so long as you can get over the checkpoints](https://www.pcgamer.com/games/action/cubas-first-major-indie-game-is-a-gorgeous-platformer-about-bad-decisions-and-environmental-catastrophe-so-long-as-you-can-get-over-the-checkpoints)
+ - [Today&#39;s Wordle answer for Friday, April 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-5-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
