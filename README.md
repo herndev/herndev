@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s DALL-E now lets you fine-tune your AI art with editing tools](https://www.androidauthority.com/openais-dall-e-now-lets-you-fine-tune-your-ai-art-with-editing-tools-3431792/)
- - [Developers and US officials weigh the implications of the XZ Utils near-miss as CISA says tech companies should do more to back the open-source ecosystem &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/240405/p13#a240405p13)
- - [Best Internet Providers in Valdosta, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Marissa Mayer about her app development startup Sunshine, its new photo-sharing app Shine, the AI landscape, internet business models, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240405/p15#a240405p15)
+ - [OnePlus Watch 2 review: runs Wear OS with a big, bright screen and three-day battery life but lacks some health features, the accuracy of results is a mixed bag &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240405/p14#a240405p14)
+ - [Roku’s idea of showing ads on your HDMI inputs seems like an inevitable hell](https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
