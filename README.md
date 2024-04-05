@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
- - ⏩ [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 👉 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)<!-- MEMES:END -->
+ - 💣 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
+ - ⏩ [No freeloading](http://9gag.com/gag/a7oLvyA)
+ - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
 
 ---
 
