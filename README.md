@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Meta rejects the FTC&#39;s bid to amend its 2020 privacy settlement, saying it voluntarily disclosed two Messenger Kids bugs and had no parent complaints &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240404/p37#a240404p37)
- - [How to download YouTube videos to your PC or phone](https://www.androidauthority.com/how-to-download-youtube-videos-to-your-pc-or-phone-3431102/)
- - [Apple Reportedly Developing Robots That&#39;ll Roam Your Home     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-developing-robots-thatll-roam-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple offers a sneak peek into new developer channel with YouTube trailer](https://appleinsider.com/articles/24/04/04/apple-offers-a-sneak-peek-into-new-developer-channel-with-youtube-trailer?utm_medium=rss)
+ - [Tired of Waking Up Groggy? This Natural Supplement Could Enhance Your Sleep Routine     - CNET](https://www.cnet.com/health/sleep/melatonin-can-make-you-groggy-try-this-supplement-to-fall-asleep/#ftag=CAD590a51e)
+ - [Filing: Meta rejects the FTC&#39;s bid to amend its 2020 privacy settlement, saying it voluntarily disclosed two Messenger Kids bugs and had no parent complaints &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240404/p37#a240404p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
