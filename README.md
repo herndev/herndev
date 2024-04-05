@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad Hackers Break Game To Play As Unreleased Characters](https://kotaku.com/suicide-squad-hackers-unreleased-skins-deathstroke-1851391360)
- - [The 29 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Dragon’s Dogma 2 interactive map](https://www.polygon.com/c/dragons-dogma-2-guide/24112267/map-world-full-interactive-vermund-battahl-dd2)<!-- GAME:END -->
+ - [Dragon Quest Producer Steps Down Amid DQ12 Delays And Square Reorg](https://kotaku.com/dragon-quest-12-producer-delays-1851391503)
+ - [Xbox Insider Release Notes – Alpha &lpar;2405.240403-2000&rpar;](https://news.xbox.com/en-us/2024/04/05/xbox-insider-release-notes-alpha-2405-240403-2000/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240403-2000&rpar;](https://news.xbox.com/en-us/2024/04/05/xbox-insider-release-notes-alpha-skip-ahead-2408-240403-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
