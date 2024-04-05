@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Fairphone is working on a cheap, widely available Android phone](https://www.androidauthority.com/fairphone-expansion-aggressive-price-3431708/)
- - [The EU and the US issue a joint statement affirming a desire to increase cooperation over AI, including AI safety and governance, as well as broader tech issues &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240405/p5#a240405p5)<!-- TECH:END -->
+ - [CB Insights: global VC investment in fintech fell 16% QoQ to $7.3B over 904 deals in Q1 2024, the lowest amount of funding the sector has seen since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240405/p6#a240405p6)
+ - [Lowest price of 2024 on the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/deal-samsung-galaxy-z-fold-5-3431563/)
+ - [Spring Black Friday Savings Have Arrived at Home Depot. Here Are the Best Deals     - CNET](https://www.cnet.com/deals/spring-black-friday-savings-have-arrived-at-home-depot-here-are-the-best-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
