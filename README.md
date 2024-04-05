@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Jony Ive and Sam Altman&#39;s AI device startup is in funding talks with Emerson Collective and Thrive Capital; Ive wants to raise up to $1B in funding &lpar;The Information&rpar;](http://www.techmeme.com/240405/p21#a240405p21)
- - [Anker’s folding Qi2 charger and other power banks are up to 30 percent off](https://www.theverge.com/2024/4/5/24122269/anker-maggo-power-bank-portable-qi2-charger-deal-sale)
- - [Disgraced iMessage-on-Android app can’t take the hint, is back for more](https://www.androidauthority.com/sunbird-relaunches-app-3431903/)<!-- TECH:END -->
+ - [OnePlus 13 could debut a dramatic new design with a quad-curved display](https://www.androidauthority.com/oneplus-quad-curved-display-3431919/)
+ - [Best Garmin Deals: Save Up to $300 on Smartwatches and Other Devices     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
+ - [Work Smarter, Not Harder: 70 Windows 11 Keyboard Shortcuts to Master Your PC     - CNET](https://www.cnet.com/tech/computing/work-smarter-not-harder-70-windows-11-keyboard-shortcuts-to-master-your-pc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
