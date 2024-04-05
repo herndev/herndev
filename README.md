@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweden YES!](http://9gag.com/gag/agmrMnn)
- - ⏩ [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
+ - 💣 [There is one thing that never dies; the fame of a man&#39;s deeds.](http://9gag.com/gag/azx7n0z)
+ - ⏩ [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 👉 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)<!-- MEMES:END -->
 
 ---
 
