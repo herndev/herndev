@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates App Store guidelines, allowing game emulators for the first time globally, and letting music streaming apps in the EU link to external websites &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240405/p20#a240405p20)
- - [Why the East Coast Earthquake Covered So Much Ground](https://www.wired.com/story/why-the-east-coast-earthquake-covered-so-much-ground/)
- - [Monkey Man is a studied execution of the brutal revenge thriller](https://www.theverge.com/24121341/monkey-man-dev-patel-review)<!-- TECH:END -->
+ - [Source: Jony Ive and Sam Altman&#39;s AI device startup is in funding talks with Emerson Collective and Thrive Capital; Ive wants to raise up to $1B in funding &lpar;The Information&rpar;](http://www.techmeme.com/240405/p21#a240405p21)
+ - [Anker’s folding Qi2 charger and other power banks are up to 30 percent off](https://www.theverge.com/2024/4/5/24122269/anker-maggo-power-bank-portable-qi2-charger-deal-sale)
+ - [Disgraced iMessage-on-Android app can’t take the hint, is back for more](https://www.androidauthority.com/sunbird-relaunches-app-3431903/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
