@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Somehow Dark Souls was the inspiration for player messages in the kindest MMO around](https://www.pcgamer.com/games/mmo/somehow-dark-souls-was-the-inspiration-for-player-messages-in-the-kindest-mmo-around)
- - [Monkey Man sets up Dev Patel as an action star — and maybe the anti-Bond](https://www.polygon.com/24122067/monkey-man-review-dev-patel)
- - [Here’s the official slate of upcoming Star Wars movies and TV](https://www.polygon.com/star-wars/23672528/star-wars-movies-tv-schedule-calendar-upcoming)<!-- GAME:END -->
+ - [Innovative Action Strategy Top-Down Shooter Die Again Launches April 11](https://news.xbox.com/en-us/2024/04/05/die-again-launches-april-11/)
+ - [CoD: Modern Warfare III&#39;s Multiplayer Is Free To Play On Xbox RN](https://kotaku.com/xbox-free-play-days-modern-warfare-3-elder-scrolls-lego-1851392065)
+ - [All riftstone locations in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24115483/riftstone-locations-all-effects-forgotten-riftstones)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
