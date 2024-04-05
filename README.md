@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve waited so long for this freaky Lovecraftian point and click adventure that my life completely changed in the meantime, but it&#39;s finally out on PC](https://www.pcgamer.com/games/adventure/ive-waited-so-long-for-this-freaky-lovecraftian-point-and-click-adventure-that-my-life-completely-changed-in-the-meantime-but-its-finally-out-on-pc)
- - [This base-building automation game looks like Factorio in space with bullet hell combat and Dyson spheres](https://www.pcgamer.com/games/action/this-base-building-automation-game-looks-like-factorio-in-space-with-bullet-hell-combat-and-dyson-spheres)
- - [NASA is joining with Twitch, Microsoft, and Epic for a livestream event featuring eclipse-themed Minecraft and Fortnite games](https://www.pcgamer.com/games/nasa-is-joining-with-twitch-microsoft-and-epic-for-a-livestream-event-featuring-eclipse-themed-minecraft-and-fortnite-games)<!-- GAME:END -->
+ - [Splinter Cell fans are getting excited about a possible update on the remake in June](https://www.pcgamer.com/games/action/splinter-cell-fans-are-getting-excited-about-a-possible-update-on-the-remake-in-june)
+ - [WoW Classic Season of Discovery devs are aiming for &#39;fun,&#39; not &#39;perfect balance&#39;](https://www.pcgamer.com/games/mmo/wow-classic-season-of-discovery-balance-fun)
+ - [Wish, Netflix’s Scoop, The Zone of Interest, and every new movie to watch this weekend](https://www.polygon.com/2024/4/5/24117836/new-movies-watch-wish-disney-plus-scoop-netflix-zone-of-interest-max)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
