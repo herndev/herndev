@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Books reportedly indexing bad AI-written works](https://www.theverge.com/2024/4/5/24122077/google-books-ai-indexing-ngram)
- - [Dyson NC Headphones     - CNET](https://www.cnet.com/tech/mobile/dyson-nc-headphones-dpnl/#ftag=CAD590a51e)
- - [Rejoyn Wants to Treat Your Depression Digitally, Experts Aren&#39;t Sure     - CNET](https://www.cnet.com/health/mental/rejoyn-wants-to-treat-your-depression-digitally-experts-arent-sure/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI’s DALL-E now lets you fine-tune your AI art with editing tools](https://www.androidauthority.com/openais-dall-e-now-lets-you-fine-tune-your-ai-art-with-editing-tools-3431792/)
+ - [Developers and US officials weigh the implications of the XZ Utils near-miss as CISA says tech companies should do more to back the open-source ecosystem &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/240405/p13#a240405p13)
+ - [Best Internet Providers in Valdosta, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
