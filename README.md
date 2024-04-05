@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - ⏩ [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
+ - 💣 [A Muslim father casually explains sex slavery in Islam to his daughter.](http://9gag.com/gag/aPA653n)
+ - ⏩ [Life is but a scam](http://9gag.com/gag/aRB6noj)
+ - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
 
 ---
 
