@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - ⏩ [A very thoughtful and kind gesture](http://9gag.com/gag/awy07LD)
- - 👉 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)<!-- MEMES:END -->
+ - 💣 [No comment.](http://9gag.com/gag/adB0XEB)
+ - ⏩ [Hey! wake up its 2005](http://9gag.com/gag/awy0KqD)
+ - 👉 [Bird feeder](http://9gag.com/gag/ajPYD4G)<!-- MEMES:END -->
 
 ---
 
