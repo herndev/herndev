@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We now have a better look at what’s inside the Humane AI pin](https://www.theverge.com/2024/4/8/24124419/humane-ai-pin-processor-snapdragon-qualcomm-fcc)
- - [TikTok expands TikTok Lite, which gives people financial incentives to watch its videos, to Spain and France, amid growth struggles in Europe &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240408/p27#a240408p27)
- - [Fresh Pixel 8a leaks show off a matte-finish back and chunky bezels](https://www.androidauthority.com/pixel-8a-images-leak-3432394/)<!-- TECH:END -->
+ - [Sennheiser’s new fitness buds do heart rate tracking right](https://www.theverge.com/24122324/sennheiser-momentum-sport-earbuds-review)
+ - [TikTok is getting closer to launching an Instagram rival](https://www.theverge.com/2024/4/8/24124595/tiktok-notes-instagram-rival-app-launch)
+ - [Apple Pays: iPhone users can claim up to $150 over performance slowdowns](https://www.androidauthority.com/apple-batterygate-canada-3432412/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
