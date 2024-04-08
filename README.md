@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s privacy rules are stifling Apple Vision Pro apps, for now](https://appleinsider.com/articles/24/04/08/apples-privacy-rules-are-stifling-apple-vision-pro-apps-for-now?utm_medium=rss)
- - [Nielsen data from 2021 to 2023: nine of the ten most-watched streaming programs are reruns, but a majority of the 100 most popular titles are original series &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p21#a240408p21)
- - [I can’t recommend this Animal Crossing Switch Lite bundle enough](https://www.theverge.com/2024/4/8/24124212/animal-crossing-switch-lite-deal-walmart)<!-- TECH:END -->
+ - [Docs: after months of staffers sniping about the war in Gaza, Google is tweaking its internal message board Memegen, removing &quot;thumbs down&quot;, post metrics, more &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240408/p24#a240408p24)
+ - [Google debuts its Find My Device network in the US and Canada, initially to find Android phones and tablets; support for 3rd-party tracker tags is coming in May &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240408/p23#a240408p23)
+ - [Google Home adds new routine option to read out your Fitbit stats](https://www.androidauthority.com/google-home-fitbit-routine-3432318/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
