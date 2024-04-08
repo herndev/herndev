@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
- - ⏩ [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 👉 [Hey](http://9gag.com/gag/aO8KmAN)<!-- MEMES:END -->
+ - 💣 [Goodbye, peaceful, clean, respectful and low-crime Japan](http://9gag.com/gag/aXP0p7P)
+ - ⏩ [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 👉 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)<!-- MEMES:END -->
 
 ---
 
