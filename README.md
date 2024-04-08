@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The total eclipse shows us how important solar energy is to the US](https://www.theverge.com/2024/4/8/24124189/solar-eclipse-renewable-energy-panels-electricity-grid)
- - [CYRILL UltraColor case for Samsung Galaxy S24 review: Should you buy it?](https://www.androidauthority.com/cyrill-ultracolor-case-samsung-galaxy-s24-review-3431275/)
- - [Retro&#39;s back: the best wrap-around game controllers for your iPhone](https://appleinsider.com/inside/iphone/best/retros-back-the-best-wrap-around-game-controllers-for-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Nest Secure is shutting down today — and you’ve got options besides ADT](https://www.theverge.com/2024/4/8/24124244/google-nest-secure-security-system-shut-down-alternatives)
+ - [Nothing’s next set of earbuds might include a Playdate-inspired glow-up](https://www.theverge.com/2024/4/8/24124366/nothing-ear-a-wireless-earbuds-playdate-yellow-color-leak)
+ - [WWE went big on AR at WrestleMania 40](https://www.theverge.com/2024/4/8/24123813/wwe-wrestlemania-40-augmented-reality-ar-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
