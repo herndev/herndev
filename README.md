@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout TV Series Already Gearing Up For Second Season](https://kotaku.com/fallout-amazon-tv-show-season-2-confirmed-release-date-1851395200)
- - [Race at Brands Hatch in Forza Motorsport Update 7](https://forza.net/news/forza-motorsport-update-7)
- - [Dragon&#39;s Dogma 2&#39;s true ending is a high point for RPG climaxes](https://www.pcgamer.com/games/rpg/dragons-dogma-2s-true-ending-is-a-high-point-for-rpg-climaxes)<!-- GAME:END -->
+ - [Fallout, The Sympathizer, Kaiju No. 8, and more new TV this week](https://www.polygon.com/2024/4/8/24102441/new-tv-fallout-sympathizer-kaiju-no-8-premiere-time-date-netflix)
+ - [Avatar: The Last Airbender is heading to Fortnite tomorrow](https://www.polygon.com/24124335/avatar-last-airbender-fortnite-atla-characters-zuko-toph-katara)
+ - [You can&#39;t explore the Wasteland like you used to, but the Fallout TV show is still trying to represent the gamers with &#39;three archetypal main characters&#39;](https://www.pcgamer.com/games/fallout/you-cant-explore-the-wasteland-like-you-used-to-but-the-fallout-tv-show-is-still-trying-to-represent-the-gamers-with-three-archetypal-main-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
