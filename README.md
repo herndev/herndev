@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wayfinder sales halted as developer promises a major rework of the game: &#39;We have no plans for it to disappear like so many online-only games&#39;](https://www.pcgamer.com/games/rpg/wayfinder-sales-halted-as-developer-promises-a-major-rework-of-the-game-we-have-no-plans-for-it-to-disappear-like-so-many-online-only-games)
- - [FFXIV ocean fishing beginner’s tips and bait list](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24122128/ocean-fishing-unlock-schedule-bait-routes-beginners-tips)
- - [Dragon Dogma 2’s cursed endgame is nothing but dessert](https://www.polygon.com/24124389/dragon-dogma-2s-endgame-unmoored-fast-travel)<!-- GAME:END -->
+ - [League of Legends is getting a Vampire Survivors-style PvE mode later this year](https://www.pcgamer.com/games/action/league-of-legends-is-getting-a-vampire-survivors-style-pve-mode-later-this-year)
+ - [Diablo 4 PTR players discover mysterious new items and an abandoned camp that could be clues for its next season and upcoming expansion](https://www.pcgamer.com/games/rpg/diablo-4-ptr-datamined-season-4-iron-wolves)
+ - [Nioh’s William Is Hiding In Rise Of The Ronin, And Here’s Where To Find Him](https://kotaku.com/rise-ronin-nioh-william-where-how-find-tip-guide-1851396068)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
