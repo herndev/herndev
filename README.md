@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout, The Sympathizer, Kaiju No. 8, and more new TV this week](https://www.polygon.com/2024/4/8/24102441/new-tv-fallout-sympathizer-kaiju-no-8-premiere-time-date-netflix)
- - [Avatar: The Last Airbender is heading to Fortnite tomorrow](https://www.polygon.com/24124335/avatar-last-airbender-fortnite-atla-characters-zuko-toph-katara)
- - [You can&#39;t explore the Wasteland like you used to, but the Fallout TV show is still trying to represent the gamers with &#39;three archetypal main characters&#39;](https://www.pcgamer.com/games/fallout/you-cant-explore-the-wasteland-like-you-used-to-but-the-fallout-tv-show-is-still-trying-to-represent-the-gamers-with-three-archetypal-main-characters)<!-- GAME:END -->
+ - [FF7 Rebirth: How To Give Odin The Beatdown He Deserves](https://kotaku.com/final-fantasy-7-rebirth-ff7-odin-fight-how-to-beat-1851395590)
+ - [Friday the 13: The Game has been killed one more time: Fan-made &#39;Resurrection&#39; project derailed by lawyers over &#39;cavalier disregard of copyright law&#39;](https://www.pcgamer.com/games/horror/friday-the-13-the-game-has-been-killed-one-more-time-fan-made-resurrection-project-derailed-by-lawyers-over-cavalier-disregard-of-copyright-law)
+ - [Xbox Insider Release Notes – Alpha &lpar;2405.240404-2000&rpar;](https://news.xbox.com/en-us/2024/04/08/xbox-insider-release-notes-alpha-2405-240404-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
