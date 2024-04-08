@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)
- - ⏩ [This 2$ treadmill is breaking the internet of poor people](http://9gag.com/gag/a0e8j0v)
- - 👉 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
+ - 💣 [The first map notorious for sniper camping](http://9gag.com/gag/a4PKdqQ)
+ - ⏩ [On my way to the gym to work on that goal](http://9gag.com/gag/amoN88j)
+ - 👉 [What did he do?](http://9gag.com/gag/aVvzW4y)<!-- MEMES:END -->
 
 ---
 
