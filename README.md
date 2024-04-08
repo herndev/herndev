@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Actually...](http://9gag.com/gag/abAXqMv)
- - ⏩ [Hahahaha](http://9gag.com/gag/an7qXNB)
- - 👉 [Not every leap in technology is considered an advancement.](http://9gag.com/gag/avypZAX)<!-- MEMES:END -->
+ - 💣 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
+ - ⏩ [What did he do?](http://9gag.com/gag/aVvzW4y)
+ - 👉 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)<!-- MEMES:END -->
 
 ---
 
