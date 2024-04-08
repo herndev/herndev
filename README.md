@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Watch 2 could soon get a new Nord-inspired color](https://www.androidauthority.com/oneplus-watch-2-nordic-blue-edition-3432142/)
- - [Review: BYD Atto 3](https://www.wired.com/review/review-byd-atto-3/)
- - [Spotify launches AI playlists, letting you make a playlist with a prompt](https://www.androidauthority.com/spotify-ai-playlists-3432054/)<!-- TECH:END -->
+ - [Cybertech Global and IVC: in 2023, Israeli cybersecurity exit deals grew by 65% YoY to $7.1B; total tech sector exits were ~$11B, down from $13.5B in 2022 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240408/p5#a240408p5)
+ - [Samsung Galaxy Watch 7 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
+ - [There’s no Galaxy Watch FE, according to leaker, but a cheaper watch is coming](https://www.androidauthority.com/no-galaxy-watch-fe-leaker-cheaper-watch-3432141/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
