@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The first map notorious for sniper camping](http://9gag.com/gag/a4PKdqQ)
- - ⏩ [On my way to the gym to work on that goal](http://9gag.com/gag/amoN88j)
- - 👉 [What did he do?](http://9gag.com/gag/aVvzW4y)<!-- MEMES:END -->
+ - 💣 [A meme for every line in LotR: day 459](http://9gag.com/gag/a1mvMXY)
+ - ⏩ [Half life speed run](http://9gag.com/gag/aW4QOjx)
+ - 👉 [Don\u2019t laugh](http://9gag.com/gag/a9ybLB6)<!-- MEMES:END -->
 
 ---
 
