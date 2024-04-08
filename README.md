@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sennheiser’s new fitness buds do heart rate tracking right](https://www.theverge.com/24122324/sennheiser-momentum-sport-earbuds-review)
- - [TikTok is getting closer to launching an Instagram rival](https://www.theverge.com/2024/4/8/24124595/tiktok-notes-instagram-rival-app-launch)
- - [Apple Pays: iPhone users can claim up to $150 over performance slowdowns](https://www.androidauthority.com/apple-batterygate-canada-3432412/)<!-- TECH:END -->
+ - [14 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)
+ - [The Supercut app brings good Netflix to the Vision Pro](https://www.theverge.com/2024/4/8/24124534/supercut-netflix-vision-pro-app-4k-dolby-atmos-vision-visionos)
+ - [Filing: Tesla settles a lawsuit over Apple engineer Walter Huang&#39;s 2018 fatal Autopilot crash a day before the trial was set to begin; details are not disclosed &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240408/p30#a240408p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
