@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is pushing Gemini into another app on your Android phone](https://www.androidauthority.com/google-android-app-gemini-toggle-3432129/)
  - [Spotify launches AI Playlist in beta for its Premium users in the UK and Australia, letting users generate playlists using a text prompt &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240408/p3#a240408p3)
- - [A look at Towa Corp., which TechInsights says commands two-thirds of the global chip molding equipment market and has seen shares jump ~400% in the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p2#a240408p2)
- - [Maryland&#39;s legislature passed two privacy bills, one restricting data collection practices and the other focused on minors&#39; safety on social platforms &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240408/p1#a240408p1)<!-- TECH:END -->
+ - [A look at Towa Corp., which TechInsights says commands two-thirds of the global chip molding equipment market and has seen shares jump ~400% in the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p2#a240408p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
