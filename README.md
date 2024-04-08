@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out this indie fusion of Terraria and Satisfactory](https://www.pcgamer.com/games/survival-crafting/check-out-this-indie-fusion-of-terraria-and-satisfactory)
- - [No Man&#39;s Sky lead Sean Murray celebrates a 1% improvement in Steam reviews because each point is just that much harder to earn than the last](https://www.pcgamer.com/games/sim/no-mans-sky-lead-sean-murray-celebrates-a-1-improvement-in-steam-reviews-because-each-point-is-just-that-much-harder-to-earn-than-the-last)
- - [9 years in, rhythm dungeon crawler Crypt of the NecroDancer just got a Hatsune Miku crossover DLC](https://www.pcgamer.com/games/roguelike/9-years-in-rhythm-dungeon-crawler-crypt-of-the-necrodancer-just-got-a-hatsune-miku-crossover-dlc)<!-- GAME:END -->
+ - [The US seeks not just to block China&#39;s access to advanced chip making tech, it wants to ban servicing on the equipment it already has](https://www.pcgamer.com/hardware/the-us-seeks-not-just-to-block-chinas-access-to-advanced-chip-making-tech-it-wants-to-ban-servicing-on-the-equipment-it-already-has)
+ - [Five new Steam games you probably missed &lpar;April 8, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-8-2024)
+ - [Check out this indie fusion of Terraria and Satisfactory](https://www.pcgamer.com/games/survival-crafting/check-out-this-indie-fusion-of-terraria-and-satisfactory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
