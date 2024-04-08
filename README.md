@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to remove personal information from the internet -- and why you should](https://appleinsider.com/articles/24/04/08/how-to-remove-personal-information-from-the-internet?utm_medium=rss)
- - [The PPSSPP emulator will come to the App Store this year &lpar;if Apple allows it&rpar;](https://www.androidauthority.com/ppsspp-emulator-apple-app-store-3432210/)
- - [Internal Kremlin documents from May 2022 to August 2023 show an ongoing campaign to promote American isolationism via fabricated news articles and social media &lpar;Washington Post&rpar;](http://www.techmeme.com/240408/p13#a240408p13)<!-- TECH:END -->
+ - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)
+ - [Filing: Denver-based digital marketing company Ibotta prices its 2.5M IPO shares at $76-$84 each, seeking to raise $472.5M; Ibotta had a $1B valuation in 2019 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p15#a240408p15)
+ - [VPN Protocols Explained: What They are and Which to Use     - CNET](https://www.cnet.com/tech/services-and-software/vpn-protocols-explained-what-they-are-and-which-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
