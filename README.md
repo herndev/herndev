@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An adult version of scented markers exists… as thermal paste](https://www.theverge.com/2024/4/8/24124323/clock-work-tea-party-scented-thermal-paste)
- - [AI apocalypse: Why and how Silicon Valley has become terrified of its own creation](https://www.androidauthority.com/ai-apocalypse-3432135/)
- - [IDC: the PC market grew 1.5% YoY in Q1 with 59.8M shipments, despite weaker demand in China, following two years of decline &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240408/p26#a240408p26)<!-- TECH:END -->
+ - [We now have a better look at what’s inside the Humane AI pin](https://www.theverge.com/2024/4/8/24124419/humane-ai-pin-processor-snapdragon-qualcomm-fcc)
+ - [TikTok expands TikTok Lite, which gives people financial incentives to watch its videos, to Spain and France, amid growth struggles in Europe &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240408/p27#a240408p27)
+ - [Fresh Pixel 8a leaks show off a matte-finish back and chunky bezels](https://www.androidauthority.com/pixel-8a-images-leak-3432394/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
