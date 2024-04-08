@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ontario, Canada.](http://9gag.com/gag/a87LMrV)
- - ⏩ [Dude](http://9gag.com/gag/aRBwV72)
- - 👉 [Honestly](http://9gag.com/gag/aGyYRO0)<!-- MEMES:END -->
+ - 💣 [Thats not a child thats a man and its sad. Bro deserves to be a kid.](http://9gag.com/gag/aKGw3Bg)
+ - ⏩ [Honestly](http://9gag.com/gag/aGyYRO0)
+ - 👉 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)<!-- MEMES:END -->
 
 ---
 
