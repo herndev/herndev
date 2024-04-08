@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)
- - [Filing: Denver-based digital marketing company Ibotta prices its 2.5M IPO shares at $76-$84 each, seeking to raise $472.5M; Ibotta had a $1B valuation in 2019 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p15#a240408p15)
- - [VPN Protocols Explained: What They are and Which to Use     - CNET](https://www.cnet.com/tech/services-and-software/vpn-protocols-explained-what-they-are-and-which-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A new bill would try to make tools like Zoom and Teams work together securely](https://www.theverge.com/2024/4/8/24119268/wyden-secure-interoperable-goverment-collaboration-technology-act-encryption)
+ - [Kia EV9 review: third row’s the charm](https://www.theverge.com/24106937/kia-ev9-review-suv-three-row-price-specs-photos)
+ - [Tesla faces a trial in San Jose this week over Apple engineer Walter Huang&#39;s fatal Autopilot crash in 2018; Tesla prevailed in two previous California trials &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/240408/p18#a240408p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
