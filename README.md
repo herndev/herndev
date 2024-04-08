@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
- - ⏩ [Title](http://9gag.com/gag/aO8ogdM)
- - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
+ - 💣 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
+ - ⏩ [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 👉 [Hey](http://9gag.com/gag/aO8KmAN)<!-- MEMES:END -->
 
 ---
 
