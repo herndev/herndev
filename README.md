@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox President ‘Remains Committed’ To Backwards Compatibility, Game Preservation](https://kotaku.com/xbox-president-game-preservation-backward-compatibility-1851394841)
- - [Dragon’s Dogma 2’s Clock Is Hidden In Plain Sight](https://kotaku.com/dragons-dogma-2-tell-time-menu-clock-1851394765)
- - [Throne of Bone is a devilish roguelike autobattler where you play the bad guy in a skull-driven economy](https://www.pcgamer.com/games/roguelike/throne-of-bone-is-a-devilish-roguelike-autobattler-where-you-play-the-bad-guy-in-a-skull-driven-economy)<!-- GAME:END -->
+ - [Jonathan Majors has been found guilty of assault and harassment](https://www.polygon.com/23691310/jonathan-majors-domestic-violence-allegations-kang-mcu-recast)
+ - [&#39;No interplanetary boundaries can contain her rage&#39;: Baldur&#39;s Gate 3 lover and reigning wrestling champ Athena defends her title in the Ring of Honor as Karlach made flesh](https://www.pcgamer.com/games/baldurs-gate/no-interplanetary-boundaries-can-contain-her-rage-baldurs-gate-3-lover-and-reigning-wrestling-champ-athena-defends-her-title-in-the-ring-of-honor-as-karlach-made-flesh)
+ - [Dragon’s Dogma 2 guides, walkthroughs, and explainers](https://www.polygon.com/dragons-dogma-2-guide/24109068/quests-walkthroughs-explainers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
