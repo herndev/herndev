@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The US seeks not just to block China&#39;s access to advanced chip making tech, it wants to ban servicing on the equipment it already has](https://www.pcgamer.com/hardware/the-us-seeks-not-just-to-block-chinas-access-to-advanced-chip-making-tech-it-wants-to-ban-servicing-on-the-equipment-it-already-has)
- - [Five new Steam games you probably missed &lpar;April 8, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-8-2024)
- - [Check out this indie fusion of Terraria and Satisfactory](https://www.pcgamer.com/games/survival-crafting/check-out-this-indie-fusion-of-terraria-and-satisfactory)<!-- GAME:END -->
+ - [There&#39;s a Dragon&#39;s Dogma 2 mod to make pawns shut the hell up and thank goodness for that](https://www.pcgamer.com/games/action/theres-a-dragons-dogma-2-mod-to-make-your-pawns-shut-the-hell-up-and-thank-goodness-for-that)
+ - [Today&#39;s Wordle answer for Monday, April 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-8-2024)
+ - [The US seeks not just to block China&#39;s access to advanced chip making tech, it wants to ban servicing on the equipment it already has](https://www.pcgamer.com/hardware/the-us-seeks-not-just-to-block-chinas-access-to-advanced-chip-making-tech-it-wants-to-ban-servicing-on-the-equipment-it-already-has)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
