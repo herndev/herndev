@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A meme for every line in LotR: day 459](http://9gag.com/gag/a1mvMXY)
- - ⏩ [Half life speed run](http://9gag.com/gag/aW4QOjx)
- - 👉 [Don\u2019t laugh](http://9gag.com/gag/a9ybLB6)<!-- MEMES:END -->
+ - 💣 [Men will be men](http://9gag.com/gag/aVvzDzO)
+ - ⏩ [He should have ended with. Hey son. Isn\u2019t that the girl you have a crush on?](http://9gag.com/gag/aD2A3nx)
+ - 👉 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
 
 ---
 
