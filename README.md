@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new Lego D&amp;D crossover set is pricey, but you can snag its fun, hot-wing filled adventure as a free PDF](https://www.pcgamer.com/games/board-games/the-new-lego-dandd-crossover-set-is-pricey-but-you-can-snag-its-fun-hot-wing-filled-adventure-as-a-free-pdf)
  - [&#39;Hang in there&#39;: A fix for all those Helldivers 2 freeze-ups should ideally land &#39;well before the Warbond&#39;, says community manager](https://www.pcgamer.com/games/third-person-shooter/hang-in-there-a-fix-for-all-those-helldivers-2-freeze-ups-should-ideally-land-well-before-the-warbond-says-community-manager)
- - [Nvidia&#39;s mainstream GPUs might increase in price worldwide, as the demand in China outstrips supply](https://www.pcgamer.com/hardware/graphics-cards/nvidias-mainstream-gpus-might-increase-in-price-worldwide-as-the-demand-in-china-outstrips-supply)
- - [A comprehensive online privacy bill is one step closer after US Congressional leaders reach a tentative bipartisan deal](https://www.pcgamer.com/software/security/a-comprehensive-online-privacy-bill-is-one-step-closer-after-us-congressional-leaders-reach-a-tentative-bipartisan-deal)<!-- GAME:END -->
+ - [Nvidia&#39;s mainstream GPUs might increase in price worldwide, as the demand in China outstrips supply](https://www.pcgamer.com/hardware/graphics-cards/nvidias-mainstream-gpus-might-increase-in-price-worldwide-as-the-demand-in-china-outstrips-supply)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
