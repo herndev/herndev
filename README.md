@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Brazilian Supreme Court justice opens inquiry into Elon Musk for obstruction of justice involving X and says X faces ~$20K/day in fines if it does not comply &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/240407/p9#a240407p9)
  - [Amazon, Best Buy battle for lowest iPad prices, with deals from $249](https://appleinsider.com/articles/24/04/07/amazon-best-buy-battle-for-lowest-ipad-prices-with-deals-from-249?utm_medium=rss)
- - [Lawmakers share a draft of the American Privacy Rights Act, which would create a registry of data brokers, let consumers opt out of some data collection, more &lpar;Orion Donovan Smith/Spokesman.com&rpar;](http://www.techmeme.com/240407/p8#a240407p8)
- - [Best Mother&#39;s Day Gifts for a Mom Who Cooks, Eats, Drinks &lpar;or Does All Three&rpar;     - CNET](https://www.cnet.com/news/best-mothers-day-food-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lawmakers share a draft of the American Privacy Rights Act, which would create a registry of data brokers, let consumers opt out of some data collection, more &lpar;Orion Donovan Smith/Spokesman.com&rpar;](http://www.techmeme.com/240407/p8#a240407p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
