@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Brazilian Supreme Court justice opens inquiry into Elon Musk for obstruction of justice involving X and says X faces ~$20K/day in fines if it does not comply &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/240407/p9#a240407p9)
- - [Amazon, Best Buy battle for lowest iPad prices, with deals from $249](https://appleinsider.com/articles/24/04/07/amazon-best-buy-battle-for-lowest-ipad-prices-with-deals-from-249?utm_medium=rss)
- - [Lawmakers share a draft of the American Privacy Rights Act, which would create a registry of data brokers, let consumers opt out of some data collection, more &lpar;Orion Donovan Smith/Spokesman.com&rpar;](http://www.techmeme.com/240407/p8#a240407p8)<!-- TECH:END -->
+ - [Solar Eclipse Eye Safety: How to Protect Your Eyes When Viewing Nature&#39;s Wonder     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-eye-safety-why-you-need-to-wear-the-right-glasses/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 8, #1024     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-8-1024/#ftag=CAD590a51e)
+ - [A Brazilian Supreme Court justice opens inquiry into Elon Musk for obstruction of justice involving X and says X faces ~$20K/day in fines if it does not comply &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/240407/p9#a240407p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
