@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new bill would try to make tools like Zoom and Teams work together securely](https://www.theverge.com/2024/4/8/24119268/wyden-secure-interoperable-goverment-collaboration-technology-act-encryption)
- - [Kia EV9 review: third row’s the charm](https://www.theverge.com/24106937/kia-ev9-review-suv-three-row-price-specs-photos)
- - [Tesla faces a trial in San Jose this week over Apple engineer Walter Huang&#39;s fatal Autopilot crash in 2018; Tesla prevailed in two previous California trials &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/240408/p18#a240408p18)<!-- TECH:END -->
+ - [Lots of new robovacs, bright LifX bulbs, &amp; Mophie Qi2 car charger on HomeKit Insider](https://appleinsider.com/articles/24/04/08/lots-of-new-robovacs-bright-lifx-bulbs-mophie-qi2-car-charger-on-homekit-insider?utm_medium=rss)
+ - [Solana grapples with congestion issues, leading to delays in transaction processing and transactions being dropped, due to spam transactions and memecoins &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240408/p20#a240408p20)
+ - [Why Cloudflare CEO Matthew Prince is the internet’s unlikely defender](https://www.theverge.com/24121399/cloudflare-matthew-prince-internet-free-speech-8chan-ukraine-aristotle-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
