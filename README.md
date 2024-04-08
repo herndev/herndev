@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly](http://9gag.com/gag/aGyYRO0)
- - ⏩ [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
- - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
+ - 💣 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - ⏩ [I sometimes wonder if the Western world is going to be somewhat normal again.](http://9gag.com/gag/a7oLy4w)
+ - 👉 [Repost deluxe](http://9gag.com/gag/amoNXoy)<!-- MEMES:END -->
 
 ---
 
