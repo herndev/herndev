@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - ⏩ [I sometimes wonder if the Western world is going to be somewhat normal again.](http://9gag.com/gag/a7oLy4w)
- - 👉 [Repost deluxe](http://9gag.com/gag/amoNXoy)<!-- MEMES:END -->
+ - 💣 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)
+ - ⏩ [Honestly](http://9gag.com/gag/aGyYRO0)
+ - 👉 [Clearly he&#39;s never been to a waffle house](http://9gag.com/gag/an7qNVL)<!-- MEMES:END -->
 
 ---
 
