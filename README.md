@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Walking Dead Lake Edition](http://9gag.com/gag/a4PKLxp)
- - ⏩ [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
- - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
+ - 💣 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - ⏩ [A very thoughtful and kind gesture](http://9gag.com/gag/awy07LD)
+ - 👉 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)<!-- MEMES:END -->
 
 ---
 
