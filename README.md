@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)
- - ⏩ [Hey](http://9gag.com/gag/aO8KmAN)
- - 👉 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)<!-- MEMES:END -->
+ - 💣 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)
+ - ⏩ [Neurons Activated](http://9gag.com/gag/aGyYVvX)
+ - 👉 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)<!-- MEMES:END -->
 
 ---
 
