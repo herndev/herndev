@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: after months of staffers sniping about the war in Gaza, Google is tweaking its internal message board Memegen, removing &quot;thumbs down&quot;, post metrics, more &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240408/p24#a240408p24)
- - [Google debuts its Find My Device network in the US and Canada, initially to find Android phones and tablets; support for 3rd-party tracker tags is coming in May &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240408/p23#a240408p23)
- - [Google Home adds new routine option to read out your Fitbit stats](https://www.androidauthority.com/google-home-fitbit-routine-3432318/)<!-- TECH:END -->
+ - [The total eclipse shows us how important solar energy is to the US](https://www.theverge.com/2024/4/8/24124189/solar-eclipse-renewable-energy-panels-electricity-grid)
+ - [CYRILL UltraColor case for Samsung Galaxy S24 review: Should you buy it?](https://www.androidauthority.com/cyrill-ultracolor-case-samsung-galaxy-s24-review-3431275/)
+ - [Retro&#39;s back: the best wrap-around game controllers for your iPhone](https://appleinsider.com/inside/iphone/best/retros-back-the-best-wrap-around-game-controllers-for-your-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
