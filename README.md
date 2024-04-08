@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men will be men](http://9gag.com/gag/aVvzDzO)
- - ⏩ [He should have ended with. Hey son. Isn\u2019t that the girl you have a crush on?](http://9gag.com/gag/aD2A3nx)
- - 👉 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
+ - 💣 [Walking Dead Lake Edition](http://9gag.com/gag/a4PKLxp)
+ - ⏩ [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
+ - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---
 
