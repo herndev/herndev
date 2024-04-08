@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Antman in Thanos&#39; ass](http://9gag.com/gag/a7oLbYr)
- - ⏩ [Such a good grip](http://9gag.com/gag/a87LWDp)
- - 👉 [Wow !](http://9gag.com/gag/aYQNpPN)<!-- MEMES:END -->
+ - 💣 [Actually...](http://9gag.com/gag/abAXqMv)
+ - ⏩ [Hahahaha](http://9gag.com/gag/an7qXNB)
+ - 👉 [Not every leap in technology is considered an advancement.](http://9gag.com/gag/avypZAX)<!-- MEMES:END -->
 
 ---
 
