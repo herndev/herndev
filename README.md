@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jonathan Majors has been found guilty of assault and harassment](https://www.polygon.com/23691310/jonathan-majors-domestic-violence-allegations-kang-mcu-recast)
- - [&#39;No interplanetary boundaries can contain her rage&#39;: Baldur&#39;s Gate 3 lover and reigning wrestling champ Athena defends her title in the Ring of Honor as Karlach made flesh](https://www.pcgamer.com/games/baldurs-gate/no-interplanetary-boundaries-can-contain-her-rage-baldurs-gate-3-lover-and-reigning-wrestling-champ-athena-defends-her-title-in-the-ring-of-honor-as-karlach-made-flesh)
- - [Dragon’s Dogma 2 guides, walkthroughs, and explainers](https://www.polygon.com/dragons-dogma-2-guide/24109068/quests-walkthroughs-explainers)<!-- GAME:END -->
+ - [Fallout TV Series Already Gearing Up For Second Season](https://kotaku.com/fallout-amazon-tv-show-season-2-confirmed-release-date-1851395200)
+ - [Race at Brands Hatch in Forza Motorsport Update 7](https://forza.net/news/forza-motorsport-update-7)
+ - [Dragon&#39;s Dogma 2&#39;s true ending is a high point for RPG climaxes](https://www.pcgamer.com/games/rpg/dragons-dogma-2s-true-ending-is-a-high-point-for-rpg-climaxes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
