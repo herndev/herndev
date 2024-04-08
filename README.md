@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sunshine is the movie to watch on eclipse day](https://www.polygon.com/24122359/eclipse-2024-movie-to-watch-sunshine)
- - [Want Your Dragon’s Dogma 2 Pawns To Shut Up? There’s A Mod For That](https://kotaku.com/dragons-dogma-2-pawns-banter-talk-turn-off-settings-mod-1851394683)
- - [The Wii U was secretly revolutionary — and its online services are finally ending](https://www.polygon.com/24118967/wii-u-offline-retrospective-nintendo)<!-- GAME:END -->
+ - [Xbox President ‘Remains Committed’ To Backwards Compatibility, Game Preservation](https://kotaku.com/xbox-president-game-preservation-backward-compatibility-1851394841)
+ - [Dragon’s Dogma 2’s Clock Is Hidden In Plain Sight](https://kotaku.com/dragons-dogma-2-tell-time-menu-clock-1851394765)
+ - [Throne of Bone is a devilish roguelike autobattler where you play the bad guy in a skull-driven economy](https://www.pcgamer.com/games/roguelike/throne-of-bone-is-a-devilish-roguelike-autobattler-where-you-play-the-bad-guy-in-a-skull-driven-economy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
