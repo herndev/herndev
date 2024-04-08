@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FF7 Rebirth: How To Give Odin The Beatdown He Deserves](https://kotaku.com/final-fantasy-7-rebirth-ff7-odin-fight-how-to-beat-1851395590)
- - [Friday the 13: The Game has been killed one more time: Fan-made &#39;Resurrection&#39; project derailed by lawyers over &#39;cavalier disregard of copyright law&#39;](https://www.pcgamer.com/games/horror/friday-the-13-the-game-has-been-killed-one-more-time-fan-made-resurrection-project-derailed-by-lawyers-over-cavalier-disregard-of-copyright-law)
- - [Xbox Insider Release Notes – Alpha &lpar;2405.240404-2000&rpar;](https://news.xbox.com/en-us/2024/04/08/xbox-insider-release-notes-alpha-2405-240404-2000/)<!-- GAME:END -->
+ - [League of Legends is getting a Vampire Survivors-style mode this summer](https://www.polygon.com/24124492/league-of-legends-survivor-spin-off-summer-event)
+ - [Where to find all Seeker’s Tokens in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107917/seekers-tokens-vermund-map-location-reward)
+ - [This indie game is about the struggles of pooping on the clock](https://www.polygon.com/24124475/please-leave-me-alone-im-pooping-indie-game-presentation-warioware)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
