@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lots of new robovacs, bright LifX bulbs, &amp; Mophie Qi2 car charger on HomeKit Insider](https://appleinsider.com/articles/24/04/08/lots-of-new-robovacs-bright-lifx-bulbs-mophie-qi2-car-charger-on-homekit-insider?utm_medium=rss)
- - [Solana grapples with congestion issues, leading to delays in transaction processing and transactions being dropped, due to spam transactions and memecoins &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240408/p20#a240408p20)
- - [Why Cloudflare CEO Matthew Prince is the internet’s unlikely defender](https://www.theverge.com/24121399/cloudflare-matthew-prince-internet-free-speech-8chan-ukraine-aristotle-decoder-interview)<!-- TECH:END -->
+ - [Apple&#39;s privacy rules are stifling Apple Vision Pro apps, for now](https://appleinsider.com/articles/24/04/08/apples-privacy-rules-are-stifling-apple-vision-pro-apps-for-now?utm_medium=rss)
+ - [Nielsen data from 2021 to 2023: nine of the ten most-watched streaming programs are reruns, but a majority of the 100 most popular titles are original series &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p21#a240408p21)
+ - [I can’t recommend this Animal Crossing Switch Lite bundle enough](https://www.theverge.com/2024/4/8/24124212/animal-crossing-switch-lite-deal-walmart)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
