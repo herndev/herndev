@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
- - ⏩ [What did he do?](http://9gag.com/gag/aVvzW4y)
- - 👉 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)<!-- MEMES:END -->
+ - 💣 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)
+ - ⏩ [Hahahaha](http://9gag.com/gag/an7qXNB)
+ - 👉 [Buy a good pair of slippers next time.](http://9gag.com/gag/aW4QOQd)<!-- MEMES:END -->
 
 ---
 
