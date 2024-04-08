@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude](http://9gag.com/gag/aRBwV72)
- - ⏩ [Ontario, Canada.](http://9gag.com/gag/a87LMrV)
- - 👉 [Summer Lemonade, My oil painting](http://9gag.com/gag/ae9jGAO)<!-- MEMES:END -->
+ - 💣 [Ontario, Canada.](http://9gag.com/gag/a87LMrV)
+ - ⏩ [Dude](http://9gag.com/gag/aRBwV72)
+ - 👉 [Honestly](http://9gag.com/gag/aGyYRO0)<!-- MEMES:END -->
 
 ---
 
