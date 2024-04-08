@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splinter Cell fans are getting excited about a possible update on the remake in June](https://www.pcgamer.com/games/action/splinter-cell-fans-are-getting-excited-about-a-possible-update-on-the-remake-in-june)
- - [WoW Classic Season of Discovery devs are aiming for &#39;fun,&#39; not &#39;perfect balance&#39;](https://www.pcgamer.com/games/mmo/wow-classic-season-of-discovery-balance-fun)
- - [Wish, Netflix’s Scoop, The Zone of Interest, and every new movie to watch this weekend](https://www.polygon.com/2024/4/5/24117836/new-movies-watch-wish-disney-plus-scoop-netflix-zone-of-interest-max)<!-- GAME:END -->
+ - [Check out this indie fusion of Terraria and Satisfactory](https://www.pcgamer.com/games/survival-crafting/check-out-this-indie-fusion-of-terraria-and-satisfactory)
+ - [No Man&#39;s Sky lead Sean Murray celebrates a 1% improvement in Steam reviews because each point is just that much harder to earn than the last](https://www.pcgamer.com/games/sim/no-mans-sky-lead-sean-murray-celebrates-a-1-improvement-in-steam-reviews-because-each-point-is-just-that-much-harder-to-earn-than-the-last)
+ - [9 years in, rhythm dungeon crawler Crypt of the NecroDancer just got a Hatsune Miku crossover DLC](https://www.pcgamer.com/games/roguelike/9-years-in-rhythm-dungeon-crawler-crypt-of-the-necrodancer-just-got-a-hatsune-miku-crossover-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
