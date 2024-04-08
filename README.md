@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)
- - ⏩ [Hahahaha](http://9gag.com/gag/an7qXNB)
- - 👉 [Buy a good pair of slippers next time.](http://9gag.com/gag/aW4QOQd)<!-- MEMES:END -->
+ - 💣 [Hahahaha](http://9gag.com/gag/an7qXNB)
+ - ⏩ [Nows that&#39;s what you call distraction](http://9gag.com/gag/avyp0qX)
+ - 👉 [There&#39;s a reason the one that made it was called Apollo 11. They had to completely redesign from scratch over and over, and change all their working practices to prioritise, above all, the safety of the pilots.](http://9gag.com/gag/ae9jpBq)<!-- MEMES:END -->
 
 ---
 
