@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung predicts a bumper 2024, forecasting a 900% increase in profits for the first three months of the year](https://www.pcgamer.com/hardware/samsung-predicts-a-bumper-2024-forecasting-a-900-increase-in-profits-for-the-first-three-months-of-the-year)
- - [The new Lego D&amp;D crossover set is pricey, but you can snag its fun, hot-wing filled adventure as a free PDF](https://www.pcgamer.com/games/board-games/the-new-lego-dandd-crossover-set-is-pricey-but-you-can-snag-its-fun-hot-wing-filled-adventure-as-a-free-pdf)
- - [&#39;Hang in there&#39;: A fix for all those Helldivers 2 freeze-ups should ideally land &#39;well before the Warbond&#39;, says community manager](https://www.pcgamer.com/games/third-person-shooter/hang-in-there-a-fix-for-all-those-helldivers-2-freeze-ups-should-ideally-land-well-before-the-warbond-says-community-manager)<!-- GAME:END -->
+ - [Sunshine is the movie to watch on eclipse day](https://www.polygon.com/24122359/eclipse-2024-movie-to-watch-sunshine)
+ - [Want Your Dragon’s Dogma 2 Pawns To Shut Up? There’s A Mod For That](https://kotaku.com/dragons-dogma-2-pawns-banter-talk-turn-off-settings-mod-1851394683)
+ - [The Wii U was secretly revolutionary — and its online services are finally ending](https://www.polygon.com/24118967/wii-u-offline-retrospective-nintendo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
