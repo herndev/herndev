@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)
- - ⏩ [Favorite](http://9gag.com/gag/a4PKj4d)
- - 👉 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)<!-- MEMES:END -->
+ - 💣 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)
+ - ⏩ [This 2$ treadmill is breaking the internet of poor people](http://9gag.com/gag/a0e8j0v)
+ - 👉 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
 
 ---
 
