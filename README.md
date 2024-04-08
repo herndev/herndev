@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Samsung predicts a bumper 2024, forecasting a 900% increase in profits for the first three months of the year](https://www.pcgamer.com/hardware/samsung-predicts-a-bumper-2024-forecasting-a-900-increase-in-profits-for-the-first-three-months-of-the-year)
  - [The new Lego D&amp;D crossover set is pricey, but you can snag its fun, hot-wing filled adventure as a free PDF](https://www.pcgamer.com/games/board-games/the-new-lego-dandd-crossover-set-is-pricey-but-you-can-snag-its-fun-hot-wing-filled-adventure-as-a-free-pdf)
- - [&#39;Hang in there&#39;: A fix for all those Helldivers 2 freeze-ups should ideally land &#39;well before the Warbond&#39;, says community manager](https://www.pcgamer.com/games/third-person-shooter/hang-in-there-a-fix-for-all-those-helldivers-2-freeze-ups-should-ideally-land-well-before-the-warbond-says-community-manager)
- - [Nvidia&#39;s mainstream GPUs might increase in price worldwide, as the demand in China outstrips supply](https://www.pcgamer.com/hardware/graphics-cards/nvidias-mainstream-gpus-might-increase-in-price-worldwide-as-the-demand-in-china-outstrips-supply)<!-- GAME:END -->
+ - [&#39;Hang in there&#39;: A fix for all those Helldivers 2 freeze-ups should ideally land &#39;well before the Warbond&#39;, says community manager](https://www.pcgamer.com/games/third-person-shooter/hang-in-there-a-fix-for-all-those-helldivers-2-freeze-ups-should-ideally-land-well-before-the-warbond-says-community-manager)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
