@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends is getting a Vampire Survivors-style mode this summer](https://www.polygon.com/24124492/league-of-legends-survivor-spin-off-summer-event)
- - [Where to find all Seeker’s Tokens in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107917/seekers-tokens-vermund-map-location-reward)
- - [This indie game is about the struggles of pooping on the clock](https://www.polygon.com/24124475/please-leave-me-alone-im-pooping-indie-game-presentation-warioware)<!-- GAME:END -->
+ - [Wayfinder sales halted as developer promises a major rework of the game: &#39;We have no plans for it to disappear like so many online-only games&#39;](https://www.pcgamer.com/games/rpg/wayfinder-sales-halted-as-developer-promises-a-major-rework-of-the-game-we-have-no-plans-for-it-to-disappear-like-so-many-online-only-games)
+ - [FFXIV ocean fishing beginner’s tips and bait list](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24122128/ocean-fishing-unlock-schedule-bait-routes-beginners-tips)
+ - [Dragon Dogma 2’s cursed endgame is nothing but dessert](https://www.polygon.com/24124389/dragon-dogma-2s-endgame-unmoored-fast-travel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
