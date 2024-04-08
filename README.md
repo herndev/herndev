@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)
- - ⏩ [Neurons Activated](http://9gag.com/gag/aGyYVvX)
- - 👉 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)<!-- MEMES:END -->
+ - 💣 [Dude](http://9gag.com/gag/aRBwV72)
+ - ⏩ [Ontario, Canada.](http://9gag.com/gag/a87LMrV)
+ - 👉 [Summer Lemonade, My oil painting](http://9gag.com/gag/ae9jGAO)<!-- MEMES:END -->
 
 ---
 
