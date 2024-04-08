@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)
- - ⏩ [Honestly](http://9gag.com/gag/aGyYRO0)
- - 👉 [Clearly he&#39;s never been to a waffle house](http://9gag.com/gag/an7qNVL)<!-- MEMES:END -->
+ - 💣 [Force vs Strategy](http://9gag.com/gag/agm30b1)
+ - ⏩ [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
+ - 👉 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)<!-- MEMES:END -->
 
 ---
 
