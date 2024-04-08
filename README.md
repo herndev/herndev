@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A comprehensive online privacy bill is one step closer after US Congressional leaders reach a tentative bipartisan deal](https://www.pcgamer.com/software/security/a-comprehensive-online-privacy-bill-is-one-step-closer-after-us-congressional-leaders-reach-a-tentative-bipartisan-deal)
  - [There&#39;s a Dragon&#39;s Dogma 2 mod to make pawns shut the hell up and thank goodness for that](https://www.pcgamer.com/games/action/theres-a-dragons-dogma-2-mod-to-make-your-pawns-shut-the-hell-up-and-thank-goodness-for-that)
- - [Today&#39;s Wordle answer for Monday, April 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-8-2024)
- - [The US seeks not just to block China&#39;s access to advanced chip making tech, it wants to ban servicing on the equipment it already has](https://www.pcgamer.com/hardware/the-us-seeks-not-just-to-block-chinas-access-to-advanced-chip-making-tech-it-wants-to-ban-servicing-on-the-equipment-it-already-has)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, April 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-8-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
