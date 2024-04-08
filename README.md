@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goodbye, peaceful, clean, respectful and low-crime Japan](http://9gag.com/gag/aXP0p7P)
- - ⏩ [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 👉 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)<!-- MEMES:END -->
+ - 💣 [Antman in Thanos&#39; ass](http://9gag.com/gag/a7oLbYr)
+ - ⏩ [Such a good grip](http://9gag.com/gag/a87LWDp)
+ - 👉 [Wow !](http://9gag.com/gag/aYQNpPN)<!-- MEMES:END -->
 
 ---
 
