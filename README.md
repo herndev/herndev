@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybertech Global and IVC: in 2023, Israeli cybersecurity exit deals grew by 65% YoY to $7.1B; total tech sector exits were ~$11B, down from $13.5B in 2022 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240408/p5#a240408p5)
- - [Samsung Galaxy Watch 7 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
- - [There’s no Galaxy Watch FE, according to leaker, but a cheaper watch is coming](https://www.androidauthority.com/no-galaxy-watch-fe-leaker-cheaper-watch-3432141/)<!-- TECH:END -->
+ - [Emails: Xbox President Sarah Bond establishes a game preservation team, and reiterates plans for the next Xbox to aim for the &quot;biggest technical leap ever&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/240408/p9#a240408p9)
+ - [Lime plans to spend $55M in 2024 to expand its e-bike fleet, adding 30K+ bikes in North America and elsewhere, and reports 2023 gross bookings up 32% to $616M &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240408/p8#a240408p8)
+ - [More and more people are ditching carrier roaming in favor of travel eSIMs](https://www.androidauthority.com/travel-esim-vs-roaming-3432183/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
