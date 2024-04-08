@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Force vs Strategy](http://9gag.com/gag/agm30b1)
- - ⏩ [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
- - 👉 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)<!-- MEMES:END -->
+ - 💣 [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)
+ - ⏩ [Hey](http://9gag.com/gag/aO8KmAN)
+ - 👉 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)<!-- MEMES:END -->
 
 ---
 
