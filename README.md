@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8&#39;s Steam rating takes a dive as fans lament &#39;scummy&#39; monetisation and battle pass](https://www.pcgamer.com/games/fighting/tekken-8s-steam-rating-takes-a-dive-as-fans-lament-scummy-monetisation-and-battle-pass)
- - [Destiny 2: The Final Shape Debuts New Subclass, Enemy Type, and Class Items](https://kotaku.com/destiny-2-the-final-shape-subclass-prismatic-dread-1851398657)
- - [World of Warcraft Classic continues to speedrun history with Cataclysm launching next month](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-classic-continues-to-speedrun-history-with-cataclysm-launching-next-month)<!-- GAME:END -->
+ - [How to finish ‘The Whisper’ and get Whisper of the Worm in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24124313/whisper-walkthrough-worm-exotic-pattern)
+ - [Helldivers 2 reward system will get an &#39;overhaul&#39; because right now it&#39;s &#39;about as reliable as a solar-powered watch in Malevelon Creek&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-reward-system-will-get-an-overhaul-because-right-now-its-about-as-reliable-as-a-solar-powered-watch-in-malevelon-creek)
+ - [Dredge, the vibes-heavy indie hit about fishing on a sea of otherworldly horrors, is being made into a movie](https://www.pcgamer.com/games/horror/dredge-the-vibes-heavy-indie-hit-about-fishing-on-a-sea-of-otherworldly-horrors-is-being-made-into-a-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
