@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He loves his squishy ball](http://9gag.com/gag/aqy9LpP)
- - ⏩ [Cat rescue from flooded house](http://9gag.com/gag/aAyRr9E)
- - 👉 [Legend](http://9gag.com/gag/aAyRpWd)<!-- MEMES:END -->
+ - 💣 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - ⏩ [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - 👉 [He is right, this woke bs should stop.](http://9gag.com/gag/aO8KvRD)<!-- MEMES:END -->
 
 ---
 
