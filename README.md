@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 💣 [My fellow passport bros](http://9gag.com/gag/amoNz66)
  - ⏩ [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 👉 [He is right, this woke bs should stop.](http://9gag.com/gag/aO8KvRD)<!-- MEMES:END -->
+ - 👉 [Favorite](http://9gag.com/gag/a4PKj4d)<!-- MEMES:END -->
 
 ---
 
