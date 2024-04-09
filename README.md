@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miku fans wanted a hologram concert — they got a TV show instead](https://www.theverge.com/2024/4/9/24125233/miku-expo-2024-hologram-screen-live-performance-fans-disappointed)
- - [Pop Music Is Mad. Social Media Loves It](https://www.wired.com/story/did-social-media-kill-the-pop-song/)
- - [Destiny 2: The Final Shape is going to break the game in a good way](https://www.theverge.com/2024/4/9/24125357/destiny-2-the-final-shape-prismatic-subclasses-preview)<!-- TECH:END -->
+ - [After iMessage setback, Beeper finds new life with WordPress owner](https://www.androidauthority.com/beeper-acquisition-automattic-3432804/)
+ - [Intel says its next-gen Lunar Lake laptop chips will have 100+ TOPS of performance in AI tasks and elements of Microsoft&#39;s Copilot will soon run locally on PCs &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240409/p28#a240409p28)
+ - [Apple expanding its Miami footprint with new offices and a retail store](https://appleinsider.com/articles/24/04/09/apple-expanding-its-miami-footprint-with-new-offices-and-a-retail-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
