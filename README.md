@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Android 15&#39;s Private Space feature, similar to Samsung&#39;s Secure Folder, which creates a separate profile for hiding apps and data &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240408/p35#a240408p35)
  - [Elon Musk says his posts did more to ‘financially impair’ X than help it](https://www.theverge.com/2024/4/8/24124810/elon-musk-says-his-posts-did-more-to-financially-impair-x-than-help-it)
- - [Tesla reaches settlement in autopilot death case of Apple engineer](https://appleinsider.com/articles/24/04/09/tesla-reaches-settlement-in-autopilot-death-case-of-apple-engineer?utm_medium=rss)
- - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sunrise Alarm Clocks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
