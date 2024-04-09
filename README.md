@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - ⏩ [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)
- - 👉 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)<!-- MEMES:END -->
+ - 💣 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)
+ - ⏩ [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 👉 [Oh no... Anyway](http://9gag.com/gag/a6ZmVy2)<!-- MEMES:END -->
 
 ---
 
