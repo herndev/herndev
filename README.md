@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fresh Pixel 8a leaks show off a matte-finish back and chunky bezels &lpar;Update&rpar;](https://www.androidauthority.com/pixel-8a-images-leak-3432394/)
- - [This Harry Potter special edition phone and tablet are an absolute treat for fans](https://www.androidauthority.com/harry-potter-special-edition-redmi-turbo-3-redmi-pad-pro-3432626/)
- - [Monad Labs, which is building a Layer 1 blockchain to rival Ethereum and Solana, raised $225M led by Paradigm and plans to launch its mainnet by the end of 2024 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240409/p17#a240409p17)<!-- TECH:END -->
+ - [The Aboard app is a totally different take on what an AI bot can do](https://www.theverge.com/2024/4/9/24124480/aboard-app-ai-bookmarks-project-management)
+ - [Peloton is a media company now, with media company problems](https://www.theverge.com/c/24105625/peloton-bike-tread-plus-business-valuation-history)
+ - [The Fairbuds noise-canceling earbuds have an easily swappable battery](https://www.theverge.com/2024/4/9/24125089/fairbuds-fairphone-noise-canceling-earbuds-battery-replace-repairability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
