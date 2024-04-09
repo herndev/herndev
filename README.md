@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
- - ⏩ [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 👉 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)<!-- MEMES:END -->
+ - 💣 [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)
+ - ⏩ [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 👉 [Oh no... Anyway](http://9gag.com/gag/a6ZmVy2)<!-- MEMES:END -->
 
 ---
 
