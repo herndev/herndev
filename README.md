@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - ⏩ [Golden](http://9gag.com/gag/aZZbBj0)
- - 👉 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)<!-- MEMES:END -->
+ - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
+ - ⏩ [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 👉 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)<!-- MEMES:END -->
 
 ---
 
