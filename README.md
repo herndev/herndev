@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly](http://9gag.com/gag/aGyYRO0)
- - ⏩ [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
- - 👉 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)<!-- MEMES:END -->
+ - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
+ - ⏩ [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 👉 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)<!-- MEMES:END -->
 
 ---
 
