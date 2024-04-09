@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Camera: All the features that you get on Google Pixel smartphones](https://www.androidauthority.com/google-camera-3365224/)
- - [Rumored Apple Watch Series 10 screen improvement will sip battery power](https://appleinsider.com/articles/24/04/09/rumored-apple-watch-series-10-screen-improvement-will-sip-battery-power?utm_medium=rss)
- - [How to get the best video capture possible on iPhone 15 Pro with ProRes](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-get-the-best-video-capture-possible-on-iphone-15-pro-with-prores?utm_medium=rss)<!-- TECH:END -->
+ - [A period piece, a contemporary drama, and a speculative sci-fi movie all in one](https://www.theverge.com/24124526/the-beast-bertrand-bonello-interview-lea-seydoux)
+ - [Make Coffee How You Like It With This $70 Keurig K-Slim Plus Iced Brewer From QVC     - CNET](https://www.cnet.com/deals/make-coffee-how-you-like-it-with-this-70-keurig-k-slim-plus-iced-brewer-from-qvc/#ftag=CAD590a51e)
+ - [eBay adds an AI-powered &quot;shop the look&quot; feature to its iOS app, with personalized recommendations for users that have viewed 10+ fashion items in six months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240409/p22#a240409p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
