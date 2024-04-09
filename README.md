@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)
- - [The Supercut app brings good Netflix to the Vision Pro](https://www.theverge.com/2024/4/8/24124534/supercut-netflix-vision-pro-app-4k-dolby-atmos-vision-visionos)
- - [Filing: Tesla settles a lawsuit over Apple engineer Walter Huang&#39;s 2018 fatal Autopilot crash a day before the trial was set to begin; details are not disclosed &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240408/p30#a240408p30)<!-- TECH:END -->
+ - [Sources: Applied Materials may scale back or cancel plans to open a $4B R&amp;D facility in Silicon Valley due to a lack of government funding &lpar;Shira Stein/San Francisco Chronicle&rpar;](http://www.techmeme.com/240408/p33#a240408p33)
+ - [The Internet Archive is hosting the new Aruba Collection, which contains 100K+ items from Aruba&#39;s National Library, National Archives, and other institutions &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240408/p32#a240408p32)
+ - [Tesla is settling with the family of the Apple engineer who died in an Autopilot crash](https://www.theverge.com/2024/4/8/24124744/tesla-autopilot-lawsuit-settlement-huang-death)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
