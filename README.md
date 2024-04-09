@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A period piece, a contemporary drama, and a speculative sci-fi movie all in one](https://www.theverge.com/24124526/the-beast-bertrand-bonello-interview-lea-seydoux)
- - [Make Coffee How You Like It With This $70 Keurig K-Slim Plus Iced Brewer From QVC     - CNET](https://www.cnet.com/deals/make-coffee-how-you-like-it-with-this-70-keurig-k-slim-plus-iced-brewer-from-qvc/#ftag=CAD590a51e)
- - [eBay adds an AI-powered &quot;shop the look&quot; feature to its iOS app, with personalized recommendations for users that have viewed 10+ fashion items in six months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240409/p22#a240409p22)<!-- TECH:END -->
+ - [Google Photos’s storage-saving feature could be coming to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-app-storage-saver-3432745/)
+ - [Both the release and beta visionOS versions get minor updates](https://appleinsider.com/articles/24/04/09/both-the-release-and-beta-visionos-versions-get-minor-updates?utm_medium=rss)
+ - [In London, Meta execs downplayed the negative impact of AI on elections, touted open-source AI, and confirmed Llama&#39;s next version will arrive by next month &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240409/p24#a240409p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
