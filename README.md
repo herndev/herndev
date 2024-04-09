@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty&#39;s new Godzilla X Kong B.E.A.S.T. Glove costs $80 worth of in-game points, and it won&#39;t even corpse-launch your enemies](https://www.pcgamer.com/games/call-of-duty/call-of-dutys-new-godzilla-x-kong-beast-glove-costs-dollar80-worth-of-in-game-points-and-it-wont-even-corpse-launch-your-enemies)
- - [Palworld tactical genius melts through the 294,000 HP of its new raid boss in seconds by spamming a frame rate-destroying platoon of dragons](https://www.pcgamer.com/games/survival-crafting/palworld-tactical-genius-melts-through-the-294000-hp-of-its-new-raid-boss-in-seconds-by-spamming-a-frame-rate-destroying-platoon-of-dragons)
- - [Demon Slayer season 4 gets official premiere date, new trailer](https://www.polygon.com/23979916/demon-slayer-season-4-everything-we-know)<!-- GAME:END -->
+ - [I Hate This FF7 Rebirth’s Character Whole Vibe](https://kotaku.com/final-fantasy-7-rebirth-chadley-mai-square-enix-1851397370)
+ - [President Biden says he&#39;ll hand $6.6 billion to world&#39;s largest chipmaker to stick around and expand in Arizona](https://www.pcgamer.com/hardware/processors/president-biden-says-hell-hand-dollar66-billion-to-worlds-largest-chipmaker-to-stick-around-and-expand-in-arizona)
+ - [Intel Battlemage reportedly headed our way before Black Friday](https://www.pcgamer.com/hardware/graphics-cards/intel-battlemage-reportedly-headed-our-way-before-black-friday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
