@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 hotfix takes swings at a whole hive of crash culprits, so you should be able to deploy more reliably now](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-hotfix-takes-swings-at-a-whole-hive-of-crash-culprits-so-you-should-be-able-to-deploy-more-reliably-now)
  - [What time does Destiny 2: Into the Light release?](https://www.polygon.com/destiny-2-guide-walkthrough/2024/4/8/24124350/into-the-light-start-time-release-date)
- - [Can Croagunk be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24124309/can-croagunk-be-shiny-toxicroak)
- - [Today&#39;s Wordle answer for Tuesday, April 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-9-2024)<!-- GAME:END -->
+ - [Can Croagunk be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24124309/can-croagunk-be-shiny-toxicroak)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
