@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [9 years after its unlikely comeback, The Elder Scrolls Online has made nearly $2 billion in lifetime revenue](https://www.pcgamer.com/games/the-elder-scrolls/9-years-after-its-unlikely-comeback-the-elder-scrolls-online-has-made-nearly-dollar2-billion-in-lifetime-revenue)
- - [EA enlists Dead Space remake team to work on next Battlefield game](https://www.polygon.com/24125300/ea-battlefield-motive-studios-dead-space-remake-iron-man)
- - [Helldivers 2 fans are shaken by the sudden return of Automatons](https://www.polygon.com/24125619/helldivers-2-galactic-war-automaton-return-cyberstan)<!-- GAME:END -->
+ - [Tekken 8&#39;s Steam rating takes a dive as fans lament &#39;scummy&#39; monetisation and battle pass](https://www.pcgamer.com/games/fighting/tekken-8s-steam-rating-takes-a-dive-as-fans-lament-scummy-monetisation-and-battle-pass)
+ - [Destiny 2: The Final Shape Debuts New Subclass, Enemy Type, and Class Items](https://kotaku.com/destiny-2-the-final-shape-subclass-prismatic-dread-1851398657)
+ - [World of Warcraft Classic continues to speedrun history with Cataclysm launching next month](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-classic-continues-to-speedrun-history-with-cataclysm-launching-next-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
