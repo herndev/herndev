@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google sums up 2023&#39;s security exploits: the good news is fixes are blocking some types of zero-day attack. The bad news is Windows has seen more than most](https://www.pcgamer.com/software/security/google-sums-up-2023s-security-exploits-the-good-news-is-fixes-are-blocking-some-types-of-zero-day-attack-the-bad-news-is-windows-has-seen-more-than-most)
- - [What time does Helldivers 2’s Democratic Detonation Warbond release?](https://www.polygon.com/guides/2024/4/9/24122746/helldivers-2-democratic-detonation-warbond-start-time-release-date)
- - [This slick and experimental soulslike takes about 15 seconds to get you feeling empathy for a triangle](https://www.pcgamer.com/games/action/this-slick-and-experimental-soulslike-takes-about-15-seconds-to-get-you-feeling-empathy-for-a-triangle)<!-- GAME:END -->
+ - [The best gaming chairs to cozy up to in 2024](https://www.polygon.com/what-to-buy/23885770/best-gaming-chairs)
+ - [During a deposition his lawyer tried to keep confidential, Elon Musk says &#39;people are attacked all the time&#39; on social media, but it rarely has &#39;a meaningful negative impact on their life&#39;](https://www.pcgamer.com/software/platforms/during-a-deposition-his-lawyer-tried-to-keep-confidential-elon-musk-says-people-are-attacked-all-the-time-on-social-media-but-it-rarely-has-a-meaningful-negative-impact-on-their-life)
+ - [Star Wars Outlaws Release Date Leaks After YouTube Flub](https://kotaku.com/star-wars-outlaws-release-date-story-trailer-ubisoft-1851396930)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
