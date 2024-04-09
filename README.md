@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the trackers, headphones, and more devices that will work with Google’s Find My Device network](https://www.androidauthority.com/find-my-device-compatible-bluetooth-trackers-earbuds-headphones-3432496/)
- - [Sources: Cruise plans to resume its robotaxi service with safety drivers in Phoenix as early as April 9; Cruise says it &quot;had not set a timeline for deployment&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240409/p2#a240409p2)
- - [Interviews with 12+ former and current employees: ByteDance faces backlash from its US TikTok staff over large tax bills on stock shares they are unable to sell &lpar;Financial Times&rpar;](http://www.techmeme.com/240409/p1#a240409p1)<!-- TECH:END -->
+ - [Tensor G3 performance per watt: How efficient is Google’s top chipset?](https://www.androidauthority.com/google-tensor-g3-performance-per-watt-3432137/)
+ - [The Pixel 9 is months away, but the Google app just mentioned it](https://www.androidauthority.com/google-app-mention-pixel-9-3432505/)
+ - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
