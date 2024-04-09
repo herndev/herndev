@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - ⏩ [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
- - 👉 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)<!-- MEMES:END -->
+ - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - ⏩ [Fact](http://9gag.com/gag/aE0vzLo)
+ - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
 
 ---
 
