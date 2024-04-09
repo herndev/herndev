@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Hate This FF7 Rebirth’s Character Whole Vibe](https://kotaku.com/final-fantasy-7-rebirth-chadley-mai-square-enix-1851397370)
- - [President Biden says he&#39;ll hand $6.6 billion to world&#39;s largest chipmaker to stick around and expand in Arizona](https://www.pcgamer.com/hardware/processors/president-biden-says-hell-hand-dollar66-billion-to-worlds-largest-chipmaker-to-stick-around-and-expand-in-arizona)
- - [Intel Battlemage reportedly headed our way before Black Friday](https://www.pcgamer.com/hardware/graphics-cards/intel-battlemage-reportedly-headed-our-way-before-black-friday)<!-- GAME:END -->
+ - [Getting started in Destiny 2: Into The Light, live today for all Guardians](https://blog.playstation.com/2024/04/09/getting-started-in-destiny-2-into-the-light-live-today-for-all-guardians/)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [Dr. Disrespect calls Twitch &#39;slithery disgusting purple snakes&#39; but still doesn&#39;t explain why he was permanently banned from the platform](https://www.pcgamer.com/hardware/streaming/dr-disrespect-calls-twitch-slithery-disgusting-purple-snakes-but-still-doesnt-explain-why-he-was-permanently-banned-from-the-platform)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
