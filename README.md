@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe Rules That Insufficient Climate Change Action Is a Human Rights Violation](https://www.wired.com/story/climate-change-action-human-rights-violation-europe/)
- - [Apple researchers publish a paper on Ferret-UI, a multimodal LLM tailored for enhanced understanding of mobile UI screens &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/240409/p26#a240409p26)
- - [Researchers found an exposed Azure server with credentials used by Microsoft staff to access internal systems; Microsoft was told Feb. 6 and secured it March 5 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240409/p25#a240409p25)<!-- TECH:END -->
+ - [Miku fans wanted a hologram concert — they got a TV show instead](https://www.theverge.com/2024/4/9/24125233/miku-expo-2024-hologram-screen-live-performance-fans-disappointed)
+ - [Pop Music Is Mad. Social Media Loves It](https://www.wired.com/story/did-social-media-kill-the-pop-song/)
+ - [Destiny 2: The Final Shape is going to break the game in a good way](https://www.theverge.com/2024/4/9/24125357/destiny-2-the-final-shape-prismatic-subclasses-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
