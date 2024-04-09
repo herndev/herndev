@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
- - ⏩ [Fact](http://9gag.com/gag/aE0vzLo)
- - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
+ - 💣 [Honestly](http://9gag.com/gag/aGyYRO0)
+ - ⏩ [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
+ - 👉 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)<!-- MEMES:END -->
 
 ---
 
