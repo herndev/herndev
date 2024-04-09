@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alethea, whose ML service monitors online chatter to help companies detect disinformation, raised a $20M Series B by GV, bringing its total raised to $34M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240409/p32#a240409p32)
- - [Apple Watch X display rumor hints at upgrade that could boost battery life](https://www.androidauthority.com/apple-watch-x-display-rumor-hints-at-upgrade-that-could-boost-battery-life-3432810/)
- - [No, you won&#39;t get a black eye from Apple Vision Pro](https://appleinsider.com/articles/24/04/09/no-you-wont-get-a-black-eye-from-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s latest entry-level iPad has returned to its best price to date](https://www.theverge.com/2024/4/9/24124299/apple-ipad-max-annual-subscription-google-pixel-watch-deal-sale)
+ - [Google partners with Bayer on an AI product that can flag anomalies within images for radiologists and summarize information from a patient&#39;s medical history &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240409/p33#a240409p33)
+ - [Ted Cruz hosts a podcast for free — a Ted Cruz super PAC gets paid](https://www.theverge.com/2024/4/9/24125736/ted-cruz-podcast-verdict-iheart-fec-neon-hum-roost-sony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
