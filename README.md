@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tensor G3 performance per watt: How efficient is Google’s top chipset?](https://www.androidauthority.com/google-tensor-g3-performance-per-watt-3432137/)
- - [The Pixel 9 is months away, but the Google app just mentioned it](https://www.androidauthority.com/google-app-mention-pixel-9-3432505/)
- - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)<!-- TECH:END -->
+ - [Q&amp;A with Cloudflare CEO Matthew Prince on the company&#39;s role in protecting free speech online, operating in war zones, moderation, never doing layoffs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240409/p3#a240409p3)
+ - [Logitech’s new wireless keyboard targets pro gamers needing portability](https://www.theverge.com/2024/4/9/24125017/logitech-g-pro-x-60-wireless-gaming-keyboard-price-release-date)
+ - [Tensor G3 performance per watt: How efficient is Google’s top chipset?](https://www.androidauthority.com/google-tensor-g3-performance-per-watt-3432137/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
