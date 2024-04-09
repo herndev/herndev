@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need to Know About Rush Mode in Gigantic: Rampage Edition, Available Today](https://news.xbox.com/en-us/2024/04/09/gigantic-rampage-edition-available-today/)
- - [Soulslike shooter Witchfire gets massive early access update: New classes, content, events, and they finally fixed Calamities](https://www.pcgamer.com/games/fps/soulslike-shooter-witchfire-gets-massive-early-access-update-new-classes-content-events-and-they-finally-fixed-calamities)
- - [New Twisters Movie Promo Lets You Get Blown At The Theater](https://kotaku.com/twisters-movie-release-promo-wind-tornado-1851397889)<!-- GAME:END -->
+ - [All The Cool Stuff We Spotted In The Star Wars Outlaws Story Trailer](https://kotaku.com/star-wars-outlaws-new-trailer-breakdown-jabba-han-solo-1851398043)
+ - [Destiny 2 is getting a surprise new subclass in The Final Shape](https://www.polygon.com/24124362/destiny-2-final-shape-subclass-reveal-prismatic)
+ - [EA&#39;s Iron Man game is making &#39;excellent progress&#39; but still sounds like it&#39;s a long way off](https://www.pcgamer.com/games/action/eas-iron-man-game-is-making-excellent-progress-but-still-sounds-like-its-a-long-way-off)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
