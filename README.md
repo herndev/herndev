@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)
- - ⏩ [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 👉 [Oh no... Anyway](http://9gag.com/gag/a6ZmVy2)<!-- MEMES:END -->
+ - 💣 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - ⏩ [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)
+ - 👉 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)<!-- MEMES:END -->
 
 ---
 
