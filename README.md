@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - ⏩ [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
- - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
+ - ⏩ [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
+ - 👉 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)<!-- MEMES:END -->
 
 ---
 
