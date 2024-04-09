@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After iMessage setback, Beeper finds new life with WordPress owner](https://www.androidauthority.com/beeper-acquisition-automattic-3432804/)
- - [Intel says its next-gen Lunar Lake laptop chips will have 100+ TOPS of performance in AI tasks and elements of Microsoft&#39;s Copilot will soon run locally on PCs &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240409/p28#a240409p28)
- - [Apple expanding its Miami footprint with new offices and a retail store](https://appleinsider.com/articles/24/04/09/apple-expanding-its-miami-footprint-with-new-offices-and-a-retail-store?utm_medium=rss)<!-- TECH:END -->
+ - [Alethea, whose ML service monitors online chatter to help companies detect disinformation, raised a $20M Series B by GV, bringing its total raised to $34M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240409/p32#a240409p32)
+ - [Apple Watch X display rumor hints at upgrade that could boost battery life](https://www.androidauthority.com/apple-watch-x-display-rumor-hints-at-upgrade-that-could-boost-battery-life-3432810/)
+ - [No, you won&#39;t get a black eye from Apple Vision Pro](https://appleinsider.com/articles/24/04/09/no-you-wont-get-a-black-eye-from-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
