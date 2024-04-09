@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome](http://9gag.com/gag/a1mvbD2)
- - ⏩ [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)
- - 👉 [Scientifically correct!](http://9gag.com/gag/awy0n2y)<!-- MEMES:END -->
+ - 💣 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
+ - ⏩ [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 👉 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)<!-- MEMES:END -->
 
 ---
 
