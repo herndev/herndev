@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - ⏩ [A simple act of kindness](http://9gag.com/gag/apRELV8)
- - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
+ - 💣 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
+ - ⏩ [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
 
 ---
 
