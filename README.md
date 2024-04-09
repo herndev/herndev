@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud CEO Thomas Kurian unveils AI updates: corporate Gemini users can &quot;ground&quot; responses in reliable sources, Search as a Gemini answer source, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240409/p11#a240409p11)
- - [Enterprise data security startup Cyera raised a $300M Series C led by Coatue at a $1.4B valuation, taking its funding to $460M, after a $100M Series B in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240409/p10#a240409p10)
- - [Google announces its new Arm-based Axion chips for AI, with up to 30% better performance over Arm-based rivals, set to launch to cloud customers later in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240409/p9#a240409p9)<!-- TECH:END -->
+ - [Fresh Pixel 8a leaks show off a matte-finish back and chunky bezels &lpar;Update&rpar;](https://www.androidauthority.com/pixel-8a-images-leak-3432394/)
+ - [This Harry Potter special edition phone and tablet are an absolute treat for fans](https://www.androidauthority.com/harry-potter-special-edition-redmi-turbo-3-redmi-pad-pro-3432626/)
+ - [Monad Labs, which is building a Layer 1 blockchain to rival Ethereum and Solana, raised $225M led by Paradigm and plans to launch its mainnet by the end of 2024 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240409/p17#a240409p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
