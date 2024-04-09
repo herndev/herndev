@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Destiny leads have a new studio and a new game](https://www.polygon.com/24125278/probably-monsters-hidden-grove-destiny-bungie)
- - [How To Clear Fallout 4 From Your Backlog](https://kotaku.com/fallout-4-backlog-play-before-show-amazon-1851398256)
- - [Destiny 2’s Into the Light update adds 12 all-timer weapons back to the game](https://www.polygon.com/24124384/destiny-2-into-the-light-patch-notes-onslaught-whisper-zero-hour)<!-- GAME:END -->
+ - [9 years after its unlikely comeback, The Elder Scrolls Online has made nearly $2 billion in lifetime revenue](https://www.pcgamer.com/games/the-elder-scrolls/9-years-after-its-unlikely-comeback-the-elder-scrolls-online-has-made-nearly-dollar2-billion-in-lifetime-revenue)
+ - [EA enlists Dead Space remake team to work on next Battlefield game](https://www.polygon.com/24125300/ea-battlefield-motive-studios-dead-space-remake-iron-man)
+ - [Helldivers 2 fans are shaken by the sudden return of Automatons](https://www.polygon.com/24125619/helldivers-2-galactic-war-automaton-return-cyberstan)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
