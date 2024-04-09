@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
- - ⏩ [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 👉 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)<!-- MEMES:END -->
+ - 💣 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
+ - ⏩ [Fact](http://9gag.com/gag/aE0vzLo)
+ - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
 
 ---
 
