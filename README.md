@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting started in Destiny 2: Into The Light, live today for all Guardians](https://blog.playstation.com/2024/04/09/getting-started-in-destiny-2-into-the-light-live-today-for-all-guardians/)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Dr. Disrespect calls Twitch &#39;slithery disgusting purple snakes&#39; but still doesn&#39;t explain why he was permanently banned from the platform](https://www.pcgamer.com/hardware/streaming/dr-disrespect-calls-twitch-slithery-disgusting-purple-snakes-but-still-doesnt-explain-why-he-was-permanently-banned-from-the-platform)<!-- GAME:END -->
+ - [Everything You Need to Know About Rush Mode in Gigantic: Rampage Edition, Available Today](https://news.xbox.com/en-us/2024/04/09/gigantic-rampage-edition-available-today/)
+ - [Soulslike shooter Witchfire gets massive early access update: New classes, content, events, and they finally fixed Calamities](https://www.pcgamer.com/games/fps/soulslike-shooter-witchfire-gets-massive-early-access-update-new-classes-content-events-and-they-finally-fixed-calamities)
+ - [New Twisters Movie Promo Lets You Get Blown At The Theater](https://kotaku.com/twisters-movie-release-promo-wind-tornado-1851397889)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
