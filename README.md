@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s Tata Group aims to buy another iPhone manufacturing plant](https://appleinsider.com/articles/24/04/09/indias-tata-group-aims-to-buy-another-iphone-manufacturing-plant?utm_medium=rss)
- - [In some US schools, boys have used AI &quot;nudification&quot; apps to create and share deepfakes of clothed female classmates, leading districts to scramble to respond &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240409/p5#a240409p5)
- - [South Korean President Yoon Suk Yeol says the country plans to invest ~$7B in AI by 2027, and will create a separate ~$1B fund to foster AI chip companies &lpar;Reuters&rpar;](http://www.techmeme.com/240409/p4#a240409p4)<!-- TECH:END -->
+ - [An investigation finds a shadowy supply chain for Starlink terminals to US foes in Russia and Sudan via Africa, Asia, and the UAE; SpaceX has not shut them off &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240409/p8#a240409p8)
+ - [Intel investigating games crashing on 13th and 14th Gen Core i9 processors](https://www.theverge.com/2024/4/9/24125036/intel-game-crash-13900k-14900k-fortnite-unreal-engine-investigation)
+ - [Sources: the US plans to award Samsung $6B+ next week to build four chip facilities in Taylor, Texas, including a $17B plant, as part of the $52B CHIPS Act &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240409/p7#a240409p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
