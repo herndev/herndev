@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This slick and experimental soulslike takes about 15 seconds to get you feeling empathy for a triangle](https://www.pcgamer.com/games/action/this-slick-and-experimental-soulslike-takes-about-15-seconds-to-get-you-feeling-empathy-for-a-triangle)
- - [After a 23-year quest, collector manages to grab a rare Castlevania copy for $90,100, all because it &#39;was the first game my mom ever bought me&#39;](https://www.pcgamer.com/games/adventure/after-a-23-year-quest-collector-manages-to-grab-a-rare-castlevania-copy-for-dollar90100-all-because-it-was-the-first-game-my-mom-ever-bought-me)
- - [This custom controller builder is making one in the shape of the Mysterious Artefact from Baldur&#39;s Gate 3, and it mostly works](https://www.pcgamer.com/hardware/controllers/this-custom-controller-builder-is-making-one-in-the-shape-of-the-mysterious-artefact-from-baldurs-gate-3-and-it-mostly-works)<!-- GAME:END -->
+ - [Google sums up 2023&#39;s security exploits: the good news is fixes are blocking some types of zero-day attack. The bad news is Windows has seen more than most](https://www.pcgamer.com/software/security/google-sums-up-2023s-security-exploits-the-good-news-is-fixes-are-blocking-some-types-of-zero-day-attack-the-bad-news-is-windows-has-seen-more-than-most)
+ - [What time does Helldivers 2’s Democratic Detonation Warbond release?](https://www.polygon.com/guides/2024/4/9/24122746/helldivers-2-democratic-detonation-warbond-start-time-release-date)
+ - [This slick and experimental soulslike takes about 15 seconds to get you feeling empathy for a triangle](https://www.pcgamer.com/games/action/this-slick-and-experimental-soulslike-takes-about-15-seconds-to-get-you-feeling-empathy-for-a-triangle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
