@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
- - ⏩ [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 💣 [Wholesome](http://9gag.com/gag/a1mvbD2)
+ - ⏩ [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
  - 👉 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)<!-- MEMES:END -->
 
 ---
