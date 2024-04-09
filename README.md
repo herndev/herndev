@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome](http://9gag.com/gag/a1mvbD2)
- - ⏩ [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 👉 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)<!-- MEMES:END -->
+ - 💣 [9gag comments never disappoint](http://9gag.com/gag/avypnm5)
+ - ⏩ [Golden](http://9gag.com/gag/aZZbBj0)
+ - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---
 
