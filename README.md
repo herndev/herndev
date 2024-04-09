@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No comment.](http://9gag.com/gag/adB0XEB)
- - ⏩ [Hey! wake up its 2005](http://9gag.com/gag/awy0KqD)
- - 👉 [Bird feeder](http://9gag.com/gag/ajPYD4G)<!-- MEMES:END -->
+ - 💣 [He loves his squishy ball](http://9gag.com/gag/aqy9LpP)
+ - ⏩ [Cat rescue from flooded house](http://9gag.com/gag/aAyRr9E)
+ - 👉 [Legend](http://9gag.com/gag/aAyRpWd)<!-- MEMES:END -->
 
 ---
 
