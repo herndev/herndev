@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, April 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-9-2024)
  - [It&#39;s not just OLEDs that can suffer from burn in. Your graphics card&#39;s backplate might suffer from it too](https://www.pcgamer.com/hardware/graphics-cards/its-not-just-oleds-that-can-suffer-from-burn-in-your-graphics-cards-backplate-might-suffer-from-it-too)
- - [Card game developer says it paid an &#39;AI artist&#39; $90,000 to generate card art because &#39;no one comes close to the quality he delivers&#39;](https://www.pcgamer.com/games/card-games/champions-tcg-ai-artist)
- - [Starfield mod expands the base-building system with 40 new farmable plants, massive bio-domes, and your very own Chunks franchise that earns passive income](https://www.pcgamer.com/games/rpg/starfield-mod-expands-the-base-building-system-with-40-new-farmable-plants-massive-bio-domes-and-your-very-own-chunks-franchise-that-earns-passive-income)<!-- GAME:END -->
+ - [Card game developer says it paid an &#39;AI artist&#39; $90,000 to generate card art because &#39;no one comes close to the quality he delivers&#39;](https://www.pcgamer.com/games/card-games/champions-tcg-ai-artist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
