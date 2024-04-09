@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos’s storage-saving feature could be coming to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-app-storage-saver-3432745/)
- - [Both the release and beta visionOS versions get minor updates](https://appleinsider.com/articles/24/04/09/both-the-release-and-beta-visionos-versions-get-minor-updates?utm_medium=rss)
- - [In London, Meta execs downplayed the negative impact of AI on elections, touted open-source AI, and confirmed Llama&#39;s next version will arrive by next month &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240409/p24#a240409p24)<!-- TECH:END -->
+ - [Europe Rules That Insufficient Climate Change Action Is a Human Rights Violation](https://www.wired.com/story/climate-change-action-human-rights-violation-europe/)
+ - [Apple researchers publish a paper on Ferret-UI, a multimodal LLM tailored for enhanced understanding of mobile UI screens &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/240409/p26#a240409p26)
+ - [Researchers found an exposed Azure server with credentials used by Microsoft staff to access internal systems; Microsoft was told Feb. 6 and secured it March 5 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240409/p25#a240409p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
