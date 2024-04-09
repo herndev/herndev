@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming chairs to cozy up to in 2024](https://www.polygon.com/what-to-buy/23885770/best-gaming-chairs)
- - [During a deposition his lawyer tried to keep confidential, Elon Musk says &#39;people are attacked all the time&#39; on social media, but it rarely has &#39;a meaningful negative impact on their life&#39;](https://www.pcgamer.com/software/platforms/during-a-deposition-his-lawyer-tried-to-keep-confidential-elon-musk-says-people-are-attacked-all-the-time-on-social-media-but-it-rarely-has-a-meaningful-negative-impact-on-their-life)
- - [Star Wars Outlaws Release Date Leaks After YouTube Flub](https://kotaku.com/star-wars-outlaws-release-date-story-trailer-ubisoft-1851396930)<!-- GAME:END -->
+ - [Call of Duty&#39;s new Godzilla X Kong B.E.A.S.T. Glove costs $80 worth of in-game points, and it won&#39;t even corpse-launch your enemies](https://www.pcgamer.com/games/call-of-duty/call-of-dutys-new-godzilla-x-kong-beast-glove-costs-dollar80-worth-of-in-game-points-and-it-wont-even-corpse-launch-your-enemies)
+ - [Palworld tactical genius melts through the 294,000 HP of its new raid boss in seconds by spamming a frame rate-destroying platoon of dragons](https://www.pcgamer.com/games/survival-crafting/palworld-tactical-genius-melts-through-the-294000-hp-of-its-new-raid-boss-in-seconds-by-spamming-a-frame-rate-destroying-platoon-of-dragons)
+ - [Demon Slayer season 4 gets official premiere date, new trailer](https://www.polygon.com/23979916/demon-slayer-season-4-everything-we-know)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
