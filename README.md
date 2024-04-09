@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All The Cool Stuff We Spotted In The Star Wars Outlaws Story Trailer](https://kotaku.com/star-wars-outlaws-new-trailer-breakdown-jabba-han-solo-1851398043)
- - [Destiny 2 is getting a surprise new subclass in The Final Shape](https://www.polygon.com/24124362/destiny-2-final-shape-subclass-reveal-prismatic)
- - [EA&#39;s Iron Man game is making &#39;excellent progress&#39; but still sounds like it&#39;s a long way off](https://www.pcgamer.com/games/action/eas-iron-man-game-is-making-excellent-progress-but-still-sounds-like-its-a-long-way-off)<!-- GAME:END -->
+ - [Former Destiny leads have a new studio and a new game](https://www.polygon.com/24125278/probably-monsters-hidden-grove-destiny-bungie)
+ - [How To Clear Fallout 4 From Your Backlog](https://kotaku.com/fallout-4-backlog-play-before-show-amazon-1851398256)
+ - [Destiny 2’s Into the Light update adds 12 all-timer weapons back to the game](https://www.polygon.com/24124384/destiny-2-into-the-light-patch-notes-onslaught-whisper-zero-hour)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
