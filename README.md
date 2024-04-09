@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Xbox App [2404.1001.12.0]](https://news.xbox.com/en-us/2024/04/08/xbox-insider-release-notes-xbox-app-2404-1001-12-0/)
- - [Stellar Blade interview: creating stylish sci-fi action in a post-apocalyptic world](https://blog.playstation.com/2024/04/08/stellar-blade-interview-creating-stylish-sci-fi-action-in-a-post-apocalyptic-world/)
- - [Stellar Blade interview: creating stylish sci-fi action in a post-apocalyptic world](https://blog.playstation.com/2024/04/08/stellar-blade-interview-creating-stylish-sci-fi-action-in-a-post-apocalyptic-world/)<!-- GAME:END -->
+ - [It&#39;s not just OLEDs that can suffer from burn in. Your graphics card&#39;s backplate might suffer from it too](https://www.pcgamer.com/hardware/graphics-cards/its-not-just-oleds-that-can-suffer-from-burn-in-your-graphics-cards-backplate-might-suffer-from-it-too)
+ - [Card game developer says it paid an &#39;AI artist&#39; $90,000 to generate card art because &#39;no one comes close to the quality he delivers&#39;](https://www.pcgamer.com/games/card-games/champions-tcg-ai-artist)
+ - [Starfield mod expands the base-building system with 40 new farmable plants, massive bio-domes, and your very own Chunks franchise that earns passive income](https://www.pcgamer.com/games/rpg/starfield-mod-expands-the-base-building-system-with-40-new-farmable-plants-massive-bio-domes-and-your-very-own-chunks-franchise-that-earns-passive-income)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
