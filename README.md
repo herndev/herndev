@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow passport bros](http://9gag.com/gag/amoNz66)
+ - 💣 [Female pilot has a public meltdown, tells passengers feeling unsafe to `get off the plane.`](http://9gag.com/gag/azxgAYN)
  - ⏩ [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 👉 [Favorite](http://9gag.com/gag/a4PKj4d)<!-- MEMES:END -->
+ - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---
 
