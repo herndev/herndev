@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s Plans To Be Less Toxic Have One Major Flaw](https://kotaku.com/overwatch-2-competitive-ranked-changes-leave-punishment-1851400930)
- - [Mario Kart 8 Deluxe and its huge Booster Course Pass are cheaper than ever](https://www.polygon.com/deals/2024/4/10/24126258/mario-kart-8-deluxe-booster-pass-bundle-nintendo-switch-deal-sale)
- - [How to add a friend and text chat in Sky: Children of the Light](https://www.pcgamer.com/games/mmo/sky-children-of-the-light-add-friend-text-chat)<!-- GAME:END -->
+ - [Nintendo 3DS fans say goodbye to the beloved handheld](https://www.polygon.com/24125305/nintendo-3ds-fans-say-goodbye-server-shutdown-nintendo)
+ - [PS Plus April Lineup Adding Dave The Diver And Previews Animal Well](https://kotaku.com/dave-the-diver-animal-well-ps-plus-april-2024-1851401198)
+ - [The coziest MMO feature is coming to Sky: Children of the Light next week: player housing](https://www.pcgamer.com/games/mmo/the-coziest-mmo-feature-is-coming-to-sky-children-of-the-light-next-week-player-housing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
