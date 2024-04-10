@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - ⏩ [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 👉 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)<!-- MEMES:END -->
+ - 💣 [Squid meal gone wrong](http://9gag.com/gag/aAyRwO0)
+ - ⏩ [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
+ - 👉 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)<!-- MEMES:END -->
 
 ---
 
