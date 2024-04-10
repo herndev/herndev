@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s upcoming Lunar Lake will crank out over 100 TOPS of AI performance later this year](https://www.pcgamer.com/hardware/graphics-cards/intels-upcoming-lunar-lake-will-crank-out-over-100-tops-of-ai-performance-later-this-year)
- - [2024 Is Filled With Video Game Remakes And Remasters](https://kotaku.com/2024-video-remakes-remaster-epic-mickey-mario-star-wars-1851398539)
- - [Fallout TV show review: The best Fallout anything since Fallout: New Vegas](https://www.pcgamer.com/movies-tv/fallout-tv-show-review-the-best-fallout-anything-since-fallout-new-vegas)<!-- GAME:END -->
+ - [Game Hubs Now Available for all PC Players](https://news.xbox.com/en-us/2024/04/10/april-2024-update-game-hubs-now-available/)
+ - [Star Wars Outlaws To Feature Character From Solo: A Star Wars Story](https://kotaku.com/star-wars-outlaws-story-trailer-qira-solo-1851399918)
+ - [Why, Yes, That Is A Witcher Reference In Language-Learning App Duolingo](https://kotaku.com/witcher-reference-princess-hedgehog-duolingo-1851399886)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
