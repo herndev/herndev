@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s antitrust case is getting a new judge](https://www.theverge.com/2024/4/10/24126698/apple-doj-antitrust-case-judge-recused)
- - [Meta says it’s fixing ‘HD’ photo sharing in Facebook Messenger](https://www.theverge.com/2024/4/10/24126692/facebook-messenger-hd-photo-sharing-toggle-file-qr-codes)
- - [Unlock Gemini’s full potential: Google releases official ‘Prompting guide’](https://www.androidauthority.com/gemini-prompt-guide-3433163/)<!-- TECH:END -->
+ - [Computer scientist Avi Wigderson wins the 2023 Turing Award for his &quot;foundational contributions to the theory of computation&quot;, including his work on randomness &lpar;Stephen Ornes/Quanta Magazine&rpar;](http://www.techmeme.com/240410/p36#a240410p36)
+ - [Google announces a $1B investment to improve digital connectivity between the US, Japan, and multiple Pacific island countries through two new subsea cables &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240410/p35#a240410p35)
+ - [Two former execs of the company behind the Truth Social merger are caught up in a messy hacking lawsuit](https://www.theverge.com/2024/4/10/24126237/truth-social-digital-world-acquisition-corp-hacking-lawsuit-patrick-orlando-eric-swider-trump-media)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
