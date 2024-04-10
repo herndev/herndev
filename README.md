@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI could soon be making ads for Coca-Cola](https://www.androidauthority.com/google-wpp-partnership-3433094/)
- - [Aqara’s new motion sensor works with Matter and Thread, but that means problems](https://www.theverge.com/24126236/aqara-motion-and-light-sensor-p2-hands-on)
- - [Amazon’s Fallout show gets the postapocalyptic vibes exactly right](https://www.theverge.com/24126474/fallout-review-amazon-prime-video)<!-- TECH:END -->
+ - [Apple makes it really hard for users to completely stop it from collecting data](https://appleinsider.com/articles/24/04/10/apple-makes-it-really-hard-for-users-to-completely-stop-it-from-collecting-data?utm_medium=rss)
+ - [Today is the last day to take advantage of Samsung’s buy one, get one free TV promo](https://www.theverge.com/2024/4/10/24125239/samsung-buy-one-get-one-tv-deal-tu690t-crystal-uhd-65-inch-sale-2024)
+ - [Judge overseeing US DOJ lawsuit recuses himself, new judge takes over](https://appleinsider.com/articles/24/04/10/judge-overseeing-us-doj-lawsuit-recuses-himself-new-judge-takes-over?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
