@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hacking Lawsuit Looming Over Truth Social](https://www.wired.com/story/truth-social-hacking-lawsuit/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 10&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-10-2024-3432438/)
- - [This is the new Sonos app, coming May 7th](https://www.theverge.com/2024/4/10/24125866/sonos-new-app-features)<!-- TECH:END -->
+ - [Ad buyers on Meta&#39;s platforms complain of performance issues on its systems in recent months, and say campaign costs are up significantly while returns are down &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240410/p23#a240410p23)
+ - [Israeli cloud security startup Wiz buys cloud detection and response startup Gem Security, sources say for $350M, after buying developer platform Rafft in 2023 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240410/p22#a240410p22)
+ - [The composers of X-Men ‘97 had to evolve the show’s sound to honor its roots](https://www.theverge.com/24120898/x-men-97-newton-brothers-interview-marvel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
