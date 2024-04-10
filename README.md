@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I had a lot of life changing breakthroughs in the library](http://9gag.com/gag/ajPYEzQ)
- - ⏩ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 👉 [What is the point of pixelated pps](http://9gag.com/gag/aByRWeN)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/aYQNKRN)
+ - ⏩ [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 👉 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)<!-- MEMES:END -->
 
 ---
 
