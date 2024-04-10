@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How TSMC is transforming the Japanese farm town of Kikuyo into a key node in Asia&#39;s chip supply chain, backed by billions of dollars from Japan&#39;s government &lpar;New York Times&rpar;](http://www.techmeme.com/240410/p10#a240410p10)
- - [Motorola’s 2024 Edge flagships could launch globally next week](https://www.androidauthority.com/motorola-2024-edge-flagships-april-launch-3432930/)
- - [This service lets you build your own mobile plan using AI starting at just $4.08/month](https://www.androidauthority.com/mobilex-custom-mobile-plans-3432931/)<!-- TECH:END -->
+ - [This new foldable could put the Galaxy Z Fold 6 to shame when it comes to zoom](https://www.androidauthority.com/xiaomi-mix-fold-4-camera-zoom-3432981/)
+ - [Someone strapped a smartwatch to a controller to make a handheld gaming console](https://www.androidauthority.com/android-smartwatch-portable-retro-gaming-console-3432955/)
+ - [Adobe updates Frame.io, adding new workflow and tagging capabilities for project management, in beta for Free and Pro customers on the web, iOS, and iPadOS &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240410/p12#a240410p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
