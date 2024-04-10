@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
- - ⏩ [Don&#39;t even like the guy, but there may be a pattern here.](http://9gag.com/gag/aqy9bpQ)
- - 👉 [How?](http://9gag.com/gag/apRE2zp)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/aYQNKRN)
+ - ⏩ [How?](http://9gag.com/gag/apRE2zp)
+ - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
 
 ---
 
