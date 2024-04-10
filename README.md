@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How TSMC is transforming the Japanese farm town of Kikuyo into a key node in Asia&#39;s chip supply chain, backed by billions of dollars from Japan&#39;s government &lpar;New York Times&rpar;](http://www.techmeme.com/240410/p10#a240410p10)
  - [Motorola’s 2024 Edge flagships could launch globally next week](https://www.androidauthority.com/motorola-2024-edge-flagships-april-launch-3432930/)
- - [This service lets you build your own mobile plan using AI starting at just $4.08/month](https://www.androidauthority.com/mobilex-custom-mobile-plans-3432931/)
- - [Sarcophagus Is a Dead Man’s Switch for Your Crypto Wallet](https://www.wired.com/story/sarcophagus-is-a-dead-mans-switch-for-your-crypto-wallet/)<!-- TECH:END -->
+ - [This service lets you build your own mobile plan using AI starting at just $4.08/month](https://www.androidauthority.com/mobilex-custom-mobile-plans-3432931/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
