@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new foldable could put the Galaxy Z Fold 6 to shame when it comes to zoom](https://www.androidauthority.com/xiaomi-mix-fold-4-camera-zoom-3432981/)
- - [Someone strapped a smartwatch to a controller to make a handheld gaming console](https://www.androidauthority.com/android-smartwatch-portable-retro-gaming-console-3432955/)
- - [Adobe updates Frame.io, adding new workflow and tagging capabilities for project management, in beta for Free and Pro customers on the web, iOS, and iPadOS &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240410/p12#a240410p12)<!-- TECH:END -->
+ - [I regret buying the viral TikTok skincare wand](https://www.theverge.com/24121535/tiktok-medicube-ager-booster-h-skincare-wand)
+ - [Microsoft left internal passwords exposed in latest security blunder](https://www.theverge.com/2024/4/10/24126057/microsoft-azure-server-internal-passwords-exposed-cybersecurity)
+ - [The FCC says all but the smallest ISPs must now publish broadband &quot;nutrition labels&quot; on all of their plans, ending an eight year battle between ISPs and the FCC &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240410/p15#a240410p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
