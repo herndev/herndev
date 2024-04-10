@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [UK online PC retailer publicly rebukes claim it sent a customer an RTX 3050 instead of an RTX 4070 Ti](https://www.pcgamer.com/hardware/graphics-cards/uk-online-pc-retailer-publicly-rebukes-claim-it-sent-a-customer-an-rtx-3050-instead-of-an-rtx-4070-ti)
- - [Majority D80 Active Bluetooth Speakers review](https://www.pcgamer.com/hardware/speakers/majority-d80-active-bluetooth-speakers-review)
- - [This Hunt: Showdown-inspired sci-fi extraction shooter is already giving me the F.E.A.R.](https://www.pcgamer.com/games/fps/this-hunt-showdown-inspired-sci-fi-extraction-shooter-is-already-giving-me-the-fear)<!-- GAME:END -->
+ - [Intel&#39;s upcoming Lunar Lake will crank out over 100 TOPS of AI performance later this year](https://www.pcgamer.com/hardware/graphics-cards/intels-upcoming-lunar-lake-will-crank-out-over-100-tops-of-ai-performance-later-this-year)
+ - [2024 Is Filled With Video Game Remakes And Remasters](https://kotaku.com/2024-video-remakes-remaster-epic-mickey-mario-star-wars-1851398539)
+ - [Fallout TV show review: The best Fallout anything since Fallout: New Vegas](https://www.pcgamer.com/movies-tv/fallout-tv-show-review-the-best-fallout-anything-since-fallout-new-vegas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
