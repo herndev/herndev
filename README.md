@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ad buyers on Meta&#39;s platforms complain of performance issues on its systems in recent months, and say campaign costs are up significantly while returns are down &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240410/p23#a240410p23)
- - [Israeli cloud security startup Wiz buys cloud detection and response startup Gem Security, sources say for $350M, after buying developer platform Rafft in 2023 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240410/p22#a240410p22)
- - [The composers of X-Men ‘97 had to evolve the show’s sound to honor its roots](https://www.theverge.com/24120898/x-men-97-newton-brothers-interview-marvel)<!-- TECH:END -->
+ - [Popular custom Android ROM shutting down](https://www.androidauthority.com/pixel-experience-shutdown-3433081/)
+ - [Apple Music leads HomePod streaming, but Spotify has an incredibly strong position](https://appleinsider.com/articles/24/04/10/apple-music-leads-homepod-streaming-but-spotify-has-an-incredibly-strong-position?utm_medium=rss)
+ - [Texas is replacing thousands of human exam graders with AI](https://www.theverge.com/2024/4/10/24126206/texas-staar-exam-graders-ai-automated-scoring-engine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
