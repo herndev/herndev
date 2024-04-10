@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - ⏩ [F**k you Isaac Newton!](http://9gag.com/gag/avyp8zM)
- - 👉 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)<!-- MEMES:END -->
+ - 💣 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
+ - ⏩ [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
+ - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
 
 ---
 
