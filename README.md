@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s &#39;Eclipse2024&#39; X post isn&#39;t teasing the RTX 5090 or really anything at all](https://www.pcgamer.com/hardware/graphics-cards/nvidias-eclipse2024-x-post-isnt-teasing-the-rtx-5090-or-really-anything-at-all)
- - [Intel investigating CPU instability issues after South Korean Tekken 8 players kick up a fuss: &#39;Intel is aware of problems that occur when executing certain tasks&#39;](https://www.pcgamer.com/hardware/processors/intel-investigating-cpu-instability-issues-after-south-korean-tekken-8-players-kick-up-a-fuss-intel-is-aware-of-problems-that-occur-when-executing-certain-tasks)
- - [A behind-the-scenes video for Helldivers 2&#39;s intro cinematic brings you uncomfortably close to the &#39;Sweet Liberty&#39; scream, as well as a freestyle rap](https://www.pcgamer.com/games/third-person-shooter/a-behind-the-scenes-video-for-helldivers-2s-intro-cinematic-brings-you-uncomfortably-close-to-the-sweet-liberty-scream-as-well-as-a-freestyle-rap)<!-- GAME:END -->
+ - [This Hunt: Showdown-inspired sci-fi extraction shooter is already giving me the F.E.A.R.](https://www.pcgamer.com/games/fps/this-hunt-showdown-inspired-sci-fi-extraction-shooter-is-already-giving-me-the-fear)
+ - [The Elder Scrolls Online dev says the Metaverse is sinking because it ignored 20 years of games doing the exact same thing: &#39;it&#39;s not new, and they should stop treating it like it&#39;s new&#39;](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-online-dev-says-the-metaverse-is-sinking-because-it-ignored-20-years-of-games-doing-the-exact-same-thing-its-not-new-and-they-should-stop-treating-it-like-its-new)
+ - [Star Trek: Infinite reviews crater as Paradox announces it&#39;s dead, Jim](https://www.pcgamer.com/games/strategy/star-trek-infinite-reviews-crater-as-paradox-announces-its-dead-jim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
