@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I regret buying the viral TikTok skincare wand](https://www.theverge.com/24121535/tiktok-medicube-ager-booster-h-skincare-wand)
- - [Microsoft left internal passwords exposed in latest security blunder](https://www.theverge.com/2024/4/10/24126057/microsoft-azure-server-internal-passwords-exposed-cybersecurity)
- - [The FCC says all but the smallest ISPs must now publish broadband &quot;nutrition labels&quot; on all of their plans, ending an eight year battle between ISPs and the FCC &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240410/p15#a240410p15)<!-- TECH:END -->
+ - [First real discount on the Razer BlackShark V2 Pro 2023](https://www.androidauthority.com/razer-blackshark-v2-pro-2023-deal-3432875/)
+ - [Q&amp;A with Getty Images CEO Craig Peters on the deal with Nvidia to create AI tools trained on Getty&#39;s stock images, the need for AI industry standards, and more &lpar;Scott Roxborough/The Hollywood Reporter&rpar;](http://www.techmeme.com/240410/p17#a240410p17)
+ - [Best Apple Vision Pro third-party apps in April 2024](https://appleinsider.com/inside/apple-vision-pro/best/best-apple-vision-pro-third-party-apps-in-april-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
