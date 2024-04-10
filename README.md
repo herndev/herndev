@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
- - ⏩ [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
- - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
+ - 💣 [In case you missed the solar eclipse the other day......it looked like this](http://9gag.com/gag/aD2AgRx)
+ - ⏩ [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
+ - 👉 [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)<!-- MEMES:END -->
 
 ---
 
