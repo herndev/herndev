@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How?](http://9gag.com/gag/apRE2zp)
- - ⏩ [Nice](http://9gag.com/gag/an7q1GB)
- - 👉 [What a glow up](http://9gag.com/gag/agm3GWn)<!-- MEMES:END -->
+ - 💣 [I had a lot of life changing breakthroughs in the library](http://9gag.com/gag/ajPYEzQ)
+ - ⏩ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 👉 [What is the point of pixelated pps](http://9gag.com/gag/aByRWeN)<!-- MEMES:END -->
 
 ---
 
