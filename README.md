@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Time for an Adventure – Grandia HD Collection, Remastered for Xbox One and Xbox Series X|S, Out Now](https://news.xbox.com/en-us/2024/04/10/time-for-an-adventure-grandia-hd-collection-remastered-for-xbox-one-and-xbox-series-xs-out-now/)
- - [Xbox Insider Release Notes – Alpha &lpar;2405.240408-2200&rpar;](https://news.xbox.com/en-us/2024/04/10/xbox-insider-release-notes-alpha-2405-240408-2200/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240407-2000&rpar;](https://news.xbox.com/en-us/2024/04/10/xbox-insider-release-notes-alpha-skip-ahead-2408-240407-2000/)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Plans To Be Less Toxic Have One Major Flaw](https://kotaku.com/overwatch-2-competitive-ranked-changes-leave-punishment-1851400930)
+ - [Mario Kart 8 Deluxe and its huge Booster Course Pass are cheaper than ever](https://www.polygon.com/deals/2024/4/10/24126258/mario-kart-8-deluxe-booster-pass-bundle-nintendo-switch-deal-sale)
+ - [How to add a friend and text chat in Sky: Children of the Light](https://www.pcgamer.com/games/mmo/sky-children-of-the-light-add-friend-text-chat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
