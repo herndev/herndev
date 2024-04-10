@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
- - ⏩ [Golden](http://9gag.com/gag/aZZbBj0)
- - 👉 [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)<!-- MEMES:END -->
+ - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - ⏩ [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 👉 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)<!-- MEMES:END -->
 
 ---
 
