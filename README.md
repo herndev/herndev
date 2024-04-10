@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This sidescrolling horror RPG about being trapped in a nightmare is like Amnesia crossed with Deathloop](https://www.pcgamer.com/games/horror/this-sidescrolling-horror-rpg-about-being-trapped-in-a-nightmare-is-like-amnesia-crossed-with-deathloop)
  - [Today&#39;s Wordle answer for Wednesday, April 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-10-2024)
- - [The Joker 2 trailer introduces Lady Gaga’s Harley Quinn to the hallucinatory stage](https://www.polygon.com/24124435/joker-2-trailer-lady-gaga)
- - [Reminder: There&#39;s already a Fallout TV series you can watch now for free, and it&#39;s pretty darn good](https://www.pcgamer.com/theres-already-a-fallout-tv-series-and-its-pretty-good)<!-- GAME:END -->
+ - [The Joker 2 trailer introduces Lady Gaga’s Harley Quinn to the hallucinatory stage](https://www.polygon.com/24124435/joker-2-trailer-lady-gaga)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
