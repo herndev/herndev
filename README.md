@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US is right to target TikTok and prevent a foreign adversary from controlling a platform to deploy &quot;persuasive AI&quot; that can manipulate US citizens and more &lpar;Vinod Khosla/Financial Times&rpar;](http://www.techmeme.com/240410/p9#a240410p9)
- - [TSMC reports Q1 revenue up 16.5% YoY to $18.5B and expects revenue to grow at least 20% in 2024, reversing 2023&#39;s slight decline, and budgets capex of $28B-$32B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240410/p8#a240410p8)
- - [This Ultra flagship really humbles the Galaxy S24 Ultra’s camera](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-xiaomi-14-ultra-camera-shootout-3430195/)<!-- TECH:END -->
+ - [Motorola’s 2024 Edge flagships could launch globally next week](https://www.androidauthority.com/motorola-2024-edge-flagships-april-launch-3432930/)
+ - [This service lets you build your own mobile plan using AI starting at just $4.08/month](https://www.androidauthority.com/mobilex-custom-mobile-plans-3432931/)
+ - [Sarcophagus Is a Dead Man’s Switch for Your Crypto Wallet](https://www.wired.com/story/sarcophagus-is-a-dead-mans-switch-for-your-crypto-wallet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
