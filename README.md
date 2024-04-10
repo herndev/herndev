@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - ⏩ [Trying hard](http://9gag.com/gag/abAXYz8)
- - 👉 [How?](http://9gag.com/gag/apRE2zp)<!-- MEMES:END -->
+ - 💣 [Welp that was unexpected](http://9gag.com/gag/aGyY1R6)
+ - ⏩ [Priorities.....](http://9gag.com/gag/aQzPePw)
+ - 👉 [Lmao](http://9gag.com/gag/aYQNKRN)<!-- MEMES:END -->
 
 ---
 
