@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Hunt: Showdown-inspired sci-fi extraction shooter is already giving me the F.E.A.R.](https://www.pcgamer.com/games/fps/this-hunt-showdown-inspired-sci-fi-extraction-shooter-is-already-giving-me-the-fear)
- - [The Elder Scrolls Online dev says the Metaverse is sinking because it ignored 20 years of games doing the exact same thing: &#39;it&#39;s not new, and they should stop treating it like it&#39;s new&#39;](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-online-dev-says-the-metaverse-is-sinking-because-it-ignored-20-years-of-games-doing-the-exact-same-thing-its-not-new-and-they-should-stop-treating-it-like-its-new)
- - [Star Trek: Infinite reviews crater as Paradox announces it&#39;s dead, Jim](https://www.pcgamer.com/games/strategy/star-trek-infinite-reviews-crater-as-paradox-announces-its-dead-jim)<!-- GAME:END -->
+ - [UK online PC retailer publicly rebukes claim it sent a customer an RTX 3050 instead of an RTX 4070 Ti](https://www.pcgamer.com/hardware/graphics-cards/uk-online-pc-retailer-publicly-rebukes-claim-it-sent-a-customer-an-rtx-3050-instead-of-an-rtx-4070-ti)
+ - [Majority D80 Active Bluetooth Speakers review](https://www.pcgamer.com/hardware/speakers/majority-d80-active-bluetooth-speakers-review)
+ - [This Hunt: Showdown-inspired sci-fi extraction shooter is already giving me the F.E.A.R.](https://www.pcgamer.com/games/fps/this-hunt-showdown-inspired-sci-fi-extraction-shooter-is-already-giving-me-the-fear)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
