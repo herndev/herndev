@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welp that was unexpected](http://9gag.com/gag/aGyY1R6)
- - ⏩ [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 👉 [Lmao](http://9gag.com/gag/aYQNKRN)<!-- MEMES:END -->
+ - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - ⏩ [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
+ - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
 
 ---
 
