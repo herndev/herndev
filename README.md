@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
- - ⏩ [Lmao](http://9gag.com/gag/aYQNKRN)
- - 👉 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)<!-- MEMES:END -->
+ - 💣 [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
+ - ⏩ [Nice](http://9gag.com/gag/an7q1GB)
+ - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
 
 ---
 
