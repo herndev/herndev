@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I meeaaaann](http://9gag.com/gag/ayN7xGb)
- - ⏩ [Nice](http://9gag.com/gag/aXP0wPP)
- - 👉 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/aYQNKRN)
+ - ⏩ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
 
 ---
 
