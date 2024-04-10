@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to finish ‘The Whisper’ and get Whisper of the Worm in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24124313/whisper-walkthrough-worm-exotic-pattern)
- - [Helldivers 2 reward system will get an &#39;overhaul&#39; because right now it&#39;s &#39;about as reliable as a solar-powered watch in Malevelon Creek&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-reward-system-will-get-an-overhaul-because-right-now-its-about-as-reliable-as-a-solar-powered-watch-in-malevelon-creek)
- - [Dredge, the vibes-heavy indie hit about fishing on a sea of otherworldly horrors, is being made into a movie](https://www.pcgamer.com/games/horror/dredge-the-vibes-heavy-indie-hit-about-fishing-on-a-sea-of-otherworldly-horrors-is-being-made-into-a-movie)<!-- GAME:END -->
+ - [Reminder: There&#39;s already a Fallout TV series you can watch now for free, and it&#39;s pretty darn good](https://www.pcgamer.com/theres-already-a-fallout-tv-series-and-its-pretty-good)
+ - [Helldivers 2&#39;s new mission type is the glorious Helm&#39;s Deep holdout defense that I&#39;ve dreamed of for months](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-mission-type-is-the-glorious-helms-deep-holdout-defense-that-ive-dreamed-of-for-months)
+ - [How to finish ‘The Whisper’ and get Whisper of the Worm in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24124313/whisper-walkthrough-worm-exotic-pattern)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
