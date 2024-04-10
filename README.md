@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
- - ⏩ [When 2 master meet each other](http://9gag.com/gag/aAyRdqp)
- - 👉 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)<!-- MEMES:END -->
+ - 💣 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)
+ - ⏩ [Why Saiyan-hybrid offspring is so powerful?](http://9gag.com/gag/aZZbm36)
+ - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
 
 ---
 
