@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - ⏩ [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 👉 [Careful when you drive...sad stuff](http://9gag.com/gag/a9ybp2j)<!-- MEMES:END -->
+ - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
+ - ⏩ [Lmao](http://9gag.com/gag/aYQNKRN)
+ - 👉 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)<!-- MEMES:END -->
 
 ---
 
