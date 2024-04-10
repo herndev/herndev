@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google introduces two Gemma variants, CodeGemma to help with code completion and RecurrentGemma to provide researchers faster inference at higher batch sizes &lpar;Tris Warkentin/Google for Developers Blog&rpar;](http://www.techmeme.com/240409/p37#a240409p37)
- - [How to play Windows games on your Mac with Whisky](https://appleinsider.com/inside/mac/tips/how-to-play-windows-games-on-your-mac-with-whisky?utm_medium=rss)
- - [Best Solar Panel Installation Companies in Kansas     - CNET](https://www.cnet.com/home/energy-and-utilities/kansas-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WPP announces a collaboration with Google, integrating Gemini AI tools with WPP data to create scripts, product images, and more for ad clients like Coca-Cola &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240409/p39#a240409p39)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 10, #1026     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-10-1026/#ftag=CAD590a51e)
+ - [Mumbai-based Neysa, which offers a suite of generative AI tools to help clients manage their AI projects, raised a $20M seed led by Matrix, Nexus, and NTTVC &lpar;Jessica Rajan/The Economic Times&rpar;](http://www.techmeme.com/240409/p38#a240409p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
