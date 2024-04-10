@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
+ - 💣 [How?](http://9gag.com/gag/apRE2zp)
  - ⏩ [Nice](http://9gag.com/gag/an7q1GB)
- - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
+ - 👉 [What a glow up](http://9gag.com/gag/agm3GWn)<!-- MEMES:END -->
 
 ---
 
