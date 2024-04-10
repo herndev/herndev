@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k you Isaac Newton!](http://9gag.com/gag/avyp8zM)
- - ⏩ [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
- - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
+ - 💣 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
+ - ⏩ [Don&#39;t even like the guy, but there may be a pattern here.](http://9gag.com/gag/aqy9bpQ)
+ - 👉 [How?](http://9gag.com/gag/apRE2zp)<!-- MEMES:END -->
 
 ---
 
