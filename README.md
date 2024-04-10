@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How ID@Xbox is Enabling 8 Global Game Developers to Realize Their Vision](https://news.xbox.com/en-us/2024/04/10/how-idxbox-is-enabling-8-global-game-developers-to-realize-their-vision/)
- - [PlayStation Plus Game Catalog for April: Dave the Diver, Tales of Kenzera: Zau, The Crew 2 and more](https://blog.playstation.com/2024/04/10/playstation-plus-game-catalog-for-april-dave-the-diver-tales-of-kenzera-zau-the-crew-2-and-more/)
- - [PlayStation Plus Game Catalog for April: Dave the Diver, Tales of Kenzera: Zau, The Crew 2 and more](https://blog.playstation.com/2024/04/10/playstation-plus-game-catalog-for-april-dave-the-diver-tales-of-kenzera-zau-the-crew-2-and-more/)<!-- GAME:END -->
+ - [Trail Out: Explosive Racing Hits Xbox Today](https://news.xbox.com/en-us/2024/04/10/trail-ous-hits-xbox-today/)
+ - [The best video games of 2024 so far](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)
+ - [Physical Copies Of Star Wars Outlaws Require An Internet Connection To Install](https://kotaku.com/star-wars-outlaws-always-online-internet-install-disc-1851400377)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
