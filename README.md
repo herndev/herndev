@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New FCC rule forces T-Mobile, others to display ‘nutrition labels’ for plans](https://www.androidauthority.com/fcc-broadband-labels-3433130/)
- - [Mistral AI launches Mixtral 8x22B, its latest sparse mixture-of-experts model, after releasing Mixtral 8x7B in December 2023 &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240410/p33#a240410p33)
- - [Google confirms Vids can export as MP4, intends to bring to consumers eventually](https://www.androidauthority.com/google-vids-export-mp4-3433154/)<!-- TECH:END -->
+ - [Apple’s antitrust case is getting a new judge](https://www.theverge.com/2024/4/10/24126698/apple-doj-antitrust-case-judge-recused)
+ - [Meta says it’s fixing ‘HD’ photo sharing in Facebook Messenger](https://www.theverge.com/2024/4/10/24126692/facebook-messenger-hd-photo-sharing-toggle-file-qr-codes)
+ - [Unlock Gemini’s full potential: Google releases official ‘Prompting guide’](https://www.androidauthority.com/gemini-prompt-guide-3433163/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
