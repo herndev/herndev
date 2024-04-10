@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gigantic: Rampage Edition launches to &#39;mostly positive&#39; reviews on Steam, but server problems are once again causing headaches](https://www.pcgamer.com/games/moba/gigantic-rampage-edition-launches-to-mostly-positive-reviews-on-steam-but-server-problems-are-once-again-causing-headaches)
  - [Blizzard announces a remix for one of World of Warcraft’s best expansions](https://www.polygon.com/24126587/world-of-warcraft-mists-of-pandaria-remix-announcement)
- - [You Must Spend $80 To Unlock The King Kong Glove In Call Of Duty](https://kotaku.com/call-of-duty-king-kong-glove-godzilla-dlc-80-warzone-1851401303)
- - [EA denies rumor that it canceled an in-progress Dead Space 2 remake](https://www.pcgamer.com/games/horror/ea-denies-rumor-that-it-canceled-an-in-progress-dead-space-2-remake)<!-- GAME:END -->
+ - [You Must Spend $80 To Unlock The King Kong Glove In Call Of Duty](https://kotaku.com/call-of-duty-king-kong-glove-godzilla-dlc-80-warzone-1851401303)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
