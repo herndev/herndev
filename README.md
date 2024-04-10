@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest entry-level iPad has returned to its best price to date](https://www.theverge.com/2024/4/9/24124299/apple-ipad-max-annual-subscription-google-pixel-watch-deal-sale)
- - [Google partners with Bayer on an AI product that can flag anomalies within images for radiologists and summarize information from a patient&#39;s medical history &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240409/p33#a240409p33)
- - [Ted Cruz hosts a podcast for free — a Ted Cruz super PAC gets paid](https://www.theverge.com/2024/4/9/24125736/ted-cruz-podcast-verdict-iheart-fec-neon-hum-roost-sony)<!-- TECH:END -->
+ - [Piper Sandler survey of 6,020 US teens: 33% now own a VR device, up from 31% in fall 2023, and weekly usage of VR devices increased to ~13% from ~10% &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240409/p34#a240409p34)
+ - [T-Mobile could be “profiling” you right now — here’s how to opt-out](https://www.androidauthority.com/t-mobile-profiling-3432855/)
+ - [Apple’s latest entry-level iPad has returned to its best price to date](https://www.theverge.com/2024/4/9/24124299/apple-ipad-max-annual-subscription-google-pixel-watch-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
