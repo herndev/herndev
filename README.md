@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Squid meal gone wrong](http://9gag.com/gag/aAyRwO0)
- - ⏩ [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
- - 👉 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)<!-- MEMES:END -->
+ - 💣 [When the production is poor but you are a Rockstar](http://9gag.com/gag/aW4Qq7x)
+ - ⏩ [Let\u2019s be honest, he knew this would get posted. He\u2019s just showing his girl off.](http://9gag.com/gag/a6ZmVeL)
+ - 👉 [Single Mom](http://9gag.com/gag/a0e85gX)<!-- MEMES:END -->
 
 ---
 
