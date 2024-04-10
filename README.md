@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First real discount on the Razer BlackShark V2 Pro 2023](https://www.androidauthority.com/razer-blackshark-v2-pro-2023-deal-3432875/)
- - [Q&amp;A with Getty Images CEO Craig Peters on the deal with Nvidia to create AI tools trained on Getty&#39;s stock images, the need for AI industry standards, and more &lpar;Scott Roxborough/The Hollywood Reporter&rpar;](http://www.techmeme.com/240410/p17#a240410p17)
- - [Best Apple Vision Pro third-party apps in April 2024](https://appleinsider.com/inside/apple-vision-pro/best/best-apple-vision-pro-third-party-apps-in-april-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Roku’s Pro Series TVs have low prices, 120Hz screens, and clever ideas](https://www.theverge.com/2024/4/10/24125460/roku-pro-series-tvs-now-available-features-price)
+ - [14% of all iPhones now come from India](https://appleinsider.com/articles/24/04/10/apples-expansion-in-india-now-includes-building-houses-for-workers?utm_medium=rss)
+ - [Roblox partners with PubMatic to show video ads on in-game billboards to users aged 13 and over; creators that opt to show the ads will get an ad revenue cut &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240410/p19#a240410p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
