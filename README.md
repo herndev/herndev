@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - ⏩ [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 👉 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)<!-- MEMES:END -->
+ - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - ⏩ [Priorities.....](http://9gag.com/gag/aQzPePw)
+ - 👉 [Careful when you drive...sad stuff](http://9gag.com/gag/a9ybp2j)<!-- MEMES:END -->
 
 ---
 
