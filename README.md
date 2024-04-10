@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atos, the main cybersecurity provider to the 2024 Olympics, secures &amp;euro;450M in interim financing to stay afloat, including a &amp;euro;50M loan from the French Government &lpar;Politico&rpar;](http://www.techmeme.com/240410/p4#a240410p4)
- - [Kobo announces its first color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
- - [Platform Science, which provides connected vehicle tools for enterprise fleets, raised $125M from 8VC, Prologis, and others, taking its total funding to $309M &lpar;Grace Sharkey/FreightWaves&rpar;](http://www.techmeme.com/240410/p3#a240410p3)<!-- TECH:END -->
+ - [The cheapest foldable phone in the US has the same price as the Pixel 7a](https://www.androidauthority.com/cheapest-foldable-phone-us-nubia-flip-5g-3432924/)
+ - [Hurry! The Pixel 7 flagships are a steal right now with up to $469 off](https://www.androidauthority.com/google-pixel-7-pixel-7-pro-lowest-deals-3432923/)
+ - [Rakuten Kobo announces its first color e-readers, the $220 Kobo Libra Colour and the $150 Kobo Clara Colour, available for preorder now and shipping on April 30 &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240410/p6#a240410p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
