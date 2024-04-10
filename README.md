@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple makes it really hard for users to completely stop it from collecting data](https://appleinsider.com/articles/24/04/10/apple-makes-it-really-hard-for-users-to-completely-stop-it-from-collecting-data?utm_medium=rss)
- - [Today is the last day to take advantage of Samsung’s buy one, get one free TV promo](https://www.theverge.com/2024/4/10/24125239/samsung-buy-one-get-one-tv-deal-tu690t-crystal-uhd-65-inch-sale-2024)
- - [Judge overseeing US DOJ lawsuit recuses himself, new judge takes over](https://appleinsider.com/articles/24/04/10/judge-overseeing-us-doj-lawsuit-recuses-himself-new-judge-takes-over?utm_medium=rss)<!-- TECH:END -->
+ - [New FCC rule forces T-Mobile, others to display ‘nutrition labels’ for plans](https://www.androidauthority.com/fcc-broadband-labels-3433130/)
+ - [Mistral AI launches Mixtral 8x22B, its latest sparse mixture-of-experts model, after releasing Mixtral 8x7B in December 2023 &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240410/p33#a240410p33)
+ - [Google confirms Vids can export as MP4, intends to bring to consumers eventually](https://www.androidauthority.com/google-vids-export-mp4-3433154/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
