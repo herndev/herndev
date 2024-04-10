@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cruise will resume robotaxi tests after one of its cars ran someone over](https://www.theverge.com/2024/4/9/24125618/cruise-resume-robotaxi-testing-self-driving)
- - [iPadOS 17.5 beta teases OLED display upgrade for 2024 iPad Pro models](https://appleinsider.com/articles/24/04/10/ipados-175-beta-teases-oled-display-upgrade-for-2024-ipad-pro-models?utm_medium=rss)
- - [Best Internet Providers in Fontana, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fontana-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Copenhagen-based Reshape, whose AI-powered robotic imaging system helps track visual changes in lab experiments, raised a $20M Series A led by Astanor Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240409/p36#a240409p36)
+ - [NetEase says it is working with Microsoft to bring World of Warcraft and other Blizzard games back to China after a feud ended the partnership in January 2023 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240409/p35#a240409p35)
+ - [Cruise will resume robotaxi tests after one of its cars ran someone over](https://www.theverge.com/2024/4/9/24125618/cruise-resume-robotaxi-testing-self-driving)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
