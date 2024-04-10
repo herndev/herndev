@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the production is poor but you are a Rockstar](http://9gag.com/gag/aW4Qq7x)
- - ⏩ [Let\u2019s be honest, he knew this would get posted. He\u2019s just showing his girl off.](http://9gag.com/gag/a6ZmVeL)
- - 👉 [Single Mom](http://9gag.com/gag/a0e85gX)<!-- MEMES:END -->
+ - 💣 [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
+ - ⏩ [When 2 master meet each other](http://9gag.com/gag/aAyRdqp)
+ - 👉 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)<!-- MEMES:END -->
 
 ---
 
