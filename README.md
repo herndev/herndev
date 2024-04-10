@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WPP announces a collaboration with Google, integrating Gemini AI tools with WPP data to create scripts, product images, and more for ad clients like Coca-Cola &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240409/p39#a240409p39)
- - [Today&#39;s Wordle Hints and Answer: Help for April 10, #1026     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-10-1026/#ftag=CAD590a51e)
- - [Mumbai-based Neysa, which offers a suite of generative AI tools to help clients manage their AI projects, raised a $20M seed led by Matrix, Nexus, and NTTVC &lpar;Jessica Rajan/The Economic Times&rpar;](http://www.techmeme.com/240409/p38#a240409p38)<!-- TECH:END -->
+ - [Atos, the main cybersecurity provider to the 2024 Olympics, secures &amp;euro;450M in interim financing to stay afloat, including a &amp;euro;50M loan from the French Government &lpar;Politico&rpar;](http://www.techmeme.com/240410/p4#a240410p4)
+ - [Kobo announces its first color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
+ - [Platform Science, which provides connected vehicle tools for enterprise fleets, raised $125M from 8VC, Prologis, and others, taking its total funding to $309M &lpar;Grace Sharkey/FreightWaves&rpar;](http://www.techmeme.com/240410/p3#a240410p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
