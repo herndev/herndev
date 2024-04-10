@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch could be the next great Game Boy emulator](https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit)
- - [Sources: ByteDance misled the Central Bank of Ireland in early 2023, after HSBC shut down the company&#39;s bank accounts following a money laundering probe &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240410/p29#a240410p29)
- - [The House will vote on expanding warrantless wiretapping authority](https://www.theverge.com/2024/4/10/24126247/house-vote-fisa-section-702-reauthorization)<!-- TECH:END -->
+ - [Google’s AI could soon be making ads for Coca-Cola](https://www.androidauthority.com/google-wpp-partnership-3433094/)
+ - [Aqara’s new motion sensor works with Matter and Thread, but that means problems](https://www.theverge.com/24126236/aqara-motion-and-light-sensor-p2-hands-on)
+ - [Amazon’s Fallout show gets the postapocalyptic vibes exactly right](https://www.theverge.com/24126474/fallout-review-amazon-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
