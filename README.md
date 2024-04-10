@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Piper Sandler survey of 6,020 US teens: 33% now own a VR device, up from 31% in fall 2023, and weekly usage of VR devices increased to ~13% from ~10% &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240409/p34#a240409p34)
- - [T-Mobile could be “profiling” you right now — here’s how to opt-out](https://www.androidauthority.com/t-mobile-profiling-3432855/)
- - [Apple’s latest entry-level iPad has returned to its best price to date](https://www.theverge.com/2024/4/9/24124299/apple-ipad-max-annual-subscription-google-pixel-watch-deal-sale)<!-- TECH:END -->
+ - [Cruise will resume robotaxi tests after one of its cars ran someone over](https://www.theverge.com/2024/4/9/24125618/cruise-resume-robotaxi-testing-self-driving)
+ - [iPadOS 17.5 beta teases OLED display upgrade for 2024 iPad Pro models](https://appleinsider.com/articles/24/04/10/ipados-175-beta-teases-oled-display-upgrade-for-2024-ipad-pro-models?utm_medium=rss)
+ - [Best Internet Providers in Fontana, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fontana-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
