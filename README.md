@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to make Magic Editor and other AI editing tools, previously limited to Pixel phones and paid users, available to all Google Photos users for free &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240410/p27#a240410p27)
- - [Apple wants to hire a PR heavyweight to battle the EU on its own soil](https://appleinsider.com/articles/24/04/10/apple-wants-to-hire-a-pr-heavyweight-to-battle-the-eu-on-its-own-soil?utm_medium=rss)
- - [Ford Mustang Mach-E gets more range, faster charging, and quicker acceleration](https://www.theverge.com/2024/4/10/24126098/ford-mustang-mache-2024-model-updates-range-charging)<!-- TECH:END -->
+ - [The Apple Watch could be the next great Game Boy emulator](https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit)
+ - [Sources: ByteDance misled the Central Bank of Ireland in early 2023, after HSBC shut down the company&#39;s bank accounts following a money laundering probe &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240410/p29#a240410p29)
+ - [The House will vote on expanding warrantless wiretapping authority](https://www.theverge.com/2024/4/10/24126247/house-vote-fisa-section-702-reauthorization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
