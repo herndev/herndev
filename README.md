@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)
- - ⏩ [Why Saiyan-hybrid offspring is so powerful?](http://9gag.com/gag/aZZbm36)
- - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
+ - 💣 [I meeaaaann](http://9gag.com/gag/ayN7xGb)
+ - ⏩ [Nice](http://9gag.com/gag/aXP0wPP)
+ - 👉 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)<!-- MEMES:END -->
 
 ---
 
