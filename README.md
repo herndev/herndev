@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Joker 2 trailer introduces Lady Gaga’s Harley Quinn to the hallucinatory stage](https://www.polygon.com/24124435/joker-2-trailer-lady-gaga)
  - [Reminder: There&#39;s already a Fallout TV series you can watch now for free, and it&#39;s pretty darn good](https://www.pcgamer.com/theres-already-a-fallout-tv-series-and-its-pretty-good)
- - [Helldivers 2&#39;s new mission type is the glorious Helm&#39;s Deep holdout defense that I&#39;ve dreamed of for months](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-mission-type-is-the-glorious-helms-deep-holdout-defense-that-ive-dreamed-of-for-months)
- - [How to finish ‘The Whisper’ and get Whisper of the Worm in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24124313/whisper-walkthrough-worm-exotic-pattern)<!-- GAME:END -->
+ - [Helldivers 2&#39;s new mission type is the glorious Helm&#39;s Deep holdout defense that I&#39;ve dreamed of for months](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-mission-type-is-the-glorious-helms-deep-holdout-defense-that-ive-dreamed-of-for-months)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
