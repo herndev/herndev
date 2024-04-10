@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao](http://9gag.com/gag/aYQNKRN)
- - ⏩ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
+ - 💣 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
+ - ⏩ [Golden](http://9gag.com/gag/aZZbBj0)
+ - 👉 [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)<!-- MEMES:END -->
 
 ---
 
