@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku’s Pro Series TVs have low prices, 120Hz screens, and clever ideas](https://www.theverge.com/2024/4/10/24125460/roku-pro-series-tvs-now-available-features-price)
- - [14% of all iPhones now come from India](https://appleinsider.com/articles/24/04/10/apples-expansion-in-india-now-includes-building-houses-for-workers?utm_medium=rss)
- - [Roblox partners with PubMatic to show video ads on in-game billboards to users aged 13 and over; creators that opt to show the ads will get an ad revenue cut &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240410/p19#a240410p19)<!-- TECH:END -->
+ - [The Hacking Lawsuit Looming Over Truth Social](https://www.wired.com/story/truth-social-hacking-lawsuit/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 10&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-10-2024-3432438/)
+ - [This is the new Sonos app, coming May 7th](https://www.theverge.com/2024/4/10/24125866/sonos-new-app-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
