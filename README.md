@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Hubs Now Available for all PC Players](https://news.xbox.com/en-us/2024/04/10/april-2024-update-game-hubs-now-available/)
- - [Star Wars Outlaws To Feature Character From Solo: A Star Wars Story](https://kotaku.com/star-wars-outlaws-story-trailer-qira-solo-1851399918)
- - [Why, Yes, That Is A Witcher Reference In Language-Learning App Duolingo](https://kotaku.com/witcher-reference-princess-hedgehog-duolingo-1851399886)<!-- GAME:END -->
+ - [How ID@Xbox is Enabling 8 Global Game Developers to Realize Their Vision](https://news.xbox.com/en-us/2024/04/10/how-idxbox-is-enabling-8-global-game-developers-to-realize-their-vision/)
+ - [PlayStation Plus Game Catalog for April: Dave the Diver, Tales of Kenzera: Zau, The Crew 2 and more](https://blog.playstation.com/2024/04/10/playstation-plus-game-catalog-for-april-dave-the-diver-tales-of-kenzera-zau-the-crew-2-and-more/)
+ - [PlayStation Plus Game Catalog for April: Dave the Diver, Tales of Kenzera: Zau, The Crew 2 and more](https://blog.playstation.com/2024/04/10/playstation-plus-game-catalog-for-april-dave-the-diver-tales-of-kenzera-zau-the-crew-2-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
