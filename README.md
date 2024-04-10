@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case you missed the solar eclipse the other day......it looked like this](http://9gag.com/gag/aD2AgRx)
- - ⏩ [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
- - 👉 [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)<!-- MEMES:END -->
+ - 💣 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - ⏩ [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
+ - 👉 [Why Saiyan-hybrid offspring is so powerful?](http://9gag.com/gag/aZZbm36)<!-- MEMES:END -->
 
 ---
 
