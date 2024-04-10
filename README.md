@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo 3DS fans say goodbye to the beloved handheld](https://www.polygon.com/24125305/nintendo-3ds-fans-say-goodbye-server-shutdown-nintendo)
- - [PS Plus April Lineup Adding Dave The Diver And Previews Animal Well](https://kotaku.com/dave-the-diver-animal-well-ps-plus-april-2024-1851401198)
- - [The coziest MMO feature is coming to Sky: Children of the Light next week: player housing](https://www.pcgamer.com/games/mmo/the-coziest-mmo-feature-is-coming-to-sky-children-of-the-light-next-week-player-housing)<!-- GAME:END -->
+ - [You Must Spend $80 To Unlock The King Kong Glove In Call Of Duty](https://kotaku.com/call-of-duty-king-kong-glove-godzilla-dlc-80-warzone-1851401303)
+ - [EA denies rumor that it canceled an in-progress Dead Space 2 remake](https://www.pcgamer.com/games/horror/ea-denies-rumor-that-it-canceled-an-in-progress-dead-space-2-remake)
+ - [How to dye your gear in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24126490/dye-gear-how-to-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
