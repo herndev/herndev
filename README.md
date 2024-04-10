@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trail Out: Explosive Racing Hits Xbox Today](https://news.xbox.com/en-us/2024/04/10/trail-ous-hits-xbox-today/)
- - [The best video games of 2024 so far](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)
- - [Physical Copies Of Star Wars Outlaws Require An Internet Connection To Install](https://kotaku.com/star-wars-outlaws-always-online-internet-install-disc-1851400377)<!-- GAME:END -->
+ - [Time for an Adventure – Grandia HD Collection, Remastered for Xbox One and Xbox Series X|S, Out Now](https://news.xbox.com/en-us/2024/04/10/time-for-an-adventure-grandia-hd-collection-remastered-for-xbox-one-and-xbox-series-xs-out-now/)
+ - [Xbox Insider Release Notes – Alpha &lpar;2405.240408-2200&rpar;](https://news.xbox.com/en-us/2024/04/10/xbox-insider-release-notes-alpha-2405-240408-2200/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240407-2000&rpar;](https://news.xbox.com/en-us/2024/04/10/xbox-insider-release-notes-alpha-skip-ahead-2408-240407-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
