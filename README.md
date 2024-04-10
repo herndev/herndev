@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest foldable phone in the US has the same price as the Pixel 7a](https://www.androidauthority.com/cheapest-foldable-phone-us-nubia-flip-5g-3432924/)
- - [Hurry! The Pixel 7 flagships are a steal right now with up to $469 off](https://www.androidauthority.com/google-pixel-7-pixel-7-pro-lowest-deals-3432923/)
- - [Rakuten Kobo announces its first color e-readers, the $220 Kobo Libra Colour and the $150 Kobo Clara Colour, available for preorder now and shipping on April 30 &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240410/p6#a240410p6)<!-- TECH:END -->
+ - [The US is right to target TikTok and prevent a foreign adversary from controlling a platform to deploy &quot;persuasive AI&quot; that can manipulate US citizens and more &lpar;Vinod Khosla/Financial Times&rpar;](http://www.techmeme.com/240410/p9#a240410p9)
+ - [TSMC reports Q1 revenue up 16.5% YoY to $18.5B and expects revenue to grow at least 20% in 2024, reversing 2023&#39;s slight decline, and budgets capex of $28B-$32B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240410/p8#a240410p8)
+ - [This Ultra flagship really humbles the Galaxy S24 Ultra’s camera](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-xiaomi-14-ultra-camera-shootout-3430195/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
