@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Dog Accessories &lpar;2024&rpar;: Dog Beds, Pet Cameras, Carriers, and More](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
+ - [Dbrand’s brash social media schtick just cost the company $10,000](https://www.theverge.com/2024/4/11/24127613/dbrand-racist-tweet-apology-mkbhd)
  - [19 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
- - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)<!-- TECH:END -->
+ - [Showtime’s streaming service will finally shutter later this month](https://www.theverge.com/24127753/showtime-streaming-shut-down-paramount-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
