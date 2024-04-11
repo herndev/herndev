@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah\u2026](http://9gag.com/gag/aoyE5Ve)
- - ⏩ [Tilt shift makes demolition derby cars look like toys](http://9gag.com/gag/a6ZmKo8)
- - 👉 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)<!-- MEMES:END -->
+ - 💣 [Probably hate speech in 2024](http://9gag.com/gag/a4PK3d6)
+ - ⏩ [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
+ - 👉 [Tilt shift makes demolition derby cars look like toys](http://9gag.com/gag/a6ZmKo8)<!-- MEMES:END -->
 
 ---
 
