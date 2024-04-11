@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
- - ⏩ [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - 👉 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)<!-- MEMES:END -->
+ - 💣 [How?](http://9gag.com/gag/apRE2zp)
+ - ⏩ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
 
 ---
 
