@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - ⏩ [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
- - 👉 [Why Saiyan-hybrid offspring is so powerful?](http://9gag.com/gag/aZZbm36)<!-- MEMES:END -->
+ - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
+ - ⏩ [Literally me, bro](http://9gag.com/gag/aryvgPB)
+ - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
 
 ---
 
