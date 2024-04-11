@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play the game that defined 2010s survival horror before it leaves Game Pass](https://www.polygon.com/24126666/amnesia-the-dark-descent-defined-survival-horror-game-pass)
- - [Bethesda’s Todd Howard Would ‘Probably Say No’ To An Elder Scrolls Show](https://kotaku.com/bethesda-todd-howard-fallout-elder-scrolls-tv-show-1851403938)
- - [The Fallout TV show reminds us: Vault-Tec really is that bad](https://www.polygon.com/24126776/fallout-vault-tec-explained-bomb-history-lore-tech)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Beta &lpar;2405.240408-2200&rpar;](https://news.xbox.com/en-us/2024/04/11/xbox-insider-release-notes-beta-2405-240408-2200/)
+ - [5 ridiculously broken Diablo 4 season 4 PTR builds that we may never see again](https://www.pcgamer.com/games/rpg/diablo-4-season-4-ptr-builds)
+ - [I Wish I Could Show You The First Sonic 3 Movie Trailer](https://kotaku.com/sonic-hedgehog-movie-3-trailer-shadow-tails-knuckles-1851404181)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
