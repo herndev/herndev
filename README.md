@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saudi Arabia and the UAE, which are vying to become the regional AI superpower, are rushing to build expensive desert data centers to support the technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/240411/p5#a240411p5)
- - [Fitbit steps up its sleep game with a major app refresh](https://www.androidauthority.com/fitbit-sleep-update-3433197/)
- - [Apple sends threat notifications to individuals in 92 countries, warning them that their iPhone may have been targeted by &quot;mercenary spyware attacks&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p4#a240411p4)<!-- TECH:END -->
+ - [OnePlus has suffered a huge sales blow in its most important market](https://www.androidauthority.com/oneplus-products-offline-sales-important-market-3432132/)
+ - [Haven&#39;t Received Your Child Tax Credit Money? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/havent-received-your-child-tax-credit-money-heres-when-it-could-arrive/#ftag=CAD590a51e)
+ - [Apple Warns of iPhone &quot;Mercenary Attack&quot; Across 92 Countries     - CNET](https://www.cnet.com/tech/mobile/apple-warns-of-iphone-mercenary-attack-across-92-countries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
