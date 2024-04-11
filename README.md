@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fallout 4 next-gen update announced in 2022 will finally be out later this month](https://www.pcgamer.com/games/rpg/the-fallout-4-next-gen-update-announced-in-2022-will-finally-be-out-later-this-month)
- - [Steam smash hit Content Warning has sold over 700,000 copies after giving away 6 million free copies](https://www.pcgamer.com/games/horror/steam-smash-hit-content-warning-has-sold-over-700000-copies-after-giving-away-6-million-free-copies)
- - [Avatar: The Last Airbender creators’ first movie finds its Aang](https://www.polygon.com/24075133/avatar-last-airbender-animated-sequel-creators-netflix-live-action)<!-- GAME:END -->
+ - [Genshin Impact Developer Mihoyo Valued At $23 Billion](https://kotaku.com/genshin-impact-honkai-mihoyo-hoyoverse-23-billion-1851404683)
+ - [Every Fallout Easter egg in the Prime Video show](https://www.polygon.com/24126630/fallout-easter-egg-season-1-show)
+ - [Baldur’s Gate 3 Is Still Winning GOTY Awards Four Months Into 2024](https://kotaku.com/bafta-awards-winners-baldurs-gate-3-larian-studios-1851404694)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
