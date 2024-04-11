@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How?](http://9gag.com/gag/apRE2zp)
- - ⏩ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 💣 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
+ - ⏩ [Oops](http://9gag.com/gag/a34PqVe)
  - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
 
 ---
