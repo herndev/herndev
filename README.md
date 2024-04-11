@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ola shuts down in the UK, Australia, and New Zealand, six years after expanding to international markets, to focus on its India expansion ahead of an IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p1#a240411p1)
- - [Sources: Huawei is building a vast chip equipment R&amp;D center in Shanghai and has already hired numerous engineers who have worked for ASML, TSMC, and others &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240410/p40#a240410p40)
- - [Today&#39;s Wordle Hints and Answer: Help for April 11, #1027     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-11-1027/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple sends threat notifications to individuals in 92 countries, warning them that their iPhone may have been targeted by mercenary spyware attacks &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p4#a240411p4)
+ - [The MPA announces plans to work with US Congress to enact a SOPA-like anti-piracy law; SOPA was fiercely opposed by the tech industry and failed to pass in 2012 &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240411/p3#a240411p3)
+ - [Australian data center operator NextDC is raising AU$1.32B of equity to accelerate development and fit-out of centers in its core Sydney and Melbourne markets &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p2#a240411p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
