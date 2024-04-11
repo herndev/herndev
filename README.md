@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dbrand’s brash social media schtick just cost the company $10,000](https://www.theverge.com/2024/4/11/24127613/dbrand-racist-tweet-apology-mkbhd)
- - [19 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
- - [Showtime’s streaming service will finally shutter later this month](https://www.theverge.com/24127753/showtime-streaming-shut-down-paramount-plus)<!-- TECH:END -->
+ - [X tells users &quot;the hide your checkmark feature of X Premium is going away soon&quot;, after X began adding blue checks to &quot;influential&quot; users with 2,500+ followers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240411/p32#a240411p32)
+ - [CISA is investigating a breach at business intelligence company Sisense; sources: the attackers copied several terabytes of customer data, including credentials &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240411/p31#a240411p31)
+ - [Discord is nuking Nintendo Switch emulator devs and their entire servers](https://www.theverge.com/2024/4/11/24127545/discord-suyu-sudachi-server-shutdown-account-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
