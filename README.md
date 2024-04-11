@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peek a boo](http://9gag.com/gag/aO8KY4v)
- - ⏩ [The media is on a desperate search for their next George Floyd before November](http://9gag.com/gag/aYQNybm)
- - 👉 [Lol.](http://9gag.com/gag/aoyEPeg)<!-- MEMES:END -->
+ - 💣 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - ⏩ [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
+ - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
 
 ---
 
