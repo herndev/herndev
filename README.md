@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can somebody go check up on Silksong fans after the Triple-I Initiative&#39;s tongue-in-cheek loading screen tip, I&#39;m worried about them](https://www.pcgamer.com/games/action/can-somebody-go-check-up-on-silksong-fans-after-the-triple-i-initiatives-tongue-in-cheek-loading-screen-tip-im-worried-about-them)
  - [EA&#39;s surprise megadump of classic Command &amp; Conquer games means Europe&#39;s March game sales were dominated by 25-year-old RTSes, beating WWE 2K24 and Nintendo](https://www.pcgamer.com/games/rts/eas-surprise-megadump-of-classic-command-and-conquer-games-means-europes-march-game-sales-were-dominated-by-25-year-old-rtses-beating-wwe-2k24-and-nintendo)
- - [Nextorage X Series &lpar;NN5PRO&rpar; 2TB review](https://www.pcgamer.com/hardware/ssds/nextorage-x-series-nn5pro-2tb-review)
- - [Nvidia rumoured to be sticking to its regular programming with the RTX 5080 and RTX 5090 launching in Q4 this year](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rumoured-to-be-sticking-to-its-regular-programming-with-the-rtx-5080-and-rtx-5090-launching-in-q4-this-year)<!-- GAME:END -->
+ - [Nextorage X Series &lpar;NN5PRO&rpar; 2TB review](https://www.pcgamer.com/hardware/ssds/nextorage-x-series-nn5pro-2tb-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
