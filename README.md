@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift’s music is back on TikTok](https://www.theverge.com/2024/4/11/24127406/taylor-swifts-music-tiktok-umg-deal)
- - [Taylor Swift&#39;s music returns to TikTok, ahead of her next album due out on April 19, after UMG pulled her songs as part of an ongoing dispute with TikTok &lpar;Variety&rpar;](http://www.techmeme.com/240411/p23#a240411p23)
- - [Coupon: save 84% on Babbel&#39;s lifetime language learning subscription](https://appleinsider.com/articles/24/04/11/coupon-save-84-on-babbels-lifetime-language-learning-subscription?utm_medium=rss)<!-- TECH:END -->
+ - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
+ - [Fallout 4 is getting a next-gen update just in time for the show](https://www.theverge.com/2024/4/11/24127471/fallout-4-next-gen-update-steam-deck-verified)
+ - [Bird Flu Is Spreading in Alarming New Ways](https://www.wired.com/story/bird-flu-is-spreading-in-new-ways-h5n1-cattle-usa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
