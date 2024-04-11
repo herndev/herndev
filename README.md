@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Fallout 76, PGA Tour 2K23 and Classified France ‘44](https://news.xbox.com/en-us/2024/04/11/free-play-days-fallout-76-pga-tour-2k23-and-classified-france-44/)
- - [Invincible season 2 gave new meaning to meaningless comic book death](https://www.polygon.com/24124457/invincible-season-2-review-death-themes-robert-kirkman-interview)
- - [he Japanese Yu-Gi-Oh community is taking a long, hard look at itself after a player says the event stank so hard she had to leave](https://www.pcgamer.com/games/card-games/he-japanese-yu-gi-oh-community-is-taking-a-long-hard-look-at-itself-after-a-player-says-the-event-stank-so-hard-she-had-to-leave)<!-- GAME:END -->
+ - [GTA Online update for the week of April 11](https://www.polygon.com/gta-online-guides/24127402/gta-update-apr-11-weekly-release-time-events)
+ - [PC Gamer Chat Log Episode 56: Our white whale games](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-56-our-white-whale-games)
+ - [This Twisted Sniper Sim Is One Of The Most Disturbing Games You’ll &lpar;Love To&rpar; Play](https://kotaku.com/children-of-the-sun-devolver-sniper-sim-steam-pc-1851403350)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
