@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alex Garland has a 2-part agenda for Civil War](https://www.polygon.com/24126438/civil-war-politics-alex-garland-interview)
- - [Pac-Man Mega Tunnel Battle: Chomp Champs launches May 9](https://blog.playstation.com/2024/04/11/pac-man-mega-tunnel-battle-chomp-champs-launches-may-9/)
- - [Destiny 2 Iron Banner schedule dates for Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23971548/iron-banner-schedule-dates-when-next)<!-- GAME:END -->
+ - [The Thing board game gives you too many sad, cold, and lonely ways to die](https://www.polygon.com/24119183/the-thing-board-game-review)
+ - [John Cena Should Be In The Zelda Movie, Actually](https://kotaku.com/legend-of-zelda-live-action-movie-john-cena-fan-casting-1851403039)
+ - [Todd Howard says no Skyrim show for us even as critics go wild for Fallout](https://www.pcgamer.com/movies-tv/todd-howard-no-skyrim-show-for-us-even-as-critics-go-wild-for-fallout)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
