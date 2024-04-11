@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably hate speech in 2024](http://9gag.com/gag/a4PK3d6)
- - ⏩ [What&#39;s next?](http://9gag.com/gag/a1mvQwD)
- - 👉 [That feel](http://9gag.com/gag/awy0oMR)<!-- MEMES:END -->
+ - 💣 [Yeah\u2026](http://9gag.com/gag/aoyE5Ve)
+ - ⏩ [Tilt shift makes demolition derby cars look like toys](http://9gag.com/gag/a6ZmKo8)
+ - 👉 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)<!-- MEMES:END -->
 
 ---
 
