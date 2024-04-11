@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
- - ⏩ [Michael 39. Polish guy killed in Stockholm by a youngster for making a comment about their behaviour.](http://9gag.com/gag/aLnRp3v)
- - 👉 [Crazy](http://9gag.com/gag/aGyYZbG)<!-- MEMES:END -->
+ - ⏩ [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 👉 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)<!-- MEMES:END -->
 
 ---
 
