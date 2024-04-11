@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TikTok is testing an AI feature that generates a virtual influencer and a script for a video ad based on prompts submitted by advertisers &lpar;The Information&rpar;](http://www.techmeme.com/240411/p27#a240411p27)
- - [AI-powered MacBooks and iMacs coming later this year with Apple’s new M4 chip](https://www.androidauthority.com/m4-powered-macs-3433437/)
- - [All-Terrain Performance Stroller     - CNET](https://www.cnet.com/health/parenting/all-terrain-performance-stroller-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [21 Best Dog Accessories &lpar;2024&rpar;: Dog Beds, Pet Cameras, Carriers, and More](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
+ - [19 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
+ - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
