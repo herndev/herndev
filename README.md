@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Beta &lpar;2405.240408-2200&rpar;](https://news.xbox.com/en-us/2024/04/11/xbox-insider-release-notes-beta-2405-240408-2200/)
- - [5 ridiculously broken Diablo 4 season 4 PTR builds that we may never see again](https://www.pcgamer.com/games/rpg/diablo-4-season-4-ptr-builds)
- - [I Wish I Could Show You The First Sonic 3 Movie Trailer](https://kotaku.com/sonic-hedgehog-movie-3-trailer-shadow-tails-knuckles-1851404181)<!-- GAME:END -->
+ - [The Fallout 4 next-gen update announced in 2022 will finally be out later this month](https://www.pcgamer.com/games/rpg/the-fallout-4-next-gen-update-announced-in-2022-will-finally-be-out-later-this-month)
+ - [Steam smash hit Content Warning has sold over 700,000 copies after giving away 6 million free copies](https://www.pcgamer.com/games/horror/steam-smash-hit-content-warning-has-sold-over-700000-copies-after-giving-away-6-million-free-copies)
+ - [Avatar: The Last Airbender creators’ first movie finds its Aang](https://www.polygon.com/24075133/avatar-last-airbender-animated-sequel-creators-netflix-live-action)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
