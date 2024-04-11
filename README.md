@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe...](http://9gag.com/gag/aQzP3Xq)
- - ⏩ [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
- - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
+ - 💣 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
+ - ⏩ [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
+ - 👉 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)<!-- MEMES:END -->
 
 ---
 
