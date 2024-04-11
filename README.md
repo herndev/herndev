@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In his annual shareholder letter, Andy Jassy says GenAI &quot;may be the largest technology transformation since the cloud&quot; and Amazon is committed to cost-cutting &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240411/p14#a240411p14)
- - [Sources: Spotify is developing tools to let subscribers speed up, mash up, or edit songs, a type of playback feature; rights holders would be paid for the songs &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p13#a240411p13)
- - [DuckDuckGo launches Privacy Pro, a new $9.99 per month service with a VPN, personal information removal, and identity theft restoration, available in the US &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240411/p12#a240411p12)<!-- TECH:END -->
+ - [Apple’s latest sci-fi series is the trippy Dark Matter](https://www.theverge.com/24127236/dark-matter-trailer-date-apple-tv-plus)
+ - [Apple finally supports used parts for iPhone repairs](https://www.androidauthority.com/apple-support-used-parts-for-iphone-repairs-3433239/)
+ - [You can snag Mario Kart 8 Deluxe and all 48 DLC tracks for $20 off right now](https://www.theverge.com/2024/4/11/24126644/mario-kart-8-deluxe-booster-course-pass-amazon-fire-tv-stick-4k-max-streamer-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
