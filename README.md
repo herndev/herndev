@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
- - [Fallout 4 is getting a next-gen update just in time for the show](https://www.theverge.com/2024/4/11/24127471/fallout-4-next-gen-update-steam-deck-verified)
- - [Bird Flu Is Spreading in Alarming New Ways](https://www.wired.com/story/bird-flu-is-spreading-in-new-ways-h5n1-cattle-usa/)<!-- TECH:END -->
+ - [The Last Ronin is becoming a live-action Teenage Mutant Ninja Turtles movie](https://www.theverge.com/2024/4/11/24127517/teenage-mutant-ninja-turtles-the-last-ronin-movie)
+ - [Espresso 17 Pro review: Magnetic &amp; modular portable Mac monitor](https://appleinsider.com/articles/24/04/11/espresso-17-pro-review-magnetic-modular-portable-mac-monitor?utm_medium=rss)
+ - [Amazon CEO Andy Jassy takes a dim view of antitrust enforcement](https://www.theverge.com/2024/4/11/24127526/amazon-andy-jassy-ceo-antitrust-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
