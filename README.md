@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, April 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-11-2024)
  - [Fallout’s violence and gore are part of its charm](https://www.polygon.com/24126584/fallout-tv-show-violence-gore-dog)
- - [All the Fallout season 2 news we’ve heard so far](https://www.polygon.com/24124500/fallout-season-2-release-date-cast-prime-tv-series)
- - [Five Nights at Freddy 2 hitting the big screen next year](https://www.polygon.com/24126372/five-nights-at-freddys-2-movie-release-2025)<!-- GAME:END -->
+ - [All the Fallout season 2 news we’ve heard so far](https://www.polygon.com/24124500/fallout-season-2-release-date-cast-prime-tv-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
