@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
- - ⏩ [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 👉 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)<!-- MEMES:END -->
+ - 💣 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
+ - ⏩ [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 👉 [Harry Potter: JK Rowling suggests she won\u2019t \u2018forgive\u2019 Emma Watson and Daniel Radcliffe for criticising her](http://9gag.com/gag/a9ybngW)<!-- MEMES:END -->
 
 ---
 
