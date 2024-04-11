@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple warns of a &#39;mercenary spyware attack&#39; on iPhones](https://appleinsider.com/articles/24/04/11/apple-warns-of-a-mercenary-spyware-attack-on-iphones?utm_medium=rss)
- - [Documents: Adobe offers its photographer and artist network $120 for videos of people engaged in everyday actions, or ~$2.62 to ~$7.25 per minute, to train AI &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240411/p8#a240411p8)
- - [Testing VanMoof’s refreshed e-bikes, which are again available to buy](https://www.theverge.com/24126343/vanmoof-s5-a5-2024-e-bike-price-specs-worth-it)<!-- TECH:END -->
+ - [The Messenger app just gained a variety of handy features](https://www.androidauthority.com/messenger-4k-photos-file-limits-3433280/)
+ - [Instagram will blur nudes in messages sent to minors](https://www.theverge.com/2024/4/11/24127145/instagram-meta-blur-nude-images-direct-messages-teenagers)
+ - [Instagram plans to automatically detect and blur nude images sent to teens via DMs, showing a pop-up to sender and recipient, rolling out in the coming months &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p9#a240411p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
