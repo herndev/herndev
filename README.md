@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo launches $9.99 per month privacy bundle with VPN](https://www.theverge.com/2024/4/11/24126801/duckduckgo-launches-privacy-bundle-with-vpn-identity-theft-personal-data-removal-iris)
- - [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
- - [An interview with DocuSign CEO Allan Thygesen on the company&#39;s new Intelligent Agreement Management service, now in beta, moving beyond e-signatures, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240411/p10#a240411p10)<!-- TECH:END -->
+ - [In his annual shareholder letter, Andy Jassy says GenAI &quot;may be the largest technology transformation since the cloud&quot; and Amazon is committed to cost-cutting &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240411/p14#a240411p14)
+ - [Sources: Spotify is developing tools to let subscribers speed up, mash up, or edit songs, a type of playback feature; rights holders would be paid for the songs &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p13#a240411p13)
+ - [DuckDuckGo launches Privacy Pro, a new $9.99 per month service with a VPN, personal information removal, and identity theft restoration, available in the US &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240411/p12#a240411p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
