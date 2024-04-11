@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
- - ⏩ [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
+ - 💣 [Conversation in 2024. be like](http://9gag.com/gag/aRBw757)
+ - ⏩ [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
 
 ---
 
