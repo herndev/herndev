@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
- - ⏩ [Oops](http://9gag.com/gag/a34PqVe)
- - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
+ - 💣 [The media is on a desperate search for their next George Floyd before November](http://9gag.com/gag/aYQNybm)
+ - ⏩ [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
+ - 👉 [Today, I collected 20 kg of garbage, bringing the total to 3110 kg. The snow has melted, and I finally can clean nature after 6 months. Your Cleaning Guy.](http://9gag.com/gag/ayN7BZq)<!-- MEMES:END -->
 
 ---
 
