@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - ⏩ [Ok hear me out](http://9gag.com/gag/aLnR0Eg)
- - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
+ - 💣 [Probably hate speech in 2024](http://9gag.com/gag/a4PK3d6)
+ - ⏩ [What&#39;s next?](http://9gag.com/gag/a1mvQwD)
+ - 👉 [That feel](http://9gag.com/gag/awy0oMR)<!-- MEMES:END -->
 
 ---
 
