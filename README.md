@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest sci-fi series is the trippy Dark Matter](https://www.theverge.com/24127236/dark-matter-trailer-date-apple-tv-plus)
- - [Apple finally supports used parts for iPhone repairs](https://www.androidauthority.com/apple-support-used-parts-for-iphone-repairs-3433239/)
- - [You can snag Mario Kart 8 Deluxe and all 48 DLC tracks for $20 off right now](https://www.theverge.com/2024/4/11/24126644/mario-kart-8-deluxe-booster-course-pass-amazon-fire-tv-stick-4k-max-streamer-deal-sale)<!-- TECH:END -->
+ - [Auto parts maker Magna will pilot Sanctuary AI&#39;s humanoid robot in its factory; Figure and Apptronik are piloting their humanoid systems with BMW and Mercedes &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240411/p16#a240411p16)
+ - [The Best Personal Safety Devices, Apps, and Wearables &lpar;2024&rpar;](https://www.wired.com/story/best-personal-safety-tech/)
+ - [Apple will open the iPhone to repair with used parts](https://www.theverge.com/2024/4/11/24127278/apple-iphone-repair-used-parts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
