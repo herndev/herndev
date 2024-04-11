@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - ⏩ [Crazy](http://9gag.com/gag/aGyYZbG)
- - 👉 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)<!-- MEMES:END -->
+ - 💣 [Crazy](http://9gag.com/gag/aGyYZbG)
+ - ⏩ [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 👉 [Hot girls only](http://9gag.com/gag/aNDrgG0)<!-- MEMES:END -->
 
 ---
 
