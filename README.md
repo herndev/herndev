@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How Coupons Work at PC Gamer](https://www.pcgamer.com/how-coupons-work-at-pc-gamer)
  - [Taiwanese chipmaking bounces back after last week&#39;s 7.4 magnitude earthquake](https://www.pcgamer.com/hardware/taiwanese-chipmaking-bounces-back-after-last-weeks-74-magnitude-earthquake)
- - [Today&#39;s Wordle answer for Thursday, April 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-11-2024)
- - [Fallout’s violence and gore are part of its charm](https://www.polygon.com/24126584/fallout-tv-show-violence-gore-dog)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, April 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-11-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
