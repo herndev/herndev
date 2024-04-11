@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard is afraid of spoiling Diablo 4 seasons with regular PTRs, but says the success of season 4&#39;s &#39;does point in the direction of something we&#39;d want to continue to do&#39;](https://www.pcgamer.com/games/rpg/diablo-4-future-ptr-season-rod-fergusson)
- - [After winning every major Game of the Year award in 2023, Baldur&#39;s Gate 3 is now cleaning up in 2024 too](https://www.pcgamer.com/games/rpg/after-winning-every-major-game-of-the-year-award-in-2023-baldurs-gate-3-is-now-cleaning-up-in-2024-too)
- - [Woman Leaves Yu-Gi-Oh Event Because It Smelled Horrible](https://kotaku.com/yu-gi-oh-card-event-smelly-body-odor-woman-leaves-viral-1851404732)<!-- GAME:END -->
+ - [Helldivers 2&#39;s new Eruptor gun is a beast: basically a support stratagem, but as a primary weapon](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-eruptor-news)
+ - [In which I &lpar;mostly&rpar; debunk the latest Fallout controversy that claims Todd Howard used the Fallout show to &#39;retcon&#39; non-Bethesda Fallout games](https://www.pcgamer.com/movies-tv/in-which-i-mostly-debunk-the-latest-fallout-controversy-that-claims-todd-howard-used-the-fallout-show-to-retcon-non-bethesda-fallout-games)
+ - [Blizzard is afraid of spoiling Diablo 4 seasons with regular PTRs, but says the success of season 4&#39;s &#39;does point in the direction of something we&#39;d want to continue to do&#39;](https://www.pcgamer.com/games/rpg/diablo-4-future-ptr-season-rod-fergusson)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
