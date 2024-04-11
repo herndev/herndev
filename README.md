@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably hate speech in 2024](http://9gag.com/gag/a4PK3d6)
- - ⏩ [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
- - 👉 [Tilt shift makes demolition derby cars look like toys](http://9gag.com/gag/a6ZmKo8)<!-- MEMES:END -->
+ - 💣 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
+ - ⏩ [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
 
 ---
 
