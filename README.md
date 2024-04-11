@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As streamers cut spending globally, sources say Netflix remains the only major US platform still commissioning across Southeast Asia, albeit on a smaller scale &lpar;Deadline&rpar;](http://www.techmeme.com/240411/p6#a240411p6)
- - [OnePlus has suffered a huge sales blow in its most important market](https://www.androidauthority.com/oneplus-products-offline-sales-important-market-3432132/)
- - [Haven&#39;t Received Your Child Tax Credit Money? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/havent-received-your-child-tax-credit-money-heres-when-it-could-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple warns of a &#39;mercenary spyware attack&#39; on iPhones](https://appleinsider.com/articles/24/04/11/apple-warns-of-a-mercenary-spyware-attack-on-iphones?utm_medium=rss)
+ - [Documents: Adobe offers its photographer and artist network $120 for videos of people engaged in everyday actions, or ~$2.62 to ~$7.25 per minute, to train AI &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240411/p8#a240411p8)
+ - [Testing VanMoof’s refreshed e-bikes, which are again available to buy](https://www.theverge.com/24126343/vanmoof-s5-a5-2024-e-bike-price-specs-worth-it)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
