@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of April 11](https://www.polygon.com/gta-online-guides/24127402/gta-update-apr-11-weekly-release-time-events)
- - [PC Gamer Chat Log Episode 56: Our white whale games](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-56-our-white-whale-games)
- - [This Twisted Sniper Sim Is One Of The Most Disturbing Games You’ll &lpar;Love To&rpar; Play](https://kotaku.com/children-of-the-sun-devolver-sniper-sim-steam-pc-1851403350)<!-- GAME:END -->
+ - [Play the game that defined 2010s survival horror before it leaves Game Pass](https://www.polygon.com/24126666/amnesia-the-dark-descent-defined-survival-horror-game-pass)
+ - [Bethesda’s Todd Howard Would ‘Probably Say No’ To An Elder Scrolls Show](https://kotaku.com/bethesda-todd-howard-fallout-elder-scrolls-tv-show-1851403938)
+ - [The Fallout TV show reminds us: Vault-Tec really is that bad](https://www.polygon.com/24126776/fallout-vault-tec-explained-bomb-history-lore-tech)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
