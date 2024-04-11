@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crazy](http://9gag.com/gag/aGyYZbG)
- - ⏩ [American psycho](http://9gag.com/gag/a9ybRMo)
- - 👉 [Hot girls only](http://9gag.com/gag/aNDrgG0)<!-- MEMES:END -->
+ - 💣 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
+ - ⏩ [Michael 39. Polish guy killed in Stockholm by a youngster for making a comment about their behaviour.](http://9gag.com/gag/aLnRp3v)
+ - 👉 [Crazy](http://9gag.com/gag/aGyYZbG)<!-- MEMES:END -->
 
 ---
 
