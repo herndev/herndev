@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Force Quit and Activity Monitor to close persistent apps](https://appleinsider.com/inside/macos/tips/how-to-use-force-quit-and-activity-monitor-to-close-persistent-apps?utm_medium=rss)
- - [A US jury finds AWS owes Chicago-based Kove $525M for infringing three of its patents in data-storage technology that had become &quot;essential&quot; to AWS &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240410/p39#a240410p39)
- - [Best iPhone 15 Deals: Up to $1,200 in Trade-In Credits     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Huawei is building a vast chip equipment R&amp;D center in Shanghai and has already hired numerous engineers who have worked for ASML, TSMC, and others &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240410/p40#a240410p40)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 11, #1027     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-11-1027/#ftag=CAD590a51e)
+ - [How to use Force Quit and Activity Monitor to close persistent apps](https://appleinsider.com/inside/macos/tips/how-to-use-force-quit-and-activity-monitor-to-close-persistent-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
