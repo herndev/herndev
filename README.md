@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Auto parts maker Magna will pilot Sanctuary AI&#39;s humanoid robot in its factory; Figure and Apptronik are piloting their humanoid systems with BMW and Mercedes &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240411/p16#a240411p16)
- - [The Best Personal Safety Devices, Apps, and Wearables &lpar;2024&rpar;](https://www.wired.com/story/best-personal-safety-tech/)
- - [Apple will open the iPhone to repair with used parts](https://www.theverge.com/2024/4/11/24127278/apple-iphone-repair-used-parts)<!-- TECH:END -->
+ - [Sony’s new headphones and speakers are all about skull-rattling bass](https://www.theverge.com/2024/4/11/24127358/sony-ult-power-sound-headphones-speakers-price)
+ - [Caseology Nano Pop Samsung Galaxy S24 Ultra case review: Should you buy it?](https://www.androidauthority.com/caseology-nano-pop-samsung-galaxy-s24-ultra-case-review-3433240/)
+ - [Substack lets podcasters distribute their shows on Spotify, and says podcasters on Substack collectively earn $100M+ per year, which doubled in the past year &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240411/p20#a240411p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
