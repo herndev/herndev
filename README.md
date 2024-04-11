@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Messenger app just gained a variety of handy features](https://www.androidauthority.com/messenger-4k-photos-file-limits-3433280/)
- - [Instagram will blur nudes in messages sent to minors](https://www.theverge.com/2024/4/11/24127145/instagram-meta-blur-nude-images-direct-messages-teenagers)
- - [Instagram plans to automatically detect and blur nude images sent to teens via DMs, showing a pop-up to sender and recipient, rolling out in the coming months &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p9#a240411p9)<!-- TECH:END -->
+ - [DuckDuckGo launches $9.99 per month privacy bundle with VPN](https://www.theverge.com/2024/4/11/24126801/duckduckgo-launches-privacy-bundle-with-vpn-identity-theft-personal-data-removal-iris)
+ - [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
+ - [An interview with DocuSign CEO Allan Thygesen on the company&#39;s new Intelligent Agreement Management service, now in beta, moving beyond e-signatures, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240411/p10#a240411p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
