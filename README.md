@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds of political and news content creators ask Meta to reverse its default Threads and Instagram setting opting accounts out of seeing &quot;political content&quot; &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240410/p37#a240410p37)
- - [Best Coffee Maker Deals: Save Up to $300 on Various Types of Coffee Makers     - CNET](https://www.cnet.com/deals/best-coffee-maker-deals/#ftag=CAD590a51e)
- - [Best Flower Delivery Deals: Top Deals on Mother&#39;s Day Flowers You Can Order Now     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals-top-deals-on-mothers-day-flowers-you-can-order-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Fallout&#39; Nails Video Game Adaptations by Making the Apocalypse Fun](https://www.wired.com/story/fallout-jonathan-nolan-video-game-adaptation-amazon/)
+ - [The Biden administration announces a $110M US-Japan joint AI research initiative funded by Nvidia, Arm, Amazon, Microsoft, and a group of Japanese companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p38#a240410p38)
+ - [Apple has a solution to ghost touch issue on Apple Watch models](https://appleinsider.com/articles/24/04/11/apple-has-a-solution-to-ghost-touch-issue-on-apple-watch-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
