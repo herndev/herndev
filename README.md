@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Developer Mihoyo Valued At $23 Billion](https://kotaku.com/genshin-impact-honkai-mihoyo-hoyoverse-23-billion-1851404683)
- - [Every Fallout Easter egg in the Prime Video show](https://www.polygon.com/24126630/fallout-easter-egg-season-1-show)
- - [Baldur’s Gate 3 Is Still Winning GOTY Awards Four Months Into 2024](https://kotaku.com/bafta-awards-winners-baldurs-gate-3-larian-studios-1851404694)<!-- GAME:END -->
+ - [Blizzard is afraid of spoiling Diablo 4 seasons with regular PTRs, but says the success of season 4&#39;s &#39;does point in the direction of something we&#39;d want to continue to do&#39;](https://www.pcgamer.com/games/rpg/diablo-4-future-ptr-season-rod-fergusson)
+ - [After winning every major Game of the Year award in 2023, Baldur&#39;s Gate 3 is now cleaning up in 2024 too](https://www.pcgamer.com/games/rpg/after-winning-every-major-game-of-the-year-award-in-2023-baldurs-gate-3-is-now-cleaning-up-in-2024-too)
+ - [Woman Leaves Yu-Gi-Oh Event Because It Smelled Horrible](https://kotaku.com/yu-gi-oh-card-event-smelly-body-odor-woman-leaves-viral-1851404732)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
