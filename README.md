@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
- - ⏩ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
+ - 💣 [Maybe...](http://9gag.com/gag/aQzP3Xq)
+ - ⏩ [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
+ - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
 
 ---
 
