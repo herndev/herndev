@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Last Ronin is becoming a live-action Teenage Mutant Ninja Turtles movie](https://www.theverge.com/2024/4/11/24127517/teenage-mutant-ninja-turtles-the-last-ronin-movie)
- - [Espresso 17 Pro review: Magnetic &amp; modular portable Mac monitor](https://appleinsider.com/articles/24/04/11/espresso-17-pro-review-magnetic-modular-portable-mac-monitor?utm_medium=rss)
- - [Amazon CEO Andy Jassy takes a dim view of antitrust enforcement](https://www.theverge.com/2024/4/11/24127526/amazon-andy-jassy-ceo-antitrust-acquisition)<!-- TECH:END -->
+ - [Sources: TikTok is testing an AI feature that generates a virtual influencer and a script for a video ad based on prompts submitted by advertisers &lpar;The Information&rpar;](http://www.techmeme.com/240411/p27#a240411p27)
+ - [AI-powered MacBooks and iMacs coming later this year with Apple’s new M4 chip](https://www.androidauthority.com/m4-powered-macs-3433437/)
+ - [All-Terrain Performance Stroller     - CNET](https://www.cnet.com/health/parenting/all-terrain-performance-stroller-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
