@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Xbox App [2404.1001.17.0]](https://news.xbox.com/en-us/2024/04/10/xbox-insider-release-notes-xbox-app-2404-1001-17-0/)
- - [Gigantic: Rampage Edition launches to &#39;mostly positive&#39; reviews on Steam, but server problems are once again causing headaches](https://www.pcgamer.com/games/moba/gigantic-rampage-edition-launches-to-mostly-positive-reviews-on-steam-but-server-problems-are-once-again-causing-headaches)
- - [Blizzard announces a remix for one of World of Warcraft’s best expansions](https://www.polygon.com/24126587/world-of-warcraft-mists-of-pandaria-remix-announcement)<!-- GAME:END -->
+ - [Fallout’s violence and gore are part of its charm](https://www.polygon.com/24126584/fallout-tv-show-violence-gore-dog)
+ - [All the Fallout season 2 news we’ve heard so far](https://www.polygon.com/24124500/fallout-season-2-release-date-cast-prime-tv-series)
+ - [Five Nights at Freddy 2 hitting the big screen next year](https://www.polygon.com/24126372/five-nights-at-freddys-2-movie-release-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
