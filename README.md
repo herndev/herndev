@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Thing board game gives you too many sad, cold, and lonely ways to die](https://www.polygon.com/24119183/the-thing-board-game-review)
- - [John Cena Should Be In The Zelda Movie, Actually](https://kotaku.com/legend-of-zelda-live-action-movie-john-cena-fan-casting-1851403039)
- - [Todd Howard says no Skyrim show for us even as critics go wild for Fallout](https://www.pcgamer.com/movies-tv/todd-howard-no-skyrim-show-for-us-even-as-critics-go-wild-for-fallout)<!-- GAME:END -->
+ - [Free Play Days – Fallout 76, PGA Tour 2K23 and Classified France ‘44](https://news.xbox.com/en-us/2024/04/11/free-play-days-fallout-76-pga-tour-2k23-and-classified-france-44/)
+ - [Invincible season 2 gave new meaning to meaningless comic book death](https://www.polygon.com/24124457/invincible-season-2-review-death-themes-robert-kirkman-interview)
+ - [he Japanese Yu-Gi-Oh community is taking a long, hard look at itself after a player says the event stank so hard she had to leave](https://www.pcgamer.com/games/card-games/he-japanese-yu-gi-oh-community-is-taking-a-long-hard-look-at-itself-after-a-player-says-the-event-stank-so-hard-she-had-to-leave)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
