@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As streamers cut spending globally, sources say Netflix remains the only major US platform still commissioning across Southeast Asia, albeit on a smaller scale &lpar;Deadline&rpar;](http://www.techmeme.com/240411/p6#a240411p6)
  - [OnePlus has suffered a huge sales blow in its most important market](https://www.androidauthority.com/oneplus-products-offline-sales-important-market-3432132/)
- - [Haven&#39;t Received Your Child Tax Credit Money? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/havent-received-your-child-tax-credit-money-heres-when-it-could-arrive/#ftag=CAD590a51e)
- - [Apple Warns of iPhone &quot;Mercenary Attack&quot; Across 92 Countries     - CNET](https://www.cnet.com/tech/mobile/apple-warns-of-iphone-mercenary-attack-across-92-countries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Haven&#39;t Received Your Child Tax Credit Money? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/havent-received-your-child-tax-credit-money-heres-when-it-could-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
