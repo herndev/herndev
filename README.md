@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
- - ⏩ [Literally me, bro](http://9gag.com/gag/aryvgPB)
- - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
+ - 💣 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
+ - ⏩ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
 
 ---
 
