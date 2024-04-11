@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s new headphones and speakers are all about skull-rattling bass](https://www.theverge.com/2024/4/11/24127358/sony-ult-power-sound-headphones-speakers-price)
- - [Caseology Nano Pop Samsung Galaxy S24 Ultra case review: Should you buy it?](https://www.androidauthority.com/caseology-nano-pop-samsung-galaxy-s24-ultra-case-review-3433240/)
- - [Substack lets podcasters distribute their shows on Spotify, and says podcasters on Substack collectively earn $100M+ per year, which doubled in the past year &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240411/p20#a240411p20)<!-- TECH:END -->
+ - [Taylor Swift’s music is back on TikTok](https://www.theverge.com/2024/4/11/24127406/taylor-swifts-music-tiktok-umg-deal)
+ - [Taylor Swift&#39;s music returns to TikTok, ahead of her next album due out on April 19, after UMG pulled her songs as part of an ongoing dispute with TikTok &lpar;Variety&rpar;](http://www.techmeme.com/240411/p23#a240411p23)
+ - [Coupon: save 84% on Babbel&#39;s lifetime language learning subscription](https://appleinsider.com/articles/24/04/11/coupon-save-84-on-babbels-lifetime-language-learning-subscription?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
