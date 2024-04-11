@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The media is on a desperate search for their next George Floyd before November](http://9gag.com/gag/aYQNybm)
- - ⏩ [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
- - 👉 [Today, I collected 20 kg of garbage, bringing the total to 3110 kg. The snow has melted, and I finally can clean nature after 6 months. Your Cleaning Guy.](http://9gag.com/gag/ayN7BZq)<!-- MEMES:END -->
+ - 💣 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
+ - ⏩ [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 👉 [Ok hear me out](http://9gag.com/gag/aLnR0Eg)<!-- MEMES:END -->
 
 ---
 
