@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - ⏩ [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
+ - 💣 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)
+ - ⏩ [Peek a boo](http://9gag.com/gag/aO8KY4v)
+ - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
 
 ---
 
