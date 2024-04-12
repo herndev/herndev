@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palo Alto Networks alerts customers that hackers are exploiting a zero-day in its popular GlobalProtect VPN product and promises a patch by April 14 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240412/p22#a240412p22)
- - [House Votes to Extend—and Expand—a Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
- - [What Is an IRS Audit and Who Gets Audited? What You Need to Know     - CNET](https://www.cnet.com/personal-finance/taxes/what-is-an-irs-audit-and-who-gets-audited-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Star Trek: Strange New Worlds has been renewed for a fourth season](https://www.theverge.com/2024/4/12/24128744/star-trek-strange-new-worlds-season-4-lower-decks-cancelled)
+ - [Game publisher blames media for studio closure](https://www.theverge.com/2024/4/12/24128629/prytania-media-possibility-space-shut-down-kotaku-report)
+ - [Samsung Galaxy Z Fold5 &lpar;256GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold5-256gb-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
