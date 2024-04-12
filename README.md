@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Six years after Kingdom Come Deliverance, Warhorse Studios is announcing its new game next week](https://www.pcgamer.com/games/rpg/six-years-after-kingdom-come-deliverance-warhorse-studios-is-announcing-its-new-game-next-week)
  - [Deadpool &amp; Wolverine extended look is a swear-filled explanation of a multiversal mission](https://www.polygon.com/24127531/deadpool-3-wolverine-trailer-clip-tva-multiverse-rated-r)
- - [Helldivers 2&#39;s new Eruptor gun is a beast: basically a support stratagem, but as a primary weapon](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-eruptor-news)
- - [In which I &lpar;mostly&rpar; debunk the latest Fallout controversy that claims Todd Howard used the Fallout show to &#39;retcon&#39; non-Bethesda Fallout games](https://www.pcgamer.com/movies-tv/in-which-i-mostly-debunk-the-latest-fallout-controversy-that-claims-todd-howard-used-the-fallout-show-to-retcon-non-bethesda-fallout-games)<!-- GAME:END -->
+ - [Helldivers 2&#39;s new Eruptor gun is a beast: basically a support stratagem, but as a primary weapon](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-eruptor-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
