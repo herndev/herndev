@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Japanese indie dev tells randoms begging for keys and offering exposure to &#39;buy it, you piece of garbage&#39;](https://www.pcgamer.com/games/roguelike/japanese-indie-dev-tells-randoms-begging-for-keys-and-offering-exposure-to-buy-it-you-piece-of-garbage)
- - [Genshin Impact version 4.6 livestream codes](https://www.polygon.com/genshin-impact-guides/24127452/patch-version-4-6-primogem-codes-redeem)
- - [Ubisoft is stripping people&#39;s licences for The Crew weeks after its shutdown, nearly squandering hopes of fan servers and acting as a stark reminder of how volatile digital ownership is](https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is)<!-- GAME:END -->
+ - [GTA 6 fans spend a week in Miami to painstakingly recreate the trailer shot-by-shot—sans a certain bikini scene that would&#39;ve cost $4,733](https://www.pcgamer.com/games/grand-theft-auto/gta-6-fans-spend-a-week-in-miami-to-painstakingly-recreate-the-trailer-shot-by-shotsans-a-certain-bikini-scene-that-wouldve-cost-dollar4733)
+ - [Fortnite Avatar event quest schedule and Elements rewards](https://www.polygon.com/fortnite-guide/24128422/avatar-event-quest-schedule-elements-rewards)
+ - [Discord Is Taking Out Nintendo Switch Emulator Developers And Servers](https://kotaku.com/nintendo-switch-emulator-yuzu-suyu-sudachi-discord-1851406316)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
