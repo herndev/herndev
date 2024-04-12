@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea will host the second global AI safety summit on May 21-22, six months after the UK held the inaugural event at Bletchley Park &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240412/p11#a240412p11)
- - [Apple health study proves anybody can run a marathon -- given enough time](https://appleinsider.com/articles/24/04/12/apple-health-study-proves-anybody-can-run-a-marathon----given-enough-time?utm_medium=rss)
- - [China is planning to ‘rip and replace’ Intel and AMD chips](https://www.theverge.com/2024/4/12/24128342/china-intel-amd-chips-telecom-providers-ban)<!-- TECH:END -->
+ - [OpenAI gives premium ChatGPT users access to an updated GPT-4 Turbo, promising more direct, less verbose responses, and use of more conversational language &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240412/p15#a240412p15)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Roku says hackers accessed ~576K accounts using credential stuffing, and made purchases in ~400 cases, after a similar breach affecting ~15K accounts in March &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240412/p14#a240412p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
