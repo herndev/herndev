@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
- - ⏩ [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 💣 [Bad experience?](http://9gag.com/gag/aByRmoQ)
+ - ⏩ [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
 
 ---
 
