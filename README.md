@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)
- - ⏩ [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 👉 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)<!-- MEMES:END -->
+ - 💣 [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aVvzw1K)
+ - ⏩ [Clash of civilizations](http://9gag.com/gag/amoNPBo)
+ - 👉 [Equality is just fantasy](http://9gag.com/gag/aYQNo42)<!-- MEMES:END -->
 
 ---
 
