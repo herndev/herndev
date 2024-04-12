@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s 16 pages of what Epic wants after winning its Google app store lawsuit](https://www.theverge.com/2024/4/12/24128531/epic-google-proposed-injunction-remedies)
- - [Epic asks a US court to require Google to allow alt app stores in Play Store and limit Google&#39;s ability to restrict alt app store preloading on Android phones &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240412/p18#a240412p18)
- - [Ugreen DXP8800 Plus network attached storage review: Good hardware, beta software](https://appleinsider.com/articles/24/04/12/ugreen-dxp8800-plus-network-attached-storage-review-good-hardware-beta-software?utm_medium=rss)<!-- TECH:END -->
+ - [The Fitbit Charge 5 is a steal at 50 percent off](https://www.theverge.com/2024/4/12/24128316/fitbit-charge-5-jabra-elite-4-wireless-earbuds-deal-sale)
+ - [Microsoft starts testing ads in the Windows 11 Start menu](https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations)
+ - [House votes to reauthorize FISA, without the warrant requirement amendment](https://www.theverge.com/2024/4/12/24128600/fisa-section-702-house-votes-to-reauthorize-warrant-requirement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
