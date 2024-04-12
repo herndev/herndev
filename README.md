@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 482: Learn How To Dolphin Dive](https://blog.playstation.com/2024/04/12/official-playstation-podcast-episode-482-learn-how-to-dolphin-dive/)
- - [9 Years After Release, Witcher 3 Fans Are Still Finding Easter Eggs](https://kotaku.com/witcher-3-easter-egg-nine-years-later-novigrad-1851406925)
- - [Inkbound review](https://www.pcgamer.com/games/roguelike/inkbound-review)<!-- GAME:END -->
+ - [Everything Fallout has revealed about the NCR](https://www.polygon.com/24125642/fallout-ncr-california-republic-explainer-timeline)
+ - [Xbox Insider Release Notes – Alpha &lpar;2405.240410-2000&rpar;](https://news.xbox.com/en-us/2024/04/12/xbox-insider-release-notes-alpha-2405-240410-2000/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240409-2000&rpar;](https://news.xbox.com/en-us/2024/04/12/xbox-insider-release-notes-alpha-skip-ahead-2408-240409-2000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
