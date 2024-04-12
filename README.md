@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China asked its largest telecom carriers, including China Mobile, to phase out foreign chips from their equipment by 2027, in a blow to Intel and AMD &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p4#a240412p4)
- - [Best Savings Rates Today -- Don&#39;t Sleep on APYs as High as 5.55%, April 12, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-april-12-2024/#ftag=CAD590a51e)
- - [The Google One VPN service is heading to the Google graveyard](https://www.theverge.com/2024/4/12/24128177/google-one-vpn-service-shutdown-announcement-graveyard)<!-- TECH:END -->
+ - [All of the specs of the iPhone SE 4 may have just been leaked](https://appleinsider.com/articles/24/04/12/all-of-the-specs-of-the-iphone-se-4-may-have-just-been-leaked?utm_medium=rss)
+ - [Xiaomi 14 Ultra review: The best camera phone ever?](https://www.androidauthority.com/xiaomi-14-ultra-review-3427893/)
+ - [Apple Music Review: High-Quality Music, Minimum Frills     - CNET](https://www.cnet.com/tech/services-and-software/apple-music-review-high-quality-music-minimum-frills/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
