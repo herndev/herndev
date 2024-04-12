@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenTable plans to display members&#39; first names and profile photos on all reviews, including past reviews, starting May 22 in a bid to provide more transparency &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240411/p35#a240411p35)
- - [Google says it is discontinuing its Google One VPN due to a lack of use; Google&#39;s free Pixel VPN that debuted in 2022 with the Pixel 7 will remain unchanged &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240411/p34#a240411p34)
- - [X’s Premium users can no longer hide their blue checks](https://www.theverge.com/2024/4/11/24127906/x-premium-users-can-no-longer-hide-their-blue-checks)<!-- TECH:END -->
+ - [How to make the most of your Mac&#39;s trackpad](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-your-macs-trackpad?utm_medium=rss)
+ - [Anrok, which provides sales tax management tools to software companies, raised a $30M Series B led by Khosla Ventures at a $250M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240411/p36#a240411p36)
+ - [VPN by Google One is shutting down for good](https://www.androidauthority.com/vpn-by-google-one-shut-down-3433530/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
