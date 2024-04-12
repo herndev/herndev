@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - ⏩ [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 👉 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)<!-- MEMES:END -->
+ - 💣 [How much would you spend for the models? Prada : Yes.](http://9gag.com/gag/a0e87gB)
+ - ⏩ [Becoming a genious because of a lack of self discipline](http://9gag.com/gag/ayN72My)
+ - 👉 [A meme in its natural habitat.](http://9gag.com/gag/a9yb1X6)<!-- MEMES:END -->
 
 ---
 
