@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 15 to 19](https://news.xbox.com/en-us/2024/04/12/next-week-on-xbox-new-games-for-april-15-to-19/)
- - [All Genshin Impact codes from the 4.6 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-6-livestream)
- - [These two crypto-integrated handhelds are aiming to make Web3 gaming happen—because if it doesn&#39;t work the first time, try, try and try again](https://www.pcgamer.com/hardware/handheld-gaming-pcs/these-two-crypto-integrated-handhelds-are-aiming-to-make-web3-gaming-happenbecause-if-it-doesnt-work-the-first-time-try-try-and-try-again)<!-- GAME:END -->
+ - [How Grief and a Deep Love of Games Is at the Centerpiece of Tales of Kenzera: Zau](https://news.xbox.com/en-us/2024/04/12/grief-and-love-of-games-centerpiece-of-tales-of-kenzera-zau/)
+ - [Dead Space meets Half-Life, only its a 3-way co-op horror Sci-Fi game](https://www.pcgamer.com/games/fps/dead-space-meets-half-life-only-its-a-3-way-co-op-horror-sci-fi-game)
+ - [Japanese cops bust interior decorator that moonlighted selling hacked Pokémon: &#39;I did it to make a living&#39;](https://www.pcgamer.com/games/rpg/japanese-cops-bust-interior-decorator-that-moonlighted-selling-hacked-pokemon-i-did-it-to-make-a-living)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
