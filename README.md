@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI gives premium ChatGPT users access to an updated GPT-4 Turbo, promising more direct, less verbose responses, and use of more conversational language &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240412/p15#a240412p15)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Roku says hackers accessed ~576K accounts using credential stuffing, and made purchases in ~400 cases, after a similar breach affecting ~15K accounts in March &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240412/p14#a240412p14)<!-- TECH:END -->
+ - [Samsung’s Galaxy AI features are coming to these 2021 and 2022 devices next month](https://www.androidauthority.com/galaxy-s22-galaxy-ai-3433733/)
+ - [Deal: 53% price drop on the Soundcore Liberty 3 Pro](https://www.androidauthority.com/soundcore-liberty-3-pro-deal-3433737/)
+ - [Best Sony Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
