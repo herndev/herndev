@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Studio Shuts Down Before Shipping A Game, Blames Internal Leaks](https://kotaku.com/possibility-space-shut-down-jeff-strain-email-employees-1851407683)
- - [How to get to the Nameless Village in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110465/nameless-village-how-to-reach)
- - [One week after saying it was &#39;hard at work on our next project,&#39; Immortals of Aveum developer Ascendant Studios has reportedly furloughed most of its remaining staff](https://www.pcgamer.com/gaming-industry/one-week-after-saying-it-was-hard-at-work-on-our-next-project-immortals-of-aveum-developer-ascendant-studios-has-reportedly-furloughed-most-of-its-remaining-staff)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Xbox App [2404.1001.21.0]](https://news.xbox.com/en-us/2024/04/12/xbox-insider-release-notes-xbox-app-2404-1001-21-0/)
+ - [Gigantic: Rampage Edition is a slightly shaky but mostly thrilling revival of my favorite dead game](https://www.pcgamer.com/games/moba/gigantic-rampage-edition-is-a-slightly-shaky-but-mostly-thrilling-revival-of-my-favorite-dead-game)
+ - [Kung Fu Panda 4, Argylle, Netflix’s The Bricklayer, and every new movie to watch this weekend](https://www.polygon.com/2024/4/12/24123440/new-movies-watch-the-bricklayer-netflix-argylle-kung-fu-panda-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
