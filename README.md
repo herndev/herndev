@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Game Studio Shuts Down Before Shipping A Game, Blames Internal Leaks](https://kotaku.com/possibility-space-shut-down-jeff-strain-email-employees-1851407683)
  - [How to get to the Nameless Village in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110465/nameless-village-how-to-reach)
- - [One week after saying it was &#39;hard at work on our next project,&#39; Immortals of Aveum developer Ascendant Studios has reportedly furloughed most of its remaining staff](https://www.pcgamer.com/gaming-industry/one-week-after-saying-it-was-hard-at-work-on-our-next-project-immortals-of-aveum-developer-ascendant-studios-has-reportedly-furloughed-most-of-its-remaining-staff)
- - [The Case For ‘Simple’ Games Like Content Warning](https://kotaku.com/content-warning-impressions-1851407637)<!-- GAME:END -->
+ - [One week after saying it was &#39;hard at work on our next project,&#39; Immortals of Aveum developer Ascendant Studios has reportedly furloughed most of its remaining staff](https://www.pcgamer.com/gaming-industry/one-week-after-saying-it-was-hard-at-work-on-our-next-project-immortals-of-aveum-developer-ascendant-studios-has-reportedly-furloughed-most-of-its-remaining-staff)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
