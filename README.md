@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 fans spend a week in Miami to painstakingly recreate the trailer shot-by-shot—sans a certain bikini scene that would&#39;ve cost $4,733](https://www.pcgamer.com/games/grand-theft-auto/gta-6-fans-spend-a-week-in-miami-to-painstakingly-recreate-the-trailer-shot-by-shotsans-a-certain-bikini-scene-that-wouldve-cost-dollar4733)
- - [Fortnite Avatar event quest schedule and Elements rewards](https://www.polygon.com/fortnite-guide/24128422/avatar-event-quest-schedule-elements-rewards)
- - [Discord Is Taking Out Nintendo Switch Emulator Developers And Servers](https://kotaku.com/nintendo-switch-emulator-yuzu-suyu-sudachi-discord-1851406316)<!-- GAME:END -->
+ - [The official Unpacking merch is too cute — and meta](https://www.polygon.com/deals/2024/4/12/24126538/unpacking-cozy-merch-plush-poster-buy)
+ - [Fallout&#39;s Vaults, ranked from worst to best](https://www.pcgamer.com/best-fallout-vaults)
+ - [MultiVersus fans have become convinced that the game is now slower, and they absolutely hate it](https://www.pcgamer.com/games/fighting/multiversus-fans-have-become-convinced-that-the-game-is-now-slower-and-they-absolutely-hate-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
