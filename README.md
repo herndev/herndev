@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 15 will free you from using Google Wallet as your default wallet app](https://www.androidauthority.com/android-15-default-wallet-app-3433543/)
  - [Uber and Lyft delay their plans to leave Minneapolis until July 1, after city officials voted on April 10 to delay the start of driver pay raise to July 1 &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p2#a240412p2)
- - [Researchers say they haven&#39;t found &quot;strikingly novel compounds&quot; after analyzing a subset of the 2.2M new crystals DeepMind claimed its AI tool GNoMe discovered &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240412/p1#a240412p1)
- - [Sony Xperia 1 VI design leak may have just confirmed a disappointing change](https://www.androidauthority.com/sony-xperia-1-vi-design-renders-leak-3433537/)<!-- TECH:END -->
+ - [Researchers say they haven&#39;t found &quot;strikingly novel compounds&quot; after analyzing a subset of the 2.2M new crystals DeepMind claimed its AI tool GNoMe discovered &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240412/p1#a240412p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
