@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At first we laughed. Then it became reality](http://9gag.com/gag/agm3ozW)
- - ⏩ [Never trust google maps](http://9gag.com/gag/agm3oR1)
- - 👉 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)<!-- MEMES:END -->
+ - 💣 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - ⏩ [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
+ - 👉 [Hot girls only](http://9gag.com/gag/aNDrgG0)<!-- MEMES:END -->
 
 ---
 
