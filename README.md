@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can\u2019t say he\u2019s wrong](http://9gag.com/gag/aoyENGm)
- - ⏩ [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
- - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
+ - 💣 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)
+ - ⏩ [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 👉 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)<!-- MEMES:END -->
 
 ---
 
