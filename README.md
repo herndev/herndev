@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - ⏩ [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
+ - 💣 [Crazy](http://9gag.com/gag/aGyYZbG)
+ - ⏩ [IAATPOS for being a thief\u2026.](http://9gag.com/gag/amoNPpv)
+ - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
 
 ---
 
