@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is that true? \ud83e\udd14](http://9gag.com/gag/aNDrY5A)
- - ⏩ [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 💣 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
+ - ⏩ [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 👉 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)<!-- MEMES:END -->
 
 ---
 
