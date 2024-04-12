@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deadpool &amp; Wolverine extended look is a swear-filled explanation of a multiversal mission](https://www.polygon.com/24127531/deadpool-3-wolverine-trailer-clip-tva-multiverse-rated-r)
  - [Helldivers 2&#39;s new Eruptor gun is a beast: basically a support stratagem, but as a primary weapon](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-eruptor-news)
- - [In which I &lpar;mostly&rpar; debunk the latest Fallout controversy that claims Todd Howard used the Fallout show to &#39;retcon&#39; non-Bethesda Fallout games](https://www.pcgamer.com/movies-tv/in-which-i-mostly-debunk-the-latest-fallout-controversy-that-claims-todd-howard-used-the-fallout-show-to-retcon-non-bethesda-fallout-games)
- - [Blizzard is afraid of spoiling Diablo 4 seasons with regular PTRs, but says the success of season 4&#39;s &#39;does point in the direction of something we&#39;d want to continue to do&#39;](https://www.pcgamer.com/games/rpg/diablo-4-future-ptr-season-rod-fergusson)<!-- GAME:END -->
+ - [In which I &lpar;mostly&rpar; debunk the latest Fallout controversy that claims Todd Howard used the Fallout show to &#39;retcon&#39; non-Bethesda Fallout games](https://www.pcgamer.com/movies-tv/in-which-i-mostly-debunk-the-latest-fallout-controversy-that-claims-todd-howard-used-the-fallout-show-to-retcon-non-bethesda-fallout-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
