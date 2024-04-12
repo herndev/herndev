@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
- - ⏩ [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 👉 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)<!-- MEMES:END -->
+ - 💣 [At first we laughed. Then it became reality](http://9gag.com/gag/agm3ozW)
+ - ⏩ [Never trust google maps](http://9gag.com/gag/agm3oR1)
+ - 👉 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)<!-- MEMES:END -->
 
 ---
 
