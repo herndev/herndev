@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aVvzw1K)
- - ⏩ [Clash of civilizations](http://9gag.com/gag/amoNPBo)
- - 👉 [Equality is just fantasy](http://9gag.com/gag/aYQNo42)<!-- MEMES:END -->
+ - 💣 [Conversation in 2024. be like](http://9gag.com/gag/aRBw757)
+ - ⏩ [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
+ - 👉 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)<!-- MEMES:END -->
 
 ---
 
