@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [A look at Udio, which was founded by four former DeepMind employees in December 2023 and launched a product on April 11 that generates songs from text prompts &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240412/p3#a240412p3)
- - [OpenAI brings big ChatGPT update for paying users](https://www.androidauthority.com/chatgpt-gpt-4-turbo-update-3433581/)<!-- TECH:END -->
+ - [The Google One VPN service is heading to the Google graveyard](https://www.theverge.com/2024/4/12/24128177/google-one-vpn-service-shutdown-announcement-graveyard)
+ - [If You&#39;ve Shopped at Walmart in the Last 6 Years, You Could Get Up to $500 in Settlement Cash. Here&#39;s How to Claim It     - CNET](https://www.cnet.com/personal-finance/if-youve-shopped-at-walmart-in-the-last-6-years-you-could-get-up-to-500-in-settlement-cash-heres-how-to-claim/#ftag=CAD590a51e)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
