@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Trek: Strange New Worlds has been renewed for a fourth season](https://www.theverge.com/2024/4/12/24128744/star-trek-strange-new-worlds-season-4-lower-decks-cancelled)
- - [Game publisher blames media for studio closure](https://www.theverge.com/2024/4/12/24128629/prytania-media-possibility-space-shut-down-kotaku-report)
- - [Samsung Galaxy Z Fold5 &lpar;256GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold5-256gb-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
+ - [Nothing can’t keep a secret, its two upcoming earbuds leak again](https://www.androidauthority.com/nothing-ear-nothing-ear-a-leak-again-3433813/)
+ - [Tesla slashes price for monthly Full Self-Driving subscription](https://www.theverge.com/2024/4/12/24128806/tesla-fsd-subscription-price-cut)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
