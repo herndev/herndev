@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X tells users &quot;the hide your checkmark feature of X Premium is going away soon&quot;, after X began adding blue checks to &quot;influential&quot; users with 2,500+ followers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240411/p32#a240411p32)
- - [CISA is investigating a breach at business intelligence company Sisense; sources: the attackers copied several terabytes of customer data, including credentials &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240411/p31#a240411p31)
- - [Discord is nuking Nintendo Switch emulator devs and their entire servers](https://www.theverge.com/2024/4/11/24127545/discord-suyu-sudachi-server-shutdown-account-ban)<!-- TECH:END -->
+ - [Google says it is discontinuing its Google One VPN due to a lack of use; Google&#39;s free Pixel VPN that debuted in 2022 with the Pixel 7 will remain unchanged &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240411/p34#a240411p34)
+ - [X’s Premium users can no longer hide their blue checks](https://www.theverge.com/2024/4/11/24127906/x-premium-users-can-no-longer-hide-their-blue-checks)
+ - [Virtual physical therapy service Hinge Health lays off ~10% of its workforce; Hinge had an estimated 1,700+ employees, and was valued at $6.2B in October 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240411/p33#a240411p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
