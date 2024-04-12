@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FF7 Rebirth: How To Reach Party Level 10 &lpar;It’s Now Possible For Everyone&rpar;](https://kotaku.com/final-fantasy-7-ff7-rebirth-party-level-10-bug-1851399786)
- - [How to unlock all vocations in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24105051/vocations-list-unlock-all-best-what-to-pick-class)
- - [How to have the best Fallout New Vegas experience today](https://www.pcgamer.com/fallout-new-vegas-guide-tips-best-experience)<!-- GAME:END -->
+ - [How to get to the Nameless Village in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110465/nameless-village-how-to-reach)
+ - [One week after saying it was &#39;hard at work on our next project,&#39; Immortals of Aveum developer Ascendant Studios has reportedly furloughed most of its remaining staff](https://www.pcgamer.com/gaming-industry/one-week-after-saying-it-was-hard-at-work-on-our-next-project-immortals-of-aveum-developer-ascendant-studios-has-reportedly-furloughed-most-of-its-remaining-staff)
+ - [The Case For ‘Simple’ Games Like Content Warning](https://kotaku.com/content-warning-impressions-1851407637)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
