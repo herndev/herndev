@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every time I think that I might go too far, they always prove me wrong.](http://9gag.com/gag/aPAwgRg)
- - ⏩ [Ha! G](http://9gag.com/gag/aMV244X)
- - 👉 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)<!-- MEMES:END -->
+ - 💣 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
+ - ⏩ [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
 
 ---
 
