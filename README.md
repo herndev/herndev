@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 will free you from using Google Wallet as your default wallet app](https://www.androidauthority.com/android-15-default-wallet-app-3433543/)
- - [Uber and Lyft delay their plans to leave Minneapolis until July 1, after city officials voted on April 10 to delay the start of driver pay raise to July 1 &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p2#a240412p2)
- - [Researchers say they haven&#39;t found &quot;strikingly novel compounds&quot; after analyzing a subset of the 2.2M new crystals DeepMind claimed its AI tool GNoMe discovered &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240412/p1#a240412p1)<!-- TECH:END -->
+ - [A look at Udio, which was founded by four former DeepMind employees in December 2023 and launched a product on April 11 that generates songs from text prompts &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240412/p3#a240412p3)
+ - [OpenAI brings big ChatGPT update for paying users](https://www.androidauthority.com/chatgpt-gpt-4-turbo-update-3433581/)
+ - [Android 15 will free you from using Google Wallet as your default wallet app](https://www.androidauthority.com/android-15-default-wallet-app-3433543/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
