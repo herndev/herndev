@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything Fallout has revealed about the NCR](https://www.polygon.com/24125642/fallout-ncr-california-republic-explainer-timeline)
- - [Xbox Insider Release Notes – Alpha &lpar;2405.240410-2000&rpar;](https://news.xbox.com/en-us/2024/04/12/xbox-insider-release-notes-alpha-2405-240410-2000/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240409-2000&rpar;](https://news.xbox.com/en-us/2024/04/12/xbox-insider-release-notes-alpha-skip-ahead-2408-240409-2000/)<!-- GAME:END -->
+ - [FF7 Rebirth: How To Reach Party Level 10 &lpar;It’s Now Possible For Everyone&rpar;](https://kotaku.com/final-fantasy-7-ff7-rebirth-party-level-10-bug-1851399786)
+ - [How to unlock all vocations in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24105051/vocations-list-unlock-all-best-what-to-pick-class)
+ - [How to have the best Fallout New Vegas experience today](https://www.pcgamer.com/fallout-new-vegas-guide-tips-best-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
