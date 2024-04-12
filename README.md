@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Grief and a Deep Love of Games Is at the Centerpiece of Tales of Kenzera: Zau](https://news.xbox.com/en-us/2024/04/12/grief-and-love-of-games-centerpiece-of-tales-of-kenzera-zau/)
- - [Dead Space meets Half-Life, only its a 3-way co-op horror Sci-Fi game](https://www.pcgamer.com/games/fps/dead-space-meets-half-life-only-its-a-3-way-co-op-horror-sci-fi-game)
- - [Japanese cops bust interior decorator that moonlighted selling hacked Pokémon: &#39;I did it to make a living&#39;](https://www.pcgamer.com/games/rpg/japanese-cops-bust-interior-decorator-that-moonlighted-selling-hacked-pokemon-i-did-it-to-make-a-living)<!-- GAME:END -->
+ - [Japanese indie dev tells randoms begging for keys and offering exposure to &#39;buy it, you piece of garbage&#39;](https://www.pcgamer.com/games/roguelike/japanese-indie-dev-tells-randoms-begging-for-keys-and-offering-exposure-to-buy-it-you-piece-of-garbage)
+ - [Genshin Impact version 4.6 livestream codes](https://www.polygon.com/genshin-impact-guides/24127452/patch-version-4-6-primogem-codes-redeem)
+ - [Ubisoft is stripping people&#39;s licences for The Crew weeks after its shutdown, nearly squandering hopes of fan servers and acting as a stark reminder of how volatile digital ownership is](https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
