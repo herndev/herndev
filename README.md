@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
- - ⏩ [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 👉 [Hot girls only](http://9gag.com/gag/aNDrgG0)<!-- MEMES:END -->
+ - 💣 [Every time I think that I might go too far, they always prove me wrong.](http://9gag.com/gag/aPAwgRg)
+ - ⏩ [Ha! G](http://9gag.com/gag/aMV244X)
+ - 👉 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)<!-- MEMES:END -->
 
 ---
 
