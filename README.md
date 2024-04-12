@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Mistral AI CEO Arthur Mensch, who says, as an atheist, he is uncomfortable with Silicon Valley&#39;s &quot;AGI rhetoric&quot; and &quot;religious&quot; fascination with AI &lpar;New York Times&rpar;](http://www.techmeme.com/240412/p8#a240412p8)
- - [This top 4K dash cam just hit a record-low price at $121](https://www.androidauthority.com/redtiger-4k-dash-cam-deal-3433497/)
- - [Sennheiser Momentum True Wireless 4 Review: Big but Still Beautiful](https://www.wired.com/review/sennheiser-momentum-true-wireless-4/)<!-- TECH:END -->
+ - [South Korea will host the second global AI safety summit on May 21-22, six months after the UK held the inaugural event at Bletchley Park &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240412/p11#a240412p11)
+ - [Apple health study proves anybody can run a marathon -- given enough time](https://appleinsider.com/articles/24/04/12/apple-health-study-proves-anybody-can-run-a-marathon----given-enough-time?utm_medium=rss)
+ - [China is planning to ‘rip and replace’ Intel and AMD chips](https://www.theverge.com/2024/4/12/24128342/china-intel-amd-chips-telecom-providers-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
