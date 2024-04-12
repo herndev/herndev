@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
- - [Nothing can’t keep a secret, its two upcoming earbuds leak again](https://www.androidauthority.com/nothing-ear-nothing-ear-a-leak-again-3433813/)
- - [Tesla slashes price for monthly Full Self-Driving subscription](https://www.theverge.com/2024/4/12/24128806/tesla-fsd-subscription-price-cut)<!-- TECH:END -->
+ - [A case study of the creation of an AI-powered local &quot;news&quot; website, directed to produce partisan stories on a US Senate race; a Fiverr developer made it for $80 &lpar;Jack Brewster/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p24#a240412p24)
+ - [Best AirPods Deals: Score up to $70 off on Apple Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Dryer Vent Cleaner     - CNET](https://www.cnet.com/news/dryer-vent-cleaner-kit-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
