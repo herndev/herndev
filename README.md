@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy AI features are coming to these 2021 and 2022 devices next month](https://www.androidauthority.com/galaxy-s22-galaxy-ai-3433733/)
- - [Deal: 53% price drop on the Soundcore Liberty 3 Pro](https://www.androidauthority.com/soundcore-liberty-3-pro-deal-3433737/)
- - [Best Sony Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s 16 pages of what Epic wants after winning its Google app store lawsuit](https://www.theverge.com/2024/4/12/24128531/epic-google-proposed-injunction-remedies)
+ - [Epic asks a US court to require Google to allow alt app stores in Play Store and limit Google&#39;s ability to restrict alt app store preloading on Android phones &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240412/p18#a240412p18)
+ - [Ugreen DXP8800 Plus network attached storage review: Good hardware, beta software](https://appleinsider.com/articles/24/04/12/ugreen-dxp8800-plus-network-attached-storage-review-good-hardware-beta-software?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
