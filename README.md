@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crazy](http://9gag.com/gag/aGyYZbG)
- - ⏩ [IAATPOS for being a thief\u2026.](http://9gag.com/gag/amoNPpv)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 💣 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)
+ - ⏩ [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - 👉 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)<!-- MEMES:END -->
 
 ---
 
