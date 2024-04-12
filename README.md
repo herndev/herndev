@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That hug tho.](http://9gag.com/gag/a7oLWrb)
- - ⏩ [CANDYLION](http://9gag.com/gag/a7oLWEz)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 💣 [IAATPOS for being a thief\u2026.](http://9gag.com/gag/amoNPpv)
+ - ⏩ [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
+ - 👉 [Crazy](http://9gag.com/gag/aGyYZbG)<!-- MEMES:END -->
 
 ---
 
