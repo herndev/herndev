@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam is about to have a big sale on shooters of the first-person variety](https://www.pcgamer.com/games/fps/steam-is-about-to-have-a-big-sale-on-shooters-of-the-first-person-variety)
  - [Today&#39;s Wordle answer for Friday, April 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-12-2024)
- - [I tried to figure out the builds and perks of the Fallout TV show&#39;s protagonists](https://www.pcgamer.com/movies-tv/i-tried-to-figure-out-the-builds-and-perks-of-the-fallout-tv-shows-protagonists)
- - [Six years after Kingdom Come Deliverance, Warhorse Studios is announcing its new game next week](https://www.pcgamer.com/games/rpg/six-years-after-kingdom-come-deliverance-warhorse-studios-is-announcing-its-new-game-next-week)<!-- GAME:END -->
+ - [I tried to figure out the builds and perks of the Fallout TV show&#39;s protagonists](https://www.pcgamer.com/movies-tv/i-tried-to-figure-out-the-builds-and-perks-of-the-fallout-tv-shows-protagonists)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
