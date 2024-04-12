@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, April 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-12-2024)
  - [I tried to figure out the builds and perks of the Fallout TV show&#39;s protagonists](https://www.pcgamer.com/movies-tv/i-tried-to-figure-out-the-builds-and-perks-of-the-fallout-tv-shows-protagonists)
- - [Six years after Kingdom Come Deliverance, Warhorse Studios is announcing its new game next week](https://www.pcgamer.com/games/rpg/six-years-after-kingdom-come-deliverance-warhorse-studios-is-announcing-its-new-game-next-week)
- - [Deadpool &amp; Wolverine extended look is a swear-filled explanation of a multiversal mission](https://www.polygon.com/24127531/deadpool-3-wolverine-trailer-clip-tva-multiverse-rated-r)<!-- GAME:END -->
+ - [Six years after Kingdom Come Deliverance, Warhorse Studios is announcing its new game next week](https://www.pcgamer.com/games/rpg/six-years-after-kingdom-come-deliverance-warhorse-studios-is-announcing-its-new-game-next-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
