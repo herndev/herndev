@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC system requirements for long-awaited Manor Lords city-building smorgasbord are mercifully modest](https://www.pcgamer.com/hardware/the-pc-system-requirements-for-long-awaited-manor-lords-city-building-smorgasbord-are-mercifully-modest)
- - [Which is the best $700 AMD Ryzen gaming PC: a handheld or desktop PC?](https://www.pcgamer.com/hardware/gaming-pcs/which-is-the-best-dollar700-amd-ryzen-gaming-pc-a-handheld-or-desktop-pc)
- - [Steam is about to have a big sale on shooters of the first-person variety](https://www.pcgamer.com/games/fps/steam-is-about-to-have-a-big-sale-on-shooters-of-the-first-person-variety)<!-- GAME:END -->
+ - [These two crypto-integrated handhelds are aiming to make Web3 gaming happen—because if it doesn&#39;t work the first time, try, try and try again](https://www.pcgamer.com/hardware/handheld-gaming-pcs/these-two-crypto-integrated-handhelds-are-aiming-to-make-web3-gaming-happenbecause-if-it-doesnt-work-the-first-time-try-try-and-try-again)
+ - [Content Warning is giving you a chance to actually go viral by sending your best clips to the lost footage project](https://www.pcgamer.com/games/horror/content-warning-is-giving-you-a-chance-to-actually-go-viral-by-sending-your-best-clips-to-the-lost-footage-project)
+ - [Dragon&#39;s Dogma 2 speedrunner proves the game&#39;s most powerful strat is cardio by sprinting through the game in under 2 hours wearing just his undies](https://www.pcgamer.com/games/rpg/dragons-dogma-2-speedrunner-proves-the-games-most-powerful-strat-is-cardio-by-sprinting-through-the-game-in-under-2-hours-in-his-undies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
