@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK judge throws out Apple&#39;s motion to dismiss a $979M lawsuit representing more than 1,500 developers alleging that App Store&#39;s 30% commission is unfair &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p5#a240412p5)
- - [Spotify is developing a remix feature to rival sped-up TikTok tunes](https://www.theverge.com/2024/4/12/24128218/spotify-music-remix-feature-sped-up-tiktok-songs)
- - [Apple Vision Pro Black eyes, dinosaurs, and Apple&#39;s mastery of logistics on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/12/apple-vision-pro-black-eyes-dinosaurs-and-apples-mastery-of-logistics-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Underused VPN by Google One is being shut down](https://appleinsider.com/articles/24/04/12/underused-vpn-by-google-one-is-being-shut-down?utm_medium=rss)
+ - [How &quot;made for advertising&quot; sites, which are criticized for their UX and dubious results for advertisers, get ~15% of automated ad spend or $10B/year, per ANA &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p6#a240412p6)
+ - [UK denies Apple&#39;s bid to dismiss App Store lawsuit](https://appleinsider.com/articles/24/04/12/uk-denies-apples-bid-to-dismiss-app-store-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
