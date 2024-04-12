@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam is about to have a big sale on shooters of the first-person variety](https://www.pcgamer.com/games/fps/steam-is-about-to-have-a-big-sale-on-shooters-of-the-first-person-variety)
- - [Today&#39;s Wordle answer for Friday, April 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-12-2024)
- - [I tried to figure out the builds and perks of the Fallout TV show&#39;s protagonists](https://www.pcgamer.com/movies-tv/i-tried-to-figure-out-the-builds-and-perks-of-the-fallout-tv-shows-protagonists)<!-- GAME:END -->
+ - [The PC system requirements for long-awaited Manor Lords city-building smorgasbord are mercifully modest](https://www.pcgamer.com/hardware/the-pc-system-requirements-for-long-awaited-manor-lords-city-building-smorgasbord-are-mercifully-modest)
+ - [Which is the best $700 AMD Ryzen gaming PC: a handheld or desktop PC?](https://www.pcgamer.com/hardware/gaming-pcs/which-is-the-best-dollar700-amd-ryzen-gaming-pc-a-handheld-or-desktop-pc)
+ - [Steam is about to have a big sale on shooters of the first-person variety](https://www.pcgamer.com/games/fps/steam-is-about-to-have-a-big-sale-on-shooters-of-the-first-person-variety)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
