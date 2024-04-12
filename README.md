@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The official Unpacking merch is too cute — and meta](https://www.polygon.com/deals/2024/4/12/24126538/unpacking-cozy-merch-plush-poster-buy)
- - [Fallout&#39;s Vaults, ranked from worst to best](https://www.pcgamer.com/best-fallout-vaults)
- - [MultiVersus fans have become convinced that the game is now slower, and they absolutely hate it](https://www.pcgamer.com/games/fighting/multiversus-fans-have-become-convinced-that-the-game-is-now-slower-and-they-absolutely-hate-it)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 482: Learn How To Dolphin Dive](https://blog.playstation.com/2024/04/12/official-playstation-podcast-episode-482-learn-how-to-dolphin-dive/)
+ - [9 Years After Release, Witcher 3 Fans Are Still Finding Easter Eggs](https://kotaku.com/witcher-3-easter-egg-nine-years-later-novigrad-1851406925)
+ - [Inkbound review](https://www.pcgamer.com/games/roguelike/inkbound-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
