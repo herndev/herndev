@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Underused VPN by Google One is being shut down](https://appleinsider.com/articles/24/04/12/underused-vpn-by-google-one-is-being-shut-down?utm_medium=rss)
- - [How &quot;made for advertising&quot; sites, which are criticized for their UX and dubious results for advertisers, get ~15% of automated ad spend or $10B/year, per ANA &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p6#a240412p6)
- - [UK denies Apple&#39;s bid to dismiss App Store lawsuit](https://appleinsider.com/articles/24/04/12/uk-denies-apples-bid-to-dismiss-app-store-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [A profile of Mistral AI CEO Arthur Mensch, who says, as an atheist, he is uncomfortable with Silicon Valley&#39;s &quot;AGI rhetoric&quot; and &quot;religious&quot; fascination with AI &lpar;New York Times&rpar;](http://www.techmeme.com/240412/p8#a240412p8)
+ - [This top 4K dash cam just hit a record-low price at $121](https://www.androidauthority.com/redtiger-4k-dash-cam-deal-3433497/)
+ - [Sennheiser Momentum True Wireless 4 Review: Big but Still Beautiful](https://www.wired.com/review/sennheiser-momentum-true-wireless-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
