@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Xperia 1 VI design leak may have just confirmed a disappointing change](https://www.androidauthority.com/sony-xperia-1-vi-design-renders-leak-3433537/)
  - [How to make the most of your Mac&#39;s trackpad](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-your-macs-trackpad?utm_medium=rss)
- - [Anrok, which provides sales tax management tools to software companies, raised a $30M Series B led by Khosla Ventures at a $250M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240411/p36#a240411p36)
- - [VPN by Google One is shutting down for good](https://www.androidauthority.com/vpn-by-google-one-shut-down-3433530/)<!-- TECH:END -->
+ - [Anrok, which provides sales tax management tools to software companies, raised a $30M Series B led by Khosla Ventures at a $250M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240411/p36#a240411p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
