@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feast your eyes on the cleanest Pixel 8a render so far](https://www.androidauthority.com/clean-google-pixel-8a-render-3434076/)
- - [Singapore-based used car marketplace Carro raised ~$100M in pre-IPO funding at a $1.5B+ valuation and reports its first annual operating profit &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240415/p7#a240415p7)
- - [The US Government Has a Microsoft Problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)<!-- TECH:END -->
+ - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
+ - [Rumor: iPhone 16 Pro camera coating could reduce lens flare](https://appleinsider.com/articles/24/04/15/rumor-iphone-16-pro-camera-coating-could-reduce-lens-flare?utm_medium=rss)
+ - [This is what Pixel 9’s Satellite Pointing UI will look like](https://www.androidauthority.com/android-satellite-pointing-ui-look-3434080/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
