@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla lays off ‘more than 10 percent’ of its workforce, loses top executives](https://www.theverge.com/2024/4/15/24130735/tesla-layoffs-10-percent-workforce-disappointing-sales)
- - [Removal of App Store&#39;s first emulator leaves more questions than answers](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
- - [Fake Footage of Iran’s Attack on Israel Is Going Viral](https://www.wired.com/story/iran-israel-attack-viral-fake-content/)<!-- TECH:END -->
+ - [Viber beats WhatsApp and Telegram, offers AI-powered chat summaries](https://www.androidauthority.com/viber-ai-chat-summarizer-3434286/)
+ - [GenAI phones will grow 4x by 2027, but do you really care?](https://www.androidauthority.com/genai-phones-grow-4x-2027-3434254/)
+ - [T-Mobile employees report being lured into helping scammers steal user’s phone lines](https://www.androidauthority.com/t-mobile-sim-swapping-scam-3434272/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
