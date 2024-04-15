@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Western Women](http://9gag.com/gag/aD2A7Dw)
- - ⏩ [NFT](http://9gag.com/gag/aW4Q74K)
- - 👉 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)<!-- MEMES:END -->
+ - 💣 [Mouse trap: the stick version](http://9gag.com/gag/aMV2nxG)
+ - ⏩ [Chad woman](http://9gag.com/gag/aO8KZ93)
+ - 👉 [Harry Potter in 1950](http://9gag.com/gag/aVvzKny)<!-- MEMES:END -->
 
 ---
 
