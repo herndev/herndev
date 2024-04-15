@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus Pad 2 launch window may have just leaked](https://www.androidauthority.com/oneplus-pad-2-launch-window-3434032/)
  - [The Pixel 8a briefly appeared on US Cellular, and we’re excited](https://www.androidauthority.com/google-pixel-8a-us-cellular-support-page-spotting-3434025/)
- - [Samsung snatches top spot from Apple in global smartphone market](https://www.androidauthority.com/samsung-apple-global-smartphone-market-q1-2024-3434030/)
- - [The first Apple-approved emulator for the iPhone has arrived... and been pulled](https://www.theverge.com/2024/4/14/24129981/game-boy-emulator-igba-iphone-ios-app-store-gba4ios-testut-knock-off)<!-- TECH:END -->
+ - [Samsung snatches top spot from Apple in global smartphone market](https://www.androidauthority.com/samsung-apple-global-smartphone-market-q1-2024-3434030/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
