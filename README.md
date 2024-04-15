@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to pass time in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24105922/change-time-day-night-camp-inn-doze-off-bench)
- - [Pepper Grinder is a fast, fluid platformer you shouldn’t miss](https://www.polygon.com/reviews/24131275/pepper-grinder-review-devolver-digital-pc)
- - [Fallout Show Hides A Terrifying Easter Egg In Plain Sight](https://kotaku.com/fallout-easter-egg-phone-number-vaults-1851411342)<!-- GAME:END -->
+ - [Brace yourselves: Microsoft wants to put ads in Windows 11&#39;s Start menu](https://www.pcgamer.com/software/operating-systems/brace-yourselves-microsoft-wants-to-put-ads-in-windows-11s-start-menu)
+ - [Skybound is making an Invincible game and it wants people to invest in the company to help make it happen](https://www.pcgamer.com/gaming-industry/skybound-is-making-an-invincible-game-and-it-wants-people-to-invest-in-the-company-to-help-make-it-happen)
+ - [Keanu Reeves Is Shadow In Sonic The Hedgehog 3](https://kotaku.com/sonic-the-hedgehog-3-movie-shadow-actor-keanu-reeves-1851411677)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
