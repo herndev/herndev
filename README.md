@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is making it easier to bring Quest headsets into the classroom](https://www.theverge.com/2024/4/15/24130850/meta-quest-headsets-educational-product-classroom)
- - [Q&amp;A with Dropbox CEO Drew Houston on adding AI tools, evolving beyond file syncing, rejecting Steve Jobs&#39; buyout offer, online storage, remote working, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240415/p14#a240415p14)
- - [An interview with Framework CEO Nirav Patel on ongoing firmware and software issues with its repairable laptops, the planned fixes, Intel and AMD, and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240415/p13#a240415p13)<!-- TECH:END -->
+ - [Source: a16z closed $7.2B for its newest set of funds, with allocations for AI infrastructure, AI apps, its &quot;American Dynamism&quot; strategy, and more &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240415/p16#a240415p16)
+ - [Apple uses a unique method to stream and present immersive video](https://appleinsider.com/articles/24/04/15/apple-uses-a-unique-method-to-stream-and-present-immersive-video?utm_medium=rss)
+ - [Adobe&#39;s generative AI video tools are coming soon to Premiere Pro](https://appleinsider.com/articles/24/04/15/adobes-generative-ai-video-tools-are-coming-soon-to-premier-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
