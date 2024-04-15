@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019d pay good money for this](http://9gag.com/gag/amoNGNj)
- - ⏩ [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)
+ - 💣 [Western Women](http://9gag.com/gag/aD2A7Dw)
+ - ⏩ [NFT](http://9gag.com/gag/aW4Q74K)
  - 👉 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)<!-- MEMES:END -->
 
 ---
