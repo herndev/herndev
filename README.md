@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14&#39;s blacklisting functionality is getting an overdue overhaul: &#39;it is time we implement features to protect everyone&#39;s experience&#39;](https://www.pcgamer.com/games/mmo/final-fantasy-14s-blacklisting-functionality-is-getting-an-overdue-overhaul-it-is-time-we-implement-features-to-protect-everyones-experience)
- - [Live-Action One-Punch Man Movie Recruits Rick &amp; Morty Co-Creator](https://kotaku.com/one-punch-man-live-action-movie-rick-morty-dan-harmon-1851410277)
- - [All Destiny 2 Oracle locations in The Whisper mission](https://www.pcgamer.com/games/fps/destiny-2-oracle-locations-whisper)<!-- GAME:END -->
+ - [Ex-Blizzard Exec Dragged For Suggesting Gamers Start Tipping](https://kotaku.com/elden-ring-overwatch-blizzard-microtransactions-tipping-1851410524)
+ - [FF7 Rebirth’s Confusing ‘Retry From This Battle’ Screen, Explained [Update: They Fixed It, Kinda]](https://kotaku.com/final-fantasy-7-ff7-rebirth-retry-this-current-battle-1851353657)
+ - [Nixxes is &#39;sort of waiting for FSR 3.1&#39; before adding AMD&#39;s frame generation to Horizon Forbidden West because it wants &#39;the latest and greatest before integrating it&#39;](https://www.pcgamer.com/hardware/graphics-cards/nixxes-is-sort-of-waiting-for-fsr-31-before-adding-amds-frame-generation-to-horizon-forbidden-west-because-it-wants-the-latest-and-greatest-before-integrating-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
