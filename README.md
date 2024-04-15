@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
- - ⏩ [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)
+ - 💣 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
+ - ⏩ [NFT](http://9gag.com/gag/aW4Q74K)
  - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
 
 ---
