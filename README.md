@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: cloud data management startup Rubrik plans to sell 23M shares priced between $28 and $31 each, raising up to $713M and reaching a $5.4B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240415/p5#a240415p5)
- - [OpenAI opens a Tokyo office, releases a Japanese language GPT-4 model, and taps former president of AWS&#39;s Japan arm Tadao Nagasaki to lead an enterprise push &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p4#a240415p4)
- - [App Store&#39;s first emulator looks like it&#39;s an ad-loaded knockoff [u]](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)<!-- TECH:END -->
+ - [Feast your eyes on the cleanest Pixel 8a render so far](https://www.androidauthority.com/clean-google-pixel-8a-render-3434076/)
+ - [Singapore-based used car marketplace Carro raised ~$100M in pre-IPO funding at a $1.5B+ valuation and reports its first annual operating profit &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240415/p7#a240415p7)
+ - [The US Government Has a Microsoft Problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
