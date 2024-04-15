@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Drill Into the Competition in Overwatch 2 – Season 10](https://overwatch.blizzard.com/en-us/news/24072105/#new_tab)
- - [Gear up for Quests from the Infinite Staircase with seven classic D&amp;D adventures for just $32](https://www.polygon.com/deals/2024/4/15/24130945/quests-from-the-infinite-staircase-dungeons-and-dragons-tabletop-deal-sale)
- - [Some Of 2024’s Biggest Games Are Buy 2, Get 1 Free At GameStop](https://kotaku.com/gamestop-sale-free-final-fantasy-7-elden-ring-fallout-1851411043)<!-- GAME:END -->
+ - [Apex Legends Tournament Sparks Backlash From Queer Fans And Allies](https://kotaku.com/apex-legends-lgbtqia-characters-tournament-saudi-arabia-1851411189)
+ - [Bethesda Has Revealed Fallout TV Characters&#39; Stats](https://kotaku.com/fallout-show-amazon-prime-character-special-stats-lucy-1851411135)
+ - [Netflix’s The Circle, Conan O’Brien’s new show, and more new TV this week](https://www.polygon.com/2024/4/15/24120510/netflix-new-tv-jinx-circle-conan-obrien-spiderwick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
