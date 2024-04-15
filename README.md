@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - ⏩ [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
- - 👉 [Screw that sh*t](http://9gag.com/gag/aMV2vGR)<!-- MEMES:END -->
+ - 💣 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - ⏩ [Cover up](http://9gag.com/gag/adB0eNZ)
+ - 👉 [Fans knows what&#39;s up](http://9gag.com/gag/aVvzZGK)<!-- MEMES:END -->
 
 ---
 
