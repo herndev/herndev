@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a free demo for upcoming survival crafting, monster-battling, town-builder Tinkerlands](https://www.pcgamer.com/games/survival-crafting/heres-a-free-demo-for-upcoming-survival-crafting-monster-battling-town-builder-tinkerlands)
- - [Former Blizzard president suggests you should be able to leave a $10 or $20 tip for the devs because &#39;Some games are that special&#39;](https://www.pcgamer.com/gaming-industry/former-blizzard-president-suggests-you-should-be-able-to-leave-a-dollar10-or-dollar20-tip-for-the-devs-because-some-games-are-that-special)
- - [Blasphemous dev reveals that Baldur&#39;s Gate 3 studio Larian quietly backed the game on Kickstarter for $1000 and never asked for anything in return](https://www.pcgamer.com/games/action/blasphemous-dev-reveals-that-baldurs-gate-3-studio-larian-quietly-backed-the-game-on-kickstarter-for-dollar1000-and-never-asked-for-anything-in-return)<!-- GAME:END -->
+ - [There&#39;s a Pac-Man battle royale coming to Steam](https://www.pcgamer.com/games/battle-royale/theres-a-pac-man-battle-royale-coming-to-steam)
+ - [Five new Steam games you probably missed &lpar;April 15, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-15-2024)
+ - [Here&#39;s a free demo for upcoming survival crafting, monster-battling, town-builder Tinkerlands](https://www.pcgamer.com/games/survival-crafting/heres-a-free-demo-for-upcoming-survival-crafting-monster-battling-town-builder-tinkerlands)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
