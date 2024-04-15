@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s new LGA 1851 socket breaks cover giving us even more pins to mush with an errant thumb](https://www.pcgamer.com/hardware/processors/intels-new-lga-1851-socket-breaks-cover-giving-us-even-more-pins-to-mush-with-an-errant-thumb)
- - [A repair shop reveals the RTX 4090 melting connector problem remains worryingly widespread](https://www.pcgamer.com/hardware/graphics-cards/a-repair-shop-reveals-the-rtx-4090-melting-connector-problem-remains-worryingly-widespread)
- - [Someone has a &#39;brainrot theory&#39; about what&#39;s going on with the Brotherhood in the Fallout TV show and I kind of want it to be true](https://www.pcgamer.com/movies-tv/someone-has-a-brainrot-theory-about-whats-going-on-with-the-brotherhood-in-the-fallout-tv-show-and-i-kind-of-want-it-to-be-true)<!-- GAME:END -->
+ - [Game Changer’s first great mindfuck of the season was a simple game of bingo](https://www.polygon.com/24128357/game-changer-bingo-twist-season-6)
+ - [City builders continue to dominate Steam as Manor Lords becomes its most wishlisted game](https://www.pcgamer.com/games/city-builder/city-builders-continue-to-dominate-steam-as-manor-lords-becomes-its-most-wishlisted-game)
+ - [Helldivers 2 dev says melee weapons are a &#39;plausible&#39; addition but they won&#39;t be Star Wars lightsabers: &#39;we don&#39;t want to be Fortnite&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-says-melee-weapons-are-a-plausible-addition-but-dont-expect-star-wars-lightsabers-we-dont-want-to-be-fortnite)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
