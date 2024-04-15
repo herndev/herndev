@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [Rumor: iPhone 16 Pro camera coating could reduce lens flare](https://appleinsider.com/articles/24/04/15/rumor-iphone-16-pro-camera-coating-could-reduce-lens-flare?utm_medium=rss)
- - [This is what Pixel 9’s Satellite Pointing UI will look like](https://www.androidauthority.com/android-satellite-pointing-ui-look-3434080/)<!-- TECH:END -->
+ - [A OnePlus flip foldable could be coming with a rare feature](https://www.androidauthority.com/oneplus-flip-foldable-leak-3434110/)
+ - [Asus ROG Strix Scar 18 &lpar;2024&rpar; Review: Portable Powerhouse Gaming](https://www.wired.com/review/asus-rog-strix-scar-18/)
+ - [As Microsoft begins its most ambitious security overhaul in two decades, critics question if Microsoft has sufficient incentive to make deep and lasting changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p9#a240415p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
