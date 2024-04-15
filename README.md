@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
- - ⏩ [Another stabbing down under.](http://9gag.com/gag/aKGw801)
+ - 💣 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
+ - ⏩ [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
  - 👉 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)<!-- MEMES:END -->
 
 ---
