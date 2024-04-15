@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Prime&#39;s Fallout Show Has Everyone Playing The Games](https://kotaku.com/fallout-tv-show-amazon-prime-steam-pc-new-vegas-1851410034)
- - [Western Digital will be shipping 4TB SD cards in 2025 for handhelds, laptops, or anything that needs tiny-BIG storage](https://www.pcgamer.com/hardware/storage/western-digital-will-be-shipping-4tb-sd-cards-in-2025-for-handhelds-laptops-or-anything-that-needs-tiny-big-storage)
- - [Game Changer’s first great mindfuck of the season was a simple game of bingo](https://www.polygon.com/24128357/game-changer-bingo-twist-season-6)<!-- GAME:END -->
+ - [Final Fantasy 14&#39;s blacklisting functionality is getting an overdue overhaul: &#39;it is time we implement features to protect everyone&#39;s experience&#39;](https://www.pcgamer.com/games/mmo/final-fantasy-14s-blacklisting-functionality-is-getting-an-overdue-overhaul-it-is-time-we-implement-features-to-protect-everyones-experience)
+ - [Live-Action One-Punch Man Movie Recruits Rick &amp; Morty Co-Creator](https://kotaku.com/one-punch-man-live-action-movie-rick-morty-dan-harmon-1851410277)
+ - [All Destiny 2 Oracle locations in The Whisper mission](https://www.pcgamer.com/games/fps/destiny-2-oracle-locations-whisper)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
