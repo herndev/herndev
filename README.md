@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mouse trap: the stick version](http://9gag.com/gag/aMV2nxG)
- - ⏩ [Chad woman](http://9gag.com/gag/aO8KZ93)
- - 👉 [Harry Potter in 1950](http://9gag.com/gag/aVvzKny)<!-- MEMES:END -->
+ - 💣 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
+ - ⏩ [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)
+ - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
 
 ---
 
