@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 dev warns players not to &#39;fall in love&#39; with datamined content that might never come out: &#39;Some are ancient leftovers, some are things that will pop up in the game&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-warns-players-not-to-fall-in-love-with-datamined-content-that-might-never-come-out-some-are-ancient-leftovers-some-are-things-that-will-pop-up-in-the-game)
- - [Keanu Reeves to voice Shadow in Sonic 3 movie, says report](https://www.polygon.com/24131363/keanu-reeves-shadow-the-hedgehod-sonic-3)
- - [The Fallout show&#39;s loser Squire Thaddeus is the most quintessential game sidequest character](https://www.pcgamer.com/movies-tv/the-fallout-shows-loser-squire-thaddeus-is-the-most-quintessential-game-sidequest-character)<!-- GAME:END -->
+ - [The Fallout show&#39;s Wasteland was partially shot in a real ghost town in the same desert where Mad Max: Fury Road was filmed](https://www.pcgamer.com/movies-tv/fallout-show-shooting-location-namibia)
+ - [Former Dragon Age lead writer David Gaider says a Dragon Age TV series is &#39;a terrible idea,&#39; and he&#39;s not very keen on Mass Effect either](https://www.pcgamer.com/movies-tv/former-dragon-age-lead-writer-david-gaider-says-a-dragon-age-tv-series-is-a-terrible-idea-and-hes-not-very-keen-on-mass-effect-either)
+ - [Helldivers 2 dev warns players not to &#39;fall in love&#39; with datamined content that might never come out: &#39;Some are ancient leftovers, some are things that will pop up in the game&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-warns-players-not-to-fall-in-love-with-datamined-content-that-might-never-come-out-some-are-ancient-leftovers-some-are-things-that-will-pop-up-in-the-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
