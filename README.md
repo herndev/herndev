@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s new LGA 1851 socket breaks cover giving us even more pins to mush with an errant thumb](https://www.pcgamer.com/hardware/processors/intels-new-lga-1851-socket-breaks-cover-giving-us-even-more-pins-to-mush-with-an-errant-thumb)
  - [A repair shop reveals the RTX 4090 melting connector problem remains worryingly widespread](https://www.pcgamer.com/hardware/graphics-cards/a-repair-shop-reveals-the-rtx-4090-melting-connector-problem-remains-worryingly-widespread)
- - [Someone has a &#39;brainrot theory&#39; about what&#39;s going on with the Brotherhood in the Fallout TV show and I kind of want it to be true](https://www.pcgamer.com/movies-tv/someone-has-a-brainrot-theory-about-whats-going-on-with-the-brotherhood-in-the-fallout-tv-show-and-i-kind-of-want-it-to-be-true)
- - [A canceled Nintendo 64 Tomb Raider knock-off has been saved so you can emulate it today](https://www.pcgamer.com/games/action/a-canceled-nintendo-64-tomb-raider-knock-off-has-been-saved-so-you-can-emulate-it-today)<!-- GAME:END -->
+ - [Someone has a &#39;brainrot theory&#39; about what&#39;s going on with the Brotherhood in the Fallout TV show and I kind of want it to be true](https://www.pcgamer.com/movies-tv/someone-has-a-brainrot-theory-about-whats-going-on-with-the-brotherhood-in-the-fallout-tv-show-and-i-kind-of-want-it-to-be-true)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
