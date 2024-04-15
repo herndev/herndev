@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A OnePlus flip foldable could be coming with a rare feature](https://www.androidauthority.com/oneplus-flip-foldable-leak-3434110/)
- - [Asus ROG Strix Scar 18 &lpar;2024&rpar; Review: Portable Powerhouse Gaming](https://www.wired.com/review/asus-rog-strix-scar-18/)
- - [As Microsoft begins its most ambitious security overhaul in two decades, critics question if Microsoft has sufficient incentive to make deep and lasting changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p9#a240415p9)<!-- TECH:END -->
+ - [Limitless is a new AI tool for your meetings — and an all-hearing wearable gadget](https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings)
+ - [Dropbox CEO Drew Houston wants you to embrace AI and remote work](https://www.theverge.com/24128606/dropbox-drew-houston-ai-remote-work-virtual-organization)
+ - [Adobe is in the early stages of developing a way to let users tap third-party tools from OpenAI, Runway, and Pika Labs to generate and use video in Premiere Pro &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240415/p12#a240415p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
