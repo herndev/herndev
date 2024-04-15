@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - ⏩ [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
- - 👉 [Hot girls only](http://9gag.com/gag/aNDrgG0)<!-- MEMES:END -->
+ - 💣 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
+ - ⏩ [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
+ - 👉 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
 
 ---
 
