@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
- - ⏩ [Cover up](http://9gag.com/gag/adB0eNZ)
- - 👉 [Fans knows what&#39;s up](http://9gag.com/gag/aVvzZGK)<!-- MEMES:END -->
+ - 💣 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
+ - ⏩ [Paris City Hall has just presented the official sandwich for the 2024 Olympic Games. 30\u20ac on its own, 36\u20ac with a drink.](http://9gag.com/gag/avypRpb)
+ - 👉 [One way to make them learn](http://9gag.com/gag/aZZbQQp)<!-- MEMES:END -->
 
 ---
 
