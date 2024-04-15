@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australian court is the latest to attack Apple on behalf of rich corporations](https://appleinsider.com/articles/24/04/15/australian-court-is-the-latest-to-attack-apple-on-behalf-of-rich-corporations?utm_medium=rss)
- - [Sources: Instagram is in the early stages of testing &quot;Creator AI&quot; chatbots for top influencers, which would automate DM responses to fans in a creator&#39;s &quot;voice&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/240415/p17#a240415p17)
- - [Morgan Stanley fires back at iPhone doomsday research](https://appleinsider.com/articles/24/04/15/morgan-stanley-fires-back-at-iphone-doomsday-research?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla lays off ‘more than 10 percent’ of its workforce, loses top executives](https://www.theverge.com/2024/4/15/24130735/tesla-layoffs-10-percent-workforce-disappointing-sales)
+ - [Removal of App Store&#39;s first emulator leaves more questions than answers](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
+ - [Fake Footage of Iran’s Attack on Israel Is Going Viral](https://www.wired.com/story/iran-israel-attack-viral-fake-content/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
