@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus Pad 2 launch window may have just leaked](https://www.androidauthority.com/oneplus-pad-2-launch-window-3434032/)
- - [The Pixel 8a briefly appeared on US Cellular, and we’re excited](https://www.androidauthority.com/google-pixel-8a-us-cellular-support-page-spotting-3434025/)
- - [Samsung snatches top spot from Apple in global smartphone market](https://www.androidauthority.com/samsung-apple-global-smartphone-market-q1-2024-3434030/)<!-- TECH:END -->
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [HUAWEI is killing its P series flagships and starting again ‘with a new attitude’](https://www.androidauthority.com/huawei-pura-70-series-rebranding-3434037/)
+ - [Crypto FOMO Is Back. So Are the Scams](https://www.wired.com/story/cryptocurrency-scams-memecoins/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
