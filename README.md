@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brace yourselves: Microsoft wants to put ads in Windows 11&#39;s Start menu](https://www.pcgamer.com/software/operating-systems/brace-yourselves-microsoft-wants-to-put-ads-in-windows-11s-start-menu)
- - [Skybound is making an Invincible game and it wants people to invest in the company to help make it happen](https://www.pcgamer.com/gaming-industry/skybound-is-making-an-invincible-game-and-it-wants-people-to-invest-in-the-company-to-help-make-it-happen)
- - [Keanu Reeves Is Shadow In Sonic The Hedgehog 3](https://kotaku.com/sonic-the-hedgehog-3-movie-shadow-actor-keanu-reeves-1851411677)<!-- GAME:END -->
+ - [Helldivers 2 dev warns players not to &#39;fall in love&#39; with datamined content that might never come out: &#39;Some are ancient leftovers, some are things that will pop up in the game&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-warns-players-not-to-fall-in-love-with-datamined-content-that-might-never-come-out-some-are-ancient-leftovers-some-are-things-that-will-pop-up-in-the-game)
+ - [Keanu Reeves to voice Shadow in Sonic 3 movie, says report](https://www.polygon.com/24131363/keanu-reeves-shadow-the-hedgehod-sonic-3)
+ - [The Fallout show&#39;s loser Squire Thaddeus is the most quintessential game sidequest character](https://www.pcgamer.com/movies-tv/the-fallout-shows-loser-squire-thaddeus-is-the-most-quintessential-game-sidequest-character)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
