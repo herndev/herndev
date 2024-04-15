@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2024’s funniest comedy runs silent movies through a video game filter](https://www.polygon.com/reviews/24127338/hundreds-of-beavers-movie-review-funny-new-comedy-silent)
- - [PS1 Handheld Is A Retro Gamer’s Dream Come True](https://kotaku.com/playstation-one-ps1-hanami-handheld-ff7-yveltalgriffin-1851410777)
- - [Fortnite Avatar event quest schedule and Elements rewards](https://www.polygon.com/fortnite-guide/24128422/avatar-event-quest-schedule-elements-rewards)<!-- GAME:END -->
+ - [Drill Into the Competition in Overwatch 2 – Season 10](https://overwatch.blizzard.com/en-us/news/24072105/#new_tab)
+ - [Gear up for Quests from the Infinite Staircase with seven classic D&amp;D adventures for just $32](https://www.polygon.com/deals/2024/4/15/24130945/quests-from-the-infinite-staircase-dungeons-and-dragons-tabletop-deal-sale)
+ - [Some Of 2024’s Biggest Games Are Buy 2, Get 1 Free At GameStop](https://kotaku.com/gamestop-sale-free-final-fantasy-7-elden-ring-fallout-1851411043)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
