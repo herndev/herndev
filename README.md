@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viber beats WhatsApp and Telegram, offers AI-powered chat summaries](https://www.androidauthority.com/viber-ai-chat-summarizer-3434286/)
- - [GenAI phones will grow 4x by 2027, but do you really care?](https://www.androidauthority.com/genai-phones-grow-4x-2027-3434254/)
- - [T-Mobile employees report being lured into helping scammers steal user’s phone lines](https://www.androidauthority.com/t-mobile-sim-swapping-scam-3434272/)<!-- TECH:END -->
+ - [As nine US states advance online child safety bills, a look at tech giants&#39; lobbying efforts against the legislation, led by industry group NetChoice &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240415/p22#a240415p22)
+ - [T-Mobile employees report being lured into scamming customers &lpar;Update: T-Mobile statement&rpar;](https://www.androidauthority.com/t-mobile-sim-swapping-scam-3434272/)
+ - [Is a watchdog for corporate climate commitments caving to industry?](https://www.theverge.com/2024/4/15/24130886/climate-change-corporate-watchdog-sbti-carbon-offsets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
