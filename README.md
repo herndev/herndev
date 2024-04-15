@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
- - ⏩ [Paris City Hall has just presented the official sandwich for the 2024 Olympic Games. 30\u20ac on its own, 36\u20ac with a drink.](http://9gag.com/gag/avypRpb)
- - 👉 [One way to make them learn](http://9gag.com/gag/aZZbQQp)<!-- MEMES:END -->
+ - 💣 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - ⏩ [Another stabbing down under.](http://9gag.com/gag/aKGw801)
+ - 👉 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)<!-- MEMES:END -->
 
 ---
 
