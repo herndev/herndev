@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yesterday evening, there was a robbery at a phone shop in Whitechapel. The people who own the shop locked the thieves inside so they couldn&#39;t get away.](http://9gag.com/gag/ayN73qp)
- - ⏩ [Old man short-circuited college woman](http://9gag.com/gag/aD2AnX9)
- - 👉 [How does this works](http://9gag.com/gag/aD2A6wO)<!-- MEMES:END -->
+ - 💣 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - ⏩ [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 👉 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)<!-- MEMES:END -->
 
 ---
 
