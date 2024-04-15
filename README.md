@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Xperia 1 VI rumors: Expected release date and what we know so far](https://www.androidauthority.com/sony-xperia-1-vi-3361570/)
  - [An overview of Bureau of Labor Statistics data, which shows California&#39;s percentage of US tech jobs has continued to steadily decline since 2020 &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240415/p1#a240415p1)
- - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for April 15, #1031     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-15-1031/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
