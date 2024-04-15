@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
- - ⏩ [NFT](http://9gag.com/gag/aW4Q74K)
- - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
+ - 💣 [Yesterday evening, there was a robbery at a phone shop in Whitechapel. The people who own the shop locked the thieves inside so they couldn&#39;t get away.](http://9gag.com/gag/ayN73qp)
+ - ⏩ [Old man short-circuited college woman](http://9gag.com/gag/aD2AnX9)
+ - 👉 [How does this works](http://9gag.com/gag/aD2A6wO)<!-- MEMES:END -->
 
 ---
 
