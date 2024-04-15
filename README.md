@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keanu Reeves is voicing Shadow the Hedgehog in the third Sonic movie](https://www.theverge.com/2024/4/15/24131385/keanu-reeves-shadow-the-hedgehog-sonic-3)
- - [YouTube’s ad blocker crackdown now includes third-party apps](https://www.theverge.com/2024/4/15/24131338/youtube-ad-blocker-crackdown-mobile-apps)
- - [Got an iPhone 15 Pro or Pro Max? You&#39;ll Want to Explore These 3 New Features     - CNET](https://www.cnet.com/tech/mobile/got-an-iphone-15-pro-or-pro-max-youll-want-to-explore-these-3-new-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK mulling potential AI regulation](https://www.theverge.com/2024/4/15/24131392/uk-ai-regulation-draft-safety)
+ - [Japan to seek up to 20% fine for monopolistic practices by Apple](https://appleinsider.com/articles/24/04/15/japan-to-seek-up-to-20-fine-for-monopolistic-practices-by-apple?utm_medium=rss)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
