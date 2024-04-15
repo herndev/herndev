@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
- - ⏩ [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
- - 👉 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)<!-- MEMES:END -->
+ - ⏩ [Lower back!](http://9gag.com/gag/aD2AVNd)
+ - 👉 [One way to make them learn](http://9gag.com/gag/aZZbQQp)<!-- MEMES:END -->
 
 ---
 
