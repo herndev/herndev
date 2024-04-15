@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
- - ⏩ [Lower back!](http://9gag.com/gag/aD2AVNd)
- - 👉 [One way to make them learn](http://9gag.com/gag/aZZbQQp)<!-- MEMES:END -->
+ - 💣 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
+ - ⏩ [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
+ - 👉 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)<!-- MEMES:END -->
 
 ---
 
