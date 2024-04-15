@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A violent black man](http://9gag.com/gag/aXP04DD)
- - ⏩ [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - 💣 [Precision here was truly satisfying](http://9gag.com/gag/a7oLOVq)
+ - ⏩ [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
  - 👉 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)<!-- MEMES:END -->
 
 ---
