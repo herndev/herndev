@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Colors, colours](http://9gag.com/gag/abAXx8v)
- - ⏩ [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
- - 👉 [A violent black man](http://9gag.com/gag/aXP04DD)<!-- MEMES:END -->
+ - 💣 [A violent black man](http://9gag.com/gag/aXP04DD)
+ - ⏩ [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - 👉 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)<!-- MEMES:END -->
 
 ---
 
