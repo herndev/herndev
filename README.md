@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Limitless is a new AI tool for your meetings — and an all-hearing wearable gadget](https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings)
- - [Dropbox CEO Drew Houston wants you to embrace AI and remote work](https://www.theverge.com/24128606/dropbox-drew-houston-ai-remote-work-virtual-organization)
- - [Adobe is in the early stages of developing a way to let users tap third-party tools from OpenAI, Runway, and Pika Labs to generate and use video in Premiere Pro &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240415/p12#a240415p12)<!-- TECH:END -->
+ - [Meta is making it easier to bring Quest headsets into the classroom](https://www.theverge.com/2024/4/15/24130850/meta-quest-headsets-educational-product-classroom)
+ - [Q&amp;A with Dropbox CEO Drew Houston on adding AI tools, evolving beyond file syncing, rejecting Steve Jobs&#39; buyout offer, online storage, remote working, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240415/p14#a240415p14)
+ - [An interview with Framework CEO Nirav Patel on ongoing firmware and software issues with its repairable laptops, the planned fixes, Intel and AMD, and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240415/p13#a240415p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
