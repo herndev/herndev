@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Xbox App [2404.1001.21.0]](https://news.xbox.com/en-us/2024/04/12/xbox-insider-release-notes-xbox-app-2404-1001-21-0/)
- - [Gigantic: Rampage Edition is a slightly shaky but mostly thrilling revival of my favorite dead game](https://www.pcgamer.com/games/moba/gigantic-rampage-edition-is-a-slightly-shaky-but-mostly-thrilling-revival-of-my-favorite-dead-game)
- - [Kung Fu Panda 4, Argylle, Netflix’s The Bricklayer, and every new movie to watch this weekend](https://www.polygon.com/2024/4/12/24123440/new-movies-watch-the-bricklayer-netflix-argylle-kung-fu-panda-4)<!-- GAME:END -->
+ - [Here&#39;s a free demo for upcoming survival crafting, monster-battling, town-builder Tinkerlands](https://www.pcgamer.com/games/survival-crafting/heres-a-free-demo-for-upcoming-survival-crafting-monster-battling-town-builder-tinkerlands)
+ - [Former Blizzard president suggests you should be able to leave a $10 or $20 tip for the devs because &#39;Some games are that special&#39;](https://www.pcgamer.com/gaming-industry/former-blizzard-president-suggests-you-should-be-able-to-leave-a-dollar10-or-dollar20-tip-for-the-devs-because-some-games-are-that-special)
+ - [Blasphemous dev reveals that Baldur&#39;s Gate 3 studio Larian quietly backed the game on Kickstarter for $1000 and never asked for anything in return](https://www.pcgamer.com/games/action/blasphemous-dev-reveals-that-baldurs-gate-3-studio-larian-quietly-backed-the-game-on-kickstarter-for-dollar1000-and-never-asked-for-anything-in-return)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
