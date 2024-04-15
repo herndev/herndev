@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Changer’s first great mindfuck of the season was a simple game of bingo](https://www.polygon.com/24128357/game-changer-bingo-twist-season-6)
- - [City builders continue to dominate Steam as Manor Lords becomes its most wishlisted game](https://www.pcgamer.com/games/city-builder/city-builders-continue-to-dominate-steam-as-manor-lords-becomes-its-most-wishlisted-game)
- - [Helldivers 2 dev says melee weapons are a &#39;plausible&#39; addition but they won&#39;t be Star Wars lightsabers: &#39;we don&#39;t want to be Fortnite&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-says-melee-weapons-are-a-plausible-addition-but-dont-expect-star-wars-lightsabers-we-dont-want-to-be-fortnite)<!-- GAME:END -->
+ - [Amazon Prime&#39;s Fallout Show Has Everyone Playing The Games](https://kotaku.com/fallout-tv-show-amazon-prime-steam-pc-new-vegas-1851410034)
+ - [Western Digital will be shipping 4TB SD cards in 2025 for handhelds, laptops, or anything that needs tiny-BIG storage](https://www.pcgamer.com/hardware/storage/western-digital-will-be-shipping-4tb-sd-cards-in-2025-for-handhelds-laptops-or-anything-that-needs-tiny-big-storage)
+ - [Game Changer’s first great mindfuck of the season was a simple game of bingo](https://www.polygon.com/24128357/game-changer-bingo-twist-season-6)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
