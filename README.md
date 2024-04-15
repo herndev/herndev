@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
- - ⏩ [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - 💣 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - ⏩ [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
  - 👉 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)<!-- MEMES:END -->
 
 ---
