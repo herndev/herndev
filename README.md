@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A case study of the creation of an AI-powered local &quot;news&quot; website, directed to produce partisan stories on a US Senate race; a Fiverr developer made it for $80 &lpar;Jack Brewster/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p24#a240412p24)
- - [Best AirPods Deals: Score up to $70 off on Apple Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Dryer Vent Cleaner     - CNET](https://www.cnet.com/news/dryer-vent-cleaner-kit-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Netflix&#39;s new film chief Dan Lin takes charge, the company aims to shift its film strategy to focus on audience appeal and cost efficiency &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/240414/p8#a240414p8)
+ - [Best Solar Inverters of April 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-inverters/#ftag=CAD590a51e)
+ - [Best Solar Panels for Your Home in 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
