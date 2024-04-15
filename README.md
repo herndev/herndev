@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As nine US states advance online child safety bills, a look at tech giants&#39; lobbying efforts against the legislation, led by industry group NetChoice &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240415/p22#a240415p22)
- - [T-Mobile employees report being lured into scamming customers &lpar;Update: T-Mobile statement&rpar;](https://www.androidauthority.com/t-mobile-sim-swapping-scam-3434272/)
- - [Is a watchdog for corporate climate commitments caving to industry?](https://www.theverge.com/2024/4/15/24130886/climate-change-corporate-watchdog-sbti-carbon-offsets)<!-- TECH:END -->
+ - [Keanu Reeves is voicing Shadow the Hedgehog in the third Sonic movie](https://www.theverge.com/2024/4/15/24131385/keanu-reeves-shadow-the-hedgehog-sonic-3)
+ - [YouTube’s ad blocker crackdown now includes third-party apps](https://www.theverge.com/2024/4/15/24131338/youtube-ad-blocker-crackdown-mobile-apps)
+ - [Got an iPhone 15 Pro or Pro Max? You&#39;ll Want to Explore These 3 New Features     - CNET](https://www.cnet.com/tech/mobile/got-an-iphone-15-pro-or-pro-max-youll-want-to-explore-these-3-new-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
