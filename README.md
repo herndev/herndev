@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends Tournament Sparks Backlash From Queer Fans And Allies](https://kotaku.com/apex-legends-lgbtqia-characters-tournament-saudi-arabia-1851411189)
- - [Bethesda Has Revealed Fallout TV Characters&#39; Stats](https://kotaku.com/fallout-show-amazon-prime-character-special-stats-lucy-1851411135)
- - [Netflix’s The Circle, Conan O’Brien’s new show, and more new TV this week](https://www.polygon.com/2024/4/15/24120510/netflix-new-tv-jinx-circle-conan-obrien-spiderwick)<!-- GAME:END -->
+ - [How to pass time in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24105922/change-time-day-night-camp-inn-doze-off-bench)
+ - [Pepper Grinder is a fast, fluid platformer you shouldn’t miss](https://www.polygon.com/reviews/24131275/pepper-grinder-review-devolver-digital-pc)
+ - [Fallout Show Hides A Terrifying Easter Egg In Plain Sight](https://kotaku.com/fallout-easter-egg-phone-number-vaults-1851411342)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
