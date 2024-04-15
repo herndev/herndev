@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a Pac-Man battle royale coming to Steam](https://www.pcgamer.com/games/battle-royale/theres-a-pac-man-battle-royale-coming-to-steam)
- - [Five new Steam games you probably missed &lpar;April 15, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-15-2024)
- - [Here&#39;s a free demo for upcoming survival crafting, monster-battling, town-builder Tinkerlands](https://www.pcgamer.com/games/survival-crafting/heres-a-free-demo-for-upcoming-survival-crafting-monster-battling-town-builder-tinkerlands)<!-- GAME:END -->
+ - [It&#39;s a new week with a new development in the ongoing China-US tech dispute: Now China is going to ban US chips from its telco networks from 2027](https://www.pcgamer.com/hardware/its-a-new-week-with-a-new-development-in-the-ongoing-china-us-tech-dispute-now-china-is-going-to-ban-us-chips-from-its-telco-networks-from-2027)
+ - [Today&#39;s Wordle answer for Monday, April 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-15-2024)
+ - [There&#39;s a Pac-Man battle royale coming to Steam](https://www.pcgamer.com/games/battle-royale/theres-a-pac-man-battle-royale-coming-to-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
