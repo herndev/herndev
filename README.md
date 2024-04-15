@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: a16z closed $7.2B for its newest set of funds, with allocations for AI infrastructure, AI apps, its &quot;American Dynamism&quot; strategy, and more &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240415/p16#a240415p16)
- - [Apple uses a unique method to stream and present immersive video](https://appleinsider.com/articles/24/04/15/apple-uses-a-unique-method-to-stream-and-present-immersive-video?utm_medium=rss)
- - [Adobe&#39;s generative AI video tools are coming soon to Premiere Pro](https://appleinsider.com/articles/24/04/15/adobes-generative-ai-video-tools-are-coming-soon-to-premier-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Australian court is the latest to attack Apple on behalf of rich corporations](https://appleinsider.com/articles/24/04/15/australian-court-is-the-latest-to-attack-apple-on-behalf-of-rich-corporations?utm_medium=rss)
+ - [Sources: Instagram is in the early stages of testing &quot;Creator AI&quot; chatbots for top influencers, which would automate DM responses to fans in a creator&#39;s &quot;voice&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/240415/p17#a240415p17)
+ - [Morgan Stanley fires back at iPhone doomsday research](https://appleinsider.com/articles/24/04/15/morgan-stanley-fires-back-at-iphone-doomsday-research?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
