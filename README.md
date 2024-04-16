@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lower back!](http://9gag.com/gag/aD2AVNd)
- - ⏩ [Title](http://9gag.com/gag/aVvz2Ny)
- - 👉 [The Best way to learn How to Backflip](http://9gag.com/gag/aXP02e9)<!-- MEMES:END -->
+ - 💣 [Ready for another try](http://9gag.com/gag/aZZb2An)
+ - ⏩ [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 👉 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)<!-- MEMES:END -->
 
 ---
 
