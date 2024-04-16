@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ghost kitchens and virtual restaurant brands, which boomed during the pandemic after raising billions, are disappearing due to overtaxed kitchens and complaints &lpar;Julie Creswell/New York Times&rpar;](http://www.techmeme.com/240416/p5#a240416p5)
- - [How do QR codes work? Everything you wanted to know](https://www.androidauthority.com/how-do-qr-codes-work-3433303/)
- - [You’ll soon be able to sync app permissions between your phone and Wear OS watch](https://www.androidauthority.com/google-wear-os-sync-app-permissions-with-phone-3434449/)<!-- TECH:END -->
+ - [A look at Neopets, a website launched in 1999 to let users care for virtual pets, including how the site survived multiple acquisitions and Flash&#39;s phasing out &lpar;Kari Paul/The Guardian&rpar;](http://www.techmeme.com/240416/p6#a240416p6)
+ - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
+ - [Ghost kitchens and virtual restaurant brands, which boomed during the pandemic after raising billions, are disappearing due to overtaxed kitchens and complaints &lpar;Julie Creswell/New York Times&rpar;](http://www.techmeme.com/240416/p5#a240416p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
