@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
- - ⏩ [Gentlemen looting at a French fair and finally tasting the hospitality of the tenants.](http://9gag.com/gag/aAyRX4L)
- - 👉 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)<!-- MEMES:END -->
+ - 💣 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
+ - ⏩ [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - 👉 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)<!-- MEMES:END -->
 
 ---
 
