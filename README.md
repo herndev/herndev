@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Going through my old 9gag download folder from 10 yrs ago, I found this](http://9gag.com/gag/a6Zmpr2)
- - ⏩ [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 👉 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)<!-- MEMES:END -->
+ - 💣 [Angry mother speaks out against school board that dedicates 3 days a week to teach kids about LGBTQT2SDF and sexual lessons](http://9gag.com/gag/aQzP27w)
+ - ⏩ [`I love being your son.` Made me, a grown man, cry.](http://9gag.com/gag/aPAw1Xn)
+ - 👉 [Yikes](http://9gag.com/gag/avypvNZ)<!-- MEMES:END -->
 
 ---
 
