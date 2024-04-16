@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
- - [Ticketmaster’s Taylor Swift ticketing fiasco might have just led to a lawsuit from the DOJ](https://www.theverge.com/2024/4/16/24131866/doj-ticketmaster-live-nation-antitrust-lawsuit-taylor-swift)
- - [How to add a Quick Link for locations in Apple Maps in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-add-a-quick-link-for-locations-in-apple-maps-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Apple aims to stop oily fingerprints marking MacBook Pro screens](https://appleinsider.com/articles/24/04/16/apple-aims-to-stop-oily-fingerprints-marking-macbook-pro-screens?utm_medium=rss)
+ - [GMC Sierra EV Denali gets range boost while showing off its crab walk](https://www.theverge.com/2024/4/16/24131952/gmc-sierra-ev-denali-range-crab-walk-electric-truck-ev)
+ - [Broadcast TV still exists, and now it’s sort of getting a built-in DVR](https://www.theverge.com/2024/4/16/24130968/atsc-3-0-roxi-faststream-ease-live-local-news-dvr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
