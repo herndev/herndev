@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro 256GB rumor makes sense, but is by a known falsifier](https://appleinsider.com/articles/24/04/16/iphone-16-pro-256gb-rumor-makes-sense-but-is-by-a-known-falsifier?utm_medium=rss)
- - [Apple rolls out second beta round, including EU Web Distribution in iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)
- - [Amazon Music’s Maestro lets listeners make AI playlists](https://www.theverge.com/2024/4/16/24132129/amazon-music-maestro-ai-playlist-prompts)<!-- TECH:END -->
+ - [Kickstarter is adding the ability to collect money indefinitely](https://www.theverge.com/2024/4/16/24127754/kickstarter-late-pledges-crowdfunding-indefinite-donations)
+ - [Amazon confirms that HQ2 in Arlington lost 200 jobs in 2023, missing Amazon&#39;s goal of adding 2,500 jobs; HQ2 has ~8,000 employees and plans to reach ~25,000 &lpar;Teo Armus/Washington Post&rpar;](http://www.techmeme.com/240416/p25#a240416p25)
+ - [Apple rolls out second beta round, including EU Web Distribution in iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
