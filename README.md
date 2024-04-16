@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ready for another try](http://9gag.com/gag/aZZb2An)
- - ⏩ [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 👉 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)<!-- MEMES:END -->
+ - 💣 [Going through my old 9gag download folder from 10 yrs ago, I found this](http://9gag.com/gag/a6Zmpr2)
+ - ⏩ [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 👉 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)<!-- MEMES:END -->
 
 ---
 
