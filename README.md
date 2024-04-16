@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the Legendary Kombatant Ermac Made His Grand Return in Mortal Kombat 1](https://news.xbox.com/en-us/2024/04/16/how-ermac-made-his-grand-return-in-mortal-kombat-1/)
- - [The blasphemy of playing Half-Life with a gamepad is now easier as Black Mesa gets a sudden weighty update, devs tease &#39;more dangerous patch&#39; to come](https://www.pcgamer.com/games/fps/the-blasphemy-of-playing-half-life-with-a-gamepad-is-now-easier-as-black-mesa-gets-a-sudden-weighty-update-devs-tease-more-dangerous-patch-to-come)
- - [Here&#39;s a portable PS1 built from the remnants of an actual console and it only took folding the motherboard &#39;like a book&#39;](https://www.pcgamer.com/hardware/heres-a-portable-ps1-built-from-the-remnants-of-an-actual-console-and-it-only-took-folding-the-motherboard-like-a-book)<!-- GAME:END -->
+ - [Borderlands 3 community scores a big win for science: &#39;These players have helped trace the evolutionary relationships of more than a million different kinds of bacteria that live in the human gut&#39;](https://www.pcgamer.com/games/fps/borderlands-3-community-scores-a-big-win-for-science-these-players-have-helped-trace-the-evolutionary-relationships-of-more-than-a-million-different-kinds-of-bacteria-that-live-in-the-human-gut)
+ - [Kyle MacLachlan’s subtle dread and kind smile made him perfect for Fallout](https://www.polygon.com/24128755/fallout-cast-kyle-maclachlan-twin-peaks-perfect)
+ - [This Great FF7 Rebirth Accessory Is The Perfect Endgame Goal](https://kotaku.com/final-fantasy-7-ff7-rebirth-gotterdammerung-hard-mode-1851413742)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
