@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 💣 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
  - ⏩ [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
- - 👉 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/ajPYx81)<!-- MEMES:END -->
 
 ---
 
