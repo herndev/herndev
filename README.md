@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best free demos to play now in the Steam FPS Fest](https://www.pcgamer.com/software/the-best-free-demos-to-play-now-in-the-steam-fps-fest)
- - [Can Wurmple be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131251/can-wurmple-be-shiny-silcoon-cascoon-beautifly-dustox)
- - [Can Weedle be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131245/can-weedle-be-shiny-kakuna-beedrill-mega)<!-- GAME:END -->
+ - [Helldivers 2 patch fixes PS5 hosts accidentally giving damage boosts to their fellow patriots, continues to tackle crashes](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-fixes-ps5-hosts-accidentally-giving-damage-boosts-to-their-fellow-patriots-continues-to-tackle-crashes)
+ - [My new roguelike obsession is a turn-based strategy game that makes you feel like a samurai John Wick](https://www.pcgamer.com/games/roguelike/my-new-roguelike-obsession-is-a-turn-based-strategy-game-that-makes-you-feel-like-a-samurai-john-wick)
+ - [Fallout fans are doing the maths on Lucy&#39;s level by the end of the TV show, and it turns out she&#39;s barely tougher than a radroach](https://www.pcgamer.com/movies-tv/fallout-fans-are-doing-the-maths-on-lucys-level-by-the-end-of-the-tv-show-and-it-turns-out-shes-barely-tougher-than-a-radroach)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
