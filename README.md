@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, April 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-16-2024)
  - [Ubisoft responds as Star Wars Outlaws comes under fire for Jabba the Hutt season pass exclusive](https://www.pcgamer.com/games/action/ubisoft-responds-as-star-wars-outlaws-comes-under-fire-for-jabba-the-hutt-season-pass-exclusive)
- - [Desktop ATX motherboards with SO-DIMM memory slots? It&#39;s not as silly as it sounds](https://www.pcgamer.com/hardware/memory/desktop-atx-motherboards-with-so-dimm-memory-slots-its-not-as-silly-as-it-sounds)
- - [The Fallout show&#39;s Wasteland looks so good in part because it&#39;s real: Some of it was shot in the same desert as Mad Max: Fury Road](https://www.pcgamer.com/movies-tv/fallout-show-shooting-location-namibia)<!-- GAME:END -->
+ - [Desktop ATX motherboards with SO-DIMM memory slots? It&#39;s not as silly as it sounds](https://www.pcgamer.com/hardware/memory/desktop-atx-motherboards-with-so-dimm-memory-slots-its-not-as-silly-as-it-sounds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
