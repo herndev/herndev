@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cIf you\u2019ll talk about my Religion, I am definitely going to ki!! You\u201d Says the Mus!im Terrorist after stabbing the Bishop in Sydney, Australia..](http://9gag.com/gag/aAyR2Eg)
- - ⏩ [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
- - 👉 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)<!-- MEMES:END -->
+ - 💣 [This garbage `leather` coating that eventually flakes off and gets everywhere](http://9gag.com/gag/a2vzbZd)
+ - ⏩ [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - 👉 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)<!-- MEMES:END -->
 
 ---
 
