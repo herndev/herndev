@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus offline sales ban could spread across India &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/oneplus-offline-sales-ban-spread-india-3434055/)
- - [Verizon is giving away 6 months of home internet for $0 per month](https://www.androidauthority.com/verizon-free-home-internet-3434421/)
- - [Microsoft invests $1.5B in Abu Dhabi-based AI group G42 for a minority stake, as G42 severed its ties with Chinese suppliers; Brad Smith will sit on G42&#39;s board &lpar;Financial Times&rpar;](http://www.techmeme.com/240416/p1#a240416p1)<!-- TECH:END -->
+ - [Leaked Xiaomi 14T Pro specs point to a OnePlus 12, Galaxy S24 rival](https://www.androidauthority.com/xiaomi-14t-pro-specs-leak-3434020/)
+ - [Noida, India-based B2B e-commerce marketplace ProcMart raised a $30M Series B led by Fundamentum and Edelweiss Discovery Fund, after a $10M Series A in 2022 &lpar;Times of India&rpar;](http://www.techmeme.com/240416/p3#a240416p3)
+ - [Are you happy with the state of YouTube in 2024?](https://www.androidauthority.com/youtube-in-2024-poll-3434431/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
