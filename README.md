@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard obliterates an orb from WoW Classic: Season of Discovery&#39;s 3rd phase for causing problems, leaves a terrifying class of Crusader-enchanted players in its wake](https://www.pcgamer.com/games/world-of-warcraft/blizzard-obliterates-an-orb-from-wow-classic-season-of-discoverys-3rd-phase-for-causing-problems-leaves-a-terrifying-class-of-crusader-enchanted-players-in-its-wake)
- - [Fortnite executive says its user creation monetisation is strictly &#39;18-plus&#39; but &#39;in regions where it is permissible, yes we should lower that age&#39;](https://www.pcgamer.com/games/third-person-shooter/fortnite-executive-says-its-user-creation-monetisation-is-strictly-18-plus-but-in-regions-where-it-is-permissible-yes-we-should-lower-that-age)
- - [Children of the Sun review](https://www.pcgamer.com/games/fps/children-of-the-sun-review)<!-- GAME:END -->
+ - [Coming to Game Pass: Manor Lords, Another Crab’s Treasure, Eiyuden Chronicle: Hundred Heroes, and More](https://news.xbox.com/en-us/2024/04/16/xbox-game-pass-april-2024-wave-2/)
+ - [The ray-tracing enhanced edition of Metro Exodus, the god-tier road trip game Half-Life 3 should&#39;ve been, is on sale with an 80% discount](https://www.pcgamer.com/games/fps/the-ray-tracing-enhanced-edition-of-metro-exodus-the-god-tier-road-trip-game-half-life-3-shouldve-been-is-on-sale-with-an-80-discount)
+ - [US promises Samsung $6.4B to build more chips on US soil, which only increases the chance of a Made in USA GPU at some point](https://www.pcgamer.com/hardware/graphics-cards/us-promises-samsung-dollar64b-to-build-more-chips-on-us-soil-which-only-increases-the-chance-of-a-made-in-usa-gpu-at-some-point)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
