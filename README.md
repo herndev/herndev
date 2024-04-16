@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Angry mother speaks out against school board that dedicates 3 days a week to teach kids about LGBTQT2SDF and sexual lessons](http://9gag.com/gag/aQzP27w)
- - ⏩ [`I love being your son.` Made me, a grown man, cry.](http://9gag.com/gag/aPAw1Xn)
- - 👉 [Yikes](http://9gag.com/gag/avypvNZ)<!-- MEMES:END -->
+ - 💣 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - ⏩ [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 👉 [Which door you choose](http://9gag.com/gag/a6Zmjwm)<!-- MEMES:END -->
 
 ---
 
