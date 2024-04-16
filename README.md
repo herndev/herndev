@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: HR tech startup Rippling plans to close a Series F at a valuation as high as $13.4B, after a $200M injection plus $670M in shares sold by stockholders &lpar;TechCrunch&rpar;](http://www.techmeme.com/240416/p28#a240416p28)
- - [WhatsApp Adds Message Filters to Make Itself More Usable     - CNET](https://www.cnet.com/tech/whatsapp-adds-message-filters-to-make-itself-more-usable/#ftag=CAD590a51e)
- - [A new NES emulator was briefly available on the Apple App Store](https://www.theverge.com/2024/4/16/24132351/iphone-apple-app-store-nes-emulator-bimmy-removed)<!-- TECH:END -->
+ - [Kontakt.io, whose software and Bluetooth devices help hospital managers make decisions about patients, beds, and equipment, raised $47.5M from Goldman Sachs &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240416/p30#a240416p30)
+ - [The latest OnePlus Pad 2 leak hints at a powerful upgrade](https://www.androidauthority.com/oneplus-pad-2-leak-3434798/)
+ - [Cloudflare says its network saw DNS-based DDoS attacks increase by 80% YoY in Q1 2024, with attacks on Sweden surging by 466% after its acceptance into NATO &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/240416/p29#a240416p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
