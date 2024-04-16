@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple aims to stop oily fingerprints marking MacBook Pro screens](https://appleinsider.com/articles/24/04/16/apple-aims-to-stop-oily-fingerprints-marking-macbook-pro-screens?utm_medium=rss)
- - [GMC Sierra EV Denali gets range boost while showing off its crab walk](https://www.theverge.com/2024/4/16/24131952/gmc-sierra-ev-denali-range-crab-walk-electric-truck-ev)
- - [Broadcast TV still exists, and now it’s sort of getting a built-in DVR](https://www.theverge.com/2024/4/16/24130968/atsc-3-0-roxi-faststream-ease-live-local-news-dvr)<!-- TECH:END -->
+ - [Andreessen Horowitz raised $7.2B, with $600M for American Dynamism, $3.75B for late-stage startups, and $600M for gaming, exceeding its target by ~4% &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240416/p20#a240416p20)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [The UK announces legislation to outlaw making sexually explicit deepfake photos without consent, regardless of whether the creator intended to share the image &lpar;The Guardian&rpar;](http://www.techmeme.com/240416/p19#a240416p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
