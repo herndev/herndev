@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Settings To Tweak In Stellar Blade’s Demo](https://kotaku.com/stellar-blade-settings-demo-graphics-pony-tail-1851414393)
- - [Who is Miquella in Elden Ring anyway?](https://www.polygon.com/24131400/elden-ring-dlc-miquella-shadow-of-the-erdtree)
- - [The Fallout show&#39;s Lucy was described to Ella Purnell as a &#39;Leslie Knope/Ned Flanders-type&#39; who would &#39;star in a toothpaste commercial but could also kill you&#39;](https://www.pcgamer.com/movies-tv/fallout-tv-show-lucy-ned-flanders)<!-- GAME:END -->
+ - [Publishers Pivoting To Live-Service Games Have Most Devs Worried](https://kotaku.com/live-service-games-survey-devs-worried-unsure-future-1851414325)
+ - [Grounded’s ‘Fully Yoked’ Update Out Today: A Bigger, Bolder Backyard Awaits](https://grounded.obsidian.net/news/grounded/fully-yoked#new_tab)
+ - [Best Settings To Tweak In Stellar Blade’s Demo](https://kotaku.com/stellar-blade-settings-demo-graphics-pony-tail-1851414393)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
