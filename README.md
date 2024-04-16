@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A record-breaking Apple Watch 9 deal is being claimed fast](https://www.androidauthority.com/apple-watch-series-9-steel-deal-3434753/)
- - [Here’s a very early look at lock screen widgets in Android 15](https://www.androidauthority.com/android-15-lock-screen-widgets-hands-on-3434749/)
- - [Report: TikTok’s efforts to silo US data are ‘largely cosmetic’](https://www.theverge.com/2024/4/16/24132315/tiktok-bytedance-project-texas-china-silo)<!-- TECH:END -->
+ - [Sources: HR tech startup Rippling plans to close a Series F at a valuation as high as $13.4B, after a $200M injection plus $670M in shares sold by stockholders &lpar;TechCrunch&rpar;](http://www.techmeme.com/240416/p28#a240416p28)
+ - [WhatsApp Adds Message Filters to Make Itself More Usable     - CNET](https://www.cnet.com/tech/whatsapp-adds-message-filters-to-make-itself-more-usable/#ftag=CAD590a51e)
+ - [A new NES emulator was briefly available on the Apple App Store](https://www.theverge.com/2024/4/16/24132351/iphone-apple-app-store-nes-emulator-bimmy-removed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
