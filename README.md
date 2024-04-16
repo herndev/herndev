@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Manor Lords, Another Crab’s Treasure, Eiyuden Chronicle: Hundred Heroes, and More](https://news.xbox.com/en-us/2024/04/16/xbox-game-pass-april-2024-wave-2/)
- - [The ray-tracing enhanced edition of Metro Exodus, the god-tier road trip game Half-Life 3 should&#39;ve been, is on sale with an 80% discount](https://www.pcgamer.com/games/fps/the-ray-tracing-enhanced-edition-of-metro-exodus-the-god-tier-road-trip-game-half-life-3-shouldve-been-is-on-sale-with-an-80-discount)
- - [US promises Samsung $6.4B to build more chips on US soil, which only increases the chance of a Made in USA GPU at some point](https://www.pcgamer.com/hardware/graphics-cards/us-promises-samsung-dollar64b-to-build-more-chips-on-us-soil-which-only-increases-the-chance-of-a-made-in-usa-gpu-at-some-point)<!-- GAME:END -->
+ - [EA Sports NHL 24 coming to Xbox Game Pass right in time for the Stanley Cup playoffs](https://www.polygon.com/24131925/xbox-game-pass-april-lineup-ea-sports-nhl-24-manor-lords)
+ - [Nintendo has a new Indie World showcase coming April 17](https://www.polygon.com/24130841/nintendo-direct-indie-world-april-2024-how-to-watch)
+ - [Coming to Game Pass: Manor Lords, Another Crab’s Treasure, Eiyuden Chronicle: Hundred Heroes, and More](https://news.xbox.com/en-us/2024/04/16/xbox-game-pass-april-2024-wave-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
