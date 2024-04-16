@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 3 community scores a big win for science: &#39;These players have helped trace the evolutionary relationships of more than a million different kinds of bacteria that live in the human gut&#39;](https://www.pcgamer.com/games/fps/borderlands-3-community-scores-a-big-win-for-science-these-players-have-helped-trace-the-evolutionary-relationships-of-more-than-a-million-different-kinds-of-bacteria-that-live-in-the-human-gut)
- - [Kyle MacLachlan’s subtle dread and kind smile made him perfect for Fallout](https://www.polygon.com/24128755/fallout-cast-kyle-maclachlan-twin-peaks-perfect)
- - [This Great FF7 Rebirth Accessory Is The Perfect Endgame Goal](https://kotaku.com/final-fantasy-7-ff7-rebirth-gotterdammerung-hard-mode-1851413742)<!-- GAME:END -->
+ - [Great New Games: Check Out the Season’s Most Exciting New Releases](https://news.xbox.com/en-us/2024/04/16/great-new-games-2024/)
+ - [Early &#39;90s sci-fi adventure Hamlet was innovating on the survival horror genre before it even existed](https://www.pcgamer.com/games/horror/early-90s-sci-fi-adventure-hamlet-was-innovating-on-the-survival-horror-genre-before-it-even-existed)
+ - [The Elden Ring DLC statuettes make a pre-order extra tempting](https://www.polygon.com/24079161/elden-ring-shadow-erdtree-preorder-guide-standard-deluxe-premium-collectors-edition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
