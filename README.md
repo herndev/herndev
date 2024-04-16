@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola is bringing the wooden phone back with its new Edge series](https://www.theverge.com/2024/4/16/24131435/motorola-edge-50-ultra-pro-fusion-wood-panel)
- - [Anker’s latest Soundcore Sleep earbuds actually improve slumber for less than $90](https://www.theverge.com/24125032/soundcore-sleep-a20-review-noise-cancelling-earbuds)
- - [The new 15-inch M3 MacBook Air gets its first $150 markdown](https://www.androidauthority.com/apple-macbook-air-deal-3434361/)<!-- TECH:END -->
+ - [Clean junk files from your Mac with Intego Washing Machine X9](https://appleinsider.com/articles/23/03/20/clean-junk-files-from-your-mac-with-intego-washing-machine-x9?utm_medium=rss)
+ - [Insta360’s first 8K camera comes with a removable lens guard](https://www.theverge.com/24131495/insta360-x4-360-camera-8k)
+ - [Apple is researching how to make the ultimate MagSafe wallet and iPhone carrying case](https://appleinsider.com/articles/24/04/16/apple-is-researching-how-to-make-the-ultimate-magsafe-wallet-and-iphone-carrying-case?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
