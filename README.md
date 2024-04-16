@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the failure of Humane&#39;s Ai Pin, which took six years to ship after raising $230M, including building the device &quot;the Apple way&quot; and raising too much &lpar;Benjamin Sandofsky/Sandofsky&rpar;](http://www.techmeme.com/240416/p8#a240416p8)
- - [Sources: in 2023, Abu Dhabi&#39;s G42 and the US Commerce Department held talks that led to G42 agreeing to pare back its China presence to avoid punitive measures &lpar;Bloomberg&rpar;](http://www.techmeme.com/240416/p7#a240416p7)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI chip developer Rivos, which recently settled with Apple over trade secret theft, raised $250M+ led by Matrix to compete with Nvidia using its RISC-V chips &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240416/p13#a240416p13)
+ - [Intel&#39;s Gaudi 3 white paper details the made-for-China processors HL-328 and HL-388, likely designed to comply with US sanctions by reducing performance &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240416/p12#a240416p12)
+ - [Tim Cook meets with Vietnamese officials, developers, and students](https://appleinsider.com/articles/24/04/16/tim-cook-meets-with-vietnamese-officials-developers-and-students?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
