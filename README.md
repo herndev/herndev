@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Neopets, a website launched in 1999 to let users care for virtual pets, including how the site survived multiple acquisitions and Flash&#39;s phasing out &lpar;Kari Paul/The Guardian&rpar;](http://www.techmeme.com/240416/p6#a240416p6)
- - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
- - [Ghost kitchens and virtual restaurant brands, which boomed during the pandemic after raising billions, are disappearing due to overtaxed kitchens and complaints &lpar;Julie Creswell/New York Times&rpar;](http://www.techmeme.com/240416/p5#a240416p5)<!-- TECH:END -->
+ - [A look at the failure of Humane&#39;s Ai Pin, which took six years to ship after raising $230M, including building the device &quot;the Apple way&quot; and raising too much &lpar;Benjamin Sandofsky/Sandofsky&rpar;](http://www.techmeme.com/240416/p8#a240416p8)
+ - [Sources: in 2023, Abu Dhabi&#39;s G42 and the US Commerce Department held talks that led to G42 agreeing to pare back its China presence to avoid punitive measures &lpar;Bloomberg&rpar;](http://www.techmeme.com/240416/p7#a240416p7)
+ - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
