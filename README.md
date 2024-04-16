@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best free demos to play now in the Steam FPS Fest](https://www.pcgamer.com/software/the-best-free-demos-to-play-now-in-the-steam-fps-fest)
  - [Can Wurmple be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131251/can-wurmple-be-shiny-silcoon-cascoon-beautifly-dustox)
- - [Can Weedle be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131245/can-weedle-be-shiny-kakuna-beedrill-mega)
- - [Can Caterpie be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131166/can-caterpie-be-shiny-metapod-butterfree)<!-- GAME:END -->
+ - [Can Weedle be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131245/can-weedle-be-shiny-kakuna-beedrill-mega)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
