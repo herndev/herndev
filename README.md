@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports NHL 24 coming to Xbox Game Pass right in time for the Stanley Cup playoffs](https://www.polygon.com/24131925/xbox-game-pass-april-lineup-ea-sports-nhl-24-manor-lords)
- - [Nintendo has a new Indie World showcase coming April 17](https://www.polygon.com/24130841/nintendo-direct-indie-world-april-2024-how-to-watch)
- - [Coming to Game Pass: Manor Lords, Another Crab’s Treasure, Eiyuden Chronicle: Hundred Heroes, and More](https://news.xbox.com/en-us/2024/04/16/xbox-game-pass-april-2024-wave-2/)<!-- GAME:END -->
+ - [Yoko Taro Explains Why He Envies Stellar Blade And Its Director](https://kotaku.com/stellar-blade-nier-yoko-taro-jealous-hyung-tae-kim-1851413085)
+ - [Updated Star Citizen minimum system requirements look gentle but they&#39;re more guidelines than actual rules](https://www.pcgamer.com/games/mmo/updated-star-citizen-minimum-system-requirements-look-gentle-but-theyre-more-guidelines-than-actual-rules)
+ - [Final Fantasy VII: The Kotaku Retro Review](https://kotaku.com/final-fantasy-7-ff7-review-1997-worth-playing-1851411735)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
