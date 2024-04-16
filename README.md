@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Bridgewise, which uses AI to provide investment analysis to brokerages, wealth advisors, and exchanges, raised a $21M Series A led by SIX Group &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240415/p35#a240415p35)
- - [Best California King Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-california-king-mattress/#ftag=CAD590a51e)
- - [Baidu says that eight months after launch, its AI chatbot Ernie Bot now has 200M+ users and 85K enterprise clients, after reaching 100M+ users in December &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240415/p34#a240415p34)<!-- TECH:END -->
+ - [The OnePlus offline sales ban could spread across India &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/oneplus-offline-sales-ban-spread-india-3434055/)
+ - [Verizon is giving away 6 months of home internet for $0 per month](https://www.androidauthority.com/verizon-free-home-internet-3434421/)
+ - [Microsoft invests $1.5B in Abu Dhabi-based AI group G42 for a minority stake, as G42 severed its ties with Chinese suppliers; Brad Smith will sit on G42&#39;s board &lpar;Financial Times&rpar;](http://www.techmeme.com/240416/p1#a240416p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
