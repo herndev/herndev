@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys look my shirt how it glow in the dark](http://9gag.com/gag/aryvxpK)
- - ⏩ [Please sign](http://9gag.com/gag/aQzP7E8)
- - 👉 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)<!-- MEMES:END -->
+ - 💣 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - ⏩ [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - 👉 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)<!-- MEMES:END -->
 
 ---
 
