@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andreessen Horowitz raised $7.2B, with $600M for American Dynamism, $3.75B for late-stage startups, and $600M for gaming, exceeding its target by ~4% &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240416/p20#a240416p20)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [The UK announces legislation to outlaw making sexually explicit deepfake photos without consent, regardless of whether the creator intended to share the image &lpar;The Guardian&rpar;](http://www.techmeme.com/240416/p19#a240416p19)<!-- TECH:END -->
+ - [How iOS Web Distribution works in the EU in iOS 17.5](https://appleinsider.com/articles/24/04/16/how-ios-web-distribution-works-in-the-eu-in-ios-175?utm_medium=rss)
+ - [Truth Social says it’s building a live TV service](https://www.theverge.com/2024/4/16/24131954/truth-social-live-tv-streaming-service-donald-trump)
+ - [Google Pixel Buds Pro 2 listing reveals battery size of charging case](https://www.androidauthority.com/pixel-buds-pro-2-charging-case-battery-3434633/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
