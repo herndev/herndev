@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [XDefiant is finally getting closer: a stress test starts on Friday and will run all weekend long](https://www.pcgamer.com/games/fps/xdefiant-is-finally-getting-closer-a-stress-test-starts-on-friday-and-will-run-all-weekend-long)
- - [The Internet Reacts To Keanu Reeves As Shadow The Hedgehog](https://kotaku.com/sonic-the-hedgehog-3-shadow-keanu-reeves-reaction-1851414208)
- - [GameStop is having a buy 2, get 1 free sale on all pre-owned games including new releases](https://www.polygon.com/deals/24132164/gamestop-pre-owned-used-games-buy-2-get-1-free-deal-sale)<!-- GAME:END -->
+ - [Best Settings To Tweak In Stellar Blade’s Demo](https://kotaku.com/stellar-blade-settings-demo-graphics-pony-tail-1851414393)
+ - [Who is Miquella in Elden Ring anyway?](https://www.polygon.com/24131400/elden-ring-dlc-miquella-shadow-of-the-erdtree)
+ - [The Fallout show&#39;s Lucy was described to Ella Purnell as a &#39;Leslie Knope/Ned Flanders-type&#39; who would &#39;star in a toothpaste commercial but could also kill you&#39;](https://www.pcgamer.com/movies-tv/fallout-tv-show-lucy-ned-flanders)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
