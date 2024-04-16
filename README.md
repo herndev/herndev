@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [People are afraid of self-driving cars — can the industry change that?](https://www.theverge.com/2024/4/16/24132026/autonomous-vehicles-fear-poll-public-trust-avia)
- - [Loft Labs, which helps businesses spin up virtual Kubernetes clusters, raised a $24M Series A and says its open source project vCluster has had 40M downloads &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240416/p26#a240416p26)
- - [Gemini conversations may soon start with a simple Chrome shortcut](https://www.androidauthority.com/gemini-chrome-shortcut-3434697/)<!-- TECH:END -->
+ - [A record-breaking Apple Watch 9 deal is being claimed fast](https://www.androidauthority.com/apple-watch-series-9-steel-deal-3434753/)
+ - [Here’s a very early look at lock screen widgets in Android 15](https://www.androidauthority.com/android-15-lock-screen-widgets-hands-on-3434749/)
+ - [Report: TikTok’s efforts to silo US data are ‘largely cosmetic’](https://www.theverge.com/2024/4/16/24132315/tiktok-bytedance-project-texas-china-silo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
