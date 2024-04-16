@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He still loves her](http://9gag.com/gag/aByREoD)
- - ⏩ [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
- - 👉 [The lack of mannerism, is just the norm now eh?](http://9gag.com/gag/aoyE41x)<!-- MEMES:END -->
+ - 💣 [Guys look my shirt how it glow in the dark](http://9gag.com/gag/aryvxpK)
+ - ⏩ [Please sign](http://9gag.com/gag/aQzP7E8)
+ - 👉 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)<!-- MEMES:END -->
 
 ---
 
