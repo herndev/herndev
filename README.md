@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg wins his bid to avoid personal liability in about two dozen lawsuits accusing Meta and other companies of addicting children to their products &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240415/p30#a240415p30)
- - [Apple&#39;s iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side?utm_medium=rss)
- - [Google&#39;s Jigsaw expands Perspective API, a set of ML tools that help moderators and researchers identify toxicity, with seven attributes, including nuance &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240415/p29#a240415p29)<!-- TECH:END -->
+ - [Sources: the UK plans talks this month with Apple, Meta, and others to push a voluntary charter granting parents more control of social media use by young teens &lpar;Ellen Milligan/Bloomberg&rpar;](http://www.techmeme.com/240415/p31#a240415p31)
+ - [YouTube’s war on ad blockers reaches your phone](https://www.androidauthority.com/youtube-mobile-ad-blockers-3434384/)
+ - [Best Sleep Headphones of 2024     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
