@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
- - ⏩ [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
- - 👉 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)<!-- MEMES:END -->
+ - 💣 [Please...dont remove anything from your chest](http://9gag.com/gag/awy0dBQ)
+ - ⏩ [Colors, colours](http://9gag.com/gag/abAXx8v)
+ - 👉 [Straight to hell](http://9gag.com/gag/adB0ej9)<!-- MEMES:END -->
 
 ---
 
