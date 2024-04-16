@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll soon be able to sync app permissions between your phone and Wear OS watch](https://www.androidauthority.com/google-wear-os-sync-app-permissions-with-phone-3434449/)
- - [Google is making a convenient change to Play Store purchases](https://www.androidauthority.com/google-change-play-store-biometric-authentication-3434458/)
- - [Disney Plus could soon add free TV-style channels with Star Wars and Marvel shows](https://www.androidauthority.com/disney-plus-channels-3434443/)<!-- TECH:END -->
+ - [Ghost kitchens and virtual restaurant brands, which boomed during the pandemic after raising billions, are disappearing due to overtaxed kitchens and complaints &lpar;Julie Creswell/New York Times&rpar;](http://www.techmeme.com/240416/p5#a240416p5)
+ - [How do QR codes work? Everything you wanted to know](https://www.androidauthority.com/how-do-qr-codes-work-3433303/)
+ - [You’ll soon be able to sync app permissions between your phone and Wear OS watch](https://www.androidauthority.com/google-wear-os-sync-app-permissions-with-phone-3434449/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
