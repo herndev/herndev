@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yoko Taro Explains Why He Envies Stellar Blade And Its Director](https://kotaku.com/stellar-blade-nier-yoko-taro-jealous-hyung-tae-kim-1851413085)
- - [Updated Star Citizen minimum system requirements look gentle but they&#39;re more guidelines than actual rules](https://www.pcgamer.com/games/mmo/updated-star-citizen-minimum-system-requirements-look-gentle-but-theyre-more-guidelines-than-actual-rules)
- - [Final Fantasy VII: The Kotaku Retro Review](https://kotaku.com/final-fantasy-7-ff7-review-1997-worth-playing-1851411735)<!-- GAME:END -->
+ - [Is Bluey over? No — but it could have been](https://www.polygon.com/24131873/bluey-the-sign-ending-season-4)
+ - [Report: ‘Enhanced’ For PS5 Pro Could End Up Meaning A Lot Of Different Things](https://kotaku.com/ps5-pro-leaks-specs-enhanced-trinity-60fps-1851413329)
+ - [After community suspicion, Palworld finally fixes an issue that held your Pals back from achieving their full potential](https://www.pcgamer.com/games/survival-crafting/after-community-suspicion-palworld-finally-fixes-an-issue-that-held-your-pals-back-from-achieving-their-full-potential)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
