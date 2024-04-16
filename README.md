@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
- - ⏩ [Shoutout to the Millennials out there!](http://9gag.com/gag/avypx3W)
- - 👉 [Th search is on](http://9gag.com/gag/ae9jmvB)<!-- MEMES:END -->
+ - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - ⏩ [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
+ - 👉 [Title](http://9gag.com/gag/aVvz2Ny)<!-- MEMES:END -->
 
 ---
 
