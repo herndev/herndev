@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
- - ⏩ [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
- - 👉 [One way to make them learn](http://9gag.com/gag/aZZbQQp)<!-- MEMES:END -->
+ - 💣 [He still loves her](http://9gag.com/gag/aByREoD)
+ - ⏩ [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 👉 [The lack of mannerism, is just the norm now eh?](http://9gag.com/gag/aoyE41x)<!-- MEMES:END -->
 
 ---
 
