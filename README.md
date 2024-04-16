@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Great New Games: Check Out the Season’s Most Exciting New Releases](https://news.xbox.com/en-us/2024/04/16/great-new-games-2024/)
- - [Early &#39;90s sci-fi adventure Hamlet was innovating on the survival horror genre before it even existed](https://www.pcgamer.com/games/horror/early-90s-sci-fi-adventure-hamlet-was-innovating-on-the-survival-horror-genre-before-it-even-existed)
- - [The Elden Ring DLC statuettes make a pre-order extra tempting](https://www.polygon.com/24079161/elden-ring-shadow-erdtree-preorder-guide-standard-deluxe-premium-collectors-edition)<!-- GAME:END -->
+ - [XDefiant is finally getting closer: a stress test starts on Friday and will run all weekend long](https://www.pcgamer.com/games/fps/xdefiant-is-finally-getting-closer-a-stress-test-starts-on-friday-and-will-run-all-weekend-long)
+ - [The Internet Reacts To Keanu Reeves As Shadow The Hedgehog](https://kotaku.com/sonic-the-hedgehog-3-shadow-keanu-reeves-reaction-1851414208)
+ - [GameStop is having a buy 2, get 1 free sale on all pre-owned games including new releases](https://www.polygon.com/deals/24132164/gamestop-pre-owned-used-games-buy-2-get-1-free-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
