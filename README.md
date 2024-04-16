@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clean junk files from your Mac with Intego Washing Machine X9](https://appleinsider.com/articles/23/03/20/clean-junk-files-from-your-mac-with-intego-washing-machine-x9?utm_medium=rss)
- - [Insta360’s first 8K camera comes with a removable lens guard](https://www.theverge.com/24131495/insta360-x4-360-camera-8k)
- - [Apple is researching how to make the ultimate MagSafe wallet and iPhone carrying case](https://appleinsider.com/articles/24/04/16/apple-is-researching-how-to-make-the-ultimate-magsafe-wallet-and-iphone-carrying-case?utm_medium=rss)<!-- TECH:END -->
+ - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
+ - [Ticketmaster’s Taylor Swift ticketing fiasco might have just led to a lawsuit from the DOJ](https://www.theverge.com/2024/4/16/24131866/doj-ticketmaster-live-nation-antitrust-lawsuit-taylor-swift)
+ - [How to add a Quick Link for locations in Apple Maps in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-add-a-quick-link-for-locations-in-apple-maps-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
