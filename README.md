@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally they stand up to these clowns](http://9gag.com/gag/aXP0RAb)
- - ⏩ [`I love being your son.` Made me, a grown man, cry.](http://9gag.com/gag/aPAw1Xn)
- - 👉 [The bike overreacted](http://9gag.com/gag/avypdGX)<!-- MEMES:END -->
+ - 💣 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - ⏩ [Dubai right now](http://9gag.com/gag/aPAwrYB)
+ - 👉 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)<!-- MEMES:END -->
 
 ---
 
