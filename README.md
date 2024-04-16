@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - ⏩ [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 👉 [Which door you choose](http://9gag.com/gag/a6Zmjwm)<!-- MEMES:END -->
+ - 💣 [Finally they stand up to these clowns](http://9gag.com/gag/aXP0RAb)
+ - ⏩ [`I love being your son.` Made me, a grown man, cry.](http://9gag.com/gag/aPAw1Xn)
+ - 👉 [The bike overreacted](http://9gag.com/gag/avypdGX)<!-- MEMES:END -->
 
 ---
 
