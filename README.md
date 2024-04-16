@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Publishers Pivoting To Live-Service Games Have Most Devs Worried](https://kotaku.com/live-service-games-survey-devs-worried-unsure-future-1851414325)
- - [Grounded’s ‘Fully Yoked’ Update Out Today: A Bigger, Bolder Backyard Awaits](https://grounded.obsidian.net/news/grounded/fully-yoked#new_tab)
- - [Best Settings To Tweak In Stellar Blade’s Demo](https://kotaku.com/stellar-blade-settings-demo-graphics-pony-tail-1851414393)<!-- GAME:END -->
+ - [I swore I wouldn&#39;t use child labor in Frostpunk 2… but then the kids went feral, formed gangs, and started having deadly knife fights in the streets](https://www.pcgamer.com/games/city-builder/i-swore-i-wouldnt-use-child-labor-in-frostpunk-2-but-then-the-kids-went-feral-formed-gangs-and-started-having-deadly-knife-fights-in-the-streets)
+ - [Gigantic walkers are back in Helldivers 2 with a vengeance, and you&#39;re gonna want to bring a 380mm barrage](https://www.pcgamer.com/games/third-person-shooter/gigantic-walkers-are-back-in-helldivers-2-with-a-vengeance-and-youre-gonna-want-to-bring-a-380mm-barrage)
+ - [Publishers Pivoting To Live-Service Games Have Most Devs Worried](https://kotaku.com/live-service-games-survey-devs-worried-unsure-future-1851414325)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
