@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
- - ⏩ [Colors, colours](http://9gag.com/gag/abAXx8v)
- - 👉 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)<!-- MEMES:END -->
+ - 💣 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - ⏩ [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
+ - 👉 [Cup. Bear](http://9gag.com/gag/abAXBPb)<!-- MEMES:END -->
 
 ---
 
