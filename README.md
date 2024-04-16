@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Bluey over? No — but it could have been](https://www.polygon.com/24131873/bluey-the-sign-ending-season-4)
- - [Report: ‘Enhanced’ For PS5 Pro Could End Up Meaning A Lot Of Different Things](https://kotaku.com/ps5-pro-leaks-specs-enhanced-trinity-60fps-1851413329)
- - [After community suspicion, Palworld finally fixes an issue that held your Pals back from achieving their full potential](https://www.pcgamer.com/games/survival-crafting/after-community-suspicion-palworld-finally-fixes-an-issue-that-held-your-pals-back-from-achieving-their-full-potential)<!-- GAME:END -->
+ - [How the Legendary Kombatant Ermac Made His Grand Return in Mortal Kombat 1](https://news.xbox.com/en-us/2024/04/16/how-ermac-made-his-grand-return-in-mortal-kombat-1/)
+ - [The blasphemy of playing Half-Life with a gamepad is now easier as Black Mesa gets a sudden weighty update, devs tease &#39;more dangerous patch&#39; to come](https://www.pcgamer.com/games/fps/the-blasphemy-of-playing-half-life-with-a-gamepad-is-now-easier-as-black-mesa-gets-a-sudden-weighty-update-devs-tease-more-dangerous-patch-to-come)
+ - [Here&#39;s a portable PS1 built from the remnants of an actual console and it only took folding the motherboard &#39;like a book&#39;](https://www.pcgamer.com/hardware/heres-a-portable-ps1-built-from-the-remnants-of-an-actual-console-and-it-only-took-folding-the-motherboard-like-a-book)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
