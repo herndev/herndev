@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Xiaomi 14T Pro specs point to a OnePlus 12, Galaxy S24 rival](https://www.androidauthority.com/xiaomi-14t-pro-specs-leak-3434020/)
- - [Noida, India-based B2B e-commerce marketplace ProcMart raised a $30M Series B led by Fundamentum and Edelweiss Discovery Fund, after a $10M Series A in 2022 &lpar;Times of India&rpar;](http://www.techmeme.com/240416/p3#a240416p3)
- - [Are you happy with the state of YouTube in 2024?](https://www.androidauthority.com/youtube-in-2024-poll-3434431/)<!-- TECH:END -->
+ - [You’ll soon be able to sync app permissions between your phone and Wear OS watch](https://www.androidauthority.com/google-wear-os-sync-app-permissions-with-phone-3434449/)
+ - [Google is making a convenient change to Play Store purchases](https://www.androidauthority.com/google-change-play-store-biometric-authentication-3434458/)
+ - [Disney Plus could soon add free TV-style channels with Star Wars and Marvel shows](https://www.androidauthority.com/disney-plus-channels-3434443/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
