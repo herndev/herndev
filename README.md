@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI chip developer Rivos, which recently settled with Apple over trade secret theft, raised $250M+ led by Matrix to compete with Nvidia using its RISC-V chips &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240416/p13#a240416p13)
- - [Intel&#39;s Gaudi 3 white paper details the made-for-China processors HL-328 and HL-388, likely designed to comply with US sanctions by reducing performance &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240416/p12#a240416p12)
- - [Tim Cook meets with Vietnamese officials, developers, and students](https://appleinsider.com/articles/24/04/16/tim-cook-meets-with-vietnamese-officials-developers-and-students?utm_medium=rss)<!-- TECH:END -->
+ - [Motorola is bringing the wooden phone back with its new Edge series](https://www.theverge.com/2024/4/16/24131435/motorola-edge-50-ultra-pro-fusion-wood-panel)
+ - [Anker’s latest Soundcore Sleep earbuds actually improve slumber for less than $90](https://www.theverge.com/24125032/soundcore-sleep-a20-review-noise-cancelling-earbuds)
+ - [The new 15-inch M3 MacBook Air gets its first $150 markdown](https://www.androidauthority.com/apple-macbook-air-deal-3434361/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
