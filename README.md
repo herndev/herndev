@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - ⏩ [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
- - 👉 [Title](http://9gag.com/gag/aVvz2Ny)<!-- MEMES:END -->
+ - 💣 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - ⏩ [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - 👉 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)<!-- MEMES:END -->
 
 ---
 
