@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 patch fixes PS5 hosts accidentally giving damage boosts to their fellow patriots, continues to tackle crashes](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-fixes-ps5-hosts-accidentally-giving-damage-boosts-to-their-fellow-patriots-continues-to-tackle-crashes)
- - [My new roguelike obsession is a turn-based strategy game that makes you feel like a samurai John Wick](https://www.pcgamer.com/games/roguelike/my-new-roguelike-obsession-is-a-turn-based-strategy-game-that-makes-you-feel-like-a-samurai-john-wick)
- - [Fallout fans are doing the maths on Lucy&#39;s level by the end of the TV show, and it turns out she&#39;s barely tougher than a radroach](https://www.pcgamer.com/movies-tv/fallout-fans-are-doing-the-maths-on-lucys-level-by-the-end-of-the-tv-show-and-it-turns-out-shes-barely-tougher-than-a-radroach)<!-- GAME:END -->
+ - [Blizzard obliterates an orb from WoW Classic: Season of Discovery&#39;s 3rd phase for causing problems, leaves a terrifying class of Crusader-enchanted players in its wake](https://www.pcgamer.com/games/world-of-warcraft/blizzard-obliterates-an-orb-from-wow-classic-season-of-discoverys-3rd-phase-for-causing-problems-leaves-a-terrifying-class-of-crusader-enchanted-players-in-its-wake)
+ - [Fortnite executive says its user creation monetisation is strictly &#39;18-plus&#39; but &#39;in regions where it is permissible, yes we should lower that age&#39;](https://www.pcgamer.com/games/third-person-shooter/fortnite-executive-says-its-user-creation-monetisation-is-strictly-18-plus-but-in-regions-where-it-is-permissible-yes-we-should-lower-that-age)
+ - [Children of the Sun review](https://www.pcgamer.com/games/fps/children-of-the-sun-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
