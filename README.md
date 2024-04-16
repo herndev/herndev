@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kickstarter is adding the ability to collect money indefinitely](https://www.theverge.com/2024/4/16/24127754/kickstarter-late-pledges-crowdfunding-indefinite-donations)
- - [Amazon confirms that HQ2 in Arlington lost 200 jobs in 2023, missing Amazon&#39;s goal of adding 2,500 jobs; HQ2 has ~8,000 employees and plans to reach ~25,000 &lpar;Teo Armus/Washington Post&rpar;](http://www.techmeme.com/240416/p25#a240416p25)
- - [Apple rolls out second beta round, including EU Web Distribution in iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)<!-- TECH:END -->
+ - [People are afraid of self-driving cars — can the industry change that?](https://www.theverge.com/2024/4/16/24132026/autonomous-vehicles-fear-poll-public-trust-avia)
+ - [Loft Labs, which helps businesses spin up virtual Kubernetes clusters, raised a $24M Series A and says its open source project vCluster has had 40M downloads &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240416/p26#a240416p26)
+ - [Gemini conversations may soon start with a simple Chrome shortcut](https://www.androidauthority.com/gemini-chrome-shortcut-3434697/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
