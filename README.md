@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
- - ⏩ [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
- - 👉 [Title](http://9gag.com/gag/ajPYx81)<!-- MEMES:END -->
+ - 💣 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
+ - ⏩ [Shoutout to the Millennials out there!](http://9gag.com/gag/avypx3W)
+ - 👉 [Th search is on](http://9gag.com/gag/ae9jmvB)<!-- MEMES:END -->
 
 ---
 
