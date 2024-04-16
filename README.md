@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add a Quick Link for locations in Apple Maps in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-add-a-quick-link-for-locations-in-apple-maps-in-macos?utm_medium=rss)
- - [South Korea-based AI startup Upstage raised a $72M Series B from investors including SK Networks and SBVA, formerly known as SoftBank Ventures Asia &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240415/p33#a240415p33)
- - [Best Sunrise Alarm Clocks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tel Aviv-based Bridgewise, which uses AI to provide investment analysis to brokerages, wealth advisors, and exchanges, raised a $21M Series A led by SIX Group &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240415/p35#a240415p35)
+ - [Best California King Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-california-king-mattress/#ftag=CAD590a51e)
+ - [Baidu says that eight months after launch, its AI chatbot Ernie Bot now has 200M+ users and 85K enterprise clients, after reaching 100M+ users in December &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240415/p34#a240415p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
