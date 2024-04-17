@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - ⏩ [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 👉 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)<!-- MEMES:END -->
+ - 💣 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - ⏩ [Ready for another try](http://9gag.com/gag/aZZb2An)
+ - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
 
 ---
 
