@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - ⏩ [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
+ - 💣 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - ⏩ [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - 👉 [Tell me how simp you are](http://9gag.com/gag/aLnRm3g)<!-- MEMES:END -->
 
 ---
 
