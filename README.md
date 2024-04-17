@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - ⏩ [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 👉 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)<!-- MEMES:END -->
+ - 💣 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)
+ - ⏩ [Mexicans.](http://9gag.com/gag/a2vzGZE)
+ - 👉 [Movie should have been about them.](http://9gag.com/gag/aZZbR6Q)<!-- MEMES:END -->
 
 ---
 
