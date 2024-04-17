@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - ⏩ [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 👉 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)<!-- MEMES:END -->
+ - 💣 [Perfectly executed](http://9gag.com/gag/amoNRgd)
+ - ⏩ [Nearly half of the number of stores have closed in San Francisco and many more are leaving. Officials are now scrambling to pass new laws to prevent businesses from closing.](http://9gag.com/gag/awy0eMr)
+ - 👉 [Go sports...](http://9gag.com/gag/aQzPyxr)<!-- MEMES:END -->
 
 ---
 
