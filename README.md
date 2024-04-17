@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dwarf Fortress goes on an adventure](https://www.theverge.com/2024/4/17/24133245/dwarf-fortress-steam-adventure-mode-public-beta)
- - [MTAC report: foreign malign influence from Russia, China, and Iran in the US presidential election got off to a slower start this year compared to 2016 and 2020 &lpar;Clint Watts/Microsoft On the Issues&rpar;](http://www.techmeme.com/240417/p28#a240417p28)
- - [Boston Dynamics Atlas robot: a full history](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)<!-- TECH:END -->
+ - [Delta Is an iOS Game Boy Emulator That &lpar;Likely&rpar; Won’t Get Taken Down](https://www.wired.com/story/delta-game-boy-emulator-apple-app-store/)
+ - [TikTok Notes starts rolling out as a new rival to Instagram](https://www.theverge.com/2024/4/17/24133311/tiktok-notes-photos-text-app-instagram)
+ - [Banish Nighttime Anxiety With These 5 Proven Sleep Hacks     - CNET](https://www.cnet.com/health/sleep/banish-nighttime-anxiety-with-these-5-proven-sleep-hacks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
