@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok to restrict users who repeatedly post problematic topics from ‘For You’ feed](https://www.theverge.com/2024/4/17/24133317/tiktok-restrict-accounts-problematic-topics-for-you-feed)
- - [Google Maps to Use AI to Help EV Car Owners Charge Up     - CNET](https://www.cnet.com/roadshow/news/google-maps-to-use-ai-to-help-ev-car-owners-charge-up/#ftag=CAD590a51e)
- - [Report: Some older Samsung devices are developing a green line issue after software updates](https://www.androidauthority.com/galaxy-s21-green-line-issue-3435115/)<!-- TECH:END -->
+ - [TikTok starts rolling out TikTok Notes, its Instagram rival for sharing photo and text content, for limited testing in Australia and Canada on Android and iOS &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240417/p32#a240417p32)
+ - [Taylor Swift&#39;s New Album is Almost Here: Nabbing All the Bonus Tracks Will Cost You     - CNET](https://www.cnet.com/culture/entertainment/taylor-swifts-new-album-the-tortured-poets-department-nabbing-all-the-bonus-tracks-will-cost-you/#ftag=CAD590a51e)
+ - [Twitch is bringing its TikTok-style feed to everyone this month](https://www.theverge.com/2024/4/17/24133457/twitch-tiktok-style-feed-rollout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
