@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What are breech-loaded grenade launchers in Destiny 2?](https://www.pcgamer.com/games/fps/destiny-2-breech-loaded-grenade-launcher)
- - [Helldivers 2 devs are working on bug fixes, but &#39;Arrowhead still has a very small team&#39; after its surprise success, and &#39;there&#39;s just only so much time in a work week&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-are-working-on-bug-fixes-but-arrowhead-still-has-a-very-small-team-after-its-surprise-success-and-theres-just-only-so-much-time-in-a-work-week)
- - [Logitech&#39;s booked a seat on the AI hype train with its new AI Prompt Builder and forthcoming AI button-enabled mouse](https://www.pcgamer.com/software/ai/logitechs-booked-a-seat-on-the-ai-hype-train-with-its-new-ai-prompt-builder-and-forthcoming-ai-button-enabled-mouse)<!-- GAME:END -->
+ - [Intel will have spent over $160,000,000,000 on new fabs, assembly, packaging, testing and R&amp;D facilities by 2030](https://www.pcgamer.com/hardware/processors/intel-will-have-spent-over-dollar160000000000-on-new-fabs-assembly-packaging-testing-and-randd-facilities-by-2030)
+ - [Fallout 3&#39;s radio host Three Dog wants to appear in season 2 of the Fallout TV series as someone &#39;darker than Three Dog, but just as funny&#39;](https://www.pcgamer.com/games/fallout/fallout-3s-radio-host-three-dog-wants-to-appear-in-season-2-of-the-fallout-tv-series-as-someone-darker-than-three-dog-but-just-as-funny)
+ - [Logitech Playseat Challenge X review](https://www.pcgamer.com/hardware/gaming-chairs/logitech-playseat-challenge-x-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
