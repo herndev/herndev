@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Owner of Grand Theft Auto to layoff hundreds and cut projects](https://www.theverge.com/2024/4/17/24132791/taketwo-interactive-grand-theft-auto-layoffs-cut-projects)
- - [Foxconn Chair Young Liu says the company implemented a rotating CEO system this month, aiming to nurture successors, choosing a leader from its six businesses &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/240417/p8#a240417p8)
- - [No, Dubai’s Floods Weren’t Caused By Cloud Seeding](https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/)<!-- TECH:END -->
+ - [OnePlus 13 specs leak: A modest upgrade in the making?](https://www.androidauthority.com/oneplus-13-leaked-specifications-3434918/)
+ - [How a network of repair ships helps maintain the estimated 800,000 miles of undersea internet cables; of the 77 cable ships, only 22 are designed for repairs &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/240417/p11#a240417p11)
+ - [Google Photos could get a helpful new setting to reduce clutter](https://www.androidauthority.com/google-photos-hide-clutter-3434914/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
