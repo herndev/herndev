@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, April 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-17-2024)
- - [If the Fallout TV series gets a second season it&#39;ll have deathclaws, more than justifying its existence](https://www.pcgamer.com/movies-tv/if-the-fallout-tv-series-gets-a-second-season-itll-have-deathclaws-more-than-justifying-its-existence)
- - [Grand Theft Auto publisher Take-Two Interactive is laying off 5% of its workforce and &#39;rationalizing its pipeline,&#39; the latest skin-crawling corporate euphemism for people losing their jobs](https://www.pcgamer.com/gaming-industry/grand-theft-auto-publisher-take-two-interactive-is-laying-off-5-of-its-workforce-and-rationalizing-its-pipeline-the-latest-skin-crawling-corporate-euphemism-for-people-losing-their-jobs)<!-- GAME:END -->
+ - [What are breech-loaded grenade launchers in Destiny 2?](https://www.pcgamer.com/games/fps/destiny-2-breech-loaded-grenade-launcher)
+ - [Helldivers 2 devs are working on bug fixes, but &#39;Arrowhead still has a very small team&#39; after its surprise success, and &#39;there&#39;s just only so much time in a work week&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-are-working-on-bug-fixes-but-arrowhead-still-has-a-very-small-team-after-its-surprise-success-and-theres-just-only-so-much-time-in-a-work-week)
+ - [Logitech&#39;s booked a seat on the AI hype train with its new AI Prompt Builder and forthcoming AI button-enabled mouse](https://www.pcgamer.com/software/ai/logitechs-booked-a-seat-on-the-ai-hype-train-with-its-new-ai-prompt-builder-and-forthcoming-ai-button-enabled-mouse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
