@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Atlas Robot Is Dead. Long Live the Atlas Robot](https://www.wired.com/story/the-atlas-robot-is-dead-long-live-the-atlas-robot/)
- - [The Plus iPhone could be getting smaller](https://www.androidauthority.com/iphone-17-plus-display-3435089/)
- - [iPhone 17 Plus display might be a hair smaller than the iPhone 16 Plus](https://appleinsider.com/articles/24/04/17/iphone-17-plus-display-might-be-a-hair-smaller-than-the-iphone-16-plus?utm_medium=rss)<!-- TECH:END -->
+ - [Dwarf Fortress goes on an adventure](https://www.theverge.com/2024/4/17/24133245/dwarf-fortress-steam-adventure-mode-public-beta)
+ - [MTAC report: foreign malign influence from Russia, China, and Iran in the US presidential election got off to a slower start this year compared to 2016 and 2020 &lpar;Clint Watts/Microsoft On the Issues&rpar;](http://www.techmeme.com/240417/p28#a240417p28)
+ - [Boston Dynamics Atlas robot: a full history](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
