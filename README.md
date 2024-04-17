@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8a gets leaked in new clean renders, showing off all four colors](https://www.androidauthority.com/pixel-8a-clean-renders-four-colors-3434951/)
- - [Apple Notes in iOS 18 looks to up the ante with Microsoft OneNote](https://appleinsider.com/articles/24/04/17/apple-notes-in-ios-18-looks-to-up-the-ante-with-microsoft-onenote?utm_medium=rss)
- - [Remember gaming phone maker Black Shark? It just launched a smart ring](https://www.androidauthority.com/black-shark-ring-3434931/)<!-- TECH:END -->
+ - [Formlabs’ new pro 3D printers claim 2–5x speed by ditching lasers for an LCD screen](https://www.theverge.com/2024/4/17/24132558/formlabs-form-4-3d-printer-msla-resin)
+ - [Google Maps will use AI to help you find out-of-the-way EV chargers](https://www.theverge.com/2024/4/17/24132254/google-maps-ev-charging-directions-ai-summaries)
+ - [The Xiaomi 15 series could be good news for fans of pocket-friendly flagships](https://www.androidauthority.com/xiaomi-15-series-3434938/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
