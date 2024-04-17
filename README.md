@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s art-inspired Frame TVs are up to $1,000 off right now](https://www.theverge.com/2024/4/17/24132220/samsung-frame-tv-jbl-flip-6-bluetooth-speaker-deal-sale)
- - [Samsung may finally give its app drawer the feature everyone asked for](https://www.androidauthority.com/samsung-vertical-app-drawer-3435054/)
- - [Save 25% on the new Blink Mini 2](https://www.androidauthority.com/blink-mini-2-deal-3435060/)<!-- TECH:END -->
+ - [First third party App Store in the EU is live](https://appleinsider.com/articles/24/04/17/first-third-party-app-store-in-the-eu-is-live?utm_medium=rss)
+ - [Game emulator Delta arrives on App Store after controversies](https://appleinsider.com/articles/24/04/17/game-emulator-delta-arrives-on-app-store-after-controversies?utm_medium=rss)
+ - [Boston Dynamics’ new Atlas robot is a swiveling, shape-shifting nightmare](https://www.theverge.com/2024/4/17/24133145/boston-dynamics-resurrects-atlas-humanoid-robot-electric-new)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
