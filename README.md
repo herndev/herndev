@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
- - ⏩ [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 👉 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)<!-- MEMES:END -->
+ - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - ⏩ [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
+ - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
 
 ---
 
