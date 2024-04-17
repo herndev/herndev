@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - ⏩ [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 👉 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)<!-- MEMES:END -->
+ - 💣 [Big oof...](http://9gag.com/gag/aryv245)
+ - ⏩ [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
 
 ---
 
