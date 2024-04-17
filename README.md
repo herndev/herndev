@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
- - ⏩ [Chad Howard on it again](http://9gag.com/gag/a5QeqNG)
- - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
+ - 💣 [The bike overreacted](http://9gag.com/gag/avypdGX)
+ - ⏩ [Go sports...](http://9gag.com/gag/aQzPyxr)
+ - 👉 [Congrats happy for you, nice](http://9gag.com/gag/ae9j7Db)<!-- MEMES:END -->
 
 ---
 
