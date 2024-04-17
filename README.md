@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, April 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-17-2024)
  - [If the Fallout TV series gets a second season it&#39;ll have deathclaws, more than justifying its existence](https://www.pcgamer.com/movies-tv/if-the-fallout-tv-series-gets-a-second-season-itll-have-deathclaws-more-than-justifying-its-existence)
- - [Grand Theft Auto publisher Take-Two Interactive is laying off 5% of its workforce and &#39;rationalizing its pipeline,&#39; the latest skin-crawling corporate euphemism for people losing their jobs](https://www.pcgamer.com/gaming-industry/grand-theft-auto-publisher-take-two-interactive-is-laying-off-5-of-its-workforce-and-rationalizing-its-pipeline-the-latest-skin-crawling-corporate-euphemism-for-people-losing-their-jobs)
- - [It took almost 10 years, but REDkit modding tools are finally coming to The Witcher 3 and a test version on Steam is live now](https://www.pcgamer.com/games/rpg/it-took-almost-10-years-but-redkit-modding-tools-are-finally-coming-to-the-witcher-3-and-a-test-version-on-steam-is-live-now)<!-- GAME:END -->
+ - [Grand Theft Auto publisher Take-Two Interactive is laying off 5% of its workforce and &#39;rationalizing its pipeline,&#39; the latest skin-crawling corporate euphemism for people losing their jobs](https://www.pcgamer.com/gaming-industry/grand-theft-auto-publisher-take-two-interactive-is-laying-off-5-of-its-workforce-and-rationalizing-its-pipeline-the-latest-skin-crawling-corporate-euphemism-for-people-losing-their-jobs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
