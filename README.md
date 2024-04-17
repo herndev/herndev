@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
- - ⏩ [He still loves her](http://9gag.com/gag/aByREoD)
- - 👉 [Cup. Bear](http://9gag.com/gag/abAXBPb)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/an7qx70)
+ - ⏩ [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
 
 ---
 
