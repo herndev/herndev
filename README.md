@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom 2&#39;s Oldest Speedrun Record Finally Beaten After 26 Years](https://kotaku.com/doom-2-speedrun-record-26-years-entryway-4-seconds-1851417526)
- - [Life sims are &#39;the most complex RPGs ever written,&#39; says Life by You director](https://www.pcgamer.com/games/life-sim/rod-humble-interview-life-sim-inclusivity)
- - [Arrowhead is aware Helldivers 2 players are using an &#39;undemocratic&#39; exploit to easily farm Super Credits, but doesn&#39;t seem too worried about it](https://www.pcgamer.com/games/third-person-shooter/arrowhead-is-aware-helldivers-2-players-are-using-an-undemocratic-exploit-to-easily-farm-super-credits-but-doesnt-seem-too-worried-about-it)<!-- GAME:END -->
+ - [Ready or Not studio Void Interactive confirms it was hacked in March but says &#39;no user-related data&#39; was stolen](https://www.pcgamer.com/games/fps/ready-or-not-studio-void-interactive-confirms-it-was-hacked-in-march-but-says-no-user-related-data-was-stolen)
+ - [Hades 2 gods somehow even hotter than Hades gods](https://www.polygon.com/24133438/hades-2-characters-art-gods-reactions)
+ - [Life By You director says modders are welcome to monetize creations however they want: &#39;Go for it—you don&#39;t need our permission&#39;](https://www.pcgamer.com/games/life-sim/life-by-you-director-says-modders-are-welcome-to-monetize-creations-however-they-want-go-for-ityou-dont-need-our-permission)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
