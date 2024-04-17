@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Still facing call and text issues on your Pixel phone? Try this temporary fix](https://www.androidauthority.com/google-pixel-call-text-issues-temporary-fix-3435010/)
- - [Stability AI is giving more developers access to its next-gen text-to-image generator](https://www.theverge.com/2024/4/17/24132927/stable-diffusion-3-api-availability-stability-ai)
- - [A look at Spy Pet, a Discord scraping service that claims to get data from 14K+ servers and 600M users, available for as little as $5; Discord is investigating &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240417/p18#a240417p18)<!-- TECH:END -->
+ - [Comcast rolls out ‘Now’ prepaid phone and internet plans](https://www.theverge.com/2024/4/17/24132851/comcast-xfinity-now-mobile-prepaid-wireless)
+ - [Sony might have perfected Mini LED TVs with its new 2024 lineup](https://www.theverge.com/2024/4/17/24132829/sony-2024-bravia-9-8-7-3-mini-led-oled-tv)
+ - [How Amazon developed Just Walk Out since the early 2010s, driven by Jeff Bezos, as the company removes the tech from stores while expanding third-party sales &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240417/p20#a240417p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
