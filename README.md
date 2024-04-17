@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The bike overreacted](http://9gag.com/gag/avypdGX)
- - ⏩ [Go sports...](http://9gag.com/gag/aQzPyxr)
- - 👉 [Congrats happy for you, nice](http://9gag.com/gag/ae9j7Db)<!-- MEMES:END -->
+ - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - ⏩ [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 👉 [Which door you choose](http://9gag.com/gag/a6Zmjwm)<!-- MEMES:END -->
 
 ---
 
