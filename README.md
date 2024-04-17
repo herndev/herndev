@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former T-Mobile and Verizon employees say they are receiving texts offering up to $300 to perform a SIM swap; T-Mobile says it is investigating &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240417/p4#a240417p4)
- - [Navigation in Google Maps just went &lpar;a little&rpar; 3D](https://www.androidauthority.com/google-maps-3d-building-option-navigation-3434440/)
- - [The Boring Phone is a with a transparent flip phone that takes me back to my childhood](https://www.androidauthority.com/the-borning-phone-3434819/)<!-- TECH:END -->
+ - [Casetify expands its charging solutions with a Qi2 car charger, 240W charging cable](https://www.androidauthority.com/casetify-powerthru-3434805/)
+ - [ASML reports Q1 net sales down 21.6% YoY to &amp;euro;5.29B v. &amp;euro;5.39B est., net income down 37.4% YoY to of &amp;euro;1.22B v. &amp;euro;1.07B est., and net bookings down 4% YoY to &amp;euro;3.6B &lpar;CNBC&rpar;](http://www.techmeme.com/240417/p5#a240417p5)
+ - [Logitech wants you to press its new AI button](https://www.theverge.com/2024/4/17/24132468/logitech-ai-prompt-builder-button)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
