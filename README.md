@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Botany Manor is not just about growing plants](https://www.polygon.com/24132130/botany-manor-cozy-games-review-pc)
- - [You can now buy mythic skins in Overwatch 2 and, to nobody&#39;s surprise, they&#39;re ridiculously expensive to buy outright](https://www.pcgamer.com/games/fps/you-can-now-buy-mythic-skins-in-overwatch-2-and-to-nobodys-surprise-theyre-ridiculously-expensive-to-buy-outright)
- - [Victoria 3&#39;s first major expansion is getting punted back by 2 months so Paradox doesn&#39;t repeat the mistake of EU4&#39;s disastrous Leviathan release](https://www.pcgamer.com/games/strategy/victoria-3s-first-major-expansion-is-getting-punted-back-by-2-months-so-paradox-doesnt-repeat-the-mistake-of-eu4s-disastrous-leviathan-release)<!-- GAME:END -->
+ - [Donate to AbleGamers for a Chance to Win Epic Prizes From Activision Blizzard](https://win.ablegamers.org/#new_tab)
+ - [Did Knuckles have an OK time at the Knuckles premiere? He looked stressed](https://www.polygon.com/24132864/knuckles-cast-idris-elba-premiere)
+ - [Palworld Boss Celebrates Other Companies Cloning His Game](https://kotaku.com/palworld-tencent-pokemon-nintendo-clone-mobile-1851415602)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
