@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/an7qx70)
- - ⏩ [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
+ - 💣 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
+ - ⏩ [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 👉 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)<!-- MEMES:END -->
 
 ---
 
