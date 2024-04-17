@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comcast rolls out ‘Now’ prepaid phone and internet plans](https://www.theverge.com/2024/4/17/24132851/comcast-xfinity-now-mobile-prepaid-wireless)
- - [Sony might have perfected Mini LED TVs with its new 2024 lineup](https://www.theverge.com/2024/4/17/24132829/sony-2024-bravia-9-8-7-3-mini-led-oled-tv)
- - [How Amazon developed Just Walk Out since the early 2010s, driven by Jeff Bezos, as the company removes the tech from stores while expanding third-party sales &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240417/p20#a240417p20)<!-- TECH:END -->
+ - [Samsung’s art-inspired Frame TVs are up to $1,000 off right now](https://www.theverge.com/2024/4/17/24132220/samsung-frame-tv-jbl-flip-6-bluetooth-speaker-deal-sale)
+ - [Samsung may finally give its app drawer the feature everyone asked for](https://www.androidauthority.com/samsung-vertical-app-drawer-3435054/)
+ - [Save 25% on the new Blink Mini 2](https://www.androidauthority.com/blink-mini-2-deal-3435060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
