@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We Finally Got A Good Look At Hades 2 Gameplay](https://kotaku.com/hades-2-technical-test-livestream-new-gods-and-weapons-1851417165)
- - [5 years after its first appearance on Xbox One, Bohemia Interactive&#39;s console-exclusive looter-shooter Vigor is finally coming to PC](https://www.pcgamer.com/games/third-person-shooter/5-years-after-its-first-appearance-on-xbox-one-bohemia-interactives-console-exclusive-looter-shooter-vigor-is-finally-coming-to-pc)
- - [Star Trek: Lower Decks’ creator is turning Sega’s Golden Axe into an animated comedy](https://www.polygon.com/24133303/sega-golden-axe-comedy-central-animated-series-lower-decks)<!-- GAME:END -->
+ - [Doom 2&#39;s Oldest Speedrun Record Finally Beaten After 26 Years](https://kotaku.com/doom-2-speedrun-record-26-years-entryway-4-seconds-1851417526)
+ - [Life sims are &#39;the most complex RPGs ever written,&#39; says Life by You director](https://www.pcgamer.com/games/life-sim/rod-humble-interview-life-sim-inclusivity)
+ - [Arrowhead is aware Helldivers 2 players are using an &#39;undemocratic&#39; exploit to easily farm Super Credits, but doesn&#39;t seem too worried about it](https://www.pcgamer.com/games/third-person-shooter/arrowhead-is-aware-helldivers-2-players-are-using-an-undemocratic-exploit-to-easily-farm-super-credits-but-doesnt-seem-too-worried-about-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
