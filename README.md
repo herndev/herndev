@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great way to Exercise brain for little kids](http://9gag.com/gag/aKGwpeN)
- - ⏩ [Mexicans.](http://9gag.com/gag/a2vzGZE)
- - 👉 [This is what your elites don&#39;t want you to have.](http://9gag.com/gag/a7oLn1x)<!-- MEMES:END -->
+ - 💣 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - ⏩ [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 👉 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)<!-- MEMES:END -->
 
 ---
 
