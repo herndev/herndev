@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delta Is an iOS Game Boy Emulator That &lpar;Likely&rpar; Won’t Get Taken Down](https://www.wired.com/story/delta-game-boy-emulator-apple-app-store/)
- - [TikTok Notes starts rolling out as a new rival to Instagram](https://www.theverge.com/2024/4/17/24133311/tiktok-notes-photos-text-app-instagram)
- - [Banish Nighttime Anxiety With These 5 Proven Sleep Hacks     - CNET](https://www.cnet.com/health/sleep/banish-nighttime-anxiety-with-these-5-proven-sleep-hacks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok to restrict users who repeatedly post problematic topics from ‘For You’ feed](https://www.theverge.com/2024/4/17/24133317/tiktok-restrict-accounts-problematic-topics-for-you-feed)
+ - [Google Maps to Use AI to Help EV Car Owners Charge Up     - CNET](https://www.cnet.com/roadshow/news/google-maps-to-use-ai-to-help-ev-car-owners-charge-up/#ftag=CAD590a51e)
+ - [Report: Some older Samsung devices are developing a green line issue after software updates](https://www.androidauthority.com/galaxy-s21-green-line-issue-3435115/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
