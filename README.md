@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Formlabs’ new pro 3D printers claim 2–5x speed by ditching lasers for an LCD screen](https://www.theverge.com/2024/4/17/24132558/formlabs-form-4-3d-printer-msla-resin)
- - [Google Maps will use AI to help you find out-of-the-way EV chargers](https://www.theverge.com/2024/4/17/24132254/google-maps-ev-charging-directions-ai-summaries)
- - [The Xiaomi 15 series could be good news for fans of pocket-friendly flagships](https://www.androidauthority.com/xiaomi-15-series-3434938/)<!-- TECH:END -->
+ - [NASA has greenlit plans to send a giant drone to Saturn’s largest moon](https://www.theverge.com/2024/4/17/24132824/nasa-dragonfly-mission-drone-saturn-moon-titan-greenlit)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 17&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-17-2024-3434315/)
+ - [All the announcements from Nintendo’s spring Indie World event](https://www.theverge.com/24132202/nintendo-indie-world-april-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
