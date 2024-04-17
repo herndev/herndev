@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - ⏩ [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
- - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
+ - 💣 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - ⏩ [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 👉 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)<!-- MEMES:END -->
 
 ---
 
