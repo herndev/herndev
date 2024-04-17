@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Mistral is in talks with investors about raising several hundred million dollars at a $5B valuation, after raising $415M at a $2B valuation in Dec. 2023 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240416/p34#a240416p34)
  - [AirPods Pro 2 Hacks: The Secret Features to Boost Your Sound     - CNET](https://www.cnet.com/tech/mobile/airpods-pro-2-hacks-the-secret-features-to-boost-your-sound/#ftag=CAD590a51e)
- - [Best Mattress for Hip Pain in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)
- - [Best Organic Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattress for Hip Pain in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
