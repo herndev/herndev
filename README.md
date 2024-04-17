@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - ⏩ [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 👉 [93 Year old Clint Eastwood](http://9gag.com/gag/azxgZqx)<!-- MEMES:END -->
+ - 💣 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - ⏩ [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
+ - 👉 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)<!-- MEMES:END -->
 
 ---
 
