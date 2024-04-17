@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - ⏩ [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 👉 [Which door you choose](http://9gag.com/gag/a6Zmjwm)<!-- MEMES:END -->
+ - ⏩ [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 👉 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)<!-- MEMES:END -->
 
 ---
 
