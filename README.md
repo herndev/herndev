@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I swore I wouldn&#39;t use child labor in Frostpunk 2… but then the kids went feral, formed gangs, and started having deadly knife fights in the streets](https://www.pcgamer.com/games/city-builder/i-swore-i-wouldnt-use-child-labor-in-frostpunk-2-but-then-the-kids-went-feral-formed-gangs-and-started-having-deadly-knife-fights-in-the-streets)
- - [Gigantic walkers are back in Helldivers 2 with a vengeance, and you&#39;re gonna want to bring a 380mm barrage](https://www.pcgamer.com/games/third-person-shooter/gigantic-walkers-are-back-in-helldivers-2-with-a-vengeance-and-youre-gonna-want-to-bring-a-380mm-barrage)
- - [Publishers Pivoting To Live-Service Games Have Most Devs Worried](https://kotaku.com/live-service-games-survey-devs-worried-unsure-future-1851414325)<!-- GAME:END -->
+ - [Grand Theft Auto publisher Take-Two Interactive is laying off 5% of its workforce and &#39;rationalizing its pipeline,&#39; the latest skin-crawling corporate euphemism for people losing their jobs](https://www.pcgamer.com/gaming-industry/grand-theft-auto-publisher-take-two-interactive-is-laying-off-5-of-its-workforce-and-rationalizing-its-pipeline-the-latest-skin-crawling-corporate-euphemism-for-people-losing-their-jobs)
+ - [It took almost 10 years, but REDkit modding tools are finally coming to The Witcher 3 and a test version on Steam is live now](https://www.pcgamer.com/games/rpg/it-took-almost-10-years-but-redkit-modding-tools-are-finally-coming-to-the-witcher-3-and-a-test-version-on-steam-is-live-now)
+ - [GTA VI Publisher Cancels $140 Million In New Projects And Lays Off Hundreds](https://kotaku.com/gta-6-grand-theft-auto-take-two-layoffs-cancelled-1851414715)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
