@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First third party App Store in the EU is live](https://appleinsider.com/articles/24/04/17/first-third-party-app-store-in-the-eu-is-live?utm_medium=rss)
- - [Game emulator Delta arrives on App Store after controversies](https://appleinsider.com/articles/24/04/17/game-emulator-delta-arrives-on-app-store-after-controversies?utm_medium=rss)
- - [Boston Dynamics’ new Atlas robot is a swiveling, shape-shifting nightmare](https://www.theverge.com/2024/4/17/24133145/boston-dynamics-resurrects-atlas-humanoid-robot-electric-new)<!-- TECH:END -->
+ - [The Atlas Robot Is Dead. Long Live the Atlas Robot](https://www.wired.com/story/the-atlas-robot-is-dead-long-live-the-atlas-robot/)
+ - [The Plus iPhone could be getting smaller](https://www.androidauthority.com/iphone-17-plus-display-3435089/)
+ - [iPhone 17 Plus display might be a hair smaller than the iPhone 16 Plus](https://appleinsider.com/articles/24/04/17/iphone-17-plus-display-might-be-a-hair-smaller-than-the-iphone-16-plus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
