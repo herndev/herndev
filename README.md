@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Herlev, Denmark-based Flatpay, which offers payment services to retail shops, restaurants, salons, and more, raised a &amp;euro;45 Series B led by Dawn Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240417/p2#a240417p2)
- - [Google Workers Detained By Police for Protesting Cloud Contract with Israel](https://www.wired.com/story/nine-google-workers-detained-by-police-protest-israel-cloud-contract/)
- - [Canada plans to introduce a digital services tax on large tech companies, which could raise CA$5.9B over the five years starting FY 2024-2025 &lpar;David Ljunggren/Reuters&rpar;](http://www.techmeme.com/240417/p1#a240417p1)<!-- TECH:END -->
+ - [The Boring Phone is a with a transparent flip phone that takes me back to my childhood](https://www.androidauthority.com/the-borning-phone-3434819/)
+ - [Tel Aviv-based Cynomi, which offers an AI-powered virtual CISO service for managed service providers, raised a $20M Series A led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/240417/p3#a240417p3)
+ - [Herlev, Denmark-based Flatpay, which offers payment services to retail shops, restaurants, salons, and more, raised a &amp;euro;45 Series B led by Dawn Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240417/p2#a240417p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
