@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big oof...](http://9gag.com/gag/aryv245)
- - ⏩ [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 👉 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)<!-- MEMES:END -->
+ - 💣 [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - ⏩ [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
+ - 👉 [93 Year old Clint Eastwood](http://9gag.com/gag/azxgZqx)<!-- MEMES:END -->
 
 ---
 
