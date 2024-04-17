@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)
- - ⏩ [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 👉 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)<!-- MEMES:END -->
+ - 💣 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - ⏩ [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
 
 ---
 
