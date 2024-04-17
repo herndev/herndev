@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA has greenlit plans to send a giant drone to Saturn’s largest moon](https://www.theverge.com/2024/4/17/24132824/nasa-dragonfly-mission-drone-saturn-moon-titan-greenlit)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 17&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-17-2024-3434315/)
- - [All the announcements from Nintendo’s spring Indie World event](https://www.theverge.com/24132202/nintendo-indie-world-april-2024)<!-- TECH:END -->
+ - [Still facing call and text issues on your Pixel phone? Try this temporary fix](https://www.androidauthority.com/google-pixel-call-text-issues-temporary-fix-3435010/)
+ - [Stability AI is giving more developers access to its next-gen text-to-image generator](https://www.theverge.com/2024/4/17/24132927/stable-diffusion-3-api-availability-stability-ai)
+ - [A look at Spy Pet, a Discord scraping service that claims to get data from 14K+ servers and 600M users, available for as little as $5; Discord is investigating &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240417/p18#a240417p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
