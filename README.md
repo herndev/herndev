@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 specs leak: A modest upgrade in the making?](https://www.androidauthority.com/oneplus-13-leaked-specifications-3434918/)
- - [How a network of repair ships helps maintain the estimated 800,000 miles of undersea internet cables; of the 77 cable ships, only 22 are designed for repairs &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/240417/p11#a240417p11)
- - [Google Photos could get a helpful new setting to reduce clutter](https://www.androidauthority.com/google-photos-hide-clutter-3434914/)<!-- TECH:END -->
+ - [Pixel 8a gets leaked in new clean renders, showing off all four colors](https://www.androidauthority.com/pixel-8a-clean-renders-four-colors-3434951/)
+ - [Apple Notes in iOS 18 looks to up the ante with Microsoft OneNote](https://appleinsider.com/articles/24/04/17/apple-notes-in-ios-18-looks-to-up-the-ante-with-microsoft-onenote?utm_medium=rss)
+ - [Remember gaming phone maker Black Shark? It just launched a smart ring](https://www.androidauthority.com/black-shark-ring-3434931/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
