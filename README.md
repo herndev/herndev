@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Riders Market Addition is Turning MotoGP 24 Into the Most Authentic Entry Yet](https://news.xbox.com/en-us/2024/04/17/motogp-24-riders-market-feature/)
- - [Why Stardew Valley Fans Love This Queer Pop Banger](https://kotaku.com/stardew-valley-haley-chappell-roan-good-luck-babe-song-1851416353)
- - [A Guide To Final Fantasy XIV’s Yo-kai Watch Collab Event](https://kotaku.com/final-fantasy-14-yokai-watch-collab-event-items-1851416297)<!-- GAME:END -->
+ - [Sample Frostpunk 2’s New Sandbox Mode with the New Beta, Available Now Through April 22](https://news.xbox.com/en-us/2024/04/17/build-your-utopia-with-frostpunk-2-beta-available-now/)
+ - [Morels: The Hunt 2, an intensely chill game about gathering mushrooms and taking pictures of animals, is my unexpected new obsession](https://www.pcgamer.com/games/sim/morels-the-hunt-2-an-intensely-chill-game-about-gathering-mushrooms-and-taking-pictures-of-animals-is-my-unexpected-new-obsession)
+ - [The Easiest Way To Get Power Armor In Fallout 76](https://kotaku.com/fallout-76-power-armor-locations-tips-guide-find-1851416695)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
