@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Boring Phone is a with a transparent flip phone that takes me back to my childhood](https://www.androidauthority.com/the-borning-phone-3434819/)
- - [Tel Aviv-based Cynomi, which offers an AI-powered virtual CISO service for managed service providers, raised a $20M Series A led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/240417/p3#a240417p3)
- - [Herlev, Denmark-based Flatpay, which offers payment services to retail shops, restaurants, salons, and more, raised a &amp;euro;45 Series B led by Dawn Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240417/p2#a240417p2)<!-- TECH:END -->
+ - [Current and former T-Mobile and Verizon employees say they are receiving texts offering up to $300 to perform a SIM swap; T-Mobile says it is investigating &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240417/p4#a240417p4)
+ - [Navigation in Google Maps just went &lpar;a little&rpar; 3D](https://www.androidauthority.com/google-maps-3d-building-option-navigation-3434440/)
+ - [The Boring Phone is a with a transparent flip phone that takes me back to my childhood](https://www.androidauthority.com/the-borning-phone-3434819/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
