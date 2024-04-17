@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel will have spent over $160,000,000,000 on new fabs, assembly, packaging, testing and R&amp;D facilities by 2030](https://www.pcgamer.com/hardware/processors/intel-will-have-spent-over-dollar160000000000-on-new-fabs-assembly-packaging-testing-and-randd-facilities-by-2030)
- - [Fallout 3&#39;s radio host Three Dog wants to appear in season 2 of the Fallout TV series as someone &#39;darker than Three Dog, but just as funny&#39;](https://www.pcgamer.com/games/fallout/fallout-3s-radio-host-three-dog-wants-to-appear-in-season-2-of-the-fallout-tv-series-as-someone-darker-than-three-dog-but-just-as-funny)
- - [Logitech Playseat Challenge X review](https://www.pcgamer.com/hardware/gaming-chairs/logitech-playseat-challenge-x-review)<!-- GAME:END -->
+ - [Botany Manor is not just about growing plants](https://www.polygon.com/24132130/botany-manor-cozy-games-review-pc)
+ - [You can now buy mythic skins in Overwatch 2 and, to nobody&#39;s surprise, they&#39;re ridiculously expensive to buy outright](https://www.pcgamer.com/games/fps/you-can-now-buy-mythic-skins-in-overwatch-2-and-to-nobodys-surprise-theyre-ridiculously-expensive-to-buy-outright)
+ - [Victoria 3&#39;s first major expansion is getting punted back by 2 months so Paradox doesn&#39;t repeat the mistake of EU4&#39;s disastrous Leviathan release](https://www.pcgamer.com/games/strategy/victoria-3s-first-major-expansion-is-getting-punted-back-by-2-months-so-paradox-doesnt-repeat-the-mistake-of-eu4s-disastrous-leviathan-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
