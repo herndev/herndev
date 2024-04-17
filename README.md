@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)
- - ⏩ [Mexicans.](http://9gag.com/gag/a2vzGZE)
- - 👉 [Movie should have been about them.](http://9gag.com/gag/aZZbR6Q)<!-- MEMES:END -->
+ - 💣 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
+ - ⏩ [Ready for another try](http://9gag.com/gag/aZZb2An)
+ - 👉 [Freaks of nature](http://9gag.com/gag/aByR4wP)<!-- MEMES:END -->
 
 ---
 
