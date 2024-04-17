@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whatsapp will soon show you which of your contacts has been online recently](https://www.androidauthority.com/whatsapp-recently-online-contacts-3434892/)
- - [Emails: SpaceX cracks down on users who are connecting to its Starlink internet service from unauthorized countries, including Sudan, South Africa, and Zimbabwe &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240417/p6#a240417p6)
- - [This new Ultra phone could be way too good for low-light shots](https://www.androidauthority.com/huawei-pura-70-ultra-low-light-leak-3434870/)<!-- TECH:END -->
+ - [Owner of Grand Theft Auto to layoff hundreds and cut projects](https://www.theverge.com/2024/4/17/24132791/taketwo-interactive-grand-theft-auto-layoffs-cut-projects)
+ - [Foxconn Chair Young Liu says the company implemented a rotating CEO system this month, aiming to nurture successors, choosing a leader from its six businesses &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/240417/p8#a240417p8)
+ - [No, Dubai’s Floods Weren’t Caused By Cloud Seeding](https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
