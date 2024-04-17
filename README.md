@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Indie World: All the news, trailers, and announcements](https://www.polygon.com/24132237/nintendo-indie-world-april-2024-news-announcements-trailers)
- - [Do reviews of &#39;bad&#39; products really kill off companies? Not according to one famous tech YouTuber and we absolutely agree](https://www.pcgamer.com/hardware/do-reviews-of-bad-products-really-kill-off-companies-not-according-to-one-famous-tech-youtuber-and-we-absolutely-agree)
- - [Ghost of Tsushima will bring PlayStation trophies and friends to PC for the first time, making the walls between console and PC even more meaningless](https://www.pcgamer.com/games/action/ghost-of-tsushima-will-bring-playstation-trophies-and-friends-to-pc-for-the-first-time-making-the-walls-between-console-and-pc-even-more-meaningless)<!-- GAME:END -->
+ - [Dwarf Fortress’ Adventure Mode morphs the game into a turn-based RPG](https://www.polygon.com/24132899/dwarf-fortress-adventure-mode-beta-announcement-release-date-price)
+ - [The dirty secret to making sci-fi believable](https://www.polygon.com/24132151/sci-fi-fantasy-series-costumes-weathering-fallout)
+ - [While everyone else is getting re-acquainted with Fallout, this maniac&#39;s bolting hundreds of mods together to turn Fallout 4 into Resident Evil 5](https://www.pcgamer.com/games/rpg/while-everyone-else-is-getting-re-acquainted-with-fallout-this-maniacs-bolting-hundreds-of-mods-together-to-turn-fallout-4-into-resident-evil-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
