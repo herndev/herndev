@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - ⏩ [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - 👉 [Tell me how simp you are](http://9gag.com/gag/aLnRm3g)<!-- MEMES:END -->
+ - 💣 [Great way to Exercise brain for little kids](http://9gag.com/gag/aKGwpeN)
+ - ⏩ [Mexicans.](http://9gag.com/gag/a2vzGZE)
+ - 👉 [This is what your elites don&#39;t want you to have.](http://9gag.com/gag/a7oLn1x)<!-- MEMES:END -->
 
 ---
 
