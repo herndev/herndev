@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 Games &lpar;That Aren&#39;t Fallout&rpar; To Play After Watching Fallout](https://kotaku.com/fallout-show-amazon-games-to-play-like-new-vegas-1851416715)
- - [WoW: The War Within&#39;s new arachnophobia filter that turns spiders into crabs was mapped out by a lone developer, but &#39;she had a wonderful time—she likes spiders&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-the-war-withins-new-arachnophobia-filter-that-turns-spiders-into-crabs-was-mapped-out-by-a-lone-developer-but-she-had-a-wonderful-timeshe-likes-spiders)
- - [Sample Frostpunk 2’s New Sandbox Mode with the New Beta, Available Now Through April 22](https://news.xbox.com/en-us/2024/04/17/build-your-utopia-with-frostpunk-2-beta-available-now/)<!-- GAME:END -->
+ - [We Finally Got A Good Look At Hades 2 Gameplay](https://kotaku.com/hades-2-technical-test-livestream-new-gods-and-weapons-1851417165)
+ - [5 years after its first appearance on Xbox One, Bohemia Interactive&#39;s console-exclusive looter-shooter Vigor is finally coming to PC](https://www.pcgamer.com/games/third-person-shooter/5-years-after-its-first-appearance-on-xbox-one-bohemia-interactives-console-exclusive-looter-shooter-vigor-is-finally-coming-to-pc)
+ - [Star Trek: Lower Decks’ creator is turning Sega’s Golden Axe into an animated comedy](https://www.polygon.com/24133303/sega-golden-axe-comedy-central-animated-series-lower-decks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
