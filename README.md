@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - ⏩ [Ready for another try](http://9gag.com/gag/aZZb2An)
- - 👉 [Freaks of nature](http://9gag.com/gag/aByR4wP)<!-- MEMES:END -->
+ - 💣 [Big oof...](http://9gag.com/gag/aryv245)
+ - ⏩ [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 👉 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)<!-- MEMES:END -->
 
 ---
 
