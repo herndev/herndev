@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Donate to AbleGamers for a Chance to Win Epic Prizes From Activision Blizzard](https://win.ablegamers.org/#new_tab)
- - [Did Knuckles have an OK time at the Knuckles premiere? He looked stressed](https://www.polygon.com/24132864/knuckles-cast-idris-elba-premiere)
- - [Palworld Boss Celebrates Other Companies Cloning His Game](https://kotaku.com/palworld-tencent-pokemon-nintendo-clone-mobile-1851415602)<!-- GAME:END -->
+ - [Nintendo Indie World: All the news, trailers, and announcements](https://www.polygon.com/24132237/nintendo-indie-world-april-2024-news-announcements-trailers)
+ - [Do reviews of &#39;bad&#39; products really kill off companies? Not according to one famous tech YouTuber and we absolutely agree](https://www.pcgamer.com/hardware/do-reviews-of-bad-products-really-kill-off-companies-not-according-to-one-famous-tech-youtuber-and-we-absolutely-agree)
+ - [Ghost of Tsushima will bring PlayStation trophies and friends to PC for the first time, making the walls between console and PC even more meaningless](https://www.pcgamer.com/games/action/ghost-of-tsushima-will-bring-playstation-trophies-and-friends-to-pc-for-the-first-time-making-the-walls-between-console-and-pc-even-more-meaningless)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
