@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - ⏩ [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
- - 👉 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)<!-- MEMES:END -->
+ - 💣 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - ⏩ [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 👉 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)<!-- MEMES:END -->
 
 ---
 
