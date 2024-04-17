@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Mistral is in talks with investors about raising several hundred million dollars at a $5B valuation, after raising $415M at a $2B valuation in Dec. 2023 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240416/p34#a240416p34)
- - [Will Massachusetts Ditch Its Competitive Energy Market?     - CNET](https://www.cnet.com/how-to/will-massachusetts-ditch-its-competitive-energy-market/#ftag=CAD590a51e)
- - [Best Galaxy Watch Deals: Free With Trade-In or Save $60 on Galaxy Watch 6, Up to $197 Off Galaxy Watch 5 Pro     - CNET](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Herlev, Denmark-based Flatpay, which offers payment services to retail shops, restaurants, salons, and more, raised a &amp;euro;45 Series B led by Dawn Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240417/p2#a240417p2)
+ - [Google Workers Detained By Police for Protesting Cloud Contract with Israel](https://www.wired.com/story/nine-google-workers-detained-by-police-protest-israel-cloud-contract/)
+ - [Canada plans to introduce a digital services tax on large tech companies, which could raise CA$5.9B over the five years starting FY 2024-2025 &lpar;David Ljunggren/Reuters&rpar;](http://www.techmeme.com/240417/p1#a240417p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
