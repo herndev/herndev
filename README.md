@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sample Frostpunk 2’s New Sandbox Mode with the New Beta, Available Now Through April 22](https://news.xbox.com/en-us/2024/04/17/build-your-utopia-with-frostpunk-2-beta-available-now/)
- - [Morels: The Hunt 2, an intensely chill game about gathering mushrooms and taking pictures of animals, is my unexpected new obsession](https://www.pcgamer.com/games/sim/morels-the-hunt-2-an-intensely-chill-game-about-gathering-mushrooms-and-taking-pictures-of-animals-is-my-unexpected-new-obsession)
- - [The Easiest Way To Get Power Armor In Fallout 76](https://kotaku.com/fallout-76-power-armor-locations-tips-guide-find-1851416695)<!-- GAME:END -->
+ - [11 Games &lpar;That Aren&#39;t Fallout&rpar; To Play After Watching Fallout](https://kotaku.com/fallout-show-amazon-games-to-play-like-new-vegas-1851416715)
+ - [WoW: The War Within&#39;s new arachnophobia filter that turns spiders into crabs was mapped out by a lone developer, but &#39;she had a wonderful time—she likes spiders&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-the-war-withins-new-arachnophobia-filter-that-turns-spiders-into-crabs-was-mapped-out-by-a-lone-developer-but-she-had-a-wonderful-timeshe-likes-spiders)
+ - [Sample Frostpunk 2’s New Sandbox Mode with the New Beta, Available Now Through April 22](https://news.xbox.com/en-us/2024/04/17/build-your-utopia-with-frostpunk-2-beta-available-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
