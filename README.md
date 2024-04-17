@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress’ Adventure Mode morphs the game into a turn-based RPG](https://www.polygon.com/24132899/dwarf-fortress-adventure-mode-beta-announcement-release-date-price)
- - [The dirty secret to making sci-fi believable](https://www.polygon.com/24132151/sci-fi-fantasy-series-costumes-weathering-fallout)
- - [While everyone else is getting re-acquainted with Fallout, this maniac&#39;s bolting hundreds of mods together to turn Fallout 4 into Resident Evil 5](https://www.pcgamer.com/games/rpg/while-everyone-else-is-getting-re-acquainted-with-fallout-this-maniacs-bolting-hundreds-of-mods-together-to-turn-fallout-4-into-resident-evil-5)<!-- GAME:END -->
+ - [How The Riders Market Addition is Turning MotoGP 24 Into the Most Authentic Entry Yet](https://news.xbox.com/en-us/2024/04/17/motogp-24-riders-market-feature/)
+ - [Why Stardew Valley Fans Love This Queer Pop Banger](https://kotaku.com/stardew-valley-haley-chappell-roan-good-luck-babe-song-1851416353)
+ - [A Guide To Final Fantasy XIV’s Yo-kai Watch Collab Event](https://kotaku.com/final-fantasy-14-yokai-watch-collab-event-items-1851416297)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
