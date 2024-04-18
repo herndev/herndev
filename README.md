@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We Finally Know Where Neuralink’s Brain Implant Trial Is Happening](https://www.wired.com/story/neuralink-brain-implant-study-site/)
- - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)
- - [Android 15 can tell you how long your phone’s storage chip will last](https://www.androidauthority.com/android-15-storage-health-3435507/)<!-- TECH:END -->
+ - [NASA Confirms Where the Space Junk That Hit a Florida House Came From](https://www.wired.com/story/space-junk-international-space-station-florida-house-confirmred/)
+ - [AR shopping gets a boost with Best Buy&#39;s Apple Vision Pro app](https://appleinsider.com/articles/24/04/18/ar-shopping-gets-a-boost-with-best-buys-apple-vision-pro-app?utm_medium=rss)
+ - [Digital marketing software company Ibotta closes up 17% at $103.25 per share in its trading debut, after raising ~$577.3M in an IPO priced above marketed range &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p35#a240418p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
