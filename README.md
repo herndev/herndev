@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: Microsoft added 500+ megawatts of data center capacity since July 2023 and topped five gigawatts of total capacity in the H1 of its latest fiscal year &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240418/p5#a240418p5)
- - [How one author gained a limited copyright for the &quot;selection, coordination, and arrangement of text&quot; from AI, as the US Copyright Office wrestles with AI law &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240418/p4#a240418p4)
- - [The Xperia 1 VI could be coming soon as Sony announces Xperia event](https://www.androidauthority.com/sony-xperia-1-vi-event-3434843/)<!-- TECH:END -->
+ - [The first iOS third-party app store, AltStore PAL, is now live in the EU](https://www.androidauthority.com/ios-third-party-app-store-live-3435278/)
+ - [French B2B software company Planisware raised &amp;euro;278M in a Paris IPO; its shares jumped up to 33% to ~&amp;euro;21 on its debut, giving Planisware a &amp;euro;1.1B valuation &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240418/p8#a240418p8)
+ - [The HUAWEI Pura 70 Ultra is here, complete with a retractable &lpar;!&rpar; camera](https://www.androidauthority.com/huawei-pura-70-series-3435275/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
