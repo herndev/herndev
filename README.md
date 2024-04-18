@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - ⏩ [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 👉 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)<!-- MEMES:END -->
+ - 💣 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - ⏩ [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 👉 [Loll](http://9gag.com/gag/aQzPBmW)<!-- MEMES:END -->
 
 ---
 
