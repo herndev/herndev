@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - ⏩ [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
+ - ⏩ [Enjoying summer like](http://9gag.com/gag/aByR44D)
+ - 👉 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)<!-- MEMES:END -->
 
 ---
 
