@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - ⏩ [Protester pretends to be in pain as police remove him from the device blocking road. Fellow supporters scream police brutality as they film totally unedited videos of him to upload on social media and the news.](http://9gag.com/gag/aVvz1jv)
- - 👉 [Another life gone](http://9gag.com/gag/aZZbd19)<!-- MEMES:END -->
+ - 💣 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - ⏩ [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
+ - 👉 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)<!-- MEMES:END -->
 
 ---
 
