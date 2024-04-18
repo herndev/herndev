@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Street Fighter Cammy Statue Costs More Than A PS5](https://kotaku.com/street-fighter-6-cammy-resin-statue-700-dollars-1851420631)
- - [Kingdom Come: Deliverance II Will Be Twice As Big And More Diverse](https://kotaku.com/kingdom-come-deliverance-2-size-release-date-1851420482)
- - [10 Things To Do Before Final Fantasy XIV&#39;s Dawntrail Expansion](https://kotaku.com/final-fantasy-14-dawntrail-expansion-release-drop-1851420406)<!-- GAME:END -->
+ - [Stardew Valley&#39;s latest patch &#39;adds two inappropriate names to the list to exclude from the name generator&#39; and I am dying to know what they are](https://www.pcgamer.com/life-sim/stardew-valley-164-update-patch-notes)
+ - [Braid: Anniversary Edition will feature 40 &#39;brand new and/or alternate redesigns of original levels,&#39; and is also delayed into May](https://www.pcgamer.com/games/puzzle/braid-anniversary-edition-will-feature-40-brand-new-andor-alternate-redesigns-of-original-levels-and-is-also-delayed-into-may)
+ - [Someone Found A McDonald&#39;s N64 Kiosk Filled With Xbox 360 Games In Their Dentist&#39;s Office](https://kotaku.com/xbox-360-mcdonalds-n64-kiosk-arcade-dentist-office-90s-1851420559)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
