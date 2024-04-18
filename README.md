@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley&#39;s latest patch &#39;adds two inappropriate names to the list to exclude from the name generator&#39; and I am dying to know what they are](https://www.pcgamer.com/life-sim/stardew-valley-164-update-patch-notes)
- - [Braid: Anniversary Edition will feature 40 &#39;brand new and/or alternate redesigns of original levels,&#39; and is also delayed into May](https://www.pcgamer.com/games/puzzle/braid-anniversary-edition-will-feature-40-brand-new-andor-alternate-redesigns-of-original-levels-and-is-also-delayed-into-may)
- - [Someone Found A McDonald&#39;s N64 Kiosk Filled With Xbox 360 Games In Their Dentist&#39;s Office](https://kotaku.com/xbox-360-mcdonalds-n64-kiosk-arcade-dentist-office-90s-1851420559)<!-- GAME:END -->
+ - [All this Fallout TV show buzz and no new Fallout game to play—but so what?](https://www.pcgamer.com/games/rpg/fallout/fallout-show-new-fallout-game)
+ - [The new Helldivers 2 gun that everyone immediately declared &#39;garbage&#39; is actually a misunderstood masterpiece](https://www.pcgamer.com/games/third-person-shooter/the-new-helldivers-2-gun-that-everyone-immediately-declared-garbage-is-actually-a-misunderstood-masterpiece)
+ - [A site literally called &#39;Spy.pet&#39; claims to have scraped billions of public Discord messages and wants to sell them](https://www.pcgamer.com/gaming-industry/a-site-literally-called-spypet-claims-to-have-scraped-billions-of-public-discord-messages-and-wants-to-sell-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
