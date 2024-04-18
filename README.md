@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Sainte-Catherine store will move to a new location down the street](https://appleinsider.com/articles/24/04/18/apple-sainte-catherine-store-will-move-to-a-new-location-down-the-street?utm_medium=rss)
- - [Google merges Android and hardware teams for the sake of speed and AI](https://www.androidauthority.com/google-merges-android-and-hardware-teams-3435469/)
- - [Meta claims both Llama 3 models beat similarly sized models like Gemini, Mistral, and Claude 3 in certain benchmarks; humans marked Llama 3 higher than GPT-3.5 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240418/p30#a240418p30)<!-- TECH:END -->
+ - [Meta cuts the price of the base 128GB Quest 2 from $249 to $199, its second permanent price cut in four months, after a drop from $299 to $249 in January &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/240418/p33#a240418p33)
+ - [Netflix is all about the money, not the members](https://www.theverge.com/2024/4/18/24134217/netflix-earnings-q1-2024-subscriber-count)
+ - [New HomePod part leak shows off glossy display cover](https://appleinsider.com/articles/24/04/18/new-homepod-part-leak-shows-off-glossy-display-cover?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
