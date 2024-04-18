@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - ⏩ [Enjoying summer like](http://9gag.com/gag/aByR44D)
- - 👉 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)<!-- MEMES:END -->
+ - 💣 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - ⏩ [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 👉 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)<!-- MEMES:END -->
 
 ---
 
