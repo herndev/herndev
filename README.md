@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first iOS third-party app store, AltStore PAL, is now live in the EU](https://www.androidauthority.com/ios-third-party-app-store-live-3435278/)
- - [French B2B software company Planisware raised &amp;euro;278M in a Paris IPO; its shares jumped up to 33% to ~&amp;euro;21 on its debut, giving Planisware a &amp;euro;1.1B valuation &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240418/p8#a240418p8)
- - [The HUAWEI Pura 70 Ultra is here, complete with a retractable &lpar;!&rpar; camera](https://www.androidauthority.com/huawei-pura-70-series-3435275/)<!-- TECH:END -->
+ - [Gmail’s tabs are actually useful now that I’ve found this extension](https://www.theverge.com/2024/4/18/24132386/gmail-tabs-google)
+ - [MrBeast and T-Series are battling for the most-subscribed YouTube channel](https://www.theverge.com/2024/4/18/24133829/mrbeast-tseries-battle-most-subscribed-youtube-channel)
+ - [Investigation: Amazon sells ~$1M per year in goods on eBay, Shopify, Walmart, and Amazon via its &quot;Big River&quot; arm, to get data on pricing, logistics, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p11#a240418p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
