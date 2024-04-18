@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xperia 1 VI could be coming soon as Sony announces Xperia event](https://www.androidauthority.com/sony-xperia-1-vi-event-3434843/)
- - [How to voice type in Google Docs](https://www.androidauthority.com/voice-type-google-docs-3112170/)
- - [Crypto miners are stockpiling bitcoins ahead of April 20 halving; TheMinerMag: Marathon Digital, CleanSpark, and Bitfarms hoarded ~$2B worth of bitcoins &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/240418/p3#a240418p3)<!-- TECH:END -->
+ - [Document: Microsoft added 500+ megawatts of data center capacity since July 2023 and topped five gigawatts of total capacity in the H1 of its latest fiscal year &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240418/p5#a240418p5)
+ - [How one author gained a limited copyright for the &quot;selection, coordination, and arrangement of text&quot; from AI, as the US Copyright Office wrestles with AI law &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240418/p4#a240418p4)
+ - [The Xperia 1 VI could be coming soon as Sony announces Xperia event](https://www.androidauthority.com/sony-xperia-1-vi-event-3434843/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
