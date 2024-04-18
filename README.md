@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
- - ⏩ [Ready for another try](http://9gag.com/gag/aZZb2An)
- - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
+ - 💣 [Big oof...](http://9gag.com/gag/aryv245)
+ - ⏩ [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
 
 ---
 
