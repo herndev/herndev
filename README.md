@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)
- - ⏩ [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 💣 [Peak male fantasy](http://9gag.com/gag/aByRj02)
+ - ⏩ [Guys they did it](http://9gag.com/gag/aYQNZAq)
  - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
 
 ---
