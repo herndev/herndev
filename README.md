@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The concerns about claustrophobia were a major aspect&#39; of desiging World of Warcraft: The War Within&#39;s underground zones, says director](https://www.pcgamer.com/games/world-of-warcraft/the-concerns-about-claustrophobia-were-a-major-aspect-of-desiging-world-of-warcraft-the-war-withins-underground-zones-says-director)
- - [The Witcher on Netflix will end after season 5: &#39;We&#39;re thrilled to be able to bring Andrzej Sapkowski&#39;s books to an epic and satisfying conclusion&#39;](https://www.pcgamer.com/movies-tv/the-witcher-on-netflix-will-end-after-season-5-were-thrilled-to-be-able-to-bring-andrzej-sapkowskis-books-to-an-epic-and-satisfying-conclusion)
- - [Unsurprisingly, Hades 2 Whoops So Much Ass](https://kotaku.com/hades-2-gameplay-technical-test-crafting-incantations-1851420083)<!-- GAME:END -->
+ - [10 Things To Do Before Final Fantasy XIV&#39;s Dawntrail Expansion](https://kotaku.com/final-fantasy-14-dawntrail-expansion-release-drop-1851420406)
+ - [Fan-Made Star Wars Horror Game Featuring Zombie Stormtroopers Goes Viral](https://kotaku.com/deathtroopers-fan-game-star-wars-zombies-stormtroopers-1851420306)
+ - [Fallout 4 Is The Best-Selling Game In Europe Right Now](https://kotaku.com/fallout-4-sales-europe-amazon-prime-tv-show-1851420221)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
