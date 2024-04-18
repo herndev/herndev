@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok starts rolling out TikTok Notes, its Instagram rival for sharing photo and text content, for limited testing in Australia and Canada on Android and iOS &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240417/p32#a240417p32)
- - [Taylor Swift&#39;s New Album is Almost Here: Nabbing All the Bonus Tracks Will Cost You     - CNET](https://www.cnet.com/culture/entertainment/taylor-swifts-new-album-the-tortured-poets-department-nabbing-all-the-bonus-tracks-will-cost-you/#ftag=CAD590a51e)
- - [Twitch is bringing its TikTok-style feed to everyone this month](https://www.theverge.com/2024/4/17/24133457/twitch-tiktok-style-feed-rollout)<!-- TECH:END -->
+ - [The US CFPB fines BloomTech, formerly Lambda School, and CEO Austen Allred $164K and bans it from lending for 10 years for deceiving students on loans, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240417/p34#a240417p34)
+ - [Before You Fire Up Your Grill, Here&#39;s How to Make It Shine     - CNET](https://www.cnet.com/home/yard-and-outdoors/before-you-fire-up-your-grill-heres-how-to-make-it-shine/#ftag=CAD590a51e)
+ - [The US NIST appoints as head of AI safety former OpenAI researcher Paul Christiano, who has been criticized for &quot;AI doomer&quot; views and ties to effective altruism &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240417/p33#a240417p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
