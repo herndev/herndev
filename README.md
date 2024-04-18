@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung launches the Galaxy A35 5G in US, packing everything you need](https://www.androidauthority.com/samsung-galaxy-a35-us-launch-3435118/)
- - [Spend management startup Ramp raised a $150M Series D extension at a $7.65B valuation, up from $5.8B after raising $300M in 2023 but down from $8.1B in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240418/p17#a240418p17)
- - [Apple boasts that it has cut greenhouse gas emissions in half](https://appleinsider.com/articles/24/04/18/apple-boasts-that-it-has-cut-greenhouse-gas-emissions-in-half?utm_medium=rss)<!-- TECH:END -->
+ - [Richard Linklater’s Hit Man looks like a goofy roleplaying romcom in new trailer](https://www.theverge.com/24132471/netflix-richard-linklater-hit-man-trailer)
+ - [Milo Action Communicator: Hassle-Free Comms Without Your Smartphone](https://www.wired.com/review/review-milo-action-communicator/)
+ - [Hands-on with Delta: The first Nintendo emulator available on the Apple App Store](https://www.androidauthority.com/delta-emulator-apple-app-store-hands-on-3435283/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
