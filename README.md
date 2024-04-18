@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fallout series’ most authentic performances happen in the Wasteland](https://www.polygon.com/24132071/fallout-series-prime-npc-wasteland-cast)
- - [Playing Final Fantasy VIII In 2024: Everything You Need To Know](https://kotaku.com/final-fantasy-8-ff8-worth-playing-remastered-1851417540)
- - [GTA 6 characters: everyone we know about so far](https://www.pcgamer.com/games/action/grand-theft-auto/gta6-characters)<!-- GAME:END -->
+ - [Free Play Days – Dungeons 3, Eiyuden Chronicle: Rising and I Am Fish](https://news.xbox.com/en-us/2024/04/18/free-play-days-dungeons-3-eiyuden-chronicle-rising-and-i-am-fish/)
+ - [Starfield Feels Forgotten But Bethesda Promises Updates Are Still Coming](https://kotaku.com/starfield-update-dlc-expansion-release-date-1851419112)
+ - [Updates on new indie titles coming to PlayStation](https://blog.playstation.com/2024/04/18/updates-on-new-indie-titles-coming-to-playstation/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
