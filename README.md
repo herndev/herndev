@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta cuts the price of the base 128GB Quest 2 from $249 to $199, its second permanent price cut in four months, after a drop from $299 to $249 in January &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/240418/p33#a240418p33)
- - [Netflix is all about the money, not the members](https://www.theverge.com/2024/4/18/24134217/netflix-earnings-q1-2024-subscriber-count)
- - [New HomePod part leak shows off glossy display cover](https://appleinsider.com/articles/24/04/18/new-homepod-part-leak-shows-off-glossy-display-cover?utm_medium=rss)<!-- TECH:END -->
+ - [We Finally Know Where Neuralink’s Brain Implant Trial Is Happening](https://www.wired.com/story/neuralink-brain-implant-study-site/)
+ - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)
+ - [Android 15 can tell you how long your phone’s storage chip will last](https://www.androidauthority.com/android-15-storage-health-3435507/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
