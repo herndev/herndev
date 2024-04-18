@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An experiment with LLMs: the tools are helpful in mundane ways but you can&#39;t build a hundred-billion-dollar industry around a technology that&#39;s kind of useful &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240418/p1#a240418p1)
- - [Google Fires 28 Workers for Protesting Cloud Deal With Israel](https://www.wired.com/story/google-fires-twenty-eight-workers-for-protesting-cloud-deal-with-israel/)
- - [Research suggests GPT-4 surpassed or achieved the same scores as all but top-scoring specialist medics in assessing ocular problems and suggesting treatments &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240417/p41#a240417p41)<!-- TECH:END -->
+ - [Crypto miners are stockpiling bitcoins ahead of April 20 halving; TheMinerMag: Marathon Digital, CleanSpark, and Bitfarms hoarded ~$2B worth of bitcoins &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/240418/p3#a240418p3)
+ - [TSMC reports Q1 revenue up 16.5% YoY to NT$592.64B &lpar;$18.87B&rpar; vs. NT$582.94B est., profit up 8.9% YoY to NT$225.49B vs. NT$213.59B est., on strong AI chip demand &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240418/p2#a240418p2)
+ - [An experiment with LLMs: the tools are helpful in mundane ways but you can&#39;t build a hundred-billion-dollar industry around a technology that&#39;s kind of useful &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240418/p1#a240418p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
