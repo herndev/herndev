@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best RAM for gaming in 2024: I&#39;ve tested the best DDR4 and DDR5 RAM to find the right kits for you](https://www.pcgamer.com/best-ram-for-gaming)
- - [Boston Dynamics&#39; Atlas bot is dead and its replacement is horrifying yet fascinating in equal measure](https://www.pcgamer.com/hardware/boston-dynamics-atlas-bot-is-dead-and-its-replacement-is-horrifying-yet-fascinating-in-equal-measure)
- - [Action-packed Strike Rush brings the hero shooter straight to your MetaQuest headset](https://www.pcgamer.com/games/vr/action-packed-strike-rush-brings-the-hero-shooter-straight-to-your-metaquest-headset)<!-- GAME:END -->
+ - [One of Steam&#39;s best-reviewed games gets a surprise open world sequel, and it&#39;s a plunder-em-up built around rickety pirate robots](https://www.pcgamer.com/games/strategy/one-of-steams-best-reviewed-games-gets-a-surprise-open-world-sequel-and-its-a-plunder-em-up-built-around-rickety-pirate-robots)
+ - [Hades 2&#39;s technical test shows us that the Greek gods are still super hot and, by Poseidon, some of you could use a cold shower](https://www.pcgamer.com/games/roguelike/hades-2s-technical-test-shows-us-that-the-greek-gods-are-still-super-hot-and-by-poseidon-some-of-you-could-use-a-cold-shower)
+ - [Baldur&#39;s Gate 3 fans are discussing what coffee each character would order, and reckon Astarion would be demanding an &#39;iced venti oat milk latte with cold foam&#39; topped with 2 pumps of hazelnut](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-fans-are-discussing-what-coffee-each-character-would-order-and-reckon-astarion-would-be-demanding-an-iced-venti-oat-milk-latte-with-cold-foam-topped-with-2-pumps-of-hazelnut)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
