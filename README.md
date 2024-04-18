@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Acer&#39;s curvy Predator Z57 dual UHD MiniLED 57-inch monitor hits retail for $1,999](https://www.pcgamer.com/hardware/gaming-monitors/acers-curvy-predator-z57-dual-uhd-miniled-57-inch-monitor-hits-retail-for-dollar1999)
  - [Oh no, Hades 2 is already sick as hell to play and it hasn&#39;t even entered early access yet](https://www.pcgamer.com/games/action/hades-2-technical-test-hands-on-impressions)
- - [Yes, I&#39;m abducting my neighbors and sawing them up in a series of ritual murders, but I have a really good reason you guys](https://www.pcgamer.com/games/horror/yes-im-abducting-my-neighbors-and-sawing-them-up-in-a-series-of-ritual-murders-but-i-have-a-really-good-reason-you-guys)
- - [If the Windows &#39;update and shut down&#39; option restarts your PC instead, it&#39;s not just you](https://www.pcgamer.com/software/if-the-windows-update-and-shut-down-option-restarts-your-pc-instead-its-not-just-you)<!-- GAME:END -->
+ - [Yes, I&#39;m abducting my neighbors and sawing them up in a series of ritual murders, but I have a really good reason you guys](https://www.pcgamer.com/games/horror/yes-im-abducting-my-neighbors-and-sawing-them-up-in-a-series-of-ritual-murders-but-i-have-a-really-good-reason-you-guys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
