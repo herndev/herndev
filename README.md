@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Xbox Mastercard Lets Cardmembers Score Points to Use Toward Digital Games, Add-ons, and More](https://news.xbox.com/en-us/2024/04/18/new-xbox-mastercard-available-now/)
- - [Manor Lords&#39; developer doesn&#39;t &#39;have a game design problem with infinite money&#39; but was forced to patch out one game-breaking exploit anyway](https://www.pcgamer.com/games/city-builder/manor-lords-developer-doesnt-have-a-game-design-problem-with-infinite-money-but-was-forced-to-patch-out-one-game-breaking-exploit-anyway)
- - [Manor Lords dev reminds everyone that it&#39;s not a &#39;Total War competitor&#39; or a &#39;fast-paced RTS like Age of Empires&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-dev-reminds-everyone-that-its-not-a-total-war-competitor-or-a-fast-paced-rts-like-age-of-empires)<!-- GAME:END -->
+ - [Towerborne: Bringing an Enemy to Life](https://www.towerborne.com/truffleclub-developer-interview/#new_tab)
+ - [The Future Games Show Summer Showcase is back with a bang this June, and here&#39;s where and when to watch](https://www.pcgamer.com/gaming-industry/events-conferences/the-future-games-show-summer-showcase-is-back-with-a-bang-this-june-and-heres-where-and-when-to-watch)
+ - [Pokémon Go players think new customization update makes trainers ‘ugly’](https://www.polygon.com/24134040/pokemon-go-customization-update-ugly-trainers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
