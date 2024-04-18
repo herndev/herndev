@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Steam&#39;s best-reviewed games gets a surprise open world sequel, and it&#39;s a plunder-em-up built around rickety pirate robots](https://www.pcgamer.com/games/strategy/one-of-steams-best-reviewed-games-gets-a-surprise-open-world-sequel-and-its-a-plunder-em-up-built-around-rickety-pirate-robots)
- - [Hades 2&#39;s technical test shows us that the Greek gods are still super hot and, by Poseidon, some of you could use a cold shower](https://www.pcgamer.com/games/roguelike/hades-2s-technical-test-shows-us-that-the-greek-gods-are-still-super-hot-and-by-poseidon-some-of-you-could-use-a-cold-shower)
- - [Baldur&#39;s Gate 3 fans are discussing what coffee each character would order, and reckon Astarion would be demanding an &#39;iced venti oat milk latte with cold foam&#39; topped with 2 pumps of hazelnut](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-fans-are-discussing-what-coffee-each-character-would-order-and-reckon-astarion-would-be-demanding-an-iced-venti-oat-milk-latte-with-cold-foam-topped-with-2-pumps-of-hazelnut)<!-- GAME:END -->
+ - [Superheroes and XCOM collide in this brilliantly tense and tactical turn-based strategy game](https://www.pcgamer.com/games/strategy/superheroes-and-xcom-collide-in-this-brilliantly-tense-and-tactical-turn-based-strategy-game)
+ - [CDPR says the Witcher 4 is being &#39;intensively worked on&#39; but Cyberpunk 2&#39;s still in the &#39;fairly early stages&#39;](https://www.pcgamer.com/games/rpg/cdpr-says-the-witcher-4-is-being-intensively-worked-on-but-cyberpunk-2s-still-in-the-fairly-early-stages)
+ - [One of Steam&#39;s best-reviewed games gets a surprise open world sequel, and it&#39;s a plunder-em-up built around rickety pirate robots](https://www.pcgamer.com/games/strategy/one-of-steams-best-reviewed-games-gets-a-surprise-open-world-sequel-and-its-a-plunder-em-up-built-around-rickety-pirate-robots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
