@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blyateful](http://9gag.com/gag/aYQNR0m)
- - ⏩ [Heroes](http://9gag.com/gag/agm3jM6)
- - 👉 [Freaks of nature](http://9gag.com/gag/aByR4wP)<!-- MEMES:END -->
+ - 💣 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)
+ - ⏩ [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
 
 ---
 
