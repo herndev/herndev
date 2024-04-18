@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2 pit bulls torn apart woman&#39;s car trying to eat cat](http://9gag.com/gag/awy08M8)
- - ⏩ [Scrubs reunion. i see Turk made a move and changed a lot to be JD&#39;s best partner.](http://9gag.com/gag/aE0vODK)
- - 👉 [This is how pros do it.](http://9gag.com/gag/aRBwONy)<!-- MEMES:END -->
+ - 💣 [Blyateful](http://9gag.com/gag/aYQNR0m)
+ - ⏩ [Heroes](http://9gag.com/gag/agm3jM6)
+ - 👉 [Freaks of nature](http://9gag.com/gag/aByR4wP)<!-- MEMES:END -->
 
 ---
 
