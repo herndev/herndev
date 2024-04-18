@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - ⏩ [When a bald eagle loses a feather, it will automatically shed the same feather on it\u2019s other side to maintain balance.](http://9gag.com/gag/a9ybZ6W)
- - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
+ - 💣 [You\u2019re gonna need some aloe for that burn\u2026..](http://9gag.com/gag/an7q0QV)
+ - ⏩ [Drowning in a Flood of Pink Balloons at the Mall](http://9gag.com/gag/azxgQWK)
+ - 👉 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)<!-- MEMES:END -->
 
 ---
 
