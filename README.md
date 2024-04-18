@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You should be playing Music League](https://www.theverge.com/2024/4/18/24134059/music-league-spotify-algorithm-antidote)
- - [Google could be testing a new layout for the Phone app](https://www.androidauthority.com/google-phone-app-new-layout-test-3435455/)
- - [Meta rolls out real-time AI image generation, which changes the image as the user types a prompt, in beta on WhatsApp and Meta AI on the web in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p26#a240418p26)<!-- TECH:END -->
+ - [RFK Jr.’s Very Online, Conspiracy-Filled Campaign](https://www.wired.com/story/rfk-online-conspiracy-campaign/)
+ - [DARPA reveals that an AI-controlled X-62A jet successfully faced a human pilot in an F-16 during an in-air dogfight test carried out in 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p27#a240418p27)
+ - [The podcast industry keeps reinventing itself](https://www.theverge.com/2024/4/18/24134187/podcast-industry-future-creators-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
