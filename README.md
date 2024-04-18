@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Superheroes and XCOM collide in this brilliantly tense and tactical turn-based strategy game](https://www.pcgamer.com/games/strategy/superheroes-and-xcom-collide-in-this-brilliantly-tense-and-tactical-turn-based-strategy-game)
- - [CDPR says the Witcher 4 is being &#39;intensively worked on&#39; but Cyberpunk 2&#39;s still in the &#39;fairly early stages&#39;](https://www.pcgamer.com/games/rpg/cdpr-says-the-witcher-4-is-being-intensively-worked-on-but-cyberpunk-2s-still-in-the-fairly-early-stages)
- - [One of Steam&#39;s best-reviewed games gets a surprise open world sequel, and it&#39;s a plunder-em-up built around rickety pirate robots](https://www.pcgamer.com/games/strategy/one-of-steams-best-reviewed-games-gets-a-surprise-open-world-sequel-and-its-a-plunder-em-up-built-around-rickety-pirate-robots)<!-- GAME:END -->
+ - [The Fallout series’ most authentic performances happen in the Wasteland](https://www.polygon.com/24132071/fallout-series-prime-npc-wasteland-cast)
+ - [Playing Final Fantasy VIII In 2024: Everything You Need To Know](https://kotaku.com/final-fantasy-8-ff8-worth-playing-remastered-1851417540)
+ - [GTA 6 characters: everyone we know about so far](https://www.pcgamer.com/games/action/grand-theft-auto/gta6-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
