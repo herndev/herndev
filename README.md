@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elgato has an attractive new Neo range for content creators &amp; streamers](https://appleinsider.com/articles/24/04/18/elgato-has-an-attractive-new-neo-range-for-content-creators-streamers?utm_medium=rss)
- - [Transformers One turns Cybertron’s greatest warriors into goofy youths in first trailer](https://www.theverge.com/24133094/transformers-one-trailer-animated-optimus-prime)
- - [Unbeaten 46% discount on the PNY 1TB PRO Elite microSD card](https://www.androidauthority.com/pny-1tb-microsd-card-deal-3435121/)<!-- TECH:END -->
+ - [At Kernel, your veggie burger will be served by a robot](https://www.theverge.com/2024/4/18/24130997/kernel-ai-robot-vegan-burgers-potatoes)
+ - [Meta’s battle with ChatGPT begins now](https://www.theverge.com/2024/4/18/24133808/meta-ai-assistant-llama-3-chatgpt-openai-rival)
+ - [How to tame notifications on your Android phone](https://www.theverge.com/24132122/android-notification-settings-turn-off-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
