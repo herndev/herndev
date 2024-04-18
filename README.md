@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Kernel, your veggie burger will be served by a robot](https://www.theverge.com/2024/4/18/24130997/kernel-ai-robot-vegan-burgers-potatoes)
- - [Meta’s battle with ChatGPT begins now](https://www.theverge.com/2024/4/18/24133808/meta-ai-assistant-llama-3-chatgpt-openai-rival)
- - [How to tame notifications on your Android phone](https://www.theverge.com/24132122/android-notification-settings-turn-off-how-to)<!-- TECH:END -->
+ - [$400 off Samsung’s 50-inch The Frame TV drops it back to all-time lows](https://www.androidauthority.com/samsung-the-frame-tv-deal-3435451/)
+ - [Tesla&#39;s Layoffs Won&#39;t Solve Its Growing Pains](https://www.wired.com/story/tesla-robotaxi-pivot-china/)
+ - [The future of the Xbox looks a lot like a PC](https://www.theverge.com/2024/4/18/24123318/microsoft-next-xbox-pc-future)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
