@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - ⏩ [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 👉 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)<!-- MEMES:END -->
+ - 💣 [Cleaning keyboard mode](http://9gag.com/gag/a7oLPAe)
+ - ⏩ [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
+ - 👉 [Mom beleives in her son&#39;s talent.](http://9gag.com/gag/aD2AqOd)<!-- MEMES:END -->
 
 ---
 
