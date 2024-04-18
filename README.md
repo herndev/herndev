@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mexicans.](http://9gag.com/gag/a2vzGZE)
- - ⏩ [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
+ - 💣 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
+ - ⏩ [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - 👉 [WTF germany](http://9gag.com/gag/azxgYxB)<!-- MEMES:END -->
 
 ---
 
