@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart-backed digital marketing software company Ibotta raises ~$577.3M in its IPO after pricing each share at $88, giving it a market value of $2.67B &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240417/p37#a240417p37)
- - [Sources: Micron could get $6B+ in chip grants from the US Commerce Department for domestic factory projects; the award could be announced as soon as next week &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240417/p36#a240417p36)
- - [Intel unveils Hala Point, a large-scale neuromorphic system deployed at Sandia National Laboratories, with 1,152 Loihi 2 processors simulating 1M neurons each &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240417/p35#a240417p35)<!-- TECH:END -->
+ - [Filing: 23andMe CEO Anne Wojcicki is seeking to take the company private after three years in public markets that saw its valuation collapse from a high of $6B &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240417/p38#a240417p38)
+ - [Best Mattress for Stomach Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CAD590a51e)
+ - [Best Mattress Pads of 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-pads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
