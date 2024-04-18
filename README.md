@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - ⏩ [Heroes](http://9gag.com/gag/agm3jM6)
- - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
+ - 💣 [Mexicans.](http://9gag.com/gag/a2vzGZE)
+ - ⏩ [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
 
 ---
 
