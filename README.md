@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2 pit bulls torn apart woman&#39;s car trying to eat cat](http://9gag.com/gag/awy08M8)
- - ⏩ [What Should i do](http://9gag.com/gag/a6ZmpWe)
- - 👉 [Which door you choose](http://9gag.com/gag/a6Zmjwm)<!-- MEMES:END -->
+ - 💣 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - ⏩ [Heroes](http://9gag.com/gag/agm3jM6)
+ - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
 
 ---
 
