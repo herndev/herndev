@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Dungeons 3, Eiyuden Chronicle: Rising and I Am Fish](https://news.xbox.com/en-us/2024/04/18/free-play-days-dungeons-3-eiyuden-chronicle-rising-and-i-am-fish/)
- - [Starfield Feels Forgotten But Bethesda Promises Updates Are Still Coming](https://kotaku.com/starfield-update-dlc-expansion-release-date-1851419112)
- - [Updates on new indie titles coming to PlayStation](https://blog.playstation.com/2024/04/18/updates-on-new-indie-titles-coming-to-playstation/)<!-- GAME:END -->
+ - [New Xbox Mastercard Lets Cardmembers Score Points to Use Toward Digital Games, Add-ons, and More](https://news.xbox.com/en-us/2024/04/18/new-xbox-mastercard-available-now/)
+ - [Manor Lords&#39; developer doesn&#39;t &#39;have a game design problem with infinite money&#39; but was forced to patch out one game-breaking exploit anyway](https://www.pcgamer.com/games/city-builder/manor-lords-developer-doesnt-have-a-game-design-problem-with-infinite-money-but-was-forced-to-patch-out-one-game-breaking-exploit-anyway)
+ - [Manor Lords dev reminds everyone that it&#39;s not a &#39;Total War competitor&#39; or a &#39;fast-paced RTS like Age of Empires&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-dev-reminds-everyone-that-its-not-a-total-war-competitor-or-a-fast-paced-rts-like-age-of-empires)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
