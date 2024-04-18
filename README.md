@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail’s tabs are actually useful now that I’ve found this extension](https://www.theverge.com/2024/4/18/24132386/gmail-tabs-google)
- - [MrBeast and T-Series are battling for the most-subscribed YouTube channel](https://www.theverge.com/2024/4/18/24133829/mrbeast-tseries-battle-most-subscribed-youtube-channel)
- - [Investigation: Amazon sells ~$1M per year in goods on eBay, Shopify, Walmart, and Amazon via its &quot;Big River&quot; arm, to get data on pricing, logistics, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p11#a240418p11)<!-- TECH:END -->
+ - [Nothing bets big on AI with ChatGPT integration in Nothing OS and its earbuds](https://www.androidauthority.com/nothing-os-chatgpt-integration-3435380/)
+ - [Europol, law enforcement in 19 countries, Microsoft, and others disrupt phishing-as-a-service platform LabHost in a year-long operation and make 37 arrests &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240418/p15#a240418p15)
+ - [Nothing unveils the $149 Nothing Ear and $99 Nothing Ear &lpar;a&rpar;, offering improved sound, personalization, and battery life; Nothing plans to integrate ChatGPT &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240418/p14#a240418p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
