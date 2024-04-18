@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Heroes](http://9gag.com/gag/agm3jM6)
- - ⏩ [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
- - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
+ - ⏩ [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
 
 ---
 
