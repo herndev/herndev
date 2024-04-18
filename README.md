@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You\u2019re gonna need some aloe for that burn\u2026..](http://9gag.com/gag/an7q0QV)
- - ⏩ [Drowning in a Flood of Pink Balloons at the Mall](http://9gag.com/gag/azxgQWK)
+ - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - ⏩ [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
  - 👉 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)<!-- MEMES:END -->
 
 ---
