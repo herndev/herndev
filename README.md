@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [$400 off Samsung’s 50-inch The Frame TV drops it back to all-time lows](https://www.androidauthority.com/samsung-the-frame-tv-deal-3435451/)
- - [Tesla&#39;s Layoffs Won&#39;t Solve Its Growing Pains](https://www.wired.com/story/tesla-robotaxi-pivot-china/)
- - [The future of the Xbox looks a lot like a PC](https://www.theverge.com/2024/4/18/24123318/microsoft-next-xbox-pc-future)<!-- TECH:END -->
+ - [You should be playing Music League](https://www.theverge.com/2024/4/18/24134059/music-league-spotify-algorithm-antidote)
+ - [Google could be testing a new layout for the Phone app](https://www.androidauthority.com/google-phone-app-new-layout-test-3435455/)
+ - [Meta rolls out real-time AI image generation, which changes the image as the user types a prompt, in beta on WhatsApp and Meta AI on the web in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p26#a240418p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
