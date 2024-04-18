@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - ⏩ [Big oof...](http://9gag.com/gag/aryv245)
- - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
+ - 💣 [Looks like Weird Al](http://9gag.com/gag/a5QeyNG)
+ - ⏩ [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 👉 [It&#39;s not dumb if it works](http://9gag.com/gag/a9ybNM0)<!-- MEMES:END -->
 
 ---
 
