@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
- - ⏩ [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
- - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
+ - 💣 [2 pit bulls torn apart woman&#39;s car trying to eat cat](http://9gag.com/gag/awy08M8)
+ - ⏩ [Scrubs reunion. i see Turk made a move and changed a lot to be JD&#39;s best partner.](http://9gag.com/gag/aE0vODK)
+ - 👉 [This is how pros do it.](http://9gag.com/gag/aRBwONy)<!-- MEMES:END -->
 
 ---
 
