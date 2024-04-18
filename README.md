@@ -40,7 +40,7 @@
 
 <!-- TECH:START -->
  - [An experiment with LLMs: the tools are helpful in mundane ways but you can&#39;t build a hundred-billion-dollar industry around a technology that&#39;s kind of useful &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240418/p1#a240418p1)
- - [Google Fires Twenty-Eight Workers for Protesting Cloud Deal with Israel](https://www.wired.com/story/google-fires-twenty-eight-workers-for-protesting-cloud-deal-with-israel/)
+ - [Google Fires 28 Workers for Protesting Cloud Deal With Israel](https://www.wired.com/story/google-fires-twenty-eight-workers-for-protesting-cloud-deal-with-israel/)
  - [Research suggests GPT-4 surpassed or achieved the same scores as all but top-scoring specialist medics in assessing ocular problems and suggesting treatments &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240417/p41#a240417p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
