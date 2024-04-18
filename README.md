@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
- - ⏩ [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 👉 [Loll](http://9gag.com/gag/aQzPBmW)<!-- MEMES:END -->
+ - 💣 [Heroes](http://9gag.com/gag/agm3jM6)
+ - ⏩ [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
 
 ---
 
