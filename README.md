@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - ⏩ [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
- - 👉 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)<!-- MEMES:END -->
+ - 💣 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - ⏩ [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
+ - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
 
 ---
 
