@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Action-packed Strike Rush brings the hero shooter straight to your MetaQuest headset](https://www.pcgamer.com/games/vr/action-packed-strike-rush-brings-the-hero-shooter-straight-to-your-metaquest-headset)
- - [Arm laptops are almost ready for prime time, and some new benchmarks with a Snapdragon X processor will have Intel, AMD and even Apple worried](https://www.pcgamer.com/hardware/processors/arm-laptops-are-almost-ready-for-prime-time-and-some-new-benchmarks-with-a-snapdragon-x-processor-will-have-intel-amd-and-even-apple-worried)
- - [Today&#39;s Wordle answer for Thursday, April 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-18-2024)<!-- GAME:END -->
+ - [Best RAM for gaming in 2024: I&#39;ve tested the best DDR4 and DDR5 RAM to find the right kits for you](https://www.pcgamer.com/best-ram-for-gaming)
+ - [Boston Dynamics&#39; Atlas bot is dead and its replacement is horrifying yet fascinating in equal measure](https://www.pcgamer.com/hardware/boston-dynamics-atlas-bot-is-dead-and-its-replacement-is-horrifying-yet-fascinating-in-equal-measure)
+ - [Action-packed Strike Rush brings the hero shooter straight to your MetaQuest headset](https://www.pcgamer.com/games/vr/action-packed-strike-rush-brings-the-hero-shooter-straight-to-your-metaquest-headset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
