@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Children of the Sun offers one of the most challenging, satisfying levels of 2024 so far](https://www.polygon.com/24133027/children-of-the-sun-open-mic-night-in-hell-devolver-digital-pc)
- - [How to finish ‘The Whisper’ and get Whisper of the Worm in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24124313/whisper-walkthrough-worm-exotic-pattern)
- - [Where to find the Oracles in ‘The Whisper’ mission in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24133446/oracles-whisper-worm-oracular-seeker-locations)<!-- GAME:END -->
+ - [&#39;The concerns about claustrophobia were a major aspect&#39; of desiging World of Warcraft: The War Within&#39;s underground zones, says director](https://www.pcgamer.com/games/world-of-warcraft/the-concerns-about-claustrophobia-were-a-major-aspect-of-desiging-world-of-warcraft-the-war-withins-underground-zones-says-director)
+ - [The Witcher on Netflix will end after season 5: &#39;We&#39;re thrilled to be able to bring Andrzej Sapkowski&#39;s books to an epic and satisfying conclusion&#39;](https://www.pcgamer.com/movies-tv/the-witcher-on-netflix-will-end-after-season-5-were-thrilled-to-be-able-to-bring-andrzej-sapkowskis-books-to-an-epic-and-satisfying-conclusion)
+ - [Unsurprisingly, Hades 2 Whoops So Much Ass](https://kotaku.com/hades-2-gameplay-technical-test-crafting-incantations-1851420083)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
