@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big oof...](http://9gag.com/gag/aryv245)
- - ⏩ [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - ⏩ [Big oof...](http://9gag.com/gag/aryv245)
  - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
 
 ---
