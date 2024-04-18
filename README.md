@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Richard Linklater’s Hit Man looks like a goofy roleplaying romcom in new trailer](https://www.theverge.com/24132471/netflix-richard-linklater-hit-man-trailer)
- - [Milo Action Communicator: Hassle-Free Comms Without Your Smartphone](https://www.wired.com/review/review-milo-action-communicator/)
- - [Hands-on with Delta: The first Nintendo emulator available on the Apple App Store](https://www.androidauthority.com/delta-emulator-apple-app-store-hands-on-3435283/)<!-- TECH:END -->
+ - [Elgato has an attractive new Neo range for content creators &amp; streamers](https://appleinsider.com/articles/24/04/18/elgato-has-an-attractive-new-neo-range-for-content-creators-streamers?utm_medium=rss)
+ - [Transformers One turns Cybertron’s greatest warriors into goofy youths in first trailer](https://www.theverge.com/24133094/transformers-one-trailer-animated-optimus-prime)
+ - [Unbeaten 46% discount on the PNY 1TB PRO Elite microSD card](https://www.androidauthority.com/pny-1tb-microsd-card-deal-3435121/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
