@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [If the Windows &#39;update and shut down&#39; option restarts your PC instead, it&#39;s not just you](https://www.pcgamer.com/software/if-the-windows-update-and-shut-down-option-restarts-your-pc-instead-its-not-just-you)
  - [Todd Howard confirms the Fallout show didn&#39;t retcon non-Bethesda Fallout games: &#39;Everything that happened in the previous games, including New Vegas, happened&#39;](https://www.pcgamer.com/games/fallout/todd-howard-confirms-the-fallout-show-didnt-retcon-non-bethesda-fallout-games-everything-that-happened-in-the-previous-games-including-new-vegas-happened)
- - [Ready or Not studio Void Interactive confirms it was hacked in March but says &#39;no user-related data&#39; was stolen](https://www.pcgamer.com/games/fps/ready-or-not-studio-void-interactive-confirms-it-was-hacked-in-march-but-says-no-user-related-data-was-stolen)
- - [Hades 2 gods somehow even hotter than Hades gods](https://www.polygon.com/24133438/hades-2-characters-art-gods-reactions)<!-- GAME:END -->
+ - [Ready or Not studio Void Interactive confirms it was hacked in March but says &#39;no user-related data&#39; was stolen](https://www.pcgamer.com/games/fps/ready-or-not-studio-void-interactive-confirms-it-was-hacked-in-march-but-says-no-user-related-data-was-stolen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
