@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing bets big on AI with ChatGPT integration in Nothing OS and its earbuds](https://www.androidauthority.com/nothing-os-chatgpt-integration-3435380/)
- - [Europol, law enforcement in 19 countries, Microsoft, and others disrupt phishing-as-a-service platform LabHost in a year-long operation and make 37 arrests &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240418/p15#a240418p15)
- - [Nothing unveils the $149 Nothing Ear and $99 Nothing Ear &lpar;a&rpar;, offering improved sound, personalization, and battery life; Nothing plans to integrate ChatGPT &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240418/p14#a240418p14)<!-- TECH:END -->
+ - [Samsung launches the Galaxy A35 5G in US, packing everything you need](https://www.androidauthority.com/samsung-galaxy-a35-us-launch-3435118/)
+ - [Spend management startup Ramp raised a $150M Series D extension at a $7.65B valuation, up from $5.8B after raising $300M in 2023 but down from $8.1B in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240418/p17#a240418p17)
+ - [Apple boasts that it has cut greenhouse gas emissions in half](https://appleinsider.com/articles/24/04/18/apple-boasts-that-it-has-cut-greenhouse-gas-emissions-in-half?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
