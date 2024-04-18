@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Things To Do Before Final Fantasy XIV&#39;s Dawntrail Expansion](https://kotaku.com/final-fantasy-14-dawntrail-expansion-release-drop-1851420406)
- - [Fan-Made Star Wars Horror Game Featuring Zombie Stormtroopers Goes Viral](https://kotaku.com/deathtroopers-fan-game-star-wars-zombies-stormtroopers-1851420306)
- - [Fallout 4 Is The Best-Selling Game In Europe Right Now](https://kotaku.com/fallout-4-sales-europe-amazon-prime-tv-show-1851420221)<!-- GAME:END -->
+ - [This Street Fighter Cammy Statue Costs More Than A PS5](https://kotaku.com/street-fighter-6-cammy-resin-statue-700-dollars-1851420631)
+ - [Kingdom Come: Deliverance II Will Be Twice As Big And More Diverse](https://kotaku.com/kingdom-come-deliverance-2-size-release-date-1851420482)
+ - [10 Things To Do Before Final Fantasy XIV&#39;s Dawntrail Expansion](https://kotaku.com/final-fantasy-14-dawntrail-expansion-release-drop-1851420406)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
