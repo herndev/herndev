@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Towerborne: Bringing an Enemy to Life](https://www.towerborne.com/truffleclub-developer-interview/#new_tab)
- - [The Future Games Show Summer Showcase is back with a bang this June, and here&#39;s where and when to watch](https://www.pcgamer.com/gaming-industry/events-conferences/the-future-games-show-summer-showcase-is-back-with-a-bang-this-june-and-heres-where-and-when-to-watch)
- - [Pokémon Go players think new customization update makes trainers ‘ugly’](https://www.polygon.com/24134040/pokemon-go-customization-update-ugly-trainers)<!-- GAME:END -->
+ - [Children of the Sun offers one of the most challenging, satisfying levels of 2024 so far](https://www.polygon.com/24133027/children-of-the-sun-open-mic-night-in-hell-devolver-digital-pc)
+ - [How to finish ‘The Whisper’ and get Whisper of the Worm in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24124313/whisper-walkthrough-worm-exotic-pattern)
+ - [Where to find the Oracles in ‘The Whisper’ mission in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24133446/oracles-whisper-worm-oracular-seeker-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
