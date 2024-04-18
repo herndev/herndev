@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - ⏩ [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
- - 👉 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)<!-- MEMES:END -->
+ - 💣 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - ⏩ [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - 👉 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)<!-- MEMES:END -->
 
 ---
 
