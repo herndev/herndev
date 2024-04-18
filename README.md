@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Action-packed Strike Rush brings the hero shooter straight to your MetaQuest headset](https://www.pcgamer.com/games/vr/action-packed-strike-rush-brings-the-hero-shooter-straight-to-your-metaquest-headset)
  - [Arm laptops are almost ready for prime time, and some new benchmarks with a Snapdragon X processor will have Intel, AMD and even Apple worried](https://www.pcgamer.com/hardware/processors/arm-laptops-are-almost-ready-for-prime-time-and-some-new-benchmarks-with-a-snapdragon-x-processor-will-have-intel-amd-and-even-apple-worried)
- - [Today&#39;s Wordle answer for Thursday, April 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-18-2024)
- - [Acer&#39;s curvy Predator Z57 dual UHD MiniLED 57-inch monitor hits retail for $1,999](https://www.pcgamer.com/hardware/gaming-monitors/acers-curvy-predator-z57-dual-uhd-miniled-57-inch-monitor-hits-retail-for-dollar1999)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, April 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-18-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
