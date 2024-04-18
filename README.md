@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RFK Jr.’s Very Online, Conspiracy-Filled Campaign](https://www.wired.com/story/rfk-online-conspiracy-campaign/)
- - [DARPA reveals that an AI-controlled X-62A jet successfully faced a human pilot in an F-16 during an in-air dogfight test carried out in 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p27#a240418p27)
- - [The podcast industry keeps reinventing itself](https://www.theverge.com/2024/4/18/24134187/podcast-industry-future-creators-video)<!-- TECH:END -->
+ - [Apple Sainte-Catherine store will move to a new location down the street](https://appleinsider.com/articles/24/04/18/apple-sainte-catherine-store-will-move-to-a-new-location-down-the-street?utm_medium=rss)
+ - [Google merges Android and hardware teams for the sake of speed and AI](https://www.androidauthority.com/google-merges-android-and-hardware-teams-3435469/)
+ - [Meta claims both Llama 3 models beat similarly sized models like Gemini, Mistral, and Claude 3 in certain benchmarks; humans marked Llama 3 higher than GPT-3.5 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240418/p30#a240418p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
