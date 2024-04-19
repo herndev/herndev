@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
- - ⏩ [No f**king way](http://9gag.com/gag/ae9jExp)
- - 👉 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)<!-- MEMES:END -->
+ - 💣 [Well he is done with the phase](http://9gag.com/gag/aQzPD9z)
+ - ⏩ [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
+ - 👉 [Zuckerberg Captcha Test](http://9gag.com/gag/a4PKx11)<!-- MEMES:END -->
 
 ---
 
