@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - ⏩ [Loll](http://9gag.com/gag/aQzPBmW)
- - 👉 [That defender could have deflected the ball with his face tsk tsk tsk](http://9gag.com/gag/a5QeA1L)<!-- MEMES:END -->
+ - 💣 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)
+ - ⏩ [God Wills It!](http://9gag.com/gag/aKGwLdW)
+ - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
 
 ---
 
