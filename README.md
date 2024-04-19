@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Google AI](http://9gag.com/gag/ajPYG0R)
- - ⏩ [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
+ - 💣 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
+ - ⏩ [Especially here](http://9gag.com/gag/amoNQgy)
+ - 👉 [British police and a psychologist showed up at this man&#39;s home because he had posted `Christians must stand up` on social media after Terrorist attack on bishop in Australia.](http://9gag.com/gag/ayN7AGV)<!-- MEMES:END -->
 
 ---
 
