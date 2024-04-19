@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All this Fallout TV show buzz and no new Fallout game to play—but so what?](https://www.pcgamer.com/games/rpg/fallout/fallout-show-new-fallout-game)
- - [The new Helldivers 2 gun that everyone immediately declared &#39;garbage&#39; is actually a misunderstood masterpiece](https://www.pcgamer.com/games/third-person-shooter/the-new-helldivers-2-gun-that-everyone-immediately-declared-garbage-is-actually-a-misunderstood-masterpiece)
- - [A site literally called &#39;Spy.pet&#39; claims to have scraped billions of public Discord messages and wants to sell them](https://www.pcgamer.com/gaming-industry/a-site-literally-called-spypet-claims-to-have-scraped-billions-of-public-discord-messages-and-wants-to-sell-them)<!-- GAME:END -->
+ - [Fallout is coming back for season 2 — here’s what we know](https://www.polygon.com/24124500/fallout-season-2-release-date-cast-prime-tv-series)
+ - [Fallout season 2 has been confirmed, so bring on the deathclaws](https://www.pcgamer.com/movies-tv/fallout-season-2-has-been-confirmed-so-bring-on-the-deathclaws)
+ - [Warhammer 40,000 has slightly more women in it now and the neckbeards aren&#39;t happy](https://www.pcgamer.com/games/strategy/warhammer-40000-has-slightly-more-women-in-it-now-and-the-neckbeards-arent-happy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
