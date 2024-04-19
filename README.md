@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You may not need Apple Pay to tap and pay with your EU iPhone soon](https://www.theverge.com/2024/4/19/24135095/apple-iphone-nfc-eu-payments)
- - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
- - [Samsung Galaxy A35 deal offers big price cut and free Best Buy gift card](https://www.androidauthority.com/galaxy-a35-best-buy-deal-3435769/)<!-- TECH:END -->
+ - [Nothing rolls out ChatGPT integration for Nothing Phone &lpar;2&rpar; and Nothing earbuds, including voice and text widgets for the phone &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240419/p12#a240419p12)
+ - [How Phish turned Las Vegas’ Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)
+ - [Best Printer Deals: Big Savings on Top Printers From Canon, Epson and More     - CNET](https://www.cnet.com/deals/best-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
