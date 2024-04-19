@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)
- - ⏩ [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
- - 👉 [Especially here](http://9gag.com/gag/amoNQgy)<!-- MEMES:END -->
+ - 💣 [Google AI](http://9gag.com/gag/ajPYG0R)
+ - ⏩ [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
 
 ---
 
