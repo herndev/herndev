@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 22 to 26](https://news.xbox.com/en-us/2024/04/19/next-week-on-xbox-new-games-for-april-22-to-26/)
- - [Amazon Prime&#39;s Fallout Is Officially Getting A Second Season](https://kotaku.com/fallout-season-2-amazon-prime-bethesda-1851421573)
- - [Cherry Xtrfy K5V2 review](https://www.pcgamer.com/hardware/gaming-desktops/cherry-xtrfy-k5v2-review)<!-- GAME:END -->
+ - [Kaiju No. 8 goes from zero-to-100 with a great first episode cliffhanger](https://www.polygon.com/anime/24134286/kaiju-no-8-anime-episode-one-impressions)
+ - [An AI company has been generating porn with gamers&#39; idle GPU time in exchange for Fortnite skins and Roblox gift cards](https://www.pcgamer.com/hardware/an-ai-company-has-been-generating-porn-with-gamers-idle-gpu-time-in-exchange-for-fortnite-skins-and-roblox-gift-cards)
+ - [Dragon&#39;s Dogma 2&#39;s getting an update which nerfs dragonsplague, stops Pawns incessantly yapping, and makes them &#39;less likely to fall off cliffs&#39;](https://www.pcgamer.com/games/rpg/dragons-dogma-2s-getting-an-update-which-nerfs-dragonsplague-stops-pawns-incessantly-yapping-and-makes-them-less-likely-to-fall-off-cliffs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
