@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Limited supply: Apple&#39;s latest 14-inch MacBook Pro is $200 off](https://appleinsider.com/articles/24/04/19/limited-supply-apples-latest-14-inch-macbook-pro-is-200-off?utm_medium=rss)
- - [A new report highlights Apple’s environmental hypocrisy with iPhones](https://www.androidauthority.com/apple-iphone-environmental-hypocrisy-3435609/)
- - [What is your favorite smartwatch brand right now?](https://www.androidauthority.com/favorite-smartwatch-brand-poll-3435658/)<!-- TECH:END -->
+ - [How planning and infrastructure failed during Maui wildfires](https://www.theverge.com/2024/4/19/24134274/infrastructure-planning-failures-maui-hawaii-wildfire-report)
+ - [A 14-year-old is charged in fire that destroyed a driverless Waymo vehicle](https://www.theverge.com/2024/4/19/24134801/waymo-fire-arson-san-francisco-teen-police)
+ - [Compare Your Energy Choices and Electricity Rates by State     - CNET](https://www.cnet.com/news/electricity-rates-by-state/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
