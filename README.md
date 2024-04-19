@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter alternative Post News is shutting down](https://www.theverge.com/2024/4/19/24135011/twitter-alternative-post-news-shutdown)
- - [Maybe I don’t want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)
- - [10 Best Computer Monitors &lpar;2024&rpar;: Budget, OLED, 4K, Ultrawide](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
+ - [You may not need Apple Pay to tap and pay with your EU iPhone soon](https://www.theverge.com/2024/4/19/24135095/apple-iphone-nfc-eu-payments)
+ - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
+ - [Samsung Galaxy A35 deal offers big price cut and free Best Buy gift card](https://www.androidauthority.com/galaxy-a35-best-buy-deal-3435769/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
