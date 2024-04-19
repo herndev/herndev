@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biggest Deepfake Porn Website Is Now Blocked in the UK](https://www.wired.com/story/the-biggest-deepfake-porn-website-is-now-blocked-in-the-uk/)
- - [Bitcoin Miners Brace for the ‘Halving’—and Race to Cash In](https://www.wired.com/story/bitcoin-miners-halving/)
- - [Record HyperX Cloud III Wireless deal drops price to just $115](https://www.androidauthority.com/hyperx-cloud-iii-wireless-headset-deal-3435717/)<!-- TECH:END -->
+ - [Apple Pay NFC tech in iPhone will likely get opened up soon in the EU](https://appleinsider.com/articles/24/04/19/apple-pay-nfc-tech-in-iphone-will-likely-get-opened-up-soon-in-the-eu?utm_medium=rss)
+ - [Here’s when Pebblebee’s Find My Device network trackers will ship](https://www.androidauthority.com/pebblebee-tracker-shipment-date-3435731/)
+ - [Sources: EU may accept Apple&#39;s proposal to open its NFC payments tech to rivals, and may close its antitrust probe in May, letting Apple avoid hefty fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240419/p8#a240419p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
