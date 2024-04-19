@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
- - ⏩ [Especially here](http://9gag.com/gag/amoNQgy)
- - 👉 [British police and a psychologist showed up at this man&#39;s home because he had posted `Christians must stand up` on social media after Terrorist attack on bishop in Australia.](http://9gag.com/gag/ayN7AGV)<!-- MEMES:END -->
+ - 💣 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
+ - ⏩ [Zucc cooked](http://9gag.com/gag/aW4QyPK)
+ - 👉 [Can I help...?](http://9gag.com/gag/aPAw0On)<!-- MEMES:END -->
 
 ---
 
