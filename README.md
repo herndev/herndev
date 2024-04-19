@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well he is done with the phase](http://9gag.com/gag/aQzPD9z)
- - ⏩ [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - 👉 [Zuckerberg Captcha Test](http://9gag.com/gag/a4PKx11)<!-- MEMES:END -->
+ - 💣 [This kind of trust will be lost soon](http://9gag.com/gag/aNDrGG3)
+ - ⏩ [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - 👉 [Happy day](http://9gag.com/gag/awy096D)<!-- MEMES:END -->
 
 ---
 
