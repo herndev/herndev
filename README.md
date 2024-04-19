@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audien Hearing Atom One Hearing Aid Review: Über-Cheap and Too Basic](https://www.wired.com/review/audien-hearing-atom-one-hearing-aid/)
- - [Senator Warren doesn&#39;t have a plan to break up Apple, but still wants to pretty badly](https://appleinsider.com/articles/24/04/19/senator-warren-doesnt-have-a-plan-to-break-up-apple-but-still-wants-to-pretty-badly?utm_medium=rss)
- - [OneDrive will finally let you import your Google Drive, Dropbox files &lpar;APK teardown&rpar;](https://www.androidauthority.com/onedrive-import-google-drive-dropbox-files-apk-teardown-3435621/)<!-- TECH:END -->
+ - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://www.theverge.com/2024/4/19/24134753/tesla-recall-cybertruck-faulty-accelerator-pedal-nhtsa-defect)
+ - [Game emulators, iPad Air screens, and Elgato&#39;s new range on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/19/game-emulators-ipad-air-screens-and-elgatos-new-range-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Meta is restricting certain election-related keywords for Meta AI in India due to ongoing elections; Meta started testing its AI chatbot in India last week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240419/p4#a240419p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
