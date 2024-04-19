@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spanish Reporter SHUTS DOWN Harasser After Live TV Assault &lpar;Thanks to Awesome Colleague!&rpar;](http://9gag.com/gag/an7q0LL)
+ - 💣 [That&#39;s a lie](http://9gag.com/gag/avypVQ5)
  - ⏩ [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
- - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
+ - 👉 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)<!-- MEMES:END -->
 
 ---
 
