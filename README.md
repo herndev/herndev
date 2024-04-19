@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout is coming back for season 2 — here’s what we know](https://www.polygon.com/24124500/fallout-season-2-release-date-cast-prime-tv-series)
- - [Fallout season 2 has been confirmed, so bring on the deathclaws](https://www.pcgamer.com/movies-tv/fallout-season-2-has-been-confirmed-so-bring-on-the-deathclaws)
- - [Warhammer 40,000 has slightly more women in it now and the neckbeards aren&#39;t happy](https://www.pcgamer.com/games/strategy/warhammer-40000-has-slightly-more-women-in-it-now-and-the-neckbeards-arent-happy)<!-- GAME:END -->
+ - [Blizzard backs down on unpopular Hearthstone change, so now weekly quests will &#39;only&#39; waste twice as much of your time, rather than triple](https://www.pcgamer.com/games/card-games/blizzard-backs-down-on-unpopular-hearthstone-change-so-now-weekly-quests-will-only-waste-twice-as-much-of-your-time-rather-than-triple)
+ - [Today&#39;s Wordle answer for Friday, April 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-19-2024)
+ - [Fallout is coming back for season 2 — here’s what we know](https://www.polygon.com/24124500/fallout-season-2-release-date-cast-prime-tv-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
