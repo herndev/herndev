@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go sports](http://9gag.com/gag/ae9jqqj)
- - ⏩ [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - 👉 [Couple ends up proposing at the same time](http://9gag.com/gag/abAXdVr)<!-- MEMES:END -->
+ - 💣 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - ⏩ [No f**king way](http://9gag.com/gag/ae9jExp)
+ - 👉 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)<!-- MEMES:END -->
 
 ---
 
