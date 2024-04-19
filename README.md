@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cleaning keyboard mode](http://9gag.com/gag/a7oLPAe)
- - ⏩ [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 👉 [Mom beleives in her son&#39;s talent.](http://9gag.com/gag/aD2AqOd)<!-- MEMES:END -->
+ - 💣 [Whaaaa.... the shi..](http://9gag.com/gag/a6Zmx2R)
+ - ⏩ [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)
+ - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
 
 ---
 
