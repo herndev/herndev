@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift gets custom collab with TikTok as UMG battle continues](https://www.theverge.com/2024/4/19/24134795/taylor-swift-ttpd-tiktok-hub-universal-music-group)
- - [Best Buy&#39;s Latest Weekend Sale Offers Tons of Tech and Home Deals, but There&#39;s a Catch     - CNET](https://www.cnet.com/deals/best-buys-latest-weekend-sale-offers-tons-of-tech-and-home-deals-but-theres-a-catch/#ftag=CAD590a51e)
- - [Are these the first real-life Pixel 9 Pro images?](https://www.androidauthority.com/google-pixel-9-pro-real-life-leaked-images-3435683/)<!-- TECH:END -->
+ - [The Biggest Deepfake Porn Website Is Now Blocked in the UK](https://www.wired.com/story/the-biggest-deepfake-porn-website-is-now-blocked-in-the-uk/)
+ - [Bitcoin Miners Brace for the ‘Halving’—and Race to Cash In](https://www.wired.com/story/bitcoin-miners-halving/)
+ - [Record HyperX Cloud III Wireless deal drops price to just $115](https://www.androidauthority.com/hyperx-cloud-iii-wireless-headset-deal-3435717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
