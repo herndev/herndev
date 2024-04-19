@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://www.theverge.com/2024/4/19/24134753/tesla-recall-cybertruck-faulty-accelerator-pedal-nhtsa-defect)
- - [Game emulators, iPad Air screens, and Elgato&#39;s new range on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/19/game-emulators-ipad-air-screens-and-elgatos-new-range-on-the-appleinsider-podcast?utm_medium=rss)
- - [Meta is restricting certain election-related keywords for Meta AI in India due to ongoing elections; Meta started testing its AI chatbot in India last week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240419/p4#a240419p4)<!-- TECH:END -->
+ - [Limited supply: Apple&#39;s latest 14-inch MacBook Pro is $200 off](https://appleinsider.com/articles/24/04/19/limited-supply-apples-latest-14-inch-macbook-pro-is-200-off?utm_medium=rss)
+ - [A new report highlights Apple’s environmental hypocrisy with iPhones](https://www.androidauthority.com/apple-iphone-environmental-hypocrisy-3435609/)
+ - [What is your favorite smartwatch brand right now?](https://www.androidauthority.com/favorite-smartwatch-brand-poll-3435658/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
