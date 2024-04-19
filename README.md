@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RimWorld’s new horror expansion also happens to be its best](https://www.polygon.com/24134278/rimworld-anomaly-horror-expansion-impressions-ludeon-studios)
- - [Kingdom Come: Deliverance 2 isn&#39;t just bigger, it&#39;s more diverse, with Warhorse adding a &#39;wide Range of Ethnicities and Different characters&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-isnt-just-bigger-its-more-diverse-with-warhorse-adding-a-wide-range-of-ethnicities-and-different-characters)
- - [There are few easy ways to get across the incredible complexity required to build a modern computer chip: this photograph is one of them](https://www.pcgamer.com/hardware/processors/there-are-few-easy-ways-to-get-across-the-incredible-complexity-required-to-build-a-modern-computer-chip-this-photograph-is-one-of-them)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 22 to 26](https://news.xbox.com/en-us/2024/04/19/next-week-on-xbox-new-games-for-april-22-to-26/)
+ - [Amazon Prime&#39;s Fallout Is Officially Getting A Second Season](https://kotaku.com/fallout-season-2-amazon-prime-bethesda-1851421573)
+ - [Cherry Xtrfy K5V2 review](https://www.pcgamer.com/hardware/gaming-desktops/cherry-xtrfy-k5v2-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
