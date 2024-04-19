@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Members Can Now Get 3 Months Free of Apple TV+ Until July 7](https://news.xbox.com/en-us/2024/04/19/apple-tv-3-month-perk-2024/)
- - [Overwatch 2 is cracking down on &#39;unapproved peripherals&#39; for console to &#39;level the playing field for all players&#39;](https://www.pcgamer.com/games/fps/overwatch-2-is-cracking-down-on-unapproved-peripherals-for-console-to-level-the-playing-field-for-all-players)
- - [Taylor Swift Namedrops Grand Theft Auto On Latest Album](https://kotaku.com/taylor-swift-grand-theft-auto-lyric-so-high-school-1851422268)<!-- GAME:END -->
+ - [Fallout’s bloody wedding continues one of fiction’s longest-running tropes](https://www.polygon.com/24133430/fallout-wedding-scene-bloody-red-wedding-trope-history)
+ - [Helldivers 2 CEO says after success, the goal now is simple—&#39;make this the best live game you&#39;ve ever played&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-says-after-success-the-goal-now-is-simple-make-this-the-best-live-game-youve-ever-played)
+ - [Does Fallout 76 Have Crossplay?](https://kotaku.com/does-fallout-76-have-crossplay-1851422665)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
