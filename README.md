@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If the OnePlus 12T is coming, it’ll look like this](https://www.androidauthority.com/oneplus-ace-3-pro-oneplus-12t-3435259/)
- - [Sophos researchers find &quot;crude&quot;, cheap ransomware tools being sold on the dark web, enabling inexperienced freelancers to easily launch attacks &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240419/p1#a240419p1)
- - [Internal draft: UK&#39;s ICO says Google&#39;s Privacy Sandbox falls short and leaves gaps that can be exploited to undermine privacy of users who should be anonymous &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p40#a240418p40)<!-- TECH:END -->
+ - [Environmental Damage Could Cost You a Fifth of Your Income Over the Next 25 Years](https://www.wired.com/story/environmental-damage-cost-global-incomes/)
+ - [A look at Salad, which pays gamers in Fortnite skins and Roblox gift cards to rent their GPUs remotely to AI companies, including those making AI-generated porn &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240419/p2#a240419p2)
+ - [If the OnePlus 12T is coming, it’ll look like this](https://www.androidauthority.com/oneplus-ace-3-pro-oneplus-12t-3435259/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
