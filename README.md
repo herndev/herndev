@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kind of trust will be lost soon](http://9gag.com/gag/aNDrGG3)
- - ⏩ [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
- - 👉 [Happy day](http://9gag.com/gag/awy096D)<!-- MEMES:END -->
+ - 💣 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
+ - ⏩ [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)
+ - 👉 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)<!-- MEMES:END -->
 
 ---
 
