@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [She Painted a Few Champagne Bottles. Then Came Meta’s Customer Support Hell](https://www.wired.com/story/influencer-painted-champagne-bottles-meta-customer-support-hell/)
- - [Sources: Mistral plans to raise &amp;euro;500M at an over &amp;euro;5B valuation from multiple VCs and wealth funds, after raising ~&amp;euro;400M at a &amp;euro;2B valuation in December 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240419/p3#a240419p3)
- - [Everything you need to know about emulating retro games with Delta for iPhone](https://appleinsider.com/articles/24/04/19/everything-you-need-to-know-about-emulating-retro-games-with-delta-for-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Audien Hearing Atom One Hearing Aid Review: Über-Cheap and Too Basic](https://www.wired.com/review/audien-hearing-atom-one-hearing-aid/)
+ - [Senator Warren doesn&#39;t have a plan to break up Apple, but still wants to pretty badly](https://appleinsider.com/articles/24/04/19/senator-warren-doesnt-have-a-plan-to-break-up-apple-but-still-wants-to-pretty-badly?utm_medium=rss)
+ - [OneDrive will finally let you import your Google Drive, Dropbox files &lpar;APK teardown&rpar;](https://www.androidauthority.com/onedrive-import-google-drive-dropbox-files-apk-teardown-3435621/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
