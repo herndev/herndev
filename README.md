@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Notice something](http://9gag.com/gag/axydnB2)
- - ⏩ [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - 👉 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)<!-- MEMES:END -->
+ - 💣 [Spanish Reporter SHUTS DOWN Harasser After Live TV Assault &lpar;Thanks to Awesome Colleague!&rpar;](http://9gag.com/gag/an7q0LL)
+ - ⏩ [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
+ - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
 
 ---
 
