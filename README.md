@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)
- - ⏩ [Happy day](http://9gag.com/gag/awy096D)
- - 👉 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)<!-- MEMES:END -->
+ - 💣 [I&#39;m not quite sure how they plan on enforcing this](http://9gag.com/gag/apRE7mb)
+ - ⏩ [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - 👉 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)<!-- MEMES:END -->
 
 ---
 
