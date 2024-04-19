@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)
- - ⏩ [God Wills It!](http://9gag.com/gag/aKGwLdW)
- - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
+ - 💣 [Go sports](http://9gag.com/gag/ae9jqqj)
+ - ⏩ [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
+ - 👉 [Couple ends up proposing at the same time](http://9gag.com/gag/abAXdVr)<!-- MEMES:END -->
 
 ---
 
