@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - ⏩ [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)
+ - 💣 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)
+ - ⏩ [Happy day](http://9gag.com/gag/awy096D)
  - 👉 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)<!-- MEMES:END -->
 
 ---
