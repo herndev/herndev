@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - ⏩ [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 👉 [Peak male fantasy](http://9gag.com/gag/aByRj02)<!-- MEMES:END -->
+ - 💣 [African Illegal Setting Fire To A Patrol Station In Ravenna, Italy.](http://9gag.com/gag/a7oLGom)
+ - ⏩ [Loll](http://9gag.com/gag/aQzPBmW)
+ - 👉 [Meta ai fails woke test](http://9gag.com/gag/aRBw86G)<!-- MEMES:END -->
 
 ---
 
