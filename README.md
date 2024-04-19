@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung accidentally made this Galaxy app unremovable](https://www.androidauthority.com/samsung-secure-folder-delete-one-ui-6-1-3435590/)
- - [Environmental Damage Could Cost You a Fifth of Your Income Over the Next 25 Years](https://www.wired.com/story/environmental-damage-cost-global-incomes/)
- - [A look at Salad, which pays gamers in Fortnite skins and Roblox gift cards to rent their GPUs remotely to AI companies, including those making AI-generated porn &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240419/p2#a240419p2)<!-- TECH:END -->
+ - [She Painted a Few Champagne Bottles. Then Came Meta’s Customer Support Hell](https://www.wired.com/story/influencer-painted-champagne-bottles-meta-customer-support-hell/)
+ - [Sources: Mistral plans to raise &amp;euro;500M at an over &amp;euro;5B valuation from multiple VCs and wealth funds, after raising ~&amp;euro;400M at a &amp;euro;2B valuation in December 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240419/p3#a240419p3)
+ - [Everything you need to know about emulating retro games with Delta for iPhone](https://appleinsider.com/articles/24/04/19/everything-you-need-to-know-about-emulating-retro-games-with-delta-for-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
