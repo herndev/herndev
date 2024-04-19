@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout’s bloody wedding continues one of fiction’s longest-running tropes](https://www.polygon.com/24133430/fallout-wedding-scene-bloody-red-wedding-trope-history)
- - [Helldivers 2 CEO says after success, the goal now is simple—&#39;make this the best live game you&#39;ve ever played&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-says-after-success-the-goal-now-is-simple-make-this-the-best-live-game-youve-ever-played)
- - [Does Fallout 76 Have Crossplay?](https://kotaku.com/does-fallout-76-have-crossplay-1851422665)<!-- GAME:END -->
+ - [What we want to see in Fallout season 2: Deathclaw fights, aliens and a lot more Norm](https://www.pcgamer.com/movies-tv/what-we-want-to-see-in-fallout-season-2-deathclaw-fights-aliens-and-a-lot-more-norm)
+ - [Share of the Week: Dragon’s Dogma 2](https://blog.playstation.com/2024/04/19/share-of-the-week-dragons-dogma-2-2/)
+ - [Share of the Week: Dragon’s Dogma 2](https://blog.playstation.com/2024/04/19/share-of-the-week-dragons-dogma-2-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
