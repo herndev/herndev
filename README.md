@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [African Illegal Setting Fire To A Patrol Station In Ravenna, Italy.](http://9gag.com/gag/a7oLGom)
- - ⏩ [Loll](http://9gag.com/gag/aQzPBmW)
- - 👉 [Meta ai fails woke test](http://9gag.com/gag/aRBw86G)<!-- MEMES:END -->
+ - 💣 [Undocumented migrants raise complain that the food given to them are not good enough and their kids can not go to school for free](http://9gag.com/gag/apREzWE)
+ - ⏩ [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 👉 [You\u2019re gonna need some aloe for that burn\u2026..](http://9gag.com/gag/an7q0QV)<!-- MEMES:END -->
 
 ---
 
