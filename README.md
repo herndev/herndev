@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How planning and infrastructure failed during Maui wildfires](https://www.theverge.com/2024/4/19/24134274/infrastructure-planning-failures-maui-hawaii-wildfire-report)
- - [A 14-year-old is charged in fire that destroyed a driverless Waymo vehicle](https://www.theverge.com/2024/4/19/24134801/waymo-fire-arson-san-francisco-teen-police)
- - [Compare Your Energy Choices and Electricity Rates by State     - CNET](https://www.cnet.com/news/electricity-rates-by-state/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taylor Swift gets custom collab with TikTok as UMG battle continues](https://www.theverge.com/2024/4/19/24134795/taylor-swift-ttpd-tiktok-hub-universal-music-group)
+ - [Best Buy&#39;s Latest Weekend Sale Offers Tons of Tech and Home Deals, but There&#39;s a Catch     - CNET](https://www.cnet.com/deals/best-buys-latest-weekend-sale-offers-tons-of-tech-and-home-deals-but-theres-a-catch/#ftag=CAD590a51e)
+ - [Are these the first real-life Pixel 9 Pro images?](https://www.androidauthority.com/google-pixel-9-pro-real-life-leaked-images-3435683/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
