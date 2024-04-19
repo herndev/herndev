@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
+ - 💣 [Loll](http://9gag.com/gag/aQzPBmW)
  - ⏩ [Zucc cooked](http://9gag.com/gag/aW4QyPK)
- - 👉 [Can I help...?](http://9gag.com/gag/aPAw0On)<!-- MEMES:END -->
+ - 👉 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)<!-- MEMES:END -->
 
 ---
 
