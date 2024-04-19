@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m not quite sure how they plan on enforcing this](http://9gag.com/gag/apRE7mb)
- - ⏩ [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
- - 👉 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)<!-- MEMES:END -->
+ - 💣 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - ⏩ [They were right...](http://9gag.com/gag/aYQNv60)
+ - 👉 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)<!-- MEMES:END -->
 
 ---
 
