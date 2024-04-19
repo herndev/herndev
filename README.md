@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [African Illegal Setting Fire To A Patrol Station In Ravenna, Italy.](http://9gag.com/gag/a7oLGom)
- - ⏩ [Woman freaked out about service dog. Then went on tv and claim she acted that way because of racism.](http://9gag.com/gag/aO8Knq6)
- - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
+ - 💣 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
+ - ⏩ [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 👉 [Peak male fantasy](http://9gag.com/gag/aByRj02)<!-- MEMES:END -->
 
 ---
 
