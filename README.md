@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s a lie](http://9gag.com/gag/avypVQ5)
- - ⏩ [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
- - 👉 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)<!-- MEMES:END -->
+ - 💣 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - ⏩ [Loll](http://9gag.com/gag/aQzPBmW)
+ - 👉 [That defender could have deflected the ball with his face tsk tsk tsk](http://9gag.com/gag/a5QeA1L)<!-- MEMES:END -->
 
 ---
 
