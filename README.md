@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bots now account for half of global internet traffic and &#39;bad bots&#39; nearly one third](https://www.pcgamer.com/software/ai/bots-now-account-for-half-of-global-internet-traffic-and-bad-bots-nearly-one-third)
- - [Teamgroup Z540 2TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/teamgroup-z540-2tb-nvme-ssd-review)
- - [Visions of Mana won&#39;t have multiplayer, but producer Masaru Oyamada wants &#39;to implement features like that in the future&#39;](https://www.pcgamer.com/games/rpg/visions-of-mana-wont-have-multiplayer-but-producer-masaru-oyamada-wants-to-implement-features-like-that-in-the-future)<!-- GAME:END -->
+ - [An AI-controlled F16 has performed its first ever dogfight with a human pilot, coming within 2,000 feet of each other at 1,200 miles per hour](https://www.pcgamer.com/hardware/an-ai-controlled-f16-has-performed-its-first-ever-dogfight-with-a-human-pilot-coming-within-2000-feet-of-each-other-at-1200-miles-per-hour)
+ - [Helldivers 2 players eradicate 2 billion bugs in less than a day, surprising even themselves](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-eradicate-2-billion-bugs-in-less-than-a-day-surprising-even-themselves)
+ - [If Fallout games were films, who&#39;d direct them and which one would be best?](https://www.pcgamer.com/games/rpg/if-fallout-games-were-films-whod-direct-them-and-which-one-would-be-best)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
