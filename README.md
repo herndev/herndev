@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two wins lawsuit over LeBron James’ tattoos](https://www.polygon.com/24131877/nba-2k-lebron-james-tattoo-jury-trial-april-2024)
- - [Where To Find Fool&#39;s Gold In Final Fantasy 16](https://kotaku.com/final-fantasy-16-fools-gold-tonberry-knife-1851423458)
- - [Meet The Guy Who Spent $90K On One Of The Rarest Copies Of Castlevania In The World](https://kotaku.com/castlevania-vintage-collectible-ebay-heritage-grail-1851423542)<!-- GAME:END -->
+ - [Help, the Rebel Moon franchise has fallen and it can’t get up!](https://www.polygon.com/24135254/rebel-moon-2-scargiver-review)
+ - [Dune: Part Two, Netflix’s Rebel Moon Part Two, and every new movie to watch at home this weekend](https://www.polygon.com/2024/4/19/24127656/new-movies-watch-dune-part-two-netflix-rebel-moon-scargiver-late-night-with-the-devil)
+ - [LittleBigPlanet Server Apocalypse Wipes Hundreds Of Thousands Of PlayStation Players&#39; Creations Without Warning](https://kotaku.com/littlebigplanet-3-ps4-servers-sony-playstation-1851423658)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
