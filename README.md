@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What we want to see in Fallout season 2: Deathclaw fights, aliens and a lot more Norm](https://www.pcgamer.com/movies-tv/what-we-want-to-see-in-fallout-season-2-deathclaw-fights-aliens-and-a-lot-more-norm)
- - [Share of the Week: Dragon’s Dogma 2](https://blog.playstation.com/2024/04/19/share-of-the-week-dragons-dogma-2-2/)
- - [Share of the Week: Dragon’s Dogma 2](https://blog.playstation.com/2024/04/19/share-of-the-week-dragons-dogma-2-2/)<!-- GAME:END -->
+ - [Target Confirms It Will Stop Selling Some Physical Media In Stores, Like Movies](https://kotaku.com/target-dvds-games-phyiscal-media-removing-stores-discs-1851423129)
+ - [Dragon’s Dogma 2&#39;s Dreaded Dragonsplague Will Be Easier To Deal With](https://kotaku.com/dragons-dogma-2-patch-dragonsplague-update-pawn-changes-1851423006)
+ - [What we want to see in Fallout season 2: Deathclaw fights, aliens and a lot more Norm](https://www.pcgamer.com/movies-tv/what-we-want-to-see-in-fallout-season-2-deathclaw-fights-aliens-and-a-lot-more-norm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
