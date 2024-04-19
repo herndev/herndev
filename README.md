@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An AI-controlled F16 has performed its first ever dogfight with a human pilot, coming within 2,000 feet of each other at 1,200 miles per hour](https://www.pcgamer.com/hardware/an-ai-controlled-f16-has-performed-its-first-ever-dogfight-with-a-human-pilot-coming-within-2000-feet-of-each-other-at-1200-miles-per-hour)
- - [Helldivers 2 players eradicate 2 billion bugs in less than a day, surprising even themselves](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-eradicate-2-billion-bugs-in-less-than-a-day-surprising-even-themselves)
- - [If Fallout games were films, who&#39;d direct them and which one would be best?](https://www.pcgamer.com/games/rpg/if-fallout-games-were-films-whod-direct-them-and-which-one-would-be-best)<!-- GAME:END -->
+ - [RimWorld’s new horror expansion also happens to be its best](https://www.polygon.com/24134278/rimworld-anomaly-horror-expansion-impressions-ludeon-studios)
+ - [Kingdom Come: Deliverance 2 isn&#39;t just bigger, it&#39;s more diverse, with Warhorse adding a &#39;wide Range of Ethnicities and Different characters&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-isnt-just-bigger-its-more-diverse-with-warhorse-adding-a-wide-range-of-ethnicities-and-different-characters)
+ - [There are few easy ways to get across the incredible complexity required to build a modern computer chip: this photograph is one of them](https://www.pcgamer.com/hardware/processors/there-are-few-easy-ways-to-get-across-the-incredible-complexity-required-to-build-a-modern-computer-chip-this-photograph-is-one-of-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
