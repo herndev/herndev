@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sony Inzone buds are on sale for their lowest price ever](https://www.polygon.com/deals/24135083/sony-inzone-gaming-earbuds-headset-deal-sale)
- - [The long-awaited sequel to The Ur-Quan Masters hits its crowdfunding target in less than four hours, and they&#39;re not kidding about that $4.4 million stretch goal](https://www.pcgamer.com/games/rpg/the-long-awaited-sequel-to-the-ur-quan-masters-hits-its-crowdfunding-target-in-less-than-four-hours-and-theyre-not-kidding-about-that-dollar44-million-stretch-goal)
- - [Does The Rising Tide DLC Impact Final Fantasy 16’s Original Ending?](https://kotaku.com/ff16-final-fantasy-16-dlc-rising-tide-ending-cliv-1851423234)<!-- GAME:END -->
+ - [If you can’t touch grass for Earth Day, a Planet Earth 4K can help](https://www.polygon.com/deals/24135122/planet-earth-bbc-4k-uhd-nature-documentary-deal-sale)
+ - [Fallout 3&#39;s Reveal Led To Death Threats And Bethesda&#39;s First Security Guard](https://kotaku.com/fallout-3-reveal-death-threats-security-guard-bethesda-1851423466)
+ - [OG Fallout lead Tim Cain defends the show&#39;s lore changes in a glowing full review⁠⁠—&#39;Not that it matters, I&#39;m not in charge of this anymore⁠, and neither are you&#39;](https://www.pcgamer.com/games/rpg/og-fallout-lead-tim-cain-defends-the-shows-lore-changes-in-a-glowing-full-reviewnot-that-it-matters-im-not-in-charge-of-this-anymore-and-neither-are-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
