@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kaiju No. 8 goes from zero-to-100 with a great first episode cliffhanger](https://www.polygon.com/anime/24134286/kaiju-no-8-anime-episode-one-impressions)
- - [An AI company has been generating porn with gamers&#39; idle GPU time in exchange for Fortnite skins and Roblox gift cards](https://www.pcgamer.com/hardware/an-ai-company-has-been-generating-porn-with-gamers-idle-gpu-time-in-exchange-for-fortnite-skins-and-roblox-gift-cards)
- - [Dragon&#39;s Dogma 2&#39;s getting an update which nerfs dragonsplague, stops Pawns incessantly yapping, and makes them &#39;less likely to fall off cliffs&#39;](https://www.pcgamer.com/games/rpg/dragons-dogma-2s-getting-an-update-which-nerfs-dragonsplague-stops-pawns-incessantly-yapping-and-makes-them-less-likely-to-fall-off-cliffs)<!-- GAME:END -->
+ - [Xbox Members Can Now Get 3 Months Free of Apple TV+ Until July 7](https://news.xbox.com/en-us/2024/04/19/apple-tv-3-month-perk-2024/)
+ - [Overwatch 2 is cracking down on &#39;unapproved peripherals&#39; for console to &#39;level the playing field for all players&#39;](https://www.pcgamer.com/games/fps/overwatch-2-is-cracking-down-on-unapproved-peripherals-for-console-to-level-the-playing-field-for-all-players)
+ - [Taylor Swift Namedrops Grand Theft Auto On Latest Album](https://kotaku.com/taylor-swift-grand-theft-auto-lyric-so-high-school-1851422268)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
