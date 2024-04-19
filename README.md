@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA Confirms Where the Space Junk That Hit a Florida House Came From](https://www.wired.com/story/space-junk-international-space-station-florida-house-confirmred/)
- - [AR shopping gets a boost with Best Buy&#39;s Apple Vision Pro app](https://appleinsider.com/articles/24/04/18/ar-shopping-gets-a-boost-with-best-buys-apple-vision-pro-app?utm_medium=rss)
- - [Digital marketing software company Ibotta closes up 17% at $103.25 per share in its trading debut, after raising ~$577.3M in an IPO priced above marketed range &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p35#a240418p35)<!-- TECH:END -->
+ - [Meta’s supercharged AI assistant is taking over its apps across the world](https://www.androidauthority.com/meta-ai-launched-3435530/)
+ - [Q&amp;A with Mark Zuckerberg on Llama 3, buying H100 GPUs for Reels, AGI, energy constraints, dangers of open source, the metaverse, Meta&#39;s custom silicon, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/240418/p36#a240418p36)
+ - [Best Sleep Trackers of 2024     - CNET](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
