@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - ⏩ [Undocumented migrants, mostly males from Africa and Haiti, are occupying an area in front of City Hall in New York City to demand more financial benefits and better housing. City officials promised to make it their top priority on the agenda.](http://9gag.com/gag/a5QexGg)
- - 👉 [Creative and engaging discount system](http://9gag.com/gag/aLnRbNM)<!-- MEMES:END -->
+ - 💣 [Notice something](http://9gag.com/gag/axydnB2)
+ - ⏩ [Peak male fantasy](http://9gag.com/gag/aByRj02)
+ - 👉 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)<!-- MEMES:END -->
 
 ---
 
