@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay NFC tech in iPhone will likely get opened up soon in the EU](https://appleinsider.com/articles/24/04/19/apple-pay-nfc-tech-in-iphone-will-likely-get-opened-up-soon-in-the-eu?utm_medium=rss)
- - [Here’s when Pebblebee’s Find My Device network trackers will ship](https://www.androidauthority.com/pebblebee-tracker-shipment-date-3435731/)
- - [Sources: EU may accept Apple&#39;s proposal to open its NFC payments tech to rivals, and may close its antitrust probe in May, letting Apple avoid hefty fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240419/p8#a240419p8)<!-- TECH:END -->
+ - [Twitter alternative Post News is shutting down](https://www.theverge.com/2024/4/19/24135011/twitter-alternative-post-news-shutdown)
+ - [Maybe I don’t want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)
+ - [10 Best Computer Monitors &lpar;2024&rpar;: Budget, OLED, 4K, Ultrawide](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
