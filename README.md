@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you can’t touch grass for Earth Day, a Planet Earth 4K can help](https://www.polygon.com/deals/24135122/planet-earth-bbc-4k-uhd-nature-documentary-deal-sale)
- - [Fallout 3&#39;s Reveal Led To Death Threats And Bethesda&#39;s First Security Guard](https://kotaku.com/fallout-3-reveal-death-threats-security-guard-bethesda-1851423466)
- - [OG Fallout lead Tim Cain defends the show&#39;s lore changes in a glowing full review⁠⁠—&#39;Not that it matters, I&#39;m not in charge of this anymore⁠, and neither are you&#39;](https://www.pcgamer.com/games/rpg/og-fallout-lead-tim-cain-defends-the-shows-lore-changes-in-a-glowing-full-reviewnot-that-it-matters-im-not-in-charge-of-this-anymore-and-neither-are-you)<!-- GAME:END -->
+ - [Take-Two wins lawsuit over LeBron James’ tattoos](https://www.polygon.com/24131877/nba-2k-lebron-james-tattoo-jury-trial-april-2024)
+ - [Where To Find Fool&#39;s Gold In Final Fantasy 16](https://kotaku.com/final-fantasy-16-fools-gold-tonberry-knife-1851423458)
+ - [Meet The Guy Who Spent $90K On One Of The Rarest Copies Of Castlevania In The World](https://kotaku.com/castlevania-vintage-collectible-ebay-heritage-grail-1851423542)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
