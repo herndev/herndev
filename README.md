@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini for Android will soon allow general file uploads, not just images](https://www.androidauthority.com/gemini-file-uploads-3436203/)
- - [Why DolphiniOS’s Wii and GameCube emulator isn’t coming to the App Store](https://www.theverge.com/2024/4/22/24137369/dolphinios-emulator-apple-app-store-jit)
- - [WhatsApp may soon let you share encrypted files without an internet connection](https://www.androidauthority.com/whatsapps-nearby-filesharing-3436050/)<!-- TECH:END -->
+ - [HR software company Rippling announces a $200M Series F led by Coatue at a $13.5B valuation, up from $11.25B in March 2023, and a separate $590M tender offer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240422/p20#a240422p20)
+ - [Mysterious Google smartwatch that’s likely not the Pixel Watch 3 hits the FCC](https://www.androidauthority.com/google-smartwatch-arrives-at-fcc-3436244/)
+ - [We found a database of Nothing community members’ emails from 2022 &lpar;Update: Nothing statement&rpar;](https://www.androidauthority.com/nothing-community-alleged-data-breach-3436010/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
