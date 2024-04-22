@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Galax&#39;s single-slot RTX 4060 Ti is out in the wild, though sadly it appears to be a little tempestuous](https://www.pcgamer.com/hardware/graphics-cards/galaxs-single-slot-rtx-4060-ti-is-out-in-the-wild-though-sadly-it-appears-to-be-a-little-tempestuous)
  - [Magic: The Gathering&#39;s latest set gives you a good excuse to dig out those old cards](https://www.pcgamer.com/games/card-games/magic-the-gatherings-latest-gives-you-a-good-excuse-to-dig-out-those-old-cards)
- - [Today&#39;s Wordle answer for Monday, April 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-22-2024)
- - [Five new Steam games you probably missed &lpar;April 22, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-22-2024)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, April 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-22-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
