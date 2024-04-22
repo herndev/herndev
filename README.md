@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia sentences Meta spokesperson Andy Stone to six years in absentia for &quot;publicly defending terrorism&quot;; Russia designates Meta as an extremist organization &lpar;Reuters&rpar;](http://www.techmeme.com/240422/p13#a240422p13)
- - [Nanoleaf string lights, new air purifiers, Qi2 chargers, &amp; Govee floor lamps on HomeKit Insider](https://appleinsider.com/articles/24/04/22/nanoleaf-string-lights-new-air-purifiers-qi2-chargers-govee-floor-lamps-on-homekit-insider?utm_medium=rss)
- - [Apple has bought a French firm to help get AI processing on the iPhone](https://appleinsider.com/articles/24/04/22/apple-has-bought-a-french-firm-to-help-get-ai-processing-on-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [23 Everyday Products Made of Recycled Materials &lpar;2024&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)
+ - [The Feds Just Announced a $7B Plan to Make Solar Affordable     - CNET](https://www.cnet.com/home/energy-and-utilities/the-feds-just-announced-a-7b-plan-to-make-solar-affordable/#ftag=CAD590a51e)
+ - [Celebrate Mother Earth With These Eco-Friendly Earth Day Deals     - CNET](https://www.cnet.com/deals/celebrate-mother-earth-with-these-eco-friendly-earth-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
