@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
- - ⏩ [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 💣 [Only 4 more days](http://9gag.com/gag/abAXPx9)
+ - ⏩ [Wish me luck](http://9gag.com/gag/awy06rx)
  - 👉 [And Then?](http://9gag.com/gag/a87LP3Z)<!-- MEMES:END -->
 
 ---
