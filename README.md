@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - ⏩ [92](http://9gag.com/gag/aPAwqbK)
- - 👉 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)<!-- MEMES:END -->
+ - 💣 [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - ⏩ [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 👉 [One Punch Kaiju](http://9gag.com/gag/axydqrY)<!-- MEMES:END -->
 
 ---
 
