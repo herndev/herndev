@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s plan to pay users to watch videos has just hit a snag](https://www.androidauthority.com/tiktok-lite-potential-eu-suspension-3436184/)
- - [Europe&#39;s main financial entity believes Apple&#39;s proposed iPhone NFC changes aren&#39;t enough](https://appleinsider.com/articles/24/04/22/europes-main-financial-entity-believes-apples-proposed-iphone-nfc-changes-arent-enough?utm_medium=rss)
- - [Android 15 beta 1.1 rolling out with NFC fix](https://www.androidauthority.com/android-15-beta-1-1-3436193/)<!-- TECH:END -->
+ - [Source: UnitedHealth&#39;s Change Healthcare was compromised on February 12, nine days before the ransomware attack, and the company paid a ransom to the hackers &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/240422/p18#a240422p18)
+ - [Android 15 update tracker: When will your phone get it?](https://www.androidauthority.com/android-15-update-3415425/)
+ - [Android 15 release date: When is the next update coming?](https://www.androidauthority.com/android-15-release-schedule-3415324/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
