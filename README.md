@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Loll](http://9gag.com/gag/aQzPBmW)
- - ⏩ [Zucc cooked](http://9gag.com/gag/aW4QyPK)
- - 👉 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)<!-- MEMES:END -->
+ - 💣 [92](http://9gag.com/gag/aPAwqbK)
+ - ⏩ [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 👉 [His last show.](http://9gag.com/gag/a6Zm0QL)<!-- MEMES:END -->
 
 ---
 
