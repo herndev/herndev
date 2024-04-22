@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They always win](http://9gag.com/gag/a4PKD0v)
- - ⏩ [Why is this so true](http://9gag.com/gag/aPAwKXQ)
- - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
+ - 💣 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
+ - ⏩ [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
+ - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
 
 ---
 
