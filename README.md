@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi: Survivor Comes To EA Play Ahead Of Expected Subscription Hike](https://kotaku.com/stars-wars-jedi-survivor-ea-play-subscription-hike-1851426159)
- - [Diablo is donating 6.66 million maggots and counting to a wildlife sanctuary in honour of Duriel the Maggot King](https://www.pcgamer.com/games/rpg/diablo-is-donating-666-million-maggots-and-counting-to-a-wildlife-sanctuary-in-honour-of-duriel-the-maggot-king)
- - [Nearly 9 years after release, Fallout 4 was one of the most played Steam games this weekend](https://www.pcgamer.com/games/rpg/nearly-9-years-after-release-fallout-4-was-one-of-the-most-played-steam-games-this-weekend)<!-- GAME:END -->
+ - [New Retro Shooter Mashes Duke Nukem And Half-Life Together](https://kotaku.com/phantom-fury-review-is-it-good-fps-retro-pc-boomer-1851426541)
+ - [The Army Painter’s new metallic Speedpaints are way better than Games Workshop’s](https://www.polygon.com/tabletop-games/24137184/army-painters-warpaints-fanatic-launch-speedpaint-metallics-impressions)
+ - [LittleBigPlanet 3 nukes servers and library of player creations](https://www.polygon.com/24137118/littlebigplanet-3-servers-offline-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
