@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)
- - ⏩ [His last show.](http://9gag.com/gag/a6Zm0QL)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 💣 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
+ - ⏩ [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
 
 ---
 
