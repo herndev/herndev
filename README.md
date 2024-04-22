@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eiyuden Chronicle: Hundred Heroes review](https://www.pcgamer.com/games/rpg/eiyuden-chronicle-hundred-heroes-review)
- - [Thirsty for more Dune? Check out this $18 Humble Bundle](https://www.polygon.com/deals/24137276/dune-books-humble-bundle-deal-sale)
- - [Eiyuden Chronicle Is A Rough But Beautiful Love Letter To Suikoden](https://kotaku.com/eiyuden-chronicle-hundred-heroes-suikoden-2-ps1-rpg-1851427201)<!-- GAME:END -->
+ - [Tomb Raider 3 Update Secretly Nukes Lara Croft Pinups](https://kotaku.com/tomb-raider-3-remastered-patch-notes-posters-1851427547)
+ - [When does The Final Shape raid release in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24137236/final-shape-raid-release-date-start-time)
+ - [Fortnite&#39;s Battle Royale Mode Was Designed During An Uber Ride](https://kotaku.com/fortnite-battle-royale-interview-epic-mustard-uber-ride-1851427317)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
