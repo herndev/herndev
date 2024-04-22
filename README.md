@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s a reason this guy went with a leg based sport](http://9gag.com/gag/a87LPvV)
+ - 💣 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
  - ⏩ [Un attended !](http://9gag.com/gag/a2vzexZ)
- - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
+ - 👉 [And Then?](http://9gag.com/gag/a87LP3Z)<!-- MEMES:END -->
 
 ---
 
