@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomb Raider 3 Update Secretly Nukes Lara Croft Pinups](https://kotaku.com/tomb-raider-3-remastered-patch-notes-posters-1851427547)
- - [When does The Final Shape raid release in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24137236/final-shape-raid-release-date-start-time)
- - [Fortnite&#39;s Battle Royale Mode Was Designed During An Uber Ride](https://kotaku.com/fortnite-battle-royale-interview-epic-mustard-uber-ride-1851427317)<!-- GAME:END -->
+ - [El Paso, Elsewhere, a Max Payne-inspired shooter about keeping your vampire ex-lover from destroying the world, is being made into a movie](https://www.pcgamer.com/movies-tv/el-paso-elsewhere-a-max-payne-inspired-shooter-about-keeping-your-vampire-ex-lover-from-destroying-the-world-is-being-made-into-a-movie)
+ - [Blizzard &#39;remixed&#39; one of the best WoW expansions with new items and boosted XP and it starts next month](https://www.pcgamer.com/games/world-of-warcraft/blizzard-remixed-one-of-the-best-wow-expansions-with-new-items-and-boosted-xp-and-it-starts-next-month)
+ - [Tomb Raider 3 Update Secretly Nukes Lara Croft Pinups](https://kotaku.com/tomb-raider-3-remastered-patch-notes-posters-1851427547)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
