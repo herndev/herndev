@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple might be the streaming home of soccer’s next big tournament](https://www.theverge.com/2024/4/22/24137251/apple-streaming-fifa-club-world-cup-report)
- - [Best Buy kicks off new M3 MacBook Air sale, blowout M2 deals up to $400 off still available](https://appleinsider.com/articles/24/04/22/best-buy-kicks-off-new-m3-macbook-air-sale-blowout-m2-deals-up-to-400-off-still-available?utm_medium=rss)
- - [Some Mercedes Self-Driving Cars Won&#39;t Require You to Even Watch the Road     - CNET](https://www.cnet.com/roadshow/news/some-mercedes-self-driving-cars-wont-require-you-to-even-watch-the-road/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Roborock Q7 Max Plus is almost 50% off today](https://www.androidauthority.com/roborock-q7-max-plus-deal-3436166/)
+ - [Calling all audiophiles: Moondrop teases its first Hi-Fi smartphone with new image](https://www.androidauthority.com/moondrop-miad-01-teaser-3436146/)
+ - [Android 15 will make it easier to deal with notification clutter](https://www.androidauthority.com/android-15-hide-unused-notification-channels-3436165/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
