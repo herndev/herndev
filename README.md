@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [IGN x ID@Xbox Digital Showcase Returns April 29, 2024](https://news.xbox.com/en-us/2024/04/22/ign-x-idxbox-digital-showcase-returns/)
- - [With nine BIOS updates and a new warranty extension, Asus is trying its best to move forward from the ROG Ally&#39;s SD card woes](https://www.pcgamer.com/hardware/handheld-gaming-pcs/with-nine-bios-updates-and-a-new-warranty-extension-asus-is-trying-its-best-to-move-forward-from-the-rog-allys-sd-card-woes)
- - [What do you mean you&#39;ve never played Half-Life: Alyx? Y&#39;know one of the best VR headsets is down below $200 for the first time, right?](https://www.pcgamer.com/hardware/vr-hardware/what-do-you-mean-youve-never-played-half-life-alyx-yknow-one-of-the-best-vr-headsets-is-down-below-dollar200-for-the-first-time-right)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor Comes To EA Play Ahead Of Expected Subscription Hike](https://kotaku.com/stars-wars-jedi-survivor-ea-play-subscription-hike-1851426159)
+ - [Diablo is donating 6.66 million maggots and counting to a wildlife sanctuary in honour of Duriel the Maggot King](https://www.pcgamer.com/games/rpg/diablo-is-donating-666-million-maggots-and-counting-to-a-wildlife-sanctuary-in-honour-of-duriel-the-maggot-king)
+ - [Nearly 9 years after release, Fallout 4 was one of the most played Steam games this weekend](https://www.pcgamer.com/games/rpg/nearly-9-years-after-release-fallout-4-was-one-of-the-most-played-steam-games-this-weekend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
