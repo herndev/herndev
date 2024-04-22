@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese Chef &amp; Waiter.](http://9gag.com/gag/aE0v3Yp)
- - ⏩ [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)
- - 👉 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)<!-- MEMES:END -->
+ - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - ⏩ [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 ---
 
