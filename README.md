@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub, Stripchat, and XVideos will have to comply with additional obligations, such as submitting risk assessment reports, under the EU DSA starting next week &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240419/p14#a240419p14)
- - [You can buy a refurbished Steam Deck for almost half off](https://www.theverge.com/2024/4/19/24135233/value-steam-deck-deal-sale)
- - [Cicadas Are Coming, and So Are the Cicada Salad Recipes     - CNET](https://www.cnet.com/science/cicadas-are-coming-and-so-are-the-cicada-salad-recipes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Home Assistant, an open-source smart home platform with an estimated 1M users, as its creators announce a foundation to help it reach the mainstream &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240421/p5#a240421p5)
+ - [From &#39;Knuckles&#39; to &#39;Dead Boy Detectives&#39;: Here&#39;s What You Gotta Stream This Week     - CNET](https://www.cnet.com/tech/services-and-software/from-knuckles-to-dead-boy-detectives-heres-what-you-gotta-stream-this-week/#ftag=CAD590a51e)
+ - [Why is ChatGPT so slow? Here’s how to speed up the chatbot’s responses](https://www.androidauthority.com/why-is-chatgpt-so-slow-response-3435940/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
