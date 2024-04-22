@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
- - ⏩ [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
+ - 💣 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
+ - ⏩ [Consequences of your actions](http://9gag.com/gag/aYQN8LN)
+ - 👉 [F**king legend](http://9gag.com/gag/aD2AK4d)<!-- MEMES:END -->
 
 ---
 
