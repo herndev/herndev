@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tattoo artist behind LeBron James&#39; ink loses lawsuit claiming his art in NBA 2K was copyrighted](https://www.pcgamer.com/games/sports/tattoo-artist-behind-lebron-james-ink-loses-lawsuit-claiming-his-art-in-nba-2k-was-copyrighted)
- - [Explore New Worlds and Solve Environmental Challenges With Gaming This Earth Day](https://news.xbox.com/en-us/2024/04/22/xbox-earth-day-2024/)
- - [Embracer Group embraces its new future as three separate companies including &#39;Middle-earth and Friends&#39;, which its CEO says &#39;reinforces Embracer&#39;s vision of backing entrepreneurs and creators with a long-term mindset&#39;](https://www.pcgamer.com/games/embracer-group-embraces-its-new-future-as-three-separate-companies-including-middle-earth-and-friends-which-its-ceo-says-reinforces-embracers-vision-of-backing-entrepreneurs-and-creators-with-a-long-term-mindset)<!-- GAME:END -->
+ - [IGN x ID@Xbox Digital Showcase Returns April 29, 2024](https://news.xbox.com/en-us/2024/04/22/ign-x-idxbox-digital-showcase-returns/)
+ - [With nine BIOS updates and a new warranty extension, Asus is trying its best to move forward from the ROG Ally&#39;s SD card woes](https://www.pcgamer.com/hardware/handheld-gaming-pcs/with-nine-bios-updates-and-a-new-warranty-extension-asus-is-trying-its-best-to-move-forward-from-the-rog-allys-sd-card-woes)
+ - [What do you mean you&#39;ve never played Half-Life: Alyx? Y&#39;know one of the best VR headsets is down below $200 for the first time, right?](https://www.pcgamer.com/hardware/vr-hardware/what-do-you-mean-youve-never-played-half-life-alyx-yknow-one-of-the-best-vr-headsets-is-down-below-dollar200-for-the-first-time-right)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
