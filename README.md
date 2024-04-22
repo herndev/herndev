@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Semiconductor Giant ASML Has a New Boss, and a Big Problem](https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/)
- - [Tinder announces Share My Date, allowing users to share their date plans with friends, including their match&#39;s name, meeting location, date, and time &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240422/p3#a240422p3)
- - [Samsung offers free screen replacement for Galaxy phones with green line issue](https://www.androidauthority.com/samsung-green-line-issue-free-screen-replacement-3435963/)<!-- TECH:END -->
+ - [The Gemini app is getting a speed boost with ‘real-time responses’](https://www.androidauthority.com/google-gemini-real-time-responses-3435563/)
+ - [Pixel phones getting second April update with fix for widespread network issue](https://www.androidauthority.com/google-pixel-owners-calls-text-network-issues-fixed-april-update-3435982/)
+ - [Semiconductor Giant ASML Has a New Boss, and a Big Problem](https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
