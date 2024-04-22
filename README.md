@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
+ - 💣 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
  - ⏩ [Un attended !](http://9gag.com/gag/a2vzexZ)
- - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
+ - 👉 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)<!-- MEMES:END -->
 
 ---
 
