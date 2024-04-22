@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An estimated 1000 people live underground in the flood tunnels underneath Las Vegas](http://9gag.com/gag/aMV2o7G)
- - ⏩ [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 👉 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)<!-- MEMES:END -->
+ - 💣 [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - ⏩ [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
+ - 👉 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)<!-- MEMES:END -->
 
 ---
 
