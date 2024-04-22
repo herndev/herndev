@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - ⏩ [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 💣 [Dafuq did i just watch](http://9gag.com/gag/avypM65)
+ - ⏩ [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
 
 ---
 
