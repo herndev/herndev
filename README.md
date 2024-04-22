@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;April 22, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-22-2024)
- - [The ultimate bloatware removal tool now works on any version of Windows 11](https://www.pcgamer.com/software/windows/the-ultimate-bloatware-removal-tool-now-works-on-any-version-of-windows-11)
- - [Toss, perch on, and leap from your magic staff in the demo for action platformer Akatori](https://www.pcgamer.com/games/action/toss-perch-on-and-leap-from-your-magic-staff-in-the-demo-for-action-platformer-akatori)<!-- GAME:END -->
+ - [Magic: The Gathering&#39;s latest set gives you a good excuse to dig out those old cards](https://www.pcgamer.com/games/card-games/magic-the-gatherings-latest-gives-you-a-good-excuse-to-dig-out-those-old-cards)
+ - [Today&#39;s Wordle answer for Monday, April 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-22-2024)
+ - [Five new Steam games you probably missed &lpar;April 22, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-22-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
