@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Roborock Q7 Max Plus is almost 50% off today](https://www.androidauthority.com/roborock-q7-max-plus-deal-3436166/)
- - [Calling all audiophiles: Moondrop teases its first Hi-Fi smartphone with new image](https://www.androidauthority.com/moondrop-miad-01-teaser-3436146/)
- - [Android 15 will make it easier to deal with notification clutter](https://www.androidauthority.com/android-15-hide-unused-notification-channels-3436165/)<!-- TECH:END -->
+ - [TikTok’s plan to pay users to watch videos has just hit a snag](https://www.androidauthority.com/tiktok-lite-potential-eu-suspension-3436184/)
+ - [Europe&#39;s main financial entity believes Apple&#39;s proposed iPhone NFC changes aren&#39;t enough](https://appleinsider.com/articles/24/04/22/europes-main-financial-entity-believes-apples-proposed-iphone-nfc-changes-arent-enough?utm_medium=rss)
+ - [Android 15 beta 1.1 rolling out with NFC fix](https://www.androidauthority.com/android-15-beta-1-1-3436193/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
