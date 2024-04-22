@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nike&#39;s Layoffs Prove the Olympics Can&#39;t Solve Its Midlife Crisis](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)
- - [Apparent Nothing data breach exposes community member email addresses](https://www.androidauthority.com/nothing-community-alleged-data-breach-3436010/)
- - [ESR takes a chance launching cases for 12.9-inch iPad Air before announcement](https://appleinsider.com/articles/24/04/22/esr-takes-a-chance-launching-cases-for-129-inch-ipad-air-before-announcement?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s not-so-FineWoven accessory line may soon be discontinued](https://www.androidauthority.com/apple-finewoven-soon-discontinued-3436042/)
+ - [A profile of Aleksanteri Kivim&amp;auml;ki, a prolific hacker wunderkind with a mean streak, who stood trial over a ransomware attack on Finnish health provider Vastaamo &lpar;Drake Bennett/Bloomberg&rpar;](http://www.techmeme.com/240422/p9#a240422p9)
+ - [Microsoft makes it easier to install Windows store apps from the web](https://www.theverge.com/2024/4/22/24136942/microsoft-store-installers-web-download-windows)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
