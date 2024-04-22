@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [El Paso, Elsewhere, a Max Payne-inspired shooter about keeping your vampire ex-lover from destroying the world, is being made into a movie](https://www.pcgamer.com/movies-tv/el-paso-elsewhere-a-max-payne-inspired-shooter-about-keeping-your-vampire-ex-lover-from-destroying-the-world-is-being-made-into-a-movie)
- - [Blizzard &#39;remixed&#39; one of the best WoW expansions with new items and boosted XP and it starts next month](https://www.pcgamer.com/games/world-of-warcraft/blizzard-remixed-one-of-the-best-wow-expansions-with-new-items-and-boosted-xp-and-it-starts-next-month)
- - [Tomb Raider 3 Update Secretly Nukes Lara Croft Pinups](https://kotaku.com/tomb-raider-3-remastered-patch-notes-posters-1851427547)<!-- GAME:END -->
+ - [Check Out the First Metaphor: ReFantazio Gameplay Reveal, Launching October 11](https://news.xbox.com/en-us/2024/04/22/metaphor-refantazio-gameplay-reveal/)
+ - [Get To Know Our Team: Vanessa – Technical Program Manager &lpar;Xbox Everywhere &amp; Cloud Gaming&rpar;](https://news.xbox.com/en-us/2024/04/22/get-to-know-our-team-vanessa-technical-program-manager-xbox-everywhere-cloud-gaming/)
+ - [How do the Fallout show&#39;s Vault suits look so good? Niche Italian fabric, it turns out](https://www.pcgamer.com/movies-tv/fallout-show-vault-suit-costume-fabric)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
