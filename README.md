@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valheim&#39;s &#39;most challenging biome yet&#39; is now available for public testing](https://www.pcgamer.com/games/survival-crafting/valheim-ashlands-public-test-update)
- - [Asus adds &#39;Intel Baseline Profile&#39; to the latest BIOS files for better stability but the TDP is still higher than Intel&#39;s stock value](https://www.pcgamer.com/hardware/motherboards/asus-adds-intel-baseline-profile-to-the-latest-bios-files-for-better-stability-but-the-tdp-is-still-higher-than-intels-stock-value)
- - [7 Days to Die is leaving early access after almost 12 years](https://www.polygon.com/24137266/7-days-to-die-leaving-early-access-the-fun-pimps)<!-- GAME:END -->
+ - [Video Game Adaptations Keep Coming As A Hit Indie Shooter Gets A Movie](https://kotaku.com/el-paso-elsewhere-max-payne-stanfield-movie-film-indie-1851427111)
+ - [Pokémon Go ‘Sustainability Week 2024’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2024/4/22/24137325/sustainability-week-2024-collection-challenge-shiny-eggs)
+ - [Path of Exile studio warns of &#39;malicious&#39; phishing post that appeared on Steam, tells players &#39;please take immediate action to secure your account&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-studio-warns-of-malicious-phishing-post-that-appeared-on-steam-tells-players-please-take-immediate-action-to-secure-your-account)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
