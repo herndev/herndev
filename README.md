@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Retro Shooter Mashes Duke Nukem And Half-Life Together](https://kotaku.com/phantom-fury-review-is-it-good-fps-retro-pc-boomer-1851426541)
- - [The Army Painter’s new metallic Speedpaints are way better than Games Workshop’s](https://www.polygon.com/tabletop-games/24137184/army-painters-warpaints-fanatic-launch-speedpaint-metallics-impressions)
- - [LittleBigPlanet 3 nukes servers and library of player creations](https://www.polygon.com/24137118/littlebigplanet-3-servers-offline-2024)<!-- GAME:END -->
+ - [Valheim&#39;s &#39;most challenging biome yet&#39; is now available for public testing](https://www.pcgamer.com/games/survival-crafting/valheim-ashlands-public-test-update)
+ - [Asus adds &#39;Intel Baseline Profile&#39; to the latest BIOS files for better stability but the TDP is still higher than Intel&#39;s stock value](https://www.pcgamer.com/hardware/motherboards/asus-adds-intel-baseline-profile-to-the-latest-bios-files-for-better-stability-but-the-tdp-is-still-higher-than-intels-stock-value)
+ - [7 Days to Die is leaving early access after almost 12 years](https://www.polygon.com/24137266/7-days-to-die-leaving-early-access-the-fun-pimps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
