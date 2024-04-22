@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: UnitedHealth&#39;s Change Healthcare was compromised on February 12, nine days before the ransomware attack, and the company paid a ransom to the hackers &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/240422/p18#a240422p18)
- - [Android 15 update tracker: When will your phone get it?](https://www.androidauthority.com/android-15-update-3415425/)
- - [Android 15 release date: When is the next update coming?](https://www.androidauthority.com/android-15-release-schedule-3415324/)<!-- TECH:END -->
+ - [Gemini for Android will soon allow general file uploads, not just images](https://www.androidauthority.com/gemini-file-uploads-3436203/)
+ - [Why DolphiniOS’s Wii and GameCube emulator isn’t coming to the App Store](https://www.theverge.com/2024/4/22/24137369/dolphinios-emulator-apple-app-store-jit)
+ - [WhatsApp may soon let you share encrypted files without an internet connection](https://www.androidauthority.com/whatsapps-nearby-filesharing-3436050/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
