@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s not-so-FineWoven accessory line may soon be discontinued](https://www.androidauthority.com/apple-finewoven-soon-discontinued-3436042/)
- - [A profile of Aleksanteri Kivim&amp;auml;ki, a prolific hacker wunderkind with a mean streak, who stood trial over a ransomware attack on Finnish health provider Vastaamo &lpar;Drake Bennett/Bloomberg&rpar;](http://www.techmeme.com/240422/p9#a240422p9)
- - [Microsoft makes it easier to install Windows store apps from the web](https://www.theverge.com/2024/4/22/24136942/microsoft-store-installers-web-download-windows)<!-- TECH:END -->
+ - [BYD Seal 2024 Review: Prices, Specs, Availability](https://www.wired.com/review/review-byd-seal-2024/)
+ - [The Skullcandy Crusher Evo plunges 50% in rare deal](https://www.androidauthority.com/skullcandy-crusher-evo-deal-3435933/)
+ - [16 Best Recycled and Upcycled Clothes &lpar;2024&rpar;: Leggings, Sneakers, T-shirts](https://www.wired.com/gallery/our-favorite-recycled-clothes-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
