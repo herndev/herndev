@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [North Koreans Secretly Animated Amazon and Max Shows, Researchers Say](https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/)
  - [The Gemini app is getting a speed boost with ‘real-time responses’](https://www.androidauthority.com/google-gemini-real-time-responses-3435563/)
- - [Pixel phones getting second April update with fix for widespread network issue](https://www.androidauthority.com/google-pixel-owners-calls-text-network-issues-fixed-april-update-3435982/)
- - [Semiconductor Giant ASML Has a New Boss, and a Big Problem](https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/)<!-- TECH:END -->
+ - [Pixel phones getting second April update with fix for widespread network issue](https://www.androidauthority.com/google-pixel-owners-calls-text-network-issues-fixed-april-update-3435982/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
