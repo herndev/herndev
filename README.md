@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [92](http://9gag.com/gag/aPAwqbK)
- - ⏩ [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 👉 [His last show.](http://9gag.com/gag/a6Zm0QL)<!-- MEMES:END -->
+ - 💣 [F**king legend](http://9gag.com/gag/aD2AK4d)
+ - ⏩ [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 ---
 
