@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BYD Seal 2024 Review: Prices, Specs, Availability](https://www.wired.com/review/review-byd-seal-2024/)
- - [The Skullcandy Crusher Evo plunges 50% in rare deal](https://www.androidauthority.com/skullcandy-crusher-evo-deal-3435933/)
- - [16 Best Recycled and Upcycled Clothes &lpar;2024&rpar;: Leggings, Sneakers, T-shirts](https://www.wired.com/gallery/our-favorite-recycled-clothes-and-accessories/)<!-- TECH:END -->
+ - [Discord CEO Jason Citron makes the case for a smaller, more private internet](https://www.theverge.com/24134914/discord-ceo-gaming-chat-teens-safety-moderation-decoder-interview)
+ - [Buckle and Band offers a new take on designer Apple Watch bands for sophisticated owners](https://appleinsider.com/articles/24/04/22/buckle-and-band-offers-a-new-take-on-designer-apple-watch-bands?utm_medium=rss)
+ - [Deadpool and Wolverine whip out the big guns in latest trailer](https://www.theverge.com/24137038/deadpool-and-wolverine-trailer-sleeves-cassandra-nova)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
