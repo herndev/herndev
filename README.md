@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft&#39;s VASA-1 takes AI-generated video one step closer to &#39;aw hell, we&#39;re all doomed&#39;](https://www.pcgamer.com/software/ai/microsofts-vasa-1-takes-ai-generated-video-one-step-closer-to-aw-hell-were-all-doomed)
  - [Knuckles Is Barely In His Paramount+ Show](https://kotaku.com/knuckles-paramount-plus-show-episodes-idris-elba-1851423004)
- - [The Knuckles Show Isn’t The Spin-Off Its Hero Deserves](https://kotaku.com/knuckles-review-paramount-plus-episodes-season-one-1851423404)
- - [Windows 10 users are soon to be hit with nagging prompts asking them to create an online account](https://www.pcgamer.com/software/windows/windows-10-users-are-soon-to-be-hit-with-nagging-prompts-asking-them-to-create-an-online-account)<!-- GAME:END -->
+ - [The Knuckles Show Isn’t The Spin-Off Its Hero Deserves](https://kotaku.com/knuckles-review-paramount-plus-episodes-season-one-1851423404)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
