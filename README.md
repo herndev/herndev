@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
- - ⏩ [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 💣 [An estimated 1000 people live underground in the flood tunnels underneath Las Vegas](http://9gag.com/gag/aMV2o7G)
+ - ⏩ [Only boomers know this](http://9gag.com/gag/aAyR8j0)
  - 👉 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)<!-- MEMES:END -->
 
 ---
