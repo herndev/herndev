@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23 Everyday Products Made of Recycled Materials &lpar;2024&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)
- - [The Feds Just Announced a $7B Plan to Make Solar Affordable     - CNET](https://www.cnet.com/home/energy-and-utilities/the-feds-just-announced-a-7b-plan-to-make-solar-affordable/#ftag=CAD590a51e)
- - [Celebrate Mother Earth With These Eco-Friendly Earth Day Deals     - CNET](https://www.cnet.com/deals/celebrate-mother-earth-with-these-eco-friendly-earth-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple might be the streaming home of soccer’s next big tournament](https://www.theverge.com/2024/4/22/24137251/apple-streaming-fifa-club-world-cup-report)
+ - [Best Buy kicks off new M3 MacBook Air sale, blowout M2 deals up to $400 off still available](https://appleinsider.com/articles/24/04/22/best-buy-kicks-off-new-m3-macbook-air-sale-blowout-m2-deals-up-to-400-off-still-available?utm_medium=rss)
+ - [Some Mercedes Self-Driving Cars Won&#39;t Require You to Even Watch the Road     - CNET](https://www.cnet.com/roadshow/news/some-mercedes-self-driving-cars-wont-require-you-to-even-watch-the-road/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
