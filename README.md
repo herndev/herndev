@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)
- - ⏩ [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
- - 👉 [His last show.](http://9gag.com/gag/a6Zm0QL)<!-- MEMES:END -->
+ - 💣 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
+ - ⏩ [92](http://9gag.com/gag/aPAwqbK)
+ - 👉 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)<!-- MEMES:END -->
 
 ---
 
