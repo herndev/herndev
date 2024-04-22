@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Knuckles Is Barely In His Paramount+ Show](https://kotaku.com/knuckles-paramount-plus-show-episodes-idris-elba-1851423004)
  - [The Knuckles Show Isn’t The Spin-Off Its Hero Deserves](https://kotaku.com/knuckles-review-paramount-plus-episodes-season-one-1851423404)
- - [Windows 10 users are soon to be hit with nagging prompts asking them to create an online account](https://www.pcgamer.com/software/windows/windows-10-users-are-soon-to-be-hit-with-nagging-prompts-asking-them-to-create-an-online-account)
- - [Fallout TV show sneaks in New Vegas lead designer&#39;s map of the setting](https://www.pcgamer.com/movies-tv/the-fallout-tv-show-snuck-in-the-new-vegas-lead-designers-map-of-the-usa)<!-- GAME:END -->
+ - [Windows 10 users are soon to be hit with nagging prompts asking them to create an online account](https://www.pcgamer.com/software/windows/windows-10-users-are-soon-to-be-hit-with-nagging-prompts-asking-them-to-create-an-online-account)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
