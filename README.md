@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan&#39;s FTC says Google blocked Yahoo Japan from accessing targeted ad revenue from mobile searches between 2015 and 2022; Alphabet changed its practices &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240422/p6#a240422p6)
- - [A US judge sentences HeadSpin founder Manish Lachwani to 18 months and a $1M fine over inflated financials; HeadSpin raised $117M and hit a $1.1B valuation &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240422/p5#a240422p5)
- - [Gaming giant Embracer Group is splitting into three companies](https://www.theverge.com/2024/4/22/24136934/embracer-group-splitting-three-companies-middle-earth-enterprises)<!-- TECH:END -->
+ - [Nike&#39;s Layoffs Prove the Olympics Can&#39;t Solve Its Midlife Crisis](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)
+ - [Apparent Nothing data breach exposes community member email addresses](https://www.androidauthority.com/nothing-community-alleged-data-breach-3436010/)
+ - [ESR takes a chance launching cases for 12.9-inch iPad Air before announcement](https://appleinsider.com/articles/24/04/22/esr-takes-a-chance-launching-cases-for-129-inch-ipad-air-before-announcement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
