@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - ⏩ [Consequences of your actions](http://9gag.com/gag/aYQN8LN)
- - 👉 [F**king legend](http://9gag.com/gag/aD2AK4d)<!-- MEMES:END -->
+ - 💣 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
+ - ⏩ [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)
+ - 👉 [Tetteenn](http://9gag.com/gag/a1mv6y2)<!-- MEMES:END -->
 
 ---
 
