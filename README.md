@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HR software company Rippling announces a $200M Series F led by Coatue at a $13.5B valuation, up from $11.25B in March 2023, and a separate $590M tender offer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240422/p20#a240422p20)
- - [Mysterious Google smartwatch that’s likely not the Pixel Watch 3 hits the FCC](https://www.androidauthority.com/google-smartwatch-arrives-at-fcc-3436244/)
- - [We found a database of Nothing community members’ emails from 2022 &lpar;Update: Nothing statement&rpar;](https://www.androidauthority.com/nothing-community-alleged-data-breach-3436010/)<!-- TECH:END -->
+ - [Fresh details emerge for Samsung’s upcoming Z Fold 6 and Z Flip 6 foldables](https://www.androidauthority.com/z-fold-6-flip-6-colors-3436274/)
+ - [Amazon ends drone deliveries in Lockeford, California, which began in 2022, and plans to expand them to Tolleson, Arizona, in 2024 and other US regions in 2025 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240422/p21#a240422p21)
+ - [Gemini Android app will finally not force you to copy an entire prompt response](https://www.androidauthority.com/gemini-select-text-3436270/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
