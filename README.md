@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Consequences of your actions](http://9gag.com/gag/aYQN8LN)
- - ⏩ [Welcome home!](http://9gag.com/gag/adB0m9V)
- - 👉 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)<!-- MEMES:END -->
+ - 💣 [There&#39;s a reason this guy went with a leg based sport](http://9gag.com/gag/a87LPvV)
+ - ⏩ [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
 
 ---
 
