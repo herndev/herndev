@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung offers free screen replacement for Galaxy phones with green line issue](https://www.androidauthority.com/samsung-green-line-issue-free-screen-replacement-3435963/)
- - [Memo to its US staff: TikTok vows legal battle if US&#39; divestment bill becomes a law, saying the bill is &quot;a clear violation&quot; of its users&#39; First Amendment rights &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240422/p2#a240422p2)
- - [Source: Salesforce has backed away from its talks to acquire cloud data management company Informatica, after the two companies could not agree on terms &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/240422/p1#a240422p1)<!-- TECH:END -->
+ - [Semiconductor Giant ASML Has a New Boss, and a Big Problem](https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/)
+ - [Tinder announces Share My Date, allowing users to share their date plans with friends, including their match&#39;s name, meeting location, date, and time &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240422/p3#a240422p3)
+ - [Samsung offers free screen replacement for Galaxy phones with green line issue](https://www.androidauthority.com/samsung-green-line-issue-free-screen-replacement-3435963/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
