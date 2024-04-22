@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Embracer Group embraces its new future as three separate companies including &#39;Middle-earth and Friends&#39;, which its CEO says &#39;reinforces Embracer&#39;s vision of backing entrepreneurs and creators with a long-term mindset&#39;](https://www.pcgamer.com/games/embracer-group-embraces-its-new-future-as-three-separate-companies-including-middle-earth-and-friends-which-its-ceo-says-reinforces-embracers-vision-of-backing-entrepreneurs-and-creators-with-a-long-term-mindset)
- - [The game that&#39;s all about drawing and creativity, Gartic Phone, adds and then swiftly removes an AI mode, in &#39;a straight-up slap in the face to any and all artists&#39;](https://www.pcgamer.com/games/puzzle/the-game-thats-all-about-drawing-and-creativity-gartic-phone-adds-and-then-swiftly-removes-an-ai-mode-in-a-straight-up-slap-in-the-face-to-any-and-all-artists)
- - [A new physics paper suggests that we may all be living in the ultimate 4X strategy game after all](https://www.pcgamer.com/hardware/a-new-physics-paper-suggests-that-we-may-all-be-living-in-the-ultimate-4x-strategy-game-after-all)<!-- GAME:END -->
+ - [Tattoo artist behind LeBron James&#39; ink loses lawsuit claiming his art in NBA 2K was copyrighted](https://www.pcgamer.com/games/sports/tattoo-artist-behind-lebron-james-ink-loses-lawsuit-claiming-his-art-in-nba-2k-was-copyrighted)
+ - [Explore New Worlds and Solve Environmental Challenges With Gaming This Earth Day](https://news.xbox.com/en-us/2024/04/22/xbox-earth-day-2024/)
+ - [Embracer Group embraces its new future as three separate companies including &#39;Middle-earth and Friends&#39;, which its CEO says &#39;reinforces Embracer&#39;s vision of backing entrepreneurs and creators with a long-term mindset&#39;](https://www.pcgamer.com/games/embracer-group-embraces-its-new-future-as-three-separate-companies-including-middle-earth-and-friends-which-its-ceo-says-reinforces-embracers-vision-of-backing-entrepreneurs-and-creators-with-a-long-term-mindset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
