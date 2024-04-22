@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - ⏩ [Sweden](http://9gag.com/gag/a9ybG4K)
- - 👉 [One Punch Kaiju](http://9gag.com/gag/axydqrY)<!-- MEMES:END -->
+ - 💣 [Japanese Chef &amp; Waiter.](http://9gag.com/gag/aE0v3Yp)
+ - ⏩ [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)
+ - 👉 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)<!-- MEMES:END -->
 
 ---
 
