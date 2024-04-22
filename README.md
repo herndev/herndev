@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only 4 more days](http://9gag.com/gag/abAXPx9)
- - ⏩ [Wish me luck](http://9gag.com/gag/awy06rx)
- - 👉 [And Then?](http://9gag.com/gag/a87LP3Z)<!-- MEMES:END -->
+ - 💣 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)
+ - ⏩ [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
 
 ---
 
