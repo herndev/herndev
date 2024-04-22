@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dafuq did i just watch](http://9gag.com/gag/avypM65)
- - ⏩ [Wish me luck](http://9gag.com/gag/awy06rx)
- - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
+ - 💣 [They always win](http://9gag.com/gag/a4PKD0v)
+ - ⏩ [Why is this so true](http://9gag.com/gag/aPAwKXQ)
+ - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
 
 ---
 
