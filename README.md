@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Video Game Adaptations Keep Coming As A Hit Indie Shooter Gets A Movie](https://kotaku.com/el-paso-elsewhere-max-payne-stanfield-movie-film-indie-1851427111)
- - [Pokémon Go ‘Sustainability Week 2024’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2024/4/22/24137325/sustainability-week-2024-collection-challenge-shiny-eggs)
- - [Path of Exile studio warns of &#39;malicious&#39; phishing post that appeared on Steam, tells players &#39;please take immediate action to secure your account&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-studio-warns-of-malicious-phishing-post-that-appeared-on-steam-tells-players-please-take-immediate-action-to-secure-your-account)<!-- GAME:END -->
+ - [Eiyuden Chronicle: Hundred Heroes review](https://www.pcgamer.com/games/rpg/eiyuden-chronicle-hundred-heroes-review)
+ - [Thirsty for more Dune? Check out this $18 Humble Bundle](https://www.polygon.com/deals/24137276/dune-books-humble-bundle-deal-sale)
+ - [Eiyuden Chronicle Is A Rough But Beautiful Love Letter To Suikoden](https://kotaku.com/eiyuden-chronicle-hundred-heroes-suikoden-2-ps1-rpg-1851427201)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
