@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Un attended !](http://9gag.com/gag/a2vzexZ)
- - ⏩ [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
- - 👉 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)<!-- MEMES:END -->
+ - 💣 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
+ - ⏩ [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
 
 ---
 
