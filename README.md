@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [North Koreans Secretly Animated Amazon and Max Shows, Researchers Say](https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/)
- - [The Gemini app is getting a speed boost with ‘real-time responses’](https://www.androidauthority.com/google-gemini-real-time-responses-3435563/)
- - [Pixel phones getting second April update with fix for widespread network issue](https://www.androidauthority.com/google-pixel-owners-calls-text-network-issues-fixed-april-update-3435982/)<!-- TECH:END -->
+ - [Watch: Here’s how Google tests Pixel cameras at its secret lab](https://www.androidauthority.com/google-pixel-camera-testing-lab-video-3435998/)
+ - [Swedish game developer Embracer Group plans to split itself into three publicly traded companies, focused on tabletop, indie, and AAA; EMBRAC-B.ST jumps 10%+ &lpar;Christopher Jungstedt/Bloomberg&rpar;](http://www.techmeme.com/240422/p4#a240422p4)
+ - [North Koreans Secretly Animated Amazon and Max Shows, Researchers Say](https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
