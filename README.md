@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: the 25 most-cited US news organizations lost 75% of their Facebook engagement and 58% of their Instagram interactions between Q1 2022 and Q1 2024 &lpar;Washington Post&rpar;](http://www.techmeme.com/240421/p6#a240421p6)
- - [Best Full Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-full-mattress/#ftag=CAD590a51e)
- - [A look at Home Assistant, an open-source smart home platform with an estimated 1M users, as its creators announce a foundation to help it reach the mainstream &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240421/p5#a240421p5)<!-- TECH:END -->
+ - [Samsung offers free screen replacement for Galaxy phones with green line issue](https://www.androidauthority.com/samsung-green-line-issue-free-screen-replacement-3435963/)
+ - [Memo to its US staff: TikTok vows legal battle if US&#39; divestment bill becomes a law, saying the bill is &quot;a clear violation&quot; of its users&#39; First Amendment rights &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240422/p2#a240422p2)
+ - [Source: Salesforce has backed away from its talks to acquire cloud data management company Informatica, after the two companies could not agree on terms &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/240422/p1#a240422p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
