@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Toss, perch on, and leap from your magic staff in the demo for action platformer Akatori](https://www.pcgamer.com/games/action/toss-perch-on-and-leap-from-your-magic-staff-in-the-demo-for-action-platformer-akatori)
- - [A leaked Call of Duty: Mobile skin turns a gun into a 3D animated WWII diorama where tiny little men fight and die in a miniature war, and it&#39;s so absurd I don&#39;t care how much it costs](https://www.pcgamer.com/games/call-of-duty/a-leaked-call-of-duty-mobile-skin-turns-a-gun-into-a-3d-animated-wwii-diorama-where-tiny-little-men-fight-and-die-in-a-miniature-war-and-its-so-absurd-i-dont-care-how-much-it-costs)
- - [Brotato has a DLC and a free, 4-player local co-op expansion incoming](https://www.pcgamer.com/games/roguelike/brotato-has-a-dlc-and-a-free-4-player-local-co-op-expansion-incoming)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;April 22, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-22-2024)
+ - [The ultimate bloatware removal tool now works on any version of Windows 11](https://www.pcgamer.com/software/windows/the-ultimate-bloatware-removal-tool-now-works-on-any-version-of-windows-11)
+ - [Toss, perch on, and leap from your magic staff in the demo for action platformer Akatori](https://www.pcgamer.com/games/action/toss-perch-on-and-leap-from-your-magic-staff-in-the-demo-for-action-platformer-akatori)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
