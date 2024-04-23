@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - ⏩ [And Then?](http://9gag.com/gag/a87LP3Z)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 💣 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
+ - ⏩ [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)
+ - 👉 [Un attended !](http://9gag.com/gag/a2vzexZ)<!-- MEMES:END -->
 
 ---
 
