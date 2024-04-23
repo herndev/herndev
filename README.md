@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
- - ⏩ [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 👉 [I don&#39;t speak French... but](http://9gag.com/gag/aLnK6wM)<!-- MEMES:END -->
+ - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - ⏩ [Give this person a medal.](http://9gag.com/gag/a4PKv76)
+ - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
 
 ---
 
