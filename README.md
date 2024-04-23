@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches Phi-3 Mini, a 3.8B-parameter model that competes with GPT-3.5, and plans to release Phi-3 Small and Phi-3 Medium with 7B and 14B parameters &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240423/p4#a240423p4)
- - [Here’s another clue a bigger iPad Air is just around the corner](https://www.androidauthority.com/ipad-air-12-9-cases-amazon-3436432/)
- - [A look at Jeff Yass&#39; Susquehanna International Group, which has a ~15% ByteDance stake worth ~$40B and has invested $3.5B+ across 350+ deals in China since 2005 &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p3#a240423p3)<!-- TECH:END -->
+ - [Kaiko: in the past year, Binance&#39;s bitcoin trading share outside the US fell from 81.3% to 55.3%, OKX&#39;s rose from 3% to 7.3%, and Bybit&#39;s rose from 2% to 9.3% &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240423/p8#a240423p8)
+ - [Photoshop gets update adding more powerful AI workflows](https://appleinsider.com/articles/24/04/23/photoshop-gets-update-adding-more-powerful-ai-workflows?utm_medium=rss)
+ - [Power Book 2: Ghost season 4 — Release date and other rumors](https://www.androidauthority.com/power-book-2-ghost-season-4-release-date-3436471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
