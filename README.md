@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [Getting an Oura Ring in the US just got way easier](https://www.androidauthority.com/oura-target-partnership-3436338/)
- - [Best Internet Providers in Carmel, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-carmel-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Change Healthcare Finally Admits It Paid Ransomware Hackers—and Still Faces a Patient Data Leak](https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/)
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2024     - CNET](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
+ - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
