@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kaiko: in the past year, Binance&#39;s bitcoin trading share outside the US fell from 81.3% to 55.3%, OKX&#39;s rose from 3% to 7.3%, and Bybit&#39;s rose from 2% to 9.3% &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240423/p8#a240423p8)
- - [Photoshop gets update adding more powerful AI workflows](https://appleinsider.com/articles/24/04/23/photoshop-gets-update-adding-more-powerful-ai-workflows?utm_medium=rss)
- - [Power Book 2: Ghost season 4 — Release date and other rumors](https://www.androidauthority.com/power-book-2-ghost-season-4-release-date-3436471/)<!-- TECH:END -->
+ - [iPhone sales in China fell 19.1% YoY to a 15.7% share in Q1 2024; Vivo fell 0.4% YoY to 17.4%, Honor rose 11.5% YoY to 16.1%, and Huawei rose 69.7% YoY to 15.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240423/p11#a240423p11)
+ - [iPhone isn&#39;t secure enough for the South Korea military - but Android is](https://appleinsider.com/articles/24/04/23/iphone-isnt-secure-enough-for-the-south-korea-military---but-android-is?utm_medium=rss)
+ - [Having app notifications issues with One UI 6.1? Try this fix](https://www.androidauthority.com/one-ui-6-1-notification-fix-3436498/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
