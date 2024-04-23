@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - ⏩ [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
- - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
+ - 💣 [I think they all should be taxed](http://9gag.com/gag/azxb7Nj)
+ - ⏩ [Eifell Tower made from spagheti](http://9gag.com/gag/aMV1e0x)
+ - 👉 [In a perfect world](http://9gag.com/gag/a9ydbPj)<!-- MEMES:END -->
 
 ---
 
