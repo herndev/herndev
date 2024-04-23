@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wish me luck](http://9gag.com/gag/awy06rx)
- - ⏩ [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
- - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
+ - 💣 [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - ⏩ [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
+ - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
 
 ---
 
