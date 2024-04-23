@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fresh details emerge for Samsung’s upcoming Z Fold 6 and Z Flip 6 foldables](https://www.androidauthority.com/z-fold-6-flip-6-colors-3436274/)
- - [Amazon ends drone deliveries in Lockeford, California, which began in 2022, and plans to expand them to Tolleson, Arizona, in 2024 and other US regions in 2025 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240422/p21#a240422p21)
- - [Gemini Android app will finally not force you to copy an entire prompt response](https://www.androidauthority.com/gemini-select-text-3436270/)<!-- TECH:END -->
+ - [Pixel 8a spotted in the wild, showing off its bold new colors](https://www.androidauthority.com/pixel-8a-color-options-leak-3436314/)
+ - [TabaPay, which offers instant payment services, agrees to acquire assets of banking-as-a-service startup Synapse, after Synapse filed for Chapter 11 bankruptcy &lpar;TechCrunch&rpar;](http://www.techmeme.com/240422/p22#a240422p22)
+ - [Money Hack: Want to Keep Subscription Costs Down? Use a Virtual Card     - CNET](https://www.cnet.com/personal-finance/always-use-a-virtual-card-for-subscriptions-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
