@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with 20+ current and former TSMC staff at its Arizona plant finds struggles over bridging Taiwanese and US norms, rigid hierarchies, and other issues &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240423/p28#a240423p28)
- - [T-Mobile’s new 5G internet plan lets you take your Wi-Fi on the road](https://www.theverge.com/2024/4/23/24138307/t-mobile-5g-home-internet-plus-away)
- - [This Is How Many Solar Panels You&#39;ll Need to Power Your Home     - CNET](https://www.cnet.com/home/energy-and-utilities/this-is-how-many-solar-panels-you-need-to-power-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Senate advances the bill forcing a sale or ban of TikTok, preparing for a final vote on the bill as soon as Tuesday evening &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/240423/p31#a240423p31)
+ - [Sources: IBM is nearing an acquisition of HashiCorp, which helps companies manage cloud infrastructure, in the coming days; HashiCorp&#39;s stock jumps 22%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240423/p30#a240423p30)
+ - [This Cash-Advance App Is Buying Petal Credit Card. Should You Be Worried?     - CNET](https://www.cnet.com/personal-finance/empower-finance-buys-petal-whats-that-mean-for-petal-credit-card-users/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
