@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why this GameCube, Wii emulator won’t come to the App Store](https://www.androidauthority.com/dolphinios-gamecube-wii-emulator-apple-app-store-3436415/)
- - [Q&amp;A with BCG CEO Christoph Schweizer, who says the consulting firm expects 20% of its 2024 and 40% of its 2026 revenue will come from helping firms integrate AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p2#a240423p2)
- - [The first brand to launch a Snapdragon 8 Gen 4 phone has been revealed](https://www.androidauthority.com/first-snapdragon-8-gen-4-phone-3436418/)<!-- TECH:END -->
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [Microsoft launches Phi-3, its smallest AI model yet](https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model)
+ - [Here’s why this GameCube, Wii emulator won’t come to the App Store](https://www.androidauthority.com/dolphinios-gamecube-wii-emulator-apple-app-store-3436415/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
