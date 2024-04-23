@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check Out the First Metaphor: ReFantazio Gameplay Reveal, Launching October 11](https://news.xbox.com/en-us/2024/04/22/metaphor-refantazio-gameplay-reveal/)
- - [Get To Know Our Team: Vanessa – Technical Program Manager &lpar;Xbox Everywhere &amp; Cloud Gaming&rpar;](https://news.xbox.com/en-us/2024/04/22/get-to-know-our-team-vanessa-technical-program-manager-xbox-everywhere-cloud-gaming/)
- - [How do the Fallout show&#39;s Vault suits look so good? Niche Italian fabric, it turns out](https://www.pcgamer.com/movies-tv/fallout-show-vault-suit-costume-fabric)<!-- GAME:END -->
+ - [Arrowhead&#39;s latest major order is exploiting the Helldiver 2 community&#39;s greatest weakness: communication](https://www.pcgamer.com/games/third-person-shooter/arrowheads-latest-major-order-is-exploiting-the-helldiver-2-communitys-greatest-weakness-communication)
+ - [Fortnite is adding a toggle to disable &#39;confrontational emotes&#39; including Laugh it Up and Take the L](https://www.pcgamer.com/games/battle-royale/fortnite-is-adding-a-toggle-to-disable-confrontational-emotes-including-laugh-it-up-and-take-the-l)
+ - [Check Out the First Metaphor: ReFantazio Gameplay Reveal, Launching October 11](https://news.xbox.com/en-us/2024/04/22/metaphor-refantazio-gameplay-reveal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
