@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s minimalistic home backup batteries are ready for blackout season](https://www.theverge.com/24136932/anker-solix-x1-home-battery-powerwall-alternative-specs)
- - [iPhone isn&#39;t secureable enough for the South Korea military - but Android is](https://appleinsider.com/articles/24/04/23/iphone-isnt-secure-enough-for-the-south-korea-military---but-android-is?utm_medium=rss)
- - [As Congress&#39; TikTok bill moves ahead, lawmakers must show the public on what grounds the government is banning a popular and culturally significant platform &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240423/p18#a240423p18)<!-- TECH:END -->
+ - [OnePlus Watch 2 Nordic Blue Edition makes better use of that big bezel](https://www.androidauthority.com/oneplus-watch-2-nordic-blue-edition-pad-go-eu-expansion-3436582/)
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
+ - [Asia is officially the most ‘disaster-prone’ region in the world](https://www.theverge.com/2024/4/23/24138101/asia-climate-change-weather-disasters-wmo-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
