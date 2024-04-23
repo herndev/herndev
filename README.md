@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think they all should be taxed](http://9gag.com/gag/azxb7Nj)
- - ⏩ [Eifell Tower made from spagheti](http://9gag.com/gag/aMV1e0x)
- - 👉 [In a perfect world](http://9gag.com/gag/a9ydbPj)<!-- MEMES:END -->
+ - 💣 [Eifell Tower made from spagheti](http://9gag.com/gag/aMV1e0x)
+ - ⏩ [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
+ - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
 
 ---
 
