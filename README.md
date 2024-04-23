@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s battle royale mode was cooked up in the back of an Uber in &#39;like, three hours&#39;](https://www.pcgamer.com/games/battle-royale/fortnites-battle-royale-mode-was-cooked-up-in-the-back-of-an-uber-in-like-three-hours)
- - [Star Wars Jedi: Survivor is a late addition to April’s Game Pass lineup](https://www.polygon.com/24131925/xbox-game-pass-april-lineup-ea-sports-nhl-24-manor-lords)
- - [EK admits fault for financial issues facing employees and business partners: &#39;We are committed to fulfilling our financial obligations and regaining your trust&#39;](https://www.pcgamer.com/hardware/liquid-cooling-company-ek-allegedly-facing-financial-difficulties-with-suppliers-partners-and-employees-claiming-theyre-bearing-the-brunt-of-it)<!-- GAME:END -->
+ - [The cursed Vault Boy drawing Fallout creators would like to forget, but fans never will](https://www.polygon.com/24133363/fallout-vault-boy-child-killer-reputation-perk)
+ - [Team Fortress 2 Patch Fixes Bug That Had Game Thinking Players Were Gordon Freeman](https://kotaku.com/team-fortress-2-patch-half-life-2-update-1851428546)
+ - [Why Nintendo wouldn’t let Samus be in Fortnite](https://www.polygon.com/24138083/samus-fortnite-skin-nintendo-refused)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
