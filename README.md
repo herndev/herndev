@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asus adds &#39;Intel Baseline Profile&#39; to new BIOS files to combat stability issues but the TDP is still higher than Intel&#39;s actual baselines](https://www.pcgamer.com/hardware/motherboards/asus-adds-intel-baseline-profile-to-the-latest-bios-files-for-better-stability-but-the-tdp-is-still-higher-than-intels-stock-value)
  - [DDR5-10000 memory is closer than ever after JEDEC, the managing body of the standard, extends the base DDR5 spec](https://www.pcgamer.com/hardware/memory/ddr5-10000-memory-is-closer-than-ever-after-jedec-the-managing-body-of-the-standard-extends-the-base-ddr5-spec)
- - [Fake Samsung 1080 Pro SSDs show up on Aliexpress, and the benchmark results are hilarious](https://www.pcgamer.com/software/windows/fake-samsung-1080-pro-ssds-show-up-on-aliexpress-and-the-benchmark-results-are-hilarious)
- - [Can Trubbish be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24137180/can-trubbish-be-shiny-garbodor)<!-- GAME:END -->
+ - [Fake Samsung 1080 Pro SSDs show up on Aliexpress, and the benchmark results are hilarious](https://www.pcgamer.com/software/windows/fake-samsung-1080-pro-ssds-show-up-on-aliexpress-and-the-benchmark-results-are-hilarious)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
