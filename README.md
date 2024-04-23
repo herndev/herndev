@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrowhead&#39;s latest major order is exploiting the Helldiver 2 community&#39;s greatest weakness: communication](https://www.pcgamer.com/games/third-person-shooter/arrowheads-latest-major-order-is-exploiting-the-helldiver-2-communitys-greatest-weakness-communication)
- - [Fortnite is adding a toggle to disable &#39;confrontational emotes&#39; including Laugh it Up and Take the L](https://www.pcgamer.com/games/battle-royale/fortnite-is-adding-a-toggle-to-disable-confrontational-emotes-including-laugh-it-up-and-take-the-l)
- - [Check Out the First Metaphor: ReFantazio Gameplay Reveal, Launching October 11](https://news.xbox.com/en-us/2024/04/22/metaphor-refantazio-gameplay-reveal/)<!-- GAME:END -->
+ - [This Total War: Shogun 2 mod lets you play out the real historical war that inspired the FX TV show](https://www.pcgamer.com/games/strategy/shogun-tv-show-real-history-total-war-mod)
+ - [Arrowhead&#39;s latest major order is exploiting the Helldivers 2 community&#39;s greatest weakness: communication](https://www.pcgamer.com/games/third-person-shooter/arrowheads-latest-major-order-is-exploiting-the-helldiver-2-communitys-greatest-weakness-communication)
+ - [Fortnite is adding a toggle to disable &#39;confrontational emotes&#39; including Laugh it Up and Take the L](https://www.pcgamer.com/games/battle-royale/fortnite-is-adding-a-toggle-to-disable-confrontational-emotes-including-laugh-it-up-and-take-the-l)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
