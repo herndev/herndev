@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The cursed Vault Boy drawing Fallout creators would like to forget, but fans never will](https://www.polygon.com/24133363/fallout-vault-boy-child-killer-reputation-perk)
- - [Team Fortress 2 Patch Fixes Bug That Had Game Thinking Players Were Gordon Freeman](https://kotaku.com/team-fortress-2-patch-half-life-2-update-1851428546)
- - [Why Nintendo wouldn’t let Samus be in Fortnite](https://www.polygon.com/24138083/samus-fortnite-skin-nintendo-refused)<!-- GAME:END -->
+ - [Armadillos are Rolling into Minecraft with the Armored Paws Drop!](https://www.minecraft.net/article/armored-paws/#new_tab)
+ - [Asus is creating the VR &#39;gaming headset of the next generation&#39; built on Meta&#39;s Horizon OS lifted off the Quest 3](https://www.pcgamer.com/hardware/vr-hardware/asus-is-creating-the-vr-gaming-headset-of-the-next-generation-built-on-metas-horizon-os-lifted-off-the-quest-3)
+ - [Destiny 2: The Final Shape’s New Cayde-6 Trailer Is A Temporal Gut Punch](https://kotaku.com/destiny-2-final-shape-cayde-6-trailer-1851428894)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
