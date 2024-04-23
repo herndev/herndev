@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 Things We Learned From The Metaphor: Refantazio Showcase](https://kotaku.com/metaphor-refantazio-release-date-ui-collectors-edition-1851429642)
- - [Todd Howard reveals his favorite moment from the Fallout television show, and in hindsight it&#39;s really no surprise at all](https://www.pcgamer.com/movies-tv/todd-howard-reveals-his-favorite-moment-from-the-fallout-television-show-and-in-hindsight-its-really-no-surprise-at-all)
- - [What Does FF7 Rebirth’s Luck Stat Do? &lpar;And How To Make Cait Sith Broken&rpar;](https://kotaku.com/final-fantasy-7-rebirth-luck-stat-cait-sith-build-1851429580)<!-- GAME:END -->
+ - [Grand Theft Auto 5 actor &#39;shot some stuff&#39; with Rockstar for a &#39;James Bond Trevor&#39; expansion that never happened](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-actor-shot-some-stuff-with-rockstar-for-a-james-bond-trevor-expansion-that-never-happened)
+ - [How to get farm animals in Lego Fortnite](https://www.polygon.com/24138401/how-to-get-farm-animals-houses-treats-unlock)
+ - [Where to find Archie in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-archie-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
