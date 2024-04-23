@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Players Absolutely Hate Hellmire, And For Good Reason](https://kotaku.com/helldivers-2-hellmire-firestorms-community-hate-1851430119)
- - [Coming up with &#39;skeleton outfits&#39; was one challenge of being the Fallout show&#39;s costume designer: &#39;We dressed skeletons right and left&#39;](https://www.pcgamer.com/movies-and-tv/fallout-show-skeleton-costumes-interview)
- - [Rise Of The Ronin Hides A Cool Nioh Easter Egg](https://kotaku.com/rise-of-the-ronin-nioh-ryu-combat-style-team-ninja-1851430091)<!-- GAME:END -->
+ - [Upcoming and Available Xbox Games in Wired Direct 2024](https://news.xbox.com/en-us/2024/04/23/upcoming-and-available-xbox-games-in-wired-direct-2024/)
+ - [I almost quit Fallout 76 until I realized Bethesda still hides its most important setting in a config file](https://www.pcgamer.com/games/fallout/i-almost-quit-fallout-76-until-i-realized-bethesda-still-hides-its-most-important-setting-in-a-config-file)
+ - [Gloomhaven studio releases a demo for a new game and lays off more than half its employees on the same day](https://www.pcgamer.com/games/rpg/gloomhaven-studio-releases-a-demo-for-a-new-game-and-lays-off-more-than-half-its-employees-on-the-same-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
