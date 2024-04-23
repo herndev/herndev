@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s 4K Chromecast is getting a refresh with a new remote](https://www.androidauthority.com/google-4k-chromecast-2024-launch-3436393/)
- - [Revolut plans ad sales push, expects to derive a &quot;proper chunk&quot; of its revenue from targeted ads, and hires a former TikTok executive to lead its media strategy &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240423/p1#a240423p1)
- - [Best Bone-Conduction Headphones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-bone-conduction-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s why this GameCube, Wii emulator won’t come to the App Store](https://www.androidauthority.com/dolphinios-gamecube-wii-emulator-apple-app-store-3436415/)
+ - [Q&amp;A with BCG CEO Christoph Schweizer, who says the consulting firm expects 20% of its 2024 and 40% of its 2026 revenue will come from helping firms integrate AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p2#a240423p2)
+ - [The first brand to launch a Snapdragon 8 Gen 4 phone has been revealed](https://www.androidauthority.com/first-snapdragon-8-gen-4-phone-3436418/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
