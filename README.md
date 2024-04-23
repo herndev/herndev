@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And Then?](http://9gag.com/gag/a87LP3Z)
- - ⏩ [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
- - 👉 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)<!-- MEMES:END -->
+ - 💣 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
+ - ⏩ [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
+ - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
 
 ---
 
