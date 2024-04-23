@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [DDR5-10000 memory is closer than ever after JEDEC, the managing body of the standard, extends the base DDR5 spec](https://www.pcgamer.com/hardware/memory/ddr5-10000-memory-is-closer-than-ever-after-jedec-the-managing-body-of-the-standard-extends-the-base-ddr5-spec)
  - [Fake Samsung 1080 Pro SSDs show up on Aliexpress, and the benchmark results are hilarious](https://www.pcgamer.com/software/windows/fake-samsung-1080-pro-ssds-show-up-on-aliexpress-and-the-benchmark-results-are-hilarious)
- - [Can Trubbish be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24137180/can-trubbish-be-shiny-garbodor)
- - [Today&#39;s Wordle answer for Tuesday, April 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-23-2024)<!-- GAME:END -->
+ - [Can Trubbish be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24137180/can-trubbish-be-shiny-garbodor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
