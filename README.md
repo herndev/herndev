@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone sales in China fell 19.1% YoY to a 15.7% share in Q1 2024; Vivo fell 0.4% YoY to 17.4%, Honor rose 11.5% YoY to 16.1%, and Huawei rose 69.7% YoY to 15.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240423/p11#a240423p11)
- - [iPhone isn&#39;t secure enough for the South Korea military - but Android is](https://appleinsider.com/articles/24/04/23/iphone-isnt-secure-enough-for-the-south-korea-military---but-android-is?utm_medium=rss)
- - [Having app notifications issues with One UI 6.1? Try this fix](https://www.androidauthority.com/one-ui-6-1-notification-fix-3436498/)<!-- TECH:END -->
+ - [SimpliSafe’s new outdoor monitoring service combines AI with live agents](https://www.theverge.com/2024/4/23/24137667/simplisafe-live-guard-outdoor-protection-security-camera-ai-facial-recognition)
+ - [Tesla’s in its flop era](https://www.theverge.com/24134781/tesla-q1-2024-earnings-sales-market-share-elon-musk)
+ - [The best of WWDC -- the developer conference that shapes technology for the rest of us](https://appleinsider.com/articles/24/04/23/the-best-of-wwdc----the-developer-conference-that-shapes-technology-for-the-rest-of-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
