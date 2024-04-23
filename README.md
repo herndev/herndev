@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s 4K Chromecast is getting a refresh with a new remote](https://www.androidauthority.com/google-4k-chromecast-2024-launch-3436393/)
  - [Revolut plans ad sales push, expects to derive a &quot;proper chunk&quot; of its revenue from targeted ads, and hires a former TikTok executive to lead its media strategy &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240423/p1#a240423p1)
- - [Change Healthcare Finally Admits It Paid Ransomware Hackers—and Still Faces a Patient Data Leak](https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/)
- - [Best Portable Chargers and Power Banks to Buy for Android in 2024     - CNET](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Bone-Conduction Headphones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-bone-conduction-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
