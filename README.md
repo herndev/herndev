@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
- - ⏩ [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)
- - 👉 [Un attended !](http://9gag.com/gag/a2vzexZ)<!-- MEMES:END -->
+ - 💣 [He has his athes eyes don&#39;t you think !](http://9gag.com/gag/aRBwx9j)
+ - ⏩ [It&#39;s the 35th anniversary my dudes. I wanna see how long will it take for this post to get removed](http://9gag.com/gag/aGyYPRn)
+ - 👉 [Nice landing](http://9gag.com/gag/aryv6n6)<!-- MEMES:END -->
 
 ---
 
