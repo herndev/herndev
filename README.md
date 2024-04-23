@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Promises &#39;More Affordable Vehicles&#39; and a &#39;Cybercab&#39;](https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/)
- - [Microsoft’s oops moment: Deleted AI project rises from the digital grave](https://www.androidauthority.com/microsoft-deleted-ai-is-back-3436689/)
- - [Larry Ellison says Oracle is moving its world headquarters from Austin to Nashville to be closer to a major healthcare epicenter &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240423/p37#a240423p37)<!-- TECH:END -->
+ - [Letter: the US Department of Commerce is reviewing the national security implications of China&#39;s work in open-source RISC-V chip technology &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240423/p39#a240423p39)
+ - [A cheaper Tesla is back on the menu](https://www.theverge.com/2024/4/23/24138646/tesla-q1-2024-earnings-model-2-affordable-electric-vehicles)
+ - [Tesla teases a ridehailing function in its app and says its robotaxi will be &quot;purpose-built&quot;, suggesting it will be built from the ground up to be self-driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240423/p38#a240423p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
