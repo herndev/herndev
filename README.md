@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wish me luck](http://9gag.com/gag/awy06rx)
- - ⏩ [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - 👉 [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)<!-- MEMES:END -->
+ - 💣 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - ⏩ [Easy with that avocado bread](http://9gag.com/gag/apREybE)
+ - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
 
 ---
 
