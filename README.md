@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
- - ⏩ [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
+ - 💣 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - ⏩ [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
  - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
 
 ---
