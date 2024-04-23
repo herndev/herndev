@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework won’t be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
- - [Tesla teases robotaxi ridehailing function in its app](https://www.theverge.com/2024/4/23/24138580/tesla-robotaxi-ride-hail-app-preview-earningsq1-2024)
- - [Apple reportedly cuts Vision Pro production due to low demand](https://www.theverge.com/2024/4/23/24138487/apple-vision-pro-cut-shipment-forecast-kuo-rumor)<!-- TECH:END -->
+ - [Tesla Promises &#39;More Affordable Vehicles&#39; and a &#39;Cybercab&#39;](https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/)
+ - [Microsoft’s oops moment: Deleted AI project rises from the digital grave](https://www.androidauthority.com/microsoft-deleted-ai-is-back-3436689/)
+ - [Larry Ellison says Oracle is moving its world headquarters from Austin to Nashville to be closer to a major healthcare epicenter &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240423/p37#a240423p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
