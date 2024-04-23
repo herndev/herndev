@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Senate advances the bill forcing a sale or ban of TikTok, preparing for a final vote on the bill as soon as Tuesday evening &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/240423/p31#a240423p31)
- - [Sources: IBM is nearing an acquisition of HashiCorp, which helps companies manage cloud infrastructure, in the coming days; HashiCorp&#39;s stock jumps 22%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240423/p30#a240423p30)
- - [This Cash-Advance App Is Buying Petal Credit Card. Should You Be Worried?     - CNET](https://www.cnet.com/personal-finance/empower-finance-buys-petal-whats-that-mean-for-petal-credit-card-users/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Framework won’t be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
+ - [Tesla teases robotaxi ridehailing function in its app](https://www.theverge.com/2024/4/23/24138580/tesla-robotaxi-ride-hail-app-preview-earningsq1-2024)
+ - [Apple reportedly cuts Vision Pro production due to low demand](https://www.theverge.com/2024/4/23/24138487/apple-vision-pro-cut-shipment-forecast-kuo-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
