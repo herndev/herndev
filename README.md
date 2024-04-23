@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Watch 2 Nordic Blue Edition makes better use of that big bezel](https://www.androidauthority.com/oneplus-watch-2-nordic-blue-edition-pad-go-eu-expansion-3436582/)
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [Asia is officially the most ‘disaster-prone’ region in the world](https://www.theverge.com/2024/4/23/24138101/asia-climate-change-weather-disasters-wmo-report)<!-- TECH:END -->
+ - [Samsung’s new glare-free OLED S95D TV is receiving its first cash discount](https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale)
+ - [The Ray-Ban Meta Smart Glasses get video calling, Apple Music, and a new style](https://www.theverge.com/2024/4/23/24138228/ray-ban-meta-smart-glasses-wearables-ai-apple-music)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
