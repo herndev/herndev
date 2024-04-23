@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bringing Fallout’s gritty retrofuturism into the real world](https://www.theverge.com/24137217/fallout-amazon-prime-video-production-design-interview)
- - [Apple teases new iPad Pro &amp; Air event with multiple animated logos](https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss)
- - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla reveals a new Model 3 Performance with more horsepower and faster acceleration](https://www.theverge.com/2024/4/23/24138352/tesla-model-3-performance-2024-horsepower-acceleration)
+ - [More evidence surfaces that Beats Solo 4 are coming soon](https://appleinsider.com/articles/24/04/23/more-evidence-surfaces-that-beats-solo-4-are-coming-soon?utm_medium=rss)
+ - [Taylor Swift&#39;s new album smashed streaming records; Spotify says it had 300M+ streams on launch day and became 2024&#39;s most-streamed album within just 12 hours &lpar;Chris Morris/Fortune&rpar;](http://www.techmeme.com/240423/p25#a240423p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
