@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armadillos are Rolling into Minecraft with the Armored Paws Drop!](https://www.minecraft.net/article/armored-paws/#new_tab)
- - [Asus is creating the VR &#39;gaming headset of the next generation&#39; built on Meta&#39;s Horizon OS lifted off the Quest 3](https://www.pcgamer.com/hardware/vr-hardware/asus-is-creating-the-vr-gaming-headset-of-the-next-generation-built-on-metas-horizon-os-lifted-off-the-quest-3)
- - [Destiny 2: The Final Shape’s New Cayde-6 Trailer Is A Temporal Gut Punch](https://kotaku.com/destiny-2-final-shape-cayde-6-trailer-1851428894)<!-- GAME:END -->
+ - [Preparing for Adventure: Talking to the Creative Minds Behind Eiyuden Chronicle: Hundred Heroes](https://news.xbox.com/en-us/2024/04/23/talking-creative-minds-behind-eiyuden-chronicle-hundred-heroes/)
+ - [I have become obsessed with a goat in Lovecraftian dating sim Sucker for Love: Date to Die For](https://www.pcgamer.com/games/sim/i-have-become-obsessed-with-a-goat-in-lovecraftian-dating-sim-sucker-for-love-date-to-die-for)
+ - [Star Wars Jedi: Survivor drops into Game Pass via EA play, which is a great excuse to try it if you noped out in 2023 due to its initially terrible performance](https://www.pcgamer.com/games/action/star-wars-jedi-survivor-drops-into-game-pass-via-ea-play-which-is-a-great-excuse-to-try-it-if-you-noped-out-in-2023-due-to-its-initially-terrible-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
