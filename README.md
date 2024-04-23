@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eifell Tower made from spagheti](http://9gag.com/gag/aMV1e0x)
- - ⏩ [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
- - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
+ - 💣 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - ⏩ [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 👉 [500 tons press verses uranium ball](http://9gag.com/gag/aVvzNxM)<!-- MEMES:END -->
 
 ---
 
