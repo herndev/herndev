@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14: Dawntrail&#39;s new benchmark will get a 2.0 version after player upset over lifeless eyes, flattened faces, and cursed lalafell dolphin teeth](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrails-new-benchmark-will-get-a-20-version-after-player-upset-over-lifeless-eyes-flattened-faces-and-cursed-lalafell-dolphin-teeth)
- - [Pokémon Go ‘Rediscover Kanto’ Special Research quest steps, rewards](https://www.polygon.com/pokemon-go-guide/24138021/rediscover-kanto-special-research-quest-steps-rewards)
- - [Asus adds &#39;Intel Baseline Profile&#39; to new BIOS files to combat stability issues but the TDP is still higher than Intel&#39;s actual baselines](https://www.pcgamer.com/hardware/motherboards/asus-adds-intel-baseline-profile-to-the-latest-bios-files-for-better-stability-but-the-tdp-is-still-higher-than-intels-stock-value)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor is a late addition to April’s Game Pass lineup](https://www.polygon.com/24131925/xbox-game-pass-april-lineup-ea-sports-nhl-24-manor-lords)
+ - [Liquid cooling company EK allegedly facing financial difficulties with suppliers, partners and employees claiming they&#39;re bearing the brunt of it](https://www.pcgamer.com/hardware/liquid-cooling-company-ek-allegedly-facing-financial-difficulties-with-suppliers-partners-and-employees-claiming-theyre-bearing-the-brunt-of-it)
+ - [Final Fantasy 14: Dawntrail&#39;s new benchmark will get a 2.0 version after player upset over lifeless eyes, flattened faces, and cursed lalafell dolphin teeth](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrails-new-benchmark-will-get-a-20-version-after-player-upset-over-lifeless-eyes-flattened-faces-and-cursed-lalafell-dolphin-teeth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
