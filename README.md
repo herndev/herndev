@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto 5 actor &#39;shot some stuff&#39; with Rockstar for a &#39;James Bond Trevor&#39; expansion that never happened](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-actor-shot-some-stuff-with-rockstar-for-a-james-bond-trevor-expansion-that-never-happened)
- - [How to get farm animals in Lego Fortnite](https://www.polygon.com/24138401/how-to-get-farm-animals-houses-treats-unlock)
- - [Where to find Archie in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-archie-locations)<!-- GAME:END -->
+ - [Destiny 2: How To Find Archie And Get The Blue Steel Shader](https://kotaku.com/destiny-2-archie-location-tower-where-how-find-1851430130)
+ - [Fallout showrunners talk about the show&#39;s take on New Vegas: &#39;The idea that the wasteland stays as it is decade-to-decade is preposterous to us&#39;](https://www.pcgamer.com/movies-tv/fallout-showrunners-talk-about-the-shows-take-on-new-vegas-the-idea-that-the-wasteland-stays-as-it-is-decade-to-decade-is-preposterous-to-us)
+ - [Everyone is thirsty for The Ghoul, but this isn&#39;t even the first time Fallout fans fell in love with an irradiated guy](https://www.pcgamer.com/movies-tv/everyone-is-thirsty-for-the-ghoul-but-this-isnt-even-the-first-time-fallout-fans-fell-in-love-with-an-irradiated-guy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
