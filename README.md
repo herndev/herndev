@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And Then?](http://9gag.com/gag/a87LP3Z)
- - ⏩ [Easy with that avocado bread](http://9gag.com/gag/apREybE)
- - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
+ - 💣 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - ⏩ [And Then?](http://9gag.com/gag/a87LP3Z)
+ - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
 
 ---
 
