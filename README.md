@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A 128GB Pixel 9 Pro should never exist, Google](https://www.androidauthority.com/128gb-pixel-9-pro-opinion-3436106/)
- - [Fortnite Festival now supports Rock Band 4 guitar controllers](https://www.theverge.com/2024/4/23/24137577/fortnite-festival-rock-band-4-controllers)
- - [Elon Musk is fighting Australia to host a stabbing video on X](https://www.theverge.com/2024/4/23/24138062/elon-musk-fighting-australia-stabbing-video-x-twitter-censorship)<!-- TECH:END -->
+ - [Anker’s minimalistic home backup batteries are ready for blackout season](https://www.theverge.com/24136932/anker-solix-x1-home-battery-powerwall-alternative-specs)
+ - [iPhone isn&#39;t secureable enough for the South Korea military - but Android is](https://appleinsider.com/articles/24/04/23/iphone-isnt-secure-enough-for-the-south-korea-military---but-android-is?utm_medium=rss)
+ - [As Congress&#39; TikTok bill moves ahead, lawmakers must show the public on what grounds the government is banning a popular and culturally significant platform &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240423/p18#a240423p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
