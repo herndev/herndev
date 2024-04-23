@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [Microsoft launches Phi-3, its smallest AI model yet](https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model)
- - [Here’s why this GameCube, Wii emulator won’t come to the App Store](https://www.androidauthority.com/dolphinios-gamecube-wii-emulator-apple-app-store-3436415/)<!-- TECH:END -->
+ - [Microsoft launches Phi-3 Mini, a 3.8B-parameter model that competes with GPT-3.5, and plans to release Phi-3 Small and Phi-3 Medium with 7B and 14B parameters &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240423/p4#a240423p4)
+ - [Here’s another clue a bigger iPad Air is just around the corner](https://www.androidauthority.com/ipad-air-12-9-cases-amazon-3436432/)
+ - [A look at Jeff Yass&#39; Susquehanna International Group, which has a ~15% ByteDance stake worth ~$40B and has invested $3.5B+ across 350+ deals in China since 2005 &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p3#a240423p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
