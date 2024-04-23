@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - 💣 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
  - ⏩ [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 👉 [500 tons press verses uranium ball](http://9gag.com/gag/aVvzNxM)<!-- MEMES:END -->
+ - 👉 [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)<!-- MEMES:END -->
 
 ---
 
