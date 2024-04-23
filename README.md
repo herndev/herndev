@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Preparing for Adventure: Talking to the Creative Minds Behind Eiyuden Chronicle: Hundred Heroes](https://news.xbox.com/en-us/2024/04/23/talking-creative-minds-behind-eiyuden-chronicle-hundred-heroes/)
- - [I have become obsessed with a goat in Lovecraftian dating sim Sucker for Love: Date to Die For](https://www.pcgamer.com/games/sim/i-have-become-obsessed-with-a-goat-in-lovecraftian-dating-sim-sucker-for-love-date-to-die-for)
- - [Star Wars Jedi: Survivor drops into Game Pass via EA play, which is a great excuse to try it if you noped out in 2023 due to its initially terrible performance](https://www.pcgamer.com/games/action/star-wars-jedi-survivor-drops-into-game-pass-via-ea-play-which-is-a-great-excuse-to-try-it-if-you-noped-out-in-2023-due-to-its-initially-terrible-performance)<!-- GAME:END -->
+ - [A cold heart will take you far in Frostpunk 2](https://www.polygon.com/24137366/frostpunk-2-beta-impressions-11-bit-studios-pc)
+ - [Meta is creating a Quest VR headset in the style of an Xbox, which probably means it&#39;s black with a bit of green](https://www.pcgamer.com/hardware/vr-hardware/meta-is-creating-a-quest-vr-headset-in-the-style-of-an-xbox-which-probably-means-its-black-with-a-bit-of-green)
+ - [7 Days To Die Exits Early Access After A Decade, But Console Players Have To Rebuy The Game](https://kotaku.com/7-days-to-die-early-access-1-0-launch-june-console-port-1851429336)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
