@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay blessed](http://9gag.com/gag/aO8K693)
- - ⏩ [He has his athes eyes don&#39;t you think !](http://9gag.com/gag/aRBwx9j)
- - 👉 [The story of Pedro](http://9gag.com/gag/a7oLjK2)<!-- MEMES:END -->
+ - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - ⏩ [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 👉 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)<!-- MEMES:END -->
 
 ---
 
