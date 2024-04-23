@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla reveals a new Model 3 Performance with more horsepower and faster acceleration](https://www.theverge.com/2024/4/23/24138352/tesla-model-3-performance-2024-horsepower-acceleration)
- - [More evidence surfaces that Beats Solo 4 are coming soon](https://appleinsider.com/articles/24/04/23/more-evidence-surfaces-that-beats-solo-4-are-coming-soon?utm_medium=rss)
- - [Taylor Swift&#39;s new album smashed streaming records; Spotify says it had 300M+ streams on launch day and became 2024&#39;s most-streamed album within just 12 hours &lpar;Chris Morris/Fortune&rpar;](http://www.techmeme.com/240423/p25#a240423p25)<!-- TECH:END -->
+ - [Interviews with 20+ current and former TSMC staff at its Arizona plant finds struggles over bridging Taiwanese and US norms, rigid hierarchies, and other issues &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240423/p28#a240423p28)
+ - [T-Mobile’s new 5G internet plan lets you take your Wi-Fi on the road](https://www.theverge.com/2024/4/23/24138307/t-mobile-5g-home-internet-plus-away)
+ - [This Is How Many Solar Panels You&#39;ll Need to Power Your Home     - CNET](https://www.cnet.com/home/energy-and-utilities/this-is-how-many-solar-panels-you-need-to-power-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
