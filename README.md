@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new glare-free OLED S95D TV is receiving its first cash discount](https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale)
- - [The Ray-Ban Meta Smart Glasses get video calling, Apple Music, and a new style](https://www.theverge.com/2024/4/23/24138228/ray-ban-meta-smart-glasses-wearables-ai-apple-music)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
+ - [Bringing Fallout’s gritty retrofuturism into the real world](https://www.theverge.com/24137217/fallout-amazon-prime-video-production-design-interview)
+ - [Apple teases new iPad Pro &amp; Air event with multiple animated logos](https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss)
+ - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
