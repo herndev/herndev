@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Upcoming and Available Xbox Games in Wired Direct 2024](https://news.xbox.com/en-us/2024/04/23/upcoming-and-available-xbox-games-in-wired-direct-2024/)
- - [I almost quit Fallout 76 until I realized Bethesda still hides its most important setting in a config file](https://www.pcgamer.com/games/fallout/i-almost-quit-fallout-76-until-i-realized-bethesda-still-hides-its-most-important-setting-in-a-config-file)
- - [Gloomhaven studio releases a demo for a new game and lays off more than half its employees on the same day](https://www.pcgamer.com/games/rpg/gloomhaven-studio-releases-a-demo-for-a-new-game-and-lays-off-more-than-half-its-employees-on-the-same-day)<!-- GAME:END -->
+ - [Get To Know Our Team: Chad – Senior Software Engineer](https://news.xbox.com/en-us/2024/04/23/get-to-know-our-team-chad-senior-software-engineer/)
+ - [Josh Sawyer understands why some fans are annoyed by the treatment of New Vegas in Amazon&#39;s Fallout series, but he&#39;s not one of them: &#39;Whatever happens with it, I don’t care&#39;](https://www.pcgamer.com/movies-tv/josh-sawyer-understands-why-some-fans-are-annoyed-by-the-treatment-of-new-vegas-in-amazons-fallout-series-but-hes-not-one-of-them-whatever-happens-with-it-i-dont-care)
+ - [Upcoming and Available Xbox Games in Wired Direct 2024](https://news.xbox.com/en-us/2024/04/23/upcoming-and-available-xbox-games-in-wired-direct-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
