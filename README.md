@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - ⏩ [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 👉 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)<!-- MEMES:END -->
+ - 💣 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - ⏩ [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
+ - 👉 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)<!-- MEMES:END -->
 
 ---
 
