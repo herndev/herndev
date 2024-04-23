@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - ⏩ [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)
+ - 💣 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)
+ - ⏩ [Elephant memory](http://9gag.com/gag/a0e9v8q)
  - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
 
 ---
