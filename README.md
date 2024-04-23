@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus adds &#39;Intel Baseline Profile&#39; to new BIOS files to combat stability issues but the TDP is still higher than Intel&#39;s actual baselines](https://www.pcgamer.com/hardware/motherboards/asus-adds-intel-baseline-profile-to-the-latest-bios-files-for-better-stability-but-the-tdp-is-still-higher-than-intels-stock-value)
- - [DDR5-10000 memory is closer than ever after JEDEC, the managing body of the standard, extends the base DDR5 spec](https://www.pcgamer.com/hardware/memory/ddr5-10000-memory-is-closer-than-ever-after-jedec-the-managing-body-of-the-standard-extends-the-base-ddr5-spec)
- - [Fake Samsung 1080 Pro SSDs show up on Aliexpress, and the benchmark results are hilarious](https://www.pcgamer.com/software/windows/fake-samsung-1080-pro-ssds-show-up-on-aliexpress-and-the-benchmark-results-are-hilarious)<!-- GAME:END -->
+ - [Final Fantasy 14: Dawntrail&#39;s new benchmark will get a 2.0 version after player upset over lifeless eyes, flattened faces, and cursed lalafell dolphin teeth](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrails-new-benchmark-will-get-a-20-version-after-player-upset-over-lifeless-eyes-flattened-faces-and-cursed-lalafell-dolphin-teeth)
+ - [Pokémon Go ‘Rediscover Kanto’ Special Research quest steps, rewards](https://www.polygon.com/pokemon-go-guide/24138021/rediscover-kanto-special-research-quest-steps-rewards)
+ - [Asus adds &#39;Intel Baseline Profile&#39; to new BIOS files to combat stability issues but the TDP is still higher than Intel&#39;s actual baselines](https://www.pcgamer.com/hardware/motherboards/asus-adds-intel-baseline-profile-to-the-latest-bios-files-for-better-stability-but-the-tdp-is-still-higher-than-intels-stock-value)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
