@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A cold heart will take you far in Frostpunk 2](https://www.polygon.com/24137366/frostpunk-2-beta-impressions-11-bit-studios-pc)
- - [Meta is creating a Quest VR headset in the style of an Xbox, which probably means it&#39;s black with a bit of green](https://www.pcgamer.com/hardware/vr-hardware/meta-is-creating-a-quest-vr-headset-in-the-style-of-an-xbox-which-probably-means-its-black-with-a-bit-of-green)
- - [7 Days To Die Exits Early Access After A Decade, But Console Players Have To Rebuy The Game](https://kotaku.com/7-days-to-die-early-access-1-0-launch-june-console-port-1851429336)<!-- GAME:END -->
+ - [11 Things We Learned From The Metaphor: Refantazio Showcase](https://kotaku.com/metaphor-refantazio-release-date-ui-collectors-edition-1851429642)
+ - [Todd Howard reveals his favorite moment from the Fallout television show, and in hindsight it&#39;s really no surprise at all](https://www.pcgamer.com/movies-tv/todd-howard-reveals-his-favorite-moment-from-the-fallout-television-show-and-in-hindsight-its-really-no-surprise-at-all)
+ - [What Does FF7 Rebirth’s Luck Stat Do? &lpar;And How To Make Cait Sith Broken&rpar;](https://kotaku.com/final-fantasy-7-rebirth-luck-stat-cait-sith-build-1851429580)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
