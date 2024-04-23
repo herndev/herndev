@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - ⏩ [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
- - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
+ - 💣 [Hector](http://9gag.com/gag/a1mv49D)
+ - ⏩ [Stay blessed](http://9gag.com/gag/aO8K693)
+ - 👉 [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)<!-- MEMES:END -->
 
 ---
 
