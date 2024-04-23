@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8a spotted in the wild, showing off its bold new colors](https://www.androidauthority.com/pixel-8a-color-options-leak-3436314/)
- - [TabaPay, which offers instant payment services, agrees to acquire assets of banking-as-a-service startup Synapse, after Synapse filed for Chapter 11 bankruptcy &lpar;TechCrunch&rpar;](http://www.techmeme.com/240422/p22#a240422p22)
- - [Money Hack: Want to Keep Subscription Costs Down? Use a Virtual Card     - CNET](https://www.cnet.com/personal-finance/always-use-a-virtual-card-for-subscriptions-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Getting an Oura Ring in the US just got way easier](https://www.androidauthority.com/oura-target-partnership-3436338/)
+ - [Best Internet Providers in Carmel, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-carmel-in/#ftag=CAD590a51e)
+ - [Fortnite will let players hide mean emotes](https://www.theverge.com/2024/4/22/24137748/fortnite-will-let-players-hide-mean-emotes-take-the-laugh-it-up)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
