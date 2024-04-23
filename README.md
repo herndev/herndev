@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hector](http://9gag.com/gag/a1mv49D)
- - ⏩ [Stay blessed](http://9gag.com/gag/aO8K693)
- - 👉 [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)<!-- MEMES:END -->
+ - 💣 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
+ - ⏩ [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 👉 [I don&#39;t speak French... but](http://9gag.com/gag/aLnK6wM)<!-- MEMES:END -->
 
 ---
 
