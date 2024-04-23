@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - ⏩ [Give this person a medal.](http://9gag.com/gag/a4PKv76)
- - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
+ - 💣 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)
+ - ⏩ [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 👉 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)<!-- MEMES:END -->
 
 ---
 
