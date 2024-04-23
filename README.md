@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SimpliSafe’s new outdoor monitoring service combines AI with live agents](https://www.theverge.com/2024/4/23/24137667/simplisafe-live-guard-outdoor-protection-security-camera-ai-facial-recognition)
- - [Tesla’s in its flop era](https://www.theverge.com/24134781/tesla-q1-2024-earnings-sales-market-share-elon-musk)
- - [The best of WWDC -- the developer conference that shapes technology for the rest of us](https://appleinsider.com/articles/24/04/23/the-best-of-wwdc----the-developer-conference-that-shapes-technology-for-the-rest-of-us?utm_medium=rss)<!-- TECH:END -->
+ - [A 128GB Pixel 9 Pro should never exist, Google](https://www.androidauthority.com/128gb-pixel-9-pro-opinion-3436106/)
+ - [Fortnite Festival now supports Rock Band 4 guitar controllers](https://www.theverge.com/2024/4/23/24137577/fortnite-festival-rock-band-4-controllers)
+ - [Elon Musk is fighting Australia to host a stabbing video on X](https://www.theverge.com/2024/4/23/24138062/elon-musk-fighting-australia-stabbing-video-x-twitter-censorship)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
