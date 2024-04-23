@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - ⏩ [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
- - 👉 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)<!-- MEMES:END -->
+ - 💣 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - ⏩ [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
+ - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
 
 ---
 
