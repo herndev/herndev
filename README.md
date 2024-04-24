@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 to get new AI features powered by Google’s Gemini Nano 2 model: Report](https://www.androidauthority.com/galaxy-s25-gemini-nano-2-ai-features-3436802/)
- - [TikTok’s sale or ban in the US is one imminent step away](https://www.androidauthority.com/tiktok-sale-or-ban-us-imminent-3436787/)
- - [Bang &amp; Olufsen Beosystem 9000c: Price, Specs, Release Date](https://www.wired.com/story/bang-olufsen-beosound-9000-cd-changer-is-back/)<!-- TECH:END -->
+ - [How Palantir, which doesn&#39;t have a traditional salesforce, is using software boot camps to attract customers, hosting an average of about five per day in 2024 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240424/p12#a240424p12)
+ - [An important Chrome privacy feature has been delayed yet again](https://www.androidauthority.com/google-delay-third-party-cookie-ban-2025-3436800/)
+ - [A look at the restaurant reservation ecosystem in New York City, where new apps have sprung up to help diners book a table at buzzy restaurants for a price &lpar;Adam Iscoe/New Yorker&rpar;](http://www.techmeme.com/240424/p11#a240424p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
