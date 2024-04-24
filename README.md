@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - ⏩ [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 👉 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)<!-- MEMES:END -->
+ - 💣 [Woman exceeds speed limit at motorway, then runs over traffic police officer at toll plaza before fleeing](http://9gag.com/gag/a0e99bQ)
+ - ⏩ [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
 
 ---
 
