@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise! Minecraft&#39;s brand new mob has rolled out months before the update we expected it would be in](https://www.pcgamer.com/games/survival-crafting/surprise-minecrafts-brand-new-mob-has-rolled-out-months-before-the-update-we-expected-it-would-be-in)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [Honkai: Star Rail codes for April 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [Two Popular Fallout 76 Builds To Stop You From Dying In The Wasteland](https://kotaku.com/fallout-76-perk-fo76-build-stealth-commando-heavy-pa-1851433521)
+ - [&#39;We aren&#39;t going anywhere,&#39; TikTok CEO says as company vows to fight US ban](https://www.pcgamer.com/software/we-arent-going-anywhere-tiktok-ceo-says-as-company-vows-to-fight-us-ban)
+ - [Embracer CEO Is Full Of Excuses](https://kotaku.com/embracer-group-dying-split-up-ceo-excuses-interview-1851433342)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
