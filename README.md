@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon X Plus is here: It won’t be just premium Windows on Arm machines this year](https://www.androidauthority.com/snapdragon-x-plus-3436590/)
- - [Qualcomm strong-arms its way into Windows laptops this summer](https://www.theverge.com/2024/4/24/24138768/qualcomm-snapdragon-x-plus-elite-processors)
- - [App Store video game emulators: all the news on retro console ports for iOS](https://www.theverge.com/24139004/apple-app-store-retro-game-emulators-ios-console-ports-storystream)<!-- TECH:END -->
+ - [Small business owners are getting special &#39;Today at Apple&#39; training](https://appleinsider.com/articles/24/04/24/small-business-owners-are-getting-a-special-today-at-apple-training?utm_medium=rss)
+ - [Apple&#39;s four new open-source models could help make future AI more accurate](https://appleinsider.com/articles/24/04/24/apples-four-new-open-source-models-could-help-make-future-ai-more-accurate?utm_medium=rss)
+ - [California man uses AirTag to confront thief who stole his BMW](https://appleinsider.com/articles/24/04/24/california-man-uses-airtag-to-confront-thief-who-stole-his-bmw?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
