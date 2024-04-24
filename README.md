@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [German government wants games like Baldur&#39;s Gate 3 to &#39;also go on to be developed in Germany&#39;](https://www.pcgamer.com/games/rpg/german-game-awards-baldurs-gate-3)
  - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2024/04/23/may-savings-promotion-comes-to-playstation-store-2/)
- - [Why won&#39;t fetch quests die? The horrible truth is: we need them](https://www.pcgamer.com/games/rpg/why-wont-fetch-quests-die-the-horrible-truth-is-we-need-them)
- - [Blizzard admits WoW is rough for new players and plans to fix that: &#39;We know that we have a lot of work to do&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-admits-wow-is-rough-for-new-players-and-plans-to-fix-that-we-know-that-we-have-a-lot-of-work-to-do)<!-- GAME:END -->
+ - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2024/04/23/may-savings-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
