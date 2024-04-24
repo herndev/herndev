@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [W Mans](http://9gag.com/gag/a9yddN6)
- - ⏩ [Want some milk?](http://9gag.com/gag/avy0pXZ)
- - 👉 [Let me out!!!!](http://9gag.com/gag/a1mAvY8)<!-- MEMES:END -->
+ - ⏩ [Pro Palestinian can&#39;t answer a simple question](http://9gag.com/gag/aryvP9p)
+ - 👉 [My Idol](http://9gag.com/gag/agmy0Gx)<!-- MEMES:END -->
 
 ---
 
