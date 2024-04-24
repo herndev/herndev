@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [W Mans](http://9gag.com/gag/a9yddN6)
- - ⏩ [Pro Palestinian can&#39;t answer a simple question](http://9gag.com/gag/aryvP9p)
- - 👉 [My Idol](http://9gag.com/gag/agmy0Gx)<!-- MEMES:END -->
+ - 💣 [My Idol](http://9gag.com/gag/agmy0Gx)
+ - ⏩ [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 👉 [Elephant memory](http://9gag.com/gag/a0e9v8q)<!-- MEMES:END -->
 
 ---
 
