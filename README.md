@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 player summons roughly 88 minions to conquer Honour Mode with a glorious army of spore zombies, elementals, and Scratch the best boy](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-player-summons-roughly-85-minions-to-conquer-honour-mode-with-a-glorious-army-of-spore-zombies-elementals-and-scratch-the-best-boy)
- - [Fallout London&#39;s project lead is not taking the surprise drop of Fallout 4&#39;s update well: &#39;That has, for a lack of a better term, screwed us over&#39;](https://www.pcgamer.com/games/fallout/fallout-londons-project-lead-is-not-taking-the-surprise-drop-of-fallout-4s-update-well-that-has-for-a-lack-of-a-better-term-screwed-us-over)
- - [Where to find Taken Blights in Destiny 2’s ‘Whispers of the Taken’ quest](https://www.polygon.com/destiny-2-guide-walkthrough/24133426/taken-blights-locations-where-to-find-whispers-of-the-taken)<!-- GAME:END -->
+ - [Roll20 coming directly to your Discord server](https://www.polygon.com/tabletop-games/24137609/roll20-discord-activity)
+ - [Fallout 76 has seen a million players in a single day, and 5 million across the franchise](https://www.polygon.com/24131018/fallout-games-steam-player-count-bethesda-tv-show)
+ - [Where to find The Parting Glass in World of Warcraft: Dragonflight](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-wow-dragonflight-parting-glass-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
