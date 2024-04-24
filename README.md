@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple reportedly slashes Vision Pro headset production and cancels updated headset as sales tank in the US](https://www.pcgamer.com/hardware/vr-hardware/apple-reportedly-slashes-vision-pro-headset-production-and-cancels-updated-headset-as-sales-tank-in-the-us)
- - [How to unlock all archetypes in Remnant 2](https://www.polygon.com/guides/23815603/remnant-2-archetypes-unlock-classes)
- - [How to unlock the Invoker in Remnant 2’s The Forgotten Kingdom DLC](https://www.polygon.com/guides/24137676/invoker-archetype-unlock-remnant-2-forgotten-kingdom)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 player summons roughly 88 minions to conquer Honour Mode with a glorious army of spore zombies, elementals, and Scratch the best boy](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-player-summons-roughly-85-minions-to-conquer-honour-mode-with-a-glorious-army-of-spore-zombies-elementals-and-scratch-the-best-boy)
+ - [Fallout London&#39;s project lead is not taking the surprise drop of Fallout 4&#39;s update well: &#39;That has, for a lack of a better term, screwed us over&#39;](https://www.pcgamer.com/games/fallout/fallout-londons-project-lead-is-not-taking-the-surprise-drop-of-fallout-4s-update-well-that-has-for-a-lack-of-a-better-term-screwed-us-over)
+ - [Where to find Taken Blights in Destiny 2’s ‘Whispers of the Taken’ quest](https://www.polygon.com/destiny-2-guide-walkthrough/24133426/taken-blights-locations-where-to-find-whispers-of-the-taken)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
