@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 💣 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
  - ⏩ [Hi mom](http://9gag.com/gag/aD20AVd)
- - 👉 [My Idol](http://9gag.com/gag/agmy0Gx)<!-- MEMES:END -->
+ - 👉 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)<!-- MEMES:END -->
 
 ---
 
