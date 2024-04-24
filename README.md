@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Small business owners are getting special &#39;Today at Apple&#39; training](https://appleinsider.com/articles/24/04/24/small-business-owners-are-getting-a-special-today-at-apple-training?utm_medium=rss)
- - [Apple&#39;s four new open-source models could help make future AI more accurate](https://appleinsider.com/articles/24/04/24/apples-four-new-open-source-models-could-help-make-future-ai-more-accurate?utm_medium=rss)
- - [California man uses AirTag to confront thief who stole his BMW](https://appleinsider.com/articles/24/04/24/california-man-uses-airtag-to-confront-thief-who-stole-his-bmw?utm_medium=rss)<!-- TECH:END -->
+ - [A huge Roomba sale saves you up to 50% on your next robovac](https://www.androidauthority.com/irobot-roomba-sale-3436693/)
+ - [‘PBS Retro’ is coming to Roku as a FAST channel](https://www.theverge.com/2024/4/24/24139057/pbs-retro-free-roku-channel-fast-streaming)
+ - [Meta, Google, Snap, and Amazon all benefit from the US&#39; TikTok ban; Mark Zuckerberg criticized TikTok&#39;s Chinese roots in 2019, part of Meta&#39;s broader campaign &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240424/p29#a240424p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
