@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD’s new budget phone lineup bets big on easy battery swaps](https://www.androidauthority.com/hmd-pulse-3436868/)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Apple won&#39;t have to do that much to comply with EU&#39;s new right to repair law](https://appleinsider.com/articles/24/04/24/apple-wont-have-to-do-that-much-to-comply-with-eus-new-right-to-repair-law?utm_medium=rss)<!-- TECH:END -->
+ - [Snapdragon X Plus is here: It won’t be just premium Windows on Arm machines this year](https://www.androidauthority.com/snapdragon-x-plus-3436590/)
+ - [Qualcomm strong-arms its way into Windows laptops this summer](https://www.theverge.com/2024/4/24/24138768/qualcomm-snapdragon-x-plus-elite-processors)
+ - [App Store video game emulators: all the news on retro console ports for iOS](https://www.theverge.com/24139004/apple-app-store-retro-game-emulators-ios-console-ports-storystream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
