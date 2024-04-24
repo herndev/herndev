@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Math?](http://9gag.com/gag/avy00Wn)
- - ⏩ [If you are going bald, just shave your entire head. A shaved head always looks better.](http://9gag.com/gag/a4P49Bp)
+ - 💣 [My Idol](http://9gag.com/gag/agmy0Gx)
+ - ⏩ [W Mans](http://9gag.com/gag/a9yddN6)
  - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
 
 ---
