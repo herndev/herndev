@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SenseTime&#39;s stock rises 30%+ after the company unveiled the latest version of its SenseNova AI model; SenseTime&#39;s stock is down 80%+ since its 2021 HK IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240424/p3#a240424p3)
- - [Samsung starts mass production of its 9th-generation 286-layer 3D NAND memory chips, which increases data I/O speeds by 33% compared to 8th-gen 236-layer chips &lpar;Nami Matsuura/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p2#a240424p2)
- - [Paris-based Payflows, whose automated financial management SaaS could be deployed on top of existing ERP systems, raised a &amp;euro;25M Series A led by Balderton &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240424/p1#a240424p1)<!-- TECH:END -->
+ - [WhatsApp’s latest Android betas reveal two new features coming to the app](https://www.androidauthority.com/whatsapp-in-app-dialler-hidden-group-3436770/)
+ - [Huawei unveils Qiankun, a new business unit focused on providing self-driving systems, marking the company&#39;s latest push to become a major EV industry player &lpar;Reuters&rpar;](http://www.techmeme.com/240424/p4#a240424p4)
+ - [SenseTime&#39;s stock rises 30%+ after the company unveiled the latest version of its SenseNova AI model; SenseTime&#39;s stock is down 80%+ since its 2021 HK IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240424/p3#a240424p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
