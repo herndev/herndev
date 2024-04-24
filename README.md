@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Rest for the Wicked chief defends early access, says more games should do it: &#39;Imagine [if] Dark Souls 1 had been in early access&#39;](https://www.pcgamer.com/games/rpg/no-rest-for-the-wicked-chief-defends-early-access-says-more-games-should-do-it-imagine-if-dark-souls-1-had-been-in-early-access)
- - [Why This Claymation Indie Game Is Like An Aquarium](https://kotaku.com/harold-halibut-slow-bros-xbox-game-pass-playstation-pc-1851432593)
- - [Overwatch 2&#39;s Mirrorwatch Event Is So Good It Has Me In Mourning](https://kotaku.com/overwatch-2-mirrorwatch-skin-event-mode-tracer-mercy-1851432566)<!-- GAME:END -->
+ - [How To Make Fallout 76 Stop Running Like Crap On PC](https://kotaku.com/fallout-76-pc-mod-guide-120-60-fps-ini-best-setings-1851432982)
+ - [How to complete the Yo-kai Watch event in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24139170/yo-kai-watch-fate-locations-minions-weapons-mount-rewards-coins)
+ - [Ahead Of Dawntrail, Final Fantasy XIV Players Are Conflicted About Healers](https://kotaku.com/final-fantasy-14-ff14-dawntrail-healer-job-rework-1851432853)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
