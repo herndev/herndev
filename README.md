@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Crab’s Treasure is a cheery, accessible take on Dark Souls](https://www.theverge.com/24139208/another-crabs-treasure-review-xbox-switch-ps5)
- - [Reddit is updating its app to focus more on comments](https://www.theverge.com/2024/4/24/24139196/reddit-app-update-instant-comments-loading)
- - [Windows 11 gets new update that brings ads to the Start menu](https://www.androidauthority.com/windows-11-ads-update-3436943/)<!-- TECH:END -->
+ - [Record $70 price drop on the Soundcore Motion X500 Bluetooth speaker](https://www.androidauthority.com/soundcore-motion-x500-bluetooth-speaker-deal-3436962/)
+ - [Spring iPhone sales slip to lowest activation share in years](https://appleinsider.com/articles/24/04/24/spring-iphone-sales-slip-to-lowest-activation-share-in-years?utm_medium=rss)
+ - [Apple debuts OpenELM, a family of language models with 270M, 450M, 1.1B, and 3B parameters, designed to run on-device, pre-trained and fine-tuned on public data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240424/p35#a240424p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
