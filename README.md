@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get To Know Our Team: Chad – Senior Software Engineer](https://news.xbox.com/en-us/2024/04/23/get-to-know-our-team-chad-senior-software-engineer/)
- - [Josh Sawyer understands why some fans are annoyed by the treatment of New Vegas in Amazon&#39;s Fallout series, but he&#39;s not one of them: &#39;Whatever happens with it, I don’t care&#39;](https://www.pcgamer.com/movies-tv/josh-sawyer-understands-why-some-fans-are-annoyed-by-the-treatment-of-new-vegas-in-amazons-fallout-series-but-hes-not-one-of-them-whatever-happens-with-it-i-dont-care)
- - [Upcoming and Available Xbox Games in Wired Direct 2024](https://news.xbox.com/en-us/2024/04/23/upcoming-and-available-xbox-games-in-wired-direct-2024/)<!-- GAME:END -->
+ - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2024/04/23/may-savings-promotion-comes-to-playstation-store-2/)
+ - [Why won&#39;t fetch quests die? The horrible truth is: we need them](https://www.pcgamer.com/games/rpg/why-wont-fetch-quests-die-the-horrible-truth-is-we-need-them)
+ - [Blizzard admits WoW is rough for new players and plans to fix that: &#39;We know that we have a lot of work to do&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-admits-wow-is-rough-for-new-players-and-plans-to-fix-that-we-know-that-we-have-a-lot-of-work-to-do)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
