@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
- - ⏩ [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 👉 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)<!-- MEMES:END -->
+ - 💣 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
+ - ⏩ [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
 
 ---
 
