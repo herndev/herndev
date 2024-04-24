@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record $70 price drop on the Soundcore Motion X500 Bluetooth speaker](https://www.androidauthority.com/soundcore-motion-x500-bluetooth-speaker-deal-3436962/)
- - [Spring iPhone sales slip to lowest activation share in years](https://appleinsider.com/articles/24/04/24/spring-iphone-sales-slip-to-lowest-activation-share-in-years?utm_medium=rss)
- - [Apple debuts OpenELM, a family of language models with 270M, 450M, 1.1B, and 3B parameters, designed to run on-device, pre-trained and fine-tuned on public data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240424/p35#a240424p35)<!-- TECH:END -->
+ - [Worldcoin subsidiary World Assets plans to sell WLD tokens to meet the demand for orb-verified World IDs and support Worldcoin network growth; WLD drops 7%+ &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/240424/p37#a240424p37)
+ - [Apple’s new AI model hints at how AI could come to the iPhone](https://www.theverge.com/2024/4/24/24139266/apple-ai-model-openelm-iphone-laptops-strategy)
+ - [Nokia maker launches its first HMD-branded line for the US](https://www.androidauthority.com/hmd-vibe-launch-announcement-3436964/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
