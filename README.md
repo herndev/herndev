@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify second iOS app update attempt in EU fails to pass App Store review](https://appleinsider.com/articles/24/04/24/spotify-second-ios-app-update-attempt-in-eu-fails-to-pass-app-store-review?utm_medium=rss)
- - [TikTok is suspending the rewards program in TikTok Lite while it tries to resolve EU concerns about the potentially addictive nature of the program for children &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240424/p40#a240424p40)
- - [US prosecutors charge two founders of the Samourai Wallet crypto mixing service, saying it facilitated more than $100M in money laundering transactions &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/240424/p39#a240424p39)<!-- TECH:END -->
+ - [Meta&#39;s Reality Labs Q1: revenue up 30% YoY to $440M, vs. $512.5M est., a $3.85B operating loss, vs. $4.31B est.; Reality Labs lost $45B+ since the end of 2020 &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240424/p45#a240424p45)
+ - [IBM agrees to buy HashiCorp, which helps companies manage cloud infrastructure, in a deal valuing HashiCorp at $6.4B and expected to close by the end of 2024 &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240424/p44#a240424p44)
+ - [Drake threatened with lawsuit over diss track featuring AI Tupac](https://www.theverge.com/2024/4/24/24139442/tupac-ai-lawsuit-drake-taylor-made-diss-track)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
