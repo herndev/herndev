@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NASA manages to fix Voyager&#39;s garbled data problem, even though it&#39;s more than 15 &lt;sagan&gt; billion &lt;/sagan&gt; miles away](https://www.pcgamer.com/hardware/nasa-manages-to-fix-voyagers-garbled-data-problem-even-though-its-more-than-15-lesssagangreater-billion-lesssagangreater-miles-away)
- - [League Of Legends Pro Suspended For Humping Teddy Bear On Stream](https://kotaku.com/league-legends-lol-invictus-leyan-toy-story-3-1851431993)
- - [Why Foghorn Leghorn Is Gassing Up Your Favorite Anime And Game Characters](https://kotaku.com/looney-tunes-foghorn-leghorn-meme-anime-video-games-1851431956)<!-- GAME:END -->
+ - [The futility of Helldivers 2&#39;s &#39;Menkent Line&#39; has parts of the community feeling bot fatigue: &#39;We fought hard to establish a defensive line, and for what?&#39;](https://www.pcgamer.com/games/third-person-shooter/the-futility-of-helldivers-2s-menkent-line-has-parts-of-the-community-feeling-bot-fatigue-we-fought-hard-to-establish-a-defensive-line-and-for-what)
+ - [Fallout is ‘probably the best-performing Commander set ever,’ says Hasbro CEO](https://www.polygon.com/24139124/mtg-fallout-best-selling-commander-set-ever)
+ - [Sony Removing Stellar Blade&#39;s Unintentional N-Word Reference](https://kotaku.com/stellar-blade-ps5-racism-day-one-patch-1851432185)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
