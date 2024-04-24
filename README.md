@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
  - ⏩ [Hi mom](http://9gag.com/gag/aD20AVd)
- - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
+ - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
 
 ---
 
