@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A huge Roomba sale saves you up to 50% on your next robovac](https://www.androidauthority.com/irobot-roomba-sale-3436693/)
- - [‘PBS Retro’ is coming to Roku as a FAST channel](https://www.theverge.com/2024/4/24/24139057/pbs-retro-free-roku-channel-fast-streaming)
- - [Meta, Google, Snap, and Amazon all benefit from the US&#39; TikTok ban; Mark Zuckerberg criticized TikTok&#39;s Chinese roots in 2019, part of Meta&#39;s broader campaign &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240424/p29#a240424p29)<!-- TECH:END -->
+ - [Nissan’s Iruyo knows when your baby is sleeping, knows when they’re awake](https://www.theverge.com/2024/4/24/24139097/nissan-iruyo-animatronic-baby-car-toy)
+ - [Elon Musk wants to turn Tesla’s fleet into AWS for AI — would it work?](https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai)
+ - [The Biden campaign plans to continue using TikTok for at least the next year, with &quot;enhanced security measures&quot;, to help &quot;meet voters where they are&quot; &lpar;Monica Alba/NBC News&rpar;](http://www.techmeme.com/240424/p32#a240424p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
