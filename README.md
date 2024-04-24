@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stellar Blade is more than skin deep](https://www.polygon.com/reviews/24137538/stellar-blade-review-shift-up-playstation-5)
- - [FF14 and FF16 senior translator Koji Fox says &#39;you can kinda tell&#39; game director Naoki Yoshida is &#39;like: I&#39;m done with dark fantasy, I want to do something light again&#39;](https://www.pcgamer.com/games/final-fantasy/ff14-and-ff16-senior-translator-koji-fox-says-you-can-kinda-tell-game-director-naoki-yoshida-is-like-im-done-with-dark-fantasy-i-want-to-do-something-light-again)
- - [Valve Closes Loophole Some Steam Users Were Exploiting For Refunds](https://kotaku.com/steam-refund-advanced-access-valve-pc-1851431425)<!-- GAME:END -->
+ - [NASA manages to fix Voyager&#39;s garbled data problem, even though it&#39;s more than 15 &lt;sagan&gt; billion &lt;/sagan&gt; miles away](https://www.pcgamer.com/hardware/nasa-manages-to-fix-voyagers-garbled-data-problem-even-though-its-more-than-15-lesssagangreater-billion-lesssagangreater-miles-away)
+ - [League Of Legends Pro Suspended For Humping Teddy Bear On Stream](https://kotaku.com/league-legends-lol-invictus-leyan-toy-story-3-1851431993)
+ - [Why Foghorn Leghorn Is Gassing Up Your Favorite Anime And Game Characters](https://kotaku.com/looney-tunes-foghorn-leghorn-meme-anime-video-games-1851431956)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
