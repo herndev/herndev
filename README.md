@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nissan’s Iruyo knows when your baby is sleeping, knows when they’re awake](https://www.theverge.com/2024/4/24/24139097/nissan-iruyo-animatronic-baby-car-toy)
- - [Elon Musk wants to turn Tesla’s fleet into AWS for AI — would it work?](https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai)
- - [The Biden campaign plans to continue using TikTok for at least the next year, with &quot;enhanced security measures&quot;, to help &quot;meet voters where they are&quot; &lpar;Monica Alba/NBC News&rpar;](http://www.techmeme.com/240424/p32#a240424p32)<!-- TECH:END -->
+ - [Another Crab’s Treasure is a cheery, accessible take on Dark Souls](https://www.theverge.com/24139208/another-crabs-treasure-review-xbox-switch-ps5)
+ - [Reddit is updating its app to focus more on comments](https://www.theverge.com/2024/4/24/24139196/reddit-app-update-instant-comments-loading)
+ - [Windows 11 gets new update that brings ads to the Start menu](https://www.androidauthority.com/windows-11-ads-update-3436943/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
