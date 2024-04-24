@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xaira Therapeutics, which aims to use AI models to find new drugs to treat diseases, emerged from stealth with $1B in commitments from Sequoia and others &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240423/p42#a240423p42)
- - [As software gets better at labeling photos, CAPTCHA designers are adopting more difficult logic-based prompts to thwart nefarious bots &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/240423/p41#a240423p41)
- - [Steam will stop issuing refunds if you play two hours of a game before launch day](https://www.theverge.com/24138776/steam-refund-policy-change)<!-- TECH:END -->
+ - [The US Senate passes the TikTok divestment bill by a margin of 79-18; the legislation now heads to President Biden, who has committed to sign it into law &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240423/p43#a240423p43)
+ - [Senate passes TikTok ban bill, sending it to President Biden’s desk](https://www.theverge.com/2024/4/23/24137638/senate-passes-tiktok-ban-bill-divest-bytedance-foreign-aid)
+ - [This Is the Beginning of the End of TikTok](https://www.wired.com/story/senate-tiktok-ban/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
