@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, April 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-24-2024)
- - [Considered doomed 6 years ago, Fallout 76 is attracting record player numbers thanks to the TV series](https://www.pcgamer.com/games/fallout/considered-doomed-6-years-ago-fallout-76-is-attracting-record-player-numbers-thanks-to-the-tv-series)
- - [German government wants games like Baldur&#39;s Gate 3 to &#39;also go on to be developed in Germany&#39;](https://www.pcgamer.com/games/rpg/german-game-awards-baldurs-gate-3)<!-- GAME:END -->
+ - [Apple reportedly slashes Vision Pro headset production and cancels updated headset as sales tank in the US](https://www.pcgamer.com/hardware/vr-hardware/apple-reportedly-slashes-vision-pro-headset-production-and-cancels-updated-headset-as-sales-tank-in-the-us)
+ - [How to unlock all archetypes in Remnant 2](https://www.polygon.com/guides/23815603/remnant-2-archetypes-unlock-classes)
+ - [How to unlock the Invoker in Remnant 2’s The Forgotten Kingdom DLC](https://www.polygon.com/guides/24137676/invoker-archetype-unlock-remnant-2-forgotten-kingdom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
