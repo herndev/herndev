@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
- - ⏩ [Dreaming of younger times](http://9gag.com/gag/a9yddnK)
- - 👉 [Too realll](http://9gag.com/gag/ajPr66G)<!-- MEMES:END -->
+ - 💣 [Woman exceeds speed limit at motorway, then runs over traffic police officer at toll plaza before fleeing](http://9gag.com/gag/a0e99bQ)
+ - ⏩ [#10.](http://9gag.com/gag/aAyRnAp)
+ - 👉 [Nothing to see](http://9gag.com/gag/aYQNz4v)<!-- MEMES:END -->
 
 ---
 
