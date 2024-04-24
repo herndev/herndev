@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Make Fallout 76 Stop Running Like Crap On PC](https://kotaku.com/fallout-76-pc-mod-guide-120-60-fps-ini-best-setings-1851432982)
- - [How to complete the Yo-kai Watch event in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24139170/yo-kai-watch-fate-locations-minions-weapons-mount-rewards-coins)
- - [Ahead Of Dawntrail, Final Fantasy XIV Players Are Conflicted About Healers](https://kotaku.com/final-fantasy-14-ff14-dawntrail-healer-job-rework-1851432853)<!-- GAME:END -->
+ - [Surprise! Minecraft&#39;s brand new mob has rolled out months before the update we expected it would be in](https://www.pcgamer.com/games/survival-crafting/surprise-minecrafts-brand-new-mob-has-rolled-out-months-before-the-update-we-expected-it-would-be-in)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [Honkai: Star Rail codes for April 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
