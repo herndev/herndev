@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too realll](http://9gag.com/gag/ajPr66G)
+ - 💣 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
  - ⏩ [Dreaming of younger times](http://9gag.com/gag/a9yddnK)
- - 👉 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)<!-- MEMES:END -->
+ - 👉 [Too realll](http://9gag.com/gag/ajPr66G)<!-- MEMES:END -->
 
 ---
 
