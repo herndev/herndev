@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Reality Labs Q1: revenue up 30% YoY to $440M, vs. $512.5M est., a $3.85B operating loss, vs. $4.31B est.; Reality Labs lost $45B+ since the end of 2020 &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240424/p45#a240424p45)
- - [IBM agrees to buy HashiCorp, which helps companies manage cloud infrastructure, in a deal valuing HashiCorp at $6.4B and expected to close by the end of 2024 &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240424/p44#a240424p44)
- - [Drake threatened with lawsuit over diss track featuring AI Tupac](https://www.theverge.com/2024/4/24/24139442/tupac-ai-lawsuit-drake-taylor-made-diss-track)<!-- TECH:END -->
+ - [Google might be letting loose its own Pixel tablet with a pen and keyboard](https://www.androidauthority.com/pixel-tablet-relaunch-3437015/)
+ - [Source: cloud data management startup Rubrik priced its IPO at $32 a share, above its expected $28-$31 range, raising $752M and valuing the company at $5.6B &lpar;CNBC&rpar;](http://www.techmeme.com/240424/p47#a240424p47)
+ - [Threads wants to let you wipe your old posts away](https://www.theverge.com/2024/4/24/24139568/threads-archive-hide-posts-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
