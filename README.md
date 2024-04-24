@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
- - ⏩ [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 👉 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)<!-- MEMES:END -->
+ - 💣 [W Mans](http://9gag.com/gag/a9yddN6)
+ - ⏩ [Want some milk?](http://9gag.com/gag/avy0pXZ)
+ - 👉 [Let me out!!!!](http://9gag.com/gag/a1mAvY8)<!-- MEMES:END -->
 
 ---
 
