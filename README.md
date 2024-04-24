@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Considered doomed 6 years ago, Fallout 76 is attracting record player numbers thanks to the TV series](https://www.pcgamer.com/games/fallout/considered-doomed-6-years-ago-fallout-76-is-attracting-record-player-numbers-thanks-to-the-tv-series)
  - [German government wants games like Baldur&#39;s Gate 3 to &#39;also go on to be developed in Germany&#39;](https://www.pcgamer.com/games/rpg/german-game-awards-baldurs-gate-3)
- - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2024/04/23/may-savings-promotion-comes-to-playstation-store-2/)
  - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2024/04/23/may-savings-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
