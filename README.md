@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Klei&#39;s new co-op brawler makes a strong first impression in early access](https://www.pcgamer.com/games/action/rotwood-early-access-launch)
- - [Nintendo Forcing Garry&#39;s Mod To Delete 20 Years&#39; Worth Of Content](https://kotaku.com/nintendo-garrys-mod-takedown-content-1851433656)
- - [Two Popular Fallout 76 Builds To Stop You From Dying In The Wasteland](https://kotaku.com/fallout-76-perk-fo76-build-stealth-commando-heavy-pa-1851433521)<!-- GAME:END -->
+ - [Don&#39;t worry, you&#39;re not missing out by boosting straight to level 20 in Fallout 76](https://www.pcgamer.com/games/fallout/dont-worry-youre-not-missing-out-by-boosting-straight-to-level-20-in-fallout-76)
+ - [Garry&#39;s Mod is removing 20 years&#39; worth of Nintendo-related items from its Steam Workshop following takedown request: &#39;It&#39;s Nintendo. Need more be said?&#39;](https://www.pcgamer.com/games/sim/garrys-mod-is-removing-20-years-worth-of-nintendo-related-items-from-its-steam-workshop-following-takedown-request-its-nintendo-need-more-be-said)
+ - [When does Manor Lords release?](https://www.polygon.com/manor-lords-guides/24139558/manor-lords-release-time-steam-gog-game-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
