@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman exceeds speed limit at motorway, then runs over traffic police officer at toll plaza before fleeing](http://9gag.com/gag/a0e99bQ)
- - ⏩ [Hi mom](http://9gag.com/gag/aD20AVd)
- - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
+ - 💣 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
+ - ⏩ [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 👉 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)<!-- MEMES:END -->
 
 ---
 
