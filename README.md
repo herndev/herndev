@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft begins rolling out ads in the Windows 11 Start menu showing app &quot;recommendations&quot; from &quot;a small set of curated developers&quot;; users can disable the ads &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240424/p20#a240424p20)
- - [New EU rule gives you a reason not to throw away your broken phone](https://www.androidauthority.com/new-eu-right-to-repair-rule-broken-phone-3436813/)
- - [How to find 3D movies to watch on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-find-3d-movies-to-watch-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [HMD’s new budget phone lineup bets big on easy battery swaps](https://www.androidauthority.com/hmd-pulse-3436868/)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Apple won&#39;t have to do that much to comply with EU&#39;s new right to repair law](https://appleinsider.com/articles/24/04/24/apple-wont-have-to-do-that-much-to-comply-with-eus-new-right-to-repair-law?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
