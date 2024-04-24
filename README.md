@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden signing the TikTok divestment bill starts a 270-day countdown for a sale or a US prohibition; sources say ByteDance sees divestiture as a last resort &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240424/p16#a240424p16)
- - [T-Mobile doesn’t want you moving around with your 5G gateway without paying more](https://www.androidauthority.com/t-mobile-home-internet-plus-5g-address-validation-3436833/)
- - [An interview with Apple Arcade&#39;s Senior Director Alex Rofman: the service hit record highs on all &quot;critical metrics&quot; in 2023, and will feature Vision Pro games &lpar;Keith Stuart/The Guardian&rpar;](http://www.techmeme.com/240424/p15#a240424p15)<!-- TECH:END -->
+ - [Microsoft begins rolling out ads in the Windows 11 Start menu showing app &quot;recommendations&quot; from &quot;a small set of curated developers&quot;; users can disable the ads &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240424/p20#a240424p20)
+ - [New EU rule gives you a reason not to throw away your broken phone](https://www.androidauthority.com/new-eu-right-to-repair-rule-broken-phone-3436813/)
+ - [How to find 3D movies to watch on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-find-3d-movies-to-watch-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
