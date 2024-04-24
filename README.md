@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark Roast Cafè is an adorably satanic, cozy game where you employ quirky demons to help run your business](https://www.pcgamer.com/games/life-sim/dark-roast-cafe-is-an-adorably-satanic-cozy-game-where-you-employ-quirky-demons-to-help-run-your-business)
- - [HyperX Cloud III Wireless review](https://www.pcgamer.com/hardware/gaming-headsets/hyperx-cloud-iii-wireless-review)
- - [Another Crab’s Treasure hands-on report: a playful Soulsike tribute with fresh ideas](https://blog.playstation.com/2024/04/24/another-crabs-treasure-hands-on-report-a-playful-soulsike-tribute-with-fresh-ideas/)<!-- GAME:END -->
+ - [No Rest for the Wicked chief defends early access, says more games should do it: &#39;Imagine [if] Dark Souls 1 had been in early access&#39;](https://www.pcgamer.com/games/rpg/no-rest-for-the-wicked-chief-defends-early-access-says-more-games-should-do-it-imagine-if-dark-souls-1-had-been-in-early-access)
+ - [Why This Claymation Indie Game Is Like An Aquarium](https://kotaku.com/harold-halibut-slow-bros-xbox-game-pass-playstation-pc-1851432593)
+ - [Overwatch 2&#39;s Mirrorwatch Event Is So Good It Has Me In Mourning](https://kotaku.com/overwatch-2-mirrorwatch-skin-event-mode-tracer-mercy-1851432566)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
