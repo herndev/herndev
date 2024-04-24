@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
- - ⏩ [Hi mom](http://9gag.com/gag/aD20AVd)
- - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
+ - 💣 [Math?](http://9gag.com/gag/avy00Wn)
+ - ⏩ [If you are going bald, just shave your entire head. A shaved head always looks better.](http://9gag.com/gag/a4P49Bp)
+ - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
 
 ---
 
