@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - ⏩ [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
- - 👉 [W Mans](http://9gag.com/gag/a9yddN6)<!-- MEMES:END -->
+ - 💣 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
+ - ⏩ [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 👉 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)<!-- MEMES:END -->
 
 ---
 
