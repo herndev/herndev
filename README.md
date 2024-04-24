@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Two Popular Fallout 76 Builds To Stop You From Dying In The Wasteland](https://kotaku.com/fallout-76-perk-fo76-build-stealth-commando-heavy-pa-1851433521)
- - [&#39;We aren&#39;t going anywhere,&#39; TikTok CEO says as company vows to fight US ban](https://www.pcgamer.com/software/we-arent-going-anywhere-tiktok-ceo-says-as-company-vows-to-fight-us-ban)
- - [Embracer CEO Is Full Of Excuses](https://kotaku.com/embracer-group-dying-split-up-ceo-excuses-interview-1851433342)<!-- GAME:END -->
+ - [Klei&#39;s new co-op brawler makes a strong first impression in early access](https://www.pcgamer.com/games/action/rotwood-early-access-launch)
+ - [Nintendo Forcing Garry&#39;s Mod To Delete 20 Years&#39; Worth Of Content](https://kotaku.com/nintendo-garrys-mod-takedown-content-1851433656)
+ - [Two Popular Fallout 76 Builds To Stop You From Dying In The Wasteland](https://kotaku.com/fallout-76-perk-fo76-build-stealth-commando-heavy-pa-1851433521)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
