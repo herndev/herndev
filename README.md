@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Palantir, which doesn&#39;t have a traditional salesforce, is using software boot camps to attract customers, hosting an average of about five per day in 2024 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240424/p12#a240424p12)
- - [An important Chrome privacy feature has been delayed yet again](https://www.androidauthority.com/google-delay-third-party-cookie-ban-2025-3436800/)
- - [A look at the restaurant reservation ecosystem in New York City, where new apps have sprung up to help diners book a table at buzzy restaurants for a price &lpar;Adam Iscoe/New Yorker&rpar;](http://www.techmeme.com/240424/p11#a240424p11)<!-- TECH:END -->
+ - [Biden signing the TikTok divestment bill starts a 270-day countdown for a sale or a US prohibition; sources say ByteDance sees divestiture as a last resort &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240424/p16#a240424p16)
+ - [T-Mobile doesn’t want you moving around with your 5G gateway without paying more](https://www.androidauthority.com/t-mobile-home-internet-plus-5g-address-validation-3436833/)
+ - [An interview with Apple Arcade&#39;s Senior Director Alex Rofman: the service hit record highs on all &quot;critical metrics&quot; in 2023, and will feature Vision Pro games &lpar;Keith Stuart/The Guardian&rpar;](http://www.techmeme.com/240424/p15#a240424p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
