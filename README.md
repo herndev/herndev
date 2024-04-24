@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dreaming of younger times](http://9gag.com/gag/a9yddnK)
- - ⏩ [Internet advices](http://9gag.com/gag/axyNdMp)
- - 👉 [Straight to hell](http://9gag.com/gag/azxbgxZ)<!-- MEMES:END -->
+ - 💣 [That really hurts](http://9gag.com/gag/a0e8mjd)
+ - ⏩ [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 👉 [Ahh yes nyc](http://9gag.com/gag/a4P445m)<!-- MEMES:END -->
 
 ---
 
