@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s good news if you want to run Gemini on your old phone](https://www.androidauthority.com/gemini-app-support-older-android-devices-3435980/)
- - [Microsoft must take security seriously again by being transparent about breaches and no longer charging its subscribers extra for must-have security features &lpar;Mary Jo Foley/Directions on Microsoft&rpar;](http://www.techmeme.com/240424/p9#a240424p9)
- - [Paris-based FlexAI, which is developing an on-demand cloud service for AI training, emerges from stealth with a $30M in seed funding &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240424/p8#a240424p8)<!-- TECH:END -->
+ - [Galaxy S25 to get new AI features powered by Google’s Gemini Nano 2 model: Report](https://www.androidauthority.com/galaxy-s25-gemini-nano-2-ai-features-3436802/)
+ - [TikTok’s sale or ban in the US is one imminent step away](https://www.androidauthority.com/tiktok-sale-or-ban-us-imminent-3436787/)
+ - [Bang &amp; Olufsen Beosystem 9000c: Price, Specs, Release Date](https://www.wired.com/story/bang-olufsen-beosound-9000-cd-changer-is-back/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
