@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - ⏩ [Hi mom](http://9gag.com/gag/aD20AVd)
- - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
+ - ⏩ [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 👉 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)<!-- MEMES:END -->
 
 ---
 
