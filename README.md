@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: the US Department of Commerce is reviewing the national security implications of China&#39;s work in open-source RISC-V chip technology &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240423/p39#a240423p39)
- - [A cheaper Tesla is back on the menu](https://www.theverge.com/2024/4/23/24138646/tesla-q1-2024-earnings-model-2-affordable-electric-vehicles)
- - [Tesla teases a ridehailing function in its app and says its robotaxi will be &quot;purpose-built&quot;, suggesting it will be built from the ground up to be self-driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240423/p38#a240423p38)<!-- TECH:END -->
+ - [The EU’s new right-to-repair rules make companies fix your device after a warranty expires](https://www.theverge.com/2024/4/23/24138499/eu-new-right-to-repair-rules-fix-after-warranty-expire)
+ - [Noncompetes Are Dead—and Tech Workers Are Free to Roam](https://www.wired.com/story/noncompetes-are-dead-tech-workers-free-to-roam/)
+ - [Nest Revival? Google’s smart speakers may be poised for a long-due refresh](https://www.androidauthority.com/nest-hub-max-nest-audio-3436736/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
