@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY-based Campus, which is building an online alternative to traditional community colleges, raised a $23M Series A extension following a $29M Series A in 2023 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240423/p45#a240423p45)
- - [The Mercedes G-Wagen, the ultimate off-road status symbol, goes electric](https://www.theverge.com/2024/4/23/24134951/mercedes-g-wagen-electric-eqg-price-specs-photos)
- - [Legal scholars discuss how the TikTok divestment bill could survive a First Amendment challenge and why the US will likely rely on a national security argument &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240423/p44#a240423p44)<!-- TECH:END -->
+ - [SenseTime&#39;s stock rises 30%+ after the company unveiled the latest version of its SenseNova AI model; SenseTime&#39;s stock is down 80%+ since its 2021 HK IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240424/p3#a240424p3)
+ - [Samsung starts mass production of its 9th-generation 286-layer 3D NAND memory chips, which increases data I/O speeds by 33% compared to 8th-gen 236-layer chips &lpar;Nami Matsuura/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p2#a240424p2)
+ - [Paris-based Payflows, whose automated financial management SaaS could be deployed on top of existing ERP systems, raised a &amp;euro;25M Series A led by Balderton &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240424/p1#a240424p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
