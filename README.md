@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That really hurts](http://9gag.com/gag/a0e8mjd)
+ - 💣 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
  - ⏩ [Hi mom](http://9gag.com/gag/aD20AVd)
- - 👉 [Ahh yes nyc](http://9gag.com/gag/a4P445m)<!-- MEMES:END -->
+ - 👉 [My Idol](http://9gag.com/gag/agmy0Gx)<!-- MEMES:END -->
 
 ---
 
