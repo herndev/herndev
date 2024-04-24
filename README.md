@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worldcoin subsidiary World Assets plans to sell WLD tokens to meet the demand for orb-verified World IDs and support Worldcoin network growth; WLD drops 7%+ &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/240424/p37#a240424p37)
- - [Apple’s new AI model hints at how AI could come to the iPhone](https://www.theverge.com/2024/4/24/24139266/apple-ai-model-openelm-iphone-laptops-strategy)
- - [Nokia maker launches its first HMD-branded line for the US](https://www.androidauthority.com/hmd-vibe-launch-announcement-3436964/)<!-- TECH:END -->
+ - [Spotify second iOS app update attempt in EU fails to pass App Store review](https://appleinsider.com/articles/24/04/24/spotify-second-ios-app-update-attempt-in-eu-fails-to-pass-app-store-review?utm_medium=rss)
+ - [TikTok is suspending the rewards program in TikTok Lite while it tries to resolve EU concerns about the potentially addictive nature of the program for children &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240424/p40#a240424p40)
+ - [US prosecutors charge two founders of the Samourai Wallet crypto mixing service, saying it facilitated more than $100M in money laundering transactions &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/240424/p39#a240424p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
