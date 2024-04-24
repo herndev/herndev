@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
- - ⏩ [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
- - 👉 [That&#39;s why British choose an Indian.](http://9gag.com/gag/aryp17p)<!-- MEMES:END -->
+ - 💣 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
+ - ⏩ [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
+ - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
 
 ---
 
