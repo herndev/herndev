@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The futility of Helldivers 2&#39;s &#39;Menkent Line&#39; has parts of the community feeling bot fatigue: &#39;We fought hard to establish a defensive line, and for what?&#39;](https://www.pcgamer.com/games/third-person-shooter/the-futility-of-helldivers-2s-menkent-line-has-parts-of-the-community-feeling-bot-fatigue-we-fought-hard-to-establish-a-defensive-line-and-for-what)
- - [Fallout is ‘probably the best-performing Commander set ever,’ says Hasbro CEO](https://www.polygon.com/24139124/mtg-fallout-best-selling-commander-set-ever)
- - [Sony Removing Stellar Blade&#39;s Unintentional N-Word Reference](https://kotaku.com/stellar-blade-ps5-racism-day-one-patch-1851432185)<!-- GAME:END -->
+ - [Dark Roast Cafè is an adorably satanic, cozy game where you employ quirky demons to help run your business](https://www.pcgamer.com/games/life-sim/dark-roast-cafe-is-an-adorably-satanic-cozy-game-where-you-employ-quirky-demons-to-help-run-your-business)
+ - [HyperX Cloud III Wireless review](https://www.pcgamer.com/hardware/gaming-headsets/hyperx-cloud-iii-wireless-review)
+ - [Another Crab’s Treasure hands-on report: a playful Soulsike tribute with fresh ideas](https://blog.playstation.com/2024/04/24/another-crabs-treasure-hands-on-report-a-playful-soulsike-tribute-with-fresh-ideas/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
