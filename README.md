@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
- - ⏩ [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
- - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
+ - 💣 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
+ - ⏩ [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
+ - 👉 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)<!-- MEMES:END -->
 
 ---
 
