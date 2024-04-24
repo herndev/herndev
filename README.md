@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s latest Android betas reveal two new features coming to the app](https://www.androidauthority.com/whatsapp-in-app-dialler-hidden-group-3436770/)
- - [Huawei unveils Qiankun, a new business unit focused on providing self-driving systems, marking the company&#39;s latest push to become a major EV industry player &lpar;Reuters&rpar;](http://www.techmeme.com/240424/p4#a240424p4)
- - [SenseTime&#39;s stock rises 30%+ after the company unveiled the latest version of its SenseNova AI model; SenseTime&#39;s stock is down 80%+ since its 2021 HK IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240424/p3#a240424p3)<!-- TECH:END -->
+ - [There’s good news if you want to run Gemini on your old phone](https://www.androidauthority.com/gemini-app-support-older-android-devices-3435980/)
+ - [Microsoft must take security seriously again by being transparent about breaches and no longer charging its subscribers extra for must-have security features &lpar;Mary Jo Foley/Directions on Microsoft&rpar;](http://www.techmeme.com/240424/p9#a240424p9)
+ - [Paris-based FlexAI, which is developing an on-demand cloud service for AI training, emerges from stealth with a $30M in seed funding &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240424/p8#a240424p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
