@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roll20 coming directly to your Discord server](https://www.polygon.com/tabletop-games/24137609/roll20-discord-activity)
- - [Fallout 76 has seen a million players in a single day, and 5 million across the franchise](https://www.polygon.com/24131018/fallout-games-steam-player-count-bethesda-tv-show)
- - [Where to find The Parting Glass in World of Warcraft: Dragonflight](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-wow-dragonflight-parting-glass-location)<!-- GAME:END -->
+ - [Stellar Blade is more than skin deep](https://www.polygon.com/reviews/24137538/stellar-blade-review-shift-up-playstation-5)
+ - [FF14 and FF16 senior translator Koji Fox says &#39;you can kinda tell&#39; game director Naoki Yoshida is &#39;like: I&#39;m done with dark fantasy, I want to do something light again&#39;](https://www.pcgamer.com/games/final-fantasy/ff14-and-ff16-senior-translator-koji-fox-says-you-can-kinda-tell-game-director-naoki-yoshida-is-like-im-done-with-dark-fantasy-i-want-to-do-something-light-again)
+ - [Valve Closes Loophole Some Steam Users Were Exploiting For Refunds](https://kotaku.com/steam-refund-advanced-access-valve-pc-1851431425)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
