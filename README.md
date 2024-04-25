@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Google Meet feature lets you seamlessly switch devices during calls](https://www.androidauthority.com/google-meet-seamlessly-transfer-3437134/)
- - [Team Biden Is Posting Through the Looming TikTok Ban](https://www.wired.com/story/biden-is-still-posting-on-tiktok/)
- - [Google Wallet gets American Express support on Fitbit, notification improvements, and more](https://www.androidauthority.com/google-wallet-fitbit-american-express-support-3437242/)<!-- TECH:END -->
+ - [You can now get the Google Nest Wifi router for just $49.99 &lpar;70% off&rpar;](https://www.androidauthority.com/google-nest-wifi-router-deal-3436999/)
+ - [Anyone want to buy TikTok?](https://www.theverge.com/2024/4/25/24139724/tiktok-ban-sale-law-rabbit-r1-tesla-ipad-vergecast-podcast)
+ - [Pixel 8 users can now use Face Unlock in one more app](https://www.androidauthority.com/pixel-8-face-unlock-whatsapp-3437257/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
