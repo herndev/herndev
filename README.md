@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As ASML shareholders approve Christophe Fouquet as CEO, he faces a tricky balancing act to guide ASML, Europe&#39;s largest tech firm, through the US-China chip war &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240425/p26#a240425p26)
- - [Dock-free Pixel Tablet spotted in European listings, official pen and keyboard coming too](https://www.androidauthority.com/pixel-tablet-relaunch-pricing-3437425/)
- - [Net Neutrality Returns to a Very Different Internet](https://www.wired.com/story/fcc-net-neutrality-rules-vote/)<!-- TECH:END -->
+ - [Roku reports Q1 revenue up 19% YoY to $882M, vs. $848.62M est., a net loss of $50.9M, compared to $193.6M YoY, and 81.6M active accounts, up 1.6M from Q4 2023 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240425/p36#a240425p36)
+ - [Atlassian&#39;s co-CEO Scott Farquhar plans to step down on August 31, 2024, after 23 years at the company; he will remain a board member and a special advisor &lpar;Scott Farquhar/Work Life&rpar;](http://www.techmeme.com/240425/p35#a240425p35)
+ - [Snap reports Q1 revenue up 21% YoY to $1.19B, vs. $1.12B est., DAUs up 10% YoY to 422M, a net loss of $305M, compared to $329M YoY; SNAP is up 20%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240425/p34#a240425p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
