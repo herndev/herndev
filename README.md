@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - ⏩ [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 👉 [April Vs April](http://9gag.com/gag/a0e99DQ)<!-- MEMES:END -->
+ - 💣 [Gothing withing](http://9gag.com/gag/aoyz90n)
+ - ⏩ [The biggest question](http://9gag.com/gag/a7o5bML)
+ - 👉 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)<!-- MEMES:END -->
 
 ---
 
