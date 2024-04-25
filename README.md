@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo survey of 750 CIOs: 96% expect increased AI investment in the next 12 months and 42% don&#39;t expect to show return on AI investments for the next two years &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p8#a240425p8)
- - [The ChatGPT app is borrowing a handy feature from its web version](https://www.androidauthority.com/chatgpt-app-edit-prompts-3437128/)
- - [T-Mobile is making fraudulent SIM swaps much harder](https://www.androidauthority.com/t-mobile-sim-swap-changes-3437120/)<!-- TECH:END -->
+ - [A look at AI video startup Synthesia, whose avatars are more human-like and expressive than predecessors, raising concerns over the consequences of realistic AI &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240425/p11#a240425p11)
+ - [Franco-Italian chip company STMicro reports Q1 revenue down 18% YoY to $3.47B, below $3.63B est., and expects Q2 sales down 26% YoY to $3.2B, below $3.79B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240425/p10#a240425p10)
+ - [Setting up WhatsApp on iPhones just got more convenient](https://www.androidauthority.com/whatsapp-passkey-support-ios-3437166/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
