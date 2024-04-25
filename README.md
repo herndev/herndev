@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, a Shadowy Figure Is Not Buying Tents for Columbia Student Protesters](https://www.wired.com/story/conspiracy-tents-student-protests-gaza/)
- - [10 Best Cold-Brew Coffee Makers &lpar;2024&rpar;: Oxo, KitchenAid, and More](https://www.wired.com/story/best-cold-brew-coffee-makers/)
- - [The 14 Best Barefoot Shoes &lpar;2024&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)<!-- TECH:END -->
+ - [Garry’s Mod is taking down decades of Nintendo-related add-ons](https://www.theverge.com/2024/4/25/24140246/garrys-mod-nintendo-copyright-takedowns-dmca)
+ - [Threads expands Hidden Words to let users filter out words, phrases, or emoji, and tests the option to mute notifications and ways to select who can quote posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240425/p23#a240425p23)
+ - [Hands-on: this self-transforming Megatron is as badass as it is expensive](https://www.theverge.com/2024/4/25/24138325/transformers-robosen-megatron-self-converting-robot-toy-hasbro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
