@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My lord....](http://9gag.com/gag/ayN57BX)
- - ⏩ [W Mans](http://9gag.com/gag/a9yddN6)
- - 👉 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)<!-- MEMES:END -->
+ - 💣 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)
+ - ⏩ [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
+ - 👉 [Nice critique of when gov helps bigcorp with taxpayer&#39;s money.](http://9gag.com/gag/aXPbX0v)<!-- MEMES:END -->
 
 ---
 
