@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t worry, you&#39;re not missing out by boosting straight to level 20 in Fallout 76](https://www.pcgamer.com/games/fallout/dont-worry-youre-not-missing-out-by-boosting-straight-to-level-20-in-fallout-76)
- - [Garry&#39;s Mod is removing 20 years&#39; worth of Nintendo-related items from its Steam Workshop following takedown request: &#39;It&#39;s Nintendo. Need more be said?&#39;](https://www.pcgamer.com/games/sim/garrys-mod-is-removing-20-years-worth-of-nintendo-related-items-from-its-steam-workshop-following-takedown-request-its-nintendo-need-more-be-said)
- - [When does Manor Lords release?](https://www.polygon.com/manor-lords-guides/24139558/manor-lords-release-time-steam-gog-game-pass)<!-- GAME:END -->
+ - [Steam closes refund policy loophole, comes up with official term for the thing where you can play a game early if you pre-order](https://www.pcgamer.com/gaming-industry/steam-closes-refund-policy-loophole-comes-up-with-official-term-for-the-thing-where-you-can-play-a-game-early-if-you-pre-order)
+ - [Lords of the Fallen now has one of those masochistic enemy randomizer modes for action RPG fans looking for punishment](https://www.pcgamer.com/games/rpg/lords-of-the-fallen-now-has-one-of-those-masochistic-enemy-randomizer-modes-for-action-rpg-fans-looking-for-punishment)
+ - [Don&#39;t worry, you&#39;re not missing out by boosting straight to level 20 in Fallout 76](https://www.pcgamer.com/games/fallout/dont-worry-youre-not-missing-out-by-boosting-straight-to-level-20-in-fallout-76)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
