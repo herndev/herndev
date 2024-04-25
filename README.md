@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Fallout bundle is a critical hit and at its lowest price ever](https://www.polygon.com/deals/24140482/fallout-franchise-bundle-game-deal-sale-fanatical)
- - [Fortnite Avatar event quests and Elements rewards](https://www.polygon.com/fortnite-guide/24128422/avatar-event-quest-schedule-elements-rewards)
- - [Manor Lords release date and launch times: here&#39;s when the medieval city building gates open](https://www.pcgamer.com/games/city-builder/manor-lords-release-date-times)<!-- GAME:END -->
+ - [A new Escape from Tarkov special edition finally offers offline PvE, for just $250](https://www.polygon.com/24140541/escape-from-tarkov-the-unheard-edition-250)
+ - [Arrowhead says Helldivers 2 players should avoid bullying those fancy lads with the blue preorder armor, who are canonically frozen yogurt salesmen](https://www.pcgamer.com/games/third-person-shooter/arrowhead-says-helldivers-2-players-should-avoid-bullying-those-fancy-lads-with-the-blue-preorder-armor-who-are-canonically-frozen-yogurt-salesmen)
+ - [Escape From Tarkov players rage as developers lock co-op PvE behind a new $250 edition despite promising access to &#39;all subsequent DLCs&#39; in its old $150 edition](https://www.pcgamer.com/games/fps/escape-from-tarkov-players-rage-as-developers-lock-co-op-pve-behind-a-new-dollar250-edition-despite-promising-access-to-all-subsequent-dlcs-in-its-old-dollar150-edition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
