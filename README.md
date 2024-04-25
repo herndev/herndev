@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, April 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-25-2024)
  - [Total War: Warhammer 3&#39;s next free DLC gives away gold wizards, an evil crown, and a legendary lord who counts diseases for fun](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-next-free-dlc-gives-away-gold-wizards-an-evil-crown-and-a-legendary-lord-who-counts-diseases-for-fun)
- - [Steam closes refund policy loophole, finally comes up with a name for the thing where you can play a game early if you pre-order](https://www.pcgamer.com/gaming-industry/steam-closes-refund-policy-loophole-comes-up-with-official-term-for-the-thing-where-you-can-play-a-game-early-if-you-pre-order)
- - [Lords of the Fallen now has one of those masochistic enemy randomizer modes for action RPG fans looking for punishment](https://www.pcgamer.com/games/rpg/lords-of-the-fallen-now-has-one-of-those-masochistic-enemy-randomizer-modes-for-action-rpg-fans-looking-for-punishment)<!-- GAME:END -->
+ - [Steam closes refund policy loophole, finally comes up with a name for the thing where you can play a game early if you pre-order](https://www.pcgamer.com/gaming-industry/steam-closes-refund-policy-loophole-comes-up-with-official-term-for-the-thing-where-you-can-play-a-game-early-if-you-pre-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
