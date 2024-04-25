@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uniqlo’s Zelda: Tears of the Kingdom is next video game collab](https://www.polygon.com/2024/4/3/24118877/zelda-tears-of-the-kingdom-uniqlo-clothing-apparel)
- - [Free Play Days – Railway Empire, Prison Architect and TramSim: Console Edition](https://news.xbox.com/en-us/2024/04/25/free-play-days-railway-empire-prison-architect-and-tramsim-console-edition/)
- - [Comics creators can’t quit the Dead Boy Detectives, and the TV world has finally noticed](https://www.polygon.com/24138232/dead-boy-detectives-neil-gaiman-dc-comics-book-origin-netflix)<!-- GAME:END -->
+ - [Dough Spectrum Black 27 review](https://www.pcgamer.com/hardware/gaming-monitors/dough-spectrum-black-27-oled-gaming-monitor-review)
+ - [Manor Lords dev asks press and YouTubers to stop breaking the game: &#39;please restrain yourself&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-dev-asks-press-and-youtubers-to-stop-breaking-the-game-please-restrain-yourself)
+ - [Playing Fallout 4 With Mods? Get Ready For Everything To Break](https://kotaku.com/fallout-4-next-gen-mods-breaking-how-to-stop-update-1851435319)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
