@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)
- - ⏩ [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
- - 👉 [Nice critique of when gov helps bigcorp with taxpayer&#39;s money.](http://9gag.com/gag/aXPbX0v)<!-- MEMES:END -->
+ - 💣 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - ⏩ [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 👉 [9gaggers love this](http://9gag.com/gag/amoXNPo)<!-- MEMES:END -->
 
 ---
 
