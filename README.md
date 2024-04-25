@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - ⏩ [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 👉 [The Poll](http://9gag.com/gag/aAyY1p0)<!-- MEMES:END -->
+ - 💣 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
+ - ⏩ [Anyone else notice this?](http://9gag.com/gag/aqymNyM)
+ - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
 
 ---
 
