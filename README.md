@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)
- - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.8nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)
- - [Google Keep reminders are coming to Google Tasks](https://www.androidauthority.com/keep-reminders-tasks-3437443/)<!-- TECH:END -->
+ - [Sony’s PlayStation Portal handheld is back in stock at multiple retailers](https://www.theverge.com/2024/4/25/24125120/playstation-portal-ps5-remote-player-best-buy-restock)
+ - [The CHIPS Act has been surprisingly successful so far, giving the US greater scope to meet critical infrastructure needs in the event of a crisis in East Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240425/p38#a240425p38)
+ - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
