@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is making fraudulent SIM swaps much harder](https://www.androidauthority.com/t-mobile-sim-swap-changes-3437120/)
- - [A look at Saudi Arabia&#39;s spending blitz to become an AI superpower, which has put the kingdom in the middle of an escalating global competition over AI &lpar;New York Times&rpar;](http://www.techmeme.com/240425/p7#a240425p7)
- - [It was a good run: OnePlus 8/8 Pro receive their last update](https://www.androidauthority.com/oneplus-8-pro-final-update-end-of-life-3436767/)<!-- TECH:END -->
+ - [Lenovo survey of 750 CIOs: 96% expect increased AI investment in the next 12 months and 42% don&#39;t expect to show return on AI investments for the next two years &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p8#a240425p8)
+ - [The ChatGPT app is borrowing a handy feature from its web version](https://www.androidauthority.com/chatgpt-app-edit-prompts-3437128/)
+ - [T-Mobile is making fraudulent SIM swaps much harder](https://www.androidauthority.com/t-mobile-sim-swap-changes-3437120/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
