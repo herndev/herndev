@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Brazil, a police dog found a large shipment of drugs. Judging by his smile, he also tried them.](http://9gag.com/gag/aZZPxp3)
- - ⏩ [A month ago, I can&#39;t even do a single push up with proper form. Now I can 30, I know it&#39;s not that much..](http://9gag.com/gag/aLnKBLM)
- - 👉 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)<!-- MEMES:END -->
+ - 💣 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - ⏩ [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
 
 ---
 
