@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku reports Q1 revenue up 19% YoY to $882M, vs. $848.62M est., a net loss of $50.9M, compared to $193.6M YoY, and 81.6M active accounts, up 1.6M from Q4 2023 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240425/p36#a240425p36)
- - [Atlassian&#39;s co-CEO Scott Farquhar plans to step down on August 31, 2024, after 23 years at the company; he will remain a board member and a special advisor &lpar;Scott Farquhar/Work Life&rpar;](http://www.techmeme.com/240425/p35#a240425p35)
- - [Snap reports Q1 revenue up 21% YoY to $1.19B, vs. $1.12B est., DAUs up 10% YoY to 422M, a net loss of $305M, compared to $329M YoY; SNAP is up 20%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240425/p34#a240425p34)<!-- TECH:END -->
+ - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)
+ - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.8nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)
+ - [Google Keep reminders are coming to Google Tasks](https://www.androidauthority.com/keep-reminders-tasks-3437443/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
