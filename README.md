@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - ⏩ [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
- - 👉 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)<!-- MEMES:END -->
+ - 💣 [Perfect car for the apocalypse, now I just need to assemble my crew](http://9gag.com/gag/aByKKgx)
+ - ⏩ [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
+ - 👉 [Guessing which hole..](http://9gag.com/gag/aW4ZQP2)<!-- MEMES:END -->
 
 ---
 
