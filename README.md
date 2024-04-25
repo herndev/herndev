@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
- - ⏩ [My Idol](http://9gag.com/gag/agmy0Gx)
- - 👉 [`We&#39;re going down together`](http://9gag.com/gag/apRq0pn)<!-- MEMES:END -->
+ - 💣 [Okie Dokie](http://9gag.com/gag/apRqqVb)
+ - ⏩ [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 👉 [Never underestimate the power of small habits](http://9gag.com/gag/aKGzzr6)<!-- MEMES:END -->
 
 ---
 
