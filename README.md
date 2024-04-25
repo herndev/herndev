@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout’s costume designer explains why The Ghoul looks so hot](https://www.polygon.com/24135121/ghoul-fallout-tv-show-new-look-walton-goggins-inspiration-hot)
- - [Paper Mario: The Thousand Year Door&#39;s Remake Is Looking Picture Perfect](https://kotaku.com/paper-mario-thousand-year-door-nintendo-footage-1851434763)
- - [Manor Lords won&#39;t let me get away with my usual survival city builder cheese strats, so I guess I&#39;m actually gonna have to become a competent mayor](https://www.pcgamer.com/games/city-builder/manor-lords-wont-let-me-get-away-with-my-usual-survival-city-builder-cheese-strats-so-i-guess-im-actually-gonna-have-to-become-a-competent-mayor)<!-- GAME:END -->
+ - [Uniqlo’s Zelda: Tears of the Kingdom is next video game collab](https://www.polygon.com/2024/4/3/24118877/zelda-tears-of-the-kingdom-uniqlo-clothing-apparel)
+ - [Free Play Days – Railway Empire, Prison Architect and TramSim: Console Edition](https://news.xbox.com/en-us/2024/04/25/free-play-days-railway-empire-prison-architect-and-tramsim-console-edition/)
+ - [Comics creators can’t quit the Dead Boy Detectives, and the TV world has finally noticed](https://www.polygon.com/24138232/dead-boy-detectives-neil-gaiman-dc-comics-book-origin-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
