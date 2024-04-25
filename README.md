@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI video startup Synthesia, whose avatars are more human-like and expressive than predecessors, raising concerns over the consequences of realistic AI &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240425/p11#a240425p11)
- - [Franco-Italian chip company STMicro reports Q1 revenue down 18% YoY to $3.47B, below $3.63B est., and expects Q2 sales down 26% YoY to $3.2B, below $3.79B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240425/p10#a240425p10)
- - [Setting up WhatsApp on iPhones just got more convenient](https://www.androidauthority.com/whatsapp-passkey-support-ios-3437166/)<!-- TECH:END -->
+ - [Exclusive: Here’s what Qualcomm didn’t tell you about the Snapdragon X series](https://www.androidauthority.com/snapdragon-x-models-3429369/)
+ - [The next big game from Clash of Clans developer Supercell launches in May](https://www.theverge.com/2024/4/25/24139112/squad-busters-supercell-trailer-release-date)
+ - [Garry&#39;s Mod is removing &quot;all Nintendo related stuff&quot; from its Steam Workshop, covering &quot;20 years of uploads&quot;, after receiving a takedown request from Nintendo &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/240425/p13#a240425p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
