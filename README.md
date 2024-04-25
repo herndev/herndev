@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit announces that its Dynamic Product Ads, which use &quot;shopping signals&quot; to automatically show relevant ads to users, are entering public beta globally &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240424/p53#a240424p53)
  - [SK Hynix reports Q1 revenue of ~$9B, more than doubling YoY, and ~$2B in operating income, above estimates of ~$1.3B and the biggest quarterly profit since 2022 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240424/p52#a240424p52)
- - [Memo: Thrasio CEO Greg Greeley plans to resign and five other senior executives will &quot;step down when Thrasio emerges from Chapter 11 in the coming weeks&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240424/p51#a240424p51)
- - [Best MacBook Air M2 Deals: Save Up to $300, Including on the Fleeting 15-inch Model     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo: Thrasio CEO Greg Greeley plans to resign and five other senior executives will &quot;step down when Thrasio emerges from Chapter 11 in the coming weeks&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240424/p51#a240424p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
