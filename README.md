@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Console Sales Are Tanking](https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748)
- - [Bungie is reversing its decision to sunset weapons for Destiny 2: The Final Shape](https://www.polygon.com/24140650/destiny-2-the-final-shape-sunsetting-weapons-power-bungie)
- - [Tomb Raider &lpar;2013&rpar; Definitive Edition Quietly Arrives On PC After A Decade](https://kotaku.com/tomb-raider-definitive-edition-2013-pc-microsoft-store-1851436524)<!-- GAME:END -->
+ - [6 things to know before watching Zendaya’s new sports movie Challengers](https://www.polygon.com/24140585/challengers-post-credits-scene-rules-of-tennis)
+ - [After 10 years on Steam, Korean MMO ArcheAge is giving up on North America and Europe](https://www.pcgamer.com/games/mmo/after-10-years-on-steam-korean-mmo-archeage-is-giving-up-on-north-america-and-europe)
+ - [Xbox Console Sales Are Tanking](https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
