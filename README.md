@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam closes refund policy loophole, comes up with official term for the thing where you can play a game early if you pre-order](https://www.pcgamer.com/gaming-industry/steam-closes-refund-policy-loophole-comes-up-with-official-term-for-the-thing-where-you-can-play-a-game-early-if-you-pre-order)
+ - [Steam closes refund policy loophole, finally comes up with a name for the thing where you can play a game early if you pre-order](https://www.pcgamer.com/gaming-industry/steam-closes-refund-policy-loophole-comes-up-with-official-term-for-the-thing-where-you-can-play-a-game-early-if-you-pre-order)
  - [Lords of the Fallen now has one of those masochistic enemy randomizer modes for action RPG fans looking for punishment](https://www.pcgamer.com/games/rpg/lords-of-the-fallen-now-has-one-of-those-masochistic-enemy-randomizer-modes-for-action-rpg-fans-looking-for-punishment)
  - [Don&#39;t worry, you&#39;re not missing out by boosting straight to level 20 in Fallout 76](https://www.pcgamer.com/games/fallout/dont-worry-youre-not-missing-out-by-boosting-straight-to-level-20-in-fallout-76)<!-- GAME:END -->
 
