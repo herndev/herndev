@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Here’s what Qualcomm didn’t tell you about the Snapdragon X series](https://www.androidauthority.com/snapdragon-x-models-3429369/)
- - [The next big game from Clash of Clans developer Supercell launches in May](https://www.theverge.com/2024/4/25/24139112/squad-busters-supercell-trailer-release-date)
- - [Garry&#39;s Mod is removing &quot;all Nintendo related stuff&quot; from its Steam Workshop, covering &quot;20 years of uploads&quot;, after receiving a takedown request from Nintendo &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/240425/p13#a240425p13)<!-- TECH:END -->
+ - [New Google Meet feature lets you seamlessly switch devices during calls](https://www.androidauthority.com/google-meet-seamlessly-transfer-3437134/)
+ - [Team Biden Is Posting Through the Looming TikTok Ban](https://www.wired.com/story/biden-is-still-posting-on-tiktok/)
+ - [Google Wallet gets American Express support on Fitbit, notification improvements, and more](https://www.androidauthority.com/google-wallet-fitbit-american-express-support-3437242/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
