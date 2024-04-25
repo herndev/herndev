@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Escape from Tarkov special edition finally offers offline PvE, for just $250](https://www.polygon.com/24140541/escape-from-tarkov-the-unheard-edition-250)
- - [Arrowhead says Helldivers 2 players should avoid bullying those fancy lads with the blue preorder armor, who are canonically frozen yogurt salesmen](https://www.pcgamer.com/games/third-person-shooter/arrowhead-says-helldivers-2-players-should-avoid-bullying-those-fancy-lads-with-the-blue-preorder-armor-who-are-canonically-frozen-yogurt-salesmen)
- - [Escape From Tarkov players rage as developers lock co-op PvE behind a new $250 edition despite promising access to &#39;all subsequent DLCs&#39; in its old $150 edition](https://www.pcgamer.com/games/fps/escape-from-tarkov-players-rage-as-developers-lock-co-op-pve-behind-a-new-dollar250-edition-despite-promising-access-to-all-subsequent-dlcs-in-its-old-dollar150-edition)<!-- GAME:END -->
+ - [Xbox Console Sales Are Tanking](https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748)
+ - [Bungie is reversing its decision to sunset weapons for Destiny 2: The Final Shape](https://www.polygon.com/24140650/destiny-2-the-final-shape-sunsetting-weapons-power-bungie)
+ - [Tomb Raider &lpar;2013&rpar; Definitive Edition Quietly Arrives On PC After A Decade](https://kotaku.com/tomb-raider-definitive-edition-2013-pc-microsoft-store-1851436524)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
