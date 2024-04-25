@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile is making fraudulent SIM swaps much harder](https://www.androidauthority.com/t-mobile-sim-swap-changes-3437120/)
  - [A look at Saudi Arabia&#39;s spending blitz to become an AI superpower, which has put the kingdom in the middle of an escalating global competition over AI &lpar;New York Times&rpar;](http://www.techmeme.com/240425/p7#a240425p7)
- - [It was a good run: OnePlus 8/8 Pro receive their last update](https://www.androidauthority.com/oneplus-8-pro-final-update-end-of-life-3436767/)
- - [Filing: Swiggy, which has a ~45.8% share of the Indian food delivery market, secures shareholder approval for a potential $1.25B IPO, slated for later this year &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240425/p6#a240425p6)<!-- TECH:END -->
+ - [It was a good run: OnePlus 8/8 Pro receive their last update](https://www.androidauthority.com/oneplus-8-pro-final-update-end-of-life-3436767/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
