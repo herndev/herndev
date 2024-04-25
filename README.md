@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Open Source Llama 3 Is Already Nipping at OpenAI’s Heels](https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/)
- - [Elizabeth Warren Calls for Crackdown on Crypto’s Role in Child Sexual Abuse](https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/)
- - [Score a record $750 off the powerful Galaxy Book 3 Pro](https://www.androidauthority.com/galaxy-book-3-pro-deal-3437310/)<!-- TECH:END -->
+ - [No, a Shadowy Figure Is Not Buying Tents for Columbia Student Protesters](https://www.wired.com/story/conspiracy-tents-student-protests-gaza/)
+ - [10 Best Cold-Brew Coffee Makers &lpar;2024&rpar;: Oxo, KitchenAid, and More](https://www.wired.com/story/best-cold-brew-coffee-makers/)
+ - [The 14 Best Barefoot Shoes &lpar;2024&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
