@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - ⏩ [Anyone else notice this?](http://9gag.com/gag/aqymNyM)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - ⏩ [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 👉 [April Vs April](http://9gag.com/gag/a0e99DQ)<!-- MEMES:END -->
 
 ---
 
