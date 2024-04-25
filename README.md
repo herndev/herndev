@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - ⏩ [Men of Culture](http://9gag.com/gag/aByKYnz)
- - 👉 [The mouse get humbled](http://9gag.com/gag/aXPb93V)<!-- MEMES:END -->
+ - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - ⏩ [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
+ - 👉 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)<!-- MEMES:END -->
 
 ---
 
