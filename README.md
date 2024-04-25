@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gothing withing](http://9gag.com/gag/aoyz90n)
- - ⏩ [The biggest question](http://9gag.com/gag/a7o5bML)
- - 👉 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)<!-- MEMES:END -->
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - ⏩ [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 👉 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)<!-- MEMES:END -->
 
 ---
 
