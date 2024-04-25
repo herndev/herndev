@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie devs rally for Palestine with this $8 itch.io bundle](https://www.polygon.com/deals/24140369/itch-io-palestine-relief-bundle-gaming-deal-sale)
- - [The Best Skills To Unlock In Another Crab’s Treasure As Soon As Possible](https://kotaku.com/another-crabs-treasure-best-skills-guide-1851436095)
- - [Deep Rock Galactic Survivor sails past a million sold as developers salute players&#39; &#39;ravenous appetite&#39; for space dwarf content](https://www.pcgamer.com/games/roguelike/deep-rock-galactic-survivor-sails-past-a-million-sold-as-developers-salute-players-ravenous-appetite-for-space-dwarf-content)<!-- GAME:END -->
+ - [This Fallout bundle is a critical hit and at its lowest price ever](https://www.polygon.com/deals/24140482/fallout-franchise-bundle-game-deal-sale-fanatical)
+ - [Fortnite Avatar event quests and Elements rewards](https://www.polygon.com/fortnite-guide/24128422/avatar-event-quest-schedule-elements-rewards)
+ - [Manor Lords release date and launch times: here&#39;s when the medieval city building gates open](https://www.pcgamer.com/games/city-builder/manor-lords-release-date-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
