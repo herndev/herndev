@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garry’s Mod is taking down decades of Nintendo-related add-ons](https://www.theverge.com/2024/4/25/24140246/garrys-mod-nintendo-copyright-takedowns-dmca)
- - [Threads expands Hidden Words to let users filter out words, phrases, or emoji, and tests the option to mute notifications and ways to select who can quote posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240425/p23#a240425p23)
- - [Hands-on: this self-transforming Megatron is as badass as it is expensive](https://www.theverge.com/2024/4/25/24138325/transformers-robosen-megatron-self-converting-robot-toy-hasbro)<!-- TECH:END -->
+ - [Stripe will let customers accept crypto payments, starting with USDC on Solana, Ethereum, and Polygon, the first time it has taken crypto payments since 2018 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240425/p24#a240425p24)
+ - [Samsung’s next big Unpacked event could take place on July 10](https://www.androidauthority.com/samsung-unpacked-july-3437405/)
+ - [Android 15 update tracker: When will your phone get it?](https://www.androidauthority.com/android-15-update-3415425/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
