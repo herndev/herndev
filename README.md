@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - ⏩ [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
+ - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - ⏩ [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 👉 [The Poll](http://9gag.com/gag/aAyY1p0)<!-- MEMES:END -->
 
 ---
 
