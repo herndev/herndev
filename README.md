@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Realms Plus Upgrades](https://minecraft.net/article/realms-plus-upgrades#new_tab)
- - [Fallout 4&#39;s &#39;next gen&#39; update is nearly 16 gigs, breaks modded saves, and doesn&#39;t seem to change much at all](https://www.pcgamer.com/games/fallout/fallout-4s-next-gen-update-is-nearly-16-gigs-breaks-modded-saves-and-doesnt-seem-to-change-much-at-all)
- - [Slay the Spire co-creator advises that &#39;taking risks is actually the least risky thing you can do,&#39; arguing for the appeal of &#39;hyper-engaging&#39; games](https://www.pcgamer.com/gaming-industry/slay-the-spire-co-creator-advises-that-taking-risks-is-actually-the-least-risky-thing-you-can-do-arguing-for-the-appeal-of-hyper-engaging-games)<!-- GAME:END -->
+ - [Indie devs rally for Palestine with this $8 itch.io bundle](https://www.polygon.com/deals/24140369/itch-io-palestine-relief-bundle-gaming-deal-sale)
+ - [The Best Skills To Unlock In Another Crab’s Treasure As Soon As Possible](https://kotaku.com/another-crabs-treasure-best-skills-guide-1851436095)
+ - [Deep Rock Galactic Survivor sails past a million sold as developers salute players&#39; &#39;ravenous appetite&#39; for space dwarf content](https://www.pcgamer.com/games/roguelike/deep-rock-galactic-survivor-sails-past-a-million-sold-as-developers-salute-players-ravenous-appetite-for-space-dwarf-content)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
