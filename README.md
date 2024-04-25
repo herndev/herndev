@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - ⏩ [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
+ - 💣 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
+ - ⏩ [Men of Culture](http://9gag.com/gag/aByKYnz)
+ - 👉 [The mouse get humbled](http://9gag.com/gag/aXPb93V)<!-- MEMES:END -->
 
 ---
 
