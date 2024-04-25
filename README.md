@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dressing Up In Stellar Blade Is So Much Fun](https://kotaku.com/stellar-blade-ps5-game-how-outfits-unlock-1851435563)
- - [How to find Wiglett in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24138204/wiglett-beach-biome-how-to-find)
- - [&#39;Marketing&#39;s dead, and I can back this s**t up&#39;: Larian&#39;s publishing director says players &#39;just want to be spoken to, and they don&#39;t want to be bamboozled&#39;](https://www.pcgamer.com/gaming-industry/marketings-dead-and-i-can-back-this-sht-up-larians-publishing-director-says-players-just-want-to-be-spoken-to-and-they-dont-want-to-be-bamboozled)<!-- GAME:END -->
+ - [Minecraft Realms Plus Upgrades](https://minecraft.net/article/realms-plus-upgrades#new_tab)
+ - [Fallout 4&#39;s &#39;next gen&#39; update is nearly 16 gigs, breaks modded saves, and doesn&#39;t seem to change much at all](https://www.pcgamer.com/games/fallout/fallout-4s-next-gen-update-is-nearly-16-gigs-breaks-modded-saves-and-doesnt-seem-to-change-much-at-all)
+ - [Slay the Spire co-creator advises that &#39;taking risks is actually the least risky thing you can do,&#39; arguing for the appeal of &#39;hyper-engaging&#39; games](https://www.pcgamer.com/gaming-industry/slay-the-spire-co-creator-advises-that-taking-risks-is-actually-the-least-risky-thing-you-can-do-arguing-for-the-appeal-of-hyper-engaging-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
