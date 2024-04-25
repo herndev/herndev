@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now get the Google Nest Wifi router for just $49.99 &lpar;70% off&rpar;](https://www.androidauthority.com/google-nest-wifi-router-deal-3436999/)
- - [Anyone want to buy TikTok?](https://www.theverge.com/2024/4/25/24139724/tiktok-ban-sale-law-rabbit-r1-tesla-ipad-vergecast-podcast)
- - [Pixel 8 users can now use Face Unlock in one more app](https://www.androidauthority.com/pixel-8-face-unlock-whatsapp-3437257/)<!-- TECH:END -->
+ - [Qualcomm benchmarking controversy: What’s happening?](https://www.androidauthority.com/qualcomm-benchmarking-controversy-3436994/)
+ - [Hands-on with the Rabbit R1: Hopping into an AI-powered future?](https://www.androidauthority.com/rabbit-r1-hands-on-3436926/)
+ - [Apple blocked Spotify’s latest EU update, again](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
