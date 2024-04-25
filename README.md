@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Okie Dokie](http://9gag.com/gag/apRqqVb)
- - ⏩ [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [Never underestimate the power of small habits](http://9gag.com/gag/aKGzzr6)<!-- MEMES:END -->
+ - 💣 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - ⏩ [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 👉 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)<!-- MEMES:END -->
 
 ---
 
