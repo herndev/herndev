@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nooks, whose AI tools can analyze sales calls and summarize customer interactions, raised a $22M Series A led by Lachy Groom, bringing its total funding to $27M &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240424/p49#a240424p49)
- - [AI coding assistant startup Augment emerges from stealth with a $227M Series B at a $977M post-money valuation, following a $25M Series A led by Sutter Hill &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240424/p48#a240424p48)
- - [Google might be letting loose its own Pixel tablet with a pen and keyboard](https://www.androidauthority.com/pixel-tablet-relaunch-3437015/)<!-- TECH:END -->
+ - [Hands-on with the Rabbit R1: a fun and funky AI device that feels pretty nice and does a solid job with basic AI questions, but the Rabbithole app is unfinished &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240424/p50#a240424p50)
+ - [Zuckerberg says it will take Meta years to make money from generative AI](https://www.theverge.com/2024/4/24/24139591/meta-q1-2024-earnings-ai-mark-zuckerberg)
+ - [Best Meta Quest 3 Deals: Bundle and Get a Free Game     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
