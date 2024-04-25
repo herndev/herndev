@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dough Spectrum Black 27 review](https://www.pcgamer.com/hardware/gaming-monitors/dough-spectrum-black-27-oled-gaming-monitor-review)
- - [Manor Lords dev asks press and YouTubers to stop breaking the game: &#39;please restrain yourself&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-dev-asks-press-and-youtubers-to-stop-breaking-the-game-please-restrain-yourself)
- - [Playing Fallout 4 With Mods? Get Ready For Everything To Break](https://kotaku.com/fallout-4-next-gen-mods-breaking-how-to-stop-update-1851435319)<!-- GAME:END -->
+ - [Dressing Up In Stellar Blade Is So Much Fun](https://kotaku.com/stellar-blade-ps5-game-how-outfits-unlock-1851435563)
+ - [How to find Wiglett in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24138204/wiglett-beach-biome-how-to-find)
+ - [&#39;Marketing&#39;s dead, and I can back this s**t up&#39;: Larian&#39;s publishing director says players &#39;just want to be spoken to, and they don&#39;t want to be bamboozled&#39;](https://www.pcgamer.com/gaming-industry/marketings-dead-and-i-can-back-this-sht-up-larians-publishing-director-says-players-just-want-to-be-spoken-to-and-they-dont-want-to-be-bamboozled)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
