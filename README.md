@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford looks to future EV breakthroughs — and smaller cars — to staunch the bleeding](https://www.theverge.com/2024/4/25/24140033/ford-q1-2024-earnings-ev-hybrid-loss-sale)
- - [Patrick Wardle teams up with ex-Apple researcher to boost Mac security for all](https://appleinsider.com/articles/24/04/25/patrick-wardle-teams-up-with-ex-apple-researcher-to-boost-mac-security-for-all?utm_medium=rss)
- - [How to Set Up a VPN on Your Router to Protect Your Home Wi-Fi Network](https://www.wired.com/story/how-to-set-up-a-vpn-on-your-router/)<!-- TECH:END -->
+ - [Meta’s Open Source Llama 3 Is Already Nipping at OpenAI’s Heels](https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/)
+ - [Elizabeth Warren Calls for Crackdown on Crypto’s Role in Child Sexual Abuse](https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/)
+ - [Score a record $750 off the powerful Galaxy Book 3 Pro](https://www.androidauthority.com/galaxy-book-3-pro-deal-3437310/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
