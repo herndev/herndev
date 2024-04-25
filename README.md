@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cucks cucks everywhere](http://9gag.com/gag/aAyYr99)
- - ⏩ [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
- - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
+ - 💣 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - ⏩ [My lord....](http://9gag.com/gag/ayN57BX)
+ - 👉 [My Idol](http://9gag.com/gag/agmy0Gx)<!-- MEMES:END -->
 
 ---
 
