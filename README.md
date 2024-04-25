@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stripe will let customers accept crypto payments, starting with USDC on Solana, Ethereum, and Polygon, the first time it has taken crypto payments since 2018 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240425/p24#a240425p24)
- - [Samsung’s next big Unpacked event could take place on July 10](https://www.androidauthority.com/samsung-unpacked-july-3437405/)
- - [Android 15 update tracker: When will your phone get it?](https://www.androidauthority.com/android-15-update-3415425/)<!-- TECH:END -->
+ - [As ASML shareholders approve Christophe Fouquet as CEO, he faces a tricky balancing act to guide ASML, Europe&#39;s largest tech firm, through the US-China chip war &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240425/p26#a240425p26)
+ - [Dock-free Pixel Tablet spotted in European listings, official pen and keyboard coming too](https://www.androidauthority.com/pixel-tablet-relaunch-pricing-3437425/)
+ - [Net Neutrality Returns to a Very Different Internet](https://www.wired.com/story/fcc-net-neutrality-rules-vote/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
