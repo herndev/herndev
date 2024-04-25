@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - ⏩ [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 👉 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)<!-- MEMES:END -->
+ - 💣 [My lord....](http://9gag.com/gag/ayN57BX)
+ - ⏩ [W Mans](http://9gag.com/gag/a9yddN6)
+ - 👉 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)<!-- MEMES:END -->
 
 ---
 
