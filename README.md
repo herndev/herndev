@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its so hot](http://9gag.com/gag/aMV12DP)
- - ⏩ [Math?](http://9gag.com/gag/avy00Wn)
- - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
+ - 💣 [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
+ - ⏩ [My Idol](http://9gag.com/gag/agmy0Gx)
+ - 👉 [`We&#39;re going down together`](http://9gag.com/gag/apRq0pn)<!-- MEMES:END -->
 
 ---
 
