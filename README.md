@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Manor Lords release?](https://www.polygon.com/manor-lords-guides/24139558/manor-lords-release-time-steam-gog-game-pass)
- - [Today&#39;s Wordle answer for Thursday, April 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-25-2024)
- - [Total War: Warhammer 3&#39;s next free DLC gives away gold wizards, an evil crown, and a legendary lord who counts diseases for fun](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-next-free-dlc-gives-away-gold-wizards-an-evil-crown-and-a-legendary-lord-who-counts-diseases-for-fun)<!-- GAME:END -->
+ - [Roll20 will cut out the alt-tabbing middleman and let you run your D&amp;D and TTRPG games directly in Discord, which you were probably using for voice chat anyway](https://www.pcgamer.com/games/board-games/roll20-will-cut-out-the-alt-tabbing-middleman-and-let-you-run-your-dandd-and-ttrpg-games-directly-in-discord-which-you-were-probably-using-for-voice-chat-anyway)
+ - [The first official reference to the &#39;AMD Ryzen 9000 series&#39; gives Zen 5 a name and hints at an imminent release date](https://www.pcgamer.com/hardware/processors/the-first-official-reference-to-the-amd-ryzen-9000-series-gives-zen-5-a-name-and-hints-at-an-imminent-release-date)
+ - [When does Manor Lords release?](https://www.polygon.com/manor-lords-guides/24139558/manor-lords-release-time-steam-gog-game-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
