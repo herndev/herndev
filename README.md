@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm benchmarking controversy: What’s happening?](https://www.androidauthority.com/qualcomm-benchmarking-controversy-3436994/)
- - [Hands-on with the Rabbit R1: Hopping into an AI-powered future?](https://www.androidauthority.com/rabbit-r1-hands-on-3436926/)
- - [Apple blocked Spotify’s latest EU update, again](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)<!-- TECH:END -->
+ - [Ford looks to future EV breakthroughs — and smaller cars — to staunch the bleeding](https://www.theverge.com/2024/4/25/24140033/ford-q1-2024-earnings-ev-hybrid-loss-sale)
+ - [Patrick Wardle teams up with ex-Apple researcher to boost Mac security for all](https://appleinsider.com/articles/24/04/25/patrick-wardle-teams-up-with-ex-apple-researcher-to-boost-mac-security-for-all?utm_medium=rss)
+ - [How to Set Up a VPN on Your Router to Protect Your Home Wi-Fi Network](https://www.wired.com/story/how-to-set-up-a-vpn-on-your-router/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
