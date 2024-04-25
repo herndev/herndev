@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC unveils a new chip manufacturing technology called A16 and says it plans to start producing its ultra-advanced 1.6nm chips by 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p54#a240424p54)
  - [Reddit announces that its Dynamic Product Ads, which use &quot;shopping signals&quot; to automatically show relevant ads to users, are entering public beta globally &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240424/p53#a240424p53)
- - [SK Hynix reports Q1 revenue of ~$9B, more than doubling YoY, and ~$2B in operating income, above estimates of ~$1.3B and the biggest quarterly profit since 2022 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240424/p52#a240424p52)
- - [Memo: Thrasio CEO Greg Greeley plans to resign and five other senior executives will &quot;step down when Thrasio emerges from Chapter 11 in the coming weeks&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240424/p51#a240424p51)<!-- TECH:END -->
+ - [Wordle Player Cheat Sheet: Here Are the Most Popular Letters Used in the English Language     - CNET](https://www.cnet.com/tech/wordle-player-cheat-sheet-here-are-the-most-popular-letters-used-in-the-english-language/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
