@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hi mom](http://9gag.com/gag/aD20AVd)
- - ⏩ [My lord....](http://9gag.com/gag/ayN57BX)
- - 👉 [My Idol](http://9gag.com/gag/agmy0Gx)<!-- MEMES:END -->
+ - 💣 [Math?](http://9gag.com/gag/avy00Wn)
+ - ⏩ [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
+ - 👉 [Hi mom](http://9gag.com/gag/aD20AVd)<!-- MEMES:END -->
 
 ---
 
