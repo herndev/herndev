@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roll20 will cut out the alt-tabbing middleman and let you run your D&amp;D and TTRPG games directly in Discord, which you were probably using for voice chat anyway](https://www.pcgamer.com/games/board-games/roll20-will-cut-out-the-alt-tabbing-middleman-and-let-you-run-your-dandd-and-ttrpg-games-directly-in-discord-which-you-were-probably-using-for-voice-chat-anyway)
- - [The first official reference to the &#39;AMD Ryzen 9000 series&#39; gives Zen 5 a name and hints at an imminent release date](https://www.pcgamer.com/hardware/processors/the-first-official-reference-to-the-amd-ryzen-9000-series-gives-zen-5-a-name-and-hints-at-an-imminent-release-date)
- - [When does Manor Lords release?](https://www.polygon.com/manor-lords-guides/24139558/manor-lords-release-time-steam-gog-game-pass)<!-- GAME:END -->
+ - [From Fallout to Stalker, GOG&#39;s &#39;Post-apocalyptic Sale&#39; has some strong discounts on well-reviewed PC games](https://www.pcgamer.com/games/action/from-fallout-to-stalker-gogs-post-apocalyptic-sale-has-some-strong-discounts-on-well-reviewed-pc-games)
+ - [Jen-Hsun turns delivery driver as he hands over the first DGX H200 to OpenAI to &#39;advance AI, computing, and humanity&#39;](https://www.pcgamer.com/software/ai/jen-hsun-turns-delivery-driver-as-he-hands-over-the-first-dgx-h200-to-openai-to-advance-ai-computing-and-humanity)
+ - [How to trade and earn regional wealth in Manor Lords](https://www.pcgamer.com/games/city-builder/manor-lords-regional-wealth-trade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
