@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My Idol](http://9gag.com/gag/agmy0Gx)
- - ⏩ [W Mans](http://9gag.com/gag/a9yddN6)
+ - 💣 [Its so hot](http://9gag.com/gag/aMV12DP)
+ - ⏩ [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
  - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
 
 ---
