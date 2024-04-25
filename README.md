@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
- - ⏩ [Sounds like we\u2019re ready for take off](http://9gag.com/gag/ajPrABQ)
- - 👉 [Men of Culture](http://9gag.com/gag/aByKYnz)<!-- MEMES:END -->
+ - 💣 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
+ - ⏩ [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
 
 ---
 
