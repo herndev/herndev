@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unistellar Odyssey Pro review: Unlock pro-level astronomy with your iPhone from your backyard](https://appleinsider.com/articles/24/04/26/unistellar-odyssey-pro-review-unlock-pro-level-astronomy-with-your-iphone-from-your-backyard?utm_medium=rss)
- - [A look at Abu Dhabi-based AI startup G42, as sources say US intelligence officials fixated on CEO Xiao Peng ahead of its China divestment and Microsoft deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/240426/p6#a240426p6)
- - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, and Local Roasters](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
+ - [What’s next with AI?](https://www.theverge.com/press-room/2024/4/26/24139468/artificial-intelligence-survey-data)
+ - [What does a TikTok ban mean for users? All your questions answered](https://www.androidauthority.com/what-does-a-tiktok-ban-mean-3437545/)
+ - [How to stop being reminded of memories you don’t want to be reminded of](https://www.theverge.com/24140444/memories-photos-facebook-onenote-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
