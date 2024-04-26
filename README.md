@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It took 30 years, but a speedrunner&#39;s finished Doom 2&#39;s opening level in an unbelievable 4.97 seconds](https://www.pcgamer.com/games/fps/it-took-30-years-but-a-speedrunners-finished-doom-2s-opening-level-in-an-unbelievable-497-seconds)
- - [Our top 10 Manor Lords tips for thriving in the survival city builder](https://www.pcgamer.com/games/city-builder/manor-lords-beginner-tips)
- - [Today&#39;s Wordle answer for Friday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2024)<!-- GAME:END -->
+ - [Fancy a borked Intel CPU for just $3.25? This Japanese Gacha machine is just for you](https://www.pcgamer.com/hardware/processors/fancy-a-borked-intel-cpu-for-just-dollar325-this-japanese-gacha-machine-is-just-for-you)
+ - [Intel CEO claims Core Ultra laptop chip is &#39;hot&#39; but the company&#39;s near-term outlook still isn&#39;t exactly on fire](https://www.pcgamer.com/hardware/processors/intel-ceo-claims-core-ultra-laptop-chip-is-hot-but-the-companys-near-term-outlook-still-isnt-exactly-on-fire)
+ - [Elden Ring&#39;s uber boss Malenia says she has &#39;never known defeat&#39;, but your bank account sure will if you buy this 1:1 scale replica of her blade arm](https://www.pcgamer.com/games/dark-souls/elden-rings-uber-boss-malenia-says-she-has-never-known-defeat-but-your-bank-account-sure-will-if-you-buy-this-11-scale-replica-of-her-blade-arm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
