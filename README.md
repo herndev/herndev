@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wait, how did I miss that you can finally preorder Armored Core 6 model kits?](https://www.pcgamer.com/games/third-person-shooter/wait-how-did-i-miss-that-you-can-finally-preorder-armored-core-6-model-kits)
  - [Deathbound is Coming to Xbox Series X|S](https://news.xbox.com/en-us/2024/04/26/deathbound-is-coming-to-xbox-series-xs/)
- - [Beware: Another Crab’s Treasure’s Idle Animation Secretly Griefs Players](https://kotaku.com/another-crabs-treasure-idle-animation-guide-tips-1851439551)
- - [Thanks to Fallout 4&#39;s disaster update, GOG&#39;s patch rollback feature makes it the best version of the game right now](https://www.pcgamer.com/games/fallout/thanks-to-fallout-4s-disaster-update-gogs-patch-rollback-feature-makes-it-the-best-version-of-the-game-right-now)<!-- GAME:END -->
+ - [Beware: Another Crab’s Treasure’s Idle Animation Secretly Griefs Players](https://kotaku.com/another-crabs-treasure-idle-animation-guide-tips-1851439551)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
