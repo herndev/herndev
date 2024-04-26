@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Shop and Compare Electricity Rates in Connecticut     - CNET](https://www.cnet.com/news/how-to-shop-and-compare-electricity-rates-in-connecticut/#ftag=CAD590a51e)
- - [Former Twilio CEO and co-founder Jeff Lawson buys The Onion from G/O Media, via his new company Global Tetrahedron; Lawson had long wanted to buy the site &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/240425/p40#a240425p40)
- - [FCC Reportedly Approves T-Mobile&#39;s Deal to Purchase Mint Mobile     - CNET](https://www.cnet.com/tech/mobile/fcc-reportedly-approves-t-mobiles-deal-to-purchase-mint-mobile/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US is urging Japan, South Korea, and the Netherlands to tighten export controls to China, including stopping engineers from servicing Chinese fabs &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p42#a240425p42)
+ - [The Worst of WWDC - Apple&#39;s biggest missteps on the way to success](https://appleinsider.com/articles/24/04/25/the-worst-of-wwdc---apples-biggest-missteps-on-the-way-to-success?utm_medium=rss)
+ - [How to Use Apple Managed Device Attestation to secure networks](https://appleinsider.com/inside/ios-17/tips/how-to-use-apple-managed-device-attestation-to-secure-networks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
