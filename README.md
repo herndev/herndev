@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great horror movie](http://9gag.com/gag/aGy9xwZ)
- - ⏩ [Gothing withing](http://9gag.com/gag/aoyz90n)
+ - 💣 [They had us in the first half..](http://9gag.com/gag/adBNpNQ)
+ - ⏩ [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
  - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
 
 ---
