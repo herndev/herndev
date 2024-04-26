@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini’s summarize feature in Gmail for Android is now functioning](https://www.androidauthority.com/gmail-for-android-gemini-summarize-3437506/)
  - [TechInsights teardown: Huawei&#39;s Pura 70 uses a 7nm chip, similar to the Mate 60, and a Kirin 9010 processor, a newer version of the Mate 60 Pro&#39;s Kirin 9000s &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p43#a240425p43)
- - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
- - [Sources: the US is urging Japan, South Korea, and the Netherlands to tighten export controls to China, including stopping engineers from servicing Chinese fabs &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p42#a240425p42)<!-- TECH:END -->
+ - [Best 55-Inch TVs for 2024: Hisense, Samsung and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
