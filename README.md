@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Amazon Deal Sees the Fitbit Sense 2 Drop to Just $140 Today     - CNET](https://www.cnet.com/deals/this-amazon-deal-sees-the-fitbit-sense-2-drop-to-just-140-today/#ftag=CAD590a51e)
- - [Samsung Galaxy A15 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a15-5g-review-3433779/)
- - [Decades of Garry’s Mod Nintendo Uploads Are Disappearing](https://www.wired.com/story/garrys-mod-nintendo-takedowns/)<!-- TECH:END -->
+ - [Tesla Autopilot Was Uniquely Risky—and May Still Be](https://www.wired.com/story/tesla-autopilot-risky-deaths-crashes-nhtsa-investigation/)
+ - [I traded in my MacBook and now I’m a desktop convert](https://www.theverge.com/24139303/mac-mini-laptops-desktops)
+ - [As Intel reports disappointing earnings and guidance, and becomes S&amp;P&#39;s worst performing stock in 2024, a look at the long history of company&#39;s missteps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240426/p13#a240426p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
