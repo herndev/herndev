@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s PlayStation Portal handheld is back in stock at multiple retailers](https://www.theverge.com/2024/4/25/24125120/playstation-portal-ps5-remote-player-best-buy-restock)
- - [The CHIPS Act has been surprisingly successful so far, giving the US greater scope to meet critical infrastructure needs in the event of a crisis in East Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240425/p38#a240425p38)
- - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
+ - [Former Twilio CEO and co-founder Jeff Lawson buys The Onion from G/O Media, via his new company Global Tetrahedron; Lawson had long wanted to buy the site &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/240425/p40#a240425p40)
+ - [Arizona TSMC facility continues to fight cultural battles, rising costs &amp; logistical hurdles](https://appleinsider.com/articles/24/04/25/arizona-tsmc-facility-continues-to-fight-cultural-battles-rising-costs-logistical-hurdles?utm_medium=rss)
+ - [Consensys sues the US SEC over what it calls the &quot;unlawful seizure of authority&quot; over ethereum, after receiving a Wells notice for its MetaMask wallet product &lpar;CoinDesk&rpar;](http://www.techmeme.com/240425/p39#a240425p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
