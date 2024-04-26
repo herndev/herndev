@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Building the Invoker Archetype for Remnant II: The Forgotten Kingdom DLC](https://news.xbox.com/en-us/2024/04/26/building-the-invoker-archetype-for-remnant-2-dlc/)
- - [Disney Lorcana introduces the rest of Encanto’s Madrigal family](https://www.polygon.com/24141466/disney-lorcana-ursulas-return-madrigal-family-encanto-cards)
- - [Recall Initiated For Mario Kart Ride-On Racers After Stuck Accelerators Cause Multiple Crashes](https://kotaku.com/mario-kart-ride-on-racer-recall-crash-accelerator-1851439025)<!-- GAME:END -->
+ - [Top Five Beginner Tips and Tricks for Underwater Soulslike, Another Crab’s Treasure](https://news.xbox.com/en-us/2024/04/26/top-five-beginner-tips-and-tricks-for-underwater-soulslike-another-crabs-treasure/)
+ - [Game devs praise Steam as a &#39;democratic platform&#39; that &#39;continues to be transformative&#39; for PC gaming today](https://www.pcgamer.com/gaming-industry/game-devs-praise-steam-as-a-democratic-platform-that-continues-to-be-transformative-for-pc-gaming-today)
+ - [Red Dead Redemption 2&#39;s Housebuilding Scene Has Been Recreated In Lego](https://kotaku.com/rdr2-rockstar-games-house-building-lego-cougar-fan-1851439165)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
