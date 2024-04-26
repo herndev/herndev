@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - ⏩ [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 👉 [The delusion](http://9gag.com/gag/aoyz0Ae)<!-- MEMES:END -->
+ - 💣 [What festival is this bro...](http://9gag.com/gag/aVvOXV2)
+ - ⏩ [The delusion](http://9gag.com/gag/aoyz0Ae)
+ - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
 
 ---
 
