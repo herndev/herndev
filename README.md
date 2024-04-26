@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s next with AI?](https://www.theverge.com/press-room/2024/4/26/24139468/artificial-intelligence-survey-data)
- - [What does a TikTok ban mean for users? All your questions answered](https://www.androidauthority.com/what-does-a-tiktok-ban-mean-3437545/)
- - [How to stop being reminded of memories you don’t want to be reminded of](https://www.theverge.com/24140444/memories-photos-facebook-onenote-how-to)<!-- TECH:END -->
+ - [NHTSA finds that Tesla&#39;s driver-assist features are insufficient at keeping drivers engaged in the task of driving and links them to 100+ crashes and 10+ deaths &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240426/p8#a240426p8)
+ - [Google RealFill could be the company’s next big AI photography trick](https://www.androidauthority.com/google-realfill-trademark-3437686/)
+ - [Apple finally pulls generative AI nude apps from the App Store](https://appleinsider.com/articles/24/04/26/apple-finally-pulls-generative-ai-nude-apps-from-the-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
