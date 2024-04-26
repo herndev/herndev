@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Lords of the Fallen Goes Rogue&lpar;like&rpar; with its New ‘Master of Fate’ Update](https://news.xbox.com/en-us/2024/04/26/lords-of-the-fallen-update-roguelike/)
- - [Fallout 4’s Big Next-Gen Update: The Good, The Bad, And The Busted](https://kotaku.com/fallout-4-ps5-ps-plus-steam-mods-game-pass-bugs-1851438302)
- - [Devs Explain Why Most Wishlisted Game On Steam Won&#39;t Reveal Price Until Launch [Update]](https://kotaku.com/manor-lords-steam-price-medieval-city-builder-1851434943)<!-- GAME:END -->
+ - [Start Your Journey into Sand Land Today with These Helpful Tips](https://news.xbox.com/en-us/2024/04/26/sand-land-helpful-tips/)
+ - [8 Things To Know Before Jumping Into Another Crab’s Treasure](https://kotaku.com/another-crabs-treasure-guide-tips-things-to-know-1851438450)
+ - [Manor Lords surpassed 100,000 concurrent players within hours of release, and now it&#39;s the global top seller on Steam](https://www.pcgamer.com/games/city-builder/manor-lords-surpassed-100000-concurrent-players-within-hours-of-release-and-now-its-the-global-top-seller-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
