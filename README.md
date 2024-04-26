@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Akira Toriyama’s Sand Land makes a better show than game](https://www.theverge.com/24141497/sand-land-game-anime-hulu-ps5-xbox-akira-toriyama)
- - [Retro gold rush: these emulators are coming to the App Store soon](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Pixel Launcher will soon let you choose whether to truncate app names](https://www.androidauthority.com/pixel-launcher-show-long-app-names-3437829/)<!-- TECH:END -->
+ - [This Amazon Deal Sees the Fitbit Sense 2 Drop to Just $140 Today     - CNET](https://www.cnet.com/deals/this-amazon-deal-sees-the-fitbit-sense-2-drop-to-just-140-today/#ftag=CAD590a51e)
+ - [Samsung Galaxy A15 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a15-5g-review-3433779/)
+ - [Decades of Garry’s Mod Nintendo Uploads Are Disappearing](https://www.wired.com/story/garrys-mod-nintendo-takedowns/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
