@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Manor Lords: How to Survive Your First Harsh Winter](https://news.xbox.com/en-us/2024/04/26/manor-lords-guide/)
- - [FF14 players are struggling to complete the Yo-kai Watch event thanks to a tide of Blue Mages armed with bad vibes and missiles](https://www.pcgamer.com/games/final-fantasy/ff14-players-are-struggling-to-complete-the-yo-kai-watch-event-thanks-to-a-tide-of-blue-mages-armed-with-bad-vibes-and-missiles)
- - [The Fallout 4 Upgrade Isn&#39;t Free For Owners On PS Plus And They&#39;re Furious [Update: Bethesda Is Fixing It, Sorta]](https://kotaku.com/fallout-4-ps5-upgrade-free-ps-plus-game-pass-1851435453)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 29 to May 3](https://news.xbox.com/en-us/2024/04/26/next-week-on-xbox-new-games-for-april-29-to-may-3/)
+ - [The Switch 2 Might Be Attempting To Harness The Mysterious Power Of Magnets](https://kotaku.com/switch-2-nintendo-joy-con-magnets-1851437754)
+ - [I tried to make a medieval paradise in Manor Lords but now it&#39;s just full of eggs and corpses](https://www.pcgamer.com/games/city-builder/i-tried-to-make-a-medieval-paradise-in-manor-lords-but-now-its-just-full-of-eggs-and-corpses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
