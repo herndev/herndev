@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After 6 years, the FCC has voted to restore net neutrality regulations in a win for the open internet](https://www.pcgamer.com/gaming-industry/after-6-years-the-fcc-has-voted-to-restore-net-neutrality-regulations-in-a-win-for-the-open-internet)
  - [Hasbro says Magic: The Gathering&#39;s Fallout-themed Commander cards were &#39;probably our best-performing Commander set ever&#39;](https://www.pcgamer.com/games/card-games/hasbro-says-magic-the-gatherings-fallout-themed-commander-cards-were-probably-our-best-performing-commander-set-ever)
- - [6 things to know before watching Zendaya’s new sports movie Challengers](https://www.polygon.com/24140585/challengers-post-credits-scene-rules-of-tennis)
- - [After 10 years on Steam, Korean MMO ArcheAge is giving up on North America and Europe](https://www.pcgamer.com/games/mmo/after-10-years-on-steam-korean-mmo-archeage-is-giving-up-on-north-america-and-europe)<!-- GAME:END -->
+ - [6 things to know before watching Zendaya’s new sports movie Challengers](https://www.polygon.com/24140585/challengers-post-credits-scene-rules-of-tennis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
