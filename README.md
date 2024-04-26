@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore the Post-Apocalyptic Seas in Age of Water](https://news.xbox.com/en-us/2024/04/26/explore-the-post-apocalyptic-seas-in-age-of-water/)
- - [The solo developer of Manor Lords, Steam&#39;s latest smash hit, named his studio after a Witcher 3 meme](https://www.pcgamer.com/games/city-builder/the-solo-developer-of-manor-lords-steams-latest-smash-hit-named-his-studio-after-a-witcher-3-meme)
- - [Why can’t I build a plot in Manor Lords?](https://www.polygon.com/manor-lords-guides/24141408/cant-build-flexible-plot-burgage-marketplace-field)<!-- GAME:END -->
+ - [Deathbound is Coming to Xbox Series X|S](https://news.xbox.com/en-us/2024/04/26/deathbound-is-coming-to-xbox-series-xs/)
+ - [Beware: Another Crab’s Treasure’s Idle Animation Secretly Griefs Players](https://kotaku.com/another-crabs-treasure-idle-animation-guide-tips-1851439551)
+ - [Thanks to Fallout 4&#39;s disaster update, GOG&#39;s patch rollback feature makes it the best version of the game right now](https://www.pcgamer.com/games/fallout/thanks-to-fallout-4s-disaster-update-gogs-patch-rollback-feature-makes-it-the-best-version-of-the-game-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
