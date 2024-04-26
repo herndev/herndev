@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2024)
  - [HP spends big to secure title sponsorship rights for the Ferrari Formula One team](https://www.pcgamer.com/hardware/hp-spends-big-to-secure-title-sponsorship-rights-for-the-ferrari-formula-one-team)
- - [After 6 years, the FCC has voted to restore net neutrality regulations in a win for the open internet](https://www.pcgamer.com/gaming-industry/after-6-years-the-fcc-has-voted-to-restore-net-neutrality-regulations-in-a-win-for-the-open-internet)
- - [Hasbro says Magic: The Gathering&#39;s Fallout-themed Commander cards were &#39;probably our best-performing Commander set ever&#39;](https://www.pcgamer.com/games/card-games/hasbro-says-magic-the-gatherings-fallout-themed-commander-cards-were-probably-our-best-performing-commander-set-ever)<!-- GAME:END -->
+ - [After 6 years, the FCC has voted to restore net neutrality regulations in a win for the open internet](https://www.pcgamer.com/gaming-industry/after-6-years-the-fcc-has-voted-to-restore-net-neutrality-regulations-in-a-win-for-the-open-internet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
