@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Soul is better](http://9gag.com/gag/aO8qvv2)
- - ⏩ [My time to repost](http://9gag.com/gag/a87W47p)
- - 👉 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)<!-- MEMES:END -->
+ - 💣 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - ⏩ [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 👉 [Poland!](http://9gag.com/gag/amoX8KV)<!-- MEMES:END -->
 
 ---
 
