@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 devs confirm that, no, trimming &#39;excess leg space in the cockpit&#39; doesn&#39;t mean the nice Eagle-1 lady is hacking off her legs for liberty](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-confirm-that-no-trimming-excess-leg-space-in-the-cockpit-doesnt-mean-the-nice-eagle-1-lady-is-hacking-off-her-legs-for-liberty)
- - [Fancy a borked Intel CPU for just $3.25? This Japanese Gacha machine is just for you](https://www.pcgamer.com/hardware/processors/fancy-a-borked-intel-cpu-for-just-dollar325-this-japanese-gacha-machine-is-just-for-you)
- - [Intel CEO claims Core Ultra laptop chip is &#39;hot&#39; but the company&#39;s near-term outlook still isn&#39;t exactly on fire](https://www.pcgamer.com/hardware/processors/intel-ceo-claims-core-ultra-laptop-chip-is-hot-but-the-companys-near-term-outlook-still-isnt-exactly-on-fire)<!-- GAME:END -->
+ - [Manor Lords: How to Survive Your First Harsh Winter](https://news.xbox.com/en-us/2024/04/26/manor-lords-guide/)
+ - [FF14 players are struggling to complete the Yo-kai Watch event thanks to a tide of Blue Mages armed with bad vibes and missiles](https://www.pcgamer.com/games/final-fantasy/ff14-players-are-struggling-to-complete-the-yo-kai-watch-event-thanks-to-a-tide-of-blue-mages-armed-with-bad-vibes-and-missiles)
+ - [The Fallout 4 Upgrade Isn&#39;t Free For Owners On PS Plus And They&#39;re Furious [Update: Bethesda Is Fixing It, Sorta]](https://kotaku.com/fallout-4-ps5-upgrade-free-ps-plus-game-pass-1851435453)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
