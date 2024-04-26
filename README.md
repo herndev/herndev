@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the Safest Seat on an Airplane?](https://www.wired.com/story/whats-the-safest-seat-on-an-airplane/)
- - [Peloton producer says Apple Watch saved her life](https://appleinsider.com/articles/24/04/26/peloton-producer-says-apple-watch-saved-her-life?utm_medium=rss)
- - [One UI 6.1.1 could be coming soon with ‘video AI’ feature](https://www.androidauthority.com/one-ui-6-1-1-video-ai-feature-3437586/)<!-- TECH:END -->
+ - [Xiaomi 14’s AI Editor with generative AI features flew under the radar](https://www.androidauthority.com/xiaomi-14-ai-editor-3437621/)
+ - [The NHTSA closes a 2021 investigation into Tesla&#39;s Autopilot and opens a new one to evaluate whether a December 2023 Autopilot recall fix is effective enough &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240426/p5#a240426p5)
+ - [The EU Commission says Shein will have to comply with DSA rules for content handling, starting August 2024, as the retailer has more than 45M users in the EU &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240426/p4#a240426p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
