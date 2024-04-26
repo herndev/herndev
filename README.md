@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Top Five Beginner Tips and Tricks for Underwater Soulslike, Another Crab’s Treasure](https://news.xbox.com/en-us/2024/04/26/top-five-beginner-tips-and-tricks-for-underwater-soulslike-another-crabs-treasure/)
- - [Game devs praise Steam as a &#39;democratic platform&#39; that &#39;continues to be transformative&#39; for PC gaming today](https://www.pcgamer.com/gaming-industry/game-devs-praise-steam-as-a-democratic-platform-that-continues-to-be-transformative-for-pc-gaming-today)
- - [Red Dead Redemption 2&#39;s Housebuilding Scene Has Been Recreated In Lego](https://kotaku.com/rdr2-rockstar-games-house-building-lego-cougar-fan-1851439165)<!-- GAME:END -->
+ - [Explore the Post-Apocalyptic Seas in Age of Water](https://news.xbox.com/en-us/2024/04/26/explore-the-post-apocalyptic-seas-in-age-of-water/)
+ - [The solo developer of Manor Lords, Steam&#39;s latest smash hit, named his studio after a Witcher 3 meme](https://www.pcgamer.com/games/city-builder/the-solo-developer-of-manor-lords-steams-latest-smash-hit-named-his-studio-after-a-witcher-3-meme)
+ - [Why can’t I build a plot in Manor Lords?](https://www.polygon.com/manor-lords-guides/24141408/cant-build-flexible-plot-burgage-marketplace-field)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
