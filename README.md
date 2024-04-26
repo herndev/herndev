@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wait, how did I miss that you can finally preorder Armored Core 6 model kits?](https://www.pcgamer.com/games/third-person-shooter/wait-how-did-i-miss-that-you-can-finally-preorder-armored-core-6-model-kits)
- - [Deathbound is Coming to Xbox Series X|S](https://news.xbox.com/en-us/2024/04/26/deathbound-is-coming-to-xbox-series-xs/)
- - [Beware: Another Crab’s Treasure’s Idle Animation Secretly Griefs Players](https://kotaku.com/another-crabs-treasure-idle-animation-guide-tips-1851439551)<!-- GAME:END -->
+ - [Discord drops the hammer on data-scraping &#39;Spy.pet&#39; website, says it is &#39;considering appropriate legal action&#39;](https://www.pcgamer.com/software/discord-drops-the-hammer-on-data-scraping-spypet-website-says-it-is-considering-appropriate-legal-action)
+ - [Boy Kills World is a litmus test for fans of video game-inspired movies](https://www.polygon.com/reviews/24141885/boy-kills-world-review-video-game-movie-bill-skarsgard)
+ - [Anyone but You on Netflix, Monkey Man, and every new movie to watch at home this weekend](https://www.polygon.com/2024/4/26/24135851/new-movies-watch-monkey-man-anyone-but-you-netflix-love-lies-bleeding)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
