@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers for Gaming in 2024     - CNET](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
- - [A trusted source just showed off more Google Pixel 8a renders](https://www.androidauthority.com/google-pixel-8a-renders-leak-3437510/)
- - [ByteDance says it has no plans to sell TikTok, responding to a report suggesting that it is considering scenarios for selling a majority stake in US TikTok &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240426/p1#a240426p1)<!-- TECH:END -->
+ - [The next OnePlus Nord phone could be a Snapdragon powerhouse](https://www.androidauthority.com/the-next-oneplus-nord-phone-could-be-a-snapdragon-powerhouse-3437530/)
+ - [The Galaxy S24 FE takes a step closer to reality with new listing](https://www.androidauthority.com/samsung-galaxy-s24-fe-spotted-uk-carrier-3437532/)
+ - [Google is feeling pretty pumped about a new way of showing you ads on YouTube](https://www.androidauthority.com/youtube-pause-ads-3437531/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
