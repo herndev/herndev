@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon hikes prices for smartwatch plans by 50%](https://www.androidauthority.com/verizon-smartwatch-plan-price-increase-3437511/)
- - [Gemini’s summarize feature in Gmail for Android is now functioning](https://www.androidauthority.com/gmail-for-android-gemini-summarize-3437506/)
- - [TechInsights teardown: Huawei&#39;s Pura 70 uses a 7nm chip, similar to the Mate 60, and a Kirin 9010 processor, a newer version of the Mate 60 Pro&#39;s Kirin 9000s &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p43#a240425p43)<!-- TECH:END -->
+ - [Best Internet Providers for Gaming in 2024     - CNET](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
+ - [A trusted source just showed off more Google Pixel 8a renders](https://www.androidauthority.com/google-pixel-8a-renders-leak-3437510/)
+ - [ByteDance says it has no plans to sell TikTok, responding to a report suggesting that it is considering scenarios for selling a majority stake in US TikTok &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240426/p1#a240426p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
