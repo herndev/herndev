@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is urging Japan, South Korea, and the Netherlands to tighten export controls to China, including stopping engineers from servicing Chinese fabs &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p42#a240425p42)
- - [The Worst of WWDC - Apple&#39;s biggest missteps on the way to success](https://appleinsider.com/articles/24/04/25/the-worst-of-wwdc---apples-biggest-missteps-on-the-way-to-success?utm_medium=rss)
- - [How to Use Apple Managed Device Attestation to secure networks](https://appleinsider.com/inside/ios-17/tips/how-to-use-apple-managed-device-attestation-to-secure-networks?utm_medium=rss)<!-- TECH:END -->
+ - [TechInsights teardown: Huawei&#39;s Pura 70 uses a 7nm chip, similar to the Mate 60, and a Kirin 9010 processor, a newer version of the Mate 60 Pro&#39;s Kirin 9000s &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p43#a240425p43)
+ - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
+ - [Sources: the US is urging Japan, South Korea, and the Netherlands to tighten export controls to China, including stopping engineers from servicing Chinese fabs &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p42#a240425p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
