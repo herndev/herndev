@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 29 to May 3](https://news.xbox.com/en-us/2024/04/26/next-week-on-xbox-new-games-for-april-29-to-may-3/)
- - [The Switch 2 Might Be Attempting To Harness The Mysterious Power Of Magnets](https://kotaku.com/switch-2-nintendo-joy-con-magnets-1851437754)
- - [I tried to make a medieval paradise in Manor Lords but now it&#39;s just full of eggs and corpses](https://www.pcgamer.com/games/city-builder/i-tried-to-make-a-medieval-paradise-in-manor-lords-but-now-its-just-full-of-eggs-and-corpses)<!-- GAME:END -->
+ - [How Lords of the Fallen Goes Rogue&lpar;like&rpar; with its New ‘Master of Fate’ Update](https://news.xbox.com/en-us/2024/04/26/lords-of-the-fallen-update-roguelike/)
+ - [Fallout 4’s Big Next-Gen Update: The Good, The Bad, And The Busted](https://kotaku.com/fallout-4-ps5-ps-plus-steam-mods-game-pass-bugs-1851438302)
+ - [Devs Explain Why Most Wishlisted Game On Steam Won&#39;t Reveal Price Until Launch [Update]](https://kotaku.com/manor-lords-steam-price-medieval-city-builder-1851434943)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
