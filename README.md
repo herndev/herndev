@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for April: Play the Recent Indie Games That We Know You’ll Love](https://news.xbox.com/en-us/2024/04/26/indie-selects-april-xbox/)
- - [Case closed: Dead Boy Detectives is a hell of a good time](https://www.polygon.com/reviews/24140533/dead-boy-detectives-netflix-review)
- - [Facebook Has Lost $1 Billion Every Month On VR Since June 2022](https://kotaku.com/facebook-meta-1-billion-every-month-loss-vr-metaverse-1851438748)<!-- GAME:END -->
+ - [Building the Invoker Archetype for Remnant II: The Forgotten Kingdom DLC](https://news.xbox.com/en-us/2024/04/26/building-the-invoker-archetype-for-remnant-2-dlc/)
+ - [Disney Lorcana introduces the rest of Encanto’s Madrigal family](https://www.polygon.com/24141466/disney-lorcana-ursulas-return-madrigal-family-encanto-cards)
+ - [Recall Initiated For Mario Kart Ride-On Racers After Stuck Accelerators Cause Multiple Crashes](https://kotaku.com/mario-kart-ride-on-racer-recall-crash-accelerator-1851439025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
