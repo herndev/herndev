@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The delusion](http://9gag.com/gag/aoyz0Ae)
- - ⏩ [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
+ - 💣 [Soul is better](http://9gag.com/gag/aO8qvv2)
+ - ⏩ [My time to repost](http://9gag.com/gag/a87W47p)
+ - 👉 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)<!-- MEMES:END -->
 
 ---
 
