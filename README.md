@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - ⏩ [Poland!](http://9gag.com/gag/amoX8KV)
- - 👉 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)<!-- MEMES:END -->
+ - 💣 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - ⏩ [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
 
 ---
 
