@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It took 30 years, but a speedrunner&#39;s finished Doom 2&#39;s opening level in an unbelievable 4.97 seconds](https://www.pcgamer.com/games/fps/it-took-30-years-but-a-speedrunners-finished-doom-2s-opening-level-in-an-unbelievable-497-seconds)
  - [Our top 10 Manor Lords tips for thriving in the survival city builder](https://www.pcgamer.com/games/city-builder/manor-lords-beginner-tips)
- - [Today&#39;s Wordle answer for Friday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2024)
- - [HP spends big to secure title sponsorship rights for the Ferrari Formula One team](https://www.pcgamer.com/hardware/hp-spends-big-to-secure-title-sponsorship-rights-for-the-ferrari-formula-one-team)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
