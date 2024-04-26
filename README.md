@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 devs confirm that, no, trimming &#39;excess leg space in the cockpit&#39; doesn&#39;t mean the nice Eagle-1 lady is hacking off her legs for liberty](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-confirm-that-no-trimming-excess-leg-space-in-the-cockpit-doesnt-mean-the-nice-eagle-1-lady-is-hacking-off-her-legs-for-liberty)
  - [Fancy a borked Intel CPU for just $3.25? This Japanese Gacha machine is just for you](https://www.pcgamer.com/hardware/processors/fancy-a-borked-intel-cpu-for-just-dollar325-this-japanese-gacha-machine-is-just-for-you)
- - [Intel CEO claims Core Ultra laptop chip is &#39;hot&#39; but the company&#39;s near-term outlook still isn&#39;t exactly on fire](https://www.pcgamer.com/hardware/processors/intel-ceo-claims-core-ultra-laptop-chip-is-hot-but-the-companys-near-term-outlook-still-isnt-exactly-on-fire)
- - [Elden Ring&#39;s uber boss Malenia says she has &#39;never known defeat&#39;, but your bank account sure will if you buy this 1:1 scale replica of her blade arm](https://www.pcgamer.com/games/dark-souls/elden-rings-uber-boss-malenia-says-she-has-never-known-defeat-but-your-bank-account-sure-will-if-you-buy-this-11-scale-replica-of-her-blade-arm)<!-- GAME:END -->
+ - [Intel CEO claims Core Ultra laptop chip is &#39;hot&#39; but the company&#39;s near-term outlook still isn&#39;t exactly on fire](https://www.pcgamer.com/hardware/processors/intel-ceo-claims-core-ultra-laptop-chip-is-hot-but-the-companys-near-term-outlook-still-isnt-exactly-on-fire)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
