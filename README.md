@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [Sources: China&#39;s muted response to TikTok bill reflects the view that TikTok is of less strategic value than Huawei; China prefers TikTok US closure to sale &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240426/p9#a240426p9)
- - [10 Best Lubes &lpar;2024&rpar;: Water-Based, Silicone, and Lube Dispensers](https://www.wired.com/gallery/best-lubes/)<!-- TECH:END -->
+ - [ByteDance won’t sell TikTok, would rather pull it from the US](https://www.androidauthority.com/tiktok-ban-bytedance-response-3437786/)
+ - [Apple&#39;s latest supplier list shows the challenges the company is facing in diversifying its supply chain, as its Chinese suppliers grew from 48 to 52 in 2023 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240426/p10#a240426p10)
+ - [Google Pixel 8A leak reveals seven years of security updates](https://www.theverge.com/2024/4/26/24141503/google-pixel-8a-leaked-specs-security-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
