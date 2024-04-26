@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
- - ⏩ [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 💣 [New found talent](http://9gag.com/gag/a4P4bnp)
+ - ⏩ [The force is strong with this one](http://9gag.com/gag/aZZPmRp)
+ - 👉 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)<!-- MEMES:END -->
 
 ---
 
