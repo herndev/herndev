@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - ⏩ [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
+ - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - ⏩ [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 👉 [Someone should report him.](http://9gag.com/gag/aD20o3d)<!-- MEMES:END -->
 
 ---
 
