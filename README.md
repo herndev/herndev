@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NHTSA finds that Tesla&#39;s driver-assist features are insufficient at keeping drivers engaged in the task of driving and links them to 100+ crashes and 10+ deaths &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240426/p8#a240426p8)
- - [Google RealFill could be the company’s next big AI photography trick](https://www.androidauthority.com/google-realfill-trademark-3437686/)
- - [Apple finally pulls generative AI nude apps from the App Store](https://appleinsider.com/articles/24/04/26/apple-finally-pulls-generative-ai-nude-apps-from-the-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [Sources: China&#39;s muted response to TikTok bill reflects the view that TikTok is of less strategic value than Huawei; China prefers TikTok US closure to sale &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240426/p9#a240426p9)
+ - [10 Best Lubes &lpar;2024&rpar;: Water-Based, Silicone, and Lube Dispensers](https://www.wired.com/gallery/best-lubes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
