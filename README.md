@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our top 10 Manor Lords tips for thriving in the survival city builder](https://www.pcgamer.com/games/city-builder/manor-lords-beginner-tips)
  - [Today&#39;s Wordle answer for Friday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2024)
- - [HP spends big to secure title sponsorship rights for the Ferrari Formula One team](https://www.pcgamer.com/hardware/hp-spends-big-to-secure-title-sponsorship-rights-for-the-ferrari-formula-one-team)
- - [After 6 years, the FCC has voted to restore net neutrality regulations in a win for the open internet](https://www.pcgamer.com/gaming-industry/after-6-years-the-fcc-has-voted-to-restore-net-neutrality-regulations-in-a-win-for-the-open-internet)<!-- GAME:END -->
+ - [HP spends big to secure title sponsorship rights for the Ferrari Formula One team](https://www.pcgamer.com/hardware/hp-spends-big-to-secure-title-sponsorship-rights-for-the-ferrari-formula-one-team)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
