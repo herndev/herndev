@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - ⏩ [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
- - 👉 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)<!-- MEMES:END -->
+ - 💣 [Gothing withing](http://9gag.com/gag/aoyz90n)
+ - ⏩ [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
 
 ---
 
