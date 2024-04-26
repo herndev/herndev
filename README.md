@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New found talent](http://9gag.com/gag/a4P4bnp)
- - ⏩ [The force is strong with this one](http://9gag.com/gag/aZZPmRp)
- - 👉 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)<!-- MEMES:END -->
+ - 💣 [My man was dead inside](http://9gag.com/gag/an7YjYq)
+ - ⏩ [Moooazing](http://9gag.com/gag/an7YbO0)
+ - 👉 [Just another European city](http://9gag.com/gag/ae9NGDm)<!-- MEMES:END -->
 
 ---
 
