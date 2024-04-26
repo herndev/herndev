@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is testing &quot;Speaking practice&quot; in Search, which uses a conversational AI bot to let Search Labs users in some countries improve their English skills &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240426/p15#a240426p15)
- - [This space exploration-themed smartwatch is coming to more countries](https://www.androidauthority.com/huawei-watch-4-pro-space-exploration-3437876/)
- - [GE Combo Washer &amp; Electric Dryer     - CNET](https://www.cnet.com/home/kitchen-and-household/ge-combo-washer-electric-dryer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple has renewed discussions with OpenAI about using its technology to power some features in iOS 18; talks with Google on using Gemini remain ongoing &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240426/p17#a240426p17)
+ - [Roborock’s Robot Vacuums—Including WIRED’s Top Pick—Are on Sale Right Now](https://www.wired.com/story/roborock-robot-vacuum-deals-april-2024/)
+ - [Eken fixes ‘terrible’ video doorbell issue that could let someone spy on you](https://www.theverge.com/2024/4/26/24141844/eken-firmware-update-consumer-reports-video-doorbell-security-vulnerability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
