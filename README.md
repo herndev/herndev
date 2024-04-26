@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - ⏩ [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 👉 [Someone should report him.](http://9gag.com/gag/aD20o3d)<!-- MEMES:END -->
+ - 💣 [Live action meme &lpar;@dissy.official&rpar;](http://9gag.com/gag/a4P4Zzd)
+ - ⏩ [Cat chase POV](http://9gag.com/gag/aQzqMqw)
+ - 👉 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)<!-- MEMES:END -->
 
 ---
 
