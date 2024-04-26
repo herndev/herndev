@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My man was dead inside](http://9gag.com/gag/an7YjYq)
- - ⏩ [Moooazing](http://9gag.com/gag/an7YbO0)
- - 👉 [Just another European city](http://9gag.com/gag/ae9NGDm)<!-- MEMES:END -->
+ - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - ⏩ [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
 
 ---
 
