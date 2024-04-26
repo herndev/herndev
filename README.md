@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoma Bravo agrees to buy UK-based cyber security company Darktrace for $7.75 per share, a 20% premium on its April 25 closing price, valuing the company at $5B &lpar;Will Louch/Financial Times&rpar;](http://www.techmeme.com/240426/p2#a240426p2)
  - [The next OnePlus Nord phone could be a Snapdragon powerhouse](https://www.androidauthority.com/the-next-oneplus-nord-phone-could-be-a-snapdragon-powerhouse-3437530/)
- - [The Galaxy S24 FE takes a step closer to reality with new listing](https://www.androidauthority.com/samsung-galaxy-s24-fe-spotted-uk-carrier-3437532/)
- - [Google is feeling pretty pumped about a new way of showing you ads on YouTube](https://www.androidauthority.com/youtube-pause-ads-3437531/)<!-- TECH:END -->
+ - [The Galaxy S24 FE takes a step closer to reality with new listing](https://www.androidauthority.com/samsung-galaxy-s24-fe-spotted-uk-carrier-3437532/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
