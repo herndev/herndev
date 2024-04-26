@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance won’t sell TikTok, would rather pull it from the US](https://www.androidauthority.com/tiktok-ban-bytedance-response-3437786/)
- - [Apple&#39;s latest supplier list shows the challenges the company is facing in diversifying its supply chain, as its Chinese suppliers grew from 48 to 52 in 2023 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240426/p10#a240426p10)
- - [Google Pixel 8A leak reveals seven years of security updates](https://www.theverge.com/2024/4/26/24141503/google-pixel-8a-leaked-specs-security-updates)<!-- TECH:END -->
+ - [Akira Toriyama’s Sand Land makes a better show than game](https://www.theverge.com/24141497/sand-land-game-anime-hulu-ps5-xbox-akira-toriyama)
+ - [Retro gold rush: these emulators are coming to the App Store soon](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Pixel Launcher will soon let you choose whether to truncate app names](https://www.androidauthority.com/pixel-launcher-show-long-app-names-3437829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
