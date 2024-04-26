@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Start Your Journey into Sand Land Today with These Helpful Tips](https://news.xbox.com/en-us/2024/04/26/sand-land-helpful-tips/)
- - [8 Things To Know Before Jumping Into Another Crab’s Treasure](https://kotaku.com/another-crabs-treasure-guide-tips-things-to-know-1851438450)
- - [Manor Lords surpassed 100,000 concurrent players within hours of release, and now it&#39;s the global top seller on Steam](https://www.pcgamer.com/games/city-builder/manor-lords-surpassed-100000-concurrent-players-within-hours-of-release-and-now-its-the-global-top-seller-on-steam)<!-- GAME:END -->
+ - [Indie Selects for April: Play the Recent Indie Games That We Know You’ll Love](https://news.xbox.com/en-us/2024/04/26/indie-selects-april-xbox/)
+ - [Case closed: Dead Boy Detectives is a hell of a good time](https://www.polygon.com/reviews/24140533/dead-boy-detectives-netflix-review)
+ - [Facebook Has Lost $1 Billion Every Month On VR Since June 2022](https://kotaku.com/facebook-meta-1-billion-every-month-loss-vr-metaverse-1851438748)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
