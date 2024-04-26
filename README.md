@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - ⏩ [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 👉 [Poland!](http://9gag.com/gag/amoX8KV)<!-- MEMES:END -->
+ - 💣 [Live action meme &lpar;@dissy.official&rpar;](http://9gag.com/gag/a4P4Zzd)
+ - ⏩ [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
+ - 👉 [Word](http://9gag.com/gag/amoXrro)<!-- MEMES:END -->
 
 ---
 
