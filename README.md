@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live action meme &lpar;@dissy.official&rpar;](http://9gag.com/gag/a4P4Zzd)
- - ⏩ [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
- - 👉 [Word](http://9gag.com/gag/amoXrro)<!-- MEMES:END -->
+ - 💣 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - ⏩ [Poland!](http://9gag.com/gag/amoX8KV)
+ - 👉 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)<!-- MEMES:END -->
 
 ---
 
