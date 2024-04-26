@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live action meme &lpar;@dissy.official&rpar;](http://9gag.com/gag/a4P4Zzd)
- - ⏩ [Cat chase POV](http://9gag.com/gag/aQzqMqw)
- - 👉 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)<!-- MEMES:END -->
+ - 💣 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - ⏩ [The delusion](http://9gag.com/gag/aoyz0Ae)
+ - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
 
 ---
 
