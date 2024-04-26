@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is testing &quot;Speaking practice&quot; in Search, which uses a conversational AI bot to let Search Labs users in some countries improve their English skills &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240426/p15#a240426p15)
  - [This space exploration-themed smartwatch is coming to more countries](https://www.androidauthority.com/huawei-watch-4-pro-space-exploration-3437876/)
- - [Android 15 could stop your phone from vibrating like crazy when you get a lot of notifications](https://www.androidauthority.com/android-15-notification-vibrate-when-unlocked-3437865/)
- - [Google is officially a $2 trillion company](https://www.theverge.com/24140489/google-alphabet-q1-2024-earnings-revenue)<!-- TECH:END -->
+ - [GE Combo Washer &amp; Electric Dryer     - CNET](https://www.cnet.com/home/kitchen-and-household/ge-combo-washer-electric-dryer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
