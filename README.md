@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy Launches Huge 3-Day Sale on Top Tech and Major Appliances     - CNET](https://www.cnet.com/deals/best-buy-launches-huge-3-day-sale-on-top-tech-and-major-appliances/#ftag=CAD590a51e)
- - [Thoma Bravo agrees to buy UK-based cyber security company Darktrace for $7.75 per share, a 20% premium on its April 25 closing price, valuing the company at $5B &lpar;Financial Times&rpar;](http://www.techmeme.com/240426/p2#a240426p2)
- - [The next OnePlus Nord phone could be a Snapdragon powerhouse](https://www.androidauthority.com/the-next-oneplus-nord-phone-could-be-a-snapdragon-powerhouse-3437530/)<!-- TECH:END -->
+ - [What’s the Safest Seat on an Airplane?](https://www.wired.com/story/whats-the-safest-seat-on-an-airplane/)
+ - [Peloton producer says Apple Watch saved her life](https://appleinsider.com/articles/24/04/26/peloton-producer-says-apple-watch-saved-her-life?utm_medium=rss)
+ - [One UI 6.1.1 could be coming soon with ‘video AI’ feature](https://www.androidauthority.com/one-ui-6-1-1-video-ai-feature-3437586/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
