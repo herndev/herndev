@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The truth about pro Palestine protests in Sweden. Noone cares...](http://9gag.com/gag/ajPr0e8)
- - ⏩ [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
+ - 💣 [Great horror movie](http://9gag.com/gag/aGy9xwZ)
+ - ⏩ [Gothing withing](http://9gag.com/gag/aoyz90n)
+ - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
 
 ---
 
