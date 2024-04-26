@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gothing withing](http://9gag.com/gag/aoyz90n)
- - ⏩ [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 💣 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)
+ - ⏩ [Soul is better](http://9gag.com/gag/aO8qvv2)
+ - 👉 [Love](http://9gag.com/gag/aQzq8Zq)<!-- MEMES:END -->
 
 ---
 
