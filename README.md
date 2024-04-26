@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 14’s AI Editor with generative AI features flew under the radar](https://www.androidauthority.com/xiaomi-14-ai-editor-3437621/)
- - [The NHTSA closes a 2021 investigation into Tesla&#39;s Autopilot and opens a new one to evaluate whether a December 2023 Autopilot recall fix is effective enough &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240426/p5#a240426p5)
- - [The EU Commission says Shein will have to comply with DSA rules for content handling, starting August 2024, as the retailer has more than 45M users in the EU &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240426/p4#a240426p4)<!-- TECH:END -->
+ - [Unistellar Odyssey Pro review: Unlock pro-level astronomy with your iPhone from your backyard](https://appleinsider.com/articles/24/04/26/unistellar-odyssey-pro-review-unlock-pro-level-astronomy-with-your-iphone-from-your-backyard?utm_medium=rss)
+ - [A look at Abu Dhabi-based AI startup G42, as sources say US intelligence officials fixated on CEO Xiao Peng ahead of its China divestment and Microsoft deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/240426/p6#a240426p6)
+ - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, and Local Roasters](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
