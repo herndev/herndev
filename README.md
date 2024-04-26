@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can fix her](http://9gag.com/gag/a9ydPVK)
- - ⏩ [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 💣 [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
+ - ⏩ [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 👉 [Get scammed](http://9gag.com/gag/aByK1W1)<!-- MEMES:END -->
 
 ---
 
