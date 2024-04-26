@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - ⏩ [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 👉 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)<!-- MEMES:END -->
+ - 💣 [The delusion](http://9gag.com/gag/aoyz0Ae)
+ - ⏩ [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
+ - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
 
 ---
 
