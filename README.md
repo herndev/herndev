@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Autopilot Was Uniquely Risky—and May Still Be](https://www.wired.com/story/tesla-autopilot-risky-deaths-crashes-nhtsa-investigation/)
- - [I traded in my MacBook and now I’m a desktop convert](https://www.theverge.com/24139303/mac-mini-laptops-desktops)
- - [As Intel reports disappointing earnings and guidance, and becomes S&amp;P&#39;s worst performing stock in 2024, a look at the long history of company&#39;s missteps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240426/p13#a240426p13)<!-- TECH:END -->
+ - [This space exploration-themed smartwatch is coming to more countries](https://www.androidauthority.com/huawei-watch-4-pro-space-exploration-3437876/)
+ - [Android 15 could stop your phone from vibrating like crazy when you get a lot of notifications](https://www.androidauthority.com/android-15-notification-vibrate-when-unlocked-3437865/)
+ - [Google is officially a $2 trillion company](https://www.theverge.com/24140489/google-alphabet-q1-2024-earnings-revenue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
