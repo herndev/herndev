@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What festival is this bro...](http://9gag.com/gag/aVvOXV2)
+ - 💣 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
  - ⏩ [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
+ - 👉 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)<!-- MEMES:END -->
 
 ---
 
