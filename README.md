@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of Mustafa Suleyman and Demis Hassabis, two of the most powerful AI executives, who grew up in London and met at Queen Elizabeth&#39;s School &lpar;New York Times&rpar;](http://www.techmeme.com/240429/p15#a240429p15)
- - [Google Wallet gets notification improvements, and more &lpar;Update: No American Express for Fitbit&rpar;](https://www.androidauthority.com/google-wallet-fitbit-american-express-support-3437242/)
- - [NHTSA opens investigation into Ford’s BlueCruise after software linked to fatal crash](https://www.theverge.com/2024/4/29/24144244/nhtsa-ford-bluecruise-software-investigation-fatal-crashes-mustang-mach-e)<!-- TECH:END -->
+ - [Pixel 8’s flashlight is half intensity by default, here’s how to make it brighter](https://www.androidauthority.com/pixel-8-flashlight-half-intensity-3438214/)
+ - [Google’s Pixel Watch 2 is matching its lowest price with $50 off](https://www.theverge.com/2024/4/29/24144248/google-pixel-watch-2-xbox-game-pass-ultimate-deal-sale)
+ - [Mercedes-Benz CEO Ola Källenius on not using Apple’s next-gen CarPlay and why EVs are still the future](https://www.theverge.com/24140551/mercedes-benz-ola-kallenius-ev-gwagen-carplay-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
