@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Manor Lords, a new medieval city building game from Polish indie developer Grzegorz Styczen, sells 1M+ copies and hits 170K+ concurrent players on Steam &lpar;Konrad Krasuski/Bloomberg&rpar;](http://www.techmeme.com/240429/p12#a240429p12)
- - [Best deal yet drops on the Google Pixel Watch 2](https://www.androidauthority.com/deal-google-pixel-watch-2-3438026/)
- - [Glestain Gyuto Chef’s Knife Review: The Dimples Do Work](https://www.wired.com/review/glestain-gyuto/)<!-- TECH:END -->
+ - [A look at the rise of Mustafa Suleyman and Demis Hassabis, two of the most powerful AI executives, who grew up in London and met at Queen Elizabeth&#39;s School &lpar;New York Times&rpar;](http://www.techmeme.com/240429/p15#a240429p15)
+ - [Google Wallet gets notification improvements, and more &lpar;Update: No American Express for Fitbit&rpar;](https://www.androidauthority.com/google-wallet-fitbit-american-express-support-3437242/)
+ - [NHTSA opens investigation into Ford’s BlueCruise after software linked to fatal crash](https://www.theverge.com/2024/4/29/24144244/nhtsa-ford-bluecruise-software-investigation-fatal-crashes-mustang-mach-e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
