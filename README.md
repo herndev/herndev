@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Manor Lords&#39; dev asks players: Should its supply mechanic be changed?](https://www.pcgamer.com/games/city-builder/manor-lords-dev-asks-players-should-its-supply-mechanic-be-changed)
  - [Check out Oddsparks, which is something like Pikmin by way of Factorio](https://www.pcgamer.com/games/check-out-oddsparks-which-is-something-like-pikmin-by-way-of-factorio)
- - [Counter-Strike 2 adds a lefty mode](https://www.pcgamer.com/games/fps/counter-strike-2-adds-a-lefty-mode)
- - [Five new Steam games you probably missed &lpar;April 29, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-29-2024)<!-- GAME:END -->
+ - [Counter-Strike 2 adds a lefty mode](https://www.pcgamer.com/games/fps/counter-strike-2-adds-a-lefty-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
