@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
- - ⏩ [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 👉 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)<!-- MEMES:END -->
+ - 💣 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)
+ - ⏩ [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
 
 ---
 
