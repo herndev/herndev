@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give you a shot](http://9gag.com/gag/aLnK0zz)
- - ⏩ [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
+ - 💣 [He went hardcore!](http://9gag.com/gag/a87W57O)
+ - ⏩ [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 👉 [Heroes still exist](http://9gag.com/gag/agmygmg)<!-- MEMES:END -->
 
 ---
 
