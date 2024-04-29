@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discord drops the hammer on data-scraping &#39;Spy.pet&#39; website, says it is &#39;considering appropriate legal action&#39;](https://www.pcgamer.com/software/discord-drops-the-hammer-on-data-scraping-spypet-website-says-it-is-considering-appropriate-legal-action)
- - [Boy Kills World is a litmus test for fans of video game-inspired movies](https://www.polygon.com/reviews/24141885/boy-kills-world-review-video-game-movie-bill-skarsgard)
- - [Anyone but You on Netflix, Monkey Man, and every new movie to watch at home this weekend](https://www.polygon.com/2024/4/26/24135851/new-movies-watch-monkey-man-anyone-but-you-netflix-love-lies-bleeding)<!-- GAME:END -->
+ - [Dragon&#39;s Dogma 2 looks drastically different with path-tracing enabled thank to a mod](https://www.pcgamer.com/games/rpg/dragons-dogma-2-looks-drastically-different-with-path-tracing-enabled-thank-to-a-mod)
+ - [Escape From Tarkov dev finally caves, says people who paid $150 for the game will get access to its new mode &#39;in waves&#39;](https://www.pcgamer.com/games/fps/escape-from-tarkov-dev-finally-caves-says-people-who-paid-dollar150-will-get-access-to-its-new-mode-in-waves)
+ - [You may be kicking yourself for deleting Destiny guns that are all of a sudden viable again, but one of the game&#39;s biggest YouTubers has been Marie Kondo-ing his friends&#39; arsenals on camera for years](https://www.pcgamer.com/games/fps/you-may-be-kicking-yourself-for-deleting-destiny-guns-that-are-all-of-a-sudden-viable-again-but-one-of-the-games-biggest-youtubers-has-been-marie-kondo-ing-his-friends-arsenals-on-camera-for-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
