@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An inside look at Apple&#39;s various internal iOS variants that aid development](https://appleinsider.com/articles/24/04/29/apple-makes-far-more-than-just-beta-and-release-versions-of-ios?utm_medium=rss)
- - [iPads join iPhones in requirement to follow strict EU rules](https://www.theverge.com/2024/4/29/24144209/ipados-ipad-eu-commission-dma-rules-compliance-regulation)
- - [First the iPhone, now the EU will force Apple to open up iPads](https://www.androidauthority.com/eu-will-open-up-ipads-3438155/)<!-- TECH:END -->
+ - [Manor Lords, a new medieval city building game from Polish indie developer Grzegorz Styczen, sells 1M+ copies and hits 170K+ concurrent players on Steam &lpar;Konrad Krasuski/Bloomberg&rpar;](http://www.techmeme.com/240429/p12#a240429p12)
+ - [Best deal yet drops on the Google Pixel Watch 2](https://www.androidauthority.com/deal-google-pixel-watch-2-3438026/)
+ - [Glestain Gyuto Chef’s Knife Review: The Dimples Do Work](https://www.wired.com/review/glestain-gyuto/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
