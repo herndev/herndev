@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
- - ⏩ [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
- - 👉 [Shortcut to World 1 - 5 is blocked tho](http://9gag.com/gag/aQzq3xd)<!-- MEMES:END -->
+ - 💣 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - ⏩ [Some famous logos in medieval style &lpar;zoom it for better experience&rpar;](http://9gag.com/gag/aKGz6G6)
+ - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
 
 ---
 
