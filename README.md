@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today in Helldivers 2: Super Earth admits those Termicide towers we turned on last month actually made the bug population explode overnight, and guess whose job it is to clean this mess up](https://www.pcgamer.com/games/third-person-shooter/today-in-helldivers-2-super-earth-admits-those-termicide-towers-we-turned-on-last-month-actually-made-the-bug-population-explode-overnight-and-guess-whose-job-it-is-to-clean-this-mess-up)
- - [The creators of one of the best detective games ever are back with a new &#39;open world mascot management crime drama&#39; and I could not be more ready](https://www.pcgamer.com/games/adventure/the-creators-of-one-of-the-best-detective-games-ever-are-back-with-a-new-open-world-mascot-management-crime-drama-and-i-could-not-be-more-ready)
- - [Streamer Builds Hilarious Skyrim Mod That Lets Twitch Chat Voice NPCs](https://kotaku.com/twitch-streamer-blurbs-elder-scrolls-v-skyrim-voice-mod-1851443327)<!-- GAME:END -->
+ - [&#39;Most ambitious&#39; Vampire Survivors update yet features &#39;immersive door opening action&#39; and &#39;world premiere train mechanics&#39;](https://www.pcgamer.com/games/roguelike/vampire-survivors-1.10-patch-notes)
+ - [Manor Lords players delighted to discover a villager with an NSFW name, but the developer says it&#39;s historically accurate](https://www.pcgamer.com/games/city-builder/manor-lords-players-delighted-to-discover-a-villager-with-an-nsfw-name-but-the-developer-says-its-historically-accurate)
+ - [Palworld is getting a frog with a stick &lpar;and 3 other new Pals&rpar;](https://www.polygon.com/24144645/palworld-reveal-four-new-pals-pocketpair)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
