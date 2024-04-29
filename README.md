@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - ⏩ [Give you a shot](http://9gag.com/gag/aLnK0zz)
- - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
+ - 💣 [Give you a shot](http://9gag.com/gag/aLnK0zz)
+ - ⏩ [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
 
 ---
 
