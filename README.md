@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Can&#39;t Solve Tesla’s China Crisis With His Desperate Asia Visit](https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/)
- - [iPad at war: How the iPad is crucial to the Ukraine war effort](https://appleinsider.com/articles/24/04/29/ipad-at-war-how-the-ipad-is-crucial-to-the-ukraine-war-effort?utm_medium=rss)
- - [Android 15 could let your Pixel Watch control your phone’s media output](https://www.androidauthority.com/android-15-change-media-output-smartwatch-3438306/)<!-- TECH:END -->
+ - [Google rejected 2.28M &quot;policy-violating&quot; Android apps and blocked ~333K dev accounts from Google Play in 2023, up from 1.5M apps and 173K accounts in 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240429/p24#a240429p24)
+ - [Apple&#39;s iPhone factory shift has left a ghost town behind in China](https://appleinsider.com/articles/24/04/29/apples-iphone-factory-shift-has-left-a-ghost-town-behind-in-china?utm_medium=rss)
+ - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.6 nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
