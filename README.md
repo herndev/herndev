@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Latest Online Culture War Is Humans vs. Algorithms](https://www.wired.com/story/latest-online-culture-war-is-humans-vs-algorithms/)
- - [&#39;Ted Lasso&#39; complete series Blu Ray box set may arrive soon](https://appleinsider.com/articles/24/04/29/ted-lasso-complete-series-blu-ray-box-set-may-arrive-soon?utm_medium=rss)
- - [Apple&#39;s iPad doesn&#39;t yet meet the DMA criteria, but is getting regulated by the EU anyway](https://appleinsider.com/articles/24/04/29/apples-ipad-doesnt-yet-meet-the-dma-criteria-but-is-getting-regulated-by-the-eu-anyway?utm_medium=rss)<!-- TECH:END -->
+ - [An inside look at Apple&#39;s various internal iOS variants that aid development](https://appleinsider.com/articles/24/04/29/apple-makes-far-more-than-just-beta-and-release-versions-of-ios?utm_medium=rss)
+ - [iPads join iPhones in requirement to follow strict EU rules](https://www.theverge.com/2024/4/29/24144209/ipados-ipad-eu-commission-dma-rules-compliance-regulation)
+ - [First the iPhone, now the EU will force Apple to open up iPads](https://www.androidauthority.com/eu-will-open-up-ipads-3438155/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
