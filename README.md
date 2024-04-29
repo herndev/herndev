@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, April 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-29-2024)
  - [Manor Lords&#39; dev asks players: Should its supply mechanic be changed?](https://www.pcgamer.com/games/city-builder/manor-lords-dev-asks-players-should-its-supply-mechanic-be-changed)
- - [Check out Oddsparks, which is something like Pikmin by way of Factorio](https://www.pcgamer.com/games/check-out-oddsparks-which-is-something-like-pikmin-by-way-of-factorio)
- - [Counter-Strike 2 adds a lefty mode](https://www.pcgamer.com/games/fps/counter-strike-2-adds-a-lefty-mode)<!-- GAME:END -->
+ - [Check out Oddsparks, which is something like Pikmin by way of Factorio](https://www.pcgamer.com/games/check-out-oddsparks-which-is-something-like-pikmin-by-way-of-factorio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
