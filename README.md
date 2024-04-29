@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has renewed discussions with OpenAI about using its technology to power some features in iOS 18; talks with Google on using Gemini remain ongoing &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240426/p17#a240426p17)
- - [Roborock’s Robot Vacuums—Including WIRED’s Top Pick—Are on Sale Right Now](https://www.wired.com/story/roborock-robot-vacuum-deals-april-2024/)
- - [Eken fixes ‘terrible’ video doorbell issue that could let someone spy on you](https://www.theverge.com/2024/4/26/24141844/eken-firmware-update-consumer-reports-video-doorbell-security-vulnerability)<!-- TECH:END -->
+ - [Akamai: US Post Office phishing sites got significantly more DNS queries, cumulatively, than the legitimate website during some weeks of the 2023 holiday season &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240428/p8#a240428p8)
+ - [New iPhone 16 leak blows the cover off of screen sizes &amp; camera bump](https://appleinsider.com/articles/24/04/28/iphone-16-screen-sizes-allegedly-revealed-in-new-leak?utm_medium=rss)
+ - [Crime blotter: NYPD officer acquitted for 2021 punch in Apple Store](https://appleinsider.com/articles/24/04/28/crime-blotter-nypd-officer-acquitted-for-2021-punch-in-apple-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
