@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [IGN x ID@Xbox Digital Showcase – See Everything We Showed in Our Second Edition](https://news.xbox.com/en-us/2024/04/29/ign-x-idxbox-digital-showcase-recap-2024/)
- - [&#39;No Rest for the Wicked is like our Lord of the Rings,&#39; Moon Studios boss says: &#39;We won&#39;t be making Ori 3 anytime soon&#39;](https://www.pcgamer.com/games/action/no-rest-for-the-wicked-is-like-our-lord-of-the-rings-moon-studios-boss-says-we-wont-be-making-ori-3-anytime-soon)
- - [Google picks the one fight it will never win—with Sonic fans](https://www.pcgamer.com/games/action/google-picks-the-one-fight-it-will-never-winwith-sonic-fans)<!-- GAME:END -->
+ - [Today in Helldivers 2: Super Earth admits those Termicide towers we turned on last month actually made the bug population explode overnight, and guess whose job it is to clean this mess up](https://www.pcgamer.com/games/third-person-shooter/today-in-helldivers-2-super-earth-admits-those-termicide-towers-we-turned-on-last-month-actually-made-the-bug-population-explode-overnight-and-guess-whose-job-it-is-to-clean-this-mess-up)
+ - [The creators of one of the best detective games ever are back with a new &#39;open world mascot management crime drama&#39; and I could not be more ready](https://www.pcgamer.com/games/adventure/the-creators-of-one-of-the-best-detective-games-ever-are-back-with-a-new-open-world-mascot-management-crime-drama-and-i-could-not-be-more-ready)
+ - [Streamer Builds Hilarious Skyrim Mod That Lets Twitch Chat Voice NPCs](https://kotaku.com/twitch-streamer-blurbs-elder-scrolls-v-skyrim-voice-mod-1851443327)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
