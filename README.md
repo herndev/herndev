@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find Deviljho in Volatile habitats in Monster Hunter Now](https://www.polygon.com/monster-hunter-now-guides/24144197/deviljho-volatile-habitats-invasion)
- - [Gaming Collective Faze Clan Goes Through A Massive Purge](https://kotaku.com/faze-clan-banks-reboot-layoffs-agony-bloo-kalei-1851442646)
- - [Challengers’ threesome denies viewers what they want — and gives them something better](https://www.polygon.com/24141931/challengers-zendaya-sex-scene-threesome-ending-explained)<!-- GAME:END -->
+ - [Walmart Launches Roblox Store, Offering New Worst Way To Buy Stuff Online](https://kotaku.com/walmart-roblox-world-virtual-irl-store-real-items-1851442901)
+ - [Sounds like the Switch 2 has Joy-Cons that attach magnetically](https://www.polygon.com/24144429/switch-2-magnetic-joy-cons-backward-compatible)
+ - [The tech I&#39;m most psyched to see this year is anything but traditional PC silicon, and certainly isn&#39;t x86](https://www.pcgamer.com/hardware/processors/the-tech-im-most-psyched-to-see-this-year-is-anything-but-traditional-pc-silicon-and-certainly-isnt-x86)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
