@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rejected 2.28M &quot;policy-violating&quot; Android apps and blocked ~333K dev accounts from Google Play in 2023, up from 1.5M apps and 173K accounts in 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240429/p24#a240429p24)
- - [Apple&#39;s iPhone factory shift has left a ghost town behind in China](https://appleinsider.com/articles/24/04/29/apples-iphone-factory-shift-has-left-a-ghost-town-behind-in-china?utm_medium=rss)
- - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.6 nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)<!-- TECH:END -->
+ - [NIST launches a new program to assess generative AI technologies, with plans to release benchmarks, help create &quot;content authenticity&quot; detection tech, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p25#a240429p25)
+ - [Apple starts replacing titanium Apple Cards from original 2019 batch](https://appleinsider.com/articles/24/04/29/apple-starts-replacing-titanium-apple-cards-from-original-2019-batch?utm_medium=rss)
+ - [Tesla Cybertruck finally gets more off-road controls](https://www.theverge.com/2024/4/29/24144578/tesla-cybertruck-off-road-mode-app-software-update-cybertent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
