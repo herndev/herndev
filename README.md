@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Manor Lords dev concedes that archers aren&#39;t strong enough but promises changes: &#39;This will surely take a while to get right&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-dev-concedes-that-archers-arent-strong-enough-but-promises-changes-this-will-surely-take-a-while-to-get-right)
- - [Final Fantasy 16: The Best Ways To Farm AP And EXP Fast](https://kotaku.com/ff16-farm-ap-exp-fast-grind-level-trophy-masterclass-1851442373)
- - [Suffering so you don&#39;t have to, this streamer has doubled up on haptic suits to feel the real pain of Skyrim VR](https://www.pcgamer.com/hardware/vr-hardware/suffering-so-you-dont-have-to-this-streamer-has-doubled-up-on-haptic-suits-to-feel-the-real-pain-of-skyrim-vr)<!-- GAME:END -->
+ - [How to find Deviljho in Volatile habitats in Monster Hunter Now](https://www.polygon.com/monster-hunter-now-guides/24144197/deviljho-volatile-habitats-invasion)
+ - [Gaming Collective Faze Clan Goes Through A Massive Purge](https://kotaku.com/faze-clan-banks-reboot-layoffs-agony-bloo-kalei-1851442646)
+ - [Challengers’ threesome denies viewers what they want — and gives them something better](https://www.polygon.com/24141931/challengers-zendaya-sex-scene-threesome-ending-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
