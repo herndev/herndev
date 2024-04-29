@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer made a million dollars selling a mask with RGB, and the FTC is not pleased](https://www.theverge.com/2024/4/29/24144425/razer-zephyr-face-mask-covid-n95-ftc-settlement)
- - [Get ready for video ads to invade your Roku home screen](https://www.androidauthority.com/roku-video-ads-home-screen-3438239/)
- - [More Matter products, and a big new Sonos app update on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/04/29/more-matter-products-and-a-big-new-sonos-app-update-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Peacock is getting a $2 price increase](https://www.theverge.com/2024/4/29/24144507/peacock-premium-price-increase)
+ - [New iPad Pro models will get the best OLED tablet display ever made](https://appleinsider.com/articles/24/04/29/new-ipad-pro-models-will-get-the-best-oled-tablet-display-ever-made?utm_medium=rss)
+ - [Meta had its biggest lobbying quarter ever](https://www.theverge.com/2024/4/29/24144333/meta-record-lobbying-q1-2024-us-government-big-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
