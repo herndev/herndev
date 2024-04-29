@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hit sandbox MMO Albion Online braces for launch in Europe](https://www.pcgamer.com/games/hit-sandbox-mmo-albion-online-braces-for-launch-in-europe)
- - [Today&#39;s Wordle answer for Monday, April 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-29-2024)
- - [Manor Lords&#39; dev asks players: Should its supply mechanic be changed?](https://www.pcgamer.com/games/city-builder/manor-lords-dev-asks-players-should-its-supply-mechanic-be-changed)<!-- GAME:END -->
+ - [How Escape From Tarkov wiped out years of goodwill in one catastrophic week](https://www.pcgamer.com/games/fps/how-escape-from-tarkov-wiped-out-years-of-goodwill-in-one-catastrophic-week)
+ - [One Manor Lords player survived a battle so epic he decided to create a fake Wikipedia article about it](https://www.pcgamer.com/games/city-builder/one-manor-lords-player-survived-a-battle-so-epic-he-decided-to-create-a-fake-wikipedia-article-about-it)
+ - [How to upgrade burgage plots in Manor Lords](https://www.pcgamer.com/games/city-builder/manor-lords-how-to-upgrade-burgage-plots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
