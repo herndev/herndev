@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
- - ⏩ [Give you a shot](http://9gag.com/gag/aLnK0zz)
- - 👉 [Clickbait](http://9gag.com/gag/aXPboGd)<!-- MEMES:END -->
+ - 💣 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - ⏩ [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
 
 ---
 
