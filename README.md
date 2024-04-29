@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - ⏩ [It should&#39;ve been me](http://9gag.com/gag/aGy9zY7)
- - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
+ - ⏩ [Give you a shot](http://9gag.com/gag/aLnK0zz)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---
 
