@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - ⏩ [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
- - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
+ - 💣 [Why are some women like this?](http://9gag.com/gag/aZZP7eX)
+ - ⏩ [Take a deep breath and meet me in the comments with some memes. No propagandalf no war. Just good old dumb memes.](http://9gag.com/gag/a1mARd2)
+ - 👉 [Very difficult to live on 4500$ a month](http://9gag.com/gag/a0e9NWQ)<!-- MEMES:END -->
 
 ---
 
