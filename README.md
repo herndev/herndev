@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fiido Air review: so lightweight you’ll forget it’s an e-bike](https://www.theverge.com/24144163/fiido-air-carbon-fiber-e-bike-review-price-specs)
- - [France makes a non-binding offer to buy some of Atos&#39; operations, including its supercomputer and cyber products, for &amp;euro;700M to &amp;euro;1B, as Atos seeks to raise &amp;euro;1.7B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240429/p8#a240429p8)
- - [Twitter not working? Here are some things you can try! &lpar;Update&rpar;](https://www.androidauthority.com/twitter-not-working-1008338/)<!-- TECH:END -->
+ - [The Latest Online Culture War Is Humans vs. Algorithms](https://www.wired.com/story/latest-online-culture-war-is-humans-vs-algorithms/)
+ - [&#39;Ted Lasso&#39; complete series Blu Ray box set may arrive soon](https://appleinsider.com/articles/24/04/29/ted-lasso-complete-series-blu-ray-box-set-may-arrive-soon?utm_medium=rss)
+ - [Apple&#39;s iPad doesn&#39;t yet meet the DMA criteria, but is getting regulated by the EU anyway](https://appleinsider.com/articles/24/04/29/apples-ipad-doesnt-yet-meet-the-dma-criteria-but-is-getting-regulated-by-the-eu-anyway?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
