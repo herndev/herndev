@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon&#39;s Dogma 2 looks drastically different with path-tracing enabled thank to a mod](https://www.pcgamer.com/games/rpg/dragons-dogma-2-looks-drastically-different-with-path-tracing-enabled-thank-to-a-mod)
- - [Escape From Tarkov dev finally caves, says people who paid $150 for the game will get access to its new mode &#39;in waves&#39;](https://www.pcgamer.com/games/fps/escape-from-tarkov-dev-finally-caves-says-people-who-paid-dollar150-will-get-access-to-its-new-mode-in-waves)
- - [You may be kicking yourself for deleting Destiny guns that are all of a sudden viable again, but one of the game&#39;s biggest YouTubers has been Marie Kondo-ing his friends&#39; arsenals on camera for years](https://www.pcgamer.com/games/fps/you-may-be-kicking-yourself-for-deleting-destiny-guns-that-are-all-of-a-sudden-viable-again-but-one-of-the-games-biggest-youtubers-has-been-marie-kondo-ing-his-friends-arsenals-on-camera-for-years)<!-- GAME:END -->
+ - [Get your friends for some horrific tomb raiding in Forewarned, which just hit 1.0](https://www.pcgamer.com/games/get-your-friends-for-some-horrific-tomb-raiding-in-forewarned-which-just-hit-10)
+ - [Dragon&#39;s Dogma 2 looks drastically different with path-tracing enabled thanks to a mod](https://www.pcgamer.com/games/rpg/dragons-dogma-2-looks-drastically-different-with-path-tracing-enabled-thank-to-a-mod)
+ - [Escape From Tarkov dev finally caves, says people who paid $150 for the game will get access to its new mode &#39;in waves&#39;](https://www.pcgamer.com/games/fps/escape-from-tarkov-dev-finally-caves-says-people-who-paid-dollar150-will-get-access-to-its-new-mode-in-waves)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
