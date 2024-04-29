@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout took the Alien approach with the Brotherhood of Steel — and it worked](https://www.polygon.com/24141751/fallout-brotherhood-steel-power-armor-how-nolan-interview)
  - [How Escape From Tarkov wiped out years of goodwill in one catastrophic week](https://www.pcgamer.com/games/fps/how-escape-from-tarkov-wiped-out-years-of-goodwill-in-one-catastrophic-week)
- - [One Manor Lords player survived a battle so epic he decided to create a fake Wikipedia article about it](https://www.pcgamer.com/games/city-builder/one-manor-lords-player-survived-a-battle-so-epic-he-decided-to-create-a-fake-wikipedia-article-about-it)
- - [How to upgrade burgage plots in Manor Lords](https://www.pcgamer.com/games/city-builder/manor-lords-how-to-upgrade-burgage-plots)<!-- GAME:END -->
+ - [One Manor Lords player survived a battle so epic he decided to create a fake Wikipedia article about it](https://www.pcgamer.com/games/city-builder/one-manor-lords-player-survived-a-battle-so-epic-he-decided-to-create-a-fake-wikipedia-article-about-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
