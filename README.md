@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
- - ⏩ [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
+ - ⏩ [He ate them all](http://9gag.com/gag/aW4ZG4n)
+ - 👉 [This is it](http://9gag.com/gag/a87WEA6)<!-- MEMES:END -->
 
 ---
 
