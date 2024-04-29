@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are some women like this?](http://9gag.com/gag/aZZP7eX)
- - ⏩ [Take a deep breath and meet me in the comments with some memes. No propagandalf no war. Just good old dumb memes.](http://9gag.com/gag/a1mARd2)
- - 👉 [Very difficult to live on 4500$ a month](http://9gag.com/gag/a0e9NWQ)<!-- MEMES:END -->
+ - 💣 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
+ - ⏩ [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 👉 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)<!-- MEMES:END -->
 
 ---
 
