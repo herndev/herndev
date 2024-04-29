@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He went hardcore!](http://9gag.com/gag/a87W57O)
- - ⏩ [Damn it!](http://9gag.com/gag/a7o53qz)
- - 👉 [Heroes still exist](http://9gag.com/gag/agmygmg)<!-- MEMES:END -->
+ - 💣 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
+ - ⏩ [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
 
 ---
 
