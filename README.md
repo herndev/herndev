@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
- - ⏩ [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
- - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
+ - 💣 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
+ - ⏩ [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
 
 ---
 
