@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout took the Alien approach with the Brotherhood of Steel — and it worked](https://www.polygon.com/24141751/fallout-brotherhood-steel-power-armor-how-nolan-interview)
- - [How Escape From Tarkov wiped out years of goodwill in one catastrophic week](https://www.pcgamer.com/games/fps/how-escape-from-tarkov-wiped-out-years-of-goodwill-in-one-catastrophic-week)
- - [One Manor Lords player survived a battle so epic he decided to create a fake Wikipedia article about it](https://www.pcgamer.com/games/city-builder/one-manor-lords-player-survived-a-battle-so-epic-he-decided-to-create-a-fake-wikipedia-article-about-it)<!-- GAME:END -->
+ - [Someone Created A Fallout-Inspired Game In Excel That You Can Play At Work](https://kotaku.com/fallout-game-excel-dynamic-pear-1851442166)
+ - [Fallout 4&#39;s most popular mods are now ones that remove Bethesda&#39;s disastrous &#39;next gen&#39; update](https://www.pcgamer.com/games/rpg/fallout-4s-most-popular-mods-are-now-ones-that-remove-bethesdas-disastrous-next-gen-update)
+ - [Early benchmark suggests Intel&#39;s Battlemage GPU in Lunar Lake has lots of low-power promise](https://www.pcgamer.com/hardware/processors/early-benchmark-suggests-intels-battlemage-gpu-in-lunar-lake-has-lots-of-low-power-promise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
