@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Physical version is uncensored if you block the update.](http://9gag.com/gag/aLnKpPM)
- - ⏩ [He went hardcore!](http://9gag.com/gag/a87W57O)
- - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
+ - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - ⏩ [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
+ - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
 
 ---
 
