@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get your friends for some horrific tomb raiding in Forewarned, which just hit 1.0](https://www.pcgamer.com/games/get-your-friends-for-some-horrific-tomb-raiding-in-forewarned-which-just-hit-10)
- - [Dragon&#39;s Dogma 2 looks drastically different with path-tracing enabled thanks to a mod](https://www.pcgamer.com/games/rpg/dragons-dogma-2-looks-drastically-different-with-path-tracing-enabled-thank-to-a-mod)
- - [Escape From Tarkov dev finally caves, says people who paid $150 for the game will get access to its new mode &#39;in waves&#39;](https://www.pcgamer.com/games/fps/escape-from-tarkov-dev-finally-caves-says-people-who-paid-dollar150-will-get-access-to-its-new-mode-in-waves)<!-- GAME:END -->
+ - [Check out Oddsparks, which is something like Pikmin by way of Factorio](https://www.pcgamer.com/games/check-out-oddsparks-which-is-something-like-pikmin-by-way-of-factorio)
+ - [Counter-Strike 2 adds a lefty mode](https://www.pcgamer.com/games/fps/counter-strike-2-adds-a-lefty-mode)
+ - [Five new Steam games you probably missed &lpar;April 29, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-29-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
