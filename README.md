@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Most ambitious&#39; Vampire Survivors update yet features &#39;immersive door opening action&#39; and &#39;world premiere train mechanics&#39;](https://www.pcgamer.com/games/roguelike/vampire-survivors-1.10-patch-notes)
- - [Manor Lords players delighted to discover a villager with an NSFW name, but the developer says it&#39;s historically accurate](https://www.pcgamer.com/games/city-builder/manor-lords-players-delighted-to-discover-a-villager-with-an-nsfw-name-but-the-developer-says-its-historically-accurate)
- - [Palworld is getting a frog with a stick &lpar;and 3 other new Pals&rpar;](https://www.polygon.com/24144645/palworld-reveal-four-new-pals-pocketpair)<!-- GAME:END -->
+ - [How to make ale in Manor Lords](https://www.polygon.com/manor-lords-guides/24144316/ale-tavern-barley-malt-malthouse)
+ - [&#39;Cozy game with consequences&#39; Echoes of the Plum Grove is constantly threatening me with death, taxes, and mean neighbors](https://www.pcgamer.com/games/life-sim/cozy-game-with-consequences-echoes-of-the-plum-grove-is-constantly-threatening-me-with-death-taxes-and-mean-neighbors)
+ - [New Fan-Made Set Lets You Play Tetris With Lego Bricks](https://kotaku.com/tetris-solid-lego-ideas-set-fan-made-video-game-retro-1851443850)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
