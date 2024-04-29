@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NIST launches a new program to assess generative AI technologies, with plans to release benchmarks, help create &quot;content authenticity&quot; detection tech, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p25#a240429p25)
- - [Apple starts replacing titanium Apple Cards from original 2019 batch](https://appleinsider.com/articles/24/04/29/apple-starts-replacing-titanium-apple-cards-from-original-2019-batch?utm_medium=rss)
- - [Tesla Cybertruck finally gets more off-road controls](https://www.theverge.com/2024/4/29/24144578/tesla-cybertruck-off-road-mode-app-software-update-cybertent)<!-- TECH:END -->
+ - [Maybe go look at Google’s AR animals before they enter the grave](https://www.theverge.com/2024/4/29/24144735/google-ar-search-3d-objects-missing)
+ - [RISC-V support in Android just got a big setback](https://www.androidauthority.com/android-drop-risc-v-kernel-3438330/)
+ - [Sources describe Techstars under CEO M&amp;auml;elle Gavet, facing departures of senior execs and corporate sponsors at times and, last year, a $7.2M loss on operations &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240429/p26#a240429p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
