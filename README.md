@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Created A Fallout-Inspired Game In Excel That You Can Play At Work](https://kotaku.com/fallout-game-excel-dynamic-pear-1851442166)
- - [Fallout 4&#39;s most popular mods are now ones that remove Bethesda&#39;s disastrous &#39;next gen&#39; update](https://www.pcgamer.com/games/rpg/fallout-4s-most-popular-mods-are-now-ones-that-remove-bethesdas-disastrous-next-gen-update)
- - [Early benchmark suggests Intel&#39;s Battlemage GPU in Lunar Lake has lots of low-power promise](https://www.pcgamer.com/hardware/processors/early-benchmark-suggests-intels-battlemage-gpu-in-lunar-lake-has-lots-of-low-power-promise)<!-- GAME:END -->
+ - [Manor Lords dev concedes that archers aren&#39;t strong enough but promises changes: &#39;This will surely take a while to get right&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-dev-concedes-that-archers-arent-strong-enough-but-promises-changes-this-will-surely-take-a-while-to-get-right)
+ - [Final Fantasy 16: The Best Ways To Farm AP And EXP Fast](https://kotaku.com/ff16-farm-ap-exp-fast-grind-level-trophy-masterclass-1851442373)
+ - [Suffering so you don&#39;t have to, this streamer has doubled up on haptic suits to feel the real pain of Skyrim VR](https://www.pcgamer.com/hardware/vr-hardware/suffering-so-you-dont-have-to-this-streamer-has-doubled-up-on-haptic-suits-to-feel-the-real-pain-of-skyrim-vr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
