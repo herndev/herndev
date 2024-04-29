@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s first expansion, Shattered Space, will be out this fall](https://www.pcgamer.com/games/rpg/starfields-first-expansion-shattered-space-will-be-out-this-fall)
- - [Bethesda beefing it with a calamitous &#39;next-gen&#39; Fallout 4 update just as everyone&#39;s falling in love with Fallout again is the most Bethesda thing imaginable](https://www.pcgamer.com/games/rpg/bethesda-beefing-it-with-a-calamitous-next-gen-fallout-4-update-just-as-everyones-falling-in-love-with-fallout-again-is-the-most-bethesda-thing-imaginable)
- - [Todd Howard On Fallout 76 Crossplay And Cross-Progression](https://kotaku.com/fallout-76-cross-play-save-progression-todd-howard-pc-1851444203)<!-- GAME:END -->
+ - [Netflix’s erotic thriller Miller’s Girl is a goofy mess — and a solid Jenna Ortega showcase](https://www.polygon.com/reviews/24052188/jenna-ortega-millers-girl-martin-freeman-review)
+ - [On the heels of Tarkov&#39;s worst week ever, a new rival extraction shooter is looking to woo its disgruntled audience](https://www.pcgamer.com/games/fps/on-the-heels-of-tarkovs-worst-week-ever-a-new-rival-extraction-shooter-is-looking-to-woo-its-disgruntled-audience)
+ - [Manor Lords shatters Steam city builder record with over 170,000 concurrent players](https://www.pcgamer.com/games/city-builder/manor-lords-shatters-steam-city-builder-record-with-over-170000-concurrent-players)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
