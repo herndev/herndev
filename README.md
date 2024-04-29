@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - ⏩ [Damn it!](http://9gag.com/gag/a7o53qz)
- - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
+ - 💣 [Where is my extra sauce ?](http://9gag.com/gag/adBNLbD)
+ - ⏩ [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
+ - 👉 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)<!-- MEMES:END -->
 
 ---
 
