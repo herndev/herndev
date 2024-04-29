@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI rolls out an optional feature called Memory, allowing ChatGPT Plus users to tell ChatGPT things they want the chatbot to remember across chats &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240429/p22#a240429p22)
- - [The Best Plants for Low Light, Low Maintenance and Air Purification     - CNET](https://www.cnet.com/how-to/these-are-the-best-plants-for-low-light-low-maintenance-and-air-purification/#ftag=CAD590a51e)
- - [Peacock is getting a $2 price increase](https://www.theverge.com/2024/4/29/24144507/peacock-premium-price-increase)<!-- TECH:END -->
+ - [Elon Musk Can&#39;t Solve Tesla’s China Crisis With His Desperate Asia Visit](https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/)
+ - [iPad at war: How the iPad is crucial to the Ukraine war effort](https://appleinsider.com/articles/24/04/29/ipad-at-war-how-the-ipad-is-crucial-to-the-ukraine-war-effort?utm_medium=rss)
+ - [Android 15 could let your Pixel Watch control your phone’s media output](https://www.androidauthority.com/android-15-change-media-output-smartwatch-3438306/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
