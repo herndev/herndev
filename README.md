@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock is getting a $2 price increase](https://www.theverge.com/2024/4/29/24144507/peacock-premium-price-increase)
- - [New iPad Pro models will get the best OLED tablet display ever made](https://appleinsider.com/articles/24/04/29/new-ipad-pro-models-will-get-the-best-oled-tablet-display-ever-made?utm_medium=rss)
- - [Meta had its biggest lobbying quarter ever](https://www.theverge.com/2024/4/29/24144333/meta-record-lobbying-q1-2024-us-government-big-tech)<!-- TECH:END -->
+ - [OpenAI rolls out an optional feature called Memory, allowing ChatGPT Plus users to tell ChatGPT things they want the chatbot to remember across chats &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240429/p22#a240429p22)
+ - [The Best Plants for Low Light, Low Maintenance and Air Purification     - CNET](https://www.cnet.com/how-to/these-are-the-best-plants-for-low-light-low-maintenance-and-air-purification/#ftag=CAD590a51e)
+ - [Peacock is getting a $2 price increase](https://www.theverge.com/2024/4/29/24144507/peacock-premium-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
