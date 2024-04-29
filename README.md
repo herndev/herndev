@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Walmart Launches Roblox Store, Offering New Worst Way To Buy Stuff Online](https://kotaku.com/walmart-roblox-world-virtual-irl-store-real-items-1851442901)
- - [Sounds like the Switch 2 has Joy-Cons that attach magnetically](https://www.polygon.com/24144429/switch-2-magnetic-joy-cons-backward-compatible)
- - [The tech I&#39;m most psyched to see this year is anything but traditional PC silicon, and certainly isn&#39;t x86](https://www.pcgamer.com/hardware/processors/the-tech-im-most-psyched-to-see-this-year-is-anything-but-traditional-pc-silicon-and-certainly-isnt-x86)<!-- GAME:END -->
+ - [IGN x ID@Xbox Digital Showcase – See Everything We Showed in Our Second Edition](https://news.xbox.com/en-us/2024/04/29/ign-x-idxbox-digital-showcase-recap-2024/)
+ - [&#39;No Rest for the Wicked is like our Lord of the Rings,&#39; Moon Studios boss says: &#39;We won&#39;t be making Ori 3 anytime soon&#39;](https://www.pcgamer.com/games/action/no-rest-for-the-wicked-is-like-our-lord-of-the-rings-moon-studios-boss-says-we-wont-be-making-ori-3-anytime-soon)
+ - [Google picks the one fight it will never win—with Sonic fans](https://www.pcgamer.com/games/action/google-picks-the-one-fight-it-will-never-winwith-sonic-fans)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
