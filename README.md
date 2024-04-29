@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That look](http://9gag.com/gag/aqymnYM)
- - ⏩ [He went hardcore!](http://9gag.com/gag/a87W57O)
- - 👉 [This is it](http://9gag.com/gag/a87WEA6)<!-- MEMES:END -->
+ - 💣 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - ⏩ [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
 
 ---
 
