@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where is my extra sauce ?](http://9gag.com/gag/adBNLbD)
- - ⏩ [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
- - 👉 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)<!-- MEMES:END -->
+ - 💣 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
+ - ⏩ [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
+ - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
 
 ---
 
