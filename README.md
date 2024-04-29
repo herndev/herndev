@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
- - ⏩ [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 👉 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)<!-- MEMES:END -->
+ - 💣 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
+ - ⏩ [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 👉 [When you get cancelled on](http://9gag.com/gag/aByK2eN)<!-- MEMES:END -->
 
 ---
 
