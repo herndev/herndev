@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)
- - ⏩ [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
+ - 💣 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
+ - ⏩ [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
+ - 👉 [Shortcut to World 1 - 5 is blocked tho](http://9gag.com/gag/aQzq3xd)<!-- MEMES:END -->
 
 ---
 
