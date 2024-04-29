@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make ale in Manor Lords](https://www.polygon.com/manor-lords-guides/24144316/ale-tavern-barley-malt-malthouse)
- - [&#39;Cozy game with consequences&#39; Echoes of the Plum Grove is constantly threatening me with death, taxes, and mean neighbors](https://www.pcgamer.com/games/life-sim/cozy-game-with-consequences-echoes-of-the-plum-grove-is-constantly-threatening-me-with-death-taxes-and-mean-neighbors)
- - [New Fan-Made Set Lets You Play Tetris With Lego Bricks](https://kotaku.com/tetris-solid-lego-ideas-set-fan-made-video-game-retro-1851443850)<!-- GAME:END -->
+ - [Starfield&#39;s first expansion, Shattered Space, will be out this fall](https://www.pcgamer.com/games/rpg/starfields-first-expansion-shattered-space-will-be-out-this-fall)
+ - [Bethesda beefing it with a calamitous &#39;next-gen&#39; Fallout 4 update just as everyone&#39;s falling in love with Fallout again is the most Bethesda thing imaginable](https://www.pcgamer.com/games/rpg/bethesda-beefing-it-with-a-calamitous-next-gen-fallout-4-update-just-as-everyones-falling-in-love-with-fallout-again-is-the-most-bethesda-thing-imaginable)
+ - [Todd Howard On Fallout 76 Crossplay And Cross-Progression](https://kotaku.com/fallout-76-cross-play-save-progression-todd-howard-pc-1851444203)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
