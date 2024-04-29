@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - ⏩ [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
+ - 💣 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - ⏩ [Give you a shot](http://9gag.com/gag/aLnK0zz)
+ - 👉 [Clickbait](http://9gag.com/gag/aXPboGd)<!-- MEMES:END -->
 
 ---
 
