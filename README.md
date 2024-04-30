@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deliver Us Mars studio lays off all staff after funding efforts fall through](https://www.pcgamer.com/gaming-industry/deliver-us-mars-studio-lays-off-all-staff-after-funding-efforts-fall-through)
- - [Dave &amp; Buster&#39;s Will Soon Let You Place Bets On Arcade Games](https://kotaku.com/dave-and-busters-gambling-bet-arcade-games-real-money-1851446421)
- - [Five Years Ago, The First Sonic Movie Trailer Broke The Internet](https://kotaku.com/sonic-movie-first-trailer-ugly-design-delay-redesign-1851446390)<!-- GAME:END -->
+ - [Help Rogue AI Rebuild Humankind in Humanity, with Xbox Game Pass May 30](https://news.xbox.com/en-us/2024/04/30/humanity-with-xbox-game-pass-may-30/)
+ - [Beautiful upcoming Sims competitor Inzoi reveals tons of weird features like sleepwalking, custom crime rates, and relationship hard mode](https://www.pcgamer.com/games/life-sim/beautiful-upcoming-sims-competitor-inzoi-reveals-tons-of-weird-features-like-sleepwalking-custom-crime-rates-and-relationship-hard-mode)
+ - [Stellar Blade&#39;s &#39;Secret Request&#39; Side Quest, Explained](https://kotaku.com/stellar-blade-ps5-game-secret-request-side-mission-1851446799)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
