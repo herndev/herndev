@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate May the 4th with These Galactic Star Wars Events on Xbox](https://news.xbox.com/en-us/2024/04/30/celebrate-may-the-4th-2024/)
- - [Ranking Fortnite&#39;s Lobby Tracks From Worst To Best](https://kotaku.com/fortnite-lobby-music-video-song-epic-games-lyrics-1851443904)
- - [Roblox and Walmart are now selling real-world items in-game to anyone over the age of 13: &#39;It&#39;s very safe&#39;](https://www.pcgamer.com/software/platforms/roblox-and-walmart-are-now-selling-real-world-items-in-game-to-anyone-over-the-age-of-13-its-very-safe)<!-- GAME:END -->
+ - [DIablo IV: Galvanize Your Legend in Season 4 – Loot Reborn](https://news.blizzard.com/diablo4/24077223/galvanize-your-legend-in-season-4-loot-reborn#new_tab)
+ - [Manor Lords dev has &#39;grand plans&#39; for castle siege warfare but still thinks non-combat is &#39;a viable way to play&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-dev-has-grand-plans-for-castle-siege-warfare-but-still-thinks-non-combat-is-a-viable-way-to-play)
+ - [Todd Howard is a good boy after all—warned his mum that the Fallout show&#39;s full of &#39;sex, violence, and bad words&#39;](https://www.pcgamer.com/hardware/streaming/todd-howard-is-a-good-boy-after-allwarned-his-mum-that-the-fallout-shows-full-of-sex-violence-and-bad-words)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
