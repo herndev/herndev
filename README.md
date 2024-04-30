@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
- - ⏩ [Arrest Me](http://9gag.com/gag/aQzqXye)
- - 👉 [Title](http://9gag.com/gag/aXPbPjg)<!-- MEMES:END -->
+ - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - ⏩ [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 👉 [Clickbait](http://9gag.com/gag/aXPboGd)<!-- MEMES:END -->
 
 ---
 
