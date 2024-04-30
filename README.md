@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - ⏩ [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 👉 [Clickbait](http://9gag.com/gag/aXPboGd)<!-- MEMES:END -->
+ - 💣 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - ⏩ [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 👉 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
 
 ---
 
