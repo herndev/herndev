@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always work](http://9gag.com/gag/aAyYyng)
- - ⏩ [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
+ - 💣 [Crispy spicy beef noodles](http://9gag.com/gag/aGy9EG5)
+ - ⏩ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 👉 [Respect](http://9gag.com/gag/a5Qd1YO)<!-- MEMES:END -->
 
 ---
 
