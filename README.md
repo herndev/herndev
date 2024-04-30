@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Help Rogue AI Rebuild Humankind in Humanity, with Xbox Game Pass May 30](https://news.xbox.com/en-us/2024/04/30/humanity-with-xbox-game-pass-may-30/)
- - [Beautiful upcoming Sims competitor Inzoi reveals tons of weird features like sleepwalking, custom crime rates, and relationship hard mode](https://www.pcgamer.com/games/life-sim/beautiful-upcoming-sims-competitor-inzoi-reveals-tons-of-weird-features-like-sleepwalking-custom-crime-rates-and-relationship-hard-mode)
- - [Stellar Blade&#39;s &#39;Secret Request&#39; Side Quest, Explained](https://kotaku.com/stellar-blade-ps5-game-secret-request-side-mission-1851446799)<!-- GAME:END -->
+ - [Front Mission 2: Remake is Available Now on Xbox](https://news.xbox.com/en-us/2024/04/30/front-mission-2-remake-is-available-now-on-xbox/)
+ - [Fallout 76’s Great Community Makes It The Next Logical Step For Fans Of The Show](https://kotaku.com/fallout-76-best-community-amazon-show-1851447060)
+ - [Halo Infinite’s Operation: Banished Honor Is Live! Dive Into 20 Tiers of Customization Rewards and Spartan Points](https://www.halowaypoint.com/news/banished-honor-operation-launch#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
