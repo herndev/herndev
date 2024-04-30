@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - ⏩ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 👉 [Gazans:`we need more humanitarian aid to eat!` US: sending humanitarian aid. Gazans: ...](http://9gag.com/gag/adBNVqM)<!-- MEMES:END -->
+ - 💣 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
+ - ⏩ [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
+ - 👉 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
 
 ---
 
