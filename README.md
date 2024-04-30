@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is building a fart button into Android](https://www.theverge.com/2024/4/30/24145714/google-phone-android-fart-button)
- - [Apple enhances USB-C Apple Pencil with new firmware update](https://appleinsider.com/articles/24/04/30/apple-enhances-usb-c-apple-pencil-with-new-firmware-update?utm_medium=rss)
- - [New York Daily News, Chicago Tribune, and others sue OpenAI and Microsoft](https://www.theverge.com/2024/4/30/24145603/ai-openai-microsoft-new-york-daily-news-sue-copyright)<!-- TECH:END -->
+ - [Turns out the Rabbit R1 was just an Android app all along](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
+ - [IBM wins a court decision overturning $1.6B in damages it was ordered to pay BMC in 2022 for swapping in its own software while servicing a mutual client, AT&amp;T &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/240430/p43#a240430p43)
+ - [iOS 17.5 beta lets you keep Find My on during iPhone repairs](https://www.theverge.com/2024/4/30/24145803/apple-iphone-repair-state-ios-17-5-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
