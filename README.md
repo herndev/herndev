@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Multiple US House aides say ByteDance&#39;s video editing app CapCut could also be subject to the same divest-or-ban requirement as TikTok &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240429/p30#a240429p30)
- - [Samsung Q1: revenue up 12.81% YoY to ~$52.3B, vs. ~$51.6B est., and operating profit up 932.8% YoY to ~$4.8B, vs. ~$4.3B est., as memory chip prices rebounded &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240429/p29#a240429p29)
- - [NBCUniversal plans to raise Peacock Premium with ads by $2 to $7.99/month and Premium Plus by $2 to $13.99/month starting July 18, its second hike in two years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240429/p28#a240429p28)<!-- TECH:END -->
+ - [Blaize, which designs AI chips for edge devices and data centers, raised $106M; the company announced in December 2023 plans to go public via a SPAC merger &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240429/p31#a240429p31)
+ - [Best Pillows for Back Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
+ - [Multiple US House aides say ByteDance&#39;s video editing app CapCut could also be subject to the same divest-or-ban requirement as TikTok &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240429/p30#a240429p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
