@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
- - ⏩ [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
- - 👉 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)<!-- MEMES:END -->
+ - 💣 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - ⏩ [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - 👉 [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)<!-- MEMES:END -->
 
 ---
 
