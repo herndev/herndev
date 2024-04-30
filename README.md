@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla layoffs hit Supercharger team just as it’s poised to take over EV charging](https://www.theverge.com/2024/4/30/24145621/tesla-layoff-supercharger-ev-charging-nacs-elon-musk)
- - [Binance founder’s sentencing hearing](https://www.theverge.com/2024/4/30/24144807/binance-founders-sentencing-hearing-liveblog)
- - [Apple&#39;s Q2 2024 earnings results may have some drama -- what to expect](https://appleinsider.com/articles/24/04/30/apples-q2-2024-earnings-results-may-have-some-drama----what-to-expect?utm_medium=rss)<!-- TECH:END -->
+ - [A screenshot seems to show TikTok circumventing Apple&#39;s App Store fees by showing some users a link to a site for buying digital coins, instead of using IAPs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240430/p41#a240430p41)
+ - [WhatsApp on iOS will soon show your contacts if you’ve been online recently](https://www.androidauthority.com/whatsapp-ios-recently-online-3438794/)
+ - [Amazon reports Q1 ad revenue up 24% YoY to $11.8B, vs. $11.7B est., driven by the growth of its Stores and Prime Video businesses &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240430/p40#a240430p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
