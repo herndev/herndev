@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone users try telling their bosses the alarm didn&#39;t go off](https://appleinsider.com/articles/24/04/30/iphone-users-try-telling-their-bosses-the-alarm-didnt-go-off?utm_medium=rss)
- - [Amazon makes its AI assistant Amazon Q generally available and adds an &quot;app creator&quot; to let employees build generative AI-powered apps based on company data &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240430/p22#a240430p22)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
+ - [iOS 18 could supercharge Safari with more than just Apple’s AI features](https://www.androidauthority.com/ios-18-safari-ai-features-leak-3438674/)
+ - [Sources: Google has agreed to pay News Corp $5M to $6M annually to develop new AI-related content and products, as part of the Google News Initiative &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240430/p25#a240430p25)
+ - [Amazon crushes it with $179 AirPods Pro 2, $299 Apple Watch Series 9 deals](https://appleinsider.com/articles/24/04/30/amazon-crushes-it-with-179-airpods-pro-2-299-apple-watch-series-9-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
