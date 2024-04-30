@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahead of CZ&#39;s sentencing on April 30, a look at the contrast between CZ/Binance and SBF/FTX, as Binance claims more than 40M new users in 2023, up 30% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p3#a240430p3)
- - [How to clear the cache in any browser on any platform](https://www.androidauthority.com/how-to-clear-cache-3071919/)
- - [Microsoft announces plans to invest $1.7B in cloud and AI infrastructure in Indonesia over four years and train 840,000 people with AI skills in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p2#a240430p2)<!-- TECH:END -->
+ - [Microsoft OneDrive finally adds a feature Google Drive has had for years](https://www.androidauthority.com/microsoft-onedrive-offline-mode-3438437/)
+ - [Samsung is betting the future of its smartphone sales on Galaxy AI](https://www.androidauthority.com/samsung-galaxy-ai-investment-3438427/)
+ - [Ahead of CZ&#39;s sentencing on April 30, a look at the contrast between CZ/Binance and SBF/FTX, as Binance claims more than 40M new users in 2023, up 30% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p3#a240430p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
