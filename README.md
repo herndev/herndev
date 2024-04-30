@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - ⏩ [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - 👉 [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)<!-- MEMES:END -->
+ - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - ⏩ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
 
 ---
 
