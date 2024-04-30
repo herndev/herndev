@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just use your own gun](http://9gag.com/gag/aVvOwOw)
- - ⏩ [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 👉 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)<!-- MEMES:END -->
+ - 💣 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - ⏩ [Ha-ha!](http://9gag.com/gag/aYQb7X2)
+ - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
 
 ---
 
