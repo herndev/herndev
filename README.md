@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
- - ⏩ [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
- - 👉 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
+ - 💣 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - ⏩ [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
+ - 👉 [Always work](http://9gag.com/gag/aAyYyng)<!-- MEMES:END -->
 
 ---
 
