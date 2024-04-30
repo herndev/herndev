@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ahead of CZ&#39;s sentencing on April 30, a look at the contrast between CZ/Binance and SBF/FTX, as Binance claims more than 40M new users in 2023, up 30% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p3#a240430p3)
  - [How to clear the cache in any browser on any platform](https://www.androidauthority.com/how-to-clear-cache-3071919/)
- - [Microsoft announces plans to invest $1.7B in cloud and AI infrastructure in Indonesia over four years and train 840,000 people with AI skills in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p2#a240430p2)
- - [Best Keto Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft announces plans to invest $1.7B in cloud and AI infrastructure in Indonesia over four years and train 840,000 people with AI skills in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p2#a240430p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
