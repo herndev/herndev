@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like fine wine](http://9gag.com/gag/aZZPDdV)
- - ⏩ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
+ - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - ⏩ [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
+ - 👉 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)<!-- MEMES:END -->
 
 ---
 
