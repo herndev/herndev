@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maybe go look at Google’s AR animals before they enter the grave](https://www.theverge.com/2024/4/29/24144735/google-ar-search-3d-objects-missing)
- - [RISC-V support in Android just got a big setback](https://www.androidauthority.com/android-drop-risc-v-kernel-3438330/)
- - [Sources describe Techstars under CEO M&amp;auml;elle Gavet, facing departures of senior execs and corporate sponsors at times and, last year, a $7.2M loss on operations &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240429/p26#a240429p26)<!-- TECH:END -->
+ - [NBCUniversal plans to raise Peacock Premium with ads by $2 to $7.99/month and Premium Plus by $2 to $13.99/month starting July 18, its second hike in two years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240429/p28#a240429p28)
+ - [Score a One-Year Sam&#39;s Club Membership for an Unbelievable $14 Right Now     - CNET](https://www.cnet.com/deals/score-one-year-sams-club-membership-right-now/#ftag=CAD590a51e)
+ - [You Have Until April 30 to Grab Microsoft Office for Windows or Mac for Just $30     - CNET](https://www.cnet.com/deals/you-have-until-april-30-to-grab-microsoft-office-for-windows-or-mac-for-just-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
