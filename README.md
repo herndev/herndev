@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Set Sail With Sea of Thieves Season 12](https://www.seaofthieves.com/news/season-12-launch#new_tab)
- - [Polygon’s favorite cozy gaming accessories for spring](https://www.polygon.com/24137530/best-cozy-gaming-accessories)
- - [PSA: Empty your rucksack before you play Gray Zone Warfare for the first time](https://www.pcgamer.com/games/fps/psa-empty-your-rucksack-before-you-play-gray-zone-warfare-for-the-first-time)<!-- GAME:END -->
+ - [Celebrate May the 4th with These Galactic Star Wars Events on Xbox](https://news.xbox.com/en-us/2024/04/30/celebrate-may-the-4th-2024/)
+ - [Ranking Fortnite&#39;s Lobby Tracks From Worst To Best](https://kotaku.com/fortnite-lobby-music-video-song-epic-games-lyrics-1851443904)
+ - [Roblox and Walmart are now selling real-world items in-game to anyone over the age of 13: &#39;It&#39;s very safe&#39;](https://www.pcgamer.com/software/platforms/roblox-and-walmart-are-now-selling-real-world-items-in-game-to-anyone-over-the-age-of-13-its-very-safe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
