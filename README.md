@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - ⏩ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
+ - 💣 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
+ - ⏩ [Title](http://9gag.com/gag/aXPbPjg)
+ - 👉 [Like fine wine](http://9gag.com/gag/aZZPDdV)<!-- MEMES:END -->
 
 ---
 
