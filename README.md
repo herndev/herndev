@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Funko Fusion Trailer Cramming Even More Franchises Into This Nightmare](https://kotaku.com/funko-fusion-trailer-mummy-nope-jurassic-release-date-1851447102)
- - [Fallout 76&#39;s latest update nerfs one of its most powerful weapons, but don&#39;t worry, it buffs it too](https://www.pcgamer.com/games/mmo/fallout-76s-latest-update-nerfs-one-of-its-most-powerful-weapons-but-dont-worry-it-buffs-it-too)
- - [Ex-Lego game devs formed a new studio to explore a completely different genre: Funko Pops](https://www.pcgamer.com/games/action/funko-fusion-release-date)<!-- GAME:END -->
+ - [Sam Raimi’s Spider-Man trilogy has the strongest moral arc in superhero movies](https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained-theaters)
+ - [&#39;New Vegas is a very, very important game to us,&#39; says mildly exasperated Todd Howard, who will never stop getting grilled about New Vegas](https://www.pcgamer.com/games/rpg/fallout/todd-howard-new-vegas-obsidian-show)
+ - [Where to find Archie in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
