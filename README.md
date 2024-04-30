@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kobo Libra Colour Review: A Color E Ink Screen](https://www.wired.com/review/kobo-libra-colour/)
- - [You shouldn’t try this Pixel 8 Pro brushed aluminum mod at home](https://www.androidauthority.com/google-pixel-8-pro-scotch-brite-mod-3438612/)
- - [Bumble redesigns its app and adds Opening Moves, to let women ask a question men can answer, a major shift that ends the requirement that women message first &lpar;Valeriya Safronova/New York Times&rpar;](http://www.techmeme.com/240430/p16#a240430p16)<!-- TECH:END -->
+ - [New Beats Solo Buds offers budget-friendly audio in a tiny case](https://appleinsider.com/articles/24/04/30/new-beats-solo-buds-offers-budget-friendly-audio-in-a-tiny-case?utm_medium=rss)
+ - [Beats announces Solo 4 headphones and $79.99 Solo Buds](https://www.theverge.com/2024/4/30/24145198/beats-solo-4-headphones-buds)
+ - [SteelSeries’ improved Arctis Nova Pro Wireless headset is also great in white](https://www.theverge.com/2024/4/30/24145132/steelseries-arctis-nova-pro-wireless-headset-white)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
