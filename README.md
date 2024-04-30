@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Manor Lords is at its best when &#39;players craft their own stories&#39; and don&#39;t rely on a dev-made tale, which &#39;quickly became repetitive&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-is-at-its-best-when-players-craft-their-own-stories-and-dont-rely-on-a-dev-made-tale-which-quickly-became-repetitive)
- - [Streamer lets viewers add custom voice lines to Skyrim NPCs, immediately realises their mistake: &#39;I formally apologise and regret my life choices&#39;](https://www.pcgamer.com/games/the-elder-scrolls/streamer-lets-viewers-add-custom-voice-lines-to-skyrim-npcs-immediately-realises-their-mistake-i-formally-apologise-and-regret-my-life-choices)
- - [Noctua teases &#39;something new&#39; that looks very much like the desk fan prototype it&#39;s had on show before](https://www.pcgamer.com/hardware/cooling/noctua-teases-something-new-that-looks-very-much-like-the-desk-fan-prototype-its-had-on-show-before)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Little Kitty Big City, Tomb Raider: Definitive Edition, and More](https://news.xbox.com/en-us/2024/04/30/xbox-game-pass-may-2024-wave-1/)
+ - [Helldivers 2 players decry broken ricochet changes, then realise it&#39;s probably just shrapnel from the now-deadly Eruptor](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-decry-broken-ricochet-changes-then-realise-its-probably-just-shrapnel-from-the-now-deadly-eruptor)
+ - [Manor Lords seems surprisingly stable for an early access game, and the developer says: &#39;99% crashes so far are old drivers&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-seems-surprisingly-stable-for-an-early-access-game-and-the-developer-says-99-crashes-so-far-are-old-drivers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
