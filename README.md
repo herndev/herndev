@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft OneDrive finally adds a feature Google Drive has had for years](https://www.androidauthority.com/microsoft-onedrive-offline-mode-3438437/)
- - [Samsung is betting the future of its smartphone sales on Galaxy AI](https://www.androidauthority.com/samsung-galaxy-ai-investment-3438427/)
- - [Ahead of CZ&#39;s sentencing on April 30, a look at the contrast between CZ/Binance and SBF/FTX, as Binance claims more than 40M new users in 2023, up 30% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p3#a240430p3)<!-- TECH:END -->
+ - [Erling Haaland becomes the first ‘real person’ in Clash of Clans](https://www.theverge.com/2024/4/30/24145120/erling-haaland-clash-of-clans)
+ - [Tesla&#39;s FSD is set to face tough competition in China, after at least 10 automakers and suppliers announced driver-assistance systems over the past two years &lpar;Reuters&rpar;](http://www.techmeme.com/240430/p5#a240430p5)
+ - [Tech journalism is often characterized by scandals, sensationalism, and shoddy research, and publishers are reluctant to invest in it without a clear ROI &lpar;Timothy B. Lee/Asterisk&rpar;](http://www.techmeme.com/240430/p4#a240430p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
