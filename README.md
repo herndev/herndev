@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are you doing there?! Get inside!](http://9gag.com/gag/awyrzQ4)
- - ⏩ [This is it](http://9gag.com/gag/a87WEA6)
- - 👉 [That&#39;s how you impress men](http://9gag.com/gag/aAyYGWZ)<!-- MEMES:END -->
+ - 💣 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
+ - ⏩ [Arrest Me](http://9gag.com/gag/aQzqXye)
+ - 👉 [Title](http://9gag.com/gag/aXPbPjg)<!-- MEMES:END -->
 
 ---
 
