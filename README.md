@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Front Mission 2: Remake is Available Now on Xbox](https://news.xbox.com/en-us/2024/04/30/front-mission-2-remake-is-available-now-on-xbox/)
- - [Fallout 76’s Great Community Makes It The Next Logical Step For Fans Of The Show](https://kotaku.com/fallout-76-best-community-amazon-show-1851447060)
- - [Halo Infinite’s Operation: Banished Honor Is Live! Dive Into 20 Tiers of Customization Rewards and Spartan Points](https://www.halowaypoint.com/news/banished-honor-operation-launch#new_tab)<!-- GAME:END -->
+ - [New Funko Fusion Trailer Cramming Even More Franchises Into This Nightmare](https://kotaku.com/funko-fusion-trailer-mummy-nope-jurassic-release-date-1851447102)
+ - [Fallout 76&#39;s latest update nerfs one of its most powerful weapons, but don&#39;t worry, it buffs it too](https://www.pcgamer.com/games/mmo/fallout-76s-latest-update-nerfs-one-of-its-most-powerful-weapons-but-dont-worry-it-buffs-it-too)
+ - [Ex-Lego game devs formed a new studio to explore a completely different genre: Funko Pops](https://www.pcgamer.com/games/action/funko-fusion-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
