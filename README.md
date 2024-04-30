@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
- - ⏩ [Title](http://9gag.com/gag/aXPbPjg)
- - 👉 [Like fine wine](http://9gag.com/gag/aZZPDdV)<!-- MEMES:END -->
+ - 💣 [What are you doing there?! Get inside!](http://9gag.com/gag/awyrzQ4)
+ - ⏩ [This is it](http://9gag.com/gag/a87WEA6)
+ - 👉 [That&#39;s how you impress men](http://9gag.com/gag/aAyYGWZ)<!-- MEMES:END -->
 
 ---
 
