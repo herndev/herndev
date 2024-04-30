@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is filling out its secretive European lab with poached Google AI experts](https://www.androidauthority.com/apple-poaches-google-employees-ai-3438741/)
- - [Game emulator Delta has been the top US iOS app for weeks, after Apple lifted its ban on such apps, likely due to regulatory pressure and alt stores in the EU &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/240430/p32#a240430p32)
- - [Apple headphone shootout: Beats Solo 4 vs AirPods Max](https://appleinsider.com/inside/airpods-max/vs/apple-headphone-shootout-beats-solo-4-vs-airpods-max?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla layoffs hit Supercharger team just as it’s poised to take over EV charging](https://www.theverge.com/2024/4/30/24145621/tesla-layoff-supercharger-ev-charging-nacs-elon-musk)
+ - [Binance founder’s sentencing hearing](https://www.theverge.com/2024/4/30/24144807/binance-founders-sentencing-hearing-liveblog)
+ - [Apple&#39;s Q2 2024 earnings results may have some drama -- what to expect](https://appleinsider.com/articles/24/04/30/apples-q2-2024-earnings-results-may-have-some-drama----what-to-expect?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
