@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8a US price leaked: Yay or nay?](https://www.androidauthority.com/google-pixel-8a-us-price-leaked-3438608/)
- - [PayPal reports Q1 revenue up 9% YoY to $7.7B, payment volume up 14% YoY to $404B, transaction margin dollars up 4% YoY to $3.5B, and expects 2024 profit to drop &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240430/p14#a240430p14)
- - [iPhone 16 Pro: what to expect from Apple&#39;s fall 2024 flagship phone](https://appleinsider.com/articles/24/03/19/iphone-16-pro-what-to-expect-from-apples-fall-2024-flagship-phone?utm_medium=rss)<!-- TECH:END -->
+ - [Kobo Libra Colour Review: A Color E Ink Screen](https://www.wired.com/review/kobo-libra-colour/)
+ - [You shouldn’t try this Pixel 8 Pro brushed aluminum mod at home](https://www.androidauthority.com/google-pixel-8-pro-scotch-brite-mod-3438612/)
+ - [Bumble redesigns its app and adds Opening Moves, to let women ask a question men can answer, a major shift that ends the requirement that women message first &lpar;Valeriya Safronova/New York Times&rpar;](http://www.techmeme.com/240430/p16#a240430p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
