@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Clefairy be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24144401/can-clefairy-be-shiny-cleffa-clefable)
- - [Today&#39;s Wordle answer for Tuesday, April 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-30-2024)
- - [Razer forced to pay more than $1M in refunds for its RGB &#39;surgical N95 respirators&#39; that were not N95 respirators](https://www.pcgamer.com/hardware/razer-forced-to-pay-more-than-dollar1m-in-refunds-for-its-rgb-surgical-n95-respirators-that-were-not-n95-respirators)<!-- GAME:END -->
+ - [Manor Lords is at its best when &#39;players craft their own stories&#39; and don&#39;t rely on a dev-made tale, which &#39;quickly became repetitive&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-is-at-its-best-when-players-craft-their-own-stories-and-dont-rely-on-a-dev-made-tale-which-quickly-became-repetitive)
+ - [Streamer lets viewers add custom voice lines to Skyrim NPCs, immediately realises their mistake: &#39;I formally apologise and regret my life choices&#39;](https://www.pcgamer.com/games/the-elder-scrolls/streamer-lets-viewers-add-custom-voice-lines-to-skyrim-npcs-immediately-realises-their-mistake-i-formally-apologise-and-regret-my-life-choices)
+ - [Noctua teases &#39;something new&#39; that looks very much like the desk fan prototype it&#39;s had on show before](https://www.pcgamer.com/hardware/cooling/noctua-teases-something-new-that-looks-very-much-like-the-desk-fan-prototype-its-had-on-show-before)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
