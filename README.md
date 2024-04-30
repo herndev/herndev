@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer forced to pay more than $1M in refunds for its RGB &#39;surgical N95 respirators&#39; that were not N95 respirators](https://www.pcgamer.com/hardware/razer-forced-to-pay-more-than-dollar1m-in-refunds-for-its-rgb-surgical-n95-respirators-that-were-not-n95-respirators)
- - [Vocaloid queen Hatsune Miku is coming to Magic: The Gathering](https://www.polygon.com/24144527/magic-the-gathering-secret-lair-hatsune-miku-mtg-preorder-price-fan-art)
- - [That&#39;s rad: with 65 million viewers, the Fallout show is Amazon&#39;s biggest hit since The Rings of Power](https://www.pcgamer.com/movies-tv/thats-rad-with-65-million-viewers-the-fallout-show-is-amazons-biggest-hit-since-the-rings-of-power)<!-- GAME:END -->
+ - [Can Clefairy be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24144401/can-clefairy-be-shiny-cleffa-clefable)
+ - [Today&#39;s Wordle answer for Tuesday, April 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-30-2024)
+ - [Razer forced to pay more than $1M in refunds for its RGB &#39;surgical N95 respirators&#39; that were not N95 respirators](https://www.pcgamer.com/hardware/razer-forced-to-pay-more-than-dollar1m-in-refunds-for-its-rgb-surgical-n95-respirators-that-were-not-n95-respirators)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
