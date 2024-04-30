@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Beats Solo Buds offers budget-friendly audio in a tiny case](https://appleinsider.com/articles/24/04/30/new-beats-solo-buds-offers-budget-friendly-audio-in-a-tiny-case?utm_medium=rss)
- - [Beats announces Solo 4 headphones and $79.99 Solo Buds](https://www.theverge.com/2024/4/30/24145198/beats-solo-4-headphones-buds)
- - [SteelSeries’ improved Arctis Nova Pro Wireless headset is also great in white](https://www.theverge.com/2024/4/30/24145132/steelseries-arctis-nova-pro-wireless-headset-white)<!-- TECH:END -->
+ - [iPhone users try telling their bosses the alarm didn&#39;t go off](https://appleinsider.com/articles/24/04/30/iphone-users-try-telling-their-bosses-the-alarm-didnt-go-off?utm_medium=rss)
+ - [Amazon makes its AI assistant Amazon Q generally available and adds an &quot;app creator&quot; to let employees build generative AI-powered apps based on company data &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240430/p22#a240430p22)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
