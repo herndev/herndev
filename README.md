@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - ⏩ [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
- - 👉 [Always work](http://9gag.com/gag/aAyYyng)<!-- MEMES:END -->
+ - 💣 [Always work](http://9gag.com/gag/aAyYyng)
+ - ⏩ [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 
