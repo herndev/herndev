@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The design is very human](http://9gag.com/gag/a6ZwqV2)
- - ⏩ [Y u internet](http://9gag.com/gag/an7YOEn)
- - 👉 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)<!-- MEMES:END -->
+ - 💣 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - ⏩ [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 👉 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)<!-- MEMES:END -->
 
 ---
 
