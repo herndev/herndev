@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DIablo IV: Galvanize Your Legend in Season 4 – Loot Reborn](https://news.blizzard.com/diablo4/24077223/galvanize-your-legend-in-season-4-loot-reborn#new_tab)
- - [Manor Lords dev has &#39;grand plans&#39; for castle siege warfare but still thinks non-combat is &#39;a viable way to play&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-dev-has-grand-plans-for-castle-siege-warfare-but-still-thinks-non-combat-is-a-viable-way-to-play)
- - [Todd Howard is a good boy after all—warned his mum that the Fallout show&#39;s full of &#39;sex, violence, and bad words&#39;](https://www.pcgamer.com/hardware/streaming/todd-howard-is-a-good-boy-after-allwarned-his-mum-that-the-fallout-shows-full-of-sex-violence-and-bad-words)<!-- GAME:END -->
+ - [Deliver Us Mars studio lays off all staff after funding efforts fall through](https://www.pcgamer.com/gaming-industry/deliver-us-mars-studio-lays-off-all-staff-after-funding-efforts-fall-through)
+ - [Dave &amp; Buster&#39;s Will Soon Let You Place Bets On Arcade Games](https://kotaku.com/dave-and-busters-gambling-bet-arcade-games-real-money-1851446421)
+ - [Five Years Ago, The First Sonic Movie Trailer Broke The Internet](https://kotaku.com/sonic-movie-first-trailer-ugly-design-delay-redesign-1851446390)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
