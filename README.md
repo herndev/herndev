@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei reports Q1 revenue up 37% YoY to ~$24.7B and net profit up 564% YoY to ~$2.7B, rising for the fourth consecutive quarter, buoyed by smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p11#a240430p11)
- - [Bernstein says buy Apple while stock price is low](https://appleinsider.com/articles/24/04/30/bernstein-says-buy-apple-while-stock-price-is-low?utm_medium=rss)
- - [How an empty, private AWS S3 bucket had ~100M PUT requests in a day, racking up a substantial bill, due to a popular open source tool using the same bucket name &lpar;Maciej Pocwierz&rpar;](http://www.techmeme.com/240430/p10#a240430p10)<!-- TECH:END -->
+ - [Pixel 8a US price leaked: Yay or nay?](https://www.androidauthority.com/google-pixel-8a-us-price-leaked-3438608/)
+ - [PayPal reports Q1 revenue up 9% YoY to $7.7B, payment volume up 14% YoY to $404B, transaction margin dollars up 4% YoY to $3.5B, and expects 2024 profit to drop &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240430/p14#a240430p14)
+ - [iPhone 16 Pro: what to expect from Apple&#39;s fall 2024 flagship phone](https://appleinsider.com/articles/24/03/19/iphone-16-pro-what-to-expect-from-apples-fall-2024-flagship-phone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
