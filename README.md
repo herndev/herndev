@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Little Kitty Big City, Tomb Raider: Definitive Edition, and More](https://news.xbox.com/en-us/2024/04/30/xbox-game-pass-may-2024-wave-1/)
- - [Helldivers 2 players decry broken ricochet changes, then realise it&#39;s probably just shrapnel from the now-deadly Eruptor](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-decry-broken-ricochet-changes-then-realise-its-probably-just-shrapnel-from-the-now-deadly-eruptor)
- - [Manor Lords seems surprisingly stable for an early access game, and the developer says: &#39;99% crashes so far are old drivers&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-seems-surprisingly-stable-for-an-early-access-game-and-the-developer-says-99-crashes-so-far-are-old-drivers)<!-- GAME:END -->
+ - [Xbox Games Showcase Followed by [REDACTED] Direct Airs June 9](https://news.xbox.com/en-us/2024/04/30/xbox-games-showcase-2024-redacted-direct/)
+ - [Fallout TV Show Claims 65 Million Viewers In Two Weeks](https://kotaku.com/fallout-tv-show-amazon-prime-audience-ratings-1851445138)
+ - [Destiny 2 Luna&#39;s Howl god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-luna-s-howl-god-roll)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
