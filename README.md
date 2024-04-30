@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a little peek](http://9gag.com/gag/aqymRXL)
- - ⏩ [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 👉 [Y u internet](http://9gag.com/gag/an7YOEn)<!-- MEMES:END -->
+ - 💣 [Always work](http://9gag.com/gag/aAyYyng)
+ - ⏩ [Y u internet](http://9gag.com/gag/an7YOEn)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 
