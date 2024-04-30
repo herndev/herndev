@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A screenshot seems to show TikTok circumventing Apple&#39;s App Store fees by showing some users a link to a site for buying digital coins, instead of using IAPs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240430/p41#a240430p41)
- - [WhatsApp on iOS will soon show your contacts if you’ve been online recently](https://www.androidauthority.com/whatsapp-ios-recently-online-3438794/)
- - [Amazon reports Q1 ad revenue up 24% YoY to $11.8B, vs. $11.7B est., driven by the growth of its Stores and Prime Video businesses &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240430/p40#a240430p40)<!-- TECH:END -->
+ - [Google is building a fart button into Android](https://www.theverge.com/2024/4/30/24145714/google-phone-android-fart-button)
+ - [Apple enhances USB-C Apple Pencil with new firmware update](https://appleinsider.com/articles/24/04/30/apple-enhances-usb-c-apple-pencil-with-new-firmware-update?utm_medium=rss)
+ - [New York Daily News, Chicago Tribune, and others sue OpenAI and Microsoft](https://www.theverge.com/2024/4/30/24145603/ai-openai-microsoft-new-york-daily-news-sue-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
