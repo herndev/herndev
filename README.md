@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crispy spicy beef noodles](http://9gag.com/gag/aGy9EG5)
- - ⏩ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 👉 [Respect](http://9gag.com/gag/a5Qd1YO)<!-- MEMES:END -->
+ - 💣 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - ⏩ [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
+ - 👉 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)<!-- MEMES:END -->
 
 ---
 
