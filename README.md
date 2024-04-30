@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 could supercharge Safari with more than just Apple’s AI features](https://www.androidauthority.com/ios-18-safari-ai-features-leak-3438674/)
- - [Sources: Google has agreed to pay News Corp $5M to $6M annually to develop new AI-related content and products, as part of the Google News Initiative &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240430/p25#a240430p25)
- - [Amazon crushes it with $179 AirPods Pro 2, $299 Apple Watch Series 9 deals](https://appleinsider.com/articles/24/04/30/amazon-crushes-it-with-179-airpods-pro-2-299-apple-watch-series-9-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Satellite telco SES has agreed to buy Starlink-rival Intelsat for $3.1B in cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p29#a240430p29)
+ - [Marriott quietly admits it did not encrypt certain user data impacted by a 2018 breach, after arguing in court encryption was used so lawsuits should be tossed &lpar;Evan Schuman/CSO&rpar;](http://www.techmeme.com/240430/p28#a240430p28)
+ - [Deal: Just $649 for the Pixel 8 Pro and a 12-month plan with Mint](https://www.androidauthority.com/deal-pixel-8-pro-mint-mobile-3438734/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
