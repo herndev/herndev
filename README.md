@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
- - ⏩ [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 👉 [When you get cancelled on](http://9gag.com/gag/aByK2eN)<!-- MEMES:END -->
+ - 💣 [Like fine wine](http://9gag.com/gag/aZZPDdV)
+ - ⏩ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
 
 ---
 
