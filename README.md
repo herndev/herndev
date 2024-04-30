@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to clear the cache in any browser on any platform](https://www.androidauthority.com/how-to-clear-cache-3071919/)
  - [Microsoft announces plans to invest $1.7B in cloud and AI infrastructure in Indonesia over four years and train 840,000 people with AI skills in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p2#a240430p2)
- - [Analysis: Apple hired at least 36 AI experts from Google and has created a secretive European laboratory in Zurich, to develop new AI models and products &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240430/p1#a240430p1)
- - [A profile of and interview with Rabbit CEO Jesse Lyu, on the origins of the R1, taking &quot;10 minutes to design&quot; the device, the AI gadget competition, and more &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/240429/p33#a240429p33)<!-- TECH:END -->
+ - [Best Keto Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
