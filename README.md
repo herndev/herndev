@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How long did it take you?](http://9gag.com/gag/aZZPrnp)
+ - 💣 [The design is very human](http://9gag.com/gag/a6ZwqV2)
  - ⏩ [Y u internet](http://9gag.com/gag/an7YOEn)
- - 👉 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)<!-- MEMES:END -->
+ - 👉 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)<!-- MEMES:END -->
 
 ---
 
