@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games Showcase Followed by [REDACTED] Direct Airs June 9](https://news.xbox.com/en-us/2024/04/30/xbox-games-showcase-2024-redacted-direct/)
- - [Fallout TV Show Claims 65 Million Viewers In Two Weeks](https://kotaku.com/fallout-tv-show-amazon-prime-audience-ratings-1851445138)
- - [Destiny 2 Luna&#39;s Howl god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-luna-s-howl-god-roll)<!-- GAME:END -->
+ - [Set Sail With Sea of Thieves Season 12](https://www.seaofthieves.com/news/season-12-launch#new_tab)
+ - [Polygon’s favorite cozy gaming accessories for spring](https://www.polygon.com/24137530/best-cozy-gaming-accessories)
+ - [PSA: Empty your rucksack before you play Gray Zone Warfare for the first time](https://www.pcgamer.com/games/fps/psa-empty-your-rucksack-before-you-play-gray-zone-warfare-for-the-first-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
