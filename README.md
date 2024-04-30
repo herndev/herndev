@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has poached dozens of Google AI experts for its Zurich lab](https://appleinsider.com/articles/24/04/30/apple-has-poached-dozens-of-google-ai-experts-for-its-zurich-lab?utm_medium=rss)
- - [Lithuanian second hand marketplace Vinted reports 2023 revenue up 61% YoY to &amp;euro;596.3M and a &amp;euro;17.8M net profit, up from a &amp;euro;20.4M loss in 2022 &lpar;Zosia Wanat/Sifted&rpar;](http://www.techmeme.com/240430/p6#a240430p6)
- - [Updates are a huge issue for smart gadgets, but this law might help](https://www.androidauthority.com/uk-connected-gadgets-updates-passwords-law-3438488/)<!-- TECH:END -->
+ - [Huawei reports Q1 revenue up 37% YoY to ~$24.7B and net profit up 564% YoY to ~$2.7B, rising for the fourth consecutive quarter, buoyed by smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p11#a240430p11)
+ - [Bernstein says buy Apple while stock price is low](https://appleinsider.com/articles/24/04/30/bernstein-says-buy-apple-while-stock-price-is-low?utm_medium=rss)
+ - [How an empty, private AWS S3 bucket had ~100M PUT requests in a day, racking up a substantial bill, due to a popular open source tool using the same bucket name &lpar;Maciej Pocwierz&rpar;](http://www.techmeme.com/240430/p10#a240430p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
