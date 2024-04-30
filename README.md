@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
- - ⏩ [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
+ - 💣 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - ⏩ [Clickbait](http://9gag.com/gag/aXPboGd)
  - 👉 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)<!-- MEMES:END -->
 
 ---
