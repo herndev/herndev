@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clickbait](http://9gag.com/gag/aXPboGd)
- - ⏩ [Ha-ha!](http://9gag.com/gag/aYQb7X2)
- - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
+ - 💣 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
+ - ⏩ [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
+ - 👉 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)<!-- MEMES:END -->
 
 ---
 
