@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satellite telco SES has agreed to buy Starlink-rival Intelsat for $3.1B in cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p29#a240430p29)
- - [Marriott quietly admits it did not encrypt certain user data impacted by a 2018 breach, after arguing in court encryption was used so lawsuits should be tossed &lpar;Evan Schuman/CSO&rpar;](http://www.techmeme.com/240430/p28#a240430p28)
- - [Deal: Just $649 for the Pixel 8 Pro and a 12-month plan with Mint](https://www.androidauthority.com/deal-pixel-8-pro-mint-mobile-3438734/)<!-- TECH:END -->
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [SafeBase, which helps companies automate software security reviews using AI, raised a $33M Series B led by Touring Capital, bringing its total funding to $50M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240430/p31#a240430p31)
+ - [CBP is interrogating TikTok employees](https://www.theverge.com/2024/4/30/24145489/tiktok-employees-interrogated-customs-border-protection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
