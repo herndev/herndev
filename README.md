@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - ⏩ [Clickbait](http://9gag.com/gag/aXPboGd)
- - 👉 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)<!-- MEMES:END -->
+ - 💣 [How long did it take you?](http://9gag.com/gag/aZZPrnp)
+ - ⏩ [Y u internet](http://9gag.com/gag/an7YOEn)
+ - 👉 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)<!-- MEMES:END -->
 
 ---
 
