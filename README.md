@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - ⏩ [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 👉 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
+ - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - ⏩ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 👉 [Gazans:`we need more humanitarian aid to eat!` US: sending humanitarian aid. Gazans: ...](http://9gag.com/gag/adBNVqM)<!-- MEMES:END -->
 
 ---
 
