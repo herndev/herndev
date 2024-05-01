@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
- - ⏩ [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 👉 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)<!-- MEMES:END -->
+ - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - ⏩ [Pick your side](http://9gag.com/gag/avy0WWM)
+ - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
 
 ---
 
