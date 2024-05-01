@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Legend of Zelda movie needs to be ‘grounded’ and ‘real,’ says director](https://www.polygon.com/24145926/zelda-movie-director-wes-ball-grounded-style)
- - [It&#39;s a shame Gray Zone Warfare is a performance nightmare, because it fixes so many problems I have with Escape From Tarkov](https://www.pcgamer.com/games/fps/its-a-shame-gray-zone-warfare-is-a-performance-nightmare-because-it-fixes-so-many-problems-i-have-with-escape-from-tarkov)
- - [Sam Raimi’s Spider-Man trilogy has the strongest moral arc in superhero movies](https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained-theaters)<!-- GAME:END -->
+ - [Freakishly large graphics cards and super-hot SSDs mean the fundamentals of PC design needs a big change](https://www.pcgamer.com/hardware/freakishly-large-graphics-cards-and-super-hot-ssds-mean-the-fundamentals-of-pc-design-needs-a-big-change)
+ - [Today&#39;s Wordle answer for Wednesday, May 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-May-1-2024)
+ - [Legend of Zelda movie needs to be ‘grounded’ and ‘real,’ says director](https://www.polygon.com/24145926/zelda-movie-director-wes-ball-grounded-style)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
