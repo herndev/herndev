@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Empowers Asian and Pacific Islander Communities with GameTan and NEEL](https://news.xbox.com/en-us/2024/05/01/xbox-empowers-asian-and-pacific-islander-communities-2024/)
- - [The way World of Warcraft: The War Within quest rewards work is game-changing for transmog enthusiasts](https://www.pcgamer.com/games/world-of-warcraft/the-way-world-of-warcraft-the-war-within-quest-rewards-work-is-game-changing-for-transmog-enthusiasts)
- - [Todd Howard reckons he knows why Starfield was so divisive: It was too &#39;different than you&#39;ve seen from us in past&#39;](https://www.pcgamer.com/games/rpg/todd-howard-reckons-he-knows-why-starfield-was-so-divisive-it-was-too-different-than-youve-seen-from-us-in-past)<!-- GAME:END -->
+ - [My Favorite Anime: Che Lingo’s journey from Death Note to Jujutsu Kaisen](https://www.polygon.com/anime/24144447/my-favorite-anime-che-lingo-death-note-jujutsu-kaisen)
+ - [Pokémon Go ‘Glitz and Glam’ Diancie Special Research](https://www.polygon.com/pokemon-go-guide/24146352/glitz-and-glam-diancie-special-research)
+ - [The makers of Dune 2’s viral popcorn bucket didn’t see the jokes coming](https://www.polygon.com/24144810/dune-2-popcorn-bucket-sandworm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
