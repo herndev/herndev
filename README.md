@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok seems to be dodging App Store commissions in Epic fashion](https://www.theverge.com/2024/5/1/24146142/tiktok-coins-dodge-apple-app-store-commission-epic)
- - [DOJ v. Google: Microsoft invested in OpenAI over fears of falling behind Google; Kevin Scott said he was &quot;very, very worried&quot; in a 2019 email to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/240501/p13#a240501p13)
- - [Deadly Massachusetts Apple Store crash caused by faulty AI, says defense](https://appleinsider.com/articles/24/05/01/deadly-massachusetts-apple-store-crash-caused-by-faulty-ai-says-defense?utm_medium=rss)<!-- TECH:END -->
+ - [I have some questions about what Changpeng Zhao gave to the feds](https://www.theverge.com/2024/5/1/24145736/binance-cz-changpeng-zhao-plea-agreement)
+ - [Silicon Valley is enamored with a company that pumps poop underground](https://www.theverge.com/2024/5/1/24145535/silicon-valley-climate-tech-carbon-removal-vaulted-deep-frontier)
+ - [&lpar;PRODUCT&rpar;RED is getting our hopes up for a red iPhone 15](https://appleinsider.com/articles/24/05/01/productred-is-getting-our-hopes-up-for-a-red-iphone-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
