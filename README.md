@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Archie in the Cosmodrome in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower)
- - [Mass Effect Legendary Edition, the exceptional 4K remaster of the original trilogy that we said &#39;looks great&#39; and &#39;absolutely flies on modern hardware&#39;, is now 90% off](https://www.pcgamer.com/games/mass-effect/mass-effect-legendary-edition-the-exceptional-4k-remaster-of-the-original-trilogy-that-we-said-looks-great-and-absolutely-flies-on-modern-hardware-is-now-90-off)
- - [AMD&#39;s start to 2024: Big gains in client and data center, big falls in gaming](https://www.pcgamer.com/hardware/amds-start-to-2024-big-gains-in-client-and-data-center-big-falls-in-gaming)<!-- GAME:END -->
+ - [Priest accused by cops of spending over $40,000 of church funds on Candy Crush and Pokémon Go, says it might have happened because he&#39;s not a &#39;details guy&#39;](https://www.pcgamer.com/games/priest-accused-by-cops-of-spending-over-dollar40000-of-church-funds-on-candy-crush-and-pokemon-go-says-it-might-have-happened-because-hes-not-a-details-guy)
+ - [Buckle up—Hasbro spent over $1 billion on games and has plans for &#39;the next 100 years&#39;, since Baldur&#39;s Gate 3 proved fans &#39;like a great, well-executed D&amp;D game&#39;](https://www.pcgamer.com/games/baldurs-gate/buckle-uphasbro-has-spent-over-dollar1-billion-on-games-and-has-plans-for-the-next-100-years-since-baldurs-gate-3-proved-fans-like-a-great-well-executed-dandd-game)
+ - [Every movie and show coming to Netflix in May](https://www.polygon.com/entertainment/2024/5/1/24139390/new-netflix-may-2024-movies-tv-to-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
