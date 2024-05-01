@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - ⏩ [Pick your side](http://9gag.com/gag/avy0WWM)
- - 👉 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)<!-- MEMES:END -->
+ - 💣 [Bluey says...](http://9gag.com/gag/aoyz3jx)
+ - ⏩ [Y u internet](http://9gag.com/gag/an7YOEn)
+ - 👉 [El Salvador was almost destroyed by organized gang crime. The new president Nayib Bukele declared war on them and jailed over 12,000 gang members. The second war is against corruption. All ruling peaks in the country are now to be investigated. Interesting!](http://9gag.com/gag/awyrgOr)<!-- MEMES:END -->
 
 ---
 
