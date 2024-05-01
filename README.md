@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audible tries book recommendations based on your streaming history](https://www.theverge.com/2024/5/1/24146317/audible-audiobook-recommendations-prime-video-history)
- - [The next Apple Watch Ultra may have ‘almost no’ hardware upgrades](https://www.androidauthority.com/apple-watch-ultra-no-hardware-upgrades-3438907/)
- - [Sources: US federal prosecutors are digging into internal practices at Block, discussing with an ex-employee alleged widespread and yearslong compliance lapses &lpar;Gretchen Morgenson/NBC News&rpar;](http://www.techmeme.com/240501/p27#a240501p27)<!-- TECH:END -->
+ - [Google Photos will soon allow you to back up all new folders if you want &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-automatic-back-up-3438926/)
+ - [Atlassian debuts Rovo, an AI product giving businesses contextual search, insights, and the ability to add custom agents to handle tasks and &quot;complete projects&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240501/p29#a240501p29)
+ - [Microsoft’s billion-dollar OpenAI investment was trigged by Google fears, emails reveal](https://www.theverge.com/2024/5/1/24146302/microsoft-openai-investment-google-worries-internal-emails)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
