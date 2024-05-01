@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Legend of Zelda movie needs to be ‘grounded’ and ‘real,’ says director](https://www.polygon.com/24145926/zelda-movie-director-wes-ball-grounded-style)
  - [It&#39;s a shame Gray Zone Warfare is a performance nightmare, because it fixes so many problems I have with Escape From Tarkov](https://www.pcgamer.com/games/fps/its-a-shame-gray-zone-warfare-is-a-performance-nightmare-because-it-fixes-so-many-problems-i-have-with-escape-from-tarkov)
- - [Sam Raimi’s Spider-Man trilogy has the strongest moral arc in superhero movies](https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained-theaters)
- - [&#39;New Vegas is a very, very important game to us,&#39; says mildly exasperated Todd Howard, who will never stop getting grilled about New Vegas](https://www.pcgamer.com/games/rpg/fallout/todd-howard-new-vegas-obsidian-show)<!-- GAME:END -->
+ - [Sam Raimi’s Spider-Man trilogy has the strongest moral arc in superhero movies](https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained-theaters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
