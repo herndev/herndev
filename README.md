@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coffee and PC gaming ground together in perfect harmony, in this fabulous Scandi wood-sauna-themed build](https://www.pcgamer.com/hardware/gaming-pcs/coffee-and-pc-gaming-ground-together-in-perfect-harmony-in-this-fabulous-scandi-wood-sauna-themed-build)
- - [Priest accused by cops of spending over $40,000 of church funds on Candy Crush and Pokémon Go, says it might have happened because he&#39;s not a &#39;details guy&#39;](https://www.pcgamer.com/games/priest-accused-by-cops-of-spending-over-dollar40000-of-church-funds-on-candy-crush-and-pokemon-go-says-it-might-have-happened-because-hes-not-a-details-guy)
- - [Buckle up—Hasbro spent over $1 billion on games and has plans for &#39;the next 100 years&#39;, since Baldur&#39;s Gate 3 proved fans &#39;like a great, well-executed D&amp;D game&#39;](https://www.pcgamer.com/games/baldurs-gate/buckle-uphasbro-has-spent-over-dollar1-billion-on-games-and-has-plans-for-the-next-100-years-since-baldurs-gate-3-proved-fans-like-a-great-well-executed-dandd-game)<!-- GAME:END -->
+ - [Diablo 4’s next season heralds a major reset — and it’s all in the name](https://www.polygon.com/24146174/diablo-4-season-4-loot-reborn)
+ - [Oh god, no—stalkers in Helldivers 2 are actually invisible, now](https://www.pcgamer.com/games/third-person-shooter/oh-god-nostalkers-in-helldivers-2-are-actually-invisible-now)
+ - [Coffee and PC gaming ground together in perfect harmony, in this fabulous Scandi wood-sauna-themed build](https://www.pcgamer.com/hardware/gaming-pcs/coffee-and-pc-gaming-ground-together-in-perfect-harmony-in-this-fabulous-scandi-wood-sauna-themed-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
