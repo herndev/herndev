@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Workers seek to alter the balance of power in Canadian video game industry](https://www.polygon.com/24145830/game-workers-unite-csn-union-2024)
- - [Freakishly large graphics cards and super-hot SSDs mean the fundamentals of PC design needs a big change](https://www.pcgamer.com/hardware/freakishly-large-graphics-cards-and-super-hot-ssds-mean-the-fundamentals-of-pc-design-needs-a-big-change)
- - [Today&#39;s Wordle answer for Wednesday, May 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-May-1-2024)<!-- GAME:END -->
+ - [Where to find Archie in the Cosmodrome in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower)
+ - [Mass Effect Legendary Edition, the exceptional 4K remaster of the original trilogy that we said &#39;looks great&#39; and &#39;absolutely flies on modern hardware&#39;, is now 90% off](https://www.pcgamer.com/games/mass-effect/mass-effect-legendary-edition-the-exceptional-4k-remaster-of-the-original-trilogy-that-we-said-looks-great-and-absolutely-flies-on-modern-hardware-is-now-90-off)
+ - [AMD&#39;s start to 2024: Big gains in client and data center, big falls in gaming](https://www.pcgamer.com/hardware/amds-start-to-2024-big-gains-in-client-and-data-center-big-falls-in-gaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
