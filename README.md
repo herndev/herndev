@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - ⏩ [Pick your side](http://9gag.com/gag/avy0WWM)
- - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
+ - 💣 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
+ - ⏩ [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
+ - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
 
 ---
 
