@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [El Salvador was almost destroyed by organized gang crime. The new president Nayib Bukele declared war on them and jailed over 12,000 gang members. The second war is against corruption. All ruling peaks in the country are now to be investigated. Interesting!](http://9gag.com/gag/awyrgOr)
- - ⏩ [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
- - 👉 [BBC just got nuked by community notes](http://9gag.com/gag/aW4Zp76)<!-- MEMES:END -->
+ - 💣 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
+ - ⏩ [Pick your side](http://9gag.com/gag/avy0WWM)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 
