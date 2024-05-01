@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It&#39;s a shame Gray Zone Warfare is a performance nightmare, because it fixes so many problems I have with Escape From Tarkov](https://www.pcgamer.com/games/fps/its-a-shame-gray-zone-warfare-is-a-performance-nightmare-because-it-fixes-so-many-problems-i-have-with-escape-from-tarkov)
  - [Sam Raimi’s Spider-Man trilogy has the strongest moral arc in superhero movies](https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained-theaters)
- - [&#39;New Vegas is a very, very important game to us,&#39; says mildly exasperated Todd Howard, who will never stop getting grilled about New Vegas](https://www.pcgamer.com/games/rpg/fallout/todd-howard-new-vegas-obsidian-show)
- - [Where to find Archie in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower)<!-- GAME:END -->
+ - [&#39;New Vegas is a very, very important game to us,&#39; says mildly exasperated Todd Howard, who will never stop getting grilled about New Vegas](https://www.pcgamer.com/games/rpg/fallout/todd-howard-new-vegas-obsidian-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
