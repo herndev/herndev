@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My Favorite Anime: Che Lingo’s journey from Death Note to Jujutsu Kaisen](https://www.polygon.com/anime/24144447/my-favorite-anime-che-lingo-death-note-jujutsu-kaisen)
- - [Pokémon Go ‘Glitz and Glam’ Diancie Special Research](https://www.polygon.com/pokemon-go-guide/24146352/glitz-and-glam-diancie-special-research)
- - [The makers of Dune 2’s viral popcorn bucket didn’t see the jokes coming](https://www.polygon.com/24144810/dune-2-popcorn-bucket-sandworm)<!-- GAME:END -->
+ - [I’m very scared of Helldivers 2’s new fight against the Terminid threat](https://www.polygon.com/24146443/helldivers-2-major-orders-terminid-mutation-invisible-stalkers-narrative)
+ - [Starfield’s most annoying feature just got nerfed](https://www.polygon.com/24146378/starfield-improved-maps-difficulty-options)
+ - [PlayStation Stars Campaigns and Digital Collectibles for May 2024](https://blog.playstation.com/2024/05/01/playstation-stars-campaigns-and-digital-collectibles-for-may-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
