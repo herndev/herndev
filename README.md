@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
- - ⏩ [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
+ - 💣 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
+ - ⏩ [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 👉 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)<!-- MEMES:END -->
 
 ---
 
