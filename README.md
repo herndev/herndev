@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pick your side](http://9gag.com/gag/avy0WWM)
- - ⏩ [Y u internet](http://9gag.com/gag/an7YOEn)
- - 👉 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
+ - 💣 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - ⏩ [Pick your side](http://9gag.com/gag/avy0WWM)
+ - 👉 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)<!-- MEMES:END -->
 
 ---
 
