@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4’s next season heralds a major reset — and it’s all in the name](https://www.polygon.com/24146174/diablo-4-season-4-loot-reborn)
- - [Oh god, no—stalkers in Helldivers 2 are actually invisible, now](https://www.pcgamer.com/games/third-person-shooter/oh-god-nostalkers-in-helldivers-2-are-actually-invisible-now)
- - [Coffee and PC gaming ground together in perfect harmony, in this fabulous Scandi wood-sauna-themed build](https://www.pcgamer.com/hardware/gaming-pcs/coffee-and-pc-gaming-ground-together-in-perfect-harmony-in-this-fabulous-scandi-wood-sauna-themed-build)<!-- GAME:END -->
+ - [Self-taught hardware engineer discovers that GPUs really are ridiculously complex and hard to design after all](https://www.pcgamer.com/hardware/graphics-cards/self-taught-hardware-engineer-discovers-that-gpus-really-are-ridiculously-complex-and-hard-to-design-after-all)
+ - [Fans Are Getting A New Batman: Arkham Game After All, But It&#39;s In VR](https://kotaku.com/batman-arkham-shadow-meta-quest-3-vr-release-date-1851448597)
+ - [Cyberpunk 2077: Phantom Liberty&#39;s third deadliest boss is an OSHA-violating garage, making it 86.6% as dangerous as a giant killer robo-tank](https://www.pcgamer.com/games/rpg/cyberpunk-2077-phantom-libertys-third-deadliest-boss-is-an-osha-violating-garage-making-it-866-as-deadly-as-a-giant-killer-robo-tank)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
