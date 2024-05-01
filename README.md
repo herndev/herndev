@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart discontinues its telehealth service Health Virtual Care citing &quot;escalating operating costs&quot;; Walmart acquired telehealth provider MeMD in 2021 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240501/p6#a240501p6)
- - [A backlash against data centers has triggered laws in Arizona, Georgia, and other parts of the US to restrain the rapidly growing, energy-intensive industry &lpar;Antonio Olivo/Washington Post&rpar;](http://www.techmeme.com/240501/p5#a240501p5)
- - [In tests run by executives in advertising, animation, and real estate, OpenAI&#39;s Sora generated people with more realistic facial features than Runway or Pika &lpar;Financial Times&rpar;](http://www.techmeme.com/240501/p4#a240501p4)<!-- TECH:END -->
+ - [Google Photos is preparing to give you more control over which faces you see](https://www.androidauthority.com/google-photos-memories-faces-show-less-option-3438858/)
+ - [This Galaxy Ring rival is all set to launch in the US at $299](https://www.androidauthority.com/amazfit-helio-smart-ring-us-price-availability-release-date-3438862/)
+ - [Walmart discontinues its telehealth service Health Virtual Care citing &quot;escalating operating costs&quot;; Walmart acquired telehealth provider MeMD in 2021 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240501/p6#a240501p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
