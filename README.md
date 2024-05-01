@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Really Should Play This Underrated And Unconventional RPG On Game Pass](https://kotaku.com/citizen-sleeper-rpg-game-pass-second-anniversary-1851449590)
- - [Todd Howard says Bethesda&#39;s trying to &#39;increase our output&#39; with Elder Scrolls and Fallout &#39;because we don&#39;t want to wait that long either&#39;](https://www.pcgamer.com/games/rpg/todd-howard-says-bethesdas-trying-to-increase-our-output-with-elder-scrolls-and-fallout-because-we-dont-want-to-wait-that-long-either)
- - [A Must-Play Zelda-Like Leads PS Plus’ Free Game Offerings This Month](https://kotaku.com/ps-plus-free-games-may-2024-destiny-2-tunic-ghostrunner-1851449574)<!-- GAME:END -->
+ - [How to get a Heavensward &lpar;Anima&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24146448/heavensward-anima-relic-weapon-quest-steps-aetheric-density)
+ - [Kerbal Space Program 2 developer Intercept Games may be closing as part of Take-Two&#39;s big layoff plan](https://www.pcgamer.com/games/sim/kerbal-space-program-2-developer-intercept-games-may-be-closing-as-part-of-take-twos-big-layoff-plan)
+ - [You Really Should Play This Underrated And Unconventional RPG On Game Pass](https://kotaku.com/citizen-sleeper-rpg-game-pass-second-anniversary-1851449590)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
