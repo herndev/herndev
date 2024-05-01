@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack now lets writers paywall their Chat discussion spaces and says active Chat participants are 12% more likely to retain their subscriptions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240501/p33#a240501p33)
- - [AI security bill aims to prevent safety breaches of AI models](https://www.theverge.com/2024/5/1/24146566/ai-security-bill-warner-tillis-senate-redteam-safety)
- - [T-Mobile brings Mint Mobile into the fold, here’s what it means for you](https://www.androidauthority.com/t-mobile-mint-mobile-2-3438976/)<!-- TECH:END -->
+ - [eBay reports Q1 revenue up 2% YoY to $2.56B, vs. $2.53B est., GMV up 1% to $18.6B, net income down 23% to $439M, and forecasts Q2 revenue below estimates &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240501/p36#a240501p36)
+ - [Crunchyroll is about to get a little more expensive, just like all the other streamers](https://www.theverge.com/2024/5/1/24146651/crunchyroll-price-increase-subscription-anime)
+ - [How to play Netflix’s cloud games without waiting for an invitation](https://www.theverge.com/2024/5/1/24146634/netflix-cloud-gaming-streaming-pc-windows)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
