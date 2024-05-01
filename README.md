@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay reports Q1 revenue up 2% YoY to $2.56B, vs. $2.53B est., GMV up 1% to $18.6B, net income down 23% to $439M, and forecasts Q2 revenue below estimates &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240501/p36#a240501p36)
- - [Crunchyroll is about to get a little more expensive, just like all the other streamers](https://www.theverge.com/2024/5/1/24146651/crunchyroll-price-increase-subscription-anime)
- - [How to play Netflix’s cloud games without waiting for an invitation](https://www.theverge.com/2024/5/1/24146634/netflix-cloud-gaming-streaming-pc-windows)<!-- TECH:END -->
+ - [UnitedHealth CEO admits it paid $22 million ransom to BlackCat](https://www.theverge.com/2024/5/1/24146693/unitedhealth-22-million-ransom-ransomware-hack-blackcat)
+ - [How Sidechat Fanned the Flames of University Campus Protests](https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/)
+ - [Nvidia updates its ChatRTX chatbot, formerly &quot;Chat with RTX&quot;, to add support for voice queries and three AI models: Google&#39;s Gemma, ChatGLM3, and OpenAI&#39;s CLIP &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240501/p37#a240501p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
