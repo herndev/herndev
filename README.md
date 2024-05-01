@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Self-taught hardware engineer discovers that GPUs really are ridiculously complex and hard to design after all](https://www.pcgamer.com/hardware/graphics-cards/self-taught-hardware-engineer-discovers-that-gpus-really-are-ridiculously-complex-and-hard-to-design-after-all)
- - [Fans Are Getting A New Batman: Arkham Game After All, But It&#39;s In VR](https://kotaku.com/batman-arkham-shadow-meta-quest-3-vr-release-date-1851448597)
- - [Cyberpunk 2077: Phantom Liberty&#39;s third deadliest boss is an OSHA-violating garage, making it 86.6% as dangerous as a giant killer robo-tank](https://www.pcgamer.com/games/rpg/cyberpunk-2077-phantom-libertys-third-deadliest-boss-is-an-osha-violating-garage-making-it-866-as-deadly-as-a-giant-killer-robo-tank)<!-- GAME:END -->
+ - [Xbox Empowers Asian and Pacific Islander Communities with GameTan and NEEL](https://news.xbox.com/en-us/2024/05/01/xbox-empowers-asian-and-pacific-islander-communities-2024/)
+ - [The way World of Warcraft: The War Within quest rewards work is game-changing for transmog enthusiasts](https://www.pcgamer.com/games/world-of-warcraft/the-way-world-of-warcraft-the-war-within-quest-rewards-work-is-game-changing-for-transmog-enthusiasts)
+ - [Todd Howard reckons he knows why Starfield was so divisive: It was too &#39;different than you&#39;ve seen from us in past&#39;](https://www.pcgamer.com/games/rpg/todd-howard-reckons-he-knows-why-starfield-was-so-divisive-it-was-too-different-than-youve-seen-from-us-in-past)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
