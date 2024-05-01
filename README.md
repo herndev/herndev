@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UnitedHealth CEO admits it paid $22 million ransom to BlackCat](https://www.theverge.com/2024/5/1/24146693/unitedhealth-22-million-ransom-ransomware-hack-blackcat)
- - [How Sidechat Fanned the Flames of University Campus Protests](https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/)
- - [Nvidia updates its ChatRTX chatbot, formerly &quot;Chat with RTX&quot;, to add support for voice queries and three AI models: Google&#39;s Gemma, ChatGLM3, and OpenAI&#39;s CLIP &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240501/p37#a240501p37)<!-- TECH:END -->
+ - [US v. Google: Google paid Apple $20B in 2022 to be the default search engine in Safari; in 2020, Google&#39;s payments constituted 17.5% of Apple&#39;s operating income &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240501/p39#a240501p39)
+ - [Snapchat will soon let you edit your messages after sending](https://www.theverge.com/2024/5/1/24146618/snapchat-message-edit-plus-feature-map-reactions-ai-reminders-bitmoji-fashion)
+ - [AT&amp;T will now let you pay to skip the wireless waiting line](https://www.androidauthority.com/atnt-turbo-launched-3438997/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
