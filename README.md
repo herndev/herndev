@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m very scared of Helldivers 2’s new fight against the Terminid threat](https://www.polygon.com/24146443/helldivers-2-major-orders-terminid-mutation-invisible-stalkers-narrative)
- - [Starfield’s most annoying feature just got nerfed](https://www.polygon.com/24146378/starfield-improved-maps-difficulty-options)
- - [PlayStation Stars Campaigns and Digital Collectibles for May 2024](https://blog.playstation.com/2024/05/01/playstation-stars-campaigns-and-digital-collectibles-for-may-2024/)<!-- GAME:END -->
+ - [You Really Should Play This Underrated And Unconventional RPG On Game Pass](https://kotaku.com/citizen-sleeper-rpg-game-pass-second-anniversary-1851449590)
+ - [Todd Howard says Bethesda&#39;s trying to &#39;increase our output&#39; with Elder Scrolls and Fallout &#39;because we don&#39;t want to wait that long either&#39;](https://www.pcgamer.com/games/rpg/todd-howard-says-bethesdas-trying-to-increase-our-output-with-elder-scrolls-and-fallout-because-we-dont-want-to-wait-that-long-either)
+ - [A Must-Play Zelda-Like Leads PS Plus’ Free Game Offerings This Month](https://kotaku.com/ps-plus-free-games-may-2024-destiny-2-tunic-ghostrunner-1851449574)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
