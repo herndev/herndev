@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is preparing to give you more control over which faces you see](https://www.androidauthority.com/google-photos-memories-faces-show-less-option-3438858/)
- - [This Galaxy Ring rival is all set to launch in the US at $299](https://www.androidauthority.com/amazfit-helio-smart-ring-us-price-availability-release-date-3438862/)
- - [Walmart discontinues its telehealth service Health Virtual Care citing &quot;escalating operating costs&quot;; Walmart acquired telehealth provider MeMD in 2021 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240501/p6#a240501p6)<!-- TECH:END -->
+ - [How bills under consideration in various US states to address AI bias contain loopholes that would make companies avoiding accountability easier &lpar;Politico&rpar;](http://www.techmeme.com/240501/p9#a240501p9)
+ - [A Chinese seller details how he ships civilian electronics, which could be repurposed for military uses, to Russia via distributors and Russian e-commerce sites &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240501/p8#a240501p8)
+ - [Experts say Spamouflage Dragon, China&#39;s yearslong disinformation campaign targeting the US, has largely failed due to China missing cultural context and more &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240501/p7#a240501p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
