@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro could launch in Japan very soon](https://appleinsider.com/articles/24/05/01/apple-vision-pro-could-launch-in-japan-very-soon?utm_medium=rss)
- - [It’s getting harder to get Google Search to show AR animals](https://www.theverge.com/2024/4/29/24144735/google-ar-search-3d-objects-missing)
- - [LinkedIn launches three Wordle-style puzzle games: theme-based guessing game Pinpoint, Sudoku and Minesweeper-style crossover Queens, and trivia game Crossclimb &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240501/p21#a240501p21)<!-- TECH:END -->
+ - [iOS 18 may finally get the Calendar and Reminders apps to talk to each other](https://www.androidauthority.com/ios-18-calendar-reminders-apps-leak-3438901/)
+ - [New Jersey-based CoreWeave, which rents out chips to help create AI systems, raised $1.1B led by Coatue at a $19B valuation, five months after raising $642M &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240501/p24#a240501p24)
+ - [Apple profiles three distinguished Swift Student Challenge winners](https://appleinsider.com/articles/24/05/01/apple-profiles-three-distinguished-swift-student-challenge-winners?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
