@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
- - ⏩ [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
+ - 💣 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
+ - ⏩ [Always work](http://9gag.com/gag/aAyYyng)
+ - 👉 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)<!-- MEMES:END -->
 
 ---
 
