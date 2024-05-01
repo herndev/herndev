@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s AI chatbot now supports Google’s Gemma model, voice queries, and more](https://www.theverge.com/2024/5/1/24146130/nvidia-chatrtx-google-gemma-ai-model-features-updates)
- - [Google urges US to update immigration rules to attract more AI talent](https://www.theverge.com/2024/5/1/24146053/google-ai-talent-immigration-schedule-a)
- - [Ring’s first integrated pan and tilt camera comes in pink](https://www.theverge.com/2024/5/1/24145445/ring-pan-tilt-indoor-cam-colors-price-release-date)<!-- TECH:END -->
+ - [Apple Vision Pro could launch in Japan very soon](https://appleinsider.com/articles/24/05/01/apple-vision-pro-could-launch-in-japan-very-soon?utm_medium=rss)
+ - [It’s getting harder to get Google Search to show AR animals](https://www.theverge.com/2024/4/29/24144735/google-ar-search-3d-objects-missing)
+ - [LinkedIn launches three Wordle-style puzzle games: theme-based guessing game Pinpoint, Sudoku and Minesweeper-style crossover Queens, and trivia game Crossclimb &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240501/p21#a240501p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
