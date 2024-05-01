@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Foundry is a very calm, pleasant building game I&#39;d play if I got tired of several other ones](https://www.pcgamer.com/games/sim/foundry-is-a-very-calm-pleasant-building-game-id-play-if-i-got-tired-of-several-other-ones)
- - [Everything’s Getting More Expensive, Even Anime &lpar;On Crunchyroll&rpar;](https://kotaku.com/crunchyroll-price-increase-mega-ultimate-fan-tiers-1851449985)
- - [Sandbox farm sim Mirthwood will let you bring your pets into battle with you](https://www.pcgamer.com/games/life-sim/sandbox-farm-sim-mirthwood-will-let-you-bring-your-pets-into-battle-with-you)<!-- GAME:END -->
+ - [Earth Defense Force 6 delivers a Helldivers 2-style call to action in its launch date announcement trailer](https://www.pcgamer.com/games/third-person-shooter/earth-defense-force-6-delivers-a-helldivers-2-style-call-to-action-in-its-launch-date-announcement-trailer)
+ - [GTA 6 Publisher Axes Incredible Indie Studio Behind OlliOlli And Rollerdrome](https://kotaku.com/olliolli-world-rollerdrome-kerbal-space-program-2-1851450223)
+ - [Star Wars: The Old Republic gets cozy with a new farming homestead](https://www.polygon.com/24146695/star-wars-the-old-republic-farming-homestead-date-night-broadsword)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
