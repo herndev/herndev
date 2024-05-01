@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How bills under consideration in various US states to address AI bias contain loopholes that would make companies avoiding accountability easier &lpar;Politico&rpar;](http://www.techmeme.com/240501/p9#a240501p9)
- - [A Chinese seller details how he ships civilian electronics, which could be repurposed for military uses, to Russia via distributors and Russian e-commerce sites &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240501/p8#a240501p8)
- - [Experts say Spamouflage Dragon, China&#39;s yearslong disinformation campaign targeting the US, has largely failed due to China missing cultural context and more &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240501/p7#a240501p7)<!-- TECH:END -->
+ - [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
+ - [Rabbit releases its first R1 software update, with &quot;up to 5x&quot; improved idle battery performance, a better music playback UI, more reliable Bluetooth, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240501/p11#a240501p11)
+ - [China implements a revised State Secrets Law, requiring Tencent, Weibo, and other internet companies to delete leaked information and comply with investigations &lpar;Yukio Tajima/Nikkei Asia&rpar;](http://www.techmeme.com/240501/p10#a240501p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
