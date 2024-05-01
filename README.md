@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bluey says...](http://9gag.com/gag/aoyz3jx)
- - ⏩ [Y u internet](http://9gag.com/gag/an7YOEn)
- - 👉 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)<!-- MEMES:END -->
+ - 💣 [How long did it take you?](http://9gag.com/gag/aZZPrnp)
+ - ⏩ [Always work](http://9gag.com/gag/aAyYyng)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 
