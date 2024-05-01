@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
- - ⏩ [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
- - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
+ - 💣 [This is what USA looks like in 2024](http://9gag.com/gag/aVvOg4w)
+ - ⏩ [Always work](http://9gag.com/gag/aAyYyng)
+ - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
 
 ---
 
