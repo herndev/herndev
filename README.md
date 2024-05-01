@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cooking skills](http://9gag.com/gag/aMV1VdM)
- - ⏩ [Funny coz](http://9gag.com/gag/ajPrVGq)
+ - 💣 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
+ - ⏩ [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
  - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
 
 ---
