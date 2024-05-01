@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
- - ⏩ [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 👉 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)<!-- MEMES:END -->
+ - 💣 [BBC just got nuked by community notes](http://9gag.com/gag/aW4Zp76)
+ - ⏩ [El Salvador was almost destroyed by organized gang crime. The new president Nayib Bukele declared war on them and jailed over 12,000 gang members. The second war is against corruption. All ruling peaks in the country are now to be investigated. Interesting!](http://9gag.com/gag/awyrgOr)
+ - 👉 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)<!-- MEMES:END -->
 
 ---
 
