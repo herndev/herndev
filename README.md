@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rabbit R1, a thing that should just be an app, actually is just an Android app &lpar;Updated&rpar;](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
- - [Taiwan&#39;s KYEC, one of the largest chip testing and packaging services firms, divests its entire stake in a Suzhou, China-based subsidiary citing US restrictions &lpar;Kelly Le/South China Morning Post&rpar;](http://www.techmeme.com/240501/p3#a240501p3)
- - [Google Photos is adding a new feature to enhance your videos with a single button](https://www.androidauthority.com/google-photos-enhance-your-video-feature-3438837/)<!-- TECH:END -->
+ - [Walmart discontinues its telehealth service Health Virtual Care citing &quot;escalating operating costs&quot;; Walmart acquired telehealth provider MeMD in 2021 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240501/p6#a240501p6)
+ - [A backlash against data centers has triggered laws in Arizona, Georgia, and other parts of the US to restrain the rapidly growing, energy-intensive industry &lpar;Antonio Olivo/Washington Post&rpar;](http://www.techmeme.com/240501/p5#a240501p5)
+ - [In tests run by executives in advertising, animation, and real estate, OpenAI&#39;s Sora generated people with more realistic facial features than Runway or Pika &lpar;Financial Times&rpar;](http://www.techmeme.com/240501/p4#a240501p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
