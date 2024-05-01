@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I have some questions about what Changpeng Zhao gave to the feds](https://www.theverge.com/2024/5/1/24145736/binance-cz-changpeng-zhao-plea-agreement)
- - [Silicon Valley is enamored with a company that pumps poop underground](https://www.theverge.com/2024/5/1/24145535/silicon-valley-climate-tech-carbon-removal-vaulted-deep-frontier)
- - [&lpar;PRODUCT&rpar;RED is getting our hopes up for a red iPhone 15](https://appleinsider.com/articles/24/05/01/productred-is-getting-our-hopes-up-for-a-red-iphone-15?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia’s AI chatbot now supports Google’s Gemma model, voice queries, and more](https://www.theverge.com/2024/5/1/24146130/nvidia-chatrtx-google-gemma-ai-model-features-updates)
+ - [Google urges US to update immigration rules to attract more AI talent](https://www.theverge.com/2024/5/1/24146053/google-ai-talent-immigration-schedule-a)
+ - [Ring’s first integrated pan and tilt camera comes in pink](https://www.theverge.com/2024/5/1/24145445/ring-pan-tilt-indoor-cam-colors-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
