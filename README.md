@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is adding a new feature to enhance your videos with a single button](https://www.androidauthority.com/google-photos-enhance-your-video-feature-3438837/)
- - [Google Phone app beta rolls out &quot;Audio Emoji&quot;, letting callers select an emoji to play animated sound effects: clapping, laughing, party, crying, poop, sting &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240501/p2#a240501p2)
- - [Nevada Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/nevada-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rabbit R1, a thing that should just be an app, actually is just an Android app &lpar;Updated&rpar;](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
+ - [Taiwan&#39;s KYEC, one of the largest chip testing and packaging services firms, divests its entire stake in a Suzhou, China-based subsidiary citing US restrictions &lpar;Kelly Le/South China Morning Post&rpar;](http://www.techmeme.com/240501/p3#a240501p3)
+ - [Google Photos is adding a new feature to enhance your videos with a single button](https://www.androidauthority.com/google-photos-enhance-your-video-feature-3438837/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
