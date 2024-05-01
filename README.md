@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bluey says...](http://9gag.com/gag/aoyz3jx)
- - ⏩ [Y u internet](http://9gag.com/gag/an7YOEn)
- - 👉 [El Salvador was almost destroyed by organized gang crime. The new president Nayib Bukele declared war on them and jailed over 12,000 gang members. The second war is against corruption. All ruling peaks in the country are now to be investigated. Interesting!](http://9gag.com/gag/awyrgOr)<!-- MEMES:END -->
+ - 💣 [El Salvador was almost destroyed by organized gang crime. The new president Nayib Bukele declared war on them and jailed over 12,000 gang members. The second war is against corruption. All ruling peaks in the country are now to be investigated. Interesting!](http://9gag.com/gag/awyrgOr)
+ - ⏩ [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
+ - 👉 [BBC just got nuked by community notes](http://9gag.com/gag/aW4Zp76)<!-- MEMES:END -->
 
 ---
 
