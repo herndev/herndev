@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google laid off at least 200 employees from its &quot;Core&quot; teams, including its Python developer team, and plans to move some roles to Mexico and India &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240501/p30#a240501p30)
- - [This Qi2 3-in-1 charger has the best price we’ve seen from any brand](https://www.theverge.com/2024/5/1/24146244/amazon-esr-qi2-3-in-1-wireless-charger-thermacell-mosquito-repellent-deal-sale)
- - [Nothing Phone 2a’s latest update brings ChatGPT integration](https://www.androidauthority.com/nothing-phone-2a-chatgpt-3438950/)<!-- TECH:END -->
+ - [T-Mobile owns Mint Mobile](https://www.theverge.com/2024/5/1/24146547/t-mobile-mint-mobile-acquisition-complete)
+ - [Pennsylvania has two battling bills that could make tracking with AirTags unlawful](https://appleinsider.com/articles/24/05/01/pennsylvania-has-two-battling-bills-that-could-make-tracking-with-airtags-unlawful?utm_medium=rss)
+ - [In a US Senate hearing, the UnitedHealth CEO says the company paid a $22M ransom to hackers who accessed a Change Healthcare server that wasn&#39;t protected by MFA &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240501/p31#a240501p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
