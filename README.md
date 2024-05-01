@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turns out the Rabbit R1 was just an Android app all along](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
- - [A look at gpt2-chatbot, a mysterious AI chatbot which became available on LLM benchmarking site LMSYS Org and is believed to have similar capabilities as GPT-4 &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240430/p52#a240430p52)
- - [Elisity, which is developing AI tools for companies to anticipate and pre-empt cyber threats, raised a $37M Series B from Insight Partners and others &lpar;FinSMEs&rpar;](http://www.techmeme.com/240430/p51#a240430p51)<!-- TECH:END -->
+ - [Google Photos is adding a new feature to enhance your videos with a single button](https://www.androidauthority.com/google-photos-enhance-your-video-feature-3438837/)
+ - [Google Phone app beta rolls out &quot;Audio Emoji&quot;, letting callers select an emoji to play animated sound effects: clapping, laughing, party, crying, poop, sting &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240501/p2#a240501p2)
+ - [Nevada Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/nevada-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
