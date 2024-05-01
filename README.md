@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 may finally get the Calendar and Reminders apps to talk to each other](https://www.androidauthority.com/ios-18-calendar-reminders-apps-leak-3438901/)
- - [New Jersey-based CoreWeave, which rents out chips to help create AI systems, raised $1.1B led by Coatue at a $19B valuation, five months after raising $642M &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240501/p24#a240501p24)
- - [Apple profiles three distinguished Swift Student Challenge winners](https://appleinsider.com/articles/24/05/01/apple-profiles-three-distinguished-swift-student-challenge-winners?utm_medium=rss)<!-- TECH:END -->
+ - [Audible tries book recommendations based on your streaming history](https://www.theverge.com/2024/5/1/24146317/audible-audiobook-recommendations-prime-video-history)
+ - [The next Apple Watch Ultra may have ‘almost no’ hardware upgrades](https://www.androidauthority.com/apple-watch-ultra-no-hardware-upgrades-3438907/)
+ - [Sources: US federal prosecutors are digging into internal practices at Block, discussing with an ex-employee alleged widespread and yearslong compliance lapses &lpar;Gretchen Morgenson/NBC News&rpar;](http://www.techmeme.com/240501/p27#a240501p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
