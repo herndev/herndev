@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Workers seek to alter the balance of power in Canadian video game industry](https://www.polygon.com/24145830/game-workers-unite-csn-union-2024)
  - [Freakishly large graphics cards and super-hot SSDs mean the fundamentals of PC design needs a big change](https://www.pcgamer.com/hardware/freakishly-large-graphics-cards-and-super-hot-ssds-mean-the-fundamentals-of-pc-design-needs-a-big-change)
- - [Today&#39;s Wordle answer for Wednesday, May 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-May-1-2024)
- - [Legend of Zelda movie needs to be ‘grounded’ and ‘real,’ says director](https://www.polygon.com/24145926/zelda-movie-director-wes-ball-grounded-style)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, May 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-May-1-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
