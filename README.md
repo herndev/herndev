@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
- - ⏩ [Always work](http://9gag.com/gag/aAyYyng)
- - 👉 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)<!-- MEMES:END -->
+ - ⏩ [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
 
 ---
 
