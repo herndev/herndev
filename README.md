@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what USA looks like in 2024](http://9gag.com/gag/aVvOg4w)
- - ⏩ [Always work](http://9gag.com/gag/aAyYyng)
- - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
+ - 💣 [Pick your side](http://9gag.com/gag/avy0WWM)
+ - ⏩ [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 👉 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)<!-- MEMES:END -->
 
 ---
 
