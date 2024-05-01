@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos will soon allow you to back up all new folders if you want &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-automatic-back-up-3438926/)
- - [Atlassian debuts Rovo, an AI product giving businesses contextual search, insights, and the ability to add custom agents to handle tasks and &quot;complete projects&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240501/p29#a240501p29)
- - [Microsoft’s billion-dollar OpenAI investment was trigged by Google fears, emails reveal](https://www.theverge.com/2024/5/1/24146302/microsoft-openai-investment-google-worries-internal-emails)<!-- TECH:END -->
+ - [Sources: Google laid off at least 200 employees from its &quot;Core&quot; teams, including its Python developer team, and plans to move some roles to Mexico and India &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240501/p30#a240501p30)
+ - [This Qi2 3-in-1 charger has the best price we’ve seen from any brand](https://www.theverge.com/2024/5/1/24146244/amazon-esr-qi2-3-in-1-wireless-charger-thermacell-mosquito-repellent-deal-sale)
+ - [Nothing Phone 2a’s latest update brings ChatGPT integration](https://www.androidauthority.com/nothing-phone-2a-chatgpt-3438950/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
