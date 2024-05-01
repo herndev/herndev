@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/games/pc-release-dates-may-2024)
  - [Earth Defense Force 6 delivers a Helldivers 2-style call to action in its launch date announcement trailer](https://www.pcgamer.com/games/third-person-shooter/earth-defense-force-6-delivers-a-helldivers-2-style-call-to-action-in-its-launch-date-announcement-trailer)
- - [GTA 6 Publisher Axes Incredible Indie Studio Behind OlliOlli And Rollerdrome](https://kotaku.com/olliolli-world-rollerdrome-kerbal-space-program-2-1851450223)
- - [Star Wars: The Old Republic gets cozy with a new farming homestead](https://www.polygon.com/24146695/star-wars-the-old-republic-farming-homestead-date-night-broadsword)<!-- GAME:END -->
+ - [GTA 6 Publisher Axes Incredible Indie Studio Behind OlliOlli And Rollerdrome](https://kotaku.com/olliolli-world-rollerdrome-kerbal-space-program-2-1851450223)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
