@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pick your side](http://9gag.com/gag/avy0WWM)
- - ⏩ [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 👉 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)<!-- MEMES:END -->
+ - 💣 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - ⏩ [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)
+ - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
 
 ---
 
