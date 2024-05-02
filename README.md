@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - ⏩ [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 💣 [Uriah Heep Easy Livin 1972](http://9gag.com/gag/aAyY6rg)
+ - ⏩ [EmotionalDamage](http://9gag.com/gag/aRBQLp2)
  - 👉 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)<!-- MEMES:END -->
 
 ---
