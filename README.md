@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Manor Lords publisher says the game&#39;s success has gone &#39;well beyond what we could have hoped&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-publisher-says-the-games-success-has-gone-well-beyond-what-we-could-have-hoped)
- - [Best BAL-27 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24147028/best-bal-27-loadout-class-build-mw3)
- - [The best Modern Warfare 3 guns to use in Season 3 Reloaded](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)<!-- GAME:END -->
+ - [The forbidden episode of Bluey is forbidden no more](https://www.polygon.com/24147031/bluey-dad-baby-youtube)
+ - [Trouble connecting to your VPN? Microsoft admits that a recent Windows security update is preventing virtual connections](https://www.pcgamer.com/software/windows/trouble-connecting-to-your-vpn-microsoft-admits-that-a-recent-windows-security-update-is-preventing-virtual-connections)
+ - [WoW&#39;s released a short cinematic ahead of the War Within&#39;s pre-patch—and I&#39;m just happy these characters are talking like actual people, now](https://www.pcgamer.com/games/world-of-warcraft/wows-released-a-short-cinematic-ahead-of-the-war-withins-pre-patchand-im-just-happy-these-characters-are-talking-like-actual-people-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
