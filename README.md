@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rabbit R1 isn&#39;t an iPhone killer, because its AI can run on Apple hardware](https://appleinsider.com/articles/24/05/02/rabbit-r1-isnt-an-iphone-killer-because-its-ai-can-run-on-apple-hardware?utm_medium=rss)
- - [Starlink users in some unauthorized regions can seemingly still use the internet, despite SpaceX telling users the service would be unavailable to them by May 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p17#a240502p17)
- - [Tech Transparency Project: US extremist militias are quietly coordinating across ~200 Facebook groups and profiles, after lying low since the January 6 riot &lpar;Tess Owen/Wired&rpar;](http://www.techmeme.com/240502/p16#a240502p16)<!-- TECH:END -->
+ - [Nvidia makes it easier to get GeForce Now running on the Steam Deck](https://www.theverge.com/2024/5/2/24147034/nvidia-geforce-now-steam-deck-script-install)
+ - [Bose’s new SoundLink Max has a little handle and big sound](https://www.theverge.com/2024/5/2/24146865/bose-soundlink-max-bluetooth-speaker-features)
+ - [Sony plans to remove Horizon Zero Dawn, one of its biggest first-party games, from PlayStation Plus on May 21; the game is PS4-only, hinting at a PS5 release &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/240502/p21#a240502p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
