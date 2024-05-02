@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Star Wars Jedi: Survivor and Headbangers: Rhythm Royale](https://news.xbox.com/en-us/2024/05/02/free-play-days-star-wars-jedi-survivor-and-headbangers-rhythm-royale/)
- - [Not sure what movie to watch? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/5/2/24146259/best-movies-watch-tonight-best-recommendations-streaming)
- - [Gray Zone Warfare delivers the odd hitch and stutter, but overall it&#39;s a reasonable Early Access ride](https://www.pcgamer.com/hardware/gray-zone-warfare-performance)<!-- GAME:END -->
+ - [X-Men ‘97’s Eighth Episode Is A Rocky Beginning To The Season&#39;s End](https://kotaku.com/x-men-97-episode-8-disney-plus-review-magneto-was-right-1851451871)
+ - [Cyberpunk 2077 dev says they went all-out on the memorial to Johnny Silverhand&#39;s nuclear attack, then found out bosses &#39;just expected a commemorative plaque&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2077-developer-says-they-went-all-out-on-the-in-game-memorial-to-johnny-silverhands-nuclear-attack-then-found-out-bosses-just-expected-a-commemorative-plaque)
+ - [GTA Online update for the week of May 2](https://www.polygon.com/gta-online-guides/2024/5/2/24147193/may-2-weekly-update-release-time-events-san-andreas-prix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
