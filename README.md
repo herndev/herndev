@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Digital Photo Frames &lpar;2024&rpar;: High-Res and Natural](https://www.wired.com/gallery/best-digital-picture-frames/)
- - [Apple Watch is FDA&#39;s first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device?utm_medium=rss)
- - [Best Sonos Setup &lpar;2024&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)<!-- TECH:END -->
+ - [How Far-Right, Extremist Militias Organize On Facebook](https://www.wired.com/story/far-right-militias-extremism-facebook/)
+ - [Google is getting even worse for independent sites](https://www.theverge.com/2024/5/2/24147152/google-search-seo-publishing-housefresh-product-reviews)
+ - [Rabbit R1 review: nothing to see here](https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
