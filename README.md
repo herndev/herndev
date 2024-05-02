@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Balatro&#39;s first big balance patch fiddles with Fibonacci and makes a mod to Odd Todd](https://www.pcgamer.com/games/card-games/balatros-first-big-balance-patch-fiddles-with-fibonacci-and-makes-a-mod-to-odd-todd)
- - [Don’t Miss This Handy Hidden Adaptation Early In Another Crab’s Treasure](https://kotaku.com/another-crabs-treasure-hidden-adaptation-urchin-toss-1851452712)
- - [Nintendo Goes After 8,535 Switch Emulator Backups In Mass Takedown](https://kotaku.com/nintendo-switch-yuzu-emulator-github-piracy-zelda-1851452740)<!-- GAME:END -->
+ - [Abiotic Factor, a 6-player survival game where you&#39;re scientists in a paranormal lab, is rising up Steam&#39;s top-sellers list after launching in early access](https://www.pcgamer.com/games/.survival-crafting/abiotic-factor-early-access-launch)
+ - [Elden Ring lead Hidetaka Miyazaki won&#39;t say how long the DLC is since everyone thinks he lowballed the main game: &#39;Everyone told me I was lying and that&#39;s not remotely enough time!&#39;](https://www.pcgamer.com/games/rpg/elden-ring-lead-hidetaka-miyazaki-wont-say-how-long-the-dlc-is-since-everyone-thinks-he-lowballed-the-main-game-everyone-told-me-i-was-lying-and-thats-not-remotely-enough-time)
+ - [Here are the deals you should check out during Amazon Gaming Week](https://www.polygon.com/deals/24147191/best-deals-amazon-gaming-week-keyboard-controller-headset-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
