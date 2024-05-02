@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok and Universal Music Group end feud with new agreement](https://www.theverge.com/2024/5/2/24146994/tiktok-universal-music-group-sign-deal-generative-ai)
- - [Anonymous social media app Sidechat has become both a place for dialog and a breeding ground for hate speech amid US college protests over the Israel-Hamas war &lpar;Sofia Barnett/Wired&rpar;](http://www.techmeme.com/240502/p7#a240502p7)
- - [A look at Intel&#39;s efforts to build Ohio One, a &quot;mega fab&quot; that could become the world&#39;s largest chip factory and for which the company has committed $28B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p6#a240502p6)<!-- TECH:END -->
+ - [Who needs a Pixel 8a launch event after this huge leak?](https://www.androidauthority.com/massive-google-pixel-8a-leak-features-3439072/)
+ - [Never Got Your April Social Security Check? What You Should Do     - CNET](https://www.cnet.com/personal-finance/never-got-your-april-social-security-check-what-you-should-do/#ftag=CAD590a51e)
+ - [HUAWEI Pura 70 series launches globally: Best camera phone contenders?](https://www.androidauthority.com/huawei-pura-70-global-launch-3438106/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
