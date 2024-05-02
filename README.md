@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The forbidden episode of Bluey is forbidden no more](https://www.polygon.com/24147031/bluey-dad-baby-youtube)
- - [Trouble connecting to your VPN? Microsoft admits that a recent Windows security update is preventing virtual connections](https://www.pcgamer.com/software/windows/trouble-connecting-to-your-vpn-microsoft-admits-that-a-recent-windows-security-update-is-preventing-virtual-connections)
- - [WoW&#39;s released a short cinematic ahead of the War Within&#39;s pre-patch—and I&#39;m just happy these characters are talking like actual people, now](https://www.pcgamer.com/games/world-of-warcraft/wows-released-a-short-cinematic-ahead-of-the-war-withins-pre-patchand-im-just-happy-these-characters-are-talking-like-actual-people-now)<!-- GAME:END -->
+ - [In a golden age of Star Wars board games, these are the best options](https://www.polygon.com/what-to-play/24145239/best-star-wars-board-games-ttrpg-rebellion-unlimited-shatterpoint-edge-of-empire)
+ - [D&amp;D lore buff discovers Elminster&#39;s likely been leaving magic items strewn around Baldur&#39;s Gate 3 like a fantasy wizard Santa Claus](https://www.pcgamer.com/games/baldurs-gate/dandd-lore-buff-discovers-elminsters-likely-been-leaving-magic-items-strewn-around-baldurs-gate-3-like-a-fantasy-wizard-santa-claus)
+ - [New Helldivers 2 Warbond brings trap-laying weaponry, arctic-themed armor, and more May 9](https://blog.playstation.com/2024/05/02/new-helldivers-2-warbond-brings-trap-laying-weaponry-arctic-themed-armor-and-more-may-9/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
