@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - ⏩ [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
- - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
+ - 💣 [Ryan Gosling and Mikey Day at movie premiere red carpet dressed as Beavis and Butthead](http://9gag.com/gag/aGy9MwK)
+ - ⏩ [Funny Cat](http://9gag.com/gag/a34YA11)
+ - 👉 [A wise decision.](http://9gag.com/gag/amoX6E9)<!-- MEMES:END -->
 
 ---
 
