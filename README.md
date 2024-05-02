@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [As social media platforms pivot away from news distribution, a look at news sites like The Verge, which function like social media, with aggregation and more &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/240502/p9#a240502p9)
- - [Who needs the Galaxy Store? Samsung Good Lock is now on the Play Store](https://www.androidauthority.com/samsung-good-lock-google-play-store-3439066/)<!-- TECH:END -->
+ - [TMTG co-founder Andy Litinsky, testifying as a witness in an insider trading case, says Trump nearly derailed the DWAC deal in October 2021, before signing on &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/240502/p11#a240502p11)
+ - [AI has the potential to ease the US meat industry&#39;s labor vulnerability by letting robots perform some of the high precision tasks required to butcher meat &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p10#a240502p10)
+ - [More Spotify users will now have to pay for lyrics](https://www.androidauthority.com/spotify-premium-lyrics-3439096/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
