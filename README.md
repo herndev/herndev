@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 quietly made multitasking better on tablets](https://www.androidauthority.com/android-14-alt-tab-shortcut-3439404/)
- - [When notifications remind us of things we’d rather forget](https://www.theverge.com/24147418/intrusive-notifications-bad-memories-cloud-storage)
- - [A MediaTek-powered premium phone is coming to the US, and we have a hunch about what it could be](https://www.androidauthority.com/mediatek-premium-phone-us-3439391/)<!-- TECH:END -->
+ - [FCC asks for more money to help telecom providers replace Huawei and ZTE gear](https://www.theverge.com/2024/5/2/24147499/fcc-huawei-zte-rip-and-replace-funding-isps)
+ - [Apple Q2 revenue: iPhone down 10% YoY to $45.96B, Mac up 4% to $7.45B, iPad down 17% to $5.56B, and Wearables, Home, and Accessories down 10% to $7.91B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240502/p39#a240502p39)
+ - [Seagate’s 2TB Xbox Storage Expansion Card gets its best discount yet](https://www.theverge.com/2024/5/2/24147344/amazon-seagate-2tb-xbox-storage-expansion-card-crkd-nitro-deck-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
