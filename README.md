@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
- - ⏩ [What do you think of?](http://9gag.com/gag/aVvOZLd)
- - 👉 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)<!-- MEMES:END -->
+ - 💣 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
+ - ⏩ [The newest McDonalds location](http://9gag.com/gag/aVvOEyK)
+ - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
 
 ---
 
