@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TMTG co-founder Andy Litinsky, testifying as a witness in an insider trading case, says Trump nearly derailed the DWAC deal in October 2021, before signing on &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/240502/p11#a240502p11)
- - [AI has the potential to ease the US meat industry&#39;s labor vulnerability by letting robots perform some of the high precision tasks required to butcher meat &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p10#a240502p10)
- - [More Spotify users will now have to pay for lyrics](https://www.androidauthority.com/spotify-premium-lyrics-3439096/)<!-- TECH:END -->
+ - [A profile of US District Court judge Amit P. Mehta, who is presiding over the US v. Google case, which could set a precedent for other US tech antitrust cases &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240502/p14#a240502p14)
+ - [A look at Ukraine&#39;s combat drone startup industry, based on commercial first-person-view or photography drones; an estimated ~200 local companies produce drones &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240502/p13#a240502p13)
+ - [Apple Watch is FDA&#39;s first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
