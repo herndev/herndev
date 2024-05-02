@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches passkey support for all consumer accounts](https://www.theverge.com/2024/5/2/24147124/microsoft-passkeys-support-consumer-msa)
- - [LA-based wealth management startup Altruist, whose software and app help with trading and more, raised a $169M Series E led by Iconiq at a $1.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240502/p22#a240502p22)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)<!-- TECH:END -->
+ - [7 Best Digital Photo Frames &lpar;2024&rpar;: High-Res and Natural](https://www.wired.com/gallery/best-digital-picture-frames/)
+ - [Apple Watch is FDA&#39;s first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device?utm_medium=rss)
+ - [Best Sonos Setup &lpar;2024&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
