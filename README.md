@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Find The Extremely Powerful Valve Shell In Another Crab’s Treasure](https://kotaku.com/another-crabs-treasure-valve-best-shell-1851452600)
- - [Halo’s Joseph Morgan On The Flaws Of Season 1](https://kotaku.com/halo-tv-series-paramount-plus-season-2-joseph-morgan-1851452597)
- - [10 Years Later, Alien: Isolation Still Looks Incredible](https://kotaku.com/alien-isolation-10-year-art-design-original-film-1851452422)<!-- GAME:END -->
+ - [Balatro&#39;s first big balance patch fiddles with Fibonacci and makes a mod to Odd Todd](https://www.pcgamer.com/games/card-games/balatros-first-big-balance-patch-fiddles-with-fibonacci-and-makes-a-mod-to-odd-todd)
+ - [Don’t Miss This Handy Hidden Adaptation Early In Another Crab’s Treasure](https://kotaku.com/another-crabs-treasure-hidden-adaptation-urchin-toss-1851452712)
+ - [Nintendo Goes After 8,535 Switch Emulator Backups In Mass Takedown](https://kotaku.com/nintendo-switch-yuzu-emulator-github-piracy-zelda-1851452740)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
