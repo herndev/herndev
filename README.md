@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [FDA qualifies Apple Watch’s AFib history for use in clinical studies](https://www.theverge.com/2024/5/2/24147178/fda-apple-watch-mddt-qualification-afib-history)
- - [[Thread] California state Sen. Scott Wiener defends his AI safety bill SB 1047, after criticism that it will &quot;crush OpenAI&#39;s competitors&quot; and open-source AI &lpar;Senator Scott Wiener/@scott_wiener&rpar;](http://www.techmeme.com/240502/p30#a240502p30)<!-- TECH:END -->
+ - [The 21 Best Movies on Apple TV+ Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Turning up the volume: What does Apple Music need to surpass Spotify?](https://www.androidauthority.com/apple-music-vs-spotify-improve-3439385/)
+ - [Siri on HomePod can&#39;t tell you what time it is right now](https://appleinsider.com/articles/24/05/02/siri-on-homepod-cant-tell-you-what-time-it-is-right-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
