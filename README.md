@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, May 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-2-2024)
  - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/games/pc-release-dates-may-2024)
- - [Earth Defense Force 6 delivers a Helldivers 2-style call to action in its launch date announcement trailer](https://www.pcgamer.com/games/third-person-shooter/earth-defense-force-6-delivers-a-helldivers-2-style-call-to-action-in-its-launch-date-announcement-trailer)
- - [GTA 6 Publisher Axes Incredible Indie Studio Behind OlliOlli And Rollerdrome](https://kotaku.com/olliolli-world-rollerdrome-kerbal-space-program-2-1851450223)<!-- GAME:END -->
+ - [Earth Defense Force 6 delivers a Helldivers 2-style call to action in its launch date announcement trailer](https://www.pcgamer.com/games/third-person-shooter/earth-defense-force-6-delivers-a-helldivers-2-style-call-to-action-in-its-launch-date-announcement-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
