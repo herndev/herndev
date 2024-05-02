@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who needs a Pixel 8a launch event after this huge leak?](https://www.androidauthority.com/massive-google-pixel-8a-leak-features-3439072/)
- - [Never Got Your April Social Security Check? What You Should Do     - CNET](https://www.cnet.com/personal-finance/never-got-your-april-social-security-check-what-you-should-do/#ftag=CAD590a51e)
- - [HUAWEI Pura 70 series launches globally: Best camera phone contenders?](https://www.androidauthority.com/huawei-pura-70-global-launch-3438106/)<!-- TECH:END -->
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [As social media platforms pivot away from news distribution, a look at news sites like The Verge, which function like social media, with aggregation and more &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/240502/p9#a240502p9)
+ - [Who needs the Galaxy Store? Samsung Good Lock is now on the Play Store](https://www.androidauthority.com/samsung-good-lock-google-play-store-3439066/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
