@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
- - ⏩ [German ambasssador in Rafah](http://9gag.com/gag/azxb53N)
- - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
+ - 💣 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
+ - ⏩ [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
+ - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
 
 ---
 
