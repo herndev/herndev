@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
- - ⏩ [Oopsie](http://9gag.com/gag/azxbdzp)
- - 👉 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)<!-- MEMES:END -->
+ - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - ⏩ [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
+ - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
 
 ---
 
