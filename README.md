@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Far-Right, Extremist Militias Organize On Facebook](https://www.wired.com/story/far-right-militias-extremism-facebook/)
- - [Google is getting even worse for independent sites](https://www.theverge.com/2024/5/2/24147152/google-search-seo-publishing-housefresh-product-reviews)
- - [Rabbit R1 review: nothing to see here](https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget)<!-- TECH:END -->
+ - [Rabbit R1 review: $199 is the right price, fun design, and a good mic, but the best features are all MIA, finicky and slow, and using a phone is better &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240502/p29#a240502p29)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Microsoft made the biggest renewable energy agreement ever to fuel its AI ambitions](https://www.theverge.com/2024/5/2/24147153/microsoft-ai-data-center-record-renewable-energy-purchase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
