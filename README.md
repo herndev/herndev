@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC asks for more money to help telecom providers replace Huawei and ZTE gear](https://www.theverge.com/2024/5/2/24147499/fcc-huawei-zte-rip-and-replace-funding-isps)
- - [Apple Q2 revenue: iPhone down 10% YoY to $45.96B, Mac up 4% to $7.45B, iPad down 17% to $5.56B, and Wearables, Home, and Accessories down 10% to $7.91B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240502/p39#a240502p39)
- - [Seagate’s 2TB Xbox Storage Expansion Card gets its best discount yet](https://www.theverge.com/2024/5/2/24147344/amazon-seagate-2tb-xbox-storage-expansion-card-crkd-nitro-deck-deal-sale)<!-- TECH:END -->
+ - [Tim Cook says Apple has &quot;big plans to announce&quot; from an &quot;AI point of view&quot; during its May 7 event, where new iPads are expected, and at WWDC in June &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240502/p42#a240502p42)
+ - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
+ - [Apple blows away Wall Street earnings guesses, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
