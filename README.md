@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uriah Heep Easy Livin 1972](http://9gag.com/gag/aAyY6rg)
- - ⏩ [EmotionalDamage](http://9gag.com/gag/aRBQLp2)
- - 👉 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)<!-- MEMES:END -->
+ - 💣 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
+ - ⏩ [Oopsie](http://9gag.com/gag/azxbdzp)
+ - 👉 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)<!-- MEMES:END -->
 
 ---
 
