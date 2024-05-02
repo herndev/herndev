@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: Google paid Apple $20B in 2022 to be the default search engine in Safari; in 2020, Google&#39;s payments constituted 17.5% of Apple&#39;s operating income &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240501/p39#a240501p39)
- - [Snapchat will soon let you edit your messages after sending](https://www.theverge.com/2024/5/1/24146618/snapchat-message-edit-plus-feature-map-reactions-ai-reminders-bitmoji-fashion)
- - [AT&amp;T will now let you pay to skip the wireless waiting line](https://www.androidauthority.com/atnt-turbo-launched-3438997/)<!-- TECH:END -->
+ - [UnitedHealth CEO Andrew Witty testifies that the Change Healthcare hack impacted &quot;maybe a third&quot; of Americans and it&#39;ll take &quot;several months&quot; to notify victims &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240501/p41#a240501p41)
+ - [Snapchat announces the ability to edit messages for up to five minutes after sending them, rolling out &quot;soon&quot; and available first for Snapchat+ subscribers &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240501/p40#a240501p40)
+ - [Asus won’t say if the ROG Ally’s SD card reader will ever be truly fixed](https://www.theverge.com/2024/5/1/24146755/asus-rog-ally-sd-card-reader)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
