@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UnitedHealth CEO Andrew Witty testifies that the Change Healthcare hack impacted &quot;maybe a third&quot; of Americans and it&#39;ll take &quot;several months&quot; to notify victims &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240501/p41#a240501p41)
- - [Snapchat announces the ability to edit messages for up to five minutes after sending them, rolling out &quot;soon&quot; and available first for Snapchat+ subscribers &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240501/p40#a240501p40)
- - [Asus won’t say if the ROG Ally’s SD card reader will ever be truly fixed](https://www.theverge.com/2024/5/1/24146755/asus-rog-ally-sd-card-reader)<!-- TECH:END -->
+ - [The US CFTC appoints Ted Kaouk as its first chief AI officer; Kaouk currently serves as the regulator&#39;s chief data officer and director of its data division &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/240501/p43#a240501p43)
+ - [Chromecast killer? Walmart’s leaked 4K box could be the ultimate streaming device](https://www.androidauthority.com/walmart-onn-4k-pro-leaked-3439009/)
+ - [An NLRB judge finds Amazon CEO Andy Jassy violated US labor law with his comments in 2022 suggesting workers would be &quot;less empowered&quot; if they voted in a union &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240501/p42#a240501p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
