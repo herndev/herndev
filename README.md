@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 21 Best Movies on Apple TV+ Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Turning up the volume: What does Apple Music need to surpass Spotify?](https://www.androidauthority.com/apple-music-vs-spotify-improve-3439385/)
- - [Siri on HomePod can&#39;t tell you what time it is right now](https://appleinsider.com/articles/24/05/02/siri-on-homepod-cant-tell-you-what-time-it-is-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [Android 14 quietly made multitasking better on tablets](https://www.androidauthority.com/android-14-alt-tab-shortcut-3439404/)
+ - [When notifications remind us of things we’d rather forget](https://www.theverge.com/24147418/intrusive-notifications-bad-memories-cloud-storage)
+ - [A MediaTek-powered premium phone is coming to the US, and we have a hunch about what it could be](https://www.androidauthority.com/mediatek-premium-phone-us-3439391/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
