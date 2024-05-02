@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ryan Gosling and Mikey Day at movie premiere red carpet dressed as Beavis and Butthead](http://9gag.com/gag/aGy9MwK)
- - ⏩ [Funny Cat](http://9gag.com/gag/a34YA11)
- - 👉 [A wise decision.](http://9gag.com/gag/amoX6E9)<!-- MEMES:END -->
+ - 💣 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - ⏩ [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 👉 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)<!-- MEMES:END -->
 
 ---
 
