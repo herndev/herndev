@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
- - ⏩ [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
- - 👉 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)<!-- MEMES:END -->
+ - 💣 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
+ - ⏩ [German ambasssador in Rafah](http://9gag.com/gag/azxb53N)
+ - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
 
 ---
 
