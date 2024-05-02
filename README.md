@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Siri in CarPlay with or without your voice](https://appleinsider.com/inside/carplay/tips/how-to-use-siri-in-carplay-with-or-without-your-voice?utm_medium=rss)
- - [Best Wi-Fi Wireless Speaker of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)
- - [Chennai-based CRM software maker Freshworks redesignates CEO Girish Mathrubootham as the executive chairman and names Dennis Woodside as his replacement &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/240501/p45#a240501p45)<!-- TECH:END -->
+ - [Microsoft announces plans to invest $2.2B in cloud and AI infrastructure in Malaysia over four years and train 200,000 people with AI skills in the country &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240502/p4#a240502p4)
+ - [Trend Micro: cybercriminals and nation-state spies are coexisting inside the same compromised brand-name routers, using the devices to disguise their attacks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240502/p3#a240502p3)
+ - [SK Hynix says its capacity to make HBM chips is almost fully booked through 2025 and it now aims to begin mass production of its next-generation HBM chip in Q3 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240502/p2#a240502p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
