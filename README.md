@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Abiotic Factor, a 6-player survival game where you&#39;re scientists in a paranormal lab, is rising up Steam&#39;s top-sellers list after launching in early access](https://www.pcgamer.com/games/.survival-crafting/abiotic-factor-early-access-launch)
- - [Elden Ring lead Hidetaka Miyazaki won&#39;t say how long the DLC is since everyone thinks he lowballed the main game: &#39;Everyone told me I was lying and that&#39;s not remotely enough time!&#39;](https://www.pcgamer.com/games/rpg/elden-ring-lead-hidetaka-miyazaki-wont-say-how-long-the-dlc-is-since-everyone-thinks-he-lowballed-the-main-game-everyone-told-me-i-was-lying-and-thats-not-remotely-enough-time)
- - [Here are the deals you should check out during Amazon Gaming Week](https://www.polygon.com/deals/24147191/best-deals-amazon-gaming-week-keyboard-controller-headset-sale)<!-- GAME:END -->
+ - [XDefiant finally has a release date, and it&#39;s just a couple weeks from now](https://www.pcgamer.com/games/fps/xdefiant-finally-has-a-release-date-and-its-just-a-couple-weeks-from-now)
+ - [Here’s everything changing in Diablo 4 with Loot Reborn](https://www.polygon.com/24147550/diablo-4-d4-season-loot-reborn-patch-notes)
+ - [Blizzard snuck in surprise quality of life changes into Diablo 4&#39;s massive list of season 4 patch notes](https://www.pcgamer.com/games/rpg/blizzard-snuck-in-surprise-quality-of-life-changes-into-diablo-4s-massive-list-of-season-4-patch-notes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
