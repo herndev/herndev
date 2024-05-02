@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
- - ⏩ [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
+ - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - ⏩ [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---
 
