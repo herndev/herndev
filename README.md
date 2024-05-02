@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)
- - ⏩ [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
- - 👉 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)<!-- MEMES:END -->
+ - 💣 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
+ - ⏩ [What do you think of?](http://9gag.com/gag/aVvOZLd)
+ - 👉 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)<!-- MEMES:END -->
 
 ---
 
