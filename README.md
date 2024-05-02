@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If not fren why fren shape](http://9gag.com/gag/a6ZwXxR)
- - ⏩ [She does though](http://9gag.com/gag/apRq3e9)
- - 👉 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)<!-- MEMES:END -->
+ - 💣 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - ⏩ [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 👉 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)<!-- MEMES:END -->
 
 ---
 
