@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google paid Apple $20 Billion to be default search engine in 2022](https://appleinsider.com/articles/24/05/02/google-paid-apple-20-billion-to-be-default-search-engine-in-2022?utm_medium=rss)
- - [The US CFTC appoints Ted Kaouk as its first chief AI officer; Kaouk currently serves as the regulator&#39;s chief data officer and director of its data division &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/240501/p43#a240501p43)
- - [Chromecast killer? Walmart’s leaked 4K box could be the ultimate streaming device](https://www.androidauthority.com/walmart-onn-4k-pro-leaked-3439009/)<!-- TECH:END -->
+ - [How to use Siri in CarPlay with or without your voice](https://appleinsider.com/inside/carplay/tips/how-to-use-siri-in-carplay-with-or-without-your-voice?utm_medium=rss)
+ - [Chennai-based CRM software maker Freshworks redesignates CEO Girish Mathrubootham as the executive chairman and names Dennis Woodside as his replacement &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/240501/p45#a240501p45)
+ - [Ethan Zuckerman sues to stop Meta from blocking his planned Unfollow Everything 2.0 extension that would let Facebook users effectively turn off their newsfeed &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240501/p44#a240501p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
