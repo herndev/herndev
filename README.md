@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - ⏩ [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)
- - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
+ - 💣 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
+ - ⏩ [At this stage, I think the majority feels like this](http://9gag.com/gag/aQzqggw)
+ - 👉 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)<!-- MEMES:END -->
 
 ---
 
