@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, You Can Play Tetris On The Side Of A 7-Eleven Slurpee Cup!](https://kotaku.com/tetris-7-eleven-slurpee-cup-1851451062)
- - [Hellblade 2, Paper Mario, and 17 Other Games To Get Excited For In May](https://kotaku.com/may-2024-games-coming-out-mario-braid-senua-1851450105)
- - [Take-Two will reportedly close OlliOlli and Kerbal Space Program studios](https://www.polygon.com/24147065/take-two-layoffs-roll7-intercept-games-closure)<!-- GAME:END -->
+ - [Free Play Days – Star Wars Jedi: Survivor and Headbangers: Rhythm Royale](https://news.xbox.com/en-us/2024/05/02/free-play-days-star-wars-jedi-survivor-and-headbangers-rhythm-royale/)
+ - [Not sure what movie to watch? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/5/2/24146259/best-movies-watch-tonight-best-recommendations-streaming)
+ - [Gray Zone Warfare delivers the odd hitch and stutter, but overall it&#39;s a reasonable Early Access ride](https://www.pcgamer.com/hardware/gray-zone-warfare-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
