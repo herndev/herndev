@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 just isn&#39;t enticing Windows 10 users to upgrade, and its market share is actually falling](https://www.pcgamer.com/software/windows/windows-11-just-isnt-enticing-windows-10-users-to-upgrade-and-its-market-share-is-actually-falling)
- - [Today&#39;s Wordle answer for Thursday, May 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-2-2024)
- - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/games/pc-release-dates-may-2024)<!-- GAME:END -->
+ - [Manor Lords publisher says the game&#39;s success has gone &#39;well beyond what we could have hoped&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-publisher-says-the-games-success-has-gone-well-beyond-what-we-could-have-hoped)
+ - [Best BAL-27 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24147028/best-bal-27-loadout-class-build-mw3)
+ - [The best Modern Warfare 3 guns to use in Season 3 Reloaded](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
