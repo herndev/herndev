@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [XDefiant finally has a release date, and it&#39;s just a couple weeks from now](https://www.pcgamer.com/games/fps/xdefiant-finally-has-a-release-date-and-its-just-a-couple-weeks-from-now)
- - [Here’s everything changing in Diablo 4 with Loot Reborn](https://www.polygon.com/24147550/diablo-4-d4-season-loot-reborn-patch-notes)
- - [Blizzard snuck in surprise quality of life changes into Diablo 4&#39;s massive list of season 4 patch notes](https://www.pcgamer.com/games/rpg/blizzard-snuck-in-surprise-quality-of-life-changes-into-diablo-4s-massive-list-of-season-4-patch-notes)<!-- GAME:END -->
+ - [Xbox Game Pass’ May lineup has cute kitty cats and Tomb Raider](https://www.polygon.com/24147605/xbox-game-pass-may-2024-free-games-tomb-raider)
+ - [After two long years in early access, my favorite indie Elder Scrolls-alike is getting its full release⁠—and it&#39;ll let you fly around in your own airship](https://www.pcgamer.com/games/rpg/after-two-long-years-in-early-access-my-favorite-indie-elder-scrolls-alike-is-getting-its-full-releaseand-itll-let-you-fly-around-in-your-own-airship)
+ - [XDefiant finally has a release date, and it&#39;s just a couple weeks from now](https://www.pcgamer.com/games/fps/xdefiant-finally-has-a-release-date-and-its-just-a-couple-weeks-from-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
