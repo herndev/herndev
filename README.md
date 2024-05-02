@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte G6X &lpar;2024&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-g6x-2024-review)
- - [Baldur&#39;s Gate 3 initially had an entire mechanic where you&#39;d go to the fugue plane if you died, but it was scrapped](https://www.pcgamer.com/games/rpg/baldurs-gate-3-initially-had-an-entire-mechanic-where-youd-go-to-the-fugue-plane-if-you-died-but-it-was-scrapped)
- - [Bethesda should just say &#39;screw it&#39;, move on from Starfield, and put all that energy into Fallout](https://www.pcgamer.com/games/rpg/bethesda-should-just-say-screw-it-move-on-from-starfield-and-put-all-that-energy-into-fallout)<!-- GAME:END -->
+ - [The Outer Worlds once had an incredible secret ending that was cut for pushing the limits of &#39;too horny&#39;](https://www.pcgamer.com/games/rpg/the-outer-worlds-once-had-an-incredible-secret-ending-that-was-cut-for-pushing-the-limits-of-too-horny)
+ - [How To Defeat Leviathan In Final Fantasy 16: The Rising Tide](https://kotaku.com/how-to-defeat-leviathan-in-final-fantasy-16-the-rising-1851452233)
+ - [Realistic Extraction Shooter Blowing Up On Steam, 400k Copies Sold In 48 Hours](https://kotaku.com/what-is-grey-zone-warfare-gzw-fps-realistic-pc-1851452212)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
