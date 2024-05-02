@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - ⏩ [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
- - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
+ - 💣 [What do you think of?](http://9gag.com/gag/aVvOZLd)
+ - ⏩ [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
+ - 👉 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)<!-- MEMES:END -->
 
 ---
 
