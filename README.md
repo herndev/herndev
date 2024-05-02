@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you think of?](http://9gag.com/gag/aVvOZLd)
- - ⏩ [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
- - 👉 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)<!-- MEMES:END -->
+ - 💣 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
+ - ⏩ [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
+ - 👉 [Race](http://9gag.com/gag/abA5x6p)<!-- MEMES:END -->
 
 ---
 
