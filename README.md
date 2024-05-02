@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
- - ⏩ [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
- - 👉 [Oopsie](http://9gag.com/gag/azxbdzp)<!-- MEMES:END -->
+ - 💣 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - ⏩ [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---
 
