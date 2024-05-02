@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of US District Court judge Amit P. Mehta, who is presiding over the US v. Google case, which could set a precedent for other US tech antitrust cases &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240502/p14#a240502p14)
- - [A look at Ukraine&#39;s combat drone startup industry, based on commercial first-person-view or photography drones; an estimated ~200 local companies produce drones &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240502/p13#a240502p13)
- - [Apple Watch is FDA&#39;s first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device?utm_medium=rss)<!-- TECH:END -->
+ - [Rabbit R1 isn&#39;t an iPhone killer, because its AI can run on Apple hardware](https://appleinsider.com/articles/24/05/02/rabbit-r1-isnt-an-iphone-killer-because-its-ai-can-run-on-apple-hardware?utm_medium=rss)
+ - [Starlink users in some unauthorized regions can seemingly still use the internet, despite SpaceX telling users the service would be unavailable to them by May 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p17#a240502p17)
+ - [Tech Transparency Project: US extremist militias are quietly coordinating across ~200 Facebook groups and profiles, after lying low since the January 6 riot &lpar;Tess Owen/Wired&rpar;](http://www.techmeme.com/240502/p16#a240502p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
