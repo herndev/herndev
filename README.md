@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
- - ⏩ [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
- - 👉 [Race](http://9gag.com/gag/abA5x6p)<!-- MEMES:END -->
+ - 💣 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
+ - ⏩ [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
+ - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---
 
