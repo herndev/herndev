@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outer Worlds once had an incredible secret ending that was cut for pushing the limits of &#39;too horny&#39;](https://www.pcgamer.com/games/rpg/the-outer-worlds-once-had-an-incredible-secret-ending-that-was-cut-for-pushing-the-limits-of-too-horny)
- - [How To Defeat Leviathan In Final Fantasy 16: The Rising Tide](https://kotaku.com/how-to-defeat-leviathan-in-final-fantasy-16-the-rising-1851452233)
- - [Realistic Extraction Shooter Blowing Up On Steam, 400k Copies Sold In 48 Hours](https://kotaku.com/what-is-grey-zone-warfare-gzw-fps-realistic-pc-1851452212)<!-- GAME:END -->
+ - [Where To Find The Extremely Powerful Valve Shell In Another Crab’s Treasure](https://kotaku.com/another-crabs-treasure-valve-best-shell-1851452600)
+ - [Halo’s Joseph Morgan On The Flaws Of Season 1](https://kotaku.com/halo-tv-series-paramount-plus-season-2-joseph-morgan-1851452597)
+ - [10 Years Later, Alien: Isolation Still Looks Incredible](https://kotaku.com/alien-isolation-10-year-art-design-original-film-1851452422)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
