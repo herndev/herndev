@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
- - ⏩ [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
- - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
+ - 💣 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)
+ - ⏩ [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
+ - 👉 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)<!-- MEMES:END -->
 
 ---
 
