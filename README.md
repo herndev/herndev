@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rabbit R1 review: $199 is the right price, fun design, and a good mic, but the best features are all MIA, finicky and slow, and using a phone is better &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240502/p29#a240502p29)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Microsoft made the biggest renewable energy agreement ever to fuel its AI ambitions](https://www.theverge.com/2024/5/2/24147153/microsoft-ai-data-center-record-renewable-energy-purchase)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [FDA qualifies Apple Watch’s AFib history for use in clinical studies](https://www.theverge.com/2024/5/2/24147178/fda-apple-watch-mddt-qualification-afib-history)
+ - [[Thread] California state Sen. Scott Wiener defends his AI safety bill SB 1047, after criticism that it will &quot;crush OpenAI&#39;s competitors&quot; and open-source AI &lpar;Senator Scott Wiener/@scott_wiener&rpar;](http://www.techmeme.com/240502/p30#a240502p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
