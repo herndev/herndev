@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - ⏩ [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 👉 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)<!-- MEMES:END -->
+ - 💣 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
+ - ⏩ [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 👉 [Oopsie](http://9gag.com/gag/azxbdzp)<!-- MEMES:END -->
 
 ---
 
