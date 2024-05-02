@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [How to use Siri in CarPlay with or without your voice](https://appleinsider.com/inside/carplay/tips/how-to-use-siri-in-carplay-with-or-without-your-voice?utm_medium=rss)
- - [Chennai-based CRM software maker Freshworks redesignates CEO Girish Mathrubootham as the executive chairman and names Dennis Woodside as his replacement &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/240501/p45#a240501p45)
- - [Ethan Zuckerman sues to stop Meta from blocking his planned Unfollow Everything 2.0 extension that would let Facebook users effectively turn off their newsfeed &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240501/p44#a240501p44)<!-- TECH:END -->
+ - [Best Wi-Fi Wireless Speaker of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)
+ - [Chennai-based CRM software maker Freshworks redesignates CEO Girish Mathrubootham as the executive chairman and names Dennis Woodside as his replacement &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/240501/p45#a240501p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
