@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [X-Men ‘97’s Eighth Episode Is A Rocky Beginning To The Season&#39;s End](https://kotaku.com/x-men-97-episode-8-disney-plus-review-magneto-was-right-1851451871)
- - [Cyberpunk 2077 dev says they went all-out on the memorial to Johnny Silverhand&#39;s nuclear attack, then found out bosses &#39;just expected a commemorative plaque&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2077-developer-says-they-went-all-out-on-the-in-game-memorial-to-johnny-silverhands-nuclear-attack-then-found-out-bosses-just-expected-a-commemorative-plaque)
- - [GTA Online update for the week of May 2](https://www.polygon.com/gta-online-guides/2024/5/2/24147193/may-2-weekly-update-release-time-events-san-andreas-prix)<!-- GAME:END -->
+ - [Gigabyte G6X &lpar;2024&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-g6x-2024-review)
+ - [Baldur&#39;s Gate 3 initially had an entire mechanic where you&#39;d go to the fugue plane if you died, but it was scrapped](https://www.pcgamer.com/games/rpg/baldurs-gate-3-initially-had-an-entire-mechanic-where-youd-go-to-the-fugue-plane-if-you-died-but-it-was-scrapped)
+ - [Bethesda should just say &#39;screw it&#39;, move on from Starfield, and put all that energy into Fallout](https://www.pcgamer.com/games/rpg/bethesda-should-just-say-screw-it-move-on-from-starfield-and-put-all-that-energy-into-fallout)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
