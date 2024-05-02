@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google paid Apple $20 Billion to be default search engine in 2022](https://appleinsider.com/articles/24/05/02/google-paid-apple-20-billion-to-be-default-search-engine-in-2022?utm_medium=rss)
  - [The US CFTC appoints Ted Kaouk as its first chief AI officer; Kaouk currently serves as the regulator&#39;s chief data officer and director of its data division &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/240501/p43#a240501p43)
- - [Chromecast killer? Walmart’s leaked 4K box could be the ultimate streaming device](https://www.androidauthority.com/walmart-onn-4k-pro-leaked-3439009/)
- - [An NLRB judge finds Amazon CEO Andy Jassy violated US labor law with his comments in 2022 suggesting workers would be &quot;less empowered&quot; if they voted in a union &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240501/p42#a240501p42)<!-- TECH:END -->
+ - [Chromecast killer? Walmart’s leaked 4K box could be the ultimate streaming device](https://www.androidauthority.com/walmart-onn-4k-pro-leaked-3439009/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
