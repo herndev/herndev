@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia makes it easier to get GeForce Now running on the Steam Deck](https://www.theverge.com/2024/5/2/24147034/nvidia-geforce-now-steam-deck-script-install)
- - [Bose’s new SoundLink Max has a little handle and big sound](https://www.theverge.com/2024/5/2/24146865/bose-soundlink-max-bluetooth-speaker-features)
- - [Sony plans to remove Horizon Zero Dawn, one of its biggest first-party games, from PlayStation Plus on May 21; the game is PS4-only, hinting at a PS5 release &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/240502/p21#a240502p21)<!-- TECH:END -->
+ - [Microsoft launches passkey support for all consumer accounts](https://www.theverge.com/2024/5/2/24147124/microsoft-passkeys-support-consumer-msa)
+ - [LA-based wealth management startup Altruist, whose software and app help with trading and more, raised a $169M Series E led by Iconiq at a $1.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240502/p22#a240502p22)
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
