@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - ⏩ [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)
- - 👉 [Streaming pirate existence!](http://9gag.com/gag/an7YvX0)<!-- MEMES:END -->
+ - 💣 [If not fren why fren shape](http://9gag.com/gag/a6ZwXxR)
+ - ⏩ [She does though](http://9gag.com/gag/apRq3e9)
+ - 👉 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)<!-- MEMES:END -->
 
 ---
 
