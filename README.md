@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says Apple has &quot;big plans to announce&quot; from an &quot;AI point of view&quot; during its May 7 event, where new iPads are expected, and at WWDC in June &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240502/p42#a240502p42)
- - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [Apple blows away Wall Street earnings guesses, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft says it did a lot for responsible AI in inaugural transparency report](https://www.theverge.com/2024/5/2/24147573/microsoft-ai-transparency-responsible-ignore-mario)
+ - [Apple Watch&#39;s AFib history feature gets FDA approval for use in clinical studies, the first digital health tech qualified under FDA&#39;s MDDT program &lpar;Sudz Niel Kar/MyHealthyApple&rpar;](http://www.techmeme.com/240502/p44#a240502p44)
+ - [Apple charms investors with record $110B stock buyback, dividend hike](https://appleinsider.com/articles/24/05/02/apple-trying-to-charm-investors-with-biggest-stock-buyback-yet-increased-dividend?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
