@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Y u internet](http://9gag.com/gag/an7YOEn)
- - ⏩ [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
- - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
+ - 💣 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
+ - ⏩ [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
+ - 👉 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)<!-- MEMES:END -->
 
 ---
 
