@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of The Best Star Wars Games Is Free To Try On Xbox Right Now](https://kotaku.com/star-wars-jedi-survivor-xbox-game-pass-free-play-days-1851454693)
- - [Where to find Darth Vader and Chewbacca in Fortnite’s Star Wars update](https://www.polygon.com/fortnite-guide/24147999/darth-vader-chewbacca-location-imperial-roadblock-stormtroopers-star-wars)
- - [Modder adds the one thing Skyrim has always been missing: Crippling psychological stress](https://www.pcgamer.com/games/the-elder-scrolls/modder-adds-the-one-thing-skyrim-has-always-been-missing-crippling-psychological-stress)<!-- GAME:END -->
+ - [Hades is on sale for its lowest price ever? Hell yes!](https://www.polygon.com/deals/24148083/hades-steam-supergiant-gaming-deal-sale)
+ - [Outrage: They Censored Johnny&#39;s Ass In Metal Gear Solid](https://kotaku.com/metal-gear-solid-master-collection-censored-1851454927)
+ - [You’ll Finally Be Able To Play This Castlevania Spiritual Successor With Friends](https://kotaku.com/bloodstained-ritual-of-the-night-last-update-chaos-mode-1851454843)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
