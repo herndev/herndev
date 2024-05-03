@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have a similar experience](http://9gag.com/gag/a6Zw2dm)
- - ⏩ [What do you think of?](http://9gag.com/gag/aVvOZLd)
- - 👉 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)<!-- MEMES:END -->
+ - 💣 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
+ - ⏩ [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
+ - 👉 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)<!-- MEMES:END -->
 
 ---
 
