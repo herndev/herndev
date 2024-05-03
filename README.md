@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally, thanks to AI, we can understand speed in super-retarded units.](http://9gag.com/gag/aE0wWqx)
- - ⏩ [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 👉 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)<!-- MEMES:END -->
+ - 💣 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - ⏩ [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 👉 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)<!-- MEMES:END -->
 
 ---
 
