@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Is this the beginning of the Wokeistan?](http://9gag.com/gag/a1mALpb)
- - ⏩ [They keep doing it](http://9gag.com/gag/aqymWYP)
- - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
+ - ⏩ [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 👉 [The newest McDonalds location](http://9gag.com/gag/aVvOEyK)<!-- MEMES:END -->
 
 ---
 
