@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s Supercharger layoffs couldn’t have come at a worse time](https://www.theverge.com/2024/5/3/24147402/tesla-supercharger-layoffs-stalled-ev-infrastructure-projects)
- - [Automakers Want AM Radios Out of Cars. Congress Is About to Require Them](https://www.wired.com/story/am-radio-cars-law-requires/)
- - [Helldivers 2 will require Steam players to link to a PSN account](https://www.theverge.com/2024/5/3/24148144/helldivers-2-steam-psn-account-link-review-bombing)<!-- TECH:END -->
+ - [Elon Musk says he wants Grok to create news summaries by relying solely on X posts, without looking at article text, and improved story citations are coming &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240503/p16#a240503p16)
+ - [Fingers crossed: Spotify might actually launch lossless audio in 2024](https://appleinsider.com/articles/24/05/03/fingers-crossed-spotify-might-actually-launch-lossless-audio-in-2024?utm_medium=rss)
+ - [iPhone 15 Find My shows Mandalorians the way in latest Apple ad](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
