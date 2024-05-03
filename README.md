@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Features and Improvements for Starfield Coming Soon](https://bethesda.net/en/article/6WtjA0qCOiOWiPrCwDFjDt/starfield-may-update-highlights#new_tab)
  - [Xbox Game Pass’ May lineup has cute kitty cats and Tomb Raider](https://www.polygon.com/24147605/xbox-game-pass-may-2024-free-games-tomb-raider)
- - [After two long years in early access, my favorite indie Elder Scrolls-alike is getting its full release⁠—and it&#39;ll let you fly around in your own airship](https://www.pcgamer.com/games/rpg/after-two-long-years-in-early-access-my-favorite-indie-elder-scrolls-alike-is-getting-its-full-releaseand-itll-let-you-fly-around-in-your-own-airship)
- - [XDefiant finally has a release date, and it&#39;s just a couple weeks from now](https://www.pcgamer.com/games/fps/xdefiant-finally-has-a-release-date-and-its-just-a-couple-weeks-from-now)<!-- GAME:END -->
+ - [After two long years in early access, my favorite indie Elder Scrolls-alike is getting its full release⁠—and it&#39;ll let you fly around in your own airship](https://www.pcgamer.com/games/rpg/after-two-long-years-in-early-access-my-favorite-indie-elder-scrolls-alike-is-getting-its-full-releaseand-itll-let-you-fly-around-in-your-own-airship)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
