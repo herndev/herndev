@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Estonian ride-hailing and scooter rentals startup Bolt Technology secures a &amp;euro;220M credit facility which it believes will help prepare the company for an IPO &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240503/p6#a240503p6)
- - [Filing: Google pushes back on Epic&#39;s demands following its antitrust win, says the proposed remedies are &quot;unnecessary&quot; and &quot;far beyond the scope&quot; of the verdict &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240503/p5#a240503p5)
- - [iPadOS will support third-party app stores in the EU later this year](https://www.androidauthority.com/ipados-third-party-app-stores-this-year-3439503/)<!-- TECH:END -->
+ - [A committee of UK legislators says the government&#39;s reticence to address alleged copyright theft is a &quot;de facto endorsement&quot; of the way tech firms build LLMs &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240503/p7#a240503p7)
+ - [Sony’s Pixel 8a rival could pack a 3.5mm port and front-facing speakers](https://www.androidauthority.com/sony-xperia-10-vi-renders-leak-3439521/)
+ - [Everything You Need to Know About Hybrid Cars](https://www.wired.com/story/everything-you-need-to-know-about-hybrid-cars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
