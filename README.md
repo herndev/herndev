@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A committee of UK legislators says the government&#39;s reticence to address alleged copyright theft is a &quot;de facto endorsement&quot; of the way tech firms build LLMs &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240503/p7#a240503p7)
- - [Sony’s Pixel 8a rival could pack a 3.5mm port and front-facing speakers](https://www.androidauthority.com/sony-xperia-10-vi-renders-leak-3439521/)
- - [Everything You Need to Know About Hybrid Cars](https://www.wired.com/story/everything-you-need-to-know-about-hybrid-cars/)<!-- TECH:END -->
+ - [How to run Meta’s Llama 3 on your PC](https://www.androidauthority.com/how-to-run-llama-3-on-pc-3439544/)
+ - [Most of you think 128GB storage is not enough for 2024 flagships](https://www.androidauthority.com/poll-results-128gb-storage-not-enough-2024-flagships-3439496/)
+ - [Germany says it found evidence that Russian state-backed hacker Fancy Bear was behind a cyberattack in 2023 that took down several German government websites &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/240503/p8#a240503p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
