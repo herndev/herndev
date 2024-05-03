@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says half of the Fortune 100 companies have purchased Apple Vision Pro units &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240503/p1#a240503p1)
- - [Mimic, which helps businesses detect, deflect, and quickly recover from ransomware attacks, emerges from stealth with a $27M seed led by Ballistic Ventures &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/240502/p52#a240502p52)
- - [Student Loan Forgiveness: Here’s What to Do if You Missed the Loan Consolidation Deadline     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-heres-what-to-do-if-you-missed-the-loan-consolidation-deadline/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Would you use a ChatGPT-based search engine?](https://www.androidauthority.com/chatgpt-search-poll-3439459/)
+ - [Sources: cloud security startup Wiz will not acquire competitor Lacework; the deal, which was valued at $150M-$200M, fell through during due diligence process &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240503/p3#a240503p3)
+ - [A look at four Chinese generative AI startups, Zhipu AI, Moonshot AI, MiniMax and 01.ai, which have been valued between $1.2B and $2.5B in the past three months &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240503/p2#a240503p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
