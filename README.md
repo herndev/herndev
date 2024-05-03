@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
- - ⏩ [Black queen](http://9gag.com/gag/arypqjB)
- - 👉 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)<!-- MEMES:END -->
+ - 💣 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - ⏩ [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 👉 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)<!-- MEMES:END -->
 
 ---
 
