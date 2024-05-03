@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SVB agrees to sell its VC arm SVB Capital, which manages ~$9.8B in assets, to a new entity backed by Brookfield and Sequoia Heritage for $340M in cash &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240503/p13#a240503p13)
- - [Morgan Stanley hikes Apple stock target after unexpectedly positive earnings](https://appleinsider.com/articles/24/05/03/morgan-stanley-hikes-apple-stock-target-after-unexpectedly-positive-earnings?utm_medium=rss)
- - [Read Satya Nadella’s Microsoft memo on putting security first](https://www.theverge.com/24148033/satya-nadella-microsoft-security-memo)<!-- TECH:END -->
+ - [The conspiracy theory behind Florida’s lab-grown meat ban](https://www.theverge.com/2024/5/3/24148099/florida-lab-grown-meat-ban-desantis)
+ - [YouTube is testing an AI tool to help creators brainstorm their next video](https://www.androidauthority.com/youtube-ai-content-idea-generation-tool-3439665/)
+ - [MagSafe could get a makeover in iPhone 16](https://appleinsider.com/articles/24/05/03/magsafe-could-get-a-makeover-in-iphone-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
