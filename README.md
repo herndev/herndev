@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Manor Lords wasn&#39;t made by a &#39;solo developer,&#39; argues competing city builder maker: &#39;The team size on it is maybe even larger than ours&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-solo-developer-perception)
- - [Senua&#39;s Saga: Hellblade 2 PC system requirements leave one big question unanswered](https://www.pcgamer.com/games/action/senuas-saga-hellblade-2-pc-system-requirements-leave-one-big-question-unanswered)
- - [How to get a lightsaber in Star Wars Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24148307/lightsaber-how-to-get-star-wars-rebel-outpost)<!-- GAME:END -->
+ - [Netflix’s Unfrosted, Turtles All The Way Down, and every new movie to watch at home this weekend](https://www.polygon.com/2024/5/3/24144250/new-movies-watch-unfrosted-netflix-turtles-all-the-way-down-prom-dates)
+ - [Gray Zone Warfare players can now change factions so they can team up with their friends](https://www.pcgamer.com/games/fps/gray-zone-warfare-players-can-now-change-factions-so-they-can-team-up-with-their-friends)
+ - [Don&#39;t say Manor Lords was made by a &#39;solo developer,&#39; argues competing city builder maker: &#39;The team size on it is maybe even larger than ours&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-solo-developer-perception)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
