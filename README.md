@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My man](http://9gag.com/gag/aD20OLO)
- - ⏩ [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 👉 [Black queen](http://9gag.com/gag/arypqjB)<!-- MEMES:END -->
+ - 💣 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - ⏩ [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
+ - 👉 [Being racist to your school gets you kicked out, shocker!](http://9gag.com/gag/apRqVmM)<!-- MEMES:END -->
 
 ---
 
