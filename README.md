@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VPN not working on your Windows PC? Blame Microsoft.](https://www.androidauthority.com/windows-update-break-vpn-3439458/)
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [Would you use a ChatGPT-based search engine?](https://www.androidauthority.com/chatgpt-search-poll-3439459/)<!-- TECH:END -->
+ - [Estonian ride-hailing and scooter rentals startup Bolt Technology secures a &amp;euro;220M credit facility which it believes will help prepare the company for an IPO &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240503/p6#a240503p6)
+ - [Filing: Google pushes back on Epic&#39;s demands following its antitrust win, says the proposed remedies are &quot;unnecessary&quot; and &quot;far beyond the scope&quot; of the verdict &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240503/p5#a240503p5)
+ - [iPadOS will support third-party app stores in the EU later this year](https://www.androidauthority.com/ipados-third-party-app-stores-this-year-3439503/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
