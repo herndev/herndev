@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Boss Says Sorry After Game Gets Review-Bombed To Hell](https://kotaku.com/helldivers-2-steam-reviews-apology-psn-login-1851455150)
- - [Helldivers 2 Community At War Over Controversial PSN Requirement](https://kotaku.com/helldivers-2-psn-steam-account-linking-explained-sony-1851455071)
- - [Baldur&#39;s Gate 3 once featured an even deeper co-op conversation system, but Swen Vincke said their &#39;dialogue trees blew up so hard, we just couldn&#39;t manage it&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-once-featured-an-even-deeper-co-op-conversation-system-but-swen-vincke-said-their-dialogue-trees-blew-up-so-hard-we-just-couldnt-manage-it)<!-- GAME:END -->
+ - [&#39;We have not confirmed any instance of Vanguard bricking anyone&#39;s hardware&#39; following its League of Legends rollout, Riot says, but there are definitely problems for some players](https://www.pcgamer.com/games/moba/we-have-not-confirmed-any-instance-of-vanguard-bricking-anyones-hardware-following-its-league-of-legends-rollout-riot-says-but-there-are-definitely-problems-for-some-players)
+ - [Another Crab’s Treasure Is Even Funnier If You Play It Like A Shooter](https://kotaku.com/another-grabs-treasure-funny-gun-1851455253)
+ - [&#39;Ouch, right in the review score&#39;: Arrowhead CEO reacts to Helldivers 2 review bombing, apologizes for PSN mandate communication](https://www.pcgamer.com/games/third-person-shooter/ouch-right-in-the-review-score-arrowhead-ceo-reacts-to-helldivers-2-review-bombing-apologizes-for-psn-mandate-communication)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
