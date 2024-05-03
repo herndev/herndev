@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m always extremely helpful](http://9gag.com/gag/ae9Nm75)
- - ⏩ [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
- - 👉 [A Muslim Imam in Pakistan treating diseases](http://9gag.com/gag/aqymzqp)<!-- MEMES:END -->
+ - 💣 [She found out](http://9gag.com/gag/avy0vqd)
+ - ⏩ [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 👉 [People agree! Start shipping those nose-pierced potatoes to the land of Ham-and-cheese and see how long they can survive without their trigger warnings.](http://9gag.com/gag/aD20VXG)<!-- MEMES:END -->
 
 ---
 
