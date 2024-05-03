@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Point-and-click horror Tales from Candleforth is the escape room equivalent of your childhood nightmares](https://www.pcgamer.com/games/horror/point-and-click-horror-tales-from-candleforth-is-the-escape-room-equivalent-of-your-childhood-nightmares)
- - [&#39;This is looking so good I can&#39;t NOT pay you&#39;: Fighting game YouTuber commissions modding &#39;god&#39; to overhaul Marvel vs Capcom: Infinite&#39;s artstyle](https://www.pcgamer.com/games/fighting/this-is-looking-so-good-i-cant-not-pay-you-fighting-game-youtuber-commissions-modding-maestro-to-overhaul-marvel-vs-capcom-infinites-artstyle)
- - [Following up &#39;one of the greatest RPGs of all time&#39; had Baldur&#39;s Gate 3 devs in a cold sweat: &#39;A great honour and a lot of pressure&#39;](https://www.pcgamer.com/games/baldurs-gate/following-up-one-of-the-greatest-rpgs-of-all-time-had-baldurs-gate-3-devs-in-a-cold-sweat-a-great-honour-and-a-lot-of-pressure)<!-- GAME:END -->
+ - [One step closer to a sci-fi reality—NASA announces funding for a quantum dot solar sail and a levitating train on the Moon](https://www.pcgamer.com/hardware/one-step-closer-to-a-sci-fi-realitynasa-announces-funding-for-a-quantum-dot-solar-sail-and-a-levitating-train-on-the-moon)
+ - [Sex scenes in movies are in rapid decline, despite rise in sex-scene discourse](https://www.polygon.com/24148035/sex-scenes-movies-2024-study)
+ - [Kevin Feige Told Deadpool &amp; Wolverine’s Hugh Jackman, ‘Don’t Come Back’](https://kotaku.com/deadpool-wolverine-kevin-feige-hugh-jackman-return-1851454319)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
