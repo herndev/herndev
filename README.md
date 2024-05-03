@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants you to use Find My on iPhone 15 to hunt down fellow Mandalorians](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)
- - [Microsoft overhaul treats security as ‘top priority’ after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)
- - [Biden grants automakers some flexibility on battery minerals in final EV tax credit rules](https://www.theverge.com/2024/5/3/24148003/ev-tax-credit-rule-battery-mineral-flexibility)<!-- TECH:END -->
+ - [SVB agrees to sell its VC arm SVB Capital, which manages ~$9.8B in assets, to a new entity backed by Brookfield and Sequoia Heritage for $340M in cash &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240503/p13#a240503p13)
+ - [Morgan Stanley hikes Apple stock target after unexpectedly positive earnings](https://appleinsider.com/articles/24/05/03/morgan-stanley-hikes-apple-stock-target-after-unexpectedly-positive-earnings?utm_medium=rss)
+ - [Read Satya Nadella’s Microsoft memo on putting security first](https://www.theverge.com/24148033/satya-nadella-microsoft-security-memo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
