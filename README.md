@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout: New Vegas director reveals that game balance is &#39;mostly vibes based&#39;, says he only used a weapons spreadsheet &#39;for maybe a couple of months&#39;](https://www.pcgamer.com/games/fallout/fallout-new-vegas-director-reveals-that-game-balance-is-mostly-vibes-based-says-he-only-used-a-weapons-spreadsheet-for-maybe-a-couple-of-months)
- - [AMD&#39;s CTO has written about 55 years of AMD innovation. And the most common topic is obviously &#39;AI&#39; despite not really saying much about &#39;AI&#39; for the previous 54 years](https://www.pcgamer.com/hardware/amds-cto-has-written-about-55-years-of-amd-innovation-and-the-most-common-topic-is-obviously-ai-despite-not-really-saying-much-about-ai-for-the-previous-54-years)
- - [This viral Chatroulette-style browser game challenges you to figure out if your partner is human or AI, and I keep failing](https://www.pcgamer.com/games/this-viral-chatroulette-style-browser-game-challenges-you-to-figure-out-if-your-partner-is-human-or-ai-and-i-keep-failing)<!-- GAME:END -->
+ - [More than half of Fortune 100 companies have bought Vision Pro units according to Apple. So it&#39;s sold at least 50 then](https://www.pcgamer.com/hardware/vr-hardware/more-than-half-of-fortune-100-companies-have-bought-vision-pro-units-according-to-apple-so-its-sold-at-least-50-then)
+ - [Seinfeld’s Netflix Pop-Tart movie embarrasses everyone](https://www.polygon.com/reviews/24147505/seinfeld-netflix-unfrosted-review)
+ - [Fallout: New Vegas director reveals that game balance is &#39;mostly vibes based&#39;, says he only used a weapons spreadsheet &#39;for maybe a couple of months&#39;](https://www.pcgamer.com/games/fallout/fallout-new-vegas-director-reveals-that-game-balance-is-mostly-vibes-based-says-he-only-used-a-weapons-spreadsheet-for-maybe-a-couple-of-months)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
