@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Endgame Gear OP1 8K wired gaming mouse review](https://www.pcgamer.com/hardware/gaming-mice/endgame-gear-op1-8k-wired-gaming-mouse-review)
  - [Today&#39;s Wordle answer for Friday, May 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-3-2024)
- - [Nintendo keeps playing DMCA whack-a-mole with Yuzu Switch emulator copies on Github, but it&#39;ll never be able to fully stamp them out](https://www.pcgamer.com/gaming-industry/nintendo-keeps-playing-dmca-whack-a-mole-with-yuzu-switch-emulator-copies-on-github-but-itll-never-be-able-to-fully-stamp-them-out)
- - [New Features and Improvements for Starfield Coming Soon](https://bethesda.net/en/article/6WtjA0qCOiOWiPrCwDFjDt/starfield-may-update-highlights#new_tab)<!-- GAME:END -->
+ - [Nintendo keeps playing DMCA whack-a-mole with Yuzu Switch emulator copies on Github, but it&#39;ll never be able to fully stamp them out](https://www.pcgamer.com/gaming-industry/nintendo-keeps-playing-dmca-whack-a-mole-with-yuzu-switch-emulator-copies-on-github-but-itll-never-be-able-to-fully-stamp-them-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
