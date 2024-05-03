@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - ⏩ [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 👉 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)<!-- MEMES:END -->
+ - 💣 [I\u2019m always extremely helpful](http://9gag.com/gag/ae9Nm75)
+ - ⏩ [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
+ - 👉 [A Muslim Imam in Pakistan treating diseases](http://9gag.com/gag/aqymzqp)<!-- MEMES:END -->
 
 ---
 
