@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo DMCA takedown wipes over 8,500 Yuzu emulator copies](https://www.theverge.com/2024/5/3/24147936/nintendo-dmca-takedown-yuzu-emulator-copies)
- - [Chrome OS 124 brings faster split screen, Wi-Fi QoS, Fast Pair for mice, and more](https://www.androidauthority.com/chrome-os-124-3439608/)
- - [15 Best Baby Gear &lpar;2024&rpar;: Diaper Bags, Baby Wraps, and Sound Machines](https://www.wired.com/gallery/best-baby-gear/)<!-- TECH:END -->
+ - [Apple wants you to use Find My on iPhone 15 to hunt down fellow Mandalorians](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)
+ - [Microsoft overhaul treats security as ‘top priority’ after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)
+ - [Biden grants automakers some flexibility on battery minerals in final EV tax credit rules](https://www.theverge.com/2024/5/3/24148003/ev-tax-credit-rule-battery-mineral-flexibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
