@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - ⏩ [If you know you know](http://9gag.com/gag/an7YrRL)
- - 👉 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)<!-- MEMES:END -->
+ - 💣 [My man](http://9gag.com/gag/aD20OLO)
+ - ⏩ [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 👉 [Black queen](http://9gag.com/gag/arypqjB)<!-- MEMES:END -->
 
 ---
 
