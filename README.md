@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 6 to 10](https://news.xbox.com/en-us/2024/05/03/next-week-on-xbox-new-games-for-may-6-to-10/)
- - [The 27 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Every Change Coming In Diablo IV&#39;s Massive Loot Reborn Seasonal Overhaul](https://kotaku.com/diablo-4-d4-loot-reborn-season-4-patch-notes-1851453998)<!-- GAME:END -->
+ - [Point-and-click horror Tales from Candleforth is the escape room equivalent of your childhood nightmares](https://www.pcgamer.com/games/horror/point-and-click-horror-tales-from-candleforth-is-the-escape-room-equivalent-of-your-childhood-nightmares)
+ - [&#39;This is looking so good I can&#39;t NOT pay you&#39;: Fighting game YouTuber commissions modding &#39;god&#39; to overhaul Marvel vs Capcom: Infinite&#39;s artstyle](https://www.pcgamer.com/games/fighting/this-is-looking-so-good-i-cant-not-pay-you-fighting-game-youtuber-commissions-modding-maestro-to-overhaul-marvel-vs-capcom-infinites-artstyle)
+ - [Following up &#39;one of the greatest RPGs of all time&#39; had Baldur&#39;s Gate 3 devs in a cold sweat: &#39;A great honour and a lot of pressure&#39;](https://www.pcgamer.com/games/baldurs-gate/following-up-one-of-the-greatest-rpgs-of-all-time-had-baldurs-gate-3-devs-in-a-cold-sweat-a-great-honour-and-a-lot-of-pressure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
