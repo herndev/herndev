@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Acting Labor Secretary Can&#39;t Answer If She&#39;s Ever Owned A Business](http://9gag.com/gag/aPAvXgV)
- - ⏩ [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 👉 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)<!-- MEMES:END -->
+ - 💣 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
+ - ⏩ [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 👉 [This guy... this guy is Livingstone the Dream.](http://9gag.com/gag/an7Y2mL)<!-- MEMES:END -->
 
 ---
 
