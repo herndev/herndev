@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would you use a ChatGPT-based search engine?](https://www.androidauthority.com/chatgpt-search-poll-3439459/)
- - [Sources: cloud security startup Wiz will not acquire competitor Lacework; the deal, which was valued at $150M-$200M, fell through during due diligence process &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240503/p3#a240503p3)
- - [A look at four Chinese generative AI startups, Zhipu AI, Moonshot AI, MiniMax and 01.ai, which have been valued between $1.2B and $2.5B in the past three months &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240503/p2#a240503p2)<!-- TECH:END -->
+ - [VPN not working on your Windows PC? Blame Microsoft.](https://www.androidauthority.com/windows-update-break-vpn-3439458/)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [Would you use a ChatGPT-based search engine?](https://www.androidauthority.com/chatgpt-search-poll-3439459/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
