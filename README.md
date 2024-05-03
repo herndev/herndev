@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
- - ⏩ [The newest McDonalds location](http://9gag.com/gag/aVvOEyK)
- - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
+ - 💣 [I have a similar experience](http://9gag.com/gag/a6Zw2dm)
+ - ⏩ [Would you rather be alone in the woods with a bear or a man?](http://9gag.com/gag/arypx80)
+ - 👉 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)<!-- MEMES:END -->
 
 ---
 
