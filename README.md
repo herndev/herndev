@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why You Should Play VR Missions Before Metal Gear Solid](https://kotaku.com/metal-gear-solid-mgs-sneaking-tips-vr-missions-1851455439)
- - [Even a boomer shooter freak like me can&#39;t keep up with them all anymore, but this one where you run around on the ceiling and shoot ray guns at Cthulhu guys woke me from a retro FPS stupor](https://www.pcgamer.com/games/fps/even-a-boomer-shooter-freak-like-me-cant-keep-up-with-them-all-anymore-but-this-one-where-you-run-around-on-the-ceiling-and-shoot-ray-guns-at-cthulhu-guys-woke-me-from-a-retro-fps-stupor)
- - [Fake Beaches Are Popping Up Online And You Can Blame Pokémon Go Players](https://kotaku.com/pokemon-go-wiglett-spawn-locations-fake-beach-coastal-1851455378)<!-- GAME:END -->
+ - [Manor Lords wasn&#39;t made by a &#39;solo developer,&#39; argues competing city builder maker: &#39;The team size on it is maybe even larger than ours&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-solo-developer-perception)
+ - [Senua&#39;s Saga: Hellblade 2 PC system requirements leave one big question unanswered](https://www.pcgamer.com/games/action/senuas-saga-hellblade-2-pc-system-requirements-leave-one-big-question-unanswered)
+ - [How to get a lightsaber in Star Wars Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24148307/lightsaber-how-to-get-star-wars-rebel-outpost)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
