@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One step closer to a sci-fi reality—NASA announces funding for a quantum dot solar sail and a levitating train on the Moon](https://www.pcgamer.com/hardware/one-step-closer-to-a-sci-fi-realitynasa-announces-funding-for-a-quantum-dot-solar-sail-and-a-levitating-train-on-the-moon)
- - [Sex scenes in movies are in rapid decline, despite rise in sex-scene discourse](https://www.polygon.com/24148035/sex-scenes-movies-2024-study)
- - [Kevin Feige Told Deadpool &amp; Wolverine’s Hugh Jackman, ‘Don’t Come Back’](https://kotaku.com/deadpool-wolverine-kevin-feige-hugh-jackman-return-1851454319)<!-- GAME:END -->
+ - [One Of The Best Star Wars Games Is Free To Try On Xbox Right Now](https://kotaku.com/star-wars-jedi-survivor-xbox-game-pass-free-play-days-1851454693)
+ - [Where to find Darth Vader and Chewbacca in Fortnite’s Star Wars update](https://www.polygon.com/fortnite-guide/24147999/darth-vader-chewbacca-location-imperial-roadblock-stormtroopers-star-wars)
+ - [Modder adds the one thing Skyrim has always been missing: Crippling psychological stress](https://www.pcgamer.com/games/the-elder-scrolls/modder-adds-the-one-thing-skyrim-has-always-been-missing-crippling-psychological-stress)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
