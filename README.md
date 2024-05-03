@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
- - ⏩ [RUN, B*TCH, RUUUN!!!](http://9gag.com/gag/a1mALNw)
- - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
+ - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - ⏩ [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 👉 [Black queen](http://9gag.com/gag/arypqjB)<!-- MEMES:END -->
 
 ---
 
