@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says he wants Grok to create news summaries by relying solely on X posts, without looking at article text, and improved story citations are coming &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240503/p16#a240503p16)
- - [Fingers crossed: Spotify might actually launch lossless audio in 2024](https://appleinsider.com/articles/24/05/03/fingers-crossed-spotify-might-actually-launch-lossless-audio-in-2024?utm_medium=rss)
- - [iPhone 15 Find My shows Mandalorians the way in latest Apple ad](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)<!-- TECH:END -->
+ - [More details emerge about Apple’s plans for AI in iOS 18](https://www.theverge.com/2024/5/3/24148282/apple-ai-iphone-ios-18-plans-ajax)
+ - [DoorDash won’t let you tip NYC drivers without the app](https://www.theverge.com/2024/5/3/24148152/doordash-drivers-nyc-tipping-minimum-wage)
+ - [Sony Xperia 1 VI and Xperia 10 VI leaked in high-quality images](https://www.androidauthority.com/sony-xperia-leak-3439695/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
