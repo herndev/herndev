@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to run Meta’s Llama 3 on your PC](https://www.androidauthority.com/how-to-run-llama-3-on-pc-3439544/)
- - [Most of you think 128GB storage is not enough for 2024 flagships](https://www.androidauthority.com/poll-results-128gb-storage-not-enough-2024-flagships-3439496/)
- - [Germany says it found evidence that Russian state-backed hacker Fancy Bear was behind a cyberattack in 2023 that took down several German government websites &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/240503/p8#a240503p8)<!-- TECH:END -->
+ - [Siri for iOS 18 to gain massive AI upgrade via Apple&#39;s Ajax LLM](https://appleinsider.com/articles/24/05/03/siri-for-ios-18-to-gain-massive-ai-upgrade-via-apples-ajax-llm?utm_medium=rss)
+ - [Sources: Bill Gates remains intimately involved in Microsoft&#39;s operations, advising on strategy, nurturing Microsoft&#39;s relationship with Sam Altman, and more &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240503/p9#a240503p9)
+ - [Not so fast: Galaxy S22’s One UI 6.1 update halted due to a bug](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-6-1-update-halted-3439594/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
