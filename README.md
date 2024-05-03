@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)
- - ⏩ [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 👉 [Kids on the streets of England perform for the camera 123 years ago in 1901](http://9gag.com/gag/axyNb1Y)<!-- MEMES:END -->
+ - 💣 [Is this the beginning of the Wokeistan?](http://9gag.com/gag/a1mALpb)
+ - ⏩ [They keep doing it](http://9gag.com/gag/aqymWYP)
+ - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---
 
