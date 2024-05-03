@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People agree! Start shipping those nose-pierced potatoes to the land of Ham-and-cheese and see how long they can survive without their trigger warnings.](http://9gag.com/gag/aD20VXG)
- - ⏩ [Black queen](http://9gag.com/gag/arypqjB)
- - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
+ - 💣 [Finally, thanks to AI, we can understand speed in super-retarded units.](http://9gag.com/gag/aE0wWqx)
+ - ⏩ [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 👉 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)<!-- MEMES:END -->
 
 ---
 
