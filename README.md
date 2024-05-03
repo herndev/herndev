@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - ⏩ [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 👉 [Black queen](http://9gag.com/gag/arypqjB)<!-- MEMES:END -->
+ - 💣 [She found out](http://9gag.com/gag/avy0vqd)
+ - ⏩ [Some are suddenly ashamed of protesting and hiding face after their face diapers are removed](http://9gag.com/gag/aKGzY11)
+ - 👉 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)<!-- MEMES:END -->
 
 ---
 
