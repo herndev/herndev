@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
- - ⏩ [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
- - 👉 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)<!-- MEMES:END -->
+ - 💣 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)
+ - ⏩ [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 👉 [Kids on the streets of England perform for the camera 123 years ago in 1901](http://9gag.com/gag/axyNb1Y)<!-- MEMES:END -->
 
 ---
 
