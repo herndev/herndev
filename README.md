@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
- - ⏩ [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
+ - ⏩ [RUN, B*TCH, RUUUN!!!](http://9gag.com/gag/a1mALNw)
  - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
 
 ---
