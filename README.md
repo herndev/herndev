@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The conspiracy theory behind Florida’s lab-grown meat ban](https://www.theverge.com/2024/5/3/24148099/florida-lab-grown-meat-ban-desantis)
- - [YouTube is testing an AI tool to help creators brainstorm their next video](https://www.androidauthority.com/youtube-ai-content-idea-generation-tool-3439665/)
- - [MagSafe could get a makeover in iPhone 16](https://appleinsider.com/articles/24/05/03/magsafe-could-get-a-makeover-in-iphone-16?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla’s Supercharger layoffs couldn’t have come at a worse time](https://www.theverge.com/2024/5/3/24147402/tesla-supercharger-layoffs-stalled-ev-infrastructure-projects)
+ - [Automakers Want AM Radios Out of Cars. Congress Is About to Require Them](https://www.wired.com/story/am-radio-cars-law-requires/)
+ - [Helldivers 2 will require Steam players to link to a PSN account](https://www.theverge.com/2024/5/3/24148144/helldivers-2-steam-psn-account-link-review-bombing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
