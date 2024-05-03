@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Sensational $497 price drop on the Pixel 7 Pro](https://www.androidauthority.com/deal-pixel-7-pro-3439425/)
- - [Ryûsuke Hamaguchi wants you to watch his new movie at least twice](https://www.theverge.com/24141455/evil-does-not-exist-ryusuke-hamaguchi-interview)
- - [Crave Tease Review: Not Jewelry, Barely a Vibrator](https://www.wired.com/review/crave-tease/)<!-- TECH:END -->
+ - [Nintendo DMCA takedown wipes over 8,500 Yuzu emulator copies](https://www.theverge.com/2024/5/3/24147936/nintendo-dmca-takedown-yuzu-emulator-copies)
+ - [Chrome OS 124 brings faster split screen, Wi-Fi QoS, Fast Pair for mice, and more](https://www.androidauthority.com/chrome-os-124-3439608/)
+ - [15 Best Baby Gear &lpar;2024&rpar;: Diaper Bags, Baby Wraps, and Sound Machines](https://www.wired.com/gallery/best-baby-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
