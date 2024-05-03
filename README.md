@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Endgame Gear OP1 8K wired gaming mouse review](https://www.pcgamer.com/hardware/gaming-mice/endgame-gear-op1-8k-wired-gaming-mouse-review)
- - [Today&#39;s Wordle answer for Friday, May 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-3-2024)
- - [Nintendo keeps playing DMCA whack-a-mole with Yuzu Switch emulator copies on Github, but it&#39;ll never be able to fully stamp them out](https://www.pcgamer.com/gaming-industry/nintendo-keeps-playing-dmca-whack-a-mole-with-yuzu-switch-emulator-copies-on-github-but-itll-never-be-able-to-fully-stamp-them-out)<!-- GAME:END -->
+ - [The first official AI PCs are just about to land but they&#39;re not what you&#39;re expecting](https://www.pcgamer.com/hardware/the-first-official-ai-pcs-are-just-about-to-land-but-theyre-not-what-youre-expecting)
+ - [How to get a Master Ball in Pokémon Go, and when is it best to use one?](https://www.polygon.com/pokemon-go-guide/23732462/master-ball-research-unlock-use-miss)
+ - [There&#39;s still time to bid on this decommissioned petaflop supercomputer including 8,064 Intel Xeon CPUs but no cables—local collection only](https://www.pcgamer.com/hardware/theres-still-time-to-bid-on-this-decommissioned-petaflop-supercomputer-including-8064-intel-xeon-cpus-but-no-cableslocal-collection-only)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
