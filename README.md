@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
- - ⏩ [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 👉 [People agree! Start shipping those nose-pierced potatoes to the land of Ham-and-cheese and see how long they can survive without their trigger warnings.](http://9gag.com/gag/aD20VXG)<!-- MEMES:END -->
+ - 💣 [People agree! Start shipping those nose-pierced potatoes to the land of Ham-and-cheese and see how long they can survive without their trigger warnings.](http://9gag.com/gag/aD20VXG)
+ - ⏩ [Black queen](http://9gag.com/gag/arypqjB)
+ - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
 
 ---
 
