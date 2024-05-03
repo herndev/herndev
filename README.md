@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We have not confirmed any instance of Vanguard bricking anyone&#39;s hardware&#39; following its League of Legends rollout, Riot says, but there are definitely problems for some players](https://www.pcgamer.com/games/moba/we-have-not-confirmed-any-instance-of-vanguard-bricking-anyones-hardware-following-its-league-of-legends-rollout-riot-says-but-there-are-definitely-problems-for-some-players)
- - [Another Crab’s Treasure Is Even Funnier If You Play It Like A Shooter](https://kotaku.com/another-grabs-treasure-funny-gun-1851455253)
- - [&#39;Ouch, right in the review score&#39;: Arrowhead CEO reacts to Helldivers 2 review bombing, apologizes for PSN mandate communication](https://www.pcgamer.com/games/third-person-shooter/ouch-right-in-the-review-score-arrowhead-ceo-reacts-to-helldivers-2-review-bombing-apologizes-for-psn-mandate-communication)<!-- GAME:END -->
+ - [Why You Should Play VR Missions Before Metal Gear Solid](https://kotaku.com/metal-gear-solid-mgs-sneaking-tips-vr-missions-1851455439)
+ - [Even a boomer shooter freak like me can&#39;t keep up with them all anymore, but this one where you run around on the ceiling and shoot ray guns at Cthulhu guys woke me from a retro FPS stupor](https://www.pcgamer.com/games/fps/even-a-boomer-shooter-freak-like-me-cant-keep-up-with-them-all-anymore-but-this-one-where-you-run-around-on-the-ceiling-and-shoot-ray-guns-at-cthulhu-guys-woke-me-from-a-retro-fps-stupor)
+ - [Fake Beaches Are Popping Up Online And You Can Blame Pokémon Go Players](https://kotaku.com/pokemon-go-wiglett-spawn-locations-fake-beach-coastal-1851455378)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
