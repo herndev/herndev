@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
- - ⏩ [I knew it!](http://9gag.com/gag/apRq6GD)
- - 👉 [This guy... this guy is Livingstone the Dream.](http://9gag.com/gag/an7Y2mL)<!-- MEMES:END -->
+ - 💣 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
+ - ⏩ [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
+ - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
 
 ---
 
