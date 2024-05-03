@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades is on sale for its lowest price ever? Hell yes!](https://www.polygon.com/deals/24148083/hades-steam-supergiant-gaming-deal-sale)
- - [Outrage: They Censored Johnny&#39;s Ass In Metal Gear Solid](https://kotaku.com/metal-gear-solid-master-collection-censored-1851454927)
- - [You’ll Finally Be Able To Play This Castlevania Spiritual Successor With Friends](https://kotaku.com/bloodstained-ritual-of-the-night-last-update-chaos-mode-1851454843)<!-- GAME:END -->
+ - [Helldivers 2 Boss Says Sorry After Game Gets Review-Bombed To Hell](https://kotaku.com/helldivers-2-steam-reviews-apology-psn-login-1851455150)
+ - [Helldivers 2 Community At War Over Controversial PSN Requirement](https://kotaku.com/helldivers-2-psn-steam-account-linking-explained-sony-1851455071)
+ - [Baldur&#39;s Gate 3 once featured an even deeper co-op conversation system, but Swen Vincke said their &#39;dialogue trees blew up so hard, we just couldn&#39;t manage it&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-once-featured-an-even-deeper-co-op-conversation-system-but-swen-vincke-said-their-dialogue-trees-blew-up-so-hard-we-just-couldnt-manage-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
