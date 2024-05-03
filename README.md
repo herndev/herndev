@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She found out](http://9gag.com/gag/avy0vqd)
- - ⏩ [Some are suddenly ashamed of protesting and hiding face after their face diapers are removed](http://9gag.com/gag/aKGzY11)
- - 👉 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)<!-- MEMES:END -->
+ - 💣 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
+ - ⏩ [Black queen](http://9gag.com/gag/arypqjB)
+ - 👉 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)<!-- MEMES:END -->
 
 ---
 
