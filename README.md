@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri for iOS 18 to gain massive AI upgrade via Apple&#39;s Ajax LLM](https://appleinsider.com/articles/24/05/03/siri-for-ios-18-to-gain-massive-ai-upgrade-via-apples-ajax-llm?utm_medium=rss)
- - [Sources: Bill Gates remains intimately involved in Microsoft&#39;s operations, advising on strategy, nurturing Microsoft&#39;s relationship with Sam Altman, and more &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240503/p9#a240503p9)
- - [Not so fast: Galaxy S22’s One UI 6.1 update halted due to a bug](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-6-1-update-halted-3439594/)<!-- TECH:END -->
+ - [Deal: Sensational $497 price drop on the Pixel 7 Pro](https://www.androidauthority.com/deal-pixel-7-pro-3439425/)
+ - [Ryûsuke Hamaguchi wants you to watch his new movie at least twice](https://www.theverge.com/24141455/evil-does-not-exist-ryusuke-hamaguchi-interview)
+ - [Crave Tease Review: Not Jewelry, Barely a Vibrator](https://www.wired.com/review/crave-tease/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
