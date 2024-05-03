@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare reports Q1 revenue up 30% YoY to $378.6M, vs. $373.7M est., and forecasts Q2 revenue below estimates; NET drops 13%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p46#a240502p46)
- - [Apple reports Q2 revenue down 8.1% YoY to $16.4B in Greater China, down 12.7% YoY to $6.3B in Japan, and down 17.2% YoY to $6.7B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240502/p45#a240502p45)
- - [Microsoft says it did a lot for responsible AI in inaugural transparency report](https://www.theverge.com/2024/5/2/24147573/microsoft-ai-transparency-responsible-ignore-mario)<!-- TECH:END -->
+ - [Onur Aksoy, who pleaded guilty to selling fake Cisco equipment on Amazon and eBay from 2013 to 2022, making over $100M, is sentenced to over six years in prison &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240502/p49#a240502p49)
+ - [Microsoft adds deputy chief information security officers within its product groups after a spate of cyberattacks, but declines to identify the new officials &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p48#a240502p48)
+ - [That&#39;s Hot: Check Out This Video of the Sun&#39;s Corona in All Its Glory     - CNET](https://www.cnet.com/science/thats-hot-check-out-this-video-of-the-suns-corona-in-all-its-glory/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
