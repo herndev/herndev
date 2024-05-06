@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sony officially went back on their Helldivers 2 PSN requirement](http://9gag.com/gag/azxbz9b)
- - ⏩ [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
- - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
+ - 💣 [Legendary german pimp Stefan Hentschel pimp-slaps some drunk mullet.](http://9gag.com/gag/awyrDn1)
+ - ⏩ [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
+ - 👉 [Oops!](http://9gag.com/gag/apRqjw8)<!-- MEMES:END -->
 
 ---
 
