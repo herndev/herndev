@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - ⏩ [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
- - 👉 [Being racist to your school gets you kicked out, shocker!](http://9gag.com/gag/apRqVmM)<!-- MEMES:END -->
+ - 💣 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - ⏩ [Knock Knock Joke](http://9gag.com/gag/aByKoRP)
+ - 👉 [WAGs of Philadelphia](http://9gag.com/gag/awyrvNR)<!-- MEMES:END -->
 
 ---
 
