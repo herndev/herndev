@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max was Q1&#39;s best-selling smartphone; Pro phones were 50% of Apple&#39;s sales, up from 24% in 2020; Apple and Samsung each had five phones in top 10 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240506/p7#a240506p7)
- - [Apple has dominated 2024 smartphone sales with iPhone 15 Pro Max](https://appleinsider.com/articles/24/05/06/apple-has-dominated-2024-smartphone-sales-with-iphone-15-pro-max?utm_medium=rss)
- - [Apple’s iPhone Spyware Problem Is Getting Worse. Here’s What You Should Know](https://www.wired.com/story/apple-iphone-spyware-101/)<!-- TECH:END -->
+ - [OnePlus 12’s Glacial White color could soon launch internationally](https://www.androidauthority.com/oneplus-12-glacial-white-color-launch-internationally-3440131/)
+ - [The Beats Studio Pro drops $170 to lowest price in months](https://www.androidauthority.com/deal-beats-studio-pro-3439941/)
+ - [5 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
