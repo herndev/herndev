@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese self-driving startup Beijing Momenta Technology confidentially filed for an IPO in the US and could raise $200M to $300M as early as in 2024 &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240506/p2#a240506p2)
- - [YouTube’s AI-powered ‘Jump Ahead’ feature rolling out widely to Premium users](https://www.androidauthority.com/youtube-premium-jump-ahead-3440015/)
- - [Atos says it received four distinct offers to restructure its debt and inject cash from investors including Atos&#39; banks and its largest shareholder Onepoint &lpar;Tassilo Hummel/Reuters&rpar;](http://www.techmeme.com/240506/p1#a240506p1)<!-- TECH:END -->
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [This upcoming phone could rival Apple for video, be the new concert photo king](https://www.androidauthority.com/vivo-x100-ultra-cameras-3440005/)
+ - [Sources: Chinese self-driving startup Beijing Momenta Technology confidentially filed for an IPO in the US and could raise $200M to $300M as early as in 2024 &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240506/p2#a240506p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
