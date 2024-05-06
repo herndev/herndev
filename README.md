@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WAGs of Philadelphia](http://9gag.com/gag/awyrvNR)
+ - 💣 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
  - ⏩ [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 👉 [As a friend](http://9gag.com/gag/aqymA4Y)<!-- MEMES:END -->
+ - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
 
 ---
 
