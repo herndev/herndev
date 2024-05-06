@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [This upcoming phone could rival Apple for video, be the new concert photo king](https://www.androidauthority.com/vivo-x100-ultra-cameras-3440005/)
- - [Sources: Chinese self-driving startup Beijing Momenta Technology confidentially filed for an IPO in the US and could raise $200M to $300M as early as in 2024 &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240506/p2#a240506p2)<!-- TECH:END -->
+ - [Interviews with finance experts and young adults suggest TikTok videos about the economy and consumerism are creating a distorted view of financial well-being &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240506/p3#a240506p3)
+ - [Does the HUAWEI Pura 70 ship with Google apps? This alleged render would have you believe so](https://www.androidauthority.com/alleged-huawei-pura-70-render-google-apps-3440022/)
+ - [Ethereum’s Cofounder Says SEC Is ‘Gaslighting’ Everyone About Crypto](https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
