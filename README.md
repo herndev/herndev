@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU&#39;s crackdown on Huawei shows an EU-wide TikTok ban will likely take years of diplomacy, as the bloc lacks a formal say over national security concerns &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/240505/p7#a240505p7)
  - [Should You Buy or Rent Your Router? The Wrong Decision Cost Me Nearly $1K     - CNET](https://www.cnet.com/home/internet/should-you-buy-or-rent-your-router-the-wrong-decision-cost-me-nearly-1k/#ftag=CAD590a51e)
- - [Over 40K Audible books are marked as having been made with an AI &quot;virtual voice&quot;, saving authors hundreds or thousands of dollars per title on narration costs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240505/p6#a240505p6)
- - [Randy Travis gets his voice back in a new Warner AI music experiment](https://www.theverge.com/2024/5/5/24149685/randy-travis-ai-voice-clone-song-where-that-came-from)<!-- TECH:END -->
+ - [Over 40K Audible books are marked as having been made with an AI &quot;virtual voice&quot;, saving authors hundreds or thousands of dollars per title on narration costs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240505/p6#a240505p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
