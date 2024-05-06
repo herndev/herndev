@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hasn&#39;t aged a day in like 25 years. Is she a vampire](http://9gag.com/gag/aAyYq9Z)
- - ⏩ [Antifa and anti-Nazi protesters block path and only people with given wristbands are allowed into school](http://9gag.com/gag/aYQbm7O)
- - 👉 [Nice One](http://9gag.com/gag/avy0DbX)<!-- MEMES:END -->
+ - 💣 [A short title](http://9gag.com/gag/aD20NqK)
+ - ⏩ [Mom went full John Wick.](http://9gag.com/gag/adBNrw9)
+ - 👉 [LMAO](http://9gag.com/gag/aryp9NV)<!-- MEMES:END -->
 
 ---
 
