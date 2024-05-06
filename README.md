@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft ramps up plans to capture carbon from burning wood](https://www.theverge.com/2024/5/6/24150398/microsoft-bioenergy-carbon-capture-stockholm-exergi)
- - [How to Watch the Boeing Starliner Launch](https://www.wired.com/story/watch-boeing-starliner-launch-livestream/)
- - [Researchers detail an attack against many VPN apps that force them to send some or all traffic outside of the VPN encrypted tunnel; Android mitigates the flaw &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240506/p21#a240506p21)<!-- TECH:END -->
+ - [Google’s AI plans now include cybersecurity](https://www.theverge.com/2024/5/6/24150610/google-gemini-cybersecurity-mandiant)
+ - [A look at the trademark dispute over the name AGI House between two rival hacker houses, one in Hillsborough and the other in Twin Peaks in the Bay Area &lpar;Forbes&rpar;](http://www.techmeme.com/240506/p24#a240506p24)
+ - [The Boeing Starliner Is Finally Taking People Into Space: How to Watch the Launch Tonight     - CNET](https://www.cnet.com/science/space/the-boeing-starliner-is-finally-taking-people-into-space-how-to-watch-the-launch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
