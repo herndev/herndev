@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atos says it received four distinct offers to restructure its debt and inject cash from investors including Atos&#39; banks and its largest shareholder Onepoint &lpar;Tassilo Hummel/Reuters&rpar;](http://www.techmeme.com/240506/p1#a240506p1)
- - [Google’s working on a way to speed-up data transfers when setting up a new phone: APK Teardown](https://www.androidauthority.com/google-new-data-transfer-restore-methods-3440006/)
- - [Blowout deal: grab Apple&#39;s M2 Pro MacBook Pro for $1,649 today only](https://appleinsider.com/articles/24/05/06/blowout-deal-grab-apples-m2-pro-macbook-pro-for-1649-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Chinese self-driving startup Beijing Momenta Technology confidentially filed for an IPO in the US and could raise $200M to $300M as early as in 2024 &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240506/p2#a240506p2)
+ - [YouTube’s AI-powered ‘Jump Ahead’ feature rolling out widely to Premium users](https://www.androidauthority.com/youtube-premium-jump-ahead-3440015/)
+ - [Atos says it received four distinct offers to restructure its debt and inject cash from investors including Atos&#39; banks and its largest shareholder Onepoint &lpar;Tassilo Hummel/Reuters&rpar;](http://www.techmeme.com/240506/p1#a240506p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
