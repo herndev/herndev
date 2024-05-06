@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legendary german pimp Stefan Hentschel pimp-slaps some drunk mullet.](http://9gag.com/gag/awyrDn1)
- - ⏩ [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
+ - 💣 [If mass deportations don\u2019t start soon, you\u2019ll pretty much be forced to submit to their whims](http://9gag.com/gag/ae9Nymp)
+ - ⏩ [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 👉 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)<!-- MEMES:END -->
 
 ---
 
