@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
  - ⏩ [Bro-zoned](http://9gag.com/gag/a1mAq46)
- - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
+ - 👉 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)<!-- MEMES:END -->
 
 ---
 
