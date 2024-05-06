@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US to fund digital twin research in semiconductors](https://www.theverge.com/2024/5/6/24149817/us-fund-digital-twin-semiconductors-chips-act)
- - [iPhone 17 design changes leak months before iPhone 16 launch](https://www.androidauthority.com/iphone-17-design-leak-3440057/)
- - [Paris-based Stonal, which offers a data management platform for real estate owners and investors in Europe and launched StonalGPT earlier in 2024, raised &amp;euro;100M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240506/p4#a240506p4)<!-- TECH:END -->
+ - [Foxconn saw best-ever April revenues partly because of better than expected iPhone demand](https://appleinsider.com/articles/24/05/06/foxconn-saw-best-ever-april-revenues-partly-because-of-better-than-expected-iphone-demand?utm_medium=rss)
+ - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
+ - [Visa and Allium Labs: less than 10% of stablecoin transactions are &quot;organic payments activity&quot;, which excludes activities from bots and large-scale traders &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240506/p6#a240506p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
