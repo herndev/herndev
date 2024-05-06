@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12’s Glacial White color could soon launch internationally](https://www.androidauthority.com/oneplus-12-glacial-white-color-launch-internationally-3440131/)
- - [The Beats Studio Pro drops $170 to lowest price in months](https://www.androidauthority.com/deal-beats-studio-pro-3439941/)
- - [5 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)<!-- TECH:END -->
+ - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)
+ - [YouTube Music could soon get its own Gemini Extension](https://www.androidauthority.com/youtube-music-google-gemini-extension-coming-soon-3440153/)
+ - [Filing: Robinhood&#39;s crypto arm got a Wells notice from the SEC on May 4; Robinhood says it has already ended support for tokens named in previous SEC lawsuits &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240506/p9#a240506p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
