@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple&#39;s &#39;Let Loose&#39; iPad Air &amp; iPad Pro event](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-let-loose-ipad-air-ipad-pro?utm_medium=rss)
- - [Republicans are pulling out all the stops to reverse EV adoption](https://www.theverge.com/2024/5/6/24150041/ev-epa-clean-air-emissions-lawsuit-republicans-tax-credit)
- - [iPhone 17 Pro rumored to get 12GB of RAM](https://appleinsider.com/articles/24/05/06/iphone-17-pro-rumored-to-get-12gb-of-ram?utm_medium=rss)<!-- TECH:END -->
+ - [Rare Magic: The Gathering card breaks records with $3 million sale](https://www.theverge.com/2024/5/6/24150479/magic-the-gathering-black-lotus-alpha-sale)
+ - [These are the upcoming Sonos Ace wireless headphones](https://www.theverge.com/2024/5/6/24150573/sonos-ace-headphones-reveal-leak-wireless)
+ - [DocuSign says it is acquiring contract workflow automation startup Lexion for $165M; Lexion had raised $35.2M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240506/p20#a240506p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
