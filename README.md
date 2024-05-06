@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Apple Pencil Pro’ spotted in code on Apple’s Japanese site](https://www.theverge.com/2024/5/6/24150198/apple-pencil-pro-japan-website-code-leak)
- - [Apple’s latest Pride band and wallpapers are bathed in neon](https://www.theverge.com/2024/5/6/24150093/apple-pride-band-braided-solo-loop-wallpapers)
- - [Beat Saber is axing multiplayer support for Quest 1 users](https://www.theverge.com/2024/5/6/24150119/beat-saber-quest-1-end-online-support-multiplayer)<!-- TECH:END -->
+ - [An interview with Quora CEO Adam D&#39;Angelo on adding AI tools, supporting developers on Quora&#39;s chatbot platform Poe, Quora&#39;s relationship with OpenAI, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240506/p15#a240506p15)
+ - [More Tesla employees laid off as bloodbath enters its fourth week](https://www.theverge.com/2024/5/6/24150274/tesla-layoffs-employee-fourth-week-elon-musk-ev-demand)
+ - [Weather advisory: unusually strong Meltdown May incoming](https://www.theverge.com/24150269/meltdown-may-corncob-alert)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
