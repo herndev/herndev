@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Twain was great](http://9gag.com/gag/aMV10xV)
- - ⏩ [Bernard Hill has passed away. Ride now. Ride, ride to ruin and the worlds ending! Death! Thanks for the most epic scene in movie history.](http://9gag.com/gag/aByKj4O)
+ - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - ⏩ [Nice One](http://9gag.com/gag/avy0DbX)
  - 👉 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)<!-- MEMES:END -->
 
 ---
