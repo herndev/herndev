@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
- - ⏩ [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
- - 👉 [No heavy breathing.](http://9gag.com/gag/avy0q8d)<!-- MEMES:END -->
+ - 💣 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
+ - ⏩ [Bro-zoned](http://9gag.com/gag/a1mAq46)
+ - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
 
 ---
 
