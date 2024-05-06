@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As Helldivers 2&#39;s Steam reviews begin to recover, Arrowhead&#39;s CEO shares an &#39;accidental&#39; cape design based upon its Overwhelmingly Negative rating, and of course the community wants it added to the game](https://www.pcgamer.com/games/action/as-helldivers-2s-steam-reviews-begin-to-recover-arrowheads-ceo-shares-an-accidental-cape-design-based-upon-its-overwhelmingly-negative-rating-and-of-course-the-community-wants-it-added-to-the-game)
- - [NetherRealm gives us a proper look at Homelander in Mortal Kombat 1&#39;s latest DLC trailer, and somehow the fatalities aren&#39;t the grossest thing in it](https://www.pcgamer.com/games/fighting/netherrealm-gives-us-a-proper-look-at-homelander-in-mortal-kombat-1s-latest-dlc-trailer-and-somehow-the-fatalities-arent-the-grossest-thing-in-it)
- - [Scammers have resorted to selling CPUs without dies, as a well-known Korean overclocker has discovered](https://www.pcgamer.com/hardware/processors/scammers-have-resorted-to-selling-cpus-without-dies-as-a-well-known-korean-overclocker-has-discovered)<!-- GAME:END -->
+ - [It&#39;s Not Just You: Pokémon GO Update Has Broken Curveball Throws](https://kotaku.com/pokemon-go-curveball-throws-not-working-1851457731)
+ - [When does Honkai: Star Rail 2.2 release?](https://www.polygon.com/honkai-star-rail-guides/24147278/version-2-2-release-maintenance-times)
+ - [I’m dying to play D&amp;D’s biggest idiot, but my parties keep putting me in charge](https://www.polygon.com/24146389/dungeons-and-dragons-for-dummies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
