@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short title](http://9gag.com/gag/aD20NqK)
- - ⏩ [Mom went full John Wick.](http://9gag.com/gag/adBNrw9)
- - 👉 [LMAO](http://9gag.com/gag/aryp9NV)<!-- MEMES:END -->
+ - 💣 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - ⏩ [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
+ - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
 
 ---
 
