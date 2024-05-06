@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
- - ⏩ [Nice One](http://9gag.com/gag/avy0DbX)
- - 👉 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)<!-- MEMES:END -->
+ - 💣 [Legendary german pimp Stefan Hentschel pimp-slaps some drunk mullet.](http://9gag.com/gag/awyrDn1)
+ - ⏩ [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
 
 ---
 
