@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
- - ⏩ [Bro-zoned](http://9gag.com/gag/a1mAq46)
- - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
+ - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - ⏩ [Save for later:](http://9gag.com/gag/agmybdW)
+ - 👉 [Hasn&#39;t aged a day in like 25 years. Is she a vampire](http://9gag.com/gag/aAyYq9Z)<!-- MEMES:END -->
 
 ---
 
