@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)
- - [YouTube Music could soon get its own Gemini Extension](https://www.androidauthority.com/youtube-music-google-gemini-extension-coming-soon-3440153/)
- - [Filing: Robinhood&#39;s crypto arm got a Wells notice from the SEC on May 4; Robinhood says it has already ended support for tokens named in previous SEC lawsuits &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240506/p9#a240506p9)<!-- TECH:END -->
+ - [Apple Arcade rolls out five new games, including &#39;Rabbids: Legends of the Multiverse&#39;](https://appleinsider.com/articles/24/05/06/apple-arcade-rolls-out-five-new-games-including-rabbids-legends-of-the-multiverse?utm_medium=rss)
+ - [Apple comes out with 2024’s LGBTQ+ Pride wallpaper and watch face](https://www.androidauthority.com/apple-2024-lgbtq-pride-wallpaper-watch-face-3440171/)
+ - [AT&amp;T completes divestiture of its cybersecurity services group and forms LevelBlue, with staff in 10 countries focused on managed cybersecurity services &lpar;Robert Lemos/Dark Reading&rpar;](http://www.techmeme.com/240506/p12#a240506p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
