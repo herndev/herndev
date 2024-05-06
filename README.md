@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [NetherRealm gives us a proper look at Homelander in Mortal Kombat 1&#39;s latest DLC trailer, and somehow the fatalities aren&#39;t the grossest thing in it](https://www.pcgamer.com/games/fighting/netherrealm-gives-us-a-proper-look-at-homelander-in-mortal-kombat-1s-latest-dlc-trailer-and-somehow-the-fatalities-arent-the-grossest-thing-in-it)
  - [Scammers have resorted to selling CPUs without dies, as a well-known Korean overclocker has discovered](https://www.pcgamer.com/hardware/processors/scammers-have-resorted-to-selling-cpus-without-dies-as-a-well-known-korean-overclocker-has-discovered)
- - [Sony backs down on demand that Helldivers 2 players log into a PSN account](https://www.pcgamer.com/games/third-person-shooter/sony-backs-down-on-demand-that-helldivers-2-players-log-into-a-psn-account)
- - [Looks like Space Marine 2 will continue the first game&#39;s grand tradition of PvP multiplayer](https://www.pcgamer.com/games/action/looks-like-space-marine-2-will-continue-the-first-games-grand-tradition-of-pvp-multiplayer)<!-- GAME:END -->
+ - [Sony backs down on demand that Helldivers 2 players log into a PSN account](https://www.pcgamer.com/games/third-person-shooter/sony-backs-down-on-demand-that-helldivers-2-players-log-into-a-psn-account)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
