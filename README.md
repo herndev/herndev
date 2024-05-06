@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Get A &lpar;Free&rpar; Shovel In No Rest For The Wicked](https://kotaku.com/no-rest-for-the-wicked-shovel-guide-1851457981)
- - [Resident Evil 9 Out Early Next Year According To Latest Leaks](https://kotaku.com/resident-evil-9-capcom-release-window-leak-rumor-1851457948)
- - [Ghost Of Tsushima Multiplayer Will Require A PlayStation Network Sign-In On PC](https://kotaku.com/ghost-of-tsushima-pc-playstation-network-steam-psn-1851457950)<!-- GAME:END -->
+ - [Gen V producers won’t recast the late Chance Perdomo’s character](https://www.polygon.com/24150137/gen-v-chance-perdomo-recast-character)
+ - [How To Get Runes In No Rest For The Wicked—And How They Work](https://kotaku.com/no-rest-for-the-wicked-runes-guide-gems-enchantments-1851458066)
+ - [The Original Metal Gear Solid Has A Fast Travel Mechanic You Probably Didn’t Know About](https://kotaku.com/metal-gear-solid-mgs1-cardboard-box-a-b-c-fast-travel-1851458120)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
