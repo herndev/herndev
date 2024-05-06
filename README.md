@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gen V producers won’t recast the late Chance Perdomo’s character](https://www.polygon.com/24150137/gen-v-chance-perdomo-recast-character)
- - [How To Get Runes In No Rest For The Wicked—And How They Work](https://kotaku.com/no-rest-for-the-wicked-runes-guide-gems-enchantments-1851458066)
- - [The Original Metal Gear Solid Has A Fast Travel Mechanic You Probably Didn’t Know About](https://kotaku.com/metal-gear-solid-mgs1-cardboard-box-a-b-c-fast-travel-1851458120)<!-- GAME:END -->
+ - [Xbox Grows Support of Veterans, Military Service Members and their Families](https://news.xbox.com/en-us/2024/05/06/xbox-military-family-appreciation-2024/)
+ - [Hades 2 early access is out now — but should you play it?](https://www.polygon.com/24147392/hades-2-early-access-release-date-how-to-play)
+ - [‘Why was he still naked on TV a year later?’ The Contestant’s lingering questions, answered](https://www.polygon.com/24148492/contestant-naked-room-nasubi-questions-answered)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
