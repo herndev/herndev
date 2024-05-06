@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Reportedly Ditched Tony Hawk 3+4 For More Call Of Duty](https://kotaku.com/tony-hawks-pro-skater-3-4-call-duty-activision-1851459426)
- - [How to unlock Arcana Cards in Hades 2](https://www.polygon.com/hades-2-guides/24150082/arcana-cards-list-abilities-upgrades-perks)
- - [An Arrowhead community manager was &#39;almost, but not quite&#39; fired for encouraging Helldivers 2 review bombing and refunds](https://www.pcgamer.com/games/third-person-shooter/an-arrowhead-community-manager-was-almost-but-not-quite-fired-for-encouraging-helldivers-2-review-bombing-and-refunds)<!-- GAME:END -->
+ - [9 Things To Know Before Starting Hades 2](https://kotaku.com/hades-2-tips-beginner-start-1851459493)
+ - [Looking for a capture card? Our guide has the top picks](https://www.polygon.com/what-to-buy/23808448/best-capture-card)
+ - [Activision Reportedly Ditched Tony Hawk 3+4 For More Call Of Duty](https://kotaku.com/tony-hawks-pro-skater-3-4-call-duty-activision-1851459426)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
