@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with finance experts and young adults suggest TikTok videos about the economy and consumerism are creating a distorted view of financial well-being &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240506/p3#a240506p3)
- - [Does the HUAWEI Pura 70 ship with Google apps? This alleged render would have you believe so](https://www.androidauthority.com/alleged-huawei-pura-70-render-google-apps-3440022/)
- - [Ethereum’s Cofounder Says SEC Is ‘Gaslighting’ Everyone About Crypto](https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/)<!-- TECH:END -->
+ - [US to fund digital twin research in semiconductors](https://www.theverge.com/2024/5/6/24149817/us-fund-digital-twin-semiconductors-chips-act)
+ - [iPhone 17 design changes leak months before iPhone 16 launch](https://www.androidauthority.com/iphone-17-design-leak-3440057/)
+ - [Paris-based Stonal, which offers a data management platform for real estate owners and investors in Europe and launched StonalGPT earlier in 2024, raised &amp;euro;100M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240506/p4#a240506p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
