@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - ⏩ [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
- - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
+ - 💣 [My favorite 3d vision t-shirt](http://9gag.com/gag/a2vNVDd)
+ - ⏩ [LMAO](http://9gag.com/gag/aryp9NV)
+ - 👉 [Rest in Piece King Theoden! Thanks for giving us one of the most memorable experiences in Movie History](http://9gag.com/gag/apRqnLn)<!-- MEMES:END -->
 
 ---
 
