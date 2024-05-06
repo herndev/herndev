@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;May 6, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-6-2024)
- - [The Magic: The Gathering manga set in the &#39;90s will come out in English at last](https://www.pcgamer.com/games/card-games/the-magic-the-gathering-manga-set-in-the-90s-will-come-out-in-english-at-last)
- - [Love Sucks: Night Two is a horny game where the real fantasy isn&#39;t sex, it&#39;s enjoying a carnival without almost immediately getting tired and wanting to go home](https://www.pcgamer.com/games/visual-novel/love-sucks-night-two-is-a-horny-game-where-the-real-fantasy-isnt-sex-its-enjoying-a-carnival-without-almost-immediately-getting-tired-and-wanting-to-go-home)<!-- GAME:END -->
+ - [Looks like Space Marine 2 will continue the first game&#39;s grand tradition of PvP multiplayer](https://www.pcgamer.com/games/action/looks-like-space-marine-2-will-continue-the-first-games-grand-tradition-of-pvp-multiplayer)
+ - [Today&#39;s Wordle answer for Monday, May 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-6-2024)
+ - [Five new Steam games you probably missed &lpar;May 6, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-6-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
