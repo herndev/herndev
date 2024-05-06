@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Stack Overflow partner to bring more technical knowledge into ChatGPT](https://www.theverge.com/2024/5/6/24150341/openai-stack-overflow-partner-api-coding-assistance)
- - [Score 35% off the 2024 Galaxy Tab S6 Lite just weeks after launch](https://www.androidauthority.com/deal-samsung-galaxy-tab-s6-lite-2024-3440223/)
- - [A probe finds a black market for Facebook accounts that have received approval to run political ads during India&#39;s general election, raising interference fears &lpar;Tech Transparency Project&rpar;](http://www.techmeme.com/240506/p16#a240506p16)<!-- TECH:END -->
+ - [Sony reverses unpopular Helldivers 2 decision after blistering player reaction](https://www.theverge.com/24150327/sony-helldivers-2-review-bombing-psn-login)
+ - [During India&#39;s general election, some Indian politicians and parties are using deepfake videos and audios of popular, deceased politicians in their campaigns &lpar;Barkha Dutt/Rest of World&rpar;](http://www.techmeme.com/240506/p17#a240506p17)
+ - [Snag This Incredible Deal and Get $200 of Restaurant.com Credit for Just $35     - CNET](https://www.cnet.com/deals/snag-this-incredible-deal-and-get-200-of-restaurant-com-credit-for-just-35/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
