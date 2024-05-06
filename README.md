@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks like Space Marine 2 will continue the first game&#39;s grand tradition of PvP multiplayer](https://www.pcgamer.com/games/action/looks-like-space-marine-2-will-continue-the-first-games-grand-tradition-of-pvp-multiplayer)
- - [Today&#39;s Wordle answer for Monday, May 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-6-2024)
- - [Five new Steam games you probably missed &lpar;May 6, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-6-2024)<!-- GAME:END -->
+ - [Scammers have resorted to selling CPUs without dies, as a well-known Korean overclocker has discovered](https://www.pcgamer.com/hardware/processors/scammers-have-resorted-to-selling-cpus-without-dies-as-a-well-known-korean-overclocker-has-discovered)
+ - [Sony backs down on demand that Helldivers 2 players log into a PSN account](https://www.pcgamer.com/games/third-person-shooter/sony-backs-down-on-demand-that-helldivers-2-players-log-into-a-psn-account)
+ - [Looks like Space Marine 2 will continue the first game&#39;s grand tradition of PvP multiplayer](https://www.pcgamer.com/games/action/looks-like-space-marine-2-will-continue-the-first-games-grand-tradition-of-pvp-multiplayer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
