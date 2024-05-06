@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s Not Just You: Pokémon GO Update Has Broken Curveball Throws](https://kotaku.com/pokemon-go-curveball-throws-not-working-1851457731)
- - [When does Honkai: Star Rail 2.2 release?](https://www.polygon.com/honkai-star-rail-guides/24147278/version-2-2-release-maintenance-times)
- - [I’m dying to play D&amp;D’s biggest idiot, but my parties keep putting me in charge](https://www.polygon.com/24146389/dungeons-and-dragons-for-dummies)<!-- GAME:END -->
+ - [How To Get A &lpar;Free&rpar; Shovel In No Rest For The Wicked](https://kotaku.com/no-rest-for-the-wicked-shovel-guide-1851457981)
+ - [Resident Evil 9 Out Early Next Year According To Latest Leaks](https://kotaku.com/resident-evil-9-capcom-release-window-leak-rumor-1851457948)
+ - [Ghost Of Tsushima Multiplayer Will Require A PlayStation Network Sign-In On PC](https://kotaku.com/ghost-of-tsushima-pc-playstation-network-steam-psn-1851457950)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
