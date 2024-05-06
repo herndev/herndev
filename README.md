@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iOS 18 leak reveals how Apple’s AI will transform Safari and Siri](https://www.androidauthority.com/ios-18-ai-leak-3439749/)
- - [LG’s quirky briefcase TV is nearly matching its best price to date](https://www.theverge.com/2024/5/3/24147594/lg-stanbyme-go-briefcase-tv-paramount-plus-showtime-deal-sale)
- - [CSET: global AI research more than doubled between 2017 and 2022; Chinese Academy of Sciences was the top producer of highly cited AI papers, followed by Google &lpar;Alison Snyder/Axios&rpar;](http://www.techmeme.com/240503/p19#a240503p19)<!-- TECH:END -->
+ - [Over 40K Audible books are marked as having been made with an AI &quot;virtual voice&quot;, saving authors hundreds or thousands of dollars per title on narration costs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240505/p6#a240505p6)
+ - [Randy Travis gets his voice back in a new Warner AI music experiment](https://www.theverge.com/2024/5/5/24149685/randy-travis-ai-voice-clone-song-where-that-came-from)
+ - [Apple’s May 7 event could be the start of iPad’s transformation into a true laptop replacement](https://www.androidauthority.com/ipad-2024-launch-3439980/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
