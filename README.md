@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XIV Suffers DDoS Outage As Devs Work On A Fix](https://kotaku.com/final-fantasy-14-ffxiv-ddos-servers-outage-down-1851459148)
- - [The Kendrick/Drake Beef Is Made For The Internet](https://kotaku.com/kendrick-drake-beef-rap-battle-memes-internet-reactions-1851458972)
- - [PlayStation Reversing Course On Helldivers 2 Is Both Smart And A Sign Of How Inept It Is](https://kotaku.com/helldivers-2-playstation-live-service-pc-games-1851458983)<!-- GAME:END -->
+ - [Activision Reportedly Ditched Tony Hawk 3+4 For More Call Of Duty](https://kotaku.com/tony-hawks-pro-skater-3-4-call-duty-activision-1851459426)
+ - [How to unlock Arcana Cards in Hades 2](https://www.polygon.com/hades-2-guides/24150082/arcana-cards-list-abilities-upgrades-perks)
+ - [An Arrowhead community manager was &#39;almost, but not quite&#39; fired for encouraging Helldivers 2 review bombing and refunds](https://www.pcgamer.com/games/third-person-shooter/an-arrowhead-community-manager-was-almost-but-not-quite-fired-for-encouraging-helldivers-2-review-bombing-and-refunds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
