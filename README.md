@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice One](http://9gag.com/gag/avy0DbX)
- - ⏩ [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
- - 👉 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)<!-- MEMES:END -->
+ - 💣 [Mako Shark eaten by something HUGE whilst being reeled in, head alone weighed 100kg](http://9gag.com/gag/avy0Bnn)
+ - ⏩ [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
+ - 👉 [Making an amphibious vehicle for fishing, gaming and camping](http://9gag.com/gag/aO8qGWv)<!-- MEMES:END -->
 
 ---
 
