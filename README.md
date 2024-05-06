@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn saw best-ever April revenues partly because of better than expected iPhone demand](https://appleinsider.com/articles/24/05/06/foxconn-saw-best-ever-april-revenues-partly-because-of-better-than-expected-iphone-demand?utm_medium=rss)
- - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
- - [Visa and Allium Labs: less than 10% of stablecoin transactions are &quot;organic payments activity&quot;, which excludes activities from bots and large-scale traders &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240506/p6#a240506p6)<!-- TECH:END -->
+ - [iPhone 15 Pro Max was Q1&#39;s best-selling smartphone; Pro phones were 50% of Apple&#39;s sales, up from 24% in 2020; Apple and Samsung each had five phones in top 10 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240506/p7#a240506p7)
+ - [Apple has dominated 2024 smartphone sales with iPhone 15 Pro Max](https://appleinsider.com/articles/24/05/06/apple-has-dominated-2024-smartphone-sales-with-iphone-15-pro-max?utm_medium=rss)
+ - [Apple’s iPhone Spyware Problem Is Getting Worse. Here’s What You Should Know](https://www.wired.com/story/apple-iphone-spyware-101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
