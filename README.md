@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legendary german pimp Stefan Hentschel pimp-slaps some drunk mullet.](http://9gag.com/gag/awyrDn1)
- - ⏩ [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
- - 👉 [Oops!](http://9gag.com/gag/apRqjw8)<!-- MEMES:END -->
+ - 💣 [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
+ - ⏩ [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
+ - 👉 [No heavy breathing.](http://9gag.com/gag/avy0q8d)<!-- MEMES:END -->
 
 ---
 
