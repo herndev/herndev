@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Quora CEO Adam D&#39;Angelo on adding AI tools, supporting developers on Quora&#39;s chatbot platform Poe, Quora&#39;s relationship with OpenAI, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240506/p15#a240506p15)
- - [More Tesla employees laid off as bloodbath enters its fourth week](https://www.theverge.com/2024/5/6/24150274/tesla-layoffs-employee-fourth-week-elon-musk-ev-demand)
- - [Weather advisory: unusually strong Meltdown May incoming](https://www.theverge.com/24150269/meltdown-may-corncob-alert)<!-- TECH:END -->
+ - [OpenAI and Stack Overflow partner to bring more technical knowledge into ChatGPT](https://www.theverge.com/2024/5/6/24150341/openai-stack-overflow-partner-api-coding-assistance)
+ - [Score 35% off the 2024 Galaxy Tab S6 Lite just weeks after launch](https://www.androidauthority.com/deal-samsung-galaxy-tab-s6-lite-2024-3440223/)
+ - [A probe finds a black market for Facebook accounts that have received approval to run political ads during India&#39;s general election, raising interference fears &lpar;Tech Transparency Project&rpar;](http://www.techmeme.com/240506/p16#a240506p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
