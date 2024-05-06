@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Unfrosted, Turtles All The Way Down, and every new movie to watch at home this weekend](https://www.polygon.com/2024/5/3/24144250/new-movies-watch-unfrosted-netflix-turtles-all-the-way-down-prom-dates)
- - [Gray Zone Warfare players can now change factions so they can team up with their friends](https://www.pcgamer.com/games/fps/gray-zone-warfare-players-can-now-change-factions-so-they-can-team-up-with-their-friends)
- - [Don&#39;t say Manor Lords was made by a &#39;solo developer,&#39; argues competing city builder maker: &#39;The team size on it is maybe even larger than ours&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-solo-developer-perception)<!-- GAME:END -->
+ - [Love Sucks: Night Two is a horny game where the real fantasy isn&#39;t sex, it&#39;s enjoying a carnival without almost immediately getting tired and wanting to go home](https://www.pcgamer.com/games/visual-novel/love-sucks-night-two-is-a-horny-game-where-the-real-fantasy-isnt-sex-its-enjoying-a-carnival-without-almost-immediately-getting-tired-and-wanting-to-go-home)
+ - [New Apex Legends trailer gets us another look at Alter, Season 21, and the return of solos](https://www.pcgamer.com/games/battle-royale/new-apex-legends-trailer-gets-us-another-look-at-alter)
+ - [Robot roguelike Cogmind outlines three free expansions for its ultra-customizable scrapbots](https://www.pcgamer.com/games/roguelike/robot-roguelike-cogmind-outlines-three-free-expansions-for-its-ultra-customizable-scrapbots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
