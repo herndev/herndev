@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blowout deal: grab Apple&#39;s M2 Pro MacBook Pro for $1,649 today only](https://appleinsider.com/articles/24/05/06/blowout-deal-grab-apples-m2-pro-macbook-pro-for-1649-today-only?utm_medium=rss)
- - [Today&#39;s Wordle Hints and Answer: Help for May 6, #1052     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-may-6-1052/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 6, #330     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hint-answerfor-may-6-330/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Atos says it received four distinct offers to restructure its debt and inject cash from investors including Atos&#39; banks and its largest shareholder Onepoint &lpar;Tassilo Hummel/Reuters&rpar;](http://www.techmeme.com/240506/p1#a240506p1)
+ - [Google’s working on a way to speed-up data transfers when setting up a new phone: APK Teardown](https://www.androidauthority.com/google-new-data-transfer-restore-methods-3440006/)
+ - [Blowout deal: grab Apple&#39;s M2 Pro MacBook Pro for $1,649 today only](https://appleinsider.com/articles/24/05/06/blowout-deal-grab-apples-m2-pro-macbook-pro-for-1649-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
