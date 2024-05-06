@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Working under pressure](http://9gag.com/gag/aD20Nod)
- - ⏩ [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
+ - 💣 [Sony officially went back on their Helldivers 2 PSN requirement](http://9gag.com/gag/azxbz9b)
+ - ⏩ [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
+ - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
 
 ---
 
