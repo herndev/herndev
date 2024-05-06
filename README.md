@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/ae9NW8v)
- - ⏩ [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
- - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
+ - 💣 [Twain was great](http://9gag.com/gag/aMV10xV)
+ - ⏩ [Bernard Hill has passed away. Ride now. Ride, ride to ruin and the worlds ending! Death! Thanks for the most epic scene in movie history.](http://9gag.com/gag/aByKj4O)
+ - 👉 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)<!-- MEMES:END -->
 
 ---
 
