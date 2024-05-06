@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
- - ⏩ [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/ayN5Vm8)
- - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
+ - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - ⏩ [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 👉 [Nice One](http://9gag.com/gag/avy0DbX)<!-- MEMES:END -->
 
 ---
 
