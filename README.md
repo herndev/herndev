@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - ⏩ [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 👉 [Nice One](http://9gag.com/gag/avy0DbX)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/ae9NW8v)
+ - ⏩ [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
 
 ---
 
