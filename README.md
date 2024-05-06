@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade rolls out five new games, including &#39;Rabbids: Legends of the Multiverse&#39;](https://appleinsider.com/articles/24/05/06/apple-arcade-rolls-out-five-new-games-including-rabbids-legends-of-the-multiverse?utm_medium=rss)
- - [Apple comes out with 2024’s LGBTQ+ Pride wallpaper and watch face](https://www.androidauthority.com/apple-2024-lgbtq-pride-wallpaper-watch-face-3440171/)
- - [AT&amp;T completes divestiture of its cybersecurity services group and forms LevelBlue, with staff in 10 countries focused on managed cybersecurity services &lpar;Robert Lemos/Dark Reading&rpar;](http://www.techmeme.com/240506/p12#a240506p12)<!-- TECH:END -->
+ - [‘Apple Pencil Pro’ spotted in code on Apple’s Japanese site](https://www.theverge.com/2024/5/6/24150198/apple-pencil-pro-japan-website-code-leak)
+ - [Apple’s latest Pride band and wallpapers are bathed in neon](https://www.theverge.com/2024/5/6/24150093/apple-pride-band-braided-solo-loop-wallpapers)
+ - [Beat Saber is axing multiplayer support for Quest 1 users](https://www.theverge.com/2024/5/6/24150119/beat-saber-quest-1-end-online-support-multiplayer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
