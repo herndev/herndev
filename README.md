@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [As Helldivers 2&#39;s Steam reviews begin to recover, Arrowhead&#39;s CEO shares an &#39;accidental&#39; cape design based upon its Overwhelmingly Negative rating, and of course the community wants it added to the game](https://www.pcgamer.com/games/action/as-helldivers-2s-steam-reviews-begin-to-recover-arrowheads-ceo-shares-an-accidental-cape-design-based-upon-its-overwhelmingly-negative-rating-and-of-course-the-community-wants-it-added-to-the-game)
  - [NetherRealm gives us a proper look at Homelander in Mortal Kombat 1&#39;s latest DLC trailer, and somehow the fatalities aren&#39;t the grossest thing in it](https://www.pcgamer.com/games/fighting/netherrealm-gives-us-a-proper-look-at-homelander-in-mortal-kombat-1s-latest-dlc-trailer-and-somehow-the-fatalities-arent-the-grossest-thing-in-it)
- - [Scammers have resorted to selling CPUs without dies, as a well-known Korean overclocker has discovered](https://www.pcgamer.com/hardware/processors/scammers-have-resorted-to-selling-cpus-without-dies-as-a-well-known-korean-overclocker-has-discovered)
- - [Sony backs down on demand that Helldivers 2 players log into a PSN account](https://www.pcgamer.com/games/third-person-shooter/sony-backs-down-on-demand-that-helldivers-2-players-log-into-a-psn-account)<!-- GAME:END -->
+ - [Scammers have resorted to selling CPUs without dies, as a well-known Korean overclocker has discovered](https://www.pcgamer.com/hardware/processors/scammers-have-resorted-to-selling-cpus-without-dies-as-a-well-known-korean-overclocker-has-discovered)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
