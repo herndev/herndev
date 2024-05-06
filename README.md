@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My favorite 3d vision t-shirt](http://9gag.com/gag/a2vNVDd)
- - ⏩ [LMAO](http://9gag.com/gag/aryp9NV)
- - 👉 [Rest in Piece King Theoden! Thanks for giving us one of the most memorable experiences in Movie History](http://9gag.com/gag/apRqnLn)<!-- MEMES:END -->
+ - 💣 [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
+ - ⏩ [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/ayN5Vm8)
+ - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
 
 ---
 
