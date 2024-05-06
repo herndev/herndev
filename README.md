@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Doctor Who, Netflix’s Bodkin, and more new TV this week](https://www.polygon.com/2024/5/6/24141572/new-tv-doctor-who-ncuti-gatwa-netflix-bodkin-interview-vampire)
  - [Finally, Cal Kestis From Star Wars Jedi: Survivor Is Getting A Lego Minifig](https://kotaku.com/star-wars-jedi-survivor-cal-kestis-minifig-lego-set-1851458507)
- - [New Mod Adds The One Thing Elden Ring Was Missing: Capybaras](https://kotaku.com/elden-ring-nexus-mod-pc-adds-capybaras-1851458568)
- - [First photo confirms: James Gunn’s Superman will wear his underwear on the outside](https://www.polygon.com/24150323/superman-costume-james-gunn-david-corenswet-underwear)<!-- GAME:END -->
+ - [New Mod Adds The One Thing Elden Ring Was Missing: Capybaras](https://kotaku.com/elden-ring-nexus-mod-pc-adds-capybaras-1851458568)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
