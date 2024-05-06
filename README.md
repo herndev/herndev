@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Grows Support of Veterans, Military Service Members and their Families](https://news.xbox.com/en-us/2024/05/06/xbox-military-family-appreciation-2024/)
- - [Hades 2 early access is out now — but should you play it?](https://www.polygon.com/24147392/hades-2-early-access-release-date-how-to-play)
- - [‘Why was he still naked on TV a year later?’ The Contestant’s lingering questions, answered](https://www.polygon.com/24148492/contestant-naked-room-nasubi-questions-answered)<!-- GAME:END -->
+ - [Finally, Cal Kestis From Star Wars Jedi: Survivor Is Getting A Lego Minifig](https://kotaku.com/star-wars-jedi-survivor-cal-kestis-minifig-lego-set-1851458507)
+ - [New Mod Adds The One Thing Elden Ring Was Missing: Capybaras](https://kotaku.com/elden-ring-nexus-mod-pc-adds-capybaras-1851458568)
+ - [First photo confirms: James Gunn’s Superman will wear his underwear on the outside](https://www.polygon.com/24150323/superman-costume-james-gunn-david-corenswet-underwear)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
