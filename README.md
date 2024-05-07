@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at LPCAMM2, a totally modular, repairable, and upgradeable memory standard for laptops that doesn&#39;t require soldering LPDDR chips to the motherboard &lpar;Carsten Frauenheim/iFixit News&rpar;](http://www.techmeme.com/240507/p42#a240507p42)
- - [Samsung’s first 3nm Exynos chip nears mass production phase](https://www.androidauthority.com/samsung-3nm-exynos-chip-mass-production-3440807/)
- - [OpenAI working on new AI image detection tools](https://www.theverge.com/2024/5/7/24151482/openai-image-detection-ai-watermarking-audio)<!-- TECH:END -->
+ - [Source: OpenAI is developing a feature for ChatGPT that can search the web and show results with citations to sources and images &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240507/p46#a240507p46)
+ - [Twilio reports Q1 revenue up 4% YoY to $1.05B vs. $1.03B est., 313K+ active customer accounts, and forecasts Q2 revenue below est.; TWLO drops 5%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240507/p45#a240507p45)
+ - [Memo: Microsoft&#39;s Xbox division to shut down multiple Bethesda studios and consolidate teams to prioritize high-impact titles and invest in Bethesda&#39;s portfolio &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240507/p44#a240507p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
