@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8A: News, Specs, Features, Price, Release Date](https://www.wired.com/story/google-pixel-8a/)
- - [The best Pixel 8a chargers you can buy](https://www.androidauthority.com/best-google-pixel-8a-chargers-3439825/)
- - [The Google Pixel 8A is a midrange phone that might actually go the distance](https://www.theverge.com/2024/5/7/24150360/google-pixel-8a-price-specs-camera-best-take-magic-editor)<!-- TECH:END -->
+ - [Apple&#39;s new iPad Pro gets M4 power, advanced Tandem OLED screens](https://appleinsider.com/articles/24/05/07/apples-new-ipad-pro-gets-m4-power-advanced-tandem-oled-screens?utm_medium=rss)
+ - [You can upgrade the iPad Pro’s processor now, too](https://www.theverge.com/2024/5/7/24151225/apple-ipad-pro-m4-processor-storage-upgrade-1tb)
+ - [The iPad Air is now heavier than the iPad Pro](https://www.theverge.com/2024/5/7/24151193/apple-ipad-air-ipad-pro-weight)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
