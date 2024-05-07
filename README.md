@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
- - ⏩ [Save for later:](http://9gag.com/gag/agmybdW)
- - 👉 [Hasn&#39;t aged a day in like 25 years. Is she a vampire](http://9gag.com/gag/aAyYq9Z)<!-- MEMES:END -->
+ - 💣 [If mass deportations don\u2019t start soon, you\u2019ll pretty much be forced to submit to their whims](http://9gag.com/gag/ae9Nymp)
+ - ⏩ [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
+ - 👉 [No heavy breathing.](http://9gag.com/gag/avy0q8d)<!-- MEMES:END -->
 
 ---
 
