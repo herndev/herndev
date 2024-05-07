@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK banking app Revolut launches Revolut X, a crypto trading service to let &quot;experienced traders&quot; buy and sell 100+ different tokens, with 0% to 0.09% fees &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240507/p11#a240507p11)
- - [Apple Car may not be completely dead -- Apple is discussing a partnership with Rivian](https://appleinsider.com/articles/24/05/07/apple-car-may-not-be-cancelled-as-apple-discusses-partnership-with-rivian?utm_medium=rss)
- - [Apple researching how to make a &#39;Star Trek&#39; communicator badge](https://appleinsider.com/articles/22/03/24/apple-researching-how-to-make-a-star-trek-communicator-badge?utm_medium=rss)<!-- TECH:END -->
+ - [Rare AirPods 2 deal brings them within $1 of all-time low](https://www.androidauthority.com/apple-airpods-2-deal-3440293/)
+ - [Amazon’s latest Echo Show 5 and Show 8 are nearly matching their all-time lows](https://www.theverge.com/2024/5/7/24150129/amazon-echo-show-8-5-beats-studio-pro-deal-sale)
+ - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
