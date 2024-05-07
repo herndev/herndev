@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google gives you more control with updated 2FA setup process](https://www.androidauthority.com/google-2fa-update-3440298/)
- - [US Labor Board rules Apple illegally interrogated retail staff in NYC](https://appleinsider.com/articles/24/05/06/us-labor-board-rules-apple-illegally-interrogated-retail-staff-in-nyc?utm_medium=rss)
- - [Sources: Apple has been working on its own chip designed to run AI software in data center servers; the project is internally codenamed Project ACDC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240506/p26#a240506p26)<!-- TECH:END -->
+ - [A US court rejects Realtek&#39;s lawsuit accusing MediaTek of paying a company to file meritless US patent lawsuits to drive Realtek out of the TV chip market &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240506/p28#a240506p28)
+ - [Google Cloud unveils Google Threat Intelligence, which uses Gemini and combines insights from Mandiant, VirusTotal, and Google to provide faster protection &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240506/p27#a240506p27)
+ - [Google gives you more control with updated 2FA setup process](https://www.androidauthority.com/google-2fa-update-3440298/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
