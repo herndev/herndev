@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honest answer from Sony.](http://9gag.com/gag/aNDe5er)
- - ⏩ [I&#39;m shocked!](http://9gag.com/gag/aAyYLOE)
- - 👉 [Wait a second](http://9gag.com/gag/aMV1Lz6)<!-- MEMES:END -->
+ - 💣 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)
+ - ⏩ [Just think about it](http://9gag.com/gag/azxb35N)
+ - 👉 [Best legal solution](http://9gag.com/gag/aAyYzDR)<!-- MEMES:END -->
 
 ---
 
