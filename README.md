@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Feel the Burn Today with the Fire Vapor Special Edition Controller](https://news.xbox.com/en-us/2024/05/07/introducing-xbox-wireless-controller-fire-vapor-special-edition/)
- - [Microsoft Closes Studios Behind Redfall, Hi-Fi Rush, And More To Prioritize &#39;High-Impact&#39; Games](https://kotaku.com/xbox-closing-arkane-austin-tango-gameworks-1851460685)
- - [How To Defeat Headmistress Hecate In Hades 2](https://kotaku.com/hades-2-hecate-boss-fight-guide-1851460602)<!-- GAME:END -->
+ - [This Underrated 2023 Gem Is Getting A Second Chance On PC, PS5, And Xbox](https://kotaku.com/master-detective-archives-rain-code-pc-ps5-xbox-date-1851460944)
+ - [How to claim a Loot Island capture point in Fortnite](https://www.polygon.com/fortnite-guide/23989157/floating-island-claim-capture-point-location-loot-island)
+ - [In One Day, Hades II Doubled The First Game’s Record For Concurrent Players](https://kotaku.com/hades-2-steam-player-count-performance-pc-1851460841)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
