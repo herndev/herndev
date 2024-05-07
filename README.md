@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)
- - ⏩ [Just think about it](http://9gag.com/gag/azxb35N)
- - 👉 [Best legal solution](http://9gag.com/gag/aAyYzDR)<!-- MEMES:END -->
+ - 💣 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
+ - ⏩ [Lol](http://9gag.com/gag/a9ydeNm)
+ - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
 
 ---
 
