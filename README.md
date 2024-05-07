@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I could almost see her burger](http://9gag.com/gag/a4P4g66)
- - ⏩ [Honest answer from Sony.](http://9gag.com/gag/aNDe5er)
- - 👉 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)<!-- MEMES:END -->
+ - 💣 [Honest answer from Sony.](http://9gag.com/gag/aNDe5er)
+ - ⏩ [I&#39;m shocked!](http://9gag.com/gag/aAyYLOE)
+ - 👉 [Wait a second](http://9gag.com/gag/aMV1Lz6)<!-- MEMES:END -->
 
 ---
 
