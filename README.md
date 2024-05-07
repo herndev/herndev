@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
- - ⏩ [Yogafire](http://9gag.com/gag/aByKzbD)
- - 👉 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)<!-- MEMES:END -->
+ - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - ⏩ [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
+ - 👉 [Thousands of Irish People Protesting Again The Invasion of Ireland](http://9gag.com/gag/axyNw02)<!-- MEMES:END -->
 
 ---
 
