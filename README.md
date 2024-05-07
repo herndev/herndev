@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new iPad Pro gets M4 power, advanced Tandem OLED screens](https://appleinsider.com/articles/24/05/07/apples-new-ipad-pro-gets-m4-power-advanced-tandem-oled-screens?utm_medium=rss)
- - [You can upgrade the iPad Pro’s processor now, too](https://www.theverge.com/2024/5/7/24151225/apple-ipad-pro-m4-processor-storage-upgrade-1tb)
- - [The iPad Air is now heavier than the iPad Pro](https://www.theverge.com/2024/5/7/24151193/apple-ipad-air-ipad-pro-weight)<!-- TECH:END -->
+ - [Apple lowers the price of 10th-gen iPads $100 to $349 and discontinues the 9th-gen iPad with Home button and headphone jack &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240507/p33#a240507p33)
+ - [The new iPad Pro drops the ultra-wide camera; 1TB and 2TB models have 16GB RAM and M4 chips with 10-core CPUs, vs. 8GB RAM and 9-core CPU M4 in 256/512GB models &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240507/p32#a240507p32)
+ - [The new iPads are ditching physical SIM cards](https://www.theverge.com/2024/5/7/24151262/apple-ipad-pro-air-esim-only)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
