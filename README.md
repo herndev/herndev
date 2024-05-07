@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group reports Q1 revenue up 9% YoY to $859.6M, vs. $855.5M est., paying users down 6% YoY to 14.9M, and forecasts Q2 revenue below expectations &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240507/p38#a240507p38)
- - [Lyft reports Q1 revenue up 28% YoY to $1.3B, a $31.5M net loss, gross bookings up 21%, active riders growing at the fastest pace since 2022, up 12% YoY to 21.9M &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240507/p37#a240507p37)
- - [Reddit Q1: revenue up 48% YoY to $243M, vs. $212.8M est., net loss of $575.1M, driven by IPO expenses, and DAUq total up 37% to 82.7M; RDDT up 15%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240507/p36#a240507p36)<!-- TECH:END -->
+ - [A look at LPCAMM2, a totally modular, repairable, and upgradeable memory standard for laptops that doesn&#39;t require soldering LPDDR chips to the motherboard &lpar;Carsten Frauenheim/iFixit News&rpar;](http://www.techmeme.com/240507/p42#a240507p42)
+ - [Samsung’s first 3nm Exynos chip nears mass production phase](https://www.androidauthority.com/samsung-3nm-exynos-chip-mass-production-3440807/)
+ - [OpenAI working on new AI image detection tools](https://www.theverge.com/2024/5/7/24151482/openai-image-detection-ai-watermarking-audio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
