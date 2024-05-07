@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Underrated 2023 Gem Is Getting A Second Chance On PC, PS5, And Xbox](https://kotaku.com/master-detective-archives-rain-code-pc-ps5-xbox-date-1851460944)
- - [How to claim a Loot Island capture point in Fortnite](https://www.polygon.com/fortnite-guide/23989157/floating-island-claim-capture-point-location-loot-island)
- - [In One Day, Hades II Doubled The First Game’s Record For Concurrent Players](https://kotaku.com/hades-2-steam-player-count-performance-pc-1851460841)<!-- GAME:END -->
+ - [Microsoft announces 4 studio closures—including Arkane Austin and Tango Gameworks, creators of Prey and Hi-Fi Rush respectively](https://www.pcgamer.com/gaming-industry/microsoft-announces-4-studio-closuresincluding-arkane-austin-and-tango-gameworks-creators-of-prey-and-hi-fi-rush-respectively)
+ - [V Rising review](https://www.pcgamer.com/games/survival-crafting/v-rising-review)
+ - [This Underrated 2023 Gem Is Getting A Second Chance On PC, PS5, And Xbox](https://kotaku.com/master-detective-archives-rain-code-pc-ps5-xbox-date-1851460944)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
