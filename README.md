@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Switch 2 will be revealed before April 2025, promises Nintendo](https://www.theverge.com/2024/5/7/24150891/nintendo-switch-2-console-announcement-earnings-q4-2024)
  - [Apple could finally catch up to Android with its own Generative AI photo editing tools](https://www.androidauthority.com/apple-photos-app-generative-ai-editing-tools-3440355/)
- - [The best-selling Android phone in Q1 2024 costs more than $1,000](https://www.androidauthority.com/best-selling-phones-q1-2024-3440183/)
- - [A look at Campaign Nucleus, an AI company from ex-Trump campaign manager Brad Parscale, who says its AI can generate emails, gauge voter sentiment, and more &lpar;Associated Press&rpar;](http://www.techmeme.com/240507/p2#a240507p2)<!-- TECH:END -->
+ - [The best-selling Android phone in Q1 2024 costs more than $1,000](https://www.androidauthority.com/best-selling-phones-q1-2024-3440183/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
