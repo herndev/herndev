@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
- - ⏩ [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
- - 👉 [No heavy breathing.](http://9gag.com/gag/avy0q8d)<!-- MEMES:END -->
+ - 💣 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - ⏩ [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
 
 ---
 
