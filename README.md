@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
- - ⏩ [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
- - 👉 [Fair rules](http://9gag.com/gag/aByKzVO)<!-- MEMES:END -->
+ - 💣 [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
+ - ⏩ [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
+ - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
 
 ---
 
