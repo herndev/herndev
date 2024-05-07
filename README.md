@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6 biggest announcements from Apple’s iPad event](https://www.theverge.com/24148044/apple-ipad-let-loose-event-biggest-announcements-may-2024)
- - [Final Cut Pro and Logic Pro get major updates on iPad](https://appleinsider.com/articles/24/05/07/final-cut-pro-and-logic-pro-get-major-updates-on-ipad?utm_medium=rss)
- - [Tesla vehicles kept crashing even after the Autopilot software updates, NHTSA says](https://www.theverge.com/2024/5/7/24151077/tesla-autopilot-nhtsa-recall-crash-data-request)<!-- TECH:END -->
+ - [Google Pixel 8A: News, Specs, Features, Price, Release Date](https://www.wired.com/story/google-pixel-8a/)
+ - [The best Pixel 8a chargers you can buy](https://www.androidauthority.com/best-google-pixel-8a-chargers-3439825/)
+ - [The Google Pixel 8A is a midrange phone that might actually go the distance](https://www.theverge.com/2024/5/7/24150360/google-pixel-8a-price-specs-camera-best-take-magic-editor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
