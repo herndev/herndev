@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - ⏩ [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 👉 [Seriously?](http://9gag.com/gag/awyrPqR)<!-- MEMES:END -->
+ - 💣 [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)
+ - ⏩ [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - 👉 [So close yet, so far](http://9gag.com/gag/aKGznMj)<!-- MEMES:END -->
 
 ---
 
