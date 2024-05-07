@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So close yet, so far](http://9gag.com/gag/aKGznMj)
- - ⏩ [What 30 packs of cigarretes can do to cottton balls](http://9gag.com/gag/a9yd4Ro)
- - 👉 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)<!-- MEMES:END -->
+ - 💣 [Driver records the moment he splashes water on cyclists](http://9gag.com/gag/aLnKOPP)
+ - ⏩ [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 👉 [Seriously?](http://9gag.com/gag/awyrPqR)<!-- MEMES:END -->
 
 ---
 
