@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s Time To Stop Giving Xbox Boss Phil Spencer A Pass](https://kotaku.com/xbox-phil-spencer-layoffs-hi-fi-rush-studios-closed-1851461546)
- - [How to get Thavnairian Onions in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24126259/thavnairian-onions-how-to-get-garden-plant-crossbreed-grow-quests)
- - [How to make the most of Destiny 2 Expansion Open Access, live now](https://blog.playstation.com/2024/05/07/how-to-make-the-most-of-destiny-2-expansion-open-access-live-now/)<!-- GAME:END -->
+ - [Athenian Rhapsody Brings Laughs, Community, and IBS](https://news.xbox.com/en-us/2024/05/07/athenian-rhapsody-brings-laughs-community-and-ibs/)
+ - [Round out your D&amp;D collection with these Amazon deals](https://www.polygon.com/deals/24151253/amazon-dungeons-and-dragons-tabletop-deal-sale)
+ - [Hades 2 is all about witches and feminine power](https://www.polygon.com/24151266/hades-2-early-access-content-hecate-scylla-bosses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
