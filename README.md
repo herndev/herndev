@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Wednesday season 2](https://www.polygon.com/24151542/wednesday-netflix-season-2-cast-release-date)
- - [Microsoft Tried To &#39;Steal&#39; Little Big Planet From Sony](https://kotaku.com/xbox-little-big-planet-steal-away-buy-playstation-sony-1851462178)
- - [Marvel Snap Spotlight Cache schedule for May 2024](https://www.polygon.com/marvel-snap-guides/23984059/spotlight-cache-schedule)<!-- GAME:END -->
+ - [How to find and use Bronze in Hades 2](https://www.pcgamer.com/games/action/hades-2-how-to-find-and-use-bronze)
+ - [It&#39;s Time To Stop Giving Xbox Boss Phil Spencer A Pass](https://kotaku.com/xbox-phil-spencer-layoffs-hi-fi-rush-studios-closed-1851461546)
+ - [Helldivers 2 Community Manager Seemingly Gone After PlayStation Login Meltdown](https://kotaku.com/helldivers-2-community-manager-fired-psn-steam-1851462302)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
