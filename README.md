@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US court rejects Realtek&#39;s lawsuit accusing MediaTek of paying a company to file meritless US patent lawsuits to drive Realtek out of the TV chip market &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240506/p28#a240506p28)
- - [Google Cloud unveils Google Threat Intelligence, which uses Gemini and combines insights from Mandiant, VirusTotal, and Google to provide faster protection &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240506/p27#a240506p27)
- - [Google gives you more control with updated 2FA setup process](https://www.androidauthority.com/google-2fa-update-3440298/)<!-- TECH:END -->
+ - [Secret Apple &#39;Project ACDC&#39; to pioneer AI chips for data centers](https://appleinsider.com/articles/24/05/07/secret-apple-project-acdc-to-pioneer-ai-chips-for-data-centers?utm_medium=rss)
+ - [Why the Cybersecurity Industry Is Obsessed With AI Right Now     - CNET](https://www.cnet.com/tech/services-and-software/rsa-conference-2024/#ftag=CAD590a51e)
+ - [A US court rejects Realtek&#39;s lawsuit accusing MediaTek of paying a company to file meritless US patent lawsuits to drive Realtek out of the TV chip market &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240506/p28#a240506p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
