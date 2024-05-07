@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 6 leak hints at a much-needed change, but it’s still not enough](https://www.androidauthority.com/galaxy-z-fold6-outer-screen-3440782/)
- - [CMF by Nothing’s first phone has key details revealed in new leak](https://www.androidauthority.com/cmf-by-nothing-phone-leak-3440702/)
- - [This is the Sonos Roam 2 portable speaker](https://www.theverge.com/2024/5/7/24151392/sonos-roam-2-speaker-features-design-exclusive)<!-- TECH:END -->
+ - [Match Group reports Q1 revenue up 9% YoY to $859.6M, vs. $855.5M est., paying users down 6% YoY to 14.9M, and forecasts Q2 revenue below expectations &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240507/p38#a240507p38)
+ - [Lyft reports Q1 revenue up 28% YoY to $1.3B, a $31.5M net loss, gross bookings up 21%, active riders growing at the fastest pace since 2022, up 12% YoY to 21.9M &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240507/p37#a240507p37)
+ - [Reddit Q1: revenue up 48% YoY to $243M, vs. $212.8M est., net loss of $575.1M, driven by IPO expenses, and DAUq total up 37% to 82.7M; RDDT up 15%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240507/p36#a240507p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
