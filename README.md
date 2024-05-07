@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Driver records the moment he splashes water on cyclists](http://9gag.com/gag/aLnKOPP)
- - ⏩ [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 💣 [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - ⏩ [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
  - 👉 [Seriously?](http://9gag.com/gag/awyrPqR)<!-- MEMES:END -->
 
 ---
