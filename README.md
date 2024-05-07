@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
- - ⏩ [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
- - 👉 [Thousands of Irish People Protesting Again The Invasion of Ireland](http://9gag.com/gag/axyNw02)<!-- MEMES:END -->
+ - 💣 [Books to open your mind. Suggest more in comments.](http://9gag.com/gag/aYQb5r0)
+ - ⏩ [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
+ - 👉 [Oops!](http://9gag.com/gag/apRqjw8)<!-- MEMES:END -->
 
 ---
 
