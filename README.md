@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;Operation Clean-up&#39; begins for Helldivers 2 players as Sony&#39;s PSN plans lie in rubble, with over 70,000 &lpar;and counting&rpar; positive reviews landing on Steam](https://www.pcgamer.com/games/third-person-shooter/operation-clean-up-begins-for-helldivers-2-players-as-sonys-psn-plans-lie-in-rubble-with-over-70000-and-counting-positive-reviews-landing-on-steam)
  - [Broken Roads: The NPCs We Love to Hate](https://news.xbox.com/en-us/2024/05/07/broken-roads-the-npcs-we-love-to-hate/)
- - [Nintendo Finally Confirms Switch Successor’s Existence, Says It’ll Officially Announce ‘Within This Fiscal Year’](https://kotaku.com/nintendo-finally-confirms-switch-successor-s-existence-1851460193)
- - [What time does Helldivers 2’s Polar Patriots Warbond release?](https://www.polygon.com/guides/2024/5/7/24150550/helldivers-2-polar-patriots-warbond-start-time-release-date)<!-- GAME:END -->
+ - [Nintendo Finally Confirms Switch Successor’s Existence, Says It’ll Officially Announce ‘Within This Fiscal Year’](https://kotaku.com/nintendo-finally-confirms-switch-successor-s-existence-1851460193)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
