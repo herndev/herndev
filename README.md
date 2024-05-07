@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The May update is here for the Pixel Watch but not for Pixel phones](https://www.androidauthority.com/pixel-watch-may-2024-update-3440338/)
- - [Amazon announces plans to double its cloud infrastructure investment in Singapore to $9B, to be done over the next four years, to meet the cloud and AI demand &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240507/p1#a240507p1)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 7, #331     - CNET](https://www.cnet.com/tech/todays-nyt-connections-hints-and-answer-help-for-may-7-331/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple could finally catch up to Android with its own Generative AI photo editing tools](https://www.androidauthority.com/apple-photos-app-generative-ai-editing-tools-3440355/)
+ - [The best-selling Android phone in Q1 2024 costs more than $1,000](https://www.androidauthority.com/best-selling-phones-q1-2024-3440183/)
+ - [A look at Campaign Nucleus, an AI company from ex-Trump campaign manager Brad Parscale, who says its AI can generate emails, gauge voter sentiment, and more &lpar;Associated Press&rpar;](http://www.techmeme.com/240507/p2#a240507p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
