@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switch 2 will be revealed before April 2025, promises Nintendo](https://www.theverge.com/2024/5/7/24150891/nintendo-switch-2-console-announcement-earnings-q4-2024)
- - [Apple could finally catch up to Android with its own Generative AI photo editing tools](https://www.androidauthority.com/apple-photos-app-generative-ai-editing-tools-3440355/)
- - [The best-selling Android phone in Q1 2024 costs more than $1,000](https://www.androidauthority.com/best-selling-phones-q1-2024-3440183/)<!-- TECH:END -->
+ - [Nintendo reports net profit up 13% YoY to ~$3.2B in the past fiscal year and expects profit to drop 39% YoY and revenue to drop 19% YoY in this fiscal year &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/240507/p4#a240507p4)
+ - [And now his watch is ended: Fossil’s Wear OS smartwatches are now extinct](https://www.androidauthority.com/fossil-wear-os-smartwatch-exit-complete-3440376/)
+ - [Nintendo confirms Switch 2 is coming, but you have time to save up](https://www.androidauthority.com/nintendo-switch-2-announcement-confirmation-3440364/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
