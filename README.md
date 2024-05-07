@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad event: all the news from Apple’s ‘Let Loose’ reveal](https://www.theverge.com/2024/5/7/24150047/apple-ipad-let-loose-event-news-announcements)
- - [A live blog of Apple&#39;s &quot;Let Loose&quot; event, where OLED iPad Pros, a bigger iPad Air, a more laptop-esque Magic Keyboard, and a &quot;pro&quot; style Pencil are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240507/p17#a240507p17)
- - [Amazon&#39;s hexacopter drones, planned for use in Tolleson, Arizona, can&#39;t operate when temperatures top 104&amp;deg;F, less than the average summer highs in the city &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240507/p16#a240507p16)<!-- TECH:END -->
+ - [The 6 biggest announcements from Apple’s iPad event](https://www.theverge.com/24148044/apple-ipad-let-loose-event-biggest-announcements-may-2024)
+ - [Final Cut Pro and Logic Pro get major updates on iPad](https://appleinsider.com/articles/24/05/07/final-cut-pro-and-logic-pro-get-major-updates-on-ipad?utm_medium=rss)
+ - [Tesla vehicles kept crashing even after the Autopilot software updates, NHTSA says](https://www.theverge.com/2024/5/7/24151077/tesla-autopilot-nhtsa-recall-crash-data-request)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
