@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches Bedrock Studio in public preview, a web tool to help orgs experiment with and collaborate on generative AI models and then build AI-powered apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240507/p34#a240507p34)
- - [OpenAI Offers an Olive Branch to Artists Wary of Feeding AI Algorithms](https://www.wired.com/story/openai-olive-branch-artists-ai-algorithms/)
- - [To no one’s surprise, TikTok is using the US government](https://www.androidauthority.com/tiktok-sues-us-government-3440718/)<!-- TECH:END -->
+ - [Galaxy Z Fold 6 leak hints at a much-needed change, but it’s still not enough](https://www.androidauthority.com/galaxy-z-fold6-outer-screen-3440782/)
+ - [CMF by Nothing’s first phone has key details revealed in new leak](https://www.androidauthority.com/cmf-by-nothing-phone-leak-3440702/)
+ - [This is the Sonos Roam 2 portable speaker](https://www.theverge.com/2024/5/7/24151392/sonos-roam-2-speaker-features-design-exclusive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
