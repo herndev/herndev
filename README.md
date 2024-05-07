@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Operation Clean-up&#39; begins for Helldivers 2 players as Sony&#39;s PSN plans lie in rubble, with over 70,000 &lpar;and counting&rpar; positive reviews landing on Steam](https://www.pcgamer.com/games/third-person-shooter/operation-clean-up-begins-for-helldivers-2-players-as-sonys-psn-plans-lie-in-rubble-with-over-70000-and-counting-positive-reviews-landing-on-steam)
- - [Broken Roads: The NPCs We Love to Hate](https://news.xbox.com/en-us/2024/05/07/broken-roads-the-npcs-we-love-to-hate/)
- - [Nintendo Finally Confirms Switch Successor’s Existence, Says It’ll Officially Announce ‘Within This Fiscal Year’](https://kotaku.com/nintendo-finally-confirms-switch-successor-s-existence-1851460193)<!-- GAME:END -->
+ - [Feel the Burn Today with the Fire Vapor Special Edition Controller](https://news.xbox.com/en-us/2024/05/07/introducing-xbox-wireless-controller-fire-vapor-special-edition/)
+ - [Microsoft Closes Studios Behind Redfall, Hi-Fi Rush, And More To Prioritize &#39;High-Impact&#39; Games](https://kotaku.com/xbox-closing-arkane-austin-tango-gameworks-1851460685)
+ - [How To Defeat Headmistress Hecate In Hades 2](https://kotaku.com/hades-2-hecate-boss-fight-guide-1851460602)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
