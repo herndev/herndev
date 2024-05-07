@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
- - ⏩ [Seriously?](http://9gag.com/gag/awyrPqR)
- - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
+ - 💣 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
+ - ⏩ [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
+ - 👉 [Fair rules](http://9gag.com/gag/aByKzVO)<!-- MEMES:END -->
 
 ---
 
