@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nothing makes sense anymore: They&#39;re making Funko Pops out of the cult classic 2004 Obsidian RPG, Star Wars: Knights of the Old Republic 2: The Sith Lords](https://www.pcgamer.com/games/rpg/nothing-makes-sense-anymore-theyre-making-funko-pops-out-of-the-cult-classic-2004-obsidian-rpg-star-wars-knights-of-the-old-republic-2-the-sith-lords)
- - [9 Things To Know Before Starting Hades 2](https://kotaku.com/hades-2-tips-beginner-start-1851459493)
- - [Looking for a capture card? Our guide has the top picks](https://www.polygon.com/what-to-buy/23808448/best-capture-card)<!-- GAME:END -->
+ - [It&#39;s been an incredible few weeks for game companies making avoidable mistakes they immediately back down from](https://www.pcgamer.com/gaming-industry/its-been-an-incredible-few-weeks-for-game-companies-making-avoidable-errors-they-immediately-back-down-from)
+ - [The best Hades 2 weapons and how to unlock them](https://www.pcgamer.com/games/action/hades-2-unlock-best-weapons)
+ - [Nothing makes sense anymore: They&#39;re making Funko Pops out of the cult classic 2004 Obsidian RPG, Star Wars: Knights of the Old Republic 2: The Sith Lords](https://www.pcgamer.com/games/rpg/nothing-makes-sense-anymore-theyre-making-funko-pops-out-of-the-cult-classic-2004-obsidian-rpg-star-wars-knights-of-the-old-republic-2-the-sith-lords)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
