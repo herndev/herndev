@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just think about it](http://9gag.com/gag/azxb35N)
- - ⏩ [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
- - 👉 [That&#39;s a goat review](http://9gag.com/gag/arypL90)<!-- MEMES:END -->
+ - 💣 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - ⏩ [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 👉 [Now this is good..](http://9gag.com/gag/aryp7yV)<!-- MEMES:END -->
 
 ---
 
