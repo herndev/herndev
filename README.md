@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI plans now include cybersecurity](https://www.theverge.com/2024/5/6/24150610/google-gemini-cybersecurity-mandiant)
- - [A look at the trademark dispute over the name AGI House between two rival hacker houses, one in Hillsborough and the other in Twin Peaks in the Bay Area &lpar;Forbes&rpar;](http://www.techmeme.com/240506/p24#a240506p24)
- - [The Boeing Starliner Is Finally Taking People Into Space: How to Watch the Launch Tonight     - CNET](https://www.cnet.com/science/space/the-boeing-starliner-is-finally-taking-people-into-space-how-to-watch-the-launch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google gives you more control with updated 2FA setup process](https://www.androidauthority.com/google-2fa-update-3440298/)
+ - [US Labor Board rules Apple illegally interrogated retail staff in NYC](https://appleinsider.com/articles/24/05/06/us-labor-board-rules-apple-illegally-interrogated-retail-staff-in-nyc?utm_medium=rss)
+ - [Sources: Apple has been working on its own chip designed to run AI software in data center servers; the project is internally codenamed Project ACDC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240506/p26#a240506p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
