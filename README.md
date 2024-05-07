@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Helldivers 2’s Polar Patriots Warbond release?](https://www.polygon.com/guides/2024/5/7/24150550/helldivers-2-polar-patriots-warbond-start-time-release-date)
  - [Intel pressures all motherboard manufacturers to implement default power settings by the end of May](https://www.pcgamer.com/hardware/processors/intel-pressures-all-motherboard-manufacturers-to-implement-default-power-settings-by-the-end-of-may)
- - [Can Hitmonlee and Hitmonchan be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24147249/can-hitmonchan-hitmonlee-be-shiny-tyrogue-hitmontop)
- - [Today&#39;s Wordle answer for Tuesday, May 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-7-2024)<!-- GAME:END -->
+ - [Can Hitmonlee and Hitmonchan be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24147249/can-hitmonchan-hitmonlee-be-shiny-tyrogue-hitmontop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
