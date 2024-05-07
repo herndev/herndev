@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Athenian Rhapsody Brings Laughs, Community, and IBS](https://news.xbox.com/en-us/2024/05/07/athenian-rhapsody-brings-laughs-community-and-ibs/)
- - [Round out your D&amp;D collection with these Amazon deals](https://www.polygon.com/deals/24151253/amazon-dungeons-and-dragons-tabletop-deal-sale)
- - [Hades 2 is all about witches and feminine power](https://www.polygon.com/24151266/hades-2-early-access-content-hecate-scylla-bosses)<!-- GAME:END -->
+ - [Hades 2: The Best Cauldron Incantations To Unlock First](https://kotaku.com/hades-2-incantations-unlock-first-tips-1851461926)
+ - [Final Fantasy XIV Suffers DDoS Outage As Devs Work On A Fix](https://kotaku.com/final-fantasy-14-ffxiv-ddos-servers-outage-down-1851459148)
+ - [Athenian Rhapsody Brings Laughs, Community, and IBS](https://news.xbox.com/en-us/2024/05/07/athenian-rhapsody-brings-laughs-community-and-ibs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
