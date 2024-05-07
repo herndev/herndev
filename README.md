@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - ⏩ [Not many i think](http://9gag.com/gag/ayN5w9V)
- - 👉 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)<!-- MEMES:END -->
+ - 💣 [Just think about it](http://9gag.com/gag/azxb35N)
+ - ⏩ [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
+ - 👉 [That&#39;s a goat review](http://9gag.com/gag/arypL90)<!-- MEMES:END -->
 
 ---
 
