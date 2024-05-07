@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - ⏩ [Bro-zoned](http://9gag.com/gag/a1mAq46)
- - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
+ - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - ⏩ [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
 
 ---
 
