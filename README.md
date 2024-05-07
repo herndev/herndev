@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - ⏩ [Save for later:](http://9gag.com/gag/agmybdW)
- - 👉 [Not many i think](http://9gag.com/gag/ayN5w9V)<!-- MEMES:END -->
+ - 💣 [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - ⏩ [Not many i think](http://9gag.com/gag/ayN5w9V)
+ - 👉 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)<!-- MEMES:END -->
 
 ---
 
