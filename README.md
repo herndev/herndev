@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - ⏩ [Lol](http://9gag.com/gag/a9ydeNm)
- - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
+ - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - ⏩ [Save for later:](http://9gag.com/gag/agmybdW)
+ - 👉 [Not many i think](http://9gag.com/gag/ayN5w9V)<!-- MEMES:END -->
 
 ---
 
