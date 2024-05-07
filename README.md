@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A 10-foot-tall statue of Messmer the Impaler could be yours, but first, you need to edit a killer Elden Ring trailer](https://www.pcgamer.com/games/dark-souls/a-10-foot-tall-statue-of-messmer-the-impaler-could-be-yours-but-first-you-need-to-edit-a-killer-elden-ring-trailer)
- - [&#39;A F***ing Gut Stab&#39;: Game Industry Reacts To Shocking New Studio Closures](https://kotaku.com/microsoft-xbox-arkane-evil-within-3-prey-2-layoffs-1851461099)
- - [Hi-Fi Rush Was The Hit Xbox Needed, And It Still Wasn&#39;t Enough For Them](https://kotaku.com/hi-fi-rush-tango-gameworks-shut-down-xbox-studios-1851461379)<!-- GAME:END -->
+ - [It&#39;s Time To Stop Giving Xbox Boss Phil Spencer A Pass](https://kotaku.com/xbox-phil-spencer-layoffs-hi-fi-rush-studios-closed-1851461546)
+ - [How to get Thavnairian Onions in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24126259/thavnairian-onions-how-to-get-garden-plant-crossbreed-grow-quests)
+ - [How to make the most of Destiny 2 Expansion Open Access, live now](https://blog.playstation.com/2024/05/07/how-to-make-the-most-of-destiny-2-expansion-open-access-live-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
