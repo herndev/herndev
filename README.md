@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US and Chinese diplomats plan to meet later in May to find common ground on AI usage and situations where AI should be banned, like controlling nuclear arsenals &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240507/p6#a240507p6)
- - [OpenSecrets: crypto sector-backed super PACs have raised $102M+ so far, the third-most of 2024 election PACs, including $54M from companies like Coinbase &lpar;Rick Claypool/Public Citizen&rpar;](http://www.techmeme.com/240507/p5#a240507p5)
- - [Apple Car may not be cancelled as Apple discusses partnership with Rivian](https://appleinsider.com/articles/24/05/07/apple-car-may-not-be-cancelled-as-apple-discusses-partnership-with-rivian?utm_medium=rss)<!-- TECH:END -->
+ - [MITRE, a federally funded, not-for-profit US research organization, plans to build a $20M supercomputer with Nvidia to build AI tools for the federal government &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240507/p9#a240507p9)
+ - [Sources and messages: Binance compliance officer Tigran Gambaryan told executives and Nigerian contacts of a $150M crypto bribe request, prior to his arrest &lpar;New York Times&rpar;](http://www.techmeme.com/240507/p8#a240507p8)
+ - [Yubico bolsters authentication security with updated YubiKey 5 series devices](https://www.theverge.com/2024/5/7/24150918/yubico-5-7-firmware-update-security-key-yubikey-5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
