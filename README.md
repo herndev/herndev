@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple lowers the price of 10th-gen iPads $100 to $349 and discontinues the 9th-gen iPad with Home button and headphone jack &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240507/p33#a240507p33)
- - [The new iPad Pro drops the ultra-wide camera; 1TB and 2TB models have 16GB RAM and M4 chips with 10-core CPUs, vs. 8GB RAM and 9-core CPU M4 in 256/512GB models &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240507/p32#a240507p32)
- - [The new iPads are ditching physical SIM cards](https://www.theverge.com/2024/5/7/24151262/apple-ipad-pro-air-esim-only)<!-- TECH:END -->
+ - [Amazon launches Bedrock Studio in public preview, a web tool to help orgs experiment with and collaborate on generative AI models and then build AI-powered apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240507/p34#a240507p34)
+ - [OpenAI Offers an Olive Branch to Artists Wary of Feeding AI Algorithms](https://www.wired.com/story/openai-olive-branch-artists-ai-algorithms/)
+ - [To no one’s surprise, TikTok is using the US government](https://www.androidauthority.com/tiktok-sues-us-government-3440718/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
