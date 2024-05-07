@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If mass deportations don\u2019t start soon, you\u2019ll pretty much be forced to submit to their whims](http://9gag.com/gag/ae9Nymp)
- - ⏩ [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
- - 👉 [No heavy breathing.](http://9gag.com/gag/avy0q8d)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
+ - ⏩ [Yogafire](http://9gag.com/gag/aByKzbD)
+ - 👉 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)<!-- MEMES:END -->
 
 ---
 
