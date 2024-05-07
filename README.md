@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yogafire](http://9gag.com/gag/aByKzbD)
- - ⏩ [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
- - 👉 [No heavy breathing.](http://9gag.com/gag/avy0q8d)<!-- MEMES:END -->
+ - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - ⏩ [Bro-zoned](http://9gag.com/gag/a1mAq46)
+ - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
 
 ---
 
