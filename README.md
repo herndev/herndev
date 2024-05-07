@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Books to open your mind. Suggest more in comments.](http://9gag.com/gag/aYQb5r0)
- - ⏩ [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - 👉 [Oops!](http://9gag.com/gag/apRqjw8)<!-- MEMES:END -->
+ - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - ⏩ [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
+ - 👉 [No heavy breathing.](http://9gag.com/gag/avy0q8d)<!-- MEMES:END -->
 
 ---
 
