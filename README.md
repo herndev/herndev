@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare AirPods 2 deal brings them within $1 of all-time low](https://www.androidauthority.com/apple-airpods-2-deal-3440293/)
- - [Amazon’s latest Echo Show 5 and Show 8 are nearly matching their all-time lows](https://www.theverge.com/2024/5/7/24150129/amazon-echo-show-8-5-beats-studio-pro-deal-sale)
- - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)<!-- TECH:END -->
+ - [Apple iPad event: all the news from Apple’s ‘Let Loose’ reveal](https://www.theverge.com/2024/5/7/24150047/apple-ipad-let-loose-event-news-announcements)
+ - [A live blog of Apple&#39;s &quot;Let Loose&quot; event, where OLED iPad Pros, a bigger iPad Air, a more laptop-esque Magic Keyboard, and a &quot;pro&quot; style Pencil are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240507/p17#a240507p17)
+ - [Amazon&#39;s hexacopter drones, planned for use in Tolleson, Arizona, can&#39;t operate when temperatures top 104&amp;deg;F, less than the average summer highs in the city &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240507/p16#a240507p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
