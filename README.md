@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft announces 4 studio closures—including Arkane Austin and Tango Gameworks, creators of Prey and Hi-Fi Rush respectively](https://www.pcgamer.com/gaming-industry/microsoft-announces-4-studio-closuresincluding-arkane-austin-and-tango-gameworks-creators-of-prey-and-hi-fi-rush-respectively)
- - [V Rising review](https://www.pcgamer.com/games/survival-crafting/v-rising-review)
- - [This Underrated 2023 Gem Is Getting A Second Chance On PC, PS5, And Xbox](https://kotaku.com/master-detective-archives-rain-code-pc-ps5-xbox-date-1851460944)<!-- GAME:END -->
+ - [A 10-foot-tall statue of Messmer the Impaler could be yours, but first, you need to edit a killer Elden Ring trailer](https://www.pcgamer.com/games/dark-souls/a-10-foot-tall-statue-of-messmer-the-impaler-could-be-yours-but-first-you-need-to-edit-a-killer-elden-ring-trailer)
+ - [&#39;A F***ing Gut Stab&#39;: Game Industry Reacts To Shocking New Studio Closures](https://kotaku.com/microsoft-xbox-arkane-evil-within-3-prey-2-layoffs-1851461099)
+ - [Hi-Fi Rush Was The Hit Xbox Needed, And It Still Wasn&#39;t Enough For Them](https://kotaku.com/hi-fi-rush-tango-gameworks-shut-down-xbox-studios-1851461379)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
