@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades 2: The Best Cauldron Incantations To Unlock First](https://kotaku.com/hades-2-incantations-unlock-first-tips-1851461926)
- - [Final Fantasy XIV Suffers DDoS Outage As Devs Work On A Fix](https://kotaku.com/final-fantasy-14-ffxiv-ddos-servers-outage-down-1851459148)
- - [Athenian Rhapsody Brings Laughs, Community, and IBS](https://news.xbox.com/en-us/2024/05/07/athenian-rhapsody-brings-laughs-community-and-ibs/)<!-- GAME:END -->
+ - [Bungie continues recent streak of Ws by making most Destiny 2 expansions free to everyone](https://www.pcgamer.com/games/fps/bungie-continues-recent-streak-of-ws-by-making-most-destiny-2-expansions-free-to-everyone)
+ - [Save $56 on an annual Game Pass Ultimate subscription through Woot](https://www.polygon.com/deals/24151394/woot-game-pass-ultimate-xbox-pc-deal-sale)
+ - [Cyberpunk Edgerunners Won&#39;t Get A New Season, But It&#39;s Getting A Tabletop Epilogue](https://kotaku.com/cyberpunk-edgerunners-mission-kit-jacket-season-2-2077-1851462129)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
