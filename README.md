@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie continues recent streak of Ws by making most Destiny 2 expansions free to everyone](https://www.pcgamer.com/games/fps/bungie-continues-recent-streak-of-ws-by-making-most-destiny-2-expansions-free-to-everyone)
- - [Save $56 on an annual Game Pass Ultimate subscription through Woot](https://www.polygon.com/deals/24151394/woot-game-pass-ultimate-xbox-pc-deal-sale)
- - [Cyberpunk Edgerunners Won&#39;t Get A New Season, But It&#39;s Getting A Tabletop Epilogue](https://kotaku.com/cyberpunk-edgerunners-mission-kit-jacket-season-2-2077-1851462129)<!-- GAME:END -->
+ - [Everything we know about Wednesday season 2](https://www.polygon.com/24151542/wednesday-netflix-season-2-cast-release-date)
+ - [Microsoft Tried To &#39;Steal&#39; Little Big Planet From Sony](https://kotaku.com/xbox-little-big-planet-steal-away-buy-playstation-sony-1851462178)
+ - [Marvel Snap Spotlight Cache schedule for May 2024](https://www.polygon.com/marvel-snap-guides/23984059/spotlight-cache-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
