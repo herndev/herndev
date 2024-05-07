@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He knows to much](http://9gag.com/gag/aPAv2jq)
- - ⏩ [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
- - 👉 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)<!-- MEMES:END -->
+ - 💣 [I could almost see her burger](http://9gag.com/gag/a4P4g66)
+ - ⏩ [Honest answer from Sony.](http://9gag.com/gag/aNDe5er)
+ - 👉 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)<!-- MEMES:END -->
 
 ---
 
