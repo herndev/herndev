@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
- - ⏩ [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
+ - 💣 [So close yet, so far](http://9gag.com/gag/aKGznMj)
+ - ⏩ [What 30 packs of cigarretes can do to cottton balls](http://9gag.com/gag/a9yd4Ro)
+ - 👉 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)<!-- MEMES:END -->
 
 ---
 
