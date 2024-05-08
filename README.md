@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Great Master](http://9gag.com/gag/amoXZwj)
- - ⏩ [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
- - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
+ - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - ⏩ [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
 
 ---
 
