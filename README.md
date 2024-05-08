@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox’s Shift To ‘High-Impact’ Games Is Misguided At Best, Reckless At Worst](https://kotaku.com/xbox-bethesda-layoffs-high-impact-games-1851464703)
- - [Mark Hamill Is Back As The Joker In MultiVersus](https://kotaku.com/mark-hamill-joker-voice-multiversus-batman-retired-1851464536)
- - [What’s Even The Point Of Xbox Game Pass Now?](https://kotaku.com/xbox-game-pass-arkane-tango-gameworks-closure-1851464470)<!-- GAME:END -->
+ - [Where to find bronze in Hades 2](https://www.polygon.com/hades-2-guides/24152102/bronze-how-to-get-olympus-surface-how-to-reach)
+ - [Hades 2 Is A Good Time On Steam Deck &lpar;Here’s How To Make It Better&rpar;](https://kotaku.com/hades-2-steam-deck-settings-grip-buttons-1851464871)
+ - [New gaming handheld alert: Asus will stream info about &#39;the next ROG Ally&#39; tomorrow](https://www.pcgamer.com/hardware/new-gaming-handheld-alert-asus-will-stream-info-about-the-next-rog-ally-tomorrow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
