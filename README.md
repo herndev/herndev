@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t use the time machine](http://9gag.com/gag/aoyzwv2)
- - ⏩ [You are now on the watch list.](http://9gag.com/gag/aW4Z5AA)
+ - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - ⏩ [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
  - 👉 [Not many i think](http://9gag.com/gag/ayN5w9V)<!-- MEMES:END -->
 
 ---
