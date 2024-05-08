@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - ⏩ [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
+ - 💣 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
+ - ⏩ [Peak Cinema](http://9gag.com/gag/avy0KrM)
+ - 👉 [He felt so accomplished](http://9gag.com/gag/a0e9yWL)<!-- MEMES:END -->
 
 ---
 
