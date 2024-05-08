@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox’s Shift To ‘High-Impact’ Games Is Misguided At Best, Reckless At Worst](https://kotaku.com/xbox-bethesda-layoffs-high-impact-games-1851464703)
  - [Mark Hamill Is Back As The Joker In MultiVersus](https://kotaku.com/mark-hamill-joker-voice-multiversus-batman-retired-1851464536)
- - [What’s Even The Point Of Xbox Game Pass Now?](https://kotaku.com/xbox-game-pass-arkane-tango-gameworks-closure-1851464470)
- - [Compact Mode continues evolving in the Xbox App on PC](https://news.xbox.com/en-us/2024/05/08/compact-mode-continues-evolving-in-the-xbox-app-on-pc/)<!-- GAME:END -->
+ - [What’s Even The Point Of Xbox Game Pass Now?](https://kotaku.com/xbox-game-pass-arkane-tango-gameworks-closure-1851464470)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
