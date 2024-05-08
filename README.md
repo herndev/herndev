@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
- - ⏩ [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 💣 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
+ - ⏩ [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
  - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
 
 ---
