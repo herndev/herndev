@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - ⏩ [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - 👉 [Not many i think](http://9gag.com/gag/ayN5w9V)<!-- MEMES:END -->
+ - 💣 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
+ - ⏩ [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
 
 ---
 
