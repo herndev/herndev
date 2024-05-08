@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK details requirements to protect children from ‘toxic algorithms’](https://www.theverge.com/2024/5/8/24151834/uk-ofcom-online-safety-act-protect-children-toxic-algorithms-meta-tiktok)
- - [Blockbuster &#39;Baldur&#39;s Gate 3&#39; adventure game not coming to iPad](https://appleinsider.com/articles/24/05/08/blockbuster-baldurs-gate-3-adventure-game-not-coming-to-ipad?utm_medium=rss)
- - [Microsoft plans to invest $3B to build a data center in Mount Pleasant, Wisconsin, and train locals, alongside investing in a new AI lab at Wisconsin University &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240508/p20#a240508p20)<!-- TECH:END -->
+ - [Chinese government data: foreign-branded smartphones shipments, most of which are iPhones, grew 12% YoY to 3.75M in March, reversing a 37% drop in early 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p25#a240508p25)
+ - [After phones, the US now wants to hurt HUAWEI’s laptop business](https://www.androidauthority.com/huawei-sanctions-us-laptop-business-intel-3441011/)
+ - [Data collaboration software maker Atlan raised a $105M Series C led by Singapore&#39;s GIC and Meritech at a $750M valuation, taking its total funding to $206M &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240508/p24#a240508p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
