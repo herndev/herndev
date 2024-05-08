@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - ⏩ [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
+ - 💣 [Gear up people down?](http://9gag.com/gag/an7YP4n)
+ - ⏩ [Hercules](http://9gag.com/gag/aAyYjjd)
+ - 👉 [Mary, is that you?](http://9gag.com/gag/aByK5O2)<!-- MEMES:END -->
 
 ---
 
