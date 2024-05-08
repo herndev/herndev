@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Sony 75-inch X80K Smart TV hits its best price in 12 months](https://www.androidauthority.com/deal-sony-75-inch-x80k-smart-tv-3440828/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 8&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-08-2024-3440237/)
- - [6 Best Phones With Headphone Jacks &lpar;2024&rpar;: Flagship, Budget, and Dongle Recommendations](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
+ - [This handy new trick brings Google’s Circle to Search to iPhones](https://www.androidauthority.com/google-circle-to-search-iphone-trick-3441087/)
+ - [Nintendo’s new NES collection is all about speedrunning](https://www.theverge.com/2024/5/8/24151970/nintendo-world-championships-nes-edition-switch-release-date)
+ - [Apple Pencil Pro comes in five different artistic boxes](https://appleinsider.com/articles/24/05/08/apple-pencil-pro-comes-in-five-different-artistic-boxes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
