@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese government data: foreign-branded smartphones shipments, most of which are iPhones, grew 12% YoY to 3.75M in March, reversing a 37% drop in early 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p25#a240508p25)
- - [After phones, the US now wants to hurt HUAWEI’s laptop business](https://www.androidauthority.com/huawei-sanctions-us-laptop-business-intel-3441011/)
- - [Data collaboration software maker Atlan raised a $105M Series C led by Singapore&#39;s GIC and Meritech at a $750M valuation, taking its total funding to $206M &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240508/p24#a240508p24)<!-- TECH:END -->
+ - [Here are the carriers that get you a Google Pixel 8a free, or at least close to it](https://www.androidauthority.com/google-pixel-8a-free-3440662/)
+ - [OnePlus keeps adding bloatware to the OnePlus 12 and OnePlus Open, its premium flagships](https://www.androidauthority.com/oneplus-12-oneplus-open-bloatware-premium-flagship-3440400/)
+ - [Britax Willow SC Review: A Fantastic Stroller and Car Seat Combo](https://www.wired.com/review/britax-willow-sc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
