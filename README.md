@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)
- - ⏩ [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 👉 [Wait...What?!](http://9gag.com/gag/aQzqbg7)<!-- MEMES:END -->
+ - 💣 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
+ - ⏩ [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
 
 ---
 
