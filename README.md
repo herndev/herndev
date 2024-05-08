@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make good soup in Abiotic Factor](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-soup)
- - [Today’s crossword will test your Nintendo history](https://puzzmoinc.sjv.io/c/482924/1893199/21275?u=https%3A%2F%2Fwww.puzzmo.com%2F%2B%2Fpolygon%2Fplay%2Fcrossword%2F)
- - [X-Men ’97 rips on 2000 era’s ‘black leather’ costumes, which Ian McKellan rightfully defended](https://www.polygon.com/24151991/x-men-97-movie-why-black-leather-costumes-bryan-singer-ian-mckellan)<!-- GAME:END -->
+ - [Russia&#39;s homegrown Wikipedia promises a &#39;different direction&#39; from its inspiration: One where Yevgeny Prigozhin just happened to explode in mid-air](https://www.pcgamer.com/software/russias-homegrown-wikipedia-promises-a-different-direction-from-its-inspiration-one-where-yevgeny-prigozhin-just-happened-to-explode-in-mid-air)
+ - [Prey, Arkane Austin’s masterpiece, still deserves your attention](https://www.polygon.com/gaming/24151555/prey-arkane-studios-austin-games-microsoft-xbox)
+ - [Sega announces Sonic Rumble, a mobile Fall Guys-style party game](https://www.polygon.com/24152123/sega-sonic-rumble-party-game-beta-testing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
