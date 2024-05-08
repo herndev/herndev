@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can save 15 percent on an LG C3, now as low as $847](https://www.theverge.com/2024/5/8/24152110/ebay-lg-c3-oled-sale-deal)
- - [Google Messages is getting a new gallery picker UI](https://www.androidauthority.com/google-messages-photo-gallery-ui-3441159/)
- - [The judge in Epic v. Apple thinks Apple’s being shady about buttons and links](https://www.theverge.com/2024/5/8/24152194/epic-apple-anti-steering-injunction-button-style)<!-- TECH:END -->
+ - [Instacart Q1: revenue up 8% YoY to $820M, vs. $794.5M est., gross transaction value up 11% to $8.32B; CFO Nick Giovanni is retiring, replaced by Emily Reuter &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240508/p43#a240508p43)
+ - [Google Messages notifications will show names of unknown people who contact you](https://www.androidauthority.com/google-messages-name-notifications-3441178/)
+ - [The Pixel 8a’s first update will bring Google’s AI wallpaper generator](https://www.androidauthority.com/pixel-8a-ai-wallpapers-3441205/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
