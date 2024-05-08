@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
- - ⏩ [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 👉 [Now this is good..](http://9gag.com/gag/aryp7yV)<!-- MEMES:END -->
+ - 💣 [Man that&#39;s bad](http://9gag.com/gag/avy0w2n)
+ - ⏩ [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
 
 ---
 
