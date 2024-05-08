@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
- - ⏩ [Peak Cinema](http://9gag.com/gag/avy0KrM)
- - 👉 [He felt so accomplished](http://9gag.com/gag/a0e9yWL)<!-- MEMES:END -->
+ - 💣 [Don&#39;t use the time machine](http://9gag.com/gag/aoyzwv2)
+ - ⏩ [You are now on the watch list.](http://9gag.com/gag/aW4Z5AA)
+ - 👉 [Not many i think](http://9gag.com/gag/ayN5w9V)<!-- MEMES:END -->
 
 ---
 
