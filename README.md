@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - ⏩ [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 👉 [Not many i think](http://9gag.com/gag/ayN5w9V)<!-- MEMES:END -->
+ - 💣 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)
+ - ⏩ [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 👉 [Wait...What?!](http://9gag.com/gag/aQzqbg7)<!-- MEMES:END -->
 
 ---
 
