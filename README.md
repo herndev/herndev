@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolute Gem](http://9gag.com/gag/aMV16pG)
- - ⏩ [Daily life in Germany](http://9gag.com/gag/aAyY77L)
- - 👉 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)<!-- MEMES:END -->
+ - 💣 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - ⏩ [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
 
 ---
 
