@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s new rules will be available under a Creative Commons licence](https://www.pcgamer.com/games/rpg/dandds-new-rules-will-be-available-under-a-creative-commons-licence)
- - [Making good, profitable games &#39;will no longer keep you safe&#39;: industry expresses fury and heartbreak over closure of Hi-Fi Rush and Prey studios](https://www.pcgamer.com/gaming-industry/making-good-profitable-games-will-no-longer-keep-you-safe-games-industry-expresses-fury-and-heartbreak-over-closure-of-hi-fi-rush-and-prey-studios)
- - [My new favorite Elden Ring mod replaces Torrent, goats, deer, and boars with capybaras](https://www.pcgamer.com/games/rpg/my-new-favorite-elden-ring-mod-replaces-torrent-goats-deer-and-boars-with-capybaras)<!-- GAME:END -->
+ - [Who can you invite to the Hades 2 hot tub?](https://www.pcgamer.com/hades-2-hot-springs-guide)
+ - [Today&#39;s Wordle answer for Wednesday, May 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-8-2024)
+ - [D&amp;D&#39;s new rules will be available under a Creative Commons licence](https://www.pcgamer.com/games/rpg/dandds-new-rules-will-be-available-under-a-creative-commons-licence)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
