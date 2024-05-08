@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Things are F#ed up in Europe](http://9gag.com/gag/an7YP6n)
- - ⏩ [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
+ - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - ⏩ [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 👉 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)<!-- MEMES:END -->
 
 ---
 
