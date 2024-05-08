@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A &lpar;Strange&rpar; Interview the Russian-Military-Linked Hackers Targeting US Water Utilities](https://www.wired.com/story/cyber-army-of-russia-interview/)
- - [Filing: Orlando-based lidar manufacturer Luminar says Tesla was its &quot;largest LiDAR customer in Q1&quot;, contributing 10%+ of its revenue, or ~$2.1M for the quarter &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240508/p16#a240508p16)
- - [An investigation finds a vast web of fake shops run from China touting designer brands that duped 800K+ people in Europe and the US into sharing personal data &lpar;The Guardian&rpar;](http://www.techmeme.com/240508/p15#a240508p15)<!-- TECH:END -->
+ - [UK details requirements to protect children from ‘toxic algorithms’](https://www.theverge.com/2024/5/8/24151834/uk-ofcom-online-safety-act-protect-children-toxic-algorithms-meta-tiktok)
+ - [Blockbuster &#39;Baldur&#39;s Gate 3&#39; adventure game not coming to iPad](https://appleinsider.com/articles/24/05/08/blockbuster-baldurs-gate-3-adventure-game-not-coming-to-ipad?utm_medium=rss)
+ - [Microsoft plans to invest $3B to build a data center in Mount Pleasant, Wisconsin, and train locals, alongside investing in a new AI lab at Wisconsin University &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240508/p20#a240508p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
