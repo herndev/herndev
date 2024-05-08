@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nigeria&#39;s Information Ministry says Binance CEO Richard Teng &quot;made false allegations of bribery&quot; against unnamed Nigerian officials, after a $150M bribe claim &lpar;Ruth Olurounbi/Bloomberg&rpar;](http://www.techmeme.com/240508/p36#a240508p36)
- - [Apple&#39;s new iPad Pro benchmarks demonstrate impressive tablet AI performance](https://appleinsider.com/articles/24/05/08/apples-new-ipad-pro-benchmarks-demonstrate-impressive-tablet-ai-performance?utm_medium=rss)
- - [Apple releases an iPad Pro ad, titled &quot;Crush&quot;, showing paints, toys, guitars, and more being crushed to reveal the device, drawing criticism on social media &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240508/p35#a240508p35)<!-- TECH:END -->
+ - [iPad gives nonspeaking woman a voice to advocate for Americans with disabilities](https://appleinsider.com/articles/24/05/08/ipad-gives-nonspeaking-woman-a-voice-to-advocate-for-americans-with-disabilities?utm_medium=rss)
+ - [Uber’s not out of the woods yet](https://www.theverge.com/2024/5/8/24151901/uber-q1-2024-earnings-net-loss-profit-settlement-drivers)
+ - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
