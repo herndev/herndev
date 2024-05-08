@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - ⏩ [The desing is very human](http://9gag.com/gag/aD20eE9)
- - 👉 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)<!-- MEMES:END -->
+ - 💣 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
+ - ⏩ [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 👉 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)<!-- MEMES:END -->
 
 ---
 
