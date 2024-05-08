@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
- - ⏩ [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 👉 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)<!-- MEMES:END -->
+ - 💣 [The Great Master](http://9gag.com/gag/amoXZwj)
+ - ⏩ [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
 
 ---
 
