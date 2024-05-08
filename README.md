@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best indie games of 2024 so far](https://www.polygon.com/what-to-play/24151036/best-indie-games-2024)
- - [PSA: You can now earn four daily deepsight weapons in Destiny 2—here are the ones we recommend](https://www.pcgamer.com/games/fps/destiny-2-daily-deepsight-red-border)
- - [EA CEO says they&#39;ve learned &#39;valuable lessons&#39;, so the next Battlefield is going to be &#39;another tremendous live service&#39;](https://www.pcgamer.com/games/fps/ea-ceo-says-theyve-learned-valuable-lessons-so-the-next-battlefield-is-going-to-be-another-tremendous-live-service)<!-- GAME:END -->
+ - [One artist is adding Fortnite into thrift shop paintings, and his latest masterpiece involves the Battle Bus and Peely](https://www.pcgamer.com/games/battle-royale/one-artist-is-adding-fortnite-into-thrift-shop-paintings-and-his-latest-masterpiece-involves-the-battle-bus-and-peely)
+ - [Hades 2&#39;s forget-me-not mechanic is so good that I think any game with a billion resources should be taking notes](https://www.pcgamer.com/games/roguelike/hades-2s-forget-me-not-mechanic-is-so-good-that-i-think-any-game-with-a-billion-resources-should-copy-it-wholesale)
+ - [Helldivers 2 patch sneaks out the revelation that when we killed 2 billion bugs in a day, that was actually a bug](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-sneaks-out-the-revelation-that-when-we-killed-2-billion-bugs-in-a-day-that-was-actually-a-bug)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
