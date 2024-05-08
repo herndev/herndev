@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 could bring better video stabilization to third-party camera apps](https://www.androidauthority.com/android-15-eyes-free-videography-3441137/)
- - [Top FBI Official Urges Agents to Use Warrantless Wiretaps on US Soil](https://www.wired.com/story/fbi-section-702-us-person-queries-email/)
- - [Apple loses another designer who worked in Jony Ive&#39;s core team](https://appleinsider.com/articles/24/05/08/apple-loses-another-designer-who-worked-in-jony-ives-core-team?utm_medium=rss)<!-- TECH:END -->
+ - [Ofcom proposes new rules requiring tech companies to change their algorithms to hide &quot;toxic&quot; material from children, have more robust age checks, and more &lpar;BBC&rpar;](http://www.techmeme.com/240508/p38#a240508p38)
+ - [You can get a $100 gift card when you preorder Google’s Pixel 8A](https://www.theverge.com/2024/5/8/24151342/google-pixel-8a-lego-icons-tiny-plants-deal-sale)
+ - [Peacock is turning The Office into a franchise with a new spinoff series](https://www.theverge.com/2024/5/8/24152046/peacock-office-spinoff-greg-daniels-michael-koman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
