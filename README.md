@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Biden signs the REPORT Act into law, which levies hefty fines against companies that neglect to report CSAM on their sites to the NCMEC&#39;s CyberTipline &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240507/p50#a240507p50)
- - [C’mon, Why Isn’t the New Apple Pencil Pro Backward Compatible?](https://www.wired.com/story/apple-pencil-pro-not-backward-compatible/)
- - [Best Wireless Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robinhood CEO Vlad Tenev decries the &quot;regulatory onslaught&quot; and calls SEC&#39;s actions &quot;another improper attempt by the administrative state to stifle innovation&quot; &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/240507/p52#a240507p52)
+ - [Red Hat announces RHEL AI, a platform for developing and running open source LLMs, and InstructLab, a community project to let experts enhance AI models &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/240507/p51#a240507p51)
+ - [President Biden signs the REPORT Act into law, which levies hefty fines against companies that neglect to report CSAM on their sites to the NCMEC&#39;s CyberTipline &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240507/p50#a240507p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
