@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find bronze in Hades 2](https://www.polygon.com/hades-2-guides/24152102/bronze-how-to-get-olympus-surface-how-to-reach)
- - [Hades 2 Is A Good Time On Steam Deck &lpar;Here’s How To Make It Better&rpar;](https://kotaku.com/hades-2-steam-deck-settings-grip-buttons-1851464871)
- - [New gaming handheld alert: Asus will stream info about &#39;the next ROG Ally&#39; tomorrow](https://www.pcgamer.com/hardware/new-gaming-handheld-alert-asus-will-stream-info-about-the-next-rog-ally-tomorrow)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for May 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Helldivers 2 CEO is worried it&#39;s &#39;too soon&#39; after the PSN fiasco to release a $10 warbond, so he&#39;s letting players vote on a delay](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-is-worried-its-too-soon-after-the-psn-fiasco-to-release-a-dollar10-warbond-so-hes-letting-players-vote-on-a-delay)
+ - [Hades 2 roadmap: All the updates coming in the future](https://www.pcgamer.com/games/roguelike/hades-2-roadmap-early-access-updates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
