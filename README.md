@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Accused &lpar;2023&rpar; season 2: Plot, cast, release window, and more](https://www.androidauthority.com/accused-2023-season-2-release-date-3380899/)
- - [Google launches Google Wallet for Android in India and partners with 20+ brands to let users store boarding passes, loyalty cards, event tickets, and more &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/240508/p10#a240508p10)
- - [Sources: SoftBank is in advanced talks to acquire Graphcore, a struggling UK-based chip startup once valued at $2.8B that reported just $2.7M in 2022 revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p9#a240508p9)<!-- TECH:END -->
+ - [A &lpar;Strange&rpar; Interview the Russian-Military-Linked Hackers Targeting US Water Utilities](https://www.wired.com/story/cyber-army-of-russia-interview/)
+ - [Filing: Orlando-based lidar manufacturer Luminar says Tesla was its &quot;largest LiDAR customer in Q1&quot;, contributing 10%+ of its revenue, or ~$2.1M for the quarter &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240508/p16#a240508p16)
+ - [An investigation finds a vast web of fake shops run from China touting designer brands that duped 800K+ people in Europe and the US into sharing personal data &lpar;The Guardian&rpar;](http://www.techmeme.com/240508/p15#a240508p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
