@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - ⏩ [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
+ - 💣 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - ⏩ [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
  - 👉 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)<!-- MEMES:END -->
 
 ---
