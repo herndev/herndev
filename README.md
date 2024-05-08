@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One artist is adding Fortnite into thrift shop paintings, and his latest masterpiece involves the Battle Bus and Peely](https://www.pcgamer.com/games/battle-royale/one-artist-is-adding-fortnite-into-thrift-shop-paintings-and-his-latest-masterpiece-involves-the-battle-bus-and-peely)
- - [Hades 2&#39;s forget-me-not mechanic is so good that I think any game with a billion resources should be taking notes](https://www.pcgamer.com/games/roguelike/hades-2s-forget-me-not-mechanic-is-so-good-that-i-think-any-game-with-a-billion-resources-should-copy-it-wholesale)
- - [Helldivers 2 patch sneaks out the revelation that when we killed 2 billion bugs in a day, that was actually a bug](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-sneaks-out-the-revelation-that-when-we-killed-2-billion-bugs-in-a-day-that-was-actually-a-bug)<!-- GAME:END -->
+ - [Dishonored Developer Shares The Personal Pain Of Microsoft&#39;s Studio Closures](https://kotaku.com/arkane-austin-dishonored-closure-harvey-smith-1851463271)
+ - [Tekken 8&#39;s newest cash shop skin commits the cardinal sin of forgetting Lili&#39;s skirt lace, Harada reassures fans he&#39;ll &#39;request a fix from the costume team&#39; for his wrongdoings](https://www.pcgamer.com/games/fighting/tekken-8s-newest-cash-shop-skin-commits-the-cardinal-sin-of-forgetting-lilis-skirt-lace-harada-reassures-fans-hell-request-a-fix-from-the-costume-team-for-his-wrongdoings)
+ - [Hades 2 has a mean surprise tucked away in one of its boss battles—a sucker punch that shows Supergiant isn&#39;t afraid to go all Psycho Mantis on you](https://www.pcgamer.com/games/roguelike/hades-2-has-a-mean-surprise-tucked-away-in-one-of-its-boss-battlesa-sucker-punch-that-shows-supergiant-isnt-afraid-to-go-all-psycho-mantis-on-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
