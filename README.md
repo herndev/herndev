@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As Arkane Austin falls to the shareholders, its masterpiece Prey that &#39;elevated immersive sims to a god-tier level&#39; is slashed in price by 80%](https://www.pcgamer.com/games/fps/as-arkane-austin-falls-to-the-shareholders-its-masterpiece-prey-that-elevated-immersive-sims-to-a-god-tier-level-is-slashed-in-price-by-80)
- - [A new form of easily upgradeable memory promising thinner laptops and low power is now available](https://www.pcgamer.com/hardware/gaming-laptops/a-new-form-of-easily-upgradeable-memory-promising-thinner-laptops-and-low-power-is-now-available)
- - [Manor Lords&#39; upcoming patch plans involve fine-tuning archers and fixing one problem that robbed my town](https://www.pcgamer.com/games/city-builder/manor-lords-upcoming-patch-plans-involve-fine-tuning-archers-and-fixing-one-problem-that-robbed-my-town)<!-- GAME:END -->
+ - [Metaphor: ReFantazio is 100% shaping up to be medieval Persona and I cannot wait](https://www.pcgamer.com/games/rpg/metaphor-refantazio-is-100-shaping-up-to-be-medieval-persona-and-i-cannot-wait)
+ - [Activision Blizzard set to cough up $23.4M after losing a 9-year-long patent infringement battle, but claims &#39;We have never used the patented technologies at issue in our games&#39;](https://www.pcgamer.com/gaming-industry/activision-blizzard-set-to-cough-up-dollar234m-after-losing-a-9-year-long-patent-infringement-battle-but-claims-we-have-never-used-the-patented-technologies-at-issue-in-our-games)
+ - [Final Fantasy 14 suffers from global round of DDoS attacks, Square Enix &#39;investigating the attack and taking countermeasures&#39;](https://www.pcgamer.com/games/mmo/final-fantasy-14-suffers-from-global-round-of-ddos-attacks-square-enix-investigating-the-attack-and-taking-countermeasures)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
