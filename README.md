@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men just want one thing](http://9gag.com/gag/arypYMd)
- - ⏩ [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)
- - 👉 [Well well well...](http://9gag.com/gag/aGy9mbG)<!-- MEMES:END -->
+ - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - ⏩ [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 👉 [Not many i think](http://9gag.com/gag/ayN5w9V)<!-- MEMES:END -->
 
 ---
 
