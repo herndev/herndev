@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dishonored Developer Shares The Personal Pain Of Microsoft&#39;s Studio Closures](https://kotaku.com/arkane-austin-dishonored-closure-harvey-smith-1851463271)
- - [Tekken 8&#39;s newest cash shop skin commits the cardinal sin of forgetting Lili&#39;s skirt lace, Harada reassures fans he&#39;ll &#39;request a fix from the costume team&#39; for his wrongdoings](https://www.pcgamer.com/games/fighting/tekken-8s-newest-cash-shop-skin-commits-the-cardinal-sin-of-forgetting-lilis-skirt-lace-harada-reassures-fans-hell-request-a-fix-from-the-costume-team-for-his-wrongdoings)
- - [Hades 2 has a mean surprise tucked away in one of its boss battles—a sucker punch that shows Supergiant isn&#39;t afraid to go all Psycho Mantis on you](https://www.pcgamer.com/games/roguelike/hades-2-has-a-mean-surprise-tucked-away-in-one-of-its-boss-battlesa-sucker-punch-that-shows-supergiant-isnt-afraid-to-go-all-psycho-mantis-on-you)<!-- GAME:END -->
+ - [How to make good soup in Abiotic Factor](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-soup)
+ - [Today’s crossword will test your Nintendo history](https://puzzmoinc.sjv.io/c/482924/1893199/21275?u=https%3A%2F%2Fwww.puzzmo.com%2F%2B%2Fpolygon%2Fplay%2Fcrossword%2F)
+ - [X-Men ’97 rips on 2000 era’s ‘black leather’ costumes, which Ian McKellan rightfully defended](https://www.polygon.com/24151991/x-men-97-movie-why-black-leather-costumes-bryan-singer-ian-mckellan)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
