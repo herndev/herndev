@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - ⏩ [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 👉 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)<!-- MEMES:END -->
+ - 💣 [Absolute Gem](http://9gag.com/gag/aMV16pG)
+ - ⏩ [Daily life in Germany](http://9gag.com/gag/aAyY77L)
+ - 👉 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)<!-- MEMES:END -->
 
 ---
 
