@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This handy new trick brings Google’s Circle to Search to iPhones](https://www.androidauthority.com/google-circle-to-search-iphone-trick-3441087/)
- - [Nintendo’s new NES collection is all about speedrunning](https://www.theverge.com/2024/5/8/24151970/nintendo-world-championships-nes-edition-switch-release-date)
- - [Apple Pencil Pro comes in five different artistic boxes](https://appleinsider.com/articles/24/05/08/apple-pencil-pro-comes-in-five-different-artistic-boxes?utm_medium=rss)<!-- TECH:END -->
+ - [Nigeria&#39;s Information Ministry says Binance CEO Richard Teng &quot;made false allegations of bribery&quot; against unnamed Nigerian officials, after a $150M bribe claim &lpar;Ruth Olurounbi/Bloomberg&rpar;](http://www.techmeme.com/240508/p36#a240508p36)
+ - [Apple&#39;s new iPad Pro benchmarks demonstrate impressive tablet AI performance](https://appleinsider.com/articles/24/05/08/apples-new-ipad-pro-benchmarks-demonstrate-impressive-tablet-ai-performance?utm_medium=rss)
+ - [Apple releases an iPad Pro ad, titled &quot;Crush&quot;, showing paints, toys, guitars, and more being crushed to reveal the device, drawing criticism on social media &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240508/p35#a240508p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
