@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - ⏩ [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 👉 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)<!-- MEMES:END -->
+ - 💣 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
+ - ⏩ [The desing is very human](http://9gag.com/gag/aD20eE9)
+ - 👉 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)<!-- MEMES:END -->
 
 ---
 
