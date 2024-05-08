@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who can you invite to the Hades 2 hot tub?](https://www.pcgamer.com/hades-2-hot-springs-guide)
- - [Today&#39;s Wordle answer for Wednesday, May 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-8-2024)
- - [D&amp;D&#39;s new rules will be available under a Creative Commons licence](https://www.pcgamer.com/games/rpg/dandds-new-rules-will-be-available-under-a-creative-commons-licence)<!-- GAME:END -->
+ - [As Arkane Austin falls to the shareholders, its masterpiece Prey that &#39;elevated immersive sims to a god-tier level&#39; is slashed in price by 80%](https://www.pcgamer.com/games/fps/as-arkane-austin-falls-to-the-shareholders-its-masterpiece-prey-that-elevated-immersive-sims-to-a-god-tier-level-is-slashed-in-price-by-80)
+ - [A new form of easily upgradeable memory promising thinner laptops and low power is now available](https://www.pcgamer.com/hardware/gaming-laptops/a-new-form-of-easily-upgradeable-memory-promising-thinner-laptops-and-low-power-is-now-available)
+ - [Manor Lords&#39; upcoming patch plans involve fine-tuning archers and fixing one problem that robbed my town](https://www.pcgamer.com/games/city-builder/manor-lords-upcoming-patch-plans-involve-fine-tuning-archers-and-fixing-one-problem-that-robbed-my-town)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
