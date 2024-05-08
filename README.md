@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man that&#39;s bad](http://9gag.com/gag/avy0w2n)
- - ⏩ [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
+ - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - ⏩ [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
+ - 👉 [That plot twist in the middle \ud83e\udd23\ud83e\udd23](http://9gag.com/gag/an7YZ8E)<!-- MEMES:END -->
 
 ---
 
