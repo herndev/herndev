@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom proposes new rules requiring tech companies to change their algorithms to hide &quot;toxic&quot; material from children, have more robust age checks, and more &lpar;BBC&rpar;](http://www.techmeme.com/240508/p38#a240508p38)
- - [You can get a $100 gift card when you preorder Google’s Pixel 8A](https://www.theverge.com/2024/5/8/24151342/google-pixel-8a-lego-icons-tiny-plants-deal-sale)
- - [Peacock is turning The Office into a franchise with a new spinoff series](https://www.theverge.com/2024/5/8/24152046/peacock-office-spinoff-greg-daniels-michael-koman)<!-- TECH:END -->
+ - [You can save 15 percent on an LG C3, now as low as $847](https://www.theverge.com/2024/5/8/24152110/ebay-lg-c3-oled-sale-deal)
+ - [Google Messages is getting a new gallery picker UI](https://www.androidauthority.com/google-messages-photo-gallery-ui-3441159/)
+ - [The judge in Epic v. Apple thinks Apple’s being shady about buttons and links](https://www.theverge.com/2024/5/8/24152194/epic-apple-anti-steering-injunction-button-style)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
