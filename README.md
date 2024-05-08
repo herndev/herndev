@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - ⏩ [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 👉 [That plot twist in the middle \ud83e\udd23\ud83e\udd23](http://9gag.com/gag/an7YZ8E)<!-- MEMES:END -->
+ - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - ⏩ [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
 
 ---
 
