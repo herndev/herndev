@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail codes for May 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Helldivers 2 CEO is worried it&#39;s &#39;too soon&#39; after the PSN fiasco to release a $10 warbond, so he&#39;s letting players vote on a delay](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-is-worried-its-too-soon-after-the-psn-fiasco-to-release-a-dollar10-warbond-so-hes-letting-players-vote-on-a-delay)
- - [Hades 2 roadmap: All the updates coming in the future](https://www.pcgamer.com/games/roguelike/hades-2-roadmap-early-access-updates)<!-- GAME:END -->
+ - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)
+ - [Arrowhead CEO says Helldivers 2 balancing patches have &#39;gone too far&#39; recently: &#39;It feels like every time someone finds something fun, the fun is removed&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-helldivers-2-balancing-patches-have-gone-too-far-recently-it-feels-like-every-time-someone-finds-something-fun-the-fun-is-removed)
+ - [EA studios &#39;hunger&#39; to start using generative AI &#39;as quickly as possible,&#39; says CEO](https://www.pcgamer.com/gaming-industry/ea-studios-hunger-to-start-using-generative-ai-as-quickly-as-possible-says-ceo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
