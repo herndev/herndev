@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - ⏩ [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
+ - 💣 [Men just want one thing](http://9gag.com/gag/arypYMd)
+ - ⏩ [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)
+ - 👉 [Well well well...](http://9gag.com/gag/aGy9mbG)<!-- MEMES:END -->
 
 ---
 
