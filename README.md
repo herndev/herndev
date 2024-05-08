@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can’t get Circle To Search? Google Lens could have you covered &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-lens-features-circle-to-search-apk-teardown-3440008/)
  - [Google Wallet and Google Pay will co-exist in this country](https://www.androidauthority.com/google-wallet-india-launch-coexist-google-pay-3440907/)
- - [Analysis: the tech-dominated list of top 50 companies whose stocks made the biggest percentage gains in 2020 have since collectively lost $1.5T in market value &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240508/p6#a240508p6)
- - [TikTok vs. US filing: ByteDance founder Zhang Yiming owns a 21% stake in TikTok&#39;s parent company, and is living in Singapore while keeping Chinese citizenship &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240508/p5#a240508p5)<!-- TECH:END -->
+ - [Analysis: the tech-dominated list of top 50 companies whose stocks made the biggest percentage gains in 2020 have since collectively lost $1.5T in market value &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240508/p6#a240508p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
