@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Getir faced pressure from investors to cut costs and refocus on Turkey; a source says Mubadala and G Squared have agreed to invest as much as $200M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p4#a240508p4)
  - [Sources: OpenAI has been aggressively trying to poach Google employees for a team working on a ChatGPT feature to search the web and show results with citations &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240508/p3#a240508p3)
- - [Google says &quot;rare issues at Google Cloud&quot; caused a week-long private cloud outage at UniSuper, an Australian pension fund for the education and research sectors &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/240508/p2#a240508p2)
- - [Amit Midha, CEO of Alat, a $100B investment fund focused on AI and chips backed by Saudi Arabia&#39;s PIF, says the fund will divest from China if the US asks &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p1#a240508p1)<!-- TECH:END -->
+ - [Google says &quot;rare issues at Google Cloud&quot; caused a week-long private cloud outage at UniSuper, an Australian pension fund for the education and research sectors &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/240508/p2#a240508p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
