@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad gives nonspeaking woman a voice to advocate for Americans with disabilities](https://appleinsider.com/articles/24/05/08/ipad-gives-nonspeaking-woman-a-voice-to-advocate-for-americans-with-disabilities?utm_medium=rss)
- - [Uber’s not out of the woods yet](https://www.theverge.com/2024/5/8/24151901/uber-q1-2024-earnings-net-loss-profit-settlement-drivers)
- - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)<!-- TECH:END -->
+ - [Android 15 could bring better video stabilization to third-party camera apps](https://www.androidauthority.com/android-15-eyes-free-videography-3441137/)
+ - [Top FBI Official Urges Agents to Use Warrantless Wiretaps on US Soil](https://www.wired.com/story/fbi-section-702-us-person-queries-email/)
+ - [Apple loses another designer who worked in Jony Ive&#39;s core team](https://appleinsider.com/articles/24/05/08/apple-loses-another-designer-who-worked-in-jony-ives-core-team?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
