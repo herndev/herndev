@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The tank is not a virgin anymore. BUT WE ARE](http://9gag.com/gag/amoX3O2)
- - ⏩ [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
- - 👉 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)<!-- MEMES:END -->
+ - 💣 [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)
+ - ⏩ [Men just want one thing](http://9gag.com/gag/arypYMd)
+ - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
 
 ---
 
