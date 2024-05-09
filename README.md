@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
- - ⏩ [The famous late revenge](http://9gag.com/gag/an7Y6yq)
- - 👉 [Well well well...](http://9gag.com/gag/aGy9mbG)<!-- MEMES:END -->
+ - 💣 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)
+ - ⏩ [Everything is an e-bike](http://9gag.com/gag/amoXZg6)
+ - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
 
 ---
 
