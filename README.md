@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - ⏩ [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
+ - ⏩ [Get to the choppa](http://9gag.com/gag/ayN5bRY)
+ - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
 
 ---
 
