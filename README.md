@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RunPod, which offers a globally distributed GPU cloud platform for developing and deploying AI, raised a $20M seed co-led by Intel Capital and Dell Technologies &lpar;James Thomason/VentureBeat&rpar;](http://www.techmeme.com/240508/p51#a240508p51)
- - [How to master the Control Center in watchOS 10](https://appleinsider.com/inside/apple-watch/tips/how-to-master-the-control-center-in-watchos-10?utm_medium=rss)
- - [Bumble reports Q1 revenue up 10.2% YoY to $267.8M, vs. $265.5M est., total paying users of ~4M, up from 3.5M a year ago, and expects Q2 revenue below estimates &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240508/p50#a240508p50)<!-- TECH:END -->
+ - [Motorola’s next Galaxy Z Flip rival might bring a welcome upgrade at the same price](https://www.androidauthority.com/motorola-razr-plus-2024-razr-50-ultra-price-colors-leak-3441261/)
+ - [SIA and BCG: by 2032, the US will have the capacity to manufacture 28% of chips below 10nm, while China is expected to make only 2% of the most advanced chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240509/p1#a240509p1)
+ - [3 Best Stainless Steel Frying Pans in 2024     - CNET](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
