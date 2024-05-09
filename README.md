@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
- - ⏩ [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)
- - 👉 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)<!-- MEMES:END -->
+ - 💣 [Running a train on Linux](http://9gag.com/gag/a34Ym7m)
+ - ⏩ [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 👉 [Now this is good..](http://9gag.com/gag/aryp7yV)<!-- MEMES:END -->
 
 ---
 
