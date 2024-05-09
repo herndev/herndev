@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair to go all in on sim racing after it announces plans acquire Fanatec](https://www.pcgamer.com/games/racing/corsair-to-go-all-in-on-sim-racing-after-it-announces-plans-acquire-fanatec)
- - [Today&#39;s Wordle answer for Thursday, May 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-9-2024)
- - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)<!-- GAME:END -->
+ - [TikTok files a lawsuit to fight the &#39;extraordinary intrusion on free speech rights&#39; that would result from a nationwide ban](https://www.pcgamer.com/software/tiktok-files-a-lawsuit-to-fight-the-extraordinary-intrusion-on-free-speech-rights-that-would-result-from-a-nationwide-ban)
+ - [Corsair to go all in on sim racing after it announces plans to acquire Fanatec](https://www.pcgamer.com/games/racing/corsair-to-go-all-in-on-sim-racing-after-it-announces-plans-acquire-fanatec)
+ - [Today&#39;s Wordle answer for Thursday, May 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-9-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
