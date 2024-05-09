@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - ⏩ [Hercules](http://9gag.com/gag/aAyYjjd)
- - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
+ - 💣 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
+ - ⏩ [The famous late revenge](http://9gag.com/gag/an7Y6yq)
+ - 👉 [Well well well...](http://9gag.com/gag/aGy9mbG)<!-- MEMES:END -->
 
 ---
 
