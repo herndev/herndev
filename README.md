@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
- - ⏩ [Breakfast in Australia](http://9gag.com/gag/agmyDnq)
- - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
+ - 💣 [I just finished this masterpiece...I played a lot of games since 30 years but wow that&#39;s absolutely my best video games experience...what an unforgettable journey !!!](http://9gag.com/gag/ayN5jyM)
+ - ⏩ [He&#39;s Not Wrong Though](http://9gag.com/gag/agmyW76)
+ - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
 
 ---
 
