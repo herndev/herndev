@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPad has come so incredibly far since 2010, and fulfills Steve Jobs&#39; vision perfectly](https://appleinsider.com/articles/24/05/09/the-ipad-has-come-so-incredibly-far-since-2010-and-fulfills-steve-jobs-vision-perfectly?utm_medium=rss)
- - [Uber’s safety tools can be really useful, provided you enable them — here’s how](https://www.theverge.com/24138192/uber-safety-tools-ridesharing)
- - [Windows 11’s screenshot tool is getting QR code scanning and emoji support](https://www.theverge.com/2024/5/9/24152963/microsoft-windows-11-snipping-tool-qr-scanning-emoji-support)<!-- TECH:END -->
+ - [Corsair is about to acquire racing sim company Fanatec](https://www.theverge.com/2024/5/9/24152989/corsair-fanatec-racing-sim-company-fanatec)
+ - [OpenAI&#39;s pitch deck to news publishers promises priority placement to partners in chat conversations and payment contingent on &quot;display success&quot; &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240509/p26#a240509p26)
+ - [Sources: T-Mobile US is in talks to take over some operations and wireless spectrum licenses of US Cellular for $2B+; Verizon is also in talks with US Cellular &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p25#a240509p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
