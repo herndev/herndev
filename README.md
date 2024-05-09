@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
- - ⏩ [Men just want one thing](http://9gag.com/gag/arypYMd)
- - 👉 [Frat boys make fun of the mentally challenged ANTIFA clowns](http://9gag.com/gag/a1mAyG6)<!-- MEMES:END -->
+ - 💣 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - ⏩ [Breakfast in Australia](http://9gag.com/gag/agmyDnq)
+ - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
 
 ---
 
