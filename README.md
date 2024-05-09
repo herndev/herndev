@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Backpack Glitch](http://9gag.com/gag/arypPjX)
- - ⏩ [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - 👉 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)<!-- MEMES:END -->
+ - 💣 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - ⏩ [Backpack Glitch](http://9gag.com/gag/arypPjX)
+ - 👉 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)<!-- MEMES:END -->
 
 ---
 
