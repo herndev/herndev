@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Use Your Powers of De-duck-tion in Duck Detective: The Secret Salami](https://news.xbox.com/en-us/2024/05/09/use-your-powers-of-de-duck-tion-in-duck-detective-the-secret-salami/)
- - [Nintendo Switch Owners Are More Willing To Buy Indie Games, Says Publisher](https://kotaku.com/devolver-digital-nintendo-switch-indie-games-xbox-ps5-1851466792)
- - [Large-scale game development is &#39;crushing under its own weight&#39; according to Devolver co-founder](https://www.pcgamer.com/gaming-industry/large-scale-game-development-is-crushing-under-its-own-weight-according-to-devolver-co-founder)<!-- GAME:END -->
+ - [24 years later, Warren Spector offers more details about Deus Ex&#39;s cut &#39;Denver airport conspiracy&#39; mission that was &#39;so crazy no one would believe it&#39;](https://www.pcgamer.com/games/fps/24-years-later-warren-spector-offers-more-details-about-deus-exs-cut-denver-airport-conspiracy-mission-that-was-so-crazy-no-one-would-believe-it)
+ - [V Rising Beginner Guide: 5 Tips to Help Sharpen Your Fangs](https://kotaku.com/v-rising-beginner-tips-guide-1851466949)
+ - [The tricks D&amp;D designers used in Vecna: Eve of Ruin to keep 20th-level characters from breaking the game](https://www.polygon.com/24152845/dnd-dungeons-dragons-nerfs-vecna-eve-of-ruin-high-level-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
