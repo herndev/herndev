@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)
- - ⏩ [Everything is an e-bike](http://9gag.com/gag/amoXZg6)
- - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
+ - 💣 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
+ - ⏩ [Men just want one thing](http://9gag.com/gag/arypYMd)
+ - 👉 [Frat boys make fun of the mentally challenged ANTIFA clowns](http://9gag.com/gag/a1mAyG6)<!-- MEMES:END -->
 
 ---
 
