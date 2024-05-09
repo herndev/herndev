@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Running a train on Linux](http://9gag.com/gag/a34Ym7m)
- - ⏩ [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 👉 [Now this is good..](http://9gag.com/gag/aryp7yV)<!-- MEMES:END -->
+ - 💣 [When you realize that you were once the enemy within. Self-awareness is important](http://9gag.com/gag/aGy94dn)
+ - ⏩ [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
 
 ---
 
