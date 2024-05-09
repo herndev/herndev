@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - ⏩ [Backpack Glitch](http://9gag.com/gag/arypPjX)
- - 👉 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)<!-- MEMES:END -->
+ - 💣 [`Company policies`](http://9gag.com/gag/aPAvKpP)
+ - ⏩ [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 👉 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)<!-- MEMES:END -->
 
 ---
 
