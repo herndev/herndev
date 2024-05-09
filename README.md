@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to defeat the seahorse boss in Animal Well and get the bubble wand](https://www.polygon.com/guides/24152284/seahorse-boss-how-to-beat-bubble-wand-how-to-get)
- - [What are eggs for in Animal Well and how to unlock fast travel](https://www.polygon.com/guides/24151427/animal-well-eggs-peacock-fast-travel-animal-flute)
- - [How to get past the dog ghost with the disc in Animal Well](https://www.polygon.com/guides/24151345/animal-well-dog-ghost-disc-how-to-get)<!-- GAME:END -->
+ - [How To Increase Grasp And Use More Arcana Cards In Hades 2](https://kotaku.com/hades-2-grasp-arcana-cards-how-to-increase-1851465948)
+ - [Animal Well review](https://www.pcgamer.com/games/puzzle/animal-well-review)
+ - [How to defeat the seahorse boss in Animal Well and get the bubble wand](https://www.polygon.com/guides/24152284/seahorse-boss-how-to-beat-bubble-wand-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
