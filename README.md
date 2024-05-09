@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos says its controversial app redesign took ‘courage’](https://www.theverge.com/2024/5/9/24152675/sonos-new-app-bad-reviews-response-statement)
- - [Save a record $200 on the Samsung Galaxy S24 Plus](https://www.androidauthority.com/deal-samsung-galaxy-s24-plus-3441204/)
- - [Samsung made impressive gains in the US thanks to S24, as Google stutters](https://www.androidauthority.com/samsung-q1-2024-us-smartphone-market-share-3441469/)<!-- TECH:END -->
+ - [Alibaba releases Qwen2.5, says its Qwen models are used by 90K+ companies; OpenCompass: Qwen2.5 beats GPT-4 in language, creation but not knowledge, reasoning &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240509/p19#a240509p19)
+ - [More doctors are embracing Apple Vision Pro for precision &#39;keyhole&#39; surgeries](https://appleinsider.com/articles/24/05/09/more-doctors-are-embracing-apple-vision-pro-for-precision-keyhole-surgeries?utm_medium=rss)
+ - [Sonos responds to criticism of its app redesign, saying it takes &quot;courage to rebuild&quot; a product from the ground up and it plans to reintroduce missing features &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240509/p18#a240509p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
