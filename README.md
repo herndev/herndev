@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [24 years later, Warren Spector offers more details about Deus Ex&#39;s cut &#39;Denver airport conspiracy&#39; mission that was &#39;so crazy no one would believe it&#39;](https://www.pcgamer.com/games/fps/24-years-later-warren-spector-offers-more-details-about-deus-exs-cut-denver-airport-conspiracy-mission-that-was-so-crazy-no-one-would-believe-it)
- - [V Rising Beginner Guide: 5 Tips to Help Sharpen Your Fangs](https://kotaku.com/v-rising-beginner-tips-guide-1851466949)
- - [The tricks D&amp;D designers used in Vecna: Eve of Ruin to keep 20th-level characters from breaking the game](https://www.polygon.com/24152845/dnd-dungeons-dragons-nerfs-vecna-eve-of-ruin-high-level-characters)<!-- GAME:END -->
+ - [Mark Hamill to return as The Joker in Multiversus](https://www.pcgamer.com/games/fighting/mark-hamill-to-return-as-the-joker-in-multiversus)
+ - [Contemptuous pros and drunk Royal Shakespeareans: Horror stories from the early days of videogame voice acting](https://www.pcgamer.com/games/adventure/contemptuous-professionals-and-drunk-royal-shakespeareans-horror-stories-from-the-early-days-of-videogame-voice-acting)
+ - [Helldivers 2’s Community Railing Against New Warbond Weapon, Calls It A ‘Downgrade’](https://kotaku.com/helldivers-2-warbond-battle-pass-weapon-bad-1851467213)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
