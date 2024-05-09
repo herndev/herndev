@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What US ban? Pura 70 teardown shows a more self-reliant HUAWEI](https://www.androidauthority.com/huawei-pura-70-teardown-3441269/)
- - [Some Singaporean writers are resisting their government&#39;s request to use their works to train a multilingual LLM, citing little clarity on compensation and more &lpar;Nicholas Yong/Rest of World&rpar;](http://www.techmeme.com/240509/p4#a240509p4)
- - [Wear OS just got an Apple Watch feature with the latest Play Services update](https://www.androidauthority.com/wear-os-school-time-3441273/)<!-- TECH:END -->
+ - [In a blog post, Neuralink details a problem with its implant in patient Noland Arbaugh&#39;s brain that reduced data collection after the implant&#39;s threads came out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p5#a240509p5)
+ - [It’s official: The next ASUS ROG Ally is coming soon](https://www.androidauthority.com/asus-confirms-next-rog-ally-3441282/)
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
