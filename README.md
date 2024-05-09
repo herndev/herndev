@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cat’s Eye: How to Navigate the World of Little Kitty, Big City](https://news.xbox.com/en-us/2024/05/09/cats-eye-how-to-navigate-the-world-of-little-kitty-big-city/)
- - [Nintendo Pres Doug Bowser Gets Into LinkedIn Brawl Over Flight Etiquette](https://kotaku.com/nintendo-doug-bowser-president-linkedin-debate-comments-1851467763)
- - [TikTok is a great way to experience the Fallout games now](https://www.polygon.com/24152379/fallout-4-tv-show-tiktok)<!-- GAME:END -->
+ - [Apple says it&#39;s sorry for smushing musical instruments and art supplies to advertise its latest iPad](https://www.pcgamer.com/hardware/apple-ipad-ad-apology)
+ - [Blizzard&#39;s internal Diablo 4 playtests are a &#39;cursed problem&#39; where &#39;to really test our game, you need to spend your life playing our game,&#39; designer says](https://www.pcgamer.com/games/rpg/blizzards-internal-diablo-4-playtests-are-a-cursed-problem-where-to-really-test-our-game-you-need-to-spend-your-life-playing-our-game-designer-says)
+ - [Cat’s Eye: How to Navigate the World of Little Kitty, Big City](https://news.xbox.com/en-us/2024/05/09/cats-eye-how-to-navigate-the-world-of-little-kitty-big-city/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
