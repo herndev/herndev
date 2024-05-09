@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corsair is about to acquire racing sim company Fanatec](https://www.theverge.com/2024/5/9/24152989/corsair-fanatec-racing-sim-company-fanatec)
- - [OpenAI&#39;s pitch deck to news publishers promises priority placement to partners in chat conversations and payment contingent on &quot;display success&quot; &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240509/p26#a240509p26)
- - [Sources: T-Mobile US is in talks to take over some operations and wireless spectrum licenses of US Cellular for $2B+; Verizon is also in talks with US Cellular &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p25#a240509p25)<!-- TECH:END -->
+ - [Microsoft is testing a new Windows 11 Start menu with floating widgets](https://www.theverge.com/2024/5/9/24153058/microsoft-windows-11-start-menu-companions)
+ - [Baidu&#39;s PR chief Qu Jing reportedly left the company after criticism over her Douyin videos demanding that workers must be available 24 hours a day &lpar;Nectar Gan/CNN&rpar;](http://www.techmeme.com/240509/p28#a240509p28)
+ - [The Pixel 8a will soon support display output over USB-C](https://www.androidauthority.com/pixel-8a-display-output-3441590/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
