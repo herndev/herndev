@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Destiny 2 Expansions, Crime Boss: Rockay City, Cities: Skylines – Remastered and From Space](https://news.xbox.com/en-us/2024/05/09/free-play-days-destiny-2-expansions-crime-boss-rockay-city-cities-skylines-remastered-and-from-space/)
- - [How To Unlock The Ward In The Crossroads In Hades 2](https://kotaku.com/hades-2-unlock-ward-open-door-crossroads-1851466251)
- - [&#39;We need smaller games,&#39; says Xbox&#39;s Matt Booty, right after Microsoft shut down the studio that made Hi-Fi Rush—and was reportedly about to pitch a sequel](https://www.pcgamer.com/gaming-industry/we-need-smaller-games-says-xboxs-matt-booty-right-after-microsoft-shut-down-the-studio-that-made-hi-fi-rushand-was-reportedly-about-to-pitch-a-sequel)<!-- GAME:END -->
+ - [Learn How to Chomp Like a Champ with Pac-Man](https://news.xbox.com/en-us/2024/05/09/chomp-like-a-champ-with-pac-man/)
+ - [Experiencing Tekken 8 crashes? Nvidia admits to ongoing driver bug with 10-series cards](https://www.pcgamer.com/hardware/graphics-cards/experiencing-tekken-8-crashes-nvidia-admits-to-ongoing-driver-bug-with-10-series-cards)
+ - [GTA Online update for the week of May 9](https://www.polygon.com/gta-online-guides/2024/5/9/24152800/may-9-weekly-update-release-time-events-superyacht)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
