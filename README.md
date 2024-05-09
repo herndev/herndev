@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Hamill to return as The Joker in Multiversus](https://www.pcgamer.com/games/fighting/mark-hamill-to-return-as-the-joker-in-multiversus)
- - [Contemptuous pros and drunk Royal Shakespeareans: Horror stories from the early days of videogame voice acting](https://www.pcgamer.com/games/adventure/contemptuous-professionals-and-drunk-royal-shakespeareans-horror-stories-from-the-early-days-of-videogame-voice-acting)
- - [Helldivers 2’s Community Railing Against New Warbond Weapon, Calls It A ‘Downgrade’](https://kotaku.com/helldivers-2-warbond-battle-pass-weapon-bad-1851467213)<!-- GAME:END -->
+ - [Animal Well is shaping up to be the most acclaimed metroidvania since Hollow Knight](https://www.pcgamer.com/games/action/animal-well-critic-reviews-launch)
+ - [How to get thalamus in Hades 2](https://www.polygon.com/hades-2-guides/24152904/thalamus-how-to-get-origin-seed-location)
+ - [Critical Role launches its own subscription service, Beacon](https://www.polygon.com/24152976/critical-role-beacon-subscription-membership)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
