@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - ⏩ [Her: Do you wanna clean my pipes?](http://9gag.com/gag/a87WBye)
- - 👉 [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)<!-- MEMES:END -->
+ - 💣 [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)
+ - ⏩ [Get to the choppa](http://9gag.com/gag/ayN5bRY)
+ - 👉 [Nice beards...](http://9gag.com/gag/aRBQ5ZQ)<!-- MEMES:END -->
 
 ---
 
