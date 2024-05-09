@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Nintendo Switch 2 leaks highlight specs, launch timeline, backwards compatibility, and more](https://www.androidauthority.com/nintendo-switch-2-leaks-specs-launch-timeline-backwards-compatibility-3441297/)
- - [Binance sources and documents: internal investigators, dismissed in late 2023, found evidence of market manipulation by DWF Labs and secret trading accounts &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p8#a240509p8)
- - [Duolingo drops 10%+ after reporting DAUs up 55% YoY to 31.4M, above 31.1M est., gaining users at the slowest rate since Q3 2022, and revenue up 45% YoY to $168M &lpar;Gabriel Sanchez/Bloomberg&rpar;](http://www.techmeme.com/240509/p7#a240509p7)<!-- TECH:END -->
+ - [Nintendo Switch 2 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
+ - [A San Francisco highway near Apple Park wasn&#39;t pretty enough, so it got deleted](https://appleinsider.com/articles/24/05/09/apple-deleted-a-san-fransisco-highway-and-not-on-apple-maps?utm_medium=rss)
+ - [The dominant EU music streamer by far is still complaining Apple has too much power](https://appleinsider.com/articles/24/05/09/the-dominant-eu-music-streamer-by-far-is-still-complaining-apple-has-too-much-power?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
