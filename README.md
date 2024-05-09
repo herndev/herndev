@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei Pura 70 Pro teardown: the 7nm Kirin 9010 is only marginally better than Kirin 9000S, and the majority of the chips are designed and manufactured in China &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240509/p3#a240509p3)
- - [Town hall: Xbox Game Studios head Matt Booty discussed wanting small and prestigious games, after closing the studio behind a small, prestigious hit Hi-Fi Rush &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240509/p2#a240509p2)
- - [Motorola’s next Galaxy Z Flip rival might bring a welcome upgrade at the same price](https://www.androidauthority.com/motorola-razr-plus-2024-razr-50-ultra-price-colors-leak-3441261/)<!-- TECH:END -->
+ - [What US ban? Pura 70 teardown shows a more self-reliant HUAWEI](https://www.androidauthority.com/huawei-pura-70-teardown-3441269/)
+ - [Some Singaporean writers are resisting their government&#39;s request to use their works to train a multilingual LLM, citing little clarity on compensation and more &lpar;Nicholas Yong/Rest of World&rpar;](http://www.techmeme.com/240509/p4#a240509p4)
+ - [Wear OS just got an Apple Watch feature with the latest Play Services update](https://www.androidauthority.com/wear-os-school-time-3441273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
