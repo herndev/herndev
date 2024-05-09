@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out this gorgeous, sepia-toned apocalyptic adventure set in northern Finland](https://www.pcgamer.com/games/adventure/check-out-this-gorgeous-sepia-toned-apocalyptic-adventure-set-in-northern-finland)
- - [Asus &lpar;sorta&rpar; announces the ROG Ally X: bigger battery, updated design, same performance as original ROG Ally](https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-sorta-announces-the-rog-ally-x-bigger-battery-updated-design-same-performance-as-original-rog-ally)
- - [Where to unlock all alliance raids in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24151320/alliance-raid-unlock-quests-starting-locations)<!-- GAME:END -->
+ - [Cat’s Eye: How to Navigate the World of Little Kitty, Big City](https://news.xbox.com/en-us/2024/05/09/cats-eye-how-to-navigate-the-world-of-little-kitty-big-city/)
+ - [Nintendo Pres Doug Bowser Gets Into LinkedIn Brawl Over Flight Etiquette](https://kotaku.com/nintendo-doug-bowser-president-linkedin-debate-comments-1851467763)
+ - [TikTok is a great way to experience the Fallout games now](https://www.polygon.com/24152379/fallout-4-tv-show-tiktok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
