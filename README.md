@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is testing a new Windows 11 Start menu with floating widgets](https://www.theverge.com/2024/5/9/24153058/microsoft-windows-11-start-menu-companions)
- - [Baidu&#39;s PR chief Qu Jing reportedly left the company after criticism over her Douyin videos demanding that workers must be available 24 hours a day &lpar;Nectar Gan/CNN&rpar;](http://www.techmeme.com/240509/p28#a240509p28)
- - [The Pixel 8a will soon support display output over USB-C](https://www.androidauthority.com/pixel-8a-display-output-3441590/)<!-- TECH:END -->
+ - [Apple apologizes for iPad Pro &#39;Crush&#39; ad after massive backlash](https://appleinsider.com/articles/24/05/09/apple-apologizes-for-ipad-pro-crush-ad-after-massive-backlash?utm_medium=rss)
+ - [Google’s Pixel 6 series appears to miss out on Bluetooth LE Audio support](https://www.androidauthority.com/google-pixel-6-bluetooth-le-audio-3441602/)
+ - [T-Mobile delays free internet loophole fix after running into a problem](https://www.androidauthority.com/t-mobile-delays-address-verification-3441595/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
