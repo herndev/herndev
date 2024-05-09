@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
- - [Elite Dangerous gets its own kick in the Steam ratings shin over real money ship sales](https://www.pcgamer.com/games/sim/elite-dangerous-gets-its-own-kick-in-the-steam-ratings-shin-over-real-money-ship-sales)
- - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)<!-- GAME:END -->
+ - [Corsair to go all in on sim racing after it announces plans acquire Fanatec](https://www.pcgamer.com/games/racing/corsair-to-go-all-in-on-sim-racing-after-it-announces-plans-acquire-fanatec)
+ - [Today&#39;s Wordle answer for Thursday, May 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-9-2024)
+ - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
