@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Conspiracy of Campus Protests](https://www.wired.com/story/campus-protests-gaza-conspiracy/)
- - [Sell Lab-Grown Meat in Alabama and You Could Go to Jail](https://www.wired.com/story/lab-grown-fake-meat-ban-alabama-florida/)
- - [Dell warns customers of a data breach after a threat actor claimed to have stolen data for ~49M customers, but says financial and payment data was not stolen &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240509/p20#a240509p20)<!-- TECH:END -->
+ - [Reddit releases a new content policy, including a ban on AI data licensees from using deleted posts or comments; Reddit expects $60M+ in 2024 licensing revenue &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240509/p22#a240509p22)
+ - [Indian investment app Groww moves its domicile back to India from the US, as some Indian startups relocate overseas entities to align with India&#39;s new rules &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240509/p21#a240509p21)
+ - [Best Xbox Game Pass Deals: Save Over $70 on annual subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
