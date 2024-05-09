@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble reports Q1 revenue up 10.2% YoY to $267.8M, vs. $265.5M est., total paying users of ~4M, up from 3.5M a year ago, and expects Q2 revenue below estimates &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240508/p50#a240508p50)
  - [Sources: Microsoft plans more cuts after closing several game studios, as the massive Activision acquisition has ramped up scrutiny on the Xbox division &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240508/p49#a240508p49)
- - [How Not to Get Brain-Eating Worms and Mercury Poisoning](https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/)
- - [Boeing confirms that LockBit attempted to extort a $200M ransom in October 2023; the company reportedly didn&#39;t pay any ransom after ~43GB of its data was posted &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240508/p48#a240508p48)<!-- TECH:END -->
+ - [How Not to Get Brain-Eating Worms and Mercury Poisoning](https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
