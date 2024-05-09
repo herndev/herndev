@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch 2 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
- - [A San Francisco highway near Apple Park wasn&#39;t pretty enough, so it got deleted](https://appleinsider.com/articles/24/05/09/apple-deleted-a-san-fransisco-highway-and-not-on-apple-maps?utm_medium=rss)
- - [The dominant EU music streamer by far is still complaining Apple has too much power](https://appleinsider.com/articles/24/05/09/the-dominant-eu-music-streamer-by-far-is-still-complaining-apple-has-too-much-power?utm_medium=rss)<!-- TECH:END -->
+ - [Download these Art Deco wallpapers for your phone](https://www.androidauthority.com/art-deco-wallpapers-phone-3441361/)
+ - [An interview with Sundar Pichai on playing the long game on AI, how Gemini image generation &quot;got it wrong&quot;, AI search, the US DOJ lawsuits, layoffs, and more &lpar;Emily Chang/Bloomberg&rpar;](http://www.techmeme.com/240509/p12#a240509p12)
+ - [MacBook Pro Touch Bar could be revived as a strip that supports Apple Pencil](https://appleinsider.com/articles/22/03/15/macbook-pro-touch-bar-could-be-revived-as-a-strip-that-supports-apple-pencil?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
