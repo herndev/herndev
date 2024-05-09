@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte Aorus CO49DQ review](https://www.pcgamer.com/hardware/gaming-monitors/gigabyte-aorus-co49dq-review)
- - [TikTok files a lawsuit to fight the &#39;extraordinary intrusion on free speech rights&#39; that would result from a nationwide ban](https://www.pcgamer.com/software/tiktok-files-a-lawsuit-to-fight-the-extraordinary-intrusion-on-free-speech-rights-that-would-result-from-a-nationwide-ban)
- - [Corsair to go all in on sim racing with plans to acquire Fanatec and help with its €70 million debt](https://www.pcgamer.com/games/racing/corsair-to-go-all-in-on-sim-racing-after-it-announces-plans-acquire-fanatec)<!-- GAME:END -->
+ - [Someone&#39;s nuked Phil Spencer in Fallout 76](https://www.pcgamer.com/games/fallout/someones-nuked-phil-spencer-in-fallout-76)
+ - [Arrowhead CEO says Helldivers 2 was going to have helmets with bespoke HUD elements like enemy outlines—but they were cut due to &#39;well, having to ship the game&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-helldivers-2-was-going-to-have-helmets-with-bespoke-hud-elements-like-enemy-outlinesbut-they-were-cut-due-to-well-having-to-ship-the-game)
+ - [Immersive sim bugs are the best kind of bug: Shadow of Doubt&#39;s snipers are leaving behind thousands of spent bullet casings as they fail to hit their targets](https://www.pcgamer.com/games/action/immersive-sim-bugs-are-the-best-kind-of-bug-shadow-of-doubts-snipers-are-leaving-behind-thousands-of-spent-bullet-casings-as-they-fail-to-hit-their-targets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
