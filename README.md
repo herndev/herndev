@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone&#39;s nuked Phil Spencer in Fallout 76](https://www.pcgamer.com/games/fallout/someones-nuked-phil-spencer-in-fallout-76)
- - [Arrowhead CEO says Helldivers 2 was going to have helmets with bespoke HUD elements like enemy outlines—but they were cut due to &#39;well, having to ship the game&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-helldivers-2-was-going-to-have-helmets-with-bespoke-hud-elements-like-enemy-outlinesbut-they-were-cut-due-to-well-having-to-ship-the-game)
- - [Immersive sim bugs are the best kind of bug: Shadow of Doubt&#39;s snipers are leaving behind thousands of spent bullet casings as they fail to hit their targets](https://www.pcgamer.com/games/action/immersive-sim-bugs-are-the-best-kind-of-bug-shadow-of-doubts-snipers-are-leaving-behind-thousands-of-spent-bullet-casings-as-they-fail-to-hit-their-targets)<!-- GAME:END -->
+ - [How to defeat the seahorse boss in Animal Well and get the bubble wand](https://www.polygon.com/guides/24152284/seahorse-boss-how-to-beat-bubble-wand-how-to-get)
+ - [What are eggs for in Animal Well and how to unlock fast travel](https://www.polygon.com/guides/24151427/animal-well-eggs-peacock-fast-travel-animal-flute)
+ - [How to get past the dog ghost with the disc in Animal Well](https://www.polygon.com/guides/24151345/animal-well-dog-ghost-disc-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
