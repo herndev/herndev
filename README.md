@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - ⏩ [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
+ - 💣 [Backpack Glitch](http://9gag.com/gag/arypPjX)
+ - ⏩ [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
  - 👉 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)<!-- MEMES:END -->
 
 ---
