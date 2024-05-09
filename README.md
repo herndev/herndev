@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The joy of getting lost in Animal Well’s cryptic world](https://www.theverge.com/24152153/animal-well-review-switch-ps5-steam-videogamedunkey)
- - [Motorola’s midrange stylus phone gets wireless charging and a glow-up](https://www.theverge.com/2024/5/9/24152089/motorola-moto-g-stylus-5g-2024-screen-charging-price-specs)
- - [Amazon&#39;s $829 M2 MacBook Air deal delivers the lowest price on record](https://appleinsider.com/articles/24/05/09/amazons-829-m2-macbook-air-deal-delivers-the-lowest-price-on-record?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos says its controversial app redesign took ‘courage’](https://www.theverge.com/2024/5/9/24152675/sonos-new-app-bad-reviews-response-statement)
+ - [Save a record $200 on the Samsung Galaxy S24 Plus](https://www.androidauthority.com/deal-samsung-galaxy-s24-plus-3441204/)
+ - [Samsung made impressive gains in the US thanks to S24, as Google stutters](https://www.androidauthority.com/samsung-q1-2024-us-smartphone-market-share-3441469/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
