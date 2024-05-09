@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elite Dangerous gets its own kick in the Steam ratings shin over real money ship sales](https://www.pcgamer.com/games/sim/elite-dangerous-gets-its-own-kick-in-the-steam-ratings-shin-over-real-money-ship-sales)
  - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)
- - [Arrowhead CEO says Helldivers 2 balancing patches have &#39;gone too far&#39; recently: &#39;It feels like every time someone finds something fun, the fun is removed&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-helldivers-2-balancing-patches-have-gone-too-far-recently-it-feels-like-every-time-someone-finds-something-fun-the-fun-is-removed)
- - [EA studios &#39;hunger&#39; to start using generative AI &#39;as quickly as possible,&#39; says CEO](https://www.pcgamer.com/gaming-industry/ea-studios-hunger-to-start-using-generative-ai-as-quickly-as-possible-says-ceo)<!-- GAME:END -->
+ - [Arrowhead CEO says Helldivers 2 balancing patches have &#39;gone too far&#39; recently: &#39;It feels like every time someone finds something fun, the fun is removed&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-helldivers-2-balancing-patches-have-gone-too-far-recently-it-feels-like-every-time-someone-finds-something-fun-the-fun-is-removed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
