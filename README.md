@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
  - [Elite Dangerous gets its own kick in the Steam ratings shin over real money ship sales](https://www.pcgamer.com/games/sim/elite-dangerous-gets-its-own-kick-in-the-steam-ratings-shin-over-real-money-ship-sales)
- - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)
- - [Arrowhead CEO says Helldivers 2 balancing patches have &#39;gone too far&#39; recently: &#39;It feels like every time someone finds something fun, the fun is removed&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-helldivers-2-balancing-patches-have-gone-too-far-recently-it-feels-like-every-time-someone-finds-something-fun-the-fun-is-removed)<!-- GAME:END -->
+ - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
