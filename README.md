@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Well is shaping up to be the most acclaimed metroidvania since Hollow Knight](https://www.pcgamer.com/games/action/animal-well-critic-reviews-launch)
- - [How to get thalamus in Hades 2](https://www.polygon.com/hades-2-guides/24152904/thalamus-how-to-get-origin-seed-location)
- - [Critical Role launches its own subscription service, Beacon](https://www.polygon.com/24152976/critical-role-beacon-subscription-membership)<!-- GAME:END -->
+ - [Check out this gorgeous, sepia-toned apocalyptic adventure set in northern Finland](https://www.pcgamer.com/games/adventure/check-out-this-gorgeous-sepia-toned-apocalyptic-adventure-set-in-northern-finland)
+ - [Asus &lpar;sorta&rpar; announces the ROG Ally X: bigger battery, updated design, same performance as original ROG Ally](https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-sorta-announces-the-rog-ally-x-bigger-battery-updated-design-same-performance-as-original-rog-ally)
+ - [Where to unlock all alliance raids in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24151320/alliance-raid-unlock-quests-starting-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
