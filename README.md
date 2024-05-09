@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Find My Device network quietly rolls out to some outside North America](https://www.androidauthority.com/find-my-device-network-slow-global-rollout-3441630/)
- - [ASUS teases ROG Ally X with major battery upgrades and revamped UI](https://www.androidauthority.com/asus-rog-ally-x-3441625/)
- - [Poppy Playtime follows Five Nights at Freddy’s with new movie](https://www.theverge.com/2024/5/9/24153105/poppy-playtime-movie-legendary)<!-- TECH:END -->
+ - [Telecom consolidation continues: T-Mobile and Verizon eye US Cellular next](https://www.androidauthority.com/us-cellular-acquisition-3441662/)
+ - [Unity reports Q1 revenue down 8% YoY to $460M, vs. $433M est., a $291M net loss, including $212M of restructuring costs, compared with a $254M loss in Q1 2023 &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240509/p33#a240509p33)
+ - [Best Cheap Phone Plans for May 2024     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
