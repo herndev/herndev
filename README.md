@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Increase Grasp And Use More Arcana Cards In Hades 2](https://kotaku.com/hades-2-grasp-arcana-cards-how-to-increase-1851465948)
- - [Animal Well review](https://www.pcgamer.com/games/puzzle/animal-well-review)
- - [How to defeat the seahorse boss in Animal Well and get the bubble wand](https://www.polygon.com/guides/24152284/seahorse-boss-how-to-beat-bubble-wand-how-to-get)<!-- GAME:END -->
+ - [Free Play Days – Destiny 2 Expansions, Crime Boss: Rockay City, Cities: Skylines – Remastered and From Space](https://news.xbox.com/en-us/2024/05/09/free-play-days-destiny-2-expansions-crime-boss-rockay-city-cities-skylines-remastered-and-from-space/)
+ - [How To Unlock The Ward In The Crossroads In Hades 2](https://kotaku.com/hades-2-unlock-ward-open-door-crossroads-1851466251)
+ - [&#39;We need smaller games,&#39; says Xbox&#39;s Matt Booty, right after Microsoft shut down the studio that made Hi-Fi Rush—and was reportedly about to pitch a sequel](https://www.pcgamer.com/gaming-industry/we-need-smaller-games-says-xboxs-matt-booty-right-after-microsoft-shut-down-the-studio-that-made-hi-fi-rushand-was-reportedly-about-to-pitch-a-sequel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
