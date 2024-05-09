@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you realize that you were once the enemy within. Self-awareness is important](http://9gag.com/gag/aGy94dn)
- - ⏩ [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
+ - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - ⏩ [Her: Do you wanna clean my pipes?](http://9gag.com/gag/a87WBye)
+ - 👉 [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)<!-- MEMES:END -->
 
 ---
 
