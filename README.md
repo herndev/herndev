@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new App Mall promises to simplify app discovery on Chromebooks](https://www.androidauthority.com/chromebook-app-mall-3441236/)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [A Disney, Hulu, and Max streaming bundle is on the way](https://www.theverge.com/2024/5/8/24152397/disney-plus-hulu-max-streaming-bundle)<!-- TECH:END -->
+ - [Save up to $130 on Apple&#39;s new iPad Air &amp; M4 iPad Pro with AppleCare](https://appleinsider.com/articles/24/05/08/save-up-to-130-on-apples-new-ipad-air-m4-ipad-pro-with-applecare?utm_medium=rss)
+ - [Microsoft says it needs games like Hi-Fi Rush the day after killing its studio](https://www.theverge.com/2024/5/8/24152137/xbox-hi-fi-rush-tango-gameworks-matt-booty)
+ - [Intel and motherboard makers disagree on how to stabilize your crashing i9 CPU](https://www.theverge.com/2024/5/8/24152383/intel-motherboard-manufacturer-i9-stability-bios-update-baseline-profile-default)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
