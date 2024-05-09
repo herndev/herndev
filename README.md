@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Learn How to Chomp Like a Champ with Pac-Man](https://news.xbox.com/en-us/2024/05/09/chomp-like-a-champ-with-pac-man/)
- - [Experiencing Tekken 8 crashes? Nvidia admits to ongoing driver bug with 10-series cards](https://www.pcgamer.com/hardware/graphics-cards/experiencing-tekken-8-crashes-nvidia-admits-to-ongoing-driver-bug-with-10-series-cards)
- - [GTA Online update for the week of May 9](https://www.polygon.com/gta-online-guides/2024/5/9/24152800/may-9-weekly-update-release-time-events-superyacht)<!-- GAME:END -->
+ - [Use Your Powers of De-duck-tion in Duck Detective: The Secret Salami](https://news.xbox.com/en-us/2024/05/09/use-your-powers-of-de-duck-tion-in-duck-detective-the-secret-salami/)
+ - [Nintendo Switch Owners Are More Willing To Buy Indie Games, Says Publisher](https://kotaku.com/devolver-digital-nintendo-switch-indie-games-xbox-ps5-1851466792)
+ - [Large-scale game development is &#39;crushing under its own weight&#39; according to Devolver co-founder](https://www.pcgamer.com/gaming-industry/large-scale-game-development-is-crushing-under-its-own-weight-according-to-devolver-co-founder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
