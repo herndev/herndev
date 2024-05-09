@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
- - ⏩ [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 👉 [Okay I will not not do that not by before tomorrow but after yesterday if it doesn\u2019t have to not happen\u2026.](http://9gag.com/gag/agmyWgW)<!-- MEMES:END -->
+ - 💣 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - ⏩ [Hercules](http://9gag.com/gag/aAyYjjd)
+ - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
 
 ---
 
