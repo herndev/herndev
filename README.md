@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just finished this masterpiece...I played a lot of games since 30 years but wow that&#39;s absolutely my best video games experience...what an unforgettable journey !!!](http://9gag.com/gag/ayN5jyM)
- - ⏩ [He&#39;s Not Wrong Though](http://9gag.com/gag/agmyW76)
- - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
+ - 💣 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
+ - ⏩ [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
 
 ---
 
