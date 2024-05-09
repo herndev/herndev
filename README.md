@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit releases a new content policy, including a ban on AI data licensees from using deleted posts or comments; Reddit expects $60M+ in 2024 licensing revenue &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240509/p22#a240509p22)
- - [Indian investment app Groww moves its domicile back to India from the US, as some Indian startups relocate overseas entities to align with India&#39;s new rules &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240509/p21#a240509p21)
- - [Best Xbox Game Pass Deals: Save Over $70 on annual subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPad has come so incredibly far since 2010, and fulfills Steve Jobs&#39; vision perfectly](https://appleinsider.com/articles/24/05/09/the-ipad-has-come-so-incredibly-far-since-2010-and-fulfills-steve-jobs-vision-perfectly?utm_medium=rss)
+ - [Uber’s safety tools can be really useful, provided you enable them — here’s how](https://www.theverge.com/24138192/uber-safety-tools-ridesharing)
+ - [Windows 11’s screenshot tool is getting QR code scanning and emoji support](https://www.theverge.com/2024/5/9/24152963/microsoft-windows-11-snipping-tool-qr-scanning-emoji-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
