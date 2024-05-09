@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple apologizes for iPad Pro &#39;Crush&#39; ad after massive backlash](https://appleinsider.com/articles/24/05/09/apple-apologizes-for-ipad-pro-crush-ad-after-massive-backlash?utm_medium=rss)
- - [Google’s Pixel 6 series appears to miss out on Bluetooth LE Audio support](https://www.androidauthority.com/google-pixel-6-bluetooth-le-audio-3441602/)
- - [T-Mobile delays free internet loophole fix after running into a problem](https://www.androidauthority.com/t-mobile-delays-address-verification-3441595/)<!-- TECH:END -->
+ - [Google’s Find My Device network quietly rolls out to some outside North America](https://www.androidauthority.com/find-my-device-network-slow-global-rollout-3441630/)
+ - [ASUS teases ROG Ally X with major battery upgrades and revamped UI](https://www.androidauthority.com/asus-rog-ally-x-3441625/)
+ - [Poppy Playtime follows Five Nights at Freddy’s with new movie](https://www.theverge.com/2024/5/9/24153105/poppy-playtime-movie-legendary)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
