@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a blog post, Neuralink details a problem with its implant in patient Noland Arbaugh&#39;s brain that reduced data collection after the implant&#39;s threads came out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p5#a240509p5)
- - [It’s official: The next ASUS ROG Ally is coming soon](https://www.androidauthority.com/asus-confirms-next-rog-ally-3441282/)
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)<!-- TECH:END -->
+ - [New Nintendo Switch 2 leaks highlight specs, launch timeline, backwards compatibility, and more](https://www.androidauthority.com/nintendo-switch-2-leaks-specs-launch-timeline-backwards-compatibility-3441297/)
+ - [Binance sources and documents: internal investigators, dismissed in late 2023, found evidence of market manipulation by DWF Labs and secret trading accounts &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p8#a240509p8)
+ - [Duolingo drops 10%+ after reporting DAUs up 55% YoY to 31.4M, above 31.1M est., gaining users at the slowest rate since Q3 2022, and revenue up 45% YoY to $168M &lpar;Gabriel Sanchez/Bloomberg&rpar;](http://www.techmeme.com/240509/p7#a240509p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
