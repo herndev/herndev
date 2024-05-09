@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download these Art Deco wallpapers for your phone](https://www.androidauthority.com/art-deco-wallpapers-phone-3441361/)
- - [An interview with Sundar Pichai on playing the long game on AI, how Gemini image generation &quot;got it wrong&quot;, AI search, the US DOJ lawsuits, layoffs, and more &lpar;Emily Chang/Bloomberg&rpar;](http://www.techmeme.com/240509/p12#a240509p12)
- - [MacBook Pro Touch Bar could be revived as a strip that supports Apple Pencil](https://appleinsider.com/articles/22/03/15/macbook-pro-touch-bar-could-be-revived-as-a-strip-that-supports-apple-pencil?utm_medium=rss)<!-- TECH:END -->
+ - [The joy of getting lost in Animal Well’s cryptic world](https://www.theverge.com/24152153/animal-well-review-switch-ps5-steam-videogamedunkey)
+ - [Motorola’s midrange stylus phone gets wireless charging and a glow-up](https://www.theverge.com/2024/5/9/24152089/motorola-moto-g-stylus-5g-2024-screen-charging-price-specs)
+ - [Amazon&#39;s $829 M2 MacBook Air deal delivers the lowest price on record](https://appleinsider.com/articles/24/05/09/amazons-829-m2-macbook-air-deal-delivers-the-lowest-price-on-record?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
