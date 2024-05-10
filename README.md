@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
- - ⏩ [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 👉 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)<!-- MEMES:END -->
+ - 💣 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)
+ - ⏩ [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)
+ - 👉 [Emotional damage](http://9gag.com/gag/aRBQYx7)<!-- MEMES:END -->
 
 ---
 
