@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US Commerce Secretary says if China seized TSMC it would be &#39;absolutely devastating&#39; to the US economy, as it buys 92% of its cutting-edge chips from the Taiwanese manufacturer](https://www.pcgamer.com/hardware/us-commerce-secretary-says-if-china-seized-tsmc-it-would-be-absolutely-devastating-to-the-us-economy-as-it-buys-92-of-its-cutting-edge-chips-from-the-taiwanese-manufacturer)
- - [AMD&#39;s gaming graphics business looks like it&#39;s in terminal decline](https://www.pcgamer.com/hardware/graphics-cards/amds-gaming-graphics-business-looks-like-its-in-terminal-decline)
- - [MultiVersus 1.0: Everything We Know](https://kotaku.com/multiversus-1-0-details-everything-we-know-new-features-1851469309)<!-- GAME:END -->
+ - [Magical Felines Collide in Strategy Deckbuilder Spellcats, Launching May 17](https://news.xbox.com/en-us/2024/05/10/magical-felines-collide-in-strategy-deckbuilder-spellcats-launching-may-17/)
+ - [Time Patrol Bon is a sci-fi anime odyssey about the value of human life](https://www.polygon.com/anime/24152757/time-patrol-bon-netflix-anime-review)
+ - [Bethesda Promises New Fallout 4 Update To Fix The Last Big Update](https://kotaku.com/fallout-4-next-gen-update-fix-bethesda-new-patch-xbox-1851469635)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
