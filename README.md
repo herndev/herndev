@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: tech lobbying group NetChoice has kicked TikTok off of its membership after facing pressure from the office of House Majority Leader Steve Scalise &lpar;Politico&rpar;](http://www.techmeme.com/240509/p39#a240509p39)
- - [How to copy text from locked PDFs in macOS](https://appleinsider.com/inside/macos/tips/how-to-copy-text-from-locked-pdfs-in-macos?utm_medium=rss)
- - [Employees say Oracle Health, formerly Cerner, has lost at least 12 of its major clients and product innovation has taken a backseat to upgrading legacy systems &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240509/p38#a240509p38)<!-- TECH:END -->
+ - [OpenAI may have a ChatGPT surprise planned just before Google I/O 2024](https://www.androidauthority.com/openai-chatgpt-search-announcement-date-3441690/)
+ - [Sources: tech lobbying group NetChoice kicked TikTok off of its membership rolls after facing pressure from the office of House Majority Leader Steve Scalise &lpar;Politico&rpar;](http://www.techmeme.com/240509/p39#a240509p39)
+ - [How to copy text from locked PDFs in macOS](https://appleinsider.com/inside/macos/tips/how-to-copy-text-from-locked-pdfs-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
