@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch out Intel and AMD, more Arm chips are coming to the PC](https://www.pcgamer.com/hardware/processors/watch-out-intel-and-amd-more-arm-chips-are-coming-to-the-pc)
- - [Solo players, it&#39;s not just you: 1-player missions in Helldivers 2 currently have 4-player patrol spawn times](https://www.pcgamer.com/games/third-person-shooter/solo-players-its-not-just-you-1-player-missions-in-helldivers-2-currently-have-4-player-patrol-spawn-times)
- - [How to summon Andariel in Diablo 4](https://www.pcgamer.com/games/action/diablo-4-andariel-sandscorched-shackles-pincushioned-dolls)<!-- GAME:END -->
+ - [Resident Evil modders and the biggest fighting game channel on YouTube join forces to remedy a 26-year-old April Fools&#39; joke](https://www.pcgamer.com/games/resident-evil/resident-evil-modders-and-the-biggest-fighting-game-channel-on-youtube-join-forces-to-remedy-a-26-year-old-april-fools-joke)
+ - [You can buy Prey, Fallout: New Vegas, and Fallout 3 at just under $2 a pop right now—that&#39;s 3 games for less than I&#39;ll be spending on lunch today](https://www.pcgamer.com/games/rpg/you-can-buy-prey-fallout-new-vegas-and-fallout-3-at-just-under-dollar2-a-pop-right-nowthats-3-games-for-less-than-ill-be-spending-on-lunch-today)
+ - [Steam Deck update brings improved graphics driver for better performance, along with fixes and features galore](https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-deck-update-brings-improved-graphics-driver-for-better-performance-along-with-fixes-and-features-galore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
