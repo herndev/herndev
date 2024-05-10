@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages’ text editing feature is live for beta users, and it could come to you soon](https://www.androidauthority.com/google-messages-text-editing-live-for-beta-users-3441824/)
- - [The Pixel 8a is the best of the Google Pixel A series, and the worst of it](https://www.androidauthority.com/pixel-8a-best-worst-a-series-3440649/)
- - [Hades II is the perfect Steam Deck game](https://www.theverge.com/24152085/hades-2-steam-deck-performance)<!-- TECH:END -->
+ - [The Oura Ring will soon be able to gauge how ‘old’ your heart is](https://www.theverge.com/2024/5/10/24152827/oura-ring-cardiovascular-age-vo2-max-wearables)
+ - [Memo: Spotify&#39;s head of podcast studios Julie McNamara is leaving the company after nearly three years, emphasizing Spotify&#39;s reduced ambitions in podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240510/p7#a240510p7)
+ - [Final Cut Pro for Mac and Final Cut Pro for iPad 2 have grossly different features](https://appleinsider.com/articles/24/05/10/final-cut-pro-for-mac-and-final-cut-pro-for-ipad-2-have-grossly-different-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
