@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - ⏩ [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
+ - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - ⏩ [Well this is accurate](http://9gag.com/gag/aByKqED)
+ - 👉 [This app needs more baby cows](http://9gag.com/gag/aYQbzXV)<!-- MEMES:END -->
 
 ---
 
