@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI announces a live stream at 10AM PT on May 13 to demo &quot;some ChatGPT and GPT-4 updates&quot;; Sam Altman says the new stuff is &quot;not gpt-5, not a search engine&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240510/p11#a240510p11)
- - [A rare geomagnetic storm is heading to Earth — here’s what it means for critical infrastructure](https://www.theverge.com/2024/5/10/24153520/geomagnetic-storm-watch-infrastructure-communications-satellites-gps-power-grid)
- - [Best 3D Printer Filament Deals: Flashforge, Overture and More Big Brands Cut Prices     - CNET](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google just patched a zero-day Chrome exploit, update your browser asap](https://www.androidauthority.com/google-chrome-zero-day-patch-3441920/)
+ - [Sources: Apple made generative AI a tent-pole project after Craig Federighi and John Giannandrea spent weeks testing ChatGPT and found Siri to be antiquated &lpar;New York Times&rpar;](http://www.techmeme.com/240510/p12#a240510p12)
+ - [Sam Altman shoots down reports of search engine launch ahead of Google I/O](https://www.theverge.com/2024/5/10/24153767/sam-altman-openai-google-io-search-engine-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
