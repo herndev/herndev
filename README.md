@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite being just a humble CPU socket, AMD &#39;boldly suggests&#39; AM4 has &#39;legendary status&#39;](https://www.pcgamer.com/hardware/processors/despite-being-just-a-humble-cpu-socket-amd-boldly-suggests-am4-has-legendary-status)
- - [Megan Thee Stallion’s new video is a lavish love letter to One Piece, Scott Pilgrim, and Mortal Kombat](https://www.polygon.com/24153521/megan-thee-stallion-boa-one-piece-mortal-kombat-scott-pilgrim-ddr-references)
- - [Red, White, and Royal Blue sequel in the works at Prime Video](https://www.polygon.com/entertainment/24153500/red-white-and-royal-blue-sequel-prime-video-casey-mcquiston)<!-- GAME:END -->
+ - [US Commerce Secretary says if China seized TSMC it would be &#39;absolutely devastating&#39; to the US economy, as it buys 92% of its cutting-edge chips from the Taiwanese manufacturer](https://www.pcgamer.com/hardware/us-commerce-secretary-says-if-china-seized-tsmc-it-would-be-absolutely-devastating-to-the-us-economy-as-it-buys-92-of-its-cutting-edge-chips-from-the-taiwanese-manufacturer)
+ - [AMD&#39;s gaming graphics business looks like it&#39;s in terminal decline](https://www.pcgamer.com/hardware/graphics-cards/amds-gaming-graphics-business-looks-like-its-in-terminal-decline)
+ - [MultiVersus 1.0: Everything We Know](https://kotaku.com/multiversus-1-0-details-everything-we-know-new-features-1851469309)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
