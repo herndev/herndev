@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disney](http://9gag.com/gag/aByKDLA)
- - ⏩ [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 👉 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)<!-- MEMES:END -->
+ - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - ⏩ [Pretty smooth Flying fox](http://9gag.com/gag/an7Xe05)
+ - 👉 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)<!-- MEMES:END -->
 
 ---
 
