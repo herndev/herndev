@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)
- - [What to Expect at Google I/O 2024, and How to Watch It](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)
- - [GameStop will buy and sell rare Pokémon cards — but it doesn’t want to catch ‘em all](https://www.theverge.com/2024/5/10/24153973/gamestop-pokemon-tcg-graded-psa-cards)<!-- TECH:END -->
+ - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
+ - [Some Indian journalists who turned to YouTube to dodge censorship say the company is banning or demonetizing their news channels citing government notices &lpar;Raksha Kumar/Reuters Institute&rpar;](http://www.techmeme.com/240510/p15#a240510p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
