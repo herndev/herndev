@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 and 13R’s camera islands could look like this](https://www.androidauthority.com/oneplus-13-13r-camera-island-outline-leak-3441723/)
- - [Apple says sorry after poorly received iPad Pro ad ‘missed the mark’](https://www.androidauthority.com/apple-apology-ipad-pro-crush-ad-3441698/)
- - [New update incoming for Samsung Galaxy S24 series!](https://www.androidauthority.com/samsung-galaxy-s24-series-may-2024-update-3441703/)<!-- TECH:END -->
+ - [An account of chatting with 18 AI companions for a month: AI friendship is hollow, but chatbots could enhance human socializing if developed responsibly &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240510/p2#a240510p2)
+ - [My Favorite Espresso Machine Is Just $110 Right Now     - CNET](https://www.cnet.com/deals/my-favorite-espresso-machine-is-just-110-right-now/#ftag=CAD590a51e)
+ - [Microsoft says its Play Store rival launches in July, won’t be an app](https://www.androidauthority.com/microsoft-xbox-mobile-game-store-3441719/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
