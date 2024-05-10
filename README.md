@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)
- - ⏩ [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)
- - 👉 [Emotional damage](http://9gag.com/gag/aRBQYx7)<!-- MEMES:END -->
+ - 💣 [Backpack Glitch](http://9gag.com/gag/arypPjX)
+ - ⏩ [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)
+ - 👉 [Would race](http://9gag.com/gag/aXPb87d)<!-- MEMES:END -->
 
 ---
 
