@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus 13 and 13R’s camera islands could look like this](https://www.androidauthority.com/oneplus-13-13r-camera-island-outline-leak-3441723/)
  - [Apple says sorry after poorly received iPad Pro ad ‘missed the mark’](https://www.androidauthority.com/apple-apology-ipad-pro-crush-ad-3441698/)
- - [New update incoming for Samsung Galaxy S24 series!](https://www.androidauthority.com/samsung-galaxy-s24-series-may-2024-update-3441703/)
- - [Google Messages wants to make sure you don’t see texts from blocked contacts anywhere](https://www.androidauthority.com/google-messages-blocked-contacts-group-chats-3441696/)<!-- TECH:END -->
+ - [New update incoming for Samsung Galaxy S24 series!](https://www.androidauthority.com/samsung-galaxy-s24-series-may-2024-update-3441703/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
