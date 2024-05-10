@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
  - ⏩ [100%](http://9gag.com/gag/adBNZ6N)
- - 👉 [`Plus Size` in 2003](http://9gag.com/gag/ajP6QDw)<!-- MEMES:END -->
+ - 👉 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)<!-- MEMES:END -->
 
 ---
 
