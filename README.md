@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beta teething issues aside, Discord&#39;s Roll20 activity for running D&amp;D and other RPGs inside the app works great](https://www.pcgamer.com/games/rpg/beta-teething-issues-aside-discords-roll20-activity-for-running-dandd-and-other-rpgs-inside-the-app-works-great)
- - [Today&#39;s Wordle answer for Friday, May 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-10-2024)
- - [10 things I wish I knew before playing Animal Well](https://www.pcgamer.com/games/puzzle/10-things-i-wish-i-knew-before-playing-animal-well)<!-- GAME:END -->
+ - [Watch out Intel and AMD, more Arm chips are coming to the PC](https://www.pcgamer.com/hardware/processors/watch-out-intel-and-amd-more-arm-chips-are-coming-to-the-pc)
+ - [Solo players, it&#39;s not just you: 1-player missions in Helldivers 2 currently have 4-player patrol spawn times](https://www.pcgamer.com/games/third-person-shooter/solo-players-its-not-just-you-1-player-missions-in-helldivers-2-currently-have-4-player-patrol-spawn-times)
+ - [How to summon Andariel in Diablo 4](https://www.pcgamer.com/games/action/diablo-4-andariel-sandscorched-shackles-pincushioned-dolls)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
