@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - ⏩ [If you don&#39;t know what this is, then you&#39;ve never worked with IT!](http://9gag.com/gag/a7oKLRA)
- - 👉 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)<!-- MEMES:END -->
+ - 💣 [The good old days](http://9gag.com/gag/aE0GvDG)
+ - ⏩ [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 👉 [Sex slaves.](http://9gag.com/gag/aPAywbQ)<!-- MEMES:END -->
 
 ---
 
