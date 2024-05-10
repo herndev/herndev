@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI may have a ChatGPT surprise planned just before Google I/O 2024](https://www.androidauthority.com/openai-chatgpt-search-announcement-date-3441690/)
- - [Sources: tech lobbying group NetChoice kicked TikTok off of its membership rolls after facing pressure from the office of House Majority Leader Steve Scalise &lpar;Politico&rpar;](http://www.techmeme.com/240509/p39#a240509p39)
- - [How to copy text from locked PDFs in macOS](https://appleinsider.com/inside/macos/tips/how-to-copy-text-from-locked-pdfs-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says sorry after poorly received iPad Pro ad ‘missed the mark’](https://www.androidauthority.com/apple-apology-ipad-pro-crush-ad-3441698/)
+ - [New update incoming for Samsung Galaxy S24 series!](https://www.androidauthority.com/samsung-galaxy-s24-series-may-2024-update-3441703/)
+ - [Google Messages wants to make sure you don’t see texts from blocked contacts anywhere](https://www.androidauthority.com/google-messages-blocked-contacts-group-chats-3441696/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
