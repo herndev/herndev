@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;A number of threads retracted from the brain&#39; of Neuralink&#39;s first implant patient, but they say they&#39;re still &#39;beating my friends in games that as a quadriplegic I should not be beating them in&#39;](https://www.pcgamer.com/hardware/a-number-of-threads-retracted-from-the-brain-of-neuralinks-first-implant-patient-but-they-say-theyre-still-beating-my-friends-in-games-that-as-a-quadriplegic-i-should-not-be-beating-them-in)
  - [Resident Evil modders and the biggest fighting game channel on YouTube join forces to remedy a 26-year-old April Fools&#39; joke](https://www.pcgamer.com/games/resident-evil/resident-evil-modders-and-the-biggest-fighting-game-channel-on-youtube-join-forces-to-remedy-a-26-year-old-april-fools-joke)
- - [You can buy Prey, Fallout: New Vegas, and Fallout 3 at just under $2 a pop right now—that&#39;s 3 games for less than I&#39;ll be spending on lunch today](https://www.pcgamer.com/games/rpg/you-can-buy-prey-fallout-new-vegas-and-fallout-3-at-just-under-dollar2-a-pop-right-nowthats-3-games-for-less-than-ill-be-spending-on-lunch-today)
- - [Steam Deck update brings improved graphics driver for better performance, along with fixes and features galore](https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-deck-update-brings-improved-graphics-driver-for-better-performance-along-with-fixes-and-features-galore)<!-- GAME:END -->
+ - [You can buy Prey, Fallout: New Vegas, and Fallout 3 at just under $2 a pop right now—that&#39;s 3 games for less than I&#39;ll be spending on lunch today](https://www.pcgamer.com/games/rpg/you-can-buy-prey-fallout-new-vegas-and-fallout-3-at-just-under-dollar2-a-pop-right-nowthats-3-games-for-less-than-ill-be-spending-on-lunch-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
