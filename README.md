@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - ⏩ [Well this is accurate](http://9gag.com/gag/aByKqED)
- - 👉 [This app needs more baby cows](http://9gag.com/gag/aYQbzXV)<!-- MEMES:END -->
+ - 💣 [If you know, you know](http://9gag.com/gag/a34YV97)
+ - ⏩ [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
+ - 👉 [Would race](http://9gag.com/gag/aXPb87d)<!-- MEMES:END -->
 
 ---
 
