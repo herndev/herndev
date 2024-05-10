@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Company policies`](http://9gag.com/gag/aPAvKpP)
- - ⏩ [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
- - 👉 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)<!-- MEMES:END -->
+ - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - ⏩ [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
+ - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
 
 ---
 
