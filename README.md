@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil Pro and new iPads are a warning shot at Wacom](https://appleinsider.com/articles/24/05/10/apple-pencil-pro-and-new-ipads-are-a-warning-shot-at-wacom?utm_medium=rss)
- - [Windows 11’s Start Menu could soon get even busier with floating widgets](https://www.androidauthority.com/windows-11-start-menu-floating-widgets-3441868/)
- - [The Earth Is About to Feast on Dead Cicadas](https://www.wired.com/story/periodical-cicada-emergence-illinois/)<!-- TECH:END -->
+ - [‘TunnelVision’ Attack Leaves Nearly All VPNs Vulnerable to Spying](https://www.wired.com/story/tunnelvision-vpn-attack/)
+ - [Deal: Save over $600 on the 512GB Google Pixel 7 Pro](https://www.androidauthority.com/deal-google-pixel-7-pro-3441900/)
+ - [Walmart confirms its ‘Pro’ Google TV streamer is landing this month](https://www.androidauthority.com/walmart-4k-pro-google-tv-box-3441895/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
