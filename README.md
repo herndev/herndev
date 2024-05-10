@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An account of chatting with 18 AI companions for a month: AI friendship is hollow, but chatbots could enhance human socializing if developed responsibly &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240510/p2#a240510p2)
- - [My Favorite Espresso Machine Is Just $110 Right Now     - CNET](https://www.cnet.com/deals/my-favorite-espresso-machine-is-just-110-right-now/#ftag=CAD590a51e)
- - [Microsoft says its Play Store rival launches in July, won’t be an app](https://www.androidauthority.com/microsoft-xbox-mobile-game-store-3441719/)<!-- TECH:END -->
+ - [Bankrupt crypto lender BlockFi announces plans to shut down its web platform by May and partners with Coinbase to allow clients to access and withdraw funds &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/240510/p3#a240510p3)
+ - [I Tried Gemini AI to Plan Mother&#39;s Day Last-Minute. It Took a Weird Turn     - CNET](https://www.cnet.com/tech/services-and-software/i-tried-gemini-ai-to-plan-mothers-day-last-minute-it-took-a-weird-turn/#ftag=CAD590a51e)
+ - [Best Savings Rates Today -- Now&#39;s the Time to Take Advantage of APYs up to 5.55%, May 10, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-may-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
