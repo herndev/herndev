@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2’s Latest Major Order Suggests Player Choices May Not Really Matter](https://kotaku.com/helldivers-2-stratagem-choice-major-orders-mine-1851470280)
- - [How to beat Chronos in Hades 2](https://www.polygon.com/hades-2-guides/24153678/chronos-boss-fight-how-to-beat-best-build)
- - [The Xbox Fallout: Breaking Down Microsoft&#39;s Worst Gaming Week In Years](https://kotaku.com/xbox-game-studios-arkane-tango-gameworks-hi-fi-rush-1851470253)<!-- GAME:END -->
+ - [Kotaku&#39;s Weekend Guide: 9 Incredible Games We Can’t Stop Thinking About](https://kotaku.com/weekend-guide-1000xresist-hades-2-dragons-dogma-1851470390)
+ - [GameStop will buy graded Pokémon cards soon, says staff](https://www.polygon.com/pokemon/24153859/gamestop-buys-graded-pokemon-cards)
+ - [People Watched More Fallout Than Bluey And Grey&#39;s Anatomy Combined](https://kotaku.com/fallout-tv-show-ratings-nielsen-amazon-bluey-netflix-1851470341)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
