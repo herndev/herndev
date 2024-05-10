@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - ⏩ [Pretty smooth Flying fox](http://9gag.com/gag/an7Xe05)
- - 👉 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)<!-- MEMES:END -->
+ - 💣 [`Company policies`](http://9gag.com/gag/aPAvKpP)
+ - ⏩ [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 👉 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)<!-- MEMES:END -->
 
 ---
 
