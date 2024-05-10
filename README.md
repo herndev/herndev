@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 things I wish I knew before playing Animal Well](https://www.pcgamer.com/games/puzzle/10-things-i-wish-i-knew-before-playing-animal-well)
- - [Nothing about Helldivers 2&#39;s newest assault rifle makes any sense](https://www.pcgamer.com/helldivers-2-tenderizer-impessions)
- - [Bungie reveals all the possible perks on Destiny 2&#39;s spicy new Prismatic class items](https://www.pcgamer.com/games/fps/bungie-reveals-all-the-possible-perks-on-destiny-2s-spicy-new-prismatic-class-items)<!-- GAME:END -->
+ - [Beta teething issues aside, Discord&#39;s Roll20 activity for running D&amp;D and other RPGs inside the app works great](https://www.pcgamer.com/games/rpg/beta-teething-issues-aside-discords-roll20-activity-for-running-dandd-and-other-rpgs-inside-the-app-works-great)
+ - [Today&#39;s Wordle answer for Friday, May 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-10-2024)
+ - [10 things I wish I knew before playing Animal Well](https://www.pcgamer.com/games/puzzle/10-things-i-wish-i-knew-before-playing-animal-well)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
