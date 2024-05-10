@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - ⏩ [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - 👉 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)<!-- MEMES:END -->
+ - 💣 [100%](http://9gag.com/gag/adBNZ6N)
+ - ⏩ [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
+ - 👉 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)<!-- MEMES:END -->
 
 ---
 
