@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telecom consolidation continues: T-Mobile and Verizon eye US Cellular next](https://www.androidauthority.com/us-cellular-acquisition-3441662/)
- - [Unity reports Q1 revenue down 8% YoY to $460M, vs. $433M est., a $291M net loss, including $212M of restructuring costs, compared with a $254M loss in Q1 2023 &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240509/p33#a240509p33)
- - [Best Cheap Phone Plans for May 2024     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft plans to launch its mobile game store in July on the web, first with its own games including Candy Crush Saga, and later open it to other publishers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p35#a240509p35)
+ - [TikTok Will Start Watermarking AI Content to Warn Users     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-will-start-watermarking-ai-content-to-warn-users/#ftag=CAD590a51e)
+ - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
