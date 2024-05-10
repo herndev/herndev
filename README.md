@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would race](http://9gag.com/gag/aXPb87d)
- - ⏩ [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
+ - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - ⏩ [100%](http://9gag.com/gag/adBNZ6N)
+ - 👉 [`Plus Size` in 2003](http://9gag.com/gag/ajP6QDw)<!-- MEMES:END -->
 
 ---
 
