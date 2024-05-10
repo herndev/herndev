@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
- - [Cloud GPU provider CoreWeave opens its European HQ in London and plans two UK data centers this year as part of a &amp;pound;1B investment, after raising $1.1B last week &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240510/p14#a240510p14)
- - [The Pixel Watch’s battery full notification has mysteriously disappeared](https://www.androidauthority.com/pixel-watch-battery-full-notification-gone-3441963/)<!-- TECH:END -->
+ - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)
+ - [What to Expect at Google I/O 2024, and How to Watch It](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)
+ - [GameStop will buy and sell rare Pokémon cards — but it doesn’t want to catch ‘em all](https://www.theverge.com/2024/5/10/24153973/gamestop-pokemon-tcg-graded-psa-cards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
