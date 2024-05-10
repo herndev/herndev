@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - ⏩ [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
- - 👉 [If you know, you know](http://9gag.com/gag/a34YV97)<!-- MEMES:END -->
+ - 💣 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - ⏩ [100%](http://9gag.com/gag/adBNZ6N)
+ - 👉 [Emotional damage](http://9gag.com/gag/aRBQYx7)<!-- MEMES:END -->
 
 ---
 
