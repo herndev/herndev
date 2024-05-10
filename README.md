@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku&#39;s Weekend Guide: 9 Incredible Games We Can’t Stop Thinking About](https://kotaku.com/weekend-guide-1000xresist-hades-2-dragons-dogma-1851470390)
- - [GameStop will buy graded Pokémon cards soon, says staff](https://www.polygon.com/pokemon/24153859/gamestop-buys-graded-pokemon-cards)
- - [People Watched More Fallout Than Bluey And Grey&#39;s Anatomy Combined](https://kotaku.com/fallout-tv-show-ratings-nielsen-amazon-bluey-netflix-1851470341)<!-- GAME:END -->
+ - [Bungie&#39;s first big hit, Classic Marathon, is free on Steam with Marathon 2 and Marathon Infinity to follow](https://www.pcgamer.com/games/fps/bungies-first-big-hit-classic-marathon-is-free-on-steam-with-marathon-2-and-marathon-infinity-to-follow)
+ - [Cyberpunk 2077&#39;s quest lead says it&#39;s a story &#39;about terminal illness,&#39; and playing it while staring down the barrel of one was the most intense RPG experience I&#39;ve ever had](https://www.pcgamer.com/games/rpg/cyberpunk-2077s-quest-lead-says-its-a-story-about-terminal-illness-and-playing-it-while-staring-down-the-barrel-of-one-was-the-most-intense-rpg-experience-ive-ever-had)
+ - [GameStop Wants You To Start Trading In Your Valuable Pokémon Cards](https://kotaku.com/gamestop-gme-pokemon-card-trade-ins-psa-charizard-1851470574)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
