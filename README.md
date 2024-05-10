@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Oura Ring will soon be able to gauge how ‘old’ your heart is](https://www.theverge.com/2024/5/10/24152827/oura-ring-cardiovascular-age-vo2-max-wearables)
- - [Memo: Spotify&#39;s head of podcast studios Julie McNamara is leaving the company after nearly three years, emphasizing Spotify&#39;s reduced ambitions in podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240510/p7#a240510p7)
- - [Final Cut Pro for Mac and Final Cut Pro for iPad 2 have grossly different features](https://appleinsider.com/articles/24/05/10/final-cut-pro-for-mac-and-final-cut-pro-for-ipad-2-have-grossly-different-features?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro 2 may be half the price of the original claims sketchy rumor](https://appleinsider.com/articles/24/05/10/apple-vision-pro-2-may-be-half-the-price-of-the-original-claims-sketchy-rumor?utm_medium=rss)
+ - [Apple set to deliver AI assistant for transcribing, summarizing meetings and lectures](https://appleinsider.com/articles/24/05/10/apple-set-to-deliver-ai-assistant-for-transcribing-summarizing-meetings-and-lectures?utm_medium=rss)
+ - [6 Best Gaming Laptops &lpar;2024&rpar;: From Cheap to Premium](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
