@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just patched a zero-day Chrome exploit, update your browser asap](https://www.androidauthority.com/google-chrome-zero-day-patch-3441920/)
- - [Sources: Apple made generative AI a tent-pole project after Craig Federighi and John Giannandrea spent weeks testing ChatGPT and found Siri to be antiquated &lpar;New York Times&rpar;](http://www.techmeme.com/240510/p12#a240510p12)
- - [Sam Altman shoots down reports of search engine launch ahead of Google I/O](https://www.theverge.com/2024/5/10/24153767/sam-altman-openai-google-io-search-engine-launch)<!-- TECH:END -->
+ - [The Pixel Watch’s battery full notification has mysteriously disappeared](https://www.androidauthority.com/pixel-watch-battery-full-notification-gone-3441963/)
+ - [RenAIssance: How Apple will drag Siri into the modern era](https://appleinsider.com/articles/24/05/10/renaissance-how-apple-will-drag-siri-into-the-modern-era?utm_medium=rss)
+ - [Bungie’s classic sci-fi shooter Marathon is now free on Steam](https://www.theverge.com/2024/5/10/24153867/marathon-bungie-shooter-steam-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
