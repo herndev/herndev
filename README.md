@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magical Felines Collide in Strategy Deckbuilder Spellcats, Launching May 17](https://news.xbox.com/en-us/2024/05/10/magical-felines-collide-in-strategy-deckbuilder-spellcats-launching-may-17/)
- - [Time Patrol Bon is a sci-fi anime odyssey about the value of human life](https://www.polygon.com/anime/24152757/time-patrol-bon-netflix-anime-review)
- - [Bethesda Promises New Fallout 4 Update To Fix The Last Big Update](https://kotaku.com/fallout-4-next-gen-update-fix-bethesda-new-patch-xbox-1851469635)<!-- GAME:END -->
+ - [Join the Circuit of Champions Event Now through May 23](https://news.xbox.com/en-us/2024/05/10/join-the-circuit-of-champions-event-now-through-may-23/)
+ - [13 Nintendo Ports, Remasters, And Remakes We’d Love While We&#39;re Waiting For The Switch 2](https://kotaku.com/switch-2-zelda-windwaker-hd-pokemon-black-white-remake-1851469796)
+ - [Here’s one yellow-box game delay statement that everyone seems to like](https://www.polygon.com/24153672/rogue-prince-of-persia-hades-2-release-date-delay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
