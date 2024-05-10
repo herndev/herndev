@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Could These Be The Real Nintendo Switch 2 Specs?](https://kotaku.com/nintendo-switch-2-tech-specs-leak-1851468823)
- - [13 Things You Should Never Say To A Fallout: New Vegas Fan](https://kotaku.com/fallout-new-vegas-things-never-say-fan-bethesda-xbox-1851467599)
- - [How Senua’s Experience of Psychosis in Hellblade II is Rooted in Neuroscience and Lived Experience](https://news.xbox.com/en-us/2024/05/10/senuas-psychosis-hellblade-2-mental-health-feature/)<!-- GAME:END -->
+ - [Despite being just a humble CPU socket, AMD &#39;boldly suggests&#39; AM4 has &#39;legendary status&#39;](https://www.pcgamer.com/hardware/processors/despite-being-just-a-humble-cpu-socket-amd-boldly-suggests-am4-has-legendary-status)
+ - [Megan Thee Stallion’s new video is a lavish love letter to One Piece, Scott Pilgrim, and Mortal Kombat](https://www.polygon.com/24153521/megan-thee-stallion-boa-one-piece-mortal-kombat-scott-pilgrim-ddr-references)
+ - [Red, White, and Royal Blue sequel in the works at Prime Video](https://www.polygon.com/entertainment/24153500/red-white-and-royal-blue-sequel-prime-video-casey-mcquiston)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
