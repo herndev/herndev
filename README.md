@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple says it&#39;s sorry for smushing musical instruments and art supplies to advertise its latest iPad](https://www.pcgamer.com/hardware/apple-ipad-ad-apology)
- - [Blizzard&#39;s internal Diablo 4 playtests are a &#39;cursed problem&#39; where &#39;to really test our game, you need to spend your life playing our game,&#39; designer says](https://www.pcgamer.com/games/rpg/blizzards-internal-diablo-4-playtests-are-a-cursed-problem-where-to-really-test-our-game-you-need-to-spend-your-life-playing-our-game-designer-says)
- - [Cat’s Eye: How to Navigate the World of Little Kitty, Big City](https://news.xbox.com/en-us/2024/05/09/cats-eye-how-to-navigate-the-world-of-little-kitty-big-city/)<!-- GAME:END -->
+ - [Nothing about Helldivers 2&#39;s newest assault rifle makes any sense](https://www.pcgamer.com/helldivers-2-tenderizer-impessions)
+ - [Bungie reveals all the possible perks on Destiny 2&#39;s spicy new Prismatic class items](https://www.pcgamer.com/games/fps/bungie-reveals-all-the-possible-perks-on-destiny-2s-spicy-new-prismatic-class-items)
+ - [If you&#39;re struggling with Hades 2&#39;s small changes, don&#39;t worry—they&#39;ll click](https://www.pcgamer.com/games/action/if-youre-struggling-with-hades-2s-small-changes-dont-worrytheyll-click)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
