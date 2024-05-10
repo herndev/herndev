@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad, iPad Air, iPad Pro buyer&#39;s guide May 2024: which iPad to buy for any budget](https://appleinsider.com/articles/24/05/10/ipad-ipad-air-ipad-pro-buyers-guide-may-2024-which-ipad-to-buy-for-any-budget?utm_medium=rss)
- - [These are the best new streaming movies this week: Prom Dates, Broke, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Smartphone shipments in India grew 8% in Q1, 2024; Vivo leads for the first time with 19.2% of market share, followed by Xiaomi with 18.8%, and Samsung 17.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240510/p4#a240510p4)<!-- TECH:END -->
+ - [Google Messages’ text editing feature is live for beta users, and it could come to you soon](https://www.androidauthority.com/google-messages-text-editing-live-for-beta-users-3441824/)
+ - [The Pixel 8a is the best of the Google Pixel A series, and the worst of it](https://www.androidauthority.com/pixel-8a-best-worst-a-series-3440649/)
+ - [Hades II is the perfect Steam Deck game](https://www.theverge.com/24152085/hades-2-steam-deck-performance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
