@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro 2 may be half the price of the original claims sketchy rumor](https://appleinsider.com/articles/24/05/10/apple-vision-pro-2-may-be-half-the-price-of-the-original-claims-sketchy-rumor?utm_medium=rss)
- - [Apple set to deliver AI assistant for transcribing, summarizing meetings and lectures](https://appleinsider.com/articles/24/05/10/apple-set-to-deliver-ai-assistant-for-transcribing-summarizing-meetings-and-lectures?utm_medium=rss)
- - [6 Best Gaming Laptops &lpar;2024&rpar;: From Cheap to Premium](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
+ - [Apple Pencil Pro and new iPads are a warning shot at Wacom](https://appleinsider.com/articles/24/05/10/apple-pencil-pro-and-new-ipads-are-a-warning-shot-at-wacom?utm_medium=rss)
+ - [Windows 11’s Start Menu could soon get even busier with floating widgets](https://www.androidauthority.com/windows-11-start-menu-floating-widgets-3441868/)
+ - [The Earth Is About to Feast on Dead Cicadas](https://www.wired.com/story/periodical-cicada-emergence-illinois/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
