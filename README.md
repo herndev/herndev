@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Join the Circuit of Champions Event Now through May 23](https://news.xbox.com/en-us/2024/05/10/join-the-circuit-of-champions-event-now-through-may-23/)
- - [13 Nintendo Ports, Remasters, And Remakes We’d Love While We&#39;re Waiting For The Switch 2](https://kotaku.com/switch-2-zelda-windwaker-hd-pokemon-black-white-remake-1851469796)
- - [Here’s one yellow-box game delay statement that everyone seems to like](https://www.polygon.com/24153672/rogue-prince-of-persia-hades-2-release-date-delay)<!-- GAME:END -->
+ - [The 29 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Official PlayStation Podcast Episode 484: Speaking Of Playing](https://blog.playstation.com/2024/05/10/official-playstation-podcast-episode-484-speaking-of-playing/)
+ - [Warner Bros. reverses course, won’t delist Adult Swim indie games, devs say](https://www.polygon.com/24153665/warner-bros-adult-swim-games-delisting-steam-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
