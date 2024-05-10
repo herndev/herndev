@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘TunnelVision’ Attack Leaves Nearly All VPNs Vulnerable to Spying](https://www.wired.com/story/tunnelvision-vpn-attack/)
- - [Deal: Save over $600 on the 512GB Google Pixel 7 Pro](https://www.androidauthority.com/deal-google-pixel-7-pro-3441900/)
- - [Walmart confirms its ‘Pro’ Google TV streamer is landing this month](https://www.androidauthority.com/walmart-4k-pro-google-tv-box-3441895/)<!-- TECH:END -->
+ - [OpenAI announces a live stream at 10AM PT on May 13 to demo &quot;some ChatGPT and GPT-4 updates&quot;; Sam Altman says the new stuff is &quot;not gpt-5, not a search engine&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240510/p11#a240510p11)
+ - [A rare geomagnetic storm is heading to Earth — here’s what it means for critical infrastructure](https://www.theverge.com/2024/5/10/24153520/geomagnetic-storm-watch-infrastructure-communications-satellites-gps-power-grid)
+ - [Best 3D Printer Filament Deals: Flashforge, Overture and More Big Brands Cut Prices     - CNET](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
