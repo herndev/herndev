@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Backpack Glitch](http://9gag.com/gag/arypPjX)
- - ⏩ [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)
- - 👉 [Would race](http://9gag.com/gag/aXPb87d)<!-- MEMES:END -->
+ - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - ⏩ [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 👉 [If you know, you know](http://9gag.com/gag/a34YV97)<!-- MEMES:END -->
 
 ---
 
