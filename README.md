@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you know](http://9gag.com/gag/a34YV97)
- - ⏩ [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 👉 [Would race](http://9gag.com/gag/aXPb87d)<!-- MEMES:END -->
+ - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - ⏩ [`Company policies`](http://9gag.com/gag/aPAvKpP)
+ - 👉 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)<!-- MEMES:END -->
 
 ---
 
