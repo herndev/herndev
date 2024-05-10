@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Friday...](http://9gag.com/gag/aoyZEPn)
- - ⏩ [Pretty smooth Flying fox](http://9gag.com/gag/an7Xe05)
- - 👉 [Both.](http://9gag.com/gag/a1mAG8P)<!-- MEMES:END -->
+ - 💣 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
+ - ⏩ [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
+ - 👉 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)<!-- MEMES:END -->
 
 ---
 
