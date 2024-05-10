@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The good old days](http://9gag.com/gag/aE0GvDG)
- - ⏩ [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 👉 [Sex slaves.](http://9gag.com/gag/aPAywbQ)<!-- MEMES:END -->
+ - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - ⏩ [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - 👉 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)<!-- MEMES:END -->
 
 ---
 
