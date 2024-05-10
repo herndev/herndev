@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 29 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Official PlayStation Podcast Episode 484: Speaking Of Playing](https://blog.playstation.com/2024/05/10/official-playstation-podcast-episode-484-speaking-of-playing/)
- - [Warner Bros. reverses course, won’t delist Adult Swim indie games, devs say](https://www.polygon.com/24153665/warner-bros-adult-swim-games-delisting-steam-update)<!-- GAME:END -->
+ - [Helldivers 2’s Latest Major Order Suggests Player Choices May Not Really Matter](https://kotaku.com/helldivers-2-stratagem-choice-major-orders-mine-1851470280)
+ - [How to beat Chronos in Hades 2](https://www.polygon.com/hades-2-guides/24153678/chronos-boss-fight-how-to-beat-best-build)
+ - [The Xbox Fallout: Breaking Down Microsoft&#39;s Worst Gaming Week In Years](https://kotaku.com/xbox-game-studios-arkane-tango-gameworks-hi-fi-rush-1851470253)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
