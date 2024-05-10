@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
- - ⏩ [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 👉 [Would race](http://9gag.com/gag/aXPb87d)<!-- MEMES:END -->
+ - 💣 [Would race](http://9gag.com/gag/aXPb87d)
+ - ⏩ [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
 
 ---
 
