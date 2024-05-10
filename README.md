@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)
- - ⏩ [Hospital charged me &lpar;insurance &rpar; $30 for this lunch](http://9gag.com/gag/aVvON8K)
- - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
+ - 💣 [It&#39;s Friday...](http://9gag.com/gag/aoyZEPn)
+ - ⏩ [Pretty smooth Flying fox](http://9gag.com/gag/an7Xe05)
+ - 👉 [Both.](http://9gag.com/gag/a1mAG8P)<!-- MEMES:END -->
 
 ---
 
