@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 things I wish I knew before playing Animal Well](https://www.pcgamer.com/games/puzzle/10-things-i-wish-i-knew-before-playing-animal-well)
  - [Nothing about Helldivers 2&#39;s newest assault rifle makes any sense](https://www.pcgamer.com/helldivers-2-tenderizer-impessions)
- - [Bungie reveals all the possible perks on Destiny 2&#39;s spicy new Prismatic class items](https://www.pcgamer.com/games/fps/bungie-reveals-all-the-possible-perks-on-destiny-2s-spicy-new-prismatic-class-items)
- - [If you&#39;re struggling with Hades 2&#39;s small changes, don&#39;t worry—they&#39;ll click](https://www.pcgamer.com/games/action/if-youre-struggling-with-hades-2s-small-changes-dont-worrytheyll-click)<!-- GAME:END -->
+ - [Bungie reveals all the possible perks on Destiny 2&#39;s spicy new Prismatic class items](https://www.pcgamer.com/games/fps/bungie-reveals-all-the-possible-perks-on-destiny-2s-spicy-new-prismatic-class-items)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
