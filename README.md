@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - ⏩ [`Company policies`](http://9gag.com/gag/aPAvKpP)
- - 👉 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)<!-- MEMES:END -->
+ - 💣 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
+ - ⏩ [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 👉 [Would race](http://9gag.com/gag/aXPb87d)<!-- MEMES:END -->
 
 ---
 
