@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - ⏩ [100%](http://9gag.com/gag/adBNZ6N)
- - 👉 [Emotional damage](http://9gag.com/gag/aRBQYx7)<!-- MEMES:END -->
+ - 💣 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)
+ - ⏩ [Hospital charged me &lpar;insurance &rpar; $30 for this lunch](http://9gag.com/gag/aVvON8K)
+ - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
 
 ---
 
