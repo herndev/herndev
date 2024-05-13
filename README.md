@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray Gods will get a whole story DLC focused on Anthony Rapp&#39;s Orpheus](https://www.pcgamer.com/games/visual-novel/stray-gods-will-get-a-whole-story-dlc-focused-on-anthony-rapps-orpheus)
- - [Abigail, The Book of Clarence on Netflix, Ghostbusters: Frozen Empire, and every new movie to watch at home this weekend](https://www.polygon.com/2024/5/10/24149433/new-movies-watch-abigail-the-book-of-clarence-netflix-ghostbusters-frozen-empire)
- - [Bungie&#39;s first big hit, Classic Marathon, is free on Steam with Marathon 2 and Marathon Infinity to follow](https://www.pcgamer.com/games/fps/bungies-first-big-hit-classic-marathon-is-free-on-steam-with-marathon-2-and-marathon-infinity-to-follow)<!-- GAME:END -->
+ - [Finally, I have another game about being a freaky little nasty guy trapped in an otherworldly hell dimension to look forward to](https://www.pcgamer.com/games/horror/finally-i-have-another-game-about-being-a-freaky-little-nasty-guy-trapped-in-an-otherworldly-hell-dimension-to-look-forward-to)
+ - [Here&#39;s a co-op action roguelike that&#39;s basically a boss rush of high-tier MMO raids](https://www.pcgamer.com/games/roguelike/heres-a-co-op-action-roguelike-thats-basically-a-boss-rush-of-high-tier-mmo-raids)
+ - [Path of Achra, the approachably bite-size roguelike full of superpowered combos, has hit its full release](https://www.pcgamer.com/games/roguelike/path-of-achra-the-approachably-bite-size-roguelike-full-of-superpowered-combos-has-hit-its-full-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
