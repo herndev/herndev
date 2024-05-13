@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Serial rapist who raped and left asian girl disabled for life, asked for leniency because &#39;he was just a kid&#39;, got life sentence instead](http://9gag.com/gag/an7XNLq)
- - ⏩ [Oh no.. And she at babies...](http://9gag.com/gag/axy2jXK)
- - 👉 [Dad makes sure his child remains a safe distance from the guard.](http://9gag.com/gag/an7XKRL)<!-- MEMES:END -->
+ - 💣 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
+ - ⏩ [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)
+ - 👉 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)<!-- MEMES:END -->
 
 ---
 
