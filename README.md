@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Using Google Wallet on a super-old Android phone? It’s time to upgrade.](https://www.androidauthority.com/google-wallet-old-android-phone-requirement-3442212/)
  - [Brad Smith says Microsoft will invest &amp;euro;4B in France, much of the investment would focus on AI, and Microsoft would set up a data center in Mulhouse, France &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240513/p2#a240513p2)
- - [Sources: Shein steps up preparations for a London listing amid regulatory hurdles for a New York IPO; source: Shein plans to file in London as soon as May &lpar;Reuters&rpar;](http://www.techmeme.com/240513/p1#a240513p1)
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Shein steps up preparations for a London listing amid regulatory hurdles for a New York IPO; source: Shein plans to file in London as soon as May &lpar;Reuters&rpar;](http://www.techmeme.com/240513/p1#a240513p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
