@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - ⏩ [BYD owners, cry!](http://9gag.com/gag/a0ePj0z)
- - 👉 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)<!-- MEMES:END -->
+ - 💣 [Planted evidence](http://9gag.com/gag/azxLjwZ)
+ - ⏩ [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
+ - 👉 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)<!-- MEMES:END -->
 
 ---
 
