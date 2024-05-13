@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s efforts to develop a PCIe throttling driver point towards a very hot Gen 6 future](https://www.pcgamer.com/hardware/ssds/intels-efforts-to-develop-a-pcie-throttling-driver-point-towards-a-very-hot-gen-6-future)
  - [Move over Blackwell: Nvidia&#39;s next-next gen GPU is reportedly codenamed Rubin, with a debut scheduled for late 2025](https://www.pcgamer.com/hardware/graphics-cards/move-over-blackwell-nvidias-next-next-gen-gpu-is-reportedly-codenamed-rubin-with-a-debut-scheduled-for-late-2025)
- - [AMD continues to chip away at Intel&#39;s CPU market dominance, though the laptop market is still a tough market to crack](https://www.pcgamer.com/hardware/processors/amd-continues-to-chip-away-at-intels-cpu-market-dominance-though-the-laptop-market-is-still-a-tough-market-to-crack)
- - [Five new Steam games you probably missed &lpar;May 13, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-13-2024)<!-- GAME:END -->
+ - [AMD continues to chip away at Intel&#39;s CPU market dominance, though the laptop market is still a tough market to crack](https://www.pcgamer.com/hardware/processors/amd-continues-to-chip-away-at-intels-cpu-market-dominance-though-the-laptop-market-is-still-a-tough-market-to-crack)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
