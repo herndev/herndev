@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI expected to announce major ChatGPT updates today: How to watch livestream](https://www.androidauthority.com/open-ai-chatpgpt-spring-updates-2024-event-livestream-3442216/)
- - [As VC firms pivot to investing in startups developing defense tech for the US and its allies, some of their business ties with China still linger &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p3#a240513p3)
- - [Is It Cheaper to Hire Movers or Do It Yourself? We Do the Math     - CNET](https://www.cnet.com/home/services/is-it-cheaper-to-hire-movers-or-do-it-yourself-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 could finally help iPhones catch up to Pixel’s Recorder app](https://www.androidauthority.com/ios-18-audio-transcription-rumor-3442228/)
+ - [Motorola banned from selling smartphones in major EU market](https://www.androidauthority.com/motorola-lenovo-sales-ban-germany-3442253/)
+ - [OpenAI expected to announce major ChatGPT updates today: How to watch livestream](https://www.androidauthority.com/open-ai-chatpgpt-spring-updates-2024-event-livestream-3442216/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
