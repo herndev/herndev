@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
- - ⏩ [I love Irish people!](http://9gag.com/gag/abAqZxL)
- - 👉 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)<!-- MEMES:END -->
+ - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - ⏩ [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
 
 ---
 
