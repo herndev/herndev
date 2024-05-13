@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Planted evidence](http://9gag.com/gag/azxLjwZ)
- - ⏩ [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 👉 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)<!-- MEMES:END -->
+ - 💣 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
+ - ⏩ [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
+ - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
 
 ---
 
