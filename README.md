@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A ball launcher](http://9gag.com/gag/aXPEwo6)
- - ⏩ [Oh no.. And she at babies...](http://9gag.com/gag/axy2jXK)
- - 👉 [If we taking things to the extremes](http://9gag.com/gag/aD2wGEx)<!-- MEMES:END -->
+ - 💣 [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)
+ - ⏩ [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 👉 [I love Irish people!](http://9gag.com/gag/abAqZxL)<!-- MEMES:END -->
 
 ---
 
