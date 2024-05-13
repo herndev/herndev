@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPad Pro review roundup: impressive performance held back by iPadOS](https://appleinsider.com/articles/24/05/13/new-ipad-pro-review-roundup-impressive-performance-held-back-by-ipados?utm_medium=rss)
- - [AI gun detection company name-dropped Disney in its successful pitch to NYC](https://www.theverge.com/2024/5/13/24155861/evolv-scanners-ai-gun-detection-nyc-subway-disney-eric-adams)
- - [Q&amp;A with Walt Mossberg and YouTuber Marques Brownlee on tech reviews, handling pushback, YouTube, the issues with paid content, earning people&#39;s trust, and more &lpar;New York Magazine&rpar;](http://www.techmeme.com/240513/p37#a240513p37)<!-- TECH:END -->
+ - [TikTok is testing AI-generated search results](https://www.theverge.com/2024/5/13/24155875/tiktok-ai-generated-search-results-highlights-chatgpt)
+ - [Rumble sues Google, saying it owes Rumble $1B+ in damages for lost ad revenue, and for exploiting its ad tech dominance to hamper Rumble&#39;s ability to compete &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240513/p40#a240513p40)
+ - [iPad Pro OLED HDR color peaking bug to be corrected with software update](https://appleinsider.com/articles/24/05/13/ipad-pro-oled-hdr-color-peaking-bug-to-be-corrected-with-software-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
