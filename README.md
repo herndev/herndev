@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix to &#39;aggressively pursue&#39; a new multiplatform business strategy &#39;designed to win over PC users&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-to-aggressively-pursue-a-new-multiplatform-business-strategy-designed-to-win-over-pc-users)
- - [AMD Linux devs jamming nearly 24,000 lines of RDNA 4 supporting code into its mainstream driver suggests next-gen launch may be close at hand](https://www.pcgamer.com/hardware/graphics-cards/amd-linux-devs-jamming-nearly-24000-lines-of-rdna-4-supporting-code-into-its-mainstream-driver-suggests-next-gen-launch-may-be-close-at-hand)
- - [Fans Spot Powerpuff Girls In New MultiVersus Trailer](https://kotaku.com/powerpuff-girls-multiversus-revealed-leak-joker-trailer-1851472871)<!-- GAME:END -->
+ - [The Legend of Vox Machina, Critical Role&#39;s first D&amp;D campaign-turned animated series, quietly reveals a third season is coming later this year](https://www.pcgamer.com/games/board-games/the-legend-of-vox-machina-critical-roles-first-dandd-campaign-turned-animated-series-quietly-reveals-a-third-season-is-coming-later-this-year)
+ - [Forza Motorsport: Track Toys Come to Life in Update 8](https://forza.net/news/forza-motorsport-update-8#new_tab)
+ - [Last Of Us Season Two Set Photos Show Bella Ramsey Sporting The Part II Look](https://kotaku.com/last-of-us-season-2-ellie-dina-bella-ramsey-set-photos-1851473070)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
