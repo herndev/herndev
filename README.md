@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - ⏩ [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - ⏩ [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
  - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
 
 ---
