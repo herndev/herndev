@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked Dell roadmap introduces split Intel/Qualcomm lineup through to Nova Lake in 2027](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-roadmap-introduces-split-intelqualcomm-lineup-through-to-nova-lake-in-2027)
- - [Arrowhead is actually making a &#39;review bomb&#39; cape to commemorate the Helldivers 2 PSN fiasco, complete with two huge negative review bars](https://www.pcgamer.com/games/third-person-shooter/arrowhead-is-actually-making-a-review-bomb-cape-to-commemorate-the-helldivers-2-psn-fiasco-complete-with-two-huge-negative-review-bars)
- - [Frustrated developer changes his game&#39;s name to &#39;Bulwark: Falconeer Chronicles, a creative building sandbox&#39; because Steam users keep tagging it as a strategy game](https://www.pcgamer.com/games/city-builder/frustrated-developer-changes-his-games-name-to-bulwark-falconeer-chronicles-a-creative-building-sandbox-because-steam-users-keep-tagging-it-as-a-strategy-game)<!-- GAME:END -->
+ - [One of my most anticipated upcoming RPGs doesn&#39;t just have a fishing minigame⁠—it has a full 3D aquarium where you can view your biggest catches and learn fantasy fish &#39;lore&#39;](https://www.pcgamer.com/games/rpg/one-of-my-most-anticipated-upcoming-rpgs-doesnt-just-have-a-fishing-minigameit-has-a-full-3d-aquarium-where-you-can-view-your-biggest-catches-and-learn-fantasy-fish-lore)
+ - [Square Enix is laying off employees in the US and Europe](https://www.pcgamer.com/gaming-industry/square-enix-is-laying-off-employees-in-the-us-and-europe)
+ - [Leaked Dell roadmap introduces split Intel/Qualcomm lineup through to Nova Lake in 2027](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-roadmap-introduces-split-intelqualcomm-lineup-through-to-nova-lake-in-2027)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
