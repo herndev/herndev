@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A54 is the next up to receive the One UI 6.1 update](https://www.androidauthority.com/galaxy-a54-one-ui-6-1-update-3442407/)
- - [Q&amp;A with Adobe CEO Shantanu Narayen on running Adobe since 2007, new AI features, AI investments, Firefly, monetizing AI, copyright, AI misuse, PDFs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240513/p23#a240513p23)
- - [Google Pixel 8a review: 120Hz OLED display, strong battery life, excellent cameras, and great value at $499+, but slow wireless charging and thick bezels &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240513/p22#a240513p22)<!-- TECH:END -->
+ - [First 25% price drop on the new Beats Solo 4](https://www.androidauthority.com/beats-solo-4-deal-3442466/)
+ - [Google says Project Starline, its 3D video conferencing platform first unveiled at 2021&#39;s Google I/O, will ship in 2025 with HP as a launch partner &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240513/p25#a240513p25)
+ - [Apple makes breaking your new iPad&#39;s screen a little less painful](https://appleinsider.com/articles/24/05/13/apple-makes-breaking-your-new-ipads-screen-a-little-less-painful?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
