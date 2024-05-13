@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is releasing a ChatGPT app for Mac first, well ahead of Windows](https://appleinsider.com/articles/24/05/13/openai-is-releasing-a-chatgpt-app-for-mac?utm_medium=rss)
- - [Denon adds Siri to its smart speakers](https://www.theverge.com/2024/5/13/24155420/denon-apple-siri-voice-control-smart-speakers)
- - [OpenAI launches GPT-4o, goes directly after Assistant and Siri](https://www.androidauthority.com/openai-announces-gpt-4o-3442542/)<!-- TECH:END -->
+ - [ChatGPT will be able to talk to you like Scarlett Johansson in Her](https://www.theverge.com/2024/5/13/24155652/chatgpt-voice-mode-gpt4o-upgrades)
+ - [Meta is reportedly working on camera-equipped AI earphones](https://www.androidauthority.com/meta-ai-earphones-3442560/)
+ - [Zelda: Majora’s Mask is now a native PC game, and every N64 title could follow its lead](https://www.theverge.com/2024/5/13/24155636/n64-recompiled-port-nintendo-games-zelda-majoras-mask)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
