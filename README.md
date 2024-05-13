@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PSA: You don&#39;t need servant coffins to upgrade your castle heart in V Rising](https://www.pcgamer.com/games/survival-crafting/v-rising-servant-coffin)
  - [Helldivers 2 director says new de-listings are an &#39;administrative error correction&#39; by Valve on Sony&#39;s orders, but &#39;we still want the game to be available everywhere&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-says-new-de-listings-are-an-administrative-error-correction-by-valve-on-sonys-orders-but-we-still-want-the-game-to-be-available-everywhere)
- - [Helldivers 2 player yeets a Charger straight through a Bile Titan&#39;s face—&#39;Ever seen a Charger Strategem? Now you have&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-player-yeets-a-charger-straight-through-a-bile-titans-face-ever-seen-a-charger-strategem-now-you-have)
- - [MediaTek and Nvidia are gearing up to tackle the AI PC market hand-in-hand, with an all-new chip](https://www.pcgamer.com/hardware/processors/mediatek-and-nvidia-are-gearing-up-to-tackle-the-ai-pc-market-hand-in-hand-with-an-all-new-chip)<!-- GAME:END -->
+ - [Helldivers 2 player yeets a Charger straight through a Bile Titan&#39;s face—&#39;Ever seen a Charger Strategem? Now you have&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-player-yeets-a-charger-straight-through-a-bile-titans-face-ever-seen-a-charger-strategem-now-you-have)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
