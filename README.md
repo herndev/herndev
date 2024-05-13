@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;May 13, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-13-2024)
  - [Finally, I have another game about being a freaky little nasty guy trapped in an otherworldly hell dimension to look forward to](https://www.pcgamer.com/games/horror/finally-i-have-another-game-about-being-a-freaky-little-nasty-guy-trapped-in-an-otherworldly-hell-dimension-to-look-forward-to)
- - [Here&#39;s a co-op action roguelike that&#39;s basically a boss rush of high-tier MMO raids](https://www.pcgamer.com/games/roguelike/heres-a-co-op-action-roguelike-thats-basically-a-boss-rush-of-high-tier-mmo-raids)
- - [Path of Achra, the approachably bite-size roguelike full of superpowered combos, has hit its full release](https://www.pcgamer.com/games/roguelike/path-of-achra-the-approachably-bite-size-roguelike-full-of-superpowered-combos-has-hit-its-full-release)<!-- GAME:END -->
+ - [Here&#39;s a co-op action roguelike that&#39;s basically a boss rush of high-tier MMO raids](https://www.pcgamer.com/games/roguelike/heres-a-co-op-action-roguelike-thats-basically-a-boss-rush-of-high-tier-mmo-raids)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
