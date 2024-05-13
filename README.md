@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help i accidentaly built a jeep](http://9gag.com/gag/avyZGxM)
- - ⏩ [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 👉 [Friends having fun&lpar;Repost&rpar;](http://9gag.com/gag/azxLAZx)<!-- MEMES:END -->
+ - 💣 [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
+ - ⏩ [I love Irish people!](http://9gag.com/gag/abAqZxL)
+ - 👉 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)<!-- MEMES:END -->
 
 ---
 
