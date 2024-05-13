@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - ⏩ [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 👉 [A normal debate...](http://9gag.com/gag/aQzp9Mq)<!-- MEMES:END -->
+ - 💣 [In Switzerland, a mobile overpass bridge is used to carry out road work without stopping traffic](http://9gag.com/gag/aXPEwg2)
+ - ⏩ [Task manager to the rescue...](http://9gag.com/gag/aW40q1K)
+ - 👉 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)<!-- MEMES:END -->
 
 ---
 
