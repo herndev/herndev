@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Moto Razr Plus 2024 specs point to a camera upgrade at the same price](https://www.androidauthority.com/leaked-moto-razr-plus-2024-specs-3442335/)
- - [The best apps to turn any iPad into a powerful audio editor](https://appleinsider.com/inside/ipad/best/the-best-apps-to-turn-any-ipad-into-a-powerful-audio-editor?utm_medium=rss)
- - [Flagship iPad head-to-head -- M4 iPad Pro vs M2 iPad Pro compared](https://appleinsider.com/inside/ipad-pro/vs/flagship-ipad-head-to-head----m4-ipad-pro-vs-m2-ipad-pro-compared?utm_medium=rss)<!-- TECH:END -->
+ - [TCL’s new Mini LED TVs offer blazing brightness on a budget](https://www.theverge.com/2024/5/13/24155276/tcl-qm8-qm7-q-s-2024-tvs-price-features)
+ - [The Pixel 8A and the camera you have with you](https://www.theverge.com/24154473/google-pixel-8a-camera-hands-on)
+ - [Why Adobe CEO Shantanu Narayen is confident we’ll all adapt to AI](https://www.theverge.com/24153956/adobe-shantanu-narayen-ai-firefly-premiere-photoshop-pdf-creativity-commerce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
