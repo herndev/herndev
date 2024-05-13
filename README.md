@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The original Fallout had so much attention to detail, you could get special dialogue for speedrunning it in a weird order and returning to a completed zone to talk to a zombie who hates you](https://www.pcgamer.com/games/rpg/the-original-fallout-had-so-much-attention-to-detail-you-could-get-special-dialogue-for-speedrunning-it-in-a-weird-order-and-returning-to-a-completed-zone-to-talk-to-a-zombie-who-hates-you)
- - [18 Cool Things Metal Gear Solid 2 Doesn’t Outright Tell You](https://kotaku.com/metal-gear-solid-2-dog-tags-aiming-mgs2-1851474122)
- - [Super Mario 64 fans finally open the game’s ‘unopenable’ door, 28 years later](https://www.polygon.com/24155778/super-mario-64-secret-door-cool-mountain)<!-- GAME:END -->
+ - [Leaked Dell roadmap introduces split Intel/Qualcomm lineup through to Nova Lake in 2027](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-roadmap-introduces-split-intelqualcomm-lineup-through-to-nova-lake-in-2027)
+ - [Arrowhead is actually making a &#39;review bomb&#39; cape to commemorate the Helldivers 2 PSN fiasco, complete with two huge negative review bars](https://www.pcgamer.com/games/third-person-shooter/arrowhead-is-actually-making-a-review-bomb-cape-to-commemorate-the-helldivers-2-psn-fiasco-complete-with-two-huge-negative-review-bars)
+ - [Frustrated developer changes his game&#39;s name to &#39;Bulwark: Falconeer Chronicles, a creative building sandbox&#39; because Steam users keep tagging it as a strategy game](https://www.pcgamer.com/games/city-builder/frustrated-developer-changes-his-games-name-to-bulwark-falconeer-chronicles-a-creative-building-sandbox-because-steam-users-keep-tagging-it-as-a-strategy-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
