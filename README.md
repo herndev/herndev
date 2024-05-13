@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nine-core M4 iPad Pro benchmarks leak, still smokes M2](https://appleinsider.com/articles/24/05/13/nine-core-m4-ipad-pro-benchmarks-leak-still-smokes-m2?utm_medium=rss)
- - [Top500: the Intel-powered Aurora supercomputer, not yet fully operational, came second behind the AMD-powered Frontier, but did come top in an AI benchmark &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240513/p17#a240513p17)
- - [Sources: Cambridge-based Raspberry Pi is finalizing plans to float on the London stock market this month in a deal that could value the company at up to &amp;pound;500M &lpar;The Sunday Times&rpar;](http://www.techmeme.com/240513/p16#a240513p16)<!-- TECH:END -->
+ - [Leaked Moto Razr Plus 2024 specs point to a camera upgrade at the same price](https://www.androidauthority.com/leaked-moto-razr-plus-2024-specs-3442335/)
+ - [The best apps to turn any iPad into a powerful audio editor](https://appleinsider.com/inside/ipad/best/the-best-apps-to-turn-any-ipad-into-a-powerful-audio-editor?utm_medium=rss)
+ - [Flagship iPad head-to-head -- M4 iPad Pro vs M2 iPad Pro compared](https://appleinsider.com/inside/ipad-pro/vs/flagship-ipad-head-to-head----m4-ipad-pro-vs-m2-ipad-pro-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
