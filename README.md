@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Switzerland, a mobile overpass bridge is used to carry out road work without stopping traffic](http://9gag.com/gag/aXPEwg2)
- - ⏩ [Task manager to the rescue...](http://9gag.com/gag/aW40q1K)
- - 👉 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)<!-- MEMES:END -->
+ - 💣 [Dead inside...](http://9gag.com/gag/aD2wGPK)
+ - ⏩ [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 👉 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)<!-- MEMES:END -->
 
 ---
 
