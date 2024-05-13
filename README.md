@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea is adding energy monitoring to its Home Smart app](https://www.theverge.com/2024/5/13/24155302/ikea-energy-insights-home-smart-app-feature)
- - [Live stream of OpenAI&#39;s Spring Update event, where the company says it will demo some ChatGPT and GPT-4 updates &lpar;OpenAI on YouTube&rpar;](http://www.techmeme.com/240513/p27#a240513p27)
- - [Apple Vision Pro expected to arrive in more markets after WWDC](https://appleinsider.com/articles/24/05/13/apple-vision-pro-expected-to-arrive-in-more-markets-after-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI is releasing a ChatGPT app for Mac first, well ahead of Windows](https://appleinsider.com/articles/24/05/13/openai-is-releasing-a-chatgpt-app-for-mac?utm_medium=rss)
+ - [Denon adds Siri to its smart speakers](https://www.theverge.com/2024/5/13/24155420/denon-apple-siri-voice-control-smart-speakers)
+ - [OpenAI launches GPT-4o, goes directly after Assistant and Siri](https://www.androidauthority.com/openai-announces-gpt-4o-3442542/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
