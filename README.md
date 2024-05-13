@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - ⏩ [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
+ - 💣 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - ⏩ [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
 
 ---
 
