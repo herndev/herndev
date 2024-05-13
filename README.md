@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT will be able to talk to you like Scarlett Johansson in Her](https://www.theverge.com/2024/5/13/24155652/chatgpt-voice-mode-gpt4o-upgrades)
- - [Meta is reportedly working on camera-equipped AI earphones](https://www.androidauthority.com/meta-ai-earphones-3442560/)
- - [Zelda: Majora’s Mask is now a native PC game, and every N64 title could follow its lead](https://www.theverge.com/2024/5/13/24155636/n64-recompiled-port-nintendo-games-zelda-majoras-mask)<!-- TECH:END -->
+ - [GPT-4o&#39;s text and image capabilities are rolling out to ChatGPT Plus and Team users; GPT-4o&#39;s voice version is coming soon; mysterious gpt2-chatbot was GPT-4o &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240513/p34#a240513p34)
+ - [Melinda French Gates to leave the Bill &amp; Melinda Gates Foundation](https://www.theverge.com/2024/5/13/24155692/melinda-bill-gates-leave-foundation-philanthropy)
+ - [Protesters Are Fighting to Stop AI, but They’re Split on How to Do It](https://www.wired.com/story/protesters-pause-ai-split-stop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
