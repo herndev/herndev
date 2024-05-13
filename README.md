@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The monsters that made me: Growing up disabled, all of my heroes were villains](https://www.polygon.com/entertainment/24128340/horror-movie-monsters-disability-relationship-essay)
- - [Final Fantasy Maker Promises &#39;Quality Over Quantity&#39; And Fewer Exclusives In Major Strategy Reboot](https://kotaku.com/square-enix-business-plan-multiplatform-1851472456)
- - [PSA: You don&#39;t need servant coffins to upgrade your castle heart in V Rising](https://www.pcgamer.com/games/survival-crafting/v-rising-servant-coffin)<!-- GAME:END -->
+ - [6 months after a complete reboot, Remedy cancels the multiplayer game it was making with Tencent](https://www.pcgamer.com/games/6-months-after-a-complete-reboot-remedy-cancels-the-multiplayer-game-it-was-making-with-tencent)
+ - [Xbox Boss Can Finally Get His Revenge, Unlocks Ability To Nuke Other Players In Fallout 76](https://kotaku.com/fallout-76-nukes-phil-spencer-xbox-achievements-1851472550)
+ - [The coolest tabletop RPGs based on videogames, from Fallout to Dragon Age](https://www.pcgamer.com/games/rpg/the-coolest-tabletop-rpgs-based-on-videogames-from-fallout-to-dragon-age)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
