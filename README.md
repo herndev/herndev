@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 4 Fans Are Begging Bethesda To Stop Updating The Game](https://kotaku.com/fallout-4-new-update-next-gen-patch-stop-bethesda-mods-1851473401)
- - [After spending time trying to fix a bug that wasn&#39;t actually there, Manor Lords dev has a simple request for players: &#39;Have fun with mods but please don&#39;t report bugs if you use them&#39;](https://www.pcgamer.com/games/strategy/after-spending-time-trying-to-fix-a-bug-that-wasnt-actually-there-manor-lords-dev-has-a-simple-request-for-players-have-fun-with-mods-but-please-dont-report-bugs-if-you-use-them)
- - [You are cordially invited to ruin our esports career](https://www.polygon.com/2024/5/13/24153848/polygon-livestream-the-sims-4-charlie-mcdonnell)<!-- GAME:END -->
+ - [Hi-Fi Rush: The Kotaku Retrospective Review](https://kotaku.com/hi-fi-rush-review-tango-gameworks-shutdown-xbox-1851473875)
+ - [The Assassin&#39;s Creed game about ninjas in feudal Japan is called Assassin&#39;s Creed Shadows, full reveal coming on Wednesday](https://www.pcgamer.com/games/assassins-creed/the-assassins-creed-game-about-ninjas-in-feudal-japan-is-called-assassins-creed-shadows-full-reveal-coming-on-wednesday)
+ - [How the Diablo 4 Helltide Reborn event works](https://www.pcgamer.com/games/rpg/diablo-4-helltide-reborn-aberrant-cinders-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
