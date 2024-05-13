@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - 💣 [Eurovision](http://9gag.com/gag/abAqpVX)
  - ⏩ [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
  - 👉 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)<!-- MEMES:END -->
 
