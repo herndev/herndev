@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD continues to chip away at Intel&#39;s CPU market dominance, though the laptop market is still a tough market to crack](https://www.pcgamer.com/hardware/processors/amd-continues-to-chip-away-at-intels-cpu-market-dominance-though-the-laptop-market-is-still-a-tough-market-to-crack)
  - [Five new Steam games you probably missed &lpar;May 13, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-13-2024)
- - [Finally, I have another game about being a freaky little nasty guy trapped in an otherworldly hell dimension to look forward to](https://www.pcgamer.com/games/horror/finally-i-have-another-game-about-being-a-freaky-little-nasty-guy-trapped-in-an-otherworldly-hell-dimension-to-look-forward-to)
- - [Here&#39;s a co-op action roguelike that&#39;s basically a boss rush of high-tier MMO raids](https://www.pcgamer.com/games/roguelike/heres-a-co-op-action-roguelike-thats-basically-a-boss-rush-of-high-tier-mmo-raids)<!-- GAME:END -->
+ - [Finally, I have another game about being a freaky little nasty guy trapped in an otherworldly hell dimension to look forward to](https://www.pcgamer.com/games/horror/finally-i-have-another-game-about-being-a-freaky-little-nasty-guy-trapped-in-an-otherworldly-hell-dimension-to-look-forward-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
