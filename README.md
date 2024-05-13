@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - ⏩ [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
- - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
+ - 💣 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - ⏩ [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
+ - 👉 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)<!-- MEMES:END -->
 
 ---
 
