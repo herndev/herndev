@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17.5 is here with Repair State &amp; EU Web Distribution](https://appleinsider.com/articles/24/05/13/ios-175-is-here-with-repair-state-eu-web-distribution?utm_medium=rss)
- - [Apple and Google join forces to tackle the side-effects of location trackers](https://www.androidauthority.com/apple-google-unwanted-tracking-3442594/)
- - [RFK Jr. sues Meta for ‘election interference’ after it temporarily removed a campaign video](https://www.theverge.com/policy/2024/5/13/24155697/rfk-jr-meta-election-interference-lawsuit)<!-- TECH:END -->
+ - [New iPad Pro review roundup: impressive performance held back by iPadOS](https://appleinsider.com/articles/24/05/13/new-ipad-pro-review-roundup-impressive-performance-held-back-by-ipados?utm_medium=rss)
+ - [AI gun detection company name-dropped Disney in its successful pitch to NYC](https://www.theverge.com/2024/5/13/24155861/evolv-scanners-ai-gun-detection-nyc-subway-disney-eric-adams)
+ - [Q&amp;A with Walt Mossberg and YouTuber Marques Brownlee on tech reviews, handling pushback, YouTube, the issues with paid content, earning people&#39;s trust, and more &lpar;New York Magazine&rpar;](http://www.techmeme.com/240513/p37#a240513p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
