@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US, the EU, and other superpowers have funneled nearly $81B towards supporting chip companies, the first wave of ~$380B earmarked by global governments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240513/p8#a240513p8)
- - [How GPS warfare is affecting civilian populations; an analysis finds ~40M people lived in areas with unreliable GPS for at least half of the past six months &lpar;Financial Times&rpar;](http://www.techmeme.com/240513/p7#a240513p7)
- - [Time Is Running Out in the Hunt for Rare Bitcoin](https://www.wired.com/story/time-is-running-out-hunt-for-rare-bitcoin/)<!-- TECH:END -->
+ - [The US and China are set to hold their first high-level AI talks on May 14 in Geneva, as the governments seek to prevent disastrous accidents and unintended war &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240513/p13#a240513p13)
+ - [Too good to be true: Samsung might not launch cheaper foldable this year](https://www.androidauthority.com/cheap-galaxy-z-fold-6-canceled-report-3442300/)
+ - [Christie&#39;s confirms eight auctions will proceed this week after a &quot;technology security issue&quot; on May 9 knocked its website offline, the second breach in a year &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240513/p12#a240513p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
