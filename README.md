@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
- - ⏩ [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
+ - 💣 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
+ - ⏩ [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - 👉 [The new RTX 5090 power connector.](http://9gag.com/gag/amoLr4v)<!-- MEMES:END -->
 
 ---
 
