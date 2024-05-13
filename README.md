@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [V Rising: Where to find Nibbles the Putrid Rat](https://www.pcgamer.com/games/survival-crafting/v-rising-nibbles-the-putrid-rat-location)
- - [The best thing about Homeworld 3 is how well it runs on a PC with its 6-year-old recommended specs](https://www.pcgamer.com/hardware/processors/the-best-thing-about-homeworld-3-is-how-well-it-runs-on-a-pc-with-its-6-year-old-recommended-specs)
- - [Intel&#39;s efforts to develop a PCIe throttling driver point towards a very hot Gen 6 future](https://www.pcgamer.com/hardware/ssds/intels-efforts-to-develop-a-pcie-throttling-driver-point-towards-a-very-hot-gen-6-future)<!-- GAME:END -->
+ - [Helldivers 2 director says new de-listings are an &#39;administrative error correction&#39; by Valve on Sony&#39;s orders, but &#39;we still want the game to be available everywhere&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-says-new-de-listings-are-an-administrative-error-correction-by-valve-on-sonys-orders-but-we-still-want-the-game-to-be-available-everywhere)
+ - [Helldivers 2 player yeets a Charger straight through a Bile Titan&#39;s face—&#39;Ever seen a Charger Strategem? Now you have&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-player-yeets-a-charger-straight-through-a-bile-titans-face-ever-seen-a-charger-strategem-now-you-have)
+ - [MediaTek and Nvidia are gearing up to tackle the AI PC market hand-in-hand, with an all-new chip](https://www.pcgamer.com/hardware/processors/mediatek-and-nvidia-are-gearing-up-to-tackle-the-ai-pc-market-hand-in-hand-with-an-all-new-chip)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
