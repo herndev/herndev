@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US and China are set to hold their first high-level AI talks on May 14 in Geneva, as the governments seek to prevent disastrous accidents and unintended war &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240513/p13#a240513p13)
- - [Too good to be true: Samsung might not launch cheaper foldable this year](https://www.androidauthority.com/cheap-galaxy-z-fold-6-canceled-report-3442300/)
- - [Christie&#39;s confirms eight auctions will proceed this week after a &quot;technology security issue&quot; on May 9 knocked its website offline, the second breach in a year &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240513/p12#a240513p12)<!-- TECH:END -->
+ - [Nine-core M4 iPad Pro benchmarks leak, still smokes M2](https://appleinsider.com/articles/24/05/13/nine-core-m4-ipad-pro-benchmarks-leak-still-smokes-m2?utm_medium=rss)
+ - [Top500: the Intel-powered Aurora supercomputer, not yet fully operational, came second behind the AMD-powered Frontier, but did come top in an AI benchmark &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240513/p17#a240513p17)
+ - [Sources: Cambridge-based Raspberry Pi is finalizing plans to float on the London stock market this month in a deal that could value the company at up to &amp;pound;500M &lpar;The Sunday Times&rpar;](http://www.techmeme.com/240513/p16#a240513p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
