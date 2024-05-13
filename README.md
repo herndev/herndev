@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: You don&#39;t need servant coffins to upgrade your castle heart in V Rising](https://www.pcgamer.com/games/survival-crafting/v-rising-servant-coffin)
- - [Helldivers 2 director says new de-listings are an &#39;administrative error correction&#39; by Valve on Sony&#39;s orders, but &#39;we still want the game to be available everywhere&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-says-new-de-listings-are-an-administrative-error-correction-by-valve-on-sonys-orders-but-we-still-want-the-game-to-be-available-everywhere)
- - [Helldivers 2 player yeets a Charger straight through a Bile Titan&#39;s face—&#39;Ever seen a Charger Strategem? Now you have&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-player-yeets-a-charger-straight-through-a-bile-titans-face-ever-seen-a-charger-strategem-now-you-have)<!-- GAME:END -->
+ - [The monsters that made me: Growing up disabled, all of my heroes were villains](https://www.polygon.com/entertainment/24128340/horror-movie-monsters-disability-relationship-essay)
+ - [Final Fantasy Maker Promises &#39;Quality Over Quantity&#39; And Fewer Exclusives In Major Strategy Reboot](https://kotaku.com/square-enix-business-plan-multiplatform-1851472456)
+ - [PSA: You don&#39;t need servant coffins to upgrade your castle heart in V Rising](https://www.pcgamer.com/games/survival-crafting/v-rising-servant-coffin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
