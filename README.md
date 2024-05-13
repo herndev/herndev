@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Using Google Wallet on a super-old Android phone? It’s time to upgrade.](https://www.androidauthority.com/google-wallet-old-android-phone-requirement-3442212/)
- - [Brad Smith says Microsoft will invest &amp;euro;4B in France, much of the investment would focus on AI, and Microsoft would set up a data center in Mulhouse, France &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240513/p2#a240513p2)
- - [Sources: Shein steps up preparations for a London listing amid regulatory hurdles for a New York IPO; source: Shein plans to file in London as soon as May &lpar;Reuters&rpar;](http://www.techmeme.com/240513/p1#a240513p1)<!-- TECH:END -->
+ - [OpenAI expected to announce major ChatGPT updates today: How to watch livestream](https://www.androidauthority.com/open-ai-chatpgpt-spring-updates-2024-event-livestream-3442216/)
+ - [As VC firms pivot to investing in startups developing defense tech for the US and its allies, some of their business ties with China still linger &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p3#a240513p3)
+ - [Is It Cheaper to Hire Movers or Do It Yourself? We Do the Math     - CNET](https://www.cnet.com/home/services/is-it-cheaper-to-hire-movers-or-do-it-yourself-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
