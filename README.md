@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
- - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
- - [Some Indian journalists who turned to YouTube to dodge censorship say the company is banning or demonetizing their news channels citing government notices &lpar;Raksha Kumar/Reuters Institute&rpar;](http://www.techmeme.com/240510/p15#a240510p15)<!-- TECH:END -->
+ - [A look at how Elon Musk uses X to support right-wing world leaders like Narendra Modi that could help secure advantages for his businesses &lpar;New York Times&rpar;](http://www.techmeme.com/240512/p9#a240512p9)
+ - [A look at the rise and fall of 2U, which provides online degree programs for top US universities, and is valued at ~$30M today, down from $5B+ in 2018 &lpar;Melissa Korn/Wall Street Journal&rpar;](http://www.techmeme.com/240512/p8#a240512p8)
+ - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
