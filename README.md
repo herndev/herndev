@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [6 months after a complete reboot, Remedy cancels the multiplayer game it was making with Tencent](https://www.pcgamer.com/games/6-months-after-a-complete-reboot-remedy-cancels-the-multiplayer-game-it-was-making-with-tencent)
- - [Xbox Boss Can Finally Get His Revenge, Unlocks Ability To Nuke Other Players In Fallout 76](https://kotaku.com/fallout-76-nukes-phil-spencer-xbox-achievements-1851472550)
- - [The coolest tabletop RPGs based on videogames, from Fallout to Dragon Age](https://www.pcgamer.com/games/rpg/the-coolest-tabletop-rpgs-based-on-videogames-from-fallout-to-dragon-age)<!-- GAME:END -->
+ - [Square Enix to &#39;aggressively pursue&#39; a new multiplatform business strategy &#39;designed to win over PC users&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-to-aggressively-pursue-a-new-multiplatform-business-strategy-designed-to-win-over-pc-users)
+ - [AMD Linux devs jamming nearly 24,000 lines of RDNA 4 supporting code into its mainstream driver suggests next-gen launch may be close at hand](https://www.pcgamer.com/hardware/graphics-cards/amd-linux-devs-jamming-nearly-24000-lines-of-rdna-4-supporting-code-into-its-mainstream-driver-suggests-next-gen-launch-may-be-close-at-hand)
+ - [Fans Spot Powerpuff Girls In New MultiVersus Trailer](https://kotaku.com/powerpuff-girls-multiversus-revealed-leak-joker-trailer-1851472871)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
