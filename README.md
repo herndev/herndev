@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Vox Machina, Critical Role&#39;s first D&amp;D campaign-turned animated series, quietly reveals a third season is coming later this year](https://www.pcgamer.com/games/board-games/the-legend-of-vox-machina-critical-roles-first-dandd-campaign-turned-animated-series-quietly-reveals-a-third-season-is-coming-later-this-year)
- - [Forza Motorsport: Track Toys Come to Life in Update 8](https://forza.net/news/forza-motorsport-update-8#new_tab)
- - [Last Of Us Season Two Set Photos Show Bella Ramsey Sporting The Part II Look](https://kotaku.com/last-of-us-season-2-ellie-dina-bella-ramsey-set-photos-1851473070)<!-- GAME:END -->
+ - [GameStop&#39;s Meme Stock Explodes Again After YouTuber Roaring Kitty Returns](https://kotaku.com/gamestop-gme-meme-stock-roaring-kitty-keith-gill-1851472682)
+ - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)
+ - [It Looks Like Red Dead Redemption&#39;s PC Port Is Finally Happening](https://kotaku.com/rdr-red-dead-redemption-pc-port-leak-rockstar-launcher-1851473262)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
