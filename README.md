@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First 25% price drop on the new Beats Solo 4](https://www.androidauthority.com/beats-solo-4-deal-3442466/)
- - [Google says Project Starline, its 3D video conferencing platform first unveiled at 2021&#39;s Google I/O, will ship in 2025 with HP as a launch partner &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240513/p25#a240513p25)
- - [Apple makes breaking your new iPad&#39;s screen a little less painful](https://appleinsider.com/articles/24/05/13/apple-makes-breaking-your-new-ipads-screen-a-little-less-painful?utm_medium=rss)<!-- TECH:END -->
+ - [Ikea is adding energy monitoring to its Home Smart app](https://www.theverge.com/2024/5/13/24155302/ikea-energy-insights-home-smart-app-feature)
+ - [Live stream of OpenAI&#39;s Spring Update event, where the company says it will demo some ChatGPT and GPT-4 updates &lpar;OpenAI on YouTube&rpar;](http://www.techmeme.com/240513/p27#a240513p27)
+ - [Apple Vision Pro expected to arrive in more markets after WWDC](https://appleinsider.com/articles/24/05/13/apple-vision-pro-expected-to-arrive-in-more-markets-after-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
