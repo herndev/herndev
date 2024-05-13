@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)
- - ⏩ [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 👉 [I love Irish people!](http://9gag.com/gag/abAqZxL)<!-- MEMES:END -->
+ - 💣 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
+ - ⏩ [BYD owners, cry!](http://9gag.com/gag/a0ePj0z)
+ - 👉 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)<!-- MEMES:END -->
 
 ---
 
