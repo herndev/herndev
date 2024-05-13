@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hi-Fi Rush: The Kotaku Retrospective Review](https://kotaku.com/hi-fi-rush-review-tango-gameworks-shutdown-xbox-1851473875)
- - [The Assassin&#39;s Creed game about ninjas in feudal Japan is called Assassin&#39;s Creed Shadows, full reveal coming on Wednesday](https://www.pcgamer.com/games/assassins-creed/the-assassins-creed-game-about-ninjas-in-feudal-japan-is-called-assassins-creed-shadows-full-reveal-coming-on-wednesday)
- - [How the Diablo 4 Helltide Reborn event works](https://www.pcgamer.com/games/rpg/diablo-4-helltide-reborn-aberrant-cinders-explained)<!-- GAME:END -->
+ - [The original Fallout had so much attention to detail, you could get special dialogue for speedrunning it in a weird order and returning to a completed zone to talk to a zombie who hates you](https://www.pcgamer.com/games/rpg/the-original-fallout-had-so-much-attention-to-detail-you-could-get-special-dialogue-for-speedrunning-it-in-a-weird-order-and-returning-to-a-completed-zone-to-talk-to-a-zombie-who-hates-you)
+ - [18 Cool Things Metal Gear Solid 2 Doesn’t Outright Tell You](https://kotaku.com/metal-gear-solid-2-dog-tags-aiming-mgs2-1851474122)
+ - [Super Mario 64 fans finally open the game’s ‘unopenable’ door, 28 years later](https://www.polygon.com/24155778/super-mario-64-secret-door-cool-mountain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
