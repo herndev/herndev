@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 could finally help iPhones catch up to Pixel’s Recorder app](https://www.androidauthority.com/ios-18-audio-transcription-rumor-3442228/)
- - [Motorola banned from selling smartphones in major EU market](https://www.androidauthority.com/motorola-lenovo-sales-ban-germany-3442253/)
- - [OpenAI expected to announce major ChatGPT updates today: How to watch livestream](https://www.androidauthority.com/open-ai-chatpgpt-spring-updates-2024-event-livestream-3442216/)<!-- TECH:END -->
+ - [Welcome to the Laser Wars](https://www.wired.com/story/laser-wars-us-military-laser-weapons/)
+ - [A look at the growing number of startups offering AI deepfake detection services, with some claiming startling levels of accuracy despite untested capabilities &lpar;Washington Post&rpar;](http://www.techmeme.com/240513/p5#a240513p5)
+ - [Sources: the EU is set to issue new antitrust charges against Microsoft over concerns over undermining Teams competitors, despite Microsoft offering concessions &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240513/p4#a240513p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
