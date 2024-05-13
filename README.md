@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [100%](http://9gag.com/gag/adBNZ6N)
- - ⏩ [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 👉 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)<!-- MEMES:END -->
+ - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - ⏩ [Wish me luck my brothers](http://9gag.com/gag/apRo0QB)
+ - 👉 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)<!-- MEMES:END -->
 
 ---
 
