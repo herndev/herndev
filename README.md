@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to the Laser Wars](https://www.wired.com/story/laser-wars-us-military-laser-weapons/)
- - [A look at the growing number of startups offering AI deepfake detection services, with some claiming startling levels of accuracy despite untested capabilities &lpar;Washington Post&rpar;](http://www.techmeme.com/240513/p5#a240513p5)
- - [Sources: the EU is set to issue new antitrust charges against Microsoft over concerns over undermining Teams competitors, despite Microsoft offering concessions &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240513/p4#a240513p4)<!-- TECH:END -->
+ - [The US, the EU, and other superpowers have funneled nearly $81B towards supporting chip companies, the first wave of ~$380B earmarked by global governments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240513/p8#a240513p8)
+ - [How GPS warfare is affecting civilian populations; an analysis finds ~40M people lived in areas with unreliable GPS for at least half of the past six months &lpar;Financial Times&rpar;](http://www.techmeme.com/240513/p7#a240513p7)
+ - [Time Is Running Out in the Hunt for Rare Bitcoin](https://www.wired.com/story/time-is-running-out-hunt-for-rare-bitcoin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
