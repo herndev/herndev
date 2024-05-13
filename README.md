@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - ⏩ [Dead inside...](http://9gag.com/gag/aD2wGPK)
- - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
+ - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - ⏩ [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 👉 [A normal debate...](http://9gag.com/gag/aQzp9Mq)<!-- MEMES:END -->
 
 ---
 
