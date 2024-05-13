@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love Irish people!](http://9gag.com/gag/abAqZxL)
- - ⏩ [3000 Islamists took to the streets of Hamburg today. The Salafist organization \u201cMuslim Interaktiv\u201d and the protesters called for German law to be replaced with Sharia Law and for the Caliphate to be established in place of the German state.](http://9gag.com/gag/a87bp2O)
- - 👉 [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)<!-- MEMES:END -->
+ - 💣 [Help i accidentaly built a jeep](http://9gag.com/gag/avyZGxM)
+ - ⏩ [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 👉 [Friends having fun&lpar;Repost&rpar;](http://9gag.com/gag/azxLAZx)<!-- MEMES:END -->
 
 ---
 
