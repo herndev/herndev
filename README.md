@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop&#39;s Meme Stock Explodes Again After YouTuber Roaring Kitty Returns](https://kotaku.com/gamestop-gme-meme-stock-roaring-kitty-keith-gill-1851472682)
- - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)
- - [It Looks Like Red Dead Redemption&#39;s PC Port Is Finally Happening](https://kotaku.com/rdr-red-dead-redemption-pc-port-leak-rockstar-launcher-1851473262)<!-- GAME:END -->
+ - [Fallout 4 Fans Are Begging Bethesda To Stop Updating The Game](https://kotaku.com/fallout-4-new-update-next-gen-patch-stop-bethesda-mods-1851473401)
+ - [After spending time trying to fix a bug that wasn&#39;t actually there, Manor Lords dev has a simple request for players: &#39;Have fun with mods but please don&#39;t report bugs if you use them&#39;](https://www.pcgamer.com/games/strategy/after-spending-time-trying-to-fix-a-bug-that-wasnt-actually-there-manor-lords-dev-has-a-simple-request-for-players-have-fun-with-mods-but-please-dont-report-bugs-if-you-use-them)
+ - [You are cordially invited to ruin our esports career](https://www.polygon.com/2024/5/13/24153848/polygon-livestream-the-sims-4-charlie-mcdonnell)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
