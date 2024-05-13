@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-4o&#39;s text and image capabilities are rolling out to ChatGPT Plus and Team users; GPT-4o&#39;s voice version is coming soon; mysterious gpt2-chatbot was GPT-4o &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240513/p34#a240513p34)
- - [Melinda French Gates to leave the Bill &amp; Melinda Gates Foundation](https://www.theverge.com/2024/5/13/24155692/melinda-bill-gates-leave-foundation-philanthropy)
- - [Protesters Are Fighting to Stop AI, but They’re Split on How to Do It](https://www.wired.com/story/protesters-pause-ai-split-stop/)<!-- TECH:END -->
+ - [iOS 17.5 is here with Repair State &amp; EU Web Distribution](https://appleinsider.com/articles/24/05/13/ios-175-is-here-with-repair-state-eu-web-distribution?utm_medium=rss)
+ - [Apple and Google join forces to tackle the side-effects of location trackers](https://www.androidauthority.com/apple-google-unwanted-tracking-3442594/)
+ - [RFK Jr. sues Meta for ‘election interference’ after it temporarily removed a campaign video](https://www.theverge.com/policy/2024/5/13/24155697/rfk-jr-meta-election-interference-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
