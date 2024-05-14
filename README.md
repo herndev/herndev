@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants iPhone-like touch surfaces to be able to wrap around spheres](https://appleinsider.com/articles/24/05/14/apple-wants-iphone-like-touch-surfaces-to-be-able-to-wrap-around-spheres?utm_medium=rss)
- - [Dune: Part Two starts streaming on Max next week](https://www.theverge.com/2024/5/14/24156302/dune-part-two-streaming-max-date)
- - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)<!-- TECH:END -->
+ - [Apple &amp; Samsung tied for top spot in customer satisfaction study](https://appleinsider.com/articles/24/05/14/apple-samsung-tied-for-top-spot-in-customer-satisfaction-study?utm_medium=rss)
+ - [Comcast plans cheap Apple TV+, Netflix, Peacock bundle](https://appleinsider.com/articles/24/05/14/comcast-plans-cheap-apple-tv-netflix-peacock-bundle?utm_medium=rss)
+ - [US to raise tariffs on EVs, batteries, solar cells, and computer chips from China](https://www.theverge.com/2024/5/14/24156249/us-biden-china-tariffs-ev-solar-battery-semiconductor-critical-minerals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
