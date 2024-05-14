@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta is reportedly back on its wearables bit: this time it wants to stick cameras on earbuds for AI](https://www.pcgamer.com/software/ai/meta-is-reportedly-back-on-its-wearables-bit-this-time-it-wants-to-stick-cameras-on-earbuds-for-ai)
- - [PlayStation 5 Sales Fall Short Of PS4, Even As Helldivers 2 Breaks Records](https://kotaku.com/ps5-ps4-sales-helldivers-2-sony-earnings-concord-1851475595)
- - [Hades 2 will be getting the first of many patches later this month, as Supergiant starts brewing quality-of-life changes to resource gathering and movement in its cauldron](https://www.pcgamer.com/games/roguelike/hades-2-will-be-getting-the-first-of-many-patches-later-this-month-as-supergiant-starts-brewing-quality-of-life-changes-to-resource-gathering-and-movement-in-its-cauldron)<!-- GAME:END -->
+ - [Celebrate the Electric Overwatch 2 | Porsche Collaboration with the Chance to Win a Custom Xbox Series X Console](https://news.xbox.com/en-us/2024/05/14/overwatch-2-porsche-xbox-custom-console/)
+ - [This year&#39;s Warhammer Skulls event, presented by actor Rahul Kohli, will have new reveals for Space Marine 2, Boltgun, and more—plus an up to 90% off sale on Warhammer games](https://www.pcgamer.com/gaming-industry/events-conferences/this-years-warhammer-skulls-event-presented-by-actor-rahul-kohli-will-have-new-reveals-for-space-marine-2-boltgun-and-moreplus-an-up-to-90-off-sale-on-warhammer-games)
+ - [Haunted Chocolatier characters: everyone we know about so far](https://www.pcgamer.com/games/life-sim/haunted-chocolatier-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
