@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - ⏩ [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 👉 [A normal debate...](http://9gag.com/gag/aQzp9Mq)<!-- MEMES:END -->
+ - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - ⏩ [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 👉 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)<!-- MEMES:END -->
 
 ---
 
