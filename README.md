@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch Google I/O 2024, and What to Expect](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)
- - [German companies are increasingly experimenting with AI tools to become more productive and efficient, but some say the gains AI promises could be years away &lpar;Nina Kienle/Wall Street Journal&rpar;](http://www.techmeme.com/240514/p4#a240514p4)
- - [Foxconn reports Q1 revenue down 9% YoY to ~$40.9B, net profit up 72% YoY to ~$679M, and consumer electronics was 48% of its revenue while cloud was 28% &lpar;CNBC&rpar;](http://www.techmeme.com/240514/p3#a240514p3)<!-- TECH:END -->
+ - [Setapp&#39;s third-party EU app store to launch on May 14](https://appleinsider.com/articles/24/05/14/setapps-third-party-eu-app-store-to-launch-on-may-14?utm_medium=rss)
+ - [OpenAI&#39;s new ChatGPT voice assistant jokes, chides, apologizes, pretends to blush, and deals with interruptions, aided by building GPT-4o as a single model &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240514/p8#a240514p8)
+ - [Intel announces another Foundry leadership change, naming Marvell executive Kevin O&#39;Buckley as SVP, replacing longtime executive Stu Pann, in the role a year &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240514/p7#a240514p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
