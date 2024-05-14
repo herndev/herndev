@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live stream of the Google I/O 2024 keynote &lpar;Google on YouTube&rpar;](http://www.techmeme.com/240514/p23#a240514p23)
- - [A live blog of Google I/O, where Android 15 updates, new generative AI features for its apps and search, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240514/p22#a240514p22)
- - [Be fast to catch this 30% discount on the Anker Nano Charging Station](https://www.androidauthority.com/deal-anker-nano-charging-station-3443246/)<!-- TECH:END -->
+ - [Veo is Google’s new AI video generator, and its answer to OpenAI’s Sora](https://www.androidauthority.com/google-veo-announced-3443278/)
+ - [It’s the End of Google Search As We Know It](https://www.wired.com/story/google-io-end-of-google-search/)
+ - [Gemini will integrate with Calendar, Tasks, and Keep](https://www.theverge.com/2024/5/14/24155848/google-ai-gemini-calendar-tasks-keep-io)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
