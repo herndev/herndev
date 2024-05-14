@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asshole in the parking](http://9gag.com/gag/a5QNnnN)
- - ⏩ [Are you happy?](http://9gag.com/gag/abAqzdb)
- - 👉 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)<!-- MEMES:END -->
+ - 💣 [I dont know but this is intense](http://9gag.com/gag/ayNpBey)
+ - ⏩ [F**k around, find out.](http://9gag.com/gag/aqyZ70p)
+ - 👉 [Dead inside...](http://9gag.com/gag/aD2wGPK)<!-- MEMES:END -->
 
 ---
 
