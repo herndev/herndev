@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Bunch Of Slept-On Games Are About To Hit Game Pass](https://kotaku.com/xbox-game-pass-may-2024-full-list-leaving-hellblade-2-1851476811)
- - [The Sims 4&#39;s new roadmap details the &#39;Season of Love&#39; with two build kits and a romantic expansion](https://www.pcgamer.com/games/the-sims/the-sims-4s-new-roadmap-details-the-season-of-love-with-two-build-kits-and-a-romantic-expansion)
- - [Valheim heats up with new, ultra-deadly biome in Ashlands update](https://www.polygon.com/24156665/valheim-firelands-update-live-new-biome-siege-weapons-charred)<!-- GAME:END -->
+ - [Dead By Daylight&#39;s Sprawling Horror-verse Expanding With D&amp;D And Castlevania](https://kotaku.com/dead-by-daylight-dungeons-and-dragons-castlevania-dlc-1851477094)
+ - [For the first time in 10 years, this brutal survival game will let you avoid permadeath](https://www.pcgamer.com/games/survival-crafting/for-the-first-time-in-10-years-this-brutal-survival-game-will-let-you-avoid-permadeath)
+ - [Baldur’s Gate 3 Fan Makes Shadowheart’s Artefact Into An Xbox Controller](https://kotaku.com/baldurs-gate-3-artefact-shadowheart-controller-rudeism-1851477084)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
