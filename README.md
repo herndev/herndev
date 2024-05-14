@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrowhead Games is feeling the pressure from Helldivers 2&#39;s successes—and its blunders, community manager reveals: &#39;many of us at AH more or less lost a week&#39; due to the PSN controversy](https://www.pcgamer.com/games/third-person-shooter/arrowhead-games-is-feeling-the-pressure-from-helldivers-2s-successesand-its-blunders-community-dev-reveals-many-of-us-at-ah-more-or-less-lost-a-week-due-to-the-psn-controversy)
- - [ZeniMax files a trademark for a Doom cheat code that unlocks everything, raising hopes of a new entry in the series](https://www.pcgamer.com/games/fps/zenimax-files-a-trademark-for-a-doom-cheat-code-that-unlocks-everything-raising-hopes-of-a-new-entry-in-the-series)
- - [Land of dragons and jank: I took a trip to Wales in the metaverse](https://www.pcgamer.com/games/vr/land-of-dragons-and-jank-i-took-a-trip-to-wales-in-the-metaverse)<!-- GAME:END -->
+ - [The first patch for Bethesda&#39;s busted Fallout 4 next gen update leaves its biggest problems intact, and you&#39;re still better off downgrading the game](https://www.pcgamer.com/games/fallout/the-first-patch-for-bethesdas-busted-fallout-4-next-gen-update-leaves-its-biggest-problems-intact-and-youre-still-better-off-downgrading-the-game)
+ - [Helldivers 2 is a fantastic game—but something has to change, because it&#39;ll only get harder to balance, maintain, and fix while Arrowhead burns the candle at both ends](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-is-a-fantastic-gamebut-something-has-to-change-because-itll-only-get-harder-to-balance-maintain-and-fix-while-arrowhead-burns-the-candle-at-both-ends)
+ - [Clackeys, a big name in artisan keycaps, is closing down: &#39;I am sorry I could not keep this boat afloat&#39;](https://www.pcgamer.com/hardware/gaming-keyboards/clackeys-a-big-name-in-artisan-keycaps-is-closing-down-i-am-sorry-i-could-not-keep-this-boat-afloat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
