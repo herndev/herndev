@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - ⏩ [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 👉 [Nippy](http://9gag.com/gag/aqyZ73v)<!-- MEMES:END -->
+ - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - ⏩ [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 👉 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)<!-- MEMES:END -->
 
 ---
 
