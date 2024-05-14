@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smile! You\u2019re at Mr. Smiley\u2019s!](http://9gag.com/gag/amoL73o)
- - ⏩ [Comes late, leaves early still does the same job as 3 of us](http://9gag.com/gag/a87bo5d)
- - 👉 [This is the way](http://9gag.com/gag/avyZO8n)<!-- MEMES:END -->
+ - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - ⏩ [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
+ - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
 
 ---
 
