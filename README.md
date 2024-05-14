@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Senua’s Saga: Hellblade II, Immortals of Aveum, Lords of the Fallen, and More](https://news.xbox.com/en-us/2024/05/14/xbox-game-pass-may-2024-wave-2/)
- - [Kim Kardashian: Hollywood has an unlikely, lasting place in gaming history](https://www.polygon.com/24152760/kim-kardashian-hollywood-glu-mobile-game-legacy)
- - [Helldivers 2 and Star Wars collide in this amazing mod, due for release &quot;later this week&quot;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-and-star-wars-collide-in-this-amazing-mod-due-for-release-later-this-week)<!-- GAME:END -->
+ - [Dread Delusion review](https://www.pcgamer.com/games/rpg/dread-delusion-review)
+ - [Sauron is definitely back in Rings of Power season 2 teaser](https://www.polygon.com/24153893/lord-rings-power-season-2-trailer-release-date-sauron)
+ - [This just in: Phil Spencer may be storing weapons of mass destruction—in Fallout 76](https://www.pcgamer.com/games/fallout/this-just-in-phil-spencer-may-be-storing-weapons-of-mass-destructionin-fallout-76)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
