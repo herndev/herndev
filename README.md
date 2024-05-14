@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Veo is Google’s new AI video generator, and its answer to OpenAI’s Sora](https://www.androidauthority.com/google-veo-announced-3443278/)
- - [It’s the End of Google Search As We Know It](https://www.wired.com/story/google-io-end-of-google-search/)
- - [Gemini will integrate with Calendar, Tasks, and Keep](https://www.theverge.com/2024/5/14/24155848/google-ai-gemini-calendar-tasks-keep-io)<!-- TECH:END -->
+ - [Google says Circle to Search can now solve physics and math problems, and will expand later this year to diagrams and graphs, powered by LearnLM models &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240514/p41#a240514p41)
+ - [Android 15 Beta 2 is coming tomorrow!](https://www.androidauthority.com/android-15-beta-2-coming-tomorrow-3443359/)
+ - [Google announces that Gemini Advanced will update with deeper Android integration to answer questions about videos and PDFs being viewed on screen &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240514/p40#a240514p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
