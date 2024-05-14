@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - ⏩ [Normal day in Australia](http://9gag.com/gag/a34dKR8)
- - 👉 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)<!-- MEMES:END -->
+ - 💣 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - ⏩ [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
+ - 👉 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)<!-- MEMES:END -->
 
 ---
 
