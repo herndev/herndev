@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Land of dragons and jank: I took a trip to Wales in the metaverse](https://www.pcgamer.com/games/vr/land-of-dragons-and-jank-i-took-a-trip-to-wales-in-the-metaverse)
  - [Can Abra be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24155512/can-abra-be-shiny-kadabra-alakazam-mega)
- - [Red Dead Redemption may actually be coming to PC after 14 years](https://www.pcgamer.com/games/action/red-dead-redemption-may-actually-be-coming-to-pc-after-14-years)
- - [Today&#39;s Wordle answer for Tuesday, May 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-14-2024)<!-- GAME:END -->
+ - [Red Dead Redemption may actually be coming to PC after 14 years](https://www.pcgamer.com/games/action/red-dead-redemption-may-actually-be-coming-to-pc-after-14-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
