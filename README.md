@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Construction workers\u2019 morning warm up](http://9gag.com/gag/aQzp80d)
+ - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
  - ⏩ [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
  - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
 
