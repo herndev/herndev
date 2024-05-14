@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - ⏩ [A girls first true love is her father.](http://9gag.com/gag/a0ePKQO)
- - 👉 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)<!-- MEMES:END -->
+ - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - ⏩ [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
+ - 👉 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)<!-- MEMES:END -->
 
 ---
 
