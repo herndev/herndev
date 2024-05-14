@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony Names PlayStation&#39;s New Bosses](https://kotaku.com/sony-playstation-ceo-ps5-spring-2024-showcase-1851474530)
  - [One of my most anticipated upcoming RPGs doesn&#39;t just have a fishing minigame⁠—it has a full 3D aquarium where you can view your biggest catches and learn fantasy fish &#39;lore&#39;](https://www.pcgamer.com/games/rpg/one-of-my-most-anticipated-upcoming-rpgs-doesnt-just-have-a-fishing-minigameit-has-a-full-3d-aquarium-where-you-can-view-your-biggest-catches-and-learn-fantasy-fish-lore)
- - [Square Enix is laying off employees in the US and Europe](https://www.pcgamer.com/gaming-industry/square-enix-is-laying-off-employees-in-the-us-and-europe)
- - [Leaked Dell roadmap introduces split Intel/Qualcomm lineup through to Nova Lake in 2027](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-roadmap-introduces-split-intelqualcomm-lineup-through-to-nova-lake-in-2027)<!-- GAME:END -->
+ - [Square Enix is laying off employees in the US and Europe](https://www.pcgamer.com/gaming-industry/square-enix-is-laying-off-employees-in-the-us-and-europe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
