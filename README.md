@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing is bringing ChatGPT support to all its audio products next week](https://www.androidauthority.com/nothing-chatgpt-support-ear-cmf-audio-products-3443105/)
- - [The Android 15 beta is now available on the OnePlus 12, OnePlus Open](https://www.androidauthority.com/oneplus-android-15-beta-3443122/)
- - [Source: at a private event, Google demonstrated a Chromium OS build running in a virtual machine on a Pixel 8, but did not say if this build would ever ship &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240514/p10#a240514p10)<!-- TECH:END -->
+ - [The mission to retrieve a Mars sample is running into turbulence](https://www.theverge.com/2024/5/14/24153047/mars-sample-return-nasa-budget-timeline-extraterrestrial-life)
+ - [A Dutch judge finds Tornado Cash developer Alexey Pertsev guilty and sentences him to 64 months; Pertsev was jailed in August 2022 over alleged money laundering &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240514/p13#a240514p13)
+ - [iPhone 16 Pro may get Apple&#39;s brightest display yet](https://appleinsider.com/articles/24/05/14/iphone-16-pro-may-get-apples-brightest-display-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
