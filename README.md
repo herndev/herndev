@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Setapp&#39;s third-party EU app store to launch on May 14](https://appleinsider.com/articles/24/05/14/setapps-third-party-eu-app-store-to-launch-on-may-14?utm_medium=rss)
- - [OpenAI&#39;s new ChatGPT voice assistant jokes, chides, apologizes, pretends to blush, and deals with interruptions, aided by building GPT-4o as a single model &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240514/p8#a240514p8)
- - [Intel announces another Foundry leadership change, naming Marvell executive Kevin O&#39;Buckley as SVP, replacing longtime executive Stu Pann, in the role a year &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240514/p7#a240514p7)<!-- TECH:END -->
+ - [Nothing is bringing ChatGPT support to all its audio products next week](https://www.androidauthority.com/nothing-chatgpt-support-ear-cmf-audio-products-3443105/)
+ - [The Android 15 beta is now available on the OnePlus 12, OnePlus Open](https://www.androidauthority.com/oneplus-android-15-beta-3443122/)
+ - [Source: at a private event, Google demonstrated a Chromium OS build running in a virtual machine on a Pixel 8, but did not say if this build would ever ship &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240514/p10#a240514p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
