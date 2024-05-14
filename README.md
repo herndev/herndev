@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPads finally get battery health info and adaptive charging, but only the new ones](https://www.theverge.com/2024/5/14/24156362/apple-ipad-pro-air-battery-charge-health-limit-cycle-count)
- - [Eight TikTok creators file their own suit against the divest-or-ban law](https://www.theverge.com/2024/5/14/24156778/tiktok-creators-sue-us-divest-or-ban-law)
- - [Microsoft releases a fix for VPN connection failures on Windows 11, 10, and Server 2008 or later, that was caused by the April 2024 Windows security updates &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240514/p49#a240514p49)<!-- TECH:END -->
+ - [NBA Playoffs 2024: How to Watch Knicks vs. Pacers, Nuggets vs. Timberwolves Tonight on TNT     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)
+ - [Google I/O Was Confusing and That&#39;s a Big Problem     - CNET](https://www.cnet.com/tech/mobile/google-io-was-confusing-and-thats-a-big-problem/#ftag=CAD590a51e)
+ - [California Cuts $2 Billion in Broadband Funding. Here’s What It Means     - CNET](https://www.cnet.com/home/internet/california-cuts-2-billion-in-broadband-funding-heres-what-it-means/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
