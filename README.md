@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Was this the best or worst Google I/O ever?](https://www.androidauthority.com/poll-best-or-worst-google-i-o-3443389/)
- - [Watch this screaming, rainbow-clad musician demo Google’s AI DJ](https://www.theverge.com/2024/5/14/24156630/google-ai-io-musician-marc-rebillet-musicfx-dj)
- - [Google announces AI-powered scam call detection on Android, a chatty new voice mode with its Gemini Live feature, and voice and video search with Google Lens &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240514/p43#a240514p43)<!-- TECH:END -->
+ - [UN sanctions monitors: North Korea laundered $147.5M of crypto through Tornado Cash in March after stealing it late last year from HTX crypto exchange &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/240514/p47#a240514p47)
+ - [Reddit launches new tools for its Ask Me Anything Q&amp;A feature, including a dedicated AMA tab, support for up to five guest hosts, and promotional options &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240514/p46#a240514p46)
+ - [Bumble apologizes for its anti-celibacy ad fumble](https://www.theverge.com/2024/5/14/24156746/bumble-dating-app-anti-celibacy-billboard-ad-apology)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
