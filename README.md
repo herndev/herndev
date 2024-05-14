@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I dont know but this is intense](http://9gag.com/gag/ayNpBey)
- - ⏩ [F**k around, find out.](http://9gag.com/gag/aqyZ70p)
- - 👉 [Dead inside...](http://9gag.com/gag/aD2wGPK)<!-- MEMES:END -->
+ - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - ⏩ [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 👉 [Nippy](http://9gag.com/gag/aqyZ73v)<!-- MEMES:END -->
 
 ---
 
