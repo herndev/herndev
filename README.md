@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
- - ⏩ [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
+ - 💣 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - ⏩ [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
+ - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
 
 ---
 
