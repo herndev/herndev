@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Land of dragons and jank: I took a trip to Wales in the metaverse](https://www.pcgamer.com/games/vr/land-of-dragons-and-jank-i-took-a-trip-to-wales-in-the-metaverse)
- - [Can Abra be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24155512/can-abra-be-shiny-kadabra-alakazam-mega)
- - [Red Dead Redemption may actually be coming to PC after 14 years](https://www.pcgamer.com/games/action/red-dead-redemption-may-actually-be-coming-to-pc-after-14-years)<!-- GAME:END -->
+ - [Arrowhead Games is feeling the pressure from Helldivers 2&#39;s successes—and its blunders, community manager reveals: &#39;many of us at AH more or less lost a week&#39; due to the PSN controversy](https://www.pcgamer.com/games/third-person-shooter/arrowhead-games-is-feeling-the-pressure-from-helldivers-2s-successesand-its-blunders-community-dev-reveals-many-of-us-at-ah-more-or-less-lost-a-week-due-to-the-psn-controversy)
+ - [ZeniMax files a trademark for a Doom cheat code that unlocks everything, raising hopes of a new entry in the series](https://www.pcgamer.com/games/fps/zenimax-files-a-trademark-for-a-doom-cheat-code-that-unlocks-everything-raising-hopes-of-a-new-entry-in-the-series)
+ - [Land of dragons and jank: I took a trip to Wales in the metaverse](https://www.pcgamer.com/games/vr/land-of-dragons-and-jank-i-took-a-trip-to-wales-in-the-metaverse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
