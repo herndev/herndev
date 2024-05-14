@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Circle to Search can now solve physics and math problems, and will expand later this year to diagrams and graphs, powered by LearnLM models &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240514/p41#a240514p41)
- - [Android 15 Beta 2 is coming tomorrow!](https://www.androidauthority.com/android-15-beta-2-coming-tomorrow-3443359/)
- - [Google announces that Gemini Advanced will update with deeper Android integration to answer questions about videos and PDFs being viewed on screen &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240514/p40#a240514p40)<!-- TECH:END -->
+ - [Was this the best or worst Google I/O ever?](https://www.androidauthority.com/poll-best-or-worst-google-i-o-3443389/)
+ - [Watch this screaming, rainbow-clad musician demo Google’s AI DJ](https://www.theverge.com/2024/5/14/24156630/google-ai-io-musician-marc-rebillet-musicfx-dj)
+ - [Google announces AI-powered scam call detection on Android, a chatty new voice mode with its Gemini Live feature, and voice and video search with Google Lens &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240514/p43#a240514p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
