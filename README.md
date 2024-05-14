@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first patch for Bethesda&#39;s busted Fallout 4 next gen update leaves its biggest problems intact, and you&#39;re still better off downgrading the game](https://www.pcgamer.com/games/fallout/the-first-patch-for-bethesdas-busted-fallout-4-next-gen-update-leaves-its-biggest-problems-intact-and-youre-still-better-off-downgrading-the-game)
- - [Helldivers 2 is a fantastic game—but something has to change, because it&#39;ll only get harder to balance, maintain, and fix while Arrowhead burns the candle at both ends](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-is-a-fantastic-gamebut-something-has-to-change-because-itll-only-get-harder-to-balance-maintain-and-fix-while-arrowhead-burns-the-candle-at-both-ends)
- - [Clackeys, a big name in artisan keycaps, is closing down: &#39;I am sorry I could not keep this boat afloat&#39;](https://www.pcgamer.com/hardware/gaming-keyboards/clackeys-a-big-name-in-artisan-keycaps-is-closing-down-i-am-sorry-i-could-not-keep-this-boat-afloat)<!-- GAME:END -->
+ - [Coming to Game Pass: Senua’s Saga: Hellblade II, Immortals of Aveum, Lords of the Fallen, and More](https://news.xbox.com/en-us/2024/05/14/xbox-game-pass-may-2024-wave-2/)
+ - [Kim Kardashian: Hollywood has an unlikely, lasting place in gaming history](https://www.polygon.com/24152760/kim-kardashian-hollywood-glu-mobile-game-legacy)
+ - [Helldivers 2 and Star Wars collide in this amazing mod, due for release &quot;later this week&quot;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-and-star-wars-collide-in-this-amazing-mod-due-for-release-later-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
