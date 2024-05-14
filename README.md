@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo X100 Ultra launched with 200MP tele lens &lpar;Update: Bad news for global users&rpar;](https://www.androidauthority.com/vivo-x100-ultra-3442321/)
- - [Video game publishers are facing a wave of lawsuits that accuse the industry of profiting from intentionally promoting mass addiction and causing health issues &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240514/p1#a240514p1)
- - [How to master your Mac menubar](https://appleinsider.com/inside/mac/tips/how-to-master-your-mac-menubar?utm_medium=rss)<!-- TECH:END -->
+ - [This is the first non-Pixel OEM to confirm Android 15 beta access](https://www.androidauthority.com/android-15-beta-first-oem-3442695/)
+ - [SSDI May Payment: Where Is Your Check?     - CNET](https://www.cnet.com/personal-finance/ssdi-may-payment-where-is-your-check/#ftag=CAD590a51e)
+ - [Vivo X100 Ultra launched with 200MP tele lens &lpar;Update: Bad news for global users&rpar;](https://www.androidauthority.com/vivo-x100-ultra-3442321/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
