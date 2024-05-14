@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The mission to retrieve a Mars sample is running into turbulence](https://www.theverge.com/2024/5/14/24153047/mars-sample-return-nasa-budget-timeline-extraterrestrial-life)
- - [A Dutch judge finds Tornado Cash developer Alexey Pertsev guilty and sentences him to 64 months; Pertsev was jailed in August 2022 over alleged money laundering &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240514/p13#a240514p13)
- - [iPhone 16 Pro may get Apple&#39;s brightest display yet](https://appleinsider.com/articles/24/05/14/iphone-16-pro-may-get-apples-brightest-display-yet?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile’s new ‘Flex’ plans bring phone upgrades to prepaid subscribers](https://www.theverge.com/2024/5/14/24156256/metro-t-mobile-flex-pre-paid-plans)
+ - [XCOM developers start new studio to take on The Sims](https://www.theverge.com/2024/5/14/24155843/midsummer-studios-next-gen-life-sim-the-sims)
+ - [Setapp Mobile brings a promising new iPhone app experience to the EU](https://www.theverge.com/24155259/setapp-mobile-eu-subscription-app-store-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
