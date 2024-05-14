@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans to shut down its enterprise Workplace tool in September 2025, becoming read-only until May 2026, and will announce the move as soon as today &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240514/p18#a240514p18)
- - [Best Savings Rates Today -- Act Now to Maximize Your Interest Earnings, May 14, 2024     - CNET](https://www.cnet.com/personal-finance/todays-best-savings-rates-may-14-2024/#ftag=CAD590a51e)
- - [Caitlin Clark&#39;s WNBA Debut: How to Watch Her First Game for the Indiana Fever Tonight     - CNET](https://www.cnet.com/tech/services-and-software/caitlin-clark-wnba-debut-how-to-watch-her-first-game-for-the-indiana-fever-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A live stream of the Google I/O 2024 keynote &lpar;Google on YouTube&rpar;](http://www.techmeme.com/240514/p23#a240514p23)
+ - [A live blog of Google I/O, where Android 15 updates, new generative AI features for its apps and search, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240514/p22#a240514p22)
+ - [Be fast to catch this 30% discount on the Anker Nano Charging Station](https://www.androidauthority.com/deal-anker-nano-charging-station-3443246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
