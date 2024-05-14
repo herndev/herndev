@@ -39,7 +39,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With OpenAI&#39;s Release of GPT-4o, Is ChatGPT Plus Still Worth It?](https://www.wired.com/story/with-gpt-4o-is-chatgpt-plus-still-worth-it/)
+ - [With OpenAI’s Release of GPT-4o, Is ChatGPT Plus Still Worth It?](https://www.wired.com/story/with-gpt-4o-is-chatgpt-plus-still-worth-it/)
  - [Mexico-based BNPL startup Aplazo raised a $45M Series B led by QED Investors, bringing its total raised to $100M+ in equity and $75M in committed debt &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240513/p45#a240513p45)
  - [Everything OpenAI Announced at Its Spring Update Event video     - CNET](https://www.cnet.com/videos/everything-openai-announced-at-its-spring-update-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
