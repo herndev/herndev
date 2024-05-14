@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - ⏩ [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
+ - 💣 [Smile! You\u2019re at Mr. Smiley\u2019s!](http://9gag.com/gag/amoL73o)
+ - ⏩ [Comes late, leaves early still does the same job as 3 of us](http://9gag.com/gag/a87bo5d)
+ - 👉 [This is the way](http://9gag.com/gag/avyZO8n)<!-- MEMES:END -->
 
 ---
 
