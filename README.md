@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - ⏩ [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - 👉 [Where are they boys?](http://9gag.com/gag/aAyVPog)<!-- MEMES:END -->
+ - 💣 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
+ - ⏩ [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 👉 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)<!-- MEMES:END -->
 
 ---
 
