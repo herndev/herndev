@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Demo the Award-Winning Paper Trail Now, Ahead of the May 21 Xbox Launch](https://news.xbox.com/en-us/2024/05/14/demo-paper-trail-ahead-of-may-21-launch/)
- - [One of D&amp;D&#39;s most infamous villains is Dead by Daylight&#39;s next killer](https://www.pcgamer.com/games/horror/one-of-dandds-most-infamous-villains-is-dead-by-daylights-next-killer)
- - [Breaking down the themes, monsters, and rings in The Rings of Power’s season 2 trailer](https://www.polygon.com/24156342/lord-rings-power-season-2-trailer-references-easter-eggs)<!-- GAME:END -->
+ - [A Bunch Of Slept-On Games Are About To Hit Game Pass](https://kotaku.com/xbox-game-pass-may-2024-full-list-leaving-hellblade-2-1851476811)
+ - [The Sims 4&#39;s new roadmap details the &#39;Season of Love&#39; with two build kits and a romantic expansion](https://www.pcgamer.com/games/the-sims/the-sims-4s-new-roadmap-details-the-season-of-love-with-two-build-kits-and-a-romantic-expansion)
+ - [Valheim heats up with new, ultra-deadly biome in Ashlands update](https://www.polygon.com/24156665/valheim-firelands-update-live-new-biome-siege-weapons-charred)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
