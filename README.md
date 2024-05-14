@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Price Reductions Available Now on the Digital Xbox 360 Store – Closing July 29, 2024](https://news.xbox.com/en-us/2024/05/14/xbox-360-price-reductions-available-now/)
- - [Lonely Island’s Jorma Taccone couldn’t stop adding jokes to Knuckles’ dream musical](https://www.polygon.com/24155657/lonely-island-jorma-taccone-knuckles-musical)
- - [Is This Aerith&#39;s Ghost In The Original Final Fantasy VII?](https://kotaku.com/final-fantasy-7-ff7-aeris-aerith-death-ghost-1851476144)<!-- GAME:END -->
+ - [Halo Composer Running For Congress &#39;Intends To Win&#39; Because He&#39;s A &#39;Gamer&#39;](https://kotaku.com/halo-composer-marty-odonnell-bungie-congress-gamer-win-1851476437)
+ - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)
+ - [The best Rogue builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
