@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Composer Running For Congress &#39;Intends To Win&#39; Because He&#39;s A &#39;Gamer&#39;](https://kotaku.com/halo-composer-marty-odonnell-bungie-congress-gamer-win-1851476437)
- - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)
- - [The best Rogue builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills)<!-- GAME:END -->
+ - [Demo the Award-Winning Paper Trail Now, Ahead of the May 21 Xbox Launch](https://news.xbox.com/en-us/2024/05/14/demo-paper-trail-ahead-of-may-21-launch/)
+ - [One of D&amp;D&#39;s most infamous villains is Dead by Daylight&#39;s next killer](https://www.pcgamer.com/games/horror/one-of-dandds-most-infamous-villains-is-dead-by-daylights-next-killer)
+ - [Breaking down the themes, monsters, and rings in The Rings of Power’s season 2 trailer](https://www.polygon.com/24156342/lord-rings-power-season-2-trailer-references-easter-eggs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
