@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Community Update May 2024 – Movements and Requests](https://news.xbox.com/en-us/2024/05/14/community-update-may-2024-movements-and-requests/)
  - [How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern)
- - [Amazon Orders Tomb Raider Series From Fleabag Star And Writer](https://kotaku.com/amazon-tomb-raider-tv-series-movie-phoebe-waller-bridge-1851477186)
- - [Dead By Daylight&#39;s Sprawling Horror-verse Expanding With D&amp;D And Castlevania](https://kotaku.com/dead-by-daylight-dungeons-and-dragons-castlevania-dlc-1851477094)<!-- GAME:END -->
+ - [Amazon Orders Tomb Raider Series From Fleabag Star And Writer](https://kotaku.com/amazon-tomb-raider-tv-series-movie-phoebe-waller-bridge-1851477186)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
