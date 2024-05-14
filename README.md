@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dead inside...](http://9gag.com/gag/aD2wGPK)
- - ⏩ [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - ⏩ [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
  - 👉 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)<!-- MEMES:END -->
 
 ---
