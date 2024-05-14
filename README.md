@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is testing AI-generated search results](https://www.theverge.com/2024/5/13/24155875/tiktok-ai-generated-search-results-highlights-chatgpt)
- - [Rumble sues Google, saying it owes Rumble $1B+ in damages for lost ad revenue, and for exploiting its ad tech dominance to hamper Rumble&#39;s ability to compete &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240513/p40#a240513p40)
- - [iPad Pro OLED HDR color peaking bug to be corrected with software update](https://appleinsider.com/articles/24/05/13/ipad-pro-oled-hdr-color-peaking-bug-to-be-corrected-with-software-update?utm_medium=rss)<!-- TECH:END -->
+ - [Pepper, which provides tools for order management, invoicing, and more for independent food distributors, raised a $30M Series B led by Iconiq Growth &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240513/p44#a240513p44)
+ - [Sony names new PlayStation leaders following Jim Ryan’s retirement](https://www.theverge.com/2024/5/13/24155982/sony-playstation-co-ceo-hermen-hulst-hideaki-nishino)
+ - [Chinese lidar maker Hesai sues US DOD for adding it to a list of firms accused of aiding China&#39;s military, saying it only serves civilian and commercial market &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/240513/p43#a240513p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
