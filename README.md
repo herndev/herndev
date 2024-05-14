@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - ⏩ [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 👉 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)<!-- MEMES:END -->
+ - 💣 [Construction workers\u2019 morning warm up](http://9gag.com/gag/aQzp80d)
+ - ⏩ [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
 
 ---
 
