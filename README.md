@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nippy](http://9gag.com/gag/aqyZ73v)
- - ⏩ [This looks like Afghanistan, but this is Germany. Civilization is disappearing step by step](http://9gag.com/gag/aKGgxGQ)
- - 👉 [Apple vs Kitchen](http://9gag.com/gag/aAyV3rp)<!-- MEMES:END -->
+ - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - ⏩ [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 👉 [A normal debate...](http://9gag.com/gag/aQzp9Mq)<!-- MEMES:END -->
 
 ---
 
