@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - ⏩ [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
- - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
+ - ⏩ [A girls first true love is her father.](http://9gag.com/gag/a0ePKQO)
+ - 👉 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)<!-- MEMES:END -->
 
 ---
 
