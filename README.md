@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; Samsung tied for top spot in customer satisfaction study](https://appleinsider.com/articles/24/05/14/apple-samsung-tied-for-top-spot-in-customer-satisfaction-study?utm_medium=rss)
- - [Comcast plans cheap Apple TV+, Netflix, Peacock bundle](https://appleinsider.com/articles/24/05/14/comcast-plans-cheap-apple-tv-netflix-peacock-bundle?utm_medium=rss)
- - [US to raise tariffs on EVs, batteries, solar cells, and computer chips from China](https://www.theverge.com/2024/5/14/24156249/us-biden-china-tariffs-ev-solar-battery-semiconductor-critical-minerals)<!-- TECH:END -->
+ - [Sources: Meta plans to shut down its enterprise Workplace tool in September 2025, becoming read-only until May 2026, and will announce the move as soon as today &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240514/p18#a240514p18)
+ - [Best Savings Rates Today -- Act Now to Maximize Your Interest Earnings, May 14, 2024     - CNET](https://www.cnet.com/personal-finance/todays-best-savings-rates-may-14-2024/#ftag=CAD590a51e)
+ - [Caitlin Clark&#39;s WNBA Debut: How to Watch Her First Game for the Indiana Fever Tonight     - CNET](https://www.cnet.com/tech/services-and-software/caitlin-clark-wnba-debut-how-to-watch-her-first-game-for-the-indiana-fever-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
