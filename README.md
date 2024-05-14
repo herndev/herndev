@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - ⏩ [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
- - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
+ - ⏩ [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 👉 [Nippy](http://9gag.com/gag/aqyZ73v)<!-- MEMES:END -->
 
 ---
 
