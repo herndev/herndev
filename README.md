@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - ⏩ [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 👉 [Nippy](http://9gag.com/gag/aqyZ73v)<!-- MEMES:END -->
+ - 💣 [Asshole in the parking](http://9gag.com/gag/a5QNnnN)
+ - ⏩ [Are you happy?](http://9gag.com/gag/abAqzdb)
+ - 👉 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)<!-- MEMES:END -->
 
 ---
 
