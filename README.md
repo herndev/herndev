@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UN sanctions monitors: North Korea laundered $147.5M of crypto through Tornado Cash in March after stealing it late last year from HTX crypto exchange &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/240514/p47#a240514p47)
- - [Reddit launches new tools for its Ask Me Anything Q&amp;A feature, including a dedicated AMA tab, support for up to five guest hosts, and promotional options &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240514/p46#a240514p46)
- - [Bumble apologizes for its anti-celibacy ad fumble](https://www.theverge.com/2024/5/14/24156746/bumble-dating-app-anti-celibacy-billboard-ad-apology)<!-- TECH:END -->
+ - [iPads finally get battery health info and adaptive charging, but only the new ones](https://www.theverge.com/2024/5/14/24156362/apple-ipad-pro-air-battery-charge-health-limit-cycle-count)
+ - [Eight TikTok creators file their own suit against the divest-or-ban law](https://www.theverge.com/2024/5/14/24156778/tiktok-creators-sue-us-divest-or-ban-law)
+ - [Microsoft releases a fix for VPN connection failures on Windows 11, 10, and Server 2008 or later, that was caused by the April 2024 Windows security updates &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240514/p49#a240514p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
