@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s new ‘Flex’ plans bring phone upgrades to prepaid subscribers](https://www.theverge.com/2024/5/14/24156256/metro-t-mobile-flex-pre-paid-plans)
- - [XCOM developers start new studio to take on The Sims](https://www.theverge.com/2024/5/14/24155843/midsummer-studios-next-gen-life-sim-the-sims)
- - [Setapp Mobile brings a promising new iPhone app experience to the EU](https://www.theverge.com/24155259/setapp-mobile-eu-subscription-app-store-preview)<!-- TECH:END -->
+ - [Apple wants iPhone-like touch surfaces to be able to wrap around spheres](https://appleinsider.com/articles/24/05/14/apple-wants-iphone-like-touch-surfaces-to-be-able-to-wrap-around-spheres?utm_medium=rss)
+ - [Dune: Part Two starts streaming on Max next week](https://www.theverge.com/2024/5/14/24156302/dune-part-two-streaming-max-date)
+ - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
