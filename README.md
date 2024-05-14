@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the first non-Pixel OEM to confirm Android 15 beta access](https://www.androidauthority.com/android-15-beta-first-oem-3442695/)
- - [SSDI May Payment: Where Is Your Check?     - CNET](https://www.cnet.com/personal-finance/ssdi-may-payment-where-is-your-check/#ftag=CAD590a51e)
- - [Vivo X100 Ultra launched with 200MP tele lens &lpar;Update: Bad news for global users&rpar;](https://www.androidauthority.com/vivo-x100-ultra-3442321/)<!-- TECH:END -->
+ - [How to Watch Google I/O 2024, and What to Expect](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)
+ - [German companies are increasingly experimenting with AI tools to become more productive and efficient, but some say the gains AI promises could be years away &lpar;Nina Kienle/Wall Street Journal&rpar;](http://www.techmeme.com/240514/p4#a240514p4)
+ - [Foxconn reports Q1 revenue down 9% YoY to ~$40.9B, net profit up 72% YoY to ~$679M, and consumer electronics was 48% of its revenue while cloud was 28% &lpar;CNBC&rpar;](http://www.techmeme.com/240514/p3#a240514p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
