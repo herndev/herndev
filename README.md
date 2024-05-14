@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead By Daylight&#39;s Sprawling Horror-verse Expanding With D&amp;D And Castlevania](https://kotaku.com/dead-by-daylight-dungeons-and-dragons-castlevania-dlc-1851477094)
- - [For the first time in 10 years, this brutal survival game will let you avoid permadeath](https://www.pcgamer.com/games/survival-crafting/for-the-first-time-in-10-years-this-brutal-survival-game-will-let-you-avoid-permadeath)
- - [Baldur’s Gate 3 Fan Makes Shadowheart’s Artefact Into An Xbox Controller](https://kotaku.com/baldurs-gate-3-artefact-shadowheart-controller-rudeism-1851477084)<!-- GAME:END -->
+ - [How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern)
+ - [Amazon Orders Tomb Raider Series From Fleabag Star And Writer](https://kotaku.com/amazon-tomb-raider-tv-series-movie-phoebe-waller-bridge-1851477186)
+ - [Dead By Daylight&#39;s Sprawling Horror-verse Expanding With D&amp;D And Castlevania](https://kotaku.com/dead-by-daylight-dungeons-and-dragons-castlevania-dlc-1851477094)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
