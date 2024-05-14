@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate the Electric Overwatch 2 | Porsche Collaboration with the Chance to Win a Custom Xbox Series X Console](https://news.xbox.com/en-us/2024/05/14/overwatch-2-porsche-xbox-custom-console/)
- - [This year&#39;s Warhammer Skulls event, presented by actor Rahul Kohli, will have new reveals for Space Marine 2, Boltgun, and more—plus an up to 90% off sale on Warhammer games](https://www.pcgamer.com/gaming-industry/events-conferences/this-years-warhammer-skulls-event-presented-by-actor-rahul-kohli-will-have-new-reveals-for-space-marine-2-boltgun-and-moreplus-an-up-to-90-off-sale-on-warhammer-games)
- - [Haunted Chocolatier characters: everyone we know about so far](https://www.pcgamer.com/games/life-sim/haunted-chocolatier-characters)<!-- GAME:END -->
+ - [Price Reductions Available Now on the Digital Xbox 360 Store – Closing July 29, 2024](https://news.xbox.com/en-us/2024/05/14/xbox-360-price-reductions-available-now/)
+ - [Lonely Island’s Jorma Taccone couldn’t stop adding jokes to Knuckles’ dream musical](https://www.polygon.com/24155657/lonely-island-jorma-taccone-knuckles-musical)
+ - [Is This Aerith&#39;s Ghost In The Original Final Fantasy VII?](https://kotaku.com/final-fantasy-7-ff7-aeris-aerith-death-ghost-1851476144)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
