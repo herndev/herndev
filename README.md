@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dread Delusion review](https://www.pcgamer.com/games/rpg/dread-delusion-review)
- - [Sauron is definitely back in Rings of Power season 2 teaser](https://www.polygon.com/24153893/lord-rings-power-season-2-trailer-release-date-sauron)
- - [This just in: Phil Spencer may be storing weapons of mass destruction—in Fallout 76](https://www.pcgamer.com/games/fallout/this-just-in-phil-spencer-may-be-storing-weapons-of-mass-destructionin-fallout-76)<!-- GAME:END -->
+ - [Meta is reportedly back on its wearables bit: this time it wants to stick cameras on earbuds for AI](https://www.pcgamer.com/software/ai/meta-is-reportedly-back-on-its-wearables-bit-this-time-it-wants-to-stick-cameras-on-earbuds-for-ai)
+ - [PlayStation 5 Sales Fall Short Of PS4, Even As Helldivers 2 Breaks Records](https://kotaku.com/ps5-ps4-sales-helldivers-2-sony-earnings-concord-1851475595)
+ - [Hades 2 will be getting the first of many patches later this month, as Supergiant starts brewing quality-of-life changes to resource gathering and movement in its cauldron](https://www.pcgamer.com/games/roguelike/hades-2-will-be-getting-the-first-of-many-patches-later-this-month-as-supergiant-starts-brewing-quality-of-life-changes-to-resource-gathering-and-movement-in-its-cauldron)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
