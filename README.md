@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Abra be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24155512/can-abra-be-shiny-kadabra-alakazam-mega)
  - [Red Dead Redemption may actually be coming to PC after 14 years](https://www.pcgamer.com/games/action/red-dead-redemption-may-actually-be-coming-to-pc-after-14-years)
- - [Today&#39;s Wordle answer for Tuesday, May 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-14-2024)
- - [Sony Names PlayStation&#39;s New Bosses](https://kotaku.com/sony-playstation-ceo-ps5-spring-2024-showcase-1851474530)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, May 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-14-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
