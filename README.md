@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will let you control a mouse cursor with your head on Android](https://www.androidauthority.com/google-project-gameface-control-mouse-cursor-head-android-3440905/)
- - [Research: Southeast Asian scam syndicates, which typically use forced labor to run online scams like pig butchering, are stealing an estimated $64B annually &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240515/p10#a240515p10)
- - [You May Get a Boost in SSI Benefits This Year. What to Know     - CNET](https://www.cnet.com/personal-finance/you-may-get-a-boost-in-ssi-benefits-this-year-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources and documents: Chinese chipmaker CXMT and others are in the early stages of making high bandwidth memory chips, a major step in China&#39;s chip plans &lpar;Reuters&rpar;](http://www.techmeme.com/240515/p14#a240515p14)
+ - [Yemen is holding back repairs on the key AAE-1 internet cable in the Red Sea during a criminal investigation into the cable owners&#39; alleged Houthi militia ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p13#a240515p13)
+ - [AWS details its European &quot;sovereign cloud&quot;, designed to enable greater data residency, starting in Germany, and plans to invest &amp;euro;7.8B in the region by 2040 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240515/p12#a240515p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
