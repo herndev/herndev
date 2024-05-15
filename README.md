@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - ⏩ [Left or right?](http://9gag.com/gag/a2vPoQ1)
+ - ⏩ [Normal day in Australia](http://9gag.com/gag/a34dKR8)
  - 👉 [He&#39;s actually in hospital](http://9gag.com/gag/aGyVpow)<!-- MEMES:END -->
 
 ---
