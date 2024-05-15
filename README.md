@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - ⏩ [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 👉 [Movie?](http://9gag.com/gag/aqyZKrZ)<!-- MEMES:END -->
+ - 💣 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - ⏩ [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 👉 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)<!-- MEMES:END -->
 
 ---
 
