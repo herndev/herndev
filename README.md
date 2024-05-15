@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You Smoker?](http://9gag.com/gag/a2vP4WO)
- - ⏩ [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
- - 👉 [`mods will fix it`](http://9gag.com/gag/aPAy9gQ)<!-- MEMES:END -->
+ - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - ⏩ [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
 
 ---
 
