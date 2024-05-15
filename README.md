@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Gemini&#39;s and OpenAI&#39;s updates play into Apple&#39;s AI strategy](https://appleinsider.com/articles/24/05/14/how-geminis-and-openais-updates-play-into-apples-ai-strategy?utm_medium=rss)
- - [OpenAI chief scientist Ilya Sutskever is officially leaving](https://www.theverge.com/2024/5/14/24156920/openai-chief-scientist-ilya-sutskever-leaves)
- - [Ilya Sutskever says he will leave OpenAI to work on a &quot;personally meaningful&quot; project; Director of Research Jakub Pachocki will become OpenAI&#39;s chief scientist &lpar;CNBC&rpar;](http://www.techmeme.com/240514/p52#a240514p52)<!-- TECH:END -->
+ - [Google now offers ‘web’ search — and an AI opt-out button](https://www.theverge.com/2024/5/14/24074314/google-now-offers-web-search)
+ - [Google unveils Music AI Sandbox, a suite of music tools that include the ability to create loops via text, without disclosing when it will be publicly available &lpar;Ty Pendlebury/CNET&rpar;](http://www.techmeme.com/240514/p55#a240514p55)
+ - [Facebook and Instagram are down for some users](https://appleinsider.com/articles/24/05/15/facebook-and-instagram-are-down-for-some-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
