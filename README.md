@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
- - ⏩ [Yeyeye, and the west is oikophobic for virtue signal points...](http://9gag.com/gag/a0ePKnv)
- - 👉 [Refugees welcome to Poland](http://9gag.com/gag/aO8yY7y)<!-- MEMES:END -->
+ - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - ⏩ [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
 
 ---
 
