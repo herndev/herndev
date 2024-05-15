@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - ⏩ [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 👉 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)<!-- MEMES:END -->
+ - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - ⏩ [Left or right?](http://9gag.com/gag/a2vPoQ1)
+ - 👉 [He&#39;s actually in hospital](http://9gag.com/gag/aGyVpow)<!-- MEMES:END -->
 
 ---
 
