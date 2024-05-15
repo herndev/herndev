@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - ⏩ [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
- - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
+ - 💣 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
+ - ⏩ [Yeyeye, and the west is oikophobic for virtue signal points...](http://9gag.com/gag/a0ePKnv)
+ - 👉 [Refugees welcome to Poland](http://9gag.com/gag/aO8yY7y)<!-- MEMES:END -->
 
 ---
 
