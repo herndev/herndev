@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 💣 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
  - ⏩ [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
+ - 👉 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)<!-- MEMES:END -->
 
 ---
 
