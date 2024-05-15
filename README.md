@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - ⏩ [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
- - 👉 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)<!-- MEMES:END -->
+ - 💣 [Times Square is seen taken over. I don\u2019t even know what to say about this.](http://9gag.com/gag/aYQpgVx)
+ - ⏩ [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)
+ - 👉 [F**k around, find out.](http://9gag.com/gag/aqyZ70p)<!-- MEMES:END -->
 
 ---
 
