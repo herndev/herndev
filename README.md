@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - ⏩ [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 👉 [Nippy](http://9gag.com/gag/aqyZ73v)<!-- MEMES:END -->
+ - 💣 [Once upon a time\u2026](http://9gag.com/gag/aByQm21)
+ - ⏩ [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
 
 ---
 
