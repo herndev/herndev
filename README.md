@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Ninja Theory Strives to Make Senua the Most Human Character in Gaming](https://news.xbox.com/en-us/2024/05/15/hellblade-2-senua-most-human-character-in-gaming/)
- - [Animal Well tricked you into thinking it’s a Metroidvania](https://www.polygon.com/gaming/24156522/animal-well-metroidvania-not)
- - [Leaked Dell docs suggest Qualcomm&#39;s new laptop chips could deliver nearly twice the battery life of the latest Intel CPUs](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-docs-suggest-qualcomms-new-laptop-chips-could-deliver-nearly-twice-the-battery-life-of-the-latest-intel-cpus)<!-- GAME:END -->
+ - [Netflix’s Terminator anime takes the cyborg time war to Tokyo, with a new AI twist](https://www.polygon.com/anime/23164952/terminator-zero-netflix-anime-release-date-first-look)
+ - [NieR Devs New Mystery Game Is Definitely NieR 3, Right?](https://kotaku.com/nier-3-automata-yoko-taro-yosuke-saito-1851478254)
+ - [The devs of the underplayed Marvel&#39;s Midnight Suns once more blame the game&#39;s commercial woes on the cards &lpar;I really don&#39;t think it was the cards&rpar;](https://www.pcgamer.com/games/strategy/the-devs-of-the-underplayed-marvels-midnight-suns-once-more-blame-the-games-commercial-woes-on-the-cards-i-really-dont-think-it-was-the-cards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
