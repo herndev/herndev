@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and documents: Chinese chipmaker CXMT and others are in the early stages of making high bandwidth memory chips, a major step in China&#39;s chip plans &lpar;Reuters&rpar;](http://www.techmeme.com/240515/p14#a240515p14)
- - [Yemen is holding back repairs on the key AAE-1 internet cable in the Red Sea during a criminal investigation into the cable owners&#39; alleged Houthi militia ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p13#a240515p13)
- - [AWS details its European &quot;sovereign cloud&quot;, designed to enable greater data residency, starting in Germany, and plans to invest &amp;euro;7.8B in the region by 2040 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240515/p12#a240515p12)<!-- TECH:END -->
+ - [Setapp’s alternative iOS app store is now available in the EU, but there’s a catch](https://www.androidauthority.com/setapp-ios-app-store-available-eu-3443555/)
+ - [Razer Blade 14 vs. Asus Rog Zephyrus G14: uncompromised value](https://www.theverge.com/24155889/razer-blade-14-2024-asus-rog-zephyrus-g14-comparison)
+ - [How to get VMWare Fusion Pro 13 for free](https://appleinsider.com/inside/macos/tips/how-to-get-vmware-fusion-pro-13-for-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
