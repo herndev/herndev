@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social media users are blocking celebs to support Palestine](https://www.theverge.com/2024/5/15/24156496/gaza-palestine-israel-tiktok-instagram-blockout-social-media)
- - [Amazon made its debut pitch at the Upfronts annual ad sales event on May 14, competing with major media networks and highlighting its push beyond digital ads &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240515/p25#a240515p25)
- - [Sources: Neuralink&#39;s disclosure last week that tiny wires inside its first patient&#39;s brain had pulled out of position is an issue it has known about for years &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240515/p24#a240515p24)<!-- TECH:END -->
+ - [Welcome to Notepad, a newsletter on Microsoft’s era-defining bets by Tom Warren](https://www.theverge.com/2024/5/15/24150911/notepad-newsletter-tom-warren-microsoft)
+ - [Netflix’s Terminator Zero anime starts streaming in August](https://www.theverge.com/24157168/terminator-zero-netflix-anime-release-date)
+ - [How fast will A18 in iPhone 16 be? The iPad Pro&#39;s M4 can tell us.](https://appleinsider.com/articles/24/05/15/how-fast-will-a18-in-iphone-16-be-the-ipad-pros-m4-can-tell-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
