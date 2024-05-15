@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 can automatically adjust vibration strength on Pixels](https://www.androidauthority.com/android-15-adaptive-vibration-3443842/)
- - [AT&amp;T and satellite provider AST SpaceMobile announce an agreement to provide a space-based broadband network direct to cell phones; the deal runs through 2030 &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/240515/p51#a240515p51)
- - [How to Pack a Moving Box Like the Pros     - CNET](https://www.cnet.com/how-to/how-to-pack-a-moving-box-like-the-pros/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google One&#39;s VPN service will no longer be available as of June 20, 2024; Pixel 7 devices and Pixel Fold will get a built-in VPN via an update on June 3, 2024 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240515/p53#a240515p53)
+ - [Google Sheets’ new formatting feature has Excel switchers excited](https://www.theverge.com/2024/5/15/24157659/google-sheets-tables-formatting)
+ - [Samsung&#39;s half-hearted attempt to capitalize on Apple&#39;s Crush ad misses the point](https://appleinsider.com/articles/24/05/15/samsungs-half-hearted-attempt-to-capitalize-on-apples-crush-ad-misses-the-point?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
