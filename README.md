@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - ⏩ [Normal day in Australia](http://9gag.com/gag/a34dKR8)
- - 👉 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)<!-- MEMES:END -->
+ - 💣 [Nobody is born a hero. People become heroes when they choose to be brave and do what\u2019s right.](http://9gag.com/gag/amoL759)
+ - ⏩ [The interraction that can make a grown man cry](http://9gag.com/gag/a2vPoY9)
+ - 👉 [Final destination vibes](http://9gag.com/gag/a5QNMdO)<!-- MEMES:END -->
 
 ---
 
