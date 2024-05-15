@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We gotta stop ignoring AI’s hallucination problem](https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong)
- - [Bipartisan US Senators release a long-awaited plan for AI, calling for spending $32B annually by 2026 on R&amp;D, creating a federal data privacy law, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240515/p21#a240515p21)
- - [Kentucky-based PayHOA, a bootstrapped startup that offers software for self-managed homeowner associations, raised a $27.5M Series A and reports 652K+ users &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240515/p20#a240515p20)<!-- TECH:END -->
+ - [Social media users are blocking celebs to support Palestine](https://www.theverge.com/2024/5/15/24156496/gaza-palestine-israel-tiktok-instagram-blockout-social-media)
+ - [Amazon made its debut pitch at the Upfronts annual ad sales event on May 14, competing with major media networks and highlighting its push beyond digital ads &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240515/p25#a240515p25)
+ - [Sources: Neuralink&#39;s disclosure last week that tiny wires inside its first patient&#39;s brain had pulled out of position is an issue it has known about for years &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240515/p24#a240515p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
