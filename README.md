@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - ⏩ [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [He&#39;s actually in hospital](http://9gag.com/gag/aGyVpow)<!-- MEMES:END -->
+ - 💣 [Happy fathers day coming...](http://9gag.com/gag/aByQgyx)
+ - ⏩ [Raising another list to cleanse your eyes and mind after watching garbage &#39;focus group&#39; movies.](http://9gag.com/gag/an7X9V5)
+ - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
 
 ---
 
