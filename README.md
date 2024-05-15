@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft cancels The Division Heartland, the latest AAA free-to-play game casualty](https://www.polygon.com/24157512/tom-clancys-division-heartland-canceled-ubisoft)
- - [Ubisoft cancels The Division: Heartland so it can focus on &#39;bigger opportunities&#39; like XDefiant](https://www.pcgamer.com/games/third-person-shooter/ubisoft-cancels-the-division-heartland-so-it-can-focus-on-bigger-opportunities-like-xdefiant)
- - [Furiosa kicks sand in the face of boring franchise-filler movies](https://www.polygon.com/reviews/24157385/furiosa-review-no-spoilers-george-miller-anya-taylor-joy)<!-- GAME:END -->
+ - [The Assassin&#39;s Creed Shadows reveal is saying all the right things to excite classic Assassin&#39;s Creed fans](https://www.pcgamer.com/games/assassins-creed/the-assassins-creed-shadows-reveal-is-saying-all-the-right-things-to-excite-classic-assassins-creed-fans)
+ - [3 Body Problem renewed for season 2 — and however many more seasons it needs to wrap](https://www.polygon.com/24157604/3-body-problem-season-2-renewal-ending-seasons)
+ - [Ubisoft cancels The Division Heartland, the latest AAA free-to-play game casualty](https://www.polygon.com/24157512/tom-clancys-division-heartland-canceled-ubisoft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
