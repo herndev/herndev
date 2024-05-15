@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - ⏩ [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
+ - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - ⏩ [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 ---
 
