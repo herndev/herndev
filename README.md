@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 Theft Detection Lock Knows When Your Phone Is Stolen](https://www.wired.com/story/android-15-theft-detection-lock/)
- - [All the New Features Coming to Android Phones, Watches, and TVs This Year](https://www.wired.com/story/google-io-android-ecosystem-updates-new-features/)
- - [15 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)<!-- TECH:END -->
+ - [Google and McLaren team up to showcase Android 15 features through mini-games](https://www.androidauthority.com/android-15-mini-games-3443777/)
+ - [Saunas Are the Next Frontier in Fighting Depression](https://www.wired.com/story/sauna-heat-therapy-depression-cbt-mental-health-trial/)
+ - [Google I/O 2024 wrap-up livestream: Join Android Authority live from the show today!](https://www.androidauthority.com/google-i-o-2024-roundup-livestream-android-authority-3443477/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
