@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Times Square is seen taken over. I don\u2019t even know what to say about this.](http://9gag.com/gag/aYQpgVx)
- - ⏩ [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)
- - 👉 [F**k around, find out.](http://9gag.com/gag/aqyZ70p)<!-- MEMES:END -->
+ - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - ⏩ [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
+ - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 ---
 
