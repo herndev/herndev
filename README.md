@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - ⏩ [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
+ - 💣 [Works everytime](http://9gag.com/gag/azxL9OZ)
+ - ⏩ [There are perfectly beautiful women out there](http://9gag.com/gag/a6ZdN9m)
+ - 👉 [Sourly](http://9gag.com/gag/an7X4no)<!-- MEMES:END -->
 
 ---
 
