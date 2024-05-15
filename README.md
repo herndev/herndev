@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox May Update is Rolling Out with Updates for Cloud and PC](https://news.xbox.com/en-us/2024/05/15/xbox-may-update-2024/)
- - [Assassin&#39;s Creed Shadows is leaking like a freshly-stabbed Samurai, as main character art sneaks online ahead of imminent reveal](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-is-leaking-like-a-freshly-stabbed-samurai-as-main-character-art-sneaks-online-ahead-of-imminent-reveal)
- - [What you need to know about biomes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24140393/biomes-map-city-mountains-forest-beach-spawns)<!-- GAME:END -->
+ - [Xbox Recognizes Global Accessibility Awareness Day](https://news.xbox.com/en-us/2024/05/15/xbox-global-accessibility-awareness-day-2024/)
+ - [How &lpar;And Why&rpar; To Become A Mentor in Final Fantasy XIV](https://kotaku.com/final-fantasy-xiv-battle-mentor-roulette-1851478857)
+ - [Why did Kickstarter pull down 2 high-profile tabletop campaigns this month?](https://www.polygon.com/24157232/kickstarter-wonders-of-the-first-forsaken-controversy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
