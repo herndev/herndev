@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hi-Fi Rush gets a bittersweet final patch as Tango Gameworks takes its final bow: &#39;Thank you again… You&#39;re all rockstars!&#39;](https://www.pcgamer.com/games/action/hi-fi-rush-gets-a-bittersweet-final-patch-as-tango-gameworks-takes-its-final-bow-thank-you-again-youre-all-rockstars)
- - [Diablo 4 is finally great](https://www.polygon.com/24157377/diablo-4-season-4-loot-reborn-impressions)
- - [Magical girl farm sim Fields of Mistria is bringing &#39;90s anime sparkle to early access in August](https://www.pcgamer.com/games/life-sim/magical-girl-farm-sim-fields-of-mistria-is-bringing-90s-anime-sparkle-to-early-access-in-august)<!-- GAME:END -->
+ - [Overwatch 2 Patch Makes One Tank’s Ultimate Terrifyingly Busted](https://kotaku.com/overwatch-2-sigma-ultimate-gravitic-flux-patch-notes-1851479782)
+ - [Hi-Fi Rush Devs Fix The Tiniest Bugs In One Last Update](https://kotaku.com/hi-fi-rush-final-update-patch-notes-ps5-xbox-pc-tango-1851479600)
+ - [Destiny 2 Brings Back The First Gun Players Ever Fired As A Powerful New Exotic](https://kotaku.com/destiny-2-the-final-shape-new-exotic-first-gun-khvostov-1851479505)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
