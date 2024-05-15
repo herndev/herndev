@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Terminator anime takes the cyborg time war to Tokyo, with a new AI twist](https://www.polygon.com/anime/23164952/terminator-zero-netflix-anime-release-date-first-look)
- - [NieR Devs New Mystery Game Is Definitely NieR 3, Right?](https://kotaku.com/nier-3-automata-yoko-taro-yosuke-saito-1851478254)
- - [The devs of the underplayed Marvel&#39;s Midnight Suns once more blame the game&#39;s commercial woes on the cards &lpar;I really don&#39;t think it was the cards&rpar;](https://www.pcgamer.com/games/strategy/the-devs-of-the-underplayed-marvels-midnight-suns-once-more-blame-the-games-commercial-woes-on-the-cards-i-really-dont-think-it-was-the-cards)<!-- GAME:END -->
+ - [The Xbox May Update is Rolling Out with Updates for Cloud and PC](https://news.xbox.com/en-us/2024/05/15/xbox-may-update-2024/)
+ - [Assassin&#39;s Creed Shadows is leaking like a freshly-stabbed Samurai, as main character art sneaks online ahead of imminent reveal](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-is-leaking-like-a-freshly-stabbed-samurai-as-main-character-art-sneaks-online-ahead-of-imminent-reveal)
+ - [What you need to know about biomes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24140393/biomes-map-city-mountains-forest-beach-spawns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
