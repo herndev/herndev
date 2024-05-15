@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - ⏩ [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)<!-- MEMES:END -->
+ - 💣 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - ⏩ [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
 
 ---
 
