@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [El Salvador has mined 473.5 bitcoins worth ~$29M since 2021 thanks to a volcano-fueled geothermal power plant, bringing its total bitcoin portfolio to ~$354M &lpar;Nelson Renteria/Reuters&rpar;](http://www.techmeme.com/240514/p57#a240514p57)
- - [Best Weightlifting Shoes for 2024     - CNET](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [How to mass-delete Finder tags in macOS](https://appleinsider.com/inside/macos/tips/how-to-mass-delete-finder-tags-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [12 Groomsmen Gifts They&#39;ll Actually Appreciate     - CNET](https://www.cnet.com/news/12-groomsmen-gifts-theyll-actually-appreciate/#ftag=CAD590a51e)
+ - [Cheapest Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
+ - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
