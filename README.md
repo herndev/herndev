@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody is born a hero. People become heroes when they choose to be brave and do what\u2019s right.](http://9gag.com/gag/amoL759)
- - ⏩ [The interraction that can make a grown man cry](http://9gag.com/gag/a2vPoY9)
- - 👉 [Final destination vibes](http://9gag.com/gag/a5QNMdO)<!-- MEMES:END -->
+ - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - ⏩ [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 👉 [Nippy](http://9gag.com/gag/aqyZ73v)<!-- MEMES:END -->
 
 ---
 
