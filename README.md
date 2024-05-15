@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [X-Men ’97’s Morph actor wants the shapeshifter to find love — just not with Wolverine](https://www.polygon.com/24157588/x-men-97-morph-actor-jp-karliak)
- - [Red Dead Redemption 2 Dares You To Finish It Now That It&#39;s Back On PS Plus](https://kotaku.com/red-dead-redemption-2-ps-plus-extra-may-2024-ps5-update-1851480235)
- - [Installing Assassin’s Creed Shadows Will Require An Internet Connection](https://kotaku.com/assassins-creed-shadows-online-internet-connection-1851480207)<!-- GAME:END -->
+ - [AI is listening: Omnipresent robo-moderators are the latest online anti-toxicity strategy](https://www.pcgamer.com/ai-moderators-gaming-gdc-interviews)
+ - [UK government responds to Stop Killing Games petition, and it&#39;s not good: &#39;There is no requirement in UK law&#39; that forces companies to support old software](https://www.pcgamer.com/gaming-industry/uk-government-responds-to-stop-killing-games-petition-and-its-not-good-there-is-no-requirement-in-uk-law-that-forces-companies-to-support-old-software)
+ - [X-Men ’97’s Morph actor wants the shapeshifter to find love — just not with Wolverine](https://www.polygon.com/24157588/x-men-97-morph-actor-jp-karliak)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
