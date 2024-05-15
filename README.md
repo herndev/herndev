@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - ⏩ [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
+ - 💣 [You Smoker?](http://9gag.com/gag/a2vP4WO)
+ - ⏩ [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
+ - 👉 [`mods will fix it`](http://9gag.com/gag/aPAy9gQ)<!-- MEMES:END -->
 
 ---
 
