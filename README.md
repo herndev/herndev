@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s launched a pair of new budget chips in its 8000-series, lopping the GPUs of its APUs](https://www.pcgamer.com/hardware/processors/amds-launched-a-pair-of-new-budget-chips-in-its-8000-series-lopping-the-gpus-of-its-apus)
- - [Nexon says sweaty FPS the Finals surpassed expectations at launch but has tailed-off badly, pledges to &#39;understand and address the key issues&#39;](https://www.pcgamer.com/games/fps/nexon-says-sweaty-fps-the-finals-surpassed-expectations-at-launch-but-has-tailed-off-badly-pledges-to-understand-and-address-the-key-issues)
- - [Where on the Moon is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/2024/5/15/24157126/where-on-the-moon-is-archie-location)<!-- GAME:END -->
+ - [Former Bungie composer on madcap Congressional run says he&#39;s part Reagan, part McCartney, and Tolkien about tearing it all down: &#39;The Ring of Power needs to be thrown into Mount Doom&#39;](https://www.pcgamer.com/gaming-industry/former-bungie-composer-on-madcap-congressional-run-says-hes-part-reagan-part-mccartney-and-tolkien-about-tearing-it-all-down-the-ring-of-power-needs-to-be-thrown-into-mount-doom)
+ - [XDefiant is doing away with Skill-Based Matchmaking: &#39;We believe that no SBMM is paramount to a fun and varied game&#39;](https://www.pcgamer.com/games/fps/xdefiant-is-doing-away-with-skilled-based-matchmaking-we-believe-that-no-sbmm-is-paramount-to-a-fun-and-varied-game)
+ - [Helldivers 2 dev says patrol spawn rates are busted and that Arrowhead&#39;s walking its changes back, but &#39;we want to give it proper testing&#39; to &#39;see that it works this time&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-says-patrol-spawn-rates-are-busted-and-that-arrowheads-walking-its-changes-back-but-we-want-to-give-it-proper-testing-to-see-that-it-works-this-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
