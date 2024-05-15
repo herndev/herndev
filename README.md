@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Networking infrastructure startup Alkira, which lets users virtualize hybrid cloud assets, raised a $100M Series C led by Tiger, for $176M in total funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240515/p33#a240515p33)
- - [There are a lot of new accessibility features coming in iOS 18 and visionOS 2.0](https://appleinsider.com/articles/24/05/15/there-are-a-lot-of-new-accessibility-features-coming-in-ios-18-and-visionos-20?utm_medium=rss)
- - [Max’s Dune prequel series starts streaming this fall](https://www.theverge.com/24157282/dune-prophet-prequel-series-max-trailer)<!-- TECH:END -->
+ - [Intel details Thunderbolt Share, a new specification and app to connect two PCs, letting users transfer data at 40Gbps or more, control another PC, and more &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240515/p37#a240515p37)
+ - [App Store emulator surge continues, this time for PlayStation Portable games](https://appleinsider.com/articles/24/05/15/app-store-emulator-surge-continues-this-time-for-playstation-portable-games?utm_medium=rss)
+ - [iPad line streamlining is proceeding according to Apple&#39;s secret plan](https://appleinsider.com/articles/24/05/15/ipad-line-streamlining-is-proceeding-according-to-apples-secret-plan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
