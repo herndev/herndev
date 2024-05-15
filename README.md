@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ASRock Z790I Lightning WiFi review](https://www.pcgamer.com/hardware/motherboards/asrock-z790i-lightning-wifi-motherboard-review)
- - [Today&#39;s Wordle answer for Wednesday, May 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-15-2024)
- - [Monkey Island creator Ron Gilbert&#39;s next game is &#39;classic Zelda meets Diablo meets Thimbleweed Park&#39;](https://www.pcgamer.com/games/monkey-island-creator-ron-gilberts-next-game-is-classic-zelda-meets-diablo-meets-thimbleweed-park)<!-- GAME:END -->
+ - [AMD&#39;s launched a pair of new budget chips in its 8000-series, lopping the GPUs of its APUs](https://www.pcgamer.com/hardware/processors/amds-launched-a-pair-of-new-budget-chips-in-its-8000-series-lopping-the-gpus-of-its-apus)
+ - [Nexon says sweaty FPS the Finals surpassed expectations at launch but has tailed-off badly, pledges to &#39;understand and address the key issues&#39;](https://www.pcgamer.com/games/fps/nexon-says-sweaty-fps-the-finals-surpassed-expectations-at-launch-but-has-tailed-off-badly-pledges-to-understand-and-address-the-key-issues)
+ - [Where on the Moon is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/2024/5/15/24157126/where-on-the-moon-is-archie-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
