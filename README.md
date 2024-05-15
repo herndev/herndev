@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Bungie composer on madcap Congressional run says he&#39;s part Reagan, part McCartney, and Tolkien about tearing it all down: &#39;The Ring of Power needs to be thrown into Mount Doom&#39;](https://www.pcgamer.com/gaming-industry/former-bungie-composer-on-madcap-congressional-run-says-hes-part-reagan-part-mccartney-and-tolkien-about-tearing-it-all-down-the-ring-of-power-needs-to-be-thrown-into-mount-doom)
- - [XDefiant is doing away with Skill-Based Matchmaking: &#39;We believe that no SBMM is paramount to a fun and varied game&#39;](https://www.pcgamer.com/games/fps/xdefiant-is-doing-away-with-skilled-based-matchmaking-we-believe-that-no-sbmm-is-paramount-to-a-fun-and-varied-game)
- - [Helldivers 2 dev says patrol spawn rates are busted and that Arrowhead&#39;s walking its changes back, but &#39;we want to give it proper testing&#39; to &#39;see that it works this time&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-says-patrol-spawn-rates-are-busted-and-that-arrowheads-walking-its-changes-back-but-we-want-to-give-it-proper-testing-to-see-that-it-works-this-time)<!-- GAME:END -->
+ - [How Ninja Theory Strives to Make Senua the Most Human Character in Gaming](https://news.xbox.com/en-us/2024/05/15/hellblade-2-senua-most-human-character-in-gaming/)
+ - [Animal Well tricked you into thinking it’s a Metroidvania](https://www.polygon.com/gaming/24156522/animal-well-metroidvania-not)
+ - [Leaked Dell docs suggest Qualcomm&#39;s new laptop chips could deliver nearly twice the battery life of the latest Intel CPUs](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-docs-suggest-qualcomms-new-laptop-chips-could-deliver-nearly-twice-the-battery-life-of-the-latest-intel-cpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
