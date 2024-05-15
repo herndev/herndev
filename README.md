@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Assassin&#39;s Creed Shadows reveal is saying all the right things to excite classic Assassin&#39;s Creed fans](https://www.pcgamer.com/games/assassins-creed/the-assassins-creed-shadows-reveal-is-saying-all-the-right-things-to-excite-classic-assassins-creed-fans)
- - [3 Body Problem renewed for season 2 — and however many more seasons it needs to wrap](https://www.polygon.com/24157604/3-body-problem-season-2-renewal-ending-seasons)
- - [Ubisoft cancels The Division Heartland, the latest AAA free-to-play game casualty](https://www.polygon.com/24157512/tom-clancys-division-heartland-canceled-ubisoft)<!-- GAME:END -->
+ - [X-Men ’97’s Morph actor wants the shapeshifter to find love — just not with Wolverine](https://www.polygon.com/24157588/x-men-97-morph-actor-jp-karliak)
+ - [Red Dead Redemption 2 Dares You To Finish It Now That It&#39;s Back On PS Plus](https://kotaku.com/red-dead-redemption-2-ps-plus-extra-may-2024-ps5-update-1851480235)
+ - [Installing Assassin’s Creed Shadows Will Require An Internet Connection](https://kotaku.com/assassins-creed-shadows-online-internet-connection-1851480207)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
