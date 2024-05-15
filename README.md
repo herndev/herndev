@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Chrome OS on Android was, sadly, just a fun proof of concept](https://www.androidauthority.com/chrome-os-on-android-proof-of-concept-3443722/)
- - [PPSSPP brings PSP emulation to the iPhone](https://www.theverge.com/2024/5/15/24157286/ppsspp-playstation-portable-psp-emulator-ios-app-store-iphone-ipad-apple)
- - [Some iPhone owners say the iOS 17.5 update, which Apple released on Monday, is resurfacing photos they had deleted &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240515/p43#a240515p43)<!-- TECH:END -->
+ - [Microsoft announces the Proteus Controller, a gamepad for Xbox gamers with disabilities](https://www.theverge.com/2024/5/15/24157529/microsoft-proteus-controller-xbox-accessibility)
+ - [Health Connect will finally let apps sync more than 1 month of data](https://www.androidauthority.com/health-connect-historical-background-reads-3443726/)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
