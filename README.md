@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Is Turning 15](https://www.minecraft.net/article/minecraft-turning-15%20#new_tab)
- - [Which horse should you choose in Ghost of Tsushima?](https://www.pcgamer.com/games/action/ghost-of-tsushima-horse-choice)
- - [This &#39;souls-like platonic dating simulator&#39; is &lpar;not so&rpar; secretly an Undertale-adjacent RPG with zero restraint, and I need a lie down after trying it](https://www.pcgamer.com/games/rpg/this-souls-like-platonic-dating-simulator-is-not-so-secretly-an-undertale-adjacent-rpg-with-zero-restraint-and-i-need-a-lie-down-after-trying-it)<!-- GAME:END -->
+ - [Hi-Fi Rush gets a bittersweet final patch as Tango Gameworks takes its final bow: &#39;Thank you again… You&#39;re all rockstars!&#39;](https://www.pcgamer.com/games/action/hi-fi-rush-gets-a-bittersweet-final-patch-as-tango-gameworks-takes-its-final-bow-thank-you-again-youre-all-rockstars)
+ - [Diablo 4 is finally great](https://www.polygon.com/24157377/diablo-4-season-4-loot-reborn-impressions)
+ - [Magical girl farm sim Fields of Mistria is bringing &#39;90s anime sparkle to early access in August](https://www.pcgamer.com/games/life-sim/magical-girl-farm-sim-fields-of-mistria-is-bringing-90s-anime-sparkle-to-early-access-in-august)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
