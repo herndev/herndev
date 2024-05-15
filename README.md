@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - ⏩ [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)<!-- MEMES:END -->
+ - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - ⏩ [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
 
 ---
 
