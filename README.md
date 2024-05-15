@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Recognizes Global Accessibility Awareness Day](https://news.xbox.com/en-us/2024/05/15/xbox-global-accessibility-awareness-day-2024/)
- - [How &lpar;And Why&rpar; To Become A Mentor in Final Fantasy XIV](https://kotaku.com/final-fantasy-xiv-battle-mentor-roulette-1851478857)
- - [Why did Kickstarter pull down 2 high-profile tabletop campaigns this month?](https://www.polygon.com/24157232/kickstarter-wonders-of-the-first-forsaken-controversy)<!-- GAME:END -->
+ - [Minecraft Is Turning 15](https://www.minecraft.net/article/minecraft-turning-15%20#new_tab)
+ - [Which horse should you choose in Ghost of Tsushima?](https://www.pcgamer.com/games/action/ghost-of-tsushima-horse-choice)
+ - [This &#39;souls-like platonic dating simulator&#39; is &lpar;not so&rpar; secretly an Undertale-adjacent RPG with zero restraint, and I need a lie down after trying it](https://www.pcgamer.com/games/rpg/this-souls-like-platonic-dating-simulator-is-not-so-secretly-an-undertale-adjacent-rpg-with-zero-restraint-and-i-need-a-lie-down-after-trying-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
