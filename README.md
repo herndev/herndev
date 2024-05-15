@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Setapp’s alternative iOS app store is now available in the EU, but there’s a catch](https://www.androidauthority.com/setapp-ios-app-store-available-eu-3443555/)
- - [Razer Blade 14 vs. Asus Rog Zephyrus G14: uncompromised value](https://www.theverge.com/24155889/razer-blade-14-2024-asus-rog-zephyrus-g14-comparison)
- - [How to get VMWare Fusion Pro 13 for free](https://appleinsider.com/inside/macos/tips/how-to-get-vmware-fusion-pro-13-for-free?utm_medium=rss)<!-- TECH:END -->
+ - [We gotta stop ignoring AI’s hallucination problem](https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong)
+ - [Bipartisan US Senators release a long-awaited plan for AI, calling for spending $32B annually by 2026 on R&amp;D, creating a federal data privacy law, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240515/p21#a240515p21)
+ - [Kentucky-based PayHOA, a bootstrapped startup that offers software for self-managed homeowner associations, raised a $27.5M Series A and reports 652K+ users &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240515/p20#a240515p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
