@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - ⏩ [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - ⏩ [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
  - 👉 [He&#39;s actually in hospital](http://9gag.com/gag/aGyVpow)<!-- MEMES:END -->
 
 ---
