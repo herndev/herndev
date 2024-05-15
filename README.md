@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and McLaren team up to showcase Android 15 features through mini-games](https://www.androidauthority.com/android-15-mini-games-3443777/)
- - [Saunas Are the Next Frontier in Fighting Depression](https://www.wired.com/story/sauna-heat-therapy-depression-cbt-mental-health-trial/)
- - [Google I/O 2024 wrap-up livestream: Join Android Authority live from the show today!](https://www.androidauthority.com/google-i-o-2024-roundup-livestream-android-authority-3443477/)<!-- TECH:END -->
+ - [Google says Chrome OS on Android was, sadly, just a fun proof of concept](https://www.androidauthority.com/chrome-os-on-android-proof-of-concept-3443722/)
+ - [PPSSPP brings PSP emulation to the iPhone](https://www.theverge.com/2024/5/15/24157286/ppsspp-playstation-portable-psp-emulator-ios-app-store-iphone-ipad-apple)
+ - [Some iPhone owners say the iOS 17.5 update, which Apple released on Monday, is resurfacing photos they had deleted &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240515/p43#a240515p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
