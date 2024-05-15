@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Community Update May 2024 – Movements and Requests](https://news.xbox.com/en-us/2024/05/14/community-update-may-2024-movements-and-requests/)
- - [How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern)
- - [Amazon Orders Tomb Raider Series From Fleabag Star And Writer](https://kotaku.com/amazon-tomb-raider-tv-series-movie-phoebe-waller-bridge-1851477186)<!-- GAME:END -->
+ - [Monkey Island creator Ron Gilbert&#39;s next game is &#39;classic Zelda meets Diablo meets Thimbleweed Park&#39;](https://www.pcgamer.com/games/monkey-island-creator-ron-gilberts-next-game-is-classic-zelda-meets-diablo-meets-thimbleweed-park)
+ - [Diablo 4 is finally the phenomenal action RPG I wanted it to be](https://www.pcgamer.com/games/rpg/diablo-4-is-finally-the-exceptional-action-rpg-i-wanted-it-to-be)
+ - [Community Update May 2024 – Movements and Requests](https://news.xbox.com/en-us/2024/05/14/community-update-may-2024-movements-and-requests/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
