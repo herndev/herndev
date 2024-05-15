@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Once upon a time\u2026](http://9gag.com/gag/aByQm21)
- - ⏩ [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
+ - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - ⏩ [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 👉 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)<!-- MEMES:END -->
 
 ---
 
