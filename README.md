@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel details Thunderbolt Share, a new specification and app to connect two PCs, letting users transfer data at 40Gbps or more, control another PC, and more &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240515/p37#a240515p37)
- - [App Store emulator surge continues, this time for PlayStation Portable games](https://appleinsider.com/articles/24/05/15/app-store-emulator-surge-continues-this-time-for-playstation-portable-games?utm_medium=rss)
- - [iPad line streamlining is proceeding according to Apple&#39;s secret plan](https://appleinsider.com/articles/24/05/15/ipad-line-streamlining-is-proceeding-according-to-apples-secret-plan?utm_medium=rss)<!-- TECH:END -->
+ - [Android 15 Theft Detection Lock Knows When Your Phone Is Stolen](https://www.wired.com/story/android-15-theft-detection-lock/)
+ - [All the New Features Coming to Android Phones, Watches, and TVs This Year](https://www.wired.com/story/google-io-android-ecosystem-updates-new-features/)
+ - [15 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
