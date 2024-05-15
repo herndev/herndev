@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - ⏩ [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
+ - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - ⏩ [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 👉 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)<!-- MEMES:END -->
 
 ---
 
