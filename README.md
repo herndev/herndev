@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Works everytime](http://9gag.com/gag/azxL9OZ)
- - ⏩ [There are perfectly beautiful women out there](http://9gag.com/gag/a6ZdN9m)
- - 👉 [Sourly](http://9gag.com/gag/an7X4no)<!-- MEMES:END -->
+ - 💣 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - ⏩ [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 👉 [Movie?](http://9gag.com/gag/aqyZKrZ)<!-- MEMES:END -->
 
 ---
 
