@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [ASRock Z790I Lightning WiFi review](https://www.pcgamer.com/hardware/motherboards/asrock-z790i-lightning-wifi-motherboard-review)
  - [Today&#39;s Wordle answer for Wednesday, May 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-15-2024)
- - [Monkey Island creator Ron Gilbert&#39;s next game is &#39;classic Zelda meets Diablo meets Thimbleweed Park&#39;](https://www.pcgamer.com/games/monkey-island-creator-ron-gilberts-next-game-is-classic-zelda-meets-diablo-meets-thimbleweed-park)
- - [Diablo 4 is finally the phenomenal action RPG I wanted it to be](https://www.pcgamer.com/games/rpg/diablo-4-is-finally-the-exceptional-action-rpg-i-wanted-it-to-be)<!-- GAME:END -->
+ - [Monkey Island creator Ron Gilbert&#39;s next game is &#39;classic Zelda meets Diablo meets Thimbleweed Park&#39;](https://www.pcgamer.com/games/monkey-island-creator-ron-gilberts-next-game-is-classic-zelda-meets-diablo-meets-thimbleweed-park)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
