@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - ⏩ [I don&#39;t even drink and even I&#39;ve experienced this. I don&#39;t like people](http://9gag.com/gag/a5QNWwy)
- - 👉 [Uncanny](http://9gag.com/gag/aZZW0rX)<!-- MEMES:END -->
+ - 💣 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - ⏩ [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 👉 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)<!-- MEMES:END -->
 
 ---
 
