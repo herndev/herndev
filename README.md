@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Reddit partner to bring Reddit content to OpenAI products including ChatGPT, enable Reddit to add new AI tools, and make OpenAI a Reddit ad partner &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240516/p38#a240516p38)
- - [Two brothers accused of stealing $25 million worth of crypto](https://www.theverge.com/2024/5/16/24158398/crypto-ethereum-heist-peraire-bueno-brothers)
- - [iPhone 16 takes shape, display production reportedly starts next month](https://www.androidauthority.com/iphone-16-display-production-3444189/)<!-- TECH:END -->
+ - [Newspaper conglomerate Gannett is adding AI-generated summaries to the top of its articles](https://www.theverge.com/2024/5/16/24158531/gannett-ai-generated-overviews-usa-today-memo)
+ - [Galaxy S25 to get 3nm Exynos chip that outshines Snapdragon in power efficiency](https://www.androidauthority.com/galaxy-s25-3nm-exynos-processor-3444200/)
+ - [Samsung XR rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-xr-3423453/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
