@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s Thunderbolt Share is the easiest way yet to link and share data between two PCs](https://www.pcgamer.com/hardware/networking/intels-thunderbolt-share-is-the-easiest-way-yet-to-link-and-share-data-between-two-pcs)
  - [Lorelei and the Laser Eyes review](https://www.pcgamer.com/games/puzzle/lorelei-and-the-laser-eyes-review)
- - [Today&#39;s Wordle answer for Thursday, May 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-16-2024)
- - [A medievalist&#39;s take on Manor Lords: &#39;It represents medieval peasants and their lives more fully than most games&#39;](https://www.pcgamer.com/games/city-builder/a-medievalists-take-on-manor-lords-it-represents-medieval-peasants-and-their-lives-more-fully-than-most-games)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, May 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-16-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
