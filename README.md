@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
- - ⏩ [Perrrruuuuuu!](http://9gag.com/gag/aAyVbbg)
- - 👉 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)<!-- MEMES:END -->
+ - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - ⏩ [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 👉 [I see what you did there](http://9gag.com/gag/aKGgm4N)<!-- MEMES:END -->
 
 ---
 
