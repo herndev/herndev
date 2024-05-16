@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cinematic superhero tactics game Capes is coming May 29](https://www.pcgamer.com/games/cinematic-superhero-tactics-game-capes-is-coming-may-29)
  - [The Biden administration is set to double tariffs on Chinese made semiconductors, potentially leading to more expensive PC hardware](https://www.pcgamer.com/hardware/the-biden-administration-is-set-to-double-tariffs-on-chinese-made-semiconductors-potentially-leading-to-more-expensive-pc-hardware)
- - [Intel&#39;s Thunderbolt Share is the easiest way yet to link and share data between two PCs](https://www.pcgamer.com/hardware/networking/intels-thunderbolt-share-is-the-easiest-way-yet-to-link-and-share-data-between-two-pcs)
- - [Lorelei and the Laser Eyes review](https://www.pcgamer.com/games/puzzle/lorelei-and-the-laser-eyes-review)<!-- GAME:END -->
+ - [Intel&#39;s Thunderbolt Share is the easiest way yet to link and share data between two PCs](https://www.pcgamer.com/hardware/networking/intels-thunderbolt-share-is-the-easiest-way-yet-to-link-and-share-data-between-two-pcs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
