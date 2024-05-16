@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uncanny](http://9gag.com/gag/aZZW0rX)
+ - 💣 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
  - ⏩ [Perrrruuuuuu!](http://9gag.com/gag/aAyVbbg)
  - 👉 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)<!-- MEMES:END -->
 
