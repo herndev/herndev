@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m going to watch the MoviePass documentary for one reason only](https://www.polygon.com/24158282/moviepass-max-documentary-trailer-schadenfreude)
- - [Uh-oh, I Already Hate What Final Fantasy XIV: Dawntrail Is Doing To This Job](https://kotaku.com/final-fantasy-14-dawntrail-astrologian-job-changes-1851482090)
- - [Google looks intent on breaking the business of the internet, and AI won&#39;t fix it](https://www.pcgamer.com/software/ai/google-looks-intent-on-breaking-the-business-of-the-internet-and-ai-wont-fix-it)<!-- GAME:END -->
+ - [Final Fantasy XIV Adding Mountain Dew-Themed Bird Mount](https://kotaku.com/ff14-ffxiv-mountain-dew-gaming-new-bird-mount-zu-1851482492)
+ - [Epic&#39;s 2024 Mega Sale goes live with its first-ever Dragon Age: Inquisition giveaway](https://www.pcgamer.com/games/epics-2024-mega-sale-goes-live-with-its-first-ever-dragon-age-inquisition-giveaway)
+ - [Hades 2&#39;s First Patch Makes You Faster](https://kotaku.com/hades-2-first-patch-faster-sprint-dash-resources-1851482260)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
