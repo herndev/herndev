@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
- - ⏩ [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
+ - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - ⏩ [No comment](http://9gag.com/gag/a0ePNNz)
+ - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
 
 ---
 
