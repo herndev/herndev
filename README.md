@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
+ - 💣 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
  - ⏩ [Buckle up it&#39;s going to be a bumpy ride](http://9gag.com/gag/aAyV0gZ)
- - 👉 [It was not gonna last](http://9gag.com/gag/aPAy7LV)<!-- MEMES:END -->
+ - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
 
 ---
 
