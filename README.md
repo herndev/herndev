@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ASUS 2024 Vivobook Go hits record-low price of $172](https://www.androidauthority.com/asus-2024-vivobook-go-deal-3443854/)
- - [Best 75-Inch TV in 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)
- - [Best Travel Credit Cards for May 2024     - CNET](https://www.cnet.com/personal-finance/best-travel-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony Music sends letters to 700+ AI companies, developers, and music streaming platforms warning over the &quot;unauthorized use&quot; of Sony&#39;s content in training AI &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240516/p25#a240516p25)
+ - [Apple&#39;s popular 1TB 14-inch MacBook Pro is $250 off today](https://appleinsider.com/articles/24/05/16/apples-popular-1tb-14-inch-macbook-pro-is-250-off-today?utm_medium=rss)
+ - [Intel’s new Thunderbolt Share app lets two PCs work together like one](https://www.androidauthority.com/intel-thunderbolt-share-app-3444057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
