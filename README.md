@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - ⏩ [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
+ - 💣 [Stop Defending this BS](http://9gag.com/gag/a34d455)
+ - ⏩ [Ubisoft sucking Blackrock d*ck again](http://9gag.com/gag/azxLxLz)
+ - 👉 [Damn accurate](http://9gag.com/gag/adB6Bqj)<!-- MEMES:END -->
 
 ---
 
