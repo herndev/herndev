@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - ⏩ [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 👉 [I see what you did there](http://9gag.com/gag/aKGgm4N)<!-- MEMES:END -->
+ - 💣 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
+ - ⏩ [Buckle up it&#39;s going to be a bumpy ride](http://9gag.com/gag/aAyV0gZ)
+ - 👉 [It was not gonna last](http://9gag.com/gag/aPAy7LV)<!-- MEMES:END -->
 
 ---
 
