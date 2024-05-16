@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [Lorelei and the Laser Eyes has turned me into a puzzle sicko](https://www.theverge.com/24157530/lorelei-and-the-laser-eyes-review-switch-steam)
- - [An ASUS laptop with Snapdragon X Elite chip surfaces online days ahead of launch](https://www.androidauthority.com/asus-vivobook-snapdragon-elite-3444121/)<!-- TECH:END -->
+ - [The 35 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [Tesla’s Controversial Factory Expansion Is Approved](https://www.wired.com/story/teslas-controversial-factory-expansion-is-approved/)
+ - [Don&#39;t Get Scammed: How to Safely Purchase Resale Concert Tickets     - CNET](https://www.cnet.com/personal-finance/dont-get-scammed-how-to-safely-purchase-resale-concert-tickets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
