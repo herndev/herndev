@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Newspaper conglomerate Gannett is adding AI-generated summaries to the top of its articles](https://www.theverge.com/2024/5/16/24158531/gannett-ai-generated-overviews-usa-today-memo)
- - [Galaxy S25 to get 3nm Exynos chip that outshines Snapdragon in power efficiency](https://www.androidauthority.com/galaxy-s25-3nm-exynos-processor-3444200/)
- - [Samsung XR rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-xr-3423453/)<!-- TECH:END -->
+ - [iMessage appears to be experiencing an outage](https://appleinsider.com/articles/24/05/16/imessage-appears-to-be-experiencing-an-outage?utm_medium=rss)
+ - [iMessage is having some issues today](https://www.theverge.com/2024/5/16/24158595/imessage-down-outage-iphone-apple-text-messages)
+ - [Cicada Double Brood Is Coming and Is Already Buzzing in Some Regions     - CNET](https://www.cnet.com/science/cicada-double-brood-is-coming-and-is-already-buzzing-in-some-regions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
