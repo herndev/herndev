@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Senua’s Saga: Hellblade II – How Performance Capture and Stunts Created Next-Level Combat](https://news.xbox.com/en-us/2024/05/16/hellblade-2-performance-capture-next-level-combat-design/)
- - [Installing Assassin’s Creed Shadows Will Require An Internet Connection [Updated]](https://kotaku.com/assassins-creed-shadows-online-internet-connection-1851480207)
- - [Asus&#39; tone deaf response to ongoing RMA support issues isn&#39;t going to encourage me to keep recommending Asus tech](https://www.pcgamer.com/hardware/asus-tone-deaf-response-to-ongoing-rma-support-issues-isnt-going-to-encourage-me-to-keep-recommending-asus-tech)<!-- GAME:END -->
+ - [Free Play Days – Killing Floor 2 and Planet Coaster: Console Edition](https://news.xbox.com/en-us/2024/05/16/free-play-days-killing-floor-2-and-planet-coaster-console-edition/)
+ - [Half Of PlayStation Players Still Haven&#39;t Upgraded To PS5](https://kotaku.com/playstation-4-5-sales-network-psn-users-ps5-ps4-sony-1851481409)
+ - [Los Angeles Chargers win the NFL release schedule meme wars with a maniacal Sims video](https://www.polygon.com/24158120/los-angeles-chargers-the-sims-schedule-release-meme)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
