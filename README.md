@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Play: Immortals of Aveum Joins the Play List Alongside New Member Rewards this Month](https://news.xbox.com/en-us/2024/05/16/ea-play-immortals-of-aveum-may-xbox/)
- - [My favorite anime: Joaquim Dos Santos’ journey from Macross to Sword of the Stranger](https://www.polygon.com/anime/24157255/my-favorite-anime-joaquim-dos-santos-macross-sword-of-the-stranger)
- - [The Proteus Controller is a $299 modular input device for players with disabilities and Microsoft has more good news for accessibility](https://www.pcgamer.com/hardware/controllers/the-proteus-controller-is-a-dollar299-modular-input-device-for-players-with-disabilities-and-microsoft-has-more-good-news-for-accessibility)<!-- GAME:END -->
+ - [I’m going to watch the MoviePass documentary for one reason only](https://www.polygon.com/24158282/moviepass-max-documentary-trailer-schadenfreude)
+ - [Uh-oh, I Already Hate What Final Fantasy XIV: Dawntrail Is Doing To This Job](https://kotaku.com/final-fantasy-14-dawntrail-astrologian-job-changes-1851482090)
+ - [Google looks intent on breaking the business of the internet, and AI won&#39;t fix it](https://www.pcgamer.com/software/ai/google-looks-intent-on-breaking-the-business-of-the-internet-and-ai-wont-fix-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
