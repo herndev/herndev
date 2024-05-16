@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gone in 12 seconds—Two US brothers charged with stealing $25M in crypto heist using skills they acquired at MIT](https://www.pcgamer.com/hardware/gone-in-12-secondstwo-us-brothers-charged-with-stealing-dollar25m-in-crypto-heist-using-skills-they-acquired-at-mit)
- - [Disco Elysium, an &#39;irresponsibly deep detective RPG&#39; and the &#39;frankly audacious&#39; crown jewel in our Top 100 PC games list, has its price slashed by 75%—but you&#39;ll need to be quick](https://www.pcgamer.com/games/rpg/disco-elysium-an-irresponsibly-deep-detective-rpg-and-the-frankly-audacious-crown-jewel-in-our-top-100-pc-games-list-has-its-price-slashed-by-75but-youll-need-to-be-quick)
- - [Cinematic superhero tactics game Capes is coming May 29](https://www.pcgamer.com/games/cinematic-superhero-tactics-game-capes-is-coming-may-29)<!-- GAME:END -->
+ - [Japanese Switch Online players just got an important piece of Zelda history](https://www.polygon.com/nintendo/24157710/nintendo-switch-online-zelda-links-awakening-the-frog-for-whom-the-bell-tolls)
+ - [Helldivers 2 community rallies behind wholesome hero after a remorseful villain kicks them, giving rise to Super Earth&#39;s new battlecry: &#39;im frend&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-community-rallies-behind-wholesome-hero-after-a-remorseful-villain-kicks-them-giving-rise-to-super-earths-new-battlecry-im-frend)
+ - [Gone in 12 seconds—Two US brothers charged with stealing $25M in crypto heist using skills they acquired at MIT](https://www.pcgamer.com/hardware/gone-in-12-secondstwo-us-brothers-charged-with-stealing-dollar25m-in-crypto-heist-using-skills-they-acquired-at-mit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
