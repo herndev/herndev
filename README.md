@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XIV Adding Mountain Dew-Themed Bird Mount](https://kotaku.com/ff14-ffxiv-mountain-dew-gaming-new-bird-mount-zu-1851482492)
- - [Epic&#39;s 2024 Mega Sale goes live with its first-ever Dragon Age: Inquisition giveaway](https://www.pcgamer.com/games/epics-2024-mega-sale-goes-live-with-its-first-ever-dragon-age-inquisition-giveaway)
- - [Hades 2&#39;s First Patch Makes You Faster](https://kotaku.com/hades-2-first-patch-faster-sprint-dash-resources-1851482260)<!-- GAME:END -->
+ - [Hades 2&#39;s Olympus-sized first patch introduces the quality of life fix we&#39;ve been begging for](https://www.pcgamer.com/games/roguelike/hades-2s-olympus-sized-first-patch-introduces-the-quality-of-life-fix-weve-been-begging-for)
+ - [Here’s Your First Look At Return To Silent Hill’s Iconic Monster](https://kotaku.com/return-to-silent-hill-pyramid-head-first-look-1851482793)
+ - [Internet goofballs are having a field day with King Charles’ portrait](https://www.polygon.com/24158329/king-charles-portrait-meme-jokes-red)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
