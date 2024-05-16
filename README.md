@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Collect Exclusive Disney Parks Popcorn Buckets in the New In-Game Event from Disney Dreamlight Valley](https://news.xbox.com/en-us/2024/05/16/collect-exclusive-disney-parks-popcorn-buckets-disney-dreamlight-valley/)
- - [FaZe Clan Gets Into Bed With Sports Gambling After Massive Member Purge](https://kotaku.com/faze-clan-draftkings-fantasy-sports-betting-gambling-1851481679)
- - [Your Apple TV may have become one of the best retro gaming devices out there overnight](https://www.polygon.com/24158137/apple-tv-video-game-emulators-retroarch)<!-- GAME:END -->
+ - [EA Play: Immortals of Aveum Joins the Play List Alongside New Member Rewards this Month](https://news.xbox.com/en-us/2024/05/16/ea-play-immortals-of-aveum-may-xbox/)
+ - [My favorite anime: Joaquim Dos Santos’ journey from Macross to Sword of the Stranger](https://www.polygon.com/anime/24157255/my-favorite-anime-joaquim-dos-santos-macross-sword-of-the-stranger)
+ - [The Proteus Controller is a $299 modular input device for players with disabilities and Microsoft has more good news for accessibility](https://www.pcgamer.com/hardware/controllers/the-proteus-controller-is-a-dollar299-modular-input-device-for-players-with-disabilities-and-microsoft-has-more-good-news-for-accessibility)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
