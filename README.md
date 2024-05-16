@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro Max is going to be a bit bigger than the iPhone 15 Pro Max](https://appleinsider.com/articles/24/05/16/iphone-16-pro-max-mockup-shows-size-increase-versus-iphone-15-pro-max?utm_medium=rss)
- - [A profile of Noland Arbaugh, who was paralyzed after an accident in mid-2016 and became the first person to receive Neuralink&#39;s brain implant in January 2024 &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240516/p19#a240516p19)
- - [Instagram and Facebook under EU investigation for causing child addiction and harm](https://www.theverge.com/2024/5/16/24158046/meta-facebook-instagram-eu-probe-dsa-child-safety-addiction)<!-- TECH:END -->
+ - [Hugging Face is sharing $10 million worth of compute to help beat the big AI companies](https://www.theverge.com/2024/5/16/24156755/hugging-face-celement-delangue-free-shared-gpus-ai)
+ - [Lab-Grown Meat Is on Shelves Now. But There’s a Catch](https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/)
+ - [How to use iPad as a Mac replacement and why you&#39;d want to](https://appleinsider.com/inside/ipad/tips/how-to-use-ipad-as-a-mac-replacement-and-why-youd-want-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
