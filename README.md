@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Godzilla: Nemesis DLC – King Ghidorah &amp; Hedorah Invade GigaBash](https://news.xbox.com/en-us/2024/05/16/godzilla-nemesis-dlc-gigabash/)
- - [Sonic Fans Are Going Feral Waiting For The Third Movie Trailer](https://kotaku.com/sonic-hedgehog-3-movie-trailer-shadow-paramount-1851483101)
- - [Grand Theft Auto 6 now expected out in fall 2025](https://www.polygon.com/24158506/grand-theft-auto-6-release-window-date-fall-2025)<!-- GAME:END -->
+ - [MultiVersus’ new PvE mode, explained](https://www.polygon.com/24158526/multiversus-pve-mode-rifts-video)
+ - [Shōgun’s coming back for season 2, but no one’s quite sure how just yet](https://www.polygon.com/24158477/shogun-season-2-renewal-what-about-how)
+ - [Assassin&#39;s Creed Shadows does not need an internet connection to run: &#39;You will be able to play the entire journey offline&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-does-not-need-an-internet-connection-to-run-you-will-be-able-to-play-the-entire-journey-offline)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
