@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jane Schoenbrun Wants to Blow Up Your TV](https://www.wired.com/story/i-saw-the-tv-glow-director-jane-schoenbrun/)
- - [The printer company, that makes a camera, prints one more edition](https://www.theverge.com/24158218/ricoh-gr-iii-hdf-full-frame-video)
- - [Huge 48% price drop on the Samsung Galaxy Buds 2 Pro!](https://www.androidauthority.com/deal-galaxy-buds-2-pro-3444111/)<!-- TECH:END -->
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
+ - [Lorelei and the Laser Eyes has turned me into a puzzle sicko](https://www.theverge.com/24157530/lorelei-and-the-laser-eyes-review-switch-steam)
+ - [An ASUS laptop with Snapdragon X Elite chip surfaces online days ahead of launch](https://www.androidauthority.com/asus-vivobook-snapdragon-elite-3444121/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
