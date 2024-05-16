@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A quantum-entangled photon traveled 35 kilometers under the streets of Boston](https://www.theverge.com/2024/5/16/24158365/quantum-computing-network-aws-amazon-harvard)
- - [AT&amp;T reaches for the stars with satellite-based cell service](https://www.androidauthority.com/atnt-space-based-cervice-3444171/)
- - [Figma is letting staff and early investors sell up to $900M of shares in a tender at a $12.5B valuation, down ~38% from Adobe&#39;s $20B acquisition proposal &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240516/p33#a240516p33)<!-- TECH:END -->
+ - [OpenAI and Reddit partner to bring Reddit content to OpenAI products including ChatGPT, enable Reddit to add new AI tools, and make OpenAI a Reddit ad partner &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240516/p38#a240516p38)
+ - [Two brothers accused of stealing $25 million worth of crypto](https://www.theverge.com/2024/5/16/24158398/crypto-ethereum-heist-peraire-bueno-brothers)
+ - [iPhone 16 takes shape, display production reportedly starts next month](https://www.androidauthority.com/iphone-16-display-production-3444189/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
