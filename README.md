@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches hidden M3 MacBook Air discount, dropping the laptop to $949](https://appleinsider.com/articles/24/05/16/amazon-launches-hidden-m3-macbook-air-discount-dropping-the-laptop-to-949?utm_medium=rss)
- - [YouTube formally launches YouTube Select Creator Takeovers, which will let advertisers buy out the inventory on channels representing top 1% of YouTube content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240516/p2#a240516p2)
- - [In the first high-level AI talks in Geneva, the US raised concerns about China&#39;s &quot;misuse of AI&quot; while China chided the US over &quot;restrictions and pressure&quot; on AI &lpar;Associated Press&rpar;](http://www.techmeme.com/240516/p1#a240516p1)<!-- TECH:END -->
+ - [Microsoft unveils the Proteus Controller, a $299 modular game controller kit for disabled Xbox and PC gamers by peripheral company ByoWave, shipping in the fall &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240516/p6#a240516p6)
+ - [Grab raises its annual forecast for adjusted EBITDA to $250M-$270M, up from $180M-$200M previously, after Q1 net loss narrowed to $104M from $244M a year ago &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/240516/p5#a240516p5)
+ - [Consumers protection groups across the EU file coordinated complaints against Temu, accusing the e-commerce platform of a raft of breaches related to the DSA &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240516/p4#a240516p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
