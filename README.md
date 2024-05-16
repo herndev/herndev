@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face is sharing $10 million worth of compute to help beat the big AI companies](https://www.theverge.com/2024/5/16/24156755/hugging-face-celement-delangue-free-shared-gpus-ai)
- - [Lab-Grown Meat Is on Shelves Now. But There’s a Catch](https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/)
- - [How to use iPad as a Mac replacement and why you&#39;d want to](https://appleinsider.com/inside/ipad/tips/how-to-use-ipad-as-a-mac-replacement-and-why-youd-want-to?utm_medium=rss)<!-- TECH:END -->
+ - [Download these boho wallpapers for your phone](https://www.androidauthority.com/boho-wallpapers-phone-3443873/)
+ - [Save $35 on this powerful 25,600mAh Anker power bank](https://www.androidauthority.com/anker-power-bank-deal-3443824/)
+ - [The Amazon Kindle Scribe E Ink Tablet Is the Cheapest It&#39;s Ever Been     - CNET](https://www.cnet.com/deals/the-amazon-kindle-scribe-e-ink-tablet-is-the-cheapest-its-ever-been/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
