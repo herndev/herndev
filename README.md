@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google I/O 2024: all the news from the developer conference](https://www.theverge.com/2024/5/14/24155647/google-io-news-announcements-rumors-gemini-ai)
- - [Source: Stability AI has talked to at least one potential buyer in recent weeks about a sale; it lost $30M+ in Q1 and owes ~$100M to cloud providers and others &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240515/p56#a240515p56)
- - [App Store bundle error punishes developer for success [u]](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)<!-- TECH:END -->
+ - [Oklahoma Governor Kevin Stitt signs a bill protecting bitcoin rights, ensuring the right to self-custody, transact, and mine bitcoin, effective November 1, 2024 &lpar;Susie Violet Ward/Forbes&rpar;](http://www.techmeme.com/240515/p58#a240515p58)
+ - [Bolt co-founder Ryan Breslow settles with investor Activant Capital, ending a lawsuit that accused Breslow of saddling the company with $30M in personal debt &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240515/p57#a240515p57)
+ - [NFL Releases Complete 2024 Regular Season Schedule     - CNET](https://www.cnet.com/tech/services-and-software/nfl-releases-complete-2024-regular-season-schedule/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
