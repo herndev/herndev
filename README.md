@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
- - ⏩ [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
+ - 💣 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
+ - ⏩ [I can wrap anything up](http://9gag.com/gag/a87bE0Y)
+ - 👉 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)<!-- MEMES:END -->
 
 ---
 
