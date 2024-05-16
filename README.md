@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I touched a prototype Asus ROG Ally X, and it felt better](https://www.theverge.com/2024/5/16/24157533/asus-rog-ally-x-prototype-hands-on)
- - [Google’s Live Caption feature could soon get customization options for emojis, and more](https://www.androidauthority.com/google-live-caption-emoji-emotional-intensity-customization-3443968/)
- - [JD.com reports Q1 revenue up 7% YoY to ~$36B, above ~$35.8B est., and net income up 13.9% YoY to ~$984M, after ramping up shopping perks to attract customers &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240516/p16#a240516p16)<!-- TECH:END -->
+ - [iPhone 16 Pro Max is going to be a bit bigger than the iPhone 15 Pro Max](https://appleinsider.com/articles/24/05/16/iphone-16-pro-max-mockup-shows-size-increase-versus-iphone-15-pro-max?utm_medium=rss)
+ - [A profile of Noland Arbaugh, who was paralyzed after an accident in mid-2016 and became the first person to receive Neuralink&#39;s brain implant in January 2024 &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240516/p19#a240516p19)
+ - [Instagram and Facebook under EU investigation for causing child addiction and harm](https://www.theverge.com/2024/5/16/24158046/meta-facebook-instagram-eu-probe-dsa-child-safety-addiction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
