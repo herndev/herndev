@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet baby Inc killed the Assassin&#39;s Creed franchise.](http://9gag.com/gag/a34d148)
- - ⏩ [It&#39;s important!!](http://9gag.com/gag/adB68qV)
- - 👉 [No comment](http://9gag.com/gag/a0ePNNz)<!-- MEMES:END -->
+ - 💣 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)
+ - ⏩ [Oh we have a lot of her in Western Europe. That&#39;s why we are how we are today.](http://9gag.com/gag/aryem8p)
+ - 👉 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)<!-- MEMES:END -->
 
 ---
 
