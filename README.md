@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese police in the Sichuan province dismantle an underground bank that used USDT for foreign currency exchanges worth $1.9B+, mainly to smuggle medicine &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240516/p12#a240516p12)
- - [More CMF by Nothing Phone 1 specs leak: A Nothing Phone 2a Lite?](https://www.androidauthority.com/cmf-by-nothing-phone-1-specs-leak-3443933/)
- - [Ubisoft falls ~15% after warning that Q1 net bookings will be ~&amp;euro;275M, below &amp;euro;376M est., and reporting a &amp;euro;401M adjusted operating income in FY 2024 &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/240516/p11#a240516p11)<!-- TECH:END -->
+ - [I touched a prototype Asus ROG Ally X, and it felt better](https://www.theverge.com/2024/5/16/24157533/asus-rog-ally-x-prototype-hands-on)
+ - [Google’s Live Caption feature could soon get customization options for emojis, and more](https://www.androidauthority.com/google-live-caption-emoji-emotional-intensity-customization-3443968/)
+ - [JD.com reports Q1 revenue up 7% YoY to ~$36B, above ~$35.8B est., and net income up 13.9% YoY to ~$984M, after ramping up shopping perks to attract customers &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240516/p16#a240516p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
