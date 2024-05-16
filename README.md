@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uh oh: The latest iOS update is bringing back deleted photos from years ago](https://www.androidauthority.com/ios-update-bringing-back-deleted-photos-3443881/)
- - [Watch: Samsung takes a dig at Apple with Uncrush video ad](https://www.androidauthority.com/samsung-apple-crush-ad-video-response-3443880/)
- - [US lawmakers are watching to see whether Colorado&#39;s bill for regulating AI, modeled on Connecticut&#39;s now derailed bill, can withstand the tech lobby pressure &lpar;Mallory Culhane/Politico&rpar;](http://www.techmeme.com/240516/p8#a240516p8)<!-- TECH:END -->
+ - [Google Photos could soon let you hide all the memes you backed up](https://www.androidauthority.com/google-photos-images-from-other-apps-clutter-control-3443931/)
+ - [An undercover investigation details working as a rotating cast of low-wage workers hired to pretend to be influencer girlfriends on OnlyFans &lpar;Brendan I. Koerner/Wired&rpar;](http://www.techmeme.com/240516/p9#a240516p9)
+ - [Uh oh: The latest iOS update is bringing back deleted photos from years ago](https://www.androidauthority.com/ios-update-bringing-back-deleted-photos-3443881/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
