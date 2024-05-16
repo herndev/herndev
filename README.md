@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accurate](http://9gag.com/gag/aE0G84K)
- - ⏩ [What?](http://9gag.com/gag/aW40Gzx)
- - 👉 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)<!-- MEMES:END -->
+ - 💣 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
+ - ⏩ [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
 
 ---
 
