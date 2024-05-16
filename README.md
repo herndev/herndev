@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus’ new PvE mode, explained](https://www.polygon.com/24158526/multiversus-pve-mode-rifts-video)
- - [Shōgun’s coming back for season 2, but no one’s quite sure how just yet](https://www.polygon.com/24158477/shogun-season-2-renewal-what-about-how)
- - [Assassin&#39;s Creed Shadows does not need an internet connection to run: &#39;You will be able to play the entire journey offline&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-does-not-need-an-internet-connection-to-run-you-will-be-able-to-play-the-entire-journey-offline)<!-- GAME:END -->
+ - [Randy Pitchford is &#39;a hit maker,&#39; says Take-Two CEO: &#39;We&#39;ve already identified many potential growth opportunities for the Borderlands series&#39;](https://www.pcgamer.com/games/fps/randy-pitchford-is-a-hit-maker-says-take-two-ceo-weve-already-identified-many-potential-growth-opportunities-for-the-borderlands-series)
+ - [The way Embracer&#39;s talking about The Lord of the Rings should say one thing to fans: &#39;Fly, you fools!&#39;](https://www.pcgamer.com/gaming-industry/the-way-embracers-talking-about-the-lord-of-the-rings-should-say-one-thing-to-fans-fly-you-fools)
+ - [MultiVersus’ new PvE mode, explained](https://www.polygon.com/24158526/multiversus-pve-mode-rifts-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
