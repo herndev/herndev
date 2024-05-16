@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oklahoma Governor Kevin Stitt signs a bill protecting bitcoin rights, ensuring the right to self-custody, transact, and mine bitcoin, effective November 1, 2024 &lpar;Susie Violet Ward/Forbes&rpar;](http://www.techmeme.com/240515/p58#a240515p58)
- - [Bolt co-founder Ryan Breslow settles with investor Activant Capital, ending a lawsuit that accused Breslow of saddling the company with $30M in personal debt &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240515/p57#a240515p57)
- - [NFL Releases Complete 2024 Regular Season Schedule     - CNET](https://www.cnet.com/tech/services-and-software/nfl-releases-complete-2024-regular-season-schedule/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Visa rolls out tech that will allow it to share more data about customers&#39; preferences based on their shopping history with retailers via proprietary &quot;tokens&quot; &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240515/p59#a240515p59)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Samsung mocks Apple’s crushing iPad Pro ad with its own ‘UnCrush’ pitch](https://www.theverge.com/2024/5/15/24157869/samsung-ipad-crush-ad-uncrush-galaxy-tab-s9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
