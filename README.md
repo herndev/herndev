@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A medievalist&#39;s take on Manor Lords: &#39;It represents medieval peasants and their lives more fully than most games&#39;](https://www.pcgamer.com/games/city-builder/a-medievalists-take-on-manor-lords-it-represents-medieval-peasants-and-their-lives-more-fully-than-most-games)
  - [AI is listening: Omnipresent robo-moderators are the latest online anti-toxicity strategy](https://www.pcgamer.com/ai-moderators-gaming-gdc-interviews)
- - [UK government responds to Stop Killing Games petition, and it&#39;s not good: &#39;There is no requirement in UK law&#39; that forces companies to support old software](https://www.pcgamer.com/gaming-industry/uk-government-responds-to-stop-killing-games-petition-and-its-not-good-there-is-no-requirement-in-uk-law-that-forces-companies-to-support-old-software)
- - [X-Men ’97’s Morph actor wants the shapeshifter to find love — just not with Wolverine](https://www.polygon.com/24157588/x-men-97-morph-actor-jp-karliak)<!-- GAME:END -->
+ - [UK government responds to Stop Killing Games petition, and it&#39;s not good: &#39;There is no requirement in UK law&#39; that forces companies to support old software](https://www.pcgamer.com/gaming-industry/uk-government-responds-to-stop-killing-games-petition-and-its-not-good-there-is-no-requirement-in-uk-law-that-forces-companies-to-support-old-software)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
