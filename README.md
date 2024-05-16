@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh the humanity](http://9gag.com/gag/aAyVb2Z)
- - ⏩ [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
- - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
+ - 💣 [Uncanny](http://9gag.com/gag/aZZW0rX)
+ - ⏩ [Perrrruuuuuu!](http://9gag.com/gag/aAyVbbg)
+ - 👉 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)<!-- MEMES:END -->
 
 ---
 
