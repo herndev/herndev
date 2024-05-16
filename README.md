@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aurum and Xbox Forge An Icelandic-inspired Hellblade II Jewelry Collection](https://news.xbox.com/en-us/2024/05/16/aurum-and-xbox-forge-icelandic-inspired-hellblade-2-jewelry-collection/)
- - [The new collectible Dungeons &amp; Dragons Player’s Handbook cover, revealed](https://www.polygon.com/24156680/dnd-dunegons-dragons-alt-art-phb-reveal-release-date-price)
- - [Manor Lords players debate whether it should get gallows, but the historical accuracy crowd says they should be in the stocks for even thinking of it](https://www.pcgamer.com/games/city-builder/manor-lords-players-debate-whether-it-should-get-gallows-but-the-historical-accuracy-crowd-says-they-should-be-in-the-stocks-for-even-thinking-of-it)<!-- GAME:END -->
+ - [Senua’s Saga: Hellblade II – How Performance Capture and Stunts Created Next-Level Combat](https://news.xbox.com/en-us/2024/05/16/hellblade-2-performance-capture-next-level-combat-design/)
+ - [Installing Assassin’s Creed Shadows Will Require An Internet Connection [Updated]](https://kotaku.com/assassins-creed-shadows-online-internet-connection-1851480207)
+ - [Asus&#39; tone deaf response to ongoing RMA support issues isn&#39;t going to encourage me to keep recommending Asus tech](https://www.pcgamer.com/hardware/asus-tone-deaf-response-to-ongoing-rma-support-issues-isnt-going-to-encourage-me-to-keep-recommending-asus-tech)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
