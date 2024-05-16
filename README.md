@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
- - ⏩ [I can wrap anything up](http://9gag.com/gag/a87bE0Y)
- - 👉 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)<!-- MEMES:END -->
+ - 💣 [Sweet baby Inc killed the Assassin&#39;s Creed franchise.](http://9gag.com/gag/a34d148)
+ - ⏩ [It&#39;s important!!](http://9gag.com/gag/adB68qV)
+ - 👉 [No comment](http://9gag.com/gag/a0ePNNz)<!-- MEMES:END -->
 
 ---
 
