@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop Defending this BS](http://9gag.com/gag/a34d455)
- - ⏩ [Ubisoft sucking Blackrock d*ck again](http://9gag.com/gag/azxLxLz)
- - 👉 [Damn accurate](http://9gag.com/gag/adB6Bqj)<!-- MEMES:END -->
+ - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - ⏩ [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
 
 ---
 
