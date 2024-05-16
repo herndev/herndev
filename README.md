@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - ⏩ [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
+ - 💣 [Accurate](http://9gag.com/gag/aE0G84K)
+ - ⏩ [What?](http://9gag.com/gag/aW40Gzx)
+ - 👉 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)<!-- MEMES:END -->
 
 ---
 
