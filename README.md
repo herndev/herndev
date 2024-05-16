@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best All-Clad Cookware Deals Right Now &lpar;Spring 2024&rpar;](https://www.wired.com/story/all-clad-deals/)
- - [Samsung’s customizable Music Frame speaker is receiving its first discount](https://www.theverge.com/2024/5/15/24156876/samsung-music-frame-speaker-roku-streaming-stick-4k-deal-sale)
- - [Spotify received a cease-and-desist letter from the National Music Publishers&#39; Association over its use of lyrics in its videos feature, remix tool, and more &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/240515/p54#a240515p54)<!-- TECH:END -->
+ - [Google I/O 2024: all the news from the developer conference](https://www.theverge.com/2024/5/14/24155647/google-io-news-announcements-rumors-gemini-ai)
+ - [Source: Stability AI has talked to at least one potential buyer in recent weeks about a sale; it lost $30M+ in Q1 and owes ~$100M to cloud providers and others &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240515/p56#a240515p56)
+ - [App Store bundle error punishes developer for success [u]](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
