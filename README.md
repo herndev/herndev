@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Startup security in macOS to protect your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-startup-security-in-macos-to-protect-your-mac?utm_medium=rss)
- - [Visa rolls out tech that will allow it to share more data about customers&#39; preferences based on their shopping history with retailers via proprietary &quot;tokens&quot; &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240515/p59#a240515p59)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
+ - [Amazon launches hidden M3 MacBook Air discount, dropping the laptop to $949](https://appleinsider.com/articles/24/05/16/amazon-launches-hidden-m3-macbook-air-discount-dropping-the-laptop-to-949?utm_medium=rss)
+ - [YouTube formally launches YouTube Select Creator Takeovers, which will let advertisers buy out the inventory on channels representing top 1% of YouTube content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240516/p2#a240516p2)
+ - [In the first high-level AI talks in Geneva, the US raised concerns about China&#39;s &quot;misuse of AI&quot; while China chided the US over &quot;restrictions and pressure&quot; on AI &lpar;Associated Press&rpar;](http://www.techmeme.com/240516/p1#a240516p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
