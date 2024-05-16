@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Killing Floor 2 and Planet Coaster: Console Edition](https://news.xbox.com/en-us/2024/05/16/free-play-days-killing-floor-2-and-planet-coaster-console-edition/)
- - [Half Of PlayStation Players Still Haven&#39;t Upgraded To PS5](https://kotaku.com/playstation-4-5-sales-network-psn-users-ps5-ps4-sony-1851481409)
- - [Los Angeles Chargers win the NFL release schedule meme wars with a maniacal Sims video](https://www.polygon.com/24158120/los-angeles-chargers-the-sims-schedule-release-meme)<!-- GAME:END -->
+ - [Collect Exclusive Disney Parks Popcorn Buckets in the New In-Game Event from Disney Dreamlight Valley](https://news.xbox.com/en-us/2024/05/16/collect-exclusive-disney-parks-popcorn-buckets-disney-dreamlight-valley/)
+ - [FaZe Clan Gets Into Bed With Sports Gambling After Massive Member Purge](https://kotaku.com/faze-clan-draftkings-fantasy-sports-betting-gambling-1851481679)
+ - [Your Apple TV may have become one of the best retro gaming devices out there overnight](https://www.polygon.com/24158137/apple-tv-video-game-emulators-retroarch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
