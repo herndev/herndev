@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A medievalist&#39;s take on Manor Lords: &#39;It represents medieval peasants and their lives more fully than most games&#39;](https://www.pcgamer.com/games/city-builder/a-medievalists-take-on-manor-lords-it-represents-medieval-peasants-and-their-lives-more-fully-than-most-games)
- - [AI is listening: Omnipresent robo-moderators are the latest online anti-toxicity strategy](https://www.pcgamer.com/ai-moderators-gaming-gdc-interviews)
- - [UK government responds to Stop Killing Games petition, and it&#39;s not good: &#39;There is no requirement in UK law&#39; that forces companies to support old software](https://www.pcgamer.com/gaming-industry/uk-government-responds-to-stop-killing-games-petition-and-its-not-good-there-is-no-requirement-in-uk-law-that-forces-companies-to-support-old-software)<!-- GAME:END -->
+ - [Lorelei and the Laser Eyes review](https://www.pcgamer.com/games/puzzle/lorelei-and-the-laser-eyes-review)
+ - [Today&#39;s Wordle answer for Thursday, May 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-16-2024)
+ - [A medievalist&#39;s take on Manor Lords: &#39;It represents medieval peasants and their lives more fully than most games&#39;](https://www.pcgamer.com/games/city-builder/a-medievalists-take-on-manor-lords-it-represents-medieval-peasants-and-their-lives-more-fully-than-most-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
