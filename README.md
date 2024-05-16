@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women: \u2615\ufe0f](http://9gag.com/gag/a6ZdK1A)
- - ⏩ [I see what you did there](http://9gag.com/gag/aKGgm4N)
- - 👉 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)<!-- MEMES:END -->
+ - 💣 [Oh the humanity](http://9gag.com/gag/aAyVb2Z)
+ - ⏩ [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
 
 ---
 
