@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Music sends letters to 700+ AI companies, developers, and music streaming platforms warning over the &quot;unauthorized use&quot; of Sony&#39;s content in training AI &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240516/p25#a240516p25)
- - [Apple&#39;s popular 1TB 14-inch MacBook Pro is $250 off today](https://appleinsider.com/articles/24/05/16/apples-popular-1tb-14-inch-macbook-pro-is-250-off-today?utm_medium=rss)
- - [Intel’s new Thunderbolt Share app lets two PCs work together like one](https://www.androidauthority.com/intel-thunderbolt-share-app-3444057/)<!-- TECH:END -->
+ - [Jane Schoenbrun Wants to Blow Up Your TV](https://www.wired.com/story/i-saw-the-tv-glow-director-jane-schoenbrun/)
+ - [The printer company, that makes a camera, prints one more edition](https://www.theverge.com/24158218/ricoh-gr-iii-hdf-full-frame-video)
+ - [Huge 48% price drop on the Samsung Galaxy Buds 2 Pro!](https://www.androidauthority.com/deal-galaxy-buds-2-pro-3444111/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
