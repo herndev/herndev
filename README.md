@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google One&#39;s VPN service will no longer be available as of June 20, 2024; Pixel 7 devices and Pixel Fold will get a built-in VPN via an update on June 3, 2024 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240515/p53#a240515p53)
- - [Google Sheets’ new formatting feature has Excel switchers excited](https://www.theverge.com/2024/5/15/24157659/google-sheets-tables-formatting)
- - [Samsung&#39;s half-hearted attempt to capitalize on Apple&#39;s Crush ad misses the point](https://appleinsider.com/articles/24/05/15/samsungs-half-hearted-attempt-to-capitalize-on-apples-crush-ad-misses-the-point?utm_medium=rss)<!-- TECH:END -->
+ - [11 Best All-Clad Cookware Deals Right Now &lpar;Spring 2024&rpar;](https://www.wired.com/story/all-clad-deals/)
+ - [Samsung’s customizable Music Frame speaker is receiving its first discount](https://www.theverge.com/2024/5/15/24156876/samsung-music-frame-speaker-roku-streaming-stick-4k-deal-sale)
+ - [Spotify received a cease-and-desist letter from the National Music Publishers&#39; Association over its use of lyrics in its videos feature, remix tool, and more &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/240515/p54#a240515p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
