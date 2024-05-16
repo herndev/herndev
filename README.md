@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US lawmakers are watching to see whether Colorado&#39;s bill for regulating AI, modeled on Connecticut&#39;s now derailed bill, can withstand the tech lobby pressure &lpar;Mallory Culhane/Politico&rpar;](http://www.techmeme.com/240516/p8#a240516p8)
- - [An interview with Apple&#39;s Greg Joswiak and John Ternus on the new iPad lineup, the M4 chip, why the iPad and Mac both matter, the iPad as an &quot;AI PC&quot;, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240516/p7#a240516p7)
- - [Fujifilm’s new X-T50 has a film simulation dial — and a questionable price](https://www.theverge.com/2024/5/16/24157566/fujifilm-xt50-camera-features-specs-price)<!-- TECH:END -->
+ - [Uh oh: The latest iOS update is bringing back deleted photos from years ago](https://www.androidauthority.com/ios-update-bringing-back-deleted-photos-3443881/)
+ - [Watch: Samsung takes a dig at Apple with Uncrush video ad](https://www.androidauthority.com/samsung-apple-crush-ad-video-response-3443880/)
+ - [US lawmakers are watching to see whether Colorado&#39;s bill for regulating AI, modeled on Connecticut&#39;s now derailed bill, can withstand the tech lobby pressure &lpar;Mallory Culhane/Politico&rpar;](http://www.techmeme.com/240516/p8#a240516p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
