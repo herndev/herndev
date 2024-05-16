@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh the humanity](http://9gag.com/gag/aAyVb2Z)
- - ⏩ [I see what you did there](http://9gag.com/gag/aKGgm4N)
- - 👉 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)<!-- MEMES:END -->
+ - 💣 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
+ - ⏩ [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
+ - 👉 [University of North Carolina&#39;s board just unanimously abolished the entire DEI department and transferred all funds to campus police. The UNC frat boys won. All the money earmarked to give blacks free stuff will now be used to keep them from ruining everyone else\u2019s experience.](http://9gag.com/gag/an7XQ0z)<!-- MEMES:END -->
 
 ---
 
