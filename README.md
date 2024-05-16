@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - ⏩ [It&#39;s important!!](http://9gag.com/gag/adB68qV)
- - 👉 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)<!-- MEMES:END -->
+ - 💣 [From viking to legolas](http://9gag.com/gag/adB6gQB)
+ - ⏩ [No comment](http://9gag.com/gag/a0ePNNz)
+ - 👉 [What?](http://9gag.com/gag/aW40Gzx)<!-- MEMES:END -->
 
 ---
 
