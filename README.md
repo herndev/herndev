@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos could soon let you hide all the memes you backed up](https://www.androidauthority.com/google-photos-images-from-other-apps-clutter-control-3443931/)
- - [An undercover investigation details working as a rotating cast of low-wage workers hired to pretend to be influencer girlfriends on OnlyFans &lpar;Brendan I. Koerner/Wired&rpar;](http://www.techmeme.com/240516/p9#a240516p9)
- - [Uh oh: The latest iOS update is bringing back deleted photos from years ago](https://www.androidauthority.com/ios-update-bringing-back-deleted-photos-3443881/)<!-- TECH:END -->
+ - [Chinese police in the Sichuan province dismantle an underground bank that used USDT for foreign currency exchanges worth $1.9B+, mainly to smuggle medicine &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240516/p12#a240516p12)
+ - [More CMF by Nothing Phone 1 specs leak: A Nothing Phone 2a Lite?](https://www.androidauthority.com/cmf-by-nothing-phone-1-specs-leak-3443933/)
+ - [Ubisoft falls ~15% after warning that Q1 net bookings will be ~&amp;euro;275M, below &amp;euro;376M est., and reporting a &amp;euro;401M adjusted operating income in FY 2024 &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/240516/p11#a240516p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
