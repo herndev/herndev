@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades 2&#39;s Olympus-sized first patch introduces the quality of life fix we&#39;ve been begging for](https://www.pcgamer.com/games/roguelike/hades-2s-olympus-sized-first-patch-introduces-the-quality-of-life-fix-weve-been-begging-for)
- - [Here’s Your First Look At Return To Silent Hill’s Iconic Monster](https://kotaku.com/return-to-silent-hill-pyramid-head-first-look-1851482793)
- - [Internet goofballs are having a field day with King Charles’ portrait](https://www.polygon.com/24158329/king-charles-portrait-meme-jokes-red)<!-- GAME:END -->
+ - [Godzilla: Nemesis DLC – King Ghidorah &amp; Hedorah Invade GigaBash](https://news.xbox.com/en-us/2024/05/16/godzilla-nemesis-dlc-gigabash/)
+ - [Sonic Fans Are Going Feral Waiting For The Third Movie Trailer](https://kotaku.com/sonic-hedgehog-3-movie-trailer-shadow-paramount-1851483101)
+ - [Grand Theft Auto 6 now expected out in fall 2025](https://www.polygon.com/24158506/grand-theft-auto-6-release-window-date-fall-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
