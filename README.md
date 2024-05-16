@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download these boho wallpapers for your phone](https://www.androidauthority.com/boho-wallpapers-phone-3443873/)
- - [Save $35 on this powerful 25,600mAh Anker power bank](https://www.androidauthority.com/anker-power-bank-deal-3443824/)
- - [The Amazon Kindle Scribe E Ink Tablet Is the Cheapest It&#39;s Ever Been     - CNET](https://www.cnet.com/deals/the-amazon-kindle-scribe-e-ink-tablet-is-the-cheapest-its-ever-been/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The ASUS 2024 Vivobook Go hits record-low price of $172](https://www.androidauthority.com/asus-2024-vivobook-go-deal-3443854/)
+ - [Best 75-Inch TV in 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)
+ - [Best Travel Credit Cards for May 2024     - CNET](https://www.cnet.com/personal-finance/best-travel-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
