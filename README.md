@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Japanese Switch Online players just got an important piece of Zelda history](https://www.polygon.com/nintendo/24157710/nintendo-switch-online-zelda-links-awakening-the-frog-for-whom-the-bell-tolls)
- - [Helldivers 2 community rallies behind wholesome hero after a remorseful villain kicks them, giving rise to Super Earth&#39;s new battlecry: &#39;im frend&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-community-rallies-behind-wholesome-hero-after-a-remorseful-villain-kicks-them-giving-rise-to-super-earths-new-battlecry-im-frend)
- - [Gone in 12 seconds—Two US brothers charged with stealing $25M in crypto heist using skills they acquired at MIT](https://www.pcgamer.com/hardware/gone-in-12-secondstwo-us-brothers-charged-with-stealing-dollar25m-in-crypto-heist-using-skills-they-acquired-at-mit)<!-- GAME:END -->
+ - [Aurum and Xbox Forge An Icelandic-inspired Hellblade II Jewelry Collection](https://news.xbox.com/en-us/2024/05/16/aurum-and-xbox-forge-icelandic-inspired-hellblade-2-jewelry-collection/)
+ - [The new collectible Dungeons &amp; Dragons Player’s Handbook cover, revealed](https://www.polygon.com/24156680/dnd-dunegons-dragons-alt-art-phb-reveal-release-date-price)
+ - [Manor Lords players debate whether it should get gallows, but the historical accuracy crowd says they should be in the stocks for even thinking of it](https://www.pcgamer.com/games/city-builder/manor-lords-players-debate-whether-it-should-get-gallows-but-the-historical-accuracy-crowd-says-they-should-be-in-the-stocks-for-even-thinking-of-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
