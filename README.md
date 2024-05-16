@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 35 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Tesla’s Controversial Factory Expansion Is Approved](https://www.wired.com/story/teslas-controversial-factory-expansion-is-approved/)
- - [Don&#39;t Get Scammed: How to Safely Purchase Resale Concert Tickets     - CNET](https://www.cnet.com/personal-finance/dont-get-scammed-how-to-safely-purchase-resale-concert-tickets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A quantum-entangled photon traveled 35 kilometers under the streets of Boston](https://www.theverge.com/2024/5/16/24158365/quantum-computing-network-aws-amazon-harvard)
+ - [AT&amp;T reaches for the stars with satellite-based cell service](https://www.androidauthority.com/atnt-space-based-cervice-3444171/)
+ - [Figma is letting staff and early investors sell up to $900M of shares in a tender at a $12.5B valuation, down ~38% from Adobe&#39;s $20B acquisition proposal &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240516/p33#a240516p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
