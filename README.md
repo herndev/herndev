@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s next Razr lineup might have bigger front screens for everybody](https://www.theverge.com/2024/5/17/24159259/motorola-razr-ultra-plus-2024-leak-rumor)
- - [Android 15 improves standby battery life by up to 3 hours on some devices](https://www.androidauthority.com/android-15-standby-battery-life-3444566/)
- - [Valve’s next game may have just leaked](https://www.theverge.com/2024/5/17/24159222/valve-new-game-deadlock-multiplayer-hero-shooter)<!-- TECH:END -->
+ - [FCC listings hint at an affordable Galaxy Watch FE variant coming this summer](https://www.androidauthority.com/galaxy-watch-fe-fcc-3444580/)
+ - [Microsoft’s Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
+ - [65&quot; LG C3 Series TV for Gaming     - CNET](https://www.cnet.com/tech/home-entertainment/65-lg-c3-series-tv-for-gaming-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
