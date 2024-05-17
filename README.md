@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Race to Buy TikTok Is On—but There Might Not Be a Winner](https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/)
- - [Slack confirms it is training some of its AI-powered features, but not its generative AI tool, on user content and uploads, with all users opted-in by default &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240517/p14#a240517p14)
- - [Single-tap passkeys are coming to Android 15](https://www.theverge.com/2024/5/17/24158963/gboard-passkeys-android-15-wear-os-5)<!-- TECH:END -->
+ - [Apple plans a thinner and more expensive iPhone 17 for 2025](https://appleinsider.com/articles/24/05/17/apple-plans-a-thinner-and-more-expensive-iphone-17-for-2025?utm_medium=rss)
+ - [Google streamlines sign-ins and brings passkeys to Gboard and Wear OS](https://www.androidauthority.com/android-15-wear-os-passkeys-3444477/)
+ - [Source: the Superalignment team was promised 20% of OpenAI&#39;s compute resources but requests for a fraction of that were often denied &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240517/p17#a240517p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
