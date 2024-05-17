@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - ⏩ [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
+ - 💣 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
+ - ⏩ [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 👉 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)<!-- MEMES:END -->
 
 ---
 
