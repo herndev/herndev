@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
- - ⏩ [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
- - 👉 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)<!-- MEMES:END -->
+ - 💣 [Thoughts on this](http://9gag.com/gag/aRBg4Mj)
+ - ⏩ [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
+ - 👉 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)<!-- MEMES:END -->
 
 ---
 
