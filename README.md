@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Take-Two CEO says he&#39;s &#39;not trying to be cute or difficult&#39; with vague answers about the fate of the Kerbal and OlliOlli studios, but is kind of being cute and difficult](https://www.pcgamer.com/gaming-industry/intercept-roll7-closures-update)
  - [Randy Pitchford is &#39;a hit maker,&#39; says Take-Two CEO: &#39;We&#39;ve already identified many potential growth opportunities for the Borderlands series&#39;](https://www.pcgamer.com/games/fps/randy-pitchford-is-a-hit-maker-says-take-two-ceo-weve-already-identified-many-potential-growth-opportunities-for-the-borderlands-series)
- - [The way Embracer&#39;s talking about The Lord of the Rings should say one thing to fans: &#39;Fly, you fools!&#39;](https://www.pcgamer.com/gaming-industry/the-way-embracers-talking-about-the-lord-of-the-rings-should-say-one-thing-to-fans-fly-you-fools)
- - [MultiVersus’ new PvE mode, explained](https://www.polygon.com/24158526/multiversus-pve-mode-rifts-video)<!-- GAME:END -->
+ - [The way Embracer&#39;s talking about The Lord of the Rings should say one thing to fans: &#39;Fly, you fools!&#39;](https://www.pcgamer.com/gaming-industry/the-way-embracers-talking-about-the-lord-of-the-rings-should-say-one-thing-to-fans-fly-you-fools)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
