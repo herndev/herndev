@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI, game emulators on iPhone, and iPad Pro impressions, on the AppleInsider podcast](https://appleinsider.com/articles/24/05/17/ai-game-emulators-on-iphone-and-ipad-pro-impressions-on-the-appleinsider-podcast?utm_medium=rss)
- - [Hong Kong launches a pilot program enabling digital yuan payments through major Chinese banks, first deployment of China&#39;s currency beyond the mainland &lpar;Kiuyan Wong/Bloomberg&rpar;](http://www.techmeme.com/240517/p10#a240517p10)
- - [Quick Share could soon make it even easier to connect and share files](https://www.androidauthority.com/android-quick-share-qr-code-3444391/)<!-- TECH:END -->
+ - [No, Apple is not going to delete the Clown emoji from the iPhone](https://appleinsider.com/articles/24/05/17/no-apple-is-not-going-to-delete-the-clown-emoji-from-the-iphone?utm_medium=rss)
+ - [Microsoft to add next Call of Duty to Xbox Game Pass, WSJ reports](https://www.theverge.com/2024/5/17/24158934/microsoft-call-of-duty-xbox-game-pass-plans)
+ - [Best Monitor Deals: Save Big on Gaming and Work Monitors     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
