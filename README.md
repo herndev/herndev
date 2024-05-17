@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Palestinian student who bigged up the hamas oct7 attack has had her visa revoked....now go home and see how your human rights perform.](http://9gag.com/gag/a87b6ZQ)
- - ⏩ [Life Hack!](http://9gag.com/gag/aRBgL22)
- - 👉 [Quite funny.](http://9gag.com/gag/a1mZm4D)<!-- MEMES:END -->
+ - 💣 [Samsung is mocking Apple again](http://9gag.com/gag/aD2wYdK)
+ - ⏩ [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
 
 ---
 
