@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)
- - [A closer look at all the Google Pixel 8a colors you can get](https://www.androidauthority.com/google-pixel-8a-colors-3443938/)
- - [OpenAI researcher resigns, claiming safety has taken ‘a backseat to shiny products’](https://www.theverge.com/2024/5/17/24159095/openai-jan-leike-superalignment-sam-altman-ai-safety)<!-- TECH:END -->
+ - [Delta Emulator changes logo after Adobe legal threat](https://appleinsider.com/articles/24/05/17/delta-emulator-changes-logo-after-adobe-legal-threat?utm_medium=rss)
+ - [Forget the iPhone 16, this leak reveals Apple’s most exciting iPhone in years](https://www.androidauthority.com/iphone-17-slim-leak-3444559/)
+ - [OpenAI has an unusual, extremely restrictive off-boarding agreement with a lifelong nondisparagement commitment; those who don&#39;t sign it lose all vested equity &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240517/p20#a240517p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
