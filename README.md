@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They dont make anime like this anymore](http://9gag.com/gag/a9yM6LZ)
- - ⏩ [Quite funny.](http://9gag.com/gag/a1mZm4D)
- - 👉 [Life Hack!](http://9gag.com/gag/aRBgL22)<!-- MEMES:END -->
+ - 💣 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
+ - ⏩ [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 👉 [From viking to legolas](http://9gag.com/gag/adB6gQB)<!-- MEMES:END -->
 
 ---
 
