@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop Defending this BS](http://9gag.com/gag/a34d455)
- - ⏩ [This one sparks joy.](http://9gag.com/gag/azxL57N)
- - 👉 [Discipline](http://9gag.com/gag/aZZWnAW)<!-- MEMES:END -->
+ - 💣 [They dont make anime like this anymore](http://9gag.com/gag/a9yM6LZ)
+ - ⏩ [Quite funny.](http://9gag.com/gag/a1mZm4D)
+ - 👉 [Life Hack!](http://9gag.com/gag/aRBgL22)<!-- MEMES:END -->
 
 ---
 
