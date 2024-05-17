@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Lydia Knows, a Deep Visual Novel and RPG Double-Game Pack, Arrives on Xbox](https://news.xbox.com/en-us/2024/05/17/what-lydia-knows-a-deep-visual-novel-and-rpg-double-game-pack-arrives-on-xbox/)
- - [Why am I crying because of a damn video game commercial?](https://www.polygon.com/gaming/24159066/ea-sports-college-football-trailer-analysis)
- - [Doja Cat Hates Fortnite&#39;s Waterbending And Wants Everyone To Know](https://kotaku.com/doja-cat-hates-fortnite-waterbending-1851485161)<!-- GAME:END -->
+ - [Mortal Kombat 1 Mod Recreates The Drake Vs. Kendrick Beef](https://kotaku.com/mortal-kombat-1-drake-kendrick-lamar-mod-beef-feud-1851485363)
+ - [&#39;I have this problem where once I start, I can&#39;t stop&#39;: Eric Barone discusses how Stardew Valley has affected work on his upcoming game Haunted Chocolatier](https://www.pcgamer.com/games/life-sim/i-have-this-problem-where-once-i-start-i-cant-stop-eric-barone-discusses-how-stardew-valley-has-affected-work-on-his-upcoming-game-haunted-chocolatier)
+ - [Jake Solomon&#39;s new life sim will create a cast of characters for you in a way that almost sounds like Dwarf Fortress](https://www.pcgamer.com/games/life-sim/jake-solomons-new-life-sim-will-create-a-cast-of-characters-for-you-in-a-way-that-almost-sounds-like-dwarf-fortress)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
