@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [From viking to legolas](http://9gag.com/gag/adB6gQB)
- - ⏩ [No comment](http://9gag.com/gag/a0ePNNz)
- - 👉 [What?](http://9gag.com/gag/aW40Gzx)<!-- MEMES:END -->
+ - ⏩ [Darth Vader&#39;s apprentice no one talks about](http://9gag.com/gag/ae939Bv)
+ - 👉 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)<!-- MEMES:END -->
 
 ---
 
