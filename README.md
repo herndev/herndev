@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover How Real F1 Data Creates the Ultimate Sporting Simulation in F1 Manager 2024](https://news.xbox.com/en-us/2024/05/17/real-f1-data-creates-ultimate-sporting-simulation-f1-manager-2024/)
- - [The Wild Story Of Tetris World Records Has To Be Seen To Be Believed](https://kotaku.com/the-wild-story-of-tetris-world-records-has-to-be-seen-t-1851484690)
- - [Here’s your first look at EA Sports College Football 25 gameplay](https://www.polygon.com/24158944/college-football-25-trailer-gameplay-modes)<!-- GAME:END -->
+ - [Senua’s Saga: Hellblade II – On Location at The Vast Iceland Setting](https://news.xbox.com/en-us/podcast/senuas-saga-hellblade-ii-on-location-at-the-vast-iceland-setting/#new_tab)
+ - [The Most Important Moments in Minecraft’s First 15 Years](https://news.xbox.com/en-us/2024/05/17/minecraft-15-years-most-important-moments/)
+ - [X-Men ’97 wasn’t about superheroes, it was about people](https://www.polygon.com/reviews/24158520/x-men-97-season-1-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
