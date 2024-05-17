@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
- - ⏩ [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
- - 👉 [It&#39;s important!!](http://9gag.com/gag/adB68qV)<!-- MEMES:END -->
+ - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - ⏩ [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 👉 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)<!-- MEMES:END -->
 
 ---
 
