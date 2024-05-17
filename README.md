@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Chat Log Episode 61: &lpar;Development&rpar; hell hath no fury](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-61-development-hell-hath-no-fury)
- - [Razer Viper V3 Pro review](https://www.pcgamer.com/hardware/gaming-mice/razer-viper-v3-pro-review)
- - [Hades 2&#39;s creative director says, &#39;We expect to be in early access at least through the end of this year&#39;](https://www.pcgamer.com/games/action/hades-2s-creative-director-says-we-expect-to-be-in-early-access-at-least-through-the-end-of-this-year)<!-- GAME:END -->
+ - [So far the Manor Lords modding scene is focussed on the essentials: free beer, bigger punch-ups, and letting you walk around as Geralt](https://www.pcgamer.com/games/city-builder/so-far-the-manor-lords-modding-scene-is-focussed-on-the-essentials-free-beer-bigger-punch-ups-and-letting-you-walk-around-as-geralt)
+ - [&#39;They are afraid of me&#39;: Mastermind speedrunner bends the rules of a meme contest and bakes 12 actual cookies in under 4 minutes, forces site mods to make a whole new category](https://www.pcgamer.com/games/they-are-afraid-of-me-mastermind-speedrunner-bends-the-rules-of-a-meme-contest-and-bakes-12-actual-cookies-in-under-4-minutes-forces-site-mods-to-make-a-whole-new-category)
+ - [Razer Blade 16 &lpar;2024&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-16-2024-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
