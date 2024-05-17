@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I see what you did there](http://9gag.com/gag/aKGgm4N)
- - ⏩ [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
- - 👉 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)<!-- MEMES:END -->
+ - 💣 [Stop Defending this BS](http://9gag.com/gag/a34d455)
+ - ⏩ [This one sparks joy.](http://9gag.com/gag/azxL57N)
+ - 👉 [Discipline](http://9gag.com/gag/aZZWnAW)<!-- MEMES:END -->
 
 ---
 
