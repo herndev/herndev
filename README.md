@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hades 2&#39;s creative director says, &#39;We expect to be in early access at least through the end of this year&#39;](https://www.pcgamer.com/games/action/hades-2s-creative-director-says-we-expect-to-be-in-early-access-at-least-through-the-end-of-this-year)
  - [Today&#39;s Wordle answer for Friday, May 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-17-2024)
- - [As GTA 6 draws closer, GTA 5 is still making bank](https://www.pcgamer.com/games/grand-theft-auto/as-gta-6-draws-closer-gta-5-is-still-making-bank)
- - [Take-Two CEO says he&#39;s &#39;not trying to be cute or difficult&#39; with vague answers about the fate of the Kerbal and OlliOlli studios, but is kind of being cute and difficult](https://www.pcgamer.com/gaming-industry/intercept-roll7-closures-update)<!-- GAME:END -->
+ - [As GTA 6 draws closer, GTA 5 is still making bank](https://www.pcgamer.com/games/grand-theft-auto/as-gta-6-draws-closer-gta-5-is-still-making-bank)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
