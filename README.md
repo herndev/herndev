@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans a thinner and more expensive iPhone 17 for 2025](https://appleinsider.com/articles/24/05/17/apple-plans-a-thinner-and-more-expensive-iphone-17-for-2025?utm_medium=rss)
- - [Google streamlines sign-ins and brings passkeys to Gboard and Wear OS](https://www.androidauthority.com/android-15-wear-os-passkeys-3444477/)
- - [Source: the Superalignment team was promised 20% of OpenAI&#39;s compute resources but requests for a fraction of that were often denied &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240517/p17#a240517p17)<!-- TECH:END -->
+ - [DreamCloud Is Offering Up to 50% Off Mattresses This Memorial Day     - CNET](https://www.cnet.com/deals/dreamcloud-memorial-day-deal-2024/#ftag=CAD590a51e)
+ - [OLED iPad Pro owners discover grainy display problem](https://appleinsider.com/articles/24/05/17/oled-ipad-pro-owners-discover-grainy-display-problem?utm_medium=rss)
+ - [Rare $200 price drop on the Garmin Fenix 7 Sapphire Solar](https://www.androidauthority.com/garmin-fenix-7-sapphire-solar-deal-3444503/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
