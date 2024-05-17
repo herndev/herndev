@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer Chat Log Episode 61: &lpar;Development&rpar; hell hath no fury](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-61-development-hell-hath-no-fury)
  - [Razer Viper V3 Pro review](https://www.pcgamer.com/hardware/gaming-mice/razer-viper-v3-pro-review)
- - [Hades 2&#39;s creative director says, &#39;We expect to be in early access at least through the end of this year&#39;](https://www.pcgamer.com/games/action/hades-2s-creative-director-says-we-expect-to-be-in-early-access-at-least-through-the-end-of-this-year)
- - [Today&#39;s Wordle answer for Friday, May 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-17-2024)<!-- GAME:END -->
+ - [Hades 2&#39;s creative director says, &#39;We expect to be in early access at least through the end of this year&#39;](https://www.pcgamer.com/games/action/hades-2s-creative-director-says-we-expect-to-be-in-early-access-at-least-through-the-end-of-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
