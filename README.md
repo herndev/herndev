@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMessage experienced an outage on Thursday](https://appleinsider.com/articles/24/05/16/imessage-appears-to-be-experiencing-an-outage?utm_medium=rss)
- - [Best Latex Mattresses of 2024     - CNET](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)
- - [iMessage had an outage, but now it’s back](https://www.theverge.com/2024/5/16/24158595/imessage-down-outage-iphone-apple-text-messages)<!-- TECH:END -->
+ - [Youth advocacy group Encode Justice unveils 22 policy recommendations to ensure AI protects the &quot;lives, rights, and livelihoods&quot; of young people by 2030 &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240516/p40#a240516p40)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Samsung announces first-ever open enrollment period for its Care Plus subscription](https://www.androidauthority.com/samsung-care-open-enrollemnt-3444227/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
