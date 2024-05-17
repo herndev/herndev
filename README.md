@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat 1 Mod Recreates The Drake Vs. Kendrick Beef](https://kotaku.com/mortal-kombat-1-drake-kendrick-lamar-mod-beef-feud-1851485363)
- - [&#39;I have this problem where once I start, I can&#39;t stop&#39;: Eric Barone discusses how Stardew Valley has affected work on his upcoming game Haunted Chocolatier](https://www.pcgamer.com/games/life-sim/i-have-this-problem-where-once-i-start-i-cant-stop-eric-barone-discusses-how-stardew-valley-has-affected-work-on-his-upcoming-game-haunted-chocolatier)
- - [Jake Solomon&#39;s new life sim will create a cast of characters for you in a way that almost sounds like Dwarf Fortress](https://www.pcgamer.com/games/life-sim/jake-solomons-new-life-sim-will-create-a-cast-of-characters-for-you-in-a-way-that-almost-sounds-like-dwarf-fortress)<!-- GAME:END -->
+ - [OG FF7: How To Get All Of Aerith’s Limit Breaks And Gear Before She [REDACTED]](https://kotaku.com/final-fantasy-7-ff7-aerith-ultimate-weapon-limit-break-1851485513)
+ - [How to Fast Travel in Animal Well](https://kotaku.com/animal-well-fast-travel-guide-flute-1851485528)
+ - [Redfall is getting one final update before Arkane Austin is gone forever, and it will include an offline mode](https://www.pcgamer.com/games/fps/redfall-is-getting-one-final-update-before-arkane-austin-is-gone-forever-and-it-will-include-an-offline-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
