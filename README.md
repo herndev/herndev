@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doja Cat is extremely mad about Fortnite &#39;losers&#39; who use &#39;stupid f****** non-weapons&#39; instead of having &#39;actual aim skills and FPS experience&#39;](https://www.pcgamer.com/games/battle-royale/doja-cat-is-extremely-mad-about-fortnite-losers-who-use-stupid-f-non-weapons-instead-of-having-actual-aim-skills-and-fps-experience)
- - [There&#39;s already a company that will turn your dying relatives into perverse AI homunculi for $50K](https://www.pcgamer.com/gaming-industry/theres-already-a-company-that-will-turn-your-dying-relatives-into-perverse-ai-homunculi-for-dollar50k)
- - [The Assassin’s Creed Heroes, Ranked From Worst To Best](https://kotaku.com/assassins-creed-protagonists-heroes-best-worst-ranked-1851485549)<!-- GAME:END -->
+ - [Popular Emulator Changes Logo After Adobe Sends Legal Threat](https://kotaku.com/delta-emulator-ios-logo-icon-change-adobe-legal-apple-1851485799)
+ - [Animal Well: How To Solve The Three-Lever Wave Chart Puzzle](https://kotaku.com/animal-well-three-lever-puzzle-guide-how-to-solve-1851485798)
+ - [Twitch unbans shaking butts and twerking for animated emotes](https://www.polygon.com/24159200/twitch-shaking-butts-twerking-emotes-unbanned)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
