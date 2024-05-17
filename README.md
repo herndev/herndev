@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Analyst briefing: Microsoft will launch its Cobalt 100 chips, announced in November 2023, to Azure clients as a public preview at its Build conference next week &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240516/p41#a240516p41)
  - [Youth advocacy group Encode Justice unveils 22 policy recommendations to ensure AI protects the &quot;lives, rights, and livelihoods&quot; of young people by 2030 &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240516/p40#a240516p40)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Optavia Diet Review: Does This Program Really Work for Weight Loss?     - CNET](https://www.cnet.com/health/nutrition/optavia-diet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
