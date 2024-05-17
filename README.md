@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From viking to legolas](http://9gag.com/gag/adB6gQB)
- - ⏩ [Accurate](http://9gag.com/gag/aE0G84K)
- - 👉 [Terrifying](http://9gag.com/gag/arye3Q5)<!-- MEMES:END -->
+ - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - ⏩ [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
+ - 👉 [GOTY in cooking....???](http://9gag.com/gag/a7oKOvq)<!-- MEMES:END -->
 
 ---
 
