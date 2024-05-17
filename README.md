@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMessage appears to be experiencing an outage](https://appleinsider.com/articles/24/05/16/imessage-appears-to-be-experiencing-an-outage?utm_medium=rss)
- - [iMessage is having some issues today](https://www.theverge.com/2024/5/16/24158595/imessage-down-outage-iphone-apple-text-messages)
- - [Cicada Double Brood Is Coming and Is Already Buzzing in Some Regions     - CNET](https://www.cnet.com/science/cicada-double-brood-is-coming-and-is-already-buzzing-in-some-regions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iMessage experienced an outage on Thursday](https://appleinsider.com/articles/24/05/16/imessage-appears-to-be-experiencing-an-outage?utm_medium=rss)
+ - [Best Latex Mattresses of 2024     - CNET](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)
+ - [iMessage had an outage, but now it’s back](https://www.theverge.com/2024/5/16/24158595/imessage-down-outage-iphone-apple-text-messages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
