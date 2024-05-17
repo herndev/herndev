@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)
- - ⏩ [Cope](http://9gag.com/gag/a9yMzW0)
- - 👉 [Peabrained](http://9gag.com/gag/aQzpzDK)<!-- MEMES:END -->
+ - 💣 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
+ - ⏩ [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 👉 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)<!-- MEMES:END -->
 
 ---
 
