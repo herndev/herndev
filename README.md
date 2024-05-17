@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Flip 6 could bring a key improvement to its foldable screen](https://www.androidauthority.com/samsung-galaxy-z-flip-6-crease-screen-3444336/)
- - [Twitter is officially X.com now](https://www.theverge.com/2024/5/17/23829098/twitter-x-com-url-links-switch)
- - [Prosus and parent group Naspers appoint Fabricio Bloisi as new CEO, replacing interim CEO Ervin Tu; Bloisi, who was the CEO of iFood, will start on July 1 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/240517/p3#a240517p3)<!-- TECH:END -->
+ - [X has officially adopted x.com for all its core systems; testing shows some twitter.com URLs still do not redirect depending on the browser and login status &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240517/p4#a240517p4)
+ - [Google could make a long-overdue switch with the Pixel 10 in 2025](https://www.androidauthority.com/google-pixel-10-tensor-g5-tsmc-3444347/)
+ - [Don&#39;t Rinse Your Teeth Immediately After Brushing. Here&#39;s Why     - CNET](https://www.cnet.com/health/personal-care/dont-rinse-your-teeth-immediately-after-brushing-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
