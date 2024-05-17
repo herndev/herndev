@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
- - ⏩ [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 👉 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)<!-- MEMES:END -->
+ - 💣 [Darth Vader&#39;s apprentice no one talks about](http://9gag.com/gag/ae939Bv)
+ - ⏩ [It was not gonna last](http://9gag.com/gag/aPAy7LV)
+ - 👉 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)<!-- MEMES:END -->
 
 ---
 
