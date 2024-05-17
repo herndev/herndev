@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
- - ⏩ [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
- - 👉 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)<!-- MEMES:END -->
+ - 💣 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - ⏩ [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
+ - 👉 [I see what you did there](http://9gag.com/gag/aKGgm4N)<!-- MEMES:END -->
 
 ---
 
