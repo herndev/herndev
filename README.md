@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OG FF7: How To Get All Of Aerith’s Limit Breaks And Gear Before She [REDACTED]](https://kotaku.com/final-fantasy-7-ff7-aerith-ultimate-weapon-limit-break-1851485513)
- - [How to Fast Travel in Animal Well](https://kotaku.com/animal-well-fast-travel-guide-flute-1851485528)
- - [Redfall is getting one final update before Arkane Austin is gone forever, and it will include an offline mode](https://www.pcgamer.com/games/fps/redfall-is-getting-one-final-update-before-arkane-austin-is-gone-forever-and-it-will-include-an-offline-mode)<!-- GAME:END -->
+ - [Doja Cat is extremely mad about Fortnite &#39;losers&#39; who use &#39;stupid f****** non-weapons&#39; instead of having &#39;actual aim skills and FPS experience&#39;](https://www.pcgamer.com/games/battle-royale/doja-cat-is-extremely-mad-about-fortnite-losers-who-use-stupid-f-non-weapons-instead-of-having-actual-aim-skills-and-fps-experience)
+ - [There&#39;s already a company that will turn your dying relatives into perverse AI homunculi for $50K](https://www.pcgamer.com/gaming-industry/theres-already-a-company-that-will-turn-your-dying-relatives-into-perverse-ai-homunculi-for-dollar50k)
+ - [The Assassin’s Creed Heroes, Ranked From Worst To Best](https://kotaku.com/assassins-creed-protagonists-heroes-best-worst-ranked-1851485549)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
