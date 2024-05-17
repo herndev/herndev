@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Airplane mode is activated.](http://9gag.com/gag/aO8y4ZR)
- - ⏩ [Sounds familiar?](http://9gag.com/gag/a0ePXyL)
- - 👉 [Wishing all my fellow Norwegians a happy 17th of May! Drink responsibly.](http://9gag.com/gag/aPAymnq)<!-- MEMES:END -->
+ - 💣 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
+ - ⏩ [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
+ - 👉 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)<!-- MEMES:END -->
 
 ---
 
