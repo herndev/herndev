@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Samsung is mocking Apple again](http://9gag.com/gag/aD2wYdK)
- - ⏩ [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
+ - 💣 [From viking to legolas](http://9gag.com/gag/adB6gQB)
+ - ⏩ [Accurate](http://9gag.com/gag/aE0G84K)
+ - 👉 [Terrifying](http://9gag.com/gag/arye3Q5)<!-- MEMES:END -->
 
 ---
 
