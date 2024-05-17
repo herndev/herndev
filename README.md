@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 21 to 24](https://news.xbox.com/en-us/2024/05/17/next-week-on-xbox-new-games-for-may-21-to-24/)
- - [Kai Cenat’s 100+ Hour Elden Ring Stream Is The Gaming Event Of The Season](https://kotaku.com/kai-cenat-elden-ring-stream-marathon-malenia-1851484479)
- - [&#39;We knew that was a pain point … why make that mistake again?&#39; World of Warcraft: Cataclysm Classic devs talk tinkering with the game&#39;s first divisive expansion](https://www.pcgamer.com/games/world-of-warcraft/we-knew-that-was-a-pain-point-why-make-that-mistake-again-world-of-warcraft-cataclysm-classic-devs-talk-tinkering-with-the-games-first-divisive-expansion)<!-- GAME:END -->
+ - [Discover How Real F1 Data Creates the Ultimate Sporting Simulation in F1 Manager 2024](https://news.xbox.com/en-us/2024/05/17/real-f1-data-creates-ultimate-sporting-simulation-f1-manager-2024/)
+ - [The Wild Story Of Tetris World Records Has To Be Seen To Be Believed](https://kotaku.com/the-wild-story-of-tetris-world-records-has-to-be-seen-t-1851484690)
+ - [Here’s your first look at EA Sports College Football 25 gameplay](https://www.polygon.com/24158944/college-football-25-trailer-gameplay-modes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
