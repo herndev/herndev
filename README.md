@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - ⏩ [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 👉 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)<!-- MEMES:END -->
+ - 💣 [Palestinian student who bigged up the hamas oct7 attack has had her visa revoked....now go home and see how your human rights perform.](http://9gag.com/gag/a87b6ZQ)
+ - ⏩ [Life Hack!](http://9gag.com/gag/aRBgL22)
+ - 👉 [Quite funny.](http://9gag.com/gag/a1mZm4D)<!-- MEMES:END -->
 
 ---
 
