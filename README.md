@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Headphones Required – Senua’s Saga: Hellblade II’s Binaural Audio Is Like Nothing You’ve Ever Heard](https://news.xbox.com/en-us/2024/05/17/hellblade-2-audio-design-is-like-nothing-youve-ever-heard/)
- - [How Afterlove EP survived after its creative director’s devastating death](https://www.polygon.com/gaming/24158466/afterlove-ep-fahmi-memory-pikselnesia)
- - [How to complete Strongarm Tactics in WoW Remix](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-remix-strongarm-tactics)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for May 21 to 24](https://news.xbox.com/en-us/2024/05/17/next-week-on-xbox-new-games-for-may-21-to-24/)
+ - [Kai Cenat’s 100+ Hour Elden Ring Stream Is The Gaming Event Of The Season](https://kotaku.com/kai-cenat-elden-ring-stream-marathon-malenia-1851484479)
+ - [&#39;We knew that was a pain point … why make that mistake again?&#39; World of Warcraft: Cataclysm Classic devs talk tinkering with the game&#39;s first divisive expansion](https://www.pcgamer.com/games/world-of-warcraft/we-knew-that-was-a-pain-point-why-make-that-mistake-again-world-of-warcraft-cataclysm-classic-devs-talk-tinkering-with-the-games-first-divisive-expansion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
