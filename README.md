@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delta Emulator changes logo after Adobe legal threat](https://appleinsider.com/articles/24/05/17/delta-emulator-changes-logo-after-adobe-legal-threat?utm_medium=rss)
- - [Forget the iPhone 16, this leak reveals Apple’s most exciting iPhone in years](https://www.androidauthority.com/iphone-17-slim-leak-3444559/)
- - [OpenAI has an unusual, extremely restrictive off-boarding agreement with a lifelong nondisparagement commitment; those who don&#39;t sign it lose all vested equity &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240517/p20#a240517p20)<!-- TECH:END -->
+ - [Motorola’s next Razr lineup might have bigger front screens for everybody](https://www.theverge.com/2024/5/17/24159259/motorola-razr-ultra-plus-2024-leak-rumor)
+ - [Android 15 improves standby battery life by up to 3 hours on some devices](https://www.androidauthority.com/android-15-standby-battery-life-3444566/)
+ - [Valve’s next game may have just leaked](https://www.theverge.com/2024/5/17/24159222/valve-new-game-deadlock-multiplayer-hero-shooter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
