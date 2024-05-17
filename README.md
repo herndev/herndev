@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DreamCloud Is Offering Up to 50% Off Mattresses This Memorial Day     - CNET](https://www.cnet.com/deals/dreamcloud-memorial-day-deal-2024/#ftag=CAD590a51e)
- - [OLED iPad Pro owners discover grainy display problem](https://appleinsider.com/articles/24/05/17/oled-ipad-pro-owners-discover-grainy-display-problem?utm_medium=rss)
- - [Rare $200 price drop on the Garmin Fenix 7 Sapphire Solar](https://www.androidauthority.com/garmin-fenix-7-sapphire-solar-deal-3444503/)<!-- TECH:END -->
+ - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)
+ - [A closer look at all the Google Pixel 8a colors you can get](https://www.androidauthority.com/google-pixel-8a-colors-3443938/)
+ - [OpenAI researcher resigns, claiming safety has taken ‘a backseat to shiny products’](https://www.theverge.com/2024/5/17/24159095/openai-jan-leike-superalignment-sam-altman-ai-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
