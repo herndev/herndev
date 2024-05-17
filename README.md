@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Teslas might lose Steam](https://www.theverge.com/2024/5/17/24158929/tesla-steam-discontinue-new-model-x-delivery-s-cybertruck)
- - [OpenAI’s Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
- - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)<!-- TECH:END -->
+ - [The Race to Buy TikTok Is On—but There Might Not Be a Winner](https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/)
+ - [Slack confirms it is training some of its AI-powered features, but not its generative AI tool, on user content and uploads, with all users opted-in by default &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240517/p14#a240517p14)
+ - [Single-tap passkeys are coming to Android 15](https://www.theverge.com/2024/5/17/24158963/gboard-passkeys-android-15-wear-os-5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
