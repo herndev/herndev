@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From viking to legolas](http://9gag.com/gag/adB6gQB)
- - ⏩ [Darth Vader&#39;s apprentice no one talks about](http://9gag.com/gag/ae939Bv)
- - 👉 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)<!-- MEMES:END -->
+ - 💣 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)
+ - ⏩ [Cope](http://9gag.com/gag/a9yMzW0)
+ - 👉 [Peabrained](http://9gag.com/gag/aQzpzDK)<!-- MEMES:END -->
 
 ---
 
