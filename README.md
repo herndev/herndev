@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again?utm_medium=rss)
- - [OpenAI says ChatGPT can now directly import files from Google Drive and Microsoft OneDrive, available to Plus, Team, and Enterprise users &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240517/p1#a240517p1)
- - [Fay, which connects registered dietitians with insurance providers and patients, emerges from stealth with $25M in funding from General Catalyst and Forerunner &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240516/p44#a240516p44)<!-- TECH:END -->
+ - [A look at Maven, a new social network backed by Ev Williams, Sam Altman, and others, where users follow interests and topics instead of accounts &lpar;Matthew Hutson/Wired&rpar;](http://www.techmeme.com/240517/p2#a240517p2)
+ - [Record Solar Installations Are Good News for Avoiding Summer Power Outages     - CNET](https://www.cnet.com/home/energy-and-utilities/record-solar-installations-are-good-news-for-avoiding-summer-power-outages/#ftag=CAD590a51e)
+ - [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
