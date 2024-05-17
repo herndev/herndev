@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, Apple is not going to delete the Clown emoji from the iPhone](https://appleinsider.com/articles/24/05/17/no-apple-is-not-going-to-delete-the-clown-emoji-from-the-iphone?utm_medium=rss)
- - [Microsoft to add next Call of Duty to Xbox Game Pass, WSJ reports](https://www.theverge.com/2024/5/17/24158934/microsoft-call-of-duty-xbox-game-pass-plans)
- - [Best Monitor Deals: Save Big on Gaming and Work Monitors     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Teslas might lose Steam](https://www.theverge.com/2024/5/17/24158929/tesla-steam-discontinue-new-model-x-delivery-s-cybertruck)
+ - [OpenAI’s Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
+ - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
