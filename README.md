@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple to use higher energy density battery cells for iPhone 16 Pro Max and stainless steel battery cases for better replaceability, an EU requirement &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240517/p6#a240517p6)
- - [How to Use AirDrop to Quickly Send Photos and Files     - CNET](https://www.cnet.com/tech/mobile/how-to-use-airdrop-to-quickly-send-photos-and-files/#ftag=CAD590a51e)
- - [The 11 Best Early Memorial Day 2024 Mattress Deals](https://www.wired.com/story/best-mattress-deals/)<!-- TECH:END -->
+ - [Microsoft partnership with Mistral AI will avoid a UK antitrust probe after the CMA finds Microsoft can&#39;t &quot;materially influence&quot; Mistral&#39;s commercial policy &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240517/p8#a240517p8)
+ - [Merchants in Japan can finally use Tap to Pay for iPhone](https://appleinsider.com/articles/24/05/17/merchants-in-japan-can-finally-use-tap-to-pay-for-iphone?utm_medium=rss)
+ - [iPad Pro hands on: Luxury technology in an impossibly-thin package](https://appleinsider.com/articles/24/05/17/ipad-pro-hands-on-luxury-technology-in-an-impossibly-thin-package?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
