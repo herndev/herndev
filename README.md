@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - ⏩ [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 👉 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)<!-- MEMES:END -->
+ - 💣 [Cope](http://9gag.com/gag/a9yMzW0)
+ - ⏩ [Stop Defending this BS](http://9gag.com/gag/a34d455)
+ - 👉 [Discipline](http://9gag.com/gag/aZZWnAW)<!-- MEMES:END -->
 
 ---
 
