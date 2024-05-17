@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft partnership with Mistral AI will avoid a UK antitrust probe after the CMA finds Microsoft can&#39;t &quot;materially influence&quot; Mistral&#39;s commercial policy &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240517/p8#a240517p8)
- - [Merchants in Japan can finally use Tap to Pay for iPhone](https://appleinsider.com/articles/24/05/17/merchants-in-japan-can-finally-use-tap-to-pay-for-iphone?utm_medium=rss)
- - [iPad Pro hands on: Luxury technology in an impossibly-thin package](https://appleinsider.com/articles/24/05/17/ipad-pro-hands-on-luxury-technology-in-an-impossibly-thin-package?utm_medium=rss)<!-- TECH:END -->
+ - [AI, game emulators on iPhone, and iPad Pro impressions, on the AppleInsider podcast](https://appleinsider.com/articles/24/05/17/ai-game-emulators-on-iphone-and-ipad-pro-impressions-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Hong Kong launches a pilot program enabling digital yuan payments through major Chinese banks, first deployment of China&#39;s currency beyond the mainland &lpar;Kiuyan Wong/Bloomberg&rpar;](http://www.techmeme.com/240517/p10#a240517p10)
+ - [Quick Share could soon make it even easier to connect and share files](https://www.androidauthority.com/android-quick-share-qr-code-3444391/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
