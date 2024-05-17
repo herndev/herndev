@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Senua’s Saga: Hellblade II – On Location at The Vast Iceland Setting](https://news.xbox.com/en-us/podcast/senuas-saga-hellblade-ii-on-location-at-the-vast-iceland-setting/#new_tab)
- - [The Most Important Moments in Minecraft’s First 15 Years](https://news.xbox.com/en-us/2024/05/17/minecraft-15-years-most-important-moments/)
- - [X-Men ’97 wasn’t about superheroes, it was about people](https://www.polygon.com/reviews/24158520/x-men-97-season-1-review)<!-- GAME:END -->
+ - [What Lydia Knows, a Deep Visual Novel and RPG Double-Game Pack, Arrives on Xbox](https://news.xbox.com/en-us/2024/05/17/what-lydia-knows-a-deep-visual-novel-and-rpg-double-game-pack-arrives-on-xbox/)
+ - [Why am I crying because of a damn video game commercial?](https://www.polygon.com/gaming/24159066/ea-sports-college-football-trailer-analysis)
+ - [Doja Cat Hates Fortnite&#39;s Waterbending And Wants Everyone To Know](https://kotaku.com/doja-cat-hates-fortnite-waterbending-1851485161)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
