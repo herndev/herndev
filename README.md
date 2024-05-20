@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Photo Bug Exposes the Myth of ‘Deleted’](https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/)
- - [Meta approved AI-manipulated Facebook ads during India&#39;s election that spread disinfo and incited religious violence; civil groups submitted them as a test &lpar;Hannah Ellis-Petersen/The Guardian&rpar;](http://www.techmeme.com/240520/p38#a240520p38)
- - [Zoom reports Q1 revenue up 3.2% YoY to $1.14B, vs. $1.13B est., enterprise revenue up 5.3% YoY to $665.7M, and a Q2 sales forecast in line with estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240520/p37#a240520p37)<!-- TECH:END -->
+ - [She sold her bathwater — PayPal took her profits](https://www.theverge.com/2024/5/20/24161207/belle-delphine-bathwater-paypal-adult-content)
+ - [Scarlett Johansson says she declined to voice ChatGPT, and when she heard Sky she was &quot;shocked&quot; that Sam Altman would pursue a voice so &quot;eerily similar&quot; to hers &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240520/p41#a240520p41)
+ - [Scarlett Johansson told OpenAI not to use her voice — and it did anyway](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
