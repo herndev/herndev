@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)
- - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
- - [Good news for prospective Galaxy Watch 7 buyers: Samsung is speeding up charging](https://www.androidauthority.com/samsung-galaxy-watch-7-wireless-charging-3444779/)<!-- TECH:END -->
+ - [Android 15 gets a new avatar picker app that syncs your Google Account photo](https://www.androidauthority.com/android-15-avatar-picker-3444598/)
+ - [A look at Snap&#39;s shift towards investing aggressively in AI and AR after revamping its ad business, as it tries to adapt to changing social media habits &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240520/p2#a240520p2)
+ - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
