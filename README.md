@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - ⏩ [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
+ - 💣 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
+ - ⏩ [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 👉 [Just a reminder](http://9gag.com/gag/a9yMO8Z)<!-- MEMES:END -->
 
 ---
 
