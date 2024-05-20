@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - ⏩ [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 👉 [8th and 12th and 22nd... all are ground floors :&rpar;](http://9gag.com/gag/aAyVMxE)<!-- MEMES:END -->
+ - 💣 [Composition examples - Photography](http://9gag.com/gag/aqyZYeQ)
+ - ⏩ [Parents showing their moves from the 80s. Dads killed it](http://9gag.com/gag/aQzpORK)
+ - 👉 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)<!-- MEMES:END -->
 
 ---
 
