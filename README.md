@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Around 58 countries now offer a digital nomad visa, as governments compete with each other to attract talent; the number of US digital nomads hit 17.3M in 2023 &lpar;Emma Agyemang/Financial Times&rpar;](http://www.techmeme.com/240519/p15#a240519p15)
- - [If you want an iPad Pro Magic Keyboard that matches the Siri Remote, it&#39;ll cost you](https://appleinsider.com/articles/24/05/19/user-pays-double-to-make-magic-keyboard-that-matches-the-siri-remote?utm_medium=rss)
- - [Best E-Reader for 2024     - CNET](https://www.cnet.com/tech/computing/best-e-reader/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to easily see what was talked about at every WWDC session since 2000](https://appleinsider.com/inside/wwdc/tips/how-to-easily-see-what-was-talked-about-at-every-wwdc-session-since-2000?utm_medium=rss)
+ - [A look at Overland AI, Potential, and other startups developing off-road self-driving systems, including for military operations, underground mining, and more &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240519/p16#a240519p16)
+ - [Two students find security bug that could let millions do laundry for free](https://www.theverge.com/2024/5/19/24160383/students-security-bug-laundry-machines-csc-serviceworks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
