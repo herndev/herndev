@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, May 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-20-2024)
  - [Five new Steam games you probably missed &lpar;May 20, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-20-2024)
- - [Here&#39;s the dystopian cooking simulator about frying up illegal eggs in Antarctica that you&#39;ve always wanted](https://www.pcgamer.com/games/heres-the-dystopian-cooking-simulator-about-frying-up-illegal-eggs-in-antarctica-that-youve-always-wanted)
- - [Lootun is an auto-battling RPG for people who just really love managing their party&#39;s gear](https://www.pcgamer.com/games/lootun-is-an-auto-battling-rpg-for-people-who-just-really-love-managing-their-partys-gear)<!-- GAME:END -->
+ - [Here&#39;s the dystopian cooking simulator about frying up illegal eggs in Antarctica that you&#39;ve always wanted](https://www.pcgamer.com/games/heres-the-dystopian-cooking-simulator-about-frying-up-illegal-eggs-in-antarctica-that-youve-always-wanted)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
