@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many outlets have increased reliance on Apple News+; The Daily Beast is set to make $3M-4M from it in 2024, and Time says it delivers 7-figure annual revenue &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/240519/p17#a240519p17)
- - [Best Healthy Meal Delivery Services of 2024, Tested and Reviewed     - CNET](https://www.cnet.com/health/nutrition/best-healthy-meal-delivery-service/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes of 2024     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Good news for prospective Galaxy Watch 7 buyers: Samsung is speeding up charging](https://www.androidauthority.com/samsung-galaxy-watch-7-wireless-charging-3444779/)
+ - [An interview with Kokusai Electric CEO Fumiyuki Kanai on KKR&#39;s role in the Japanese chip equipment maker&#39;s IPO, becoming an advocate for PE in Japan, and more &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/240520/p1#a240520p1)
+ - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
