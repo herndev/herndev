@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
- - ⏩ [How the table didn&#39;t break with the weight of his balls?](http://9gag.com/gag/abAqObp)
- - 👉 [Testing a 1920 microphone](http://9gag.com/gag/a9yMvw6)<!-- MEMES:END -->
+ - 💣 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
+ - ⏩ [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
 
 ---
 
