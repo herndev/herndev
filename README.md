@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Composition examples - Photography](http://9gag.com/gag/aqyZYeQ)
- - ⏩ [Parents showing their moves from the 80s. Dads killed it](http://9gag.com/gag/aQzpORK)
- - 👉 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)<!-- MEMES:END -->
+ - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - ⏩ [Imagine the opening battle scene...](http://9gag.com/gag/aE0GWbo)
+ - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
 
 ---
 
