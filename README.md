@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iOS &amp; iPadOS update fixes reappearing photos bug](https://appleinsider.com/articles/24/05/20/new-ios-ipados-update-fixes-reappearing-photos-bug?utm_medium=rss)
- - [Google plans to to reuse heat after expanding a data center for AI](https://www.theverge.com/2024/5/20/24160788/google-ai-data-center-expansion-heat-recovery)
- - [Microsoft’s new Surface Pro gets an OLED display for the first time](https://www.theverge.com/2024/5/20/24160743/microsoft-surface-pro-10-oled-screen-new-feature)<!-- TECH:END -->
+ - [Inside Microsoft’s mission to take down the MacBook Air](https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-mi1)
+ - [OpenAI pauses a ChatGPT voice after Scarlett Johansson comparisons](https://www.androidauthority.com/chatgpt-voice-paused-3444988/)
+ - [Acer, Dell, HP, and Lenovo all joined Microsoft in debuting laptops featuring Qualcomm&#39;s Snapdragon X Elite or Plus chips, some promising multi-day battery life &lpar;Brandon Hill/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240520/p28#a240520p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
