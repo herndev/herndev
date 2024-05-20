@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty’s Next Crossover Brings Gundam To The Game](https://kotaku.com/call-of-duty-warzone-gundam-crossover-1851489124)
- - [Take-Two CEO says he&#39;s &#39;highly confident&#39; GTA6 will make its release window, gets all philosophical about it: &#39;Perfection is indeed hard to measure, it really is more subjective than objective&#39;](https://www.pcgamer.com/games/grand-theft-auto/take-two-ceo-says-hes-highly-confident-gta6-will-make-its-release-window-gets-all-philosophical-about-it-perfection-is-indeed-hard-to-measure-it-really-is-more-subjective-than-objective)
- - [I Saw the TV Glow is a powerful call to action — any action](https://www.polygon.com/24160895/i-saw-the-tv-glow-ending-explained-interpretation)<!-- GAME:END -->
+ - [Pokémon YouTuber Gets $157 From GameStop For $328 Worth Of Cards](https://kotaku.com/pokemon-card-trade-in-gamestop-youtube-leonhart-1851489326)
+ - [A new native port of Majora&#39;s Mask might change how we play N64 games on our PCs](https://www.pcgamer.com/games/adventure/a-new-native-port-of-majoras-mask-might-change-how-we-play-n64-games-on-our-pcs)
+ - [Call Of Duty’s Next Crossover Brings Gundam To The Game](https://kotaku.com/call-of-duty-warzone-gundam-crossover-1851489124)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
