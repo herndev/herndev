@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You will soon be able to use ChatGPT instantly on mobile](https://www.androidauthority.com/use-chatgpt-without-account-mobile-3444803/)
- - [OpenAI pauses the use of the Sky voice in ChatGPT after users said it sounded too much like Scarlett Johansson, says voice was not chosen to be an &quot;imitation&quot; &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240520/p4#a240520p4)
- - [How Nvidia co-founder Curtis Priem is trying to make New York a quantum computing hub, including putting a quantum computer at Rensselaer Polytechnic Institute &lpar;Jimmy Vielkind/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p3#a240520p3)<!-- TECH:END -->
+ - [Apple TV hardware storage limits will keep most emulators away](https://appleinsider.com/articles/24/05/20/apple-tv-hardware-storage-limits-will-keep-most-emulators-away?utm_medium=rss)
+ - [Moto Razr &lpar;2024&rpar; leak points to big upgrade for cheaper model &lpar;Update: Price&rpar;](https://www.androidauthority.com/motorola-razr-2024-cover-display-3444660/)
+ - [Don&#39;t get too excited about new iPhone trade-in bonuses from Apple](https://appleinsider.com/articles/24/05/20/dont-get-too-excited-about-new-iphone-trade-in-bonuses-from-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
