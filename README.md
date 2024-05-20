@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Microsoft’s mission to take down the MacBook Air](https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-mi1)
- - [OpenAI pauses a ChatGPT voice after Scarlett Johansson comparisons](https://www.androidauthority.com/chatgpt-voice-paused-3444988/)
- - [Acer, Dell, HP, and Lenovo all joined Microsoft in debuting laptops featuring Qualcomm&#39;s Snapdragon X Elite or Plus chips, some promising multi-day battery life &lpar;Brandon Hill/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240520/p28#a240520p28)<!-- TECH:END -->
+ - [Microsoft Surface Pro &lpar;11th Edition&rpar; and Surface Laptop &lpar;7th Edition&rpar;: Specs, Price, Features, Release Date](https://www.wired.com/story/everything-announced-microsoft-surface-event-2024/)
+ - [Microsoft unveils next-gen Surface Pro and Surface Laptop with AI smarts](https://www.androidauthority.com/microsoft-announces-new-surface-pro-suface-laptop-3444983/)
+ - [Core design: Why the iPad Pro can be faster than your Mac](https://appleinsider.com/articles/24/05/20/core-design-why-the-ipad-pro-can-be-faster-than-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
