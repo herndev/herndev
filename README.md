@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - ⏩ [Imagine the opening battle scene...](http://9gag.com/gag/aE0GWbo)
- - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
+ - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - ⏩ [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
+ - 👉 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)<!-- MEMES:END -->
 
 ---
 
