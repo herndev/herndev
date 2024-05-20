@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - ⏩ [Freedom of speech.](http://9gag.com/gag/avyZdjX)
- - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
+ - 💣 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
+ - ⏩ [Don&#39;t go in there!](http://9gag.com/gag/aPAy1Kw)
+ - 👉 [Gaming in your 30&#39;s](http://9gag.com/gag/a34dW3r)<!-- MEMES:END -->
 
 ---
 
