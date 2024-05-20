@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google CEO Sundar Pichai on AI-powered search and the future of the web](https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview)
- - [If you&#39;re buying a new iPad Pro, your old magnetic stand won&#39;t work](https://appleinsider.com/articles/24/05/20/if-youre-buying-a-new-ipad-pro-your-old-magnetic-stand-wont-work?utm_medium=rss)
- - [Grayscale CEO Michael Sonnenshein resigns, to be replaced by the head of strategy for asset and wealth manager at Goldman Sachs, Peter Mintzberg, on August 15 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240520/p10#a240520p10)<!-- TECH:END -->
+ - [Q&amp;A with Sundar Pichai about Google I/O announcements, AI Overviews&#39; high clickthrough rates, competing with OpenAI, future of search, AI advancements, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240520/p12#a240520p12)
+ - [Apple’s time travel comedy Time Bandits starts streaming in July](https://www.theverge.com/2024/5/20/24160764/time-bandits-streaming-release-date-apple-tv-plus)
+ - [LG&#39;s 34-inch UltraGear monitor plunges to $549 at Amazon today](https://appleinsider.com/articles/24/05/20/lgs-34-inch-ultragear-monitor-plunges-to-549-at-amazon-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
