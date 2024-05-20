@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Zen 6 could deliver a full 32-core chiplet, with Zen 5c reportedly set to offer its own 16-core CCX](https://www.pcgamer.com/hardware/processors/amd-zen-6-could-deliver-a-full-32-core-chiplet-with-zen-5c-reportedly-set-to-offer-its-own-16-core-ccx)
- - [Bummer: Tesla&#39;s &#39;gaming computer&#39; that it built a car around for some reason will be &#39;no longer capable of playing Steam games&#39;](https://www.pcgamer.com/hardware/bummer-teslas-gaming-computer-that-it-built-a-car-around-for-some-reason-will-be-no-longer-capable-of-playing-steam-games)
- - [Google&#39;s new AI search feature has been recommending people drink urine &lpar;&#39;light in color&#39;&rpar; so here&#39;s how to turn its AI Overviews off to avoid such dodgy advice](https://www.pcgamer.com/software/ai/googles-new-ai-search-feature-has-been-recommending-people-drink-urine-light-in-color-so-heres-how-to-turn-its-ai-overviews-off-to-avoid-such-dodgy-advice)<!-- GAME:END -->
+ - [The Taskmaster VR game is out in a few weeks, and Little Alex Horne is resigned to what his avatar can expect from you sickos: &#39;They will definitely do things to me&#39;](https://www.pcgamer.com/games/vr/the-taskmaster-vr-game-is-out-in-a-few-weeks-and-little-alex-horne-is-resigned-to-what-his-avatar-can-expect-from-you-sickos-they-will-definitely-do-things-to-me)
+ - [Video game movies keep relying on the wrong kind of violence](https://www.polygon.com/24158527/video-game-movies-violence-boy-kills-world)
+ - [AMD Zen 6 could deliver a full 32-core chiplet, with Zen 5c reportedly set to offer its own 16-core CCX](https://www.pcgamer.com/hardware/processors/amd-zen-6-could-deliver-a-full-32-core-chiplet-with-zen-5c-reportedly-set-to-offer-its-own-16-core-ccx)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
