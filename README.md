@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [See some lost alpha footage of the original Vampire: The Masquerade – Bloodlines](https://www.pcgamer.com/games/rpg/see-some-lost-alpha-footage-of-the-original-vampire-the-masquerade-bloodlines)
  - [Capes is a superhero game about the legacy its heroes inherit, but also the legacy of turn-based tactics as a genre](https://www.pcgamer.com/games/strategy/capes-is-a-superhero-game-about-the-legacy-its-heroes-inherit-but-also-the-legacy-of-turn-based-tactics-as-a-genre)
- - [Today&#39;s Wordle answer for Monday, May 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-20-2024)
- - [Five new Steam games you probably missed &lpar;May 20, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-20-2024)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, May 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-20-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
