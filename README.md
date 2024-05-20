@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [TCL smashes the refresh rate barrier as it demonstrates a 4K 1000Hz panel](https://www.pcgamer.com/hardware/gaming-monitors/tcl-smashes-the-refresh-rate-barrier-as-it-demonstrates-a-4k-1000hz-panel)
  - [See some lost alpha footage of the original Vampire: The Masquerade – Bloodlines](https://www.pcgamer.com/games/rpg/see-some-lost-alpha-footage-of-the-original-vampire-the-masquerade-bloodlines)
- - [Capes is a superhero game about the legacy its heroes inherit, but also the legacy of turn-based tactics as a genre](https://www.pcgamer.com/games/strategy/capes-is-a-superhero-game-about-the-legacy-its-heroes-inherit-but-also-the-legacy-of-turn-based-tactics-as-a-genre)
- - [Today&#39;s Wordle answer for Monday, May 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-20-2024)<!-- GAME:END -->
+ - [Capes is a superhero game about the legacy its heroes inherit, but also the legacy of turn-based tactics as a genre](https://www.pcgamer.com/games/strategy/capes-is-a-superhero-game-about-the-legacy-its-heroes-inherit-but-also-the-legacy-of-turn-based-tactics-as-a-genre)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
