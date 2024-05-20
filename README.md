@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;May 20, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-20-2024)
  - [Here&#39;s the dystopian cooking simulator about frying up illegal eggs in Antarctica that you&#39;ve always wanted](https://www.pcgamer.com/games/heres-the-dystopian-cooking-simulator-about-frying-up-illegal-eggs-in-antarctica-that-youve-always-wanted)
- - [Lootun is an auto-battling RPG for people who just really love managing their party&#39;s gear](https://www.pcgamer.com/games/lootun-is-an-auto-battling-rpg-for-people-who-just-really-love-managing-their-partys-gear)
- - [We don&#39;t have to live like this: you can set Chrome to default to Google&#39;s new nonsense-free &#39;Web&#39; search, which also completely bypasses that awful AI answer box](https://www.pcgamer.com/gaming-industry/we-dont-have-to-live-like-this-you-can-set-chrome-to-default-to-googles-new-nonsense-free-web-search-which-also-completely-bypasses-that-awful-ai-answer-box)<!-- GAME:END -->
+ - [Lootun is an auto-battling RPG for people who just really love managing their party&#39;s gear](https://www.pcgamer.com/games/lootun-is-an-auto-battling-rpg-for-people-who-just-really-love-managing-their-partys-gear)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
