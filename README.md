@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Composition examples - Photography](http://9gag.com/gag/aqyZYeQ)
- - ⏩ [Now you know when your plant is thirsty.](http://9gag.com/gag/aD2wOQG)
- - 👉 [Wake up USA](http://9gag.com/gag/aByQOVN)<!-- MEMES:END -->
+ - 💣 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - ⏩ [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
+ - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
 
 ---
 
