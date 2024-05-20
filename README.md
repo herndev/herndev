@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV hardware storage limits will keep most emulators away](https://appleinsider.com/articles/24/05/20/apple-tv-hardware-storage-limits-will-keep-most-emulators-away?utm_medium=rss)
- - [Moto Razr &lpar;2024&rpar; leak points to big upgrade for cheaper model &lpar;Update: Price&rpar;](https://www.androidauthority.com/motorola-razr-2024-cover-display-3444660/)
- - [Don&#39;t get too excited about new iPhone trade-in bonuses from Apple](https://appleinsider.com/articles/24/05/20/dont-get-too-excited-about-new-iphone-trade-in-bonuses-from-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Neuralink gets US FDA approval to implant its brain chip in a second person; source: FDA signed off on proposed fixes like embedding wires deeper into the brain &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p6#a240520p6)
+ - [iPhone SE 4 rumored to be first Face ID iPhone under $500](https://appleinsider.com/articles/24/05/20/iphone-se-4-rumored-to-be-first-face-id-iphone-under-500?utm_medium=rss)
+ - [Craig Wright Lied About Creating Bitcoin And Faked Evidence, Judge Rules](https://www.wired.com/story/craig-wright-lied-faked-evidence-bitcoin-judge-says/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
