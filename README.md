@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
  - ⏩ [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
+ - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
 
 ---
 
