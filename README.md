@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 developer Larian Studios opens new doors in Warsaw to help share the load of not 1, but 2 &#39;very ambitious RPGs&#39; in development](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-developer-larian-studios-opens-new-doors-in-warsaw-to-help-share-the-load-of-not-1-but-2-very-ambitious-rpgs-in-development)
- - [100+ Mods Turn Starfield Into The Star Wars Mandalorian Game We&#39;ll Never Get](https://kotaku.com/starfield-star-wars-mandalorian-mods-1851488038)
- - [The messy DisplayPort 2.1 specs mean you could be limited to a monitor cable too short to be of any use if you want to hit 4K at 240 Hz](https://www.pcgamer.com/hardware/gaming-monitors/the-messy-displayport-21-specs-mean-you-could-be-limited-to-a-monitor-cable-too-short-to-be-of-any-use-if-you-want-to-hit-4k-at-240-hz)<!-- GAME:END -->
+ - [MultiVersus Adds Murderer Jason Voorhees And Matrix Villain Agent Smith](https://kotaku.com/multiversus-smash-bros-wb-matrix-jason-all-characters-1851488213)
+ - [All Destiny 2 Zero Hour floor puzzle solutions](https://www.pcgamer.com/games/fps/destiny-2-zero-hour-floor-puzzle-solutions)
+ - [The Matrix and Friday the 13th villains join the MultiVersus roster](https://www.polygon.com/24160800/multiversus-trailer-matrix-agent-smith-jason-voorhees)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
