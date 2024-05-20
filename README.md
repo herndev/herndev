@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mohammed Asaduzzaman. The new mayor of Brighton &amp; Hove, UK.](http://9gag.com/gag/aO8yDjy)
- - ⏩ [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 👉 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)<!-- MEMES:END -->
+ - 💣 [Composition examples - Photography](http://9gag.com/gag/aqyZYeQ)
+ - ⏩ [Now you know when your plant is thirsty.](http://9gag.com/gag/aD2wOQG)
+ - 👉 [Wake up USA](http://9gag.com/gag/aByQOVN)<!-- MEMES:END -->
 
 ---
 
