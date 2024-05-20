@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - ⏩ [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
- - 👉 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)<!-- MEMES:END -->
+ - 💣 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
+ - ⏩ [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
 
 ---
 
