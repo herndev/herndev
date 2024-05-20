@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Snapdragon 8 Gen 4 could be bad news for flagship phone prices in 2025](https://www.androidauthority.com/snapdragon-8-gen-4-price-increase-significantly-3444785/)
- - [Android 15 gets a new avatar picker app that syncs your Google Account photo](https://www.androidauthority.com/android-15-avatar-picker-3444598/)
- - [A look at Snap&#39;s shift towards investing aggressively in AI and AR after revamping its ad business, as it tries to adapt to changing social media habits &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240520/p2#a240520p2)<!-- TECH:END -->
+ - [Wow! A lot of people still don’t know about this seven year old Android feature.](https://www.androidauthority.com/notification-channels-android-poll-results-3444788/)
+ - [iOS 18’s AI chatbot could be powerful, but it won’t be from Apple](https://www.androidauthority.com/ios-18-ai-chatbot-google-gemini-openai-chatgpt-3444790/)
+ - [The Snapdragon 8 Gen 4 could be bad news for flagship phone prices in 2025](https://www.androidauthority.com/snapdragon-8-gen-4-price-increase-significantly-3444785/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
