@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - ⏩ [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
+ - 💣 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - ⏩ [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
  - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
 
 ---
