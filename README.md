@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
- - ⏩ [Don&#39;t go in there!](http://9gag.com/gag/aPAy1Kw)
- - 👉 [Gaming in your 30&#39;s](http://9gag.com/gag/a34dW3r)<!-- MEMES:END -->
+ - 💣 [Just saying](http://9gag.com/gag/aNDojv4)
+ - ⏩ [Gaming in your 30&#39;s](http://9gag.com/gag/a34dW3r)
+ - 👉 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)<!-- MEMES:END -->
 
 ---
 
