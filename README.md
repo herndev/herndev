@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus Adds Murderer Jason Voorhees And Matrix Villain Agent Smith](https://kotaku.com/multiversus-smash-bros-wb-matrix-jason-all-characters-1851488213)
- - [All Destiny 2 Zero Hour floor puzzle solutions](https://www.pcgamer.com/games/fps/destiny-2-zero-hour-floor-puzzle-solutions)
- - [The Matrix and Friday the 13th villains join the MultiVersus roster](https://www.polygon.com/24160800/multiversus-trailer-matrix-agent-smith-jason-voorhees)<!-- GAME:END -->
+ - [Where to pre-order the Ursula’s Return expansion for Disney Lorcana](https://www.polygon.com/24150182/disney-lorcana-ursulas-return-pre-order-where-to-buy)
+ - [10 Years Ago, The Hades 2 Devs Made An Amazing Cyber-Noir RPG &lpar;And My Favorite T-Shirt&rpar;](https://kotaku.com/transistor-supergiant-decade-anniversary-t-shirt-1851488418)
+ - [Escape from Tarkov dev&#39;s latest wheeze is to offer players $50 &#39;compensation&#39; after a price U-turn, but rather than a refund it&#39;s a one-time use $50 Tarkov voucher](https://www.pcgamer.com/games/fps/escape-from-tarkov-devs-latest-wheeze-is-to-offer-players-dollar50-compensation-after-a-price-u-turn-but-rather-than-a-refund-its-a-one-time-use-dollar50-tarkov-voucher)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
