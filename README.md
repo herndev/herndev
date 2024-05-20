@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neuralink gets US FDA approval to implant its brain chip in a second person; source: FDA signed off on proposed fixes like embedding wires deeper into the brain &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p6#a240520p6)
- - [iPhone SE 4 rumored to be first Face ID iPhone under $500](https://appleinsider.com/articles/24/05/20/iphone-se-4-rumored-to-be-first-face-id-iphone-under-500?utm_medium=rss)
- - [Craig Wright Lied About Creating Bitcoin And Faked Evidence, Judge Rules](https://www.wired.com/story/craig-wright-lied-faked-evidence-bitcoin-judge-says/)<!-- TECH:END -->
+ - [WikiLeaks&#39; Julian Assange Can Appeal His Extradition to the US, British Court Says](https://www.wired.com/story/julian-assange-court-hearing-appeal-extradition/)
+ - [Meta and LG’s headset partnership is on the rocks](https://www.theverge.com/2024/5/20/24160644/lg-meta-xr-vr-headset-partnership-paused-rumors)
+ - [PE firm EQT is in advanced talks to buy video game services company Keywords Studios for &amp;pound;2.2B, or &amp;pound;25.5 per share, a 70%+ premium on Friday&#39;s close &lpar;Financial Times&rpar;](http://www.techmeme.com/240520/p8#a240520p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
