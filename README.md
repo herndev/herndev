@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Ubisoft&#39;s XDefiant system requirements are so low that even a manky old potato will run the game](https://www.pcgamer.com/hardware/ubisofts-xdefiant-system-requirements-are-so-low-that-even-a-manky-old-potato-will-run-the-game)
- - [TCL smashes the refresh rate barrier as it demonstrates a 4K 1000Hz panel](https://www.pcgamer.com/hardware/gaming-monitors/tcl-smashes-the-refresh-rate-barrier-as-it-demonstrates-a-4k-1000hz-panel)<!-- GAME:END -->
+ - [AMD Zen 6 could deliver a full 32-core chiplet, with Zen 5c reportedly set to offer its own 16-core CCX](https://www.pcgamer.com/hardware/processors/amd-zen-6-could-deliver-a-full-32-core-chiplet-with-zen-5c-reportedly-set-to-offer-its-own-16-core-ccx)
+ - [Bummer: Tesla&#39;s &#39;gaming computer&#39; that it built a car around for some reason will be &#39;no longer capable of playing Steam games&#39;](https://www.pcgamer.com/hardware/bummer-teslas-gaming-computer-that-it-built-a-car-around-for-some-reason-will-be-no-longer-capable-of-playing-steam-games)
+ - [Google&#39;s new AI search feature has been recommending people drink urine &lpar;&#39;light in color&#39;&rpar; so here&#39;s how to turn its AI Overviews off to avoid such dodgy advice](https://www.pcgamer.com/software/ai/googles-new-ai-search-feature-has-been-recommending-people-drink-urine-light-in-color-so-heres-how-to-turn-its-ai-overviews-off-to-avoid-such-dodgy-advice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
