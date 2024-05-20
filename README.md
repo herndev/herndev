@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Truth Social&#39;s parent company, the Trump Media and Technology Group, reports $771K in Q1 revenue, a net loss of $327.6M, and an operating loss of $12.1M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240520/p33#a240520p33)
- - [Android 15 Beta 2 fully restores Cast volume controls for speaker groups on Pixel phones](https://www.androidauthority.com/pixel-speaker-group-volume-control-3445010/)
- - [All the Copilot Plus PCs announced at Microsoft’s Surface event](https://www.theverge.com/24160974/microsoft-copilot-plus-pcs-acer-asus-dell-hp-lenovo-samsung)<!-- TECH:END -->
+ - [Apple’s Photo Bug Exposes the Myth of ‘Deleted’](https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/)
+ - [Meta approved AI-manipulated Facebook ads during India&#39;s election that spread disinfo and incited religious violence; civil groups submitted them as a test &lpar;Hannah Ellis-Petersen/The Guardian&rpar;](http://www.techmeme.com/240520/p38#a240520p38)
+ - [Zoom reports Q1 revenue up 3.2% YoY to $1.14B, vs. $1.13B est., enterprise revenue up 5.3% YoY to $665.7M, and a Q2 sales forecast in line with estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240520/p37#a240520p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
