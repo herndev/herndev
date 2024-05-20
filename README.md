@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Sundar Pichai about Google I/O announcements, AI Overviews&#39; high clickthrough rates, competing with OpenAI, future of search, AI advancements, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240520/p12#a240520p12)
- - [Apple’s time travel comedy Time Bandits starts streaming in July](https://www.theverge.com/2024/5/20/24160764/time-bandits-streaming-release-date-apple-tv-plus)
- - [LG&#39;s 34-inch UltraGear monitor plunges to $549 at Amazon today](https://appleinsider.com/articles/24/05/20/lgs-34-inch-ultragear-monitor-plunges-to-549-at-amazon-today?utm_medium=rss)<!-- TECH:END -->
+ - [Apple reportedly met with TSMC to snatch up all of its 2nm capacity](https://www.androidauthority.com/apple-tsmc-2nm-process-contract-3444917/)
+ - [Score $380 of freebies with the Galaxy S24 Ultra in the Discover Samsung sale](https://www.androidauthority.com/samsung-galaxy-s24-ultra-sale-3444935/)
+ - [A rundown of what’s new and improved in Android 15 — so far](https://www.theverge.com/24160704/google-android-15-beta-new-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
