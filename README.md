@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hot coffee!](http://9gag.com/gag/a87bw06)
- - ⏩ [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
- - 👉 [Lick](http://9gag.com/gag/awyb4OQ)<!-- MEMES:END -->
+ - 💣 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - ⏩ [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
+ - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
 
 ---
 
