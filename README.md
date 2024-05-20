@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good news for prospective Galaxy Watch 7 buyers: Samsung is speeding up charging](https://www.androidauthority.com/samsung-galaxy-watch-7-wireless-charging-3444779/)
- - [An interview with Kokusai Electric CEO Fumiyuki Kanai on KKR&#39;s role in the Japanese chip equipment maker&#39;s IPO, becoming an advocate for PE in Japan, and more &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/240520/p1#a240520p1)
- - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)
+ - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
+ - [Good news for prospective Galaxy Watch 7 buyers: Samsung is speeding up charging](https://www.androidauthority.com/samsung-galaxy-watch-7-wireless-charging-3444779/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
