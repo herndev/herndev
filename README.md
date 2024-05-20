@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft is reportedly taking the nuclear option: releasing the next Call of Duty day one on Game Pass](https://www.pcgamer.com/games/call-of-duty/microsoft-is-reportedly-taking-the-nuclear-option-releasing-the-next-call-of-duty-day-one-on-game-pass)
- - [After an epic 24-hour battle with Malenia and 1,700 deaths, Kai Cenat has finally beaten Elden Ring](https://www.pcgamer.com/games/action/after-165-hours-including-more-than-24-hours-fighting-malenia-and-1700-deaths-kai-cenat-has-finally-beaten-elden-ring)
- - [Challengers, Godzilla x Kong: The New Empire, Madame Web on Netflix, and every new movie to watch at home this weekend](https://www.polygon.com/2024/5/17/24155299/new-movies-challengers-godzilla-x-kong-the-new-empire-madame-web-netflix)<!-- GAME:END -->
+ - [Here&#39;s the dystopian cooking simulator about frying up illegal eggs in Antarctica that you&#39;ve always wanted](https://www.pcgamer.com/games/heres-the-dystopian-cooking-simulator-about-frying-up-illegal-eggs-in-antarctica-that-youve-always-wanted)
+ - [Lootun is an auto-battling RPG for people who just really love managing their party&#39;s gear](https://www.pcgamer.com/games/lootun-is-an-auto-battling-rpg-for-people-who-just-really-love-managing-their-partys-gear)
+ - [We don&#39;t have to live like this: you can set Chrome to default to Google&#39;s new nonsense-free &#39;Web&#39; search, which also completely bypasses that awful AI answer box](https://www.pcgamer.com/gaming-industry/we-dont-have-to-live-like-this-you-can-set-chrome-to-default-to-googles-new-nonsense-free-web-search-which-also-completely-bypasses-that-awful-ai-answer-box)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
