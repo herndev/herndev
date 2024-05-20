@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just saying](http://9gag.com/gag/aNDojv4)
- - ⏩ [Gaming in your 30&#39;s](http://9gag.com/gag/a34dW3r)
- - 👉 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)<!-- MEMES:END -->
+ - 💣 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - ⏩ [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 👉 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)<!-- MEMES:END -->
 
 ---
 
