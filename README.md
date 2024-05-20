@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wanderers – The Team Behind Senua’s Saga: Hellblade II’s Incredible Landscapes](https://news.xbox.com/en-us/2024/05/20/hellblade-2-environmental-design-inspired-by-iceland/)
- - [Baldur&#39;s Gate 3 Devs Open Seventh Studio To Help With Two &#39;Very Ambitious RPGs&#39;](https://kotaku.com/baldurs-gate-3-larian-divinity-warsaw-1851487779)
- - [The Taskmaster VR game is out in a few weeks, and Little Alex Horne is resigned to what his avatar can expect from you sickos: &#39;They will definitely do things to me&#39;](https://www.pcgamer.com/games/vr/the-taskmaster-vr-game-is-out-in-a-few-weeks-and-little-alex-horne-is-resigned-to-what-his-avatar-can-expect-from-you-sickos-they-will-definitely-do-things-to-me)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 developer Larian Studios opens new doors in Warsaw to help share the load of not 1, but 2 &#39;very ambitious RPGs&#39; in development](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-developer-larian-studios-opens-new-doors-in-warsaw-to-help-share-the-load-of-not-1-but-2-very-ambitious-rpgs-in-development)
+ - [100+ Mods Turn Starfield Into The Star Wars Mandalorian Game We&#39;ll Never Get](https://kotaku.com/starfield-star-wars-mandalorian-mods-1851488038)
+ - [The messy DisplayPort 2.1 specs mean you could be limited to a monitor cable too short to be of any use if you want to hit 4K at 240 Hz](https://www.pcgamer.com/hardware/gaming-monitors/the-messy-displayport-21-specs-mean-you-could-be-limited-to-a-monitor-cable-too-short-to-be-of-any-use-if-you-want-to-hit-4k-at-240-hz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
