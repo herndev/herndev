@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
- - ⏩ [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
- - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
+ - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - ⏩ [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 👉 [8th and 12th and 22nd... all are ground floors :&rpar;](http://9gag.com/gag/aAyVMxE)<!-- MEMES:END -->
 
 ---
 
