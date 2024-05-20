@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - ⏩ [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 💣 [She looks nice innit?](http://9gag.com/gag/aZZWRDQ)
+ - ⏩ [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
  - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
 
 ---
