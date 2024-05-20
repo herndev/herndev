@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Taskmaster VR game is out in a few weeks, and Little Alex Horne is resigned to what his avatar can expect from you sickos: &#39;They will definitely do things to me&#39;](https://www.pcgamer.com/games/vr/the-taskmaster-vr-game-is-out-in-a-few-weeks-and-little-alex-horne-is-resigned-to-what-his-avatar-can-expect-from-you-sickos-they-will-definitely-do-things-to-me)
- - [Video game movies keep relying on the wrong kind of violence](https://www.polygon.com/24158527/video-game-movies-violence-boy-kills-world)
- - [AMD Zen 6 could deliver a full 32-core chiplet, with Zen 5c reportedly set to offer its own 16-core CCX](https://www.pcgamer.com/hardware/processors/amd-zen-6-could-deliver-a-full-32-core-chiplet-with-zen-5c-reportedly-set-to-offer-its-own-16-core-ccx)<!-- GAME:END -->
+ - [The Wanderers – The Team Behind Senua’s Saga: Hellblade II’s Incredible Landscapes](https://news.xbox.com/en-us/2024/05/20/hellblade-2-environmental-design-inspired-by-iceland/)
+ - [Baldur&#39;s Gate 3 Devs Open Seventh Studio To Help With Two &#39;Very Ambitious RPGs&#39;](https://kotaku.com/baldurs-gate-3-larian-divinity-warsaw-1851487779)
+ - [The Taskmaster VR game is out in a few weeks, and Little Alex Horne is resigned to what his avatar can expect from you sickos: &#39;They will definitely do things to me&#39;](https://www.pcgamer.com/games/vr/the-taskmaster-vr-game-is-out-in-a-few-weeks-and-little-alex-horne-is-resigned-to-what-his-avatar-can-expect-from-you-sickos-they-will-definitely-do-things-to-me)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
