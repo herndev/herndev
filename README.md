@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of Microsoft&#39;s Surface and Windows AI event, where hardware with Qualcomm&#39;s new Arm chips and new Windows features like AI Explorer are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240520/p19#a240520p19)
- - [How Apple has steadily been dropping the &#39;i&#39; from its devices for over a decade](https://appleinsider.com/articles/24/05/20/how-apple-has-steadily-been-dropping-the-i-from-its-devices-for-over-a-decade?utm_medium=rss)
- - [A look at Satya Nadella&#39;s approach to pushing AI at Microsoft, as the company bets big on OpenAI and in-house models, but also on G42, Mistral, Figure, others &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240520/p18#a240520p18)<!-- TECH:END -->
+ - [New iOS &amp; iPadOS update fixes reappearing photos bug](https://appleinsider.com/articles/24/05/20/new-ios-ipados-update-fixes-reappearing-photos-bug?utm_medium=rss)
+ - [Google plans to to reuse heat after expanding a data center for AI](https://www.theverge.com/2024/5/20/24160788/google-ai-data-center-expansion-heat-recovery)
+ - [Microsoft’s new Surface Pro gets an OLED display for the first time](https://www.theverge.com/2024/5/20/24160743/microsoft-surface-pro-10-oled-screen-new-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
