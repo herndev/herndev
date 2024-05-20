@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
- - ⏩ [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
+ - ⏩ [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)
+ - 👉 [How do people like this even exist](http://9gag.com/gag/awybdGW)<!-- MEMES:END -->
 
 ---
 
