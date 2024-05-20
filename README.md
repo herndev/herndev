@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Electric Toothbrushes of 2024     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
  - [How to easily see what was talked about at every WWDC session since 2000](https://appleinsider.com/inside/wwdc/tips/how-to-easily-see-what-was-talked-about-at-every-wwdc-session-since-2000?utm_medium=rss)
- - [A look at Overland AI, Potential, and other startups developing off-road self-driving systems, including for military operations, underground mining, and more &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240519/p16#a240519p16)
- - [Two students find security bug that could let millions do laundry for free](https://www.theverge.com/2024/5/19/24160383/students-security-bug-laundry-machines-csc-serviceworks)<!-- TECH:END -->
+ - [A look at Overland AI, Potential, and other startups developing off-road self-driving systems, including for military operations, underground mining, and more &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240519/p16#a240519p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
