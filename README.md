@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wow! A lot of people still don’t know about this seven year old Android feature.](https://www.androidauthority.com/notification-channels-android-poll-results-3444788/)
- - [iOS 18’s AI chatbot could be powerful, but it won’t be from Apple](https://www.androidauthority.com/ios-18-ai-chatbot-google-gemini-openai-chatgpt-3444790/)
- - [The Snapdragon 8 Gen 4 could be bad news for flagship phone prices in 2025](https://www.androidauthority.com/snapdragon-8-gen-4-price-increase-significantly-3444785/)<!-- TECH:END -->
+ - [You will soon be able to use ChatGPT instantly on mobile](https://www.androidauthority.com/use-chatgpt-without-account-mobile-3444803/)
+ - [OpenAI pauses the use of the Sky voice in ChatGPT after users said it sounded too much like Scarlett Johansson, says voice was not chosen to be an &quot;imitation&quot; &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240520/p4#a240520p4)
+ - [How Nvidia co-founder Curtis Priem is trying to make New York a quantum computing hub, including putting a quantum computer at Rensselaer Polytechnic Institute &lpar;Jimmy Vielkind/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p3#a240520p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
