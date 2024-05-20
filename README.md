@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order the Ursula’s Return expansion for Disney Lorcana](https://www.polygon.com/24150182/disney-lorcana-ursulas-return-pre-order-where-to-buy)
- - [10 Years Ago, The Hades 2 Devs Made An Amazing Cyber-Noir RPG &lpar;And My Favorite T-Shirt&rpar;](https://kotaku.com/transistor-supergiant-decade-anniversary-t-shirt-1851488418)
- - [Escape from Tarkov dev&#39;s latest wheeze is to offer players $50 &#39;compensation&#39; after a price U-turn, but rather than a refund it&#39;s a one-time use $50 Tarkov voucher](https://www.pcgamer.com/games/fps/escape-from-tarkov-devs-latest-wheeze-is-to-offer-players-dollar50-compensation-after-a-price-u-turn-but-rather-than-a-refund-its-a-one-time-use-dollar50-tarkov-voucher)<!-- GAME:END -->
+ - [New Super Mario 64 Mod Lets You Build And Share Your Own Levels](https://kotaku.com/super-mario-64-sm64-builder-maker-3d-nintendo-mod-rom-1851488608)
+ - [Ben Schwartz and other comedy greats join Make Some Noise season 3](https://www.polygon.com/24160862/dropout-make-some-noise-season-3-ben-schwartz)
+ - [Why is it Summer Game Fest and not Summer Games Fest &lpar;plural&rpar;?](https://www.polygon.com/24159269/summer-game-fest-games-title-plural-why)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
