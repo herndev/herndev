@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Google DeepMind releases its Frontier Safety Framework, a set of protocols for analyzing and mitigating future risks posed by advanced AI models &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240517/p22#a240517p22)
- - [Logitech Pro X 60 Keyboard Review: Best, Brightest, and Now Smaller](https://www.wired.com/review/logitech-pro-x-60/)<!-- TECH:END -->
+ - [Around 58 countries now offer a digital nomad visa, as governments compete with each other to attract talent; the number of US digital nomads hit 17.3M in 2023 &lpar;Emma Agyemang/Financial Times&rpar;](http://www.techmeme.com/240519/p15#a240519p15)
+ - [If you want an iPad Pro Magic Keyboard that matches the Siri Remote, it&#39;ll cost you](https://appleinsider.com/articles/24/05/19/user-pays-double-to-make-magic-keyboard-that-matches-the-siri-remote?utm_medium=rss)
+ - [Best E-Reader for 2024     - CNET](https://www.cnet.com/tech/computing/best-e-reader/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
