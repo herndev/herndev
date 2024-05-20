@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard addresses Diablo 4&#39;s gold problem in a patch, but nobody is quite sure if it&#39;s solved yet](https://www.pcgamer.com/games/rpg/blizzard-addresses-diablo-4s-gold-problem-in-a-patch-but-nobody-is-quite-sure-if-its-solved-yet)
- - [GTA 6 Could Be The First Game To Push Past $70](https://kotaku.com/gta-6-gtavi-grand-theft-auto-price-70-take-two-ceo-t2-1851489239)
- - [25 Years Later, I Am Now A Star Wars: The Phantom Menace Apologist](https://kotaku.com/star-wars-episode-1-phantom-menace-25th-anniversary-1851489367)<!-- GAME:END -->
+ - [The PC games market grew a lot more than the console games market last year, says research firm](https://www.pcgamer.com/gaming-industry/2023-pc-games-revenue-increase-newzoo)
+ - [The developer of exceptional 2022 sci-fi adventure Norco is following it up with a &#39;narrative micro-adventure&#39; about an android exploring an AI-haunted oil refinery](https://www.pcgamer.com/games/adventure/the-developer-of-exceptional-2022-sci-fi-adventure-norco-is-following-it-up-with-a-narrative-micro-adventure-about-an-android-exploring-an-ai-haunted-oil-refinery)
+ - [Blizzard addresses Diablo 4&#39;s gold problem in a patch, but nobody is quite sure if it&#39;s solved yet](https://www.pcgamer.com/games/rpg/blizzard-addresses-diablo-4s-gold-problem-in-a-patch-but-nobody-is-quite-sure-if-its-solved-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
