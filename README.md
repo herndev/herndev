@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WikiLeaks&#39; Julian Assange Can Appeal His Extradition to the US, British Court Says](https://www.wired.com/story/julian-assange-court-hearing-appeal-extradition/)
- - [Meta and LG’s headset partnership is on the rocks](https://www.theverge.com/2024/5/20/24160644/lg-meta-xr-vr-headset-partnership-paused-rumors)
- - [PE firm EQT is in advanced talks to buy video game services company Keywords Studios for &amp;pound;2.2B, or &amp;pound;25.5 per share, a 70%+ premium on Friday&#39;s close &lpar;Financial Times&rpar;](http://www.techmeme.com/240520/p8#a240520p8)<!-- TECH:END -->
+ - [Google CEO Sundar Pichai on AI-powered search and the future of the web](https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview)
+ - [If you&#39;re buying a new iPad Pro, your old magnetic stand won&#39;t work](https://appleinsider.com/articles/24/05/20/if-youre-buying-a-new-ipad-pro-your-old-magnetic-stand-wont-work?utm_medium=rss)
+ - [Grayscale CEO Michael Sonnenshein resigns, to be replaced by the head of strategy for asset and wealth manager at Goldman Sachs, Peter Mintzberg, on August 15 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240520/p10#a240520p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
