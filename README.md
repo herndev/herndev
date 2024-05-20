@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Surface Pro &lpar;11th Edition&rpar; and Surface Laptop &lpar;7th Edition&rpar;: Specs, Price, Features, Release Date](https://www.wired.com/story/everything-announced-microsoft-surface-event-2024/)
- - [Microsoft unveils next-gen Surface Pro and Surface Laptop with AI smarts](https://www.androidauthority.com/microsoft-announces-new-surface-pro-suface-laptop-3444983/)
- - [Core design: Why the iPad Pro can be faster than your Mac](https://appleinsider.com/articles/24/05/20/core-design-why-the-ipad-pro-can-be-faster-than-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Truth Social&#39;s parent company, the Trump Media and Technology Group, reports $771K in Q1 revenue, a net loss of $327.6M, and an operating loss of $12.1M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240520/p33#a240520p33)
+ - [Android 15 Beta 2 fully restores Cast volume controls for speaker groups on Pixel phones](https://www.androidauthority.com/pixel-speaker-group-volume-control-3445010/)
+ - [All the Copilot Plus PCs announced at Microsoft’s Surface event](https://www.theverge.com/24160974/microsoft-copilot-plus-pcs-acer-asus-dell-hp-lenovo-samsung)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
