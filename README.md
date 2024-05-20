@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
- - ⏩ [Taiwanese National Assembly: A lawmaker stole a bill form the speaker&#39;s desk and ran away to prevent it from being passed.](http://9gag.com/gag/awyb4N1)
- - 👉 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)<!-- MEMES:END -->
+ - 💣 [Hot coffee!](http://9gag.com/gag/a87bw06)
+ - ⏩ [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
+ - 👉 [Lick](http://9gag.com/gag/awyb4OQ)<!-- MEMES:END -->
 
 ---
 
