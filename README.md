@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
- - ⏩ [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
- - 👉 [Just a reminder](http://9gag.com/gag/a9yMO8Z)<!-- MEMES:END -->
+ - 💣 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
+ - ⏩ [The circus show has begun!](http://9gag.com/gag/an7XG4L)
+ - 👉 [After living in western countries for many years I&#39;m bit jealous of their boomers. They had life on easiest settings possible.](http://9gag.com/gag/a4P9wvZ)<!-- MEMES:END -->
 
 ---
 
