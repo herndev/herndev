@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon YouTuber Gets $157 From GameStop For $328 Worth Of Cards](https://kotaku.com/pokemon-card-trade-in-gamestop-youtube-leonhart-1851489326)
- - [A new native port of Majora&#39;s Mask might change how we play N64 games on our PCs](https://www.pcgamer.com/games/adventure/a-new-native-port-of-majoras-mask-might-change-how-we-play-n64-games-on-our-pcs)
- - [Call Of Duty’s Next Crossover Brings Gundam To The Game](https://kotaku.com/call-of-duty-warzone-gundam-crossover-1851489124)<!-- GAME:END -->
+ - [Blizzard addresses Diablo 4&#39;s gold problem in a patch, but nobody is quite sure if it&#39;s solved yet](https://www.pcgamer.com/games/rpg/blizzard-addresses-diablo-4s-gold-problem-in-a-patch-but-nobody-is-quite-sure-if-its-solved-yet)
+ - [GTA 6 Could Be The First Game To Push Past $70](https://kotaku.com/gta-6-gtavi-grand-theft-auto-price-70-take-two-ceo-t2-1851489239)
+ - [25 Years Later, I Am Now A Star Wars: The Phantom Menace Apologist](https://kotaku.com/star-wars-episode-1-phantom-menace-25th-anniversary-1851489367)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
