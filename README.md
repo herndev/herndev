@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
- - ⏩ [`I am Ella Elikim, Noam&#39;s daughter, 8 years old and I am a prisoner of Hamas`. Unbelievable.](http://9gag.com/gag/ae937GB)
- - 👉 [Just a reminder](http://9gag.com/gag/a9yMO8Z)<!-- MEMES:END -->
+ - 💣 [Loyalty!](http://9gag.com/gag/aRBgN2q)
+ - ⏩ [Logic](http://9gag.com/gag/avyZD3q)
+ - 👉 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)<!-- MEMES:END -->
 
 ---
 
