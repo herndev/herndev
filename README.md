@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ewe wool love this: new Manor Lords patch means your farm &#39;no longer spawns sheep exponentially&#39;](https://www.pcgamer.com/games/city-builder/new-manor-lords-patch-means-your-farm-no-longer-spawns-sheep-exponentially)
- - [Medieval war sim Kingmakers shows what happens when an Abrams tank enters the battle](https://www.polygon.com/24161849/kingmakers-tank-vs-castle-trailer)
- - [Smash Bros. Director Reveals All Fighters Have About The Same Win Rate](https://kotaku.com/super-smash-bros-ultimate-ssbu-switch-sakurai-win-rates-1851491576)<!-- GAME:END -->
+ - [Street Fighter 6 is launching Akuma by having thousands of Twitch viewers control him simultaneously, and why not](https://www.pcgamer.com/games/fighting/street-fighter-6-is-going-to-launch-akuma-by-having-thousands-of-twitch-viewers-control-him-at-once-which-is-going-to-be-a-sight)
+ - [How To Make The Most Of Hellblade II’s Graphics On PC](https://kotaku.com/hellblade-2-saga-steam-deck-pc-graphics-black-dots-1851491857)
+ - [Helldivers 2 players getting all hot and bothered over Eagle-1&#39;s lovely voice now have an in-game solution—Eagle Sweat, the glorious smell of democracy](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-getting-all-hot-and-bothered-over-eagle-1s-lovely-voice-now-have-an-in-game-solutioneagle-sweat-the-glorious-smell-of-democracy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
