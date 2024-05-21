@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Chicago-based Tempus, which uses AI to process medical data, files for an IPO, reporting a $266M net loss on $532M revenue in 2023 and 2,300 staff &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240521/p8#a240521p8)
- - [Google plans to spend ~&amp;euro;1B to expand its data center in Finland, and will reuse heat from the data center to warm nearby homes, schools, and public buildings &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240521/p7#a240521p7)
- - [Aqara’s new smart outlet can lock the door when your phone starts charging](https://www.theverge.com/2024/5/21/24161453/aqara-h2-smart-outlet-scene-automation-real-time-energy-price)<!-- TECH:END -->
+ - [Sources: in the event that China invades Taiwan, ASML and TSMC have ways to disable their sophisticated chipmaking machines; ASML reassured Dutch officials &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p13#a240521p13)
+ - [How Meta, Microsoft, and Google are helping OpenAI develop Triton, a tool to help run code efficiently on AI chips to compete with Nvidia&#39;s CUDA platform &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240521/p12#a240521p12)
+ - [Apple North Carolina campus efforts continue to move at a glacial pace](https://appleinsider.com/articles/24/05/21/apple-north-carolina-campus-efforts-continue-to-move-at-a-glacial-pace?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
