@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - ⏩ [Where are you touching](http://9gag.com/gag/a4P9WPQ)
- - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
+ - 💣 [Found a malignant tumor in my left kidney, getting it removed today so f*ck you and I&#39;ll see you tomorrow!](http://9gag.com/gag/amoLnQy)
+ - ⏩ [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
 
 ---
 
