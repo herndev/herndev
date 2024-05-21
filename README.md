@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes Samsung&#39;s S6 Thunderbolt 4 monitor to $449](https://appleinsider.com/articles/24/05/21/amazon-slashes-samsungs-s6-thunderbolt-4-monitor-to-449?utm_medium=rss)
- - [Google’s AI search results are already getting ads](https://www.theverge.com/2024/5/21/24161724/google-ai-search-results-ads-test)
- - [IGN scoops up Eurogamer, Rock Paper Shotgun, and more](https://www.theverge.com/2024/5/21/24161718/ign-gamer-network-acquisition)<!-- TECH:END -->
+ - [Anthropic researchers detail their attempts to peer inside the &quot;black box&quot; of LLMs, to find associations for a given prompt, which has largely been a mystery &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240521/p32#a240521p32)
+ - [Microsoft is making File Explorer more powerful with version control and 7z compression](https://www.theverge.com/2024/5/21/24161785/microsoft-windows-file-explorer-version-control-7z-tar)
+ - [Apple fires back at DOJ antitrust case, calls for immediate dismissal](https://appleinsider.com/articles/24/05/21/apple-fires-back-at-doj-antitrust-case-calls-for-immediate-dismissal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
