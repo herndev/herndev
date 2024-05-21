@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario 64 gets a Mario Maker-like romhack that runs on original hardware](https://www.pcgamer.com/games/super-mario-64-gets-a-mario-maker-like-romhack-that-runs-on-original-hardware)
- - [Hand-drawn adventure game comes to Steam after being dropped from Apple Arcade, creator laments the way games &#39;can just vanish&#39; today](https://www.pcgamer.com/games/adventure/hand-drawn-adventure-game-comes-to-steam-after-being-dropped-from-apple-arcade-creator-laments-the-way-games-can-just-vanish-today)
- - [Today&#39;s Wordle answer for Tuesday, May 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-21-2024)<!-- GAME:END -->
+ - [After two years on the Epic Games Store, the Kingdom Hearts series is finally releasing on Steam](https://www.pcgamer.com/games/rpg/after-two-years-on-the-epic-games-store-the-kingdom-hearts-series-is-finally-releasing-on-steam)
+ - [Microsoft unveils the Copilot+ AI PC ecosystem, with Snapdragon X laptops leading the way](https://www.pcgamer.com/software/ai/microsoft-unveils-the-copilot-ai-pc-ecosystem-with-snapdragon-x-laptops-leading-the-way)
+ - [Can Elgyem be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24160865/can-elgyem-be-shiny-beheeyem)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
