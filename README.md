@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s big bet on building a new type of AI computer](https://www.theverge.com/2024/5/21/24161579/microsoft-copilot-plus-pc-ai-npu-push-notepad)
- - [Microsoft Build 2024: everything announced](https://www.theverge.com/24161636/microsoft-build-2024-ai-copilot-windows-teams-edge)
- - [Windows now has AI-powered copy and paste](https://www.theverge.com/2024/5/21/24161778/windows-powertoys-advanced-ai-copy-paste)<!-- TECH:END -->
+ - [Microsoft announces the developer preview of Windows Volumetric Apps, giving access to an API that lets devs put Windows apps in 3D space on Meta Quest headsets &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240521/p33#a240521p33)
+ - [Free Magic Editor is now arriving on older Pixel phones](https://www.androidauthority.com/magic-editor-free-3445296/)
+ - [Scarlett Johansson &#39;Angered&#39; Over OpenAI&#39;s Chatbot Mimicking &#39;Her&#39; Voice     - CNET](https://www.cnet.com/tech/mobile/scarlett-johansson-angered-over-openais-chatbot-mimicking-her-voice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
