@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
- - [For the director of I Saw the TV Glow, Buffy the Vampire Slayer was just the start](https://www.theverge.com/24159054/i-saw-the-tv-glow-jane-schoenbrun-interview)
- - [RetroArch emulator adds support for DOS games, and more](https://appleinsider.com/articles/24/05/21/retroarch-emulator-adds-support-for-dos-games-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [The EPA is cracking down on cybersecurity threats](https://www.theverge.com/2024/5/21/24161502/cyberattack-drinking-water-epa-inspection-enforcement-alert)
+ - [AI Startup GPTZero Wants to Help You Spot AI-Generated Writing     - CNET](https://www.cnet.com/tech/services-and-software/ai-startup-gptzero-wants-to-help-you-spot-ai-generated-writing/#ftag=CAD590a51e)
+ - [8 Best Electric Toothbrushes &lpar;2024&rpar;: Cheap, Smart, Kids, and Alternatives](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
