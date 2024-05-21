@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [She sold her bathwater — PayPal took her profits](https://www.theverge.com/2024/5/20/24161207/belle-delphine-bathwater-paypal-adult-content)
- - [Scarlett Johansson says she declined to voice ChatGPT, and when she heard Sky she was &quot;shocked&quot; that Sam Altman would pursue a voice so &quot;eerily similar&quot; to hers &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240520/p41#a240520p41)
- - [Scarlett Johansson told OpenAI not to use her voice — and it did anyway](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action)<!-- TECH:END -->
+ - [Scarlett Johansson Says OpenAI Ripped Off Her Voice for ChatGPT](https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [She sold her bathwater — PayPal took her profits](https://www.theverge.com/2024/5/20/24161207/belle-delphine-bathwater-paypal-adult-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
