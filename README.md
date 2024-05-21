@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic researchers detail their attempts to peer inside the &quot;black box&quot; of LLMs, to find associations for a given prompt, which has largely been a mystery &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240521/p32#a240521p32)
- - [Microsoft is making File Explorer more powerful with version control and 7z compression](https://www.theverge.com/2024/5/21/24161785/microsoft-windows-file-explorer-version-control-7z-tar)
- - [Apple fires back at DOJ antitrust case, calls for immediate dismissal](https://appleinsider.com/articles/24/05/21/apple-fires-back-at-doj-antitrust-case-calls-for-immediate-dismissal?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s big bet on building a new type of AI computer](https://www.theverge.com/2024/5/21/24161579/microsoft-copilot-plus-pc-ai-npu-push-notepad)
+ - [Microsoft Build 2024: everything announced](https://www.theverge.com/24161636/microsoft-build-2024-ai-copilot-windows-teams-edge)
+ - [Windows now has AI-powered copy and paste](https://www.theverge.com/2024/5/21/24161778/windows-powertoys-advanced-ai-copy-paste)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
