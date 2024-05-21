@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where in the Dreaming City is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/2024/5/21/24161436/where-in-dreaming-city-archie-location)
- - [Ubisoft’s new free-to-play shooter XDefiant faces classic launch-day troubles](https://www.polygon.com/24161951/ubisoft-xdefiant-unable-to-find-match-launch-day-troubles)
- - [Helldivers 2 studio wants to slow down the pace of updates: &#39;We feel a slightly lower cadence overall will benefit both us, you, and the game&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-wants-to-slow-down-the-pace-of-updates-we-feel-a-slightly-lower-cadence-overall-will-benefit-both-us-you-and-the-game)<!-- GAME:END -->
+ - [Elden Ring fans are pretty sure those bodies are a tree in the Shadow of the Erdtree story trailer](https://www.pcgamer.com/games/rpg/elden-ring-fans-are-pretty-sure-those-bodies-are-a-tree-in-the-shadow-of-the-erdtree-story-trailer)
+ - [Crytek director says Hunt: Showdown&#39;s big August update represents &#39;a significant relaunch of Hunt: Showdown at a whole new level&#39;](https://www.pcgamer.com/games/fps/crytek-director-says-hunt-showdowns-big-august-update-represents-a-significant-relaunch-of-hunt-showdown-at-a-whole-new-level)
+ - [Free-to-play Ubisoft shooter XDefiant launches with the expected matchmaking issues, but I&#39;m having a good time](https://www.pcgamer.com/games/fps/free-to-play-ubisoft-shooter-xdefiant-launches-with-the-expected-matchmaking-issues-but-im-having-a-good-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
