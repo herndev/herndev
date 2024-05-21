@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We ranked all of League of Legends’ cool swords for cool sword day](https://www.polygon.com/gaming/24156714/league-of-legends-best-swords-lol)
- - [Fortnite is lowkey becoming the go-to place for Lego video games](https://www.polygon.com/fortnite/24161698/fortnite-new-lego-games-free)
- - [It was a big weekend for fans of Warhammer: Age of Sigmar, 40K, and Necromunda](https://www.polygon.com/24161719/warhammer-age-of-sigmar-launch-box-reveal-preview-weekend-40k-aos-sisters-of-battle)<!-- GAME:END -->
+ - [Ewe wool love this: new Manor Lords patch means your farm &#39;no longer spawns sheep exponentially&#39;](https://www.pcgamer.com/games/city-builder/new-manor-lords-patch-means-your-farm-no-longer-spawns-sheep-exponentially)
+ - [Medieval war sim Kingmakers shows what happens when an Abrams tank enters the battle](https://www.polygon.com/24161849/kingmakers-tank-vs-castle-trailer)
+ - [Smash Bros. Director Reveals All Fighters Have About The Same Win Rate](https://kotaku.com/super-smash-bros-ultimate-ssbu-switch-sakurai-win-rates-1851491576)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
