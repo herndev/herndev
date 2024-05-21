@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
- - ⏩ [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)
- - 👉 [The average woman these days](http://9gag.com/gag/aD2wP4O)<!-- MEMES:END -->
+ - 💣 [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
+ - ⏩ [`I am Ella Elikim, Noam&#39;s daughter, 8 years old and I am a prisoner of Hamas`. Unbelievable.](http://9gag.com/gag/ae937GB)
+ - 👉 [Just a reminder](http://9gag.com/gag/a9yMO8Z)<!-- MEMES:END -->
 
 ---
 
