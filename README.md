@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It kinda really definitely sucked when she died](http://9gag.com/gag/aoyZD72)
- - ⏩ [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - 👉 [Mike Tyson at his scariest](http://9gag.com/gag/an7XWwn)<!-- MEMES:END -->
+ - 💣 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - ⏩ [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
+ - 👉 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)<!-- MEMES:END -->
 
 ---
 
