@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Loyalty!](http://9gag.com/gag/aRBgN2q)
- - ⏩ [Logic](http://9gag.com/gag/avyZD3q)
- - 👉 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)<!-- MEMES:END -->
+ - 💣 [It kinda really definitely sucked when she died](http://9gag.com/gag/aoyZD72)
+ - ⏩ [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - 👉 [Mike Tyson at his scariest](http://9gag.com/gag/an7XWwn)<!-- MEMES:END -->
 
 ---
 
