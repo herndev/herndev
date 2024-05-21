@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The $200 Fallout TV series Pip-Boy replica looks a lot better than the bulky Fallout 4 collector&#39;s edition toy](https://www.pcgamer.com/games/fallout/the-dollar200-fallout-tv-series-pip-boy-replica-looks-a-lot-better-than-the-bulky-fallout-4-collectors-edition-toy)
- - [The PC games market grew a lot more than the console games market last year, says research firm](https://www.pcgamer.com/gaming-industry/2023-pc-games-revenue-increase-newzoo)
- - [The developer of exceptional 2022 sci-fi adventure Norco is following it up with a &#39;narrative micro-adventure&#39; about an android exploring an AI-haunted oil refinery](https://www.pcgamer.com/games/adventure/the-developer-of-exceptional-2022-sci-fi-adventure-norco-is-following-it-up-with-a-narrative-micro-adventure-about-an-android-exploring-an-ai-haunted-oil-refinery)<!-- GAME:END -->
+ - [Super Mario 64 gets a Mario Maker-like romhack that runs on original hardware](https://www.pcgamer.com/games/super-mario-64-gets-a-mario-maker-like-romhack-that-runs-on-original-hardware)
+ - [Hand-drawn adventure game comes to Steam after being dropped from Apple Arcade, creator laments the way games &#39;can just vanish&#39; today](https://www.pcgamer.com/games/adventure/hand-drawn-adventure-game-comes-to-steam-after-being-dropped-from-apple-arcade-creator-laments-the-way-games-can-just-vanish-today)
+ - [Today&#39;s Wordle answer for Tuesday, May 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-21-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
