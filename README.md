@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EPA is cracking down on cybersecurity threats](https://www.theverge.com/2024/5/21/24161502/cyberattack-drinking-water-epa-inspection-enforcement-alert)
- - [AI Startup GPTZero Wants to Help You Spot AI-Generated Writing     - CNET](https://www.cnet.com/tech/services-and-software/ai-startup-gptzero-wants-to-help-you-spot-ai-generated-writing/#ftag=CAD590a51e)
- - [8 Best Electric Toothbrushes &lpar;2024&rpar;: Cheap, Smart, Kids, and Alternatives](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
+ - [Microsoft ships Azure AI Studio in broad availability, adds support for OpenAI&#39;s GPT-4o, and announces a new multimodal model in its lightweight Phi-3 family &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240521/p25#a240521p25)
+ - [Microsoft debuts a new AI feature for Edge to translate spoken content via dubbing and subtitles live, on YouTube, LinkedIn, Coursera, news sites, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240521/p24#a240521p24)
+ - [Microsoft launches Copilot Extension for GitHub, letting developers build third-party skills into Copilot, starting with DataStax, Stripe, MongoDB, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240521/p23#a240521p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
