@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - ⏩ [It&#39;s not even his mother](http://9gag.com/gag/aqyZWwZ)
- - 👉 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)<!-- MEMES:END -->
+ - 💣 [Epic \ud83e\udd0c\ud83c\udffb](http://9gag.com/gag/aLnQbRv)
+ - ⏩ [RIP](http://9gag.com/gag/aGyVoV0)
+ - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
 
 ---
 
