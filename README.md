@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - ⏩ [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
+ - 💣 [Let the intrusive thoughts &lpar;w&rpar;in](http://9gag.com/gag/ayNpPWr)
+ - ⏩ [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 👉 [Me too](http://9gag.com/gag/aYQpdKO)<!-- MEMES:END -->
 
 ---
 
