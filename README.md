@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Wuthering Waves release?](https://www.polygon.com/guides/2024/5/21/24161252/wuthering-waves-release-time-date-pre-register-rewards)
  - [Senua&#39;s Saga: Hellblade 2 exposes an uncomfortable truth about upscalers—it&#39;s all about what sort of compromises you&#39;re prepared to make to image quality](https://www.pcgamer.com/hardware/senuas-saga-hellblade-2-exposes-an-uncomfortable-truth-about-upscalersits-all-about-what-sort-of-compromises-youre-prepared-to-make-to-image-quality)
- - [All Hiddenfolk puzzle solutions and stone ball locations in Hellblade 2](https://www.polygon.com/guides/24161019/hellblade-2-hiddenfolk-puzzle-solutions-stone-ball-locations)
- - [Draugar settlement rune puzzle solution in Hellblade 2](https://www.polygon.com/guides/24160714/hellblade-2-draugar-settlement-rune-puzzle-solution)<!-- GAME:END -->
+ - [All Hiddenfolk puzzle solutions and stone ball locations in Hellblade 2](https://www.polygon.com/guides/24161019/hellblade-2-hiddenfolk-puzzle-solutions-stone-ball-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
