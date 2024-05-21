@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like trains](http://9gag.com/gag/aZZW2wn)
+ - 💣 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
  - ⏩ [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 👉 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)<!-- MEMES:END -->
+ - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
 
 ---
 
