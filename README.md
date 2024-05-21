@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Copilot+ PCs event was compelling, the culmination of years of work, and Windows feels revitalized while its hardware is meaningfully differentiated &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240521/p17#a240521p17)
- - [Folding iPhone may repair display scratches &amp; dents by itself](https://appleinsider.com/articles/20/10/01/future-folding-iphones-may-repair-scratches-or-dents-in-the-display-by-themselves?utm_medium=rss)
- - [iPhone 16 Pro rumored to get hugely better ultra-wide sensor &amp; optical zoom](https://appleinsider.com/articles/24/05/21/iphone-16-pro-rumored-to-get-hugely-better-ultra-wide-sensor-optical-zoom?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe is bringing generative AI functionality to Lightroom for the first time](https://www.androidauthority.com/adobe-lightroom-generative-ai-3445093/)
+ - [Adobe Lightroom gets a magic eraser, and it’s impressive](https://www.theverge.com/2024/5/21/24161490/adobe-lightroom-generative-remove-object-removal-tool)
+ - [Sonos’ Roam 2 speaker is easier to use and available today for $179](https://www.theverge.com/2024/5/21/24161177/sonos-roam-2-bluetooth-speaker-now-available-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
