@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Computex 2024 preview: What we expect to see at this year&#39;s show, from AI PCs to next-generation chips from Intel, AMD and more](https://www.pcgamer.com/hardware/computex-2024-preview-what-we-expect-to-see-at-this-years-show-from-ai-pcs-to-next-generation-chips-from-intel-amd-and-more)
- - [Qualcomm is actually releasing a Snapdragon X Elite desktop PC on June 18 and dammit I want one](https://www.pcgamer.com/hardware/gaming-pcs/qualcomm-is-actually-releasing-a-snapdragon-x-elite-desktop-pc-on-june-18-and-dammit-i-want-one)
- - [FromSoftware drops another story trailer for Elden Ring&#39;s Shadow of the Erdtree DLC—giving us a glimpse at the fiery rampage that made Malenia&#39;s golden boy flee the Lands Between](https://www.pcgamer.com/games/dark-souls/fromsoftware-drops-another-story-trailer-for-elden-rings-shadow-of-the-erdtree-dlcgiving-us-a-glimpse-at-the-fiery-rampage-that-made-malenias-golden-boy-flee-the-lands-between)<!-- GAME:END -->
+ - [The world&#39;s largest chipmaker could flip a kill switch and remotely disable its machines in the event of an invasion](https://www.pcgamer.com/hardware/the-worlds-largest-chipmaker-could-flip-a-kill-switch-and-remotely-disable-all-its-machines-in-the-event-of-an-invasion)
+ - [PC Gaming Is Growing Faster Than Consoles, Data Shows](https://kotaku.com/pc-gaming-growing-faster-consoles-2023-baldurs-gate-3-1851491035)
+ - [&#39;The designer will never answer any rules questions&#39;: Upcoming solitaire board game requires you to codebreak its rulebook, which is written in a language that does not exist](https://www.pcgamer.com/games/board-games/the-designer-will-never-answer-any-rules-questions-upcoming-solitaire-board-game-requires-you-to-codebreak-its-rulebook-which-is-written-in-a-language-that-does-not-exist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
