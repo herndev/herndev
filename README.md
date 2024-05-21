@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Epic \ud83e\udd0c\ud83c\udffb](http://9gag.com/gag/aLnQbRv)
- - ⏩ [RIP](http://9gag.com/gag/aGyVoV0)
- - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
+ - 💣 [I like trains](http://9gag.com/gag/aZZW2wn)
+ - ⏩ [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 👉 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)<!-- MEMES:END -->
 
 ---
 
