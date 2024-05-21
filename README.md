@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP](http://9gag.com/gag/aGyVoV0)
- - ⏩ [So many years have passed and the feminists are still silent when it comes to womenspreading .... I wonder why... Didn&#39;t they claim to be for equality? Hmmm....](http://9gag.com/gag/abAq23b)
- - 👉 [Ouch!](http://9gag.com/gag/aNDo340)<!-- MEMES:END -->
+ - 💣 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
+ - ⏩ [US Navy cost to fire different weapons](http://9gag.com/gag/adB6dpj)
+ - 👉 [How do people like this even exist](http://9gag.com/gag/awybdGW)<!-- MEMES:END -->
 
 ---
 
