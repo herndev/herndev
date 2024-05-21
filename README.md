@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let the intrusive thoughts &lpar;w&rpar;in](http://9gag.com/gag/ayNpPWr)
- - ⏩ [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 👉 [Me too](http://9gag.com/gag/aYQpdKO)<!-- MEMES:END -->
+ - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - ⏩ [Where are you touching](http://9gag.com/gag/a4P9WPQ)
+ - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
 
 ---
 
