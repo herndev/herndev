@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Paper Mario: The Thousand-Year Door Remaster Hailed As The Definitive Version Of An All-Time RPG Classic](https://kotaku.com/paper-mario-thousand-year-door-review-switch-rpg-1851490626)
- - [So when is Call of Duty coming to Game Pass?](https://www.polygon.com/gaming/23911151/call-of-duty-game-pass-release)
- - [After Years Of Waiting, The Kingdom Hearts Series Is Finally Coming To Steam &lpar;With One Exception&rpar;](https://kotaku.com/kingdom-hearts-steam-release-date-bundle-deck-1851490495)<!-- GAME:END -->
+ - [Computex 2024 preview: What we expect to see at this year&#39;s show, from AI PCs to next-generation chips from Intel, AMD and more](https://www.pcgamer.com/hardware/computex-2024-preview-what-we-expect-to-see-at-this-years-show-from-ai-pcs-to-next-generation-chips-from-intel-amd-and-more)
+ - [Qualcomm is actually releasing a Snapdragon X Elite desktop PC on June 18 and dammit I want one](https://www.pcgamer.com/hardware/gaming-pcs/qualcomm-is-actually-releasing-a-snapdragon-x-elite-desktop-pc-on-june-18-and-dammit-i-want-one)
+ - [FromSoftware drops another story trailer for Elden Ring&#39;s Shadow of the Erdtree DLC—giving us a glimpse at the fiery rampage that made Malenia&#39;s golden boy flee the Lands Between](https://www.pcgamer.com/games/dark-souls/fromsoftware-drops-another-story-trailer-for-elden-rings-shadow-of-the-erdtree-dlcgiving-us-a-glimpse-at-the-fiery-rampage-that-made-malenias-golden-boy-flee-the-lands-between)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
