@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
- - ⏩ [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 👉 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)<!-- MEMES:END -->
+ - 💣 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
+ - ⏩ [They never forget](http://9gag.com/gag/aXPEdOD)
+ - 👉 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)<!-- MEMES:END -->
 
 ---
 
