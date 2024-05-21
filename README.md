@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - ⏩ [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 👉 [He needs to add just 1 more protein](http://9gag.com/gag/aD2wV7N)<!-- MEMES:END -->
+ - 💣 [RIP](http://9gag.com/gag/aGyVoV0)
+ - ⏩ [So many years have passed and the feminists are still silent when it comes to womenspreading .... I wonder why... Didn&#39;t they claim to be for equality? Hmmm....](http://9gag.com/gag/abAq23b)
+ - 👉 [Ouch!](http://9gag.com/gag/aNDo340)<!-- MEMES:END -->
 
 ---
 
