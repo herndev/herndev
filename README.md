@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found a malignant tumor in my left kidney, getting it removed today so f*ck you and I&#39;ll see you tomorrow!](http://9gag.com/gag/amoLnQy)
- - ⏩ [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
+ - 💣 [C. can&#39;t tell](http://9gag.com/gag/a1mZwxG)
+ - ⏩ [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
+ - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
 
 ---
 
