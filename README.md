@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6 is launching Akuma by having thousands of Twitch viewers control him simultaneously, and why not](https://www.pcgamer.com/games/fighting/street-fighter-6-is-going-to-launch-akuma-by-having-thousands-of-twitch-viewers-control-him-at-once-which-is-going-to-be-a-sight)
- - [How To Make The Most Of Hellblade II’s Graphics On PC](https://kotaku.com/hellblade-2-saga-steam-deck-pc-graphics-black-dots-1851491857)
- - [Helldivers 2 players getting all hot and bothered over Eagle-1&#39;s lovely voice now have an in-game solution—Eagle Sweat, the glorious smell of democracy](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-getting-all-hot-and-bothered-over-eagle-1s-lovely-voice-now-have-an-in-game-solutioneagle-sweat-the-glorious-smell-of-democracy)<!-- GAME:END -->
+ - [Where in the Dreaming City is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/2024/5/21/24161436/where-in-dreaming-city-archie-location)
+ - [Ubisoft’s new free-to-play shooter XDefiant faces classic launch-day troubles](https://www.polygon.com/24161951/ubisoft-xdefiant-unable-to-find-match-launch-day-troubles)
+ - [Helldivers 2 studio wants to slow down the pace of updates: &#39;We feel a slightly lower cadence overall will benefit both us, you, and the game&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-wants-to-slow-down-the-pace-of-updates-we-feel-a-slightly-lower-cadence-overall-will-benefit-both-us-you-and-the-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
