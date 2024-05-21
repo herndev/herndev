@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon’s coveted Japanese plush line is finally coming to the US](https://www.polygon.com/pokemon/24161063/pokemon-soda-pop-plush-collection-where-to-buy)
- - [Paper Mario: The Thousand-Year Door will make you mad Mario isn’t this weird anymore](https://www.polygon.com/24159333/paper-mario-the-thousand-year-door-remake-nintendo-switch)
- - [The 10 Best X-Men Games Of All Time](https://kotaku.com/best-x-men-games-mutant-academy-legends-wolverine-1851489208)<!-- GAME:END -->
+ - [A Note From Ninja Theory – Senua’s Saga: Hellblade II is Out Now](https://news.xbox.com/en-us/2024/05/21/hellblade-2-launch-blog/)
+ - [X-Men legends Greg Capullo and Jonathan Hickman team up for Wolverine: Revenge](https://www.polygon.com/24159173/marvel-wolverine-revenge-greg-capullo-jonathan-hickman)
+ - [Escape From Tarkov Developers Somehow Make A Bad Situation Even Worse](https://kotaku.com/escape-from-tarkov-refund-voucher-1851490315)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
