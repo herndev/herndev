@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Wuthering Waves release?](https://www.polygon.com/guides/2024/5/21/24161252/wuthering-waves-release-time-date-pre-register-rewards)
- - [Senua&#39;s Saga: Hellblade 2 exposes an uncomfortable truth about upscalers—it&#39;s all about what sort of compromises you&#39;re prepared to make to image quality](https://www.pcgamer.com/hardware/senuas-saga-hellblade-2-exposes-an-uncomfortable-truth-about-upscalersits-all-about-what-sort-of-compromises-youre-prepared-to-make-to-image-quality)
- - [All Hiddenfolk puzzle solutions and stone ball locations in Hellblade 2](https://www.polygon.com/guides/24161019/hellblade-2-hiddenfolk-puzzle-solutions-stone-ball-locations)<!-- GAME:END -->
+ - [Starfield player jury-rigs 100+ Star Wars mods together to make a convincing Boba Fett simulator: &#39;I basically added every single Star Wars mod out there on Nexus&#39;](https://www.pcgamer.com/games/rpg/starfield-player-jury-rigs-100-star-wars-mods-together-to-make-a-convincing-boba-fett-simulator-i-basically-added-every-single-star-wars-mod-out-there-on-nexus)
+ - [Noctua&#39;s newest products will keep you, and your consoles, cool](https://www.pcgamer.com/hardware/cooling/noctuas-newest-products-will-keep-you-and-your-consoles-cool)
+ - [All the big laptop makers are embracing Qualcomm&#39;s Snapdragon X, here are all the &#39;PC reborn&#39; models available for pre-order now](https://www.pcgamer.com/hardware/processors/all-the-big-laptop-makers-are-embracing-qualcomms-snapdragon-x-here-are-all-the-pc-reborn-models-available-for-pre-order-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
