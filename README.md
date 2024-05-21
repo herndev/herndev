@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Note From Ninja Theory – Senua’s Saga: Hellblade II is Out Now](https://news.xbox.com/en-us/2024/05/21/hellblade-2-launch-blog/)
- - [X-Men legends Greg Capullo and Jonathan Hickman team up for Wolverine: Revenge](https://www.polygon.com/24159173/marvel-wolverine-revenge-greg-capullo-jonathan-hickman)
- - [Escape From Tarkov Developers Somehow Make A Bad Situation Even Worse](https://kotaku.com/escape-from-tarkov-refund-voucher-1851490315)<!-- GAME:END -->
+ - [Paper Mario: The Thousand-Year Door Remaster Hailed As The Definitive Version Of An All-Time RPG Classic](https://kotaku.com/paper-mario-thousand-year-door-review-switch-rpg-1851490626)
+ - [So when is Call of Duty coming to Game Pass?](https://www.polygon.com/gaming/23911151/call-of-duty-game-pass-release)
+ - [After Years Of Waiting, The Kingdom Hearts Series Is Finally Coming To Steam &lpar;With One Exception&rpar;](https://kotaku.com/kingdom-hearts-steam-release-date-bundle-deck-1851490495)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
