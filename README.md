@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in the event that China invades Taiwan, ASML and TSMC have ways to disable their sophisticated chipmaking machines; ASML reassured Dutch officials &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p13#a240521p13)
- - [How Meta, Microsoft, and Google are helping OpenAI develop Triton, a tool to help run code efficiently on AI chips to compete with Nvidia&#39;s CUDA platform &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240521/p12#a240521p12)
- - [Apple North Carolina campus efforts continue to move at a glacial pace](https://appleinsider.com/articles/24/05/21/apple-north-carolina-campus-efforts-continue-to-move-at-a-glacial-pace?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft&#39;s Copilot+ PCs event was compelling, the culmination of years of work, and Windows feels revitalized while its hardware is meaningfully differentiated &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240521/p17#a240521p17)
+ - [Folding iPhone may repair display scratches &amp; dents by itself](https://appleinsider.com/articles/20/10/01/future-folding-iphones-may-repair-scratches-or-dents-in-the-display-by-themselves?utm_medium=rss)
+ - [iPhone 16 Pro rumored to get hugely better ultra-wide sensor &amp; optical zoom](https://appleinsider.com/articles/24/05/21/iphone-16-pro-rumored-to-get-hugely-better-ultra-wide-sensor-optical-zoom?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
