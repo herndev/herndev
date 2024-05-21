@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
- - ⏩ [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
- - 👉 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)<!-- MEMES:END -->
+ - 💣 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)
+ - ⏩ [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 👉 [Nice guys finish last](http://9gag.com/gag/aYQpRYV)<!-- MEMES:END -->
 
 ---
 
