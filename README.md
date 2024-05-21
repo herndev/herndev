@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After 3 years on the Epic Games Store, the Kingdom Hearts series is finally releasing on Steam](https://www.pcgamer.com/games/rpg/after-two-years-on-the-epic-games-store-the-kingdom-hearts-series-is-finally-releasing-on-steam)
- - [Microsoft unveils the Copilot+ AI PC ecosystem, with Snapdragon X laptops leading the way](https://www.pcgamer.com/software/ai/microsoft-unveils-the-copilot-ai-pc-ecosystem-with-snapdragon-x-laptops-leading-the-way)
- - [Can Elgyem be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24160865/can-elgyem-be-shiny-beheeyem)<!-- GAME:END -->
+ - [Senua&#39;s Saga: Hellblade 2 exposes an uncomfortable truth about upscalers—it&#39;s all about what sort of compromises you&#39;re prepared to make to image quality](https://www.pcgamer.com/hardware/senuas-saga-hellblade-2-exposes-an-uncomfortable-truth-about-upscalersits-all-about-what-sort-of-compromises-youre-prepared-to-make-to-image-quality)
+ - [All Hiddenfolk puzzle solutions and stone ball locations in Hellblade 2](https://www.polygon.com/guides/24161019/hellblade-2-hiddenfolk-puzzle-solutions-stone-ball-locations)
+ - [Draugar settlement rune puzzle solution in Hellblade 2](https://www.polygon.com/guides/24160714/hellblade-2-draugar-settlement-rune-puzzle-solution)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
