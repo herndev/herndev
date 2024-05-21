@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft just showed off the future of AI assistants in video games and its hella cool!](https://www.androidauthority.com/microsoft-copilot-minecraft-3445088/)
- - [European research labs led by Belgium-based imec will receive &amp;euro;2.5B in funding under European Chips Act to set up a pilot line to develop and test sub-2nm chips &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240521/p3#a240521p3)
- - [The World Is Ignoring the Other Deadly Kind of Carbon](https://www.wired.com/story/the-world-is-ignoring-the-other-deadly-kind-of-carbon/)<!-- TECH:END -->
+ - [Android 15 release date: When is the next update coming?](https://www.androidauthority.com/android-15-release-schedule-3415324/)
+ - [Android 15 update tracker: When will your phone get it?](https://www.androidauthority.com/android-15-update-3415425/)
+ - [Android 15 Beta 2.1 rolls out with Private Space fix](https://www.androidauthority.com/android-15-beta-2-1-3445104/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
