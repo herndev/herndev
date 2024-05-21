@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
- - ⏩ [US Navy cost to fire different weapons](http://9gag.com/gag/adB6dpj)
- - 👉 [How do people like this even exist](http://9gag.com/gag/awybdGW)<!-- MEMES:END -->
+ - 💣 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - ⏩ [It&#39;s not even his mother](http://9gag.com/gag/aqyZWwZ)
+ - 👉 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)<!-- MEMES:END -->
 
 ---
 
