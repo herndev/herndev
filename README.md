@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe is bringing generative AI functionality to Lightroom for the first time](https://www.androidauthority.com/adobe-lightroom-generative-ai-3445093/)
- - [Adobe Lightroom gets a magic eraser, and it’s impressive](https://www.theverge.com/2024/5/21/24161490/adobe-lightroom-generative-remove-object-removal-tool)
- - [Sonos’ Roam 2 speaker is easier to use and available today for $179](https://www.theverge.com/2024/5/21/24161177/sonos-roam-2-bluetooth-speaker-now-available-features)<!-- TECH:END -->
+ - [11 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
+ - [For the director of I Saw the TV Glow, Buffy the Vampire Slayer was just the start](https://www.theverge.com/24159054/i-saw-the-tv-glow-jane-schoenbrun-interview)
+ - [RetroArch emulator adds support for DOS games, and more](https://appleinsider.com/articles/24/05/21/retroarch-emulator-adds-support-for-dos-games-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
