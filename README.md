@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft ships Azure AI Studio in broad availability, adds support for OpenAI&#39;s GPT-4o, and announces a new multimodal model in its lightweight Phi-3 family &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240521/p25#a240521p25)
- - [Microsoft debuts a new AI feature for Edge to translate spoken content via dubbing and subtitles live, on YouTube, LinkedIn, Coursera, news sites, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240521/p24#a240521p24)
- - [Microsoft launches Copilot Extension for GitHub, letting developers build third-party skills into Copilot, starting with DataStax, Stripe, MongoDB, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240521/p23#a240521p23)<!-- TECH:END -->
+ - [Amazon slashes Samsung&#39;s S6 Thunderbolt 4 monitor to $449](https://appleinsider.com/articles/24/05/21/amazon-slashes-samsungs-s6-thunderbolt-4-monitor-to-449?utm_medium=rss)
+ - [Google’s AI search results are already getting ads](https://www.theverge.com/2024/5/21/24161724/google-ai-search-results-ads-test)
+ - [IGN scoops up Eurogamer, Rock Paper Shotgun, and more](https://www.theverge.com/2024/5/21/24161718/ign-gamer-network-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
