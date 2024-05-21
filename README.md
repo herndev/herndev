@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After two years on the Epic Games Store, the Kingdom Hearts series is finally releasing on Steam](https://www.pcgamer.com/games/rpg/after-two-years-on-the-epic-games-store-the-kingdom-hearts-series-is-finally-releasing-on-steam)
+ - [After 3 years on the Epic Games Store, the Kingdom Hearts series is finally releasing on Steam](https://www.pcgamer.com/games/rpg/after-two-years-on-the-epic-games-store-the-kingdom-hearts-series-is-finally-releasing-on-steam)
  - [Microsoft unveils the Copilot+ AI PC ecosystem, with Snapdragon X laptops leading the way](https://www.pcgamer.com/software/ai/microsoft-unveils-the-copilot-ai-pc-ecosystem-with-snapdragon-x-laptops-leading-the-way)
  - [Can Elgyem be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24160865/can-elgyem-be-shiny-beheeyem)<!-- GAME:END -->
 
