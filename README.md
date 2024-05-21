@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scarlett Johansson Says OpenAI Ripped Off Her Voice for ChatGPT](https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [She sold her bathwater — PayPal took her profits](https://www.theverge.com/2024/5/20/24161207/belle-delphine-bathwater-paypal-adult-content)<!-- TECH:END -->
+ - [Streaming deal: save 50% on a Paramount Plus &amp; Showtime bundle](https://appleinsider.com/articles/24/05/21/streaming-deal-save-50-on-a-paramount-plus-showtime-bundle?utm_medium=rss)
+ - [“Shocked and angered”: Scarlett Johansson slams OpenAI over ChatGPT voice](https://www.androidauthority.com/scarlett-johansson-statement-chatgpt-3445072/)
+ - [Samsung Electronics names Young-Hyun Jun as the head of its semiconductor arm, replacing co-CEO Kye-Hyun Kyung, who will oversee its business planning team &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240520/p43#a240520p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
