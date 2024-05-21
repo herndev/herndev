@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - ⏩ [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
- - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
+ - ⏩ [Me too](http://9gag.com/gag/aYQpdKO)
+ - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
 
 ---
 
