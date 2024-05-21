@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The $200 Fallout TV series Pip-Boy replica looks a lot better than the bulky Fallout 4 collector&#39;s edition toy](https://www.pcgamer.com/games/fallout/the-dollar200-fallout-tv-series-pip-boy-replica-looks-a-lot-better-than-the-bulky-fallout-4-collectors-edition-toy)
  - [The PC games market grew a lot more than the console games market last year, says research firm](https://www.pcgamer.com/gaming-industry/2023-pc-games-revenue-increase-newzoo)
- - [The developer of exceptional 2022 sci-fi adventure Norco is following it up with a &#39;narrative micro-adventure&#39; about an android exploring an AI-haunted oil refinery](https://www.pcgamer.com/games/adventure/the-developer-of-exceptional-2022-sci-fi-adventure-norco-is-following-it-up-with-a-narrative-micro-adventure-about-an-android-exploring-an-ai-haunted-oil-refinery)
- - [Blizzard addresses Diablo 4&#39;s gold problem in a patch, but nobody is quite sure if it&#39;s solved yet](https://www.pcgamer.com/games/rpg/blizzard-addresses-diablo-4s-gold-problem-in-a-patch-but-nobody-is-quite-sure-if-its-solved-yet)<!-- GAME:END -->
+ - [The developer of exceptional 2022 sci-fi adventure Norco is following it up with a &#39;narrative micro-adventure&#39; about an android exploring an AI-haunted oil refinery](https://www.pcgamer.com/games/adventure/the-developer-of-exceptional-2022-sci-fi-adventure-norco-is-following-it-up-with-a-narrative-micro-adventure-about-an-android-exploring-an-ai-haunted-oil-refinery)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
