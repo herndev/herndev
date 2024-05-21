@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces the developer preview of Windows Volumetric Apps, giving access to an API that lets devs put Windows apps in 3D space on Meta Quest headsets &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240521/p33#a240521p33)
- - [Free Magic Editor is now arriving on older Pixel phones](https://www.androidauthority.com/magic-editor-free-3445296/)
- - [Scarlett Johansson &#39;Angered&#39; Over OpenAI&#39;s Chatbot Mimicking &#39;Her&#39; Voice     - CNET](https://www.cnet.com/tech/mobile/scarlett-johansson-angered-over-openais-chatbot-mimicking-her-voice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is rolling out a new AI-powered ad format that shows shoppers how items of clothing would look on different skin tones and body types &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240521/p34#a240521p34)
+ - [SpaceX crosses milestone: Demos first Starlink Direct to Cell satellite video call](https://www.androidauthority.com/spacex-satellite-video-call-3445317/)
+ - [New Music &amp; audio enhancements plus a mysterious &#39;Passthrough&#39; feature are coming at WWDC](https://appleinsider.com/articles/24/05/21/new-music-audio-enhancements-plus-a-mysterious-passthrough-feature-are-coming-at-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
