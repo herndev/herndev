@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Valorant VPN in 2024](https://www.pcgamer.com/software/security/the-best-valorant-vpn)
- - [Bethesda won&#39;t make a game as cool as Morrowind ever again, so thank god an original dev has come back 20 years on to make quest mods for it](https://www.pcgamer.com/games/the-elder-scrolls/bethesda-wont-make-a-game-as-cool-as-morrowind-ever-again-so-thank-god-an-original-dev-has-come-back-20-years-on-to-make-quest-mods-for-it)
- - [Starfield player jury-rigs 100+ Star Wars mods together to make a convincing Boba Fett simulator: &#39;I basically added every single Star Wars mod out there on Nexus&#39;](https://www.pcgamer.com/games/rpg/starfield-player-jury-rigs-100-star-wars-mods-together-to-make-a-convincing-boba-fett-simulator-i-basically-added-every-single-star-wars-mod-out-there-on-nexus)<!-- GAME:END -->
+ - [Pokémon’s coveted Japanese plush line is finally coming to the US](https://www.polygon.com/pokemon/24161063/pokemon-soda-pop-plush-collection-where-to-buy)
+ - [Paper Mario: The Thousand-Year Door will make you mad Mario isn’t this weird anymore](https://www.polygon.com/24159333/paper-mario-the-thousand-year-door-remake-nintendo-switch)
+ - [The 10 Best X-Men Games Of All Time](https://kotaku.com/best-x-men-games-mutant-academy-legends-wolverine-1851489208)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
