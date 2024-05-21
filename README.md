@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 release date: When is the next update coming?](https://www.androidauthority.com/android-15-release-schedule-3415324/)
- - [Android 15 update tracker: When will your phone get it?](https://www.androidauthority.com/android-15-update-3415425/)
- - [Android 15 Beta 2.1 rolls out with Private Space fix](https://www.androidauthority.com/android-15-beta-2-1-3445104/)<!-- TECH:END -->
+ - [How Indian politicians are using deepfakes for voter outreach; an estimated 50M+ AI voice calls were made in the two months before the elections in April 2024 &lpar;Wired&rpar;](http://www.techmeme.com/240521/p5#a240521p5)
+ - [Circle to Search could gain three new features soon &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-three-new-features-teardown-3445102/)
+ - [Never mind S24 Ultra, Samsung could offer an Ultra watch this year](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-leak-3445105/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
