@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at challenges LA faces as it tries to remain a major tech hub; CB Insights: VC funding of startups in LA totaled $6.9B in 2023, down 73% from 2021 &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/240520/p46#a240520p46)
  - [How to look up your App Store purchase history](https://appleinsider.com/inside/app-store/tips/how-to-look-up-your-app-store-purchase-history?utm_medium=rss)
- - [A profile of Alphabet&#39;s moonshot X lab, as it carves out a path in which projects spin off as independent startups, after years of debate and experimentation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240520/p45#a240520p45)
- - [Volvo partners with Aurora Innovation to unveil Volvo VNL Autonomous, a self-driving truck which Aurora plans to use for freight hauling in the next few months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240520/p44#a240520p44)<!-- TECH:END -->
+ - [A profile of Alphabet&#39;s moonshot X lab, as it carves out a path in which projects spin off as independent startups, after years of debate and experimentation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240520/p45#a240520p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
