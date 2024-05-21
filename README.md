@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield player jury-rigs 100+ Star Wars mods together to make a convincing Boba Fett simulator: &#39;I basically added every single Star Wars mod out there on Nexus&#39;](https://www.pcgamer.com/games/rpg/starfield-player-jury-rigs-100-star-wars-mods-together-to-make-a-convincing-boba-fett-simulator-i-basically-added-every-single-star-wars-mod-out-there-on-nexus)
- - [Noctua&#39;s newest products will keep you, and your consoles, cool](https://www.pcgamer.com/hardware/cooling/noctuas-newest-products-will-keep-you-and-your-consoles-cool)
- - [All the big laptop makers are embracing Qualcomm&#39;s Snapdragon X, here are all the &#39;PC reborn&#39; models available for pre-order now](https://www.pcgamer.com/hardware/processors/all-the-big-laptop-makers-are-embracing-qualcomms-snapdragon-x-here-are-all-the-pc-reborn-models-available-for-pre-order-now)<!-- GAME:END -->
+ - [The best Valorant VPN in 2024](https://www.pcgamer.com/software/security/the-best-valorant-vpn)
+ - [Bethesda won&#39;t make a game as cool as Morrowind ever again, so thank god an original dev has come back 20 years on to make quest mods for it](https://www.pcgamer.com/games/the-elder-scrolls/bethesda-wont-make-a-game-as-cool-as-morrowind-ever-again-so-thank-god-an-original-dev-has-come-back-20-years-on-to-make-quest-mods-for-it)
+ - [Starfield player jury-rigs 100+ Star Wars mods together to make a convincing Boba Fett simulator: &#39;I basically added every single Star Wars mod out there on Nexus&#39;](https://www.pcgamer.com/games/rpg/starfield-player-jury-rigs-100-star-wars-mods-together-to-make-a-convincing-boba-fett-simulator-i-basically-added-every-single-star-wars-mod-out-there-on-nexus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
