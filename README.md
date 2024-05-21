@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The world&#39;s largest chipmaker could flip a kill switch and remotely disable its machines in the event of an invasion](https://www.pcgamer.com/hardware/the-worlds-largest-chipmaker-could-flip-a-kill-switch-and-remotely-disable-all-its-machines-in-the-event-of-an-invasion)
- - [PC Gaming Is Growing Faster Than Consoles, Data Shows](https://kotaku.com/pc-gaming-growing-faster-consoles-2023-baldurs-gate-3-1851491035)
- - [&#39;The designer will never answer any rules questions&#39;: Upcoming solitaire board game requires you to codebreak its rulebook, which is written in a language that does not exist](https://www.pcgamer.com/games/board-games/the-designer-will-never-answer-any-rules-questions-upcoming-solitaire-board-game-requires-you-to-codebreak-its-rulebook-which-is-written-in-a-language-that-does-not-exist)<!-- GAME:END -->
+ - [We ranked all of League of Legends’ cool swords for cool sword day](https://www.polygon.com/gaming/24156714/league-of-legends-best-swords-lol)
+ - [Fortnite is lowkey becoming the go-to place for Lego video games](https://www.polygon.com/fortnite/24161698/fortnite-new-lego-games-free)
+ - [It was a big weekend for fans of Warhammer: Age of Sigmar, 40K, and Necromunda](https://www.polygon.com/24161719/warhammer-age-of-sigmar-launch-box-reveal-preview-weekend-40k-aos-sisters-of-battle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
