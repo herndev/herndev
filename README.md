@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - ⏩ [Me too](http://9gag.com/gag/aYQpdKO)
- - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
+ - 💣 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - ⏩ [Not mine, thought it was neat.](http://9gag.com/gag/a1mZx0R)
+ - 👉 [Just a reminder](http://9gag.com/gag/a9yMO8Z)<!-- MEMES:END -->
 
 ---
 
