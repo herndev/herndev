@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
- - ⏩ [They never forget](http://9gag.com/gag/aXPEdOD)
- - 👉 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)<!-- MEMES:END -->
+ - ⏩ [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)
+ - 👉 [The average woman these days](http://9gag.com/gag/aD2wP4O)<!-- MEMES:END -->
 
 ---
 
