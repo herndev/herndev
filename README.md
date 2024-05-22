@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows AI feature takes screenshots of your desktop &#39;every few seconds&#39; and I can&#39;t imagine wanting that](https://www.pcgamer.com/software/windows/windows-ai-feature-takes-screenshots-of-your-desktop-every-few-seconds-and-i-cant-imagine-wanting-that)
+ - [New Windows AI feature takes screenshots of your desktop &#39;every few seconds&#39; and I can&#39;t imagine wanting that](https://www.pcgamer.com/software/windows/windows-ai-feature-takes-screenshots-of-your-desktop-every-few-seconds-and-i-cant-imagine-wanting-that)
  - [Elden Ring Shadow of the Erdtree&#39;s story trailer has fans thinking we just saw the bloody birth of a god](https://www.pcgamer.com/games/rpg/elden-ring-fans-are-pretty-sure-those-bodies-are-a-tree-in-the-shadow-of-the-erdtree-story-trailer)
  - [Crytek director says Hunt: Showdown&#39;s big August update represents &#39;a significant relaunch of Hunt: Showdown at a whole new level&#39;](https://www.pcgamer.com/games/fps/crytek-director-says-hunt-showdowns-big-august-update-represents-a-significant-relaunch-of-hunt-showdown-at-a-whole-new-level)<!-- GAME:END -->
 
