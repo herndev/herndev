@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice guys finish last](http://9gag.com/gag/aYQpRYV)
- - ⏩ [Emergency exit row passenger gets kicked off after refusing to acknowledge flight attendant&#39;s pre-flight exit row safety instructions, gets arrested](http://9gag.com/gag/aD2wQ1N)
- - 👉 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)<!-- MEMES:END -->
+ - 💣 [Full time job!](http://9gag.com/gag/aByQjzP)
+ - ⏩ [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
+ - 👉 [Palestine slogan is hate speech](http://9gag.com/gag/aPAyzDg)<!-- MEMES:END -->
 
 ---
 
