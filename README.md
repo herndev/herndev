@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Truecaller and Microsoft will let users make an AI voice to answer calls](https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant)
- - [The best Memorial Day deals you can already get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [Latest Google Pay updates aim to simplify your online shopping and checkout experience](https://www.androidauthority.com/google-pay-updates-3445629/)<!-- TECH:END -->
+ - [NASA’s Psyche mission fires up its futuristic electric engines](https://www.theverge.com/2024/5/22/24162775/nasa-psyche-mission-hall-thruster-asteroid-belt-mars)
+ - [Nvidia will now make new AI chips every year](https://www.theverge.com/2024/5/22/24162860/nvidia-ai-chip-every-year-blackwell-rubin)
+ - [Portland-based Hydrolix, a data lake service that offers a repository for log data, raised a $35M Series B led by S3 Ventures, bringing its total raised to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240522/p31#a240522p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
