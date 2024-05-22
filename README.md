@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - ⏩ [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)
- - 👉 [The average woman these days](http://9gag.com/gag/aD2wP4O)<!-- MEMES:END -->
+ - 💣 [Use ALL the cameras](http://9gag.com/gag/aryerE0)
+ - ⏩ [Full time job!](http://9gag.com/gag/aByQjzP)
+ - 👉 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)<!-- MEMES:END -->
 
 ---
 
