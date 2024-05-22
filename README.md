@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You are cordially invited to ruin our esports career](https://www.polygon.com/2024/5/13/24153848/polygon-livestream-the-sims-4-charlie-mcdonnell)
- - [Why do Delicious in Dungeon’s kobolds look like dogs?](https://www.polygon.com/anime/24162578/delicious-in-dungeon-kobold-design)
- - [Norco Dev&#39;s New Demo Is A Playable Metal Album](https://kotaku.com/norco-developer-silenus-demo-thou-umbilical-album-1851493952)<!-- GAME:END -->
+ - [Lorelei and the Laser Eyes has a tampon because people carry tampons](https://www.polygon.com/gaming/24162613/lorelei-and-the-laser-eyes-tampon-why-reason-item)
+ - [All Bardarvik sea giant rune puzzle solutions in Hellblade 2](https://www.polygon.com/guides/24162482/hellblade-2-bardarvik-sea-giant-rune-puzzle-solutions)
+ - [Yolk Heroes: A Long Tamago won’t take a ton of your time — but it’s worth every minute](https://www.polygon.com/24161871/yolk-heroes-a-long-tamago-pet-sim-idle-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
