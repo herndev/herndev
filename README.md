@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Link-in-bio startup Linktree passes 50M users, up from 41M in December 2023 and 47M+ in March 2024, and launches a beta of its social commerce product &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240522/p15#a240522p15)
- - [Apple Music&#39;s best 100 albums list is done, and it&#39;s controversial](https://appleinsider.com/articles/24/05/22/apple-musics-best-100-albums-list-is-done-and-its-controversial?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 22&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-22-2024-3444497/)<!-- TECH:END -->
+ - [Amazon Alexa’s big AI upgrade could require a new subscription](https://www.theverge.com/2024/5/22/24162412/amazon-alexa-ai-upgrade-subscription-fee-extra)
+ - [AWS plans to invest &amp;euro;15.7B in data centers in Spain&#39;s Aragon region, replacing a 2021 plan to spend &amp;euro;2.5B; the Aragon government says the deal is over 10 years &lpar;Reuters&rpar;](http://www.techmeme.com/240522/p17#a240522p17)
+ - [Super Mario Maker 64 exists, thanks to a new ROM hack](https://www.theverge.com/2024/5/22/24162373/super-mario-maker-builder-64-rom-hack-nintendo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
