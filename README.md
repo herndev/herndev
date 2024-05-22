@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok launches its Symphony AI suite for brands, using generative AI to let marketers write scripts, produce videos, and enhance current assets &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240522/p19#a240522p19)
- - [Sonos CEO Patrick Spence addresses the company’s divisive app redesign](https://www.theverge.com/2024/5/22/24162168/sonos-ceo-patrick-spence-new-app-design-interview)
- - [Marvel&#39;s &#39;What If...? - an Immersive Story&#39; coming to Apple Vision Pro on May 30](https://appleinsider.com/articles/24/05/22/marvels-what-if---an-immersive-story-coming-to-apple-vision-pro-on-may-30?utm_medium=rss)<!-- TECH:END -->
+ - [Furiosa is a leaner, meaner Mad Max story](https://www.theverge.com/24161853/furiosa-mad-max-review)
+ - [T-Mobile is raising prices on several of its plans](https://www.theverge.com/2024/5/22/24162490/t-mobile-price-increase-magenta-one-simple-choice-plans)
+ - [Picture-in-picture mode is finally coming to Google TV, but there’s a catch](https://www.androidauthority.com/google-tv-picture-in-picture-3445563/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
