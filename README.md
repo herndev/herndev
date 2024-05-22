@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paytm&#39;s parent One 97 Communications reports a $66.1M net loss in Q4, up from $20.11M in Q4 2023, on $272.3M revenue, as it grappled with a regulatory clampdown &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240522/p3#a240522p3)
- - [Google Photos is readying a new ‘Cinematic Moment’ feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-cinematic-moment-3445399/)
- - [AWS says the transition from Nvidia&#39;s Grace Hopper to Blackwell chips applies only to Project Ceiba, a supercomputer that AWS and Nvidia are building together &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240522/p2#a240522p2)<!-- TECH:END -->
+ - [OpenAI&#39;s Scarlett Johansson debacle is merely a reminder of AI&#39;s manifest destiny philosophy: &quot;This is happening, whether you like it or not&quot;, consent be damned &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/240522/p5#a240522p5)
+ - [This website shows you which games run on Windows on Arm laptops](https://www.androidauthority.com/windows-on-arm-supported-games-3445401/)
+ - [How Pinecone and other startups use vector databases and retrieval-augmented generation, or RAG, to help businesses link their private data with LLMs &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p4#a240522p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
