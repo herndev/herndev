@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - ⏩ [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
- - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
+ - 💣 [The average woman these days](http://9gag.com/gag/aD2wP4O)
+ - ⏩ [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
+ - 👉 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)<!-- MEMES:END -->
 
 ---
 
