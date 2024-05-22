@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet’s adaptive audio connects mics from multiple laptops for clearer audio](https://www.theverge.com/2024/5/22/24162666/google-meet-workspace-adaptive-audio)
- - [Lawyers say OpenAI could be in real trouble with Scarlett Johansson](https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers)
- - [Snowflake reports Q1 revenue up 33% YoY to $828.7M, product revenue up 34% YoY to $789.6M, vs. $749M est., and projects Q2 product revenue above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240522/p28#a240522p28)<!-- TECH:END -->
+ - [Truecaller and Microsoft will let users make an AI voice to answer calls](https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant)
+ - [The best Memorial Day deals you can already get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
+ - [Latest Google Pay updates aim to simplify your online shopping and checkout experience](https://www.androidauthority.com/google-pay-updates-3445629/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
