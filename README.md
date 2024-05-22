@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new diversity exec hails from Bank of America](https://appleinsider.com/articles/24/05/22/apples-new-diversity-exec-hails-from-bank-of-america?utm_medium=rss)
- - [If You Can&#39;t Pay Your Credit Card Bills This Month, Here&#39;s What You Can Do     - CNET](https://www.cnet.com/personal-finance/credit-cards/if-you-cant-pay-your-credit-card-bills-this-month-heres-what-you-can-do/#ftag=CAD590a51e)
- - [VC firm Alicorn agrees to take Glassbox private in a deal worth ~$150M; the analytics software company was valued at ~$500M in June 2021 in its Tel Aviv IPO &lpar;Almog Azar/CTech&rpar;](http://www.techmeme.com/240521/p43#a240521p43)<!-- TECH:END -->
+ - [Toulouse-based OneStock, which provides a cloud-native order management system to retailers, raised $72M from Summit Partners for its continued global expansion &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240521/p45#a240521p45)
+ - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)
+ - [Adobe Acrobat may soon use on-device AI to summarize documents on Android](https://www.androidauthority.com/adobe-acrobat-ai-summaries-3445302/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
