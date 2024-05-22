@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the Developers of Dragon Ball Xenoverse 2 Introduced Future Saga](https://news.xbox.com/en-us/2024/05/22/how-dragon-ball-xenoverse-2-introduced-future-saga/)
- - [We’re hosting a free screening of the new Haikyu!! movie this Sunday](https://www.polygon.com/2024/5/22/24160703/haikyu-dumpster-battle-polygon-screening-frida)
- - [DDR6 looks set to double data speeds over DDR5, with DDR6-21000 being the ultimate target](https://www.pcgamer.com/hardware/memory/ddr6-looks-set-to-double-data-speeds-over-ddr5-with-ddr6-21000-being-the-ultimate-target)<!-- GAME:END -->
+ - [How HotShot Became XDefiant’s Most Anticipated Game Mode](https://news.xbox.com/en-us/2024/05/22/how-hotshot-became-xdefiants-most-anticipated-game-mode/)
+ - [Tom King’s Archie one-shot will finally ‘solve’ the dilemma of Betty or Veronica](https://www.polygon.com/24161985/tom-king-archie-comic-decision-bettie-veronica)
+ - [New Witcher 3 Mod Lets You Revisit The Original Game&#39;s World](https://kotaku.com/witcher-3-mod-witcher-1-maps-redkit-1851493411)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
