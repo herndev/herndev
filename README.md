@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Fortnite downtime end and Chapter 5 Season 3 release?](https://www.polygon.com/fortnite-guide/2024/5/22/24161733/chapter-5-season-3-release-time-start-c5s3-wrecked)
- - [3DMark Steel Nomad is now available to give your GPU an inferiority complex](https://www.pcgamer.com/hardware/graphics-cards/3dmark-steel-nomad-is-now-available-to-give-your-gpu-an-inferiority-complex)
- - [Today&#39;s Wordle answer for Wednesday, May 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-22-2024)<!-- GAME:END -->
+ - [Here&#39;s a quick fix for Wuthering Waves not launching on Epic Games](https://www.pcgamer.com/games/rpg/wuthering-waves-epic-games-not-launching)
+ - [Elden Ring: Shadow of the Erdtree – Story Trailer](https://youtu.be/i1FFSskQ8HA#new_tab)
+ - [Microsoft&#39;s auto AI upscaler will only be available on Snapdragon-powered Copilot+ AI PCs to begin with](https://www.pcgamer.com/hardware/microsofts-auto-ai-upscaler-will-only-be-available-on-snapdragon-powered-copilot-ai-pcs-to-begin-with)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
