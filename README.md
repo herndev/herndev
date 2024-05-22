@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Use ALL the cameras](http://9gag.com/gag/aryerE0)
- - ⏩ [Full time job!](http://9gag.com/gag/aByQjzP)
- - 👉 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)<!-- MEMES:END -->
+ - 💣 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
+ - ⏩ [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)
+ - 👉 [They never forget](http://9gag.com/gag/aXPEdOD)<!-- MEMES:END -->
 
 ---
 
