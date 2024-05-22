@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now install Windows 11’s next big update early](https://www.theverge.com/2024/5/22/24162671/microsoft-windows-11-24h2-release-preview-download)
- - [Google Pay will start showing credit card benefits at checkout](https://www.theverge.com/2024/5/22/24162601/google-pay-card-benefits-buy-now-later-auto-fill)
- - [Lawmakers debate ending Section 230 in order to save it](https://www.theverge.com/2024/5/22/24161150/section-230-tech-liability-shield-sunset)<!-- TECH:END -->
+ - [Sources: AI chip startup Groq has told investors it wants to raise about $300M by the end of month; Groq previously raised more than $367M at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/240522/p24#a240522p24)
+ - [Poll: Tell us how you feel about T-Mobile’s price hikes](https://www.androidauthority.com/tmobile-price-hike-poll-3445602/)
+ - [Pebblebee’s new Find My Device trackers might arrive sooner than expected](https://www.androidauthority.com/pebblebee-find-my-device-trackers-ship-early-3445570/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
