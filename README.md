@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Ninja: How Ninja Gaiden and Nioh connect to Rise of the Ronin](https://blog.playstation.com/2024/05/22/team-ninja-how-ninja-gaiden-and-nioh-connect-to-rise-of-the-ronin/)
- - [Team Ninja: How Ninja Gaiden and Nioh connect to Rise of the Ronin](https://blog.playstation.com/2024/05/22/team-ninja-how-ninja-gaiden-and-nioh-connect-to-rise-of-the-ronin/)
- - [How HotShot Became XDefiant’s Most Anticipated Game Mode](https://news.xbox.com/en-us/2024/05/22/how-hotshot-became-xdefiants-most-anticipated-game-mode/)<!-- GAME:END -->
+ - [Cassette Beasts Multiplayer Update is Out Now](https://news.xbox.com/en-us/2024/05/22/cassette-beasts-multiplayer-update-is-out-now/)
+ - [The Doof Warrior is still Mad Max: Fury Road’s most iconic image](https://www.polygon.com/24161947/mad-max-fury-road-doof-warrior-origins-furiosa-george-miller)
+ - [Netflix finally reveals Liam Hemsworth as Geralt in The Witcher season 4, and I think he looks pretty good](https://www.pcgamer.com/movies-tv/netflix-finally-reveals-liam-hemsworth-as-geralt-in-the-witcher-season-4-and-i-think-he-looks-pretty-good)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
