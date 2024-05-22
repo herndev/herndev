@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a quick fix for Wuthering Waves not launching on Epic Games](https://www.pcgamer.com/games/rpg/wuthering-waves-epic-games-not-launching)
- - [Elden Ring: Shadow of the Erdtree – Story Trailer](https://youtu.be/i1FFSskQ8HA#new_tab)
- - [Microsoft&#39;s auto AI upscaler will only be available on Snapdragon-powered Copilot+ AI PCs to begin with](https://www.pcgamer.com/hardware/microsofts-auto-ai-upscaler-will-only-be-available-on-snapdragon-powered-copilot-ai-pcs-to-begin-with)<!-- GAME:END -->
+ - [Where to find the Earthen Ring quartermaster in WoW Cataclysm](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-earthen-ring-quartermaster)
+ - [A USB stick that will hold your precious data for 200 years, what&#39;s the catch? Er... it only holds 8kB](https://www.pcgamer.com/hardware/storage/a-usb-stick-that-will-hold-your-precious-data-for-200-years-whats-the-catch-er-it-only-holds-8kb)
+ - [Glorious Model D 2 gaming mouse review](https://www.pcgamer.com/hardware/gaming-mice/glorious-model-d-2-gaming-mouse-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
