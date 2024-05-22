@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [3DMark Steel Nomad is now available to give your GPU an inferiority complex](https://www.pcgamer.com/hardware/graphics-cards/3dmark-steel-nomad-is-now-available-to-give-your-gpu-an-inferiority-complex)
  - [Today&#39;s Wordle answer for Wednesday, May 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-22-2024)
- - [New Windows AI feature takes screenshots of your desktop &#39;every few seconds&#39; and I can&#39;t imagine wanting that](https://www.pcgamer.com/software/windows/windows-ai-feature-takes-screenshots-of-your-desktop-every-few-seconds-and-i-cant-imagine-wanting-that)
- - [Elden Ring Shadow of the Erdtree&#39;s story trailer has fans thinking we just saw the bloody birth of a god](https://www.pcgamer.com/games/rpg/elden-ring-fans-are-pretty-sure-those-bodies-are-a-tree-in-the-shadow-of-the-erdtree-story-trailer)<!-- GAME:END -->
+ - [New Windows AI feature takes screenshots of your desktop &#39;every few seconds&#39; and I can&#39;t imagine wanting that](https://www.pcgamer.com/software/windows/windows-ai-feature-takes-screenshots-of-your-desktop-every-few-seconds-and-i-cant-imagine-wanting-that)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
