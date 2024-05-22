@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Evil&#39; Season 4: What to Remember Before Streaming the Final Season     - CNET](https://www.cnet.com/tech/services-and-software/evil-season-4-what-to-remember-before-streaming-the-final-season/#ftag=CAD590a51e)
- - [Google TV is getting a ‘find my remote’ feature](https://www.theverge.com/2024/5/22/24162311/google-tv-find-my-remote-android-14-feature)
- - [Google starts rolling out its Magic Editor and other AI tools to all Android and iOS users for free via Photos, offering 10 Magic Editor library saves per month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240522/p12#a240522p12)<!-- TECH:END -->
+ - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers [u]](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
+ - [How to Clear Your Browser&#39;s Cache, and Why You Should](https://www.wired.com/story/how-to-clear-your-browsers-cache/)
+ - [&#39;Evil&#39; Season 4: What to Remember Before Streaming the Final Season     - CNET](https://www.cnet.com/tech/services-and-software/evil-season-4-what-to-remember-before-streaming-the-final-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
