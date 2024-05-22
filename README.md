@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The actual bananas is this?!](http://9gag.com/gag/a5QNyEq)
- - ⏩ [Pro-Hamas professor at UCLA goes completely UNHINGED after seeing a Jewish student holding an Israeli flag.](http://9gag.com/gag/aXPEdqP)
- - 👉 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)<!-- MEMES:END -->
+ - 💣 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - ⏩ [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)
+ - 👉 [The average woman these days](http://9gag.com/gag/aD2wP4O)<!-- MEMES:END -->
 
 ---
 
