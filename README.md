@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s Scarlett Johansson debacle is merely a reminder of AI&#39;s manifest destiny philosophy: &quot;This is happening, whether you like it or not&quot;, consent be damned &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/240522/p5#a240522p5)
- - [This website shows you which games run on Windows on Arm laptops](https://www.androidauthority.com/windows-on-arm-supported-games-3445401/)
- - [How Pinecone and other startups use vector databases and retrieval-augmented generation, or RAG, to help businesses link their private data with LLMs &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p4#a240522p4)<!-- TECH:END -->
+ - [The Galaxy Ring could cost as much as an Oura and come with a subscription too](https://www.androidauthority.com/samsung-galaxy-ring-subscription-price-leak-3445434/)
+ - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)
+ - [Are SSI Recipients Getting More Money This Fall? What to Know     - CNET](https://www.cnet.com/personal-finance/are-ssi-recipients-getting-more-money-this-fall-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
