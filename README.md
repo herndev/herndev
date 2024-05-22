@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a cool dad](http://9gag.com/gag/amoLby9)
- - ⏩ [5.1 K upvotes and then deleted - did I break a record?](http://9gag.com/gag/ae93d7p)
- - 👉 [Smashing the old lining of a chimney](http://9gag.com/gag/a0ePxoq)<!-- MEMES:END -->
+ - 💣 [The actual bananas is this?!](http://9gag.com/gag/a5QNyEq)
+ - ⏩ [Pro-Hamas professor at UCLA goes completely UNHINGED after seeing a Jewish student holding an Israeli flag.](http://9gag.com/gag/aXPEdqP)
+ - 👉 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)<!-- MEMES:END -->
 
 ---
 
