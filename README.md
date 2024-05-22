@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)
- - ⏩ [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 👉 [Nice guys finish last](http://9gag.com/gag/aYQpRYV)<!-- MEMES:END -->
+ - 💣 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
+ - ⏩ [It really makes me happy watching them playing with old fashion classic games.](http://9gag.com/gag/aGyV6V5)
+ - 👉 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)<!-- MEMES:END -->
 
 ---
 
