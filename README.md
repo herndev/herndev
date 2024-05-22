@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - ⏩ [It really makes me happy watching them playing with old fashion classic games.](http://9gag.com/gag/aGyV6V5)
- - 👉 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)<!-- MEMES:END -->
+ - 💣 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - ⏩ [Women are complicated](http://9gag.com/gag/amoLb4j)
+ - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
 
 ---
 
