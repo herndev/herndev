@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Ring could cost as much as an Oura and come with a subscription too](https://www.androidauthority.com/samsung-galaxy-ring-subscription-price-leak-3445434/)
- - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)
- - [Are SSI Recipients Getting More Money This Fall? What to Know     - CNET](https://www.cnet.com/personal-finance/are-ssi-recipients-getting-more-money-this-fall-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 will reportedly boost Apple Music with these features](https://www.androidauthority.com/ios-18-music-crossfade-rumor-3445412/)
+ - [HONOR announces ambitious AI plans for Magic OS 8.0](https://www.androidauthority.com/honor-magic-os-8-ai-features-3445419/)
+ - [These upcoming phones promise to bring an iconic French studio’s photography expertise](https://www.androidauthority.com/honor-200-launch-date-3445337/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
