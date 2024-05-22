@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Earthen Ring quartermaster in WoW Cataclysm](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-earthen-ring-quartermaster)
- - [A USB stick that will hold your precious data for 200 years, what&#39;s the catch? Er... it only holds 8kB](https://www.pcgamer.com/hardware/storage/a-usb-stick-that-will-hold-your-precious-data-for-200-years-whats-the-catch-er-it-only-holds-8kb)
- - [Glorious Model D 2 gaming mouse review](https://www.pcgamer.com/hardware/gaming-mice/glorious-model-d-2-gaming-mouse-review)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Shadows isn&#39;t even out for 6 months, but Ghost of Tsushima ate its lunch 4 years ago and the superb PC Director&#39;s Cut rubs salt in the wound](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-isnt-even-out-for-6-months-but-ghost-of-tsushima-ate-its-lunch-4-years-ago-and-the-superb-pc-directors-cut-rubs-salt-in-the-wound)
+ - [Senua’s Saga: Hellblade II – Our Full Four-Part Feature Series](https://news.xbox.com/en-us/2024/05/22/senuas-saga-hellblade-ii-our-full-four-part-feature-series/)
+ - [Where to find the Earthen Ring quartermaster in WoW Cataclysm](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-earthen-ring-quartermaster)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
