@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 will reportedly boost Apple Music with these features](https://www.androidauthority.com/ios-18-music-crossfade-rumor-3445412/)
- - [HONOR announces ambitious AI plans for Magic OS 8.0](https://www.androidauthority.com/honor-magic-os-8-ai-features-3445419/)
- - [These upcoming phones promise to bring an iconic French studio’s photography expertise](https://www.androidauthority.com/honor-200-launch-date-3445337/)<!-- TECH:END -->
+ - [Cambridge-based Raspberry Pi confirms plans for a London Stock Exchange IPO, aiming to raise $40M and listing in June, and reports $265.8M in 2023 revenue &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240522/p7#a240522p7)
+ - [A future foldable iPhone could have a self-healing screen](https://www.androidauthority.com/apple-self-healing-foldable-screen-patent-3445460/)
+ - [Google says Android 15 Beta 2.1 might not fix Private Space issue &lpar;Updated&rpar;](https://www.androidauthority.com/android-15-beta-2-1-3445104/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
