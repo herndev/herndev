@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lorelei and the Laser Eyes has a tampon because people carry tampons](https://www.polygon.com/gaming/24162613/lorelei-and-the-laser-eyes-tampon-why-reason-item)
- - [All Bardarvik sea giant rune puzzle solutions in Hellblade 2](https://www.polygon.com/guides/24162482/hellblade-2-bardarvik-sea-giant-rune-puzzle-solutions)
- - [Yolk Heroes: A Long Tamago won’t take a ton of your time — but it’s worth every minute](https://www.polygon.com/24161871/yolk-heroes-a-long-tamago-pet-sim-idle-game)<!-- GAME:END -->
+ - [The Kingdom Hearts Games, Ranked From Worst To Best](https://kotaku.com/kingdom-hearts-best-games-ranked-2-3-birth-by-sleep-1851494518)
+ - [Destiny 2 is finally nerfing its most broken ult, but as a Warlock main I fear my teammates will still want to crutch on it](https://www.pcgamer.com/games/fps/destiny-2-is-finally-nerfing-its-most-broken-ult-but-as-a-warlock-main-i-fear-my-teammates-will-still-want-to-crutch-on-it)
+ - [New Call of Duty teaser site does everything but come out and say &#39;here&#39;s the next Black Ops&#39;](https://www.pcgamer.com/games/call-of-duty/new-call-of-duty-teaser-site-does-everything-but-come-out-and-say-heres-the-next-black-ops)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
