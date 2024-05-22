@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full time job!](http://9gag.com/gag/aByQjzP)
- - ⏩ [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
- - 👉 [Palestine slogan is hate speech](http://9gag.com/gag/aPAyzDg)<!-- MEMES:END -->
+ - 💣 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - ⏩ [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
+ - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
 
 ---
 
