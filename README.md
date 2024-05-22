@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers [u]](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
- - [How to Clear Your Browser&#39;s Cache, and Why You Should](https://www.wired.com/story/how-to-clear-your-browsers-cache/)
- - [&#39;Evil&#39; Season 4: What to Remember Before Streaming the Final Season     - CNET](https://www.cnet.com/tech/services-and-software/evil-season-4-what-to-remember-before-streaming-the-final-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Link-in-bio startup Linktree passes 50M users, up from 41M in December 2023 and 47M+ in March 2024, and launches a beta of its social commerce product &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240522/p15#a240522p15)
+ - [Apple Music&#39;s best 100 albums list is done, and it&#39;s controversial](https://appleinsider.com/articles/24/05/22/apple-musics-best-100-albums-list-is-done-and-its-controversial?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 22&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-22-2024-3444497/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
