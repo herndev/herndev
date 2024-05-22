@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s fashion-forward Lily 2 tracker is on sale for $50 off](https://www.theverge.com/2024/5/21/24161293/garmin-lily-2-fitness-tracker-amazon-fire-tv-cube-deal-sale)
- - [Minnesota lawmakers reach a compromise with Uber and Lyft, setting a floor for drivers&#39; pay statewide at $1.28/mile and $0.31/minute, effective January 1, 2025 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240521/p38#a240521p38)
- - [Quantum Fiber Plans: Pricing, Speeds and Availability Compared     - CNET](https://www.cnet.com/home/internet/quantum-fiber-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Humane is seeking a buyer for its business, after the rocky launch of its AI pin; a source says the startup is seeking a price of between $750M and $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p40#a240521p40)
+ - [A look at Paperless Post, a New York-based software company for sending online invitations and events that launched in 2009 and has sent ~650M invitations &lpar;Christopher Barnard/New York Times&rpar;](http://www.techmeme.com/240521/p39#a240521p39)
+ - [Report reveals Samsung’s chip choice for its next-gen foldables, and we’re thrilled](https://www.androidauthority.com/galaxy-z-flip-6-snapdragon-3445354/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
