@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - ⏩ [I miss when Games were made by Gamers for Gamers](http://9gag.com/gag/aD2wNZK)
- - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
+ - 💣 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - ⏩ [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
+ - 👉 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)<!-- MEMES:END -->
 
 ---
 
