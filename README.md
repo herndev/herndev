@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Survival base-builder Nightingale&#39;s offline mode has arrived—along with celebrities like Joan of Arc and Edgar Allen Poe](https://www.pcgamer.com/games/survival-crafting/survival-base-builder-nightingales-offline-mode-has-arrivedalong-with-celebrities-like-joan-of-arc-and-edgar-allen-poe)
  - [One Of The Best Cowboy Games Ever Made Is Only $1.50 On Steam](https://kotaku.com/call-of-juarez-gunslinger-fps-sale-steam-pc-red-dead-2-1851495121)
- - [After only 4 months, Blizzard has axed one of Overwatch 2&#39;s last PvE modes because it &#39;hasn&#39;t resonated with players in the ways that we hoped&#39;](https://www.pcgamer.com/games/fps/after-only-4-months-blizzard-has-axed-one-of-overwatch-2s-last-pve-modes-because-it-hasnt-resonated-with-players-in-the-ways-that-we-hoped)
- - [Helldivers 2 boss wants to make Arrowhead &#39;the next FromSoftware or Blizzard&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-boss-wants-to-make-arrowhead-the-next-fromsoftware-or-blizzard)<!-- GAME:END -->
+ - [After only 4 months, Blizzard will axe one of Overwatch 2&#39;s last PvE modes because it &#39;hasn&#39;t resonated with players in the ways that we hoped&#39;](https://www.pcgamer.com/games/fps/after-only-4-months-blizzard-has-axed-one-of-overwatch-2s-last-pve-modes-because-it-hasnt-resonated-with-players-in-the-ways-that-we-hoped)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
