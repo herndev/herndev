@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI chip startup Groq has told investors it wants to raise about $300M by the end of month; Groq previously raised more than $367M at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/240522/p24#a240522p24)
- - [Poll: Tell us how you feel about T-Mobile’s price hikes](https://www.androidauthority.com/tmobile-price-hike-poll-3445602/)
- - [Pebblebee’s new Find My Device trackers might arrive sooner than expected](https://www.androidauthority.com/pebblebee-find-my-device-trackers-ship-early-3445570/)<!-- TECH:END -->
+ - [Google Meet’s adaptive audio connects mics from multiple laptops for clearer audio](https://www.theverge.com/2024/5/22/24162666/google-meet-workspace-adaptive-audio)
+ - [Lawyers say OpenAI could be in real trouble with Scarlett Johansson](https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers)
+ - [Snowflake reports Q1 revenue up 33% YoY to $828.7M, product revenue up 34% YoY to $789.6M, vs. $749M est., and projects Q2 product revenue above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240522/p28#a240522p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
