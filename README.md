@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Alexa’s big AI upgrade could require a new subscription](https://www.theverge.com/2024/5/22/24162412/amazon-alexa-ai-upgrade-subscription-fee-extra)
- - [AWS plans to invest &amp;euro;15.7B in data centers in Spain&#39;s Aragon region, replacing a 2021 plan to spend &amp;euro;2.5B; the Aragon government says the deal is over 10 years &lpar;Reuters&rpar;](http://www.techmeme.com/240522/p17#a240522p17)
- - [Super Mario Maker 64 exists, thanks to a new ROM hack](https://www.theverge.com/2024/5/22/24162373/super-mario-maker-builder-64-rom-hack-nintendo)<!-- TECH:END -->
+ - [Shazam can now run in the background with Live Activities](https://appleinsider.com/articles/24/05/22/shazam-can-now-run-in-the-background-with-live-activities?utm_medium=rss)
+ - [Old iPads are a staple in US homes, long after they&#39;ve gone obsolete](https://appleinsider.com/articles/24/05/22/old-ipads-are-a-staple-in-us-homes-long-after-theyve-gone-obsolete?utm_medium=rss)
+ - [Here’s your first look at Liam Hemsworth in The Witcher](https://www.theverge.com/2024/5/22/24162497/the-witcher-netflix-liam-hemsworth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
