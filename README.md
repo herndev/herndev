@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Furiosa is a leaner, meaner Mad Max story](https://www.theverge.com/24161853/furiosa-mad-max-review)
- - [T-Mobile is raising prices on several of its plans](https://www.theverge.com/2024/5/22/24162490/t-mobile-price-increase-magenta-one-simple-choice-plans)
- - [Picture-in-picture mode is finally coming to Google TV, but there’s a catch](https://www.androidauthority.com/google-tv-picture-in-picture-3445563/)<!-- TECH:END -->
+ - [You can now install Windows 11’s next big update early](https://www.theverge.com/2024/5/22/24162671/microsoft-windows-11-24h2-release-preview-download)
+ - [Google Pay will start showing credit card benefits at checkout](https://www.theverge.com/2024/5/22/24162601/google-pay-card-benefits-buy-now-later-auto-fill)
+ - [Lawmakers debate ending Section 230 in order to save it](https://www.theverge.com/2024/5/22/24161150/section-230-tech-liability-shield-sunset)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
