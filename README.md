@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS says the transition from Nvidia&#39;s Grace Hopper to Blackwell chips applies only to Project Ceiba, a supercomputer that AWS and Nvidia are building together &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240522/p2#a240522p2)
- - [London-based LabGenius, which uses ML to find and design antibody therapies to treat cancer, raised a &amp;pound;35M Series B led by Merck&#39;s VC arm, M Ventures &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/240522/p1#a240522p1)
- - [AI pin maker Humane is reportedly looking to sell its business](https://www.androidauthority.com/humane-ai-pin-business-sale-3445396/)<!-- TECH:END -->
+ - [Paytm&#39;s parent One 97 Communications reports a $66.1M net loss in Q4, up from $20.11M in Q4 2023, on $272.3M revenue, as it grappled with a regulatory clampdown &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240522/p3#a240522p3)
+ - [Google Photos is readying a new ‘Cinematic Moment’ feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-cinematic-moment-3445399/)
+ - [AWS says the transition from Nvidia&#39;s Grace Hopper to Blackwell chips applies only to Project Ceiba, a supercomputer that AWS and Nvidia are building together &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240522/p2#a240522p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
