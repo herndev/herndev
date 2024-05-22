@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Kingdom Hearts Games, Ranked From Worst To Best](https://kotaku.com/kingdom-hearts-best-games-ranked-2-3-birth-by-sleep-1851494518)
- - [Destiny 2 is finally nerfing its most broken ult, but as a Warlock main I fear my teammates will still want to crutch on it](https://www.pcgamer.com/games/fps/destiny-2-is-finally-nerfing-its-most-broken-ult-but-as-a-warlock-main-i-fear-my-teammates-will-still-want-to-crutch-on-it)
- - [New Call of Duty teaser site does everything but come out and say &#39;here&#39;s the next Black Ops&#39;](https://www.pcgamer.com/games/call-of-duty/new-call-of-duty-teaser-site-does-everything-but-come-out-and-say-heres-the-next-black-ops)<!-- GAME:END -->
+ - [The Studio Behind 2024&#39;s Biggest Hit Doesn&#39;t Plan On Selling Out Anytime Soon](https://kotaku.com/helldivers-2-sony-playstation-ps5-acquired-threats-1851494941)
+ - [MultiVersus: What Do Returning Players Get?](https://kotaku.com/multiversus-1-0-beta-players-rewards-1851494875)
+ - [As Helldivers 2 boss Johan Pilestedt hangs up his CEO hat to focus on the creative side, he has one big change in mind: &#39;My working theory is that time-to-kill is too high&#39;](https://www.pcgamer.com/games/third-person-shooter/as-helldivers-2-boss-johan-pilestedt-hangs-up-his-ceo-hat-to-focus-on-the-creative-side-he-has-one-big-change-in-mind-my-working-theory-is-that-time-to-kill-is-too-high)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
