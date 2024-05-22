@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - ⏩ [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
+ - 💣 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - ⏩ [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
 
 ---
 
