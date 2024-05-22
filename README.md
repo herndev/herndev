@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Humane is seeking a buyer for its business, after the rocky launch of its AI pin; a source says the startup is seeking a price of between $750M and $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p40#a240521p40)
- - [A look at Paperless Post, a New York-based software company for sending online invitations and events that launched in 2009 and has sent ~650M invitations &lpar;Christopher Barnard/New York Times&rpar;](http://www.techmeme.com/240521/p39#a240521p39)
- - [Report reveals Samsung’s chip choice for its next-gen foldables, and we’re thrilled](https://www.androidauthority.com/galaxy-z-flip-6-snapdragon-3445354/)<!-- TECH:END -->
+ - [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin)
+ - [The UK ICO is &quot;making enquiries with Microsoft&quot; over the company&#39;s Recall feature, which some privacy campaigners have called a potential &quot;privacy nightmare&quot; &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/240521/p42#a240521p42)
+ - [WitnessAI, which intercepts employees&#39; use of custom generative AI models and applies safeguards, raised a $27.5M Series A co-led by GV and Ballistic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240521/p41#a240521p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
