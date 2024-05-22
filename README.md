@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cassette Beasts Multiplayer Update is Out Now](https://news.xbox.com/en-us/2024/05/22/cassette-beasts-multiplayer-update-is-out-now/)
- - [The Doof Warrior is still Mad Max: Fury Road’s most iconic image](https://www.polygon.com/24161947/mad-max-fury-road-doof-warrior-origins-furiosa-george-miller)
- - [Netflix finally reveals Liam Hemsworth as Geralt in The Witcher season 4, and I think he looks pretty good](https://www.pcgamer.com/movies-tv/netflix-finally-reveals-liam-hemsworth-as-geralt-in-the-witcher-season-4-and-i-think-he-looks-pretty-good)<!-- GAME:END -->
+ - [You are cordially invited to ruin our esports career](https://www.polygon.com/2024/5/13/24153848/polygon-livestream-the-sims-4-charlie-mcdonnell)
+ - [Why do Delicious in Dungeon’s kobolds look like dogs?](https://www.polygon.com/anime/24162578/delicious-in-dungeon-kobold-design)
+ - [Norco Dev&#39;s New Demo Is A Playable Metal Album](https://kotaku.com/norco-developer-silenus-demo-thou-umbilical-album-1851493952)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
