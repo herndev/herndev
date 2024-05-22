@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How HotShot Became XDefiant’s Most Anticipated Game Mode](https://news.xbox.com/en-us/2024/05/22/how-hotshot-became-xdefiants-most-anticipated-game-mode/)
- - [Tom King’s Archie one-shot will finally ‘solve’ the dilemma of Betty or Veronica](https://www.polygon.com/24161985/tom-king-archie-comic-decision-bettie-veronica)
- - [New Witcher 3 Mod Lets You Revisit The Original Game&#39;s World](https://kotaku.com/witcher-3-mod-witcher-1-maps-redkit-1851493411)<!-- GAME:END -->
+ - [Team Ninja: How Ninja Gaiden and Nioh connect to Rise of the Ronin](https://blog.playstation.com/2024/05/22/team-ninja-how-ninja-gaiden-and-nioh-connect-to-rise-of-the-ronin/)
+ - [Team Ninja: How Ninja Gaiden and Nioh connect to Rise of the Ronin](https://blog.playstation.com/2024/05/22/team-ninja-how-ninja-gaiden-and-nioh-connect-to-rise-of-the-ronin/)
+ - [How HotShot Became XDefiant’s Most Anticipated Game Mode](https://news.xbox.com/en-us/2024/05/22/how-hotshot-became-xdefiants-most-anticipated-game-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
