@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
- - [Microsoft and UAE-based G42 plan to build a $1B geothermal-powered data center in Kenya, opening in about two years, to boost computing capacity in East Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/240522/p10#a240522p10)
- - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)<!-- TECH:END -->
+ - [&#39;Evil&#39; Season 4: What to Remember Before Streaming the Final Season     - CNET](https://www.cnet.com/tech/services-and-software/evil-season-4-what-to-remember-before-streaming-the-final-season/#ftag=CAD590a51e)
+ - [Google TV is getting a ‘find my remote’ feature](https://www.theverge.com/2024/5/22/24162311/google-tv-find-my-remote-android-14-feature)
+ - [Google starts rolling out its Magic Editor and other AI tools to all Android and iOS users for free via Photos, offering 10 Magic Editor library saves per month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240522/p12#a240522p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
