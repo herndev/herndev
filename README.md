@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Shadows isn&#39;t even out for 6 months, but Ghost of Tsushima ate its lunch 4 years ago and the superb PC Director&#39;s Cut rubs salt in the wound](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-isnt-even-out-for-6-months-but-ghost-of-tsushima-ate-its-lunch-4-years-ago-and-the-superb-pc-directors-cut-rubs-salt-in-the-wound)
- - [Senua’s Saga: Hellblade II – Our Full Four-Part Feature Series](https://news.xbox.com/en-us/2024/05/22/senuas-saga-hellblade-ii-our-full-four-part-feature-series/)
- - [Where to find the Earthen Ring quartermaster in WoW Cataclysm](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-earthen-ring-quartermaster)<!-- GAME:END -->
+ - [How the Developers of Dragon Ball Xenoverse 2 Introduced Future Saga](https://news.xbox.com/en-us/2024/05/22/how-dragon-ball-xenoverse-2-introduced-future-saga/)
+ - [We’re hosting a free screening of the new Haikyu!! movie this Sunday](https://www.polygon.com/2024/5/22/24160703/haikyu-dumpster-battle-polygon-screening-frida)
+ - [DDR6 looks set to double data speeds over DDR5, with DDR6-21000 being the ultimate target](https://www.pcgamer.com/hardware/memory/ddr6-looks-set-to-double-data-speeds-over-ddr5-with-ddr6-21000-being-the-ultimate-target)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
