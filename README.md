@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cambridge-based Raspberry Pi confirms plans for a London Stock Exchange IPO, aiming to raise $40M and listing in June, and reports $265.8M in 2023 revenue &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240522/p7#a240522p7)
- - [A future foldable iPhone could have a self-healing screen](https://www.androidauthority.com/apple-self-healing-foldable-screen-patent-3445460/)
- - [Google says Android 15 Beta 2.1 might not fix Private Space issue &lpar;Updated&rpar;](https://www.androidauthority.com/android-15-beta-2-1-3445104/)<!-- TECH:END -->
+ - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
+ - [Microsoft and UAE-based G42 plan to build a $1B geothermal-powered data center in Kenya, opening in about two years, to boost computing capacity in East Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/240522/p10#a240522p10)
+ - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
