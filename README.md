@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - ⏩ [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
- - 👉 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)<!-- MEMES:END -->
+ - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - ⏩ [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
 
 ---
 
