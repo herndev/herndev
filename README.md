@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Password Manager finally lets you share passwords with loved ones](https://www.androidauthority.com/google-password-manager-password-sharing-3445677/)
- - [Meta&#39;s Yann LeCun says LLMs won&#39;t reach human intelligence and instead FAIR is working on a &quot;world modeling&quot; vision, to create AI that can develop common sense &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p8#a240523p8)
- - [In an interview, Brad Smith says Microsoft&#39;s deal with UAE-based AI firm G42 could eventually involve the transfer of key US chips and AI technology abroad &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240523/p7#a240523p7)<!-- TECH:END -->
+ - [Google is bringing these UI and feature changes to Android’s Digital Wellbeing app](https://www.androidauthority.com/google-digital-wellbeing-ui-changes-app-limits-3445684/)
+ - [SSI Beneficiaries: You&#39;re Getting Another Check Next Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-another-check-next-week-heres-why/#ftag=CAD590a51e)
+ - [Google Password Manager finally lets you share passwords with loved ones](https://www.androidauthority.com/google-password-manager-password-sharing-3445677/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
