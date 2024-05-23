@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [USA v. Live Nation-Ticketmaster: all the news on the lawsuit that could take down a giant](https://www.theverge.com/24163157/doj-live-nation-ticketmaster-antitrust-lawsuit)
- - [Save $400 on Apple&#39;s M3 Max MacBook Pro 16-inch with 64GB RAM](https://appleinsider.com/articles/24/05/23/save-400-on-apples-m3-max-macbook-pro-16-inch-with-64gb-ram?utm_medium=rss)
- - [Program that helps lower low-income American internet bills is about to run out of funds for good](https://www.androidauthority.com/acp-funds-run-out-3445776/)<!-- TECH:END -->
+ - [You can buy books through the Amazon Kindle app again, but only in this region](https://www.androidauthority.com/buy-books-kindle-app-europe-3445793/)
+ - [Microsoft outage took down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)
+ - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
