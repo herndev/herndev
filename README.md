@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core VI Isn&#39;t The End Of The Beloved Mech Series](https://kotaku.com/armored-core-6-sequel-hidetaka-miyazaki-mech-fromsoft-1851497631)
- - [It turns out you can find Idris Elba&#39;s Cyberpunk 2077 character hanging out and working a regular job in Night City before the expansion starts](https://www.pcgamer.com/games/rpg/it-turns-out-you-can-find-idris-elbas-cyberpunk-2077-character-hanging-out-and-working-a-regular-job-in-night-city-before-the-expansion-starts)
- - [Duck Detective Is The Perfect Indie Mystery You Can Finish In Just 2 Hours](https://kotaku.com/duck-detective-secret-salami-how-long-1851497669)<!-- GAME:END -->
+ - [All hidden face locations in Hellblade 2](https://www.polygon.com/guides/24163177/hellblade-2-hidden-faces-locations-stone-giant-collectibles)
+ - [Where do your Steam games go when you die?](https://www.polygon.com/24163569/steam-games-when-you-die-will-estate-planning)
+ - [Space Marines 2 confirms the return of PvP multiplayer, plus an all-new 3-player co-op mode](https://www.pcgamer.com/games/third-person-shooter/space-marines-2-confirms-the-return-of-pvp-multiplayer-plus-an-all-new-3-player-co-op-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
