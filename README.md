@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia shows no sign of slowing down as it rakes in more than $26 billion in a single quarter thanks to data center demand](https://www.pcgamer.com/software/ai/nvidia-shows-no-sign-of-slowing-down-as-it-rakes-in-more-than-dollar26-billion-in-a-single-quarter-thanks-to-data-center-demand)
  - [Apple reportedly seeks to lock out its competitors from TSMC&#39;s 2nm process, by booking all of its manufacturing capacity](https://www.pcgamer.com/hardware/processors/apple-reportedly-seeks-to-lock-out-its-competitors-from-tsmcs-2nm-process-by-booking-all-of-its-manufacturing-capacity)
- - [Where to find all Shine Sprites in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161605/paper-mario-thousand-year-door-shine-sprites-locations-all-ttyd-switch)
- - [Great Boggly Tree walkthrough in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161181/paper-mario-thousand-year-door-great-boggly-tree-walkthrough-punies-ttyd-switch)<!-- GAME:END -->
+ - [Where to find all Shine Sprites in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161605/paper-mario-thousand-year-door-shine-sprites-locations-all-ttyd-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
