@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wuthering Waves codes and how to redeem](https://www.pcgamer.com/games/rpg/wuthering-waves-codes)
  - [Witcher 3 fans rejoice: Steam Workshop support and full REDkit modding tools are finally here](https://www.pcgamer.com/games/rpg/witcher-3-fans-rejoice-steam-workshop-support-and-full-redkit-modding-tools-are-finally-here)
- - [Where does Furiosa fit into the Mad Max timeline? George Miller says it doesn’t matter](https://www.polygon.com/23984150/furiosa-mad-max-timeline-movie-continuity)
- - [Survival base-builder Nightingale&#39;s offline mode has arrived—along with celebrities like Joan of Arc and Edgar Allan Poe](https://www.pcgamer.com/games/survival-crafting/survival-base-builder-nightingales-offline-mode-has-arrivedalong-with-celebrities-like-joan-of-arc-and-edgar-allen-poe)<!-- GAME:END -->
+ - [Where does Furiosa fit into the Mad Max timeline? George Miller says it doesn’t matter](https://www.polygon.com/23984150/furiosa-mad-max-timeline-movie-continuity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
