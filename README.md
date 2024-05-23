@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pay now lets users see their card benefits and perks before selecting a card, use BNPL on more sites, and fill in card details through biometrics or PIN &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240522/p35#a240522p35)
- - [Documents and sources: OpenAI hired an actress to create ChatGPT&#39;s Sky voice months before Sam Altman contacted Scarlett Johansson &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/240522/p34#a240522p34)
- - [Where to Install Your Solar Panels &lpar;And Where You Shouldn&#39;t&rpar;     - CNET](https://www.cnet.com/home/energy-and-utilities/where-to-install-your-solar-panels-and-where-you-shouldnt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Praktika, which lets users create personalized AI-powered avatars to make learning a language feel more natural, raised a $35.5M Series A led by Blossom Capital &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240522/p37#a240522p37)
+ - [Truecaller partners with Microsoft&#39;s Azure AI Speech to let its AI Assistant users create an AI version of their voice to answer calls based on a recorded clip &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240522/p36#a240522p36)
+ - [Google Pay now lets users see their card benefits and perks before selecting a card, use BNPL on more sites, and fill in card details through biometrics or PIN &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240522/p35#a240522p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
