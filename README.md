@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)
- - ⏩ [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 👉 [There are over 500 mosques in London, but Muslims pray in front of the 755-year-old Westminster Abbey church. Wake Up!!](http://9gag.com/gag/an7X8bz)<!-- MEMES:END -->
+ - 💣 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
+ - ⏩ [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
 
 ---
 
