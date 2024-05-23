@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - ⏩ [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)
- - 👉 [Games have been removed from your library. For an unlisted reason. Excuse me wtf EA?](http://9gag.com/gag/aGyVroZ)<!-- MEMES:END -->
+ - 💣 [Gassed](http://9gag.com/gag/apRoXwM)
+ - ⏩ [Living her best life...](http://9gag.com/gag/aQzpB48)
+ - 👉 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)<!-- MEMES:END -->
 
 ---
 
