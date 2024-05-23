@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini can now find, play, and control music from YouTube Music](https://www.androidauthority.com/gemini-youtube-music-extension-3445823/)
- - [Spotify tells customers that its Car Thing dashboard accessory will stop working on December 9, less than a year after it went on sale, without offering refunds &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240523/p36#a240523p36)
- - [Say cheese, AI!  WhatsApp is testing an AI-generated profile picture feature](https://www.androidauthority.com/whatsapp-ai-profile-pictures-3445828/)<!-- TECH:END -->
+ - [Galaxy Z Fold 6 could ditch S Pen support for a slimmer design](https://www.androidauthority.com/z-fold-6-slim-leak-3445871/)
+ - [Motorola Moto G Power 5G &lpar;2024&rpar; review: Should you buy it?](https://www.androidauthority.com/motorola-moto-g-power-5g-2024-review-3433098/)
+ - [Apple’s foldable MacBook rumored to be crease-free and ship in 2026](https://www.androidauthority.com/apples-rumored-foldable-macbook-2026-3445858/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
