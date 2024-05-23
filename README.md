@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival base-builder Nightingale&#39;s offline mode has arrived—along with celebrities like Joan of Arc and Edgar Allen Poe](https://www.pcgamer.com/games/survival-crafting/survival-base-builder-nightingales-offline-mode-has-arrivedalong-with-celebrities-like-joan-of-arc-and-edgar-allen-poe)
- - [One Of The Best Cowboy Games Ever Made Is Only $1.50 On Steam](https://kotaku.com/call-of-juarez-gunslinger-fps-sale-steam-pc-red-dead-2-1851495121)
- - [After only 4 months, Blizzard will axe one of Overwatch 2&#39;s last PvE modes because it &#39;hasn&#39;t resonated with players in the ways that we hoped&#39;](https://www.pcgamer.com/games/fps/after-only-4-months-blizzard-has-axed-one-of-overwatch-2s-last-pve-modes-because-it-hasnt-resonated-with-players-in-the-ways-that-we-hoped)<!-- GAME:END -->
+ - [Witcher 3 fans rejoice: Steam Workshop support and full REDkit modding tools are finally here](https://www.pcgamer.com/games/rpg/witcher-3-fans-rejoice-steam-workshop-support-and-full-redkit-modding-tools-are-finally-here)
+ - [Where does Furiosa fit into the Mad Max timeline? George Miller says it doesn’t matter](https://www.polygon.com/23984150/furiosa-mad-max-timeline-movie-continuity)
+ - [Survival base-builder Nightingale&#39;s offline mode has arrived—along with celebrities like Joan of Arc and Edgar Allan Poe](https://www.pcgamer.com/games/survival-crafting/survival-base-builder-nightingales-offline-mode-has-arrivedalong-with-celebrities-like-joan-of-arc-and-edgar-allen-poe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
