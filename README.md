@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All hidden face locations in Hellblade 2](https://www.polygon.com/guides/24163177/hellblade-2-hidden-faces-locations-stone-giant-collectibles)
- - [Where do your Steam games go when you die?](https://www.polygon.com/24163569/steam-games-when-you-die-will-estate-planning)
- - [Space Marines 2 confirms the return of PvP multiplayer, plus an all-new 3-player co-op mode](https://www.pcgamer.com/games/third-person-shooter/space-marines-2-confirms-the-return-of-pvp-multiplayer-plus-an-all-new-3-player-co-op-mode)<!-- GAME:END -->
+ - [I&#39;ve got no interest in playing Valve&#39;s rumored Deadlock game, but I&#39;ll definitely be here for all the funny &#39;Meet the Team&#39; movies they&#39;ll probably make about the characters](https://www.pcgamer.com/games/third-person-shooter/ive-got-no-interest-in-playing-valves-rumored-deadlock-game-but-ill-definitely-be-here-for-all-the-funny-meet-the-team-movies-theyll-probably-make-about-the-characters)
+ - [Dave the Diver&#39;s Godzilla DLC is live now and completely free, but after November 23 it&#39;s gone forever](https://www.pcgamer.com/games/adventure/dave-the-divers-godzilla-dlc-is-live-now-and-completely-free-but-after-november-23-its-gone-forever)
+ - [All hidden face locations in Hellblade 2](https://www.polygon.com/guides/24163177/hellblade-2-hidden-faces-locations-stone-giant-collectibles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
