@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Turns out that all 3 of them are racist,dick sucking 9gaggers. New job is going to be fun.](http://9gag.com/gag/aXPEz7g)
- - ⏩ [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 👉 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)<!-- MEMES:END -->
+ - 💣 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
+ - ⏩ [Can you guess where this was happening?](http://9gag.com/gag/azxLy7q)
+ - 👉 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)<!-- MEMES:END -->
 
 ---
 
