@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - ⏩ [No wonder the birth rate are so low](http://9gag.com/gag/amoLbyo)
- - 👉 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)<!-- MEMES:END -->
+ - 💣 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
+ - ⏩ [Reasonable fear](http://9gag.com/gag/a9yMevm)
+ - 👉 [Done for day](http://9gag.com/gag/aNDoM74)<!-- MEMES:END -->
 
 ---
 
