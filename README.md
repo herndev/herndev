@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit is breaking up with Samsung](https://www.theverge.com/samsung/2024/5/23/24162135/ifixit-end-samsung-repair-parts-deal)
- - [Kuo: Apple targets a 2026 launch for the full-screen foldable MacBook and is considering 20.25&quot; and 18.8&quot; panels, with an M5 chip and Vision Pro-like price &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240523/p26#a240523p26)
- - [X is hiding likes to encourage ‘edgy’ engagement](https://www.theverge.com/2024/5/23/24163155/twitter-x-likes-hide-default)<!-- TECH:END -->
+ - [USA v. Live Nation-Ticketmaster: all the news on the lawsuit that could take down a giant](https://www.theverge.com/24163157/doj-live-nation-ticketmaster-antitrust-lawsuit)
+ - [Save $400 on Apple&#39;s M3 Max MacBook Pro 16-inch with 64GB RAM](https://appleinsider.com/articles/24/05/23/save-400-on-apples-m3-max-macbook-pro-16-inch-with-64gb-ram?utm_medium=rss)
+ - [Program that helps lower low-income American internet bills is about to run out of funds for good](https://www.androidauthority.com/acp-funds-run-out-3445776/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
