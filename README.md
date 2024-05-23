@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - ⏩ [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
+ - 💣 [Polan](http://9gag.com/gag/abAqwZ8)
+ - ⏩ [The weekend stomp](http://9gag.com/gag/aYQp62v)
+ - 👉 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)<!-- MEMES:END -->
 
 ---
 
