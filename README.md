@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Relic Entertainment is &#39;returning to its roots as an independent creative studio,&#39; but it&#39;s also owned by a global investment firm now](https://www.pcgamer.com/gaming-industry/relic-entertainment-is-returning-to-its-roots-as-an-independent-creative-studio-but-its-also-owned-by-a-global-investment-firm-now)
- - [Keith David speaks his first words as Destiny 2&#39;s Commander Zavala: &#39;I used to think I&#39;d give anything to bring him back&#39;](https://www.pcgamer.com/games/fps/keith-david-speaks-his-first-words-as-destiny-2s-commander-zavala-i-used-to-think-id-give-anything-to-bring-him-back)
- - [Players unlock unreleased content in live service game ultimate hacker style: setting their system clocks forward a few weeks](https://www.pcgamer.com/games/rpg/players-unlock-unreleased-content-in-live-service-game-ultimate-hacker-style-setting-their-system-clocks-forward-a-few-weeks)<!-- GAME:END -->
+ - [Armored Core VI Isn&#39;t The End Of The Beloved Mech Series](https://kotaku.com/armored-core-6-sequel-hidetaka-miyazaki-mech-fromsoft-1851497631)
+ - [It turns out you can find Idris Elba&#39;s Cyberpunk 2077 character hanging out and working a regular job in Night City before the expansion starts](https://www.pcgamer.com/games/rpg/it-turns-out-you-can-find-idris-elbas-cyberpunk-2077-character-hanging-out-and-working-a-regular-job-in-night-city-before-the-expansion-starts)
+ - [Duck Detective Is The Perfect Indie Mystery You Can Finish In Just 2 Hours](https://kotaku.com/duck-detective-secret-salami-how-long-1851497669)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
