@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New gacha hotness Wuthering Waves is suffering from some catastrophic launch issues, despite making a big splash on Twitch](https://www.pcgamer.com/games/rpg/new-gacha-hotness-wuthering-waves-is-suffering-from-some-catastrophic-launch-issues-despite-making-a-big-splash-on-twitch)
- - [Call of Duty: Black Ops 6 – Worldwide Reveal Announced for Sunday, June 9](https://www.callofduty.com/blog/2024/05/call-of-duty-black-ops-6-official-comms.html#new_tab)
- - [MultiVersus’ Batman is still Kevin Conroy ‘for the foreseeable future’](https://www.polygon.com/24162612/multiversus-pve-rifts-batman-kevin-conroy-death)<!-- GAME:END -->
+ - [Free Play Days – Warhammer Takeover](https://news.xbox.com/en-us/2024/05/23/free-play-days-warhammer-takeover/)
+ - [Director George Miller’s Perfect Mad Max Game Would Be Made By Kojima](https://kotaku.com/mad-max-furiosa-director-wants-hideo-kojima-video-game-1851496339)
+ - [Call of Duty: Black Ops 6 is official: &#39;A dark new chapter&#39; will be revealed in June](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-is-official-a-dark-new-chapter-will-be-revealed-in-june)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
