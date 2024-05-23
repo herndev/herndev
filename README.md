@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lumos, which helps companies manage employees&#39; identities and access to apps and systems, raised a $35M Series B led by Scale, taking its total funding to $65M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240523/p24#a240523p24)
- - [Apple considering multiple sizes for all-screen foldable MacBook](https://appleinsider.com/articles/24/05/23/apple-considering-multiple-sizes-for-all-screen-foldable-macbook?utm_medium=rss)
- - [Microsoft’s new Windows chief on the future of the OS, Surface, and those annoying ads](https://www.theverge.com/24162953/microsoft-pavan-davuluri-windows-surface-interview)<!-- TECH:END -->
+ - [iFixit is breaking up with Samsung](https://www.theverge.com/samsung/2024/5/23/24162135/ifixit-end-samsung-repair-parts-deal)
+ - [Kuo: Apple targets a 2026 launch for the full-screen foldable MacBook and is considering 20.25&quot; and 18.8&quot; panels, with an M5 chip and Vision Pro-like price &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240523/p26#a240523p26)
+ - [X is hiding likes to encourage ‘edgy’ engagement](https://www.theverge.com/2024/5/23/24163155/twitter-x-likes-hide-default)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
