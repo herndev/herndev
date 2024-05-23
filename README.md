@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Polan](http://9gag.com/gag/abAqwZ8)
- - ⏩ [The weekend stomp](http://9gag.com/gag/aYQp62v)
- - 👉 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)<!-- MEMES:END -->
+ - 💣 [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - ⏩ [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
+ - 👉 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)<!-- MEMES:END -->
 
 ---
 
