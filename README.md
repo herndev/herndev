@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Revealing the Secrets of Wizardry, 43 Years Later](https://news.xbox.com/en-us/2024/05/23/revealing-the-secrets-of-wizardry-43-years-later/)
- - [A new Shadow of the Erdtree promo image is almost 100% our first look at one of Elden Ring&#39;s most mysterious characters](https://www.pcgamer.com/games/rpg/a-new-shadow-of-the-erdtree-promo-image-is-almost-100-our-first-look-at-one-of-elden-rings-most-mysterious-characters)
- - [Frogger: Walkable City asks what a frog might do in a city free of cars](https://www.polygon.com/24163395/frogger-walkable-city-rpg-maker-woe-industries)<!-- GAME:END -->
+ - [Super Mario 64 Speedrunner Explains How He Just Made History In The Wildest Way Possible](https://kotaku.com/mario-64-sm64-speedrun-record-button-challenge-wii-1851497252)
+ - [Did you watch Gal Gadot’s Heart of Stone? Because tons of Netflix subscribers did, apparently](https://www.polygon.com/24163463/netflix-most-viewed-tv-movies-2023)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
