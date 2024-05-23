@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Taiwan&#39;s ex-Digital Minister Audrey Tang on Plurality, a book on collaboration-enhancing tech she wrote with Microsoft&#39;s internal economist Glen Weyl &lpar;Daniel Kuhn/CoinDesk&rpar;](http://www.techmeme.com/240523/p10#a240523p10)
- - [Memorial Day Sales 2024: Save Big on Early Deals     - CNET](https://www.cnet.com/deals/best-memorial-day-sales/#ftag=CAD590a51e)
- - [Get Amazon Prime for Free This Memorial Day Weekend With This Simple Trick     - CNET](https://www.cnet.com/tech/mobile/get-amazon-prime-for-free-this-memorial-day-weekend-with-this-simple-trick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Nvidia&#39;s business booms, a look at some potential issues: rivals and key customers making their own AI chips, startups struggling to monetize AI, and more &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240523/p13#a240523p13)
+ - [Microsoft users report a massive outage impacting Bing.com, Copilot for web and mobile, Copilot in Windows, and more; ChatGPT and DuckDuckGo have similar issues &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/240523/p12#a240523p12)
+ - [Global foundry revenue rose 12% YoY in Q1 2024, but dropped 5% QoQ; TSMC&#39;s market share rose 1% YoY to 62%, Samsung rose 2% YoY to 13%, and SMIC rose 1% to 6% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240523/p11#a240523p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
