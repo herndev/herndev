@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Warhammer 40,000: Space Marine 2 Will Forge You into a Soldier in the 41st Millenium](https://news.xbox.com/en-us/2024/05/23/space-marine-2-will-forge-you-into-a-soldier/)
- - [Synergy&#39;s solarpunk aesthetic and harsh resource management makes it one stellar city builder](https://www.pcgamer.com/games/city-builder/synergys-solarpunk-aesthetic-and-harsh-resource-management-makes-it-one-stellar-city-builder)
- - [Warhammer Skulls Showcase 2024: Xbox Announcements and Reveals](https://news.xbox.com/en-us/2024/05/23/warhammer-skulls-2024-xbox/)<!-- GAME:END -->
+ - [Revealing the Secrets of Wizardry, 43 Years Later](https://news.xbox.com/en-us/2024/05/23/revealing-the-secrets-of-wizardry-43-years-later/)
+ - [A new Shadow of the Erdtree promo image is almost 100% our first look at one of Elden Ring&#39;s most mysterious characters](https://www.pcgamer.com/games/rpg/a-new-shadow-of-the-erdtree-promo-image-is-almost-100-our-first-look-at-one-of-elden-rings-most-mysterious-characters)
+ - [Frogger: Walkable City asks what a frog might do in a city free of cars](https://www.polygon.com/24163395/frogger-walkable-city-rpg-maker-woe-industries)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
