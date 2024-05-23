@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Kia EV3 will have over 300 miles of range and a ChatGPT-like AI assistant](https://www.theverge.com/2024/5/23/24163271/kia-ev3-electric-suv-launch-korea-europe-us)
- - [Sources: a16z, Sequoia Capital, and Tribe Capital commit to joining xAI&#39;s new funding round, in which the company seeks to raise ~$6B at an $18B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p33#a240523p33)
- - [The Samsung right-to-repair story just got worse](https://www.theverge.com/samsung/2024/5/23/24163372/samsung-repair-snitch-aftermarket-parts)<!-- TECH:END -->
+ - [Gemini can now find, play, and control music from YouTube Music](https://www.androidauthority.com/gemini-youtube-music-extension-3445823/)
+ - [Spotify tells customers that its Car Thing dashboard accessory will stop working on December 9, less than a year after it went on sale, without offering refunds &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240523/p36#a240523p36)
+ - [Say cheese, AI!  WhatsApp is testing an AI-generated profile picture feature](https://www.androidauthority.com/whatsapp-ai-profile-pictures-3445828/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
