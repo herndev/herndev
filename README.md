@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange Horticulture sequel announced, deals in antiquities instead of plants](https://www.polygon.com/24162550/strange-horticulture-antiquities-announcement)
- - [MultiVersus is relaunching — here’s what’s new and what’s changing](https://www.polygon.com/24162522/multiversus-relaunch-banana-guard-agent-smith-jason-vorhees)
- - [MultiVersus has scrubbed the Justin Roiland voice lines snagged from the show, replacing them with game-specific recordings by their new voice actors](https://www.pcgamer.com/games/fighting/multiversus-has-scrubbed-the-justin-roiland-voice-lines-snagged-from-the-show-replacing-them-with-game-specific-recordings-by-their-new-voice-actors)<!-- GAME:END -->
+ - [New gacha hotness Wuthering Waves is suffering from some catastrophic launch issues, despite making a big splash on Twitch](https://www.pcgamer.com/games/rpg/new-gacha-hotness-wuthering-waves-is-suffering-from-some-catastrophic-launch-issues-despite-making-a-big-splash-on-twitch)
+ - [Call of Duty: Black Ops 6 – Worldwide Reveal Announced for Sunday, June 9](https://www.callofduty.com/blog/2024/05/call-of-duty-black-ops-6-official-comms.html#new_tab)
+ - [MultiVersus’ Batman is still Kevin Conroy ‘for the foreseeable future’](https://www.polygon.com/24162612/multiversus-pve-rifts-batman-kevin-conroy-death)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
