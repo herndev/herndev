@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Istanbul-based Colendi, which provides digital banking services, raised a $65M Series B at a $700M valuation from Citi Ventures and others &lpar;Inci Ozbek/Bloomberg&rpar;](http://www.techmeme.com/240522/p38#a240522p38)
  - [Praktika, which lets users create personalized AI-powered avatars to make learning a language feel more natural, raised a $35.5M Series A led by Blossom Capital &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240522/p37#a240522p37)
- - [Truecaller partners with Microsoft&#39;s Azure AI Speech to let its AI Assistant users create an AI version of their voice to answer calls based on a recorded clip &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240522/p36#a240522p36)
- - [Google Pay now lets users see their card benefits and perks before selecting a card, use BNPL on more sites, and fill in card details through biometrics or PIN &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240522/p35#a240522p35)<!-- TECH:END -->
+ - [Truecaller partners with Microsoft&#39;s Azure AI Speech to let its AI Assistant users create an AI version of their voice to answer calls based on a recorded clip &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240522/p36#a240522p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
