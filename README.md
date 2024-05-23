@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile confirms price hike for legacy plans: Here’s everything you need to know](https://www.androidauthority.com/t-mobile-price-increase-older-plans-3445515/)
- - [LA-based Aerodome, which uses autonomous drones to help first responders get a view of problems like crimes and fires, raised a $21.5M Series A led by CRV &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240522/p39#a240522p39)
- - [How to answer and end phone and FaceTime calls using Siri](https://appleinsider.com/inside/iphone/tips/how-to-answer-and-end-phone-and-facetime-calls-using-siri?utm_medium=rss)<!-- TECH:END -->
+ - [US-listed PDD, which runs Temu and Pinduoduo, reports Q1 revenue up 131% YoY to ~$12B and operating profit up 275% YoY to ~$3.6B, as global expansion gains pace &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240523/p3#a240523p3)
+ - [Android 14 for TV will bring some welcome performance improvements](https://www.androidauthority.com/android-14-for-tv-improvements-features-3445656/)
+ - [South Korea announces a ~$19B support package for the domestic chip industry and asks the industry ministry to strengthen the country&#39;s non-memory chip sector &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p2#a240523p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
