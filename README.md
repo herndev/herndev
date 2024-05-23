@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men these days...](http://9gag.com/gag/aD2wLdK)
- - ⏩ [Gotta save em all](http://9gag.com/gag/aqyZOyY)
- - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
+ - 💣 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
+ - ⏩ [No wonder the birth rate are so low](http://9gag.com/gag/amoLbyo)
+ - 👉 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)<!-- MEMES:END -->
 
 ---
 
