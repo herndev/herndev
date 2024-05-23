@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gassed](http://9gag.com/gag/apRoXwM)
- - ⏩ [Living her best life...](http://9gag.com/gag/aQzpB48)
- - 👉 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)<!-- MEMES:END -->
+ - 💣 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
+ - ⏩ [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 👉 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)<!-- MEMES:END -->
 
 ---
 
