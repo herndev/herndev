@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Nvidia&#39;s business booms, a look at some potential issues: rivals and key customers making their own AI chips, startups struggling to monetize AI, and more &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240523/p13#a240523p13)
- - [Microsoft users report a massive outage impacting Bing.com, Copilot for web and mobile, Copilot in Windows, and more; ChatGPT and DuckDuckGo have similar issues &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/240523/p12#a240523p12)
- - [Global foundry revenue rose 12% YoY in Q1 2024, but dropped 5% QoQ; TSMC&#39;s market share rose 1% YoY to 62%, Samsung rose 2% YoY to 13%, and SMIC rose 1% to 6% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240523/p11#a240523p11)<!-- TECH:END -->
+ - [Q&amp;A with Microsoft CEO Satya Nadella and CTO Kevin Scott on Copilot+ PCs, delivering a consistent experience, OpenAI, integration vs. modularization, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240523/p17#a240523p17)
+ - [Drivers Are Rising Up Against Uber’s ‘Opaque’ Pay System](https://www.wired.com/story/drivers-are-rising-up-against-ubers-opaque-pay-system/)
+ - [Here’s what to expect from the OnePlus 12T &lpar;if it actually exists&rpar;](https://www.androidauthority.com/oneplus-ace-3-pro-specs-leak-oneplus-12t-3445718/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
