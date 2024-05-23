@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘World of Wonders’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/24087716/world-of-wonders-special-research-rewards-poipole)
- - [Dave the Diver’s Godzilla DLC will only be around for a limited time](https://www.polygon.com/24163213/dave-the-diver-godzilla-dlc-limited-time-release)
- - [The best anime to watch on Netflix right now](https://www.polygon.com/22783137/best-anime-on-netflix)<!-- GAME:END -->
+ - [How Warhammer 40,000: Space Marine 2 Will Forge You into a Soldier in the 41st Millenium](https://news.xbox.com/en-us/2024/05/23/space-marine-2-will-forge-you-into-a-soldier/)
+ - [Synergy&#39;s solarpunk aesthetic and harsh resource management makes it one stellar city builder](https://www.pcgamer.com/games/city-builder/synergys-solarpunk-aesthetic-and-harsh-resource-management-makes-it-one-stellar-city-builder)
+ - [Warhammer Skulls Showcase 2024: Xbox Announcements and Reveals](https://news.xbox.com/en-us/2024/05/23/warhammer-skulls-2024-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
