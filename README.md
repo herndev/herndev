@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - ⏩ [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
- - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
+ - 💣 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)
+ - ⏩ [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 👉 [There are over 500 mosques in London, but Muslims pray in front of the 755-year-old Westminster Abbey church. Wake Up!!](http://9gag.com/gag/an7X8bz)<!-- MEMES:END -->
 
 ---
 
