@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at China-aligned hacking group Unfading Sea Haze, which has targeted government and military organizations in South China Sea countries since 2018 &lpar;Martin Zugec/Bitdefender Blog&rpar;](http://www.techmeme.com/240523/p20#a240523p20)
- - [The best new streaming movies this week: Power, The Sweet East, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Dbrand says its skins are more legit than the Rabbit R1](https://www.androidauthority.com/dbrand-rabbit-r1-is-a-scam-3445738/)<!-- TECH:END -->
+ - [Pixelmator Pro revamps image editing with AI masking tools](https://appleinsider.com/articles/24/05/23/pixelmator-pro-revamps-image-editing-with-ai-masking-tools?utm_medium=rss)
+ - [5 Best Cooling Mattresses &lpar;2024&rpar;: Hybrid, Soft, Foam, and for Couples](https://www.wired.com/gallery/best-cooling-mattresses/)
+ - [Leica’s fresh D-Lux 8 makes it to the trendy point-and-shoot party](https://www.theverge.com/2024/5/23/24162722/leica-d-lux-8-point-and-shoot-camera-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
