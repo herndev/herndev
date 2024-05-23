@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is very educational.](http://9gag.com/gag/aLnQbEV)
+ - 💣 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
  - ⏩ [Living her best life...](http://9gag.com/gag/aQzpB48)
- - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
+ - 👉 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)<!-- MEMES:END -->
 
 ---
 
