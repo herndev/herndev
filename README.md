@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Destiny 2: The Final Shape](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-destiny-2-the-final-shape)
- - [Nvidia shows no sign of slowing down as it rakes in more than $26 billion in a single quarter thanks to data center demand](https://www.pcgamer.com/software/ai/nvidia-shows-no-sign-of-slowing-down-as-it-rakes-in-more-than-dollar26-billion-in-a-single-quarter-thanks-to-data-center-demand)
- - [Apple reportedly seeks to lock out its competitors from TSMC&#39;s 2nm process, by booking all of its manufacturing capacity](https://www.pcgamer.com/hardware/processors/apple-reportedly-seeks-to-lock-out-its-competitors-from-tsmcs-2nm-process-by-booking-all-of-its-manufacturing-capacity)<!-- GAME:END -->
+ - [Animal Well developer Billy Basso hints at a new game that will &#39;be in the same universe but may not be a direct sequel&#39;](https://www.pcgamer.com/games/action/animal-well-developer-billy-basso-hints-at-a-new-game-that-will-be-in-the-same-universe-but-may-not-be-a-direct-sequel)
+ - [Wuthering Waves codes and how to redeem them](https://www.polygon.com/guides/24163081/wuthering-waves-codes-how-to-redeem-redemption)
+ - [PC Gamer magazine&#39;s new issue is on sale now: Destiny 2: The Final Shape](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-destiny-2-the-final-shape)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
