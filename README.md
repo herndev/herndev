@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apple reportedly seeks to lock out its competitors from TSMC&#39;s 2nm process, by booking all of its manufacturing capacity](https://www.pcgamer.com/hardware/processors/apple-reportedly-seeks-to-lock-out-its-competitors-from-tsmcs-2nm-process-by-booking-all-of-its-manufacturing-capacity)
  - [Where to find all Shine Sprites in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161605/paper-mario-thousand-year-door-shine-sprites-locations-all-ttyd-switch)
- - [Great Boggly Tree walkthrough in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161181/paper-mario-thousand-year-door-great-boggly-tree-walkthrough-punies-ttyd-switch)
- - [How to get Ms. Mowz in your party in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161138/paper-mario-thousand-year-door-ms-mowz-how-to-get-elusive-badge-ttyd-switch)<!-- GAME:END -->
+ - [Great Boggly Tree walkthrough in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161181/paper-mario-thousand-year-door-great-boggly-tree-walkthrough-punies-ttyd-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
