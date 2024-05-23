@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixelmator Pro revamps image editing with AI masking tools](https://appleinsider.com/articles/24/05/23/pixelmator-pro-revamps-image-editing-with-ai-masking-tools?utm_medium=rss)
- - [5 Best Cooling Mattresses &lpar;2024&rpar;: Hybrid, Soft, Foam, and for Couples](https://www.wired.com/gallery/best-cooling-mattresses/)
- - [Leica’s fresh D-Lux 8 makes it to the trendy point-and-shoot party](https://www.theverge.com/2024/5/23/24162722/leica-d-lux-8-point-and-shoot-camera-price-release-date)<!-- TECH:END -->
+ - [Lumos, which helps companies manage employees&#39; identities and access to apps and systems, raised a $35M Series B led by Scale, taking its total funding to $65M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240523/p24#a240523p24)
+ - [Apple considering multiple sizes for all-screen foldable MacBook](https://appleinsider.com/articles/24/05/23/apple-considering-multiple-sizes-for-all-screen-foldable-macbook?utm_medium=rss)
+ - [Microsoft’s new Windows chief on the future of the OS, Surface, and those annoying ads](https://www.theverge.com/24162953/microsoft-pavan-davuluri-windows-surface-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
