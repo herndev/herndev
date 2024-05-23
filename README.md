@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario 64 Speedrunner Explains How He Just Made History In The Wildest Way Possible](https://kotaku.com/mario-64-sm64-speedrun-record-button-challenge-wii-1851497252)
- - [Did you watch Gal Gadot’s Heart of Stone? Because tons of Netflix subscribers did, apparently](https://www.polygon.com/24163463/netflix-most-viewed-tv-movies-2023)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
+ - [Relic Entertainment is &#39;returning to its roots as an independent creative studio,&#39; but it&#39;s also owned by a global investment firm now](https://www.pcgamer.com/gaming-industry/relic-entertainment-is-returning-to-its-roots-as-an-independent-creative-studio-but-its-also-owned-by-a-global-investment-firm-now)
+ - [Keith David speaks his first words as Destiny 2&#39;s Commander Zavala: &#39;I used to think I&#39;d give anything to bring him back&#39;](https://www.pcgamer.com/games/fps/keith-david-speaks-his-first-words-as-destiny-2s-commander-zavala-i-used-to-think-id-give-anything-to-bring-him-back)
+ - [Players unlock unreleased content in live service game ultimate hacker style: setting their system clocks forward a few weeks](https://www.pcgamer.com/games/rpg/players-unlock-unreleased-content-in-live-service-game-ultimate-hacker-style-setting-their-system-clocks-forward-a-few-weeks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
