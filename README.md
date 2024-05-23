@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked OpenAI docs show aggressive tactics toward ex-employees and contradict leadership&#39;s comments about being unaware of provisions about equity cancellation &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240522/p32#a240522p32)
- - [NASA’s Psyche mission fires up its futuristic electric engines](https://www.theverge.com/2024/5/22/24162775/nasa-psyche-mission-hall-thruster-asteroid-belt-mars)
- - [Nvidia will now make new AI chips every year](https://www.theverge.com/2024/5/22/24162860/nvidia-ai-chip-every-year-blackwell-rubin)<!-- TECH:END -->
+ - [Google Pay now lets users see their card benefits and perks before selecting a card, use BNPL on more sites, and fill in card details through biometrics or PIN &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240522/p35#a240522p35)
+ - [Documents and sources: OpenAI hired an actress to create ChatGPT&#39;s Sky voice months before Sam Altman contacted Scarlett Johansson &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/240522/p34#a240522p34)
+ - [Where to Install Your Solar Panels &lpar;And Where You Shouldn&#39;t&rpar;     - CNET](https://www.cnet.com/home/energy-and-utilities/where-to-install-your-solar-panels-and-where-you-shouldnt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
