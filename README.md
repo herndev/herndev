@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can buy books through the Amazon Kindle app again, but only in this region](https://www.androidauthority.com/buy-books-kindle-app-europe-3445793/)
- - [Microsoft outage took down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)
- - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)<!-- TECH:END -->
+ - [Samsung’s Galaxy Buds 3 could be going for an AirPods-like design](https://www.androidauthority.com/galaxy-buds-3-design-leak-3445807/)
+ - [The sequel to Animal Crossing-like Cozy Grove hits Netflix in June](https://www.theverge.com/2024/5/23/24163281/cozy-grove-camp-spirit-release-date-netflix-gaming)
+ - [A bill strengthening the UK Competition and Markets Authority to regulate tech giants like Apple and Google heads toward approval before the UK&#39;s July election &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240523/p31#a240523p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
