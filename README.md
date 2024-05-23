@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing these UI and feature changes to Android’s Digital Wellbeing app](https://www.androidauthority.com/google-digital-wellbeing-ui-changes-app-limits-3445684/)
- - [SSI Beneficiaries: You&#39;re Getting Another Check Next Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-another-check-next-week-heres-why/#ftag=CAD590a51e)
- - [Google Password Manager finally lets you share passwords with loved ones](https://www.androidauthority.com/google-password-manager-password-sharing-3445677/)<!-- TECH:END -->
+ - [Q&amp;A with Taiwan&#39;s ex-Digital Minister Audrey Tang on Plurality, a book on collaboration-enhancing tech she wrote with Microsoft&#39;s internal economist Glen Weyl &lpar;Daniel Kuhn/CoinDesk&rpar;](http://www.techmeme.com/240523/p10#a240523p10)
+ - [Memorial Day Sales 2024: Save Big on Early Deals     - CNET](https://www.cnet.com/deals/best-memorial-day-sales/#ftag=CAD590a51e)
+ - [Get Amazon Prime for Free This Memorial Day Weekend With This Simple Trick     - CNET](https://www.cnet.com/tech/mobile/get-amazon-prime-for-free-this-memorial-day-weekend-with-this-simple-trick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
