@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked OpenAI docs show aggressive tactics toward ex-employees and contradict leadership&#39;s comments about being unaware of provisions about equity cancellation &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240522/p32#a240522p32)
  - [NASA’s Psyche mission fires up its futuristic electric engines](https://www.theverge.com/2024/5/22/24162775/nasa-psyche-mission-hall-thruster-asteroid-belt-mars)
- - [Nvidia will now make new AI chips every year](https://www.theverge.com/2024/5/22/24162860/nvidia-ai-chip-every-year-blackwell-rubin)
- - [Portland-based Hydrolix, a data lake service that offers a repository for log data, raised a $35M Series B led by S3 Ventures, bringing its total raised to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240522/p31#a240522p31)<!-- TECH:END -->
+ - [Nvidia will now make new AI chips every year](https://www.theverge.com/2024/5/22/24162860/nvidia-ai-chip-every-year-blackwell-rubin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
