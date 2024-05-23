@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The camping of horrors](http://9gag.com/gag/amoLwyV)
- - ⏩ [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 👉 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)<!-- MEMES:END -->
+ - 💣 [Repo man](http://9gag.com/gag/abAqw99)
+ - ⏩ [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - 👉 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)<!-- MEMES:END -->
 
 ---
 
