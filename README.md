@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Edge Transit god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-edge-transit-god-roll)
- - [Behind its identikit theme and terrible name, XDefiant is the perfect antidote to those tired of Call of Duty’s modern-day bloat](https://www.pcgamer.com/games/fps/behind-its-identikit-theme-and-terrible-name-xdefiant-is-the-perfect-antidote-to-those-tired-of-call-of-dutys-modern-day-bloat)
- - [The internet is disappearing, with a quarter of all webpages from 2013 to 2023 going the way of the dodo](https://www.pcgamer.com/hardware/the-internet-is-disappearing-with-a-quarter-of-all-webpages-from-2013-to-2023-going-the-way-of-the-dodo)<!-- GAME:END -->
+ - [Strange Horticulture sequel announced, deals in antiquities instead of plants](https://www.polygon.com/24162550/strange-horticulture-antiquities-announcement)
+ - [MultiVersus is relaunching — here’s what’s new and what’s changing](https://www.polygon.com/24162522/multiversus-relaunch-banana-guard-agent-smith-jason-vorhees)
+ - [MultiVersus has scrubbed the Justin Roiland voice lines snagged from the show, replacing them with game-specific recordings by their new voice actors](https://www.pcgamer.com/games/fighting/multiversus-has-scrubbed-the-justin-roiland-voice-lines-snagged-from-the-show-replacing-them-with-game-specific-recordings-by-their-new-voice-actors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
