@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Warhammer Takeover](https://news.xbox.com/en-us/2024/05/23/free-play-days-warhammer-takeover/)
- - [Director George Miller’s Perfect Mad Max Game Would Be Made By Kojima](https://kotaku.com/mad-max-furiosa-director-wants-hideo-kojima-video-game-1851496339)
- - [Call of Duty: Black Ops 6 is official: &#39;A dark new chapter&#39; will be revealed in June](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-is-official-a-dark-new-chapter-will-be-revealed-in-june)<!-- GAME:END -->
+ - [Pokémon Go ‘World of Wonders’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/24087716/world-of-wonders-special-research-rewards-poipole)
+ - [Dave the Diver’s Godzilla DLC will only be around for a limited time](https://www.polygon.com/24163213/dave-the-diver-godzilla-dlc-limited-time-release)
+ - [The best anime to watch on Netflix right now](https://www.polygon.com/22783137/best-anime-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
