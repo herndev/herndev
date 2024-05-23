@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
- - ⏩ [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
- - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
+ - ⏩ [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
+ - 👉 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)<!-- MEMES:END -->
 
 ---
 
