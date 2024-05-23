@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - ⏩ [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 👉 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)<!-- MEMES:END -->
+ - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - ⏩ [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
 
 ---
 
