@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
- - ⏩ [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 👉 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)<!-- MEMES:END -->
+ - 💣 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - ⏩ [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)
+ - 👉 [Games have been removed from your library. For an unlisted reason. Excuse me wtf EA?](http://9gag.com/gag/aGyVroZ)<!-- MEMES:END -->
 
 ---
 
