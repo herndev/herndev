@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What did this fckn animal eat?](http://9gag.com/gag/a9yMep6)
- - ⏩ [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 👉 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)<!-- MEMES:END -->
+ - 💣 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
+ - ⏩ [Lies, deception](http://9gag.com/gag/aQzp5o7)
+ - 👉 [Lol.](http://9gag.com/gag/azxLwDq)<!-- MEMES:END -->
 
 ---
 
