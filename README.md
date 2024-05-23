@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 💣 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
  - ⏩ [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
+ - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
 
 ---
 
