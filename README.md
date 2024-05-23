@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Microsoft CEO Satya Nadella and CTO Kevin Scott on Copilot+ PCs, delivering a consistent experience, OpenAI, integration vs. modularization, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240523/p17#a240523p17)
- - [Drivers Are Rising Up Against Uber’s ‘Opaque’ Pay System](https://www.wired.com/story/drivers-are-rising-up-against-ubers-opaque-pay-system/)
- - [Here’s what to expect from the OnePlus 12T &lpar;if it actually exists&rpar;](https://www.androidauthority.com/oneplus-ace-3-pro-specs-leak-oneplus-12t-3445718/)<!-- TECH:END -->
+ - [A look at China-aligned hacking group Unfading Sea Haze, which has targeted government and military organizations in South China Sea countries since 2018 &lpar;Martin Zugec/Bitdefender Blog&rpar;](http://www.techmeme.com/240523/p20#a240523p20)
+ - [The best new streaming movies this week: Power, The Sweet East, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Dbrand says its skins are more legit than the Rabbit R1](https://www.androidauthority.com/dbrand-rabbit-r1-is-a-scam-3445738/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
