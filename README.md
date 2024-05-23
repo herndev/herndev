@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Buds 3 could be going for an AirPods-like design](https://www.androidauthority.com/galaxy-buds-3-design-leak-3445807/)
- - [The sequel to Animal Crossing-like Cozy Grove hits Netflix in June](https://www.theverge.com/2024/5/23/24163281/cozy-grove-camp-spirit-release-date-netflix-gaming)
- - [A bill strengthening the UK Competition and Markets Authority to regulate tech giants like Apple and Google heads toward approval before the UK&#39;s July election &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240523/p31#a240523p31)<!-- TECH:END -->
+ - [The Kia EV3 will have over 300 miles of range and a ChatGPT-like AI assistant](https://www.theverge.com/2024/5/23/24163271/kia-ev3-electric-suv-launch-korea-europe-us)
+ - [Sources: a16z, Sequoia Capital, and Tribe Capital commit to joining xAI&#39;s new funding round, in which the company seeks to raise ~$6B at an $18B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p33#a240523p33)
+ - [The Samsung right-to-repair story just got worse](https://www.theverge.com/samsung/2024/5/23/24163372/samsung-repair-snitch-aftermarket-parts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
