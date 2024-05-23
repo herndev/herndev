@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
- - ⏩ [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 👉 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)<!-- MEMES:END -->
+ - 💣 [Men these days...](http://9gag.com/gag/aD2wLdK)
+ - ⏩ [Gotta save em all](http://9gag.com/gag/aqyZOyY)
+ - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
 
 ---
 
