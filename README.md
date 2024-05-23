@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, May 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-23-2024)
- - [Wuthering Waves codes and how to redeem](https://www.pcgamer.com/games/rpg/wuthering-waves-codes)
- - [Witcher 3 fans rejoice: Steam Workshop support and full REDkit modding tools are finally here](https://www.pcgamer.com/games/rpg/witcher-3-fans-rejoice-steam-workshop-support-and-full-redkit-modding-tools-are-finally-here)<!-- GAME:END -->
+ - [Where to find all Shine Sprites in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161605/paper-mario-thousand-year-door-shine-sprites-locations-all-ttyd-switch)
+ - [Great Boggly Tree walkthrough in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161181/paper-mario-thousand-year-door-great-boggly-tree-walkthrough-punies-ttyd-switch)
+ - [How to get Ms. Mowz in your party in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24161138/paper-mario-thousand-year-door-ms-mowz-how-to-get-elusive-badge-ttyd-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
