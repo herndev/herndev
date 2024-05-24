@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - ⏩ [How Female Brain works](http://9gag.com/gag/aLnQOqP)
- - 👉 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)<!-- MEMES:END -->
+ - ⏩ [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 👉 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
 
 ---
 
