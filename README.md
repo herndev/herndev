@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Warp Drive Breakthrough Inches a Tiny Bit Closer to &#39;Star Trek&#39;](https://www.wired.com/story/warp-drive-breakthrough-physics-star-trek/)
- - [A new Gemini button could be coming to Gmail on Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/new-gemini-button-gmail-android-apk-teardown-3445976/)
- - [A profile of Lin Rui-siang, a 23-year-old Taiwanese accused by the US DOJ of running a $100M+ dark-web drug market who had an alter ego as a crypto crime expert &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240524/p6#a240524p6)<!-- TECH:END -->
+ - [Apple Vision Pro earns prestigious Black Pencil design award](https://appleinsider.com/articles/24/05/24/apple-vision-pro-earns-prestigious-black-pencil-design-award?utm_medium=rss)
+ - [New iPad mini with OLED screen rumored to arrive in 2026](https://appleinsider.com/articles/24/05/24/new-ipad-mini-with-oled-screen-rumored-to-arrive-in-2026?utm_medium=rss)
+ - [Cohere for AI, the nonprofit research arm of AI startup Cohere, announces the open weights release of Aya 23, a family of multilingual language models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240524/p8#a240524p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
