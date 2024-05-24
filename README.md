@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge Hints at Plans to Rein In Google’s Illegal Play Store Monopoly](https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/)
- - [Sources: Meta is considering charging users for a more advanced version of Meta AI and is developing AI agents that can complete tasks without human supervision &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240523/p40#a240523p40)
- - [The US SEC approves applications from Nasdaq, Cboe, and NYSE to list spot ether ETFs, potentially paving the way for them to begin trading later this year &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p39#a240523p39)<!-- TECH:END -->
+ - [The White House issues a call to action seeking companies&#39; voluntary commitment to curb the creation, spread, and monetization of nonconsensual sexual AI images &lpar;Associated Press&rpar;](http://www.techmeme.com/240523/p42#a240523p42)
+ - [Even J.Lo in a mech suit can’t save Netflix’s by-the-numbers AI thriller](https://www.theverge.com/24162731/netflix-atlas-review-jennifer-lopez-ai)
+ - [OpenAI releases a majority of past employees from nondisparagement agreements tied to their exit contracts and would not seek to cancel staffers&#39; vested equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p41#a240523p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
