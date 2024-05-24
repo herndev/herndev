@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Climb to New Heights with Grappin, Available for Preorder Now](https://news.xbox.com/en-us/2024/05/24/climb-to-new-heights-with-grappin-available-for-preorder-now/)
- - [Francesca actually got the most romantic plotline in Bridgerton](https://www.polygon.com/24162798/francesca-bridgerton-lord-kilmartin-season-3)
- - [Another The Last Of Us Game Actor Is Reprising Their Role In The Show](https://kotaku.com/last-of-us-hbo-show-jeffrey-wright-isaac-actor-1851499647)<!-- GAME:END -->
+ - [Go Spend $10 To Play Chrono Cross Remastered Right Now](https://kotaku.com/chono-cross-radical-dreamers-sale-discount-ps5-cheap-1851499822)
+ - [Fans Are So Hungry For Persona 6 They&#39;re Excited About A Placeholder Logo](https://kotaku.com/persona-6-logo-green-leak-midori-atlus-sega-1851499836)
+ - [Fortnite Chapter 5 Season 3 battle pass skins list, including T-60 Power Armor, Brite Raider, and Megalo Don](https://www.polygon.com/fortnite-guide/24163821/chapter-5-season-3-battle-pass-skins-list-c5s3-t60-power-armor-fallout)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
