@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops](http://9gag.com/gag/agm0wPr)
- - ⏩ [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
- - 👉 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)<!-- MEMES:END -->
+ - 💣 [This woman was arrested on a plane for preventing a take off.](http://9gag.com/gag/ajP6vKp)
+ - ⏩ [Gassed](http://9gag.com/gag/apRoXwM)
+ - 👉 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)<!-- MEMES:END -->
 
 ---
 
