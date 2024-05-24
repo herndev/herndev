@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Repo man](http://9gag.com/gag/abAqw99)
- - ⏩ [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
- - 👉 [The camping of horrors](http://9gag.com/gag/amoLwyV)<!-- MEMES:END -->
+ - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - ⏩ [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
+ - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
 
 ---
 
