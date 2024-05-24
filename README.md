@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro earns prestigious Black Pencil design award](https://appleinsider.com/articles/24/05/24/apple-vision-pro-earns-prestigious-black-pencil-design-award?utm_medium=rss)
- - [New iPad mini with OLED screen rumored to arrive in 2026](https://appleinsider.com/articles/24/05/24/new-ipad-mini-with-oled-screen-rumored-to-arrive-in-2026?utm_medium=rss)
- - [Cohere for AI, the nonprofit research arm of AI startup Cohere, announces the open weights release of Aya 23, a family of multilingual language models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240524/p8#a240524p8)<!-- TECH:END -->
+ - [Ring’s Pan-Tilt Indoor Cam hands-on: a fuller view of your home](https://www.theverge.com/24163485/ring-pan-tilt-indoor-cam-smart-security-camera-hands-on)
+ - [Here’s why I turned off AI Overviews and why you should consider it too](https://www.androidauthority.com/how-to-turn-off-ai-overviews-google-3445771/)
+ - [New iPad mini with OLED screen rumored to arrive in 2026](https://appleinsider.com/articles/24/05/24/new-ipad-mini-with-oled-screen-rumored-to-arrive-in-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
