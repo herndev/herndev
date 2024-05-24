@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the Age of AI, Who Owns Your Voice? The Cautionary Tales Are Adding Up     - CNET](https://www.cnet.com/tech/services-and-software/in-the-age-of-ai-who-owns-your-voice-the-cautionary-tales-are-adding-up/#ftag=CAD590a51e)
- - [Google says the vast majority of AI Overviews provide high-quality information and many of the viral examples have been uncommon queries or have been doctored &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240524/p17#a240524p17)
- - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This iPod prototype was hiding Apple’s unreleased Tetris clone](https://www.theverge.com/2024/5/24/24164247/apple-tetris-stacker-ipod-prototype-tony-fadell)
+ - [ASUS ROG Ally X rumors: Everything we know and what we want to see](https://www.androidauthority.com/asus-rog-ally-x-specs-price-features-3441319/)
+ - [UK law will let regulators fine Big Tech without court approval](https://www.theverge.com/2024/5/24/24164204/uk-dmcc-law-big-tech-regulation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
