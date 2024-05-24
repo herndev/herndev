@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - ⏩ [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 👉 [Wild &lpar;Would&rpar;](http://9gag.com/gag/aPAybvP)<!-- MEMES:END -->
+ - 💣 [Oops](http://9gag.com/gag/agm0wPr)
+ - ⏩ [Female gaming PC.](http://9gag.com/gag/awybj18)
+ - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
 
 ---
 
