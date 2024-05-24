@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An overview of existing deals between news publishers and AI companies and the questions they raise regarding long-term costs, the selection process, and more &lpar;Pete Brown/Columbia Journalism Review&rpar;](http://www.techmeme.com/240524/p18#a240524p18)
  - [This iPod prototype was hiding Apple’s unreleased Tetris clone](https://www.theverge.com/2024/5/24/24164247/apple-tetris-stacker-ipod-prototype-tony-fadell)
- - [ASUS ROG Ally X rumors: Everything we know and what we want to see](https://www.androidauthority.com/asus-rog-ally-x-specs-price-features-3441319/)
- - [UK law will let regulators fine Big Tech without court approval](https://www.theverge.com/2024/5/24/24164204/uk-dmcc-law-big-tech-regulation)<!-- TECH:END -->
+ - [Memorial Day Sales at Home Depot: Rack Up Massive Savings on Outdoor and Home Essentials     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
