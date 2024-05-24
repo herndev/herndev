@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
  - [T-Mobile confirms price hike for some legacy plans, refuses to clarify affected plans &lpar;Updated&rpar;](https://www.androidauthority.com/t-mobile-price-increase-older-plans-3445515/)
- - [Email: Foursquare lays off 105 employees as the company seeks to &quot;streamline&quot; its operations; source: layoffs represent about 25% of total company employees &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240524/p3#a240524p3)
- - [Samsung responds after iFixit breaks off repair partnership](https://www.androidauthority.com/samsung-statement-on-ifixit-repair-partnership-ending-3445928/)<!-- TECH:END -->
+ - [Email: Foursquare lays off 105 employees as the company seeks to &quot;streamline&quot; its operations; source: layoffs represent about 25% of total company employees &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240524/p3#a240524p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
