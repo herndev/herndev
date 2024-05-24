@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Get Stellar Blade’s New, Very Revealing Outfits](https://kotaku.com/stellar-blade-1-003-how-to-get-midsummer-redhood-alice-1851500065)
- - [Schedule a gamer night — it’s life-changing](https://www.polygon.com/24163967/gamer-night-how-to-find-time-for-video-games-schedule)
- - [Hold fast: Warhammer 40K: Rogue Trader is getting its mutinous first expansion](https://www.pcgamer.com/games/rpg/hold-fast-warhammer-40k-rogue-trader-is-getting-its-mutinous-first-expansion)<!-- GAME:END -->
+ - [How an ambitious and creative team will turn Don’t Starve into a board game](https://www.polygon.com/24163194/dont-starve-board-game-preview-kickstarter-release-date-price)
+ - [Naughty Dog&#39;s Neil Druckmann is a big fan of generative AI: &#39;With AI, your creativity sets the limits&#39;](https://www.pcgamer.com/software/ai/naughty-dogs-neil-druckmann-is-a-big-fan-of-generative-ai-with-ai-your-creativity-sets-the-limits)
+ - [The best echoes in Wuthering Waves and where to get them](https://www.polygon.com/guides/24164118/wuthering-waves-best-echoes-where-to-get-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
