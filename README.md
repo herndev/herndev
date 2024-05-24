@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK rushes through Digital Markets Act copycat to regulate mostly US big tech](https://appleinsider.com/articles/24/05/24/uk-rushes-through-digital-markets-act-copycat-to-regulate-mostly-us-big-tech?utm_medium=rss)
- - [Here’s why deleted iPhone photos returned to some iOS devices](https://www.theverge.com/2024/5/24/24163826/apple-iphone-ios-17-5-update-deleted-photos-explained)
- - [Don’t Believe the Biggest Myth About Heat Pumps](https://www.wired.com/story/myth-heat-pumps-cold-weather-freezing-subzero/)<!-- TECH:END -->
+ - [A Warp Drive Breakthrough Inches a Tiny Bit Closer to &#39;Star Trek&#39;](https://www.wired.com/story/warp-drive-breakthrough-physics-star-trek/)
+ - [A new Gemini button could be coming to Gmail on Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/new-gemini-button-gmail-android-apk-teardown-3445976/)
+ - [A profile of Lin Rui-siang, a 23-year-old Taiwanese accused by the US DOJ of running a $100M+ dark-web drug market who had an alter ego as a crypto crime expert &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240524/p6#a240524p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
