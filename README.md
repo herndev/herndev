@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve got no interest in playing Valve&#39;s rumored Deadlock game, but I&#39;ll definitely be here for all the funny &#39;Meet the Team&#39; movies they&#39;ll probably make about the characters](https://www.pcgamer.com/games/third-person-shooter/ive-got-no-interest-in-playing-valves-rumored-deadlock-game-but-ill-definitely-be-here-for-all-the-funny-meet-the-team-movies-theyll-probably-make-about-the-characters)
- - [Dave the Diver&#39;s Godzilla DLC is live now and completely free, but after November 23 it&#39;s gone forever](https://www.pcgamer.com/games/adventure/dave-the-divers-godzilla-dlc-is-live-now-and-completely-free-but-after-november-23-its-gone-forever)
- - [All hidden face locations in Hellblade 2](https://www.polygon.com/guides/24163177/hellblade-2-hidden-faces-locations-stone-giant-collectibles)<!-- GAME:END -->
+ - [Helldivers 2 started with the pitch to make players the &#39;evil guys in the galaxy&#39; like stormtroopers: &#39;Would you be able to survive a galactic war without plot armor to protect you?&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-pitch-evil)
+ - [Mechanicus, the best turn-based Warhammer 40,000 game, is getting a sequel](https://www.pcgamer.com/games/strategy/mechanicus-the-best-turn-based-warhammer-40000-game-is-getting-a-sequel)
+ - [I&#39;ve got no interest in playing Valve&#39;s rumored Deadlock game, but I&#39;ll definitely be here for all the funny &#39;Meet the Team&#39; movies they&#39;ll probably make about the characters](https://www.pcgamer.com/games/third-person-shooter/ive-got-no-interest-in-playing-valves-rumored-deadlock-game-but-ill-definitely-be-here-for-all-the-funny-meet-the-team-movies-theyll-probably-make-about-the-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
