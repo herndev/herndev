@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the privacy and security concerns surrounding Microsoft&#39;s Recall, which will record everything users do in Windows for up to three months by default &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240524/p14#a240524p14)
- - [Best Memorial Day Mattress Sales: Save Hundreds at Amerisleep, Purple and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)
- - [YouTube Music’s new search feature lets you hum to find songs](https://www.androidauthority.com/youtube-music-hum-to-search-3446068/)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
+ - [Microsoft&#39;s Bing, Copilot, and Copilot in Windows services are back online worldwide after an outage that began around 3 AM ET on May 23 and lasted 24+ hours &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/240524/p15#a240524p15)
+ - [Bald Head Shaver     - CNET](https://www.cnet.com/health/personal-care/bald-head-shaver-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
