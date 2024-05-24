@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why the media protect the parasites ? Who owns the media ?](http://9gag.com/gag/aGyV4Ew)
- - ⏩ [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 👉 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)<!-- MEMES:END -->
+ - 💣 [AI having a conversation with another AI \u2026. We are toast](http://9gag.com/gag/aQzp5ZW)
+ - ⏩ [I think my cat is trying to tell me something](http://9gag.com/gag/aD2w9wN)
+ - 👉 [Oops](http://9gag.com/gag/agm0wPr)<!-- MEMES:END -->
 
 ---
 
