@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This woman was arrested on a plane for preventing a take off.](http://9gag.com/gag/ajP6vKp)
- - ⏩ [Gassed](http://9gag.com/gag/apRoXwM)
+ - 💣 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - ⏩ [Why the media protect the parasites ? Who owns the media ?](http://9gag.com/gag/aGyV4Ew)
  - 👉 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)<!-- MEMES:END -->
 
 ---
