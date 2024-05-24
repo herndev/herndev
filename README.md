@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Daylight Computer&#39;s DC1, a 10.5-inch, $729 tablet that feels like a hybrid of an iPad and a Kindle and runs on a custom Android-based OS called SolOS &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240523/p45#a240523p45)
  - [Experience Immersive sizzle reel for Apple Vision Pro updated with new scenes, sports](https://appleinsider.com/articles/24/05/24/experience-immersive-sizzle-reel-for-apple-vision-pro-updated-with-new-scenes-sports?utm_medium=rss)
- - [Sources: Alibaba raised $4.5B from a convertible bond sale in one of the largest such offerings in recent years, after rival JD.com&#39;s recent $1.75B offering &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p44#a240523p44)
- - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Alibaba raised $4.5B from a convertible bond sale in one of the largest such offerings in recent years, after rival JD.com&#39;s recent $1.75B offering &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p44#a240523p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
