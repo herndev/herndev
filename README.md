@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Nigerian court adjourns a money laundering trial against Binance and two of its executives to June 20 because one of the defendants Tigran Gambaryan was ill &lpar;Camillus Eboh/Reuters&rpar;](http://www.techmeme.com/240524/p5#a240524p5)
  - [Galaxy Watch 7 Ultra design leaks: What was Samsung thinking?](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-design-leak-3445950/)
- - [A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two parents related to improving memory modules &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240524/p4#a240524p4)
- - [The Galaxy S25 is far away but we’ve got a new Galaxy S26 rumor](https://www.androidauthority.com/samsung-galaxy-s26-exynos-2600-3445946/)<!-- TECH:END -->
+ - [A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two parents related to improving memory modules &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240524/p4#a240524p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
