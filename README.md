@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How an ambitious and creative team will turn Don’t Starve into a board game](https://www.polygon.com/24163194/dont-starve-board-game-preview-kickstarter-release-date-price)
- - [Naughty Dog&#39;s Neil Druckmann is a big fan of generative AI: &#39;With AI, your creativity sets the limits&#39;](https://www.pcgamer.com/software/ai/naughty-dogs-neil-druckmann-is-a-big-fan-of-generative-ai-with-ai-your-creativity-sets-the-limits)
- - [The best echoes in Wuthering Waves and where to get them](https://www.polygon.com/guides/24164118/wuthering-waves-best-echoes-where-to-get-locations)<!-- GAME:END -->
+ - [The best deals you should check out this Memorial Day weekend](https://www.polygon.com/deals/24162549/best-memorial-day-deals-nintendo-xbox-playstation-pc-2024)
+ - [Report: New &#39;Medieval-Inspired&#39; Doom Game Will Be Announced Next Month](https://kotaku.com/doom-3-eternal-sequel-dark-ages-year-zero-xbox-june-1851500253)
+ - [Never mind Kojima’s Mad Max game — I want George Miller’s Metal Gear](https://www.polygon.com/24164022/george-miller-hideo-kojima-mad-max-metal-gear)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
