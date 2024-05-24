@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops](http://9gag.com/gag/agm0wPr)
- - ⏩ [Female gaming PC.](http://9gag.com/gag/awybj18)
- - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
+ - 💣 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
+ - ⏩ [Father is so proud of this kid](http://9gag.com/gag/a87bgvV)
+ - 👉 [If you keep whining about the past and you&#39;ll never move forward.](http://9gag.com/gag/ae93wDp)<!-- MEMES:END -->
 
 ---
 
