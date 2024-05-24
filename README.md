@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Nigerian court adjourns a money laundering trial against Binance and two of its executives to June 20 because one of the defendants Tigran Gambaryan was ill &lpar;Camillus Eboh/Reuters&rpar;](http://www.techmeme.com/240524/p5#a240524p5)
- - [Galaxy Watch 7 Ultra design leaks: What was Samsung thinking?](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-design-leak-3445950/)
- - [A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two parents related to improving memory modules &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240524/p4#a240524p4)<!-- TECH:END -->
+ - [UK rushes through Digital Markets Act copycat to regulate mostly US big tech](https://appleinsider.com/articles/24/05/24/uk-rushes-through-digital-markets-act-copycat-to-regulate-mostly-us-big-tech?utm_medium=rss)
+ - [Here’s why deleted iPhone photos returned to some iOS devices](https://www.theverge.com/2024/5/24/24163826/apple-iphone-ios-17-5-update-deleted-photos-explained)
+ - [Don’t Believe the Biggest Myth About Heat Pumps](https://www.wired.com/story/myth-heat-pumps-cold-weather-freezing-subzero/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
