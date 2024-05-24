@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrowhead initially planned to make Helldivers 2 in 3 years—instead it took 7 years, 11 months, and 26 days, but &#39;grit, camaraderie and compassion&#39; saw the team through](https://www.pcgamer.com/games/third-person-shooter/arrowhead-initially-planned-to-make-helldivers-2-in-3-yearsinstead-it-took-7-years-11-months-and-26-days-but-grit-camaraderie-and-compassion-saw-the-team-through)
- - [Did Fans Get Characters Modeled After Hideo Kojima Into The Silent Hill Interactive Show?](https://kotaku.com/silent-hill-ascension-hideo-kojima-character-contest-1851499387)
- - [The 31 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Climb to New Heights with Grappin, Available for Preorder Now](https://news.xbox.com/en-us/2024/05/24/climb-to-new-heights-with-grappin-available-for-preorder-now/)
+ - [Francesca actually got the most romantic plotline in Bridgerton](https://www.polygon.com/24162798/francesca-bridgerton-lord-kilmartin-season-3)
+ - [Another The Last Of Us Game Actor Is Reprising Their Role In The Show](https://kotaku.com/last-of-us-hbo-show-jeffrey-wright-isaac-actor-1851499647)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
