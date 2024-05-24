@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best deals you should check out this Memorial Day weekend](https://www.polygon.com/deals/24162549/best-memorial-day-deals-nintendo-xbox-playstation-pc-2024)
- - [Report: New &#39;Medieval-Inspired&#39; Doom Game Will Be Announced Next Month](https://kotaku.com/doom-3-eternal-sequel-dark-ages-year-zero-xbox-june-1851500253)
- - [Never mind Kojima’s Mad Max game — I want George Miller’s Metal Gear](https://www.polygon.com/24164022/george-miller-hideo-kojima-mad-max-metal-gear)<!-- GAME:END -->
+ - [Call Of Duty: Black Ops 6 Will Still Come To PS4 And Xbox One](https://kotaku.com/call-duty-black-ops-6-ps4-xbox-one-price-game-pass-1851500463)
+ - [New &#39;Medieval&#39; Doom Reportedly Coming To PS5 And Xbox, Will Be Announced In June](https://kotaku.com/doom-3-eternal-sequel-dark-ages-year-zero-xbox-june-1851500253)
+ - [Thanks To New EU Rules, Fortnite Is Coming Back To iPhones [Update]](https://kotaku.com/fortnite-iphone-ios-apple-return-epic-store-eu-dma-1851198881)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
