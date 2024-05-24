@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - ⏩ [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
- - 👉 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
+ - 💣 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
+ - ⏩ [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)
+ - 👉 [Next level pick up line](http://9gag.com/gag/aVvQ5nK)<!-- MEMES:END -->
 
 ---
 
