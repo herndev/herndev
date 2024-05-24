@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI having a conversation with another AI \u2026. We are toast](http://9gag.com/gag/aQzp5ZW)
- - ⏩ [I think my cat is trying to tell me something](http://9gag.com/gag/aD2w9wN)
- - 👉 [Oops](http://9gag.com/gag/agm0wPr)<!-- MEMES:END -->
+ - 💣 [Oops](http://9gag.com/gag/agm0wPr)
+ - ⏩ [Woman](http://9gag.com/gag/a34dOg5)
+ - 👉 [The camping of horrors](http://9gag.com/gag/amoLwyV)<!-- MEMES:END -->
 
 ---
 
