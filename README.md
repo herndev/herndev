@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 offers returning players 4 days of free playtime on the house until late June—but you&#39;ve gotta be real careful about when you choose to start](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-offers-returning-players-4-days-of-free-playtime-on-the-house-until-late-junebut-youve-gotta-be-real-careful-about-when-you-choose-to-start)
- - [Netgear Nighthawk RS700S review](https://www.pcgamer.com/hardware/networking/netgear-nighthawk-rs700s-review)
- - [Helldivers 2&#39;s latest major order promises a mech with 2 entire Autocannons strapped onto it—though there&#39;s a small chance it could slip through players&#39; fingers](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-latest-major-order-promises-a-mech-with-2-entire-autocannons-strapped-onto-itthough-theres-a-small-chance-it-could-slip-through-players-fingers)<!-- GAME:END -->
+ - [As the Sims 4 continues to buckle under the weight of over $1,200 worth of DLC, EA has &#39;assembled a team&#39; to focus on bug fixes](https://www.pcgamer.com/games/the-sims/as-the-sims-4-continues-to-buckle-under-the-weight-over-dollar1200-worth-of-dlc-ea-has-assembled-a-team-to-focus-on-bug-fixes)
+ - [All Genshin Impact codes from the 4.7 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-7-livestream)
+ - [&#39;Personal best KD at 0.23&#39;: XDefiant is handing out participation trophies to players who suck](https://www.pcgamer.com/games/fps/personal-best-kd-at-023-xdefiant-is-handing-out-participation-trophies-to-players-who-suck)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
