@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Retro Warhammer 40,000 first-person bullet-hose Boltgun is getting DLC](https://www.pcgamer.com/games/fps/retro-warhammer-40000-first-person-bullet-hose-boltgun-is-getting-dlc)
- - [Helldivers 2 is about being the &#39;evil guys in the galaxy,&#39; says Johan Pilestedt: &#39;Would you be able to survive a galactic war without plot armor to protect you?&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-pitch-evil)
- - [Mechanicus, the best turn-based Warhammer 40,000 game, is getting a sequel](https://www.pcgamer.com/games/strategy/mechanicus-the-best-turn-based-warhammer-40000-game-is-getting-a-sequel)<!-- GAME:END -->
+ - [Why was Helldivers 2 a smash hit? Not the price, says Pilestedt](https://www.pcgamer.com/games/third-person-shooter/why-was-helldivers-2-a-smash-hit-not-the-price-says-pilestedt)
+ - [40K 4X Gladius – Relics of War is free to keep for a limited time](https://www.pcgamer.com/games/strategy/40k-4x-gladius-relics-of-war-is-free-to-keep-for-a-limited-time)
+ - [Retro Warhammer 40,000 first-person bullet-hose Boltgun is getting DLC](https://www.pcgamer.com/games/fps/retro-warhammer-40000-first-person-bullet-hose-boltgun-is-getting-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
