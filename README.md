@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next level pick up line](http://9gag.com/gag/aVvQ5nK)
- - ⏩ [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
- - 👉 [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)<!-- MEMES:END -->
+ - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - ⏩ [How Female Brain works](http://9gag.com/gag/aLnQOqP)
+ - 👉 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)<!-- MEMES:END -->
 
 ---
 
