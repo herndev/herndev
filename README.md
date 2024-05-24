@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Mario game available on Nintendo Switch, ranked](https://www.polygon.com/nintendo-switch/22339948/mario-games-ranked-switch-super-nintendo-64-luigi-yoshi)
- - [How to get the Magneto skin in Fortnite Chapter 5 Season 3](https://www.polygon.com/fortnite-guide/24163936/magneto-skin-release-date-how-to-get)
- - [Fortnite’s New Season Adds Fallout, Magneto, And Off-Brand Mad Max](https://kotaku.com/fortnite-chapter-5-season-3-wasteland-fallout-magneto-1851499167)<!-- GAME:END -->
+ - [Arrowhead initially planned to make Helldivers 2 in 3 years—instead it took 7 years, 11 months, and 26 days, but &#39;grit, camaraderie and compassion&#39; saw the team through](https://www.pcgamer.com/games/third-person-shooter/arrowhead-initially-planned-to-make-helldivers-2-in-3-yearsinstead-it-took-7-years-11-months-and-26-days-but-grit-camaraderie-and-compassion-saw-the-team-through)
+ - [Did Fans Get Characters Modeled After Hideo Kojima Into The Silent Hill Interactive Show?](https://kotaku.com/silent-hill-ascension-hideo-kojima-character-contest-1851499387)
+ - [The 31 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
