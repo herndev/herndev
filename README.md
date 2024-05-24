@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, May 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-24-2024)
  - [Why was Helldivers 2 a smash hit? Not the price, says Pilestedt](https://www.pcgamer.com/games/third-person-shooter/why-was-helldivers-2-a-smash-hit-not-the-price-says-pilestedt)
- - [40K 4X Gladius – Relics of War is free to keep for a limited time](https://www.pcgamer.com/games/strategy/40k-4x-gladius-relics-of-war-is-free-to-keep-for-a-limited-time)
- - [Retro Warhammer 40,000 first-person bullet-hose Boltgun is getting DLC](https://www.pcgamer.com/games/fps/retro-warhammer-40000-first-person-bullet-hose-boltgun-is-getting-dlc)<!-- GAME:END -->
+ - [40K 4X Gladius – Relics of War is free to keep for a limited time](https://www.pcgamer.com/games/strategy/40k-4x-gladius-relics-of-war-is-free-to-keep-for-a-limited-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
