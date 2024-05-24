@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Microsoft&#39;s Bing, Copilot, and Copilot in Windows services are back online worldwide after an outage that began around 3 AM ET on May 23 and lasted 24+ hours &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/240524/p15#a240524p15)
- - [Bald Head Shaver     - CNET](https://www.cnet.com/health/personal-care/bald-head-shaver-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shut it down: Google’s AI search results are beyond terrible](https://www.androidauthority.com/shut-down-google-ai-overview-3446038/)
+ - [Hands-on look at the Daylight DC1, the tablet with a potentially game-changing display](https://www.androidauthority.com/daylight-dc1-first-look-3446094/)
+ - [The 34 Best Shows on Amazon Prime Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
