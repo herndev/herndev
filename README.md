@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saints on the water](http://9gag.com/gag/amoLwvo)
- - ⏩ [Lol.](http://9gag.com/gag/azxLwDq)
- - 👉 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)<!-- MEMES:END -->
+ - 💣 [Next level pick up line](http://9gag.com/gag/aVvQ5nK)
+ - ⏩ [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
+ - 👉 [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)<!-- MEMES:END -->
 
 ---
 
