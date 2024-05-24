@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
- - ⏩ [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
- - 👉 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)<!-- MEMES:END -->
+ - 💣 [All it took for a man was one really bad day. How long would it take for a nation?](http://9gag.com/gag/a34dge8)
+ - ⏩ [Wtf](http://9gag.com/gag/aO8ynOr)
+ - 👉 [Damn](http://9gag.com/gag/avyZVed)<!-- MEMES:END -->
 
 ---
 
