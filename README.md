@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)
- - [Apple says that users&#39; deleted photos that resurfaced after installing iOS 17.5 weren&#39;t synced to iCloud Photos and could have persisted after restoring backups &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240524/p12#a240524p12)
- - [Why Are We Seeing These Crazy Northern Lights?](https://www.wired.com/story/the-physics-of-these-crazy-northern-lights-displays/)<!-- TECH:END -->
+ - [Best Memorial Day Deals Under $100: Save on Tech, Home Goods, Fitness and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100/#ftag=CAD590a51e)
+ - [Best Apple Memorial Day Sales: Snag Savings on iPads, Apple Watches, Macs and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales/#ftag=CAD590a51e)
+ - [You can save up to 20 percent on refurbished and like-new Nintendo Switch handhelds](https://www.theverge.com/2024/5/24/24163904/nintendo-switch-lite-console-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
