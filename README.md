@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, May 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-24-2024)
- - [Why was Helldivers 2 a smash hit? Not the price, says Pilestedt](https://www.pcgamer.com/games/third-person-shooter/why-was-helldivers-2-a-smash-hit-not-the-price-says-pilestedt)
- - [40K 4X Gladius – Relics of War is free to keep for a limited time](https://www.pcgamer.com/games/strategy/40k-4x-gladius-relics-of-war-is-free-to-keep-for-a-limited-time)<!-- GAME:END -->
+ - [Gaming PCs and components look set to jump in price in the US as import tariff exclusions come to an end](https://www.pcgamer.com/hardware/gaming-pcs-and-components-look-set-to-jump-in-price-in-the-us-as-import-tariff-exclusions-come-to-an-end)
+ - [How to find the Lampylumen Myriad boss in Wuthering Waves](https://www.pcgamer.com/games/rpg/how-to-find-the-lampylumen-myriad-boss-in-wuthering-waves)
+ - [Acer Predator Connect W6 review](https://www.pcgamer.com/hardware/networking/acer-predator-connect-w6-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
