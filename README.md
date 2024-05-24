@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shut it down: Google’s AI search results are beyond terrible](https://www.androidauthority.com/shut-down-google-ai-overview-3446038/)
- - [Hands-on look at the Daylight DC1, the tablet with a potentially game-changing display](https://www.androidauthority.com/daylight-dc1-first-look-3446094/)
- - [The 34 Best Shows on Amazon Prime Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [In the Age of AI, Who Owns Your Voice? The Cautionary Tales Are Adding Up     - CNET](https://www.cnet.com/tech/services-and-software/in-the-age-of-ai-who-owns-your-voice-the-cautionary-tales-are-adding-up/#ftag=CAD590a51e)
+ - [Google says the vast majority of AI Overviews provide high-quality information and many of the viral examples have been uncommon queries or have been doctored &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240524/p17#a240524p17)
+ - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
