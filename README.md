@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best now.gg games to try out](https://www.androidauthority.com/best-now-gg-games-3444615/)
- - [Samsung requires independent repair stores to snitch on you, but it gets worse](https://www.androidauthority.com/samsung-independent-repair-stores-snitch-report-3445933/)
- - [Memorial Day Sales 2024: Shop the Very Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Watch 7 Ultra design leaks: What was Samsung thinking?](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-design-leak-3445950/)
+ - [A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two parents related to improving memory modules &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240524/p4#a240524p4)
+ - [The Galaxy S25 is far away but we’ve got a new Galaxy S26 rumor](https://www.androidauthority.com/samsung-galaxy-s26-exynos-2600-3445946/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
