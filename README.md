@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm Hg agrees to buy AuditBoard, a risk and compliance cloud software provider for large businesses, at $3B+ including debt &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240524/p11#a240524p11)
- - [Best Memorial Day 2024 sales: Apple AirPods, MacBooks, new iPads up to $700 off](https://appleinsider.com/articles/24/05/24/best-memorial-day-2024-sales-apple-airpods-macbooks-new-ipads-up-to-700-off?utm_medium=rss)
- - [First chance to catch the 2024 Samsung S61D soundbar under $270](https://www.androidauthority.com/samsung-s61d-soundbar-deal-3445870/)<!-- TECH:END -->
+ - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)
+ - [Apple says that users&#39; deleted photos that resurfaced after installing iOS 17.5 weren&#39;t synced to iCloud Photos and could have persisted after restoring backups &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240524/p12#a240524p12)
+ - [Why Are We Seeing These Crazy Northern Lights?](https://www.wired.com/story/the-physics-of-these-crazy-northern-lights-displays/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
