@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 27 to 31](https://news.xbox.com/en-us/2024/05/24/next-week-on-xbox-new-games-for-may-27-to-31/)
- - [New RPG Captures The Essence Of What Made Zelda: A Link To The Past So Great](https://kotaku.com/master-key-2d-zelda-animal-well-review-1851498948)
- - [Capes review](https://www.pcgamer.com/games/strategy/capes-review)<!-- GAME:END -->
+ - [Every Mario game available on Nintendo Switch, ranked](https://www.polygon.com/nintendo-switch/22339948/mario-games-ranked-switch-super-nintendo-64-luigi-yoshi)
+ - [How to get the Magneto skin in Fortnite Chapter 5 Season 3](https://www.polygon.com/fortnite-guide/24163936/magneto-skin-release-date-how-to-get)
+ - [Fortnite’s New Season Adds Fallout, Magneto, And Off-Brand Mad Max](https://kotaku.com/fortnite-chapter-5-season-3-wasteland-fallout-magneto-1851499167)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
