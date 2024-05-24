@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google increases the Play Store&#39;s app price limit to $999.99 or the local equivalent, a 150% jump from the previous price limit of $400 set in October 2015 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240523/p38#a240523p38)
- - [Nothing Phone 3 leak: Did they just copy the iPhone 16 before it even exists?](https://www.androidauthority.com/nothing-phone-3-leak-3445898/)
- - [Get a $100 Amazon Gift Card to Save More This Memorial Day Weekend     - CNET](https://www.cnet.com/personal-finance/get-a-100-amazon-gift-card-to-save-more-this-memorial-day-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Judge Hints at Plans to Rein In Google’s Illegal Play Store Monopoly](https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/)
+ - [Sources: Meta is considering charging users for a more advanced version of Meta AI and is developing AI agents that can complete tasks without human supervision &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240523/p40#a240523p40)
+ - [The US SEC approves applications from Nasdaq, Cboe, and NYSE to list spot ether ETFs, potentially paving the way for them to begin trading later this year &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p39#a240523p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
