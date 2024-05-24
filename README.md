@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gassed](http://9gag.com/gag/apRoXwM)
- - ⏩ [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 👉 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)<!-- MEMES:END -->
+ - 💣 [Saints on the water](http://9gag.com/gag/amoLwvo)
+ - ⏩ [Lol.](http://9gag.com/gag/azxLwDq)
+ - 👉 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)<!-- MEMES:END -->
 
 ---
 
