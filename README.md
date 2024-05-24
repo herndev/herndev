@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
- - ⏩ [Father is so proud of this kid](http://9gag.com/gag/a87bgvV)
- - 👉 [If you keep whining about the past and you&#39;ll never move forward.](http://9gag.com/gag/ae93wDp)<!-- MEMES:END -->
+ - 💣 [Studio Ghibli Wallpaper 1](http://9gag.com/gag/a34dgzr)
+ - ⏩ [Just a dog having a blast](http://9gag.com/gag/aNDo50G)
+ - 👉 [Today&#39;s wallpaper... Come and get it while it&#39;s hot :&rpar;&rpar;](http://9gag.com/gag/amoLynd)<!-- MEMES:END -->
 
 ---
 
