@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yep](http://9gag.com/gag/aRBgpZ5)
- - ⏩ [What you see is no longer possible. The masters have retired, and the young who replaced them hated them. Art has been LOST.](http://9gag.com/gag/avyZwxE)
- - 👉 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)<!-- MEMES:END -->
+ - 💣 [Oops](http://9gag.com/gag/agm0wPr)
+ - ⏩ [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
+ - 👉 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)<!-- MEMES:END -->
 
 ---
 
