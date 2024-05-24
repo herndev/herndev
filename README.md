@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Go Spend $10 To Play Chrono Cross Remastered Right Now](https://kotaku.com/chono-cross-radical-dreamers-sale-discount-ps5-cheap-1851499822)
- - [Fans Are So Hungry For Persona 6 They&#39;re Excited About A Placeholder Logo](https://kotaku.com/persona-6-logo-green-leak-midori-atlus-sega-1851499836)
- - [Fortnite Chapter 5 Season 3 battle pass skins list, including T-60 Power Armor, Brite Raider, and Megalo Don](https://www.polygon.com/fortnite-guide/24163821/chapter-5-season-3-battle-pass-skins-list-c5s3-t60-power-armor-fallout)<!-- GAME:END -->
+ - [How To Get Stellar Blade’s New, Very Revealing Outfits](https://kotaku.com/stellar-blade-1-003-how-to-get-midsummer-redhood-alice-1851500065)
+ - [Schedule a gamer night — it’s life-changing](https://www.polygon.com/24163967/gamer-night-how-to-find-time-for-video-games-schedule)
+ - [Hold fast: Warhammer 40K: Rogue Trader is getting its mutinous first expansion](https://www.pcgamer.com/games/rpg/hold-fast-warhammer-40k-rogue-trader-is-getting-its-mutinous-first-expansion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
