@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring’s Pan-Tilt Indoor Cam hands-on: a fuller view of your home](https://www.theverge.com/24163485/ring-pan-tilt-indoor-cam-smart-security-camera-hands-on)
- - [Here’s why I turned off AI Overviews and why you should consider it too](https://www.androidauthority.com/how-to-turn-off-ai-overviews-google-3445771/)
- - [New iPad mini with OLED screen rumored to arrive in 2026](https://appleinsider.com/articles/24/05/24/new-ipad-mini-with-oled-screen-rumored-to-arrive-in-2026?utm_medium=rss)<!-- TECH:END -->
+ - [PE firm Hg agrees to buy AuditBoard, a risk and compliance cloud software provider for large businesses, at $3B+ including debt &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240524/p11#a240524p11)
+ - [Best Memorial Day 2024 sales: Apple AirPods, MacBooks, new iPads up to $700 off](https://appleinsider.com/articles/24/05/24/best-memorial-day-2024-sales-apple-airpods-macbooks-new-ipads-up-to-700-off?utm_medium=rss)
+ - [First chance to catch the 2024 Samsung S61D soundbar under $270](https://www.androidauthority.com/samsung-s61d-soundbar-deal-3445870/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
