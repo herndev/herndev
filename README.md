@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All it took for a man was one really bad day. How long would it take for a nation?](http://9gag.com/gag/a34dge8)
- - ⏩ [Wtf](http://9gag.com/gag/aO8ynOr)
- - 👉 [Damn](http://9gag.com/gag/avyZVed)<!-- MEMES:END -->
+ - 💣 [Repo man](http://9gag.com/gag/abAqw99)
+ - ⏩ [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 👉 [The camping of horrors](http://9gag.com/gag/amoLwyV)<!-- MEMES:END -->
 
 ---
 
