@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - ⏩ [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
- - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
+ - 💣 [Gassed](http://9gag.com/gag/apRoXwM)
+ - ⏩ [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 👉 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)<!-- MEMES:END -->
 
 ---
 
