@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Memorial Day Deals Under $100: Save on Tech, Home Goods, Fitness and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100/#ftag=CAD590a51e)
- - [Best Apple Memorial Day Sales: Snag Savings on iPads, Apple Watches, Macs and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales/#ftag=CAD590a51e)
- - [You can save up to 20 percent on refurbished and like-new Nintendo Switch handhelds](https://www.theverge.com/2024/5/24/24163904/nintendo-switch-lite-console-deal-sale)<!-- TECH:END -->
+ - [A look at the privacy and security concerns surrounding Microsoft&#39;s Recall, which will record everything users do in Windows for up to three months by default &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240524/p14#a240524p14)
+ - [Best Memorial Day Mattress Sales: Save Hundreds at Amerisleep, Purple and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)
+ - [YouTube Music’s new search feature lets you hum to find songs](https://www.androidauthority.com/youtube-music-hum-to-search-3446068/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
