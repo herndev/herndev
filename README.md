@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Black Ops 6 Will Still Come To PS4 And Xbox One](https://kotaku.com/call-duty-black-ops-6-ps4-xbox-one-price-game-pass-1851500463)
- - [New &#39;Medieval&#39; Doom Reportedly Coming To PS5 And Xbox, Will Be Announced In June](https://kotaku.com/doom-3-eternal-sequel-dark-ages-year-zero-xbox-june-1851500253)
- - [Thanks To New EU Rules, Fortnite Is Coming Back To iPhones [Update]](https://kotaku.com/fortnite-iphone-ios-apple-return-epic-store-eu-dma-1851198881)<!-- GAME:END -->
+ - [We&#39;ll Miss You: Pioneering instant messaging program ICQ is finally shutting down after nearly 30 years](https://www.pcgamer.com/software/well-miss-you-pioneering-instant-messaging-program-icq-is-finally-shutting-down-after-nearly-30-years)
+ - [Dune 2, The Fall Guy, Netflix’s Atlas, and every movie new to streaming this week](https://www.polygon.com/2024/5/24/24160775/new-movies-watch-dune-2-the-fall-guy-netflix-atlas-streaming)
+ - [Call Of Duty: Black Ops 6 Will Still Come To PS4 And Xbox One](https://kotaku.com/call-duty-black-ops-6-ps4-xbox-one-price-game-pass-1851500463)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
