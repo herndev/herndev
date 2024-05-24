@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops](http://9gag.com/gag/agm0wPr)
- - ⏩ [Woman](http://9gag.com/gag/a34dOg5)
- - 👉 [The camping of horrors](http://9gag.com/gag/amoLwyV)<!-- MEMES:END -->
+ - 💣 [Woman](http://9gag.com/gag/a34dOg5)
+ - ⏩ [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - 👉 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)<!-- MEMES:END -->
 
 ---
 
