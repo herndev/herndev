@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Studio Ghibli Wallpaper 1](http://9gag.com/gag/a34dgzr)
- - ⏩ [Just a dog having a blast](http://9gag.com/gag/aNDo50G)
- - 👉 [Today&#39;s wallpaper... Come and get it while it&#39;s hot :&rpar;&rpar;](http://9gag.com/gag/amoLynd)<!-- MEMES:END -->
+ - 💣 [Yep](http://9gag.com/gag/aRBgpZ5)
+ - ⏩ [What you see is no longer possible. The masters have retired, and the young who replaced them hated them. Art has been LOST.](http://9gag.com/gag/avyZwxE)
+ - 👉 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)<!-- MEMES:END -->
 
 ---
 
