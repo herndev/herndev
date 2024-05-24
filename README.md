@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gaming PCs and components look set to jump in price in the US as import tariff exclusions come to an end](https://www.pcgamer.com/hardware/gaming-pcs-and-components-look-set-to-jump-in-price-in-the-us-as-import-tariff-exclusions-come-to-an-end)
- - [How to find the Lampylumen Myriad boss in Wuthering Waves](https://www.pcgamer.com/games/rpg/how-to-find-the-lampylumen-myriad-boss-in-wuthering-waves)
- - [Acer Predator Connect W6 review](https://www.pcgamer.com/hardware/networking/acer-predator-connect-w6-review)<!-- GAME:END -->
+ - [Final Fantasy 14 offers returning players 4 days of free playtime on the house until late June—but you&#39;ve gotta be real careful about when you choose to start](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-offers-returning-players-4-days-of-free-playtime-on-the-house-until-late-junebut-youve-gotta-be-real-careful-about-when-you-choose-to-start)
+ - [Netgear Nighthawk RS700S review](https://www.pcgamer.com/hardware/networking/netgear-nighthawk-rs700s-review)
+ - [Helldivers 2&#39;s latest major order promises a mech with 2 entire Autocannons strapped onto it—though there&#39;s a small chance it could slip through players&#39; fingers](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-latest-major-order-promises-a-mech-with-2-entire-autocannons-strapped-onto-itthough-theres-a-small-chance-it-could-slip-through-players-fingers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
