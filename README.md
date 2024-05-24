@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
- - ⏩ [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)
- - 👉 [Next level pick up line](http://9gag.com/gag/aVvQ5nK)<!-- MEMES:END -->
+ - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - ⏩ [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
+ - 👉 [Wild &lpar;Would&rpar;](http://9gag.com/gag/aPAybvP)<!-- MEMES:END -->
 
 ---
 
