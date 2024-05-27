@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Micron gets hit with a whopping $445 million damages bill after it was found liable for patent infringements](https://www.pcgamer.com/hardware/memory/micron-gets-hit-with-a-whopping-dollar445-million-damages-bill-after-it-was-found-liable-for-patent-infringements)
  - [MSI reveals an intriguing motherboard with CAMM2 memory support](https://www.pcgamer.com/hardware/memory/msi-reveals-an-intriguing-motherboard-with-camm2-memory-support)
- - [Today&#39;s Wordle answer for Monday, May 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-27-2024)
- - [The Sympathizer’s best dual identity trick was its last one](https://www.polygon.com/24164288/sympathizer-man-reveal-ending-explained-captain)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, May 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-27-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
