@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - ⏩ [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
+ - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - ⏩ [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 👉 [Alexa, dammit](http://9gag.com/gag/aW40VLx)<!-- MEMES:END -->
 
 ---
 
