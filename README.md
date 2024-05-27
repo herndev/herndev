@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kenyan tech workers call out US Big Tech for ‘modern-day slavery’](https://www.androidauthority.com/kenyan-workers-open-letter-3446459/)
- - [The Sony WH-1000XM5 drop back to lowest price in Memorial Day sale](https://www.androidauthority.com/deal-sony-wh-1000xm5-3446455/)
- - [Dating apps are trying to woo Gen Z women by boosting moderation tools and more; Tinder has consistently lost MAUs since 2021 and paid subs fell under 10M in Q1 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240527/p5#a240527p5)<!-- TECH:END -->
+ - [Apple&#39;s M1 iPad Air Is $200 Off for Memorial Day     - CNET](https://www.cnet.com/deals/apples-m1-ipad-air-is-200-off-for-memorial-day/#ftag=CAD590a51e)
+ - [Best Memorial Day Deals Under $50: Save on Top Tech, Home and Health Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-27/#ftag=CAD590a51e)
+ - [Score a 20-Watt Anker USB-C Power Strip at Amazon for Only $15 Today     - CNET](https://www.cnet.com/deals/score-a-20w-anker-usb-c-power-strip-at-amazon-for-only-15-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
