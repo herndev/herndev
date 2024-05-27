@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s most anticipated, least expected, 2024 summer preview](https://www.polygon.com/24164232/summer-2024-entertainment-preview)
- - [Can Lev Grossman do for King Arthur what he did for Harry Potter?](https://www.polygon.com/24164083/lev-grossman-the-bright-sword-the-magicians)
- - [The most anticipated TV shows of the summer](https://www.polygon.com/24164051/best-new-tv-summer-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
+ - [Helldivers 2 players have successfully emancipated the Emancipator mech from the automaton assembly line, and of course the dual-autocannon exosuit  has triggered another debate about balance](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-have-successfully-emancipated-the-emancipator-mech-from-the-automaton-assembly-line-and-of-course-the-dual-autocannon-exosuit-has-triggered-another-debate-about-balance)
+ - [The secrets to gaming gravity](https://www.polygon.com/24157223/how-gravity-physics-work-for-jumping-falling-in-games)
+ - [A delightfully-detailed, Discworld-inspired inn manager with absurd furniture customisation stashed in the larder: Tavern Keeper enters early access this year](https://www.pcgamer.com/games/life-sim/a-delightfully-detailed-discworld-inspired-inn-manager-with-absurd-furniture-customisation-stashed-in-the-larder-tavern-keeper-enters-early-access-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
