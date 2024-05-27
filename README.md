@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says all of the $6B in xAI&#39;s Series B is new money rather than shares &quot;given&quot; to investors in Musk&#39;s takeover of Twitter &lpar;Axios&rpar;](http://www.techmeme.com/240527/p4#a240527p4)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [28 Best Early Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)<!-- TECH:END -->
+ - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
+ - [Deal: First $120 discount on the Galaxy Tab S9 FE Plus](https://www.androidauthority.com/deal-galaxy-tab-s9-fe-plus-3446427/)
+ - [Liven Up Your Memorial Day Party With Big Savings on the JBL Clip 4 Mini Speaker     - CNET](https://www.cnet.com/deals/liven-up-your-memorial-day-party-with-big-savings-on-the-jbl-clip-4-mini-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
