@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Super Earth scientists &#39;spaghettified&#39; in Dark Fluid research incident: Here&#39;s why that&#39;s good news for Helldivers 2 players](https://www.pcgamer.com/games/third-person-shooter/super-earth-scientists-spaghettified-in-dark-fluid-research-incident-heres-why-thats-good-news-for-helldivers-2-players)
  - [Rainbow Six Siege fans roundly boo the announcement of a new monthly subscription service](https://www.pcgamer.com/games/fps/rainbow-six-siege-fans-roundly-boo-the-announcement-of-a-new-monthly-subscription-service)
- - [Netflix’s Eric, Star Trek: Discovery’s series finale, and more new TV this week](https://www.polygon.com/2024/5/27/24159372/new-tv-netflix-star-trek-discovery-finale-when-this-week)
- - [Songs of Conquest is getting a full expansion in 2025, plus 4 DLCs to keep you busy until then](https://www.pcgamer.com/games/strategy/songs-of-conquest-is-getting-a-full-expansion-in-2025-plus-4-dlcs-to-keep-you-busy-until-then)<!-- GAME:END -->
+ - [Netflix’s Eric, Star Trek: Discovery’s series finale, and more new TV this week](https://www.polygon.com/2024/5/27/24159372/new-tv-netflix-star-trek-discovery-finale-when-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
