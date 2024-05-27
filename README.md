@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kenyan tech workers call out US Big Tech for ‘modern-day slavery’](https://www.androidauthority.com/kenyan-workers-open-letter-3446459/)
  - [The Sony WH-1000XM5 drop back to lowest price in Memorial Day sale](https://www.androidauthority.com/deal-sony-wh-1000xm5-3446455/)
- - [Dating apps are trying to woo Gen Z women by boosting moderation tools and more; Tinder has consistently lost MAUs since 2021 and paid subs fell under 10M in Q1 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240527/p5#a240527p5)
- - [Netflix could disable downloads through the Windows app](https://www.androidauthority.com/netflix-windows-downloads-removal-3446447/)<!-- TECH:END -->
+ - [Dating apps are trying to woo Gen Z women by boosting moderation tools and more; Tinder has consistently lost MAUs since 2021 and paid subs fell under 10M in Q1 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240527/p5#a240527p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
