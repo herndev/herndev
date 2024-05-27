@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Repo man](http://9gag.com/gag/abAqw99)
- - ⏩ [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 👉 [Oops](http://9gag.com/gag/agm0wPr)<!-- MEMES:END -->
+ - 💣 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
+ - ⏩ [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)
+ - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
 
 ---
 
