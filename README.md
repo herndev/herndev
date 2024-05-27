@@ -34,7 +34,7 @@
 <!-- GAME:START -->
  - [Polygon’s most anticipated, least expected, 2024 summer preview](https://www.polygon.com/24164232/summer-2024-entertainment-preview)
  - [Can Lev Grossman do for King Arthur what he did for Harry Potter?](https://www.polygon.com/24164083/lev-grossman-the-bright-sword-the-magicians)
- - [The most anticipated TV shows of summer 2024](https://www.polygon.com/24164051/best-new-tv-summer-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
+ - [The most anticipated TV shows of the summer](https://www.polygon.com/24164051/best-new-tv-summer-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
