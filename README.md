@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We&#39;ll Miss You: Pioneering instant messaging program ICQ is finally shutting down after nearly 30 years](https://www.pcgamer.com/software/well-miss-you-pioneering-instant-messaging-program-icq-is-finally-shutting-down-after-nearly-30-years)
- - [Dune 2, The Fall Guy, Netflix’s Atlas, and every movie new to streaming this week](https://www.polygon.com/2024/5/24/24160775/new-movies-watch-dune-2-the-fall-guy-netflix-atlas-streaming)
- - [Call Of Duty: Black Ops 6 Will Still Come To PS4 And Xbox One](https://kotaku.com/call-duty-black-ops-6-ps4-xbox-one-price-game-pass-1851500463)<!-- GAME:END -->
+ - [You can&#39;t take it with you, but you can&#39;t leave it for someone else either: Valve says you aren&#39;t allowed to bequeath a Steam account in a will](https://www.pcgamer.com/gaming-industry/you-cant-take-it-with-you-but-you-cant-leave-it-behind-either-valve-says-you-arent-allowed-to-bequeath-a-steam-account-in-a-will)
+ - [An indie parkour game is blowing up among sport fans and genre enthusiasts](https://www.pcgamer.com/games/sports/an-indie-parkour-game-is-blowing-up-among-sport-fans-and-genre-enthusiasts)
+ - [Explore some excellent open-world puzzling in Isles of Sea and Sky](https://www.pcgamer.com/games/puzzle/explore-some-excellent-open-world-puzzling-in-isles-of-sea-and-sky)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
