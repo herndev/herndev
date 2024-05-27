@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Change is the only constant](http://9gag.com/gag/a2vYN8D)
- - ⏩ [With great power comes great comedy](http://9gag.com/gag/adBYN0j)
- - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
+ - 💣 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - ⏩ [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
+ - 👉 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)<!-- MEMES:END -->
 
 ---
 
