@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s MacBook Air with 16GB RAM, 512GB SSD drops to record low $1,269](https://appleinsider.com/articles/24/05/27/apples-macbook-air-with-16gb-ram-512gb-ssd-drops-to-record-low-1269?utm_medium=rss)
- - [A look at the growing importance of ads for video streaming services, as Antenna says that 56% of new subscribers chose the cheaper ad-supported tier in Q1 2024 &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/240527/p6#a240527p6)
- - [Target Memorial Day Sale 2024: Can&#39;t Miss Savings on Headphones, TVs and More     - CNET](https://www.cnet.com/deals/target-memorial-day-sale-2024-cant-miss-savings-on-headphones-tvs-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Windows will soon let you grab text from your Android photos](https://www.theverge.com/2024/5/27/24165825/windows-phone-link-select-text-photos)
+ - [Apple&#39;s MacBook Air with 16GB RAM, 512GB SSD drops to record low $1,239](https://appleinsider.com/articles/24/05/27/apples-macbook-air-with-16gb-ram-512gb-ssd-drops-to-record-low-1269?utm_medium=rss)
+ - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
