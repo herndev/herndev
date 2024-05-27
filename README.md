@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Doom game will be titled Doom: The Dark Ages and revealed at Xbox Games Showcase, report claims](https://www.pcgamer.com/games/fps/the-next-doom-game-will-be-titled-doom-the-dark-ages-and-revealed-at-xbox-games-showcase-report-claims)
- - [Larian CEO reveals the studio &#39;had to do a bit on crunch&#39; on Baldur&#39;s Gate 3, but it was &#39;certainly less&#39; than previous projects it has worked on](https://www.pcgamer.com/games/rpg/larian-ceo-reveals-the-studio-had-to-do-a-bit-on-crunch-on-baldurs-gate-3-but-it-was-certainly-less-than-previous-projects-it-has-worked-on)
- - [Lenovo launches its Legion 7000K desktop gaming PCs: With laptop CPUs](https://www.pcgamer.com/hardware/gaming-pcs/lenovo-launches-its-legion-7000k-desktop-gaming-pcs-with-laptop-cpus)<!-- GAME:END -->
+ - [Polygon’s most anticipated, least expected, 2024 summer preview](https://www.polygon.com/24164232/summer-2024-entertainment-preview)
+ - [Can Lev Grossman do for King Arthur what he did for Harry Potter?](https://www.polygon.com/24164083/lev-grossman-the-bright-sword-the-magicians)
+ - [The most anticipated TV shows of summer 2024](https://www.polygon.com/24164051/best-new-tv-summer-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
