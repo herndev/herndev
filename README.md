@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - ⏩ [Celebrating too early, an ancient Monaco edition Christian Horner remembers.](http://9gag.com/gag/aD2wELK)
- - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
+ - 💣 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - ⏩ [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
 
 ---
 
