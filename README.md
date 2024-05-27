@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - ⏩ [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
- - 👉 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)<!-- MEMES:END -->
+ - 💣 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
+ - ⏩ [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
 
 ---
 
