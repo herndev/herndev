@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Micron gets hit with a whopping $445 million damages bill after it was found liable for patent infringements](https://www.pcgamer.com/hardware/memory/micron-gets-hit-with-a-whopping-dollar445-million-damages-bill-after-it-was-found-liable-for-patent-infringements)
- - [MSI reveals an intriguing motherboard with CAMM2 memory support](https://www.pcgamer.com/hardware/memory/msi-reveals-an-intriguing-motherboard-with-camm2-memory-support)
- - [Today&#39;s Wordle answer for Monday, May 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-27-2024)<!-- GAME:END -->
+ - [Larian CEO reveals the studio &#39;had to do a bit on crunch&#39; on Baldur&#39;s Gate 3, but it was &#39;certainly less&#39; than previous projects it has worked on](https://www.pcgamer.com/games/rpg/larian-ceo-reveals-the-studio-had-to-do-a-bit-on-crunch-on-baldurs-gate-3-but-it-was-certainly-less-than-previous-projects-it-has-worked-on)
+ - [Lenovo launches its Legion 7000K desktop gaming PCs: With laptop CPUs](https://www.pcgamer.com/hardware/gaming-pcs/lenovo-launches-its-legion-7000k-desktop-gaming-pcs-with-laptop-cpus)
+ - [Micron gets hit with a whopping $445 million damages bill after it was found liable for patent infringements](https://www.pcgamer.com/hardware/memory/micron-gets-hit-with-a-whopping-dollar445-million-damages-bill-after-it-was-found-liable-for-patent-infringements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
