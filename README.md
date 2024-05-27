@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is playing whack-a-mole with disastrous AI Overviews gone viral](https://www.androidauthority.com/google-remove-ai-overviews-3446363/)
- - [AI computer showdown - MacBook Air vs. Microsoft Surface Laptop Copilot+ PC](https://appleinsider.com/articles/24/05/27/ai-computer-showdown---macbook-air-vs-microsoft-surface-laptop-copilot-pc?utm_medium=rss)
- - [Snag a Nintendo Switch This Memorial Day, Starting at Only $161     - CNET](https://www.cnet.com/deals/snag-a-nintendo-switch-this-memorial-day-starting-only-161/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Unitree G1 Is a Short Humanoid Robot That Costs Just $16,000](https://www.wired.com/story/unitree-g1-humanoid-robot/)
+ - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [WWDC 2024: When is it, how to watch, and what to expect ahead of Apple’s Developers Conference](https://www.androidauthority.com/wwdc-2024-what-to-expect-3444854/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
