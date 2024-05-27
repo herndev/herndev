@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MSI reveals an intriguing motherboard with CAMM2 memory support](https://www.pcgamer.com/hardware/memory/msi-reveals-an-intriguing-motherboard-with-camm2-memory-support)
  - [Today&#39;s Wordle answer for Monday, May 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-27-2024)
- - [The Sympathizer’s best dual identity trick was its last one](https://www.polygon.com/24164288/sympathizer-man-reveal-ending-explained-captain)
- - [You can&#39;t take it with you, but you can&#39;t leave it for someone else either: Valve says you aren&#39;t allowed to bequeath a Steam account in a will](https://www.pcgamer.com/gaming-industry/you-cant-take-it-with-you-but-you-cant-leave-it-behind-either-valve-says-you-arent-allowed-to-bequeath-a-steam-account-in-a-will)<!-- GAME:END -->
+ - [The Sympathizer’s best dual identity trick was its last one](https://www.polygon.com/24164288/sympathizer-man-reveal-ending-explained-captain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
