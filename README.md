@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
- - ⏩ [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 👉 [Reality check](http://9gag.com/gag/ae93Xpp)<!-- MEMES:END -->
+ - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - ⏩ [Celebrating too early, an ancient Monaco edition Christian Horner remembers.](http://9gag.com/gag/aD2wELK)
+ - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
 
 ---
 
