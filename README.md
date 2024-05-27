@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [The Galaxy S25 Ultra could bring two key camera upgrades](https://www.androidauthority.com/samsung-galaxy-s25-ultra-leaked-camera-specs-3445936/)
- - [Memorial Day Sales 2024: Save Big Bucks on Tech, Home, TVs and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One UI 6.1.1 could finally be the big camera upgrade for the Galaxy S24 Ultra](https://www.androidauthority.com/samsung-galaxy-s24-ultra-one-ui-6-1-1-camera-3446285/)
+ - [Q&amp;A with Netflix&#39;s Ted Sarandos on the state of Hollywood, shifting US tastes, programming strategy, ads, corporate activism, YouTube, live events, AI, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/240527/p2#a240527p2)
+ - [Google Play Store begins highlighting apps that let you delete your account](https://www.androidauthority.com/google-play-store-app-account-deletion-3446261/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
