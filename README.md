@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Unitree G1 Is a Short Humanoid Robot That Costs Just $16,000](https://www.wired.com/story/unitree-g1-humanoid-robot/)
+ - [Elon Musk says all of the $6B in xAI&#39;s Series B is new money rather than shares &quot;given&quot; to investors in Musk&#39;s takeover of Twitter &lpar;Axios&rpar;](http://www.techmeme.com/240527/p4#a240527p4)
  - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [WWDC 2024: When is it, how to watch, and what to expect ahead of Apple’s Developers Conference](https://www.androidauthority.com/wwdc-2024-what-to-expect-3444854/)<!-- TECH:END -->
+ - [28 Best Early Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
