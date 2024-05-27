@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of existing deals between news publishers and AI companies and the questions they raise regarding long-term costs, the selection process, and more &lpar;Pete Brown/Columbia Journalism Review&rpar;](http://www.techmeme.com/240524/p18#a240524p18)
- - [This iPod prototype was hiding Apple’s unreleased Tetris clone](https://www.theverge.com/2024/5/24/24164247/apple-tetris-stacker-ipod-prototype-tony-fadell)
- - [Memorial Day Sales at Home Depot: Rack Up Massive Savings on Outdoor and Home Essentials     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An analysis of ChatGPT, Claude, Copilot, Gemini, and Perplexity&#39;s responses to some real-life questions and everyday tasks: Perplexity ranked first overall &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240526/p10#a240526p10)
+ - [Shop Cotopaxi&#39;s Memorial Day Sale to Snag Outdoor Gear at Discounted Prices     - CNET](https://www.cnet.com/deals/shop-cotopaxis-memorial-day-sale-to-snag-outdoor-gear-at-discounted-prices/#ftag=CAD590a51e)
+ - [Air Purifiers Are Up to 30% Off During Blueair&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/air-purifiers-are-up-to-30-off-during-blueairs-memorial-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
