@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - ⏩ [With great power comes great comedy](http://9gag.com/gag/adBYN0j)
- - 👉 [Lol](http://9gag.com/gag/aAyrR2p)<!-- MEMES:END -->
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - ⏩ [Lol](http://9gag.com/gag/aAyrR2p)
+ - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
 
 ---
 
