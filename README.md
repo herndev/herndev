@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White](http://9gag.com/gag/a9yLbD6)
- - ⏩ [Lol](http://9gag.com/gag/aAyrR2p)
+ - 💣 [Change is the only constant](http://9gag.com/gag/a2vYN8D)
+ - ⏩ [With great power comes great comedy](http://9gag.com/gag/adBYN0j)
  - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
 
 ---
