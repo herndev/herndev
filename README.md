@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - ⏩ [UK to force teens to spend a year in the military](http://9gag.com/gag/avyZbqb)
- - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
+ - 💣 [Guardian Angels](http://9gag.com/gag/a2vYzKp)
+ - ⏩ [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
+ - 👉 [I \u2764\ufe0fDemocracy](http://9gag.com/gag/adBY01j)<!-- MEMES:END -->
 
 ---
 
