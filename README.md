@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
- - ⏩ [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
- - 👉 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)<!-- MEMES:END -->
+ - 💣 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - ⏩ [The most successful dictatorship in the world we all should follow the path](http://9gag.com/gag/ary415X)
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 ---
 
