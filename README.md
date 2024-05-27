@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M1 iPad Air Is $200 Off for Memorial Day     - CNET](https://www.cnet.com/deals/apples-m1-ipad-air-is-200-off-for-memorial-day/#ftag=CAD590a51e)
- - [Best Memorial Day Deals Under $50: Save on Top Tech, Home and Health Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-27/#ftag=CAD590a51e)
- - [Score a 20-Watt Anker USB-C Power Strip at Amazon for Only $15 Today     - CNET](https://www.cnet.com/deals/score-a-20w-anker-usb-c-power-strip-at-amazon-for-only-15-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s MacBook Air with 16GB RAM, 512GB SSD drops to record low $1,269](https://appleinsider.com/articles/24/05/27/apples-macbook-air-with-16gb-ram-512gb-ssd-drops-to-record-low-1269?utm_medium=rss)
+ - [A look at the growing importance of ads for video streaming services, as Antenna says that 56% of new subscribers chose the cheaper ad-supported tier in Q1 2024 &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/240527/p6#a240527p6)
+ - [Target Memorial Day Sale 2024: Can&#39;t Miss Savings on Headphones, TVs and More     - CNET](https://www.cnet.com/deals/target-memorial-day-sale-2024-cant-miss-savings-on-headphones-tvs-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
