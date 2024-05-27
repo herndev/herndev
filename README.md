@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The next Doom game will be titled Doom: The Dark Ages and revealed at Xbox Games Showcase, report claims](https://www.pcgamer.com/games/fps/the-next-doom-game-will-be-titled-doom-the-dark-ages-and-revealed-at-xbox-games-showcase-report-claims)
  - [Larian CEO reveals the studio &#39;had to do a bit on crunch&#39; on Baldur&#39;s Gate 3, but it was &#39;certainly less&#39; than previous projects it has worked on](https://www.pcgamer.com/games/rpg/larian-ceo-reveals-the-studio-had-to-do-a-bit-on-crunch-on-baldurs-gate-3-but-it-was-certainly-less-than-previous-projects-it-has-worked-on)
- - [Lenovo launches its Legion 7000K desktop gaming PCs: With laptop CPUs](https://www.pcgamer.com/hardware/gaming-pcs/lenovo-launches-its-legion-7000k-desktop-gaming-pcs-with-laptop-cpus)
- - [Micron gets hit with a whopping $445 million damages bill after it was found liable for patent infringements](https://www.pcgamer.com/hardware/memory/micron-gets-hit-with-a-whopping-dollar445-million-damages-bill-after-it-was-found-liable-for-patent-infringements)<!-- GAME:END -->
+ - [Lenovo launches its Legion 7000K desktop gaming PCs: With laptop CPUs](https://www.pcgamer.com/hardware/gaming-pcs/lenovo-launches-its-legion-7000k-desktop-gaming-pcs-with-laptop-cpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
