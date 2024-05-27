@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snaxx time](http://9gag.com/gag/aVvWO1O)
- - ⏩ [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
- - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - ⏩ [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 ---
 
