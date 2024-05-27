@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 6.1.1 could finally be the big camera upgrade for the Galaxy S24 Ultra](https://www.androidauthority.com/samsung-galaxy-s24-ultra-one-ui-6-1-1-camera-3446285/)
- - [Q&amp;A with Netflix&#39;s Ted Sarandos on the state of Hollywood, shifting US tastes, programming strategy, ads, corporate activism, YouTube, live events, AI, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/240527/p2#a240527p2)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Target Memorial Day Sales: Can&#39;t-Miss Savings on Headphones, TVs and More     - CNET](https://www.cnet.com/deals/best-target-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [Best Memorial Day TV Sales: Grab Massive Savings Today on 4K TVs, OLED Models and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales-2024-05-27/#ftag=CAD590a51e)
+ - [How Many Charging Stations Would We Need to Totally Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
