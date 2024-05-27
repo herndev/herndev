@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
- - ⏩ [The most successful dictatorship in the world we all should follow the path](http://9gag.com/gag/ary415X)
- - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
+ - 💣 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - ⏩ [With great power comes great comedy](http://9gag.com/gag/adBYN0j)
+ - 👉 [Lol](http://9gag.com/gag/aAyrR2p)<!-- MEMES:END -->
 
 ---
 
