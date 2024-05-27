@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - ⏩ [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 👉 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)<!-- MEMES:END -->
+ - 💣 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - ⏩ [UK to force teens to spend a year in the military](http://9gag.com/gag/avyZbqb)
+ - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
 
 ---
 
