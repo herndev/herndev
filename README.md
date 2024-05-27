@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
- - ⏩ [Yes, it is](http://9gag.com/gag/aqyZ3LQ)
- - 👉 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)<!-- MEMES:END -->
+ - 💣 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
+ - ⏩ [Hol up](http://9gag.com/gag/a0eP2Ez)
+ - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
 
 ---
 
