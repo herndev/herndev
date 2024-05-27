@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memorial Day 2024 Furniture Sales: Biggest Deals on Beds, Sofas, Dressers and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales-2024-05-26/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Save Big Bucks on Tech, Home, TVs and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
- - [The Best Sunscreens, Yoga Mats and Weights Now On Sale for Memorial Day     - CNET](https://www.cnet.com/deals/the-best-memorial-day-wellness-deals-to-give-your-health-a-boost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
