@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guardian Angels](http://9gag.com/gag/a2vYzKp)
+ - 💣 [This video sums up my brain workings](http://9gag.com/gag/awyK0ZD)
  - ⏩ [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
- - 👉 [I \u2764\ufe0fDemocracy](http://9gag.com/gag/adBY01j)<!-- MEMES:END -->
+ - 👉 [Guardian Angels](http://9gag.com/gag/a2vYzKp)<!-- MEMES:END -->
 
 ---
 
