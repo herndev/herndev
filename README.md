@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
- - ⏩ [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 👉 [Alexa, dammit](http://9gag.com/gag/aW40VLx)<!-- MEMES:END -->
+ - 💣 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
+ - ⏩ [Yes, it is](http://9gag.com/gag/aqyZ3LQ)
+ - 👉 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)<!-- MEMES:END -->
 
 ---
 
