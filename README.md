@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
- - ⏩ [Hol up](http://9gag.com/gag/a0eP2Ez)
- - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
+ - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - ⏩ [Alexa, dammit](http://9gag.com/gag/aW40VLx)
+ - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
 
 ---
 
