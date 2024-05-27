@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [Deal: First $120 discount on the Galaxy Tab S9 FE Plus](https://www.androidauthority.com/deal-galaxy-tab-s9-fe-plus-3446427/)
- - [Liven Up Your Memorial Day Party With Big Savings on the JBL Clip 4 Mini Speaker     - CNET](https://www.cnet.com/deals/liven-up-your-memorial-day-party-with-big-savings-on-the-jbl-clip-4-mini-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don’t want your Facebook posts used for AI? You can opt-out, but it isn’t easy.](https://www.androidauthority.com/facebook-ai-opt-out-3446434/)
+ - [35 Best Memorial Day Sales &lpar;2024&rpar;: TVs, Office Chairs, and Ebikes](https://www.wired.com/story/best-memorial-day-sales-2024/)
+ - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
