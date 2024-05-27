@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Sympathizer’s best dual identity trick was its last one](https://www.polygon.com/24164288/sympathizer-man-reveal-ending-explained-captain)
  - [You can&#39;t take it with you, but you can&#39;t leave it for someone else either: Valve says you aren&#39;t allowed to bequeath a Steam account in a will](https://www.pcgamer.com/gaming-industry/you-cant-take-it-with-you-but-you-cant-leave-it-behind-either-valve-says-you-arent-allowed-to-bequeath-a-steam-account-in-a-will)
- - [An indie parkour game is blowing up among sport fans and genre enthusiasts](https://www.pcgamer.com/games/sports/an-indie-parkour-game-is-blowing-up-among-sport-fans-and-genre-enthusiasts)
- - [Explore some excellent open-world puzzling in Isles of Sea and Sky](https://www.pcgamer.com/games/puzzle/explore-some-excellent-open-world-puzzling-in-isles-of-sea-and-sky)<!-- GAME:END -->
+ - [An indie parkour game is blowing up among sport fans and genre enthusiasts](https://www.pcgamer.com/games/sports/an-indie-parkour-game-is-blowing-up-among-sport-fans-and-genre-enthusiasts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
