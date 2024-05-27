@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This video sums up my brain workings](http://9gag.com/gag/awyK0ZD)
- - ⏩ [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
- - 👉 [Guardian Angels](http://9gag.com/gag/a2vYzKp)<!-- MEMES:END -->
+ - 💣 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
+ - ⏩ [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
+ - 👉 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)<!-- MEMES:END -->
 
 ---
 
