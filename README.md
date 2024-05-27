@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)
- - ⏩ [His face](http://9gag.com/gag/a0eP20d)
- - 👉 [This is Syria, where more than 300,000 civilian men, women, and children have been killed &lpar;millions more displaced&rpar;. You won&#39;t see college students marching around the world, or screaming about genocide. Why? Because it&#39;s Muslims killing Muslims, which doesn&#39;t fit the narrative.](http://9gag.com/gag/a5QPpog)<!-- MEMES:END -->
+ - 💣 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - ⏩ [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 👉 [Reality check](http://9gag.com/gag/ae93Xpp)<!-- MEMES:END -->
 
 ---
 
