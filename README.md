@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s xAI says it raised a $6B Series B from investors including Valor Equity Partners, Vy Capital, a16z, Sequoia Capital, Fidelity, and others &lpar;x.ai&rpar;](http://www.techmeme.com/240527/p1#a240527p1)
- - [China set up a new $47.5B state-backed investment fund on May 24 to boost the country&#39;s semiconductor industry &lpar;Reuters&rpar;](http://www.techmeme.com/240526/p11#a240526p11)
- - [Memorial Day Sales 2024: Save Big Bucks on Tech, Home, TVs and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy S25 Ultra could bring two key camera upgrades](https://www.androidauthority.com/samsung-galaxy-s25-ultra-leaked-camera-specs-3445936/)
+ - [Elon Musk&#39;s xAI says it raised a $6B Series B at a pre-money valuation of $18B from investors including Valor Equity, Vy Capital, a16z, Sequoia, and others &lpar;x.ai&rpar;](http://www.techmeme.com/240527/p1#a240527p1)
+ - [Get Up to 50% Off DreamCloud Mattresses This Memorial Day     - CNET](https://www.cnet.com/deals/dreamcloud-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
