@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data.ai: of the top 20 education apps in the US App Store, five are AI agents that help with school assignments, the two most popular of which are Chinese-owned &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/240527/p3#a240527p3)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Memorial Day Home Security Sales: Upgrade Doorbell, Cameras and Locks for Less     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is playing whack-a-mole with disastrous AI Overviews gone viral](https://www.androidauthority.com/google-remove-ai-overviews-3446363/)
+ - [AI computer showdown - MacBook Air vs. Microsoft Surface Laptop Copilot+ PC](https://appleinsider.com/articles/24/05/27/ai-computer-showdown---macbook-air-vs-microsoft-surface-laptop-copilot-pc?utm_medium=rss)
+ - [Snag a Nintendo Switch This Memorial Day, Starting at Only $161     - CNET](https://www.cnet.com/deals/snag-a-nintendo-switch-this-memorial-day-starting-only-161/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
