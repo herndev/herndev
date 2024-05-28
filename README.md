@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uvalde parents and school shooting victims  sue Activision](https://www.polygon.com/24166245/uvalde-school-shooting-activision-blizzard-negligence-lawsuit)
- - [There’s never been a better time to delve into Deep Rock Galactic](https://www.polygon.com/24166283/deep-rock-galactic-season-five-updates-franchise-survivor)
- - [Call Of Duty: Black Ops 6 Brings Back &#39;Dude Sitting With Guns&#39; Cover](https://kotaku.com/black-ops-6-call-of-duty-dude-on-cover-sitting-guns-art-1851500508)<!-- GAME:END -->
+ - [How to pick the Yoshi color in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24166346/paper-mario-thousand-year-door-yoshi-color-timer-choice-ttyd)
+ - [Here’s My Hades 2 Build That Beat Chronos](https://kotaku.com/hades-2-chronos-phase-2-build-boons-twin-wands-1851504444)
+ - [Fans Can’t Stop Putting Random Pop Culture Characters In Hades 2](https://kotaku.com/hades-2-fan-art-dark-souls-baldurs-gate-3-call-of-duty-1851504368)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
