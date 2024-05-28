@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - ⏩ [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 💣 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)
+ - ⏩ [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
  - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 ---
