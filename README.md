@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - ⏩ [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 👉 [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)<!-- MEMES:END -->
+ - 💣 [Well damnit man](http://9gag.com/gag/ary41L0)
+ - ⏩ [The perfect American wife](http://9gag.com/gag/a2vYqEe)
+ - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
 
 ---
 
