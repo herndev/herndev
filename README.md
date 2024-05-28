@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - ⏩ [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 👉 [Snaxx time](http://9gag.com/gag/aVvWO1O)<!-- MEMES:END -->
+ - 💣 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
+ - ⏩ [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
+ - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
 
 ---
 
