@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White](http://9gag.com/gag/a9yLbD6)
- - ⏩ [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
- - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
+ - 💣 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - ⏩ [Listen to an actually educated person](http://9gag.com/gag/aLnPK7g)
+ - 👉 [Facts](http://9gag.com/gag/aRBPP35)<!-- MEMES:END -->
 
 ---
 
