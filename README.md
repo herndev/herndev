@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Memorial Day deals you can still get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [Opera adds Google’s Gemini to its browsers](https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai)
- - [Porsche’s first hybrid 911 ‘deeply’ integrates CarPlay, but not the next-gen kind](https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay)<!-- TECH:END -->
+ - [Apple confirms WWDC 2024 keynote timing, but offers no more AI hints](https://appleinsider.com/articles/24/05/28/apple-confirms-wwdc-2024-keynote-timing-but-offers-no-more-ai-hints?utm_medium=rss)
+ - [First look: Google Home’s upcoming ‘Favorites’ widget on Android](https://www.androidauthority.com/google-home-favorites-widget-3446767/)
+ - [Anthropic hires former OpenAI safety lead Jan Leike to head up a new &quot;superalignment&quot; team &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240528/p17#a240528p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
