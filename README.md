@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Earn Mega Savings With Mattress Firm&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/earn-massive-savings-with-mattress-firms-memorial-day-sale/#ftag=CAD590a51e)
- - [Best Memorial Day Deals for Home Security: Savings on Doorbells, Cameras and More     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-27/#ftag=CAD590a51e)
- - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [Best Memorial Day Deals $25 or Below: Score Savings on Cheap Tech Finds and Everyday Essentials     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25-2024-05-27/#ftag=CAD590a51e)
+ - [How to fill out and sign PDF forms on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-fill-out-and-sign-pdf-forms-on-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
