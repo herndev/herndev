@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Memorial Day Deals $25 or Below: Score Savings on Cheap Tech Finds and Everyday Essentials     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25-2024-05-27/#ftag=CAD590a51e)
- - [How to fill out and sign PDF forms on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-fill-out-and-sign-pdf-forms-on-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Phone Link for Windows will let you copy text from your Android phone’s photos](https://www.androidauthority.com/windows-11-phone-link-copy-text-android-phone-photos-3446532/)
+ - [Apple&#39;s 1TB 14-inch MacBook Pro M3 Pro just dropped to the lowest price ever](https://appleinsider.com/articles/24/05/28/apples-1tb-14-inch-macbook-pro-m3-pro-just-dropped-to-the-lowest-price-ever?utm_medium=rss)
+ - [Best Memorial Day Walmart Sales: Save Today With Sales on Tech, TVs, Home and More     - CNET](https://www.cnet.com/deals/walmart-memorial-day-sale-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
