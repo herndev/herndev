@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A leak purports to show thousands of pages of internal API documentation for Google Search, some of which appear to contradict Google&#39;s public statements &lpar;Rand Fishkin/SparkToro&rpar;](http://www.techmeme.com/240528/p21#a240528p21)
- - [Apple Watch: Leaked photos reveal smartwatch band Apple never released](https://www.androidauthority.com/apple-leaked-deployment-band-3446803/)
- - [Xencelabs Pen Display 16 review: A compact digital art masterpiece](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece?utm_medium=rss)<!-- TECH:END -->
+ - [Looks like the Galaxy Watch Ultra name is basically confirmed](https://www.androidauthority.com/samsung-galaxy-watch-ultra-tdra-3446862/)
+ - [Best Memorial Day Deals for Home Security: Grab Big Savings Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-28/#ftag=CAD590a51e)
+ - [Microsoft is making Edge faster... starting with this one menu](https://www.theverge.com/2024/5/28/24166556/microsoft-edge-speed-upgrade-webui-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
