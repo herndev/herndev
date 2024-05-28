@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White](http://9gag.com/gag/a9yLbD6)
- - ⏩ [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
+ - 💣 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
+ - ⏩ [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
+ - 👉 [Women](http://9gag.com/gag/aqyNm0Y)<!-- MEMES:END -->
 
 ---
 
