@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 485: Hope For Humanity](https://blog.playstation.com/2024/05/28/official-playstation-podcast-episode-485-hope-for-humanity/)
- - [Multiversus’ Re-Launch Already Has Its Competitive Fans Upset](https://kotaku.com/multiversus-unlock-characters-local-tournaments-1851505068)
- - [YouTube’s Playables is giving AddictingGames.com](https://www.polygon.com/24166460/youtube-playables-games-play-launch-impressions)<!-- GAME:END -->
+ - [The next anime action game from the maker of Genshin Impact is coming in July](https://www.pcgamer.com/games/action/the-next-anime-action-game-from-the-maker-of-genshin-impact-is-coming-in-july)
+ - [The Witcher 4 is &#39;the largest&#39; game in development at CD Projekt &#39;by the size of the team, but also by the progress of ongoing work&#39;](https://www.pcgamer.com/games/the-witcher/the-witcher-4-is-the-largest-game-in-development-at-cd-projekt-by-the-size-of-the-team-but-also-by-the-progress-of-ongoing-work)
+ - [Graph paper mapping my way through a 37-year-old RPG reminded me how rarely I give games 100% of my attention, and how much more fun I have when I do](https://www.pcgamer.com/games/rpg/graph-paper-mapping-my-way-through-a-37-year-old-rpg-reminded-me-how-rarely-i-give-games-100-of-my-attention-and-how-much-more-fun-i-have-when-i-do)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
