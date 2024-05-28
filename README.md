@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Robot Dreams’ director founded an animation studio just to adapt a graphic novel he loved](https://www.polygon.com/24163570/robot-dreams-oscar-best-animated-feature-interview-director)
- - [Windows 11&#39;s new &#39;AI&#39; Recall feature has been cracked to work without a fancy new NPU](https://www.pcgamer.com/software/ai/windows-11s-new-ai-recall-feature-has-been-cracked-to-work-without-a-fancy-new-npu)
- - [Days of Play 2024 comes to PlayStation Store](https://blog.playstation.com/2024/05/28/days-of-play-2024-comes-to-playstation-store/)<!-- GAME:END -->
+ - [Play Call of Duty: Black Ops 6 on Day One with Xbox Game Pass](https://news.xbox.com/en-us/2024/05/28/play-call-of-duty-black-ops-6-day-one-game-pass/)
+ - [The 5 best Korean dramas to watch on Netflix this summer](https://www.polygon.com/what-to-watch/2024/5/28/24159038/best-korean-dramas-netflix-watch-summer-2024)
+ - [Japanese government commissions baffling metaverse to combat loneliness where you can&#39;t talk to anyone, enforced via a digital security guard](https://www.pcgamer.com/software/japanese-government-commissions-baffling-metaverse-to-combat-loneliness-where-you-cant-talk-to-anyone-enforced-via-a-digital-security-guard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
