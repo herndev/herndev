@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grandma and the cat](http://9gag.com/gag/a6Zyyg2)
- - ⏩ [Love you long time](http://9gag.com/gag/aoy00K0)
- - 👉 [Facts](http://9gag.com/gag/aRBPP35)<!-- MEMES:END -->
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - ⏩ [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 👉 [Snaxx time](http://9gag.com/gag/aVvWO1O)<!-- MEMES:END -->
 
 ---
 
