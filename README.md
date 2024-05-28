@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - ⏩ [Listen to an actually educated person](http://9gag.com/gag/aLnPK7g)
- - 👉 [Facts](http://9gag.com/gag/aRBPP35)<!-- MEMES:END -->
+ - 💣 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
+ - ⏩ [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 👉 [Online shopping](http://9gag.com/gag/aqyN4Kp)<!-- MEMES:END -->
 
 ---
 
