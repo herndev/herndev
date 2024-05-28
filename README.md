@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I thought Pine Hearts would be another heartwarming adventure, but it&#39;s actually one of the only games to reduce me to tears](https://www.pcgamer.com/games/adventure/i-thought-pine-hearts-would-be-another-heartwarming-adventure-but-its-actually-one-of-the-only-games-to-reduce-me-to-tears)
  - [China&#39;s latest round of domestic chipmaking funding raises $47 billion](https://www.pcgamer.com/hardware/chinas-latest-round-of-domestic-chipmaking-funding-raises-dollar47-billion)
- - [Gigabyte&#39;s new B650E motherboard supports plump graphics cards weighing up to 58 kg](https://www.pcgamer.com/hardware/motherboards/gigabytes-new-b650e-motherboard-supports-plump-graphics-cards-weighing-up-to-58-kg)
- - [Can Mareanie be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24164242/can-mareanie-be-shiny-toxapex)<!-- GAME:END -->
+ - [Gigabyte&#39;s new B650E motherboard supports plump graphics cards weighing up to 58 kg](https://www.pcgamer.com/hardware/motherboards/gigabytes-new-b650e-motherboard-supports-plump-graphics-cards-weighing-up-to-58-kg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
