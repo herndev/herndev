@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
- - ⏩ [Women](http://9gag.com/gag/aqyNm0Y)
- - 👉 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)<!-- MEMES:END -->
+ - 💣 [Well damnit man](http://9gag.com/gag/ary41L0)
+ - ⏩ [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)
+ - 👉 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)<!-- MEMES:END -->
 
 ---
 
