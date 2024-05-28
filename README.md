@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile spends $4.4 billion to acquire most of US Cellular](https://www.androidauthority.com/t-mobile-acquires-most-of-us-cellular-3446684/)
- - [Private equity firm Bridgepoint buys a majority stake in LumApps, used by ~700 organizations to build and provision comms and workforce apps, in a $650M deal &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240528/p11#a240528p11)
- - [Apple wants to know if you’re hearing things because of tinnitus](https://www.theverge.com/2024/5/28/24166143/apple-study-tinnitus-research-app-preliminary-data)<!-- TECH:END -->
+ - [The best Memorial Day deals you can still get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
+ - [Opera adds Google’s Gemini to its browsers](https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai)
+ - [Porsche’s first hybrid 911 ‘deeply’ integrates CarPlay, but not the next-gen kind](https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
