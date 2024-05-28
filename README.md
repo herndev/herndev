@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phone Link for Windows will let you copy text from your Android phone’s photos](https://www.androidauthority.com/windows-11-phone-link-copy-text-android-phone-photos-3446532/)
- - [Apple&#39;s 1TB 14-inch MacBook Pro M3 Pro just dropped to the lowest price ever](https://appleinsider.com/articles/24/05/28/apples-1tb-14-inch-macbook-pro-m3-pro-just-dropped-to-the-lowest-price-ever?utm_medium=rss)
- - [Best Memorial Day Walmart Sales: Save Today With Sales on Tech, TVs, Home and More     - CNET](https://www.cnet.com/deals/walmart-memorial-day-sale-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube really hates ad blockers, starts skipping and muting videos](https://www.androidauthority.com/youtube-skipping-muting-videos-ad-blockers-3446529/)
+ - [How AI demand is driving a rally in old school stocks in the utilities, energy, and materials sectors, which are needed to make and operate AI products &lpar;Charley Grant/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p1#a240528p1)
+ - [Phone Link for Windows will let you copy text from your Android phone’s photos](https://www.androidauthority.com/windows-11-phone-link-copy-text-android-phone-photos-3446532/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
