@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: The Final Shape&#39;s wild new reality-bending Strike mission is full of lava, lost cities and dragon guts](https://www.pcgamer.com/games/fps/destiny-2-the-final-shapes-wild-new-reality-bending-strike-mission-is-full-of-lava-lost-cities-and-dragon-guts)
- - [Elden Ring streamer completes a level 1 playthrough beating the game&#39;s 165 bosses—on NG+7, a difficulty she had to finish the game 7 times over just to reach](https://www.pcgamer.com/games/dark-souls/elden-ring-streamer-completes-a-level-1-playthrough-beating-the-games-165-bosseson-ng7-a-difficulty-she-had-to-finish-the-game-7-times-over-just-to-reach)
- - [Final Fantasy VII Rebirth Is On Sale For The First Time](https://kotaku.com/final-fantasy-7-rebirth-sale-price-drop-playstation-5-1851503782)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases Local Legend 16: The Short SC.7 Skyvan](https://www.flightsimulator.com/local-legend-16-the-short-sc-7-skyvan/#new_tab)
+ - [The Expanse’s James S.A. Corey returns with a new space opera — read the first chapter now](https://www.polygon.com/24164196/expanse-james-s-a-corey-new-book-mercy-gods)
+ - [Rainbow Six Siege’s New Subscription Is Already A Mess](https://kotaku.com/rainbow-six-siege-pass-membership-controversy-1851503881)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
