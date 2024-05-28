@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile plans to acquire most of UScellular, including stores, some of the wireless operator&#39;s spectrum, and its customers, in a $4.4B deal, including $2B debt &lpar;Todd Haselton/CNBC&rpar;](http://www.techmeme.com/240528/p9#a240528p9)
- - [Abu Dhabi-based edtech startup Alef Education, which serves kindergarten to 12th grade, aims to raise up to $515M in an IPO, Abu Dhabi&#39;s first IPO of 2024 &lpar;Julia Fioretti/Bloomberg&rpar;](http://www.techmeme.com/240528/p8#a240528p8)
- - [MacBook Pro with OLED arrival rumor shifts again, this time back to 2026](https://appleinsider.com/articles/24/05/28/macbook-pro-with-oled-arrival-rumor-shifts-again-this-time-back-to-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Google has 6 new Chromebooks for you to try its latest Chrome OS features](https://www.androidauthority.com/google-new-chromebooks-3446629/)
+ - [Chromebooks Will Get Gemini and New Google AI Features](https://www.wired.com/story/google-brings-gemini-to-chrome-os-and-chromebooks/)
+ - [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
