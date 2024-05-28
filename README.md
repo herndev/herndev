@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to pick the Yoshi color in Paper Mario: The Thousand-Year Door](https://www.polygon.com/guides/24166346/paper-mario-thousand-year-door-yoshi-color-timer-choice-ttyd)
- - [Here’s My Hades 2 Build That Beat Chronos](https://kotaku.com/hades-2-chronos-phase-2-build-boons-twin-wands-1851504444)
- - [Fans Can’t Stop Putting Random Pop Culture Characters In Hades 2](https://kotaku.com/hades-2-fan-art-dark-souls-baldurs-gate-3-call-of-duty-1851504368)<!-- GAME:END -->
+ - [Where in Neomuna is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24166036/where-in-neomuna-is-archie-location)
+ - [Dare to impress your dad this Father’s Day with these awesome gifts](https://www.polygon.com/24161974/best-fathers-day-gift-guide-ideas)
+ - [The Sims 4’s next kits focus on poolside luxury and cozy bistro dining](https://www.polygon.com/24166495/the-sims-4-rivieria-retreat-cozy-bistro-gallery)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
