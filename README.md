@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sale bring record 33% savings on the Garmin Venu 2 Plus](https://www.androidauthority.com/sale-garmin-venu-2-plus-3446525/)
  - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
- - [Google unveils new AI features for Chromebook Plus devices, says new Chromebook Plus users get a free year of Google One AI Premium, and updates old Chromebooks &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240528/p10#a240528p10)<!-- TECH:END -->
+ - [Top AI tablets: iPad Pro with M4 versus Microsoft&#39;s new Surface Pro](https://appleinsider.com/inside/ipad-pro/vs/top-ai-tablets-ipad-pro-with-m4-versus-microsofts-new-surface-pro?utm_medium=rss)
+ - [Best Galaxy Z Flip 5 deal yet slashes price by $270](https://www.androidauthority.com/galaxy-z-flip-5-deal-3446505/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
