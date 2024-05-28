@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
- - [Top AI tablets: iPad Pro with M4 versus Microsoft&#39;s new Surface Pro](https://appleinsider.com/inside/ipad-pro/vs/top-ai-tablets-ipad-pro-with-m4-versus-microsofts-new-surface-pro?utm_medium=rss)
- - [Best Galaxy Z Flip 5 deal yet slashes price by $270](https://www.androidauthority.com/galaxy-z-flip-5-deal-3446505/)<!-- TECH:END -->
+ - [T-Mobile spends $4.4 billion to acquire most of US Cellular](https://www.androidauthority.com/t-mobile-acquires-most-of-us-cellular-3446684/)
+ - [Private equity firm Bridgepoint buys a majority stake in LumApps, used by ~700 organizations to build and provision comms and workforce apps, in a $650M deal &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240528/p11#a240528p11)
+ - [Apple wants to know if you’re hearing things because of tinnitus](https://www.theverge.com/2024/5/28/24166143/apple-study-tinnitus-research-app-preliminary-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
