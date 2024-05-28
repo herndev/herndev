@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts](http://9gag.com/gag/aRBPP35)
- - ⏩ [A dangerous song to be singing...](http://9gag.com/gag/awyKb1R)
- - 👉 [Old but Gold.](http://9gag.com/gag/a7oyy8q)<!-- MEMES:END -->
+ - 💣 [Grandma and the cat](http://9gag.com/gag/a6Zyyg2)
+ - ⏩ [Love you long time](http://9gag.com/gag/aoy00K0)
+ - 👉 [Facts](http://9gag.com/gag/aRBPP35)<!-- MEMES:END -->
 
 ---
 
