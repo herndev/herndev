@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Earn Mega Savings With Mattress Firm&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/earn-massive-savings-with-mattress-firms-memorial-day-sale/#ftag=CAD590a51e)
- - [Act Fast To Get an Extra 5% off Casper&#39;s Memorial Day Sale Prices With This Special Code     - CNET](https://www.cnet.com/deals/get-an-extra-5-off-caspers-memorial-day-sale-prices-with-this-special-code/#ftag=CAD590a51e)
- - [Sleep Better With These 23 Best Memorial Day Mattress Sales, According to Sleep Experts     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [My Favorite Sunrise Alarm Clock From Hatch Is $30 Cheaper This Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)
+ - [Nectar Mattresses Start at $349 This Memorial Day     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
