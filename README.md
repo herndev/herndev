@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
- - ⏩ [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - 👉 [Online shopping](http://9gag.com/gag/aqyN4Kp)<!-- MEMES:END -->
+ - 💣 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - ⏩ [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
+ - 👉 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)<!-- MEMES:END -->
 
 ---
 
