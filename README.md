@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Defunct bitcoin exchange Mt. Gox, which collapsed in 2014, moves 140K bitcoin, worth ~$9B, to an unknown address, likely part of a plan to repay creditors &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240528/p3#a240528p3)
- - [Cops Are Just Trolling Cybercriminals Now](https://www.wired.com/story/cop-cybercriminal-hacker-psyops/)
- - [8 months later: Where is the Pixel 8 Pro’s promised Zoom Enhance feature?](https://www.androidauthority.com/where-is-zoom-enhance-pixel-8-pro-3446548/)<!-- TECH:END -->
+ - [Chinese government data: foreign-branded smartphone shipments, most of which are iPhones, rose 52% YoY to ~3.5M in April, after stabilizing in March 2024 &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/240528/p6#a240528p6)
+ - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
+ - [Refinance Rates Tick Higher: Refinance Rates for May 28, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-refinance-rates-for-may-28-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
