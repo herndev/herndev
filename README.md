@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well damnit man](http://9gag.com/gag/ary41L0)
- - ⏩ [The perfect American wife](http://9gag.com/gag/a2vYqEe)
- - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
+ - 💣 [Made in China](http://9gag.com/gag/a6ZyLOm)
+ - ⏩ [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
+ - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 ---
 
