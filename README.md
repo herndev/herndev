@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
- - ⏩ [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
- - 👉 [Women](http://9gag.com/gag/aqyNm0Y)<!-- MEMES:END -->
+ - 💣 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)
+ - ⏩ [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 👉 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)<!-- MEMES:END -->
 
 ---
 
