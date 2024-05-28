@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Farmers who &#39;killed an unreasonably large number of Gulp Frogs&#39; for bronze and power have had their demi-godhood stripped from them in WoW&#39;s Mists of Pandaria: Remix](https://www.pcgamer.com/games/world-of-warcraft/farmers-who-killed-an-unreasonably-large-number-of-gulp-frogs-for-bronze-and-power-have-had-their-demi-godhood-stripped-from-them-in-wows-mists-of-pandaria-remix)
- - [This year&#39;s 24H2 Windows 11 update will wave goodbye to Cortana, WordPad, Steps Recorder, and more](https://www.pcgamer.com/software/operating-systems/this-years-24h2-windows-11-update-will-wave-goodbye-to-cortana-wordpad-steps-recorder-and-more)
- - [New Multiplayer sneakfest Sneak Out has a host of dirty tricks for Hunters to use](https://www.pcgamer.com/games/new-multiplayer-sneakfest-sneak-out-has-a-host-of-dirty-tricks-for-hunters-to-use)<!-- GAME:END -->
+ - [Robot Dreams’ director founded an animation studio just to adapt a graphic novel he loved](https://www.polygon.com/24163570/robot-dreams-oscar-best-animated-feature-interview-director)
+ - [Windows 11&#39;s new &#39;AI&#39; Recall feature has been cracked to work without a fancy new NPU](https://www.pcgamer.com/software/ai/windows-11s-new-ai-recall-feature-has-been-cracked-to-work-without-a-fancy-new-npu)
+ - [Days of Play 2024 comes to PlayStation Store](https://blog.playstation.com/2024/05/28/days-of-play-2024-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
