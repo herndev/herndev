@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases Local Legend 16: The Short SC.7 Skyvan](https://www.flightsimulator.com/local-legend-16-the-short-sc-7-skyvan/#new_tab)
- - [The Expanse’s James S.A. Corey returns with a new space opera — read the first chapter now](https://www.polygon.com/24164196/expanse-james-s-a-corey-new-book-mercy-gods)
- - [Rainbow Six Siege’s New Subscription Is Already A Mess](https://kotaku.com/rainbow-six-siege-pass-membership-controversy-1851503881)<!-- GAME:END -->
+ - [Uvalde parents and school shooting victims  sue Activision](https://www.polygon.com/24166245/uvalde-school-shooting-activision-blizzard-negligence-lawsuit)
+ - [There’s never been a better time to delve into Deep Rock Galactic](https://www.polygon.com/24166283/deep-rock-galactic-season-five-updates-franchise-survivor)
+ - [Call Of Duty: Black Ops 6 Brings Back &#39;Dude Sitting With Guns&#39; Cover](https://kotaku.com/black-ops-6-call-of-duty-dude-on-cover-sitting-guns-art-1851500508)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
