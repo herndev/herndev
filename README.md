@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top AI tablets: iPad Pro with M4 versus Microsoft&#39;s new Surface Pro](https://appleinsider.com/inside/ipad-pro/vs/top-ai-tablets-ipad-pro-with-m4-versus-microsofts-new-surface-pro?utm_medium=rss)
- - [More Metal: Apple&#39;s iPad Pro Magic Keyboards, compared](https://appleinsider.com/inside/magic-keyboard/vs/more-metal-apples-ipad-pro-magic-keyboards-compared?utm_medium=rss)
- - [This Lego Apple Store design submission is pitch-perfect](https://www.theverge.com/2024/5/28/24166361/lego-apple-store-build-idea-concept-legotruman-2a2a)<!-- TECH:END -->
+ - [&#39;Paper Mario: The Thousand-Year Door&#39; Sets the Standard for Classic Game Remakes](https://www.wired.com/story/paper-mario-the-thousand-year-door-sets-the-standard-for-classic-game-remakes/)
+ - [Hands-on with Gemini’s ‘Ask This Page’: Another AI tool that needs a lot of work](https://www.androidauthority.com/ask-this-page-hands-on-3446726/)
+ - [HubSpot shares jump 8%+ after CNBC&#39;s David Faber reported that Alphabet is in talks about an all-stock bid for the company &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240528/p20#a240528p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
