@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese government data: foreign-branded smartphone shipments, most of which are iPhones, rose 52% YoY to ~3.5M in April, after stabilizing in March 2024 &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/240528/p6#a240528p6)
- - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
- - [Refinance Rates Tick Higher: Refinance Rates for May 28, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-refinance-rates-for-may-28-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile plans to acquire most of UScellular, including stores, some of the wireless operator&#39;s spectrum, and its customers, in a $4.4B deal, including $2B debt &lpar;Todd Haselton/CNBC&rpar;](http://www.techmeme.com/240528/p9#a240528p9)
+ - [Abu Dhabi-based edtech startup Alef Education, which serves kindergarten to 12th grade, aims to raise up to $515M in an IPO, Abu Dhabi&#39;s first IPO of 2024 &lpar;Julia Fioretti/Bloomberg&rpar;](http://www.techmeme.com/240528/p8#a240528p8)
+ - [MacBook Pro with OLED arrival rumor shifts again, this time back to 2026](https://appleinsider.com/articles/24/05/28/macbook-pro-with-oled-arrival-rumor-shifts-again-this-time-back-to-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
