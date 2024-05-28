@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [China&#39;s latest round of domestic chipmaking funding raises $47 billion](https://www.pcgamer.com/hardware/chinas-latest-round-of-domestic-chipmaking-funding-raises-dollar47-billion)
  - [Gigabyte&#39;s new B650E motherboard supports plump graphics cards weighing up to 58 kg](https://www.pcgamer.com/hardware/motherboards/gigabytes-new-b650e-motherboard-supports-plump-graphics-cards-weighing-up-to-58-kg)
- - [Can Mareanie be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24164242/can-mareanie-be-shiny-toxapex)
- - [Super Earth scientists &#39;spaghettified&#39; in Dark Fluid research incident: Here&#39;s why that&#39;s good news for Helldivers 2 players](https://www.pcgamer.com/games/third-person-shooter/super-earth-scientists-spaghettified-in-dark-fluid-research-incident-heres-why-thats-good-news-for-helldivers-2-players)<!-- GAME:END -->
+ - [Can Mareanie be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24164242/can-mareanie-be-shiny-toxapex)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
