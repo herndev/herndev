@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 months later: Where is the Pixel 8 Pro’s promised Zoom Enhance feature?](https://www.androidauthority.com/where-is-zoom-enhance-pixel-8-pro-3446548/)
- - [Memorial Day Sales Aren&#39;t Over Yet: Grab Last-Minute Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
- - [Dealroom: in 2023, the combined enterprise value of Spanish startups surpassed &amp;euro;100B, and they raised &amp;euro;2.2B across 850+ funding rounds &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240528/p2#a240528p2)<!-- TECH:END -->
+ - [Defunct bitcoin exchange Mt. Gox, which collapsed in 2014, moves 140K bitcoin, worth ~$9B, to an unknown address, likely part of a plan to repay creditors &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240528/p3#a240528p3)
+ - [Cops Are Just Trolling Cybercriminals Now](https://www.wired.com/story/cop-cybercriminal-hacker-psyops/)
+ - [8 months later: Where is the Pixel 8 Pro’s promised Zoom Enhance feature?](https://www.androidauthority.com/where-is-zoom-enhance-pixel-8-pro-3446548/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
