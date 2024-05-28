@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Multiplayer sneakfest Sneak Out has a host of dirty tricks for Hunters to use](https://www.pcgamer.com/games/new-multiplayer-sneakfest-sneak-out-has-a-host-of-dirty-tricks-for-hunters-to-use)
- - [I thought Pine Hearts would be another heartwarming adventure, but it&#39;s actually one of the only games to reduce me to tears](https://www.pcgamer.com/games/adventure/i-thought-pine-hearts-would-be-another-heartwarming-adventure-but-its-actually-one-of-the-only-games-to-reduce-me-to-tears)
- - [China&#39;s latest round of domestic chipmaking funding raises $47 billion](https://www.pcgamer.com/hardware/chinas-latest-round-of-domestic-chipmaking-funding-raises-dollar47-billion)<!-- GAME:END -->
+ - [Farmers who &#39;killed an unreasonably large number of Gulp Frogs&#39; for bronze and power have had their demi-godhood stripped from them in WoW&#39;s Mists of Pandaria: Remix](https://www.pcgamer.com/games/world-of-warcraft/farmers-who-killed-an-unreasonably-large-number-of-gulp-frogs-for-bronze-and-power-have-had-their-demi-godhood-stripped-from-them-in-wows-mists-of-pandaria-remix)
+ - [This year&#39;s 24H2 Windows 11 update will wave goodbye to Cortana, WordPad, Steps Recorder, and more](https://www.pcgamer.com/software/operating-systems/this-years-24h2-windows-11-update-will-wave-goodbye-to-cortana-wordpad-steps-recorder-and-more)
+ - [New Multiplayer sneakfest Sneak Out has a host of dirty tricks for Hunters to use](https://www.pcgamer.com/games/new-multiplayer-sneakfest-sneak-out-has-a-host-of-dirty-tricks-for-hunters-to-use)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
