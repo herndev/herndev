@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases City Update VII: European Cities II](https://www.flightsimulator.com/city-update-vii-european-cities-ii/#new_tab)
- - [F1 24 review](https://www.pcgamer.com/games/racing/f1-24-review)
- - [Despite being older than the PC, magnetic tape storage is far from dead, in fact it&#39;s growing with 153,000,000 terabytes of the fragile stuff shipped in 2023](https://www.pcgamer.com/hardware/storage/despite-being-older-than-the-pc-magnetic-tape-storage-is-far-from-dead-in-fact-its-growing-with-153000000-terabytes-of-the-fragile-stuff-shipped-in-2023)<!-- GAME:END -->
+ - [Destiny 2: The Final Shape&#39;s wild new reality-bending Strike mission is full of lava, lost cities and dragon guts](https://www.pcgamer.com/games/fps/destiny-2-the-final-shapes-wild-new-reality-bending-strike-mission-is-full-of-lava-lost-cities-and-dragon-guts)
+ - [Elden Ring streamer completes a level 1 playthrough beating the game&#39;s 165 bosses—on NG+7, a difficulty she had to finish the game 7 times over just to reach](https://www.pcgamer.com/games/dark-souls/elden-ring-streamer-completes-a-level-1-playthrough-beating-the-games-165-bosseson-ng7-a-difficulty-she-had-to-finish-the-game-7-times-over-just-to-reach)
+ - [Final Fantasy VII Rebirth Is On Sale For The First Time](https://kotaku.com/final-fantasy-7-rebirth-sale-price-drop-playstation-5-1851503782)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
