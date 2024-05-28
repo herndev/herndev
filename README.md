@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
- - ⏩ [Well damnit man](http://9gag.com/gag/ary41L0)
- - 👉 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)<!-- MEMES:END -->
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - ⏩ [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 ---
 
