@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where in Neomuna is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24166036/where-in-neomuna-is-archie-location)
- - [Dare to impress your dad this Father’s Day with these awesome gifts](https://www.polygon.com/24161974/best-fathers-day-gift-guide-ideas)
- - [The Sims 4’s next kits focus on poolside luxury and cozy bistro dining](https://www.polygon.com/24166495/the-sims-4-rivieria-retreat-cozy-bistro-gallery)<!-- GAME:END -->
+ - [My.Games Celebrates Five Years with Festivities in Hawked and Warface](https://news.xbox.com/en-us/2024/05/28/my-games-celebrates-five-years-with-festivities-in-hawked-and-warface/)
+ - [For The First Time In A Decade, Nobody Is Working On Cyberpunk 2077](https://kotaku.com/cyberpunk-2077-nobody-working-cdpr-update-2024-orion-1851504802)
+ - [Where in Neomuna is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24166036/where-in-neomuna-is-archie-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
