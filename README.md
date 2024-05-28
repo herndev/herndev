@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
- - ⏩ [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 👉 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)<!-- MEMES:END -->
+ - 💣 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - ⏩ [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 ---
 
