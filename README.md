@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Call of Duty: Black Ops 6 on Day One with Xbox Game Pass](https://news.xbox.com/en-us/2024/05/28/play-call-of-duty-black-ops-6-day-one-game-pass/)
- - [The 5 best Korean dramas to watch on Netflix this summer](https://www.polygon.com/what-to-watch/2024/5/28/24159038/best-korean-dramas-netflix-watch-summer-2024)
- - [Japanese government commissions baffling metaverse to combat loneliness where you can&#39;t talk to anyone, enforced via a digital security guard](https://www.pcgamer.com/software/japanese-government-commissions-baffling-metaverse-to-combat-loneliness-where-you-cant-talk-to-anyone-enforced-via-a-digital-security-guard)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases City Update VII: European Cities II](https://www.flightsimulator.com/city-update-vii-european-cities-ii/#new_tab)
+ - [F1 24 review](https://www.pcgamer.com/games/racing/f1-24-review)
+ - [Despite being older than the PC, magnetic tape storage is far from dead, in fact it&#39;s growing with 153,000,000 terabytes of the fragile stuff shipped in 2023](https://www.pcgamer.com/hardware/storage/despite-being-older-than-the-pc-magnetic-tape-storage-is-far-from-dead-in-fact-its-growing-with-153000000-terabytes-of-the-fragile-stuff-shipped-in-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
