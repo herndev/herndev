@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The hacking group RansomHub claims to be behind the attack that hit Christie&#39;s, and threatens to release sensitive information about the auction house&#39;s clients &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240527/p8#a240527p8)
- - [Memorial Day Sales 2024: Snag Sweet Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Meta adds safety features to CrowdTangle for use during the EU elections, in a bid to address EU concerns over Meta&#39;s plan to shut down the tool in August 2024 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240527/p7#a240527p7)<!-- TECH:END -->
+ - [Earn Mega Savings With Mattress Firm&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/earn-massive-savings-with-mattress-firms-memorial-day-sale/#ftag=CAD590a51e)
+ - [Act Fast To Get an Extra 5% off Casper&#39;s Memorial Day Sale Prices With This Special Code     - CNET](https://www.cnet.com/deals/get-an-extra-5-off-caspers-memorial-day-sale-prices-with-this-special-code/#ftag=CAD590a51e)
+ - [Sleep Better With These 23 Best Memorial Day Mattress Sales, According to Sleep Experts     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
