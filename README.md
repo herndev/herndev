@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looks like the Galaxy Watch Ultra name is basically confirmed](https://www.androidauthority.com/samsung-galaxy-watch-ultra-tdra-3446862/)
- - [Best Memorial Day Deals for Home Security: Grab Big Savings Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-28/#ftag=CAD590a51e)
- - [Microsoft is making Edge faster... starting with this one menu](https://www.theverge.com/2024/5/28/24166556/microsoft-edge-speed-upgrade-webui-2)<!-- TECH:END -->
+ - [Samsung&#39;s Galaxy Ring: Who&#39;s This Mysterious Health Wearable For?     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-ring-whos-this-mysterious-health-wearable-for/#ftag=CAD590a51e)
+ - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
+ - [Verizon’s latest streaming deal is a $10 monthly YouTube Premium subscription](https://www.theverge.com/2024/5/28/24166612/verizon-streaming-deal-youtube-premium-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
