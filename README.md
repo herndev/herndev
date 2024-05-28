@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made in China](http://9gag.com/gag/a6ZyLOm)
- - ⏩ [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
- - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
+ - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - ⏩ [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 👉 [Snaxx time](http://9gag.com/gag/aVvWO1O)<!-- MEMES:END -->
 
 ---
 
