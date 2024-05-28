@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My.Games Celebrates Five Years with Festivities in Hawked and Warface](https://news.xbox.com/en-us/2024/05/28/my-games-celebrates-five-years-with-festivities-in-hawked-and-warface/)
- - [For The First Time In A Decade, Nobody Is Working On Cyberpunk 2077](https://kotaku.com/cyberpunk-2077-nobody-working-cdpr-update-2024-orion-1851504802)
- - [Where in Neomuna is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24166036/where-in-neomuna-is-archie-location)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 485: Hope For Humanity](https://blog.playstation.com/2024/05/28/official-playstation-podcast-episode-485-hope-for-humanity/)
+ - [Multiversus’ Re-Launch Already Has Its Competitive Fans Upset](https://kotaku.com/multiversus-unlock-characters-local-tournaments-1851505068)
+ - [YouTube’s Playables is giving AddictingGames.com](https://www.polygon.com/24166460/youtube-playables-games-play-launch-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
