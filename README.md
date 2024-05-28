@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well damnit man](http://9gag.com/gag/ary41L0)
- - ⏩ [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)
- - 👉 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)<!-- MEMES:END -->
+ - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - ⏩ [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 👉 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)<!-- MEMES:END -->
 
 ---
 
