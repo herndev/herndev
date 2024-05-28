@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanting to not be raped, murdered, and replaced by low IQ 3rd worlders is now a `massive racism problem.`Germany\u2019s massive racism problem has been caught on camera again. German elite partying on the luxury island of Sylt were filmed singing `Germany for Germans,foreigners out`](http://9gag.com/gag/a343vne)
- - ⏩ [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 👉 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)<!-- MEMES:END -->
+ - 💣 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - ⏩ [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 ---
 
