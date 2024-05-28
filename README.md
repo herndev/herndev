@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has 6 new Chromebooks for you to try its latest Chrome OS features](https://www.androidauthority.com/google-new-chromebooks-3446629/)
- - [Chromebooks Will Get Gemini and New Google AI Features](https://www.wired.com/story/google-brings-gemini-to-chrome-os-and-chromebooks/)
- - [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus?utm_medium=rss)<!-- TECH:END -->
+ - [Sale bring record 33% savings on the Garmin Venu 2 Plus](https://www.androidauthority.com/sale-garmin-venu-2-plus-3446525/)
+ - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
+ - [Google unveils new AI features for Chromebook Plus devices, says new Chromebook Plus users get a free year of Google One AI Premium, and updates old Chromebooks &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240528/p10#a240528p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
