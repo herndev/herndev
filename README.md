@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fan artists are mashing up their favorite games with Hades 2’s friends and fiends](https://www.polygon.com/24167198/hades-2-jesus-fan-art-crossover-dark-souls-call-of-duty)
- - [Riot celebrates an esports legend with its &#39;most generous bundles to date&#39; and the best cosmetics will only cost you a measly $500](https://www.pcgamer.com/games/moba/riot-celebrates-an-esports-legend-with-its-most-generous-bundles-to-date-and-the-best-cosmetics-will-only-cost-you-a-measly-dollar500)
- - [Netflix’s My Oni Girl features a 9-minute-long Spirited Away Easter egg](https://www.polygon.com/anime/24166567/my-oni-girl-netflix-anime-spirited-away-easter-egg)<!-- GAME:END -->
+ - [Elden Ring co-op guide: with and without the Seamless Co-op mod](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)
+ - [A Decade Later, Mario Kart 8 Is Still Impossible To Top](https://kotaku.com/mario-kart-8-10-year-anniversary-1851507678)
+ - [Kerbal Space Program developers confirm layoffs are coming at the end of June](https://www.pcgamer.com/gaming-industry/kerbal-space-program-developers-confirm-layoffs-are-coming-at-the-end-of-june)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
