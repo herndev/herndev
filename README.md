@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KVM Monitors Let You Cut Down the Desk Clutter, and I Love It](https://www.wired.com/story/kvm-monitors-built-in-switch/)
- - [Amazon is publishing new open-world racer from former Forza developers](https://www.theverge.com/2024/5/29/24166351/amazon-maverick-games-publishing-deal-forza-ps5-xbox)
- - [The next No Man’s Sky update makes the game lonelier — and more dangerous](https://www.theverge.com/2024/5/29/24166275/no-mans-sky-adrift-update)<!-- TECH:END -->
+ - [The business behind Unnecessary Inventions’ millions of followers](https://www.theverge.com/24166254/unnecessary-inventions-matty-benedetto-behind-the-scenes-full-frame-creators)
+ - [PayPal adds its PayPal USD stablecoin, launched on Ethereum in August 2023 and issued by Paxos, to Solana; PYUSD currently has a nearly $400M market cap &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240529/p17#a240529p17)
+ - [Get a free 50-inch smart TV with your Samsung Galaxy Book 4 Edge pre-order](https://www.androidauthority.com/samsung-galaxy-book-4-edge-pre-order-deal-3446863/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
