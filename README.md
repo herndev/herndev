@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Neolithic burial sites and now too much of the wrong soil type, Intel&#39;s new foundry in Germany isn&#39;t getting finished any time soon](https://www.pcgamer.com/hardware/processors/neolithic-burial-sites-and-now-too-much-of-the-wrong-soil-type-intels-new-foundry-in-germany-isnt-getting-finished-any-time-soon)
  - [Today&#39;s Wordle answer for Wednesday, May 29](https://www.pcgamer.com/games/puzzle/todays-wordle-answer-for-wednesday-may-29)
- - [Days of Play 2024 Sale Featuring Discounts on PlayStation 5 and PS VR2 for limited period!](https://blog.playstation.com/2024/05/28/20240529-daysofplay/)
  - [Days of Play 2024 Sale Featuring Discounts on PlayStation 5 and PS VR2 for limited period!](https://blog.playstation.com/2024/05/28/20240529-daysofplay/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
