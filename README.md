@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home is still re-adding audio features it lost due to the Sonos lawsuit](https://www.theverge.com/2024/5/29/24167316/google-home-assistant-group-volume-control-speakers-sonos-lawsuit)
- - [The Atlantic and Vox Media sign multi-year licensing and product deals with OpenAI; The Atlantic plans an experimental Atlantic Labs with OpenAI tech &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240529/p33#a240529p33)
- - [An Apple TV app could finally be coming to Android smartphones](https://www.androidauthority.com/apple-tv-app-for-android-phones-3447187/)<!-- TECH:END -->
+ - [Google confirms the authenticity of the 2,500 leaked Search documents filled with details about data the company collects &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240529/p34#a240529p34)
+ - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
+ - [Custom GPTs open for free ChatGPT users](https://www.theverge.com/2024/5/29/24167436/chatgpt-4o-custom-gpts-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
