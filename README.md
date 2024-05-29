@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will soon let you resize Android’s Live Captions feature](https://www.androidauthority.com/resize-live-captions-on-android-3447092/)
- - [Source: cloud GPU provider CoreWeave, which was last valued at $19B and raised ~$10B in equity and debt over the past year, plans an IPO in H1 2025 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240529/p22#a240529p22)
- - [US arrests man allegedly behind enormous botnet that enabled cyberattacks and fraud](https://www.theverge.com/2024/5/29/24167094/us-arrests-911-s5-botnet-administrator)<!-- TECH:END -->
+ - [Mistral AI releases 22B-parameter Codestral, its first generative AI model for coding, trained on 80+ programming languages and prohibited for commercial use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240529/p25#a240529p25)
+ - [Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/google-pixel-8a-review-3445523/)
+ - [Meta says it removed six influence campaigns including those from Israel and China](https://www.theverge.com/2024/5/29/24167164/meta-covert-influence-campaigns-ai-china-israel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
