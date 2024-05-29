@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Researchers have developed a type of flash memory storage that can withstand temperatures higher than the surface of Venus](https://www.pcgamer.com/hardware/ssds/researchers-have-developed-a-type-of-flash-memory-storage-that-can-withstand-temperatures-higher-than-the-surface-of-venus)
- - [Moana 2 trailer brings me a new best friend](https://www.polygon.com/24166967/moana-2-trailer)
- - [Last Of Us Director Says AI Will &#39;Push The Boundaries Of Storytelling In Games&#39; [Update]](https://kotaku.com/last-of-us-neil-druckmann-naughty-dog-ai-new-game-1851496423)<!-- GAME:END -->
+ - [Minecraft Experience: Villager Rescue](https://www.minecraft.net/article/minecraft-experience-villager-rescue#new_tab)
+ - [6 tips to get prepped for Destiny 2&#39;s The Final Shape expansion](https://www.pcgamer.com/games/fps/6-tips-to-get-prepped-for-destiny-2s-the-final-shape-expansion)
+ - [No Man’s Sky’s Just Became A Desolate Space Horror Game](https://kotaku.com/no-mans-sky-adrift-update-expedition-horror-abandoned-1851506331)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
