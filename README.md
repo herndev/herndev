@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zotac teases OLED gaming handheld to rival the Steam Deck](https://www.theverge.com/2024/5/29/24167109/zotac-zone-gaming-handheld-oled-display)
- - [Vox Media and The Atlantic sign content deals with OpenAI](https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic)
- - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google will soon let you resize Android’s Live Captions feature](https://www.androidauthority.com/resize-live-captions-on-android-3447092/)
+ - [Source: cloud GPU provider CoreWeave, which was last valued at $19B and raised ~$10B in equity and debt over the past year, plans an IPO in H1 2025 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240529/p22#a240529p22)
+ - [US arrests man allegedly behind enormous botnet that enabled cyberattacks and fraud](https://www.theverge.com/2024/5/29/24167094/us-arrests-911-s5-botnet-administrator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
