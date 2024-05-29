@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Neolithic burial sites and now too much of the wrong soil type, Intel&#39;s new foundry in Germany isn&#39;t getting finished any time soon](https://www.pcgamer.com/hardware/processors/neolithic-burial-sites-and-now-too-much-of-the-wrong-soil-type-intels-new-foundry-in-germany-isnt-getting-finished-any-time-soon)
- - [Today&#39;s Wordle answer for Wednesday, May 29](https://www.pcgamer.com/games/puzzle/todays-wordle-answer-for-wednesday-may-29)
- - [Days of Play 2024 Sale Featuring Discounts on PlayStation 5 and PS VR2 for limited period!](https://blog.playstation.com/2024/05/28/20240529-daysofplay/)<!-- GAME:END -->
+ - [Did you know your gaming PC&#39;s family tree could be traced back to one 1960s nuclear ICBM?](https://www.pcgamer.com/hardware/did-you-know-your-gaming-pcs-family-tree-could-be-traced-back-to-one-1960s-nuclear-icbm)
+ - [How to complete the vault puzzles in Destiny 2’s ‘Zero Hour’](https://www.polygon.com/destiny-2-guide-walkthrough/24160970/vault-puzzle-vaulted-obstacles-code-order)
+ - [Where to find the switches in Destiny 2’s ‘Outbreak Refined’ quest](https://www.polygon.com/destiny-2-guide-walkthrough/24160969/outbreak-refined-switch-locations-legend-difficulty-path)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
