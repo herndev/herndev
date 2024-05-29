@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Experience: Villager Rescue](https://www.minecraft.net/article/minecraft-experience-villager-rescue#new_tab)
- - [6 tips to get prepped for Destiny 2&#39;s The Final Shape expansion](https://www.pcgamer.com/games/fps/6-tips-to-get-prepped-for-destiny-2s-the-final-shape-expansion)
- - [No Man’s Sky’s Just Became A Desolate Space Horror Game](https://kotaku.com/no-mans-sky-adrift-update-expedition-horror-abandoned-1851506331)<!-- GAME:END -->
+ - [You can pre-order Elden Ring: Shadow of the Erdtree for its lowest price yet on Newegg](https://www.polygon.com/deals/24166936/elden-ring-shadow-of-the-erdtree-dlc-preorder-deal-sale)
+ - [Indie Selects for May: Games We’ve Played and Think You’ll Love](https://news.xbox.com/en-us/2024/05/29/indie-selects-may-xbox/)
+ - [Tom Bombadil, cut from Lord of the Rings movies, to step out in Rings of Power](https://www.polygon.com/24166978/tom-bombadil-rings-of-power-season-2-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
