@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 💣 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
  - ⏩ [The struggle is real](http://9gag.com/gag/aVvWQyO)
- - 👉 [That moment of realization](http://9gag.com/gag/aoy0z1n)<!-- MEMES:END -->
+ - 👉 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)<!-- MEMES:END -->
 
 ---
 
