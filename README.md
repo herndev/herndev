@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
- - ⏩ [This man is driving his car, meanwhile he has a suspended license.](http://9gag.com/gag/ae9065b)
- - 👉 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)<!-- MEMES:END -->
+ - 💣 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - ⏩ [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 👉 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)<!-- MEMES:END -->
 
 ---
 
