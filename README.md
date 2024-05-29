@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Graph paper mapping my way through a 37-year-old RPG reminded me how rarely I give games 100% of my attention, and how much more fun I have when I do](https://www.pcgamer.com/games/rpg/graph-paper-mapping-my-way-through-a-37-year-old-rpg-reminded-me-how-rarely-i-give-games-100-of-my-attention-and-how-much-more-fun-i-have-when-i-do)
- - [EA Ruined Some Players&#39; It Takes Two Saves So It&#39;s Giving Them New Ones](https://kotaku.com/it-takes-two-save-file-ea-cloud-app-steam-deck-update-1851507762)
- - [Elden Ring co-op guide: with and without the Seamless Co-op mod](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)<!-- GAME:END -->
+ - [It Takes Two&#39;s Steam Deck update broke old cloud saves, but EA has an old-school workaround](https://www.pcgamer.com/games/action/it-takes-twos-steam-deck-update-broke-old-cloud-saves-but-ea-has-an-old-school-workaround)
+ - [After trying to branch out during the pandemic, Discord&#39;s refocusing on the 90% of users who play games: &#39;We&#39;ve recognized the need to narrow our focus&#39;](https://www.pcgamer.com/software/platforms/after-trying-to-branch-out-during-the-pandemic-discords-refocusing-on-the-90-of-users-who-play-games-weve-recognized-the-need-to-narrow-our-focus)
+ - [If you love how Balatro mutates the game of poker, Dungeons &amp; Degenerate Gamblers is doing something similar to blackjack, and there&#39;s a demo you can try now](https://www.pcgamer.com/games/card-games/if-you-love-how-balatro-mutates-the-game-of-poker-dungeons-and-degenerate-gamblers-is-doing-something-similar-to-blackjack-and-theres-a-demo-you-can-try-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
