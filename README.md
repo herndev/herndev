@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dog sensed its owner&#39;s presence just by her scent.](http://9gag.com/gag/a4PdLP6)
- - ⏩ [Ride,ride,ride](http://9gag.com/gag/axyZG4M)
- - 👉 [Stepdaughter asks her stepfather if he wants to adopt her](http://9gag.com/gag/a2vYq99)<!-- MEMES:END -->
+ - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - ⏩ [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 ---
 
