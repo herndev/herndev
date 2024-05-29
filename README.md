@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bigger and brighter: iPhone 16 &amp; iPhone 16 Pro rumored screen changes](https://appleinsider.com/articles/24/05/29/bigger-and-brighter-iphone-16-iphone-16-pro-rumored-screen-changes?utm_medium=rss)
- - [HP reports Q2 revenue down 0.8% YoY to $12.8B, vs. $12.6B est., Personal Systems revenue up 3% to $8.43B, vs. $8.28B est., Printing revenue down 8% to $4.37B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240529/p30#a240529p30)
- - [Final Fantasy VII Rebirth’s first discount takes $15 off](https://www.theverge.com/2024/5/29/24167183/final-fantasy-vii-rebirth-deal-sale-ps5)<!-- TECH:END -->
+ - [Google Home is still re-adding audio features it lost due to the Sonos lawsuit](https://www.theverge.com/2024/5/29/24167316/google-home-assistant-group-volume-control-speakers-sonos-lawsuit)
+ - [The Atlantic and Vox Media sign multi-year licensing and product deals with OpenAI; The Atlantic plans an experimental Atlantic Labs with OpenAI tech &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240529/p33#a240529p33)
+ - [An Apple TV app could finally be coming to Android smartphones](https://www.androidauthority.com/apple-tv-app-for-android-phones-3447187/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
