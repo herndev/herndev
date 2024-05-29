@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - ⏩ [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
+ - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - ⏩ [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 👉 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)<!-- MEMES:END -->
 
 ---
 
