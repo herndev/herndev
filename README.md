@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - ⏩ [The struggle is real](http://9gag.com/gag/aVvWQyO)
- - 👉 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)<!-- MEMES:END -->
+ - 💣 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - ⏩ [That moment of realization](http://9gag.com/gag/aoy0z1n)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 
