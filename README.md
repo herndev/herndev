@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked letter: a US group representing Google, Amazon, and Apple asks India to rethink its DMA-like Digital Competition Bill, saying it could raise user costs &lpar;Reuters&rpar;](http://www.techmeme.com/240529/p1#a240529p1)
  - [Samsung&#39;s labor union said it will carry out its first ever strike after wage negotiations, which have been ongoing since the start of 2024, broke down &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240528/p28#a240528p28)
- - [How to manage, edit, and store PDFs on an iPad](https://appleinsider.com/inside/ipad/tips/how-to-manage-edit-and-store-pdfs-on-an-ipad?utm_medium=rss)
- - [Lenovo plans to raise $2B by issuing convertible bonds to Alat, a subsidiary of Saudi Arabia&#39;s PIF, which would convert to ~12.1% of the company&#39;s issued shares &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p27#a240528p27)<!-- TECH:END -->
+ - [Don&#39;t Snooze on These Remaining Memorial Day Sleep Sales: The Best Deals on Cooling Pillows, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
