@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)
- - [Google’s precious Search recipe exposed in huge leak](https://www.androidauthority.com/google-search-algorithm-alleged-leak-3446883/)
- - [Secure 1TB of Koofr Cloud Storage for Just $130     - CNET](https://www.cnet.com/deals/secure-1tb-of-koofr-cloud-storage-for-just-130/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube really hates ad blockers, starts skipping and muting videos &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-skipping-muting-videos-ad-blockers-3446529/)
+ - [Brazilian digital bank Nubank hits a $58.2B market cap, surpassing Itau, previously the most valuable financial institution in Latin America, at ~$56B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240529/p8#a240529p8)
+ - [PwC plans to roll out ChatGPT Enterprise to its 75K US staff and 26K UK staff, becoming the largest customer and first reseller of OpenAI&#39;s enterprise product &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240529/p7#a240529p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
