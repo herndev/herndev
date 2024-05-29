@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - ⏩ [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)<!-- MEMES:END -->
+ - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - ⏩ [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [All hail Denmark](http://9gag.com/gag/aLnPBOA)<!-- MEMES:END -->
 
 ---
 
