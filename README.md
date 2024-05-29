@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - ⏩ [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 👉 [Berlin, Germany](http://9gag.com/gag/an7KKGB)<!-- MEMES:END -->
+ - 💣 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - ⏩ [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)
+ - 👉 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)<!-- MEMES:END -->
 
 ---
 
