@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - ⏩ [That moment of realization](http://9gag.com/gag/aoy0z1n)
- - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
+ - ⏩ [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 👉 [All hail Denmark](http://9gag.com/gag/aLnPBOA)<!-- MEMES:END -->
 
 ---
 
