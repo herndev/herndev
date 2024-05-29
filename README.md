@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Ring could have a ‘Lost mode’ to make sure you can find it &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-ring-lost-mode-3447019/)
- - [Apple The Exchange TRX is opening in Malaysia June 22](https://appleinsider.com/articles/24/05/29/apple-the-exchange-trx-is-opening-in-malaysia-june-22?utm_medium=rss)
- - [Pixel 8 and 8a could get this Gemini Nano toggle very soon &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-nano-pixel-8-3447040/)<!-- TECH:END -->
+ - [Zotac teases OLED gaming handheld to rival the Steam Deck](https://www.theverge.com/2024/5/29/24167109/zotac-zone-gaming-handheld-oled-display)
+ - [Vox Media and The Atlantic sign content deals with OpenAI](https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic)
+ - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
