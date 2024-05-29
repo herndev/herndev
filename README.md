@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
- - ⏩ [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 💣 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - ⏩ [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
  - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 ---
