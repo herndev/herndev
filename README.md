@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral AI releases 22B-parameter Codestral, its first generative AI model for coding, trained on 80+ programming languages and prohibited for commercial use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240529/p25#a240529p25)
- - [Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/google-pixel-8a-review-3445523/)
- - [Meta says it removed six influence campaigns including those from Israel and China](https://www.theverge.com/2024/5/29/24167164/meta-covert-influence-campaigns-ai-china-israel)<!-- TECH:END -->
+ - [Apple’s new iPad Pro ad puts the focus back on creators](https://www.theverge.com/2024/5/29/24167204/apple-ipad-pro-ad-creators-worlds-crushing-controversy)
+ - [Chrome adds picture-in-picture web browsing for Android apps](https://www.theverge.com/2024/5/29/24167287/google-chrome-picture-in-picture-web-browsing-android-apps)
+ - [Verizon and AST SpaceMobile team up in $100 million deal for satellite phone service](https://www.androidauthority.com/verizon-ast-spacemobile-satellite-phone-service-3447089/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
