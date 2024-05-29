@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect earrings don\u2019t exi...](http://9gag.com/gag/aZZxMRW)
- - ⏩ [Italian Patriots Tired Of Being Invaded And Destroyed](http://9gag.com/gag/aE01z69)
- - 👉 [Best of Danny Devito cameos unless you got better ?](http://9gag.com/gag/aMVrr3G)<!-- MEMES:END -->
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - ⏩ [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 👉 [All hail Denmark](http://9gag.com/gag/aLnPBOA)<!-- MEMES:END -->
 
 ---
 
