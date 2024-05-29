@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring co-op guide: with and without the Seamless Co-op mod](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)
- - [A Decade Later, Mario Kart 8 Is Still Impossible To Top](https://kotaku.com/mario-kart-8-10-year-anniversary-1851507678)
- - [Kerbal Space Program developers confirm layoffs are coming at the end of June](https://www.pcgamer.com/gaming-industry/kerbal-space-program-developers-confirm-layoffs-are-coming-at-the-end-of-june)<!-- GAME:END -->
+ - [Graph paper mapping my way through a 37-year-old RPG reminded me how rarely I give games 100% of my attention, and how much more fun I have when I do](https://www.pcgamer.com/games/rpg/graph-paper-mapping-my-way-through-a-37-year-old-rpg-reminded-me-how-rarely-i-give-games-100-of-my-attention-and-how-much-more-fun-i-have-when-i-do)
+ - [EA Ruined Some Players&#39; It Takes Two Saves So It&#39;s Giving Them New Ones](https://kotaku.com/it-takes-two-save-file-ea-cloud-app-steam-deck-update-1851507762)
+ - [Elden Ring co-op guide: with and without the Seamless Co-op mod](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
