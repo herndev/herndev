@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can pre-order Elden Ring: Shadow of the Erdtree for its lowest price yet on Newegg](https://www.polygon.com/deals/24166936/elden-ring-shadow-of-the-erdtree-dlc-preorder-deal-sale)
- - [Indie Selects for May: Games We’ve Played and Think You’ll Love](https://news.xbox.com/en-us/2024/05/29/indie-selects-may-xbox/)
- - [Tom Bombadil, cut from Lord of the Rings movies, to step out in Rings of Power](https://www.polygon.com/24166978/tom-bombadil-rings-of-power-season-2-announcement)<!-- GAME:END -->
+ - [Minecraft Community Members Share How it Shapes Their Worlds](https://news.microsoft.com/source/?post_type=shortform&p=7389#new_tab)
+ - [Gen Z and Gen Alpha crave games with &#39;more meaning&#39; and &#39;personalisation across everything&#39; according to PlayStation exec—who implies that &lpar;you guessed it&rpar; AI is the answer](https://www.pcgamer.com/gaming-industry/gen-z-and-gen-alpha-crave-games-with-more-meaning-and-personalisation-across-everything-according-to-playstation-execwho-implies-that-you-guessed-it-ai-is-the-answer)
+ - [Summer Game Fest 2024 and not-E3 2024 schedule: All conference dates and times](https://www.polygon.com/gaming/24167070/summer-game-fest-2024-schedule-sgf-e3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
