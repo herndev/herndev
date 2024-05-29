@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
- - ⏩ [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
- - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
+ - 💣 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - ⏩ [What do you think about that?](http://9gag.com/gag/amo00O4)
+ - 👉 [Snaxx time](http://9gag.com/gag/aVvWO1O)<!-- MEMES:END -->
 
 ---
 
