@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Galaxy Z Flip 6 and Galaxy Ring details have leaked, courtesy of the FCC](https://www.theverge.com/2024/5/28/24166632/galaxy-z-flip-6-smart-ring-size-battery-capacity-leaks)
- - [Microsoft launches Copilot for Telegram in beta; the bot is limited to text-based requests and cannot generate images for now &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240528/p24#a240528p24)
- - [The US Treasury sanctions three Chinese nationals and three Thailand-based companies linked to a botnet controlling residential proxy service &quot;911 S5&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240528/p23#a240528p23)<!-- TECH:END -->
+ - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
+ - [Best Memorial Day Sales Still Available Under $25: Great Finds on Tech and Everyday Essentials     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25-2024-05-28/#ftag=CAD590a51e)
+ - [New Galaxy Z Flip 6 and Galaxy Ring details have leaked, courtesy of the FCC](https://www.theverge.com/2024/5/28/24166632/galaxy-z-flip-6-smart-ring-size-battery-capacity-leaks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
