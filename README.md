@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 update 1.48 features 5 new cars, Café Menu, and World Circuit Events](https://blog.playstation.com/2024/05/29/gran-turismo-7-update-1-48-features-5-new-cars-cafe-menu-and-world-circuit-events/)
- - [An Abandoned Galaxy Awaits in Adrift, The Latest No Man’s Sky Expedition](https://news.xbox.com/en-us/2024/05/29/adrift-no-mans-sky-expedition/)
- - [Emma Roberts’ NASA rom-com is the Legally Blonde of astronaut movies](https://www.polygon.com/24164032/space-cadet-emma-roberts-legally-blonde-director)<!-- GAME:END -->
+ - [Researchers have developed a type of flash memory storage that can withstand temperatures higher than the surface of Venus](https://www.pcgamer.com/hardware/ssds/researchers-have-developed-a-type-of-flash-memory-storage-that-can-withstand-temperatures-higher-than-the-surface-of-venus)
+ - [Moana 2 trailer brings me a new best friend](https://www.polygon.com/24166967/moana-2-trailer)
+ - [Last Of Us Director Says AI Will &#39;Push The Boundaries Of Storytelling In Games&#39; [Update]](https://kotaku.com/last-of-us-neil-druckmann-naughty-dog-ai-new-game-1851496423)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
