@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Did you know your gaming PC&#39;s family tree could be traced back to one 1960s nuclear ICBM?](https://www.pcgamer.com/hardware/did-you-know-your-gaming-pcs-family-tree-could-be-traced-back-to-one-1960s-nuclear-icbm)
- - [How to complete the vault puzzles in Destiny 2’s ‘Zero Hour’](https://www.polygon.com/destiny-2-guide-walkthrough/24160970/vault-puzzle-vaulted-obstacles-code-order)
- - [Where to find the switches in Destiny 2’s ‘Outbreak Refined’ quest](https://www.polygon.com/destiny-2-guide-walkthrough/24160969/outbreak-refined-switch-locations-legend-difficulty-path)<!-- GAME:END -->
+ - [Gran Turismo 7 update 1.48 features 5 new cars, Café Menu, and World Circuit Events](https://blog.playstation.com/2024/05/29/gran-turismo-7-update-1-48-features-5-new-cars-cafe-menu-and-world-circuit-events/)
+ - [An Abandoned Galaxy Awaits in Adrift, The Latest No Man’s Sky Expedition](https://news.xbox.com/en-us/2024/05/29/adrift-no-mans-sky-expedition/)
+ - [Emma Roberts’ NASA rom-com is the Legally Blonde of astronaut movies](https://www.polygon.com/24164032/space-cadet-emma-roberts-legally-blonde-director)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
