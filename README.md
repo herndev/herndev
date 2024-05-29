@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The business behind Unnecessary Inventions’ millions of followers](https://www.theverge.com/24166254/unnecessary-inventions-matty-benedetto-behind-the-scenes-full-frame-creators)
- - [PayPal adds its PayPal USD stablecoin, launched on Ethereum in August 2023 and issued by Paxos, to Solana; PYUSD currently has a nearly $400M market cap &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240529/p17#a240529p17)
- - [Get a free 50-inch smart TV with your Samsung Galaxy Book 4 Edge pre-order](https://www.androidauthority.com/samsung-galaxy-book-4-edge-pre-order-deal-3446863/)<!-- TECH:END -->
+ - [Arm says its next-gen mobile GPU will be its most ‘performant and efficient’](https://www.theverge.com/2024/5/29/24166216/arm-immortalis-g925-cortex-x925-mobile-soc)
+ - [Apple&#39;s AI plans involves &#39;black box&#39; for cloud data](https://appleinsider.com/articles/24/05/29/apples-ai-plans-involves-black-box-for-cloud-data?utm_medium=rss)
+ - [US telecom subscribers are running out of carriers to choose from, and that’s really bad](https://www.androidauthority.com/us-telecom-subscribers-running-out-of-carriers-poll-3447003/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
