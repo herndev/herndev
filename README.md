@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - ⏩ [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 👉 [All hail Denmark](http://9gag.com/gag/aLnPBOA)<!-- MEMES:END -->
+ - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - ⏩ [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 
