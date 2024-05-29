@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
- - ⏩ [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [All hail Denmark](http://9gag.com/gag/aLnPBOA)<!-- MEMES:END -->
+ - ⏩ [Berlin, Germany](http://9gag.com/gag/an7KKGB)
+ - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
 
 ---
 
