@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)
- - ⏩ [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 👉 [All hail Denmark](http://9gag.com/gag/aLnPBOA)<!-- MEMES:END -->
+ - 💣 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
+ - ⏩ [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
+ - 👉 [Made in China](http://9gag.com/gag/a6ZyLOm)<!-- MEMES:END -->
 
 ---
 
