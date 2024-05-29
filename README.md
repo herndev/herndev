@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm says its next-gen mobile GPU will be its most ‘performant and efficient’](https://www.theverge.com/2024/5/29/24166216/arm-immortalis-g925-cortex-x925-mobile-soc)
- - [Apple&#39;s AI plans involves &#39;black box&#39; for cloud data](https://appleinsider.com/articles/24/05/29/apples-ai-plans-involves-black-box-for-cloud-data?utm_medium=rss)
- - [US telecom subscribers are running out of carriers to choose from, and that’s really bad](https://www.androidauthority.com/us-telecom-subscribers-running-out-of-carriers-poll-3447003/)<!-- TECH:END -->
+ - [Galaxy Ring could have a ‘Lost mode’ to make sure you can find it &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-ring-lost-mode-3447019/)
+ - [Apple The Exchange TRX is opening in Malaysia June 22](https://appleinsider.com/articles/24/05/29/apple-the-exchange-trx-is-opening-in-malaysia-june-22?utm_medium=rss)
+ - [Pixel 8 and 8a could get this Gemini Nano toggle very soon &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-nano-pixel-8-3447040/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
