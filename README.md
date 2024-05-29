@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Days of Play 2024 Sale Featuring Discounts on PlayStation 5 and PS VR2 for limited period!](https://blog.playstation.com/2024/05/28/20240529-daysofplay/)
- - [&lpar;For Southeast Asia&rpar; Get ready: Days of Play Celebration Kicks off on May 29](https://blog.playstation.com/2024/05/28/20240529-daysofplay-2/)
- - [MultiVersus relaunch attracts over 110K concurrent players on Steam](https://www.pcgamer.com/games/fighting/multiversus-relaunch-attracts-over-110k-concurrent-players-on-steam)<!-- GAME:END -->
+ - [Days of Play 2024 Sale Featuring Discounts on PlayStation 5 and PS VR2 for limited period!](https://blog.playstation.com/2024/05/28/20240529-daysofplay/)
+ - [&lpar;For Southeast Asia&rpar; Get ready: Days of Play Celebration Kicks off on May 29](https://blog.playstation.com/2024/05/28/20240529-daysofplay-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
