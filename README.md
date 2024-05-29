@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
- - ⏩ [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - ⏩ [Prove me wrong?](http://9gag.com/gag/aPA44vg)
  - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 ---
