@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Economy goes brrrrr. . .](http://9gag.com/gag/ae90jXQ)
- - ⏩ [White](http://9gag.com/gag/a9yLbD6)
- - 👉 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)<!-- MEMES:END -->
+ - 💣 [The perfect earrings don\u2019t exi...](http://9gag.com/gag/aZZxMRW)
+ - ⏩ [Italian Patriots Tired Of Being Invaded And Destroyed](http://9gag.com/gag/aE01z69)
+ - 👉 [Best of Danny Devito cameos unless you got better ?](http://9gag.com/gag/aMVrr3G)<!-- MEMES:END -->
 
 ---
 
