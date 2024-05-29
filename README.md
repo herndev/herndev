@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - ⏩ [What do you think about that?](http://9gag.com/gag/amo00O4)
- - 👉 [Snaxx time](http://9gag.com/gag/aVvWO1O)<!-- MEMES:END -->
+ - 💣 [That moment of realization](http://9gag.com/gag/aoy0z1n)
+ - ⏩ [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 👉 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)<!-- MEMES:END -->
 
 ---
 
