@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you never get an easy opponent in XDefiant, you&#39;re the easy opponent, suggests producer](https://www.pcgamer.com/games/fps/if-you-never-get-an-easy-opponent-in-xdefiant-youre-the-easy-opponent-suggests-producer)
- - [The next anime action game from the maker of Genshin Impact is coming in July](https://www.pcgamer.com/games/action/the-next-anime-action-game-from-the-maker-of-genshin-impact-is-coming-in-july)
- - [The Witcher 4 is &#39;the largest&#39; game in development at CD Projekt &#39;by the size of the team, but also by the progress of ongoing work&#39;](https://www.pcgamer.com/games/the-witcher/the-witcher-4-is-the-largest-game-in-development-at-cd-projekt-by-the-size-of-the-team-but-also-by-the-progress-of-ongoing-work)<!-- GAME:END -->
+ - [Days of Play 2024 Sale Featuring Discounts on PlayStation 5 and PS VR2 for limited period!](https://blog.playstation.com/2024/05/28/20240529-daysofplay/)
+ - [&lpar;For Southeast Asia&rpar; Get ready: Days of Play Celebration Kicks off on May 29](https://blog.playstation.com/2024/05/28/20240529-daysofplay-2/)
+ - [MultiVersus relaunch attracts over 110K concurrent players on Steam](https://www.pcgamer.com/games/fighting/multiversus-relaunch-attracts-over-110k-concurrent-players-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
