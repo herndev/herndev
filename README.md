@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus Is Back And It&#39;s A Big Mess](https://kotaku.com/multiversus-return-review-fps-laggy-locked-characters-1851506741)
- - [Dead Video Game Franchises We&#39;d Like To See Return](https://kotaku.com/new-sly-cooper-titanfall-splinter-cell-left-4-dead-1851506835)
- - [Minecraft Community Members Share How it Shapes Their Worlds](https://news.microsoft.com/source/?post_type=shortform&p=7389#new_tab)<!-- GAME:END -->
+ - [Call of Duty&#39;s Crossover With Fallout Leaks Early](https://kotaku.com/fallout-call-of-duty-warzone-vault-tec-skins-leak-mw3-1851507056)
+ - [Persona 5 Royal Mod Lets You Finally Date The Dudes](https://kotaku.com/persona-5-royal-gay-romance-mod-pc-ryuji-akechi-yusuke-1851507174)
+ - [Thelma is a geri-action movie that doesn’t miss a step](https://www.polygon.com/24164155/thelma-movie-preview-action-comedy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
