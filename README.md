@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty&#39;s Crossover With Fallout Leaks Early](https://kotaku.com/fallout-call-of-duty-warzone-vault-tec-skins-leak-mw3-1851507056)
- - [Persona 5 Royal Mod Lets You Finally Date The Dudes](https://kotaku.com/persona-5-royal-gay-romance-mod-pc-ryuji-akechi-yusuke-1851507174)
- - [Thelma is a geri-action movie that doesn’t miss a step](https://www.polygon.com/24164155/thelma-movie-preview-action-comedy)<!-- GAME:END -->
+ - [Fan artists are mashing up their favorite games with Hades 2’s friends and fiends](https://www.polygon.com/24167198/hades-2-jesus-fan-art-crossover-dark-souls-call-of-duty)
+ - [Riot celebrates an esports legend with its &#39;most generous bundles to date&#39; and the best cosmetics will only cost you a measly $500](https://www.pcgamer.com/games/moba/riot-celebrates-an-esports-legend-with-its-most-generous-bundles-to-date-and-the-best-cosmetics-will-only-cost-you-a-measly-dollar500)
+ - [Netflix’s My Oni Girl features a 9-minute-long Spirited Away Easter egg](https://www.polygon.com/anime/24166567/my-oni-girl-netflix-anime-spirited-away-easter-egg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
