@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Community Members Share How it Shapes Their Worlds](https://news.microsoft.com/source/?post_type=shortform&p=7389#new_tab)
- - [Gen Z and Gen Alpha crave games with &#39;more meaning&#39; and &#39;personalisation across everything&#39; according to PlayStation exec—who implies that &lpar;you guessed it&rpar; AI is the answer](https://www.pcgamer.com/gaming-industry/gen-z-and-gen-alpha-crave-games-with-more-meaning-and-personalisation-across-everything-according-to-playstation-execwho-implies-that-you-guessed-it-ai-is-the-answer)
- - [Summer Game Fest 2024 and not-E3 2024 schedule: All conference dates and times](https://www.polygon.com/gaming/24167070/summer-game-fest-2024-schedule-sgf-e3)<!-- GAME:END -->
+ - [MultiVersus Is Back And It&#39;s A Big Mess](https://kotaku.com/multiversus-return-review-fps-laggy-locked-characters-1851506741)
+ - [Dead Video Game Franchises We&#39;d Like To See Return](https://kotaku.com/new-sly-cooper-titanfall-splinter-cell-left-4-dead-1851506835)
+ - [Minecraft Community Members Share How it Shapes Their Worlds](https://news.microsoft.com/source/?post_type=shortform&p=7389#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
