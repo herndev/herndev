@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - ⏩ [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
- - 👉 [Made in China](http://9gag.com/gag/a6ZyLOm)<!-- MEMES:END -->
+ - 💣 [Economy goes brrrrr. . .](http://9gag.com/gag/ae90jXQ)
+ - ⏩ [White](http://9gag.com/gag/a9yLbD6)
+ - 👉 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)<!-- MEMES:END -->
 
 ---
 
