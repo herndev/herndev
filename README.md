@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Meta open sourcing its Llama models helped make Mark Zuckerberg popular again in Silicon Valley, reversing developer skepticism; Llama 2 has 180M+ downloads &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240529/p13#a240529p13)
- - [The Galaxy Z Flip 6 passes through FCC with a bigger battery](https://www.androidauthority.com/samsung-galaxy-z-flip-6-fcc-battery-upgrade-3446944/)
- - [Tired of YouTube ads? Verizon is discounting Premium for some of you](https://www.androidauthority.com/verizon-myplan-youtube-premium-discount-3446957/)<!-- TECH:END -->
+ - [KVM Monitors Let You Cut Down the Desk Clutter, and I Love It](https://www.wired.com/story/kvm-monitors-built-in-switch/)
+ - [Amazon is publishing new open-world racer from former Forza developers](https://www.theverge.com/2024/5/29/24166351/amazon-maverick-games-publishing-deal-forza-ps5-xbox)
+ - [The next No Man’s Sky update makes the game lonelier — and more dangerous](https://www.theverge.com/2024/5/29/24166275/no-mans-sky-adrift-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
