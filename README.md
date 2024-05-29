@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - ⏩ [Burger](http://9gag.com/gag/aZZxpNQ)
- - 👉 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)<!-- MEMES:END -->
+ - 💣 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
+ - ⏩ [This man is driving his car, meanwhile he has a suspended license.](http://9gag.com/gag/ae9065b)
+ - 👉 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)<!-- MEMES:END -->
 
 ---
 
