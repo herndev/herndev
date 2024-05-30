@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
- - ⏩ [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
+ - 💣 [They also deleted all the german L\u2019Amour toujours videos, but that&#39;s none of my business](http://9gag.com/gag/a3437y7)
+ - ⏩ [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
+ - 👉 [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)<!-- MEMES:END -->
 
 ---
 
