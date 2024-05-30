@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - ⏩ [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
+ - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - ⏩ [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
+ - 👉 [Took her a while](http://9gag.com/gag/azxEVAN)<!-- MEMES:END -->
 
 ---
 
