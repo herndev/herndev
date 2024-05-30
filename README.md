@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dream Racehorse Training Game Pocket Stables is Out Now on Xbox](https://news.xbox.com/en-us/2024/05/30/dream-racehorse-training-game-pocket-stables-is-out-now-on-xbox/)
- - [Baldur&#39;s Gate 3 Dev&#39;s New Game Still Mostly &#39;Ideas&#39; And &#39;Fragments&#39;](https://kotaku.com/baldurs-gate-3-larian-studios-next-game-excalibur-1851509450)
- - [The Rogue Prince of Persia is a promising start with unfavorable odds](https://www.polygon.com/reviews/24167461/the-rogue-prince-of-persia-review-early-access-dead-cells)<!-- GAME:END -->
+ - [Master Humanity: 7 Essential Tips for Saving Mankind](https://news.xbox.com/en-us/2024/05/30/humanity-7-essential-tips-for-saving-mankind/)
+ - [Life Eater is a time management horror game where I’m the monster](https://www.polygon.com/24167967/life-eater-strange-scaffold-stalking-horror-game)
+ - [Destiny 2 Suffers Massive Leak Ahead Of The Final Shape After PS5 Players Access The Expansion Early [Update]](https://kotaku.com/destiny-2-final-shape-leak-spoiler-ps5-1851508706)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
