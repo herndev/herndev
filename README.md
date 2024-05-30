@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Adjustable Dumbbells for 2024     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)
  - [Six AI/ML experts detail what they learned from building real-world applications on top of LLMs over the past year, including common pitfalls around prompting &lpar;O&#39;Reilly Media&rpar;](http://www.techmeme.com/240530/p7#a240530p7)
- - [Amazon partners with Grubhub to let US customers order food delivery inside Amazon&#39;s app through Grubhub and makes Grubhub+ memberships a permanent Prime perk &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240530/p6#a240530p6)
- - [California Governor Gavin Newsom warns against perils of over-regulating AI, sending a signal to the state&#39;s lawmakers who are advancing dozens of AI bills &lpar;Jeremy B. White/Politico&rpar;](http://www.techmeme.com/240530/p5#a240530p5)<!-- TECH:END -->
+ - [Amazon partners with Grubhub to let US customers order food delivery inside Amazon&#39;s app through Grubhub and makes Grubhub+ memberships a permanent Prime perk &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240530/p6#a240530p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
