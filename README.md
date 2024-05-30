@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They also deleted all the german L\u2019Amour toujours videos, but that&#39;s none of my business](http://9gag.com/gag/a3437y7)
- - ⏩ [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
- - 👉 [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)<!-- MEMES:END -->
+ - 💣 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
+ - ⏩ [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
 
 ---
 
