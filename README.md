@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - ⏩ [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)
- - 👉 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)<!-- MEMES:END -->
+ - 💣 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
+ - ⏩ [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 ---
 
