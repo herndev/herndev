@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces plans to invest $2B in Malaysia, including building its first data center, a new Google Cloud region, and further developing AI &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/240530/p1#a240530p1)
- - [Google’s precious Search recipe exposed in huge leak &lpar;Update: Google’s statement&rpar;](https://www.androidauthority.com/google-search-algorithm-alleged-leak-3446883/)
- - [Samsung Messages app crashing over and over? Blame Google Meet. Here’s how to fix! &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-messages-app-crash-3447014/)<!-- TECH:END -->
+ - [Amazon Prime now comes with free Grubhub food delivery](https://www.theverge.com/2024/5/30/24167678/amazon-prime-grubhub-plus-free-food-delivery)
+ - [Policymakers and experts say Hesai and other firms listed as Chinese military entities are rebranding and creating US-domiciled businesses to evade sanctions &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240530/p4#a240530p4)
+ - [Source: Microsoft pushed OpenAI to prioritize commercial products after the attempted coup against Sam Altman in November 2023, amplifying tensions at OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240530/p3#a240530p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
