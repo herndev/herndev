@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scuf’s Nomad controller for iPhone has full-size drift-free sticks at a competitive price](https://www.theverge.com/2024/5/30/24168172/scuf-nomad-iphone-mobile-controller-hall-effect-specs-price)
- - [MediaTek’s latest chip could be good news for fans of flip-style foldables](https://www.androidauthority.com/dimensity-7300x-flip-foldables-3447548/)
- - [Windows adds suggested replies to Phone Link for Android](https://www.theverge.com/2024/5/30/24168171/windows-phone-link-android-suggested-replies)<!-- TECH:END -->
+ - [Jeep’s Wagoneer S Trailhawk concept teases a fully electric off-roader](https://www.theverge.com/2024/5/30/24168099/jeep-wagoneer-s-trailhawk-concept-ev-off-road)
+ - [The first electric Jeep for the US is finally here](https://www.theverge.com/2024/5/30/24166498/jeep-wagoneer-s-ev-price-photos-specs-range)
+ - [Twitch is disbanding its Safety Advisory Council and will replace it with streamers](https://www.theverge.com/2024/5/30/24168200/twitch-safety-advisory-council-contract-termination-twitch-ambassadors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
