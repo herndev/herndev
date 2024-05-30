@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - ⏩ [Burger](http://9gag.com/gag/aZZxpNQ)
- - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
+ - 💣 [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
+ - ⏩ [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
 
 ---
 
