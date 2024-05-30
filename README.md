@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms the authenticity of the 2,500 leaked Search documents filled with details about data the company collects &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240529/p34#a240529p34)
- - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
- - [Custom GPTs open for free ChatGPT users](https://www.theverge.com/2024/5/29/24167436/chatgpt-4o-custom-gpts-free)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
+ - [A US federal court awards Activision $14.4M in a judgment for its 2022 lawsuit accusing EngineOwning of DMCA violation by selling Call of Duty cheat software &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240529/p35#a240529p35)
+ - [Netflix’s next game show is Million Dollar Secret](https://www.theverge.com/2024/5/29/24167453/netflix-million-dollar-secret-game-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
