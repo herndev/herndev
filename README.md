@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Adjustable Dumbbells for 2024     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)
- - [Six AI/ML experts detail what they learned from building real-world applications on top of LLMs over the past year, including common pitfalls around prompting &lpar;O&#39;Reilly Media&rpar;](http://www.techmeme.com/240530/p7#a240530p7)
- - [Amazon partners with Grubhub to let US customers order food delivery inside Amazon&#39;s app through Grubhub and makes Grubhub+ memberships a permanent Prime perk &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240530/p6#a240530p6)<!-- TECH:END -->
+ - [How the Integrity Institute, a nonprofit founded by two ex-Facebook staff to help tech companies create more welcoming spaces, lost control of its own culture &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240530/p8#a240530p8)
+ - [Is Google Photos about to turn into a social network of sorts? &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-social-network-of-sorts-apk-teardown-3446260/)
+ - [YouTube and ad blockers: Who’s in the right?](https://www.androidauthority.com/google-youtube-ad-blockers-3447190/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
