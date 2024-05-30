@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s RTX 5090 might not be the jumbo big boi we were all expecting](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5090-might-not-be-the-jumbo-big-boi-we-were-all-expecting)
- - [Today&#39;s Wordle answer for Thursday, May 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-30-2024)
- - [It Takes Two&#39;s Steam Deck update broke old cloud saves, but EA has an old-school workaround](https://www.pcgamer.com/games/action/it-takes-twos-steam-deck-update-broke-old-cloud-saves-but-ea-has-an-old-school-workaround)<!-- GAME:END -->
+ - [Players are up in arms after the WoW Mists of Pandaria: Remix team refuses to budge on the whopping 577,950 bronze cost to upgrade all your gear](https://www.pcgamer.com/games/world-of-warcraft/players-are-up-in-arms-after-the-wow-mists-of-pandaria-remix-team-refuses-to-budge-on-the-whopping-577950-bronze-cost-to-upgrade-all-your-gear)
+ - [Sony&#39;s Senior Vice President says the company&#39;s live service games will release &#39;simultaneously&#39; with PC, but single-player launches are designed to &#39;bring new players&#39; onto PS5](https://www.pcgamer.com/gaming-industry/sonys-senior-vice-president-says-the-companys-live-service-games-will-release-simultaneously-with-pc-but-single-player-launches-are-designed-to-bring-new-players-onto-ps5)
+ - [Nvidia&#39;s RTX 5090 might not be the jumbo big boi we were all expecting](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5090-might-not-be-the-jumbo-big-boi-we-were-all-expecting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
