@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US has delayed license requests from chipmakers for AI accelerator shipments to the Middle East and is worried about the tech getting diverted to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p38#a240530p38)
- - [Google rolls out a new Quick Reply feature in Gmail for Android](https://www.androidauthority.com/gmail-quick-reply-ui-3447502/)
- - [ACP ending, what are your alternatives?](https://www.androidauthority.com/acp-alternatives-3446839/)<!-- TECH:END -->
+ - [AI-powered Siri will apparently let you interact with apps using just your voice](https://www.androidauthority.com/ai-siri-ios-18-3447547/)
+ - [Perplexity will research and write reports](https://www.theverge.com/2024/5/30/24167986/perplexity-ai-research-pages-school-report)
+ - [Spotify is refunding Car Thing owners before bricking their devices](https://www.theverge.com/2024/5/30/24168081/spotify-car-thing-end-of-life-customer-refund)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
