@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - ⏩ [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
+ - 💣 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - ⏩ [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
+ - 👉 [Them eyes](http://9gag.com/gag/a9yLr0m)<!-- MEMES:END -->
 
 ---
 
