@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s ‘limits’ adds a mute button for everyone other than close friends](https://www.theverge.com/2024/5/30/24167259/instagram-limit-posts-everyone-but-close-friends)
- - [Romanian startup FintechOS, a low-code platform to help banks and insurance companies compete with neobanks, raised a $60M Series B+, after raising $60M in 2021 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240530/p10#a240530p10)
- - [Europol says police in Germany, the UK, the US, and others took down botnets that spread ransomware via infected emails, arrested four, and seized 2K+ domains &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/240530/p9#a240530p9)<!-- TECH:END -->
+ - [iOS 18 Project Greymatter will use AI to summarize notifications, articles and much more](https://appleinsider.com/articles/24/05/30/ios-18-project-greymatter-will-use-ai-to-summarize-notifications-articles-and-much-more?utm_medium=rss)
+ - [After a Cruise car hit and dragged a pedestrian, executives say they&#39;re in no rush to get back on the road, as Cruise slows its breakneck development to a crawl &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240530/p13#a240530p13)
+ - [An image showing tents in a camp spelling out &quot;All Eyes on Rafah&quot; hits 44M+ shares on Instagram in 48 hours, likely one of the first viral AI activist images &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240530/p12#a240530p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
