@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecuador Is Literally Powerless in the Face of Drought](https://www.wired.com/story/ecuador-energy-crisis-water-shortage-hydro/)
- - [Don’t close, minimize: Chrome gets Minimized Custom Tabs feature for multitasking](https://www.androidauthority.com/chrome-minimized-custom-tabs-3447494/)
- - [The absolute best apps for creating digital art on your iPad](https://appleinsider.com/inside/ipad/best/the-absolute-best-apps-for-creating-digital-art-on-your-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: US has delayed license requests from chipmakers for AI accelerator shipments to the Middle East and is worried about the tech getting diverted to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p38#a240530p38)
+ - [Google rolls out a new Quick Reply feature in Gmail for Android](https://www.androidauthority.com/gmail-quick-reply-ui-3447502/)
+ - [ACP ending, what are your alternatives?](https://www.androidauthority.com/acp-alternatives-3446839/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
