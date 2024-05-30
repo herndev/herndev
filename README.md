@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [ASUS ROG Ally X specs may have leaked in full just ahead of reveal event](https://www.androidauthority.com/asus-rog-ally-x-retail-leak-3447427/)
- - [Auction house Christie&#39;s alerts the FBI and UK police about the hack that hobbled its website earlier this month, and begins telling clients of compromised data &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240530/p30#a240530p30)<!-- TECH:END -->
+ - [T-Mobile celebrates eight years of T-Mobile Tuesdays with major prizes and new perks](https://www.androidauthority.com/tmobile-tuesdays-anniversary-3447498/)
+ - [Sources: the US is probing whether chip-equipment maker Ronda Korea has been selling parts using tech made by US&#39; Lam Research to sanctioned Chinese companies &lpar;The Information&rpar;](http://www.techmeme.com/240530/p34#a240530p34)
+ - [Save up to $520 on Sonos speakers, soundbars &amp; subwoofers to use with Apple Music](https://appleinsider.com/articles/24/05/30/save-up-to-520-on-sonos-speakers-soundbars-subwoofers-to-use-with-apple-music?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
