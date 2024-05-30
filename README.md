@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 Things We Just Learned About Sony’s Big PlayStation 5 Plans](https://kotaku.com/ps5-pc-release-date-ports-mobile-ps-plus-1851510271)
- - [The best Modern Warfare 3 guns to use in Season 4](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
- - [Valorant To Its Most Toxic Players: &#39;Please Play Something Else, We Won&#39;t Miss You&#39;](https://kotaku.com/valorant-voice-chat-abuse-hardware-ban-riot-games-1851510233)<!-- GAME:END -->
+ - [Here Are The Donald Trump Hush Money Verdicts](https://kotaku.com/trump-verdict-guilty-hush-money-trial-phoenix-wright-1851510635)
+ - [Anya Taylor-Joy walked off the Furiosa set with her favorite prop](https://www.polygon.com/24162575/anya-taylor-joy-furiosa-souvenir-prop-prosthetic-arm-chris-hemsworth)
+ - [Where to unlock all extra trials in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24167962/extra-trials-bonus-optional-where-to-unlock-quests-starting-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
