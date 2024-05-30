@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Moto G Stylus 5G &lpar;2024&rpar; review: Should you buy it?](https://www.androidauthority.com/motorola-moto-g-stylus-5g-2024-review-3445322/)
- - [Netflix is making an animated Minecraft show](https://www.theverge.com/2024/5/30/24167317/netflix-minecraft-animated-series-microsoft-mojang)
- - [Alexa’s Fire TV search has a new AI, but it needs some work](https://www.theverge.com/24167294/amazon-ai-powered-search-fire-tv-alexa-hands-on)<!-- TECH:END -->
+ - [How to watch Sony’s PlayStation State of Play](https://www.theverge.com/2024/5/30/24167237/playstation-state-of-play-may-2024-how-to-watch)
+ - [Today I learned there is a messaging service in Google Maps, and now it’s going away](https://www.theverge.com/2024/5/30/24167789/til-google-maps-business-messaging-service-shut-down)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
