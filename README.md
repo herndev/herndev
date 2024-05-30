@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US lawmakers express ‘serious concern’ to NLRB about fired Google contractors](https://www.theverge.com/2024/5/30/24167490/google-cognizant-youtube-music-contractors-fired-nlrb-complaint)
- - [Sonos smart speakers and soundbars are up to 25 percent off for Father’s Day](https://www.theverge.com/2024/5/30/24166558/sonos-smart-speaker-soundbar-era-move-beam-arc-deal-sale)
- - [Amazon’s Prime Air delivery drones can fly even farther after FAA approval](https://www.theverge.com/2024/5/30/24167776/amazon-prime-air-delivery-drones-faa-bvlos-approval)<!-- TECH:END -->
+ - [Microsoft needs Windows developers like never before](https://www.theverge.com/24167921/microsoft-windows-developers-build-2024-ai-push)
+ - [Google Home finally gets a widget](https://www.theverge.com/2024/5/30/24167814/google-home-favorites-widget-now-available)
+ - [Google lets you edit sent Messages in latest Android feature drop](https://www.theverge.com/2024/5/30/24167743/android-updates-edit-sent-google-messages-wearos-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
