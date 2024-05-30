@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The new California](http://9gag.com/gag/aMVrw5X)
- - ⏩ [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
+ - 💣 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - ⏩ [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
 
 ---
 
