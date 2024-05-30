@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women logic](http://9gag.com/gag/aD23oE7)
- - ⏩ [The fastest deescalation in human history](http://9gag.com/gag/aMVrGxP)
- - 👉 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)<!-- MEMES:END -->
+ - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - ⏩ [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
 
 ---
 
