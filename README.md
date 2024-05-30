@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Integrity Institute, a nonprofit founded by two ex-Facebook staff to help tech companies create more welcoming spaces, lost control of its own culture &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240530/p8#a240530p8)
- - [Is Google Photos about to turn into a social network of sorts? &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-social-network-of-sorts-apk-teardown-3446260/)
- - [YouTube and ad blockers: Who’s in the right?](https://www.androidauthority.com/google-youtube-ad-blockers-3447190/)<!-- TECH:END -->
+ - [Instagram’s ‘limits’ adds a mute button for everyone other than close friends](https://www.theverge.com/2024/5/30/24167259/instagram-limit-posts-everyone-but-close-friends)
+ - [Romanian startup FintechOS, a low-code platform to help banks and insurance companies compete with neobanks, raised a $60M Series B+, after raising $60M in 2021 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240530/p10#a240530p10)
+ - [Europol says police in Germany, the UK, the US, and others took down botnets that spread ransomware via infected emails, arrested four, and seized 2K+ domains &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/240530/p9#a240530p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
