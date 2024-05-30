@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
- - ⏩ [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - 👉 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)<!-- MEMES:END -->
+ - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - ⏩ [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 👉 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)<!-- MEMES:END -->
 
 ---
 
