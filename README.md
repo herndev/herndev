@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile celebrates eight years of T-Mobile Tuesdays with major prizes and new perks](https://www.androidauthority.com/tmobile-tuesdays-anniversary-3447498/)
- - [Sources: the US is probing whether chip-equipment maker Ronda Korea has been selling parts using tech made by US&#39; Lam Research to sanctioned Chinese companies &lpar;The Information&rpar;](http://www.techmeme.com/240530/p34#a240530p34)
- - [Save up to $520 on Sonos speakers, soundbars &amp; subwoofers to use with Apple Music](https://appleinsider.com/articles/24/05/30/save-up-to-520-on-sonos-speakers-soundbars-subwoofers-to-use-with-apple-music?utm_medium=rss)<!-- TECH:END -->
+ - [Ecuador Is Literally Powerless in the Face of Drought](https://www.wired.com/story/ecuador-energy-crisis-water-shortage-hydro/)
+ - [Don’t close, minimize: Chrome gets Minimized Custom Tabs feature for multitasking](https://www.androidauthority.com/chrome-minimized-custom-tabs-3447494/)
+ - [The absolute best apps for creating digital art on your iPad](https://appleinsider.com/inside/ipad/best/the-absolute-best-apps-for-creating-digital-art-on-your-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
