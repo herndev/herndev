@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Sony’s PlayStation State of Play](https://www.theverge.com/2024/5/30/24167237/playstation-state-of-play-may-2024-how-to-watch)
- - [Today I learned there is a messaging service in Google Maps, and now it’s going away](https://www.theverge.com/2024/5/30/24167789/til-google-maps-business-messaging-service-shut-down)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
+ - [US lawmakers express ‘serious concern’ to NLRB about fired Google contractors](https://www.theverge.com/2024/5/30/24167490/google-cognizant-youtube-music-contractors-fired-nlrb-complaint)
+ - [Sonos smart speakers and soundbars are up to 25 percent off for Father’s Day](https://www.theverge.com/2024/5/30/24166558/sonos-smart-speaker-soundbar-era-move-beam-arc-deal-sale)
+ - [Amazon’s Prime Air delivery drones can fly even farther after FAA approval](https://www.theverge.com/2024/5/30/24167776/amazon-prime-air-delivery-drones-faa-bvlos-approval)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
