@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
- - ⏩ [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 👉 [The new California](http://9gag.com/gag/aMVrw5X)<!-- MEMES:END -->
+ - 💣 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - ⏩ [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 ---
 
