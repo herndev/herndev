@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 Project Greymatter will use AI to summarize notifications, articles and much more](https://appleinsider.com/articles/24/05/30/ios-18-project-greymatter-will-use-ai-to-summarize-notifications-articles-and-much-more?utm_medium=rss)
- - [After a Cruise car hit and dragged a pedestrian, executives say they&#39;re in no rush to get back on the road, as Cruise slows its breakneck development to a crawl &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240530/p13#a240530p13)
- - [An image showing tents in a camp spelling out &quot;All Eyes on Rafah&quot; hits 44M+ shares on Instagram in 48 hours, likely one of the first viral AI activist images &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240530/p12#a240530p12)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
+ - [SEC filing: Salespeople paid $419M, including $374M in cash, to buy commission management service Spiff in a deal announced in December 2023; Spiff raised $110M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240530/p15#a240530p15)
+ - [Netflix’s upcoming HDR toggle might save your movie experience &lpar;APK teardown&rpar;](https://www.androidauthority.com/netflix-hdr-toggle-android-app-apk-teardown-3447290/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
