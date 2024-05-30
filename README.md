@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - 💣 [Women logic](http://9gag.com/gag/aD23oE7)
  - ⏩ [The fastest deescalation in human history](http://9gag.com/gag/aMVrGxP)
- - 👉 [Fever dream](http://9gag.com/gag/aPA4DeP)<!-- MEMES:END -->
+ - 👉 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)<!-- MEMES:END -->
 
 ---
 
