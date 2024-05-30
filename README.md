@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft needs Windows developers like never before](https://www.theverge.com/24167921/microsoft-windows-developers-build-2024-ai-push)
- - [Google Home finally gets a widget](https://www.theverge.com/2024/5/30/24167814/google-home-favorites-widget-now-available)
- - [Google lets you edit sent Messages in latest Android feature drop](https://www.theverge.com/2024/5/30/24167743/android-updates-edit-sent-google-messages-wearos-smart-home)<!-- TECH:END -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [ASUS ROG Ally X specs may have leaked in full just ahead of reveal event](https://www.androidauthority.com/asus-rog-ally-x-retail-leak-3447427/)
+ - [Auction house Christie&#39;s alerts the FBI and UK police about the hack that hobbled its website earlier this month, and begins telling clients of compromised data &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240530/p30#a240530p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
