@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - ⏩ [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
+ - ⏩ [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 👉 [Let me use that line](http://9gag.com/gag/aKGPBx6)<!-- MEMES:END -->
 
 ---
 
