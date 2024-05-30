@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players are up in arms after the WoW Mists of Pandaria: Remix team refuses to budge on the whopping 577,950 bronze cost to upgrade all your gear](https://www.pcgamer.com/games/world-of-warcraft/players-are-up-in-arms-after-the-wow-mists-of-pandaria-remix-team-refuses-to-budge-on-the-whopping-577950-bronze-cost-to-upgrade-all-your-gear)
- - [Sony&#39;s Senior Vice President says the company&#39;s live service games will release &#39;simultaneously&#39; with PC, but single-player launches are designed to &#39;bring new players&#39; onto PS5](https://www.pcgamer.com/gaming-industry/sonys-senior-vice-president-says-the-companys-live-service-games-will-release-simultaneously-with-pc-but-single-player-launches-are-designed-to-bring-new-players-onto-ps5)
- - [Nvidia&#39;s RTX 5090 might not be the jumbo big boi we were all expecting](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5090-might-not-be-the-jumbo-big-boi-we-were-all-expecting)<!-- GAME:END -->
+ - [Dungeons of Hinterberg Captures True Vacation Vibes &lpar;With Added Monster Slaying&rpar;](https://news.xbox.com/en-us/2024/05/30/dungeons-of-hinterberg-hands-on-preview/)
+ - [Helldivers 2 may have triggered a wave of bans for 20,000 Russian and Belarusian Steam accounts](https://www.pcgamer.com/hardware/helldivers-2-may-have-triggered-a-wave-of-bans-for-20000-russian-and-belarusian-steam-accounts)
+ - [Players are up in arms after the WoW Mists of Pandaria: Remix team refuses to budge on the whopping 577,950 bronze cost to upgrade all your gear](https://www.pcgamer.com/games/world-of-warcraft/players-are-up-in-arms-after-the-wow-mists-of-pandaria-remix-team-refuses-to-budge-on-the-whopping-577950-bronze-cost-to-upgrade-all-your-gear)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
