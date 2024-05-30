@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
- - ⏩ [An eagle raised by chickens will thinks like a chicken.](http://9gag.com/gag/ary4NZ6)
- - 👉 [That damned smile.](http://9gag.com/gag/ae90YLv)<!-- MEMES:END -->
+ - 💣 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - ⏩ [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 
