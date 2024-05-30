@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave Spanish Women Speaks Out About The Decivilization Of Spain And The Imported Mass Crimes.](http://9gag.com/gag/aE01YVn)
- - ⏩ [That damned smile.](http://9gag.com/gag/ae90YLv)
- - 👉 [What&#39;s European in Arabic?](http://9gag.com/gag/aD23joN)<!-- MEMES:END -->
+ - 💣 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - ⏩ [The fastest deescalation in human history](http://9gag.com/gag/aMVrGxP)
+ - 👉 [Fever dream](http://9gag.com/gag/aPA4DeP)<!-- MEMES:END -->
 
 ---
 
