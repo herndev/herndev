@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons of Hinterberg Captures True Vacation Vibes &lpar;With Added Monster Slaying&rpar;](https://news.xbox.com/en-us/2024/05/30/dungeons-of-hinterberg-hands-on-preview/)
- - [Helldivers 2 may have triggered a wave of bans for 20,000 Russian and Belarusian Steam accounts](https://www.pcgamer.com/hardware/helldivers-2-may-have-triggered-a-wave-of-bans-for-20000-russian-and-belarusian-steam-accounts)
- - [Players are up in arms after the WoW Mists of Pandaria: Remix team refuses to budge on the whopping 577,950 bronze cost to upgrade all your gear](https://www.pcgamer.com/games/world-of-warcraft/players-are-up-in-arms-after-the-wow-mists-of-pandaria-remix-team-refuses-to-budge-on-the-whopping-577950-bronze-cost-to-upgrade-all-your-gear)<!-- GAME:END -->
+ - [How Still Wakes the Deep Makes You Care for a Doomed Crew](https://news.xbox.com/en-us/2024/05/30/still-wakes-the-deep-care-for-a-doomed-crew/)
+ - [How WWE became the biggest summer blockbuster of the year](https://www.polygon.com/24166579/wwe-wrestling-explainer-why-rock-summer-event-big)
+ - [One of Larian Studios&#39; next games has a codename—Excalibur, though &#39;if we&#39;re brutally honest, we&#39;re trying to figure out what the hell it is&#39;, says Swen Vincke](https://www.pcgamer.com/games/rpg/one-of-larian-studios-next-games-has-a-codenameexcalibur-though-if-were-brutally-honest-were-trying-to-figure-out-what-the-hell-it-is-says-swen-vincke)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
