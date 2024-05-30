@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [iFixit has cancelled its Samsung &#39;Galaxy of Repair&#39; partnership criticising the company&#39;s commitment: &#39;We tried to make this work. Gosh, we tried&#39;](https://www.pcgamer.com/hardware/ifixit-has-cancelled-its-samsung-galaxy-of-repair-partnership-criticising-the-companys-commitment-we-tried-to-make-this-work-gosh-we-tried)
- - [Today&#39;s GPUs are supremely capable and graphics in the latest games are utterly spectacular, so why do I not get the same wow factor that I got 26 years ago?](https://www.pcgamer.com/hardware/todays-gpus-are-supremely-capable-and-graphics-in-the-latest-games-are-utterly-spectacular-so-why-do-i-not-get-the-same-wow-factor-that-i-got-26-years-ago)
- - [Netflix is making a Minecraft animated series](https://www.polygon.com/24167807/minecraft-netflix-animated-series-tv-show)<!-- GAME:END -->
+ - [Free Play Days – Call of Duty Modern Warfare III &lpar;Multiplayer/Zombies Only&rpar;, Skull and Bones, Assetto Corsa Competizione and Dragon Ball Xenoverse 2](https://news.xbox.com/en-us/2024/05/30/free-play-days-call-of-duty-modern-warfare-iii-skull-and-bones-assetto-corsa-competizione-and-dragon-ball-xenoverse-2/)
+ - [Every Video Game Showcase Happening During Not-E3 And Summer Game Fest 2024](https://kotaku.com/e3-summer-game-fest-2024-conference-streaming-when-date-1851507950)
+ - [The best thing about this retro fantasy RPG is that I keep forgetting it&#39;s actually Lovecraftian horror](https://www.pcgamer.com/games/rpg/the-best-thing-about-this-retro-fantasy-rpg-is-that-i-keep-forgetting-its-actually-lovecraftian-horror)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
