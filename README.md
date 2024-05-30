@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of May 30](https://www.polygon.com/gta-online-guides/2024/5/30/24167876/may-30-weekly-update-events-benefactor)
- - [Ex-Bank Robber&#39;s New Heist: Scamming Pokémon Card Buyers For Millions](https://kotaku.com/pokemon-card-scam-anthony-curcio-washington-1851509077)
- - [Sony accidentally leaks the whole of Destiny 2&#39;s latest expansion, as its game streaming service let players access The Final Shape days before launch](https://www.pcgamer.com/games/fps/sony-accidentally-leaks-the-whole-of-destiny-2s-latest-expansion-as-its-game-streaming-service-let-players-access-the-final-shape-days-before-launch)<!-- GAME:END -->
+ - [Dream Racehorse Training Game Pocket Stables is Out Now on Xbox](https://news.xbox.com/en-us/2024/05/30/dream-racehorse-training-game-pocket-stables-is-out-now-on-xbox/)
+ - [Baldur&#39;s Gate 3 Dev&#39;s New Game Still Mostly &#39;Ideas&#39; And &#39;Fragments&#39;](https://kotaku.com/baldurs-gate-3-larian-studios-next-game-excalibur-1851509450)
+ - [The Rogue Prince of Persia is a promising start with unfavorable odds](https://www.polygon.com/reviews/24167461/the-rogue-prince-of-persia-review-early-access-dead-cells)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
