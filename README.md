@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
- - ⏩ [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
+ - 💣 [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
+ - ⏩ [The pain](http://9gag.com/gag/aW4WqL4)
  - 👉 [Them eyes](http://9gag.com/gag/a9yLr0m)<!-- MEMES:END -->
 
 ---
