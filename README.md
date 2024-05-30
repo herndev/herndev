@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
- - [SEC filing: Salespeople paid $419M, including $374M in cash, to buy commission management service Spiff in a deal announced in December 2023; Spiff raised $110M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240530/p15#a240530p15)
- - [Netflix’s upcoming HDR toggle might save your movie experience &lpar;APK teardown&rpar;](https://www.androidauthority.com/netflix-hdr-toggle-android-app-apk-teardown-3447290/)<!-- TECH:END -->
+ - [Motorola Moto G Stylus 5G &lpar;2024&rpar; review: Should you buy it?](https://www.androidauthority.com/motorola-moto-g-stylus-5g-2024-review-3445322/)
+ - [Netflix is making an animated Minecraft show](https://www.theverge.com/2024/5/30/24167317/netflix-minecraft-animated-series-microsoft-mojang)
+ - [Alexa’s Fire TV search has a new AI, but it needs some work](https://www.theverge.com/24167294/amazon-ai-powered-search-fire-tv-alexa-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
