@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Call of Duty Modern Warfare III &lpar;Multiplayer/Zombies Only&rpar;, Skull and Bones, Assetto Corsa Competizione and Dragon Ball Xenoverse 2](https://news.xbox.com/en-us/2024/05/30/free-play-days-call-of-duty-modern-warfare-iii-skull-and-bones-assetto-corsa-competizione-and-dragon-ball-xenoverse-2/)
- - [Every Video Game Showcase Happening During Not-E3 And Summer Game Fest 2024](https://kotaku.com/e3-summer-game-fest-2024-conference-streaming-when-date-1851507950)
- - [The best thing about this retro fantasy RPG is that I keep forgetting it&#39;s actually Lovecraftian horror](https://www.pcgamer.com/games/rpg/the-best-thing-about-this-retro-fantasy-rpg-is-that-i-keep-forgetting-its-actually-lovecraftian-horror)<!-- GAME:END -->
+ - [GTA Online update for the week of May 30](https://www.polygon.com/gta-online-guides/2024/5/30/24167876/may-30-weekly-update-events-benefactor)
+ - [Ex-Bank Robber&#39;s New Heist: Scamming Pokémon Card Buyers For Millions](https://kotaku.com/pokemon-card-scam-anthony-curcio-washington-1851509077)
+ - [Sony accidentally leaks the whole of Destiny 2&#39;s latest expansion, as its game streaming service let players access The Final Shape days before launch](https://www.pcgamer.com/games/fps/sony-accidentally-leaks-the-whole-of-destiny-2s-latest-expansion-as-its-game-streaming-service-let-players-access-the-final-shape-days-before-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
