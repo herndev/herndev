@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to connect just about any vintage Mac to a modern monitor](https://appleinsider.com/inside/mac/tips/how-to-connect-just-about-any-vintage-mac-to-a-modern-monitor?utm_medium=rss)
- - [The US Army awards Palantir a $480M contract for work on Maven Smart System, which uses AI and computer vision to help soldiers identify targets, through 2029 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240529/p40#a240529p40)
- - [Verizon and satellite provider AST SpaceMobile partner to provide space-based broadband service direct to phones; Verizon committed $100M as part of the deal &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240529/p39#a240529p39)<!-- TECH:END -->
+ - [Natural Cycles, an FDA-cleared birth control app with ~3M users, raised a $55M Series C led by Lauxera Capital Partners, bringing its total funding to $95M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240529/p43#a240529p43)
+ - [AICore update that brings Gemini Nano to the Pixel 8 is now rolling out](https://www.androidauthority.com/google-pixel-8-gemini-nano-aicore-update-rolling-out-3447239/)
+ - [Meta removed hundreds of Facebook accounts linked to influence campaigns from China, Israel, Iran, and more, some of which used AI to generate disinformation &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240529/p42#a240529p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
