@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon and satellite provider AST SpaceMobile partner to provide space-based broadband service direct to phones; Verizon committed $100M as part of the deal &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240529/p39#a240529p39)
- - [In a risk assessment, the US Treasury says NFTs are &quot;highly susceptible to use in fraud and scams&quot; and NFT platforms lack controls to combat money laundering &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240529/p38#a240529p38)
- - [Apple and OpenAI allegedly reach deal to bring ChatGPT functionality to iOS 18](https://appleinsider.com/articles/24/05/30/apple-and-openai-allegedly-reach-deal-to-bring-chatgpt-functionality-to-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [How to connect just about any vintage Mac to a modern monitor](https://appleinsider.com/inside/mac/tips/how-to-connect-just-about-any-vintage-mac-to-a-modern-monitor?utm_medium=rss)
+ - [The US Army awards Palantir a $480M contract for work on Maven Smart System, which uses AI and computer vision to help soldiers identify targets, through 2029 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240529/p40#a240529p40)
+ - [Verizon and satellite provider AST SpaceMobile partner to provide space-based broadband service direct to phones; Verizon committed $100M as part of the deal &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240529/p39#a240529p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
