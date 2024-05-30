@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After 13 Years, Test Drive Unlimited Makes its Grand Return](https://news.xbox.com/en-us/2024/05/30/test-drive-unlimited-solar-crown/)
- - [League of Legends fans are flabbergasted at a new $500 Ahri skin](https://www.polygon.com/24167467/league-of-legends-risen-legend-ahri-bundle-fan-reaction)
- - [Spoil your pet with our staff-approved accessories, toys, and treats for your favorite familiar](https://www.polygon.com/deals/24167387/pets-dogs-cats-gifts-gadgets-accessories)<!-- GAME:END -->
+ - [Lorelei And The Laser Eyes’ Best Moment Is Straight Out Of Resident Evil](https://kotaku.com/lorelei-and-the-laser-eyes-resident-evil-broken-window-1851510139)
+ - [When does The Final Shape raid release in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24137236/final-shape-raid-salvation-edge-release-date-start-time)
+ - [The next Minecraft update adds trials chambers, due to arrive June 13](https://www.polygon.com/24168066/minecraft-tricky-trials-update-mace-bogged-breeze-chambers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
