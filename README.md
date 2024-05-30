@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon and satellite provider AST SpaceMobile partner to provide space-based broadband service direct to phones; Verizon committed $100M as part of the deal &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240529/p39#a240529p39)
  - [In a risk assessment, the US Treasury says NFTs are &quot;highly susceptible to use in fraud and scams&quot; and NFT platforms lack controls to combat money laundering &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240529/p38#a240529p38)
- - [Apple and OpenAI allegedly reach deal to bring ChatGPT functionality to iOS 18](https://appleinsider.com/articles/24/05/30/apple-and-openai-allegedly-reach-deal-to-bring-chatgpt-functionality-to-ios-18?utm_medium=rss)
- - [Researchers: an ex-Florida deputy sheriff who received asylum in Russia has built a network of 160+ fake news sites with the help of ChatGPT and other AI tools &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/240529/p37#a240529p37)<!-- TECH:END -->
+ - [Apple and OpenAI allegedly reach deal to bring ChatGPT functionality to iOS 18](https://appleinsider.com/articles/24/05/30/apple-and-openai-allegedly-reach-deal-to-bring-chatgpt-functionality-to-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
