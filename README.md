@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - ⏩ [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
+ - 💣 [Brave Spanish Women Speaks Out About The Decivilization Of Spain And The Imported Mass Crimes.](http://9gag.com/gag/aE01YVn)
+ - ⏩ [That damned smile.](http://9gag.com/gag/ae90YLv)
+ - 👉 [What&#39;s European in Arabic?](http://9gag.com/gag/aD23joN)<!-- MEMES:END -->
 
 ---
 
