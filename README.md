@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lorelei And The Laser Eyes’ Best Moment Is Straight Out Of Resident Evil](https://kotaku.com/lorelei-and-the-laser-eyes-resident-evil-broken-window-1851510139)
- - [When does The Final Shape raid release in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24137236/final-shape-raid-salvation-edge-release-date-start-time)
- - [The next Minecraft update adds trials chambers, due to arrive June 13](https://www.polygon.com/24168066/minecraft-tricky-trials-update-mace-bogged-breeze-chambers)<!-- GAME:END -->
+ - [7 Things We Just Learned About Sony’s Big PlayStation 5 Plans](https://kotaku.com/ps5-pc-release-date-ports-mobile-ps-plus-1851510271)
+ - [The best Modern Warfare 3 guns to use in Season 4](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
+ - [Valorant To Its Most Toxic Players: &#39;Please Play Something Else, We Won&#39;t Miss You&#39;](https://kotaku.com/valorant-voice-chat-abuse-hardware-ban-riot-games-1851510233)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
