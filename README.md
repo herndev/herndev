@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - ⏩ [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
+ - 💣 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
+ - ⏩ [An eagle raised by chickens will thinks like a chicken.](http://9gag.com/gag/ary4NZ6)
+ - 👉 [That damned smile.](http://9gag.com/gag/ae90YLv)<!-- MEMES:END -->
 
 ---
 
