@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-powered Siri will apparently let you interact with apps using just your voice](https://www.androidauthority.com/ai-siri-ios-18-3447547/)
- - [Perplexity will research and write reports](https://www.theverge.com/2024/5/30/24167986/perplexity-ai-research-pages-school-report)
- - [Spotify is refunding Car Thing owners before bricking their devices](https://www.theverge.com/2024/5/30/24168081/spotify-car-thing-end-of-life-customer-refund)<!-- TECH:END -->
+ - [Scuf’s Nomad controller for iPhone has full-size drift-free sticks at a competitive price](https://www.theverge.com/2024/5/30/24168172/scuf-nomad-iphone-mobile-controller-hall-effect-specs-price)
+ - [MediaTek’s latest chip could be good news for fans of flip-style foldables](https://www.androidauthority.com/dimensity-7300x-flip-foldables-3447548/)
+ - [Windows adds suggested replies to Phone Link for Android](https://www.theverge.com/2024/5/30/24168171/windows-phone-link-android-suggested-replies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
