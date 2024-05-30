@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Master Humanity: 7 Essential Tips for Saving Mankind](https://news.xbox.com/en-us/2024/05/30/humanity-7-essential-tips-for-saving-mankind/)
- - [Life Eater is a time management horror game where I’m the monster](https://www.polygon.com/24167967/life-eater-strange-scaffold-stalking-horror-game)
- - [Destiny 2 Suffers Massive Leak Ahead Of The Final Shape After PS5 Players Access The Expansion Early [Update]](https://kotaku.com/destiny-2-final-shape-leak-spoiler-ps5-1851508706)<!-- GAME:END -->
+ - [After 13 Years, Test Drive Unlimited Makes its Grand Return](https://news.xbox.com/en-us/2024/05/30/test-drive-unlimited-solar-crown/)
+ - [League of Legends fans are flabbergasted at a new $500 Ahri skin](https://www.polygon.com/24167467/league-of-legends-risen-legend-ahri-bundle-fan-reaction)
+ - [Spoil your pet with our staff-approved accessories, toys, and treats for your favorite familiar](https://www.polygon.com/deals/24167387/pets-dogs-cats-gifts-gadgets-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
