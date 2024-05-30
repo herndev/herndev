@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, May 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-30-2024)
  - [It Takes Two&#39;s Steam Deck update broke old cloud saves, but EA has an old-school workaround](https://www.pcgamer.com/games/action/it-takes-twos-steam-deck-update-broke-old-cloud-saves-but-ea-has-an-old-school-workaround)
- - [After trying to branch out during the pandemic, Discord&#39;s refocusing on the 90% of users who play games: &#39;We&#39;ve recognized the need to narrow our focus&#39;](https://www.pcgamer.com/software/platforms/after-trying-to-branch-out-during-the-pandemic-discords-refocusing-on-the-90-of-users-who-play-games-weve-recognized-the-need-to-narrow-our-focus)
- - [If you love how Balatro mutates the game of poker, Dungeons &amp; Degenerate Gamblers is doing something similar to blackjack, and there&#39;s a demo you can try now](https://www.pcgamer.com/games/card-games/if-you-love-how-balatro-mutates-the-game-of-poker-dungeons-and-degenerate-gamblers-is-doing-something-similar-to-blackjack-and-theres-a-demo-you-can-try-now)<!-- GAME:END -->
+ - [After trying to branch out during the pandemic, Discord&#39;s refocusing on the 90% of users who play games: &#39;We&#39;ve recognized the need to narrow our focus&#39;](https://www.pcgamer.com/software/platforms/after-trying-to-branch-out-during-the-pandemic-discords-refocusing-on-the-90-of-users-who-play-games-weve-recognized-the-need-to-narrow-our-focus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
