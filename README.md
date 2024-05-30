@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here Are The Donald Trump Hush Money Verdicts](https://kotaku.com/trump-verdict-guilty-hush-money-trial-phoenix-wright-1851510635)
- - [Anya Taylor-Joy walked off the Furiosa set with her favorite prop](https://www.polygon.com/24162575/anya-taylor-joy-furiosa-souvenir-prop-prosthetic-arm-chris-hemsworth)
- - [Where to unlock all extra trials in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24167962/extra-trials-bonus-optional-where-to-unlock-quests-starting-locations)<!-- GAME:END -->
+ - [Now we know what Monster Hunter Wilds looks like in action](https://www.polygon.com/24168014/monster-hunter-wilds-open-world-gameplay-trailer-state-of-play)
+ - [All the biggest announcements from PlayStation’s new State of Play](https://www.polygon.com/24167434/playstation-sony-state-of-play-ps5-showcase-announcements-trailers)
+ - [Monster Hunter Wilds Shown Off At PlayStation State Of Play](https://kotaku.com/monster-hunter-wilds-state-of-play-1851510565)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
