@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
- - ⏩ [The pain](http://9gag.com/gag/aW4WqL4)
- - 👉 [Them eyes](http://9gag.com/gag/a9yLr0m)<!-- MEMES:END -->
+ - 💣 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
+ - ⏩ [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 👉 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)<!-- MEMES:END -->
 
 ---
 
