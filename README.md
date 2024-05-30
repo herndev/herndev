@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Natural Cycles, an FDA-cleared birth control app with ~3M users, raised a $55M Series C led by Lauxera Capital Partners, bringing its total funding to $95M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240529/p43#a240529p43)
- - [AICore update that brings Gemini Nano to the Pixel 8 is now rolling out](https://www.androidauthority.com/google-pixel-8-gemini-nano-aicore-update-rolling-out-3447239/)
- - [Meta removed hundreds of Facebook accounts linked to influence campaigns from China, Israel, Iran, and more, some of which used AI to generate disinformation &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240529/p42#a240529p42)<!-- TECH:END -->
+ - [Google announces plans to invest $2B in Malaysia, including building its first data center, a new Google Cloud region, and further developing AI &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/240530/p1#a240530p1)
+ - [Google’s precious Search recipe exposed in huge leak &lpar;Update: Google’s statement&rpar;](https://www.androidauthority.com/google-search-algorithm-alleged-leak-3446883/)
+ - [Samsung Messages app crashing over and over? Blame Google Meet. Here’s how to fix! &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-messages-app-crash-3447014/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
