@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s RTX 5090 might not be the jumbo big boi we were all expecting](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5090-might-not-be-the-jumbo-big-boi-we-were-all-expecting)
  - [Today&#39;s Wordle answer for Thursday, May 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-30-2024)
- - [It Takes Two&#39;s Steam Deck update broke old cloud saves, but EA has an old-school workaround](https://www.pcgamer.com/games/action/it-takes-twos-steam-deck-update-broke-old-cloud-saves-but-ea-has-an-old-school-workaround)
- - [After trying to branch out during the pandemic, Discord&#39;s refocusing on the 90% of users who play games: &#39;We&#39;ve recognized the need to narrow our focus&#39;](https://www.pcgamer.com/software/platforms/after-trying-to-branch-out-during-the-pandemic-discords-refocusing-on-the-90-of-users-who-play-games-weve-recognized-the-need-to-narrow-our-focus)<!-- GAME:END -->
+ - [It Takes Two&#39;s Steam Deck update broke old cloud saves, but EA has an old-school workaround](https://www.pcgamer.com/games/action/it-takes-twos-steam-deck-update-broke-old-cloud-saves-but-ea-has-an-old-school-workaround)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
