@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - ⏩ [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 👉 [Took her a while](http://9gag.com/gag/azxEVAN)<!-- MEMES:END -->
+ - 💣 [The new California](http://9gag.com/gag/aMVrw5X)
+ - ⏩ [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 ---
 
