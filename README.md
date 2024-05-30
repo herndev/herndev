@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Still Wakes the Deep Makes You Care for a Doomed Crew](https://news.xbox.com/en-us/2024/05/30/still-wakes-the-deep-care-for-a-doomed-crew/)
- - [How WWE became the biggest summer blockbuster of the year](https://www.polygon.com/24166579/wwe-wrestling-explainer-why-rock-summer-event-big)
- - [One of Larian Studios&#39; next games has a codename—Excalibur, though &#39;if we&#39;re brutally honest, we&#39;re trying to figure out what the hell it is&#39;, says Swen Vincke](https://www.pcgamer.com/games/rpg/one-of-larian-studios-next-games-has-a-codenameexcalibur-though-if-were-brutally-honest-were-trying-to-figure-out-what-the-hell-it-is-says-swen-vincke)<!-- GAME:END -->
+ - [iFixit has cancelled its Samsung &#39;Galaxy of Repair&#39; partnership criticising the company&#39;s commitment: &#39;We tried to make this work. Gosh, we tried&#39;](https://www.pcgamer.com/hardware/ifixit-has-cancelled-its-samsung-galaxy-of-repair-partnership-criticising-the-companys-commitment-we-tried-to-make-this-work-gosh-we-tried)
+ - [Today&#39;s GPUs are supremely capable and graphics in the latest games are utterly spectacular, so why do I not get the same wow factor that I got 26 years ago?](https://www.pcgamer.com/hardware/todays-gpus-are-supremely-capable-and-graphics-in-the-latest-games-are-utterly-spectacular-so-why-do-i-not-get-the-same-wow-factor-that-i-got-26-years-ago)
+ - [Netflix is making a Minecraft animated series](https://www.polygon.com/24167807/minecraft-netflix-animated-series-tv-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
