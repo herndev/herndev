@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus Watch 2 broke the nerdy covenant that smartwatch crowns must scroll](https://www.theverge.com/2024/5/31/24166415/oneplus-watch-2-digital-crown-smartwatches-button-of-the-month)
- - [Best Internet Providers in Raleigh, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-raleigh-nc/#ftag=CAD590a51e)
- - [Verizon just had an outage, did it affect you?](https://www.androidauthority.com/verizon-outage-did-it-affect-you-3447655/)<!-- TECH:END -->
+ - [Windows wants Phone Link for Android to answer texts on your behalf with AI](https://www.androidauthority.com/windows-phone-link-android-ai-replies-3447682/)
+ - [Researchers claim just 2,107 US voters, mostly older, white Republican women, accounted for spreading 80% of the fake news on Twitter during the 2020 election &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240531/p2#a240531p2)
+ - [The OnePlus Watch 2 broke the nerdy covenant that smartwatch crowns must scroll](https://www.theverge.com/2024/5/31/24166415/oneplus-watch-2-digital-crown-smartwatches-button-of-the-month)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
