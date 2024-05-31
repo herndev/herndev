@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Admits Its AI Overviews Search Feature Screwed Up](https://www.wired.com/story/google-ai-overview-search-issues/)
- - [TikTok is reportedly splitting its source code to create a US-only algorithm](https://www.theverge.com/2024/5/30/24168353/tiktok-douyin-algorithm-code-splitting-bytedance-rumor)
- - [Celebrate Memorial Day With 30% Off the Leesa Sapira Chill Mattress     - CNET](https://www.cnet.com/deals/leesa-sapira-chill-hybrid-memorial-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Valar Labs, which has developed AI models to help predict bladder cancer treatment outcomes, raised a $22M Series A led by DCVC and a16z &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240530/p49#a240530p49)
+ - [AI Overviews fiasco: Google responds to backlash, promises improvements](https://www.androidauthority.com/google-ai-overviews-response-3447610/)
+ - [Google Admits Its AI Overviews Search Feature Screwed Up](https://www.wired.com/story/google-ai-overview-search-issues/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
