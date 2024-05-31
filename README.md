@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - ⏩ [Immersive gaming set.](http://9gag.com/gag/a7oy3D2)
+ - 💣 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - ⏩ [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
  - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
 
 ---
