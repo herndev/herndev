@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may add some text effects to iMessage in iOS 18](https://appleinsider.com/articles/24/05/31/apple-may-some-effects-to-text-to-imessage-in-ios-18?utm_medium=rss)
- - [New video highlights ongoing struggles between Apple and union members](https://appleinsider.com/articles/24/05/31/new-video-highlights-ongoing-struggles-between-apple-and-union-members?utm_medium=rss)
- - [Save Up to $600 Off Your Next Saatva Mattress With This Extended Memorial Day Sale     - CNET](https://www.cnet.com/deals/saatva-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google quietly retires Google One branding from its VPN ahead of June shutdown](https://www.androidauthority.com/google-one-vpn-rebranding-3447902/)
+ - [Meta is notifying Instagram and Facebook EU users that it&#39;s using their data to train its AI models, and users can opt out, &quot;if your objection is honoured&quot; &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240531/p20#a240531p20)
+ - [ElevenLabs’ AI generator makes explosions or other sound effects with just a prompt](https://www.theverge.com/2024/5/31/24168898/elevenlabs-prompt-generative-ai-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
