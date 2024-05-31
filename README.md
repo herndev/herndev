@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [End of an era: Samsung puts Tizen smartwatches on life support](https://www.androidauthority.com/samsung-tizen-smartwatches-galaxy-store-termination-schedule-3447771/)
- - [This TikTok user got conned by fake AirPods Pro, but you don&#39;t have to get fooled](https://appleinsider.com/articles/24/05/31/this-tiktok-user-got-conned-by-fake-airpods-pro-but-you-dont-have-to-get-fooled?utm_medium=rss)
- - [Download these gradient wallpapers for your phone](https://www.androidauthority.com/gradient-wallpapers-phone-3447535/)<!-- TECH:END -->
+ - [US Treasury Department will make IRS&#39; Direct File program permanent starting with the 2025 tax season and invites all states and Washington DC to participate &lpar;Axios&rpar;](http://www.techmeme.com/240531/p13#a240531p13)
+ - [The biggest findings in the Google Search leak](https://www.theverge.com/2024/5/31/24167119/google-search-algorithm-documents-leak-seo-chrome-clicks)
+ - [Temu joins Shein in facing stricter regulation in the EU](https://www.theverge.com/2024/5/31/24168603/temu-digital-services-act-eu-regulations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
