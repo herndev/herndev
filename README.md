@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is still hope](http://9gag.com/gag/aMVrANW)
- - ⏩ [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - ⏩ [Watch it in a dark place](http://9gag.com/gag/ary4go7)
  - 👉 [Best kind of prank](http://9gag.com/gag/an7KbKo)<!-- MEMES:END -->
 
 ---
