@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What to spend Legendary Shards on in Destiny 2 before they go away](https://www.polygon.com/destiny-2-guide-walkthrough/2024/5/31/24168880/legendary-shards-spend-the-final-shape)
- - [In a Violent Nature offers a grisly new perspective on slasher movies](https://www.polygon.com/24051853/in-a-violent-nature-review-horror-movie-slasher-villain)
- - [The best accessories for your Steam Deck OLED and LCD](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
+ - [GTA Publisher Take-Two Reportedly Looking To Get Rid of Indie Label Private Division](https://kotaku.com/take-two-killing-private-division-kerbal-space-program-1851513190)
+ - [Don’t Nod: Play Our Game For Free And Give Money To Trans Charities For Pride](https://kotaku.com/tell-me-why-pride-month-dont-nod-entertainment-free-1851513072)
+ - [New FPS Built Using Doom Tech Is Better Than Most AAA Shooters](https://kotaku.com/selaco-gzdoom-engine-fps-steam-review-early-access-1851513067)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
