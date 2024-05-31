@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s AI Overviews Will Always Be Broken. That&#39;s How AI Works](https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/)
- - [Startup Fable Studio announces Showrunner, a streaming service that lets users watch AI-generated series and create their own series by writing prompts &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240531/p21#a240531p21)
- - [Google quietly retires Google One branding from its VPN ahead of June shutdown](https://www.androidauthority.com/google-one-vpn-rebranding-3447902/)<!-- TECH:END -->
+ - [Sony Days of Play Sale: Consoles, Games, and More](https://www.wired.com/story/sony-days-of-play-sale-2024/)
+ - [Get a year of Peacock streaming on your Apple TV for $19.99](https://appleinsider.com/articles/24/05/31/get-a-year-of-peacock-streaming-on-your-apple-tv-for-1999?utm_medium=rss)
+ - [Best Tablet Deals: Apple, Samsung and Budget Options for Less     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
