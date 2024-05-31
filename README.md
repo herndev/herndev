@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With The Acolyte, Lucasfilm Is Done Staying Silent About Bigoted Reactions To Star Wars](https://kotaku.com/star-wars-racism-sexism-acolyte-fan-backlash-kennedy-1851511756)
- - [The New York Times Issues Court Threats To Geography Game Worldle](https://kotaku.com/wordle-new-york-times-worldle-nyt-1851511696)
- - [PlayStation Stars Campaigns and Digital Collectibles for June 2024](https://blog.playstation.com/2024/05/31/playstation-stars-campaigns-and-digital-collectibles-for-june-2024/)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for June 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Pokémon Go Spotlight Hour schedule for June 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
+ - [Pokémon Go Ditto disguises list for June 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
