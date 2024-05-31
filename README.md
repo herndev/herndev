@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scavengers Reign, a sci-fi show like no other, now gets a second shot at life on Netflix](https://www.polygon.com/24168682/scavengers-reign-netflix-sci-fi-show)
- - [Take-Two CEO Asked About GTA 6 On PC, Offers Up Silly Word Salad](https://kotaku.com/take-two-t2-ceo-zelnick-gta-6-rockstar-pc-port-xbox-ps5-1851512434)
- - [The Legally Distinct Not-Bloodborne Kart Is Out Now And Looks Incredible](https://kotaku.com/nightmare-kart-bloodborne-racer-release-1851512470)<!-- GAME:END -->
+ - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)
+ - [Final Fantasy XIV: Dawntrail Just Hinted That Players Will Go On An Anime-Style Tournament Arc](https://kotaku.com/final-fantasy-14-dawntrail-raids-field-operations-1851512773)
+ - [Scavengers Reign, a sci-fi show like no other, now gets a second shot at life on Netflix](https://www.polygon.com/24168682/scavengers-reign-netflix-sci-fi-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
