@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
- - ⏩ [Best kind of prank](http://9gag.com/gag/an7KbKo)
- - 👉 [Being single in 37](http://9gag.com/gag/agmvXr1)<!-- MEMES:END -->
+ - ⏩ [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 👉 [Best kind of prank](http://9gag.com/gag/an7KbKo)<!-- MEMES:END -->
 
 ---
 
