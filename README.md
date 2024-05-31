@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dr. Possible put him in hard place](http://9gag.com/gag/aPA49Mq)
- - ⏩ [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
+ - 💣 [Best kind of prank](http://9gag.com/gag/an7KbKo)
+ - ⏩ [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
+ - 👉 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)<!-- MEMES:END -->
 
 ---
 
