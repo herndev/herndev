@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Days of Play Sale: Consoles, Games, and More](https://www.wired.com/story/sony-days-of-play-sale-2024/)
- - [Get a year of Peacock streaming on your Apple TV for $19.99](https://appleinsider.com/articles/24/05/31/get-a-year-of-peacock-streaming-on-your-apple-tv-for-1999?utm_medium=rss)
- - [Best Tablet Deals: Apple, Samsung and Budget Options for Less     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [When is Amazon Prime Day and what are our 5 best tips to save?](https://www.androidauthority.com/amazon-prime-day-1164948/)
+ - [Global foldable phone shipments were up 49% YoY in Q1, marking its highest rate of increase in six quarters; Huawei led with a 35% share, overtaking Samsung &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240531/p22#a240531p22)
+ - [An affordable Galaxy Watch is indeed coming, official support page goes live](https://www.androidauthority.com/galaxy-watch-fe-support-page-3447923/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
