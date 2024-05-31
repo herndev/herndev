@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may some effects to text to iMessage in iOS 18](https://appleinsider.com/articles/24/05/31/apple-may-some-effects-to-text-to-imessage-in-ios-18?utm_medium=rss)
- - [iOS 18 rumored to bring new ways to jazz up your text conversations](https://www.androidauthority.com/ios-18-text-effects-imessage-3447884/)
- - [Japanese crypto exchange DMM Bitcoin says it has lost 4,502.9 bitcoin, worth about $308M, in an &quot;unauthorised leak&quot;, and is investigating the incident &lpar;Reuters&rpar;](http://www.techmeme.com/240531/p18#a240531p18)<!-- TECH:END -->
+ - [Apple may add some text effects to iMessage in iOS 18](https://appleinsider.com/articles/24/05/31/apple-may-some-effects-to-text-to-imessage-in-ios-18?utm_medium=rss)
+ - [New video highlights ongoing struggles between Apple and union members](https://appleinsider.com/articles/24/05/31/new-video-highlights-ongoing-struggles-between-apple-and-union-members?utm_medium=rss)
+ - [Save Up to $600 Off Your Next Saatva Mattress With This Extended Memorial Day Sale     - CNET](https://www.cnet.com/deals/saatva-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
