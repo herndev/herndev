@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: Google Discover and Google News are down &lpar;Update: Working again&rpar;](https://www.androidauthority.com/google-discover-google-news-service-outage-3447784/)
- - [The TP-Link Deco XE75 Pro router system hits all-time low of $219.99](https://www.androidauthority.com/tp-link-deco-xe75-pro-wi-fi-6e-mesh-system-deal-3447848/)
- - [Google plans to disable extensions built with the older Manifest V2 framework on June 3, beginning with users of Chrome&#39;s Beta, Dev, and Canary versions &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240531/p17#a240531p17)<!-- TECH:END -->
+ - [Apple may some effects to text to iMessage in iOS 18](https://appleinsider.com/articles/24/05/31/apple-may-some-effects-to-text-to-imessage-in-ios-18?utm_medium=rss)
+ - [iOS 18 rumored to bring new ways to jazz up your text conversations](https://www.androidauthority.com/ios-18-text-effects-imessage-3447884/)
+ - [Japanese crypto exchange DMM Bitcoin says it has lost 4,502.9 bitcoin, worth about $308M, in an &quot;unauthorised leak&quot;, and is investigating the incident &lpar;Reuters&rpar;](http://www.techmeme.com/240531/p18#a240531p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
