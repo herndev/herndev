@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - ⏩ [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 👉 [Best kind of prank](http://9gag.com/gag/an7KbKo)<!-- MEMES:END -->
+ - 💣 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - ⏩ [The power of sandwiches](http://9gag.com/gag/a87YprY)
+ - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
 
 ---
 
