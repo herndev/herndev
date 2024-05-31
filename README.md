@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now we know what Monster Hunter Wilds looks like in action](https://www.polygon.com/24168014/monster-hunter-wilds-open-world-gameplay-trailer-state-of-play)
- - [All the biggest announcements from PlayStation’s new State of Play](https://www.polygon.com/24167434/playstation-sony-state-of-play-ps5-showcase-announcements-trailers)
- - [Monster Hunter Wilds Shown Off At PlayStation State Of Play](https://kotaku.com/monster-hunter-wilds-state-of-play-1851510565)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Concord gameplay revealed, launching August 24, 2024 on PS5 and PC](https://blog.playstation.com/2024/05/30/20240531-concord/)
+ - [Everything revealed in the May 2024 State of Play](https://blog.playstation.com/2024/05/30/everything-revealed-in-the-may-2024-state-of-play/)
+ - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
