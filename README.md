@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - ⏩ [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
+ - 💣 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
+ - ⏩ [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
+ - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
 
 ---
 
