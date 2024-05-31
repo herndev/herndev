@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Government data: South Korea&#39;s chip inventories fell 33.7% YoY in April, largest drop since 2014, underscoring the pace at which demand is outstripping supply &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240530/p50#a240530p50)
- - [The Legend of Zelda: Majora’s Mask can now natively run on Android thanks to an unofficial port](https://www.androidauthority.com/majoras-mask-ocarina-of-time-android-3447596/)
- - [How to set up and manage a guest user to your Mac](https://appleinsider.com/inside/mac/tips/how-to-set-up-and-manage-a-guest-user-to-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon just had an outage, did it affect you?](https://www.androidauthority.com/verizon-outage-did-it-affect-you-3447655/)
+ - [A look at the different approaches to AI integration and modularization taken by Google, AWS, Microsoft, Nvidia, Meta, and Databricks, and the implications &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240531/p1#a240531p1)
+ - [Over 600K Routers Were Hacked in Three Days Late Last Year. Here’s What Happened and How We Can Learn From It     - CNET](https://www.cnet.com/home/internet/over-600k-routers-were-hacked-in-three-days-late-last-year-heres-what-happened-and-how-we-can-learn-from-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
