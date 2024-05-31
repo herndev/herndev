@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google quietly retires Google One branding from its VPN ahead of June shutdown](https://www.androidauthority.com/google-one-vpn-rebranding-3447902/)
- - [Meta is notifying Instagram and Facebook EU users that it&#39;s using their data to train its AI models, and users can opt out, &quot;if your objection is honoured&quot; &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240531/p20#a240531p20)
- - [ElevenLabs’ AI generator makes explosions or other sound effects with just a prompt](https://www.theverge.com/2024/5/31/24168898/elevenlabs-prompt-generative-ai-content)<!-- TECH:END -->
+ - [Google&#39;s AI Overviews Will Always Be Broken. That&#39;s How AI Works](https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/)
+ - [Startup Fable Studio announces Showrunner, a streaming service that lets users watch AI-generated series and create their own series by writing prompts &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240531/p21#a240531p21)
+ - [Google quietly retires Google One branding from its VPN ahead of June shutdown](https://www.androidauthority.com/google-one-vpn-rebranding-3447902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
