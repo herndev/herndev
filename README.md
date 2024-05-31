@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valar Labs, which has developed AI models to help predict bladder cancer treatment outcomes, raised a $22M Series A led by DCVC and a16z &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240530/p49#a240530p49)
- - [AI Overviews fiasco: Google responds to backlash, promises improvements](https://www.androidauthority.com/google-ai-overviews-response-3447610/)
- - [Google Admits Its AI Overviews Search Feature Screwed Up](https://www.wired.com/story/google-ai-overview-search-issues/)<!-- TECH:END -->
+ - [Government data: South Korea&#39;s chip inventories fell 33.7% YoY in April, largest drop since 2014, underscoring the pace at which demand is outstripping supply &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240530/p50#a240530p50)
+ - [The Legend of Zelda: Majora’s Mask can now natively run on Android thanks to an unofficial port](https://www.androidauthority.com/majoras-mask-ocarina-of-time-android-3447596/)
+ - [How to set up and manage a guest user to your Mac](https://appleinsider.com/inside/mac/tips/how-to-set-up-and-manage-a-guest-user-to-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
