@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Organic Mattresses, Toppers, Bedding &lpar;2024&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)
- - [New emoji in iOS 18, iPad Pro, and patented Apple Store trees, on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/31/new-emoji-in-ios-18-ipad-pro-and-patented-apple-store-trees-on-the-appleinsider-podcast?utm_medium=rss)
- - [Microsoft Recall Alternatives That Remember Everything on Your Screen: Windrecorder, Rewind](https://www.wired.com/story/microsoft-recall-alternatives/)<!-- TECH:END -->
+ - [End of an era: Samsung puts Tizen smartwatches on life support](https://www.androidauthority.com/samsung-tizen-smartwatches-galaxy-store-termination-schedule-3447771/)
+ - [This TikTok user got conned by fake AirPods Pro, but you don&#39;t have to get fooled](https://appleinsider.com/articles/24/05/31/this-tiktok-user-got-conned-by-fake-airpods-pro-but-you-dont-have-to-get-fooled?utm_medium=rss)
+ - [Download these gradient wallpapers for your phone](https://www.androidauthority.com/gradient-wallpapers-phone-3447535/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
