@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
  - ⏩ [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
+ - 👉 [They found out](http://9gag.com/gag/a2vY4E1)<!-- MEMES:END -->
 
 ---
 
