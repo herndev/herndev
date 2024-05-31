@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
- - ⏩ [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 👉 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)<!-- MEMES:END -->
+ - 💣 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - ⏩ [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 👉 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)<!-- MEMES:END -->
 
 ---
 
