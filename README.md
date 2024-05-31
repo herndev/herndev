@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MongoDB reports Q1 revenue up 22% YoY to $450.6M, vs. $439.91M est., and cuts its Q2 and FY 2025 outlook on slower Atlas demand; MDB drops 25%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240530/p45#a240530p45)
- - [Silent Hill 2’s remake hits PS5 and Steam in October](https://www.theverge.com/24168204/silent-hill-2-remake-trailer-date-ps5-steam)
- - [Trump’s Online MAGA Army Calls Guilty Verdict a Declaration of War](https://www.wired.com/story/trump-guilty-verdict-online-maga-fanbase-war/)<!-- TECH:END -->
+ - [OpenAI is hiring research engineers to rebuild its robotics team; sources: the company plans to develop tech that robot makers will integrate into their systems &lpar;Forbes&rpar;](http://www.techmeme.com/240530/p48#a240530p48)
+ - [Google defends AI search results after they told us to put glue on pizza](https://www.theverge.com/2024/5/30/24168344/google-defends-ai-overviews-search-results)
+ - [Google explains AI Overviews&#39; viral mistakes and updates its systems, including better detection of nonsensical queries and limiting satire and humor content &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240530/p47#a240530p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
