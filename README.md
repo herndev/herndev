@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Publisher Take-Two Reportedly Looking To Get Rid of Indie Label Private Division](https://kotaku.com/take-two-killing-private-division-kerbal-space-program-1851513190)
- - [Don’t Nod: Play Our Game For Free And Give Money To Trans Charities For Pride](https://kotaku.com/tell-me-why-pride-month-dont-nod-entertainment-free-1851513072)
- - [New FPS Built Using Doom Tech Is Better Than Most AAA Shooters](https://kotaku.com/selaco-gzdoom-engine-fps-steam-review-early-access-1851513067)<!-- GAME:END -->
+ - [Leaks Show Assassin&#39;s Creed And Rabbids Coming To Ubisoft&#39;s CoD-Like Shooter](https://kotaku.com/xdefiant-year-1-all-factions-leak-datamine-rabbids-maps-1851513219)
+ - [Everything we know about Infinity Nikki, the upcoming fashion RPG produced by a BOTW alum](https://www.polygon.com/24168858/love-nikki-infinity-fashion-rpg-papergames)
+ - [Catch Up On Destiny Before The Final Shape With This Short…Ten-Hour Video](https://kotaku.com/destiny-2-the-final-shape-lore-catch-up-mynameisbyf-1851513216)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
