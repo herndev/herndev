@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tiny fistbumps](http://9gag.com/gag/aYQWezw)
- - ⏩ [The pain](http://9gag.com/gag/aW4WqL4)
- - 👉 [They found out](http://9gag.com/gag/a2vY4E1)<!-- MEMES:END -->
+ - 💣 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - ⏩ [Best kind of prank](http://9gag.com/gag/an7KbKo)
+ - 👉 [Being single in 37](http://9gag.com/gag/agmvXr1)<!-- MEMES:END -->
 
 ---
 
