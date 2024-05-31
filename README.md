@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TIL that knockoff wired iPhone earbuds require Bluetooth to work :/](https://www.androidauthority.com/wired-iphone-earbuds-require-bluetooth-3447699/)
- - [STMicro announces plans to spend &amp;euro;5B on a chips manufacturing plant in Catania, Italy with the government providing &amp;euro;2B in subsidies under European Chips Act &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240531/p4#a240531p4)
- - [Sources: Tesla prepares to register its FSD with Chinese authorities as it plans a rollout in 2024 and selling the software as a monthly subscription in China &lpar;Reuters&rpar;](http://www.techmeme.com/240531/p3#a240531p3)<!-- TECH:END -->
+ - [iOS 18 Freeform app getting giant navigation &amp; object positioning upgrades](https://appleinsider.com/articles/24/05/31/ios-18-freeform-app-getting-giant-navigation-object-positioning-upgrades?utm_medium=rss)
+ - [Stripe says it will temporarily move to an invite-only model for new account sign-ups in India, as it navigates the country&#39;s evolving regulatory landscape &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240531/p7#a240531p7)
+ - [Sources: TikTok pauses plans to launch its e-commerce business in major European markets to focus on growth in the US where it&#39;s fighting a divest-or-ban law &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240531/p6#a240531p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
