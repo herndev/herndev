@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - ⏩ [It&#39;s an old one, I Apollo-gize](http://9gag.com/gag/amo05Ly)
- - 👉 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)<!-- MEMES:END -->
+ - 💣 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - ⏩ [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
 
 ---
 
