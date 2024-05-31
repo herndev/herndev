@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail codes for June 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Pokémon Go Spotlight Hour schedule for June 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
- - [Pokémon Go Ditto disguises list for June 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
+ - [Scavengers Reign, a sci-fi show like no other, now gets a second shot at life on Netflix](https://www.polygon.com/24168682/scavengers-reign-netflix-sci-fi-show)
+ - [Take-Two CEO Asked About GTA 6 On PC, Offers Up Silly Word Salad](https://kotaku.com/take-two-t2-ceo-zelnick-gta-6-rockstar-pc-port-xbox-ps5-1851512434)
+ - [The Legally Distinct Not-Bloodborne Kart Is Out Now And Looks Incredible](https://kotaku.com/nightmare-kart-bloodborne-racer-release-1851512470)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
