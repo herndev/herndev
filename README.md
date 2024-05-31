@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [The OnePlus Watch 2 broke the nerdy covenant that smartwatch crowns must scroll](https://www.theverge.com/2024/5/31/24166415/oneplus-watch-2-digital-crown-smartwatches-button-of-the-month)
- - [Verizon just had an outage, did it affect you?](https://www.androidauthority.com/verizon-outage-did-it-affect-you-3447655/)
- - [A look at the different approaches to AI integration and modularization taken by Google, AWS, Microsoft, Nvidia, Meta, and Databricks, and the implications &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240531/p1#a240531p1)<!-- TECH:END -->
+ - [Best Internet Providers in Raleigh, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-raleigh-nc/#ftag=CAD590a51e)
+ - [Verizon just had an outage, did it affect you?](https://www.androidauthority.com/verizon-outage-did-it-affect-you-3447655/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
