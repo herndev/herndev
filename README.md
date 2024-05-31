@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Your first look at Critical Role’s Caduceus Clay in his new Dark Horse comic](https://www.polygon.com/24167891/critical-role-caduceus-clay-dark-horse-comic-preview-pages)
  - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)
- - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)
- - [&lpar;For Southeast Asia&rpar; Concord gameplay revealed, launching August 24, 2024 on PS5 and PC](https://blog.playstation.com/2024/05/30/20240531-concord/)<!-- GAME:END -->
+ - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
