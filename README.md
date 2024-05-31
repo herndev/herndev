@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your first look at Critical Role’s Caduceus Clay in his new Dark Horse comic](https://www.polygon.com/24167891/critical-role-caduceus-clay-dark-horse-comic-preview-pages)
- - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)
- - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 3 to 7](https://news.xbox.com/en-us/2024/05/31/next-week-on-xbox-new-games-for-june-3-to-7/)
+ - [Share of the Week: Leap](https://blog.playstation.com/2024/05/31/share-of-the-week-leap/)
+ - [Share of the Week: Leap](https://blog.playstation.com/2024/05/31/share-of-the-week-leap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
