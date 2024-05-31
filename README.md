@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
- - ⏩ [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 👉 [Best kind of prank](http://9gag.com/gag/an7KbKo)<!-- MEMES:END -->
+ - 💣 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - ⏩ [Tiny fistbumps](http://9gag.com/gag/aYQWezw)
+ - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
 
 ---
 
