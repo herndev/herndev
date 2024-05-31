@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)
- - [Final Fantasy XIV: Dawntrail Just Hinted That Players Will Go On An Anime-Style Tournament Arc](https://kotaku.com/final-fantasy-14-dawntrail-raids-field-operations-1851512773)
- - [Scavengers Reign, a sci-fi show like no other, now gets a second shot at life on Netflix](https://www.polygon.com/24168682/scavengers-reign-netflix-sci-fi-show)<!-- GAME:END -->
+ - [What to spend Legendary Shards on in Destiny 2 before they go away](https://www.polygon.com/destiny-2-guide-walkthrough/2024/5/31/24168880/legendary-shards-spend-the-final-shape)
+ - [In a Violent Nature offers a grisly new perspective on slasher movies](https://www.polygon.com/24051853/in-a-violent-nature-review-horror-movie-slasher-villain)
+ - [The best accessories for your Steam Deck OLED and LCD](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
