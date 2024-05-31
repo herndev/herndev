@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah this seems \u2018bout right\u2026](http://9gag.com/gag/ae90eGO)
- - ⏩ [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
+ - 💣 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
+ - ⏩ [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
+ - 👉 [The power of sandwiches](http://9gag.com/gag/a87YprY)<!-- MEMES:END -->
 
 ---
 
