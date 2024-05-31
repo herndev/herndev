@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows on Arm and Copilot Plus could be big for PC gaming](https://www.theverge.com/2024/5/31/24168566/windows-arm-copilot-plus-gaming-pcs-handhelds)
- - [ElevenLabs launches Sound Effects, a tool that lets users generate sound effects via prompts and uses an in-house model fine-tuned on Shutterstock&#39;s audio data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240531/p15#a240531p15)
- - [Sources: Vista Equity has written off the entire value of its investment in tech learning platform Pluralsight, three years after taking it private for $3.5B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240531/p14#a240531p14)<!-- TECH:END -->
+ - [It’s not just you: Google Discover and Google News are down &lpar;Update: Working again&rpar;](https://www.androidauthority.com/google-discover-google-news-service-outage-3447784/)
+ - [The TP-Link Deco XE75 Pro router system hits all-time low of $219.99](https://www.androidauthority.com/tp-link-deco-xe75-pro-wi-fi-6e-mesh-system-deal-3447848/)
+ - [Google plans to disable extensions built with the older Manifest V2 framework on June 3, beginning with users of Chrome&#39;s Beta, Dev, and Canary versions &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240531/p17#a240531p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
