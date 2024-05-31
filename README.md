@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is Rahaf? Pro-Hamas supporters can&#39;t even spell what they are protesting for.](http://9gag.com/gag/ajP0D8x)
- - ⏩ [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
- - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
+ - 💣 [Dr. Possible put him in hard place](http://9gag.com/gag/aPA49Mq)
+ - ⏩ [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
 
 ---
 
