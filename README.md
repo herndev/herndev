@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 3 to 7](https://news.xbox.com/en-us/2024/05/31/next-week-on-xbox-new-games-for-june-3-to-7/)
- - [Share of the Week: Leap](https://blog.playstation.com/2024/05/31/share-of-the-week-leap/)
- - [Share of the Week: Leap](https://blog.playstation.com/2024/05/31/share-of-the-week-leap/)<!-- GAME:END -->
+ - [With The Acolyte, Lucasfilm Is Done Staying Silent About Bigoted Reactions To Star Wars](https://kotaku.com/star-wars-racism-sexism-acolyte-fan-backlash-kennedy-1851511756)
+ - [The New York Times Issues Court Threats To Geography Game Worldle](https://kotaku.com/wordle-new-york-times-worldle-nyt-1851511696)
+ - [PlayStation Stars Campaigns and Digital Collectibles for June 2024](https://blog.playstation.com/2024/05/31/playstation-stars-campaigns-and-digital-collectibles-for-june-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
