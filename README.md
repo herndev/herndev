@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - ⏩ [The power of sandwiches](http://9gag.com/gag/a87YprY)
+ - 💣 [What is Rahaf? Pro-Hamas supporters can&#39;t even spell what they are protesting for.](http://9gag.com/gag/ajP0D8x)
+ - ⏩ [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
  - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
 
 ---
