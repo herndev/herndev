@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The pain](http://9gag.com/gag/aW4WqL4)
- - ⏩ [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
+ - 💣 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - ⏩ [Immersive gaming set.](http://9gag.com/gag/a7oy3D2)
+ - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
 
 ---
 
