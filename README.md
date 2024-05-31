@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Concord gameplay revealed, launching August 24, 2024 on PS5 and PC](https://blog.playstation.com/2024/05/30/20240531-concord/)
- - [Everything revealed in the May 2024 State of Play](https://blog.playstation.com/2024/05/30/everything-revealed-in-the-may-2024-state-of-play/)
- - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)<!-- GAME:END -->
+ - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)
+ - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)
+ - [&lpar;For Southeast Asia&rpar; Concord gameplay revealed, launching August 24, 2024 on PS5 and PC](https://blog.playstation.com/2024/05/30/20240531-concord/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
