@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows wants Phone Link for Android to answer texts on your behalf with AI](https://www.androidauthority.com/windows-phone-link-android-ai-replies-3447682/)
- - [Researchers claim just 2,107 US voters, mostly older, white Republican women, accounted for spreading 80% of the fake news on Twitter during the 2020 election &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240531/p2#a240531p2)
- - [The OnePlus Watch 2 broke the nerdy covenant that smartwatch crowns must scroll](https://www.theverge.com/2024/5/31/24166415/oneplus-watch-2-digital-crown-smartwatches-button-of-the-month)<!-- TECH:END -->
+ - [TIL that knockoff wired iPhone earbuds require Bluetooth to work :/](https://www.androidauthority.com/wired-iphone-earbuds-require-bluetooth-3447699/)
+ - [STMicro announces plans to spend &amp;euro;5B on a chips manufacturing plant in Catania, Italy with the government providing &amp;euro;2B in subsidies under European Chips Act &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240531/p4#a240531p4)
+ - [Sources: Tesla prepares to register its FSD with Chinese authorities as it plans a rollout in 2024 and selling the software as a monthly subscription in China &lpar;Reuters&rpar;](http://www.techmeme.com/240531/p3#a240531p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
