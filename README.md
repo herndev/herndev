@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
- - ⏩ [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 👉 [They found out](http://9gag.com/gag/a2vY4E1)<!-- MEMES:END -->
+ - 💣 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
+ - ⏩ [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 👉 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)<!-- MEMES:END -->
 
 ---
 
