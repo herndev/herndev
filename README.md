@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
- - ⏩ [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
- - 👉 [The power of sandwiches](http://9gag.com/gag/a87YprY)<!-- MEMES:END -->
+ - 💣 [The pain](http://9gag.com/gag/aW4WqL4)
+ - ⏩ [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
 
 ---
 
