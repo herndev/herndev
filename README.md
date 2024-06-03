@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German police officer is dead](http://9gag.com/gag/a9yLygm)
- - ⏩ [Well she&#39;s right](http://9gag.com/gag/avygWKq)
- - 👉 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)<!-- MEMES:END -->
+ - 💣 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
+ - ⏩ [Still would](http://9gag.com/gag/a9yL6YL)
+ - 👉 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)<!-- MEMES:END -->
 
 ---
 
