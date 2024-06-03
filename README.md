@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold is on the way, but you&#39;re still going to have to wait a while](https://appleinsider.com/articles/24/06/03/iphone-fold-is-on-the-way-but-youre-still-going-to-have-to-wait-a-while?utm_medium=rss)
- - [iPhone 16 Pro could dethrone Galaxy S24 as the thinnest-bezeled smartphone](https://www.androidauthority.com/iphone-16-pro-thinnest-smartphone-bezels-3448283/)
- - [Google Play Store could soon remind you to open that app you just downloaded &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-open-app-reminder-apk-teardown-3448294/)<!-- TECH:END -->
+ - [Q&amp;A with Zoom CEO Eric Yuan on AI features, the AI pitch, video calls, layoffs, LLMs, solving hallucinations, Zoom 6.0, Microsoft Teams, digital twins, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240603/p16#a240603p16)
+ - [Apple downgraded the iPad Air M2 and didn’t tell buyers](https://www.androidauthority.com/apple-downgraded-ipad-air-m2-3448329/)
+ - [Baldur’s Gate 3 mod support is coming in September](https://www.theverge.com/2024/6/3/24170409/baldurs-gate-3-mod-support-pc-consoles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
