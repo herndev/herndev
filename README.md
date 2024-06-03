@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung sues Oura preemptively to block smart ring patent claims](https://www.theverge.com/2024/6/3/24170479/samsung-galaxy-ring-oura-lawsuit-smart-ring-patents)
- - [Palmer Luckey is now selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
- - [Instagram confirms it is testing an unskippable ad format with a countdown timer that briefly prevents feed scrolling &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240603/p18#a240603p18)<!-- TECH:END -->
+ - [Sources: LoanSnap, an AI mortgage startup that raised ~$100M, has been sued by at least seven creditors, including Wells Fargo, and state and federal agencies &lpar;TechCrunch&rpar;](http://www.techmeme.com/240603/p20#a240603p20)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Amazon details Project PI, which is active in several warehouses and uses computer vision to detect if products are damaged or don&#39;t meet buyers&#39; criteria &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240603/p19#a240603p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
