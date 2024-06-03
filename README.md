@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the challenges C.C. Wei faces as he becomes TSMC&#39;s chairman on June 4 as part of a management reorg that includes preparing a successor to Wei as CEO &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240603/p3#a240603p3)
  - [Sources and filings detail Sam Altman&#39;s investment portfolio as he and his venture funds have invested in 400+ companies and his holdings are worth $2.8B+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240603/p2#a240603p2)
- - [AMD says the 3nm EPYC Turin data center chips will launch in the second half of 2024, based on Zen 5 architecture, featuring up to 192 cores and 384 threads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240603/p1#a240603p1)
- - [Here’s one great way to generate convincing iPhone-like AI food images with Midjourney](https://www.androidauthority.com/how-to-generate-iphone-like-ai-food-images-with-midjourney-3448187/)<!-- TECH:END -->
+ - [AMD says the 3nm EPYC Turin data center chips will launch in the second half of 2024, based on Zen 5 architecture, featuring up to 192 cores and 384 threads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240603/p1#a240603p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
