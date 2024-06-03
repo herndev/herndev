@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield players reckon &#39;something big is going on behind the scenes,&#39; but it&#39;s probably just the upcoming Shattered Space expansion](https://www.pcgamer.com/games/rpg/starfield-players-reckon-something-big-is-going-on-behind-the-scenes-but-its-probably-just-the-upcoming-shattered-space-expansion)
- - [Helldivers 2 players save democracy by turning a planet into an ominous black hole that makes whale noises: Which is fine and normal and not a wormhole to the Illuminate, stop asking](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-save-democracy-by-turning-a-planet-into-an-ominous-black-hole-that-makes-whale-noises-which-is-fine-and-normal-and-not-a-wormhole-to-the-illuminate-stop-asking)
- - [Here&#39;s when Destiny 2: The Final Shape releases and downtime begins](https://www.pcgamer.com/games/fps/destiny-2-final-shape-release-time-server-downtime)<!-- GAME:END -->
+ - [Big PlayStation Sale Is Full Of Discounts On PS5s, Spider-Man 2, And More](https://kotaku.com/ps5-sale-discount-spider-man-2-last-us-cheap-1851504689)
+ - [Patch 7 of Baldur&#39;s Gate 3 heralds the arrival of mod support in September, with a closed beta starting next month](https://www.pcgamer.com/games/baldurs-gate/patch-7-of-baldur-s-gate-3-heralds-the-arrival-of-mod-support-in-september-with-a-closed-beta-starting-next-month)
+ - [V Rising devs deep drive into boss encounters, coming to PS5 June 11](https://blog.playstation.com/2024/06/03/v-rising-devs-deep-drive-into-boss-encounters-coming-to-ps5-june-11/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
