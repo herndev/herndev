@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - ⏩ [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 👉 [Bro persisted one day](http://9gag.com/gag/abAyeR9)<!-- MEMES:END -->
+ - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - ⏩ [Slick](http://9gag.com/gag/aGywyNZ)
+ - 👉 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)<!-- MEMES:END -->
 
 ---
 
