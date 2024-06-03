@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - ⏩ [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 👉 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)<!-- MEMES:END -->
+ - 💣 [Thought?](http://9gag.com/gag/aGywpD6)
+ - ⏩ [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 👉 [Europe 2024](http://9gag.com/gag/a87YqQ6)<!-- MEMES:END -->
 
 ---
 
