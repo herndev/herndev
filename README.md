@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s new Ryzen AI 300 APU looks super exciting for handheld gaming but what about the battery life?](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-300-apu-looks-super-exciting-for-handheld-gaming-but-what-about-the-battery-life)
- - [Forget stickers on your laptop, Asus put a customisable e-inkdisplayon the lid instead](https://www.pcgamer.com/hardware/gaming-laptops/forget-stickers-on-your-laptop-asus-put-a-customisable-e-ink-display-on-the-lid-instead)
- - [This new carbon fiber ROG gaming mouse is absurd and awesome in equal measure](https://www.pcgamer.com/hardware/gaming-mice/this-new-carbon-fiber-rog-gaming-mouse-is-absurd-and-awesome-in-equal-measure)<!-- GAME:END -->
+ - [&quot;Gigabyte is an AI company&quot; now—and the gaming hardware seems to have taken a back seat](https://www.pcgamer.com/hardware/gigabyte-is-an-ai-company-nowand-the-gaming-hardware-seems-to-have-taken-a-back-seat)
+ - [AMD&#39;s Dr. Lisa Su on the role of artificial intelligence in gaming: &#39;Not everything has to be rendered&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-dr-lisa-su-on-role-of-artificial-intelligence-in-gaming-not-everything-has-to-be-rendered)
+ - [AMD&#39;s new Ryzen AI 300 APU looks super exciting for handheld gaming but what about the battery life?](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-300-apu-looks-super-exciting-for-handheld-gaming-but-what-about-the-battery-life)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
