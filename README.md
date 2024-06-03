@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop YouTuber Roaring Kitty Just Sent The Meme Stock Back Into Orbit [Update: Might Get Kicked Off E-Trade]](https://kotaku.com/gamestop-gme-stock-meme-roaring-kitty-1851515699)
- - [The PC game releases we&#39;re most excited about in June](https://www.pcgamer.com/games/pc-game-release-dates-june-2024)
- - [What’s Worth Stealing In Final Fantasy VII Rebirth?](https://kotaku.com/final-fantasy-7-ff7-rebirth-steal-materia-items-1851516976)<!-- GAME:END -->
+ - [Summer Game Fest will focus on existing games, so don&#39;t hyper yourself up for &#39;games that are years and years out,&#39; says Geoff Keighley](https://www.pcgamer.com/gaming-industry/summer-game-fest-will-focus-on-existing-games-so-dont-hyper-yourself-up-for-games-that-are-years-and-years-out-says-geoff-keighley)
+ - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows [Update]](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)
+ - [New Zany Open World Game Is For All You Simpsons: Hit And Run Fans](https://kotaku.com/tiny-terry-turbo-trip-review-simpsons-hit-run-steam-pc-1851517168)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
