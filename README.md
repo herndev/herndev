@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Former President&#39;s Daughter Used X to Bombard South Africa With Conspiracy Theories](https://www.wired.com/story/south-africa-x-twitter-disinformation/)
- - [Killer deals: Apple TV 4K drops to $89.99, HomePod 2nd Gen dips to $175](https://appleinsider.com/articles/24/06/03/killer-deals-apple-tv-4k-drops-to-8999-homepod-2nd-gen-dips-to-175?utm_medium=rss)
- - [Sources: Microsoft is laying off hundreds of employees in Azure; one source estimated the Azure for Operators team cuts involved as many as 1,500 staffers &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240603/p22#a240603p22)<!-- TECH:END -->
+ - [Deal: The Samsung Galaxy Tab S9 Plus plunges by over $250](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-plus-3448472/)
+ - [Detailed specs of Nothing’s CMF Phone 1 surface following company’s cryptic teaser](https://www.androidauthority.com/cmf-phone-1-leak-3448464/)
+ - [Android 15 update tracker: When will your phone get it?](https://www.androidauthority.com/android-15-update-3415425/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
