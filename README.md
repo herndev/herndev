@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Game Fest 2024 and not-E3 2024 schedule: All conference dates and times](https://www.polygon.com/gaming/24167070/summer-game-fest-2024-schedule-sgf-e3)
- - [Helldivers 2 Players Have Opened A Black Hole And Are Terrified What Might Come Out](https://kotaku.com/helldivers-2-black-hole-meridia-major-order-1851515722)
- - [GameStop YouTuber Roaring Kitty Just Sent The Meme Stock Back Into Orbit](https://kotaku.com/gamestop-gme-stock-meme-roaring-kitty-1851515699)<!-- GAME:END -->
+ - [A Day in the Life of Sushi Bot, Rolling Hills’ Premiere Aspiring Chef](https://news.xbox.com/en-us/2024/06/03/life-of-sushi-bot-rolling-hills-aspiring-chef/)
+ - [Qualcomm says it&#39;s tested 1,200 x86 Windows games on its new X Elite Arm chip but won&#39;t say how well they actually run](https://www.pcgamer.com/hardware/processors/qualcomm-says-its-tested-1200-x86-windows-games-on-its-new-x-elite-arm-chip-but-wont-say-how-well-they-actually-run)
+ - [Asus has ROG-ified its monstrous BE19000 Wi-Fi 7 router to be more Thargoid than ever before](https://www.pcgamer.com/hardware/networking/asus-has-rog-ified-its-monstrous-be19000-wi-fi-7-router-to-be-more-thargoid-than-ever-before)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
