@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Day in the Life of Sushi Bot, Rolling Hills’ Premiere Aspiring Chef](https://news.xbox.com/en-us/2024/06/03/life-of-sushi-bot-rolling-hills-aspiring-chef/)
- - [Qualcomm says it&#39;s tested 1,200 x86 Windows games on its new X Elite Arm chip but won&#39;t say how well they actually run](https://www.pcgamer.com/hardware/processors/qualcomm-says-its-tested-1200-x86-windows-games-on-its-new-x-elite-arm-chip-but-wont-say-how-well-they-actually-run)
- - [Asus has ROG-ified its monstrous BE19000 Wi-Fi 7 router to be more Thargoid than ever before](https://www.pcgamer.com/hardware/networking/asus-has-rog-ified-its-monstrous-be19000-wi-fi-7-router-to-be-more-thargoid-than-ever-before)<!-- GAME:END -->
+ - [Five Exciting New Features Coming to Destiny 2 With The Final Shape, Launching June 4](https://news.xbox.com/en-us/2024/06/03/destiny-2-the-final-shape-june-4-launch-xbox/)
+ - [Dell&#39;s new XPS 13 laptop running a Snapdragon X Elite CPU has 27 hours of battery life, 9 more than the Intel version](https://www.pcgamer.com/hardware/processors/dells-new-xps-13-laptop-running-a-snapdragon-x-elite-cpu-has-27-hours-of-battery-life-9-more-than-the-intel-version)
+ - [A Google Contractor Reportedly Watched Private Nintendo Videos And Leaked The Info Online](https://kotaku.com/nintendo-leak-google-youtube-private-videos-employee-1851516110)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
