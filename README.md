@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - ⏩ [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
- - 👉 [Bro persisted one day](http://9gag.com/gag/abAyeR9)<!-- MEMES:END -->
+ - 💣 [Still would](http://9gag.com/gag/a9yL6YL)
+ - ⏩ [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - 👉 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)<!-- MEMES:END -->
 
 ---
 
