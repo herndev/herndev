@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hiring a girlfriend translator](http://9gag.com/gag/a1mePmP)
- - ⏩ [LGB is ok / T is sometimes ok / Q+ is the where the west hating politics is and are therefore not ok. Q uses `gay` as a political human shield](http://9gag.com/gag/aKGP15j)
- - 👉 [Still would](http://9gag.com/gag/a9yL6YL)<!-- MEMES:END -->
+ - 💣 [German police officer is dead](http://9gag.com/gag/a9yLygm)
+ - ⏩ [Well she&#39;s right](http://9gag.com/gag/avygWKq)
+ - 👉 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)<!-- MEMES:END -->
 
 ---
 
