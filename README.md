@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&quot;Gigabyte is an AI company&quot; now—and the gaming hardware seems to have taken a back seat](https://www.pcgamer.com/hardware/gigabyte-is-an-ai-company-nowand-the-gaming-hardware-seems-to-have-taken-a-back-seat)
- - [AMD&#39;s Dr. Lisa Su on the role of artificial intelligence in gaming: &#39;Not everything has to be rendered&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-dr-lisa-su-on-role-of-artificial-intelligence-in-gaming-not-everything-has-to-be-rendered)
- - [AMD&#39;s new Ryzen AI 300 APU looks super exciting for handheld gaming but what about the battery life?](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-300-apu-looks-super-exciting-for-handheld-gaming-but-what-about-the-battery-life)<!-- GAME:END -->
+ - [Starfield players reckon &#39;something big is going on behind the scenes,&#39; but it&#39;s probably just the upcoming Shattered Space expansion](https://www.pcgamer.com/games/rpg/starfield-players-reckon-something-big-is-going-on-behind-the-scenes-but-its-probably-just-the-upcoming-shattered-space-expansion)
+ - [Helldivers 2 players save democracy by turning a planet into an ominous black hole that makes whale noises: Which is fine and normal and not a wormhole to the Illuminate, stop asking](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-save-democracy-by-turning-a-planet-into-an-ominous-black-hole-that-makes-whale-noises-which-is-fine-and-normal-and-not-a-wormhole-to-the-illuminate-stop-asking)
+ - [Here&#39;s when Destiny 2: The Final Shape releases and downtime begins](https://www.pcgamer.com/games/fps/destiny-2-final-shape-release-time-server-downtime)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
