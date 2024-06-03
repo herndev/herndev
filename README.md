@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The cameraman knows his angle](http://9gag.com/gag/aAyrQEE)
+ - 💣 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)
  - ⏩ [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)
- - 👉 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)<!-- MEMES:END -->
+ - 👉 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)<!-- MEMES:END -->
 
 ---
 
