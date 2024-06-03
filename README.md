@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Zoom CEO Eric Yuan on AI features, the AI pitch, video calls, layoffs, LLMs, solving hallucinations, Zoom 6.0, Microsoft Teams, digital twins, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240603/p16#a240603p16)
- - [Apple downgraded the iPad Air M2 and didn’t tell buyers](https://www.androidauthority.com/apple-downgraded-ipad-air-m2-3448329/)
- - [Baldur’s Gate 3 mod support is coming in September](https://www.theverge.com/2024/6/3/24170409/baldurs-gate-3-mod-support-pc-consoles)<!-- TECH:END -->
+ - [Apple&#39;s latest MacBook Air with M3 chip, 16GB RAM drops to $1,149](https://appleinsider.com/articles/24/06/03/apples-latest-macbook-air-with-m3-chip-16gb-ram-drops-to-1149?utm_medium=rss)
+ - [Controversial Windows 11 Recall feature could help hackers steal your passwords](https://www.androidauthority.com/windows-11-recall-passwords-steal-3448318/)
+ - [X has new rules that officially allow porn now](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
