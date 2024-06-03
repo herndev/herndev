@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
- - ⏩ [Poor guy](http://9gag.com/gag/aQz4XGd)
- - 👉 [Slick](http://9gag.com/gag/aGywyNZ)<!-- MEMES:END -->
+ - 💣 [The cameraman knows his angle](http://9gag.com/gag/aAyrQEE)
+ - ⏩ [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)
+ - 👉 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)<!-- MEMES:END -->
 
 ---
 
