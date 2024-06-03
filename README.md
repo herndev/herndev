@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - ⏩ [Backstory of killdozer](http://9gag.com/gag/aYQWrgx)
- - 👉 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)<!-- MEMES:END -->
+ - 💣 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
+ - ⏩ [Game of Thrones was once good. Really good.](http://9gag.com/gag/ajP0gqG)
+ - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)<!-- MEMES:END -->
 
 ---
 
