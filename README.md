@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s latest MacBook Air with M3 chip, 16GB RAM drops to $1,149](https://appleinsider.com/articles/24/06/03/apples-latest-macbook-air-with-m3-chip-16gb-ram-drops-to-1149?utm_medium=rss)
- - [Controversial Windows 11 Recall feature could help hackers steal your passwords](https://www.androidauthority.com/windows-11-recall-passwords-steal-3448318/)
- - [X has new rules that officially allow porn now](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)<!-- TECH:END -->
+ - [Apple may add Respiration Tracking to the Apple Vision Pro Mindfulness app](https://appleinsider.com/articles/24/06/03/apple-may-add-respiration-tracking-to-the-apple-vision-pro-mindfulness-app?utm_medium=rss)
+ - [Nomad CEO Noah Dentzel talks MagSafe, Qi2, &amp; Find My on HomeKit Insider](https://appleinsider.com/articles/24/06/03/nomad-ceo-noah-dentzel-talks-magsafe-qi2-find-my-on-homekit-insider?utm_medium=rss)
+ - [Apple&#39;s latest MacBook Air with M3 chip, 16GB RAM drops to $1,149](https://appleinsider.com/articles/24/06/03/apples-latest-macbook-air-with-m3-chip-16gb-ram-drops-to-1149?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
