@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lovely guy!!](http://9gag.com/gag/azxEx7p)
- - ⏩ [The stabbed officer in Mannheim ultimately passed away. At the exact same time, people there held a rally... against `the Right`?! Sadly, a perfect representation of the German public&#39;s current state of mind.](http://9gag.com/gag/a2vYvBD)
- - 👉 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)<!-- MEMES:END -->
+ - 💣 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
+ - ⏩ [Poor guy](http://9gag.com/gag/aQz4XGd)
+ - 👉 [Slick](http://9gag.com/gag/aGywyNZ)<!-- MEMES:END -->
 
 ---
 
