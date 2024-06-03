@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - ⏩ [Slick](http://9gag.com/gag/aGywyNZ)
- - 👉 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)<!-- MEMES:END -->
+ - 💣 [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
+ - ⏩ [Nobody reading this?](http://9gag.com/gag/aXPpn62)
+ - 👉 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)<!-- MEMES:END -->
 
 ---
 
