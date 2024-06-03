@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
- - ⏩ [Headshot confirmed](http://9gag.com/gag/aRBPBK7)
- - 👉 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)<!-- MEMES:END -->
+ - 💣 [Lovely guy!!](http://9gag.com/gag/azxEx7p)
+ - ⏩ [The stabbed officer in Mannheim ultimately passed away. At the exact same time, people there held a rally... against `the Right`?! Sadly, a perfect representation of the German public&#39;s current state of mind.](http://9gag.com/gag/a2vYvBD)
+ - 👉 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)<!-- MEMES:END -->
 
 ---
 
