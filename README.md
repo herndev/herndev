@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 8 Pro drops 25% in latest Google sale](https://www.androidauthority.com/pixel-8-pro-deal-3448137/)
- - [Sonos Ace Review: The Most Comfortable Headphones for Travel](https://www.wired.com/review/sonos-ace/)
- - [Antenna: Spotify users are the least likely to cancel among major video or audio streaming services in the US, with a ~2% monthly churn rate, similar to Netflix &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240603/p13#a240603p13)<!-- TECH:END -->
+ - [iPhone Fold is on the way, but you&#39;re still going to have to wait a while](https://appleinsider.com/articles/24/06/03/iphone-fold-is-on-the-way-but-youre-still-going-to-have-to-wait-a-while?utm_medium=rss)
+ - [iPhone 16 Pro could dethrone Galaxy S24 as the thinnest-bezeled smartphone](https://www.androidauthority.com/iphone-16-pro-thinnest-smartphone-bezels-3448283/)
+ - [Google Play Store could soon remind you to open that app you just downloaded &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-open-app-reminder-apk-teardown-3448294/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
