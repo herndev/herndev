@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Read Only Memories: Neurodiver, Creator’s Diary](https://news.xbox.com/en-us/2024/06/03/read-only-memories-neurodiver-creators-diary/)
- - [The Acolyte, Clipped, and more new TV this week](https://www.polygon.com/2024/6/3/24132160/new-tv-star-wars-acolyte-clipped-criminal-minds)
- - [Geoff Keighley Wants You To Lower Your Expectations For Summer Game Fest](https://kotaku.com/summer-game-fest-2024-geoff-keighley-sets-expectations-1851516386)<!-- GAME:END -->
+ - [What makes a game cinematic? The answer is changing](https://www.polygon.com/24167443/indika-video-game-movies-cinematic)
+ - [Diablo IV Players Keep Bricking Their Most Powerful Gear](https://kotaku.com/diablo-4-tempering-guide-reroll-affix-brick-1851516526)
+ - [Read Only Memories: Neurodiver, Creator’s Diary](https://news.xbox.com/en-us/2024/06/03/read-only-memories-neurodiver-creators-diary/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
