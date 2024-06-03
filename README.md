@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X changes its adult content policies, formally letting users post consensual NSFW and AI content provided it is properly labeled and &quot;not prominently displayed&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240603/p12#a240603p12)
- - [The Big-Tech Clean Energy Crunch Is Here](https://www.wired.com/story/big-tech-datacenter-energy-power-grid/)
- - [Embarrassing Qualcomm ad claims &#39;I&#39;m a Mac&#39; actor is switching to Windows ARM over notifications](https://appleinsider.com/articles/24/06/03/embarrassing-qualcomm-ad-claims-im-a-mac-actor-is-switching-to-windows-arm-over-notifications?utm_medium=rss)<!-- TECH:END -->
+ - [The Pixel 8 Pro drops 25% in latest Google sale](https://www.androidauthority.com/pixel-8-pro-deal-3448137/)
+ - [Sonos Ace Review: The Most Comfortable Headphones for Travel](https://www.wired.com/review/sonos-ace/)
+ - [Antenna: Spotify users are the least likely to cancel among major video or audio streaming services in the US, with a ~2% monthly churn rate, similar to Netflix &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240603/p13#a240603p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
