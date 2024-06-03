@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [George Miller’s smartest move in Furiosa is totally dissing Immortan Joe](https://www.polygon.com/24168903/furiosa-villain-immortan-joe-actor)
- - [Who is Furiosa’s equivalent of the Doof Warrior?](https://www.polygon.com/24168839/furiosa-doof-warrior-best-characters)
- - [Godzilla Minus One, the long-awaited Godzilla throwback movie, is finally on Netflix](https://www.polygon.com/reviews/23940888/godzilla-minus-one-review-digital-release)<!-- GAME:END -->
+ - [AMD&#39;s new Ryzen AI 300 APU looks super exciting for handheld gaming but what about the battery life?](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-300-apu-looks-super-exciting-for-handheld-gaming-but-what-about-the-battery-life)
+ - [Forget stickers on your laptop, Asus put a customisable e-inkdisplayon the lid instead](https://www.pcgamer.com/hardware/gaming-laptops/forget-stickers-on-your-laptop-asus-put-a-customisable-e-ink-display-on-the-lid-instead)
+ - [This new carbon fiber ROG gaming mouse is absurd and awesome in equal measure](https://www.pcgamer.com/hardware/gaming-mice/this-new-carbon-fiber-rog-gaming-mouse-is-absurd-and-awesome-in-equal-measure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
