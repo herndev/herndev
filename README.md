@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here is what’s happening at Computex 2024](https://www.theverge.com/2024/6/2/24168856/computex-2024-convention-news-announcements)
- - [PewDiePie ‘avenged’ as MrBeast becomes YouTube’s most-subscribed channel](https://www.theverge.com/2024/6/2/24170045/mrbeast-youtube-most-subscribed-channel-t-series-pewdiepie)
- - [Best Solar Panel Installation Companies in Kentucky     - CNET](https://www.cnet.com/home/energy-and-utilities/kentucky-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google sunsets another service, this time impacting businesses](https://www.androidauthority.com/google-business-messaging-shutdown-3448180/)
+ - [Best Solar Panel Installation Companies in Colorado     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)
+ - [Here is what’s happening at Computex 2024](https://www.theverge.com/2024/6/2/24168856/computex-2024-convention-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
