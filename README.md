@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Watch the Xbox Games Showcase and Call of Duty: Black Ops 6 Direct on Sunday](https://news.xbox.com/en-us/2024/06/03/xbox-games-showcase-2024-black-ops-6-direct-how-to-watch/)
- - [Are 16 cores in the new Ryzen 9950X sufficient for gaming? &#39;There&#39;s no physical reason we couldn&#39;t do more than 16 cores,&#39; says AMD](https://www.pcgamer.com/hardware/processors/are-16-cores-in-the-new-ryzen-9950x-sufficient-for-gaming-theres-no-physical-reason-we-couldnt-do-more-than-16-cores-says-amd)
- - [Baldur&#39;s Gate 3 Will Be Officially Moddable This Fall](https://kotaku.com/baldurs-gate-3-mod-support-larian-1851515329)<!-- GAME:END -->
+ - [Summer Game Fest 2024 and not-E3 2024 schedule: All conference dates and times](https://www.polygon.com/gaming/24167070/summer-game-fest-2024-schedule-sgf-e3)
+ - [Helldivers 2 Players Have Opened A Black Hole And Are Terrified What Might Come Out](https://kotaku.com/helldivers-2-black-hole-meridia-major-order-1851515722)
+ - [GameStop YouTuber Roaring Kitty Just Sent The Meme Stock Back Into Orbit](https://kotaku.com/gamestop-gme-stock-meme-roaring-kitty-1851515699)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
