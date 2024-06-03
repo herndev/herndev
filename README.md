@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)
- - [The remake of Riven, the sequel to the remake of Myst, is coming out later this month](https://www.pcgamer.com/games/adventure/the-remake-of-riven-the-sequel-to-the-remake-of-myst-is-coming-out-later-this-month)
- - [Say Goodbye To Destiny 2’s Most Relaxing Activity](https://kotaku.com/destiny-2-the-final-shape-fishing-removing-content-1851516335)<!-- GAME:END -->
+ - [GameStop YouTuber Roaring Kitty Just Sent The Meme Stock Back Into Orbit [Update: Might Get Kicked Off E-Trade]](https://kotaku.com/gamestop-gme-stock-meme-roaring-kitty-1851515699)
+ - [The PC game releases we&#39;re most excited about in June](https://www.pcgamer.com/games/pc-game-release-dates-june-2024)
+ - [What’s Worth Stealing In Final Fantasy VII Rebirth?](https://kotaku.com/final-fantasy-7-ff7-rebirth-steal-materia-items-1851516976)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
