@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Samsung Galaxy Tab S9 Plus plunges by over $250](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-plus-3448472/)
- - [Detailed specs of Nothing’s CMF Phone 1 surface following company’s cryptic teaser](https://www.androidauthority.com/cmf-phone-1-leak-3448464/)
- - [Android 15 update tracker: When will your phone get it?](https://www.androidauthority.com/android-15-update-3415425/)<!-- TECH:END -->
+ - [Launch of OnePlus Pad 2, Watch 3, and other products reportedly delayed](https://www.androidauthority.com/oneplus-pad-2-delayed-3448509/)
+ - [ASML opens a test laboratory for its High NA EUV machine with Belgium&#39;s Imec in the Netherlands, and expects customers to use it for manufacturing in 2025-2026 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240603/p25#a240603p25)
+ - [Deal: The Samsung Galaxy Tab S9 Plus plunges by over $250](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-plus-3448472/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
