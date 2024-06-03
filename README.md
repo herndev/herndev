@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - ⏩ [Perhaps there is hope..](http://9gag.com/gag/avygAvd)
- - 👉 [Nicely Done](http://9gag.com/gag/awyKzE4)<!-- MEMES:END -->
+ - 💣 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
+ - ⏩ [Probably the biggest roast in the history of the internet](http://9gag.com/gag/abAygvL)
+ - 👉 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)<!-- MEMES:END -->
 
 ---
 
