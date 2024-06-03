@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
- - ⏩ [Probably the biggest roast in the history of the internet](http://9gag.com/gag/abAygvL)
- - 👉 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)<!-- MEMES:END -->
+ - 💣 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - ⏩ [Headshot confirmed](http://9gag.com/gag/aRBPBK7)
+ - 👉 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)<!-- MEMES:END -->
 
 ---
 
