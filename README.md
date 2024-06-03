@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may add Respiration Tracking to the Apple Vision Pro Mindfulness app](https://appleinsider.com/articles/24/06/03/apple-may-add-respiration-tracking-to-the-apple-vision-pro-mindfulness-app?utm_medium=rss)
- - [Nomad CEO Noah Dentzel talks MagSafe, Qi2, &amp; Find My on HomeKit Insider](https://appleinsider.com/articles/24/06/03/nomad-ceo-noah-dentzel-talks-magsafe-qi2-find-my-on-homekit-insider?utm_medium=rss)
- - [Apple&#39;s latest MacBook Air with M3 chip, 16GB RAM drops to $1,149](https://appleinsider.com/articles/24/06/03/apples-latest-macbook-air-with-m3-chip-16gb-ram-drops-to-1149?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung sues Oura preemptively to block smart ring patent claims](https://www.theverge.com/2024/6/3/24170479/samsung-galaxy-ring-oura-lawsuit-smart-ring-patents)
+ - [Palmer Luckey is now selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
+ - [Instagram confirms it is testing an unskippable ad format with a countdown timer that briefly prevents feed scrolling &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240603/p18#a240603p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
