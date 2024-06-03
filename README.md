@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Exciting New Features Coming to Destiny 2 With The Final Shape, Launching June 4](https://news.xbox.com/en-us/2024/06/03/destiny-2-the-final-shape-june-4-launch-xbox/)
- - [Dell&#39;s new XPS 13 laptop running a Snapdragon X Elite CPU has 27 hours of battery life, 9 more than the Intel version](https://www.pcgamer.com/hardware/processors/dells-new-xps-13-laptop-running-a-snapdragon-x-elite-cpu-has-27-hours-of-battery-life-9-more-than-the-intel-version)
- - [A Google Contractor Reportedly Watched Private Nintendo Videos And Leaked The Info Online](https://kotaku.com/nintendo-leak-google-youtube-private-videos-employee-1851516110)<!-- GAME:END -->
+ - [Read Only Memories: Neurodiver, Creator’s Diary](https://news.xbox.com/en-us/2024/06/03/read-only-memories-neurodiver-creators-diary/)
+ - [The Acolyte, Clipped, and more new TV this week](https://www.polygon.com/2024/6/3/24132160/new-tv-star-wars-acolyte-clipped-criminal-minds)
+ - [Geoff Keighley Wants You To Lower Your Expectations For Summer Game Fest](https://kotaku.com/summer-game-fest-2024-geoff-keighley-sets-expectations-1851516386)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
