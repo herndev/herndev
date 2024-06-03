@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What makes a game cinematic? The answer is changing](https://www.polygon.com/24167443/indika-video-game-movies-cinematic)
- - [Diablo IV Players Keep Bricking Their Most Powerful Gear](https://kotaku.com/diablo-4-tempering-guide-reroll-affix-brick-1851516526)
- - [Read Only Memories: Neurodiver, Creator’s Diary](https://news.xbox.com/en-us/2024/06/03/read-only-memories-neurodiver-creators-diary/)<!-- GAME:END -->
+ - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)
+ - [The remake of Riven, the sequel to the remake of Myst, is coming out later this month](https://www.pcgamer.com/games/adventure/the-remake-of-riven-the-sequel-to-the-remake-of-myst-is-coming-out-later-this-month)
+ - [Say Goodbye To Destiny 2’s Most Relaxing Activity](https://kotaku.com/destiny-2-the-final-shape-fishing-removing-content-1851516335)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
