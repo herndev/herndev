@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thought?](http://9gag.com/gag/aGywpD6)
- - ⏩ [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 👉 [Europe 2024](http://9gag.com/gag/a87YqQ6)<!-- MEMES:END -->
+ - 💣 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - ⏩ [Mario](http://9gag.com/gag/a343ZBe)
+ - 👉 [Never go full retard...](http://9gag.com/gag/aE018Ax)<!-- MEMES:END -->
 
 ---
 
