@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: LoanSnap, an AI mortgage startup that raised ~$100M, has been sued by at least seven creditors, including Wells Fargo, and state and federal agencies &lpar;TechCrunch&rpar;](http://www.techmeme.com/240603/p20#a240603p20)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Amazon details Project PI, which is active in several warehouses and uses computer vision to detect if products are damaged or don&#39;t meet buyers&#39; criteria &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240603/p19#a240603p19)<!-- TECH:END -->
+ - [Coinbase says it has donated another $25M to the pro-crypto Fairshake SuperPAC; Fairshake has raised ~$161M for 2024&#39;s US election from a16z, Ripple, and others &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240603/p21#a240603p21)
+ - [King of the Rings: Samsung sues Oura ahead of Galaxy Ring debut](https://www.androidauthority.com/samsung-oura-lawsuit-3448420/)
+ - [Instagram is testing ‘unskippable’ ads that you can’t scroll past](https://www.theverge.com/2024/6/3/24170682/instagram-unskippable-ads-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
