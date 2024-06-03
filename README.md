@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify plans to raise US prices: Premium from $10.99 to $11.99 per month, Duo from $14.99 to $16.99, and Family from $16.99 to $19.99, after a July 2023 hike &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240603/p10#a240603p10)
- - [Raspberry Pi plans to sell shares at &amp;pound;2.60 to &amp;pound;2.80 each in its London IPO, aiming to raise ~&amp;pound;157M; existing shareholder Arm has agreed to buy $35M of shares &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240603/p9#a240603p9)
- - [Spotify is increasing US prices again](https://www.theverge.com/2024/6/3/24170301/spotify-us-price-increase-plans)<!-- TECH:END -->
+ - [X changes its adult content policies, formally letting users post consensual NSFW and AI content provided it is properly labeled and &quot;not prominently displayed&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240603/p12#a240603p12)
+ - [The Big-Tech Clean Energy Crunch Is Here](https://www.wired.com/story/big-tech-datacenter-energy-power-grid/)
+ - [Embarrassing Qualcomm ad claims &#39;I&#39;m a Mac&#39; actor is switching to Windows ARM over notifications](https://appleinsider.com/articles/24/06/03/embarrassing-qualcomm-ad-claims-im-a-mac-actor-is-switching-to-windows-arm-over-notifications?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
