@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sunsets another service, this time impacting businesses](https://www.androidauthority.com/google-business-messaging-shutdown-3448180/)
- - [Best Solar Panel Installation Companies in Colorado     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)
- - [Here is what’s happening at Computex 2024](https://www.theverge.com/2024/6/2/24168856/computex-2024-convention-news-announcements)<!-- TECH:END -->
+ - [AMD announces a yearly data center GPU release cycle, starting with Instinct MI325X, slated for later in 2024 and meant to best Nvidia H200 in peak performance &lpar;CRN&rpar;](http://www.techmeme.com/240602/p11#a240602p11)
+ - [AMD announces two new Ryzen AI 300 series mobile chips, Ryzen AI 9 365 and Ryzen AI 9 HX 370, each with a 50 TOPS NPU, shipping in July &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240602/p10#a240602p10)
+ - [AMD unveils four new Ryzen 9000-series chips slated for July, powered by its new Zen 5 microarchitecture, which it says delivers 16% more instructions per cycle &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240602/p9#a240602p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
