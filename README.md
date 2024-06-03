@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doctor Who goes full Black Mirror only to set up its most shocking twist](https://www.polygon.com/24168156/doctor-who-dot-bubble-review-new-episode-6)
- - [Disney’s Jim Henson doc, Boy Kills World, and every movie new to streaming this week](https://www.polygon.com/2024/5/31/24166183/new-movies-watch-jim-henson-doc-disney-plus-boy-kills-world-netflix-a-part-of-you-streaming)
- - [Leaks Show Assassin&#39;s Creed And Rabbids Coming To Ubisoft&#39;s CoD-Like Shooter](https://kotaku.com/xdefiant-year-1-all-factions-leak-datamine-rabbids-maps-1851513219)<!-- GAME:END -->
+ - [George Miller’s smartest move in Furiosa is totally dissing Immortan Joe](https://www.polygon.com/24168903/furiosa-villain-immortan-joe-actor)
+ - [Who is Furiosa’s equivalent of the Doof Warrior?](https://www.polygon.com/24168839/furiosa-doof-warrior-best-characters)
+ - [Godzilla Minus One, the long-awaited Godzilla throwback movie, is finally on Netflix](https://www.polygon.com/reviews/23940888/godzilla-minus-one-review-digital-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
