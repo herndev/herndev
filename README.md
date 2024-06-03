@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still would](http://9gag.com/gag/a9yL6YL)
- - ⏩ [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 👉 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)<!-- MEMES:END -->
+ - 💣 [They created a monster! Shady is back.](http://9gag.com/gag/agmvQGx)
+ - ⏩ [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
+ - 👉 [How big are the odds...](http://9gag.com/gag/aKGPAY6)<!-- MEMES:END -->
 
 ---
 
