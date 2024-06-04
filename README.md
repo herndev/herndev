@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This irritating robot yelled at me repeatedly at Computex, forcing me to resist the urge to kick it over](https://www.pcgamer.com/hardware/this-irritating-robot-yelled-at-me-repeatedly-at-computex-forcing-me-to-resist-the-urge-to-kick-it-over)
- - [Team Group showed me some blazingly fast Gen 5 SSDs, pink DDR5, and a host of wacky cooling solutions to keep it all in check](https://www.pcgamer.com/hardware/ssds/team-group-showed-me-some-blazingly-fast-gen-5-ssds-pink-ddr5-and-a-host-of-wacky-cooling-solutions-to-keep-it-all-in-check)
- - [D&amp;D&#39;s Wizards of the Coast come under fire for AI &lpar;again&rpar; after advertising for a &#39;principal AI engineer&#39;, but insists &#39;our stance on AI hasn&#39;t changed&#39; since videogames don&#39;t count](https://www.pcgamer.com/games/rpg/d-d-s-wizards-of-the-coast-come-under-fire-for-ai-again-after-advertising-for-a-principal-ai-engineer-but-insists-our-stance-on-ai-hasn-t-changed-since-videogames-don-t-count)<!-- GAME:END -->
+ - [&#39;The Flame is lit&#39;: Dark Souls is getting a new manga and all I&#39;m hoping for is something more horrifying than Elden Ring&#39;s one](https://www.pcgamer.com/games/rpg/the-flame-is-lit-dark-souls-is-getting-a-new-manga-and-all-im-hoping-for-is-something-more-horrifying-than-elden-rings-one)
+ - [Intel says it&#39;s happy to make the very Arm chips that threaten its x86 hegemony](https://www.pcgamer.com/hardware/processors/intel-says-its-happy-to-make-the-very-arm-chips-that-threaten-its-x86-hegemony)
+ - [Sony&#39;s PSVR 2 virtual reality headset will get an adaptor for PCs this summer but its best features will remain exclusive to PlayStation](https://www.pcgamer.com/hardware/vr-hardware/sonys-psvr-2-virtual-reality-headset-will-get-an-adaptor-for-pcs-this-summer-but-its-best-features-will-remain-exclusive-to-playstation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
