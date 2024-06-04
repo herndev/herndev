@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
- - ⏩ [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
+ - 💣 [To spice up your relationship](http://9gag.com/gag/amo0meX)
+ - ⏩ [The moment!](http://9gag.com/gag/aoy0R62)
+ - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
 
 ---
 
