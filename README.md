@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [Samsung sues Oura, seeking a declaratory judgment that the Galaxy Ring, expected to launch in the US &quot;in or around August&quot;, doesn&#39;t infringe on Oura&#39;s patents &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240603/p26#a240603p26)
- - [Hardy Houseplants: These 9 Indoor Plants Are Impossible to Kill     - CNET](https://www.cnet.com/news/hardy-houseplants-these-9-indoor-plants-are-impossible-to-kill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft layoffs hit HoloLens, Azure cloud teams](https://www.theverge.com/2024/6/3/24170902/microsoft-hololens-2-mixed-reality-azure-layoffs)
+ - [In a joint statement, Snowflake, CrowdStrike, and Mandiant say they have not found evidence suggesting Snowflake&#39;s platform was breached to hack Ticketmaster &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240603/p27#a240603p27)
+ - [Snowflake says there’s no evidence attackers breached its platform to hack Ticketmaster](https://www.theverge.com/2024/6/3/24170876/snowflake-ticketmaster-santander-data-breach-details)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
