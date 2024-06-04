@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - ⏩ [\u201cThis is our country, and we want it back.\u201d](http://9gag.com/gag/an7KRBL)
- - 👉 [Always has been, but i do get why](http://9gag.com/gag/awyK1yD)<!-- MEMES:END -->
+ - 💣 [Nice try buddy](http://9gag.com/gag/avyg1E5)
+ - ⏩ [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
+ - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
 
 ---
 
