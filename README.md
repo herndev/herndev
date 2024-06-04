@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To spice up your relationship](http://9gag.com/gag/amo0meX)
+ - 💣 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
  - ⏩ [The moment!](http://9gag.com/gag/aoy0R62)
- - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
+ - 👉 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)<!-- MEMES:END -->
 
 ---
 
