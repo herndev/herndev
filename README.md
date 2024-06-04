@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vox &lpar;Spanish Political Party&rpar; campaign for EU election. What Europe do you want?](http://9gag.com/gag/aE01Ajx)
- - ⏩ [That&#39;s how borders look like when your neighbours aren&#39;t assholes.](http://9gag.com/gag/aRBPMDQ)
- - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
+ - 💣 [Dude have knees of diamonds](http://9gag.com/gag/a7oyeAe)
+ - ⏩ [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 👉 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)<!-- MEMES:END -->
 
 ---
 
