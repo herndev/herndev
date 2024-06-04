@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China will be the first to retrieve soil samples from the far side of the Moon](https://www.theverge.com/2024/6/4/24171169/china-lunar-sample-far-side-moon-launch)
- - [Samsung leak reveals a cheaper Galaxy Watch](https://www.theverge.com/2024/6/4/24171225/samsung-galaxy-watch-fe-leak-cheaper)
- - [ChatGPT is down for the second time today](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)<!-- TECH:END -->
+ - [Former OpenAI employees say whistleblower protection on AI safety is not enough](https://www.theverge.com/2024/6/4/24171283/openai-safety-open-letter-whistleblower-agi)
+ - [Save up to $350 on every M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
+ - [The OnePlus 13 camera might not just be a disappointing rehash after all](https://www.androidauthority.com/oneplus-13-camera-update-3448759/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
