@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former OpenAI employees say whistleblower protection on AI safety is not enough](https://www.theverge.com/2024/6/4/24171283/openai-safety-open-letter-whistleblower-agi)
- - [Save up to $350 on every M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [The OnePlus 13 camera might not just be a disappointing rehash after all](https://www.androidauthority.com/oneplus-13-camera-update-3448759/)<!-- TECH:END -->
+ - [Apple Books now offers Reese&#39;s Book Club audiobook recommendations](https://appleinsider.com/articles/24/06/04/apple-books-now-offers-reeses-book-club-audiobook-recommendations?utm_medium=rss)
+ - [ChatGPT is back online after an outage](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)
+ - [Meta rolls out an update to &quot;significantly&quot; reduce Quest 3 passthrough distortion and warping, an experimental option to use wrist-mounted menu buttons, more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240604/p30#a240604p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
