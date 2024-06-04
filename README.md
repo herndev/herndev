@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
- - ⏩ [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 👉 [Jessie with her hair down is something](http://9gag.com/gag/ae904oj)<!-- MEMES:END -->
+ - 💣 [New Google](http://9gag.com/gag/a6ZyXOq)
+ - ⏩ [Come on do it](http://9gag.com/gag/ary4A1K)
+ - 👉 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)<!-- MEMES:END -->
 
 ---
 
