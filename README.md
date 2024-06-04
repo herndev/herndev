@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - ⏩ [Repost..](http://9gag.com/gag/azxE2QN)
- - 👉 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)<!-- MEMES:END -->
+ - 💣 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
+ - ⏩ [It used to, but now it&#39;s just for racists, propaganda and sh*t.. it&#39;s a place where people share hatred. I don&#39;t use it much anymore..](http://9gag.com/gag/aNDZ9qG)
+ - 👉 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)<!-- MEMES:END -->
 
 ---
 
