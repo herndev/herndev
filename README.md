@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Washington DC&#39;s AG says Michael Saylor and his company MicroStrategy will pay $40M to settle a tax suit, calling it &quot;the largest income tax recovery&quot; ever in DC &lpar;Kelly Phillips Erb/Forbes&rpar;](http://www.techmeme.com/240604/p33#a240604p33)
- - [Google can keep a phone if you send for repair with non-OEM parts &lpar;Update: Changing policy&rpar;](https://www.androidauthority.com/google-keeps-phones-with-non-oem-parts-3448350/)
- - [Google reverses course, says it won’t keep phones with non-OEM parts](https://www.androidauthority.com/google-says-it-wont-keep-your-phone-3448810/)<!-- TECH:END -->
+ - [HPE Q2: revenue up 3% YoY to $7.2B, vs. $6.82B est., Server revenue up 18% YoY to $3.87B, helped by availability of Nvidia AI chips; HPE jumps 10%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240604/p36#a240604p36)
+ - [This 42% discount on the Apple HomePod 2 blows other deals away](https://www.androidauthority.com/apple-homepod-2-deal-3448828/)
+ - [Gmail’s Gemini button gets an upgrade, can now summarize your emails, and more](https://www.androidauthority.com/gmail-gemini-button-update-3448815/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
