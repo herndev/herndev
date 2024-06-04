@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: China&#39;s internet had 3.9M websites in 2023, down ~27% from 2017; Chinese-language websites were 1.3% of the global total, down 70% from 4.3% in 2013 &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240604/p8#a240604p8)
- - [A look at the &quot;world&#39;s first beauty pageant for AI creators&quot;, launched in April 2024 by creator platform Fanvue, after 10 semifinalists were announced on June 3 &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/240604/p7#a240604p7)
- - [It’s not just you: ChatGPT is down for many users](https://www.androidauthority.com/chatgpt-is-down-for-users-3448619/)<!-- TECH:END -->
+ - [Inside the Biggest FBI Sting Operation in History](https://www.wired.com/story/inside-biggest-fbi-sting-operation-in-history/)
+ - [OpenAI says ChatGPT has been experiencing a major outage for several hours, starting at around 12:21am PDT; ChatGPT went down for over five hours on May 23 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240604/p10#a240604p10)
+ - [Raspberry Pi partners with chipmaker Hailo for its AI Kit, an add-on for the Raspberry Pi 5 that runs Hailo&#39;s Hailo-8L M.2 accelerator, available &quot;soon&quot; for $70 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240604/p9#a240604p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
