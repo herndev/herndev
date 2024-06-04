@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After nine months with Starlink, the Marubo, an Indigenous Amazon tribe, faces challenges like addiction and concerns about potential loss of cultural identity &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240604/p5#a240604p5)
- - [MSI announces Claw 8 AI+, its next-gen handheld, powered by Intel&#39;s Lunar Lake and comes with an 8&quot; screen, Thunderbolt 4 port, and a larger 80 Wh battery &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p4#a240604p4)
- - [Even Spotify could soon get its own Gemini Extension &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-google-gemini-extension-coming-soon-apk-teardown-3448585/)<!-- TECH:END -->
+ - [Even the Raspberry Pi is getting in on AI](https://www.theverge.com/2024/6/4/24170818/raspberry-pi-ai-chip-hailo-devices)
+ - [How new forms of neurotechnology, which uses computerized implants to interact with the brain and nervous system, are helping disabled people walk and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240604/p6#a240604p6)
+ - [After nine months with Starlink, the Marubo, an Indigenous Amazon tribe, faces challenges like addiction and concerns about potential loss of cultural identity &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240604/p5#a240604p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
