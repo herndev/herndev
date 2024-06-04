@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft&#39;s latest The War Within trailer has players simping hard for big baddie Xal&#39;atath—and I&#39;m not exactly surprised](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-s-latest-the-war-within-trailer-has-players-simping-hard-for-big-baddie-xal-atath-and-i-m-not-exactly-surprised)
- - [Destiny 2: The Final Shape Has Players Getting Emotional About The Last 10 Years](https://kotaku.com/destiny-the-final-shape-ten-years-tiktok-1851518305)
- - [A flood of reported privacy incidents from Google confirms, incidentally, that a Nintendo game leak from 2017 happened thanks to a YouTube contractor](https://www.pcgamer.com/gaming-industry/a-flood-of-reported-privacy-incidents-from-google-confirms-incidentally-that-a-nintendo-game-leak-from-2017-happened-thanks-to-a-youtube-contractor)<!-- GAME:END -->
+ - [I was feeling a little needy so I sought reassurance from Jen-Hsun Huang and he told me it&#39;s all okay: &#39;I love PC gamers&#39;](https://www.pcgamer.com/hardware/graphics-cards/i-was-feeling-a-little-needy-so-i-sought-reassurance-from-jen-hsun-huang-and-he-told-me-its-all-okay-i-love-pc-gamers)
+ - [This is not a drill: Noctua&#39;s best fan yet is actually coming out this June](https://www.pcgamer.com/hardware/cooling/this-is-not-a-drill-noctuas-best-fan-yet-is-actually-coming-out-this-june)
+ - [Ikea Is Hiring People To Serve Digital Meatballs In Its Roblox Store](https://kotaku.com/ikea-digital-store-roblox-staff-hiring-people-in-game-1851518600)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
