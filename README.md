@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It might be running in the 19-year-old GZDoom engine, but new cyberpunk FPS Selaco stands head and shoulders above its boomer shooter brethren](https://www.pcgamer.com/games/fps/it-might-be-running-in-the-19-year-old-gzdoom-engine-but-new-cyberpunk-fps-selaco-stands-head-and-shoulders-above-its-boomer-shooter-brethren)
- - [Summer Game Fest will focus on existing games, so don&#39;t hype yourself up for &#39;games that are years and years out,&#39; says Geoff Keighley](https://www.pcgamer.com/gaming-industry/summer-game-fest-will-focus-on-existing-games-so-dont-hyper-yourself-up-for-games-that-are-years-and-years-out-says-geoff-keighley)
- - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows [Update]](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)<!-- GAME:END -->
+ - [It&#39;s hard to complain about &#39;hero shooter fatigue&#39; when Concord looks this good](https://www.pcgamer.com/games/fps/its-hard-to-complain-about-hero-shooter-fatigue-when-concord-looks-this-good)
+ - [AMD&#39;s broken Computex AI demo again proves you can&#39;t trust everything an AI tells you](https://www.pcgamer.com/hardware/amds-broken-computex-ai-demo-again-proves-you-cant-trust-everything-an-ai-tells-you)
+ - [OTK Expo will show over 30 indie games on Tuesday as the June showcases kick off](https://www.pcgamer.com/gaming-industry/otk-expo-will-show-over-30-indie-games-on-tuesday-as-the-june-showcases-kick-off)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
