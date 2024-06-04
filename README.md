@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
- - ⏩ [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
- - 👉 [When 2 heavily armed jihadis tried to attack a draw mohamad&#39; contest, in Texas, they were un-alived within 3 seconds after getting out of their car. No Americans were injured and this was the winning drawing.](http://9gag.com/gag/aGyw8g0)<!-- MEMES:END -->
+ - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - ⏩ [Repost..](http://9gag.com/gag/azxE2QN)
+ - 👉 [Slick](http://9gag.com/gag/aGywyNZ)<!-- MEMES:END -->
 
 ---
 
