@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, June 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-4-2024)
- - [It&#39;s on: our first look at Intel Battlemage comes from Lunar Lake&#39;s new graphics silicon with its redesigned Xe2 architecture](https://www.pcgamer.com/hardware/graphics-cards/embargo-no-pubits-on-our-first-look-at-intel-battlemage-comes-from-lunar-lakes-new-graphics-silicon-with-its-redesigned-xe2-architecture)
- - [One thread per core: &#39;we can deliver better than Hyper-Threading performance without Hyper-Threading&#39; claims Intel for Lunar Lake](https://www.pcgamer.com/hardware/processors/one-thread-per-core-we-can-deliver-better-than-hyper-threading-performance-without-hyper-threading-claims-intel-for-lunar-lake)<!-- GAME:END -->
+ - [Kingston gave me my first glimpse of CAMM2 DDR5 desktop RAM at Computex 2024, along with some AI-gen race drivers and a very heavy F1 theme](https://www.pcgamer.com/hardware/memory/kingston-gave-me-my-first-glimpse-of-camm2-ddr5-ram-at-computex-2024-along-with-some-ai-gen-race-drivers-and-a-very-heavy-f1-theme)
+ - [Can Makuhita be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24170525/can-makuhita-be-shiny-hariyama)
+ - [Today&#39;s Wordle answer for Tuesday, June 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-4-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
