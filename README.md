@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Google](http://9gag.com/gag/a6ZyXOq)
- - ⏩ [Come on do it](http://9gag.com/gag/ary4A1K)
- - 👉 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)<!-- MEMES:END -->
+ - 💣 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - ⏩ [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
+ - 👉 [How big are the odds...](http://9gag.com/gag/aKGPAY6)<!-- MEMES:END -->
 
 ---
 
