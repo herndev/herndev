@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge &lpar;2024&rpar; launches with bigger battery and faster performance](https://www.androidauthority.com/motorola-edge-2024-launch-3448440/)
- - [Apple is still considering screens for AirPods charging cases](https://appleinsider.com/articles/24/06/04/apple-is-still-considering-screens-for-airpods-charging-cases?utm_medium=rss)
- - [How to Make Restaurant Quality Mac and Cheese in 10 Minutes     - CNET](https://www.cnet.com/how-to/how-to-make-restaurant-quality-mac-and-cheese-in-10-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple just corrected the M2 iPad Air’s core count](https://www.theverge.com/2024/6/4/24171100/apple-m2-ipad-air-gpu-core-count-correction)
+ - [Pick up the handy Baseus 67W Charging Station for just $42 &lpar;46% off&rpar;](https://www.androidauthority.com/baseus-67w-charging-station-deal-3448521/)
+ - [Netflix will stop working on older Apple TVs](https://www.theverge.com/2024/6/4/24171111/netflix-stop-support-old-apple-tv-2nd-3rd-generation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
