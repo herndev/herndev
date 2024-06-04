@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: ChatGPT is down for many users](https://www.androidauthority.com/chatgpt-is-down-for-users-3448619/)
- - [YouTube is testing AI-generated backgrounds for Shorts](https://www.androidauthority.com/youtube-testing-ai-backgrounds-shorts-3448604/)
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)<!-- TECH:END -->
+ - [Analysis: China&#39;s internet had 3.9M websites in 2023, down ~27% from 2017; Chinese-language websites were 1.3% of the global total, down 70% from 4.3% in 2013 &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240604/p8#a240604p8)
+ - [A look at the &quot;world&#39;s first beauty pageant for AI creators&quot;, launched in April 2024 by creator platform Fanvue, after 10 semifinalists were announced on June 3 &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/240604/p7#a240604p7)
+ - [It’s not just you: ChatGPT is down for many users](https://www.androidauthority.com/chatgpt-is-down-for-users-3448619/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
