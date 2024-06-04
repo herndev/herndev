@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Dapper Labs, maker of NBA Top Shot Moments NFTs, settles a class action lawsuit for $4M that alleged it violated laws by selling unregistered securities &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240603/p28#a240603p28)
- - [Microsoft layoffs hit HoloLens, Azure cloud teams](https://www.theverge.com/2024/6/3/24170902/microsoft-hololens-2-mixed-reality-azure-layoffs)
- - [I Tried Green Chef. See How I Liked These Healthy, Organic Meal Kits     - CNET](https://www.cnet.com/health/nutrition/green-chef-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use the Reader Mode in Safari on iPad](https://appleinsider.com/inside/ipados/tips/how-to-use-the-reader-mode-in-safari-on-ipad?utm_medium=rss)
+ - [Spatial audio will be even more immersive in Android 15](https://www.androidauthority.com/android-15-dynamic-spatial-audio-3448518/)
+ - [Official: The MSI Claw 8 AI Plus has an Asus-matching 80Wh battery and Intel Lunar Lake](https://www.theverge.com/2024/6/3/24170904/msi-claw-8-ai-plus-lunar-lake-battery-computex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
