@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice try buddy](http://9gag.com/gag/avyg1E5)
- - ⏩ [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
+ - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - ⏩ [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
+ - 👉 [Still would](http://9gag.com/gag/a9yL6YL)<!-- MEMES:END -->
 
 ---
 
