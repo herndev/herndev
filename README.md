@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s latest processor is mostly made by its biggest manufacturing rival because it had &#39;a better process technology at that point in time&#39;](https://www.pcgamer.com/hardware/processors/intels-latest-processor-is-made-by-its-biggest-manufacturing-rival-because-it-had-a-better-process-technology-at-that-point-in-time)
  - [Kingston gave me my first glimpse of CAMM2 DDR5 desktop RAM at Computex 2024, along with some AI-gen race drivers and a very heavy F1 theme](https://www.pcgamer.com/hardware/memory/kingston-gave-me-my-first-glimpse-of-camm2-ddr5-ram-at-computex-2024-along-with-some-ai-gen-race-drivers-and-a-very-heavy-f1-theme)
- - [Can Makuhita be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24170525/can-makuhita-be-shiny-hariyama)
- - [Today&#39;s Wordle answer for Tuesday, June 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-4-2024)<!-- GAME:END -->
+ - [Can Makuhita be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24170525/can-makuhita-be-shiny-hariyama)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
