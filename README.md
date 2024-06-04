@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s Jen-Hsun Huang reflects on how AI already creates pixels and entire frames, before saying that &#39;games will be generated with AI&#39;](https://www.pcgamer.com/software/ai/nvidias-jen-hsun-huang-reflects-on-how-ai-already-creates-pixels-and-entire-frames-before-saying-that-games-will-be-generated-with-ai)
- - [10 Hopes And Predictions For Summer Game Fest](https://kotaku.com/summer-game-fest-predictions-dragon-age-hideo-kojima-1851518239)
- - [Genshin Impact Clorinde build—The best artifacts and weapons](https://www.pcgamer.com/games/rpg/genshin-impact-clorinde-build)<!-- GAME:END -->
+ - [World of Warcraft&#39;s latest The War Within trailer has players simping hard for big baddie Xal&#39;atath—and I&#39;m not exactly surprised](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-s-latest-the-war-within-trailer-has-players-simping-hard-for-big-baddie-xal-atath-and-i-m-not-exactly-surprised)
+ - [Destiny 2: The Final Shape Has Players Getting Emotional About The Last 10 Years](https://kotaku.com/destiny-the-final-shape-ten-years-tiktok-1851518305)
+ - [A flood of reported privacy incidents from Google confirms, incidentally, that a Nintendo game leak from 2017 happened thanks to a YouTube contractor](https://www.pcgamer.com/gaming-industry/a-flood-of-reported-privacy-incidents-from-google-confirms-incidentally-that-a-nintendo-game-leak-from-2017-happened-thanks-to-a-youtube-contractor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
