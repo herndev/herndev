@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hades 2&#39;s latest patch drops the nerf hammer on everyone&#39;s favorite overpowered build, but players are surprisingly cool with it](https://www.pcgamer.com/games/roguelike/hades-2s-latest-patch-drops-the-nerf-hammer-on-everyones-favorite-overpowered-build-but-players-are-surprisingly-cool-with-it)
  - [Hades 2&#39;s Biggest Early Access Patch Yet Just Made A Bunch Of Weapons Stronger](https://kotaku.com/hades-2-patch-notes-buff-chronos-steam-early-access-1851519615)
- - [Over 200k Team Fortress 2 Fans Want Valve To Fix The Game](https://kotaku.com/tf2-team-fortress-bots-valve-fan-petition-fix-pc-fixtf2-1851519583)
- - [Ultrakill dev says it&#39;s fine to pirate his game if you don&#39;t have money to spare: &#39;Culture shouldn&#39;t exist only for those who can afford it&#39;](https://www.pcgamer.com/gaming-industry/ultrakill-dev-says-its-fine-to-pirate-his-game-if-you-dont-have-money-to-spare-culture-shouldnt-exist-only-for-those-who-can-afford-it)<!-- GAME:END -->
+ - [Over 200k Team Fortress 2 Fans Want Valve To Fix The Game](https://kotaku.com/tf2-team-fortress-bots-valve-fan-petition-fix-pc-fixtf2-1851519583)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
