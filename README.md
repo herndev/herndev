@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 16 Pro to Have Thinnest Bezels Yet, Report Says     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-16-pro-to-have-thinnest-bezels-yet-report-says/#ftag=CAD590a51e)
- - [Best Keurig Coffee Makers for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-keurig-coffee-makers/#ftag=CAD590a51e)
- - [AT&amp;T Is Having an Outage With Calls Not Going Through to Other Carriers     - CNET](https://www.cnet.com/tech/mobile/att-is-having-an-outage-with-calls-not-going-through-to-other-carriers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple will give up to $200 for Apple Card Family sign ups](https://appleinsider.com/articles/24/06/04/apple-will-give-up-to-200-for-apple-card-family-sign-ups?utm_medium=rss)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [AT&amp;T Is Having an Issue With Calls Not Going Through to Other Carriers     - CNET](https://www.cnet.com/tech/mobile/att-is-having-an-issue-with-calls-not-going-through-to-other-carriers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
