@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation VR2 players can access games on PC with adapter starting on August 7](https://blog.playstation.com/2024/06/04/20240604-psvr2/)
- - [Intel&#39;s latest processor is mostly made by its biggest manufacturing rival because it had &#39;a better process technology at that point in time&#39;](https://www.pcgamer.com/hardware/processors/intels-latest-processor-is-made-by-its-biggest-manufacturing-rival-because-it-had-a-better-process-technology-at-that-point-in-time)
- - [Kingston gave me my first glimpse of CAMM2 DDR5 desktop RAM at Computex 2024, along with some AI-gen race drivers and a very heavy F1 theme](https://www.pcgamer.com/hardware/memory/kingston-gave-me-my-first-glimpse-of-camm2-ddr5-ram-at-computex-2024-along-with-some-ai-gen-race-drivers-and-a-very-heavy-f1-theme)<!-- GAME:END -->
+ - [D&amp;D&#39;s Wizards of the Coast come under fire for AI &lpar;again&rpar; after advertising for a &#39;principal AI engineer&#39;, but insists &#39;our stance on AI hasn&#39;t changed&#39; since videogames don&#39;t count](https://www.pcgamer.com/games/rpg/d-d-s-wizards-of-the-coast-come-under-fire-for-ai-again-after-advertising-for-a-principal-ai-engineer-but-insists-our-stance-on-ai-hasn-t-changed-since-videogames-don-t-count)
+ - [Witness the mighty Noctua power supply](https://www.pcgamer.com/hardware/power-supplies/witness-the-mighty-noctua-power-supply)
+ - [&lpar;For Southeast Asia&rpar; PlayStation VR2 players can access games on PC with adapter starting on August 7](https://blog.playstation.com/2024/06/04/20240604-psvr2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
