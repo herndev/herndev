@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Books now offers Reese&#39;s Book Club audiobook recommendations](https://appleinsider.com/articles/24/06/04/apple-books-now-offers-reeses-book-club-audiobook-recommendations?utm_medium=rss)
- - [ChatGPT is back online after an outage](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)
- - [Meta rolls out an update to &quot;significantly&quot; reduce Quest 3 passthrough distortion and warping, an experimental option to use wrist-mounted menu buttons, more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240604/p30#a240604p30)<!-- TECH:END -->
+ - [Evidence suggests Google scaled back AI Overview search results compared to original rollout](https://www.androidauthority.com/ai-overview-scaled-back-3448793/)
+ - [YouTube’s ‘like’ button is disappearing when you press it](https://www.theverge.com/2024/6/4/24171475/youtube-like-button-thumbs-up-disappearing-bug)
+ - [GetWhy, a market research AI company that was founded in 2011 as UserTribe and extracts insights from video interviews, raised a $34.5M Series A &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240604/p31#a240604p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
