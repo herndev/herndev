@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even the Raspberry Pi is getting in on AI](https://www.theverge.com/2024/6/4/24170818/raspberry-pi-ai-chip-hailo-devices)
- - [How new forms of neurotechnology, which uses computerized implants to interact with the brain and nervous system, are helping disabled people walk and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240604/p6#a240604p6)
- - [After nine months with Starlink, the Marubo, an Indigenous Amazon tribe, faces challenges like addiction and concerns about potential loss of cultural identity &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240604/p5#a240604p5)<!-- TECH:END -->
+ - [It’s not just you: ChatGPT is down for many users](https://www.androidauthority.com/chatgpt-is-down-for-users-3448619/)
+ - [YouTube is testing AI-generated backgrounds for Shorts](https://www.androidauthority.com/youtube-testing-ai-backgrounds-shorts-3448604/)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
