@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I was feeling a little needy so I sought reassurance from Jen-Hsun Huang and he told me it&#39;s all okay: &#39;I love PC gamers&#39;](https://www.pcgamer.com/hardware/graphics-cards/i-was-feeling-a-little-needy-so-i-sought-reassurance-from-jen-hsun-huang-and-he-told-me-its-all-okay-i-love-pc-gamers)
- - [This is not a drill: Noctua&#39;s best fan yet is actually coming out this June](https://www.pcgamer.com/hardware/cooling/this-is-not-a-drill-noctuas-best-fan-yet-is-actually-coming-out-this-june)
- - [Ikea Is Hiring People To Serve Digital Meatballs In Its Roblox Store](https://kotaku.com/ikea-digital-store-roblox-staff-hiring-people-in-game-1851518600)<!-- GAME:END -->
+ - [I tried to recreate Marvel&#39;s Iron Man in this movie studio sim, and my version was so bad my own father stormed out of the theater](https://www.pcgamer.com/games/sim/i-tried-to-recreate-marvels-iron-man-in-this-movie-studio-sim-and-my-version-was-so-bad-my-own-father-stormed-out-of-the-theater)
+ - [You have just three more days to get the entire Talisman collection for $10](https://www.polygon.com/24171200/talisman-tabletop-card-game-humble-bundle-deal)
+ - [Which Enemies Are Worth Morphing In Final Fantasy VII Rebirth?](https://kotaku.com/final-fantasy-7-ff7-rebirth-morph-crafting-1851518948)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
