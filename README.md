@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - ⏩ [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - 👉 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)<!-- MEMES:END -->
+ - 💣 [Sixty nine days with her and her husband](http://9gag.com/gag/aLnP46M)
+ - ⏩ [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 👉 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)<!-- MEMES:END -->
 
 ---
 
