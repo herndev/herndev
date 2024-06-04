@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
- - ⏩ [Nobody reading this?](http://9gag.com/gag/aXPpn62)
- - 👉 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)<!-- MEMES:END -->
+ - 💣 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - ⏩ [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 👉 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)<!-- MEMES:END -->
 
 ---
 
