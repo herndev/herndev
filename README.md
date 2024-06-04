@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mutant Year Zero: Zone Wars is the year’s goofiest tabletop skirmish game](https://www.polygon.com/tabletop-games/24168167/mutant-year-zero-zone-wars-review)
- - [Tactical Breach Wizards, a turn-based strategy game about spec-ops casters with a habit of throwing people out of windows, has a free demo after years in the cauldron](https://www.pcgamer.com/games/strategy/tactical-breach-wizards-a-turn-based-strategy-game-about-spec-ops-casters-with-a-habit-of-throwing-people-out-of-windows-has-a-free-demo-after-years-in-the-cauldron)
- - [Developer of the latest anime gacha hit apologises 5 times for launch issues in a single letter and doles out in-game treats like candy](https://www.pcgamer.com/games/rpg/developer-of-the-latest-anime-gacha-hit-apologises-5-times-for-launch-issues-in-a-single-letter-and-doles-out-in-game-treats-like-candy)<!-- GAME:END -->
+ - [13 Things Every Elden Ring Fan Should Know About Shadow of the Erdtree](https://news.xbox.com/en-us/2024/06/04/elden-ring-shadow-erdtree-preview/)
+ - [MrBeast is now Mr Has The Most YouTube Subscribers](https://www.pcgamer.com/hardware/streaming/mrbeast-is-now-mr-has-the-most-youtube-subscribers)
+ - [Hyte is claiming its new AIO CPU cooler to be the quietest and coolest ever made](https://www.pcgamer.com/hardware/cooling/hyte-is-claiming-its-new-aio-cpu-cooler-to-be-the-quietest-and-coolest-ever-made)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
