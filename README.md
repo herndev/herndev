@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13-inch iPad Pro review: hardware of the future running software of the past](https://appleinsider.com/articles/24/06/04/13-inch-ipad-pro-review-hardware-of-the-future-running-software-of-the-past?utm_medium=rss)
- - [English soccer team Watford is offering 10% digital equity in the club to investors and fans via Republic&#39;s investment platform Seedrs, aiming to raise &amp;pound;17.5M &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240604/p18#a240604p18)
- - [Palmer Luckey unveils the $199 ModRetro Chromatic, a take on the Nintendo Game Boy, with USB-C video out and a 1,000+ nits custom screen, shipping this holiday &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p17#a240604p17)<!-- TECH:END -->
+ - [Motorola Edge &lpar;2024&rpar; launches with bigger battery and faster performance](https://www.androidauthority.com/motorola-edge-2024-launch-3448440/)
+ - [Apple is still considering screens for AirPods charging cases](https://appleinsider.com/articles/24/06/04/apple-is-still-considering-screens-for-airpods-charging-cases?utm_medium=rss)
+ - [How to Make Restaurant Quality Mac and Cheese in 10 Minutes     - CNET](https://www.cnet.com/how-to/how-to-make-restaurant-quality-mac-and-cheese-in-10-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
