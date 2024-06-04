@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evidence suggests Google scaled back AI Overview search results compared to original rollout](https://www.androidauthority.com/ai-overview-scaled-back-3448793/)
- - [YouTube’s ‘like’ button is disappearing when you press it](https://www.theverge.com/2024/6/4/24171475/youtube-like-button-thumbs-up-disappearing-bug)
- - [GetWhy, a market research AI company that was founded in 2011 as UserTribe and extracts insights from video interviews, raised a $34.5M Series A &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240604/p31#a240604p31)<!-- TECH:END -->
+ - [Washington DC&#39;s AG says Michael Saylor and his company MicroStrategy will pay $40M to settle a tax suit, calling it &quot;the largest income tax recovery&quot; ever in DC &lpar;Kelly Phillips Erb/Forbes&rpar;](http://www.techmeme.com/240604/p33#a240604p33)
+ - [Google can keep a phone if you send for repair with non-OEM parts &lpar;Update: Changing policy&rpar;](https://www.androidauthority.com/google-keeps-phones-with-non-oem-parts-3448350/)
+ - [Google reverses course, says it won’t keep phones with non-OEM parts](https://www.androidauthority.com/google-says-it-wont-keep-your-phone-3448810/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
