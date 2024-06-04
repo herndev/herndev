@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Biggest FBI Sting Operation in History](https://www.wired.com/story/inside-biggest-fbi-sting-operation-in-history/)
- - [OpenAI says ChatGPT has been experiencing a major outage for several hours, starting at around 12:21am PDT; ChatGPT went down for over five hours on May 23 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240604/p10#a240604p10)
- - [Raspberry Pi partners with chipmaker Hailo for its AI Kit, an add-on for the Raspberry Pi 5 that runs Hailo&#39;s Hailo-8L M.2 accelerator, available &quot;soon&quot; for $70 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240604/p9#a240604p9)<!-- TECH:END -->
+ - [Enjoy Solid Sound Quality for $60 With This Edifier Headphone Deal     - CNET](https://www.cnet.com/deals/enjoy-solid-sound-quality-for-60-with-this-edifier-headphone-deal/#ftag=CAD590a51e)
+ - [How China&#39;s chip industry is aiming for self-sufficiency and cutting down on US tools; SEMI estimates China represented 33% of all chip equipment sales in 2023 &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/240604/p14#a240604p14)
+ - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
