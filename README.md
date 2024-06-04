@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HPE Q2: revenue up 3% YoY to $7.2B, vs. $6.82B est., Server revenue up 18% YoY to $3.87B, helped by availability of Nvidia AI chips; HPE jumps 10%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240604/p36#a240604p36)
- - [This 42% discount on the Apple HomePod 2 blows other deals away](https://www.androidauthority.com/apple-homepod-2-deal-3448828/)
- - [Gmail’s Gemini button gets an upgrade, can now summarize your emails, and more](https://www.androidauthority.com/gmail-gemini-button-update-3448815/)<!-- TECH:END -->
+ - [Apple iPhone 16 Pro to Have Thinnest Bezels Yet, Report Says     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-16-pro-to-have-thinnest-bezels-yet-report-says/#ftag=CAD590a51e)
+ - [Best Keurig Coffee Makers for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-keurig-coffee-makers/#ftag=CAD590a51e)
+ - [AT&amp;T Is Having an Outage With Calls Not Going Through to Other Carriers     - CNET](https://www.cnet.com/tech/mobile/att-is-having-an-outage-with-calls-not-going-through-to-other-carriers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
