@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - ⏩ [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - 👉 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)<!-- MEMES:END -->
+ - 💣 [Vox &lpar;Spanish Political Party&rpar; campaign for EU election. What Europe do you want?](http://9gag.com/gag/aE01Ajx)
+ - ⏩ [That&#39;s how borders look like when your neighbours aren&#39;t assholes.](http://9gag.com/gag/aRBPMDQ)
+ - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
 
 ---
 
