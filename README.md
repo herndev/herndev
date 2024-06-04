@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [13 Things Every Elden Ring Fan Should Know About Shadow of the Erdtree](https://news.xbox.com/en-us/2024/06/04/elden-ring-shadow-erdtree-preview/)
- - [MrBeast is now Mr Has The Most YouTube Subscribers](https://www.pcgamer.com/hardware/streaming/mrbeast-is-now-mr-has-the-most-youtube-subscribers)
- - [Hyte is claiming its new AIO CPU cooler to be the quietest and coolest ever made](https://www.pcgamer.com/hardware/cooling/hyte-is-claiming-its-new-aio-cpu-cooler-to-be-the-quietest-and-coolest-ever-made)<!-- GAME:END -->
+ - [Nvidia&#39;s Jen-Hsun Huang reflects on how AI already creates pixels and entire frames, before saying that &#39;games will be generated with AI&#39;](https://www.pcgamer.com/software/ai/nvidias-jen-hsun-huang-reflects-on-how-ai-already-creates-pixels-and-entire-frames-before-saying-that-games-will-be-generated-with-ai)
+ - [10 Hopes And Predictions For Summer Game Fest](https://kotaku.com/summer-game-fest-predictions-dragon-age-hideo-kojima-1851518239)
+ - [Genshin Impact Clorinde build—The best artifacts and weapons](https://www.pcgamer.com/games/rpg/genshin-impact-clorinde-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
