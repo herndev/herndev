@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Universal Pictures’ “The Thing” Was Transformed into Funko Fusion](https://news.xbox.com/en-us/2024/06/04/universal-pictures-the-thing-transformed-funko-fusion/)
- - [The best scenes from Studio Ghibli movies](https://www.polygon.com/animation-cartoons/2020/5/29/21273972/best-studio-ghibli-movies-scenes)
- - [Less than 6 months after laying off 40 employees, Dead by Daylight studio Behaviour Interactive drops another 95](https://www.pcgamer.com/gaming-industry/less-than-6-months-after-laying-off-40-employees-dead-by-daylight-studio-behaviour-interactive-drops-another-95)<!-- GAME:END -->
+ - [Meet PC Game Pass’ Summer Curator, Content Creator Cupquake](https://news.xbox.com/en-us/2024/06/04/pc-game-pass-summer-curator-cupquake/)
+ - [Someone Is Finally Making The SSX Tricky Successor I&#39;ve Been Waiting For](https://kotaku.com/ssx-spiritual-successor-tricky-madness-demo-steam-1851519350)
+ - [The future of gaming belongs to weird, little games](https://www.pcgamer.com/gaming-industry/the-future-of-gaming-belongs-to-weird-little-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
