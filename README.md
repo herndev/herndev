@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet PC Game Pass’ Summer Curator, Content Creator Cupquake](https://news.xbox.com/en-us/2024/06/04/pc-game-pass-summer-curator-cupquake/)
- - [Someone Is Finally Making The SSX Tricky Successor I&#39;ve Been Waiting For](https://kotaku.com/ssx-spiritual-successor-tricky-madness-demo-steam-1851519350)
- - [The future of gaming belongs to weird, little games](https://www.pcgamer.com/gaming-industry/the-future-of-gaming-belongs-to-weird-little-games)<!-- GAME:END -->
+ - [After two years of silence, Metal Slug Tactics returns with a new trailer and a promise that it&#39;s coming this fall](https://www.pcgamer.com/movies-tv/after-two-years-of-silence-metal-slug-tactics-returns-with-a-new-trailer-and-a-promise-that-its-coming-this-fall)
+ - [Bad Boys: Ride or Die has a troubling case of franchise cancer](https://www.polygon.com/reviews/24171554/bad-boys-ride-or-die-review-will-smith-martin-lawrence)
+ - [I tried to recreate Marvel&#39;s Iron Man in this movie studio sim, and my version was so bad my own father stormed out of the theater](https://www.pcgamer.com/games/sim/i-tried-to-recreate-marvels-iron-man-in-this-movie-studio-sim-and-my-version-was-so-bad-my-own-father-stormed-out-of-the-theater)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
