@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enjoy Solid Sound Quality for $60 With This Edifier Headphone Deal     - CNET](https://www.cnet.com/deals/enjoy-solid-sound-quality-for-60-with-this-edifier-headphone-deal/#ftag=CAD590a51e)
- - [How China&#39;s chip industry is aiming for self-sufficiency and cutting down on US tools; SEMI estimates China represented 33% of all chip equipment sales in 2023 &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/240604/p14#a240604p14)
- - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)<!-- TECH:END -->
+ - [13-inch iPad Pro review: hardware of the future running software of the past](https://appleinsider.com/articles/24/06/04/13-inch-ipad-pro-review-hardware-of-the-future-running-software-of-the-past?utm_medium=rss)
+ - [English soccer team Watford is offering 10% digital equity in the club to investors and fans via Republic&#39;s investment platform Seedrs, aiming to raise &amp;pound;17.5M &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240604/p18#a240604p18)
+ - [Palmer Luckey unveils the $199 ModRetro Chromatic, a take on the Nintendo Game Boy, with USB-C video out and a 1,000+ nits custom screen, shipping this holiday &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p17#a240604p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
