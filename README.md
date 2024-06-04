@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Launch of OnePlus Pad 2, Watch 3, and other products reportedly delayed](https://www.androidauthority.com/oneplus-pad-2-delayed-3448509/)
- - [ASML opens a test laboratory for its High NA EUV machine with Belgium&#39;s Imec in the Netherlands, and expects customers to use it for manufacturing in 2025-2026 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240603/p25#a240603p25)
- - [Deal: The Samsung Galaxy Tab S9 Plus plunges by over $250](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-plus-3448472/)<!-- TECH:END -->
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
+ - [Samsung sues Oura, seeking a declaratory judgment that the Galaxy Ring, expected to launch in the US &quot;in or around August&quot;, doesn&#39;t infringe on Oura&#39;s patents &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240603/p26#a240603p26)
+ - [Hardy Houseplants: These 9 Indoor Plants Are Impossible to Kill     - CNET](https://www.cnet.com/news/hardy-houseplants-these-9-indoor-plants-are-impossible-to-kill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
