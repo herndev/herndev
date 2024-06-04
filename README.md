@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung offers fix for sluggish apps after Google Play System update](https://www.androidauthority.com/samsung-fix-for-slow-apps-3448705/)
- - [You can already buy iPhone 16 cases, but you probably shouldn&#39;t](https://appleinsider.com/articles/24/06/04/you-can-already-buy-iphone-16-cases-but-you-probably-shouldnt?utm_medium=rss)
- - [Apple TV+ tries to become the first US streamer in China](https://appleinsider.com/articles/24/06/04/apple-tv-tries-to-become-the-first-us-streamer-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [China will be the first to retrieve soil samples from the far side of the Moon](https://www.theverge.com/2024/6/4/24171169/china-lunar-sample-far-side-moon-launch)
+ - [Samsung leak reveals a cheaper Galaxy Watch](https://www.theverge.com/2024/6/4/24171225/samsung-galaxy-watch-fe-leak-cheaper)
+ - [ChatGPT is down for the second time today](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
