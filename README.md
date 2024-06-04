@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - ⏩ [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 💣 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - ⏩ [How big are the odds...](http://9gag.com/gag/aKGPAY6)
  - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
 
 ---
