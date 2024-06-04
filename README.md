@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The Flame is lit&#39;: Dark Souls is getting a new manga and all I&#39;m hoping for is something more horrifying than Elden Ring&#39;s one](https://www.pcgamer.com/games/rpg/the-flame-is-lit-dark-souls-is-getting-a-new-manga-and-all-im-hoping-for-is-something-more-horrifying-than-elden-rings-one)
- - [Intel says it&#39;s happy to make the very Arm chips that threaten its x86 hegemony](https://www.pcgamer.com/hardware/processors/intel-says-its-happy-to-make-the-very-arm-chips-that-threaten-its-x86-hegemony)
- - [Sony&#39;s PSVR 2 virtual reality headset will get an adaptor for PCs this summer but its best features will remain exclusive to PlayStation](https://www.pcgamer.com/hardware/vr-hardware/sonys-psvr-2-virtual-reality-headset-will-get-an-adaptor-for-pcs-this-summer-but-its-best-features-will-remain-exclusive-to-playstation)<!-- GAME:END -->
+ - [Mutant Year Zero: Zone Wars is the year’s goofiest tabletop skirmish game](https://www.polygon.com/tabletop-games/24168167/mutant-year-zero-zone-wars-review)
+ - [Tactical Breach Wizards, a turn-based strategy game about spec-ops casters with a habit of throwing people out of windows, has a free demo after years in the cauldron](https://www.pcgamer.com/games/strategy/tactical-breach-wizards-a-turn-based-strategy-game-about-spec-ops-casters-with-a-habit-of-throwing-people-out-of-windows-has-a-free-demo-after-years-in-the-cauldron)
+ - [Developer of the latest anime gacha hit apologises 5 times for launch issues in a single letter and doles out in-game treats like candy](https://www.pcgamer.com/games/rpg/developer-of-the-latest-anime-gacha-hit-apologises-5-times-for-launch-issues-in-a-single-letter-and-doles-out-in-game-treats-like-candy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
