@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I tried to recreate Marvel&#39;s Iron Man in this movie studio sim, and my version was so bad my own father stormed out of the theater](https://www.pcgamer.com/games/sim/i-tried-to-recreate-marvels-iron-man-in-this-movie-studio-sim-and-my-version-was-so-bad-my-own-father-stormed-out-of-the-theater)
- - [You have just three more days to get the entire Talisman collection for $10](https://www.polygon.com/24171200/talisman-tabletop-card-game-humble-bundle-deal)
- - [Which Enemies Are Worth Morphing In Final Fantasy VII Rebirth?](https://kotaku.com/final-fantasy-7-ff7-rebirth-morph-crafting-1851518948)<!-- GAME:END -->
+ - [How Universal Pictures’ “The Thing” Was Transformed into Funko Fusion](https://news.xbox.com/en-us/2024/06/04/universal-pictures-the-thing-transformed-funko-fusion/)
+ - [The best scenes from Studio Ghibli movies](https://www.polygon.com/animation-cartoons/2020/5/29/21273972/best-studio-ghibli-movies-scenes)
+ - [Less than 6 months after laying off 40 employees, Dead by Daylight studio Behaviour Interactive drops another 95](https://www.pcgamer.com/gaming-industry/less-than-6-months-after-laying-off-40-employees-dead-by-daylight-studio-behaviour-interactive-drops-another-95)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
