@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple just corrected the M2 iPad Air’s core count](https://www.theverge.com/2024/6/4/24171100/apple-m2-ipad-air-gpu-core-count-correction)
- - [Pick up the handy Baseus 67W Charging Station for just $42 &lpar;46% off&rpar;](https://www.androidauthority.com/baseus-67w-charging-station-deal-3448521/)
- - [Netflix will stop working on older Apple TVs](https://www.theverge.com/2024/6/4/24171111/netflix-stop-support-old-apple-tv-2nd-3rd-generation)<!-- TECH:END -->
+ - [Samsung offers fix for sluggish apps after Google Play System update](https://www.androidauthority.com/samsung-fix-for-slow-apps-3448705/)
+ - [You can already buy iPhone 16 cases, but you probably shouldn&#39;t](https://appleinsider.com/articles/24/06/04/you-can-already-buy-iphone-16-cases-but-you-probably-shouldnt?utm_medium=rss)
+ - [Apple TV+ tries to become the first US streamer in China](https://appleinsider.com/articles/24/06/04/apple-tv-tries-to-become-the-first-us-streamer-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
