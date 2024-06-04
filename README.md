@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well she&#39;s right](http://9gag.com/gag/avygWKq)
+ - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
  - ⏩ [\u201cThis is our country, and we want it back.\u201d](http://9gag.com/gag/an7KRBL)
- - 👉 [This will be the most downloaded mod for GoWR on PC](http://9gag.com/gag/azxEPDK)<!-- MEMES:END -->
+ - 👉 [Always has been, but i do get why](http://9gag.com/gag/awyK1yD)<!-- MEMES:END -->
 
 ---
 
